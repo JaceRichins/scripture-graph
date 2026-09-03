@@ -76,12 +76,12 @@ cssclasses:
 > [[Ezekiel 3#^ezek-3-6|Ezek. 3:6]] · [[Job 2#^job-2-8|Job 2:8]] · [[Job 42#^job-42-6|42:6]] · [[Luke 10#^luke-10-13|≈ Luke 10:13]]
 
 ![[Matthew 11#^matt-11-22]]
-> [[D&C 45#^dc-45-54|D&amp;C 45:54]] · [[D&C 75#^dc-75-22|75:22]] · [[Luke 10#^luke-10-14|≈ Luke 10:14]] · [[Matthew 10#^matt-10-15|≈ Matthew 10:15]] · [[Mark 6#^mark-6-11|≈ Mark 6:11]] · [[Alma 9#^alma-9-15|≈ Alma 9:15]] · [[D&C 75#^dc-75-22|≈ D&C 75:22]]
+> [[D&C 45#^dc-45-54|D&amp;C 45:54]] · [[D&C 75#^dc-75-22|75:22]] · [[Alma 9#^alma-9-15|≈ Alma 9:15]] · [[D&C 75#^dc-75-22|≈ D&C 75:22]] · [[Luke 10#^luke-10-14|≈ Luke 10:14]] · [[Matthew 10#^matt-10-15|≈ Matthew 10:15]] · [[Mark 6#^mark-6-11|≈ Mark 6:11]]
 
 ![[Matthew 11#^matt-11-23]]
 
 ![[Matthew 11#^matt-11-24]]
-> [[Ezekiel 16#^ezek-16-48|Ezek. 16:48]] · [[Luke 10#^luke-10-12|≈ Luke 10:12]] · [[Matthew 10#^matt-10-15|≈ Matthew 10:15]] · [[Mark 6#^mark-6-11|≈ Mark 6:11]] · [[Alma 9#^alma-9-15|≈ Alma 9:15]] · [[D&C 75#^dc-75-22|≈ D&C 75:22]]
+> [[Ezekiel 16#^ezek-16-48|Ezek. 16:48]] · [[Alma 9#^alma-9-15|≈ Alma 9:15]] · [[D&C 75#^dc-75-22|≈ D&C 75:22]] · [[Luke 10#^luke-10-12|≈ Luke 10:12]] · [[Matthew 10#^matt-10-15|≈ Matthew 10:15]] · [[Mark 6#^mark-6-11|≈ Mark 6:11]]
 
 ![[Matthew 11#^matt-11-25]]
 > [[Luke 10#^luke-10-21|Luke 10:21]] · [[Matthew 13#^matt-13-11|Matt. 13:11]] · [[D&C 6#^dc-6-11|D&amp;C 6:11 (11–12)]] · [[Alma 32#^alma-32-23|Alma 32:23]] · [[D&C 133#^dc-133-58|D&amp;C 133:58]] · [[2 Nephi 9#^2ne-9-42|2 Ne. 9:42 (42–43)]] · [[3 Nephi 26#^3ne-26-14|3 Ne. 26:16 (14–16)]] · [[D&C 128#^dc-128-18|D&amp;C 128:18]] · [[Luke 10#^luke-10-21|≈ Luke 10:21]]

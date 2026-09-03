@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 8
 slug: moses-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 6]] — 10 footnote cross-references (from [[Moses 8#^moses-8-13|Moses 8:13]])
+- [[Moses 7]] — 5 footnote cross-references (from [[Moses 8#^moses-8-1|Moses 8:1]])
+- [[Moses 6]] — 3 footnote cross-references (from [[Moses 8#^moses-8-3|Moses 8:3]])
+- [[Genesis 7]] — 3 footnote cross-references (from [[Moses 8#^moses-8-13|Moses 8:13]])
+- [[Genesis 5]] — 2 footnote cross-references (from [[Moses 8#^moses-8-12|Moses 8:12]])
+- [[Abraham 1]] — 2 footnote cross-references (from [[Moses 8#^moses-8-12|Moses 8:12]])
+- [[Genesis 6]] — 10 parallel verses, e.g. [[Moses 8#^moses-8-26|Moses 8:26]] ↔ [[Genesis 6#^gen-6-7|Genesis 6:7]]
 - [[Genesis 5]] — 6 parallel verses, e.g. [[Moses 8#^moses-8-9|Moses 8:9]] ↔ [[Genesis 5#^gen-5-29|Genesis 5:29]]
 - [[D&C 3]] — 1 parallel verse, e.g. [[Moses 8#^moses-8-2|Moses 8:2]] ↔ [[D&C 3#^dc-3-19|D&C 3:19]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Moses 8#^moses-8-24|Moses 8:24]] ↔ [[Mormon 9#^morm-9-29|Mormon 9:29]]
@@ -54,7 +61,6 @@ _Not yet developed._
 - [[D&C 49]] — 1 parallel verse, e.g. [[Moses 8#^moses-8-24|Moses 8:24]] ↔ [[D&C 49#^dc-49-13|D&C 49:13]]
 - [[Alma 47]] — 1 parallel verse, e.g. [[Moses 8#^moses-8-19|Moses 8:19]] ↔ [[Alma 47#^alma-47-3|Alma 47:3]]
 - [[Moses 6]] — 0 parallel verses
-- [[Genesis 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

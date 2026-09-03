@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 9
 slug: luke-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,9 @@ _Not yet developed._
 - [[Mark 6]] — 4 parallel verses, e.g. [[Luke 9#^luke-9-13|Luke 9:13]] ↔ [[Mark 6#^mark-6-37|Mark 6:37]]
 - [[Luke 17]] — 2 parallel verses, e.g. [[Luke 9#^luke-9-57|Luke 9:57]] ↔ [[Luke 17#^luke-17-14|Luke 17:14]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[Luke 9#^luke-9-35|Luke 9:35]] ↔ [[D&C 93#^dc-93-15|D&C 93:15]]
+- [[2 Kings 1]] — 0 parallel verses
+- [[D&C 24]] — 0 parallel verses
+- [[2 Kings 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

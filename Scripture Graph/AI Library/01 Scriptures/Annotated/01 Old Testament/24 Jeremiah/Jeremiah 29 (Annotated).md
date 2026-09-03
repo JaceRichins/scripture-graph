@@ -61,7 +61,7 @@ cssclasses:
 > [[Jeremiah 9#^jer-9-7|≈ Jeremiah 9:7]] · [[Jeremiah 11#^jer-11-22|≈ Jeremiah 11:22]] · [[Jeremiah 24#^jer-24-3|≈ Jeremiah 24:3]] · [[Jeremiah 24#^jer-24-8|≈ Jeremiah 24:8]] · [[Jeremiah 24#^jer-24-10|≈ Jeremiah 24:10]]
 
 ![[Jeremiah 29#^jer-29-18]]
-> [[Jeremiah 46#^jer-46-28|≈ Jeremiah 46:28]] · [[Jeremiah 44#^jer-44-8|≈ Jeremiah 44:8]] · [[Jeremiah 24#^jer-24-9|≈ Jeremiah 24:9]] · [[Jeremiah 27#^jer-27-8|≈ Jeremiah 27:8]]
+> [[Jeremiah 46#^jer-46-28|≈ Jeremiah 46:28]] · [[Jeremiah 44#^jer-44-8|≈ Jeremiah 44:8]] · [[Jeremiah 27#^jer-27-8|≈ Jeremiah 27:8]] · [[Jeremiah 24#^jer-24-9|≈ Jeremiah 24:9]]
 
 ![[Jeremiah 29#^jer-29-19]]
 > [[Jeremiah 35#^jer-35-15|≈ Jeremiah 35:15]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 96
 slug: ps-96
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[1 Chronicles 16]] — 8 parallel verses, e.g. [[Psalm 96#^ps-96-8|Psalm 96:8]] ↔ [[1 Chronicles 16#^1chr-16-29|1 Chronicles 16:29]]
 - [[Psalm 29]] — 3 parallel verses, e.g. [[Psalm 96#^ps-96-8|Psalm 96:8]] ↔ [[Psalm 29#^ps-29-2|Psalm 29:2]]
 - [[Psalm 98]] — 3 parallel verses, e.g. [[Psalm 96#^ps-96-13|Psalm 96:13]] ↔ [[Psalm 98#^ps-98-9|Psalm 98:9]]
+- [[Psalm 97]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,7 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

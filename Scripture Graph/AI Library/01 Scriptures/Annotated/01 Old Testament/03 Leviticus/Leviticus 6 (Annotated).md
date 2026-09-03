@@ -53,7 +53,7 @@ cssclasses:
 > [[Ezekiel 44#^ezek-44-29|Ezek. 44:29]] · [[Leviticus 7#^lev-7-11|≈ Leviticus 7:11]]
 
 ![[Leviticus 6#^lev-6-15]]
-> [[Leviticus 7#^lev-7-37|≈ Leviticus 7:37]] · [[Leviticus 4#^lev-4-31|≈ Leviticus 4:31]] · [[Leviticus 2#^lev-2-9|≈ Leviticus 2:9]]
+> [[Leviticus 7#^lev-7-37|≈ Leviticus 7:37]] · [[Leviticus 2#^lev-2-9|≈ Leviticus 2:9]] · [[Leviticus 4#^lev-4-31|≈ Leviticus 4:31]]
 
 ![[Leviticus 6#^lev-6-16]]
 > [[Leviticus 2#^lev-2-3|Lev. 2:3]] · [[Numbers 18#^num-18-10|Num. 18:10]]
@@ -61,7 +61,7 @@ cssclasses:
 ![[Leviticus 6#^lev-6-17]]
 
 ![[Leviticus 6#^lev-6-18]]
-> [[Numbers 18#^num-18-23|≈ Numbers 18:23]] · [[Leviticus 7#^lev-7-30|≈ Leviticus 7:30]] · [[Leviticus 7#^lev-7-35|≈ Leviticus 7:35]] · [[Leviticus 10#^lev-10-12|≈ Leviticus 10:12]] · [[Leviticus 10#^lev-10-9|≈ Leviticus 10:9]] · [[Leviticus 23#^lev-23-41|≈ Leviticus 23:41]]
+> [[Numbers 18#^num-18-23|≈ Numbers 18:23]] · [[Leviticus 7#^lev-7-30|≈ Leviticus 7:30]] · [[Leviticus 7#^lev-7-35|≈ Leviticus 7:35]] · [[Leviticus 2#^lev-2-3|≈ Leviticus 2:3]] · [[Leviticus 2#^lev-2-10|≈ Leviticus 2:10]] · [[Leviticus 10#^lev-10-12|≈ Leviticus 10:12]]
 
 ![[Leviticus 6#^lev-6-19]]
 

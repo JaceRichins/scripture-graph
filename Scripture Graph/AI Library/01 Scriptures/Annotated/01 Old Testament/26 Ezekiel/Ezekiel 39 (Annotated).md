@@ -17,7 +17,7 @@ cssclasses:
 > Gog and the land of Magog will be destroyed—For seven years the people in the cities of Israel will burn the weapons of war—For seven months they will bury the dead—Then will come the supper of the great God and the continued gathering of Israel.
 
 ![[Ezekiel 39#^ezek-39-1]]
-> [[Ezekiel 38#^ezek-38-2|Ezek. 38:2 (2–3)]] · [[Ezekiel 29#^ezek-29-3|≈ Ezekiel 29:3]] · [[Ezekiel 28#^ezek-28-22|≈ Ezekiel 28:22]] · [[Ezekiel 38#^ezek-38-3|≈ Ezekiel 38:3]] · [[Ezekiel 38#^ezek-38-2|≈ Ezekiel 38:2]] · [[Ezekiel 26#^ezek-26-3|≈ Ezekiel 26:3]]
+> [[Ezekiel 38#^ezek-38-2|Ezek. 38:2 (2–3)]] · [[Ezekiel 38#^ezek-38-3|≈ Ezekiel 38:3]] · [[Ezekiel 38#^ezek-38-2|≈ Ezekiel 38:2]] · [[Ezekiel 29#^ezek-29-3|≈ Ezekiel 29:3]] · [[Ezekiel 28#^ezek-28-22|≈ Ezekiel 28:22]] · [[Ezekiel 26#^ezek-26-3|≈ Ezekiel 26:3]]
 
 ![[Ezekiel 39#^ezek-39-2]]
 > [[Ezekiel 38#^ezek-38-15|Ezek. 38:15]] · [[Ezekiel 38#^ezek-38-4|≈ Ezekiel 38:4]]

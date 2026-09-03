@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 7
 slug: 2sam-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ Verse 11 contains the principal verbal reversal: David contemplates a house asso
 - [[Judges 2]] — 1 footnote cross-reference (from [[2 Samuel 7#^2sam-7-11|2 Samuel 7:11]])
 - [[1 Chronicles 17]] — 20 parallel verses, e.g. [[2 Samuel 7#^2sam-7-22|2 Samuel 7:22]] ↔ [[1 Chronicles 17#^1chr-17-20|1 Chronicles 17:20]]
 - [[1 Chronicles 22]] — 2 parallel verses, e.g. [[2 Samuel 7#^2sam-7-13|2 Samuel 7:13]] ↔ [[1 Chronicles 22#^1chr-22-10|1 Chronicles 22:10]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[2 Samuel 7#^2sam-7-6|2 Samuel 7:6]] ↔ [[Exodus 3#^ex-3-10|Exodus 3:10]]
 - [[1 Chronicles 17]] — 0 parallel verses
 - [[1 Chronicles 22]] — 0 parallel verses
 - [[Luke 1]] — 0 parallel verses
@@ -85,7 +86,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Architecture** (reference-entry) *(explicit citation)*
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

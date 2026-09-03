@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 6
 slug: gen-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ _Not yet developed._
 - [[3 Nephi 9]] — 2 footnote cross-references (from [[Genesis 6#^gen-6-5|Genesis 6:5]])
 - [[D&C 10]] — 2 footnote cross-references (from [[Genesis 6#^gen-6-5|Genesis 6:5]])
 - [[D&C 112]] — 2 footnote cross-references (from [[Genesis 6#^gen-6-5|Genesis 6:5]])
+- [[Moses 8]] — 10 parallel verses, e.g. [[Genesis 6#^gen-6-7|Genesis 6:7]] ↔ [[Moses 8#^moses-8-26|Moses 8:26]]
 - [[Genesis 8]] — 1 parallel verse, e.g. [[Genesis 6#^gen-6-18|Genesis 6:18]] ↔ [[Genesis 8#^gen-8-16|Genesis 8:16]]
-- [[Moses 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,7 +76,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -74,7 +74,7 @@ cssclasses:
 > [[2 Chronicles 25#^2chr-25-27|≈ 2 Chronicles 25:27]]
 
 ![[2 Kings 14#^2kgs-14-20]]
-> [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[2 Kings 15#^2kgs-15-38|≈ 2 Kings 15:38]] · [[2 Kings 16#^2kgs-16-20|≈ 2 Kings 16:20]] · [[1 Kings 22#^1kgs-22-50|≈ 1 Kings 22:50]] · [[2 Chronicles 25#^2chr-25-28|≈ 2 Chronicles 25:28]]
+> [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[2 Kings 15#^2kgs-15-38|≈ 2 Kings 15:38]] · [[2 Kings 16#^2kgs-16-20|≈ 2 Kings 16:20]] · [[2 Chronicles 25#^2chr-25-28|≈ 2 Chronicles 25:28]] · [[1 Kings 22#^1kgs-22-50|≈ 1 Kings 22:50]]
 
 ![[2 Kings 14#^2kgs-14-21]]
 > [[2 Chronicles 26#^2chr-26-1|≈ 2 Chronicles 26:1]]

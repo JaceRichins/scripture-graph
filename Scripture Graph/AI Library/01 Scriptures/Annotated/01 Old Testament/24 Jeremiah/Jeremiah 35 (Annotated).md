@@ -17,7 +17,7 @@ cssclasses:
 > The Rechabites are commended and blessed for their obedience.
 
 ![[Jeremiah 35#^jer-35-1]]
-> [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]] · [[Jeremiah 36#^jer-36-9|≈ Jeremiah 36:9]] · [[Jeremiah 45#^jer-45-1|≈ Jeremiah 45:1]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]]
+> [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]] · [[Jeremiah 36#^jer-36-9|≈ Jeremiah 36:9]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 45#^jer-45-1|≈ Jeremiah 45:1]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]]
 
 ![[Jeremiah 35#^jer-35-2]]
 > [[2 Kings 10#^2kgs-10-15|2 Kgs. 10:15]] · [[1 Chronicles 2#^1chr-2-55|1 Chr. 2:55]]
@@ -45,7 +45,7 @@ cssclasses:
 > [[Jeremiah 43#^jer-43-8|≈ Jeremiah 43:8]] · [[Jeremiah 29#^jer-29-30|≈ Jeremiah 29:30]] · [[Jeremiah 32#^jer-32-26|≈ Jeremiah 32:26]]
 
 ![[Jeremiah 35#^jer-35-13]]
-> [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 39#^jer-39-16|≈ Jeremiah 39:16]] · [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]]
+> [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 39#^jer-39-16|≈ Jeremiah 39:16]] · [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]]
 
 ![[Jeremiah 35#^jer-35-14]]
 > [[Jeremiah 25#^jer-25-3|≈ Jeremiah 25:3]]
@@ -56,10 +56,10 @@ cssclasses:
 ![[Jeremiah 35#^jer-35-16]]
 
 ![[Jeremiah 35#^jer-35-17]]
-> [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 39#^jer-39-16|≈ Jeremiah 39:16]] · [[Jeremiah 44#^jer-44-11|≈ Jeremiah 44:11]] · [[Jeremiah 44#^jer-44-2|≈ Jeremiah 44:2]] · [[Jeremiah 44#^jer-44-7|≈ Jeremiah 44:7]]
+> [[Jeremiah 36#^jer-36-31|≈ Jeremiah 36:31]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 39#^jer-39-16|≈ Jeremiah 39:16]] · [[Jeremiah 44#^jer-44-11|≈ Jeremiah 44:11]] · [[Jeremiah 44#^jer-44-2|≈ Jeremiah 44:2]]
 
 ![[Jeremiah 35#^jer-35-18]]
-> [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 39#^jer-39-16|≈ Jeremiah 39:16]] · [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]]
+> [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 39#^jer-39-16|≈ Jeremiah 39:16]] · [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]]
 
 ![[Jeremiah 35#^jer-35-19]]
-> [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 39#^jer-39-16|≈ Jeremiah 39:16]] · [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]]
+> [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 39#^jer-39-16|≈ Jeremiah 39:16]] · [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]]

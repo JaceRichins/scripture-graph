@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 16
 slug: luke-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Debt** (reference-entry) *(explicit citation)*
 - **Debt** (reference-entry) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

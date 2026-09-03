@@ -89,3 +89,8 @@ _Not yet developed._
 <!-- SG:BEGIN synthesis -->
 _Not yet developed._
 <!-- SG:END synthesis -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

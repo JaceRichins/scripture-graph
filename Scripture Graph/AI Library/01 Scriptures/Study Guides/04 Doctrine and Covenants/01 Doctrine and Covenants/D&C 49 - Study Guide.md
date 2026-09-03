@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 49
 slug: dc-49
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -43,7 +43,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 24]] — 4 footnote cross-references (from [[D&C 49#^dc-49-7|D&C 49:7]])
+- [[D&C 45]] — 3 footnote cross-references (from [[D&C 49#^dc-49-10|D&C 49:10]])
+- [[D&C 76]] — 2 footnote cross-references (from [[D&C 49#^dc-49-6|D&C 49:6]])
+- [[D&C 133]] — 2 footnote cross-references (from [[D&C 49#^dc-49-7|D&C 49:7]])
+- [[Romans 11]] — 2 footnote cross-references (from [[D&C 49#^dc-49-8|D&C 49:8]])
+- [[1 Timothy 4]] — 2 footnote cross-references (from [[D&C 49#^dc-49-15|D&C 49:15]])
+- [[D&C 88]] — 6 parallel verses, e.g. [[D&C 49#^dc-49-26|D&C 49:26]] ↔ [[D&C 88#^dc-88-63|D&C 88:63]]
 - [[D&C 18]] — 3 parallel verses, e.g. [[D&C 49#^dc-49-13|D&C 49:13]] ↔ [[D&C 18#^dc-18-41|D&C 18:41]]
+- [[D&C 89]] — 2 parallel verses, e.g. [[D&C 49#^dc-49-19|D&C 49:19]] ↔ [[D&C 89#^dc-89-14|D&C 89:14]]
+- [[D&C 59]] — 1 parallel verse, e.g. [[D&C 49#^dc-49-19|D&C 49:19]] ↔ [[D&C 59#^dc-59-16|D&C 59:16]]
 - [[D&C 66]] — 1 parallel verse, e.g. [[D&C 49#^dc-49-26|D&C 49:26]] ↔ [[D&C 66#^dc-66-9|D&C 66:9]]
 - [[D&C 68]] — 1 parallel verse, e.g. [[D&C 49#^dc-49-14|D&C 49:14]] ↔ [[D&C 68#^dc-68-25|D&C 68:25]]
 - [[D&C 20]] — 2 parallel verses, e.g. [[D&C 49#^dc-49-14|D&C 49:14]] ↔ [[D&C 20#^dc-20-68|D&C 20:68]]
@@ -52,9 +61,6 @@ _Not yet developed._
 - [[2 Nephi 2]] — 1 parallel verse, e.g. [[D&C 49#^dc-49-19|D&C 49:19]] ↔ [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]]
 - [[D&C 90]] — 2 parallel verses, e.g. [[D&C 49#^dc-49-1|D&C 49:1]] ↔ [[D&C 90#^dc-90-12|D&C 90:12]]
 - [[D&C 98]] — 2 parallel verses, e.g. [[D&C 49#^dc-49-11|D&C 49:11]] ↔ [[D&C 98#^dc-98-11|D&C 98:11]]
-- [[Acts 2]] — 2 parallel verses, e.g. [[D&C 49#^dc-49-14|D&C 49:14]] ↔ [[Acts 2#^acts-2-38|Acts 2:38]]
-- [[D&C 138]] — 1 parallel verse, e.g. [[D&C 49#^dc-49-14|D&C 49:14]] ↔ [[D&C 138#^dc-138-33|D&C 138:33]]
-- [[3 Nephi 12]] — 2 parallel verses, e.g. [[D&C 49#^dc-49-11|D&C 49:11]] ↔ [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,6 +81,7 @@ The chapter's clearest doctrinal core is a compact statement of the [[Gospel of 
 - [[Turn On Your Light (Sharon Eubank, October 2017)|Turn On Your Light]] — Sharon Eubank, 2017-October *(explicit citation)*
 - [[Come unto Christ—Together (Elder Taniela B. Wakolo, April 2026)|Come unto Christ—Together]] — Elder Taniela B. Wakolo, 2026-April *(explicit citation)*
 - [[The Prophet Joseph Smith (Elder Lawrence E. Corbridge, April 2014)|The Prophet Joseph Smith]] — Elder Lawrence E. Corbridge, 2014-April *(explicit citation)*
+- [[Priesthood Power (President Thomas S. Monson, April 2011)|Priesthood Power]] — President Thomas S. Monson, 2011-April *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[The Great Plan (President Dallin H. Oaks, April 2020)|The Great Plan]] — President Dallin H. Oaks, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -83,6 +90,7 @@ The chapter's clearest doctrinal core is a compact statement of the [[Gospel of 
 <!-- SG:BEGIN history -->
 - **Leman Copley and the Shakers** (history) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **12 After Much Tribulation** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **The Word of Wisdom** (history) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
@@ -90,7 +98,6 @@ The chapter's clearest doctrinal core is a compact statement of the [[Gospel of 
 - **Sex Education and Behavior** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Everlasting Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

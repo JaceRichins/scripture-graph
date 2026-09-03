@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 8
 slug: gen-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

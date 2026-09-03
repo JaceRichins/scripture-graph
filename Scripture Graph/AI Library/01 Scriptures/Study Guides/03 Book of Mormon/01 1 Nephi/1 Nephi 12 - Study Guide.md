@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 12
 slug: 1ne-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,10 +51,11 @@ _Not yet developed._
 - [[1 Nephi 8]] — 3 footnote cross-references (from [[1 Nephi 12#^1ne-12-16|1 Nephi 12:16]])
 - [[Mormon 8]] — 2 footnote cross-references (from [[1 Nephi 12#^1ne-12-2|1 Nephi 12:2]])
 - [[1 Nephi 19]] — 2 footnote cross-references (from [[1 Nephi 12#^1ne-12-4|1 Nephi 12:4]])
+- [[1 Nephi 13]] — 15 parallel verses, e.g. [[1 Nephi 12#^1ne-12-8|1 Nephi 12:8]] ↔ [[1 Nephi 13#^1ne-13-8|1 Nephi 13:8]]
+- [[1 Nephi 11]] — 10 parallel verses, e.g. [[1 Nephi 12#^1ne-12-11|1 Nephi 12:11]] ↔ [[1 Nephi 11#^1ne-11-8|1 Nephi 11:8]]
+- [[1 Nephi 14]] — 5 parallel verses, e.g. [[1 Nephi 12#^1ne-12-8|1 Nephi 12:8]] ↔ [[1 Nephi 14#^1ne-14-16|1 Nephi 14:16]]
 - [[Moses 7]] — 2 parallel verses, e.g. [[1 Nephi 12#^1ne-12-11|1 Nephi 12:11]] ↔ [[Moses 7#^moses-7-9|Moses 7:9]]
 - [[Ether 8]] — 2 parallel verses, e.g. [[1 Nephi 12#^1ne-12-17|1 Nephi 12:17]] ↔ [[Ether 8#^ether-8-26|Ether 8:26]]
-- [[1 Nephi 13]] — 0 parallel verses
-- [[1 Nephi 14]] — 0 parallel verses
 - [[1 Nephi 8]] — 0 parallel verses
 - [[1 Nephi 11]] — 0 parallel verses
 - [[1 Nephi 15]] — 0 parallel verses
@@ -62,18 +63,17 @@ _Not yet developed._
 - [[3 Nephi 11]] — 0 parallel verses
 - [[3 Nephi 27]] — 0 parallel verses
 - [[Matthew 19]] — 0 parallel verses
-- [[Revelation 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Angels]]
-- [[War and Peace]]
-- [[Apostles]]
 - [[Pride]]
 - [[Satan and Temptation]]
 - [[Final Judgment]]
 - [[Prophecy]]
+- [[Angels]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Jesus Christ (Gospel Topic)]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -96,6 +96,7 @@ _Not yet developed._
 - [[Take the Holy Spirit as Your Guide (Elder Larry Y. Wilson, April 2018)|Take the Holy Spirit as Your Guide]] — Elder Larry Y. Wilson, 2018-April *(explicit citation)*
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 - [[Look down the Road (Elder Alvin F. Meredith III, October 2021)|Look down the Road]] — Elder Alvin F. Meredith III, 2021-October *(explicit citation)*
+- [[In Tune with the Music of Faith (Elder Quentin L. Cook, April 2012)|In Tune with the Music of Faith]] — Elder Quentin L. Cook, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

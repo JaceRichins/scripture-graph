@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 32
 slug: alma-32
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Alma 12]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-40|Alma 32:40]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
 - [[D&C 18]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-13|Alma 32:13]] ↔ [[D&C 18#^dc-18-22|D&C 18:22]]
 - [[Alma 33]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-10|Alma 32:10]] ↔ [[Alma 33#^alma-33-2|Alma 33:2]]
+- [[1 Nephi 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,11 +76,11 @@ _Not yet developed._
 - [[“Abide in Me, and I in You; Therefore Walk with Me” (Elder David A. Bednar, April 2023)|“Abide in Me, and I in You; Therefore Walk with Me”]] — Elder David A. Bednar, 2023-April *(explicit citation)*
 - [[Nourishing and Bearing Your Testimony (Elder Gary E. Stevenson, October 2022)|Nourishing and Bearing Your Testimony]] — Elder Gary E. Stevenson, 2022-October *(explicit citation)*
 - [[I Know These Things of Myself (Elder Craig C. Christensen, October 2014)|I Know These Things of Myself]] — Elder Craig C. Christensen, 2014-October *(explicit citation)*
+- [[A Living Testimony (President Henry B. Eyring, April 2011)|A Living Testimony]] — President Henry B. Eyring, 2011-April *(explicit citation)*
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[The Faith to Ask and Then to Act (President Henry B. Eyring, October 2021)|The Faith to Ask and Then to Act]] — President Henry B. Eyring, 2021-October *(explicit citation)*
 - [[Facing Our Spiritual Hurricanes by Believing in Christ (Elder Sean Douglas, October 2021)|Facing Our Spiritual Hurricanes by Believing in Christ]] — Elder Sean Douglas, 2021-October *(explicit citation)*
 - [[His Yoke Is Easy and His Burden Is Light (Sister J. Anette Dennis, October 2022)|His Yoke Is Easy and His Burden Is Light]] — Sister J. Anette Dennis, 2022-October *(explicit citation)*
-- [[Pillars and Rays (Elder Alexander Dushku, April 2024)|Pillars and Rays]] — Elder Alexander Dushku, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -47,7 +47,7 @@ cssclasses:
 ![[Deuteronomy 29#^deut-29-12]]
 
 ![[Deuteronomy 29#^deut-29-13]]
-> [[Exodus 6#^ex-6-7|Ex. 6:7]] · [[Deuteronomy 6#^deut-6-10|≈ Deuteronomy 6:10]] · [[Deuteronomy 30#^deut-30-20|≈ Deuteronomy 30:20]]
+> [[Exodus 6#^ex-6-7|Ex. 6:7]] · [[Deuteronomy 30#^deut-30-20|≈ Deuteronomy 30:20]] · [[Deuteronomy 6#^deut-6-10|≈ Deuteronomy 6:10]]
 
 ![[Deuteronomy 29#^deut-29-14]]
 

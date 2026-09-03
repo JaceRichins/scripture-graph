@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 27
 slug: dc-27
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,18 +51,24 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 84]] — 3 footnote cross-references (from [[D&C 27#^dc-27-7|D&C 27:7]])
+- [[Joseph Smith—History 1]] — 3 footnote cross-references (from [[D&C 27#^dc-27-9|D&C 27:9]])
+- [[D&C 128]] — 2 footnote cross-references (from [[D&C 27#^dc-27-5|D&C 27:5]])
+- [[Luke 1]] — 2 footnote cross-references (from [[D&C 27#^dc-27-7|D&C 27:7]])
+- [[Helaman 3]] — 1 footnote cross-reference (from [[D&C 27#^dc-27-1|D&C 27:1]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[D&C 27#^dc-27-1|D&C 27:1]])
+- [[Ephesians 6]] — 6 parallel verses, e.g. [[D&C 27#^dc-27-17|D&C 27:17]] ↔ [[Ephesians 6#^eph-6-16|Ephesians 6:16]]
 - [[D&C 98]] — 2 parallel verses, e.g. [[D&C 27#^dc-27-9|D&C 27:9]] ↔ [[D&C 98#^dc-98-16|D&C 98:16]]
 - [[D&C 86]] — 1 parallel verse, e.g. [[D&C 27#^dc-27-6|D&C 27:6]] ↔ [[D&C 86#^dc-86-10|D&C 86:10]]
+- [[Ephesians 1]] — 1 parallel verse, e.g. [[D&C 27#^dc-27-13|D&C 27:13]] ↔ [[Ephesians 1#^eph-1-10|Ephesians 1:10]]
+- [[D&C 110]] — 1 parallel verse, e.g. [[D&C 27#^dc-27-9|D&C 27:9]] ↔ [[D&C 110#^dc-110-15|D&C 110:15]]
+- [[Luke 1]] — 1 parallel verse, e.g. [[D&C 27#^dc-27-9|D&C 27:9]] ↔ [[Luke 1#^luke-1-17|Luke 1:17]]
+- [[Matthew 6]] — 1 parallel verse, e.g. [[D&C 27#^dc-27-2|D&C 27:2]] ↔ [[Matthew 6#^matt-6-25|Matthew 6:25]]
+- [[Luke 12]] — 1 parallel verse, e.g. [[D&C 27#^dc-27-2|D&C 27:2]] ↔ [[Luke 12#^luke-12-29|Luke 12:29]]
+- [[D&C 84]] — 1 parallel verse, e.g. [[D&C 27#^dc-27-2|D&C 27:2]] ↔ [[D&C 84#^dc-84-81|D&C 84:81]]
 - [[1 Nephi 3]] — 1 parallel verse, e.g. [[D&C 27#^dc-27-6|D&C 27:6]] ↔ [[1 Nephi 3#^1ne-3-20|1 Nephi 3:20]]
 - [[3 Nephi 13]] — 1 parallel verse, e.g. [[D&C 27#^dc-27-2|D&C 27:2]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
-- [[Luke 1]] — 0 parallel verses
-- [[Matthew 6]] — 0 parallel verses
-- [[Ephesians 6]] — 0 parallel verses
-- [[Ephesians 1]] — 0 parallel verses
 - [[Matthew 26]] — 0 parallel verses
-- [[Malachi 4]] — 0 parallel verses
-- [[D&C 88]] — 0 parallel verses
-- [[D&C 110]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +89,7 @@ The chapter presents the [[Sacrament]] as an act directed to the Father's glory 
 <!-- SG:BEGIN conference -->
 - [[The Times of Restitution of All Things (Elder David A. Bednar, April 2025)|The Times of Restitution of All Things]] — Elder David A. Bednar, 2025-April *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
 - [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
 - [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
@@ -90,21 +97,20 @@ The chapter presents the [[Sacrament]] as an act directed to the Father's glory 
 - [[Drawing the Power of Jesus Christ into Our Lives (President Russell M. Nelson, April 2017)|Drawing the Power of Jesus Christ into Our Lives]] — President Russell M. Nelson, 2017-April *(explicit citation)*
 - [[Your Priesthood Playbook (Elder Gary E. Stevenson, April 2019)|Your Priesthood Playbook]] — Elder Gary E. Stevenson, 2019-April *(explicit citation)*
 - [[Watchful unto Prayer Continually (Elder David A. Bednar, October 2019)|Watchful unto Prayer Continually]] — Elder David A. Bednar, 2019-October *(explicit citation)*
-- [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **‘Thou Art an Elect Lady’** (history) *(explicit citation)*
+- **08 The Rise of the Church of Christ** (history) *(explicit citation)*
+- **26 A Holy and Consecrated Land** (history) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Gathering of Israel** (reference-entry) *(explicit citation)*
-- **Joseph Smith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

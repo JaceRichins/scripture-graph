@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jonah
 chapter: 3
 slug: jonah-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[3 Nephi 20]] — 1 footnote cross-reference (from [[Jonah 3#^jonah-3-8|Jonah 3:8]])
 - [[D&C 121]] — 1 footnote cross-reference (from [[Jonah 3#^jonah-3-10|Jonah 3:10]])
 - [[Jeremiah 25]] — 1 parallel verse, e.g. [[Jonah 3#^jonah-3-8|Jonah 3:8]] ↔ [[Jeremiah 25#^jer-25-5|Jeremiah 25:5]]
+- [[Jeremiah 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

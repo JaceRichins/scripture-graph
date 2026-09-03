@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 10
 slug: 3ne-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ The chapter moves from stunned silence to a renewed divine lament, then from mou
 - [[Helaman 14]] — 2 footnote cross-references (from [[3 Nephi 10#^3ne-10-9|3 Nephi 10:9]])
 - [[2 Nephi 26]] — 2 footnote cross-references (from [[3 Nephi 10#^3ne-10-12|3 Nephi 10:12]])
 - [[Helaman 7]] — 1 footnote cross-reference (from [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]])
+- [[Matthew 23]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]] ↔ [[Matthew 23#^matt-23-37|Matthew 23:37]]
 - [[D&C 10]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-6|3 Nephi 10:6]] ↔ [[D&C 10#^dc-10-65|D&C 10:65]]
 - [[D&C 43]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-5|3 Nephi 10:5]] ↔ [[D&C 43#^dc-43-24|D&C 43:24]]
 - [[D&C 29]] — 3 parallel verses, e.g. [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]] ↔ [[D&C 29#^dc-29-2|D&C 29:2]]
@@ -61,7 +62,6 @@ The chapter moves from stunned silence to a renewed divine lament, then from mou
 - [[3 Nephi 7]] — 2 parallel verses, e.g. [[3 Nephi 10#^3ne-10-18|3 Nephi 10:18]] ↔ [[3 Nephi 7#^3ne-7-1|3 Nephi 7:1]]
 - [[Alma 46]] — 2 parallel verses, e.g. [[3 Nephi 10#^3ne-10-17|3 Nephi 10:17]] ↔ [[Alma 46#^alma-46-23|Alma 46:23]]
 - [[1 Nephi 19]] — 1 parallel verse, e.g. [[3 Nephi 10#^3ne-10-14|3 Nephi 10:14]] ↔ [[1 Nephi 19#^1ne-19-11|1 Nephi 19:11]]
-- [[Matthew 23]] — 0 parallel verses
 - [[3 Nephi 9]] — 0 parallel verses
 - [[1 Nephi 19]] — 0 parallel verses
 - [[D&C 29]] — 0 parallel verses
@@ -99,6 +99,7 @@ The survivors are called the “more righteous part,” not a sinless group. Ver
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **07 Fellow Servants** (history) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

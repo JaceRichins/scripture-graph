@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 98
 slug: ps-98
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Genesis 24]] — 1 footnote cross-reference (from [[Psalm 98#^ps-98-3|Psalm 98:3]])
 - [[Psalm 96]] — 3 parallel verses, e.g. [[Psalm 98#^ps-98-9|Psalm 98:9]] ↔ [[Psalm 96#^ps-96-13|Psalm 96:13]]
 - [[Psalm 24]] — 1 parallel verse, e.g. [[Psalm 98#^ps-98-7|Psalm 98:7]] ↔ [[Psalm 24#^ps-24-1|Psalm 24:1]]
+- [[Psalm 97]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

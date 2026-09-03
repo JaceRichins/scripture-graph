@@ -60,7 +60,7 @@ cssclasses:
 > [[Numbers 24#^num-24-8|Num. 24:8]]
 
 ![[Jeremiah 50#^jer-50-18]]
-> [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 51#^jer-51-33|≈ Jeremiah 51:33]] · [[Jeremiah 32#^jer-32-14|≈ Jeremiah 32:14]] · [[Jeremiah 32#^jer-32-15|≈ Jeremiah 32:15]]
+> [[Jeremiah 51#^jer-51-33|≈ Jeremiah 51:33]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 32#^jer-32-14|≈ Jeremiah 32:14]] · [[Jeremiah 32#^jer-32-15|≈ Jeremiah 32:15]]
 
 ![[Jeremiah 50#^jer-50-19]]
 

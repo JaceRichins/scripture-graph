@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 77
 slug: ps-77
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -65,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **33 O God, Where Art Thou?** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 3
 slug: num-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -93,7 +93,7 @@ The substitution is corporate and cultic. Numbers 3 does not itself present a ge
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

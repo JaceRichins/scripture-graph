@@ -63,7 +63,7 @@ cssclasses:
 > [[Exodus 27#^ex-27-9|Ex. 27:10 (9–19)]] · [[Exodus 27#^ex-27-11|≈ Exodus 27:11]] · [[Exodus 27#^ex-27-10|≈ Exodus 27:10]]
 
 ![[Exodus 38#^ex-38-18]]
-> [[Exodus 27#^ex-27-9|Ex. 27:16 (9–19)]] · [[Exodus 39#^ex-39-2|≈ Exodus 39:2]] · [[Exodus 39#^ex-39-5|≈ Exodus 39:5]] · [[Exodus 39#^ex-39-8|≈ Exodus 39:8]] · [[Exodus 39#^ex-39-24|≈ Exodus 39:24]] · [[Numbers 4#^num-4-26|≈ Numbers 4:26]] · [[Exodus 26#^ex-26-31|≈ Exodus 26:31]]
+> [[Exodus 27#^ex-27-9|Ex. 27:16 (9–19)]] · [[Exodus 39#^ex-39-2|≈ Exodus 39:2]] · [[Exodus 39#^ex-39-5|≈ Exodus 39:5]] · [[Exodus 39#^ex-39-8|≈ Exodus 39:8]] · [[Exodus 39#^ex-39-24|≈ Exodus 39:24]] · [[Numbers 4#^num-4-26|≈ Numbers 4:26]] · [[Exodus 27#^ex-27-16|≈ Exodus 27:16]]
 
 ![[Exodus 38#^ex-38-19]]
 

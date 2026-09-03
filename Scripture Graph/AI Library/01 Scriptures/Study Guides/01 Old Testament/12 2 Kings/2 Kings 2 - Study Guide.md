@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 2
 slug: 2kgs-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ The paired Jordan crossings provide the clearest structural correspondence: Elij
 - [[2 Samuel 14]] — 2 parallel verses, e.g. [[2 Kings 2#^2kgs-2-4|2 Kings 2:4]] ↔ [[2 Samuel 14#^2sam-14-11|2 Samuel 14:11]]
 - [[1 Kings 19]] — 0 parallel verses
 - [[Joshua 3]] — 0 parallel verses
+- [[1 Kings 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,6 +87,7 @@ The prophetic communities possess genuine advance knowledge yet misunderstand wh
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
+- [[The Hearts of the Children Shall Turn (Elder David A. Bednar, October 2011)|The Hearts of the Children Shall Turn]] — Elder David A. Bednar, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

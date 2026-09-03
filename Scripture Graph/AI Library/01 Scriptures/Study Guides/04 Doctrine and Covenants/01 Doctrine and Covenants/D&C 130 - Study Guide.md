@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 130
 slug: dc-130
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,7 +49,15 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[John 14]] — cited in the text
 - [[Revelation 2]] — cited in the text
+- [[John 14]] — 2 footnote cross-references (from [[D&C 130#^dc-130-3|D&C 130:3]])
+- [[D&C 93]] — 2 footnote cross-references (from [[D&C 130#^dc-130-3|D&C 130:3]])
+- [[Abraham 3]] — 2 footnote cross-references (from [[D&C 130#^dc-130-4|D&C 130:4]])
+- [[Matthew 25]] — 2 footnote cross-references (from [[D&C 130#^dc-130-7|D&C 130:7]])
+- [[D&C 76]] — 2 footnote cross-references (from [[D&C 130#^dc-130-7|D&C 130:7]])
+- [[Ezekiel 1]] — 2 footnote cross-references (from [[D&C 130#^dc-130-7|D&C 130:7]])
+- [[Matthew 24]] — 9 parallel verses, e.g. [[D&C 130#^dc-130-12|D&C 130:12]] ↔ [[Matthew 24#^matt-24-27|Matthew 24:27]]
 - [[Joseph Smith—Matthew 1]] — 9 parallel verses, e.g. [[D&C 130#^dc-130-12|D&C 130:12]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]]
+- [[Moses 7]] — 6 parallel verses, e.g. [[D&C 130#^dc-130-14|D&C 130:14]] ↔ [[Moses 7#^moses-7-47|Moses 7:47]]
 - [[D&C 45]] — 3 parallel verses, e.g. [[D&C 130#^dc-130-14|D&C 130:14]] ↔ [[D&C 45#^dc-45-39|D&C 45:39]]
 - [[D&C 63]] — 3 parallel verses, e.g. [[D&C 130#^dc-130-14|D&C 130:14]] ↔ [[D&C 63#^dc-63-53|D&C 63:53]]
 - [[D&C 68]] — 3 parallel verses, e.g. [[D&C 130#^dc-130-14|D&C 130:14]] ↔ [[D&C 68#^dc-68-11|D&C 68:11]]
@@ -57,16 +65,17 @@ _Not yet developed._
 - [[D&C 64]] — 3 parallel verses, e.g. [[D&C 130#^dc-130-12|D&C 130:12]] ↔ [[D&C 64#^dc-64-23|D&C 64:23]]
 - [[Revelation 4]] — 0 parallel verses
 - [[D&C 87]] — 0 parallel verses
+- [[D&C 87]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Gift of the Holy Ghost]]
-- [[Obedience]]
 - [[Education and Learning]]
+- [[Gift of the Holy Ghost]]
 - [[The Godhead]]
-- [[Angels]]
+- [[Obedience]]
 - [[Prophecy]]
+- [[Angels]] *(keyword match — unconfirmed)*
 - [[Book of Mormon (Gospel Topic)]] *(keyword match — unconfirmed)*
 - [[Second Coming of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -81,17 +90,18 @@ D&C 130 teaches that the Father and the Son each have 'a body of flesh and bones
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[Sons and Daughters of God (Elder Rubén V. Alliaud, October 2024)|Sons and Daughters of God]] — Elder Rubén V. Alliaud, 2024-October *(explicit citation)*
+- [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
 - [[’Tis Eastertide No One Walks Alone (Elder Gerrit W. Gong, April 2026)|’Tis Eastertide: No One Walks Alone]] — Elder Gerrit W. Gong, 2026-April *(explicit citation)*
 - [[How Can I Understand (Elder Ulisses Soares, April 2019)|How Can I Understand?]] — Elder Ulisses Soares, 2019-April *(explicit citation)*
 - [[“If Ye Love Me, Keep My Commandments” (Carole M. Stephens, October 2015)|“If Ye Love Me, Keep My Commandments”]] — Carole M. Stephens, 2015-October *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
 - [[Don’t Look Around, Look Up! (Elder Yoon Hwan Choi, April 2017)|Don’t Look Around, Look Up!]] — Elder Yoon Hwan Choi, 2017-April *(explicit citation)*
 - [[How Does the Holy Ghost Help You (Elder Gary E. Stevenson, April 2017)|How Does the Holy Ghost Help You?]] — Elder Gary E. Stevenson, 2017-April *(explicit citation)*
-- [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **40 United in an Everlasting Covenant** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
@@ -101,7 +111,6 @@ D&C 130 teaches that the Father and the Son each have 'a body of flesh and bones
 - **Spirit (or Soul)** (reference-entry) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
-- **‘Our Hearts Rejoiced to Hear Him Speak’** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

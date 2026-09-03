@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 4
 slug: zech-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,8 @@ _Not yet developed._
 - [[Zechariah 6]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-9|Zechariah 4:9]] ↔ [[Zechariah 6#^zech-6-15|Zechariah 6:15]]
 - [[Zechariah 5]] — 3 parallel verses, e.g. [[Zechariah 4#^zech-4-2|Zechariah 4:2]] ↔ [[Zechariah 5#^zech-5-2|Zechariah 5:2]]
 - [[Jeremiah 1]] — 2 parallel verses, e.g. [[Zechariah 4#^zech-4-2|Zechariah 4:2]] ↔ [[Jeremiah 1#^jer-1-11|Jeremiah 1:11]]
+- [[Haggai 2]] — 0 parallel verses
+- [[Revelation 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

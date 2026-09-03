@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 69
 slug: ps-69
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,11 +54,13 @@ _Not yet developed._
 - [[Job 30]] — 1 footnote cross-reference (from [[Psalm 69#^ps-69-12|Psalm 69:12]])
 - [[Numbers 16]] — 1 footnote cross-reference (from [[Psalm 69#^ps-69-15|Psalm 69:15]])
 - [[John 2]] — 1 parallel verse, e.g. [[Psalm 69#^ps-69-9|Psalm 69:9]] ↔ [[John 2#^john-2-17|John 2:17]]
+- [[Psalm 109]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

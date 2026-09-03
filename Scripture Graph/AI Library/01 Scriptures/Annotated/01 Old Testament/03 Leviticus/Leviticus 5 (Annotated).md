@@ -31,7 +31,7 @@ cssclasses:
 > [[Numbers 5#^num-5-6|Num. 5:7 (6–10)]] · [[2 Chronicles 30#^2chr-30-2|2 Chr. 30:22 (2–27)]]
 
 ![[Leviticus 5#^lev-5-6]]
-> [[Ezekiel 40#^ezek-40-39|Ezek. 40:39]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 6#^lev-6-6|≈ Leviticus 6:6]] · [[Leviticus 6#^lev-6-7|≈ Leviticus 6:7]] · [[Numbers 15#^num-15-28|≈ Numbers 15:28]] · [[Numbers 15#^num-15-25|≈ Numbers 15:25]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]]
+> [[Ezekiel 40#^ezek-40-39|Ezek. 40:39]] · [[Leviticus 6#^lev-6-6|≈ Leviticus 6:6]] · [[Leviticus 6#^lev-6-7|≈ Leviticus 6:7]] · [[Numbers 15#^num-15-28|≈ Numbers 15:28]] · [[Numbers 15#^num-15-25|≈ Numbers 15:25]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]]
 
 ![[Leviticus 5#^lev-5-7]]
 > [[Leviticus 12#^lev-12-8|Lev. 12:8]] · [[Leviticus 14#^lev-14-21|14:21]] · [[Luke 2#^luke-2-24|Luke 2:24]] · [[Numbers 6#^num-6-11|≈ Numbers 6:11]] · [[Numbers 8#^num-8-12|≈ Numbers 8:12]] · [[Leviticus 12#^lev-12-8|≈ Leviticus 12:8]] · [[Leviticus 14#^lev-14-31|≈ Leviticus 14:31]] · [[Leviticus 14#^lev-14-22|≈ Leviticus 14:22]] · [[Leviticus 15#^lev-15-15|≈ Leviticus 15:15]]

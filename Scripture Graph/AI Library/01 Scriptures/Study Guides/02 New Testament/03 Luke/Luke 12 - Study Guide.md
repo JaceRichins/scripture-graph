@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 12
 slug: luke-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[D&C 84]] — 2 parallel verses, e.g. [[Luke 12#^luke-12-29|Luke 12:29]] ↔ [[D&C 84#^dc-84-81|D&C 84:81]]
 - [[Micah 7]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-53|Luke 12:53]] ↔ [[Micah 7#^micah-7-6|Micah 7:6]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-29|Luke 12:29]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
+- [[D&C 35]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,6 +72,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[By Divine Design (Elder Ronald A. Rasband, October 2017)|By Divine Design]] — Elder Ronald A. Rasband, 2017-October *(explicit citation)*
 - [[Missionary Work Sharing What Is in Your Heart (Elder Dieter F. Uchtdorf, April 2019)|Missionary Work: Sharing What Is in Your Heart]] — Elder Dieter F. Uchtdorf, 2019-April *(explicit citation)*
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
@@ -79,12 +81,11 @@ _Not yet developed._
 - [[Where Your Treasure Is (Elder Michael John U. Teh, April 2014)|Where Your Treasure Is]] — Elder Michael John U. Teh, 2014-April *(explicit citation)*
 - [[“Lord, Is It I” (President Dieter F. Uchtdorf, October 2014)|“Lord, Is It I?”]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
 - [[Prepared in a Manner That Never Had Been Known (Linda K. Burton, October 2014)|Prepared in a Manner That Never Had Been Known]] — Linda K. Burton, 2014-October *(explicit citation)*
-- [[Jesus Christ Is the Strength of Youth (Elder Dieter F. Uchtdorf, October 2022)|Jesus Christ Is the Strength of Youth]] — Elder Dieter F. Uchtdorf, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Almsgiving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

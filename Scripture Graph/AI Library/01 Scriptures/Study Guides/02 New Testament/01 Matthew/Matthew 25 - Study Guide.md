@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 25
 slug: matt-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,8 @@ _Not yet developed._
 - [[Mosiah 26]] — 1 parallel verse, e.g. [[Matthew 25#^matt-25-41|Matthew 25:41]] ↔ [[Mosiah 26#^mosiah-26-27|Mosiah 26:27]]
 - [[Matthew 13]] — 1 parallel verse, e.g. [[Matthew 25#^matt-25-29|Matthew 25:29]] ↔ [[Matthew 13#^matt-13-12|Matthew 13:12]]
 - [[D&C 88]] — 1 parallel verse, e.g. [[Matthew 25#^matt-25-6|Matthew 25:6]] ↔ [[D&C 88#^dc-88-92|D&C 88:92]]
+- [[D&C 33]] — 0 parallel verses
+- [[D&C 63]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

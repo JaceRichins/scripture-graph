@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 7
 slug: heb-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

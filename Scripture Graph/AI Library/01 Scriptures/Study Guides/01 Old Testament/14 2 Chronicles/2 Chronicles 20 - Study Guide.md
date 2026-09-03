@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 20
 slug: 2chr-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -33,7 +33,7 @@ Scripture: [[2 Chronicles 20]] · My notes: [[2 Chronicles 20 - My Notes]]
 ## People
 <!-- SG:BEGIN people -->
 - [[Ammon (son of Mosiah)]] — 4 mentions
-- [[Abraham (patriarch)]] — 0 mentions
+- [[Abraham (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -67,10 +67,10 @@ Scripture: [[2 Chronicles 20]] · My notes: [[2 Chronicles 20 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Prophecy]]
 - [[Exodus and Deliverance]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -90,6 +90,7 @@ The prayer also joins [[Temples]], covenant memory, and present need. Jehoshapha
 <!-- SG:BEGIN history -->
 - **Bible** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
+- **Ahaziah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 10
 slug: jer-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,13 +47,14 @@ _Not yet developed._
 - [[Isaiah 46]] — 1 footnote cross-reference (from [[Jeremiah 10#^jer-10-5|Jeremiah 10:5]])
 - [[Psalm 71]] — 1 footnote cross-reference (from [[Jeremiah 10#^jer-10-6|Jeremiah 10:6]])
 - [[Esther 1]] — 1 footnote cross-reference (from [[Jeremiah 10#^jer-10-7|Jeremiah 10:7]])
+- [[Jeremiah 51]] — 7 parallel verses, e.g. [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]] ↔ [[Jeremiah 51#^jer-51-16|Jeremiah 51:16]]
+- [[Psalm 135]] — 1 parallel verse, e.g. [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]] ↔ [[Psalm 135#^ps-135-7|Psalm 135:7]]
 - [[Jeremiah 32]] — 3 parallel verses, e.g. [[Jeremiah 10#^jer-10-18|Jeremiah 10:18]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
-- [[Jeremiah 51]] — 0 parallel verses
-- [[Psalm 135]] — 0 parallel verses
 - [[Psalm 115]] — 0 parallel verses
 - [[Isaiah 44]] — 0 parallel verses
 - [[Isaiah 46]] — 0 parallel verses
 - [[Psalm 79]] — 0 parallel verses
+- [[Jeremiah 51]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,7 +77,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aramaic** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

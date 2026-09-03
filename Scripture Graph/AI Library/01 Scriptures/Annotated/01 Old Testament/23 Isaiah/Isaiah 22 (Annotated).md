@@ -61,7 +61,7 @@ cssclasses:
 ![[Isaiah 22#^isa-22-19]]
 
 ![[Isaiah 22#^isa-22-20]]
-> [[2 Kings 18#^2kgs-18-18|2 Kgs. 18:18]] · [[Joel 3#^joel-3-18|≈ Joel 3:18]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Isaiah 27#^isa-27-12|≈ Isaiah 27:12]] · [[Isaiah 27#^isa-27-13|≈ Isaiah 27:13]]
+> [[2 Kings 18#^2kgs-18-18|2 Kgs. 18:18]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Joel 3#^joel-3-18|≈ Joel 3:18]] · [[Isaiah 27#^isa-27-12|≈ Isaiah 27:12]] · [[Isaiah 27#^isa-27-13|≈ Isaiah 27:13]]
 
 ![[Isaiah 22#^isa-22-21]]
 

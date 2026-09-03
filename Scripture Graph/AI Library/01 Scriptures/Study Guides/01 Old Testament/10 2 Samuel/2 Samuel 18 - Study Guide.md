@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 18
 slug: 2sam-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Genesis 14]] — 1 footnote cross-reference (from [[2 Samuel 18#^2sam-18-18|2 Samuel 18:18]])
 - [[2 Samuel 14]] — 1 footnote cross-reference (from [[2 Samuel 18#^2sam-18-18|2 Samuel 18:18]])
 - [[Judges 9]] — 2 parallel verses, e.g. [[2 Samuel 18#^2sam-18-1|2 Samuel 18:1]] ↔ [[Judges 9#^judg-9-48|Judges 9:48]]
+- [[2 Samuel 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

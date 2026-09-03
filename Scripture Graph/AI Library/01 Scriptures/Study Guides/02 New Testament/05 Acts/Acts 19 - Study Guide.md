@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 19
 slug: acts-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -66,12 +66,15 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1844-12-01 (Vol. 5 No. 22)** (periodical, 1844-12-01) *(explicit citation)*
+- **Alexander** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

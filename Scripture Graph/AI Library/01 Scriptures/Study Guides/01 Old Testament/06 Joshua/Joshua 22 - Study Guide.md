@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 22
 slug: josh-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,8 @@ The chapter moves in six clear movements:
 - [[Joshua 23]] — 1 footnote cross-reference (from [[Joshua 22#^josh-22-4|Joshua 22:4]])
 - [[Numbers 32]] — 1 footnote cross-reference (from [[Joshua 22#^josh-22-4|Joshua 22:4]])
 - [[D&C 84]] — 1 footnote cross-reference (from [[Joshua 22#^josh-22-5|Joshua 22:5]])
+- [[Numbers 32]] — 26 parallel verses, e.g. [[Joshua 22#^josh-22-31|Joshua 22:31]] ↔ [[Numbers 32#^num-32-33|Numbers 32:33]]
+- [[Joshua 4]] — 6 parallel verses, e.g. [[Joshua 22#^josh-22-9|Joshua 22:9]] ↔ [[Joshua 4#^josh-4-12|Joshua 4:12]]
 - [[Deuteronomy 11]] — 2 parallel verses, e.g. [[Joshua 22#^josh-22-5|Joshua 22:5]] ↔ [[Deuteronomy 11#^deut-11-13|Deuteronomy 11:13]]
 - [[Joshua 1]] — 3 parallel verses, e.g. [[Joshua 22#^josh-22-4|Joshua 22:4]] ↔ [[Joshua 1#^josh-1-13|Joshua 1:13]]
 - [[Numbers 31]] — 3 parallel verses, e.g. [[Joshua 22#^josh-22-31|Joshua 22:31]] ↔ [[Numbers 31#^num-31-6|Numbers 31:6]]
@@ -62,8 +64,6 @@ The chapter moves in six clear movements:
 - [[Judges 20]] — 3 parallel verses, e.g. [[Joshua 22#^josh-22-31|Joshua 22:31]] ↔ [[Judges 20#^judg-20-28|Judges 20:28]]
 - [[1 Kings 8]] — 1 parallel verse, e.g. [[Joshua 22#^josh-22-5|Joshua 22:5]] ↔ [[1 Kings 8#^1kgs-8-58|1 Kings 8:58]]
 - [[1 Chronicles 5]] — 1 parallel verse, e.g. [[Joshua 22#^josh-22-1|Joshua 22:1]] ↔ [[1 Chronicles 5#^1chr-5-26|1 Chronicles 5:26]]
-- [[Exodus 16]] — 2 parallel verses, e.g. [[Joshua 22#^josh-22-12|Joshua 22:12]] ↔ [[Exodus 16#^ex-16-2|Exodus 16:2]]
-- [[2 Chronicles 35]] — 1 parallel verse, e.g. [[Joshua 22#^josh-22-9|Joshua 22:9]] ↔ [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

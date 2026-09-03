@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 2
 slug: isa-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,11 +78,13 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Temples of The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
+- **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
+- **Agriculture** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

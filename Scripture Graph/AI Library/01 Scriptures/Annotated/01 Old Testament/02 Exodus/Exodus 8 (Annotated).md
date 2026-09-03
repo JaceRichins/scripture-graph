@@ -17,7 +17,7 @@ cssclasses:
 > The Lord sends plagues of frogs, lice, and flies upon Egypt—Pharaoh hardens his heart.
 
 ![[Exodus 8#^ex-8-1]]
-> [[Exodus 3#^ex-3-12|Ex. 3:18 (12, 18)]] · [[Exodus 9#^ex-9-13|≈ Exodus 9:13]] · [[Exodus 9#^ex-9-1|≈ Exodus 9:1]] · [[Ezekiel 28#^ezek-28-12|≈ Ezekiel 28:12]] · [[Exodus 7#^ex-7-16|≈ Exodus 7:16]] · [[2 Kings 1#^2kgs-1-6|≈ 2 Kings 1:6]] · [[2 Chronicles 34#^2chr-34-26|≈ 2 Chronicles 34:26]]
+> [[Exodus 3#^ex-3-12|Ex. 3:18 (12, 18)]] · [[Exodus 9#^ex-9-13|≈ Exodus 9:13]] · [[Exodus 9#^ex-9-1|≈ Exodus 9:1]] · [[Ezekiel 28#^ezek-28-12|≈ Ezekiel 28:12]] · [[Exodus 5#^ex-5-1|≈ Exodus 5:1]] · [[Exodus 7#^ex-7-16|≈ Exodus 7:16]] · [[2 Kings 1#^2kgs-1-6|≈ 2 Kings 1:6]]
 
 ![[Exodus 8#^ex-8-2]]
 > [[Exodus 9#^ex-9-2|≈ Exodus 9:2]]
@@ -66,7 +66,7 @@ cssclasses:
 > [[Luke 11#^luke-11-20|Luke 11:20]] · [[John 3#^john-3-2|John 3:2]] · [[Acts 2#^acts-2-22|Acts 2:22]] · [[Acts 10#^acts-10-38|10:38]] · [[1 Nephi 19#^1ne-19-22|1 Ne. 19:22]] · [[Alma 23#^alma-23-6|Alma 23:6]] · [[D&C 84#^dc-84-3|D&amp;C 84:3]] · [[D&C 121#^dc-121-12|121:12]] · [[Exodus 9#^ex-9-12|≈ Exodus 9:12]] · [[Exodus 7#^ex-7-13|≈ Exodus 7:13]]
 
 ![[Exodus 8#^ex-8-20]]
-> [[Exodus 9#^ex-9-13|≈ Exodus 9:13]] · [[Exodus 9#^ex-9-1|≈ Exodus 9:1]] · [[Ezekiel 28#^ezek-28-12|≈ Ezekiel 28:12]] · [[Exodus 7#^ex-7-16|≈ Exodus 7:16]] · [[2 Kings 1#^2kgs-1-6|≈ 2 Kings 1:6]] · [[2 Chronicles 34#^2chr-34-26|≈ 2 Chronicles 34:26]]
+> [[Exodus 9#^ex-9-13|≈ Exodus 9:13]] · [[Exodus 9#^ex-9-1|≈ Exodus 9:1]] · [[Ezekiel 28#^ezek-28-12|≈ Ezekiel 28:12]] · [[Exodus 5#^ex-5-1|≈ Exodus 5:1]] · [[Exodus 7#^ex-7-16|≈ Exodus 7:16]] · [[2 Kings 1#^2kgs-1-6|≈ 2 Kings 1:6]]
 
 ![[Exodus 8#^ex-8-21]]
 > [[Exodus 9#^ex-9-14|≈ Exodus 9:14]]

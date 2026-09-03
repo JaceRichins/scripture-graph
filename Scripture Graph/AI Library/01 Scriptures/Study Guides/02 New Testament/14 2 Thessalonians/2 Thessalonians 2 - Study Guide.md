@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 2
 slug: 2thes-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -69,6 +70,8 @@ _Not yet developed._
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1836-07-01 (Vol. 2 No. 10)** (periodical, 1836-07-01) *(explicit citation)*
+- **Antichrist** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

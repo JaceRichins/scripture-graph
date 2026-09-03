@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 20
 slug: prov-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,13 +51,13 @@ _Not yet developed._
 - [[D&C 78]] — 1 footnote cross-reference (from [[Proverbs 20#^prov-20-5|Proverbs 20:5]])
 - [[D&C 11]] — 1 footnote cross-reference (from [[Proverbs 20#^prov-20-5|Proverbs 20:5]])
 - [[Proverbs 18]] — 1 footnote cross-reference (from [[Proverbs 20#^prov-20-5|Proverbs 20:5]])
-- [[Proverbs 27]] — 0 parallel verses
+- [[Proverbs 27]] — 1 parallel verse, e.g. [[Proverbs 20#^prov-20-16|Proverbs 20:16]] ↔ [[Proverbs 27#^prov-27-13|Proverbs 27:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Work and Self-Reliance]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -70,7 +70,7 @@ The royal material is also balanced: judgment restrains evil (verses 8, 26), whi
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[It Is Better to Look Up (Elder Carl B. Cook, October 2011)|It Is Better to Look Up]] — Elder Carl B. Cook, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

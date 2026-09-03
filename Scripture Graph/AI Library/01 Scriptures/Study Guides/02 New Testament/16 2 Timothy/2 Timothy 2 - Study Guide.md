@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 2
 slug: 2tim-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 - [[Here to Serve a Righteous Cause (Carol F. McConkie, October 2015)|Here to Serve a Righteous Cause]] — Carol F. McConkie, 2015-October *(explicit citation)*
 - [[Be Not Moved! (Elaine S. Dalton, April 2013)|Be Not Moved!]] — Elaine S. Dalton, 2013-April *(explicit citation)*
 - [[Be Meek and Lowly of Heart (Elder Ulisses Soares, October 2013)|Be Meek and Lowly of Heart]] — Elder Ulisses Soares, 2013-October *(explicit citation)*
+- [[The Power of the Aaronic Priesthood (Bishop Keith B. McMullin, October 2011)|The Power of the Aaronic Priesthood]] — Bishop Keith B. McMullin, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

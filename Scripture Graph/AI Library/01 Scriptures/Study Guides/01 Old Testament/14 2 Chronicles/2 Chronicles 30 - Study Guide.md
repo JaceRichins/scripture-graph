@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 30
 slug: 2chr-30
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,23 +53,23 @@ Scripture: [[2 Chronicles 30]] · My notes: [[2 Chronicles 30 - My Notes]]
 - [[Mosiah 3]] — 1 footnote cross-reference (from [[2 Chronicles 30#^2chr-30-8|2 Chronicles 30:8]])
 - [[Helaman 3]] — 1 footnote cross-reference (from [[2 Chronicles 30#^2chr-30-8|2 Chronicles 30:8]])
 - [[Luke 8]] — 1 footnote cross-reference (from [[2 Chronicles 30#^2chr-30-10|2 Chronicles 30:10]])
+- [[2 Chronicles 35]] — 4 parallel verses, e.g. [[2 Chronicles 30#^2chr-30-15|2 Chronicles 30:15]] ↔ [[2 Chronicles 35#^2chr-35-1|2 Chronicles 35:1]]
+- [[Numbers 9]] — 3 parallel verses, e.g. [[2 Chronicles 30#^2chr-30-15|2 Chronicles 30:15]] ↔ [[Numbers 9#^num-9-5|Numbers 9:5]]
+- [[Ezra 6]] — 2 parallel verses, e.g. [[2 Chronicles 30#^2chr-30-21|2 Chronicles 30:21]] ↔ [[Ezra 6#^ezra-6-22|Ezra 6:22]]
 - [[2 Chronicles 34]] — 2 parallel verses, e.g. [[2 Chronicles 30#^2chr-30-25|2 Chronicles 30:25]] ↔ [[2 Chronicles 34#^2chr-34-30|2 Chronicles 34:30]]
 - [[Ezra 3]] — 2 parallel verses, e.g. [[2 Chronicles 30#^2chr-30-16|2 Chronicles 30:16]] ↔ [[Ezra 3#^ezra-3-2|Ezra 3:2]]
 - [[Proverbs 1]] — 1 parallel verse, e.g. [[2 Chronicles 30#^2chr-30-26|2 Chronicles 30:26]] ↔ [[Proverbs 1#^prov-1-1|Proverbs 1:1]]
-- [[Numbers 9]] — 0 parallel verses
-- [[Ezra 6]] — 0 parallel verses
-- [[2 Chronicles 35]] — 0 parallel verses
 - [[2 Chronicles 35]] — 0 parallel verses
 - [[Ezra 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Passover]]
-- [[Justification and Sanctification]]
 - [[Law of Moses]]
 - [[Repentance and Forgiveness]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Passover]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -87,7 +87,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Asher** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jarom
 chapter: 1
 slug: jarom-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

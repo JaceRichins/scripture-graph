@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 3
 slug: joel-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,9 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Hope** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1842-09-15 (Vol. 3 No. 22)** (periodical, 1842-09-15) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1837-09-01 (Vol. 3 No. 12)** (periodical, 1837-09-01) *(explicit citation)*
+- **Agriculture** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

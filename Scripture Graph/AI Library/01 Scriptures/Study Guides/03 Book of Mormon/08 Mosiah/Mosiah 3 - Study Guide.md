@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 3
 slug: mosiah-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -102,8 +102,8 @@ _Not yet developed._
 - **Religion and Science** (reference-entry) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Agency** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Preface** (history) *(explicit citation)*
+- **08 The Rise of the Church of Christ** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

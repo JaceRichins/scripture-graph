@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 82
 slug: dc-82
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,8 +45,15 @@ D&C 82 moves from forgiveness and heightened accountability (vv. 1–10) to the 
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 78]] — 4 footnote cross-references (from [[D&C 82#^dc-82-11|D&C 82:11]])
+- [[Luke 12]] — 3 footnote cross-references (from [[D&C 82#^dc-82-3|D&C 82:3]])
+- [[D&C 1]] — 3 footnote cross-references (from [[D&C 82#^dc-82-6|D&C 82:6]])
+- [[D&C 104]] — 3 footnote cross-references (from [[D&C 82#^dc-82-12|D&C 82:12]])
+- [[Romans 3]] — 2 footnote cross-references (from [[D&C 82#^dc-82-2|D&C 82:2]])
+- [[Matthew 25]] — 2 footnote cross-references (from [[D&C 82#^dc-82-3|D&C 82:3]])
 - [[D&C 124]] — 3 parallel verses, e.g. [[D&C 82#^dc-82-8|D&C 82:8]] ↔ [[D&C 124#^dc-124-131|D&C 124:131]]
 - [[D&C 61]] — 3 parallel verses, e.g. [[D&C 82#^dc-82-5|D&C 82:5]] ↔ [[D&C 61#^dc-61-18|D&C 61:18]]
+- [[D&C 78]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-21|D&C 82:21]] ↔ [[D&C 78#^dc-78-12|D&C 78:12]]
 - [[Daniel 7]] — 3 parallel verses, e.g. [[D&C 82#^dc-82-13|D&C 82:13]] ↔ [[Daniel 7#^dan-7-22|Daniel 7:22]]
 - [[D&C 38]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-8|D&C 82:8]] ↔ [[D&C 38#^dc-38-40|D&C 38:40]]
 - [[D&C 42]] — 2 parallel verses, e.g. [[D&C 82#^dc-82-21|D&C 82:21]] ↔ [[D&C 42#^dc-42-79|D&C 42:79]]
@@ -55,18 +62,17 @@ D&C 82 moves from forgiveness and heightened accountability (vv. 1–10) to the 
 - [[D&C 92]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-5|D&C 82:5]] ↔ [[D&C 92#^dc-92-1|D&C 92:1]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-5|D&C 82:5]] ↔ [[D&C 93#^dc-93-49|D&C 93:49]]
 - [[Joseph Smith—Matthew 1]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-5|D&C 82:5]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-46|Joseph Smith—Matthew 1:46]]
-- [[D&C 4]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-19|D&C 82:19]] ↔ [[D&C 4#^dc-4-5|D&C 4:5]]
-- [[D&C 78]] — 0 parallel verses
+- [[D&C 104]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-21|D&C 82:21]] ↔ [[D&C 104#^dc-104-9|D&C 104:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Consecration]]
-- [[Covenants]]
 - [[Repentance and Forgiveness]]
 - [[Satan and Temptation]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Zion]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -79,6 +85,7 @@ The chapter joins [[Repentance and Forgiveness]] with ongoing accountability: fo
 <!-- SG:BEGIN conference -->
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Jesus Christ Is the Way (Elder Brian J. Holmes, April 2026)|Jesus Christ Is the Way]] — Elder Brian J. Holmes, 2026-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
 - [[The Beauty of Holiness (Carol F. McConkie, April 2017)|The Beauty of Holiness]] — Carol F. McConkie, 2017-April *(explicit citation)*
 - [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
@@ -86,12 +93,12 @@ The chapter joins [[Repentance and Forgiveness]] with ongoing accountability: fo
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[Unwavering Commitment to Jesus Christ (Elder Dale G. Renlund, October 2019)|Unwavering Commitment to Jesus Christ]] — Elder Dale G. Renlund, 2019-October *(explicit citation)*
 - [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
-- [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Newel K. Whitney and the United Firm** (history) *(explicit citation)*
+- **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
@@ -100,7 +107,6 @@ The chapter joins [[Repentance and Forgiveness]] with ongoing accountability: fo
 - **Covenant** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Sin** (reference-entry) *(explicit citation)*
-- **Ten Commandments** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

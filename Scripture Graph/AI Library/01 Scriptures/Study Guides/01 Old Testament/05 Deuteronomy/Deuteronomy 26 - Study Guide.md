@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 26
 slug: deut-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -76,7 +76,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1843-06-15 (Vol. 4 No. 15)** (periodical, 1843-06-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

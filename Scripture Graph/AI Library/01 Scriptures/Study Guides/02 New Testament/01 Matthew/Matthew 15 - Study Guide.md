@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 15
 slug: matt-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Matthew 14]] — 3 parallel verses, e.g. [[Matthew 15#^matt-15-37|Matthew 15:37]] ↔ [[Matthew 14#^matt-14-20|Matthew 14:20]]
 - [[2 Kings 2]] — 2 parallel verses, e.g. [[Matthew 15#^matt-15-12|Matthew 15:12]] ↔ [[2 Kings 2#^2kgs-2-3|2 Kings 2:3]]
 - [[Mark 6]] — 2 parallel verses, e.g. [[Matthew 15#^matt-15-37|Matthew 15:37]] ↔ [[Mark 6#^mark-6-42|Mark 6:42]]
+- [[3 Nephi 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,9 +74,11 @@ _Not yet developed._
 - [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[What Thinks Christ of Me (Elder Neil L. Andersen, April 2012)|What Thinks Christ of Me?]] — Elder Neil L. Andersen, 2012-April *(explicit citation)*
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 - [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

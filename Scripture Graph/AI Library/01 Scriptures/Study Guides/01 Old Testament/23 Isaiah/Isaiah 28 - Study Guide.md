@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 28
 slug: isa-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,8 @@ _Not yet developed._
 - [[D&C 19]] — 1 footnote cross-reference (from [[Isaiah 28#^isa-28-9|Isaiah 28:9]])
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Isaiah 28#^isa-28-10|Isaiah 28:10]] ↔ [[2 Nephi 28#^2ne-28-30|2 Nephi 28:30]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[Isaiah 28#^isa-28-10|Isaiah 28:10]] ↔ [[D&C 128#^dc-128-21|D&C 128:21]]
+- [[D&C 101]] — 0 parallel verses
+- [[D&C 95]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

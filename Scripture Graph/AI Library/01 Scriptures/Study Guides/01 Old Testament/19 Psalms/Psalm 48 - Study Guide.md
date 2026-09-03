@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 48
 slug: ps-48
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Matthew 5]] — 1 footnote cross-reference (from [[Psalm 48#^ps-48-2|Psalm 48:2]])
 - [[1 Chronicles 16]] — 1 parallel verse, e.g. [[Psalm 48#^ps-48-1|Psalm 48:1]] ↔ [[1 Chronicles 16#^1chr-16-25|1 Chronicles 16:25]]
 - [[Psalm 145]] — 1 parallel verse, e.g. [[Psalm 48#^ps-48-1|Psalm 48:1]] ↔ [[Psalm 145#^ps-145-3|Psalm 145:3]]
+- [[Lamentations 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,7 +66,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

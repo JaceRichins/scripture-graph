@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 32
 slug: isa-32
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[These Things I Know (President Boyd K. Packer, April 2013)|These Things I Know]] — President Boyd K. Packer, 2013-April *(explicit citation)*
+- [[Stand in Holy Places (President Thomas S. Monson, October 2011)|Stand in Holy Places]] — President Thomas S. Monson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

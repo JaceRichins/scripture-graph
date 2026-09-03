@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 3
 slug: abr-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,12 @@ Other divisions are possible, especially around verses 20–21. The repeated com
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Moses 1]] — 3 footnote cross-references (from [[Abraham 3#^abr-3-2|Abraham 3:2]])
+- [[Moses 7]] — 3 footnote cross-references (from [[Abraham 3#^abr-3-2|Abraham 3:2]])
+- [[Abraham 1]] — 2 footnote cross-references (from [[Abraham 3#^abr-3-2|Abraham 3:2]])
+- [[Abraham 5]] — 2 footnote cross-references (from [[Abraham 3#^abr-3-3|Abraham 3:3]])
+- [[D&C 88]] — 2 footnote cross-references (from [[Abraham 3#^abr-3-9|Abraham 3:9]])
+- [[Abraham 2]] — 2 footnote cross-references (from [[Abraham 3#^abr-3-11|Abraham 3:11]])
 - [[D&C 132]] — 4 parallel verses, e.g. [[Abraham 3#^abr-3-3|Abraham 3:3]] ↔ [[D&C 132#^dc-132-49|D&C 132:49]]
 - [[Abraham 2]] — 2 parallel verses, e.g. [[Abraham 3#^abr-3-3|Abraham 3:3]] ↔ [[Abraham 2#^abr-2-7|Abraham 2:7]]
 - [[2 Nephi 29]] — 1 parallel verse, e.g. [[Abraham 3#^abr-3-21|Abraham 3:21]] ↔ [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]]
@@ -90,13 +96,13 @@ Meaningful choices and consequences permeate Abraham 3:25–28, making [[Agency]
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Jesus Christ Chosen as Savior** (reference-entry) *(explicit citation)*
 - **Premortality** (reference-entry) *(explicit citation)*
+- **37 We Will Prove Them** (history) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Council in Heaven** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
-- **Obedience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

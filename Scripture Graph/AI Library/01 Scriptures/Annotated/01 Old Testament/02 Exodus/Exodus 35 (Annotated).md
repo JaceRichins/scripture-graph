@@ -17,7 +17,7 @@ cssclasses:
 > Israel is admonished to observe the Sabbath—Free gifts are offered for the tabernacle—The calls and inspiration of certain artisans are confirmed.
 
 ![[Exodus 35#^ex-35-1]]
-> [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]] · [[Numbers 8#^num-8-20|≈ Numbers 8:20]] · [[Numbers 13#^num-13-26|≈ Numbers 13:26]] · [[Numbers 15#^num-15-25|≈ Numbers 15:25]] · [[Numbers 15#^num-15-26|≈ Numbers 15:26]]
+> [[Numbers 15#^num-15-25|≈ Numbers 15:25]] · [[Numbers 15#^num-15-26|≈ Numbers 15:26]] · [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]] · [[Numbers 8#^num-8-20|≈ Numbers 8:20]] · [[Numbers 13#^num-13-26|≈ Numbers 13:26]]
 
 ![[Exodus 35#^ex-35-2]]
 > [[Exodus 20#^ex-20-9|Ex. 20:9]] · [[Exodus 31#^ex-31-14|Ex. 31:15 (14–15)]] · [[Jarom 1#^jarom-1-5|Jarom 1:5]] · [[Mosiah 18#^mosiah-18-23|Mosiah 18:23]] · [[D&C 59#^dc-59-9|D&amp;C 59:10 (9–12)]] · [[Exodus 31#^ex-31-14|Ex. 31:14]] · [[Numbers 15#^num-15-32|Num. 15:35 (32–36)]]
@@ -26,7 +26,7 @@ cssclasses:
 > [[Exodus 16#^ex-16-23|Ex. 16:23]] · [[D&C 59#^dc-59-13|D&amp;C 59:13]]
 
 ![[Exodus 35#^ex-35-4]]
-> [[Exodus 25#^ex-25-1|Ex. 25:2 (1–7)]] · [[Numbers 30#^num-30-1|≈ Numbers 30:1]] · [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]] · [[Numbers 8#^num-8-20|≈ Numbers 8:20]] · [[Numbers 13#^num-13-26|≈ Numbers 13:26]] · [[Numbers 15#^num-15-25|≈ Numbers 15:25]]
+> [[Exodus 25#^ex-25-1|Ex. 25:2 (1–7)]] · [[Numbers 15#^num-15-25|≈ Numbers 15:25]] · [[Numbers 15#^num-15-26|≈ Numbers 15:26]] · [[Numbers 30#^num-30-1|≈ Numbers 30:1]] · [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]] · [[Numbers 8#^num-8-20|≈ Numbers 8:20]]
 
 ![[Exodus 35#^ex-35-5]]
 > [[D&C 59#^dc-59-15|D&amp;C 59:15]] · [[D&C 64#^dc-64-22|64:22, 34]]
@@ -40,7 +40,7 @@ cssclasses:
 ![[Exodus 35#^ex-35-8]]
 
 ![[Exodus 35#^ex-35-9]]
-> [[Exodus 29#^ex-29-5|Ex. 29:5]] · [[Exodus 25#^ex-25-7|≈ Exodus 25:7]] · [[1 Chronicles 29#^1chr-29-2|≈ 1 Chronicles 29:2]]
+> [[Exodus 29#^ex-29-5|Ex. 29:5]] · [[1 Chronicles 29#^1chr-29-2|≈ 1 Chronicles 29:2]] · [[Exodus 25#^ex-25-7|≈ Exodus 25:7]]
 
 ![[Exodus 35#^ex-35-10]]
 > [[Exodus 28#^ex-28-3|Ex. 28:3]] · [[Exodus 31#^ex-31-6|31:6]]
@@ -73,7 +73,7 @@ cssclasses:
 > [[Exodus 31#^ex-31-10|Ex. 31:10]] · [[Exodus 39#^ex-39-1|39:1 (1, 41)]] · [[Exodus 39#^ex-39-41|≈ Exodus 39:41]] · [[Exodus 39#^ex-39-1|≈ Exodus 39:1]] · [[Numbers 3#^num-3-3|≈ Numbers 3:3]] · [[Exodus 31#^ex-31-10|≈ Exodus 31:10]]
 
 ![[Exodus 35#^ex-35-20]]
-> [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]] · [[Numbers 8#^num-8-20|≈ Numbers 8:20]] · [[Numbers 13#^num-13-26|≈ Numbers 13:26]] · [[Numbers 15#^num-15-25|≈ Numbers 15:25]] · [[Numbers 15#^num-15-26|≈ Numbers 15:26]]
+> [[Numbers 15#^num-15-25|≈ Numbers 15:25]] · [[Numbers 15#^num-15-26|≈ Numbers 15:26]] · [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]] · [[Numbers 8#^num-8-20|≈ Numbers 8:20]] · [[Numbers 13#^num-13-26|≈ Numbers 13:26]]
 
 ![[Exodus 35#^ex-35-21]]
 > [[Exodus 36#^ex-36-2|Ex. 36:2]] · [[Exodus 36#^ex-36-2|≈ Exodus 36:2]]
@@ -93,7 +93,7 @@ cssclasses:
 ![[Exodus 35#^ex-35-26]]
 
 ![[Exodus 35#^ex-35-27]]
-> [[Exodus 25#^ex-25-7|≈ Exodus 25:7]] · [[1 Chronicles 29#^1chr-29-2|≈ 1 Chronicles 29:2]]
+> [[1 Chronicles 29#^1chr-29-2|≈ 1 Chronicles 29:2]] · [[Exodus 25#^ex-25-7|≈ Exodus 25:7]]
 
 ![[Exodus 35#^ex-35-28]]
 > [[Exodus 30#^ex-30-23|Ex. 30:23]]

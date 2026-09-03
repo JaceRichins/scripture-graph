@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 10
 slug: john-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,9 @@ _Not yet developed._
 - [[Ezekiel 34]] — 1 footnote cross-reference (from [[John 10#^john-10-11|John 10:11]])
 - [[3 Nephi 15]] — 2 parallel verses, e.g. [[John 10#^john-10-16|John 10:16]] ↔ [[3 Nephi 15#^3ne-15-17|3 Nephi 15:17]]
 - [[1 Nephi 22]] — 1 parallel verse, e.g. [[John 10#^john-10-16|John 10:16]] ↔ [[1 Nephi 22#^1ne-22-25|1 Nephi 22:25]]
+- [[Alma 5]] — 0 parallel verses
+- [[D&C 50]] — 0 parallel verses
+- [[3 Nephi 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -80,6 +83,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
+- **07 Fellow Servants** (history) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*

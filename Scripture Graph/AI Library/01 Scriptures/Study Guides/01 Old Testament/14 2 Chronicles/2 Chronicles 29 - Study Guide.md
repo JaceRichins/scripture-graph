@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 29
 slug: 2chr-29
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,17 +57,17 @@ The sequence clearly organizes the received narrative, although literary order a
 - [[Mosiah 26]] — 1 footnote cross-reference (from [[2 Chronicles 29#^2chr-29-6|2 Chronicles 29:6]])
 - [[Leviticus 8]] — 1 footnote cross-reference (from [[2 Chronicles 29#^2chr-29-22|2 Chronicles 29:22]])
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
+- [[2 Kings 23]] — 4 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
 - [[Jeremiah 52]] — 4 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-6|2 Chronicles 29:6]] ↔ [[Jeremiah 52#^jer-52-2|Jeremiah 52:2]]
 - [[2 Kings 24]] — 3 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]
 - [[1 Kings 15]] — 5 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-1|2 Chronicles 29:1]] ↔ [[1 Kings 15#^1kgs-15-2|1 Kings 15:2]]
+- [[2 Kings 18]] — 1 parallel verse, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]]
 - [[2 Chronicles 27]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
 - [[2 Kings 14]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 14#^2kgs-14-3|2 Kings 14:3]]
 - [[2 Kings 22]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]]
 - [[2 Chronicles 20]] — 3 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-1|2 Chronicles 29:1]] ↔ [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]]
 - [[2 Chronicles 25]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Chronicles 25#^2chr-25-2|2 Chronicles 25:2]]
 - [[2 Chronicles 26]] — 1 parallel verse, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]]
-- [[2 Kings 21]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-1|2 Chronicles 29:1]] ↔ [[2 Kings 21#^2kgs-21-1|2 Kings 21:1]]
-- [[Ether 10]] — 2 parallel verses, e.g. [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]] ↔ [[Ether 10#^ether-10-16|Ether 10:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,8 +76,8 @@ The sequence clearly organizes the received narrative, although literary order a
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

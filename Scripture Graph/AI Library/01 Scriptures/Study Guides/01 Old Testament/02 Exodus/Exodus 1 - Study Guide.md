@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 1
 slug: ex-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,15 +51,15 @@ Scripture: [[Exodus 1]] · My notes: [[Exodus 1 - My Notes]]
 - [[1 Nephi 17]] — 2 footnote cross-references (from [[Exodus 1#^ex-1-11|Exodus 1:11]])
 - [[Genesis 46]] — 1 footnote cross-reference (from [[Exodus 1#^ex-1-1|Exodus 1:1]])
 - [[Genesis 35]] — 1 footnote cross-reference (from [[Exodus 1#^ex-1-1|Exodus 1:1]])
-- [[Genesis 46]] — 0 parallel verses
+- [[Genesis 46]] — 1 parallel verse, e.g. [[Exodus 1#^ex-1-1|Exodus 1:1]] ↔ [[Genesis 46#^gen-46-8|Genesis 46:8]]
 - [[Genesis 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Exodus and Deliverance]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -74,12 +74,12 @@ Israel's multiplication fits naturally within the [[Abrahamic Covenant]], especi
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Children (Elder Neil L. Andersen, October 2011)|Children]] — Elder Neil L. Andersen, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

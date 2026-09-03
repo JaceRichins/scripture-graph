@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 2
 slug: joel-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Nehemiah 9]] — 1 parallel verse, e.g. [[Joel 2#^joel-2-13|Joel 2:13]] ↔ [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]]
 - [[Jonah 4]] — 1 parallel verse, e.g. [[Joel 2#^joel-2-13|Joel 2:13]] ↔ [[Jonah 4#^jonah-4-2|Jonah 4:2]]
 - [[Zephaniah 1]] — 2 parallel verses, e.g. [[Joel 2#^joel-2-11|Joel 2:11]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
+- [[D&C 34]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +68,7 @@ _Not yet developed._
 - [[He Will Place You on His Shoulders and Carry You Home (President Dieter F. Uchtdorf, April 2016)|He Will Place You on His Shoulders and Carry You Home]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
 - [[Conference Report, April 1930 (General Conference (full report), April 1930)|Conference Report, April 1930]] — General Conference (full report), 1930-April *(explicit citation)*
+- [[Sacred Keys of the Aaronic Priesthood (Larry M. Gibson, April 2011)|Sacred Keys of the Aaronic Priesthood]] — Larry M. Gibson, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -75,6 +77,8 @@ _Not yet developed._
 - **The Word of Wisdom** (history) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1841-10-01 (Vol. 2 No. 23)** (periodical, 1841-10-01) *(explicit citation)*
+- **Times and Seasons 1844-11-15 (Vol. 5 No. 21)** (periodical, 1844-11-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

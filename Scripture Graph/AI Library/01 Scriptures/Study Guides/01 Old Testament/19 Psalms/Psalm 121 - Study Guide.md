@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 121
 slug: ps-121
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Waiting on the Lord (Elder Jeffrey R. Holland, October 2020)|Waiting on the Lord]] — Elder Jeffrey R. Holland, 2020-October *(explicit citation)*
 - [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[Conference Report, October 1918 (General Conference (full report), October 1918)|Conference Report, October 1918]] — General Conference (full report), 1918-October *(explicit citation)*
 <!-- SG:END conference -->
 

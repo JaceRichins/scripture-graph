@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 6
 slug: morm-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Alma 43]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-6|Mormon 6:6]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
 - [[Mormon 3]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-21|Mormon 6:21]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
 - [[Mosiah 28]] — 1 parallel verse, e.g. [[Mormon 6#^morm-6-2|Mormon 6:2]] ↔ [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]]
+- [[Ether 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

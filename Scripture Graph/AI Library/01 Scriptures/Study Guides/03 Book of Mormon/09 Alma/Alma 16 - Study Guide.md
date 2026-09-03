@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 16
 slug: alma-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,21 +58,21 @@ Scripture: [[Alma 16]] · My notes: [[Alma 16 - My Notes]]
 - [[Alma 1]] — 2 footnote cross-references (from [[Alma 16#^alma-16-11|Alma 16:11]])
 - [[Alma 21]] — 2 footnote cross-references (from [[Alma 16#^alma-16-13|Alma 16:13]])
 - [[2 Kings 6]] — 1 footnote cross-reference (from [[Alma 16#^alma-16-6|Alma 16:6]])
+- [[Alma 43]] — 4 parallel verses, e.g. [[Alma 16#^alma-16-5|Alma 16:5]] ↔ [[Alma 43#^alma-43-16|Alma 43:16]]
 - [[Alma 13]] — 3 parallel verses, e.g. [[Alma 16#^alma-16-17|Alma 16:17]] ↔ [[Alma 13#^alma-13-16|Alma 13:16]]
 - [[Alma 8]] — 2 parallel verses, e.g. [[Alma 16#^alma-16-3|Alma 16:3]] ↔ [[Alma 8#^alma-8-14|Alma 8:14]]
 - [[Alma 60]] — 1 parallel verse, e.g. [[Alma 16#^alma-16-17|Alma 16:17]] ↔ [[Alma 60#^alma-60-13|Alma 60:13]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[Alma 16#^alma-16-3|Alma 16:3]] ↔ [[Alma 9#^alma-9-1|Alma 9:1]]
 - [[3 Nephi 21]] — 1 parallel verse, e.g. [[Alma 16#^alma-16-18|Alma 16:18]] ↔ [[3 Nephi 21#^3ne-21-19|3 Nephi 21:19]]
-- [[Alma 43]] — 0 parallel verses
 - [[Alma 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Prophecy]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Gospel of Jesus Christ]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Scattering of Israel]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

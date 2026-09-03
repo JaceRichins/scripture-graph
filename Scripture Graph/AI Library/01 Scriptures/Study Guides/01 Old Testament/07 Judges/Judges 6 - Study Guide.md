@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 6
 slug: judg-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -63,8 +63,8 @@ Notably, the chapter stacks two separate messenger scenes — a human prophet (v
 - [[1 Samuel 10]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-9|Judges 6:9]] ↔ [[1 Samuel 10#^1sam-10-18|1 Samuel 10:18]]
 - [[Judges 2]] — 2 parallel verses, e.g. [[Judges 6#^judg-6-1|Judges 6:1]] ↔ [[Judges 2#^judg-2-11|Judges 2:11]]
 - [[Exodus 18]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-9|Judges 6:9]] ↔ [[Exodus 18#^ex-18-10|Exodus 18:10]]
-- [[Genesis 47]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-17|Judges 6:17]] ↔ [[Genesis 47#^gen-47-29|Genesis 47:29]]
 - [[Judges 4]] — 2 parallel verses, e.g. [[Judges 6#^judg-6-6|Judges 6:6]] ↔ [[Judges 4#^judg-4-3|Judges 4:3]]
+- [[Genesis 47]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-17|Judges 6:17]] ↔ [[Genesis 47#^gen-47-29|Genesis 47:29]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Judges 6#^judg-6-12|Judges 6:12]] ↔ [[Exodus 3#^ex-3-2|Exodus 3:2]]
 - [[Joshua 24]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-10|Judges 6:10]] ↔ [[Joshua 24#^josh-24-15|Joshua 24:15]]
 - [[Genesis 33]] — 1 parallel verse, e.g. [[Judges 6#^judg-6-17|Judges 6:17]] ↔ [[Genesis 33#^gen-33-10|Genesis 33:10]]
@@ -72,9 +72,9 @@ Notably, the chapter stacks two separate messenger scenes — a human prophet (v
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Angels]]
-- [[Exodus and Deliverance]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

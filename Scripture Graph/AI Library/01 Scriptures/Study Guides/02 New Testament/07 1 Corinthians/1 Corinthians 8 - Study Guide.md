@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 8
 slug: 1cor-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Galatians 4]] — 1 footnote cross-reference (from [[1 Corinthians 8#^1cor-8-4|1 Corinthians 8:4]])
 - [[Daniel 2]] — 1 footnote cross-reference (from [[1 Corinthians 8#^1cor-8-6|1 Corinthians 8:6]])
 - [[1 Corinthians 9]] — 0 parallel verses
+- [[1 Corinthians 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

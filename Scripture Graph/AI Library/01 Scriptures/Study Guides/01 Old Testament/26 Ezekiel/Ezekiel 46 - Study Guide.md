@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 46
 slug: ezek-46
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ _Not yet developed._
 - [[Ezekiel 45]] — 2 parallel verses, e.g. [[Ezekiel 46#^ezek-46-7|Ezekiel 46:7]] ↔ [[Ezekiel 45#^ezek-45-24|Ezekiel 45:24]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Ezekiel 46#^ezek-46-14|Ezekiel 46:14]] ↔ [[Numbers 15#^num-15-6|Numbers 15:6]]
 - [[Ezekiel 40]] — 2 parallel verses, e.g. [[Ezekiel 46#^ezek-46-12|Ezekiel 46:12]] ↔ [[Ezekiel 40#^ezek-40-22|Ezekiel 40:22]]
+- [[Numbers 28]] — 2 parallel verses, e.g. [[Ezekiel 46#^ezek-46-13|Ezekiel 46:13]] ↔ [[Numbers 28#^num-28-11|Numbers 28:11]]
 - [[Ezekiel 42]] — 1 parallel verse, e.g. [[Ezekiel 46#^ezek-46-21|Ezekiel 46:21]] ↔ [[Ezekiel 42#^ezek-42-1|Ezekiel 42:1]]
-- [[Numbers 28]] — 0 parallel verses
 - [[Ezekiel 45]] — 0 parallel verses
 - [[Ezekiel 44]] — 0 parallel verses
 - [[Leviticus 25]] — 0 parallel verses

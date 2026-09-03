@@ -58,7 +58,7 @@ cssclasses:
 > [[Proverbs 21#^prov-21-4|Prov. 21:4]] · [[2 Nephi 12#^2ne-12-5|2 Ne. 12:5]] · [[Mosiah 14#^mosiah-14-6|Mosiah 14:6]] · [[Alma 5#^alma-5-37|Alma 5:37]] · [[Mormon 8#^morm-8-36|Morm. 8:36]] · [[2 Peter 3#^2pet-3-17|2 Pet. 3:17]] · [[Matthew 22#^matt-22-29|Matt. 22:29]] · [[2 Nephi 27#^2ne-27-34|2 Ne. 27:35 (34–35)]] · [[D&C 33#^dc-33-4|D&amp;C 33:4]]
 
 ![[2 Nephi 28#^2ne-28-15]]
-> [[Proverbs 3#^prov-3-5|Prov. 3:7 (5–7)]] · [[2 Nephi 15#^2ne-15-21|2 Ne. 15:21]] · [[Matthew 5#^matt-5-19|Matt. 5:19]] · [[Mosiah 11#^mosiah-11-2|Mosiah 11:2]] · [[3 Nephi 29#^3ne-29-4|3 Ne. 29:5 (4–7)]] · [[Mormon 9#^morm-9-26|Morm. 9:26]] · [[2 Nephi 9#^2ne-9-36|≈ 2 Nephi 9:36]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[Mormon 8#^morm-8-28|≈ Mormon 8:28]]
+> [[Proverbs 3#^prov-3-5|Prov. 3:7 (5–7)]] · [[2 Nephi 15#^2ne-15-21|2 Ne. 15:21]] · [[Matthew 5#^matt-5-19|Matt. 5:19]] · [[Mosiah 11#^mosiah-11-2|Mosiah 11:2]] · [[3 Nephi 29#^3ne-29-4|3 Ne. 29:5 (4–7)]] · [[Mormon 9#^morm-9-26|Morm. 9:26]] · [[2 Nephi 9#^2ne-9-36|≈ 2 Nephi 9:36]] · [[Mormon 8#^morm-8-28|≈ Mormon 8:28]] · [[Mormon 8#^morm-8-36|≈ Mormon 8:36]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]]
 
 ![[2 Nephi 28#^2ne-28-16]]
 > [[2 Nephi 27#^2ne-27-32|2 Ne. 27:32]] · [[Malachi 2#^mal-2-17|Mal. 2:17]] · [[Ether 2#^ether-2-8|Ether 2:10 (8–11)]] · [[Isaiah 29#^isa-29-21|≈ Isaiah 29:21]] · [[2 Nephi 27#^2ne-27-32|≈ 2 Nephi 27:32]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 18
 slug: jer-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ Scripture: [[Jeremiah 18]] · My notes: [[Jeremiah 18 - My Notes]]
 - [[2 Nephi 27]] — 1 footnote cross-reference (from [[Jeremiah 18#^jer-18-6|Jeremiah 18:6]])
 - [[Jeremiah 11]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]] ↔ [[Jeremiah 11#^jer-11-2|Jeremiah 11:2]]
 - [[Daniel 9]] — 1 parallel verse, e.g. [[Jeremiah 18#^jer-18-11|Jeremiah 18:11]] ↔ [[Daniel 9#^dan-9-7|Daniel 9:7]]
+- [[Jeremiah 2]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-5|Jeremiah 18:5]] ↔ [[Jeremiah 2#^jer-2-1|Jeremiah 2:1]]
 - [[Jeremiah 19]] — 1 parallel verse, e.g. [[Jeremiah 18#^jer-18-16|Jeremiah 18:16]] ↔ [[Jeremiah 19#^jer-19-8|Jeremiah 19:8]]
 - [[Ezekiel 12]] — 2 parallel verses, e.g. [[Jeremiah 18#^jer-18-5|Jeremiah 18:5]] ↔ [[Ezekiel 12#^ezek-12-17|Ezekiel 12:17]]
 - [[Jeremiah 1]] — 0 parallel verses

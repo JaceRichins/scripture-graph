@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 86
 slug: ps-86
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
 - [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 

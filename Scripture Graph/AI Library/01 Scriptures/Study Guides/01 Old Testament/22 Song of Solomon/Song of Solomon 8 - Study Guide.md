@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 8
 slug: song-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

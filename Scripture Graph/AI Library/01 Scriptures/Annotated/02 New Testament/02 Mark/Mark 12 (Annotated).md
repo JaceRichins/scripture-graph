@@ -83,7 +83,7 @@ cssclasses:
 > [[Matthew 22#^matt-22-30|≈ Matthew 22:30]] · [[Luke 20#^luke-20-35|≈ Luke 20:35]] · [[D&C 132#^dc-132-16|≈ D&C 132:16]]
 
 ![[Mark 12#^mark-12-26]]
-> [[Exodus 3#^ex-3-6|Ex. 3:6]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]] · [[Exodus 3#^ex-3-6|≈ Exodus 3:6]] · [[Exodus 3#^ex-3-15|≈ Exodus 3:15]] · [[Acts 7#^acts-7-32|≈ Acts 7:32]]
+> [[Exodus 3#^ex-3-6|Ex. 3:6]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]] · [[3 Nephi 4#^3ne-4-30|≈ 3 Nephi 4:30]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]] · [[Exodus 3#^ex-3-6|≈ Exodus 3:6]] · [[Exodus 3#^ex-3-15|≈ Exodus 3:15]]
 
 ![[Mark 12#^mark-12-27]]
 > [[Matthew 22#^matt-22-32|≈ Matthew 22:32]]

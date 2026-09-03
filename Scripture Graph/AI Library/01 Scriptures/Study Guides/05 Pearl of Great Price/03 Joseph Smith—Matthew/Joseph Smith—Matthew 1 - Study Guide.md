@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—Matthew
 chapter: 1
 slug: jsm-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,18 +52,24 @@ The recurring refrain ('iniquity shall abound... love shall wax cold... he that.
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 45]] — 5 footnote cross-references (from [[Joseph Smith—Matthew 1#^jsm-1-4|Joseph Smith—Matthew 1:4]])
+- [[D&C 29]] — 5 footnote cross-references (from [[Joseph Smith—Matthew 1#^jsm-1-23|Joseph Smith—Matthew 1:23]])
+- [[Matthew 24]] — 3 footnote cross-references (from [[Joseph Smith—Matthew 1#^jsm-1-2|Joseph Smith—Matthew 1:2]])
+- [[D&C 133]] — 2 footnote cross-references (from [[Joseph Smith—Matthew 1#^jsm-1-4|Joseph Smith—Matthew 1:4]])
+- [[Ezekiel 32]] — 2 footnote cross-references (from [[Joseph Smith—Matthew 1#^jsm-1-8|Joseph Smith—Matthew 1:8]])
+- [[2 Nephi 30]] — 2 footnote cross-references (from [[Joseph Smith—Matthew 1#^jsm-1-20|Joseph Smith—Matthew 1:20]])
+- [[Matthew 24]] — 54 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-36|Joseph Smith—Matthew 1:36]] ↔ [[Matthew 24#^matt-24-30|Matthew 24:30]]
+- [[Mark 13]] — 17 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-6|Joseph Smith—Matthew 1:6]] ↔ [[Mark 13#^mark-13-6|Mark 13:6]]
+- [[Luke 21]] — 9 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-6|Joseph Smith—Matthew 1:6]] ↔ [[Luke 21#^luke-21-8|Luke 21:8]]
 - [[Luke 17]] — 8 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-44|Joseph Smith—Matthew 1:44]] ↔ [[Luke 17#^luke-17-36|Luke 17:36]]
 - [[Luke 12]] — 5 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-50|Joseph Smith—Matthew 1:50]] ↔ [[Luke 12#^luke-12-43|Luke 12:43]]
 - [[D&C 130]] — 9 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]] ↔ [[D&C 130#^dc-130-12|D&C 130:12]]
 - [[D&C 45]] — 8 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-33|Joseph Smith—Matthew 1:33]] ↔ [[D&C 45#^dc-45-42|D&C 45:42]]
+- [[Moses 7]] — 7 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]] ↔ [[Moses 7#^moses-7-47|Moses 7:47]]
 - [[D&C 61]] — 5 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-46|Joseph Smith—Matthew 1:46]] ↔ [[D&C 61#^dc-61-36|D&C 61:36]]
 - [[D&C 63]] — 4 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]] ↔ [[D&C 63#^dc-63-53|D&C 63:53]]
 - [[D&C 133]] — 2 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-37|Joseph Smith—Matthew 1:37]] ↔ [[D&C 133#^dc-133-7|D&C 133:7]]
 - [[D&C 29]] — 1 parallel verse, e.g. [[Joseph Smith—Matthew 1#^jsm-1-33|Joseph Smith—Matthew 1:33]] ↔ [[D&C 29#^dc-29-14|D&C 29:14]]
-- [[D&C 64]] — 3 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]] ↔ [[D&C 64#^dc-64-23|D&C 64:23]]
-- [[D&C 68]] — 3 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]] ↔ [[D&C 68#^dc-68-11|D&C 68:11]]
-- [[Luke 13]] — 2 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-1|Joseph Smith—Matthew 1:1]] ↔ [[Luke 13#^luke-13-35|Luke 13:35]]
-- [[Matthew 25]] — 2 parallel verses, e.g. [[Joseph Smith—Matthew 1#^jsm-1-54|Joseph Smith—Matthew 1:54]] ↔ [[Matthew 25#^matt-25-30|Matthew 25:30]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -103,7 +109,9 @@ Verse 31 connects [[Missionary Work]] with the end: the gospel is to be preached
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Abomination of desolation** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

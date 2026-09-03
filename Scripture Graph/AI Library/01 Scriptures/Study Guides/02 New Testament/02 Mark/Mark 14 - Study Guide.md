@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 14
 slug: mark-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Sacrament** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Abba** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

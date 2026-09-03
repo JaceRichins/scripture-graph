@@ -19,7 +19,7 @@ cssclasses:
 ![[Numbers 28#^num-28-1]]
 
 ![[Numbers 28#^num-28-2]]
-> [[Leviticus 23#^lev-23-2|≈ Leviticus 23:2]] · [[Leviticus 23#^lev-23-10|≈ Leviticus 23:10]] · [[Numbers 15#^num-15-2|≈ Numbers 15:2]] · [[Numbers 15#^num-15-18|≈ Numbers 15:18]] · [[Leviticus 1#^lev-1-2|≈ Leviticus 1:2]] · [[Leviticus 17#^lev-17-2|≈ Leviticus 17:2]]
+> [[Numbers 15#^num-15-2|≈ Numbers 15:2]] · [[Numbers 15#^num-15-18|≈ Numbers 15:18]] · [[Leviticus 23#^lev-23-2|≈ Leviticus 23:2]] · [[Leviticus 23#^lev-23-10|≈ Leviticus 23:10]] · [[Leviticus 1#^lev-1-2|≈ Leviticus 1:2]] · [[Leviticus 17#^lev-17-2|≈ Leviticus 17:2]]
 
 ![[Numbers 28#^num-28-3]]
 > [[Exodus 29#^ex-29-38|Ex. 29:38 (38–46)]] · [[2 Chronicles 31#^2chr-31-2|2 Chr. 31:3 (2–19)]] · [[Numbers 29#^num-29-17|≈ Numbers 29:17]] · [[Numbers 29#^num-29-26|≈ Numbers 29:26]]
@@ -28,7 +28,7 @@ cssclasses:
 > [[Exodus 29#^ex-29-39|≈ Exodus 29:39]]
 
 ![[Numbers 28#^num-28-5]]
-> [[Leviticus 6#^lev-6-20|≈ Leviticus 6:20]] · [[Numbers 15#^num-15-4|≈ Numbers 15:4]] · [[Numbers 15#^num-15-5|≈ Numbers 15:5]] · [[Exodus 29#^ex-29-40|≈ Exodus 29:40]] · [[Leviticus 14#^lev-14-10|≈ Leviticus 14:10]]
+> [[Numbers 15#^num-15-4|≈ Numbers 15:4]] · [[Numbers 15#^num-15-5|≈ Numbers 15:5]] · [[Leviticus 6#^lev-6-20|≈ Leviticus 6:20]] · [[Exodus 29#^ex-29-40|≈ Exodus 29:40]] · [[Leviticus 14#^lev-14-10|≈ Leviticus 14:10]]
 
 ![[Numbers 28#^num-28-6]]
 > [[Exodus 29#^ex-29-38|Ex. 29:42 (38–44)]] · [[Numbers 29#^num-29-6|≈ Numbers 29:6]] · [[Numbers 15#^num-15-25|≈ Numbers 15:25]]
@@ -92,7 +92,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-9|Lev. 23:10 (9–22)]] · [[Numbers 29#^num-29-1|≈ Numbers 29:1]] · [[Numbers 29#^num-29-12|≈ Numbers 29:12]] · [[Leviticus 23#^lev-23-7|≈ Leviticus 23:7]] · [[Leviticus 23#^lev-23-8|≈ Leviticus 23:8]] · [[Leviticus 23#^lev-23-35|≈ Leviticus 23:35]] · [[Leviticus 23#^lev-23-16|≈ Leviticus 23:16]]
 
 ![[Numbers 28#^num-28-27]]
-> [[Numbers 29#^num-29-2|≈ Numbers 29:2]] · [[Numbers 29#^num-29-36|≈ Numbers 29:36]] · [[Numbers 29#^num-29-13|≈ Numbers 29:13]] · [[Leviticus 6#^lev-6-21|≈ Leviticus 6:21]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 15#^num-15-7|≈ Numbers 15:7]]
+> [[Numbers 29#^num-29-2|≈ Numbers 29:2]] · [[Numbers 29#^num-29-36|≈ Numbers 29:36]] · [[Numbers 29#^num-29-13|≈ Numbers 29:13]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 15#^num-15-7|≈ Numbers 15:7]] · [[Leviticus 6#^lev-6-21|≈ Leviticus 6:21]]
 
 ![[Numbers 28#^num-28-28]]
 > [[Numbers 29#^num-29-14|≈ Numbers 29:14]] · [[Numbers 29#^num-29-3|≈ Numbers 29:3]] · [[Numbers 29#^num-29-9|≈ Numbers 29:9]]

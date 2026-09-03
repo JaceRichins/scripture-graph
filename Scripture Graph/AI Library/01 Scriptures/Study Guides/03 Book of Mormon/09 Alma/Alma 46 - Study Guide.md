@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 46
 slug: alma-46
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,28 +51,28 @@ Alma 46 begins immediately after a military victory but shifts attention to inte
 - [[Alma 48]] — 3 footnote cross-references (from [[Alma 46#^alma-46-12|Alma 46:12]])
 - [[Alma 45]] — 2 footnote cross-references (from [[Alma 46#^alma-46-1|Alma 46:1]])
 - [[3 Nephi 6]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-31|Alma 46:31]] ↔ [[3 Nephi 6#^3ne-6-3|3 Nephi 6:3]]
+- [[Ether 13]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-23|Alma 46:23]] ↔ [[Ether 13#^ether-13-7|Ether 13:7]]
+- [[Alma 48]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-38|Alma 46:38]] ↔ [[Alma 48#^alma-48-20|Alma 48:20]]
 - [[Alma 45]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-36|Alma 46:36]] ↔ [[Alma 45#^alma-45-22|Alma 45:22]]
 - [[Helaman 3]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-36|Alma 46:36]] ↔ [[Helaman 3#^hel-3-31|Helaman 3:31]]
 - [[Alma 55]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-28|Alma 46:28]] ↔ [[Alma 55#^alma-55-4|Alma 55:4]]
-- [[Alma 4]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-14|Alma 46:14]] ↔ [[Alma 4#^alma-4-9|Alma 4:9]]
 - [[3 Nephi 5]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-23|Alma 46:23]] ↔ [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]]
+- [[Alma 4]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-14|Alma 46:14]] ↔ [[Alma 4#^alma-4-9|Alma 4:9]]
 - [[Mosiah 26]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-14|Alma 46:14]] ↔ [[Mosiah 26#^mosiah-26-38|Mosiah 26:38]]
 - [[Helaman 16]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-39|Alma 46:39]] ↔ [[Helaman 16#^hel-16-1|Helaman 16:1]]
 - [[3 Nephi 19]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-13|Alma 46:13]] ↔ [[3 Nephi 19#^3ne-19-27|3 Nephi 19:27]]
 - [[Mosiah 18]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-1|Alma 46:1]] ↔ [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]]
-- [[Alma 61]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-20|Alma 46:20]] ↔ [[Alma 61#^alma-61-18|Alma 61:18]]
-- [[Mosiah 27]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-14|Alma 46:14]] ↔ [[Mosiah 27#^mosiah-27-2|Mosiah 27:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Freedom and Liberty]]
 - [[Government and Laws]]
-- [[Covenants]]
-- [[War and Peace]]
-- [[Death and the Spirit World]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -92,6 +92,7 @@ The closing verses distinguish confidence from direct description. Some die beli
 - [[This Day (Elder Ronald A. Rasband, October 2022)|This Day]] — Elder Ronald A. Rasband, 2022-October *(explicit citation)*
 - [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 

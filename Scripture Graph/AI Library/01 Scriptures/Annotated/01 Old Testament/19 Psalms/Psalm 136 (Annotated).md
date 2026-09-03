@@ -17,7 +17,7 @@ cssclasses:
 > Give thanks unto God for all things, for His mercy endures forever.
 
 ![[Psalm 136#^ps-136-1]]
-> [[1 Chronicles 16#^1chr-16-34|≈ 1 Chronicles 16:34]] · [[Psalm 106#^ps-106-1|≈ Psalm 106:1]] · [[Psalm 107#^ps-107-1|≈ Psalm 107:1]] · [[Psalm 118#^ps-118-29|≈ Psalm 118:29]] · [[Psalm 118#^ps-118-1|≈ Psalm 118:1]] · [[2 Chronicles 5#^2chr-5-13|≈ 2 Chronicles 5:13]]
+> [[Psalm 106#^ps-106-1|≈ Psalm 106:1]] · [[1 Chronicles 16#^1chr-16-34|≈ 1 Chronicles 16:34]] · [[Psalm 107#^ps-107-1|≈ Psalm 107:1]] · [[Psalm 118#^ps-118-29|≈ Psalm 118:29]] · [[Psalm 118#^ps-118-1|≈ Psalm 118:1]] · [[2 Chronicles 5#^2chr-5-13|≈ 2 Chronicles 5:13]]
 
 ![[Psalm 136#^ps-136-2]]
 > [[Deuteronomy 10#^deut-10-17|Deut. 10:17 (17–21)]]

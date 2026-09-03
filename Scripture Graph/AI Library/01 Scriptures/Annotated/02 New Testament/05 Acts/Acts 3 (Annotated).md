@@ -80,7 +80,7 @@ cssclasses:
 > [[3 Nephi 20#^3ne-20-24|≈ 3 Nephi 20:24]]
 
 ![[Acts 3#^acts-3-25]]
-> [[3 Nephi 20#^3ne-20-25|≈ 3 Nephi 20:25]] · [[3 Nephi 20#^3ne-20-27|≈ 3 Nephi 20:27]] · [[1 Nephi 22#^1ne-22-9|≈ 1 Nephi 22:9]] · [[1 Nephi 15#^1ne-15-18|≈ 1 Nephi 15:18]]
+> [[1 Nephi 15#^1ne-15-18|≈ 1 Nephi 15:18]] · [[3 Nephi 20#^3ne-20-25|≈ 3 Nephi 20:25]] · [[3 Nephi 20#^3ne-20-27|≈ 3 Nephi 20:27]] · [[1 Nephi 22#^1ne-22-9|≈ 1 Nephi 22:9]]
 
 ![[Acts 3#^acts-3-26]]
 > [[3 Nephi 20#^3ne-20-26|≈ 3 Nephi 20:26]]

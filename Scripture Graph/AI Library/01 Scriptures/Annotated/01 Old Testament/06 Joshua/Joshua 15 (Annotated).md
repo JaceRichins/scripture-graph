@@ -17,7 +17,7 @@ cssclasses:
 > Judah is given an inheritance in Canaan—The Jebusites dwell with Judah at Jerusalem.
 
 ![[Joshua 15#^josh-15-1]]
-> [[Numbers 34#^num-34-2|Num. 34:3 (2–8)]] · [[Numbers 10#^num-10-15|≈ Numbers 10:15]] · [[Numbers 10#^num-10-16|≈ Numbers 10:16]] · [[Numbers 10#^num-10-19|≈ Numbers 10:19]] · [[Numbers 10#^num-10-20|≈ Numbers 10:20]] · [[Numbers 10#^num-10-23|≈ Numbers 10:23]] · [[Numbers 10#^num-10-24|≈ Numbers 10:24]]
+> [[Numbers 34#^num-34-2|Num. 34:3 (2–8)]] · [[Joshua 19#^josh-19-1|≈ Joshua 19:1]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]]
 
 ![[Joshua 15#^josh-15-2]]
 > [[Joshua 3#^josh-3-16|Josh. 3:16]]
@@ -33,7 +33,7 @@ cssclasses:
 > [[Joshua 18#^josh-18-17|Josh. 18:17]] · [[Joshua 18#^josh-18-17|≈ Joshua 18:17]] · [[Joshua 18#^josh-18-12|≈ Joshua 18:12]]
 
 ![[Joshua 15#^josh-15-7]]
-> [[Joshua 16#^josh-16-8|≈ Joshua 16:8]] · [[Joshua 18#^josh-18-12|≈ Joshua 18:12]] · [[Joshua 18#^josh-18-14|≈ Joshua 18:14]]
+> [[Joshua 18#^josh-18-12|≈ Joshua 18:12]] · [[Joshua 18#^josh-18-14|≈ Joshua 18:14]] · [[Joshua 16#^josh-16-8|≈ Joshua 16:8]]
 
 ![[Joshua 15#^josh-15-8]]
 > [[Joshua 18#^josh-18-28|18:28]] · [[Joshua 18#^josh-18-16|≈ Joshua 18:16]] · [[Joshua 18#^josh-18-12|≈ Joshua 18:12]] · [[Exodus 17#^ex-17-10|≈ Exodus 17:10]] · [[Jeremiah 7#^jer-7-31|≈ Jeremiah 7:31]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 19#^jer-19-2|≈ Jeremiah 19:2]]
@@ -68,10 +68,10 @@ cssclasses:
 > [[Judges 1#^judg-1-15|Judg. 1:15]] · [[Judges 1#^judg-1-15|≈ Judges 1:15]]
 
 ![[Joshua 15#^josh-15-20]]
-> [[Numbers 10#^num-10-14|≈ Numbers 10:14]] · [[Numbers 10#^num-10-15|≈ Numbers 10:15]] · [[Numbers 10#^num-10-16|≈ Numbers 10:16]] · [[Numbers 10#^num-10-19|≈ Numbers 10:19]] · [[Numbers 10#^num-10-20|≈ Numbers 10:20]] · [[Numbers 10#^num-10-23|≈ Numbers 10:23]]
+> [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]] · [[Joshua 19#^josh-19-1|≈ Joshua 19:1]]
 
 ![[Joshua 15#^josh-15-21]]
-> [[Numbers 10#^num-10-15|≈ Numbers 10:15]] · [[Numbers 10#^num-10-16|≈ Numbers 10:16]] · [[Numbers 10#^num-10-19|≈ Numbers 10:19]] · [[Numbers 10#^num-10-20|≈ Numbers 10:20]] · [[Numbers 10#^num-10-23|≈ Numbers 10:23]] · [[Numbers 10#^num-10-24|≈ Numbers 10:24]]
+> [[Joshua 19#^josh-19-1|≈ Joshua 19:1]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]]
 
 ![[Joshua 15#^josh-15-22]]
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 14
 slug: rev-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,8 @@ _Not yet developed._
 - [[Revelation 10]] — 2 parallel verses, e.g. [[Revelation 14#^rev-14-13|Revelation 14:13]] ↔ [[Revelation 10#^rev-10-4|Revelation 10:4]]
 - [[Revelation 19]] — 1 parallel verse, e.g. [[Revelation 14#^rev-14-2|Revelation 14:2]] ↔ [[Revelation 19#^rev-19-6|Revelation 19:6]]
 - [[Revelation 18]] — 2 parallel verses, e.g. [[Revelation 14#^rev-14-8|Revelation 14:8]] ↔ [[Revelation 18#^rev-18-3|Revelation 18:3]]
+- [[Revelation 16]] — 0 parallel verses
+- [[D&C 59]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +85,11 @@ _Not yet developed._
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
+- **Times and Seasons 1842-01-01 (Vol. 3 No. 5)** (periodical, 1842-01-01) *(explicit citation)*
+- **Times and Seasons 1842-07-15 (Vol. 3 No. 18)** (periodical, 1842-07-15) *(explicit citation)*
+- **Times and Seasons 1845-02-15 (Vol. 6 No. 3)** (periodical, 1845-02-15) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1837-01-01 (Vol. 3 No. 4)** (periodical, 1837-01-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

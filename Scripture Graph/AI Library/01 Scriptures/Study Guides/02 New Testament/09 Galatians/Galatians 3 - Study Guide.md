@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 3
 slug: gal-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[2 Nephi 2]] — 1 footnote cross-reference (from [[Galatians 3#^gal-3-2|Galatians 3:2]])
 - [[Mosiah 13]] — 1 footnote cross-reference (from [[Galatians 3#^gal-3-2|Galatians 3:2]])
 - [[Alma 42]] — 1 footnote cross-reference (from [[Galatians 3#^gal-3-13|Galatians 3:13]])
+- [[1 Corinthians 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,6 +80,7 @@ _Not yet developed._
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*

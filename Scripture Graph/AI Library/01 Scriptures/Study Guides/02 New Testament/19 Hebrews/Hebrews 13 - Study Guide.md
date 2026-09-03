@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 13
 slug: heb-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -68,11 +68,14 @@ _Not yet developed._
 - [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
 - [[The Lord Jesus Christ Teaches Us to Minister (Elder Juan A. Uceda, April 2023)|The Lord Jesus Christ Teaches Us to Minister]] — Elder Juan A. Uceda, 2023-April *(explicit citation)*
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
+- [[You Matter to Him (President Dieter F. Uchtdorf, October 2011)|You Matter to Him]] — President Dieter F. Uchtdorf, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Endure to the End** (reference-entry) *(explicit citation)*
+- **Adultery** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

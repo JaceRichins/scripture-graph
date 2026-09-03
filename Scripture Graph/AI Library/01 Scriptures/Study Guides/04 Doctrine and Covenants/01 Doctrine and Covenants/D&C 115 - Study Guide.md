@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 115
 slug: dc-115
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -42,23 +42,29 @@ A cautious outline is: (1) recipients and the church's prescribed name, verses 1
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 124]] — 3 footnote cross-references (from [[D&C 115#^dc-115-1|D&C 115:1]])
+- [[D&C 101]] — 3 footnote cross-references (from [[D&C 115#^dc-115-6|D&C 115:6]])
+- [[D&C 81]] — 1 footnote cross-reference (from [[D&C 115#^dc-115-1|D&C 115:1]])
+- [[D&C 112]] — 1 footnote cross-reference (from [[D&C 115#^dc-115-1|D&C 115:1]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[D&C 115#^dc-115-2|D&C 115:2]])
+- [[3 Nephi 27]] — 1 footnote cross-reference (from [[D&C 115#^dc-115-4|D&C 115:4]])
 - [[Official Declaration 1]] — 6 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[Official Declaration 1#^od-1-3|Official Declaration 1:3]]
 - [[Official Declaration 2]] — 6 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[Official Declaration 2#^od-2-2|Official Declaration 2:2]]
 - [[D&C 127]] — 3 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[D&C 127#^dc-127-12|D&C 127:12]]
 - [[D&C 136]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[D&C 136#^dc-136-2|D&C 136:2]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-4|D&C 115:4]] ↔ [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1]]
+- [[D&C 95]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-17|D&C 115:17]] ↔ [[D&C 95#^dc-95-11|D&C 95:11]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-3|D&C 115:3]] ↔ [[D&C 128#^dc-128-21|D&C 128:21]]
+- [[D&C 124]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
 - [[D&C 71]] — 2 parallel verses, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
 - [[D&C 132]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
 - [[D&C 80]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 80#^dc-80-1|D&C 80:1]]
 - [[D&C 126]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 126#^dc-126-1|D&C 126:1]]
-- [[D&C 90]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-17|D&C 115:17]] ↔ [[D&C 90#^dc-90-28|D&C 90:28]]
-- [[D&C 70]] — 1 parallel verse, e.g. [[D&C 115#^dc-115-1|D&C 115:1]] ↔ [[D&C 70#^dc-70-1|D&C 70:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Kingdom of God]]
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -72,6 +78,7 @@ Verse 13 restricts Joseph Smith, Sidney Rigdon, and Hyrum Smith from incurring a
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Now Is the Time to Arise and Shine! (Elaine S. Dalton, April 2012)|Now Is the Time to Arise and Shine!]] — Elaine S. Dalton, 2012-April *(explicit citation)*
 - [[Bearing Witness of Jesus Christ in Word and Actions (Elder Adilson de Paula Parrella, October 2023)|Bearing Witness of Jesus Christ in Word and Actions]] — Elder Adilson de Paula Parrella, 2023-October *(explicit citation)*
 - [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
 - [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
@@ -81,20 +88,20 @@ Verse 13 restricts Joseph Smith, Sidney Rigdon, and Hyrum Smith from incurring a
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 - [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
-- [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘The Tithing of My People’** (history) *(explicit citation)*
 - **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
+- **26 A Holy and Consecrated Land** (history) *(explicit citation)*
+- **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Mormon Church** (reference-entry) *(explicit citation)*
 - **Mormonism** (reference-entry) *(explicit citation)*
 - **Mormons** (reference-entry) *(explicit citation)*
 - **Stake** (reference-entry) *(explicit citation)*
-- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

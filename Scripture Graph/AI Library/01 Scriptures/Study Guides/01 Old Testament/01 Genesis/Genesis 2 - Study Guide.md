@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 2
 slug: gen-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Abraham 5]] — 19 parallel verses, e.g. [[Genesis 2#^gen-2-9|Genesis 2:9]] ↔ [[Abraham 5#^abr-5-9|Abraham 5:9]]
 - [[Genesis 1]] — 1 parallel verse, e.g. [[Genesis 2#^gen-2-20|Genesis 2:20]] ↔ [[Genesis 1#^gen-1-30|Genesis 1:30]]
 - [[Abraham 4]] — 1 parallel verse, e.g. [[Genesis 2#^gen-2-20|Genesis 2:20]] ↔ [[Abraham 4#^abr-4-30|Abraham 4:30]]
+- [[Moses 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,9 +72,9 @@ _Not yet developed._
 - [[The Ministry of Reconciliation (Elder Jeffrey R. Holland, October 2018)|The Ministry of Reconciliation]] — Elder Jeffrey R. Holland, 2018-October *(explicit citation)*
 - [[The Lord’s Way (Elder Stanley G. Ellis, April 2013)|The Lord’s Way]] — Elder Stanley G. Ellis, 2013-April *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
+- [[The Sabbath and the Sacrament (Elder L. Tom Perry, April 2011)|The Sabbath and the Sacrament]] — Elder L. Tom Perry, 2011-April *(explicit citation)*
+- [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
 - [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
-- [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
-- [[Conference Report, October 1924 (General Conference (full report), October 1924)|Conference Report, October 1924]] — General Conference (full report), 1924-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -86,6 +87,7 @@ _Not yet developed._
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

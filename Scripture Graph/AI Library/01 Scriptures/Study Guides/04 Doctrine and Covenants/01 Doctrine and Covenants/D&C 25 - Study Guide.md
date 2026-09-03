@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 25
 slug: dc-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 1]] — 1 footnote cross-reference (from [[D&C 25#^dc-25-1|D&C 25:1]])
+- [[Deuteronomy 30]] — 1 footnote cross-reference (from [[D&C 25#^dc-25-2|D&C 25:2]])
+- [[D&C 52]] — 1 footnote cross-reference (from [[D&C 25#^dc-25-2|D&C 25:2]])
+- [[D&C 58]] — 1 footnote cross-reference (from [[D&C 25#^dc-25-2|D&C 25:2]])
+- [[D&C 63]] — 1 footnote cross-reference (from [[D&C 25#^dc-25-2|D&C 25:2]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[D&C 25#^dc-25-2|D&C 25:2]])
 - [[3 Nephi 11]] — 2 parallel verses, e.g. [[D&C 25#^dc-25-16|D&C 25:16]] ↔ [[3 Nephi 11#^3ne-11-35|3 Nephi 11:35]]
 - [[2 John 1]] — 0 parallel verses
 - [[Colossians 3]] — 0 parallel verses
@@ -71,13 +77,13 @@ The chapter joins grace and covenant responsibility without reducing either one 
 - [[Live Up to Your Privileges (President Emily Belle Freeman, October 2024)|Live Up to Your Privileges]] — President Emily Belle Freeman, 2024-October *(explicit citation)*
 - [[An Especially Noble Calling (Joy D. Jones, April 2020)|An Especially Noble Calling]] — Joy D. Jones, 2020-April *(explicit citation)*
 - [[Tune Your Heart to Jesus Christ The Sacred Gift of Primary Music (Sister Tracy Y. Browning, October 2025)|Tune Your Heart to Jesus Christ: The Sacred Gift of Primary Music]] — Sister Tracy Y. Browning, 2025-October *(explicit citation)*
+- [[Guardians of Virtue (Elaine S. Dalton, April 2011)|Guardians of Virtue]] — Elaine S. Dalton, 2011-April *(explicit citation)*
+- [[Cleave unto the Covenants (Barbara Thompson, October 2011)|Cleave unto the Covenants]] — Barbara Thompson, 2011-October *(explicit citation)*
 - [[Be Thou Humble (Elder Steven E. Snow, April 2016)|Be Thou Humble]] — Elder Steven E. Snow, 2016-April *(explicit citation)*
 - [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
 - [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
 - [[Build a Fortress of Spirituality and Protection (Elder Ronald A. Rasband, April 2019)|Build a Fortress of Spirituality and Protection]] — Elder Ronald A. Rasband, 2019-April *(explicit citation)*
 - [[Spiritual Treasures (President Russell M. Nelson, October 2019)|Spiritual Treasures]] — President Russell M. Nelson, 2019-October *(explicit citation)*
-- [[Sisters in Zion (President Henry B. Eyring, October 2020)|Sisters in Zion]] — President Henry B. Eyring, 2020-October *(explicit citation)*
-- [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -87,9 +93,11 @@ The chapter joins grace and covenant responsibility without reducing either one 
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
 - **Worship God the Father** (reference-entry) *(explicit citation)*
+- **09 Come Life or Come Death** (history) *(explicit citation)*
+- **20 Do Not Cast Me Off** (history) *(explicit citation)*
+- **37 We Will Prove Them** (history) *(explicit citation)*
+- **41 God Must Be the Judge** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
-- **Relief Society** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

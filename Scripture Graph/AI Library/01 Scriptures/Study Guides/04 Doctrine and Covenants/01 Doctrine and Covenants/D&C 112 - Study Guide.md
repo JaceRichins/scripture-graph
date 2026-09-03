@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 112
 slug: dc-112
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,8 +48,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 18]] — 3 footnote cross-references (from [[D&C 112#^dc-112-1|D&C 112:1]])
+- [[D&C 107]] — 3 footnote cross-references (from [[D&C 112#^dc-112-4|D&C 112:4]])
+- [[Matthew 23]] — 2 footnote cross-references (from [[D&C 112#^dc-112-3|D&C 112:3]])
+- [[John 16]] — 2 footnote cross-references (from [[D&C 112#^dc-112-4|D&C 112:4]])
+- [[D&C 124]] — 2 footnote cross-references (from [[D&C 112#^dc-112-24|D&C 112:24]])
+- [[Acts 10]] — 1 footnote cross-reference (from [[D&C 112#^dc-112-1|D&C 112:1]])
 - [[D&C 68]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[D&C 68#^dc-68-9|D&C 68:9]]
+- [[Revelation 22]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-34|D&C 112:34]] ↔ [[Revelation 22#^rev-22-12|Revelation 22:12]]
 - [[Mormon 9]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[Mormon 9#^morm-9-23|Mormon 9:23]]
+- [[Mark 16]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[Mark 16#^mark-16-16|Mark 16:16]]
 - [[D&C 61]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-14|D&C 112:14]] ↔ [[D&C 61#^dc-61-36|D&C 61:36]]
 - [[D&C 124]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
 - [[D&C 71]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
@@ -58,16 +66,14 @@ _Not yet developed._
 - [[D&C 115]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 115#^dc-115-1|D&C 115:1]]
 - [[D&C 126]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 126#^dc-126-1|D&C 126:1]]
 - [[D&C 132]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
-- [[Mark 13]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-14|D&C 112:14]] ↔ [[Mark 13#^mark-13-37|Mark 13:37]]
-- [[Ether 4]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[Ether 4#^ether-4-18|Ether 4:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Apostles]]
 - [[Sustaining Church Leaders]]
 - [[Repentance and Forgiveness]]
 - [[Final Judgment]]
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -97,6 +103,7 @@ D&C 112:29 joins belief and [[Baptism]] with [[Salvation]], closely paralleling 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **24 Truth Shall Prevail** (history) *(explicit citation)*
 - **The Faith and Fall of Thomas Marsh** (history) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
@@ -106,7 +113,6 @@ D&C 112:29 joins belief and [[Baptism]] with [[Salvation]], closely paralleling 
 - **Index by Section Number** (history) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
-- **Humility** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

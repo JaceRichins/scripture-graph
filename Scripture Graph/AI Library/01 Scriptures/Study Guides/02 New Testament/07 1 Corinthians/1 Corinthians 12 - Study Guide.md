@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 12
 slug: 1cor-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,7 +49,7 @@ _Not yet developed._
 - [[D&C 25]] — 1 footnote cross-reference (from [[1 Corinthians 12#^1cor-12-8|1 Corinthians 12:8]])
 - [[D&C 89]] — 1 footnote cross-reference (from [[1 Corinthians 12#^1cor-12-8|1 Corinthians 12:8]])
 - [[Moroni 10]] — 1 footnote cross-reference (from [[1 Corinthians 12#^1cor-12-8|1 Corinthians 12:8]])
-- [[Moroni 10]] — 0 parallel verses
+- [[Moroni 10]] — 3 parallel verses, e.g. [[1 Corinthians 12#^1cor-12-9|1 Corinthians 12:9]] ↔ [[Moroni 10#^moro-10-11|Moroni 10:11]]
 - [[Ephesians 4]] — 0 parallel verses
 - [[Galatians 3]] — 0 parallel verses
 - [[Romans 12]] — 0 parallel verses
@@ -61,9 +61,9 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Spiritual Gifts]]
-- [[Gift of Tongues]]
 - [[Prophecy]]
 - [[Jews and Gentiles]]
+- [[Gift of Tongues]] *(keyword match — unconfirmed)*
 - [[Miracles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -96,10 +96,10 @@ The chapter also resists ranking human worth by visibility. Members that seem fe
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **15 Holy Places** (history) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Religious Enthusiasm among Early Ohio Converts** (history) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
-- **Worship God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

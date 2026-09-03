@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 19
 slug: ex-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,10 @@ _Not yet developed._
 - [[Deuteronomy 5]] — 2 footnote cross-references (from [[Exodus 19#^ex-19-9|Exodus 19:9]])
 - [[Exodus 34]] — 2 footnote cross-references (from [[Exodus 19#^ex-19-12|Exodus 19:12]])
 - [[Numbers 10]] — 1 footnote cross-reference (from [[Exodus 19#^ex-19-1|Exodus 19:1]])
+- [[Psalm 97]] — 0 parallel verses
+- [[Exodus 24]] — 0 parallel verses
+- [[Deuteronomy 4]] — 0 parallel verses
+- [[1 Peter 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,12 +70,16 @@ _Not yet developed._
 - [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
 - [[God’s Favourite (Elder Karl D. Hirst, October 2024)|God’s Favourite]] — Elder Karl D. Hirst, 2024-October *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1836-06-01 (Vol. 2 No. 9)** (periodical, 1836-06-01) *(explicit citation)*
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **Aaron** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

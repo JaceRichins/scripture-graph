@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 78
 slug: ps-78
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,8 @@ The verb 'tempted'/tested God recurs at vv.18, 41, and 56, marking renewed provo
 - [[Numbers 11]] — 0 parallel verses
 - [[1 Samuel 16]] — 0 parallel verses
 - [[Exodus 9]] — 0 parallel verses
+- [[Psalm 106]] — 0 parallel verses
+- [[1 Samuel 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

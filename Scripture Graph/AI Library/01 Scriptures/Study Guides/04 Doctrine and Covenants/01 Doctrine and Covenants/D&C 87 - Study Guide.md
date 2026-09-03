@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 87
 slug: dc-87
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 45]] — 5 footnote cross-references (from [[D&C 87#^dc-87-1|D&C 87:1]])
+- [[D&C 130]] — 2 footnote cross-references (from [[D&C 87#^dc-87-1|D&C 87:1]])
+- [[Matthew 24]] — 2 footnote cross-references (from [[D&C 87#^dc-87-2|D&C 87:2]])
+- [[Joseph Smith—History 1]] — 1 footnote cross-reference (from [[D&C 87#^dc-87-1|D&C 87:1]])
+- [[Joel 3]] — 1 footnote cross-reference (from [[D&C 87#^dc-87-2|D&C 87:2]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[D&C 87#^dc-87-2|D&C 87:2]])
 - [[D&C 88]] — 1 parallel verse, e.g. [[D&C 87#^dc-87-7|D&C 87:7]] ↔ [[D&C 88#^dc-88-2|D&C 88:2]]
 - [[D&C 95]] — 1 parallel verse, e.g. [[D&C 87#^dc-87-7|D&C 87:7]] ↔ [[D&C 95#^dc-95-7|D&C 95:7]]
 - [[D&C 45]] — 0 parallel verses
@@ -58,10 +64,10 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Prophecy]]
 - [[Signs of the Times]]
 - [[Endurance]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -86,9 +92,12 @@ The text itself interprets the calamities of verse 6 as divine wrath, indignatio
 ## Church History
 <!-- SG:BEGIN history -->
 - **Peace and War** (history) *(explicit citation)*
+- **15 Holy Places** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Sources Cited** (history) *(explicit citation)*
+- **Sources Cited** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

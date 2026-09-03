@@ -17,7 +17,7 @@ cssclasses:
 > At the Second Coming, the proud and wicked will be burned as stubble—Elijah will return before that great and dreadful day.
 
 ![[Malachi 4#^mal-4-1]]
-> [[3 Nephi 25#^3ne-25-1|3 Ne. 25:1 (1–6)]] · [[Isaiah 34#^isa-34-8|Isa. 34:8]] · [[Isaiah 61#^isa-61-2|61:2]] · [[3 Nephi 21#^3ne-21-20|3 Ne. 21:21 (20–21)]] · [[D&C 97#^dc-97-25|D&amp;C 97:26 (25–28)]] · [[Psalm 21#^ps-21-8|Ps. 21:9 (8–10)]] · [[Amos 4#^amos-4-11|Amos 4:11]] · [[Jude 1#^jude-1-23|Jude 1:23]] · [[Isaiah 47#^isa-47-14|Isa. 47:14]] · [[Joseph Smith—History 1#^jsh-1-37|≈ Joseph Smith—History 1:37]]
+> [[3 Nephi 25#^3ne-25-1|3 Ne. 25:1 (1–6)]] · [[Isaiah 34#^isa-34-8|Isa. 34:8]] · [[Isaiah 61#^isa-61-2|61:2]] · [[3 Nephi 21#^3ne-21-20|3 Ne. 21:21 (20–21)]] · [[D&C 97#^dc-97-25|D&amp;C 97:26 (25–28)]] · [[Psalm 21#^ps-21-8|Ps. 21:9 (8–10)]] · [[Amos 4#^amos-4-11|Amos 4:11]] · [[Jude 1#^jude-1-23|Jude 1:23]] · [[Isaiah 47#^isa-47-14|Isa. 47:14]] · [[2 Nephi 26#^2ne-26-4|≈ 2 Nephi 26:4]]
 
 ![[Malachi 4#^mal-4-2]]
 > [[3 Nephi 25#^3ne-25-2|3 Ne. 25:2]] · [[2 Nephi 25#^2ne-25-11|2 Ne. 25:13 (11–19)]] · [[1 Nephi 22#^1ne-22-24|1 Ne. 22:24]] · [[3 Nephi 25#^3ne-25-2|≈ 3 Nephi 25:2]]

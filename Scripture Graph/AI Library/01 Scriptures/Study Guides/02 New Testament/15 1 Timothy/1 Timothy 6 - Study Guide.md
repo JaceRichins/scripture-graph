@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 6
 slug: 1tim-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -81,7 +81,7 @@ Timothy's charge also joins human perseverance with divine calling. He must purs
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Almsgiving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 16
 slug: rom-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,12 +69,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[What I Hope My Granddaughters (and Grandsons) Will Understand about Relief Society (Julie B. Beck, October 2011)|What I Hope My Granddaughters (and Grandsons) Will Understand about Relief Society]] — Julie B. Beck, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Relief Society** (reference-entry) *(explicit citation)*
+- **Aquila** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

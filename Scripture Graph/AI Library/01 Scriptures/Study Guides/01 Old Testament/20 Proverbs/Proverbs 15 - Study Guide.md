@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 15
 slug: prov-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Genesis 26]] — 1 footnote cross-reference (from [[Proverbs 15#^prov-15-1|Proverbs 15:1]])
 - [[D&C 68]] — 1 footnote cross-reference (from [[Proverbs 15#^prov-15-5|Proverbs 15:5]])
 - [[Proverbs 10]] — 1 parallel verse, e.g. [[Proverbs 15#^prov-15-20|Proverbs 15:20]] ↔ [[Proverbs 10#^prov-10-1|Proverbs 10:1]]
+- [[Proverbs 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -95,3 +96,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

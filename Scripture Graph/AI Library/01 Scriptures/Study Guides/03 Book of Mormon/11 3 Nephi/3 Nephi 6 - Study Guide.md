@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 6
 slug: 3ne-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Ether 9]] — 2 parallel verses, e.g. [[3 Nephi 6#^3ne-6-7|3 Nephi 6:7]] ↔ [[Ether 9#^ether-9-32|Ether 9:32]]
 - [[Alma 50]] — 1 parallel verse, e.g. [[3 Nephi 6#^3ne-6-19|3 Nephi 6:19]] ↔ [[Alma 50#^alma-50-40|Alma 50:40]]
 - [[1 Nephi 16]] — 1 parallel verse, e.g. [[3 Nephi 6#^3ne-6-14|3 Nephi 6:14]] ↔ [[1 Nephi 16#^1ne-16-4|1 Nephi 16:4]]
+- [[Ether 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

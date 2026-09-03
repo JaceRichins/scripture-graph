@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 96
 slug: dc-96
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 96]] · My notes: [[D&C 96 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1, The Kirtland Stake of Zion is to be made strong; 2–5, The bishop is to divide the inheritances for the Saints; 6–9, John Johnson is to be a member of the united order.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 104]] — 2 footnote cross-references (from [[D&C 96#^dc-96-1|D&C 96:1]])
+- [[Isaiah 33]] — 1 footnote cross-reference (from [[D&C 96#^dc-96-1|D&C 96:1]])
+- [[Isaiah 54]] — 1 footnote cross-reference (from [[D&C 96#^dc-96-1|D&C 96:1]])
+- [[D&C 94]] — 1 footnote cross-reference (from [[D&C 96#^dc-96-1|D&C 96:1]])
+- [[D&C 72]] — 1 footnote cross-reference (from [[D&C 96#^dc-96-2|D&C 96:2]])
+- [[2 Chronicles 3]] — 1 footnote cross-reference (from [[D&C 96#^dc-96-2|D&C 96:2]])
 - [[D&C 105]] — 1 parallel verse, e.g. [[D&C 96#^dc-96-8|D&C 96:8]] ↔ [[D&C 105#^dc-105-33|D&C 105:33]]
 - [[1 Nephi 22]] — 1 parallel verse, e.g. [[D&C 96#^dc-96-5|D&C 96:5]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
 <!-- SG:END related-scriptures -->

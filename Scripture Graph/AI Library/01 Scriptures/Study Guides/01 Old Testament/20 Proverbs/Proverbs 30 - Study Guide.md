@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 30
 slug: prov-30
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Deuteronomy 32]] — 1 footnote cross-reference (from [[Proverbs 30#^prov-30-12|Proverbs 30:12]])
 - [[Psalm 95]] — 1 footnote cross-reference (from [[Proverbs 30#^prov-30-12|Proverbs 30:12]])
 - [[Hebrews 3]] — 1 footnote cross-reference (from [[Proverbs 30#^prov-30-12|Proverbs 30:12]])
+- [[Proverbs 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

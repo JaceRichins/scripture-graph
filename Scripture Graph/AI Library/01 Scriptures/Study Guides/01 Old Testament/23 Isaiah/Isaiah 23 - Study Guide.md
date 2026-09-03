@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 23
 slug: isa-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,8 @@ _Not yet developed._
 - [[Isaiah 10]] — 2 parallel verses, e.g. [[Isaiah 23#^isa-23-15|Isaiah 23:15]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[2 Nephi 20]] — 2 parallel verses, e.g. [[Isaiah 23#^isa-23-15|Isaiah 23:15]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
 - [[2 Nephi 24]] — 2 parallel verses, e.g. [[Isaiah 23#^isa-23-15|Isaiah 23:15]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
+- [[Ezekiel 27]] — 0 parallel verses
+- [[Ezekiel 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

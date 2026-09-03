@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 33
 slug: num-33
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,9 +59,9 @@ _Not yet developed._
 - [[Leviticus 23]] — 2 parallel verses, e.g. [[Numbers 33#^num-33-51|Numbers 33:51]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
 - [[Joshua 9]] — 2 parallel verses, e.g. [[Numbers 33#^num-33-52|Numbers 33:52]] ↔ [[Joshua 9#^josh-9-24|Joshua 9:24]]
 - [[Numbers 34]] — 1 parallel verse, e.g. [[Numbers 33#^num-33-51|Numbers 33:51]] ↔ [[Numbers 34#^num-34-2|Numbers 34:2]]
+- [[Exodus 15]] — 1 parallel verse, e.g. [[Numbers 33#^num-33-9|Numbers 33:9]] ↔ [[Exodus 15#^ex-15-27|Exodus 15:27]]
 - [[Exodus 14]] — 1 parallel verse, e.g. [[Numbers 33#^num-33-3|Numbers 33:3]] ↔ [[Exodus 14#^ex-14-8|Exodus 14:8]]
 - [[Leviticus 25]] — 1 parallel verse, e.g. [[Numbers 33#^num-33-51|Numbers 33:51]] ↔ [[Leviticus 25#^lev-25-2|Leviticus 25:2]]
-- [[Exodus 15]] — 1 parallel verse, e.g. [[Numbers 33#^num-33-9|Numbers 33:9]] ↔ [[Exodus 15#^ex-15-27|Exodus 15:27]]
 - [[Numbers 6]] — 1 parallel verse, e.g. [[Numbers 33#^num-33-51|Numbers 33:51]] ↔ [[Numbers 6#^num-6-2|Numbers 6:2]]
 <!-- SG:END related-scriptures -->
 
@@ -83,6 +83,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Center Place** (history) *(explicit citation)*
+- **12 After Much Tribulation** (history) *(explicit citation)*
+- **Aaron** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

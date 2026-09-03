@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 1
 slug: 2pet-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,8 +50,10 @@ _Not yet developed._
 - [[D&C 45]] — 1 footnote cross-reference (from [[2 Peter 1#^2pet-1-3|2 Peter 1:3]])
 - [[1 Samuel 10]] — 1 footnote cross-reference (from [[2 Peter 1#^2pet-1-4|2 Peter 1:4]])
 - [[2 Peter 2]] — 1 footnote cross-reference (from [[2 Peter 1#^2pet-1-4|2 Peter 1:4]])
-- [[Matthew 17]] — 0 parallel verses
-- [[3 Nephi 11]] — 0 parallel verses
+- [[Matthew 3]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[Matthew 3#^matt-3-17|Matthew 3:17]]
+- [[Matthew 17]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[Matthew 17#^matt-17-5|Matthew 17:5]]
+- [[Mark 1]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[Mark 1#^mark-1-11|Mark 1:11]]
+- [[3 Nephi 11]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[3 Nephi 11#^3ne-11-7|3 Nephi 11:7]]
 - [[D&C 107]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

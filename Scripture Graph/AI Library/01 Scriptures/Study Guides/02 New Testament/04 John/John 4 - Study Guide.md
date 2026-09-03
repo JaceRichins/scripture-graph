@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 4
 slug: john-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[2 Kings 17]] — 1 footnote cross-reference (from [[John 4#^john-4-9|John 4:9]])
 - [[Luke 10]] — 1 footnote cross-reference (from [[John 4#^john-4-9|John 4:9]])
 - [[John 6]] — 2 parallel verses, e.g. [[John 4#^john-4-34|John 4:34]] ↔ [[John 6#^john-6-38|John 6:38]]
+- [[D&C 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -80,6 +81,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
 - **Worship God the Father** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
+- **Times and Seasons 1840-03-01 (Vol. 1 No. 5)** (periodical, 1840-03-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

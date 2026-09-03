@@ -105,7 +105,7 @@ cssclasses:
 ![[Genesis 19#^gen-19-36]]
 
 ![[Genesis 19#^gen-19-37]]
-> [[Deuteronomy 2#^deut-2-9|Deut. 2:9]] · [[2 Nephi 21#^2ne-21-14|2 Ne. 21:14]] · [[2 Kings 3#^2kgs-3-4|2 Kgs. 3:4]] · [[Isaiah 15#^isa-15-1|Isa. 15:1]] · [[Genesis 4#^gen-4-25|≈ Genesis 4:25]] · [[Genesis 38#^gen-38-5|≈ Genesis 38:5]] · [[Judges 13#^judg-13-24|≈ Judges 13:24]] · [[1 Samuel 1#^1sam-1-20|≈ 1 Samuel 1:20]]
+> [[Deuteronomy 2#^deut-2-9|Deut. 2:9]] · [[2 Nephi 21#^2ne-21-14|2 Ne. 21:14]] · [[2 Kings 3#^2kgs-3-4|2 Kgs. 3:4]] · [[Isaiah 15#^isa-15-1|Isa. 15:1]] · [[Genesis 38#^gen-38-5|≈ Genesis 38:5]] · [[Genesis 4#^gen-4-25|≈ Genesis 4:25]] · [[Judges 13#^judg-13-24|≈ Judges 13:24]] · [[1 Samuel 1#^1sam-1-20|≈ 1 Samuel 1:20]]
 
 ![[Genesis 19#^gen-19-38]]
-> [[Deuteronomy 2#^deut-2-18|Deut. 2:19 (18–19)]] · [[Ezekiel 25#^ezek-25-2|Ezek. 25:2]] · [[Genesis 4#^gen-4-25|≈ Genesis 4:25]] · [[Genesis 38#^gen-38-5|≈ Genesis 38:5]] · [[Judges 13#^judg-13-24|≈ Judges 13:24]] · [[1 Samuel 1#^1sam-1-20|≈ 1 Samuel 1:20]]
+> [[Deuteronomy 2#^deut-2-18|Deut. 2:19 (18–19)]] · [[Ezekiel 25#^ezek-25-2|Ezek. 25:2]] · [[Genesis 38#^gen-38-5|≈ Genesis 38:5]] · [[Genesis 4#^gen-4-25|≈ Genesis 4:25]] · [[Judges 13#^judg-13-24|≈ Judges 13:24]] · [[1 Samuel 1#^1sam-1-20|≈ 1 Samuel 1:20]]

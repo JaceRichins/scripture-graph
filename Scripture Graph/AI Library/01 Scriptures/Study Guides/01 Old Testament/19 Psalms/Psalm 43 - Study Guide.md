@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 43
 slug: ps-43
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

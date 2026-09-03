@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 23
 slug: 1sam-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

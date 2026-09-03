@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 22
 slug: 2sam-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,7 +51,7 @@ _Not yet developed._
 - [[D&C 35]] — 1 footnote cross-reference (from [[2 Samuel 22#^2sam-22-3|2 Samuel 22:3]])
 - [[Proverbs 18]] — 1 footnote cross-reference (from [[2 Samuel 22#^2sam-22-3|2 Samuel 22:3]])
 - [[D&C 97]] — 1 footnote cross-reference (from [[2 Samuel 22#^2sam-22-3|2 Samuel 22:3]])
-- [[Psalm 18]] — 0 parallel verses
+- [[Psalm 18]] — 42 parallel verses, e.g. [[2 Samuel 22#^2sam-22-9|2 Samuel 22:9]] ↔ [[Psalm 18#^ps-18-8|Psalm 18:8]]
 - [[Psalm 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

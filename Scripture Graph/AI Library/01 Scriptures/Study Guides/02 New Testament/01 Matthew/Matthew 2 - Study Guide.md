@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 2
 slug: matt-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

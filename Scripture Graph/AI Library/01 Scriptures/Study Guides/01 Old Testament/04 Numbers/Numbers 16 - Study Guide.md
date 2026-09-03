@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 16
 slug: num-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[3 John 1]] — 1 footnote cross-reference (from [[Numbers 16#^num-16-3|Numbers 16:3]])
 - [[Ezekiel 40]] — 1 footnote cross-reference (from [[Numbers 16#^num-16-5|Numbers 16:5]])
 - [[Deuteronomy 11]] — 5 parallel verses, e.g. [[Numbers 16#^num-16-32|Numbers 16:32]] ↔ [[Deuteronomy 11#^deut-11-6|Deuteronomy 11:6]]
+- [[Numbers 20]] — 4 parallel verses, e.g. [[Numbers 16#^num-16-3|Numbers 16:3]] ↔ [[Numbers 20#^num-20-2|Numbers 20:2]]
 - [[Exodus 16]] — 5 parallel verses, e.g. [[Numbers 16#^num-16-41|Numbers 16:41]] ↔ [[Exodus 16#^ex-16-2|Exodus 16:2]]
 - [[Deuteronomy 26]] — 4 parallel verses, e.g. [[Numbers 16#^num-16-13|Numbers 16:13]] ↔ [[Deuteronomy 26#^deut-26-9|Deuteronomy 26:9]]
 - [[Numbers 26]] — 3 parallel verses, e.g. [[Numbers 16#^num-16-32|Numbers 16:32]] ↔ [[Numbers 26#^num-26-10|Numbers 26:10]]
@@ -64,7 +65,6 @@ _Not yet developed._
 - [[Numbers 3]] — 3 parallel verses, e.g. [[Numbers 16#^num-16-9|Numbers 16:9]] ↔ [[Numbers 3#^num-3-7|Numbers 3:7]]
 - [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 16#^num-16-41|Numbers 16:41]] ↔ [[Exodus 35#^ex-35-1|Exodus 35:1]]
 - [[Leviticus 20]] — 2 parallel verses, e.g. [[Numbers 16#^num-16-13|Numbers 16:13]] ↔ [[Leviticus 20#^lev-20-24|Leviticus 20:24]]
-- [[Deuteronomy 27]] — 2 parallel verses, e.g. [[Numbers 16#^num-16-13|Numbers 16:13]] ↔ [[Deuteronomy 27#^deut-27-3|Deuteronomy 27:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -88,7 +88,8 @@ Moses and Aaron also complicate any picture of authority as mere domination. Bot
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **History of the Church, Volume 1** (history, 1902-1912) *(explicit citation)*
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

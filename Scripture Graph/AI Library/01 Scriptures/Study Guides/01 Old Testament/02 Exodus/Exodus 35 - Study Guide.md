@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 35
 slug: ex-35
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,12 +58,12 @@ _Not yet developed._
 - [[Exodus 16]] — 8 parallel verses, e.g. [[Exodus 35#^ex-35-4|Exodus 35:4]] ↔ [[Exodus 16#^ex-16-9|Exodus 16:9]]
 - [[Exodus 28]] — 6 parallel verses, e.g. [[Exodus 35#^ex-35-25|Exodus 35:25]] ↔ [[Exodus 28#^ex-28-15|Exodus 28:15]]
 - [[Exodus 38]] — 5 parallel verses, e.g. [[Exodus 35#^ex-35-30|Exodus 35:30]] ↔ [[Exodus 38#^ex-38-22|Exodus 38:22]]
+- [[Numbers 15]] — 6 parallel verses, e.g. [[Exodus 35#^ex-35-1|Exodus 35:1]] ↔ [[Numbers 15#^num-15-25|Numbers 15:25]]
 - [[Exodus 36]] — 5 parallel verses, e.g. [[Exodus 35#^ex-35-6|Exodus 35:6]] ↔ [[Exodus 36#^ex-36-35|Exodus 36:35]]
 - [[Numbers 4]] — 3 parallel verses, e.g. [[Exodus 35#^ex-35-17|Exodus 35:17]] ↔ [[Numbers 4#^num-4-26|Numbers 4:26]]
 - [[Exodus 26]] — 4 parallel verses, e.g. [[Exodus 35#^ex-35-6|Exodus 35:6]] ↔ [[Exodus 26#^ex-26-31|Exodus 26:31]]
 - [[Leviticus 19]] — 3 parallel verses, e.g. [[Exodus 35#^ex-35-4|Exodus 35:4]] ↔ [[Leviticus 19#^lev-19-2|Leviticus 19:2]]
 - [[Numbers 8]] — 3 parallel verses, e.g. [[Exodus 35#^ex-35-20|Exodus 35:20]] ↔ [[Numbers 8#^num-8-20|Numbers 8:20]]
-- [[Numbers 3]] — 3 parallel verses, e.g. [[Exodus 35#^ex-35-17|Exodus 35:17]] ↔ [[Numbers 3#^num-3-25|Numbers 3:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,6 +71,7 @@ _Not yet developed._
 - [[Law of Moses]]
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 - [[Sabbath Day]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

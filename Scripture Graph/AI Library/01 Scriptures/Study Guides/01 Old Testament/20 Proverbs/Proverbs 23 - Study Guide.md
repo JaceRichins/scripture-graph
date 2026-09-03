@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 23
 slug: prov-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

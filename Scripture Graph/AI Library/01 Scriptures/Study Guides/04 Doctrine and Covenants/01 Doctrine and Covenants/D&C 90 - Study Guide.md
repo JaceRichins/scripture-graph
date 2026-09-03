@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 90
 slug: dc-90
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 6 footnote cross-references (from [[D&C 90#^dc-90-7|D&C 90:7]])
+- [[D&C 107]] — 5 footnote cross-references (from [[D&C 90#^dc-90-6|D&C 90:6]])
+- [[D&C 84]] — 3 footnote cross-references (from [[D&C 90#^dc-90-3|D&C 90:3]])
+- [[D&C 124]] — 3 footnote cross-references (from [[D&C 90#^dc-90-3|D&C 90:3]])
+- [[D&C 133]] — 3 footnote cross-references (from [[D&C 90#^dc-90-9|D&C 90:9]])
+- [[D&C 43]] — 2 footnote cross-references (from [[D&C 90#^dc-90-3|D&C 90:3]])
+- [[D&C 88]] — 6 parallel verses, e.g. [[D&C 90#^dc-90-12|D&C 90:12]] ↔ [[D&C 88#^dc-88-77|D&C 88:77]]
 - [[D&C 103]] — 4 parallel verses, e.g. [[D&C 90#^dc-90-28|D&C 90:28]] ↔ [[D&C 103#^dc-103-30|D&C 103:30]]
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[D&C 90#^dc-90-11|D&C 90:11]] ↔ [[Isaiah 7#^isa-7-23|Isaiah 7:23]]
 - [[D&C 61]] — 3 parallel verses, e.g. [[D&C 90#^dc-90-28|D&C 90:28]] ↔ [[D&C 61#^dc-61-24|D&C 61:24]]
@@ -56,16 +63,15 @@ _Not yet developed._
 - [[D&C 49]] — 2 parallel verses, e.g. [[D&C 90#^dc-90-12|D&C 90:12]] ↔ [[D&C 49#^dc-49-1|D&C 49:1]]
 - [[D&C 63]] — 2 parallel verses, e.g. [[D&C 90#^dc-90-30|D&C 90:30]] ↔ [[D&C 63#^dc-63-41|D&C 63:41]]
 - [[Isaiah 62]] — 2 parallel verses, e.g. [[D&C 90#^dc-90-20|D&C 90:20]] ↔ [[Isaiah 62#^isa-62-2|Isaiah 62:2]]
-- [[Isaiah 10]] — 2 parallel verses, e.g. [[D&C 90#^dc-90-11|D&C 90:11]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[Education and Learning]]
 - [[Pride]]
 - [[Zion]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -89,6 +95,8 @@ The chapter treats [[Priesthood]] keys and [[Revelation]] as inseparable from ac
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **16 Only a Prelude** (history) *(explicit citation)*
+- **19 Stewards over This Ministry** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
@@ -97,7 +105,6 @@ The chapter treats [[Priesthood]] keys and [[Revelation]] as inseparable from ac
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
 - **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
-- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -23,7 +23,7 @@ cssclasses:
 > [[Isaiah 19#^isa-19-1|Isa. 19:1]] · [[Jeremiah 25#^jer-25-19|Jer. 25:19]] · [[Joel 3#^joel-3-19|Joel 3:19]] · [[Ezekiel 38#^ezek-38-2|≈ Ezekiel 38:2]] · [[Ezekiel 28#^ezek-28-21|≈ Ezekiel 28:21]] · [[Ezekiel 13#^ezek-13-17|≈ Ezekiel 13:17]] · [[Ezekiel 25#^ezek-25-2|≈ Ezekiel 25:2]]
 
 ![[Ezekiel 29#^ezek-29-3]]
-> [[2 Nephi 8#^2ne-8-9|2 Ne. 8:9]] · [[Ezekiel 30#^ezek-30-22|≈ Ezekiel 30:22]] · [[Ezekiel 38#^ezek-38-3|≈ Ezekiel 38:3]] · [[Ezekiel 39#^ezek-39-1|≈ Ezekiel 39:1]] · [[Ezekiel 26#^ezek-26-3|≈ Ezekiel 26:3]] · [[Ezekiel 28#^ezek-28-22|≈ Ezekiel 28:22]] · [[Ezekiel 13#^ezek-13-20|≈ Ezekiel 13:20]]
+> [[2 Nephi 8#^2ne-8-9|2 Ne. 8:9]] · [[Ezekiel 30#^ezek-30-22|≈ Ezekiel 30:22]] · [[Ezekiel 38#^ezek-38-3|≈ Ezekiel 38:3]] · [[Ezekiel 39#^ezek-39-1|≈ Ezekiel 39:1]] · [[Ezekiel 28#^ezek-28-22|≈ Ezekiel 28:22]] · [[Ezekiel 26#^ezek-26-3|≈ Ezekiel 26:3]] · [[Ezekiel 13#^ezek-13-20|≈ Ezekiel 13:20]]
 
 ![[Ezekiel 29#^ezek-29-4]]
 > [[Ezekiel 38#^ezek-38-4|Ezek. 38:4]]
@@ -59,7 +59,7 @@ cssclasses:
 ![[Ezekiel 29#^ezek-29-16]]
 
 ![[Ezekiel 29#^ezek-29-17]]
-> [[Ezekiel 45#^ezek-45-18|≈ Ezekiel 45:18]] · [[Ezekiel 30#^ezek-30-20|≈ Ezekiel 30:20]] · [[Ezekiel 24#^ezek-24-1|≈ Ezekiel 24:1]] · [[Ezekiel 26#^ezek-26-1|≈ Ezekiel 26:1]]
+> [[Ezekiel 30#^ezek-30-20|≈ Ezekiel 30:20]] · [[Ezekiel 45#^ezek-45-18|≈ Ezekiel 45:18]] · [[Ezekiel 24#^ezek-24-1|≈ Ezekiel 24:1]] · [[Ezekiel 26#^ezek-26-1|≈ Ezekiel 26:1]]
 
 ![[Ezekiel 29#^ezek-29-18]]
 > [[Ezekiel 26#^ezek-26-7|Ezek. 26:7]]
@@ -70,4 +70,4 @@ cssclasses:
 ![[Ezekiel 29#^ezek-29-20]]
 
 ![[Ezekiel 29#^ezek-29-21]]
-> [[Ezekiel 24#^ezek-24-27|≈ Ezekiel 24:27]] · [[Ezekiel 28#^ezek-28-24|≈ Ezekiel 28:24]] · [[Ezekiel 28#^ezek-28-26|≈ Ezekiel 28:26]]
+> [[Ezekiel 28#^ezek-28-24|≈ Ezekiel 28:24]] · [[Ezekiel 28#^ezek-28-26|≈ Ezekiel 28:26]] · [[Ezekiel 24#^ezek-24-27|≈ Ezekiel 24:27]]

@@ -44,10 +44,10 @@ cssclasses:
 > [[Alma 44#^alma-44-5|Alma 44:5]] · [[Alma 46#^alma-46-12|46:12]] · [[Alma 48#^alma-48-10|48:10 (10, 24)]] · [[Alma 49#^alma-49-28|≈ Alma 49:28]] · [[Alma 3#^alma-3-1|≈ Alma 3:1]]
 
 ![[Alma 43#^alma-43-10]]
-> [[John 4#^john-4-23|John 4:23 (23–24)]] · [[Daniel 6#^dan-6-4|Dan. 6:7 (4–17)]] · [[Mosiah 21#^mosiah-21-19|≈ Mosiah 21:19]] · [[Alma 56#^alma-56-50|≈ Alma 56:50]] · [[Mormon 6#^morm-6-6|≈ Mormon 6:6]]
+> [[John 4#^john-4-23|John 4:23 (23–24)]] · [[Daniel 6#^dan-6-4|Dan. 6:7 (4–17)]] · [[Alma 56#^alma-56-50|≈ Alma 56:50]] · [[Mosiah 21#^mosiah-21-19|≈ Mosiah 21:19]] · [[Mormon 6#^morm-6-6|≈ Mormon 6:6]]
 
 ![[Alma 43#^alma-43-11]]
-> [[Alma 23#^alma-23-17|Alma 23:17]] · [[Alma 24#^alma-24-1|24:1 (1–3, 5, 20)]] · [[Alma 25#^alma-25-1|25:13 (1, 13)]] · [[Alma 27#^alma-27-2|27:2 (2, 21–26)]] · [[Alma 47#^alma-47-29|Alma 47:29]] · [[Mosiah 21#^mosiah-21-19|≈ Mosiah 21:19]] · [[Alma 56#^alma-56-50|≈ Alma 56:50]] · [[Mormon 6#^morm-6-6|≈ Mormon 6:6]] · [[Alma 27#^alma-27-21|≈ Alma 27:21]]
+> [[Alma 23#^alma-23-17|Alma 23:17]] · [[Alma 24#^alma-24-1|24:1 (1–3, 5, 20)]] · [[Alma 25#^alma-25-1|25:13 (1, 13)]] · [[Alma 27#^alma-27-2|27:2 (2, 21–26)]] · [[Alma 47#^alma-47-29|Alma 47:29]] · [[Alma 56#^alma-56-50|≈ Alma 56:50]] · [[Mosiah 21#^mosiah-21-19|≈ Mosiah 21:19]] · [[Mormon 6#^morm-6-6|≈ Mormon 6:6]] · [[Alma 27#^alma-27-21|≈ Alma 27:21]]
 
 ![[Alma 43#^alma-43-12]]
 
@@ -57,7 +57,7 @@ cssclasses:
 ![[Alma 43#^alma-43-14]]
 
 ![[Alma 43#^alma-43-15]]
-> [[Alma 27#^alma-27-26|Alma 27:26]] · [[Alma 35#^alma-35-13|≈ Alma 35:13]] · [[Alma 16#^alma-16-2|≈ Alma 16:2]] · [[Alma 28#^alma-28-1|≈ Alma 28:1]]
+> [[Alma 27#^alma-27-26|Alma 27:26]] · [[Alma 16#^alma-16-2|≈ Alma 16:2]] · [[Alma 35#^alma-35-13|≈ Alma 35:13]] · [[Alma 28#^alma-28-1|≈ Alma 28:1]]
 
 ![[Alma 43#^alma-43-16]]
 > [[Alma 46#^alma-46-34|Alma 46:34]] · [[Alma 46#^alma-46-11|Alma 46:11]] · [[Alma 16#^alma-16-5|≈ Alma 16:5]]
@@ -159,7 +159,7 @@ cssclasses:
 ![[Alma 43#^alma-43-52]]
 
 ![[Alma 43#^alma-43-53]]
-> [[Alma 8#^alma-8-3|≈ Alma 8:3]] · [[Alma 49#^alma-49-16|≈ Alma 49:16]] · [[Alma 2#^alma-2-34|≈ Alma 2:34]] · [[Alma 16#^alma-16-6|≈ Alma 16:6]]
+> [[Alma 49#^alma-49-16|≈ Alma 49:16]] · [[Alma 8#^alma-8-3|≈ Alma 8:3]] · [[Alma 16#^alma-16-6|≈ Alma 16:6]] · [[Alma 2#^alma-2-34|≈ Alma 2:34]]
 
 ![[Alma 43#^alma-43-54]]
 > [[Alma 47#^alma-47-2|Alma 47:2]]

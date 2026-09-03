@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 93
 slug: dc-93
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[John 1]] — 9 footnote cross-references (from [[D&C 93#^dc-93-2|D&C 93:2]])
+- [[D&C 88]] — 8 footnote cross-references (from [[D&C 93#^dc-93-1|D&C 93:1]])
+- [[D&C 84]] — 5 footnote cross-references (from [[D&C 93#^dc-93-2|D&C 93:2]])
+- [[John 14]] — 4 footnote cross-references (from [[D&C 93#^dc-93-1|D&C 93:1]])
+- [[John 17]] — 4 footnote cross-references (from [[D&C 93#^dc-93-3|D&C 93:3]])
+- [[D&C 76]] — 4 footnote cross-references (from [[D&C 93#^dc-93-7|D&C 93:7]])
+- [[John 1]] — 4 parallel verses, e.g. [[D&C 93#^dc-93-11|D&C 93:11]] ↔ [[John 1#^john-1-14|John 1:14]]
+- [[John 14]] — 2 parallel verses, e.g. [[D&C 93#^dc-93-3|D&C 93:3]] ↔ [[John 14#^john-14-10|John 14:10]]
+- [[3 Nephi 11]] — 1 parallel verse, e.g. [[D&C 93#^dc-93-3|D&C 93:3]] ↔ [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]]
 - [[D&C 92]] — 2 parallel verses, e.g. [[D&C 93#^dc-93-41|D&C 93:41]] ↔ [[D&C 92#^dc-92-2|D&C 92:2]]
 - [[D&C 50]] — 1 parallel verse, e.g. [[D&C 93#^dc-93-3|D&C 93:3]] ↔ [[D&C 50#^dc-50-43|D&C 50:43]]
 - [[D&C 61]] — 2 parallel verses, e.g. [[D&C 93#^dc-93-49|D&C 93:49]] ↔ [[D&C 61#^dc-61-18|D&C 61:18]]
@@ -54,17 +63,14 @@ _Not yet developed._
 - [[2 Nephi 31]] — 1 parallel verse, e.g. [[D&C 93#^dc-93-15|D&C 93:15]] ↔ [[2 Nephi 31#^2ne-31-8|2 Nephi 31:8]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[D&C 93#^dc-93-3|D&C 93:3]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]
 - [[D&C 66]] — 1 parallel verse, e.g. [[D&C 93#^dc-93-53|D&C 93:53]] ↔ [[D&C 66#^dc-66-5|D&C 66:5]]
-- [[D&C 75]] — 1 parallel verse, e.g. [[D&C 93#^dc-93-53|D&C 93:53]] ↔ [[D&C 75#^dc-75-3|D&C 75:3]]
-- [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 93#^dc-93-3|D&C 93:3]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
-- [[D&C 95]] — 2 parallel verses, e.g. [[D&C 93#^dc-93-20|D&C 93:20]] ↔ [[D&C 95#^dc-95-11|D&C 95:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Truth]]
+- [[Education and Learning]]
 - [[Light of Christ]]
 - [[Premortal Life]]
-- [[Education and Learning]]
 - [[The Godhead]]
 - [[Scripture Study]]
 - [[Records and Sacred Writings]]

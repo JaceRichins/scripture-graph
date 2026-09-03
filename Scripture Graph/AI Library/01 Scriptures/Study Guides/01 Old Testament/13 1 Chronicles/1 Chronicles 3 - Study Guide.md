@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 3
 slug: 1chr-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,8 +54,8 @@ Scripture: [[1 Chronicles 3]] · My notes: [[1 Chronicles 3 - My Notes]]
 - [[2 Samuel 3]] — 1 footnote cross-reference (from [[1 Chronicles 3#^1chr-3-1|1 Chronicles 3:1]])
 - [[2 Samuel 15]] — 1 footnote cross-reference (from [[1 Chronicles 3#^1chr-3-2|1 Chronicles 3:2]])
 - [[1 Kings 2]] — 1 footnote cross-reference (from [[1 Chronicles 3#^1chr-3-2|1 Chronicles 3:2]])
-- [[2 Samuel 5]] — 0 parallel verses
-- [[2 Samuel 3]] — 0 parallel verses
+- [[2 Samuel 5]] — 2 parallel verses, e.g. [[1 Chronicles 3#^1chr-3-4|1 Chronicles 3:4]] ↔ [[2 Samuel 5#^2sam-5-5|2 Samuel 5:5]]
+- [[2 Samuel 3]] — 2 parallel verses, e.g. [[1 Chronicles 3#^1chr-3-2|1 Chronicles 3:2]] ↔ [[2 Samuel 3#^2sam-3-3|2 Samuel 3:3]]
 - [[1 Chronicles 14]] — 0 parallel verses
 - [[Matthew 1]] — 0 parallel verses
 - [[2 Samuel 3]] — 0 parallel verses
@@ -78,7 +78,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Absalom** (reference-entry) *(explicit citation)*
+- **Ahaziah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

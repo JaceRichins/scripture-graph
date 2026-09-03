@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 23
 slug: ps-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,8 @@ _Not yet developed._
 - [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
 - [[Jesus Christ and Your New Beginning (Elder Patrick Kearon, October 2025)|Jesus Christ and Your New Beginning]] — Elder Patrick Kearon, 2025-October *(explicit citation)*
 - [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
+- [[The Sabbath and the Sacrament (Elder L. Tom Perry, April 2011)|The Sabbath and the Sacrament]] — Elder L. Tom Perry, 2011-April *(explicit citation)*
+- [[Faith, Fortitude, Fulfillment A Message to Single Parents (Elder David S. Baxter, April 2012)|Faith, Fortitude, Fulfillment: A Message to Single Parents]] — Elder David S. Baxter, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -83,7 +85,9 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Evidence *(tentative)*
+> Psalm 23 can be read as a chiastic structure with 'thou art with me' (verse 4) as its literary center, framed by shepherd/dwelling-with-God on the outside and guidance-provision/table-preparation on the inner ring.
+> — confidence medium · secondary-claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -99,4 +103,5 @@ _Not yet developed._
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
 - [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
 <!-- SG:END secondary-sources -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 2
 slug: deut-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,8 @@ _Not yet developed._
 - [[2 Samuel 10]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-19|Deuteronomy 2:19]] ↔ [[2 Samuel 10#^2sam-10-2|2 Samuel 10:2]]
 - [[1 Chronicles 19]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-19|Deuteronomy 2:19]] ↔ [[1 Chronicles 19#^1chr-19-2|1 Chronicles 19:2]]
 - [[2 Samuel 2]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-8|Deuteronomy 2:8]] ↔ [[2 Samuel 2#^2sam-2-24|2 Samuel 2:24]]
+- [[Deuteronomy 3]] — 0 parallel verses
+- [[Judges 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +80,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

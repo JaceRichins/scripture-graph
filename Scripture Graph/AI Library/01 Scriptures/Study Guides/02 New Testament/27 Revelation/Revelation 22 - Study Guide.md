@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 22
 slug: rev-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,8 +54,8 @@ _Not yet developed._
 - [[D&C 38]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[D&C 38#^dc-38-1|D&C 38:1]]
 - [[D&C 45]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[Revelation 19]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-9|Revelation 22:9]] ↔ [[Revelation 19#^rev-19-10|Revelation 19:10]]
-- [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
 - [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
+- [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
 - [[Revelation 21]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[Revelation 21#^rev-21-6|Revelation 21:6]]
 <!-- SG:END related-scriptures -->
 

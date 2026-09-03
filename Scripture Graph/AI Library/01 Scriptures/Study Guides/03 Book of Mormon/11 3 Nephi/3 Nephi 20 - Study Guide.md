@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 20
 slug: 3ne-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ The chapter moves from worship to covenant exposition. Jesus commands continued 
 - [[3 Nephi 18]] — 2 footnote cross-references (from [[3 Nephi 20#^3ne-20-3|3 Nephi 20:3]])
 - [[Isaiah 52]] — 13 parallel verses, e.g. [[3 Nephi 20#^3ne-20-45|3 Nephi 20:45]] ↔ [[Isaiah 52#^isa-52-15|Isaiah 52:15]]
 - [[Acts 3]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]] ↔ [[Acts 3#^acts-3-22|Acts 3:22]]
-- [[3 Nephi 21]] — 7 parallel verses, e.g. [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]] ↔ [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]]
 - [[Mosiah 12]] — 4 parallel verses, e.g. [[3 Nephi 20#^3ne-20-40|3 Nephi 20:40]] ↔ [[Mosiah 12#^mosiah-12-21|Mosiah 12:21]]
+- [[3 Nephi 21]] — 7 parallel verses, e.g. [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]] ↔ [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]]
 - [[Mosiah 15]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]
 - [[1 Nephi 22]] — 4 parallel verses, e.g. [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]] ↔ [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]]
 - [[3 Nephi 16]] — 6 parallel verses, e.g. [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
@@ -74,9 +74,9 @@ The chapter moves from worship to covenant exposition. Jesus commands continued 
 - [[Scripture Study]]
 - [[Scattering of Israel]]
 - [[Covenants]] *(keyword match — unconfirmed)*
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Zion]] *(keyword match — unconfirmed)*
+- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -91,6 +91,7 @@ The [[Abrahamic Covenant]] includes moral transformation. Christ blesses covenan
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
 - [[The Prophet of God (Elder Neil L. Andersen, April 2018)|The Prophet of God]] — Elder Neil L. Andersen, 2018-April *(explicit citation)*
 - [[The Role of the Book of Mormon in Conversion (Elder Shayne M. Bowen, October 2018)|The Role of the Book of Mormon in Conversion]] — Elder Shayne M. Bowen, 2018-October *(explicit citation)*
@@ -99,13 +100,13 @@ The [[Abrahamic Covenant]] includes moral transformation. Christ blesses covenan
 - [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 - [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
-- [[When to Receive Your Patriarchal Blessing (Elder Kazuhiko Yamashita, April 2023)|When to Receive Your Patriarchal Blessing]] — Elder Kazuhiko Yamashita, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
+- **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*

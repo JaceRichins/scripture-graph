@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 20
 slug: john-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Matthew 27]] — 1 footnote cross-reference (from [[John 20#^john-20-1|John 20:1]])
 - [[John 13]] — 1 footnote cross-reference (from [[John 20#^john-20-2|John 20:2]])
 - [[John 19]] — 1 footnote cross-reference (from [[John 20#^john-20-2|John 20:2]])
+- [[3 Nephi 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

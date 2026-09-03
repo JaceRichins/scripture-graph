@@ -17,7 +17,7 @@ cssclasses:
 > Some daughters in Israel are directed to marry within their own tribe—Inheritances are not to move from tribe to tribe.
 
 ![[Numbers 36#^num-36-1]]
-> [[Numbers 4#^num-4-28|≈ Numbers 4:28]] · [[Numbers 4#^num-4-33|≈ Numbers 4:33]] · [[Numbers 4#^num-4-41|≈ Numbers 4:41]] · [[Numbers 4#^num-4-42|≈ Numbers 4:42]] · [[Numbers 4#^num-4-45|≈ Numbers 4:45]] · [[Numbers 27#^num-27-1|≈ Numbers 27:1]]
+> [[Numbers 4#^num-4-28|≈ Numbers 4:28]] · [[Numbers 4#^num-4-33|≈ Numbers 4:33]] · [[Numbers 4#^num-4-41|≈ Numbers 4:41]] · [[Numbers 4#^num-4-42|≈ Numbers 4:42]] · [[Numbers 4#^num-4-45|≈ Numbers 4:45]] · [[Joshua 17#^josh-17-3|≈ Joshua 17:3]]
 
 ![[Numbers 36#^num-36-2]]
 > [[Numbers 27#^num-27-1|Num. 27:7 (1–11)]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 14
 slug: john-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,8 @@ _Not yet developed._
 - [[John 6]] — 2 parallel verses, e.g. [[John 14#^john-14-12|John 14:12]] ↔ [[John 6#^john-6-47|John 6:47]]
 - [[John 8]] — 1 parallel verse, e.g. [[John 14#^john-14-7|John 14:7]] ↔ [[John 8#^john-8-19|John 8:19]]
 - [[John 16]] — 2 parallel verses, e.g. [[John 14#^john-14-25|John 14:25]] ↔ [[John 16#^john-16-1|John 16:1]]
+- [[D&C 98]] — 0 parallel verses
+- [[D&C 81]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,10 +78,10 @@ _Not yet developed._
 - [[Follow Jesus Christ with Footsteps of Faith (President M. Russell Ballard, October 2022)|Follow Jesus Christ with Footsteps of Faith]] — President M. Russell Ballard, 2022-October *(explicit citation)*
 - [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
 - [[After the Fourth Day (Elder W. Mark Bassett, April 2023)|After the Fourth Day]] — Elder W. Mark Bassett, 2023-April *(explicit citation)*
+- [[What Thinks Christ of Me (Elder Neil L. Andersen, April 2012)|What Thinks Christ of Me?]] — Elder Neil L. Andersen, 2012-April *(explicit citation)*
 - [[“If Ye Love Me, Keep My Commandments” (Carole M. Stephens, October 2015)|“If Ye Love Me, Keep My Commandments”]] — Carole M. Stephens, 2015-October *(explicit citation)*
 - [[The Comforter (President Henry B. Eyring, April 2015)|The Comforter]] — President Henry B. Eyring, 2015-April *(explicit citation)*
 - [[“Come, Follow Me” by Practicing Christian Love and Service (Elder Robert D. Hales, October 2016)|“Come, Follow Me” by Practicing Christian Love and Service]] — Elder Robert D. Hales, 2016-October *(explicit citation)*
-- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

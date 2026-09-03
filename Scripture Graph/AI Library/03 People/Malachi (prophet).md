@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **430 BC** — Malachi — the Old Testament closes · [[Malachi 3]] · [[Malachi 4]] · [[500-401 BC]] *(approximate)*
+- **AD 34** — Resurrected Christ quotes Malachi 4 to the Nephites at Bountiful · [[3 Nephi 25]] · [[AD 1-100]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

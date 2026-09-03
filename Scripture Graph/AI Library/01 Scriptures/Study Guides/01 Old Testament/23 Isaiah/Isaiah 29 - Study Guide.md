@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 29
 slug: isa-29
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,8 @@ _Not yet developed._
 - [[2 Nephi 27]] — 19 parallel verses, e.g. [[Isaiah 29#^isa-29-16|Isaiah 29:16]] ↔ [[2 Nephi 27#^2ne-27-27|2 Nephi 27:27]]
 - [[2 Nephi 26]] — 2 parallel verses, e.g. [[Isaiah 29#^isa-29-4|Isaiah 29:4]] ↔ [[2 Nephi 26#^2ne-26-16|2 Nephi 26:16]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Isaiah 29#^isa-29-21|Isaiah 29:21]] ↔ [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]]
+- [[2 Nephi 25]] — 0 parallel verses
+- [[2 Nephi 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,12 +79,15 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **05 All Is Lost** (history) *(explicit citation)*
+- **13 The Gift Has Returned** (history) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 25
 slug: isa-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

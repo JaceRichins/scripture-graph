@@ -17,7 +17,7 @@ cssclasses:
 > Israel is to destroy the seven nations of Canaan—Marriages with them are forbidden lest apostasy result—Israel has a mission as a holy and chosen people—The Lord shows mercy unto those who love Him and keep His commandments—He promises to remove sickness from the children of Israel if they obey.
 
 ![[Deuteronomy 7#^deut-7-1]]
-> [[Leviticus 20#^lev-20-23|Lev. 20:23]] · [[Exodus 3#^ex-3-8|≈ Exodus 3:8]] · [[Exodus 3#^ex-3-17|≈ Exodus 3:17]] · [[Joshua 3#^josh-3-10|≈ Joshua 3:10]] · [[Genesis 15#^gen-15-21|≈ Genesis 15:21]] · [[Exodus 13#^ex-13-5|≈ Exodus 13:5]] · [[2 Chronicles 8#^2chr-8-7|≈ 2 Chronicles 8:7]]
+> [[Leviticus 20#^lev-20-23|Lev. 20:23]] · [[Exodus 3#^ex-3-8|≈ Exodus 3:8]] · [[Exodus 3#^ex-3-17|≈ Exodus 3:17]] · [[Joshua 3#^josh-3-10|≈ Joshua 3:10]] · [[Genesis 15#^gen-15-21|≈ Genesis 15:21]] · [[Exodus 13#^ex-13-5|≈ Exodus 13:5]] · [[Deuteronomy 28#^deut-28-21|≈ Deuteronomy 28:21]]
 
 ![[Deuteronomy 7#^deut-7-2]]
 > [[Deuteronomy 2#^deut-2-34|Deut. 2:34]] · [[Joshua 6#^josh-6-21|Josh. 6:21]] · [[Joshua 9#^josh-9-24|9:24]] · [[Alma 5#^alma-5-57|Alma 5:57]] · [[Exodus 23#^ex-23-31|Ex. 23:32 (31–33)]]
@@ -45,13 +45,13 @@ cssclasses:
 > [[1 Nephi 17#^1ne-17-32|1 Ne. 17:35 (32–38)]]
 
 ![[Deuteronomy 7#^deut-7-11]]
-> [[Deuteronomy 5#^deut-5-31|≈ Deuteronomy 5:31]] · [[Deuteronomy 6#^deut-6-20|≈ Deuteronomy 6:20]] · [[Deuteronomy 13#^deut-13-18|≈ Deuteronomy 13:18]] · [[Deuteronomy 28#^deut-28-13|≈ Deuteronomy 28:13]] · [[Deuteronomy 28#^deut-28-14|≈ Deuteronomy 28:14]]
+> [[Deuteronomy 28#^deut-28-13|≈ Deuteronomy 28:13]] · [[Deuteronomy 28#^deut-28-14|≈ Deuteronomy 28:14]] · [[Deuteronomy 5#^deut-5-31|≈ Deuteronomy 5:31]] · [[Deuteronomy 6#^deut-6-20|≈ Deuteronomy 6:20]] · [[Deuteronomy 13#^deut-13-18|≈ Deuteronomy 13:18]]
 
 ![[Deuteronomy 7#^deut-7-12]]
 > [[2 Samuel 22#^2sam-22-23|2 Sam. 22:23]] · [[Jeremiah 11#^jer-11-5|Jer. 11:5]] · [[Deuteronomy 6#^deut-6-10|≈ Deuteronomy 6:10]]
 
 ![[Deuteronomy 7#^deut-7-13]]
-> [[Hosea 2#^hosea-2-8|Hosea 2:8]] · [[Exodus 13#^ex-13-5|≈ Exodus 13:5]] · [[Deuteronomy 6#^deut-6-10|≈ Deuteronomy 6:10]] · [[Deuteronomy 28#^deut-28-18|≈ Deuteronomy 28:18]] · [[Deuteronomy 28#^deut-28-4|≈ Deuteronomy 28:4]] · [[Deuteronomy 28#^deut-28-11|≈ Deuteronomy 28:11]] · [[Deuteronomy 28#^deut-28-51|≈ Deuteronomy 28:51]]
+> [[Hosea 2#^hosea-2-8|Hosea 2:8]] · [[Exodus 13#^ex-13-5|≈ Exodus 13:5]] · [[Deuteronomy 28#^deut-28-18|≈ Deuteronomy 28:18]] · [[Deuteronomy 28#^deut-28-4|≈ Deuteronomy 28:4]] · [[Deuteronomy 28#^deut-28-11|≈ Deuteronomy 28:11]] · [[Deuteronomy 28#^deut-28-51|≈ Deuteronomy 28:51]] · [[Deuteronomy 6#^deut-6-10|≈ Deuteronomy 6:10]]
 
 ![[Deuteronomy 7#^deut-7-14]]
 

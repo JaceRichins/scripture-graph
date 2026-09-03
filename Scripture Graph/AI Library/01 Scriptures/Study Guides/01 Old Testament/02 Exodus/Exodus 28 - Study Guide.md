@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 28
 slug: ex-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ _Not yet developed._
 - **Garments** (reference-entry) *(explicit citation)*
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Aaron** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

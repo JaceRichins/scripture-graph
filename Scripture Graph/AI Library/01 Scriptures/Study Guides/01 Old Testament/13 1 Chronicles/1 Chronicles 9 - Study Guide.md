@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 9
 slug: 1chr-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ The chapter has three movements: (1) a one-verse hinge (v.1) linking the precedi
 - [[Ezra 8]] — 1 footnote cross-reference (from [[1 Chronicles 9#^1chr-9-2|1 Chronicles 9:2]])
 - [[Alma 10]] — 1 footnote cross-reference (from [[1 Chronicles 9#^1chr-9-3|1 Chronicles 9:3]])
 - [[Nehemiah 11]] — 1 footnote cross-reference (from [[1 Chronicles 9#^1chr-9-10|1 Chronicles 9:10]])
+- [[Nehemiah 11]] — 10 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]] ↔ [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]]
 - [[1 Chronicles 8]] — 8 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-44|1 Chronicles 9:44]] ↔ [[1 Chronicles 8#^1chr-8-38|1 Chronicles 8:38]]
 - [[1 Chronicles 6]] — 3 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-19|1 Chronicles 9:19]] ↔ [[1 Chronicles 6#^1chr-6-37|1 Chronicles 6:37]]
 - [[1 Chronicles 28]] — 2 parallel verses, e.g. [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]] ↔ [[1 Chronicles 28#^1chr-28-13|1 Chronicles 28:13]]
@@ -59,7 +60,6 @@ The chapter has three movements: (1) a one-verse hinge (v.1) linking the precedi
 - [[2 Chronicles 27]] — 1 parallel verse, e.g. [[1 Chronicles 9#^1chr-9-1|1 Chronicles 9:1]] ↔ [[2 Chronicles 27#^2chr-27-7|2 Chronicles 27:7]]
 - [[2 Chronicles 35]] — 1 parallel verse, e.g. [[1 Chronicles 9#^1chr-9-1|1 Chronicles 9:1]] ↔ [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]]
 - [[2 Chronicles 36]] — 1 parallel verse, e.g. [[1 Chronicles 9#^1chr-9-1|1 Chronicles 9:1]] ↔ [[2 Chronicles 36#^2chr-36-8|2 Chronicles 36:8]]
-- [[Nehemiah 11]] — 0 parallel verses
 - [[1 Chronicles 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -81,7 +81,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Asa** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

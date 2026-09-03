@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 114
 slug: ps-114
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Psalm 78]] — 1 footnote cross-reference (from [[Psalm 114#^ps-114-3|Psalm 114:3]])
 - [[Exodus 17]] — 1 footnote cross-reference (from [[Psalm 114#^ps-114-8|Psalm 114:8]])
 - [[Psalm 97]] — 1 parallel verse, e.g. [[Psalm 114#^ps-114-7|Psalm 114:7]] ↔ [[Psalm 97#^ps-97-5|Psalm 97:5]]
+- [[Psalm 97]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

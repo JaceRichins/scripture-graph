@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 20
 slug: josh-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,8 @@ _Not yet developed._
 - [[Joshua 8]] — 1 parallel verse, e.g. [[Joshua 20#^josh-20-4|Joshua 20:4]] ↔ [[Joshua 8#^josh-8-29|Joshua 8:29]]
 - [[Numbers 35]] — 2 parallel verses, e.g. [[Joshua 20#^josh-20-9|Joshua 20:9]] ↔ [[Numbers 35#^num-35-15|Numbers 35:15]]
 - [[Joshua 21]] — 1 parallel verse, e.g. [[Joshua 20#^josh-20-8|Joshua 20:8]] ↔ [[Joshua 21#^josh-21-7|Joshua 21:7]]
+- [[Deuteronomy 19]] — 0 parallel verses
+- [[Joshua 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

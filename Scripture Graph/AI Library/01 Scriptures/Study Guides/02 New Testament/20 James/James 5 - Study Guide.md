@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 5
 slug: james-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[2 Nephi 31]] — 1 footnote cross-reference (from [[James 5#^james-5-8|James 5:8]])
 - [[D&C 106]] — 1 footnote cross-reference (from [[James 5#^james-5-8|James 5:8]])
 - [[D&C 98]] — 1 parallel verse, e.g. [[James 5#^james-5-4|James 5:4]] ↔ [[D&C 98#^dc-98-2|D&C 98:2]]
+- [[D&C 87]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,6 +76,7 @@ _Not yet developed._
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 13
 slug: 1ne-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,9 @@ _Not yet developed._
 - [[Mormon 8]] — 4 footnote cross-references (from [[1 Nephi 13#^1ne-13-7|1 Nephi 13:7]])
 - [[Mormon 5]] — 4 footnote cross-references (from [[1 Nephi 13#^1ne-13-14|1 Nephi 13:14]])
 - [[1 Nephi 22]] — 3 footnote cross-references (from [[1 Nephi 13#^1ne-13-6|1 Nephi 13:6]])
+- [[1 Nephi 14]] — 18 parallel verses, e.g. [[1 Nephi 13#^1ne-13-39|1 Nephi 13:39]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
+- [[1 Nephi 12]] — 15 parallel verses, e.g. [[1 Nephi 13#^1ne-13-8|1 Nephi 13:8]] ↔ [[1 Nephi 12#^1ne-12-8|1 Nephi 12:8]]
+- [[1 Nephi 11]] — 12 parallel verses, e.g. [[1 Nephi 13#^1ne-13-1|1 Nephi 13:1]] ↔ [[1 Nephi 11#^1ne-11-32|1 Nephi 11:32]]
 - [[1 Nephi 22]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]] ↔ [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]]
 - [[Revelation 21]] — 4 parallel verses, e.g. [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]] ↔ [[Revelation 21#^rev-21-14|Revelation 21:14]]
 - [[Genesis 16]] — 3 parallel verses, e.g. [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]] ↔ [[Genesis 16#^gen-16-9|Genesis 16:9]]
@@ -61,20 +64,17 @@ _Not yet developed._
 - [[Alma 13]] — 2 parallel verses, e.g. [[1 Nephi 13#^1ne-13-37|1 Nephi 13:37]] ↔ [[Alma 13#^alma-13-29|Alma 13:29]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[1 Nephi 13#^1ne-13-37|1 Nephi 13:37]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
 - [[Numbers 22]] — 2 parallel verses, e.g. [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]] ↔ [[Numbers 22#^num-22-32|Numbers 22:32]]
-- [[Mormon 8]] — 1 parallel verse, e.g. [[1 Nephi 13#^1ne-13-23|1 Nephi 13:23]] ↔ [[Mormon 8#^morm-8-21|Mormon 8:21]]
-- [[1 Nephi 16]] — 2 parallel verses, e.g. [[1 Nephi 13#^1ne-13-16|1 Nephi 13:16]] ↔ [[1 Nephi 16#^1ne-16-32|1 Nephi 16:32]]
-- [[2 Nephi 1]] — 1 parallel verse, e.g. [[1 Nephi 13#^1ne-13-30|1 Nephi 13:30]] ↔ [[2 Nephi 1#^2ne-1-5|2 Nephi 1:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Jews and Gentiles]]
 - [[Apostles]]
 - [[Apostasy]]
-- [[Jews and Gentiles]]
-- [[Records and Sacred Writings]]
 - [[Scattering of Israel]]
 - [[Satan and Temptation]]
 - [[Angels]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

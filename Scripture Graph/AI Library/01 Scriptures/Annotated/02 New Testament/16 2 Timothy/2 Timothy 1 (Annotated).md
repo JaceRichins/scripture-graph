@@ -17,7 +17,7 @@ cssclasses:
 > Christ brings immortality and eternal life through the gospel—Be strong in the faith.
 
 ![[2 Timothy 1#^2tim-1-1]]
-> [[Titus 1#^titus-1-2|Titus 1:2]] · [[Ephesians 1#^eph-1-1|≈ Ephesians 1:1]] · [[Colossians 1#^col-1-1|≈ Colossians 1:1]] · [[2 Corinthians 1#^2cor-1-1|≈ 2 Corinthians 1:1]] · [[1 Timothy 1#^1tim-1-1|≈ 1 Timothy 1:1]]
+> [[Titus 1#^titus-1-2|Titus 1:2]] · [[Ephesians 1#^eph-1-1|≈ Ephesians 1:1]] · [[Colossians 1#^col-1-1|≈ Colossians 1:1]] · [[1 Timothy 1#^1tim-1-1|≈ 1 Timothy 1:1]] · [[2 Corinthians 1#^2cor-1-1|≈ 2 Corinthians 1:1]]
 
 ![[2 Timothy 1#^2tim-1-2]]
 > [[Titus 1#^titus-1-4|≈ Titus 1:4]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 3
 slug: 2tim-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,7 @@ Verse 12 also gives [[Endurance]] a sober setting: godly life is not promised fr
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
+- **Antioch** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

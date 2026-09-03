@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 5
 slug: gen-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,8 @@ _Not yet developed._
 - [[Moses 6]] — 20 parallel verses, e.g. [[Genesis 5#^gen-5-2|Genesis 5:2]] ↔ [[Moses 6#^moses-6-9|Moses 6:9]]
 - [[Moses 8]] — 6 parallel verses, e.g. [[Genesis 5#^gen-5-29|Genesis 5:29]] ↔ [[Moses 8#^moses-8-9|Moses 8:9]]
 - [[Genesis 11]] — 6 parallel verses, e.g. [[Genesis 5#^gen-5-16|Genesis 5:16]] ↔ [[Genesis 11#^gen-11-17|Genesis 11:17]]
+- [[Moses 7]] — 0 parallel verses
+- [[Moses 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,8 +74,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **10 Gathered In** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
+- **Times and Seasons 1841-02-01 (Vol. 2 No. 7)** (periodical, 1841-02-01) *(explicit citation)*
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

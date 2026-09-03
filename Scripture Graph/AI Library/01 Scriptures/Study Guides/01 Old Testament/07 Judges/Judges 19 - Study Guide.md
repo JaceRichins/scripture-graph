@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 19
 slug: judg-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Judges 1]] — 1 footnote cross-reference (from [[Judges 19#^judg-19-14|Judges 19:14]])
 - [[Joshua 20]] — 1 footnote cross-reference (from [[Judges 19#^judg-19-16|Judges 19:16]])
 - [[1 Samuel 3]] — 1 parallel verse, e.g. [[Judges 19#^judg-19-27|Judges 19:27]] ↔ [[1 Samuel 3#^1sam-3-15|1 Samuel 3:15]]
+- [[Genesis 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

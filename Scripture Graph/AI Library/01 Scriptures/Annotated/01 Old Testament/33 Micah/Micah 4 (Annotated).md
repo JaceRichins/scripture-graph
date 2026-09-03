@@ -17,13 +17,13 @@ cssclasses:
 > In the last days, the temple will be built, Israel will gather to it, the millennial era will commence, and the Lord will reign in Zion.
 
 ![[Micah 4#^micah-4-1]]
-> [[Isaiah 2#^isa-2-1|Isa. 2:2 (1–3)]] · [[Isaiah 2#^isa-2-2|≈ Isaiah 2:2]] · [[2 Nephi 12#^2ne-12-2|≈ 2 Nephi 12:2]]
+> [[Isaiah 2#^isa-2-1|Isa. 2:2 (1–3)]] · [[2 Nephi 12#^2ne-12-2|≈ 2 Nephi 12:2]] · [[Isaiah 2#^isa-2-2|≈ Isaiah 2:2]]
 
 ![[Micah 4#^micah-4-2]]
-> [[D&C 58#^dc-58-13|D&amp;C 58:13]] · [[Isaiah 2#^isa-2-3|≈ Isaiah 2:3]] · [[2 Nephi 12#^2ne-12-3|≈ 2 Nephi 12:3]]
+> [[D&C 58#^dc-58-13|D&amp;C 58:13]] · [[2 Nephi 12#^2ne-12-3|≈ 2 Nephi 12:3]] · [[Isaiah 2#^isa-2-3|≈ Isaiah 2:3]]
 
 ![[Micah 4#^micah-4-3]]
-> [[Isaiah 2#^isa-2-4|≈ Isaiah 2:4]] · [[2 Nephi 12#^2ne-12-4|≈ 2 Nephi 12:4]]
+> [[2 Nephi 12#^2ne-12-4|≈ 2 Nephi 12:4]] · [[Isaiah 2#^isa-2-4|≈ Isaiah 2:4]]
 
 ![[Micah 4#^micah-4-4]]
 > [[1 Kings 4#^1kgs-4-25|1 Kgs. 4:25]] · [[1 Kings 4#^1kgs-4-25|≈ 1 Kings 4:25]]

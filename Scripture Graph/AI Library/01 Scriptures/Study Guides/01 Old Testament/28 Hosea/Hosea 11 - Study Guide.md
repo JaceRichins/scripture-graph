@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 11
 slug: hosea-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Hosea 2]] — 1 footnote cross-reference (from [[Hosea 11#^hosea-11-2|Hosea 11:2]])
 - [[1 Nephi 17]] — 1 footnote cross-reference (from [[Hosea 11#^hosea-11-3|Hosea 11:3]])
 - [[Alma 33]] — 1 footnote cross-reference (from [[Hosea 11#^hosea-11-3|Hosea 11:3]])
+- [[Hosea 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

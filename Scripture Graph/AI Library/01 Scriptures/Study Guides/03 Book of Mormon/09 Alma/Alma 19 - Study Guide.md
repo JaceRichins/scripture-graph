@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 19
 slug: alma-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -81,8 +81,8 @@ _Not yet developed._
 - [[Do Justly, Love Mercy, and Walk Humbly with God (Elder Dale G. Renlund, October 2020)|Do Justly, Love Mercy, and Walk Humbly with God]] — Elder Dale G. Renlund, 2020-October *(explicit citation)*
 - [[Lifted Up upon the Cross (Elder Jeffrey R. Holland, October 2022)|Lifted Up upon the Cross]] — Elder Jeffrey R. Holland, 2022-October *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
+- [[Love Her Mother (Elaine S. Dalton, October 2011)|Love Her Mother]] — Elaine S. Dalton, 2011-October *(explicit citation)*
 - [[Take the Holy Spirit as Your Guide (Elder Larry Y. Wilson, April 2018)|Take the Holy Spirit as Your Guide]] — Elder Larry Y. Wilson, 2018-April *(explicit citation)*
-- [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

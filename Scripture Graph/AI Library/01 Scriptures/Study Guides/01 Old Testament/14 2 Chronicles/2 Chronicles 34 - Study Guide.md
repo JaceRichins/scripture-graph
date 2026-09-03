@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 34
 slug: 2chr-34
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,8 @@ Josiah's reform develops in stages. He seeks God and begins purging rival worshi
 - [[2 Chronicles 33]] — 1 footnote cross-reference (from [[2 Chronicles 34#^2chr-34-3|2 Chronicles 34:3]])
 - [[1 Kings 13]] — 1 footnote cross-reference (from [[2 Chronicles 34#^2chr-34-5|2 Chronicles 34:5]])
 - [[Jeremiah 26]] — 1 footnote cross-reference (from [[2 Chronicles 34#^2chr-34-8|2 Chronicles 34:8]])
+- [[2 Kings 22]] — 20 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-25|2 Chronicles 34:25]] ↔ [[2 Kings 22#^2kgs-22-17|2 Kings 22:17]]
+- [[2 Kings 23]] — 5 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-30|2 Chronicles 34:30]] ↔ [[2 Kings 23#^2kgs-23-2|2 Kings 23:2]]
 - [[2 Kings 12]] — 8 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-14|2 Chronicles 34:14]] ↔ [[2 Kings 12#^2kgs-12-9|2 Kings 12:9]]
 - [[2 Chronicles 36]] — 4 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-1|2 Chronicles 34:1]] ↔ [[2 Chronicles 36#^2chr-36-9|2 Chronicles 36:9]]
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
@@ -64,20 +66,18 @@ Josiah's reform develops in stages. He seeks God and begins purging rival worshi
 - [[2 Chronicles 25]] — 2 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[2 Chronicles 25#^2chr-25-2|2 Chronicles 25:2]]
 - [[2 Chronicles 21]] — 2 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-1|2 Chronicles 34:1]] ↔ [[2 Chronicles 21#^2chr-21-5|2 Chronicles 21:5]]
 - [[Ether 10]] — 2 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[Ether 10#^ether-10-16|Ether 10:16]]
-- [[Jeremiah 32]] — 3 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-30|2 Chronicles 34:30]] ↔ [[Jeremiah 32#^jer-32-32|Jeremiah 32:32]]
-- [[2 Kings 14]] — 2 parallel verses, e.g. [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]] ↔ [[2 Kings 14#^2kgs-14-3|2 Kings 14:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Records and Sacred Writings]]
 - [[Law of Moses]]
 - [[Scripture Study]]
 - [[2 Chronicles 35]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

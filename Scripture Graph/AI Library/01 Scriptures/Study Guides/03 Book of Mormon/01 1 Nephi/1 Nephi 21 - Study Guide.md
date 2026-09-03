@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 21
 slug: 1ne-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[2 Nephi 10]] — 2 footnote cross-references (from [[1 Nephi 21#^1ne-21-1|1 Nephi 21:1]])
 - [[Isaiah 41]] — 2 footnote cross-references (from [[1 Nephi 21#^1ne-21-3|1 Nephi 21:3]])
 - [[Isaiah 49]] — 26 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
+- [[2 Nephi 6]] — 5 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]]
 - [[Isaiah 60]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-26|1 Nephi 21:26]] ↔ [[Isaiah 60#^isa-60-16|Isaiah 60:16]]
 - [[Ezekiel 25]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]]
 - [[Ezekiel 35]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
@@ -57,6 +58,7 @@ _Not yet developed._
 - [[Ezekiel 37]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-22|1 Nephi 21:22]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
 - [[3 Nephi 16]] — 2 parallel verses, e.g. [[1 Nephi 21#^1ne-21-13|1 Nephi 21:13]] ↔ [[3 Nephi 16#^3ne-16-19|3 Nephi 16:19]]
 - [[Revelation 7]] — 0 parallel verses
+- [[2 Nephi 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -84,6 +86,7 @@ The chapter depicts salvation at several scales. The servant restores Jacob, bri
 - [[Facing Our Spiritual Hurricanes by Believing in Christ (Elder Sean Douglas, October 2021)|Facing Our Spiritual Hurricanes by Believing in Christ]] — Elder Sean Douglas, 2021-October *(explicit citation)*
 - [[This Day (Elder Ronald A. Rasband, October 2022)|This Day]] — Elder Ronald A. Rasband, 2022-October *(explicit citation)*
 - [[Jesus Christ Is Not Our Burden; He Is Our Relief (Brother David J. Wunderli, April 2026)|Jesus Christ Is Not Our Burden; He Is Our Relief]] — Brother David J. Wunderli, 2026-April *(explicit citation)*
+- [[The Lord Has Not Forgotten You (Linda S. Reeves, October 2012)|The Lord Has Not Forgotten You]] — Linda S. Reeves, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

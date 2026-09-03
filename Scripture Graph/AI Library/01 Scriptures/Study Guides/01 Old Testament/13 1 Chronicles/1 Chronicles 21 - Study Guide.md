@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 21
 slug: 1chr-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,9 +50,9 @@ Scripture: [[1 Chronicles 21]] · My notes: [[1 Chronicles 21 - My Notes]]
 - [[2 Samuel 12]] — 1 footnote cross-reference (from [[1 Chronicles 21#^1chr-21-8|1 Chronicles 21:8]])
 - [[Psalm 88]] — 1 footnote cross-reference (from [[1 Chronicles 21#^1chr-21-8|1 Chronicles 21:8]])
 - [[2 Nephi 1]] — 1 footnote cross-reference (from [[1 Chronicles 21#^1chr-21-12|1 Chronicles 21:12]])
+- [[2 Samuel 24]] — 10 parallel verses, e.g. [[1 Chronicles 21#^1chr-21-10|1 Chronicles 21:10]] ↔ [[2 Samuel 24#^2sam-24-12|2 Samuel 24:12]]
 - [[2 Chronicles 3]] — 2 parallel verses, e.g. [[1 Chronicles 21#^1chr-21-18|1 Chronicles 21:18]] ↔ [[2 Chronicles 3#^2chr-3-1|2 Chronicles 3:1]]
 - [[2 Samuel 14]] — 1 parallel verse, e.g. [[1 Chronicles 21#^1chr-21-17|1 Chronicles 21:17]] ↔ [[2 Samuel 14#^2sam-14-9|2 Samuel 14:9]]
-- [[2 Samuel 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

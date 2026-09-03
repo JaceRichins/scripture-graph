@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 18
 slug: 2ne-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,18 +56,19 @@ _Not yet developed._
 - [[2 Kings 17]] — 1 footnote cross-reference (from [[2 Nephi 18#^2ne-18-4|2 Nephi 18:4]])
 - [[2 Kings 16]] — 1 footnote cross-reference (from [[2 Nephi 18#^2ne-18-4|2 Nephi 18:4]])
 - [[2 Nephi 20]] — 1 footnote cross-reference (from [[2 Nephi 18#^2ne-18-4|2 Nephi 18:4]])
-- [[Isaiah 8]] — 0 parallel verses
+- [[Isaiah 8]] — 22 parallel verses, e.g. [[2 Nephi 18#^2ne-18-7|2 Nephi 18:7]] ↔ [[Isaiah 8#^isa-8-7|Isaiah 8:7]]
 - [[Romans 9]] — 0 parallel verses
 - [[1 Peter 2]] — 0 parallel verses
 - [[2 Nephi 17]] — 0 parallel verses
+- [[Isaiah 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[Records and Sacred Writings]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -81,7 +82,7 @@ Verses 19–20 contrast familiar spirits and wizards with seeking God and with s
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

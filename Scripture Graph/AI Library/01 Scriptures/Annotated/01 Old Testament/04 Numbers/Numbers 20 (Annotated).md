@@ -30,7 +30,7 @@ cssclasses:
 ![[Numbers 20#^num-20-5]]
 
 ![[Numbers 20#^num-20-6]]
-> [[Leviticus 9#^lev-9-23|≈ Leviticus 9:23]] · [[Numbers 16#^num-16-19|≈ Numbers 16:19]] · [[Numbers 16#^num-16-42|≈ Numbers 16:42]] · [[Numbers 16#^num-16-22|≈ Numbers 16:22]]
+> [[Numbers 16#^num-16-19|≈ Numbers 16:19]] · [[Numbers 16#^num-16-42|≈ Numbers 16:42]] · [[Numbers 16#^num-16-22|≈ Numbers 16:22]] · [[Leviticus 9#^lev-9-23|≈ Leviticus 9:23]]
 
 ![[Numbers 20#^num-20-7]]
 

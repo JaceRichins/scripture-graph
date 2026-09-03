@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 14
 slug: 1chr-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,8 @@ _Not yet developed._
 - [[D&C 132]] — 1 footnote cross-reference (from [[1 Chronicles 14#^1chr-14-3|1 Chronicles 14:3]])
 - [[Isaiah 28]] — 1 footnote cross-reference (from [[1 Chronicles 14#^1chr-14-11|1 Chronicles 14:11]])
 - [[2 Samuel 5]] — 9 parallel verses, e.g. [[1 Chronicles 14#^1chr-14-15|1 Chronicles 14:15]] ↔ [[2 Samuel 5#^2sam-5-24|2 Samuel 5:24]]
+- [[1 Chronicles 3]] — 0 parallel verses
+- [[2 Samuel 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 19
 slug: 2sam-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,8 +60,8 @@ The chapter narrates David's difficult movement from bereaved father back to fun
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Repentance and Forgiveness]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -78,7 +78,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abiathar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

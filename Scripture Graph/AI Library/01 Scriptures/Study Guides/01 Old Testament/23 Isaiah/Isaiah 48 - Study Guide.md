@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 48
 slug: isa-48
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Ezekiel 22]] — 1 footnote cross-reference (from [[Isaiah 48#^isa-48-10|Isaiah 48:10]])
 - [[Psalm 115]] — 1 footnote cross-reference (from [[Isaiah 48#^isa-48-11|Isaiah 48:11]])
 - [[1 Nephi 20]] — 22 parallel verses, e.g. [[Isaiah 48#^isa-48-20|Isaiah 48:20]] ↔ [[1 Nephi 20#^1ne-20-20|1 Nephi 20:20]]
+- [[Jeremiah 51]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -62,6 +63,7 @@ _Not yet developed._
 - [[Until Seventy Times Seven (Elder Lynn G. Robbins, April 2018)|Until Seventy Times Seven]] — Elder Lynn G. Robbins, 2018-April *(explicit citation)*
 - [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
 - [[Remember Thy Suffering Saints, O Our God (Elder Anthony D. Perkins, October 2021)|Remember Thy Suffering Saints, O Our God]] — Elder Anthony D. Perkins, 2021-October *(explicit citation)*
+- [[More Than Conquerors through Him That Loved Us (Elder Paul V. Johnson, April 2011)|More Than Conquerors through Him That Loved Us]] — Elder Paul V. Johnson, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

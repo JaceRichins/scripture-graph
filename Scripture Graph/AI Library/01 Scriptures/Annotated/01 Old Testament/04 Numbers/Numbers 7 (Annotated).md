@@ -54,7 +54,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-16]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-17]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -70,7 +70,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-22]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-23]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -86,7 +86,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-28]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-29]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -102,7 +102,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-34]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-35]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -118,7 +118,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-40]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-41]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -134,7 +134,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-46]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-47]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -150,7 +150,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-52]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-53]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -166,7 +166,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-58]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-59]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -182,7 +182,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-64]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-65]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -198,7 +198,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-70]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-71]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -214,7 +214,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-76]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-77]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]
@@ -230,7 +230,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-12|≈ Leviticus 23:12]] · [[Leviticus 12#^lev-12-6|≈ Leviticus 12:6]] · [[Numbers 6#^num-6-12|≈ Numbers 6:12]]
 
 ![[Numbers 7#^num-7-82]]
-> [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
+> [[Leviticus 9#^lev-9-3|≈ Leviticus 9:3]] · [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 16#^lev-16-5|≈ Leviticus 16:5]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]]
 
 ![[Numbers 7#^num-7-83]]
 > [[Leviticus 23#^lev-23-19|≈ Leviticus 23:19]]

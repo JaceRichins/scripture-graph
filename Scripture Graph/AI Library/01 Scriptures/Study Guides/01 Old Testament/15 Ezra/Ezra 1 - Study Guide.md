@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 1
 slug: ezra-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Ezra 3]] — 1 footnote cross-reference (from [[Ezra 1#^ezra-1-2|Ezra 1:2]])
 - [[2 Chronicles 36]] — 1 footnote cross-reference (from [[Ezra 1#^ezra-1-2|Ezra 1:2]])
 - [[2 Chronicles 36]] — 4 parallel verses, e.g. [[Ezra 1#^ezra-1-1|Ezra 1:1]] ↔ [[2 Chronicles 36#^2chr-36-22|2 Chronicles 36:22]]
+- [[Ezra 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

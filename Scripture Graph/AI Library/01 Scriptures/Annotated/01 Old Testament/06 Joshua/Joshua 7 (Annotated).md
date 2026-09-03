@@ -17,7 +17,7 @@ cssclasses:
 > Israel is defeated by the people of Ai—Joshua complains to the Lord—Achan and his household are destroyed because he disobeyed the Lord by taking the spoils of Jericho.
 
 ![[Joshua 7#^josh-7-1]]
-> [[Joshua 6#^josh-6-18|Josh. 6:18]] · [[Joshua 22#^josh-22-20|22:20]] · [[1 Chronicles 2#^1chr-2-7|1 Chr. 2:7]] · [[Numbers 11#^num-11-10|≈ Numbers 11:10]] · [[Numbers 11#^num-11-33|≈ Numbers 11:33]] · [[Numbers 12#^num-12-9|≈ Numbers 12:9]] · [[Numbers 25#^num-25-3|≈ Numbers 25:3]] · [[Judges 2#^judg-2-14|≈ Judges 2:14]] · [[Judges 2#^judg-2-20|≈ Judges 2:20]]
+> [[Joshua 6#^josh-6-18|Josh. 6:18]] · [[Joshua 22#^josh-22-20|22:20]] · [[1 Chronicles 2#^1chr-2-7|1 Chr. 2:7]] · [[Numbers 25#^num-25-3|≈ Numbers 25:3]] · [[Numbers 11#^num-11-10|≈ Numbers 11:10]] · [[Numbers 11#^num-11-33|≈ Numbers 11:33]] · [[Numbers 12#^num-12-9|≈ Numbers 12:9]] · [[Judges 2#^judg-2-14|≈ Judges 2:14]] · [[Judges 2#^judg-2-20|≈ Judges 2:20]]
 
 ![[Joshua 7#^josh-7-2]]
 > [[Joshua 18#^josh-18-12|Josh. 18:12]]

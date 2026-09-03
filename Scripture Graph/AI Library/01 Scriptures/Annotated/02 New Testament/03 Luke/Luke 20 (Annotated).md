@@ -113,7 +113,7 @@ cssclasses:
 > [[D&C 131#^dc-131-1|D&amp;C 131:2 (1–4)]] · [[D&C 132#^dc-132-5|132:17 (5–17)]]
 
 ![[Luke 20#^luke-20-37]]
-> [[Exodus 3#^ex-3-2|Ex. 3:2 (2–6)]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]] · [[Acts 7#^acts-7-32|≈ Acts 7:32]] · [[1 Nephi 6#^1ne-6-4|≈ 1 Nephi 6:4]] · [[Alma 36#^alma-36-2|≈ Alma 36:2]]
+> [[Exodus 3#^ex-3-2|Ex. 3:2 (2–6)]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]] · [[3 Nephi 4#^3ne-4-30|≈ 3 Nephi 4:30]] · [[Acts 7#^acts-7-32|≈ Acts 7:32]] · [[1 Nephi 6#^1ne-6-4|≈ 1 Nephi 6:4]]
 
 ![[Luke 20#^luke-20-38]]
 > [[Romans 14#^rom-14-9|Rom. 14:9]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]]

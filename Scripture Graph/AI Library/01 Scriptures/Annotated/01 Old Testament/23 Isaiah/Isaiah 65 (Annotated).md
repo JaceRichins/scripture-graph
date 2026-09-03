@@ -84,4 +84,4 @@ cssclasses:
 > [[Alma 9#^alma-9-26|Alma 9:26]]
 
 ![[Isaiah 65#^isa-65-25]]
-> [[2 Nephi 30#^2ne-30-12|2 Ne. 30:12 (12–15)]] · [[Isaiah 60#^isa-60-17|Isa. 60:18 (17–22)]] · [[Isaiah 11#^isa-11-9|≈ Isaiah 11:9]] · [[Isaiah 11#^isa-11-7|≈ Isaiah 11:7]] · [[2 Nephi 21#^2ne-21-9|≈ 2 Nephi 21:9]] · [[2 Nephi 21#^2ne-21-7|≈ 2 Nephi 21:7]] · [[2 Nephi 30#^2ne-30-15|≈ 2 Nephi 30:15]] · [[2 Nephi 30#^2ne-30-13|≈ 2 Nephi 30:13]]
+> [[2 Nephi 30#^2ne-30-12|2 Ne. 30:12 (12–15)]] · [[Isaiah 60#^isa-60-17|Isa. 60:18 (17–22)]] · [[2 Nephi 21#^2ne-21-9|≈ 2 Nephi 21:9]] · [[2 Nephi 21#^2ne-21-7|≈ 2 Nephi 21:7]] · [[Isaiah 11#^isa-11-9|≈ Isaiah 11:9]] · [[Isaiah 11#^isa-11-7|≈ Isaiah 11:7]] · [[2 Nephi 30#^2ne-30-15|≈ 2 Nephi 30:15]] · [[2 Nephi 30#^2ne-30-13|≈ 2 Nephi 30:13]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 19
 slug: 3ne-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,8 +56,10 @@ _Not yet developed._
 - [[3 Nephi 11]] — 2 footnote cross-references (from [[3 Nephi 19#^3ne-19-11|3 Nephi 19:11]])
 - [[John 17]] — 2 footnote cross-references (from [[3 Nephi 19#^3ne-19-23|3 Nephi 19:23]])
 - [[3 Nephi 7]] — 1 footnote cross-reference (from [[3 Nephi 19#^3ne-19-4|3 Nephi 19:4]])
+- [[3 Nephi 17]] — 4 parallel verses, e.g. [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]] ↔ [[3 Nephi 17#^3ne-17-18|3 Nephi 17:18]]
 - [[Mormon 9]] — 4 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
 - [[3 Nephi 28]] — 3 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[3 Nephi 28#^3ne-28-30|3 Nephi 28:30]]
+- [[3 Nephi 18]] — 3 parallel verses, e.g. [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]] ↔ [[3 Nephi 18#^3ne-18-36|3 Nephi 18:36]]
 - [[D&C 50]] — 3 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[D&C 50#^dc-50-31|D&C 50:31]]
 - [[Alma 8]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-13|3 Nephi 19:13]] ↔ [[Alma 8#^alma-8-30|Alma 8:30]]
 - [[Ether 5]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[Ether 5#^ether-5-5|Ether 5:5]]
@@ -66,8 +68,6 @@ _Not yet developed._
 - [[Ether 15]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-4|3 Nephi 19:4]] ↔ [[Ether 15#^ether-15-17|Ether 15:17]]
 - [[D&C 35]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-23|3 Nephi 19:23]] ↔ [[D&C 35#^dc-35-2|D&C 35:2]]
 - [[John 11]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-20|3 Nephi 19:20]] ↔ [[John 11#^john-11-41|John 11:41]]
-- [[John 17]] — 0 parallel verses
-- [[3 Nephi 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

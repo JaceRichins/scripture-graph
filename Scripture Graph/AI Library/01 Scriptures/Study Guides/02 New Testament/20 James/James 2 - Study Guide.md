@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 2
 slug: james-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,8 @@ _Not yet developed._
 - [[Matthew 5]] — 1 footnote cross-reference (from [[James 2#^james-2-5|James 2:5]])
 - [[Luke 6]] — 1 footnote cross-reference (from [[James 2#^james-2-5|James 2:5]])
 - [[Leviticus 19]] — 0 parallel verses
+- [[Joshua 6]] — 0 parallel verses
+- [[1 John 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

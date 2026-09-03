@@ -78,7 +78,7 @@ cssclasses:
 > [[2 Nephi 1#^2ne-1-20|2 Ne. 1:20]] · [[Jarom 1#^jarom-1-9|Jarom 1:9]] · [[Omni 1#^omni-1-6|Omni 1:6]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Alma 9#^alma-9-13|Alma 9:13 (13–14)]] · [[Alma 37#^alma-37-13|37:13]]
 
 ![[3 Nephi 5#^3ne-5-23]]
-> [[Alma 46#^alma-46-24|Alma 46:24]] · [[3 Nephi 10#^3ne-10-17|3 Ne. 10:17]] · [[2 Nephi 3#^2ne-3-12|2 Ne. 3:12]] · [[Mormon 7#^morm-7-5|Morm. 7:5 (5, 10)]] · [[Mosiah 28#^mosiah-28-2|≈ Mosiah 28:2]] · [[Ether 13#^ether-13-7|≈ Ether 13:7]] · [[Alma 46#^alma-46-23|≈ Alma 46:23]] · [[Alma 46#^alma-46-24|≈ Alma 46:24]] · [[3 Nephi 20#^3ne-20-13|≈ 3 Nephi 20:13]]
+> [[Alma 46#^alma-46-24|Alma 46:24]] · [[3 Nephi 10#^3ne-10-17|3 Ne. 10:17]] · [[2 Nephi 3#^2ne-3-12|2 Ne. 3:12]] · [[Mormon 7#^morm-7-5|Morm. 7:5 (5, 10)]] · [[Ether 13#^ether-13-7|≈ Ether 13:7]] · [[Alma 46#^alma-46-23|≈ Alma 46:23]] · [[Alma 46#^alma-46-24|≈ Alma 46:24]] · [[Mosiah 28#^mosiah-28-2|≈ Mosiah 28:2]] · [[3 Nephi 20#^3ne-20-13|≈ 3 Nephi 20:13]]
 
 ![[3 Nephi 5#^3ne-5-24]]
 > [[Genesis 46#^gen-46-8|Gen. 46:8]] · [[Ether 13#^ether-13-11|≈ Ether 13:11]] · [[D&C 33#^dc-33-6|≈ D&C 33:6]] · [[D&C 45#^dc-45-46|≈ D&C 45:46]] · [[Moses 7#^moses-7-62|≈ Moses 7:62]] · [[Joseph Smith—Matthew 1#^jsm-1-27|≈ Joseph Smith—Matthew 1:27]] · [[1 Nephi 19#^1ne-19-16|≈ 1 Nephi 19:16]]

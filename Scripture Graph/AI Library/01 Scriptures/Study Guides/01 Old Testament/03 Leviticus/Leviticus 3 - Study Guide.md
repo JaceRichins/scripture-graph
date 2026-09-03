@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 3
 slug: lev-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,7 +49,9 @@ _Not yet developed._
 - [[Hebrews 7]] — 1 footnote cross-reference (from [[Leviticus 3#^lev-3-6|Leviticus 3:6]])
 - [[1 Peter 1]] — 1 footnote cross-reference (from [[Leviticus 3#^lev-3-6|Leviticus 3:6]])
 - [[Leviticus 21]] — 1 footnote cross-reference (from [[Leviticus 3#^lev-3-11|Leviticus 3:11]])
+- [[Leviticus 4]] — 21 parallel verses, e.g. [[Leviticus 3#^lev-3-10|Leviticus 3:10]] ↔ [[Leviticus 4#^lev-4-9|Leviticus 4:9]]
 - [[Exodus 29]] — 27 parallel verses, e.g. [[Leviticus 3#^lev-3-10|Leviticus 3:10]] ↔ [[Exodus 29#^ex-29-22|Exodus 29:22]]
+- [[Leviticus 7]] — 14 parallel verses, e.g. [[Leviticus 3#^lev-3-4|Leviticus 3:4]] ↔ [[Leviticus 7#^lev-7-4|Leviticus 7:4]]
 - [[Leviticus 23]] — 25 parallel verses, e.g. [[Leviticus 3#^lev-3-3|Leviticus 3:3]] ↔ [[Leviticus 23#^lev-23-8|Leviticus 23:8]]
 - [[Leviticus 8]] — 17 parallel verses, e.g. [[Leviticus 3#^lev-3-5|Leviticus 3:5]] ↔ [[Leviticus 8#^lev-8-28|Leviticus 8:28]]
 - [[Leviticus 2]] — 8 parallel verses, e.g. [[Leviticus 3#^lev-3-5|Leviticus 3:5]] ↔ [[Leviticus 2#^lev-2-9|Leviticus 2:9]]
@@ -59,8 +61,6 @@ _Not yet developed._
 - [[Numbers 28]] — 3 parallel verses, e.g. [[Leviticus 3#^lev-3-5|Leviticus 3:5]] ↔ [[Numbers 28#^num-28-8|Numbers 28:8]]
 - [[Leviticus 22]] — 4 parallel verses, e.g. [[Leviticus 3#^lev-3-3|Leviticus 3:3]] ↔ [[Leviticus 22#^lev-22-27|Leviticus 22:27]]
 - [[Numbers 29]] — 2 parallel verses, e.g. [[Leviticus 3#^lev-3-5|Leviticus 3:5]] ↔ [[Numbers 29#^num-29-13|Numbers 29:13]]
-- [[Exodus 30]] — 4 parallel verses, e.g. [[Leviticus 3#^lev-3-3|Leviticus 3:3]] ↔ [[Exodus 30#^ex-30-20|Exodus 30:20]]
-- [[Numbers 18]] — 2 parallel verses, e.g. [[Leviticus 3#^lev-3-16|Leviticus 3:16]] ↔ [[Numbers 18#^num-18-17|Numbers 18:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

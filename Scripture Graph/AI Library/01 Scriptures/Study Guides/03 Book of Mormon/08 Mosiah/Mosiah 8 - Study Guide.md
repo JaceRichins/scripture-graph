@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 8
 slug: mosiah-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -73,7 +73,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **03 Plates of Gold** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text
@@ -100,3 +102,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

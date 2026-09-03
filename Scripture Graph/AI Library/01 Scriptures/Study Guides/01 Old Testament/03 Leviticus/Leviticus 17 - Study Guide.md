@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 17
 slug: lev-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,8 +69,8 @@ _Not yet developed._
 <!-- SG:BEGIN topics -->
 - [[Law of Moses]]
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
+- [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

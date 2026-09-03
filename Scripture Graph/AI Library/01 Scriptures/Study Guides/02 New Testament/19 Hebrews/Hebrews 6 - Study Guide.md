@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 6
 slug: heb-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ _Not yet developed._
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1840-02-01 (Vol. 1 No. 4)** (periodical, 1840-02-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

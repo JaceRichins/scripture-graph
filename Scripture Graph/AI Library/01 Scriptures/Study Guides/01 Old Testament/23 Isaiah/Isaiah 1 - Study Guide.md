@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 1
 slug: isa-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,8 @@ _Not yet developed._
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-20|Isaiah 1:20]] ↔ [[Isaiah 40#^isa-40-5|Isaiah 40:5]]
 - [[Isaiah 58]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-20|Isaiah 1:20]] ↔ [[Isaiah 58#^isa-58-14|Isaiah 58:14]]
 - [[Amos 5]] — 0 parallel verses
+- [[Psalm 50]] — 0 parallel verses
+- [[D&C 50]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

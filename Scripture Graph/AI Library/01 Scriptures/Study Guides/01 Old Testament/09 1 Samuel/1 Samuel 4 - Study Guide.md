@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 4
 slug: 1sam-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -90,7 +90,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

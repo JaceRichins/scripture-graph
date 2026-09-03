@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 23
 slug: 3ne-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[3 Nephi 15]] — 1 footnote cross-reference (from [[3 Nephi 23#^3ne-23-3|3 Nephi 23:3]])
 - [[2 Nephi 29]] — 3 parallel verses, e.g. [[3 Nephi 23#^3ne-23-2|3 Nephi 23:2]] ↔ [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]]
 - [[3 Nephi 15]] — 2 parallel verses, e.g. [[3 Nephi 23#^3ne-23-6|3 Nephi 23:6]] ↔ [[3 Nephi 15#^3ne-15-2|3 Nephi 15:2]]
+- [[3 Nephi 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

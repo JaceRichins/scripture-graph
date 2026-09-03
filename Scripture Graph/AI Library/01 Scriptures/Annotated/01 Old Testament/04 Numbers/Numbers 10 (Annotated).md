@@ -101,7 +101,7 @@ cssclasses:
 ![[Numbers 10#^num-10-32]]
 
 ![[Numbers 10#^num-10-33]]
-> [[Joshua 8#^josh-8-33|≈ Joshua 8:33]] · [[Joshua 6#^josh-6-8|≈ Joshua 6:8]] · [[Deuteronomy 31#^deut-31-9|≈ Deuteronomy 31:9]] · [[Deuteronomy 31#^deut-31-25|≈ Deuteronomy 31:25]] · [[Deuteronomy 31#^deut-31-26|≈ Deuteronomy 31:26]] · [[Joshua 3#^josh-3-3|≈ Joshua 3:3]]
+> [[Joshua 6#^josh-6-8|≈ Joshua 6:8]] · [[Joshua 8#^josh-8-33|≈ Joshua 8:33]] · [[Deuteronomy 31#^deut-31-9|≈ Deuteronomy 31:9]] · [[Deuteronomy 31#^deut-31-25|≈ Deuteronomy 31:25]] · [[Deuteronomy 31#^deut-31-26|≈ Deuteronomy 31:26]] · [[Joshua 3#^josh-3-3|≈ Joshua 3:3]]
 
 ![[Numbers 10#^num-10-34]]
 > [[Numbers 9#^num-9-15|Num. 9:15]] · [[Numbers 14#^num-14-14|14:14]]

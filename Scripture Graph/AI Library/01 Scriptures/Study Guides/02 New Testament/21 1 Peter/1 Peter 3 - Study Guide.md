@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 3
 slug: 1pet-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,14 +49,15 @@ _Not yet developed._
 - [[James 1]] — 1 footnote cross-reference (from [[1 Peter 3#^1pet-3-14|1 Peter 3:14]])
 - [[Luke 1]] — 1 footnote cross-reference (from [[1 Peter 3#^1pet-3-19|1 Peter 3:19]])
 - [[D&C 138]] — 1 footnote cross-reference (from [[1 Peter 3#^1pet-3-19|1 Peter 3:19]])
+- [[D&C 138]] — 4 parallel verses, e.g. [[1 Peter 3#^1pet-3-18|1 Peter 3:18]] ↔ [[D&C 138#^dc-138-7|D&C 138:7]]
 - [[Psalm 34]] — 2 parallel verses, e.g. [[1 Peter 3#^1pet-3-12|1 Peter 3:12]] ↔ [[Psalm 34#^ps-34-15|Psalm 34:15]]
-- [[D&C 138]] — 0 parallel verses
 - [[Genesis 7]] — 0 parallel verses
 - [[1 Peter 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Baptism for the Dead]]
 - [[Death and the Spirit World]]
 <!-- SG:END topics -->
 

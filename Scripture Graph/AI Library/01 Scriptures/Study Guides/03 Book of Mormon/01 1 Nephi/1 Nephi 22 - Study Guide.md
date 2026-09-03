@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 22
 slug: 1ne-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -66,7 +66,7 @@ Nephi interprets the prophecy read in [[1 Nephi 21]] as concerning matters that 
 - [[1 Nephi 13]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]] ↔ [[1 Nephi 13#^1ne-13-26|1 Nephi 13:26]]
 - [[D&C 1]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-16|1 Nephi 22:16]] ↔ [[D&C 1#^dc-1-9|D&C 1:9]]
 - [[2 Nephi 1]] — 4 parallel verses, e.g. [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]] ↔ [[2 Nephi 1#^2ne-1-9|2 Nephi 1:9]]
-- [[3 Nephi 15]] — 2 parallel verses, e.g. [[1 Nephi 22#^1ne-22-25|1 Nephi 22:25]] ↔ [[3 Nephi 15#^3ne-15-17|3 Nephi 15:17]]
+- [[2 Nephi 27]] — 3 parallel verses, e.g. [[1 Nephi 22#^1ne-22-8|1 Nephi 22:8]] ↔ [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +78,7 @@ Nephi interprets the prophecy read in [[1 Nephi 21]] as concerning matters that 
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

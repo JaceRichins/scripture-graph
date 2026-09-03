@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 12
 slug: 2cor-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[1 Corinthians 9]] — 0 parallel verses
 - [[1 Corinthians 9]] — 0 parallel verses
 - [[2 Corinthians 11]] — 0 parallel verses
+- [[3 Nephi 28]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,6 +92,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Paradise** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Paradise** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

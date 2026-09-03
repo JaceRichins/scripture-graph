@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 1
 slug: esth-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,18 +47,19 @@ _Not yet developed._
 - [[Esther 9]] — 1 footnote cross-reference (from [[Esther 1#^esth-1-1|Esther 1:1]])
 - [[Nehemiah 1]] — 1 footnote cross-reference (from [[Esther 1#^esth-1-2|Esther 1:2]])
 - [[Alma 18]] — 1 footnote cross-reference (from [[Esther 1#^esth-1-3|Esther 1:3]])
+- [[Esther 3]] — 1 parallel verse, e.g. [[Esther 1#^esth-1-22|Esther 1:22]] ↔ [[Esther 3#^esth-3-12|Esther 3:12]]
 - [[Jeremiah 26]] — 2 parallel verses, e.g. [[Esther 1#^esth-1-16|Esther 1:16]] ↔ [[Jeremiah 26#^jer-26-12|Jeremiah 26:12]]
 - [[Esther 2]] — 2 parallel verses, e.g. [[Esther 1#^esth-1-3|Esther 1:3]] ↔ [[Esther 2#^esth-2-18|Esther 2:18]]
 - [[Esther 9]] — 2 parallel verses, e.g. [[Esther 1#^esth-1-16|Esther 1:16]] ↔ [[Esther 9#^esth-9-20|Esther 9:20]]
-- [[Esther 3]] — 0 parallel verses
-- [[Esther 8]] — 0 parallel verses
+- [[Esther 8]] — 1 parallel verse, e.g. [[Esther 1#^esth-1-22|Esther 1:22]] ↔ [[Esther 8#^esth-8-9|Esther 8:9]]
 - [[Daniel 6]] — 0 parallel verses
+- [[Esther 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Esther 2]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Pride]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -74,7 +75,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1845-11-15 (Vol. 6 No. 17)** (periodical, 1845-11-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

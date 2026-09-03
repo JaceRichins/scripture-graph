@@ -33,7 +33,7 @@ cssclasses:
 ![[Isaiah 31#^isa-31-6]]
 
 ![[Isaiah 31#^isa-31-7]]
-> [[Isaiah 2#^isa-2-20|≈ Isaiah 2:20]] · [[2 Nephi 12#^2ne-12-20|≈ 2 Nephi 12:20]]
+> [[2 Nephi 12#^2ne-12-20|≈ 2 Nephi 12:20]] · [[Isaiah 2#^isa-2-20|≈ Isaiah 2:20]]
 
 ![[Isaiah 31#^isa-31-8]]
 > [[Isaiah 37#^isa-37-1|Isa. 37:36 (1–38)]]

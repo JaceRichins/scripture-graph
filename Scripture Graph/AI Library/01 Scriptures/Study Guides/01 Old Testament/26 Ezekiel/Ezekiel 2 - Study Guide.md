@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 2
 slug: ezek-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,8 @@ _Not yet developed._
 - [[Ezekiel 4]] — 2 parallel verses, e.g. [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]] ↔ [[Ezekiel 4#^ezek-4-16|Ezekiel 4:16]]
 - [[Ezekiel 47]] — 2 parallel verses, e.g. [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]] ↔ [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]]
 - [[Jeremiah 8]] — 1 parallel verse, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Jeremiah 8#^jer-8-4|Jeremiah 8:4]]
+- [[Jeremiah 15]] — 0 parallel verses
+- [[1 Nephi 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,6 +74,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

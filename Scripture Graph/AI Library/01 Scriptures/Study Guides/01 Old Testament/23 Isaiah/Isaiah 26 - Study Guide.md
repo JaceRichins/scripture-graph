@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 26
 slug: isa-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

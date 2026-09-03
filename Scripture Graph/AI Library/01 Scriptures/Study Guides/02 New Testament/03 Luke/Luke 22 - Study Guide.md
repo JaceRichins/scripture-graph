@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 22
 slug: luke-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,8 +49,10 @@ _Not yet developed._
 - [[Mark 14]] — 12 parallel verses, e.g. [[Luke 22#^luke-22-11|Luke 22:11]] ↔ [[Mark 14#^mark-14-14|Mark 14:14]]
 - [[Matthew 26]] — 10 parallel verses, e.g. [[Luke 22#^luke-22-61|Luke 22:61]] ↔ [[Matthew 26#^matt-26-75|Matthew 26:75]]
 - [[1 Corinthians 11]] — 2 parallel verses, e.g. [[Luke 22#^luke-22-19|Luke 22:19]] ↔ [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]]
-- [[Luke 20]] — 2 parallel verses, e.g. [[Luke 22#^luke-22-66|Luke 22:66]] ↔ [[Luke 20#^luke-20-1|Luke 20:1]]
 - [[3 Nephi 18]] — 1 parallel verse, e.g. [[Luke 22#^luke-22-31|Luke 22:31]] ↔ [[3 Nephi 18#^3ne-18-18|3 Nephi 18:18]]
+- [[Luke 20]] — 2 parallel verses, e.g. [[Luke 22#^luke-22-66|Luke 22:66]] ↔ [[Luke 20#^luke-20-1|Luke 20:1]]
+- [[Exodus 24]] — 0 parallel verses
+- [[D&C 52]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

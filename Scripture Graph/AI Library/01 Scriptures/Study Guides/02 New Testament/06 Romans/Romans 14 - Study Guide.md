@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 14
 slug: rom-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,9 +59,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[What Thinks Christ of Me (Elder Neil L. Andersen, April 2012)|What Thinks Christ of Me?]] — Elder Neil L. Andersen, 2012-April *(explicit citation)*
 - [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
 - [[The Peace of Christ Abolishes Enmity (Elder Dale G. Renlund, October 2021)|The Peace of Christ Abolishes Enmity]] — Elder Dale G. Renlund, 2021-October *(explicit citation)*
 - [[Love All; Love Each (Elder Gérald Caussé, April 2026)|Love All; Love Each]] — Elder Gérald Caussé, 2026-April *(explicit citation)*
+- [[An Ensign to the Nations (Elder Jeffrey R. Holland, April 2011)|An Ensign to the Nations]] — Elder Jeffrey R. Holland, 2011-April *(explicit citation)*
 - [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
 - [[Loving Others and Living with Differences (Elder Dallin H. Oaks, October 2014)|Loving Others and Living with Differences]] — Elder Dallin H. Oaks, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
@@ -70,6 +72,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Peace and Violence among 19th-Century Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

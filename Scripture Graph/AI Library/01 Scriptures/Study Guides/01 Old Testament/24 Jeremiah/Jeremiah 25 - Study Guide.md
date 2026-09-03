@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 25
 slug: jer-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

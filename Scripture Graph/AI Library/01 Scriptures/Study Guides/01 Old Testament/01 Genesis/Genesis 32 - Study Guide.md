@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 32
 slug: gen-32
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,8 @@ _Not yet developed._
 - [[Genesis 35]] — 1 footnote cross-reference (from [[Genesis 32#^gen-32-7|Genesis 32:7]])
 - [[Matthew 22]] — 1 footnote cross-reference (from [[Genesis 32#^gen-32-9|Genesis 32:9]])
 - [[Hosea 1]] — 1 parallel verse, e.g. [[Genesis 32#^gen-32-12|Genesis 32:12]] ↔ [[Hosea 1#^hosea-1-10|Hosea 1:10]]
+- [[Hosea 1]] — 0 parallel verses
+- [[Hosea 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,6 +70,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

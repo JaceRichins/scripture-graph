@@ -69,10 +69,10 @@ cssclasses:
 > [[1 Nephi 7#^1ne-7-9|1 Ne. 7:12 (9–13)]] · [[1 Nephi 15#^1ne-15-11|15:11]] · [[1 Nephi 17#^1ne-17-8|≈ 1 Nephi 17:8]]
 
 ![[1 Nephi 2#^1ne-2-20]]
-> [[Joshua 1#^josh-1-7|Josh. 1:7]] · [[1 Nephi 4#^1ne-4-14|1 Ne. 4:14]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Deuteronomy 33#^deut-33-13|Deut. 33:13 (13–16)]] · [[1 Chronicles 28#^1chr-28-7|1 Chr. 28:8 (7–8)]] · [[1 Nephi 5#^1ne-5-5|1 Ne. 5:5 (5, 22)]] · [[1 Nephi 7#^1ne-7-13|7:13]] · [[Moses 7#^moses-7-17|Moses 7:17 (17–18)]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Ether 2#^ether-2-10|≈ Ether 2:10]]
+> [[Joshua 1#^josh-1-7|Josh. 1:7]] · [[1 Nephi 4#^1ne-4-14|1 Ne. 4:14]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Deuteronomy 33#^deut-33-13|Deut. 33:13 (13–16)]] · [[1 Chronicles 28#^1chr-28-7|1 Chr. 28:8 (7–8)]] · [[1 Nephi 5#^1ne-5-5|1 Ne. 5:5 (5, 22)]] · [[1 Nephi 7#^1ne-7-13|7:13]] · [[Moses 7#^moses-7-17|Moses 7:17 (17–18)]] · [[Ether 2#^ether-2-10|≈ Ether 2:10]] · [[2 Nephi 1#^2ne-1-20|≈ 2 Nephi 1:20]]
 
 ![[1 Nephi 2#^1ne-2-21]]
-> [[Joshua 23#^josh-23-13|Josh. 23:13]] · [[2 Nephi 5#^2ne-5-20|2 Ne. 5:20 (20–24)]] · [[Alma 9#^alma-9-13|Alma 9:14 (13–15)]] · [[Alma 38#^alma-38-1|38:1]] · [[2 Nephi 5#^2ne-5-20|≈ 2 Nephi 5:20]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 9#^alma-9-14|≈ Alma 9:14]] · [[Alma 42#^alma-42-9|≈ Alma 42:9]] · [[Alma 42#^alma-42-11|≈ Alma 42:11]] · [[Alma 50#^alma-50-20|≈ Alma 50:20]]
+> [[Joshua 23#^josh-23-13|Josh. 23:13]] · [[2 Nephi 5#^2ne-5-20|2 Ne. 5:20 (20–24)]] · [[Alma 9#^alma-9-13|Alma 9:14 (13–15)]] · [[Alma 38#^alma-38-1|38:1]] · [[Ether 2#^ether-2-15|≈ Ether 2:15]] · [[2 Nephi 5#^2ne-5-20|≈ 2 Nephi 5:20]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 9#^alma-9-14|≈ Alma 9:14]] · [[Alma 42#^alma-42-9|≈ Alma 42:9]] · [[Alma 42#^alma-42-11|≈ Alma 42:11]]
 
 ![[1 Nephi 2#^1ne-2-22]]
 > [[Genesis 37#^gen-37-8|Gen. 37:8 (8–11)]] · [[1 Nephi 3#^1ne-3-29|1 Ne. 3:29]]
@@ -81,4 +81,4 @@ cssclasses:
 > [[Job 24#^job-24-13|Job 24:13]] · [[Deuteronomy 11#^deut-11-28|Deut. 11:28]] · [[1 Nephi 12#^1ne-12-22|1 Ne. 12:22 (22–23)]] · [[D&C 41#^dc-41-1|D&amp;C 41:1]] · [[Joshua 22#^josh-22-16|Josh. 22:16]] · [[Mosiah 15#^mosiah-15-26|Mosiah 15:26]]
 
 ![[1 Nephi 2#^1ne-2-24]]
-> [[Joshua 23#^josh-23-13|Josh. 23:13]] · [[Judges 2#^judg-2-22|Judg. 2:22 (22–23)]] · [[2 Nephi 5#^2ne-5-25|2 Ne. 5:25]] · [[2 Nephi 5#^2ne-5-25|≈ 2 Nephi 5:25]] · [[Moroni 9#^moro-9-24|≈ Moroni 9:24]] · [[2 Nephi 1#^2ne-1-7|≈ 2 Nephi 1:7]] · [[2 Nephi 1#^2ne-1-9|≈ 2 Nephi 1:9]]
+> [[Joshua 23#^josh-23-13|Josh. 23:13]] · [[Judges 2#^judg-2-22|Judg. 2:22 (22–23)]] · [[2 Nephi 5#^2ne-5-25|2 Ne. 5:25]] · [[2 Nephi 1#^2ne-1-7|≈ 2 Nephi 1:7]] · [[2 Nephi 1#^2ne-1-9|≈ 2 Nephi 1:9]] · [[2 Nephi 5#^2ne-5-25|≈ 2 Nephi 5:25]] · [[Moroni 9#^moro-9-24|≈ Moroni 9:24]]

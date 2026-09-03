@@ -17,7 +17,7 @@ cssclasses:
 > The gospel comes both in word and in power.
 
 ![[1 Thessalonians 1#^1thes-1-1]]
-> [[Acts 15#^acts-15-32|Acts 15:34 (32–34)]] · [[2 Corinthians 1#^2cor-1-19|2 Cor. 1:19]] · [[1 Peter 5#^1pet-5-12|1 Pet. 5:12]] · [[Acts 16#^acts-16-1|Acts 16:1 (1–2)]] · [[Acts 18#^acts-18-1|18:5 (1, 5)]] · [[1 Thessalonians 3#^1thes-3-2|1 Thes. 3:2 (2, 6)]] · [[Acts 17#^acts-17-1|Acts 17:1 (1, 11)]] · [[Romans 1#^rom-1-7|≈ Romans 1:7]] · [[Philippians 1#^philip-1-2|≈ Philippians 1:2]] · [[Colossians 1#^col-1-2|≈ Colossians 1:2]]
+> [[Acts 15#^acts-15-32|Acts 15:34 (32–34)]] · [[2 Corinthians 1#^2cor-1-19|2 Cor. 1:19]] · [[1 Peter 5#^1pet-5-12|1 Pet. 5:12]] · [[Acts 16#^acts-16-1|Acts 16:1 (1–2)]] · [[Acts 18#^acts-18-1|18:5 (1, 5)]] · [[1 Thessalonians 3#^1thes-3-2|1 Thes. 3:2 (2, 6)]] · [[Acts 17#^acts-17-1|Acts 17:1 (1, 11)]] · [[Romans 1#^rom-1-7|≈ Romans 1:7]] · [[Colossians 1#^col-1-2|≈ Colossians 1:2]] · [[2 Thessalonians 1#^2thes-1-1|≈ 2 Thessalonians 1:1]]
 
 ![[1 Thessalonians 1#^1thes-1-2]]
 > [[D&C 46#^dc-46-32|D&amp;C 46:32]]

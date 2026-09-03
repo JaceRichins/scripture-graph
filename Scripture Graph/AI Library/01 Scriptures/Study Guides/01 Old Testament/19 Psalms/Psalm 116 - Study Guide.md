@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 116
 slug: ps-116
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[O How Great the Plan of Our God! (President Dieter F. Uchtdorf, October 2016)|O How Great the Plan of Our God!]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
+- [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

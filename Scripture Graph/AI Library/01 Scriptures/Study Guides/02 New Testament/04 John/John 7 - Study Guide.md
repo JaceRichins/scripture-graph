@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 7
 slug: john-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

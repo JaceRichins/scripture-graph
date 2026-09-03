@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 1
 slug: james-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,8 @@ _Not yet developed._
 - [[Psalm 12]] — 1 footnote cross-reference (from [[James 1#^james-1-8|James 1:8]])
 - [[Hosea 10]] — 1 footnote cross-reference (from [[James 1#^james-1-8|James 1:8]])
 - [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[James 1#^james-1-5|James 1:5]] ↔ [[Joseph Smith—History 1#^jsh-1-11|Joseph Smith—History 1:11]]
+- [[D&C 46]] — 0 parallel verses
+- [[D&C 67]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,6 +77,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **01 Ask in Faith** (history) *(explicit citation)*
 - **Spiritual Experiences** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
@@ -84,7 +87,6 @@ _Not yet developed._
 - **Faith** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
-- **Temptation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

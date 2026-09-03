@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 5
 slug: amos-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,20 +55,22 @@ The repeated seek-and-live appeals give the chapter rhetorical coherence, but th
 - [[Amos 3]] — 1 footnote cross-reference (from [[Amos 5#^amos-5-5|Amos 5:5]])
 - [[1 Chronicles 16]] — 1 footnote cross-reference (from [[Amos 5#^amos-5-6|Amos 5:6]])
 - [[Alma 37]] — 1 footnote cross-reference (from [[Amos 5#^amos-5-6|Amos 5:6]])
+- [[Amos 9]] — 1 parallel verse, e.g. [[Amos 5#^amos-5-8|Amos 5:8]] ↔ [[Amos 9#^amos-9-6|Amos 9:6]]
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[Amos 5#^amos-5-4|Amos 5:4]] ↔ [[1 Nephi 14#^1ne-14-5|1 Nephi 14:5]]
-- [[Amos 9]] — 0 parallel verses
 - [[Deuteronomy 28]] — 0 parallel verses
 - [[Isaiah 1]] — 0 parallel verses
 - [[Amos 4]] — 0 parallel verses
 - [[Amos 6]] — 0 parallel verses
 - [[Amos 2]] — 0 parallel verses
+- [[Amos 9]] — 0 parallel verses
+- [[Psalm 50]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Final Judgment]]
 - [[Scattering of Israel]]
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

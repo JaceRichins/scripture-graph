@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nahum
 chapter: 1
 slug: nahum-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

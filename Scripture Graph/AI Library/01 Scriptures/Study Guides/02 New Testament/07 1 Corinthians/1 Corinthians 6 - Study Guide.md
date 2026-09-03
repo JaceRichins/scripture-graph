@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 6
 slug: 1cor-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,9 +50,9 @@ _Not yet developed._
 - [[D&C 64]] — 1 footnote cross-reference (from [[1 Corinthians 6#^1cor-6-1|1 Corinthians 6:1]])
 - [[Matthew 7]] — 1 footnote cross-reference (from [[1 Corinthians 6#^1cor-6-2|1 Corinthians 6:2]])
 - [[Daniel 7]] — 1 footnote cross-reference (from [[1 Corinthians 6#^1cor-6-2|1 Corinthians 6:2]])
+- [[1 Corinthians 10]] — 1 parallel verse, e.g. [[1 Corinthians 6#^1cor-6-12|1 Corinthians 6:12]] ↔ [[1 Corinthians 10#^1cor-10-23|1 Corinthians 10:23]]
 - [[1 Corinthians 7]] — 0 parallel verses
 - [[1 Corinthians 3]] — 0 parallel verses
-- [[1 Corinthians 10]] — 0 parallel verses
 - [[1 Corinthians 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -95,6 +95,8 @@ Paul presents the body as belonging within God’s enduring purposes: it is “f
 - **Mortality** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Modesty** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1842-02-15 (Vol. 3 No. 8)** (periodical, 1842-02-15) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

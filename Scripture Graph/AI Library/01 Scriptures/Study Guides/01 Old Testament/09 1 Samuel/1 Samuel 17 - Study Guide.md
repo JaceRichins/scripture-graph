@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 17
 slug: 1sam-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,9 +60,9 @@ The chapter moves from collective paralysis to deliverance through an unexpected
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
-- [[Exodus and Deliverance]]
 - [[1 Chronicles 20]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -83,12 +83,13 @@ The chapter also belongs under [[War and Peace]], but its violence should not be
 - [[Your Priesthood Playbook (Elder Gary E. Stevenson, April 2019)|Your Priesthood Playbook]] — Elder Gary E. Stevenson, 2019-April *(explicit citation)*
 - [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
 - [[Invite Christ to Author Your Story (Camille N. Johnson, October 2021)|Invite Christ to Author Your Story]] — Camille N. Johnson, 2021-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Deepening Our Conversion to Jesus Christ (Elder Arnulfo Valenzuela, October 2021)|Deepening Our Conversion to Jesus Christ]] — Elder Arnulfo Valenzuela, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abner** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

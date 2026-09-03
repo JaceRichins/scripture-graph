@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 9
 slug: 3ne-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,9 +55,11 @@ Scripture: [[3 Nephi 9]] · My notes: [[3 Nephi 9 - My Notes]]
 - [[John 1]] — 3 footnote cross-references (from [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]])
 - [[3 Nephi 15]] — 3 footnote cross-references (from [[3 Nephi 9#^3ne-9-16|3 Nephi 9:16]])
 - [[1 Nephi 19]] — 2 footnote cross-references (from [[3 Nephi 9#^3ne-9-1|3 Nephi 9:1]])
+- [[3 Nephi 11]] — 3 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]]
 - [[Ether 4]] — 3 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[Ether 4#^ether-4-7|Ether 4:7]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-18|3 Nephi 9:18]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[3 Nephi 12]] — 3 parallel verses, e.g. [[3 Nephi 9#^3ne-9-20|3 Nephi 9:20]] ↔ [[3 Nephi 12#^3ne-12-19|3 Nephi 12:19]]
+- [[John 14]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[John 14#^john-14-10|John 14:10]]
 - [[2 Nephi 2]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[2 Nephi 2#^2ne-2-14|2 Nephi 2:14]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
 - [[D&C 35]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 35#^dc-35-2|D&C 35:2]]
@@ -65,8 +67,6 @@ Scripture: [[3 Nephi 9]] · My notes: [[3 Nephi 9 - My Notes]]
 - [[D&C 50]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 50#^dc-50-43|D&C 50:43]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 93#^dc-93-3|D&C 93:3]]
 - [[D&C 14]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 14#^dc-14-9|D&C 14:9]]
-- [[D&C 6]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 6#^dc-6-21|D&C 6:21]]
-- [[D&C 10]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 10#^dc-10-57|D&C 10:57]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -99,9 +99,9 @@ Scripture: [[3 Nephi 9]] · My notes: [[3 Nephi 9 - My Notes]]
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
 - [[Choose Jesus Christ as Your Guide (Elder Edward B. Rowe, April 2026)|Choose Jesus Christ as Your Guide]] — Elder Edward B. Rowe, 2026-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[The Miracle of the Atonement (Elder C. Scott Grow, April 2011)|The Miracle of the Atonement]] — Elder C. Scott Grow, 2011-April *(explicit citation)*
+- [[Learning with Our Hearts (Elder Walter F. González, October 2012)|Learning with Our Hearts]] — Elder Walter F. González, 2012-October *(explicit citation)*
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
-- [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
-- [[Yielding Our Hearts to God (Neill F. Marriott, October 2015)|Yielding Our Hearts to God]] — Neill F. Marriott, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -110,12 +110,12 @@ Scripture: [[3 Nephi 9]] · My notes: [[3 Nephi 9 - My Notes]]
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
+- **07 Fellow Servants** (history) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Abortion** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
-- **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

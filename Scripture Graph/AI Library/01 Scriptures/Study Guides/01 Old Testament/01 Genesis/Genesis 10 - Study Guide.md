@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 10
 slug: gen-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -81,7 +81,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Arabia, Arabians** (reference-entry) *(explicit citation)*
+- **Aram, Arameans** (reference-entry) *(explicit citation)*
+- **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

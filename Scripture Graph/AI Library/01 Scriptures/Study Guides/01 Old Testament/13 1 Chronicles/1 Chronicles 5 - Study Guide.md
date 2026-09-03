@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 5
 slug: 1chr-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,9 +64,9 @@ The chapter is more than a collection of names. It explains why Reuben's biologi
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Records and Sacred Writings]]
 - [[Scattering of Israel]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

@@ -46,16 +46,16 @@ cssclasses:
 > [[Exodus 20#^ex-20-1|Ex. 20:1 (1–17)]] · [[Micah 2#^micah-2-1|Micah 2:1 (1–2)]]
 
 ![[Mosiah 13#^mosiah-13-12]]
-> [[Mosiah 12#^mosiah-12-36|Mosiah 12:36]] · [[Exodus 20#^ex-20-4|≈ Exodus 20:4]] · [[Deuteronomy 5#^deut-5-8|≈ Deuteronomy 5:8]] · [[Mosiah 12#^mosiah-12-36|≈ Mosiah 12:36]]
+> [[Mosiah 12#^mosiah-12-36|Mosiah 12:36]] · [[Deuteronomy 5#^deut-5-8|≈ Deuteronomy 5:8]] · [[Exodus 20#^ex-20-4|≈ Exodus 20:4]] · [[Mosiah 12#^mosiah-12-36|≈ Mosiah 12:36]]
 
 ![[Mosiah 13#^mosiah-13-13]]
-> [[Exodus 20#^ex-20-5|Ex. 20:5]] · [[Numbers 14#^num-14-18|≈ Numbers 14:18]] · [[Exodus 20#^ex-20-5|≈ Exodus 20:5]] · [[Deuteronomy 5#^deut-5-9|≈ Deuteronomy 5:9]] · [[Exodus 34#^ex-34-7|≈ Exodus 34:7]]
+> [[Exodus 20#^ex-20-5|Ex. 20:5]] · [[Numbers 14#^num-14-18|≈ Numbers 14:18]] · [[Deuteronomy 5#^deut-5-9|≈ Deuteronomy 5:9]] · [[Exodus 20#^ex-20-5|≈ Exodus 20:5]] · [[Exodus 34#^ex-34-7|≈ Exodus 34:7]]
 
 ![[Mosiah 13#^mosiah-13-14]]
-> [[Exodus 20#^ex-20-6|≈ Exodus 20:6]] · [[Deuteronomy 5#^deut-5-10|≈ Deuteronomy 5:10]]
+> [[Deuteronomy 5#^deut-5-10|≈ Deuteronomy 5:10]] · [[Exodus 20#^ex-20-6|≈ Exodus 20:6]]
 
 ![[Mosiah 13#^mosiah-13-15]]
-> [[Exodus 20#^ex-20-7|Ex. 20:7]] · [[Mormon 7#^morm-7-7|Morm. 7:7]] · [[D&C 58#^dc-58-30|D&amp;C 58:30]] · [[Exodus 20#^ex-20-7|≈ Exodus 20:7]] · [[Deuteronomy 5#^deut-5-11|≈ Deuteronomy 5:11]]
+> [[Exodus 20#^ex-20-7|Ex. 20:7]] · [[Mormon 7#^morm-7-7|Morm. 7:7]] · [[D&C 58#^dc-58-30|D&amp;C 58:30]] · [[Deuteronomy 5#^deut-5-11|≈ Deuteronomy 5:11]] · [[Exodus 20#^ex-20-7|≈ Exodus 20:7]]
 
 ![[Mosiah 13#^mosiah-13-16]]
 > [[Mosiah 18#^mosiah-18-23|Mosiah 18:23]] · [[Exodus 20#^ex-20-8|≈ Exodus 20:8]]
@@ -63,13 +63,13 @@ cssclasses:
 ![[Mosiah 13#^mosiah-13-17]]
 
 ![[Mosiah 13#^mosiah-13-18]]
-> [[Exodus 20#^ex-20-10|≈ Exodus 20:10]] · [[Deuteronomy 5#^deut-5-14|≈ Deuteronomy 5:14]] · [[Exodus 34#^ex-34-26|≈ Exodus 34:26]]
+> [[Deuteronomy 5#^deut-5-14|≈ Deuteronomy 5:14]] · [[Exodus 20#^ex-20-10|≈ Exodus 20:10]] · [[Exodus 34#^ex-34-26|≈ Exodus 34:26]]
 
 ![[Mosiah 13#^mosiah-13-19]]
 > [[Genesis 1#^gen-1-31|Gen. 1:31]] · [[Exodus 20#^ex-20-11|Ex. 20:11]] · [[Exodus 20#^ex-20-11|≈ Exodus 20:11]] · [[Exodus 31#^ex-31-17|≈ Exodus 31:17]] · [[Acts 4#^acts-4-24|≈ Acts 4:24]] · [[Acts 14#^acts-14-15|≈ Acts 14:15]]
 
 ![[Mosiah 13#^mosiah-13-20]]
-> [[Proverbs 20#^prov-20-20|Prov. 20:20]] · [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 15#^deut-15-4|≈ Deuteronomy 15:4]] · [[Deuteronomy 15#^deut-15-7|≈ Deuteronomy 15:7]] · [[Deuteronomy 25#^deut-25-15|≈ Deuteronomy 25:15]] · [[Deuteronomy 25#^deut-25-19|≈ Deuteronomy 25:19]]
+> [[Proverbs 20#^prov-20-20|Prov. 20:20]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Deuteronomy 15#^deut-15-4|≈ Deuteronomy 15:4]] · [[Deuteronomy 15#^deut-15-7|≈ Deuteronomy 15:7]] · [[Deuteronomy 25#^deut-25-15|≈ Deuteronomy 25:15]] · [[Deuteronomy 25#^deut-25-19|≈ Deuteronomy 25:19]]
 
 ![[Mosiah 13#^mosiah-13-21]]
 > [[Exodus 20#^ex-20-13|Ex. 20:13]] · [[Deuteronomy 5#^deut-5-17|Deut. 5:17]] · [[Matthew 5#^matt-5-21|Matt. 5:21 (21–37)]] · [[3 Nephi 12#^3ne-12-21|3 Ne. 12:21 (21–37)]] · [[D&C 42#^dc-42-18|D&amp;C 42:18]]

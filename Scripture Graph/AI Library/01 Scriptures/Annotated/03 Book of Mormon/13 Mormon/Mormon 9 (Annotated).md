@@ -19,7 +19,7 @@ cssclasses:
 ![[Mormon 9#^morm-9-1]]
 
 ![[Mormon 9#^morm-9-2]]
-> [[Malachi 4#^mal-4-5|Mal. 4:5]] · [[3 Nephi 28#^3ne-28-31|3 Ne. 28:31]] · [[Mormon 5#^morm-5-23|Morm. 5:23]] · [[D&C 63#^dc-63-20|D&amp;C 63:21 (20–21)]] · [[Amos 9#^amos-9-13|Amos 9:13]] · [[3 Nephi 26#^3ne-26-3|3 Ne. 26:3]] · [[Mormon 5#^morm-5-23|≈ Mormon 5:23]] · [[2 Peter 3#^2pet-3-10|≈ 2 Peter 3:10]] · [[2 Peter 3#^2pet-3-12|≈ 2 Peter 3:12]]
+> [[Malachi 4#^mal-4-5|Mal. 4:5]] · [[3 Nephi 28#^3ne-28-31|3 Ne. 28:31]] · [[Mormon 5#^morm-5-23|Morm. 5:23]] · [[D&C 63#^dc-63-20|D&amp;C 63:21 (20–21)]] · [[Amos 9#^amos-9-13|Amos 9:13]] · [[3 Nephi 26#^3ne-26-3|3 Ne. 26:3]] · [[2 Peter 3#^2pet-3-10|≈ 2 Peter 3:10]] · [[2 Peter 3#^2pet-3-12|≈ 2 Peter 3:12]] · [[Mormon 5#^morm-5-23|≈ Mormon 5:23]]
 
 ![[Mormon 9#^morm-9-3]]
 
@@ -29,7 +29,7 @@ cssclasses:
 > [[Exodus 32#^ex-32-25|Ex. 32:25]] · [[2 Nephi 9#^2ne-9-14|2 Ne. 9:14]]
 
 ![[Mormon 9#^morm-9-6]]
-> [[Ezekiel 18#^ezek-18-23|Ezek. 18:23, 32]] · [[D&C 98#^dc-98-47|D&amp;C 98:47]] · [[Moroni 3#^moro-3-2|≈ Moroni 3:2]] · [[3 Nephi 19#^3ne-19-6|≈ 3 Nephi 19:6]] · [[3 Nephi 19#^3ne-19-8|≈ 3 Nephi 19:8]] · [[3 Nephi 28#^3ne-28-30|≈ 3 Nephi 28:30]] · [[Ether 5#^ether-5-5|≈ Ether 5:5]] · [[D&C 50#^dc-50-31|≈ D&C 50:31]]
+> [[Ezekiel 18#^ezek-18-23|Ezek. 18:23, 32]] · [[D&C 98#^dc-98-47|D&amp;C 98:47]] · [[Moroni 3#^moro-3-2|≈ Moroni 3:2]] · [[3 Nephi 28#^3ne-28-30|≈ 3 Nephi 28:30]] · [[3 Nephi 19#^3ne-19-6|≈ 3 Nephi 19:6]] · [[3 Nephi 19#^3ne-19-8|≈ 3 Nephi 19:8]] · [[Ether 5#^ether-5-5|≈ Ether 5:5]] · [[D&C 50#^dc-50-31|≈ D&C 50:31]]
 
 ![[Mormon 9#^morm-9-7]]
 > [[3 Nephi 29#^3ne-29-6|3 Ne. 29:6]] · [[1 Corinthians 12#^1cor-12-10|1 Cor. 12:10]] · [[Articles of Faith 1#^aoff-1-7|A of F 1:7]]
@@ -76,13 +76,13 @@ cssclasses:
 > [[Matthew 21#^matt-21-18|Matt. 21:22 (18–22)]] · [[3 Nephi 18#^3ne-18-20|3 Ne. 18:20]] · [[Moroni 3#^moro-3-2|≈ Moroni 3:2]] · [[2 Nephi 32#^2ne-32-9|≈ 2 Nephi 32:9]] · [[2 Nephi 33#^2ne-33-12|≈ 2 Nephi 33:12]]
 
 ![[Mormon 9#^morm-9-22]]
-> [[Mark 16#^mark-16-15|Mark 16:15]] · [[D&C 84#^dc-84-62|≈ D&C 84:62]] · [[Mark 16#^mark-16-15|≈ Mark 16:15]] · [[D&C 68#^dc-68-8|≈ D&C 68:8]] · [[D&C 112#^dc-112-28|≈ D&C 112:28]] · [[D&C 80#^dc-80-1|≈ D&C 80:1]]
+> [[Mark 16#^mark-16-15|Mark 16:15]] · [[D&C 68#^dc-68-8|≈ D&C 68:8]] · [[Mark 16#^mark-16-15|≈ Mark 16:15]] · [[D&C 112#^dc-112-28|≈ D&C 112:28]] · [[D&C 84#^dc-84-62|≈ D&C 84:62]] · [[D&C 80#^dc-80-1|≈ D&C 80:1]]
 
 ![[Mormon 9#^morm-9-23]]
-> [[Mark 16#^mark-16-16|Mark 16:16]] · [[Ether 4#^ether-4-18|≈ Ether 4:18]] · [[Mark 16#^mark-16-16|≈ Mark 16:16]] · [[D&C 68#^dc-68-9|≈ D&C 68:9]] · [[D&C 112#^dc-112-29|≈ D&C 112:29]]
+> [[Mark 16#^mark-16-16|Mark 16:16]] · [[D&C 68#^dc-68-9|≈ D&C 68:9]] · [[Ether 4#^ether-4-18|≈ Ether 4:18]] · [[Mark 16#^mark-16-16|≈ Mark 16:16]] · [[D&C 112#^dc-112-29|≈ D&C 112:29]]
 
 ![[Mormon 9#^morm-9-24]]
-> [[Mark 16#^mark-16-17|Mark 16:17 (17–18)]] · [[Mark 5#^mark-5-15|Mark 5:15 (15–20)]] · [[1 Nephi 11#^1ne-11-31|1 Ne. 11:31]] · [[D&C 84#^dc-84-65|≈ D&C 84:65]] · [[Ether 4#^ether-4-18|≈ Ether 4:18]] · [[Mark 16#^mark-16-18|≈ Mark 16:18]] · [[Mark 16#^mark-16-17|≈ Mark 16:17]]
+> [[Mark 16#^mark-16-17|Mark 16:17 (17–18)]] · [[Mark 5#^mark-5-15|Mark 5:15 (15–20)]] · [[1 Nephi 11#^1ne-11-31|1 Ne. 11:31]] · [[Ether 4#^ether-4-18|≈ Ether 4:18]] · [[Mark 16#^mark-16-18|≈ Mark 16:18]] · [[Mark 16#^mark-16-17|≈ Mark 16:17]] · [[D&C 84#^dc-84-65|≈ D&C 84:65]]
 
 ![[Mormon 9#^morm-9-25]]
 
@@ -90,13 +90,13 @@ cssclasses:
 > [[2 Nephi 26#^2ne-26-20|2 Ne. 26:20]] · [[2 Nephi 28#^2ne-28-4|28:5 (4–6, 15)]] · [[3 Nephi 29#^3ne-29-4|3 Ne. 29:5 (4–7)]] · [[Proverbs 13#^prov-13-13|Prov. 13:13]]
 
 ![[Mormon 9#^morm-9-27]]
-> [[3 Nephi 21#^3ne-21-20|3 Ne. 21:20]] · [[Ether 5#^ether-5-5|Ether 5:5]] · [[Moroni 10#^moro-10-30|Moro. 10:30 (30–32)]] · [[Joshua 22#^josh-22-5|Josh. 22:5]] · [[D&C 64#^dc-64-22|D&amp;C 64:34 (22, 34)]] · [[Philippians 2#^philip-2-12|Philip. 2:12 (12–16)]] · [[Philippians 2#^philip-2-12|≈ Philippians 2:12]] · [[3 Nephi 19#^3ne-19-6|≈ 3 Nephi 19:6]] · [[3 Nephi 19#^3ne-19-8|≈ 3 Nephi 19:8]] · [[3 Nephi 28#^3ne-28-30|≈ 3 Nephi 28:30]]
+> [[3 Nephi 21#^3ne-21-20|3 Ne. 21:20]] · [[Ether 5#^ether-5-5|Ether 5:5]] · [[Moroni 10#^moro-10-30|Moro. 10:30 (30–32)]] · [[Joshua 22#^josh-22-5|Josh. 22:5]] · [[D&C 64#^dc-64-22|D&amp;C 64:34 (22, 34)]] · [[Philippians 2#^philip-2-12|Philip. 2:12 (12–16)]] · [[Philippians 2#^philip-2-12|≈ Philippians 2:12]] · [[3 Nephi 28#^3ne-28-30|≈ 3 Nephi 28:30]] · [[3 Nephi 19#^3ne-19-6|≈ 3 Nephi 19:6]] · [[3 Nephi 19#^3ne-19-8|≈ 3 Nephi 19:8]]
 
 ![[Mormon 9#^morm-9-28]]
 > [[Matthew 10#^matt-10-16|Matt. 10:16]] · [[Jacob 6#^jacob-6-12|Jacob 6:12]] · [[Alma 5#^alma-5-13|Alma 5:13]]
 
 ![[Mormon 9#^morm-9-29]]
-> [[Leviticus 22#^lev-22-3|Lev. 22:3]] · [[1 Corinthians 11#^1cor-11-27|1 Cor. 11:27 (27–30)]] · [[3 Nephi 18#^3ne-18-28|3 Ne. 18:29 (28–32)]] · [[Moses 8#^moses-8-24|≈ Moses 8:24]] · [[D&C 14#^dc-14-9|≈ D&C 14:9]] · [[Mormon 5#^morm-5-14|≈ Mormon 5:14]] · [[3 Nephi 30#^3ne-30-1|≈ 3 Nephi 30:1]] · [[D&C 55#^dc-55-2|≈ D&C 55:2]] · [[D&C 109#^dc-109-4|≈ D&C 109:4]]
+> [[Leviticus 22#^lev-22-3|Lev. 22:3]] · [[1 Corinthians 11#^1cor-11-27|1 Cor. 11:27 (27–30)]] · [[3 Nephi 18#^3ne-18-28|3 Ne. 18:29 (28–32)]] · [[Moses 8#^moses-8-24|≈ Moses 8:24]] · [[D&C 68#^dc-68-25|≈ D&C 68:25]] · [[D&C 14#^dc-14-9|≈ D&C 14:9]] · [[Mormon 5#^morm-5-14|≈ Mormon 5:14]] · [[3 Nephi 30#^3ne-30-1|≈ 3 Nephi 30:1]] · [[D&C 55#^dc-55-2|≈ D&C 55:2]]
 
 ![[Mormon 9#^morm-9-30]]
 > [[Mormon 8#^morm-8-26|Morm. 8:26]] · [[Moroni 10#^moro-10-27|Moro. 10:27]]

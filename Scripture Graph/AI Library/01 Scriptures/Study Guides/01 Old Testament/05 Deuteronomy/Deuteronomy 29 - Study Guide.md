@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 29
 slug: deut-29
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,24 +60,24 @@ This is one defensible literary outline; other section divisions are possible.
 - [[Numbers 21]] — 1 footnote cross-reference (from [[Deuteronomy 29#^deut-29-7|Deuteronomy 29:7]])
 - [[Joshua 1]] — 1 footnote cross-reference (from [[Deuteronomy 29#^deut-29-9|Deuteronomy 29:9]])
 - [[1 Kings 2]] — 1 footnote cross-reference (from [[Deuteronomy 29#^deut-29-9|Deuteronomy 29:9]])
+- [[Deuteronomy 30]] — 2 parallel verses, e.g. [[Deuteronomy 29#^deut-29-13|Deuteronomy 29:13]] ↔ [[Deuteronomy 30#^deut-30-20|Deuteronomy 30:20]]
 - [[2 Chronicles 7]] — 2 parallel verses, e.g. [[Deuteronomy 29#^deut-29-25|Deuteronomy 29:25]] ↔ [[2 Chronicles 7#^2chr-7-22|2 Chronicles 7:22]]
+- [[Judges 2]] — 3 parallel verses, e.g. [[Deuteronomy 29#^deut-29-25|Deuteronomy 29:25]] ↔ [[Judges 2#^judg-2-12|Judges 2:12]]
+- [[Jeremiah 22]] — 2 parallel verses, e.g. [[Deuteronomy 29#^deut-29-25|Deuteronomy 29:25]] ↔ [[Jeremiah 22#^jer-22-9|Jeremiah 22:9]]
+- [[Deuteronomy 3]] — 2 parallel verses, e.g. [[Deuteronomy 29#^deut-29-7|Deuteronomy 29:7]] ↔ [[Deuteronomy 3#^deut-3-1|Deuteronomy 3:1]]
+- [[Jeremiah 11]] — 2 parallel verses, e.g. [[Deuteronomy 29#^deut-29-9|Deuteronomy 29:9]] ↔ [[Jeremiah 11#^jer-11-6|Jeremiah 11:6]]
 - [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Deuteronomy 29#^deut-29-13|Deuteronomy 29:13]] ↔ [[Deuteronomy 6#^deut-6-10|Deuteronomy 6:10]]
 - [[Joshua 22]] — 2 parallel verses, e.g. [[Deuteronomy 29#^deut-29-8|Deuteronomy 29:8]] ↔ [[Joshua 22#^josh-22-13|Joshua 22:13]]
 - [[2 Chronicles 34]] — 2 parallel verses, e.g. [[Deuteronomy 29#^deut-29-20|Deuteronomy 29:20]] ↔ [[2 Chronicles 34#^2chr-34-24|2 Chronicles 34:24]]
 - [[Exodus 4]] — 1 parallel verse, e.g. [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]] ↔ [[Exodus 4#^ex-4-14|Exodus 4:14]]
 - [[Numbers 12]] — 1 parallel verse, e.g. [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]] ↔ [[Numbers 12#^num-12-9|Numbers 12:9]]
 - [[Numbers 25]] — 1 parallel verse, e.g. [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]] ↔ [[Numbers 25#^num-25-3|Numbers 25:3]]
-- [[Joshua 7]] — 1 parallel verse, e.g. [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]] ↔ [[Joshua 7#^josh-7-1|Joshua 7:1]]
-- [[2 Samuel 6]] — 1 parallel verse, e.g. [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]] ↔ [[2 Samuel 6#^2sam-6-7|2 Samuel 6:7]]
-- [[2 Kings 13]] — 1 parallel verse, e.g. [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]] ↔ [[2 Kings 13#^2kgs-13-3|2 Kings 13:3]]
-- [[1 Chronicles 13]] — 1 parallel verse, e.g. [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]] ↔ [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]]
-- [[Deuteronomy 30]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Scattering of Israel]]
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 11
 slug: mark-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -77,7 +77,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1840-11-01 (Vol. 2 No. 1)** (periodical, 1840-11-01) *(explicit citation)*
+- **Times and Seasons 1841-04-01 (Vol. 2 No. 11)** (periodical, 1841-04-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 3
 slug: 2sam-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,13 +54,14 @@ Scripture: [[2 Samuel 3]] · My notes: [[2 Samuel 3 - My Notes]]
 - [[Judges 9]] — 2 parallel verses, e.g. [[2 Samuel 3#^2sam-3-31|2 Samuel 3:31]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
 - [[1 Samuel 30]] — 2 parallel verses, e.g. [[2 Samuel 3#^2sam-3-3|2 Samuel 3:3]] ↔ [[1 Samuel 30#^1sam-30-5|1 Samuel 30:5]]
 - [[1 Chronicles 3]] — 0 parallel verses
+- [[2 Samuel 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -75,7 +76,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Absalom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

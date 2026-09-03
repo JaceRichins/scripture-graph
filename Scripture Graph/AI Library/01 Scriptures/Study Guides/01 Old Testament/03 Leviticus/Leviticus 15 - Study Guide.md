@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 15
 slug: lev-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Luke 8]] — 1 footnote cross-reference (from [[Leviticus 15#^lev-15-25|Leviticus 15:25]])
 - [[Leviticus 17]] — 14 parallel verses, e.g. [[Leviticus 15#^lev-15-5|Leviticus 15:5]] ↔ [[Leviticus 17#^lev-17-15|Leviticus 17:15]]
 - [[Leviticus 11]] — 28 parallel verses, e.g. [[Leviticus 15#^lev-15-1|Leviticus 15:1]] ↔ [[Leviticus 11#^lev-11-1|Leviticus 11:1]]
+- [[Numbers 19]] — 20 parallel verses, e.g. [[Leviticus 15#^lev-15-5|Leviticus 15:5]] ↔ [[Numbers 19#^num-19-19|Numbers 19:19]]
 - [[Leviticus 5]] — 12 parallel verses, e.g. [[Leviticus 15#^lev-15-15|Leviticus 15:15]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
 - [[Leviticus 14]] — 8 parallel verses, e.g. [[Leviticus 15#^lev-15-15|Leviticus 15:15]] ↔ [[Leviticus 14#^lev-14-31|Leviticus 14:31]]
 - [[Numbers 6]] — 5 parallel verses, e.g. [[Leviticus 15#^lev-15-30|Leviticus 15:30]] ↔ [[Numbers 6#^num-6-11|Numbers 6:11]]
@@ -62,7 +63,6 @@ _Not yet developed._
 - [[Leviticus 12]] — 2 parallel verses, e.g. [[Leviticus 15#^lev-15-30|Leviticus 15:30]] ↔ [[Leviticus 12#^lev-12-8|Leviticus 12:8]]
 - [[Leviticus 19]] — 4 parallel verses, e.g. [[Leviticus 15#^lev-15-15|Leviticus 15:15]] ↔ [[Leviticus 19#^lev-19-22|Leviticus 19:22]]
 - [[Leviticus 6]] — 2 parallel verses, e.g. [[Leviticus 15#^lev-15-15|Leviticus 15:15]] ↔ [[Leviticus 6#^lev-6-7|Leviticus 6:7]]
-- [[Leviticus 23]] — 2 parallel verses, e.g. [[Leviticus 15#^lev-15-2|Leviticus 15:2]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -51,4 +51,4 @@ cssclasses:
 ![[Zechariah 6#^zech-6-14]]
 
 ![[Zechariah 6#^zech-6-15]]
-> [[Isaiah 60#^isa-60-10|Isa. 60:10]] · [[Jeremiah 42#^jer-42-21|≈ Jeremiah 42:21]] · [[Jeremiah 42#^jer-42-13|≈ Jeremiah 42:13]] · [[Zechariah 4#^zech-4-9|≈ Zechariah 4:9]] · [[Zechariah 2#^zech-2-9|≈ Zechariah 2:9]] · [[Zechariah 2#^zech-2-11|≈ Zechariah 2:11]]
+> [[Isaiah 60#^isa-60-10|Isa. 60:10]] · [[Zechariah 2#^zech-2-9|≈ Zechariah 2:9]] · [[Zechariah 2#^zech-2-11|≈ Zechariah 2:11]] · [[Jeremiah 42#^jer-42-21|≈ Jeremiah 42:21]] · [[Jeremiah 42#^jer-42-13|≈ Jeremiah 42:13]] · [[Zechariah 4#^zech-4-9|≈ Zechariah 4:9]]

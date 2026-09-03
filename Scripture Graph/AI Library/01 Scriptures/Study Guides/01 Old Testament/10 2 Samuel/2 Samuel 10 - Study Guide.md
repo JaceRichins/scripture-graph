@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 10
 slug: 2sam-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -71,7 +71,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ammon, Ammonites** (reference-entry) *(explicit citation)*
+- **Aram, Arameans** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

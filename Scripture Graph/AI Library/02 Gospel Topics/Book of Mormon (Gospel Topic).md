@@ -36,9 +36,12 @@ _Not yet developed._
 - [[Joseph Smith—History 1]]
 - [[Ezekiel 37]]
 - [[2 Nephi 29]]
-- [[Moroni 10]]
 - [[D&C 20]]
+- [[Moroni 10]]
 - [[D&C 84]]
+- [[D&C 135]]
+- [[2 Nephi 27]]
+- [[2 Nephi 3]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

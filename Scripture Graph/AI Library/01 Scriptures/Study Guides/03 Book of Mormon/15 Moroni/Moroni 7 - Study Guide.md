@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 7
 slug: moro-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -84,10 +84,10 @@ _Not yet developed._
 - [[Legacy of Encouragement (President Henry B. Eyring, October 2022)|Legacy of Encouragement]] — President Henry B. Eyring, 2022-October *(explicit citation)*
 - [[Your Next Step (Elder Randall K. Bennett, October 2015)|Your Next Step]] — Elder Randall K. Bennett, 2015-October *(explicit citation)*
 - [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Behold Thy Mother (Elder Jeffrey R. Holland, October 2015)|Behold Thy Mother]] — Elder Jeffrey R. Holland, 2015-October *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
 - [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
-- [[Be Peaceable Followers of Christ (Elder Quentin L. Cook, October 2023)|Be Peaceable Followers of Christ]] — Elder Quentin L. Cook, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

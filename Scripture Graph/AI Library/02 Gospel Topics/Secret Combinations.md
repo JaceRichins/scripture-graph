@@ -39,6 +39,11 @@ _Not yet developed._
 - [[Alma 37]] *(keyword match)*
 - [[Ether 8]]
 - [[Moses 5]]
+- [[Ether 11]]
+- [[3 Nephi 9]]
+- [[Ether 9]]
+- [[Helaman 1]]
+- [[3 Nephi 1]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

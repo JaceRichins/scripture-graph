@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 29
 slug: 3ne-29
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 

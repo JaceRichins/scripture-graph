@@ -94,7 +94,7 @@ cssclasses:
 ![[Matthew 22#^matt-22-31]]
 
 ![[Matthew 22#^matt-22-32]]
-> [[Genesis 32#^gen-32-9|Gen. 32:9]] · [[1 Nephi 19#^1ne-19-10|1 Ne. 19:10]] · [[D&C 136#^dc-136-21|D&amp;C 136:21]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]] · [[Exodus 3#^ex-3-6|≈ Exodus 3:6]] · [[Exodus 3#^ex-3-15|≈ Exodus 3:15]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]] · [[Mark 12#^mark-12-27|≈ Mark 12:27]] · [[Acts 7#^acts-7-32|≈ Acts 7:32]]
+> [[Genesis 32#^gen-32-9|Gen. 32:9]] · [[1 Nephi 19#^1ne-19-10|1 Ne. 19:10]] · [[D&C 136#^dc-136-21|D&amp;C 136:21]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]] · [[1 Nephi 6#^1ne-6-4|≈ 1 Nephi 6:4]] · [[3 Nephi 4#^3ne-4-30|≈ 3 Nephi 4:30]] · [[Exodus 3#^ex-3-6|≈ Exodus 3:6]] · [[Exodus 3#^ex-3-15|≈ Exodus 3:15]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]]
 
 ![[Matthew 22#^matt-22-33]]
 
@@ -105,7 +105,7 @@ cssclasses:
 ![[Matthew 22#^matt-22-36]]
 
 ![[Matthew 22#^matt-22-37]]
-> [[Mark 12#^mark-12-30|≈ Mark 12:30]] · [[Deuteronomy 4#^deut-4-29|≈ Deuteronomy 4:29]] · [[Deuteronomy 10#^deut-10-12|≈ Deuteronomy 10:12]] · [[Luke 10#^luke-10-27|≈ Luke 10:27]] · [[Deuteronomy 6#^deut-6-5|≈ Deuteronomy 6:5]] · [[Deuteronomy 30#^deut-30-6|≈ Deuteronomy 30:6]]
+> [[D&C 59#^dc-59-5|≈ D&C 59:5]] · [[Mark 12#^mark-12-30|≈ Mark 12:30]] · [[Deuteronomy 4#^deut-4-29|≈ Deuteronomy 4:29]] · [[Deuteronomy 10#^deut-10-12|≈ Deuteronomy 10:12]] · [[Luke 10#^luke-10-27|≈ Luke 10:27]] · [[Deuteronomy 6#^deut-6-5|≈ Deuteronomy 6:5]]
 
 ![[Matthew 22#^matt-22-38]]
 

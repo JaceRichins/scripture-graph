@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 43
 slug: jer-43
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,8 @@ Jeremiah finishes delivering the divine message, but Johanan, Azariah, and the m
 - [[Jeremiah 19]] — 3 parallel verses, e.g. [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
 - [[Ezekiel 20]] — 4 parallel verses, e.g. [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
 - [[Jeremiah 15]] — 1 parallel verse, e.g. [[Jeremiah 43#^jer-43-11|Jeremiah 43:11]] ↔ [[Jeremiah 15#^jer-15-2|Jeremiah 15:2]]
+- [[Jeremiah 44]] — 3 parallel verses, e.g. [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]] ↔ [[Jeremiah 44#^jer-44-11|Jeremiah 44:11]]
 - [[Jeremiah 52]] — 4 parallel verses, e.g. [[Jeremiah 43#^jer-43-6|Jeremiah 43:6]] ↔ [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]]
-- [[Ezekiel 37]] — 3 parallel verses, e.g. [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

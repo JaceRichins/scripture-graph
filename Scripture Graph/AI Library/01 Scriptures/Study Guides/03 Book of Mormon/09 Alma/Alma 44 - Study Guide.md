@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 44
 slug: alma-44
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Alma 52]] — 1 parallel verse, e.g. [[Alma 44#^alma-44-15|Alma 44:15]] ↔ [[Alma 52#^alma-52-38|Alma 52:38]]
 - [[Alma 3]] — 2 parallel verses, e.g. [[Alma 44#^alma-44-22|Alma 44:22]] ↔ [[Alma 3#^alma-3-3|Alma 3:3]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Alma 44#^alma-44-22|Alma 44:22]] ↔ [[Alma 43#^alma-43-40|Alma 43:40]]
+- [[Alma 52]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

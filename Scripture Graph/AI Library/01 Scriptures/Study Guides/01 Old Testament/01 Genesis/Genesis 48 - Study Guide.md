@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 48
 slug: gen-48
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,7 +64,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -74,6 +74,8 @@ _Not yet developed._
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
+- **Abraham, covenant of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

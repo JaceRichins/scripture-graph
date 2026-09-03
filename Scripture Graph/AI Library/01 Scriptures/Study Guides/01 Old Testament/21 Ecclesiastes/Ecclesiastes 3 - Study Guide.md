@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 3
 slug: eccl-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

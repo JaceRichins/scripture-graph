@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 9
 slug: acts-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Ether 3]] — 1 footnote cross-reference (from [[Acts 9#^acts-9-4|Acts 9:4]])
 - [[Moses 1]] — 1 footnote cross-reference (from [[Acts 9#^acts-9-4|Acts 9:4]])
 - [[Acts 26]] — 2 parallel verses, e.g. [[Acts 9#^acts-9-5|Acts 9:5]] ↔ [[Acts 26#^acts-26-14|Acts 26:14]]
+- [[2 Corinthians 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,6 +67,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Waiting on the Road to Damascus (President Dieter F. Uchtdorf, April 2011)|Waiting on the Road to Damascus]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
 - [[Blessed and Happy Are Those Who Keep the Commandments of God (Elder Von G. Keetch, October 2015)|Blessed and Happy Are Those Who Keep the Commandments of God]] — Elder Von G. Keetch, 2015-October *(explicit citation)*
 - [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
 - [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
@@ -73,6 +75,7 @@ _Not yet developed._
 - [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
 - [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
 - [[Conference Report, April 1929 (General Conference (full report), April 1929)|Conference Report, April 1929]] — General Conference (full report), 1929-April *(explicit citation)*
+- [[Having the Vision to Do (Elder O. Vincent Haleck, April 2012)|Having the Vision to Do]] — Elder O. Vincent Haleck, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -81,6 +84,8 @@ _Not yet developed._
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Almsgiving** (reference-entry) *(explicit citation)*
+- **Ananias** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

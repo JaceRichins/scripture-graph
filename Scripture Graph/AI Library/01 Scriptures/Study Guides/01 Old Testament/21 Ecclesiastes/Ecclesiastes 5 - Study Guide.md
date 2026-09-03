@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 5
 slug: eccl-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,8 @@ _Not yet developed._
 - [[Ecclesiastes 3]] — 1 footnote cross-reference (from [[Ecclesiastes 5#^eccl-5-7|Ecclesiastes 5:7]])
 - [[Job 1]] — 1 footnote cross-reference (from [[Ecclesiastes 5#^eccl-5-15|Ecclesiastes 5:15]])
 - [[Ecclesiastes 8]] — 1 parallel verse, e.g. [[Ecclesiastes 5#^eccl-5-18|Ecclesiastes 5:18]] ↔ [[Ecclesiastes 8#^eccl-8-15|Ecclesiastes 8:15]]
+- [[Psalm 49]] — 0 parallel verses
+- [[Deuteronomy 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

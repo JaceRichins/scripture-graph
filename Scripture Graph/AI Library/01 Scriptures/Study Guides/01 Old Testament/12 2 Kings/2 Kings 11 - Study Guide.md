@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 11
 slug: 2kgs-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -67,7 +67,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Athaliah** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 89
 slug: ps-89
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,7 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Your Potential, Your Privilege (President Dieter F. Uchtdorf, April 2011)|Your Potential, Your Privilege]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

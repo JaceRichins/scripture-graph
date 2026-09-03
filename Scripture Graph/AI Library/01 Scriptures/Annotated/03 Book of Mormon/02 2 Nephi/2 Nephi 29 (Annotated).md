@@ -17,7 +17,7 @@ cssclasses:
 > Many Gentiles will reject the Book of Mormon—They will say, We need no more Bible—The Lord speaks to many nations—He will judge the world out of the books which will be written. About 559–545 B.C.
 
 ![[2 Nephi 29#^2ne-29-1]]
-> [[2 Nephi 27#^2ne-27-26|2 Ne. 27:26]] · [[2 Nephi 6#^2ne-6-14|2 Ne. 6:14]] · [[2 Nephi 21#^2ne-21-11|21:11]] · [[2 Nephi 25#^2ne-25-17|25:17]] · [[3 Nephi 23#^3ne-23-2|≈ 3 Nephi 23:2]] · [[D&C 39#^dc-39-11|≈ D&C 39:11]] · [[1 Nephi 22#^1ne-22-8|≈ 1 Nephi 22:8]] · [[2 Nephi 10#^2ne-10-15|≈ 2 Nephi 10:15]] · [[2 Nephi 10#^2ne-10-17|≈ 2 Nephi 10:17]] · [[2 Nephi 25#^2ne-25-17|≈ 2 Nephi 25:17]]
+> [[2 Nephi 27#^2ne-27-26|2 Ne. 27:26]] · [[2 Nephi 6#^2ne-6-14|2 Ne. 6:14]] · [[2 Nephi 21#^2ne-21-11|21:11]] · [[2 Nephi 25#^2ne-25-17|25:17]] · [[3 Nephi 23#^3ne-23-2|≈ 3 Nephi 23:2]] · [[D&C 39#^dc-39-11|≈ D&C 39:11]] · [[2 Nephi 10#^2ne-10-15|≈ 2 Nephi 10:15]] · [[2 Nephi 10#^2ne-10-17|≈ 2 Nephi 10:17]] · [[1 Nephi 22#^1ne-22-8|≈ 1 Nephi 22:8]] · [[2 Nephi 25#^2ne-25-17|≈ 2 Nephi 25:17]]
 
 ![[2 Nephi 29#^2ne-29-2]]
 > [[2 Nephi 3#^2ne-3-21|2 Ne. 3:21]] · [[Isaiah 5#^isa-5-26|Isa. 5:26]] · [[Moroni 10#^moro-10-28|Moro. 10:28]] · [[2 Nephi 15#^2ne-15-26|2 Ne. 15:26]] · [[Psalm 60#^ps-60-4|Ps. 60:4]] · [[3 Nephi 23#^3ne-23-2|≈ 3 Nephi 23:2]] · [[D&C 39#^dc-39-11|≈ D&C 39:11]] · [[2 Nephi 25#^2ne-25-4|≈ 2 Nephi 25:4]]
@@ -35,7 +35,7 @@ cssclasses:
 > [[1 Nephi 13#^1ne-13-23|1 Ne. 13:23, 38]]
 
 ![[2 Nephi 29#^2ne-29-7]]
-> [[Isaiah 51#^isa-51-5|Isa. 51:5]] · [[1 Nephi 22#^1ne-22-4|1 Ne. 22:4]] · [[2 Nephi 10#^2ne-10-8|2 Ne. 10:8 (8, 20)]] · [[D&C 133#^dc-133-8|D&amp;C 133:8]] · [[Deuteronomy 10#^deut-10-14|Deut. 10:14]] · [[1 Nephi 11#^1ne-11-6|1 Ne. 11:6]] · [[D&C 55#^dc-55-1|D&amp;C 55:1]] · [[Moses 6#^moses-6-44|Moses 6:44]] · [[D&C 5#^dc-5-6|D&amp;C 5:6]] · [[Abraham 3#^abr-3-21|≈ Abraham 3:21]]
+> [[Isaiah 51#^isa-51-5|Isa. 51:5]] · [[1 Nephi 22#^1ne-22-4|1 Ne. 22:4]] · [[2 Nephi 10#^2ne-10-8|2 Ne. 10:8 (8, 20)]] · [[D&C 133#^dc-133-8|D&amp;C 133:8]] · [[Deuteronomy 10#^deut-10-14|Deut. 10:14]] · [[1 Nephi 11#^1ne-11-6|1 Ne. 11:6]] · [[D&C 55#^dc-55-1|D&amp;C 55:1]] · [[Moses 6#^moses-6-44|Moses 6:44]] · [[D&C 5#^dc-5-6|D&amp;C 5:6]] · [[D&C 45#^dc-45-40|≈ D&C 45:40]]
 
 ![[2 Nephi 29#^2ne-29-8]]
 > [[Ezekiel 37#^ezek-37-15|Ezek. 37:17 (15–20)]] · [[1 Nephi 13#^1ne-13-38|1 Ne. 13:39 (38–41)]] · [[2 Nephi 3#^2ne-3-12|2 Ne. 3:12]] · [[2 Nephi 33#^2ne-33-10|33:10 (10–11)]] · [[Matthew 18#^matt-18-16|Matt. 18:16]] · [[2 Samuel 7#^2sam-7-23|2 Sam. 7:23]] · [[Alma 9#^alma-9-20|Alma 9:20]] · [[Hosea 1#^hosea-1-11|Hosea 1:11]]

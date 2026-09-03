@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 15
 slug: jer-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -83,7 +83,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Latter Day Saints' Messenger and Advocate 1836-05-01 (Vol. 2 No. 8)** (periodical, 1836-05-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

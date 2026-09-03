@@ -20,10 +20,10 @@ cssclasses:
 > [[Malachi 3#^mal-3-1|Mal. 3:1 (1–18)]] · [[D&C 45#^dc-45-9|D&amp;C 45:9]] · [[Isaiah 59#^isa-59-20|Isa. 59:20 (20–21)]] · [[3 Nephi 20#^3ne-20-22|3 Ne. 20:22]] · [[3 Nephi 21#^3ne-21-25|21:25]] · [[Malachi 3#^mal-3-1|≈ Malachi 3:1]]
 
 ![[3 Nephi 24#^3ne-24-2]]
-> [[3 Nephi 25#^3ne-25-1|3 Ne. 25:1]] · [[Deuteronomy 4#^deut-4-24|Deut. 4:24]] · [[Zechariah 13#^zech-13-9|Zech. 13:9]] · [[D&C 128#^dc-128-24|D&amp;C 128:24]] · [[Malachi 3#^mal-3-2|≈ Malachi 3:2]] · [[D&C 128#^dc-128-24|≈ D&C 128:24]]
+> [[3 Nephi 25#^3ne-25-1|3 Ne. 25:1]] · [[Deuteronomy 4#^deut-4-24|Deut. 4:24]] · [[Zechariah 13#^zech-13-9|Zech. 13:9]] · [[D&C 128#^dc-128-24|D&amp;C 128:24]] · [[D&C 128#^dc-128-24|≈ D&C 128:24]] · [[Malachi 3#^mal-3-2|≈ Malachi 3:2]]
 
 ![[3 Nephi 24#^3ne-24-3]]
-> [[Deuteronomy 10#^deut-10-8|Deut. 10:8]] · [[D&C 84#^dc-84-31|D&amp;C 84:31 (31–34)]] · [[D&C 128#^dc-128-24|128:24]] · [[D&C 13|D&amp;C 13]] · [[Malachi 3#^mal-3-3|≈ Malachi 3:3]] · [[D&C 128#^dc-128-24|≈ D&C 128:24]]
+> [[Deuteronomy 10#^deut-10-8|Deut. 10:8]] · [[D&C 84#^dc-84-31|D&amp;C 84:31 (31–34)]] · [[D&C 128#^dc-128-24|128:24]] · [[D&C 13|D&amp;C 13]] · [[D&C 128#^dc-128-24|≈ D&C 128:24]] · [[Malachi 3#^mal-3-3|≈ Malachi 3:3]]
 
 ![[3 Nephi 24#^3ne-24-4]]
 > [[Malachi 3#^mal-3-4|≈ Malachi 3:4]]

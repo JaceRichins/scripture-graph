@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 24
 slug: prov-24
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Proverbs 20]] — 1 footnote cross-reference (from [[Proverbs 24#^prov-24-6|Proverbs 24:6]])
 - [[Proverbs 11]] — 1 footnote cross-reference (from [[Proverbs 24#^prov-24-6|Proverbs 24:6]])
 - [[Proverbs 6]] — 2 parallel verses, e.g. [[Proverbs 24#^prov-24-34|Proverbs 24:34]] ↔ [[Proverbs 6#^prov-6-11|Proverbs 6:11]]
+- [[Proverbs 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

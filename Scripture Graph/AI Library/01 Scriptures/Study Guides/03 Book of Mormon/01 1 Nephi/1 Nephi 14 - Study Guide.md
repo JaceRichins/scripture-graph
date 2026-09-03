@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 14
 slug: 1ne-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -67,13 +67,13 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Kingdom of God]]
-- [[Satan and Temptation]]
-- [[Apostles]]
-- [[Covenants]]
-- [[Jews and Gentiles]]
 - [[Records and Sacred Writings]]
 - [[War and Peace]]
 - [[Jesus Christ (Gospel Topic)]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
+- [[Gathering of Israel]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

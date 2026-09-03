@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 2
 slug: 1cor-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,16 +49,17 @@ _Not yet developed._
 - [[1 Thessalonians 1]] — 1 footnote cross-reference (from [[1 Corinthians 2#^1cor-2-4|1 Corinthians 2:4]])
 - [[2 Nephi 28]] — 1 footnote cross-reference (from [[1 Corinthians 2#^1cor-2-4|1 Corinthians 2:4]])
 - [[2 Corinthians 4]] — 1 footnote cross-reference (from [[1 Corinthians 2#^1cor-2-5|1 Corinthians 2:5]])
-- [[Romans 11]] — 0 parallel verses
+- [[Romans 11]] — 1 parallel verse, e.g. [[1 Corinthians 2#^1cor-2-16|1 Corinthians 2:16]] ↔ [[Romans 11#^rom-11-34|Romans 11:34]]
 - [[Isaiah 40]] — 0 parallel verses
 - [[1 Corinthians 1]] — 0 parallel verses
+- [[3 Nephi 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Crucifixion of Jesus Christ]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

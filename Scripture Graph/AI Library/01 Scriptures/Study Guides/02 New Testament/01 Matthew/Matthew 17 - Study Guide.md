@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 17
 slug: matt-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,8 +56,8 @@ _Not yet developed._
 - [[Matthew 3]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[Matthew 3#^matt-3-17|Matthew 3:17]]
 - [[2 Peter 1]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[2 Peter 1#^2pet-1-17|2 Peter 1:17]]
 - [[Matthew 20]] — 2 parallel verses, e.g. [[Matthew 17#^matt-17-22|Matthew 17:22]] ↔ [[Matthew 20#^matt-20-18|Matthew 20:18]]
-- [[Mark 1]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[Mark 1#^mark-1-11|Mark 1:11]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[3 Nephi 11#^3ne-11-7|3 Nephi 11:7]]
+- [[Mark 1]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[Mark 1#^mark-1-11|Mark 1:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

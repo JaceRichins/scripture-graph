@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 64
 slug: isa-64
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Exodus 34]] — 1 footnote cross-reference (from [[Isaiah 64#^isa-64-3|Isaiah 64:3]])
 - [[Micah 1]] — 1 footnote cross-reference (from [[Isaiah 64#^isa-64-3|Isaiah 64:3]])
 - [[D&C 133]] — 3 parallel verses, e.g. [[Isaiah 64#^isa-64-4|Isaiah 64:4]] ↔ [[D&C 133#^dc-133-45|D&C 133:45]]
+- [[Jeremiah 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 35
 slug: dc-35
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,18 +49,24 @@ This outline describes shifts in subject matter; it does not imply a formally ma
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 38]] — 4 footnote cross-references (from [[D&C 35#^dc-35-1|D&C 35:1]])
+- [[D&C 45]] — 4 footnote cross-references (from [[D&C 35#^dc-35-2|D&C 35:2]])
+- [[D&C 39]] — 3 footnote cross-references (from [[D&C 35#^dc-35-1|D&C 35:1]])
+- [[D&C 84]] — 3 footnote cross-references (from [[D&C 35#^dc-35-4|D&C 35:4]])
+- [[D&C 128]] — 3 footnote cross-references (from [[D&C 35#^dc-35-4|D&C 35:4]])
+- [[D&C 1]] — 3 footnote cross-references (from [[D&C 35#^dc-35-13|D&C 35:13]])
 - [[D&C 88]] — 2 parallel verses, e.g. [[D&C 35#^dc-35-11|D&C 35:11]] ↔ [[D&C 88#^dc-88-94|D&C 88:94]]
+- [[Revelation 14]] — 2 parallel verses, e.g. [[D&C 35#^dc-35-11|D&C 35:11]] ↔ [[Revelation 14#^rev-14-8|Revelation 14:8]]
 - [[D&C 54]] — 2 parallel verses, e.g. [[D&C 35#^dc-35-2|D&C 35:2]] ↔ [[D&C 54#^dc-54-1|D&C 54:1]]
 - [[D&C 39]] — 2 parallel verses, e.g. [[D&C 35#^dc-35-12|D&C 35:12]] ↔ [[D&C 39#^dc-39-11|D&C 39:11]]
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[D&C 35#^dc-35-9|D&C 35:9]] ↔ [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]]
 - [[3 Nephi 9]] — 2 parallel verses, e.g. [[D&C 35#^dc-35-2|D&C 35:2]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[4 Nephi 1]] — 1 parallel verse, e.g. [[D&C 35#^dc-35-9|D&C 35:9]] ↔ [[4 Nephi 1#^4ne-1-5|4 Nephi 1:5]]
+- [[D&C 45]] — 2 parallel verses, e.g. [[D&C 35#^dc-35-1|D&C 35:1]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[D&C 49]] — 1 parallel verse, e.g. [[D&C 35#^dc-35-6|D&C 35:6]] ↔ [[D&C 49#^dc-49-14|D&C 49:14]]
 - [[D&C 68]] — 1 parallel verse, e.g. [[D&C 35#^dc-35-6|D&C 35:6]] ↔ [[D&C 68#^dc-68-25|D&C 68:25]]
 - [[Moses 7]] — 1 parallel verse, e.g. [[D&C 35#^dc-35-15|D&C 35:15]] ↔ [[Moses 7#^moses-7-62|Moses 7:62]]
 - [[D&C 33]] — 2 parallel verses, e.g. [[D&C 35#^dc-35-1|D&C 35:1]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
-- [[3 Nephi 19]] — 2 parallel verses, e.g. [[D&C 35#^dc-35-2|D&C 35:2]] ↔ [[3 Nephi 19#^3ne-19-23|3 Nephi 19:23]]
-- [[D&C 20]] — 2 parallel verses, e.g. [[D&C 35#^dc-35-6|D&C 35:6]] ↔ [[D&C 20#^dc-20-43|D&C 20:43]]
-- [[D&C 53]] — 1 parallel verse, e.g. [[D&C 35#^dc-35-2|D&C 35:2]] ↔ [[D&C 53#^dc-53-2|D&C 53:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,7 +97,7 @@ The chapter associates believing in Christ with becoming sons of God and enterin
 - [[Faith to Act and Become (Elder Ciro Schmeil, October 2021)|Faith to Act and Become]] — Elder Ciro Schmeil, 2021-October *(explicit citation)*
 - [[Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)|Adorned with the Virtue of Temperance]] — Elder Ulisses Soares, 2025-October *(explicit citation)*
 - [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
-- [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -99,13 +105,13 @@ The chapter associates believing in Christ with becoming sons of God and enterin
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **‘Go to the Ohio’** (history) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **10 Gathered In** (history) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
-- **Laying On of Hands** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

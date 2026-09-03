@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 4
 slug: abr-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Abraham 4]] · My notes: [[Abraham 4 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Gods plan the creation of the earth and all life thereon—Their plans for the six days of creation are set forth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 1]] — 13 footnote cross-references (from [[Abraham 4#^abr-4-1|Abraham 4:1]])
+- [[Moses 2]] — 6 footnote cross-references (from [[Abraham 4#^abr-4-1|Abraham 4:1]])
+- [[D&C 88]] — 2 footnote cross-references (from [[Abraham 4#^abr-4-14|Abraham 4:14]])
+- [[Proverbs 3]] — 1 footnote cross-reference (from [[Abraham 4#^abr-4-1|Abraham 4:1]])
+- [[Moses 1]] — 1 footnote cross-reference (from [[Abraham 4#^abr-4-1|Abraham 4:1]])
+- [[Amos 9]] — 1 footnote cross-reference (from [[Abraham 4#^abr-4-9|Abraham 4:9]])
 - [[Genesis 1]] — 32 parallel verses, e.g. [[Abraham 4#^abr-4-26|Abraham 4:26]] ↔ [[Genesis 1#^gen-1-26|Genesis 1:26]]
 - [[Moses 2]] — 28 parallel verses, e.g. [[Abraham 4#^abr-4-28|Abraham 4:28]] ↔ [[Moses 2#^moses-2-28|Moses 2:28]]
 - [[Genesis 7]] — 6 parallel verses, e.g. [[Abraham 4#^abr-4-25|Abraham 4:25]] ↔ [[Genesis 7#^gen-7-14|Genesis 7:14]]
@@ -46,6 +53,7 @@ _Not yet developed._
 - [[Leviticus 11]] — 2 parallel verses, e.g. [[Abraham 4#^abr-4-26|Abraham 4:26]] ↔ [[Leviticus 11#^lev-11-41|Leviticus 11:41]]
 - [[Genesis 2]] — 1 parallel verse, e.g. [[Abraham 4#^abr-4-30|Abraham 4:30]] ↔ [[Genesis 2#^gen-2-20|Genesis 2:20]]
 - [[Moses 3]] — 1 parallel verse, e.g. [[Abraham 4#^abr-4-30|Abraham 4:30]] ↔ [[Moses 3#^moses-3-20|Moses 3:20]]
+- [[Moses 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,6 +80,7 @@ _Not yet developed._
 - **Religion and Science** (reference-entry) *(explicit citation)*
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
+- **37 We Will Prove Them** (history) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

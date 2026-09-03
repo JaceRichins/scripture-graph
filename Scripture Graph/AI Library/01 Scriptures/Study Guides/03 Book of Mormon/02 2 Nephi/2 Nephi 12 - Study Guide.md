@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 12
 slug: 2ne-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,8 +48,9 @@ Scripture: [[2 Nephi 12]] · My notes: [[2 Nephi 12 - My Notes]]
 - [[Genesis 49]] — 1 footnote cross-reference (from [[2 Nephi 12#^2ne-12-2|2 Nephi 12:2]])
 - [[D&C 49]] — 1 footnote cross-reference (from [[2 Nephi 12#^2ne-12-2|2 Nephi 12:2]])
 - [[D&C 109]] — 1 footnote cross-reference (from [[2 Nephi 12#^2ne-12-2|2 Nephi 12:2]])
-- [[Isaiah 2]] — 0 parallel verses
-- [[Micah 4]] — 0 parallel verses
+- [[Isaiah 2]] — 26 parallel verses, e.g. [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]] ↔ [[Isaiah 2#^isa-2-3|Isaiah 2:3]]
+- [[Micah 4]] — 3 parallel verses, e.g. [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]] ↔ [[Micah 4#^micah-4-2|Micah 4:2]]
+- [[Isaiah 31]] — 1 parallel verse, e.g. [[2 Nephi 12#^2ne-12-20|2 Nephi 12:20]] ↔ [[Isaiah 31#^isa-31-7|Isaiah 31:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +68,9 @@ The chapter contrasts human [[Pride]] with the exaltation of God alone, teaching
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
+- [[Now Is the Time to Arise and Shine! (Elaine S. Dalton, April 2012)|Now Is the Time to Arise and Shine!]] — Elaine S. Dalton, 2012-April *(explicit citation)*
+- [[The Spirit of Revelation (Elder David A. Bednar, April 2011)|The Spirit of Revelation]] — Elder David A. Bednar, 2011-April *(explicit citation)*
+- [[Personal Revelation and Testimony (Barbara Thompson, October 2011)|Personal Revelation and Testimony]] — Barbara Thompson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 5
 slug: judg-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Helaman 12]] — 1 footnote cross-reference (from [[Judges 5#^judg-5-5|Judges 5:5]])
 - [[3 Nephi 22]] — 1 footnote cross-reference (from [[Judges 5#^judg-5-5|Judges 5:5]])
 - [[D&C 109]] — 1 footnote cross-reference (from [[Judges 5#^judg-5-5|Judges 5:5]])
+- [[Judges 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,7 +66,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Amalek, Amalekites** (reference-entry) *(explicit citation)*
+- **Armageddon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

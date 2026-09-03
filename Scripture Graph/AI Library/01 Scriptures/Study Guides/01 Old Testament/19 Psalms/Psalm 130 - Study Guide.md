@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 130
 slug: ps-130
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
+- [[Redemption (Elder LeGrand R. Curtis Jr., October 2011)|Redemption]] — Elder LeGrand R. Curtis Jr., 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

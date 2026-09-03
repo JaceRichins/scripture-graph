@@ -72,7 +72,7 @@ cssclasses:
 > [[2 Nephi 1#^2ne-1-25|2 Ne. 1:25 (25–27)]]
 
 ![[2 Nephi 5#^2ne-5-20]]
-> [[1 Nephi 8#^1ne-8-18|1 Ne. 8:18]] · [[1 Nephi 8#^1ne-8-35|1 Ne. 8:35 (35–36)]] · [[1 Nephi 2#^1ne-2-21|1 Ne. 2:21]] · [[Alma 9#^alma-9-13|Alma 9:14 (13–15)]] · [[Alma 38#^alma-38-1|38:1]] · [[2 Nephi 9#^2ne-9-6|≈ 2 Nephi 9:6]] · [[Mosiah 2#^mosiah-2-38|≈ Mosiah 2:38]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 9#^alma-9-14|≈ Alma 9:14]] · [[Alma 42#^alma-42-9|≈ Alma 42:9]]
+> [[1 Nephi 8#^1ne-8-18|1 Ne. 8:18]] · [[1 Nephi 8#^1ne-8-35|1 Ne. 8:35 (35–36)]] · [[1 Nephi 2#^1ne-2-21|1 Ne. 2:21]] · [[Alma 9#^alma-9-13|Alma 9:14 (13–15)]] · [[Alma 38#^alma-38-1|38:1]] · [[Alma 42#^alma-42-9|≈ Alma 42:9]] · [[Alma 42#^alma-42-11|≈ Alma 42:11]] · [[Alma 42#^alma-42-7|≈ Alma 42:7]] · [[2 Nephi 9#^2ne-9-6|≈ 2 Nephi 9:6]] · [[Mosiah 2#^mosiah-2-38|≈ Mosiah 2:38]]
 
 ![[2 Nephi 5#^2ne-5-21]]
 > [[Genesis 24#^gen-24-16|Gen. 24:16]] · [[1 Nephi 13#^1ne-13-15|1 Ne. 13:15]] · [[4 Nephi 1#^4ne-1-10|4 Ne. 1:10]] · [[Mormon 9#^morm-9-6|Morm. 9:6]] · [[2 Nephi 30#^2ne-30-6|2 Ne. 30:6]] · [[3 Nephi 2#^3ne-2-14|3 Ne. 2:15 (14–16)]] · [[2 Nephi 26#^2ne-26-33|2 Ne. 26:33]] · [[Moses 7#^moses-7-8|Moses 7:8]]

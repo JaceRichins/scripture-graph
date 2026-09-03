@@ -35,7 +35,7 @@ cssclasses:
 > [[1 Nephi 10#^1ne-10-14|1 Ne. 10:14]] · [[Jacob 5#^jacob-5-54|Jacob 5:54]] · [[3 Nephi 16#^3ne-16-4|3 Ne. 16:4 (4–7)]] · [[Mormon 5#^morm-5-15|Morm. 5:15]] · [[Galatians 3#^gal-3-7|Gal. 3:7 (7, 29)]] · [[2 Nephi 30#^2ne-30-3|2 Ne. 30:3]] · [[3 Nephi 16#^3ne-16-13|3 Ne. 16:13]] · [[Abraham 2#^abr-2-9|Abr. 2:10 (9–11)]] · [[3 Nephi 27#^3ne-27-20|≈ 3 Nephi 27:20]] · [[3 Nephi 30#^3ne-30-2|≈ 3 Nephi 30:2]]
 
 ![[3 Nephi 21#^3ne-21-7]]
-> [[3 Nephi 5#^3ne-5-21|3 Ne. 5:23 (21–26)]] · [[3 Nephi 30#^3ne-30-2|≈ 3 Nephi 30:2]] · [[Ether 4#^ether-4-17|≈ Ether 4:17]] · [[3 Nephi 29#^3ne-29-9|≈ 3 Nephi 29:9]] · [[D&C 42#^dc-42-39|≈ D&C 42:39]] · [[3 Nephi 20#^3ne-20-22|≈ 3 Nephi 20:22]] · [[1 Nephi 14#^1ne-14-17|≈ 1 Nephi 14:17]]
+> [[3 Nephi 5#^3ne-5-21|3 Ne. 5:23 (21–26)]] · [[3 Nephi 30#^3ne-30-2|≈ 3 Nephi 30:2]] · [[Ether 4#^ether-4-17|≈ Ether 4:17]] · [[3 Nephi 29#^3ne-29-9|≈ 3 Nephi 29:9]] · [[D&C 42#^dc-42-39|≈ D&C 42:39]] · [[3 Nephi 16#^3ne-16-8|≈ 3 Nephi 16:8]] · [[3 Nephi 16#^3ne-16-9|≈ 3 Nephi 16:9]]
 
 ![[3 Nephi 21#^3ne-21-8]]
 > [[3 Nephi 20#^3ne-20-45|3 Ne. 20:45]] · [[Isaiah 52#^isa-52-15|≈ Isaiah 52:15]] · [[3 Nephi 20#^3ne-20-45|≈ 3 Nephi 20:45]]
@@ -74,7 +74,7 @@ cssclasses:
 > [[3 Nephi 30#^3ne-30-2|3 Ne. 30:2]] · [[D&C 109#^dc-109-30|D&amp;C 109:30]] · [[Alma 16#^alma-16-18|≈ Alma 16:18]]
 
 ![[3 Nephi 21#^3ne-21-20]]
-> [[Amos 5#^amos-5-18|Amos 5:18]] · [[Alma 29#^alma-29-2|Alma 29:2]] · [[Mormon 9#^morm-9-27|Morm. 9:27]] · [[Jeremiah 44#^jer-44-6|Jer. 44:8 (6–8)]] · [[3 Nephi 20#^3ne-20-20|≈ 3 Nephi 20:20]] · [[3 Nephi 16#^3ne-16-13|≈ 3 Nephi 16:13]]
+> [[Amos 5#^amos-5-18|Amos 5:18]] · [[Alma 29#^alma-29-2|Alma 29:2]] · [[Mormon 9#^morm-9-27|Morm. 9:27]] · [[Jeremiah 44#^jer-44-6|Jer. 44:8 (6–8)]] · [[3 Nephi 16#^3ne-16-13|≈ 3 Nephi 16:13]] · [[3 Nephi 20#^3ne-20-20|≈ 3 Nephi 20:20]]
 
 ![[3 Nephi 21#^3ne-21-21]]
 > [[Isaiah 34#^isa-34-8|Isa. 34:8]] · [[Isaiah 61#^isa-61-2|61:2]] · [[Jeremiah 23#^jer-23-19|Jer. 23:19 (19–20)]] · [[Malachi 4#^mal-4-1|Mal. 4:1 (1, 3)]] · [[D&C 97#^dc-97-25|D&amp;C 97:26 (25–28)]] · [[Ezekiel 21#^ezek-21-14|Ezek. 21:17 (14–17)]] · [[Micah 5#^micah-5-15|≈ Micah 5:15]]

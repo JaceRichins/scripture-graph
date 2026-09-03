@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 35
 slug: num-35
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

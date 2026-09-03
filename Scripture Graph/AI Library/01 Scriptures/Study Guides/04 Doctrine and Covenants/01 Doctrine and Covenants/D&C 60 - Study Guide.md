@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 60
 slug: dc-60
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,9 +45,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 25]] — 3 footnote cross-references (from [[D&C 60#^dc-60-2|D&C 60:2]])
+- [[D&C 51]] — 2 footnote cross-references (from [[D&C 60#^dc-60-9|D&C 60:9]])
+- [[Exodus 4]] — 1 footnote cross-reference (from [[D&C 60#^dc-60-2|D&C 60:2]])
+- [[Jeremiah 1]] — 1 footnote cross-reference (from [[D&C 60#^dc-60-2|D&C 60:2]])
+- [[Luke 8]] — 1 footnote cross-reference (from [[D&C 60#^dc-60-2|D&C 60:2]])
+- [[Ephesians 6]] — 1 footnote cross-reference (from [[D&C 60#^dc-60-2|D&C 60:2]])
+- [[D&C 61]] — 4 parallel verses, e.g. [[D&C 60#^dc-60-6|D&C 60:6]] ↔ [[D&C 61#^dc-61-23|D&C 61:23]]
 - [[D&C 62]] — 1 parallel verse, e.g. [[D&C 60#^dc-60-5|D&C 60:5]] ↔ [[D&C 62#^dc-62-5|D&C 62:5]]
 - [[2 Nephi 28]] — 1 parallel verse, e.g. [[D&C 60#^dc-60-3|D&C 60:3]] ↔ [[2 Nephi 28#^2ne-28-30|2 Nephi 28:30]]
-- [[D&C 61]] — 0 parallel verses
 - [[Malachi 3]] — 0 parallel verses
 - [[1 Timothy 2]] — 0 parallel verses
 - [[D&C 61]] — 0 parallel verses
@@ -69,6 +75,7 @@ Verses 2–3 tie [[Missionary Work]] to personal stewardship: hiding one's commi
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Personal Preparation to Meet the Savior (Elder Dale G. Renlund, April 2025)|Personal Preparation to Meet the Savior]] — Elder Dale G. Renlund, 2025-April *(explicit citation)*
 - [[Do Your Part with All Your Heart (Elder Dieter F. Uchtdorf, October 2025)|Do Your Part with All Your Heart]] — Elder Dieter F. Uchtdorf, 2025-October *(explicit citation)*
+- [[Waiting on the Road to Damascus (President Dieter F. Uchtdorf, April 2011)|Waiting on the Road to Damascus]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -17,7 +17,7 @@ cssclasses:
 > Praise the Lord for His mercy and mighty works—Israel rebelled and did wickedly—Moses mediated between Israel and the Lord—Israel was scattered and slain for worshipping false gods.
 
 ![[Psalm 106#^ps-106-1]]
-> [[Psalm 119#^ps-119-68|Ps. 119:68]] · [[Psalm 107#^ps-107-1|≈ Psalm 107:1]] · [[Psalm 118#^ps-118-29|≈ Psalm 118:29]] · [[Psalm 118#^ps-118-1|≈ Psalm 118:1]] · [[Psalm 136#^ps-136-1|≈ Psalm 136:1]] · [[1 Chronicles 16#^1chr-16-34|≈ 1 Chronicles 16:34]] · [[2 Chronicles 5#^2chr-5-13|≈ 2 Chronicles 5:13]]
+> [[Psalm 119#^ps-119-68|Ps. 119:68]] · [[Psalm 107#^ps-107-1|≈ Psalm 107:1]] · [[Psalm 136#^ps-136-1|≈ Psalm 136:1]] · [[Psalm 118#^ps-118-29|≈ Psalm 118:29]] · [[Psalm 118#^ps-118-1|≈ Psalm 118:1]] · [[1 Chronicles 16#^1chr-16-34|≈ 1 Chronicles 16:34]] · [[2 Chronicles 5#^2chr-5-13|≈ 2 Chronicles 5:13]]
 
 ![[Psalm 106#^ps-106-2]]
 > [[Jacob 4#^jacob-4-8|Jacob 4:8]]

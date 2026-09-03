@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 19
 slug: josh-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,7 +60,7 @@ Joshua 19 completes the tribal allotment sequence begun in [[Joshua 18]]. Six tr
 - [[Joshua 14]] — 1 parallel verse, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Joshua 14#^josh-14-1|Joshua 14:1]]
 - [[Joshua 13]] — 4 parallel verses, e.g. [[Joshua 19#^josh-19-23|Joshua 19:23]] ↔ [[Joshua 13#^josh-13-28|Joshua 13:28]]
 - [[Numbers 32]] — 1 parallel verse, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Numbers 32#^num-32-28|Numbers 32:28]]
-- [[Joshua 4]] — 2 parallel verses, e.g. [[Joshua 19#^josh-19-51|Joshua 19:51]] ↔ [[Joshua 4#^josh-4-5|Joshua 4:5]]
+- [[Judges 18]] — 2 parallel verses, e.g. [[Joshua 19#^josh-19-47|Joshua 19:47]] ↔ [[Judges 18#^judg-18-29|Judges 18:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,7 +83,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Asher** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

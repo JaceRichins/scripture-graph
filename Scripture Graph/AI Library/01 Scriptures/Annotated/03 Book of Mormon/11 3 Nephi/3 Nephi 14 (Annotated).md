@@ -20,7 +20,7 @@ cssclasses:
 > [[Matthew 7#^matt-7-1|Matt. 7:1 (1–27)]] · [[Matthew 7#^matt-7-1|JST Matt. 7:1–2 (Matt. 7:1 note a)]] · [[Matthew 7#^matt-7-1|≈ Matthew 7:1]] · [[3 Nephi 15#^3ne-15-11|≈ 3 Nephi 15:11]] · [[3 Nephi 17#^3ne-17-1|≈ 3 Nephi 17:1]] · [[3 Nephi 18#^3ne-18-26|≈ 3 Nephi 18:26]] · [[3 Nephi 18#^3ne-18-17|≈ 3 Nephi 18:17]] · [[3 Nephi 28#^3ne-28-12|≈ 3 Nephi 28:12]]
 
 ![[3 Nephi 14#^3ne-14-2]]
-> [[Mormon 8#^morm-8-19|Morm. 8:19]] · [[Matthew 7#^matt-7-2|≈ Matthew 7:2]] · [[Mark 4#^mark-4-24|≈ Mark 4:24]] · [[Luke 6#^luke-6-38|≈ Luke 6:38]]
+> [[Mormon 8#^morm-8-19|Morm. 8:19]] · [[Matthew 7#^matt-7-2|≈ Matthew 7:2]] · [[Luke 6#^luke-6-38|≈ Luke 6:38]] · [[Mark 4#^mark-4-24|≈ Mark 4:24]]
 
 ![[3 Nephi 14#^3ne-14-3]]
 > [[Matthew 7#^matt-7-3|≈ Matthew 7:3]] · [[Luke 6#^luke-6-41|≈ Luke 6:41]] · [[Luke 6#^luke-6-42|≈ Luke 6:42]]
@@ -71,7 +71,7 @@ cssclasses:
 > [[Matthew 7#^matt-7-18|≈ Matthew 7:18]] · [[Luke 6#^luke-6-43|≈ Luke 6:43]]
 
 ![[3 Nephi 14#^3ne-14-19]]
-> [[Matthew 3#^matt-3-10|Matt. 3:10]] · [[Alma 5#^alma-5-36|Alma 5:36 (36–41)]] · [[D&C 97#^dc-97-7|D&amp;C 97:7]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]]
+> [[Matthew 3#^matt-3-10|Matt. 3:10]] · [[Alma 5#^alma-5-36|Alma 5:36 (36–41)]] · [[D&C 97#^dc-97-7|D&amp;C 97:7]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Alma 5#^alma-5-52|≈ Alma 5:52]] · [[Alma 5#^alma-5-35|≈ Alma 5:35]] · [[Alma 5#^alma-5-56|≈ Alma 5:56]] · [[3 Nephi 27#^3ne-27-11|≈ 3 Nephi 27:11]] · [[3 Nephi 27#^3ne-27-17|≈ 3 Nephi 27:17]]
 
 ![[3 Nephi 14#^3ne-14-20]]
 > [[Matthew 7#^matt-7-16|Matt. 7:17 (16–20)]] · [[Matthew 12#^matt-12-33|12:33]] · [[Luke 6#^luke-6-43|Luke 6:43 (43–45)]] · [[Moroni 7#^moro-7-5|Moro. 7:5]] · [[Matthew 7#^matt-7-20|≈ Matthew 7:20]]

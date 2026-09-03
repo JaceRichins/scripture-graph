@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 26
 slug: 3ne-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,8 +51,10 @@ _Not yet developed._
 - [[Ether 4]] — 2 footnote cross-references (from [[3 Nephi 26#^3ne-26-9|3 Nephi 26:9]])
 - [[Ether 12]] — 2 footnote cross-references (from [[3 Nephi 26#^3ne-26-11|3 Nephi 26:11]])
 - [[Mosiah 16]] — 2 parallel verses, e.g. [[3 Nephi 26#^3ne-26-5|3 Nephi 26:5]] ↔ [[Mosiah 16#^mosiah-16-11|Mosiah 16:11]]
+- [[4 Nephi 1]] — 3 parallel verses, e.g. [[3 Nephi 26#^3ne-26-17|3 Nephi 26:17]] ↔ [[4 Nephi 1#^4ne-1-1|4 Nephi 1:1]]
 - [[3 Nephi 27]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]] ↔ [[3 Nephi 27#^3ne-27-14|3 Nephi 27:14]]
 - [[1 Nephi 22]] — 3 parallel verses, e.g. [[3 Nephi 26#^3ne-26-10|3 Nephi 26:10]] ↔ [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]]
+- [[3 Nephi 28]] — 2 parallel verses, e.g. [[3 Nephi 26#^3ne-26-12|3 Nephi 26:12]] ↔ [[3 Nephi 28#^3ne-28-24|3 Nephi 28:24]]
 - [[Alma 11]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]] ↔ [[Alma 11#^alma-11-44|Alma 11:44]]
 - [[Mosiah 3]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]] ↔ [[Mosiah 3#^mosiah-3-24|Mosiah 3:24]]
 - [[2 Nephi 1]] — 2 parallel verses, e.g. [[3 Nephi 26#^3ne-26-10|3 Nephi 26:10]] ↔ [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]]
@@ -60,15 +62,13 @@ _Not yet developed._
 - [[1 Nephi 3]] — 2 parallel verses, e.g. [[3 Nephi 26#^3ne-26-11|3 Nephi 26:11]] ↔ [[1 Nephi 3#^1ne-3-12|1 Nephi 3:12]]
 - [[Genesis 19]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-16|3 Nephi 26:16]] ↔ [[Genesis 19#^gen-19-34|Genesis 19:34]]
 - [[Judges 9]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-16|3 Nephi 26:16]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
-- [[Judges 21]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-16|3 Nephi 26:16]] ↔ [[Judges 21#^judg-21-4|Judges 21:4]]
-- [[1 Samuel 18]] — 1 parallel verse, e.g. [[3 Nephi 26#^3ne-26-16|3 Nephi 26:16]] ↔ [[1 Samuel 18#^1sam-18-10|1 Samuel 18:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Records and Sacred Writings]]
 - [[3 Nephi 27]]
 - [[Final Judgment]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Gift of Tongues]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 136
 slug: ps-136
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,13 +45,14 @@ _Not yet developed._
 - [[Deuteronomy 4]] — 1 footnote cross-reference (from [[Psalm 136#^ps-136-12|Psalm 136:12]])
 - [[Helaman 8]] — 1 footnote cross-reference (from [[Psalm 136#^ps-136-15|Psalm 136:15]])
 - [[Psalm 118]] — 2 parallel verses, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[Psalm 118#^ps-118-29|Psalm 118:29]]
-- [[1 Chronicles 16]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
 - [[Psalm 106]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[Psalm 106#^ps-106-1|Psalm 106:1]]
+- [[1 Chronicles 16]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
 - [[Psalm 107]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[Psalm 107#^ps-107-1|Psalm 107:1]]
 - [[Jeremiah 32]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-12|Psalm 136:12]] ↔ [[Jeremiah 32#^jer-32-21|Jeremiah 32:21]]
 - [[Ezekiel 20]] — 2 parallel verses, e.g. [[Psalm 136#^ps-136-12|Psalm 136:12]] ↔ [[Ezekiel 20#^ezek-20-33|Ezekiel 20:33]]
 - [[2 Chronicles 5]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
 - [[2 Chronicles 7]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[2 Chronicles 7#^2chr-7-3|2 Chronicles 7:3]]
+- [[2 Chronicles 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -87,7 +88,9 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Evidence *(tentative)*
+> The Hebrew word chesed, translated 'mercy' in the King James Version, appears in all 26 verses of Psalm 136; President Nelson referenced this in a leadership-session address, connecting chesed to the purpose of building and renovating temples.
+> — confidence high · secondary-claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -99,3 +102,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

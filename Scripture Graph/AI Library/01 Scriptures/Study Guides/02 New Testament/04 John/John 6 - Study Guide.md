@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 6
 slug: john-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,8 @@ _Not yet developed._
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1835-05-01 (Vol. 1 No. 8)** (periodical, 1835-05-01) *(explicit citation)*
+- **Ascension** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

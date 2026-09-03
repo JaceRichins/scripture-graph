@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 3
 slug: acts-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,8 @@ _Not yet developed._
 - [[1 Nephi 15]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-25|Acts 3:25]] ↔ [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]]
 - [[D&C 136]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-13|Acts 3:13]] ↔ [[D&C 136#^dc-136-21|D&C 136:21]]
 - [[1 Nephi 19]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-13|Acts 3:13]] ↔ [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]]
+- [[Acts 7]] — 0 parallel verses
+- [[Acts 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,6 +77,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Power of Ministering to the One (Elder Peter M. Johnson, October 2025)|The Power of Ministering to the One]] — Elder Peter M. Johnson, 2025-October *(explicit citation)*
 - [[Christ Heals That Which Is Broken (Amy A. Wright, April 2022)|Christ Heals That Which Is Broken]] — Amy A. Wright, 2022-April *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
 - [[Essential Truths—Our Need to Act (Elder Adilson de Paula Parrella, October 2017)|Essential Truths—Our Need to Act]] — Elder Adilson de Paula Parrella, 2017-October *(explicit citation)*
 - [[Ministering as the Savior Does (Jean B. Bingham, April 2018)|Ministering as the Savior Does]] — Jean B. Bingham, 2018-April *(explicit citation)*
@@ -82,7 +85,6 @@ _Not yet developed._
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
 - [[Closing Remarks (President Russell M. Nelson, October 2019)|Closing Remarks]] — President Russell M. Nelson, 2019-October *(explicit citation)*
 - [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
-- [[Fulfillment of Prophecy (Elder Ronald A. Rasband, April 2020)|Fulfillment of Prophecy]] — Elder Ronald A. Rasband, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -96,6 +98,7 @@ _Not yet developed._
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

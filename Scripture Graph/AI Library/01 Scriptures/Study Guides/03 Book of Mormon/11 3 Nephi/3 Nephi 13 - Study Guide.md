@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 13
 slug: 3ne-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,9 @@ _Not yet developed._
 - [[2 Kings 4]] — 1 footnote cross-reference (from [[3 Nephi 13#^3ne-13-6|3 Nephi 13:6]])
 - [[Ezekiel 36]] — 1 footnote cross-reference (from [[3 Nephi 13#^3ne-13-8|3 Nephi 13:8]])
 - [[Mosiah 26]] — 1 footnote cross-reference (from [[3 Nephi 13#^3ne-13-14|3 Nephi 13:14]])
+- [[Matthew 6]] — 43 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[Matthew 6#^matt-6-25|Matthew 6:25]]
+- [[Luke 12]] — 6 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[Luke 12#^luke-12-22|Luke 12:22]]
+- [[Luke 16]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-24|3 Nephi 13:24]] ↔ [[Luke 16#^luke-16-13|Luke 16:13]]
 - [[D&C 84]] — 3 parallel verses, e.g. [[3 Nephi 13#^3ne-13-28|3 Nephi 13:28]] ↔ [[D&C 84#^dc-84-82|D&C 84:82]]
 - [[3 Nephi 18]] — 2 parallel verses, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]]
 - [[Luke 11]] — 3 parallel verses, e.g. [[3 Nephi 13#^3ne-13-12|3 Nephi 13:12]] ↔ [[Luke 11#^luke-11-4|Luke 11:4]]
@@ -57,16 +60,13 @@ _Not yet developed._
 - [[3 Nephi 14]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]]
 - [[3 Nephi 28]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
-- [[3 Nephi 11]] — 1 parallel verse, e.g. [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]] ↔ [[3 Nephi 11#^3ne-11-12|3 Nephi 11:12]]
-- [[Matthew 6]] — 0 parallel verses
-- [[Luke 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Repentance and Forgiveness]]
 - [[Sermon at the Temple (3 Nephi)]]
 - [[Kingdom of God]]
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Prayer]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

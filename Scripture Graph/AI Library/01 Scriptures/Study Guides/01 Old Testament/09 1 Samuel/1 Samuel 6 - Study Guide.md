@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 6
 slug: 1sam-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

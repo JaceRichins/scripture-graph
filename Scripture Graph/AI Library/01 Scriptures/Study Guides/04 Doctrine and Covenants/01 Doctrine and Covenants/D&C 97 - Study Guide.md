@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 97
 slug: dc-97
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -37,18 +37,24 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 4 footnote cross-references (from [[D&C 97#^dc-97-3|D&C 97:3]])
+- [[D&C 52]] — 3 footnote cross-references (from [[D&C 97#^dc-97-3|D&C 97:3]])
+- [[D&C 84]] — 3 footnote cross-references (from [[D&C 97#^dc-97-10|D&C 97:10]])
+- [[D&C 64]] — 2 footnote cross-references (from [[D&C 97#^dc-97-1|D&C 97:1]])
+- [[Matthew 5]] — 2 footnote cross-references (from [[D&C 97#^dc-97-2|D&C 97:2]])
+- [[D&C 109]] — 2 footnote cross-references (from [[D&C 97#^dc-97-3|D&C 97:3]])
 - [[Alma 5]] — 3 parallel verses, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[Alma 5#^alma-5-52|Alma 5:52]]
+- [[D&C 124]] — 4 parallel verses, e.g. [[D&C 97#^dc-97-5|D&C 97:5]] ↔ [[D&C 124#^dc-124-13|D&C 124:13]]
+- [[Jacob 5]] — 3 parallel verses, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[Jacob 5#^jacob-5-42|Jacob 5:42]]
 - [[D&C 45]] — 3 parallel verses, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[D&C 45#^dc-45-50|D&C 45:50]]
+- [[Matthew 7]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[Matthew 7#^matt-7-19|Matthew 7:19]]
 - [[3 Nephi 14]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
+- [[Matthew 3]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[Matthew 3#^matt-3-10|Matthew 3:10]]
+- [[Luke 3]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-7|D&C 97:7]] ↔ [[Luke 3#^luke-3-9|Luke 3:9]]
 - [[D&C 66]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-10|D&C 97:10]] ↔ [[D&C 66#^dc-66-5|D&C 66:5]]
 - [[D&C 75]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-10|D&C 97:10]] ↔ [[D&C 75#^dc-75-3|D&C 75:3]]
 - [[D&C 79]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-10|D&C 97:10]] ↔ [[D&C 79#^dc-79-1|D&C 79:1]]
-- [[D&C 93]] — 1 parallel verse, e.g. [[D&C 97#^dc-97-10|D&C 97:10]] ↔ [[D&C 93#^dc-93-53|D&C 93:53]]
-- [[Matthew 3]] — 0 parallel verses
-- [[Luke 3]] — 0 parallel verses
-- [[Alma 5]] — 0 parallel verses
-- [[D&C 124]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +84,7 @@ The definition of [[Zion]] as “the pure in heart” adds a moral identity to t
 - [[Giving Holiness to the Lord (Bishop L. Todd Budge, October 2021)|Giving Holiness to the Lord]] — Bishop L. Todd Budge, 2021-October *(explicit citation)*
 - [[“By This All Will Know That You Are My Disciples” (Elder Dieter F. Uchtdorf, April 2025)|“By This All Will Know That You Are My Disciples”]] — Elder Dieter F. Uchtdorf, 2025-April *(explicit citation)*
 - [[A Peculiar Treasure (Elder Alan R. Walker, April 2026)|A Peculiar Treasure]] — Elder Alan R. Walker, 2026-April *(explicit citation)*
-- [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
+- [[Temple Standard (Elder Scott D. Whiting, October 2012)|Temple Standard]] — Elder Scott D. Whiting, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

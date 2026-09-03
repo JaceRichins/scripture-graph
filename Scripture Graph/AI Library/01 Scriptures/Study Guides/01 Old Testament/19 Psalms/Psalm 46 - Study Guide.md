@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 46
 slug: ps-46
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Job 37]] — 1 footnote cross-reference (from [[Psalm 46#^ps-46-10|Psalm 46:10]])
 - [[D&C 101]] — 1 footnote cross-reference (from [[Psalm 46#^ps-46-10|Psalm 46:10]])
 - [[Isaiah 2]] — 1 footnote cross-reference (from [[Psalm 46#^ps-46-10|Psalm 46:10]])
+- [[D&C 101]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +66,7 @@ _Not yet developed._
 - [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
 - [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
+- [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

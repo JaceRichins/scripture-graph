@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 1
 slug: gen-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,9 @@ _Not yet developed._
 - [[Leviticus 11]] — 2 parallel verses, e.g. [[Genesis 1#^gen-1-26|Genesis 1:26]] ↔ [[Leviticus 11#^lev-11-41|Leviticus 11:41]]
 - [[Genesis 2]] — 1 parallel verse, e.g. [[Genesis 1#^gen-1-30|Genesis 1:30]] ↔ [[Genesis 2#^gen-2-20|Genesis 2:20]]
 - [[Moses 3]] — 1 parallel verse, e.g. [[Genesis 1#^gen-1-30|Genesis 1:30]] ↔ [[Moses 3#^moses-3-20|Moses 3:20]]
+- [[Genesis 7]] — 0 parallel verses
+- [[Jeremiah 4]] — 0 parallel verses
+- [[Moses 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 13
 slug: 1cor-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Behold Thy Mother (Elder Jeffrey R. Holland, October 2015)|Behold Thy Mother]] — Elder Jeffrey R. Holland, 2015-October *(explicit citation)*
+- [[Charity Never Faileth (Silvia H. Allred, October 2011)|Charity Never Faileth]] — Silvia H. Allred, 2011-October *(explicit citation)*
 - [[In Praise of Those Who Save (President Dieter F. Uchtdorf, April 2016)|In Praise of Those Who Save]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
 - [[I Will Bring the Light of the Gospel into My Home (Jean B. Bingham, October 2016)|I Will Bring the Light of the Gospel into My Home]] — Jean B. Bingham, 2016-October *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
@@ -64,7 +65,6 @@ _Not yet developed._
 - [[Blessed and Happy Are Those Who Keep the Commandments of God (Elder Von G. Keetch, October 2015)|Blessed and Happy Are Those Who Keep the Commandments of God]] — Elder Von G. Keetch, 2015-October *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
 - [[Divine Discontent (Michelle D. Craig, October 2018)|Divine Discontent]] — Michelle D. Craig, 2018-October *(explicit citation)*
-- [[One in Christ (Elder Ulisses Soares, October 2018)|One in Christ]] — Elder Ulisses Soares, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -73,6 +73,7 @@ _Not yet developed._
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
+- **37 We Will Prove Them** (history) *(explicit citation)*
 - **Relief Society** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*

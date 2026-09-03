@@ -53,7 +53,7 @@ cssclasses:
 > [[Isaiah 24#^isa-24-6|Isa. 24:6]] · [[Job 28#^job-28-16|Job 28:16]] · [[2 Nephi 23#^2ne-23-12|≈ 2 Nephi 23:12]]
 
 ![[Isaiah 13#^isa-13-13]]
-> [[Haggai 2#^hag-2-6|Hag. 2:6]] · [[2 Nephi 8#^2ne-8-6|2 Ne. 8:6]] · [[3 Nephi 26#^3ne-26-3|3 Ne. 26:3]] · [[Isaiah 14#^isa-14-22|Isa. 14:26 (22–26)]] · [[Isaiah 24#^isa-24-1|24:1]] · [[D&C 88#^dc-88-87|D&amp;C 88:87 (87–92)]] · [[Lamentations 1#^lam-1-12|Lam. 1:12]] · [[Haggai 2#^hag-2-6|≈ Haggai 2:6]] · [[Haggai 2#^hag-2-21|≈ Haggai 2:21]] · [[2 Nephi 23#^2ne-23-13|≈ 2 Nephi 23:13]]
+> [[Haggai 2#^hag-2-6|Hag. 2:6]] · [[2 Nephi 8#^2ne-8-6|2 Ne. 8:6]] · [[3 Nephi 26#^3ne-26-3|3 Ne. 26:3]] · [[Isaiah 14#^isa-14-22|Isa. 14:26 (22–26)]] · [[Isaiah 24#^isa-24-1|24:1]] · [[D&C 88#^dc-88-87|D&amp;C 88:87 (87–92)]] · [[Lamentations 1#^lam-1-12|Lam. 1:12]] · [[2 Nephi 23#^2ne-23-13|≈ 2 Nephi 23:13]] · [[Haggai 2#^hag-2-6|≈ Haggai 2:6]] · [[Haggai 2#^hag-2-21|≈ Haggai 2:21]]
 
 ![[Isaiah 13#^isa-13-14]]
 > [[Jeremiah 50#^jer-50-16|Jer. 50:16]] · [[2 Nephi 23#^2ne-23-14|≈ 2 Nephi 23:14]]

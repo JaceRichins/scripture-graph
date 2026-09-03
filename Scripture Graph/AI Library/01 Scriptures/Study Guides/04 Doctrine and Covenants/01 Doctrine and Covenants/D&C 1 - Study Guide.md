@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 1
 slug: dc-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **13 The Gift Has Returned** (history) *(explicit citation)*
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Peace and War** (history) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
@@ -90,7 +91,6 @@ _Not yet developed._
 - **Doctrine and Covenants** (reference-entry) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **Sin** (reference-entry) *(explicit citation)*
-- **The Only True and Living Church** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 100
 slug: ps-100
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Blessings of Worship (Bishop Dean M. Davies, October 2016)|The Blessings of Worship]] — Bishop Dean M. Davies, 2016-October *(explicit citation)*
 - [[Welcome to the Church of Joy (Elder Patrick Kearon, October 2024)|Welcome to the Church of Joy]] — Elder Patrick Kearon, 2024-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Conference Report, April 1926 (General Conference (full report), April 1926)|Conference Report, April 1926]] — General Conference (full report), 1926-April *(explicit citation)*
 <!-- SG:END conference -->
 

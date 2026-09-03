@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 4
 slug: mark-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

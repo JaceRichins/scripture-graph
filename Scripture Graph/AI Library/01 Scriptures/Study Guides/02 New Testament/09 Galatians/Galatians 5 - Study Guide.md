@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 5
 slug: gal-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

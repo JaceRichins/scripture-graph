@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 1
 slug: 2thes-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Philemon 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
 - [[1 Corinthians 1]] — 2 parallel verses, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
 - [[Philippians 1]] — 1 parallel verse, e.g. [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
+- [[1 Thessalonians 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,7 +72,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

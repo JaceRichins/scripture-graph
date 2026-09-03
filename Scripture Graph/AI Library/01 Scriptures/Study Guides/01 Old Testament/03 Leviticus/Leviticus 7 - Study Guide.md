@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 7
 slug: lev-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,12 +56,12 @@ The chapter presents [[Sacrifice]] as serving more than one purpose: the text me
 - [[Leviticus 4]] — 5 parallel verses, e.g. [[Leviticus 7#^lev-7-4|Leviticus 7:4]] ↔ [[Leviticus 4#^lev-4-9|Leviticus 4:9]]
 - [[Leviticus 2]] — 8 parallel verses, e.g. [[Leviticus 7#^lev-7-5|Leviticus 7:5]] ↔ [[Leviticus 2#^lev-2-16|Leviticus 2:16]]
 - [[Leviticus 8]] — 6 parallel verses, e.g. [[Leviticus 7#^lev-7-5|Leviticus 7:5]] ↔ [[Leviticus 8#^lev-8-21|Leviticus 8:21]]
+- [[Leviticus 22]] — 5 parallel verses, e.g. [[Leviticus 7#^lev-7-20|Leviticus 7:20]] ↔ [[Leviticus 22#^lev-22-3|Leviticus 22:3]]
 - [[Exodus 12]] — 6 parallel verses, e.g. [[Leviticus 7#^lev-7-20|Leviticus 7:20]] ↔ [[Exodus 12#^ex-12-19|Exodus 12:19]]
 - [[Leviticus 6]] — 6 parallel verses, e.g. [[Leviticus 7#^lev-7-30|Leviticus 7:30]] ↔ [[Leviticus 6#^lev-6-18|Leviticus 6:18]]
 - [[Leviticus 24]] — 5 parallel verses, e.g. [[Leviticus 7#^lev-7-35|Leviticus 7:35]] ↔ [[Leviticus 24#^lev-24-9|Leviticus 24:9]]
 - [[Numbers 19]] — 6 parallel verses, e.g. [[Leviticus 7#^lev-7-20|Leviticus 7:20]] ↔ [[Numbers 19#^num-19-13|Numbers 19:13]]
 - [[Genesis 17]] — 4 parallel verses, e.g. [[Leviticus 7#^lev-7-20|Leviticus 7:20]] ↔ [[Genesis 17#^gen-17-14|Genesis 17:14]]
-- [[Leviticus 19]] — 5 parallel verses, e.g. [[Leviticus 7#^lev-7-18|Leviticus 7:18]] ↔ [[Leviticus 19#^lev-19-7|Leviticus 19:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

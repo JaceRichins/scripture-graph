@@ -17,7 +17,7 @@ cssclasses:
 > The king-men seek to change the law and set up a king—Pahoran and the freemen are supported by the voice of the people—Moroni compels the king-men to defend their country or be put to death—Amalickiah and the Lamanites capture many fortified cities—Teancum repels the Lamanite invasion and slays Amalickiah in his tent. About 67–66 B.C.
 
 ![[Alma 51#^alma-51-1]]
-> [[Alma 8#^alma-8-3|≈ Alma 8:3]] · [[Helaman 1#^hel-1-1|≈ Helaman 1:1]] · [[Alma 54#^alma-54-1|≈ Alma 54:1]] · [[Alma 56#^alma-56-1|≈ Alma 56:1]] · [[Alma 56#^alma-56-20|≈ Alma 56:20]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]]
+> [[Helaman 1#^hel-1-1|≈ Helaman 1:1]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[Alma 8#^alma-8-3|≈ Alma 8:3]] · [[Alma 54#^alma-54-1|≈ Alma 54:1]] · [[Alma 56#^alma-56-1|≈ Alma 56:1]] · [[Alma 56#^alma-56-20|≈ Alma 56:20]]
 
 ![[Alma 51#^alma-51-2]]
 > [[Alma 1#^alma-1-1|Alma 1:1]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]]
@@ -55,7 +55,7 @@ cssclasses:
 ![[Alma 51#^alma-51-15]]
 
 ![[Alma 51#^alma-51-16]]
-> [[Mosiah 29#^mosiah-29-29|≈ Mosiah 29:29]] · [[Helaman 1#^hel-1-8|≈ Helaman 1:8]] · [[Helaman 1#^hel-1-13|≈ Helaman 1:13]] · [[Alma 4#^alma-4-16|≈ Alma 4:16]]
+> [[Helaman 1#^hel-1-8|≈ Helaman 1:8]] · [[Helaman 1#^hel-1-13|≈ Helaman 1:13]] · [[Mosiah 29#^mosiah-29-29|≈ Mosiah 29:29]] · [[Alma 4#^alma-4-16|≈ Alma 4:16]]
 
 ![[Alma 51#^alma-51-17]]
 
@@ -70,7 +70,7 @@ cssclasses:
 ![[Alma 51#^alma-51-21]]
 
 ![[Alma 51#^alma-51-22]]
-> [[Alma 50#^alma-50-13|Alma 50:13]] · [[Alma 62#^alma-62-32|62:32 (32, 34)]] · [[3 Nephi 8#^3ne-8-9|3 Ne. 8:9]] · [[Alma 59#^alma-59-5|≈ Alma 59:5]] · [[Alma 62#^alma-62-25|≈ Alma 62:25]]
+> [[Alma 50#^alma-50-13|Alma 50:13]] · [[Alma 62#^alma-62-32|62:32 (32, 34)]] · [[3 Nephi 8#^3ne-8-9|3 Ne. 8:9]] · [[Alma 62#^alma-62-25|≈ Alma 62:25]] · [[Alma 59#^alma-59-5|≈ Alma 59:5]]
 
 ![[Alma 51#^alma-51-23]]
 

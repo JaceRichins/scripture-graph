@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 4
 slug: jer-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -73,7 +73,8 @@ The chapter presents [[Repentance]] as a return to the Lord involving conduct an
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Latter Day Saints' Messenger and Advocate 1836-07-01 (Vol. 2 No. 10)** (periodical, 1836-07-01) *(explicit citation)*
+- **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

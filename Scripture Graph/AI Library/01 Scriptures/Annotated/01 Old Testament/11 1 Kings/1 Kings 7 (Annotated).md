@@ -20,7 +20,7 @@ cssclasses:
 > [[Ecclesiastes 2#^eccl-2-4|Eccl. 2:4]] · [[1 Kings 3#^1kgs-3-1|1 Kgs. 3:1]] · [[1 Kings 9#^1kgs-9-1|9:1]]
 
 ![[1 Kings 7#^1kgs-7-2]]
-> [[Isaiah 22#^isa-22-8|Isa. 22:8]] · [[2 Chronicles 9#^2chr-9-16|≈ 2 Chronicles 9:16]] · [[2 Chronicles 9#^2chr-9-20|≈ 2 Chronicles 9:20]] · [[1 Kings 6#^1kgs-6-2|≈ 1 Kings 6:2]] · [[1 Kings 10#^1kgs-10-17|≈ 1 Kings 10:17]] · [[1 Kings 10#^1kgs-10-21|≈ 1 Kings 10:21]]
+> [[Isaiah 22#^isa-22-8|Isa. 22:8]] · [[2 Chronicles 9#^2chr-9-16|≈ 2 Chronicles 9:16]] · [[2 Chronicles 9#^2chr-9-20|≈ 2 Chronicles 9:20]] · [[1 Kings 10#^1kgs-10-17|≈ 1 Kings 10:17]] · [[1 Kings 10#^1kgs-10-21|≈ 1 Kings 10:21]] · [[1 Kings 6#^1kgs-6-2|≈ 1 Kings 6:2]]
 
 ![[1 Kings 7#^1kgs-7-3]]
 

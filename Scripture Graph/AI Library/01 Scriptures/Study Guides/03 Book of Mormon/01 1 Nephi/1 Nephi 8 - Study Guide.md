@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 8
 slug: 1ne-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,8 @@ _Not yet developed._
 - [[1 Nephi 12]] — 3 footnote cross-references (from [[1 Nephi 8#^1ne-8-13|1 Nephi 8:13]])
 - [[1 Nephi 1]] — 2 footnote cross-references (from [[1 Nephi 8#^1ne-8-2|1 Nephi 8:2]])
 - [[1 Nephi 10]] — 2 footnote cross-references (from [[1 Nephi 8#^1ne-8-2|1 Nephi 8:2]])
+- [[1 Nephi 10]] — 3 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[1 Nephi 10#^1ne-10-11|1 Nephi 10:11]]
+- [[Alma 12]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Alma 42]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
 - [[1 Nephi 3]] — 2 parallel verses, e.g. [[1 Nephi 8#^1ne-8-2|1 Nephi 8:2]] ↔ [[1 Nephi 3#^1ne-3-2|1 Nephi 3:2]]
@@ -58,10 +60,8 @@ _Not yet developed._
 - [[Helaman 12]] — 1 parallel verse, e.g. [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]] ↔ [[Helaman 12#^hel-12-25|Helaman 12:25]]
 - [[Alma 32]] — 0 parallel verses
 - [[2 Nephi 31]] — 0 parallel verses
-- [[1 Nephi 10]] — 0 parallel verses
 - [[1 Nephi 11]] — 0 parallel verses
 - [[1 Nephi 12]] — 0 parallel verses
-- [[1 Nephi 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +83,7 @@ Lehi's treatment of Laman and Lemuel is especially important. Although the visio
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[In Tune with the Music of Faith (Elder Quentin L. Cook, April 2012)|In Tune with the Music of Faith]] — Elder Quentin L. Cook, 2012-April *(explicit citation)*
 - [[But We Heeded Them Not (Elder David A. Bednar, April 2022)|But We Heeded Them Not]] — Elder David A. Bednar, 2022-April *(explicit citation)*
 - [[Stand Up Inside and Be All In (Elder Gary B. Sabin, April 2017)|Stand Up Inside and Be All In]] — Elder Gary B. Sabin, 2017-April *(explicit citation)*
 - [[Be Faithful, Not Faithless (Stephen W. Owen, October 2019)|Be Faithful, Not Faithless]] — Stephen W. Owen, 2019-October *(explicit citation)*
@@ -92,7 +93,6 @@ Lehi's treatment of Laman and Lemuel is especially important. Although the visio
 - [[Continually Holding Fast (Elder Kevin S. Hamilton, October 2013)|Continually Holding Fast]] — Elder Kevin S. Hamilton, 2013-October *(explicit citation)*
 - [[Stay by the Tree (Elder Kevin W. Pearson, April 2015)|Stay by the Tree]] — Elder Kevin W. Pearson, 2015-April *(explicit citation)*
 - [[A Pattern for Peace (Bishop W. Christopher Waddell, April 2016)|A Pattern for Peace]] — Bishop W. Christopher Waddell, 2016-April *(explicit citation)*
-- [[Do I Believe (Bonnie L. Oscarson, April 2016)|Do I Believe?]] — Bonnie L. Oscarson, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

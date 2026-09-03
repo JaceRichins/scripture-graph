@@ -59,7 +59,7 @@ cssclasses:
 > [[2 Samuel 6#^2sam-6-18|2 Sam. 6:18]] · [[2 Chronicles 6#^2chr-6-3|≈ 2 Chronicles 6:3]]
 
 ![[1 Kings 8#^1kgs-8-15]]
-> [[Genesis 9#^gen-9-26|≈ Genesis 9:26]] · [[Genesis 24#^gen-24-27|≈ Genesis 24:27]] · [[2 Chronicles 6#^2chr-6-4|≈ 2 Chronicles 6:4]]
+> [[2 Chronicles 6#^2chr-6-4|≈ 2 Chronicles 6:4]] · [[Genesis 9#^gen-9-26|≈ Genesis 9:26]] · [[Genesis 24#^gen-24-27|≈ Genesis 24:27]]
 
 ![[1 Kings 8#^1kgs-8-16]]
 > [[1 Samuel 16#^1sam-16-1|1 Sam. 16:1]] · [[2 Chronicles 6#^2chr-6-5|≈ 2 Chronicles 6:5]] · [[2 Chronicles 6#^2chr-6-6|≈ 2 Chronicles 6:6]]
@@ -181,7 +181,7 @@ cssclasses:
 ![[1 Kings 8#^1kgs-8-57]]
 
 ![[1 Kings 8#^1kgs-8-58]]
-> [[Deuteronomy 10#^deut-10-12|≈ Deuteronomy 10:12]] · [[Joshua 22#^josh-22-5|≈ Joshua 22:5]] · [[Deuteronomy 30#^deut-30-16|≈ Deuteronomy 30:16]] · [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]] · [[Helaman 15#^hel-15-5|≈ Helaman 15:5]]
+> [[Deuteronomy 30#^deut-30-16|≈ Deuteronomy 30:16]] · [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]] · [[Deuteronomy 10#^deut-10-12|≈ Deuteronomy 10:12]] · [[Joshua 22#^josh-22-5|≈ Joshua 22:5]] · [[Helaman 15#^hel-15-5|≈ Helaman 15:5]]
 
 ![[1 Kings 8#^1kgs-8-59]]
 

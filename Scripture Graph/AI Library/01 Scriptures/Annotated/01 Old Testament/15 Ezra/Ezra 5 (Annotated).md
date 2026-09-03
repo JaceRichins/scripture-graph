@@ -20,7 +20,7 @@ cssclasses:
 > [[Zechariah 8#^zech-8-9|Zech. 8:9]] · [[Ezra 6#^ezra-6-14|Ezra 6:14]] · [[Zechariah 1#^zech-1-1|Zech. 1:1]] · [[Ezra 6#^ezra-6-14|≈ Ezra 6:14]]
 
 ![[Ezra 5#^ezra-5-2]]
-> [[Ezra 6#^ezra-6-12|≈ Ezra 6:12]] · [[Ezra 4#^ezra-4-24|≈ Ezra 4:24]] · [[Ezra 3#^ezra-3-8|≈ Ezra 3:8]] · [[Ezra 3#^ezra-3-2|≈ Ezra 3:2]]
+> [[Ezra 6#^ezra-6-12|≈ Ezra 6:12]] · [[Ezra 3#^ezra-3-8|≈ Ezra 3:8]] · [[Ezra 3#^ezra-3-2|≈ Ezra 3:2]] · [[Ezra 4#^ezra-4-24|≈ Ezra 4:24]]
 
 ![[Ezra 5#^ezra-5-3]]
 > [[Ezra 6#^ezra-6-13|≈ Ezra 6:13]]

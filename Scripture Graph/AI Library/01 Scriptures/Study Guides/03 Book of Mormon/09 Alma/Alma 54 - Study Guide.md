@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 54
 slug: alma-54
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,17 +51,17 @@ Scripture: [[Alma 54]] · My notes: [[Alma 54 - My Notes]]
 - [[Alma 43]] — 1 footnote cross-reference (from [[Alma 54#^alma-54-10|Alma 54:10]])
 - [[John 8]] — 1 footnote cross-reference (from [[Alma 54#^alma-54-11|Alma 54:11]])
 - [[Alma 56]] — 4 parallel verses, e.g. [[Alma 54#^alma-54-15|Alma 54:15]] ↔ [[Alma 56#^alma-56-2|Alma 56:2]]
+- [[Alma 60]] — 2 parallel verses, e.g. [[Alma 54#^alma-54-15|Alma 54:15]] ↔ [[Alma 60#^alma-60-1|Alma 60:1]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Alma 54#^alma-54-1|Alma 54:1]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
 - [[Alma 57]] — 1 parallel verse, e.g. [[Alma 54#^alma-54-1|Alma 54:1]] ↔ [[Alma 57#^alma-57-6|Alma 57:6]]
 - [[Alma 51]] — 1 parallel verse, e.g. [[Alma 54#^alma-54-1|Alma 54:1]] ↔ [[Alma 51#^alma-51-1|Alma 51:1]]
-- [[Alma 60]] — 0 parallel verses
 - [[Mosiah 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
-- [[Government and Laws]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

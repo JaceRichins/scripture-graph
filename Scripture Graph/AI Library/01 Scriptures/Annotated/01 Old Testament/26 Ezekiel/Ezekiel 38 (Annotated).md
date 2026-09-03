@@ -66,7 +66,7 @@ cssclasses:
 > [[Haggai 2#^hag-2-6|Hag. 2:6 (6–7)]]
 
 ![[Ezekiel 38#^ezek-38-20]]
-> [[Jeremiah 15#^jer-15-3|≈ Jeremiah 15:3]] · [[Zephaniah 1#^zeph-1-3|≈ Zephaniah 1:3]] · [[Leviticus 11#^lev-11-42|≈ Leviticus 11:42]] · [[Leviticus 11#^lev-11-29|≈ Leviticus 11:29]] · [[Ezekiel 29#^ezek-29-5|≈ Ezekiel 29:5]]
+> [[Leviticus 11#^lev-11-42|≈ Leviticus 11:42]] · [[Leviticus 11#^lev-11-29|≈ Leviticus 11:29]] · [[Jeremiah 15#^jer-15-3|≈ Jeremiah 15:3]] · [[Zephaniah 1#^zeph-1-3|≈ Zephaniah 1:3]] · [[Ezekiel 29#^ezek-29-5|≈ Ezekiel 29:5]]
 
 ![[Ezekiel 38#^ezek-38-21]]
 > [[Isaiah 9#^isa-9-19|Isa. 9:19]]

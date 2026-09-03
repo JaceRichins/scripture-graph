@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 21
 slug: acts-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

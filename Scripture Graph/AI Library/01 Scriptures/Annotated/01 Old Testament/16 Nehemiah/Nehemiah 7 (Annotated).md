@@ -210,4 +210,4 @@ cssclasses:
 ![[Nehemiah 7#^neh-7-72]]
 
 ![[Nehemiah 7#^neh-7-73]]
-> [[Ezra 2#^ezra-2-70|≈ Ezra 2:70]] · [[Nehemiah 11#^neh-11-3|≈ Nehemiah 11:3]] · [[Nehemiah 10#^neh-10-39|≈ Nehemiah 10:39]]
+> [[Nehemiah 10#^neh-10-39|≈ Nehemiah 10:39]] · [[Ezra 2#^ezra-2-70|≈ Ezra 2:70]] · [[Nehemiah 11#^neh-11-3|≈ Nehemiah 11:3]]

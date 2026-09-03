@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 25
 slug: gen-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Numbers 3]] — 3 parallel verses, e.g. [[Genesis 25#^gen-25-13|Genesis 25:13]] ↔ [[Numbers 3#^num-3-2|Numbers 3:2]]
 - [[Exodus 6]] — 2 parallel verses, e.g. [[Genesis 25#^gen-25-17|Genesis 25:17]] ↔ [[Exodus 6#^ex-6-20|Exodus 6:20]]
 - [[Genesis 35]] — 1 parallel verse, e.g. [[Genesis 25#^gen-25-17|Genesis 25:17]] ↔ [[Genesis 35#^gen-35-29|Genesis 35:29]]
+- [[Hosea 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,11 +76,15 @@ _Not yet developed._
 - [[Put On Thy Strength, O Zion (Elder David A. Bednar, October 2022)|Put On Thy Strength, O Zion]] — Elder David A. Bednar, 2022-October *(explicit citation)*
 - [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
+- [[What Shall a Man Give in Exchange for His Soul (Elder Robert C. Gay, October 2012)|What Shall a Man Give in Exchange for His Soul?]] — Elder Robert C. Gay, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **04 Be Watchful** (history) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
+- **Arabia, Arabians** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

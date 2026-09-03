@@ -52,7 +52,7 @@ cssclasses:
 > [[2 Nephi 25#^2ne-25-18|2 Ne. 25:18]] · [[2 Nephi 30#^2ne-30-7|2 Ne. 30:7 (7–8)]] · [[Mormon 5#^morm-5-12|Morm. 5:14 (12–14)]] · [[D&C 19#^dc-19-27|D&amp;C 19:27]] · [[Mormon 3#^morm-3-21|Morm. 3:21]] · [[2 Nephi 19#^2ne-19-6|2 Ne. 19:6]] · [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]] · [[Alma 11#^alma-11-38|Alma 11:39 (38–39, 44)]] · [[Moroni 7#^moro-7-22|Moro. 7:22]] · [[Moroni 8#^moro-8-18|8:18]]
 
 ![[2 Nephi 26#^2ne-26-13]]
-> [[2 Nephi 28#^2ne-28-31|≈ 2 Nephi 28:31]] · [[Moroni 6#^moro-6-4|≈ Moroni 6:4]] · [[Moroni 6#^moro-6-9|≈ Moroni 6:9]] · [[Moroni 10#^moro-10-4|≈ Moroni 10:4]] · [[Moroni 10#^moro-10-5|≈ Moroni 10:5]] · [[Moroni 10#^moro-10-7|≈ Moroni 10:7]]
+> [[Moroni 10#^moro-10-4|≈ Moroni 10:4]] · [[Moroni 10#^moro-10-5|≈ Moroni 10:5]] · [[Moroni 10#^moro-10-7|≈ Moroni 10:7]] · [[2 Nephi 28#^2ne-28-31|≈ 2 Nephi 28:31]] · [[Moroni 6#^moro-6-4|≈ Moroni 6:4]] · [[Moroni 6#^moro-6-9|≈ Moroni 6:9]]
 
 ![[2 Nephi 26#^2ne-26-14]]
 

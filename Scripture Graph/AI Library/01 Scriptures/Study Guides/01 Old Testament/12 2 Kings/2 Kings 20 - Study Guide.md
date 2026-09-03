@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 20
 slug: 2kgs-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,8 @@ Scripture: [[2 Kings 20]] · My notes: [[2 Kings 20 - My Notes]]
 - [[Ecclesiastes 3]] — 1 footnote cross-reference (from [[2 Kings 20#^2kgs-20-1|2 Kings 20:1]])
 - [[D&C 42]] — 1 footnote cross-reference (from [[2 Kings 20#^2kgs-20-1|2 Kings 20:1]])
 - [[Genesis 15]] — 1 footnote cross-reference (from [[2 Kings 20#^2kgs-20-8|2 Kings 20:8]])
+- [[Isaiah 39]] — 7 parallel verses, e.g. [[2 Kings 20#^2kgs-20-13|2 Kings 20:13]] ↔ [[Isaiah 39#^isa-39-2|Isaiah 39:2]]
+- [[Isaiah 38]] — 7 parallel verses, e.g. [[2 Kings 20#^2kgs-20-1|2 Kings 20:1]] ↔ [[Isaiah 38#^isa-38-1|Isaiah 38:1]]
 - [[2 Kings 15]] — 7 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 15#^2kgs-15-6|2 Kings 15:6]]
 - [[1 Kings 16]] — 4 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[1 Kings 16#^1kgs-16-5|1 Kings 16:5]]
 - [[2 Kings 14]] — 3 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 14#^2kgs-14-18|2 Kings 14:18]]
@@ -59,8 +61,6 @@ Scripture: [[2 Kings 20]] · My notes: [[2 Kings 20 - My Notes]]
 - [[2 Chronicles 32]] — 4 parallel verses, e.g. [[2 Kings 20#^2kgs-20-21|2 Kings 20:21]] ↔ [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]]
 - [[1 Kings 14]] — 2 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
 - [[2 Kings 16]] — 2 parallel verses, e.g. [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]] ↔ [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]]
-- [[Isaiah 37]] — 2 parallel verses, e.g. [[2 Kings 20#^2kgs-20-6|2 Kings 20:6]] ↔ [[Isaiah 37#^isa-37-35|Isaiah 37:35]]
-- [[2 Kings 18]] — 3 parallel verses, e.g. [[2 Kings 20#^2kgs-20-6|2 Kings 20:6]] ↔ [[2 Kings 18#^2kgs-18-33|2 Kings 18:33]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,7 +91,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

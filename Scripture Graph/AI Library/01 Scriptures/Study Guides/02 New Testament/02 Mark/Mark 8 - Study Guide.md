@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 8
 slug: mark-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,9 +78,9 @@ _Not yet developed._
 - [[Lost Luggage, Redeemed Souls (Elder Gary E. Stevenson, April 2026)|Lost Luggage, Redeemed Souls]] — Elder Gary E. Stevenson, 2026-April *(explicit citation)*
 - [[Your Sacred Duty to Minister (David L. Beck, April 2013)|Your Sacred Duty to Minister]] — David L. Beck, 2013-April *(explicit citation)*
 - [[Are You Sleeping through the Restoration (President Dieter F. Uchtdorf, April 2014)|Are You Sleeping through the Restoration?]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
+- [[Being a More Christian Christian (Elder Robert D. Hales, October 2012)|Being a More Christian Christian]] — Elder Robert D. Hales, 2012-October *(explicit citation)*
 - [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
 - [[No Greater Joy Than to Know That They Know (Elder K. Brett Nattress, October 2016)|No Greater Joy Than to Know That They Know]] — Elder K. Brett Nattress, 2016-October *(explicit citation)*
-- [[Conference Report, October 1921 (General Conference (full report), October 1921)|Conference Report, October 1921]] — General Conference (full report), 1921-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

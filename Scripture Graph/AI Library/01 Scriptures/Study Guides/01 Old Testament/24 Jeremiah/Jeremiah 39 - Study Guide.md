@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 39
 slug: jer-39
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,7 +52,9 @@ Scripture: [[Jeremiah 39]] · My notes: [[Jeremiah 39 - My Notes]]
 - [[Lamentations 4]] — 2 footnote cross-references (from [[Jeremiah 39#^jer-39-5|Jeremiah 39:5]])
 - [[Jeremiah 43]] — 2 footnote cross-references (from [[Jeremiah 39#^jer-39-10|Jeremiah 39:10]])
 - [[Jeremiah 1]] — 1 footnote cross-reference (from [[Jeremiah 39#^jer-39-3|Jeremiah 39:3]])
+- [[Jeremiah 52]] — 22 parallel verses, e.g. [[Jeremiah 39#^jer-39-9|Jeremiah 39:9]] ↔ [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]]
 - [[2 Kings 25]] — 7 parallel verses, e.g. [[Jeremiah 39#^jer-39-10|Jeremiah 39:10]] ↔ [[2 Kings 25#^2kgs-25-12|2 Kings 25:12]]
+- [[Jeremiah 40]] — 7 parallel verses, e.g. [[Jeremiah 39#^jer-39-14|Jeremiah 39:14]] ↔ [[Jeremiah 40#^jer-40-5|Jeremiah 40:5]]
 - [[Jeremiah 43]] — 6 parallel verses, e.g. [[Jeremiah 39#^jer-39-16|Jeremiah 39:16]] ↔ [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]]
 - [[Jeremiah 41]] — 5 parallel verses, e.g. [[Jeremiah 39#^jer-39-14|Jeremiah 39:14]] ↔ [[Jeremiah 41#^jer-41-2|Jeremiah 41:2]]
 - [[Jeremiah 44]] — 4 parallel verses, e.g. [[Jeremiah 39#^jer-39-16|Jeremiah 39:16]] ↔ [[Jeremiah 44#^jer-44-11|Jeremiah 44:11]]
@@ -62,16 +64,14 @@ Scripture: [[Jeremiah 39]] · My notes: [[Jeremiah 39 - My Notes]]
 - [[Jeremiah 32]] — 3 parallel verses, e.g. [[Jeremiah 39#^jer-39-15|Jeremiah 39:15]] ↔ [[Jeremiah 32#^jer-32-2|Jeremiah 32:2]]
 - [[Jeremiah 28]] — 3 parallel verses, e.g. [[Jeremiah 39#^jer-39-16|Jeremiah 39:16]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
 - [[Jeremiah 7]] — 2 parallel verses, e.g. [[Jeremiah 39#^jer-39-16|Jeremiah 39:16]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
-- [[Jeremiah 9]] — 1 parallel verse, e.g. [[Jeremiah 39#^jer-39-16|Jeremiah 39:16]] ↔ [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]]
-- [[Jeremiah 42]] — 2 parallel verses, e.g. [[Jeremiah 39#^jer-39-16|Jeremiah 39:16]] ↔ [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[War and Peace]]
 - [[Scattering of Israel]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

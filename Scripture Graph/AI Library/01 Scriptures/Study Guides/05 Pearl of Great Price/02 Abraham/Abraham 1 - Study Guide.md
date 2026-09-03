@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 1
 slug: abr-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,16 +50,21 @@ Verses 15–20 form the main narrative pivot from threatened death to deliveranc
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Abraham 2]] — 2 parallel verses, e.g. [[Abraham 1#^abr-1-16|Abraham 1:16]] ↔ [[Abraham 2#^abr-2-8|Abraham 2:8]]
+- [[Abraham 2]] — 6 footnote cross-references (from [[Abraham 1#^abr-1-1|Abraham 1:1]])
+- [[Genesis 12]] — 4 footnote cross-references (from [[Abraham 1#^abr-1-2|Abraham 1:2]])
+- [[Moses 8]] — 3 footnote cross-references (from [[Abraham 1#^abr-1-11|Abraham 1:11]])
+- [[Genesis 10]] — 3 footnote cross-references (from [[Abraham 1#^abr-1-21|Abraham 1:21]])
+- [[Genesis 11]] — 2 footnote cross-references (from [[Abraham 1#^abr-1-1|Abraham 1:1]])
+- [[D&C 84]] — 2 footnote cross-references (from [[Abraham 1#^abr-1-3|Abraham 1:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Education and Learning]]
 - [[Exodus and Deliverance]]
 - [[Records and Sacred Writings]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Priesthood]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -86,11 +91,14 @@ Verse 30 likewise requires precision about [[Repentance]]: it says Abraham's fat
 <!-- SG:BEGIN history -->
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Abraham, Book of** (reference-entry) *(explicit citation)*
+- **20 Do Not Cast Me Off** (history) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
 - **Journal of Discourses, Volume 22** (history, ~1875) *(explicit citation)*
 - **Journal of Discourses, Volume 24** (history, ~1877) *(explicit citation)*
 - **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

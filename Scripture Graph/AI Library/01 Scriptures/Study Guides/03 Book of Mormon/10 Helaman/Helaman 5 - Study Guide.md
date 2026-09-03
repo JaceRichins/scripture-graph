@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 5
 slug: hel-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -71,21 +71,22 @@ Helaman 5 begins with institutional failure but does not end there. When corrupt
 - [[Mosiah 2]] — 2 parallel verses, e.g. [[Helaman 5#^hel-5-5|Helaman 5:5]] ↔ [[Mosiah 2#^mosiah-2-9|Mosiah 2:9]]
 - [[3 Nephi 10]] — 2 parallel verses, e.g. [[Helaman 5#^hel-5-29|Helaman 5:29]] ↔ [[3 Nephi 10#^3ne-10-3|3 Nephi 10:3]]
 - [[Mosiah 27]] — 2 parallel verses, e.g. [[Helaman 5#^hel-5-50|Helaman 5:50]] ↔ [[Mosiah 27#^mosiah-27-32|Mosiah 27:32]]
-- [[Alma 10]] — 2 parallel verses, e.g. [[Helaman 5#^hel-5-32|Helaman 5:32]] ↔ [[Alma 10#^alma-10-20|Alma 10:20]]
 - [[3 Nephi 28]] — 2 parallel verses, e.g. [[Helaman 5#^hel-5-50|Helaman 5:50]] ↔ [[3 Nephi 28#^3ne-28-16|3 Nephi 28:16]]
+- [[Alma 10]] — 2 parallel verses, e.g. [[Helaman 5#^hel-5-32|Helaman 5:32]] ↔ [[Alma 10#^alma-10-20|Alma 10:20]]
+- [[Matthew 3]] — 1 parallel verse, e.g. [[Helaman 5#^hel-5-32|Helaman 5:32]] ↔ [[Matthew 3#^matt-3-2|Matthew 3:2]]
 - [[Helaman 7]] — 1 parallel verse, e.g. [[Helaman 5#^hel-5-6|Helaman 5:6]] ↔ [[Helaman 7#^hel-7-7|Helaman 7:7]]
 - [[Alma 38]] — 1 parallel verse, e.g. [[Helaman 5#^hel-5-9|Helaman 5:9]] ↔ [[Alma 38#^alma-38-9|Alma 38:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Angels]]
-- [[Government and Laws]]
 - [[Mosiah 7]]
 - [[Repentance and Forgiveness]]
 - [[War and Peace]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -105,8 +106,8 @@ The repeated command to remember also joins [[Family]], [[Records and Sacred Wri
 - [[Preserving the Voice of the Covenant People in the Rising Generation (Brother Jan E. Newman, October 2023)|Preserving the Voice of the Covenant People in the Rising Generation]] — Brother Jan E. Newman, 2023-October *(explicit citation)*
 - [[“Be Still, and Know That I Am God” (Elder David A. Bednar, April 2024)|“Be Still, and Know That I Am God”]] — Elder David A. Bednar, 2024-April *(explicit citation)*
 - [[The Testimony of Jesus (Elder D. Todd Christofferson, April 2024)|The Testimony of Jesus]] — Elder D. Todd Christofferson, 2024-April *(explicit citation)*
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Returning to Faith (Rosemary M. Wixom, April 2015)|Returning to Faith]] — Rosemary M. Wixom, 2015-April *(explicit citation)*
-- [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

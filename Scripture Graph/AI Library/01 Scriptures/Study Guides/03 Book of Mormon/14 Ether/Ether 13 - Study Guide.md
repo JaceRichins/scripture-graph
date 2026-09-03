@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 13
 slug: ether-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Center Place** (history) *(explicit citation)*
+- **09 Come Life or Come Death** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

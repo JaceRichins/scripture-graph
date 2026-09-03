@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 23
 slug: dc-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 23]] · My notes: [[D&C 23 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–7, These early disciples are called to preach, exhort, and strengthen the Church.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -40,7 +41,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 19]] — 1 parallel verse, e.g. [[D&C 23#^dc-23-6|D&C 23:6]] ↔ [[D&C 19#^dc-19-28|D&C 19:28]]
+- [[D&C 20]] — 2 footnote cross-references (from [[D&C 23#^dc-23-5|D&C 23:5]])
+- [[Mark 14]] — 1 footnote cross-reference (from [[D&C 23#^dc-23-1|D&C 23:1]])
+- [[Romans 10]] — 1 footnote cross-reference (from [[D&C 23#^dc-23-2|D&C 23:2]])
+- [[3 Nephi 26]] — 1 footnote cross-reference (from [[D&C 23#^dc-23-3|D&C 23:3]])
+- [[D&C 81]] — 1 footnote cross-reference (from [[D&C 23#^dc-23-3|D&C 23:3]])
+- [[D&C 108]] — 1 footnote cross-reference (from [[D&C 23#^dc-23-3|D&C 23:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -57,11 +63,13 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Motions of a Hidden Fire (President Jeffrey R. Holland, April 2024)|Motions of a Hidden Fire]] — President Jeffrey R. Holland, 2024-April *(explicit citation)*
 - [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Support at Home** (history) *(explicit citation)*
+- **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

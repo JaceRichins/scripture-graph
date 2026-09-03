@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 7
 slug: zech-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

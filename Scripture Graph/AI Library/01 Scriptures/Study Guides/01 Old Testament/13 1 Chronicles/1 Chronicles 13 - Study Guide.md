@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 13
 slug: 1chr-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Deuteronomy 29]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]]
 - [[Joshua 7]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[Joshua 7#^josh-7-1|Joshua 7:1]]
 - [[2 Kings 13]] — 1 parallel verse, e.g. [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]] ↔ [[2 Kings 13#^2kgs-13-3|2 Kings 13:3]]
+- [[2 Samuel 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,7 +73,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

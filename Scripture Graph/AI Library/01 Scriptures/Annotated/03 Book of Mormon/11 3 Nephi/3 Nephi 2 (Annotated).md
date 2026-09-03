@@ -60,7 +60,7 @@ cssclasses:
 ![[3 Nephi 2#^3ne-2-16]]
 
 ![[3 Nephi 2#^3ne-2-17]]
-> [[Alma 8#^alma-8-3|≈ Alma 8:3]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[Helaman 11#^hel-11-30|≈ Helaman 11:30]]
+> [[Helaman 11#^hel-11-30|≈ Helaman 11:30]] · [[Alma 8#^alma-8-3|≈ Alma 8:3]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]]
 
 ![[3 Nephi 2#^3ne-2-18]]
 > [[Alma 8#^alma-8-14|≈ Alma 8:14]] · [[Alma 59#^alma-59-11|≈ Alma 59:11]] · [[Alma 59#^alma-59-12|≈ Alma 59:12]]

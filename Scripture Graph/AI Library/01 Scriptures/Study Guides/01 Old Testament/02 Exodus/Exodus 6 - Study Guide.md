@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 6
 slug: ex-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,8 +78,8 @@ The repetition gives the genealogy an identity-establishing effect in the receiv
 - [[Adversity]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -95,6 +95,7 @@ The chapter presents [[Exodus and Deliverance]] as more than escape from forced 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
+- **Aaron** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

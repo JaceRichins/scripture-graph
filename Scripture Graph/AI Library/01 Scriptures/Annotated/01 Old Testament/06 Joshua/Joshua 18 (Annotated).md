@@ -43,7 +43,7 @@ cssclasses:
 > [[Numbers 10#^num-10-28|≈ Numbers 10:28]]
 
 ![[Joshua 18#^josh-18-11]]
-> [[Genesis 42#^gen-42-4|Gen. 42:4]] · [[Genesis 44#^gen-44-29|44:29]] · [[Genesis 49#^gen-49-26|49:27 (26–28)]] · [[Numbers 10#^num-10-24|≈ Numbers 10:24]] · [[Numbers 10#^num-10-15|≈ Numbers 10:15]] · [[Numbers 10#^num-10-16|≈ Numbers 10:16]] · [[Numbers 10#^num-10-19|≈ Numbers 10:19]] · [[Numbers 10#^num-10-20|≈ Numbers 10:20]] · [[Numbers 10#^num-10-23|≈ Numbers 10:23]]
+> [[Genesis 42#^gen-42-4|Gen. 42:4]] · [[Genesis 44#^gen-44-29|44:29]] · [[Genesis 49#^gen-49-26|49:27 (26–28)]] · [[Joshua 19#^josh-19-1|≈ Joshua 19:1]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]]
 
 ![[Joshua 18#^josh-18-12]]
 > [[Joshua 7#^josh-7-2|Josh. 7:2]] · [[Joshua 15#^josh-15-7|≈ Joshua 15:7]] · [[Joshua 15#^josh-15-6|≈ Joshua 15:6]] · [[Joshua 15#^josh-15-8|≈ Joshua 15:8]] · [[Joshua 16#^josh-16-8|≈ Joshua 16:8]]
@@ -70,7 +70,7 @@ cssclasses:
 > [[Joshua 19#^josh-19-9|≈ Joshua 19:9]] · [[Joshua 13#^josh-13-23|≈ Joshua 13:23]]
 
 ![[Joshua 18#^josh-18-21]]
-> [[Numbers 10#^num-10-24|≈ Numbers 10:24]] · [[Numbers 10#^num-10-15|≈ Numbers 10:15]] · [[Numbers 10#^num-10-16|≈ Numbers 10:16]] · [[Numbers 10#^num-10-19|≈ Numbers 10:19]] · [[Numbers 10#^num-10-20|≈ Numbers 10:20]] · [[Numbers 10#^num-10-23|≈ Numbers 10:23]]
+> [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]] · [[Numbers 10#^num-10-24|≈ Numbers 10:24]]
 
 ![[Joshua 18#^josh-18-22]]
 

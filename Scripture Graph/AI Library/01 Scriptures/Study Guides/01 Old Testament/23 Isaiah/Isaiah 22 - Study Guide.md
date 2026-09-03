@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 22
 slug: isa-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -34,7 +34,7 @@ Scripture: [[Isaiah 22]] · My notes: [[Isaiah 22 - My Notes]]
 
 ## People
 <!-- SG:BEGIN people -->
-- [[David (king)]] — 0 mentions
+- [[David (king)]] — 2 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -50,6 +50,7 @@ Scripture: [[Isaiah 22]] · My notes: [[Isaiah 22 - My Notes]]
 - [[Isaiah 7]] — 1 footnote cross-reference (from [[Isaiah 22#^isa-22-11|Isaiah 22:11]])
 - [[Joel 2]] — 1 footnote cross-reference (from [[Isaiah 22#^isa-22-12|Isaiah 22:12]])
 - [[2 Corinthians 7]] — 1 footnote cross-reference (from [[Isaiah 22#^isa-22-12|Isaiah 22:12]])
+- [[Isaiah 7]] — 3 parallel verses, e.g. [[Isaiah 22#^isa-22-20|Isaiah 22:20]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
 - [[Joel 3]] — 2 parallel verses, e.g. [[Isaiah 22#^isa-22-25|Isaiah 22:25]] ↔ [[Joel 3#^joel-3-8|Joel 3:8]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[Isaiah 22#^isa-22-20|Isaiah 22:20]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
 - [[Zechariah 13]] — 2 parallel verses, e.g. [[Isaiah 22#^isa-22-20|Isaiah 22:20]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
@@ -60,7 +61,6 @@ Scripture: [[Isaiah 22]] · My notes: [[Isaiah 22 - My Notes]]
 - [[Zechariah 12]] — 1 parallel verse, e.g. [[Isaiah 22#^isa-22-20|Isaiah 22:20]] ↔ [[Zechariah 12#^zech-12-9|Zechariah 12:9]]
 - [[Ezekiel 39]] — 1 parallel verse, e.g. [[Isaiah 22#^isa-22-20|Isaiah 22:20]] ↔ [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]]
 - [[1 Corinthians 15]] — 1 parallel verse, e.g. [[Isaiah 22#^isa-22-13|Isaiah 22:13]] ↔ [[1 Corinthians 15#^1cor-15-32|1 Corinthians 15:32]]
-- [[Isaiah 7]] — 0 parallel verses
 - [[Isaiah 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -86,7 +86,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

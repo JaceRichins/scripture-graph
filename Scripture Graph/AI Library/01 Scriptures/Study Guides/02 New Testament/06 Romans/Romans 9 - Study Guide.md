@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 9
 slug: rom-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,9 @@ _Not yet developed._
 - [[Genesis 25]] — 1 footnote cross-reference (from [[Romans 9#^rom-9-12|Romans 9:12]])
 - [[Malachi 1]] — 1 footnote cross-reference (from [[Romans 9#^rom-9-13|Romans 9:13]])
 - [[Hosea 1]] — 2 parallel verses, e.g. [[Romans 9#^rom-9-26|Romans 9:26]] ↔ [[Hosea 1#^hosea-1-10|Hosea 1:10]]
+- [[2 Nephi 18]] — 0 parallel verses
+- [[Isaiah 10]] — 0 parallel verses
+- [[Malachi 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,7 +74,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

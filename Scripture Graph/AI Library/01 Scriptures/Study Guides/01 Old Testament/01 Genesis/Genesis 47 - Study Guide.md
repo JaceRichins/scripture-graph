@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 47
 slug: gen-47
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,11 +53,11 @@ The outer sections concern Jacob's household, while the central section concerns
 - [[Genesis 24]] — 2 footnote cross-references (from [[Genesis 47#^gen-47-29|Genesis 47:29]])
 - [[Genesis 33]] — 3 parallel verses, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Genesis 33#^gen-33-10|Genesis 33:10]]
 - [[Judges 6]] — 1 parallel verse, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Judges 6#^judg-6-17|Judges 6:17]]
+- [[Genesis 50]] — 2 parallel verses, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Genesis 50#^gen-50-4|Genesis 50:4]]
 - [[Acts 7]] — 2 parallel verses, e.g. [[Genesis 47#^gen-47-14|Genesis 47:14]] ↔ [[Acts 7#^acts-7-36|Acts 7:36]]
 - [[Genesis 46]] — 1 parallel verse, e.g. [[Genesis 47#^gen-47-1|Genesis 47:1]] ↔ [[Genesis 46#^gen-46-32|Genesis 46:32]]
 - [[Exodus 34]] — 1 parallel verse, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Exodus 34#^ex-34-9|Exodus 34:9]]
 - [[Genesis 24]] — 1 parallel verse, e.g. [[Genesis 47#^gen-47-29|Genesis 47:29]] ↔ [[Genesis 24#^gen-24-2|Genesis 24:2]]
-- [[Genesis 50]] — 0 parallel verses
 - [[Genesis 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

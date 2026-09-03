@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 17
 slug: prov-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,7 +55,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -109,3 +109,8 @@ Antithetical parallelism gives many sayings their force: quietness versus strife
 <!-- SG:BEGIN further-study -->
 Compare Proverbs 17:1 with [[Proverbs 15]] on peace at a modest meal; Proverbs 17:3 with [[Proverbs 21]] on divine examination of the heart; Proverbs 17:5 with [[Proverbs 14]] and [[Proverbs 24]] on treatment of the poor and rejoicing at calamity; Proverbs 17:9 with [[Proverbs 10]] and [[1 Peter 4]] on love covering offenses; Proverbs 17:18 with [[Proverbs 11]], [[Proverbs 20]], and [[Proverbs 22]] on surety; Proverbs 17:23 with [[Exodus 23]] on gifts that distort judgment; and Proverbs 17:27–28 with other sayings about restrained speech. [[Proverbs 18]] is also useful for studying both friendship and the social power attributed to gifts.
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

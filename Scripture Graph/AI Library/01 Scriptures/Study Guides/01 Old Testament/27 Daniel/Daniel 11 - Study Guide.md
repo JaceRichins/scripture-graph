@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 11
 slug: dan-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,17 +55,18 @@ Scripture: [[Daniel 11]] · My notes: [[Daniel 11 - My Notes]]
 - [[Mark 13]] — 0 parallel verses
 - [[Daniel 7]] — 0 parallel verses
 - [[Daniel 12]] — 0 parallel verses
+- [[Daniel 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Matthew 24]]
 - [[Prophecy]]
 - [[War and Peace]]
 - [[Pride]]
 - [[Endurance]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -82,7 +83,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abomination of desolation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

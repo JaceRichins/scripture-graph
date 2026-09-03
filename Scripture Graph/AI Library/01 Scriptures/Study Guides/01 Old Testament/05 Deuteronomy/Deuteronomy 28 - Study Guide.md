@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 28
 slug: deut-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,8 @@ _Not yet developed._
 - [[Exodus 9]] — 2 footnote cross-references (from [[Deuteronomy 28#^deut-28-27|Deuteronomy 28:27]])
 - [[Hosea 8]] — 2 footnote cross-references (from [[Deuteronomy 28#^deut-28-49|Deuteronomy 28:49]])
 - [[Lamentations 4]] — 2 footnote cross-references (from [[Deuteronomy 28#^deut-28-50|Deuteronomy 28:50]])
+- [[Deuteronomy 30]] — 14 parallel verses, e.g. [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]] ↔ [[Deuteronomy 30#^deut-30-9|Deuteronomy 30:9]]
+- [[Deuteronomy 7]] — 8 parallel verses, e.g. [[Deuteronomy 28#^deut-28-18|Deuteronomy 28:18]] ↔ [[Deuteronomy 7#^deut-7-13|Deuteronomy 7:13]]
 - [[Deuteronomy 15]] — 7 parallel verses, e.g. [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]] ↔ [[Deuteronomy 15#^deut-15-5|Deuteronomy 15:5]]
 - [[Deuteronomy 13]] — 8 parallel verses, e.g. [[Deuteronomy 28#^deut-28-1|Deuteronomy 28:1]] ↔ [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]]
 - [[Deuteronomy 27]] — 5 parallel verses, e.g. [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]] ↔ [[Deuteronomy 27#^deut-27-10|Deuteronomy 27:10]]
@@ -67,8 +69,6 @@ _Not yet developed._
 - [[Deuteronomy 19]] — 5 parallel verses, e.g. [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
 - [[Deuteronomy 23]] — 4 parallel verses, e.g. [[Deuteronomy 28#^deut-28-21|Deuteronomy 28:21]] ↔ [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]]
 - [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]] ↔ [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]]
-- [[Deuteronomy 6]] — 3 parallel verses, e.g. [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]] ↔ [[Deuteronomy 6#^deut-6-18|Deuteronomy 6:18]]
-- [[Deuteronomy 17]] — 2 parallel verses, e.g. [[Deuteronomy 28#^deut-28-14|Deuteronomy 28:14]] ↔ [[Deuteronomy 17#^deut-17-20|Deuteronomy 17:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

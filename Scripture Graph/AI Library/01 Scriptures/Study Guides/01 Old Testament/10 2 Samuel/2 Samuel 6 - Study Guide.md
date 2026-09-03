@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 6
 slug: 2sam-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,7 +64,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Law of Moses]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -82,7 +82,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

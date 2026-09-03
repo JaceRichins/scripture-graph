@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 136
 slug: dc-136
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,18 +53,24 @@ A useful outline is:
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 133]] — 2 footnote cross-references (from [[D&C 136#^dc-136-1|D&C 136:1]])
+- [[D&C 20]] — 2 footnote cross-references (from [[D&C 136#^dc-136-2|D&C 136:2]])
+- [[D&C 38]] — 2 footnote cross-references (from [[D&C 136#^dc-136-8|D&C 136:8]])
+- [[D&C 110]] — 2 footnote cross-references (from [[D&C 136#^dc-136-32|D&C 136:32]])
+- [[D&C 135]] — 2 footnote cross-references (from [[D&C 136#^dc-136-38|D&C 136:38]])
+- [[Articles of Faith 1]] — 1 footnote cross-reference (from [[D&C 136#^dc-136-1|D&C 136:1]])
 - [[Official Declaration 2]] — 4 parallel verses, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[Official Declaration 2#^od-2-2|Official Declaration 2:2]]
 - [[Official Declaration 1]] — 3 parallel verses, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[Official Declaration 1#^od-1-9|Official Declaration 1:9]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-41|D&C 136:41]] ↔ [[D&C 45#^dc-45-6|D&C 45:6]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-21|D&C 136:21]] ↔ [[Exodus 3#^ex-3-16|Exodus 3:16]]
 - [[D&C 115]] — 2 parallel verses, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[D&C 115#^dc-115-4|D&C 115:4]]
 - [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1]]
 - [[Acts 3]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-21|D&C 136:21]] ↔ [[Acts 3#^acts-3-13|Acts 3:13]]
 - [[D&C 127]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[D&C 127#^dc-127-12|D&C 127:12]]
 - [[Mosiah 7]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-22|D&C 136:22]] ↔ [[Mosiah 7#^mosiah-7-19|Mosiah 7:19]]
+- [[D&C 100]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-30|D&C 136:30]] ↔ [[D&C 100#^dc-100-1|D&C 100:1]]
 - [[D&C 128]] — 1 parallel verse, e.g. [[D&C 136#^dc-136-2|D&C 136:2]] ↔ [[D&C 128#^dc-128-21|D&C 128:21]]
 - [[Exodus 18]] — 0 parallel verses
-- [[D&C 104]] — 0 parallel verses
-- [[Ephesians 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -95,8 +101,8 @@ Joy is directed toward [[Gratitude]] through praise and thanksgiving, while sorr
 - [[Light Cleaveth unto Light (Elder Timothy J. Dyches, April 2021)|Light Cleaveth unto Light]] — Elder Timothy J. Dyches, 2021-April *(explicit citation)*
 - [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
 - [[Reverence for Sacred Things (Elder Ulisses Soares, April 2025)|Reverence for Sacred Things]] — Elder Ulisses Soares, 2025-April *(explicit citation)*
-- [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
-- [[How Can I Understand (Elder Ulisses Soares, April 2019)|How Can I Understand?]] — Elder Ulisses Soares, 2019-April *(explicit citation)*
+- [[Cleave unto the Covenants (Barbara Thompson, October 2011)|Cleave unto the Covenants]] — Barbara Thompson, 2011-October *(explicit citation)*
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

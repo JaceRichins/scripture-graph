@@ -35,7 +35,7 @@ cssclasses:
 > [[Jeremiah 11#^jer-11-9|Jer. 11:10 (9–10)]]
 
 ![[Zephaniah 1#^zeph-1-7]]
-> [[Habakkuk 2#^hab-2-20|Hab. 2:20]] · [[Isaiah 13#^isa-13-6|≈ Isaiah 13:6]] · [[Joel 1#^joel-1-15|≈ Joel 1:15]] · [[Joel 2#^joel-2-11|≈ Joel 2:11]] · [[Joel 3#^joel-3-14|≈ Joel 3:14]] · [[Obadiah 1#^obad-1-15|≈ Obadiah 1:15]] · [[2 Nephi 23#^2ne-23-6|≈ 2 Nephi 23:6]]
+> [[Habakkuk 2#^hab-2-20|Hab. 2:20]] · [[Isaiah 13#^isa-13-6|≈ Isaiah 13:6]] · [[2 Nephi 23#^2ne-23-6|≈ 2 Nephi 23:6]] · [[Joel 1#^joel-1-15|≈ Joel 1:15]] · [[Joel 2#^joel-2-11|≈ Joel 2:11]] · [[Joel 3#^joel-3-14|≈ Joel 3:14]] · [[Obadiah 1#^obad-1-15|≈ Obadiah 1:15]]
 
 ![[Zephaniah 1#^zeph-1-8]]
 > [[Mormon 8#^morm-8-36|Morm. 8:36 (36–37)]] · [[Zephaniah 2#^zeph-2-3|≈ Zephaniah 2:3]] · [[Lamentations 2#^lam-2-22|≈ Lamentations 2:22]]

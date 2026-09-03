@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 12
 slug: 2kgs-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,7 +60,7 @@ Jehoash receives a qualified positive evaluation: he does what is right while Je
 - [[2 Kings 13]] — 3 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[2 Kings 13#^2kgs-13-12|2 Kings 13:12]]
 - [[1 Kings 14]] — 3 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
 - [[2 Kings 8]] — 3 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
-- [[2 Kings 24]] — 3 parallel verses, e.g. [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]] ↔ [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]]
+- [[2 Kings 22]] — 6 parallel verses, e.g. [[2 Kings 12#^2kgs-12-2|2 Kings 12:2]] ↔ [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,7 +83,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ahaziah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

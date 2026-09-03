@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 15
 slug: rom-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ _Not yet developed._
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **Almsgiving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

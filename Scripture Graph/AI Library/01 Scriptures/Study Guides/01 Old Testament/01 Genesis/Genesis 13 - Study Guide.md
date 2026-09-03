@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 13
 slug: gen-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Genesis 24]] — 1 footnote cross-reference (from [[Genesis 13#^gen-13-2|Genesis 13:2]])
 - [[Genesis 4]] — 1 footnote cross-reference (from [[Genesis 13#^gen-13-4|Genesis 13:4]])
 - [[Genesis 28]] — 1 parallel verse, e.g. [[Genesis 13#^gen-13-15|Genesis 13:15]] ↔ [[Genesis 28#^gen-28-13|Genesis 28:13]]
+- [[Genesis 36]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,11 +68,14 @@ _Not yet developed._
 - [[Personal Peace in Challenging Times (Elder Quentin L. Cook, October 2021)|Personal Peace in Challenging Times]] — Elder Quentin L. Cook, 2021-October *(explicit citation)*
 - [[Aligning Our Will with His (Elder Ulisses Soares, October 2024)|Aligning Our Will with His]] — Elder Ulisses Soares, 2024-October *(explicit citation)*
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
+- [[The Power of Deliverance (Elder L. Tom Perry, April 2012)|The Power of Deliverance]] — Elder L. Tom Perry, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 8
 slug: rom-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,10 @@ _Not yet developed._
 - [[Colossians 3]] — 2 footnote cross-references (from [[Romans 8#^rom-8-13|Romans 8:13]])
 - [[2 Corinthians 4]] — 2 footnote cross-references (from [[Romans 8#^rom-8-24|Romans 8:24]])
 - [[Alma 13]] — 1 footnote cross-reference (from [[Romans 8#^rom-8-1|Romans 8:1]])
+- [[D&C 100]] — 0 parallel verses
+- [[D&C 98]] — 0 parallel verses
+- [[2 Corinthians 4]] — 0 parallel verses
+- [[2 Corinthians 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,10 +86,10 @@ _Not yet developed._
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Same-Sex Attraction** (reference-entry) *(explicit citation)*
+- **18 The Camp of Israel** (history) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
-- **Mortality** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

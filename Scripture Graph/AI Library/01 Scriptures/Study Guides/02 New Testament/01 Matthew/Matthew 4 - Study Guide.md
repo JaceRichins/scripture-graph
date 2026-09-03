@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 4
 slug: matt-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -81,12 +81,12 @@ _Not yet developed._
 - [[Sons and Daughters of God (Elder Rubén V. Alliaud, October 2024)|Sons and Daughters of God]] — Elder Rubén V. Alliaud, 2024-October *(explicit citation)*
 - [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
 - [[Know Who You Really Are (Elder Brik V. Eyre, October 2025)|Know Who You Really Are]] — Elder Brik V. Eyre, 2025-October *(explicit citation)*
+- [[Being a More Christian Christian (Elder Robert D. Hales, October 2012)|Being a More Christian Christian]] — Elder Robert D. Hales, 2012-October *(explicit citation)*
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
 - [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
 - [[That They Do Always Remember Him (Elder Claudio R. M. Costa, October 2015)|That They Do Always Remember Him]] — Elder Claudio R. M. Costa, 2015-October *(explicit citation)*
 - [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
-- [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

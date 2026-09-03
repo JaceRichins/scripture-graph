@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 15
 slug: ether-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -70,11 +70,11 @@ Scripture: [[Ether 15]] · My notes: [[Ether 15 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Satan and Temptation]]
 - [[Records and Sacred Writings]]
 - [[Repentance and Forgiveness]]
 - [[Kingdom of God]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

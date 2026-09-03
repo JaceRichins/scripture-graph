@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 1
 slug: gal-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[2 Corinthians 4]] — 1 footnote cross-reference (from [[Galatians 1#^gal-1-11|Galatians 1:11]])
 - [[Hebrews 13]] — 1 parallel verse, e.g. [[Galatians 1#^gal-1-5|Galatians 1:5]] ↔ [[Hebrews 13#^heb-13-21|Hebrews 13:21]]
 - [[2 Timothy 4]] — 1 parallel verse, e.g. [[Galatians 1#^gal-1-5|Galatians 1:5]] ↔ [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]]
+- [[1 Timothy 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,7 +72,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
+- **Apostle** (reference-entry) *(explicit citation)*
 - **Journal of Discourses, Volume 26** (history, ~1879) *(explicit citation)*
+- **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

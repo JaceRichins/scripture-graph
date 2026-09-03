@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 1
 slug: 1tim-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,11 +54,11 @@ The charge language near the beginning and end may frame the intervening discuss
 - [[Acts 16]] — 1 footnote cross-reference (from [[1 Timothy 1#^1tim-1-2|1 Timothy 1:2]])
 - [[1 Corinthians 4]] — 1 footnote cross-reference (from [[1 Timothy 1#^1tim-1-2|1 Timothy 1:2]])
 - [[3 Nephi 11]] — 1 footnote cross-reference (from [[1 Timothy 1#^1tim-1-3|1 Timothy 1:3]])
+- [[2 Timothy 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-14|1 Timothy 1:14]] ↔ [[2 Timothy 1#^2tim-1-13|2 Timothy 1:13]]
 - [[2 Corinthians 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]] ↔ [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]]
 - [[Ephesians 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]] ↔ [[Ephesians 1#^eph-1-1|Ephesians 1:1]]
 - [[Colossians 1]] — 2 parallel verses, e.g. [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]] ↔ [[Colossians 1#^col-1-1|Colossians 1:1]]
-- [[2 Timothy 1]] — 0 parallel verses
-- [[1 Timothy 4]] — 0 parallel verses
+- [[1 Timothy 4]] — 1 parallel verse, e.g. [[1 Timothy 1#^1tim-1-15|1 Timothy 1:15]] ↔ [[1 Timothy 4#^1tim-4-9|1 Timothy 4:9]]
 - [[Acts 22]] — 0 parallel verses
 - [[Acts 26]] — 0 parallel verses
 - [[Galatians 1]] — 0 parallel verses
@@ -90,7 +90,7 @@ The theological center is the saying that Christ came to save sinners (v. 15). T
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Alexander** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

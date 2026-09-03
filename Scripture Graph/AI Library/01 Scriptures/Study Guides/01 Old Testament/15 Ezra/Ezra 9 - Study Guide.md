@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 9
 slug: ezra-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

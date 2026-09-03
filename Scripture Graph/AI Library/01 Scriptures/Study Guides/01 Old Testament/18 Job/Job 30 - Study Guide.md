@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 30
 slug: job-30
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

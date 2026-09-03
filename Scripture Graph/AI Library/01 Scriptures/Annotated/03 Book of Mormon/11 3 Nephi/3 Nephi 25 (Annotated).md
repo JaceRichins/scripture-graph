@@ -29,7 +29,7 @@ cssclasses:
 > [[Exodus 3#^ex-3-1|Ex. 3:1]] · [[Exodus 19#^ex-19-9|19:18 (9, 16–20)]] · [[1 Kings 19#^1kgs-19-8|1 Kgs. 19:8]] · [[Nehemiah 9#^neh-9-13|Neh. 9:13]] · [[Mosiah 12#^mosiah-12-33|Mosiah 12:33]] · [[Mosiah 13#^mosiah-13-5|13:5]] · [[Malachi 4#^mal-4-4|≈ Malachi 4:4]]
 
 ![[3 Nephi 25#^3ne-25-5]]
-> [[2 Kings 2#^2kgs-2-2|2 Kgs. 2:2]] · [[D&C 2#^dc-2-1|D&amp;C 2:1]] · [[D&C 35#^dc-35-4|35:4]] · [[D&C 110#^dc-110-13|110:13 (13–16)]] · [[D&C 128#^dc-128-17|128:17 (17–18)]] · [[Malachi 4#^mal-4-5|≈ Malachi 4:5]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[Joseph Smith—History 1#^jsh-1-38|≈ Joseph Smith—History 1:38]] · [[D&C 2#^dc-2-1|≈ D&C 2:1]] · [[D&C 110#^dc-110-14|≈ D&C 110:14]]
+> [[2 Kings 2#^2kgs-2-2|2 Kgs. 2:2]] · [[D&C 2#^dc-2-1|D&amp;C 2:1]] · [[D&C 35#^dc-35-4|35:4]] · [[D&C 110#^dc-110-13|110:13 (13–16)]] · [[D&C 128#^dc-128-17|128:17 (17–18)]] · [[Joseph Smith—History 1#^jsh-1-38|≈ Joseph Smith—History 1:38]] · [[D&C 2#^dc-2-1|≈ D&C 2:1]] · [[Malachi 4#^mal-4-5|≈ Malachi 4:5]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[D&C 110#^dc-110-14|≈ D&C 110:14]]
 
 ![[3 Nephi 25#^3ne-25-6]]
 > [[D&C 98#^dc-98-16|D&amp;C 98:16 (16–17)]] · [[Malachi 4#^mal-4-6|Mal. 4:6]] · [[D&C 110#^dc-110-13|D&amp;C 110:15 (13–16)]] · [[Malachi 4#^mal-4-6|≈ Malachi 4:6]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[D&C 110#^dc-110-15|≈ D&C 110:15]]

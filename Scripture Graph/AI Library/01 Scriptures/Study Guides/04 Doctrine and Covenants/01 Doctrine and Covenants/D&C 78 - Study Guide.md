@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 78
 slug: dc-78
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,9 +47,16 @@ The chapter has four broad movements:
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 82]] — 3 footnote cross-references (from [[D&C 78#^dc-78-3|D&C 78:3]])
+- [[D&C 76]] — 3 footnote cross-references (from [[D&C 78#^dc-78-15|D&C 78:15]])
+- [[D&C 107]] — 3 footnote cross-references (from [[D&C 78#^dc-78-15|D&C 78:15]])
+- [[D&C 72]] — 2 footnote cross-references (from [[D&C 78#^dc-78-3|D&C 78:3]])
+- [[D&C 58]] — 2 footnote cross-references (from [[D&C 78#^dc-78-7|D&C 78:7]])
+- [[D&C 132]] — 2 footnote cross-references (from [[D&C 78#^dc-78-7|D&C 78:7]])
+- [[D&C 82]] — 1 parallel verse, e.g. [[D&C 78#^dc-78-12|D&C 78:12]] ↔ [[D&C 82#^dc-82-21|D&C 82:21]]
 - [[Alma 13]] — 2 parallel verses, e.g. [[D&C 78#^dc-78-16|D&C 78:16]] ↔ [[Alma 13#^alma-13-9|Alma 13:9]]
+- [[D&C 104]] — 1 parallel verse, e.g. [[D&C 78#^dc-78-12|D&C 78:12]] ↔ [[D&C 104#^dc-104-9|D&C 104:9]]
 - [[D&C 82]] — 0 parallel verses
-- [[D&C 104]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,6 +96,7 @@ The closing verses (17-22) hold gift and responsibility together: the Saints are
 ## Church History
 <!-- SG:BEGIN history -->
 - **Newel K. Whitney and the United Firm** (history) *(explicit citation)*
+- **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
 - **Gratitude** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*

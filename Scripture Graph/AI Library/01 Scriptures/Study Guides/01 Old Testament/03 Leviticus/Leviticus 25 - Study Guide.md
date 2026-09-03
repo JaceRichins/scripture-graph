@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 25
 slug: lev-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ The movement from land loss to loans to sale of one's labor traces worsening pov
 - [[Alma 50]] — 1 footnote cross-reference (from [[Leviticus 25#^lev-25-18|Leviticus 25:18]])
 - [[1 Nephi 3]] — 1 footnote cross-reference (from [[Leviticus 25#^lev-25-21|Leviticus 25:21]])
 - [[Ruth 4]] — 1 footnote cross-reference (from [[Leviticus 25#^lev-25-25|Leviticus 25:25]])
+- [[Leviticus 26]] — 5 parallel verses, e.g. [[Leviticus 25#^lev-25-38|Leviticus 25:38]] ↔ [[Leviticus 26#^lev-26-13|Leviticus 26:13]]
 - [[Numbers 15]] — 3 parallel verses, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Numbers 15#^num-15-18|Numbers 15:18]]
 - [[Leviticus 23]] — 3 parallel verses, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Leviticus 23#^lev-23-10|Leviticus 23:10]]
 - [[Leviticus 19]] — 3 parallel verses, e.g. [[Leviticus 25#^lev-25-55|Leviticus 25:55]] ↔ [[Leviticus 19#^lev-19-34|Leviticus 19:34]]
@@ -64,7 +65,6 @@ The movement from land loss to loans to sale of one's labor traces worsening pov
 - [[Ezekiel 36]] — 2 parallel verses, e.g. [[Leviticus 25#^lev-25-18|Leviticus 25:18]] ↔ [[Ezekiel 36#^ezek-36-28|Ezekiel 36:28]]
 - [[Leviticus 27]] — 1 parallel verse, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Leviticus 27#^lev-27-2|Leviticus 27:2]]
 - [[Numbers 6]] — 1 parallel verse, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Numbers 6#^num-6-2|Numbers 6:2]]
-- [[Leviticus 15]] — 1 parallel verse, e.g. [[Leviticus 25#^lev-25-2|Leviticus 25:2]] ↔ [[Leviticus 15#^lev-15-2|Leviticus 15:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,12 +86,12 @@ Jubilee also holds together divine provision and human obligation. God promises 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Redemption (Elder LeGrand R. Curtis Jr., October 2011)|Redemption]] — Elder LeGrand R. Curtis Jr., 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Agriculture** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

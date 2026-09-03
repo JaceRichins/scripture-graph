@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 26
 slug: 2ne-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,8 +53,11 @@ _Not yet developed._
 - [[Mormon 8]] — 3 footnote cross-references (from [[2 Nephi 26#^2ne-26-3|2 Nephi 26:3]])
 - [[Mormon 5]] — 3 footnote cross-references (from [[2 Nephi 26#^2ne-26-12|2 Nephi 26:12]])
 - [[Isaiah 29]] — 3 footnote cross-references (from [[2 Nephi 26#^2ne-26-15|2 Nephi 26:15]])
+- [[Isaiah 29]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-16|2 Nephi 26:16]] ↔ [[Isaiah 29#^isa-29-4|Isaiah 29:4]]
+- [[Malachi 4]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]] ↔ [[Malachi 4#^mal-4-1|Malachi 4:1]]
 - [[3 Nephi 25]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]] ↔ [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]]
 - [[D&C 133]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]] ↔ [[D&C 133#^dc-133-64|D&C 133:64]]
+- [[Moroni 10]] — 3 parallel verses, e.g. [[2 Nephi 26#^2ne-26-13|2 Nephi 26:13]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
 - [[Jacob 2]] — 3 parallel verses, e.g. [[2 Nephi 26#^2ne-26-25|2 Nephi 26:25]] ↔ [[Jacob 2#^jacob-2-14|Jacob 2:14]]
 - [[Alma 4]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-20|2 Nephi 26:20]] ↔ [[Alma 4#^alma-4-8|Alma 4:8]]
 - [[Alma 5]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-23|2 Nephi 26:23]] ↔ [[Alma 5#^alma-5-50|Alma 5:50]]
@@ -62,21 +65,18 @@ _Not yet developed._
 - [[Moroni 6]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-13|2 Nephi 26:13]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
 - [[Ether 15]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-7|2 Nephi 26:7]] ↔ [[Ether 15#^ether-15-16|Ether 15:16]]
 - [[Mosiah 11]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-20|2 Nephi 26:20]] ↔ [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]]
-- [[1 Nephi 10]] — 2 parallel verses, e.g. [[2 Nephi 26#^2ne-26-13|2 Nephi 26:13]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
-- [[Isaiah 29]] — 0 parallel verses
-- [[Moroni 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Charity]]
 - [[Secret Combinations]]
-- [[Jews and Gentiles]]
-- [[Pride]]
 - [[Records and Sacred Writings]]
 - [[Satan and Temptation]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Apostasy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -108,6 +108,8 @@ _Not yet developed._
 - **Race and the Priesthood** (reference-entry) *(explicit citation)*
 - **Racial and Cultural Prejudice** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **07 Fellow Servants** (history) *(explicit citation)*
+- **16 Only a Prelude** (history) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*

@@ -23,7 +23,7 @@ cssclasses:
 > [[Leviticus 16#^lev-16-3|≈ Leviticus 16:3]]
 
 ![[Leviticus 9#^lev-9-3]]
-> [[Leviticus 10#^lev-10-16|Lev. 10:16 (16–19)]] · [[Numbers 6#^num-6-14|≈ Numbers 6:14]] · [[Numbers 7#^num-7-16|≈ Numbers 7:16]] · [[Numbers 7#^num-7-22|≈ Numbers 7:22]] · [[Numbers 7#^num-7-28|≈ Numbers 7:28]] · [[Numbers 7#^num-7-34|≈ Numbers 7:34]] · [[Numbers 7#^num-7-40|≈ Numbers 7:40]]
+> [[Leviticus 10#^lev-10-16|Lev. 10:16 (16–19)]] · [[Numbers 7#^num-7-16|≈ Numbers 7:16]] · [[Numbers 7#^num-7-22|≈ Numbers 7:22]] · [[Numbers 7#^num-7-28|≈ Numbers 7:28]] · [[Numbers 7#^num-7-34|≈ Numbers 7:34]] · [[Numbers 7#^num-7-40|≈ Numbers 7:40]] · [[Numbers 7#^num-7-46|≈ Numbers 7:46]]
 
 ![[Leviticus 9#^lev-9-4]]
 > [[D&C 67#^dc-67-10|D&amp;C 67:10 (10–12)]] · [[D&C 88#^dc-88-68|88:68]] · [[D&C 93#^dc-93-1|93:1]] · [[Numbers 28#^num-28-12|≈ Numbers 28:12]]

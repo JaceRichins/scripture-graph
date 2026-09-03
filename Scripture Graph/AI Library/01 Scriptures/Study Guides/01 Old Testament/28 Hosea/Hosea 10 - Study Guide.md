@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 10
 slug: hosea-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,13 +56,14 @@ _Not yet developed._
 - [[Hosea 9]] — 0 parallel verses
 - [[Jeremiah 4]] — 0 parallel verses
 - [[Hosea 8]] — 0 parallel verses
+- [[Jeremiah 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Scattering of Israel]]
 - [[Repentance and Forgiveness]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

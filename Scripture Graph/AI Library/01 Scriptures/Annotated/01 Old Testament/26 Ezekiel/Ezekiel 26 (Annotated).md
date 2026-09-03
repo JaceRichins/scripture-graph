@@ -17,7 +17,7 @@ cssclasses:
 > Because she rejoiced in the sorrows and fall of Jerusalem, Tyre will be destroyed.
 
 ![[Ezekiel 26#^ezek-26-1]]
-> [[Ezekiel 1#^ezek-1-2|Ezek. 1:2]] · [[Ezekiel 33#^ezek-33-21|33:21]] · [[Ezekiel 29#^ezek-29-17|≈ Ezekiel 29:17]] · [[Ezekiel 31#^ezek-31-1|≈ Ezekiel 31:1]] · [[Ezekiel 32#^ezek-32-1|≈ Ezekiel 32:1]] · [[Ezekiel 32#^ezek-32-17|≈ Ezekiel 32:17]] · [[Ezekiel 30#^ezek-30-20|≈ Ezekiel 30:20]]
+> [[Ezekiel 1#^ezek-1-2|Ezek. 1:2]] · [[Ezekiel 33#^ezek-33-21|33:21]] · [[Ezekiel 32#^ezek-32-1|≈ Ezekiel 32:1]] · [[Ezekiel 32#^ezek-32-17|≈ Ezekiel 32:17]] · [[Ezekiel 29#^ezek-29-17|≈ Ezekiel 29:17]] · [[Ezekiel 31#^ezek-31-1|≈ Ezekiel 31:1]] · [[Ezekiel 30#^ezek-30-20|≈ Ezekiel 30:20]]
 
 ![[Ezekiel 26#^ezek-26-2]]
 > [[Isaiah 23#^isa-23-1|Isa. 23:1]] · [[Amos 1#^amos-1-9|Amos 1:9]]
@@ -66,6 +66,6 @@ cssclasses:
 > [[3 Nephi 10#^3ne-10-7|3 Ne. 10:7 (7–8)]] · [[Ezekiel 27#^ezek-27-34|Ezek. 27:34]] · [[3 Nephi 9#^3ne-9-7|3 Ne. 9:7 (7–8)]] · [[Ezekiel 28#^ezek-28-25|≈ Ezekiel 28:25]]
 
 ![[Ezekiel 26#^ezek-26-20]]
-> [[Ezekiel 31#^ezek-31-14|≈ Ezekiel 31:14]] · [[Ezekiel 31#^ezek-31-16|≈ Ezekiel 31:16]] · [[Ezekiel 32#^ezek-32-24|≈ Ezekiel 32:24]] · [[Ezekiel 32#^ezek-32-25|≈ Ezekiel 32:25]] · [[Ezekiel 32#^ezek-32-29|≈ Ezekiel 32:29]] · [[Ezekiel 32#^ezek-32-30|≈ Ezekiel 32:30]]
+> [[Ezekiel 32#^ezek-32-24|≈ Ezekiel 32:24]] · [[Ezekiel 32#^ezek-32-25|≈ Ezekiel 32:25]] · [[Ezekiel 32#^ezek-32-29|≈ Ezekiel 32:29]] · [[Ezekiel 32#^ezek-32-30|≈ Ezekiel 32:30]] · [[Ezekiel 31#^ezek-31-14|≈ Ezekiel 31:14]] · [[Ezekiel 31#^ezek-31-16|≈ Ezekiel 31:16]]
 
 ![[Ezekiel 26#^ezek-26-21]]

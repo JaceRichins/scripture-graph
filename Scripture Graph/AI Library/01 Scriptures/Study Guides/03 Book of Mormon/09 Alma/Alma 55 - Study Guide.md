@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 55
 slug: alma-55
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,8 +58,8 @@ Scripture: [[Alma 55]] · My notes: [[Alma 55 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Freedom and Liberty]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

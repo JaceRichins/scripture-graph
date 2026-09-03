@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 14
 slug: 3ne-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,18 +51,18 @@ _Not yet developed._
 - [[Luke 13]] — 2 footnote cross-references (from [[3 Nephi 14#^3ne-14-13|3 Nephi 14:13]])
 - [[Mormon 8]] — 1 footnote cross-reference (from [[3 Nephi 14#^3ne-14-2|3 Nephi 14:2]])
 - [[John 8]] — 1 footnote cross-reference (from [[3 Nephi 14#^3ne-14-5|3 Nephi 14:5]])
+- [[Matthew 7]] — 31 parallel verses, e.g. [[3 Nephi 14#^3ne-14-22|3 Nephi 14:22]] ↔ [[Matthew 7#^matt-7-22|Matthew 7:22]]
+- [[Luke 6]] — 8 parallel verses, e.g. [[3 Nephi 14#^3ne-14-3|3 Nephi 14:3]] ↔ [[Luke 6#^luke-6-41|Luke 6:41]]
+- [[Luke 11]] — 4 parallel verses, e.g. [[3 Nephi 14#^3ne-14-8|3 Nephi 14:8]] ↔ [[Luke 11#^luke-11-10|Luke 11:10]]
+- [[3 Nephi 27]] — 6 parallel verses, e.g. [[3 Nephi 14#^3ne-14-14|3 Nephi 14:14]] ↔ [[3 Nephi 27#^3ne-27-33|3 Nephi 27:33]]
 - [[3 Nephi 15]] — 4 parallel verses, e.g. [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]] ↔ [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]]
+- [[Alma 5]] — 3 parallel verses, e.g. [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]] ↔ [[Alma 5#^alma-5-52|Alma 5:52]]
 - [[3 Nephi 18]] — 2 parallel verses, e.g. [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]] ↔ [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]]
 - [[Matthew 3]] — 1 parallel verse, e.g. [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]] ↔ [[Matthew 3#^matt-3-10|Matthew 3:10]]
 - [[Luke 3]] — 1 parallel verse, e.g. [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]] ↔ [[Luke 3#^luke-3-9|Luke 3:9]]
 - [[Jacob 5]] — 3 parallel verses, e.g. [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]] ↔ [[Jacob 5#^jacob-5-42|Jacob 5:42]]
 - [[D&C 132]] — 2 parallel verses, e.g. [[3 Nephi 14#^3ne-14-14|3 Nephi 14:14]] ↔ [[D&C 132#^dc-132-22|D&C 132:22]]
 - [[D&C 97]] — 1 parallel verse, e.g. [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]] ↔ [[D&C 97#^dc-97-7|D&C 97:7]]
-- [[Mark 4]] — 1 parallel verse, e.g. [[3 Nephi 14#^3ne-14-2|3 Nephi 14:2]] ↔ [[Mark 4#^mark-4-24|Mark 4:24]]
-- [[D&C 45]] — 2 parallel verses, e.g. [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]] ↔ [[D&C 45#^dc-45-50|D&C 45:50]]
-- [[3 Nephi 17]] — 1 parallel verse, e.g. [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]] ↔ [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]]
-- [[3 Nephi 28]] — 1 parallel verse, e.g. [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]] ↔ [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]]
-- [[3 Nephi 13]] — 1 parallel verse, e.g. [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

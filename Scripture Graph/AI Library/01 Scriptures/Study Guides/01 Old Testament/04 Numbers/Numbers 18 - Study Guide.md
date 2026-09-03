@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 18
 slug: num-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,17 +52,17 @@ _Not yet developed._
 - [[Exodus 29]] — 2 footnote cross-references (from [[Numbers 18#^num-18-8|Numbers 18:8]])
 - [[Leviticus 6]] — 2 footnote cross-references (from [[Numbers 18#^num-18-9|Numbers 18:9]])
 - [[Numbers 7]] — 15 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Numbers 7#^num-7-5|Numbers 7:5]]
+- [[Numbers 3]] — 7 parallel verses, e.g. [[Numbers 18#^num-18-7|Numbers 18:7]] ↔ [[Numbers 3#^num-3-10|Numbers 3:10]]
+- [[Numbers 8]] — 6 parallel verses, e.g. [[Numbers 18#^num-18-6|Numbers 18:6]] ↔ [[Numbers 8#^num-8-19|Numbers 8:19]]
 - [[Numbers 15]] — 6 parallel verses, e.g. [[Numbers 18#^num-18-17|Numbers 18:17]] ↔ [[Numbers 15#^num-15-10|Numbers 15:10]]
 - [[Leviticus 23]] — 4 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Leviticus 23#^lev-23-14|Leviticus 23:14]]
 - [[Leviticus 10]] — 4 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Leviticus 10#^lev-10-9|Leviticus 10:9]]
+- [[Leviticus 22]] — 4 parallel verses, e.g. [[Numbers 18#^num-18-19|Numbers 18:19]] ↔ [[Leviticus 22#^lev-22-3|Leviticus 22:3]]
 - [[Numbers 1]] — 3 parallel verses, e.g. [[Numbers 18#^num-18-7|Numbers 18:7]] ↔ [[Numbers 1#^num-1-51|Numbers 1:51]]
 - [[Leviticus 6]] — 3 parallel verses, e.g. [[Numbers 18#^num-18-23|Numbers 18:23]] ↔ [[Leviticus 6#^lev-6-18|Leviticus 6:18]]
 - [[Leviticus 1]] — 3 parallel verses, e.g. [[Numbers 18#^num-18-17|Numbers 18:17]] ↔ [[Leviticus 1#^lev-1-9|Leviticus 1:9]]
 - [[Leviticus 2]] — 3 parallel verses, e.g. [[Numbers 18#^num-18-17|Numbers 18:17]] ↔ [[Leviticus 2#^lev-2-2|Leviticus 2:2]]
 - [[Exodus 28]] — 2 parallel verses, e.g. [[Numbers 18#^num-18-19|Numbers 18:19]] ↔ [[Exodus 28#^ex-28-38|Exodus 28:38]]
-- [[Numbers 28]] — 2 parallel verses, e.g. [[Numbers 18#^num-18-17|Numbers 18:17]] ↔ [[Numbers 28#^num-28-2|Numbers 28:2]]
-- [[Leviticus 3]] — 2 parallel verses, e.g. [[Numbers 18#^num-18-17|Numbers 18:17]] ↔ [[Leviticus 3#^lev-3-16|Leviticus 3:16]]
-- [[Numbers 16]] — 2 parallel verses, e.g. [[Numbers 18#^num-18-6|Numbers 18:6]] ↔ [[Numbers 16#^num-16-9|Numbers 16:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,7 +89,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

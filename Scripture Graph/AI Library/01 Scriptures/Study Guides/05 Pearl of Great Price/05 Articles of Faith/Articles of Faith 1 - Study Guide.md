@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Articles of Faith
 chapter: 1
 slug: aoff-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -39,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 134]] — 3 footnote cross-references (from [[Articles of Faith 1#^aoff-1-11|Articles of Faith 1:11]])
+- [[D&C 93]] — 2 footnote cross-references (from [[Articles of Faith 1#^aoff-1-3|Articles of Faith 1:3]])
+- [[Micah 4]] — 2 footnote cross-references (from [[Articles of Faith 1#^aoff-1-10|Articles of Faith 1:10]])
+- [[Exodus 32]] — 1 footnote cross-reference (from [[Articles of Faith 1#^aoff-1-2|Articles of Faith 1:2]])
+- [[Deuteronomy 24]] — 1 footnote cross-reference (from [[Articles of Faith 1#^aoff-1-2|Articles of Faith 1:2]])
+- [[Ezekiel 18]] — 1 footnote cross-reference (from [[Articles of Faith 1#^aoff-1-2|Articles of Faith 1:2]])
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[Articles of Faith 1#^aoff-1-4|Articles of Faith 1:4]] ↔ [[Joseph Smith—History 1#^jsh-1-69|Joseph Smith—History 1:69]]
 <!-- SG:END related-scriptures -->
 

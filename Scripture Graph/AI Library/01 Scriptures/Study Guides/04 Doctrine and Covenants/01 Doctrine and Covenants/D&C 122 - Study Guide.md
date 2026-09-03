@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 122
 slug: dc-122
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 121]] — 4 footnote cross-references (from [[D&C 122#^dc-122-3|D&C 122:3]])
+- [[Joseph Smith—History 1]] — 2 footnote cross-references (from [[D&C 122#^dc-122-1|D&C 122:1]])
+- [[2 Corinthians 11]] — 2 footnote cross-references (from [[D&C 122#^dc-122-5|D&C 122:5]])
+- [[Job 30]] — 1 footnote cross-reference (from [[D&C 122#^dc-122-1|D&C 122:1]])
+- [[Psalm 119]] — 1 footnote cross-reference (from [[D&C 122#^dc-122-1|D&C 122:1]])
+- [[Jeremiah 20]] — 1 footnote cross-reference (from [[D&C 122#^dc-122-1|D&C 122:1]])
 - [[D&C 121]] — 0 parallel verses
 - [[2 Corinthians 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -75,10 +81,10 @@ The assurance that [[Priesthood]] will remain is personal and ordeal-specific. I
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Ladder of Faith (Elder Larry S. Kacher, April 2022)|Ladder of Faith]] — Elder Larry S. Kacher, 2022-April *(explicit citation)*
 - [[All Things for Our Good (Elder Gerrit W. Gong, April 2024)|All Things for Our Good]] — Elder Gerrit W. Gong, 2024-April *(explicit citation)*
+- [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
 - [[Hold on Thy Way (Elder Koichi Aoyagi, October 2015)|Hold on Thy Way]] — Elder Koichi Aoyagi, 2015-October *(explicit citation)*
 - [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
 - [[“A Choice Seer Will I Raise Up” (Elder Craig C. Christensen, October 2016)|“A Choice Seer Will I Raise Up”]] — Elder Craig C. Christensen, 2016-October *(explicit citation)*
-- [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -86,10 +92,13 @@ The assurance that [[Priesthood]] will remain is personal and ordeal-specific. I
 - **Council in Heaven** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Suicide** (reference-entry) *(explicit citation)*
+- **31 How Will This End?** (history) *(explicit citation)*
+- **33 O God, Where Art Thou?** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Mortality** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
+- **Part 3: Cast into the Deep, April 1836–April 1839** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

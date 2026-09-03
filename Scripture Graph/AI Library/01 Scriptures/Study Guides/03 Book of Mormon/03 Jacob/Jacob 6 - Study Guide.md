@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 6
 slug: jacob-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,11 +51,11 @@ _Not yet developed._
 - [[Moroni 10]] — 3 parallel verses, e.g. [[Jacob 6#^jacob-6-4|Jacob 6:4]] ↔ [[Moroni 10#^moro-10-21|Moroni 10:21]]
 - [[2 Nephi 25]] — 2 parallel verses, e.g. [[Jacob 6#^jacob-6-2|Jacob 6:2]] ↔ [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[Jacob 6#^jacob-6-7|Jacob 6:7]] ↔ [[D&C 45#^dc-45-50|D&C 45:50]]
+- [[2 Nephi 9]] — 2 parallel verses, e.g. [[Jacob 6#^jacob-6-4|Jacob 6:4]] ↔ [[2 Nephi 9#^2ne-9-23|2 Nephi 9:23]]
 - [[Hebrews 3]] — 1 parallel verse, e.g. [[Jacob 6#^jacob-6-6|Jacob 6:6]] ↔ [[Hebrews 3#^heb-3-15|Hebrews 3:15]]
 - [[Hebrews 4]] — 1 parallel verse, e.g. [[Jacob 6#^jacob-6-6|Jacob 6:6]] ↔ [[Hebrews 4#^heb-4-7|Hebrews 4:7]]
 - [[Isaiah 11]] — 1 parallel verse, e.g. [[Jacob 6#^jacob-6-2|Jacob 6:2]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
 - [[2 Nephi 21]] — 1 parallel verse, e.g. [[Jacob 6#^jacob-6-2|Jacob 6:2]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
-- [[3 Nephi 27]] — 2 parallel verses, e.g. [[Jacob 6#^jacob-6-7|Jacob 6:7]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

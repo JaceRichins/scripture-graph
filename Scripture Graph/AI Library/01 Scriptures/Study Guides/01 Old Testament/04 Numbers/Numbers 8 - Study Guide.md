@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 8
 slug: num-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ Numbers 8 falls into three parts. Verses 1-4 briefly report that Aaron lit the g
 - [[D&C 94]] — 1 footnote cross-reference (from [[Numbers 8#^num-8-4|Numbers 8:4]])
 - [[D&C 97]] — 1 footnote cross-reference (from [[Numbers 8#^num-8-4|Numbers 8:4]])
 - [[Numbers 3]] — 8 parallel verses, e.g. [[Numbers 8#^num-8-19|Numbers 8:19]] ↔ [[Numbers 3#^num-3-8|Numbers 3:8]]
+- [[Numbers 18]] — 6 parallel verses, e.g. [[Numbers 8#^num-8-19|Numbers 8:19]] ↔ [[Numbers 18#^num-18-6|Numbers 18:6]]
 - [[Leviticus 15]] — 2 parallel verses, e.g. [[Numbers 8#^num-8-12|Numbers 8:12]] ↔ [[Leviticus 15#^lev-15-30|Leviticus 15:30]]
 - [[Numbers 7]] — 3 parallel verses, e.g. [[Numbers 8#^num-8-15|Numbers 8:15]] ↔ [[Numbers 7#^num-7-5|Numbers 7:5]]
 - [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 8#^num-8-20|Numbers 8:20]] ↔ [[Exodus 35#^ex-35-20|Exodus 35:20]]
@@ -60,7 +61,6 @@ Numbers 8 falls into three parts. Verses 1-4 briefly report that Aaron lit the g
 - [[Leviticus 14]] — 1 parallel verse, e.g. [[Numbers 8#^num-8-12|Numbers 8:12]] ↔ [[Leviticus 14#^lev-14-31|Leviticus 14:31]]
 - [[Exodus 30]] — 2 parallel verses, e.g. [[Numbers 8#^num-8-12|Numbers 8:12]] ↔ [[Exodus 30#^ex-30-15|Exodus 30:15]]
 - [[Leviticus 5]] — 1 parallel verse, e.g. [[Numbers 8#^num-8-12|Numbers 8:12]] ↔ [[Leviticus 5#^lev-5-7|Leviticus 5:7]]
-- [[Exodus 16]] — 2 parallel verses, e.g. [[Numbers 8#^num-8-20|Numbers 8:20]] ↔ [[Exodus 16#^ex-16-1|Exodus 16:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

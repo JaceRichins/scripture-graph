@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 18
 slug: rev-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,9 @@ _Not yet developed._
 - [[Revelation 14]] — 2 parallel verses, e.g. [[Revelation 18#^rev-18-3|Revelation 18:3]] ↔ [[Revelation 14#^rev-14-8|Revelation 14:8]]
 - [[D&C 35]] — 1 parallel verse, e.g. [[Revelation 18#^rev-18-3|Revelation 18:3]] ↔ [[D&C 35#^dc-35-11|D&C 35:11]]
 - [[Jeremiah 25]] — 0 parallel verses
+- [[Jeremiah 51]] — 0 parallel verses
+- [[Ezekiel 27]] — 0 parallel verses
+- [[Ezekiel 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,7 +71,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
+- **Adultery** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

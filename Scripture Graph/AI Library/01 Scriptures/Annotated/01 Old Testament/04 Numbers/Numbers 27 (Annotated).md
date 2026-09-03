@@ -69,7 +69,7 @@ cssclasses:
 > [[Leviticus 16#^lev-16-1|Lev. 16:32 (1–34)]] · [[Joshua 9#^josh-9-14|Josh. 9:14]]
 
 ![[Numbers 27#^num-27-22]]
-> [[Leviticus 8#^lev-8-4|≈ Leviticus 8:4]] · [[Numbers 20#^num-20-27|≈ Numbers 20:27]]
+> [[Numbers 20#^num-20-27|≈ Numbers 20:27]] · [[Leviticus 8#^lev-8-4|≈ Leviticus 8:4]]
 
 ![[Numbers 27#^num-27-23]]
 > [[Numbers 36#^num-36-13|≈ Numbers 36:13]] · [[Leviticus 8#^lev-8-36|≈ Leviticus 8:36]] · [[Joshua 14#^josh-14-2|≈ Joshua 14:2]] · [[Joshua 21#^josh-21-8|≈ Joshua 21:8]] · [[Joshua 21#^josh-21-2|≈ Joshua 21:2]]

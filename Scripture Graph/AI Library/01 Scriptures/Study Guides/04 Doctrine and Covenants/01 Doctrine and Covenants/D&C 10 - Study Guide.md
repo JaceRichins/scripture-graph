@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 10
 slug: dc-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 - [[Serve (Elder Carl B. Cook, October 2016)|Serve]] — Elder Carl B. Cook, 2016-October *(explicit citation)*
@@ -89,20 +90,19 @@ _Not yet developed._
 - [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
 - [[Come unto Christ—Living as Latter-day Saints (Elder John A. McCune, April 2020)|Come unto Christ—Living as Latter-day Saints]] — Elder John A. McCune, 2020-April *(explicit citation)*
 - [[Watch Ye Therefore, and Pray Always (President M. Russell Ballard, October 2020)|Watch Ye Therefore, and Pray Always]] — President M. Russell Ballard, 2020-October *(explicit citation)*
-- [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 - **‘Build Up My Church’** (history) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
+- **03 Plates of Gold** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Diversity and Unity in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
-- **Urim and Thummim** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

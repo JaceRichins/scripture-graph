@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 18
 slug: prov-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,19 +51,21 @@ _Not yet developed._
 - [[Psalm 64]] — 1 footnote cross-reference (from [[Proverbs 18#^prov-18-7|Proverbs 18:7]])
 - [[2 Samuel 22]] — 1 footnote cross-reference (from [[Proverbs 18#^prov-18-10|Proverbs 18:10]])
 - [[Psalm 61]] — 1 footnote cross-reference (from [[Proverbs 18#^prov-18-10|Proverbs 18:10]])
+- [[Proverbs 26]] — 1 parallel verse, e.g. [[Proverbs 18#^prov-18-8|Proverbs 18:8]] ↔ [[Proverbs 26#^prov-26-22|Proverbs 26:22]]
 - [[Proverbs 10]] — 1 parallel verse, e.g. [[Proverbs 18#^prov-18-11|Proverbs 18:11]] ↔ [[Proverbs 10#^prov-10-15|Proverbs 10:15]]
-- [[Proverbs 26]] — 0 parallel verses
 - [[Proverbs 10]] — 0 parallel verses
 - [[Ecclesiastes 10]] — 0 parallel verses
 - [[Proverbs 16]] — 0 parallel verses
 - [[Proverbs 19]] — 0 parallel verses
+- [[Proverbs 27]] — 0 parallel verses
+- [[Proverbs 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Pride]]
 - [[Work and Self-Reliance]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 4
 slug: 1chr-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -63,7 +63,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Amalek, Amalekites** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

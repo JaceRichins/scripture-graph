@@ -26,7 +26,7 @@ cssclasses:
 > [[Jacob 7#^jacob-7-27|Jacob 7:27]] · [[Jarom 1#^jarom-1-2|Jarom 1:2 (2, 14)]] · [[Omni 1#^omni-1-1|Omni 1:1, 30]]
 
 ![[1 Nephi 6#^1ne-6-4]]
-> [[Luke 1#^luke-1-3|Luke 1:4 (3–4)]] · [[John 20#^john-20-30|John 20:31 (30–31)]] · [[2 Nephi 9#^2ne-9-41|2 Ne. 9:41 (41, 45, 51)]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]] · [[Acts 7#^acts-7-32|≈ Acts 7:32]] · [[Alma 36#^alma-36-2|≈ Alma 36:2]] · [[3 Nephi 4#^3ne-4-30|≈ 3 Nephi 4:30]]
+> [[Luke 1#^luke-1-3|Luke 1:4 (3–4)]] · [[John 20#^john-20-30|John 20:31 (30–31)]] · [[2 Nephi 9#^2ne-9-41|2 Ne. 9:41 (41, 45, 51)]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Exodus 3#^ex-3-6|≈ Exodus 3:6]] · [[Exodus 3#^ex-3-15|≈ Exodus 3:15]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]] · [[Acts 7#^acts-7-32|≈ Acts 7:32]]
 
 ![[1 Nephi 6#^1ne-6-5]]
 > [[Galatians 1#^gal-1-10|Gal. 1:10]] · [[1 Thessalonians 2#^1thes-2-4|1 Thes. 2:4]] · [[Hebrews 13#^heb-13-21|Heb. 13:21]] · [[Words of Mormon 1#^wofm-1-4|W of M 1:4]]

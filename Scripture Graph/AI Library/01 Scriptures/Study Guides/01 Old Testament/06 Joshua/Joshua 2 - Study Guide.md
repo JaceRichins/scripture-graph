@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 2
 slug: josh-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,12 +49,13 @@ The chapter is framed by a simple departure-and-return frame: Joshua sends the t
 - [[Exodus 13]] — 2 parallel verses, e.g. [[Joshua 2#^josh-2-14|Joshua 2:14]] ↔ [[Exodus 13#^ex-13-5|Exodus 13:5]]
 - [[Exodus 15]] — 0 parallel verses
 - [[Joshua 7]] — 0 parallel verses
+- [[Joshua 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[Covenants]]
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

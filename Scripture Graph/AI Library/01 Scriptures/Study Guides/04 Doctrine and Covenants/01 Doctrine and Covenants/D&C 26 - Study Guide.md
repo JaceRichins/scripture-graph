@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 26
 slug: dc-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 26]] · My notes: [[D&C 26 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1, They are instructed to study the scriptures and to preach; 2, The law of common consent is affirmed.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 28]] — 2 parallel verses, e.g. [[D&C 26#^dc-26-2|D&C 26:2]] ↔ [[D&C 28#^dc-28-13|D&C 28:13]]
+- [[D&C 24]] — 1 footnote cross-reference (from [[D&C 26#^dc-26-1|D&C 26:1]])
+- [[D&C 37]] — 1 footnote cross-reference (from [[D&C 26#^dc-26-1|D&C 26:1]])
+- [[1 Samuel 8]] — 1 footnote cross-reference (from [[D&C 26#^dc-26-2|D&C 26:2]])
+- [[Mosiah 29]] — 1 footnote cross-reference (from [[D&C 26#^dc-26-2|D&C 26:2]])
+- [[Alma 29]] — 1 footnote cross-reference (from [[D&C 26#^dc-26-2|D&C 26:2]])
+- [[1 Chronicles 13]] — 1 footnote cross-reference (from [[D&C 26#^dc-26-2|D&C 26:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +71,7 @@ _Not yet developed._
 - **Joseph Smith’s Support at Home** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
+- **Sources Cited** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

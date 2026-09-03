@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 80
 slug: dc-80
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 80]] · My notes: [[D&C 80 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–5, Stephen Burnett and Eden Smith are called to preach in whatever place they choose.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 75]] — 2 footnote cross-references (from [[D&C 80#^dc-80-1|D&C 80:1]])
+- [[Mark 16]] — 1 footnote cross-reference (from [[D&C 80#^dc-80-1|D&C 80:1]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[D&C 80#^dc-80-4|D&C 80:4]])
 - [[D&C 71]] — 2 parallel verses, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
 - [[D&C 75]] — 1 parallel verse, e.g. [[D&C 80#^dc-80-3|D&C 80:3]] ↔ [[D&C 75#^dc-75-26|D&C 75:26]]
 - [[Mark 16]] — 1 parallel verse, e.g. [[D&C 80#^dc-80-1|D&C 80:1]] ↔ [[Mark 16#^mark-16-15|Mark 16:15]]
@@ -64,6 +68,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
 - [[Do What Mattereth Most (Rebecca L. Craven, April 2022)|Do What Mattereth Most]] — Rebecca L. Craven, 2022-April *(explicit citation)*
+- [[The Spirit of Revelation (Elder David A. Bednar, April 2011)|The Spirit of Revelation]] — Elder David A. Bednar, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

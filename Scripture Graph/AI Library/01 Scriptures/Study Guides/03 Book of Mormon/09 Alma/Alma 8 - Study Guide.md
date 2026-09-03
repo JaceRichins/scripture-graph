@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 8
 slug: alma-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,12 +57,12 @@ _Not yet developed._
 - [[3 Nephi 19]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-30|Alma 8:30]] ↔ [[3 Nephi 19#^3ne-19-13|3 Nephi 19:13]]
 - [[Alma 16]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-14|Alma 8:14]] ↔ [[Alma 16#^alma-16-3|Alma 16:3]]
 - [[Helaman 16]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-9|Alma 8:9]] ↔ [[Helaman 16#^hel-16-23|Helaman 16:23]]
+- [[1 Nephi 1]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-1|Alma 8:1]] ↔ [[1 Nephi 1#^1ne-1-7|1 Nephi 1:7]]
 - [[Alma 51]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-9|Alma 8:9]] ↔ [[Alma 51#^alma-51-9|Alma 51:9]]
 - [[1 Nephi 3]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-14|Alma 8:14]] ↔ [[1 Nephi 3#^1ne-3-17|1 Nephi 3:17]]
 - [[Alma 59]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-14|Alma 8:14]] ↔ [[Alma 59#^alma-59-11|Alma 59:11]]
 - [[3 Nephi 2]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-14|Alma 8:14]] ↔ [[3 Nephi 2#^3ne-2-18|3 Nephi 2:18]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-3|Alma 8:3]] ↔ [[Alma 2#^alma-2-34|Alma 2:34]]
-- [[1 Nephi 1]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-1|Alma 8:1]] ↔ [[1 Nephi 1#^1ne-1-7|1 Nephi 1:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,6 +85,7 @@ _Not yet developed._
 - [[Lift Up Your Head and Rejoice (M. Joseph Brough, October 2018)|Lift Up Your Head and Rejoice]] — M. Joseph Brough, 2018-October *(explicit citation)*
 - [[Ask, Seek, and Knock (Milton Camargo, October 2020)|Ask, Seek, and Knock]] — Milton Camargo, 2020-October *(explicit citation)*
 - [[The Preparatory Priesthood (President Henry B. Eyring, October 2014)|The Preparatory Priesthood]] — President Henry B. Eyring, 2014-October *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

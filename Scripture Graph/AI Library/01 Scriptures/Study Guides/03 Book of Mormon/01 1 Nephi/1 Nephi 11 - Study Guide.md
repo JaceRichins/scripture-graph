@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 11
 slug: 1ne-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,15 +45,16 @@ The chapter is built from a repeating dialogue unit: a heavenly guide asks a que
 - [[Luke 1]] — 2 footnote cross-references (from [[1 Nephi 11#^1ne-11-13|1 Nephi 11:13]])
 - [[Matthew 1]] — 2 footnote cross-references (from [[1 Nephi 11#^1ne-11-18|1 Nephi 11:18]])
 - [[1 Nephi 12]] — 2 footnote cross-references (from [[1 Nephi 11#^1ne-11-29|1 Nephi 11:29]])
+- [[1 Nephi 14]] — 14 parallel verses, e.g. [[1 Nephi 11#^1ne-11-35|1 Nephi 11:35]] ↔ [[1 Nephi 14#^1ne-14-29|1 Nephi 14:29]]
+- [[1 Nephi 13]] — 12 parallel verses, e.g. [[1 Nephi 11#^1ne-11-32|1 Nephi 11:32]] ↔ [[1 Nephi 13#^1ne-13-1|1 Nephi 13:1]]
 - [[Moses 7]] — 10 parallel verses, e.g. [[1 Nephi 11#^1ne-11-24|1 Nephi 11:24]] ↔ [[Moses 7#^moses-7-9|Moses 7:9]]
+- [[1 Nephi 12]] — 10 parallel verses, e.g. [[1 Nephi 11#^1ne-11-8|1 Nephi 11:8]] ↔ [[1 Nephi 12#^1ne-12-11|1 Nephi 12:11]]
 - [[Acts 8]] — 2 parallel verses, e.g. [[1 Nephi 11#^1ne-11-35|1 Nephi 11:35]] ↔ [[Acts 8#^acts-8-26|Acts 8:26]]
 - [[3 Nephi 11]] — 2 parallel verses, e.g. [[1 Nephi 11#^1ne-11-33|1 Nephi 11:33]] ↔ [[3 Nephi 11#^3ne-11-14|3 Nephi 11:14]]
-- [[1 Nephi 14]] — 0 parallel verses
-- [[1 Nephi 13]] — 0 parallel verses
-- [[1 Nephi 12]] — 0 parallel verses
 - [[1 Nephi 8]] — 0 parallel verses
 - [[Matthew 3]] — 0 parallel verses
 - [[Moses 7]] — 0 parallel verses
+- [[1 Nephi 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -62,9 +63,9 @@ The chapter is built from a repeating dialogue unit: a heavenly guide asks a que
 - [[Tree of Life]]
 - [[Condescension of God]]
 - [[Crucifixion of Jesus Christ]]
-- [[Angels]]
-- [[Apostles]]
 - [[Pride]]
+- [[Angels]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

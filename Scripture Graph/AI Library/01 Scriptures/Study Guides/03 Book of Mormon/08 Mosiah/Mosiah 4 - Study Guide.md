@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 4
 slug: mosiah-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

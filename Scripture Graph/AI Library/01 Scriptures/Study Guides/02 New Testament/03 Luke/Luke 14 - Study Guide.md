@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 14
 slug: luke-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Mark 4]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Mark 4#^mark-4-9|Mark 4:9]]
 - [[Luke 8]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Luke 8#^luke-8-8|Luke 8:8]]
 - [[Matthew 12]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-3|Luke 14:3]] ↔ [[Matthew 12#^matt-12-10|Matthew 12:10]]
+- [[Proverbs 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,6 +80,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Sabbath Day** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 6** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

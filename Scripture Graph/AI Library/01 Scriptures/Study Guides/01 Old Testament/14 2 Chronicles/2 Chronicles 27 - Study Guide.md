@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 27
 slug: 2chr-27
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,9 +48,11 @@ The repetition of Jotham's age and reign length in verses 1 and 8 frames the cen
 - [[Mormon 2]] — 1 footnote cross-reference (from [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]])
 - [[2 Kings 15]] — 1 footnote cross-reference (from [[2 Chronicles 27#^2chr-27-3|2 Chronicles 27:3]])
 - [[Ezekiel 9]] — 1 footnote cross-reference (from [[2 Chronicles 27#^2chr-27-3|2 Chronicles 27:3]])
+- [[2 Kings 15]] — 12 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
 - [[2 Chronicles 36]] — 9 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]] ↔ [[2 Chronicles 36#^2chr-36-5|2 Chronicles 36:5]]
 - [[2 Kings 23]] — 6 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]] ↔ [[2 Kings 23#^2kgs-23-36|2 Kings 23:36]]
 - [[2 Kings 24]] — 6 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]
+- [[2 Chronicles 33]] — 6 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-8|2 Chronicles 27:8]] ↔ [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]]
 - [[2 Chronicles 28]] — 5 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]] ↔ [[2 Chronicles 28#^2chr-28-1|2 Chronicles 28:1]]
 - [[2 Chronicles 24]] — 5 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]] ↔ [[2 Chronicles 24#^2chr-24-1|2 Chronicles 24:1]]
 - [[2 Chronicles 26]] — 3 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]] ↔ [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]]
@@ -58,8 +60,6 @@ The repetition of Jotham's age and reign length in verses 1 and 8 frames the cen
 - [[2 Chronicles 20]] — 4 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]] ↔ [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]]
 - [[2 Kings 18]] — 2 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]] ↔ [[2 Kings 18#^2kgs-18-3|2 Kings 18:3]]
 - [[2 Chronicles 21]] — 5 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]] ↔ [[2 Chronicles 21#^2chr-21-5|2 Chronicles 21:5]]
-- [[2 Kings 14]] — 3 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]] ↔ [[2 Kings 14#^2kgs-14-2|2 Kings 14:2]]
-- [[2 Kings 21]] — 4 parallel verses, e.g. [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]] ↔ [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

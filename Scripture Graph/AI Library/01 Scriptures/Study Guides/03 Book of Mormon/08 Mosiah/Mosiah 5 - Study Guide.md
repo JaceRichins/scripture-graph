@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 5
 slug: mosiah-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Mosiah 1]] — 2 footnote cross-references (from [[Mosiah 5#^mosiah-5-8|Mosiah 5:8]])
 - [[Mosiah 26]] — 2 footnote cross-references (from [[Mosiah 5#^mosiah-5-8|Mosiah 5:8]])
 - [[Mosiah 3]] — 1 parallel verse, e.g. [[Mosiah 5#^mosiah-5-5|Mosiah 5:5]] ↔ [[Mosiah 3#^mosiah-3-26|Mosiah 3:26]]
+- [[Alma 46]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,10 +86,10 @@ _Not yet developed._
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
+- **08 The Rise of the Church of Christ** (history) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
-- **Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

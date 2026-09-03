@@ -17,7 +17,7 @@ cssclasses:
 > Jehoash (Joash) reigns in righteousness—The breaches in the temple are repaired—The safety of Jerusalem is purchased with the hallowed things in the temple—Joash is slain and Amaziah reigns.
 
 ![[2 Kings 12#^2kgs-12-1]]
-> [[2 Kings 22#^2kgs-22-1|≈ 2 Kings 22:1]] · [[2 Kings 8#^2kgs-8-26|≈ 2 Kings 8:26]] · [[2 Kings 14#^2kgs-14-2|≈ 2 Kings 14:2]] · [[2 Kings 15#^2kgs-15-2|≈ 2 Kings 15:2]] · [[2 Kings 15#^2kgs-15-33|≈ 2 Kings 15:33]] · [[2 Kings 21#^2kgs-21-1|≈ 2 Kings 21:1]]
+> [[2 Kings 22#^2kgs-22-1|≈ 2 Kings 22:1]] · [[2 Kings 23#^2kgs-23-31|≈ 2 Kings 23:31]] · [[2 Kings 23#^2kgs-23-36|≈ 2 Kings 23:36]] · [[2 Kings 8#^2kgs-8-26|≈ 2 Kings 8:26]] · [[2 Kings 14#^2kgs-14-2|≈ 2 Kings 14:2]] · [[2 Kings 15#^2kgs-15-2|≈ 2 Kings 15:2]]
 
 ![[2 Kings 12#^2kgs-12-2]]
 > [[2 Kings 22#^2kgs-22-2|≈ 2 Kings 22:2]] · [[2 Kings 16#^2kgs-16-2|≈ 2 Kings 16:2]] · [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]] · [[2 Kings 14#^2kgs-14-3|≈ 2 Kings 14:3]] · [[2 Kings 15#^2kgs-15-3|≈ 2 Kings 15:3]] · [[2 Kings 15#^2kgs-15-34|≈ 2 Kings 15:34]]
@@ -67,7 +67,7 @@ cssclasses:
 > [[1 Kings 15#^1kgs-15-18|1 Kgs. 15:18 (18–22)]] · [[2 Kings 16#^2kgs-16-8|≈ 2 Kings 16:8]] · [[2 Kings 18#^2kgs-18-15|≈ 2 Kings 18:15]] · [[2 Kings 14#^2kgs-14-14|≈ 2 Kings 14:14]] · [[2 Kings 24#^2kgs-24-13|≈ 2 Kings 24:13]] · [[2 Chronicles 21#^2chr-21-17|≈ 2 Chronicles 21:17]] · [[1 Kings 15#^1kgs-15-18|≈ 1 Kings 15:18]]
 
 ![[2 Kings 12#^2kgs-12-19]]
-> [[2 Kings 16#^2kgs-16-19|≈ 2 Kings 16:19]] · [[2 Kings 8#^2kgs-8-23|≈ 2 Kings 8:23]] · [[2 Kings 13#^2kgs-13-12|≈ 2 Kings 13:12]] · [[2 Kings 13#^2kgs-13-8|≈ 2 Kings 13:8]] · [[2 Kings 14#^2kgs-14-18|≈ 2 Kings 14:18]] · [[2 Kings 14#^2kgs-14-28|≈ 2 Kings 14:28]]
+> [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]] · [[2 Kings 16#^2kgs-16-19|≈ 2 Kings 16:19]] · [[2 Kings 8#^2kgs-8-23|≈ 2 Kings 8:23]] · [[2 Kings 13#^2kgs-13-12|≈ 2 Kings 13:12]] · [[2 Kings 13#^2kgs-13-8|≈ 2 Kings 13:8]] · [[2 Kings 14#^2kgs-14-18|≈ 2 Kings 14:18]]
 
 ![[2 Kings 12#^2kgs-12-20]]
 > [[2 Kings 14#^2kgs-14-5|2 Kgs. 14:5 (5–6)]] · [[2 Samuel 5#^2sam-5-9|2 Sam. 5:9]] · [[1 Kings 9#^1kgs-9-15|1 Kgs. 9:15 (15, 24)]] · [[1 Kings 11#^1kgs-11-27|11:27]] · [[2 Chronicles 32#^2chr-32-5|2 Chr. 32:5]]

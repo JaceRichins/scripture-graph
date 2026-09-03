@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 9
 slug: matt-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

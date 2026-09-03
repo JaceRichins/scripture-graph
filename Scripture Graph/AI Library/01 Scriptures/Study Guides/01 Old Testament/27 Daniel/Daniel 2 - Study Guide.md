@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 2
 slug: dan-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,8 @@ _Not yet developed._
 - [[D&C 59]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[D&C 59#^dc-59-16|D&C 59:16]]
 - [[2 Nephi 2]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]]
 - [[D&C 89]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[D&C 89#^dc-89-14|D&C 89:14]]
+- [[D&C 109]] — 0 parallel verses
+- [[D&C 65]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,7 +79,7 @@ _Not yet developed._
 - [[The Times of Restitution of All Things (Elder David A. Bednar, April 2025)|The Times of Restitution of All Things]] — Elder David A. Bednar, 2025-April *(explicit citation)*
 - [[Confidence in the Presence of God (President Russell M. Nelson, April 2025)|Confidence in the Presence of God]] — President Russell M. Nelson, 2025-April *(explicit citation)*
 - [[It’s a Miracle (Elder Neil L. Andersen, April 2013)|It’s a Miracle]] — Elder Neil L. Andersen, 2013-April *(explicit citation)*
-- [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
+- [[Preparing the World for the Second Coming (Elder Neil L. Andersen, April 2011)|Preparing the World for the Second Coming]] — Elder Neil L. Andersen, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -88,6 +90,9 @@ _Not yet developed._
 - **Mormonism** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
+- **History of the Church, Volume 6** (history, 1902-1912) *(explicit citation)*
+- **Aramaic** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

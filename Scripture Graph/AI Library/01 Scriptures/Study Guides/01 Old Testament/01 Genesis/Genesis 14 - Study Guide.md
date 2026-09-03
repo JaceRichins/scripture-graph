@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 14
 slug: gen-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ _Not yet developed._
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

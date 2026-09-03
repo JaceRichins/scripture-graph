@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 5
 slug: moses-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,15 +49,22 @@ A cautious outline is:
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 4]] — 12 footnote cross-references (from [[Moses 5#^moses-5-2|Moses 5:2]])
+- [[Moses 6]] — 5 footnote cross-references (from [[Moses 5#^moses-5-4|Moses 5:4]])
+- [[Moses 7]] — 4 footnote cross-references (from [[Moses 5#^moses-5-8|Moses 5:8]])
+- [[Moses 4]] — 3 footnote cross-references (from [[Moses 5#^moses-5-1|Moses 5:1]])
+- [[D&C 138]] — 3 footnote cross-references (from [[Moses 5#^moses-5-2|Moses 5:2]])
+- [[Moses 1]] — 3 footnote cross-references (from [[Moses 5#^moses-5-7|Moses 5:7]])
+- [[Genesis 4]] — 26 parallel verses, e.g. [[Moses 5#^moses-5-47|Moses 5:47]] ↔ [[Genesis 4#^gen-4-23|Genesis 4:23]]
 - [[D&C 20]] — 3 parallel verses, e.g. [[Moses 5#^moses-5-58|Moses 5:58]] ↔ [[D&C 20#^dc-20-26|D&C 20:26]]
+- [[Moses 7]] — 2 parallel verses, e.g. [[Moses 5#^moses-5-9|Moses 5:9]] ↔ [[Moses 7#^moses-7-11|Moses 7:11]]
+- [[Moses 1]] — 2 parallel verses, e.g. [[Moses 5#^moses-5-9|Moses 5:9]] ↔ [[Moses 1#^moses-1-24|Moses 1:24]]
 - [[Genesis 26]] — 2 parallel verses, e.g. [[Moses 5#^moses-5-42|Moses 5:42]] ↔ [[Genesis 26#^gen-26-20|Genesis 26:20]]
 - [[3 Nephi 11]] — 2 parallel verses, e.g. [[Moses 5#^moses-5-32|Moses 5:32]] ↔ [[3 Nephi 11#^3ne-11-3|3 Nephi 11:3]]
 - [[Mosiah 23]] — 1 parallel verse, e.g. [[Moses 5#^moses-5-32|Moses 5:32]] ↔ [[Mosiah 23#^mosiah-23-25|Mosiah 23:25]]
 - [[Moses 4]] — 0 parallel verses
 - [[Moses 6]] — 0 parallel verses
 - [[Genesis 4]] — 0 parallel verses
-- [[Genesis 4]] — 0 parallel verses
-- [[Moses 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

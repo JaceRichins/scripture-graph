@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 10
 slug: heb-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -73,14 +73,15 @@ _Not yet developed._
 - [[Nourish the Roots, and the Branches Will Grow (Elder Dieter F. Uchtdorf, October 2024)|Nourish the Roots, and the Branches Will Grow]] — Elder Dieter F. Uchtdorf, 2024-October *(explicit citation)*
 - [[That All May Be Edified (Brother Chad H Webb, October 2025)|That All May Be Edified]] — Brother Chad H Webb, 2025-October *(explicit citation)*
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
-- [[Repentance A Joyful Choice (Elder Dale G. Renlund, October 2016)|Repentance: A Joyful Choice]] — Elder Dale G. Renlund, 2016-October *(explicit citation)*
-- [[Let Patience Have Her Perfect Work, and Count It All Joy! (Elder Jeremy R. Jaggi, October 2020)|Let Patience Have Her Perfect Work, and Count It All Joy!]] — Elder Jeremy R. Jaggi, 2020-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
+- **Atonement** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

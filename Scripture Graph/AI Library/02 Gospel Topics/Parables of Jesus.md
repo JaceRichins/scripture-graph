@@ -39,6 +39,10 @@ _Not yet developed._
 - [[Ezra 8]] *(keyword match)*
 - [[Luke 15]]
 - [[Luke 10]]
+- [[D&C 101]]
+- [[D&C 88]]
+- [[Joseph Smith—Matthew 1]]
+- [[D&C 35]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

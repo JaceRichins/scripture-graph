@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 9
 slug: 2kgs-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[2 Chronicles 22]] — 1 parallel verse, e.g. [[2 Kings 9#^2kgs-9-15|2 Kings 9:15]] ↔ [[2 Chronicles 22#^2chr-22-6|2 Chronicles 22:6]]
 - [[1 Kings 2]] — 2 parallel verses, e.g. [[2 Kings 9#^2kgs-9-6|2 Kings 9:6]] ↔ [[1 Kings 2#^1kgs-2-30|1 Kings 2:30]]
 - [[2 Kings 24]] — 1 parallel verse, e.g. [[2 Kings 9#^2kgs-9-36|2 Kings 9:36]] ↔ [[2 Kings 24#^2kgs-24-2|2 Kings 24:2]]
+- [[2 Kings 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,6 +80,9 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Zion** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
+- **Ahaziah** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
+- **Armageddon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

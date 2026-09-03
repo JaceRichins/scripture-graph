@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 8
 slug: dan-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[1 Nephi 11]] — 1 footnote cross-reference (from [[Daniel 8#^dan-8-2|Daniel 8:2]])
 - [[Exodus 29]] — 1 footnote cross-reference (from [[Daniel 8#^dan-8-11|Daniel 8:11]])
 - [[Daniel 12]] — 1 footnote cross-reference (from [[Daniel 8#^dan-8-11|Daniel 8:11]])
+- [[Daniel 10]] — 2 parallel verses, e.g. [[Daniel 8#^dan-8-18|Daniel 8:18]] ↔ [[Daniel 10#^dan-10-9|Daniel 10:9]]
 - [[Daniel 11]] — 0 parallel verses
 - [[Daniel 12]] — 0 parallel verses
 - [[Daniel 7]] — 0 parallel verses
@@ -59,9 +60,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[Pride]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -77,7 +78,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
+- **Times and Seasons 1844-11-01 (Vol. 5 No. 20)** (periodical, 1844-11-01) *(explicit citation)*
+- **Times and Seasons 1845-11-01 (Vol. 6 No. 16)** (periodical, 1845-11-01) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

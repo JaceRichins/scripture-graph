@@ -82,7 +82,7 @@ cssclasses:
 ![[2 Kings 10#^2kgs-10-28]]
 
 ![[2 Kings 10#^2kgs-10-29]]
-> [[1 Kings 14#^1kgs-14-16|1 Kgs. 14:16]] · [[2 Kings 13#^2kgs-13-1|2 Kgs. 13:2 (1–2, 11)]] · [[2 Kings 14#^2kgs-14-24|14:24]] · [[2 Kings 15#^2kgs-15-9|15:9 (9, 18, 24)]] · [[Alma 46#^alma-46-8|Alma 46:9 (8–9)]] · [[1 Kings 12#^1kgs-12-28|1 Kgs. 12:28 (28–29)]] · [[2 Kings 23#^2kgs-23-15|≈ 2 Kings 23:15]] · [[2 Kings 13#^2kgs-13-11|≈ 2 Kings 13:11]] · [[2 Kings 13#^2kgs-13-2|≈ 2 Kings 13:2]] · [[2 Kings 14#^2kgs-14-24|≈ 2 Kings 14:24]]
+> [[1 Kings 14#^1kgs-14-16|1 Kgs. 14:16]] · [[2 Kings 13#^2kgs-13-1|2 Kgs. 13:2 (1–2, 11)]] · [[2 Kings 14#^2kgs-14-24|14:24]] · [[2 Kings 15#^2kgs-15-9|15:9 (9, 18, 24)]] · [[Alma 46#^alma-46-8|Alma 46:9 (8–9)]] · [[1 Kings 12#^1kgs-12-28|1 Kgs. 12:28 (28–29)]] · [[2 Kings 23#^2kgs-23-15|≈ 2 Kings 23:15]] · [[2 Kings 13#^2kgs-13-11|≈ 2 Kings 13:11]] · [[2 Kings 13#^2kgs-13-2|≈ 2 Kings 13:2]] · [[2 Kings 15#^2kgs-15-9|≈ 2 Kings 15:9]]
 
 ![[2 Kings 10#^2kgs-10-30]]
 > [[2 Kings 15#^2kgs-15-12|2 Kgs. 15:12]] · [[2 Kings 15#^2kgs-15-12|≈ 2 Kings 15:12]] · [[1 Kings 11#^1kgs-11-33|≈ 1 Kings 11:33]]
@@ -97,7 +97,7 @@ cssclasses:
 > [[Deuteronomy 2#^deut-2-36|Deut. 2:36]]
 
 ![[2 Kings 10#^2kgs-10-34]]
-> [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]] · [[2 Kings 8#^2kgs-8-23|≈ 2 Kings 8:23]] · [[2 Kings 12#^2kgs-12-19|≈ 2 Kings 12:19]] · [[2 Kings 13#^2kgs-13-8|≈ 2 Kings 13:8]] · [[2 Kings 13#^2kgs-13-12|≈ 2 Kings 13:12]] · [[2 Kings 14#^2kgs-14-28|≈ 2 Kings 14:28]]
+> [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]] · [[2 Kings 13#^2kgs-13-8|≈ 2 Kings 13:8]] · [[2 Kings 13#^2kgs-13-12|≈ 2 Kings 13:12]] · [[2 Kings 15#^2kgs-15-21|≈ 2 Kings 15:21]] · [[2 Kings 15#^2kgs-15-36|≈ 2 Kings 15:36]] · [[2 Kings 15#^2kgs-15-6|≈ 2 Kings 15:6]]
 
 ![[2 Kings 10#^2kgs-10-35]]
 > [[2 Kings 13#^2kgs-13-9|≈ 2 Kings 13:9]] · [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[1 Kings 15#^1kgs-15-8|≈ 1 Kings 15:8]] · [[2 Chronicles 14#^2chr-14-1|≈ 2 Chronicles 14:1]] · [[2 Chronicles 27#^2chr-27-9|≈ 2 Chronicles 27:9]] · [[2 Chronicles 28#^2chr-28-27|≈ 2 Chronicles 28:27]]

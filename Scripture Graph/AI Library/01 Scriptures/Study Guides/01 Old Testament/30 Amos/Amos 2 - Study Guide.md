@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 2
 slug: amos-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Exodus 12]] — 1 footnote cross-reference (from [[Amos 2#^amos-2-10|Amos 2:10]])
 - [[Amos 1]] — 19 parallel verses, e.g. [[Amos 2#^amos-2-4|Amos 2:4]] ↔ [[Amos 1#^amos-1-3|Amos 1:3]]
 - [[Hosea 8]] — 2 parallel verses, e.g. [[Amos 2#^amos-2-2|Amos 2:2]] ↔ [[Hosea 8#^hosea-8-14|Hosea 8:14]]
+- [[Jeremiah 17]] — 2 parallel verses, e.g. [[Amos 2#^amos-2-5|Amos 2:5]] ↔ [[Jeremiah 17#^jer-17-27|Jeremiah 17:27]]
 - [[2 Samuel 6]] — 1 parallel verse, e.g. [[Amos 2#^amos-2-2|Amos 2:2]] ↔ [[2 Samuel 6#^2sam-6-15|2 Samuel 6:15]]
 - [[Amos 1]] — 0 parallel verses
 - [[Exodus 22]] — 0 parallel verses
@@ -60,12 +61,13 @@ _Not yet developed._
 - [[Numbers 6]] — 0 parallel verses
 - [[Amos 7]] — 0 parallel verses
 - [[Amos 5]] — 0 parallel verses
+- [[Hosea 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[Law of Moses]]
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

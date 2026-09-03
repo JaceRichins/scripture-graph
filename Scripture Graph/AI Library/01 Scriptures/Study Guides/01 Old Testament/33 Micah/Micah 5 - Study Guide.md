@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 5
 slug: micah-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1842-01-15 (Vol. 3 No. 6)** (periodical, 1842-01-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

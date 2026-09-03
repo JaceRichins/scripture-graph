@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 24
 slug: jer-24
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,8 @@ _Not yet developed._
 - [[Jeremiah 27]] — 1 parallel verse, e.g. [[Jeremiah 24#^jer-24-1|Jeremiah 24:1]] ↔ [[Jeremiah 27#^jer-27-20|Jeremiah 27:20]]
 - [[Jeremiah 44]] — 2 parallel verses, e.g. [[Jeremiah 24#^jer-24-5|Jeremiah 24:5]] ↔ [[Jeremiah 44#^jer-44-7|Jeremiah 44:7]]
 - [[Deuteronomy 28]] — 1 parallel verse, e.g. [[Jeremiah 24#^jer-24-9|Jeremiah 24:9]] ↔ [[Deuteronomy 28#^deut-28-25|Deuteronomy 28:25]]
+- [[Jeremiah 42]] — 0 parallel verses
+- [[Jeremiah 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,6 +73,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

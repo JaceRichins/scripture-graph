@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 36
 slug: dc-36
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -43,8 +43,17 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 42]] — 2 footnote cross-references (from [[D&C 36#^dc-36-2|D&C 36:2]])
+- [[D&C 41]] — 1 footnote cross-reference (from [[D&C 36#^dc-36-1|D&C 36:1]])
+- [[D&C 39]] — 1 footnote cross-reference (from [[D&C 36#^dc-36-2|D&C 36:2]])
+- [[Genesis 14]] — 1 footnote cross-reference (from [[D&C 36#^dc-36-3|D&C 36:3]])
+- [[D&C 4]] — 1 footnote cross-reference (from [[D&C 36#^dc-36-5|D&C 36:5]])
+- [[D&C 63]] — 1 footnote cross-reference (from [[D&C 36#^dc-36-5|D&C 36:5]])
+- [[D&C 39]] — 2 parallel verses, e.g. [[D&C 36#^dc-36-3|D&C 36:3]] ↔ [[D&C 39#^dc-39-19|D&C 39:19]]
+- [[D&C 52]] — 2 parallel verses, e.g. [[D&C 36#^dc-36-8|D&C 36:8]] ↔ [[D&C 52#^dc-52-44|D&C 52:44]]
 - [[D&C 30]] — 1 parallel verse, e.g. [[D&C 36#^dc-36-1|D&C 36:1]] ↔ [[D&C 30#^dc-30-9|D&C 30:9]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[D&C 36#^dc-36-3|D&C 36:3]] ↔ [[3 Nephi 11#^3ne-11-17|3 Nephi 11:17]]
+- [[D&C 24]] — 1 parallel verse, e.g. [[D&C 36#^dc-36-1|D&C 36:1]] ↔ [[D&C 24#^dc-24-12|D&C 24:12]]
 - [[Jude 1]] — 0 parallel verses
 - [[Malachi 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -69,6 +78,7 @@ Verses 5–7 hold inward willingness and outward commissioning together: a perso
 - [[Bishops—Shepherds over the Lord’s Flock (Elder Quentin L. Cook, April 2021)|Bishops—Shepherds over the Lord’s Flock]] — Elder Quentin L. Cook, 2021-April *(explicit citation)*
 - [[Light Cleaveth unto Light (Elder Timothy J. Dyches, April 2021)|Light Cleaveth unto Light]] — Elder Timothy J. Dyches, 2021-April *(explicit citation)*
 - [[God Knows and Loves You (Elder Alan T. Phillips, October 2023)|God Knows and Loves You]] — Elder Alan T. Phillips, 2023-October *(explicit citation)*
+- [[An Unspeakable Gift from God (Elder Craig C. Christensen, October 2012)|An Unspeakable Gift from God]] — Elder Craig C. Christensen, 2012-October *(explicit citation)*
 - [[Live Up to Your Privileges (President Emily Belle Freeman, October 2024)|Live Up to Your Privileges]] — President Emily Belle Freeman, 2024-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -79,12 +89,12 @@ Verses 5–7 hold inward willingness and outward commissioning together: a perso
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
+- **10 Gathered In** (history) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
-- **Laying On of Hands** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

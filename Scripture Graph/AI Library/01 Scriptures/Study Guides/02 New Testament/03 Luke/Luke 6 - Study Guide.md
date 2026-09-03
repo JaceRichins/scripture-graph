@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 6
 slug: luke-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,8 @@ _Not yet developed._
 - **Quorum of the Twelve Apostles** (reference-entry) *(explicit citation)*
 - **Love** (reference-entry) *(explicit citation)*
 - **Mercy** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1836-03-01 (Vol. 2 No. 6)** (periodical, 1836-03-01) *(explicit citation)*
+- **Apostle** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

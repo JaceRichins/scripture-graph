@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 118
 slug: ps-118
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Matthew 21]] — 2 parallel verses, e.g. [[Psalm 118#^ps-118-23|Psalm 118:23]] ↔ [[Matthew 21#^matt-21-42|Matthew 21:42]]
 - [[2 Chronicles 5]] — 1 parallel verse, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
 - [[2 Chronicles 7]] — 1 parallel verse, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[2 Chronicles 7#^2chr-7-3|2 Chronicles 7:3]]
+- [[Exodus 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,6 +69,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
 - [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
+- [[Of Regrets and Resolutions (President Dieter F. Uchtdorf, October 2012)|Of Regrets and Resolutions]] — President Dieter F. Uchtdorf, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

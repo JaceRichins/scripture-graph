@@ -6,7 +6,7 @@ volume: New Testament
 book: 3 John
 chapter: 1
 slug: 3jn-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Fathers (Elder D. Todd Christofferson, April 2016)|Fathers]] — Elder D. Todd Christofferson, 2016-April *(explicit citation)*
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

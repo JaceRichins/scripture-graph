@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 23
 slug: 2ne-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,8 +50,11 @@ Scripture: [[2 Nephi 23]] · My notes: [[2 Nephi 23 - My Notes]]
 - [[Isaiah 13]] — 1 footnote cross-reference (from [[2 Nephi 23#^2ne-23-1|2 Nephi 23:1]])
 - [[Zephaniah 3]] — 1 footnote cross-reference (from [[2 Nephi 23#^2ne-23-4|2 Nephi 23:4]])
 - [[Zechariah 14]] — 1 footnote cross-reference (from [[2 Nephi 23#^2ne-23-4|2 Nephi 23:4]])
+- [[Isaiah 13]] — 22 parallel verses, e.g. [[2 Nephi 23#^2ne-23-10|2 Nephi 23:10]] ↔ [[Isaiah 13#^isa-13-10|Isaiah 13:10]]
+- [[Jeremiah 50]] — 2 parallel verses, e.g. [[2 Nephi 23#^2ne-23-20|2 Nephi 23:20]] ↔ [[Jeremiah 50#^jer-50-39|Jeremiah 50:39]]
 - [[Haggai 2]] — 2 parallel verses, e.g. [[2 Nephi 23#^2ne-23-13|2 Nephi 23:13]] ↔ [[Haggai 2#^hag-2-6|Haggai 2:6]]
 - [[Joel 1]] — 1 parallel verse, e.g. [[2 Nephi 23#^2ne-23-6|2 Nephi 23:6]] ↔ [[Joel 1#^joel-1-15|Joel 1:15]]
+- [[Zephaniah 1]] — 1 parallel verse, e.g. [[2 Nephi 23#^2ne-23-6|2 Nephi 23:6]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
 - [[Isaiah 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

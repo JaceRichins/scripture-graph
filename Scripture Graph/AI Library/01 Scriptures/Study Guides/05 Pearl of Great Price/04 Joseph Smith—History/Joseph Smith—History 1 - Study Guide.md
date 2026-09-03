@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—History
 chapter: 1
 slug: jsh-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,12 @@ A useful outline is:
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Nephi 1]] — 4 footnote cross-references (from [[Joseph Smith—History 1#^jsh-1-20|Joseph Smith—History 1:20]])
+- [[James 1]] — 3 footnote cross-references (from [[Joseph Smith—History 1#^jsh-1-11|Joseph Smith—History 1:11]])
+- [[Isaiah 29]] — 3 footnote cross-references (from [[Joseph Smith—History 1#^jsh-1-19|Joseph Smith—History 1:19]])
+- [[D&C 20]] — 2 footnote cross-references (from [[Joseph Smith—History 1#^jsh-1-2|Joseph Smith—History 1:2]])
+- [[D&C 138]] — 2 footnote cross-references (from [[Joseph Smith—History 1#^jsh-1-12|Joseph Smith—History 1:12]])
+- [[Moses 1]] — 2 footnote cross-references (from [[Joseph Smith—History 1#^jsh-1-16|Joseph Smith—History 1:16]])
 - [[D&C 13]] — 1 parallel verse, e.g. [[Joseph Smith—History 1#^jsh-1-69|Joseph Smith—History 1:69]] ↔ [[D&C 13#^dc-13-1|D&C 13:1]]
 - [[D&C 2]] — 3 parallel verses, e.g. [[Joseph Smith—History 1#^jsh-1-38|Joseph Smith—History 1:38]] ↔ [[D&C 2#^dc-2-1|D&C 2:1]]
 - [[Malachi 4]] — 2 parallel verses, e.g. [[Joseph Smith—History 1#^jsh-1-37|Joseph Smith—History 1:37]] ↔ [[Malachi 4#^mal-4-1|Malachi 4:1]]
@@ -83,8 +89,8 @@ A useful outline is:
 - [[Priesthood]]
 - [[Book of Mormon (Gospel Topic)]]
 - [[First Vision]]
-- [[Priesthood Restoration]]
 - [[Restoration of the Gospel]]
+- [[Priesthood Restoration]]
 - [[Scripture Study]]
 - [[The Godhead]]
 - [[Satan and Temptation]]
@@ -115,6 +121,9 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **02 Hear Him** (history) *(explicit citation)*
+- **03 Plates of Gold** (history) *(explicit citation)*
+- **01 Ask in Faith** (history) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
@@ -122,9 +131,6 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 - **First Vision** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
-- **Joseph Smith** (reference-entry) *(explicit citation)*
-- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
-- **Joseph Smith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

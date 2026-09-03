@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 23
 slug: num-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -66,7 +66,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1840-08-01 (Vol. 1 No. 10)** (periodical, 1840-08-01) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

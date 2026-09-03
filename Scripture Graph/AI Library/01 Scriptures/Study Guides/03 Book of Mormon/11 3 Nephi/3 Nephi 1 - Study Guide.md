@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 1
 slug: 3ne-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,8 +50,10 @@ The chapter moves through several movements: (1) chronological and genealogical 
 - [[Helaman 16]] — 2 footnote cross-references (from [[3 Nephi 1#^3ne-1-4|3 Nephi 1:4]])
 - [[Matthew 2]] — 2 footnote cross-references (from [[3 Nephi 1#^3ne-1-13|3 Nephi 1:13]])
 - [[Luke 2]] — 2 footnote cross-references (from [[3 Nephi 1#^3ne-1-13|3 Nephi 1:13]])
+- [[3 Nephi 5]] — 3 parallel verses, e.g. [[3 Nephi 1#^3ne-1-20|3 Nephi 1:20]] ↔ [[3 Nephi 5#^3ne-5-2|3 Nephi 5:2]]
 - [[D&C 20]] — 3 parallel verses, e.g. [[3 Nephi 1#^3ne-1-14|3 Nephi 1:14]] ↔ [[D&C 20#^dc-20-27|D&C 20:27]]
 - [[Moses 7]] — 2 parallel verses, e.g. [[3 Nephi 1#^3ne-1-14|3 Nephi 1:14]] ↔ [[Moses 7#^moses-7-24|Moses 7:24]]
+- [[4 Nephi 1]] — 2 parallel verses, e.g. [[3 Nephi 1#^3ne-1-19|3 Nephi 1:19]] ↔ [[4 Nephi 1#^4ne-1-13|4 Nephi 1:13]]
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[3 Nephi 1#^3ne-1-2|3 Nephi 1:2]] ↔ [[Mosiah 28#^mosiah-28-20|Mosiah 28:20]]
 - [[2 Nephi 25]] — 2 parallel verses, e.g. [[3 Nephi 1#^3ne-1-20|3 Nephi 1:20]] ↔ [[2 Nephi 25#^2ne-25-19|2 Nephi 25:19]]
 - [[Alma 30]] — 1 parallel verse, e.g. [[3 Nephi 1#^3ne-1-4|3 Nephi 1:4]] ↔ [[Alma 30#^alma-30-5|Alma 30:5]]
@@ -62,7 +64,6 @@ The chapter moves through several movements: (1) chronological and genealogical 
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Records and Sacred Writings]]
 - [[Secret Combinations]]
 - [[Law of Moses]]
 - [[Prophecy]]
@@ -70,6 +71,7 @@ The chapter moves through several movements: (1) chronological and genealogical 
 - [[Signs of the Times]]
 - [[Satan and Temptation]]
 - [[War and Peace]]
+- [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -85,6 +87,7 @@ The chapter treats the [[Law of Moses]] as still binding until it is fulfilled '
 - [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
 - [[Your Wonderful Journey Home (President Dieter F. Uchtdorf, April 2013)|Your Wonderful Journey Home]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
 - [[The Resurrection of Jesus Christ (Elder D. Todd Christofferson, April 2014)|The Resurrection of Jesus Christ]] — Elder D. Todd Christofferson, 2014-April *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

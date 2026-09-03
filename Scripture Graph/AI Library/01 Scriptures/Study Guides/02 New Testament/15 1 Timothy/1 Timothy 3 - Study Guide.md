@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 3
 slug: 1tim-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

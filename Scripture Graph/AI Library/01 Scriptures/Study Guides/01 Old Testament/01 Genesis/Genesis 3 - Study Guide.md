@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 3
 slug: gen-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[2 Corinthians 11]] — 1 footnote cross-reference (from [[Genesis 3#^gen-3-1|Genesis 3:1]])
 - [[Moses 4]] — 25 parallel verses, e.g. [[Genesis 3#^gen-3-17|Genesis 3:17]] ↔ [[Moses 4#^moses-4-23|Moses 4:23]]
 - [[Alma 42]] — 3 parallel verses, e.g. [[Genesis 3#^gen-3-24|Genesis 3:24]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
+- [[Moses 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,10 +79,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **37 We Will Prove Them** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Transgression** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
 - **Welfare** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
+- **Times and Seasons 1846-01-15 (Vol. 6 No. 21)** (periodical, 1846-01-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

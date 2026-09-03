@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 40
 slug: isa-40
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,10 @@ _Not yet developed._
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
 - [[Isaiah 58]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Isaiah 58#^isa-58-14|Isaiah 58:14]]
 - [[Isaiah 1]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Isaiah 1#^isa-1-20|Isaiah 1:20]]
+- [[Isaiah 62]] — 0 parallel verses
+- [[D&C 89]] — 0 parallel verses
+- [[1 Corinthians 2]] — 0 parallel verses
+- [[1 Peter 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +71,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Waiting on the Lord (Elder Jeffrey R. Holland, October 2020)|Waiting on the Lord]] — Elder Jeffrey R. Holland, 2020-October *(explicit citation)*
+- [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[Tomorrow the Lord Will Do Wonders among You (Elder Jeffrey R. Holland, April 2016)|Tomorrow the Lord Will Do Wonders among You]] — Elder Jeffrey R. Holland, 2016-April *(explicit citation)*
 - [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
 - [[Behold the Man! (Elder Dieter F. Uchtdorf, April 2018)|Behold the Man!]] — Elder Dieter F. Uchtdorf, 2018-April *(explicit citation)*
@@ -75,7 +80,6 @@ _Not yet developed._
 - [[Christ Heals That Which Is Broken (Amy A. Wright, April 2022)|Christ Heals That Which Is Broken]] — Amy A. Wright, 2022-April *(explicit citation)*
 - [[The Power of Spiritual Momentum (President Russell M. Nelson, April 2022)|The Power of Spiritual Momentum]] — President Russell M. Nelson, 2022-April *(explicit citation)*
 - [[Jesus Christ Is the Strength of Youth (Elder Dieter F. Uchtdorf, October 2022)|Jesus Christ Is the Strength of Youth]] — Elder Dieter F. Uchtdorf, 2022-October *(explicit citation)*
-- [[Wholehearted (Sister Michelle D. Craig, October 2022)|Wholehearted]] — Sister Michelle D. Craig, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

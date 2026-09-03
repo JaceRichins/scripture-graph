@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 14
 slug: mosiah-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Miracle of the Atonement (Elder C. Scott Grow, April 2011)|The Miracle of the Atonement]] — Elder C. Scott Grow, 2011-April *(explicit citation)*
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
 - [[The Savior’s Touch (Elder Walter F. González, October 2019)|The Savior’s Touch]] — Elder Walter F. González, 2019-October *(explicit citation)*

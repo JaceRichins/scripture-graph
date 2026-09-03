@@ -66,7 +66,7 @@ cssclasses:
 ![[Ezekiel 48#^ezek-48-20]]
 
 ![[Ezekiel 48#^ezek-48-21]]
-> [[Ezekiel 44#^ezek-44-3|Ezek. 44:3]] · [[Ezekiel 45#^ezek-45-7|45:7]] · [[Ezekiel 41#^ezek-41-15|≈ Ezekiel 41:15]] · [[Ezekiel 41#^ezek-41-26|≈ Ezekiel 41:26]] · [[Ezekiel 45#^ezek-45-7|≈ Ezekiel 45:7]]
+> [[Ezekiel 44#^ezek-44-3|Ezek. 44:3]] · [[Ezekiel 45#^ezek-45-7|45:7]] · [[Ezekiel 45#^ezek-45-7|≈ Ezekiel 45:7]] · [[Ezekiel 41#^ezek-41-15|≈ Ezekiel 41:15]] · [[Ezekiel 41#^ezek-41-26|≈ Ezekiel 41:26]]
 
 ![[Ezekiel 48#^ezek-48-22]]
 

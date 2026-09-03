@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 35
 slug: isa-35
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,9 @@ _Not yet developed._
 - [[Ezekiel 36]] — 1 footnote cross-reference (from [[Isaiah 35#^isa-35-1|Isaiah 35:1]])
 - [[Isaiah 60]] — 1 footnote cross-reference (from [[Isaiah 35#^isa-35-2|Isaiah 35:2]])
 - [[Romans 14]] — 1 footnote cross-reference (from [[Isaiah 35#^isa-35-3|Isaiah 35:3]])
+- [[Isaiah 34]] — 0 parallel verses
+- [[D&C 66]] — 0 parallel verses
+- [[D&C 81]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,7 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **13 The Gift Has Returned** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

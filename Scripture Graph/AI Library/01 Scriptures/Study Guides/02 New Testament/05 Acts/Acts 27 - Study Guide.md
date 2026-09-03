@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 27
 slug: acts-27
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

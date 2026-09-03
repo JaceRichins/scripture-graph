@@ -82,7 +82,7 @@ cssclasses:
 > [[2 Nephi 29#^2ne-29-4|2 Ne. 29:6 (4–12)]] · [[2 Nephi 3#^2ne-3-12|2 Ne. 3:12]] · [[1 Nephi 5#^1ne-5-10|1 Ne. 5:10 (10–22)]] · [[1 Nephi 19#^1ne-19-22|19:22]] · [[1 Nephi 14#^1ne-14-5|≈ 1 Nephi 14:5]] · [[2 Nephi 11#^2ne-11-5|≈ 2 Nephi 11:5]] · [[3 Nephi 29#^3ne-29-9|≈ 3 Nephi 29:9]] · [[Mormon 8#^morm-8-21|≈ Mormon 8:21]]
 
 ![[1 Nephi 13#^1ne-13-24]]
-> [[2 Nephi 29#^2ne-29-3|2 Ne. 29:3]] · [[Genesis 16#^gen-16-9|≈ Genesis 16:9]] · [[Genesis 16#^gen-16-10|≈ Genesis 16:10]] · [[Genesis 16#^gen-16-11|≈ Genesis 16:11]] · [[Numbers 22#^num-22-32|≈ Numbers 22:32]] · [[Numbers 22#^num-22-35|≈ Numbers 22:35]] · [[Judges 13#^judg-13-13|≈ Judges 13:13]]
+> [[2 Nephi 29#^2ne-29-3|2 Ne. 29:3]] · [[1 Nephi 14#^1ne-14-26|≈ 1 Nephi 14:26]] · [[Genesis 16#^gen-16-9|≈ Genesis 16:9]] · [[Genesis 16#^gen-16-10|≈ Genesis 16:10]] · [[Genesis 16#^gen-16-11|≈ Genesis 16:11]] · [[Numbers 22#^num-22-32|≈ Numbers 22:32]] · [[Numbers 22#^num-22-35|≈ Numbers 22:35]]
 
 ![[1 Nephi 13#^1ne-13-25]]
 > [[2 Nephi 29#^2ne-29-4|2 Ne. 29:4 (4–6)]] · [[D&C 3#^dc-3-16|D&amp;C 3:16]] · [[1 Nephi 14#^1ne-14-26|≈ 1 Nephi 14:26]] · [[Enos 1#^enos-1-26|≈ Enos 1:26]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 6
 slug: mark-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[Matthew 15]] — 2 parallel verses, e.g. [[Mark 6#^mark-6-42|Mark 6:42]] ↔ [[Matthew 15#^matt-15-37|Matthew 15:37]]
 - [[D&C 75]] — 1 parallel verse, e.g. [[Mark 6#^mark-6-11|Mark 6:11]] ↔ [[D&C 75#^dc-75-22|D&C 75:22]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[Mark 6#^mark-6-11|Mark 6:11]] ↔ [[Alma 9#^alma-9-15|Alma 9:15]]
+- [[D&C 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -90,6 +91,7 @@ _Not yet developed._
 - **Charity** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

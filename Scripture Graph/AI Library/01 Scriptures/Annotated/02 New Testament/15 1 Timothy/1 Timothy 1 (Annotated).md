@@ -17,7 +17,7 @@ cssclasses:
 > Counsel is given to teach true doctrine only—Christ came to save repentant sinners.
 
 ![[1 Timothy 1#^1tim-1-1]]
-> [[2 Corinthians 1#^2cor-1-1|≈ 2 Corinthians 1:1]] · [[Ephesians 1#^eph-1-1|≈ Ephesians 1:1]] · [[Colossians 1#^col-1-1|≈ Colossians 1:1]] · [[2 Timothy 1#^2tim-1-1|≈ 2 Timothy 1:1]]
+> [[2 Timothy 1#^2tim-1-1|≈ 2 Timothy 1:1]] · [[2 Corinthians 1#^2cor-1-1|≈ 2 Corinthians 1:1]] · [[Ephesians 1#^eph-1-1|≈ Ephesians 1:1]] · [[Colossians 1#^col-1-1|≈ Colossians 1:1]]
 
 ![[1 Timothy 1#^1tim-1-2]]
 > [[Acts 16#^acts-16-1|Acts 16:1 (1–4)]] · [[1 Corinthians 4#^1cor-4-17|1 Cor. 4:17]] · [[2 Corinthians 1#^2cor-1-2|≈ 2 Corinthians 1:2]] · [[Ephesians 1#^eph-1-2|≈ Ephesians 1:2]] · [[Colossians 1#^col-1-2|≈ Colossians 1:2]]

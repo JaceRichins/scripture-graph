@@ -39,7 +39,7 @@ cssclasses:
 > [[Esther 1#^esth-1-19|Esth. 1:19]] · [[Esther 3#^esth-3-12|≈ Esther 3:12]]
 
 ![[Esther 8#^esth-8-9]]
-> [[Esther 1#^esth-1-22|Esth. 1:22]] · [[Esther 9#^esth-9-27|≈ Esther 9:27]] · [[Esther 3#^esth-3-12|≈ Esther 3:12]] · [[Esther 1#^esth-1-22|≈ Esther 1:22]]
+> [[Esther 1#^esth-1-22|Esth. 1:22]] · [[Esther 9#^esth-9-27|≈ Esther 9:27]] · [[Esther 1#^esth-1-22|≈ Esther 1:22]] · [[Esther 3#^esth-3-12|≈ Esther 3:12]]
 
 ![[Esther 8#^esth-8-10]]
 > [[Esther 3#^esth-3-12|Esth. 3:12 (12–13)]] · [[Esther 9#^esth-9-29|Esth. 9:29]]

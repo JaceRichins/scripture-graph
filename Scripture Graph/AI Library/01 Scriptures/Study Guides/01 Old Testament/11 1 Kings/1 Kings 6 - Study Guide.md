@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 6
 slug: 1kgs-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,7 +53,9 @@ Statements of completion recur in verses 9, 14, 22, and 38. They may mark stages
 - [[2 Chronicles 3]] — 3 footnote cross-references (from [[1 Kings 6#^1kgs-6-1|1 Kings 6:1]])
 - [[2 Nephi 5]] — 2 footnote cross-references (from [[1 Kings 6#^1kgs-6-2|1 Kings 6:2]])
 - [[Ezekiel 8]] — 2 footnote cross-references (from [[1 Kings 6#^1kgs-6-3|1 Kings 6:3]])
+- [[2 Chronicles 3]] — 5 parallel verses, e.g. [[1 Kings 6#^1kgs-6-2|1 Kings 6:2]] ↔ [[2 Chronicles 3#^2chr-3-8|2 Chronicles 3:8]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
+- [[Exodus 37]] — 3 parallel verses, e.g. [[1 Kings 6#^1kgs-6-20|1 Kings 6:20]] ↔ [[Exodus 37#^ex-37-11|Exodus 37:11]]
 - [[Numbers 33]] — 1 parallel verse, e.g. [[1 Kings 6#^1kgs-6-1|1 Kings 6:1]] ↔ [[Numbers 33#^num-33-38|Numbers 33:38]]
 - [[1 Kings 7]] — 3 parallel verses, e.g. [[1 Kings 6#^1kgs-6-2|1 Kings 6:2]] ↔ [[1 Kings 7#^1kgs-7-2|1 Kings 7:2]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
@@ -63,8 +65,6 @@ Statements of completion recur in verses 9, 14, 22, and 38. They may mark stages
 - [[Joshua 4]] — 2 parallel verses, e.g. [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]] ↔ [[Joshua 4#^josh-4-7|Joshua 4:7]]
 - [[1 Kings 8]] — 2 parallel verses, e.g. [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
 - [[2 Chronicles 5]] — 2 parallel verses, e.g. [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
-- [[1 Chronicles 28]] — 2 parallel verses, e.g. [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
-- [[Exodus 37]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,7 +83,7 @@ Verse 19 says that the inner sanctuary was prepared to receive the ark. The chap
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Temple Standard (Elder Scott D. Whiting, October 2012)|Temple Standard]] — Elder Scott D. Whiting, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

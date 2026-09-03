@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 11
 slug: acts-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -72,11 +72,14 @@ _Not yet developed._
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
 - [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
+- [[Called to Be Saints (Elder Benjamín De Hoyos, April 2011)|Called to Be Saints]] — Elder Benjamín De Hoyos, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Almsgiving** (reference-entry) *(explicit citation)*
+- **Antioch** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 11
 slug: mosiah-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -61,17 +61,17 @@ _Not yet developed._
 - [[2 Nephi 26]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[2 Nephi 26#^2ne-26-20|2 Nephi 26:20]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[2 Nephi 28#^2ne-28-15|2 Nephi 28:15]]
 - [[Alma 62]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[Alma 62#^alma-62-49|Alma 62:49]]
-- [[2 Nephi 5]] — 1 parallel verse, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[2 Nephi 5#^2ne-5-15|2 Nephi 5:15]]
+- [[Mosiah 19]] — 1 parallel verse, e.g. [[Mosiah 11#^mosiah-11-20|Mosiah 11:20]] ↔ [[Mosiah 19#^mosiah-19-4|Mosiah 19:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Exodus and Deliverance]]
 - [[Pride]]
 - [[Prophecy]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

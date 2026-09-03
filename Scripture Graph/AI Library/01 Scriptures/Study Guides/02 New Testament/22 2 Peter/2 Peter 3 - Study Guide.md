@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 3
 slug: 2pet-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,12 +49,14 @@ _Not yet developed._
 - [[Matthew 16]] — 1 footnote cross-reference (from [[2 Peter 3#^2pet-3-4|2 Peter 3:4]])
 - [[Isaiah 5]] — 1 footnote cross-reference (from [[2 Peter 3#^2pet-3-4|2 Peter 3:4]])
 - [[Genesis 7]] — 1 footnote cross-reference (from [[2 Peter 3#^2pet-3-6|2 Peter 3:6]])
+- [[Mormon 9]] — 2 parallel verses, e.g. [[2 Peter 3#^2pet-3-10|2 Peter 3:10]] ↔ [[Mormon 9#^morm-9-2|Mormon 9:2]]
 - [[Psalm 90]] — 0 parallel verses
 - [[1 Thessalonians 5]] — 0 parallel verses
 - [[Isaiah 65]] — 0 parallel verses
 - [[Revelation 21]] — 0 parallel verses
 - [[Jude 1]] — 0 parallel verses
 - [[Abraham 3]] — 0 parallel verses
+- [[3 Nephi 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,6 +77,7 @@ Verse 9 expresses God's unwillingness that any perish, but it does not specify t
 - [[The Character of Christ (President D. Todd Christofferson, April 2026)|The Character of Christ]] — President D. Todd Christofferson, 2026-April *(explicit citation)*
 - [[The Eternal Everyday (Elder Quentin L. Cook, October 2017)|The Eternal Everyday]] — Elder Quentin L. Cook, 2017-October *(explicit citation)*
 - [[God’s Intent Is to Bring You Home (Elder Patrick Kearon, April 2024)|God’s Intent Is to Bring You Home]] — Elder Patrick Kearon, 2024-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

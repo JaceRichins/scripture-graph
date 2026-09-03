@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 17
 slug: ezek-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -67,9 +67,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
-- [[Government and Laws]]
 - [[Prophecy]]
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

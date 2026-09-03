@@ -26,7 +26,7 @@ cssclasses:
 > [[1 Nephi 10#^1ne-10-2|≈ 1 Nephi 10:2]]
 
 ![[2 Nephi 4#^2ne-4-4]]
-> [[2 Nephi 1#^2ne-1-9|2 Ne. 1:9]] · [[Alma 9#^alma-9-13|Alma 9:13]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 36#^alma-36-30|≈ Alma 36:30]] · [[Alma 36#^alma-36-1|≈ Alma 36:1]] · [[Alma 37#^alma-37-13|≈ Alma 37:13]] · [[Alma 38#^alma-38-1|≈ Alma 38:1]] · [[Omni 1#^omni-1-6|≈ Omni 1:6]]
+> [[2 Nephi 1#^2ne-1-9|2 Ne. 1:9]] · [[Alma 9#^alma-9-13|Alma 9:13]] · [[Alma 36#^alma-36-30|≈ Alma 36:30]] · [[Alma 36#^alma-36-1|≈ Alma 36:1]] · [[Alma 37#^alma-37-13|≈ Alma 37:13]] · [[Alma 38#^alma-38-1|≈ Alma 38:1]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Omni 1#^omni-1-6|≈ Omni 1:6]]
 
 ![[2 Nephi 4#^2ne-4-5]]
 > [[Proverbs 22#^prov-22-6|Prov. 22:6]]

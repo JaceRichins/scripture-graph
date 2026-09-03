@@ -26,6 +26,8 @@ _Not yet developed._
 - [[2 Nephi 4#^2ne-4-26|2 Nephi 4:26]] — key passage
 - [[1 Nephi 11]]
 - [[2 Nephi 4]]
+- [[1 Nephi 19]]
+- [[3 Nephi 1]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

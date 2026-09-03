@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 1
 slug: 2ne-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,25 +55,25 @@ Lehi's farewell begins with remembered mercy and moves toward warning, exhortati
 - [[1 Nephi 16]] — 3 footnote cross-references (from [[2 Nephi 1#^2ne-1-24|2 Nephi 1:24]])
 - [[1 Nephi 18]] — 2 footnote cross-references (from [[2 Nephi 1#^2ne-1-2|2 Nephi 1:2]])
 - [[Ether 2]] — 2 footnote cross-references (from [[2 Nephi 1#^2ne-1-5|2 Nephi 1:5]])
+- [[2 Nephi 4]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[1 Nephi 2]] — 5 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]]
 - [[1 Nephi 17]] — 3 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]]
+- [[Alma 36]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
 - [[1 Nephi 22]] — 4 parallel verses, e.g. [[2 Nephi 1#^2ne-1-9|2 Nephi 1:9]] ↔ [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]]
+- [[Alma 37]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
+- [[Alma 38]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
+- [[2 Nephi 3]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-32|2 Nephi 1:32]] ↔ [[2 Nephi 3#^2ne-3-2|2 Nephi 3:2]]
 - [[Jacob 4]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-6|2 Nephi 1:6]] ↔ [[Jacob 4#^jacob-4-15|Jacob 4:15]]
 - [[Mosiah 1]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-14|2 Nephi 1:14]] ↔ [[Mosiah 1#^mosiah-1-9|Mosiah 1:9]]
 - [[Omni 1]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
-- [[4 Nephi 1]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-26|2 Nephi 1:26]] ↔ [[4 Nephi 1#^4ne-1-30|4 Nephi 1:30]]
-- [[Ether 1]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-5|2 Nephi 1:5]] ↔ [[Ether 1#^ether-1-38|Ether 1:38]]
-- [[2 Nephi 6]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]] ↔ [[2 Nephi 6#^2ne-6-12|2 Nephi 6:12]]
-- [[3 Nephi 18]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]] ↔ [[3 Nephi 18#^3ne-18-23|3 Nephi 18:23]]
-- [[3 Nephi 26]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]] ↔ [[3 Nephi 26#^3ne-26-10|3 Nephi 26:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Freedom and Liberty]]
 - [[Prophecy]]
 - [[Obedience]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 26
 slug: jer-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ Placing the Urijah account immediately after the favorable Micah precedent and t
 - [[Jeremiah 27]] — 1 footnote cross-reference (from [[Jeremiah 26#^jer-26-1|Jeremiah 26:1]])
 - [[D&C 28]] — 1 footnote cross-reference (from [[Jeremiah 26#^jer-26-2|Jeremiah 26:2]])
 - [[Leviticus 26]] — 1 footnote cross-reference (from [[Jeremiah 26#^jer-26-4|Jeremiah 26:4]])
+- [[Jeremiah 36]] — 4 parallel verses, e.g. [[Jeremiah 26#^jer-26-3|Jeremiah 26:3]] ↔ [[Jeremiah 36#^jer-36-3|Jeremiah 36:3]]
 - [[Jeremiah 25]] — 4 parallel verses, e.g. [[Jeremiah 26#^jer-26-4|Jeremiah 26:4]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 - [[Jeremiah 27]] — 1 parallel verse, e.g. [[Jeremiah 26#^jer-26-1|Jeremiah 26:1]] ↔ [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]]
 - [[Micah 3]] — 1 parallel verse, e.g. [[Jeremiah 26#^jer-26-18|Jeremiah 26:18]] ↔ [[Micah 3#^micah-3-12|Micah 3:12]]
@@ -65,14 +66,13 @@ Placing the Urijah account immediately after the favorable Micah precedent and t
 - [[Esther 1]] — 2 parallel verses, e.g. [[Jeremiah 26#^jer-26-12|Jeremiah 26:12]] ↔ [[Esther 1#^esth-1-16|Esther 1:16]]
 - [[Jeremiah 22]] — 2 parallel verses, e.g. [[Jeremiah 26#^jer-26-1|Jeremiah 26:1]] ↔ [[Jeremiah 22#^jer-22-18|Jeremiah 22:18]]
 - [[Jeremiah 43]] — 2 parallel verses, e.g. [[Jeremiah 26#^jer-26-4|Jeremiah 26:4]] ↔ [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]]
-- [[Ezekiel 2]] — 1 parallel verse, e.g. [[Jeremiah 26#^jer-26-4|Jeremiah 26:4]] ↔ [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*

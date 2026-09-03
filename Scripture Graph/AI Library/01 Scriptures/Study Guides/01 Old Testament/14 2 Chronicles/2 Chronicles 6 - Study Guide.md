@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 6
 slug: 2chr-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ The chapter has four principal movements:
 - [[D&C 133]] — 1 footnote cross-reference (from [[2 Chronicles 6#^2chr-6-6|2 Chronicles 6:6]])
 - [[1 Chronicles 28]] — 1 footnote cross-reference (from [[2 Chronicles 6#^2chr-6-41|2 Chronicles 6:41]])
 - [[Psalm 132]] — 1 footnote cross-reference (from [[2 Chronicles 6#^2chr-6-42|2 Chronicles 6:42]])
+- [[1 Kings 8]] — 44 parallel verses, e.g. [[2 Chronicles 6#^2chr-6-33|2 Chronicles 6:33]] ↔ [[1 Kings 8#^1kgs-8-43|1 Kings 8:43]]
 - [[1 Kings 2]] — 2 parallel verses, e.g. [[2 Chronicles 6#^2chr-6-16|2 Chronicles 6:16]] ↔ [[1 Kings 2#^1kgs-2-4|1 Kings 2:4]]
 - [[2 Chronicles 7]] — 2 parallel verses, e.g. [[2 Chronicles 6#^2chr-6-40|2 Chronicles 6:40]] ↔ [[2 Chronicles 7#^2chr-7-15|2 Chronicles 7:15]]
 - [[Psalm 132]] — 2 parallel verses, e.g. [[2 Chronicles 6#^2chr-6-42|2 Chronicles 6:42]] ↔ [[Psalm 132#^ps-132-10|Psalm 132:10]]
@@ -59,15 +60,14 @@ The chapter has four principal movements:
 - [[2 Chronicles 2]] — 1 parallel verse, e.g. [[2 Chronicles 6#^2chr-6-7|2 Chronicles 6:7]] ↔ [[2 Chronicles 2#^2chr-2-1|2 Chronicles 2:1]]
 - [[1 Kings 8]] — 0 parallel verses
 - [[2 Chronicles 7]] — 0 parallel verses
-- [[1 Kings 8]] — 0 parallel verses
-- [[D&C 109]] — 0 parallel verses
+- [[2 Chronicles 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Repentance and Forgiveness]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 12
 slug: isa-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Isaiah 26]] — 1 footnote cross-reference (from [[Isaiah 12#^isa-12-2|Isaiah 12:2]])
 - [[D&C 68]] — 1 footnote cross-reference (from [[Isaiah 12#^isa-12-6|Isaiah 12:6]])
 - [[2 Nephi 22]] — 6 parallel verses, e.g. [[Isaiah 12#^isa-12-1|Isaiah 12:1]] ↔ [[2 Nephi 22#^2ne-22-1|2 Nephi 22:1]]
+- [[Exodus 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

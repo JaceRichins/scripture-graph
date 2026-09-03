@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 99
 slug: dc-99
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 99]] · My notes: [[D&C 99 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–8, John Murdock is called to proclaim the gospel, and those who receive him receive the Lord and will obtain mercy.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 75]] — 2 footnote cross-references (from [[D&C 99#^dc-99-4|D&C 99:4]])
+- [[Luke 10]] — 1 footnote cross-reference (from [[D&C 99#^dc-99-1|D&C 99:1]])
+- [[Matthew 10]] — 1 footnote cross-reference (from [[D&C 99#^dc-99-2|D&C 99:2]])
+- [[1 Corinthians 2]] — 1 footnote cross-reference (from [[D&C 99#^dc-99-2|D&C 99:2]])
+- [[Matthew 18]] — 1 footnote cross-reference (from [[D&C 99#^dc-99-3|D&C 99:3]])
+- [[John 12]] — 1 footnote cross-reference (from [[D&C 99#^dc-99-4|D&C 99:4]])
 - [[D&C 9]] — 2 parallel verses, e.g. [[D&C 99#^dc-99-6|D&C 99:6]] ↔ [[D&C 9#^dc-9-3|D&C 9:3]]
 - [[D&C 75]] — 1 parallel verse, e.g. [[D&C 99#^dc-99-1|D&C 99:1]] ↔ [[D&C 75#^dc-75-18|D&C 75:18]]
 <!-- SG:END related-scriptures -->

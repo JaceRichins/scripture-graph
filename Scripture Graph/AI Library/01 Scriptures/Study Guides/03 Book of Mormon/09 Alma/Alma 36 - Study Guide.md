@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 36
 slug: alma-36
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ The opening and closing sections clearly correspond, and the reversal from pain 
 - [[1 Nephi 1]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-22|Alma 36:22]] ↔ [[1 Nephi 1#^1ne-1-8|1 Nephi 1:8]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[2 Nephi 4]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
+- [[2 Nephi 1]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[1 Nephi 6]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
@@ -69,7 +70,6 @@ The opening and closing sections clearly correspond, and the reversal from pain 
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
 - [[Luke 20]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
-- [[Acts 7]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -161,4 +161,5 @@ Compare Alma 36:1, 30 with [[2 Nephi 1]] for the prosperity-and-presence formula
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
 - [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
 <!-- SG:END secondary-sources -->

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 6
 slug: matt-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,9 +47,10 @@ _Not yet developed._
 - [[3 Nephi 13]] — 43 parallel verses, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
 - [[Luke 12]] — 7 parallel verses, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[Luke 12#^luke-12-22|Luke 12:22]]
 - [[Luke 16]] — 1 parallel verse, e.g. [[Matthew 6#^matt-6-24|Matthew 6:24]] ↔ [[Luke 16#^luke-16-13|Luke 16:13]]
-- [[D&C 84]] — 3 parallel verses, e.g. [[Matthew 6#^matt-6-28|Matthew 6:28]] ↔ [[D&C 84#^dc-84-82|D&C 84:82]]
 - [[Luke 11]] — 4 parallel verses, e.g. [[Matthew 6#^matt-6-13|Matthew 6:13]] ↔ [[Luke 11#^luke-11-4|Luke 11:4]]
+- [[D&C 84]] — 3 parallel verses, e.g. [[Matthew 6#^matt-6-28|Matthew 6:28]] ↔ [[D&C 84#^dc-84-82|D&C 84:82]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
+- [[D&C 88]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,6 +69,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Our Heartfelt All (Elder Dieter F. Uchtdorf, April 2022)|Our Heartfelt All]] — Elder Dieter F. Uchtdorf, 2022-April *(explicit citation)*
+- [[The Privilege of Prayer (Elder J. Devn Cornish, October 2011)|The Privilege of Prayer]] — Elder J. Devn Cornish, 2011-October *(explicit citation)*
 - [[Trusting the Doctrine of Christ (Elder Evan A. Schmutz, April 2023)|Trusting the Doctrine of Christ]] — Elder Evan A. Schmutz, 2023-April *(explicit citation)*
 - [[Watch Ye Therefore, and Pray Always (President M. Russell Ballard, October 2020)|Watch Ye Therefore, and Pray Always]] — President M. Russell Ballard, 2020-October *(explicit citation)*
 - [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
@@ -76,7 +78,6 @@ _Not yet developed._
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
 - [[Right Before Our Eyes (Elder Ronald A. Rasband, April 2025)|Right Before Our Eyes]] — Elder Ronald A. Rasband, 2025-April *(explicit citation)*
-- [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

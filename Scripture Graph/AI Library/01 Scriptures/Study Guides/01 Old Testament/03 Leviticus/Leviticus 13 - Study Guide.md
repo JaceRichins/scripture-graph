@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 13
 slug: lev-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Luke 17]] — 1 footnote cross-reference (from [[Leviticus 13#^lev-13-49|Leviticus 13:49]])
 - [[Leviticus 14]] — 1 footnote cross-reference (from [[Leviticus 13#^lev-13-59|Leviticus 13:59]])
 - [[Leviticus 14]] — 9 parallel verses, e.g. [[Leviticus 13#^lev-13-32|Leviticus 13:32]] ↔ [[Leviticus 14#^lev-14-37|Leviticus 14:37]]
+- [[Leviticus 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

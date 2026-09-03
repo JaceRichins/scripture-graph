@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Words of Mormon
 chapter: 1
 slug: wofm-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -73,11 +73,12 @@ _Not yet developed._
 - [[We Each Have a Story (Elder Gerrit W. Gong, April 2022)|We Each Have a Story]] — Elder Gerrit W. Gong, 2022-April *(explicit citation)*
 - [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
 - [[Bear Up Their Burdens with Ease (Elder David A. Bednar, April 2014)|Bear Up Their Burdens with Ease]] — Elder David A. Bednar, 2014-April *(explicit citation)*
+- [[Testimony (Elder Cecil O. Samuelson Jr., April 2011)|Testimony]] — Elder Cecil O. Samuelson Jr., 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -26,7 +26,7 @@ cssclasses:
 > [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Ezekiel 21#^ezek-21-9|≈ Ezekiel 21:9]] · [[Ezekiel 21#^ezek-21-28|≈ Ezekiel 21:28]]
 
 ![[Ezekiel 36#^ezek-36-4]]
-> [[Ezekiel 33#^ezek-33-24|Ezek. 33:24]] · [[Psalm 44#^ps-44-13|Ps. 44:13]] · [[Leviticus 25#^lev-25-44|≈ Leviticus 25:44]] · [[Ezekiel 6#^ezek-6-3|≈ Ezekiel 6:3]] · [[Ezekiel 11#^ezek-11-12|≈ Ezekiel 11:12]] · [[Ezekiel 25#^ezek-25-3|≈ Ezekiel 25:3]]
+> [[Ezekiel 33#^ezek-33-24|Ezek. 33:24]] · [[Psalm 44#^ps-44-13|Ps. 44:13]] · [[Leviticus 25#^lev-25-44|≈ Leviticus 25:44]] · [[Ezekiel 6#^ezek-6-3|≈ Ezekiel 6:3]] · [[Ezekiel 25#^ezek-25-3|≈ Ezekiel 25:3]] · [[Ezekiel 11#^ezek-11-12|≈ Ezekiel 11:12]]
 
 ![[Ezekiel 36#^ezek-36-5]]
 > [[Deuteronomy 4#^deut-4-24|Deut. 4:24]] · [[Ezekiel 17#^ezek-17-16|≈ Ezekiel 17:16]]

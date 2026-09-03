@@ -42,7 +42,7 @@ cssclasses:
 > [[Numbers 16#^num-16-40|Num. 16:40]] · [[1 Chronicles 23#^1chr-23-32|1 Chr. 23:32]]
 
 ![[Numbers 3#^num-3-10]]
-> [[Numbers 1#^num-1-51|≈ Numbers 1:51]] · [[Numbers 18#^num-18-7|≈ Numbers 18:7]]
+> [[Numbers 18#^num-18-7|≈ Numbers 18:7]] · [[Numbers 1#^num-1-51|≈ Numbers 1:51]]
 
 ![[Numbers 3#^num-3-11]]
 
@@ -118,7 +118,7 @@ cssclasses:
 > [[Numbers 4#^num-4-32|≈ Numbers 4:32]]
 
 ![[Numbers 3#^num-3-38]]
-> [[Numbers 18#^num-18-2|Num. 18:5 (2–7)]] · [[Numbers 1#^num-1-51|Num. 1:51]] · [[Numbers 1#^num-1-51|≈ Numbers 1:51]] · [[Numbers 18#^num-18-7|≈ Numbers 18:7]]
+> [[Numbers 18#^num-18-2|Num. 18:5 (2–7)]] · [[Numbers 1#^num-1-51|Num. 1:51]] · [[Numbers 18#^num-18-7|≈ Numbers 18:7]] · [[Numbers 1#^num-1-51|≈ Numbers 1:51]]
 
 ![[Numbers 3#^num-3-39]]
 > [[Numbers 26#^num-26-62|≈ Numbers 26:62]]

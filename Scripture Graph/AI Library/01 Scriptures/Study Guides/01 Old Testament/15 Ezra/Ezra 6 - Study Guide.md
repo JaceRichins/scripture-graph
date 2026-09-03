@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 6
 slug: ezra-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,8 +58,8 @@ The movement from imperial paperwork to temple liturgy mirrors the book of Ezra'
 - [[Ezra 5]] — 6 parallel verses, e.g. [[Ezra 6#^ezra-6-14|Ezra 6:14]] ↔ [[Ezra 5#^ezra-5-1|Ezra 5:1]]
 - [[2 Chronicles 35]] — 3 parallel verses, e.g. [[Ezra 6#^ezra-6-18|Ezra 6:18]] ↔ [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]]
 - [[2 Chronicles 30]] — 2 parallel verses, e.g. [[Ezra 6#^ezra-6-22|Ezra 6:22]] ↔ [[2 Chronicles 30#^2chr-30-21|2 Chronicles 30:21]]
+- [[Numbers 9]] — 2 parallel verses, e.g. [[Ezra 6#^ezra-6-14|Ezra 6:14]] ↔ [[Numbers 9#^num-9-20|Numbers 9:20]]
 - [[Ezra 4]] — 2 parallel verses, e.g. [[Ezra 6#^ezra-6-22|Ezra 6:22]] ↔ [[Ezra 4#^ezra-4-24|Ezra 4:24]]
-- [[Numbers 9]] — 0 parallel verses
 - [[Ezra 5]] — 0 parallel verses
 - [[Ezra 4]] — 0 parallel verses
 - [[2 Chronicles 30]] — 0 parallel verses
@@ -68,14 +68,14 @@ The movement from imperial paperwork to temple liturgy mirrors the book of Ezra'
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Passover]]
 - [[Prophecy]]
 - [[Records and Sacred Writings]]
 - [[Law of Moses]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Passover]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -93,7 +93,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

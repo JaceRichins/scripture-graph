@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 34
 slug: jer-34
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ Jeremiah 34 joins two oracles from Jerusalem's final crisis. The first announces
 - [[Jeremiah 22]] — 1 footnote cross-reference (from [[Jeremiah 34#^jer-34-20|Jeremiah 34:20]])
 - [[Jeremiah 32]] — 10 parallel verses, e.g. [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
 - [[Jeremiah 21]] — 6 parallel verses, e.g. [[Jeremiah 34#^jer-34-21|Jeremiah 34:21]] ↔ [[Jeremiah 21#^jer-21-7|Jeremiah 21:7]]
+- [[Jeremiah 38]] — 8 parallel verses, e.g. [[Jeremiah 34#^jer-34-21|Jeremiah 34:21]] ↔ [[Jeremiah 38#^jer-38-3|Jeremiah 38:3]]
 - [[Jeremiah 7]] — 7 parallel verses, e.g. [[Jeremiah 34#^jer-34-15|Jeremiah 34:15]] ↔ [[Jeremiah 7#^jer-7-30|Jeremiah 7:30]]
 - [[Jeremiah 20]] — 4 parallel verses, e.g. [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]] ↔ [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]]
 - [[Jeremiah 11]] — 4 parallel verses, e.g. [[Jeremiah 34#^jer-34-13|Jeremiah 34:13]] ↔ [[Jeremiah 11#^jer-11-4|Jeremiah 11:4]]
@@ -61,16 +62,16 @@ Jeremiah 34 joins two oracles from Jerusalem's final crisis. The first announces
 - [[Ezekiel 30]] — 3 parallel verses, e.g. [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
 - [[Jeremiah 42]] — 3 parallel verses, e.g. [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]] ↔ [[Jeremiah 42#^jer-42-9|Jeremiah 42:9]]
 - [[Jeremiah 22]] — 2 parallel verses, e.g. [[Jeremiah 34#^jer-34-21|Jeremiah 34:21]] ↔ [[Jeremiah 22#^jer-22-25|Jeremiah 22:25]]
-- [[Jeremiah 45]] — 2 parallel verses, e.g. [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]] ↔ [[Jeremiah 45#^jer-45-2|Jeremiah 45:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Freedom and Liberty]]
-- [[Covenants]]
 - [[Law of Moses]]
 - [[Exodus and Deliverance]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

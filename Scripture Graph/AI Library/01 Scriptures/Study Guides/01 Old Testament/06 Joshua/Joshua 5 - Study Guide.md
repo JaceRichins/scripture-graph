@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 5
 slug: josh-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Exodus 12]] — 1 parallel verse, e.g. [[Joshua 5#^josh-5-10|Joshua 5:10]] ↔ [[Exodus 12#^ex-12-18|Exodus 12:18]]
 - [[Deuteronomy 27]] — 1 parallel verse, e.g. [[Joshua 5#^josh-5-6|Joshua 5:6]] ↔ [[Deuteronomy 27#^deut-27-3|Deuteronomy 27:3]]
 - [[Exodus 16]] — 0 parallel verses
+- [[Joshua 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,7 +78,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

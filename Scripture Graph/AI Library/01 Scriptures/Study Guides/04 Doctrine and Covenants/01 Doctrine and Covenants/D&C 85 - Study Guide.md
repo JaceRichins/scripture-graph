@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 85
 slug: dc-85
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -37,6 +37,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 42]] — 2 footnote cross-references (from [[D&C 85#^dc-85-1|D&C 85:1]])
+- [[D&C 51]] — 2 footnote cross-references (from [[D&C 85#^dc-85-1|D&C 85:1]])
+- [[Malachi 3]] — 2 footnote cross-references (from [[D&C 85#^dc-85-3|D&C 85:3]])
+- [[D&C 1]] — 2 footnote cross-references (from [[D&C 85#^dc-85-3|D&C 85:3]])
+- [[Ezra 2]] — 2 footnote cross-references (from [[D&C 85#^dc-85-4|D&C 85:4]])
+- [[D&C 64]] — 2 footnote cross-references (from [[D&C 85#^dc-85-7|D&C 85:7]])
+- [[Joshua 24]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[Joshua 24#^josh-24-26|Joshua 24:26]]
+- [[Nehemiah 8]] — 2 parallel verses, e.g. [[D&C 85#^dc-85-5|D&C 85:5]] ↔ [[Nehemiah 8#^neh-8-18|Nehemiah 8:18]]
 - [[Malachi 3]] — 0 parallel verses
 - [[2 Samuel 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -58,6 +66,7 @@ The chapter presents [[Consecration]] as an ordered communal practice involving 
 - [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
 - [[The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives (Elder Quentin L. Cook, April 2020)|The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives]] — Elder Quentin L. Cook, 2020-April *(explicit citation)*
 - [[The Faith to Ask and Then to Act (President Henry B. Eyring, October 2021)|The Faith to Ask and Then to Act]] — President Henry B. Eyring, 2021-October *(explicit citation)*
+- [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
 - [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -65,6 +74,7 @@ The chapter presents [[Consecration]] as an ordered communal practice involving 
 <!-- SG:BEGIN history -->
 - **The Book of John Whitmer** (history) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
+- **42 Round Up Your Shoulders** (history) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*

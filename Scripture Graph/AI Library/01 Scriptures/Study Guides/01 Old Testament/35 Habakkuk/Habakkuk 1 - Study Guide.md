@@ -6,7 +6,7 @@ volume: Old Testament
 book: Habakkuk
 chapter: 1
 slug: hab-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

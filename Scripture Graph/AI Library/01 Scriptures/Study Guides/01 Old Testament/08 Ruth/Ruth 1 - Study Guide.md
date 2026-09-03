@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 1
 slug: ruth-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,10 +59,12 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
+- [[Followers of Christ (Elder Walter F. González, April 2011)|Followers of Christ]] — Elder Walter F. González, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **28 Tried Long Enough** (history) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

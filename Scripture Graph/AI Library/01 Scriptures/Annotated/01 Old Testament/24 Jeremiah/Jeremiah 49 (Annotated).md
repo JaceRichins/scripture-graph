@@ -19,7 +19,7 @@ cssclasses:
 ![[Jeremiah 49#^jer-49-1]]
 
 ![[Jeremiah 49#^jer-49-2]]
-> [[Ezekiel 21#^ezek-21-20|Ezek. 21:20]] · [[Ezekiel 25#^ezek-25-4|25:5 (4–5)]] · [[Amos 1#^amos-1-14|Amos 1:14]] · [[Ezekiel 21#^ezek-21-28|Ezek. 21:28]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]] · [[Jeremiah 51#^jer-51-52|≈ Jeremiah 51:52]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 48#^jer-48-12|≈ Jeremiah 48:12]] · [[Jeremiah 23#^jer-23-5|≈ Jeremiah 23:5]] · [[Jeremiah 23#^jer-23-7|≈ Jeremiah 23:7]]
+> [[Ezekiel 21#^ezek-21-20|Ezek. 21:20]] · [[Ezekiel 25#^ezek-25-4|25:5 (4–5)]] · [[Amos 1#^amos-1-14|Amos 1:14]] · [[Ezekiel 21#^ezek-21-28|Ezek. 21:28]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]] · [[Jeremiah 51#^jer-51-52|≈ Jeremiah 51:52]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 48#^jer-48-12|≈ Jeremiah 48:12]] · [[Amos 9#^amos-9-13|≈ Amos 9:13]] · [[Jeremiah 23#^jer-23-5|≈ Jeremiah 23:5]]
 
 ![[Jeremiah 49#^jer-49-3]]
 > [[Jeremiah 48#^jer-48-7|Jer. 48:7]]
@@ -30,7 +30,7 @@ cssclasses:
 ![[Jeremiah 49#^jer-49-5]]
 
 ![[Jeremiah 49#^jer-49-6]]
-> [[Jeremiah 30#^jer-30-3|≈ Jeremiah 30:3]] · [[Jeremiah 30#^jer-30-18|≈ Jeremiah 30:18]] · [[Ezekiel 29#^ezek-29-14|≈ Ezekiel 29:14]] · [[Amos 9#^amos-9-14|≈ Amos 9:14]]
+> [[Amos 9#^amos-9-14|≈ Amos 9:14]] · [[Jeremiah 30#^jer-30-3|≈ Jeremiah 30:3]] · [[Jeremiah 30#^jer-30-18|≈ Jeremiah 30:18]] · [[Ezekiel 29#^ezek-29-14|≈ Ezekiel 29:14]]
 
 ![[Jeremiah 49#^jer-49-7]]
 > [[Genesis 36#^gen-36-1|Gen. 36:1]] · [[Jeremiah 25#^jer-25-21|Jer. 25:21]] · [[Lamentations 4#^lam-4-21|Lam. 4:21]] · [[Ezekiel 25#^ezek-25-12|Ezek. 25:13 (12–14)]] · [[Amos 1#^amos-1-11|Amos 1:11]] · [[Obadiah 1#^obad-1-1|Obad. 1:1 (1–14)]]
@@ -118,4 +118,4 @@ cssclasses:
 ![[Jeremiah 49#^jer-49-38]]
 
 ![[Jeremiah 49#^jer-49-39]]
-> [[Jeremiah 30#^jer-30-3|≈ Jeremiah 30:3]] · [[Jeremiah 30#^jer-30-18|≈ Jeremiah 30:18]] · [[Ezekiel 29#^ezek-29-14|≈ Ezekiel 29:14]] · [[Amos 9#^amos-9-14|≈ Amos 9:14]]
+> [[Amos 9#^amos-9-14|≈ Amos 9:14]] · [[Jeremiah 30#^jer-30-3|≈ Jeremiah 30:3]] · [[Jeremiah 30#^jer-30-18|≈ Jeremiah 30:18]] · [[Ezekiel 29#^ezek-29-14|≈ Ezekiel 29:14]]

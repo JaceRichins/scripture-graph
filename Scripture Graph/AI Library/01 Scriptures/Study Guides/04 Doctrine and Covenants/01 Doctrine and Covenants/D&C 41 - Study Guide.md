@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 41
 slug: dc-41
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,14 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 42]] — 5 footnote cross-references (from [[D&C 41#^dc-41-3|D&C 41:3]])
+- [[D&C 50]] — 3 footnote cross-references (from [[D&C 41#^dc-41-1|D&C 41:1]])
+- [[D&C 45]] — 2 footnote cross-references (from [[D&C 41#^dc-41-4|D&C 41:4]])
+- [[Matthew 7]] — 2 footnote cross-references (from [[D&C 41#^dc-41-5|D&C 41:5]])
+- [[D&C 58]] — 2 footnote cross-references (from [[D&C 41#^dc-41-9|D&C 41:9]])
+- [[Deuteronomy 32]] — 1 footnote cross-reference (from [[D&C 41#^dc-41-1|D&C 41:1]])
+- [[D&C 42]] — 3 parallel verses, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 42#^dc-42-58|D&C 42:58]]
+- [[D&C 43]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 43#^dc-43-8|D&C 43:8]]
 - [[D&C 88]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 88#^dc-88-76|D&C 88:76]]
 - [[D&C 49]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 49#^dc-49-11|D&C 49:11]]
 - [[D&C 38]] — 2 parallel verses, e.g. [[D&C 41#^dc-41-9|D&C 41:9]] ↔ [[D&C 38#^dc-38-34|D&C 38:34]]
@@ -51,7 +59,6 @@ _Not yet developed._
 - [[D&C 98]] — 1 parallel verse, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[D&C 98#^dc-98-11|D&C 98:11]]
 - [[3 Nephi 12]] — 1 parallel verse, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]]
 - [[3 Nephi 18]] — 1 parallel verse, e.g. [[D&C 41#^dc-41-2|D&C 41:2]] ↔ [[3 Nephi 18#^3ne-18-12|3 Nephi 18:12]]
-- [[D&C 42]] — 0 parallel verses
 - [[Matthew 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -72,12 +79,14 @@ The chapter connects [[Revelation]], [[Prayer]], [[Obedience]], and [[Government
 - [[Your Next Step (Elder Randall K. Bennett, October 2015)|Your Next Step]] — Elder Randall K. Bennett, 2015-October *(explicit citation)*
 - [[The Elders Quorum (Elder D. Todd Christofferson, April 2018)|The Elders Quorum]] — Elder D. Todd Christofferson, 2018-April *(explicit citation)*
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **11 Ye Shall Receive My Law** (history) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*

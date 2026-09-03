@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 32
 slug: num-32
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 - [[Deuteronomy 34]] — 1 parallel verse, e.g. [[Numbers 32#^num-32-11|Numbers 32:11]] ↔ [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]]
 - [[Joshua 21]] — 1 parallel verse, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Joshua 21#^josh-21-1|Joshua 21:1]]
 - [[Numbers 34]] — 1 parallel verse, e.g. [[Numbers 32#^num-32-28|Numbers 32:28]] ↔ [[Numbers 34#^num-34-17|Numbers 34:17]]
+- [[Deuteronomy 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

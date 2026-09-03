@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 77
 slug: dc-77
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,7 +44,13 @@ The sequence follows the order of John's Apocalypse:
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
 - [[Revelation 7]] — cited in the text
-- [[Revelation 7]] — 0 parallel verses
+- [[Revelation 7]] — 4 footnote cross-references (from [[D&C 77#^dc-77-8|D&C 77:8]])
+- [[D&C 93]] — 3 footnote cross-references (from [[D&C 77#^dc-77-2|D&C 77:2]])
+- [[Moses 3]] — 3 footnote cross-references (from [[D&C 77#^dc-77-2|D&C 77:2]])
+- [[Revelation 14]] — 3 footnote cross-references (from [[D&C 77#^dc-77-5|D&C 77:5]])
+- [[Ezekiel 1]] — 2 footnote cross-references (from [[D&C 77#^dc-77-1|D&C 77:1]])
+- [[Revelation 4]] — 2 footnote cross-references (from [[D&C 77#^dc-77-1|D&C 77:1]])
+- [[Revelation 7]] — 2 parallel verses, e.g. [[D&C 77#^dc-77-9|D&C 77:9]] ↔ [[Revelation 7#^rev-7-3|Revelation 7:3]]
 - [[Revelation 4]] — 0 parallel verses
 - [[Revelation 5]] — 0 parallel verses
 - [[Revelation 10]] — 0 parallel verses
@@ -53,10 +59,10 @@ The sequence follows the order of John's Apocalypse:
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Angels]]
 - [[Death and the Spirit World]]
 - [[Final Judgment]]
 - [[Revelation]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 - [[Eternal Marriage]] *(keyword match — unconfirmed)*
 - [[Millennium]] *(keyword match — unconfirmed)*
 - [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
@@ -69,6 +75,7 @@ The chapter portrays salvation on a cosmic scale. The earth is destined for a sa
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 

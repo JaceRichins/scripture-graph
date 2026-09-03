@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 20
 slug: 1ne-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ Verses 20–21 connect release from Babylon with [[Exodus and Deliverance]] thro
 - [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[More Than Conquerors through Him That Loved Us (Elder Paul V. Johnson, April 2011)|More Than Conquerors through Him That Loved Us]] — Elder Paul V. Johnson, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

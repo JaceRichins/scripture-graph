@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 52
 slug: alma-52
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,16 +58,16 @@ Alma 52 spans portions of three regnal years and links Amalickiah's death to Amm
 - [[Alma 44]] — 1 parallel verse, e.g. [[Alma 52#^alma-52-38|Alma 52:38]] ↔ [[Alma 44#^alma-44-15|Alma 44:15]]
 - [[Alma 58]] — 2 parallel verses, e.g. [[Alma 52#^alma-52-23|Alma 52:23]] ↔ [[Alma 58#^alma-58-30|Alma 58:30]]
 - [[1 Kings 16]] — 3 parallel verses, e.g. [[Alma 52#^alma-52-1|Alma 52:1]] ↔ [[1 Kings 16#^1kgs-16-8|1 Kings 16:8]]
+- [[Alma 62]] — 2 parallel verses, e.g. [[Alma 52#^alma-52-12|Alma 52:12]] ↔ [[Alma 62#^alma-62-6|Alma 62:6]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Alma 52#^alma-52-19|Alma 52:19]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
 - [[3 Nephi 4]] — 2 parallel verses, e.g. [[Alma 52#^alma-52-23|Alma 52:23]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
-- [[Alma 62]] — 0 parallel verses
 - [[Alma 44]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
-- [[Government and Laws]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Book of Mormon Geography]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

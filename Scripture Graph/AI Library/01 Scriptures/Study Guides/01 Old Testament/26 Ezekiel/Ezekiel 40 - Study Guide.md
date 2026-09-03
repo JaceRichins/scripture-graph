@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 40
 slug: ezek-40
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

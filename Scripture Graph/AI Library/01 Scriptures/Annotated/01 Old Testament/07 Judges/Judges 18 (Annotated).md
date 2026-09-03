@@ -78,12 +78,12 @@ cssclasses:
 ![[Judges 18#^judg-18-26]]
 
 ![[Judges 18#^judg-18-27]]
-> [[Joshua 10#^josh-10-39|≈ Joshua 10:39]] · [[Joshua 10#^josh-10-28|≈ Joshua 10:28]] · [[Joshua 10#^josh-10-30|≈ Joshua 10:30]] · [[Joshua 10#^josh-10-32|≈ Joshua 10:32]] · [[Joshua 10#^josh-10-35|≈ Joshua 10:35]] · [[Joshua 10#^josh-10-37|≈ Joshua 10:37]]
+> [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Joshua 10#^josh-10-39|≈ Joshua 10:39]] · [[Joshua 10#^josh-10-28|≈ Joshua 10:28]] · [[Joshua 10#^josh-10-30|≈ Joshua 10:30]] · [[Joshua 10#^josh-10-32|≈ Joshua 10:32]] · [[Joshua 10#^josh-10-35|≈ Joshua 10:35]]
 
 ![[Judges 18#^judg-18-28]]
 
 ![[Judges 18#^judg-18-29]]
-> [[Alma 50#^alma-50-13|≈ Alma 50:13]] · [[Alma 50#^alma-50-14|≈ Alma 50:14]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]]
+> [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Alma 50#^alma-50-13|≈ Alma 50:13]] · [[Alma 50#^alma-50-14|≈ Alma 50:14]]
 
 ![[Judges 18#^judg-18-30]]
 > [[Exodus 2#^ex-2-22|Ex. 2:22]] · [[Exodus 18#^ex-18-3|18:3]]

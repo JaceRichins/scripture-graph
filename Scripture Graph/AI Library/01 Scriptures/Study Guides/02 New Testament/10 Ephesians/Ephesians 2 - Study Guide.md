@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 2
 slug: eph-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[D&C 121]] — 1 footnote cross-reference (from [[Ephesians 2#^eph-2-2|Ephesians 2:2]])
 - [[Alma 22]] — 1 footnote cross-reference (from [[Ephesians 2#^eph-2-8|Ephesians 2:8]])
 - [[Alma 42]] — 1 footnote cross-reference (from [[Ephesians 2#^eph-2-8|Ephesians 2:8]])
+- [[1 Corinthians 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

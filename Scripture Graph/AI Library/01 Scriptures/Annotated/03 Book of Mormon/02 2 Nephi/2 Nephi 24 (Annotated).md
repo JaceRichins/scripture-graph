@@ -23,10 +23,10 @@ cssclasses:
 > [[Amos 9#^amos-9-12|Amos 9:12]] · [[Isaiah 60#^isa-60-10|Isa. 60:14 (10–12, 14)]] · [[Isaiah 14#^isa-14-2|≈ Isaiah 14:2]]
 
 ![[2 Nephi 24#^2ne-24-3]]
-> [[Joshua 1#^josh-1-13|Josh. 1:13]] · [[D&C 84#^dc-84-24|D&amp;C 84:24]] · [[Isaiah 14#^isa-14-3|≈ Isaiah 14:3]] · [[Isaiah 27#^isa-27-12|≈ Isaiah 27:12]] · [[Isaiah 27#^isa-27-13|≈ Isaiah 27:13]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]]
+> [[Joshua 1#^josh-1-13|Josh. 1:13]] · [[D&C 84#^dc-84-24|D&amp;C 84:24]] · [[Isaiah 14#^isa-14-3|≈ Isaiah 14:3]] · [[Isaiah 10#^isa-10-20|≈ Isaiah 10:20]] · [[Isaiah 10#^isa-10-27|≈ Isaiah 10:27]] · [[Isaiah 27#^isa-27-12|≈ Isaiah 27:12]] · [[Isaiah 27#^isa-27-13|≈ Isaiah 27:13]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]]
 
 ![[2 Nephi 24#^2ne-24-4]]
-> [[Habakkuk 2#^hab-2-6|Hab. 2:6 (6–8)]] · [[Isaiah 14#^isa-14-4|≈ Isaiah 14:4]] · [[Isaiah 27#^isa-27-12|≈ Isaiah 27:12]] · [[Isaiah 27#^isa-27-13|≈ Isaiah 27:13]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]]
+> [[Habakkuk 2#^hab-2-6|Hab. 2:6 (6–8)]] · [[Isaiah 14#^isa-14-4|≈ Isaiah 14:4]] · [[Isaiah 10#^isa-10-20|≈ Isaiah 10:20]] · [[Isaiah 10#^isa-10-27|≈ Isaiah 10:27]] · [[Isaiah 27#^isa-27-12|≈ Isaiah 27:12]] · [[Isaiah 27#^isa-27-13|≈ Isaiah 27:13]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]]
 
 ![[2 Nephi 24#^2ne-24-5]]
 > [[Isaiah 14#^isa-14-5|≈ Isaiah 14:5]]

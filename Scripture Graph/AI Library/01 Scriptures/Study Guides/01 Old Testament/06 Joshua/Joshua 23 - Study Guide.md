@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 23
 slug: josh-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,18 +50,18 @@ A notable tension gives the chapter nuance: Israel has received rest, yet nation
 - [[Joshua 13]] — 1 footnote cross-reference (from [[Joshua 23#^josh-23-1|Joshua 23:1]])
 - [[Joshua 15]] — 1 footnote cross-reference (from [[Joshua 23#^josh-23-4|Joshua 23:4]])
 - [[D&C 98]] — 1 footnote cross-reference (from [[Joshua 23#^josh-23-5|Joshua 23:5]])
+- [[Deuteronomy 3]] — 5 parallel verses, e.g. [[Joshua 23#^josh-23-3|Joshua 23:3]] ↔ [[Deuteronomy 3#^deut-3-21|Deuteronomy 3:21]]
 - [[Joshua 1]] — 3 parallel verses, e.g. [[Joshua 23#^josh-23-6|Joshua 23:6]] ↔ [[Joshua 1#^josh-1-7|Joshua 1:7]]
+- [[Joshua 24]] — 1 parallel verse, e.g. [[Joshua 23#^josh-23-2|Joshua 23:2]] ↔ [[Joshua 24#^josh-24-1|Joshua 24:1]]
 - [[Joshua 8]] — 2 parallel verses, e.g. [[Joshua 23#^josh-23-6|Joshua 23:6]] ↔ [[Joshua 8#^josh-8-31|Joshua 8:31]]
 - [[Deuteronomy 7]] — 1 parallel verse, e.g. [[Joshua 23#^josh-23-16|Joshua 23:16]] ↔ [[Deuteronomy 7#^deut-7-4|Deuteronomy 7:4]]
 - [[Deuteronomy 4]] — 1 parallel verse, e.g. [[Joshua 23#^josh-23-16|Joshua 23:16]] ↔ [[Deuteronomy 4#^deut-4-23|Deuteronomy 4:23]]
 - [[Deuteronomy 11]] — 1 parallel verse, e.g. [[Joshua 23#^josh-23-16|Joshua 23:16]] ↔ [[Deuteronomy 11#^deut-11-17|Deuteronomy 11:17]]
-- [[Joshua 24]] — 0 parallel verses
 - [[Joshua 1]] — 0 parallel verses
 - [[Joshua 21]] — 0 parallel verses
 - [[Deuteronomy 7]] — 0 parallel verses
 - [[Deuteronomy 11]] — 0 parallel verses
 - [[Deuteronomy 4]] — 0 parallel verses
-- [[Numbers 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

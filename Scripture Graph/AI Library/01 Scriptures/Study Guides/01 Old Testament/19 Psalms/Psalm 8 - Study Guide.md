@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 8
 slug: ps-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -62,11 +62,12 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Love All; Love Each (Elder Gérald Caussé, April 2026)|Love All; Love Each]] — Elder Gérald Caussé, 2026-April *(explicit citation)*
+- [[Forget Me Not (President Dieter F. Uchtdorf, October 2011)|Forget Me Not]] — President Dieter F. Uchtdorf, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

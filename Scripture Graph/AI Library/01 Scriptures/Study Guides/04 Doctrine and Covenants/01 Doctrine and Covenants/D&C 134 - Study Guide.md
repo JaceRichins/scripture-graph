@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 134
 slug: dc-134
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 134]] · My notes: [[D&C 134 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–4, Governments should preserve freedom of conscience and worship; 5–8, All men should uphold their governments and owe respect and deference to the law; 9–10, Religious societies should not exercise civil powers; 11–12, Men are justified in defending themselves and their property.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[Articles of Faith 1]] — 3 footnote cross-references (from [[D&C 134#^dc-134-1|D&C 134:1]])
+- [[D&C 42]] — 3 footnote cross-references (from [[D&C 134#^dc-134-2|D&C 134:2]])
+- [[Romans 13]] — 2 footnote cross-references (from [[D&C 134#^dc-134-1|D&C 134:1]])
+- [[D&C 98]] — 2 footnote cross-references (from [[D&C 134#^dc-134-1|D&C 134:1]])
+- [[Jeremiah 27]] — 1 footnote cross-reference (from [[D&C 134#^dc-134-1|D&C 134:1]])
+- [[John 19]] — 1 footnote cross-reference (from [[D&C 134#^dc-134-1|D&C 134:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -62,6 +68,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Of Governments and Laws** (history) *(explicit citation)*
 - **Religious Freedom** (reference-entry) *(explicit citation)*
+- **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Civil Government and Law** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

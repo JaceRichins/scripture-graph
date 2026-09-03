@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 2
 slug: 1pet-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

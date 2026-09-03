@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 2
 slug: jacob-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -92,9 +92,10 @@ _Not yet developed._
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 - **The Manifesto and the End of Plural Marriage** (reference-entry) *(explicit citation)*
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Caring for Those in Need** (reference-entry) *(explicit citation)*
-- **Chastity** (reference-entry) *(explicit citation)*
-- **Welfare** (reference-entry) *(explicit citation)*
+- **11 Ye Shall Receive My Law** (history) *(explicit citation)*
+- **36 Incline Them to Gather** (history) *(explicit citation)*
+- **40 United in an Everlasting Covenant** (history) *(explicit citation)*
+- **41 God Must Be the Judge** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

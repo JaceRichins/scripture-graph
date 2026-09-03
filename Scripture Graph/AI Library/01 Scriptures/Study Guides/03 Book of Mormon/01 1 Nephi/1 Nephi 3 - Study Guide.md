@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 3
 slug: 1ne-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -73,10 +73,10 @@ This unfinished ending makes [[1 Nephi 3]] and [[1 Nephi 4]] a tightly connected
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Obedience]]
-- [[Records and Sacred Writings]]
-- [[Angels]]
 - [[Prophecy]]
 - [[Endurance]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -94,11 +94,11 @@ The rationale for obtaining the plates also gives [[Records and Sacred Writings]
 - [[Build a Fortress of Spirituality and Protection (Elder Ronald A. Rasband, April 2019)|Build a Fortress of Spirituality and Protection]] — Elder Ronald A. Rasband, 2019-April *(explicit citation)*
 - [[Ladder of Faith (Elder Larry S. Kacher, April 2022)|Ladder of Faith]] — Elder Larry S. Kacher, 2022-April *(explicit citation)*
 - [[Continuing Revelation (President Henry B. Eyring, October 2014)|Continuing Revelation]] — President Henry B. Eyring, 2014-October *(explicit citation)*
+- [[Willing and Worthy to Serve (President Thomas S. Monson, April 2012)|Willing and Worthy to Serve]] — President Thomas S. Monson, 2012-April *(explicit citation)*
 - [[Earning the Trust of the Lord and Your Family (Elder Richard J. Maynes, October 2017)|Earning the Trust of the Lord and Your Family]] — Elder Richard J. Maynes, 2017-October *(explicit citation)*
 - [[Until Seventy Times Seven (Elder Lynn G. Robbins, April 2018)|Until Seventy Times Seven]] — Elder Lynn G. Robbins, 2018-April *(explicit citation)*
 - [[Lift Up Your Head and Rejoice (M. Joseph Brough, October 2018)|Lift Up Your Head and Rejoice]] — M. Joseph Brough, 2018-October *(explicit citation)*
 - [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
-- [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

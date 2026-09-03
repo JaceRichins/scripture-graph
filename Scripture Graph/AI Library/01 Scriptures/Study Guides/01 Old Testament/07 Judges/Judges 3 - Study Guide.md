@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 3
 slug: judg-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,26 +57,26 @@ The repeated sequence — sin, servitude, crying out, a raised-up deliverer, res
 - [[Nehemiah 9]] — 1 footnote cross-reference (from [[Judges 3#^judg-3-9|Judges 3:9]])
 - [[Habakkuk 3]] — 1 footnote cross-reference (from [[Judges 3#^judg-3-10|Judges 3:10]])
 - [[Judges 10]] — 5 parallel verses, e.g. [[Judges 3#^judg-3-8|Judges 3:8]] ↔ [[Judges 10#^judg-10-7|Judges 10:7]]
+- [[Judges 6]] — 6 parallel verses, e.g. [[Judges 3#^judg-3-7|Judges 3:7]] ↔ [[Judges 6#^judg-6-1|Judges 6:1]]
 - [[Judges 2]] — 4 parallel verses, e.g. [[Judges 3#^judg-3-8|Judges 3:8]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
 - [[Judges 13]] — 2 parallel verses, e.g. [[Judges 3#^judg-3-12|Judges 3:12]] ↔ [[Judges 13#^judg-13-1|Judges 13:1]]
 - [[Judges 4]] — 2 parallel verses, e.g. [[Judges 3#^judg-3-9|Judges 3:9]] ↔ [[Judges 4#^judg-4-3|Judges 4:3]]
 - [[Judges 14]] — 1 parallel verse, e.g. [[Judges 3#^judg-3-10|Judges 3:10]] ↔ [[Judges 14#^judg-14-19|Judges 14:19]]
-- [[Judges 6]] — 0 parallel verses
+- [[Judges 1]] — 1 parallel verse, e.g. [[Judges 3#^judg-3-9|Judges 3:9]] ↔ [[Judges 1#^judg-1-13|Judges 1:13]]
 - [[Judges 2]] — 0 parallel verses
 - [[Judges 10]] — 0 parallel verses
 - [[Deuteronomy 7]] — 0 parallel verses
 - [[Judges 6]] — 0 parallel verses
 - [[Joshua 13]] — 0 parallel verses
-- [[Judges 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
-- [[War and Peace]]
 - [[Law of Moses]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

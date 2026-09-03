@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 18
 slug: gen-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -63,11 +63,14 @@ _Not yet developed._
 - [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
 - [[Rejoice in the Gift of Priesthood Keys (President Russell M. Nelson, April 2024)|Rejoice in the Gift of Priesthood Keys]] — President Russell M. Nelson, 2024-April *(explicit citation)*
 - [[Aligning Our Will with His (Elder Ulisses Soares, October 2024)|Aligning Our Will with His]] — Elder Ulisses Soares, 2024-October *(explicit citation)*
+- [[The Power of Deliverance (Elder L. Tom Perry, April 2012)|The Power of Deliverance]] — Elder L. Tom Perry, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

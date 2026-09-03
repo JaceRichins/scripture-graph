@@ -17,7 +17,7 @@ cssclasses:
 > Hezekiah’s life is lengthened fifteen years—The sun goes back ten degrees as a sign—Hezekiah praises and thanks the Lord.
 
 ![[Isaiah 38#^isa-38-1]]
-> [[2 Kings 20#^2kgs-20-1|2 Kgs. 20:1 (1–6, 9–11)]] · [[2 Chronicles 32#^2chr-32-32|2 Chr. 32:32]] · [[2 Kings 20#^2kgs-20-1|≈ 2 Kings 20:1]] · [[2 Chronicles 32#^2chr-32-32|≈ 2 Chronicles 32:32]] · [[1 Samuel 2#^1sam-2-27|≈ 1 Samuel 2:27]] · [[2 Kings 19#^2kgs-19-2|≈ 2 Kings 19:2]] · [[Isaiah 37#^isa-37-2|≈ Isaiah 37:2]]
+> [[2 Kings 20#^2kgs-20-1|2 Kgs. 20:1 (1–6, 9–11)]] · [[2 Chronicles 32#^2chr-32-32|2 Chr. 32:32]] · [[2 Kings 20#^2kgs-20-1|≈ 2 Kings 20:1]] · [[2 Chronicles 32#^2chr-32-32|≈ 2 Chronicles 32:32]] · [[Isaiah 37#^isa-37-2|≈ Isaiah 37:2]] · [[1 Samuel 2#^1sam-2-27|≈ 1 Samuel 2:27]] · [[2 Kings 19#^2kgs-19-2|≈ 2 Kings 19:2]]
 
 ![[Isaiah 38#^isa-38-2]]
 > [[2 Kings 20#^2kgs-20-2|≈ 2 Kings 20:2]]
@@ -31,10 +31,10 @@ cssclasses:
 > [[D&C 42#^dc-42-48|D&amp;C 42:48]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-13|≈ Jeremiah 34:13]] · [[Jeremiah 44#^jer-44-7|≈ Jeremiah 44:7]] · [[2 Kings 20#^2kgs-20-5|≈ 2 Kings 20:5]] · [[2 Kings 20#^2kgs-20-6|≈ 2 Kings 20:6]]
 
 ![[Isaiah 38#^isa-38-6]]
-> [[Isaiah 37#^isa-37-35|Isa. 37:35]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[2 Kings 20#^2kgs-20-6|≈ 2 Kings 20:6]] · [[2 Kings 18#^2kgs-18-33|≈ 2 Kings 18:33]] · [[2 Kings 18#^2kgs-18-23|≈ 2 Kings 18:23]] · [[2 Kings 18#^2kgs-18-30|≈ 2 Kings 18:30]] · [[2 Chronicles 32#^2chr-32-11|≈ 2 Chronicles 32:11]]
+> [[Isaiah 37#^isa-37-35|Isa. 37:35]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[2 Kings 20#^2kgs-20-6|≈ 2 Kings 20:6]] · [[2 Chronicles 32#^2chr-32-11|≈ 2 Chronicles 32:11]] · [[Isaiah 37#^isa-37-10|≈ Isaiah 37:10]] · [[2 Kings 18#^2kgs-18-33|≈ 2 Kings 18:33]] · [[2 Kings 18#^2kgs-18-23|≈ 2 Kings 18:23]]
 
 ![[Isaiah 38#^isa-38-7]]
-> [[Jeremiah 44#^jer-44-29|≈ Jeremiah 44:29]] · [[2 Kings 20#^2kgs-20-9|≈ 2 Kings 20:9]] · [[1 Samuel 2#^1sam-2-34|≈ 1 Samuel 2:34]] · [[2 Kings 19#^2kgs-19-29|≈ 2 Kings 19:29]] · [[Isaiah 37#^isa-37-30|≈ Isaiah 37:30]]
+> [[Jeremiah 44#^jer-44-29|≈ Jeremiah 44:29]] · [[2 Kings 20#^2kgs-20-9|≈ 2 Kings 20:9]] · [[Isaiah 37#^isa-37-30|≈ Isaiah 37:30]] · [[1 Samuel 2#^1sam-2-34|≈ 1 Samuel 2:34]] · [[2 Kings 19#^2kgs-19-29|≈ 2 Kings 19:29]]
 
 ![[Isaiah 38#^isa-38-8]]
 > [[2 Kings 20#^2kgs-20-9|2 Kgs. 20:10 (9–10)]] · [[Joshua 10#^josh-10-12|Josh. 10:12 (12–14)]]

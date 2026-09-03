@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 20
 slug: luke-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,10 +53,10 @@ _Not yet developed._
 - [[Matthew 22]] — 9 parallel verses, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
 - [[Mark 11]] — 6 parallel verses, e.g. [[Luke 20#^luke-20-5|Luke 20:5]] ↔ [[Mark 11#^mark-11-31|Mark 11:31]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
+- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
 - [[1 Nephi 6]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
 - [[Alma 36]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
-- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Acts 2]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-42|Luke 20:42]] ↔ [[Acts 2#^acts-2-34|Acts 2:34]]
 - [[Mark 14]] — 2 parallel verses, e.g. [[Luke 20#^luke-20-3|Luke 20:3]] ↔ [[Mark 14#^mark-14-20|Mark 14:20]]

@@ -71,7 +71,7 @@ cssclasses:
 > [[3 Nephi 16#^3ne-16-4|3 Ne. 16:4]] · [[Deuteronomy 32#^deut-32-1|Deut. 32:1 (1–43)]]
 
 ![[Deuteronomy 31#^deut-31-20]]
-> [[Numbers 14#^num-14-23|≈ Numbers 14:23]] · [[Joshua 1#^josh-1-6|≈ Joshua 1:6]] · [[Deuteronomy 10#^deut-10-11|≈ Deuteronomy 10:11]]
+> [[Joshua 1#^josh-1-6|≈ Joshua 1:6]] · [[Numbers 14#^num-14-23|≈ Numbers 14:23]] · [[Deuteronomy 10#^deut-10-11|≈ Deuteronomy 10:11]]
 
 ![[Deuteronomy 31#^deut-31-21]]
 

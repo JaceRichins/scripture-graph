@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 55
 slug: dc-55
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 55]] · My notes: [[D&C 55 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, William W. Phelps is called and chosen to be baptized, to be ordained an elder, and to preach the gospel; 4, He is also to write books for children in Church schools; 5–6, He is to travel to Missouri, which will be the area of his labors.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Deuteronomy 10]] — 1 footnote cross-reference (from [[D&C 55#^dc-55-1|D&C 55:1]])
+- [[1 Nephi 11]] — 1 footnote cross-reference (from [[D&C 55#^dc-55-1|D&C 55:1]])
+- [[2 Nephi 29]] — 1 footnote cross-reference (from [[D&C 55#^dc-55-1|D&C 55:1]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[D&C 55#^dc-55-3|D&C 55:3]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[D&C 55#^dc-55-4|D&C 55:4]])
+- [[D&C 97]] — 1 footnote cross-reference (from [[D&C 55#^dc-55-4|D&C 55:4]])
 - [[D&C 53]] — 2 parallel verses, e.g. [[D&C 55#^dc-55-5|D&C 55:5]] ↔ [[D&C 53#^dc-53-5|D&C 53:5]]
 - [[D&C 71]] — 2 parallel verses, e.g. [[D&C 55#^dc-55-5|D&C 55:5]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[D&C 55#^dc-55-2|D&C 55:2]] ↔ [[Mormon 9#^morm-9-29|Mormon 9:29]]

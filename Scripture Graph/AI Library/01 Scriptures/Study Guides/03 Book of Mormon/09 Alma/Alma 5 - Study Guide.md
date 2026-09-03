@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 5
 slug: alma-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,18 +59,18 @@ This outline describes the sermon's progression without requiring a rigid formal
 - [[Mosiah 5]] — 3 footnote cross-references (from [[Alma 5#^alma-5-14|Alma 5:14]])
 - [[3 Nephi 14]] — 3 footnote cross-references (from [[Alma 5#^alma-5-17|Alma 5:17]])
 - [[Isaiah 59]] — 3 footnote cross-references (from [[Alma 5#^alma-5-22|Alma 5:22]])
+- [[Jacob 5]] — 9 parallel verses, e.g. [[Alma 5#^alma-5-35|Alma 5:35]] ↔ [[Jacob 5#^jacob-5-42|Jacob 5:42]]
 - [[D&C 45]] — 6 parallel verses, e.g. [[Alma 5#^alma-5-35|Alma 5:35]] ↔ [[D&C 45#^dc-45-57|D&C 45:57]]
 - [[D&C 97]] — 3 parallel verses, e.g. [[Alma 5#^alma-5-52|Alma 5:52]] ↔ [[D&C 97#^dc-97-7|D&C 97:7]]
 - [[Alma 12]] — 6 parallel verses, e.g. [[Alma 5#^alma-5-34|Alma 5:34]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
 - [[Alma 6]] — 5 parallel verses, e.g. [[Alma 5#^alma-5-21|Alma 5:21]] ↔ [[Alma 6#^alma-6-8|Alma 6:8]]
 - [[3 Nephi 27]] — 7 parallel verses, e.g. [[Alma 5#^alma-5-35|Alma 5:35]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
+- [[Alma 9]] — 3 parallel verses, e.g. [[Alma 5#^alma-5-51|Alma 5:51]] ↔ [[Alma 9#^alma-9-12|Alma 9:12]]
+- [[Alma 7]] — 4 parallel verses, e.g. [[Alma 5#^alma-5-53|Alma 5:53]] ↔ [[Alma 7#^alma-7-6|Alma 7:6]]
 - [[Mormon 8]] — 4 parallel verses, e.g. [[Alma 5#^alma-5-35|Alma 5:35]] ↔ [[Mormon 8#^morm-8-21|Mormon 8:21]]
 - [[Alma 34]] — 5 parallel verses, e.g. [[Alma 5#^alma-5-32|Alma 5:32]] ↔ [[Alma 34#^alma-34-8|Alma 34:8]]
 - [[Mosiah 2]] — 4 parallel verses, e.g. [[Alma 5#^alma-5-2|Alma 5:2]] ↔ [[Mosiah 2#^mosiah-2-9|Mosiah 2:9]]
 - [[Alma 13]] — 4 parallel verses, e.g. [[Alma 5#^alma-5-48|Alma 5:48]] ↔ [[Alma 13#^alma-13-9|Alma 13:9]]
-- [[Matthew 7]] — 3 parallel verses, e.g. [[Alma 5#^alma-5-52|Alma 5:52]] ↔ [[Matthew 7#^matt-7-19|Matthew 7:19]]
-- [[3 Nephi 14]] — 3 parallel verses, e.g. [[Alma 5#^alma-5-52|Alma 5:52]] ↔ [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]]
-- [[Jacob 6]] — 3 parallel verses, e.g. [[Alma 5#^alma-5-35|Alma 5:35]] ↔ [[Jacob 6#^jacob-6-7|Jacob 6:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,11 +78,11 @@ This outline describes the sermon's progression without requiring a rigid formal
 - [[Testimony]]
 - [[Conversion]]
 - [[Fasting]]
-- [[Satan and Temptation]]
 - [[Pride]]
 - [[Tree of Life]]
 - [[Exodus and Deliverance]]
 - [[Final Judgment]]
+- [[Repentance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

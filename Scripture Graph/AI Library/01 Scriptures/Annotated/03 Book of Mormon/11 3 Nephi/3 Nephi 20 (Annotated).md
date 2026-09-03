@@ -17,7 +17,7 @@ cssclasses:
 > Jesus provides bread and wine miraculously and again administers the sacrament unto the people—The remnant of Jacob will come to the knowledge of the Lord their God and will inherit the Americas—Jesus is the prophet like unto Moses, and the Nephites are children of the prophets—Others of the Lord’s people will be gathered to Jerusalem. About A.D. 34.
 
 ![[3 Nephi 20#^3ne-20-1]]
-> [[1 Samuel 7#^1sam-7-8|1 Sam. 7:8]] · [[2 Nephi 32#^2ne-32-9|2 Ne. 32:9]] · [[Mosiah 24#^mosiah-24-12|Mosiah 24:12]] · [[Mosiah 18#^mosiah-18-19|≈ Mosiah 18:19]] · [[Mosiah 18#^mosiah-18-23|≈ Mosiah 18:23]] · [[Ether 6#^ether-6-25|≈ Ether 6:25]] · [[3 Nephi 17#^3ne-17-13|≈ 3 Nephi 17:13]] · [[3 Nephi 18#^3ne-18-2|≈ 3 Nephi 18:2]]
+> [[1 Samuel 7#^1sam-7-8|1 Sam. 7:8]] · [[2 Nephi 32#^2ne-32-9|2 Ne. 32:9]] · [[Mosiah 24#^mosiah-24-12|Mosiah 24:12]] · [[Mosiah 18#^mosiah-18-19|≈ Mosiah 18:19]] · [[Mosiah 18#^mosiah-18-23|≈ Mosiah 18:23]] · [[Ether 6#^ether-6-25|≈ Ether 6:25]] · [[3 Nephi 18#^3ne-18-2|≈ 3 Nephi 18:2]] · [[3 Nephi 17#^3ne-17-13|≈ 3 Nephi 17:13]]
 
 ![[3 Nephi 20#^3ne-20-2]]
 > [[Mosiah 18#^mosiah-18-19|≈ Mosiah 18:19]] · [[Mosiah 18#^mosiah-18-23|≈ Mosiah 18:23]] · [[Ether 6#^ether-6-25|≈ Ether 6:25]]
@@ -78,7 +78,7 @@ cssclasses:
 > [[1 Kings 8#^1kgs-8-51|1 Kgs. 8:51]] · [[3 Nephi 16#^3ne-16-8|3 Ne. 16:8 (8–15)]] · [[3 Nephi 21#^3ne-21-12|21:23 (12–24)]]
 
 ![[3 Nephi 20#^3ne-20-22]]
-> [[Genesis 49#^gen-49-22|Gen. 49:26 (22–26)]] · [[Isaiah 2#^isa-2-2|Isa. 2:3 (2–5)]] · [[3 Nephi 21#^3ne-21-23|3 Ne. 21:23 (23–24)]] · [[Ether 13#^ether-13-1|Ether 13:3 (1–12)]] · [[D&C 84#^dc-84-2|D&amp;C 84:2 (2–4)]] · [[3 Nephi 21#^3ne-21-25|3 Ne. 21:25]] · [[Isaiah 59#^isa-59-20|Isa. 59:20 (20–21)]] · [[3 Nephi 24#^3ne-24-1|3 Ne. 24:1]] · [[3 Nephi 21#^3ne-21-7|≈ 3 Nephi 21:7]] · [[Joseph Smith—Matthew 1#^jsm-1-33|≈ Joseph Smith—Matthew 1:33]]
+> [[Genesis 49#^gen-49-22|Gen. 49:26 (22–26)]] · [[Isaiah 2#^isa-2-2|Isa. 2:3 (2–5)]] · [[3 Nephi 21#^3ne-21-23|3 Ne. 21:23 (23–24)]] · [[Ether 13#^ether-13-1|Ether 13:3 (1–12)]] · [[D&C 84#^dc-84-2|D&amp;C 84:2 (2–4)]] · [[3 Nephi 21#^3ne-21-25|3 Ne. 21:25]] · [[Isaiah 59#^isa-59-20|Isa. 59:20 (20–21)]] · [[3 Nephi 24#^3ne-24-1|3 Ne. 24:1]] · [[Joseph Smith—Matthew 1#^jsm-1-33|≈ Joseph Smith—Matthew 1:33]] · [[3 Nephi 21#^3ne-21-7|≈ 3 Nephi 21:7]]
 
 ![[3 Nephi 20#^3ne-20-23]]
 > [[Deuteronomy 18#^deut-18-15|Deut. 18:15 (15–19)]] · [[Acts 3#^acts-3-22|Acts 3:22 (22–23)]] · [[1 Nephi 22#^1ne-22-20|1 Ne. 22:20 (20–21)]] · [[D&C 133#^dc-133-63|D&amp;C 133:63]] · [[Acts 3#^acts-3-22|≈ Acts 3:22]] · [[Acts 3#^acts-3-23|≈ Acts 3:23]] · [[D&C 93#^dc-93-1|≈ D&C 93:1]] · [[Joseph Smith—Matthew 1#^jsm-1-55|≈ Joseph Smith—Matthew 1:55]] · [[D&C 133#^dc-133-63|≈ D&C 133:63]] · [[Acts 7#^acts-7-37|≈ Acts 7:37]]
@@ -87,7 +87,7 @@ cssclasses:
 > [[Acts 3#^acts-3-24|Acts 3:24 (24–26)]] · [[1 Nephi 10#^1ne-10-5|1 Ne. 10:5]] · [[Jacob 7#^jacob-7-11|Jacob 7:11]] · [[Acts 3#^acts-3-24|≈ Acts 3:24]]
 
 ![[3 Nephi 20#^3ne-20-25]]
-> [[Romans 4#^rom-4-23|Rom. 4:24 (23–24)]] · [[Genesis 12#^gen-12-1|Gen. 12:3 (1–3)]] · [[Genesis 22#^gen-22-9|22:18 (9, 18)]] · [[Acts 3#^acts-3-25|≈ Acts 3:25]] · [[Genesis 22#^gen-22-18|≈ Genesis 22:18]] · [[Genesis 26#^gen-26-4|≈ Genesis 26:4]] · [[Genesis 28#^gen-28-14|≈ Genesis 28:14]] · [[1 Nephi 22#^1ne-22-9|≈ 1 Nephi 22:9]] · [[1 Nephi 15#^1ne-15-18|≈ 1 Nephi 15:18]]
+> [[Romans 4#^rom-4-23|Rom. 4:24 (23–24)]] · [[Genesis 12#^gen-12-1|Gen. 12:3 (1–3)]] · [[Genesis 22#^gen-22-9|22:18 (9, 18)]] · [[Acts 3#^acts-3-25|≈ Acts 3:25]] · [[Genesis 22#^gen-22-18|≈ Genesis 22:18]] · [[Genesis 26#^gen-26-4|≈ Genesis 26:4]] · [[Genesis 28#^gen-28-14|≈ Genesis 28:14]] · [[1 Nephi 15#^1ne-15-18|≈ 1 Nephi 15:18]] · [[1 Nephi 22#^1ne-22-9|≈ 1 Nephi 22:9]]
 
 ![[3 Nephi 20#^3ne-20-26]]
 > [[Proverbs 16#^prov-16-6|Prov. 16:6]] · [[Alma 19#^alma-19-33|Alma 19:33]] · [[Acts 3#^acts-3-26|≈ Acts 3:26]]
@@ -146,7 +146,7 @@ cssclasses:
 > [[Isaiah 52#^isa-52-14|≈ Isaiah 52:14]]
 
 ![[3 Nephi 20#^3ne-20-45]]
-> [[Leviticus 1#^lev-1-5|Lev. 1:5]] · [[Isaiah 52#^isa-52-15|Isa. 52:15]] · [[Ezekiel 36#^ezek-36-25|Ezek. 36:25]] · [[3 Nephi 21#^3ne-21-8|3 Ne. 21:8]] · [[D&C 101#^dc-101-94|D&amp;C 101:94]] · [[3 Nephi 21#^3ne-21-8|≈ 3 Nephi 21:8]] · [[Isaiah 52#^isa-52-15|≈ Isaiah 52:15]]
+> [[Leviticus 1#^lev-1-5|Lev. 1:5]] · [[Isaiah 52#^isa-52-15|Isa. 52:15]] · [[Ezekiel 36#^ezek-36-25|Ezek. 36:25]] · [[3 Nephi 21#^3ne-21-8|3 Ne. 21:8]] · [[D&C 101#^dc-101-94|D&amp;C 101:94]] · [[Isaiah 52#^isa-52-15|≈ Isaiah 52:15]] · [[3 Nephi 21#^3ne-21-8|≈ 3 Nephi 21:8]]
 
 ![[3 Nephi 20#^3ne-20-46]]
 > [[Joel 2#^joel-2-18|Joel 2:18]] · [[Ether 13#^ether-13-5|Ether 13:5 (5, 11)]]

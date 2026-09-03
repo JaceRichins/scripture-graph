@@ -59,10 +59,10 @@ cssclasses:
 > [[2 Samuel 5#^2sam-5-4|2 Sam. 5:4]]
 
 ![[2 Samuel 8#^2sam-8-16]]
-> [[2 Samuel 20#^2sam-20-23|2 Sam. 20:23 (23–26)]] · [[1 Chronicles 18#^1chr-18-15|≈ 1 Chronicles 18:15]] · [[2 Samuel 20#^2sam-20-24|≈ 2 Samuel 20:24]]
+> [[2 Samuel 20#^2sam-20-23|2 Sam. 20:23 (23–26)]] · [[2 Samuel 20#^2sam-20-24|≈ 2 Samuel 20:24]] · [[1 Chronicles 18#^1chr-18-15|≈ 1 Chronicles 18:15]]
 
 ![[2 Samuel 8#^2sam-8-17]]
 > [[2 Samuel 15#^2sam-15-24|2 Sam. 15:24]] · [[1 Kings 2#^1kgs-2-35|1 Kgs. 2:35]] · [[1 Chronicles 6#^1chr-6-8|1 Chr. 6:8]] · [[1 Chronicles 24#^1chr-24-3|24:3]] · [[1 Chronicles 18#^1chr-18-16|≈ 1 Chronicles 18:16]]
 
 ![[2 Samuel 8#^2sam-8-18]]
-> [[1 Kings 2#^1kgs-2-25|1 Kgs. 2:25]] · [[1 Kings 1#^1kgs-1-38|1 Kgs. 1:38]] · [[1 Chronicles 18#^1chr-18-17|≈ 1 Chronicles 18:17]] · [[2 Samuel 20#^2sam-20-23|≈ 2 Samuel 20:23]] · [[1 Kings 1#^1kgs-1-44|≈ 1 Kings 1:44]] · [[1 Kings 1#^1kgs-1-38|≈ 1 Kings 1:38]]
+> [[1 Kings 2#^1kgs-2-25|1 Kgs. 2:25]] · [[1 Kings 1#^1kgs-1-38|1 Kgs. 1:38]] · [[2 Samuel 20#^2sam-20-23|≈ 2 Samuel 20:23]] · [[1 Chronicles 18#^1chr-18-17|≈ 1 Chronicles 18:17]] · [[1 Kings 1#^1kgs-1-44|≈ 1 Kings 1:44]] · [[1 Kings 1#^1kgs-1-38|≈ 1 Kings 1:38]]

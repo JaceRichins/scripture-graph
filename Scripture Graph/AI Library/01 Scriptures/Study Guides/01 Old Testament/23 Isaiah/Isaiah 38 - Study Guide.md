@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 38
 slug: isa-38
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,9 +48,9 @@ _Not yet developed._
 - [[Job 14]] — 1 footnote cross-reference (from [[Isaiah 38#^isa-38-12|Isaiah 38:12]])
 - [[2 Kings 20]] — 7 parallel verses, e.g. [[Isaiah 38#^isa-38-1|Isaiah 38:1]] ↔ [[2 Kings 20#^2kgs-20-1|2 Kings 20:1]]
 - [[2 Kings 18]] — 3 parallel verses, e.g. [[Isaiah 38#^isa-38-6|Isaiah 38:6]] ↔ [[2 Kings 18#^2kgs-18-33|2 Kings 18:33]]
+- [[Isaiah 37]] — 3 parallel verses, e.g. [[Isaiah 38#^isa-38-7|Isaiah 38:7]] ↔ [[Isaiah 37#^isa-37-30|Isaiah 37:30]]
 - [[Isaiah 36]] — 3 parallel verses, e.g. [[Isaiah 38#^isa-38-6|Isaiah 38:6]] ↔ [[Isaiah 36#^isa-36-18|Isaiah 36:18]]
 - [[2 Kings 19]] — 3 parallel verses, e.g. [[Isaiah 38#^isa-38-7|Isaiah 38:7]] ↔ [[2 Kings 19#^2kgs-19-29|2 Kings 19:29]]
-- [[Isaiah 37]] — 3 parallel verses, e.g. [[Isaiah 38#^isa-38-7|Isaiah 38:7]] ↔ [[Isaiah 37#^isa-37-30|Isaiah 37:30]]
 - [[1 Samuel 2]] — 2 parallel verses, e.g. [[Isaiah 38#^isa-38-7|Isaiah 38:7]] ↔ [[1 Samuel 2#^1sam-2-34|1 Samuel 2:34]]
 - [[2 Chronicles 32]] — 2 parallel verses, e.g. [[Isaiah 38#^isa-38-6|Isaiah 38:6]] ↔ [[2 Chronicles 32#^2chr-32-11|2 Chronicles 32:11]]
 - [[Jeremiah 32]] — 2 parallel verses, e.g. [[Isaiah 38#^isa-38-5|Isaiah 38:5]] ↔ [[Jeremiah 32#^jer-32-36|Jeremiah 32:36]]

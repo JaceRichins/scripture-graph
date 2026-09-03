@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 13
 slug: jer-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,19 +47,21 @@ Scripture: [[Jeremiah 13]] · My notes: [[Jeremiah 13 - My Notes]]
 - [[1 Nephi 2]] — 1 footnote cross-reference (from [[Jeremiah 13#^jer-13-14|Jeremiah 13:14]])
 - [[2 Kings 25]] — 1 footnote cross-reference (from [[Jeremiah 13#^jer-13-19|Jeremiah 13:19]])
 - [[2 Nephi 6]] — 1 footnote cross-reference (from [[Jeremiah 13#^jer-13-19|Jeremiah 13:19]])
+- [[Jeremiah 25]] — 3 parallel verses, e.g. [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]] ↔ [[Jeremiah 25#^jer-25-28|Jeremiah 25:28]]
+- [[Jeremiah 26]] — 3 parallel verses, e.g. [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]] ↔ [[Jeremiah 26#^jer-26-7|Jeremiah 26:7]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
 - [[Ezekiel 37]] — 3 parallel verses, e.g. [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]
 - [[2 Kings 23]] — 1 parallel verse, e.g. [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]] ↔ [[2 Kings 23#^2kgs-23-2|2 Kings 23:2]]
+- [[Jeremiah 32]] — 2 parallel verses, e.g. [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
+- [[Jeremiah 51]] — 2 parallel verses, e.g. [[Jeremiah 13#^jer-13-13|Jeremiah 13:13]] ↔ [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]]
 - [[Jeremiah 1]] — 1 parallel verse, e.g. [[Jeremiah 13#^jer-13-3|Jeremiah 13:3]] ↔ [[Jeremiah 1#^jer-1-13|Jeremiah 1:13]]
-- [[Jeremiah 32]] — 0 parallel verses
-- [[Jeremiah 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Pride]]
-- [[Scattering of Israel]]
 - [[Covenants]]
+- [[Pride]] *(keyword match — unconfirmed)*
+- [[Scattering of Israel]] *(keyword match — unconfirmed)*
 - [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

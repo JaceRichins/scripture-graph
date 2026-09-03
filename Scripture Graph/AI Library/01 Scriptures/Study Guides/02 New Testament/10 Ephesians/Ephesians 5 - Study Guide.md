@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 5
 slug: eph-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Ecclesiastes 5]] — 1 footnote cross-reference (from [[Ephesians 5#^eph-5-4|Ephesians 5:4]])
 - [[Mark 10]] — 1 parallel verse, e.g. [[Ephesians 5#^eph-5-31|Ephesians 5:31]] ↔ [[Mark 10#^mark-10-7|Mark 10:7]]
 - [[Colossians 3]] — 2 parallel verses, e.g. [[Ephesians 5#^eph-5-19|Ephesians 5:19]] ↔ [[Colossians 3#^col-3-16|Colossians 3:16]]
+- [[D&C 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,6 +69,7 @@ _Not yet developed._
 - [[Are You Sleeping through the Restoration (President Dieter F. Uchtdorf, April 2014)|Are You Sleeping through the Restoration?]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 

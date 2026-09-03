@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 9
 slug: lev-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Ezekiel 43]] — 1 footnote cross-reference (from [[Leviticus 9#^lev-9-1|Leviticus 9:1]])
 - [[Alma 6]] — 1 footnote cross-reference (from [[Leviticus 9#^lev-9-1|Leviticus 9:1]])
 - [[D&C 46]] — 1 footnote cross-reference (from [[Leviticus 9#^lev-9-1|Leviticus 9:1]])
+- [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 9#^lev-9-3|Leviticus 9:3]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
 - [[Leviticus 4]] — 5 parallel verses, e.g. [[Leviticus 9#^lev-9-9|Leviticus 9:9]] ↔ [[Leviticus 4#^lev-4-25|Leviticus 4:25]]
 - [[Leviticus 8]] — 5 parallel verses, e.g. [[Leviticus 9#^lev-9-9|Leviticus 9:9]] ↔ [[Leviticus 8#^lev-8-15|Leviticus 8:15]]
 - [[Leviticus 16]] — 4 parallel verses, e.g. [[Leviticus 9#^lev-9-2|Leviticus 9:2]] ↔ [[Leviticus 16#^lev-16-3|Leviticus 16:3]]
@@ -61,7 +62,6 @@ _Not yet developed._
 - [[Leviticus 14]] — 3 parallel verses, e.g. [[Leviticus 9#^lev-9-21|Leviticus 9:21]] ↔ [[Leviticus 14#^lev-14-12|Leviticus 14:12]]
 - [[Leviticus 23]] — 2 parallel verses, e.g. [[Leviticus 9#^lev-9-3|Leviticus 9:3]] ↔ [[Leviticus 23#^lev-23-19|Leviticus 23:19]]
 - [[Numbers 28]] — 2 parallel verses, e.g. [[Leviticus 9#^lev-9-3|Leviticus 9:3]] ↔ [[Numbers 28#^num-28-15|Numbers 28:15]]
-- [[Leviticus 5]] — 1 parallel verse, e.g. [[Leviticus 9#^lev-9-3|Leviticus 9:3]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

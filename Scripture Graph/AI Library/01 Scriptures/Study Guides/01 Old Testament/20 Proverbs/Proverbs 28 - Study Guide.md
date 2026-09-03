@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 28
 slug: prov-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,12 +64,14 @@ _Not yet developed._
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
+- [[Help Them Aim High (President Henry B. Eyring, October 2012)|Help Them Aim High]] — President Henry B. Eyring, 2012-October *(explicit citation)*
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Repentance** (reference-entry) *(explicit citation)*
+- **Almsgiving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 63
 slug: isa-63
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[D&C 133]] — 5 parallel verses, e.g. [[Isaiah 63#^isa-63-9|Isaiah 63:9]] ↔ [[D&C 133#^dc-133-53|D&C 133:53]]
 - [[2 Kings 23]] — 2 parallel verses, e.g. [[Isaiah 63#^isa-63-7|Isaiah 63:7]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
 - [[2 Kings 24]] — 2 parallel verses, e.g. [[Isaiah 63#^isa-63-7|Isaiah 63:7]] ↔ [[2 Kings 24#^2kgs-24-9|2 Kings 24:9]]
+- [[Isaiah 34]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 30
 slug: ezek-30
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,21 +54,21 @@ _Not yet developed._
 - [[Jeremiah 32]] — 5 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
 - [[Ezekiel 25]] — 5 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Ezekiel 25#^ezek-25-17|Ezekiel 25:17]]
 - [[Ezekiel 26]] — 2 parallel verses, e.g. [[Ezekiel 30#^ezek-30-20|Ezekiel 30:20]] ↔ [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]]
+- [[Ezekiel 32]] — 3 parallel verses, e.g. [[Ezekiel 30#^ezek-30-20|Ezekiel 30:20]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
 - [[Jeremiah 34]] — 3 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
 - [[Ezekiel 12]] — 3 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Ezekiel 12#^ezek-12-15|Ezekiel 12:15]]
 - [[Ezekiel 21]] — 2 parallel verses, e.g. [[Ezekiel 30#^ezek-30-2|Ezekiel 30:2]] ↔ [[Ezekiel 21#^ezek-21-9|Ezekiel 21:9]]
+- [[Ezekiel 31]] — 1 parallel verse, e.g. [[Ezekiel 30#^ezek-30-20|Ezekiel 30:20]] ↔ [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]]
 - [[Jeremiah 21]] — 2 parallel verses, e.g. [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]] ↔ [[Jeremiah 21#^jer-21-10|Jeremiah 21:10]]
 - [[Ezekiel 33]] — 2 parallel verses, e.g. [[Ezekiel 30#^ezek-30-18|Ezekiel 30:18]] ↔ [[Ezekiel 33#^ezek-33-28|Ezekiel 33:28]]
-- [[Ezekiel 34]] — 2 parallel verses, e.g. [[Ezekiel 30#^ezek-30-22|Ezekiel 30:22]] ↔ [[Ezekiel 34#^ezek-34-10|Ezekiel 34:10]]
-- [[Ezekiel 37]] — 2 parallel verses, e.g. [[Ezekiel 30#^ezek-30-1|Ezekiel 30:1]] ↔ [[Ezekiel 37#^ezek-37-15|Ezekiel 37:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[War and Peace]]
 - [[Pride]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

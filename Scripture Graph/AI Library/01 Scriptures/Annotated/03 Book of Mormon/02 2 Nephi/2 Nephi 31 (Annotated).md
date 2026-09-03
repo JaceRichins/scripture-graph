@@ -52,13 +52,13 @@ cssclasses:
 > [[Matthew 16#^matt-16-24|Matt. 16:24 (24–26)]] · [[Luke 9#^luke-9-57|Luke 9:59 (57–62)]] · [[John 12#^john-12-26|John 12:26]] · [[1 John 2#^1jn-2-6|1 Jn. 2:6]]
 
 ![[2 Nephi 31#^2ne-31-13]]
-> [[Galatians 3#^gal-3-26|Gal. 3:27 (26–27)]] · [[2 Nephi 32#^2ne-32-2|2 Ne. 32:2 (2–3)]] · [[D&C 33#^dc-33-11|≈ D&C 33:11]] · [[3 Nephi 27#^3ne-27-5|≈ 3 Nephi 27:5]] · [[D&C 18#^dc-18-21|≈ D&C 18:21]] · [[2 Nephi 32#^2ne-32-2|≈ 2 Nephi 32:2]] · [[3 Nephi 18#^3ne-18-10|≈ 3 Nephi 18:10]] · [[D&C 39#^dc-39-6|≈ D&C 39:6]]
+> [[Galatians 3#^gal-3-26|Gal. 3:27 (26–27)]] · [[2 Nephi 32#^2ne-32-2|2 Ne. 32:2 (2–3)]] · [[3 Nephi 27#^3ne-27-5|≈ 3 Nephi 27:5]] · [[2 Nephi 32#^2ne-32-2|≈ 2 Nephi 32:2]] · [[D&C 33#^dc-33-11|≈ D&C 33:11]] · [[D&C 18#^dc-18-21|≈ D&C 18:21]] · [[3 Nephi 18#^3ne-18-10|≈ 3 Nephi 18:10]] · [[D&C 39#^dc-39-6|≈ D&C 39:6]]
 
 ![[2 Nephi 31#^2ne-31-14]]
 > [[Matthew 10#^matt-10-32|Matt. 10:33 (32–33)]] · [[Romans 1#^rom-1-15|Rom. 1:16 (15–18)]] · [[2 Timothy 2#^2tim-2-10|2 Tim. 2:12 (10–15)]] · [[Alma 24#^alma-24-30|Alma 24:30]] · [[D&C 101#^dc-101-1|D&amp;C 101:5 (1–5)]] · [[Hebrews 6#^heb-6-4|Heb. 6:4 (4–6)]] · [[2 Peter 2#^2pet-2-21|2 Pet. 2:21]] · [[D&C 33#^dc-33-11|≈ D&C 33:11]] · [[3 Nephi 18#^3ne-18-10|≈ 3 Nephi 18:10]]
 
 ![[2 Nephi 31#^2ne-31-15]]
-> [[D&C 64#^dc-64-31|D&amp;C 64:31]] · [[D&C 66#^dc-66-11|66:11]] · [[Jacob 6#^jacob-6-7|Jacob 6:11 (7–11)]] · [[Alma 5#^alma-5-13|Alma 5:13]] · [[Alma 32#^alma-32-13|≈ Alma 32:13]] · [[Alma 32#^alma-32-15|≈ Alma 32:15]] · [[3 Nephi 27#^3ne-27-6|≈ 3 Nephi 27:6]] · [[D&C 18#^dc-18-22|≈ D&C 18:22]]
+> [[D&C 64#^dc-64-31|D&amp;C 64:31]] · [[D&C 66#^dc-66-11|66:11]] · [[Jacob 6#^jacob-6-7|Jacob 6:11 (7–11)]] · [[Alma 5#^alma-5-13|Alma 5:13]] · [[3 Nephi 27#^3ne-27-6|≈ 3 Nephi 27:6]] · [[Alma 32#^alma-32-13|≈ Alma 32:13]] · [[Alma 32#^alma-32-15|≈ Alma 32:15]] · [[D&C 18#^dc-18-22|≈ D&C 18:22]]
 
 ![[2 Nephi 31#^2ne-31-16]]
 > [[Mark 13#^mark-13-13|Mark 13:13]] · [[Alma 38#^alma-38-2|Alma 38:2]] · [[D&C 20#^dc-20-29|D&amp;C 20:29]] · [[D&C 53#^dc-53-7|53:7]]

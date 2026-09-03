@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 90
 slug: ps-90
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Jeremiah 16]] — 1 footnote cross-reference (from [[Psalm 90#^ps-90-8|Psalm 90:8]])
 - [[Psalm 19]] — 1 footnote cross-reference (from [[Psalm 90#^ps-90-8|Psalm 90:8]])
 - [[Moses 1]] — 1 footnote cross-reference (from [[Psalm 90#^ps-90-16|Psalm 90:16]])
+- [[2 Peter 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

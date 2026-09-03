@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 15
 slug: alma-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ _Not yet developed._
 - [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
 - [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
 - [[We Are The Church of Jesus Christ of Latter-day Saints (Reyna I. Aburto, April 2022)|We Are The Church of Jesus Christ of Latter-day Saints]] — Reyna I. Aburto, 2022-April *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -80,6 +81,7 @@ _Not yet developed._
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

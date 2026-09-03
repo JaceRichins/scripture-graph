@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 11
 slug: 1chr-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,7 +56,8 @@ Scripture: [[1 Chronicles 11]] · My notes: [[1 Chronicles 11 - My Notes]]
 - [[1 Samuel 16]] — 1 footnote cross-reference (from [[1 Chronicles 11#^1chr-11-3|1 Chronicles 11:3]])
 - [[Exodus 3]] — 1 footnote cross-reference (from [[1 Chronicles 11#^1chr-11-4|1 Chronicles 11:4]])
 - [[Joshua 15]] — 1 footnote cross-reference (from [[1 Chronicles 11#^1chr-11-4|1 Chronicles 11:4]])
-- [[2 Samuel 23]] — 0 parallel verses
+- [[2 Samuel 23]] — 19 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-18|1 Chronicles 11:18]] ↔ [[2 Samuel 23#^2sam-23-16|2 Samuel 23:16]]
+- [[2 Samuel 5]] — 3 parallel verses, e.g. [[1 Chronicles 11#^1chr-11-2|1 Chronicles 11:2]] ↔ [[2 Samuel 5#^2sam-5-2|2 Samuel 5:2]]
 - [[2 Samuel 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -66,6 +67,7 @@ Scripture: [[1 Chronicles 11]] · My notes: [[1 Chronicles 11 - My Notes]]
 - [[Prophecy]]
 - [[War and Peace]]
 - [[The Godhead]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -80,7 +82,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Anoint** (reference-entry) *(explicit citation)*
+- **Asahel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

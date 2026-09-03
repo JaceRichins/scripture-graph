@@ -55,7 +55,7 @@ cssclasses:
 > [[1 Kings 6#^1kgs-6-12|1 Kgs. 6:12]] · [[1 Kings 8#^1kgs-8-13|8:13]] · [[1 Chronicles 22#^1chr-22-10|≈ 1 Chronicles 22:10]]
 
 ![[2 Samuel 7#^2sam-7-14]]
-> [[Hebrews 1#^heb-1-5|Heb. 1:5]] · [[Mosiah 5#^mosiah-5-7|Mosiah 5:7]] · [[Mosiah 27#^mosiah-27-24|27:25 (24–26)]] · [[Moses 6#^moses-6-64|Moses 6:68 (64–68)]] · [[Psalm 89#^ps-89-30|Ps. 89:32 (30–33)]] · [[D&C 95#^dc-95-1|D&amp;C 95:1 (1–2)]] · [[D&C 101#^dc-101-4|101:4 (4–5)]] · [[1 Chronicles 17#^1chr-17-13|≈ 1 Chronicles 17:13]] · [[1 Chronicles 22#^1chr-22-10|≈ 1 Chronicles 22:10]]
+> [[Hebrews 1#^heb-1-5|Heb. 1:5]] · [[Mosiah 5#^mosiah-5-7|Mosiah 5:7]] · [[Mosiah 27#^mosiah-27-24|27:25 (24–26)]] · [[Moses 6#^moses-6-64|Moses 6:68 (64–68)]] · [[Psalm 89#^ps-89-30|Ps. 89:32 (30–33)]] · [[D&C 95#^dc-95-1|D&amp;C 95:1 (1–2)]] · [[D&C 101#^dc-101-4|101:4 (4–5)]] · [[1 Chronicles 22#^1chr-22-10|≈ 1 Chronicles 22:10]] · [[1 Chronicles 17#^1chr-17-13|≈ 1 Chronicles 17:13]]
 
 ![[2 Samuel 7#^2sam-7-15]]
 > [[1 Chronicles 17#^1chr-17-13|≈ 1 Chronicles 17:13]]

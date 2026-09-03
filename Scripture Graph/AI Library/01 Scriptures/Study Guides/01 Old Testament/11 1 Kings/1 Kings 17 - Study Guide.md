@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 17
 slug: 1kgs-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,10 +55,12 @@ The movements intensify from sustaining one prophet, to sustaining a household, 
 - [[Judges 4]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-10|1 Kings 17:10]] ↔ [[Judges 4#^judg-4-19|Judges 4:19]]
 - [[Deuteronomy 9]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-20|1 Kings 17:20]] ↔ [[Deuteronomy 9#^deut-9-26|Deuteronomy 9:26]]
 - [[Judges 16]] — 2 parallel verses, e.g. [[1 Kings 17#^1kgs-17-20|1 Kings 17:20]] ↔ [[Judges 16#^judg-16-28|Judges 16:28]]
+- [[Helaman 11]] — 1 parallel verse, e.g. [[1 Kings 17#^1kgs-17-24|1 Kings 17:24]] ↔ [[Helaman 11#^hel-11-8|Helaman 11:8]]
 - [[2 Kings 24]] — 1 parallel verse, e.g. [[1 Kings 17#^1kgs-17-16|1 Kings 17:16]] ↔ [[2 Kings 24#^2kgs-24-2|2 Kings 24:2]]
 - [[1 Kings 14]] — 1 parallel verse, e.g. [[1 Kings 17#^1kgs-17-16|1 Kings 17:16]] ↔ [[1 Kings 14#^1kgs-14-18|1 Kings 14:18]]
 - [[2 Kings 4]] — 0 parallel verses
 - [[Revelation 11]] — 0 parallel verses
+- [[2 Kings 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,6 +83,7 @@ The widow's accusation associates tragedy with remembered [[Sin]], but the narra
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[Waiting on the Lord (Elder Jeffrey R. Holland, October 2020)|Waiting on the Lord]] — Elder Jeffrey R. Holland, 2020-October *(explicit citation)*
 - [[A Higher Joy (Elder Dieter F. Uchtdorf, April 2024)|A Higher Joy]] — Elder Dieter F. Uchtdorf, 2024-April *(explicit citation)*
+- [[The Hearts of the Children Shall Turn (Elder David A. Bednar, October 2011)|The Hearts of the Children Shall Turn]] — Elder David A. Bednar, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

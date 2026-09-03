@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 8
 slug: john-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

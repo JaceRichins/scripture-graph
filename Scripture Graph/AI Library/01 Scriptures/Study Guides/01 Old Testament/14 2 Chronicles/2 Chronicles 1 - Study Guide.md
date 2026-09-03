@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 1
 slug: 2chr-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,12 +52,12 @@ The sequence connects God-given governing capacity with royal prosperity. The en
 - [[D&C 7]] — 1 footnote cross-reference (from [[2 Chronicles 1#^2chr-1-7|2 Chronicles 1:7]])
 - [[Mosiah 29]] — 1 footnote cross-reference (from [[2 Chronicles 1#^2chr-1-10|2 Chronicles 1:10]])
 - [[1 Kings 10]] — 4 parallel verses, e.g. [[2 Chronicles 1#^2chr-1-17|2 Chronicles 1:17]] ↔ [[1 Kings 10#^1kgs-10-29|1 Kings 10:29]]
+- [[2 Chronicles 9]] — 2 parallel verses, e.g. [[2 Chronicles 1#^2chr-1-15|2 Chronicles 1:15]] ↔ [[2 Chronicles 9#^2chr-9-27|2 Chronicles 9:27]]
 - [[1 Chronicles 16]] — 2 parallel verses, e.g. [[2 Chronicles 1#^2chr-1-13|2 Chronicles 1:13]] ↔ [[1 Chronicles 16#^1chr-16-39|1 Chronicles 16:39]]
 - [[Joshua 22]] — 2 parallel verses, e.g. [[2 Chronicles 1#^2chr-1-3|2 Chronicles 1:3]] ↔ [[Joshua 22#^josh-22-4|Joshua 22:4]]
 - [[Exodus 31]] — 1 parallel verse, e.g. [[2 Chronicles 1#^2chr-1-5|2 Chronicles 1:5]] ↔ [[Exodus 31#^ex-31-2|Exodus 31:2]]
 - [[Exodus 35]] — 1 parallel verse, e.g. [[2 Chronicles 1#^2chr-1-5|2 Chronicles 1:5]] ↔ [[Exodus 35#^ex-35-30|Exodus 35:30]]
 - [[Exodus 38]] — 1 parallel verse, e.g. [[2 Chronicles 1#^2chr-1-5|2 Chronicles 1:5]] ↔ [[Exodus 38#^ex-38-22|Exodus 38:22]]
-- [[2 Chronicles 9]] — 0 parallel verses
 - [[1 Kings 10]] — 0 parallel verses
 - [[1 Kings 3]] — 0 parallel verses
 - [[1 Kings 3]] — 0 parallel verses
@@ -65,9 +65,9 @@ The sequence connects God-given governing capacity with royal prosperity. The en
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Education and Learning]]
 - [[Covenants]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

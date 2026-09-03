@@ -113,7 +113,7 @@ cssclasses:
 > [[Mark 13#^mark-13-13|Mark 13:13]] · [[1 Corinthians 4#^1cor-4-6|1 Cor. 4:9 (6–13)]] · [[1 Nephi 12#^1ne-12-13|≈ 1 Nephi 12:13]]
 
 ![[1 Nephi 11#^1ne-11-35]]
-> [[1 Nephi 8#^1ne-8-26|1 Ne. 8:26]] · [[1 Nephi 12#^1ne-12-18|12:18]] · [[Micah 3#^micah-3-5|Micah 3:5]] · [[D&C 121#^dc-121-38|D&amp;C 121:38]] · [[Acts 8#^acts-8-26|≈ Acts 8:26]] · [[1 Nephi 14#^1ne-14-29|≈ 1 Nephi 14:29]] · [[1 Nephi 13#^1ne-13-34|≈ 1 Nephi 13:34]]
+> [[1 Nephi 8#^1ne-8-26|1 Ne. 8:26]] · [[1 Nephi 12#^1ne-12-18|12:18]] · [[Micah 3#^micah-3-5|Micah 3:5]] · [[D&C 121#^dc-121-38|D&amp;C 121:38]] · [[1 Nephi 14#^1ne-14-29|≈ 1 Nephi 14:29]] · [[1 Nephi 13#^1ne-13-34|≈ 1 Nephi 13:34]] · [[Acts 8#^acts-8-26|≈ Acts 8:26]]
 
 ![[1 Nephi 11#^1ne-11-36]]
-> [[Acts 8#^acts-8-26|≈ Acts 8:26]] · [[1 Nephi 13#^1ne-13-34|≈ 1 Nephi 13:34]] · [[1 Nephi 13#^1ne-13-40|≈ 1 Nephi 13:40]]
+> [[1 Nephi 13#^1ne-13-34|≈ 1 Nephi 13:34]] · [[1 Nephi 13#^1ne-13-40|≈ 1 Nephi 13:40]] · [[Acts 8#^acts-8-26|≈ Acts 8:26]]

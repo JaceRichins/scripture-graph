@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 4
 slug: 1jn-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[1 John 3]] — 0 parallel verses
 - [[John 3]] — 0 parallel verses
 - [[John 13]] — 0 parallel verses
+- [[1 John 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -97,6 +98,7 @@ Love for one's brother is not an optional supplement to professed love for God. 
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Love** (reference-entry) *(explicit citation)*
+- **Antichrist** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

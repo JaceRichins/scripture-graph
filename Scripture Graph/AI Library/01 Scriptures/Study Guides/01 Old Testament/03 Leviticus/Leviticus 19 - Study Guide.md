@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 19
 slug: lev-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -103,6 +103,7 @@ Verses 21–22 connect a trespass offering, priestly atonement, and forgiveness 
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Love** (reference-entry) *(explicit citation)*
 - **Profanity** (reference-entry) *(explicit citation)*
+- **Agriculture** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

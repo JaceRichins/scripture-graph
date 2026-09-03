@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 22
 slug: matt-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,8 @@ _Not yet developed._
 - [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
 - [[1 Nephi 6]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
-- [[Alma 36]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
 - [[3 Nephi 4]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
+- [[Alma 36]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
 - [[Deuteronomy 10]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]]
 <!-- SG:END related-scriptures -->
 
@@ -95,11 +95,11 @@ _Not yet developed._
 - **Of Governments and Laws** (history) *(explicit citation)*
 - **Mercy Thompson and the Revelation on Marriage** (history) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
-- **Obedience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 40
 slug: dc-40
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 40]] · My notes: [[D&C 40 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, Fear of persecution and cares of the world cause rejection of the gospel.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-_Not yet developed._
+- [[D&C 39]] — 2 footnote cross-references (from [[D&C 40#^dc-40-1|D&C 40:1]])
+- [[Mark 4]] — 1 footnote cross-reference (from [[D&C 40#^dc-40-2|D&C 40:2]])
+- [[Matthew 13]] — 1 footnote cross-reference (from [[D&C 40#^dc-40-2|D&C 40:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,3 +88,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 1
 slug: 1chr-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,8 @@ _Not yet developed._
 - [[Genesis 36]] — 15 parallel verses, e.g. [[1 Chronicles 1#^1chr-1-50|1 Chronicles 1:50]] ↔ [[Genesis 36#^gen-36-39|Genesis 36:39]]
 - [[Genesis 10]] — 12 parallel verses, e.g. [[1 Chronicles 1#^1chr-1-5|1 Chronicles 1:5]] ↔ [[Genesis 10#^gen-10-2|Genesis 10:2]]
 - [[Genesis 25]] — 3 parallel verses, e.g. [[1 Chronicles 1#^1chr-1-32|1 Chronicles 1:32]] ↔ [[Genesis 25#^gen-25-2|Genesis 25:2]]
+- [[Genesis 10]] — 0 parallel verses
+- [[Genesis 36]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

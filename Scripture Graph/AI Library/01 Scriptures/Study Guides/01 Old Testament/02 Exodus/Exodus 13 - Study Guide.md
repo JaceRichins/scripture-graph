@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 13
 slug: ex-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -75,11 +75,12 @@ _Not yet developed._
 - [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
 - [[Fear Not Believe Only! (Elder Jeffrey R. Holland, April 2022)|Fear Not: Believe Only!]] — Elder Jeffrey R. Holland, 2022-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[It Is Better to Look Up (Elder Carl B. Cook, October 2011)|It Is Better to Look Up]] — Elder Carl B. Cook, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

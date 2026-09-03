@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 3
 slug: 1kgs-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -61,11 +61,12 @@ The request, promise, and lawsuit are connected both by placement and by verse 2
 - [[1 Kings 11]] — 1 parallel verse, e.g. [[1 Kings 3#^1kgs-3-14|1 Kings 3:14]] ↔ [[1 Kings 11#^1kgs-11-38|1 Kings 11:38]]
 - [[2 Chronicles 1]] — 0 parallel verses
 - [[1 Kings 9]] — 0 parallel verses
+- [[Psalm 72]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

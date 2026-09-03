@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 26
 slug: matt-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,10 @@ _Not yet developed._
 - [[John 13]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-21|Matthew 26:21]] ↔ [[John 13#^john-13-21|John 13:21]]
 - [[Luke 23]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-34|Matthew 26:34]] ↔ [[Luke 23#^luke-23-43|Luke 23:43]]
 - [[Mark 11]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-3|Matthew 26:3]] ↔ [[Mark 11#^mark-11-27|Mark 11:27]]
+- [[Exodus 24]] — 0 parallel verses
+- [[2 Nephi 7]] — 0 parallel verses
+- [[D&C 27]] — 0 parallel verses
+- [[3 Nephi 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,13 +85,13 @@ _Not yet developed._
 - [[That They Do Always Remember Him (Elder Claudio R. M. Costa, October 2015)|That They Do Always Remember Him]] — Elder Claudio R. M. Costa, 2015-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[The Sacrament—a Renewal for the Soul (Cheryl A. Esplin, October 2014)|The Sacrament—a Renewal for the Soul]] — Cheryl A. Esplin, 2014-October *(explicit citation)*
+- [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
 - [[The Soul’s Sincere Desire (Carol F. McConkie, October 2016)|The Soul’s Sincere Desire]] — Carol F. McConkie, 2016-October *(explicit citation)*
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
 - [[Here to Serve a Righteous Cause (Carol F. McConkie, October 2015)|Here to Serve a Righteous Cause]] — Carol F. McConkie, 2015-October *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
-- [[And This Is Life Eternal (Elder C. Scott Grow, April 2017)|And This Is Life Eternal]] — Elder C. Scott Grow, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -101,6 +105,7 @@ _Not yet developed._
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Humility** (reference-entry) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1843-09-01 (Vol. 4 No. 20)** (periodical, 1843-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

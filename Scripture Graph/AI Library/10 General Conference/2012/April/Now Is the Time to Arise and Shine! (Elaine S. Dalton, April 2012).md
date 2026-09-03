@@ -1,0 +1,180 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elaine S. Dalton
+year: '2012'
+month: April
+url: https://www.churchofjesuschrist.org/general-conference/2012/04/now-is-the-time-to-arise-and-shine?lang=eng
+doc_id: talk:2012-april-now-is-the-time-to-arise-and-shine
+full_text: true
+---
+
+# Now Is the Time to Arise and Shine!
+
+**Speaker:** Elaine S. Dalton · **Conference:** April 2012 · [source](https://www.churchofjesuschrist.org/general-conference/2012/04/now-is-the-time-to-arise-and-shine?lang=eng)
+
+Now Is the Time to Arise and Shine!
+
+By Elaine S. Dalton
+
+Young Women General President
+
+As daughters of God, you were born to lead.
+
+From my window in the Young Women office, I have a spectacular view of the Salt Lake Temple. Every day I see the angel Moroni standing atop the temple as a shining symbol of not only his faith but ours. I love Moroni because, in a very degenerate society, he remained pure and true. He is my hero. He stood alone. I feel somehow he stands atop the temple today, beckoning us to have courage, to remember who we are, and to be worthy to enter the holy temple—to “arise and shine forth,” to stand above the worldly clamor, and to, as Isaiah prophesied, “Come … to the mountain of the Lord”—the holy temple.
+
+Gathered here today are the Lord’s elect daughters. There is no more influential group standing for truth and righteousness in all the world than the young women and the women of The Church of Jesus Christ of Latter-day Saints. I see your nobility and know of your divine identity and destiny. You distinguished yourselves in the premortal existence. Your lineage carries with it covenants and promises. You have inherited the spiritual attributes of the faithful patriarchs Abraham, Isaac, and Jacob. A prophet of God once referred to each of you assembled here tonight as “the one bright shining hope” of the future. And I agree! In a very challenging world, your light shines brightly. Indeed, these are “days never to be forgotten.” These are your days, and now is the time for young women everywhere to “arise and shine forth, that thy light may be a standard for the nations.”
+
+“A standard is a rule of measure by which one determines exactness or perfection.” We are to be a standard of holiness for all the world to see! The new revised For the Strength of Youth booklet contains not only standards to live with exactness but promised blessings if you do so. The words contained in this important booklet are standards for the world, and living these standards will enable you to know what to do to become more like the Savior and to be happy in an ever-darkening world. Living the standards in this booklet will help you qualify for the constant companionship of the Holy Ghost. And in the world in which you are living, you will need that companionship to make critical decisions that will determine much of your future success and happiness. Living these standards will help each of you qualify to enter the Lord’s holy temples and there receive the blessings and power that await you as you make and keep sacred covenants.
+
+When our daughter, Emi, was a little girl, she liked to watch my every move as I got ready for church. After observing my routine, she would comb her hair and put on her dress, and then she would always ask me to put on some “shiney.” The “shiney” she referred to was thick, gooey cream that I used to prevent wrinkles. As requested, I would put it on Emi’s cheeks and lips, and she would then smile and say, “Now we are ready to go!” What Emi didn’t realize is that she already had her “shiney” on. Her face glowed because she was so pure and innocent and good. She had the Spirit with her, and it showed.
+
+I wish every young woman assembled here tonight would know and understand that your beauty—your “shine”—does not lie in makeup, gooey cream, or the latest clothing or hairstyles. It lies in your personal purity. When you live the standards and qualify for the constant companionship of the Holy Ghost, you can have a powerful impact in the world. Your example, even the light in your eyes, will influence others who see your “shine,” and they will want to be like you. Where do you get this light? The Lord is the light, “and the Spirit enlighteneth every man through the world, that hearkeneth to the voice of the Spirit.” A divine light comes into your eyes and countenances when you draw close to your Heavenly Father and His Son, Jesus Christ. That’s how we get the “shiney”! And besides, as all of you can see, the “shiney cream” didn’t really work on my wrinkles anyway!
+
+The call to “arise and shine forth” is a call to each of you to lead the world in a mighty cause—to raise the standard—and lead this generation in virtue, purity, and temple worthiness. If you desire to make a difference in the world, you must be different from the world. I echo the words of President Joseph F. Smith, who said to the women of his day: “It is not for you to be led by the [young] women of the world; it is for you to lead … the [young] women of the world, in everything that is … purifying to the children of men.” These words ring true today. As daughters of God, you were born to lead.
+
+In the world in which we live, your ability to lead will require the guidance and constant companionship of the Holy Ghost, who will tell you “all things what ye should do” as you recognize and rely on His guidance and promptings. And since the Holy Ghost does not dwell in unclean temples, each of us will need to take inventory of our habits and our hearts. All of us will need to change something—to repent. As King Lamoni’s father stated in the Book of Mormon, “I will give away all my sins to know thee.” Are we, you and I, willing to do the same?
+
+A group of youth in Queen Creek, Arizona, determined to “arise and shine forth” and to lead the youth in their community in living the standards in For the Strength of Youth. They each wrote something that they felt was holding them back or something they wanted to change in their lives in their journals, and then they literally dug a hole. They came together, tore out the journal page, and threw it into the hole in the earth, just like the people of Ammon did in the Book of Mormon with their weapons of war. Then they buried those pages, and that day they each made a commitment to change. They repented. They determined to arise!
+
+Do you have something in your life that you need to change? You can do this. You can repent because of the Savior’s infinite atoning sacrifice. He made it possible for you and me to change, to become pure and clean again, and to become like Him. And He has promised that when we do, He will remember our sins and mistakes no more.
+
+Sometimes it may seem almost impossible to keep shining. You encounter so many challenges which may obscure the source of all light, which is the Savior. Sometimes the way is difficult, and it may even seem at times that a thick fog obscures the light. Such was the case with a young woman named Florence Chadwick. From the age of 10, Florence discovered that she was a talented swimmer. She swam the English Channel in record time of 13 hours and 20 minutes. Florence loved a challenge, and she later attempted to swim between the coastline of California and Catalina Island—some 21 miles (34 km). On this swim she grew weary after swimming 15 hours. A thick fog set in that obscured the view of the coastline. Her mother was riding alongside her in a boat, and Florence told her mother that she didn’t think she could finish. Her mother and her trainer encouraged her to continue, but all she could see was the fog. She abandoned her swim, but once inside the boat, she discovered she had quit within one mile (1.6 km) of the coastline. Later, when she was interviewed and asked why she had abandoned her swim, she confessed that it wasn’t the cold water and it wasn’t the distance. She said, “I was licked by the fog.”
+
+Later she attempted the swim again, and once more, a thick fog set in. But this time, she kept going until she successfully reached the coastline. This time when she was asked what made the difference, she said that she kept a mental image of the coastline in her mind through the thick fog and throughout the duration of her swim.
+
+For Florence Chadwick, the coastline was her goal. For each of us, the temple is our goal. Young women, stay focused. Don’t lose sight of your goals. Don’t let the thick fog of moral pollution and the detracting voices of the world keep you from reaching your goals, living the standards, enjoying the companionship of the Holy Ghost, and being worthy to enter holy temples. Retain the vision of the temple—the Savior’s holy house—ever in your hearts and minds.
+
+Several weeks ago I stood in the celestial room of the Reno Nevada Temple. The light streaming into that room was brilliant and was made even more so by the crystal chandelier, which reflected the light on its many carved facets into rainbows of illumination everywhere. It took my breath away as I realized that the Savior is “the light and the life of the world,” that it is His light we must hold up and reflect. We are the tiny crystals that reflect His light, and in order to do that, we must be clean and free from the dust of the world. As I stood in the temple that day, I heard again in my mind Moroni’s call to us—the daughters of Zion: “Awake, and arise from the dust.” “And touch not the evil gift, nor the unclean thing.” “Awake, and arise … , and put on thy beautiful garments, O daughter of Zion … , that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.”
+
+The promised blessings of the temple extend not only to you but to all generations. As you make the temple your goal, your influence for good will transcend time and place, and the work you perform for those who have gone before will be the fulfillment of prophecy!
+
+Last general conference I thrilled as I listened to Elder David A. Bednar invite each of you to become anxiously engaged in doing your own family history and temple work for those who have passed on without the blessings of the restored gospel of Jesus Christ. As he issued this invitation to you, my heart leapt inside. In the Doctrine and Covenants we read of “other choice spirits who were reserved to come forth in the fulness of times to take part in laying the foundations of the great latter-day work, including the building of … temples and the performance of ordinances therein for the redemption of the dead.” This is your day, and your work has begun! Now is the time to be worthy of and obtain a temple recommend. As you do this work, you will become saviors on Mount Zion.
+
+Elder Russell M. Nelson said of you, “The influence of [the] young women of the Church, like a sleeping giant, will awaken, arise, and inspire the inhabitants of the earth as a mighty force for righteousness.” Young women, arise and take your place in the glorious events that will shape your future and the future of the world. Now is the time!
+
+“High on the mountain top a banner is unfurled. Ye nations, now look up; it waves to all the world”! Young women, you are the banner! Be virtuous and pure, seek the companionship of the Holy Ghost, bury your sins and transgressions, maintain your focus, and don’t let the fog of moral pollution obscure your goals. Be worthy to enter the temple now. Put on your “shiney”! I testify with all my heart that God lives and that He will enlighten our lives as we draw close to His Beloved Son—our Savior, Jesus Christ. And I pray that, like Moroni, we will “arise and shine forth, that [our] light may be a standard for the nations”! In the sacred name of Jesus Christ, amen.
+
+Notes
+
+Doctrine and Covenants 115:5.
+
+Isaiah 2:3; 2 Nephi 12:3.
+
+Gordon B. Hinckley, “Standing Strong and Immovable,” Worldwide Leadership Training Meeting, Jan. 10, 2004, 20.
+
+Oliver Cowdery, in Joseph Smith—History 1:71, note.
+
+Doctrine and Covenants 115:5.
+
+Ezra Taft Benson, “Strengthen Thy Stakes,” Tambuli, Aug. 1991, 4; Ensign, Jan. 1991, 2.
+
+See Doctrine and Covenants 109:22.
+
+Doctrine and Covenants 84:46.
+
+Teachings of Presidents of the Church: Joseph F. Smith (1998), 184.
+
+2 Nephi 32:5.
+
+Alma 22:18; emphasis added.
+
+See Alma 24:17.
+
+See Doctrine and Covenants 58:42.
+
+See Sterling W. Sill, in Conference Report, Apr. 1955, 117.
+
+See Randy Alcom, “Florence Chadwick and the Fog,” epm.org/resources/2010/Jan/21/florence-chadwick-and-fog. See also “Florence Chadwick,” in Encyclopedia of World Biography, vol. 19 (2004): 64–66; “Navigation Information” and “Swim Successes,” Catalina Channel Swimming Federation, swimcatalina.com, accessed Mar. 27, 2012. Additional varying accounts about Florence Chadwick exist.
+
+3 Nephi 9:18.
+
+Moroni 10:31.
+
+Moroni 10:30.
+
+Moroni 10:31.
+
+See David A. Bednar, “The Hearts of the Children Shall Turn,” Liahona and Ensign, Nov. 2011, 24–27.
+
+Doctrine and Covenants 138:53–54.
+
+See Obadiah 1:21; Doctrine and Covenants 103:9; Teachings of Presidents of the Church: Joseph Smith (2007), 472–73.
+
+Russell M. Nelson, “Daughters of Zion,” New Era Young Women Special Issue, YW Nov. 1985, 9.
+
+“High on the Mountain Top,” Hymns, no. 5.
+
+Doctrine and Covenants 115:5.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28853644", "context": "", "text": "
+Doctrine and Covenants 115:5.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/115?lang=eng&id=p5#p5", "text": "Doctrine and Covenants 115:5"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28853644", "context": "", "text": "
+Isaiah 2:3; 2 Nephi 12:3.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/isa/2?lang=eng&id=p3#p3", "text": "Isaiah 2:3"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/12?lang=eng&id=p3#p3", "text": "2 Nephi 12:3"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28853645", "context": "", "text": "
+Gordon B. Hinckley, “Standing Strong and Immovable,” Worldwide Leadership Training Meeting, Jan. 10, 2004, 20.
+"}, "note4": {"id": "note4", "marker": "4.", "pid": "28853645", "context": "", "text": "
+Oliver Cowdery, in Joseph Smith—History 1:71, note.
+"}, "note5": {"id": "note5", "marker": "5.", "pid": "28853645", "context": "", "text": "
+Doctrine and Covenants 115:5.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/115?lang=eng&id=p5#p5", "text": "Doctrine and Covenants 115:5"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28853646", "context": "", "text": "
+Ezra Taft Benson, “Strengthen Thy Stakes,” Tambuli, Aug. 1991, 4; Ensign, Jan. 1991, 2.
+"}, "note7": {"id": "note7", "marker": "7.", "pid": "28853646", "context": "", "text": "
+See Doctrine and Covenants 109:22.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/109?lang=eng&id=p22#p22", "text": "Doctrine and Covenants 109:22"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28853648", "context": "", "text": "
+Doctrine and Covenants 84:46.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/84?lang=eng&id=p46#p46", "text": "Doctrine and Covenants 84:46"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "28853649", "context": "", "text": "
+Teachings of Presidents of the Church: Joseph F. Smith (1998), 184.
+"}, "note10": {"id": "note10", "marker": "10.", "pid": "28853650", "context": "", "text": "
+2 Nephi 32:5.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/32?lang=eng&id=p5#p5", "text": "2 Nephi 32:5"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "28853650", "context": "", "text": "
+Alma 22:18; emphasis added.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/22?lang=eng&id=p18#p18", "text": "Alma 22:18"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "28853651", "context": "", "text": "
+See Alma 24:17.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/24?lang=eng&id=p17#p17", "text": "Alma 24:17"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "28853652", "context": "", "text": "
+See Doctrine and Covenants 58:42.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/58?lang=eng&id=p42#p42", "text": "Doctrine and Covenants 58:42"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "28853653", "context": "", "text": "
+See Sterling W. Sill, in Conference Report, Apr. 1955, 117.
+"}, "note15": {"id": "note15", "marker": "15.", "pid": "28853654", "context": "", "text": "
+See Randy Alcom, “Florence Chadwick and the Fog,” epm.org/resources/2010/Jan/21/florence-chadwick-and-fog. See also “Florence Chadwick,” in Encyclopedia of World Biography, vol. 19 (2004): 64–66; “Navigation Information” and “Swim Successes,” Catalina Channel Swimming Federation, swimcatalina.com, accessed Mar. 27, 2012. Additional varying accounts about Florence Chadwick exist.
+"}, "note16": {"id": "note16", "marker": "16.", "pid": "28853656", "context": "", "text": "
+3 Nephi 9:18.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/9?lang=eng&id=p18#p18", "text": "3 Nephi 9:18"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "28853656", "context": "", "text": "
+Moroni 10:31.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/10?lang=eng&id=p31#p31", "text": "Moroni 10:31"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "28853656", "context": "", "text": "
+Moroni 10:30.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/10?lang=eng&id=p30#p30", "text": "Moroni 10:30"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "28853656", "context": "", "text": "
+Moroni 10:31.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/10?lang=eng&id=p31#p31", "text": "Moroni 10:31"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "28853658", "context": "", "text": "
+See David A. Bednar, “The Hearts of the Children Shall Turn,” Liahona and Ensign, Nov. 2011, 24–27.
+"}, "note21": {"id": "note21", "marker": "21.", "pid": "28853658", "context": "", "text": "
+Doctrine and Covenants 138:53–54.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/138?lang=eng&id=p53-p54#p53", "text": "Doctrine and Covenants 138:53–54"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "28853658", "context": "", "text": "
+See Obadiah 1:21; Doctrine and Covenants 103:9; Teachings of Presidents of the Church: Joseph Smith (2007), 472–73.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/obad/1?lang=eng&id=p21#p21", "text": "Obadiah 1:21"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/103?lang=eng&id=p9#p9", "text": "Doctrine and Covenants 103:9"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "28853659", "context": "", "text": "
+Russell M. Nelson, “Daughters of Zion,” New Era Young Women Special Issue, YW Nov. 1985, 9.
+"}, "note24": {"id": "note24", "marker": "24.", "pid": "28853660", "context": "", "text": "
+“High on the Mountain Top,” Hymns, no. 5.
+"}, "note25": {"id": "note25", "marker": "25.", "pid": "28853660", "context": "", "text": "
+Doctrine and Covenants 115:5.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/115?lang=eng&id=p5#p5", "text": "Doctrine and Covenants 115:5"}]}}
+
+## Scripture citations in this talk
+
+- [[D&C 115]] (9×)
+- [[Moroni 10]] (9×)
+- [[Isaiah 2]] (3×)
+- [[2 Nephi 12]] (3×)
+- [[D&C 109]] (3×)
+- [[D&C 84]] (3×)
+- [[2 Nephi 32]] (3×)
+- [[Alma 22]] (3×)
+- [[Alma 24]] (3×)
+- [[D&C 58]] (3×)
+- [[3 Nephi 9]] (3×)
+- [[D&C 138]] (3×)
+- [[Obadiah 1]] (3×)
+- [[D&C 103]] (3×)
+- [[Joseph Smith—History 1]] (2×)

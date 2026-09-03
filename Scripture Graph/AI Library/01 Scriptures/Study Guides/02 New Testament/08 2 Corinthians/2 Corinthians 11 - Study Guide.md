@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 11
 slug: 2cor-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,12 +57,13 @@ Scripture: [[2 Corinthians 11]] · My notes: [[2 Corinthians 11 - My Notes]]
 - [[Acts 9]] — 0 parallel verses
 - [[1 Corinthians 9]] — 0 parallel verses
 - [[D&C 122]] — 0 parallel verses
+- [[2 Corinthians 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Apostles]]
 - [[Satan and Temptation]]
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -83,6 +84,8 @@ Paul's suffering catalogue (11:23-29) complicates triumphalist ideas about disci
 - [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
 - [[Simplicity in Christ (Elder Michael Cziesla, October 2025)|Simplicity in Christ]] — Elder Michael Cziesla, 2025-October *(explicit citation)*
+- [[More Than Conquerors through Him That Loved Us (Elder Paul V. Johnson, April 2011)|More Than Conquerors through Him That Loved Us]] — Elder Paul V. Johnson, 2011-April *(explicit citation)*
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

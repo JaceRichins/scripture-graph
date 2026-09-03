@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 13
 slug: 2sam-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

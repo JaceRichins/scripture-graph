@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 7
 slug: jacob-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -88,7 +88,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Antichrist** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

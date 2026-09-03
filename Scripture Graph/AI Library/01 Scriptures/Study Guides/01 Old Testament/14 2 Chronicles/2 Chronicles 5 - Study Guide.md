@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 5
 slug: 2chr-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,24 +55,24 @@ The chapter moves from the completion of Solomon's temple to the installation of
 - [[1 Chronicles 16]] — 1 footnote cross-reference (from [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]])
 - [[Ezra 3]] — 1 footnote cross-reference (from [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]])
 - [[D&C 136]] — 1 footnote cross-reference (from [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]])
+- [[1 Kings 8]] — 13 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
 - [[1 Chronicles 15]] — 11 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[1 Samuel 4]] — 6 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
 - [[Deuteronomy 31]] — 6 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
 - [[Joshua 3]] — 6 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
+- [[2 Chronicles 7]] — 2 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]] ↔ [[2 Chronicles 7#^2chr-7-3|2 Chronicles 7:3]]
 - [[Joshua 4]] — 4 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Joshua 4#^josh-4-7|Joshua 4:7]]
 - [[1 Chronicles 28]] — 4 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
+- [[1 Chronicles 16]] — 3 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
 - [[1 Kings 7]] — 1 parallel verse, e.g. [[2 Chronicles 5#^2chr-5-1|2 Chronicles 5:1]] ↔ [[1 Kings 7#^1kgs-7-51|1 Kings 7:51]]
+- [[Deuteronomy 10]] — 2 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]]
 - [[Numbers 10]] — 2 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Numbers 10#^num-10-33|Numbers 10:33]]
-- [[Numbers 14]] — 2 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Numbers 14#^num-14-44|Numbers 14:44]]
-- [[Joshua 6]] — 2 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Joshua 6#^josh-6-8|Joshua 6:8]]
-- [[Joshua 8]] — 2 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Joshua 8#^josh-8-33|Joshua 8:33]]
-- [[Jeremiah 3]] — 2 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Temples]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

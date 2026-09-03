@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 25
 slug: prov-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,14 +55,14 @@ _Not yet developed._
 - [[Romans 11]] — 1 footnote cross-reference (from [[Proverbs 25#^prov-25-2|Proverbs 25:2]])
 - [[D&C 5]] — 1 footnote cross-reference (from [[Proverbs 25#^prov-25-2|Proverbs 25:2]])
 - [[Proverbs 20]] — 1 footnote cross-reference (from [[Proverbs 25#^prov-25-5|Proverbs 25:5]])
+- [[Proverbs 21]] — 2 parallel verses, e.g. [[Proverbs 25#^prov-25-24|Proverbs 25:24]] ↔ [[Proverbs 21#^prov-21-9|Proverbs 21:9]]
 - [[Luke 14]] — 0 parallel verses
-- [[Proverbs 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Records and Sacred Writings]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

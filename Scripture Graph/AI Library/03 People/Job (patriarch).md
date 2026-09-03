@@ -35,3 +35,9 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

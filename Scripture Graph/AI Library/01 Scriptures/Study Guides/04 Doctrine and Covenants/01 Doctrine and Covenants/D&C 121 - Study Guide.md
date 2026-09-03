@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 121
 slug: dc-121
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 101]] — 4 footnote cross-references (from [[D&C 121#^dc-121-4|D&C 121:4]])
+- [[D&C 76]] — 4 footnote cross-references (from [[D&C 121#^dc-121-28|D&C 121:28]])
+- [[D&C 122]] — 3 footnote cross-references (from [[D&C 121#^dc-121-6|D&C 121:6]])
+- [[Alma 12]] — 3 footnote cross-references (from [[D&C 121#^dc-121-25|D&C 121:25]])
+- [[D&C 42]] — 3 footnote cross-references (from [[D&C 121#^dc-121-25|D&C 121:25]])
+- [[Psalm 35]] — 2 footnote cross-references (from [[D&C 121#^dc-121-2|D&C 121:2]])
 - [[D&C 128]] — 2 parallel verses, e.g. [[D&C 121#^dc-121-31|D&C 121:31]] ↔ [[D&C 128#^dc-128-18|D&C 128:18]]
 - [[Matthew 22]] — 0 parallel verses
 - [[Matthew 18]] — 0 parallel verses
@@ -78,19 +84,20 @@ Verses 28 and 32 also contain unresolved language about “one God or many gods�
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Not as the World Giveth (Elder Jeffrey R. Holland, April 2021)|Not as the World Giveth]] — Elder Jeffrey R. Holland, 2021-April *(explicit citation)*
+- [[Only upon the Principles of Righteousness (Elder Larry Y. Wilson, April 2012)|Only upon the Principles of Righteousness]] — Elder Larry Y. Wilson, 2012-April *(explicit citation)*
 - [[Personal Peace in Challenging Times (Elder Quentin L. Cook, October 2021)|Personal Peace in Challenging Times]] — Elder Quentin L. Cook, 2021-October *(explicit citation)*
 - [[The Immediate Goodness of God (Elder Kyle S. McKay, April 2019)|The Immediate Goodness of God]] — Elder Kyle S. McKay, 2019-April *(explicit citation)*
 - [[Confidence in the Presence of God (President Russell M. Nelson, April 2025)|Confidence in the Presence of God]] — President Russell M. Nelson, 2025-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[Where Is the Pavilion (President Henry B. Eyring, October 2012)|Where Is the Pavilion?]] — President Henry B. Eyring, 2012-October *(explicit citation)*
+- [[The Joy of the Priesthood (President Dieter F. Uchtdorf, October 2012)|The Joy of the Priesthood]] — President Dieter F. Uchtdorf, 2012-October *(explicit citation)*
 - [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
 - [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
-- [[Our Campfire of Faith (Elder Gerrit W. Gong, October 2018)|Our Campfire of Faith]] — Elder Gerrit W. Gong, 2018-October *(explicit citation)*
-- [[The Atonement of Jesus Christ (Tad R. Callister, April 2019)|The Atonement of Jesus Christ]] — Tad R. Callister, 2019-April *(explicit citation)*
-- [[Hear Him (President Russell M. Nelson, April 2020)|Hear Him]] — President Russell M. Nelson, 2020-April *(explicit citation)*
-- [[What We Are Learning and Will Never Forget (President Russell M. Nelson, April 2021)|What We Are Learning and Will Never Forget]] — President Russell M. Nelson, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **33 O God, Where Art Thou?** (history) *(explicit citation)*
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
@@ -100,7 +107,6 @@ Verses 28 and 32 also contain unresolved language about “one God or many gods�
 - **Family Councils** (reference-entry) *(explicit citation)*
 - **Pornography** (reference-entry) *(explicit citation)*
 - **Virtue** (reference-entry) *(explicit citation)*
-- **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

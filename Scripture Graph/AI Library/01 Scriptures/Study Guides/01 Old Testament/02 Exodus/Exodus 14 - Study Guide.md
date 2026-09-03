@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 14
 slug: ex-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,12 @@ _Not yet developed._
 - [[Numbers 33]] — 1 parallel verse, e.g. [[Exodus 14#^ex-14-8|Exodus 14:8]] ↔ [[Numbers 33#^num-33-3|Numbers 33:3]]
 - [[Exodus 25]] — 2 parallel verses, e.g. [[Exodus 14#^ex-14-2|Exodus 14:2]] ↔ [[Exodus 25#^ex-25-2|Exodus 25:2]]
 - [[Numbers 19]] — 2 parallel verses, e.g. [[Exodus 14#^ex-14-2|Exodus 14:2]] ↔ [[Numbers 19#^num-19-2|Numbers 19:2]]
+- [[Exodus 15]] — 0 parallel verses
+- [[Joshua 4]] — 0 parallel verses
+- [[2 Chronicles 20]] — 0 parallel verses
+- [[2 Nephi 20]] — 0 parallel verses
+- [[Isaiah 10]] — 0 parallel verses
+- [[1 Nephi 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,6 +72,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
 - [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
+- [[More Than Conquerors through Him That Loved Us (Elder Paul V. Johnson, April 2011)|More Than Conquerors through Him That Loved Us]] — Elder Paul V. Johnson, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

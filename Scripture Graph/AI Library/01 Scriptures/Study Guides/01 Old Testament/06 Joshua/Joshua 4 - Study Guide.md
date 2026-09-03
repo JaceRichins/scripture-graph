@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 4
 slug: josh-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,8 @@ The repeated question about the stones in verses 6–7 and 21–23 binds the com
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Education and Learning]]
+- [[Exodus and Deliverance]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -100,7 +102,25 @@ Repetition shapes the account. The statement that all the people had crossed app
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary And Pedagogical Evidence
+> The combination of a durable physical sign and a repeated question-and-answer script is strong internal evidence that Joshua 4 presents remembrance as an intentional form of communal and family teaching.
+> — strength 0.8 · confidence 0.9 · strong internal literary inference · [[Internal Literary And Pedagogical Evidence in Joshua 4|full dossier]]
+
+> [!evidence] Explicit Intratextual Comparison
+> The chapter's explicit comparison of the Jordan crossing with the Red Sea is strong evidence that the narrator intends readers to understand the event as a continuation or renewal of the Exodus pattern.
+> — strength 0.9 · confidence 1.0 · strong literary evidence · [[Explicit Intratextual Comparison in Joshua 4|full dossier]]
+
+> [!evidence] Textual/Source Criticism *(tentative)*
+> The existence of two separate twelve-stone monuments (in-river and at Gilgal) has been read by some source critics as evidence of two interwoven memorial traditions in Joshua 3-4, while others read it as a straightforward account of two intentional monuments built the same day for different audiences (those crossing vs. those camped at Gilgal).
+> — strength 0.3 · confidence 0.5 · disputed and insufficiently sourced
+
+> [!evidence] Calendrical/Literary Parallel *(tentative)*
+> Israel crosses the Jordan on 'the tenth day of the first month' (4:19), the same calendar day Exodus 12:3 designates for households to select their Passover lamb, four days before Israel keeps Passover at Gilgal in the following chapter. This numeric coincidence is sometimes cited as an intentional literary/liturgical echo of the Exodus.
+> — strength 0.3 · confidence 0.6 · calendar correspondence certain; intended allusion speculative
+
+> [!evidence] Composition/Dating Notice *(tentative)*
+> The notice that the in-river stones 'are there unto this day' (4:9) is an editorial aside typical of Joshua, often taken by scholars as a sign that the written account postdates the events by some interval, though the phrase alone does not indicate how long.
+> — strength 0.4 · confidence 0.7 · retrospective wording clear; dating implications limited
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

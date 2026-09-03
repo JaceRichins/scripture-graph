@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 19
 slug: rev-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,9 @@ _Not yet developed._
 - [[D&C 133]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-6|Revelation 19:6]] ↔ [[D&C 133#^dc-133-22|D&C 133:22]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-10|Revelation 19:10]] ↔ [[Revelation 22#^rev-22-9|Revelation 22:9]]
 - [[Revelation 2]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-15|Revelation 19:15]] ↔ [[Revelation 2#^rev-2-27|Revelation 2:27]]
+- [[Ezekiel 39]] — 0 parallel verses
+- [[D&C 58]] — 0 parallel verses
+- [[D&C 65]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

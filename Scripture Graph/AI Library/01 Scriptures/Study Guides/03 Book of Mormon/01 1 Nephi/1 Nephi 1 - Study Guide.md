@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 1
 slug: 1ne-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,9 +56,9 @@ The chapter serves simultaneously as a preface to Nephi's record and as the call
 - [[2 Nephi 25]] — 3 footnote cross-references (from [[1 Nephi 1#^1ne-1-3|1 Nephi 1:3]])
 - [[2 Kings 24]] — 3 footnote cross-references (from [[1 Nephi 1#^1ne-1-4|1 Nephi 1:4]])
 - [[Alma 36]] — 1 parallel verse, e.g. [[1 Nephi 1#^1ne-1-8|1 Nephi 1:8]] ↔ [[Alma 36#^alma-36-22|Alma 36:22]]
-- [[3 Nephi 5]] — 0 parallel verses
-- [[Alma 8]] — 0 parallel verses
-- [[1 Nephi 5]] — 0 parallel verses
+- [[1 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 1#^1ne-1-4|1 Nephi 1:4]] ↔ [[1 Nephi 5#^1ne-5-12|1 Nephi 5:12]]
+- [[Alma 8]] — 2 parallel verses, e.g. [[1 Nephi 1#^1ne-1-7|1 Nephi 1:7]] ↔ [[Alma 8#^alma-8-1|Alma 8:1]]
+- [[3 Nephi 5]] — 1 parallel verse, e.g. [[1 Nephi 1#^1ne-1-17|1 Nephi 1:17]] ↔ [[3 Nephi 5#^3ne-5-11|3 Nephi 5:11]]
 - [[Isaiah 6]] — 0 parallel verses
 - [[Ezekiel 1]] — 0 parallel verses
 - [[Ezekiel 2]] — 0 parallel verses
@@ -103,6 +103,7 @@ The reference to a Messiah and "the redemption of the world" makes redemption ce
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **Heaven** (reference-entry) *(explicit citation)*
 - **Heaven** (reference-entry) *(explicit citation)*
+- **Sources Cited** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

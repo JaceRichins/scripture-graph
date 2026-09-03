@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 2
 slug: abr-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,14 +51,21 @@ This is a practical outline, not proof of a formal literary design.
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 12]] — 12 footnote cross-references (from [[Abraham 2#^abr-2-2|Abraham 2:2]])
+- [[Genesis 11]] — 6 footnote cross-references (from [[Abraham 2#^abr-2-1|Abraham 2:1]])
+- [[Abraham 1]] — 5 footnote cross-references (from [[Abraham 2#^abr-2-1|Abraham 2:1]])
+- [[Genesis 13]] — 5 footnote cross-references (from [[Abraham 2#^abr-2-6|Abraham 2:6]])
+- [[Genesis 20]] — 3 footnote cross-references (from [[Abraham 2#^abr-2-2|Abraham 2:2]])
+- [[Genesis 17]] — 3 footnote cross-references (from [[Abraham 2#^abr-2-6|Abraham 2:6]])
+- [[Genesis 12]] — 12 parallel verses, e.g. [[Abraham 2#^abr-2-25|Abraham 2:25]] ↔ [[Genesis 12#^gen-12-13|Genesis 12:13]]
 - [[D&C 132]] — 4 parallel verses, e.g. [[Abraham 2#^abr-2-7|Abraham 2:7]] ↔ [[D&C 132#^dc-132-49|D&C 132:49]]
+- [[Genesis 11]] — 1 parallel verse, e.g. [[Abraham 2#^abr-2-4|Abraham 2:4]] ↔ [[Genesis 11#^gen-11-31|Genesis 11:31]]
+- [[Acts 7]] — 1 parallel verse, e.g. [[Abraham 2#^abr-2-3|Abraham 2:3]] ↔ [[Acts 7#^acts-7-3|Acts 7:3]]
 - [[Genesis 48]] — 2 parallel verses, e.g. [[Abraham 2#^abr-2-6|Abraham 2:6]] ↔ [[Genesis 48#^gen-48-4|Genesis 48:4]]
 - [[Genesis 28]] — 1 parallel verse, e.g. [[Abraham 2#^abr-2-11|Abraham 2:11]] ↔ [[Genesis 28#^gen-28-14|Genesis 28:14]]
 - [[Abraham 3]] — 2 parallel verses, e.g. [[Abraham 2#^abr-2-7|Abraham 2:7]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
 - [[Exodus 32]] — 1 parallel verse, e.g. [[Abraham 2#^abr-2-9|Abraham 2:9]] ↔ [[Exodus 32#^ex-32-10|Exodus 32:10]]
-- [[Genesis 12]] — 0 parallel verses
-- [[Genesis 11]] — 0 parallel verses
-- [[Acts 7]] — 0 parallel verses
+- [[D&C 132]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -92,6 +99,7 @@ Verses 9-11 present the [[Abrahamic Covenant]] as both blessing and ministry: Ab
 <!-- SG:BEGIN history -->
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
@@ -99,7 +107,6 @@ Verses 9-11 present the [[Abrahamic Covenant]] as both blessing and ministry: Ab
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
-- **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

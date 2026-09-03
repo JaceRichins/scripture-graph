@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 11
 slug: josh-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Judges 18]] — 1 parallel verse, e.g. [[Joshua 11#^josh-11-12|Joshua 11:12]] ↔ [[Judges 18#^judg-18-27|Judges 18:27]]
 - [[Judges 20]] — 1 parallel verse, e.g. [[Joshua 11#^josh-11-12|Joshua 11:12]] ↔ [[Judges 20#^judg-20-48|Judges 20:48]]
 - [[2 Kings 10]] — 1 parallel verse, e.g. [[Joshua 11#^josh-11-12|Joshua 11:12]] ↔ [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]]
+- [[Joshua 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

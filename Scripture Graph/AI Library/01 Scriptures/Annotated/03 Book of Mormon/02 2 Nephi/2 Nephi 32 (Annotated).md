@@ -23,7 +23,7 @@ cssclasses:
 > [[Alma 36#^alma-36-24|Alma 36:24]] · [[3 Nephi 9#^3ne-9-20|3 Ne. 9:20]] · [[2 Nephi 31#^2ne-31-13|2 Ne. 31:13]] · [[2 Nephi 31#^2ne-31-13|≈ 2 Nephi 31:13]]
 
 ![[2 Nephi 32#^2ne-32-3]]
-> [[Jeremiah 15#^jer-15-16|Jer. 15:16]] · [[Colossians 3#^col-3-16|Col. 3:16]] · [[Exodus 4#^ex-4-15|Ex. 4:15]] · [[2 Nephi 33#^2ne-33-1|≈ 2 Nephi 33:1]] · [[Moroni 3#^moro-3-4|≈ Moroni 3:4]] · [[Moroni 6#^moro-6-4|≈ Moroni 6:4]] · [[Moroni 6#^moro-6-9|≈ Moroni 6:9]] · [[Moroni 10#^moro-10-7|≈ Moroni 10:7]] · [[Moroni 10#^moro-10-4|≈ Moroni 10:4]]
+> [[Jeremiah 15#^jer-15-16|Jer. 15:16]] · [[Colossians 3#^col-3-16|Col. 3:16]] · [[Exodus 4#^ex-4-15|Ex. 4:15]] · [[Moroni 10#^moro-10-7|≈ Moroni 10:7]] · [[Moroni 10#^moro-10-4|≈ Moroni 10:4]] · [[Moroni 10#^moro-10-5|≈ Moroni 10:5]] · [[2 Nephi 33#^2ne-33-1|≈ 2 Nephi 33:1]] · [[Moroni 3#^moro-3-4|≈ Moroni 3:4]] · [[Moroni 6#^moro-6-4|≈ Moroni 6:4]]
 
 ![[2 Nephi 32#^2ne-32-4]]
 

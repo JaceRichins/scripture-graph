@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 15
 slug: 2sam-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,11 +57,12 @@ Scripture: [[2 Samuel 15]] · My notes: [[2 Samuel 15 - My Notes]]
 - [[1 Chronicles 27]] — 1 footnote cross-reference (from [[2 Samuel 15#^2sam-15-12|2 Samuel 15:12]])
 - [[2 Samuel 13]] — 2 parallel verses, e.g. [[2 Samuel 15#^2sam-15-7|2 Samuel 15:7]] ↔ [[2 Samuel 13#^2sam-13-6|2 Samuel 13:6]]
 - [[2 Kings 2]] — 2 parallel verses, e.g. [[2 Samuel 15#^2sam-15-21|2 Samuel 15:21]] ↔ [[2 Kings 2#^2kgs-2-4|2 Kings 2:4]]
+- [[1 Kings 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -78,7 +79,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abiathar** (reference-entry) *(explicit citation)*
+- **Absalom** (reference-entry) *(explicit citation)*
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

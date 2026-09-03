@@ -59,7 +59,7 @@ cssclasses:
 > [[Romans 1#^rom-1-8|Rom. 1:8]]
 
 ![[Romans 16#^rom-16-20]]
-> [[Moroni 7#^moro-7-3|Moro. 7:3 (3–4)]] · [[Genesis 3#^gen-3-15|Gen. 3:15]] · [[1 Corinthians 16#^1cor-16-23|≈ 1 Corinthians 16:23]] · [[2 Corinthians 8#^2cor-8-9|≈ 2 Corinthians 8:9]] · [[Galatians 6#^gal-6-18|≈ Galatians 6:18]] · [[Philippians 4#^philip-4-23|≈ Philippians 4:23]] · [[1 Thessalonians 5#^1thes-5-28|≈ 1 Thessalonians 5:28]] · [[2 Thessalonians 3#^2thes-3-18|≈ 2 Thessalonians 3:18]]
+> [[Moroni 7#^moro-7-3|Moro. 7:3 (3–4)]] · [[Genesis 3#^gen-3-15|Gen. 3:15]] · [[1 Thessalonians 5#^1thes-5-28|≈ 1 Thessalonians 5:28]] · [[1 Corinthians 16#^1cor-16-23|≈ 1 Corinthians 16:23]] · [[2 Corinthians 8#^2cor-8-9|≈ 2 Corinthians 8:9]] · [[Galatians 6#^gal-6-18|≈ Galatians 6:18]] · [[Philippians 4#^philip-4-23|≈ Philippians 4:23]] · [[2 Thessalonians 3#^2thes-3-18|≈ 2 Thessalonians 3:18]]
 
 ![[Romans 16#^rom-16-21]]
 
@@ -68,7 +68,7 @@ cssclasses:
 ![[Romans 16#^rom-16-23]]
 
 ![[Romans 16#^rom-16-24]]
-> [[Revelation 22#^rev-22-17|Rev. 22:21 (17–21)]] · [[1 Corinthians 16#^1cor-16-23|≈ 1 Corinthians 16:23]] · [[2 Corinthians 8#^2cor-8-9|≈ 2 Corinthians 8:9]] · [[Galatians 6#^gal-6-18|≈ Galatians 6:18]] · [[Philippians 4#^philip-4-23|≈ Philippians 4:23]] · [[1 Thessalonians 5#^1thes-5-28|≈ 1 Thessalonians 5:28]] · [[2 Thessalonians 3#^2thes-3-18|≈ 2 Thessalonians 3:18]]
+> [[Revelation 22#^rev-22-17|Rev. 22:21 (17–21)]] · [[1 Thessalonians 5#^1thes-5-28|≈ 1 Thessalonians 5:28]] · [[1 Corinthians 16#^1cor-16-23|≈ 1 Corinthians 16:23]] · [[2 Corinthians 8#^2cor-8-9|≈ 2 Corinthians 8:9]] · [[Galatians 6#^gal-6-18|≈ Galatians 6:18]] · [[Philippians 4#^philip-4-23|≈ Philippians 4:23]] · [[2 Thessalonians 3#^2thes-3-18|≈ 2 Thessalonians 3:18]]
 
 ![[Romans 16#^rom-16-25]]
 > [[1 Thessalonians 3#^1thes-3-2|1 Thes. 3:2]] · [[Ephesians 3#^eph-3-4|Eph. 3:4]] · [[Colossians 1#^col-1-25|Col. 1:26 (25–26)]] · [[D&C 6#^dc-6-7|D&amp;C 6:7 (7–11)]] · [[D&C 42#^dc-42-61|42:65 (61–65)]] · [[D&C 121#^dc-121-25|121:27 (25–27)]]

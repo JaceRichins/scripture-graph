@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 19
 slug: deut-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,18 +49,18 @@ _Not yet developed._
 - [[1 Chronicles 4]] — 1 footnote cross-reference (from [[Deuteronomy 19#^deut-19-8|Deuteronomy 19:8]])
 - [[2 Nephi 9]] — 1 footnote cross-reference (from [[Deuteronomy 19#^deut-19-11|Deuteronomy 19:11]])
 - [[Mosiah 13]] — 1 footnote cross-reference (from [[Deuteronomy 19#^deut-19-11|Deuteronomy 19:11]])
+- [[Deuteronomy 25]] — 8 parallel verses, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 25#^deut-25-19|Deuteronomy 25:19]]
+- [[Deuteronomy 21]] — 6 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Deuteronomy 21#^deut-21-1|Deuteronomy 21:1]]
 - [[Deuteronomy 15]] — 6 parallel verses, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]
+- [[Deuteronomy 27]] — 7 parallel verses, e.g. [[Deuteronomy 19#^deut-19-9|Deuteronomy 19:9]] ↔ [[Deuteronomy 27#^deut-27-10|Deuteronomy 27:10]]
 - [[Deuteronomy 26]] — 5 parallel verses, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]
+- [[Deuteronomy 4]] — 5 parallel verses, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]]
+- [[Deuteronomy 17]] — 6 parallel verses, e.g. [[Deuteronomy 19#^deut-19-1|Deuteronomy 19:1]] ↔ [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]]
+- [[Deuteronomy 5]] — 5 parallel verses, e.g. [[Deuteronomy 19#^deut-19-1|Deuteronomy 19:1]] ↔ [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]]
 - [[Deuteronomy 28]] — 5 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]]
 - [[Deuteronomy 12]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-1|Deuteronomy 19:1]] ↔ [[Deuteronomy 12#^deut-12-29|Deuteronomy 12:29]]
 - [[Deuteronomy 13]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-19|Deuteronomy 19:19]] ↔ [[Deuteronomy 13#^deut-13-5|Deuteronomy 13:5]]
 - [[Exodus 20]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Exodus 20#^ex-20-12|Exodus 20:12]]
-- [[Mosiah 13]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]]
-- [[Deuteronomy 16]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]]
-- [[Deuteronomy 18]] — 3 parallel verses, e.g. [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]] ↔ [[Deuteronomy 18#^deut-18-9|Deuteronomy 18:9]]
-- [[Deuteronomy 30]] — 1 parallel verse, e.g. [[Deuteronomy 19#^deut-19-9|Deuteronomy 19:9]] ↔ [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]]
-- [[Deuteronomy 24]] — 1 parallel verse, e.g. [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]] ↔ [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]]
-- [[Deuteronomy 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

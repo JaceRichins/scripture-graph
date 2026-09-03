@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 18
 slug: 2chr-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[2 Kings 3]] — 5 parallel verses, e.g. [[2 Chronicles 18#^2chr-18-6|2 Chronicles 18:6]] ↔ [[2 Kings 3#^2kgs-3-11|2 Kings 3:11]]
 - [[2 Kings 6]] — 2 parallel verses, e.g. [[2 Chronicles 18#^2chr-18-7|2 Chronicles 18:7]] ↔ [[2 Kings 6#^2kgs-6-21|2 Kings 6:21]]
 - [[1 Kings 20]] — 2 parallel verses, e.g. [[2 Chronicles 18#^2chr-18-7|2 Chronicles 18:7]] ↔ [[1 Kings 20#^1kgs-20-40|1 Kings 20:40]]
+- [[2 Kings 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,7 +67,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ahab** (reference-entry) *(explicit citation)*
+- **Athaliah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

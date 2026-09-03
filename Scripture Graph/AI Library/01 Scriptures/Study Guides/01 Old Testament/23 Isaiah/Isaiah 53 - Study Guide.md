@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 53
 slug: isa-53
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Mosiah 14]] — 12 parallel verses, e.g. [[Isaiah 53#^isa-53-10|Isaiah 53:10]] ↔ [[Mosiah 14#^mosiah-14-10|Mosiah 14:10]]
 - [[John 12]] — 1 parallel verse, e.g. [[Isaiah 53#^isa-53-1|Isaiah 53:1]] ↔ [[John 12#^john-12-38|John 12:38]]
 - [[Mosiah 15]] — 1 parallel verse, e.g. [[Isaiah 53#^isa-53-10|Isaiah 53:10]] ↔ [[Mosiah 15#^mosiah-15-10|Mosiah 15:10]]
+- [[1 Peter 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -111,4 +112,5 @@ _Not yet developed._
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
 - [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
 <!-- SG:END secondary-sources -->

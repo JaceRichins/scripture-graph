@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 24
 slug: dc-24
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,15 @@ This organization reflects observable pronoun and subject changes without requir
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 10]] — 3 footnote cross-references (from [[D&C 24#^dc-24-6|D&C 24:6]])
+- [[D&C 84]] — 3 footnote cross-references (from [[D&C 24#^dc-24-6|D&C 24:6]])
+- [[Luke 12]] — 2 footnote cross-references (from [[D&C 24#^dc-24-3|D&C 24:3]])
+- [[Helaman 5]] — 2 footnote cross-references (from [[D&C 24#^dc-24-6|D&C 24:6]])
+- [[Matthew 4]] — 2 footnote cross-references (from [[D&C 24#^dc-24-13|D&C 24:13]])
+- [[Luke 10]] — 2 footnote cross-references (from [[D&C 24#^dc-24-15|D&C 24:15]])
+- [[Moses 1]] — 1 parallel verse, e.g. [[D&C 24#^dc-24-8|D&C 24:8]] ↔ [[Moses 1#^moses-1-26|Moses 1:26]]
+- [[D&C 30]] — 1 parallel verse, e.g. [[D&C 24#^dc-24-12|D&C 24:12]] ↔ [[D&C 30#^dc-30-9|D&C 30:9]]
+- [[D&C 36]] — 1 parallel verse, e.g. [[D&C 24#^dc-24-12|D&C 24:12]] ↔ [[D&C 36#^dc-36-1|D&C 36:1]]
 - [[Matthew 10]] — 0 parallel verses
 - [[Mark 6]] — 0 parallel verses
 - [[Luke 9]] — 0 parallel verses
@@ -58,10 +67,10 @@ This organization reflects observable pronoun and subject changes without requir
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Scripture Study]]
 - [[Endurance]]
 - [[Records and Sacred Writings]]
 - [[Work and Self-Reliance]]
+- [[Scripture Study]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -90,8 +99,10 @@ Verses 3, 9, and 18 connect ordinary labor, specialized calling, and church supp
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘Thou Art an Elect Lady’** (history) *(explicit citation)*
+- **09 Come Life or Come Death** (history) *(explicit citation)*
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Sources Cited** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

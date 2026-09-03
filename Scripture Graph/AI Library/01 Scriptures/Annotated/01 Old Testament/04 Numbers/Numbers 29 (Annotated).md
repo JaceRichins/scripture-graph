@@ -17,7 +17,7 @@ cssclasses:
 > Sacrifices are to be offered during the seventh month, including at the Feast of Trumpets and at the Feast of Tabernacles.
 
 ![[Numbers 29#^num-29-1]]
-> [[Leviticus 23#^lev-23-23|Lev. 23:24 (23–25)]] · [[Exodus 40#^ex-40-17|≈ Exodus 40:17]] · [[Leviticus 16#^lev-16-29|≈ Leviticus 16:29]] · [[Leviticus 23#^lev-23-7|≈ Leviticus 23:7]] · [[Leviticus 23#^lev-23-8|≈ Leviticus 23:8]] · [[Leviticus 23#^lev-23-35|≈ Leviticus 23:35]] · [[Leviticus 23#^lev-23-3|≈ Leviticus 23:3]]
+> [[Leviticus 23#^lev-23-23|Lev. 23:24 (23–25)]] · [[Numbers 28#^num-28-25|≈ Numbers 28:25]] · [[Numbers 28#^num-28-26|≈ Numbers 28:26]] · [[Numbers 28#^num-28-18|≈ Numbers 28:18]] · [[Exodus 40#^ex-40-17|≈ Exodus 40:17]] · [[Leviticus 16#^lev-16-29|≈ Leviticus 16:29]] · [[Leviticus 23#^lev-23-7|≈ Leviticus 23:7]]
 
 ![[Numbers 29#^num-29-2]]
 > [[Numbers 28#^num-28-27|≈ Numbers 28:27]] · [[Numbers 28#^num-28-11|≈ Numbers 28:11]] · [[Numbers 28#^num-28-19|≈ Numbers 28:19]] · [[Numbers 15#^num-15-24|≈ Numbers 15:24]] · [[Numbers 15#^num-15-7|≈ Numbers 15:7]]
@@ -37,7 +37,7 @@ cssclasses:
 > [[Leviticus 23#^lev-23-27|≈ Leviticus 23:27]]
 
 ![[Numbers 29#^num-29-8]]
-> [[Leviticus 23#^lev-23-13|≈ Leviticus 23:13]] · [[Numbers 28#^num-28-19|≈ Numbers 28:19]] · [[Numbers 28#^num-28-11|≈ Numbers 28:11]] · [[Numbers 28#^num-28-31|≈ Numbers 28:31]]
+> [[Numbers 28#^num-28-19|≈ Numbers 28:19]] · [[Numbers 28#^num-28-11|≈ Numbers 28:11]] · [[Numbers 28#^num-28-31|≈ Numbers 28:31]] · [[Leviticus 23#^lev-23-13|≈ Leviticus 23:13]]
 
 ![[Numbers 29#^num-29-9]]
 > [[Numbers 28#^num-28-20|≈ Numbers 28:20]] · [[Numbers 28#^num-28-28|≈ Numbers 28:28]]
@@ -48,7 +48,7 @@ cssclasses:
 > [[Numbers 7#^num-7-16|≈ Numbers 7:16]] · [[Numbers 7#^num-7-22|≈ Numbers 7:22]] · [[Numbers 7#^num-7-28|≈ Numbers 7:28]] · [[Numbers 7#^num-7-34|≈ Numbers 7:34]] · [[Numbers 7#^num-7-40|≈ Numbers 7:40]] · [[Numbers 7#^num-7-46|≈ Numbers 7:46]]
 
 ![[Numbers 29#^num-29-12]]
-> [[Leviticus 23#^lev-23-33|Lev. 23:34, 41 (33–43)]] · [[Leviticus 23#^lev-23-39|≈ Leviticus 23:39]] · [[Leviticus 23#^lev-23-7|≈ Leviticus 23:7]] · [[Leviticus 23#^lev-23-8|≈ Leviticus 23:8]] · [[Leviticus 23#^lev-23-35|≈ Leviticus 23:35]] · [[Leviticus 23#^lev-23-6|≈ Leviticus 23:6]] · [[Leviticus 23#^lev-23-41|≈ Leviticus 23:41]]
+> [[Leviticus 23#^lev-23-33|Lev. 23:34, 41 (33–43)]] · [[Numbers 28#^num-28-25|≈ Numbers 28:25]] · [[Numbers 28#^num-28-26|≈ Numbers 28:26]] · [[Numbers 28#^num-28-18|≈ Numbers 28:18]] · [[Leviticus 23#^lev-23-39|≈ Leviticus 23:39]] · [[Leviticus 23#^lev-23-7|≈ Leviticus 23:7]] · [[Leviticus 23#^lev-23-8|≈ Leviticus 23:8]]
 
 ![[Numbers 29#^num-29-13]]
 > [[Numbers 28#^num-28-8|≈ Numbers 28:8]] · [[Numbers 28#^num-28-24|≈ Numbers 28:24]] · [[Numbers 28#^num-28-19|≈ Numbers 28:19]] · [[Numbers 28#^num-28-11|≈ Numbers 28:11]] · [[Numbers 28#^num-28-27|≈ Numbers 28:27]] · [[Numbers 15#^num-15-10|≈ Numbers 15:10]]

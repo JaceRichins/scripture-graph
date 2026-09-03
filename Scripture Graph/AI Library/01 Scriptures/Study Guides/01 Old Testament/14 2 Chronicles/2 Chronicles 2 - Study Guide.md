@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 2
 slug: 2chr-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[2 Chronicles 8]] — 1 parallel verse, e.g. [[2 Chronicles 2#^2chr-2-4|2 Chronicles 2:4]] ↔ [[2 Chronicles 8#^2chr-8-13|2 Chronicles 8:13]]
 - [[2 Chronicles 6]] — 1 parallel verse, e.g. [[2 Chronicles 2#^2chr-2-1|2 Chronicles 2:1]] ↔ [[2 Chronicles 6#^2chr-6-7|2 Chronicles 6:7]]
 - [[1 Chronicles 22]] — 1 parallel verse, e.g. [[2 Chronicles 2#^2chr-2-17|2 Chronicles 2:17]] ↔ [[1 Chronicles 22#^1chr-22-2|1 Chronicles 22:2]]
+- [[1 Kings 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

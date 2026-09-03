@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 1
 slug: acts-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Daniel 2]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-7|Acts 1:7]])
 - [[D&C 68]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-7|Acts 1:7]])
 - [[Acts 11]] — 1 parallel verse, e.g. [[Acts 1#^acts-1-5|Acts 1:5]] ↔ [[Acts 11#^acts-11-16|Acts 11:16]]
+- [[3 Nephi 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,6 +77,7 @@ _Not yet developed._
 - [[The Gospel to All the World (Elder John B. Dickson, April 2013)|The Gospel to All the World]] — Elder John B. Dickson, 2013-April *(explicit citation)*
 - [[We Talk of Christ (Elder Neil L. Andersen, October 2020)|We Talk of Christ]] — Elder Neil L. Andersen, 2020-October *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
+- [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -83,7 +85,10 @@ _Not yet developed._
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Witness** (reference-entry) *(explicit citation)*
 - **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
+- **21 The Spirit of God** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Acts of the Apostles** (reference-entry) *(explicit citation)*
+- **Apostle** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*

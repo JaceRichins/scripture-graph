@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 14
 slug: 1cor-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Gifts of the Spirit** (reference-entry) *(explicit citation)*
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
+- **Amen** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

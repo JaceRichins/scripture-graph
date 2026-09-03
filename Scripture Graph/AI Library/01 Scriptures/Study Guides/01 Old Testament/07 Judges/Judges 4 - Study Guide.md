@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 4
 slug: judg-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,20 +52,21 @@ The prophecy in v.9 and its fulfillment in vv.21-22 loosely frame the intervenin
 - [[2 Nephi 7]] — 1 footnote cross-reference (from [[Judges 4#^judg-4-2|Judges 4:2]])
 - [[Joshua 17]] — 1 footnote cross-reference (from [[Judges 4#^judg-4-3|Judges 4:3]])
 - [[Judges 1]] — 1 footnote cross-reference (from [[Judges 4#^judg-4-3|Judges 4:3]])
+- [[Judges 9]] — 3 parallel verses, e.g. [[Judges 4#^judg-4-13|Judges 4:13]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
+- [[Judges 6]] — 2 parallel verses, e.g. [[Judges 4#^judg-4-3|Judges 4:3]] ↔ [[Judges 6#^judg-6-6|Judges 6:6]]
 - [[Judges 3]] — 2 parallel verses, e.g. [[Judges 4#^judg-4-3|Judges 4:3]] ↔ [[Judges 3#^judg-3-9|Judges 3:9]]
 - [[1 Kings 17]] — 2 parallel verses, e.g. [[Judges 4#^judg-4-19|Judges 4:19]] ↔ [[1 Kings 17#^1kgs-17-10|1 Kings 17:10]]
 - [[Genesis 24]] — 1 parallel verse, e.g. [[Judges 4#^judg-4-19|Judges 4:19]] ↔ [[Genesis 24#^gen-24-43|Genesis 24:43]]
-- [[Judges 9]] — 0 parallel verses
-- [[Judges 6]] — 0 parallel verses
 - [[Judges 5]] — 0 parallel verses
 - [[Judges 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[War and Peace]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

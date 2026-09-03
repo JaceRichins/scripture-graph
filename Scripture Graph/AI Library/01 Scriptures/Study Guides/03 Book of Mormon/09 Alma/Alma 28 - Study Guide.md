@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 28
 slug: alma-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

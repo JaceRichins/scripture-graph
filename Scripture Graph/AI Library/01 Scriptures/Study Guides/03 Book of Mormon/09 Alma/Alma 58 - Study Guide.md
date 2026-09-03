@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 58
 slug: alma-58
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ _Not yet developed._
 - [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 - [[Call, Don’t Fall (Elder Taylor G. Godoy, April 2024)|Call, Don’t Fall]] — Elder Taylor G. Godoy, 2024-April *(explicit citation)*
 - [[The Windows of Heaven (Elder David A. Bednar, October 2013)|The Windows of Heaven]] — Elder David A. Bednar, 2013-October *(explicit citation)*
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

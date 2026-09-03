@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 25
 slug: 2kgs-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,26 +56,26 @@ Scripture: [[2 Kings 25]] · My notes: [[2 Kings 25 - My Notes]]
 - [[2 Kings 23]] — 2 footnote cross-references (from [[2 Kings 25#^2kgs-25-6|2 Kings 25:6]])
 - [[Jeremiah 43]] — 2 footnote cross-references (from [[2 Kings 25#^2kgs-25-8|2 Kings 25:8]])
 - [[Jeremiah 40]] — 2 footnote cross-references (from [[2 Kings 25#^2kgs-25-12|2 Kings 25:12]])
+- [[Jeremiah 52]] — 30 parallel verses, e.g. [[2 Kings 25#^2kgs-25-27|2 Kings 25:27]] ↔ [[Jeremiah 52#^jer-52-31|Jeremiah 52:31]]
+- [[Jeremiah 40]] — 10 parallel verses, e.g. [[2 Kings 25#^2kgs-25-23|2 Kings 25:23]] ↔ [[Jeremiah 40#^jer-40-8|Jeremiah 40:8]]
+- [[Jeremiah 39]] — 7 parallel verses, e.g. [[2 Kings 25#^2kgs-25-12|2 Kings 25:12]] ↔ [[Jeremiah 39#^jer-39-10|Jeremiah 39:10]]
+- [[Jeremiah 41]] — 4 parallel verses, e.g. [[2 Kings 25#^2kgs-25-25|2 Kings 25:25]] ↔ [[Jeremiah 41#^jer-41-1|Jeremiah 41:1]]
+- [[Jeremiah 43]] — 2 parallel verses, e.g. [[2 Kings 25#^2kgs-25-22|2 Kings 25:22]] ↔ [[Jeremiah 43#^jer-43-6|Jeremiah 43:6]]
+- [[1 Kings 9]] — 2 parallel verses, e.g. [[2 Kings 25#^2kgs-25-9|2 Kings 25:9]] ↔ [[1 Kings 9#^1kgs-9-1|1 Kings 9:1]]
 - [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Kings 25#^2kgs-25-26|2 Kings 25:26]] ↔ [[2 Kings 23#^2kgs-23-2|2 Kings 23:2]]
+- [[Ezekiel 24]] — 1 parallel verse, e.g. [[2 Kings 25#^2kgs-25-1|2 Kings 25:1]] ↔ [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]]
 - [[Genesis 8]] — 1 parallel verse, e.g. [[2 Kings 25#^2kgs-25-27|2 Kings 25:27]] ↔ [[Genesis 8#^gen-8-14|Genesis 8:14]]
 - [[2 Chronicles 7]] — 1 parallel verse, e.g. [[2 Kings 25#^2kgs-25-9|2 Kings 25:9]] ↔ [[2 Chronicles 7#^2chr-7-11|2 Chronicles 7:11]]
 - [[Jeremiah 52]] — 0 parallel verses
-- [[Jeremiah 39]] — 0 parallel verses
-- [[Jeremiah 40]] — 0 parallel verses
-- [[Jeremiah 41]] — 0 parallel verses
-- [[Jeremiah 52]] — 0 parallel verses
 - [[Ezekiel 17]] — 0 parallel verses
-- [[Jeremiah 39]] — 0 parallel verses
-- [[Lamentations 2]] — 0 parallel verses
-- [[Ezekiel 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[War and Peace]]
 - [[Scattering of Israel]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -95,6 +95,7 @@ The distinction between deportees and those left to cultivate the land is also i
 ## Church History
 <!-- SG:BEGIN history -->
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
+- **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

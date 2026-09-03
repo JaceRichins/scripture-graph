@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 62
 slug: dc-62
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 62]] · My notes: [[D&C 62 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, Testimonies are recorded in heaven; 4–9, The elders are to travel and preach according to judgment and as directed by the Spirit.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 61]] — 3 footnote cross-references (from [[D&C 62#^dc-62-5|D&C 62:5]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[D&C 62#^dc-62-1|D&C 62:1]])
+- [[Hebrews 2]] — 1 footnote cross-reference (from [[D&C 62#^dc-62-1|D&C 62:1]])
+- [[Alma 7]] — 1 footnote cross-reference (from [[D&C 62#^dc-62-1|D&C 62:1]])
+- [[Luke 4]] — 1 footnote cross-reference (from [[D&C 62#^dc-62-1|D&C 62:1]])
+- [[Luke 12]] — 1 footnote cross-reference (from [[D&C 62#^dc-62-3|D&C 62:3]])
 - [[D&C 57]] — 1 parallel verse, e.g. [[D&C 62#^dc-62-1|D&C 62:1]] ↔ [[D&C 57#^dc-57-1|D&C 57:1]]
 - [[D&C 67]] — 1 parallel verse, e.g. [[D&C 62#^dc-62-1|D&C 62:1]] ↔ [[D&C 67#^dc-67-1|D&C 67:1]]
 - [[D&C 60]] — 1 parallel verse, e.g. [[D&C 62#^dc-62-5|D&C 62:5]] ↔ [[D&C 60#^dc-60-5|D&C 60:5]]
@@ -60,6 +67,7 @@ _Not yet developed._
 - [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
 - [[And They Sought to See Jesus Who He Was (Elder James W. McConkie III, October 2022)|And They Sought to See Jesus Who He Was]] — Elder James W. McConkie III, 2022-October *(explicit citation)*
 - [[Following Up (Elder M. Russell Ballard, April 2014)|Following Up]] — Elder M. Russell Ballard, 2014-April *(explicit citation)*
+- [[Help Them Aim High (President Henry B. Eyring, October 2012)|Help Them Aim High]] — President Henry B. Eyring, 2012-October *(explicit citation)*
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
 <!-- SG:END conference -->

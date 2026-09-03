@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 6
 slug: amos-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

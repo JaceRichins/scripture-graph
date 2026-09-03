@@ -6,7 +6,7 @@ volume: Old Testament
 book: Lamentations
 chapter: 2
 slug: lam-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,8 +51,8 @@ _Not yet developed._
 - [[Psalm 74]] — 2 footnote cross-references (from [[Lamentations 2#^lam-2-3|Lamentations 2:3]])
 - [[Ezekiel 5]] — 2 footnote cross-references (from [[Lamentations 2#^lam-2-15|Lamentations 2:15]])
 - [[Zephaniah 2]] — 2 parallel verses, e.g. [[Lamentations 2#^lam-2-22|Lamentations 2:22]] ↔ [[Zephaniah 2#^zeph-2-3|Zephaniah 2:3]]
+- [[Zephaniah 1]] — 2 parallel verses, e.g. [[Lamentations 2#^lam-2-22|Lamentations 2:22]] ↔ [[Zephaniah 1#^zeph-1-8|Zephaniah 1:8]]
 - [[Lamentations 3]] — 1 parallel verse, e.g. [[Lamentations 2#^lam-2-11|Lamentations 2:11]] ↔ [[Lamentations 3#^lam-3-48|Lamentations 3:48]]
-- [[Zephaniah 1]] — 0 parallel verses
 - [[Psalm 48]] — 0 parallel verses
 - [[Psalm 50]] — 0 parallel verses
 - [[Deuteronomy 28]] — 0 parallel verses

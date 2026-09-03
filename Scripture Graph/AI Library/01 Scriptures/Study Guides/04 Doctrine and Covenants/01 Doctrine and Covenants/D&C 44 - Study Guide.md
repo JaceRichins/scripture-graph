@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 44
 slug: dc-44
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 44]] · My notes: [[D&C 44 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, Elders are to assemble in conference; 4–6, They are to organize according to the laws of the land and to care for the poor.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Acts 2]] — 1 footnote cross-reference (from [[D&C 44#^dc-44-2|D&C 44:2]])
+- [[1 Peter 2]] — 1 footnote cross-reference (from [[D&C 44#^dc-44-4|D&C 44:4]])
+- [[D&C 51]] — 1 footnote cross-reference (from [[D&C 44#^dc-44-4|D&C 44:4]])
+- [[D&C 98]] — 1 footnote cross-reference (from [[D&C 44#^dc-44-4|D&C 44:4]])
+- [[D&C 109]] — 1 footnote cross-reference (from [[D&C 44#^dc-44-4|D&C 44:4]])
+- [[Leviticus 26]] — 1 footnote cross-reference (from [[D&C 44#^dc-44-5|D&C 44:5]])
 - [[Luke 13]] — 1 parallel verse, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[Luke 13#^luke-13-29|Luke 13:29]]
 - [[D&C 38]] — 1 parallel verse, e.g. [[D&C 44#^dc-44-6|D&C 44:6]] ↔ [[D&C 38#^dc-38-35|D&C 38:35]]
 - [[3 Nephi 20]] — 1 parallel verse, e.g. [[D&C 44#^dc-44-1|D&C 44:1]] ↔ [[3 Nephi 20#^3ne-20-13|3 Nephi 20:13]]
@@ -57,12 +64,14 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Exercising Our Spiritual Muscles (Elder Juan Pablo Villar, April 2019)|Exercising Our Spiritual Muscles]] — Elder Juan Pablo Villar, 2019-April *(explicit citation)*
+- [[The Essence of Discipleship (Silvia H. Allred, April 2011)|The Essence of Discipleship]] — Silvia H. Allred, 2011-April *(explicit citation)*
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 - [[What Manner of Men (Elder Donald L. Hallstrom, April 2014)|What Manner of Men?]] — Elder Donald L. Hallstrom, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **12 After Much Tribulation** (history) *(explicit citation)*
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **Welfare** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

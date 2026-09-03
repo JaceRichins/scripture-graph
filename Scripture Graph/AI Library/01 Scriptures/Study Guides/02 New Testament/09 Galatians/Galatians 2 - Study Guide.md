@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 2
 slug: gal-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -71,7 +71,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Almsgiving** (reference-entry) *(explicit citation)*
+- **Antioch** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

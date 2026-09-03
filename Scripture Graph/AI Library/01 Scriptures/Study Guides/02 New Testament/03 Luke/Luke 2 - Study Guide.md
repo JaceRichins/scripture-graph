@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 2
 slug: luke-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[2 Chronicles 31]] — 1 parallel verse, e.g. [[Luke 2#^luke-2-23|Luke 2:23]] ↔ [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]]
 - [[Mark 8]] — 1 parallel verse, e.g. [[Luke 2#^luke-2-49|Luke 2:49]] ↔ [[Mark 8#^mark-8-21|Mark 8:21]]
 - [[Luke 1]] — 1 parallel verse, e.g. [[Luke 2#^luke-2-40|Luke 2:40]] ↔ [[Luke 1#^luke-1-80|Luke 1:80]]
+- [[1 Samuel 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -90,6 +91,9 @@ _Not yet developed._
 - **Bible** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Signs** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
+- **Asher** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

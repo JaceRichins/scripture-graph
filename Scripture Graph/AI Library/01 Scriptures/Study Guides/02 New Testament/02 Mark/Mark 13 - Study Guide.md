@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 13
 slug: mark-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[D&C 45]] — 2 parallel verses, e.g. [[Mark 13#^mark-13-2|Mark 13:2]] ↔ [[D&C 45#^dc-45-20|D&C 45:20]]
 - [[D&C 29]] — 1 parallel verse, e.g. [[Mark 13#^mark-13-24|Mark 13:24]] ↔ [[D&C 29#^dc-29-14|D&C 29:14]]
 - [[D&C 112]] — 1 parallel verse, e.g. [[Mark 13#^mark-13-37|Mark 13:37]] ↔ [[D&C 112#^dc-112-14|D&C 112:14]]
+- [[Daniel 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,6 +74,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Signs** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

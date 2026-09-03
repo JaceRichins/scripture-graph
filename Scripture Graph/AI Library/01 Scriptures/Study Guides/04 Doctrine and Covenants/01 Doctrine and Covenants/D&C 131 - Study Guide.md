@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 131
 slug: dc-131
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -43,13 +43,19 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 76]] — 2 footnote cross-references (from [[D&C 131#^dc-131-1|D&C 131:1]])
+- [[D&C 132]] — 2 footnote cross-references (from [[D&C 131#^dc-131-2|D&C 131:2]])
+- [[Matthew 22]] — 1 footnote cross-reference (from [[D&C 131#^dc-131-4|D&C 131:4]])
+- [[2 Peter 1]] — 1 footnote cross-reference (from [[D&C 131#^dc-131-5|D&C 131:5]])
+- [[D&C 68]] — 1 footnote cross-reference (from [[D&C 131#^dc-131-5|D&C 131:5]])
+- [[D&C 88]] — 1 footnote cross-reference (from [[D&C 131#^dc-131-5|D&C 131:5]])
 - [[D&C 132]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Kingdoms of Glory]]
 - [[Eternal Marriage]]
+- [[Kingdoms of Glory]]
 - [[Prophecy]]
 - [[Covenants]]
 <!-- SG:END topics -->
@@ -86,9 +92,9 @@ _Not yet developed._
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Spirit (or Soul)** (reference-entry) *(explicit citation)*
+- **40 United in an Everlasting Covenant** (history) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

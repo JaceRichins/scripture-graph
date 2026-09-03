@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 7
 slug: 1sam-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ Scripture: [[1 Samuel 7]] · My notes: [[1 Samuel 7 - My Notes]]
 - [[Helaman 13]] — 1 footnote cross-reference (from [[1 Samuel 7#^1sam-7-3|1 Samuel 7:3]])
 - [[3 Nephi 10]] — 1 footnote cross-reference (from [[1 Samuel 7#^1sam-7-3|1 Samuel 7:3]])
 - [[3 Nephi 24]] — 1 footnote cross-reference (from [[1 Samuel 7#^1sam-7-3|1 Samuel 7:3]])
+- [[Judges 20]] — 2 parallel verses, e.g. [[1 Samuel 7#^1sam-7-7|1 Samuel 7:7]] ↔ [[Judges 20#^judg-20-3|Judges 20:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

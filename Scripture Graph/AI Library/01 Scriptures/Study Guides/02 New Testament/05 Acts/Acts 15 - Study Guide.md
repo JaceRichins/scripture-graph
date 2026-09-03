@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 15
 slug: acts-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -70,12 +70,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Grace** (reference-entry) *(explicit citation)*
+- **Antioch** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

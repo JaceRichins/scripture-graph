@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 4
 slug: 1ne-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,18 +59,20 @@ Scripture: [[1 Nephi 4]] · My notes: [[1 Nephi 4 - My Notes]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[1 Nephi 4#^1ne-4-14|1 Nephi 4:14]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
 - [[1 Nephi 17]] — 2 parallel verses, e.g. [[1 Nephi 4#^1ne-4-4|1 Nephi 4:4]] ↔ [[1 Nephi 17#^1ne-17-48|1 Nephi 17:48]]
 - [[Mosiah 10]] — 2 parallel verses, e.g. [[1 Nephi 4#^1ne-4-1|1 Nephi 4:1]] ↔ [[Mosiah 10#^mosiah-10-13|Mosiah 10:13]]
+- [[Joshua 24]] — 1 parallel verse, e.g. [[1 Nephi 4#^1ne-4-14|1 Nephi 4:14]] ↔ [[Joshua 24#^josh-24-27|Joshua 24:27]]
 - [[1 Nephi 3]] — 0 parallel verses
 - [[1 Nephi 17]] — 0 parallel verses
 - [[Exodus 14]] — 0 parallel verses
+- [[2 Nephi 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Exodus and Deliverance]]
-- [[Records and Sacred Writings]]
 - [[Covenants]]
 - [[Law of Moses]]
 - [[Freedom and Liberty]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

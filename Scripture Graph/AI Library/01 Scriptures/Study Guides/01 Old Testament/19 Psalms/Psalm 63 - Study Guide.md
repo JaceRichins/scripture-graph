@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 63
 slug: ps-63
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,7 +78,13 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Evidence *(tentative)*
+> The Hebrew term underlying 'soul' in Psalm 63's thirst imagery concretely refers to the throat, the organ of thirst.
+> — confidence medium · secondary-claim
+
+> [!evidence] Evidence *(tentative)*
+> Psalm 63 was the fixed morning Psalm used in every Sunday service across the early Christian church for centuries.
+> — confidence medium · secondary-claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

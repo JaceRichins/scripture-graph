@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 12
 slug: dan-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,8 @@ _Not yet developed._
 - [[Matthew 24]] — 0 parallel verses
 - [[John 5]] — 0 parallel verses
 - [[Matthew 13]] — 0 parallel verses
+- [[Daniel 11]] — 0 parallel verses
+- [[Daniel 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,7 +87,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
+- **Times and Seasons 1843-06-15 (Vol. 4 No. 15)** (periodical, 1843-06-15) *(explicit citation)*
+- **Abomination of desolation** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

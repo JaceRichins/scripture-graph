@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 7
 slug: amos-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Amos 1]] — 1 footnote cross-reference (from [[Amos 7#^amos-7-10|Amos 7:10]])
 - [[Joseph Smith—History 1]] — 1 footnote cross-reference (from [[Amos 7#^amos-7-14|Amos 7:14]])
 - [[Amos 8]] — 3 parallel verses, e.g. [[Amos 7#^amos-7-8|Amos 7:8]] ↔ [[Amos 8#^amos-8-2|Amos 8:2]]
+- [[Amos 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,7 +66,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1845-06-01 (Vol. 6 No. 10)** (periodical, 1845-06-01) *(explicit citation)*
+- **Amos** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

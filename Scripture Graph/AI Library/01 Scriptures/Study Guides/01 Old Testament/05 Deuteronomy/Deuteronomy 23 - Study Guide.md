@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 23
 slug: deut-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[D&C 90]] — 1 footnote cross-reference (from [[Deuteronomy 23#^deut-23-5|Deuteronomy 23:5]])
 - [[Deuteronomy 28]] — 4 parallel verses, e.g. [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]] ↔ [[Deuteronomy 28#^deut-28-21|Deuteronomy 28:21]]
 - [[Deuteronomy 14]] — 2 parallel verses, e.g. [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]] ↔ [[Deuteronomy 14#^deut-14-29|Deuteronomy 14:29]]
+- [[Deuteronomy 24]] — 1 parallel verse, e.g. [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]] ↔ [[Deuteronomy 24#^deut-24-19|Deuteronomy 24:19]]
 - [[Deuteronomy 30]] — 1 parallel verse, e.g. [[Deuteronomy 23#^deut-23-20|Deuteronomy 23:20]] ↔ [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]]
 - [[Ecclesiastes 5]] — 0 parallel verses
 - [[Numbers 24]] — 0 parallel verses

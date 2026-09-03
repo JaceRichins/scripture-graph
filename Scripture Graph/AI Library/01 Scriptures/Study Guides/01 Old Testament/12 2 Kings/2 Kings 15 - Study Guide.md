@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 15
 slug: 2kgs-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,11 +69,11 @@ Regnal synchronisms bind these sections together, although Jotham's twentieth ye
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[Scattering of Israel]]
 - [[War and Peace]]
 - [[Records and Sacred Writings]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -89,7 +89,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

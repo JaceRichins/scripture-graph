@@ -102,4 +102,4 @@ cssclasses:
 > [[1 Kings 11#^1kgs-11-42|≈ 1 Kings 11:42]]
 
 ![[2 Chronicles 9#^2chr-9-31]]
-> [[2 Kings 15#^2kgs-15-38|≈ 2 Kings 15:38]] · [[1 Kings 11#^1kgs-11-43|≈ 1 Kings 11:43]] · [[1 Kings 15#^1kgs-15-24|≈ 1 Kings 15:24]] · [[1 Kings 22#^1kgs-22-50|≈ 1 Kings 22:50]] · [[2 Chronicles 12#^2chr-12-16|≈ 2 Chronicles 12:16]]
+> [[2 Kings 15#^2kgs-15-38|≈ 2 Kings 15:38]] · [[2 Chronicles 12#^2chr-12-16|≈ 2 Chronicles 12:16]] · [[1 Kings 11#^1kgs-11-43|≈ 1 Kings 11:43]] · [[1 Kings 15#^1kgs-15-24|≈ 1 Kings 15:24]] · [[1 Kings 22#^1kgs-22-50|≈ 1 Kings 22:50]]

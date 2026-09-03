@@ -36,7 +36,7 @@ cssclasses:
 > [[4 Nephi 1#^4ne-1-14|4 Ne. 1:37 (14, 37)]] · [[Mormon 8#^morm-8-10|Morm. 8:10 (10–12)]] · [[Ether 12#^ether-12-17|Ether 12:17]] · [[Luke 9#^luke-9-27|Luke 9:27]] · [[3 Nephi 20#^3ne-20-22|3 Ne. 20:22]] · [[D&C 45#^dc-45-16|≈ D&C 45:16]] · [[D&C 45#^dc-45-56|≈ D&C 45:56]]
 
 ![[3 Nephi 28#^3ne-28-8]]
-> [[D&C 101#^dc-101-31|≈ D&C 101:31]] · [[D&C 101#^dc-101-65|≈ D&C 101:65]] · [[D&C 43#^dc-43-32|≈ D&C 43:32]] · [[D&C 63#^dc-63-51|≈ D&C 63:51]] · [[D&C 45#^dc-45-16|≈ D&C 45:16]] · [[D&C 45#^dc-45-56|≈ D&C 45:56]]
+> [[D&C 101#^dc-101-31|≈ D&C 101:31]] · [[D&C 101#^dc-101-65|≈ D&C 101:65]] · [[D&C 45#^dc-45-16|≈ D&C 45:16]] · [[D&C 45#^dc-45-56|≈ D&C 45:56]] · [[D&C 43#^dc-43-32|≈ D&C 43:32]] · [[D&C 63#^dc-63-51|≈ D&C 63:51]]
 
 ![[3 Nephi 28#^3ne-28-9]]
 > [[4 Nephi 1#^4ne-1-44|4 Ne. 1:44]] · [[Mormon 8#^morm-8-10|Morm. 8:10]] · [[Philippians 1#^philip-1-23|Philip. 1:24 (23–24)]] · [[D&C 7#^dc-7-1|D&amp;C 7:5 (1–8)]]
@@ -48,7 +48,7 @@ cssclasses:
 > [[2 Nephi 31#^2ne-31-17|2 Ne. 31:18 (17–21)]] · [[3 Nephi 11#^3ne-11-32|3 Ne. 11:32]] · [[Ether 5#^ether-5-4|Ether 5:4]] · [[Moses 6#^moses-6-66|Moses 6:66]] · [[3 Nephi 11#^3ne-11-32|≈ 3 Nephi 11:32]]
 
 ![[3 Nephi 28#^3ne-28-12]]
-> [[4 Nephi 1#^4ne-1-14|4 Ne. 1:14 (14, 37)]] · [[Mormon 1#^morm-1-13|Morm. 1:13]] · [[3 Nephi 11#^3ne-11-12|≈ 3 Nephi 11:12]] · [[3 Nephi 12#^3ne-12-1|≈ 3 Nephi 12:1]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]] · [[3 Nephi 14#^3ne-14-1|≈ 3 Nephi 14:1]] · [[3 Nephi 15#^3ne-15-11|≈ 3 Nephi 15:11]] · [[3 Nephi 17#^3ne-17-1|≈ 3 Nephi 17:1]]
+> [[4 Nephi 1#^4ne-1-14|4 Ne. 1:14 (14, 37)]] · [[Mormon 1#^morm-1-13|Morm. 1:13]] · [[3 Nephi 17#^3ne-17-1|≈ 3 Nephi 17:1]] · [[3 Nephi 11#^3ne-11-12|≈ 3 Nephi 11:12]] · [[3 Nephi 12#^3ne-12-1|≈ 3 Nephi 12:1]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]] · [[3 Nephi 14#^3ne-14-1|≈ 3 Nephi 14:1]] · [[3 Nephi 15#^3ne-15-11|≈ 3 Nephi 15:11]]
 
 ![[3 Nephi 28#^3ne-28-13]]
 > [[2 Corinthians 12#^2cor-12-2|2 Cor. 12:4 (2–4)]]

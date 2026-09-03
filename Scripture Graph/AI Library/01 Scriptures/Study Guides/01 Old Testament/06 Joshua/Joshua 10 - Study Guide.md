@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 10
 slug: josh-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Numbers 21]] — 6 parallel verses, e.g. [[Joshua 10#^josh-10-28|Joshua 10:28]] ↔ [[Numbers 21#^num-21-24|Numbers 21:24]]
 - [[Genesis 34]] — 6 parallel verses, e.g. [[Joshua 10#^josh-10-28|Joshua 10:28]] ↔ [[Genesis 34#^gen-34-26|Genesis 34:26]]
 - [[1 Kings 18]] — 1 parallel verse, e.g. [[Joshua 10#^josh-10-27|Joshua 10:27]] ↔ [[1 Kings 18#^1kgs-18-36|1 Kings 18:36]]
+- [[Joshua 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

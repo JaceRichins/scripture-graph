@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 6
 slug: gal-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,8 +48,8 @@ _Not yet developed._
 - [[Philemon 1]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
 - [[Philippians 4]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
-- [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
 - [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
+- [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
 - [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
 <!-- SG:END related-scriptures -->
 
@@ -74,6 +74,7 @@ _Not yet developed._
 - [[Days Never to Be Forgotten (Elder Gary E. Stevenson, October 2024)|Days Never to Be Forgotten]] — Elder Gary E. Stevenson, 2024-October *(explicit citation)*
 - [[Participate to Prepare for Christ’s Return (Elder Steven D. Shumway, April 2025)|Participate to Prepare for Christ’s Return]] — Elder Steven D. Shumway, 2025-April *(explicit citation)*
 - [[Stay in the Boat and Hold On! (Elder M. Russell Ballard, October 2014)|Stay in the Boat and Hold On!]] — Elder M. Russell Ballard, 2014-October *(explicit citation)*
+- [[The Merciful Obtain Mercy (President Dieter F. Uchtdorf, April 2012)|The Merciful Obtain Mercy]] — President Dieter F. Uchtdorf, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

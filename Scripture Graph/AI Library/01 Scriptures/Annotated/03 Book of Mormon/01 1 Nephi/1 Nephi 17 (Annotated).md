@@ -34,7 +34,7 @@ cssclasses:
 > [[2 Nephi 4#^2ne-4-20|2 Ne. 4:20]]
 
 ![[1 Nephi 17#^1ne-17-7]]
-> [[Ezekiel 3#^ezek-3-22|Ezek. 3:22 (22–27)]] · [[2 Nephi 1#^2ne-1-1|≈ 2 Nephi 1:1]] · [[1 Nephi 22#^1ne-22-1|≈ 1 Nephi 22:1]] · [[1 Nephi 15#^1ne-15-1|≈ 1 Nephi 15:1]] · [[1 Nephi 16#^1ne-16-1|≈ 1 Nephi 16:1]]
+> [[Ezekiel 3#^ezek-3-22|Ezek. 3:22 (22–27)]] · [[2 Nephi 1#^2ne-1-1|≈ 2 Nephi 1:1]] · [[1 Nephi 22#^1ne-22-1|≈ 1 Nephi 22:1]] · [[1 Nephi 16#^1ne-16-1|≈ 1 Nephi 16:1]] · [[1 Nephi 15#^1ne-15-1|≈ 1 Nephi 15:1]]
 
 ![[1 Nephi 17#^1ne-17-8]]
 > [[Genesis 6#^gen-6-14|Gen. 6:14 (14–16)]] · [[Exodus 25#^ex-25-40|Ex. 25:40]] · [[1 Chronicles 28#^1chr-28-11|1 Chr. 28:12 (11–12, 19)]] · [[1 Nephi 18#^1ne-18-2|1 Ne. 18:2]] · [[1 Nephi 2#^1ne-2-19|≈ 1 Nephi 2:19]]
@@ -50,7 +50,7 @@ cssclasses:
 ![[1 Nephi 17#^1ne-17-12]]
 
 ![[1 Nephi 17#^1ne-17-13]]
-> [[Alma 5#^alma-5-37|Alma 5:37 (37–38)]] · [[D&C 88#^dc-88-66|D&amp;C 88:66]] · [[1 Nephi 2#^1ne-2-20|1 Ne. 2:20]] · [[1 Nephi 4#^1ne-4-14|4:14]] · [[Jacob 2#^jacob-2-12|Jacob 2:12]] · [[Exodus 6#^ex-6-7|Ex. 6:7]] · [[Exodus 13#^ex-13-21|13:21]] · [[1 Nephi 2#^1ne-2-20|≈ 1 Nephi 2:20]] · [[2 Nephi 1#^2ne-1-20|≈ 2 Nephi 1:20]] · [[2 Nephi 4#^2ne-4-4|≈ 2 Nephi 4:4]]
+> [[Alma 5#^alma-5-37|Alma 5:37 (37–38)]] · [[D&C 88#^dc-88-66|D&amp;C 88:66]] · [[1 Nephi 2#^1ne-2-20|1 Ne. 2:20]] · [[1 Nephi 4#^1ne-4-14|4:14]] · [[Jacob 2#^jacob-2-12|Jacob 2:12]] · [[Exodus 6#^ex-6-7|Ex. 6:7]] · [[Exodus 13#^ex-13-21|13:21]] · [[1 Nephi 2#^1ne-2-20|≈ 1 Nephi 2:20]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[2 Nephi 1#^2ne-1-20|≈ 2 Nephi 1:20]]
 
 ![[1 Nephi 17#^1ne-17-14]]
 > [[2 Nephi 1#^2ne-1-4|2 Ne. 1:4]] · [[D&C 5#^dc-5-2|D&amp;C 5:2]]
@@ -151,7 +151,7 @@ cssclasses:
 > [[Micah 3#^micah-3-8|Micah 3:8]] · [[Daniel 10#^dan-10-8|Dan. 10:8 (8, 17)]] · [[1 Nephi 1#^1ne-1-7|1 Ne. 1:7]] · [[1 Nephi 19#^1ne-19-20|19:20]]
 
 ![[1 Nephi 17#^1ne-17-48]]
-> [[Mosiah 13#^mosiah-13-3|Mosiah 13:3]] · [[2 Nephi 1#^2ne-1-26|2 Ne. 1:27 (26–27)]] · [[1 Kings 13#^1kgs-13-4|1 Kgs. 13:4 (4–7)]] · [[Moses 1#^moses-1-11|Moses 1:11]] · [[Moses 6#^moses-6-47|6:47]] · [[3 Nephi 8#^3ne-8-9|≈ 3 Nephi 8:9]] · [[2 Nephi 4#^2ne-4-21|≈ 2 Nephi 4:21]] · [[Alma 9#^alma-9-32|≈ Alma 9:32]] · [[1 Nephi 4#^1ne-4-4|≈ 1 Nephi 4:4]]
+> [[Mosiah 13#^mosiah-13-3|Mosiah 13:3]] · [[2 Nephi 1#^2ne-1-26|2 Ne. 1:27 (26–27)]] · [[1 Kings 13#^1kgs-13-4|1 Kgs. 13:4 (4–7)]] · [[Moses 1#^moses-1-11|Moses 1:11]] · [[Moses 6#^moses-6-47|6:47]] · [[Alma 9#^alma-9-32|≈ Alma 9:32]] · [[3 Nephi 8#^3ne-8-9|≈ 3 Nephi 8:9]] · [[2 Nephi 4#^2ne-4-21|≈ 2 Nephi 4:21]] · [[1 Nephi 4#^1ne-4-4|≈ 1 Nephi 4:4]]
 
 ![[1 Nephi 17#^1ne-17-49]]
 > [[1 Nephi 18#^1ne-18-1|18:1 (1–6)]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 2
 slug: 1sam-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,9 +52,9 @@ The alternation between the sons' corruption and Samuel's growth makes the contr
 - [[Exodus 28]] — 2 footnote cross-references (from [[1 Samuel 2#^1sam-2-18|1 Samuel 2:18]])
 - [[1 Kings 2]] — 2 footnote cross-references (from [[1 Samuel 2#^1sam-2-31|1 Samuel 2:31]])
 - [[Isaiah 38]] — 2 parallel verses, e.g. [[1 Samuel 2#^1sam-2-34|1 Samuel 2:34]] ↔ [[Isaiah 38#^isa-38-7|Isaiah 38:7]]
+- [[Psalm 113]] — 1 parallel verse, e.g. [[1 Samuel 2#^1sam-2-8|1 Samuel 2:8]] ↔ [[Psalm 113#^ps-113-7|Psalm 113:7]]
 - [[1 Kings 20]] — 2 parallel verses, e.g. [[1 Samuel 2#^1sam-2-27|1 Samuel 2:27]] ↔ [[1 Kings 20#^1kgs-20-42|1 Kings 20:42]]
 - [[Zechariah 14]] — 1 parallel verse, e.g. [[1 Samuel 2#^1sam-2-36|1 Samuel 2:36]] ↔ [[Zechariah 14#^zech-14-16|Zechariah 14:16]]
-- [[Psalm 113]] — 0 parallel verses
 - [[Luke 1]] — 0 parallel verses
 - [[Luke 2]] — 0 parallel verses
 - [[1 Samuel 1]] — 0 parallel verses

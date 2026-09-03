@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 16
 slug: ex-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -92,7 +92,8 @@ Exodus 16:18 reports that those who gathered much had no excess and those who ga
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aaron** (reference-entry) *(explicit citation)*
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

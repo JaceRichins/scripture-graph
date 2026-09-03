@@ -93,7 +93,7 @@ cssclasses:
 ![[Helaman 11#^hel-11-29]]
 
 ![[Helaman 11#^hel-11-30]]
-> [[Alma 63#^alma-63-1|≈ Alma 63:1]] · [[Alma 45#^alma-45-20|≈ Alma 45:20]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]] · [[Alma 4#^alma-4-11|≈ Alma 4:11]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[3 Nephi 2#^3ne-2-17|≈ 3 Nephi 2:17]]
+> [[3 Nephi 2#^3ne-2-17|≈ 3 Nephi 2:17]] · [[Alma 63#^alma-63-1|≈ Alma 63:1]] · [[Alma 45#^alma-45-20|≈ Alma 45:20]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]] · [[Alma 4#^alma-4-11|≈ Alma 4:11]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]]
 
 ![[Helaman 11#^hel-11-31]]
 > [[3 Nephi 1#^3ne-1-27|3 Ne. 1:27]]

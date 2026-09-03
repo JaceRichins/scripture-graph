@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 4
 slug: deut-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,11 @@ The chapter does not merely describe private piety. Verses 6–8 imagine Israel'
 - [[1 Nephi 17]] — 3 footnote cross-references (from [[Deuteronomy 4#^deut-4-34|Deuteronomy 4:34]])
 - [[Hosea 8]] — 2 footnote cross-references (from [[Deuteronomy 4#^deut-4-1|Deuteronomy 4:1]])
 - [[Mosiah 4]] — 2 footnote cross-references (from [[Deuteronomy 4#^deut-4-9|Deuteronomy 4:9]])
+- [[Deuteronomy 6]] — 7 parallel verses, e.g. [[Deuteronomy 4#^deut-4-14|Deuteronomy 4:14]] ↔ [[Deuteronomy 6#^deut-6-1|Deuteronomy 6:1]]
+- [[Deuteronomy 5]] — 7 parallel verses, e.g. [[Deuteronomy 4#^deut-4-33|Deuteronomy 4:33]] ↔ [[Deuteronomy 5#^deut-5-26|Deuteronomy 5:26]]
 - [[Deuteronomy 12]] — 3 parallel verses, e.g. [[Deuteronomy 4#^deut-4-40|Deuteronomy 4:40]] ↔ [[Deuteronomy 12#^deut-12-25|Deuteronomy 12:25]]
 - [[Deuteronomy 11]] — 5 parallel verses, e.g. [[Deuteronomy 4#^deut-4-2|Deuteronomy 4:2]] ↔ [[Deuteronomy 11#^deut-11-27|Deuteronomy 11:27]]
+- [[Deuteronomy 19]] — 5 parallel verses, e.g. [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]] ↔ [[Deuteronomy 19#^deut-19-10|Deuteronomy 19:10]]
 - [[Deuteronomy 10]] — 4 parallel verses, e.g. [[Deuteronomy 4#^deut-4-29|Deuteronomy 4:29]] ↔ [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]]
 - [[Deuteronomy 15]] — 4 parallel verses, e.g. [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]
 - [[Deuteronomy 28]] — 4 parallel verses, e.g. [[Deuteronomy 4#^deut-4-40|Deuteronomy 4:40]] ↔ [[Deuteronomy 28#^deut-28-1|Deuteronomy 28:1]]
@@ -61,20 +64,17 @@ The chapter does not merely describe private piety. Verses 6–8 imagine Israel'
 - [[Deuteronomy 8]] — 3 parallel verses, e.g. [[Deuteronomy 4#^deut-4-1|Deuteronomy 4:1]] ↔ [[Deuteronomy 8#^deut-8-1|Deuteronomy 8:1]]
 - [[Deuteronomy 25]] — 3 parallel verses, e.g. [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]] ↔ [[Deuteronomy 25#^deut-25-19|Deuteronomy 25:19]]
 - [[Deuteronomy 30]] — 3 parallel verses, e.g. [[Deuteronomy 4#^deut-4-26|Deuteronomy 4:26]] ↔ [[Deuteronomy 30#^deut-30-18|Deuteronomy 30:18]]
-- [[Deuteronomy 21]] — 3 parallel verses, e.g. [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]] ↔ [[Deuteronomy 21#^deut-21-23|Deuteronomy 21:23]]
-- [[Deuteronomy 26]] — 2 parallel verses, e.g. [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]
-- [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Deuteronomy 4#^deut-4-23|Deuteronomy 4:23]] ↔ [[Deuteronomy 31#^deut-31-26|Deuteronomy 31:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
-- [[Covenants]]
 - [[Scattering of Israel]]
 - [[Government and Laws]]
 - [[Repentance and Forgiveness]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Ten Commandments]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -88,6 +88,7 @@ The text also places [[Family]] at the center of covenant continuity. Memory is 
 <!-- SG:BEGIN conference -->
 - [[How Can I Understand (Elder Ulisses Soares, April 2019)|How Can I Understand?]] — Elder Ulisses Soares, 2019-April *(explicit citation)*
 - [[Lest Thou Forget (Elder Ronald A. Rasband, October 2016)|Lest Thou Forget]] — Elder Ronald A. Rasband, 2016-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

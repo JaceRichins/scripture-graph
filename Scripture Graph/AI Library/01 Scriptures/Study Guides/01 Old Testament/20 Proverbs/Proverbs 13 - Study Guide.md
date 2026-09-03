@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 13
 slug: prov-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Job 18]] — 1 footnote cross-reference (from [[Proverbs 13#^prov-13-9|Proverbs 13:9]])
 - [[Proverbs 24]] — 1 footnote cross-reference (from [[Proverbs 13#^prov-13-9|Proverbs 13:9]])
 - [[Proverbs 14]] — 1 parallel verse, e.g. [[Proverbs 13#^prov-13-14|Proverbs 13:14]] ↔ [[Proverbs 14#^prov-14-27|Proverbs 14:27]]
+- [[Proverbs 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Latter Day Saints' Messenger and Advocate 1836-09-01 (Vol. 2 No. 12)** (periodical, 1836-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

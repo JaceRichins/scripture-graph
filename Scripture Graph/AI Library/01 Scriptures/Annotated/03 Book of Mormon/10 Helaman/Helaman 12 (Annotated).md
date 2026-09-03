@@ -82,7 +82,7 @@ cssclasses:
 ![[Helaman 12#^hel-12-24]]
 
 ![[Helaman 12#^hel-12-25]]
-> [[Malachi 4#^mal-4-5|Mal. 4:5]] · [[3 Nephi 26#^3ne-26-4|3 Ne. 26:4]] · [[1 Nephi 8#^1ne-8-36|≈ 1 Nephi 8:36]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 9#^alma-9-14|≈ Alma 9:14]] · [[Alma 42#^alma-42-9|≈ Alma 42:9]] · [[Alma 42#^alma-42-11|≈ Alma 42:11]] · [[Alma 50#^alma-50-20|≈ Alma 50:20]]
+> [[Malachi 4#^mal-4-5|Mal. 4:5]] · [[3 Nephi 26#^3ne-26-4|3 Ne. 26:4]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 9#^alma-9-14|≈ Alma 9:14]] · [[1 Nephi 8#^1ne-8-36|≈ 1 Nephi 8:36]] · [[Alma 42#^alma-42-9|≈ Alma 42:9]] · [[Alma 42#^alma-42-11|≈ Alma 42:11]] · [[Alma 50#^alma-50-20|≈ Alma 50:20]]
 
 ![[Helaman 12#^hel-12-26]]
 > [[Daniel 12#^dan-12-2|Dan. 12:2 (2–3)]] · [[D&C 19#^dc-19-7|D&amp;C 19:7]] · [[Alma 9#^alma-9-11|≈ Alma 9:11]]

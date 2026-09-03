@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 120
 slug: dc-120
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 120]] · My notes: [[D&C 120 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8, 1838, making known the disposition of the properties tithed as named in the preceding revelation, section 119.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,7 +38,7 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 117]] — 2 parallel verses, e.g. [[D&C 120#^dc-120-1|D&C 120:1]] ↔ [[D&C 117#^dc-117-13|D&C 117:13]]
+- [[D&C 119]] — 1 footnote cross-reference (from [[D&C 120#^dc-120-1|D&C 120:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

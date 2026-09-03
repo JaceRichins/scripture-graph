@@ -69,4 +69,4 @@ cssclasses:
 ![[Judges 21#^judg-21-24]]
 
 ![[Judges 21#^judg-21-25]]
-> [[Judges 17#^judg-17-6|Judg. 17:6]] · [[Judges 18#^judg-18-1|18:1]] · [[Deuteronomy 12#^deut-12-8|Deut. 12:8]] · [[Judges 17#^judg-17-6|≈ Judges 17:6]] · [[Judges 18#^judg-18-1|≈ Judges 18:1]]
+> [[Judges 17#^judg-17-6|Judg. 17:6]] · [[Judges 18#^judg-18-1|18:1]] · [[Deuteronomy 12#^deut-12-8|Deut. 12:8]] · [[Judges 18#^judg-18-1|≈ Judges 18:1]] · [[Judges 17#^judg-17-6|≈ Judges 17:6]]

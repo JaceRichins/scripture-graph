@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 138
 slug: dc-138
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -61,12 +61,18 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[1 Peter 3]] — cited in the text
 - [[1 Peter 4]] — cited in the text
+- [[D&C 76]] — 9 footnote cross-references (from [[D&C 138#^dc-138-8|D&C 138:8]])
+- [[Joseph Smith—History 1]] — 6 footnote cross-references (from [[D&C 138#^dc-138-2|D&C 138:2]])
+- [[Moses 6]] — 5 footnote cross-references (from [[D&C 138#^dc-138-20|D&C 138:20]])
+- [[Isaiah 61]] — 4 footnote cross-references (from [[D&C 138#^dc-138-8|D&C 138:8]])
+- [[Alma 40]] — 4 footnote cross-references (from [[D&C 138#^dc-138-15|D&C 138:15]])
+- [[2 Nephi 9]] — 3 footnote cross-references (from [[D&C 138#^dc-138-17|D&C 138:17]])
 - [[1 Peter 3]] — 4 parallel verses, e.g. [[D&C 138#^dc-138-7|D&C 138:7]] ↔ [[1 Peter 3#^1pet-3-18|1 Peter 3:18]]
 - [[1 Peter 4]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-10|D&C 138:10]] ↔ [[1 Peter 4#^1pet-4-6|1 Peter 4:6]]
 - [[D&C 76]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-10|D&C 138:10]] ↔ [[D&C 76#^dc-76-73|D&C 76:73]]
 - [[D&C 68]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-33|D&C 138:33]] ↔ [[D&C 68#^dc-68-25|D&C 68:25]]
-- [[D&C 128]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-46|D&C 138:46]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
 - [[D&C 110]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-48|D&C 138:48]] ↔ [[D&C 110#^dc-110-15|D&C 110:15]]
+- [[D&C 128]] — 3 parallel verses, e.g. [[D&C 138#^dc-138-46|D&C 138:46]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
 - [[D&C 2]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-47|D&C 138:47]] ↔ [[D&C 2#^dc-2-2|D&C 2:2]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 138#^dc-138-47|D&C 138:47]] ↔ [[Joseph Smith—History 1#^jsh-1-39|Joseph Smith—History 1:39]]
 - [[D&C 20]] — 4 parallel verses, e.g. [[D&C 138#^dc-138-60|D&C 138:60]] ↔ [[D&C 20#^dc-20-1|D&C 20:1]]

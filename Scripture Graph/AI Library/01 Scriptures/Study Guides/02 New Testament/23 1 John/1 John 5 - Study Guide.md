@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 5
 slug: 1jn-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,10 +54,10 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[The Godhead]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Eternal Life]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -80,6 +80,7 @@ _Not yet developed._
 - [[The Love of God (Elder D. Todd Christofferson, October 2021)|The Love of God]] — Elder D. Todd Christofferson, 2021-October *(explicit citation)*
 - [[Receive His Gift (Elder Patrick Kearon, April 2025)|Receive His Gift]] — Elder Patrick Kearon, 2025-April *(explicit citation)*
 - [[Look to God and Live (Elder D. Todd Christofferson, October 2025)|Look to God and Live]] — Elder D. Todd Christofferson, 2025-October *(explicit citation)*
+- [[The Merciful Obtain Mercy (President Dieter F. Uchtdorf, April 2012)|The Merciful Obtain Mercy]] — President Dieter F. Uchtdorf, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 2
 slug: num-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Exodus 12]] — 2 parallel verses, e.g. [[Numbers 2#^num-2-33|Numbers 2:33]] ↔ [[Exodus 12#^ex-12-50|Exodus 12:50]]
 - [[Exodus 38]] — 1 parallel verse, e.g. [[Numbers 2#^num-2-32|Numbers 2:32]] ↔ [[Exodus 38#^ex-38-26|Exodus 38:26]]
 - [[Numbers 9]] — 1 parallel verse, e.g. [[Numbers 2#^num-2-34|Numbers 2:34]] ↔ [[Numbers 9#^num-9-5|Numbers 9:5]]
+- [[Numbers 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

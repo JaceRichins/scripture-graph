@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 23
 slug: lev-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,8 +64,8 @@ Verses 37-38 sound like a summary, but verses 39-43 return to Tabernacles and ad
 - [[Leviticus 8]] — 14 parallel verses, e.g. [[Leviticus 23#^lev-23-13|Leviticus 23:13]] ↔ [[Leviticus 8#^lev-8-21|Leviticus 8:21]]
 - [[Numbers 15]] — 10 parallel verses, e.g. [[Leviticus 23#^lev-23-10|Leviticus 23:10]] ↔ [[Numbers 15#^num-15-2|Numbers 15:2]]
 - [[Leviticus 24]] — 10 parallel verses, e.g. [[Leviticus 23#^lev-23-41|Leviticus 23:41]] ↔ [[Leviticus 24#^lev-24-3|Leviticus 24:3]]
-- [[Exodus 30]] — 10 parallel verses, e.g. [[Leviticus 23#^lev-23-14|Leviticus 23:14]] ↔ [[Exodus 30#^ex-30-21|Exodus 30:21]]
 - [[Leviticus 2]] — 8 parallel verses, e.g. [[Leviticus 23#^lev-23-8|Leviticus 23:8]] ↔ [[Leviticus 2#^lev-2-16|Leviticus 2:16]]
+- [[Exodus 30]] — 10 parallel verses, e.g. [[Leviticus 23#^lev-23-14|Leviticus 23:14]] ↔ [[Exodus 30#^ex-30-21|Exodus 30:21]]
 - [[Leviticus 22]] — 8 parallel verses, e.g. [[Leviticus 23#^lev-23-8|Leviticus 23:8]] ↔ [[Leviticus 22#^lev-22-27|Leviticus 22:27]]
 <!-- SG:END related-scriptures -->
 
@@ -76,8 +76,8 @@ Verses 37-38 sound like a summary, but verses 39-43 return to Tabernacles and ad
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Sabbath Day]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Passover]] *(keyword match — unconfirmed)*
 - [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Passover]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -99,7 +99,8 @@ Later Christian scripture connects Passover with Christ in [[1 Corinthians 5]] a
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Agriculture** (reference-entry) *(explicit citation)*
+- **Atonement** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

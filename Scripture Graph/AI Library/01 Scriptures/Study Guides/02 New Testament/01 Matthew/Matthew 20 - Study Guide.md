@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 20
 slug: matt-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[First Observe, Then Serve (Linda K. Burton, October 2012)|First Observe, Then Serve]] — Linda K. Burton, 2012-October *(explicit citation)*
 - [[Priesthood and Personal Prayer (President Henry B. Eyring, April 2015)|Priesthood and Personal Prayer]] — President Henry B. Eyring, 2015-April *(explicit citation)*
 - [[Has the Day of Miracles Ceased (Elder Donald L. Hallstrom, October 2017)|Has the Day of Miracles Ceased?]] — Elder Donald L. Hallstrom, 2017-October *(explicit citation)*
 - [[Precious Gifts from God (President M. Russell Ballard, April 2018)|Precious Gifts from God]] — President M. Russell Ballard, 2018-April *(explicit citation)*
@@ -74,7 +75,6 @@ _Not yet developed._
 - [[Put On Thy Strength, O Zion (Elder David A. Bednar, October 2022)|Put On Thy Strength, O Zion]] — Elder David A. Bednar, 2022-October *(explicit citation)*
 - [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
 - [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
-- [[The Prodigal and the Road That Leads Home (Elder Dieter F. Uchtdorf, October 2023)|The Prodigal and the Road That Leads Home]] — Elder Dieter F. Uchtdorf, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

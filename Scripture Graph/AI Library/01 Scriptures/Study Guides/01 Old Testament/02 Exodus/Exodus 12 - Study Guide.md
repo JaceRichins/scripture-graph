@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 12
 slug: ex-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -74,8 +74,8 @@ The arrangement moves repeatedly between event and memorial: what happens in Egy
 - [[Obedience]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Ordinances]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -96,6 +96,7 @@ Later Christian texts connect Passover with [[Jesus Christ (Gospel Topic)]] and 
 - [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[Conversion Is Our Goal (Mark L. Pace, April 2022)|Conversion Is Our Goal]] — Mark L. Pace, 2022-April *(explicit citation)*
+- [[The Opportunity of a Lifetime (Elder W. Christopher Waddell, October 2011)|The Opportunity of a Lifetime]] — Elder W. Christopher Waddell, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

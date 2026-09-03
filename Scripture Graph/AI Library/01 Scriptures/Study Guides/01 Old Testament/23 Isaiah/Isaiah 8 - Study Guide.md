@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 8
 slug: isa-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ _Not yet developed._
 - [[2 Kings 15]] — 1 footnote cross-reference (from [[Isaiah 8#^isa-8-4|Isaiah 8:4]])
 - [[Nehemiah 3]] — 1 footnote cross-reference (from [[Isaiah 8#^isa-8-6|Isaiah 8:6]])
 - [[John 9]] — 1 footnote cross-reference (from [[Isaiah 8#^isa-8-6|Isaiah 8:6]])
+- [[2 Nephi 18]] — 22 parallel verses, e.g. [[Isaiah 8#^isa-8-7|Isaiah 8:7]] ↔ [[2 Nephi 18#^2ne-18-7|2 Nephi 18:7]]
 - [[Isaiah 7]] — 0 parallel verses
-- [[2 Nephi 18]] — 0 parallel verses
 - [[2 Nephi 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -77,7 +77,7 @@ Christian readers have strong canonical grounds for relating the stumbling stone
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

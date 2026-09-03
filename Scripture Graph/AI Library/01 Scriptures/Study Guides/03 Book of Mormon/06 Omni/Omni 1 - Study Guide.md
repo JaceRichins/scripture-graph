@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Omni
 chapter: 1
 slug: omni-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*

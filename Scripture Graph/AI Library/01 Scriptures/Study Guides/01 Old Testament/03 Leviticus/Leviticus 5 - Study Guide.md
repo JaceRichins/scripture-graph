@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 5
 slug: lev-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,7 +52,9 @@ _Not yet developed._
 - [[Numbers 5]] — 1 footnote cross-reference (from [[Leviticus 5#^lev-5-5|Leviticus 5:5]])
 - [[Leviticus 4]] — 28 parallel verses, e.g. [[Leviticus 5#^lev-5-12|Leviticus 5:12]] ↔ [[Leviticus 4#^lev-4-35|Leviticus 4:35]]
 - [[Leviticus 14]] — 17 parallel verses, e.g. [[Leviticus 5#^lev-5-6|Leviticus 5:6]] ↔ [[Leviticus 14#^lev-14-31|Leviticus 14:31]]
+- [[Leviticus 6]] — 10 parallel verses, e.g. [[Leviticus 5#^lev-5-18|Leviticus 5:18]] ↔ [[Leviticus 6#^lev-6-6|Leviticus 6:6]]
 - [[Leviticus 15]] — 12 parallel verses, e.g. [[Leviticus 5#^lev-5-6|Leviticus 5:6]] ↔ [[Leviticus 15#^lev-15-15|Leviticus 15:15]]
+- [[Numbers 15]] — 11 parallel verses, e.g. [[Leviticus 5#^lev-5-10|Leviticus 5:10]] ↔ [[Numbers 15#^num-15-28|Numbers 15:28]]
 - [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 5#^lev-5-6|Leviticus 5:6]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
 - [[Leviticus 19]] — 6 parallel verses, e.g. [[Leviticus 5#^lev-5-16|Leviticus 5:16]] ↔ [[Leviticus 19#^lev-19-22|Leviticus 19:22]]
 - [[Leviticus 12]] — 6 parallel verses, e.g. [[Leviticus 5#^lev-5-6|Leviticus 5:6]] ↔ [[Leviticus 12#^lev-12-8|Leviticus 12:8]]
@@ -60,17 +62,15 @@ _Not yet developed._
 - [[Numbers 6]] — 2 parallel verses, e.g. [[Leviticus 5#^lev-5-7|Leviticus 5:7]] ↔ [[Numbers 6#^num-6-11|Numbers 6:11]]
 - [[Leviticus 23]] — 2 parallel verses, e.g. [[Leviticus 5#^lev-5-12|Leviticus 5:12]] ↔ [[Leviticus 23#^lev-23-36|Leviticus 23:36]]
 - [[Numbers 8]] — 1 parallel verse, e.g. [[Leviticus 5#^lev-5-7|Leviticus 5:7]] ↔ [[Numbers 8#^num-8-12|Numbers 8:12]]
-- [[Leviticus 16]] — 2 parallel verses, e.g. [[Leviticus 5#^lev-5-6|Leviticus 5:6]] ↔ [[Leviticus 16#^lev-16-5|Leviticus 16:5]]
-- [[Leviticus 9]] — 1 parallel verse, e.g. [[Leviticus 5#^lev-5-6|Leviticus 5:6]] ↔ [[Leviticus 9#^lev-9-3|Leviticus 9:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Repentance and Forgiveness]]
 - [[Law of Moses]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -25,7 +25,7 @@ cssclasses:
 ![[Exodus 32#^ex-32-3]]
 
 ![[Exodus 32#^ex-32-4]]
-> [[Nehemiah 9#^neh-9-18|Neh. 9:18]] · [[Psalm 106#^ps-106-19|Ps. 106:19]] · [[D&C 124#^dc-124-84|D&amp;C 124:84]] · [[Alma 30#^alma-30-53|Alma 30:53]] · [[Exodus 20#^ex-20-23|Ex. 20:23]] · [[Acts 7#^acts-7-41|Acts 7:41]] · [[Romans 1#^rom-1-18|Rom. 1:23 (18–25)]] · [[Micah 6#^micah-6-4|≈ Micah 6:4]] · [[1 Kings 12#^1kgs-12-28|≈ 1 Kings 12:28]] · [[Deuteronomy 20#^deut-20-1|≈ Deuteronomy 20:1]]
+> [[Nehemiah 9#^neh-9-18|Neh. 9:18]] · [[Psalm 106#^ps-106-19|Ps. 106:19]] · [[D&C 124#^dc-124-84|D&amp;C 124:84]] · [[Alma 30#^alma-30-53|Alma 30:53]] · [[Exodus 20#^ex-20-23|Ex. 20:23]] · [[Acts 7#^acts-7-41|Acts 7:41]] · [[Romans 1#^rom-1-18|Rom. 1:23 (18–25)]] · [[Micah 6#^micah-6-4|≈ Micah 6:4]] · [[Deuteronomy 20#^deut-20-1|≈ Deuteronomy 20:1]] · [[1 Kings 12#^1kgs-12-28|≈ 1 Kings 12:28]]
 
 ![[Exodus 32#^ex-32-5]]
 
@@ -36,7 +36,7 @@ cssclasses:
 > [[Genesis 6#^gen-6-11|Gen. 6:11 (11–13)]] · [[Deuteronomy 4#^deut-4-14|Deut. 4:16 (14–19)]] · [[Deuteronomy 9#^deut-9-11|9:12 (11–15)]] · [[Hosea 9#^hosea-9-7|Hosea 9:9 (7–9)]] · [[D&C 38#^dc-38-11|D&amp;C 38:11]]
 
 ![[Exodus 32#^ex-32-8]]
-> [[Deuteronomy 9#^deut-9-16|Deut. 9:16]] · [[1 Nephi 17#^1ne-17-30|1 Ne. 17:30 (30–31, 42)]] · [[D&C 84#^dc-84-23|D&amp;C 84:24 (23–25)]] · [[Alma 46#^alma-46-8|Alma 46:8]] · [[Helaman 12#^hel-12-2|Hel. 12:4 (2–7)]] · [[Exodus 20#^ex-20-3|Ex. 20:4 (3–4, 23)]] · [[Micah 6#^micah-6-4|≈ Micah 6:4]] · [[Deuteronomy 9#^deut-9-12|≈ Deuteronomy 9:12]] · [[Deuteronomy 9#^deut-9-16|≈ Deuteronomy 9:16]] · [[1 Kings 12#^1kgs-12-28|≈ 1 Kings 12:28]]
+> [[Deuteronomy 9#^deut-9-16|Deut. 9:16]] · [[1 Nephi 17#^1ne-17-30|1 Ne. 17:30 (30–31, 42)]] · [[D&C 84#^dc-84-23|D&amp;C 84:24 (23–25)]] · [[Alma 46#^alma-46-8|Alma 46:8]] · [[Helaman 12#^hel-12-2|Hel. 12:4 (2–7)]] · [[Exodus 20#^ex-20-3|Ex. 20:4 (3–4, 23)]] · [[Micah 6#^micah-6-4|≈ Micah 6:4]] · [[Deuteronomy 9#^deut-9-12|≈ Deuteronomy 9:12]] · [[Deuteronomy 9#^deut-9-16|≈ Deuteronomy 9:16]] · [[Deuteronomy 20#^deut-20-1|≈ Deuteronomy 20:1]]
 
 ![[Exodus 32#^ex-32-9]]
 > [[Deuteronomy 9#^deut-9-13|≈ Deuteronomy 9:13]]

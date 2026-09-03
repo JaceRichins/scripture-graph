@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 10
 slug: dan-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Daniel 12]] — 1 footnote cross-reference (from [[Daniel 10#^dan-10-5|Daniel 10:5]])
 - [[Haggai 2]] — 3 parallel verses, e.g. [[Daniel 10#^dan-10-4|Daniel 10:4]] ↔ [[Haggai 2#^hag-2-10|Haggai 2:10]]
 - [[Zechariah 5]] — 2 parallel verses, e.g. [[Daniel 10#^dan-10-5|Daniel 10:5]] ↔ [[Zechariah 5#^zech-5-1|Zechariah 5:1]]
+- [[Daniel 8]] — 2 parallel verses, e.g. [[Daniel 10#^dan-10-9|Daniel 10:9]] ↔ [[Daniel 8#^dan-8-18|Daniel 8:18]]
 - [[Revelation 1]] — 0 parallel verses
 - [[Daniel 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -79,7 +80,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

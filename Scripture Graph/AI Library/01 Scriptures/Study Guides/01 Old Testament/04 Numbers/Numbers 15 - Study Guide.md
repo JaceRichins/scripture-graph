@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 15
 slug: num-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,7 +54,9 @@ The chapter holds mercy and severity together without supplying a complete doctr
 - [[Leviticus 1]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-25|Numbers 15:25]])
 - [[Leviticus 4]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-25|Numbers 15:25]])
 - [[Mosiah 3]] — 1 footnote cross-reference (from [[Numbers 15#^num-15-27|Numbers 15:27]])
+- [[Numbers 29]] — 19 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 29#^num-29-16|Numbers 29:16]]
 - [[Leviticus 1]] — 11 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 1#^lev-1-9|Leviticus 1:9]]
+- [[Numbers 28]] — 16 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 28#^num-28-15|Numbers 28:15]]
 - [[Leviticus 5]] — 11 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 5#^lev-5-10|Leviticus 5:10]]
 - [[Numbers 7]] — 12 parallel verses, e.g. [[Numbers 15#^num-15-24|Numbers 15:24]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
 - [[Leviticus 4]] — 10 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 4#^lev-4-31|Leviticus 4:31]]
@@ -64,17 +66,15 @@ The chapter holds mercy and severity together without supplying a complete doctr
 - [[Leviticus 14]] — 8 parallel verses, e.g. [[Numbers 15#^num-15-28|Numbers 15:28]] ↔ [[Leviticus 14#^lev-14-20|Leviticus 14:20]]
 - [[Leviticus 15]] — 6 parallel verses, e.g. [[Numbers 15#^num-15-2|Numbers 15:2]] ↔ [[Leviticus 15#^lev-15-2|Leviticus 15:2]]
 - [[Exodus 29]] — 4 parallel verses, e.g. [[Numbers 15#^num-15-4|Numbers 15:4]] ↔ [[Exodus 29#^ex-29-40|Exodus 29:40]]
-- [[Leviticus 3]] — 3 parallel verses, e.g. [[Numbers 15#^num-15-10|Numbers 15:10]] ↔ [[Leviticus 3#^lev-3-5|Leviticus 3:5]]
-- [[Leviticus 25]] — 3 parallel verses, e.g. [[Numbers 15#^num-15-18|Numbers 15:18]] ↔ [[Leviticus 25#^lev-25-2|Leviticus 25:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Repentance and Forgiveness]]
 - [[Law of Moses]]
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

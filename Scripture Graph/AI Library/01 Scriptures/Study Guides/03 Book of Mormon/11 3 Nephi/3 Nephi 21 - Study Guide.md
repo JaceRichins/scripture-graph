@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 21
 slug: 3ne-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,9 +50,11 @@ Scripture: [[3 Nephi 21]] · My notes: [[3 Nephi 21 - My Notes]]
 - [[1 Nephi 10]] — 2 footnote cross-references (from [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]])
 - [[1 Nephi 13]] — 2 footnote cross-references (from [[3 Nephi 21#^3ne-21-4|3 Nephi 21:4]])
 - [[2 Nephi 30]] — 2 footnote cross-references (from [[3 Nephi 21#^3ne-21-5|3 Nephi 21:5]])
+- [[Micah 5]] — 8 parallel verses, e.g. [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]] ↔ [[Micah 5#^micah-5-8|Micah 5:8]]
 - [[3 Nephi 20]] — 7 parallel verses, e.g. [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]
 - [[3 Nephi 16]] — 7 parallel verses, e.g. [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]] ↔ [[3 Nephi 16#^3ne-16-13|3 Nephi 16:13]]
 - [[D&C 10]] — 3 parallel verses, e.g. [[3 Nephi 21#^3ne-21-10|3 Nephi 21:10]] ↔ [[D&C 10#^dc-10-43|D&C 10:43]]
+- [[Isaiah 52]] — 1 parallel verse, e.g. [[3 Nephi 21#^3ne-21-8|3 Nephi 21:8]] ↔ [[Isaiah 52#^isa-52-15|Isaiah 52:15]]
 - [[D&C 124]] — 4 parallel verses, e.g. [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]] ↔ [[D&C 124#^dc-124-4|D&C 124:4]]
 - [[1 Nephi 10]] — 4 parallel verses, e.g. [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
 - [[3 Nephi 29]] — 2 parallel verses, e.g. [[3 Nephi 21#^3ne-21-7|3 Nephi 21:7]] ↔ [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]]
@@ -60,17 +62,15 @@ Scripture: [[3 Nephi 21]] · My notes: [[3 Nephi 21 - My Notes]]
 - [[Moroni 7]] — 2 parallel verses, e.g. [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]] ↔ [[Moroni 7#^moro-7-34|Moroni 7:34]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]] ↔ [[Moroni 10#^moro-10-5|Moroni 10:5]]
 - [[3 Nephi 30]] — 2 parallel verses, e.g. [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]] ↔ [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]]
-- [[3 Nephi 15]] — 2 parallel verses, e.g. [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]] ↔ [[3 Nephi 15#^3ne-15-12|3 Nephi 15:12]]
-- [[1 Nephi 19]] — 2 parallel verses, e.g. [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]] ↔ [[1 Nephi 19#^1ne-19-24|1 Nephi 19:24]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
-- [[Covenants]]
-- [[Scattering of Israel]]
 - [[Signs of the Times]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Scattering of Israel]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -88,6 +88,7 @@ The chapter joins conversion to gathering. Coming to Christ, baptism, entering t
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
+- [[The Time Shall Come (Elder L. Whitney Clayton, October 2011)|The Time Shall Come]] — Elder L. Whitney Clayton, 2011-October *(explicit citation)*
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -96,6 +97,7 @@ The chapter joins conversion to gathering. Coming to Christ, baptism, entering t
 - **The Center Place** (history) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*

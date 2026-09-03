@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 66
 slug: dc-66
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 75]] — 3 footnote cross-references (from [[D&C 66#^dc-66-1|D&C 66:1]])
+- [[John 1]] — 3 footnote cross-references (from [[D&C 66#^dc-66-1|D&C 66:1]])
+- [[D&C 68]] — 2 footnote cross-references (from [[D&C 66#^dc-66-1|D&C 66:1]])
+- [[1 Peter 5]] — 2 footnote cross-references (from [[D&C 66#^dc-66-2|D&C 66:2]])
+- [[D&C 63]] — 2 footnote cross-references (from [[D&C 66#^dc-66-6|D&C 66:6]])
+- [[D&C 90]] — 1 footnote cross-reference (from [[D&C 66#^dc-66-1|D&C 66:1]])
+- [[D&C 75]] — 2 parallel verses, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 75#^dc-75-3|D&C 75:3]]
 - [[D&C 88]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 88#^dc-88-63|D&C 88:63]]
 - [[3 Nephi 27]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
 - [[D&C 4]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 4#^dc-4-7|D&C 4:7]]
@@ -79,12 +86,14 @@ The concluding promise connects continued faithfulness with [[Eternal Life]] (D&
 <!-- SG:BEGIN conference -->
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[This Day (Elder Ronald A. Rasband, October 2022)|This Day]] — Elder Ronald A. Rasband, 2022-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
 - [[Receive His Gift (Elder Patrick Kearon, April 2025)|Receive His Gift]] — Elder Patrick Kearon, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **13 The Gift Has Returned** (history) *(explicit citation)*
 - **William McLellin’s Five Questions** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*

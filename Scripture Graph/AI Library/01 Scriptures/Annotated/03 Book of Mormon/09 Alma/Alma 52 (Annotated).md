@@ -78,7 +78,7 @@ cssclasses:
 > [[Alma 58#^alma-58-30|≈ Alma 58:30]] · [[3 Nephi 4#^3ne-4-8|≈ 3 Nephi 4:8]] · [[3 Nephi 4#^3ne-4-15|≈ 3 Nephi 4:15]]
 
 ![[Alma 52#^alma-52-24]]
-> [[Alma 56#^alma-56-18|≈ Alma 56:18]] · [[Alma 62#^alma-62-31|≈ Alma 62:31]]
+> [[Alma 62#^alma-62-31|≈ Alma 62:31]] · [[Alma 56#^alma-56-18|≈ Alma 56:18]]
 
 ![[Alma 52#^alma-52-25]]
 > [[Alma 44#^alma-44-6|Alma 44:6]]

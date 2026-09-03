@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 10
 slug: judg-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Judges 11]] — 2 parallel verses, e.g. [[Judges 10#^judg-10-18|Judges 10:18]] ↔ [[Judges 11#^judg-11-8|Judges 11:8]]
 - [[1 Samuel 31]] — 1 parallel verse, e.g. [[Judges 10#^judg-10-8|Judges 10:8]] ↔ [[1 Samuel 31#^1sam-31-7|1 Samuel 31:7]]
 - [[1 Chronicles 18]] — 1 parallel verse, e.g. [[Judges 10#^judg-10-11|Judges 10:11]] ↔ [[1 Chronicles 18#^1chr-18-11|1 Chronicles 18:11]]
+- [[Judges 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

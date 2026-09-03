@@ -44,7 +44,7 @@ cssclasses:
 ![[Jeremiah 22#^jer-22-10]]
 
 ![[Jeremiah 22#^jer-22-11]]
-> [[1 Chronicles 3#^1chr-3-15|1 Chr. 3:15]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 26#^jer-26-1|≈ Jeremiah 26:1]] · [[Jeremiah 35#^jer-35-1|≈ Jeremiah 35:1]] · [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]]
+> [[1 Chronicles 3#^1chr-3-15|1 Chr. 3:15]] · [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]] · [[Jeremiah 36#^jer-36-9|≈ Jeremiah 36:9]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 26#^jer-26-1|≈ Jeremiah 26:1]]
 
 ![[Jeremiah 22#^jer-22-12]]
 
@@ -61,7 +61,7 @@ cssclasses:
 ![[Jeremiah 22#^jer-22-17]]
 
 ![[Jeremiah 22#^jer-22-18]]
-> [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 26#^jer-26-1|≈ Jeremiah 26:1]] · [[Jeremiah 35#^jer-35-1|≈ Jeremiah 35:1]] · [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]]
+> [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]] · [[Jeremiah 36#^jer-36-9|≈ Jeremiah 36:9]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 26#^jer-26-1|≈ Jeremiah 26:1]]
 
 ![[Jeremiah 22#^jer-22-19]]
 > [[Ecclesiastes 6#^eccl-6-3|Eccl. 6:3]]

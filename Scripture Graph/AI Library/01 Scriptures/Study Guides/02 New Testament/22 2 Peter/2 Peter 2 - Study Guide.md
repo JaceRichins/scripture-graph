@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 2
 slug: 2pet-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,10 +56,10 @@ Scripture: [[2 Peter 2]] · My notes: [[2 Peter 2 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
-- [[Final Judgment]]
 - [[Repentance and Forgiveness]]
 - [[Angels]]
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Satan and Temptation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -81,6 +81,7 @@ Scripture: [[2 Peter 2]] · My notes: [[2 Peter 2 - My Notes]]
 ## Church History
 <!-- SG:BEGIN history -->
 - **Salvation** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

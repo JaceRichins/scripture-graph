@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 76
 slug: dc-76
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,30 +59,36 @@ The promises of spiritual knowledge in verses 5-10 correspond to the closing exp
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 14 footnote cross-references (from [[D&C 76#^dc-76-24|D&C 76:24]])
+- [[D&C 84]] — 10 footnote cross-references (from [[D&C 76#^dc-76-34|D&C 76:34]])
+- [[D&C 138]] — 9 footnote cross-references (from [[D&C 76#^dc-76-12|D&C 76:12]])
+- [[D&C 29]] — 8 footnote cross-references (from [[D&C 76#^dc-76-25|D&C 76:25]])
+- [[1 Corinthians 15]] — 7 footnote cross-references (from [[D&C 76#^dc-76-24|D&C 76:24]])
+- [[Revelation 20]] — 6 footnote cross-references (from [[D&C 76#^dc-76-36|D&C 76:36]])
+- [[D&C 88]] — 4 parallel verses, e.g. [[D&C 76#^dc-76-107|D&C 76:107]] ↔ [[D&C 88#^dc-88-106|D&C 88:106]]
 - [[Mark 9]] — 3 parallel verses, e.g. [[D&C 76#^dc-76-44|D&C 76:44]] ↔ [[Mark 9#^mark-9-44|Mark 9:44]]
 - [[D&C 138]] — 3 parallel verses, e.g. [[D&C 76#^dc-76-73|D&C 76:73]] ↔ [[D&C 138#^dc-138-10|D&C 138:10]]
 - [[D&C 20]] — 4 parallel verses, e.g. [[D&C 76#^dc-76-14|D&C 76:14]] ↔ [[D&C 20#^dc-20-9|D&C 20:9]]
+- [[Hebrews 12]] — 3 parallel verses, e.g. [[D&C 76#^dc-76-66|D&C 76:66]] ↔ [[Hebrews 12#^heb-12-22|Hebrews 12:22]]
 - [[1 Corinthians 3]] — 2 parallel verses, e.g. [[D&C 76#^dc-76-59|D&C 76:59]] ↔ [[1 Corinthians 3#^1cor-3-22|1 Corinthians 3:22]]
+- [[D&C 132]] — 3 parallel verses, e.g. [[D&C 76#^dc-76-53|D&C 76:53]] ↔ [[D&C 132#^dc-132-26|D&C 132:26]]
 - [[D&C 93]] — 2 parallel verses, e.g. [[D&C 76#^dc-76-34|D&C 76:34]] ↔ [[D&C 93#^dc-93-52|D&C 93:52]]
 - [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[D&C 76#^dc-76-11|D&C 76:11]] ↔ [[Joseph Smith—History 1#^jsh-1-3|Joseph Smith—History 1:3]]
 - [[1 Corinthians 15]] — 2 parallel verses, e.g. [[D&C 76#^dc-76-96|D&C 76:96]] ↔ [[1 Corinthians 15#^1cor-15-40|1 Corinthians 15:40]]
 - [[1 Peter 4]] — 1 parallel verse, e.g. [[D&C 76#^dc-76-73|D&C 76:73]] ↔ [[1 Peter 4#^1pet-4-6|1 Peter 4:6]]
 - [[D&C 42]] — 1 parallel verse, e.g. [[D&C 76#^dc-76-34|D&C 76:34]] ↔ [[D&C 42#^dc-42-18|D&C 42:18]]
-- [[D&C 68]] — 2 parallel verses, e.g. [[D&C 76#^dc-76-52|D&C 76:52]] ↔ [[D&C 68#^dc-68-25|D&C 68:25]]
-- [[D&C 107]] — 2 parallel verses, e.g. [[D&C 76#^dc-76-52|D&C 76:52]] ↔ [[D&C 107#^dc-107-67|D&C 107:67]]
-- [[Jacob 4]] — 1 parallel verse, e.g. [[D&C 76#^dc-76-114|D&C 76:114]] ↔ [[Jacob 4#^jacob-4-8|Jacob 4:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Kingdoms of Glory]]
 - [[Creation]]
-- [[Satan and Temptation]]
 - [[Final Judgment]]
 - [[The Godhead]]
 - [[Death and the Spirit World]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Resurrection]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -111,6 +117,7 @@ The sons of perdition should not be equated casually with ordinary sinners. The 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
 - **‘The Vision’** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
@@ -119,7 +126,6 @@ The sons of perdition should not be equated casually with ordinary sinners. The 
 - **Satan** (reference-entry) *(explicit citation)*
 - **Testimony** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
-- **Hell** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

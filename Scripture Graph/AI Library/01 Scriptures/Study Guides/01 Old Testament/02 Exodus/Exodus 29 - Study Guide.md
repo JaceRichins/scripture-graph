@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 29
 slug: ex-29
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -94,7 +94,7 @@ Christian readers may study this material alongside [[Atonement of Jesus Christ]
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **21 The Spirit of God** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

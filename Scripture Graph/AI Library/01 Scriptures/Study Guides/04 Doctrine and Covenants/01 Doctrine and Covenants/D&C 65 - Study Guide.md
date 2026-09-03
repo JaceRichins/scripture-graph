@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 65
 slug: dc-65
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -37,14 +37,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 3]] — 2 footnote cross-references (from [[D&C 65#^dc-65-1|D&C 65:1]])
+- [[Matthew 16]] — 2 footnote cross-references (from [[D&C 65#^dc-65-2|D&C 65:2]])
+- [[Micah 4]] — 2 footnote cross-references (from [[D&C 65#^dc-65-2|D&C 65:2]])
+- [[Daniel 2]] — 2 footnote cross-references (from [[D&C 65#^dc-65-2|D&C 65:2]])
+- [[1 Chronicles 16]] — 2 footnote cross-references (from [[D&C 65#^dc-65-4|D&C 65:4]])
+- [[Revelation 11]] — 2 footnote cross-references (from [[D&C 65#^dc-65-6|D&C 65:6]])
+- [[Matthew 3]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
+- [[Mark 1]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
+- [[Luke 3]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Luke 3#^luke-3-4|Luke 3:4]]
+- [[Isaiah 40]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Isaiah 40#^isa-40-3|Isaiah 40:3]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[Alma 9#^alma-9-28|Alma 9:28]]
 - [[D&C 33]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[D&C 33#^dc-33-10|D&C 33:10]]
 - [[D&C 133]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[D&C 133#^dc-133-17|D&C 133:17]]
-- [[Isaiah 40]] — 0 parallel verses
-- [[Matthew 3]] — 0 parallel verses
-- [[Mark 1]] — 0 parallel verses
-- [[Luke 3]] — 0 parallel verses
 - [[Daniel 2]] — 0 parallel verses
 - [[Revelation 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->

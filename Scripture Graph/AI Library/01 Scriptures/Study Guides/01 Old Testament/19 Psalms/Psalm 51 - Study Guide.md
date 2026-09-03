@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 51
 slug: ps-51
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[D&C 97]] — 1 footnote cross-reference (from [[Psalm 51#^ps-51-4|Psalm 51:4]])
 - [[Ezekiel 36]] — 0 parallel verses
 - [[3 Nephi 9]] — 0 parallel verses
+- [[D&C 59]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

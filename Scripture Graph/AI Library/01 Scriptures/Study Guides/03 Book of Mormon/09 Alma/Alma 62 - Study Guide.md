@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 62
 slug: alma-62
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ Alma 62 resolves both fronts of the crisis created in [[Alma 60]] and [[Alma 61]
 - [[Alma 51]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-25|Alma 62:25]] ↔ [[Alma 51#^alma-51-22|Alma 51:22]]
 - [[Alma 45]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-50|Alma 62:50]] ↔ [[Alma 45#^alma-45-1|Alma 45:1]]
 - [[Alma 4]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-49|Alma 62:49]] ↔ [[Alma 4#^alma-4-6|Alma 4:6]]
+- [[Alma 50]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-22|Alma 62:22]] ↔ [[Alma 50#^alma-50-7|Alma 50:7]]
 - [[Alma 53]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-30|Alma 62:30]] ↔ [[Alma 53#^alma-53-6|Alma 53:6]]
 - [[Mosiah 18]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-28|Alma 62:28]] ↔ [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]]
 - [[Alma 56]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-12|Alma 62:12]] ↔ [[Alma 56#^alma-56-1|Alma 56:1]]
@@ -66,15 +67,14 @@ Alma 62 resolves both fronts of the crisis created in [[Alma 60]] and [[Alma 61]
 - [[Helaman 6]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-27|Alma 62:27]] ↔ [[Helaman 6#^hel-6-4|Helaman 6:4]]
 - [[3 Nephi 4]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-50|Alma 62:50]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
 - [[Alma 55]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-1|Alma 62:1]] ↔ [[Alma 55#^alma-55-1|Alma 55:1]]
-- [[Alma 43]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-22|Alma 62:22]] ↔ [[Alma 43#^alma-43-27|Alma 43:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
-- [[Government and Laws]]
-- [[Freedom and Liberty]]
 - [[Alma 61]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Humility]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*

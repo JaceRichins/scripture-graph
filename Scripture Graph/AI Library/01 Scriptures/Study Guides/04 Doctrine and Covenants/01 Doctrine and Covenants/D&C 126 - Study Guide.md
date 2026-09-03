@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 126
 slug: dc-126
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 126]] · My notes: [[D&C 126 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, Brigham Young is commended for his labors and is relieved of future travel abroad.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 124]] — 2 footnote cross-references (from [[D&C 126#^dc-126-1|D&C 126:1]])
+- [[D&C 136]] — 1 footnote cross-reference (from [[D&C 126#^dc-126-1|D&C 126:1]])
+- [[D&C 18]] — 1 footnote cross-reference (from [[D&C 126#^dc-126-1|D&C 126:1]])
+- [[D&C 107]] — 1 footnote cross-reference (from [[D&C 126#^dc-126-3|D&C 126:3]])
 - [[D&C 71]] — 2 parallel verses, e.g. [[D&C 126#^dc-126-1|D&C 126:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
 - [[D&C 80]] — 1 parallel verse, e.g. [[D&C 126#^dc-126-1|D&C 126:1]] ↔ [[D&C 80#^dc-80-1|D&C 80:1]]
 - [[D&C 132]] — 1 parallel verse, e.g. [[D&C 126#^dc-126-1|D&C 126:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]

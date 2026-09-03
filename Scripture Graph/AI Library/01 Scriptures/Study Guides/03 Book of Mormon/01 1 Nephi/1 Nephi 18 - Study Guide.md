@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 18
 slug: 1ne-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,9 +58,13 @@ This progression forms a strong narrative reversal, but the chapter need not be 
 - [[1 Nephi 7]] — 3 footnote cross-references (from [[1 Nephi 18#^1ne-18-11|1 Nephi 18:11]])
 - [[1 Nephi 8]] — 2 footnote cross-references (from [[1 Nephi 18#^1ne-18-6|1 Nephi 18:6]])
 - [[2 Nephi 5]] — 2 footnote cross-references (from [[1 Nephi 18#^1ne-18-12|1 Nephi 18:12]])
+- [[1 Nephi 16]] — 8 parallel verses, e.g. [[1 Nephi 18#^1ne-18-5|1 Nephi 18:5]] ↔ [[1 Nephi 16#^1ne-16-25|1 Nephi 16:25]]
+- [[Ether 2]] — 3 parallel verses, e.g. [[1 Nephi 18#^1ne-18-10|1 Nephi 18:10]] ↔ [[Ether 2#^ether-2-25|Ether 2:25]]
+- [[2 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 18#^1ne-18-23|1 Nephi 18:23]] ↔ [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]]
 - [[Ether 12]] — 2 parallel verses, e.g. [[1 Nephi 18#^1ne-18-21|1 Nephi 18:21]] ↔ [[Ether 12#^ether-12-36|Ether 12:36]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[1 Nephi 18#^1ne-18-6|1 Nephi 18:6]] ↔ [[Alma 2#^alma-2-23|Alma 2:23]]
 - [[1 Nephi 17]] — 0 parallel verses
+- [[1 Nephi 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,6 +93,7 @@ The operation of the [[Liahona (compass)]] is narrated in moral and relational c
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
+- [[The Spirit of Revelation (Elder David A. Bednar, April 2011)|The Spirit of Revelation]] — Elder David A. Bednar, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

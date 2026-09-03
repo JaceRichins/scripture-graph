@@ -52,7 +52,7 @@ cssclasses:
 > [[2 Nephi 9#^2ne-9-18|2 Ne. 9:18]] · [[D&C 84#^dc-84-38|D&amp;C 84:38]] · [[3 Nephi 12#^3ne-12-12|≈ 3 Nephi 12:12]]
 
 ![[Matthew 5#^matt-5-13]]
-> [[Leviticus 2#^lev-2-13|Lev. 2:13]] · [[Numbers 18#^num-18-19|Num. 18:19]] · [[3 Nephi 12#^3ne-12-13|≈ 3 Nephi 12:13]] · [[3 Nephi 16#^3ne-16-15|≈ 3 Nephi 16:15]] · [[D&C 103#^dc-103-10|≈ D&C 103:10]] · [[Luke 14#^luke-14-34|≈ Luke 14:34]]
+> [[Leviticus 2#^lev-2-13|Lev. 2:13]] · [[Numbers 18#^num-18-19|Num. 18:19]] · [[3 Nephi 16#^3ne-16-15|≈ 3 Nephi 16:15]] · [[D&C 103#^dc-103-10|≈ D&C 103:10]] · [[3 Nephi 12#^3ne-12-13|≈ 3 Nephi 12:13]] · [[Luke 14#^luke-14-34|≈ Luke 14:34]]
 
 ![[Matthew 5#^matt-5-14]]
 

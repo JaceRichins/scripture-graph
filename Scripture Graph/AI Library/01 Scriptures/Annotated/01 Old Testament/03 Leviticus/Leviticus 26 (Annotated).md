@@ -17,7 +17,7 @@ cssclasses:
 > Temporal and spiritual blessings will abound in Israel if the people keep the commandments—Cursing, scourging, and desolation will be theirs if they disobey the Lord—When His people repent, the Lord will show mercy unto them.
 
 ![[Leviticus 26#^lev-26-1]]
-> [[D&C 52#^dc-52-39|D&amp;C 52:39]] · [[Exodus 20#^ex-20-4|Ex. 20:4 (4–6)]] · [[Mosiah 12#^mosiah-12-35|Mosiah 12:36 (35–36)]] · [[Leviticus 20#^lev-20-7|≈ Leviticus 20:7]] · [[Leviticus 25#^lev-25-17|≈ Leviticus 25:17]]
+> [[D&C 52#^dc-52-39|D&amp;C 52:39]] · [[Exodus 20#^ex-20-4|Ex. 20:4 (4–6)]] · [[Mosiah 12#^mosiah-12-35|Mosiah 12:36 (35–36)]] · [[Leviticus 25#^lev-25-17|≈ Leviticus 25:17]] · [[Leviticus 20#^lev-20-7|≈ Leviticus 20:7]]
 
 ![[Leviticus 26#^lev-26-2]]
 > [[Leviticus 19#^lev-19-30|≈ Leviticus 19:30]]
@@ -48,7 +48,7 @@ cssclasses:
 > [[Deuteronomy 23#^deut-23-14|Deut. 23:14]] · [[Zechariah 2#^zech-2-10|Zech. 2:10]] · [[Joshua 22#^josh-22-31|Josh. 22:31]] · [[Ezekiel 34#^ezek-34-20|Ezek. 34:24 (20–31)]] · [[2 Corinthians 6#^2cor-6-16|2 Cor. 6:16]] · [[3 Nephi 20#^3ne-20-19|3 Ne. 20:19]] · [[D&C 63#^dc-63-1|D&amp;C 63:1 (1–6)]] · [[Jeremiah 7#^jer-7-23|≈ Jeremiah 7:23]]
 
 ![[Leviticus 26#^lev-26-13]]
-> [[Numbers 15#^num-15-41|≈ Numbers 15:41]] · [[Leviticus 19#^lev-19-36|≈ Leviticus 19:36]] · [[Leviticus 20#^lev-20-24|≈ Leviticus 20:24]] · [[Leviticus 25#^lev-25-38|≈ Leviticus 25:38]] · [[Leviticus 25#^lev-25-55|≈ Leviticus 25:55]]
+> [[Numbers 15#^num-15-41|≈ Numbers 15:41]] · [[Leviticus 25#^lev-25-38|≈ Leviticus 25:38]] · [[Leviticus 25#^lev-25-55|≈ Leviticus 25:55]] · [[Leviticus 19#^lev-19-36|≈ Leviticus 19:36]] · [[Leviticus 20#^lev-20-24|≈ Leviticus 20:24]]
 
 ![[Leviticus 26#^lev-26-14]]
 > [[Deuteronomy 28#^deut-28-15|Deut. 28:15 (15–68)]] · [[Jeremiah 26#^jer-26-4|Jer. 26:4]] · [[Amos 2#^amos-2-4|Amos 2:4]] · [[Alma 5#^alma-5-38|Alma 5:38 (38–42)]] · [[D&C 101#^dc-101-7|D&amp;C 101:7]] · [[Daniel 9#^dan-9-13|Dan. 9:13]] · [[Ezekiel 20#^ezek-20-39|≈ Ezekiel 20:39]]

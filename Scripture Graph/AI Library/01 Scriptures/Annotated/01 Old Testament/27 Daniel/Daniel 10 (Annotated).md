@@ -28,7 +28,7 @@ cssclasses:
 > [[Haggai 2#^hag-2-10|≈ Haggai 2:10]] · [[Haggai 2#^hag-2-20|≈ Haggai 2:20]] · [[Haggai 2#^hag-2-18|≈ Haggai 2:18]]
 
 ![[Daniel 10#^dan-10-5]]
-> [[Daniel 12#^dan-12-6|Dan. 12:6]] · [[Revelation 1#^rev-1-13|Rev. 1:13]] · [[Zechariah 5#^zech-5-1|≈ Zechariah 5:1]] · [[Zechariah 5#^zech-5-9|≈ Zechariah 5:9]] · [[Daniel 8#^dan-8-3|≈ Daniel 8:3]]
+> [[Daniel 12#^dan-12-6|Dan. 12:6]] · [[Revelation 1#^rev-1-13|Rev. 1:13]] · [[Daniel 8#^dan-8-3|≈ Daniel 8:3]] · [[Zechariah 5#^zech-5-1|≈ Zechariah 5:1]] · [[Zechariah 5#^zech-5-9|≈ Zechariah 5:9]]
 
 ![[Daniel 10#^dan-10-6]]
 

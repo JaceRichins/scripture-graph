@@ -40,7 +40,7 @@ cssclasses:
 > [[2 Kings 8#^2kgs-8-23|≈ 2 Kings 8:23]] · [[2 Kings 14#^2kgs-14-28|≈ 2 Kings 14:28]] · [[2 Kings 14#^2kgs-14-15|≈ 2 Kings 14:15]] · [[2 Kings 14#^2kgs-14-18|≈ 2 Kings 14:18]] · [[2 Kings 15#^2kgs-15-21|≈ 2 Kings 15:21]] · [[2 Kings 15#^2kgs-15-36|≈ 2 Kings 15:36]]
 
 ![[2 Kings 13#^2kgs-13-9]]
-> [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[1 Kings 15#^1kgs-15-8|≈ 1 Kings 15:8]] · [[2 Kings 10#^2kgs-10-35|≈ 2 Kings 10:35]] · [[2 Chronicles 14#^2chr-14-1|≈ 2 Chronicles 14:1]] · [[2 Chronicles 27#^2chr-27-9|≈ 2 Chronicles 27:9]] · [[2 Chronicles 28#^2chr-28-27|≈ 2 Chronicles 28:27]]
+> [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[2 Kings 10#^2kgs-10-35|≈ 2 Kings 10:35]] · [[1 Kings 15#^1kgs-15-8|≈ 1 Kings 15:8]] · [[2 Chronicles 14#^2chr-14-1|≈ 2 Chronicles 14:1]] · [[2 Chronicles 27#^2chr-27-9|≈ 2 Chronicles 27:9]] · [[2 Chronicles 28#^2chr-28-27|≈ 2 Chronicles 28:27]]
 
 ![[2 Kings 13#^2kgs-13-10]]
 > [[2 Kings 15#^2kgs-15-23|≈ 2 Kings 15:23]] · [[2 Kings 15#^2kgs-15-27|≈ 2 Kings 15:27]]

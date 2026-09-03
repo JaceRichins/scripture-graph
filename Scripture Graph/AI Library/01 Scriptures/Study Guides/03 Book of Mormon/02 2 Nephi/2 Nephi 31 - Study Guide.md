@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 31
 slug: 2ne-31
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,28 +48,28 @@ _Not yet developed._
 - [[1 Nephi 11]] — 2 footnote cross-references (from [[2 Nephi 31#^2ne-31-4|2 Nephi 31:4]])
 - [[2 Nephi 9]] — 2 footnote cross-references (from [[2 Nephi 31#^2ne-31-9|2 Nephi 31:9]])
 - [[Matthew 8]] — 2 footnote cross-references (from [[2 Nephi 31#^2ne-31-10|2 Nephi 31:10]])
+- [[D&C 20]] — 3 parallel verses, e.g. [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]] ↔ [[D&C 20#^dc-20-73|D&C 20:73]]
 - [[D&C 33]] — 2 parallel verses, e.g. [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]] ↔ [[D&C 33#^dc-33-11|D&C 33:11]]
+- [[2 Nephi 32]] — 3 parallel verses, e.g. [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]] ↔ [[2 Nephi 32#^2ne-32-2|2 Nephi 32:2]]
 - [[D&C 18]] — 3 parallel verses, e.g. [[2 Nephi 31#^2ne-31-15|2 Nephi 31:15]] ↔ [[D&C 18#^dc-18-22|D&C 18:22]]
 - [[Alma 32]] — 2 parallel verses, e.g. [[2 Nephi 31#^2ne-31-15|2 Nephi 31:15]] ↔ [[Alma 32#^alma-32-13|Alma 32:13]]
+- [[3 Nephi 27]] — 2 parallel verses, e.g. [[2 Nephi 31#^2ne-31-15|2 Nephi 31:15]] ↔ [[3 Nephi 27#^3ne-27-6|3 Nephi 27:6]]
+- [[3 Nephi 11]] — 1 parallel verse, e.g. [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]
 - [[Matthew 28]] — 1 parallel verse, e.g. [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]] ↔ [[Matthew 28#^matt-28-19|Matthew 28:19]]
 - [[D&C 68]] — 1 parallel verse, e.g. [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]] ↔ [[D&C 68#^dc-68-8|D&C 68:8]]
 - [[Moses 7]] — 2 parallel verses, e.g. [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]] ↔ [[Moses 7#^moses-7-11|Moses 7:11]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[2 Nephi 31#^2ne-31-8|2 Nephi 31:8]] ↔ [[D&C 93#^dc-93-15|D&C 93:15]]
 - [[3 Nephi 18]] — 2 parallel verses, e.g. [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]] ↔ [[3 Nephi 18#^3ne-18-10|3 Nephi 18:10]]
-- [[Moroni 10]] — 2 parallel verses, e.g. [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]] ↔ [[Moroni 10#^moro-10-26|Moroni 10:26]]
-- [[D&C 39]] — 2 parallel verses, e.g. [[2 Nephi 31#^2ne-31-17|2 Nephi 31:17]] ↔ [[D&C 39#^dc-39-6|D&C 39:6]]
-- [[1 Nephi 14]] — 1 parallel verse, e.g. [[2 Nephi 31#^2ne-31-2|2 Nephi 31:2]] ↔ [[1 Nephi 14#^1ne-14-28|1 Nephi 14:28]]
-- [[3 Nephi 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Baptism]]
 - [[Gift of the Holy Ghost]]
+- [[Endurance]]
 - [[Eternal Life]]
 - [[Gospel of Jesus Christ]]
 - [[Hope]]
-- [[Endurance]]
 - [[The Godhead]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

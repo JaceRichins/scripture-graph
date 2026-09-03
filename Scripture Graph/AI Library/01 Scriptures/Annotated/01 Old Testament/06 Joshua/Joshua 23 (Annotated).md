@@ -51,13 +51,13 @@ cssclasses:
 ![[Joshua 23#^josh-23-12]]
 
 ![[Joshua 23#^josh-23-13]]
-> [[Judges 1#^judg-1-27|Judg. 1:27 (27–36)]] · [[Numbers 33#^num-33-55|Num. 33:55]] · [[Ezekiel 28#^ezek-28-24|Ezek. 28:24]] · [[1 Nephi 2#^1ne-2-24|1 Ne. 2:24]] · [[3 Nephi 20#^3ne-20-27|3 Ne. 20:28 (27–28)]] · [[1 Nephi 2#^1ne-2-20|1 Ne. 2:21 (20–21)]] · [[Joshua 1#^josh-1-13|≈ Joshua 1:13]] · [[Deuteronomy 3#^deut-3-20|≈ Deuteronomy 3:20]] · [[Deuteronomy 3#^deut-3-18|≈ Deuteronomy 3:18]]
+> [[Judges 1#^judg-1-27|Judg. 1:27 (27–36)]] · [[Numbers 33#^num-33-55|Num. 33:55]] · [[Ezekiel 28#^ezek-28-24|Ezek. 28:24]] · [[1 Nephi 2#^1ne-2-24|1 Ne. 2:24]] · [[3 Nephi 20#^3ne-20-27|3 Ne. 20:28 (27–28)]] · [[1 Nephi 2#^1ne-2-20|1 Ne. 2:21 (20–21)]] · [[Deuteronomy 3#^deut-3-20|≈ Deuteronomy 3:20]] · [[Deuteronomy 3#^deut-3-18|≈ Deuteronomy 3:18]] · [[Joshua 1#^josh-1-13|≈ Joshua 1:13]]
 
 ![[Joshua 23#^josh-23-14]]
 > [[1 Kings 2#^1kgs-2-2|1 Kgs. 2:2]] · [[2 Nephi 1#^2ne-1-14|2 Ne. 1:14]] · [[D&C 82#^dc-82-10|D&amp;C 82:10]]
 
 ![[Joshua 23#^josh-23-15]]
-> [[Joshua 21#^josh-21-45|Josh. 21:45]] · [[Joshua 1#^josh-1-13|≈ Joshua 1:13]] · [[Deuteronomy 3#^deut-3-20|≈ Deuteronomy 3:20]] · [[Deuteronomy 3#^deut-3-18|≈ Deuteronomy 3:18]]
+> [[Joshua 21#^josh-21-45|Josh. 21:45]] · [[Deuteronomy 3#^deut-3-20|≈ Deuteronomy 3:20]] · [[Deuteronomy 3#^deut-3-18|≈ Deuteronomy 3:18]] · [[Joshua 1#^josh-1-13|≈ Joshua 1:13]]
 
 ![[Joshua 23#^josh-23-16]]
 > [[Deuteronomy 17#^deut-17-2|Deut. 17:2]] · [[D&C 1#^dc-1-15|D&amp;C 1:15]] · [[D&C 3#^dc-3-6|3:6 (6–8)]] · [[D&C 54#^dc-54-3|54:4 (3–6)]] · [[D&C 104#^dc-104-52|104:52]] · [[1 Kings 14#^1kgs-14-15|1 Kgs. 14:15]] · [[Deuteronomy 7#^deut-7-4|≈ Deuteronomy 7:4]] · [[Deuteronomy 4#^deut-4-23|≈ Deuteronomy 4:23]] · [[Deuteronomy 11#^deut-11-17|≈ Deuteronomy 11:17]]

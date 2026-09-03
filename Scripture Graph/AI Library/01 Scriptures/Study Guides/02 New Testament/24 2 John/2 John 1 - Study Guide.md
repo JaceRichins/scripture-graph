@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 John
 chapter: 1
 slug: 2jn-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -42,6 +42,7 @@ _Not yet developed._
 - [[1 Corinthians 5]] — 1 footnote cross-reference (from [[2 John 1#^2jn-1-10|2 John 1:10]])
 - [[1 Timothy 5]] — 1 footnote cross-reference (from [[2 John 1#^2jn-1-11|2 John 1:11]])
 - [[1 John 4]] — 2 parallel verses, e.g. [[2 John 1#^2jn-1-7|2 John 1:7]] ↔ [[1 John 4#^1jn-4-3|1 John 4:3]]
+- [[D&C 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +66,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘Thou Art an Elect Lady’** (history) *(explicit citation)*
+- **Antichrist** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

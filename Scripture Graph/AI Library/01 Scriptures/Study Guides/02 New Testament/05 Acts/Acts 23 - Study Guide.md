@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 23
 slug: acts-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,7 +51,7 @@ Scripture: [[Acts 23]] · My notes: [[Acts 23 - My Notes]]
 - [[Acts 21]] — 2 footnote cross-references (from [[Acts 23#^acts-23-27|Acts 23:27]])
 - [[John 18]] — 1 footnote cross-reference (from [[Acts 23#^acts-23-2|Acts 23:2]])
 - [[Psalm 5]] — 1 footnote cross-reference (from [[Acts 23#^acts-23-3|Acts 23:3]])
-- [[Acts 24]] — 0 parallel verses
+- [[Acts 24]] — 1 parallel verse, e.g. [[Acts 23#^acts-23-6|Acts 23:6]] ↔ [[Acts 24#^acts-24-21|Acts 24:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,7 +73,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ananias** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

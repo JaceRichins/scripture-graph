@@ -60,7 +60,7 @@ cssclasses:
 > [[Exodus 38#^ex-38-14|≈ Exodus 38:14]] · [[Exodus 38#^ex-38-15|≈ Exodus 38:15]]
 
 ![[Exodus 27#^ex-27-16]]
-> [[Exodus 26#^ex-26-36|Ex. 26:36]] · [[Exodus 38#^ex-38-9|38:18 (9–20)]] · [[Exodus 28#^ex-28-8|≈ Exodus 28:8]] · [[Exodus 28#^ex-28-5|≈ Exodus 28:5]] · [[Exodus 35#^ex-35-6|≈ Exodus 35:6]] · [[Exodus 35#^ex-35-23|≈ Exodus 35:23]] · [[Exodus 36#^ex-36-35|≈ Exodus 36:35]] · [[Exodus 36#^ex-36-37|≈ Exodus 36:37]]
+> [[Exodus 26#^ex-26-36|Ex. 26:36]] · [[Exodus 38#^ex-38-9|38:18 (9–20)]] · [[Exodus 38#^ex-38-18|≈ Exodus 38:18]] · [[Exodus 28#^ex-28-8|≈ Exodus 28:8]] · [[Exodus 28#^ex-28-5|≈ Exodus 28:5]] · [[Exodus 35#^ex-35-6|≈ Exodus 35:6]] · [[Exodus 35#^ex-35-23|≈ Exodus 35:23]] · [[Exodus 36#^ex-36-35|≈ Exodus 36:35]]
 
 ![[Exodus 27#^ex-27-17]]
 

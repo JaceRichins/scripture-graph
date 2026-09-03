@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 11
 slug: isa-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,17 +78,21 @@ _Not yet developed._
 - [[Rise! He Calleth Thee (Elder Massimo De Feo, April 2024)|Rise! He Calleth Thee]] — Elder Massimo De Feo, 2024-April *(explicit citation)*
 - [[Be Reconciled to God (Elder Kelly R. Johnson, October 2025)|Be Reconciled to God]] — Elder Kelly R. Johnson, 2025-October *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[And a Little Child Shall Lead Them (President Boyd K. Packer, April 2012)|And a Little Child Shall Lead Them]] — President Boyd K. Packer, 2012-April *(explicit citation)*
+- [[An Ensign to the Nations (Elder Jeffrey R. Holland, April 2011)|An Ensign to the Nations]] — Elder Jeffrey R. Holland, 2011-April *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 - [[That Our Light May Be a Standard for the Nations (Elder Benjamín De Hoyos, April 2017)|That Our Light May Be a Standard for the Nations]] — Elder Benjamín De Hoyos, 2017-April *(explicit citation)*
 - [[“Behold I Am the Light Which Ye Shall Hold Up” (Elder Ronald A. Rasband, October 2024)|“Behold I Am the Light Which Ye Shall Hold Up”]] — Elder Ronald A. Rasband, 2024-October *(explicit citation)*
-- [[Conference Report, April 1930 (General Conference (full report), April 1930)|Conference Report, April 1930]] — General Conference (full report), 1930-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Millennium** (reference-entry) *(explicit citation)*
+- **25 Move On to the West** (history) *(explicit citation)*
+- **46 Endowed with Power** (history) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Millennium** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1834-11-01 (Vol. 1 No. 2)** (periodical, 1834-11-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

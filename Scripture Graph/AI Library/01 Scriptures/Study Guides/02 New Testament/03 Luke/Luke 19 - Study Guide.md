@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 19
 slug: luke-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -79,7 +79,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **36 Incline Them to Gather** (history) *(explicit citation)*
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

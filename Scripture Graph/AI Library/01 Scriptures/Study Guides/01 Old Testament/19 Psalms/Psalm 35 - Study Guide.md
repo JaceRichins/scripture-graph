@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 35
 slug: ps-35
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Proverbs 22]] — 1 footnote cross-reference (from [[Psalm 35#^ps-35-10|Psalm 35:10]])
 - [[Isaiah 25]] — 1 footnote cross-reference (from [[Psalm 35#^ps-35-10|Psalm 35:10]])
 - [[Psalm 70]] — 1 parallel verse, e.g. [[Psalm 35#^ps-35-4|Psalm 35:4]] ↔ [[Psalm 70#^ps-70-2|Psalm 70:2]]
+- [[Psalm 109]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

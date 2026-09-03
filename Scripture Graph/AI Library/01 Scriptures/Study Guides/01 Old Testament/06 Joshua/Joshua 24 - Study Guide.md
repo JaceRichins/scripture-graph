@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 24
 slug: josh-24
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -62,26 +62,26 @@ These features clearly form a covenant-renewal sequence. Comparisons with ancien
 - [[Exodus 14]] — 1 footnote cross-reference (from [[Joshua 24#^josh-24-6|Joshua 24:6]])
 - [[Numbers 21]] — 1 footnote cross-reference (from [[Joshua 24#^josh-24-8|Joshua 24:8]])
 - [[Amos 2]] — 1 footnote cross-reference (from [[Joshua 24#^josh-24-8|Joshua 24:8]])
+- [[Judges 2]] — 3 parallel verses, e.g. [[Joshua 24#^josh-24-31|Joshua 24:31]] ↔ [[Judges 2#^judg-2-7|Judges 2:7]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-11|Joshua 24:11]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
 - [[Joshua 23]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-1|Joshua 24:1]] ↔ [[Joshua 23#^josh-23-2|Joshua 23:2]]
 - [[Judges 6]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-15|Joshua 24:15]] ↔ [[Judges 6#^judg-6-10|Judges 6:10]]
+- [[D&C 85]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-26|Joshua 24:26]] ↔ [[D&C 85#^dc-85-5|D&C 85:5]]
 - [[Exodus 23]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-11|Joshua 24:11]] ↔ [[Exodus 23#^ex-23-23|Exodus 23:23]]
 - [[Genesis 22]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-29|Joshua 24:29]] ↔ [[Genesis 22#^gen-22-1|Genesis 22:1]]
-- [[D&C 85]] — 2 parallel verses, e.g. [[Joshua 24#^josh-24-26|Joshua 24:26]] ↔ [[D&C 85#^dc-85-5|D&C 85:5]]
 - [[1 Nephi 4]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-27|Joshua 24:27]] ↔ [[1 Nephi 4#^1ne-4-14|1 Nephi 4:14]]
 - [[Deuteronomy 5]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-17|Joshua 24:17]] ↔ [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6]]
 - [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-17|Joshua 24:17]] ↔ [[Deuteronomy 6#^deut-6-12|Deuteronomy 6:12]]
 - [[Deuteronomy 8]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-17|Joshua 24:17]] ↔ [[Deuteronomy 8#^deut-8-14|Deuteronomy 8:14]]
 - [[Deuteronomy 13]] — 1 parallel verse, e.g. [[Joshua 24#^josh-24-17|Joshua 24:17]] ↔ [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]]
-- [[Judges 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[Covenants]]
 - [[Records and Sacred Writings]]
 - [[Service]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

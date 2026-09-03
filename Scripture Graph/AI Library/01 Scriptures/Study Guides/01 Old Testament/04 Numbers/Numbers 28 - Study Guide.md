@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 28
 slug: num-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,8 +50,10 @@ The same animal pattern—two bullocks, one ram, and seven lambs—appears in th
 - [[Ezekiel 45]] — 2 footnote cross-references (from [[Numbers 28#^num-28-11|Numbers 28:11]])
 - [[Nehemiah 10]] — 1 footnote cross-reference (from [[Numbers 28#^num-28-8|Numbers 28:8]])
 - [[Matthew 12]] — 1 footnote cross-reference (from [[Numbers 28#^num-28-9|Numbers 28:9]])
+- [[Numbers 29]] — 60 parallel verses, e.g. [[Numbers 28#^num-28-20|Numbers 28:20]] ↔ [[Numbers 29#^num-29-3|Numbers 29:3]]
 - [[Numbers 7]] — 24 parallel verses, e.g. [[Numbers 28#^num-28-15|Numbers 28:15]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
 - [[Leviticus 23]] — 20 parallel verses, e.g. [[Numbers 28#^num-28-25|Numbers 28:25]] ↔ [[Leviticus 23#^lev-23-7|Leviticus 23:7]]
+- [[Numbers 15]] — 16 parallel verses, e.g. [[Numbers 28#^num-28-15|Numbers 28:15]] ↔ [[Numbers 15#^num-15-24|Numbers 15:24]]
 - [[Leviticus 1]] — 7 parallel verses, e.g. [[Numbers 28#^num-28-8|Numbers 28:8]] ↔ [[Leviticus 1#^lev-1-9|Leviticus 1:9]]
 - [[Leviticus 2]] — 4 parallel verses, e.g. [[Numbers 28#^num-28-8|Numbers 28:8]] ↔ [[Leviticus 2#^lev-2-2|Leviticus 2:2]]
 - [[Leviticus 14]] — 4 parallel verses, e.g. [[Numbers 28#^num-28-9|Numbers 28:9]] ↔ [[Leviticus 14#^lev-14-10|Leviticus 14:10]]
@@ -59,9 +61,7 @@ The same animal pattern—two bullocks, one ram, and seven lambs—appears in th
 - [[Exodus 29]] — 3 parallel verses, e.g. [[Numbers 28#^num-28-5|Numbers 28:5]] ↔ [[Exodus 29#^ex-29-40|Exodus 29:40]]
 - [[Numbers 18]] — 2 parallel verses, e.g. [[Numbers 28#^num-28-2|Numbers 28:2]] ↔ [[Numbers 18#^num-18-17|Numbers 18:17]]
 - [[Leviticus 9]] — 2 parallel verses, e.g. [[Numbers 28#^num-28-15|Numbers 28:15]] ↔ [[Leviticus 9#^lev-9-3|Leviticus 9:3]]
-- [[Leviticus 6]] — 2 parallel verses, e.g. [[Numbers 28#^num-28-5|Numbers 28:5]] ↔ [[Leviticus 6#^lev-6-20|Leviticus 6:20]]
-- [[Leviticus 17]] — 2 parallel verses, e.g. [[Numbers 28#^num-28-2|Numbers 28:2]] ↔ [[Leviticus 17#^lev-17-2|Leviticus 17:2]]
-- [[Numbers 10]] — 1 parallel verse, e.g. [[Numbers 28#^num-28-11|Numbers 28:11]] ↔ [[Numbers 10#^num-10-10|Numbers 10:10]]
+- [[Ezekiel 46]] — 2 parallel verses, e.g. [[Numbers 28#^num-28-11|Numbers 28:11]] ↔ [[Ezekiel 46#^ezek-46-13|Ezekiel 46:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

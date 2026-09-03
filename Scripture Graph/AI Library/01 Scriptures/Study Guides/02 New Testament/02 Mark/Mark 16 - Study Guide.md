@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 16
 slug: mark-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,11 +53,13 @@ _Not yet developed._
 - [[D&C 68]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-16|Mark 16:16]] ↔ [[D&C 68#^dc-68-9|D&C 68:9]]
 - [[D&C 112]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-16|Mark 16:16]] ↔ [[D&C 112#^dc-112-29|D&C 112:29]]
 - [[Matthew 28]] — 1 parallel verse, e.g. [[Mark 16#^mark-16-7|Mark 16:7]] ↔ [[Matthew 28#^matt-28-7|Matthew 28:7]]
-- [[D&C 84]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-17|Mark 16:17]] ↔ [[D&C 84#^dc-84-65|D&C 84:65]]
 - [[Luke 24]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-2|Mark 16:2]] ↔ [[Luke 24#^luke-24-1|Luke 24:1]]
 - [[Mark 15]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-1|Mark 16:1]] ↔ [[Mark 15#^mark-15-40|Mark 15:40]]
+- [[D&C 84]] — 2 parallel verses, e.g. [[Mark 16#^mark-16-17|Mark 16:17]] ↔ [[D&C 84#^dc-84-65|D&C 84:65]]
 - [[Matthew 27]] — 1 parallel verse, e.g. [[Mark 16#^mark-16-1|Mark 16:1]] ↔ [[Matthew 27#^matt-27-56|Matthew 27:56]]
 - [[D&C 80]] — 1 parallel verse, e.g. [[Mark 16#^mark-16-15|Mark 16:15]] ↔ [[D&C 80#^dc-80-1|D&C 80:1]]
+- [[Mormon 9]] — 0 parallel verses
+- [[D&C 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -90,12 +92,12 @@ _Not yet developed._
 - **A School and an Endowment** (history) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
+- **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
-- **Resurrection** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text
@@ -122,3 +124,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

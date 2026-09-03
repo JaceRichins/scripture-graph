@@ -42,7 +42,7 @@ cssclasses:
 > [[Jacob 5#^jacob-5-58|Jacob 5:58 (58, 77)]] · [[Deuteronomy 32#^deut-32-6|Deut. 32:6]]
 
 ![[Isaiah 27#^isa-27-12]]
-> [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Joel 3#^joel-3-18|≈ Joel 3:18]] · [[Zechariah 13#^zech-13-4|≈ Zechariah 13:4]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]]
+> [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]] · [[Zechariah 14#^zech-14-13|≈ Zechariah 14:13]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Joel 3#^joel-3-18|≈ Joel 3:18]]
 
 ![[Isaiah 27#^isa-27-13]]
-> [[Matthew 24#^matt-24-31|Matt. 24:31]] · [[D&C 49#^dc-49-23|D&amp;C 49:23 (23–28)]] · [[Psalm 2#^ps-2-6|Ps. 2:6]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Joel 3#^joel-3-18|≈ Joel 3:18]] · [[Zechariah 13#^zech-13-4|≈ Zechariah 13:4]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]]
+> [[Matthew 24#^matt-24-31|Matt. 24:31]] · [[D&C 49#^dc-49-23|D&amp;C 49:23 (23–28)]] · [[Psalm 2#^ps-2-6|Ps. 2:6]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]] · [[Zechariah 14#^zech-14-13|≈ Zechariah 14:13]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Joel 3#^joel-3-18|≈ Joel 3:18]]

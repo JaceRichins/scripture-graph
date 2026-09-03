@@ -49,7 +49,7 @@ cssclasses:
 > [[Alma 41#^alma-41-10|Alma 41:13 (10–15)]] · [[Daniel 12#^dan-12-10|Dan. 12:10]]
 
 ![[Revelation 22#^rev-22-12]]
-> [[1 Thessalonians 2#^1thes-2-19|1 Thes. 2:19]] · [[1 Thessalonians 3#^1thes-3-13|3:13]] · [[Revelation 1#^rev-1-7|Rev. 1:7]] · [[Alma 41#^alma-41-13|Alma 41:13]] · [[D&C 54#^dc-54-10|≈ D&C 54:10]] · [[D&C 112#^dc-112-34|≈ D&C 112:34]]
+> [[1 Thessalonians 2#^1thes-2-19|1 Thes. 2:19]] · [[1 Thessalonians 3#^1thes-3-13|3:13]] · [[Revelation 1#^rev-1-7|Rev. 1:7]] · [[Alma 41#^alma-41-13|Alma 41:13]] · [[D&C 112#^dc-112-34|≈ D&C 112:34]] · [[D&C 54#^dc-54-10|≈ D&C 54:10]]
 
 ![[Revelation 22#^rev-22-13]]
 > [[Revelation 1#^rev-1-8|≈ Revelation 1:8]] · [[Revelation 1#^rev-1-11|≈ Revelation 1:11]] · [[Revelation 21#^rev-21-6|≈ Revelation 21:6]] · [[3 Nephi 9#^3ne-9-18|≈ 3 Nephi 9:18]] · [[D&C 38#^dc-38-1|≈ D&C 38:1]] · [[D&C 45#^dc-45-7|≈ D&C 45:7]]
@@ -73,4 +73,4 @@ cssclasses:
 > [[D&C 33#^dc-33-18|D&amp;C 33:18]] · [[D&C 35#^dc-35-27|35:27]]
 
 ![[Revelation 22#^rev-22-21]]
-> [[Romans 16#^rom-16-20|Rom. 16:24 (20–24)]] · [[Romans 16#^rom-16-24|≈ Romans 16:24]] · [[Romans 16#^rom-16-20|≈ Romans 16:20]] · [[1 Corinthians 16#^1cor-16-23|≈ 1 Corinthians 16:23]] · [[Galatians 6#^gal-6-18|≈ Galatians 6:18]] · [[Philippians 4#^philip-4-23|≈ Philippians 4:23]] · [[1 Thessalonians 5#^1thes-5-28|≈ 1 Thessalonians 5:28]]
+> [[Romans 16#^rom-16-20|Rom. 16:24 (20–24)]] · [[Romans 16#^rom-16-24|≈ Romans 16:24]] · [[Romans 16#^rom-16-20|≈ Romans 16:20]] · [[1 Thessalonians 5#^1thes-5-28|≈ 1 Thessalonians 5:28]] · [[1 Corinthians 16#^1cor-16-23|≈ 1 Corinthians 16:23]] · [[Galatians 6#^gal-6-18|≈ Galatians 6:18]] · [[Philippians 4#^philip-4-23|≈ Philippians 4:23]]

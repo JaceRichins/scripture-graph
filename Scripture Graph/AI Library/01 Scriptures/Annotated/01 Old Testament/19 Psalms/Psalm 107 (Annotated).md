@@ -17,7 +17,7 @@ cssclasses:
 > The people of Israel are to praise and thank the Lord when they are gathered and redeemed—Oh, that men would praise the Lord!—The Lord’s providences prevail in the lives of men.
 
 ![[Psalm 107#^ps-107-1]]
-> [[Psalm 118#^ps-118-29|≈ Psalm 118:29]] · [[Psalm 118#^ps-118-1|≈ Psalm 118:1]] · [[Psalm 136#^ps-136-1|≈ Psalm 136:1]] · [[1 Chronicles 16#^1chr-16-34|≈ 1 Chronicles 16:34]] · [[Psalm 106#^ps-106-1|≈ Psalm 106:1]] · [[2 Chronicles 5#^2chr-5-13|≈ 2 Chronicles 5:13]]
+> [[Psalm 118#^ps-118-29|≈ Psalm 118:29]] · [[Psalm 118#^ps-118-1|≈ Psalm 118:1]] · [[Psalm 136#^ps-136-1|≈ Psalm 136:1]] · [[Psalm 106#^ps-106-1|≈ Psalm 106:1]] · [[1 Chronicles 16#^1chr-16-34|≈ 1 Chronicles 16:34]] · [[2 Chronicles 5#^2chr-5-13|≈ 2 Chronicles 5:13]]
 
 ![[Psalm 107#^ps-107-2]]
 > [[Deuteronomy 7#^deut-7-7|Deut. 7:8 (7–8)]] · [[3 Nephi 9#^3ne-9-15|3 Ne. 9:17 (15–17)]]

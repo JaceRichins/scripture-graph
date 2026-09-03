@@ -20,7 +20,7 @@ cssclasses:
 > [[Jeremiah 38#^jer-38-11|≈ Jeremiah 38:11]] · [[2 Kings 19#^2kgs-19-1|≈ 2 Kings 19:1]]
 
 ![[Isaiah 37#^isa-37-2]]
-> [[Isaiah 38#^isa-38-1|≈ Isaiah 38:1]] · [[2 Kings 19#^2kgs-19-2|≈ 2 Kings 19:2]] · [[2 Kings 18#^2kgs-18-18|≈ 2 Kings 18:18]] · [[2 Kings 18#^2kgs-18-37|≈ 2 Kings 18:37]] · [[2 Chronicles 32#^2chr-32-32|≈ 2 Chronicles 32:32]] · [[Isaiah 36#^isa-36-22|≈ Isaiah 36:22]]
+> [[Isaiah 38#^isa-38-1|≈ Isaiah 38:1]] · [[2 Chronicles 32#^2chr-32-32|≈ 2 Chronicles 32:32]] · [[2 Kings 19#^2kgs-19-2|≈ 2 Kings 19:2]] · [[2 Kings 18#^2kgs-18-18|≈ 2 Kings 18:18]] · [[2 Kings 18#^2kgs-18-37|≈ 2 Kings 18:37]] · [[Isaiah 36#^isa-36-22|≈ Isaiah 36:22]]
 
 ![[Isaiah 37#^isa-37-3]]
 > [[Isaiah 22#^isa-22-5|Isa. 22:5]] · [[Hosea 13#^hosea-13-9|Hosea 13:13 (9–14)]] · [[2 Kings 19#^2kgs-19-3|≈ 2 Kings 19:3]]
@@ -43,7 +43,7 @@ cssclasses:
 ![[Isaiah 37#^isa-37-9]]
 
 ![[Isaiah 37#^isa-37-10]]
-> [[Isaiah 38#^isa-38-6|≈ Isaiah 38:6]] · [[Jeremiah 38#^jer-38-3|≈ Jeremiah 38:3]] · [[2 Kings 19#^2kgs-19-10|≈ 2 Kings 19:10]] · [[2 Kings 18#^2kgs-18-30|≈ 2 Kings 18:30]] · [[2 Kings 18#^2kgs-18-33|≈ 2 Kings 18:33]] · [[2 Kings 20#^2kgs-20-6|≈ 2 Kings 20:6]]
+> [[Isaiah 38#^isa-38-6|≈ Isaiah 38:6]] · [[Jeremiah 38#^jer-38-3|≈ Jeremiah 38:3]] · [[2 Chronicles 32#^2chr-32-11|≈ 2 Chronicles 32:11]] · [[2 Kings 19#^2kgs-19-10|≈ 2 Kings 19:10]] · [[2 Kings 18#^2kgs-18-30|≈ 2 Kings 18:30]] · [[2 Kings 18#^2kgs-18-33|≈ 2 Kings 18:33]]
 
 ![[Isaiah 37#^isa-37-11]]
 > [[2 Kings 19#^2kgs-19-11|≈ 2 Kings 19:11]]

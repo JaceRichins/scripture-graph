@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 27
 slug: ex-27
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,16 +46,16 @@ _Not yet developed._
 - [[Ezekiel 9]] — 1 footnote cross-reference (from [[Exodus 27#^ex-27-1|Exodus 27:1]])
 - [[Alma 15]] — 1 footnote cross-reference (from [[Exodus 27#^ex-27-1|Exodus 27:1]])
 - [[1 Kings 1]] — 1 footnote cross-reference (from [[Exodus 27#^ex-27-2|Exodus 27:2]])
+- [[Exodus 38]] — 16 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 38#^ex-38-18|Exodus 38:18]]
 - [[Exodus 39]] — 4 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 39#^ex-39-2|Exodus 39:2]]
 - [[Exodus 25]] — 5 parallel verses, e.g. [[Exodus 27#^ex-27-6|Exodus 27:6]] ↔ [[Exodus 25#^ex-25-13|Exodus 25:13]]
 - [[Exodus 26]] — 3 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 26#^ex-26-36|Exodus 26:36]]
+- [[Leviticus 24]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-20|Exodus 27:20]] ↔ [[Leviticus 24#^lev-24-2|Leviticus 24:2]]
 - [[Exodus 28]] — 3 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 28#^ex-28-8|Exodus 28:8]]
 - [[Exodus 36]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 36#^ex-36-35|Exodus 36:35]]
 - [[Leviticus 23]] — 4 parallel verses, e.g. [[Exodus 27#^ex-27-21|Exodus 27:21]] ↔ [[Leviticus 23#^lev-23-14|Leviticus 23:14]]
 - [[Exodus 30]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-6|Exodus 27:6]] ↔ [[Exodus 30#^ex-30-5|Exodus 30:5]]
 - [[Exodus 35]] — 2 parallel verses, e.g. [[Exodus 27#^ex-27-16|Exodus 27:16]] ↔ [[Exodus 35#^ex-35-6|Exodus 35:6]]
-- [[Leviticus 24]] — 0 parallel verses
-- [[Exodus 38]] — 0 parallel verses
 - [[Exodus 25]] — 0 parallel verses
 - [[Exodus 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -79,7 +79,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

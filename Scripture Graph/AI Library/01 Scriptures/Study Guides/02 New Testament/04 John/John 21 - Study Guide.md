@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 21
 slug: john-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,8 @@ _Not yet developed._
 - [[1 Peter 5]] — 1 footnote cross-reference (from [[John 21#^john-21-16|John 21:16]])
 - [[D&C 112]] — 1 footnote cross-reference (from [[John 21#^john-21-16|John 21:16]])
 - [[D&C 7]] — 2 parallel verses, e.g. [[John 21#^john-21-22|John 21:22]] ↔ [[D&C 7#^dc-7-4|D&C 7:4]]
+- [[D&C 112]] — 0 parallel verses
+- [[3 Nephi 28]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -62,7 +64,9 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The First Great Commandment (Elder Jeffrey R. Holland, October 2012)|The First Great Commandment]] — Elder Jeffrey R. Holland, 2012-October *(explicit citation)*
 - [[“Lovest Thou Me More Than These” (President M. Russell Ballard, October 2021)|“Lovest Thou Me More Than These?”]] — President M. Russell Ballard, 2021-October *(explicit citation)*
+- [[Being a More Christian Christian (Elder Robert D. Hales, October 2012)|Being a More Christian Christian]] — Elder Robert D. Hales, 2012-October *(explicit citation)*
 - [[Becoming a Shepherd (Bonnie H. Cordon, October 2018)|Becoming a Shepherd]] — Bonnie H. Cordon, 2018-October *(explicit citation)*
 - [[I Pray He’ll Use Us (Sharon Eubank, October 2021)|I Pray He’ll Use Us]] — Sharon Eubank, 2021-October *(explicit citation)*
 - [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
@@ -70,8 +74,6 @@ _Not yet developed._
 - [[God’s Favourite (Elder Karl D. Hirst, October 2024)|God’s Favourite]] — Elder Karl D. Hirst, 2024-October *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
 - [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
-- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
-- [[God Will Do Something Unimaginable (Elder Dieter F. Uchtdorf, October 2020)|God Will Do Something Unimaginable]] — Elder Dieter F. Uchtdorf, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

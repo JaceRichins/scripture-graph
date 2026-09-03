@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 21
 slug: rev-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,8 @@ _Not yet developed._
 - [[D&C 45]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[D&C 84]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[D&C 84#^dc-84-120|D&C 84:120]]
 - [[Revelation 1]] — 1 parallel verse, e.g. [[Revelation 21#^rev-21-6|Revelation 21:6]] ↔ [[Revelation 1#^rev-1-8|Revelation 1:8]]
+- [[Ezekiel 48]] — 0 parallel verses
+- [[2 Peter 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

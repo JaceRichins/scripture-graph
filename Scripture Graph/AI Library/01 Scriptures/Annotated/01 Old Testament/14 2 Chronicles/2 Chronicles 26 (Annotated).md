@@ -26,7 +26,7 @@ cssclasses:
 > [[2 Kings 15#^2kgs-15-2|≈ 2 Kings 15:2]] · [[2 Kings 15#^2kgs-15-33|≈ 2 Kings 15:33]] · [[2 Kings 18#^2kgs-18-2|≈ 2 Kings 18:2]] · [[2 Kings 22#^2kgs-22-1|≈ 2 Kings 22:1]] · [[2 Chronicles 27#^2chr-27-1|≈ 2 Chronicles 27:1]] · [[2 Chronicles 28#^2chr-28-1|≈ 2 Chronicles 28:1]]
 
 ![[2 Chronicles 26#^2chr-26-4]]
-> [[2 Kings 12#^2kgs-12-2|≈ 2 Kings 12:2]] · [[2 Kings 14#^2kgs-14-3|≈ 2 Kings 14:3]] · [[2 Kings 15#^2kgs-15-3|≈ 2 Kings 15:3]] · [[2 Kings 15#^2kgs-15-34|≈ 2 Kings 15:34]] · [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]] · [[2 Kings 22#^2kgs-22-2|≈ 2 Kings 22:2]]
+> [[2 Kings 15#^2kgs-15-3|≈ 2 Kings 15:3]] · [[2 Kings 15#^2kgs-15-34|≈ 2 Kings 15:34]] · [[2 Kings 12#^2kgs-12-2|≈ 2 Kings 12:2]] · [[2 Kings 14#^2kgs-14-3|≈ 2 Kings 14:3]] · [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]] · [[2 Kings 22#^2kgs-22-2|≈ 2 Kings 22:2]]
 
 ![[2 Chronicles 26#^2chr-26-5]]
 > [[2 Nephi 4#^2ne-4-23|2 Ne. 4:23]] · [[Helaman 12#^hel-12-1|Hel. 12:1 (1–2)]]
@@ -71,4 +71,4 @@ cssclasses:
 > [[2 Chronicles 32#^2chr-32-32|≈ 2 Chronicles 32:32]]
 
 ![[2 Chronicles 26#^2chr-26-23]]
-> [[2 Kings 12#^2kgs-12-21|≈ 2 Kings 12:21]] · [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[2 Chronicles 27#^2chr-27-9|≈ 2 Chronicles 27:9]] · [[2 Chronicles 28#^2chr-28-27|≈ 2 Chronicles 28:27]] · [[2 Chronicles 33#^2chr-33-20|≈ 2 Chronicles 33:20]] · [[2 Chronicles 32#^2chr-32-33|≈ 2 Chronicles 32:33]]
+> [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[2 Kings 12#^2kgs-12-21|≈ 2 Kings 12:21]] · [[2 Chronicles 27#^2chr-27-9|≈ 2 Chronicles 27:9]] · [[2 Chronicles 28#^2chr-28-27|≈ 2 Chronicles 28:27]] · [[2 Chronicles 33#^2chr-33-20|≈ 2 Chronicles 33:20]] · [[2 Chronicles 32#^2chr-32-33|≈ 2 Chronicles 32:33]]

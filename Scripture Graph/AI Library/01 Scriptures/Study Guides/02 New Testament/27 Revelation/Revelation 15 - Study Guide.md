@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 15
 slug: rev-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -41,6 +41,7 @@ _Not yet developed._
 - [[D&C 130]] — 1 footnote cross-reference (from [[Revelation 15#^rev-15-2|Revelation 15:2]])
 - [[D&C 76]] — 1 footnote cross-reference (from [[Revelation 15#^rev-15-3|Revelation 15:3]])
 - [[Psalm 99]] — 1 footnote cross-reference (from [[Revelation 15#^rev-15-4|Revelation 15:4]])
+- [[Revelation 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

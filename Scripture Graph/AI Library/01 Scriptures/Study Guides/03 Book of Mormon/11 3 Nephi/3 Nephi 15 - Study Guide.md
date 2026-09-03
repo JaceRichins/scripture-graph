@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 15
 slug: 3ne-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,30 +54,30 @@ Scripture: [[3 Nephi 15]] · My notes: [[3 Nephi 15 - My Notes]]
 - [[Mosiah 13]] — 2 footnote cross-references (from [[3 Nephi 15#^3ne-15-4|3 Nephi 15:4]])
 - [[3 Nephi 5]] — 2 footnote cross-references (from [[3 Nephi 15#^3ne-15-8|3 Nephi 15:8]])
 - [[James 1]] — 1 footnote cross-reference (from [[3 Nephi 15#^3ne-15-1|3 Nephi 15:1]])
+- [[John 10]] — 2 parallel verses, e.g. [[3 Nephi 15#^3ne-15-17|3 Nephi 15:17]] ↔ [[John 10#^john-10-16|John 10:16]]
+- [[3 Nephi 20]] — 3 parallel verses, e.g. [[3 Nephi 15#^3ne-15-12|3 Nephi 15:12]] ↔ [[3 Nephi 20#^3ne-20-10|3 Nephi 20:10]]
 - [[3 Nephi 18]] — 3 parallel verses, e.g. [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]] ↔ [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]]
 - [[3 Nephi 14]] — 4 parallel verses, e.g. [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]] ↔ [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]]
 - [[3 Nephi 17]] — 3 parallel verses, e.g. [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]] ↔ [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]]
 - [[1 Nephi 22]] — 2 parallel verses, e.g. [[3 Nephi 15#^3ne-15-17|3 Nephi 15:17]] ↔ [[1 Nephi 22#^1ne-22-25|1 Nephi 22:25]]
+- [[3 Nephi 21]] — 2 parallel verses, e.g. [[3 Nephi 15#^3ne-15-12|3 Nephi 15:12]] ↔ [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]]
 - [[Matthew 7]] — 3 parallel verses, e.g. [[3 Nephi 15#^3ne-15-10|3 Nephi 15:10]] ↔ [[Matthew 7#^matt-7-12|Matthew 7:12]]
 - [[3 Nephi 23]] — 2 parallel verses, e.g. [[3 Nephi 15#^3ne-15-2|3 Nephi 15:2]] ↔ [[3 Nephi 23#^3ne-23-6|3 Nephi 23:6]]
 - [[3 Nephi 28]] — 2 parallel verses, e.g. [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]] ↔ [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]]
 - [[3 Nephi 16]] — 2 parallel verses, e.g. [[3 Nephi 15#^3ne-15-17|3 Nephi 15:17]] ↔ [[3 Nephi 16#^3ne-16-3|3 Nephi 16:3]]
 - [[3 Nephi 13]] — 1 parallel verse, e.g. [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
-- [[3 Nephi 27]] — 1 parallel verse, e.g. [[3 Nephi 15#^3ne-15-1|3 Nephi 15:1]] ↔ [[3 Nephi 27#^3ne-27-33|3 Nephi 27:33]]
-- [[Mosiah 4]] — 1 parallel verse, e.g. [[3 Nephi 15#^3ne-15-1|3 Nephi 15:1]] ↔ [[Mosiah 4#^mosiah-4-1|Mosiah 4:1]]
-- [[3 Nephi 11]] — 1 parallel verse, e.g. [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]] ↔ [[3 Nephi 11#^3ne-11-12|3 Nephi 11:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Sermon at the Temple (3 Nephi)]]
 - [[Law of Moses]]
-- [[Jews and Gentiles]]
 - [[Scattering of Israel]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Covenants]]
 - [[Prophecy]]
 - [[Endurance]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -94,10 +94,12 @@ The second half joins [[Scattering of Israel]] and [[Gathering of Israel]]. Sepa
 - [[Look to God and Live (Elder D. Todd Christofferson, October 2025)|Look to God and Live]] — Elder D. Todd Christofferson, 2025-October *(explicit citation)*
 - [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
 - [[All Who Have Endured Valiantly (Elder David A. Bednar, April 2026)|All Who Have Endured Valiantly]] — Elder David A. Bednar, 2026-April *(explicit citation)*
+- [[Believe, Obey, and Endure (President Thomas S. Monson, April 2012)|Believe, Obey, and Endure]] — President Thomas S. Monson, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **07 Fellow Servants** (history) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

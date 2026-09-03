@@ -35,7 +35,7 @@ cssclasses:
 > [[Isaiah 7#^isa-7-23|Isa. 7:23 (23–24)]] · [[Isaiah 32#^isa-32-13|32:13]] · [[Leviticus 26#^lev-26-4|Lev. 26:4]] · [[Jeremiah 3#^jer-3-3|Jer. 3:3]] · [[Isaiah 5#^isa-5-6|≈ Isaiah 5:6]]
 
 ![[2 Nephi 15#^2ne-15-7]]
-> [[Amos 5#^amos-5-24|Amos 5:24]] · [[Isaiah 5#^isa-5-7|≈ Isaiah 5:7]] · [[Isaiah 9#^isa-9-19|≈ Isaiah 9:19]] · [[2 Nephi 19#^2ne-19-19|≈ 2 Nephi 19:19]]
+> [[Amos 5#^amos-5-24|Amos 5:24]] · [[2 Nephi 19#^2ne-19-19|≈ 2 Nephi 19:19]] · [[Isaiah 5#^isa-5-7|≈ Isaiah 5:7]] · [[Isaiah 9#^isa-9-19|≈ Isaiah 9:19]]
 
 ![[2 Nephi 15#^2ne-15-8]]
 > [[Micah 2#^micah-2-2|Micah 2:2]] · [[Isaiah 5#^isa-5-8|≈ Isaiah 5:8]]
@@ -89,7 +89,7 @@ cssclasses:
 > [[Obadiah 1#^obad-1-18|Obad. 1:18]] · [[2 Nephi 20#^2ne-20-17|2 Ne. 20:17]] · [[3 Nephi 20#^3ne-20-16|3 Ne. 20:16]] · [[Joel 2#^joel-2-5|Joel 2:5]] · [[1 Nephi 22#^1ne-22-15|1 Ne. 22:15 (15, 23)]] · [[2 Nephi 26#^2ne-26-4|2 Ne. 26:6 (4, 6)]] · [[D&C 64#^dc-64-23|D&amp;C 64:24 (23–24)]] · [[D&C 133#^dc-133-64|133:64]] · [[Luke 3#^luke-3-17|Luke 3:17]] · [[Mosiah 7#^mosiah-7-29|Mosiah 7:30 (29–31)]]
 
 ![[2 Nephi 15#^2ne-15-25]]
-> [[Deuteronomy 32#^deut-32-21|Deut. 32:21]] · [[D&C 63#^dc-63-32|D&amp;C 63:32]] · [[Moses 6#^moses-6-27|Moses 6:27]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]] · [[Isaiah 9#^isa-9-12|≈ Isaiah 9:12]] · [[Isaiah 9#^isa-9-17|≈ Isaiah 9:17]] · [[Isaiah 9#^isa-9-21|≈ Isaiah 9:21]] · [[2 Nephi 19#^2ne-19-12|≈ 2 Nephi 19:12]] · [[2 Nephi 19#^2ne-19-17|≈ 2 Nephi 19:17]]
+> [[Deuteronomy 32#^deut-32-21|Deut. 32:21]] · [[D&C 63#^dc-63-32|D&amp;C 63:32]] · [[Moses 6#^moses-6-27|Moses 6:27]] · [[2 Nephi 19#^2ne-19-12|≈ 2 Nephi 19:12]] · [[2 Nephi 19#^2ne-19-17|≈ 2 Nephi 19:17]] · [[2 Nephi 19#^2ne-19-21|≈ 2 Nephi 19:21]] · [[2 Nephi 20#^2ne-20-4|≈ 2 Nephi 20:4]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]] · [[Isaiah 9#^isa-9-12|≈ Isaiah 9:12]]
 
 ![[2 Nephi 15#^2ne-15-26]]
 > [[2 Nephi 29#^2ne-29-2|2 Ne. 29:2]] · [[Isaiah 5#^isa-5-26|≈ Isaiah 5:26]] · [[Isaiah 5#^isa-5-27|≈ Isaiah 5:27]]

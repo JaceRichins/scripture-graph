@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 12
 slug: jer-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Jeremiah 22]] — 1 footnote cross-reference (from [[Jeremiah 12#^jer-12-7|Jeremiah 12:7]])
 - [[Matthew 23]] — 1 footnote cross-reference (from [[Jeremiah 12#^jer-12-7|Jeremiah 12:7]])
 - [[Exodus 4]] — 2 parallel verses, e.g. [[Jeremiah 12#^jer-12-16|Jeremiah 12:16]] ↔ [[Exodus 4#^ex-4-8|Exodus 4:8]]
+- [[Jeremiah 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 106
 slug: ps-106
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,11 +60,11 @@ Scripture: [[Psalm 106]] · My notes: [[Psalm 106 - My Notes]]
 - [[Psalm 119]] — 1 footnote cross-reference (from [[Psalm 106#^ps-106-1|Psalm 106:1]])
 - [[Jacob 4]] — 1 footnote cross-reference (from [[Psalm 106#^ps-106-2|Psalm 106:2]])
 - [[Psalm 118]] — 2 parallel verses, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Psalm 118#^ps-118-29|Psalm 118:29]]
+- [[Psalm 107]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Psalm 107#^ps-107-1|Psalm 107:1]]
+- [[Psalm 136]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]
 - [[1 Chronicles 16]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
 - [[2 Chronicles 5]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
 - [[2 Chronicles 7]] — 1 parallel verse, e.g. [[Psalm 106#^ps-106-1|Psalm 106:1]] ↔ [[2 Chronicles 7#^2chr-7-3|2 Chronicles 7:3]]
-- [[Psalm 107]] — 0 parallel verses
-- [[Psalm 136]] — 0 parallel verses
 - [[Psalm 105]] — 0 parallel verses
 - [[Psalm 78]] — 0 parallel verses
 - [[Nehemiah 9]] — 0 parallel verses

@@ -29,7 +29,7 @@ cssclasses:
 > [[Ezekiel 16#^ezek-16-2|Ezek. 16:2]]
 
 ![[Ezekiel 20#^ezek-20-5]]
-> [[Exodus 20#^ex-20-2|Ex. 20:2]] · [[Ezekiel 37#^ezek-37-12|≈ Ezekiel 37:12]] · [[Ezekiel 37#^ezek-37-21|≈ Ezekiel 37:21]] · [[Ezekiel 37#^ezek-37-19|≈ Ezekiel 37:19]] · [[Ezekiel 33#^ezek-33-25|≈ Ezekiel 33:25]] · [[Ezekiel 34#^ezek-34-2|≈ Ezekiel 34:2]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]]
+> [[Exodus 20#^ex-20-2|Ex. 20:2]] · [[Ezekiel 37#^ezek-37-12|≈ Ezekiel 37:12]] · [[Ezekiel 37#^ezek-37-21|≈ Ezekiel 37:21]] · [[Ezekiel 37#^ezek-37-19|≈ Ezekiel 37:19]] · [[Ezekiel 36#^ezek-36-33|≈ Ezekiel 36:33]] · [[Ezekiel 33#^ezek-33-25|≈ Ezekiel 33:25]] · [[Ezekiel 34#^ezek-34-2|≈ Ezekiel 34:2]]
 
 ![[Ezekiel 20#^ezek-20-6]]
 > [[Abraham 2#^abr-2-6|Abr. 2:6]] · [[Psalm 48#^ps-48-2|Ps. 48:2]]
@@ -67,7 +67,7 @@ cssclasses:
 > [[Helaman 15#^hel-15-4|Hel. 15:4]] · [[D&C 93#^dc-93-39|D&amp;C 93:39]]
 
 ![[Ezekiel 20#^ezek-20-19]]
-> [[Deuteronomy 5#^deut-5-31|Deut. 5:31]] · [[Deuteronomy 6#^deut-6-1|6:1]] · [[Leviticus 26#^lev-26-3|≈ Leviticus 26:3]] · [[Leviticus 25#^lev-25-18|≈ Leviticus 25:18]] · [[Ezekiel 36#^ezek-36-27|≈ Ezekiel 36:27]]
+> [[Deuteronomy 5#^deut-5-31|Deut. 5:31]] · [[Deuteronomy 6#^deut-6-1|6:1]] · [[Ezekiel 36#^ezek-36-27|≈ Ezekiel 36:27]] · [[Leviticus 26#^lev-26-3|≈ Leviticus 26:3]] · [[Leviticus 25#^lev-25-18|≈ Leviticus 25:18]]
 
 ![[Ezekiel 20#^ezek-20-20]]
 > [[Exodus 31#^ex-31-13|≈ Exodus 31:13]]
@@ -95,10 +95,10 @@ cssclasses:
 ![[Ezekiel 20#^ezek-20-29]]
 
 ![[Ezekiel 20#^ezek-20-30]]
-> [[Ezekiel 24#^ezek-24-21|≈ Ezekiel 24:21]] · [[Ezekiel 36#^ezek-36-22|≈ Ezekiel 36:22]] · [[Ezekiel 44#^ezek-44-6|≈ Ezekiel 44:6]] · [[Ezekiel 14#^ezek-14-6|≈ Ezekiel 14:6]]
+> [[Ezekiel 36#^ezek-36-22|≈ Ezekiel 36:22]] · [[Ezekiel 24#^ezek-24-21|≈ Ezekiel 24:21]] · [[Ezekiel 44#^ezek-44-6|≈ Ezekiel 44:6]] · [[Ezekiel 14#^ezek-14-6|≈ Ezekiel 14:6]]
 
 ![[Ezekiel 20#^ezek-20-31]]
-> [[Ezekiel 33#^ezek-33-11|≈ Ezekiel 33:11]] · [[Ezekiel 34#^ezek-34-8|≈ Ezekiel 34:8]] · [[Ezekiel 5#^ezek-5-11|≈ Ezekiel 5:11]] · [[Ezekiel 35#^ezek-35-6|≈ Ezekiel 35:6]] · [[Ezekiel 35#^ezek-35-11|≈ Ezekiel 35:11]] · [[Ezekiel 14#^ezek-14-16|≈ Ezekiel 14:16]]
+> [[Ezekiel 33#^ezek-33-11|≈ Ezekiel 33:11]] · [[Ezekiel 34#^ezek-34-8|≈ Ezekiel 34:8]] · [[Ezekiel 5#^ezek-5-11|≈ Ezekiel 5:11]] · [[Ezekiel 35#^ezek-35-6|≈ Ezekiel 35:6]] · [[Ezekiel 35#^ezek-35-11|≈ Ezekiel 35:11]] · [[Ezekiel 16#^ezek-16-48|≈ Ezekiel 16:48]]
 
 ![[Ezekiel 20#^ezek-20-32]]
 > [[Psalm 94#^ps-94-11|Ps. 94:11]] · [[Ezekiel 11#^ezek-11-5|Ezek. 11:5]]
@@ -121,7 +121,7 @@ cssclasses:
 > [[Ezekiel 34#^ezek-34-17|Ezek. 34:17 (17, 20, 22)]] · [[Ezekiel 13#^ezek-13-9|Ezek. 13:9]] · [[Ezekiel 11#^ezek-11-10|≈ Ezekiel 11:10]] · [[Ezekiel 13#^ezek-13-9|≈ Ezekiel 13:9]]
 
 ![[Ezekiel 20#^ezek-20-39]]
-> [[Ezekiel 39#^ezek-39-7|Ezek. 39:7]] · [[Ezekiel 43#^ezek-43-7|43:7]] · [[D&C 1#^dc-1-16|D&amp;C 1:16]] · [[Leviticus 26#^lev-26-14|≈ Leviticus 26:14]] · [[Ezekiel 24#^ezek-24-21|≈ Ezekiel 24:21]] · [[Ezekiel 36#^ezek-36-22|≈ Ezekiel 36:22]] · [[Ezekiel 44#^ezek-44-6|≈ Ezekiel 44:6]] · [[Ezekiel 14#^ezek-14-6|≈ Ezekiel 14:6]]
+> [[Ezekiel 39#^ezek-39-7|Ezek. 39:7]] · [[Ezekiel 43#^ezek-43-7|43:7]] · [[D&C 1#^dc-1-16|D&amp;C 1:16]] · [[Ezekiel 36#^ezek-36-22|≈ Ezekiel 36:22]] · [[Leviticus 26#^lev-26-14|≈ Leviticus 26:14]] · [[Ezekiel 24#^ezek-24-21|≈ Ezekiel 24:21]] · [[Ezekiel 44#^ezek-44-6|≈ Ezekiel 44:6]] · [[Ezekiel 14#^ezek-14-6|≈ Ezekiel 14:6]]
 
 ![[Ezekiel 20#^ezek-20-40]]
 > [[Isaiah 56#^isa-56-7|Isa. 56:7]] · [[Isaiah 60#^isa-60-7|Isa. 60:7]] · [[Malachi 3#^mal-3-4|Mal. 3:4]] · [[Ezekiel 17#^ezek-17-23|≈ Ezekiel 17:23]]
@@ -130,7 +130,7 @@ cssclasses:
 > [[Ezekiel 11#^ezek-11-17|≈ Ezekiel 11:17]]
 
 ![[Ezekiel 20#^ezek-20-42]]
-> [[3 Nephi 16#^3ne-16-4|3 Ne. 16:4 (4–5)]] · [[3 Nephi 20#^3ne-20-13|20:13]] · [[Ezekiel 37#^ezek-37-13|≈ Ezekiel 37:13]] · [[Ezekiel 37#^ezek-37-12|≈ Ezekiel 37:12]] · [[Ezekiel 25#^ezek-25-17|≈ Ezekiel 25:17]] · [[Ezekiel 30#^ezek-30-25|≈ Ezekiel 30:25]] · [[Ezekiel 47#^ezek-47-14|≈ Ezekiel 47:14]] · [[Ezekiel 13#^ezek-13-9|≈ Ezekiel 13:9]]
+> [[3 Nephi 16#^3ne-16-4|3 Ne. 16:4 (4–5)]] · [[3 Nephi 20#^3ne-20-13|20:13]] · [[Ezekiel 37#^ezek-37-13|≈ Ezekiel 37:13]] · [[Ezekiel 37#^ezek-37-12|≈ Ezekiel 37:12]] · [[Ezekiel 25#^ezek-25-17|≈ Ezekiel 25:17]] · [[Ezekiel 30#^ezek-30-25|≈ Ezekiel 30:25]] · [[Ezekiel 47#^ezek-47-14|≈ Ezekiel 47:14]] · [[Ezekiel 12#^ezek-12-15|≈ Ezekiel 12:15]]
 
 ![[Ezekiel 20#^ezek-20-43]]
 > [[Mosiah 2#^mosiah-2-40|Mosiah 2:40]] · [[Alma 5#^alma-5-7|Alma 5:18 (7–18)]] · [[Ezekiel 36#^ezek-36-31|≈ Ezekiel 36:31]]

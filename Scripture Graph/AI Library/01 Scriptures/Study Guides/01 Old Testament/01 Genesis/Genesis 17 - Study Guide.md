@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 17
 slug: gen-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
 - [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
 - [[The Sacred Place of Restoration (Elder Jairo Mazzagardi, April 2016)|The Sacred Place of Restoration]] — Elder Jairo Mazzagardi, 2016-April *(explicit citation)*
 - [[When to Receive Your Patriarchal Blessing (Elder Kazuhiko Yamashita, April 2023)|When to Receive Your Patriarchal Blessing]] — Elder Kazuhiko Yamashita, 2023-April *(explicit citation)*
@@ -80,10 +81,14 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
+- **11 Ye Shall Receive My Law** (history) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
+- **Abel** (reference-entry) *(explicit citation)*
+- **Abraham, covenant of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

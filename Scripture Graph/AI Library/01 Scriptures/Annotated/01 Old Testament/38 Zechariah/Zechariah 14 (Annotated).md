@@ -32,7 +32,7 @@ cssclasses:
 > [[Amos 1#^amos-1-1|Amos 1:1]] · [[1 Thessalonians 4#^1thes-4-14|1 Thes. 4:14]] · [[1 Thessalonians 4#^1thes-4-17|JST 1 Thes. 4:17 (1 Thes. 4:17 note a)]] · [[Amos 1#^amos-1-1|≈ Amos 1:1]]
 
 ![[Zechariah 14#^zech-14-6]]
-> [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Isaiah 10#^isa-10-20|≈ Isaiah 10:20]] · [[Isaiah 10#^isa-10-27|≈ Isaiah 10:27]] · [[Isaiah 11#^isa-11-11|≈ Isaiah 11:11]]
+> [[Isaiah 27#^isa-27-12|≈ Isaiah 27:12]] · [[Isaiah 27#^isa-27-13|≈ Isaiah 27:13]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Isaiah 10#^isa-10-20|≈ Isaiah 10:20]]
 
 ![[Zechariah 14#^zech-14-7]]
 
@@ -51,7 +51,7 @@ cssclasses:
 > [[D&C 29#^dc-29-17|D&amp;C 29:18 (17–19)]]
 
 ![[Zechariah 14#^zech-14-13]]
-> [[Haggai 2#^hag-2-22|Hag. 2:22]] · [[D&C 45#^dc-45-33|D&amp;C 45:68 (33, 68)]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Isaiah 10#^isa-10-20|≈ Isaiah 10:20]] · [[Isaiah 10#^isa-10-27|≈ Isaiah 10:27]] · [[Isaiah 11#^isa-11-11|≈ Isaiah 11:11]]
+> [[Haggai 2#^hag-2-22|Hag. 2:22]] · [[D&C 45#^dc-45-33|D&amp;C 45:68 (33, 68)]] · [[Isaiah 27#^isa-27-12|≈ Isaiah 27:12]] · [[Isaiah 27#^isa-27-13|≈ Isaiah 27:13]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Isaiah 10#^isa-10-20|≈ Isaiah 10:20]]
 
 ![[Zechariah 14#^zech-14-14]]
 

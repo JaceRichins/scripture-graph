@@ -31,7 +31,7 @@ cssclasses:
 > [[D&C 107#^dc-107-91|D&amp;C 107:91 (91–92)]] · [[Deuteronomy 31#^deut-31-6|Deut. 31:8 (6–8, 23)]] · [[Joshua 6#^josh-6-27|Josh. 6:27]] · [[Judges 6#^judg-6-16|Judg. 6:16]] · [[1 Kings 6#^1kgs-6-13|1 Kgs. 6:13]] · [[Hebrews 13#^heb-13-5|Heb. 13:5]] · [[D&C 88#^dc-88-83|D&amp;C 88:83]] · [[Joshua 3#^josh-3-7|≈ Joshua 3:7]] · [[Deuteronomy 31#^deut-31-6|≈ Deuteronomy 31:6]]
 
 ![[Joshua 1#^josh-1-6]]
-> [[D&C 52#^dc-52-17|D&amp;C 52:17]] · [[D&C 66#^dc-66-8|66:8]] · [[D&C 133#^dc-133-58|133:58]] · [[Ezekiel 47#^ezek-47-22|Ezek. 47:22]] · [[Deuteronomy 11#^deut-11-8|Deut. 11:8]] · [[Deuteronomy 10#^deut-10-11|≈ Deuteronomy 10:11]] · [[Deuteronomy 31#^deut-31-23|≈ Deuteronomy 31:23]] · [[Deuteronomy 31#^deut-31-7|≈ Deuteronomy 31:7]] · [[Deuteronomy 31#^deut-31-20|≈ Deuteronomy 31:20]] · [[Deuteronomy 31#^deut-31-6|≈ Deuteronomy 31:6]]
+> [[D&C 52#^dc-52-17|D&amp;C 52:17]] · [[D&C 66#^dc-66-8|66:8]] · [[D&C 133#^dc-133-58|133:58]] · [[Ezekiel 47#^ezek-47-22|Ezek. 47:22]] · [[Deuteronomy 11#^deut-11-8|Deut. 11:8]] · [[Deuteronomy 31#^deut-31-23|≈ Deuteronomy 31:23]] · [[Deuteronomy 31#^deut-31-7|≈ Deuteronomy 31:7]] · [[Deuteronomy 31#^deut-31-20|≈ Deuteronomy 31:20]] · [[Deuteronomy 31#^deut-31-6|≈ Deuteronomy 31:6]] · [[Deuteronomy 10#^deut-10-11|≈ Deuteronomy 10:11]]
 
 ![[Joshua 1#^josh-1-7]]
 > [[3 Nephi 18#^3ne-18-12|3 Ne. 18:13 (12–14)]] · [[D&C 3#^dc-3-2|D&amp;C 3:2]] · [[Deuteronomy 29#^deut-29-9|Deut. 29:9]] · [[1 Nephi 2#^1ne-2-20|1 Ne. 2:20]] · [[Jarom 1#^jarom-1-9|Jarom 1:9]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[D&C 90#^dc-90-24|D&amp;C 90:24]] · [[D&C 97#^dc-97-18|97:18 (18–20)]] · [[D&C 100#^dc-100-15|100:15]] · [[Joshua 23#^josh-23-6|≈ Joshua 23:6]]

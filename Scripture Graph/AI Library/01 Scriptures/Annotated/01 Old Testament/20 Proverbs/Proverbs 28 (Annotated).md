@@ -29,7 +29,7 @@ cssclasses:
 > [[D&C 88#^dc-88-67|D&amp;C 88:67]]
 
 ![[Proverbs 28#^prov-28-6]]
-> [[Proverbs 10#^prov-10-9|Prov. 10:9]] · [[Proverbs 19#^prov-19-1|19:1]] · [[Proverbs 14#^prov-14-2|≈ Proverbs 14:2]] · [[Proverbs 19#^prov-19-1|≈ Proverbs 19:1]]
+> [[Proverbs 10#^prov-10-9|Prov. 10:9]] · [[Proverbs 19#^prov-19-1|19:1]] · [[Proverbs 19#^prov-19-1|≈ Proverbs 19:1]] · [[Proverbs 14#^prov-14-2|≈ Proverbs 14:2]]
 
 ![[Proverbs 28#^prov-28-7]]
 > [[Luke 15#^luke-15-12|Luke 15:13 (12–13)]]

@@ -60,7 +60,7 @@ cssclasses:
 > [[1 Corinthians 15#^1cor-15-36|1 Cor. 15:36]] · [[2 Nephi 9#^2ne-9-4|2 Ne. 9:4]] · [[Alma 42#^alma-42-23|Alma 42:23]] · [[Mormon 9#^morm-9-13|Morm. 9:13]] · [[Alma 42#^alma-42-23|≈ Alma 42:23]]
 
 ![[Helaman 14#^hel-14-16]]
-> [[John 20#^john-20-9|John 20:9]] · [[D&C 18#^dc-18-11|D&amp;C 18:12 (11–12)]] · [[2 Nephi 2#^2ne-2-5|2 Ne. 2:5]] · [[2 Nephi 9#^2ne-9-6|9:6 (6–15)]] · [[Alma 11#^alma-11-40|Alma 11:42 (40–45)]] · [[Alma 12#^alma-12-16|12:16 (16, 24, 36)]] · [[Alma 42#^alma-42-6|42:7 (6–11)]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 9#^alma-9-14|≈ Alma 9:14]] · [[Alma 42#^alma-42-11|≈ Alma 42:11]]
+> [[John 20#^john-20-9|John 20:9]] · [[D&C 18#^dc-18-11|D&amp;C 18:12 (11–12)]] · [[2 Nephi 2#^2ne-2-5|2 Ne. 2:5]] · [[2 Nephi 9#^2ne-9-6|9:6 (6–15)]] · [[Alma 11#^alma-11-40|Alma 11:42 (40–45)]] · [[Alma 12#^alma-12-16|12:16 (16, 24, 36)]] · [[Alma 42#^alma-42-6|42:7 (6–11)]] · [[Alma 42#^alma-42-11|≈ Alma 42:11]] · [[Alma 42#^alma-42-9|≈ Alma 42:9]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]]
 
 ![[Helaman 14#^hel-14-17]]
 

@@ -60,7 +60,7 @@ cssclasses:
 ![[Alma 50#^alma-50-16]]
 
 ![[Alma 50#^alma-50-17]]
-> [[Alma 57#^alma-57-6|≈ Alma 57:6]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[Alma 52#^alma-52-19|≈ Alma 52:19]] · [[Alma 54#^alma-54-1|≈ Alma 54:1]] · [[Alma 56#^alma-56-20|≈ Alma 56:20]]
+> [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[Alma 57#^alma-57-6|≈ Alma 57:6]] · [[Alma 52#^alma-52-19|≈ Alma 52:19]] · [[Alma 54#^alma-54-1|≈ Alma 54:1]] · [[Alma 56#^alma-56-20|≈ Alma 56:20]]
 
 ![[Alma 50#^alma-50-18]]
 > [[Alma 1#^alma-1-29|Alma 1:29]]
@@ -83,7 +83,7 @@ cssclasses:
 ![[Alma 50#^alma-50-24]]
 
 ![[Alma 50#^alma-50-25]]
-> [[Helaman 6#^hel-6-10|Hel. 6:10]] · [[Alma 51#^alma-51-26|Alma 51:26]] · [[Alma 57#^alma-57-6|≈ Alma 57:6]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[Alma 52#^alma-52-19|≈ Alma 52:19]] · [[Alma 54#^alma-54-1|≈ Alma 54:1]] · [[Alma 56#^alma-56-20|≈ Alma 56:20]] · [[Alma 30#^alma-30-5|≈ Alma 30:5]]
+> [[Helaman 6#^hel-6-10|Hel. 6:10]] · [[Alma 51#^alma-51-26|Alma 51:26]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[Alma 57#^alma-57-6|≈ Alma 57:6]] · [[Alma 52#^alma-52-19|≈ Alma 52:19]] · [[Alma 54#^alma-54-1|≈ Alma 54:1]] · [[Alma 56#^alma-56-20|≈ Alma 56:20]] · [[Alma 30#^alma-30-5|≈ Alma 30:5]]
 
 ![[Alma 50#^alma-50-26]]
 > [[3 Nephi 11#^3ne-11-29|3 Ne. 11:29]] · [[Alma 27#^alma-27-28|≈ Alma 27:28]]
@@ -101,7 +101,7 @@ cssclasses:
 ![[Alma 50#^alma-50-31]]
 
 ![[Alma 50#^alma-50-32]]
-> [[Mosiah 1#^mosiah-1-18|≈ Mosiah 1:18]] · [[Mosiah 7#^mosiah-7-7|≈ Mosiah 7:7]] · [[Alma 62#^alma-62-42|≈ Alma 62:42]] · [[Helaman 3#^hel-3-9|≈ Helaman 3:9]] · [[Alma 25#^alma-25-2|≈ Alma 25:2]] · [[Alma 10#^alma-10-1|≈ Alma 10:1]]
+> [[Alma 62#^alma-62-42|≈ Alma 62:42]] · [[Mosiah 1#^mosiah-1-18|≈ Mosiah 1:18]] · [[Mosiah 7#^mosiah-7-7|≈ Mosiah 7:7]] · [[Helaman 3#^hel-3-9|≈ Helaman 3:9]] · [[Alma 25#^alma-25-2|≈ Alma 25:2]] · [[Alma 10#^alma-10-1|≈ Alma 10:1]]
 
 ![[Alma 50#^alma-50-33]]
 

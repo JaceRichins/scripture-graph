@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 16
 slug: deut-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,23 +56,23 @@ _Not yet developed._
 - [[Deuteronomy 12]] — 13 parallel verses, e.g. [[Deuteronomy 16#^deut-16-11|Deuteronomy 16:11]] ↔ [[Deuteronomy 12#^deut-12-18|Deuteronomy 12:18]]
 - [[Deuteronomy 15]] — 11 parallel verses, e.g. [[Deuteronomy 16#^deut-16-12|Deuteronomy 16:12]] ↔ [[Deuteronomy 15#^deut-15-15|Deuteronomy 15:15]]
 - [[Deuteronomy 14]] — 10 parallel verses, e.g. [[Deuteronomy 16#^deut-16-16|Deuteronomy 16:16]] ↔ [[Deuteronomy 14#^deut-14-23|Deuteronomy 14:23]]
+- [[Deuteronomy 17]] — 5 parallel verses, e.g. [[Deuteronomy 16#^deut-16-5|Deuteronomy 16:5]] ↔ [[Deuteronomy 17#^deut-17-2|Deuteronomy 17:2]]
 - [[Deuteronomy 26]] — 5 parallel verses, e.g. [[Deuteronomy 16#^deut-16-6|Deuteronomy 16:6]] ↔ [[Deuteronomy 26#^deut-26-2|Deuteronomy 26:2]]
+- [[Deuteronomy 24]] — 2 parallel verses, e.g. [[Deuteronomy 16#^deut-16-12|Deuteronomy 16:12]] ↔ [[Deuteronomy 24#^deut-24-18|Deuteronomy 24:18]]
 - [[Deuteronomy 31]] — 2 parallel verses, e.g. [[Deuteronomy 16#^deut-16-16|Deuteronomy 16:16]] ↔ [[Deuteronomy 31#^deut-31-11|Deuteronomy 31:11]]
 - [[2 Chronicles 8]] — 1 parallel verse, e.g. [[Deuteronomy 16#^deut-16-16|Deuteronomy 16:16]] ↔ [[2 Chronicles 8#^2chr-8-13|2 Chronicles 8:13]]
 - [[Deuteronomy 18]] — 3 parallel verses, e.g. [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]] ↔ [[Deuteronomy 18#^deut-18-9|Deuteronomy 18:9]]
 - [[Deuteronomy 19]] — 3 parallel verses, e.g. [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
 - [[Deuteronomy 25]] — 2 parallel verses, e.g. [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]] ↔ [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]]
 - [[Deuteronomy 27]] — 2 parallel verses, e.g. [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]] ↔ [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]]
-- [[Deuteronomy 21]] — 2 parallel verses, e.g. [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]] ↔ [[Deuteronomy 21#^deut-21-1|Deuteronomy 21:1]]
-- [[Exodus 13]] — 1 parallel verse, e.g. [[Deuteronomy 16#^deut-16-8|Deuteronomy 16:8]] ↔ [[Exodus 13#^ex-13-6|Exodus 13:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Passover]]
 - [[Exodus and Deliverance]]
 - [[Law of Moses]]
 - [[Government and Laws]]
+- [[Passover]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Ten Commandments]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

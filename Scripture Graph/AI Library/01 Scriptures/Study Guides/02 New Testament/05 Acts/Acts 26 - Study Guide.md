@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 26
 slug: acts-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[1 Timothy 1]] — 1 footnote cross-reference (from [[Acts 26#^acts-26-9|Acts 26:9]])
 - [[Luke 1]] — 1 footnote cross-reference (from [[Acts 26#^acts-26-16|Acts 26:16]])
 - [[Acts 9]] — 2 parallel verses, e.g. [[Acts 26#^acts-26-14|Acts 26:14]] ↔ [[Acts 9#^acts-9-5|Acts 9:5]]
+- [[1 Timothy 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,6 +75,7 @@ _Not yet developed._
 - [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
 - [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
 - [[Joseph Smith (Elder Neil L. Andersen, October 2014)|Joseph Smith]] — Elder Neil L. Andersen, 2014-October *(explicit citation)*
+- [[See Others as They May Become (President Thomas S. Monson, October 2012)|See Others as They May Become]] — President Thomas S. Monson, 2012-October *(explicit citation)*
 - [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
 - [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
 - [[Conference Report, April 1929 (General Conference (full report), April 1929)|Conference Report, April 1929]] — General Conference (full report), 1929-April *(explicit citation)*

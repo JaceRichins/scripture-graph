@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 21
 slug: luke-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[D&C 45]] — 4 parallel verses, e.g. [[Luke 21#^luke-21-6|Luke 21:6]] ↔ [[D&C 45#^dc-45-20|D&C 45:20]]
 - [[Matthew 10]] — 1 parallel verse, e.g. [[Luke 21#^luke-21-17|Luke 21:17]] ↔ [[Matthew 10#^matt-10-22|Matthew 10:22]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[Luke 21#^luke-21-3|Luke 21:3]] ↔ [[Mark 12#^mark-12-43|Mark 12:43]]
+- [[Revelation 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,8 +79,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1840-05-01 (Vol. 1 No. 7)** (periodical, 1840-05-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 31
 slug: alma-31
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

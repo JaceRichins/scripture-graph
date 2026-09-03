@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 4
 slug: moses-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,25 +48,32 @@ The chapter moves through six sections:
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 3]] — 11 footnote cross-references (from [[Moses 4#^moses-4-5|Moses 4:5]])
+- [[Moses 5]] — 4 footnote cross-references (from [[Moses 4#^moses-4-1|Moses 4:1]])
+- [[D&C 29]] — 4 footnote cross-references (from [[Moses 4#^moses-4-1|Moses 4:1]])
+- [[D&C 76]] — 3 footnote cross-references (from [[Moses 4#^moses-4-1|Moses 4:1]])
+- [[Abraham 3]] — 3 footnote cross-references (from [[Moses 4#^moses-4-1|Moses 4:1]])
+- [[Genesis 2]] — 3 footnote cross-references (from [[Moses 4#^moses-4-13|Moses 4:13]])
 - [[Genesis 3]] — 25 parallel verses, e.g. [[Moses 4#^moses-4-23|Moses 4:23]] ↔ [[Genesis 3#^gen-3-17|Genesis 3:17]]
+- [[Alma 42]] — 3 parallel verses, e.g. [[Moses 4#^moses-4-31|Moses 4:31]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
 - [[Moses 3]] — 4 parallel verses, e.g. [[Moses 4#^moses-4-28|Moses 4:28]] ↔ [[Moses 3#^moses-3-18|Moses 3:18]]
 - [[Alma 12]] — 3 parallel verses, e.g. [[Moses 4#^moses-4-31|Moses 4:31]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
+- [[Moses 1]] — 2 parallel verses, e.g. [[Moses 4#^moses-4-1|Moses 4:1]] ↔ [[Moses 1#^moses-1-17|Moses 1:17]]
 - [[Alma 5]] — 2 parallel verses, e.g. [[Moses 4#^moses-4-23|Moses 4:23]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
 - [[Genesis 3]] — 0 parallel verses
 - [[Alma 12]] — 0 parallel verses
-- [[Moses 1]] — 0 parallel verses
 - [[Moses 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Fall of Adam and Eve]]
-- [[Agency]]
 - [[Satan and Temptation]]
-- [[Tree of Life]]
-- [[Jesus Christ (Gospel Topic)]]
+- [[Agency]]
 - [[2 Nephi 2]]
 - [[Marriage]] *(keyword match — unconfirmed)*
+- [[Tree of Life]] *(keyword match — unconfirmed)*
+- [[Jesus Christ (Gospel Topic)]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

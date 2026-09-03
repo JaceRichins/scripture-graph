@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 9
 slug: john-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 - [[We Can Do Hard Things through Him (Elder Isaac K. Morrison, October 2022)|We Can Do Hard Things through Him]] — Elder Isaac K. Morrison, 2022-October *(explicit citation)*
 - [[Jesus Christ and Your New Beginning (Elder Patrick Kearon, October 2025)|Jesus Christ and Your New Beginning]] — Elder Patrick Kearon, 2025-October *(explicit citation)*
 - [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
+- [[Special Lessons (Elder Ronald A. Rasband, April 2012)|Special Lessons]] — Elder Ronald A. Rasband, 2012-April *(explicit citation)*
 - [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -106,3 +107,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

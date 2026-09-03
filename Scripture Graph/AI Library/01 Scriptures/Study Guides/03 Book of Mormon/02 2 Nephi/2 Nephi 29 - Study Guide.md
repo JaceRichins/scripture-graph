@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 29
 slug: 2ne-29
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -28,8 +28,8 @@ The chapter moves through five compact stages. Verses 1-2 state the covenant pre
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Nephi (son of Lehi)]] — 0 mentions
-- [[Abraham (patriarch)]] — 0 mentions
+- [[Nephi (son of Lehi)]] — 1 mention
+- [[Abraham (patriarch)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -45,21 +45,25 @@ _Not yet developed._
 - [[2 Nephi 25]] — 2 footnote cross-references (from [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]])
 - [[1 Nephi 22]] — 2 footnote cross-references (from [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]])
 - [[Ezekiel 37]] — 2 footnote cross-references (from [[2 Nephi 29#^2ne-29-8|2 Nephi 29:8]])
+- [[2 Nephi 10]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[2 Nephi 10#^2ne-10-15|2 Nephi 10:15]]
 - [[2 Nephi 25]] — 4 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]]
+- [[D&C 39]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[D&C 39#^dc-39-11|D&C 39:11]]
+- [[3 Nephi 23]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]] ↔ [[3 Nephi 23#^3ne-23-2|3 Nephi 23:2]]
+- [[3 Nephi 16]] — 3 parallel verses, e.g. [[2 Nephi 29#^2ne-29-14|2 Nephi 29:14]] ↔ [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]]
 - [[2 Nephi 27]] — 2 parallel verses, e.g. [[2 Nephi 29#^2ne-29-9|2 Nephi 29:9]] ↔ [[2 Nephi 27#^2ne-27-23|2 Nephi 27:23]]
 - [[Abraham 3]] — 1 parallel verse, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[Abraham 3#^abr-3-21|Abraham 3:21]]
 - [[1 Nephi 22]] — 2 parallel verses, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[1 Nephi 22#^1ne-22-4|1 Nephi 22:4]]
-- [[2 Nephi 10]] — 0 parallel verses
+- [[D&C 45]] — 1 parallel verse, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[D&C 45#^dc-45-40|D&C 45:40]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Book of Mormon (Gospel Topic)]]
-- [[Jews and Gentiles]]
-- [[Covenants]]
 - [[Records and Sacred Writings]]
 - [[Final Judgment]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

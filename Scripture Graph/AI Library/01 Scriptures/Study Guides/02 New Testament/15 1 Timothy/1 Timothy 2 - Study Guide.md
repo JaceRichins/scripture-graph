@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 2
 slug: 1tim-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[D&C 121]] — 1 footnote cross-reference (from [[1 Timothy 2#^1tim-2-5|1 Timothy 2:5]])
 - [[Hebrews 12]] — 1 footnote cross-reference (from [[1 Timothy 2#^1tim-2-5|1 Timothy 2:5]])
 - [[Job 33]] — 1 footnote cross-reference (from [[1 Timothy 2#^1tim-2-6|1 Timothy 2:6]])
+- [[D&C 60]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,7 +69,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Adam** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

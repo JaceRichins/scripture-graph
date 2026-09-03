@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 4
 slug: acts-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Psalm 2]] — 2 parallel verses, e.g. [[Acts 4#^acts-4-26|Acts 4:26]] ↔ [[Psalm 2#^ps-2-2|Psalm 2:2]]
 - [[Acts 2]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-31|Acts 4:31]] ↔ [[Acts 2#^acts-2-4|Acts 2:4]]
 - [[Acts 14]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-24|Acts 4:24]] ↔ [[Acts 14#^acts-14-15|Acts 14:15]]
+- [[2 Nephi 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,12 +87,15 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Witness** (reference-entry) *(explicit citation)*
+- **10 Gathered In** (history) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Consecration** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1843-08-15 (Vol. 4 No. 19)** (periodical, 1843-08-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

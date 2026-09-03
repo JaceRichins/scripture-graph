@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 12
 slug: rom-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Leviticus 1]] — 1 footnote cross-reference (from [[Romans 12#^rom-12-1|Romans 12:1]])
 - [[Ephesians 5]] — 1 footnote cross-reference (from [[Romans 12#^rom-12-2|Romans 12:2]])
 - [[1 John 5]] — 1 footnote cross-reference (from [[Romans 12#^rom-12-2|Romans 12:2]])
+- [[1 Corinthians 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,6 +65,7 @@ _Not yet developed._
 - [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
 - [[The Triumph of Hope (Elder Neil L. Andersen, October 2024)|The Triumph of Hope]] — Elder Neil L. Andersen, 2024-October *(explicit citation)*
 - [[About His Business (Elder Patrick Kearon, April 2026)|About His Business]] — Elder Patrick Kearon, 2026-April *(explicit citation)*
+- [[The Merciful Obtain Mercy (President Dieter F. Uchtdorf, April 2012)|The Merciful Obtain Mercy]] — President Dieter F. Uchtdorf, 2012-April *(explicit citation)*
 - [[The Plan and the Proclamation (Elder Dallin H. Oaks, October 2017)|The Plan and the Proclamation]] — Elder Dallin H. Oaks, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 

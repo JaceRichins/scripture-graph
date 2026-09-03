@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 13
 slug: num-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,12 +57,12 @@ Within this chapter, Caleb is the only scout explicitly shown defending immediat
 - [[Joshua 15]] — 1 footnote cross-reference (from [[Numbers 13#^num-13-6|Numbers 13:6]])
 - [[Numbers 11]] — 1 footnote cross-reference (from [[Numbers 13#^num-13-16|Numbers 13:16]])
 - [[Deuteronomy 34]] — 1 footnote cross-reference (from [[Numbers 13#^num-13-16|Numbers 13:16]])
+- [[Numbers 34]] — 2 parallel verses, e.g. [[Numbers 13#^num-13-6|Numbers 13:6]] ↔ [[Numbers 34#^num-34-19|Numbers 34:19]]
 - [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 13#^num-13-26|Numbers 13:26]] ↔ [[Exodus 35#^ex-35-1|Exodus 35:1]]
 - [[Deuteronomy 32]] — 1 parallel verse, e.g. [[Numbers 13#^num-13-2|Numbers 13:2]] ↔ [[Deuteronomy 32#^deut-32-49|Deuteronomy 32:49]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Numbers 13#^num-13-26|Numbers 13:26]] ↔ [[Numbers 15#^num-15-25|Numbers 15:25]]
 - [[Numbers 1]] — 2 parallel verses, e.g. [[Numbers 13#^num-13-16|Numbers 13:16]] ↔ [[Numbers 1#^num-1-5|Numbers 1:5]]
 - [[Exodus 16]] — 2 parallel verses, e.g. [[Numbers 13#^num-13-26|Numbers 13:26]] ↔ [[Exodus 16#^ex-16-1|Exodus 16:1]]
-- [[Numbers 34]] — 0 parallel verses
 - [[Deuteronomy 1]] — 0 parallel verses
 - [[Numbers 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -86,7 +86,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **History of the Church, Volume 1** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

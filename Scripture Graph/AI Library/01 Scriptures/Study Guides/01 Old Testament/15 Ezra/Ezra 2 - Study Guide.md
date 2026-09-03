@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 2
 slug: ezra-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Ezra 7]] — 1 parallel verse, e.g. [[Ezra 2#^ezra-2-70|Ezra 2:70]] ↔ [[Ezra 7#^ezra-7-7|Ezra 7:7]]
 - [[Esther 2]] — 1 parallel verse, e.g. [[Ezra 2#^ezra-2-1|Ezra 2:1]] ↔ [[Esther 2#^esth-2-6|Esther 2:6]]
 - [[Nehemiah 11]] — 1 parallel verse, e.g. [[Ezra 2#^ezra-2-58|Ezra 2:58]] ↔ [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]]
+- [[Nehemiah 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,6 +77,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
+- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

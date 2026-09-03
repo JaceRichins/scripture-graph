@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 2
 slug: 2ne-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -63,22 +63,22 @@ Scripture: [[2 Nephi 2]] · My notes: [[2 Nephi 2 - My Notes]]
 - [[D&C 49]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]] ↔ [[D&C 49#^dc-49-19|D&C 49:19]]
 - [[Ether 4]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-14|2 Nephi 2:14]] ↔ [[Ether 4#^ether-4-7|Ether 4:7]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-4|2 Nephi 2:4]] ↔ [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]]
+- [[Alma 42]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-19|2 Nephi 2:19]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
 - [[Daniel 2]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]] ↔ [[Daniel 2#^dan-2-38|Daniel 2:38]]
 - [[2 Nephi 27]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-21|2 Nephi 2:21]] ↔ [[2 Nephi 27#^2ne-27-13|2 Nephi 27:13]]
+- [[2 Nephi 11]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-13|2 Nephi 2:13]] ↔ [[2 Nephi 11#^2ne-11-7|2 Nephi 11:7]]
 - [[D&C 89]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]] ↔ [[D&C 89#^dc-89-14|D&C 89:14]]
 - [[Ether 8]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-18|2 Nephi 2:18]] ↔ [[Ether 8#^ether-8-25|Ether 8:25]]
-- [[Words of Mormon 1]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-26|2 Nephi 2:26]] ↔ [[Words of Mormon 1#^wofm-1-11|Words of Mormon 1:11]]
-- [[Alma 42]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Fall of Adam and Eve]]
+- [[Freedom and Liberty]]
+- [[Satan and Temptation]]
 - [[Adversity]]
 - [[Agency]]
 - [[Plan of Salvation]]
-- [[Freedom and Liberty]]
-- [[Satan and Temptation]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

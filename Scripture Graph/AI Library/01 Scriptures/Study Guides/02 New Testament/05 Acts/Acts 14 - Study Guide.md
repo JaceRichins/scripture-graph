@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 14
 slug: acts-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,17 +51,19 @@ The Antioch in verse 21 is Pisidian Antioch; the Antioch in verses 26–28 is th
 - [[Daniel 2]] — 1 footnote cross-reference (from [[Acts 14#^acts-14-15|Acts 14:15]])
 - [[James 5]] — 1 footnote cross-reference (from [[Acts 14#^acts-14-15|Acts 14:15]])
 - [[1 Nephi 17]] — 1 footnote cross-reference (from [[Acts 14#^acts-14-15|Acts 14:15]])
+- [[Acts 4]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[Acts 4#^acts-4-24|Acts 4:24]]
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Acts 14#^acts-14-15|Acts 14:15]] ↔ [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]]
 - [[Acts 17]] — 0 parallel verses
 - [[Acts 3]] — 0 parallel verses
+- [[2 Timothy 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[Endurance]]
 - [[Apostles]]
 - [[Kingdom of God]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -81,7 +83,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Antioch** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1845-07-01 (Vol. 6 No. 12)** (periodical, 1845-07-01) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1837-06-01 (Vol. 3 No. 9)** (periodical, 1837-06-01) *(explicit citation)*
+- **Apostle** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 6
 slug: josh-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,11 +55,11 @@ Scripture: [[Joshua 6]] · My notes: [[Joshua 6 - My Notes]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Joshua 6#^josh-6-8|Joshua 6:8]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
 - [[1 Samuel 4]] — 3 parallel verses, e.g. [[Joshua 6#^josh-6-8|Joshua 6:8]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
 - [[1 Kings 8]] — 3 parallel verses, e.g. [[Joshua 6#^josh-6-8|Joshua 6:8]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
+- [[Numbers 10]] — 2 parallel verses, e.g. [[Joshua 6#^josh-6-8|Joshua 6:8]] ↔ [[Numbers 10#^num-10-33|Numbers 10:33]]
 - [[Joshua 4]] — 2 parallel verses, e.g. [[Joshua 6#^josh-6-8|Joshua 6:8]] ↔ [[Joshua 4#^josh-4-7|Joshua 4:7]]
 - [[1 Chronicles 28]] — 2 parallel verses, e.g. [[Joshua 6#^josh-6-8|Joshua 6:8]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
 - [[2 Chronicles 5]] — 2 parallel verses, e.g. [[Joshua 6#^josh-6-8|Joshua 6:8]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
 - [[2 Samuel 12]] — 1 parallel verse, e.g. [[Joshua 6#^josh-6-15|Joshua 6:15]] ↔ [[2 Samuel 12#^2sam-12-18|2 Samuel 12:18]]
-- [[Joshua 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,7 +82,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 3
 slug: ether-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -81,13 +81,13 @@ _Not yet developed._
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Spirit (or Soul)** (reference-entry) *(explicit citation)*
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
-- **Spirit** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 20
 slug: lev-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 - [[Law of Moses]]
 - [[Covenants]]
 - [[Government and Laws]]
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Honesty]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
@@ -88,7 +89,7 @@ The chapter's clearest theological synthesis occurs in verses 7–8: the people 
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Adultery** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

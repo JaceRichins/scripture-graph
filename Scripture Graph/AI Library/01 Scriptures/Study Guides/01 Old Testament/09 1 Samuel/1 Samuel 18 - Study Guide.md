@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 18
 slug: 1sam-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[Judges 15]] — 1 parallel verse, e.g. [[1 Samuel 18#^1sam-18-1|1 Samuel 18:1]] ↔ [[Judges 15#^judg-15-17|Judges 15:17]]
 - [[1 Samuel 21]] — 1 parallel verse, e.g. [[1 Samuel 18#^1sam-18-7|1 Samuel 18:7]] ↔ [[1 Samuel 21#^1sam-21-11|1 Samuel 21:11]]
 - [[1 Samuel 22]] — 2 parallel verses, e.g. [[1 Samuel 18#^1sam-18-26|1 Samuel 18:26]] ↔ [[1 Samuel 22#^1sam-22-14|1 Samuel 22:14]]
+- [[2 Samuel 1]] — 1 parallel verse, e.g. [[1 Samuel 18#^1sam-18-6|1 Samuel 18:6]] ↔ [[2 Samuel 1#^2sam-1-1|2 Samuel 1:1]]
 - [[Genesis 19]] — 1 parallel verse, e.g. [[1 Samuel 18#^1sam-18-10|1 Samuel 18:10]] ↔ [[Genesis 19#^gen-19-34|Genesis 19:34]]
 - [[Judges 9]] — 1 parallel verse, e.g. [[1 Samuel 18#^1sam-18-10|1 Samuel 18:10]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
 - [[Judges 21]] — 1 parallel verse, e.g. [[1 Samuel 18#^1sam-18-10|1 Samuel 18:10]] ↔ [[Judges 21#^judg-21-4|Judges 21:4]]
@@ -68,9 +69,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Covenants]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Pride]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

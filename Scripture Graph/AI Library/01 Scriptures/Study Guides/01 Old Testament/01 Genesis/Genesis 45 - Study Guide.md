@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 45
 slug: gen-45
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Genesis 43]] — 2 footnote cross-references (from [[Genesis 45#^gen-45-1|Genesis 45:1]])
 - [[Acts 7]] — 2 footnote cross-references (from [[Genesis 45#^gen-45-3|Genesis 45:3]])
 - [[Genesis 50]] — 2 footnote cross-references (from [[Genesis 45#^gen-45-5|Genesis 45:5]])
+- [[1 Nephi 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

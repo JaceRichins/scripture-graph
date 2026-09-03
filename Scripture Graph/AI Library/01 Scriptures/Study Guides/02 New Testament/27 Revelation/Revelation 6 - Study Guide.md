@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 6
 slug: rev-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,8 @@ _Not yet developed._
 - [[Ezekiel 5]] — 1 footnote cross-reference (from [[Revelation 6#^rev-6-8|Revelation 6:8]])
 - [[Revelation 19]] — 3 parallel verses, e.g. [[Revelation 6#^rev-6-2|Revelation 6:2]] ↔ [[Revelation 19#^rev-19-11|Revelation 19:11]]
 - [[Revelation 1]] — 1 parallel verse, e.g. [[Revelation 6#^rev-6-9|Revelation 6:9]] ↔ [[Revelation 1#^rev-1-9|Revelation 1:9]]
+- [[Isaiah 34]] — 0 parallel verses
+- [[D&C 87]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,6 +68,9 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Remembering the Martyrdom** (history) *(explicit citation)*
+- **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
+- **Times and Seasons 1845-05-15 (Vol. 6 No. 9)** (periodical, 1845-05-15) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

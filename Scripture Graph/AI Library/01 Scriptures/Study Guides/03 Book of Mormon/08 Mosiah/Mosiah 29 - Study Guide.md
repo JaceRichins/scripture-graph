@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 29
 slug: mosiah-29
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

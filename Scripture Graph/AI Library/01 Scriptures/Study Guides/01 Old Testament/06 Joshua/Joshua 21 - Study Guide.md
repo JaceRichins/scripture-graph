@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 21
 slug: josh-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ Joshua 21 completes the land-distribution section (chapters 13-21) by addressing
 - [[Joshua 23]] — 2 footnote cross-references (from [[Joshua 21#^josh-21-44|Joshua 21:44]])
 - [[2 Chronicles 31]] — 1 footnote cross-reference (from [[Joshua 21#^josh-21-9|Joshua 21:9]])
 - [[1 Kings 2]] — 1 footnote cross-reference (from [[Joshua 21#^josh-21-18|Joshua 21:18]])
+- [[1 Chronicles 6]] — 38 parallel verses, e.g. [[Joshua 21#^josh-21-6|Joshua 21:6]] ↔ [[1 Chronicles 6#^1chr-6-62|1 Chronicles 6:62]]
 - [[Joshua 19]] — 7 parallel verses, e.g. [[Joshua 21#^josh-21-1|Joshua 21:1]] ↔ [[Joshua 19#^josh-19-51|Joshua 19:51]]
 - [[Numbers 10]] — 8 parallel verses, e.g. [[Joshua 21#^josh-21-9|Joshua 21:9]] ↔ [[Numbers 10#^num-10-19|Numbers 10:19]]
 - [[Numbers 34]] — 7 parallel verses, e.g. [[Joshua 21#^josh-21-9|Joshua 21:9]] ↔ [[Numbers 34#^num-34-20|Numbers 34:20]]
@@ -65,7 +66,6 @@ Joshua 21 completes the land-distribution section (chapters 13-21) by addressing
 - [[Joshua 18]] — 2 parallel verses, e.g. [[Joshua 21#^josh-21-9|Joshua 21:9]] ↔ [[Joshua 18#^josh-18-11|Joshua 18:11]]
 - [[Numbers 32]] — 1 parallel verse, e.g. [[Joshua 21#^josh-21-1|Joshua 21:1]] ↔ [[Numbers 32#^num-32-28|Numbers 32:28]]
 - [[Joshua 4]] — 2 parallel verses, e.g. [[Joshua 21#^josh-21-1|Joshua 21:1]] ↔ [[Joshua 4#^josh-4-5|Joshua 4:5]]
-- [[Joshua 20]] — 1 parallel verse, e.g. [[Joshua 21#^josh-21-7|Joshua 21:7]] ↔ [[Joshua 20#^josh-20-8|Joshua 20:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

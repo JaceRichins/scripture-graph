@@ -17,10 +17,10 @@ cssclasses:
 > Hezekiah reigns in righteousness and restores the worship of Jehovah—The Levites cleanse and sanctify the house of the Lord—The priests offer sacrifices and make reconciliation and atonement for the people—Hezekiah and all the people worship the Lord and praise His name.
 
 ![[2 Chronicles 29#^2chr-29-1]]
-> [[2 Kings 18#^2kgs-18-1|2 Kgs. 18:2 (1–3)]] · [[Jeremiah 52#^jer-52-1|≈ Jeremiah 52:1]] · [[2 Kings 12#^2kgs-12-1|≈ 2 Kings 12:1]] · [[2 Kings 14#^2kgs-14-2|≈ 2 Kings 14:2]] · [[2 Kings 15#^2kgs-15-33|≈ 2 Kings 15:33]] · [[2 Kings 15#^2kgs-15-2|≈ 2 Kings 15:2]] · [[2 Kings 21#^2kgs-21-1|≈ 2 Kings 21:1]]
+> [[2 Kings 18#^2kgs-18-1|2 Kgs. 18:2 (1–3)]] · [[2 Kings 23#^2kgs-23-36|≈ 2 Kings 23:36]] · [[2 Kings 23#^2kgs-23-31|≈ 2 Kings 23:31]] · [[Jeremiah 52#^jer-52-1|≈ Jeremiah 52:1]] · [[2 Kings 12#^2kgs-12-1|≈ 2 Kings 12:1]] · [[2 Kings 14#^2kgs-14-2|≈ 2 Kings 14:2]] · [[2 Kings 15#^2kgs-15-33|≈ 2 Kings 15:33]]
 
 ![[2 Chronicles 29#^2chr-29-2]]
-> [[2 Chronicles 34#^2chr-34-2|≈ 2 Chronicles 34:2]] · [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]] · [[Jeremiah 52#^jer-52-2|≈ Jeremiah 52:2]] · [[2 Kings 12#^2kgs-12-2|≈ 2 Kings 12:2]] · [[2 Kings 14#^2kgs-14-3|≈ 2 Kings 14:3]] · [[2 Kings 15#^2kgs-15-3|≈ 2 Kings 15:3]]
+> [[2 Chronicles 34#^2chr-34-2|≈ 2 Chronicles 34:2]] · [[2 Kings 18#^2kgs-18-3|≈ 2 Kings 18:3]] · [[2 Kings 23#^2kgs-23-32|≈ 2 Kings 23:32]] · [[2 Kings 23#^2kgs-23-37|≈ 2 Kings 23:37]] · [[Jeremiah 52#^jer-52-2|≈ Jeremiah 52:2]] · [[2 Kings 12#^2kgs-12-2|≈ 2 Kings 12:2]]
 
 ![[2 Chronicles 29#^2chr-29-3]]
 > [[Jeremiah 52#^jer-52-31|≈ Jeremiah 52:31]]

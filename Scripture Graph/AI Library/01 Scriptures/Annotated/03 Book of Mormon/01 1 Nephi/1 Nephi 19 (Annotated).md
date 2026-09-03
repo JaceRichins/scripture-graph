@@ -62,10 +62,10 @@ cssclasses:
 > [[1 Nephi 15#^1ne-15-19|1 Ne. 15:19]] · [[1 Nephi 22#^1ne-22-11|22:12 (11–12)]] · [[1 Nephi 22#^1ne-22-18|≈ 1 Nephi 22:18]]
 
 ![[1 Nephi 19#^1ne-19-16]]
-> [[1 Nephi 22#^1ne-22-4|1 Ne. 22:4]] · [[2 Nephi 10#^2ne-10-21|2 Ne. 10:21]] · [[Isaiah 49#^isa-49-20|Isa. 49:22 (20–22)]] · [[Isaiah 60#^isa-60-4|60:4]] · [[3 Nephi 21#^3ne-21-7|≈ 3 Nephi 21:7]] · [[1 Nephi 22#^1ne-22-25|≈ 1 Nephi 22:25]] · [[1 Nephi 22#^1ne-22-23|≈ 1 Nephi 22:23]] · [[3 Nephi 16#^3ne-16-5|≈ 3 Nephi 16:5]] · [[3 Nephi 16#^3ne-16-8|≈ 3 Nephi 16:8]] · [[3 Nephi 16#^3ne-16-9|≈ 3 Nephi 16:9]]
+> [[1 Nephi 22#^1ne-22-4|1 Ne. 22:4]] · [[2 Nephi 10#^2ne-10-21|2 Ne. 10:21]] · [[Isaiah 49#^isa-49-20|Isa. 49:22 (20–22)]] · [[Isaiah 60#^isa-60-4|60:4]] · [[1 Nephi 22#^1ne-22-25|≈ 1 Nephi 22:25]] · [[1 Nephi 22#^1ne-22-23|≈ 1 Nephi 22:23]] · [[2 Nephi 6#^2ne-6-14|≈ 2 Nephi 6:14]] · [[3 Nephi 21#^3ne-21-7|≈ 3 Nephi 21:7]] · [[3 Nephi 16#^3ne-16-5|≈ 3 Nephi 16:5]] · [[3 Nephi 16#^3ne-16-8|≈ 3 Nephi 16:8]]
 
 ![[1 Nephi 19#^1ne-19-17]]
-> [[Isaiah 40#^isa-40-4|Isa. 40:5 (4–5)]] · [[Mosiah 16#^mosiah-16-1|≈ Mosiah 16:1]] · [[3 Nephi 20#^3ne-20-35|≈ 3 Nephi 20:35]] · [[Mosiah 15#^mosiah-15-28|≈ Mosiah 15:28]] · [[Mosiah 15#^mosiah-15-31|≈ Mosiah 15:31]] · [[3 Nephi 16#^3ne-16-20|≈ 3 Nephi 16:20]] · [[D&C 133#^dc-133-3|≈ D&C 133:3]]
+> [[Isaiah 40#^isa-40-4|Isa. 40:5 (4–5)]] · [[D&C 133#^dc-133-3|≈ D&C 133:3]] · [[Mosiah 16#^mosiah-16-1|≈ Mosiah 16:1]] · [[3 Nephi 20#^3ne-20-35|≈ 3 Nephi 20:35]] · [[Mosiah 15#^mosiah-15-28|≈ Mosiah 15:28]] · [[Mosiah 15#^mosiah-15-31|≈ Mosiah 15:31]] · [[3 Nephi 16#^3ne-16-20|≈ 3 Nephi 16:20]]
 
 ![[1 Nephi 19#^1ne-19-18]]
 > [[Mosiah 13#^mosiah-13-29|Mosiah 13:29]]

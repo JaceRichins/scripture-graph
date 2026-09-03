@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 8
 slug: ezra-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -63,7 +63,7 @@ Ezra 8 continues the expedition introduced in [[Ezra 7]], where the first-person
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 - [[Parables of Jesus]] *(keyword match — unconfirmed)*

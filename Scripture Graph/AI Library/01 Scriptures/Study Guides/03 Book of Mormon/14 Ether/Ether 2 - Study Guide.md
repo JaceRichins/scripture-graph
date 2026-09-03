@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 2
 slug: ether-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,14 +47,15 @@ _Not yet developed._
 - [[1 Nephi 16]] — 2 footnote cross-references (from [[Ether 2#^ether-2-3|Ether 2:3]])
 - [[Ether 1]] — 12 parallel verses, e.g. [[Ether 2#^ether-2-16|Ether 2:16]] ↔ [[Ether 1#^ether-1-35|Ether 1:35]]
 - [[Ether 3]] — 6 parallel verses, e.g. [[Ether 2#^ether-2-20|Ether 2:20]] ↔ [[Ether 3#^ether-3-21|Ether 3:21]]
-- [[Alma 50]] — 3 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
 - [[1 Nephi 18]] — 3 parallel verses, e.g. [[Ether 2#^ether-2-25|Ether 2:25]] ↔ [[1 Nephi 18#^1ne-18-10|1 Nephi 18:10]]
+- [[Alma 50]] — 3 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
 - [[1 Nephi 2]] — 2 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Alma 42]] — 3 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
 - [[2 Nephi 5]] — 1 parallel verse, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]]
 - [[Genesis 4]] — 2 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[Genesis 4#^gen-4-16|Genesis 4:16]]
 - [[2 Nephi 1]] — 1 parallel verse, e.g. [[Ether 2#^ether-2-10|Ether 2:10]] ↔ [[2 Nephi 1#^2ne-1-5|2 Nephi 1:5]]
+- [[Ether 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,7 +78,9 @@ _Not yet developed._
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[Wholehearted (Sister Michelle D. Craig, October 2022)|Wholehearted]] — Sister Michelle D. Craig, 2022-October *(explicit citation)*
 - [[Drawing Closer to God (Elder Terence M. Vinson, October 2013)|Drawing Closer to God]] — Elder Terence M. Vinson, 2013-October *(explicit citation)*
+- [[“As Many as I Love, I Rebuke and Chasten” (Elder D. Todd Christofferson, April 2011)|“As Many as I Love, I Rebuke and Chasten”]] — Elder D. Todd Christofferson, 2011-April *(explicit citation)*
 - [[Conference Report, October 1927 (General Conference (full report), October 1927)|Conference Report, October 1927]] — General Conference (full report), 1927-October *(explicit citation)*
+- [[Be Anxiously Engaged (Elder M. Russell Ballard, October 2012)|Be Anxiously Engaged]] — Elder M. Russell Ballard, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

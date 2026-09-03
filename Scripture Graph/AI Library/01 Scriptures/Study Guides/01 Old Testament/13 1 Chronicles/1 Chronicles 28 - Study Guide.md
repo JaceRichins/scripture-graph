@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 28
 slug: 1chr-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,24 +51,25 @@ Scripture: [[1 Chronicles 28]] · My notes: [[1 Chronicles 28 - My Notes]]
 - [[Lamentations 2]] — 1 footnote cross-reference (from [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]])
 - [[2 Nephi 13]] — 1 footnote cross-reference (from [[1 Chronicles 28#^1chr-28-3|1 Chronicles 28:3]])
 - [[1 Samuel 16]] — 1 footnote cross-reference (from [[1 Chronicles 28#^1chr-28-4|1 Chronicles 28:4]])
+- [[Deuteronomy 31]] — 8 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]] ↔ [[Deuteronomy 31#^deut-31-6|Deuteronomy 31:6]]
 - [[1 Chronicles 15]] — 8 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[Joshua 3]] — 6 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
 - [[1 Samuel 4]] — 6 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
 - [[1 Chronicles 23]] — 4 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]] ↔ [[1 Chronicles 23#^1chr-23-24|1 Chronicles 23:24]]
+- [[1 Chronicles 22]] — 4 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-6|1 Chronicles 28:6]] ↔ [[1 Chronicles 22#^1chr-22-10|1 Chronicles 22:10]]
 - [[2 Chronicles 31]] — 3 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-21|1 Chronicles 28:21]] ↔ [[2 Chronicles 31#^2chr-31-21|2 Chronicles 31:21]]
 - [[Joshua 4]] — 4 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[Joshua 4#^josh-4-7|Joshua 4:7]]
 - [[1 Kings 8]] — 4 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
 - [[2 Chronicles 5]] — 4 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
 - [[1 Chronicles 17]] — 3 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[1 Chronicles 17#^1chr-17-1|1 Chronicles 17:1]]
 - [[1 Chronicles 9]] — 2 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-13|1 Chronicles 28:13]] ↔ [[1 Chronicles 9#^1chr-9-13|1 Chronicles 9:13]]
-- [[Numbers 14]] — 2 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[Numbers 14#^num-14-44|Numbers 14:44]]
-- [[1 Kings 3]] — 2 parallel verses, e.g. [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]] ↔ [[1 Kings 3#^1kgs-3-15|1 Kings 3:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Covenants]]
 - [[Service]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

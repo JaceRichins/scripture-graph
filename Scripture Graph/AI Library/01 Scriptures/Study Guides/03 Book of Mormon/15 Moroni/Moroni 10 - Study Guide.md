@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 10
 slug: moro-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ This outline follows explicit topic changes and repeated exhortations; it should
 - [[Ether 5]] — 2 footnote cross-references (from [[Moroni 10#^moro-10-4|Moroni 10:4]])
 - [[James 1]] — 2 footnote cross-references (from [[Moroni 10#^moro-10-4|Moroni 10:4]])
 - [[John 8]] — 2 footnote cross-references (from [[Moroni 10#^moro-10-5|Moroni 10:5]])
+- [[1 Nephi 10]] — 7 parallel verses, e.g. [[Moroni 10#^moro-10-19|Moroni 10:19]] ↔ [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]]
 - [[Moroni 6]] — 6 parallel verses, e.g. [[Moroni 10#^moro-10-5|Moroni 10:5]] ↔ [[Moroni 6#^moro-6-9|Moroni 6:9]]
 - [[D&C 20]] — 5 parallel verses, e.g. [[Moroni 10#^moro-10-26|Moroni 10:26]] ↔ [[D&C 20#^dc-20-29|D&C 20:29]]
 - [[2 Nephi 33]] — 4 parallel verses, e.g. [[Moroni 10#^moro-10-28|Moroni 10:28]] ↔ [[2 Nephi 33#^2ne-33-14|2 Nephi 33:14]]
@@ -66,7 +67,6 @@ This outline follows explicit topic changes and repeated exhortations; it should
 - [[D&C 124]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-5|Moroni 10:5]] ↔ [[D&C 124#^dc-124-4|D&C 124:4]]
 - [[Moroni 3]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-4|Moroni 10:4]] ↔ [[Moroni 3#^moro-3-4|Moroni 3:4]]
 - [[Moroni 7]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-4|Moroni 10:4]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
-- [[Moroni 8]] — 3 parallel verses, e.g. [[Moroni 10#^moro-10-4|Moroni 10:4]] ↔ [[Moroni 8#^moro-8-7|Moroni 8:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,11 +74,11 @@ This outline follows explicit topic changes and repeated exhortations; it should
 - [[Grace]]
 - [[Gift of the Holy Ghost]]
 - [[Gift of Tongues]]
+- [[Justification and Sanctification]]
 - [[Revelation]]
 - [[Book of Mormon (Gospel Topic)]]
 - [[Spiritual Gifts]]
 - [[Testimony]]
-- [[Justification and Sanctification]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -92,12 +92,12 @@ Moroni's closing doctrine is strongly Christ-centered. Knowledge is attributed t
 - [[The Role of the Book of Mormon in Conversion (Elder Shayne M. Bowen, October 2018)|The Role of the Book of Mormon in Conversion]] — Elder Shayne M. Bowen, 2018-October *(explicit citation)*
 - [[The Truth of All Things (Elder David F. Evans, October 2017)|The Truth of All Things]] — Elder David F. Evans, 2017-October *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[Now Is the Time to Arise and Shine! (Elaine S. Dalton, April 2012)|Now Is the Time to Arise and Shine!]] — Elaine S. Dalton, 2012-April *(explicit citation)*
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[All Things for Our Good (Elder Gerrit W. Gong, April 2024)|All Things for Our Good]] — Elder Gerrit W. Gong, 2024-April *(explicit citation)*
 - [[Your Next Step (Elder Randall K. Bennett, October 2015)|Your Next Step]] — Elder Randall K. Bennett, 2015-October *(explicit citation)*
 - [[Revelation for the Church, Revelation for Our Lives (President Russell M. Nelson, April 2018)|Revelation for the Church, Revelation for Our Lives]] — President Russell M. Nelson, 2018-April *(explicit citation)*
-- [[The Atonement of Jesus Christ (Tad R. Callister, April 2019)|The Atonement of Jesus Christ]] — Tad R. Callister, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -71,7 +71,7 @@ cssclasses:
 > [[Alma 55#^alma-55-4|≈ Alma 55:4]]
 
 ![[Alma 46#^alma-46-20]]
-> [[Alma 48#^alma-48-13|Alma 48:13]] · [[Alma 61#^alma-61-18|≈ Alma 61:18]] · [[3 Nephi 6#^3ne-6-29|≈ 3 Nephi 6:29]] · [[3 Nephi 5#^3ne-5-4|≈ 3 Nephi 5:4]]
+> [[Alma 48#^alma-48-13|Alma 48:13]] · [[Alma 61#^alma-61-18|≈ Alma 61:18]] · [[3 Nephi 5#^3ne-5-4|≈ 3 Nephi 5:4]] · [[3 Nephi 6#^3ne-6-29|≈ 3 Nephi 6:29]]
 
 ![[Alma 46#^alma-46-21]]
 > [[2 Samuel 20#^2sam-20-11|2 Sam. 20:14 (11–14)]] · [[Jeremiah 17#^jer-17-13|Jer. 17:13]] · [[Romans 1#^rom-1-16|Rom. 1:16]] · [[2 Timothy 1#^2tim-1-8|2 Tim. 1:8]] · [[1 Nephi 8#^1ne-8-25|1 Ne. 8:25]] · [[Mormon 8#^morm-8-38|Morm. 8:38]] · [[D&C 20#^dc-20-37|≈ D&C 20:37]] · [[D&C 20#^dc-20-77|≈ D&C 20:77]]
@@ -116,7 +116,7 @@ cssclasses:
 > [[Alma 43#^alma-43-30|Alma 43:30]]
 
 ![[Alma 46#^alma-46-36]]
-> [[Alma 62#^alma-62-4|Alma 62:4]] · [[Helaman 3#^hel-3-31|≈ Helaman 3:31]] · [[Alma 48#^alma-48-9|≈ Alma 48:9]] · [[Alma 50#^alma-50-1|≈ Alma 50:1]] · [[Alma 45#^alma-45-22|≈ Alma 45:22]]
+> [[Alma 62#^alma-62-4|Alma 62:4]] · [[Alma 48#^alma-48-9|≈ Alma 48:9]] · [[Helaman 3#^hel-3-31|≈ Helaman 3:31]] · [[Alma 50#^alma-50-1|≈ Alma 50:1]] · [[Alma 45#^alma-45-22|≈ Alma 45:22]]
 
 ![[Alma 46#^alma-46-37]]
 > [[Alma 48#^alma-48-2|≈ Alma 48:2]] · [[Alma 45#^alma-45-20|≈ Alma 45:20]]

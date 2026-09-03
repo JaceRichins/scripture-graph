@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 8
 slug: rev-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Numbers 16]] — 1 footnote cross-reference (from [[Revelation 8#^rev-8-3|Revelation 8:3]])
 - [[Revelation 5]] — 1 footnote cross-reference (from [[Revelation 8#^rev-8-4|Revelation 8:4]])
 - [[Ezekiel 10]] — 1 footnote cross-reference (from [[Revelation 8#^rev-8-5|Revelation 8:5]])
+- [[Revelation 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -63,7 +64,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

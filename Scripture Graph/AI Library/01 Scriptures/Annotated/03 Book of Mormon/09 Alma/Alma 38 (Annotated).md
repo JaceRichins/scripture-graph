@@ -17,7 +17,7 @@ cssclasses:
 > Shiblon was persecuted for righteousness’ sake—Salvation is in Christ, who is the life and the light of the world—Bridle all your passions. About 74 B.C.
 
 ![[Alma 38#^alma-38-1]]
-> [[Alma 31#^alma-31-7|Alma 31:7]] · [[Alma 63#^alma-63-1|63:1]] · [[Alma 36#^alma-36-30|Alma 36:30]] · [[1 Nephi 2#^1ne-2-21|1 Ne. 2:21]] · [[2 Nephi 5#^2ne-5-20|2 Ne. 5:20 (20–24)]] · [[Alma 9#^alma-9-13|Alma 9:14 (13–15)]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Mosiah 2#^mosiah-2-31|≈ Mosiah 2:31]] · [[Alma 36#^alma-36-30|≈ Alma 36:30]] · [[Alma 36#^alma-36-1|≈ Alma 36:1]]
+> [[Alma 31#^alma-31-7|Alma 31:7]] · [[Alma 63#^alma-63-1|63:1]] · [[Alma 36#^alma-36-30|Alma 36:30]] · [[1 Nephi 2#^1ne-2-21|1 Ne. 2:21]] · [[2 Nephi 5#^2ne-5-20|2 Ne. 5:20 (20–24)]] · [[Alma 9#^alma-9-13|Alma 9:14 (13–15)]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Mosiah 2#^mosiah-2-31|≈ Mosiah 2:31]] · [[2 Nephi 1#^2ne-1-20|≈ 2 Nephi 1:20]] · [[2 Nephi 4#^2ne-4-4|≈ 2 Nephi 4:4]]
 
 ![[Alma 38#^alma-38-2]]
 > [[Matthew 10#^matt-10-22|Matt. 10:22]] · [[Mark 13#^mark-13-13|Mark 13:13]] · [[2 Nephi 31#^2ne-31-15|2 Ne. 31:16 (15–20)]] · [[Alma 32#^alma-32-13|Alma 32:13 (13–15)]] · [[3 Nephi 15#^3ne-15-9|3 Ne. 15:9]] · [[3 Nephi 27#^3ne-27-6|27:6 (6–17)]] · [[D&C 20#^dc-20-29|D&amp;C 20:29]] · [[D&C 53#^dc-53-7|53:7]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 2
 slug: esth-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,18 +53,18 @@ The chapter plants two delayed elements—Esther's concealed identity and Mordec
 - [[2 Nephi 6]] — 1 footnote cross-reference (from [[Esther 2#^esth-2-6|Esther 2:6]])
 - [[Helaman 8]] — 1 footnote cross-reference (from [[Esther 2#^esth-2-6|Esther 2:6]])
 - [[Esther 8]] — 1 footnote cross-reference (from [[Esther 2#^esth-2-10|Esther 2:10]])
+- [[Esther 6]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-2|Esther 2:2]] ↔ [[Esther 6#^esth-6-3|Esther 6:3]]
 - [[Esther 9]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-8|Esther 2:8]] ↔ [[Esther 9#^esth-9-1|Esther 9:1]]
 - [[Esther 1]] — 2 parallel verses, e.g. [[Esther 2#^esth-2-18|Esther 2:18]] ↔ [[Esther 1#^esth-1-3|Esther 1:3]]
 - [[Ezra 2]] — 1 parallel verse, e.g. [[Esther 2#^esth-2-6|Esther 2:6]] ↔ [[Ezra 2#^ezra-2-1|Ezra 2:1]]
 - [[Nehemiah 7]] — 1 parallel verse, e.g. [[Esther 2#^esth-2-6|Esther 2:6]] ↔ [[Nehemiah 7#^neh-7-6|Nehemiah 7:6]]
-- [[Esther 6]] — 0 parallel verses
 - [[Esther 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Jews and Gentiles]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

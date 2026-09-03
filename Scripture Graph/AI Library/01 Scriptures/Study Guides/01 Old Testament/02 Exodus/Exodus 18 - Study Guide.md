@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 18
 slug: ex-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ Scripture: [[Exodus 18]] · My notes: [[Exodus 18 - My Notes]]
 - [[Deuteronomy 1]] — 0 parallel verses
 - [[Numbers 11]] — 0 parallel verses
 - [[Exodus 2]] — 0 parallel verses
+- [[D&C 136]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -84,7 +85,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aaron** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

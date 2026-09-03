@@ -31,6 +31,8 @@ _Not yet developed._
 - [[3 Nephi 27]]
 - [[3 Nephi 11]]
 - [[3 Nephi 12]]
+- [[3 Nephi 13]]
+- [[3 Nephi 14]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

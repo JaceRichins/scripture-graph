@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 9
 slug: 1kgs-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,19 +52,21 @@ After the completion of the temple and royal palace, the LORD answers Solomon's 
 - [[1 Kings 7]] — 2 footnote cross-references (from [[1 Kings 9#^1kgs-9-1|1 Kings 9:1]])
 - [[2 Chronicles 7]] — 1 footnote cross-reference (from [[1 Kings 9#^1kgs-9-1|1 Kings 9:1]])
 - [[2 Nephi 5]] — 1 footnote cross-reference (from [[1 Kings 9#^1kgs-9-1|1 Kings 9:1]])
+- [[2 Chronicles 7]] — 10 parallel verses, e.g. [[1 Kings 9#^1kgs-9-7|1 Kings 9:7]] ↔ [[2 Chronicles 7#^2chr-7-20|2 Chronicles 7:20]]
+- [[2 Chronicles 8]] — 8 parallel verses, e.g. [[1 Kings 9#^1kgs-9-22|1 Kings 9:22]] ↔ [[2 Chronicles 8#^2chr-8-9|2 Chronicles 8:9]]
+- [[2 Kings 25]] — 2 parallel verses, e.g. [[1 Kings 9#^1kgs-9-1|1 Kings 9:1]] ↔ [[2 Kings 25#^2kgs-25-9|2 Kings 25:9]]
+- [[Jeremiah 52]] — 2 parallel verses, e.g. [[1 Kings 9#^1kgs-9-1|1 Kings 9:1]] ↔ [[Jeremiah 52#^jer-52-13|Jeremiah 52:13]]
 - [[2 Kings 21]] — 1 parallel verse, e.g. [[1 Kings 9#^1kgs-9-4|1 Kings 9:4]] ↔ [[2 Kings 21#^2kgs-21-8|2 Kings 21:8]]
 - [[Jeremiah 50]] — 1 parallel verse, e.g. [[1 Kings 9#^1kgs-9-4|1 Kings 9:4]] ↔ [[Jeremiah 50#^jer-50-21|Jeremiah 50:21]]
 - [[2 Chronicles 6]] — 1 parallel verse, e.g. [[1 Kings 9#^1kgs-9-5|1 Kings 9:5]] ↔ [[2 Chronicles 6#^2chr-6-16|2 Chronicles 6:16]]
-- [[2 Chronicles 8]] — 0 parallel verses
-- [[2 Chronicles 7]] — 0 parallel verses
 - [[1 Kings 3]] — 0 parallel verses
 - [[2 Chronicles 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Covenants]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Scattering of Israel]] *(keyword match — unconfirmed)*

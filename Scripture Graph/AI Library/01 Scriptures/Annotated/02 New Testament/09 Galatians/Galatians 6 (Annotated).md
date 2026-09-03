@@ -57,4 +57,4 @@ cssclasses:
 ![[Galatians 6#^gal-6-17]]
 
 ![[Galatians 6#^gal-6-18]]
-> [[Romans 16#^rom-16-20|≈ Romans 16:20]] · [[Romans 16#^rom-16-24|≈ Romans 16:24]] · [[Philippians 4#^philip-4-23|≈ Philippians 4:23]] · [[Philemon 1#^philem-1-25|≈ Philemon 1:25]] · [[Revelation 22#^rev-22-21|≈ Revelation 22:21]] · [[1 Corinthians 16#^1cor-16-23|≈ 1 Corinthians 16:23]]
+> [[Romans 16#^rom-16-20|≈ Romans 16:20]] · [[Romans 16#^rom-16-24|≈ Romans 16:24]] · [[Philippians 4#^philip-4-23|≈ Philippians 4:23]] · [[Philemon 1#^philem-1-25|≈ Philemon 1:25]] · [[Revelation 22#^rev-22-21|≈ Revelation 22:21]] · [[1 Thessalonians 5#^1thes-5-28|≈ 1 Thessalonians 5:28]]

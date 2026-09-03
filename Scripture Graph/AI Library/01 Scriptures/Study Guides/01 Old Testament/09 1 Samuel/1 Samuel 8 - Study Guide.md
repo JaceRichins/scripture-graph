@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 8
 slug: 1sam-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -62,9 +62,9 @@ The chapter moves through five main movements, with the command to 'hearken unto
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Freedom and Liberty]]
 - [[Kingdom of God]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

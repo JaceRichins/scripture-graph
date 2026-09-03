@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 3
 slug: mal-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,9 @@ _Not yet developed._
 - [[D&C 101]] — 2 footnote cross-references (from [[Malachi 3#^mal-3-17|Malachi 3:17]])
 - [[3 Nephi 24]] — 18 parallel verses, e.g. [[Malachi 3#^mal-3-5|Malachi 3:5]] ↔ [[3 Nephi 24#^3ne-24-5|3 Nephi 24:5]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[Malachi 3#^mal-3-3|Malachi 3:3]] ↔ [[D&C 128#^dc-128-24|D&C 128:24]]
+- [[D&C 36]] — 0 parallel verses
+- [[D&C 60]] — 0 parallel verses
+- [[D&C 85]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,8 +72,8 @@ _Not yet developed._
 - [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 - [[Four Titles (President Dieter F. Uchtdorf, April 2013)|Four Titles]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
+- [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
 - [[The Windows of Heaven (Elder David A. Bednar, October 2013)|The Windows of Heaven]] — Elder David A. Bednar, 2013-October *(explicit citation)*
-- [[Tithing—Putting God First (Elder Jorge T. Becerra, April 2026)|Tithing—Putting God First]] — Elder Jorge T. Becerra, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -83,6 +86,7 @@ _Not yet developed._
 - **‘The Tithing of My People’** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 2** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

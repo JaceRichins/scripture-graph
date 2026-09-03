@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 12
 slug: rev-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[D&C 29]] — 1 footnote cross-reference (from [[Revelation 12#^rev-12-4|Revelation 12:4]])
 - [[1 Nephi 11]] — 1 footnote cross-reference (from [[Revelation 12#^rev-12-5|Revelation 12:5]])
 - [[Amos 8]] — 1 footnote cross-reference (from [[Revelation 12#^rev-12-6|Revelation 12:6]])
+- [[Revelation 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,8 +78,13 @@ _Not yet developed._
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
 - **War in Heaven** (reference-entry) *(explicit citation)*
+- **40 United in an Everlasting Covenant** (history) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
+- **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

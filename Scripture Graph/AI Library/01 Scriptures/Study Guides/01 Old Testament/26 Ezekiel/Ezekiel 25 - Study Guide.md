@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 25
 slug: ezek-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,15 +54,15 @@ _Not yet developed._
 - [[Ezekiel 30]] — 5 parallel verses, e.g. [[Ezekiel 25#^ezek-25-17|Ezekiel 25:17]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
 - [[Ezekiel 28]] — 4 parallel verses, e.g. [[Ezekiel 25#^ezek-25-17|Ezekiel 25:17]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
 - [[Ezekiel 23]] — 4 parallel verses, e.g. [[Ezekiel 25#^ezek-25-1|Ezekiel 25:1]] ↔ [[Ezekiel 23#^ezek-23-1|Ezekiel 23:1]]
+- [[Ezekiel 35]] — 4 parallel verses, e.g. [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
 - [[Ezekiel 37]] — 3 parallel verses, e.g. [[Ezekiel 25#^ezek-25-1|Ezekiel 25:1]] ↔ [[Ezekiel 37#^ezek-37-15|Ezekiel 37:15]]
 - [[Ezekiel 29]] — 3 parallel verses, e.g. [[Ezekiel 25#^ezek-25-16|Ezekiel 25:16]] ↔ [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]]
 - [[Ezekiel 14]] — 2 parallel verses, e.g. [[Ezekiel 25#^ezek-25-13|Ezekiel 25:13]] ↔ [[Ezekiel 14#^ezek-14-13|Ezekiel 14:13]]
 - [[Jeremiah 51]] — 2 parallel verses, e.g. [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]] ↔ [[Jeremiah 51#^jer-51-25|Jeremiah 51:25]]
 - [[Zephaniah 1]] — 2 parallel verses, e.g. [[Ezekiel 25#^ezek-25-13|Ezekiel 25:13]] ↔ [[Zephaniah 1#^zeph-1-4|Zephaniah 1:4]]
+- [[Ezekiel 36]] — 1 parallel verse, e.g. [[Ezekiel 25#^ezek-25-3|Ezekiel 25:3]] ↔ [[Ezekiel 36#^ezek-36-4|Ezekiel 36:4]]
 - [[Isaiah 49]] — 2 parallel verses, e.g. [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
 - [[Ezekiel 6]] — 1 parallel verse, e.g. [[Ezekiel 25#^ezek-25-3|Ezekiel 25:3]] ↔ [[Ezekiel 6#^ezek-6-3|Ezekiel 6:3]]
-- [[Ezekiel 20]] — 2 parallel verses, e.g. [[Ezekiel 25#^ezek-25-17|Ezekiel 25:17]] ↔ [[Ezekiel 20#^ezek-20-42|Ezekiel 20:42]]
-- [[1 Nephi 21]] — 2 parallel verses, e.g. [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]] ↔ [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -84,7 +84,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

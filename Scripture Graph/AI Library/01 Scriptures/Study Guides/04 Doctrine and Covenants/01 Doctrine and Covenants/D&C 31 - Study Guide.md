@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 31
 slug: dc-31
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 31]] · My notes: [[D&C 31 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–6, Thomas B. Marsh is called to preach the gospel and is assured of his family’s well-being; 7–13, He is counseled to be patient, pray always, and follow the Comforter.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,6 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 52]] — 2 footnote cross-references (from [[D&C 31#^dc-31-1|D&C 31:1]])
+- [[D&C 75]] — 2 footnote cross-references (from [[D&C 31#^dc-31-1|D&C 31:1]])
+- [[D&C 56]] — 1 footnote cross-reference (from [[D&C 31#^dc-31-1|D&C 31:1]])
+- [[Isaiah 52]] — 1 footnote cross-reference (from [[D&C 31#^dc-31-3|D&C 31:3]])
+- [[Luke 2]] — 1 footnote cross-reference (from [[D&C 31#^dc-31-3|D&C 31:3]])
+- [[Romans 10]] — 1 footnote cross-reference (from [[D&C 31#^dc-31-3|D&C 31:3]])
 - [[D&C 33]] — 1 parallel verse, e.g. [[D&C 31#^dc-31-5|D&C 31:5]] ↔ [[D&C 33#^dc-33-9|D&C 33:9]]
 <!-- SG:END related-scriptures -->
 
@@ -60,6 +67,7 @@ _Not yet developed._
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[We Never Walk Alone (President Thomas S. Monson, October 2013)|We Never Walk Alone]] — President Thomas S. Monson, 2013-October *(explicit citation)*
 - [[Lift Up Your Heart and Rejoice (Elder Marcos A. Aidukaitis, April 2022)|Lift Up Your Heart and Rejoice]] — Elder Marcos A. Aidukaitis, 2022-April *(explicit citation)*
+- [[Converted to His Gospel through His Church (Elder Donald L. Hallstrom, April 2012)|Converted to His Gospel through His Church]] — Elder Donald L. Hallstrom, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

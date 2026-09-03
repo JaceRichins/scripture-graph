@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 31
 slug: num-31
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 20
 slug: jer-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Jeremiah 51]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]]
 - [[Jeremiah 21]] — 1 parallel verse, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 21#^jer-21-10|Jeremiah 21:10]]
 - [[Ezekiel 30]] — 1 parallel verse, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
+- [[Jeremiah 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

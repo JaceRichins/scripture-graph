@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 7
 slug: neh-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Nehemiah 11]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-60|Nehemiah 7:60]] ↔ [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]]
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Nehemiah 7#^neh-7-1|Nehemiah 7:1]] ↔ [[Nehemiah 10#^neh-10-39|Nehemiah 10:39]]
 - [[Esther 2]] — 1 parallel verse, e.g. [[Nehemiah 7#^neh-7-6|Nehemiah 7:6]] ↔ [[Esther 2#^esth-2-6|Esther 2:6]]
+- [[Nehemiah 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 34
 slug: ex-34
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ _Not yet developed._
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Ten Commandments** (reference-entry) *(explicit citation)*
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

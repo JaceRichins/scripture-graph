@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 10
 slug: neh-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,8 @@ _Not yet developed._
 - [[3 Nephi 24]] — 1 footnote cross-reference (from [[Nehemiah 10#^neh-10-32|Nehemiah 10:32]])
 - [[Joshua 22]] — 3 parallel verses, e.g. [[Nehemiah 10#^neh-10-39|Nehemiah 10:39]] ↔ [[Joshua 22#^josh-22-33|Joshua 22:33]]
 - [[1 Chronicles 23]] — 3 parallel verses, e.g. [[Nehemiah 10#^neh-10-32|Nehemiah 10:32]] ↔ [[1 Chronicles 23#^1chr-23-24|1 Chronicles 23:24]]
+- [[Nehemiah 13]] — 2 parallel verses, e.g. [[Nehemiah 10#^neh-10-39|Nehemiah 10:39]] ↔ [[Nehemiah 13#^neh-13-12|Nehemiah 13:12]]
+- [[Nehemiah 7]] — 2 parallel verses, e.g. [[Nehemiah 10#^neh-10-39|Nehemiah 10:39]] ↔ [[Nehemiah 7#^neh-7-1|Nehemiah 7:1]]
 - [[1 Chronicles 28]] — 2 parallel verses, e.g. [[Nehemiah 10#^neh-10-32|Nehemiah 10:32]] ↔ [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]]
 - [[1 Kings 2]] — 2 parallel verses, e.g. [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]] ↔ [[1 Kings 2#^1kgs-2-3|1 Kings 2:3]]
 - [[2 Chronicles 23]] — 2 parallel verses, e.g. [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
@@ -64,8 +66,6 @@ _Not yet developed._
 - [[Ezra 3]] — 2 parallel verses, e.g. [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]] ↔ [[Ezra 3#^ezra-3-2|Ezra 3:2]]
 - [[Daniel 9]] — 2 parallel verses, e.g. [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]] ↔ [[Daniel 9#^dan-9-13|Daniel 9:13]]
 - [[Luke 2]] — 2 parallel verses, e.g. [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]] ↔ [[Luke 2#^luke-2-23|Luke 2:23]]
-- [[Nehemiah 13]] — 0 parallel verses
-- [[Nehemiah 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

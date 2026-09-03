@@ -22,7 +22,7 @@ cssclasses:
 > [[Exodus 34#^ex-34-15|Ex. 34:15]] · [[Exodus 22#^ex-22-20|Ex. 22:20]]
 
 ![[Numbers 25#^num-25-3]]
-> [[Hosea 9#^hosea-9-10|Hosea 9:10]] · [[Exodus 4#^ex-4-14|≈ Exodus 4:14]] · [[Numbers 12#^num-12-9|≈ Numbers 12:9]] · [[Deuteronomy 29#^deut-29-27|≈ Deuteronomy 29:27]] · [[Joshua 7#^josh-7-1|≈ Joshua 7:1]] · [[Judges 2#^judg-2-14|≈ Judges 2:14]] · [[Judges 2#^judg-2-20|≈ Judges 2:20]]
+> [[Hosea 9#^hosea-9-10|Hosea 9:10]] · [[Joshua 7#^josh-7-1|≈ Joshua 7:1]] · [[Exodus 4#^ex-4-14|≈ Exodus 4:14]] · [[Numbers 12#^num-12-9|≈ Numbers 12:9]] · [[Deuteronomy 29#^deut-29-27|≈ Deuteronomy 29:27]] · [[Judges 2#^judg-2-14|≈ Judges 2:14]] · [[Judges 2#^judg-2-20|≈ Judges 2:20]]
 
 ![[Numbers 25#^num-25-4]]
 > [[Deuteronomy 13#^deut-13-17|Deut. 13:17]]

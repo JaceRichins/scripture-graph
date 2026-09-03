@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 73
 slug: ps-73
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Job 12]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-12|Psalm 73:12]])
 - [[Psalm 17]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-12|Psalm 73:12]])
 - [[Helaman 7]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-12|Psalm 73:12]])
+- [[Psalm 49]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

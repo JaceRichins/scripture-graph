@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 13
 slug: rom-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Moroni 7]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-10|Romans 13:10]])
 - [[Matthew 22]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-10|Romans 13:10]])
 - [[Matthew 19]] — 2 parallel verses, e.g. [[Romans 13#^rom-13-9|Romans 13:9]] ↔ [[Matthew 19#^matt-19-18|Matthew 19:18]]
+- [[D&C 58]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,9 +66,10 @@ _Not yet developed._
 - [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[Wide Awake to Our Duties (Carole M. Stephens, October 2012)|Wide Awake to Our Duties]] — Carole M. Stephens, 2012-October *(explicit citation)*
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
-- [[Conference Report, April 1923 (General Conference (full report), April 1923)|Conference Report, April 1923]] — General Conference (full report), 1923-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

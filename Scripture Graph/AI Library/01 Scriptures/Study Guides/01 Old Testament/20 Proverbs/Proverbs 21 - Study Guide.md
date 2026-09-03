@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 21
 slug: prov-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,14 +50,14 @@ _Not yet developed._
 - [[Proverbs 3]] — 2 footnote cross-references (from [[Proverbs 21#^prov-21-10|Proverbs 21:10]])
 - [[Proverbs 16]] — 1 footnote cross-reference (from [[Proverbs 21#^prov-21-2|Proverbs 21:2]])
 - [[Proverbs 24]] — 1 footnote cross-reference (from [[Proverbs 21#^prov-21-2|Proverbs 21:2]])
+- [[Proverbs 25]] — 2 parallel verses, e.g. [[Proverbs 21#^prov-21-9|Proverbs 21:9]] ↔ [[Proverbs 25#^prov-25-24|Proverbs 25:24]]
 - [[Proverbs 10]] — 1 parallel verse, e.g. [[Proverbs 21#^prov-21-15|Proverbs 21:15]] ↔ [[Proverbs 10#^prov-10-29|Proverbs 10:29]]
-- [[Proverbs 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Pride]]
 - [[Work and Self-Reliance]]
+- [[Pride]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

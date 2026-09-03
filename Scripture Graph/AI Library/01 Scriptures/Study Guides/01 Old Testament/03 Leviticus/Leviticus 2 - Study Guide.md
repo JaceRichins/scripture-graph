@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 2
 slug: lev-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,14 +53,14 @@ _Not yet developed._
 - [[Numbers 15]] — 6 parallel verses, e.g. [[Leviticus 2#^lev-2-2|Leviticus 2:2]] ↔ [[Numbers 15#^num-15-10|Numbers 15:10]]
 - [[Leviticus 3]] — 8 parallel verses, e.g. [[Leviticus 2#^lev-2-9|Leviticus 2:9]] ↔ [[Leviticus 3#^lev-3-5|Leviticus 3:5]]
 - [[Leviticus 7]] — 8 parallel verses, e.g. [[Leviticus 2#^lev-2-16|Leviticus 2:16]] ↔ [[Leviticus 7#^lev-7-5|Leviticus 7:5]]
+- [[Leviticus 23]] — 8 parallel verses, e.g. [[Leviticus 2#^lev-2-16|Leviticus 2:16]] ↔ [[Leviticus 23#^lev-23-8|Leviticus 23:8]]
 - [[Numbers 28]] — 4 parallel verses, e.g. [[Leviticus 2#^lev-2-2|Leviticus 2:2]] ↔ [[Numbers 28#^num-28-8|Numbers 28:8]]
 - [[Numbers 29]] — 4 parallel verses, e.g. [[Leviticus 2#^lev-2-2|Leviticus 2:2]] ↔ [[Numbers 29#^num-29-13|Numbers 29:13]]
 - [[Exodus 29]] — 6 parallel verses, e.g. [[Leviticus 2#^lev-2-16|Leviticus 2:16]] ↔ [[Exodus 29#^ex-29-25|Exodus 29:25]]
 - [[Leviticus 24]] — 3 parallel verses, e.g. [[Leviticus 2#^lev-2-3|Leviticus 2:3]] ↔ [[Leviticus 24#^lev-24-9|Leviticus 24:9]]
 - [[Leviticus 21]] — 4 parallel verses, e.g. [[Leviticus 2#^lev-2-3|Leviticus 2:3]] ↔ [[Leviticus 21#^lev-21-6|Leviticus 21:6]]
 - [[Leviticus 8]] — 3 parallel verses, e.g. [[Leviticus 2#^lev-2-16|Leviticus 2:16]] ↔ [[Leviticus 8#^lev-8-28|Leviticus 8:28]]
-- [[Leviticus 4]] — 3 parallel verses, e.g. [[Leviticus 2#^lev-2-9|Leviticus 2:9]] ↔ [[Leviticus 4#^lev-4-31|Leviticus 4:31]]
-- [[Leviticus 10]] — 2 parallel verses, e.g. [[Leviticus 2#^lev-2-3|Leviticus 2:3]] ↔ [[Leviticus 10#^lev-10-12|Leviticus 10:12]]
+- [[Leviticus 6]] — 3 parallel verses, e.g. [[Leviticus 2#^lev-2-3|Leviticus 2:3]] ↔ [[Leviticus 6#^lev-6-18|Leviticus 6:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 137
 slug: ps-137
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -43,6 +43,7 @@ _Not yet developed._
 - [[Ezekiel 25]] — 1 footnote cross-reference (from [[Psalm 137#^ps-137-7|Psalm 137:7]])
 - [[Ezekiel 35]] — 1 footnote cross-reference (from [[Psalm 137#^ps-137-7|Psalm 137:7]])
 - [[Isaiah 47]] — 1 footnote cross-reference (from [[Psalm 137#^ps-137-8|Psalm 137:8]])
+- [[Lamentations 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

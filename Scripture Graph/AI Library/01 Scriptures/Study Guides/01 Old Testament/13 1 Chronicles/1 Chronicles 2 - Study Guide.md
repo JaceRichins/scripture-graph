@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 2
 slug: 1chr-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,7 +57,7 @@ The repeated Caleb headings (vv.18, 42, 50) resist reduction to one simple linea
 - [[Genesis 29]] — 1 footnote cross-reference (from [[1 Chronicles 2#^1chr-2-1|1 Chronicles 2:1]])
 - [[Genesis 30]] — 1 footnote cross-reference (from [[1 Chronicles 2#^1chr-2-2|1 Chronicles 2:2]])
 - [[Genesis 38]] — 1 footnote cross-reference (from [[1 Chronicles 2#^1chr-2-3|1 Chronicles 2:3]])
-- [[Genesis 46]] — 0 parallel verses
+- [[Genesis 46]] — 1 parallel verse, e.g. [[1 Chronicles 2#^1chr-2-3|1 Chronicles 2:3]] ↔ [[Genesis 46#^gen-46-12|Genesis 46:12]]
 - [[Ruth 4]] — 0 parallel verses
 - [[Joshua 7]] — 0 parallel verses
 - [[Exodus 31]] — 0 parallel verses
@@ -83,7 +83,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Asahel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

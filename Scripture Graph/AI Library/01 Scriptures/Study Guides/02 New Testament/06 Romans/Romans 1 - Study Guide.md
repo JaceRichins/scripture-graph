@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 1
 slug: rom-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,8 +48,8 @@ _Not yet developed._
 - [[D&C 45]] — 1 footnote cross-reference (from [[Romans 1#^rom-1-4|Romans 1:4]])
 - [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
-- [[Colossians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
 - [[1 Thessalonians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
+- [[Colossians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
 - [[2 Corinthians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
 - [[Ephesians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
 <!-- SG:END related-scriptures -->
@@ -76,6 +76,7 @@ _Not yet developed._
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[Teaching with the Power and Authority of God (David M. McConkie, October 2013)|Teaching with the Power and Authority of God]] — David M. McConkie, 2013-October *(explicit citation)*
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
+- [[I Know It. I Live It. I Love It. (Ann M. Dibb, October 2012)|I Know It. I Live It. I Love It.]] — Ann M. Dibb, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -83,6 +84,11 @@ _Not yet developed._
 - **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Gospel** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
+- **Times and Seasons 1840-03-01 (Vol. 1 No. 5)** (periodical, 1840-03-01) *(explicit citation)*
+- **Times and Seasons 1840-11-15 (Vol. 2 No. 2)** (periodical, 1840-11-15) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1834-11-01 (Vol. 1 No. 2)** (periodical, 1834-11-01) *(explicit citation)*
+- **Apostle** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

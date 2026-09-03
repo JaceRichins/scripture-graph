@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 12
 slug: gen-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,8 @@ _Not yet developed._
 - [[Genesis 26]] — 2 parallel verses, e.g. [[Genesis 12#^gen-12-10|Genesis 12:10]] ↔ [[Genesis 26#^gen-26-1|Genesis 26:1]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[Genesis 12#^gen-12-1|Genesis 12:1]] ↔ [[Acts 7#^acts-7-3|Acts 7:3]]
 - [[Exodus 32]] — 1 parallel verse, e.g. [[Genesis 12#^gen-12-2|Genesis 12:2]] ↔ [[Exodus 32#^ex-32-10|Exodus 32:10]]
+- [[Psalm 72]] — 0 parallel verses
+- [[Genesis 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,6 +78,9 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

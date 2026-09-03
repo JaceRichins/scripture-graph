@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 83
 slug: dc-83
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 83]] · My notes: [[D&C 83 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–4, Women and children have claim upon their husbands and fathers for their support; 5–6, Widows and orphans have claim upon the Church for their support.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 72]] — 2 parallel verses, e.g. [[D&C 83#^dc-83-1|D&C 83:1]] ↔ [[D&C 72#^dc-72-24|D&C 72:24]]
-- [[D&C 107]] — 2 parallel verses, e.g. [[D&C 83#^dc-83-3|D&C 83:3]] ↔ [[D&C 107#^dc-107-79|D&C 107:79]]
+- [[D&C 51]] — 2 footnote cross-references (from [[D&C 83#^dc-83-1|D&C 83:1]])
+- [[Mosiah 4]] — 2 footnote cross-references (from [[D&C 83#^dc-83-4|D&C 83:4]])
+- [[Deuteronomy 10]] — 1 footnote cross-reference (from [[D&C 83#^dc-83-1|D&C 83:1]])
+- [[Isaiah 1]] — 1 footnote cross-reference (from [[D&C 83#^dc-83-1|D&C 83:1]])
+- [[James 1]] — 1 footnote cross-reference (from [[D&C 83#^dc-83-1|D&C 83:1]])
+- [[D&C 75]] — 1 footnote cross-reference (from [[D&C 83#^dc-83-2|D&C 83:2]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

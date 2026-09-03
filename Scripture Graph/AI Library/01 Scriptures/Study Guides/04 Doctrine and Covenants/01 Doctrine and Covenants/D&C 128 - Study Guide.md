@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 128
 slug: dc-128
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,27 +57,33 @@ A restrained outline follows the chapter's major transitions:
 - [[1 Corinthians 15]] — cited in the text
 - [[Revelation 20]] — cited in the text
 - [[Matthew 16]] — cited in the text
+- [[D&C 127]] — 4 footnote cross-references (from [[D&C 128#^dc-128-2|D&C 128:2]])
+- [[D&C 124]] — 3 footnote cross-references (from [[D&C 128#^dc-128-13|D&C 128:13]])
+- [[D&C 35]] — 3 footnote cross-references (from [[D&C 128#^dc-128-17|D&C 128:17]])
+- [[D&C 27]] — 3 footnote cross-references (from [[D&C 128#^dc-128-20|D&C 128:20]])
+- [[D&C 138]] — 2 footnote cross-references (from [[D&C 128#^dc-128-5|D&C 128:5]])
+- [[D&C 76]] — 2 footnote cross-references (from [[D&C 128#^dc-128-13|D&C 128:13]])
 - [[Matthew 16]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-10|D&C 128:10]] ↔ [[Matthew 16#^matt-16-19|Matthew 16:19]]
 - [[1 Corinthians 15]] — 4 parallel verses, e.g. [[D&C 128#^dc-128-16|D&C 128:16]] ↔ [[1 Corinthians 15#^1cor-15-29|1 Corinthians 15:29]]
 - [[Revelation 20]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-6|D&C 128:6]] ↔ [[Revelation 20#^rev-20-12|Revelation 20:12]]
 - [[3 Nephi 24]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-24|D&C 128:24]] ↔ [[3 Nephi 24#^3ne-24-3|3 Nephi 24:3]]
+- [[Malachi 3]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-24|D&C 128:24]] ↔ [[Malachi 3#^mal-3-3|Malachi 3:3]]
 - [[Malachi 4]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[Malachi 4#^mal-4-6|Malachi 4:6]]
 - [[3 Nephi 25]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[3 Nephi 25#^3ne-25-6|3 Nephi 25:6]]
+- [[Matthew 18]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-8|D&C 128:8]] ↔ [[Matthew 18#^matt-18-18|Matthew 18:18]]
+- [[D&C 124]] — 4 parallel verses, e.g. [[D&C 128#^dc-128-8|D&C 128:8]] ↔ [[D&C 124#^dc-124-93|D&C 124:93]]
 - [[Mosiah 15]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-19|D&C 128:19]] ↔ [[Mosiah 15#^mosiah-15-16|Mosiah 15:16]]
+- [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[Joseph Smith—History 1#^jsh-1-38|Joseph Smith—History 1:38]]
 - [[Official Declaration 1]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-21|D&C 128:21]] ↔ [[Official Declaration 1#^od-1-9|Official Declaration 1:9]]
-- [[D&C 138]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[D&C 138#^dc-138-46|D&C 138:46]]
-- [[Official Declaration 2]] — 3 parallel verses, e.g. [[D&C 128#^dc-128-21|D&C 128:21]] ↔ [[Official Declaration 2#^od-2-2|Official Declaration 2:2]]
-- [[D&C 2]] — 1 parallel verse, e.g. [[D&C 128#^dc-128-17|D&C 128:17]] ↔ [[D&C 2#^dc-2-1|D&C 2:1]]
-- [[D&C 127]] — 2 parallel verses, e.g. [[D&C 128#^dc-128-7|D&C 128:7]] ↔ [[D&C 127#^dc-127-7|D&C 127:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Baptism for the Dead]]
-- [[Records and Sacred Writings]]
 - [[Priesthood Restoration]]
 - [[Final Judgment]]
 - [[Revelation]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Ordinances]] *(keyword match — unconfirmed)*
 - [[Priesthood]] *(keyword match — unconfirmed)*
@@ -112,10 +118,10 @@ The chapter treats authorized earthly action as capable of heavenly recognition.
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **Restoration of the Priesthood** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **21 The Spirit of God** (history) *(explicit citation)*
+- **39 The Seventh Trouble** (history) *(explicit citation)*
+- **46 Endowed with Power** (history) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
-- **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
-- **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

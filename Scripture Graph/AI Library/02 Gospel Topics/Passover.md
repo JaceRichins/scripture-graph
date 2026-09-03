@@ -39,6 +39,7 @@ _Not yet developed._
 - [[Exodus 34]] *(keyword match)*
 - [[2 Kings 23]] *(keyword match)*
 - [[Leviticus 23]] *(keyword match)*
+- [[Ezekiel 45]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference
@@ -85,3 +86,8 @@ _Not yet developed._
 <!-- SG:BEGIN synthesis -->
 _Not yet developed._
 <!-- SG:END synthesis -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

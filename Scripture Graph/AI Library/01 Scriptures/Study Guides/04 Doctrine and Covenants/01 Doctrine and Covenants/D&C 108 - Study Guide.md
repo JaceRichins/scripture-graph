@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 108
 slug: dc-108
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 108]] · My notes: [[D&C 108 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, Lyman Sherman is forgiven of his sins; 4–5, He is to be numbered with the leading elders of the Church; 6–8, He is called to preach the gospel and strengthen his brethren.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 2 footnote cross-references (from [[D&C 108#^dc-108-4|D&C 108:4]])
+- [[D&C 105]] — 2 footnote cross-references (from [[D&C 108#^dc-108-4|D&C 108:4]])
+- [[D&C 95]] — 1 footnote cross-reference (from [[D&C 108#^dc-108-4|D&C 108:4]])
+- [[D&C 109]] — 1 footnote cross-reference (from [[D&C 108#^dc-108-4|D&C 108:4]])
+- [[D&C 82]] — 1 footnote cross-reference (from [[D&C 108#^dc-108-5|D&C 108:5]])
+- [[Luke 22]] — 1 footnote cross-reference (from [[D&C 108#^dc-108-7|D&C 108:7]])
 - [[D&C 95]] — 2 parallel verses, e.g. [[D&C 108#^dc-108-5|D&C 108:5]] ↔ [[D&C 95#^dc-95-9|D&C 95:9]]
 - [[D&C 132]] — 2 parallel verses, e.g. [[D&C 108#^dc-108-1|D&C 108:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
 - [[D&C 100]] — 2 parallel verses, e.g. [[D&C 108#^dc-108-1|D&C 108:1]] ↔ [[D&C 100#^dc-100-1|D&C 100:1]]

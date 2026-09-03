@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 4
 slug: jacob-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -75,11 +75,11 @@ _Not yet developed._
 - [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
 - [[Be Reconciled to God (Elder Kelly R. Johnson, October 2025)|Be Reconciled to God]] — Elder Kelly R. Johnson, 2025-October *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Stay by the Tree (Elder Kevin W. Pearson, April 2015)|Stay by the Tree]] — Elder Kevin W. Pearson, 2015-April *(explicit citation)*
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Meeting the Challenges of Today’s World (Elder Robert D. Hales, October 2015)|Meeting the Challenges of Today’s World]] — Elder Robert D. Hales, 2015-October *(explicit citation)*
 - [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
-- [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

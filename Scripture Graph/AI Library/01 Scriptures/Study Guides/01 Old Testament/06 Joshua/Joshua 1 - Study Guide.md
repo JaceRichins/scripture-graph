@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 1
 slug: josh-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,8 @@ _Not yet developed._
 - [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
+- [[Arise and Shine Forth (Ann M. Dibb, April 2012)|Arise and Shine Forth]] — Ann M. Dibb, 2012-April *(explicit citation)*
+- [[Mountains to Climb (President Henry B. Eyring, April 2012)|Mountains to Climb]] — President Henry B. Eyring, 2012-April *(explicit citation)*
 - [[This Is Our Time! (Elder S. Gifford Nielsen, April 2021)|This Is Our Time!]] — Elder S. Gifford Nielsen, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 

@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 5
 slug: abr-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[Abraham 5]] · My notes: [[Abraham 5 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> The Gods finish Their planning of the creation of all things—They bring to pass the Creation according to Their plans—Adam names every living creature.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,8 +40,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Mosiah 13]] — 2 footnote cross-references (from [[Abraham 5#^abr-5-3|Abraham 5:3]])
+- [[D&C 77]] — 2 footnote cross-references (from [[Abraham 5#^abr-5-3|Abraham 5:3]])
+- [[Moses 4]] — 2 footnote cross-references (from [[Abraham 5#^abr-5-7|Abraham 5:7]])
+- [[Abraham 3]] — 2 footnote cross-references (from [[Abraham 5#^abr-5-13|Abraham 5:13]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[Abraham 5#^abr-5-1|Abraham 5:1]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[Abraham 5#^abr-5-1|Abraham 5:1]])
 - [[Genesis 2]] — 19 parallel verses, e.g. [[Abraham 5#^abr-5-9|Abraham 5:9]] ↔ [[Genesis 2#^gen-2-9|Genesis 2:9]]
 - [[Moses 3]] — 19 parallel verses, e.g. [[Abraham 5#^abr-5-20|Abraham 5:20]] ↔ [[Moses 3#^moses-3-19|Moses 3:19]]
+- [[Moses 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

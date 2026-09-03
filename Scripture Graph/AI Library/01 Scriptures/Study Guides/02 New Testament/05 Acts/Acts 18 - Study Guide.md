@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 18
 slug: acts-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,9 +59,9 @@ Acts 18 closes Paul's second missionary journey and opens his third. Paul settle
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[Work and Self-Reliance]]
 - [[Scripture Study]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -72,12 +72,14 @@ The chapter connects belief with hearing, testimony, and [[Baptism]] (Acts 18:5,
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[What I Hope My Granddaughters (and Grandsons) Will Understand about Relief Society (Julie B. Beck, October 2011)|What I Hope My Granddaughters (and Grandsons) Will Understand about Relief Society]] — Julie B. Beck, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aquila** (reference-entry) *(explicit citation)*
+- **Antioch** (reference-entry) *(explicit citation)*
+- **Apollos** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

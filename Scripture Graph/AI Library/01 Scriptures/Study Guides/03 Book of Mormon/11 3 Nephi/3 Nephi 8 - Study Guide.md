@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 8
 slug: 3ne-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Ether 11]] — 2 parallel verses, e.g. [[3 Nephi 8#^3ne-8-5|3 Nephi 8:5]] ↔ [[Ether 11#^ether-11-7|Ether 11:7]]
 - [[Mormon 1]] — 2 parallel verses, e.g. [[3 Nephi 8#^3ne-8-20|3 Nephi 8:20]] ↔ [[Mormon 1#^morm-1-19|Mormon 1:19]]
 - [[1 Nephi 17]] — 2 parallel verses, e.g. [[3 Nephi 8#^3ne-8-9|3 Nephi 8:9]] ↔ [[1 Nephi 17#^1ne-17-48|1 Nephi 17:48]]
+- [[1 Nephi 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,6 +72,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **07 Fellow Servants** (history) *(explicit citation)*
 - **Signs** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

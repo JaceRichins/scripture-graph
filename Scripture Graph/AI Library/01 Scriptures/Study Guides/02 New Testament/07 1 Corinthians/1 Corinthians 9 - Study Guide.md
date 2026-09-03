@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 9
 slug: 1cor-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,15 +59,17 @@ _Not yet developed._
 - [[2 Corinthians 12]] — 0 parallel verses
 - [[1 Corinthians 8]] — 0 parallel verses
 - [[1 Corinthians 10]] — 0 parallel verses
+- [[1 Thessalonians 2]] — 0 parallel verses
+- [[2 Corinthians 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Apostles]]
 - [[Freedom and Liberty]]
 - [[Law of Moses]]
 - [[Endurance]]
 - [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Hope]] *(keyword match — unconfirmed)*
 - [[Missionary Work]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -84,11 +86,16 @@ The final warning connects [[Endurance]] with self-discipline. Paul applies the 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Your Four Minutes (Bishop Gary E. Stevenson, April 2014)|Your Four Minutes]] — Bishop Gary E. Stevenson, 2014-April *(explicit citation)*
+- [[Can Ye Feel So Now (Elder Quentin L. Cook, October 2012)|Can Ye Feel So Now?]] — Elder Quentin L. Cook, 2012-October *(explicit citation)*
+- [[See Others as They May Become (President Thomas S. Monson, October 2012)|See Others as They May Become]] — President Thomas S. Monson, 2012-October *(explicit citation)*
+- [[Hope (Elder Steven E. Snow, April 2011)|Hope]] — Elder Steven E. Snow, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Apostle** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

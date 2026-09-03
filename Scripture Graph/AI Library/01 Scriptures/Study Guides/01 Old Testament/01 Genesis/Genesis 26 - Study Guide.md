@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 26
 slug: gen-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-4|Genesis 26:4]] ↔ [[3 Nephi 20#^3ne-20-25|3 Nephi 20:25]]
 - [[Moses 5]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-20|Genesis 26:20]] ↔ [[Moses 5#^moses-5-42|Moses 5:42]]
 - [[Genesis 21]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-26|Genesis 26:26]] ↔ [[Genesis 21#^gen-21-22|Genesis 21:22]]
+- [[Genesis 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +68,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -74,6 +76,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Abraham, covenant of** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

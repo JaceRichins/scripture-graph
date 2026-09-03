@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 35
 slug: 2chr-35
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -38,8 +38,8 @@ The chapter joins two contrasting episodes. Verses 1–19 describe a lavish, car
 - [[Solomon]] — 2 mentions
 - [[Moses (prophet)]] — 2 mentions
 - [[Aaron (brother of Moses)]] — 2 mentions
+- [[Jeremiah (prophet)]] — 1 mention
 - [[Samuel (prophet)]] — 1 mention
-- [[Jeremiah (prophet)]] — 0 mentions
 <!-- SG:END people -->
 
 ## Places
@@ -63,19 +63,19 @@ The chapter joins two contrasting episodes. Verses 1–19 describe a lavish, car
 - [[Numbers 4]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]] ↔ [[Numbers 4#^num-4-45|Numbers 4:45]]
 - [[1 Chronicles 29]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[1 Chronicles 29#^1chr-29-29|1 Chronicles 29:29]]
 - [[2 Chronicles 20]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 20#^2chr-20-34|2 Chronicles 20:34]]
+- [[2 Chronicles 36]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 36#^2chr-36-8|2 Chronicles 36:8]]
 - [[2 Chronicles 28]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 28#^2chr-28-26|2 Chronicles 28:26]]
 - [[2 Chronicles 23]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
 - [[2 Chronicles 27]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 27#^2chr-27-7|2 Chronicles 27:7]]
-- [[Joshua 22]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]] ↔ [[Joshua 22#^josh-22-9|Joshua 22:9]]
-- [[2 Chronicles 33]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 33#^2chr-33-18|2 Chronicles 33:18]]
+- [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]] ↔ [[2 Kings 23#^2kgs-23-21|2 Kings 23:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Passover]]
 - [[Law of Moses]]
 - [[Records and Sacred Writings]]
 - [[War and Peace]]
+- [[Passover]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
@@ -96,7 +96,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

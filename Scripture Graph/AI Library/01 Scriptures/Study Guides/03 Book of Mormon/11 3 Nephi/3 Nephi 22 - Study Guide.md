@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 22
 slug: 3ne-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,8 +49,8 @@ _Not yet developed._
 - [[Obadiah 1]] — 1 footnote cross-reference (from [[3 Nephi 22#^3ne-22-3|3 Nephi 22:3]])
 - [[Joel 2]] — 1 footnote cross-reference (from [[3 Nephi 22#^3ne-22-4|3 Nephi 22:4]])
 - [[2 Nephi 6]] — 1 footnote cross-reference (from [[3 Nephi 22#^3ne-22-4|3 Nephi 22:4]])
+- [[Isaiah 54]] — 17 parallel verses, e.g. [[3 Nephi 22#^3ne-22-1|3 Nephi 22:1]] ↔ [[Isaiah 54#^isa-54-1|Isaiah 54:1]]
 - [[Zechariah 12]] — 1 parallel verse, e.g. [[3 Nephi 22#^3ne-22-3|3 Nephi 22:3]] ↔ [[Zechariah 12#^zech-12-6|Zechariah 12:6]]
-- [[Isaiah 54]] — 0 parallel verses
 - [[Genesis 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

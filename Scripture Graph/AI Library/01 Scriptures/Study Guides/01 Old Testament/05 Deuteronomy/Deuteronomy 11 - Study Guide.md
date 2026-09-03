@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 11
 slug: deut-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 24
 slug: job-24
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

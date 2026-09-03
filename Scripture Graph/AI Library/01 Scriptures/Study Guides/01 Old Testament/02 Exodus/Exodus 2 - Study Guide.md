@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 2
 slug: ex-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

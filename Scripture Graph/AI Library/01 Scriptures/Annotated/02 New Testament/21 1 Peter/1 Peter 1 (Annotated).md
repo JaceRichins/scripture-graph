@@ -22,7 +22,7 @@ cssclasses:
 > [[John 6#^john-6-44|John 6:44 (44, 63–65)]] · [[Isaiah 52#^isa-52-15|Isa. 52:15]] · [[Exodus 24#^ex-24-5|Ex. 24:8 (5–8)]] · [[Hebrews 12#^heb-12-24|Heb. 12:24]]
 
 ![[1 Peter 1#^1pet-1-3]]
-> [[1 Corinthians 15#^1cor-15-20|1 Cor. 15:20]] · [[2 Corinthians 11#^2cor-11-31|≈ 2 Corinthians 11:31]] · [[Ephesians 1#^eph-1-3|≈ Ephesians 1:3]]
+> [[1 Corinthians 15#^1cor-15-20|1 Cor. 15:20]] · [[Ephesians 1#^eph-1-3|≈ Ephesians 1:3]] · [[2 Corinthians 11#^2cor-11-31|≈ 2 Corinthians 11:31]]
 
 ![[1 Peter 1#^1pet-1-4]]
 > [[Matthew 6#^matt-6-20|Matt. 6:20]] · [[1 Corinthians 9#^1cor-9-24|1 Cor. 9:25 (24–25)]] · [[Colossians 1#^col-1-5|Col. 1:5]]

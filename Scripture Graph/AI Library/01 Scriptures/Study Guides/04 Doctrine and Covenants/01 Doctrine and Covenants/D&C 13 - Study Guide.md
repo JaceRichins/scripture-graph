@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 13
 slug: dc-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -84,10 +84,10 @@ _Not yet developed._
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **Restoration of the Priesthood** (reference-entry) *(explicit citation)*
 - **Witness** (reference-entry) *(explicit citation)*
+- **07 Fellow Servants** (history) *(explicit citation)*
 - **Restoration of the Priesthood** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
-- **Priesthood Keys** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

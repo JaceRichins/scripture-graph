@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 4
 slug: gal-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,8 @@ _Not yet developed._
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
+- **Abba** (reference-entry) *(explicit citation)*
+- **Adoption** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

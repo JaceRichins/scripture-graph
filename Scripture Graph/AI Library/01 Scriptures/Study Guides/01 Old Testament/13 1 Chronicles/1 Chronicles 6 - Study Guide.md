@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 6
 slug: 1chr-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ The chapter organizes Levi's descendants through ancestry, worship assignments, 
 - [[Genesis 46]] — 1 footnote cross-reference (from [[1 Chronicles 6#^1chr-6-1|1 Chronicles 6:1]])
 - [[Malachi 3]] — 1 footnote cross-reference (from [[1 Chronicles 6#^1chr-6-1|1 Chronicles 6:1]])
 - [[2 Samuel 8]] — 1 footnote cross-reference (from [[1 Chronicles 6#^1chr-6-8|1 Chronicles 6:8]])
+- [[Joshua 21]] — 38 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-62|1 Chronicles 6:62]] ↔ [[Joshua 21#^josh-21-6|Joshua 21:6]]
 - [[Numbers 10]] — 8 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Numbers 10#^num-10-19|Numbers 10:19]]
 - [[Numbers 34]] — 7 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Numbers 34#^num-34-20|Numbers 34:20]]
 - [[Joshua 19]] — 6 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Joshua 19#^josh-19-1|Joshua 19:1]]
@@ -71,7 +72,6 @@ The chapter organizes Levi's descendants through ancestry, worship assignments, 
 - [[Joshua 18]] — 2 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]] ↔ [[Joshua 18#^josh-18-11|Joshua 18:11]]
 - [[Numbers 3]] — 2 parallel verses, e.g. [[1 Chronicles 6#^1chr-6-19|1 Chronicles 6:19]] ↔ [[Numbers 3#^num-3-20|Numbers 3:20]]
 - [[Numbers 16]] — 1 parallel verse, e.g. [[1 Chronicles 6#^1chr-6-38|1 Chronicles 6:38]] ↔ [[Numbers 16#^num-16-1|Numbers 16:1]]
-- [[Exodus 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -95,7 +95,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Asher** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

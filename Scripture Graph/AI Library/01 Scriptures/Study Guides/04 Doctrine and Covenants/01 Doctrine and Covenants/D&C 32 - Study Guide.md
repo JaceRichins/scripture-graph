@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 32
 slug: dc-32
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 32]] · My notes: [[D&C 32 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, Parley P. Pratt and Ziba Peterson are called to preach to the Lamanites and to accompany Oliver Cowdery and Peter Whitmer Jr.; 4–5, They are to pray for an understanding of the scriptures.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,7 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 104]] — 2 parallel verses, e.g. [[D&C 32#^dc-32-2|D&C 32:2]] ↔ [[D&C 104#^dc-104-37|D&C 104:37]]
+- [[D&C 28]] — 2 footnote cross-references (from [[D&C 32#^dc-32-2|D&C 32:2]])
+- [[D&C 50]] — 1 footnote cross-reference (from [[D&C 32#^dc-32-1|D&C 32:1]])
+- [[D&C 52]] — 1 footnote cross-reference (from [[D&C 32#^dc-32-1|D&C 32:1]])
+- [[D&C 97]] — 1 footnote cross-reference (from [[D&C 32#^dc-32-1|D&C 32:1]])
+- [[D&C 103]] — 1 footnote cross-reference (from [[D&C 32#^dc-32-1|D&C 32:1]])
+- [[Matthew 11]] — 1 footnote cross-reference (from [[D&C 32#^dc-32-1|D&C 32:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -60,6 +66,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Mission to the Lamanites** (history) *(explicit citation)*
+- **09 Come Life or Come Death** (history) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

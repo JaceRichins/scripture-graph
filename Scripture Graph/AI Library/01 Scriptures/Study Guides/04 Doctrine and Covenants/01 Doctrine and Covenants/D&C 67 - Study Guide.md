@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 67
 slug: dc-67
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -37,13 +37,19 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 50]] — 2 footnote cross-references (from [[D&C 67#^dc-67-9|D&C 67:9]])
+- [[D&C 84]] — 2 footnote cross-references (from [[D&C 67#^dc-67-9|D&C 67:9]])
+- [[D&C 88]] — 2 footnote cross-references (from [[D&C 67#^dc-67-9|D&C 67:9]])
+- [[Moses 1]] — 2 footnote cross-references (from [[D&C 67#^dc-67-10|D&C 67:10]])
+- [[1 Kings 9]] — 1 footnote cross-reference (from [[D&C 67#^dc-67-1|D&C 67:1]])
+- [[Acts 1]] — 1 footnote cross-reference (from [[D&C 67#^dc-67-1|D&C 67:1]])
 - [[D&C 42]] — 1 parallel verse, e.g. [[D&C 67#^dc-67-1|D&C 67:1]] ↔ [[D&C 42#^dc-42-1|D&C 42:1]]
+- [[D&C 50]] — 2 parallel verses, e.g. [[D&C 67#^dc-67-10|D&C 67:10]] ↔ [[D&C 50#^dc-50-45|D&C 50:45]]
 - [[Alma 30]] — 1 parallel verse, e.g. [[D&C 67#^dc-67-7|D&C 67:7]] ↔ [[Alma 30#^alma-30-24|Alma 30:24]]
 - [[D&C 18]] — 1 parallel verse, e.g. [[D&C 67#^dc-67-14|D&C 67:14]] ↔ [[D&C 18#^dc-18-7|D&C 18:7]]
 - [[D&C 62]] — 1 parallel verse, e.g. [[D&C 67#^dc-67-1|D&C 67:1]] ↔ [[D&C 62#^dc-62-1|D&C 62:1]]
 - [[James 1]] — 0 parallel verses
 - [[Moses 1]] — 0 parallel verses
-- [[D&C 50]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -61,10 +67,14 @@ Two threads run through the chapter. First, the elders' doubt centered on Joseph
 - [[Brighter and Brighter until the Perfect Day (Elder Mark A. Bragg, April 2017)|Brighter and Brighter until the Perfect Day]] — Elder Mark A. Bragg, 2017-April *(explicit citation)*
 - [[The Joy of Our Redemption (Sister Kristin M. Yee, October 2024)|The Joy of Our Redemption]] — Sister Kristin M. Yee, 2024-October *(explicit citation)*
 - [[Receiving a Testimony of Light and Truth (President Dieter F. Uchtdorf, October 2014)|Receiving a Testimony of Light and Truth]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
+- [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
+- [[The Why of Priesthood Service (President Dieter F. Uchtdorf, April 2012)|The Why of Priesthood Service]] — President Dieter F. Uchtdorf, 2012-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **13 The Gift Has Returned** (history) *(explicit citation)*
 - **William McLellin’s Five Questions** (history) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*

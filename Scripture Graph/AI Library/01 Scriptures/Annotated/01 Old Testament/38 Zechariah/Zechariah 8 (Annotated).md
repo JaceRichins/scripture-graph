@@ -34,7 +34,7 @@ cssclasses:
 > [[Jeremiah 11#^jer-11-22|≈ Jeremiah 11:22]]
 
 ![[Zechariah 8#^zech-8-8]]
-> [[D&C 42#^dc-42-9|D&amp;C 42:9]] · [[Jeremiah 24#^jer-24-7|≈ Jeremiah 24:7]] · [[Jeremiah 32#^jer-32-38|≈ Jeremiah 32:38]] · [[Ezekiel 11#^ezek-11-20|≈ Ezekiel 11:20]] · [[Ezekiel 37#^ezek-37-23|≈ Ezekiel 37:23]] · [[Ezekiel 37#^ezek-37-27|≈ Ezekiel 37:27]] · [[Jeremiah 11#^jer-11-4|≈ Jeremiah 11:4]]
+> [[D&C 42#^dc-42-9|D&amp;C 42:9]] · [[Jeremiah 11#^jer-11-4|≈ Jeremiah 11:4]] · [[Jeremiah 24#^jer-24-7|≈ Jeremiah 24:7]] · [[Jeremiah 32#^jer-32-38|≈ Jeremiah 32:38]] · [[Ezekiel 11#^ezek-11-20|≈ Ezekiel 11:20]] · [[Ezekiel 37#^ezek-37-23|≈ Ezekiel 37:23]] · [[Ezekiel 37#^ezek-37-27|≈ Ezekiel 37:27]]
 
 ![[Zechariah 8#^zech-8-9]]
 > [[Ezra 5#^ezra-5-1|Ezra 5:1]]

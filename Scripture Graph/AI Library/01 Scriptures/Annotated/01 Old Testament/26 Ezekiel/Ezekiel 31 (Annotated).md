@@ -17,7 +17,7 @@ cssclasses:
 > Pharaoh’s glory and fall are compared to that of the Assyrians.
 
 ![[Ezekiel 31#^ezek-31-1]]
-> [[Ezekiel 32#^ezek-32-1|≈ Ezekiel 32:1]] · [[Ezekiel 32#^ezek-32-17|≈ Ezekiel 32:17]] · [[Ezekiel 26#^ezek-26-1|≈ Ezekiel 26:1]] · [[Ezekiel 30#^ezek-30-20|≈ Ezekiel 30:20]]
+> [[Ezekiel 32#^ezek-32-1|≈ Ezekiel 32:1]] · [[Ezekiel 32#^ezek-32-17|≈ Ezekiel 32:17]] · [[Ezekiel 30#^ezek-30-20|≈ Ezekiel 30:20]] · [[Ezekiel 26#^ezek-26-1|≈ Ezekiel 26:1]]
 
 ![[Ezekiel 31#^ezek-31-2]]
 > [[Isaiah 19#^isa-19-1|Isa. 19:1]] · [[Ezekiel 32#^ezek-32-2|Ezek. 32:2]]

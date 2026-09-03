@@ -26,7 +26,7 @@ cssclasses:
 > [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-3|≈ Jeremiah 34:3]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]] · [[Jeremiah 37#^jer-37-17|≈ Jeremiah 37:17]] · [[Jeremiah 38#^jer-38-23|≈ Jeremiah 38:23]] · [[Jeremiah 38#^jer-38-3|≈ Jeremiah 38:3]]
 
 ![[Jeremiah 32#^jer-32-4]]
-> [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]] · [[Jeremiah 37#^jer-37-17|≈ Jeremiah 37:17]] · [[Jeremiah 38#^jer-38-23|≈ Jeremiah 38:23]] · [[Jeremiah 38#^jer-38-3|≈ Jeremiah 38:3]] · [[2 Kings 20#^2kgs-20-6|≈ 2 Kings 20:6]]
+> [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]] · [[Jeremiah 37#^jer-37-17|≈ Jeremiah 37:17]] · [[Jeremiah 38#^jer-38-23|≈ Jeremiah 38:23]] · [[Jeremiah 38#^jer-38-3|≈ Jeremiah 38:3]] · [[Jeremiah 21#^jer-21-10|≈ Jeremiah 21:10]]
 
 ![[Jeremiah 32#^jer-32-5]]
 
@@ -49,10 +49,10 @@ cssclasses:
 ![[Jeremiah 32#^jer-32-13]]
 
 ![[Jeremiah 32#^jer-32-14]]
-> [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]] · [[Jeremiah 42#^jer-42-18|≈ Jeremiah 42:18]] · [[Jeremiah 44#^jer-44-2|≈ Jeremiah 44:2]] · [[Jeremiah 44#^jer-44-11|≈ Jeremiah 44:11]] · [[Jeremiah 44#^jer-44-25|≈ Jeremiah 44:25]] · [[Jeremiah 51#^jer-51-33|≈ Jeremiah 51:33]]
+> [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]] · [[Jeremiah 42#^jer-42-18|≈ Jeremiah 42:18]] · [[Jeremiah 44#^jer-44-2|≈ Jeremiah 44:2]] · [[Jeremiah 44#^jer-44-11|≈ Jeremiah 44:11]]
 
 ![[Jeremiah 32#^jer-32-15]]
-> [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]] · [[Jeremiah 42#^jer-42-18|≈ Jeremiah 42:18]] · [[Jeremiah 44#^jer-44-2|≈ Jeremiah 44:2]] · [[Jeremiah 44#^jer-44-11|≈ Jeremiah 44:11]] · [[Jeremiah 44#^jer-44-25|≈ Jeremiah 44:25]] · [[Jeremiah 51#^jer-51-33|≈ Jeremiah 51:33]]
+> [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]] · [[Jeremiah 42#^jer-42-18|≈ Jeremiah 42:18]] · [[Jeremiah 44#^jer-44-2|≈ Jeremiah 44:2]] · [[Jeremiah 44#^jer-44-11|≈ Jeremiah 44:11]]
 
 ![[Jeremiah 32#^jer-32-16]]
 
@@ -102,10 +102,10 @@ cssclasses:
 > [[Jeremiah 2#^jer-2-27|Jer. 2:27]] · [[Ezekiel 8#^ezek-8-16|Ezek. 8:16]]
 
 ![[Jeremiah 32#^jer-32-34]]
-> [[Jeremiah 34#^jer-34-15|≈ Jeremiah 34:15]] · [[Jeremiah 7#^jer-7-30|≈ Jeremiah 7:30]] · [[Jeremiah 7#^jer-7-10|≈ Jeremiah 7:10]] · [[Jeremiah 7#^jer-7-11|≈ Jeremiah 7:11]] · [[Jeremiah 7#^jer-7-14|≈ Jeremiah 7:14]]
+> [[Jeremiah 7#^jer-7-30|≈ Jeremiah 7:30]] · [[Jeremiah 7#^jer-7-10|≈ Jeremiah 7:10]] · [[Jeremiah 7#^jer-7-11|≈ Jeremiah 7:11]] · [[Jeremiah 7#^jer-7-14|≈ Jeremiah 7:14]] · [[Jeremiah 34#^jer-34-15|≈ Jeremiah 34:15]]
 
 ![[Jeremiah 32#^jer-32-35]]
-> [[Leviticus 18#^lev-18-21|Lev. 18:21]] · [[Jeremiah 19#^jer-19-5|Jer. 19:5]] · [[Jeremiah 7#^jer-7-31|≈ Jeremiah 7:31]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[2 Chronicles 28#^2chr-28-3|≈ 2 Chronicles 28:3]] · [[Jeremiah 19#^jer-19-5|≈ Jeremiah 19:5]] · [[Jeremiah 19#^jer-19-2|≈ Jeremiah 19:2]] · [[Jeremiah 19#^jer-19-6|≈ Jeremiah 19:6]]
+> [[Leviticus 18#^lev-18-21|Lev. 18:21]] · [[Jeremiah 19#^jer-19-5|Jer. 19:5]] · [[Jeremiah 7#^jer-7-31|≈ Jeremiah 7:31]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 19#^jer-19-5|≈ Jeremiah 19:5]] · [[Jeremiah 19#^jer-19-2|≈ Jeremiah 19:2]] · [[Jeremiah 19#^jer-19-6|≈ Jeremiah 19:6]] · [[2 Chronicles 28#^2chr-28-3|≈ 2 Chronicles 28:3]]
 
 ![[Jeremiah 32#^jer-32-36]]
 > [[Jeremiah 33#^jer-33-4|≈ Jeremiah 33:4]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-13|≈ Jeremiah 34:13]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]] · [[Jeremiah 37#^jer-37-17|≈ Jeremiah 37:17]] · [[Jeremiah 37#^jer-37-7|≈ Jeremiah 37:7]]
@@ -129,4 +129,4 @@ cssclasses:
 ![[Jeremiah 32#^jer-32-43]]
 
 ![[Jeremiah 32#^jer-32-44]]
-> [[Jeremiah 33#^jer-33-13|≈ Jeremiah 33:13]] · [[Jeremiah 33#^jer-33-10|≈ Jeremiah 33:10]] · [[Jeremiah 33#^jer-33-26|≈ Jeremiah 33:26]] · [[Jeremiah 44#^jer-44-6|≈ Jeremiah 44:6]] · [[Jeremiah 44#^jer-44-17|≈ Jeremiah 44:17]] · [[Jeremiah 44#^jer-44-21|≈ Jeremiah 44:21]]
+> [[Jeremiah 33#^jer-33-13|≈ Jeremiah 33:13]] · [[Jeremiah 33#^jer-33-10|≈ Jeremiah 33:10]] · [[Jeremiah 33#^jer-33-26|≈ Jeremiah 33:26]] · [[Jeremiah 7#^jer-7-17|≈ Jeremiah 7:17]] · [[Jeremiah 44#^jer-44-6|≈ Jeremiah 44:6]] · [[Jeremiah 44#^jer-44-17|≈ Jeremiah 44:17]]

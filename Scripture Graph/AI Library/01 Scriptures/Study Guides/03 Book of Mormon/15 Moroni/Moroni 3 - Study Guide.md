@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 3
 slug: moro-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
+- [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

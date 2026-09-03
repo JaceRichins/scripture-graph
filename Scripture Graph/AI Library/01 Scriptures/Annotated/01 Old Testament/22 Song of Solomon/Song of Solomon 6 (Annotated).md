@@ -37,7 +37,7 @@ cssclasses:
 ![[Song of Solomon 6#^song-6-9]]
 
 ![[Song of Solomon 6#^song-6-10]]
-> [[D&C 5#^dc-5-14|≈ D&C 5:14]] · [[D&C 109#^dc-109-73|≈ D&C 109:73]]
+> [[D&C 109#^dc-109-73|≈ D&C 109:73]] · [[D&C 5#^dc-5-14|≈ D&C 5:14]]
 
 ![[Song of Solomon 6#^song-6-11]]
 

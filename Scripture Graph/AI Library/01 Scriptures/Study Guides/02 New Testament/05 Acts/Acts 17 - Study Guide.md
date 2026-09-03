@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 17
 slug: acts-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Acts 10]] — 2 footnote cross-references (from [[Acts 17#^acts-17-26|Acts 17:26]])
 - [[Alma 14]] — 1 footnote cross-reference (from [[Acts 17#^acts-17-2|Acts 17:2]])
 - [[John 12]] — 1 footnote cross-reference (from [[Acts 17#^acts-17-4|Acts 17:4]])
+- [[Acts 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,6 +82,8 @@ _Not yet developed._
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
+- **Athens** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

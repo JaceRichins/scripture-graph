@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 61
 slug: alma-61
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

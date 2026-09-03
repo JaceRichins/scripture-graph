@@ -25,7 +25,7 @@ cssclasses:
 ![[Alma 54#^alma-54-3]]
 
 ![[Alma 54#^alma-54-4]]
-> [[Alma 56#^alma-56-2|≈ Alma 56:2]] · [[Alma 60#^alma-60-1|≈ Alma 60:1]]
+> [[Alma 60#^alma-60-1|≈ Alma 60:1]] · [[Alma 56#^alma-56-2|≈ Alma 56:2]]
 
 ![[Alma 54#^alma-54-5]]
 > [[Alma 48#^alma-48-1|Alma 48:1 (1–6)]] · [[Alma 52#^alma-52-1|52:3 (1–3)]]
@@ -54,7 +54,7 @@ cssclasses:
 ![[Alma 54#^alma-54-14]]
 
 ![[Alma 54#^alma-54-15]]
-> [[Alma 56#^alma-56-2|≈ Alma 56:2]] · [[Alma 60#^alma-60-1|≈ Alma 60:1]]
+> [[Alma 60#^alma-60-1|≈ Alma 60:1]] · [[Alma 56#^alma-56-2|≈ Alma 56:2]]
 
 ![[Alma 54#^alma-54-16]]
 > [[Alma 51#^alma-51-34|Alma 51:34]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 33
 slug: ex-33
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,9 @@ _Not yet developed._
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 33#^ex-33-3|Exodus 33:3]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
 - [[Exodus 34]] — 2 parallel verses, e.g. [[Exodus 33#^ex-33-13|Exodus 33:13]] ↔ [[Exodus 34#^ex-34-9|Exodus 34:9]]
 - [[2 Samuel 16]] — 1 parallel verse, e.g. [[Exodus 33#^ex-33-13|Exodus 33:13]] ↔ [[2 Samuel 16#^2sam-16-4|2 Samuel 16:4]]
+- [[D&C 103]] — 0 parallel verses
+- [[Deuteronomy 34]] — 0 parallel verses
+- [[1 Kings 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

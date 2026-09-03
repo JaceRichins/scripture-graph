@@ -50,7 +50,7 @@ cssclasses:
 > [[2 Kings 16#^2kgs-16-7|2 Kgs. 16:9 (7–9)]] · [[Isaiah 9#^isa-9-11|≈ Isaiah 9:11]]
 
 ![[2 Nephi 19#^2ne-19-12]]
-> [[2 Kings 17#^2kgs-17-1|2 Kgs. 17:6 (1–18)]] · [[Isaiah 5#^isa-5-25|Isa. 5:25]] · [[Isaiah 10#^isa-10-4|10:4]] · [[Jeremiah 4#^jer-4-8|Jer. 4:8]] · [[Isaiah 9#^isa-9-12|≈ Isaiah 9:12]] · [[Isaiah 9#^isa-9-17|≈ Isaiah 9:17]] · [[Isaiah 9#^isa-9-21|≈ Isaiah 9:21]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]] · [[Isaiah 10#^isa-10-4|≈ Isaiah 10:4]] · [[2 Nephi 20#^2ne-20-4|≈ 2 Nephi 20:4]]
+> [[2 Kings 17#^2kgs-17-1|2 Kgs. 17:6 (1–18)]] · [[Isaiah 5#^isa-5-25|Isa. 5:25]] · [[Isaiah 10#^isa-10-4|10:4]] · [[Jeremiah 4#^jer-4-8|Jer. 4:8]] · [[Isaiah 9#^isa-9-12|≈ Isaiah 9:12]] · [[Isaiah 9#^isa-9-17|≈ Isaiah 9:17]] · [[Isaiah 9#^isa-9-21|≈ Isaiah 9:21]] · [[Isaiah 10#^isa-10-4|≈ Isaiah 10:4]] · [[2 Nephi 20#^2ne-20-4|≈ 2 Nephi 20:4]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]]
 
 ![[2 Nephi 19#^2ne-19-13]]
 > [[Amos 4#^amos-4-6|Amos 4:10 (6–12)]] · [[Isaiah 9#^isa-9-13|≈ Isaiah 9:13]]
@@ -77,4 +77,4 @@ cssclasses:
 > [[Leviticus 26#^lev-26-26|Lev. 26:26 (26, 29)]] · [[Deuteronomy 28#^deut-28-53|Deut. 28:53 (53–57)]] · [[Isaiah 9#^isa-9-20|≈ Isaiah 9:20]]
 
 ![[2 Nephi 19#^2ne-19-21]]
-> [[Isaiah 9#^isa-9-21|≈ Isaiah 9:21]] · [[Isaiah 9#^isa-9-12|≈ Isaiah 9:12]] · [[Isaiah 9#^isa-9-17|≈ Isaiah 9:17]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]] · [[Isaiah 10#^isa-10-4|≈ Isaiah 10:4]] · [[2 Nephi 20#^2ne-20-4|≈ 2 Nephi 20:4]]
+> [[Isaiah 9#^isa-9-21|≈ Isaiah 9:21]] · [[Isaiah 9#^isa-9-12|≈ Isaiah 9:12]] · [[Isaiah 9#^isa-9-17|≈ Isaiah 9:17]] · [[Isaiah 10#^isa-10-4|≈ Isaiah 10:4]] · [[2 Nephi 20#^2ne-20-4|≈ 2 Nephi 20:4]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]]

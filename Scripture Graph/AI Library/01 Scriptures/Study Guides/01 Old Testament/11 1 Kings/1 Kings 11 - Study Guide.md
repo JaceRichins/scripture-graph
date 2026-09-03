@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 11
 slug: 1kgs-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,9 +58,11 @@ The chapter interprets Solomon's covenant disloyalty as the theological beginnin
 - [[1 Kings 14]] — 2 footnote cross-references (from [[1 Kings 11#^1kgs-11-29|1 Kings 11:29]])
 - [[Jacob 2]] — 1 footnote cross-reference (from [[1 Kings 11#^1kgs-11-1|1 Kings 11:1]])
 - [[D&C 132]] — 1 footnote cross-reference (from [[1 Kings 11#^1kgs-11-1|1 Kings 11:1]])
+- [[1 Kings 15]] — 6 parallel verses, e.g. [[1 Kings 11#^1kgs-11-4|1 Kings 11:4]] ↔ [[1 Kings 15#^1kgs-15-3|1 Kings 15:3]]
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[1 Kings 11#^1kgs-11-43|1 Kings 11:43]] ↔ [[2 Kings 15#^2kgs-15-38|2 Kings 15:38]]
 - [[1 Kings 16]] — 6 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
 - [[2 Chronicles 9]] — 3 parallel verses, e.g. [[1 Kings 11#^1kgs-11-43|1 Kings 11:43]] ↔ [[2 Chronicles 9#^2chr-9-31|2 Chronicles 9:31]]
+- [[2 Kings 21]] — 4 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[2 Kings 21#^2kgs-21-17|2 Kings 21:17]]
 - [[2 Kings 14]] — 4 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[2 Kings 14#^2kgs-14-28|2 Kings 14:28]]
 - [[2 Chronicles 12]] — 3 parallel verses, e.g. [[1 Kings 11#^1kgs-11-43|1 Kings 11:43]] ↔ [[2 Chronicles 12#^2chr-12-16|2 Chronicles 12:16]]
 - [[1 Kings 22]] — 3 parallel verses, e.g. [[1 Kings 11#^1kgs-11-43|1 Kings 11:43]] ↔ [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]]
@@ -68,17 +70,15 @@ The chapter interprets Solomon's covenant disloyalty as the theological beginnin
 - [[1 Kings 14]] — 3 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
 - [[2 Kings 10]] — 2 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]]
 - [[2 Kings 8]] — 2 parallel verses, e.g. [[1 Kings 11#^1kgs-11-41|1 Kings 11:41]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
-- [[2 Kings 23]] — 2 parallel verses, e.g. [[1 Kings 11#^1kgs-11-7|1 Kings 11:7]] ↔ [[2 Kings 23#^2kgs-23-13|2 Kings 23:13]]
-- [[Jeremiah 34]] — 2 parallel verses, e.g. [[1 Kings 11#^1kgs-11-31|1 Kings 11:31]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[1 Kings 14]]
 - [[Covenants]]
 - [[Prophecy]]
 - [[1 Kings 12]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Satan and Temptation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -101,7 +101,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

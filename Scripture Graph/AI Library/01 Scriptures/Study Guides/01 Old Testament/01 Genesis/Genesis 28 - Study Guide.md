@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 28
 slug: gen-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Genesis 13]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-13|Genesis 28:13]] ↔ [[Genesis 13#^gen-13-15|Genesis 13:15]]
 - [[Genesis 27]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-1|Genesis 28:1]] ↔ [[Genesis 27#^gen-27-46|Genesis 27:46]]
 - [[D&C 42]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[D&C 42#^dc-42-63|D&C 42:63]]
+- [[Hosea 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +71,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[A Plea to My Sisters (President Russell M. Nelson, October 2015)|A Plea to My Sisters]] — President Russell M. Nelson, 2015-October *(explicit citation)*
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
@@ -79,6 +81,8 @@ _Not yet developed._
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
+- **Abraham, covenant of** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

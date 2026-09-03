@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 33
 slug: 2chr-33
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ The central narrative reversal lies in verses 12–13. Several later actions und
 - [[2 Chronicles 28]] — 1 footnote cross-reference (from [[2 Chronicles 33#^2chr-33-6|2 Chronicles 33:6]])
 - [[Ezekiel 20]] — 1 footnote cross-reference (from [[2 Chronicles 33#^2chr-33-6|2 Chronicles 33:6]])
 - [[Deuteronomy 18]] — 1 footnote cross-reference (from [[2 Chronicles 33#^2chr-33-6|2 Chronicles 33:6]])
+- [[2 Kings 21]] — 19 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-7|2 Chronicles 33:7]] ↔ [[2 Kings 21#^2kgs-21-7|2 Kings 21:7]]
 - [[2 Chronicles 36]] — 15 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]] ↔ [[2 Chronicles 36#^2chr-36-11|2 Chronicles 36:11]]
 - [[2 Kings 15]] — 15 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-22|2 Chronicles 33:22]] ↔ [[2 Kings 15#^2kgs-15-9|2 Kings 15:9]]
 - [[2 Kings 23]] — 9 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]] ↔ [[2 Kings 23#^2kgs-23-31|2 Kings 23:31]]
@@ -62,7 +63,6 @@ The central narrative reversal lies in verses 12–13. Several later actions und
 - [[Jeremiah 52]] — 4 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]] ↔ [[Jeremiah 52#^jer-52-1|Jeremiah 52:1]]
 - [[2 Kings 14]] — 4 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-21|2 Chronicles 33:21]] ↔ [[2 Kings 14#^2kgs-14-2|2 Kings 14:2]]
 - [[2 Chronicles 20]] — 3 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]] ↔ [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]]
-- [[2 Chronicles 21]] — 4 parallel verses, e.g. [[2 Chronicles 33#^2chr-33-1|2 Chronicles 33:1]] ↔ [[2 Chronicles 21#^2chr-21-5|2 Chronicles 21:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,6 +73,7 @@ The central narrative reversal lies in verses 12–13. Several later actions und
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Humility]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -90,7 +91,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

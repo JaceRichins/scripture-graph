@@ -119,7 +119,7 @@ cssclasses:
 ![[Mormon 8#^morm-8-35]]
 
 ![[Mormon 8#^morm-8-36]]
-> [[Jacob 2#^jacob-2-13|Jacob 2:13]] · [[3 Nephi 16#^3ne-16-10|3 Ne. 16:10]] · [[2 Nephi 28#^2ne-28-11|2 Ne. 28:13 (11–14)]] · [[Alma 5#^alma-5-53|Alma 5:53]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[Alma 5#^alma-5-53|≈ Alma 5:53]] · [[2 Nephi 28#^2ne-28-15|≈ 2 Nephi 28:15]] · [[Alma 6#^alma-6-3|≈ Alma 6:3]] · [[3 Nephi 16#^3ne-16-10|≈ 3 Nephi 16:10]]
+> [[Jacob 2#^jacob-2-13|Jacob 2:13]] · [[3 Nephi 16#^3ne-16-10|3 Ne. 16:10]] · [[2 Nephi 28#^2ne-28-11|2 Ne. 28:13 (11–14)]] · [[Alma 5#^alma-5-53|Alma 5:53]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[2 Nephi 28#^2ne-28-15|≈ 2 Nephi 28:15]] · [[Alma 5#^alma-5-53|≈ Alma 5:53]] · [[Alma 6#^alma-6-3|≈ Alma 6:3]] · [[3 Nephi 16#^3ne-16-10|≈ 3 Nephi 16:10]]
 
 ![[Mormon 8#^morm-8-37]]
 > [[Ezekiel 34#^ezek-34-8|Ezek. 34:8]] · [[1 Nephi 13#^1ne-13-7|1 Ne. 13:7]] · [[2 Nephi 28#^2ne-28-9|2 Ne. 28:13 (9–16)]] · [[D&C 52#^dc-52-40|≈ D&C 52:40]]

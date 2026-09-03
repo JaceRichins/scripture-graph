@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 9
 slug: ezek-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,8 +45,8 @@ _Not yet developed._
 - [[D&C 77]] — 1 footnote cross-reference (from [[Ezekiel 9#^ezek-9-4|Ezekiel 9:4]])
 - [[Jeremiah 25]] — 1 footnote cross-reference (from [[Ezekiel 9#^ezek-9-6|Ezekiel 9:6]])
 - [[Ezekiel 8]] — 4 parallel verses, e.g. [[Ezekiel 9#^ezek-9-10|Ezekiel 9:10]] ↔ [[Ezekiel 8#^ezek-8-18|Ezekiel 8:18]]
-- [[Ezekiel 11]] — 3 parallel verses, e.g. [[Ezekiel 9#^ezek-9-3|Ezekiel 9:3]] ↔ [[Ezekiel 11#^ezek-11-22|Ezekiel 11:22]]
 - [[Ezekiel 7]] — 2 parallel verses, e.g. [[Ezekiel 9#^ezek-9-10|Ezekiel 9:10]] ↔ [[Ezekiel 7#^ezek-7-9|Ezekiel 7:9]]
+- [[Ezekiel 11]] — 3 parallel verses, e.g. [[Ezekiel 9#^ezek-9-3|Ezekiel 9:3]] ↔ [[Ezekiel 11#^ezek-11-22|Ezekiel 11:22]]
 - [[Ezekiel 10]] — 1 parallel verse, e.g. [[Ezekiel 9#^ezek-9-3|Ezekiel 9:3]] ↔ [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]]
 <!-- SG:END related-scriptures -->
 

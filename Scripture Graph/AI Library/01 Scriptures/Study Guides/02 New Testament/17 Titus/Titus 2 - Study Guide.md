@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 2
 slug: titus-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

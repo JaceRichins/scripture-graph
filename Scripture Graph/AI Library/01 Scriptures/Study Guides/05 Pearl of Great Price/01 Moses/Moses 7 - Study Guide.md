@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 7
 slug: moses-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,12 @@ Moses 7 records a single extended theophany granted to Enoch. Called from 'the p
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Moses 1]] — 7 footnote cross-references (from [[Moses 7#^moses-7-4|Moses 7:4]])
+- [[Moses 6]] — 7 footnote cross-references (from [[Moses 7#^moses-7-5|Moses 7:5]])
+- [[Moses 8]] — 6 footnote cross-references (from [[Moses 7#^moses-7-15|Moses 7:15]])
+- [[Moses 5]] — 4 footnote cross-references (from [[Moses 7#^moses-7-5|Moses 7:5]])
+- [[D&C 38]] — 3 footnote cross-references (from [[Moses 7#^moses-7-18|Moses 7:18]])
+- [[D&C 88]] — 3 footnote cross-references (from [[Moses 7#^moses-7-23|Moses 7:23]])
 - [[1 Nephi 11]] — 10 parallel verses, e.g. [[Moses 7#^moses-7-9|Moses 7:9]] ↔ [[1 Nephi 11#^1ne-11-24|1 Nephi 11:24]]
 - [[D&C 20]] — 5 parallel verses, e.g. [[Moses 7#^moses-7-11|Moses 7:11]] ↔ [[D&C 20#^dc-20-27|D&C 20:27]]
 - [[Joseph Smith—Matthew 1]] — 7 parallel verses, e.g. [[Moses 7#^moses-7-47|Moses 7:47]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]]
@@ -63,7 +69,7 @@ Moses 7 records a single extended theophany granted to Enoch. Called from 'the p
 - [[3 Nephi 11]] — 3 parallel verses, e.g. [[Moses 7#^moses-7-11|Moses 7:11]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]
 - [[D&C 45]] — 3 parallel verses, e.g. [[Moses 7#^moses-7-47|Moses 7:47]] ↔ [[D&C 45#^dc-45-39|D&C 45:39]]
 - [[Moses 6]] — 3 parallel verses, e.g. [[Moses 7#^moses-7-10|Moses 7:10]] ↔ [[Moses 6#^moses-6-27|Moses 6:27]]
-- [[2 Nephi 31]] — 2 parallel verses, e.g. [[Moses 7#^moses-7-11|Moses 7:11]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
+- [[Moses 5]] — 2 parallel verses, e.g. [[Moses 7#^moses-7-11|Moses 7:11]] ↔ [[Moses 5#^moses-5-9|Moses 5:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -107,6 +113,7 @@ Moses 7 records a single extended theophany granted to Enoch. Called from 'the p
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **10 Gathered In** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*

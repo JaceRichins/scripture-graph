@@ -20,7 +20,7 @@ cssclasses:
 > [[1 Kings 7#^1kgs-7-51|≈ 1 Kings 7:51]]
 
 ![[2 Chronicles 5#^2chr-5-2]]
-> [[1 Kings 8#^1kgs-8-1|1 Kgs. 8:1 (1–11)]] · [[Numbers 10#^num-10-33|≈ Numbers 10:33]] · [[Numbers 14#^num-14-44|≈ Numbers 14:44]] · [[Deuteronomy 10#^deut-10-8|≈ Deuteronomy 10:8]] · [[Deuteronomy 31#^deut-31-9|≈ Deuteronomy 31:9]] · [[Deuteronomy 31#^deut-31-25|≈ Deuteronomy 31:25]] · [[Deuteronomy 31#^deut-31-26|≈ Deuteronomy 31:26]]
+> [[1 Kings 8#^1kgs-8-1|1 Kgs. 8:1 (1–11)]] · [[Deuteronomy 10#^deut-10-8|≈ Deuteronomy 10:8]] · [[Numbers 10#^num-10-33|≈ Numbers 10:33]] · [[Numbers 14#^num-14-44|≈ Numbers 14:44]] · [[Deuteronomy 31#^deut-31-9|≈ Deuteronomy 31:9]] · [[Deuteronomy 31#^deut-31-25|≈ Deuteronomy 31:25]] · [[Deuteronomy 31#^deut-31-26|≈ Deuteronomy 31:26]]
 
 ![[2 Chronicles 5#^2chr-5-3]]
 > [[1 Kings 8#^1kgs-8-2|≈ 1 Kings 8:2]]
@@ -35,7 +35,7 @@ cssclasses:
 > [[1 Kings 8#^1kgs-8-5|≈ 1 Kings 8:5]]
 
 ![[2 Chronicles 5#^2chr-5-7]]
-> [[Numbers 10#^num-10-33|≈ Numbers 10:33]] · [[Numbers 14#^num-14-44|≈ Numbers 14:44]] · [[Deuteronomy 10#^deut-10-8|≈ Deuteronomy 10:8]] · [[Deuteronomy 31#^deut-31-9|≈ Deuteronomy 31:9]] · [[Deuteronomy 31#^deut-31-25|≈ Deuteronomy 31:25]] · [[Deuteronomy 31#^deut-31-26|≈ Deuteronomy 31:26]]
+> [[Deuteronomy 10#^deut-10-8|≈ Deuteronomy 10:8]] · [[Numbers 10#^num-10-33|≈ Numbers 10:33]] · [[Numbers 14#^num-14-44|≈ Numbers 14:44]] · [[Deuteronomy 31#^deut-31-9|≈ Deuteronomy 31:9]] · [[Deuteronomy 31#^deut-31-25|≈ Deuteronomy 31:25]] · [[Deuteronomy 31#^deut-31-26|≈ Deuteronomy 31:26]]
 
 ![[2 Chronicles 5#^2chr-5-8]]
 > [[D&C 77#^dc-77-4|D&amp;C 77:4]] · [[1 Kings 8#^1kgs-8-7|≈ 1 Kings 8:7]]

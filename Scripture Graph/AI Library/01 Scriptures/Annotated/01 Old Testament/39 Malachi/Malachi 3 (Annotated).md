@@ -20,10 +20,10 @@ cssclasses:
 > [[3 Nephi 24#^3ne-24-1|3 Ne. 24:1 (1–18)]] · [[Matthew 11#^matt-11-10|Matt. 11:10]] · [[Mark 1#^mark-1-2|Mark 1:2]] · [[1 Nephi 11#^1ne-11-27|1 Ne. 11:27]] · [[D&C 35#^dc-35-4|D&amp;C 35:4]] · [[D&C 45#^dc-45-9|45:9]] · [[Joseph Smith—History 1#^jsh-1-36|JS—H 1:36]] · [[D&C 36#^dc-36-8|D&amp;C 36:8]] · [[D&C 42#^dc-42-36|42:36]] · [[3 Nephi 24#^3ne-24-1|≈ 3 Nephi 24:1]]
 
 ![[Malachi 3#^mal-3-2]]
-> [[Joel 2#^joel-2-11|Joel 2:11]] · [[D&C 35#^dc-35-21|D&amp;C 35:21]] · [[D&C 38#^dc-38-8|38:8]] · [[D&C 128#^dc-128-24|128:24]] · [[D&C 27#^dc-27-15|D&amp;C 27:15 (15–18)]] · [[D&C 87#^dc-87-1|87:8 (1–8)]] · [[Jeremiah 9#^jer-9-7|Jer. 9:7]] · [[1 Corinthians 3#^1cor-3-13|1 Cor. 3:13 (13–15)]] · [[Isaiah 4#^isa-4-3|Isa. 4:4 (3–4)]] · [[3 Nephi 24#^3ne-24-2|≈ 3 Nephi 24:2]]
+> [[Joel 2#^joel-2-11|Joel 2:11]] · [[D&C 35#^dc-35-21|D&amp;C 35:21]] · [[D&C 38#^dc-38-8|38:8]] · [[D&C 128#^dc-128-24|128:24]] · [[D&C 27#^dc-27-15|D&amp;C 27:15 (15–18)]] · [[D&C 87#^dc-87-1|87:8 (1–8)]] · [[Jeremiah 9#^jer-9-7|Jer. 9:7]] · [[1 Corinthians 3#^1cor-3-13|1 Cor. 3:13 (13–15)]] · [[Isaiah 4#^isa-4-3|Isa. 4:4 (3–4)]] · [[D&C 128#^dc-128-24|≈ D&C 128:24]]
 
 ![[Malachi 3#^mal-3-3]]
-> [[Proverbs 17#^prov-17-3|Prov. 17:3]] · [[Isaiah 1#^isa-1-25|Isa. 1:25]] · [[1 Chronicles 6#^1chr-6-1|1 Chr. 6:1 (1–3)]] · [[D&C 84#^dc-84-31|D&amp;C 84:34 (31–43)]] · [[3 Nephi 24#^3ne-24-3|≈ 3 Nephi 24:3]] · [[D&C 128#^dc-128-24|≈ D&C 128:24]]
+> [[Proverbs 17#^prov-17-3|Prov. 17:3]] · [[Isaiah 1#^isa-1-25|Isa. 1:25]] · [[1 Chronicles 6#^1chr-6-1|1 Chr. 6:1 (1–3)]] · [[D&C 84#^dc-84-31|D&amp;C 84:34 (31–43)]] · [[D&C 128#^dc-128-24|≈ D&C 128:24]] · [[3 Nephi 24#^3ne-24-3|≈ 3 Nephi 24:3]]
 
 ![[Malachi 3#^mal-3-4]]
 > [[D&C 109#^dc-109-64|D&amp;C 109:64 (64–67)]] · [[Isaiah 56#^isa-56-7|Isa. 56:7]] · [[Isaiah 60#^isa-60-7|60:7]] · [[Ezekiel 20#^ezek-20-40|Ezek. 20:40]] · [[3 Nephi 24#^3ne-24-4|≈ 3 Nephi 24:4]]

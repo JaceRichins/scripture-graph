@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 10
 slug: acts-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Moroni 7]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-3|Acts 10:3]])
 - [[1 Samuel 9]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-9|Acts 10:9]])
 - [[Acts 11]] — 4 parallel verses, e.g. [[Acts 10#^acts-10-12|Acts 10:12]] ↔ [[Acts 11#^acts-11-6|Acts 11:6]]
+- [[D&C 112]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,12 +72,12 @@ _Not yet developed._
 - [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
 - [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
 - [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[Christ The Light That Shines in Darkness (Sharon Eubank, April 2019)|Christ: The Light That Shines in Darkness]] — Sharon Eubank, 2019-April *(explicit citation)*
 - [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Be Not Afraid, Only Believe (President Dieter F. Uchtdorf, October 2015)|Be Not Afraid, Only Believe]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
 - [[Meeting the Challenges of Today’s World (Elder Robert D. Hales, October 2015)|Meeting the Challenges of Today’s World]] — Elder Robert D. Hales, 2015-October *(explicit citation)*
-- [[He Asks Us to Be His Hands (Cheryl A. Esplin, April 2016)|He Asks Us to Be His Hands]] — Cheryl A. Esplin, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -87,10 +88,10 @@ _Not yet developed._
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Racial and Cultural Prejudice** (reference-entry) *(explicit citation)*
+- **01 Ask in Faith** (history) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
-- **Prophets** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

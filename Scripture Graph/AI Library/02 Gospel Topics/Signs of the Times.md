@@ -34,6 +34,15 @@ _Not yet developed._
 - [[Joseph Smith—Matthew 1]]
 - [[D&C 45]]
 - [[D&C 84]]
+- [[3 Nephi 21]]
+- [[D&C 35]]
+- [[D&C 29]]
+- [[D&C 63]]
+- [[D&C 68]]
+- [[D&C 34]]
+- [[D&C 87]]
+- [[3 Nephi 1]]
+- [[3 Nephi 2]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

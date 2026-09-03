@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 7
 slug: prov-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

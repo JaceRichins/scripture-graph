@@ -43,7 +43,7 @@ cssclasses:
 ![[Jeremiah 43#^jer-43-9]]
 
 ![[Jeremiah 43#^jer-43-10]]
-> [[Jeremiah 21#^jer-21-2|Jer. 21:2 (2, 7)]] · [[Jeremiah 25#^jer-25-9|25:9]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 44#^jer-44-11|≈ Jeremiah 44:11]] · [[Jeremiah 44#^jer-44-2|≈ Jeremiah 44:2]] · [[Jeremiah 44#^jer-44-25|≈ Jeremiah 44:25]]
+> [[Jeremiah 21#^jer-21-2|Jer. 21:2 (2, 7)]] · [[Jeremiah 25#^jer-25-9|25:9]] · [[Jeremiah 44#^jer-44-11|≈ Jeremiah 44:11]] · [[Jeremiah 44#^jer-44-2|≈ Jeremiah 44:2]] · [[Jeremiah 44#^jer-44-25|≈ Jeremiah 44:25]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]]
 
 ![[Jeremiah 43#^jer-43-11]]
 > [[Jeremiah 44#^jer-44-13|Jer. 44:13]] · [[2 Nephi 9#^2ne-9-33|2 Ne. 9:33]] · [[Jeremiah 15#^jer-15-2|≈ Jeremiah 15:2]]

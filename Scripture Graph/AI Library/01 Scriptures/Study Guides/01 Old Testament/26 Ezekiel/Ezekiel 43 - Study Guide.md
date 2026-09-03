@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 43
 slug: ezek-43
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -62,8 +62,8 @@ _Not yet developed._
 - [[Ezekiel 47]] — 2 parallel verses, e.g. [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]] ↔ [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]]
 - [[Exodus 29]] — 2 parallel verses, e.g. [[Ezekiel 43#^ezek-43-20|Ezekiel 43:20]] ↔ [[Exodus 29#^ex-29-12|Exodus 29:12]]
 - [[Ezekiel 4]] — 2 parallel verses, e.g. [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]] ↔ [[Ezekiel 4#^ezek-4-16|Ezekiel 4:16]]
+- [[Ezekiel 44]] — 1 parallel verse, e.g. [[Ezekiel 43#^ezek-43-5|Ezekiel 43:5]] ↔ [[Ezekiel 44#^ezek-44-4|Ezekiel 44:4]]
 - [[Ezekiel 10]] — 0 parallel verses
-- [[Ezekiel 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

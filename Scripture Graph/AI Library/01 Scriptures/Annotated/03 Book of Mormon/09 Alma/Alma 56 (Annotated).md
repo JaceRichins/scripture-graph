@@ -17,7 +17,7 @@ cssclasses:
 > Helaman sends an epistle to Moroni, recounting the state of the war with the Lamanites—Antipus and Helaman gain a great victory over the Lamanites—Helaman’s two thousand stripling sons fight with miraculous power, and none of them are slain. Verse 1, about 62 B.C.; verses 2–19, about 66 B.C.; and verses 20–57, about 65–64 B.C.
 
 ![[Alma 56#^alma-56-1]]
-> [[Alma 58#^alma-58-35|Alma 58:35]] · [[Alma 59#^alma-59-1|Alma 59:1]] · [[Alma 53#^alma-53-8|Alma 53:22 (8, 22)]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[Alma 54#^alma-54-1|≈ Alma 54:1]] · [[Alma 43#^alma-43-26|≈ Alma 43:26]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]]
+> [[Alma 58#^alma-58-35|Alma 58:35]] · [[Alma 59#^alma-59-1|Alma 59:1]] · [[Alma 53#^alma-53-8|Alma 53:22 (8, 22)]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[Alma 43#^alma-43-26|≈ Alma 43:26]] · [[Alma 54#^alma-54-1|≈ Alma 54:1]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]]
 
 ![[Alma 56#^alma-56-2]]
 > [[Mosiah 1#^mosiah-1-10|≈ Mosiah 1:10]] · [[Mosiah 2#^mosiah-2-9|≈ Mosiah 2:9]] · [[Alma 60#^alma-60-1|≈ Alma 60:1]] · [[Alma 54#^alma-54-15|≈ Alma 54:15]] · [[Alma 54#^alma-54-4|≈ Alma 54:4]]

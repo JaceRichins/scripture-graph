@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 54
 slug: dc-54
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 54]] · My notes: [[D&C 54 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–6, The Saints must keep the gospel covenant to gain mercy; 7–10, They must be patient in tribulation.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Revelation 1]] — 1 footnote cross-reference (from [[D&C 54#^dc-54-1|D&C 54:1]])
+- [[D&C 19]] — 1 footnote cross-reference (from [[D&C 54#^dc-54-1|D&C 54:1]])
+- [[D&C 75]] — 1 footnote cross-reference (from [[D&C 54#^dc-54-1|D&C 54:1]])
+- [[1 Corinthians 15]] — 1 footnote cross-reference (from [[D&C 54#^dc-54-1|D&C 54:1]])
+- [[Jeremiah 44]] — 1 footnote cross-reference (from [[D&C 54#^dc-54-3|D&C 54:3]])
+- [[Joshua 23]] — 1 footnote cross-reference (from [[D&C 54#^dc-54-4|D&C 54:4]])
 - [[Revelation 22]] — 2 parallel verses, e.g. [[D&C 54#^dc-54-10|D&C 54:10]] ↔ [[Revelation 22#^rev-22-12|Revelation 22:12]]
 - [[D&C 35]] — 2 parallel verses, e.g. [[D&C 54#^dc-54-1|D&C 54:1]] ↔ [[D&C 35#^dc-35-2|D&C 35:2]]
 - [[D&C 61]] — 1 parallel verse, e.g. [[D&C 54#^dc-54-1|D&C 54:1]] ↔ [[D&C 61#^dc-61-1|D&C 61:1]]
@@ -63,6 +70,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **12 After Much Tribulation** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 

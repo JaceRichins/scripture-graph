@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 11
 slug: heb-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,9 @@ _Not yet developed._
 - [[Genesis 4]] — 1 footnote cross-reference (from [[Hebrews 11#^heb-11-4|Hebrews 11:4]])
 - [[Jude 1]] — 1 footnote cross-reference (from [[Hebrews 11#^heb-11-5|Hebrews 11:5]])
 - [[Hebrews 7]] — 1 footnote cross-reference (from [[Hebrews 11#^heb-11-6|Hebrews 11:6]])
+- [[D&C 128]] — 0 parallel verses
+- [[Joshua 6]] — 0 parallel verses
+- [[D&C 63]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,6 +75,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Fourth Floor, Last Door (President Dieter F. Uchtdorf, October 2016)|Fourth Floor, Last Door]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
@@ -81,15 +85,18 @@ _Not yet developed._
 - [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
 - [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
 - [[Hope in Christ (President M. Russell Ballard, April 2021)|Hope in Christ]] — President M. Russell Ballard, 2021-April *(explicit citation)*
-- [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1837-06-01 (Vol. 3 No. 9)** (periodical, 1837-06-01) *(explicit citation)*
+- **Abel** (reference-entry) *(explicit citation)*
 - **Gifts of the Spirit** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

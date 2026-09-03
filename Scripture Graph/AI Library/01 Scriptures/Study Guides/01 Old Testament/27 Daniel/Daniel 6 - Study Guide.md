@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 6
 slug: dan-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,8 @@ _Not yet developed._
 - [[Daniel 4]] — 1 parallel verse, e.g. [[Daniel 6#^dan-6-25|Daniel 6:25]] ↔ [[Daniel 4#^dan-4-1|Daniel 4:1]]
 - [[Daniel 5]] — 3 parallel verses, e.g. [[Daniel 6#^dan-6-13|Daniel 6:13]] ↔ [[Daniel 5#^dan-5-13|Daniel 5:13]]
 - [[Daniel 7]] — 1 parallel verse, e.g. [[Daniel 6#^dan-6-26|Daniel 6:26]] ↔ [[Daniel 7#^dan-7-14|Daniel 7:14]]
+- [[Esther 1]] — 0 parallel verses
+- [[3 Nephi 28]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +67,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Integrity A Christlike Attribute (Elder Jack N. Gerard, April 2024)|Integrity: A Christlike Attribute]] — Elder Jack N. Gerard, 2024-April *(explicit citation)*
+- [[Arise and Shine Forth (Ann M. Dibb, April 2012)|Arise and Shine Forth]] — Ann M. Dibb, 2012-April *(explicit citation)*
 - [[We Talk of Christ (Elder Neil L. Andersen, October 2020)|We Talk of Christ]] — Elder Neil L. Andersen, 2020-October *(explicit citation)*
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
 - [[Guided Safely Home (President Thomas S. Monson, October 2014)|Guided Safely Home]] — President Thomas S. Monson, 2014-October *(explicit citation)*

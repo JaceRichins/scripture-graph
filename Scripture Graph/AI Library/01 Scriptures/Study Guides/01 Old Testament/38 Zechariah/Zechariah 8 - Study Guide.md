@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 8
 slug: zech-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -63,12 +63,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Conference Report, April 1927 (General Conference (full report), April 1927)|Conference Report, April 1927]] — General Conference (full report), 1927-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 143
 slug: ps-143
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Isaiah 55]] — 1 footnote cross-reference (from [[Psalm 143#^ps-143-6|Psalm 143:6]])
 - [[John 4]] — 1 footnote cross-reference (from [[Psalm 143#^ps-143-6|Psalm 143:6]])
 - [[John 7]] — 1 footnote cross-reference (from [[Psalm 143#^ps-143-6|Psalm 143:6]])
+- [[Psalm 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 57
 slug: alma-57
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ _Not yet developed._
 - [[Wounded (Elder Neil L. Andersen, October 2018)|Wounded]] — Elder Neil L. Andersen, 2018-October *(explicit citation)*
 - [[In Support of the Rising Generation (Brother Michael T. Nelson, April 2024)|In Support of the Rising Generation]] — Brother Michael T. Nelson, 2024-April *(explicit citation)*
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
 - [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
 - [[God Loves All His Children (Elder Gregorio E. Casillas, October 2024)|God Loves All His Children]] — Elder Gregorio E. Casillas, 2024-October *(explicit citation)*

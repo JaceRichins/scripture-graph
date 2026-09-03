@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 52
 slug: isa-52
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,8 @@ _Not yet developed._
 - [[Nahum 1]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-7|Isaiah 52:7]] ↔ [[Nahum 1#^nahum-1-15|Nahum 1:15]]
 - [[D&C 38]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-11|Isaiah 52:11]] ↔ [[D&C 38#^dc-38-42|D&C 38:42]]
 - [[D&C 128]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-7|Isaiah 52:7]] ↔ [[D&C 128#^dc-128-19|D&C 128:19]]
+- [[Alma 5]] — 0 parallel verses
+- [[2 Nephi 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,6 +75,7 @@ _Not yet developed._
 - [[Put On Thy Strength, O Zion (Elder David A. Bednar, October 2022)|Put On Thy Strength, O Zion]] — Elder David A. Bednar, 2022-October *(explicit citation)*
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
 - [[Are We Not All Beggars (Elder Jeffrey R. Holland, October 2014)|Are We Not All Beggars?]] — Elder Jeffrey R. Holland, 2014-October *(explicit citation)*
+- [[Missionaries Are a Treasure of the Church (Elder Kazuhiko Yamashita, October 2011)|Missionaries Are a Treasure of the Church]] — Elder Kazuhiko Yamashita, 2011-October *(explicit citation)*
 - [[Hastening the Lord’s Game Plan! (Elder S. Gifford Nielsen, October 2013)|Hastening the Lord’s Game Plan!]] — Elder S. Gifford Nielsen, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 

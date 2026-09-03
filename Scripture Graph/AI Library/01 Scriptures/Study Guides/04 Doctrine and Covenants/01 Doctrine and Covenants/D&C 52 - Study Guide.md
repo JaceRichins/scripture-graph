@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 52
 slug: dc-52
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 57]] — 5 footnote cross-references (from [[D&C 52#^dc-52-2|D&C 52:2]])
+- [[D&C 103]] — 4 footnote cross-references (from [[D&C 52#^dc-52-2|D&C 52:2]])
+- [[D&C 58]] — 2 footnote cross-references (from [[D&C 52#^dc-52-2|D&C 52:2]])
+- [[D&C 54]] — 2 footnote cross-references (from [[D&C 52#^dc-52-3|D&C 52:3]])
+- [[Mosiah 18]] — 2 footnote cross-references (from [[D&C 52#^dc-52-9|D&C 52:9]])
+- [[D&C 42]] — 2 footnote cross-references (from [[D&C 52#^dc-52-9|D&C 52:9]])
 - [[D&C 124]] — 15 parallel verses, e.g. [[D&C 52#^dc-52-7|D&C 52:7]] ↔ [[D&C 124#^dc-124-62|D&C 124:62]]
 - [[D&C 57]] — 5 parallel verses, e.g. [[D&C 52#^dc-52-42|D&C 52:42]] ↔ [[D&C 57#^dc-57-1|D&C 57:1]]
 - [[D&C 73]] — 3 parallel verses, e.g. [[D&C 52#^dc-52-3|D&C 52:3]] ↔ [[D&C 73#^dc-73-3|D&C 73:3]]
@@ -88,6 +94,7 @@ The promises also remain conditional. Further direction, preservation, fruitful 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Be Not Afraid, Only Believe (President Dieter F. Uchtdorf, October 2015)|Be Not Afraid, Only Believe]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
 - [[The Greatest among You (President Dieter F. Uchtdorf, April 2017)|The Greatest among You]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
@@ -97,12 +104,12 @@ The promises also remain conditional. Further direction, preservation, fruitful 
 - [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
 - [[Personal Preparation to Meet the Savior (Elder Dale G. Renlund, April 2025)|Personal Preparation to Meet the Savior]] — Elder Dale G. Renlund, 2025-April *(explicit citation)*
 - [[Spiritual Whirlwinds (Elder Neil L. Andersen, April 2014)|Spiritual Whirlwinds]] — Elder Neil L. Andersen, 2014-April *(explicit citation)*
-- [[Prepared in a Manner That Never Had Been Known (Linda K. Burton, October 2014)|Prepared in a Manner That Never Had Been Known]] — Linda K. Burton, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **12 After Much Tribulation** (history) *(explicit citation)*
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
@@ -111,7 +118,6 @@ The promises also remain conditional. Further direction, preservation, fruitful 
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
-- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

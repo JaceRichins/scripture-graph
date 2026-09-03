@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 21
 slug: ex-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,11 @@ _Not yet developed._
 - [[Leviticus 20]] — 4 parallel verses, e.g. [[Exodus 21#^ex-21-15|Exodus 21:15]] ↔ [[Leviticus 20#^lev-20-9|Leviticus 20:9]]
 - [[Deuteronomy 19]] — 1 parallel verse, e.g. [[Exodus 21#^ex-21-24|Exodus 21:24]] ↔ [[Deuteronomy 19#^deut-19-21|Deuteronomy 19:21]]
 - [[Leviticus 24]] — 0 parallel verses
+- [[Jeremiah 34]] — 0 parallel verses
+- [[1 Kings 2]] — 0 parallel verses
+- [[Leviticus 20]] — 0 parallel verses
+- [[Numbers 35]] — 0 parallel verses
+- [[Deuteronomy 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,7 +73,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

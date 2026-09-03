@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 19
 slug: dc-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -77,11 +77,12 @@ _Not yet developed._
 - [[Conversion to the Will of God (Elder Quentin L. Cook, April 2022)|Conversion to the Will of God]] — Elder Quentin L. Cook, 2022-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Integrity A Christlike Attribute (Elder Jack N. Gerard, April 2024)|Integrity: A Christlike Attribute]] — Elder Jack N. Gerard, 2024-April *(explicit citation)*
-- [[A Pattern for Peace (Bishop W. Christopher Waddell, April 2016)|A Pattern for Peace]] — Bishop W. Christopher Waddell, 2016-April *(explicit citation)*
+- [[What Shall a Man Give in Exchange for His Soul (Elder Robert C. Gay, October 2012)|What Shall a Man Give in Exchange for His Soul?]] — Elder Robert C. Gay, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **08 The Rise of the Church of Christ** (history) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
@@ -91,7 +92,6 @@ _Not yet developed._
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

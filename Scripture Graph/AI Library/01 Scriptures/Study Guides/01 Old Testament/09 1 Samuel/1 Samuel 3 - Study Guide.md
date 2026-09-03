@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 3
 slug: 1sam-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -70,7 +70,7 @@ The chapter contributes to [[Revelation]] and [[Prophets]] by depicting a call i
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 28
 slug: jer-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ Scripture: [[Jeremiah 28]] · My notes: [[Jeremiah 28 - My Notes]]
 - [[Matthew 7]] — 1 footnote cross-reference (from [[Jeremiah 28#^jer-28-9|Jeremiah 28:9]])
 - [[1 Nephi 13]] — 1 footnote cross-reference (from [[Jeremiah 28#^jer-28-14|Jeremiah 28:14]])
 - [[Jeremiah 25]] — 1 footnote cross-reference (from [[Jeremiah 28#^jer-28-14|Jeremiah 28:14]])
+- [[Jeremiah 27]] — 14 parallel verses, e.g. [[Jeremiah 28#^jer-28-4|Jeremiah 28:4]] ↔ [[Jeremiah 27#^jer-27-20|Jeremiah 27:20]]
 - [[Jeremiah 29]] — 9 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 29#^jer-29-25|Jeremiah 29:25]]
 - [[Jeremiah 44]] — 7 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 44#^jer-44-25|Jeremiah 44:25]]
 - [[Jeremiah 32]] — 6 parallel verses, e.g. [[Jeremiah 28#^jer-28-16|Jeremiah 28:16]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
@@ -61,7 +62,6 @@ Scripture: [[Jeremiah 28]] · My notes: [[Jeremiah 28 - My Notes]]
 - [[Jeremiah 39]] — 3 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 39#^jer-39-16|Jeremiah 39:16]]
 - [[Jeremiah 49]] — 1 parallel verse, e.g. [[Jeremiah 28#^jer-28-1|Jeremiah 28:1]] ↔ [[Jeremiah 49#^jer-49-34|Jeremiah 49:34]]
 - [[Jeremiah 36]] — 2 parallel verses, e.g. [[Jeremiah 28#^jer-28-7|Jeremiah 28:7]] ↔ [[Jeremiah 36#^jer-36-10|Jeremiah 36:10]]
-- [[Jeremiah 9]] — 2 parallel verses, e.g. [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]] ↔ [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +70,7 @@ Scripture: [[Jeremiah 28]] · My notes: [[Jeremiah 28 - My Notes]]
 - [[Prophecy]]
 - [[War and Peace]]
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

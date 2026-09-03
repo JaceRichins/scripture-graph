@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 34
 slug: alma-34
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -76,12 +76,12 @@ _Not yet developed._
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 - [[Room in the Inn (Elder Gerrit W. Gong, April 2021)|Room in the Inn]] — Elder Gerrit W. Gong, 2021-April *(explicit citation)*
+- [[The Miracle of the Atonement (Elder C. Scott Grow, April 2011)|The Miracle of the Atonement]] — Elder C. Scott Grow, 2011-April *(explicit citation)*
 - [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
 - [[The Eternal Everyday (Elder Quentin L. Cook, October 2017)|The Eternal Everyday]] — Elder Quentin L. Cook, 2017-October *(explicit citation)*
 - [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
 - [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
-- [[Is the Plan Working (Elder Adrián Ochoa, April 2022)|Is the Plan Working?]] — Elder Adrián Ochoa, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

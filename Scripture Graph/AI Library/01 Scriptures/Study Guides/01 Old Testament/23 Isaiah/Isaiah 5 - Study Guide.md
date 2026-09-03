@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 5
 slug: isa-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,8 @@ _Not yet developed._
 - [[2 Nephi 19]] — 4 parallel verses, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]]
 - [[Isaiah 10]] — 1 parallel verse, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[Isaiah 10#^isa-10-4|Isaiah 10:4]]
 - [[2 Nephi 20]] — 1 parallel verse, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]]
+- [[Amos 6]] — 0 parallel verses
+- [[Isaiah 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,6 +74,7 @@ _Not yet developed._
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 - [[Jesus Christ Is the Strength of Youth (Elder Dieter F. Uchtdorf, October 2022)|Jesus Christ Is the Strength of Youth]] — Elder Dieter F. Uchtdorf, 2022-October *(explicit citation)*
 - [[Let Your Faith Show (Elder Russell M. Nelson, April 2014)|Let Your Faith Show]] — Elder Russell M. Nelson, 2014-April *(explicit citation)*
+- [[That the Lost May Be Found (Elder M. Russell Ballard, April 2012)|That the Lost May Be Found]] — Elder M. Russell Ballard, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -91,7 +94,9 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Evidence *(tentative)*
+> In Isaiah 5:7, Isaiah deliberately uses wordplay between the similar-sounding Hebrew words mishpat ('justice') and mishpach ('bloodshed'/'oppression'), and between sedaka ('righteousness') and tsa'aqah ('outcry'), to underscore how close justice and injustice can sound while being opposite in meaning.
+> — confidence medium · secondary-claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -103,3 +108,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

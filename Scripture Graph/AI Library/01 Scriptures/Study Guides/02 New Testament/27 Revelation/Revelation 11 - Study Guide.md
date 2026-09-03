@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 11
 slug: rev-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ Temple scenes therefore bookend the canonical chapter, although whether this con
 - [[Daniel 7]] — 0 parallel verses
 - [[Luke 21]] — 0 parallel verses
 - [[Revelation 12]] — 0 parallel verses
+- [[D&C 77]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,7 +83,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

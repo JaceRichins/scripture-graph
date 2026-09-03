@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 10
 slug: 1chr-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

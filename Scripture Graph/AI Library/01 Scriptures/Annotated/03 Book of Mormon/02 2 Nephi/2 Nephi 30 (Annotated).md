@@ -59,7 +59,7 @@ cssclasses:
 > [[Isaiah 11#^isa-11-8|≈ Isaiah 11:8]] · [[2 Nephi 21#^2ne-21-8|≈ 2 Nephi 21:8]]
 
 ![[2 Nephi 30#^2ne-30-15]]
-> [[Joel 2#^joel-2-1|Joel 2:1]] · [[Isaiah 11#^isa-11-9|≈ Isaiah 11:9]] · [[Habakkuk 2#^hab-2-14|≈ Habakkuk 2:14]] · [[Isaiah 65#^isa-65-25|≈ Isaiah 65:25]] · [[2 Nephi 21#^2ne-21-9|≈ 2 Nephi 21:9]]
+> [[Joel 2#^joel-2-1|Joel 2:1]] · [[Habakkuk 2#^hab-2-14|≈ Habakkuk 2:14]] · [[Isaiah 11#^isa-11-9|≈ Isaiah 11:9]] · [[Isaiah 65#^isa-65-25|≈ Isaiah 65:25]] · [[2 Nephi 21#^2ne-21-9|≈ 2 Nephi 21:9]]
 
 ![[2 Nephi 30#^2ne-30-16]]
 > [[D&C 101#^dc-101-32|D&amp;C 101:32 (32–35)]] · [[D&C 121#^dc-121-26|121:28 (26–32)]] · [[Ether 4#^ether-4-6|Ether 4:7 (6–7, 13–17)]]

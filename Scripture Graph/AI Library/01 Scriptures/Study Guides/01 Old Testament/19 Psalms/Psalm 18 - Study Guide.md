@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 18
 slug: ps-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,8 +59,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[War and Peace]]
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

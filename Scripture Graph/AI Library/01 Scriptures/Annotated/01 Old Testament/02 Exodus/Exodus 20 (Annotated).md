@@ -50,7 +50,7 @@ cssclasses:
 > [[Exodus 31#^ex-31-17|Ex. 31:17]] · [[Moses 2#^moses-2-24|Moses 2:31 (24–31)]] · [[Genesis 2#^gen-2-1|Gen. 2:3 (1–3)]] · [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]] · [[D&C 77#^dc-77-12|D&amp;C 77:12]] · [[Moses 3#^moses-3-3|Moses 3:3]] · [[Mosiah 13#^mosiah-13-19|≈ Mosiah 13:19]] · [[Exodus 31#^ex-31-17|≈ Exodus 31:17]] · [[Psalm 146#^ps-146-6|≈ Psalm 146:6]]
 
 ![[Exodus 20#^ex-20-12]]
-> [[Proverbs 4#^prov-4-10|Prov. 4:10]] · [[Deuteronomy 11#^deut-11-8|Deut. 11:9 (8–9)]] · [[Deuteronomy 11#^deut-11-16|17 (16–17, 21)]] · [[1 Nephi 17#^1ne-17-55|1 Ne. 17:55]] · [[Helaman 7#^hel-7-24|Hel. 7:24]] · [[D&C 5#^dc-5-33|D&amp;C 5:33]] · [[Mosiah 13#^mosiah-13-20|≈ Mosiah 13:20]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 15#^deut-15-4|≈ Deuteronomy 15:4]] · [[Deuteronomy 15#^deut-15-7|≈ Deuteronomy 15:7]]
+> [[Proverbs 4#^prov-4-10|Prov. 4:10]] · [[Deuteronomy 11#^deut-11-8|Deut. 11:9 (8–9)]] · [[Deuteronomy 11#^deut-11-16|17 (16–17, 21)]] · [[1 Nephi 17#^1ne-17-55|1 Ne. 17:55]] · [[Helaman 7#^hel-7-24|Hel. 7:24]] · [[D&C 5#^dc-5-33|D&amp;C 5:33]] · [[Mosiah 13#^mosiah-13-20|≈ Mosiah 13:20]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 27#^deut-27-2|≈ Deuteronomy 27:2]] · [[Deuteronomy 27#^deut-27-3|≈ Deuteronomy 27:3]]
 
 ![[Exodus 20#^ex-20-13]]
 

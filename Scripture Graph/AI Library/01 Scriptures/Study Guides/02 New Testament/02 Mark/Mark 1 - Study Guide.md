@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 1
 slug: mark-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

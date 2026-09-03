@@ -29,10 +29,10 @@ cssclasses:
 ![[Judges 6#^judg-6-5]]
 
 ![[Judges 6#^judg-6-6]]
-> [[Judges 3#^judg-3-9|≈ Judges 3:9]] · [[Judges 3#^judg-3-15|≈ Judges 3:15]] · [[Judges 10#^judg-10-10|≈ Judges 10:10]] · [[Judges 4#^judg-4-3|≈ Judges 4:3]]
+> [[Judges 3#^judg-3-9|≈ Judges 3:9]] · [[Judges 3#^judg-3-15|≈ Judges 3:15]] · [[Judges 4#^judg-4-3|≈ Judges 4:3]] · [[Judges 10#^judg-10-10|≈ Judges 10:10]]
 
 ![[Judges 6#^judg-6-7]]
-> [[Judges 3#^judg-3-9|≈ Judges 3:9]] · [[Judges 3#^judg-3-15|≈ Judges 3:15]] · [[Judges 10#^judg-10-10|≈ Judges 10:10]] · [[Judges 4#^judg-4-3|≈ Judges 4:3]]
+> [[Judges 3#^judg-3-9|≈ Judges 3:9]] · [[Judges 3#^judg-3-15|≈ Judges 3:15]] · [[Judges 4#^judg-4-3|≈ Judges 4:3]] · [[Judges 10#^judg-10-10|≈ Judges 10:10]]
 
 ![[Judges 6#^judg-6-8]]
 > [[Exodus 32#^ex-32-27|≈ Exodus 32:27]]
@@ -46,7 +46,7 @@ cssclasses:
 ![[Judges 6#^judg-6-11]]
 
 ![[Judges 6#^judg-6-12]]
-> [[Exodus 3#^ex-3-2|≈ Exodus 3:2]] · [[Judges 13#^judg-13-3|≈ Judges 13:3]]
+> [[Judges 13#^judg-13-3|≈ Judges 13:3]] · [[Exodus 3#^ex-3-2|≈ Exodus 3:2]]
 
 ![[Judges 6#^judg-6-13]]
 > [[Mormon 9#^morm-9-15|Morm. 9:20 (15–20)]]

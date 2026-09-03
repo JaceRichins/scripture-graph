@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 37
 slug: alma-37
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -85,15 +85,16 @@ _Not yet developed._
 - [[All Nations, Kindreds, and Tongues (Elder Gerrit W. Gong, October 2020)|All Nations, Kindreds, and Tongues]] — Elder Gerrit W. Gong, 2020-October *(explicit citation)*
 - [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Jesus Christ Is Not Our Burden; He Is Our Relief (Brother David J. Wunderli, April 2026)|Jesus Christ Is Not Our Burden; He Is Our Relief]] — Brother David J. Wunderli, 2026-April *(explicit citation)*
 - [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
 - [[Family Councils (Elder M. Russell Ballard, April 2016)|Family Councils]] — Elder M. Russell Ballard, 2016-April *(explicit citation)*
 - [[For Our Spiritual Development and Learning (Elder W. Mark Bassett, October 2016)|For Our Spiritual Development and Learning]] — Elder W. Mark Bassett, 2016-October *(explicit citation)*
-- [[Serve (Elder Carl B. Cook, October 2016)|Serve]] — Elder Carl B. Cook, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **03 Plates of Gold** (history) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Abortion** (reference-entry) *(explicit citation)*
 - **Adoption** (reference-entry) *(explicit citation)*
@@ -101,9 +102,8 @@ _Not yet developed._
 - **Family Councils** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Worship** (reference-entry) *(explicit citation)*
-- **Scriptures** (reference-entry) *(explicit citation)*
-- **Bible** (reference-entry) *(explicit citation)*
-- **Miracles** (reference-entry) *(explicit citation)*
+- **04 Be Watchful** (history) *(explicit citation)*
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

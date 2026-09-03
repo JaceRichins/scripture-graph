@@ -73,7 +73,7 @@ cssclasses:
 > [[Alma 16#^alma-16-13|Alma 16:13]]
 
 ![[Alma 21#^alma-21-21]]
-> [[Alma 20#^alma-20-24|Alma 20:24]] · [[Alma 22#^alma-22-1|22:1]] · [[Mosiah 1#^mosiah-1-18|≈ Mosiah 1:18]] · [[Mosiah 24#^mosiah-24-1|≈ Mosiah 24:1]] · [[Alma 24#^alma-24-1|≈ Alma 24:1]]
+> [[Alma 20#^alma-20-24|Alma 20:24]] · [[Alma 22#^alma-22-1|22:1]] · [[Alma 24#^alma-24-1|≈ Alma 24:1]] · [[Mosiah 1#^mosiah-1-18|≈ Mosiah 1:18]] · [[Mosiah 24#^mosiah-24-1|≈ Mosiah 24:1]]
 
 ![[Alma 21#^alma-21-22]]
 > [[Luke 4#^luke-4-8|Luke 4:8]] · [[D&C 93#^dc-93-19|D&amp;C 93:19]] · [[D&C 134#^dc-134-1|134:4 (1–4)]] · [[Articles of Faith 1#^aoff-1-11|A of F 1:11]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 3
 slug: eph-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 - [[Drawing Closer to the Savior (Elder Neil L. Andersen, October 2022)|Drawing Closer to the Savior]] — Elder Neil L. Andersen, 2022-October *(explicit citation)*
 - [[God’s Favourite (Elder Karl D. Hirst, October 2024)|God’s Favourite]] — Elder Karl D. Hirst, 2024-October *(explicit citation)*
 - [[“Lord, Is It I” (President Dieter F. Uchtdorf, October 2014)|“Lord, Is It I?”]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
+- [[An Ensign to the Nations (Elder Jeffrey R. Holland, April 2011)|An Ensign to the Nations]] — Elder Jeffrey R. Holland, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

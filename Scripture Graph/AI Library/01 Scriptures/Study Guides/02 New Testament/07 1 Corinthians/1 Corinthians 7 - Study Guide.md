@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 7
 slug: 1cor-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[D&C 88]] — 1 footnote cross-reference (from [[1 Corinthians 7#^1cor-7-22|1 Corinthians 7:22]])
 - [[Ephesians 6]] — 1 footnote cross-reference (from [[1 Corinthians 7#^1cor-7-22|1 Corinthians 7:22]])
 - [[D&C 74]] — 1 parallel verse, e.g. [[1 Corinthians 7#^1cor-7-14|1 Corinthians 7:14]] ↔ [[D&C 74#^dc-74-1|D&C 74:1]]
+- [[1 Corinthians 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

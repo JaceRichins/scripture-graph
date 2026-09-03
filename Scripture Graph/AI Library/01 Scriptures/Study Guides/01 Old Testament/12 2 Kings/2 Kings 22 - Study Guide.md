@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 22
 slug: 2kgs-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ A temple-repair project leads to the discovery of a law book and then to a crisi
 - [[Ezra 7]] — 1 footnote cross-reference (from [[2 Kings 22#^2kgs-22-4|2 Kings 22:4]])
 - [[Alma 31]] — 1 footnote cross-reference (from [[2 Kings 22#^2kgs-22-11|2 Kings 22:11]])
 - [[Jeremiah 26]] — 1 footnote cross-reference (from [[2 Kings 22#^2kgs-22-12|2 Kings 22:12]])
+- [[2 Chronicles 34]] — 20 parallel verses, e.g. [[2 Kings 22#^2kgs-22-17|2 Kings 22:17]] ↔ [[2 Chronicles 34#^2chr-34-25|2 Chronicles 34:25]]
 - [[2 Kings 15]] — 4 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
 - [[2 Kings 23]] — 4 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[2 Kings 23#^2kgs-23-36|2 Kings 23:36]]
 - [[2 Chronicles 36]] — 4 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[2 Chronicles 36#^2chr-36-9|2 Chronicles 36:9]]
@@ -60,7 +61,6 @@ A temple-repair project leads to the discovery of a law book and then to a crisi
 - [[2 Chronicles 27]] — 3 parallel verses, e.g. [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
 - [[2 Kings 14]] — 2 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[2 Kings 14#^2kgs-14-2|2 Kings 14:2]]
 - [[2 Chronicles 20]] — 2 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]]
-- [[1 Kings 22]] — 2 parallel verses, e.g. [[2 Kings 22#^2kgs-22-1|2 Kings 22:1]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,6 +68,7 @@ A temple-repair project leads to the discovery of a law book and then to a crisi
 - [[Records and Sacred Writings]]
 - [[Scripture Study]]
 - [[Law of Moses]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

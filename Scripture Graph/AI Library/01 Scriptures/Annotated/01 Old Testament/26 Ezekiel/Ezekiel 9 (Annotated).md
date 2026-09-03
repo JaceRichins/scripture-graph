@@ -42,6 +42,6 @@ cssclasses:
 > [[Isaiah 47#^isa-47-10|Isa. 47:10]] · [[Ezekiel 8#^ezek-8-12|≈ Ezekiel 8:12]]
 
 ![[Ezekiel 9#^ezek-9-10]]
-> [[Ezekiel 7#^ezek-7-4|Ezek. 7:4]] · [[Ezekiel 11#^ezek-11-21|≈ Ezekiel 11:21]] · [[Ezekiel 8#^ezek-8-18|≈ Ezekiel 8:18]] · [[Ezekiel 7#^ezek-7-9|≈ Ezekiel 7:9]] · [[Ezekiel 7#^ezek-7-4|≈ Ezekiel 7:4]]
+> [[Ezekiel 7#^ezek-7-4|Ezek. 7:4]] · [[Ezekiel 7#^ezek-7-9|≈ Ezekiel 7:9]] · [[Ezekiel 7#^ezek-7-4|≈ Ezekiel 7:4]] · [[Ezekiel 11#^ezek-11-21|≈ Ezekiel 11:21]] · [[Ezekiel 8#^ezek-8-18|≈ Ezekiel 8:18]]
 
 ![[Ezekiel 9#^ezek-9-11]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 3
 slug: 1cor-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[1 Peter 2]] — 0 parallel verses
 - [[D&C 93]] — 0 parallel verses
 - [[D&C 76]] — 0 parallel verses
+- [[1 Corinthians 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,6 +86,7 @@ In verses 16-17 the Corinthian community is addressed collectively as God's holy
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 - [[Be Not Moved! (Elaine S. Dalton, April 2013)|Be Not Moved!]] — Elaine S. Dalton, 2013-April *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
+- [[Temple Standard (Elder Scott D. Whiting, October 2012)|Temple Standard]] — Elder Scott D. Whiting, 2012-October *(explicit citation)*
 - [[The Plan and the Proclamation (Elder Dallin H. Oaks, October 2017)|The Plan and the Proclamation]] — Elder Dallin H. Oaks, 2017-October *(explicit citation)*
 - [[Come, Listen to a Prophet’s Voice (Bishop Dean M. Davies, October 2018)|Come, Listen to a Prophet’s Voice]] — Bishop Dean M. Davies, 2018-October *(explicit citation)*
 - [[Sharing Your Light (Neill F. Marriott, October 2014)|Sharing Your Light]] — Neill F. Marriott, 2014-October *(explicit citation)*
@@ -95,6 +97,7 @@ In verses 16-17 the Corinthian community is addressed collectively as God's holy
 - **‘The Vision’** (history) *(explicit citation)*
 - **Body Piercing** (reference-entry) *(explicit citation)*
 - **Tattooing** (reference-entry) *(explicit citation)*
+- **Apollos** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

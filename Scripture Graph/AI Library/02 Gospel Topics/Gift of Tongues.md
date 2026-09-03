@@ -33,6 +33,7 @@ _Not yet developed._
 - [[D&C 46]]
 - [[Mormon 9]] *(keyword match)*
 - [[Moroni 10]]
+- [[D&C 109]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

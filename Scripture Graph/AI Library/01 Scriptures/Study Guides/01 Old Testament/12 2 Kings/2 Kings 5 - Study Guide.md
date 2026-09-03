@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 5
 slug: 2kgs-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ Naaman's confession and promised sacrifice are substantial signs of [[Conversion
 ## Church History
 <!-- SG:BEGIN history -->
 - **Prophets** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

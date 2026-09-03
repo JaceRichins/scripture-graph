@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 31
 slug: isa-31
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,8 +45,8 @@ _Not yet developed._
 - [[Numbers 23]] — 1 footnote cross-reference (from [[Isaiah 31#^isa-31-2|Isaiah 31:2]])
 - [[Hosea 11]] — 1 footnote cross-reference (from [[Isaiah 31#^isa-31-4|Isaiah 31:4]])
 - [[Amos 1]] — 1 footnote cross-reference (from [[Isaiah 31#^isa-31-4|Isaiah 31:4]])
-- [[Isaiah 2]] — 1 parallel verse, e.g. [[Isaiah 31#^isa-31-7|Isaiah 31:7]] ↔ [[Isaiah 2#^isa-2-20|Isaiah 2:20]]
 - [[2 Nephi 12]] — 1 parallel verse, e.g. [[Isaiah 31#^isa-31-7|Isaiah 31:7]] ↔ [[2 Nephi 12#^2ne-12-20|2 Nephi 12:20]]
+- [[Isaiah 2]] — 1 parallel verse, e.g. [[Isaiah 31#^isa-31-7|Isaiah 31:7]] ↔ [[Isaiah 2#^isa-2-20|Isaiah 2:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

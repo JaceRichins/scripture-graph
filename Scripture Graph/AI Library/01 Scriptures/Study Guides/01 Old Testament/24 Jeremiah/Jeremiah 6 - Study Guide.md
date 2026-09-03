@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 6
 slug: jer-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[2 Chronicles 34]] — 2 parallel verses, e.g. [[Jeremiah 6#^jer-6-21|Jeremiah 6:21]] ↔ [[2 Chronicles 34#^2chr-34-24|2 Chronicles 34:24]]
 - [[Jeremiah 32]] — 2 parallel verses, e.g. [[Jeremiah 6#^jer-6-21|Jeremiah 6:21]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
 - [[Jeremiah 51]] — 2 parallel verses, e.g. [[Jeremiah 6#^jer-6-21|Jeremiah 6:21]] ↔ [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]]
+- [[Jeremiah 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

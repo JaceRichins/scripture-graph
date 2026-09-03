@@ -32,7 +32,7 @@ cssclasses:
 ![[Numbers 19#^num-19-6]]
 
 ![[Numbers 19#^num-19-7]]
-> [[Leviticus 14#^lev-14-8|≈ Leviticus 14:8]] · [[Leviticus 15#^lev-15-10|≈ Leviticus 15:10]] · [[Leviticus 16#^lev-16-28|≈ Leviticus 16:28]] · [[Leviticus 16#^lev-16-26|≈ Leviticus 16:26]]
+> [[Leviticus 15#^lev-15-10|≈ Leviticus 15:10]] · [[Leviticus 14#^lev-14-8|≈ Leviticus 14:8]] · [[Leviticus 16#^lev-16-28|≈ Leviticus 16:28]] · [[Leviticus 16#^lev-16-26|≈ Leviticus 16:26]]
 
 ![[Numbers 19#^num-19-8]]
 > [[Leviticus 16#^lev-16-26|≈ Leviticus 16:26]] · [[Leviticus 16#^lev-16-28|≈ Leviticus 16:28]]
@@ -40,7 +40,7 @@ cssclasses:
 ![[Numbers 19#^num-19-9]]
 
 ![[Numbers 19#^num-19-10]]
-> [[Exodus 12#^ex-12-49|≈ Exodus 12:49]] · [[Leviticus 15#^lev-15-10|≈ Leviticus 15:10]] · [[Leviticus 15#^lev-15-5|≈ Leviticus 15:5]] · [[Leviticus 15#^lev-15-6|≈ Leviticus 15:6]] · [[Leviticus 15#^lev-15-7|≈ Leviticus 15:7]] · [[Leviticus 15#^lev-15-8|≈ Leviticus 15:8]]
+> [[Leviticus 15#^lev-15-10|≈ Leviticus 15:10]] · [[Leviticus 15#^lev-15-5|≈ Leviticus 15:5]] · [[Leviticus 15#^lev-15-6|≈ Leviticus 15:6]] · [[Leviticus 15#^lev-15-7|≈ Leviticus 15:7]] · [[Leviticus 15#^lev-15-8|≈ Leviticus 15:8]] · [[Leviticus 15#^lev-15-11|≈ Leviticus 15:11]]
 
 ![[Numbers 19#^num-19-11]]
 > [[Leviticus 5#^lev-5-2|Lev. 5:2 (2–6)]] · [[Ezekiel 44#^ezek-44-26|Ezek. 44:26]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 11
 slug: luke-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[The Privilege of Prayer (Elder J. Devn Cornish, October 2011)|The Privilege of Prayer]] — Elder J. Devn Cornish, 2011-October *(explicit citation)*
 - [[Priesthood and Personal Prayer (President Henry B. Eyring, April 2015)|Priesthood and Personal Prayer]] — President Henry B. Eyring, 2015-April *(explicit citation)*
 - [[In Praise of Those Who Save (President Dieter F. Uchtdorf, April 2016)|In Praise of Those Who Save]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
 - [[“Be With and Strengthen Them” (Elder Jeffrey R. Holland, April 2018)|“Be With and Strengthen Them”]] — Elder Jeffrey R. Holland, 2018-April *(explicit citation)*
@@ -81,12 +82,12 @@ _Not yet developed._
 - [[Put On Thy Strength, O Zion (Elder David A. Bednar, October 2022)|Put On Thy Strength, O Zion]] — Elder David A. Bednar, 2022-October *(explicit citation)*
 - [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
 - [[Forsake Not Your Own Mercy (Elder Matthew S. Holland, October 2025)|Forsake Not Your Own Mercy]] — Elder Matthew S. Holland, 2025-October *(explicit citation)*
-- [[Prayers for Peace (President Henry B. Eyring, April 2026)|Prayers for Peace]] — President Henry B. Eyring, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Commandments** (reference-entry) *(explicit citation)*
+- **Almsgiving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

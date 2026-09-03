@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 1
 slug: 1kgs-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,7 +58,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -76,7 +76,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abiathar** (reference-entry) *(explicit citation)*
+- **Absalom** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
+- **Amen** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

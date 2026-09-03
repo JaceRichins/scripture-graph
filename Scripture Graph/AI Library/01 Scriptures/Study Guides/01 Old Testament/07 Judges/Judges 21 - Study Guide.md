@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 21
 slug: judg-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,10 +48,11 @@ _Not yet developed._
 - [[Judges 17]] — 1 parallel verse, e.g. [[Judges 21#^judg-21-25|Judges 21:25]] ↔ [[Judges 17#^judg-17-6|Judges 17:6]]
 - [[Judges 9]] — 1 parallel verse, e.g. [[Judges 21#^judg-21-4|Judges 21:4]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
 - [[Leviticus 20]] — 2 parallel verses, e.g. [[Judges 21#^judg-21-5|Judges 21:5]] ↔ [[Leviticus 20#^lev-20-2|Leviticus 20:2]]
+- [[Judges 18]] — 1 parallel verse, e.g. [[Judges 21#^judg-21-25|Judges 21:25]] ↔ [[Judges 18#^judg-18-1|Judges 18:1]]
 - [[Genesis 19]] — 1 parallel verse, e.g. [[Judges 21#^judg-21-4|Judges 21:4]] ↔ [[Genesis 19#^gen-19-34|Genesis 19:34]]
 - [[1 Samuel 18]] — 1 parallel verse, e.g. [[Judges 21#^judg-21-4|Judges 21:4]] ↔ [[1 Samuel 18#^1sam-18-10|1 Samuel 18:10]]
 - [[3 Nephi 26]] — 1 parallel verse, e.g. [[Judges 21#^judg-21-4|Judges 21:4]] ↔ [[3 Nephi 26#^3ne-26-16|3 Nephi 26:16]]
-- [[Judges 18]] — 1 parallel verse, e.g. [[Judges 21#^judg-21-25|Judges 21:25]] ↔ [[Judges 18#^judg-18-1|Judges 18:1]]
+- [[Judges 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

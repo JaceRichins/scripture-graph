@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 9
 slug: morm-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ The prayer texts should be read together. Verses 21 and 25 speak expansively of 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[The Power of Spiritual Momentum (President Russell M. Nelson, April 2022)|The Power of Spiritual Momentum]] — President Russell M. Nelson, 2022-April *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
@@ -96,7 +97,6 @@ The prayer texts should be read together. Verses 21 and 25 speak expansively of 
 - [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 - [[The Soul’s Sincere Desire (Carol F. McConkie, October 2016)|The Soul’s Sincere Desire]] — Carol F. McConkie, 2016-October *(explicit citation)*
-- [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -104,13 +104,13 @@ The prayer texts should be read together. Verses 21 and 25 speak expansively of 
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
+- **20 Do Not Cast Me Off** (history) *(explicit citation)*
 - **Journal of Discourses, Volume 4** (history, ~1857) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
-- **Resurrection** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

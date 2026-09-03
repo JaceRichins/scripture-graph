@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 15
 slug: isa-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Deuteronomy 2]] — 1 footnote cross-reference (from [[Isaiah 15#^isa-15-1|Isaiah 15:1]])
 - [[Isaiah 3]] — 1 footnote cross-reference (from [[Isaiah 15#^isa-15-2|Isaiah 15:2]])
 - [[Isaiah 16]] — 1 footnote cross-reference (from [[Isaiah 15#^isa-15-5|Isaiah 15:5]])
+- [[Jeremiah 48]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

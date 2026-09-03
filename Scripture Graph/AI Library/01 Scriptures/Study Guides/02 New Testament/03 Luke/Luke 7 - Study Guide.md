@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 7
 slug: luke-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ _Not yet developed._
 - **Charity** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

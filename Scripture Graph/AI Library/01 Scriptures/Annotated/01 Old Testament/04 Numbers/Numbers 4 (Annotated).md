@@ -108,7 +108,7 @@ cssclasses:
 ![[Numbers 4#^num-4-36]]
 
 ![[Numbers 4#^num-4-37]]
-> [[Numbers 9#^num-9-23|≈ Numbers 9:23]] · [[Numbers 9#^num-9-20|≈ Numbers 9:20]] · [[Exodus 17#^ex-17-1|≈ Exodus 17:1]] · [[Numbers 10#^num-10-13|≈ Numbers 10:13]] · [[Joshua 8#^josh-8-8|≈ Joshua 8:8]] · [[Joshua 15#^josh-15-13|≈ Joshua 15:13]]
+> [[Numbers 9#^num-9-23|≈ Numbers 9:23]] · [[Numbers 9#^num-9-20|≈ Numbers 9:20]] · [[Numbers 10#^num-10-13|≈ Numbers 10:13]] · [[Exodus 17#^ex-17-1|≈ Exodus 17:1]] · [[Joshua 8#^josh-8-8|≈ Joshua 8:8]] · [[Joshua 15#^josh-15-13|≈ Joshua 15:13]]
 
 ![[Numbers 4#^num-4-38]]
 
@@ -119,7 +119,7 @@ cssclasses:
 > [[Numbers 1#^num-1-2|≈ Numbers 1:2]] · [[Numbers 1#^num-1-18|≈ Numbers 1:18]] · [[Numbers 1#^num-1-20|≈ Numbers 1:20]] · [[Numbers 1#^num-1-22|≈ Numbers 1:22]] · [[Numbers 1#^num-1-24|≈ Numbers 1:24]] · [[Numbers 1#^num-1-26|≈ Numbers 1:26]]
 
 ![[Numbers 4#^num-4-41]]
-> [[Exodus 6#^ex-6-17|Ex. 6:17]] · [[Numbers 9#^num-9-20|≈ Numbers 9:20]] · [[Numbers 36#^num-36-1|≈ Numbers 36:1]] · [[1 Chronicles 6#^1chr-6-66|≈ 1 Chronicles 6:66]] · [[Exodus 17#^ex-17-1|≈ Exodus 17:1]] · [[Numbers 10#^num-10-13|≈ Numbers 10:13]] · [[Joshua 8#^josh-8-8|≈ Joshua 8:8]]
+> [[Exodus 6#^ex-6-17|Ex. 6:17]] · [[Numbers 9#^num-9-20|≈ Numbers 9:20]] · [[Numbers 10#^num-10-13|≈ Numbers 10:13]] · [[Numbers 36#^num-36-1|≈ Numbers 36:1]] · [[1 Chronicles 6#^1chr-6-66|≈ 1 Chronicles 6:66]] · [[Exodus 17#^ex-17-1|≈ Exodus 17:1]] · [[Joshua 8#^josh-8-8|≈ Joshua 8:8]]
 
 ![[Numbers 4#^num-4-42]]
 > [[Exodus 6#^ex-6-19|Ex. 6:19]] · [[Numbers 36#^num-36-1|≈ Numbers 36:1]] · [[1 Chronicles 6#^1chr-6-66|≈ 1 Chronicles 6:66]] · [[Numbers 1#^num-1-2|≈ Numbers 1:2]] · [[Numbers 1#^num-1-18|≈ Numbers 1:18]] · [[Numbers 1#^num-1-20|≈ Numbers 1:20]] · [[Numbers 1#^num-1-22|≈ Numbers 1:22]]
@@ -130,7 +130,7 @@ cssclasses:
 ![[Numbers 4#^num-4-44]]
 
 ![[Numbers 4#^num-4-45]]
-> [[Numbers 9#^num-9-23|≈ Numbers 9:23]] · [[Numbers 36#^num-36-1|≈ Numbers 36:1]] · [[1 Chronicles 6#^1chr-6-66|≈ 1 Chronicles 6:66]] · [[Numbers 10#^num-10-13|≈ Numbers 10:13]] · [[Joshua 22#^josh-22-9|≈ Joshua 22:9]] · [[2 Chronicles 35#^2chr-35-6|≈ 2 Chronicles 35:6]]
+> [[Numbers 9#^num-9-23|≈ Numbers 9:23]] · [[Numbers 10#^num-10-13|≈ Numbers 10:13]] · [[Numbers 36#^num-36-1|≈ Numbers 36:1]] · [[1 Chronicles 6#^1chr-6-66|≈ 1 Chronicles 6:66]] · [[Joshua 22#^josh-22-9|≈ Joshua 22:9]] · [[2 Chronicles 35#^2chr-35-6|≈ 2 Chronicles 35:6]]
 
 ![[Numbers 4#^num-4-46]]
 
@@ -140,4 +140,4 @@ cssclasses:
 ![[Numbers 4#^num-4-48]]
 
 ![[Numbers 4#^num-4-49]]
-> [[Numbers 9#^num-9-20|≈ Numbers 9:20]] · [[Numbers 9#^num-9-23|≈ Numbers 9:23]] · [[Exodus 17#^ex-17-1|≈ Exodus 17:1]] · [[Numbers 10#^num-10-13|≈ Numbers 10:13]] · [[Joshua 8#^josh-8-8|≈ Joshua 8:8]] · [[Joshua 15#^josh-15-13|≈ Joshua 15:13]]
+> [[Numbers 9#^num-9-20|≈ Numbers 9:20]] · [[Numbers 9#^num-9-23|≈ Numbers 9:23]] · [[Numbers 10#^num-10-13|≈ Numbers 10:13]] · [[Exodus 17#^ex-17-1|≈ Exodus 17:1]] · [[Joshua 8#^josh-8-8|≈ Joshua 8:8]] · [[Joshua 15#^josh-15-13|≈ Joshua 15:13]]

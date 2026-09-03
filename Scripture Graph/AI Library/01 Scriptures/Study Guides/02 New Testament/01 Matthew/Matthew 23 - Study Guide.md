@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 23
 slug: matt-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Matthew 21]] — 1 parallel verse, e.g. [[Matthew 23#^matt-23-39|Matthew 23:39]] ↔ [[Matthew 21#^matt-21-9|Matthew 21:9]]
 - [[Mark 11]] — 1 parallel verse, e.g. [[Matthew 23#^matt-23-39|Matthew 23:39]] ↔ [[Mark 11#^mark-11-9|Mark 11:9]]
 - [[D&C 10]] — 1 parallel verse, e.g. [[Matthew 23#^matt-23-37|Matthew 23:37]] ↔ [[D&C 10#^dc-10-65|D&C 10:65]]
+- [[D&C 121]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,6 +73,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[What Thinks Christ of Me (Elder Neil L. Andersen, April 2012)|What Thinks Christ of Me?]] — Elder Neil L. Andersen, 2012-April *(explicit citation)*
 - [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
 - [[Overcoming the World (Elder Neil L. Andersen, April 2017)|Overcoming the World]] — Elder Neil L. Andersen, 2017-April *(explicit citation)*
@@ -81,12 +83,13 @@ _Not yet developed._
 - [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Eternity’s Great Gifts Jesus Christ’s Atonement, Resurrection, Restoration (Elder Gerrit W. Gong, April 2025)|Eternity’s Great Gifts: Jesus Christ’s Atonement, Resurrection, Restoration]] — Elder Gerrit W. Gong, 2025-April *(explicit citation)*
-- [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Humility** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1840-11-01 (Vol. 2 No. 1)** (periodical, 1840-11-01) *(explicit citation)*
+- **Abel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

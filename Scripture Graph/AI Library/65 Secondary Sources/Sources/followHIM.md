@@ -39,5 +39,7 @@ Perspective label: `faithful_lds` (tracked separately from quality — §8)
 
 ## Ingested episodes
 
+- 2026-09-02 [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo]] (quality 85)
 - 2026-08-20 [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] (quality 84)
 - 2026-08-20 [[2026-08-20 Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me]] (quality 75)
+- 2026-08-19 [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.]] (quality 78)

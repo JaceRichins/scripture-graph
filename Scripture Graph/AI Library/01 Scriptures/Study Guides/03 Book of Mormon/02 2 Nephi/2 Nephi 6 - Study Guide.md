@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 6
 slug: 2ne-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,7 +49,10 @@ Jacob, having already taught the Nephites extensively (v.3), turns to a direct r
 - [[Jacob 2]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]])
 - [[Isaiah 49]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]])
 - [[Isaiah 49]] — 5 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
+- [[1 Nephi 21]] — 5 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]]
 - [[1 Nephi 22]] — 4 parallel verses, e.g. [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]] ↔ [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]]
+- [[1 Nephi 19]] — 3 parallel verses, e.g. [[2 Nephi 6#^2ne-6-9|2 Nephi 6:9]] ↔ [[1 Nephi 19#^1ne-19-8|1 Nephi 19:8]]
+- [[Isaiah 60]] — 1 parallel verse, e.g. [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]] ↔ [[Isaiah 60#^isa-60-16|Isaiah 60:16]]
 - [[Ezekiel 25]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]]
 - [[Ezekiel 35]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
 - [[Ezekiel 23]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]] ↔ [[Ezekiel 23#^ezek-23-22|Ezekiel 23:22]]
@@ -57,17 +60,14 @@ Jacob, having already taught the Nephites extensively (v.3), turns to a direct r
 - [[Ezekiel 37]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
 - [[Jacob 2]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]] ↔ [[Jacob 2#^jacob-2-1|Jacob 2:1]]
 - [[2 Nephi 1]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-12|2 Nephi 6:12]] ↔ [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]]
-- [[1 Nephi 15]] — 1 parallel verse, e.g. [[2 Nephi 6#^2ne-6-11|2 Nephi 6:11]] ↔ [[1 Nephi 15#^1ne-15-14|1 Nephi 15:14]]
-- [[1 Nephi 22]] — 0 parallel verses
-- [[1 Nephi 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Scattering of Israel]]
 - [[Jews and Gentiles]]
 - [[Crucifixion of Jesus Christ]]
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
@@ -113,6 +113,14 @@ Jacob names his interpretive method before quoting Isaiah: the words 'may be lik
 > [!evidence] Literary Structure *(tentative)*
 > The inclusio pattern identified in c4/c5 (repeated 'lick the dust,' 'not ashamed,' 'wait for' phrases bracketing vv.6-13) is consistent with deliberate editorial/literary shaping of the discourse, but the same evidence is also consistent with Jacob simply echoing memorable phrases from the Isaiah text he had just read aloud, without any deliberate structuring intent.
 > — strength 0.3 · confidence 0.5 · inherits c5's flawed 'inclusio' framing but conclusion is hedged
+
+> [!evidence] Evidence *(tentative)*
+> The Hebrew word translated 'standard' in 2 Nephi 6:6 is ness, the same word usually translated 'ensign' elsewhere in the Old Testament.
+> — confidence medium · secondary-claim
+
+> [!evidence] Evidence *(tentative)*
+> In 2 Nephi 6:6 (quoting Isaiah 49), the Hebrew word translated 'lift up' is nasa, which as a root word also carries the meaning 'to forgive.'
+> — confidence medium · secondary-claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -129,3 +137,8 @@ Jacob names his interpretive method before quoting Isaiah: the words 'may be lik
 <!-- SG:BEGIN further-study -->
 Compare verses 6–7 and 16–18 with [[Isaiah 49]] and [[1 Nephi 21]], noting both correspondence and added explanatory wording. Then compare Jacob's interpretation with [[1 Nephi 22]], where Nephi also reads Isaiah through [[Scattering of Israel]], Gentile involvement, and covenant restoration. Continue into [[2 Nephi 9]] to see how Jacob develops the identity and saving work of the Holy One of Israel.
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

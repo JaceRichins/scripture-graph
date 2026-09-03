@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 3
 slug: luke-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,7 +69,7 @@ _Not yet developed._
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[Luke 3#^luke-3-4|Luke 3:4]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Luke 3#^luke-3-9|Luke 3:9]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[Luke 3#^luke-3-9|Luke 3:9]] ↔ [[D&C 45#^dc-45-50|D&C 45:50]]
-- [[John 1]] — 1 parallel verse, e.g. [[Luke 3#^luke-3-4|Luke 3:4]] ↔ [[John 1#^john-1-23|John 1:23]]
+- [[D&C 97]] — 1 parallel verse, e.g. [[Luke 3#^luke-3-9|Luke 3:9]] ↔ [[D&C 97#^dc-97-7|D&C 97:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -93,8 +93,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Adoption** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
+- **Adam** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

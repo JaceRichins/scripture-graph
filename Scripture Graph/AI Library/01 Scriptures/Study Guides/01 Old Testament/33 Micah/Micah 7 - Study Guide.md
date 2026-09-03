@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 7
 slug: micah-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

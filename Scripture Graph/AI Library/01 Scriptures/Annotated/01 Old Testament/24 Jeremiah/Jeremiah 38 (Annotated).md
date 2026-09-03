@@ -20,10 +20,10 @@ cssclasses:
 > [[Jeremiah 21#^jer-21-1|Jer. 21:1]] · [[Jeremiah 20#^jer-20-1|Jer. 20:1]]
 
 ![[Jeremiah 38#^jer-38-2]]
-> [[Jeremiah 42#^jer-42-17|≈ Jeremiah 42:17]] · [[Jeremiah 42#^jer-42-22|≈ Jeremiah 42:22]] · [[Jeremiah 44#^jer-44-13|≈ Jeremiah 44:13]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 21#^jer-21-9|≈ Jeremiah 21:9]] · [[Jeremiah 27#^jer-27-13|≈ Jeremiah 27:13]]
+> [[Jeremiah 42#^jer-42-17|≈ Jeremiah 42:17]] · [[Jeremiah 42#^jer-42-22|≈ Jeremiah 42:22]] · [[Jeremiah 44#^jer-44-13|≈ Jeremiah 44:13]] · [[Jeremiah 21#^jer-21-9|≈ Jeremiah 21:9]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 27#^jer-27-13|≈ Jeremiah 27:13]]
 
 ![[Jeremiah 38#^jer-38-3]]
-> [[Jeremiah 21#^jer-21-10|Jer. 21:10]] · [[Jeremiah 34#^jer-34-2|34:2]] · [[Jeremiah 52#^jer-52-13|52:13]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 37#^jer-37-17|≈ Jeremiah 37:17]]
+> [[Jeremiah 21#^jer-21-10|Jer. 21:10]] · [[Jeremiah 34#^jer-34-2|34:2]] · [[Jeremiah 52#^jer-52-13|52:13]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 37#^jer-37-17|≈ Jeremiah 37:17]] · [[Jeremiah 21#^jer-21-10|≈ Jeremiah 21:10]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]]
 
 ![[Jeremiah 38#^jer-38-4]]
 > [[Jeremiah 26#^jer-26-11|Jer. 26:11]]
@@ -58,7 +58,7 @@ cssclasses:
 ![[Jeremiah 38#^jer-38-16]]
 
 ![[Jeremiah 38#^jer-38-17]]
-> [[Jeremiah 42#^jer-42-9|≈ Jeremiah 42:9]] · [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]] · [[Jeremiah 44#^jer-44-7|≈ Jeremiah 44:7]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-13|≈ Jeremiah 34:13]]
+> [[Jeremiah 42#^jer-42-9|≈ Jeremiah 42:9]] · [[Jeremiah 42#^jer-42-15|≈ Jeremiah 42:15]] · [[Jeremiah 44#^jer-44-7|≈ Jeremiah 44:7]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-13|≈ Jeremiah 34:13]] · [[Jeremiah 37#^jer-37-7|≈ Jeremiah 37:7]]
 
 ![[Jeremiah 38#^jer-38-18]]
 > [[Jeremiah 34#^jer-34-3|≈ Jeremiah 34:3]] · [[Jeremiah 21#^jer-21-10|≈ Jeremiah 21:10]]
@@ -74,7 +74,7 @@ cssclasses:
 > [[Jeremiah 32#^jer-32-2|≈ Jeremiah 32:2]]
 
 ![[Jeremiah 38#^jer-38-23]]
-> [[Jeremiah 39#^jer-39-6|Jer. 39:6]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 34#^jer-34-3|≈ Jeremiah 34:3]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]]
+> [[Jeremiah 39#^jer-39-6|Jer. 39:6]] · [[Jeremiah 34#^jer-34-3|≈ Jeremiah 34:3]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]] · [[Jeremiah 37#^jer-37-17|≈ Jeremiah 37:17]] · [[Jeremiah 21#^jer-21-10|≈ Jeremiah 21:10]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]]
 
 ![[Jeremiah 38#^jer-38-24]]
 

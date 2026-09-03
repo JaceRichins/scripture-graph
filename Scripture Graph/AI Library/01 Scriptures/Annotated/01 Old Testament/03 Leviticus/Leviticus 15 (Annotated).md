@@ -27,24 +27,24 @@ cssclasses:
 ![[Leviticus 15#^lev-15-4]]
 
 ![[Leviticus 15#^lev-15-5]]
-> [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
+> [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
 
 ![[Leviticus 15#^lev-15-6]]
-> [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
+> [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
 
 ![[Leviticus 15#^lev-15-7]]
-> [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
+> [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
 
 ![[Leviticus 15#^lev-15-8]]
-> [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
+> [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
 
 ![[Leviticus 15#^lev-15-9]]
 
 ![[Leviticus 15#^lev-15-10]]
-> [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Numbers 19#^num-19-7|≈ Numbers 19:7]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]]
+> [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Numbers 19#^num-19-7|≈ Numbers 19:7]] · [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]]
 
 ![[Leviticus 15#^lev-15-11]]
-> [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
+> [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
 
 ![[Leviticus 15#^lev-15-12]]
 > [[Leviticus 6#^lev-6-28|Lev. 6:28]]
@@ -72,10 +72,10 @@ cssclasses:
 ![[Leviticus 15#^lev-15-20]]
 
 ![[Leviticus 15#^lev-15-21]]
-> [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
+> [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
 
 ![[Leviticus 15#^lev-15-22]]
-> [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
+> [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
 
 ![[Leviticus 15#^lev-15-23]]
 
@@ -87,7 +87,7 @@ cssclasses:
 ![[Leviticus 15#^lev-15-26]]
 
 ![[Leviticus 15#^lev-15-27]]
-> [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
+> [[Numbers 19#^num-19-19|≈ Numbers 19:19]] · [[Numbers 19#^num-19-10|≈ Numbers 19:10]] · [[Leviticus 17#^lev-17-15|≈ Leviticus 17:15]] · [[Leviticus 11#^lev-11-25|≈ Leviticus 11:25]] · [[Leviticus 11#^lev-11-28|≈ Leviticus 11:28]] · [[Leviticus 11#^lev-11-40|≈ Leviticus 11:40]]
 
 ![[Leviticus 15#^lev-15-28]]
 

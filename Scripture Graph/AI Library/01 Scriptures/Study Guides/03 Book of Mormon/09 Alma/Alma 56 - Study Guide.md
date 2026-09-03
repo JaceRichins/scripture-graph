@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 56
 slug: alma-56
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -87,7 +87,7 @@ _Not yet developed._
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
 - [[Like a Broken Vessel (Elder Jeffrey R. Holland, October 2013)|Like a Broken Vessel]] — Elder Jeffrey R. Holland, 2013-October *(explicit citation)*
 - [[I Know These Things of Myself (Elder Craig C. Christensen, October 2014)|I Know These Things of Myself]] — Elder Craig C. Christensen, 2014-October *(explicit citation)*
-- [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
+- [[Seek Learning You Have a Work to Do (Mary N. Cook, April 2012)|Seek Learning: You Have a Work to Do]] — Mary N. Cook, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

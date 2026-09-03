@@ -1,0 +1,244 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elder Neil L. Andersen
+year: '2012'
+month: April
+url: https://www.churchofjesuschrist.org/general-conference/2012/04/what-thinks-christ-of-me?lang=eng
+doc_id: talk:2012-april-what-thinks-christ-of-me
+full_text: true
+---
+
+# What Thinks Christ of Me?
+
+**Speaker:** Elder Neil L. Andersen · **Conference:** April 2012 · [source](https://www.churchofjesuschrist.org/general-conference/2012/04/what-thinks-christ-of-me?lang=eng)
+
+What Thinks Christ of Me?
+
+By Elder Neil L. Andersen
+
+Of the Quorum of the Twelve Apostles
+
+As you love Him, trust Him, believe Him, and follow Him, you will feel His love and approval.
+
+A reporter from a leading Brazilian magazine studied the Church in preparation for a major news article. He examined our doctrine and visited the missionary training and humanitarian centers. He spoke with friends of the Church and with others who were not so friendly. In the interview with me, the reporter seemed honestly puzzled as he asked, “How could someone not consider you Christian?” I knew he was referring to the Church, but my mind somehow framed the question personally, and I found myself silently asking, “Does my life reflect the love and devotion I feel for the Savior?”
+
+Jesus asked the Pharisees, “What think ye of Christ?” In the final assessment, our personal discipleship will not be judged by friends or foes. Rather, as Paul said, “We shall all stand before the judgment seat of Christ.” At that day the important question for each of us will be, “What thinks Christ of me?”
+
+Even with His love for all mankind, Jesus reprovingly referred to some around Him as hypocrites, fools, and workers of iniquity. He approvingly called others children of the kingdom and the light of the world. He disapprovingly referred to some as blinded and unfruitful. He commended others as pure in heart and hungering after righteousness. He lamented that some were faithless and of the world, but others He esteemed as chosen, disciples, friends. And so we each ask, “What thinks Christ of me?”
+
+President Thomas S. Monson has described our day as moving away “from that which is spiritual … [with] the winds of change [swirling] around us and the moral fiber of society [continuing] to disintegrate before our very eyes.” It is a time of growing disbelief in and disregard for Christ and His teachings.
+
+In this turbulent environment, we rejoice in being disciples of Jesus Christ. We see the Lord’s hand all around us. Our destination is beautifully set before us. “This is life eternal,” Jesus prayed, “that they might know thee the only true God, and Jesus Christ, whom thou hast sent.” Being a disciple in these days of destiny will be a badge of honor throughout the eternities.
+
+The messages we have heard during this conference are guideposts from the Lord on our journey of discipleship. As we have listened during the past two days, praying for spiritual guidance, and as we study and pray about these messages in the days ahead, the Lord blesses us with customized direction through the gift of the Holy Ghost. These feelings turn us even more toward God, repenting, obeying, believing, and trusting. The Savior responds to our acts of faith. “If a man [or woman] love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.”
+
+Jesus’s call “Come, follow me” is not only for those prepared to compete in a spiritual Olympics. In fact, discipleship is not a competition at all but an invitation to all. Our journey of discipleship is not a dash around the track, nor is it fully comparable to a lengthy marathon. In truth, it is a lifelong migration toward a more celestial world.
+
+His invitation is a call to daily duty. Jesus said: “If ye love me, keep my commandments.” “If any man will come after me, let him deny himself, and take up his cross daily, and follow me.” We may not be at our very best every day, but if we are trying, Jesus’s bidding is full of encouragement and hope: “Come unto me, all ye that labour and are heavy laden, and I will give you rest.”
+
+Wherever you now find yourself on the road of discipleship, you are on the right road, the road toward eternal life. Together we can lift and strengthen one another in the great and important days ahead. Whatever the difficulties confronting us, the weaknesses confining us, or the impossibilities surrounding us, let us have faith in the Son of God, who declared, “All things are possible to him that believeth.”
+
+Let me share two examples of discipleship in action. The first is from the life of President Thomas S. Monson, demonstrating the power of simple kindness and Jesus’s teaching, “He that is greatest among you shall be your servant.”
+
+Nearly 20 years ago, President Monson spoke in general conference about a 12-year-old young woman suffering from cancer. He told of her courage and the kindness of her friends to carry her up Mount Timpanogos in central Utah.
+
+A few years ago I met Jami Palmer Brinton and heard the story from a different perspective—the perspective of what President Monson had done for her.
+
+Jami met President Monson in March 1993, a day after being told that a mass above her right knee was a fast-growing bone cancer. With her father assisting, President Monson administered a priesthood blessing, promising, “Jesus will be on your right side and on your left side to buoy you up.”
+
+“Upon leaving his office that day,” Jami said, “I unfastened a balloon tied to my wheelchair and gave it to him. ‘You’re the Best!’ it announced in bright letters.”
+
+Through her chemotherapy treatments and limb-saving surgery, President Monson did not forget her. Jami said, “President Monson exemplified what it means to be a true disciple of Christ. [He] lifted me from sorrow to great and abiding hope.” Three years after their first meeting, Jami again sat in President Monson’s office. At the end of the meeting, he did something that Jami will never forget. So typical of President Monson’s thoughtfulness, he surprised her with the very same balloon that she had given to him three years before. “You’re the Best!” the balloon proclaimed. He had saved it, knowing she would return to his office when she was cured of cancer. Fourteen years after first meeting Jami, President Monson performed her marriage to Jason Brinton in the Salt Lake Temple.
+
+We can learn so much from the discipleship of President Monson. He often reminds the General Authorities to remember this simple question: “What would Jesus do?”
+
+Jesus told the leader of the synagogue, “Be not afraid, only believe.” Discipleship is believing Him in seasons of peace and believing Him in seasons of difficulty, when our pain and fear are calmed only by the conviction that He loves us and keeps His promises.
+
+I recently met a family who is a beautiful example of how we believe Him. Olgan and Soline Saintelus, from Port-au-Prince, Haiti, told me their story.
+
+On January 12, 2010, Olgan was at work and Soline was at the church when a devastating earthquake struck Haiti. Their three children—Gancci, age five, Angie, age three, and Gansly, age one—were at home in their apartment with a friend.
+
+Massive devastation was everywhere. As you will remember, tens of thousands lost their lives that January in Haiti. Olgan and Soline ran as fast as they could to their apartment to find the children. The three-story apartment building where the Saintelus family lived had collapsed.
+
+The children had not escaped. No rescue efforts would be devoted to a building that was so completely destroyed.
+
+Olgan and Soline Saintelus had both served full-time missions and had been married in the temple. They believed in the Savior and in His promises to them. Yet their hearts were broken. They wept uncontrollably.
+
+Olgan told me that in his darkest hour he began to pray. “Heavenly Father, if it be Thy will, if there could be just one of my children alive, please, please help us.” Over and over he walked around the building, praying for inspiration. The neighbors tried to comfort him and help him accept the loss of his children. Olgan continued to walk around the rubble of the collapsed building, hoping, praying. Then something quite miraculous happened. Olgan heard the almost inaudible cry of a baby. It was the cry of his baby.
+
+For hours the neighbors frantically dug into the rubble, risking their own lives. In the dark of the night, through the piercing sounds of hammers and chisels, the rescue workers heard another sound. They stopped their pounding and listened. They couldn’t believe what they were hearing. It was the sound of a little child—and he was singing. Five-year-old Gancci later said that he knew his father would hear him if he sang. Under the weight of crushing concrete that would later result in the amputation of his arm, Gancci was singing his favorite song, “I Am a Child of God.”
+
+As the hours passed amid the darkness, death, and despair of so many other precious sons and daughters of God in Haiti, the Saintelus family had a miracle. Gancci, Angie, and Gansly were discovered alive under the flattened building.
+
+Miracles are not always so immediate. At times we thoughtfully wonder why the miracle we have so earnestly prayed for does not happen here and now. But as we trust in the Savior, promised miracles will occur. Whether in this life or the next, all will be made right. The Savior declares: “Let not your heart be troubled, neither let it be afraid.” “In the world ye shall have tribulation: but be of good cheer; I have overcome the world.”
+
+I testify that as you love Him, trust Him, believe Him, and follow Him, you will feel His love and approval. As you ask, “What thinks Christ of me?” you will know that you are His disciple; you are His friend. By His grace He will do for you what you cannot do for yourself.
+
+We eagerly await the concluding remarks of our beloved prophet. President Thomas S. Monson was ordained an Apostle of the Lord Jesus Christ when I was 12 years old. For more than 48 years we have been blessed to hear him bear witness of Jesus Christ. I testify that he now stands as the Savior’s senior Apostle upon the earth.
+
+With great love and admiration for the many disciples of Jesus Christ who are not members of this Church, we humbly declare that angels have returned to the earth in our day. The Church of Jesus Christ as He established it anciently has been restored, with the power, ordinances, and blessings of heaven. The Book of Mormon is another testament of Jesus Christ.
+
+I witness that Jesus Christ is the Savior of the world. He suffered and died for our sins and rose the third day. He is resurrected. In a future day, every knee will bow and every tongue confess that He is the Christ. On that day, our concern will not be, “Do others consider me Christian?” At that time, our eyes will be fixed on Him, and our souls will be riveted on the question, “What thinks Christ of me?” He lives. I so testify in the name of Jesus Christ, amen.
+
+Notes
+
+See André Petry, “Entre a Fé e a Urna,” Veja, Nov. 2, 2011, 96–100.
+
+Matthew 22:42.
+
+Romans 14:10.
+
+See Matthew 6:2.
+
+See Matthew 23:17.
+
+See Matthew 7:23.
+
+See Matthew 13:38.
+
+See Matthew 5:14.
+
+See Matthew 15:14.
+
+See Matthew 13:22.
+
+See Matthew 5:8.
+
+See Matthew 5:6.
+
+See Matthew 17:17.
+
+See John 8:23.
+
+See John 6:70.
+
+See John 13:35.
+
+See John 15:14.
+
+Thomas S. Monson, “Stand in Holy Places,” Liahona and Ensign, Nov. 2011, 83, 86.
+
+John 17:3.
+
+John 14:23.
+
+Luke 18:22.
+
+John 14:15.
+
+Luke 9:23.
+
+Matthew 11:28.
+
+Mark 9:23.
+
+Matthew 23:11.
+
+Jami Brinton, letter to author, Jan. 27, 2012.
+
+Mark 5:36.
+
+“I Am a Child of God,” Children’s Songbook, 2–3.
+
+From a discussion with Olgan and Soline Saintelus on Feb. 10, 2012; see also Jennifer Samuels, “Family Reunited in Miami after Trauma in Haiti,” Church News, Jan. 30, 2010, 6.
+
+John 14:27.
+
+John 16:33.
+
+See Romans 14:11.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28854686", "context": "", "text": "
+See André Petry, “Entre a Fé e a Urna,” Veja, Nov. 2, 2011, 96–100.
+"}, "note2": {"id": "note2", "marker": "2.", "pid": "28854687", "context": "", "text": "
+Matthew 22:42.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/22?lang=eng&id=p42#p42", "text": "Matthew 22:42"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28854687", "context": "", "text": "
+Romans 14:10.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/rom/14?lang=eng&id=p10#p10", "text": "Romans 14:10"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28854688", "context": "", "text": "
+See Matthew 6:2.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/6?lang=eng&id=p2#p2", "text": "Matthew 6:2"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "28854688", "context": "", "text": "
+See Matthew 23:17.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/23?lang=eng&id=p17#p17", "text": "Matthew 23:17"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28854688", "context": "", "text": "
+See Matthew 7:23.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/7?lang=eng&id=p23#p23", "text": "Matthew 7:23"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28854688", "context": "", "text": "
+See Matthew 13:38.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/13?lang=eng&id=p38#p38", "text": "Matthew 13:38"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28854688", "context": "", "text": "
+See Matthew 5:14.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/5?lang=eng&id=p14#p14", "text": "Matthew 5:14"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "28854688", "context": "", "text": "
+See Matthew 15:14.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/15?lang=eng&id=p14#p14", "text": "Matthew 15:14"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "28854688", "context": "", "text": "
+See Matthew 13:22.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/13?lang=eng&id=p22#p22", "text": "Matthew 13:22"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "28854688", "context": "", "text": "
+See Matthew 5:8.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/5?lang=eng&id=p8#p8", "text": "Matthew 5:8"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "28854688", "context": "", "text": "
+See Matthew 5:6.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/5?lang=eng&id=p6#p6", "text": "Matthew 5:6"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "28854688", "context": "", "text": "
+See Matthew 17:17.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/17?lang=eng&id=p17#p17", "text": "Matthew 17:17"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "28854688", "context": "", "text": "
+See John 8:23.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/8?lang=eng&id=p23#p23", "text": "John 8:23"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "28854688", "context": "", "text": "
+See John 6:70.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/6?lang=eng&id=p70#p70", "text": "John 6:70"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "28854688", "context": "", "text": "
+See John 13:35.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/13?lang=eng&id=p35#p35", "text": "John 13:35"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "28854688", "context": "", "text": "
+See John 15:14.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/15?lang=eng&id=p14#p14", "text": "John 15:14"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "28854689", "context": "", "text": "
+Thomas S. Monson, “Stand in Holy Places,” Liahona and Ensign, Nov. 2011, 83, 86.
+"}, "note19": {"id": "note19", "marker": "19.", "pid": "28854690", "context": "", "text": "
+John 17:3.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/17?lang=eng&id=p3#p3", "text": "John 17:3"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "28854691", "context": "", "text": "
+John 14:23.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/14?lang=eng&id=p23#p23", "text": "John 14:23"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "28854692", "context": "", "text": "
+Luke 18:22.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/luke/18?lang=eng&id=p22#p22", "text": "Luke 18:22"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "28854693", "context": "", "text": "
+John 14:15.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/14?lang=eng&id=p15#p15", "text": "John 14:15"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "28854693", "context": "", "text": "
+Luke 9:23.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/luke/9?lang=eng&id=p23#p23", "text": "Luke 9:23"}]}, "note24": {"id": "note24", "marker": "24.", "pid": "28854693", "context": "", "text": "
+Matthew 11:28.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/11?lang=eng&id=p28#p28", "text": "Matthew 11:28"}]}, "note25": {"id": "note25", "marker": "25.", "pid": "28854694", "context": "", "text": "
+Mark 9:23.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/mark/9?lang=eng&id=p23#p23", "text": "Mark 9:23"}]}, "note26": {"id": "note26", "marker": "26.", "pid": "28854695", "context": "", "text": "
+Matthew 23:11.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/23?lang=eng&id=p11#p11", "text": "Matthew 23:11"}]}, "note27": {"id": "note27", "marker": "27.", "pid": "28854700", "context": "", "text": "
+Jami Brinton, letter to author, Jan. 27, 2012.
+"}, "note28": {"id": "note28", "marker": "28.", "pid": "28854702", "context": "", "text": "
+Mark 5:36.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/mark/5?lang=eng&id=p36#p36", "text": "Mark 5:36"}]}, "note29": {"id": "note29", "marker": "29.", "pid": "28854709", "context": "", "text": "
+“I Am a Child of God,” Children’s Songbook, 2–3.
+"}, "note30": {"id": "note30", "marker": "30.", "pid": "28854710", "context": "", "text": "
+From a discussion with Olgan and Soline Saintelus on Feb. 10, 2012; see also Jennifer Samuels, “Family Reunited in Miami after Trauma in Haiti,” Church News, Jan. 30, 2010, 6.
+"}, "note31": {"id": "note31", "marker": "31.", "pid": "28854711", "context": "", "text": "
+John 14:27.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/14?lang=eng&id=p27#p27", "text": "John 14:27"}]}, "note32": {"id": "note32", "marker": "32.", "pid": "28854711", "context": "", "text": "
+John 16:33.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/16?lang=eng&id=p33#p33", "text": "John 16:33"}]}, "note33": {"id": "note33", "marker": "33.", "pid": "28854715", "context": "", "text": "
+See Romans 14:11.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/rom/14?lang=eng&id=p11#p11", "text": "Romans 14:11"}]}}
+
+## Scripture citations in this talk
+
+- [[Matthew 5]] (9×)
+- [[John 14]] (9×)
+- [[Romans 14]] (6×)
+- [[Matthew 23]] (6×)
+- [[Matthew 13]] (6×)
+- [[Matthew 22]] (3×)
+- [[Matthew 6]] (3×)
+- [[Matthew 7]] (3×)
+- [[Matthew 15]] (3×)
+- [[Matthew 17]] (3×)
+- [[John 8]] (3×)
+- [[John 6]] (3×)
+- [[John 13]] (3×)
+- [[John 15]] (3×)
+- [[John 17]] (3×)
+- [[Luke 18]] (3×)
+- [[Luke 9]] (3×)
+- [[Matthew 11]] (3×)
+- [[Mark 9]] (3×)
+- [[Mark 5]] (3×)
+- [[John 16]] (3×)

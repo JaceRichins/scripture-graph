@@ -6,7 +6,7 @@ volume: Old Testament
 book: Obadiah
 chapter: 1
 slug: obad-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,9 @@ _Not yet developed._
 - [[Genesis 36]] — 1 footnote cross-reference (from [[Obadiah 1#^obad-1-1|Obadiah 1:1]])
 - [[Jeremiah 49]] — 3 parallel verses, e.g. [[Obadiah 1#^obad-1-1|Obadiah 1:1]] ↔ [[Jeremiah 49#^jer-49-14|Jeremiah 49:14]]
 - [[Zephaniah 1]] — 2 parallel verses, e.g. [[Obadiah 1#^obad-1-15|Obadiah 1:15]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
+- [[Ezekiel 25]] — 0 parallel verses
+- [[Lamentations 4]] — 0 parallel verses
+- [[Ezekiel 35]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,6 +72,8 @@ _Not yet developed._
 - [[All Things for Our Good (Elder Gerrit W. Gong, April 2024)|All Things for Our Good]] — Elder Gerrit W. Gong, 2024-April *(explicit citation)*
 - [[Roots and Branches (Elder Quentin L. Cook, April 2014)|Roots and Branches]] — Elder Quentin L. Cook, 2014-April *(explicit citation)*
 - [[Our Personal Ministries (Elder Hugo E. Martinez, October 2014)|Our Personal Ministries]] — Elder Hugo E. Martinez, 2014-October *(explicit citation)*
+- [[Now Is the Time to Arise and Shine! (Elaine S. Dalton, April 2012)|Now Is the Time to Arise and Shine!]] — Elaine S. Dalton, 2012-April *(explicit citation)*
+- [[The Hearts of the Children Shall Turn (Elder David A. Bednar, October 2011)|The Hearts of the Children Shall Turn]] — Elder David A. Bednar, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

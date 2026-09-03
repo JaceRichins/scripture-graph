@@ -20,7 +20,7 @@ cssclasses:
 > [[Nehemiah 8#^neh-8-1|≈ Nehemiah 8:1]]
 
 ![[Ezra 3#^ezra-3-2]]
-> [[Deuteronomy 12#^deut-12-5|Deut. 12:6 (5–6)]] · [[1 Nephi 5#^1ne-5-9|1 Ne. 5:9]] · [[Mosiah 2#^mosiah-2-3|Mosiah 2:3]] · [[Deuteronomy 33#^deut-33-1|Deut. 33:1]] · [[Nehemiah 10#^neh-10-34|≈ Nehemiah 10:34]] · [[Nehemiah 10#^neh-10-36|≈ Nehemiah 10:36]] · [[Ezra 5#^ezra-5-2|≈ Ezra 5:2]] · [[2 Chronicles 31#^2chr-31-3|≈ 2 Chronicles 31:3]] · [[2 Chronicles 30#^2chr-30-16|≈ 2 Chronicles 30:16]] · [[1 Kings 2#^1kgs-2-3|≈ 1 Kings 2:3]]
+> [[Deuteronomy 12#^deut-12-5|Deut. 12:6 (5–6)]] · [[1 Nephi 5#^1ne-5-9|1 Ne. 5:9]] · [[Mosiah 2#^mosiah-2-3|Mosiah 2:3]] · [[Deuteronomy 33#^deut-33-1|Deut. 33:1]] · [[Ezra 5#^ezra-5-2|≈ Ezra 5:2]] · [[Nehemiah 10#^neh-10-34|≈ Nehemiah 10:34]] · [[Nehemiah 10#^neh-10-36|≈ Nehemiah 10:36]] · [[2 Chronicles 31#^2chr-31-3|≈ 2 Chronicles 31:3]] · [[2 Chronicles 30#^2chr-30-16|≈ 2 Chronicles 30:16]] · [[1 Kings 2#^1kgs-2-3|≈ 1 Kings 2:3]]
 
 ![[Ezra 3#^ezra-3-3]]
 

@@ -30,6 +30,14 @@ _Not yet developed._
 - [[D&C 26]]
 - [[D&C 28]]
 - [[Mosiah 29]]
+- [[D&C 124]]
+- [[D&C 107]]
+- [[D&C 112]]
+- [[D&C 43]]
+- [[D&C 64]]
+- [[D&C 41]]
+- [[1 Thessalonians 5]]
+- [[D&C 35]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

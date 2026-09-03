@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 1
 slug: titus-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,8 +47,8 @@ _Not yet developed._
 - [[1 Timothy 6]] — 1 footnote cross-reference (from [[Titus 1#^titus-1-11|Titus 1:11]])
 - [[Mosiah 29]] — 1 footnote cross-reference (from [[Titus 1#^titus-1-11|Titus 1:11]])
 - [[1 Timothy 3]] — 2 parallel verses, e.g. [[Titus 1#^titus-1-6|Titus 1:6]] ↔ [[1 Timothy 3#^1tim-3-2|1 Timothy 3:2]]
-- [[Ephesians 6]] — 1 parallel verse, e.g. [[Titus 1#^titus-1-4|Titus 1:4]] ↔ [[Ephesians 6#^eph-6-23|Ephesians 6:23]]
 - [[2 Timothy 1]] — 1 parallel verse, e.g. [[Titus 1#^titus-1-4|Titus 1:4]] ↔ [[2 Timothy 1#^2tim-1-2|2 Timothy 1:2]]
+- [[Ephesians 6]] — 1 parallel verse, e.g. [[Titus 1#^titus-1-4|Titus 1:4]] ↔ [[Ephesians 6#^eph-6-23|Ephesians 6:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,6 +64,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)|Adorned with the Virtue of Temperance]] — Elder Ulisses Soares, 2025-October *(explicit citation)*
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[Conference Report, October 1924 (General Conference (full report), October 1924)|Conference Report, October 1924]] — General Conference (full report), 1924-October *(explicit citation)*
 <!-- SG:END conference -->
 

@@ -38,7 +38,7 @@ cssclasses:
 > [[1 Nephi 11#^1ne-11-27|1 Ne. 11:27]] · [[2 Nephi 31#^2ne-31-4|2 Ne. 31:4 (4–18)]]
 
 ![[1 Nephi 10#^1ne-10-8]]
-> [[Isaiah 40#^isa-40-3|Isa. 40:3]] · [[Matthew 3#^matt-3-1|Matt. 3:3 (1–3)]] · [[D&C 84#^dc-84-26|D&amp;C 84:26]] · [[Isaiah 40#^isa-40-3|≈ Isaiah 40:3]] · [[Matthew 3#^matt-3-3|≈ Matthew 3:3]] · [[Mark 1#^mark-1-3|≈ Mark 1:3]] · [[Luke 3#^luke-3-4|≈ Luke 3:4]] · [[D&C 33#^dc-33-10|≈ D&C 33:10]] · [[D&C 65#^dc-65-1|≈ D&C 65:1]]
+> [[Isaiah 40#^isa-40-3|Isa. 40:3]] · [[Matthew 3#^matt-3-1|Matt. 3:3 (1–3)]] · [[D&C 84#^dc-84-26|D&amp;C 84:26]] · [[Isaiah 40#^isa-40-3|≈ Isaiah 40:3]] · [[John 1#^john-1-27|≈ John 1:27]] · [[John 1#^john-1-26|≈ John 1:26]] · [[Matthew 3#^matt-3-3|≈ Matthew 3:3]] · [[Mark 1#^mark-1-3|≈ Mark 1:3]] · [[Luke 3#^luke-3-4|≈ Luke 3:4]]
 
 ![[1 Nephi 10#^1ne-10-9]]
 > [[John 1#^john-1-28|John 1:28]]
@@ -65,13 +65,13 @@ cssclasses:
 > [[1 Nephi 2#^1ne-2-15|1 Ne. 2:15 (15–16)]] · [[1 Nephi 9#^1ne-9-1|≈ 1 Nephi 9:1]] · [[1 Nephi 16#^1ne-16-6|≈ 1 Nephi 16:6]]
 
 ![[1 Nephi 10#^1ne-10-17]]
-> [[Enos 1#^enos-1-3|Enos 1:3]] · [[Alma 36#^alma-36-17|Alma 36:17 (17–18)]] · [[1 Nephi 8#^1ne-8-2|1 Ne. 8:2]] · [[2 Nephi 4#^2ne-4-24|2 Ne. 4:24]] · [[2 Peter 1#^2pet-1-21|2 Pet. 1:21]] · [[Moroni 7#^moro-7-36|Moro. 7:36]] · [[Moroni 10#^moro-10-4|10:7 (4–5, 7, 19)]] · [[D&C 20#^dc-20-26|D&amp;C 20:26]] · [[3 Nephi 21#^3ne-21-2|≈ 3 Nephi 21:2]] · [[2 Nephi 26#^2ne-26-13|≈ 2 Nephi 26:13]]
+> [[Enos 1#^enos-1-3|Enos 1:3]] · [[Alma 36#^alma-36-17|Alma 36:17 (17–18)]] · [[1 Nephi 8#^1ne-8-2|1 Ne. 8:2]] · [[2 Nephi 4#^2ne-4-24|2 Ne. 4:24]] · [[2 Peter 1#^2pet-1-21|2 Pet. 1:21]] · [[Moroni 7#^moro-7-36|Moro. 7:36]] · [[Moroni 10#^moro-10-4|10:7 (4–5, 7, 19)]] · [[D&C 20#^dc-20-26|D&amp;C 20:26]] · [[Moroni 10#^moro-10-4|≈ Moroni 10:4]] · [[Moroni 10#^moro-10-5|≈ Moroni 10:5]]
 
 ![[1 Nephi 10#^1ne-10-18]]
 > [[Hebrews 13#^heb-13-8|Heb. 13:8]] · [[Mormon 9#^morm-9-9|Morm. 9:9 (9–11)]] · [[D&C 20#^dc-20-12|D&amp;C 20:12]] · [[Moroni 10#^moro-10-19|≈ Moroni 10:19]] · [[Ether 5#^ether-5-5|≈ Ether 5:5]] · [[2 Nephi 27#^2ne-27-23|≈ 2 Nephi 27:23]] · [[2 Nephi 2#^2ne-2-4|≈ 2 Nephi 2:4]]
 
 ![[1 Nephi 10#^1ne-10-19]]
-> [[Alma 7#^alma-7-20|Alma 7:20]] · [[Alma 37#^alma-37-12|37:12]] · [[D&C 3#^dc-3-2|D&amp;C 3:2]] · [[D&C 35#^dc-35-1|35:1]] · [[3 Nephi 21#^3ne-21-2|≈ 3 Nephi 21:2]] · [[2 Nephi 26#^2ne-26-13|≈ 2 Nephi 26:13]] · [[2 Nephi 28#^2ne-28-31|≈ 2 Nephi 28:31]] · [[2 Nephi 32#^2ne-32-3|≈ 2 Nephi 32:3]] · [[2 Nephi 33#^2ne-33-1|≈ 2 Nephi 33:1]] · [[Jacob 7#^jacob-7-12|≈ Jacob 7:12]]
+> [[Alma 7#^alma-7-20|Alma 7:20]] · [[Alma 37#^alma-37-12|37:12]] · [[D&C 3#^dc-3-2|D&amp;C 3:2]] · [[D&C 35#^dc-35-1|35:1]] · [[Moroni 10#^moro-10-4|≈ Moroni 10:4]] · [[Moroni 10#^moro-10-5|≈ Moroni 10:5]] · [[Moroni 10#^moro-10-7|≈ Moroni 10:7]] · [[3 Nephi 21#^3ne-21-2|≈ 3 Nephi 21:2]] · [[2 Nephi 26#^2ne-26-13|≈ 2 Nephi 26:13]] · [[2 Nephi 28#^2ne-28-31|≈ 2 Nephi 28:31]]
 
 ![[1 Nephi 10#^1ne-10-20]]
 > [[Ecclesiastes 12#^eccl-12-14|Eccl. 12:14]] · [[Ezekiel 33#^ezek-33-20|Ezek. 33:20]]

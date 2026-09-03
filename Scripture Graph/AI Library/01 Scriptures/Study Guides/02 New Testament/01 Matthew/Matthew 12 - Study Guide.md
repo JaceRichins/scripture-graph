@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 12
 slug: matt-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ _Not yet developed._
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Giving Holiness to the Lord (Bishop L. Todd Budge, October 2021)|Giving Holiness to the Lord]] — Bishop L. Todd Budge, 2021-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[The Book of Mormon—a Book from God (Elder Tad R. Callister, October 2011)|The Book of Mormon—a Book from God]] — Elder Tad R. Callister, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

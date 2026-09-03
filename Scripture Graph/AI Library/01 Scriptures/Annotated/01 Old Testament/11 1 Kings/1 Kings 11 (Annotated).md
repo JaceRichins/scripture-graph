@@ -120,10 +120,10 @@ cssclasses:
 > [[1 Kings 14#^1kgs-14-25|1 Kgs. 14:25]]
 
 ![[1 Kings 11#^1kgs-11-41]]
-> [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]] · [[2 Kings 20#^2kgs-20-20|≈ 2 Kings 20:20]] · [[2 Kings 21#^2kgs-21-17|≈ 2 Kings 21:17]] · [[2 Kings 21#^2kgs-21-25|≈ 2 Kings 21:25]] · [[2 Chronicles 12#^2chr-12-15|≈ 2 Chronicles 12:15]] · [[2 Kings 10#^2kgs-10-34|≈ 2 Kings 10:34]]
+> [[2 Kings 21#^2kgs-21-17|≈ 2 Kings 21:17]] · [[2 Kings 21#^2kgs-21-25|≈ 2 Kings 21:25]] · [[1 Kings 15#^1kgs-15-23|≈ 1 Kings 15:23]] · [[1 Kings 15#^1kgs-15-7|≈ 1 Kings 15:7]] · [[1 Kings 15#^1kgs-15-31|≈ 1 Kings 15:31]] · [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]]
 
 ![[1 Kings 11#^1kgs-11-42]]
 > [[2 Chronicles 9#^2chr-9-30|≈ 2 Chronicles 9:30]]
 
 ![[1 Kings 11#^1kgs-11-43]]
-> [[1 Chronicles 3#^1chr-3-10|1 Chr. 3:10]] · [[1 Kings 2#^1kgs-2-10|≈ 1 Kings 2:10]] · [[2 Kings 21#^2kgs-21-18|≈ 2 Kings 21:18]] · [[2 Chronicles 12#^2chr-12-16|≈ 2 Chronicles 12:16]] · [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 14#^2kgs-14-16|≈ 2 Kings 14:16]] · [[2 Kings 15#^2kgs-15-38|≈ 2 Kings 15:38]]
+> [[1 Chronicles 3#^1chr-3-10|1 Chr. 3:10]] · [[2 Kings 21#^2kgs-21-18|≈ 2 Kings 21:18]] · [[1 Kings 15#^1kgs-15-24|≈ 1 Kings 15:24]] · [[1 Kings 2#^1kgs-2-10|≈ 1 Kings 2:10]] · [[2 Chronicles 12#^2chr-12-16|≈ 2 Chronicles 12:16]] · [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 14#^2kgs-14-16|≈ 2 Kings 14:16]]

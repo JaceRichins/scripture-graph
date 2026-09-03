@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 60
 slug: alma-60
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,7 +78,10 @@ _Not yet developed._
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[Take Up Our Cross (Elder Ulisses Soares, October 2019)|Take Up Our Cross]] — Elder Ulisses Soares, 2019-October *(explicit citation)*
 - [[Infuriating Unfairness (Elder Dale G. Renlund, April 2021)|Infuriating Unfairness]] — Elder Dale G. Renlund, 2021-April *(explicit citation)*
+- [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
+- [[What Shall a Man Give in Exchange for His Soul (Elder Robert C. Gay, October 2012)|What Shall a Man Give in Exchange for His Soul?]] — Elder Robert C. Gay, 2012-October *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
+- [[Desire (Elder Dallin H. Oaks, April 2011)|Desire]] — Elder Dallin H. Oaks, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

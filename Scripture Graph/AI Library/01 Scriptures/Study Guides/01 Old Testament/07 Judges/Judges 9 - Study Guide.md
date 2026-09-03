@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 9
 slug: judg-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,14 +64,14 @@ _Not yet developed._
 - [[2 Samuel 16]] — 2 parallel verses, e.g. [[Judges 9#^judg-9-34|Judges 9:34]] ↔ [[2 Samuel 16#^2sam-16-14|2 Samuel 16:14]]
 - [[Judges 16]] — 2 parallel verses, e.g. [[Judges 9#^judg-9-44|Judges 9:44]] ↔ [[Judges 16#^judg-16-3|Judges 16:3]]
 - [[2 Samuel 11]] — 2 parallel verses, e.g. [[Judges 9#^judg-9-53|Judges 9:53]] ↔ [[2 Samuel 11#^2sam-11-21|2 Samuel 11:21]]
-- [[1 Samuel 30]] — 2 parallel verses, e.g. [[Judges 9#^judg-9-48|Judges 9:48]] ↔ [[1 Samuel 30#^1sam-30-21|1 Samuel 30:21]]
+- [[2 Samuel 20]] — 2 parallel verses, e.g. [[Judges 9#^judg-9-34|Judges 9:34]] ↔ [[2 Samuel 20#^2sam-20-15|2 Samuel 20:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 1
 slug: ps-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Jeremiah 15]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-1|Psalm 1:1]])
 - [[Jeremiah 17]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-3|Psalm 1:3]])
 - [[Genesis 39]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-3|Psalm 1:3]])
+- [[Psalm 119]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **History of the Church, Volume 1** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -17,7 +17,7 @@ cssclasses:
 > Captive Judah will serve Babylon for seventy years—Various nations will be overthrown—In the last days, all the inhabitants of the earth will be at war.
 
 ![[Jeremiah 25#^jer-25-1]]
-> [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]] · [[Jeremiah 26#^jer-26-1|≈ Jeremiah 26:1]] · [[Jeremiah 35#^jer-35-1|≈ Jeremiah 35:1]] · [[Jeremiah 44#^jer-44-1|≈ Jeremiah 44:1]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]]
+> [[Jeremiah 26#^jer-26-1|≈ Jeremiah 26:1]] · [[Jeremiah 35#^jer-35-1|≈ Jeremiah 35:1]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]] · [[Jeremiah 44#^jer-44-1|≈ Jeremiah 44:1]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]]
 
 ![[Jeremiah 25#^jer-25-2]]
 
@@ -38,7 +38,7 @@ cssclasses:
 ![[Jeremiah 25#^jer-25-8]]
 
 ![[Jeremiah 25#^jer-25-9]]
-> [[Jeremiah 43#^jer-43-10|Jer. 43:10]] · [[2 Kings 24#^2kgs-24-2|2 Kgs. 24:2]] · [[Jeremiah 27#^jer-27-6|≈ Jeremiah 27:6]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 1#^jer-1-15|≈ Jeremiah 1:15]]
+> [[Jeremiah 43#^jer-43-10|Jer. 43:10]] · [[2 Kings 24#^2kgs-24-2|2 Kgs. 24:2]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 27#^jer-27-6|≈ Jeremiah 27:6]] · [[Jeremiah 1#^jer-1-15|≈ Jeremiah 1:15]]
 
 ![[Jeremiah 25#^jer-25-10]]
 > [[Jeremiah 7#^jer-7-34|Jer. 7:34]] · [[Jeremiah 16#^jer-16-9|16:9]] · [[Jeremiah 7#^jer-7-34|≈ Jeremiah 7:34]] · [[Jeremiah 33#^jer-33-11|≈ Jeremiah 33:11]] · [[Jeremiah 16#^jer-16-9|≈ Jeremiah 16:9]]
@@ -87,10 +87,10 @@ cssclasses:
 > [[Jeremiah 50#^jer-50-9|Jer. 50:9]] · [[Jeremiah 51#^jer-51-41|Jer. 51:41]]
 
 ![[Jeremiah 25#^jer-25-27]]
-> [[Jeremiah 48#^jer-48-26|Jer. 48:26]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 27#^jer-27-4|≈ Jeremiah 27:4]] · [[Jeremiah 27#^jer-27-21|≈ Jeremiah 27:21]] · [[Jeremiah 29#^jer-29-4|≈ Jeremiah 29:4]] · [[Jeremiah 29#^jer-29-8|≈ Jeremiah 29:8]]
+> [[Jeremiah 48#^jer-48-26|Jer. 48:26]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]]
 
 ![[Jeremiah 25#^jer-25-28]]
-> [[Obadiah 1#^obad-1-16|Obad. 1:16]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 13#^jer-13-13|≈ Jeremiah 13:13]] · [[Jeremiah 19#^jer-19-11|≈ Jeremiah 19:11]] · [[Ezekiel 2#^ezek-2-4|≈ Ezekiel 2:4]]
+> [[Obadiah 1#^obad-1-16|Obad. 1:16]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 13#^jer-13-13|≈ Jeremiah 13:13]] · [[Ezekiel 12#^ezek-12-28|≈ Ezekiel 12:28]] · [[Jeremiah 19#^jer-19-11|≈ Jeremiah 19:11]]
 
 ![[Jeremiah 25#^jer-25-29]]
 > [[Ezekiel 9#^ezek-9-6|Ezek. 9:6]] · [[Jeremiah 7#^jer-7-10|≈ Jeremiah 7:10]]

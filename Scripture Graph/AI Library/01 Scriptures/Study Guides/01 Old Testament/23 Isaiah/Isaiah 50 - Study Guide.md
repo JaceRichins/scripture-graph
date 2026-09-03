@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 50
 slug: isa-50
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,8 +48,8 @@ _Not yet developed._
 - [[2 Nephi 7]] — 1 footnote cross-reference (from [[Isaiah 50#^isa-50-1|Isaiah 50:1]])
 - [[Hosea 2]] — 1 footnote cross-reference (from [[Isaiah 50#^isa-50-1|Isaiah 50:1]])
 - [[Isaiah 59]] — 1 footnote cross-reference (from [[Isaiah 50#^isa-50-2|Isaiah 50:2]])
-- [[2 Nephi 7]] — 0 parallel verses
-- [[D&C 133]] — 0 parallel verses
+- [[2 Nephi 7]] — 12 parallel verses, e.g. [[Isaiah 50#^isa-50-7|Isaiah 50:7]] ↔ [[2 Nephi 7#^2ne-7-7|2 Nephi 7:7]]
+- [[D&C 133]] — 3 parallel verses, e.g. [[Isaiah 50#^isa-50-2|Isaiah 50:2]] ↔ [[D&C 133#^dc-133-68|D&C 133:68]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

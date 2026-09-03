@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 12
 slug: lev-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Leviticus 14]] — 3 parallel verses, e.g. [[Leviticus 12#^lev-12-8|Leviticus 12:8]] ↔ [[Leviticus 14#^lev-14-31|Leviticus 14:31]]
 - [[Numbers 6]] — 3 parallel verses, e.g. [[Leviticus 12#^lev-12-6|Leviticus 12:6]] ↔ [[Numbers 6#^num-6-12|Numbers 6:12]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Leviticus 12#^lev-12-8|Leviticus 12:8]] ↔ [[Numbers 15#^num-15-25|Numbers 15:25]]
+- [[Leviticus 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

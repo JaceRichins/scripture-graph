@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 3
 slug: dan-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Acts 20]] — 1 footnote cross-reference (from [[Daniel 3#^dan-3-16|Daniel 3:16]])
 - [[Daniel 2]] — 2 parallel verses, e.g. [[Daniel 3#^dan-3-12|Daniel 3:12]] ↔ [[Daniel 2#^dan-2-49|Daniel 2:49]]
 - [[Esther 9]] — 2 parallel verses, e.g. [[Daniel 3#^dan-3-2|Daniel 3:2]] ↔ [[Esther 9#^esth-9-3|Esther 9:3]]
+- [[3 Nephi 28]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

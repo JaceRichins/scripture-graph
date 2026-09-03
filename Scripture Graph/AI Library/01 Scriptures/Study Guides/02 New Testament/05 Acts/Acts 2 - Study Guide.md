@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 2
 slug: acts-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,8 @@ _Not yet developed._
 - [[Acts 5]] — 2 parallel verses, e.g. [[Acts 2#^acts-2-14|Acts 2:14]] ↔ [[Acts 5#^acts-5-35|Acts 5:35]]
 - [[Acts 4]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-4|Acts 2:4]] ↔ [[Acts 4#^acts-4-31|Acts 4:31]]
 - [[Moses 6]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-38|Acts 2:38]] ↔ [[Moses 6#^moses-6-52|Moses 6:52]]
+- [[D&C 109]] — 0 parallel verses
+- [[D&C 49]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,17 +79,19 @@ _Not yet developed._
 - [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
 - [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
 - [[Let the Clarion Trumpet Sound (Elder Gregory A. Schwitzer, October 2015)|Let the Clarion Trumpet Sound]] — Elder Gregory A. Schwitzer, 2015-October *(explicit citation)*
+- [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
 - [[What Shall We Do (Neill F. Marriott, April 2016)|What Shall We Do?]] — Neill F. Marriott, 2016-April *(explicit citation)*
 - [[Foundations of Faith (Elder Quentin L. Cook, April 2017)|Foundations of Faith]] — Elder Quentin L. Cook, 2017-April *(explicit citation)*
 - [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
 - [[Spiritually Defining Memories (Elder Neil L. Andersen, April 2020)|Spiritually Defining Memories]] — Elder Neil L. Andersen, 2020-April *(explicit citation)*
 - [[Our Sorrow Shall Be Turned into Joy (Elder S. Mark Palmer, April 2021)|Our Sorrow Shall Be Turned into Joy]] — Elder S. Mark Palmer, 2021-April *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
-- [[The Lord Is Hastening His Work (Elder Quentin L. Cook, October 2025)|The Lord Is Hastening His Work]] — Elder Quentin L. Cook, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **10 Gathered In** (history) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
@@ -95,6 +99,7 @@ _Not yet developed._
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

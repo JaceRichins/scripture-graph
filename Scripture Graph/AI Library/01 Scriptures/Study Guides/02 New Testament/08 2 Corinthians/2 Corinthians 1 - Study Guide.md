@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 1
 slug: 2cor-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,14 +54,15 @@ Scripture: [[2 Corinthians 1]] · My notes: [[2 Corinthians 1 - My Notes]]
 - [[2 Thessalonians 2]] — 1 footnote cross-reference (from [[2 Corinthians 1#^2cor-1-4|2 Corinthians 1:4]])
 - [[Colossians 1]] — 1 footnote cross-reference (from [[2 Corinthians 1#^2cor-1-5|2 Corinthians 1:5]])
 - [[D&C 63]] — 1 footnote cross-reference (from [[2 Corinthians 1#^2cor-1-6|2 Corinthians 1:6]])
+- [[Ephesians 1]] — 3 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
+- [[Colossians 1]] — 3 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]] ↔ [[Colossians 1#^col-1-1|Colossians 1:1]]
 - [[1 Corinthians 1]] — 2 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
 - [[Philippians 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
 - [[2 Timothy 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]] ↔ [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]]
 - [[1 Timothy 1]] — 2 parallel verses, e.g. [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]] ↔ [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]]
+- [[Romans 15]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-3|2 Corinthians 1:3]] ↔ [[Romans 15#^rom-15-6|Romans 15:6]]
 - [[Romans 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
-- [[Ephesians 1]] — 0 parallel verses
-- [[Romans 15]] — 0 parallel verses
 - [[1 Corinthians 1]] — 0 parallel verses
 - [[1 Thessalonians 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -101,6 +102,8 @@ Scripture: [[2 Corinthians 1]] · My notes: [[2 Corinthians 1 - My Notes]]
 <!-- SG:BEGIN history -->
 - **Suicide** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
+- **Amen** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

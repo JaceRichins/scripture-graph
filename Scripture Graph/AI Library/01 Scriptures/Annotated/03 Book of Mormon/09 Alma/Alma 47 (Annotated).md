@@ -17,7 +17,7 @@ cssclasses:
 > Amalickiah uses treachery, murder, and intrigue to become king of the Lamanites—The Nephite dissenters are more wicked and ferocious than the Lamanites. About 72 B.C.
 
 ![[Alma 47#^alma-47-1]]
-> [[Alma 46#^alma-46-33|Alma 46:33]] · [[2 Nephi 5#^2ne-5-8|2 Ne. 5:8]] · [[Omni 1#^omni-1-12|Omni 1:12]] · [[Alma 49#^alma-49-10|Alma 49:10]] · [[Alma 27#^alma-27-12|Alma 27:12]] · [[Alma 35#^alma-35-10|35:10]] · [[Alma 43#^alma-43-8|43:8]] · [[Helaman 1#^hel-1-17|Hel. 1:17]] · [[Mormon 3#^morm-3-5|≈ Mormon 3:5]] · [[Alma 48#^alma-48-3|≈ Alma 48:3]]
+> [[Alma 46#^alma-46-33|Alma 46:33]] · [[2 Nephi 5#^2ne-5-8|2 Ne. 5:8]] · [[Omni 1#^omni-1-12|Omni 1:12]] · [[Alma 49#^alma-49-10|Alma 49:10]] · [[Alma 27#^alma-27-12|Alma 27:12]] · [[Alma 35#^alma-35-10|35:10]] · [[Alma 43#^alma-43-8|43:8]] · [[Helaman 1#^hel-1-17|Hel. 1:17]] · [[Alma 48#^alma-48-3|≈ Alma 48:3]] · [[Mormon 3#^morm-3-5|≈ Mormon 3:5]]
 
 ![[Alma 47#^alma-47-2]]
 > [[Alma 43#^alma-43-49|Alma 43:54 (49–54)]] · [[Alma 48#^alma-48-3|≈ Alma 48:3]]

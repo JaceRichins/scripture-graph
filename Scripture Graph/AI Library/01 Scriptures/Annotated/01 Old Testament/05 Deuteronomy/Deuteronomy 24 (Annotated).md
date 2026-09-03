@@ -61,14 +61,14 @@ cssclasses:
 > [[Deuteronomy 27#^deut-27-19|Deut. 27:19]]
 
 ![[Deuteronomy 24#^deut-24-18]]
-> [[Deuteronomy 15#^deut-15-15|≈ Deuteronomy 15:15]] · [[Deuteronomy 16#^deut-16-12|≈ Deuteronomy 16:12]]
+> [[Deuteronomy 16#^deut-16-12|≈ Deuteronomy 16:12]] · [[Deuteronomy 15#^deut-15-15|≈ Deuteronomy 15:15]]
 
 ![[Deuteronomy 24#^deut-24-19]]
-> [[Ruth 2#^ruth-2-2|Ruth 2:2]] · [[Deuteronomy 14#^deut-14-29|≈ Deuteronomy 14:29]] · [[Deuteronomy 23#^deut-23-20|≈ Deuteronomy 23:20]]
+> [[Ruth 2#^ruth-2-2|Ruth 2:2]] · [[Deuteronomy 23#^deut-23-20|≈ Deuteronomy 23:20]] · [[Deuteronomy 14#^deut-14-29|≈ Deuteronomy 14:29]]
 
 ![[Deuteronomy 24#^deut-24-20]]
 
 ![[Deuteronomy 24#^deut-24-21]]
 
 ![[Deuteronomy 24#^deut-24-22]]
-> [[Deuteronomy 15#^deut-15-15|≈ Deuteronomy 15:15]] · [[Deuteronomy 16#^deut-16-12|≈ Deuteronomy 16:12]]
+> [[Deuteronomy 16#^deut-16-12|≈ Deuteronomy 16:12]] · [[Deuteronomy 15#^deut-15-15|≈ Deuteronomy 15:15]]

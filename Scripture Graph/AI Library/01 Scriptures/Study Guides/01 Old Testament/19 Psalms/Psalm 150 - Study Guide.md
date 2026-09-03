@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 150
 slug: ps-150
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

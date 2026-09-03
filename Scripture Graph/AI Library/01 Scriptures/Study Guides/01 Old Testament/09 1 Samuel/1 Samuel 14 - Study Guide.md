@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 14
 slug: 1sam-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -62,14 +62,16 @@ Scripture: [[1 Samuel 14]] · My notes: [[1 Samuel 14 - My Notes]]
 - [[1 Samuel 13]] — 0 parallel verses
 - [[1 Samuel 17]] — 0 parallel verses
 - [[Judges 7]] — 0 parallel verses
+- [[Judges 11]] — 0 parallel verses
+- [[1 Samuel 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
-- [[Exodus and Deliverance]]
 - [[Law of Moses]]
 - [[Government and Laws]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -88,7 +90,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abner** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 13
 slug: acts-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 - [[Psalm 2]] — 1 parallel verse, e.g. [[Acts 13#^acts-13-33|Acts 13:33]] ↔ [[Psalm 2#^ps-2-7|Psalm 2:7]]
 - [[Hebrews 1]] — 1 parallel verse, e.g. [[Acts 13#^acts-13-33|Acts 13:33]] ↔ [[Hebrews 1#^heb-1-5|Hebrews 1:5]]
 - [[Luke 4]] — 1 parallel verse, e.g. [[Acts 13#^acts-13-14|Acts 13:14]] ↔ [[Luke 4#^luke-4-16|Luke 4:16]]
+- [[2 Timothy 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +84,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Antioch** (reference-entry) *(explicit citation)*
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*

@@ -36,6 +36,14 @@ _Not yet developed._
 - [[1 Nephi 22]]
 - [[3 Nephi 27]]
 - [[1 Corinthians 9]]
+- [[D&C 75]]
+- [[Daniel 12]]
+- [[2 Nephi 7]]
+- [[Daniel 11]]
+- [[1 Thessalonians 3]]
+- [[Joshua 14]]
+- [[Jeremiah 15]]
+- [[Acts 14]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

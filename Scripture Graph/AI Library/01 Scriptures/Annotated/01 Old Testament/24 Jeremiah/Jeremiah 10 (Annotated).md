@@ -57,12 +57,12 @@ cssclasses:
 > [[D&C 56#^dc-56-1|D&amp;C 56:1]] · [[Jeremiah 51#^jer-51-18|≈ Jeremiah 51:18]]
 
 ![[Jeremiah 10#^jer-10-16]]
-> [[Jeremiah 32#^jer-32-18|≈ Jeremiah 32:18]] · [[Jeremiah 51#^jer-51-19|≈ Jeremiah 51:19]]
+> [[Jeremiah 51#^jer-51-19|≈ Jeremiah 51:19]] · [[Jeremiah 32#^jer-32-18|≈ Jeremiah 32:18]]
 
 ![[Jeremiah 10#^jer-10-17]]
 
 ![[Jeremiah 10#^jer-10-18]]
-> [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-28|≈ Jeremiah 32:28]] · [[Jeremiah 51#^jer-51-1|≈ Jeremiah 51:1]] · [[Jeremiah 51#^jer-51-36|≈ Jeremiah 51:36]]
+> [[Jeremiah 51#^jer-51-1|≈ Jeremiah 51:1]] · [[Jeremiah 51#^jer-51-36|≈ Jeremiah 51:36]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-28|≈ Jeremiah 32:28]]
 
 ![[Jeremiah 10#^jer-10-19]]
 

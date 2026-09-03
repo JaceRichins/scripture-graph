@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 4
 slug: 2ne-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,30 +55,30 @@ Scripture: [[2 Nephi 4]] · My notes: [[2 Nephi 4 - My Notes]]
 - [[Jacob 1]] — 2 footnote cross-references (from [[2 Nephi 4#^2ne-4-7|2 Nephi 4:7]])
 - [[1 Nephi 7]] — 2 footnote cross-references (from [[2 Nephi 4#^2ne-4-10|2 Nephi 4:10]])
 - [[1 Nephi 17]] — 2 footnote cross-references (from [[2 Nephi 4#^2ne-4-13|2 Nephi 4:13]])
+- [[2 Nephi 1]] — 2 parallel verses, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[Alma 36]] — 2 parallel verses, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
+- [[Alma 38]] — 1 parallel verse, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
+- [[1 Nephi 10]] — 3 parallel verses, e.g. [[2 Nephi 4#^2ne-4-3|2 Nephi 4:3]] ↔ [[1 Nephi 10#^1ne-10-2|1 Nephi 10:2]]
 - [[2 Nephi 28]] — 1 parallel verse, e.g. [[2 Nephi 4#^2ne-4-34|2 Nephi 4:34]] ↔ [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]]
 - [[1 Nephi 17]] — 2 parallel verses, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]]
+- [[Alma 37]] — 1 parallel verse, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
 - [[1 Nephi 16]] — 2 parallel verses, e.g. [[2 Nephi 4#^2ne-4-13|2 Nephi 4:13]] ↔ [[1 Nephi 16#^1ne-16-20|1 Nephi 16:20]]
 - [[Omni 1]] — 1 parallel verse, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
 - [[1 Nephi 2]] — 1 parallel verse, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]]
 - [[1 Nephi 3]] — 2 parallel verses, e.g. [[2 Nephi 4#^2ne-4-10|2 Nephi 4:10]] ↔ [[1 Nephi 3#^1ne-3-8|1 Nephi 3:8]]
-- [[Jarom 1]] — 1 parallel verse, e.g. [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]
-- [[2 Nephi 28]] — 0 parallel verses
-- [[Jeremiah 17]] — 0 parallel verses
-- [[Proverbs 22]] — 0 parallel verses
-- [[Romans 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Patriarchal Blessings]]
 - [[Condescension of God]]
-- [[Records and Sacred Writings]]
-- [[Prophecy]]
+- [[Patriarchal Blessings]]
 - [[Scripture Study]]
 - [[Satan and Temptation]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[Prophecy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

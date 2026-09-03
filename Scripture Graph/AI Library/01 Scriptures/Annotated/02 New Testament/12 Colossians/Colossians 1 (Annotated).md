@@ -20,7 +20,7 @@ cssclasses:
 > [[Ephesians 1#^eph-1-1|≈ Ephesians 1:1]] · [[2 Corinthians 1#^2cor-1-1|≈ 2 Corinthians 1:1]] · [[2 Timothy 1#^2tim-1-1|≈ 2 Timothy 1:1]] · [[1 Timothy 1#^1tim-1-1|≈ 1 Timothy 1:1]]
 
 ![[Colossians 1#^col-1-2]]
-> [[Ephesians 1#^eph-1-2|≈ Ephesians 1:2]] · [[Romans 1#^rom-1-7|≈ Romans 1:7]] · [[Philippians 1#^philip-1-2|≈ Philippians 1:2]] · [[Philemon 1#^philem-1-3|≈ Philemon 1:3]] · [[2 Corinthians 1#^2cor-1-2|≈ 2 Corinthians 1:2]] · [[1 Corinthians 1#^1cor-1-3|≈ 1 Corinthians 1:3]]
+> [[Ephesians 1#^eph-1-2|≈ Ephesians 1:2]] · [[Romans 1#^rom-1-7|≈ Romans 1:7]] · [[Philippians 1#^philip-1-2|≈ Philippians 1:2]] · [[Philemon 1#^philem-1-3|≈ Philemon 1:3]] · [[2 Corinthians 1#^2cor-1-2|≈ 2 Corinthians 1:2]] · [[1 Thessalonians 1#^1thes-1-1|≈ 1 Thessalonians 1:1]]
 
 ![[Colossians 1#^col-1-3]]
 > [[2 Corinthians 1#^2cor-1-3|≈ 2 Corinthians 1:3]]

@@ -17,7 +17,7 @@ cssclasses:
 > Nephi, the son of Helaman, departs out of the land, and his son Nephi keeps the records—Though signs and wonders abound, the wicked plan to slay the righteous—The night of Christ’s birth arrives—The sign is given, and a new star arises—Lyings and deceivings increase, and the Gadianton robbers slaughter many. About A.D. 1–4.
 
 ![[3 Nephi 1#^3ne-1-1]]
-> [[2 Nephi 25#^2ne-25-19|2 Ne. 25:19]] · [[Alma 13#^alma-13-25|Alma 13:25]] · [[3 Nephi 3#^3ne-3-1|3 Ne. 3:1]] · [[3 Nephi 6#^3ne-6-19|6:19]] · [[Alma 60#^alma-60-1|≈ Alma 60:1]] · [[3 Nephi 5#^3ne-5-15|≈ 3 Nephi 5:15]] · [[Mosiah 28#^mosiah-28-20|≈ Mosiah 28:20]] · [[2 Nephi 25#^2ne-25-19|≈ 2 Nephi 25:19]]
+> [[2 Nephi 25#^2ne-25-19|2 Ne. 25:19]] · [[Alma 13#^alma-13-25|Alma 13:25]] · [[3 Nephi 3#^3ne-3-1|3 Ne. 3:1]] · [[3 Nephi 6#^3ne-6-19|6:19]] · [[3 Nephi 5#^3ne-5-15|≈ 3 Nephi 5:15]] · [[Alma 60#^alma-60-1|≈ Alma 60:1]] · [[Mosiah 28#^mosiah-28-20|≈ Mosiah 28:20]] · [[2 Nephi 25#^2ne-25-19|≈ 2 Nephi 25:19]]
 
 ![[3 Nephi 1#^3ne-1-2]]
 > [[Helaman 3#^hel-3-20|Hel. 3:21 (20–21)]] · [[3 Nephi 7#^3ne-7-15|3 Ne. 7:15 (15, 20, 23)]] · [[Alma 37#^alma-37-3|Alma 37:3 (3–12)]] · [[Alma 63#^alma-63-1|63:12 (1, 11–14)]] · [[Alma 50#^alma-50-38|Alma 50:38]] · [[Mosiah 28#^mosiah-28-20|≈ Mosiah 28:20]]

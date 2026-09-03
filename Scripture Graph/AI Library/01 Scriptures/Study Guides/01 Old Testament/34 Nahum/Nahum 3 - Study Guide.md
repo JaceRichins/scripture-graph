@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nahum
 chapter: 3
 slug: nahum-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Isaiah 13]] — 1 footnote cross-reference (from [[Nahum 3#^nahum-3-10|Nahum 3:10]])
 - [[Jeremiah 51]] — 1 footnote cross-reference (from [[Nahum 3#^nahum-3-13|Nahum 3:13]])
 - [[Nahum 2]] — 1 parallel verse, e.g. [[Nahum 3#^nahum-3-5|Nahum 3:5]] ↔ [[Nahum 2#^nahum-2-13|Nahum 2:13]]
+- [[Zephaniah 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

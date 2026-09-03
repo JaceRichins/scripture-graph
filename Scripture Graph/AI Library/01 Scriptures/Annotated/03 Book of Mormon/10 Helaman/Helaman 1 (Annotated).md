@@ -17,7 +17,7 @@ cssclasses:
 > Pahoran the second becomes chief judge and is murdered by Kishkumen—Pacumeni fills the judgment seat—Coriantumr leads the Lamanite armies, takes Zarahemla, and slays Pacumeni—Moronihah defeats the Lamanites and retakes Zarahemla, and Coriantumr is slain. About 52–50 B.C.
 
 ![[Helaman 1#^hel-1-1]]
-> [[Alma 4#^alma-4-11|≈ Alma 4:11]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[Alma 30#^alma-30-2|≈ Alma 30:2]] · [[Alma 43#^alma-43-4|≈ Alma 43:4]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]]
+> [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[Alma 4#^alma-4-11|≈ Alma 4:11]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[Alma 30#^alma-30-2|≈ Alma 30:2]] · [[Alma 43#^alma-43-4|≈ Alma 43:4]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]]
 
 ![[Helaman 1#^hel-1-2]]
 > [[Alma 50#^alma-50-40|Alma 50:40]] · [[Alma 62#^alma-62-37|≈ Alma 62:37]]
@@ -36,7 +36,7 @@ cssclasses:
 > [[Mosiah 27#^mosiah-27-8|Mosiah 27:8]] · [[Alma 50#^alma-50-35|Alma 50:35]] · [[Helaman 2#^hel-2-5|Hel. 2:5]] · [[Ether 8#^ether-8-2|Ether 8:2]]
 
 ![[Helaman 1#^hel-1-8]]
-> [[Alma 1#^alma-1-10|Alma 1:14 (10–15)]] · [[Mosiah 29#^mosiah-29-29|≈ Mosiah 29:29]] · [[Ether 7#^ether-7-18|≈ Ether 7:18]] · [[Alma 4#^alma-4-16|≈ Alma 4:16]] · [[Alma 51#^alma-51-16|≈ Alma 51:16]]
+> [[Alma 1#^alma-1-10|Alma 1:14 (10–15)]] · [[Mosiah 29#^mosiah-29-29|≈ Mosiah 29:29]] · [[Alma 51#^alma-51-16|≈ Alma 51:16]] · [[Ether 7#^ether-7-18|≈ Ether 7:18]] · [[Alma 4#^alma-4-16|≈ Alma 4:16]]
 
 ![[Helaman 1#^hel-1-9]]
 > [[Helaman 2#^hel-2-3|Hel. 2:3]]
@@ -49,7 +49,7 @@ cssclasses:
 ![[Helaman 1#^hel-1-12]]
 
 ![[Helaman 1#^hel-1-13]]
-> [[Helaman 2#^hel-2-2|2:2]] · [[Mosiah 29#^mosiah-29-29|≈ Mosiah 29:29]] · [[Helaman 4#^hel-4-8|≈ Helaman 4:8]] · [[Ether 7#^ether-7-10|≈ Ether 7:10]] · [[Alma 4#^alma-4-16|≈ Alma 4:16]] · [[Alma 51#^alma-51-16|≈ Alma 51:16]]
+> [[Helaman 2#^hel-2-2|2:2]] · [[Mosiah 29#^mosiah-29-29|≈ Mosiah 29:29]] · [[Helaman 4#^hel-4-8|≈ Helaman 4:8]] · [[Alma 51#^alma-51-16|≈ Alma 51:16]] · [[Ether 7#^ether-7-10|≈ Ether 7:10]] · [[Alma 4#^alma-4-16|≈ Alma 4:16]]
 
 ![[Helaman 1#^hel-1-14]]
 > [[Alma 2#^alma-2-12|Alma 2:12]] · [[Alma 49#^alma-49-6|49:6 (6, 24)]] · [[Mosiah 9#^mosiah-9-16|≈ Mosiah 9:16]] · [[Mosiah 10#^mosiah-10-8|≈ Mosiah 10:8]] · [[Alma 2#^alma-2-12|≈ Alma 2:12]]

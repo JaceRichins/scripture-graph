@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 5
 slug: ex-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,17 +52,17 @@ Each movement escalates the tension without resolution, leaving the chapter's co
 - [[Exodus 12]] — 1 footnote cross-reference (from [[Exodus 5#^ex-5-1|Exodus 5:1]])
 - [[Exodus 9]] — 1 footnote cross-reference (from [[Exodus 5#^ex-5-2|Exodus 5:2]])
 - [[Alma 9]] — 1 footnote cross-reference (from [[Exodus 5#^ex-5-2|Exodus 5:2]])
+- [[Exodus 8]] — 2 parallel verses, e.g. [[Exodus 5#^ex-5-1|Exodus 5:1]] ↔ [[Exodus 8#^ex-8-1|Exodus 8:1]]
+- [[Exodus 9]] — 2 parallel verses, e.g. [[Exodus 5#^ex-5-1|Exodus 5:1]] ↔ [[Exodus 9#^ex-9-1|Exodus 9:1]]
 - [[Genesis 41]] — 1 parallel verse, e.g. [[Exodus 5#^ex-5-21|Exodus 5:21]] ↔ [[Genesis 41#^gen-41-37|Genesis 41:37]]
 - [[Exodus 3]] — 1 parallel verse, e.g. [[Exodus 5#^ex-5-3|Exodus 5:3]] ↔ [[Exodus 3#^ex-3-18|Exodus 3:18]]
-- [[Exodus 8]] — 0 parallel verses
-- [[Exodus 9]] — 0 parallel verses
 - [[Exodus 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Work and Self-Reliance]]
 - [[Exodus and Deliverance]]
+- [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
@@ -80,7 +80,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aaron** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

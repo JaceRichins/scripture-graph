@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 91
 slug: dc-91
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 91]] · My notes: [[D&C 91 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–3, The Apocrypha is mostly translated correctly but contains many interpolations by the hands of men that are not true; 4–6, It benefits those enlightened by the Spirit.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 45]] — 1 footnote cross-reference (from [[D&C 91#^dc-91-3|D&C 91:3]])
+- [[D&C 93]] — 1 footnote cross-reference (from [[D&C 91#^dc-91-3|D&C 91:3]])
 - [[D&C 61]] — 2 parallel verses, e.g. [[D&C 91#^dc-91-3|D&C 91:3]] ↔ [[D&C 61#^dc-61-3|D&C 61:3]]
 <!-- SG:END related-scriptures -->
 
@@ -59,6 +62,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Apocrypha** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

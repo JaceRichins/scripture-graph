@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 1
 slug: eph-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -89,11 +89,13 @@ _Not yet developed._
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

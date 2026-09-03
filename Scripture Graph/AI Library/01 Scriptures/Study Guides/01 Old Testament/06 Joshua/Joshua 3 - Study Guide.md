@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 3
 slug: josh-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

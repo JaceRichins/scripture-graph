@@ -37,6 +37,7 @@ _Not yet developed._
 - [[1 Nephi 11]]
 - [[Genesis 2]]
 - [[Alma 32]]
+- [[Alma 5]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 33
 slug: jer-33
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

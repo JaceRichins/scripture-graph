@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 16
 slug: 1chr-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,24 +50,24 @@ Scripture: [[1 Chronicles 16]] · My notes: [[1 Chronicles 16 - My Notes]]
 - [[Nehemiah 9]] — 2 footnote cross-references (from [[1 Chronicles 16#^1chr-16-16|1 Chronicles 16:16]])
 - [[Ezra 3]] — 2 footnote cross-references (from [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]])
 - [[2 Chronicles 29]] — 1 footnote cross-reference (from [[1 Chronicles 16#^1chr-16-4|1 Chronicles 16:4]])
+- [[Psalm 105]] — 12 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-8|1 Chronicles 16:8]] ↔ [[Psalm 105#^ps-105-1|Psalm 105:1]]
+- [[Psalm 96]] — 8 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-29|1 Chronicles 16:29]] ↔ [[Psalm 96#^ps-96-8|Psalm 96:8]]
 - [[2 Samuel 6]] — 3 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-3|1 Chronicles 16:3]] ↔ [[2 Samuel 6#^2sam-6-19|2 Samuel 6:19]]
 - [[Psalm 118]] — 2 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[Psalm 118#^ps-118-29|Psalm 118:29]]
+- [[Psalm 29]] — 2 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-29|1 Chronicles 16:29]] ↔ [[Psalm 29#^ps-29-2|Psalm 29:2]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
+- [[Psalm 106]] — 1 parallel verse, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[Psalm 106#^ps-106-1|Psalm 106:1]]
+- [[2 Chronicles 5]] — 3 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
 - [[Psalm 107]] — 1 parallel verse, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[Psalm 107#^ps-107-1|Psalm 107:1]]
 - [[Psalm 136]] — 1 parallel verse, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
 - [[Joshua 3]] — 3 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
-- [[1 Samuel 4]] — 3 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
-- [[2 Chronicles 7]] — 2 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[2 Chronicles 7#^2chr-7-3|2 Chronicles 7:3]]
-- [[2 Chronicles 1]] — 2 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-39|1 Chronicles 16:39]] ↔ [[2 Chronicles 1#^2chr-1-13|2 Chronicles 1:13]]
-- [[Joshua 4]] — 2 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]] ↔ [[Joshua 4#^josh-4-7|Joshua 4:7]]
-- [[Joshua 8]] — 2 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-40|1 Chronicles 16:40]] ↔ [[Joshua 8#^josh-8-34|Joshua 8:34]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Law of Moses]]
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Gratitude]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -80,11 +80,14 @@ The song places [[Covenants]] at the center of faithful memory. The promise to A
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Beauty of Holiness (Carol F. McConkie, April 2017)|The Beauty of Holiness]] — Carol F. McConkie, 2017-April *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Sacrifice** (reference-entry) *(explicit citation)*
+- **Amen** (reference-entry) *(explicit citation)*
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

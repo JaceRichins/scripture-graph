@@ -57,13 +57,13 @@ cssclasses:
 > [[Matthew 5#^matt-5-23|Matt. 5:24 (23–24)]] · [[Luke 17#^luke-17-3|Luke 17:3 (3–4)]] · [[D&C 42#^dc-42-88|D&amp;C 42:88 (88–92)]]
 
 ![[Matthew 18#^matt-18-16]]
-> [[2 Nephi 29#^2ne-29-8|2 Ne. 29:8]] · [[D&C 6#^dc-6-28|≈ D&C 6:28]] · [[D&C 128#^dc-128-3|≈ D&C 128:3]]
+> [[2 Nephi 29#^2ne-29-8|2 Ne. 29:8]] · [[D&C 128#^dc-128-3|≈ D&C 128:3]] · [[D&C 6#^dc-6-28|≈ D&C 6:28]]
 
 ![[Matthew 18#^matt-18-17]]
 > [[1 Corinthians 6#^1cor-6-1|1 Cor. 6:1]] · [[D&C 42#^dc-42-81|D&amp;C 42:81]] · [[Titus 3#^titus-3-10|Titus 3:10]]
 
 ![[Matthew 18#^matt-18-18]]
-> [[Matthew 16#^matt-16-19|≈ Matthew 16:19]] · [[D&C 124#^dc-124-93|≈ D&C 124:93]] · [[D&C 128#^dc-128-8|≈ D&C 128:8]] · [[D&C 128#^dc-128-10|≈ D&C 128:10]] · [[Helaman 10#^hel-10-7|≈ Helaman 10:7]]
+> [[D&C 124#^dc-124-93|≈ D&C 124:93]] · [[D&C 128#^dc-128-8|≈ D&C 128:8]] · [[D&C 128#^dc-128-10|≈ D&C 128:10]] · [[Matthew 16#^matt-16-19|≈ Matthew 16:19]] · [[Helaman 10#^hel-10-7|≈ Helaman 10:7]]
 
 ![[Matthew 18#^matt-18-19]]
 > [[D&C 6#^dc-6-32|D&amp;C 6:32]] · [[D&C 42#^dc-42-3|42:3]] · [[Matthew 7#^matt-7-21|≈ Matthew 7:21]] · [[Matthew 12#^matt-12-50|≈ Matthew 12:50]]

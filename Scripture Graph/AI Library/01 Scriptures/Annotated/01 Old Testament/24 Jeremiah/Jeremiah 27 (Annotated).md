@@ -26,7 +26,7 @@ cssclasses:
 > [[Jeremiah 52#^jer-52-32|Jer. 52:32]] · [[Jeremiah 25#^jer-25-21|Jer. 25:21]] · [[Ezekiel 28#^ezek-28-21|Ezek. 28:21]]
 
 ![[Jeremiah 27#^jer-27-4]]
-> [[Jeremiah 28#^jer-28-2|≈ Jeremiah 28:2]] · [[Jeremiah 28#^jer-28-14|≈ Jeremiah 28:14]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 29#^jer-29-4|≈ Jeremiah 29:4]]
+> [[Jeremiah 28#^jer-28-2|≈ Jeremiah 28:2]] · [[Jeremiah 28#^jer-28-14|≈ Jeremiah 28:14]] · [[Jeremiah 29#^jer-29-4|≈ Jeremiah 29:4]] · [[Jeremiah 29#^jer-29-8|≈ Jeremiah 29:8]] · [[Jeremiah 29#^jer-29-21|≈ Jeremiah 29:21]] · [[Jeremiah 29#^jer-29-25|≈ Jeremiah 29:25]]
 
 ![[Jeremiah 27#^jer-27-5]]
 > [[1 Nephi 17#^1ne-17-36|1 Ne. 17:36 (36–37)]] · [[Psalm 75#^ps-75-6|Ps. 75:6 (6–7)]] · [[Daniel 2#^dan-2-21|Dan. 2:21]] · [[Daniel 5#^dan-5-18|5:20 (18–20)]]
@@ -68,7 +68,7 @@ cssclasses:
 > [[Jeremiah 52#^jer-52-3|Jer. 52:3]] · [[Jeremiah 7#^jer-7-34|Jer. 7:34]] · [[Jeremiah 44#^jer-44-2|44:2]]
 
 ![[Jeremiah 27#^jer-27-18]]
-> [[Isaiah 59#^isa-59-16|Isa. 59:16]] · [[Jeremiah 22#^jer-22-1|≈ Jeremiah 22:1]] · [[Jeremiah 21#^jer-21-11|≈ Jeremiah 21:11]]
+> [[Isaiah 59#^isa-59-16|Isa. 59:16]] · [[Jeremiah 21#^jer-21-11|≈ Jeremiah 21:11]] · [[Jeremiah 22#^jer-22-1|≈ Jeremiah 22:1]]
 
 ![[Jeremiah 27#^jer-27-19]]
 > [[Jeremiah 52#^jer-52-12|Jer. 52:17 (12–22)]] · [[2 Kings 25#^2kgs-25-13|2 Kgs. 25:13]]
@@ -77,7 +77,7 @@ cssclasses:
 > [[Jeremiah 24#^jer-24-1|Jer. 24:1]] · [[Jeremiah 28#^jer-28-4|≈ Jeremiah 28:4]] · [[Jeremiah 22#^jer-22-24|≈ Jeremiah 22:24]] · [[Jeremiah 24#^jer-24-1|≈ Jeremiah 24:1]]
 
 ![[Jeremiah 27#^jer-27-21]]
-> [[Jeremiah 28#^jer-28-2|≈ Jeremiah 28:2]] · [[Jeremiah 28#^jer-28-14|≈ Jeremiah 28:14]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]] · [[Jeremiah 29#^jer-29-4|≈ Jeremiah 29:4]]
+> [[Jeremiah 28#^jer-28-2|≈ Jeremiah 28:2]] · [[Jeremiah 28#^jer-28-14|≈ Jeremiah 28:14]] · [[Jeremiah 29#^jer-29-4|≈ Jeremiah 29:4]] · [[Jeremiah 29#^jer-29-8|≈ Jeremiah 29:8]] · [[Jeremiah 29#^jer-29-21|≈ Jeremiah 29:21]] · [[Jeremiah 29#^jer-29-25|≈ Jeremiah 29:25]]
 
 ![[Jeremiah 27#^jer-27-22]]
 > [[Ezra 1#^ezra-1-7|Ezra 1:7]]

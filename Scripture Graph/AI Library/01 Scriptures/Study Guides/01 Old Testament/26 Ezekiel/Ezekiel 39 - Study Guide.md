@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 39
 slug: ezek-39
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Ezekiel 26]] — 1 footnote cross-reference (from [[Ezekiel 39#^ezek-39-6|Ezekiel 39:6]])
 - [[Ezekiel 27]] — 1 footnote cross-reference (from [[Ezekiel 39#^ezek-39-6|Ezekiel 39:6]])
 - [[2 Nephi 10]] — 1 footnote cross-reference (from [[Ezekiel 39#^ezek-39-6|Ezekiel 39:6]])
+- [[Ezekiel 38]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]]
 - [[Ezekiel 28]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]]
 - [[Ezekiel 26]] — 3 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]]
 - [[Ezekiel 29]] — 2 parallel verses, e.g. [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]] ↔ [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]]
@@ -58,7 +59,6 @@ _Not yet developed._
 - [[2 Nephi 24]] — 2 parallel verses, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
 - [[Mosiah 26]] — 1 parallel verse, e.g. [[Ezekiel 39#^ezek-39-28|Ezekiel 39:28]] ↔ [[Mosiah 26#^mosiah-26-26|Mosiah 26:26]]
 - [[Isaiah 22]] — 1 parallel verse, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[Isaiah 22#^isa-22-20|Isaiah 22:20]]
-- [[Zechariah 12]] — 1 parallel verse, e.g. [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]] ↔ [[Zechariah 12#^zech-12-9|Zechariah 12:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

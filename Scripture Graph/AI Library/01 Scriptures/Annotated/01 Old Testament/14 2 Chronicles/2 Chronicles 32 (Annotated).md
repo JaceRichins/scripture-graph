@@ -91,7 +91,7 @@ cssclasses:
 > [[Deuteronomy 8#^deut-8-2|Deut. 8:2 (2–6)]]
 
 ![[2 Chronicles 32#^2chr-32-32]]
-> [[Isaiah 38#^isa-38-1|Isa. 38:1 (1–22)]] · [[2 Kings 20#^2kgs-20-20|≈ 2 Kings 20:20]] · [[Isaiah 38#^isa-38-1|≈ Isaiah 38:1]] · [[2 Chronicles 33#^2chr-33-18|≈ 2 Chronicles 33:18]] · [[2 Kings 19#^2kgs-19-2|≈ 2 Kings 19:2]] · [[Isaiah 37#^isa-37-2|≈ Isaiah 37:2]] · [[2 Chronicles 36#^2chr-36-8|≈ 2 Chronicles 36:8]]
+> [[Isaiah 38#^isa-38-1|Isa. 38:1 (1–22)]] · [[2 Kings 20#^2kgs-20-20|≈ 2 Kings 20:20]] · [[Isaiah 38#^isa-38-1|≈ Isaiah 38:1]] · [[2 Kings 19#^2kgs-19-2|≈ 2 Kings 19:2]] · [[Isaiah 37#^isa-37-2|≈ Isaiah 37:2]] · [[2 Chronicles 33#^2chr-33-18|≈ 2 Chronicles 33:18]] · [[2 Chronicles 36#^2chr-36-8|≈ 2 Chronicles 36:8]]
 
 ![[2 Chronicles 32#^2chr-32-33]]
 > [[2 Kings 20#^2kgs-20-21|≈ 2 Kings 20:21]] · [[2 Kings 10#^2kgs-10-35|≈ 2 Kings 10:35]] · [[2 Kings 13#^2kgs-13-9|≈ 2 Kings 13:9]] · [[2 Chronicles 33#^2chr-33-20|≈ 2 Chronicles 33:20]] · [[1 Kings 15#^1kgs-15-8|≈ 1 Kings 15:8]] · [[2 Chronicles 14#^2chr-14-1|≈ 2 Chronicles 14:1]]

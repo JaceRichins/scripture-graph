@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 37
 slug: ezek-37
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[1 Kings 18]] — 1 footnote cross-reference (from [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]])
 - [[Luke 4]] — 1 footnote cross-reference (from [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]])
 - [[D&C 138]] — 1 footnote cross-reference (from [[Ezekiel 37#^ezek-37-7|Ezekiel 37:7]])
+- [[Ezekiel 20]] — 14 parallel verses, e.g. [[Ezekiel 37#^ezek-37-13|Ezekiel 37:13]] ↔ [[Ezekiel 20#^ezek-20-44|Ezekiel 20:44]]
 - [[Ezekiel 3]] — 11 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]]
 - [[Ezekiel 2]] — 7 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]]
 - [[Jeremiah 25]] — 6 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
@@ -58,7 +59,6 @@ _Not yet developed._
 - [[Ezekiel 43]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-3|Ezekiel 37:3]] ↔ [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]]
 - [[Ezekiel 29]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]] ↔ [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]]
 - [[Jeremiah 43]] — 3 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]]
-- [[Ezekiel 14]] — 3 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Ezekiel 14#^ezek-14-4|Ezekiel 14:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,6 +91,7 @@ _Not yet developed._
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[Sacred Scriptures—the Foundations of Faith (Elder Quentin L. Cook, October 2024)|Sacred Scriptures—the Foundations of Faith]] — Elder Quentin L. Cook, 2024-October *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

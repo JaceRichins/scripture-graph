@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 19
 slug: matt-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Matthew 12]] — 2 parallel verses, e.g. [[Matthew 19#^matt-19-2|Matthew 19:2]] ↔ [[Matthew 12#^matt-12-15|Matthew 12:15]]
 - [[Mark 9]] — 2 parallel verses, e.g. [[Matthew 19#^matt-19-24|Matthew 19:24]] ↔ [[Mark 9#^mark-9-47|Mark 9:47]]
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Matthew 19#^matt-19-18|Matthew 19:18]] ↔ [[Mosiah 13#^mosiah-13-22|Mosiah 13:22]]
+- [[1 Nephi 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

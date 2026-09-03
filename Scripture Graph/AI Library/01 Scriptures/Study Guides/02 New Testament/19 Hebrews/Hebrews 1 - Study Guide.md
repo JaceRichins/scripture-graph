@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 1
 slug: heb-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -67,11 +67,17 @@ _Not yet developed._
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
 - [[The Godhead and the Plan of Salvation (Elder Dallin H. Oaks, April 2017)|The Godhead and the Plan of Salvation]] — Elder Dallin H. Oaks, 2017-April *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
+- [[Teachings of Jesus (Elder Dallin H. Oaks, October 2011)|Teachings of Jesus]] — Elder Dallin H. Oaks, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Creation** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1841-06-01 (Vol. 2 No. 15)** (periodical, 1841-06-01) *(explicit citation)*
+- **Times and Seasons 1841-09-01 (Vol. 2 No. 21)** (periodical, 1841-09-01) *(explicit citation)*
+- **Times and Seasons 1845-07-01 (Vol. 6 No. 12)** (periodical, 1845-07-01) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 22
 slug: alma-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[What Shall a Man Give in Exchange for His Soul (Elder Robert C. Gay, October 2012)|What Shall a Man Give in Exchange for His Soul?]] — Elder Robert C. Gay, 2012-October *(explicit citation)*
 - [[The Truth of All Things (Elder David F. Evans, October 2017)|The Truth of All Things]] — Elder David F. Evans, 2017-October *(explicit citation)*
 - [[Overcome the World and Find Rest (President Russell M. Nelson, October 2022)|Overcome the World and Find Rest]] — President Russell M. Nelson, 2022-October *(explicit citation)*
 - [[“There Can Be Nothing So Exquisite and Sweet as Was My Joy” (Elder Craig C. Christensen, April 2023)|“There Can Be Nothing So Exquisite and Sweet as Was My Joy”]] — Elder Craig C. Christensen, 2023-April *(explicit citation)*
@@ -88,7 +89,6 @@ _Not yet developed._
 - [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
 - [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
 - [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
-- [[Do Justly, Love Mercy, and Walk Humbly with God (Elder Dale G. Renlund, October 2020)|Do Justly, Love Mercy, and Walk Humbly with God]] — Elder Dale G. Renlund, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

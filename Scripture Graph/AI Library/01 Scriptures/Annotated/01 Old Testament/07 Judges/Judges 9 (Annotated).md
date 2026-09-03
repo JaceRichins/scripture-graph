@@ -88,10 +88,10 @@ cssclasses:
 ![[Judges 9#^judg-9-33]]
 
 ![[Judges 9#^judg-9-34]]
-> [[2 Samuel 17#^2sam-17-22|≈ 2 Samuel 17:22]] · [[Genesis 35#^gen-35-6|≈ Genesis 35:6]] · [[Judges 4#^judg-4-13|≈ Judges 4:13]] · [[Judges 7#^judg-7-1|≈ Judges 7:1]] · [[1 Samuel 14#^1sam-14-20|≈ 1 Samuel 14:20]] · [[2 Samuel 3#^2sam-3-31|≈ 2 Samuel 3:31]]
+> [[Judges 4#^judg-4-13|≈ Judges 4:13]] · [[2 Samuel 20#^2sam-20-15|≈ 2 Samuel 20:15]] · [[2 Samuel 17#^2sam-17-22|≈ 2 Samuel 17:22]] · [[Genesis 35#^gen-35-6|≈ Genesis 35:6]] · [[Judges 7#^judg-7-1|≈ Judges 7:1]] · [[1 Samuel 14#^1sam-14-20|≈ 1 Samuel 14:20]]
 
 ![[Judges 9#^judg-9-35]]
-> [[1 Samuel 30#^1sam-30-4|≈ 1 Samuel 30:4]] · [[Judges 4#^judg-4-13|≈ Judges 4:13]] · [[1 Samuel 14#^1sam-14-2|≈ 1 Samuel 14:2]] · [[2 Samuel 6#^2sam-6-2|≈ 2 Samuel 6:2]] · [[1 Chronicles 19#^1chr-19-14|≈ 1 Chronicles 19:14]] · [[Joshua 8#^josh-8-29|≈ Joshua 8:29]]
+> [[Judges 4#^judg-4-13|≈ Judges 4:13]] · [[1 Samuel 30#^1sam-30-4|≈ 1 Samuel 30:4]] · [[1 Samuel 14#^1sam-14-2|≈ 1 Samuel 14:2]] · [[2 Samuel 6#^2sam-6-2|≈ 2 Samuel 6:2]] · [[1 Chronicles 19#^1chr-19-14|≈ 1 Chronicles 19:14]] · [[Joshua 8#^josh-8-29|≈ Joshua 8:29]]
 
 ![[Judges 9#^judg-9-36]]
 
@@ -121,7 +121,7 @@ cssclasses:
 ![[Judges 9#^judg-9-47]]
 
 ![[Judges 9#^judg-9-48]]
-> [[1 Samuel 30#^1sam-30-21|≈ 1 Samuel 30:21]] · [[2 Samuel 17#^2sam-17-22|≈ 2 Samuel 17:22]] · [[2 Samuel 18#^2sam-18-1|≈ 2 Samuel 18:1]] · [[Genesis 35#^gen-35-6|≈ Genesis 35:6]] · [[Judges 4#^judg-4-13|≈ Judges 4:13]] · [[Judges 7#^judg-7-1|≈ Judges 7:1]]
+> [[Judges 4#^judg-4-13|≈ Judges 4:13]] · [[2 Samuel 20#^2sam-20-15|≈ 2 Samuel 20:15]] · [[1 Samuel 30#^1sam-30-21|≈ 1 Samuel 30:21]] · [[2 Samuel 17#^2sam-17-22|≈ 2 Samuel 17:22]] · [[2 Samuel 18#^2sam-18-1|≈ 2 Samuel 18:1]] · [[Genesis 35#^gen-35-6|≈ Genesis 35:6]]
 
 ![[Judges 9#^judg-9-49]]
 

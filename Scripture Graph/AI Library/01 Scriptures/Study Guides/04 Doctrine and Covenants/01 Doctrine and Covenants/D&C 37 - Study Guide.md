@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 37
 slug: dc-37
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 37]] · My notes: [[D&C 37 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–4, The Saints are called to gather at the Ohio.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,18 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 6 parallel verses, e.g. [[D&C 37#^dc-37-1|D&C 37:1]] ↔ [[D&C 124#^dc-124-18|D&C 124:18]]
-- [[D&C 105]] — 5 parallel verses, e.g. [[D&C 37#^dc-37-3|D&C 37:3]] ↔ [[D&C 105#^dc-105-19|D&C 105:19]]
-- [[D&C 42]] — 2 parallel verses, e.g. [[D&C 37#^dc-37-2|D&C 37:2]] ↔ [[D&C 42#^dc-42-76|D&C 42:76]]
-- [[D&C 38]] — 3 parallel verses, e.g. [[D&C 37#^dc-37-2|D&C 37:2]] ↔ [[D&C 38#^dc-38-25|D&C 38:25]]
-- [[D&C 46]] — 3 parallel verses, e.g. [[D&C 37#^dc-37-2|D&C 37:2]] ↔ [[D&C 46#^dc-46-5|D&C 46:5]]
-- [[D&C 64]] — 2 parallel verses, e.g. [[D&C 37#^dc-37-3|D&C 37:3]] ↔ [[D&C 64#^dc-64-18|D&C 64:18]]
-- [[D&C 90]] — 2 parallel verses, e.g. [[D&C 37#^dc-37-2|D&C 37:2]] ↔ [[D&C 90#^dc-90-32|D&C 90:32]]
-- [[D&C 75]] — 2 parallel verses, e.g. [[D&C 37#^dc-37-1|D&C 37:1]] ↔ [[D&C 75#^dc-75-3|D&C 75:3]]
-- [[D&C 82]] — 2 parallel verses, e.g. [[D&C 37#^dc-37-1|D&C 37:1]] ↔ [[D&C 82#^dc-82-11|D&C 82:11]]
-- [[D&C 99]] — 1 parallel verse, e.g. [[D&C 37#^dc-37-1|D&C 37:1]] ↔ [[D&C 99#^dc-99-6|D&C 99:6]]
-- [[D&C 47]] — 2 parallel verses, e.g. [[D&C 37#^dc-37-2|D&C 37:2]] ↔ [[D&C 47#^dc-47-3|D&C 47:3]]
-- [[D&C 73]] — 1 parallel verse, e.g. [[D&C 37#^dc-37-3|D&C 37:3]] ↔ [[D&C 73#^dc-73-1|D&C 73:1]]
+- [[D&C 1]] — 1 footnote cross-reference (from [[D&C 37#^dc-37-1|D&C 37:1]])
+- [[D&C 35]] — 1 footnote cross-reference (from [[D&C 37#^dc-37-1|D&C 37:1]])
+- [[Zechariah 10]] — 1 footnote cross-reference (from [[D&C 37#^dc-37-2|D&C 37:2]])
+- [[D&C 24]] — 1 footnote cross-reference (from [[D&C 37#^dc-37-2|D&C 37:2]])
+- [[D&C 26]] — 1 footnote cross-reference (from [[D&C 37#^dc-37-2|D&C 37:2]])
+- [[D&C 38]] — 1 footnote cross-reference (from [[D&C 37#^dc-37-3|D&C 37:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +65,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘Go to the Ohio’** (history) *(explicit citation)*
+- **10 Gathered In** (history) *(explicit citation)*
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **James Covel and the ‘Cares of the World’** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 20
 slug: alma-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Alma 21]] — 2 parallel verses, e.g. [[Alma 20#^alma-20-30|Alma 20:30]] ↔ [[Alma 21#^alma-21-13|Alma 21:13]]
 - [[Mosiah 24]] — 1 parallel verse, e.g. [[Alma 20#^alma-20-28|Alma 20:28]] ↔ [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]]
 - [[Alma 27]] — 1 parallel verse, e.g. [[Alma 20#^alma-20-3|Alma 20:3]] ↔ [[Alma 27#^alma-27-25|Alma 27:25]]
+- [[Alma 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 5
 slug: ezra-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Ezra 4]] — 4 parallel verses, e.g. [[Ezra 5#^ezra-5-6|Ezra 5:6]] ↔ [[Ezra 4#^ezra-4-11|Ezra 4:11]]
 - [[Ezra 3]] — 2 parallel verses, e.g. [[Ezra 5#^ezra-5-2|Ezra 5:2]] ↔ [[Ezra 3#^ezra-3-8|Ezra 3:8]]
 - [[Jeremiah 27]] — 1 parallel verse, e.g. [[Ezra 5#^ezra-5-12|Ezra 5:12]] ↔ [[Jeremiah 27#^jer-27-6|Jeremiah 27:6]]
+- [[Ezra 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

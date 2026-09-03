@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 1
 slug: ezek-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Ezekiel 10]] — 6 parallel verses, e.g. [[Ezekiel 1#^ezek-1-19|Ezekiel 1:19]] ↔ [[Ezekiel 10#^ezek-10-16|Ezekiel 10:16]]
 - [[Ezekiel 8]] — 3 parallel verses, e.g. [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]] ↔ [[Ezekiel 8#^ezek-8-1|Ezekiel 8:1]]
 - [[Ezekiel 33]] — 2 parallel verses, e.g. [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]] ↔ [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]]
+- [[1 Nephi 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

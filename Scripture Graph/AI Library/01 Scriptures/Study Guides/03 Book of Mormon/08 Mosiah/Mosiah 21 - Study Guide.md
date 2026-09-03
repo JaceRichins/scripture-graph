@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 21
 slug: mosiah-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,11 +50,11 @@ _Not yet developed._
 - [[Mosiah 18]] — 3 footnote cross-references (from [[Mosiah 21#^mosiah-21-30|Mosiah 21:30]])
 - [[Mosiah 8]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]] ↔ [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]]
 - [[Mosiah 23]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-15|Mosiah 21:15]] ↔ [[Mosiah 23#^mosiah-23-28|Mosiah 23:28]]
+- [[3 Nephi 3]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-30|Mosiah 21:30]] ↔ [[3 Nephi 3#^3ne-3-25|3 Nephi 3:25]]
 - [[4 Nephi 1]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-22|Mosiah 21:22]] ↔ [[4 Nephi 1#^4ne-1-13|4 Nephi 1:13]]
 - [[Mosiah 18]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]] ↔ [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]]
 - [[Alma 3]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-7|Mosiah 21:7]] ↔ [[Alma 3#^alma-3-21|Alma 3:21]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-19|Mosiah 21:19]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
-- [[3 Nephi 3]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-30|Mosiah 21:30]] ↔ [[3 Nephi 3#^3ne-3-25|3 Nephi 3:25]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-14|Mosiah 21:14]] ↔ [[Alma 2#^alma-2-28|Alma 2:28]]
 <!-- SG:END related-scriptures -->
 
@@ -80,6 +80,7 @@ _Not yet developed._
 - [[The Atoning Love of Jesus Christ (Elder Neil L. Andersen, October 2025)|The Atoning Love of Jesus Christ]] — Elder Neil L. Andersen, 2025-October *(explicit citation)*
 - [[Confide in God Unwaveringly (Elder Ulisses Soares, April 2017)|Confide in God Unwaveringly]] — Elder Ulisses Soares, 2017-April *(explicit citation)*
 - [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
+- [[The Power of Deliverance (Elder L. Tom Perry, April 2012)|The Power of Deliverance]] — Elder L. Tom Perry, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

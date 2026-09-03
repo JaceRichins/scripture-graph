@@ -26,7 +26,7 @@ cssclasses:
 > [[Mark 1#^mark-1-4|≈ Mark 1:4]] · [[D&C 107#^dc-107-20|≈ D&C 107:20]]
 
 ![[Luke 3#^luke-3-4]]
-> [[Matthew 3#^matt-3-3|Matt. 3:3]] · [[Mark 1#^mark-1-3|Mark 1:3]] · [[John 1#^john-1-23|John 1:23]] · [[D&C 84#^dc-84-26|D&amp;C 84:28 (26–28)]] · [[Joseph Smith—History 1#^jsh-1-70|JS—H 1:72 (70–73)]] · [[Matthew 3#^matt-3-3|≈ Matthew 3:3]] · [[Mark 1#^mark-1-3|≈ Mark 1:3]] · [[Isaiah 40#^isa-40-3|≈ Isaiah 40:3]] · [[John 1#^john-1-23|≈ John 1:23]] · [[1 Nephi 10#^1ne-10-8|≈ 1 Nephi 10:8]]
+> [[Matthew 3#^matt-3-3|Matt. 3:3]] · [[Mark 1#^mark-1-3|Mark 1:3]] · [[John 1#^john-1-23|John 1:23]] · [[D&C 84#^dc-84-26|D&amp;C 84:28 (26–28)]] · [[Joseph Smith—History 1#^jsh-1-70|JS—H 1:72 (70–73)]] · [[Matthew 3#^matt-3-3|≈ Matthew 3:3]] · [[Mark 1#^mark-1-3|≈ Mark 1:3]] · [[D&C 65#^dc-65-1|≈ D&C 65:1]] · [[D&C 65#^dc-65-3|≈ D&C 65:3]] · [[Isaiah 40#^isa-40-3|≈ Isaiah 40:3]]
 
 ![[Luke 3#^luke-3-5]]
 > [[Isaiah 40#^isa-40-4|Isa. 40:4]] · [[Helaman 14#^hel-14-23|Hel. 14:23]] · [[D&C 109#^dc-109-74|D&amp;C 109:74]] · [[Isaiah 40#^isa-40-4|≈ Isaiah 40:4]]
@@ -40,7 +40,7 @@ cssclasses:
 > [[Alma 13#^alma-13-10|Alma 13:13 (10–13)]] · [[Matthew 3#^matt-3-9|≈ Matthew 3:9]]
 
 ![[Luke 3#^luke-3-9]]
-> [[Alma 5#^alma-5-51|Alma 5:52 (51–52)]] · [[D&C 97#^dc-97-7|D&amp;C 97:7]] · [[Matthew 7#^matt-7-15|Matt. 7:19 (15–20)]] · [[John 15#^john-15-1|John 15:2 (1–6)]] · [[Jacob 5#^jacob-5-1|Jacob 5:46 (1–77)]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]]
+> [[Alma 5#^alma-5-51|Alma 5:52 (51–52)]] · [[D&C 97#^dc-97-7|D&amp;C 97:7]] · [[Matthew 7#^matt-7-15|Matt. 7:19 (15–20)]] · [[John 15#^john-15-1|John 15:2 (1–6)]] · [[Jacob 5#^jacob-5-1|Jacob 5:46 (1–77)]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[D&C 97#^dc-97-7|≈ D&C 97:7]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]]
 
 ![[Luke 3#^luke-3-10]]
 

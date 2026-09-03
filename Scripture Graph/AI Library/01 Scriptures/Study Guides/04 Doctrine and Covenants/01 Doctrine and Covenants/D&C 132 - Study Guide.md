@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 132
 slug: dc-132
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,30 +54,36 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 84]] — 5 footnote cross-references (from [[D&C 132#^dc-132-4|D&C 132:4]])
+- [[D&C 76]] — 5 footnote cross-references (from [[D&C 132#^dc-132-6|D&C 132:6]])
+- [[Jacob 2]] — 4 footnote cross-references (from [[D&C 132#^dc-132-1|D&C 132:1]])
+- [[Genesis 25]] — 4 footnote cross-references (from [[D&C 132#^dc-132-1|D&C 132:1]])
+- [[Genesis 22]] — 4 footnote cross-references (from [[D&C 132#^dc-132-30|D&C 132:30]])
+- [[D&C 78]] — 3 footnote cross-references (from [[D&C 132#^dc-132-3|D&C 132:3]])
 - [[D&C 124]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-1|D&C 132:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]
 - [[Isaiah 43]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Isaiah 43#^isa-43-3|Isaiah 43:3]]
 - [[John 8]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-18|D&C 132:18]] ↔ [[John 8#^john-8-51|John 8:51]]
 - [[Abraham 2]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Abraham 2#^abr-2-7|Abraham 2:7]]
 - [[Abraham 3]] — 4 parallel verses, e.g. [[D&C 132#^dc-132-49|D&C 132:49]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
+- [[D&C 76]] — 3 parallel verses, e.g. [[D&C 132#^dc-132-26|D&C 132:26]] ↔ [[D&C 76#^dc-76-53|D&C 76:53]]
 - [[D&C 108]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-1|D&C 132:1]] ↔ [[D&C 108#^dc-108-1|D&C 108:1]]
 - [[3 Nephi 14]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-22|D&C 132:22]] ↔ [[3 Nephi 14#^3ne-14-14|3 Nephi 14:14]]
 - [[D&C 105]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-51|D&C 132:51]] ↔ [[D&C 105#^dc-105-20|D&C 105:20]]
 - [[D&C 71]] — 2 parallel verses, e.g. [[D&C 132#^dc-132-1|D&C 132:1]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[D&C 132#^dc-132-16|D&C 132:16]] ↔ [[Matthew 22#^matt-22-30|Matthew 22:30]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[D&C 132#^dc-132-16|D&C 132:16]] ↔ [[Mark 12#^mark-12-25|Mark 12:25]]
-- [[Helaman 10]] — 1 parallel verse, e.g. [[D&C 132#^dc-132-46|D&C 132:46]] ↔ [[Helaman 10#^hel-10-7|Helaman 10:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Eternal Marriage]]
-- [[Covenants]]
-- [[Angels]]
 - [[Sacrifice of Isaac (Akedah)]]
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Priesthood]] *(keyword match — unconfirmed)*
 - [[Eternal Life]] *(keyword match — unconfirmed)*
 - [[Chastity]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -109,14 +115,14 @@ Plural marriage is justified through claimed divine command and an Abrahamic com
 <!-- SG:BEGIN history -->
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 - **Mercy Thompson and the Revelation on Marriage** (history) *(explicit citation)*
+- **41 God Must Be the Judge** (history) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Plural Marriage** (reference-entry) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
+- **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
-- **Mother in Heaven** (reference-entry) *(explicit citation)*
-- **Council in Heaven** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

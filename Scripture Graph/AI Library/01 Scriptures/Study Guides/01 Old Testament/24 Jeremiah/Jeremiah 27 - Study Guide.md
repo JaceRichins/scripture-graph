@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 27
 slug: jer-27
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,8 @@ Scripture: [[Jeremiah 27]] · My notes: [[Jeremiah 27 - My Notes]]
 - [[Jeremiah 26]] — 1 footnote cross-reference (from [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]])
 - [[Jeremiah 25]] — 1 footnote cross-reference (from [[Jeremiah 27#^jer-27-3|Jeremiah 27:3]])
 - [[Ezekiel 28]] — 1 footnote cross-reference (from [[Jeremiah 27#^jer-27-3|Jeremiah 27:3]])
+- [[Jeremiah 28]] — 14 parallel verses, e.g. [[Jeremiah 27#^jer-27-20|Jeremiah 27:20]] ↔ [[Jeremiah 28#^jer-28-4|Jeremiah 28:4]]
+- [[Jeremiah 29]] — 10 parallel verses, e.g. [[Jeremiah 27#^jer-27-15|Jeremiah 27:15]] ↔ [[Jeremiah 29#^jer-29-9|Jeremiah 29:9]]
 - [[Jeremiah 35]] — 7 parallel verses, e.g. [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]] ↔ [[Jeremiah 35#^jer-35-1|Jeremiah 35:1]]
 - [[Jeremiah 42]] — 6 parallel verses, e.g. [[Jeremiah 27#^jer-27-13|Jeremiah 27:13]] ↔ [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]]
 - [[Jeremiah 44]] — 7 parallel verses, e.g. [[Jeremiah 27#^jer-27-13|Jeremiah 27:13]] ↔ [[Jeremiah 44#^jer-44-13|Jeremiah 44:13]]
@@ -62,14 +64,12 @@ Scripture: [[Jeremiah 27]] · My notes: [[Jeremiah 27 - My Notes]]
 - [[Jeremiah 7]] — 4 parallel verses, e.g. [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
 - [[Jeremiah 36]] — 2 parallel verses, e.g. [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]] ↔ [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]]
 - [[Jeremiah 19]] — 4 parallel verses, e.g. [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
-- [[Jeremiah 46]] — 3 parallel verses, e.g. [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]] ↔ [[Jeremiah 46#^jer-46-2|Jeremiah 46:2]]
-- [[Jeremiah 43]] — 3 parallel verses, e.g. [[Jeremiah 27#^jer-27-4|Jeremiah 27:4]] ↔ [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*

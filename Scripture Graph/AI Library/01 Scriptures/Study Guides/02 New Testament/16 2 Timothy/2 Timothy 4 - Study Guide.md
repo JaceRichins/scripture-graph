@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 4
 slug: 2tim-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Ephesians 4]] — 1 footnote cross-reference (from [[2 Timothy 4#^2tim-4-5|2 Timothy 4:5]])
 - [[Galatians 1]] — 1 parallel verse, e.g. [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]] ↔ [[Galatians 1#^gal-1-5|Galatians 1:5]]
 - [[Hebrews 13]] — 1 parallel verse, e.g. [[2 Timothy 4#^2tim-4-18|2 Timothy 4:18]] ↔ [[Hebrews 13#^heb-13-21|Hebrews 13:21]]
+- [[D&C 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,6 +67,7 @@ _Not yet developed._
 - [[Proved and Strengthened in Christ (Elder Henry B. Eyring, October 2025)|Proved and Strengthened in Christ]] — Elder Henry B. Eyring, 2025-October *(explicit citation)*
 - [[The Moral Force of Women (Elder D. Todd Christofferson, October 2013)|The Moral Force of Women]] — Elder D. Todd Christofferson, 2013-October *(explicit citation)*
 - [[The Strength to Endure (Elder Richard J. Maynes, October 2013)|The Strength to Endure]] — Elder Richard J. Maynes, 2013-October *(explicit citation)*
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[The Righteous Judge (Elder Lynn G. Robbins, October 2016)|The Righteous Judge]] — Elder Lynn G. Robbins, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -73,6 +75,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
+- **Alexander** (reference-entry) *(explicit citation)*
+- **Aquila** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

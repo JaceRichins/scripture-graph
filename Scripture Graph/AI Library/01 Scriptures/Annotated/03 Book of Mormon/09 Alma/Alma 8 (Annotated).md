@@ -22,7 +22,7 @@ cssclasses:
 ![[Alma 8#^alma-8-2]]
 
 ![[Alma 8#^alma-8-3]]
-> [[Alma 31#^alma-31-6|Alma 31:6]] · [[Alma 6#^alma-6-7|Alma 6:7]] · [[Alma 16#^alma-16-6|16:6 (6–7)]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[3 Nephi 2#^3ne-2-17|≈ 3 Nephi 2:17]] · [[Alma 2#^alma-2-34|≈ Alma 2:34]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]] · [[Alma 43#^alma-43-27|≈ Alma 43:27]] · [[Alma 43#^alma-43-32|≈ Alma 43:32]]
+> [[Alma 31#^alma-31-6|Alma 31:6]] · [[Alma 6#^alma-6-7|Alma 6:7]] · [[Alma 16#^alma-16-6|16:6 (6–7)]] · [[1 Nephi 1#^1ne-1-4|≈ 1 Nephi 1:4]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[3 Nephi 2#^3ne-2-17|≈ 3 Nephi 2:17]] · [[Alma 2#^alma-2-34|≈ Alma 2:34]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]] · [[Alma 43#^alma-43-27|≈ Alma 43:27]]
 
 ![[Alma 8#^alma-8-4]]
 > [[D&C 107#^dc-107-2|D&amp;C 107:3 (2–4)]] · [[Alma 43#^alma-43-2|≈ Alma 43:2]] · [[Alma 5#^alma-5-44|≈ Alma 5:44]]

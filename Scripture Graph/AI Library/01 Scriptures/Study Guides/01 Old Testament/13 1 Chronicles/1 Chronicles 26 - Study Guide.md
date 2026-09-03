@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 26
 slug: 1chr-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[1 Chronicles 13]] — 1 footnote cross-reference (from [[1 Chronicles 26#^1chr-26-5|1 Chronicles 26:5]])
 - [[1 Chronicles 25]] — 1 footnote cross-reference (from [[1 Chronicles 26#^1chr-26-13|1 Chronicles 26:13]])
 - [[2 Samuel 8]] — 1 footnote cross-reference (from [[1 Chronicles 26#^1chr-26-27|1 Chronicles 26:27]])
+- [[1 Chronicles 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,7 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abner** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

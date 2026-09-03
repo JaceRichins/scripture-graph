@@ -97,7 +97,7 @@ cssclasses:
 > [[John 17#^john-17-20|John 17:20–22]] · [[Alma 11#^alma-11-44|Alma 11:44]] · [[3 Nephi 11#^3ne-11-27|3 Ne. 11:27 (27–28, 36)]] · [[3 Nephi 28#^3ne-28-10|28:10]] · [[Mormon 7#^morm-7-7|Morm. 7:7]]
 
 ![[D&C 20#^dc-20-29]]
-> [[1 John 3#^1jn-3-19|1 Jn. 3:23 (19–24)]] · [[Moroni 3#^moro-3-3|≈ Moroni 3:3]] · [[Moroni 8#^moro-8-3|≈ Moroni 8:3]] · [[Moroni 10#^moro-10-26|≈ Moroni 10:26]] · [[Moroni 10#^moro-10-21|≈ Moroni 10:21]] · [[2 Nephi 28#^2ne-28-8|≈ 2 Nephi 28:8]] · [[D&C 18#^dc-18-46|≈ D&C 18:46]]
+> [[1 John 3#^1jn-3-19|1 Jn. 3:23 (19–24)]] · [[Moroni 3#^moro-3-3|≈ Moroni 3:3]] · [[Moroni 8#^moro-8-3|≈ Moroni 8:3]] · [[Moroni 10#^moro-10-26|≈ Moroni 10:26]] · [[Moroni 10#^moro-10-21|≈ Moroni 10:21]] · [[2 Nephi 31#^2ne-31-21|≈ 2 Nephi 31:21]] · [[2 Nephi 9#^2ne-9-23|≈ 2 Nephi 9:23]]
 
 ![[D&C 20#^dc-20-30]]
 > [[Romans 3#^rom-3-24|Rom. 3:24]] · [[Ephesians 2#^eph-2-8|Eph. 2:8 (8–9)]] · [[D&C 138#^dc-138-60|≈ D&C 138:60]]
@@ -177,7 +177,7 @@ cssclasses:
 ![[D&C 20#^dc-20-59]]
 
 ![[D&C 20#^dc-20-60]]
-> [[Moroni 3#^moro-3-1|Moro. 3:4 (1–4)]] · [[Moroni 3#^moro-3-4|≈ Moroni 3:4]] · [[Moroni 6#^moro-6-4|≈ Moroni 6:4]] · [[Moroni 6#^moro-6-9|≈ Moroni 6:9]] · [[Moroni 8#^moro-8-7|≈ Moroni 8:7]] · [[Moroni 10#^moro-10-4|≈ Moroni 10:4]] · [[Moroni 10#^moro-10-5|≈ Moroni 10:5]]
+> [[Moroni 3#^moro-3-1|Moro. 3:4 (1–4)]] · [[Moroni 6#^moro-6-4|≈ Moroni 6:4]] · [[Moroni 6#^moro-6-9|≈ Moroni 6:9]] · [[Moroni 3#^moro-3-4|≈ Moroni 3:4]] · [[Moroni 8#^moro-8-7|≈ Moroni 8:7]] · [[Moroni 10#^moro-10-4|≈ Moroni 10:4]] · [[Moroni 10#^moro-10-5|≈ Moroni 10:5]]
 
 ![[D&C 20#^dc-20-61]]
 

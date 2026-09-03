@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 13
 slug: 2ne-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Isaiah 1]] — 1 footnote cross-reference (from [[2 Nephi 13#^2ne-13-8|2 Nephi 13:8]])
 - [[Jeremiah 9]] — 1 footnote cross-reference (from [[2 Nephi 13#^2ne-13-8|2 Nephi 13:8]])
 - [[Isaiah 3]] — 24 parallel verses, e.g. [[2 Nephi 13#^2ne-13-16|2 Nephi 13:16]] ↔ [[Isaiah 3#^isa-3-16|Isaiah 3:16]]
+- [[Isaiah 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

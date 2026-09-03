@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 2
 slug: john-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 - [[Wholehearted (Sister Michelle D. Craig, October 2022)|Wholehearted]] — Sister Michelle D. Craig, 2022-October *(explicit citation)*
 - [[Go and Do Likewise (Elder James E. Evanson, October 2025)|Go and Do Likewise]] — Elder James E. Evanson, 2025-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[The Sabbath and the Sacrament (Elder L. Tom Perry, April 2011)|The Sabbath and the Sacrament]] — Elder L. Tom Perry, 2011-April *(explicit citation)*
 - [[After the Fourth Day (Elder W. Mark Bassett, April 2023)|After the Fourth Day]] — Elder W. Mark Bassett, 2023-April *(explicit citation)*
 - [[Conference Report, April 1925 (General Conference (full report), April 1925)|Conference Report, April 1925]] — General Conference (full report), 1925-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*

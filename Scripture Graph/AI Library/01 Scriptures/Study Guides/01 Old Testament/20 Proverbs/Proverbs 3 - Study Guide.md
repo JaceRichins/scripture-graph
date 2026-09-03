@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 3
 slug: prov-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[2 Corinthians 3]] — 1 footnote cross-reference (from [[Proverbs 3#^prov-3-3|Proverbs 3:3]])
 - [[1 Samuel 2]] — 1 footnote cross-reference (from [[Proverbs 3#^prov-3-4|Proverbs 3:4]])
 - [[2 Nephi 15]] — 1 footnote cross-reference (from [[Proverbs 3#^prov-3-7|Proverbs 3:7]])
+- [[Proverbs 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -102,3 +103,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

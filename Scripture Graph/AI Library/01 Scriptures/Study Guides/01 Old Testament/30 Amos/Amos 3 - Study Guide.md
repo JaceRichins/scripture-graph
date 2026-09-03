@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 3
 slug: amos-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,10 @@ _Not yet developed._
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
+- **Times and Seasons 1843-06-15 (Vol. 4 No. 15)** (periodical, 1843-06-15) *(explicit citation)*
+- **Times and Seasons 1844-12-01 (Vol. 5 No. 22)** (periodical, 1844-12-01) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

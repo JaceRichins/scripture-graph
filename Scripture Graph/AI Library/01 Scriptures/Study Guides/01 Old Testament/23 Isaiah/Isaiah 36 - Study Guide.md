@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 36
 slug: isa-36
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Isaiah 7]] — 1 parallel verse, e.g. [[Isaiah 36#^isa-36-2|Isaiah 36:2]] ↔ [[Isaiah 7#^isa-7-3|Isaiah 7:3]]
 - [[2 Kings 20]] — 3 parallel verses, e.g. [[Isaiah 36#^isa-36-18|Isaiah 36:18]] ↔ [[2 Kings 20#^2kgs-20-6|2 Kings 20:6]]
 - [[2 Nephi 17]] — 1 parallel verse, e.g. [[Isaiah 36#^isa-36-2|Isaiah 36:2]] ↔ [[2 Nephi 17#^2ne-17-3|2 Nephi 17:3]]
+- [[Ezekiel 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

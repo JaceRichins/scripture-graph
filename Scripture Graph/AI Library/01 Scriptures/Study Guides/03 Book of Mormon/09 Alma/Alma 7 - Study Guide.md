@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 7
 slug: alma-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -96,9 +96,9 @@ _Not yet developed._
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Same-Sex Attraction** (reference-entry) *(explicit citation)*
 - **Suicide** (reference-entry) *(explicit citation)*
+- **33 O God, Where Art Thou?** (history) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Agency** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

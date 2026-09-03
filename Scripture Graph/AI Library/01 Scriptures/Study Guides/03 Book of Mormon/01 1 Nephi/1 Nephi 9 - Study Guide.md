@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 9
 slug: 1ne-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[1 Nephi 16]] — 1 footnote cross-reference (from [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]])
 - [[Helaman 14]] — 1 parallel verse, e.g. [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]] ↔ [[Helaman 14#^hel-14-1|Helaman 14:1]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]] ↔ [[1 Nephi 10#^1ne-10-16|1 Nephi 10:16]]
+- [[1 Nephi 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,7 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -112,7 +112,7 @@ cssclasses:
 > [[1 Nephi 1#^1ne-1-14|1 Ne. 1:14]] · [[2 Nephi 26#^2ne-26-24|2 Ne. 26:25 (24–28)]] · [[3 Nephi 9#^3ne-9-13|3 Ne. 9:14 (13–14)]] · [[1 Nephi 8#^1ne-8-11|1 Ne. 8:11]] · [[1 Nephi 15#^1ne-15-36|15:36]] · [[2 Nephi 9#^2ne-9-50|2 Ne. 9:50 (50–51)]] · [[Alma 42#^alma-42-27|Alma 42:27]] · [[Moses 4#^moses-4-23|≈ Moses 4:23]] · [[Alma 12#^alma-12-21|≈ Alma 12:21]] · [[Alma 12#^alma-12-23|≈ Alma 12:23]]
 
 ![[Alma 5#^alma-5-35]]
-> [[D&C 45#^dc-45-57|≈ D&C 45:57]] · [[D&C 45#^dc-45-50|≈ D&C 45:50]] · [[D&C 97#^dc-97-7|≈ D&C 97:7]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]]
+> [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]] · [[D&C 45#^dc-45-57|≈ D&C 45:57]] · [[D&C 45#^dc-45-50|≈ D&C 45:50]]
 
 ![[Alma 5#^alma-5-36]]
 > [[Matthew 3#^matt-3-10|Matt. 3:10]] · [[Matthew 7#^matt-7-15|7:19 (15–20)]] · [[Jacob 5#^jacob-5-26|Jacob 5:26 (26–60)]] · [[3 Nephi 14#^3ne-14-19|3 Ne. 14:19]] · [[D&C 97#^dc-97-7|D&amp;C 97:7]]
@@ -151,7 +151,7 @@ cssclasses:
 > [[Alma 6#^alma-6-8|≈ Alma 6:8]] · [[Helaman 8#^hel-8-13|≈ Helaman 8:13]] · [[Alma 13#^alma-13-26|≈ Alma 13:26]] · [[Alma 10#^alma-10-12|≈ Alma 10:12]]
 
 ![[Alma 5#^alma-5-48]]
-> [[Mosiah 3#^mosiah-3-1|≈ Mosiah 3:1]] · [[John 1#^john-1-14|≈ John 1:14]] · [[Alma 9#^alma-9-26|≈ Alma 9:26]] · [[D&C 93#^dc-93-11|≈ D&C 93:11]] · [[Alma 13#^alma-13-9|≈ Alma 13:9]] · [[Alma 39#^alma-39-15|≈ Alma 39:15]]
+> [[Alma 9#^alma-9-26|≈ Alma 9:26]] · [[Mosiah 3#^mosiah-3-1|≈ Mosiah 3:1]] · [[John 1#^john-1-14|≈ John 1:14]] · [[D&C 93#^dc-93-11|≈ D&C 93:11]] · [[Alma 13#^alma-13-9|≈ Alma 13:9]] · [[Alma 39#^alma-39-15|≈ Alma 39:15]]
 
 ![[Alma 5#^alma-5-49]]
 > [[Alma 7#^alma-7-14|≈ Alma 7:14]] · [[Alma 1#^alma-1-30|≈ Alma 1:30]] · [[Alma 11#^alma-11-44|≈ Alma 11:44]]
@@ -163,10 +163,10 @@ cssclasses:
 > [[Alma 9#^alma-9-12|≈ Alma 9:12]] · [[3 Nephi 11#^3ne-11-38|≈ 3 Nephi 11:38]] · [[Alma 39#^alma-39-9|≈ Alma 39:9]]
 
 ![[Alma 5#^alma-5-52]]
-> [[Luke 3#^luke-3-9|Luke 3:9]] · [[D&C 97#^dc-97-7|D&amp;C 97:7]] · [[Jacob 5#^jacob-5-46|Jacob 5:46]] · [[Jacob 6#^jacob-6-7|6:7]] · [[3 Nephi 27#^3ne-27-11|3 Ne. 27:11 (11–12)]] · [[D&C 45#^dc-45-50|≈ D&C 45:50]] · [[D&C 45#^dc-45-57|≈ D&C 45:57]] · [[D&C 97#^dc-97-7|≈ D&C 97:7]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]]
+> [[Luke 3#^luke-3-9|Luke 3:9]] · [[D&C 97#^dc-97-7|D&amp;C 97:7]] · [[Jacob 5#^jacob-5-46|Jacob 5:46]] · [[Jacob 6#^jacob-6-7|6:7]] · [[3 Nephi 27#^3ne-27-11|3 Ne. 27:11 (11–12)]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]] · [[D&C 45#^dc-45-50|≈ D&C 45:50]]
 
 ![[Alma 5#^alma-5-53]]
-> [[1 Corinthians 5#^1cor-5-2|1 Cor. 5:2]] · [[2 Nephi 28#^2ne-28-11|2 Ne. 28:13 (11–14)]] · [[Mormon 8#^morm-8-36|Morm. 8:36 (36–39)]] · [[Psalm 62#^ps-62-10|Ps. 62:10]] · [[D&C 56#^dc-56-16|D&amp;C 56:16 (16–18)]] · [[Mormon 8#^morm-8-36|≈ Mormon 8:36]] · [[Alma 7#^alma-7-6|≈ Alma 7:6]] · [[Alma 34#^alma-34-28|≈ Alma 34:28]] · [[2 Nephi 26#^2ne-26-23|≈ 2 Nephi 26:23]]
+> [[1 Corinthians 5#^1cor-5-2|1 Cor. 5:2]] · [[2 Nephi 28#^2ne-28-11|2 Ne. 28:13 (11–14)]] · [[Mormon 8#^morm-8-36|Morm. 8:36 (36–39)]] · [[Psalm 62#^ps-62-10|Ps. 62:10]] · [[D&C 56#^dc-56-16|D&amp;C 56:16 (16–18)]] · [[Alma 7#^alma-7-6|≈ Alma 7:6]] · [[Mormon 8#^morm-8-36|≈ Mormon 8:36]] · [[Alma 34#^alma-34-28|≈ Alma 34:28]] · [[2 Nephi 26#^2ne-26-23|≈ 2 Nephi 26:23]]
 
 ![[Alma 5#^alma-5-54]]
 > [[Alma 9#^alma-9-30|≈ Alma 9:30]] · [[Alma 7#^alma-7-22|≈ Alma 7:22]]
@@ -175,7 +175,7 @@ cssclasses:
 > [[Psalm 109#^ps-109-15|Ps. 109:16 (15–16)]] · [[Jacob 2#^jacob-2-17|Jacob 2:17]] · [[Helaman 6#^hel-6-39|Hel. 6:39 (39–40)]] · [[D&C 56#^dc-56-16|D&amp;C 56:16]]
 
 ![[Alma 5#^alma-5-56]]
-> [[D&C 45#^dc-45-50|≈ D&C 45:50]] · [[D&C 45#^dc-45-57|≈ D&C 45:57]] · [[D&C 97#^dc-97-7|≈ D&C 97:7]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]]
+> [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]] · [[D&C 45#^dc-45-50|≈ D&C 45:50]] · [[D&C 45#^dc-45-57|≈ D&C 45:57]]
 
 ![[Alma 5#^alma-5-57]]
 > [[Ezra 6#^ezra-6-21|Ezra 6:21]] · [[Ezra 9#^ezra-9-1|9:1]] · [[Nehemiah 9#^neh-9-2|Neh. 9:2]] · [[2 Thessalonians 3#^2thes-3-6|2 Thes. 3:6]] · [[D&C 133#^dc-133-5|D&amp;C 133:5 (5, 14)]] · [[Deuteronomy 29#^deut-29-20|Deut. 29:20]] · [[Psalm 109#^ps-109-13|Ps. 109:13]]
@@ -191,4 +191,4 @@ cssclasses:
 > [[Mosiah 3#^mosiah-3-22|≈ Mosiah 3:22]] · [[3 Nephi 11#^3ne-11-41|≈ 3 Nephi 11:41]]
 
 ![[Alma 5#^alma-5-62]]
-> [[1 Nephi 8#^1ne-8-10|1 Ne. 8:10]] · [[1 Nephi 11#^1ne-11-21|11:21 (21–23)]] · [[Moses 4#^moses-4-23|≈ Moses 4:23]] · [[Alma 7#^alma-7-14|≈ Alma 7:14]] · [[Alma 12#^alma-12-21|≈ Alma 12:21]] · [[Alma 12#^alma-12-23|≈ Alma 12:23]] · [[Alma 32#^alma-32-40|≈ Alma 32:40]]
+> [[1 Nephi 8#^1ne-8-10|1 Ne. 8:10]] · [[1 Nephi 11#^1ne-11-21|11:21 (21–23)]] · [[Alma 7#^alma-7-14|≈ Alma 7:14]] · [[Moses 4#^moses-4-23|≈ Moses 4:23]] · [[Alma 12#^alma-12-21|≈ Alma 12:21]] · [[Alma 12#^alma-12-23|≈ Alma 12:23]] · [[Alma 32#^alma-32-40|≈ Alma 32:40]]

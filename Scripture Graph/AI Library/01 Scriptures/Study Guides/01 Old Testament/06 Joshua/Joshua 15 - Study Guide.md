@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 15
 slug: josh-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,10 @@ Scripture: [[Joshua 15]] · My notes: [[Joshua 15 - My Notes]]
 - [[Joshua 23]] — 1 footnote cross-reference (from [[Joshua 15#^josh-15-12|Joshua 15:12]])
 - [[Numbers 13]] — 1 footnote cross-reference (from [[Joshua 15#^josh-15-13|Joshua 15:13]])
 - [[Numbers 10]] — 26 parallel verses, e.g. [[Joshua 15#^josh-15-20|Joshua 15:20]] ↔ [[Numbers 10#^num-10-14|Numbers 10:14]]
+- [[Judges 1]] — 6 parallel verses, e.g. [[Joshua 15#^josh-15-19|Joshua 15:19]] ↔ [[Judges 1#^judg-1-15|Judges 1:15]]
+- [[Joshua 19]] — 18 parallel verses, e.g. [[Joshua 15#^josh-15-20|Joshua 15:20]] ↔ [[Joshua 19#^josh-19-8|Joshua 19:8]]
+- [[Numbers 34]] — 23 parallel verses, e.g. [[Joshua 15#^josh-15-4|Joshua 15:4]] ↔ [[Numbers 34#^num-34-5|Numbers 34:5]]
+- [[Joshua 18]] — 12 parallel verses, e.g. [[Joshua 15#^josh-15-8|Joshua 15:8]] ↔ [[Joshua 18#^josh-18-16|Joshua 18:16]]
 - [[Joshua 21]] — 4 parallel verses, e.g. [[Joshua 15#^josh-15-13|Joshua 15:13]] ↔ [[Joshua 21#^josh-21-11|Joshua 21:11]]
 - [[Joshua 16]] — 4 parallel verses, e.g. [[Joshua 15#^josh-15-20|Joshua 15:20]] ↔ [[Joshua 16#^josh-16-8|Joshua 16:8]]
 - [[1 Chronicles 6]] — 3 parallel verses, e.g. [[Joshua 15#^josh-15-1|Joshua 15:1]] ↔ [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]]
@@ -62,10 +66,6 @@ Scripture: [[Joshua 15]] · My notes: [[Joshua 15 - My Notes]]
 - [[Exodus 17]] — 2 parallel verses, e.g. [[Joshua 15#^josh-15-13|Joshua 15:13]] ↔ [[Exodus 17#^ex-17-1|Exodus 17:1]]
 - [[Jeremiah 7]] — 2 parallel verses, e.g. [[Joshua 15#^josh-15-8|Joshua 15:8]] ↔ [[Jeremiah 7#^jer-7-31|Jeremiah 7:31]]
 - [[Jeremiah 19]] — 2 parallel verses, e.g. [[Joshua 15#^josh-15-8|Joshua 15:8]] ↔ [[Jeremiah 19#^jer-19-2|Jeremiah 19:2]]
-- [[Joshua 19]] — 0 parallel verses
-- [[Numbers 34]] — 0 parallel verses
-- [[Joshua 18]] — 0 parallel verses
-- [[Judges 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,7 +86,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ashdod or Azotus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

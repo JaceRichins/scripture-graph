@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 9
 slug: gen-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,8 @@ _Not yet developed._
 - [[1 Kings 8]] — 1 parallel verse, e.g. [[Genesis 9#^gen-9-26|Genesis 9:26]] ↔ [[1 Kings 8#^1kgs-8-15|1 Kings 8:15]]
 - [[2 Chronicles 6]] — 1 parallel verse, e.g. [[Genesis 9#^gen-9-26|Genesis 9:26]] ↔ [[2 Chronicles 6#^2chr-6-4|2 Chronicles 6:4]]
 - [[Leviticus 17]] — 0 parallel verses
+- [[Moses 7]] — 0 parallel verses
+- [[3 Nephi 22]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,12 +68,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1846-01-15 (Vol. 6 No. 21)** (periodical, 1846-01-15) *(explicit citation)*
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

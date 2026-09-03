@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 4
 slug: eph-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,9 @@ _Not yet developed._
 - [[Malachi 2]] — 1 footnote cross-reference (from [[Ephesians 4#^eph-4-6|Ephesians 4:6]])
 - [[1 Corinthians 8]] — 1 footnote cross-reference (from [[Ephesians 4#^eph-4-6|Ephesians 4:6]])
 - [[Psalm 68]] — 1 footnote cross-reference (from [[Ephesians 4#^eph-4-8|Ephesians 4:8]])
+- [[Psalm 4]] — 0 parallel verses
+- [[D&C 136]] — 0 parallel verses
+- [[1 Corinthians 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,8 +70,8 @@ _Not yet developed._
 - [[Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]] — Elder Ulisses Soares, 2023-October *(explicit citation)*
 - [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
 - [[Live according to the Words of the Prophets (Carol F. McConkie, October 2014)|Live according to the Words of the Prophets]] — Carol F. McConkie, 2014-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Faith Is Not by Chance, but by Choice (Elder Neil L. Andersen, October 2015)|Faith Is Not by Chance, but by Choice]] — Elder Neil L. Andersen, 2015-October *(explicit citation)*
-- [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

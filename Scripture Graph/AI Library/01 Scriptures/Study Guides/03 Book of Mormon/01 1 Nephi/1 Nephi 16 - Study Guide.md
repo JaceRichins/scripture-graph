@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 16
 slug: 1ne-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,7 +55,9 @@ This organization reveals a recurring sequence: hardship, murmuring, correction,
 - [[2 Nephi 1]] — 3 footnote cross-references (from [[1 Nephi 16#^1ne-16-2|1 Nephi 16:2]])
 - [[1 Nephi 2]] — 3 footnote cross-references (from [[1 Nephi 16#^1ne-16-6|1 Nephi 16:6]])
 - [[1 Nephi 15]] — 2 footnote cross-references (from [[1 Nephi 16#^1ne-16-5|1 Nephi 16:5]])
+- [[1 Nephi 18]] — 8 parallel verses, e.g. [[1 Nephi 16#^1ne-16-25|1 Nephi 16:25]] ↔ [[1 Nephi 18#^1ne-18-5|1 Nephi 18:5]]
 - [[2 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 16#^1ne-16-17|1 Nephi 16:17]] ↔ [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]]
+- [[1 Nephi 17]] — 3 parallel verses, e.g. [[1 Nephi 16#^1ne-16-33|1 Nephi 16:33]] ↔ [[1 Nephi 17#^1ne-17-1|1 Nephi 17:1]]
 - [[Mosiah 24]] — 3 parallel verses, e.g. [[1 Nephi 16#^1ne-16-25|1 Nephi 16:25]] ↔ [[Mosiah 24#^mosiah-24-13|Mosiah 24:13]]
 - [[1 Nephi 15]] — 3 parallel verses, e.g. [[1 Nephi 16#^1ne-16-2|1 Nephi 16:2]] ↔ [[1 Nephi 15#^1ne-15-32|1 Nephi 15:32]]
 - [[Mosiah 29]] — 3 parallel verses, e.g. [[1 Nephi 16#^1ne-16-9|1 Nephi 16:9]] ↔ [[Mosiah 29#^mosiah-29-2|Mosiah 29:2]]
@@ -65,8 +67,6 @@ This organization reveals a recurring sequence: hardship, murmuring, correction,
 - [[2 Nephi 4]] — 2 parallel verses, e.g. [[1 Nephi 16#^1ne-16-20|1 Nephi 16:20]] ↔ [[2 Nephi 4#^2ne-4-13|2 Nephi 4:13]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[1 Nephi 16#^1ne-16-6|1 Nephi 16:6]] ↔ [[1 Nephi 10#^1ne-10-16|1 Nephi 10:16]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[1 Nephi 16#^1ne-16-2|1 Nephi 16:2]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
-- [[1 Nephi 8]] — 2 parallel verses, e.g. [[1 Nephi 16#^1ne-16-17|1 Nephi 16:17]] ↔ [[1 Nephi 8#^1ne-8-8|1 Nephi 8:8]]
-- [[2 Nephi 1]] — 1 parallel verse, e.g. [[1 Nephi 16#^1ne-16-1|1 Nephi 16:1]] ↔ [[2 Nephi 1#^2ne-1-1|2 Nephi 1:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 58
 slug: dc-58
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,12 @@ This outline describes shifts in subject matter; it does not demonstrate an elab
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 57]] — 7 footnote cross-references (from [[D&C 58#^dc-58-1|D&C 58:1]])
+- [[D&C 101]] — 5 footnote cross-references (from [[D&C 58#^dc-58-4|D&C 58:4]])
+- [[D&C 63]] — 5 footnote cross-references (from [[D&C 58#^dc-58-4|D&C 58:4]])
+- [[D&C 51]] — 4 footnote cross-references (from [[D&C 58#^dc-58-17|D&C 58:17]])
+- [[D&C 103]] — 3 footnote cross-references (from [[D&C 58#^dc-58-4|D&C 58:4]])
+- [[D&C 42]] — 3 footnote cross-references (from [[D&C 58#^dc-58-23|D&C 58:23]])
 - [[D&C 57]] — 3 parallel verses, e.g. [[D&C 58#^dc-58-40|D&C 58:40]] ↔ [[D&C 57#^dc-57-7|D&C 57:7]]
 - [[D&C 50]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-1|D&C 58:1]] ↔ [[D&C 50#^dc-50-1|D&C 50:1]]
 - [[D&C 119]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-51|D&C 58:51]] ↔ [[D&C 119#^dc-119-1|D&C 119:1]]
@@ -68,8 +74,8 @@ This outline describes shifts in subject matter; it does not demonstrate an elab
 <!-- SG:BEGIN topics -->
 - [[Repentance]]
 - [[Agency]]
-- [[Government and Laws]]
 - [[Repentance and Forgiveness]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
@@ -103,12 +109,12 @@ The land instructions also connect [[Consecration]] with practical administratio
 - **The Center Place** (history) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Employment** (reference-entry) *(explicit citation)*
+- **12 After Much Tribulation** (history) *(explicit citation)*
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
+- **26 A Holy and Consecrated Land** (history) *(explicit citation)*
 - **Waiting for the Word of the Lord** (history) *(explicit citation)*
-- **Repentance** (reference-entry) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

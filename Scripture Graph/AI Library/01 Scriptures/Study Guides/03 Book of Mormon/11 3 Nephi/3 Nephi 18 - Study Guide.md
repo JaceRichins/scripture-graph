@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 18
 slug: 3ne-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,21 +55,21 @@ _Not yet developed._
 - [[3 Nephi 17]] — 5 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]]
 - [[3 Nephi 27]] — 6 parallel verses, e.g. [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]] ↔ [[3 Nephi 27#^3ne-27-28|3 Nephi 27:28]]
 - [[D&C 88]] — 4 parallel verses, e.g. [[3 Nephi 18#^3ne-18-28|3 Nephi 18:28]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
+- [[3 Nephi 20]] — 4 parallel verses, e.g. [[3 Nephi 18#^3ne-18-14|3 Nephi 18:14]] ↔ [[3 Nephi 20#^3ne-20-14|3 Nephi 20:14]]
 - [[3 Nephi 11]] — 3 parallel verses, e.g. [[3 Nephi 18#^3ne-18-13|3 Nephi 18:13]] ↔ [[3 Nephi 11#^3ne-11-40|3 Nephi 11:40]]
 - [[3 Nephi 13]] — 2 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
 - [[3 Nephi 15]] — 3 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]]
 - [[3 Nephi 14]] — 2 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]]
+- [[3 Nephi 19]] — 3 parallel verses, e.g. [[3 Nephi 18#^3ne-18-36|3 Nephi 18:36]] ↔ [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]]
 - [[3 Nephi 28]] — 2 parallel verses, e.g. [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]] ↔ [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]]
 - [[Moroni 7]] — 1 parallel verse, e.g. [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]] ↔ [[Moroni 7#^moro-7-26|Moroni 7:26]]
-- [[D&C 18]] — 3 parallel verses, e.g. [[3 Nephi 18#^3ne-18-12|3 Nephi 18:12]] ↔ [[D&C 18#^dc-18-3|D&C 18:3]]
-- [[D&C 124]] — 3 parallel verses, e.g. [[3 Nephi 18#^3ne-18-27|3 Nephi 18:27]] ↔ [[D&C 124#^dc-124-131|D&C 124:131]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prayer]]
-- [[Sacrament]]
 - [[Satan and Temptation]]
+- [[Sacrament]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*

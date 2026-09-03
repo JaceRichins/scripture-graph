@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 6
 slug: rom-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,11 +78,14 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Temples of The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1844-04-15 (Vol. 5 No. 8)** (periodical, 1844-04-15) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
 - **Pornography** (reference-entry) *(explicit citation)*
 - **Sin** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1844-12-01 (Vol. 5 No. 22)** (periodical, 1844-12-01) *(explicit citation)*
+- **Atonement** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

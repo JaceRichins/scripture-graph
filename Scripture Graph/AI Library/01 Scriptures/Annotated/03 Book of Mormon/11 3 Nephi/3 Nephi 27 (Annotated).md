@@ -45,7 +45,7 @@ cssclasses:
 ![[3 Nephi 27#^3ne-27-10]]
 
 ![[3 Nephi 27#^3ne-27-11]]
-> [[Jacob 5#^jacob-5-46|Jacob 5:46]] · [[Jacob 6#^jacob-6-7|6:7]] · [[Alma 5#^alma-5-52|Alma 5:52]] · [[D&C 132#^dc-132-13|D&amp;C 132:13]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]]
+> [[Jacob 5#^jacob-5-46|Jacob 5:46]] · [[Jacob 6#^jacob-6-7|6:7]] · [[Alma 5#^alma-5-52|Alma 5:52]] · [[D&C 132#^dc-132-13|D&amp;C 132:13]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]]
 
 ![[3 Nephi 27#^3ne-27-12]]
 > [[Revelation 14#^rev-14-13|Rev. 14:13]] · [[D&C 59#^dc-59-2|D&amp;C 59:2]]
@@ -63,7 +63,7 @@ cssclasses:
 > [[1 Nephi 13#^1ne-13-37|1 Ne. 13:37]] · [[3 Nephi 18#^3ne-18-30|≈ 3 Nephi 18:30]]
 
 ![[3 Nephi 27#^3ne-27-17]]
-> [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]]
+> [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]]
 
 ![[3 Nephi 27#^3ne-27-18]]
 
@@ -109,4 +109,4 @@ cssclasses:
 > [[Genesis 6#^gen-6-6|Gen. 6:6]] · [[3 Nephi 17#^3ne-17-14|3 Ne. 17:14]] · [[1 Nephi 12#^1ne-12-11|1 Ne. 12:11 (11–12)]] · [[2 Nephi 26#^2ne-26-9|2 Ne. 26:9 (9–10)]] · [[Alma 45#^alma-45-10|Alma 45:12 (10, 12)]] · [[Helaman 13#^hel-13-5|Hel. 13:6 (5–19)]] · [[John 17#^john-17-12|John 17:12]] · [[3 Nephi 29#^3ne-29-7|3 Ne. 29:7]] · [[Matthew 6#^matt-6-19|Matt. 6:19]] · [[3 Nephi 13#^3ne-13-19|3 Ne. 13:19 (19–21)]]
 
 ![[3 Nephi 27#^3ne-27-33]]
-> [[Matthew 7#^matt-7-13|Matt. 7:13 (13–14)]] · [[Luke 13#^luke-13-24|Luke 13:24]] · [[3 Nephi 14#^3ne-14-13|3 Ne. 14:13]] · [[D&C 22#^dc-22-1|D&amp;C 22:4 (1–4)]] · [[Matthew 7#^matt-7-14|≈ Matthew 7:14]] · [[Matthew 7#^matt-7-13|≈ Matthew 7:13]] · [[Matthew 26#^matt-26-1|≈ Matthew 26:1]] · [[D&C 132#^dc-132-22|≈ D&C 132:22]] · [[3 Nephi 14#^3ne-14-14|≈ 3 Nephi 14:14]] · [[3 Nephi 14#^3ne-14-13|≈ 3 Nephi 14:13]]
+> [[Matthew 7#^matt-7-13|Matt. 7:13 (13–14)]] · [[Luke 13#^luke-13-24|Luke 13:24]] · [[3 Nephi 14#^3ne-14-13|3 Ne. 14:13]] · [[D&C 22#^dc-22-1|D&amp;C 22:4 (1–4)]] · [[Matthew 26#^matt-26-1|≈ Matthew 26:1]] · [[Matthew 7#^matt-7-14|≈ Matthew 7:14]] · [[Matthew 7#^matt-7-13|≈ Matthew 7:13]] · [[D&C 132#^dc-132-22|≈ D&C 132:22]] · [[3 Nephi 14#^3ne-14-14|≈ 3 Nephi 14:14]] · [[3 Nephi 14#^3ne-14-13|≈ 3 Nephi 14:13]]

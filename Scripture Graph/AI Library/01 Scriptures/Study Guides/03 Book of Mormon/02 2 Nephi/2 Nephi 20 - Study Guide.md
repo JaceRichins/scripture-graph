@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 20
 slug: 2ne-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ Scripture: [[2 Nephi 20]] · My notes: [[2 Nephi 20 - My Notes]]
 - [[Isaiah 37]] — 2 footnote cross-references (from [[2 Nephi 20#^2ne-20-13|2 Nephi 20:13]])
 - [[Obadiah 1]] — 2 footnote cross-references (from [[2 Nephi 20#^2ne-20-17|2 Nephi 20:17]])
 - [[Nehemiah 11]] — 2 footnote cross-references (from [[2 Nephi 20#^2ne-20-29|2 Nephi 20:29]])
+- [[Isaiah 10]] — 36 parallel verses, e.g. [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[Isaiah 9]] — 3 parallel verses, e.g. [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]] ↔ [[Isaiah 9#^isa-9-12|Isaiah 9:12]]
 - [[2 Nephi 19]] — 3 parallel verses, e.g. [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]] ↔ [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]]
 - [[Isaiah 7]] — 6 parallel verses, e.g. [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
@@ -66,7 +67,6 @@ Scripture: [[2 Nephi 20]] · My notes: [[2 Nephi 20 - My Notes]]
 - [[Isaiah 11]] — 2 parallel verses, e.g. [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
 - [[Isaiah 24]] — 2 parallel verses, e.g. [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]] ↔ [[Isaiah 24#^isa-24-21|Isaiah 24:21]]
 - [[Joel 3]] — 2 parallel verses, e.g. [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]] ↔ [[Joel 3#^joel-3-18|Joel 3:18]]
-- [[Zechariah 13]] — 2 parallel verses, e.g. [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

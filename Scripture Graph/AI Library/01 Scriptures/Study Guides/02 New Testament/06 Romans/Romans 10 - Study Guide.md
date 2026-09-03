@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 10
 slug: rom-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

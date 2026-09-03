@@ -68,7 +68,7 @@ cssclasses:
 ![[Numbers 18#^num-18-18]]
 
 ![[Numbers 18#^num-18-19]]
-> [[2 Chronicles 13#^2chr-13-5|2 Chr. 13:5]] · [[Leviticus 10#^lev-10-14|≈ Leviticus 10:14]] · [[Leviticus 10#^lev-10-15|≈ Leviticus 10:15]] · [[Leviticus 22#^lev-22-3|≈ Leviticus 22:3]] · [[Exodus 28#^ex-28-38|≈ Exodus 28:38]]
+> [[2 Chronicles 13#^2chr-13-5|2 Chr. 13:5]] · [[Leviticus 22#^lev-22-3|≈ Leviticus 22:3]] · [[Leviticus 10#^lev-10-14|≈ Leviticus 10:14]] · [[Leviticus 10#^lev-10-15|≈ Leviticus 10:15]] · [[Exodus 28#^ex-28-38|≈ Exodus 28:38]]
 
 ![[Numbers 18#^num-18-20]]
 > [[Deuteronomy 10#^deut-10-9|Deut. 10:9]] · [[Deuteronomy 18#^deut-18-1|18:1]] · [[Joshua 13#^josh-13-14|Josh. 13:14]] · [[Deuteronomy 18#^deut-18-1|Deut. 18:1 (1–2)]] · [[Ezekiel 44#^ezek-44-28|Ezek. 44:28]]

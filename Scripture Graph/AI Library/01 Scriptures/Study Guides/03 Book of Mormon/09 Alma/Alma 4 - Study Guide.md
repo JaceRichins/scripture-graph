@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 4
 slug: alma-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ _Not yet developed._
 - [[Sustainable Societies (Elder D. Todd Christofferson, October 2020)|Sustainable Societies]] — Elder D. Todd Christofferson, 2020-October *(explicit citation)*
 - [[Be Perfected in Him (Elder Paul V. Johnson, October 2022)|Be Perfected in Him]] — Elder Paul V. Johnson, 2022-October *(explicit citation)*
 - [[“This Is My Gospel”—“This Is My Church” (Elder Dale G. Renlund, October 2024)|“This Is My Gospel”—“This Is My Church”]] — Elder Dale G. Renlund, 2024-October *(explicit citation)*
+- [[Can Ye Feel So Now (Elder Quentin L. Cook, October 2012)|Can Ye Feel So Now?]] — Elder Quentin L. Cook, 2012-October *(explicit citation)*
 - [[The Parable of the Sower (Elder Dallin H. Oaks, April 2015)|The Parable of the Sower]] — Elder Dallin H. Oaks, 2015-April *(explicit citation)*
 - [[The Healing Ointment of Forgiveness (Elder Kevin R. Duncan, April 2016)|The Healing Ointment of Forgiveness]] — Elder Kevin R. Duncan, 2016-April *(explicit citation)*
 <!-- SG:END conference -->

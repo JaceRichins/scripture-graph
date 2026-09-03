@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 7
 slug: mark-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -74,11 +74,13 @@ _Not yet developed._
 - [[The Joy of a Covenant Relationship with God (Elder Thierry K. Mutombo, April 2026)|The Joy of a Covenant Relationship with God]] — Elder Thierry K. Mutombo, 2026-April *(explicit citation)*
 - [[Followers of Christ (Elder Dallin H. Oaks, April 2013)|Followers of Christ]] — Elder Dallin H. Oaks, 2013-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
+- [[What Manner of Men and Women Ought Ye to Be (Elder Lynn G. Robbins, April 2011)|What Manner of Men and Women Ought Ye to Be?]] — Elder Lynn G. Robbins, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1840-11-01 (Vol. 2 No. 1)** (periodical, 1840-11-01) *(explicit citation)*
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 20
 slug: gen-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,7 +69,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abimelech** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

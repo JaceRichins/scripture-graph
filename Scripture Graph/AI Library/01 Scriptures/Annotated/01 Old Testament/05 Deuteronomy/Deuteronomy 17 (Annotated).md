@@ -20,7 +20,7 @@ cssclasses:
 > [[Leviticus 22#^lev-22-20|Lev. 22:20]] · [[Deuteronomy 25#^deut-25-16|≈ Deuteronomy 25:16]]
 
 ![[Deuteronomy 17#^deut-17-2]]
-> [[Joshua 23#^josh-23-16|Josh. 23:16]] · [[Deuteronomy 15#^deut-15-7|≈ Deuteronomy 15:7]] · [[Deuteronomy 16#^deut-16-5|≈ Deuteronomy 16:5]] · [[Deuteronomy 16#^deut-16-18|≈ Deuteronomy 16:18]]
+> [[Joshua 23#^josh-23-16|Josh. 23:16]] · [[Deuteronomy 16#^deut-16-5|≈ Deuteronomy 16:5]] · [[Deuteronomy 16#^deut-16-18|≈ Deuteronomy 16:18]] · [[Deuteronomy 15#^deut-15-7|≈ Deuteronomy 15:7]]
 
 ![[Deuteronomy 17#^deut-17-3]]
 

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 51
 slug: dc-51
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 51]] · My notes: [[D&C 51 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–8, Edward Partridge is appointed to regulate stewardships and properties; 9–12, The Saints are to deal honestly and receive alike; 13–15, They are to have a bishop’s storehouse and to organize properties according to the Lord’s law; 16–20, Ohio is to be a temporary gathering place.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 42]] — 8 footnote cross-references (from [[D&C 51#^dc-51-2|D&C 51:2]])
+- [[D&C 58]] — 3 footnote cross-references (from [[D&C 51#^dc-51-6|D&C 51:6]])
+- [[D&C 83]] — 2 footnote cross-references (from [[D&C 51#^dc-51-4|D&C 51:4]])
+- [[D&C 60]] — 2 footnote cross-references (from [[D&C 51#^dc-51-8|D&C 51:8]])
+- [[D&C 84]] — 2 footnote cross-references (from [[D&C 51#^dc-51-8|D&C 51:8]])
+- [[Matthew 24]] — 2 footnote cross-references (from [[D&C 51#^dc-51-19|D&C 51:19]])
 - [[D&C 48]] — 2 parallel verses, e.g. [[D&C 51#^dc-51-3|D&C 51:3]] ↔ [[D&C 48#^dc-48-6|D&C 48:6]]
 - [[D&C 38]] — 1 parallel verse, e.g. [[D&C 51#^dc-51-12|D&C 51:12]] ↔ [[D&C 38#^dc-38-34|D&C 38:34]]
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 3
 slug: moses-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,14 +47,20 @@ Moses 3 moves from the sanctification of the seventh day to a focused account of
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 2]] — 14 footnote cross-references (from [[Moses 3#^moses-3-1|Moses 3:1]])
+- [[Abraham 5]] — 10 footnote cross-references (from [[Moses 3#^moses-3-1|Moses 3:1]])
+- [[D&C 29]] — 3 footnote cross-references (from [[Moses 3#^moses-3-1|Moses 3:1]])
+- [[Moses 4]] — 3 footnote cross-references (from [[Moses 3#^moses-3-7|Moses 3:7]])
+- [[Mosiah 13]] — 2 footnote cross-references (from [[Moses 3#^moses-3-3|Moses 3:3]])
+- [[D&C 77]] — 2 footnote cross-references (from [[Moses 3#^moses-3-3|Moses 3:3]])
 - [[Genesis 2]] — 25 parallel verses, e.g. [[Moses 3#^moses-3-5|Moses 3:5]] ↔ [[Genesis 2#^gen-2-5|Genesis 2:5]]
 - [[Abraham 5]] — 19 parallel verses, e.g. [[Moses 3#^moses-3-19|Moses 3:19]] ↔ [[Abraham 5#^abr-5-20|Abraham 5:20]]
+- [[Moses 2]] — 5 parallel verses, e.g. [[Moses 3#^moses-3-20|Moses 3:20]] ↔ [[Moses 2#^moses-2-30|Moses 2:30]]
 - [[Moses 4]] — 4 parallel verses, e.g. [[Moses 3#^moses-3-18|Moses 3:18]] ↔ [[Moses 4#^moses-4-28|Moses 4:28]]
 - [[Genesis 1]] — 1 parallel verse, e.g. [[Moses 3#^moses-3-20|Moses 3:20]] ↔ [[Genesis 1#^gen-1-30|Genesis 1:30]]
 - [[Abraham 4]] — 1 parallel verse, e.g. [[Moses 3#^moses-3-20|Moses 3:20]] ↔ [[Abraham 4#^abr-4-30|Abraham 4:30]]
 - [[Genesis 2]] — 0 parallel verses
 - [[Abraham 5]] — 0 parallel verses
-- [[Moses 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,6 +79,7 @@ The chapter joins several themes without collapsing them into one another. [[Cre
 - [[Your Great Adventure (Elder Dieter F. Uchtdorf, October 2019)|Your Great Adventure]] — Elder Dieter F. Uchtdorf, 2019-October *(explicit citation)*
 - [[Foreordained to Serve (Elder Steven R. Bangerter, April 2024)|Foreordained to Serve]] — Elder Steven R. Bangerter, 2024-April *(explicit citation)*
 - [[The Prophet Joseph Smith (Elder Lawrence E. Corbridge, April 2014)|The Prophet Joseph Smith]] — Elder Lawrence E. Corbridge, 2014-April *(explicit citation)*
+- [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
 - [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
 - [[We Believe in Being Chaste (Elder David A. Bednar, April 2013)|We Believe in Being Chaste]] — Elder David A. Bednar, 2013-April *(explicit citation)*
 <!-- SG:END conference -->

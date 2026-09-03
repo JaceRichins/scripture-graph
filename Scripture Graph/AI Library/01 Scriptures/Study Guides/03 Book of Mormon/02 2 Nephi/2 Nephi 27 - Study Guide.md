@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 27
 slug: 2ne-27
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ Scripture: [[2 Nephi 27]] · My notes: [[2 Nephi 27 - My Notes]]
 - [[Ether 5]] — 3 footnote cross-references (from [[2 Nephi 27#^2ne-27-8|2 Nephi 27:8]])
 - [[1 Nephi 22]] — 2 footnote cross-references (from [[2 Nephi 27#^2ne-27-3|2 Nephi 27:3]])
 - [[Mormon 5]] — 2 footnote cross-references (from [[2 Nephi 27#^2ne-27-6|2 Nephi 27:6]])
+- [[Isaiah 29]] — 19 parallel verses, e.g. [[2 Nephi 27#^2ne-27-27|2 Nephi 27:27]] ↔ [[Isaiah 29#^isa-29-16|Isaiah 29:16]]
 - [[1 Nephi 22]] — 3 parallel verses, e.g. [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]] ↔ [[1 Nephi 22#^1ne-22-8|1 Nephi 22:8]]
 - [[2 Nephi 29]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-23|2 Nephi 27:23]] ↔ [[2 Nephi 29#^2ne-29-9|2 Nephi 29:9]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-32|2 Nephi 27:32]] ↔ [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]]
@@ -59,13 +60,12 @@ Scripture: [[2 Nephi 27]] · My notes: [[2 Nephi 27 - My Notes]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-10|2 Nephi 27:10]] ↔ [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]]
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-10|2 Nephi 27:10]] ↔ [[1 Nephi 14#^1ne-14-26|1 Nephi 14:26]]
 - [[2 Nephi 25]] — 1 parallel verse, e.g. [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]] ↔ [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]]
-- [[Isaiah 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Miracles]]
 - [[Witnesses of the Book of Mormon]]
+- [[Miracles]]
 - [[Book of Mormon (Gospel Topic)]]
 - [[Records and Sacred Writings]]
 - [[Prophecy]]
@@ -95,6 +95,8 @@ The chapter contributes several qualified doctrinal ideas. [[Revelation]] belong
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **07 Fellow Servants** (history) *(explicit citation)*
+- **05 All Is Lost** (history) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

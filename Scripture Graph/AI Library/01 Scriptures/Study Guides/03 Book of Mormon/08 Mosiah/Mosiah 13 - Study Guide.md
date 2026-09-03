@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 13
 slug: mosiah-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ The phrase 'type... of things to come' appears at both v.10 (applied to Abinadi'
 - [[1 Nephi 17]] — 2 footnote cross-references (from [[Mosiah 13#^mosiah-13-3|Mosiah 13:3]])
 - [[Mosiah 17]] — 2 footnote cross-references (from [[Mosiah 13#^mosiah-13-10|Mosiah 13:10]])
 - [[Exodus 20]] — 10 parallel verses, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
+- [[Deuteronomy 5]] — 6 parallel verses, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
 - [[Mosiah 12]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-12|Mosiah 13:12]] ↔ [[Mosiah 12#^mosiah-12-36|Mosiah 12:36]]
 - [[1 Nephi 17]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[1 Nephi 17#^1ne-17-55|1 Nephi 17:55]]
 - [[Mosiah 15]] — 3 parallel verses, e.g. [[Mosiah 13#^mosiah-13-27|Mosiah 13:27]] ↔ [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]]
@@ -61,7 +62,6 @@ The phrase 'type... of things to come' appears at both v.10 (applied to Abinadi'
 - [[Deuteronomy 27]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]]
 - [[Alma 18]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-1|Mosiah 13:1]] ↔ [[Alma 18#^alma-18-18|Alma 18:18]]
 - [[Numbers 14]] — 1 parallel verse, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Numbers 14#^num-14-18|Numbers 14:18]]
-- [[Mosiah 7]] — 1 parallel verse, e.g. [[Mosiah 13#^mosiah-13-34|Mosiah 13:34]] ↔ [[Mosiah 7#^mosiah-7-27|Mosiah 7:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

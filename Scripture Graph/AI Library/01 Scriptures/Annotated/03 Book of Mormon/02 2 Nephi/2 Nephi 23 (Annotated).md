@@ -32,7 +32,7 @@ cssclasses:
 > [[Isaiah 13#^isa-13-5|≈ Isaiah 13:5]]
 
 ![[2 Nephi 23#^2ne-23-6]]
-> [[Isaiah 13#^isa-13-6|≈ Isaiah 13:6]] · [[Joel 1#^joel-1-15|≈ Joel 1:15]] · [[Zephaniah 1#^zeph-1-7|≈ Zephaniah 1:7]]
+> [[Isaiah 13#^isa-13-6|≈ Isaiah 13:6]] · [[Zephaniah 1#^zeph-1-7|≈ Zephaniah 1:7]] · [[Joel 1#^joel-1-15|≈ Joel 1:15]]
 
 ![[2 Nephi 23#^2ne-23-7]]
 > [[Jeremiah 9#^jer-9-7|Jer. 9:7]] · [[D&C 133#^dc-133-41|D&amp;C 133:41]] · [[Isaiah 13#^isa-13-7|≈ Isaiah 13:7]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Haggai
 chapter: 1
 slug: hag-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Haggai 2]] — 11 parallel verses, e.g. [[Haggai 1#^hag-1-1|Haggai 1:1]] ↔ [[Haggai 2#^hag-2-2|Haggai 2:2]]
 - [[Zechariah 6]] — 4 parallel verses, e.g. [[Haggai 1#^hag-1-14|Haggai 1:14]] ↔ [[Zechariah 6#^zech-6-11|Zechariah 6:11]]
 - [[Zechariah 1]] — 4 parallel verses, e.g. [[Haggai 1#^hag-1-15|Haggai 1:15]] ↔ [[Zechariah 1#^zech-1-7|Zechariah 1:7]]
+- [[Haggai 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

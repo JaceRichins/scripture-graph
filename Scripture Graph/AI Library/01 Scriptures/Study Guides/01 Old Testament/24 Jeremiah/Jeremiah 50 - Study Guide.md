@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 50
 slug: jer-50
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -63,23 +63,23 @@ Scripture: [[Jeremiah 50]] · My notes: [[Jeremiah 50 - My Notes]]
 - [[Jeremiah 19]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
 - [[Jeremiah 29]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
 - [[Jeremiah 44]] — 3 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 44#^jer-44-11|Jeremiah 44:11]]
-- [[Jeremiah 43]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]]
+- [[Jeremiah 51]] — 3 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 51#^jer-51-33|Jeremiah 51:33]]
 - [[Isaiah 13]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-39|Jeremiah 50:39]] ↔ [[Isaiah 13#^isa-13-20|Isaiah 13:20]]
 - [[2 Nephi 23]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-39|Jeremiah 50:39]] ↔ [[2 Nephi 23#^2ne-23-20|2 Nephi 23:20]]
+- [[Jeremiah 43]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]]
 - [[Jeremiah 21]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-32|Jeremiah 50:32]] ↔ [[Jeremiah 21#^jer-21-14|Jeremiah 21:14]]
-- [[Jeremiah 7]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Pride]]
-- [[War and Peace]]
 - [[Scattering of Israel]]
 - [[Covenants]]
 - [[Repentance and Forgiveness]]
 - [[Prophecy]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
+- [[Pride]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

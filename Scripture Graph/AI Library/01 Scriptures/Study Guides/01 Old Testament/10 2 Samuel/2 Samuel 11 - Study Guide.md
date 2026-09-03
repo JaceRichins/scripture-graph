@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 11
 slug: 2sam-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[2 Kings 2]] — 3 parallel verses, e.g. [[2 Samuel 11#^2sam-11-11|2 Samuel 11:11]] ↔ [[2 Kings 2#^2kgs-2-2|2 Kings 2:2]]
 - [[Judges 9]] — 2 parallel verses, e.g. [[2 Samuel 11#^2sam-11-21|2 Samuel 11:21]] ↔ [[Judges 9#^judg-9-53|Judges 9:53]]
 - [[1 Chronicles 20]] — 1 parallel verse, e.g. [[2 Samuel 11#^2sam-11-1|2 Samuel 11:1]] ↔ [[1 Chronicles 20#^1chr-20-1|1 Chronicles 20:1]]
+- [[Judges 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,11 +66,14 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abimelech** (reference-entry) *(explicit citation)*
+- **Ammon, Ammonites** (reference-entry) *(explicit citation)*
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

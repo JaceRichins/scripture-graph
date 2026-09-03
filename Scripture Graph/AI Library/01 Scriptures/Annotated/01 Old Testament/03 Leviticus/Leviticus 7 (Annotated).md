@@ -23,13 +23,13 @@ cssclasses:
 > [[Leviticus 4#^lev-4-24|≈ Leviticus 4:24]] · [[Leviticus 4#^lev-4-33|≈ Leviticus 4:33]]
 
 ![[Leviticus 7#^lev-7-3]]
-> [[Exodus 29#^ex-29-22|≈ Exodus 29:22]] · [[Leviticus 3#^lev-3-9|≈ Leviticus 3:9]] · [[Leviticus 3#^lev-3-3|≈ Leviticus 3:3]]
+> [[Leviticus 3#^lev-3-9|≈ Leviticus 3:9]] · [[Leviticus 3#^lev-3-3|≈ Leviticus 3:3]] · [[Exodus 29#^ex-29-22|≈ Exodus 29:22]]
 
 ![[Leviticus 7#^lev-7-4]]
-> [[Exodus 29#^ex-29-13|≈ Exodus 29:13]] · [[Exodus 29#^ex-29-22|≈ Exodus 29:22]] · [[Leviticus 3#^lev-3-4|≈ Leviticus 3:4]] · [[Leviticus 3#^lev-3-10|≈ Leviticus 3:10]] · [[Leviticus 3#^lev-3-15|≈ Leviticus 3:15]] · [[Leviticus 4#^lev-4-9|≈ Leviticus 4:9]]
+> [[Leviticus 3#^lev-3-4|≈ Leviticus 3:4]] · [[Leviticus 3#^lev-3-10|≈ Leviticus 3:10]] · [[Leviticus 3#^lev-3-15|≈ Leviticus 3:15]] · [[Exodus 29#^ex-29-13|≈ Exodus 29:13]] · [[Exodus 29#^ex-29-22|≈ Exodus 29:22]] · [[Leviticus 4#^lev-4-9|≈ Leviticus 4:9]]
 
 ![[Leviticus 7#^lev-7-5]]
-> [[Leviticus 8#^lev-8-21|≈ Leviticus 8:21]] · [[Leviticus 8#^lev-8-28|≈ Leviticus 8:28]] · [[Leviticus 22#^lev-22-27|≈ Leviticus 22:27]] · [[Exodus 29#^ex-29-25|≈ Exodus 29:25]] · [[Exodus 29#^ex-29-18|≈ Exodus 29:18]] · [[Exodus 29#^ex-29-41|≈ Exodus 29:41]]
+> [[Leviticus 8#^lev-8-21|≈ Leviticus 8:21]] · [[Leviticus 8#^lev-8-28|≈ Leviticus 8:28]] · [[Leviticus 22#^lev-22-27|≈ Leviticus 22:27]] · [[Leviticus 3#^lev-3-16|≈ Leviticus 3:16]] · [[Leviticus 3#^lev-3-3|≈ Leviticus 3:3]] · [[Leviticus 3#^lev-3-9|≈ Leviticus 3:9]]
 
 ![[Leviticus 7#^lev-7-6]]
 > [[Leviticus 6#^lev-6-29|≈ Leviticus 6:29]]
@@ -67,10 +67,10 @@ cssclasses:
 ![[Leviticus 7#^lev-7-19]]
 
 ![[Leviticus 7#^lev-7-20]]
-> [[2 Nephi 2#^2ne-2-5|2 Ne. 2:5]] · [[D&C 1#^dc-1-14|D&amp;C 1:14]] · [[Numbers 15#^num-15-30|≈ Numbers 15:30]] · [[Numbers 19#^num-19-13|≈ Numbers 19:13]] · [[Numbers 19#^num-19-20|≈ Numbers 19:20]] · [[Genesis 17#^gen-17-14|≈ Genesis 17:14]] · [[Exodus 12#^ex-12-19|≈ Exodus 12:19]] · [[Exodus 12#^ex-12-15|≈ Exodus 12:15]]
+> [[2 Nephi 2#^2ne-2-5|2 Ne. 2:5]] · [[D&C 1#^dc-1-14|D&amp;C 1:14]] · [[Numbers 15#^num-15-30|≈ Numbers 15:30]] · [[Numbers 19#^num-19-13|≈ Numbers 19:13]] · [[Numbers 19#^num-19-20|≈ Numbers 19:20]] · [[Leviticus 22#^lev-22-3|≈ Leviticus 22:3]] · [[Genesis 17#^gen-17-14|≈ Genesis 17:14]] · [[Exodus 12#^ex-12-19|≈ Exodus 12:19]]
 
 ![[Leviticus 7#^lev-7-21]]
-> [[Numbers 15#^num-15-30|≈ Numbers 15:30]] · [[Numbers 19#^num-19-13|≈ Numbers 19:13]] · [[Numbers 19#^num-19-20|≈ Numbers 19:20]] · [[Genesis 17#^gen-17-14|≈ Genesis 17:14]] · [[Exodus 12#^ex-12-19|≈ Exodus 12:19]] · [[Exodus 12#^ex-12-15|≈ Exodus 12:15]]
+> [[Numbers 15#^num-15-30|≈ Numbers 15:30]] · [[Numbers 19#^num-19-13|≈ Numbers 19:13]] · [[Numbers 19#^num-19-20|≈ Numbers 19:20]] · [[Leviticus 22#^lev-22-3|≈ Leviticus 22:3]] · [[Genesis 17#^gen-17-14|≈ Genesis 17:14]] · [[Exodus 12#^ex-12-19|≈ Exodus 12:19]]
 
 ![[Leviticus 7#^lev-7-22]]
 > [[D&C 1#^dc-1-38|D&amp;C 1:38]]
@@ -81,12 +81,12 @@ cssclasses:
 > [[Ezekiel 4#^ezek-4-14|Ezek. 4:14]]
 
 ![[Leviticus 7#^lev-7-25]]
-> [[Leviticus 3#^lev-3-17|Lev. 3:17]] · [[Leviticus 8#^lev-8-21|≈ Leviticus 8:21]] · [[Leviticus 8#^lev-8-28|≈ Leviticus 8:28]] · [[Genesis 17#^gen-17-14|≈ Genesis 17:14]] · [[Leviticus 22#^lev-22-27|≈ Leviticus 22:27]] · [[Exodus 29#^ex-29-18|≈ Exodus 29:18]] · [[Exodus 29#^ex-29-25|≈ Exodus 29:25]]
+> [[Leviticus 3#^lev-3-17|Lev. 3:17]] · [[Leviticus 8#^lev-8-21|≈ Leviticus 8:21]] · [[Leviticus 8#^lev-8-28|≈ Leviticus 8:28]] · [[Leviticus 22#^lev-22-27|≈ Leviticus 22:27]] · [[Leviticus 3#^lev-3-3|≈ Leviticus 3:3]] · [[Leviticus 3#^lev-3-9|≈ Leviticus 3:9]] · [[Leviticus 3#^lev-3-14|≈ Leviticus 3:14]]
 
 ![[Leviticus 7#^lev-7-26]]
 
 ![[Leviticus 7#^lev-7-27]]
-> [[Numbers 15#^num-15-30|≈ Numbers 15:30]] · [[Numbers 19#^num-19-13|≈ Numbers 19:13]] · [[Numbers 19#^num-19-20|≈ Numbers 19:20]] · [[Genesis 17#^gen-17-14|≈ Genesis 17:14]] · [[Exodus 12#^ex-12-19|≈ Exodus 12:19]] · [[Exodus 12#^ex-12-15|≈ Exodus 12:15]]
+> [[Numbers 15#^num-15-30|≈ Numbers 15:30]] · [[Numbers 19#^num-19-13|≈ Numbers 19:13]] · [[Numbers 19#^num-19-20|≈ Numbers 19:20]] · [[Leviticus 22#^lev-22-3|≈ Leviticus 22:3]] · [[Genesis 17#^gen-17-14|≈ Genesis 17:14]] · [[Exodus 12#^ex-12-19|≈ Exodus 12:19]]
 
 ![[Leviticus 7#^lev-7-28]]
 

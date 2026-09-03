@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 1
 slug: judg-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,15 +55,16 @@ The chapter broadly moves toward increasingly prominent incomplete occupation, b
 - [[1 Samuel 15]] — 1 footnote cross-reference (from [[Judges 1#^judg-1-16|Judges 1:16]])
 - [[1 Chronicles 2]] — 1 footnote cross-reference (from [[Judges 1#^judg-1-16|Judges 1:16]])
 - [[Deuteronomy 34]] — 1 footnote cross-reference (from [[Judges 1#^judg-1-16|Judges 1:16]])
+- [[Joshua 15]] — 6 parallel verses, e.g. [[Judges 1#^judg-1-15|Judges 1:15]] ↔ [[Joshua 15#^josh-15-19|Joshua 15:19]]
 - [[Joshua 10]] — 6 parallel verses, e.g. [[Judges 1#^judg-1-8|Judges 1:8]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
 - [[Joshua 17]] — 4 parallel verses, e.g. [[Judges 1#^judg-1-27|Judges 1:27]] ↔ [[Joshua 17#^josh-17-11|Joshua 17:11]]
 - [[Judges 20]] — 2 parallel verses, e.g. [[Judges 1#^judg-1-25|Judges 1:25]] ↔ [[Judges 20#^judg-20-37|Judges 20:37]]
 - [[Job 1]] — 2 parallel verses, e.g. [[Judges 1#^judg-1-8|Judges 1:8]] ↔ [[Job 1#^job-1-15|Job 1:15]]
 - [[Joshua 16]] — 1 parallel verse, e.g. [[Judges 1#^judg-1-29|Judges 1:29]] ↔ [[Joshua 16#^josh-16-10|Joshua 16:10]]
+- [[Judges 3]] — 1 parallel verse, e.g. [[Judges 1#^judg-1-13|Judges 1:13]] ↔ [[Judges 3#^judg-3-9|Judges 3:9]]
 - [[Joshua 15]] — 0 parallel verses
 - [[Joshua 16]] — 0 parallel verses
 - [[Joshua 17]] — 0 parallel verses
-- [[Joshua 15]] — 0 parallel verses
 - [[Judges 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -91,7 +92,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Asher** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

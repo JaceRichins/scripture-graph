@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 89
 slug: dc-89
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,14 +45,20 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 84]] — 3 footnote cross-references (from [[D&C 89#^dc-89-2|D&C 89:2]])
+- [[Daniel 1]] — 3 footnote cross-references (from [[D&C 89#^dc-89-14|D&C 89:14]])
+- [[D&C 27]] — 2 footnote cross-references (from [[D&C 89#^dc-89-5|D&C 89:5]])
+- [[Genesis 1]] — 2 footnote cross-references (from [[D&C 89#^dc-89-10|D&C 89:10]])
+- [[D&C 59]] — 2 footnote cross-references (from [[D&C 89#^dc-89-10|D&C 89:10]])
+- [[D&C 49]] — 2 footnote cross-references (from [[D&C 89#^dc-89-12|D&C 89:12]])
+- [[D&C 49]] — 2 parallel verses, e.g. [[D&C 89#^dc-89-14|D&C 89:14]] ↔ [[D&C 49#^dc-49-19|D&C 49:19]]
+- [[D&C 59]] — 1 parallel verse, e.g. [[D&C 89#^dc-89-14|D&C 89:14]] ↔ [[D&C 59#^dc-59-16|D&C 59:16]]
 - [[Daniel 2]] — 1 parallel verse, e.g. [[D&C 89#^dc-89-14|D&C 89:14]] ↔ [[Daniel 2#^dan-2-38|Daniel 2:38]]
 - [[2 Nephi 2]] — 1 parallel verse, e.g. [[D&C 89#^dc-89-14|D&C 89:14]] ↔ [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]]
 - [[D&C 118]] — 1 parallel verse, e.g. [[D&C 89#^dc-89-21|D&C 89:21]] ↔ [[D&C 118#^dc-118-3|D&C 118:3]]
 - [[Isaiah 40]] — 0 parallel verses
 - [[Exodus 12]] — 0 parallel verses
 - [[D&C 27]] — 0 parallel verses
-- [[D&C 49]] — 0 parallel verses
-- [[D&C 59]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,12 +80,15 @@ The chapter's theology is strongly embodied: divine instruction addresses food, 
 - [[“The Principles of My Gospel” (Elder David A. Bednar, April 2021)|“The Principles of My Gospel”]] — Elder David A. Bednar, 2021-April *(explicit citation)*
 - [[In Awe of Christ and His Gospel (Elder Ulisses Soares, April 2022)|In Awe of Christ and His Gospel]] — Elder Ulisses Soares, 2022-April *(explicit citation)*
 - [[The Lord’s Way (Elder Stanley G. Ellis, April 2013)|The Lord’s Way]] — Elder Stanley G. Ellis, 2013-April *(explicit citation)*
+- [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
+- [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Word of Wisdom** (history) *(explicit citation)*
 - **Word of Wisdom** (reference-entry) *(explicit citation)*
+- **15 Holy Places** (history) *(explicit citation)*
 - **Peace and War** (history) *(explicit citation)*
 - **Word of Wisdom** (reference-entry) *(explicit citation)*
 - **Word of Wisdom** (reference-entry) *(explicit citation)*

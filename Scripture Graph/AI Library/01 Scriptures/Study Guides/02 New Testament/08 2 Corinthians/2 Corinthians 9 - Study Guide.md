@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 9
 slug: 2cor-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

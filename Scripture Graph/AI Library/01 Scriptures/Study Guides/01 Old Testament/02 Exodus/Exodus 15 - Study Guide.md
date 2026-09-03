@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 15
 slug: ex-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ Scripture: [[Exodus 15]] · My notes: [[Exodus 15 - My Notes]]
 - [[Hosea 2]] — 1 footnote cross-reference (from [[Exodus 15#^ex-15-1|Exodus 15:1]])
 - [[2 Nephi 22]] — 1 footnote cross-reference (from [[Exodus 15#^ex-15-2|Exodus 15:2]])
 - [[2 Samuel 22]] — 1 footnote cross-reference (from [[Exodus 15#^ex-15-2|Exodus 15:2]])
+- [[Numbers 33]] — 1 parallel verse, e.g. [[Exodus 15#^ex-15-27|Exodus 15:27]] ↔ [[Numbers 33#^num-33-9|Numbers 33:9]]
 - [[Deuteronomy 13]] — 1 parallel verse, e.g. [[Exodus 15#^ex-15-26|Exodus 15:26]] ↔ [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]]
-- [[Numbers 33]] — 0 parallel verses
 - [[Exodus 14]] — 0 parallel verses
 - [[Joshua 2]] — 0 parallel verses
 - [[Isaiah 12]] — 0 parallel verses

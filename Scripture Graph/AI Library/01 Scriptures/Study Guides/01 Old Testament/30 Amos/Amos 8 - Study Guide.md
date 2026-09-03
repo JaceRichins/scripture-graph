@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 8
 slug: amos-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Micah 5]] — 1 parallel verse, e.g. [[Amos 8#^amos-8-9|Amos 8:9]] ↔ [[Micah 5#^micah-5-10|Micah 5:10]]
 - [[Zephaniah 1]] — 1 parallel verse, e.g. [[Amos 8#^amos-8-9|Amos 8:9]] ↔ [[Zephaniah 1#^zeph-1-10|Zephaniah 1:10]]
 - [[Zechariah 13]] — 1 parallel verse, e.g. [[Amos 8#^amos-8-9|Amos 8:9]] ↔ [[Zechariah 13#^zech-13-2|Zechariah 13:2]]
+- [[Hosea 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +71,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Virtue of the Word (Elder Mark D. Eddy, October 2022)|The Virtue of the Word]] — Elder Mark D. Eddy, 2022-October *(explicit citation)*
 - [[It’s a Miracle (Elder Neil L. Andersen, April 2013)|It’s a Miracle]] — Elder Neil L. Andersen, 2013-April *(explicit citation)*
+- [[Can Ye Feel So Now (Elder Quentin L. Cook, October 2012)|Can Ye Feel So Now?]] — Elder Quentin L. Cook, 2012-October *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
 <!-- SG:END conference -->
 

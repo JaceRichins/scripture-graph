@@ -1,0 +1,205 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Barbara Thompson
+year: '2011'
+month: October
+url: https://www.churchofjesuschrist.org/general-conference/2011/10/cleave-unto-the-covenants?lang=eng
+doc_id: talk:2011-october-cleave-unto-the-covenants
+full_text: true
+---
+
+# Cleave unto the Covenants
+
+**Speaker:** Barbara Thompson · **Conference:** October 2011 · [source](https://www.churchofjesuschrist.org/general-conference/2011/10/cleave-unto-the-covenants?lang=eng)
+
+Cleave unto the Covenants
+
+By Barbara Thompson
+
+Second Counselor in the Relief Society General Presidency
+
+As we have faith in Christ and cleave unto our covenants, we will receive the joy spoken of in the holy scriptures and promised by our latter-day prophets.
+
+“Lift up thy heart and rejoice, and cleave unto the covenants which thou hast made.” I cannot read this scripture without feeling joy. My heart rejoices as I think of the promises and many blessings which have been part of my life as I have sought to cleave unto the covenants which I have made with my Heavenly Father.
+
+Since both of my parents have passed away, it became necessary this year to clean out their home to prepare it for sale. During these past few months, as my siblings and I cleaned and sorted through my parents’ home, we found family histories and many important papers and documents. It has been fascinating to read through personal histories and patriarchal blessings of my parents and grandparents. I have been reminded of the covenants they made and kept.
+
+My grandmother Ellen Hanks Rymer was a young mother in 1912 when she received her patriarchal blessing. When I read her blessing, these lines jumped off the page and stayed in my mind: “Thou wast chosen from before the foundation of the earth, and a chosen spirit to come forth in this day. … Thy testimony shall be magnified and thou shalt be able to testify. … The destroyer has sought to destroy thee, but if thou wilt cleave unto thy God, he [the destroyer] shall not have power to harm thee. Thou through thy faithfulness shalt have great power and the destroyer shall flee from before thee because of thy righteousness. … When the hour of fear and trials come upon thee if thou wilt retire to thy secret closet in prayer thy heart shall be comforted and the obstacles removed.”
+
+My grandmother was promised that if she would keep her covenants and stay close to God, Satan could have no power over her. She would find comfort and help in her trials. These promises were fulfilled in her life.
+
+Today I want to talk about (1) the importance of cleaving unto covenants and (2) the joy and protection that come from keeping our covenants.
+
+Some of the examples I will use come from Daughters in My Kingdom: The History and Work of Relief Society. The book is filled with examples of women who have found great joy in keeping covenants.
+
+The Importance of Cleaving unto Covenants
+
+The Bible Dictionary tells us that a covenant is a contract made between God and man. “God in his good pleasure fixes the terms, which man accepts. … The gospel is so arranged that principles and ordinances are received by covenant placing the recipient under strong obligation and responsibility to honor the commitment.” In the phrase “cleave unto covenants,” the word cleave means “to adhere firmly and closely” to something.
+
+In the scriptures we learn of men and women who have made covenants with God. God has given instructions on what to do to honor those covenants, and then as those covenants have been kept, the promised blessings have followed.
+
+For example, through the ordinance of baptism, we make a covenant with our Heavenly Father. We prepare ourselves for baptism by having faith in the Lord Jesus Christ, repenting of our sins, and being willing to take upon us the name of Christ. We make a commitment to keep the commandments of God and remember the Savior always. We covenant to “bear one another’s burdens, that they may be light.” We indicate that we are willing to mourn with those who mourn and comfort those who need comfort.
+
+In holy temples other sacred ordinances are received and other covenants are made. In the early days of the Restoration, the Prophet Joseph Smith was anxious for the Saints to have the promised blessings of the temple. The Lord said, “Let this house be built unto my name, that I may reveal mine ordinances therein unto my people.”
+
+“One of the Lord’s purposes in organizing the Relief Society was to prepare His daughters for the greater blessings of the priesthood found in the ordinances and covenants of the temple. The … sisters in Nauvoo anticipated the completion of the temple with great excitement, for they knew, as the Prophet Joseph Smith promised Mercy Fielding Thompson, that the endowment would bring them ‘out of darkness into marvelous light.’”
+
+“More than 5,000 Saints thronged the Nauvoo Temple after its dedication so they could receive the endowment and the sealing ordinance before embarking on their journey” to the Salt Lake Valley. President Brigham Young and many Church leaders and temple workers spent their time, day and night, serving in the temple so this important work could be performed for the Saints.
+
+Our covenants sustain us whether in good times or in difficult times. President Boyd K. Packer reminds us that “we are a covenant people. We covenant to give of our resources in time and money and talent—all we are and all we possess—to the interest of the kingdom of God upon the earth. In simple terms, we covenant to do good. We are a covenant people, and the temple is the center of our covenants. It is the source of the covenant.”
+
+The scriptures remind us, “And this shall be our covenant—that we will walk in all the ordinances of the Lord.”
+
+Great are the blessings we receive as we cleave unto our covenants.
+
+Joy and Protection Come from Keeping Our Covenants
+
+In the Book of Mormon we read King Benjamin’s sermon. He taught the people about Jesus Christ, that He would come to the earth and suffer all manner of afflictions. He taught the people that Christ would atone for the sins of all mankind and that His name was the only name by which man could obtain salvation.
+
+After listening to these beautiful teachings, the people were humbled and desired with their whole hearts to be free of sin and to be purified. They repented and professed their faith in Jesus Christ. They made covenants with God that they would keep His commandments.
+
+“The Spirit of the Lord came upon them, and they were filled with joy, having received a remission of their sins, and having peace of conscience, because of the exceeding faith which they had in Jesus Christ.”
+
+Another example of the joy which comes through faithfulness in keeping the commandments of God and sharing His gospel with others is demonstrated by Ammon. Ammon and his brethren were instrumental in helping thousands of people come unto Christ. These are some of the words Ammon used to describe his feelings as so many people were baptized and made covenants with God:
+
+“How great reason have we to rejoice.”
+
+“My joy is full, yea, my heart is brim with joy, and I will rejoice in my God.”
+
+“I cannot say the smallest part which I feel.”
+
+“There never were men that had so great reason to rejoice as we.”
+
+Making and keeping sacred covenants enables us to have the Holy Spirit with us. This is the Spirit that “shall fill your soul with joy.”
+
+World War II caused much suffering for many people throughout the world. The Saints in Germany endured many trials. A faithful Relief Society president in Stuttgart, Germany, was Sister Maria Speidel. In speaking of their trials, she said: “Our trust in the Lord and our testimony of his Church have been our pillar of strength. … With joy we sing the songs of Zion and put our trust in the Lord. He maketh all things well.”
+
+Again, as members kept their covenants, they felt joy even in the face of tremendous challenges.
+
+Sarah Rich was a righteous woman living in Nauvoo who was called to serve in the temple prior to the Saints being expelled from the city. These are her words about the blessings of temple covenants: “Many were the blessings we had received in the house of the Lord, which has caused us joy and comfort in the midst of all our sorrows and enabled us to have faith in God, knowing He would guide us and sustain us in the unknown journey that lay before us.”
+
+Earlier the Saints had finished the Kirtland Temple, and many participated in the dedication. After the dedication the temple was received by the Lord. The Lord told them to “greatly rejoice in consequence of the blessings which shall be poured out … upon the heads of [His] people.”
+
+As more and more holy temples have been built across the earth, I have seen the blessings that come into the lives of the members. In 2008 I witnessed the joy on the faces of a couple from Ukraine as they told me about going to Freiberg, Germany, to receive their temple ordinances. The trip to the temple was a 27-hour bus ride each way for these dedicated members, and they were not able to go often. They were thrilled that the Kyiv Ukraine Temple would soon be completed and they would be able to attend much more often. That temple is now open, and thousands enjoy the blessings there.
+
+In reading from my grandmother’s personal history, I learned of her great joy in her covenants. She loved going to the temple and performing the ordinances for thousands of those who had died. It was her life’s mission. She served as a temple worker for over 20 years in the Manti Utah Temple. She wrote that she had experienced many miraculous healings in order for her to raise her children and to serve others by doing their work in the temple. As her grandchildren, if we knew anything about Grandma Rymer, it was that she was a righteous woman who kept her covenants and wanted us to do the same. When people sift through our possessions after we have died, will they find evidence that we have kept our covenants?
+
+Our beloved prophet, President Thomas S. Monson, told us in our last general conference: “As you and I go to the holy houses of God, as we remember the covenants we make within, we will be more able to bear every trial and to overcome each temptation. In this sacred sanctuary we will find peace; we will be renewed and fortified.”
+
+Once again: “Lift up thy heart and rejoice, and cleave unto the covenants which thou hast made.” Keeping covenants is true joy and happiness. This is comfort and peace. This is protection from the evils of the world. Keeping our covenants will help us in times of trial.
+
+I testify that as we have faith in Christ and cleave unto our covenants, we will receive the joy spoken of in the holy scriptures and promised by our latter-day prophets.
+
+Dear sisters, I love you and hope you will experience this great joy in your own lives. In the name of Jesus Christ, amen.
+
+Notes
+
+Doctrine and Covenants 25:13.
+
+Patriarchal blessing given by Walter E. Hanks, Oct. 25, 1912, in Lyman, Wayne County, Utah.
+
+Bible Dictionary, “Covenant.”
+
+Merriam-Webster’s Collegiate Dictionary, 11th ed. (2003), “cleave.”
+
+See Mosiah 18:8–9; see also Thomas S. Monson, “What Have I Done for Someone Today?” Liahona and Ensign, Nov. 2009, 85–87.
+
+Doctrine and Covenants 124:40.
+
+Daughters in My Kingdom: The History and Work of Relief Society (2011), 131–32.
+
+Daughters in My Kingdom, 29.
+
+Boyd K. Packer, The Holy Temple (1980), 170.
+
+Doctrine and Covenants 136:4.
+
+See Mosiah 3:5–18.
+
+See Mosiah 4:2; 5:5.
+
+Mosiah 4:3.
+
+Alma 26:1.
+
+Alma 26:11.
+
+Alma 26:16.
+
+Alma 26:35.
+
+Doctrine and Covenants 11:13.
+
+Maria Speidel, in Daughters in My Kingdom, 76.
+
+Sarah Rich, in Daughters in My Kingdom, 30.
+
+Doctrine and Covenants 110:9–10.
+
+Thomas S. Monson, “The Holy Temple—a Beacon to the World,” Liahona and Ensign, May 2011, 93.
+
+Doctrine and Covenants 25:13.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28851334", "context": "", "text": "
+Doctrine and Covenants 25:13.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/25?lang=eng&id=p13#p13", "text": "Doctrine and Covenants 25:13"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28851336", "context": "", "text": "
+Patriarchal blessing given by Walter E. Hanks, Oct. 25, 1912, in Lyman, Wayne County, Utah.
+"}, "note3": {"id": "note3", "marker": "3.", "pid": "28851341", "context": "", "text": "
+Bible Dictionary, “Covenant.”
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bd/covenant?lang=eng", "text": "Covenant"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28851341", "context": "", "text": "
+Merriam-Webster’s Collegiate Dictionary, 11th ed. (2003), “cleave.”
+"}, "note5": {"id": "note5", "marker": "5.", "pid": "28851343", "context": "", "text": "
+See Mosiah 18:8–9; see also Thomas S. Monson, “What Have I Done for Someone Today?” Liahona and Ensign, Nov. 2009, 85–87.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p9#p8", "text": "Mosiah 18:8–9"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28851344", "context": "", "text": "
+Doctrine and Covenants 124:40.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/124?lang=eng&id=p40#p40", "text": "Doctrine and Covenants 124:40"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28851345", "context": "", "text": "
+Daughters in My Kingdom: The History and Work of Relief Society (2011), 131–32.
+"}, "note8": {"id": "note8", "marker": "8.", "pid": "28851346", "context": "", "text": "
+Daughters in My Kingdom, 29.
+"}, "note9": {"id": "note9", "marker": "9.", "pid": "28851347", "context": "", "text": "
+Boyd K. Packer, The Holy Temple (1980), 170.
+"}, "note10": {"id": "note10", "marker": "10.", "pid": "28851348", "context": "", "text": "
+Doctrine and Covenants 136:4.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/136?lang=eng&id=p4#p4", "text": "Doctrine and Covenants 136:4"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "28851351", "context": "", "text": "
+See Mosiah 3:5–18.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/3?lang=eng&id=p5-p18#p5", "text": "Mosiah 3:5–18"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "28851352", "context": "", "text": "
+See Mosiah 4:2; 5:5.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/4?lang=eng&id=p2#p2", "text": "Mosiah 4:2"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/5?lang=eng&id=p5#p5", "text": "5:5"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "28851353", "context": "", "text": "
+Mosiah 4:3.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/4?lang=eng&id=p3#p3", "text": "Mosiah 4:3"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "28851355", "context": "", "text": "
+Alma 26:1.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/26?lang=eng&id=p1#p1", "text": "Alma 26:1"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "28851356", "context": "", "text": "
+Alma 26:11.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/26?lang=eng&id=p11#p11", "text": "Alma 26:11"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "28851357", "context": "", "text": "
+Alma 26:16.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/26?lang=eng&id=p16#p16", "text": "Alma 26:16"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "28851358", "context": "", "text": "
+Alma 26:35.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/26?lang=eng&id=p35#p35", "text": "Alma 26:35"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "28851359", "context": "", "text": "
+Doctrine and Covenants 11:13.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/11?lang=eng&id=p13#p13", "text": "Doctrine and Covenants 11:13"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "28851360", "context": "", "text": "
+Maria Speidel, in Daughters in My Kingdom, 76.
+"}, "note20": {"id": "note20", "marker": "20.", "pid": "28851362", "context": "", "text": "
+Sarah Rich, in Daughters in My Kingdom, 30.
+"}, "note21": {"id": "note21", "marker": "21.", "pid": "28851363", "context": "", "text": "
+Doctrine and Covenants 110:9–10.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/110?lang=eng&id=p9-p10#p9", "text": "Doctrine and Covenants 110:9–10"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "28851366", "context": "", "text": "
+Thomas S. Monson, “The Holy Temple—a Beacon to the World,” Liahona and Ensign, May 2011, 93.
+"}, "note23": {"id": "note23", "marker": "23.", "pid": "28851367", "context": "", "text": "
+Doctrine and Covenants 25:13.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/25?lang=eng&id=p13#p13", "text": "Doctrine and Covenants 25:13"}]}}
+
+## Scripture citations in this talk
+
+- [[Alma 26]] (12×)
+- [[D&C 25]] (6×)
+- [[Mosiah 4]] (6×)
+- [[Mosiah 18]] (3×)
+- [[D&C 124]] (3×)
+- [[D&C 136]] (3×)
+- [[Mosiah 3]] (3×)
+- [[D&C 11]] (3×)
+- [[D&C 110]] (3×)
+- [[Mosiah 5]] (2×)

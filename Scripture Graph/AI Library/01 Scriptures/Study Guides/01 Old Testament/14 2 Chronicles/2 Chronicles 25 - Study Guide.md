@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 25
 slug: 2chr-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ Scripture: [[2 Chronicles 25]] · My notes: [[2 Chronicles 25 - My Notes]]
 - [[2 Nephi 9]] — 1 footnote cross-reference (from [[2 Chronicles 25#^2chr-25-15|2 Chronicles 25:15]])
 - [[2 Samuel 2]] — 1 footnote cross-reference (from [[2 Chronicles 25#^2chr-25-17|2 Chronicles 25:17]])
 - [[2 Chronicles 32]] — 1 footnote cross-reference (from [[2 Chronicles 25#^2chr-25-23|2 Chronicles 25:23]])
+- [[2 Kings 14]] — 18 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-18|2 Chronicles 25:18]] ↔ [[2 Kings 14#^2kgs-14-9|2 Kings 14:9]]
 - [[2 Kings 15]] — 9 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-1|2 Chronicles 25:1]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
 - [[Numbers 1]] — 14 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-5|2 Chronicles 25:5]] ↔ [[Numbers 1#^num-1-3|Numbers 1:3]]
 - [[1 Kings 15]] — 9 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-26|2 Chronicles 25:26]] ↔ [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]]
@@ -60,16 +61,15 @@ Scripture: [[2 Chronicles 25]] · My notes: [[2 Chronicles 25 - My Notes]]
 - [[2 Chronicles 27]] — 4 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-1|2 Chronicles 25:1]] ↔ [[2 Chronicles 27#^2chr-27-1|2 Chronicles 27:1]]
 - [[2 Kings 18]] — 3 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-1|2 Chronicles 25:1]] ↔ [[2 Kings 18#^2kgs-18-2|2 Kings 18:2]]
 - [[2 Chronicles 20]] — 3 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-1|2 Chronicles 25:1]] ↔ [[2 Chronicles 20#^2chr-20-31|2 Chronicles 20:31]]
-- [[1 Kings 14]] — 4 parallel verses, e.g. [[2 Chronicles 25#^2chr-25-1|2 Chronicles 25:1]] ↔ [[1 Kings 14#^1kgs-14-21|1 Kings 14:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[War and Peace]]
 - [[Law of Moses]]
 - [[Pride]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

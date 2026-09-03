@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 20
 slug: 1chr-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[2 Samuel 21]] — 5 parallel verses, e.g. [[1 Chronicles 20#^1chr-20-8|1 Chronicles 20:8]] ↔ [[2 Samuel 21#^2sam-21-22|2 Samuel 21:22]]
 - [[2 Samuel 11]] — 1 parallel verse, e.g. [[1 Chronicles 20#^1chr-20-1|1 Chronicles 20:1]] ↔ [[2 Samuel 11#^2sam-11-1|2 Samuel 11:1]]
 - [[2 Samuel 12]] — 1 parallel verse, e.g. [[1 Chronicles 20#^1chr-20-3|1 Chronicles 20:3]] ↔ [[2 Samuel 12#^2sam-12-31|2 Samuel 12:31]]
+- [[2 Samuel 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

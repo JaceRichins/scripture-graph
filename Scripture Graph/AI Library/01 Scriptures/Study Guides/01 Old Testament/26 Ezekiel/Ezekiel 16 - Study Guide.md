@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 16
 slug: ezek-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,8 +53,10 @@ _Not yet developed._
 - [[Jeremiah 3]] — 2 footnote cross-references (from [[Ezekiel 16#^ezek-16-46|Ezekiel 16:46]])
 - [[Ezekiel 20]] — 1 footnote cross-reference (from [[Ezekiel 16#^ezek-16-2|Ezekiel 16:2]])
 - [[D&C 88]] — 1 footnote cross-reference (from [[Ezekiel 16#^ezek-16-2|Ezekiel 16:2]])
+- [[Ezekiel 35]] — 5 parallel verses, e.g. [[Ezekiel 16#^ezek-16-62|Ezekiel 16:62]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
+- [[Ezekiel 20]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
 - [[Ezekiel 14]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
-- [[Ezekiel 20]] — 0 parallel verses
+- [[Ezekiel 23]] — 0 parallel verses
 - [[Ezekiel 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

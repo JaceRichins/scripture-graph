@@ -56,7 +56,7 @@ cssclasses:
 ![[Numbers 34#^num-34-16]]
 
 ![[Numbers 34#^num-34-17]]
-> [[Joshua 14#^josh-14-1|Josh. 14:1]] · [[Joshua 19#^josh-19-51|Josh. 19:51]] · [[Numbers 13#^num-13-16|≈ Numbers 13:16]] · [[Numbers 32#^num-32-28|≈ Numbers 32:28]] · [[Joshua 14#^josh-14-1|≈ Joshua 14:1]] · [[Joshua 19#^josh-19-51|≈ Joshua 19:51]]
+> [[Joshua 14#^josh-14-1|Josh. 14:1]] · [[Joshua 19#^josh-19-51|Josh. 19:51]] · [[Numbers 13#^num-13-16|≈ Numbers 13:16]] · [[Joshua 14#^josh-14-1|≈ Joshua 14:1]] · [[Numbers 32#^num-32-28|≈ Numbers 32:28]] · [[Joshua 19#^josh-19-51|≈ Joshua 19:51]]
 
 ![[Numbers 34#^num-34-18]]
 
@@ -64,29 +64,29 @@ cssclasses:
 > [[Numbers 13#^num-13-6|≈ Numbers 13:6]]
 
 ![[Numbers 34#^num-34-20]]
-> [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-1|≈ Joshua 19:1]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]]
+> [[Joshua 15#^josh-15-1|≈ Joshua 15:1]] · [[Joshua 15#^josh-15-20|≈ Joshua 15:20]] · [[Joshua 15#^josh-15-21|≈ Joshua 15:21]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-1|≈ Joshua 19:1]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]]
 
 ![[Numbers 34#^num-34-21]]
 
 ![[Numbers 34#^num-34-22]]
-> [[Joshua 19#^josh-19-48|≈ Joshua 19:48]] · [[Joshua 19#^josh-19-40|≈ Joshua 19:40]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]]
+> [[Joshua 15#^josh-15-1|≈ Joshua 15:1]] · [[Joshua 15#^josh-15-20|≈ Joshua 15:20]] · [[Joshua 15#^josh-15-21|≈ Joshua 15:21]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]] · [[Joshua 19#^josh-19-40|≈ Joshua 19:40]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]]
 
 ![[Numbers 34#^num-34-23]]
 > [[Joshua 19#^josh-19-1|≈ Joshua 19:1]] · [[Joshua 19#^josh-19-24|≈ Joshua 19:24]] · [[Joshua 19#^josh-19-40|≈ Joshua 19:40]] · [[Numbers 10#^num-10-23|≈ Numbers 10:23]]
 
 ![[Numbers 34#^num-34-24]]
-> [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]] · [[Numbers 10#^num-10-15|≈ Numbers 10:15]]
+> [[Joshua 15#^josh-15-1|≈ Joshua 15:1]] · [[Joshua 15#^josh-15-20|≈ Joshua 15:20]] · [[Joshua 15#^josh-15-21|≈ Joshua 15:21]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]]
 
 ![[Numbers 34#^num-34-25]]
-> [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]] · [[Numbers 10#^num-10-16|≈ Numbers 10:16]]
+> [[Joshua 15#^josh-15-1|≈ Joshua 15:1]] · [[Joshua 15#^josh-15-20|≈ Joshua 15:20]] · [[Joshua 15#^josh-15-21|≈ Joshua 15:21]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]]
 
 ![[Numbers 34#^num-34-26]]
-> [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]] · [[Numbers 10#^num-10-15|≈ Numbers 10:15]]
+> [[Joshua 15#^josh-15-1|≈ Joshua 15:1]] · [[Joshua 15#^josh-15-20|≈ Joshua 15:20]] · [[Joshua 15#^josh-15-21|≈ Joshua 15:21]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]]
 
 ![[Numbers 34#^num-34-27]]
-> [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-24|≈ Joshua 19:24]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]]
+> [[Joshua 15#^josh-15-1|≈ Joshua 15:1]] · [[Joshua 15#^josh-15-20|≈ Joshua 15:20]] · [[Joshua 15#^josh-15-21|≈ Joshua 15:21]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-24|≈ Joshua 19:24]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]]
 
 ![[Numbers 34#^num-34-28]]
-> [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]] · [[Joshua 19#^josh-19-31|≈ Joshua 19:31]] · [[Joshua 19#^josh-19-48|≈ Joshua 19:48]] · [[Numbers 10#^num-10-27|≈ Numbers 10:27]]
+> [[Joshua 15#^josh-15-1|≈ Joshua 15:1]] · [[Joshua 15#^josh-15-20|≈ Joshua 15:20]] · [[Joshua 15#^josh-15-21|≈ Joshua 15:21]] · [[Joshua 19#^josh-19-39|≈ Joshua 19:39]] · [[Joshua 19#^josh-19-8|≈ Joshua 19:8]] · [[Joshua 19#^josh-19-23|≈ Joshua 19:23]]
 
 ![[Numbers 34#^num-34-29]]

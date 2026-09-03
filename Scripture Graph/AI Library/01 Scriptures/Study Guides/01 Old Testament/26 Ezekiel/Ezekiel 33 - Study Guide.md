@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 33
 slug: ezek-33
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Prophets** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
+- **Times and Seasons 1839-12-01 (Vol. 1 No. 2)** (periodical, 1839-12-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

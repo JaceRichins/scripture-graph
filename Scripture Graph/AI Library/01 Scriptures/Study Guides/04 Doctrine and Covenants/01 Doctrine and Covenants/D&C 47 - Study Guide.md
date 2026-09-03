@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 47
 slug: dc-47
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 47]] · My notes: [[D&C 47 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–4, John Whitmer is designated to keep the history of the Church and to write for the Prophet.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,17 +39,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 124]] — 5 parallel verses, e.g. [[D&C 47#^dc-47-3|D&C 47:3]] ↔ [[D&C 124#^dc-124-18|D&C 124:18]]
-- [[D&C 105]] — 5 parallel verses, e.g. [[D&C 47#^dc-47-3|D&C 47:3]] ↔ [[D&C 105#^dc-105-38|D&C 105:38]]
-- [[D&C 96]] — 3 parallel verses, e.g. [[D&C 47#^dc-47-1|D&C 47:1]] ↔ [[D&C 96#^dc-96-6|D&C 96:6]]
-- [[D&C 42]] — 3 parallel verses, e.g. [[D&C 47#^dc-47-3|D&C 47:3]] ↔ [[D&C 42#^dc-42-11|D&C 42:11]]
-- [[D&C 64]] — 2 parallel verses, e.g. [[D&C 47#^dc-47-1|D&C 47:1]] ↔ [[D&C 64#^dc-64-18|D&C 64:18]]
-- [[D&C 38]] — 3 parallel verses, e.g. [[D&C 47#^dc-47-3|D&C 47:3]] ↔ [[D&C 38#^dc-38-25|D&C 38:25]]
-- [[D&C 46]] — 3 parallel verses, e.g. [[D&C 47#^dc-47-3|D&C 47:3]] ↔ [[D&C 46#^dc-46-5|D&C 46:5]]
-- [[Alma 5]] — 2 parallel verses, e.g. [[D&C 47#^dc-47-3|D&C 47:3]] ↔ [[Alma 5#^alma-5-30|Alma 5:30]]
-- [[3 Nephi 11]] — 2 parallel verses, e.g. [[D&C 47#^dc-47-3|D&C 47:3]] ↔ [[3 Nephi 11#^3ne-11-37|3 Nephi 11:37]]
-- [[D&C 37]] — 2 parallel verses, e.g. [[D&C 47#^dc-47-3|D&C 47:3]] ↔ [[D&C 37#^dc-37-2|D&C 37:2]]
-- [[D&C 101]] — 2 parallel verses, e.g. [[D&C 47#^dc-47-3|D&C 47:3]] ↔ [[D&C 101#^dc-101-76|D&C 101:76]]
+- [[D&C 21]] — 1 footnote cross-reference (from [[D&C 47#^dc-47-1|D&C 47:1]])
+- [[D&C 69]] — 1 footnote cross-reference (from [[D&C 47#^dc-47-1|D&C 47:1]])
+- [[D&C 85]] — 1 footnote cross-reference (from [[D&C 47#^dc-47-1|D&C 47:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

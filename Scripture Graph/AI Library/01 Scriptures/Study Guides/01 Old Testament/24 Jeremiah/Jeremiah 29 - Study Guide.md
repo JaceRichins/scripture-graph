@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 29
 slug: jer-29
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ Scripture: [[Jeremiah 29]] · My notes: [[Jeremiah 29 - My Notes]]
 - [[Jeremiah 44]] — 15 parallel verses, e.g. [[Jeremiah 29#^jer-29-25|Jeremiah 29:25]] ↔ [[Jeremiah 44#^jer-44-25|Jeremiah 44:25]]
 - [[Jeremiah 35]] — 14 parallel verses, e.g. [[Jeremiah 29#^jer-29-19|Jeremiah 29:19]] ↔ [[Jeremiah 35#^jer-35-15|Jeremiah 35:15]]
 - [[Jeremiah 32]] — 12 parallel verses, e.g. [[Jeremiah 29#^jer-29-21|Jeremiah 29:21]] ↔ [[Jeremiah 32#^jer-32-28|Jeremiah 32:28]]
+- [[Jeremiah 27]] — 10 parallel verses, e.g. [[Jeremiah 29#^jer-29-9|Jeremiah 29:9]] ↔ [[Jeremiah 27#^jer-27-15|Jeremiah 27:15]]
 - [[Jeremiah 28]] — 9 parallel verses, e.g. [[Jeremiah 29#^jer-29-25|Jeremiah 29:25]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
 - [[Jeremiah 7]] — 9 parallel verses, e.g. [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
 - [[Jeremiah 46]] — 6 parallel verses, e.g. [[Jeremiah 29#^jer-29-21|Jeremiah 29:21]] ↔ [[Jeremiah 46#^jer-46-26|Jeremiah 46:26]]
@@ -67,7 +68,6 @@ Scripture: [[Jeremiah 29]] · My notes: [[Jeremiah 29 - My Notes]]
 - [[Jeremiah 51]] — 6 parallel verses, e.g. [[Jeremiah 29#^jer-29-32|Jeremiah 29:32]] ↔ [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]]
 - [[Jeremiah 43]] — 5 parallel verses, e.g. [[Jeremiah 29#^jer-29-30|Jeremiah 29:30]] ↔ [[Jeremiah 43#^jer-43-8|Jeremiah 43:8]]
 - [[Jeremiah 9]] — 5 parallel verses, e.g. [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]] ↔ [[Jeremiah 9#^jer-9-15|Jeremiah 9:15]]
-- [[Jeremiah 24]] — 4 parallel verses, e.g. [[Jeremiah 29#^jer-29-18|Jeremiah 29:18]] ↔ [[Jeremiah 24#^jer-24-9|Jeremiah 24:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,6 +77,7 @@ Scripture: [[Jeremiah 29]] · My notes: [[Jeremiah 29 - My Notes]]
 - [[Scattering of Israel]]
 - [[War and Peace]]
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -107,6 +108,7 @@ The disputes with rival speakers contribute to the chapter's teaching about [[Pr
 <!-- SG:BEGIN history -->
 - **Bible** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
+- **Ahab** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 13
 slug: 1sam-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,8 @@ _Not yet developed._
 - [[1 Chronicles 10]] — 1 footnote cross-reference (from [[1 Samuel 13#^1sam-13-14|1 Samuel 13:14]])
 - [[2 Kings 24]] — 1 footnote cross-reference (from [[1 Samuel 13#^1sam-13-19|1 Samuel 13:19]])
 - [[2 Kings 10]] — 1 parallel verse, e.g. [[1 Samuel 13#^1sam-13-10|1 Samuel 13:10]] ↔ [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]]
+- [[1 Samuel 14]] — 0 parallel verses
+- [[1 Samuel 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -63,6 +65,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

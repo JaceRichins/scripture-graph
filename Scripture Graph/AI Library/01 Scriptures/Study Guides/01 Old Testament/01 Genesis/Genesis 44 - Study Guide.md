@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 44
 slug: gen-44
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
 - [[For God So Loved Us (Elder Michael T. Ringwood, April 2022)|For God So Loved Us]] — Elder Michael T. Ringwood, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 

@@ -34,7 +34,7 @@ cssclasses:
 > [[2 Kings 24#^2kgs-24-5|≈ 2 Kings 24:5]] · [[2 Kings 8#^2kgs-8-23|≈ 2 Kings 8:23]] · [[2 Kings 20#^2kgs-20-20|≈ 2 Kings 20:20]] · [[2 Kings 21#^2kgs-21-25|≈ 2 Kings 21:25]] · [[2 Kings 21#^2kgs-21-17|≈ 2 Kings 21:17]] · [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]]
 
 ![[2 Kings 15#^2kgs-15-7]]
-> [[2 Kings 9#^2kgs-9-28|≈ 2 Kings 9:28]] · [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 16#^2kgs-16-20|≈ 2 Kings 16:20]] · [[1 Kings 14#^1kgs-14-31|≈ 1 Kings 14:31]] · [[1 Kings 22#^1kgs-22-50|≈ 1 Kings 22:50]] · [[2 Kings 12#^2kgs-12-21|≈ 2 Kings 12:21]]
+> [[2 Kings 9#^2kgs-9-28|≈ 2 Kings 9:28]] · [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 16#^2kgs-16-20|≈ 2 Kings 16:20]] · [[2 Chronicles 26#^2chr-26-23|≈ 2 Chronicles 26:23]] · [[2 Chronicles 27#^2chr-27-9|≈ 2 Chronicles 27:9]] · [[2 Kings 10#^2kgs-10-35|≈ 2 Kings 10:35]]
 
 ![[2 Kings 15#^2kgs-15-8]]
 > [[1 Kings 16#^1kgs-16-29|≈ 1 Kings 16:29]]
@@ -49,7 +49,7 @@ cssclasses:
 > [[2 Kings 24#^2kgs-24-5|≈ 2 Kings 24:5]] · [[2 Kings 8#^2kgs-8-23|≈ 2 Kings 8:23]] · [[2 Kings 20#^2kgs-20-20|≈ 2 Kings 20:20]] · [[2 Kings 21#^2kgs-21-17|≈ 2 Kings 21:17]] · [[2 Kings 21#^2kgs-21-25|≈ 2 Kings 21:25]] · [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]]
 
 ![[2 Kings 15#^2kgs-15-12]]
-> [[Hosea 1#^hosea-1-4|Hosea 1:4]] · [[2 Kings 10#^2kgs-10-30|2 Kgs. 10:30]] · [[2 Kings 9#^2kgs-9-36|≈ 2 Kings 9:36]] · [[2 Kings 24#^2kgs-24-2|≈ 2 Kings 24:2]] · [[1 Kings 2#^1kgs-2-27|≈ 1 Kings 2:27]] · [[1 Kings 14#^1kgs-14-18|≈ 1 Kings 14:18]] · [[1 Kings 16#^1kgs-16-12|≈ 1 Kings 16:12]] · [[1 Kings 16#^1kgs-16-34|≈ 1 Kings 16:34]]
+> [[Hosea 1#^hosea-1-4|Hosea 1:4]] · [[2 Kings 10#^2kgs-10-30|2 Kgs. 10:30]] · [[2 Kings 9#^2kgs-9-36|≈ 2 Kings 9:36]] · [[2 Kings 24#^2kgs-24-2|≈ 2 Kings 24:2]] · [[2 Kings 10#^2kgs-10-30|≈ 2 Kings 10:30]] · [[1 Kings 2#^1kgs-2-27|≈ 1 Kings 2:27]] · [[1 Kings 14#^1kgs-14-18|≈ 1 Kings 14:18]] · [[1 Kings 16#^1kgs-16-12|≈ 1 Kings 16:12]]
 
 ![[2 Kings 15#^2kgs-15-13]]
 > [[Isaiah 1#^isa-1-1|Isa. 1:1]]
@@ -104,7 +104,7 @@ cssclasses:
 > [[2 Kings 24#^2kgs-24-5|≈ 2 Kings 24:5]] · [[2 Kings 8#^2kgs-8-23|≈ 2 Kings 8:23]] · [[2 Kings 20#^2kgs-20-20|≈ 2 Kings 20:20]] · [[2 Kings 21#^2kgs-21-17|≈ 2 Kings 21:17]] · [[2 Kings 21#^2kgs-21-25|≈ 2 Kings 21:25]] · [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]]
 
 ![[2 Kings 15#^2kgs-15-32]]
-> [[1 Chronicles 5#^1chr-5-17|1 Chr. 5:17]] · [[2 Nephi 17#^2ne-17-1|2 Ne. 17:1 (1–13)]] · [[2 Kings 16#^2kgs-16-1|≈ 2 Kings 16:1]] · [[Isaiah 7#^isa-7-1|≈ Isaiah 7:1]] · [[2 Nephi 17#^2ne-17-1|≈ 2 Nephi 17:1]]
+> [[1 Chronicles 5#^1chr-5-17|1 Chr. 5:17]] · [[2 Nephi 17#^2ne-17-1|2 Ne. 17:1 (1–13)]] · [[Isaiah 7#^isa-7-1|≈ Isaiah 7:1]] · [[2 Kings 16#^2kgs-16-1|≈ 2 Kings 16:1]] · [[2 Nephi 17#^2ne-17-1|≈ 2 Nephi 17:1]]
 
 ![[2 Kings 15#^2kgs-15-33]]
 > [[2 Kings 24#^2kgs-24-18|≈ 2 Kings 24:18]] · [[2 Kings 24#^2kgs-24-8|≈ 2 Kings 24:8]] · [[2 Kings 8#^2kgs-8-26|≈ 2 Kings 8:26]] · [[2 Kings 8#^2kgs-8-17|≈ 2 Kings 8:17]] · [[2 Kings 21#^2kgs-21-19|≈ 2 Kings 21:19]] · [[2 Kings 21#^2kgs-21-1|≈ 2 Kings 21:1]]
@@ -122,4 +122,4 @@ cssclasses:
 > [[2 Kings 16#^2kgs-16-1|2 Kgs. 16:5 (1–6)]] · [[Isaiah 7#^isa-7-1|Isa. 7:1]] · [[2 Nephi 17#^2ne-17-1|2 Ne. 17:1 (1–13)]] · [[Isaiah 7#^isa-7-1|≈ Isaiah 7:1]] · [[2 Nephi 17#^2ne-17-1|≈ 2 Nephi 17:1]] · [[2 Kings 10#^2kgs-10-32|≈ 2 Kings 10:32]]
 
 ![[2 Kings 15#^2kgs-15-38]]
-> [[Isaiah 1#^isa-1-1|Isa. 1:1]] · [[2 Kings 9#^2kgs-9-28|≈ 2 Kings 9:28]] · [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 21#^2kgs-21-18|≈ 2 Kings 21:18]] · [[2 Kings 16#^2kgs-16-20|≈ 2 Kings 16:20]] · [[1 Kings 2#^1kgs-2-10|≈ 1 Kings 2:10]] · [[1 Kings 14#^1kgs-14-31|≈ 1 Kings 14:31]]
+> [[Isaiah 1#^isa-1-1|Isa. 1:1]] · [[2 Kings 9#^2kgs-9-28|≈ 2 Kings 9:28]] · [[2 Kings 8#^2kgs-8-24|≈ 2 Kings 8:24]] · [[2 Kings 21#^2kgs-21-18|≈ 2 Kings 21:18]] · [[2 Kings 16#^2kgs-16-20|≈ 2 Kings 16:20]] · [[2 Chronicles 27#^2chr-27-9|≈ 2 Chronicles 27:9]] · [[1 Kings 2#^1kgs-2-10|≈ 1 Kings 2:10]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 3
 slug: ezek-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Jeremiah 25]] — 2 parallel verses, e.g. [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 - [[Jeremiah 26]] — 1 parallel verse, e.g. [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]] ↔ [[Jeremiah 26#^jer-26-4|Jeremiah 26:4]]
 - [[Jeremiah 8]] — 1 parallel verse, e.g. [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]] ↔ [[Jeremiah 8#^jer-8-4|Jeremiah 8:4]]
+- [[Ezekiel 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

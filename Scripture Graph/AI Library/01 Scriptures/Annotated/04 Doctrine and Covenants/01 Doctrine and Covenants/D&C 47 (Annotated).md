@@ -13,7 +13,11 @@ cssclasses:
 
 [[D&C 47|Plain text]] · [[D&C 47 - Study Guide|Study guide]] · [[D&C 47 - My Notes|My notes]]
 
+> [!info] Chapter heading (official)
+> 1–4, John Whitmer is designated to keep the history of the Church and to write for the Prophet.
+
 ![[D&C 47#^dc-47-1]]
+> [[D&C 21#^dc-21-1|D&amp;C 21:1]] · [[D&C 69#^dc-69-3|69:3 (3–8)]] · [[D&C 85#^dc-85-1|85:1]]
 
 ![[D&C 47#^dc-47-2]]
 

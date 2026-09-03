@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 8
 slug: deut-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,9 +45,9 @@ _Not yet developed._
 - [[Nehemiah 9]] — 1 footnote cross-reference (from [[Deuteronomy 8#^deut-8-3|Deuteronomy 8:3]])
 - [[Matthew 4]] — 1 footnote cross-reference (from [[Deuteronomy 8#^deut-8-3|Deuteronomy 8:3]])
 - [[Deuteronomy 30]] — 4 parallel verses, e.g. [[Deuteronomy 8#^deut-8-6|Deuteronomy 8:6]] ↔ [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]]
+- [[Deuteronomy 6]] — 3 parallel verses, e.g. [[Deuteronomy 8#^deut-8-14|Deuteronomy 8:14]] ↔ [[Deuteronomy 6#^deut-6-12|Deuteronomy 6:12]]
 - [[Deuteronomy 11]] — 3 parallel verses, e.g. [[Deuteronomy 8#^deut-8-1|Deuteronomy 8:1]] ↔ [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]]
 - [[Deuteronomy 28]] — 4 parallel verses, e.g. [[Deuteronomy 8#^deut-8-11|Deuteronomy 8:11]] ↔ [[Deuteronomy 28#^deut-28-15|Deuteronomy 28:15]]
-- [[Deuteronomy 6]] — 3 parallel verses, e.g. [[Deuteronomy 8#^deut-8-14|Deuteronomy 8:14]] ↔ [[Deuteronomy 6#^deut-6-12|Deuteronomy 6:12]]
 - [[Deuteronomy 4]] — 3 parallel verses, e.g. [[Deuteronomy 8#^deut-8-1|Deuteronomy 8:1]] ↔ [[Deuteronomy 4#^deut-4-1|Deuteronomy 4:1]]
 - [[Deuteronomy 13]] — 2 parallel verses, e.g. [[Deuteronomy 8#^deut-8-14|Deuteronomy 8:14]] ↔ [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]]
 - [[Deuteronomy 10]] — 3 parallel verses, e.g. [[Deuteronomy 8#^deut-8-11|Deuteronomy 8:11]] ↔ [[Deuteronomy 10#^deut-10-13|Deuteronomy 10:13]]
@@ -72,6 +72,8 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Facing Our Spiritual Hurricanes by Believing in Christ (Elder Sean Douglas, October 2021)|Facing Our Spiritual Hurricanes by Believing in Christ]] — Elder Sean Douglas, 2021-October *(explicit citation)*
 - [[Mortality Works! (Elder Brook P. Hales, October 2024)|Mortality Works!]] — Elder Brook P. Hales, 2024-October *(explicit citation)*
+- [[We Are All Enlisted (Elder Jeffrey R. Holland, October 2011)|We Are All Enlisted]] — Elder Jeffrey R. Holland, 2011-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -79,6 +81,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Obedience** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1841-09-15 (Vol. 2 No. 22)** (periodical, 1841-09-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 4
 slug: james-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,8 @@ _Not yet developed._
 - [[Romans 8]] — 1 footnote cross-reference (from [[James 4#^james-4-3|James 4:3]])
 - [[Psalm 69]] — 1 footnote cross-reference (from [[James 4#^james-4-8|James 4:8]])
 - [[Isaiah 22]] — 1 footnote cross-reference (from [[James 4#^james-4-9|James 4:9]])
+- [[Proverbs 27]] — 0 parallel verses
+- [[D&C 46]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

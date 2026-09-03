@@ -80,16 +80,16 @@ cssclasses:
 > [[Isaiah 54#^isa-54-1|Isa. 54:1]] · [[Galatians 4#^gal-4-27|Gal. 4:27]] · [[Isaiah 49#^isa-49-21|≈ Isaiah 49:21]]
 
 ![[1 Nephi 21#^1ne-21-22]]
-> [[Isaiah 66#^isa-66-18|Isa. 66:19 (18–20)]] · [[Isaiah 11#^isa-11-10|Isa. 11:12 (10–12)]] · [[Isaiah 18#^isa-18-3|18:3]] · [[Zechariah 9#^zech-9-16|Zech. 9:16]] · [[1 Nephi 22#^1ne-22-8|1 Ne. 22:8]] · [[2 Nephi 10#^2ne-10-8|2 Ne. 10:8 (8–9)]] · [[Isaiah 49#^isa-49-22|≈ Isaiah 49:22]] · [[Ezekiel 25#^ezek-25-16|≈ Ezekiel 25:16]] · [[2 Nephi 6#^2ne-6-6|≈ 2 Nephi 6:6]] · [[Ezekiel 23#^ezek-23-22|≈ Ezekiel 23:22]]
+> [[Isaiah 66#^isa-66-18|Isa. 66:19 (18–20)]] · [[Isaiah 11#^isa-11-10|Isa. 11:12 (10–12)]] · [[Isaiah 18#^isa-18-3|18:3]] · [[Zechariah 9#^zech-9-16|Zech. 9:16]] · [[1 Nephi 22#^1ne-22-8|1 Ne. 22:8]] · [[2 Nephi 10#^2ne-10-8|2 Ne. 10:8 (8–9)]] · [[2 Nephi 6#^2ne-6-6|≈ 2 Nephi 6:6]] · [[Isaiah 49#^isa-49-22|≈ Isaiah 49:22]] · [[Ezekiel 25#^ezek-25-16|≈ Ezekiel 25:16]] · [[Ezekiel 23#^ezek-23-22|≈ Ezekiel 23:22]]
 
 ![[1 Nephi 21#^1ne-21-23]]
-> [[Isaiah 60#^isa-60-14|Isa. 60:16 (14–16)]] · [[1 Nephi 22#^1ne-22-6|1 Ne. 22:6]] · [[Genesis 49#^gen-49-18|Gen. 49:18]] · [[Proverbs 27#^prov-27-18|Prov. 27:18]] · [[2 Nephi 6#^2ne-6-13|2 Ne. 6:13]] · [[D&C 98#^dc-98-2|D&amp;C 98:2]] · [[D&C 133#^dc-133-10|133:11 (10–11, 45)]] · [[Isaiah 49#^isa-49-23|≈ Isaiah 49:23]] · [[Ezekiel 25#^ezek-25-7|≈ Ezekiel 25:7]] · [[Ezekiel 35#^ezek-35-4|≈ Ezekiel 35:4]]
+> [[Isaiah 60#^isa-60-14|Isa. 60:16 (14–16)]] · [[1 Nephi 22#^1ne-22-6|1 Ne. 22:6]] · [[Genesis 49#^gen-49-18|Gen. 49:18]] · [[Proverbs 27#^prov-27-18|Prov. 27:18]] · [[2 Nephi 6#^2ne-6-13|2 Ne. 6:13]] · [[D&C 98#^dc-98-2|D&amp;C 98:2]] · [[D&C 133#^dc-133-10|133:11 (10–11, 45)]] · [[2 Nephi 6#^2ne-6-7|≈ 2 Nephi 6:7]] · [[Isaiah 49#^isa-49-23|≈ Isaiah 49:23]] · [[Ezekiel 25#^ezek-25-7|≈ Ezekiel 25:7]]
 
 ![[1 Nephi 21#^1ne-21-24]]
-> [[Isaiah 49#^isa-49-24|≈ Isaiah 49:24]] · [[2 Nephi 6#^2ne-6-16|≈ 2 Nephi 6:16]]
+> [[2 Nephi 6#^2ne-6-16|≈ 2 Nephi 6:16]] · [[Isaiah 49#^isa-49-24|≈ Isaiah 49:24]]
 
 ![[1 Nephi 21#^1ne-21-25]]
-> [[Isaiah 49#^isa-49-25|≈ Isaiah 49:25]] · [[2 Nephi 6#^2ne-6-17|≈ 2 Nephi 6:17]]
+> [[2 Nephi 6#^2ne-6-17|≈ 2 Nephi 6:17]] · [[Isaiah 49#^isa-49-25|≈ Isaiah 49:25]]
 
 ![[1 Nephi 21#^1ne-21-26]]
-> [[1 Nephi 14#^1ne-14-15|1 Ne. 14:17 (15–17)]] · [[1 Nephi 22#^1ne-22-13|22:13 (13–14)]] · [[2 Nephi 6#^2ne-6-14|2 Ne. 6:14 (14–18)]] · [[Ezekiel 26#^ezek-26-6|Ezek. 26:6]] · [[Mosiah 11#^mosiah-11-20|Mosiah 11:22 (20–22)]] · [[Isaiah 49#^isa-49-26|≈ Isaiah 49:26]] · [[2 Nephi 6#^2ne-6-18|≈ 2 Nephi 6:18]] · [[Isaiah 60#^isa-60-16|≈ Isaiah 60:16]]
+> [[1 Nephi 14#^1ne-14-15|1 Ne. 14:17 (15–17)]] · [[1 Nephi 22#^1ne-22-13|22:13 (13–14)]] · [[2 Nephi 6#^2ne-6-14|2 Ne. 6:14 (14–18)]] · [[Ezekiel 26#^ezek-26-6|Ezek. 26:6]] · [[Mosiah 11#^mosiah-11-20|Mosiah 11:22 (20–22)]] · [[2 Nephi 6#^2ne-6-18|≈ 2 Nephi 6:18]] · [[Isaiah 49#^isa-49-26|≈ Isaiah 49:26]] · [[Isaiah 60#^isa-60-16|≈ Isaiah 60:16]]

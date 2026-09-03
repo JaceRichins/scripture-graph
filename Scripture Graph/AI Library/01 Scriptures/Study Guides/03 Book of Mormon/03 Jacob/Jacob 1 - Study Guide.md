@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 1
 slug: jacob-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Enos 1]] — 2 parallel verses, e.g. [[Jacob 1#^jacob-1-1|Jacob 1:1]] ↔ [[Enos 1#^enos-1-25|Enos 1:25]]
 - [[Numbers 15]] — 1 parallel verse, e.g. [[Jacob 1#^jacob-1-7|Jacob 1:7]] ↔ [[Numbers 15#^num-15-32|Numbers 15:32]]
 - [[Mosiah 23]] — 1 parallel verse, e.g. [[Jacob 1#^jacob-1-9|Jacob 1:9]] ↔ [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]]
+- [[1 Nephi 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,6 +73,7 @@ _Not yet developed._
 - [[Participate to Prepare for Christ’s Return (Elder Steven D. Shumway, April 2025)|Participate to Prepare for Christ’s Return]] — Elder Steven D. Shumway, 2025-April *(explicit citation)*
 - [[Come unto Christ—Together (Elder Taniela B. Wakolo, April 2026)|Come unto Christ—Together]] — Elder Taniela B. Wakolo, 2026-April *(explicit citation)*
 - [[The Cost—and Blessings—of Discipleship (Elder Jeffrey R. Holland, April 2014)|The Cost—and Blessings—of Discipleship]] — Elder Jeffrey R. Holland, 2014-April *(explicit citation)*
+- [[What Shall a Man Give in Exchange for His Soul (Elder Robert C. Gay, October 2012)|What Shall a Man Give in Exchange for His Soul?]] — Elder Robert C. Gay, 2012-October *(explicit citation)*
 - [[The Powers of the Priesthood (President Dallin H. Oaks, April 2018)|The Powers of the Priesthood]] — President Dallin H. Oaks, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 

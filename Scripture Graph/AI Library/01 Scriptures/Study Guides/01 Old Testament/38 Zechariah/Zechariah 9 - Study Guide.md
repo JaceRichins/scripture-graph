@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 9
 slug: zech-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,8 @@ _Not yet developed._
 - [[Matthew 21]] — 1 footnote cross-reference (from [[Zechariah 9#^zech-9-9|Zechariah 9:9]])
 - [[John 12]] — 1 footnote cross-reference (from [[Zechariah 9#^zech-9-9|Zechariah 9:9]])
 - [[Matthew 21]] — 1 parallel verse, e.g. [[Zechariah 9#^zech-9-9|Zechariah 9:9]] ↔ [[Matthew 21#^matt-21-5|Matthew 21:5]]
+- [[Ezekiel 26]] — 0 parallel verses
+- [[Psalm 72]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

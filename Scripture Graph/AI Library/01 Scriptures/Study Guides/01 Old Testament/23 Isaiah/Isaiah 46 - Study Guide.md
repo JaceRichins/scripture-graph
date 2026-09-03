@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 46
 slug: isa-46
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Isaiah 40]] — 1 footnote cross-reference (from [[Isaiah 46#^isa-46-5|Isaiah 46:5]])
 - [[Jeremiah 10]] — 1 footnote cross-reference (from [[Isaiah 46#^isa-46-7|Isaiah 46:7]])
 - [[Isaiah 45]] — 1 parallel verse, e.g. [[Isaiah 46#^isa-46-9|Isaiah 46:9]] ↔ [[Isaiah 45#^isa-45-22|Isaiah 45:22]]
+- [[Jeremiah 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

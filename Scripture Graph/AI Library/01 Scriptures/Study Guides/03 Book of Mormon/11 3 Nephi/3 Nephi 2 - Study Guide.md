@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 2
 slug: 3ne-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ Scripture: [[3 Nephi 2]] · My notes: [[3 Nephi 2 - My Notes]]
 - [[1 Corinthians 1]] — 1 footnote cross-reference (from [[3 Nephi 2#^3ne-2-2|3 Nephi 2:2]])
 - [[Alma 30]] — 1 footnote cross-reference (from [[3 Nephi 2#^3ne-2-2|3 Nephi 2:2]])
 - [[Alma 51]] — 2 parallel verses, e.g. [[3 Nephi 2#^3ne-2-12|3 Nephi 2:12]] ↔ [[Alma 51#^alma-51-6|Alma 51:6]]
+- [[Helaman 11]] — 2 parallel verses, e.g. [[3 Nephi 2#^3ne-2-11|3 Nephi 2:11]] ↔ [[Helaman 11#^hel-11-21|Helaman 11:21]]
 - [[Alma 8]] — 2 parallel verses, e.g. [[3 Nephi 2#^3ne-2-18|3 Nephi 2:18]] ↔ [[Alma 8#^alma-8-14|Alma 8:14]]
 - [[Alma 59]] — 2 parallel verses, e.g. [[3 Nephi 2#^3ne-2-18|3 Nephi 2:18]] ↔ [[Alma 59#^alma-59-11|Alma 59:11]]
 - [[Enos 1]] — 1 parallel verse, e.g. [[3 Nephi 2#^3ne-2-7|3 Nephi 2:7]] ↔ [[Enos 1#^enos-1-25|Enos 1:25]]
@@ -64,11 +65,11 @@ Scripture: [[3 Nephi 2]] · My notes: [[3 Nephi 2 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Secret Combinations]]
-- [[War and Peace]]
 - [[Signs of the Times]]
 - [[Satan and Temptation]]
 - [[Freedom and Liberty]]
+- [[Secret Combinations]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -83,6 +84,7 @@ Verses 11–12 frame armed resistance as defense of lives, families, worship, [[
 - [[Is It Still Wonderful to You (Bishop Gérald Caussé, April 2015)|Is It Still Wonderful to You?]] — Bishop Gérald Caussé, 2015-April *(explicit citation)*
 - [[Faith Is Not by Chance, but by Choice (Elder Neil L. Andersen, October 2015)|Faith Is Not by Chance, but by Choice]] — Elder Neil L. Andersen, 2015-October *(explicit citation)*
 - [[In Awe of Christ and His Gospel (Elder Ulisses Soares, April 2022)|In Awe of Christ and His Gospel]] — Elder Ulisses Soares, 2022-April *(explicit citation)*
+- [[To Hold Sacred (Elder Paul B. Pieper, April 2012)|To Hold Sacred]] — Elder Paul B. Pieper, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

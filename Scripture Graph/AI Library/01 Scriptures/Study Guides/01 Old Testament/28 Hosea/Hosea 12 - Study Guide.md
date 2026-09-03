@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 12
 slug: hosea-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,7 +52,7 @@ _Not yet developed._
 - [[Hosea 4]] — 1 footnote cross-reference (from [[Hosea 12#^hosea-12-2|Hosea 12:2]])
 - [[Genesis 25]] — 1 footnote cross-reference (from [[Hosea 12#^hosea-12-3|Hosea 12:3]])
 - [[Genesis 32]] — 1 footnote cross-reference (from [[Hosea 12#^hosea-12-4|Hosea 12:4]])
-- [[Hosea 13]] — 0 parallel verses
+- [[Hosea 13]] — 1 parallel verse, e.g. [[Hosea 12#^hosea-12-9|Hosea 12:9]] ↔ [[Hosea 13#^hosea-13-4|Hosea 13:4]]
 - [[Genesis 32]] — 0 parallel verses
 - [[Genesis 25]] — 0 parallel verses
 - [[Genesis 29]] — 0 parallel verses

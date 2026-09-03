@@ -17,7 +17,7 @@ cssclasses:
 > The Lord destroys the cattle of the Egyptians, but not of the Israelites—Boils and blains are sent upon the Egyptians—The Lord sends hail and fire upon the people of Pharaoh, but not upon the people of Israel.
 
 ![[Exodus 9#^ex-9-1]]
-> [[Exodus 8#^ex-8-1|≈ Exodus 8:1]] · [[Exodus 8#^ex-8-20|≈ Exodus 8:20]] · [[Exodus 7#^ex-7-16|≈ Exodus 7:16]] · [[Exodus 10#^ex-10-3|≈ Exodus 10:3]] · [[Exodus 10#^ex-10-1|≈ Exodus 10:1]] · [[Exodus 5#^ex-5-1|≈ Exodus 5:1]]
+> [[Exodus 8#^ex-8-1|≈ Exodus 8:1]] · [[Exodus 8#^ex-8-20|≈ Exodus 8:20]] · [[Exodus 5#^ex-5-1|≈ Exodus 5:1]] · [[Exodus 7#^ex-7-16|≈ Exodus 7:16]] · [[Exodus 10#^ex-10-3|≈ Exodus 10:3]] · [[Exodus 10#^ex-10-1|≈ Exodus 10:1]]
 
 ![[Exodus 9#^ex-9-2]]
 > [[Exodus 8#^ex-8-2|≈ Exodus 8:2]]
@@ -45,7 +45,7 @@ cssclasses:
 > [[Exodus 8#^ex-8-19|≈ Exodus 8:19]] · [[Exodus 8#^ex-8-15|≈ Exodus 8:15]] · [[Exodus 7#^ex-7-13|≈ Exodus 7:13]]
 
 ![[Exodus 9#^ex-9-13]]
-> [[Exodus 8#^ex-8-20|≈ Exodus 8:20]] · [[Exodus 8#^ex-8-1|≈ Exodus 8:1]] · [[Exodus 7#^ex-7-16|≈ Exodus 7:16]] · [[Exodus 10#^ex-10-3|≈ Exodus 10:3]] · [[Exodus 5#^ex-5-1|≈ Exodus 5:1]]
+> [[Exodus 8#^ex-8-20|≈ Exodus 8:20]] · [[Exodus 8#^ex-8-1|≈ Exodus 8:1]] · [[Exodus 5#^ex-5-1|≈ Exodus 5:1]] · [[Exodus 7#^ex-7-16|≈ Exodus 7:16]] · [[Exodus 10#^ex-10-3|≈ Exodus 10:3]]
 
 ![[Exodus 9#^ex-9-14]]
 > [[Deuteronomy 28#^deut-28-60|Deut. 28:60 (60–61)]] · [[Exodus 8#^ex-8-10|≈ Exodus 8:10]] · [[Exodus 8#^ex-8-21|≈ Exodus 8:21]]

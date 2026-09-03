@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 28
 slug: 3ne-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,26 +52,26 @@ _Not yet developed._
 - [[D&C 76]] — 2 footnote cross-references (from [[3 Nephi 28#^3ne-28-10|3 Nephi 28:10]])
 - [[2 Nephi 31]] — 2 footnote cross-references (from [[3 Nephi 28#^3ne-28-10|3 Nephi 28:10]])
 - [[3 Nephi 11]] — 3 parallel verses, e.g. [[3 Nephi 28#^3ne-28-11|3 Nephi 28:11]] ↔ [[3 Nephi 11#^3ne-11-32|3 Nephi 11:32]]
+- [[D&C 45]] — 4 parallel verses, e.g. [[3 Nephi 28#^3ne-28-7|3 Nephi 28:7]] ↔ [[D&C 45#^dc-45-16|D&C 45:16]]
 - [[3 Nephi 18]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]] ↔ [[3 Nephi 18#^3ne-18-26|3 Nephi 18:26]]
 - [[3 Nephi 19]] — 3 parallel verses, e.g. [[3 Nephi 28#^3ne-28-30|3 Nephi 28:30]] ↔ [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]]
+- [[3 Nephi 17]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]] ↔ [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]]
 - [[3 Nephi 15]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]] ↔ [[3 Nephi 15#^3ne-15-11|3 Nephi 15:11]]
+- [[D&C 101]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-8|3 Nephi 28:8]] ↔ [[D&C 101#^dc-101-31|D&C 101:31]]
+- [[Helaman 5]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-16|3 Nephi 28:16]] ↔ [[Helaman 5#^hel-5-50|Helaman 5:50]]
+- [[D&C 50]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-10|3 Nephi 28:10]] ↔ [[D&C 50#^dc-50-43|D&C 50:43]]
+- [[Mormon 9]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-30|3 Nephi 28:30]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
 - [[Alma 4]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-19|3 Nephi 28:19]] ↔ [[Alma 4#^alma-4-10|Alma 4:10]]
-- [[Mormon 3]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-31|3 Nephi 28:31]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
-- [[3 Nephi 13]] — 1 parallel verse, e.g. [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
-- [[3 Nephi 14]] — 1 parallel verse, e.g. [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]] ↔ [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]]
-- [[Ether 5]] — 1 parallel verse, e.g. [[3 Nephi 28#^3ne-28-30|3 Nephi 28:30]] ↔ [[Ether 5#^ether-5-5|Ether 5:5]]
-- [[D&C 43]] — 1 parallel verse, e.g. [[3 Nephi 28#^3ne-28-8|3 Nephi 28:8]] ↔ [[D&C 43#^dc-43-32|D&C 43:32]]
-- [[D&C 63]] — 1 parallel verse, e.g. [[3 Nephi 28#^3ne-28-8|3 Nephi 28:8]] ↔ [[D&C 63#^dc-63-51|D&C 63:51]]
-- [[Mormon 8]] — 1 parallel verse, e.g. [[3 Nephi 28#^3ne-28-26|3 Nephi 28:26]] ↔ [[Mormon 8#^morm-8-11|Mormon 8:11]]
+- [[3 Nephi 26]] — 2 parallel verses, e.g. [[3 Nephi 28#^3ne-28-24|3 Nephi 28:24]] ↔ [[3 Nephi 26#^3ne-26-12|3 Nephi 26:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
-- [[The Godhead]]
-- [[Final Judgment]]
 - [[Satan and Temptation]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

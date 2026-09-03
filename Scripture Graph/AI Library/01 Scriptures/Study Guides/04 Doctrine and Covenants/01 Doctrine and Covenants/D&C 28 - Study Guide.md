@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 28
 slug: dc-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,18 +47,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 75]] — 3 parallel verses, e.g. [[D&C 28#^dc-28-1|D&C 28:1]] ↔ [[D&C 75#^dc-75-4|D&C 75:4]]
-- [[Alma 5]] — 4 parallel verses, e.g. [[D&C 28#^dc-28-8|D&C 28:8]] ↔ [[Alma 5#^alma-5-6|Alma 5:6]]
-- [[Alma 12]] — 4 parallel verses, e.g. [[D&C 28#^dc-28-8|D&C 28:8]] ↔ [[Alma 12#^alma-12-16|Alma 12:16]]
-- [[Alma 60]] — 4 parallel verses, e.g. [[D&C 28#^dc-28-8|D&C 28:8]] ↔ [[Alma 60#^alma-60-3|Alma 60:3]]
-- [[D&C 29]] — 3 parallel verses, e.g. [[D&C 28#^dc-28-16|D&C 28:16]] ↔ [[D&C 29#^dc-29-4|D&C 29:4]]
-- [[Alma 9]] — 3 parallel verses, e.g. [[D&C 28#^dc-28-9|D&C 28:9]] ↔ [[Alma 9#^alma-9-15|Alma 9:15]]
-- [[D&C 70]] — 2 parallel verses, e.g. [[D&C 28#^dc-28-1|D&C 28:1]] ↔ [[D&C 70#^dc-70-3|D&C 70:3]]
-- [[D&C 39]] — 3 parallel verses, e.g. [[D&C 28#^dc-28-2|D&C 28:2]] ↔ [[D&C 39#^dc-39-14|D&C 39:14]]
-- [[Alma 32]] — 3 parallel verses, e.g. [[D&C 28#^dc-28-9|D&C 28:9]] ↔ [[Alma 32#^alma-32-20|Alma 32:20]]
-- [[D&C 26]] — 2 parallel verses, e.g. [[D&C 28#^dc-28-13|D&C 28:13]] ↔ [[D&C 26#^dc-26-2|D&C 26:2]]
-- [[D&C 43]] — 2 parallel verses, e.g. [[D&C 28#^dc-28-1|D&C 28:1]] ↔ [[D&C 43#^dc-43-8|D&C 43:8]]
-- [[Mosiah 29]] — 2 parallel verses, e.g. [[D&C 28#^dc-28-8|D&C 28:8]] ↔ [[Mosiah 29#^mosiah-29-24|Mosiah 29:24]]
+- [[D&C 43]] — 3 footnote cross-references (from [[D&C 28#^dc-28-2|D&C 28:2]])
+- [[D&C 32]] — 2 footnote cross-references (from [[D&C 28#^dc-28-2|D&C 28:2]])
+- [[D&C 35]] — 2 footnote cross-references (from [[D&C 28#^dc-28-2|D&C 28:2]])
+- [[2 Nephi 3]] — 2 footnote cross-references (from [[D&C 28#^dc-28-2|D&C 28:2]])
+- [[Exodus 4]] — 2 footnote cross-references (from [[D&C 28#^dc-28-3|D&C 28:3]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[D&C 28#^dc-28-1|D&C 28:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -84,6 +78,8 @@ The wording about appointing another in Joseph's stead is relevant to [[Prophets
 - [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[About His Business (Elder Patrick Kearon, April 2026)|About His Business]] — Elder Patrick Kearon, 2026-April *(explicit citation)*
+- [[Waiting on the Road to Damascus (President Dieter F. Uchtdorf, April 2011)|Waiting on the Road to Damascus]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[The Trek Continues! (Elder M. Russell Ballard, October 2017)|The Trek Continues!]] — Elder M. Russell Ballard, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -94,8 +90,10 @@ The wording about appointing another in Joseph's stead is relevant to [[Prophets
 - **A Mission to the Lamanites** (history) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
+- **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Sources Cited** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 137
 slug: dc-137
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 76]] — 4 footnote cross-references (from [[D&C 137#^dc-137-2|D&C 137:2]])
+- [[Helaman 5]] — 3 footnote cross-references (from [[D&C 137#^dc-137-1|D&C 137:1]])
+- [[Revelation 21]] — 3 footnote cross-references (from [[D&C 137#^dc-137-1|D&C 137:1]])
+- [[2 Nephi 9]] — 3 footnote cross-references (from [[D&C 137#^dc-137-2|D&C 137:2]])
+- [[Ezekiel 1]] — 3 footnote cross-references (from [[D&C 137#^dc-137-2|D&C 137:2]])
+- [[Acts 7]] — 2 footnote cross-references (from [[D&C 137#^dc-137-1|D&C 137:1]])
 - [[D&C 138]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -70,12 +76,12 @@ Although Alvin's lack of baptism prompts the revelation, the chapter itself does
 - [[Be Peaceable Followers of Christ (Elder Quentin L. Cook, October 2023)|Be Peaceable Followers of Christ]] — Elder Quentin L. Cook, 2023-October *(explicit citation)*
 - [[Compensating Blessings (Bishop Gérald Caussé, April 2025)|Compensating Blessings]] — Bishop Gérald Caussé, 2025-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
 - [[All Nations, Kindreds, and Tongues (Elder Gerrit W. Gong, October 2020)|All Nations, Kindreds, and Tongues]] — Elder Gerrit W. Gong, 2020-October *(explicit citation)*
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[Divine Love in the Father’s Plan (President Dallin H. Oaks, April 2022)|Divine Love in the Father’s Plan]] — President Dallin H. Oaks, 2022-April *(explicit citation)*
 - [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
 - [[Cheering Each Other On (Sister J. Anette Dennis, October 2025)|Cheering Each Other On]] — Sister J. Anette Dennis, 2025-October *(explicit citation)*
-- [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -83,13 +89,13 @@ Although Alvin's lack of baptism prompts the revelation, the chapter itself does
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **21 The Spirit of God** (history) *(explicit citation)*
+- **35 A Beautiful Place** (history) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
-- **Joseph Smith** (reference-entry) *(explicit citation)*
-- **Judgment** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

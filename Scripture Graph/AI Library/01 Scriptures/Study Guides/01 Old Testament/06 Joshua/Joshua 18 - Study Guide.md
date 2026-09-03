@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 18
 slug: josh-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,8 @@ Scripture: [[Joshua 18]] · My notes: [[Joshua 18 - My Notes]]
 - [[Judges 11]] — 1 footnote cross-reference (from [[Joshua 18#^josh-18-5|Joshua 18:5]])
 - [[Numbers 10]] — 17 parallel verses, e.g. [[Joshua 18#^josh-18-11|Joshua 18:11]] ↔ [[Numbers 10#^num-10-24|Numbers 10:24]]
 - [[Numbers 34]] — 15 parallel verses, e.g. [[Joshua 18#^josh-18-7|Joshua 18:7]] ↔ [[Numbers 34#^num-34-14|Numbers 34:14]]
+- [[Joshua 15]] — 12 parallel verses, e.g. [[Joshua 18#^josh-18-16|Joshua 18:16]] ↔ [[Joshua 15#^josh-15-8|Joshua 15:8]]
+- [[Joshua 19]] — 13 parallel verses, e.g. [[Joshua 18#^josh-18-28|Joshua 18:28]] ↔ [[Joshua 19#^josh-19-16|Joshua 19:16]]
 - [[Joshua 16]] — 4 parallel verses, e.g. [[Joshua 18#^josh-18-12|Joshua 18:12]] ↔ [[Joshua 16#^josh-16-8|Joshua 16:8]]
 - [[Joshua 13]] — 3 parallel verses, e.g. [[Joshua 18#^josh-18-20|Joshua 18:20]] ↔ [[Joshua 13#^josh-13-23|Joshua 13:23]]
 - [[Joshua 22]] — 3 parallel verses, e.g. [[Joshua 18#^josh-18-7|Joshua 18:7]] ↔ [[Joshua 22#^josh-22-4|Joshua 22:4]]
@@ -64,8 +66,6 @@ Scripture: [[Joshua 18]] · My notes: [[Joshua 18 - My Notes]]
 - [[Joshua 21]] — 2 parallel verses, e.g. [[Joshua 18#^josh-18-11|Joshua 18:11]] ↔ [[Joshua 21#^josh-21-9|Joshua 21:9]]
 - [[Exodus 16]] — 2 parallel verses, e.g. [[Joshua 18#^josh-18-1|Joshua 18:1]] ↔ [[Exodus 16#^ex-16-2|Exodus 16:2]]
 - [[Deuteronomy 4]] — 1 parallel verse, e.g. [[Joshua 18#^josh-18-3|Joshua 18:3]] ↔ [[Deuteronomy 4#^deut-4-1|Deuteronomy 4:1]]
-- [[Joshua 1]] — 2 parallel verses, e.g. [[Joshua 18#^josh-18-3|Joshua 18:3]] ↔ [[Joshua 1#^josh-1-11|Joshua 1:11]]
-- [[Jeremiah 19]] — 2 parallel verses, e.g. [[Joshua 18#^josh-18-16|Joshua 18:16]] ↔ [[Jeremiah 19#^jer-19-2|Jeremiah 19:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Lamentations
 chapter: 3
 slug: lam-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Hosea 2]] — 1 footnote cross-reference (from [[Lamentations 3#^lam-3-7|Lamentations 3:7]])
 - [[D&C 122]] — 1 footnote cross-reference (from [[Lamentations 3#^lam-3-7|Lamentations 3:7]])
 - [[Lamentations 2]] — 1 parallel verse, e.g. [[Lamentations 3#^lam-3-48|Lamentations 3:48]] ↔ [[Lamentations 2#^lam-2-11|Lamentations 2:11]]
+- [[Lamentations 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

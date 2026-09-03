@@ -46,7 +46,7 @@ cssclasses:
 > [[Jeremiah 51#^jer-51-58|Jer. 51:58]]
 
 ![[Habakkuk 2#^hab-2-14]]
-> [[Isaiah 11#^isa-11-9|Isa. 11:9]] · [[Isaiah 11#^isa-11-9|≈ Isaiah 11:9]] · [[2 Nephi 21#^2ne-21-9|≈ 2 Nephi 21:9]] · [[2 Nephi 30#^2ne-30-15|≈ 2 Nephi 30:15]]
+> [[Isaiah 11#^isa-11-9|Isa. 11:9]] · [[Isaiah 11#^isa-11-9|≈ Isaiah 11:9]] · [[2 Nephi 30#^2ne-30-15|≈ 2 Nephi 30:15]] · [[2 Nephi 21#^2ne-21-9|≈ 2 Nephi 21:9]]
 
 ![[Habakkuk 2#^hab-2-15]]
 

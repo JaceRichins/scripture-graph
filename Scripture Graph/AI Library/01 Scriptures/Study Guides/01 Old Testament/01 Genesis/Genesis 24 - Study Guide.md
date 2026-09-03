@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 24
 slug: gen-24
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 - [[Exodus 12]] — 1 parallel verse, e.g. [[Genesis 24#^gen-24-53|Genesis 24:53]] ↔ [[Exodus 12#^ex-12-35|Exodus 12:35]]
 - [[Genesis 22]] — 0 parallel verses
 - [[Genesis 29]] — 0 parallel verses
+- [[Genesis 47]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

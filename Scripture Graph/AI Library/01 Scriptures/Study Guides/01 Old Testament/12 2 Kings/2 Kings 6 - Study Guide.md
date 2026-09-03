@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 6
 slug: 2kgs-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

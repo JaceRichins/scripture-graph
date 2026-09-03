@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 19
 slug: job-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -61,12 +61,14 @@ _Not yet developed._
 - [[Just Keep Going—with Faith (Elder Carl B. Cook, April 2023)|Just Keep Going—with Faith]] — Elder Carl B. Cook, 2023-April *(explicit citation)*
 - [[“I Will Not Fail Thee, nor Forsake Thee” (President Thomas S. Monson, October 2013)|“I Will Not Fail Thee, nor Forsake Thee”]] — President Thomas S. Monson, 2013-October *(explicit citation)*
 - [[The Resurrection of Jesus Christ (Elder D. Todd Christofferson, April 2014)|The Resurrection of Jesus Christ]] — Elder D. Todd Christofferson, 2014-April *(explicit citation)*
+- [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[Our Relationship with God (Elder D. Todd Christofferson, April 2022)|Our Relationship with God]] — Elder D. Todd Christofferson, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Easter** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

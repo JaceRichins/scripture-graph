@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 4
 slug: song-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

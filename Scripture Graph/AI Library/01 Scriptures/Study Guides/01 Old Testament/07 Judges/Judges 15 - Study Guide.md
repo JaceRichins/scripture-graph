@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 15
 slug: judg-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

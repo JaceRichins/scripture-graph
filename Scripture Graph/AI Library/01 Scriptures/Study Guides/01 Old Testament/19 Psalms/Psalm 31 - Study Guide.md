@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 31
 slug: ps-31
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Luke 23]] — 1 footnote cross-reference (from [[Psalm 31#^ps-31-5|Psalm 31:5]])
 - [[Psalm 71]] — 2 parallel verses, e.g. [[Psalm 31#^ps-31-1|Psalm 31:1]] ↔ [[Psalm 71#^ps-71-1|Psalm 71:1]]
 - [[Psalm 6]] — 1 parallel verse, e.g. [[Psalm 31#^ps-31-9|Psalm 31:9]] ↔ [[Psalm 6#^ps-6-2|Psalm 6:2]]
+- [[Psalm 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

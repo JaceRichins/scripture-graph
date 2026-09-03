@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 18
 slug: mosiah-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

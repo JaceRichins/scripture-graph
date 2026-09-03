@@ -6,7 +6,7 @@ volume: New Testament
 book: Jude
 chapter: 1
 slug: jude-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,9 @@ _Not yet developed._
 - [[Articles of Faith 1]] — 1 footnote cross-reference (from [[Jude 1#^jude-1-3|Jude 1:3]])
 - [[Philippians 1]] — 1 footnote cross-reference (from [[Jude 1#^jude-1-3|Jude 1:3]])
 - [[D&C 112]] — 1 footnote cross-reference (from [[Jude 1#^jude-1-3|Jude 1:3]])
+- [[D&C 36]] — 0 parallel verses
+- [[2 Peter 3]] — 0 parallel verses
+- [[2 Peter 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,12 +69,14 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[How Great Will Be Your Joy (Elder Ronald A. Rasband, October 2023)|How Great Will Be Your Joy]] — Elder Ronald A. Rasband, 2023-October *(explicit citation)*
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]] — Elder Dallin H. Oaks, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Bible** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

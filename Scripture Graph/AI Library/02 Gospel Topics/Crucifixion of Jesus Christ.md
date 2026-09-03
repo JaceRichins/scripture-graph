@@ -38,6 +38,11 @@ _Not yet developed._
 - [[Ether 2]] *(keyword match)*
 - [[3 Nephi 27]]
 - [[1 Nephi 11]]
+- [[1 Corinthians 2]]
+- [[1 Nephi 19]]
+- [[2 Nephi 10]]
+- [[2 Nephi 25]]
+- [[2 Nephi 6]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

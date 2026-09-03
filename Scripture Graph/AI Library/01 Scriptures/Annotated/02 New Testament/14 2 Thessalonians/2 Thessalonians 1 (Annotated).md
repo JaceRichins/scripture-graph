@@ -20,7 +20,7 @@ cssclasses:
 > [[Romans 1#^rom-1-7|≈ Romans 1:7]] · [[Colossians 1#^col-1-2|≈ Colossians 1:2]] · [[Philemon 1#^philem-1-3|≈ Philemon 1:3]] · [[1 Thessalonians 1#^1thes-1-1|≈ 1 Thessalonians 1:1]]
 
 ![[2 Thessalonians 1#^2thes-1-2]]
-> [[Romans 1#^rom-1-7|≈ Romans 1:7]] · [[Philippians 1#^philip-1-2|≈ Philippians 1:2]] · [[Colossians 1#^col-1-2|≈ Colossians 1:2]] · [[Philemon 1#^philem-1-3|≈ Philemon 1:3]] · [[1 Corinthians 1#^1cor-1-3|≈ 1 Corinthians 1:3]] · [[1 Thessalonians 1#^1thes-1-1|≈ 1 Thessalonians 1:1]]
+> [[Romans 1#^rom-1-7|≈ Romans 1:7]] · [[Philippians 1#^philip-1-2|≈ Philippians 1:2]] · [[Colossians 1#^col-1-2|≈ Colossians 1:2]] · [[Philemon 1#^philem-1-3|≈ Philemon 1:3]] · [[1 Thessalonians 1#^1thes-1-1|≈ 1 Thessalonians 1:1]] · [[1 Corinthians 1#^1cor-1-3|≈ 1 Corinthians 1:3]]
 
 ![[2 Thessalonians 1#^2thes-1-3]]
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 10
 slug: 2ne-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,7 +53,8 @@ Scripture: [[2 Nephi 10]] · My notes: [[2 Nephi 10 - My Notes]]
 - [[2 Nephi 25]] — 3 footnote cross-references (from [[2 Nephi 10#^2ne-10-3|2 Nephi 10:3]])
 - [[1 Nephi 19]] — 3 footnote cross-references (from [[2 Nephi 10#^2ne-10-3|2 Nephi 10:3]])
 - [[2 Nephi 6]] — 3 footnote cross-references (from [[2 Nephi 10#^2ne-10-9|2 Nephi 10:9]])
-- [[2 Nephi 29]] — 0 parallel verses
+- [[2 Nephi 29]] — 3 parallel verses, e.g. [[2 Nephi 10#^2ne-10-15|2 Nephi 10:15]] ↔ [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]]
+- [[D&C 110]] — 1 parallel verse, e.g. [[2 Nephi 10#^2ne-10-8|2 Nephi 10:8]] ↔ [[D&C 110#^dc-110-11|D&C 110:11]]
 - [[2 Nephi 9]] — 0 parallel verses
 - [[2 Nephi 2]] — 0 parallel verses
 - [[1 Nephi 22]] — 0 parallel verses
@@ -61,12 +62,12 @@ Scripture: [[2 Nephi 10]] · My notes: [[2 Nephi 10 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
-- [[Government and Laws]]
-- [[Freedom and Liberty]]
 - [[Scattering of Israel]]
 - [[Crucifixion of Jesus Christ]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

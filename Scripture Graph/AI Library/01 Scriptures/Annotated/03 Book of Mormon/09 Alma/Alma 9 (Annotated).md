@@ -42,7 +42,7 @@ cssclasses:
 > [[1 Nephi 2#^1ne-2-1|1 Ne. 2:2 (1–7)]]
 
 ![[Alma 9#^alma-9-10]]
-> [[Helaman 12#^hel-12-2|≈ Helaman 12:2]] · [[Mormon 3#^morm-3-13|≈ Mormon 3:13]] · [[Omni 1#^omni-1-7|≈ Omni 1:7]] · [[Mosiah 2#^mosiah-2-4|≈ Mosiah 2:4]] · [[3 Nephi 4#^3ne-4-33|≈ 3 Nephi 4:33]] · [[3 Nephi 4#^3ne-4-8|≈ 3 Nephi 4:8]]
+> [[Helaman 12#^hel-12-2|≈ Helaman 12:2]] · [[Omni 1#^omni-1-7|≈ Omni 1:7]] · [[Mormon 3#^morm-3-13|≈ Mormon 3:13]] · [[Mosiah 2#^mosiah-2-4|≈ Mosiah 2:4]] · [[3 Nephi 4#^3ne-4-33|≈ 3 Nephi 4:33]] · [[3 Nephi 4#^3ne-4-8|≈ 3 Nephi 4:8]]
 
 ![[Alma 9#^alma-9-11]]
 > [[Mosiah 16#^mosiah-16-11|Mosiah 16:11]] · [[Helaman 12#^hel-12-26|≈ Helaman 12:26]] · [[Mormon 3#^morm-3-15|≈ Mormon 3:15]] · [[Alma 42#^alma-42-6|≈ Alma 42:6]] · [[Alma 42#^alma-42-30|≈ Alma 42:30]]
@@ -51,13 +51,13 @@ cssclasses:
 > [[Alma 8#^alma-8-16|Alma 8:16]] · [[Alma 10#^alma-10-19|10:27 (19, 23, 27)]] · [[Jeremiah 18#^jer-18-6|Jer. 18:10 (6–10)]] · [[Alma 8#^alma-8-29|Alma 8:29]] · [[Helaman 7#^hel-7-28|≈ Helaman 7:28]] · [[Alma 5#^alma-5-51|≈ Alma 5:51]] · [[Alma 39#^alma-39-9|≈ Alma 39:9]] · [[3 Nephi 11#^3ne-11-38|≈ 3 Nephi 11:38]]
 
 ![[Alma 9#^alma-9-13]]
-> [[2 Nephi 1#^2ne-1-20|2 Ne. 1:20]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Alma 37#^alma-37-13|Alma 37:13]] · [[Helaman 12#^hel-12-25|≈ Helaman 12:25]] · [[Helaman 14#^hel-14-16|≈ Helaman 14:16]] · [[Ether 2#^ether-2-15|≈ Ether 2:15]] · [[Ether 10#^ether-10-11|≈ Ether 10:11]] · [[Jarom 1#^jarom-1-9|≈ Jarom 1:9]] · [[Omni 1#^omni-1-6|≈ Omni 1:6]]
+> [[2 Nephi 1#^2ne-1-20|2 Ne. 1:20]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Alma 37#^alma-37-13|Alma 37:13]] · [[Helaman 12#^hel-12-25|≈ Helaman 12:25]] · [[Omni 1#^omni-1-6|≈ Omni 1:6]] · [[Helaman 14#^hel-14-16|≈ Helaman 14:16]] · [[Ether 2#^ether-2-15|≈ Ether 2:15]] · [[Ether 10#^ether-10-11|≈ Ether 10:11]] · [[Jarom 1#^jarom-1-9|≈ Jarom 1:9]]
 
 ![[Alma 9#^alma-9-14]]
-> [[2 Nephi 5#^2ne-5-20|2 Ne. 5:20 (20–24)]] · [[Alma 38#^alma-38-1|Alma 38:1]] · [[Helaman 12#^hel-12-25|≈ Helaman 12:25]] · [[Helaman 14#^hel-14-16|≈ Helaman 14:16]] · [[Ether 2#^ether-2-15|≈ Ether 2:15]] · [[Ether 10#^ether-10-11|≈ Ether 10:11]] · [[1 Nephi 2#^1ne-2-21|≈ 1 Nephi 2:21]] · [[1 Nephi 8#^1ne-8-36|≈ 1 Nephi 8:36]]
+> [[2 Nephi 5#^2ne-5-20|2 Ne. 5:20 (20–24)]] · [[Alma 38#^alma-38-1|Alma 38:1]] · [[Helaman 12#^hel-12-25|≈ Helaman 12:25]] · [[Helaman 14#^hel-14-16|≈ Helaman 14:16]] · [[Ether 2#^ether-2-15|≈ Ether 2:15]] · [[Ether 10#^ether-10-11|≈ Ether 10:11]] · [[Alma 50#^alma-50-20|≈ Alma 50:20]] · [[1 Nephi 2#^1ne-2-21|≈ 1 Nephi 2:21]]
 
 ![[Alma 9#^alma-9-15]]
-> [[Matthew 11#^matt-11-22|Matt. 11:22 (22, 24)]] · [[Matthew 10#^matt-10-15|≈ Matthew 10:15]] · [[Matthew 11#^matt-11-24|≈ Matthew 11:24]] · [[Matthew 11#^matt-11-22|≈ Matthew 11:22]] · [[Mark 6#^mark-6-11|≈ Mark 6:11]] · [[D&C 75#^dc-75-22|≈ D&C 75:22]] · [[Luke 10#^luke-10-12|≈ Luke 10:12]]
+> [[Matthew 11#^matt-11-22|Matt. 11:22 (22, 24)]] · [[Matthew 11#^matt-11-24|≈ Matthew 11:24]] · [[Matthew 11#^matt-11-22|≈ Matthew 11:22]] · [[Matthew 10#^matt-10-15|≈ Matthew 10:15]] · [[Mark 6#^mark-6-11|≈ Mark 6:11]] · [[D&C 75#^dc-75-22|≈ D&C 75:22]] · [[Luke 10#^luke-10-12|≈ Luke 10:12]]
 
 ![[Alma 9#^alma-9-16]]
 > [[Alma 17#^alma-17-15|Alma 17:15]] · [[Alma 3#^alma-3-8|Alma 3:8]] · [[Alma 17#^alma-17-15|17:15]] · [[2 Nephi 9#^2ne-9-25|2 Ne. 9:26 (25–26)]] · [[Mosiah 3#^mosiah-3-11|Mosiah 3:11]] · [[Alma 42#^alma-42-21|Alma 42:21]] · [[Deuteronomy 11#^deut-11-8|Deut. 11:9 (8–9)]] · [[Deuteronomy 32#^deut-32-47|32:47]] · [[Helaman 15#^hel-15-10|Hel. 15:11 (10–11)]] · [[D&C 5#^dc-5-33|D&amp;C 5:33]]

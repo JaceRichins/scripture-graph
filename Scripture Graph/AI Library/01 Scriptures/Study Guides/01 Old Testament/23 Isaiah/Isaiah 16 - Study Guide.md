@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 16
 slug: isa-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[2 Kings 3]] — 1 footnote cross-reference (from [[Isaiah 16#^isa-16-7|Isaiah 16:7]])
 - [[Isaiah 15]] — 1 footnote cross-reference (from [[Isaiah 16#^isa-16-11|Isaiah 16:11]])
 - [[2 Kings 19]] — 1 parallel verse, e.g. [[Isaiah 16#^isa-16-13|Isaiah 16:13]] ↔ [[2 Kings 19#^2kgs-19-21|2 Kings 19:21]]
+- [[Jeremiah 48]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

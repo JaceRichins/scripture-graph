@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 9
 slug: isa-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Bible** (reference-entry) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1836-02-01 (Vol. 2 No. 5)** (periodical, 1836-02-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

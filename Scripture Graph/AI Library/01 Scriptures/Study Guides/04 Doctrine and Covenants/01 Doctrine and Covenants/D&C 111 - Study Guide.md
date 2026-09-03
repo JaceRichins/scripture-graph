@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 111
 slug: dc-111
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 111]] · My notes: [[D&C 111 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–5, The Lord looks to the temporal needs of His servants; 6–11, He will deal mercifully with Zion and arrange all things for the good of His servants.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,8 +38,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Jeremiah 32]] — 2 parallel verses, e.g. [[D&C 111#^dc-111-4|D&C 111:4]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
-- [[D&C 104]] — 2 parallel verses, e.g. [[D&C 111#^dc-111-8|D&C 111:8]] ↔ [[D&C 104#^dc-104-78|D&C 104:78]]
+- [[Acts 18]] — 1 footnote cross-reference (from [[D&C 111#^dc-111-2|D&C 111:2]])
+- [[Romans 1]] — 1 footnote cross-reference (from [[D&C 111#^dc-111-2|D&C 111:2]])
+- [[D&C 64]] — 1 footnote cross-reference (from [[D&C 111#^dc-111-5|D&C 111:5]])
+- [[Micah 5]] — 1 footnote cross-reference (from [[D&C 111#^dc-111-8|D&C 111:8]])
+- [[D&C 27]] — 1 footnote cross-reference (from [[D&C 111#^dc-111-8|D&C 111:8]])
+- [[Matthew 10]] — 1 footnote cross-reference (from [[D&C 111#^dc-111-11|D&C 111:11]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -59,7 +64,9 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **More Treasures Than One** (history) *(explicit citation)*
+- **22 Try the Lord** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Sources Cited** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

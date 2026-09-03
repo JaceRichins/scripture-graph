@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 31
 slug: deut-31
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ Deuteronomy 31 prepares Israel for life after Moses. Joshua is publicly commissi
 - [[Numbers 20]] — 1 footnote cross-reference (from [[Deuteronomy 31#^deut-31-2|Deuteronomy 31:2]])
 - [[Ether 9]] — 1 footnote cross-reference (from [[Deuteronomy 31#^deut-31-4|Deuteronomy 31:4]])
 - [[Isaiah 41]] — 1 footnote cross-reference (from [[Deuteronomy 31#^deut-31-6|Deuteronomy 31:6]])
+- [[Joshua 1]] — 11 parallel verses, e.g. [[Deuteronomy 31#^deut-31-23|Deuteronomy 31:23]] ↔ [[Joshua 1#^josh-1-6|Joshua 1:6]]
 - [[1 Chronicles 15]] — 12 parallel verses, e.g. [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]] ↔ [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]]
 - [[Joshua 3]] — 9 parallel verses, e.g. [[Deuteronomy 31#^deut-31-26|Deuteronomy 31:26]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
 - [[1 Chronicles 28]] — 8 parallel verses, e.g. [[Deuteronomy 31#^deut-31-6|Deuteronomy 31:6]] ↔ [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]]
@@ -59,17 +60,16 @@ Deuteronomy 31 prepares Israel for life after Moses. Joshua is publicly commissi
 - [[Joshua 8]] — 3 parallel verses, e.g. [[Deuteronomy 31#^deut-31-25|Deuteronomy 31:25]] ↔ [[Joshua 8#^josh-8-33|Joshua 8:33]]
 - [[Deuteronomy 32]] — 3 parallel verses, e.g. [[Deuteronomy 31#^deut-31-13|Deuteronomy 31:13]] ↔ [[Deuteronomy 32#^deut-32-47|Deuteronomy 32:47]]
 - [[Deuteronomy 16]] — 2 parallel verses, e.g. [[Deuteronomy 31#^deut-31-11|Deuteronomy 31:11]] ↔ [[Deuteronomy 16#^deut-16-16|Deuteronomy 16:16]]
-- [[Deuteronomy 10]] — 4 parallel verses, e.g. [[Deuteronomy 31#^deut-31-20|Deuteronomy 31:20]] ↔ [[Deuteronomy 10#^deut-10-11|Deuteronomy 10:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Records and Sacred Writings]]
 - [[Scripture Study]]
 - [[Education and Learning]]
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

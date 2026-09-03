@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 12
 slug: job-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

@@ -46,8 +46,10 @@ Perspective is labeled, not scored: faithful ≠ accurate and critical ≠ accur
 
 ## Recently ingested
 
+- 2026-09-02 — [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] (followHIM)
 - 2026-08-25 — [[2026-08-25 219 - White Horse Prophecy In Depth I Religion & Politics I Church His|219 - White Horse Prophecy In Depth I Religion & Politics I Church History Matte]] (Church History Matters)
 - 2026-08-20 — [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] (followHIM)
 - 2026-08-20 — [[2026-08-20 Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me]] (followHIM)
+- 2026-08-19 — [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] (followHIM)
 
-_3 episodes ingested · 3 approved sources · see [[Secondary Source Discoveries|Discovery Report]]_
+_5 episodes ingested · 3 approved sources · see [[Secondary Source Discoveries|Discovery Report]]_

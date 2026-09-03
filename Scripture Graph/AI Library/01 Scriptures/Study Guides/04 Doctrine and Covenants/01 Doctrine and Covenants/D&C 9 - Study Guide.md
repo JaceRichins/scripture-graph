@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 9
 slug: dc-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -83,11 +83,11 @@ _Not yet developed._
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Adoption** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
+- **05 All Is Lost** (history) *(explicit citation)*
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Joseph Smith** (reference-entry) *(explicit citation)*
-- **Revelation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 3
 slug: ps-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -40,6 +40,7 @@ _Not yet developed._
 <!-- SG:BEGIN related-scriptures -->
 - [[2 Samuel 15]] — 1 footnote cross-reference (from [[Psalm 3#^ps-3-1|Psalm 3:1]])
 - [[2 Samuel 17]] — 1 footnote cross-reference (from [[Psalm 3#^ps-3-1|Psalm 3:1]])
+- [[Psalm 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -59,7 +60,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Absalom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

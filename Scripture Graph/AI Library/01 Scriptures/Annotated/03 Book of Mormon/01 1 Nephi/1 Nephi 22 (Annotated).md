@@ -50,10 +50,10 @@ cssclasses:
 > [[3 Nephi 20#^3ne-20-35|≈ 3 Nephi 20:35]] · [[3 Nephi 16#^3ne-16-20|≈ 3 Nephi 16:20]] · [[D&C 133#^dc-133-3|≈ D&C 133:3]] · [[2 Nephi 33#^2ne-33-13|≈ 2 Nephi 33:13]] · [[2 Nephi 27#^2ne-27-14|≈ 2 Nephi 27:14]] · [[1 Nephi 19#^1ne-19-10|≈ 1 Nephi 19:10]]
 
 ![[1 Nephi 22#^1ne-22-12]]
-> [[Psalm 80#^ps-80-17|Ps. 80:19 (17–19)]] · [[D&C 35#^dc-35-25|D&amp;C 35:25]] · [[1 Nephi 21#^1ne-21-24|1 Ne. 21:25 (24–25)]] · [[1 Nephi 19#^1ne-19-15|1 Ne. 19:15]] · [[2 Nephi 6#^2ne-6-10|2 Ne. 6:11 (10–15)]] · [[2 Nephi 6#^2ne-6-15|≈ 2 Nephi 6:15]] · [[2 Nephi 6#^2ne-6-11|≈ 2 Nephi 6:11]] · [[D&C 1#^dc-1-30|≈ D&C 1:30]] · [[2 Nephi 27#^2ne-27-29|≈ 2 Nephi 27:29]]
+> [[Psalm 80#^ps-80-17|Ps. 80:19 (17–19)]] · [[D&C 35#^dc-35-25|D&amp;C 35:25]] · [[1 Nephi 21#^1ne-21-24|1 Ne. 21:25 (24–25)]] · [[1 Nephi 19#^1ne-19-15|1 Ne. 19:15]] · [[2 Nephi 6#^2ne-6-10|2 Ne. 6:11 (10–15)]] · [[D&C 1#^dc-1-30|≈ D&C 1:30]] · [[2 Nephi 6#^2ne-6-15|≈ 2 Nephi 6:15]] · [[2 Nephi 6#^2ne-6-11|≈ 2 Nephi 6:11]] · [[2 Nephi 27#^2ne-27-29|≈ 2 Nephi 27:29]]
 
 ![[1 Nephi 22#^1ne-22-13]]
-> [[Revelation 17#^rev-17-16|Rev. 17:16 (16–17)]] · [[1 Nephi 14#^1ne-14-3|1 Ne. 14:16 (3, 15–17)]] · [[2 Nephi 6#^2ne-6-15|2 Ne. 6:15]] · [[1 Nephi 21#^1ne-21-24|1 Ne. 21:26 (24–26)]] · [[2 Nephi 6#^2ne-6-18|≈ 2 Nephi 6:18]] · [[Isaiah 49#^isa-49-26|≈ Isaiah 49:26]] · [[D&C 29#^dc-29-21|≈ D&C 29:21]] · [[2 Nephi 28#^2ne-28-18|≈ 2 Nephi 28:18]] · [[1 Nephi 14#^1ne-14-9|≈ 1 Nephi 14:9]] · [[1 Nephi 14#^1ne-14-10|≈ 1 Nephi 14:10]]
+> [[Revelation 17#^rev-17-16|Rev. 17:16 (16–17)]] · [[1 Nephi 14#^1ne-14-3|1 Ne. 14:16 (3, 15–17)]] · [[2 Nephi 6#^2ne-6-15|2 Ne. 6:15]] · [[1 Nephi 21#^1ne-21-24|1 Ne. 21:26 (24–26)]] · [[2 Nephi 6#^2ne-6-18|≈ 2 Nephi 6:18]] · [[D&C 29#^dc-29-21|≈ D&C 29:21]] · [[2 Nephi 28#^2ne-28-18|≈ 2 Nephi 28:18]] · [[Isaiah 49#^isa-49-26|≈ Isaiah 49:26]] · [[1 Nephi 14#^1ne-14-9|≈ 1 Nephi 14:9]] · [[1 Nephi 14#^1ne-14-10|≈ 1 Nephi 14:10]]
 
 ![[1 Nephi 22#^1ne-22-14]]
 > [[Luke 21#^luke-21-10|Luke 21:10]] · [[Psalm 7#^ps-7-15|Ps. 7:15]] · [[Proverbs 26#^prov-26-27|Prov. 26:27]] · [[Proverbs 28#^prov-28-10|28:10]] · [[Isaiah 60#^isa-60-12|Isa. 60:12]] · [[Zechariah 12#^zech-12-9|Zech. 12:9]] · [[1 Nephi 14#^1ne-14-3|1 Ne. 14:3]] · [[2 Nephi 28#^2ne-28-8|2 Ne. 28:8]] · [[D&C 109#^dc-109-25|D&amp;C 109:25]] · [[2 Nephi 10#^2ne-10-13|2 Ne. 10:13]]
@@ -68,7 +68,7 @@ cssclasses:
 > [[2 Nephi 30#^2ne-30-10|2 Ne. 30:10]] · [[3 Nephi 22#^3ne-22-13|3 Ne. 22:13 (13–17)]] · [[Moses 7#^moses-7-61|Moses 7:61]] · [[Psalm 55#^ps-55-22|Ps. 55:22]] · [[1 Nephi 17#^1ne-17-33|1 Ne. 17:35 (33–38)]]
 
 ![[1 Nephi 22#^1ne-22-18]]
-> [[2 Nephi 1#^2ne-1-9|≈ 2 Nephi 1:9]] · [[3 Nephi 26#^3ne-26-10|≈ 3 Nephi 26:10]] · [[1 Nephi 14#^1ne-14-6|≈ 1 Nephi 14:6]] · [[1 Nephi 19#^1ne-19-15|≈ 1 Nephi 19:15]]
+> [[2 Nephi 1#^2ne-1-9|≈ 2 Nephi 1:9]] · [[3 Nephi 26#^3ne-26-10|≈ 3 Nephi 26:10]] · [[1 Nephi 19#^1ne-19-15|≈ 1 Nephi 19:15]] · [[1 Nephi 14#^1ne-14-6|≈ 1 Nephi 14:6]]
 
 ![[1 Nephi 22#^1ne-22-19]]
 
@@ -87,7 +87,7 @@ cssclasses:
 > [[Amos 6#^amos-6-4|Amos 6:4]] · [[Malachi 4#^mal-4-2|Mal. 4:2]] · [[3 Nephi 25#^3ne-25-2|3 Ne. 25:2]]
 
 ![[1 Nephi 22#^1ne-22-25]]
-> [[Isaiah 43#^isa-43-5|Isa. 43:6 (5–7)]] · [[Ephesians 1#^eph-1-10|Eph. 1:10]] · [[1 Nephi 21#^1ne-21-9|1 Ne. 21:9]] · [[John 10#^john-10-16|≈ John 10:16]] · [[3 Nephi 15#^3ne-15-17|≈ 3 Nephi 15:17]] · [[3 Nephi 15#^3ne-15-21|≈ 3 Nephi 15:21]] · [[Joseph Smith—Matthew 1#^jsm-1-27|≈ Joseph Smith—Matthew 1:27]] · [[3 Nephi 16#^3ne-16-5|≈ 3 Nephi 16:5]] · [[D&C 45#^dc-45-46|≈ D&C 45:46]]
+> [[Isaiah 43#^isa-43-5|Isa. 43:6 (5–7)]] · [[Ephesians 1#^eph-1-10|Eph. 1:10]] · [[1 Nephi 21#^1ne-21-9|1 Ne. 21:9]] · [[Joseph Smith—Matthew 1#^jsm-1-27|≈ Joseph Smith—Matthew 1:27]] · [[3 Nephi 16#^3ne-16-5|≈ 3 Nephi 16:5]] · [[D&C 45#^dc-45-46|≈ D&C 45:46]] · [[3 Nephi 5#^3ne-5-24|≈ 3 Nephi 5:24]] · [[3 Nephi 5#^3ne-5-26|≈ 3 Nephi 5:26]] · [[John 10#^john-10-16|≈ John 10:16]]
 
 ![[1 Nephi 22#^1ne-22-26]]
 > [[Revelation 20#^rev-20-2|Rev. 20:2]] · [[Alma 48#^alma-48-16|Alma 48:17 (16–17)]] · [[D&C 43#^dc-43-31|D&amp;C 43:31]] · [[D&C 45#^dc-45-55|45:55]] · [[D&C 88#^dc-88-110|88:110]] · [[D&C 101#^dc-101-28|101:28]] · [[Jacob 5#^jacob-5-76|Jacob 5:76]] · [[Ether 15#^ether-15-19|≈ Ether 15:19]]

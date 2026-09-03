@@ -46,13 +46,13 @@ cssclasses:
 > [[Judges 3#^judg-3-7|≈ Judges 3:7]] · [[Judges 3#^judg-3-12|≈ Judges 3:12]] · [[Judges 6#^judg-6-1|≈ Judges 6:1]] · [[Judges 10#^judg-10-6|≈ Judges 10:6]]
 
 ![[Judges 2#^judg-2-12]]
-> [[2 Chronicles 7#^2chr-7-22|≈ 2 Chronicles 7:22]] · [[Deuteronomy 29#^deut-29-25|≈ Deuteronomy 29:25]]
+> [[Deuteronomy 29#^deut-29-25|≈ Deuteronomy 29:25]] · [[2 Chronicles 7#^2chr-7-22|≈ 2 Chronicles 7:22]]
 
 ![[Judges 2#^judg-2-13]]
 > [[1 Samuel 7#^1sam-7-4|1 Sam. 7:4]]
 
 ![[Judges 2#^judg-2-14]]
-> [[D&C 95#^dc-95-1|D&amp;C 95:2 (1–3)]] · [[D&C 98#^dc-98-21|98:21]] · [[Nehemiah 9#^neh-9-27|Neh. 9:27]] · [[Judges 3#^judg-3-8|≈ Judges 3:8]] · [[Numbers 11#^num-11-10|≈ Numbers 11:10]] · [[Numbers 12#^num-12-9|≈ Numbers 12:9]] · [[Numbers 25#^num-25-3|≈ Numbers 25:3]] · [[2 Kings 13#^2kgs-13-3|≈ 2 Kings 13:3]] · [[Judges 10#^judg-10-7|≈ Judges 10:7]]
+> [[D&C 95#^dc-95-1|D&amp;C 95:2 (1–3)]] · [[D&C 98#^dc-98-21|98:21]] · [[Nehemiah 9#^neh-9-27|Neh. 9:27]] · [[Judges 3#^judg-3-8|≈ Judges 3:8]] · [[Numbers 11#^num-11-10|≈ Numbers 11:10]] · [[Numbers 12#^num-12-9|≈ Numbers 12:9]] · [[Numbers 25#^num-25-3|≈ Numbers 25:3]] · [[Deuteronomy 29#^deut-29-27|≈ Deuteronomy 29:27]] · [[2 Kings 13#^2kgs-13-3|≈ 2 Kings 13:3]]
 
 ![[Judges 2#^judg-2-15]]
 > [[Leviticus 26#^lev-26-3|Lev. 26:3 (3–46)]]
@@ -70,7 +70,7 @@ cssclasses:
 > [[Matthew 23#^matt-23-30|Matt. 23:32 (30–32)]]
 
 ![[Judges 2#^judg-2-20]]
-> [[Judges 3#^judg-3-8|≈ Judges 3:8]] · [[Numbers 11#^num-11-10|≈ Numbers 11:10]] · [[Numbers 12#^num-12-9|≈ Numbers 12:9]] · [[Numbers 25#^num-25-3|≈ Numbers 25:3]] · [[2 Kings 13#^2kgs-13-3|≈ 2 Kings 13:3]] · [[Judges 10#^judg-10-7|≈ Judges 10:7]]
+> [[Judges 3#^judg-3-8|≈ Judges 3:8]] · [[Numbers 11#^num-11-10|≈ Numbers 11:10]] · [[Numbers 12#^num-12-9|≈ Numbers 12:9]] · [[Numbers 25#^num-25-3|≈ Numbers 25:3]] · [[Deuteronomy 29#^deut-29-27|≈ Deuteronomy 29:27]] · [[2 Kings 13#^2kgs-13-3|≈ 2 Kings 13:3]]
 
 ![[Judges 2#^judg-2-21]]
 

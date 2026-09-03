@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 30
 slug: ex-30
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

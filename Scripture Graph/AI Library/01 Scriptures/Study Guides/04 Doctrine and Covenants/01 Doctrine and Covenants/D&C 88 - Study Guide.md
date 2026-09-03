@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 88
 slug: dc-88
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,30 +49,36 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 76]] — 17 footnote cross-references (from [[D&C 88#^dc-88-3|D&C 88:3]])
+- [[D&C 43]] — 10 footnote cross-references (from [[D&C 88#^dc-88-21|D&C 88:21]])
+- [[D&C 133]] — 10 footnote cross-references (from [[D&C 88#^dc-88-74|D&C 88:74]])
+- [[D&C 93]] — 8 footnote cross-references (from [[D&C 88#^dc-88-6|D&C 88:6]])
+- [[D&C 84]] — 7 footnote cross-references (from [[D&C 88#^dc-88-7|D&C 88:7]])
+- [[D&C 101]] — 7 footnote cross-references (from [[D&C 88#^dc-88-28|D&C 88:28]])
 - [[D&C 109]] — 7 parallel verses, e.g. [[D&C 88#^dc-88-119|D&C 88:119]] ↔ [[D&C 109#^dc-109-8|D&C 109:8]]
+- [[Revelation 14]] — 5 parallel verses, e.g. [[D&C 88#^dc-88-94|D&C 88:94]] ↔ [[Revelation 14#^rev-14-8|Revelation 14:8]]
 - [[D&C 49]] — 6 parallel verses, e.g. [[D&C 88#^dc-88-63|D&C 88:63]] ↔ [[D&C 49#^dc-49-26|D&C 49:26]]
 - [[D&C 76]] — 4 parallel verses, e.g. [[D&C 88#^dc-88-106|D&C 88:106]] ↔ [[D&C 76#^dc-76-107|D&C 76:107]]
+- [[D&C 90]] — 6 parallel verses, e.g. [[D&C 88#^dc-88-77|D&C 88:77]] ↔ [[D&C 90#^dc-90-12|D&C 90:12]]
 - [[3 Nephi 18]] — 4 parallel verses, e.g. [[D&C 88#^dc-88-62|D&C 88:62]] ↔ [[3 Nephi 18#^3ne-18-28|3 Nephi 18:28]]
 - [[D&C 133]] — 3 parallel verses, e.g. [[D&C 88#^dc-88-92|D&C 88:92]] ↔ [[D&C 133#^dc-133-10|D&C 133:10]]
 - [[D&C 35]] — 2 parallel verses, e.g. [[D&C 88#^dc-88-94|D&C 88:94]] ↔ [[D&C 35#^dc-35-11|D&C 35:11]]
+- [[D&C 98]] — 3 parallel verses, e.g. [[D&C 88#^dc-88-2|D&C 88:2]] ↔ [[D&C 98#^dc-98-2|D&C 98:2]]
+- [[D&C 45]] — 3 parallel verses, e.g. [[D&C 88#^dc-88-87|D&C 88:87]] ↔ [[D&C 45#^dc-45-48|D&C 45:48]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[D&C 88#^dc-88-63|D&C 88:63]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
 - [[Revelation 18]] — 2 parallel verses, e.g. [[D&C 88#^dc-88-94|D&C 88:94]] ↔ [[Revelation 18#^rev-18-3|Revelation 18:3]]
-- [[D&C 42]] — 3 parallel verses, e.g. [[D&C 88#^dc-88-77|D&C 88:77]] ↔ [[D&C 42#^dc-42-58|D&C 42:58]]
-- [[D&C 95]] — 2 parallel verses, e.g. [[D&C 88#^dc-88-2|D&C 88:2]] ↔ [[D&C 95#^dc-95-7|D&C 95:7]]
-- [[D&C 61]] — 3 parallel verses, e.g. [[D&C 88#^dc-88-1|D&C 88:1]] ↔ [[D&C 61#^dc-61-2|D&C 61:2]]
-- [[D&C 4]] — 1 parallel verse, e.g. [[D&C 88#^dc-88-63|D&C 88:63]] ↔ [[D&C 4#^dc-4-7|D&C 4:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Education and Learning]]
 - [[Light of Christ]]
 - [[Temples]]
-- [[Education and Learning]]
-- [[Justification and Sanctification]]
-- [[War and Peace]]
 - [[Parables of Jesus]]
 - [[Kingdoms of Glory]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -99,13 +105,13 @@ Central doctrines include: (1) the [[Light of Christ]], described as present in 
 - **A School and an Endowment** (history) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **15 Holy Places** (history) *(explicit citation)*
 - **Newel K. Whitney and the United Firm** (history) *(explicit citation)*
 - **Peace and War** (history) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Millennium** (reference-entry) *(explicit citation)*
 - **Religion and Science** (reference-entry) *(explicit citation)*
-- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

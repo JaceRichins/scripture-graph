@@ -59,7 +59,7 @@ cssclasses:
 > [[Isaiah 54#^isa-54-6|Isa. 54:6]] · [[Isaiah 62#^isa-62-4|62:4]]
 
 ![[Isaiah 60#^isa-60-16]]
-> [[Isaiah 49#^isa-49-23|Isa. 49:23]] · [[1 Nephi 21#^1ne-21-22|1 Ne. 21:23 (22–23)]] · [[2 Nephi 6#^2ne-6-6|2 Ne. 6:7 (6–7)]] · [[Isaiah 49#^isa-49-26|≈ Isaiah 49:26]] · [[1 Nephi 21#^1ne-21-26|≈ 1 Nephi 21:26]] · [[2 Nephi 6#^2ne-6-18|≈ 2 Nephi 6:18]]
+> [[Isaiah 49#^isa-49-23|Isa. 49:23]] · [[1 Nephi 21#^1ne-21-22|1 Ne. 21:23 (22–23)]] · [[2 Nephi 6#^2ne-6-6|2 Ne. 6:7 (6–7)]] · [[2 Nephi 6#^2ne-6-18|≈ 2 Nephi 6:18]] · [[Isaiah 49#^isa-49-26|≈ Isaiah 49:26]] · [[1 Nephi 21#^1ne-21-26|≈ 1 Nephi 21:26]]
 
 ![[Isaiah 60#^isa-60-17]]
 

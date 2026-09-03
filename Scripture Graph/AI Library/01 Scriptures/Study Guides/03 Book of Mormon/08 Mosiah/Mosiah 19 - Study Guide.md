@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 19
 slug: mosiah-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,13 +53,14 @@ _Not yet developed._
 - [[Mosiah 22]] — 2 footnote cross-references (from [[Mosiah 19#^mosiah-19-26|Mosiah 19:26]])
 - [[Mosiah 7]] — 2 parallel verses, e.g. [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]] ↔ [[Mosiah 7#^mosiah-7-15|Mosiah 7:15]]
 - [[3 Nephi 6]] — 1 parallel verse, e.g. [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]] ↔ [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]]
+- [[Mosiah 11]] — 1 parallel verse, e.g. [[Mosiah 19#^mosiah-19-4|Mosiah 19:4]] ↔ [[Mosiah 11#^mosiah-11-20|Mosiah 11:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[War and Peace]]
 - [[Freedom and Liberty]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Prophecy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -73,7 +74,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Power of Deliverance (Elder L. Tom Perry, April 2012)|The Power of Deliverance]] — Elder L. Tom Perry, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

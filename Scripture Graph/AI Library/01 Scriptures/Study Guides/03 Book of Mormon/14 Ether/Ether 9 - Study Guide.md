@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 9
 slug: ether-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,11 +64,11 @@ Scripture: [[Ether 9]] · My notes: [[Ether 9 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Secret Combinations]]
 - [[War and Peace]]
 - [[Covenants]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*

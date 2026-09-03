@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 3
 slug: ezra-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,18 +50,18 @@ Scripture: [[Ezra 3]] · My notes: [[Ezra 3 - My Notes]]
 - [[Mosiah 2]] — 1 footnote cross-reference (from [[Ezra 3#^ezra-3-2|Ezra 3:2]])
 - [[Deuteronomy 33]] — 1 footnote cross-reference (from [[Ezra 3#^ezra-3-2|Ezra 3:2]])
 - [[Leviticus 23]] — 1 footnote cross-reference (from [[Ezra 3#^ezra-3-4|Ezra 3:4]])
+- [[Ezra 5]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[Ezra 5#^ezra-5-2|Ezra 5:2]]
 - [[Daniel 9]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[Daniel 9#^dan-9-13|Daniel 9:13]]
 - [[2 Chronicles 31]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[2 Chronicles 31#^2chr-31-17|2 Chronicles 31:17]]
+- [[Nehemiah 8]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-1|Ezra 3:1]] ↔ [[Nehemiah 8#^neh-8-1|Nehemiah 8:1]]
 - [[2 Chronicles 30]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[2 Chronicles 30#^2chr-30-16|2 Chronicles 30:16]]
 - [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-11|Ezra 3:11]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
 - [[2 Chronicles 8]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-11|Ezra 3:11]] ↔ [[2 Chronicles 8#^2chr-8-16|2 Chronicles 8:16]]
+- [[1 Chronicles 23]] — 1 parallel verse, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[1 Chronicles 23#^1chr-23-4|1 Chronicles 23:4]]
 - [[1 Kings 2]] — 1 parallel verse, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[1 Kings 2#^1kgs-2-3|1 Kings 2:3]]
 - [[2 Chronicles 23]] — 1 parallel verse, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
-- [[Nehemiah 8]] — 0 parallel verses
-- [[Ezra 5]] — 0 parallel verses
 - [[1 Chronicles 16]] — 0 parallel verses
-- [[1 Chronicles 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 8
 slug: 2chr-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

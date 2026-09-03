@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 119
 slug: ps-119
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,10 +49,10 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Pride]]
 - [[Scripture Study]]
 - [[Endurance]]
 - [[Education and Learning]]
+- [[Pride]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
@@ -79,6 +79,7 @@ God's word is portrayed as life-giving, guiding, and true (Psalm 119:25, 105, 14
 - [[The Home The School of Life (Elder Enrique R. Falabella, April 2013)|The Home: The School of Life]] — Elder Enrique R. Falabella, 2013-April *(explicit citation)*
 - [[Yes, Lord, I Will Follow Thee (Elder Eduardo Gavarret, October 2014)|Yes, Lord, I Will Follow Thee]] — Elder Eduardo Gavarret, 2014-October *(explicit citation)*
 - [[Conference Report, October 1925 (General Conference (full report), October 1925)|Conference Report, October 1925]] — General Conference (full report), 1925-October *(explicit citation)*
+- [[Teaching Our Children to Understand (Cheryl A. Esplin, April 2012)|Teaching Our Children to Understand]] — Cheryl A. Esplin, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

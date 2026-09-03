@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 28
 slug: acts-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

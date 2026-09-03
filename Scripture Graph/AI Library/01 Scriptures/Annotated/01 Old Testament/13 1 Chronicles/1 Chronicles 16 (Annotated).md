@@ -110,14 +110,14 @@ cssclasses:
 > [[Isaiah 55#^isa-55-12|Isa. 55:12]]
 
 ![[1 Chronicles 16#^1chr-16-34]]
-> [[D&C 98#^dc-98-1|D&amp;C 98:1]] · [[Ezra 3#^ezra-3-11|Ezra 3:11]] · [[Psalm 106#^ps-106-1|≈ Psalm 106:1]] · [[Psalm 107#^ps-107-1|≈ Psalm 107:1]] · [[Psalm 118#^ps-118-29|≈ Psalm 118:29]] · [[Psalm 118#^ps-118-1|≈ Psalm 118:1]] · [[Psalm 136#^ps-136-1|≈ Psalm 136:1]] · [[2 Chronicles 5#^2chr-5-13|≈ 2 Chronicles 5:13]]
+> [[D&C 98#^dc-98-1|D&amp;C 98:1]] · [[Ezra 3#^ezra-3-11|Ezra 3:11]] · [[Psalm 106#^ps-106-1|≈ Psalm 106:1]] · [[2 Chronicles 5#^2chr-5-13|≈ 2 Chronicles 5:13]] · [[Psalm 107#^ps-107-1|≈ Psalm 107:1]] · [[Psalm 118#^ps-118-29|≈ Psalm 118:29]] · [[Psalm 118#^ps-118-1|≈ Psalm 118:1]] · [[Psalm 136#^ps-136-1|≈ Psalm 136:1]]
 
 ![[1 Chronicles 16#^1chr-16-35]]
 
 ![[1 Chronicles 16#^1chr-16-36]]
 
 ![[1 Chronicles 16#^1chr-16-37]]
-> [[Joshua 4#^josh-4-7|≈ Joshua 4:7]] · [[Joshua 4#^josh-4-18|≈ Joshua 4:18]] · [[Deuteronomy 31#^deut-31-9|≈ Deuteronomy 31:9]] · [[Deuteronomy 31#^deut-31-25|≈ Deuteronomy 31:25]] · [[Deuteronomy 31#^deut-31-26|≈ Deuteronomy 31:26]] · [[Joshua 3#^josh-3-3|≈ Joshua 3:3]]
+> [[2 Chronicles 5#^2chr-5-2|≈ 2 Chronicles 5:2]] · [[2 Chronicles 5#^2chr-5-7|≈ 2 Chronicles 5:7]] · [[Joshua 4#^josh-4-7|≈ Joshua 4:7]] · [[Joshua 4#^josh-4-18|≈ Joshua 4:18]] · [[Deuteronomy 31#^deut-31-9|≈ Deuteronomy 31:9]] · [[Deuteronomy 31#^deut-31-25|≈ Deuteronomy 31:25]]
 
 ![[1 Chronicles 16#^1chr-16-38]]
 

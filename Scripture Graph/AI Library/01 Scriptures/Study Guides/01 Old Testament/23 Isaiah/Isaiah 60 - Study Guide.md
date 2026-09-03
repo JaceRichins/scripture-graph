@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 60
 slug: isa-60
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,9 @@ _Not yet developed._
 - [[Isaiah 49]] — 2 parallel verses, e.g. [[Isaiah 60#^isa-60-16|Isaiah 60:16]] ↔ [[Isaiah 49#^isa-49-26|Isaiah 49:26]]
 - [[1 Nephi 21]] — 2 parallel verses, e.g. [[Isaiah 60#^isa-60-16|Isaiah 60:16]] ↔ [[1 Nephi 21#^1ne-21-26|1 Nephi 21:26]]
 - [[2 Nephi 6]] — 1 parallel verse, e.g. [[Isaiah 60#^isa-60-16|Isaiah 60:16]] ↔ [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]]
+- [[D&C 112]] — 0 parallel verses
+- [[D&C 115]] — 0 parallel verses
+- [[Isaiah 62]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,7 +69,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **23 Every Snare** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

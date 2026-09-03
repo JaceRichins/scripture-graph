@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 11
 slug: alma-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -83,11 +83,11 @@ _Not yet developed._
 - [[A Living Witness of the Living Christ (Bishop Gérald Caussé, April 2020)|A Living Witness of the Living Christ]] — Bishop Gérald Caussé, 2020-April *(explicit citation)*
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[Because of Jesus Christ (Elder Dale G. Renlund, April 2026)|Because of Jesus Christ]] — Elder Dale G. Renlund, 2026-April *(explicit citation)*
+- [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
 - [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
 - [[Our Father’s Glorious Plan (Elder Weatherford T. Clayton, April 2017)|Our Father’s Glorious Plan]] — Elder Weatherford T. Clayton, 2017-April *(explicit citation)*
 - [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
 - [[Behold the Man! (Elder Dieter F. Uchtdorf, April 2018)|Behold the Man!]] — Elder Dieter F. Uchtdorf, 2018-April *(explicit citation)*
-- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

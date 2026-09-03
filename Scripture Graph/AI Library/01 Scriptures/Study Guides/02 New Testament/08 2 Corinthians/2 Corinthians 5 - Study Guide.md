@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 5
 slug: 2cor-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ Key doctrinal threads: (1) hope of a future, immortal embodiment described throu
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
+- **Atonement** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

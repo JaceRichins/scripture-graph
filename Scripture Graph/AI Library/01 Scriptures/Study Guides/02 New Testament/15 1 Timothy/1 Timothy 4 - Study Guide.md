@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 4
 slug: 1tim-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,8 @@ _Not yet developed._
 - [[Luke 12]] — 1 footnote cross-reference (from [[1 Timothy 4#^1tim-4-8|1 Timothy 4:8]])
 - [[1 Corinthians 16]] — 1 footnote cross-reference (from [[1 Timothy 4#^1tim-4-12|1 Timothy 4:12]])
 - [[1 Timothy 1]] — 1 parallel verse, e.g. [[1 Timothy 4#^1tim-4-9|1 Timothy 4:9]] ↔ [[1 Timothy 1#^1tim-1-15|1 Timothy 1:15]]
+- [[D&C 49]] — 0 parallel verses
+- [[2 Timothy 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -59,6 +61,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Power of the Aaronic Priesthood (Bishop Keith B. McMullin, October 2011)|The Power of the Aaronic Priesthood]] — Bishop Keith B. McMullin, 2011-October *(explicit citation)*
 - [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
 - [[Be an Example and a Light (President Thomas S. Monson, October 2015)|Be an Example and a Light]] — President Thomas S. Monson, 2015-October *(explicit citation)*
 - [[Teaching in the Home—a Joyful and Sacred Responsibility (Devin G. Durrant, April 2018)|Teaching in the Home—a Joyful and Sacred Responsibility]] — Devin G. Durrant, 2018-April *(explicit citation)*
@@ -66,8 +69,8 @@ _Not yet developed._
 - [[Think Celestial! (President Russell M. Nelson, October 2023)|Think Celestial!]] — President Russell M. Nelson, 2023-October *(explicit citation)*
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
 - [[Guided Safely Home (President Thomas S. Monson, October 2014)|Guided Safely Home]] — President Thomas S. Monson, 2014-October *(explicit citation)*
-- [[Strengthened by the Atonement of Jesus Christ (Elder Dallin H. Oaks, October 2015)|Strengthened by the Atonement of Jesus Christ]] — Elder Dallin H. Oaks, 2015-October *(explicit citation)*
-- [[Inspired Ministering (President Henry B. Eyring, April 2018)|Inspired Ministering]] — President Henry B. Eyring, 2018-April *(explicit citation)*
+- [[The Sabbath and the Sacrament (Elder L. Tom Perry, April 2011)|The Sabbath and the Sacrament]] — Elder L. Tom Perry, 2011-April *(explicit citation)*
+- [[Preparation in the Priesthood “I Need Your Help” (President Henry B. Eyring, October 2011)|Preparation in the Priesthood: “I Need Your Help”]] — President Henry B. Eyring, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -76,6 +79,7 @@ _Not yet developed._
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1836-07-01 (Vol. 2 No. 10)** (periodical, 1836-07-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

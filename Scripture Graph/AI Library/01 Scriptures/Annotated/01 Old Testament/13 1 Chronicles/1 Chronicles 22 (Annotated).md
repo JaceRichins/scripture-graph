@@ -62,4 +62,4 @@ cssclasses:
 ![[1 Chronicles 22#^1chr-22-18]]
 
 ![[1 Chronicles 22#^1chr-22-19]]
-> [[Deuteronomy 31#^deut-31-9|≈ Deuteronomy 31:9]] · [[Deuteronomy 31#^deut-31-25|≈ Deuteronomy 31:25]] · [[Deuteronomy 31#^deut-31-26|≈ Deuteronomy 31:26]] · [[Joshua 3#^josh-3-3|≈ Joshua 3:3]] · [[Joshua 3#^josh-3-11|≈ Joshua 3:11]] · [[Joshua 3#^josh-3-17|≈ Joshua 3:17]]
+> [[Deuteronomy 31#^deut-31-9|≈ Deuteronomy 31:9]] · [[Deuteronomy 31#^deut-31-25|≈ Deuteronomy 31:25]] · [[Deuteronomy 31#^deut-31-26|≈ Deuteronomy 31:26]] · [[1 Chronicles 28#^1chr-28-2|≈ 1 Chronicles 28:2]] · [[1 Chronicles 28#^1chr-28-18|≈ 1 Chronicles 28:18]] · [[Joshua 3#^josh-3-3|≈ Joshua 3:3]]

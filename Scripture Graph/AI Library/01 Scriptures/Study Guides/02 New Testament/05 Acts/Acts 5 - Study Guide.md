@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 5
 slug: acts-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,9 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
+- **09 Come Life or Come Death** (history) *(explicit citation)*
+- **Acts of the Apostles** (reference-entry) *(explicit citation)*
+- **Ananias** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

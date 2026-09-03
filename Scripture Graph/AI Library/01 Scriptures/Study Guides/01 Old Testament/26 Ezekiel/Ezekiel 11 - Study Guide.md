@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 11
 slug: ezek-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Ezekiel 20]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]] ↔ [[Ezekiel 20#^ezek-20-38|Ezekiel 20:38]]
 - [[Ezekiel 13]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]] ↔ [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]]
 - [[Ezekiel 43]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-24|Ezekiel 11:24]] ↔ [[Ezekiel 43#^ezek-43-5|Ezekiel 43:5]]
+- [[Jeremiah 32]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +71,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Unwavering Commitment to Jesus Christ (Elder Dale G. Renlund, October 2019)|Unwavering Commitment to Jesus Christ]] — Elder Dale G. Renlund, 2019-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

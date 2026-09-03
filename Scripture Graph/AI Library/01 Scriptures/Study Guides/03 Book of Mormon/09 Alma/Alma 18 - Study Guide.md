@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 18
 slug: alma-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -85,7 +85,9 @@ _Not yet developed._
 - [[He Is Risen with Healing in His Wings We Can Be More Than Conquerors (Elder Patrick Kearon, April 2022)|He Is Risen with Healing in His Wings: We Can Be More Than Conquerors]] — Elder Patrick Kearon, 2022-April *(explicit citation)*
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
 - [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
+- [[An Unspeakable Gift from God (Elder Craig C. Christensen, October 2012)|An Unspeakable Gift from God]] — Elder Craig C. Christensen, 2012-October *(explicit citation)*
 - [[The Healing Ointment of Forgiveness (Elder Kevin R. Duncan, April 2016)|The Healing Ointment of Forgiveness]] — Elder Kevin R. Duncan, 2016-April *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

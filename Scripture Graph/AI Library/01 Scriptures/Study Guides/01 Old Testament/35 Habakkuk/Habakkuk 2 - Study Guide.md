@@ -6,7 +6,7 @@ volume: Old Testament
 book: Habakkuk
 chapter: 2
 slug: hab-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,8 +45,8 @@ _Not yet developed._
 - [[Isaiah 44]] — 1 footnote cross-reference (from [[Habakkuk 2#^hab-2-18|Habakkuk 2:18]])
 - [[Zephaniah 1]] — 1 footnote cross-reference (from [[Habakkuk 2#^hab-2-20|Habakkuk 2:20]])
 - [[Isaiah 11]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[Isaiah 11#^isa-11-9|Isaiah 11:9]]
-- [[2 Nephi 21]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[2 Nephi 21#^2ne-21-9|2 Nephi 21:9]]
 - [[2 Nephi 30]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[2 Nephi 30#^2ne-30-15|2 Nephi 30:15]]
+- [[2 Nephi 21]] — 1 parallel verse, e.g. [[Habakkuk 2#^hab-2-14|Habakkuk 2:14]] ↔ [[2 Nephi 21#^2ne-21-9|2 Nephi 21:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

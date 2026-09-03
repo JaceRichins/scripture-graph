@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 17
 slug: luke-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,8 @@ _Not yet developed._
 - [[Spiritually Whole in Him (President Camille N. Johnson, April 2025)|Spiritually Whole in Him]] — President Camille N. Johnson, 2025-April *(explicit citation)*
 - [[Love All; Love Each (Elder Gérald Caussé, April 2026)|Love All; Love Each]] — Elder Gérald Caussé, 2026-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Love Is Spoken Here (Elder Gerrit W. Gong, October 2023)|Love Is Spoken Here]] — Elder Gerrit W. Gong, 2023-October *(explicit citation)*
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
@@ -85,6 +87,7 @@ _Not yet developed._
 - **Abuse** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Gratitude** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 6** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

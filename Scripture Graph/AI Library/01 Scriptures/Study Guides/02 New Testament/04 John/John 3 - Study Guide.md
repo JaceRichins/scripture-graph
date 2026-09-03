@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 3
 slug: john-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,9 @@ _Not yet developed._
 - [[Acts 2]] — 1 footnote cross-reference (from [[John 3#^john-3-2|John 3:2]])
 - [[Acts 10]] — 1 footnote cross-reference (from [[John 3#^john-3-2|John 3:2]])
 - [[1 John 4]] — 0 parallel verses
+- [[D&C 34]] — 0 parallel verses
+- [[1 John 1]] — 0 parallel verses
+- [[2 Nephi 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -63,6 +66,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
+- [[One Step Closer to the Savior (Russell T. Osguthorpe, October 2012)|One Step Closer to the Savior]] — Russell T. Osguthorpe, 2012-October *(explicit citation)*
 - [[Always Retain a Remission of Your Sins (Elder David A. Bednar, April 2016)|Always Retain a Remission of Your Sins]] — Elder David A. Bednar, 2016-April *(explicit citation)*
 - [[Drawing the Power of Jesus Christ into Our Lives (President Russell M. Nelson, April 2017)|Drawing the Power of Jesus Christ into Our Lives]] — President Russell M. Nelson, 2017-April *(explicit citation)*
 - [[Our Father’s Glorious Plan (Elder Weatherford T. Clayton, April 2017)|Our Father’s Glorious Plan]] — Elder Weatherford T. Clayton, 2017-April *(explicit citation)*
@@ -71,7 +75,6 @@ _Not yet developed._
 - [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
 - [[Receive His Gift (Elder Patrick Kearon, April 2025)|Receive His Gift]] — Elder Patrick Kearon, 2025-April *(explicit citation)*
 - [[Jesus Christ Is the Way (Elder Brian J. Holmes, April 2026)|Jesus Christ Is the Way]] — Elder Brian J. Holmes, 2026-April *(explicit citation)*
-- [[Fathers (Elder D. Todd Christofferson, April 2016)|Fathers]] — Elder D. Todd Christofferson, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

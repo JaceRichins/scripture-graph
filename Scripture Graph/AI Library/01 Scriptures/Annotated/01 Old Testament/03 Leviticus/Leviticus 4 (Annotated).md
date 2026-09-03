@@ -82,7 +82,7 @@ cssclasses:
 > [[2 Kings 12#^2kgs-12-16|2 Kgs. 12:16]]
 
 ![[Leviticus 4#^lev-4-24]]
-> [[Numbers 18#^num-18-9|Num. 18:9]] · [[Leviticus 5#^lev-5-12|≈ Leviticus 5:12]] · [[Leviticus 7#^lev-7-2|≈ Leviticus 7:2]] · [[Leviticus 1#^lev-1-4|≈ Leviticus 1:4]] · [[Leviticus 3#^lev-3-2|≈ Leviticus 3:2]] · [[Leviticus 3#^lev-3-8|≈ Leviticus 3:8]] · [[Leviticus 3#^lev-3-13|≈ Leviticus 3:13]]
+> [[Numbers 18#^num-18-9|Num. 18:9]] · [[Leviticus 5#^lev-5-12|≈ Leviticus 5:12]] · [[Leviticus 7#^lev-7-2|≈ Leviticus 7:2]] · [[Leviticus 3#^lev-3-2|≈ Leviticus 3:2]] · [[Leviticus 3#^lev-3-8|≈ Leviticus 3:8]] · [[Leviticus 3#^lev-3-13|≈ Leviticus 3:13]] · [[Leviticus 1#^lev-1-4|≈ Leviticus 1:4]]
 
 ![[Leviticus 4#^lev-4-25]]
 > [[Leviticus 5#^lev-5-9|≈ Leviticus 5:9]] · [[Leviticus 8#^lev-8-15|≈ Leviticus 8:15]] · [[Leviticus 9#^lev-9-9|≈ Leviticus 9:9]] · [[Leviticus 16#^lev-16-18|≈ Leviticus 16:18]] · [[Leviticus 16#^lev-16-14|≈ Leviticus 16:14]] · [[Ezekiel 45#^ezek-45-19|≈ Ezekiel 45:19]]
@@ -97,7 +97,7 @@ cssclasses:
 > [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]] · [[Leviticus 5#^lev-5-10|≈ Leviticus 5:10]]
 
 ![[Leviticus 4#^lev-4-29]]
-> [[Leviticus 1#^lev-1-4|≈ Leviticus 1:4]] · [[Leviticus 3#^lev-3-2|≈ Leviticus 3:2]] · [[Leviticus 3#^lev-3-8|≈ Leviticus 3:8]] · [[Leviticus 3#^lev-3-13|≈ Leviticus 3:13]]
+> [[Leviticus 3#^lev-3-2|≈ Leviticus 3:2]] · [[Leviticus 3#^lev-3-8|≈ Leviticus 3:8]] · [[Leviticus 3#^lev-3-13|≈ Leviticus 3:13]] · [[Leviticus 1#^lev-1-4|≈ Leviticus 1:4]]
 
 ![[Leviticus 4#^lev-4-30]]
 > [[Leviticus 8#^lev-8-15|≈ Leviticus 8:15]] · [[Leviticus 9#^lev-9-9|≈ Leviticus 9:9]] · [[Leviticus 16#^lev-16-18|≈ Leviticus 16:18]] · [[Ezekiel 45#^ezek-45-19|≈ Ezekiel 45:19]] · [[Exodus 29#^ex-29-12|≈ Exodus 29:12]]
@@ -108,7 +108,7 @@ cssclasses:
 ![[Leviticus 4#^lev-4-32]]
 
 ![[Leviticus 4#^lev-4-33]]
-> [[Leviticus 7#^lev-7-2|≈ Leviticus 7:2]] · [[Leviticus 1#^lev-1-4|≈ Leviticus 1:4]] · [[Leviticus 3#^lev-3-2|≈ Leviticus 3:2]] · [[Leviticus 3#^lev-3-8|≈ Leviticus 3:8]] · [[Leviticus 3#^lev-3-13|≈ Leviticus 3:13]]
+> [[Leviticus 7#^lev-7-2|≈ Leviticus 7:2]] · [[Leviticus 3#^lev-3-2|≈ Leviticus 3:2]] · [[Leviticus 3#^lev-3-8|≈ Leviticus 3:8]] · [[Leviticus 3#^lev-3-13|≈ Leviticus 3:13]] · [[Leviticus 1#^lev-1-4|≈ Leviticus 1:4]]
 
 ![[Leviticus 4#^lev-4-34]]
 > [[Leviticus 5#^lev-5-9|≈ Leviticus 5:9]] · [[Leviticus 8#^lev-8-15|≈ Leviticus 8:15]] · [[Leviticus 9#^lev-9-9|≈ Leviticus 9:9]] · [[Leviticus 16#^lev-16-18|≈ Leviticus 16:18]] · [[Leviticus 16#^lev-16-14|≈ Leviticus 16:14]] · [[Ezekiel 45#^ezek-45-19|≈ Ezekiel 45:19]]

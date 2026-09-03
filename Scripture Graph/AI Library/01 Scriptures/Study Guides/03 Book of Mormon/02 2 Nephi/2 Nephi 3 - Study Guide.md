@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 3
 slug: 2ne-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -36,7 +36,7 @@ The middle section contains nested voices—Lehi, Joseph of Egypt, and sayings a
 - [[Joseph (of Egypt)]] — 11 mentions
 - [[Moses (prophet)]] — 4 mentions
 - [[Jesus Christ]] — 2 mentions
-- [[Nephi (son of Lehi)]] — 0 mentions
+- [[Nephi (son of Lehi)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -52,18 +52,18 @@ The middle section contains nested voices—Lehi, Joseph of Egypt, and sayings a
 - [[Mormon 8]] — 3 footnote cross-references (from [[2 Nephi 3#^2ne-3-6|2 Nephi 3:6]])
 - [[Genesis 49]] — 2 footnote cross-references (from [[2 Nephi 3#^2ne-3-4|2 Nephi 3:4]])
 - [[1 Nephi 15]] — 2 footnote cross-references (from [[2 Nephi 3#^2ne-3-5|2 Nephi 3:5]])
+- [[2 Nephi 1]] — 2 parallel verses, e.g. [[2 Nephi 3#^2ne-3-2|2 Nephi 3:2]] ↔ [[2 Nephi 1#^2ne-1-32|2 Nephi 1:32]]
 - [[2 Nephi 9]] — 1 parallel verse, e.g. [[2 Nephi 3#^2ne-3-5|2 Nephi 3:5]] ↔ [[2 Nephi 9#^2ne-9-53|2 Nephi 9:53]]
 - [[Exodus 4]] — 0 parallel verses
-- [[2 Nephi 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Book of Mormon (Gospel Topic)]]
 - [[Records and Sacred Writings]]
 - [[Prophecy]]
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
@@ -96,6 +96,7 @@ Verse 2 preserves an important qualification: security in the promised land is c
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **07 Fellow Servants** (history) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*

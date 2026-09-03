@@ -63,7 +63,7 @@ cssclasses:
 ![[Deuteronomy 23#^deut-23-19]]
 
 ![[Deuteronomy 23#^deut-23-20]]
-> [[Deuteronomy 28#^deut-28-21|≈ Deuteronomy 28:21]] · [[Deuteronomy 28#^deut-28-63|≈ Deuteronomy 28:63]] · [[Deuteronomy 28#^deut-28-8|≈ Deuteronomy 28:8]] · [[Deuteronomy 28#^deut-28-20|≈ Deuteronomy 28:20]] · [[Deuteronomy 30#^deut-30-16|≈ Deuteronomy 30:16]] · [[Deuteronomy 24#^deut-24-19|≈ Deuteronomy 24:19]]
+> [[Deuteronomy 24#^deut-24-19|≈ Deuteronomy 24:19]] · [[Deuteronomy 28#^deut-28-21|≈ Deuteronomy 28:21]] · [[Deuteronomy 28#^deut-28-63|≈ Deuteronomy 28:63]] · [[Deuteronomy 28#^deut-28-8|≈ Deuteronomy 28:8]] · [[Deuteronomy 28#^deut-28-20|≈ Deuteronomy 28:20]] · [[Deuteronomy 30#^deut-30-16|≈ Deuteronomy 30:16]]
 
 ![[Deuteronomy 23#^deut-23-21]]
 > [[Matthew 5#^matt-5-33|Matt. 5:33]] · [[Deuteronomy 14#^deut-14-21|≈ Deuteronomy 14:21]]

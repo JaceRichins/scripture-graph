@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 10
 slug: mark-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

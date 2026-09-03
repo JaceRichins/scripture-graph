@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 98
 slug: dc-98
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,29 +48,35 @@ A coherent progression can be traced:
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 101]] — 4 footnote cross-references (from [[D&C 98#^dc-98-6|D&C 98:6]])
+- [[D&C 122]] — 2 footnote cross-references (from [[D&C 98#^dc-98-3|D&C 98:3]])
+- [[D&C 58]] — 2 footnote cross-references (from [[D&C 98#^dc-98-4|D&C 98:4]])
+- [[D&C 44]] — 2 footnote cross-references (from [[D&C 98#^dc-98-5|D&C 98:5]])
+- [[D&C 109]] — 2 footnote cross-references (from [[D&C 98#^dc-98-5|D&C 98:5]])
+- [[D&C 59]] — 2 footnote cross-references (from [[D&C 98#^dc-98-12|D&C 98:12]])
+- [[D&C 88]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-2|D&C 98:2]] ↔ [[D&C 88#^dc-88-2|D&C 88:2]]
 - [[D&C 27]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-16|D&C 98:16]] ↔ [[D&C 27#^dc-27-9|D&C 27:9]]
+- [[Exodus 20]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
+- [[Deuteronomy 5]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
 - [[Numbers 14]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Numbers 14#^num-14-18|Numbers 14:18]]
 - [[Exodus 34]] — 3 parallel verses, e.g. [[D&C 98#^dc-98-28|D&C 98:28]] ↔ [[Exodus 34#^ex-34-7|Exodus 34:7]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[D&C 128#^dc-128-10|D&C 128:10]]
 - [[D&C 18]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[D&C 18#^dc-18-5|D&C 18:5]]
 - [[D&C 49]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-11|D&C 98:11]] ↔ [[D&C 49#^dc-49-11|D&C 49:11]]
 - [[D&C 90]] — 2 parallel verses, e.g. [[D&C 98#^dc-98-21|D&C 98:21]] ↔ [[D&C 90#^dc-90-36|D&C 90:36]]
+- [[Luke 1]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-16|D&C 98:16]] ↔ [[Luke 1#^luke-1-17|Luke 1:17]]
 - [[D&C 110]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-16|D&C 98:16]] ↔ [[D&C 110#^dc-110-15|D&C 110:15]]
-- [[3 Nephi 18]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-11|D&C 98:11]] ↔ [[3 Nephi 18#^3ne-18-12|3 Nephi 18:12]]
-- [[James 5]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-2|D&C 98:2]] ↔ [[James 5#^james-5-4|James 5:4]]
-- [[3 Nephi 11]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[3 Nephi 11#^3ne-11-39|3 Nephi 11:39]]
-- [[D&C 10]] — 1 parallel verse, e.g. [[D&C 98#^dc-98-22|D&C 98:22]] ↔ [[D&C 10#^dc-10-69|D&C 10:69]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[War and Peace]]
 - [[Freedom and Liberty]]
-- [[Repentance and Forgiveness]]
-- [[Covenants]]
 - [[Government and Laws]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -85,6 +91,7 @@ The chapter also depicts [[Covenants]] as tested commitments. Receiving truth 'l
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
 - [[“Come, Follow Me” by Practicing Christian Love and Service (Elder Robert D. Hales, October 2016)|“Come, Follow Me” by Practicing Christian Love and Service]] — Elder Robert D. Hales, 2016-October *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
 - [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
@@ -94,7 +101,6 @@ The chapter also depicts [[Covenants]] as tested commitments. Receiving truth 'l
 - [[Defending Our Divinely Inspired Constitution (President Dallin H. Oaks, April 2021)|Defending Our Divinely Inspired Constitution]] — President Dallin H. Oaks, 2021-April *(explicit citation)*
 - [[Facing Our Spiritual Hurricanes by Believing in Christ (Elder Sean Douglas, October 2021)|Facing Our Spiritual Hurricanes by Believing in Christ]] — Elder Sean Douglas, 2021-October *(explicit citation)*
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
-- [[Seeing God’s Family through the Overview Lens (Sister Tamara W. Runia, October 2023)|Seeing God’s Family through the Overview Lens]] — Sister Tamara W. Runia, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -104,11 +110,11 @@ The chapter also depicts [[Covenants]] as tested commitments. Receiving truth 'l
 - **The Manifesto and the End of Plural Marriage** (reference-entry) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **17 Though the Mob Kill Us** (history) *(explicit citation)*
+- **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Adversity** (reference-entry) *(explicit citation)*
-- **Civil Government and Law** (reference-entry) *(explicit citation)*
-- **Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 2
 slug: col-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -73,7 +73,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1844-04-15 (Vol. 5 No. 8)** (periodical, 1844-04-15) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

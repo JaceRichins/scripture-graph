@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 28
 slug: matt-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[D&C 68]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[D&C 68#^dc-68-8|D&C 68:8]]
 - [[2 Nephi 31]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
 - [[Mark 16]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-7|Matthew 28:7]] ↔ [[Mark 16#^mark-16-7|Mark 16:7]]
+- [[Moses 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -88,6 +89,8 @@ _Not yet developed._
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1836-02-01 (Vol. 2 No. 5)** (periodical, 1836-02-01) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 44
 slug: ezek-44
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Ezekiel 42]] — 1 parallel verse, e.g. [[Ezekiel 44#^ezek-44-29|Ezekiel 44:29]] ↔ [[Ezekiel 42#^ezek-42-13|Ezekiel 42:13]]
 - [[Ezekiel 20]] — 2 parallel verses, e.g. [[Ezekiel 44#^ezek-44-6|Ezekiel 44:6]] ↔ [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]]
 - [[Ezekiel 43]] — 1 parallel verse, e.g. [[Ezekiel 44#^ezek-44-4|Ezekiel 44:4]] ↔ [[Ezekiel 43#^ezek-43-5|Ezekiel 43:5]]
+- [[Ezekiel 46]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

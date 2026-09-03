@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 79
 slug: ps-79
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[D&C 45]] — 1 footnote cross-reference (from [[Psalm 79#^ps-79-3|Psalm 79:3]])
 - [[Jeremiah 14]] — 1 footnote cross-reference (from [[Psalm 79#^ps-79-3|Psalm 79:3]])
 - [[Psalm 44]] — 1 parallel verse, e.g. [[Psalm 79#^ps-79-4|Psalm 79:4]] ↔ [[Psalm 44#^ps-44-13|Psalm 44:13]]
+- [[Jeremiah 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

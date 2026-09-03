@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 4
 slug: gen-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ Genesis 4 narrates the first birth, the first murder, and the divergence of two 
 - [[Numbers 16]] — 2 footnote cross-references (from [[Genesis 4#^gen-4-5|Genesis 4:5]])
 - [[Numbers 18]] — 1 footnote cross-reference (from [[Genesis 4#^gen-4-4|Genesis 4:4]])
 - [[Hebrews 11]] — 1 footnote cross-reference (from [[Genesis 4#^gen-4-4|Genesis 4:4]])
+- [[Moses 5]] — 26 parallel verses, e.g. [[Genesis 4#^gen-4-23|Genesis 4:23]] ↔ [[Moses 5#^moses-5-47|Moses 5:47]]
 - [[Moses 6]] — 4 parallel verses, e.g. [[Genesis 4#^gen-4-25|Genesis 4:25]] ↔ [[Moses 6#^moses-6-2|Moses 6:2]]
 - [[1 Samuel 1]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-19|Genesis 4:19]] ↔ [[1 Samuel 1#^1sam-1-2|1 Samuel 1:2]]
 - [[Ether 2]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-16|Genesis 4:16]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
@@ -81,7 +82,8 @@ The warning in Genesis 4:6-7 places [[Agency]] beside [[Sin]]: Cain's anger is a
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abel** (reference-entry) *(explicit citation)*
+- **Agriculture** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

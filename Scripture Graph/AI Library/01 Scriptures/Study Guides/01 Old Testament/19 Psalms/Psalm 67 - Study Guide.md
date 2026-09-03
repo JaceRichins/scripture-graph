@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 67
 slug: ps-67
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Mosiah 15]] — 1 footnote cross-reference (from [[Psalm 67#^ps-67-2|Psalm 67:2]])
 - [[D&C 133]] — 1 footnote cross-reference (from [[Psalm 67#^ps-67-2|Psalm 67:2]])
 - [[2 Nephi 1]] — 1 footnote cross-reference (from [[Psalm 67#^ps-67-6|Psalm 67:6]])
+- [[Psalm 72]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +79,9 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Evidence *(tentative)*
+> Psalm 67 forms a clean chiasmus, with the phrase about God judging the nations righteously (verse 4) as the structural center, framed symmetrically by verses on God's blessings, the nations knowing God's ways, and praise of God.
+> — confidence medium · secondary-claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -90,3 +93,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

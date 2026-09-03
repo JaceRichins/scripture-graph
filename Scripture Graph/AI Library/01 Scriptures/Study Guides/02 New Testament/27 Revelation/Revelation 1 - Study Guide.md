@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 1
 slug: rev-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[D&C 38]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-8|Revelation 1:8]] ↔ [[D&C 38#^dc-38-1|D&C 38:1]]
 - [[D&C 45]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-8|Revelation 1:8]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[D&C 84]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-8|Revelation 1:8]] ↔ [[D&C 84#^dc-84-120|D&C 84:120]]
+- [[Daniel 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,6 +73,7 @@ _Not yet developed._
 - [[Be Perfected in Him (Elder Paul V. Johnson, October 2022)|Be Perfected in Him]] — Elder Paul V. Johnson, 2022-October *(explicit citation)*
 - [[As a Little Child (President Jeffrey R. Holland, April 2025)|As a Little Child]] — President Jeffrey R. Holland, 2025-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[The Atonement (President Boyd K. Packer, October 2012)|The Atonement]] — President Boyd K. Packer, 2012-October *(explicit citation)*
 - [[Conference Report, April 1915 (General Conference (full report), April 1915)|Conference Report, April 1915]] — General Conference (full report), 1915-April *(explicit citation)*
 - [[Conference Report, October 1920 (General Conference (full report), October 1920)|Conference Report, October 1920]] — General Conference (full report), 1920-October *(explicit citation)*
 <!-- SG:END conference -->
@@ -80,6 +82,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
+- **43 A Public Nuisance** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

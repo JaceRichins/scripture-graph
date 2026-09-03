@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 102
 slug: ps-102
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -65,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Latter Day Saints' Messenger and Advocate 1837-09-01 (Vol. 3 No. 12)** (periodical, 1837-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

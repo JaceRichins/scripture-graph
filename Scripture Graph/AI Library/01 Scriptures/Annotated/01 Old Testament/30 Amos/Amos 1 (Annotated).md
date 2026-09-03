@@ -17,7 +17,7 @@ cssclasses:
 > Amos shows the Lord’s judgments upon Syria, the Philistines, Tyre, Edom, and Ammon.
 
 ![[Amos 1#^amos-1-1]]
-> [[Hosea 1#^hosea-1-1|Hosea 1:1]] · [[Amos 7#^amos-7-10|Amos 7:10]] · [[Zechariah 14#^zech-14-5|Zech. 14:5]] · [[Hosea 1#^hosea-1-1|≈ Hosea 1:1]] · [[Zechariah 14#^zech-14-5|≈ Zechariah 14:5]] · [[1 Chronicles 5#^1chr-5-17|≈ 1 Chronicles 5:17]]
+> [[Hosea 1#^hosea-1-1|Hosea 1:1]] · [[Amos 7#^amos-7-10|Amos 7:10]] · [[Zechariah 14#^zech-14-5|Zech. 14:5]] · [[Zechariah 14#^zech-14-5|≈ Zechariah 14:5]] · [[Hosea 1#^hosea-1-1|≈ Hosea 1:1]] · [[1 Chronicles 5#^1chr-5-17|≈ 1 Chronicles 5:17]]
 
 ![[Amos 1#^amos-1-2]]
 > [[Isaiah 31#^isa-31-4|Isa. 31:4]] · [[Jeremiah 25#^jer-25-30|Jer. 25:30]] · [[Joel 3#^joel-3-16|≈ Joel 3:16]]

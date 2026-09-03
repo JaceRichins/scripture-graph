@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 49
 slug: jer-49
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,25 +55,25 @@ Scripture: [[Jeremiah 49]] · My notes: [[Jeremiah 49 - My Notes]]
 - [[Amos 1]] — 2 footnote cross-references (from [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]])
 - [[Jeremiah 48]] — 2 footnote cross-references (from [[Jeremiah 49#^jer-49-3|Jeremiah 49:3]])
 - [[Genesis 36]] — 2 footnote cross-references (from [[Jeremiah 49#^jer-49-7|Jeremiah 49:7]])
+- [[Jeremiah 50]] — 5 parallel verses, e.g. [[Jeremiah 49#^jer-49-19|Jeremiah 49:19]] ↔ [[Jeremiah 50#^jer-50-44|Jeremiah 50:44]]
 - [[Jeremiah 30]] — 6 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]]
+- [[Obadiah 1]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-14|Jeremiah 49:14]] ↔ [[Obadiah 1#^obad-1-1|Obadiah 1:1]]
 - [[Jeremiah 31]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
 - [[Jeremiah 23]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
 - [[Jeremiah 9]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]]
+- [[Jeremiah 48]] — 2 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]]
+- [[Amos 9]] — 3 parallel verses, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Amos 9#^amos-9-13|Amos 9:13]]
 - [[Jeremiah 28]] — 1 parallel verse, e.g. [[Jeremiah 49#^jer-49-34|Jeremiah 49:34]] ↔ [[Jeremiah 28#^jer-28-1|Jeremiah 28:1]]
 - [[Jeremiah 47]] — 1 parallel verse, e.g. [[Jeremiah 49#^jer-49-34|Jeremiah 49:34]] ↔ [[Jeremiah 47#^jer-47-1|Jeremiah 47:1]]
 - [[Jeremiah 51]] — 1 parallel verse, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]]
 - [[Ezekiel 29]] — 2 parallel verses, e.g. [[Jeremiah 49#^jer-49-6|Jeremiah 49:6]] ↔ [[Ezekiel 29#^ezek-29-14|Ezekiel 29:14]]
-- [[Jeremiah 33]] — 1 parallel verse, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]]
-- [[Jeremiah 7]] — 1 parallel verse, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 7#^jer-7-32|Jeremiah 7:32]]
-- [[Jeremiah 16]] — 1 parallel verse, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 16#^jer-16-14|Jeremiah 16:14]]
-- [[Jeremiah 19]] — 1 parallel verse, e.g. [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]] ↔ [[Jeremiah 19#^jer-19-6|Jeremiah 19:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Pride]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

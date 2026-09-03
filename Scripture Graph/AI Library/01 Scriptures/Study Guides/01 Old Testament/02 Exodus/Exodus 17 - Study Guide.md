@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 17
 slug: ex-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,9 @@ _Not yet developed._
 - [[Joshua 15]] — 2 parallel verses, e.g. [[Exodus 17#^ex-17-1|Exodus 17:1]] ↔ [[Joshua 15#^josh-15-13|Joshua 15:13]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Exodus 17#^ex-17-1|Exodus 17:1]] ↔ [[Numbers 15#^num-15-25|Numbers 15:25]]
 - [[2 Samuel 2]] — 1 parallel verse, e.g. [[Exodus 17#^ex-17-12|Exodus 17:12]] ↔ [[2 Samuel 2#^2sam-2-13|2 Samuel 2:13]]
+- [[Numbers 20]] — 0 parallel verses
+- [[Psalm 78]] — 0 parallel verses
+- [[1 Nephi 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,7 +78,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
+- **Amalek, Amalekites** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

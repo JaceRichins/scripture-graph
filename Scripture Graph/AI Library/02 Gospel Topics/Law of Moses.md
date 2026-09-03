@@ -90,3 +90,10 @@ _Not yet developed._
 <!-- SG:BEGIN synthesis -->
 _Not yet developed._
 <!-- SG:END synthesis -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 34** — Resurrected Christ quotes Malachi 4 to the Nephites at Bountiful · [[3 Nephi 25]] · [[AD 1-100]] *(Book of Mormon internal dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

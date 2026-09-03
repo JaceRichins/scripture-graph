@@ -43,7 +43,7 @@ cssclasses:
 ![[1 Chronicles 15#^1chr-15-11]]
 
 ![[1 Chronicles 15#^1chr-15-12]]
-> [[1 Kings 8#^1kgs-8-1|≈ 1 Kings 8:1]] · [[2 Chronicles 5#^2chr-5-2|≈ 2 Chronicles 5:2]] · [[1 Chronicles 24#^1chr-24-6|≈ 1 Chronicles 24:6]] · [[1 Chronicles 24#^1chr-24-31|≈ 1 Chronicles 24:31]]
+> [[1 Kings 8#^1kgs-8-1|≈ 1 Kings 8:1]] · [[1 Chronicles 24#^1chr-24-6|≈ 1 Chronicles 24:6]] · [[1 Chronicles 24#^1chr-24-31|≈ 1 Chronicles 24:31]] · [[2 Chronicles 5#^2chr-5-2|≈ 2 Chronicles 5:2]]
 
 ![[1 Chronicles 15#^1chr-15-13]]
 > [[1 Chronicles 13#^1chr-13-10|1 Chr. 13:11 (10–11)]] · [[D&C 107#^dc-107-84|D&amp;C 107:84 (84, 99)]]
@@ -83,7 +83,7 @@ cssclasses:
 ![[1 Chronicles 15#^1chr-15-27]]
 
 ![[1 Chronicles 15#^1chr-15-28]]
-> [[1 Kings 8#^1kgs-8-1|≈ 1 Kings 8:1]] · [[1 Kings 8#^1kgs-8-6|≈ 1 Kings 8:6]] · [[2 Chronicles 5#^2chr-5-2|≈ 2 Chronicles 5:2]] · [[2 Chronicles 5#^2chr-5-7|≈ 2 Chronicles 5:7]] · [[2 Samuel 6#^2sam-6-15|≈ 2 Samuel 6:15]] · [[Numbers 10#^num-10-33|≈ Numbers 10:33]]
+> [[1 Kings 8#^1kgs-8-1|≈ 1 Kings 8:1]] · [[1 Kings 8#^1kgs-8-6|≈ 1 Kings 8:6]] · [[2 Chronicles 5#^2chr-5-2|≈ 2 Chronicles 5:2]] · [[2 Chronicles 5#^2chr-5-7|≈ 2 Chronicles 5:7]] · [[Numbers 10#^num-10-33|≈ Numbers 10:33]] · [[Numbers 14#^num-14-44|≈ Numbers 14:44]]
 
 ![[1 Chronicles 15#^1chr-15-29]]
-> [[1 Kings 8#^1kgs-8-1|≈ 1 Kings 8:1]] · [[1 Kings 8#^1kgs-8-6|≈ 1 Kings 8:6]] · [[2 Chronicles 5#^2chr-5-2|≈ 2 Chronicles 5:2]] · [[2 Chronicles 5#^2chr-5-7|≈ 2 Chronicles 5:7]] · [[2 Samuel 6#^2sam-6-16|≈ 2 Samuel 6:16]] · [[Numbers 10#^num-10-33|≈ Numbers 10:33]]
+> [[1 Kings 8#^1kgs-8-1|≈ 1 Kings 8:1]] · [[1 Kings 8#^1kgs-8-6|≈ 1 Kings 8:6]] · [[2 Chronicles 5#^2chr-5-2|≈ 2 Chronicles 5:2]] · [[2 Chronicles 5#^2chr-5-7|≈ 2 Chronicles 5:7]] · [[Numbers 10#^num-10-33|≈ Numbers 10:33]] · [[Numbers 14#^num-14-44|≈ Numbers 14:44]]

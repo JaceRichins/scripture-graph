@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 2
 slug: moses-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,13 +49,19 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Genesis 1]] — 15 footnote cross-references (from [[Moses 2#^moses-2-1|Moses 2:1]])
+- [[Abraham 4]] — 12 footnote cross-references (from [[Moses 2#^moses-2-1|Moses 2:1]])
+- [[Moses 1]] — 4 footnote cross-references (from [[Moses 2#^moses-2-1|Moses 2:1]])
+- [[D&C 76]] — 2 footnote cross-references (from [[Moses 2#^moses-2-1|Moses 2:1]])
+- [[Moses 5]] — 2 footnote cross-references (from [[Moses 2#^moses-2-26|Moses 2:26]])
+- [[1 Nephi 1]] — 1 footnote cross-reference (from [[Moses 2#^moses-2-1|Moses 2:1]])
 - [[Genesis 1]] — 74 parallel verses, e.g. [[Moses 2#^moses-2-28|Moses 2:28]] ↔ [[Genesis 1#^gen-1-28|Genesis 1:28]]
 - [[Abraham 4]] — 28 parallel verses, e.g. [[Moses 2#^moses-2-28|Moses 2:28]] ↔ [[Abraham 4#^abr-4-28|Abraham 4:28]]
+- [[Moses 3]] — 5 parallel verses, e.g. [[Moses 2#^moses-2-30|Moses 2:30]] ↔ [[Moses 3#^moses-3-20|Moses 3:20]]
 - [[Genesis 7]] — 4 parallel verses, e.g. [[Moses 2#^moses-2-25|Moses 2:25]] ↔ [[Genesis 7#^gen-7-14|Genesis 7:14]]
 - [[Genesis 9]] — 2 parallel verses, e.g. [[Moses 2#^moses-2-28|Moses 2:28]] ↔ [[Genesis 9#^gen-9-1|Genesis 9:1]]
 - [[Genesis 11]] — 2 parallel verses, e.g. [[Moses 2#^moses-2-29|Moses 2:29]] ↔ [[Genesis 11#^gen-11-8|Genesis 11:8]]
 - [[Leviticus 11]] — 2 parallel verses, e.g. [[Moses 2#^moses-2-26|Moses 2:26]] ↔ [[Leviticus 11#^lev-11-41|Leviticus 11:41]]
-- [[Moses 3]] — 0 parallel verses
 - [[Genesis 1]] — 0 parallel verses
 - [[Abraham 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -63,7 +69,7 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Creation]]
-- [[Jesus Christ (Gospel Topic)]]
+- [[Jesus Christ (Gospel Topic)]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 33
 slug: 2ne-33
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Jacob 4]] — 2 footnote cross-references (from [[2 Nephi 33#^2ne-33-2|2 Nephi 33:2]])
 - [[Moroni 7]] — 2 footnote cross-references (from [[2 Nephi 33#^2ne-33-4|2 Nephi 33:4]])
 - [[2 Nephi 9]] — 2 footnote cross-references (from [[2 Nephi 33#^2ne-33-5|2 Nephi 33:5]])
+- [[Moroni 10]] — 4 parallel verses, e.g. [[2 Nephi 33#^2ne-33-14|2 Nephi 33:14]] ↔ [[Moroni 10#^moro-10-28|Moroni 10:28]]
 - [[Moroni 7]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-11|2 Nephi 33:11]] ↔ [[Moroni 7#^moro-7-35|Moroni 7:35]]
 - [[Mormon 9]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-12|2 Nephi 33:12]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
 - [[2 Nephi 32]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-12|2 Nephi 33:12]] ↔ [[2 Nephi 32#^2ne-32-9|2 Nephi 32:9]]
@@ -61,7 +62,6 @@ _Not yet developed._
 - [[1 Nephi 22]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]] ↔ [[2 Nephi 28#^2ne-28-20|2 Nephi 28:20]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
-- [[Moroni 10]] — 0 parallel verses
 - [[2 Nephi 31]] — 0 parallel verses
 - [[2 Nephi 26]] — 0 parallel verses
 - [[Isaiah 29]] — 0 parallel verses

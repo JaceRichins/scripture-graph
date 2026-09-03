@@ -1,0 +1,115 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Bishop Gary E. Stevenson
+year: '2012'
+month: October
+url: https://www.churchofjesuschrist.org/general-conference/2012/10/be-valiant-in-courage-strength-and-activity?lang=eng
+doc_id: talk:2012-october-be-valiant-in-courage-strength-and-activity
+full_text: true
+---
+
+# Be Valiant in Courage, Strength, and Activity
+
+**Speaker:** Bishop Gary E. Stevenson · **Conference:** October 2012 · [source](https://www.churchofjesuschrist.org/general-conference/2012/10/be-valiant-in-courage-strength-and-activity?lang=eng)
+
+Be Valiant in Courage, Strength, and Activity
+
+By Bishop Gary E. Stevenson
+
+Presiding Bishop
+
+Qualify yourselves as did the 2,000 stripling soldiers by being valiant in courage as worthy priesthood holders.
+
+Tonight I feel especially blessed to speak as a bishop to the young men, holders of the Aaronic Priesthood, gathered from around the world for this general priesthood meeting. I share with you narrative from the Book of Mormon describing Helaman and his 2,000 stripling soldiers. This scripture will provide insight into the character of those ancient young men—and inspiration for you, latter-day young men. I quote a favorite scripture: “And they were all young men, and they were exceedingly valiant for courage, and also for strength and activity; but behold, this was not all—they were men who were true at all times.” Courage, strength, activity, and truth—what admirable traits!
+
+I would like to focus on the first trait that describes them: “valiant for courage.” To me, this describes the conviction of these young men to courageously do what is right, or as Alma describes, “to stand as witnesses of God at all times … and in all places.” The 2,000 stripling soldiers had countless moments to demonstrate their courage. Each of you will also have defining moments in your life requiring courage. A friend of mine, John, shared with me one of those moments in his life.
+
+Some years ago, John was accepted at a prestigious Japanese university. He would be part of the international student program with many other top students from around the world. Some enrolled with a hope to deepen their understanding of the culture and language, others viewed it as a stepping-stone to an eventual profession and employment in Japan, but all had left home to study in a foreign country.
+
+Soon after John’s arrival, word of a party to be held on the rooftop of a private residence spread among the foreign student population. That evening, John and two friends made their way to the advertised address.
+
+Following an elevator ride to the top floor of the building, John and his friends navigated the single narrow stairway leading to the rooftop and began mingling with the others. As the night wore on, the atmosphere changed. The noise, music volume, and alcohol amplified, as did John’s uneasiness. Then suddenly someone began organizing the students into a large circle with the intent of sharing marijuana cigarettes. John grimaced and quickly informed his two friends that it was time to leave. Almost in ridicule, one of them replied, “John, this is easy—we’ll just stand in the circle, and when it is our turn, we’ll just pass it along rather than smoke it. That way we won’t have to embarrass ourselves in front of everyone by leaving.” This sounded easy to John, but it did not sound right. He knew he had to announce his intention and act. In a moment he mustered his courage and told them that they could do as they wished, but he was leaving. One friend decided to stay and joined the circle; the other reluctantly followed John down the stairs to board the elevator. Much to their surprise, when the elevator doors opened, Japanese police officers poured out and hurried to ascend the stairs to the rooftop. John and his friend boarded the elevator and departed.
+
+When the police appeared at the top of the stairs, the students quickly threw the illegal drugs off the roof so they wouldn’t be caught. After securing the stairway, however, the officers lined up everyone on the roof and asked each student to extend both hands. The officers then walked down the line, carefully smelling each student’s thumbs and index fingers. All who had held the marijuana, whether they had smoked it or not, were presumed guilty, and there were huge consequences. Almost without exception, the students who had remained on the rooftop were expelled from their respective universities, and those convicted of a crime were likely deported from Japan. Dreams of an education, years of preparation, and the possibility of future employment in Japan were dashed in a moment.
+
+Now let me tell you what happened to these three friends. The friend who stayed on the roof was expelled from the university in Japan to which he had worked so hard to be accepted and was required to return home. The friend who left the party that night with John finished school in Japan and went on to earn degrees from two top-tier universities in the United States. His career took him back to Asia, where he has enjoyed immense professional success. He remains grateful to this day for John’s courageous example. As for John, the consequences in his life have been immeasurable. His time in Japan that year led him to a happy marriage and the subsequent birth of two sons. He has been a very successful businessman and recently became a professor at a Japanese university. Imagine how different his life would have been had he not had the courage to leave the party on that important evening in Japan.
+
+Young men, there will be times when you, like John, will have to demonstrate your righteous courage in plain view of your peers, the consequence of which may be ridicule and embarrassment. Additionally, in your world, skirmishes with the adversary will also be fought on a silent, solitary battlefield in front of a screen. Technology with its substantial benefits also brings challenges not faced by generations before you. A recent national survey found that today’s teens are tempted at alarming levels each day not only in schools but also in cyberspace. It revealed that teens who were exposed to images of drinking or drug use on social networking sites were three to four times more likely to use alcohol or drugs. Commenting on the survey, a former U.S. cabinet secretary stated: “This year’s survey reveals a new kind of potent peer pressure—digital peer pressure. Digital peer pressure moves beyond a child’s friends and the kids they hang out with. It invades the home and a child’s bedroom via the Internet.” The demonstration of righteous courage will often be as subtle as to click or not to click. Missionaries are taught from Preach My Gospel, “What you choose to think and do when you are alone and you believe no one is watching is a strong measure of your virtue.” Be courageous! Be strong! “Stand ye in holy places, and be not moved.”
+
+Young men, I promise the Lord will empower you. “For God hath not given us the spirit of fear; but of power.” He will reward you for your courage and righteous behavior—with happiness and joy. Such courage will be a by-product of your faith in Jesus Christ and His Atonement, your prayers, and your obedience to commandments.
+
+President N. Eldon Tanner stated: “One young boy on the school ground can wield a mighty influence for good. One young man on the football team, or the campus, or among his fellow workers can, by living the gospel, honoring his priesthood, and taking a stand for the right, do untold good. Often you will experience much criticism and ridicule even by those who believe as you do, even though they may respect you for doing right. But remember that the Savior himself was tormented, ridiculed, spat upon, and finally crucified because he would not waver in his conviction. Have you ever stopped to think what would have happened had he weakened and said, ‘Oh, what’s the use?’ and abandoned his mission? Do we want to be quitters, or do we want to be valiant servants in spite of all the opposition and evil in the world? Let us have the courage to stand up and be counted as true, devoted followers of Christ.”
+
+I invite you to qualify yourselves as did the 2,000 stripling soldiers by being valiant in courage as worthy priesthood holders. Remember, what you do, where you go, and what you see will shape who you become. Who do you want to become? Become a worthy deacon, a worthy teacher, a worthy priest. Set a goal to be worthy to enter the temple now and to be worthy to receive your next ordinance at the proper age and ultimately to receive the Melchizedek Priesthood. This is a pathway of righteousness which invites divine assistance. The Lord stated, “In the ordinances thereof, the power of godliness is manifest.”
+
+Parents, priesthood leaders, and prophetic priorities found in your Duty to God and For the Strength of Youth pamphlets will guide you along the way.
+
+President Thomas S. Monson recently counseled:
+
+“To make [decisions] wisely, courage is needed—the courage to say no, the courage to say yes. …
+
+“I plead with you to make a determination … right now, not to deviate from the path which will lead to our goal: eternal life with our Father in Heaven.”
+
+Just as the 2,000 soldiers responded to the battle cry of their leader, Helaman, and marshaled their valiant courage, you too can do the same by following your prophet-leader, President Thomas S. Monson.
+
+My young Aaronic Priesthood holders, in closing I offer my testimony of God the Father and Jesus Christ and the words of Joseph Smith: “Brethren, shall we not go on in so great a cause? Go forward and not backward. Courage, brethren; and on, on to the victory!” In the name of Jesus Christ, amen.
+
+Notes
+
+Alma 53:20.
+
+Mosiah 18:9.
+
+Personal story told to author.
+
+Joseph A. Califano Jr., founder and chairman emeritus of the National Center on Addiction and Substance Abuse at Columbia University, in a press release regarding the research, casacolumbia.org.
+
+Preach My Gospel: A Guide to Missionary Service (2004), 118.
+
+Doctrine and Covenants 87:8.
+
+2 Timothy 1:7.
+
+N. Eldon Tanner, “For They Loved the Praise of Men More Than the Praise of God,” Ensign, Nov. 1975, 74–75.
+
+Doctrine and Covenants 84:20.
+
+Thomas S. Monson, “The Three Rs of Choice,” Liahona and Ensign, Nov. 2010, 68.
+
+Doctrine and Covenants 128:22.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28854954", "context": "", "text": "
+Alma 53:20.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/53?lang=eng&id=p20#p20", "text": "Alma 53:20"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28854955", "context": "", "text": "
+Mosiah 18:9.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/18?lang=eng&id=p9#p9", "text": "Mosiah 18:9"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28854960", "context": "", "text": "
+Personal story told to author.
+"}, "note4": {"id": "note4", "marker": "4.", "pid": "28854961", "context": "", "text": "
+Joseph A. Califano Jr., founder and chairman emeritus of the National Center on Addiction and Substance Abuse at Columbia University, in a press release regarding the research, casacolumbia.org.
+"}, "note5": {"id": "note5", "marker": "5.", "pid": "28854961", "context": "", "text": "
+Preach My Gospel: A Guide to Missionary Service (2004), 118.
+"}, "note6": {"id": "note6", "marker": "6.", "pid": "28854961", "context": "", "text": "
+Doctrine and Covenants 87:8.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/87?lang=eng&id=p8#p8", "text": "Doctrine and Covenants 87:8"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28854962", "context": "", "text": "
+2 Timothy 1:7.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/2-tim/1?lang=eng&id=p7#p7", "text": "2 Timothy 1:7"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28854963", "context": "", "text": "
+N. Eldon Tanner, “For They Loved the Praise of Men More Than the Praise of God,” Ensign, Nov. 1975, 74–75.
+"}, "note9": {"id": "note9", "marker": "9.", "pid": "28854964", "context": "", "text": "
+Doctrine and Covenants 84:20.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/84?lang=eng&id=p20#p20", "text": "Doctrine and Covenants 84:20"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "28854968", "context": "", "text": "
+Thomas S. Monson, “The Three Rs of Choice,” Liahona and Ensign, Nov. 2010, 68.
+"}, "note11": {"id": "note11", "marker": "11.", "pid": "28854970", "context": "", "text": "
+Doctrine and Covenants 128:22.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/128?lang=eng&id=p22#p22", "text": "Doctrine and Covenants 128:22"}]}}
+
+## Scripture citations in this talk
+
+- [[Alma 53]] (3×)
+- [[Mosiah 18]] (3×)
+- [[D&C 87]] (3×)
+- [[2 Timothy 1]] (3×)
+- [[D&C 84]] (3×)
+- [[D&C 128]] (3×)

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 28
 slug: 1sam-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Mosiah 11]] — 1 footnote cross-reference (from [[1 Samuel 28#^1sam-28-6|1 Samuel 28:6]])
 - [[D&C 101]] — 1 footnote cross-reference (from [[1 Samuel 28#^1sam-28-6|1 Samuel 28:6]])
 - [[1 Samuel 31]] — 1 footnote cross-reference (from [[1 Samuel 28#^1sam-28-14|1 Samuel 28:14]])
+- [[1 Samuel 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

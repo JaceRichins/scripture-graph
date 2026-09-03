@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 42
 slug: dc-42
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,12 @@ This outline describes shifts in subject matter; the text itself does not formal
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 51]] — 8 footnote cross-references (from [[D&C 42#^dc-42-13|D&C 42:13]])
+- [[D&C 41]] — 5 footnote cross-references (from [[D&C 42#^dc-42-2|D&C 42:2]])
+- [[D&C 64]] — 5 footnote cross-references (from [[D&C 42#^dc-42-9|D&C 42:9]])
+- [[D&C 63]] — 5 footnote cross-references (from [[D&C 42#^dc-42-14|D&C 42:14]])
+- [[D&C 84]] — 4 footnote cross-references (from [[D&C 42#^dc-42-9|D&C 42:9]])
+- [[D&C 1]] — 4 footnote cross-references (from [[D&C 42#^dc-42-13|D&C 42:13]])
 - [[D&C 124]] — 4 parallel verses, e.g. [[D&C 42#^dc-42-6|D&C 42:6]] ↔ [[D&C 124#^dc-124-106|D&C 124:106]]
 - [[3 Nephi 16]] — 3 parallel verses, e.g. [[D&C 42#^dc-42-39|D&C 42:39]] ↔ [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[D&C 42#^dc-42-6|D&C 42:6]] ↔ [[D&C 75#^dc-75-4|D&C 75:4]]
@@ -57,9 +63,9 @@ This outline describes shifts in subject matter; the text itself does not formal
 - [[D&C 33]] — 2 parallel verses, e.g. [[D&C 42#^dc-42-6|D&C 42:6]] ↔ [[D&C 33#^dc-33-2|D&C 33:2]]
 - [[Helaman 5]] — 1 parallel verse, e.g. [[D&C 42#^dc-42-7|D&C 42:7]] ↔ [[Helaman 5#^hel-5-32|Helaman 5:32]]
 - [[D&C 63]] — 2 parallel verses, e.g. [[D&C 42#^dc-42-23|D&C 42:23]] ↔ [[D&C 63#^dc-63-16|D&C 63:16]]
+- [[D&C 41]] — 3 parallel verses, e.g. [[D&C 42#^dc-42-58|D&C 42:58]] ↔ [[D&C 41#^dc-41-2|D&C 41:2]]
 - [[D&C 34]] — 2 parallel verses, e.g. [[D&C 42#^dc-42-5|D&C 42:5]] ↔ [[D&C 34#^dc-34-10|D&C 34:10]]
 - [[3 Nephi 12]] — 3 parallel verses, e.g. [[D&C 42#^dc-42-58|D&C 42:58]] ↔ [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]]
-- [[D&C 41]] — 3 parallel verses, e.g. [[D&C 42#^dc-42-58|D&C 42:58]] ↔ [[D&C 41#^dc-41-2|D&C 41:2]]
 - [[D&C 55]] — 2 parallel verses, e.g. [[D&C 42#^dc-42-1|D&C 42:1]] ↔ [[D&C 55#^dc-55-2|D&C 55:2]]
 - [[Luke 8]] — 1 parallel verse, e.g. [[D&C 42#^dc-42-65|D&C 42:65]] ↔ [[Luke 8#^luke-8-10|Luke 8:10]]
 <!-- SG:END related-scriptures -->
@@ -67,8 +73,8 @@ This outline describes shifts in subject matter; the text itself does not formal
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Consecration]]
-- [[Work and Self-Reliance]]
 - [[Marriage]]
+- [[Work and Self-Reliance]]
 - [[Government and Laws]]
 - [[Repentance and Forgiveness]]
 - [[Records and Sacred Writings]]
@@ -92,17 +98,18 @@ Repentance can lead to forgiveness and reconciliation, while unrepentant or repe
 - [[That All May Be Edified (Brother Chad H Webb, October 2025)|That All May Be Edified]] — Brother Chad H Webb, 2025-October *(explicit citation)*
 - [[Marriage Watch and Learn (Elder L. Whitney Clayton, April 2013)|Marriage: Watch and Learn]] — Elder L. Whitney Clayton, 2013-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
 - [[“The Principles of My Gospel” (Elder David A. Bednar, April 2021)|“The Principles of My Gospel”]] — Elder David A. Bednar, 2021-April *(explicit citation)*
 - [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
 - [[A Plea to My Sisters (President Russell M. Nelson, October 2015)|A Plea to My Sisters]] — President Russell M. Nelson, 2015-October *(explicit citation)*
 - [[Serve (Elder Carl B. Cook, October 2016)|Serve]] — Elder Carl B. Cook, 2016-October *(explicit citation)*
-- [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Law** (history) *(explicit citation)*
 - **‘The Tithing of My People’** (history) *(explicit citation)*
+- **11 Ye Shall Receive My Law** (history) *(explicit citation)*
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
@@ -110,7 +117,6 @@ Repentance can lead to forgiveness and reconciliation, while unrepentant or repe
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
-- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

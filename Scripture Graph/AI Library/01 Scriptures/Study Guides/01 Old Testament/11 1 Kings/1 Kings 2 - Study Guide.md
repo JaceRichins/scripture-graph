@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 2
 slug: 1kgs-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ The account warrants ethical caution. It supplies rationales involving rivalry, 
 <!-- SG:BEGIN topics -->
 - [[Covenants]]
 - [[2 Samuel 7]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -91,7 +92,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abner** (reference-entry) *(explicit citation)*
+- **Absalom** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

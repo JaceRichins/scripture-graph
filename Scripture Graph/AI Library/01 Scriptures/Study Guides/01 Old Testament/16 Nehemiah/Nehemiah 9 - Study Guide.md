@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 9
 slug: neh-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,8 @@ _Not yet developed._
 - [[Leviticus 18]] — 1 parallel verse, e.g. [[Nehemiah 9#^neh-9-29|Nehemiah 9:29]] ↔ [[Leviticus 18#^lev-18-5|Leviticus 18:5]]
 - [[Joel 2]] — 1 parallel verse, e.g. [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]] ↔ [[Joel 2#^joel-2-13|Joel 2:13]]
 - [[Jonah 4]] — 1 parallel verse, e.g. [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]] ↔ [[Jonah 4#^jonah-4-2|Jonah 4:2]]
+- [[Nehemiah 10]] — 0 parallel verses
+- [[Psalm 106]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

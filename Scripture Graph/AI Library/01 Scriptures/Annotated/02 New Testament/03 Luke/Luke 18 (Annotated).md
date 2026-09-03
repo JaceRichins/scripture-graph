@@ -53,7 +53,7 @@ cssclasses:
 > [[Alma 38#^alma-38-13|Alma 38:14 (13–14)]]
 
 ![[Luke 18#^luke-18-14]]
-> [[2 Corinthians 10#^2cor-10-18|2 Cor. 10:18]] · [[Ether 12#^ether-12-27|Ether 12:27]] · [[D&C 101#^dc-101-42|D&amp;C 101:42]] · [[D&C 124#^dc-124-114|124:114]] · [[Luke 14#^luke-14-11|≈ Luke 14:11]] · [[D&C 101#^dc-101-42|≈ D&C 101:42]]
+> [[2 Corinthians 10#^2cor-10-18|2 Cor. 10:18]] · [[Ether 12#^ether-12-27|Ether 12:27]] · [[D&C 101#^dc-101-42|D&amp;C 101:42]] · [[D&C 124#^dc-124-114|124:114]] · [[D&C 101#^dc-101-42|≈ D&C 101:42]] · [[Luke 14#^luke-14-11|≈ Luke 14:11]]
 
 ![[Luke 18#^luke-18-15]]
 

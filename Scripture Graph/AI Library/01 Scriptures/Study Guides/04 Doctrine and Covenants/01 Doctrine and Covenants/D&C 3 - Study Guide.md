@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 3
 slug: dc-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -80,12 +80,14 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 - **A Mission to the Lamanites** (history) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **The Experience of the Three Witnesses** (history) *(explicit citation)*
 - **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Sources Cited** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 19
 slug: 1ne-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,27 +56,27 @@ Scripture: [[1 Nephi 19]] · My notes: [[1 Nephi 19 - My Notes]]
 - [[1 Nephi 9]] — 3 footnote cross-references (from [[1 Nephi 19#^1ne-19-2|1 Nephi 19:2]])
 - [[Matthew 27]] — 3 footnote cross-references (from [[1 Nephi 19#^1ne-19-9|1 Nephi 19:9]])
 - [[2 Nephi 10]] — 3 footnote cross-references (from [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]])
+- [[1 Nephi 22]] — 6 parallel verses, e.g. [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]] ↔ [[1 Nephi 22#^1ne-22-11|1 Nephi 22:11]]
 - [[3 Nephi 16]] — 5 parallel verses, e.g. [[1 Nephi 19#^1ne-19-17|1 Nephi 19:17]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
 - [[3 Nephi 20]] — 3 parallel verses, e.g. [[1 Nephi 19#^1ne-19-24|1 Nephi 19:24]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]
+- [[D&C 133]] — 3 parallel verses, e.g. [[1 Nephi 19#^1ne-19-17|1 Nephi 19:17]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
+- [[2 Nephi 6]] — 3 parallel verses, e.g. [[1 Nephi 19#^1ne-19-8|1 Nephi 19:8]] ↔ [[2 Nephi 6#^2ne-6-9|2 Nephi 6:9]]
 - [[3 Nephi 21]] — 2 parallel verses, e.g. [[1 Nephi 19#^1ne-19-24|1 Nephi 19:24]] ↔ [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]]
 - [[1 Nephi 3]] — 2 parallel verses, e.g. [[1 Nephi 19#^1ne-19-22|1 Nephi 19:22]] ↔ [[1 Nephi 3#^1ne-3-12|1 Nephi 3:12]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Mosiah 16]] — 1 parallel verse, e.g. [[1 Nephi 19#^1ne-19-17|1 Nephi 19:17]] ↔ [[Mosiah 16#^mosiah-16-1|Mosiah 16:1]]
 - [[Mosiah 15]] — 2 parallel verses, e.g. [[1 Nephi 19#^1ne-19-17|1 Nephi 19:17]] ↔ [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]]
 - [[3 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 19#^1ne-19-16|1 Nephi 19:16]] ↔ [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]]
 - [[Acts 3]] — 1 parallel verse, e.g. [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]] ↔ [[Acts 3#^acts-3-13|Acts 3:13]]
-- [[2 Nephi 25]] — 1 parallel verse, e.g. [[1 Nephi 19#^1ne-19-8|1 Nephi 19:8]] ↔ [[2 Nephi 25#^2ne-25-19|2 Nephi 25:19]]
-- [[Mosiah 4]] — 1 parallel verse, e.g. [[1 Nephi 19#^1ne-19-9|1 Nephi 19:9]] ↔ [[Mosiah 4#^mosiah-4-6|Mosiah 4:6]]
-- [[3 Nephi 10]] — 1 parallel verse, e.g. [[1 Nephi 19#^1ne-19-11|1 Nephi 19:11]] ↔ [[3 Nephi 10#^3ne-10-14|3 Nephi 10:14]]
-- [[Exodus 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Scripture Study]]
-- [[Records and Sacred Writings]]
 - [[Scattering of Israel]]
 - [[Crucifixion of Jesus Christ]]
 - [[Condescension of God]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
 - [[Prophecy]] *(keyword match — unconfirmed)*

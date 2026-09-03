@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 71
 slug: dc-71
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 71]] · My notes: [[D&C 71 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–4, Joseph Smith and Sidney Rigdon are sent forth to proclaim the gospel; 5–11, Enemies of the Saints will be confounded.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 4]] — 1 footnote cross-reference (from [[D&C 71#^dc-71-1|D&C 71:1]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[D&C 71#^dc-71-1|D&C 71:1]])
+- [[D&C 73]] — 1 footnote cross-reference (from [[D&C 71#^dc-71-2|D&C 71:2]])
+- [[D&C 24]] — 1 footnote cross-reference (from [[D&C 71#^dc-71-4|D&C 71:4]])
+- [[Alma 12]] — 1 footnote cross-reference (from [[D&C 71#^dc-71-5|D&C 71:5]])
+- [[Matthew 13]] — 1 footnote cross-reference (from [[D&C 71#^dc-71-6|D&C 71:6]])
 - [[D&C 55]] — 2 parallel verses, e.g. [[D&C 71#^dc-71-1|D&C 71:1]] ↔ [[D&C 55#^dc-55-5|D&C 55:5]]
 - [[D&C 52]] — 2 parallel verses, e.g. [[D&C 71#^dc-71-1|D&C 71:1]] ↔ [[D&C 52#^dc-52-3|D&C 52:3]]
 - [[D&C 86]] — 2 parallel verses, e.g. [[D&C 71#^dc-71-1|D&C 71:1]] ↔ [[D&C 86#^dc-86-1|D&C 86:1]]

@@ -37,7 +37,7 @@ cssclasses:
 > [[Judges 2#^judg-2-14|≈ Judges 2:14]] · [[Judges 2#^judg-2-20|≈ Judges 2:20]] · [[Judges 10#^judg-10-7|≈ Judges 10:7]]
 
 ![[Judges 3#^judg-3-9]]
-> [[Nehemiah 9#^neh-9-27|Neh. 9:27]] · [[Judges 6#^judg-6-7|≈ Judges 6:7]] · [[Judges 6#^judg-6-6|≈ Judges 6:6]] · [[Judges 4#^judg-4-3|≈ Judges 4:3]] · [[Judges 10#^judg-10-10|≈ Judges 10:10]] · [[Judges 1#^judg-1-13|≈ Judges 1:13]]
+> [[Nehemiah 9#^neh-9-27|Neh. 9:27]] · [[Judges 6#^judg-6-7|≈ Judges 6:7]] · [[Judges 6#^judg-6-6|≈ Judges 6:6]] · [[Judges 4#^judg-4-3|≈ Judges 4:3]] · [[Judges 1#^judg-1-13|≈ Judges 1:13]] · [[Judges 10#^judg-10-10|≈ Judges 10:10]]
 
 ![[Judges 3#^judg-3-10]]
 > [[Habakkuk 3#^hab-3-7|Hab. 3:7]] · [[Judges 14#^judg-14-19|≈ Judges 14:19]]

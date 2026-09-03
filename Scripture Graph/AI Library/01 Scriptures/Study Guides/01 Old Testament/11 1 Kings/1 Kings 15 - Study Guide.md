@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 15
 slug: 1kgs-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,26 +58,26 @@ The standardized regnal formulas make moral comparison prominent. Their repetiti
 - [[2 Samuel 11]] — 1 footnote cross-reference (from [[1 Kings 15#^1kgs-15-5|1 Kings 15:5]])
 - [[D&C 132]] — 1 footnote cross-reference (from [[1 Kings 15#^1kgs-15-5|1 Kings 15:5]])
 - [[2 Kings 15]] — 32 parallel verses, e.g. [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]] ↔ [[2 Kings 15#^2kgs-15-36|2 Kings 15:36]]
+- [[1 Kings 16]] — 27 parallel verses, e.g. [[1 Kings 15#^1kgs-15-31|1 Kings 15:31]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
 - [[1 Kings 22]] — 14 parallel verses, e.g. [[1 Kings 15#^1kgs-15-24|1 Kings 15:24]] ↔ [[1 Kings 22#^1kgs-22-50|1 Kings 22:50]]
 - [[2 Kings 14]] — 16 parallel verses, e.g. [[1 Kings 15#^1kgs-15-31|1 Kings 15:31]] ↔ [[2 Kings 14#^2kgs-14-28|2 Kings 14:28]]
 - [[1 Kings 14]] — 11 parallel verses, e.g. [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
 - [[2 Kings 21]] — 11 parallel verses, e.g. [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]] ↔ [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]]
 - [[2 Kings 13]] — 8 parallel verses, e.g. [[1 Kings 15#^1kgs-15-31|1 Kings 15:31]] ↔ [[2 Kings 13#^2kgs-13-8|2 Kings 13:8]]
 - [[2 Kings 8]] — 9 parallel verses, e.g. [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
+- [[2 Chronicles 16]] — 8 parallel verses, e.g. [[1 Kings 15#^1kgs-15-19|1 Kings 15:19]] ↔ [[2 Chronicles 16#^2chr-16-3|2 Chronicles 16:3]]
 - [[2 Kings 12]] — 9 parallel verses, e.g. [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]] ↔ [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]]
 - [[2 Kings 24]] — 7 parallel verses, e.g. [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]] ↔ [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]]
 - [[2 Kings 23]] — 7 parallel verses, e.g. [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]] ↔ [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]]
-- [[2 Kings 16]] — 6 parallel verses, e.g. [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]] ↔ [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]]
-- [[2 Kings 10]] — 5 parallel verses, e.g. [[1 Kings 15#^1kgs-15-31|1 Kings 15:31]] ↔ [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[War and Peace]]
 - [[Prophecy]]
 - [[Records and Sacred Writings]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -96,7 +96,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Asa** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

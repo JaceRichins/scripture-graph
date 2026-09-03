@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 46
 slug: dc-46
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -43,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[3 Nephi 12]] — 2 footnote cross-references (from [[D&C 46#^dc-46-4|D&C 46:4]])
+- [[D&C 88]] — 2 footnote cross-references (from [[D&C 46#^dc-46-7|D&C 46:7]])
+- [[Alma 34]] — 2 footnote cross-references (from [[D&C 46#^dc-46-7|D&C 46:7]])
+- [[1 Corinthians 12]] — 2 footnote cross-references (from [[D&C 46#^dc-46-8|D&C 46:8]])
+- [[James 4]] — 2 footnote cross-references (from [[D&C 46#^dc-46-9|D&C 46:9]])
+- [[Moroni 10]] — 2 footnote cross-references (from [[D&C 46#^dc-46-15|D&C 46:15]])
 - [[3 Nephi 11]] — 2 parallel verses, e.g. [[D&C 46#^dc-46-5|D&C 46:5]] ↔ [[3 Nephi 11#^3ne-11-37|3 Nephi 11:37]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 46#^dc-46-1|D&C 46:1]] ↔ [[D&C 45#^dc-45-1|D&C 45:1]]
 - [[Mormon 7]] — 1 parallel verse, e.g. [[D&C 46#^dc-46-13|D&C 46:13]] ↔ [[Mormon 7#^morm-7-5|Mormon 7:5]]
@@ -54,8 +60,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Spiritual Gifts]]
 - [[Gift of Tongues]]
+- [[Spiritual Gifts]]
 - [[Prophecy]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*

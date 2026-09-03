@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 27
 slug: matt-27
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,8 @@ _Not yet developed._
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Aceldama** (reference-entry) *(explicit citation)*
+- **Arimathea** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

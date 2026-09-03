@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 49
 slug: alma-49
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Alma 50]] — 2 footnote cross-references (from [[Alma 49#^alma-49-4|Alma 49:4]])
 - [[Alma 51]] — 2 footnote cross-references (from [[Alma 49#^alma-49-25|Alma 49:25]])
 - [[Alma 43]] — 4 parallel verses, e.g. [[Alma 49#^alma-49-28|Alma 49:28]] ↔ [[Alma 43#^alma-43-9|Alma 43:9]]
+- [[Alma 50]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +71,7 @@ _Not yet developed._
 - [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 - [[Build a Fortress of Spirituality and Protection (Elder Ronald A. Rasband, April 2019)|Build a Fortress of Spirituality and Protection]] — Elder Ronald A. Rasband, 2019-April *(explicit citation)*
 - [[Prepared in a Manner That Never Had Been Known (Linda K. Burton, October 2014)|Prepared in a Manner That Never Had Been Known]] — Linda K. Burton, 2014-October *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 - [[Truly Good and without Guile (Elder Michael T. Ringwood, April 2015)|Truly Good and without Guile]] — Elder Michael T. Ringwood, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 

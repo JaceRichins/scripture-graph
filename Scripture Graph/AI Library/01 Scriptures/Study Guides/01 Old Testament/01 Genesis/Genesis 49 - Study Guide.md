@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 49
 slug: gen-49
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Genesis 34]] — 3 footnote cross-references (from [[Genesis 49#^gen-49-5|Genesis 49:5]])
 - [[1 Chronicles 5]] — 2 footnote cross-references (from [[Genesis 49#^gen-49-3|Genesis 49:3]])
 - [[Genesis 50]] — 1 parallel verse, e.g. [[Genesis 49#^gen-49-30|Genesis 49:30]] ↔ [[Genesis 50#^gen-50-13|Genesis 50:13]]
+- [[1 Chronicles 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,7 +73,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Asher** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

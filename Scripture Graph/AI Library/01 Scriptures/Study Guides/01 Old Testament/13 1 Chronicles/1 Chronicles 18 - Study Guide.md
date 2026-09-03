@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 18
 slug: 1chr-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[1 Kings 1]] — 2 parallel verses, e.g. [[1 Chronicles 18#^1chr-18-17|1 Chronicles 18:17]] ↔ [[1 Kings 1#^1kgs-1-44|1 Kings 1:44]]
 - [[Judges 10]] — 1 parallel verse, e.g. [[1 Chronicles 18#^1chr-18-11|1 Chronicles 18:11]] ↔ [[Judges 10#^judg-10-11|Judges 10:11]]
 - [[1 Kings 4]] — 1 parallel verse, e.g. [[1 Chronicles 18#^1chr-18-17|1 Chronicles 18:17]] ↔ [[1 Kings 4#^1kgs-4-4|1 Kings 4:4]]
+- [[1 Kings 4]] — 0 parallel verses
 - [[2 Samuel 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -73,7 +74,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abiathar** (reference-entry) *(explicit citation)*
+- **Abimelech** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

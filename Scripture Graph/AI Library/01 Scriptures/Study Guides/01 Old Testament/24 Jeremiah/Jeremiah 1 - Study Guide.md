@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 1
 slug: jer-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ _Not yet developed._
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1844-12-15 (Vol. 5 No. 23)** (periodical, 1844-12-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

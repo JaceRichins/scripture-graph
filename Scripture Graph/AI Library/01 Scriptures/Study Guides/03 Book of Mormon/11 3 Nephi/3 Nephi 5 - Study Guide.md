@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 5
 slug: 3ne-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,29 +55,30 @@ Scripture: [[3 Nephi 5]] · My notes: [[3 Nephi 5 - My Notes]]
 - [[Mormon 2]] — 2 footnote cross-references (from [[3 Nephi 5#^3ne-5-9|3 Nephi 5:9]])
 - [[Mormon 7]] — 2 footnote cross-references (from [[3 Nephi 5#^3ne-5-15|3 Nephi 5:15]])
 - [[3 Nephi 15]] — 2 footnote cross-references (from [[3 Nephi 5#^3ne-5-20|3 Nephi 5:20]])
+- [[Ether 13]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-26|3 Nephi 5:26]] ↔ [[Ether 13#^ether-13-11|Ether 13:11]]
+- [[Alma 46]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]] ↔ [[Alma 46#^alma-46-23|Alma 46:23]]
+- [[3 Nephi 1]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-2|3 Nephi 5:2]] ↔ [[3 Nephi 1#^3ne-1-20|3 Nephi 1:20]]
 - [[3 Nephi 16]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[3 Nephi 16#^3ne-16-5|3 Nephi 16:5]]
+- [[Moses 7]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-26|3 Nephi 5:26]] ↔ [[Moses 7#^moses-7-62|Moses 7:62]]
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]] ↔ [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]] ↔ [[3 Nephi 20#^3ne-20-13|3 Nephi 20:13]]
+- [[D&C 33]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[D&C 33#^dc-33-6|D&C 33:6]]
+- [[D&C 45]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[D&C 45#^dc-45-46|D&C 45:46]]
+- [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-27|Joseph Smith—Matthew 1:27]]
 - [[1 Nephi 19]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[1 Nephi 19#^1ne-19-16|1 Nephi 19:16]]
 - [[1 Nephi 22]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[1 Nephi 22#^1ne-22-25|1 Nephi 22:25]]
-- [[Mosiah 7]] — 1 parallel verse, e.g. [[3 Nephi 5#^3ne-5-20|3 Nephi 5:20]] ↔ [[Mosiah 7#^mosiah-7-20|Mosiah 7:20]]
-- [[Alma 36]] — 1 parallel verse, e.g. [[3 Nephi 5#^3ne-5-20|3 Nephi 5:20]] ↔ [[Alma 36#^alma-36-29|Alma 36:29]]
-- [[Mormon 1]] — 1 parallel verse, e.g. [[3 Nephi 5#^3ne-5-17|3 Nephi 5:17]] ↔ [[Mormon 1#^morm-1-1|Mormon 1:1]]
-- [[Helaman 16]] — 1 parallel verse, e.g. [[3 Nephi 5#^3ne-5-5|3 Nephi 5:5]] ↔ [[Helaman 16#^hel-16-2|Helaman 16:2]]
-- [[Alma 46]] — 0 parallel verses
-- [[1 Nephi 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
-- [[Records and Sacred Writings]]
 - [[Secret Combinations]]
 - [[Repentance and Forgiveness]]
 - [[Prophecy]]
 - [[Signs of the Times]]
 - [[Scattering of Israel]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Covenants]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 8
 slug: 2sam-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -62,8 +62,8 @@ The preservation formula closes the Damascus report and recurs after the Edom re
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -78,7 +78,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abiathar** (reference-entry) *(explicit citation)*
+- **Amalek, Amalekites** (reference-entry) *(explicit citation)*
+- **Aram, Arameans** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

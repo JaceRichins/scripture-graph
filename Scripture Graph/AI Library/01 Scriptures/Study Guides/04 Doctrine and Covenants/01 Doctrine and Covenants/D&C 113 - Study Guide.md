@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 113
 slug: dc-113
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 113]] · My notes: [[D&C 113 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–6, The Stem of Jesse, the rod coming therefrom, and the root of Jesse are identified; 7–10, The scattered remnants of Zion have a right to the priesthood and are called to return to the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -39,12 +40,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 77]] — 12 parallel verses, e.g. [[D&C 113#^dc-113-9|D&C 113:9]] ↔ [[D&C 77#^dc-77-2|D&C 77:2]]
-- [[D&C 72]] — 3 parallel verses, e.g. [[D&C 113#^dc-113-2|D&C 113:2]] ↔ [[D&C 72#^dc-72-2|D&C 72:2]]
-- [[D&C 73]] — 3 parallel verses, e.g. [[D&C 113#^dc-113-2|D&C 113:2]] ↔ [[D&C 73#^dc-73-1|D&C 73:1]]
-- [[D&C 78]] — 3 parallel verses, e.g. [[D&C 113#^dc-113-2|D&C 113:2]] ↔ [[D&C 78#^dc-78-8|D&C 78:8]]
-- [[D&C 114]] — 3 parallel verses, e.g. [[D&C 113#^dc-113-2|D&C 113:2]] ↔ [[D&C 114#^dc-114-1|D&C 114:1]]
-- [[Jeremiah 5]] — 2 parallel verses, e.g. [[D&C 113#^dc-113-4|D&C 113:4]] ↔ [[Jeremiah 5#^jer-5-15|Jeremiah 5:15]]
+- [[Isaiah 11]] — 2 footnote cross-references (from [[D&C 113#^dc-113-1|D&C 113:1]])
+- [[D&C 110]] — 2 footnote cross-references (from [[D&C 113#^dc-113-4|D&C 113:4]])
+- [[Isaiah 52]] — 2 footnote cross-references (from [[D&C 113#^dc-113-8|D&C 113:8]])
+- [[Psalm 110]] — 1 footnote cross-reference (from [[D&C 113#^dc-113-3|D&C 113:3]])
+- [[Genesis 41]] — 1 footnote cross-reference (from [[D&C 113#^dc-113-4|D&C 113:4]])
+- [[D&C 133]] — 1 footnote cross-reference (from [[D&C 113#^dc-113-4|D&C 113:4]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

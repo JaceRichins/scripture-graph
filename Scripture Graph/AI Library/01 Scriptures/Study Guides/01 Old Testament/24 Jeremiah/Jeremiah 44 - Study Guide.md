@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 44
 slug: jer-44
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ Jeremiah 44 presents a confrontation between Jeremiah and Judean refugees living
 - [[Exodus 14]] — 1 footnote cross-reference (from [[Jeremiah 44#^jer-44-1|Jeremiah 44:1]])
 - [[Jeremiah 2]] — 1 footnote cross-reference (from [[Jeremiah 44#^jer-44-1|Jeremiah 44:1]])
 - [[Isaiah 19]] — 1 footnote cross-reference (from [[Jeremiah 44#^jer-44-1|Jeremiah 44:1]])
+- [[Jeremiah 7]] — 16 parallel verses, e.g. [[Jeremiah 44#^jer-44-18|Jeremiah 44:18]] ↔ [[Jeremiah 7#^jer-7-18|Jeremiah 7:18]]
 - [[Jeremiah 32]] — 16 parallel verses, e.g. [[Jeremiah 44#^jer-44-30|Jeremiah 44:30]] ↔ [[Jeremiah 32#^jer-32-28|Jeremiah 32:28]]
 - [[Jeremiah 42]] — 12 parallel verses, e.g. [[Jeremiah 44#^jer-44-12|Jeremiah 44:12]] ↔ [[Jeremiah 42#^jer-42-18|Jeremiah 42:18]]
 - [[Jeremiah 29]] — 15 parallel verses, e.g. [[Jeremiah 44#^jer-44-25|Jeremiah 44:25]] ↔ [[Jeremiah 29#^jer-29-25|Jeremiah 29:25]]
@@ -61,7 +62,6 @@ Jeremiah 44 presents a confrontation between Jeremiah and Judean refugees living
 - [[Jeremiah 28]] — 7 parallel verses, e.g. [[Jeremiah 44#^jer-44-25|Jeremiah 44:25]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
 - [[Jeremiah 21]] — 6 parallel verses, e.g. [[Jeremiah 44#^jer-44-30|Jeremiah 44:30]] ↔ [[Jeremiah 21#^jer-21-7|Jeremiah 21:7]]
 - [[Jeremiah 34]] — 5 parallel verses, e.g. [[Jeremiah 44#^jer-44-30|Jeremiah 44:30]] ↔ [[Jeremiah 34#^jer-34-20|Jeremiah 34:20]]
-- [[Jeremiah 16]] — 5 parallel verses, e.g. [[Jeremiah 44#^jer-44-11|Jeremiah 44:11]] ↔ [[Jeremiah 16#^jer-16-9|Jeremiah 16:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,7 +83,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

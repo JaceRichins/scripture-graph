@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 80
 slug: ps-80
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

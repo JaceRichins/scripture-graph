@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 10
 slug: rev-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Ezekiel 3]] — 1 footnote cross-reference (from [[Revelation 10#^rev-10-10|Revelation 10:10]])
 - [[D&C 77]] — 1 footnote cross-reference (from [[Revelation 10#^rev-10-10|Revelation 10:10]])
 - [[Revelation 14]] — 2 parallel verses, e.g. [[Revelation 10#^rev-10-4|Revelation 10:4]] ↔ [[Revelation 14#^rev-14-13|Revelation 14:13]]
+- [[D&C 77]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

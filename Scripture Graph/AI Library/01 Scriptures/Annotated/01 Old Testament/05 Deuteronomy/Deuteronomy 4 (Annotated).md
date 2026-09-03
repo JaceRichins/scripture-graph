@@ -72,7 +72,7 @@ cssclasses:
 ![[Deuteronomy 4#^deut-4-20]]
 
 ![[Deuteronomy 4#^deut-4-21]]
-> [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 1#^deut-1-37|≈ Deuteronomy 1:37]] · [[Deuteronomy 15#^deut-15-4|≈ Deuteronomy 15:4]] · [[Deuteronomy 15#^deut-15-7|≈ Deuteronomy 15:7]] · [[Deuteronomy 19#^deut-19-10|≈ Deuteronomy 19:10]] · [[Deuteronomy 19#^deut-19-2|≈ Deuteronomy 19:2]]
+> [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 19#^deut-19-10|≈ Deuteronomy 19:10]] · [[Deuteronomy 19#^deut-19-2|≈ Deuteronomy 19:2]] · [[Deuteronomy 19#^deut-19-3|≈ Deuteronomy 19:3]] · [[Deuteronomy 1#^deut-1-37|≈ Deuteronomy 1:37]] · [[Deuteronomy 15#^deut-15-4|≈ Deuteronomy 15:4]]
 
 ![[Deuteronomy 4#^deut-4-22]]
 
@@ -125,7 +125,7 @@ cssclasses:
 > [[Joshua 2#^josh-2-11|Josh. 2:11]] · [[1 Kings 8#^1kgs-8-23|1 Kgs. 8:23]] · [[Mosiah 4#^mosiah-4-9|Mosiah 4:9]]
 
 ![[Deuteronomy 4#^deut-4-40]]
-> [[Deuteronomy 22#^deut-22-7|Deut. 22:7]] · [[Deuteronomy 25#^deut-25-15|25:15]] · [[D&C 5#^dc-5-33|D&amp;C 5:33]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 6#^deut-6-2|≈ Deuteronomy 6:2]] · [[Deuteronomy 12#^deut-12-25|≈ Deuteronomy 12:25]] · [[Deuteronomy 12#^deut-12-28|≈ Deuteronomy 12:28]] · [[Deuteronomy 15#^deut-15-4|≈ Deuteronomy 15:4]]
+> [[Deuteronomy 22#^deut-22-7|Deut. 22:7]] · [[Deuteronomy 25#^deut-25-15|25:15]] · [[D&C 5#^dc-5-33|D&amp;C 5:33]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 6#^deut-6-2|≈ Deuteronomy 6:2]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 19#^deut-19-10|≈ Deuteronomy 19:10]] · [[Deuteronomy 19#^deut-19-13|≈ Deuteronomy 19:13]] · [[Deuteronomy 12#^deut-12-25|≈ Deuteronomy 12:25]]
 
 ![[Deuteronomy 4#^deut-4-41]]
 > [[Joshua 1#^josh-1-15|≈ Joshua 1:15]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 10
 slug: isa-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,18 +56,18 @@ Scripture: [[Isaiah 10]] · My notes: [[Isaiah 10 - My Notes]]
 - [[Exodus 14]] — 2 footnote cross-references (from [[Isaiah 10#^isa-10-26|Isaiah 10:26]])
 - [[Mosiah 4]] — 1 footnote cross-reference (from [[Isaiah 10#^isa-10-2|Isaiah 10:2]])
 - [[D&C 38]] — 1 footnote cross-reference (from [[Isaiah 10#^isa-10-2|Isaiah 10:2]])
+- [[2 Nephi 20]] — 36 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
+- [[Isaiah 9]] — 3 parallel verses, e.g. [[Isaiah 10#^isa-10-4|Isaiah 10:4]] ↔ [[Isaiah 9#^isa-9-12|Isaiah 9:12]]
 - [[2 Nephi 19]] — 3 parallel verses, e.g. [[Isaiah 10#^isa-10-4|Isaiah 10:4]] ↔ [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]]
+- [[Isaiah 7]] — 6 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
 - [[Isaiah 27]] — 4 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
 - [[Zechariah 14]] — 4 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
+- [[2 Nephi 24]] — 4 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
 - [[Isaiah 5]] — 1 parallel verse, e.g. [[Isaiah 10#^isa-10-4|Isaiah 10:4]] ↔ [[Isaiah 5#^isa-5-25|Isaiah 5:25]]
 - [[2 Nephi 15]] — 1 parallel verse, e.g. [[Isaiah 10#^isa-10-4|Isaiah 10:4]] ↔ [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]]
+- [[Isaiah 11]] — 2 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
 - [[Isaiah 24]] — 2 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[Isaiah 24#^isa-24-21|Isaiah 24:21]]
 - [[Joel 3]] — 2 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[Joel 3#^joel-3-18|Joel 3:18]]
-- [[Zechariah 13]] — 2 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
-- [[2 Nephi 17]] — 2 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
-- [[2 Nephi 21]] — 2 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
-- [[2 Nephi 28]] — 2 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]]
-- [[Isaiah 22]] — 2 parallel verses, e.g. [[Isaiah 10#^isa-10-20|Isaiah 10:20]] ↔ [[Isaiah 22#^isa-22-20|Isaiah 22:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

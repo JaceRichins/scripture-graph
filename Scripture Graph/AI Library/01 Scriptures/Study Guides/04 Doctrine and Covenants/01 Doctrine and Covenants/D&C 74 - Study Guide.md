@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 74
 slug: dc-74
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 74]] · My notes: [[D&C 74 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–5, Paul counsels the Church of his day not to keep the law of Moses; 6–7, Little children are holy and are sanctified through the Atonement.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Corinthians 7]] — 1 footnote cross-reference (from [[D&C 74#^dc-74-1|D&C 74:1]])
+- [[Acts 15]] — 1 footnote cross-reference (from [[D&C 74#^dc-74-3|D&C 74:3]])
+- [[Galatians 2]] — 1 footnote cross-reference (from [[D&C 74#^dc-74-3|D&C 74:3]])
+- [[Galatians 5]] — 1 footnote cross-reference (from [[D&C 74#^dc-74-3|D&C 74:3]])
+- [[Romans 7]] — 1 footnote cross-reference (from [[D&C 74#^dc-74-5|D&C 74:5]])
+- [[2 Nephi 25]] — 1 footnote cross-reference (from [[D&C 74#^dc-74-5|D&C 74:5]])
 - [[1 Corinthians 7]] — 1 parallel verse, e.g. [[D&C 74#^dc-74-1|D&C 74:1]] ↔ [[1 Corinthians 7#^1cor-7-14|1 Corinthians 7:14]]
 <!-- SG:END related-scriptures -->
 

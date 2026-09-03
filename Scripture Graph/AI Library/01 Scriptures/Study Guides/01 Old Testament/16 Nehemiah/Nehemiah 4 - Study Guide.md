@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 4
 slug: neh-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,7 +64,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ammon, Ammonites** (reference-entry) *(explicit citation)*
+- **Ashdod or Azotus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

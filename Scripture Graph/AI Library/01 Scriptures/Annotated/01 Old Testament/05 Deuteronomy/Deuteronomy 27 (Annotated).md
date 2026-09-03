@@ -20,10 +20,10 @@ cssclasses:
 > [[Mosiah 12#^mosiah-12-33|Mosiah 12:33 (33–37)]] · [[Deuteronomy 11#^deut-11-8|≈ Deuteronomy 11:8]] · [[Deuteronomy 11#^deut-11-13|≈ Deuteronomy 11:13]]
 
 ![[Deuteronomy 27#^deut-27-2]]
-> [[Joshua 4#^josh-4-3|Josh. 4:3]] · [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 28#^deut-28-8|≈ Deuteronomy 28:8]] · [[Mosiah 13#^mosiah-13-20|≈ Mosiah 13:20]] · [[Deuteronomy 4#^deut-4-21|≈ Deuteronomy 4:21]] · [[Deuteronomy 15#^deut-15-4|≈ Deuteronomy 15:4]]
+> [[Joshua 4#^josh-4-3|Josh. 4:3]] · [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Deuteronomy 28#^deut-28-8|≈ Deuteronomy 28:8]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Mosiah 13#^mosiah-13-20|≈ Mosiah 13:20]] · [[Deuteronomy 4#^deut-4-21|≈ Deuteronomy 4:21]] · [[Deuteronomy 19#^deut-19-2|≈ Deuteronomy 19:2]]
 
 ![[Deuteronomy 27#^deut-27-3]]
-> [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 28#^deut-28-8|≈ Deuteronomy 28:8]] · [[Mosiah 13#^mosiah-13-20|≈ Mosiah 13:20]] · [[Joshua 5#^josh-5-6|≈ Joshua 5:6]] · [[Deuteronomy 4#^deut-4-21|≈ Deuteronomy 4:21]]
+> [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Deuteronomy 28#^deut-28-8|≈ Deuteronomy 28:8]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Mosiah 13#^mosiah-13-20|≈ Mosiah 13:20]] · [[Joshua 5#^josh-5-6|≈ Joshua 5:6]] · [[Deuteronomy 4#^deut-4-21|≈ Deuteronomy 4:21]]
 
 ![[Deuteronomy 27#^deut-27-4]]
 

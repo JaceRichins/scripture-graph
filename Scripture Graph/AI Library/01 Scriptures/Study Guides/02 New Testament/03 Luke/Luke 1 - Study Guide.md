@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 1
 slug: luke-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,8 @@ _Not yet developed._
 - [[Luke 2]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-80|Luke 1:80]] ↔ [[Luke 2#^luke-2-40|Luke 2:40]]
 - [[Psalm 107]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-79|Luke 1:79]] ↔ [[Psalm 107#^ps-107-10|Psalm 107:10]]
 - [[2 Samuel 7]] — 0 parallel verses
+- [[Judges 13]] — 0 parallel verses
+- [[1 Samuel 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -97,6 +99,7 @@ _Not yet developed._
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Addiction** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*

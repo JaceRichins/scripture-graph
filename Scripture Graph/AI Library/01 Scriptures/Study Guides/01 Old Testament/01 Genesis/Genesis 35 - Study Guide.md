@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 35
 slug: gen-35
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -70,11 +70,13 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 - [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abraham, covenant of** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

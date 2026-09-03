@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 30
 slug: ps-30
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Psalm 104]] — 1 footnote cross-reference (from [[Psalm 30#^ps-30-7|Psalm 30:7]])
 - [[D&C 84]] — 1 footnote cross-reference (from [[Psalm 30#^ps-30-7|Psalm 30:7]])
 - [[Psalm 97]] — 1 parallel verse, e.g. [[Psalm 30#^ps-30-4|Psalm 30:4]] ↔ [[Psalm 97#^ps-97-12|Psalm 97:12]]
+- [[Psalm 97]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

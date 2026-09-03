@@ -31,7 +31,7 @@ cssclasses:
 ![[Romans 1#^rom-1-6]]
 
 ![[Romans 1#^rom-1-7]]
-> [[2 Corinthians 1#^2cor-1-2|≈ 2 Corinthians 1:2]] · [[Ephesians 1#^eph-1-2|≈ Ephesians 1:2]] · [[Philemon 1#^philem-1-3|≈ Philemon 1:3]] · [[Colossians 1#^col-1-2|≈ Colossians 1:2]] · [[1 Thessalonians 1#^1thes-1-1|≈ 1 Thessalonians 1:1]] · [[2 Thessalonians 1#^2thes-1-2|≈ 2 Thessalonians 1:2]]
+> [[1 Thessalonians 1#^1thes-1-1|≈ 1 Thessalonians 1:1]] · [[2 Corinthians 1#^2cor-1-2|≈ 2 Corinthians 1:2]] · [[Ephesians 1#^eph-1-2|≈ Ephesians 1:2]] · [[Philemon 1#^philem-1-3|≈ Philemon 1:3]] · [[Colossians 1#^col-1-2|≈ Colossians 1:2]] · [[2 Thessalonians 1#^2thes-1-2|≈ 2 Thessalonians 1:2]]
 
 ![[Romans 1#^rom-1-8]]
 > [[Romans 16#^rom-16-19|Rom. 16:19]]

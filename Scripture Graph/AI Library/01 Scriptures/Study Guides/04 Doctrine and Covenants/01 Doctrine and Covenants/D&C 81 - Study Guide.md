@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 81
 slug: dc-81
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 68]] — 2 footnote cross-references (from [[D&C 81#^dc-81-1|D&C 81:1]])
+- [[D&C 107]] — 2 footnote cross-references (from [[D&C 81#^dc-81-1|D&C 81:1]])
+- [[D&C 35]] — 1 footnote cross-reference (from [[D&C 81#^dc-81-1|D&C 81:1]])
+- [[D&C 90]] — 1 footnote cross-reference (from [[D&C 81#^dc-81-1|D&C 81:1]])
+- [[Psalm 27]] — 1 footnote cross-reference (from [[D&C 81#^dc-81-3|D&C 81:3]])
+- [[D&C 124]] — 1 footnote cross-reference (from [[D&C 81#^dc-81-4|D&C 81:4]])
+- [[D&C 92]] — 1 parallel verse, e.g. [[D&C 81#^dc-81-1|D&C 81:1]] ↔ [[D&C 92#^dc-92-2|D&C 92:2]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[D&C 81#^dc-81-1|D&C 81:1]] ↔ [[D&C 93#^dc-93-41|D&C 93:41]]
 - [[Isaiah 35]] — 0 parallel verses
 - [[John 14]] — 0 parallel verses

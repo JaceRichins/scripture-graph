@@ -17,7 +17,7 @@ cssclasses:
 > The land is divided by lot among 9½ tribes—Caleb inherits Hebron as a special reward for his faithfulness.
 
 ![[Joshua 14#^josh-14-1]]
-> [[Numbers 34#^num-34-17|Num. 34:17]] · [[Numbers 11#^num-11-28|Num. 11:28]] · [[Numbers 27#^num-27-18|27:18]] · [[Joshua 19#^josh-19-51|≈ Joshua 19:51]] · [[Joshua 21#^josh-21-1|≈ Joshua 21:1]] · [[Numbers 32#^num-32-28|≈ Numbers 32:28]] · [[Numbers 34#^num-34-17|≈ Numbers 34:17]] · [[Numbers 36#^num-36-9|≈ Numbers 36:9]] · [[Joshua 4#^josh-4-5|≈ Joshua 4:5]]
+> [[Numbers 34#^num-34-17|Num. 34:17]] · [[Numbers 11#^num-11-28|Num. 11:28]] · [[Numbers 27#^num-27-18|27:18]] · [[Joshua 21#^josh-21-1|≈ Joshua 21:1]] · [[Numbers 32#^num-32-28|≈ Numbers 32:28]] · [[Numbers 34#^num-34-17|≈ Numbers 34:17]] · [[Joshua 19#^josh-19-51|≈ Joshua 19:51]] · [[Numbers 36#^num-36-9|≈ Numbers 36:9]] · [[Joshua 4#^josh-4-5|≈ Joshua 4:5]]
 
 ![[Joshua 14#^josh-14-2]]
 > [[Joshua 18#^josh-18-6|Josh. 18:6]] · [[D&C 102#^dc-102-34|D&amp;C 102:34]] · [[Joshua 21#^josh-21-8|≈ Joshua 21:8]] · [[Joshua 21#^josh-21-2|≈ Joshua 21:2]] · [[Numbers 27#^num-27-23|≈ Numbers 27:23]] · [[Numbers 36#^num-36-13|≈ Numbers 36:13]]

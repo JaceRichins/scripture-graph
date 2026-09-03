@@ -17,7 +17,7 @@ cssclasses:
 > Moroni complains to Pahoran of the government’s neglect of the armies—The Lord suffers the righteous to be slain—The Nephites must use all of their power and means to deliver themselves from their enemies—Moroni threatens to fight against the government unless help is supplied to his armies. About 62 B.C.
 
 ![[Alma 60#^alma-60-1]]
-> [[Alma 59#^alma-59-3|Alma 59:3]] · [[Alma 50#^alma-50-39|Alma 50:39]] · [[Alma 61#^alma-61-1|≈ Alma 61:1]] · [[3 Nephi 1#^3ne-1-1|≈ 3 Nephi 1:1]] · [[Alma 54#^alma-54-15|≈ Alma 54:15]] · [[Alma 54#^alma-54-4|≈ Alma 54:4]] · [[Alma 56#^alma-56-2|≈ Alma 56:2]]
+> [[Alma 59#^alma-59-3|Alma 59:3]] · [[Alma 50#^alma-50-39|Alma 50:39]] · [[Alma 61#^alma-61-1|≈ Alma 61:1]] · [[Alma 54#^alma-54-15|≈ Alma 54:15]] · [[Alma 54#^alma-54-4|≈ Alma 54:4]] · [[3 Nephi 1#^3ne-1-1|≈ 3 Nephi 1:1]] · [[Alma 56#^alma-56-2|≈ Alma 56:2]]
 
 ![[Alma 60#^alma-60-2]]
 > [[3 Nephi 3#^3ne-3-26|≈ 3 Nephi 3:26]] · [[Alma 2#^alma-2-12|≈ Alma 2:12]] · [[Alma 2#^alma-2-14|≈ Alma 2:14]] · [[Alma 43#^alma-43-18|≈ Alma 43:18]]

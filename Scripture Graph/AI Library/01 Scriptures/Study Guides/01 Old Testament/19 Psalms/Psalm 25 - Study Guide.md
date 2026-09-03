@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 25
 slug: ps-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,7 +48,7 @@ _Not yet developed._
 - [[John 14]] — 1 footnote cross-reference (from [[Psalm 25#^ps-25-4|Psalm 25:4]])
 - [[D&C 50]] — 1 footnote cross-reference (from [[Psalm 25#^ps-25-4|Psalm 25:4]])
 - [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 25#^ps-25-4|Psalm 25:4]])
-- [[Psalm 86]] — 0 parallel verses
+- [[Psalm 86]] — 2 parallel verses, e.g. [[Psalm 25#^ps-25-1|Psalm 25:1]] ↔ [[Psalm 86#^ps-86-4|Psalm 86:4]]
 - [[Psalm 31]] — 0 parallel verses
 - [[Psalm 143]] — 0 parallel verses
 <!-- SG:END related-scriptures -->

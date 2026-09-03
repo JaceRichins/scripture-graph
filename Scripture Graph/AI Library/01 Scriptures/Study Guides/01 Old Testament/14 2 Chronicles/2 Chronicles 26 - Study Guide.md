@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 26
 slug: 2chr-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -32,8 +32,8 @@ Scripture: [[2 Chronicles 26]] · My notes: [[2 Chronicles 26 - My Notes]]
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Aaron (brother of Moses)]] — 0 mentions
-- [[Isaiah (prophet)]] — 0 mentions
+- [[Aaron (brother of Moses)]] — 1 mention
+- [[Isaiah (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -51,6 +51,7 @@ Scripture: [[2 Chronicles 26]] · My notes: [[2 Chronicles 26 - My Notes]]
 - [[Helaman 12]] — 1 footnote cross-reference (from [[2 Chronicles 26#^2chr-26-5|2 Chronicles 26:5]])
 - [[1 Chronicles 6]] — 1 footnote cross-reference (from [[2 Chronicles 26#^2chr-26-17|2 Chronicles 26:17]])
 - [[Numbers 16]] — 1 footnote cross-reference (from [[2 Chronicles 26#^2chr-26-18|2 Chronicles 26:18]])
+- [[2 Kings 15]] — 6 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
 - [[2 Chronicles 27]] — 3 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Chronicles 27#^2chr-27-2|2 Chronicles 27:2]]
 - [[2 Kings 14]] — 3 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-2|2 Chronicles 26:2]] ↔ [[2 Kings 14#^2kgs-14-22|2 Kings 14:22]]
 - [[2 Kings 23]] — 4 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 23#^2kgs-23-32|2 Kings 23:32]]
@@ -62,7 +63,6 @@ Scripture: [[2 Chronicles 26]] · My notes: [[2 Chronicles 26 - My Notes]]
 - [[2 Chronicles 36]] — 3 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-3|2 Chronicles 26:3]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
 - [[2 Kings 22]] — 2 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]]
 - [[2 Chronicles 29]] — 1 parallel verse, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Chronicles 29#^2chr-29-2|2 Chronicles 29:2]]
-- [[2 Chronicles 34]] — 2 parallel verses, e.g. [[2 Chronicles 26#^2chr-26-4|2 Chronicles 26:4]] ↔ [[2 Chronicles 34#^2chr-34-2|2 Chronicles 34:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +70,7 @@ Scripture: [[2 Chronicles 26]] · My notes: [[2 Chronicles 26 - My Notes]]
 - [[Pride]]
 - [[Records and Sacred Writings]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -87,7 +88,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ashdod or Azotus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

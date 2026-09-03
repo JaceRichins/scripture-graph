@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 8
 slug: 2ne-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,9 +52,9 @@ Zion and Jerusalem are addressed jointly rather than as strictly separate stages
 - [[Joel 3]] — 2 footnote cross-references (from [[2 Nephi 8#^2ne-8-23|2 Nephi 8:23]])
 - [[Zechariah 14]] — 2 footnote cross-references (from [[2 Nephi 8#^2ne-8-23|2 Nephi 8:23]])
 - [[Isaiah 51]] — 1 footnote cross-reference (from [[2 Nephi 8#^2ne-8-1|2 Nephi 8:1]])
-- [[Isaiah 51]] — 0 parallel verses
-- [[Isaiah 52]] — 0 parallel verses
-- [[3 Nephi 20]] — 0 parallel verses
+- [[Isaiah 51]] — 23 parallel verses, e.g. [[2 Nephi 8#^2ne-8-6|2 Nephi 8:6]] ↔ [[Isaiah 51#^isa-51-6|Isaiah 51:6]]
+- [[3 Nephi 20]] — 2 parallel verses, e.g. [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]] ↔ [[3 Nephi 20#^3ne-20-36|3 Nephi 20:36]]
+- [[Isaiah 52]] — 2 parallel verses, e.g. [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]] ↔ [[Isaiah 52#^isa-52-1|Isaiah 52:1]]
 - [[2 Nephi 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

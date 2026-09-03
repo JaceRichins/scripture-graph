@@ -46,7 +46,7 @@ cssclasses:
 > [[Alma 44#^alma-44-7|Alma 44:7]] · [[Alma 57#^alma-57-19|57:19]]
 
 ![[Alma 62#^alma-62-12]]
-> [[Helaman 1#^hel-1-1|≈ Helaman 1:1]] · [[Alma 63#^alma-63-1|≈ Alma 63:1]] · [[Helaman 11#^hel-11-30|≈ Helaman 11:30]] · [[Alma 45#^alma-45-20|≈ Alma 45:20]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]] · [[Alma 50#^alma-50-17|≈ Alma 50:17]]
+> [[Helaman 1#^hel-1-1|≈ Helaman 1:1]] · [[Alma 63#^alma-63-1|≈ Alma 63:1]] · [[Helaman 11#^hel-11-30|≈ Helaman 11:30]] · [[Alma 50#^alma-50-17|≈ Alma 50:17]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[Alma 45#^alma-45-20|≈ Alma 45:20]]
 
 ![[Alma 62#^alma-62-13]]
 
@@ -96,7 +96,7 @@ cssclasses:
 > [[Alma 50#^alma-50-15|Alma 50:15]] · [[Alma 51#^alma-51-24|51:26 (24–26)]] · [[Alma 53#^alma-53-6|≈ Alma 53:6]]
 
 ![[Alma 62#^alma-62-31]]
-> [[Alma 56#^alma-56-18|≈ Alma 56:18]] · [[Alma 52#^alma-52-24|≈ Alma 52:24]]
+> [[Alma 52#^alma-52-24|≈ Alma 52:24]] · [[Alma 56#^alma-56-18|≈ Alma 56:18]]
 
 ![[Alma 62#^alma-62-32]]
 > [[Alma 50#^alma-50-13|Alma 50:13]] · [[Alma 51#^alma-51-22|51:22 (22–23)]] · [[3 Nephi 8#^3ne-8-9|3 Ne. 8:9]] · [[Alma 43#^alma-43-41|≈ Alma 43:41]]

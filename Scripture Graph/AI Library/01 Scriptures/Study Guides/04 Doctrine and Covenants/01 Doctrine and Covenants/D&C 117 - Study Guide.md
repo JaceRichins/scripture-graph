@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 117
 slug: dc-117
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 117]] · My notes: [[D&C 117 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–9, The Lord’s servants should not covet temporal things, for “what is property unto the Lord?”; 10–16, They are to forsake littleness of soul, and their sacrifices will be sacred unto the Lord.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -41,6 +42,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 124]] — 1 footnote cross-reference (from [[D&C 117#^dc-117-1|D&C 117:1]])
+- [[Job 37]] — 1 footnote cross-reference (from [[D&C 117#^dc-117-1|D&C 117:1]])
+- [[Psalm 148]] — 1 footnote cross-reference (from [[D&C 117#^dc-117-1|D&C 117:1]])
+- [[Helaman 11]] — 1 footnote cross-reference (from [[D&C 117#^dc-117-1|D&C 117:1]])
+- [[Ether 2]] — 1 footnote cross-reference (from [[D&C 117#^dc-117-1|D&C 117:1]])
+- [[Mark 14]] — 1 footnote cross-reference (from [[D&C 117#^dc-117-4|D&C 117:4]])
 - [[D&C 124]] — 3 parallel verses, e.g. [[D&C 117#^dc-117-12|D&C 117:12]] ↔ [[D&C 124#^dc-124-59|D&C 124:59]]
 <!-- SG:END related-scriptures -->
 
@@ -63,6 +70,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
 - **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

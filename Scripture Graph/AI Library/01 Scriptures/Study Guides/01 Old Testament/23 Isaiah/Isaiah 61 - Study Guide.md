@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 61
 slug: isa-61
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Isaiah 57]] — 1 footnote cross-reference (from [[Isaiah 61#^isa-61-1|Isaiah 61:1]])
 - [[D&C 138]] — 1 parallel verse, e.g. [[Isaiah 61#^isa-61-1|Isaiah 61:1]] ↔ [[D&C 138#^dc-138-42|D&C 138:42]]
 - [[Jeremiah 32]] — 1 parallel verse, e.g. [[Isaiah 61#^isa-61-8|Isaiah 61:8]] ↔ [[Jeremiah 32#^jer-32-40|Jeremiah 32:40]]
+- [[Isaiah 62]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,7 +75,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Anointed One** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

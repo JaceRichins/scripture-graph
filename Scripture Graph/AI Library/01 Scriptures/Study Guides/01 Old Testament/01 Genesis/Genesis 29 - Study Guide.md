@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 29
 slug: gen-29
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,8 @@ _Not yet developed._
 - [[Genesis 2]] — 1 footnote cross-reference (from [[Genesis 29#^gen-29-14|Genesis 29:14]])
 - [[Genesis 38]] — 4 parallel verses, e.g. [[Genesis 29#^gen-29-33|Genesis 29:33]] ↔ [[Genesis 38#^gen-38-4|Genesis 38:4]]
 - [[Hosea 1]] — 3 parallel verses, e.g. [[Genesis 29#^gen-29-33|Genesis 29:33]] ↔ [[Hosea 1#^hosea-1-6|Hosea 1:6]]
+- [[Genesis 24]] — 0 parallel verses
+- [[Hosea 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 44
 slug: isa-44
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Isaiah 41]] — 2 footnote cross-references (from [[Isaiah 44#^isa-44-8|Isaiah 44:8]])
 - [[Isaiah 46]] — 2 footnote cross-references (from [[Isaiah 44#^isa-44-8|Isaiah 44:8]])
 - [[Jeremiah 50]] — 2 footnote cross-references (from [[Isaiah 44#^isa-44-27|Isaiah 44:27]])
+- [[Jeremiah 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -59,6 +60,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
+- [[Redemption (Elder LeGrand R. Curtis Jr., October 2011)|Redemption]] — Elder LeGrand R. Curtis Jr., 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -90,3 +92,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 13
 slug: john-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Matthew 26]] — 1 parallel verse, e.g. [[John 13#^john-13-21|John 13:21]] ↔ [[Matthew 26#^matt-26-21|Matthew 26:21]]
 - [[D&C 39]] — 1 parallel verse, e.g. [[John 13#^john-13-20|John 13:20]] ↔ [[D&C 39#^dc-39-5|D&C 39:5]]
 - [[1 John 4]] — 0 parallel verses
+- [[1 John 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

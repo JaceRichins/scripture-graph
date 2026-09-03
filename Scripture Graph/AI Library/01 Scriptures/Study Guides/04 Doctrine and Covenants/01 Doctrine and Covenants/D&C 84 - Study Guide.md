@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 84
 slug: dc-84
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,12 @@ Verse 6 begins a statement about the sons of Moses that verse 31 explicitly resu
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 45]] — 8 footnote cross-references (from [[D&C 84#^dc-84-2|D&C 84:2]])
+- [[D&C 107]] — 8 footnote cross-references (from [[D&C 84#^dc-84-14|D&C 84:14]])
+- [[Matthew 10]] — 8 footnote cross-references (from [[D&C 84#^dc-84-36|D&C 84:36]])
+- [[D&C 76]] — 6 footnote cross-references (from [[D&C 84#^dc-84-2|D&C 84:2]])
+- [[D&C 124]] — 6 footnote cross-references (from [[D&C 84#^dc-84-3|D&C 84:3]])
+- [[D&C 1]] — 6 footnote cross-references (from [[D&C 84#^dc-84-43|D&C 84:43]])
 - [[Matthew 6]] — 3 parallel verses, e.g. [[D&C 84#^dc-84-82|D&C 84:82]] ↔ [[Matthew 6#^matt-6-28|Matthew 6:28]]
 - [[3 Nephi 13]] — 3 parallel verses, e.g. [[D&C 84#^dc-84-82|D&C 84:82]] ↔ [[3 Nephi 13#^3ne-13-28|3 Nephi 13:28]]
 - [[Luke 12]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-81|D&C 84:81]] ↔ [[Luke 12#^luke-12-29|Luke 12:29]]
@@ -99,21 +105,22 @@ Faithful recipients are said to become sons of Moses and Aaron and Abraham's see
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
+- [[Your Potential, Your Privilege (President Dieter F. Uchtdorf, April 2011)|Your Potential, Your Privilege]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
 - [[That He May Become Strong Also (President Henry B. Eyring, October 2016)|That He May Become Strong Also]] — President Henry B. Eyring, 2016-October *(explicit citation)*
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 - [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
 - [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
 - [[Power in the Priesthood (Elder Neil L. Andersen, October 2013)|Power in the Priesthood]] — Elder Neil L. Andersen, 2013-October *(explicit citation)*
-- [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
-- [[The Power of Godliness (Elder Kent F. Richards, April 2016)|The Power of Godliness]] — Elder Kent F. Richards, 2016-April *(explicit citation)*
-- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
+- **15 Holy Places** (history) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
@@ -121,7 +128,6 @@ Faithful recipients are said to become sons of Moses and Aaron and Abraham's see
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
-- **Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

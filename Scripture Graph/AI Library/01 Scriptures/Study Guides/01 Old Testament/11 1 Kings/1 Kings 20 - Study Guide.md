@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 20
 slug: 1kgs-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,25 +53,26 @@ _Not yet developed._
 - [[2 Kings 5]] — 1 footnote cross-reference (from [[1 Kings 20#^1kgs-20-7|1 Kings 20:7]])
 - [[1 Kings 19]] — 1 footnote cross-reference (from [[1 Kings 20#^1kgs-20-10|1 Kings 20:10]])
 - [[Alma 56]] — 1 footnote cross-reference (from [[1 Kings 20#^1kgs-20-14|1 Kings 20:14]])
+- [[1 Kings 22]] — 5 parallel verses, e.g. [[1 Kings 20#^1kgs-20-14|1 Kings 20:14]] ↔ [[1 Kings 22#^1kgs-22-11|1 Kings 22:11]]
+- [[2 Kings 6]] — 3 parallel verses, e.g. [[1 Kings 20#^1kgs-20-1|1 Kings 20:1]] ↔ [[2 Kings 6#^2kgs-6-24|2 Kings 6:24]]
+- [[2 Kings 3]] — 2 parallel verses, e.g. [[1 Kings 20#^1kgs-20-40|1 Kings 20:40]] ↔ [[2 Kings 3#^2kgs-3-13|2 Kings 3:13]]
 - [[Ezekiel 35]] — 2 parallel verses, e.g. [[1 Kings 20#^1kgs-20-13|1 Kings 20:13]] ↔ [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]]
 - [[1 Samuel 2]] — 2 parallel verses, e.g. [[1 Kings 20#^1kgs-20-42|1 Kings 20:42]] ↔ [[1 Samuel 2#^1sam-2-27|1 Samuel 2:27]]
 - [[2 Kings 8]] — 2 parallel verses, e.g. [[1 Kings 20#^1kgs-20-1|1 Kings 20:1]] ↔ [[2 Kings 8#^2kgs-8-7|2 Kings 8:7]]
 - [[2 Chronicles 18]] — 2 parallel verses, e.g. [[1 Kings 20#^1kgs-20-40|1 Kings 20:40]] ↔ [[2 Chronicles 18#^2chr-18-7|2 Chronicles 18:7]]
-- [[1 Kings 22]] — 0 parallel verses
-- [[2 Kings 6]] — 0 parallel verses
 - [[2 Samuel 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[War and Peace]]
 - [[Prophecy]]
 - [[Covenants]]
 - [[Pride]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -94,7 +95,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ahab** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

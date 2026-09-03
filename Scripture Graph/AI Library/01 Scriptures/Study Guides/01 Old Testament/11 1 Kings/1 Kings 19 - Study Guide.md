@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 19
 slug: 1kgs-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ The chapter is a key text on [[Revelation]]: divine communication is not confine
 - [[Promptings of the Spirit (Elder Gary E. Stevenson, October 2023)|Promptings of the Spirit]] — Elder Gary E. Stevenson, 2023-October *(explicit citation)*
 - [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
 - [[Know Who You Really Are (Elder Brik V. Eyre, October 2025)|Know Who You Really Are]] — Elder Brik V. Eyre, 2025-October *(explicit citation)*
+- [[The Spirit of Revelation (Elder David A. Bednar, April 2011)|The Spirit of Revelation]] — Elder David A. Bednar, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -89,6 +90,7 @@ The chapter is a key text on [[Revelation]]: divine communication is not confine
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Suicide** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 31
 slug: ezek-31
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,8 @@ _Not yet developed._
 - [[Ezekiel 32]] — 10 parallel verses, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
 - [[Ezekiel 26]] — 3 parallel verses, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]]
 - [[Ezekiel 30]] — 1 parallel verse, e.g. [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]] ↔ [[Ezekiel 30#^ezek-30-20|Ezekiel 30:20]]
+- [[Ezekiel 17]] — 0 parallel verses
+- [[Ezekiel 32]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

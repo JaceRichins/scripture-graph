@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 65
 slug: isa-65
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,10 +44,12 @@ _Not yet developed._
 - [[Isaiah 63]] — 1 footnote cross-reference (from [[Isaiah 65#^isa-65-1|Isaiah 65:1]])
 - [[2 Nephi 1]] — 1 footnote cross-reference (from [[Isaiah 65#^isa-65-2|Isaiah 65:2]])
 - [[Exodus 20]] — 1 footnote cross-reference (from [[Isaiah 65#^isa-65-3|Isaiah 65:3]])
-- [[Isaiah 11]] — 2 parallel verses, e.g. [[Isaiah 65#^isa-65-25|Isaiah 65:25]] ↔ [[Isaiah 11#^isa-11-9|Isaiah 11:9]]
 - [[2 Nephi 21]] — 2 parallel verses, e.g. [[Isaiah 65#^isa-65-25|Isaiah 65:25]] ↔ [[2 Nephi 21#^2ne-21-9|2 Nephi 21:9]]
+- [[Isaiah 11]] — 2 parallel verses, e.g. [[Isaiah 65#^isa-65-25|Isaiah 65:25]] ↔ [[Isaiah 11#^isa-11-9|Isaiah 11:9]]
 - [[2 Nephi 30]] — 2 parallel verses, e.g. [[Isaiah 65#^isa-65-25|Isaiah 65:25]] ↔ [[2 Nephi 30#^2ne-30-15|2 Nephi 30:15]]
 - [[Amos 9]] — 1 parallel verse, e.g. [[Isaiah 65#^isa-65-21|Isaiah 65:21]] ↔ [[Amos 9#^amos-9-14|Amos 9:14]]
+- [[D&C 101]] — 0 parallel verses
+- [[2 Peter 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

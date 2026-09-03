@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 34
 slug: ezek-34
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ _Not yet developed._
 - [[To the Rescue We Can Do It (Elder Mervyn B. Arnold, April 2016)|To the Rescue: We Can Do It]] — Elder Mervyn B. Arnold, 2016-April *(explicit citation)*
 - [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
+- [[Missionaries Are a Treasure of the Church (Elder Kazuhiko Yamashita, October 2011)|Missionaries Are a Treasure of the Church]] — Elder Kazuhiko Yamashita, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

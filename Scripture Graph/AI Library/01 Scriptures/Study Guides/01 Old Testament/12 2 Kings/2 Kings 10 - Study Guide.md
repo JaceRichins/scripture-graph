@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 10
 slug: 2kgs-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,23 +52,24 @@ The chapter presents Jehu as an agent of announced judgment and a selective refo
 - [[2 Kings 13]] — 2 footnote cross-references (from [[2 Kings 10#^2kgs-10-29|2 Kings 10:29]])
 - [[2 Kings 15]] — 2 footnote cross-references (from [[2 Kings 10#^2kgs-10-29|2 Kings 10:29]])
 - [[1 Samuel 3]] — 1 footnote cross-reference (from [[2 Kings 10#^2kgs-10-10|2 Kings 10:10]])
+- [[2 Kings 15]] — 17 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 15#^2kgs-15-21|2 Kings 15:21]]
 - [[1 Kings 16]] — 5 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 16#^1kgs-16-5|1 Kings 16:5]]
+- [[2 Kings 13]] — 5 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 13#^2kgs-13-8|2 Kings 13:8]]
 - [[1 Kings 15]] — 5 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 15#^1kgs-15-31|1 Kings 15:31]]
 - [[2 Kings 14]] — 4 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 14#^2kgs-14-28|2 Kings 14:28]]
 - [[1 Kings 22]] — 3 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 22#^1kgs-22-39|1 Kings 22:39]]
 - [[Joshua 10]] — 6 parallel verses, e.g. [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]] ↔ [[Joshua 10#^josh-10-39|Joshua 10:39]]
 - [[2 Kings 21]] — 2 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 21#^2kgs-21-17|2 Kings 21:17]]
+- [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]]
 - [[1 Kings 14]] — 2 parallel verses, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
 - [[2 Kings 24]] — 1 parallel verse, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]]
 - [[2 Kings 1]] — 1 parallel verse, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 1#^2kgs-1-18|2 Kings 1:18]]
-- [[2 Kings 8]] — 1 parallel verse, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
-- [[2 Kings 12]] — 1 parallel verse, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]]
-- [[2 Kings 16]] — 1 parallel verse, e.g. [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]] ↔ [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
@@ -88,7 +89,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ahaziah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

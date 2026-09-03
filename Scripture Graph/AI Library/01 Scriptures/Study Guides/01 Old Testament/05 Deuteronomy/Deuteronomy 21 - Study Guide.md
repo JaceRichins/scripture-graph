@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 21
 slug: deut-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

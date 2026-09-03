@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 27
 slug: gen-27
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

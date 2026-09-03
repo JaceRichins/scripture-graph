@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 7
 slug: hosea-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

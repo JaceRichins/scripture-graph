@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 36
 slug: jer-36
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,16 +48,17 @@ _Not yet developed._
 - [[Jeremiah 1]] — 1 footnote cross-reference (from [[Jeremiah 36#^jer-36-2|Jeremiah 36:2]])
 - [[Jeremiah 25]] — 1 footnote cross-reference (from [[Jeremiah 36#^jer-36-2|Jeremiah 36:2]])
 - [[Jeremiah 45]] — 1 footnote cross-reference (from [[Jeremiah 36#^jer-36-4|Jeremiah 36:4]])
+- [[Jeremiah 26]] — 4 parallel verses, e.g. [[Jeremiah 36#^jer-36-3|Jeremiah 36:3]] ↔ [[Jeremiah 26#^jer-26-3|Jeremiah 26:3]]
+- [[Jeremiah 35]] — 3 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 35#^jer-35-1|Jeremiah 35:1]]
 - [[Jeremiah 25]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]]
 - [[Jeremiah 45]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 45#^jer-45-1|Jeremiah 45:1]]
 - [[Jeremiah 46]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 46#^jer-46-2|Jeremiah 46:2]]
+- [[Jeremiah 22]] — 4 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 22#^jer-22-18|Jeremiah 22:18]]
 - [[Jeremiah 27]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]]
 - [[Jeremiah 1]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]] ↔ [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]]
 - [[Jeremiah 37]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-4|Jeremiah 36:4]] ↔ [[Jeremiah 37#^jer-37-2|Jeremiah 37:2]]
 - [[Jeremiah 28]] — 2 parallel verses, e.g. [[Jeremiah 36#^jer-36-10|Jeremiah 36:10]] ↔ [[Jeremiah 28#^jer-28-7|Jeremiah 28:7]]
 - [[Jeremiah 30]] — 1 parallel verse, e.g. [[Jeremiah 36#^jer-36-2|Jeremiah 36:2]] ↔ [[Jeremiah 30#^jer-30-2|Jeremiah 30:2]]
-- [[Jeremiah 22]] — 0 parallel verses
-- [[Jeremiah 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +79,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

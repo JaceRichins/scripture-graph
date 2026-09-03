@@ -17,13 +17,13 @@ cssclasses:
 > The Saints are foreordained to receive the gospel—The gospel is to be restored in the latter days—The Saints are sealed by the Holy Spirit of Promise—They know God and Christ by revelation.
 
 ![[Ephesians 1#^eph-1-1]]
-> [[2 Corinthians 1#^2cor-1-1|≈ 2 Corinthians 1:1]] · [[Colossians 1#^col-1-1|≈ Colossians 1:1]] · [[2 Timothy 1#^2tim-1-1|≈ 2 Timothy 1:1]] · [[1 Timothy 1#^1tim-1-1|≈ 1 Timothy 1:1]]
+> [[2 Corinthians 1#^2cor-1-1|≈ 2 Corinthians 1:1]] · [[2 Timothy 1#^2tim-1-1|≈ 2 Timothy 1:1]] · [[Colossians 1#^col-1-1|≈ Colossians 1:1]] · [[1 Timothy 1#^1tim-1-1|≈ 1 Timothy 1:1]]
 
 ![[Ephesians 1#^eph-1-2]]
 > [[Romans 1#^rom-1-7|≈ Romans 1:7]] · [[Philemon 1#^philem-1-3|≈ Philemon 1:3]] · [[Philippians 1#^philip-1-2|≈ Philippians 1:2]] · [[2 Corinthians 1#^2cor-1-2|≈ 2 Corinthians 1:2]] · [[Colossians 1#^col-1-2|≈ Colossians 1:2]] · [[1 Corinthians 1#^1cor-1-3|≈ 1 Corinthians 1:3]]
 
 ![[Ephesians 1#^eph-1-3]]
-> [[2 Corinthians 11#^2cor-11-31|≈ 2 Corinthians 11:31]] · [[1 Peter 1#^1pet-1-3|≈ 1 Peter 1:3]]
+> [[1 Peter 1#^1pet-1-3|≈ 1 Peter 1:3]] · [[2 Corinthians 11#^2cor-11-31|≈ 2 Corinthians 11:31]]
 
 ![[Ephesians 1#^eph-1-4]]
 

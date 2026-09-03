@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 133
 slug: dc-133
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,29 +59,35 @@ The movement is therefore both outward and judicial: the summons broadens from t
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 10 footnote cross-references (from [[D&C 133#^dc-133-17|D&C 133:17]])
+- [[D&C 1]] — 7 footnote cross-references (from [[D&C 133#^dc-133-2|D&C 133:2]])
+- [[D&C 45]] — 7 footnote cross-references (from [[D&C 133#^dc-133-10|D&C 133:10]])
+- [[Revelation 14]] — 6 footnote cross-references (from [[D&C 133#^dc-133-17|D&C 133:17]])
+- [[Isaiah 63]] — 6 footnote cross-references (from [[D&C 133#^dc-133-46|D&C 133:46]])
+- [[Isaiah 52]] — 4 footnote cross-references (from [[D&C 133#^dc-133-3|D&C 133:3]])
+- [[Revelation 14]] — 6 parallel verses, e.g. [[D&C 133#^dc-133-38|D&C 133:38]] ↔ [[Revelation 14#^rev-14-7|Revelation 14:7]]
 - [[Malachi 4]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-64|D&C 133:64]] ↔ [[Malachi 4#^mal-4-1|Malachi 4:1]]
 - [[3 Nephi 25]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-64|D&C 133:64]] ↔ [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]]
+- [[Isaiah 63]] — 5 parallel verses, e.g. [[D&C 133#^dc-133-53|D&C 133:53]] ↔ [[Isaiah 63#^isa-63-9|Isaiah 63:9]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 133#^dc-133-64|D&C 133:64]] ↔ [[Joseph Smith—History 1#^jsh-1-37|Joseph Smith—History 1:37]]
 - [[3 Nephi 20]] — 3 parallel verses, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]
+- [[Isaiah 52]] — 2 parallel verses, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[Isaiah 52#^isa-52-10|Isaiah 52:10]]
+- [[Isaiah 64]] — 3 parallel verses, e.g. [[D&C 133#^dc-133-45|D&C 133:45]] ↔ [[Isaiah 64#^isa-64-4|Isaiah 64:4]]
+- [[Isaiah 50]] — 3 parallel verses, e.g. [[D&C 133#^dc-133-68|D&C 133:68]] ↔ [[Isaiah 50#^isa-50-2|Isaiah 50:2]]
 - [[Mosiah 12]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[Mosiah 12#^mosiah-12-24|Mosiah 12:24]]
 - [[Mosiah 15]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]
 - [[D&C 88]] — 3 parallel verses, e.g. [[D&C 133#^dc-133-10|D&C 133:10]] ↔ [[D&C 88#^dc-88-92|D&C 88:92]]
-- [[3 Nephi 16]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]]
-- [[2 Nephi 7]] — 3 parallel verses, e.g. [[D&C 133#^dc-133-68|D&C 133:68]] ↔ [[2 Nephi 7#^2ne-7-2|2 Nephi 7:2]]
-- [[D&C 45]] — 4 parallel verses, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[D&C 45#^dc-45-49|D&C 45:49]]
-- [[D&C 1]] — 3 parallel verses, e.g. [[D&C 133#^dc-133-1|D&C 133:1]] ↔ [[D&C 1#^dc-1-1|D&C 1:1]]
-- [[D&C 101]] — 2 parallel verses, e.g. [[D&C 133#^dc-133-73|D&C 133:73]] ↔ [[D&C 101#^dc-101-91|D&C 101:91]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Second Coming of Jesus Christ]]
-- [[Final Judgment]]
 - [[Jews and Gentiles]]
 - [[Zion]] *(keyword match — unconfirmed)*
 - [[Revelation]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Kingdom of God]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

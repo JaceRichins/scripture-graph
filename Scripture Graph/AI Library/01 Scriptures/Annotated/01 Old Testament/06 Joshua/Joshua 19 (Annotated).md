@@ -17,7 +17,7 @@ cssclasses:
 > Simeon, Zebulun, Issachar, Asher, Naphtali, and Dan receive their inheritances by lot.
 
 ![[Joshua 19#^josh-19-1]]
-> [[Joshua 21#^josh-21-9|≈ Joshua 21:9]] · [[Numbers 34#^num-34-20|≈ Numbers 34:20]] · [[Numbers 34#^num-34-14|≈ Numbers 34:14]] · [[Numbers 34#^num-34-23|≈ Numbers 34:23]] · [[Numbers 10#^num-10-19|≈ Numbers 10:19]] · [[1 Chronicles 6#^1chr-6-65|≈ 1 Chronicles 6:65]]
+> [[Joshua 21#^josh-21-9|≈ Joshua 21:9]] · [[Numbers 34#^num-34-20|≈ Numbers 34:20]] · [[Numbers 34#^num-34-14|≈ Numbers 34:14]] · [[Numbers 34#^num-34-23|≈ Numbers 34:23]] · [[Numbers 10#^num-10-19|≈ Numbers 10:19]] · [[Joshua 15#^josh-15-1|≈ Joshua 15:1]]
 
 ![[Joshua 19#^josh-19-2]]
 
@@ -120,7 +120,7 @@ cssclasses:
 ![[Joshua 19#^josh-19-46]]
 
 ![[Joshua 19#^josh-19-47]]
-> [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Judges 18#^judg-18-29|≈ Judges 18:29]] · [[Judges 18#^judg-18-27|≈ Judges 18:27]] · [[Joshua 10#^josh-10-37|≈ Joshua 10:37]] · [[Joshua 10#^josh-10-28|≈ Joshua 10:28]] · [[Joshua 10#^josh-10-32|≈ Joshua 10:32]]
+> [[Judges 18#^judg-18-29|≈ Judges 18:29]] · [[Judges 18#^judg-18-27|≈ Judges 18:27]] · [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 10#^josh-10-37|≈ Joshua 10:37]] · [[Joshua 10#^josh-10-28|≈ Joshua 10:28]] · [[Joshua 10#^josh-10-32|≈ Joshua 10:32]]
 
 ![[Joshua 19#^josh-19-48]]
 > [[Joshua 21#^josh-21-9|≈ Joshua 21:9]] · [[Numbers 34#^num-34-22|≈ Numbers 34:22]] · [[Numbers 34#^num-34-20|≈ Numbers 34:20]] · [[Numbers 34#^num-34-24|≈ Numbers 34:24]] · [[Numbers 34#^num-34-25|≈ Numbers 34:25]] · [[Numbers 34#^num-34-26|≈ Numbers 34:26]]

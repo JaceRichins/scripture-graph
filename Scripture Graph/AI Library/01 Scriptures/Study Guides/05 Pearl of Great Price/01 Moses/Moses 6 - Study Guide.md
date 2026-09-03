@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 6
 slug: moses-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,18 +54,24 @@ The structure makes the closing ordinance narrative the practical fulfillment of
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Moses 7]] — 9 footnote cross-references (from [[Moses 6#^moses-6-21|Moses 6:21]])
+- [[Moses 5]] — 7 footnote cross-references (from [[Moses 6#^moses-6-4|Moses 6:4]])
+- [[Genesis 5]] — 5 footnote cross-references (from [[Moses 6#^moses-6-8|Moses 6:8]])
+- [[D&C 107]] — 4 footnote cross-references (from [[Moses 6#^moses-6-10|Moses 6:10]])
+- [[Moses 8]] — 4 footnote cross-references (from [[Moses 6#^moses-6-15|Moses 6:15]])
+- [[Genesis 4]] — 3 footnote cross-references (from [[Moses 6#^moses-6-2|Moses 6:2]])
 - [[Genesis 5]] — 20 parallel verses, e.g. [[Moses 6#^moses-6-9|Moses 6:9]] ↔ [[Genesis 5#^gen-5-2|Genesis 5:2]]
 - [[Genesis 4]] — 4 parallel verses, e.g. [[Moses 6#^moses-6-2|Moses 6:2]] ↔ [[Genesis 4#^gen-4-25|Genesis 4:25]]
 - [[Moses 1]] — 4 parallel verses, e.g. [[Moses 6#^moses-6-52|Moses 6:52]] ↔ [[Moses 1#^moses-1-32|Moses 1:32]]
 - [[Ether 10]] — 4 parallel verses, e.g. [[Moses 6#^moses-6-19|Moses 6:19]] ↔ [[Ether 10#^ether-10-29|Ether 10:29]]
 - [[Genesis 11]] — 3 parallel verses, e.g. [[Moses 6#^moses-6-20|Moses 6:20]] ↔ [[Genesis 11#^gen-11-17|Genesis 11:17]]
+- [[Moses 7]] — 3 parallel verses, e.g. [[Moses 6#^moses-6-27|Moses 6:27]] ↔ [[Moses 7#^moses-7-10|Moses 7:10]]
 - [[2 Samuel 12]] — 2 parallel verses, e.g. [[Moses 6#^moses-6-2|Moses 6:2]] ↔ [[2 Samuel 12#^2sam-12-24|2 Samuel 12:24]]
 - [[Alma 13]] — 2 parallel verses, e.g. [[Moses 6#^moses-6-67|Moses 6:67]] ↔ [[Alma 13#^alma-13-7|Alma 13:7]]
 - [[Genesis 38]] — 2 parallel verses, e.g. [[Moses 6#^moses-6-2|Moses 6:2]] ↔ [[Genesis 38#^gen-38-3|Genesis 38:3]]
 - [[1 Chronicles 7]] — 2 parallel verses, e.g. [[Moses 6#^moses-6-2|Moses 6:2]] ↔ [[1 Chronicles 7#^1chr-7-23|1 Chronicles 7:23]]
 - [[D&C 59]] — 1 parallel verse, e.g. [[Moses 6#^moses-6-59|Moses 6:59]] ↔ [[D&C 59#^dc-59-23|D&C 59:23]]
 - [[3 Nephi 11]] — 2 parallel verses, e.g. [[Moses 6#^moses-6-57|Moses 6:57]] ↔ [[3 Nephi 11#^3ne-11-38|3 Nephi 11:38]]
-- [[Exodus 2]] — 2 parallel verses, e.g. [[Moses 6#^moses-6-2|Moses 6:2]] ↔ [[Exodus 2#^ex-2-22|Exodus 2:22]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -112,9 +118,9 @@ The passage calls this teaching the [[Plan of Salvation]] and grounds it in the 
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
+- **Adam** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
-- **Plan of Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

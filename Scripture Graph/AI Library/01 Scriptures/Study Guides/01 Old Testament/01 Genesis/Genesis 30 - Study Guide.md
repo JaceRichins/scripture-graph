@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 30
 slug: gen-30
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
+- **Asher** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

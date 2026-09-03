@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 20
 slug: rev-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,8 @@ _Not yet developed._
 - [[Isaiah 27]] — 1 footnote cross-reference (from [[Revelation 20#^rev-20-2|Revelation 20:2]])
 - [[D&C 84]] — 1 footnote cross-reference (from [[Revelation 20#^rev-20-2|Revelation 20:2]])
 - [[D&C 128]] — 2 parallel verses, e.g. [[Revelation 20#^rev-20-12|Revelation 20:12]] ↔ [[D&C 128#^dc-128-6|D&C 128:6]]
+- [[D&C 88]] — 0 parallel verses
+- [[Ezekiel 38]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,6 +77,8 @@ _Not yet developed._
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Judging Others** (reference-entry) *(explicit citation)*
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1840-05-01 (Vol. 1 No. 7)** (periodical, 1840-05-01) *(explicit citation)*
+- **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 10
 slug: zech-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,9 +54,9 @@ The chapter moves in four movements:
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Scattering of Israel]]
 - [[Pride]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Prophecy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

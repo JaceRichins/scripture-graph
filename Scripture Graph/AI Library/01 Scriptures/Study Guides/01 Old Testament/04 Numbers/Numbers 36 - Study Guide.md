@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 36
 slug: num-36
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,8 +51,8 @@ _Not yet developed._
 - [[Numbers 33]] — 2 parallel verses, e.g. [[Numbers 36#^num-36-13|Numbers 36:13]] ↔ [[Numbers 33#^num-33-48|Numbers 33:48]]
 - [[Leviticus 8]] — 2 parallel verses, e.g. [[Numbers 36#^num-36-13|Numbers 36:13]] ↔ [[Leviticus 8#^lev-8-36|Leviticus 8:36]]
 - [[Joshua 14]] — 2 parallel verses, e.g. [[Numbers 36#^num-36-13|Numbers 36:13]] ↔ [[Joshua 14#^josh-14-2|Joshua 14:2]]
-- [[Exodus 16]] — 2 parallel verses, e.g. [[Numbers 36#^num-36-6|Numbers 36:6]] ↔ [[Exodus 16#^ex-16-16|Exodus 16:16]]
 - [[Joshua 17]] — 1 parallel verse, e.g. [[Numbers 36#^num-36-1|Numbers 36:1]] ↔ [[Joshua 17#^josh-17-3|Joshua 17:3]]
+- [[Exodus 16]] — 2 parallel verses, e.g. [[Numbers 36#^num-36-6|Numbers 36:6]] ↔ [[Exodus 16#^ex-16-16|Exodus 16:16]]
 - [[1 Chronicles 7]] — 1 parallel verse, e.g. [[Numbers 36#^num-36-1|Numbers 36:1]] ↔ [[1 Chronicles 7#^1chr-7-17|1 Chronicles 7:17]]
 - [[Joshua 4]] — 2 parallel verses, e.g. [[Numbers 36#^num-36-9|Numbers 36:9]] ↔ [[Joshua 4#^josh-4-5|Joshua 4:5]]
 - [[Numbers 35]] — 1 parallel verse, e.g. [[Numbers 36#^num-36-13|Numbers 36:13]] ↔ [[Numbers 35#^num-35-1|Numbers 35:1]]

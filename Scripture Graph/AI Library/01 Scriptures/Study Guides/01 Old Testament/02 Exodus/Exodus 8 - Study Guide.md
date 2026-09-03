@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 8
 slug: ex-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,15 +51,15 @@ The first and third episodes closely correspond, while the compact middle episod
 - [[2 Samuel 7]] — 1 footnote cross-reference (from [[Exodus 8#^ex-8-10|Exodus 8:10]])
 - [[Isaiah 46]] — 1 footnote cross-reference (from [[Exodus 8#^ex-8-10|Exodus 8:10]])
 - [[Jeremiah 10]] — 1 footnote cross-reference (from [[Exodus 8#^ex-8-10|Exodus 8:10]])
+- [[Exodus 9]] — 10 parallel verses, e.g. [[Exodus 8#^ex-8-20|Exodus 8:20]] ↔ [[Exodus 9#^ex-9-13|Exodus 9:13]]
 - [[Exodus 7]] — 8 parallel verses, e.g. [[Exodus 8#^ex-8-19|Exodus 8:19]] ↔ [[Exodus 7#^ex-7-13|Exodus 7:13]]
 - [[Exodus 10]] — 5 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[Exodus 10#^ex-10-3|Exodus 10:3]]
 - [[Ezekiel 28]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[Ezekiel 28#^ezek-28-12|Ezekiel 28:12]]
 - [[2 Kings 1]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[2 Kings 1#^2kgs-1-6|2 Kings 1:6]]
+- [[Exodus 5]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[Exodus 5#^ex-5-1|Exodus 5:1]]
 - [[Exodus 12]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-13|Exodus 8:13]] ↔ [[Exodus 12#^ex-12-35|Exodus 12:35]]
 - [[Exodus 32]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-13|Exodus 8:13]] ↔ [[Exodus 32#^ex-32-28|Exodus 32:28]]
 - [[2 Chronicles 34]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[2 Chronicles 34#^2chr-34-26|2 Chronicles 34:26]]
-- [[Exodus 5]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[Exodus 5#^ex-5-1|Exodus 5:1]]
-- [[Exodus 9]] — 0 parallel verses
 - [[Exodus 7]] — 0 parallel verses
 - [[Exodus 10]] — 0 parallel verses
 - [[Exodus 9]] — 0 parallel verses
@@ -88,7 +88,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

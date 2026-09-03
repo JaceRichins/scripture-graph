@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 72
 slug: dc-72
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 72]] · My notes: [[D&C 72 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–8, Elders are to render an account of their stewardship unto the bishop; 9–15, The bishop keeps the storehouse and cares for the poor and needy; 16–26, Bishops are to certify the worthiness of elders.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 42]] — 5 footnote cross-references (from [[D&C 72#^dc-72-3|D&C 72:3]])
+- [[D&C 58]] — 5 footnote cross-references (from [[D&C 72#^dc-72-6|D&C 72:6]])
+- [[D&C 70]] — 4 footnote cross-references (from [[D&C 72#^dc-72-3|D&C 72:3]])
+- [[D&C 68]] — 2 footnote cross-references (from [[D&C 72#^dc-72-1|D&C 72:1]])
+- [[D&C 51]] — 2 footnote cross-references (from [[D&C 72#^dc-72-3|D&C 72:3]])
+- [[D&C 41]] — 2 footnote cross-references (from [[D&C 72#^dc-72-6|D&C 72:6]])
 - [[D&C 63]] — 4 parallel verses, e.g. [[D&C 72#^dc-72-8|D&C 72:8]] ↔ [[D&C 63#^dc-63-24|D&C 63:24]]
 - [[D&C 90]] — 3 parallel verses, e.g. [[D&C 72#^dc-72-21|D&C 72:21]] ↔ [[D&C 90#^dc-90-9|D&C 90:9]]
 - [[D&C 73]] — 1 parallel verse, e.g. [[D&C 72#^dc-72-2|D&C 72:2]] ↔ [[D&C 73#^dc-73-1|D&C 73:1]]
@@ -60,12 +67,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[A Time to Prepare (Elder Ian S. Ardern, October 2011)|A Time to Prepare]] — Elder Ian S. Ardern, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **14 Visions and Nightmares** (history) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
 - **Bishop** (reference-entry) *(explicit citation)*
 - **Stewardship** (reference-entry) *(explicit citation)*

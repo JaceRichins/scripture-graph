@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 2
 slug: zech-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,10 +56,10 @@ _Not yet developed._
 - [[Ezekiel 17]] — 1 footnote cross-reference (from [[Zechariah 2#^zech-2-6|Zechariah 2:6]])
 - [[1 Nephi 10]] — 1 footnote cross-reference (from [[Zechariah 2#^zech-2-6|Zechariah 2:6]])
 - [[1 Nephi 22]] — 1 footnote cross-reference (from [[Zechariah 2#^zech-2-6|Zechariah 2:6]])
+- [[Zechariah 6]] — 2 parallel verses, e.g. [[Zechariah 2#^zech-2-9|Zechariah 2:9]] ↔ [[Zechariah 6#^zech-6-15|Zechariah 6:15]]
+- [[Zechariah 4]] — 2 parallel verses, e.g. [[Zechariah 2#^zech-2-11|Zechariah 2:11]] ↔ [[Zechariah 4#^zech-4-9|Zechariah 4:9]]
 - [[Ezekiel 43]] — 4 parallel verses, e.g. [[Zechariah 2#^zech-2-10|Zechariah 2:10]] ↔ [[Ezekiel 43#^ezek-43-9|Ezekiel 43:9]]
 - [[Zechariah 5]] — 1 parallel verse, e.g. [[Zechariah 2#^zech-2-3|Zechariah 2:3]] ↔ [[Zechariah 5#^zech-5-5|Zechariah 5:5]]
-- [[Zechariah 6]] — 0 parallel verses
-- [[Zechariah 4]] — 0 parallel verses
 - [[Ezekiel 43]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

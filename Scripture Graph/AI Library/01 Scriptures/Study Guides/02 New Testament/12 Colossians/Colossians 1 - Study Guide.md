@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 1
 slug: col-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[2 Timothy 1]] — 1 parallel verse, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]]
 - [[1 Corinthians 1]] — 1 parallel verse, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
 - [[1 Timothy 1]] — 2 parallel verses, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]]
+- [[2 Corinthians 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,6 +86,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Creation** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

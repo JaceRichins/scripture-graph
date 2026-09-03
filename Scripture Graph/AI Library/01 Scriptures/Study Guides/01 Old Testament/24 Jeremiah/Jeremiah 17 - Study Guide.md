@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 17
 slug: jer-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Amos 2]] — 2 parallel verses, e.g. [[Jeremiah 17#^jer-17-27|Jeremiah 17:27]] ↔ [[Amos 2#^amos-2-5|Amos 2:5]]
 - [[2 Chronicles 34]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-25|Jeremiah 17:25]] ↔ [[2 Chronicles 34#^2chr-34-30|2 Chronicles 34:30]]
 - [[Jeremiah 35]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-25|Jeremiah 17:25]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
+- [[2 Nephi 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

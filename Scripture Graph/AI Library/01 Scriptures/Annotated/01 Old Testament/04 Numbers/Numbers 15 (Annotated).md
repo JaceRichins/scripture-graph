@@ -19,7 +19,7 @@ cssclasses:
 ![[Numbers 15#^num-15-1]]
 
 ![[Numbers 15#^num-15-2]]
-> [[Numbers 5#^num-5-12|≈ Numbers 5:12]] · [[Numbers 6#^num-6-2|≈ Numbers 6:2]] · [[Numbers 33#^num-33-51|≈ Numbers 33:51]] · [[Numbers 35#^num-35-10|≈ Numbers 35:10]] · [[Numbers 28#^num-28-2|≈ Numbers 28:2]] · [[Numbers 34#^num-34-2|≈ Numbers 34:2]]
+> [[Numbers 28#^num-28-2|≈ Numbers 28:2]] · [[Numbers 5#^num-5-12|≈ Numbers 5:12]] · [[Numbers 6#^num-6-2|≈ Numbers 6:2]] · [[Numbers 33#^num-33-51|≈ Numbers 33:51]] · [[Numbers 35#^num-35-10|≈ Numbers 35:10]] · [[Numbers 34#^num-34-2|≈ Numbers 34:2]]
 
 ![[Numbers 15#^num-15-3]]
 > [[Leviticus 23#^lev-23-37|≈ Leviticus 23:37]] · [[Leviticus 27#^lev-27-32|≈ Leviticus 27:32]]
@@ -61,7 +61,7 @@ cssclasses:
 ![[Numbers 15#^num-15-17]]
 
 ![[Numbers 15#^num-15-18]]
-> [[Numbers 5#^num-5-12|≈ Numbers 5:12]] · [[Numbers 6#^num-6-2|≈ Numbers 6:2]] · [[Numbers 33#^num-33-51|≈ Numbers 33:51]] · [[Numbers 35#^num-35-10|≈ Numbers 35:10]] · [[Numbers 28#^num-28-2|≈ Numbers 28:2]] · [[Numbers 34#^num-34-2|≈ Numbers 34:2]]
+> [[Numbers 28#^num-28-2|≈ Numbers 28:2]] · [[Numbers 5#^num-5-12|≈ Numbers 5:12]] · [[Numbers 6#^num-6-2|≈ Numbers 6:2]] · [[Numbers 33#^num-33-51|≈ Numbers 33:51]] · [[Numbers 35#^num-35-10|≈ Numbers 35:10]] · [[Numbers 34#^num-34-2|≈ Numbers 34:2]]
 
 ![[Numbers 15#^num-15-19]]
 > [[Numbers 18#^num-18-26|≈ Numbers 18:26]]
@@ -76,25 +76,25 @@ cssclasses:
 ![[Numbers 15#^num-15-23]]
 
 ![[Numbers 15#^num-15-24]]
-> [[Numbers 6#^num-6-17|≈ Numbers 6:17]] · [[Numbers 28#^num-28-15|≈ Numbers 28:15]] · [[Numbers 28#^num-28-27|≈ Numbers 28:27]] · [[Numbers 28#^num-28-24|≈ Numbers 28:24]] · [[Numbers 29#^num-29-16|≈ Numbers 29:16]] · [[Numbers 29#^num-29-25|≈ Numbers 29:25]]
+> [[Numbers 28#^num-28-15|≈ Numbers 28:15]] · [[Numbers 28#^num-28-27|≈ Numbers 28:27]] · [[Numbers 28#^num-28-24|≈ Numbers 28:24]] · [[Numbers 29#^num-29-16|≈ Numbers 29:16]] · [[Numbers 29#^num-29-25|≈ Numbers 29:25]] · [[Numbers 29#^num-29-2|≈ Numbers 29:2]]
 
 ![[Numbers 15#^num-15-25]]
-> [[Leviticus 1#^lev-1-4|Lev. 1:4]] · [[Leviticus 4#^lev-4-20|4:20 (20–26)]] · [[2 Chronicles 29#^2chr-29-23|2 Chr. 29:24 (23–24)]] · [[Numbers 8#^num-8-20|≈ Numbers 8:20]] · [[Numbers 16#^num-16-41|≈ Numbers 16:41]] · [[Numbers 25#^num-25-6|≈ Numbers 25:6]] · [[Numbers 26#^num-26-2|≈ Numbers 26:2]] · [[Numbers 27#^num-27-20|≈ Numbers 27:20]] · [[Numbers 28#^num-28-6|≈ Numbers 28:6]]
+> [[Leviticus 1#^lev-1-4|Lev. 1:4]] · [[Leviticus 4#^lev-4-20|4:20 (20–26)]] · [[2 Chronicles 29#^2chr-29-23|2 Chr. 29:24 (23–24)]] · [[Numbers 28#^num-28-6|≈ Numbers 28:6]] · [[Numbers 28#^num-28-13|≈ Numbers 28:13]] · [[Numbers 29#^num-29-6|≈ Numbers 29:6]] · [[Numbers 8#^num-8-20|≈ Numbers 8:20]] · [[Numbers 16#^num-16-41|≈ Numbers 16:41]] · [[Numbers 25#^num-25-6|≈ Numbers 25:6]]
 
 ![[Numbers 15#^num-15-26]]
-> [[Numbers 8#^num-8-20|≈ Numbers 8:20]] · [[Numbers 16#^num-16-41|≈ Numbers 16:41]] · [[Numbers 25#^num-25-6|≈ Numbers 25:6]] · [[Numbers 26#^num-26-2|≈ Numbers 26:2]] · [[Numbers 27#^num-27-20|≈ Numbers 27:20]] · [[Leviticus 19#^lev-19-2|≈ Leviticus 19:2]]
+> [[Numbers 8#^num-8-20|≈ Numbers 8:20]] · [[Numbers 16#^num-16-41|≈ Numbers 16:41]] · [[Numbers 25#^num-25-6|≈ Numbers 25:6]] · [[Numbers 26#^num-26-2|≈ Numbers 26:2]] · [[Numbers 27#^num-27-20|≈ Numbers 27:20]] · [[Exodus 35#^ex-35-1|≈ Exodus 35:1]]
 
 ![[Numbers 15#^num-15-27]]
 > [[Mosiah 3#^mosiah-3-11|Mosiah 3:11]] · [[3 Nephi 6#^3ne-6-18|3 Ne. 6:18]]
 
 ![[Numbers 15#^num-15-28]]
-> [[Numbers 8#^num-8-12|≈ Numbers 8:12]] · [[Leviticus 19#^lev-19-22|≈ Leviticus 19:22]] · [[Leviticus 15#^lev-15-15|≈ Leviticus 15:15]] · [[Leviticus 15#^lev-15-30|≈ Leviticus 15:30]] · [[Leviticus 4#^lev-4-31|≈ Leviticus 4:31]] · [[Leviticus 4#^lev-4-26|≈ Leviticus 4:26]]
+> [[Numbers 8#^num-8-12|≈ Numbers 8:12]] · [[Leviticus 5#^lev-5-10|≈ Leviticus 5:10]] · [[Leviticus 5#^lev-5-13|≈ Leviticus 5:13]] · [[Leviticus 5#^lev-5-16|≈ Leviticus 5:16]] · [[Leviticus 5#^lev-5-18|≈ Leviticus 5:18]] · [[Leviticus 5#^lev-5-6|≈ Leviticus 5:6]]
 
 ![[Numbers 15#^num-15-29]]
 > [[Numbers 35#^num-35-15|≈ Numbers 35:15]] · [[Joshua 20#^josh-20-9|≈ Joshua 20:9]]
 
 ![[Numbers 15#^num-15-30]]
-> [[Numbers 19#^num-19-13|≈ Numbers 19:13]] · [[Numbers 19#^num-19-20|≈ Numbers 19:20]] · [[Numbers 9#^num-9-13|≈ Numbers 9:13]] · [[Exodus 12#^ex-12-15|≈ Exodus 12:15]] · [[Exodus 12#^ex-12-19|≈ Exodus 12:19]] · [[Exodus 31#^ex-31-14|≈ Exodus 31:14]]
+> [[Numbers 19#^num-19-13|≈ Numbers 19:13]] · [[Numbers 19#^num-19-20|≈ Numbers 19:20]] · [[Numbers 9#^num-9-13|≈ Numbers 9:13]] · [[Leviticus 22#^lev-22-3|≈ Leviticus 22:3]] · [[Exodus 12#^ex-12-15|≈ Exodus 12:15]] · [[Exodus 12#^ex-12-19|≈ Exodus 12:19]]
 
 ![[Numbers 15#^num-15-31]]
 > [[2 Samuel 12#^2sam-12-7|2 Sam. 12:9 (7–9)]] · [[1 Nephi 19#^1ne-19-7|1 Ne. 19:7]] · [[2 Nephi 33#^2ne-33-2|2 Ne. 33:2]] · [[Jacob 4#^jacob-4-14|Jacob 4:14]] · [[D&C 3#^dc-3-4|D&amp;C 3:7 (4–13)]]
@@ -121,4 +121,4 @@ cssclasses:
 ![[Numbers 15#^num-15-40]]
 
 ![[Numbers 15#^num-15-41]]
-> [[Leviticus 19#^lev-19-36|≈ Leviticus 19:36]] · [[Leviticus 22#^lev-22-33|≈ Leviticus 22:33]] · [[Leviticus 25#^lev-25-38|≈ Leviticus 25:38]] · [[Leviticus 26#^lev-26-13|≈ Leviticus 26:13]] · [[Deuteronomy 13#^deut-13-5|≈ Deuteronomy 13:5]]
+> [[Leviticus 22#^lev-22-33|≈ Leviticus 22:33]] · [[Leviticus 19#^lev-19-36|≈ Leviticus 19:36]] · [[Leviticus 25#^lev-25-38|≈ Leviticus 25:38]] · [[Leviticus 26#^lev-26-13|≈ Leviticus 26:13]] · [[Deuteronomy 13#^deut-13-5|≈ Deuteronomy 13:5]]

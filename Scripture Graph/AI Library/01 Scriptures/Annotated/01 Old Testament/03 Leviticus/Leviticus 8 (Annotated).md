@@ -79,7 +79,7 @@ cssclasses:
 > [[Exodus 29#^ex-29-19|Ex. 29:19]] · [[Exodus 29#^ex-29-15|≈ Exodus 29:15]] · [[Exodus 29#^ex-29-19|≈ Exodus 29:19]] · [[Exodus 29#^ex-29-10|≈ Exodus 29:10]] · [[Leviticus 4#^lev-4-15|≈ Leviticus 4:15]]
 
 ![[Leviticus 8#^lev-8-23]]
-> [[Exodus 29#^ex-29-20|≈ Exodus 29:20]] · [[Leviticus 14#^lev-14-25|≈ Leviticus 14:25]] · [[Leviticus 14#^lev-14-14|≈ Leviticus 14:14]] · [[Leviticus 14#^lev-14-17|≈ Leviticus 14:17]] · [[Leviticus 14#^lev-14-28|≈ Leviticus 14:28]]
+> [[Leviticus 14#^lev-14-25|≈ Leviticus 14:25]] · [[Leviticus 14#^lev-14-14|≈ Leviticus 14:14]] · [[Leviticus 14#^lev-14-17|≈ Leviticus 14:17]] · [[Leviticus 14#^lev-14-28|≈ Leviticus 14:28]] · [[Exodus 29#^ex-29-20|≈ Exodus 29:20]]
 
 ![[Leviticus 8#^lev-8-24]]
 > [[2 Chronicles 29#^2chr-29-1|2 Chr. 29:22 (1–29)]] · [[Exodus 29#^ex-29-20|≈ Exodus 29:20]] · [[Leviticus 3#^lev-3-2|≈ Leviticus 3:2]]
@@ -91,13 +91,13 @@ cssclasses:
 > [[Exodus 29#^ex-29-23|≈ Exodus 29:23]]
 
 ![[Leviticus 8#^lev-8-27]]
-> [[Leviticus 9#^lev-9-21|≈ Leviticus 9:21]] · [[Numbers 6#^num-6-20|≈ Numbers 6:20]] · [[Exodus 29#^ex-29-24|≈ Exodus 29:24]] · [[Exodus 29#^ex-29-26|≈ Exodus 29:26]] · [[Leviticus 14#^lev-14-12|≈ Leviticus 14:12]] · [[Leviticus 14#^lev-14-24|≈ Leviticus 14:24]]
+> [[Leviticus 9#^lev-9-21|≈ Leviticus 9:21]] · [[Numbers 6#^num-6-20|≈ Numbers 6:20]] · [[Leviticus 14#^lev-14-12|≈ Leviticus 14:12]] · [[Leviticus 14#^lev-14-24|≈ Leviticus 14:24]] · [[Exodus 29#^ex-29-24|≈ Exodus 29:24]] · [[Exodus 29#^ex-29-26|≈ Exodus 29:26]]
 
 ![[Leviticus 8#^lev-8-28]]
 > [[Exodus 29#^ex-29-25|≈ Exodus 29:25]] · [[Exodus 29#^ex-29-18|≈ Exodus 29:18]] · [[Exodus 29#^ex-29-41|≈ Exodus 29:41]] · [[Leviticus 3#^lev-3-5|≈ Leviticus 3:5]] · [[Leviticus 3#^lev-3-3|≈ Leviticus 3:3]] · [[Leviticus 3#^lev-3-9|≈ Leviticus 3:9]]
 
 ![[Leviticus 8#^lev-8-29]]
-> [[Leviticus 9#^lev-9-21|≈ Leviticus 9:21]] · [[Numbers 6#^num-6-20|≈ Numbers 6:20]] · [[Exodus 29#^ex-29-26|≈ Exodus 29:26]] · [[Exodus 29#^ex-29-24|≈ Exodus 29:24]] · [[Leviticus 14#^lev-14-12|≈ Leviticus 14:12]] · [[Leviticus 14#^lev-14-24|≈ Leviticus 14:24]]
+> [[Leviticus 9#^lev-9-21|≈ Leviticus 9:21]] · [[Numbers 6#^num-6-20|≈ Numbers 6:20]] · [[Leviticus 14#^lev-14-12|≈ Leviticus 14:12]] · [[Leviticus 14#^lev-14-24|≈ Leviticus 14:24]] · [[Exodus 29#^ex-29-26|≈ Exodus 29:26]] · [[Exodus 29#^ex-29-24|≈ Exodus 29:24]]
 
 ![[Leviticus 8#^lev-8-30]]
 > [[Isaiah 63#^isa-63-2|Isa. 63:3 (2–4)]] · [[D&C 133#^dc-133-51|D&amp;C 133:51]] · [[Alma 13#^alma-13-11|Alma 13:11 (11–13)]] · [[Moses 6#^moses-6-59|Moses 6:60 (59–60)]] · [[Exodus 29#^ex-29-21|≈ Exodus 29:21]]

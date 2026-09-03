@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 16
 slug: 1kgs-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,25 +55,25 @@ First Kings 16 presents political instability and religious deterioration togeth
 - [[D&C 121]] — 1 footnote cross-reference (from [[1 Kings 16#^1kgs-16-2|1 Kings 16:2]])
 - [[Alma 51]] — 1 footnote cross-reference (from [[1 Kings 16#^1kgs-16-21|1 Kings 16:21]])
 - [[2 Kings 15]] — 40 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[2 Kings 15#^2kgs-15-21|2 Kings 15:21]]
+- [[1 Kings 15]] — 27 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[1 Kings 15#^1kgs-15-31|1 Kings 15:31]]
 - [[2 Kings 14]] — 15 parallel verses, e.g. [[1 Kings 16#^1kgs-16-27|1 Kings 16:27]] ↔ [[2 Kings 14#^2kgs-14-15|2 Kings 14:15]]
 - [[1 Kings 22]] — 13 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[1 Kings 22#^1kgs-22-39|1 Kings 22:39]]
 - [[1 Kings 14]] — 14 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]
 - [[2 Kings 13]] — 10 parallel verses, e.g. [[1 Kings 16#^1kgs-16-5|1 Kings 16:5]] ↔ [[2 Kings 13#^2kgs-13-8|2 Kings 13:8]]
+- [[2 Kings 21]] — 10 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]]
 - [[2 Kings 24]] — 6 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]]
+- [[2 Kings 10]] — 5 parallel verses, e.g. [[1 Kings 16#^1kgs-16-5|1 Kings 16:5]] ↔ [[2 Kings 10#^2kgs-10-34|2 Kings 10:34]]
 - [[2 Kings 16]] — 6 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[2 Kings 16#^2kgs-16-19|2 Kings 16:19]]
 - [[2 Kings 8]] — 6 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[2 Kings 8#^2kgs-8-23|2 Kings 8:23]]
 - [[2 Kings 1]] — 4 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[2 Kings 1#^2kgs-1-18|2 Kings 1:18]]
-- [[2 Kings 23]] — 4 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[2 Kings 23#^2kgs-23-28|2 Kings 23:28]]
-- [[2 Kings 12]] — 4 parallel verses, e.g. [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]] ↔ [[2 Kings 12#^2kgs-12-19|2 Kings 12:19]]
-- [[2 Kings 20]] — 4 parallel verses, e.g. [[1 Kings 16#^1kgs-16-5|1 Kings 16:5]] ↔ [[2 Kings 20#^2kgs-20-20|2 Kings 20:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[Records and Sacred Writings]]
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -90,7 +90,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ahab** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 32
 slug: 2chr-32
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,18 +53,18 @@ Scripture: [[2 Chronicles 32]] · My notes: [[2 Chronicles 32 - My Notes]]
 - [[2 Samuel 5]] — 1 footnote cross-reference (from [[2 Chronicles 32#^2chr-32-5|2 Chronicles 32:5]])
 - [[1 Kings 9]] — 1 footnote cross-reference (from [[2 Chronicles 32#^2chr-32-5|2 Chronicles 32:5]])
 - [[1 Kings 11]] — 1 footnote cross-reference (from [[2 Chronicles 32#^2chr-32-5|2 Chronicles 32:5]])
+- [[2 Kings 20]] — 4 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]] ↔ [[2 Kings 20#^2kgs-20-21|2 Kings 20:21]]
+- [[2 Kings 18]] — 4 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-18|2 Chronicles 32:18]] ↔ [[2 Kings 18#^2kgs-18-28|2 Kings 18:28]]
 - [[2 Chronicles 28]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-32|2 Chronicles 32:32]] ↔ [[2 Chronicles 28#^2chr-28-26|2 Chronicles 28:26]]
+- [[Isaiah 36]] — 3 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-18|2 Chronicles 32:18]] ↔ [[Isaiah 36#^isa-36-13|Isaiah 36:13]]
 - [[2 Chronicles 33]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]] ↔ [[2 Chronicles 33#^2chr-33-20|2 Chronicles 33:20]]
 - [[2 Chronicles 27]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]] ↔ [[2 Chronicles 27#^2chr-27-9|2 Chronicles 27:9]]
 - [[1 Kings 15]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]] ↔ [[1 Kings 15#^1kgs-15-8|1 Kings 15:8]]
 - [[2 Chronicles 20]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-32|2 Chronicles 32:32]] ↔ [[2 Chronicles 20#^2chr-20-34|2 Chronicles 20:34]]
 - [[2 Chronicles 26]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]] ↔ [[2 Chronicles 26#^2chr-26-23|2 Chronicles 26:23]]
-- [[Judges 9]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-6|2 Chronicles 32:6]] ↔ [[Judges 9#^judg-9-35|Judges 9:35]]
-- [[2 Chronicles 14]] — 1 parallel verse, e.g. [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]] ↔ [[2 Chronicles 14#^2chr-14-1|2 Chronicles 14:1]]
-- [[2 Chronicles 16]] — 1 parallel verse, e.g. [[2 Chronicles 32#^2chr-32-32|2 Chronicles 32:32]] ↔ [[2 Chronicles 16#^2chr-16-11|2 Chronicles 16:11]]
-- [[2 Chronicles 25]] — 1 parallel verse, e.g. [[2 Chronicles 32#^2chr-32-32|2 Chronicles 32:32]] ↔ [[2 Chronicles 25#^2chr-25-26|2 Chronicles 25:26]]
-- [[2 Kings 10]] — 1 parallel verse, e.g. [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]] ↔ [[2 Kings 10#^2kgs-10-35|2 Kings 10:35]]
-- [[2 Kings 13]] — 1 parallel verse, e.g. [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]] ↔ [[2 Kings 13#^2kgs-13-9|2 Kings 13:9]]
+- [[Isaiah 38]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-11|2 Chronicles 32:11]] ↔ [[Isaiah 38#^isa-38-6|Isaiah 38:6]]
+- [[2 Kings 19]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-11|2 Chronicles 32:11]] ↔ [[2 Kings 19#^2kgs-19-10|2 Kings 19:10]]
+- [[Isaiah 37]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-11|2 Chronicles 32:11]] ↔ [[Isaiah 37#^isa-37-10|Isaiah 37:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

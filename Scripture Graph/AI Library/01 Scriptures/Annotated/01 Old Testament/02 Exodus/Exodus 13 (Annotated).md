@@ -28,7 +28,7 @@ cssclasses:
 > [[Exodus 12#^ex-12-2|Ex. 12:2]] · [[Deuteronomy 16#^deut-16-1|Deut. 16:1]]
 
 ![[Exodus 13#^ex-13-5]]
-> [[Exodus 34#^ex-34-11|Ex. 34:11]] · [[Exodus 33#^ex-33-2|Ex. 33:2]] · [[Exodus 6#^ex-6-8|Ex. 6:8]] · [[Exodus 33#^ex-33-3|Ex. 33:3]] · [[Exodus 3#^ex-3-17|≈ Exodus 3:17]] · [[Exodus 3#^ex-3-8|≈ Exodus 3:8]] · [[Joshua 3#^josh-3-10|≈ Joshua 3:10]] · [[Joshua 2#^josh-2-14|≈ Joshua 2:14]] · [[Deuteronomy 7#^deut-7-1|≈ Deuteronomy 7:1]] · [[Deuteronomy 7#^deut-7-13|≈ Deuteronomy 7:13]]
+> [[Exodus 34#^ex-34-11|Ex. 34:11]] · [[Exodus 33#^ex-33-2|Ex. 33:2]] · [[Exodus 6#^ex-6-8|Ex. 6:8]] · [[Exodus 33#^ex-33-3|Ex. 33:3]] · [[Exodus 3#^ex-3-17|≈ Exodus 3:17]] · [[Exodus 3#^ex-3-8|≈ Exodus 3:8]] · [[Joshua 3#^josh-3-10|≈ Joshua 3:10]] · [[Joshua 2#^josh-2-14|≈ Joshua 2:14]] · [[Deuteronomy 6#^deut-6-10|≈ Deuteronomy 6:10]] · [[Deuteronomy 7#^deut-7-1|≈ Deuteronomy 7:1]]
 
 ![[Exodus 13#^ex-13-6]]
 > [[Exodus 34#^ex-34-18|≈ Exodus 34:18]] · [[Deuteronomy 16#^deut-16-8|≈ Deuteronomy 16:8]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 17
 slug: rev-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,9 @@ _Not yet developed._
 - [[D&C 10]] — 1 footnote cross-reference (from [[Revelation 17#^rev-17-4|Revelation 17:4]])
 - [[Revelation 21]] — 2 parallel verses, e.g. [[Revelation 17#^rev-17-1|Revelation 17:1]] ↔ [[Revelation 21#^rev-21-9|Revelation 21:9]]
 - [[Revelation 18]] — 2 parallel verses, e.g. [[Revelation 17#^rev-17-4|Revelation 17:4]] ↔ [[Revelation 18#^rev-18-16|Revelation 18:16]]
+- [[D&C 88]] — 0 parallel verses
+- [[Jeremiah 51]] — 0 parallel verses
+- [[1 Nephi 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,7 +71,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1843-04-15 (Vol. 4 No. 11)** (periodical, 1843-04-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

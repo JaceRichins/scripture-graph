@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 34
 slug: deut-34
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,7 +52,7 @@ Deuteronomy 34 concludes Moses' life without narrating Israel's entry into the l
 - [[Joshua 1]] — 1 footnote cross-reference (from [[Deuteronomy 34#^deut-34-5|Deuteronomy 34:5]])
 - [[Alma 45]] — 1 footnote cross-reference (from [[Deuteronomy 34#^deut-34-6|Deuteronomy 34:6]])
 - [[Exodus 7]] — 1 footnote cross-reference (from [[Deuteronomy 34#^deut-34-7|Deuteronomy 34:7]])
-- [[Numbers 32]] — 0 parallel verses
+- [[Numbers 32]] — 1 parallel verse, e.g. [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]] ↔ [[Numbers 32#^num-32-11|Numbers 32:11]]
 - [[Numbers 27]] — 0 parallel verses
 - [[Exodus 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -76,7 +76,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

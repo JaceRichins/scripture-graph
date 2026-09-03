@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 28
 slug: ezek-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,21 +49,22 @@ Scripture: [[Ezekiel 28]] · My notes: [[Ezekiel 28 - My Notes]]
 - [[Daniel 9]] — 1 footnote cross-reference (from [[Ezekiel 28#^ezek-28-3|Ezekiel 28:3]])
 - [[Ezekiel 30]] — 6 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
 - [[Ezekiel 26]] — 4 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]]
+- [[Ezekiel 29]] — 4 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 29#^ezek-29-3|Ezekiel 29:3]]
 - [[Ezekiel 39]] — 3 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 39#^ezek-39-1|Ezekiel 39:1]]
 - [[Ezekiel 25]] — 4 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 25#^ezek-25-17|Ezekiel 25:17]]
+- [[Ezekiel 27]] — 3 parallel verses, e.g. [[Ezekiel 28#^ezek-28-19|Ezekiel 28:19]] ↔ [[Ezekiel 27#^ezek-27-36|Ezekiel 27:36]]
 - [[Ezekiel 23]] — 3 parallel verses, e.g. [[Ezekiel 28#^ezek-28-10|Ezekiel 28:10]] ↔ [[Ezekiel 23#^ezek-23-34|Ezekiel 23:34]]
 - [[Ezekiel 38]] — 2 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]]
 - [[Exodus 8]] — 2 parallel verses, e.g. [[Ezekiel 28#^ezek-28-12|Ezekiel 28:12]] ↔ [[Exodus 8#^ex-8-1|Exodus 8:1]]
 - [[Ezekiel 13]] — 2 parallel verses, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 13#^ezek-13-20|Ezekiel 13:20]]
 - [[Ezekiel 7]] — 2 parallel verses, e.g. [[Ezekiel 28#^ezek-28-24|Ezekiel 28:24]] ↔ [[Ezekiel 7#^ezek-7-27|Ezekiel 7:27]]
 - [[Ezekiel 24]] — 2 parallel verses, e.g. [[Ezekiel 28#^ezek-28-24|Ezekiel 28:24]] ↔ [[Ezekiel 24#^ezek-24-27|Ezekiel 24:27]]
-- [[Ezekiel 12]] — 1 parallel verse, e.g. [[Ezekiel 28#^ezek-28-22|Ezekiel 28:22]] ↔ [[Ezekiel 12#^ezek-12-15|Ezekiel 12:15]]
-- [[Ezekiel 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Pride]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

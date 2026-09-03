@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 70
 slug: dc-70
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 70]] · My notes: [[D&C 70 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–5, Stewards are appointed to publish the revelations; 6–13, Those who labor in spiritual things are worthy of their hire; 14–18, The Saints should be equal in temporal things.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -42,6 +43,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 72]] — 3 footnote cross-references (from [[D&C 70#^dc-70-3|D&C 70:3]])
+- [[D&C 57]] — 2 footnote cross-references (from [[D&C 70#^dc-70-1|D&C 70:1]])
+- [[D&C 58]] — 2 footnote cross-references (from [[D&C 70#^dc-70-1|D&C 70:1]])
+- [[Isaiah 39]] — 1 footnote cross-reference (from [[D&C 70#^dc-70-1|D&C 70:1]])
+- [[D&C 61]] — 1 footnote cross-reference (from [[D&C 70#^dc-70-1|D&C 70:1]])
+- [[1 Corinthians 4]] — 1 footnote cross-reference (from [[D&C 70#^dc-70-3|D&C 70:3]])
 - [[D&C 84]] — 1 parallel verse, e.g. [[D&C 70#^dc-70-6|D&C 70:6]] ↔ [[D&C 84#^dc-84-73|D&C 84:73]]
 - [[D&C 115]] — 1 parallel verse, e.g. [[D&C 70#^dc-70-1|D&C 70:1]] ↔ [[D&C 115#^dc-115-1|D&C 115:1]]
 <!-- SG:END related-scriptures -->
@@ -68,6 +75,7 @@ _Not yet developed._
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **Sources Cited** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -17,7 +17,7 @@ cssclasses:
 > Jeremiah prophesies the destruction of the people—For this he is arraigned, tried, and then acquitted.
 
 ![[Jeremiah 26#^jer-26-1]]
-> [[Jeremiah 27#^jer-27-1|27:1]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]] · [[Jeremiah 35#^jer-35-1|≈ Jeremiah 35:1]] · [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]] · [[Jeremiah 36#^jer-36-9|≈ Jeremiah 36:9]] · [[Jeremiah 45#^jer-45-1|≈ Jeremiah 45:1]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]]
+> [[Jeremiah 27#^jer-27-1|27:1]] · [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]] · [[Jeremiah 36#^jer-36-9|≈ Jeremiah 36:9]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]] · [[Jeremiah 35#^jer-35-1|≈ Jeremiah 35:1]] · [[Jeremiah 45#^jer-45-1|≈ Jeremiah 45:1]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]]
 
 ![[Jeremiah 26#^jer-26-2]]
 > [[D&C 28#^dc-28-3|D&amp;C 28:3]] · [[Jeremiah 19#^jer-19-14|≈ Jeremiah 19:14]]
@@ -26,7 +26,7 @@ cssclasses:
 > [[Jeremiah 36#^jer-36-3|≈ Jeremiah 36:3]]
 
 ![[Jeremiah 26#^jer-26-4]]
-> [[Leviticus 26#^lev-26-14|Lev. 26:14]] · [[Deuteronomy 28#^deut-28-15|Deut. 28:15]] · [[Alma 5#^alma-5-37|Alma 5:37 (37–38)]] · [[D&C 5#^dc-5-5|D&amp;C 5:5]] · [[D&C 41#^dc-41-5|D&amp;C 41:5]] · [[D&C 42#^dc-42-2|42:2]] · [[D&C 130#^dc-130-20|130:20]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Ezekiel 2#^ezek-2-4|≈ Ezekiel 2:4]]
+> [[Leviticus 26#^lev-26-14|Lev. 26:14]] · [[Deuteronomy 28#^deut-28-15|Deut. 28:15]] · [[Alma 5#^alma-5-37|Alma 5:37 (37–38)]] · [[D&C 5#^dc-5-5|D&amp;C 5:5]] · [[D&C 41#^dc-41-5|D&amp;C 41:5]] · [[D&C 42#^dc-42-2|42:2]] · [[D&C 130#^dc-130-20|130:20]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 13#^jer-13-13|≈ Jeremiah 13:13]]
 
 ![[Jeremiah 26#^jer-26-5]]
 > [[Jeremiah 25#^jer-25-4|Jer. 25:4]] · [[2 Nephi 27#^2ne-27-5|2 Ne. 27:5]] · [[Jacob 6#^jacob-6-8|Jacob 6:8]] · [[Ether 7#^ether-7-24|Ether 7:24]] · [[Jeremiah 25#^jer-25-4|≈ Jeremiah 25:4]]

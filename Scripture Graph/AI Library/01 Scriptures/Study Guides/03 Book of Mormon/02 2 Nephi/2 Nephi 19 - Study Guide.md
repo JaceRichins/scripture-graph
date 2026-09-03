@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 19
 slug: 2ne-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -35,15 +35,15 @@ Scripture: [[2 Nephi 19]] · My notes: [[2 Nephi 19 - My Notes]]
 
 ## People
 <!-- SG:BEGIN people -->
-- [[David (king)]] — 0 mentions
+- [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
+- [[Galilee]] — 1 mention
+- [[Samaria]] — 1 mention
 - [[Red Sea]] — 1 mention
 - [[Jordan River]] — 1 mention
-- [[Galilee]] — 0 mentions
-- [[Samaria]] — 0 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
@@ -54,10 +54,11 @@ Scripture: [[2 Nephi 19]] · My notes: [[2 Nephi 19 - My Notes]]
 - [[1 Kings 5]] — 2 footnote cross-references (from [[2 Nephi 19#^2ne-19-10|2 Nephi 19:10]])
 - [[Isaiah 10]] — 2 footnote cross-references (from [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]])
 - [[Micah 7]] — 2 footnote cross-references (from [[2 Nephi 19#^2ne-19-17|2 Nephi 19:17]])
+- [[Isaiah 9]] — 27 parallel verses, e.g. [[2 Nephi 19#^2ne-19-17|2 Nephi 19:17]] ↔ [[Isaiah 9#^isa-9-17|Isaiah 9:17]]
 - [[Isaiah 5]] — 4 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[Isaiah 5#^isa-5-25|Isaiah 5:25]]
 - [[2 Nephi 15]] — 4 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]]
-- [[Isaiah 9]] — 0 parallel verses
-- [[2 Nephi 20]] — 0 parallel verses
+- [[Isaiah 10]] — 3 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[Isaiah 10#^isa-10-4|Isaiah 10:4]]
+- [[2 Nephi 20]] — 3 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 18
 slug: lev-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Leviticus 23]] — 2 parallel verses, e.g. [[Leviticus 18#^lev-18-2|Leviticus 18:2]] ↔ [[Leviticus 23#^lev-23-2|Leviticus 23:2]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Leviticus 18#^lev-18-2|Leviticus 18:2]] ↔ [[Numbers 15#^num-15-2|Numbers 15:2]]
 - [[Nehemiah 9]] — 1 parallel verse, e.g. [[Leviticus 18#^lev-18-5|Leviticus 18:5]] ↔ [[Nehemiah 9#^neh-9-29|Nehemiah 9:29]]
+- [[Leviticus 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

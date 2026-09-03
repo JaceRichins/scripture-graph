@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 5
 slug: jer-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Zephaniah 3]] — 1 footnote cross-reference (from [[Jeremiah 5#^jer-5-6|Jeremiah 5:6]])
 - [[Deuteronomy 32]] — 1 footnote cross-reference (from [[Jeremiah 5#^jer-5-7|Jeremiah 5:7]])
 - [[Jeremiah 9]] — 1 footnote cross-reference (from [[Jeremiah 5#^jer-5-9|Jeremiah 5:9]])
+- [[Jeremiah 9]] — 2 parallel verses, e.g. [[Jeremiah 5#^jer-5-29|Jeremiah 5:29]] ↔ [[Jeremiah 9#^jer-9-9|Jeremiah 9:9]]
 - [[Jeremiah 31]] — 2 parallel verses, e.g. [[Jeremiah 5#^jer-5-11|Jeremiah 5:11]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
 - [[Jeremiah 11]] — 1 parallel verse, e.g. [[Jeremiah 5#^jer-5-11|Jeremiah 5:11]] ↔ [[Jeremiah 11#^jer-11-10|Jeremiah 11:10]]
 - [[Deuteronomy 28]] — 0 parallel verses

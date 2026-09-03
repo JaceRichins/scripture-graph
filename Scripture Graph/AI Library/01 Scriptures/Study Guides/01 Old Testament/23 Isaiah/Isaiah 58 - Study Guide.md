@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 58
 slug: isa-58
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Alma 34]] — 1 footnote cross-reference (from [[Isaiah 58#^isa-58-3|Isaiah 58:3]])
 - [[Isaiah 1]] — 1 parallel verse, e.g. [[Isaiah 58#^isa-58-14|Isaiah 58:14]] ↔ [[Isaiah 1#^isa-1-20|Isaiah 1:20]]
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Isaiah 58#^isa-58-14|Isaiah 58:14]] ↔ [[Isaiah 40#^isa-40-5|Isaiah 40:5]]
+- [[D&C 34]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

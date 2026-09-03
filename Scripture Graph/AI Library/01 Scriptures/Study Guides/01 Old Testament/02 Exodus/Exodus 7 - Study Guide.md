@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 7
 slug: ex-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,10 @@ _Not yet developed._
 - [[Numbers 4]] — 2 parallel verses, e.g. [[Exodus 7#^ex-7-8|Exodus 7:8]] ↔ [[Numbers 4#^num-4-1|Numbers 4:1]]
 - [[Exodus 10]] — 1 parallel verse, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 10#^ex-10-3|Exodus 10:3]]
 - [[Exodus 12]] — 1 parallel verse, e.g. [[Exodus 7#^ex-7-4|Exodus 7:4]] ↔ [[Exodus 12#^ex-12-51|Exodus 12:51]]
+- [[Exodus 9]] — 0 parallel verses
+- [[Exodus 8]] — 0 parallel verses
+- [[Revelation 11]] — 0 parallel verses
+- [[2 Timothy 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,6 +78,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Oliver Cowdery’s Gift** (history) *(explicit citation)*
+- **Aaron** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

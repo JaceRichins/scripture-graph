@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 4
 slug: ezra-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Lamentations 1]] — 1 footnote cross-reference (from [[Ezra 4#^ezra-4-20|Ezra 4:20]])
 - [[Ezra 5]] — 4 parallel verses, e.g. [[Ezra 4#^ezra-4-11|Ezra 4:11]] ↔ [[Ezra 5#^ezra-5-6|Ezra 5:6]]
 - [[Ezra 6]] — 2 parallel verses, e.g. [[Ezra 4#^ezra-4-24|Ezra 4:24]] ↔ [[Ezra 6#^ezra-6-22|Ezra 6:22]]
+- [[Ezra 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,7 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aramaic** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

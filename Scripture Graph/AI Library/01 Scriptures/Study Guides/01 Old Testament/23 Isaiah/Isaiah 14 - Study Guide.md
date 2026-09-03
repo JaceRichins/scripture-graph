@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 14
 slug: isa-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Isaiah 60]] — 1 footnote cross-reference (from [[Isaiah 14#^isa-14-2|Isaiah 14:2]])
 - [[Ezekiel 39]] — 1 footnote cross-reference (from [[Isaiah 14#^isa-14-2|Isaiah 14:2]])
 - [[2 Nephi 24]] — 32 parallel verses, e.g. [[Isaiah 14#^isa-14-9|Isaiah 14:9]] ↔ [[2 Nephi 24#^2ne-24-9|2 Nephi 24:9]]
+- [[Ezekiel 32]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,6 +69,7 @@ _Not yet developed._
 - **Satan** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

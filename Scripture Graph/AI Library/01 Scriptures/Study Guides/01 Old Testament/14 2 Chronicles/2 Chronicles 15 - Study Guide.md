@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 15
 slug: 2chr-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

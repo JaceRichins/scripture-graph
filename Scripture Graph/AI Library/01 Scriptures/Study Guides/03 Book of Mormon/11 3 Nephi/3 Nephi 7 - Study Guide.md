@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 7
 slug: 3ne-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,8 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 - [[Be Perfected in Him (Elder Paul V. Johnson, October 2022)|Be Perfected in Him]] — Elder Paul V. Johnson, 2022-October *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
+- [[The Powers of Heaven (Elder David A. Bednar, April 2012)|The Powers of Heaven]] — Elder David A. Bednar, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 61
 slug: dc-61
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -41,7 +41,15 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 62]] — 3 footnote cross-references (from [[D&C 61#^dc-61-30|D&C 61:30]])
+- [[D&C 57]] — 2 footnote cross-references (from [[D&C 61#^dc-61-7|D&C 61:7]])
+- [[Matthew 28]] — 2 footnote cross-references (from [[D&C 61#^dc-61-10|D&C 61:10]])
+- [[D&C 19]] — 1 footnote cross-reference (from [[D&C 61#^dc-61-1|D&C 61:1]])
+- [[Mosiah 4]] — 1 footnote cross-reference (from [[D&C 61#^dc-61-2|D&C 61:2]])
+- [[D&C 58]] — 1 footnote cross-reference (from [[D&C 61#^dc-61-7|D&C 61:7]])
+- [[Joseph Smith—Matthew 1]] — 5 parallel verses, e.g. [[D&C 61#^dc-61-36|D&C 61:36]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-46|Joseph Smith—Matthew 1:46]]
 - [[D&C 60]] — 4 parallel verses, e.g. [[D&C 61#^dc-61-23|D&C 61:23]] ↔ [[D&C 60#^dc-60-6|D&C 60:6]]
+- [[D&C 64]] — 4 parallel verses, e.g. [[D&C 61#^dc-61-2|D&C 61:2]] ↔ [[D&C 64#^dc-64-1|D&C 64:1]]
 - [[D&C 82]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-18|D&C 61:18]] ↔ [[D&C 82#^dc-82-5|D&C 82:5]]
 - [[D&C 90]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-24|D&C 61:24]] ↔ [[D&C 90#^dc-90-28|D&C 90:28]]
 - [[D&C 92]] — 2 parallel verses, e.g. [[D&C 61#^dc-61-18|D&C 61:18]] ↔ [[D&C 92#^dc-92-1|D&C 92:1]]
@@ -51,8 +59,6 @@ _Not yet developed._
 - [[D&C 88]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-2|D&C 61:2]] ↔ [[D&C 88#^dc-88-1|D&C 88:1]]
 - [[Matthew 24]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-38|D&C 61:38]] ↔ [[Matthew 24#^matt-24-27|Matthew 24:27]]
 - [[D&C 130]] — 3 parallel verses, e.g. [[D&C 61#^dc-61-38|D&C 61:38]] ↔ [[D&C 130#^dc-130-12|D&C 130:12]]
-- [[D&C 112]] — 2 parallel verses, e.g. [[D&C 61#^dc-61-36|D&C 61:36]] ↔ [[D&C 112#^dc-112-14|D&C 112:14]]
-- [[D&C 91]] — 2 parallel verses, e.g. [[D&C 61#^dc-61-3|D&C 61:3]] ↔ [[D&C 91#^dc-91-3|D&C 91:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,6 +91,8 @@ The conclusion joins watchfulness, sobriety, and [[Prayer]] with readiness for t
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **12 After Much Tribulation** (history) *(explicit citation)*
+- **13 The Gift Has Returned** (history) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*

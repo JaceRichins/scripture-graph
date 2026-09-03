@@ -37,7 +37,7 @@ cssclasses:
 ![[Joshua 22#^josh-22-8]]
 
 ![[Joshua 22#^josh-22-9]]
-> [[1 Chronicles 5#^1chr-5-4|1 Chr. 5:9 (4–9)]] · [[Numbers 4#^num-4-45|≈ Numbers 4:45]] · [[Numbers 4#^num-4-37|≈ Numbers 4:37]] · [[Numbers 32#^num-32-1|≈ Numbers 32:1]] · [[Numbers 32#^num-32-25|≈ Numbers 32:25]] · [[Numbers 32#^num-32-31|≈ Numbers 32:31]] · [[Numbers 32#^num-32-2|≈ Numbers 32:2]]
+> [[1 Chronicles 5#^1chr-5-4|1 Chr. 5:9 (4–9)]] · [[Numbers 32#^num-32-1|≈ Numbers 32:1]] · [[Numbers 32#^num-32-25|≈ Numbers 32:25]] · [[Numbers 32#^num-32-31|≈ Numbers 32:31]] · [[Numbers 32#^num-32-2|≈ Numbers 32:2]] · [[Numbers 32#^num-32-29|≈ Numbers 32:29]] · [[Joshua 4#^josh-4-12|≈ Joshua 4:12]]
 
 ![[Joshua 22#^josh-22-10]]
 > [[Numbers 32#^num-32-1|≈ Numbers 32:1]] · [[Numbers 32#^num-32-25|≈ Numbers 32:25]] · [[Numbers 32#^num-32-31|≈ Numbers 32:31]] · [[Joshua 4#^josh-4-12|≈ Joshua 4:12]]

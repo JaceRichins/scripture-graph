@@ -119,7 +119,7 @@ cssclasses:
 > [[Mosiah 3#^mosiah-3-12|Mosiah 3:12]] · [[Helaman 8#^hel-8-24|Hel. 8:25 (24–25)]] · [[Proverbs 19#^prov-19-27|Prov. 19:27]] · [[1 Nephi 8#^1ne-8-33|1 Ne. 8:34 (33–34)]] · [[Alma 7#^alma-7-21|Alma 7:21]] · [[Alma 34#^alma-34-36|34:36]] · [[Helaman 4#^hel-4-24|Hel. 4:24]]
 
 ![[Mosiah 2#^mosiah-2-38]]
-> [[Mosiah 27#^mosiah-27-25|Mosiah 27:29 (25–29)]] · [[2 Nephi 5#^2ne-5-20|≈ 2 Nephi 5:20]] · [[2 Nephi 9#^2ne-9-16|≈ 2 Nephi 9:16]]
+> [[Mosiah 27#^mosiah-27-25|Mosiah 27:29 (25–29)]] · [[2 Nephi 9#^2ne-9-16|≈ 2 Nephi 9:16]] · [[2 Nephi 5#^2ne-5-20|≈ 2 Nephi 5:20]]
 
 ![[Mosiah 2#^mosiah-2-39]]
 

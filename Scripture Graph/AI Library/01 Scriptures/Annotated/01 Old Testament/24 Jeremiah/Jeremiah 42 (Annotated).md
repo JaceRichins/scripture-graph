@@ -58,7 +58,7 @@ cssclasses:
 ![[Jeremiah 42#^jer-42-16]]
 
 ![[Jeremiah 42#^jer-42-17]]
-> [[Jeremiah 44#^jer-44-13|≈ Jeremiah 44:13]] · [[Jeremiah 51#^jer-51-64|≈ Jeremiah 51:64]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 38#^jer-38-2|≈ Jeremiah 38:2]] · [[Jeremiah 27#^jer-27-13|≈ Jeremiah 27:13]] · [[Jeremiah 21#^jer-21-9|≈ Jeremiah 21:9]]
+> [[Jeremiah 44#^jer-44-13|≈ Jeremiah 44:13]] · [[Jeremiah 51#^jer-51-64|≈ Jeremiah 51:64]] · [[Jeremiah 14#^jer-14-12|≈ Jeremiah 14:12]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 38#^jer-38-2|≈ Jeremiah 38:2]] · [[Jeremiah 27#^jer-27-13|≈ Jeremiah 27:13]]
 
 ![[Jeremiah 42#^jer-42-18]]
 > [[Jeremiah 44#^jer-44-12|Jer. 44:12]] · [[Jeremiah 44#^jer-44-12|≈ Jeremiah 44:12]] · [[Jeremiah 44#^jer-44-2|≈ Jeremiah 44:2]] · [[Jeremiah 44#^jer-44-11|≈ Jeremiah 44:11]] · [[Jeremiah 44#^jer-44-25|≈ Jeremiah 44:25]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]]
@@ -72,4 +72,4 @@ cssclasses:
 > [[Jeremiah 44#^jer-44-23|≈ Jeremiah 44:23]] · [[Zechariah 6#^zech-6-15|≈ Zechariah 6:15]]
 
 ![[Jeremiah 42#^jer-42-22]]
-> [[Jeremiah 44#^jer-44-13|≈ Jeremiah 44:13]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 38#^jer-38-2|≈ Jeremiah 38:2]] · [[Jeremiah 27#^jer-27-13|≈ Jeremiah 27:13]] · [[Jeremiah 21#^jer-21-9|≈ Jeremiah 21:9]] · [[Jeremiah 14#^jer-14-12|≈ Jeremiah 14:12]]
+> [[Jeremiah 44#^jer-44-13|≈ Jeremiah 44:13]] · [[Jeremiah 14#^jer-14-12|≈ Jeremiah 14:12]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 38#^jer-38-2|≈ Jeremiah 38:2]] · [[Jeremiah 27#^jer-27-13|≈ Jeremiah 27:13]] · [[Jeremiah 21#^jer-21-9|≈ Jeremiah 21:9]]

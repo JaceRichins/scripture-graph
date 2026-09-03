@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 12
 slug: mark-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,9 +56,9 @@ _Not yet developed._
 - [[Acts 7]] — 1 parallel verse, e.g. [[Mark 12#^mark-12-26|Mark 12:26]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Mark 12#^mark-12-26|Mark 12:26]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Mark 12#^mark-12-26|Mark 12:26]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
+- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Mark 12#^mark-12-26|Mark 12:26]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
 - [[1 Nephi 6]] — 1 parallel verse, e.g. [[Mark 12#^mark-12-26|Mark 12:26]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
 - [[Alma 36]] — 1 parallel verse, e.g. [[Mark 12#^mark-12-26|Mark 12:26]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
-- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Mark 12#^mark-12-26|Mark 12:26]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
 - [[Matthew 23]] — 2 parallel verses, e.g. [[Mark 12#^mark-12-40|Mark 12:40]] ↔ [[Matthew 23#^matt-23-14|Matthew 23:14]]
 <!-- SG:END related-scriptures -->
 

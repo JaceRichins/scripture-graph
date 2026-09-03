@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 18
 slug: dc-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -101,12 +101,12 @@ _Not yet developed._
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **The Role of Prophets** (reference-entry) *(explicit citation)*
+- **19 Stewards over This Ministry** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
-- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

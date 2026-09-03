@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 4
 slug: rom-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Transgression** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

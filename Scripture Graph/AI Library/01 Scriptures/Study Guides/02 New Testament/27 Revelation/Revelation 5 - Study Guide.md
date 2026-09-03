@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 5
 slug: rev-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Revelation 22]] — 1 footnote cross-reference (from [[Revelation 5#^rev-5-5|Revelation 5:5]])
 - [[1 Chronicles 23]] — 1 footnote cross-reference (from [[Revelation 5#^rev-5-8|Revelation 5:8]])
 - [[Revelation 4]] — 3 parallel verses, e.g. [[Revelation 5#^rev-5-14|Revelation 5:14]] ↔ [[Revelation 4#^rev-4-10|Revelation 4:10]]
+- [[D&C 77]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,8 +67,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
+- **37 We Will Prove Them** (history) *(explicit citation)*
 - **Journal of Discourses, Volume 26** (history, ~1879) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

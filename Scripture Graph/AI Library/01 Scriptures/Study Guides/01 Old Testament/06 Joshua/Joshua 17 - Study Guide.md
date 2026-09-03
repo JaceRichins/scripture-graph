@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 17
 slug: josh-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,12 +49,12 @@ Scripture: [[Joshua 17]] · My notes: [[Joshua 17 - My Notes]]
 - [[Alma 10]] — 1 footnote cross-reference (from [[Joshua 17#^josh-17-1|Joshua 17:1]])
 - [[Numbers 32]] — 1 footnote cross-reference (from [[Joshua 17#^josh-17-1|Joshua 17:1]])
 - [[Judges 5]] — 1 footnote cross-reference (from [[Joshua 17#^josh-17-1|Joshua 17:1]])
+- [[Judges 1]] — 4 parallel verses, e.g. [[Joshua 17#^josh-17-11|Joshua 17:11]] ↔ [[Judges 1#^judg-1-27|Judges 1:27]]
+- [[Numbers 27]] — 1 parallel verse, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 27#^num-27-1|Numbers 27:1]]
 - [[Numbers 4]] — 3 parallel verses, e.g. [[Joshua 17#^josh-17-4|Joshua 17:4]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
+- [[Numbers 36]] — 1 parallel verse, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 36#^num-36-1|Numbers 36:1]]
+- [[Numbers 26]] — 1 parallel verse, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[Numbers 26#^num-26-33|Numbers 26:33]]
 - [[1 Chronicles 7]] — 1 parallel verse, e.g. [[Joshua 17#^josh-17-3|Joshua 17:3]] ↔ [[1 Chronicles 7#^1chr-7-17|1 Chronicles 7:17]]
-- [[Numbers 27]] — 0 parallel verses
-- [[Numbers 36]] — 0 parallel verses
-- [[Numbers 26]] — 0 parallel verses
-- [[Judges 1]] — 0 parallel verses
 - [[Joshua 16]] — 0 parallel verses
 - [[Judges 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -81,7 +81,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Asher** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

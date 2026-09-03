@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 48
 slug: ezek-48
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,12 +51,12 @@ Judah and Benjamin—the two tribes immediately flanking the central district on
 - [[Revelation 21]] — 2 footnote cross-references (from [[Ezekiel 48#^ezek-48-31|Ezekiel 48:31]])
 - [[Numbers 2]] — 1 footnote cross-reference (from [[Ezekiel 48#^ezek-48-1|Ezekiel 48:1]])
 - [[Ether 13]] — 1 footnote cross-reference (from [[Ezekiel 48#^ezek-48-5|Ezekiel 48:5]])
+- [[Ezekiel 45]] — 4 parallel verses, e.g. [[Ezekiel 48#^ezek-48-21|Ezekiel 48:21]] ↔ [[Ezekiel 45#^ezek-45-7|Ezekiel 45:7]]
 - [[Ezekiel 41]] — 2 parallel verses, e.g. [[Ezekiel 48#^ezek-48-21|Ezekiel 48:21]] ↔ [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]]
 - [[Numbers 34]] — 0 parallel verses
 - [[Ezekiel 43]] — 0 parallel verses
 - [[Revelation 21]] — 0 parallel verses
 - [[Ezekiel 47]] — 0 parallel verses
-- [[Ezekiel 45]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,7 +81,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Asher** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 1
 slug: john-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,8 @@ _Not yet developed._
 - [[Matthew 3]] — 1 parallel verse, e.g. [[John 1#^john-1-23|John 1:23]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[John 1#^john-1-23|John 1:23]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
 - [[Luke 3]] — 1 parallel verse, e.g. [[John 1#^john-1-23|John 1:23]] ↔ [[Luke 3#^luke-3-4|Luke 3:4]]
+- [[D&C 45]] — 0 parallel verses
+- [[3 Nephi 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -130,3 +132,8 @@ _Not yet developed._
 <!-- SG:BEGIN further-study -->
 _Not yet developed._
 <!-- SG:END further-study -->
+
+## Secondary Sources
+<!-- SG:BEGIN secondary-sources -->
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+<!-- SG:END secondary-sources -->

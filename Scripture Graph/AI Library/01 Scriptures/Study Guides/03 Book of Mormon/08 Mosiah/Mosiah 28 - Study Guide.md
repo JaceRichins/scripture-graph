@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 28
 slug: mosiah-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

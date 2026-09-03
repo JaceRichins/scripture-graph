@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 32
 slug: 2ne-32
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Jeremiah 15]] — 1 footnote cross-reference (from [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]])
 - [[Exodus 4]] — 1 footnote cross-reference (from [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]])
 - [[2 Nephi 31]] — 3 parallel verses, e.g. [[2 Nephi 32#^2ne-32-2|2 Nephi 32:2]] ↔ [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]]
+- [[Moroni 10]] — 3 parallel verses, e.g. [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]] ↔ [[Moroni 10#^moro-10-7|Moroni 10:7]]
 - [[2 Nephi 33]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-9|2 Nephi 32:9]] ↔ [[2 Nephi 33#^2ne-33-12|2 Nephi 33:12]]
 - [[Moroni 3]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-9|2 Nephi 32:9]] ↔ [[Moroni 3#^moro-3-2|Moroni 3:2]]
 - [[Moroni 6]] — 2 parallel verses, e.g. [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
@@ -63,9 +64,10 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Angels]]
+- [[Scripture Study]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

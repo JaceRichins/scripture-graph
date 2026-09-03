@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 24
 slug: isa-24
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,8 @@ _Not yet developed._
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1836-07-01 (Vol. 2 No. 10)** (periodical, 1836-07-01) *(explicit citation)*
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

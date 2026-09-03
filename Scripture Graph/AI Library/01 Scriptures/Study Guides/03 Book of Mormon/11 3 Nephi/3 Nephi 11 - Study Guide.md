@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 11
 slug: 3ne-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,18 +51,18 @@ A cautious outline follows the chapter's changes in speaker and action:
 - [[3 Nephi 8]] — 2 footnote cross-references (from [[3 Nephi 11#^3ne-11-1|3 Nephi 11:1]])
 - [[Ezekiel 1]] — 2 footnote cross-references (from [[3 Nephi 11#^3ne-11-3|3 Nephi 11:3]])
 - [[1 Nephi 12]] — 2 footnote cross-references (from [[3 Nephi 11#^3ne-11-8|3 Nephi 11:8]])
+- [[D&C 20]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[D&C 20#^dc-20-73|D&C 20:73]]
 - [[3 Nephi 28]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-32|3 Nephi 11:32]] ↔ [[3 Nephi 28#^3ne-28-11|3 Nephi 28:11]]
+- [[3 Nephi 9]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[3 Nephi 18]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-40|3 Nephi 11:40]] ↔ [[3 Nephi 18#^3ne-18-13|3 Nephi 18:13]]
+- [[D&C 93]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]] ↔ [[D&C 93#^dc-93-3|D&C 93:3]]
+- [[John 14]] — 2 parallel verses, e.g. [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]] ↔ [[John 14#^john-14-10|John 14:10]]
 - [[Moses 7]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[Moses 7#^moses-7-11|Moses 7:11]]
 - [[3 Nephi 12]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-12|3 Nephi 11:12]] ↔ [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]]
+- [[Matthew 28]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[Matthew 28#^matt-28-19|Matthew 28:19]]
 - [[D&C 39]] — 2 parallel verses, e.g. [[3 Nephi 11#^3ne-11-17|3 Nephi 11:17]] ↔ [[D&C 39#^dc-39-19|D&C 39:19]]
 - [[D&C 68]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[D&C 68#^dc-68-8|D&C 68:8]]
 - [[D&C 50]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]] ↔ [[D&C 50#^dc-50-43|D&C 50:43]]
-- [[D&C 10]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-39|3 Nephi 11:39]] ↔ [[D&C 10#^dc-10-69|D&C 10:69]]
-- [[2 Nephi 31]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
-- [[Alma 5]] — 2 parallel verses, e.g. [[3 Nephi 11#^3ne-11-38|3 Nephi 11:38]] ↔ [[Alma 5#^alma-5-51|Alma 5:51]]
-- [[D&C 12]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-11|3 Nephi 11:11]] ↔ [[D&C 12#^dc-12-9|D&C 12:9]]
-- [[Moses 6]] — 2 parallel verses, e.g. [[3 Nephi 11#^3ne-11-38|3 Nephi 11:38]] ↔ [[Moses 6#^moses-6-57|Moses 6:57]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -102,6 +102,7 @@ Verses 28–30 forbid disputation, especially disputation "concerning the points
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **07 Fellow Servants** (history) *(explicit citation)*
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
@@ -111,7 +112,6 @@ Verses 28–30 forbid disputation, especially disputation "concerning the points
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
-- **Holy Ghost** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

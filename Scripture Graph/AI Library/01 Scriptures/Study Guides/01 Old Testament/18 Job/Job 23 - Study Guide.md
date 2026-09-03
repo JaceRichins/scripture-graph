@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 23
 slug: job-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,7 +57,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Atonement Covers All Pain (Elder Kent F. Richards, April 2011)|The Atonement Covers All Pain]] — Elder Kent F. Richards, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

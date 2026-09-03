@@ -83,13 +83,13 @@ cssclasses:
 ![[Luke 12#^luke-12-26]]
 
 ![[Luke 12#^luke-12-27]]
-> [[Matthew 6#^matt-6-29|≈ Matthew 6:29]] · [[D&C 84#^dc-84-82|≈ D&C 84:82]] · [[3 Nephi 13#^3ne-13-29|≈ 3 Nephi 13:29]]
+> [[Matthew 6#^matt-6-29|≈ Matthew 6:29]] · [[3 Nephi 13#^3ne-13-29|≈ 3 Nephi 13:29]] · [[D&C 84#^dc-84-82|≈ D&C 84:82]]
 
 ![[Luke 12#^luke-12-28]]
 > [[Matthew 6#^matt-6-30|≈ Matthew 6:30]]
 
 ![[Luke 12#^luke-12-29]]
-> [[Luke 1#^luke-1-19|Luke 1:20 (19–20)]] · [[Luke 24#^luke-24-25|24:25]] · [[Matthew 6#^matt-6-25|≈ Matthew 6:25]] · [[D&C 84#^dc-84-81|≈ D&C 84:81]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]] · [[D&C 27#^dc-27-2|≈ D&C 27:2]]
+> [[Luke 1#^luke-1-19|Luke 1:20 (19–20)]] · [[Luke 24#^luke-24-25|24:25]] · [[Matthew 6#^matt-6-25|≈ Matthew 6:25]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]] · [[D&C 27#^dc-27-2|≈ D&C 27:2]] · [[D&C 84#^dc-84-81|≈ D&C 84:81]]
 
 ![[Luke 12#^luke-12-30]]
 > [[Matthew 6#^matt-6-32|≈ Matthew 6:32]] · [[3 Nephi 13#^3ne-13-32|≈ 3 Nephi 13:32]]

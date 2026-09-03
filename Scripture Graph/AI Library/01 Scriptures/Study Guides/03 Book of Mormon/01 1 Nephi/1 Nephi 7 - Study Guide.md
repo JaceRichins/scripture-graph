@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 7
 slug: 1ne-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -66,8 +66,8 @@ The narrative has six movements:
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Repentance and Forgiveness]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

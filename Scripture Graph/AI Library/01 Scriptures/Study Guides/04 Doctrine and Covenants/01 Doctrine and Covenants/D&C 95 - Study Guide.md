@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 95
 slug: dc-95
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,7 +44,14 @@ The phrase “a very grievous sin” recurs in verses 3, 6, and 10. This is a cl
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 7 footnote cross-references (from [[D&C 95#^dc-95-3|D&C 95:3]])
+- [[D&C 101]] — 2 footnote cross-references (from [[D&C 95#^dc-95-1|D&C 95:1]])
+- [[D&C 105]] — 2 footnote cross-references (from [[D&C 95#^dc-95-1|D&C 95:1]])
+- [[Haggai 1]] — 2 footnote cross-references (from [[D&C 95#^dc-95-3|D&C 95:3]])
+- [[D&C 39]] — 2 footnote cross-references (from [[D&C 95#^dc-95-4|D&C 95:4]])
+- [[2 Samuel 7]] — 1 footnote cross-reference (from [[D&C 95#^dc-95-1|D&C 95:1]])
 - [[D&C 88]] — 2 parallel verses, e.g. [[D&C 95#^dc-95-7|D&C 95:7]] ↔ [[D&C 88#^dc-88-2|D&C 88:2]]
+- [[D&C 115]] — 2 parallel verses, e.g. [[D&C 95#^dc-95-11|D&C 95:11]] ↔ [[D&C 115#^dc-115-17|D&C 115:17]]
 - [[D&C 108]] — 2 parallel verses, e.g. [[D&C 95#^dc-95-9|D&C 95:9]] ↔ [[D&C 108#^dc-108-5|D&C 108:5]]
 - [[D&C 87]] — 1 parallel verse, e.g. [[D&C 95#^dc-95-7|D&C 95:7]] ↔ [[D&C 87#^dc-87-7|D&C 87:7]]
 - [[D&C 93]] — 2 parallel verses, e.g. [[D&C 95#^dc-95-11|D&C 95:11]] ↔ [[D&C 93#^dc-93-20|D&C 93:20]]
@@ -54,15 +61,14 @@ The phrase “a very grievous sin” recurs in verses 3, 6, and 10. This is a cl
 - [[Luke 24]] — 0 parallel verses
 - [[Matthew 22]] — 0 parallel verses
 - [[Isaiah 28]] — 0 parallel verses
-- [[D&C 115]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Apostles]]
 - [[Repentance and Forgiveness]]
 - [[Education and Learning]]
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -79,14 +85,17 @@ Obedience is directly connected with power to build, while disobedience is conne
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[We Are The Church of Jesus Christ of Latter-day Saints (Reyna I. Aburto, April 2022)|We Are The Church of Jesus Christ of Latter-day Saints]] — Reyna I. Aburto, 2022-April *(explicit citation)*
 - [[Rejoice in the Gift of Priesthood Keys (President Russell M. Nelson, April 2024)|Rejoice in the Gift of Priesthood Keys]] — President Russell M. Nelson, 2024-April *(explicit citation)*
+- [[Coming to Ourselves The Sacrament, the Temple, and Sacrifice in Service (Elder Robert D. Hales, April 2012)|Coming to Ourselves: The Sacrament, the Temple, and Sacrifice in Service]] — Elder Robert D. Hales, 2012-April *(explicit citation)*
 - [[God Loves His Children (Elder Taniela B. Wakolo, April 2021)|God Loves His Children]] — Elder Taniela B. Wakolo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘A House for Our God’** (history) *(explicit citation)*
+- **15 Holy Places** (history) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **18 The Camp of Israel** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

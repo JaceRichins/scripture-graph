@@ -64,7 +64,7 @@ cssclasses:
 > [[Ezekiel 34#^ezek-34-12|Ezek. 34:12]] · [[Mormon 5#^morm-5-14|Morm. 5:14]] · [[2 Nephi 10#^2ne-10-5|2 Ne. 10:7 (5–9)]] · [[2 Nephi 30#^2ne-30-7|30:7 (7–8)]] · [[Job 17#^job-17-9|Job 17:9]] · [[D&C 88#^dc-88-86|D&amp;C 88:86]] · [[D&C 20#^dc-20-29|≈ D&C 20:29]]
 
 ![[2 Nephi 25#^2ne-25-17]]
-> [[Genesis 49#^gen-49-10|Gen. 49:10]] · [[2 Nephi 21#^2ne-21-11|2 Ne. 21:11]] · [[2 Nephi 29#^2ne-29-1|29:1]] · [[Isaiah 29#^isa-29-14|Isa. 29:14]] · [[2 Nephi 27#^2ne-27-26|2 Ne. 27:26]] · [[3 Nephi 28#^3ne-28-31|3 Ne. 28:32 (31–33)]] · [[2 Nephi 29#^2ne-29-1|≈ 2 Nephi 29:1]] · [[Jacob 6#^jacob-6-2|≈ Jacob 6:2]] · [[2 Nephi 27#^2ne-27-26|≈ 2 Nephi 27:26]]
+> [[Genesis 49#^gen-49-10|Gen. 49:10]] · [[2 Nephi 21#^2ne-21-11|2 Ne. 21:11]] · [[2 Nephi 29#^2ne-29-1|29:1]] · [[Isaiah 29#^isa-29-14|Isa. 29:14]] · [[2 Nephi 27#^2ne-27-26|2 Ne. 27:26]] · [[3 Nephi 28#^3ne-28-31|3 Ne. 28:32 (31–33)]] · [[Jacob 6#^jacob-6-2|≈ Jacob 6:2]] · [[2 Nephi 29#^2ne-29-1|≈ 2 Nephi 29:1]] · [[2 Nephi 27#^2ne-27-26|≈ 2 Nephi 27:26]]
 
 ![[2 Nephi 25#^2ne-25-18]]
 > [[3 Nephi 16#^3ne-16-4|3 Ne. 16:4]] · [[2 Nephi 29#^2ne-29-11|2 Ne. 29:11]] · [[2 Nephi 33#^2ne-33-11|33:14 (11, 14–15)]] · [[Words of Mormon 1#^wofm-1-11|W of M 1:11]] · [[3 Nephi 27#^3ne-27-23|3 Ne. 27:25 (23–27)]] · [[Ether 5#^ether-5-4|Ether 5:4]] · [[2 Nephi 26#^2ne-26-12|2 Ne. 26:12]] · [[Mormon 3#^morm-3-21|Morm. 3:21]]

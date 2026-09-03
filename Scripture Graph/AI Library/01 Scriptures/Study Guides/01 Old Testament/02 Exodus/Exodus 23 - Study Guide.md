@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 23
 slug: ex-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,9 @@ _Not yet developed._
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 23#^ex-23-23|Exodus 23:23]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
 - [[Joshua 24]] — 1 parallel verse, e.g. [[Exodus 23#^ex-23-23|Exodus 23:23]] ↔ [[Joshua 24#^josh-24-11|Joshua 24:11]]
 - [[Deuteronomy 16]] — 0 parallel verses
+- [[Exodus 22]] — 0 parallel verses
+- [[Joshua 24]] — 0 parallel verses
+- [[Proverbs 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,7 +72,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -69,7 +69,7 @@ cssclasses:
 ![[2 Chronicles 33#^2chr-33-19]]
 
 ![[2 Chronicles 33#^2chr-33-20]]
-> [[2 Kings 21#^2kgs-21-18|≈ 2 Kings 21:18]] · [[2 Kings 10#^2kgs-10-35|≈ 2 Kings 10:35]] · [[2 Kings 13#^2kgs-13-9|≈ 2 Kings 13:9]] · [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[2 Chronicles 28#^2chr-28-27|≈ 2 Chronicles 28:27]] · [[2 Chronicles 27#^2chr-27-9|≈ 2 Chronicles 27:9]]
+> [[2 Kings 21#^2kgs-21-18|≈ 2 Kings 21:18]] · [[2 Kings 10#^2kgs-10-35|≈ 2 Kings 10:35]] · [[2 Kings 13#^2kgs-13-9|≈ 2 Kings 13:9]] · [[2 Kings 15#^2kgs-15-7|≈ 2 Kings 15:7]] · [[2 Chronicles 27#^2chr-27-9|≈ 2 Chronicles 27:9]] · [[2 Chronicles 28#^2chr-28-27|≈ 2 Chronicles 28:27]]
 
 ![[2 Chronicles 33#^2chr-33-21]]
 > [[2 Kings 21#^2kgs-21-19|2 Kgs. 21:19 (19–24)]] · [[2 Kings 21#^2kgs-21-1|≈ 2 Kings 21:1]] · [[2 Kings 21#^2kgs-21-19|≈ 2 Kings 21:19]] · [[2 Kings 16#^2kgs-16-2|≈ 2 Kings 16:2]] · [[2 Chronicles 36#^2chr-36-11|≈ 2 Chronicles 36:11]] · [[2 Chronicles 36#^2chr-36-2|≈ 2 Chronicles 36:2]] · [[2 Chronicles 36#^2chr-36-5|≈ 2 Chronicles 36:5]]

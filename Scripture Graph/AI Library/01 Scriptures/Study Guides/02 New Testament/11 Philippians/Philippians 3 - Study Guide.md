@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 3
 slug: philip-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

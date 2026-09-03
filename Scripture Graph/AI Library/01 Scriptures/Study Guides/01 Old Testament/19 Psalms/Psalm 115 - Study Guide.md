@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 115
 slug: ps-115
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Deuteronomy 1]] — 1 footnote cross-reference (from [[Psalm 115#^ps-115-14|Psalm 115:14]])
 - [[Psalm 135]] — 4 parallel verses, e.g. [[Psalm 115#^ps-115-8|Psalm 115:8]] ↔ [[Psalm 135#^ps-135-18|Psalm 135:18]]
 - [[Psalm 113]] — 1 parallel verse, e.g. [[Psalm 115#^ps-115-18|Psalm 115:18]] ↔ [[Psalm 113#^ps-113-2|Psalm 113:2]]
+- [[Jeremiah 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

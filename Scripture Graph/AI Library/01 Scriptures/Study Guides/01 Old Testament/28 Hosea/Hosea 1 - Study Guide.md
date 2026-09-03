@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 1
 slug: hosea-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,8 @@ _Not yet developed._
 - [[Romans 9]] — 2 parallel verses, e.g. [[Hosea 1#^hosea-1-10|Hosea 1:10]] ↔ [[Romans 9#^rom-9-26|Romans 9:26]]
 - [[Amos 1]] — 1 parallel verse, e.g. [[Hosea 1#^hosea-1-1|Hosea 1:1]] ↔ [[Amos 1#^amos-1-1|Amos 1:1]]
 - [[Genesis 29]] — 3 parallel verses, e.g. [[Hosea 1#^hosea-1-6|Hosea 1:6]] ↔ [[Genesis 29#^gen-29-33|Genesis 29:33]]
+- [[Isaiah 1]] — 1 parallel verse, e.g. [[Hosea 1#^hosea-1-1|Hosea 1:1]] ↔ [[Isaiah 1#^isa-1-1|Isaiah 1:1]]
+- [[Micah 1]] — 1 parallel verse, e.g. [[Hosea 1#^hosea-1-1|Hosea 1:1]] ↔ [[Micah 1#^micah-1-1|Micah 1:1]]
 - [[Genesis 32]] — 1 parallel verse, e.g. [[Hosea 1#^hosea-1-10|Hosea 1:10]] ↔ [[Genesis 32#^gen-32-12|Genesis 32:12]]
 - [[Genesis 32]] — 0 parallel verses
 <!-- SG:END related-scriptures -->

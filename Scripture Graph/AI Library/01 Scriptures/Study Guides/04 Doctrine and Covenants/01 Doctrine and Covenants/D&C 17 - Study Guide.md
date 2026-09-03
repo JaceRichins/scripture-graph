@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 17
 slug: dc-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ _Not yet developed._
 - **The Experience of the Three Witnesses** (history) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **07 Fellow Servants** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

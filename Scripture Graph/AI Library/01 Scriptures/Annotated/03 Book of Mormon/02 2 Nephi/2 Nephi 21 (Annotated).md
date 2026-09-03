@@ -41,7 +41,7 @@ cssclasses:
 > [[Isaiah 11#^isa-11-8|≈ Isaiah 11:8]] · [[2 Nephi 30#^2ne-30-14|≈ 2 Nephi 30:14]]
 
 ![[2 Nephi 21#^2ne-21-9]]
-> [[Isaiah 2#^isa-2-4|Isa. 2:4]] · [[Habakkuk 2#^hab-2-14|Hab. 2:14]] · [[Psalm 66#^ps-66-4|Ps. 66:4]] · [[D&C 88#^dc-88-104|D&amp;C 88:104]] · [[Isaiah 11#^isa-11-9|≈ Isaiah 11:9]] · [[Habakkuk 2#^hab-2-14|≈ Habakkuk 2:14]] · [[2 Nephi 30#^2ne-30-15|≈ 2 Nephi 30:15]] · [[Isaiah 65#^isa-65-25|≈ Isaiah 65:25]]
+> [[Isaiah 2#^isa-2-4|Isa. 2:4]] · [[Habakkuk 2#^hab-2-14|Hab. 2:14]] · [[Psalm 66#^ps-66-4|Ps. 66:4]] · [[D&C 88#^dc-88-104|D&amp;C 88:104]] · [[Isaiah 11#^isa-11-9|≈ Isaiah 11:9]] · [[2 Nephi 30#^2ne-30-15|≈ 2 Nephi 30:15]] · [[Isaiah 65#^isa-65-25|≈ Isaiah 65:25]] · [[Habakkuk 2#^hab-2-14|≈ Habakkuk 2:14]]
 
 ![[2 Nephi 21#^2ne-21-10]]
 > [[Romans 15#^rom-15-12|Rom. 15:12]] · [[D&C 113#^dc-113-5|D&amp;C 113:5 (5–6)]] · [[D&C 45#^dc-45-9|D&amp;C 45:9 (9–10)]] · [[D&C 19#^dc-19-9|D&amp;C 19:9]] · [[Isaiah 11#^isa-11-10|≈ Isaiah 11:10]] · [[Zechariah 13#^zech-13-1|≈ Zechariah 13:1]] · [[Zechariah 14#^zech-14-21|≈ Zechariah 14:21]]

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 69
 slug: dc-69
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 69]] · My notes: [[D&C 69 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–2, John Whitmer is to accompany Oliver Cowdery to Missouri; 3–8, He is also to preach and to collect, record, and write historical data.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 68]] — 1 footnote cross-reference (from [[D&C 69#^dc-69-1|D&C 69:1]])
+- [[D&C 21]] — 1 footnote cross-reference (from [[D&C 69#^dc-69-3|D&C 69:3]])
+- [[D&C 47]] — 1 footnote cross-reference (from [[D&C 69#^dc-69-3|D&C 69:3]])
+- [[D&C 85]] — 1 footnote cross-reference (from [[D&C 69#^dc-69-3|D&C 69:3]])
+- [[Proverbs 20]] — 1 footnote cross-reference (from [[D&C 69#^dc-69-4|D&C 69:4]])
+- [[D&C 57]] — 1 footnote cross-reference (from [[D&C 69#^dc-69-6|D&C 69:6]])
 - [[D&C 124]] — 2 parallel verses, e.g. [[D&C 69#^dc-69-8|D&C 69:8]] ↔ [[D&C 124#^dc-124-59|D&C 124:59]]
 <!-- SG:END related-scriptures -->
 
@@ -60,6 +67,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **The Book of John Whitmer** (history) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
+- **Preface** (history) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

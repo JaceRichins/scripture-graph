@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zephaniah
 chapter: 3
 slug: zeph-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Isaiah 18]] — 1 footnote cross-reference (from [[Zephaniah 3#^zeph-3-10|Zephaniah 3:10]])
 - [[Isaiah 63]] — 1 footnote cross-reference (from [[Zephaniah 3#^zeph-3-20|Zephaniah 3:20]])
 - [[Isaiah 62]] — 1 footnote cross-reference (from [[Zephaniah 3#^zeph-3-20|Zephaniah 3:20]])
+- [[Zephaniah 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

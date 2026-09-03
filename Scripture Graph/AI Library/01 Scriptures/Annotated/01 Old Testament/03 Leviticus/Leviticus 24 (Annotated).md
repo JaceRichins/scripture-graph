@@ -22,7 +22,7 @@ cssclasses:
 > [[Exodus 27#^ex-27-20|Ex. 27:20 (20–21)]] · [[1 Samuel 3#^1sam-3-3|1 Sam. 3:3]] · [[Matthew 25#^matt-25-1|Matt. 25:1 (1–13)]] · [[Exodus 27#^ex-27-20|≈ Exodus 27:20]]
 
 ![[Leviticus 24#^lev-24-3]]
-> [[Leviticus 6#^lev-6-18|≈ Leviticus 6:18]] · [[Exodus 30#^ex-30-21|≈ Exodus 30:21]] · [[Exodus 30#^ex-30-36|≈ Exodus 30:36]] · [[Exodus 27#^ex-27-21|≈ Exodus 27:21]] · [[Leviticus 10#^lev-10-9|≈ Leviticus 10:9]] · [[Leviticus 23#^lev-23-41|≈ Leviticus 23:41]]
+> [[Leviticus 6#^lev-6-18|≈ Leviticus 6:18]] · [[Exodus 27#^ex-27-21|≈ Exodus 27:21]] · [[Exodus 30#^ex-30-21|≈ Exodus 30:21]] · [[Exodus 30#^ex-30-36|≈ Exodus 30:36]] · [[Leviticus 10#^lev-10-9|≈ Leviticus 10:9]] · [[Leviticus 23#^lev-23-41|≈ Leviticus 23:41]]
 
 ![[Leviticus 24#^lev-24-4]]
 > [[Exodus 25#^ex-25-37|Ex. 25:37]]

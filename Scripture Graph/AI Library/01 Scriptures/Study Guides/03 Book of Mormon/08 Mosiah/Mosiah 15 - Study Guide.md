@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 15
 slug: mosiah-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -84,11 +84,11 @@ _Not yet developed._
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[The Atonement of Jesus Christ Provides the Ultimate Rescue (Elder Quentin L. Cook, April 2025)|The Atonement of Jesus Christ Provides the Ultimate Rescue]] — Elder Quentin L. Cook, 2025-April *(explicit citation)*
 - [[Because of Jesus Christ (Elder Dale G. Renlund, April 2026)|Because of Jesus Christ]] — Elder Dale G. Renlund, 2026-April *(explicit citation)*
+- [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
 - [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
 - [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
 - [[A Witness of God (Elder Neil L. Andersen, October 2016)|A Witness of God]] — Elder Neil L. Andersen, 2016-October *(explicit citation)*
 - [[Behold the Man! (Elder Dieter F. Uchtdorf, April 2018)|Behold the Man!]] — Elder Dieter F. Uchtdorf, 2018-April *(explicit citation)*
-- [[The Prophet of God (Elder Neil L. Andersen, April 2018)|The Prophet of God]] — Elder Neil L. Andersen, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

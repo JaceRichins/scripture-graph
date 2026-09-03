@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 5
 slug: 2ne-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,26 +58,26 @@ Verses 19-20 (fulfillment of the ruler/teacher promise and the 'cut off' languag
 - [[1 Nephi 16]] — 3 footnote cross-references (from [[2 Nephi 5#^2ne-5-3|2 Nephi 5:3]])
 - [[1 Nephi 2]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-25|2 Nephi 5:25]] ↔ [[1 Nephi 2#^1ne-2-24|1 Nephi 2:24]]
 - [[1 Nephi 16]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]] ↔ [[1 Nephi 16#^1ne-16-17|1 Nephi 16:17]]
+- [[Alma 42]] — 3 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
 - [[1 Nephi 3]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[1 Nephi 3#^1ne-3-12|1 Nephi 3:12]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Ether 10]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-15|2 Nephi 5:15]] ↔ [[Ether 10#^ether-10-23|Ether 10:23]]
+- [[Mosiah 1]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]]
 - [[Alma 50]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
 - [[Ether 2]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
+- [[1 Nephi 18]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]] ↔ [[1 Nephi 18#^1ne-18-23|1 Nephi 18:23]]
 - [[1 Nephi 5]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[1 Nephi 5#^1ne-5-10|1 Nephi 5:10]]
 - [[Mosiah 2]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Mosiah 2#^mosiah-2-38|Mosiah 2:38]]
-- [[Omni 1]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-10|2 Nephi 5:10]] ↔ [[Omni 1#^omni-1-2|Omni 1:2]]
-- [[2 Nephi 9]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]]
-- [[Alma 1]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-15|2 Nephi 5:15]] ↔ [[Alma 1#^alma-1-29|Alma 1:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Liahona (compass)]]
 - [[Work and Self-Reliance]]
-- [[Records and Sacred Writings]]
+- [[Liahona (compass)]]
 - [[Law of Moses]]
 - [[Government and Laws]]
 - [[War and Peace]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -96,6 +96,7 @@ Verse 20 explicitly defines the rebellious brothers' condition as being 'cut off
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 - [[The Lord’s Way (Elder Stanley G. Ellis, April 2013)|The Lord’s Way]] — Elder Stanley G. Ellis, 2013-April *(explicit citation)*
 - [[The Power, Joy, and Love of Covenant Keeping (Linda K. Burton, October 2013)|The Power, Joy, and Love of Covenant Keeping]] — Linda K. Burton, 2013-October *(explicit citation)*
+- [[Love Her Mother (Elaine S. Dalton, October 2011)|Love Her Mother]] — Elaine S. Dalton, 2011-October *(explicit citation)*
 - [[Let Doing Good Be Our Normal (Elder Rafael E. Pino, October 2022)|Let Doing Good Be Our Normal]] — Elder Rafael E. Pino, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 

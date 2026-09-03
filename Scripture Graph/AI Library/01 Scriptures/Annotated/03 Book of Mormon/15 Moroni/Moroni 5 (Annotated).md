@@ -20,4 +20,4 @@ cssclasses:
 > [[3 Nephi 18#^3ne-18-8|3 Ne. 18:11 (8–11)]] · [[D&C 20#^dc-20-78|D&amp;C 20:78]]
 
 ![[Moroni 5#^moro-5-2]]
-> [[Luke 22#^luke-22-20|Luke 22:20]] · [[1 Corinthians 11#^1cor-11-25|1 Cor. 11:25]] · [[D&C 27#^dc-27-2|D&amp;C 27:2 (2–4)]] · [[Moroni 4#^moro-4-3|≈ Moroni 4:3]] · [[D&C 20#^dc-20-79|≈ D&C 20:79]] · [[D&C 20#^dc-20-77|≈ D&C 20:77]]
+> [[Luke 22#^luke-22-20|Luke 22:20]] · [[1 Corinthians 11#^1cor-11-25|1 Cor. 11:25]] · [[D&C 27#^dc-27-2|D&amp;C 27:2 (2–4)]] · [[D&C 20#^dc-20-79|≈ D&C 20:79]] · [[D&C 20#^dc-20-77|≈ D&C 20:77]] · [[Moroni 4#^moro-4-3|≈ Moroni 4:3]]

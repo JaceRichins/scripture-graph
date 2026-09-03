@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 13
 slug: isa-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,13 +53,13 @@ The movement from a named city, outward to universal/cosmic language, and back t
 - [[2 Nephi 23]] — 1 footnote cross-reference (from [[Isaiah 13#^isa-13-1|Isaiah 13:1]])
 - [[D&C 133]] — 1 footnote cross-reference (from [[Isaiah 13#^isa-13-1|Isaiah 13:1]])
 - [[Isaiah 2]] — 1 footnote cross-reference (from [[Isaiah 13#^isa-13-2|Isaiah 13:2]])
+- [[2 Nephi 23]] — 22 parallel verses, e.g. [[Isaiah 13#^isa-13-10|Isaiah 13:10]] ↔ [[2 Nephi 23#^2ne-23-10|2 Nephi 23:10]]
+- [[Jeremiah 50]] — 2 parallel verses, e.g. [[Isaiah 13#^isa-13-20|Isaiah 13:20]] ↔ [[Jeremiah 50#^jer-50-39|Jeremiah 50:39]]
 - [[Haggai 2]] — 2 parallel verses, e.g. [[Isaiah 13#^isa-13-13|Isaiah 13:13]] ↔ [[Haggai 2#^hag-2-6|Haggai 2:6]]
-- [[Jeremiah 50]] — 0 parallel verses
-- [[Joel 1]] — 0 parallel verses
-- [[Zephaniah 1]] — 0 parallel verses
+- [[Joel 1]] — 1 parallel verse, e.g. [[Isaiah 13#^isa-13-6|Isaiah 13:6]] ↔ [[Joel 1#^joel-1-15|Joel 1:15]]
+- [[Zephaniah 1]] — 1 parallel verse, e.g. [[Isaiah 13#^isa-13-6|Isaiah 13:6]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
 - [[2 Nephi 23]] — 0 parallel verses
 - [[Haggai 2]] — 0 parallel verses
-- [[2 Nephi 23]] — 0 parallel verses
 - [[Jeremiah 51]] — 0 parallel verses
 - [[Jeremiah 50]] — 0 parallel verses
 <!-- SG:END related-scriptures -->

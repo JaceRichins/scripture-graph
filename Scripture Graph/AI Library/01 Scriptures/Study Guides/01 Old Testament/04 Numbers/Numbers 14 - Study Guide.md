@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 14
 slug: num-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ Numbers 14 is the crisis produced by the reconnaissance of [[Numbers 13]]. The c
 - [[Exodus 32]] — 2 footnote cross-references (from [[Numbers 14#^num-14-12|Numbers 14:12]])
 - [[D&C 84]] — 2 footnote cross-references (from [[Numbers 14#^num-14-14|Numbers 14:14]])
 - [[Deuteronomy 31]] — 5 parallel verses, e.g. [[Numbers 14#^num-14-23|Numbers 14:23]] ↔ [[Deuteronomy 31#^deut-31-20|Deuteronomy 31:20]]
+- [[Numbers 32]] — 4 parallel verses, e.g. [[Numbers 14#^num-14-30|Numbers 14:30]] ↔ [[Numbers 32#^num-32-12|Numbers 32:12]]
 - [[Exodus 34]] — 2 parallel verses, e.g. [[Numbers 14#^num-14-18|Numbers 14:18]] ↔ [[Exodus 34#^ex-34-7|Exodus 34:7]]
 - [[Exodus 16]] — 3 parallel verses, e.g. [[Numbers 14#^num-14-27|Numbers 14:27]] ↔ [[Exodus 16#^ex-16-12|Exodus 16:12]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[Numbers 14#^num-14-44|Numbers 14:44]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
@@ -65,7 +66,6 @@ Numbers 14 is the crisis produced by the reconnaissance of [[Numbers 13]]. The c
 - [[Numbers 16]] — 2 parallel verses, e.g. [[Numbers 14#^num-14-2|Numbers 14:2]] ↔ [[Numbers 16#^num-16-41|Numbers 16:41]]
 - [[D&C 98]] — 3 parallel verses, e.g. [[Numbers 14#^num-14-18|Numbers 14:18]] ↔ [[D&C 98#^dc-98-28|D&C 98:28]]
 - [[Joshua 3]] — 3 parallel verses, e.g. [[Numbers 14#^num-14-44|Numbers 14:44]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
-- [[1 Samuel 4]] — 3 parallel verses, e.g. [[Numbers 14#^num-14-44|Numbers 14:44]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

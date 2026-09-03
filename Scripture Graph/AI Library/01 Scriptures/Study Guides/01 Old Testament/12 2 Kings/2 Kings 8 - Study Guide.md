@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 8
 slug: 2kgs-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ Four episodes make up the chapter: a displaced household receives restitution (8
 - [[Prophecy]]
 - [[War and Peace]]
 - [[Covenants]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -90,7 +91,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ahaziah** (reference-entry) *(explicit citation)*
+- **Athaliah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

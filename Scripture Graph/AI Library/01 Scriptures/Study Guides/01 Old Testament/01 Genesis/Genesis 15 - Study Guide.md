@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 15
 slug: gen-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,8 @@ _Not yet developed._
 - [[Genesis 24]] — 1 footnote cross-reference (from [[Genesis 15#^gen-15-2|Genesis 15:2]])
 - [[Genesis 14]] — 1 footnote cross-reference (from [[Genesis 15#^gen-15-3|Genesis 15:3]])
 - [[Deuteronomy 7]] — 1 parallel verse, e.g. [[Genesis 15#^gen-15-21|Genesis 15:21]] ↔ [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]]
+- [[D&C 132]] — 0 parallel verses
+- [[Exodus 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,7 +67,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

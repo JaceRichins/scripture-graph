@@ -49,7 +49,7 @@ cssclasses:
 ![[Ezekiel 5#^ezek-5-12]]
 
 ![[Ezekiel 5#^ezek-5-13]]
-> [[Ezekiel 24#^ezek-24-13|Ezek. 24:13 (13–14)]] · [[Ezekiel 21#^ezek-21-17|Ezek. 21:17]] · [[Ezekiel 38#^ezek-38-18|38:18]] · [[D&C 20#^dc-20-36|D&amp;C 20:36]] · [[Ezekiel 17#^ezek-17-21|≈ Ezekiel 17:21]] · [[Ezekiel 17#^ezek-17-24|≈ Ezekiel 17:24]] · [[Ezekiel 22#^ezek-22-22|≈ Ezekiel 22:22]]
+> [[Ezekiel 24#^ezek-24-13|Ezek. 24:13 (13–14)]] · [[Ezekiel 21#^ezek-21-17|Ezek. 21:17]] · [[Ezekiel 38#^ezek-38-18|38:18]] · [[D&C 20#^dc-20-36|D&amp;C 20:36]] · [[Ezekiel 22#^ezek-22-22|≈ Ezekiel 22:22]] · [[Ezekiel 17#^ezek-17-21|≈ Ezekiel 17:21]] · [[Ezekiel 17#^ezek-17-24|≈ Ezekiel 17:24]]
 
 ![[Ezekiel 5#^ezek-5-14]]
 > [[Leviticus 26#^lev-26-31|Lev. 26:31]] · [[Nehemiah 2#^neh-2-17|Neh. 2:17]] · [[Ezekiel 22#^ezek-22-4|Ezek. 22:4]] · [[Lamentations 2#^lam-2-15|Lam. 2:15]]

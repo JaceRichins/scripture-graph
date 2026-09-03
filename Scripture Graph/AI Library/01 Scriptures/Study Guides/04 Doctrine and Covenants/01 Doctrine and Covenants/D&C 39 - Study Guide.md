@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 39
 slug: dc-39
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -37,9 +37,16 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 35]] — 3 footnote cross-references (from [[D&C 39#^dc-39-1|D&C 39:1]])
+- [[D&C 42]] — 3 footnote cross-references (from [[D&C 39#^dc-39-6|D&C 39:6]])
+- [[D&C 20]] — 2 footnote cross-references (from [[D&C 39#^dc-39-1|D&C 39:1]])
+- [[D&C 38]] — 2 footnote cross-references (from [[D&C 39#^dc-39-1|D&C 39:1]])
+- [[Moses 7]] — 2 footnote cross-references (from [[D&C 39#^dc-39-3|D&C 39:3]])
+- [[D&C 40]] — 2 footnote cross-references (from [[D&C 39#^dc-39-7|D&C 39:7]])
 - [[D&C 45]] — 3 parallel verses, e.g. [[D&C 39#^dc-39-2|D&C 39:2]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[D&C 34]] — 1 parallel verse, e.g. [[D&C 39#^dc-39-2|D&C 39:2]] ↔ [[D&C 34#^dc-34-2|D&C 34:2]]
 - [[2 Nephi 29]] — 3 parallel verses, e.g. [[D&C 39#^dc-39-11|D&C 39:11]] ↔ [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]]
+- [[D&C 6]] — 2 parallel verses, e.g. [[D&C 39#^dc-39-2|D&C 39:2]] ↔ [[D&C 6#^dc-6-21|D&C 6:21]]
 - [[D&C 36]] — 2 parallel verses, e.g. [[D&C 39#^dc-39-19|D&C 39:19]] ↔ [[D&C 36#^dc-36-3|D&C 36:3]]
 - [[D&C 10]] — 2 parallel verses, e.g. [[D&C 39#^dc-39-2|D&C 39:2]] ↔ [[D&C 10#^dc-10-58|D&C 10:58]]
 - [[3 Nephi 11]] — 2 parallel verses, e.g. [[D&C 39#^dc-39-19|D&C 39:19]] ↔ [[3 Nephi 11#^3ne-11-17|3 Nephi 11:17]]
@@ -48,7 +55,6 @@ _Not yet developed._
 - [[2 Nephi 31]] — 2 parallel verses, e.g. [[D&C 39#^dc-39-6|D&C 39:6]] ↔ [[2 Nephi 31#^2ne-31-17|2 Nephi 31:17]]
 - [[Alma 5]] — 2 parallel verses, e.g. [[D&C 39#^dc-39-7|D&C 39:7]] ↔ [[Alma 5#^alma-5-6|Alma 5:6]]
 - [[John 13]] — 1 parallel verse, e.g. [[D&C 39#^dc-39-5|D&C 39:5]] ↔ [[John 13#^john-13-20|John 13:20]]
-- [[D&C 88]] — 1 parallel verse, e.g. [[D&C 39#^dc-39-2|D&C 39:2]] ↔ [[D&C 88#^dc-88-49|D&C 88:49]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

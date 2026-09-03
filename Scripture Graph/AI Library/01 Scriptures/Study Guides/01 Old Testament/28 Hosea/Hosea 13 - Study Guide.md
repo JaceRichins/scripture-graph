@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 13
 slug: hosea-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -63,13 +63,14 @@ _Not yet developed._
 - [[1 Samuel 10]] — 0 parallel verses
 - [[2 Kings 17]] — 0 parallel verses
 - [[1 Corinthians 15]] — 0 parallel verses
+- [[Psalm 49]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Pride]]
 - [[Exodus and Deliverance]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

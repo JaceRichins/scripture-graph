@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 8
 slug: josh-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -68,10 +68,11 @@ Joshua 8 narrates a renewed campaign against Ai after Israel's earlier defeat. A
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Law of Moses]]
 - [[Covenants]]
 - [[Records and Sacred Writings]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Honesty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -91,7 +92,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

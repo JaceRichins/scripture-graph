@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 7
 slug: rom-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Alma 42]] — 2 footnote cross-references (from [[Romans 7#^rom-7-5|Romans 7:5]])
 - [[Galatians 2]] — 1 footnote cross-reference (from [[Romans 7#^rom-7-4|Romans 7:4]])
 - [[D&C 74]] — 1 footnote cross-reference (from [[Romans 7#^rom-7-4|Romans 7:4]])
+- [[2 Nephi 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,7 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Atonement** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

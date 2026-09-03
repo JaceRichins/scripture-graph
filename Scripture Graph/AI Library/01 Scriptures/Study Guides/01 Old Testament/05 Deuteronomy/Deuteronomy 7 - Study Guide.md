@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 7
 slug: deut-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,8 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[Redemption (Elder LeGrand R. Curtis Jr., October 2011)|Redemption]] — Elder LeGrand R. Curtis Jr., 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

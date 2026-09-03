@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 27
 slug: isa-27
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[Ether 13]] — 1 footnote cross-reference (from [[Isaiah 27#^isa-27-6|Isaiah 27:6]])
 - [[Isaiah 7]] — 6 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
 - [[2 Nephi 24]] — 5 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
+- [[Zechariah 14]] — 4 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
 - [[Isaiah 10]] — 4 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[2 Nephi 20]] — 4 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
 - [[2 Nephi 17]] — 2 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
@@ -65,7 +66,6 @@ _Not yet developed._
 - [[Joel 3]] — 2 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[Joel 3#^joel-3-18|Joel 3:18]]
 - [[Zechariah 13]] — 2 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]]
-- [[Zechariah 12]] — 2 parallel verses, e.g. [[Isaiah 27#^isa-27-12|Isaiah 27:12]] ↔ [[Zechariah 12#^zech-12-9|Zechariah 12:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

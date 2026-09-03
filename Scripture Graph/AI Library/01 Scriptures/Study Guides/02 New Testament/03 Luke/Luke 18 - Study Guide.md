@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 18
 slug: luke-18
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[Mark 9]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-29|Luke 18:29]] ↔ [[Mark 9#^mark-9-1|Mark 9:1]]
 - [[Matthew 9]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-38|Luke 18:38]] ↔ [[Matthew 9#^matt-9-27|Matthew 9:27]]
 - [[Luke 10]] — 1 parallel verse, e.g. [[Luke 18#^luke-18-18|Luke 18:18]] ↔ [[Luke 10#^luke-10-25|Luke 10:25]]
+- [[2 Nephi 32]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -88,6 +89,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Sacrifice** (reference-entry) *(explicit citation)*
+- **Adultery** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

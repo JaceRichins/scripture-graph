@@ -29,7 +29,7 @@ cssclasses:
 > [[Mark 9#^mark-9-5|≈ Mark 9:5]] · [[Luke 9#^luke-9-33|≈ Luke 9:33]]
 
 ![[Matthew 17#^matt-17-5]]
-> [[Exodus 24#^ex-24-15|Ex. 24:15]] · [[Matthew 3#^matt-3-17|Matt. 3:17]] · [[3 Nephi 11#^3ne-11-7|3 Ne. 11:7]] · [[Joseph Smith—History 1#^jsh-1-17|JS—H 1:17]] · [[Matthew 3#^matt-3-17|≈ Matthew 3:17]] · [[Luke 9#^luke-9-35|≈ Luke 9:35]] · [[2 Peter 1#^2pet-1-17|≈ 2 Peter 1:17]] · [[Mark 1#^mark-1-11|≈ Mark 1:11]] · [[3 Nephi 11#^3ne-11-7|≈ 3 Nephi 11:7]]
+> [[Exodus 24#^ex-24-15|Ex. 24:15]] · [[Matthew 3#^matt-3-17|Matt. 3:17]] · [[3 Nephi 11#^3ne-11-7|3 Ne. 11:7]] · [[Joseph Smith—History 1#^jsh-1-17|JS—H 1:17]] · [[Matthew 3#^matt-3-17|≈ Matthew 3:17]] · [[2 Peter 1#^2pet-1-17|≈ 2 Peter 1:17]] · [[3 Nephi 11#^3ne-11-7|≈ 3 Nephi 11:7]] · [[Luke 9#^luke-9-35|≈ Luke 9:35]] · [[Mark 1#^mark-1-11|≈ Mark 1:11]]
 
 ![[Matthew 17#^matt-17-6]]
 > [[Exodus 3#^ex-3-6|Ex. 3:6]] · [[Deuteronomy 5#^deut-5-5|Deut. 5:5]]

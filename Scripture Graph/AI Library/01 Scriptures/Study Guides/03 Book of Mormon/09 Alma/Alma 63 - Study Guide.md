@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 63
 slug: alma-63
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Truly Good and without Guile (Elder Michael T. Ringwood, April 2015)|Truly Good and without Guile]] — Elder Michael T. Ringwood, 2015-April *(explicit citation)*
+- [[“Come unto Me, O Ye House of Israel” (Elder Larry Echo Hawk, October 2012)|“Come unto Me, O Ye House of Israel”]] — Elder Larry Echo Hawk, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

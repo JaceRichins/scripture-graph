@@ -35,6 +35,7 @@ _Not yet developed._
 - [[2 Nephi 5]]
 - [[1 Nephi 16]]
 - [[D&C 17]]
+- [[1 Nephi 18]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

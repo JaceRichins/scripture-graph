@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 92
 slug: dc-92
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 92]] · My notes: [[D&C 92 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–2, The Lord gives a commandment relative to admission to the united order.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -37,6 +38,9 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 82]] — 1 footnote cross-reference (from [[D&C 92#^dc-92-1|D&C 92:1]])
+- [[D&C 96]] — 1 footnote cross-reference (from [[D&C 92#^dc-92-1|D&C 92:1]])
+- [[D&C 90]] — 1 footnote cross-reference (from [[D&C 92#^dc-92-1|D&C 92:1]])
 - [[D&C 93]] — 2 parallel verses, e.g. [[D&C 92#^dc-92-2|D&C 92:2]] ↔ [[D&C 93#^dc-93-41|D&C 93:41]]
 - [[D&C 61]] — 2 parallel verses, e.g. [[D&C 92#^dc-92-1|D&C 92:1]] ↔ [[D&C 61#^dc-61-18|D&C 61:18]]
 - [[Joseph Smith—Matthew 1]] — 1 parallel verse, e.g. [[D&C 92#^dc-92-1|D&C 92:1]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-46|Joseph Smith—Matthew 1:46]]

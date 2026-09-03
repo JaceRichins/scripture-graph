@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 26
 slug: num-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ Scripture: [[Numbers 26]] · My notes: [[Numbers 26 - My Notes]]
 - [[Genesis 42]] — 1 footnote cross-reference (from [[Numbers 26#^num-26-5|Numbers 26:5]])
 - [[Joshua 13]] — 1 footnote cross-reference (from [[Numbers 26#^num-26-5|Numbers 26:5]])
 - [[Numbers 2]] — 12 parallel verses, e.g. [[Numbers 26#^num-26-41|Numbers 26:41]] ↔ [[Numbers 2#^num-2-15|Numbers 2:15]]
+- [[Numbers 3]] — 11 parallel verses, e.g. [[Numbers 26#^num-26-61|Numbers 26:61]] ↔ [[Numbers 3#^num-3-4|Numbers 3:4]]
 - [[Numbers 33]] — 5 parallel verses, e.g. [[Numbers 26#^num-26-4|Numbers 26:4]] ↔ [[Numbers 33#^num-33-1|Numbers 33:1]]
 - [[Numbers 36]] — 2 parallel verses, e.g. [[Numbers 26#^num-26-63|Numbers 26:63]] ↔ [[Numbers 36#^num-36-13|Numbers 36:13]]
 - [[Numbers 1]] — 3 parallel verses, e.g. [[Numbers 26#^num-26-2|Numbers 26:2]] ↔ [[Numbers 1#^num-1-2|Numbers 1:2]]
@@ -72,7 +73,6 @@ Scripture: [[Numbers 26]] · My notes: [[Numbers 26 - My Notes]]
 - [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 26#^num-26-2|Numbers 26:2]] ↔ [[Exodus 35#^ex-35-1|Exodus 35:1]]
 - [[Genesis 10]] — 2 parallel verses, e.g. [[Numbers 26#^num-26-37|Numbers 26:37]] ↔ [[Genesis 10#^gen-10-32|Genesis 10:32]]
 - [[Numbers 4]] — 2 parallel verses, e.g. [[Numbers 26#^num-26-57|Numbers 26:57]] ↔ [[Numbers 4#^num-4-41|Numbers 4:41]]
-- [[Exodus 16]] — 2 parallel verses, e.g. [[Numbers 26#^num-26-2|Numbers 26:2]] ↔ [[Exodus 16#^ex-16-1|Exodus 16:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

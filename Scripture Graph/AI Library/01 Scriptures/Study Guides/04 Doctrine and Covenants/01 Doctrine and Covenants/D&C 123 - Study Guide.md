@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 123
 slug: dc-123
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Colossians 2]] — 2 footnote cross-references (from [[D&C 123#^dc-123-12|D&C 123:12]])
+- [[D&C 69]] — 1 footnote cross-reference (from [[D&C 123#^dc-123-1|D&C 123:1]])
+- [[Ezra 4]] — 1 footnote cross-reference (from [[D&C 123#^dc-123-1|D&C 123:1]])
+- [[Ezra 5]] — 1 footnote cross-reference (from [[D&C 123#^dc-123-6|D&C 123:6]])
+- [[D&C 101]] — 1 footnote cross-reference (from [[D&C 123#^dc-123-6|D&C 123:6]])
+- [[D&C 121]] — 1 footnote cross-reference (from [[D&C 123#^dc-123-6|D&C 123:6]])
 - [[D&C 101]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -79,6 +85,7 @@ Verse 17 places [[Agency]] and [[Faith]] in sequence: people are to act cheerful
 ## Church History
 <!-- SG:BEGIN history -->
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
+- **33 O God, Where Art Thou?** (history) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*

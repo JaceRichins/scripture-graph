@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 1
 slug: 1jn-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

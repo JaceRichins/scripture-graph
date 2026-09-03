@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 26
 slug: lev-26
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,8 @@ _Not yet developed._
 - [[Ezekiel 6]] — 2 parallel verses, e.g. [[Leviticus 26#^lev-26-25|Leviticus 26:25]] ↔ [[Ezekiel 6#^ezek-6-3|Ezekiel 6:3]]
 - [[Numbers 15]] — 1 parallel verse, e.g. [[Leviticus 26#^lev-26-13|Leviticus 26:13]] ↔ [[Numbers 15#^num-15-41|Numbers 15:41]]
 - [[Amos 4]] — 0 parallel verses
+- [[Ezekiel 5]] — 0 parallel verses
+- [[Lamentations 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,6 +75,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

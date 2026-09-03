@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 39
 slug: alma-39
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Be True to God and His Work (Elder Quentin L. Cook, October 2022)|Be True to God and His Work]] — Elder Quentin L. Cook, 2022-October *(explicit citation)*
+- [[Can Ye Feel So Now (Elder Quentin L. Cook, October 2012)|Can Ye Feel So Now?]] — Elder Quentin L. Cook, 2012-October *(explicit citation)*
 - [[Truly Good and without Guile (Elder Michael T. Ringwood, April 2015)|Truly Good and without Guile]] — Elder Michael T. Ringwood, 2015-April *(explicit citation)*
 - [[Fathers (Elder D. Todd Christofferson, April 2016)|Fathers]] — Elder D. Todd Christofferson, 2016-April *(explicit citation)*
 - [[Essential Conversations (Joy D. Jones, April 2021)|Essential Conversations]] — Joy D. Jones, 2021-April *(explicit citation)*
@@ -76,8 +77,7 @@ _Not yet developed._
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[Power in the Priesthood (Elder Neil L. Andersen, October 2013)|Power in the Priesthood]] — Elder Neil L. Andersen, 2013-October *(explicit citation)*
-- [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
-- [[He Is Risen with Healing in His Wings We Can Be More Than Conquerors (Elder Patrick Kearon, April 2022)|He Is Risen with Healing in His Wings: We Can Be More Than Conquerors]] — Elder Patrick Kearon, 2022-April *(explicit citation)*
+- [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 10
 slug: eccl-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Proverbs 10]] — 1 footnote cross-reference (from [[Ecclesiastes 10#^eccl-10-12|Ecclesiastes 10:12]])
 - [[2 Nephi 9]] — 1 footnote cross-reference (from [[Ecclesiastes 10#^eccl-10-12|Ecclesiastes 10:12]])
 - [[Ecclesiastes 6]] — 1 parallel verse, e.g. [[Ecclesiastes 10#^eccl-10-5|Ecclesiastes 10:5]] ↔ [[Ecclesiastes 6#^eccl-6-1|Ecclesiastes 6:1]]
+- [[Proverbs 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

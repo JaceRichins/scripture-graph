@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 16
 slug: 1cor-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,9 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Almsgiving** (reference-entry) *(explicit citation)*
+- **Apollos** (reference-entry) *(explicit citation)*
+- **Aquila** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

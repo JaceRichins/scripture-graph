@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 23
 slug: luke-23
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Mark 15]] — 2 parallel verses, e.g. [[Luke 23#^luke-23-45|Luke 23:45]] ↔ [[Mark 15#^mark-15-38|Mark 15:38]]
 - [[2 Chronicles 3]] — 1 parallel verse, e.g. [[Luke 23#^luke-23-33|Luke 23:33]] ↔ [[2 Chronicles 3#^2chr-3-17|2 Chronicles 3:17]]
 - [[Matthew 26]] — 1 parallel verse, e.g. [[Luke 23#^luke-23-43|Luke 23:43]] ↔ [[Matthew 26#^matt-26-34|Matthew 26:34]]
+- [[Acts 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,6 +92,7 @@ _Not yet developed._
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
+- **Arimathea** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

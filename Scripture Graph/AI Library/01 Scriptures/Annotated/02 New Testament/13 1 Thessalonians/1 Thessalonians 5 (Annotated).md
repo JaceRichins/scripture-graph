@@ -79,4 +79,4 @@ cssclasses:
 ![[1 Thessalonians 5#^1thes-5-27]]
 
 ![[1 Thessalonians 5#^1thes-5-28]]
-> [[Romans 16#^rom-16-20|≈ Romans 16:20]] · [[Romans 16#^rom-16-24|≈ Romans 16:24]] · [[Galatians 6#^gal-6-18|≈ Galatians 6:18]] · [[Philippians 4#^philip-4-23|≈ Philippians 4:23]] · [[2 Thessalonians 3#^2thes-3-18|≈ 2 Thessalonians 3:18]] · [[Philemon 1#^philem-1-25|≈ Philemon 1:25]]
+> [[Romans 16#^rom-16-20|≈ Romans 16:20]] · [[Romans 16#^rom-16-24|≈ Romans 16:24]] · [[Galatians 6#^gal-6-18|≈ Galatians 6:18]] · [[2 Thessalonians 3#^2thes-3-18|≈ 2 Thessalonians 3:18]] · [[Philemon 1#^philem-1-25|≈ Philemon 1:25]] · [[Revelation 22#^rev-22-21|≈ Revelation 22:21]]

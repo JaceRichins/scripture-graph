@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 1
 slug: 1pet-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[John 6]] — 1 footnote cross-reference (from [[1 Peter 1#^1pet-1-2|1 Peter 1:2]])
 - [[Isaiah 52]] — 1 footnote cross-reference (from [[1 Peter 1#^1pet-1-2|1 Peter 1:2]])
 - [[Exodus 24]] — 1 footnote cross-reference (from [[1 Peter 1#^1pet-1-2|1 Peter 1:2]])
+- [[Ephesians 1]] — 1 parallel verse, e.g. [[1 Peter 1#^1pet-1-3|1 Peter 1:3]] ↔ [[Ephesians 1#^eph-1-3|Ephesians 1:3]]
 - [[2 Corinthians 11]] — 1 parallel verse, e.g. [[1 Peter 1#^1pet-1-3|1 Peter 1:3]] ↔ [[2 Corinthians 11#^2cor-11-31|2 Corinthians 11:31]]
 - [[Isaiah 40]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -78,6 +79,7 @@ The prophets searched concerning the promised salvation, and the “Spirit of Ch
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Trial of Your Faith (Elder Neil L. Andersen, October 2012)|Trial of Your Faith]] — Elder Neil L. Andersen, 2012-October *(explicit citation)*
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
 - [[Drawing the Power of Jesus Christ into Our Lives (President Russell M. Nelson, April 2017)|Drawing the Power of Jesus Christ into Our Lives]] — President Russell M. Nelson, 2017-April *(explicit citation)*
@@ -87,7 +89,6 @@ The prophets searched concerning the promised salvation, and the “Spirit of Ch
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[Be Perfected in Him (Elder Paul V. Johnson, October 2022)|Be Perfected in Him]] — Elder Paul V. Johnson, 2022-October *(explicit citation)*
 - [[“There Can Be Nothing So Exquisite and Sweet as Was My Joy” (Elder Craig C. Christensen, April 2023)|“There Can Be Nothing So Exquisite and Sweet as Was My Joy”]] — Elder Craig C. Christensen, 2023-April *(explicit citation)*
-- [[The Prodigal and the Road That Leads Home (Elder Dieter F. Uchtdorf, October 2023)|The Prodigal and the Road That Leads Home]] — Elder Dieter F. Uchtdorf, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

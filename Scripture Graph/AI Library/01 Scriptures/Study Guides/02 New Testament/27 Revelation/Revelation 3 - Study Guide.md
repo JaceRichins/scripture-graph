@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 3
 slug: rev-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Luke 21]] — 1 footnote cross-reference (from [[Revelation 3#^rev-3-3|Revelation 3:3]])
 - [[Revelation 16]] — 1 footnote cross-reference (from [[Revelation 3#^rev-3-3|Revelation 3:3]])
 - [[Revelation 2]] — 22 parallel verses, e.g. [[Revelation 3#^rev-3-6|Revelation 3:6]] ↔ [[Revelation 2#^rev-2-7|Revelation 2:7]]
+- [[Revelation 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,6 +78,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
+- **Amen** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

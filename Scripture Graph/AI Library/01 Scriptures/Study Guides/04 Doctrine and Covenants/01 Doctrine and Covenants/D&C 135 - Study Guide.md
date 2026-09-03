@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 135
 slug: dc-135
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,12 @@ D&C 135 is a memorial announcement of the deaths of Joseph and Hyrum Smith at Ca
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Hebrews 9]] — 2 footnote cross-references (from [[D&C 135#^dc-135-5|D&C 135:5]])
+- [[D&C 5]] — 1 footnote cross-reference (from [[D&C 135#^dc-135-1|D&C 135:1]])
+- [[D&C 6]] — 1 footnote cross-reference (from [[D&C 135#^dc-135-1|D&C 135:1]])
+- [[Joseph Smith—History 1]] — 1 footnote cross-reference (from [[D&C 135#^dc-135-1|D&C 135:1]])
+- [[Psalm 38]] — 1 footnote cross-reference (from [[D&C 135#^dc-135-1|D&C 135:1]])
+- [[Psalm 71]] — 1 footnote cross-reference (from [[D&C 135#^dc-135-1|D&C 135:1]])
 - [[Ether 12]] — 3 parallel verses, e.g. [[D&C 135#^dc-135-5|D&C 135:5]] ↔ [[Ether 12#^ether-12-37|Ether 12:37]]
 - [[D&C 136]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -79,11 +85,11 @@ The chapter presents sacred witness as something that may carry mortal cost. Its
 - **Remembering the Martyrdom** (history) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
+- **44 A Lamb to the Slaughter** (history) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Mormonism** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
-- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

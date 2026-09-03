@@ -99,7 +99,7 @@ cssclasses:
 ![[Leviticus 25#^lev-25-37]]
 
 ![[Leviticus 25#^lev-25-38]]
-> [[Numbers 15#^num-15-41|≈ Numbers 15:41]] · [[Leviticus 26#^lev-26-13|≈ Leviticus 26:13]] · [[Leviticus 19#^lev-19-36|≈ Leviticus 19:36]] · [[Leviticus 20#^lev-20-24|≈ Leviticus 20:24]]
+> [[Leviticus 26#^lev-26-13|≈ Leviticus 26:13]] · [[Numbers 15#^num-15-41|≈ Numbers 15:41]] · [[Leviticus 19#^lev-19-36|≈ Leviticus 19:36]] · [[Leviticus 20#^lev-20-24|≈ Leviticus 20:24]]
 
 ![[Leviticus 25#^lev-25-39]]
 > [[Deuteronomy 15#^deut-15-12|Deut. 15:12 (12–18)]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 5
 slug: ezek-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 20#^ezek-20-33|Ezekiel 20:33]]
 - [[Ezekiel 14]] — 3 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
 - [[Ezekiel 34]] — 2 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 34#^ezek-34-8|Ezekiel 34:8]]
+- [[Ezekiel 22]] — 2 parallel verses, e.g. [[Ezekiel 5#^ezek-5-13|Ezekiel 5:13]] ↔ [[Ezekiel 22#^ezek-22-22|Ezekiel 22:22]]
 - [[Ezekiel 35]] — 2 parallel verses, e.g. [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
 - [[Ezekiel 14]] — 0 parallel verses
 - [[Ezekiel 4]] — 0 parallel verses

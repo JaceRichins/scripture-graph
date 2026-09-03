@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 25
 slug: deut-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Mercy Thompson and the Revelation on Marriage** (history) *(explicit citation)*
+- **Agriculture** (reference-entry) *(explicit citation)*
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

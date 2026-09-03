@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 2
 slug: mark-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Abiathar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

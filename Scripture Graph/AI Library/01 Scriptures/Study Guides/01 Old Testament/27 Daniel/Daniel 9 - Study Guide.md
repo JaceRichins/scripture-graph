@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 9
 slug: dan-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[1 Corinthians 9]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]]
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
 - [[Jeremiah 11]] — 1 parallel verse, e.g. [[Daniel 9#^dan-9-7|Daniel 9:7]] ↔ [[Jeremiah 11#^jer-11-2|Jeremiah 11:2]]
+- [[Daniel 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,7 +80,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

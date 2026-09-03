@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 49
 slug: ps-49
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -68,7 +68,7 @@ The psalm's central doctrinal contribution is a sharp contrast between what weal
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Redemption (Elder LeGrand R. Curtis Jr., October 2011)|Redemption]] — Elder LeGrand R. Curtis Jr., 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

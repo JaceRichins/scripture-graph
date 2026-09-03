@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 42
 slug: jer-42
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ The repeated phrase "from the least even unto the greatest" (vv. 1, 8) marks the
 - [[2 Nephi 33]] — 1 footnote cross-reference (from [[Jeremiah 42#^jer-42-4|Jeremiah 42:4]])
 - [[Enos 1]] — 1 footnote cross-reference (from [[Jeremiah 42#^jer-42-4|Jeremiah 42:4]])
 - [[Revelation 1]] — 1 footnote cross-reference (from [[Jeremiah 42#^jer-42-5|Jeremiah 42:5]])
+- [[Jeremiah 44]] — 12 parallel verses, e.g. [[Jeremiah 42#^jer-42-18|Jeremiah 42:18]] ↔ [[Jeremiah 44#^jer-44-12|Jeremiah 44:12]]
 - [[Jeremiah 43]] — 8 parallel verses, e.g. [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]] ↔ [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]]
 - [[Jeremiah 41]] — 6 parallel verses, e.g. [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]] ↔ [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]]
 - [[Jeremiah 27]] — 6 parallel verses, e.g. [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]] ↔ [[Jeremiah 27#^jer-27-13|Jeremiah 27:13]]
@@ -59,10 +60,9 @@ The repeated phrase "from the least even unto the greatest" (vv. 1, 8) marks the
 - [[Jeremiah 38]] — 4 parallel verses, e.g. [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]] ↔ [[Jeremiah 38#^jer-38-2|Jeremiah 38:2]]
 - [[Jeremiah 35]] — 6 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
 - [[Jeremiah 40]] — 3 parallel verses, e.g. [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]] ↔ [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]]
+- [[Jeremiah 7]] — 4 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
 - [[Jeremiah 19]] — 4 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 19#^jer-19-3|Jeremiah 19:3]]
 - [[Jeremiah 28]] — 4 parallel verses, e.g. [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
-- [[Ezekiel 6]] — 2 parallel verses, e.g. [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]] ↔ [[Ezekiel 6#^ezek-6-11|Ezekiel 6:11]]
-- [[Jeremiah 34]] — 3 parallel verses, e.g. [[Jeremiah 42#^jer-42-9|Jeremiah 42:9]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

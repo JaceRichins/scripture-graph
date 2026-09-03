@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 1
 slug: song-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

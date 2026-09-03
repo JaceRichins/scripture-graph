@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 43
 slug: gen-43
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

@@ -24,7 +24,7 @@ cssclasses:
 ![[Titus 1#^titus-1-3]]
 
 ![[Titus 1#^titus-1-4]]
-> [[Ephesians 6#^eph-6-23|≈ Ephesians 6:23]] · [[2 Timothy 1#^2tim-1-2|≈ 2 Timothy 1:2]]
+> [[2 Timothy 1#^2tim-1-2|≈ 2 Timothy 1:2]] · [[Ephesians 6#^eph-6-23|≈ Ephesians 6:23]]
 
 ![[Titus 1#^titus-1-5]]
 

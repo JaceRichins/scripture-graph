@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 51
 slug: jer-51
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ Scripture: [[Jeremiah 51]] · My notes: [[Jeremiah 51 - My Notes]]
 - [[Jeremiah 4]] — 1 footnote cross-reference (from [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]])
 - [[Isaiah 41]] — 1 footnote cross-reference (from [[Jeremiah 51#^jer-51-2|Jeremiah 51:2]])
 - [[Jeremiah 15]] — 1 footnote cross-reference (from [[Jeremiah 51#^jer-51-2|Jeremiah 51:2]])
+- [[Jeremiah 10]] — 7 parallel verses, e.g. [[Jeremiah 51#^jer-51-16|Jeremiah 51:16]] ↔ [[Jeremiah 10#^jer-10-13|Jeremiah 10:13]]
 - [[Jeremiah 32]] — 8 parallel verses, e.g. [[Jeremiah 51#^jer-51-59|Jeremiah 51:59]] ↔ [[Jeremiah 32#^jer-32-12|Jeremiah 32:12]]
 - [[Jeremiah 31]] — 5 parallel verses, e.g. [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
 - [[Jeremiah 29]] — 6 parallel verses, e.g. [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]] ↔ [[Jeremiah 29#^jer-29-32|Jeremiah 29:32]]
@@ -62,15 +63,14 @@ Scripture: [[Jeremiah 51]] · My notes: [[Jeremiah 51 - My Notes]]
 - [[Jeremiah 7]] — 3 parallel verses, e.g. [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]] ↔ [[Jeremiah 7#^jer-7-32|Jeremiah 7:32]]
 - [[Jeremiah 19]] — 3 parallel verses, e.g. [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]] ↔ [[Jeremiah 19#^jer-19-6|Jeremiah 19:6]]
 - [[Jeremiah 42]] — 3 parallel verses, e.g. [[Jeremiah 51#^jer-51-64|Jeremiah 51:64]] ↔ [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]]
-- [[Jeremiah 23]] — 2 parallel verses, e.g. [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Prophecy]]
 - [[Records and Sacred Writings]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

@@ -22,7 +22,7 @@ cssclasses:
 > [[2 Samuel 5#^2sam-5-13|2 Sam. 5:13]] · [[1 Chronicles 3#^1chr-3-1|1 Chr. 3:1 (1–4)]] · [[1 Samuel 14#^1sam-14-50|1 Sam. 14:50]] · [[1 Samuel 25#^1sam-25-43|25:43]]
 
 ![[2 Samuel 3#^2sam-3-3]]
-> [[2 Samuel 13#^2sam-13-1|2 Sam. 13:1]] · [[Deuteronomy 3#^deut-3-14|Deut. 3:14]] · [[2 Samuel 14#^2sam-14-23|2 Sam. 14:32 (23, 32)]] · [[2 Samuel 15#^2sam-15-8|15:8]] · [[1 Samuel 30#^1sam-30-5|≈ 1 Samuel 30:5]] · [[1 Chronicles 3#^1chr-3-2|≈ 1 Chronicles 3:2]]
+> [[2 Samuel 13#^2sam-13-1|2 Sam. 13:1]] · [[Deuteronomy 3#^deut-3-14|Deut. 3:14]] · [[2 Samuel 14#^2sam-14-23|2 Sam. 14:32 (23, 32)]] · [[2 Samuel 15#^2sam-15-8|15:8]] · [[1 Chronicles 3#^1chr-3-2|≈ 1 Chronicles 3:2]] · [[1 Samuel 30#^1sam-30-5|≈ 1 Samuel 30:5]]
 
 ![[2 Samuel 3#^2sam-3-4]]
 > [[1 Kings 1#^1kgs-1-5|1 Kgs. 1:5]] · [[1 Chronicles 3#^1chr-3-2|≈ 1 Chronicles 3:2]]

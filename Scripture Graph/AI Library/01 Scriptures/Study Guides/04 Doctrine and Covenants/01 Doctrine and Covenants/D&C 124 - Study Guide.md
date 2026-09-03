@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 124
 slug: dc-124
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -61,18 +61,24 @@ A text-sensitive outline is:
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 107]] — 10 footnote cross-references (from [[D&C 124#^dc-124-91|D&C 124:91]])
+- [[D&C 90]] — 5 footnote cross-references (from [[D&C 124#^dc-124-39|D&C 124:39]])
+- [[Isaiah 60]] — 4 footnote cross-references (from [[D&C 124#^dc-124-9|D&C 124:9]])
+- [[1 Kings 6]] — 4 footnote cross-references (from [[D&C 124#^dc-124-26|D&C 124:26]])
+- [[D&C 1]] — 3 footnote cross-references (from [[D&C 124#^dc-124-1|D&C 124:1]])
+- [[Isaiah 40]] — 3 footnote cross-references (from [[D&C 124#^dc-124-7|D&C 124:7]])
 - [[D&C 52]] — 15 parallel verses, e.g. [[D&C 124#^dc-124-62|D&C 124:62]] ↔ [[D&C 52#^dc-52-7|D&C 52:7]]
 - [[D&C 57]] — 14 parallel verses, e.g. [[D&C 124#^dc-124-91|D&C 124:91]] ↔ [[D&C 57#^dc-57-11|D&C 57:11]]
+- [[D&C 128]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-93|D&C 124:93]] ↔ [[D&C 128#^dc-128-8|D&C 128:8]]
+- [[D&C 97]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-13|D&C 124:13]] ↔ [[D&C 97#^dc-97-5|D&C 97:5]]
 - [[3 Nephi 12]] — 6 parallel verses, e.g. [[D&C 124#^dc-124-131|D&C 124:131]] ↔ [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]]
 - [[3 Nephi 21]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-4|D&C 124:4]] ↔ [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]]
 - [[D&C 38]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-131|D&C 124:131]] ↔ [[D&C 38#^dc-38-40|D&C 38:40]]
 - [[D&C 82]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-131|D&C 124:131]] ↔ [[D&C 82#^dc-82-8|D&C 82:8]]
 - [[D&C 132]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-1|D&C 124:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
 - [[D&C 117]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-59|D&C 124:59]] ↔ [[D&C 117#^dc-117-12|D&C 117:12]]
+- [[Matthew 18]] — 1 parallel verse, e.g. [[D&C 124#^dc-124-93|D&C 124:93]] ↔ [[Matthew 18#^matt-18-18|Matthew 18:18]]
 - [[D&C 42]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-106|D&C 124:106]] ↔ [[D&C 42#^dc-42-6|D&C 42:6]]
-- [[D&C 45]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-45|D&C 124:45]] ↔ [[D&C 45#^dc-45-57|D&C 45:57]]
-- [[Moroni 10]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-4|D&C 124:4]] ↔ [[Moroni 10#^moro-10-5|Moroni 10:5]]
-- [[Matthew 16]] — 1 parallel verse, e.g. [[D&C 124#^dc-124-93|D&C 124:93]] ↔ [[Matthew 16#^matt-16-19|Matthew 16:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -112,15 +118,15 @@ Priesthood authority is organized through differentiated offices and quorums. Th
 ## Church History
 <!-- SG:BEGIN history -->
 - **Organizing the Church in Nauvoo** (history) *(explicit citation)*
+- **35 A Beautiful Place** (history) *(explicit citation)*
 - **The Messenger and the Manifesto** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **37 We Will Prove Them** (history) *(explicit citation)*
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
 - **The Manifesto and the End of Plural Marriage** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **The Role of Prophets** (reference-entry) *(explicit citation)*
-- **Temples of The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

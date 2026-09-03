@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 68
 slug: ps-68
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Micah 1]] — 1 footnote cross-reference (from [[Psalm 68#^ps-68-2|Psalm 68:2]])
 - [[Matthew 13]] — 1 footnote cross-reference (from [[Psalm 68#^ps-68-3|Psalm 68:3]])
 - [[Psalm 10]] — 1 footnote cross-reference (from [[Psalm 68#^ps-68-5|Psalm 68:5]])
+- [[Numbers 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

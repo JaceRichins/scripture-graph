@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 63
 slug: dc-63
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,18 +53,24 @@ This division is an organizational aid rather than a claim that the revelation h
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 88]] — 6 footnote cross-references (from [[D&C 63#^dc-63-11|D&C 63:11]])
+- [[D&C 101]] — 6 footnote cross-references (from [[D&C 63#^dc-63-20|D&C 63:20]])
+- [[D&C 58]] — 6 footnote cross-references (from [[D&C 63#^dc-63-24|D&C 63:24]])
+- [[D&C 45]] — 5 footnote cross-references (from [[D&C 63#^dc-63-27|D&C 63:27]])
+- [[D&C 42]] — 4 footnote cross-references (from [[D&C 63#^dc-63-14|D&C 63:14]])
+- [[D&C 35]] — 3 footnote cross-references (from [[D&C 63#^dc-63-11|D&C 63:11]])
+- [[D&C 72]] — 4 parallel verses, e.g. [[D&C 63#^dc-63-24|D&C 63:24]] ↔ [[D&C 72#^dc-72-8|D&C 72:8]]
+- [[Moses 7]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-53|D&C 63:53]] ↔ [[Moses 7#^moses-7-47|Moses 7:47]]
+- [[Joseph Smith—Matthew 1]] — 4 parallel verses, e.g. [[D&C 63#^dc-63-53|D&C 63:53]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-26|Joseph Smith—Matthew 1:26]]
+- [[D&C 64]] — 3 parallel verses, e.g. [[D&C 63#^dc-63-41|D&C 63:41]] ↔ [[D&C 64#^dc-64-26|D&C 64:26]]
 - [[D&C 130]] — 3 parallel verses, e.g. [[D&C 63#^dc-63-53|D&C 63:53]] ↔ [[D&C 130#^dc-130-14|D&C 130:14]]
 - [[D&C 52]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-65|D&C 63:65]] ↔ [[D&C 52#^dc-52-3|D&C 52:3]]
 - [[D&C 57]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-56|D&C 63:56]] ↔ [[D&C 57#^dc-57-6|D&C 57:6]]
+- [[Revelation 21]] — 1 parallel verse, e.g. [[D&C 63#^dc-63-17|D&C 63:17]] ↔ [[Revelation 21#^rev-21-8|Revelation 21:8]]
 - [[Matthew 24]] — 3 parallel verses, e.g. [[D&C 63#^dc-63-53|D&C 63:53]] ↔ [[Matthew 24#^matt-24-27|Matthew 24:27]]
 - [[D&C 42]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-16|D&C 63:16]] ↔ [[D&C 42#^dc-42-23|D&C 42:23]]
 - [[D&C 75]] — 1 parallel verse, e.g. [[D&C 63#^dc-63-24|D&C 63:24]] ↔ [[D&C 75#^dc-75-12|D&C 75:12]]
 - [[D&C 90]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-41|D&C 63:41]] ↔ [[D&C 90#^dc-90-30|D&C 90:30]]
-- [[D&C 104]] — 1 parallel verse, e.g. [[D&C 63#^dc-63-58|D&C 63:58]] ↔ [[D&C 104#^dc-104-6|D&C 104:6]]
-- [[D&C 61]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-53|D&C 63:53]] ↔ [[D&C 61#^dc-61-38|D&C 61:38]]
-- [[D&C 103]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-41|D&C 63:41]] ↔ [[D&C 103#^dc-103-30|D&C 103:30]]
-- [[Mosiah 4]] — 1 parallel verse, e.g. [[D&C 63#^dc-63-16|D&C 63:16]] ↔ [[Mosiah 4#^mosiah-4-11|Mosiah 4:11]]
-- [[3 Nephi 28]] — 1 parallel verse, e.g. [[D&C 63#^dc-63-51|D&C 63:51]] ↔ [[3 Nephi 28#^3ne-28-8|3 Nephi 28:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,6 +92,7 @@ The chapter's theology of signs is carefully ordered: [[Faith]] does not arise f
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
 - [[Missionary Service Blessed My Life Forever (President M. Russell Ballard, April 2022)|Missionary Service Blessed My Life Forever]] — President M. Russell Ballard, 2022-April *(explicit citation)*
@@ -93,6 +100,7 @@ The chapter's theology of signs is carefully ordered: [[Faith]] does not arise f
 - [[The Eternal Gift of Testimony (Elder Kevin G. Brown, October 2025)|The Eternal Gift of Testimony]] — Elder Kevin G. Brown, 2025-October *(explicit citation)*
 - [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[To Hold Sacred (Elder Paul B. Pieper, April 2012)|To Hold Sacred]] — Elder Paul B. Pieper, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

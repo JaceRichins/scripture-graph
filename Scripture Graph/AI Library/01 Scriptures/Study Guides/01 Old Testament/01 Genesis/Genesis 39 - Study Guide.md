@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 39
 slug: gen-39
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,8 @@ _Not yet developed._
 - [[Beauty for Ashes The Healing Path of Forgiveness (Sister Kristin M. Yee, October 2022)|Beauty for Ashes: The Healing Path of Forgiveness]] — Sister Kristin M. Yee, 2022-October *(explicit citation)*
 - [[Faith A Bond of Trust and Loyalty (Elder Sandino Roman, April 2025)|Faith: A Bond of Trust and Loyalty]] — Elder Sandino Roman, 2025-April *(explicit citation)*
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
+- [[Followers of Christ (Elder Walter F. González, April 2011)|Followers of Christ]] — Elder Walter F. González, 2011-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

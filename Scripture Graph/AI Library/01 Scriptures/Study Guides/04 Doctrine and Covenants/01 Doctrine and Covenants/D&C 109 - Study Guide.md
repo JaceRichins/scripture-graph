@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 109
 slug: dc-109
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,13 +50,19 @@ These boundaries are analytical; the prayer itself proceeds through repeated app
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[1 Kings 8]] — 5 footnote cross-references (from [[D&C 109#^dc-109-1|D&C 109:1]])
+- [[D&C 88]] — 5 footnote cross-references (from [[D&C 109#^dc-109-2|D&C 109:2]])
+- [[D&C 105]] — 3 footnote cross-references (from [[D&C 109#^dc-109-11|D&C 109:11]])
+- [[Leviticus 16]] — 2 footnote cross-references (from [[D&C 109#^dc-109-5|D&C 109:5]])
+- [[2 Chronicles 7]] — 2 footnote cross-references (from [[D&C 109#^dc-109-12|D&C 109:12]])
+- [[D&C 84]] — 2 footnote cross-references (from [[D&C 109#^dc-109-12|D&C 109:12]])
 - [[D&C 88]] — 7 parallel verses, e.g. [[D&C 109#^dc-109-8|D&C 109:8]] ↔ [[D&C 88#^dc-88-119|D&C 88:119]]
+- [[Song of Solomon 6]] — 1 parallel verse, e.g. [[D&C 109#^dc-109-73|D&C 109:73]] ↔ [[Song of Solomon 6#^song-6-10|Song of Solomon 6:10]]
 - [[D&C 5]] — 1 parallel verse, e.g. [[D&C 109#^dc-109-73|D&C 109:73]] ↔ [[D&C 5#^dc-5-14|D&C 5:14]]
 - [[Alma 40]] — 2 parallel verses, e.g. [[D&C 109#^dc-109-23|D&C 109:23]] ↔ [[Alma 40#^alma-40-22|Alma 40:22]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[D&C 109#^dc-109-4|D&C 109:4]] ↔ [[Mormon 9#^morm-9-29|Mormon 9:29]]
 - [[D&C 55]] — 1 parallel verse, e.g. [[D&C 109#^dc-109-4|D&C 109:4]] ↔ [[D&C 55#^dc-55-2|D&C 55:2]]
 - [[Moses 8]] — 1 parallel verse, e.g. [[D&C 109#^dc-109-4|D&C 109:4]] ↔ [[Moses 8#^moses-8-24|Moses 8:24]]
-- [[Song of Solomon 6]] — 0 parallel verses
 - [[Acts 2]] — 0 parallel verses
 - [[Daniel 2]] — 0 parallel verses
 - [[1 Thessalonians 4]] — 0 parallel verses
@@ -66,11 +72,11 @@ These boundaries are analytical; the prayer itself proceeds through repeated app
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Temples]]
-- [[Education and Learning]]
 - [[Gift of Tongues]]
 - [[Repentance and Forgiveness]]
 - [[Government and Laws]]
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -93,21 +99,21 @@ The prayer does not resolve the tension between [[Justice and Mercy]] by removin
 - [[Family History and Temple Work Sealing and Healing (Elder Dale G. Renlund, April 2018)|Family History and Temple Work: Sealing and Healing]] — Elder Dale G. Renlund, 2018-April *(explicit citation)*
 - [[Your Divine Nature and Eternal Destiny (Elder Dale G. Renlund, April 2022)|Your Divine Nature and Eternal Destiny]] — Elder Dale G. Renlund, 2022-April *(explicit citation)*
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
-- [[The Man Who Communed with Jehovah (Elder Kyle S. McKay, October 2024)|The Man Who Communed with Jehovah]] — Elder Kyle S. McKay, 2024-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **21 The Spirit of God** (history) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
+- **37 We Will Prove Them** (history) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Food Storage** (reference-entry) *(explicit citation)*
 - **Stake** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
-- **Worship God the Father** (reference-entry) *(explicit citation)*
-- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

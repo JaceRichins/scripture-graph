@@ -19,10 +19,10 @@ cssclasses:
 ![[Leviticus 22#^lev-22-1]]
 
 ![[Leviticus 22#^lev-22-2]]
-> [[Ezra 2#^ezra-2-63|Ezra 2:63]] · [[D&C 88#^dc-88-74|D&amp;C 88:74]] · [[Deuteronomy 15#^deut-15-19|Deut. 15:19]] · [[Numbers 5#^num-5-9|≈ Numbers 5:9]] · [[Numbers 18#^num-18-32|≈ Numbers 18:32]] · [[Leviticus 6#^lev-6-25|≈ Leviticus 6:25]]
+> [[Ezra 2#^ezra-2-63|Ezra 2:63]] · [[D&C 88#^dc-88-74|D&amp;C 88:74]] · [[Deuteronomy 15#^deut-15-19|Deut. 15:19]] · [[Numbers 18#^num-18-32|≈ Numbers 18:32]] · [[Numbers 5#^num-5-9|≈ Numbers 5:9]] · [[Leviticus 6#^lev-6-25|≈ Leviticus 6:25]]
 
 ![[Leviticus 22#^lev-22-3]]
-> [[Numbers 18#^num-18-11|Num. 18:11]] · [[Mormon 9#^morm-9-29|Morm. 9:29]] · [[Leviticus 7#^lev-7-20|≈ Leviticus 7:20]] · [[Leviticus 7#^lev-7-21|≈ Leviticus 7:21]] · [[Leviticus 7#^lev-7-27|≈ Leviticus 7:27]] · [[Numbers 15#^num-15-30|≈ Numbers 15:30]] · [[Numbers 19#^num-19-13|≈ Numbers 19:13]] · [[Numbers 19#^num-19-20|≈ Numbers 19:20]]
+> [[Numbers 18#^num-18-11|Num. 18:11]] · [[Mormon 9#^morm-9-29|Morm. 9:29]] · [[Leviticus 7#^lev-7-20|≈ Leviticus 7:20]] · [[Leviticus 7#^lev-7-21|≈ Leviticus 7:21]] · [[Leviticus 7#^lev-7-27|≈ Leviticus 7:27]] · [[Numbers 15#^num-15-30|≈ Numbers 15:30]] · [[Numbers 18#^num-18-19|≈ Numbers 18:19]] · [[Numbers 19#^num-19-13|≈ Numbers 19:13]]
 
 ![[Leviticus 22#^lev-22-4]]
 
@@ -48,7 +48,7 @@ cssclasses:
 ![[Leviticus 22#^lev-22-14]]
 
 ![[Leviticus 22#^lev-22-15]]
-> [[Numbers 5#^num-5-9|≈ Numbers 5:9]] · [[Numbers 18#^num-18-24|≈ Numbers 18:24]] · [[Numbers 18#^num-18-32|≈ Numbers 18:32]]
+> [[Numbers 18#^num-18-24|≈ Numbers 18:24]] · [[Numbers 18#^num-18-32|≈ Numbers 18:32]] · [[Numbers 5#^num-5-9|≈ Numbers 5:9]]
 
 ![[Leviticus 22#^lev-22-16]]
 > [[Leviticus 21#^lev-21-23|≈ Leviticus 21:23]]

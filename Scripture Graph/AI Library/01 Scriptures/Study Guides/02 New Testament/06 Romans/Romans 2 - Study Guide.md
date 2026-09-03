@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 2
 slug: rom-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Romans 11]] — 1 footnote cross-reference (from [[Romans 2#^rom-2-6|Romans 2:6]])
 - [[D&C 67]] — 1 footnote cross-reference (from [[Romans 2#^rom-2-7|Romans 2:7]])
 - [[Psalm 32]] — 1 footnote cross-reference (from [[Romans 2#^rom-2-9|Romans 2:9]])
+- [[Jeremiah 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,6 +65,8 @@ _Not yet developed._
 - [[In Partnership with the Lord (Elder Ulisses Soares, October 2022)|In Partnership with the Lord]] — Elder Ulisses Soares, 2022-October *(explicit citation)*
 - [[A Higher Joy (Elder Dieter F. Uchtdorf, April 2024)|A Higher Joy]] — Elder Dieter F. Uchtdorf, 2024-April *(explicit citation)*
 - [[The Lord Is Hastening His Work (Elder Quentin L. Cook, October 2025)|The Lord Is Hastening His Work]] — Elder Quentin L. Cook, 2025-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[The Merciful Obtain Mercy (President Dieter F. Uchtdorf, April 2012)|The Merciful Obtain Mercy]] — President Dieter F. Uchtdorf, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

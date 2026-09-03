@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 4
 slug: ruth-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Genesis 23]] — 1 footnote cross-reference (from [[Ruth 4#^ruth-4-1|Ruth 4:1]])
 - [[Ruth 2]] — 1 footnote cross-reference (from [[Ruth 4#^ruth-4-1|Ruth 4:1]])
 - [[Leviticus 25]] — 1 footnote cross-reference (from [[Ruth 4#^ruth-4-4|Ruth 4:4]])
+- [[1 Chronicles 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

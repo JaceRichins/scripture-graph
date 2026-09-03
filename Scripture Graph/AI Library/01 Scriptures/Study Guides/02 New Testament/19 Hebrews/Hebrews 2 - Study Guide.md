@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 2
 slug: heb-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 - [[Is It Still Wonderful to You (Bishop Gérald Caussé, April 2015)|Is It Still Wonderful to You?]] — Bishop Gérald Caussé, 2015-April *(explicit citation)*
 - [[The Exquisite Gift of the Son (Elder Matthew S. Holland, October 2020)|The Exquisite Gift of the Son]] — Elder Matthew S. Holland, 2020-October *(explicit citation)*
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[Because of Jesus Christ (Elder Dale G. Renlund, April 2026)|Because of Jesus Christ]] — Elder Dale G. Renlund, 2026-April *(explicit citation)*
 - [[Strengthened by the Atonement of Jesus Christ (Elder Dallin H. Oaks, October 2015)|Strengthened by the Atonement of Jesus Christ]] — Elder Dallin H. Oaks, 2015-October *(explicit citation)*

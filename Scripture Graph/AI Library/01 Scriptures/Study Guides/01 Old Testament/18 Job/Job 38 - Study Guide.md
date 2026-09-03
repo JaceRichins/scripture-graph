@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 38
 slug: job-38
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Jesus Christ Chosen as Savior** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 10
 slug: 1ne-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,30 +47,30 @@ The chapter moves through four parts: (1) v. 1, an editorial transition stating 
 - [[Helaman 8]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]])
 - [[2 Nephi 25]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]])
 - [[1 Nephi 1]] — 2 footnote cross-references (from [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]])
+- [[Moroni 10]] — 7 parallel verses, e.g. [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]] ↔ [[Moroni 10#^moro-10-19|Moroni 10:19]]
 - [[3 Nephi 21]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]]
 - [[Moroni 6]] — 4 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
+- [[2 Nephi 4]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-2|1 Nephi 10:2]] ↔ [[2 Nephi 4#^2ne-4-3|2 Nephi 4:3]]
+- [[John 1]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]] ↔ [[John 1#^john-1-27|John 1:27]]
+- [[1 Nephi 8]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-11|1 Nephi 10:11]] ↔ [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]]
 - [[Ether 1]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[Ether 1#^ether-1-33|Ether 1:33]]
 - [[D&C 33]] — 1 parallel verse, e.g. [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]] ↔ [[D&C 33#^dc-33-10|D&C 33:10]]
 - [[D&C 133]] — 1 parallel verse, e.g. [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]] ↔ [[D&C 133#^dc-133-17|D&C 133:17]]
 - [[1 Nephi 14]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
 - [[Alma 7]] — 3 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[Alma 7#^alma-7-10|Alma 7:10]]
 - [[1 Nephi 22]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]] ↔ [[1 Nephi 22#^1ne-22-3|1 Nephi 22:3]]
-- [[Moroni 3]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[Moroni 3#^moro-3-4|Moroni 3:4]]
-- [[D&C 20]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]] ↔ [[D&C 20#^dc-20-60|D&C 20:60]]
-- [[1 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 10#^1ne-10-15|1 Nephi 10:15]] ↔ [[1 Nephi 5#^1ne-5-6|1 Nephi 5:6]]
-- [[2 Nephi 2]] — 1 parallel verse, e.g. [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]] ↔ [[2 Nephi 2#^2ne-2-4|2 Nephi 2:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Revelation]]
-- [[Jews and Gentiles]]
-- [[Scattering of Israel]]
 - [[Prophecy]]
 - [[Final Judgment]]
 - [[Records and Sacred Writings]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
+- [[Scattering of Israel]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

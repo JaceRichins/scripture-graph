@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 28
 slug: 2ne-28
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[1 Nephi 22]] — 4 footnote cross-references (from [[2 Nephi 28#^2ne-28-2|2 Nephi 28:2]])
 - [[Alma 30]] — 4 footnote cross-references (from [[2 Nephi 28#^2ne-28-5|2 Nephi 28:5]])
 - [[2 Nephi 27]] — 4 footnote cross-references (from [[2 Nephi 28#^2ne-28-14|2 Nephi 28:14]])
+- [[2 Nephi 9]] — 5 parallel verses, e.g. [[2 Nephi 28#^2ne-28-23|2 Nephi 28:23]] ↔ [[2 Nephi 9#^2ne-9-26|2 Nephi 9:26]]
 - [[Moroni 10]] — 5 parallel verses, e.g. [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
 - [[Jacob 6]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-26|2 Nephi 28:26]] ↔ [[Jacob 6#^jacob-6-8|Jacob 6:8]]
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]] ↔ [[2 Nephi 4#^2ne-4-34|2 Nephi 4:34]]
@@ -65,15 +66,14 @@ _Not yet developed._
 - [[Isaiah 10]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[Zechariah 14]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
 - [[Isaiah 29]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]] ↔ [[Isaiah 29#^isa-29-21|Isaiah 29:21]]
-- [[2 Nephi 20]] — 2 parallel verses, e.g. [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Pride]]
-- [[Satan and Temptation]]
 - [[Final Judgment]]
 - [[Jews and Gentiles]]
+- [[Pride]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
@@ -91,6 +91,7 @@ The repeated criticism of fine sanctuaries and clothing is tied to robbing and p
 <!-- SG:BEGIN conference -->
 - [[Build a Fortress of Spirituality and Protection (Elder Ronald A. Rasband, April 2019)|Build a Fortress of Spirituality and Protection]] — Elder Ronald A. Rasband, 2019-April *(explicit citation)*
 - [[Are You Still Willing (Elder Kevin W. Pearson, October 2022)|Are You Still Willing?]] — Elder Kevin W. Pearson, 2022-October *(explicit citation)*
+- [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[Shipshape and Bristol Fashion Be Temple Worthy—in Good Times and Bad Times (Elder Quentin L. Cook, October 2015)|Shipshape and Bristol Fashion: Be Temple Worthy—in Good Times and Bad Times]] — Elder Quentin L. Cook, 2015-October *(explicit citation)*
 - [[What Lack I Yet (Elder Larry R. Lawrence, October 2015)|What Lack I Yet?]] — Elder Larry R. Lawrence, 2015-October *(explicit citation)*
 - [[Serve (Elder Carl B. Cook, October 2016)|Serve]] — Elder Carl B. Cook, 2016-October *(explicit citation)*
@@ -98,7 +99,6 @@ The repeated criticism of fine sanctuaries and clothing is tied to robbing and p
 - [[Drawing the Power of Jesus Christ into Our Lives (President Russell M. Nelson, April 2017)|Drawing the Power of Jesus Christ into Our Lives]] — President Russell M. Nelson, 2017-April *(explicit citation)*
 - [[Foundations of Faith (Elder Quentin L. Cook, April 2017)|Foundations of Faith]] — Elder Quentin L. Cook, 2017-April *(explicit citation)*
 - [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
-- [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 7
 slug: 2ne-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,10 +50,11 @@ _Not yet developed._
 - [[2 Nephi 8]] — 1 footnote cross-reference (from [[2 Nephi 7#^2ne-7-1|2 Nephi 7:1]])
 - [[Jeremiah 3]] — 1 footnote cross-reference (from [[2 Nephi 7#^2ne-7-1|2 Nephi 7:1]])
 - [[2 Kings 4]] — 1 footnote cross-reference (from [[2 Nephi 7#^2ne-7-1|2 Nephi 7:1]])
-- [[Isaiah 50]] — 0 parallel verses
-- [[D&C 133]] — 0 parallel verses
+- [[Isaiah 50]] — 12 parallel verses, e.g. [[2 Nephi 7#^2ne-7-7|2 Nephi 7:7]] ↔ [[Isaiah 50#^isa-50-7|Isaiah 50:7]]
+- [[D&C 133]] — 3 parallel verses, e.g. [[2 Nephi 7#^2ne-7-2|2 Nephi 7:2]] ↔ [[D&C 133#^dc-133-68|D&C 133:68]]
 - [[Matthew 26]] — 0 parallel verses
 - [[Matthew 27]] — 0 parallel verses
+- [[2 Nephi 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

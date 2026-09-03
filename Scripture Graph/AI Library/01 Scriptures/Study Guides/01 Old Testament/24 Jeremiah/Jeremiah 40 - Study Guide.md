@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 40
 slug: jer-40
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ Scripture: [[Jeremiah 40]] · My notes: [[Jeremiah 40 - My Notes]]
 - [[2 Kings 25]] — 10 parallel verses, e.g. [[Jeremiah 40#^jer-40-8|Jeremiah 40:8]] ↔ [[2 Kings 25#^2kgs-25-23|2 Kings 25:23]]
 - [[Jeremiah 41]] — 11 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 41#^jer-41-11|Jeremiah 41:11]]
 - [[Jeremiah 43]] — 8 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 43#^jer-43-4|Jeremiah 43:4]]
+- [[Jeremiah 39]] — 7 parallel verses, e.g. [[Jeremiah 40#^jer-40-5|Jeremiah 40:5]] ↔ [[Jeremiah 39#^jer-39-14|Jeremiah 39:14]]
 - [[Jeremiah 42]] — 3 parallel verses, e.g. [[Jeremiah 40#^jer-40-13|Jeremiah 40:13]] ↔ [[Jeremiah 42#^jer-42-8|Jeremiah 42:8]]
 - [[Jeremiah 52]] — 5 parallel verses, e.g. [[Jeremiah 40#^jer-40-1|Jeremiah 40:1]] ↔ [[Jeremiah 52#^jer-52-15|Jeremiah 52:15]]
 - [[Jeremiah 44]] — 1 parallel verse, e.g. [[Jeremiah 40#^jer-40-3|Jeremiah 40:3]] ↔ [[Jeremiah 44#^jer-44-23|Jeremiah 44:23]]
@@ -65,9 +66,9 @@ Scripture: [[Jeremiah 40]] · My notes: [[Jeremiah 40 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Scattering of Israel]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Scattering of Israel]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

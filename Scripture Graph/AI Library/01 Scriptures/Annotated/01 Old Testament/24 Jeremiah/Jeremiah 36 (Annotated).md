@@ -17,7 +17,7 @@ cssclasses:
 > Baruch writes the prophecies of Jeremiah and reads them in the house of the Lord—Jehoiakim, the king, burns the book, and judgment comes upon him—Jeremiah dictates the prophecies again and adds many more.
 
 ![[Jeremiah 36#^jer-36-1]]
-> [[Jeremiah 45#^jer-45-1|≈ Jeremiah 45:1]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 1#^jer-1-3|≈ Jeremiah 1:3]] · [[Jeremiah 22#^jer-22-18|≈ Jeremiah 22:18]] · [[Jeremiah 22#^jer-22-11|≈ Jeremiah 22:11]]
+> [[Jeremiah 45#^jer-45-1|≈ Jeremiah 45:1]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 22#^jer-22-18|≈ Jeremiah 22:18]] · [[Jeremiah 22#^jer-22-11|≈ Jeremiah 22:11]] · [[Jeremiah 26#^jer-26-1|≈ Jeremiah 26:1]] · [[Jeremiah 35#^jer-35-1|≈ Jeremiah 35:1]]
 
 ![[Jeremiah 36#^jer-36-2]]
 > [[Ezra 6#^ezra-6-2|Ezra 6:2]] · [[Ezekiel 2#^ezek-2-9|Ezek. 2:9]] · [[Jeremiah 1#^jer-1-2|Jer. 1:2]] · [[Jeremiah 25#^jer-25-3|25:3]] · [[Jeremiah 30#^jer-30-2|≈ Jeremiah 30:2]]
@@ -40,10 +40,10 @@ cssclasses:
 ![[Jeremiah 36#^jer-36-8]]
 
 ![[Jeremiah 36#^jer-36-9]]
-> [[Jeremiah 45#^jer-45-1|≈ Jeremiah 45:1]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 1#^jer-1-3|≈ Jeremiah 1:3]] · [[Jeremiah 22#^jer-22-18|≈ Jeremiah 22:18]] · [[Jeremiah 22#^jer-22-11|≈ Jeremiah 22:11]]
+> [[Jeremiah 45#^jer-45-1|≈ Jeremiah 45:1]] · [[Jeremiah 46#^jer-46-2|≈ Jeremiah 46:2]] · [[Jeremiah 22#^jer-22-18|≈ Jeremiah 22:18]] · [[Jeremiah 22#^jer-22-11|≈ Jeremiah 22:11]] · [[Jeremiah 26#^jer-26-1|≈ Jeremiah 26:1]] · [[Jeremiah 35#^jer-35-1|≈ Jeremiah 35:1]]
 
 ![[Jeremiah 36#^jer-36-10]]
-> [[Jeremiah 26#^jer-26-24|Jer. 26:24]] · [[Jeremiah 28#^jer-28-7|≈ Jeremiah 28:7]] · [[Jeremiah 26#^jer-26-10|≈ Jeremiah 26:10]]
+> [[Jeremiah 26#^jer-26-24|Jer. 26:24]] · [[Jeremiah 26#^jer-26-10|≈ Jeremiah 26:10]] · [[Jeremiah 28#^jer-28-7|≈ Jeremiah 28:7]]
 
 ![[Jeremiah 36#^jer-36-11]]
 

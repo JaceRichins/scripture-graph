@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 21
 slug: num-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,8 @@ _Not yet developed._
 - [[Job 1]] — 2 parallel verses, e.g. [[Numbers 21#^num-21-24|Numbers 21:24]] ↔ [[Job 1#^job-1-15|Job 1:15]]
 - [[Numbers 33]] — 1 parallel verse, e.g. [[Numbers 21#^num-21-1|Numbers 21:1]] ↔ [[Numbers 33#^num-33-40|Numbers 33:40]]
 - [[Numbers 22]] — 1 parallel verse, e.g. [[Numbers 21#^num-21-10|Numbers 21:10]] ↔ [[Numbers 22#^num-22-1|Numbers 22:1]]
+- [[Joshua 12]] — 0 parallel verses
+- [[Joshua 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,12 +78,14 @@ _Not yet developed._
 - [[Do You Know Why I as a Christian Believe in Christ (Elder Ahmad S. Corbitt, April 2023)|Do You Know Why I as a Christian Believe in Christ?]] — Elder Ahmad S. Corbitt, 2023-April *(explicit citation)*
 - [[Humble to Accept and Follow (Elder Joni L. Koch, October 2023)|Humble to Accept and Follow]] — Elder Joni L. Koch, 2023-October *(explicit citation)*
 - [[And Now I See (Elder Jeffrey R. Holland, October 2025)|And Now I See]] — Elder Jeffrey R. Holland, 2025-October *(explicit citation)*
+- [[It Is Better to Look Up (Elder Carl B. Cook, October 2011)|It Is Better to Look Up]] — Elder Carl B. Cook, 2011-October *(explicit citation)*
 - [[Small and Simple Things (President Dallin H. Oaks, April 2018)|Small and Simple Things]] — President Dallin H. Oaks, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 3
 slug: jer-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,8 @@ _Not yet developed._
 - [[1 Chronicles 28]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
 - [[2 Chronicles 5]] — 2 parallel verses, e.g. [[Jeremiah 3#^jer-3-16|Jeremiah 3:16]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
 - [[Jeremiah 44]] — 1 parallel verse, e.g. [[Jeremiah 3#^jer-3-25|Jeremiah 3:25]] ↔ [[Jeremiah 44#^jer-44-23|Jeremiah 44:23]]
+- [[Ezekiel 23]] — 0 parallel verses
+- [[Deuteronomy 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,7 +76,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
+- **Adultery** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 22
 slug: prov-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,10 @@ _Not yet developed._
 - [[2 Nephi 1]] — 1 footnote cross-reference (from [[Proverbs 22#^prov-22-4|Proverbs 22:4]])
 - [[Mosiah 2]] — 1 footnote cross-reference (from [[Proverbs 22#^prov-22-4|Proverbs 22:4]])
 - [[Proverbs 27]] — 1 parallel verse, e.g. [[Proverbs 22#^prov-22-3|Proverbs 22:3]] ↔ [[Proverbs 27#^prov-27-12|Proverbs 27:12]]
+- [[Deuteronomy 19]] — 0 parallel verses
+- [[Proverbs 27]] — 0 parallel verses
+- [[Proverbs 17]] — 0 parallel verses
+- [[2 Nephi 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,11 +68,13 @@ _Not yet developed._
 - [[After the Trial of Our Faith (Elder Jorge M. Alvarado, October 2019)|After the Trial of Our Faith]] — Elder Jorge M. Alvarado, 2019-October *(explicit citation)*
 - [[Finding Personal Peace (President Henry B. Eyring, April 2023)|Finding Personal Peace]] — President Henry B. Eyring, 2023-April *(explicit citation)*
 - [[Conference Report, October 1929 (General Conference (full report), October 1929)|Conference Report, October 1929]] — General Conference (full report), 1929-October *(explicit citation)*
+- [[Becoming Goodly Parents (Elder L. Tom Perry, October 2012)|Becoming Goodly Parents]] — Elder L. Tom Perry, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Family** (reference-entry) *(explicit citation)*
+- **Almsgiving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 13
 slug: 1kgs-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

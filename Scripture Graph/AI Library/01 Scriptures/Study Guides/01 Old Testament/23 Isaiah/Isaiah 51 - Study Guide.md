@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 51
 slug: isa-51
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Genesis 12]] — 1 footnote cross-reference (from [[Isaiah 51#^isa-51-2|Isaiah 51:2]])
 - [[2 Nephi 8]] — 23 parallel verses, e.g. [[Isaiah 51#^isa-51-6|Isaiah 51:6]] ↔ [[2 Nephi 8#^2ne-8-6|2 Nephi 8:6]]
 - [[Jeremiah 25]] — 0 parallel verses
+- [[D&C 66]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

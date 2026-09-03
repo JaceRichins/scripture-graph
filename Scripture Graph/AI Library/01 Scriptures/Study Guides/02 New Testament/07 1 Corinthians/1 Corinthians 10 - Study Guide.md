@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 10
 slug: 1cor-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,19 +50,20 @@ _Not yet developed._
 - [[3 Nephi 15]] — 1 footnote cross-reference (from [[1 Corinthians 10#^1cor-10-4|1 Corinthians 10:4]])
 - [[Numbers 21]] — 1 footnote cross-reference (from [[1 Corinthians 10#^1cor-10-5|1 Corinthians 10:5]])
 - [[Psalm 24]] — 2 parallel verses, e.g. [[1 Corinthians 10#^1cor-10-26|1 Corinthians 10:26]] ↔ [[Psalm 24#^ps-24-1|Psalm 24:1]]
+- [[1 Corinthians 6]] — 1 parallel verse, e.g. [[1 Corinthians 10#^1cor-10-23|1 Corinthians 10:23]] ↔ [[1 Corinthians 6#^1cor-6-12|1 Corinthians 6:12]]
 - [[Exodus 32]] — 1 parallel verse, e.g. [[1 Corinthians 10#^1cor-10-7|1 Corinthians 10:7]] ↔ [[Exodus 32#^ex-32-6|Exodus 32:6]]
-- [[1 Corinthians 6]] — 0 parallel verses
 - [[Numbers 25]] — 0 parallel verses
 - [[1 Corinthians 8]] — 0 parallel verses
 - [[1 Corinthians 9]] — 0 parallel verses
+- [[1 Corinthians 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Satan and Temptation]]
 - [[Exodus and Deliverance]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Light of Christ]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -80,6 +81,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
 - [[Look down the Road (Elder Alvin F. Meredith III, October 2021)|Look down the Road]] — Elder Alvin F. Meredith III, 2021-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Courage to Proclaim the Truth (Elder Denelson Silva, October 2022)|Courage to Proclaim the Truth]] — Elder Denelson Silva, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 

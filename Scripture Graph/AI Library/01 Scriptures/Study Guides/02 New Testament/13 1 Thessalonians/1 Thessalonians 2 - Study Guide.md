@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 2
 slug: 1thes-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Gospel of Jesus Christ]]
 - [[Jews and Gentiles]]
+- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

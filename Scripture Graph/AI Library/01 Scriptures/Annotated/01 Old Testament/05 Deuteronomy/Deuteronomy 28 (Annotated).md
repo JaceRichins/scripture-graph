@@ -17,7 +17,7 @@ cssclasses:
 > If the children of Israel are obedient, they will be blessed temporally and spiritually—If they are disobedient, they will be cursed, smitten, and destroyed; diseases, plagues, and oppression will come upon them; they will serve false gods and become a byword among all nations; fierce nations will enslave them; and they will eat their own children and be scattered among all nations.
 
 ![[Deuteronomy 28#^deut-28-1]]
-> [[Deuteronomy 26#^deut-26-19|Deut. 26:19]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 30#^deut-30-8|≈ Deuteronomy 30:8]] · [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]] · [[Deuteronomy 4#^deut-4-40|≈ Deuteronomy 4:40]] · [[Deuteronomy 6#^deut-6-2|≈ Deuteronomy 6:2]] · [[Deuteronomy 9#^deut-9-3|≈ Deuteronomy 9:3]]
+> [[Deuteronomy 26#^deut-26-19|Deut. 26:19]] · [[Deuteronomy 30#^deut-30-8|≈ Deuteronomy 30:8]] · [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 4#^deut-4-40|≈ Deuteronomy 4:40]] · [[Deuteronomy 6#^deut-6-2|≈ Deuteronomy 6:2]] · [[Deuteronomy 9#^deut-9-3|≈ Deuteronomy 9:3]]
 
 ![[Deuteronomy 28#^deut-28-2]]
 > [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]] · [[Deuteronomy 15#^deut-15-5|≈ Deuteronomy 15:5]]
@@ -35,7 +35,7 @@ cssclasses:
 ![[Deuteronomy 28#^deut-28-7]]
 
 ![[Deuteronomy 28#^deut-28-8]]
-> [[Psalm 133#^ps-133-1|Ps. 133:3 (1–3)]] · [[Luke 12#^luke-12-31|Luke 12:31]] · [[D&C 24#^dc-24-3|D&amp;C 24:3 (3–4)]] · [[Ether 1#^ether-1-42|Ether 1:43 (42–43)]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 4#^deut-4-21|≈ Deuteronomy 4:21]] · [[Deuteronomy 17#^deut-17-14|≈ Deuteronomy 17:14]] · [[Deuteronomy 15#^deut-15-4|≈ Deuteronomy 15:4]] · [[Deuteronomy 15#^deut-15-7|≈ Deuteronomy 15:7]] · [[Deuteronomy 21#^deut-21-1|≈ Deuteronomy 21:1]]
+> [[Psalm 133#^ps-133-1|Ps. 133:3 (1–3)]] · [[Luke 12#^luke-12-31|Luke 12:31]] · [[D&C 24#^dc-24-3|D&amp;C 24:3 (3–4)]] · [[Ether 1#^ether-1-42|Ether 1:43 (42–43)]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 4#^deut-4-21|≈ Deuteronomy 4:21]] · [[Deuteronomy 27#^deut-27-2|≈ Deuteronomy 27:2]] · [[Deuteronomy 27#^deut-27-3|≈ Deuteronomy 27:3]] · [[Deuteronomy 17#^deut-17-14|≈ Deuteronomy 17:14]] · [[Deuteronomy 15#^deut-15-4|≈ Deuteronomy 15:4]]
 
 ![[Deuteronomy 28#^deut-28-9]]
 > [[Deuteronomy 8#^deut-8-6|≈ Deuteronomy 8:6]]
@@ -44,7 +44,7 @@ cssclasses:
 > [[Numbers 6#^num-6-27|Num. 6:27]] · [[Mosiah 26#^mosiah-26-18|Mosiah 26:18]] · [[Deuteronomy 11#^deut-11-25|Deut. 11:25]]
 
 ![[Deuteronomy 28#^deut-28-11]]
-> [[Deuteronomy 30#^deut-30-8|Deut. 30:9 (8–10)]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 30#^deut-30-9|≈ Deuteronomy 30:9]] · [[Deuteronomy 30#^deut-30-20|≈ Deuteronomy 30:20]] · [[Deuteronomy 7#^deut-7-13|≈ Deuteronomy 7:13]] · [[Deuteronomy 6#^deut-6-18|≈ Deuteronomy 6:18]] · [[Deuteronomy 9#^deut-9-5|≈ Deuteronomy 9:5]]
+> [[Deuteronomy 30#^deut-30-8|Deut. 30:9 (8–10)]] · [[Deuteronomy 30#^deut-30-9|≈ Deuteronomy 30:9]] · [[Deuteronomy 30#^deut-30-20|≈ Deuteronomy 30:20]] · [[Deuteronomy 7#^deut-7-13|≈ Deuteronomy 7:13]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 6#^deut-6-18|≈ Deuteronomy 6:18]] · [[Deuteronomy 9#^deut-9-5|≈ Deuteronomy 9:5]]
 
 ![[Deuteronomy 28#^deut-28-12]]
 > [[Leviticus 26#^lev-26-4|Lev. 26:4]] · [[Deuteronomy 11#^deut-11-14|Deut. 11:14]] · [[Deuteronomy 15#^deut-15-6|≈ Deuteronomy 15:6]]
@@ -53,10 +53,10 @@ cssclasses:
 > [[Deuteronomy 7#^deut-7-11|≈ Deuteronomy 7:11]] · [[Deuteronomy 13#^deut-13-18|≈ Deuteronomy 13:18]] · [[Deuteronomy 19#^deut-19-9|≈ Deuteronomy 19:9]]
 
 ![[Deuteronomy 28#^deut-28-14]]
-> [[D&C 124#^dc-124-120|D&amp;C 124:120]] · [[Deuteronomy 5#^deut-5-32|Deut. 5:32 (32–33)]] · [[Deuteronomy 5#^deut-5-32|≈ Deuteronomy 5:32]] · [[Deuteronomy 7#^deut-7-11|≈ Deuteronomy 7:11]] · [[Deuteronomy 6#^deut-6-6|≈ Deuteronomy 6:6]] · [[Deuteronomy 17#^deut-17-20|≈ Deuteronomy 17:20]] · [[Deuteronomy 13#^deut-13-18|≈ Deuteronomy 13:18]] · [[Deuteronomy 19#^deut-19-9|≈ Deuteronomy 19:9]]
+> [[D&C 124#^dc-124-120|D&amp;C 124:120]] · [[Deuteronomy 5#^deut-5-32|Deut. 5:32 (32–33)]] · [[Deuteronomy 7#^deut-7-11|≈ Deuteronomy 7:11]] · [[Deuteronomy 5#^deut-5-32|≈ Deuteronomy 5:32]] · [[Deuteronomy 6#^deut-6-6|≈ Deuteronomy 6:6]] · [[Deuteronomy 17#^deut-17-20|≈ Deuteronomy 17:20]] · [[Deuteronomy 13#^deut-13-18|≈ Deuteronomy 13:18]] · [[Deuteronomy 19#^deut-19-9|≈ Deuteronomy 19:9]]
 
 ![[Deuteronomy 28#^deut-28-15]]
-> [[Leviticus 26#^lev-26-14|Lev. 26:14 (14–45)]] · [[Jeremiah 26#^jer-26-4|Jer. 26:4]] · [[Ezekiel 11#^ezek-11-21|Ezek. 11:21]] · [[Malachi 2#^mal-2-2|Mal. 2:2]] · [[D&C 97#^dc-97-25|D&amp;C 97:26 (25–26)]] · [[D&C 133#^dc-133-63|133:63]] · [[Deuteronomy 8#^deut-8-11|≈ Deuteronomy 8:11]] · [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]] · [[Deuteronomy 30#^deut-30-16|≈ Deuteronomy 30:16]] · [[Deuteronomy 4#^deut-4-40|≈ Deuteronomy 4:40]]
+> [[Leviticus 26#^lev-26-14|Lev. 26:14 (14–45)]] · [[Jeremiah 26#^jer-26-4|Jer. 26:4]] · [[Ezekiel 11#^ezek-11-21|Ezek. 11:21]] · [[Malachi 2#^mal-2-2|Mal. 2:2]] · [[D&C 97#^dc-97-25|D&amp;C 97:26 (25–26)]] · [[D&C 133#^dc-133-63|133:63]] · [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]] · [[Deuteronomy 30#^deut-30-16|≈ Deuteronomy 30:16]] · [[Deuteronomy 8#^deut-8-11|≈ Deuteronomy 8:11]] · [[Deuteronomy 4#^deut-4-40|≈ Deuteronomy 4:40]]
 
 ![[Deuteronomy 28#^deut-28-16]]
 
@@ -129,7 +129,7 @@ cssclasses:
 ![[Deuteronomy 28#^deut-28-44]]
 
 ![[Deuteronomy 28#^deut-28-45]]
-> [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]] · [[Deuteronomy 30#^deut-30-16|≈ Deuteronomy 30:16]] · [[Deuteronomy 15#^deut-15-5|≈ Deuteronomy 15:5]] · [[Deuteronomy 27#^deut-27-10|≈ Deuteronomy 27:10]] · [[Deuteronomy 13#^deut-13-18|≈ Deuteronomy 13:18]]
+> [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]] · [[Deuteronomy 30#^deut-30-16|≈ Deuteronomy 30:16]] · [[Deuteronomy 27#^deut-27-10|≈ Deuteronomy 27:10]] · [[Deuteronomy 15#^deut-15-5|≈ Deuteronomy 15:5]] · [[Deuteronomy 13#^deut-13-18|≈ Deuteronomy 13:18]]
 
 ![[Deuteronomy 28#^deut-28-46]]
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 10
 slug: num-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,21 +54,21 @@ The procession puts into narrative action arrangements associated with [[Numbers
 - [[Joshua 19]] — 42 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Joshua 19#^josh-19-8|Joshua 19:8]]
 - [[Joshua 15]] — 26 parallel verses, e.g. [[Numbers 10#^num-10-14|Numbers 10:14]] ↔ [[Joshua 15#^josh-15-20|Joshua 15:20]]
 - [[Joshua 18]] — 17 parallel verses, e.g. [[Numbers 10#^num-10-24|Numbers 10:24]] ↔ [[Joshua 18#^josh-18-11|Joshua 18:11]]
+- [[Numbers 2]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-18|Numbers 10:18]] ↔ [[Numbers 2#^num-2-10|Numbers 2:10]]
 - [[1 Chronicles 6]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[1 Chronicles 6#^1chr-6-65|1 Chronicles 6:65]]
 - [[Joshua 21]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-19|Numbers 10:19]] ↔ [[Joshua 21#^josh-21-9|Joshua 21:9]]
 - [[Joshua 16]] — 8 parallel verses, e.g. [[Numbers 10#^num-10-15|Numbers 10:15]] ↔ [[Joshua 16#^josh-16-8|Joshua 16:8]]
+- [[Numbers 4]] — 4 parallel verses, e.g. [[Numbers 10#^num-10-13|Numbers 10:13]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[Numbers 10#^num-10-33|Numbers 10:33]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
+- [[Numbers 9]] — 2 parallel verses, e.g. [[Numbers 10#^num-10-13|Numbers 10:13]] ↔ [[Numbers 9#^num-9-23|Numbers 9:23]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Numbers 10#^num-10-33|Numbers 10:33]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
-- [[Joshua 3]] — 3 parallel verses, e.g. [[Numbers 10#^num-10-33|Numbers 10:33]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
-- [[1 Samuel 4]] — 3 parallel verses, e.g. [[Numbers 10#^num-10-33|Numbers 10:33]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
-- [[Joshua 6]] — 2 parallel verses, e.g. [[Numbers 10#^num-10-33|Numbers 10:33]] ↔ [[Joshua 6#^josh-6-8|Joshua 6:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Law of Moses]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -87,7 +87,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

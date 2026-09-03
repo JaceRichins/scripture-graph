@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 34
 slug: num-34
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Center Place** (history) *(explicit citation)*
+- **12 After Much Tribulation** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

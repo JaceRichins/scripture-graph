@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 8
 slug: judg-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,8 @@ _Not yet developed._
 - [[Exodus 28]] — 1 footnote cross-reference (from [[Judges 8#^judg-8-27|Judges 8:27]])
 - [[Mosiah 2]] — 1 parallel verse, e.g. [[Judges 8#^judg-8-34|Judges 8:34]] ↔ [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]]
 - [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Judges 8#^judg-8-22|Judges 8:22]] ↔ [[Deuteronomy 6#^deut-6-2|Deuteronomy 6:2]]
+- [[Judges 9]] — 0 parallel verses
+- [[1 Samuel 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,7 +69,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Abimelech** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 31
 slug: jer-31
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,21 +50,21 @@ _Not yet developed._
 - [[Jeremiah 9]] — 5 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]]
 - [[Jeremiah 51]] — 5 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]]
 - [[Jeremiah 48]] — 4 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]]
+- [[Jeremiah 33]] — 3 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]]
 - [[Jeremiah 7]] — 5 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 7#^jer-7-32|Jeremiah 7:32]]
 - [[Jeremiah 19]] — 5 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 19#^jer-19-6|Jeremiah 19:6]]
 - [[Jeremiah 49]] — 3 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
 - [[Jeremiah 16]] — 4 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 16#^jer-16-14|Jeremiah 16:14]]
 - [[Jeremiah 44]] — 4 parallel verses, e.g. [[Jeremiah 31#^jer-31-23|Jeremiah 31:23]] ↔ [[Jeremiah 44#^jer-44-9|Jeremiah 44:9]]
 - [[Amos 9]] — 3 parallel verses, e.g. [[Jeremiah 31#^jer-31-38|Jeremiah 31:38]] ↔ [[Amos 9#^amos-9-13|Amos 9:13]]
-- [[Jeremiah 30]] — 3 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]]
 - [[Scattering of Israel]]
 - [[Repentance and Forgiveness]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -82,6 +82,8 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Is Faith in the Atonement of Jesus Christ Written in Our Hearts (Linda K. Burton, October 2012)|Is Faith in the Atonement of Jesus Christ Written in Our Hearts?]] — Linda K. Burton, 2012-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Keep the Commandments (President Thomas S. Monson, October 2015)|Keep the Commandments]] — President Thomas S. Monson, 2015-October *(explicit citation)*
 - [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
 - [[See Yourself in the Temple (Elder Quentin L. Cook, April 2016)|See Yourself in the Temple]] — Elder Quentin L. Cook, 2016-April *(explicit citation)*
@@ -90,13 +92,14 @@ _Not yet developed._
 - [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
-- [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
-- [[The Gospel Light of Truth and Love (Elder Alan R. Walker, April 2021)|The Gospel Light of Truth and Love]] — Elder Alan R. Walker, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Covenant** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
+- **Times and Seasons 1843-02-01 (Vol. 4 No. 6)** (periodical, 1843-02-01) *(explicit citation)*
+- **Times and Seasons 1844-11-15 (Vol. 5 No. 21)** (periodical, 1844-11-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

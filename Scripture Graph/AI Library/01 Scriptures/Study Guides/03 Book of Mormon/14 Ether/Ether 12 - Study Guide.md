@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 12
 slug: ether-12
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
 - [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
@@ -86,7 +87,6 @@ _Not yet developed._
 - [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
 - [[“Behold! I Am a God of Miracles” (Elder Ronald A. Rasband, April 2021)|“Behold! I Am a God of Miracles”]] — Elder Ronald A. Rasband, 2021-April *(explicit citation)*
 - [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
-- [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

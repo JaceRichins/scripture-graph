@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 38
 slug: ex-38
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

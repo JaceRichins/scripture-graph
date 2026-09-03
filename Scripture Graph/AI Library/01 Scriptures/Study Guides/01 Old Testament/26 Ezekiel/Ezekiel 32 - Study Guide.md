@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 32
 slug: ezek-32
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -51,13 +51,14 @@ _Not yet developed._
 - [[Isaiah 13]] — 1 footnote cross-reference (from [[Ezekiel 32#^ezek-32-7|Ezekiel 32:7]])
 - [[Joel 2]] — 1 footnote cross-reference (from [[Ezekiel 32#^ezek-32-7|Ezekiel 32:7]])
 - [[Ezekiel 31]] — 10 parallel verses, e.g. [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]] ↔ [[Ezekiel 31#^ezek-31-1|Ezekiel 31:1]]
+- [[Ezekiel 26]] — 6 parallel verses, e.g. [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]] ↔ [[Ezekiel 26#^ezek-26-1|Ezekiel 26:1]]
+- [[Ezekiel 30]] — 3 parallel verses, e.g. [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]] ↔ [[Ezekiel 30#^ezek-30-20|Ezekiel 30:20]]
 - [[Ezekiel 45]] — 2 parallel verses, e.g. [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]] ↔ [[Ezekiel 45#^ezek-45-18|Ezekiel 45:18]]
+- [[Ezekiel 27]] — 2 parallel verses, e.g. [[Ezekiel 32#^ezek-32-2|Ezekiel 32:2]] ↔ [[Ezekiel 27#^ezek-27-2|Ezekiel 27:2]]
 - [[Ezekiel 33]] — 2 parallel verses, e.g. [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]] ↔ [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]]
 - [[Ezekiel 29]] — 0 parallel verses
 - [[Ezekiel 31]] — 0 parallel verses
 - [[Isaiah 14]] — 0 parallel verses
-- [[Ezekiel 26]] — 0 parallel verses
-- [[Ezekiel 30]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

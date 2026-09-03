@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 1
 slug: hel-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,24 +58,25 @@ Helaman 1 presents political breakdown and foreign invasion as causally connecte
 - [[Helaman 4]] — 2 footnote cross-references (from [[Helaman 1#^hel-1-15|Helaman 1:15]])
 - [[Matthew 12]] — 1 footnote cross-reference (from [[Helaman 1#^hel-1-4|Helaman 1:4]])
 - [[Alma 2]] — 3 parallel verses, e.g. [[Helaman 1#^hel-1-14|Helaman 1:14]] ↔ [[Alma 2#^alma-2-12|Alma 2:12]]
+- [[Alma 51]] — 3 parallel verses, e.g. [[Helaman 1#^hel-1-8|Helaman 1:8]] ↔ [[Alma 51#^alma-51-16|Alma 51:16]]
 - [[Alma 4]] — 3 parallel verses, e.g. [[Helaman 1#^hel-1-8|Helaman 1:8]] ↔ [[Alma 4#^alma-4-16|Alma 4:16]]
 - [[Ether 7]] — 2 parallel verses, e.g. [[Helaman 1#^hel-1-8|Helaman 1:8]] ↔ [[Ether 7#^ether-7-18|Ether 7:18]]
 - [[Alma 30]] — 2 parallel verses, e.g. [[Helaman 1#^hel-1-1|Helaman 1:1]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Helaman 1#^hel-1-15|Helaman 1:15]] ↔ [[Alma 50#^alma-50-28|Alma 50:28]]
+- [[Mosiah 29]] — 2 parallel verses, e.g. [[Helaman 1#^hel-1-8|Helaman 1:8]] ↔ [[Mosiah 29#^mosiah-29-29|Mosiah 29:29]]
+- [[Helaman 4]] — 2 parallel verses, e.g. [[Helaman 1#^hel-1-25|Helaman 1:25]] ↔ [[Helaman 4#^hel-4-20|Helaman 4:20]]
 - [[Mosiah 10]] — 1 parallel verse, e.g. [[Helaman 1#^hel-1-14|Helaman 1:14]] ↔ [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]]
 - [[Alma 62]] — 2 parallel verses, e.g. [[Helaman 1#^hel-1-2|Helaman 1:2]] ↔ [[Alma 62#^alma-62-37|Alma 62:37]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Helaman 1#^hel-1-15|Helaman 1:15]] ↔ [[Alma 43#^alma-43-35|Alma 43:35]]
 - [[Mosiah 9]] — 1 parallel verse, e.g. [[Helaman 1#^hel-1-14|Helaman 1:14]] ↔ [[Mosiah 9#^mosiah-9-16|Mosiah 9:16]]
-- [[Alma 2]] — 0 parallel verses
-- [[Alma 51]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Freedom and Liberty]]
 - [[Secret Combinations]]
-- [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

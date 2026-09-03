@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 16
 slug: josh-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,9 @@ _Not yet developed._
 - [[Joshua 15]] — 4 parallel verses, e.g. [[Joshua 16#^josh-16-8|Joshua 16:8]] ↔ [[Joshua 15#^josh-15-20|Joshua 15:20]]
 - [[Joshua 18]] — 4 parallel verses, e.g. [[Joshua 16#^josh-16-8|Joshua 16:8]] ↔ [[Joshua 18#^josh-18-12|Joshua 18:12]]
 - [[Judges 1]] — 1 parallel verse, e.g. [[Joshua 16#^josh-16-10|Joshua 16:10]] ↔ [[Judges 1#^judg-1-29|Judges 1:29]]
+- [[Joshua 18]] — 0 parallel verses
+- [[Judges 1]] — 0 parallel verses
+- [[Joshua 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

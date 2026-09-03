@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 17
 slug: alma-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[Jacob 7]] — 2 parallel verses, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Jacob 7#^jacob-7-24|Jacob 7:24]]
 - [[Mosiah 1]] — 2 parallel verses, e.g. [[Alma 17#^alma-17-15|Alma 17:15]] ↔ [[Mosiah 1#^mosiah-1-5|Mosiah 1:5]]
 - [[Alma 29]] — 1 parallel verse, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Alma 29#^alma-29-9|Alma 29:9]]
+- [[Alma 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -88,7 +88,7 @@ cssclasses:
 > [[Alma 5#^alma-5-39|Alma 5:39 (39–42)]] · [[3 Nephi 13#^3ne-13-24|≈ 3 Nephi 13:24]] · [[Luke 16#^luke-16-13|≈ Luke 16:13]]
 
 ![[Matthew 6#^matt-6-25]]
-> [[Psalm 55#^ps-55-22|Ps. 55:22]] · [[Proverbs 16#^prov-16-3|Prov. 16:3]] · [[Luke 12#^luke-12-22|Luke 12:22]] · [[Philippians 4#^philip-4-6|Philip. 4:6]] · [[3 Nephi 13#^3ne-13-25|3 Ne. 13:25]] · [[D&C 84#^dc-84-81|D&amp;C 84:81]] · [[D&C 84#^dc-84-81|≈ D&C 84:81]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]] · [[Luke 12#^luke-12-22|≈ Luke 12:22]] · [[Luke 12#^luke-12-29|≈ Luke 12:29]]
+> [[Psalm 55#^ps-55-22|Ps. 55:22]] · [[Proverbs 16#^prov-16-3|Prov. 16:3]] · [[Luke 12#^luke-12-22|Luke 12:22]] · [[Philippians 4#^philip-4-6|Philip. 4:6]] · [[3 Nephi 13#^3ne-13-25|3 Ne. 13:25]] · [[D&C 84#^dc-84-81|D&amp;C 84:81]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]] · [[D&C 27#^dc-27-2|≈ D&C 27:2]] · [[Luke 12#^luke-12-22|≈ Luke 12:22]] · [[Luke 12#^luke-12-29|≈ Luke 12:29]]
 
 ![[Matthew 6#^matt-6-26]]
 > [[3 Nephi 13#^3ne-13-26|≈ 3 Nephi 13:26]]
@@ -97,7 +97,7 @@ cssclasses:
 > [[3 Nephi 13#^3ne-13-27|≈ 3 Nephi 13:27]]
 
 ![[Matthew 6#^matt-6-28]]
-> [[D&C 84#^dc-84-82|≈ D&C 84:82]] · [[3 Nephi 13#^3ne-13-28|≈ 3 Nephi 13:28]]
+> [[3 Nephi 13#^3ne-13-28|≈ 3 Nephi 13:28]] · [[D&C 84#^dc-84-82|≈ D&C 84:82]]
 
 ![[Matthew 6#^matt-6-29]]
 > [[3 Nephi 13#^3ne-13-29|≈ 3 Nephi 13:29]] · [[Luke 12#^luke-12-27|≈ Luke 12:27]]
@@ -115,4 +115,4 @@ cssclasses:
 > [[1 Kings 3#^1kgs-3-13|1 Kgs. 3:13]] · [[Alma 39#^alma-39-12|Alma 39:14 (12–14)]] · [[D&C 6#^dc-6-6|D&amp;C 6:7 (6–7)]] · [[D&C 11#^dc-11-23|11:23]] · [[D&C 68#^dc-68-31|68:31 (31–32)]] · [[D&C 106#^dc-106-3|106:3]] · [[Colossians 3#^col-3-2|Col. 3:2]] · [[Proverbs 21#^prov-21-21|Prov. 21:21]] · [[Proverbs 28#^prov-28-10|Prov. 28:10]] · [[2 Nephi 5#^2ne-5-10|2 Ne. 5:11 (10–13)]]
 
 ![[Matthew 6#^matt-6-34]]
-> [[D&C 84#^dc-84-84|D&amp;C 84:84]] · [[D&C 84#^dc-84-84|≈ D&C 84:84]] · [[3 Nephi 13#^3ne-13-34|≈ 3 Nephi 13:34]]
+> [[D&C 84#^dc-84-84|D&amp;C 84:84]] · [[3 Nephi 13#^3ne-13-34|≈ 3 Nephi 13:34]] · [[D&C 84#^dc-84-84|≈ D&C 84:84]]

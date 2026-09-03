@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 38
 slug: dc-38
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,26 +46,32 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 45]] — 7 footnote cross-references (from [[D&C 38#^dc-38-1|D&C 38:1]])
+- [[D&C 88]] — 5 footnote cross-references (from [[D&C 38#^dc-38-2|D&C 38:2]])
+- [[Moses 7]] — 5 footnote cross-references (from [[D&C 38#^dc-38-2|D&C 38:2]])
+- [[D&C 42]] — 5 footnote cross-references (from [[D&C 38#^dc-38-13|D&C 38:13]])
+- [[D&C 35]] — 4 footnote cross-references (from [[D&C 38#^dc-38-1|D&C 38:1]])
+- [[D&C 1]] — 3 footnote cross-references (from [[D&C 38#^dc-38-7|D&C 38:7]])
 - [[D&C 124]] — 3 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 124#^dc-124-131|D&C 124:131]]
 - [[3 Nephi 12]] — 3 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]]
+- [[D&C 44]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-35|D&C 38:35]] ↔ [[D&C 44#^dc-44-6|D&C 44:6]]
+- [[D&C 45]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
+- [[D&C 61]] — 2 parallel verses, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[D&C 61#^dc-61-1|D&C 61:1]]
 - [[Moses 7]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-5|D&C 38:5]] ↔ [[Moses 7#^moses-7-57|Moses 7:57]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[Revelation 22#^rev-22-13|Revelation 22:13]]
 - [[D&C 41]] — 2 parallel verses, e.g. [[D&C 38#^dc-38-34|D&C 38:34]] ↔ [[D&C 41#^dc-41-9|D&C 41:9]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[D&C 38#^dc-38-18|D&C 38:18]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
 - [[Isaiah 52]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-42|D&C 38:42]] ↔ [[Isaiah 52#^isa-52-11|Isaiah 52:11]]
 - [[D&C 82]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 82#^dc-82-8|D&C 82:8]]
 - [[Revelation 21]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[Revelation 21#^rev-21-6|Revelation 21:6]]
-- [[D&C 84]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[D&C 84#^dc-84-120|D&C 84:120]]
-- [[D&C 42]] — 2 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 42#^dc-42-58|D&C 42:58]]
-- [[D&C 49]] — 2 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 49#^dc-49-1|D&C 49:1]]
-- [[D&C 88]] — 2 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 88#^dc-88-76|D&C 88:76]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Fasting and Prayer for the Poor]]
 - [[Pride]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -83,12 +89,12 @@ Preparation includes spiritual, social, and practical dimensions: purity, wisdom
 - [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
 - [[He Goes before Us (President Henry B. Eyring, April 2020)|He Goes before Us]] — President Henry B. Eyring, 2020-April *(explicit citation)*
 - [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[The Family Is of God (Carole M. Stephens, April 2015)|The Family Is of God]] — Carole M. Stephens, 2015-April *(explicit citation)*
 - [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
 - [[Meeting the Challenges of Today’s World (Elder Robert D. Hales, October 2015)|Meeting the Challenges of Today’s World]] — Elder Robert D. Hales, 2015-October *(explicit citation)*
 - [[Shipshape and Bristol Fashion Be Temple Worthy—in Good Times and Bad Times (Elder Quentin L. Cook, October 2015)|Shipshape and Bristol Fashion: Be Temple Worthy—in Good Times and Bad Times]] — Elder Quentin L. Cook, 2015-October *(explicit citation)*
-- [[Refuge from the Storm (Elder Patrick Kearon, April 2016)|Refuge from the Storm]] — Elder Patrick Kearon, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -102,7 +108,7 @@ Preparation includes spiritual, social, and practical dimensions: purity, wisdom
 - **Emergency Preparedness** (reference-entry) *(explicit citation)*
 - **Endowment** (reference-entry) *(explicit citation)*
 - **Unity** (reference-entry) *(explicit citation)*
-- **The Word of Wisdom** (history) *(explicit citation)*
+- **10 Gathered In** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

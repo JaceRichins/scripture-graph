@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 19
 slug: ps-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Romans 10]] — 1 footnote cross-reference (from [[Psalm 19#^ps-19-4|Psalm 19:4]])
 - [[2 Nephi 31]] — 1 footnote cross-reference (from [[Psalm 19#^ps-19-4|Psalm 19:4]])
 - [[D&C 64]] — 1 footnote cross-reference (from [[Psalm 19#^ps-19-4|Psalm 19:4]])
+- [[Psalm 119]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -38,6 +38,7 @@ _Not yet developed._
 - [[2 Nephi 27]]
 - [[Matthew 26]] *(keyword match)*
 - [[D&C 17]]
+- [[D&C 20]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

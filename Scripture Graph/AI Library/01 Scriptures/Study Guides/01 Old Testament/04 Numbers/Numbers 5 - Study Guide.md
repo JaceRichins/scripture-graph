@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 5
 slug: num-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 5
 slug: deut-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,9 @@ Scripture: [[Deuteronomy 5]] · My notes: [[Deuteronomy 5 - My Notes]]
 - [[Deuteronomy 4]] — 2 footnote cross-references (from [[Deuteronomy 5#^deut-5-23|Deuteronomy 5:23]])
 - [[D&C 1]] — 2 footnote cross-references (from [[Deuteronomy 5#^deut-5-27|Deuteronomy 5:27]])
 - [[Deuteronomy 29]] — 1 footnote cross-reference (from [[Deuteronomy 5#^deut-5-3|Deuteronomy 5:3]])
+- [[Exodus 20]] — 8 parallel verses, e.g. [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
+- [[Mosiah 13]] — 6 parallel verses, e.g. [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]] ↔ [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]]
+- [[Deuteronomy 4]] — 7 parallel verses, e.g. [[Deuteronomy 5#^deut-5-26|Deuteronomy 5:26]] ↔ [[Deuteronomy 4#^deut-4-33|Deuteronomy 4:33]]
 - [[Deuteronomy 13]] — 2 parallel verses, e.g. [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6]] ↔ [[Deuteronomy 13#^deut-13-10|Deuteronomy 13:10]]
 - [[Deuteronomy 19]] — 5 parallel verses, e.g. [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]] ↔ [[Deuteronomy 19#^deut-19-1|Deuteronomy 19:1]]
 - [[Deuteronomy 25]] — 2 parallel verses, e.g. [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]] ↔ [[Deuteronomy 25#^deut-25-15|Deuteronomy 25:15]]
@@ -58,9 +61,6 @@ Scripture: [[Deuteronomy 5]] · My notes: [[Deuteronomy 5 - My Notes]]
 - [[Mosiah 12]] — 2 parallel verses, e.g. [[Deuteronomy 5#^deut-5-8|Deuteronomy 5:8]] ↔ [[Mosiah 12#^mosiah-12-36|Mosiah 12:36]]
 - [[Deuteronomy 10]] — 2 parallel verses, e.g. [[Deuteronomy 5#^deut-5-4|Deuteronomy 5:4]] ↔ [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]]
 - [[Deuteronomy 28]] — 2 parallel verses, e.g. [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]] ↔ [[Deuteronomy 28#^deut-28-8|Deuteronomy 28:8]]
-- [[Deuteronomy 26]] — 3 parallel verses, e.g. [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]] ↔ [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]]
-- [[Psalm 81]] — 1 parallel verse, e.g. [[Deuteronomy 5#^deut-5-6|Deuteronomy 5:6]] ↔ [[Psalm 81#^ps-81-10|Psalm 81:10]]
-- [[Deuteronomy 15]] — 2 parallel verses, e.g. [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

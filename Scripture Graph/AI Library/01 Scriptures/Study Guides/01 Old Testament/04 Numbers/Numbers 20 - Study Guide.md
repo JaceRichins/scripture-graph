@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 20
 slug: num-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,10 +50,12 @@ The chapter has a loose envelope shape: Miriam's death (v.1) and Aaron's death (
 - [[Deuteronomy 32]] — 2 footnote cross-references (from [[Numbers 20#^num-20-12|Numbers 20:12]])
 - [[Numbers 27]] — 1 footnote cross-reference (from [[Numbers 20#^num-20-1|Numbers 20:1]])
 - [[Exodus 4]] — 1 footnote cross-reference (from [[Numbers 20#^num-20-8|Numbers 20:8]])
+- [[Numbers 16]] — 4 parallel verses, e.g. [[Numbers 20#^num-20-2|Numbers 20:2]] ↔ [[Numbers 16#^num-16-3|Numbers 16:3]]
+- [[Numbers 27]] — 2 parallel verses, e.g. [[Numbers 20#^num-20-24|Numbers 20:24]] ↔ [[Numbers 27#^num-27-12|Numbers 27:12]]
 - [[D&C 3]] — 1 parallel verse, e.g. [[Numbers 20#^num-20-17|Numbers 20:17]] ↔ [[D&C 3#^dc-3-2|D&C 3:2]]
 - [[Leviticus 9]] — 1 parallel verse, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Leviticus 9#^lev-9-23|Leviticus 9:23]]
-- [[Numbers 27]] — 0 parallel verses
 - [[Exodus 17]] — 0 parallel verses
+- [[Judges 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,7 +77,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Aaron** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

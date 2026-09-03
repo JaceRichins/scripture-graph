@@ -90,7 +90,7 @@ cssclasses:
 ![[3 Nephi 4#^3ne-4-29]]
 
 ![[3 Nephi 4#^3ne-4-30]]
-> [[Alma 29#^alma-29-11|Alma 29:11]] · [[Genesis 4#^gen-4-26|Gen. 4:26]] · [[Ether 4#^ether-4-15|Ether 4:15]] · [[Moroni 2#^moro-2-2|Moro. 2:2]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]] · [[Acts 7#^acts-7-32|≈ Acts 7:32]] · [[Alma 36#^alma-36-2|≈ Alma 36:2]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]]
+> [[Alma 29#^alma-29-11|Alma 29:11]] · [[Genesis 4#^gen-4-26|Gen. 4:26]] · [[Ether 4#^ether-4-15|Ether 4:15]] · [[Moroni 2#^moro-2-2|Moro. 2:2]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]] · [[Acts 7#^acts-7-32|≈ Acts 7:32]] · [[Exodus 3#^ex-3-6|≈ Exodus 3:6]] · [[Exodus 3#^ex-3-15|≈ Exodus 3:15]]
 
 ![[3 Nephi 4#^3ne-4-31]]
 > [[Alma 26#^alma-26-8|Alma 26:8]] · [[Omni 1#^omni-1-6|≈ Omni 1:6]] · [[Omni 1#^omni-1-2|≈ Omni 1:2]]

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 4
 slug: dc-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -85,12 +85,14 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Support at Home** (history) *(explicit citation)*
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Consecration** (reference-entry) *(explicit citation)*
 - **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
 - **Love** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
+- **Sources Cited** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

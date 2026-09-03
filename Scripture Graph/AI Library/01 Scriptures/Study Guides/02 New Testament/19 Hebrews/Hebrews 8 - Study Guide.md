@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 8
 slug: heb-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 - [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
 - [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
 <!-- SG:END conference -->

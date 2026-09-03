@@ -57,7 +57,7 @@ cssclasses:
 > [[1 Nephi 1#^1ne-1-14|1 Ne. 1:14]] · [[2 Nephi 26#^2ne-26-24|2 Ne. 26:25 (24–28)]] · [[Alma 5#^alma-5-33|Alma 5:34 (33–36)]] · [[John 3#^john-3-16|John 3:16]] · [[Isaiah 59#^isa-59-16|Isa. 59:16]] · [[Alma 19#^alma-19-36|Alma 19:36]]
 
 ![[3 Nephi 9#^3ne-9-15]]
-> [[John 1#^john-1-1|John 1:3 (1–3)]] · [[Colossians 1#^col-1-16|Col. 1:16]] · [[Hebrews 1#^heb-1-1|Heb. 1:2 (1–3)]] · [[Mosiah 15#^mosiah-15-4|Mosiah 15:4]] · [[Helaman 14#^hel-14-12|Hel. 14:12]] · [[Ether 4#^ether-4-7|Ether 4:7]] · [[D&C 14#^dc-14-9|D&amp;C 14:9]] · [[3 Nephi 11#^3ne-11-7|3 Ne. 11:27 (7, 11, 27)]] · [[3 Nephi 19#^3ne-19-23|19:23 (23, 29)]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]]
+> [[John 1#^john-1-1|John 1:3 (1–3)]] · [[Colossians 1#^col-1-16|Col. 1:16]] · [[Hebrews 1#^heb-1-1|Heb. 1:2 (1–3)]] · [[Mosiah 15#^mosiah-15-4|Mosiah 15:4]] · [[Helaman 14#^hel-14-12|Hel. 14:12]] · [[Ether 4#^ether-4-7|Ether 4:7]] · [[D&C 14#^dc-14-9|D&amp;C 14:9]] · [[3 Nephi 11#^3ne-11-7|3 Ne. 11:27 (7, 11, 27)]] · [[3 Nephi 19#^3ne-19-23|19:23 (23, 29)]] · [[John 14#^john-14-10|≈ John 14:10]]
 
 ![[3 Nephi 9#^3ne-9-16]]
 > [[John 1#^john-1-11|John 1:11]] · [[D&C 6#^dc-6-21|D&amp;C 6:21]] · [[3 Nephi 15#^3ne-15-5|3 Ne. 15:5]]
@@ -72,7 +72,7 @@ cssclasses:
 > [[Mosiah 13#^mosiah-13-27|Mosiah 13:27]] · [[Alma 34#^alma-34-13|Alma 34:13]] · [[3 Nephi 15#^3ne-15-2|3 Ne. 15:4 (2–10)]]
 
 ![[3 Nephi 9#^3ne-9-20]]
-> [[Psalm 51#^ps-51-17|Ps. 51:17]] · [[Omni 1#^omni-1-26|Omni 1:26]] · [[3 Nephi 12#^3ne-12-19|3 Ne. 12:19]] · [[D&C 64#^dc-64-34|D&amp;C 64:34]] · [[Ether 4#^ether-4-15|≈ Ether 4:15]] · [[Ether 12#^ether-12-14|≈ Ether 12:14]] · [[Moroni 6#^moro-6-2|≈ Moroni 6:2]] · [[3 Nephi 12#^3ne-12-19|≈ 3 Nephi 12:19]] · [[3 Nephi 12#^3ne-12-2|≈ 3 Nephi 12:2]] · [[3 Nephi 12#^3ne-12-1|≈ 3 Nephi 12:1]]
+> [[Psalm 51#^ps-51-17|Ps. 51:17]] · [[Omni 1#^omni-1-26|Omni 1:26]] · [[3 Nephi 12#^3ne-12-19|3 Ne. 12:19]] · [[D&C 64#^dc-64-34|D&amp;C 64:34]] · [[Ether 4#^ether-4-15|≈ Ether 4:15]] · [[Ether 12#^ether-12-14|≈ Ether 12:14]] · [[Moroni 6#^moro-6-2|≈ Moroni 6:2]] · [[3 Nephi 11#^3ne-11-35|≈ 3 Nephi 11:35]] · [[2 Nephi 2#^2ne-2-7|≈ 2 Nephi 2:7]] · [[3 Nephi 12#^3ne-12-19|≈ 3 Nephi 12:19]]
 
 ![[3 Nephi 9#^3ne-9-21]]
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 5
 slug: 1cor-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[Loving Others and Living with Differences (Elder Dallin H. Oaks, October 2014)|Loving Others and Living with Differences]] — Elder Dallin H. Oaks, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 

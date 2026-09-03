@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 19
 slug: prov-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -43,14 +43,14 @@ _Not yet developed._
 - [[Proverbs 10]] — 2 footnote cross-references (from [[Proverbs 19#^prov-19-23|Proverbs 19:23]])
 - [[D&C 88]] — 1 footnote cross-reference (from [[Proverbs 19#^prov-19-1|Proverbs 19:1]])
 - [[D&C 104]] — 1 footnote cross-reference (from [[Proverbs 19#^prov-19-1|Proverbs 19:1]])
-- [[Proverbs 28]] — 0 parallel verses
+- [[Proverbs 28]] — 1 parallel verse, e.g. [[Proverbs 19#^prov-19-1|Proverbs 19:1]] ↔ [[Proverbs 28#^prov-28-6|Proverbs 28:6]]
 - [[Proverbs 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Work and Self-Reliance]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -67,7 +67,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Almsgiving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

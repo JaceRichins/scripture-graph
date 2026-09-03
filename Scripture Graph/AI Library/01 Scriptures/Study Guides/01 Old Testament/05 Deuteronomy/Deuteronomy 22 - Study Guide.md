@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 22
 slug: deut-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Leviticus 22]] — 1 footnote cross-reference (from [[Deuteronomy 22#^deut-22-6|Deuteronomy 22:6]])
 - [[Deuteronomy 6]] — 2 parallel verses, e.g. [[Deuteronomy 22#^deut-22-7|Deuteronomy 22:7]] ↔ [[Deuteronomy 6#^deut-6-18|Deuteronomy 6:18]]
 - [[Deuteronomy 21]] — 3 parallel verses, e.g. [[Deuteronomy 22#^deut-22-21|Deuteronomy 22:21]] ↔ [[Deuteronomy 21#^deut-21-21|Deuteronomy 21:21]]
+- [[Numbers 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,7 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

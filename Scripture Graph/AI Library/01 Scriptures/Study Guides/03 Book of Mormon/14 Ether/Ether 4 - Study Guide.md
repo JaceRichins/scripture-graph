@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 4
 slug: ether-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ _Not yet developed._
 - [[Trusting Our Father (Elder David P. Homer, October 2024)|Trusting Our Father]] — Elder David P. Homer, 2024-October *(explicit citation)*
 - [[The Character of Christ (President D. Todd Christofferson, April 2026)|The Character of Christ]] — President D. Todd Christofferson, 2026-April *(explicit citation)*
 - [[“Here Am I, Send Me” (President Susan H. Porter, April 2026)|“Here Am I, Send Me”]] — President Susan H. Porter, 2026-April *(explicit citation)*
+- [[Learning with Our Hearts (Elder Walter F. González, October 2012)|Learning with Our Hearts]] — Elder Walter F. González, 2012-October *(explicit citation)*
 - [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 

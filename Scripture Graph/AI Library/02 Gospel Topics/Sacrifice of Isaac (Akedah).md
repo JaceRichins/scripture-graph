@@ -30,6 +30,7 @@ _Not yet developed._
 - [[Genesis 22]]
 - [[Hebrews 11]]
 - [[Jacob 4]]
+- [[D&C 132]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

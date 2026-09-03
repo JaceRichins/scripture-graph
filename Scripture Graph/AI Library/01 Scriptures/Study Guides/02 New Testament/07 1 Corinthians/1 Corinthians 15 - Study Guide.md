@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 15
 slug: 1cor-15
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,11 @@ Scripture: [[1 Corinthians 15]] · My notes: [[1 Corinthians 15 - My Notes]]
 - [[Hosea 13]] — 0 parallel verses
 - [[Romans 5]] — 0 parallel verses
 - [[1 Thessalonians 4]] — 0 parallel verses
+- [[Alma 5]] — 0 parallel verses
+- [[D&C 76]] — 0 parallel verses
+- [[Hosea 13]] — 0 parallel verses
+- [[D&C 63]] — 0 parallel verses
+- [[1 Thessalonians 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -100,6 +105,7 @@ The sun, moon, stars, and celestial and terrestrial bodies invite comparison wit
 ## Church History
 <!-- SG:BEGIN history -->
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Baptisms for the Dead** (reference-entry) *(explicit citation)*
 - **Death, Physical** (reference-entry) *(explicit citation)*
@@ -107,7 +113,6 @@ The sun, moon, stars, and celestial and terrestrial bodies invite comparison wit
 - **Grace** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
-- **Resurrection** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

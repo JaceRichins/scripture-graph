@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 4
 slug: lev-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -71,8 +71,8 @@ _Not yet developed._
 - [[Ordinances]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
-- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Atonement of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -91,7 +91,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Atonement** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

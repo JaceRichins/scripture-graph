@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 5
 slug: neh-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,7 +60,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Amen** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

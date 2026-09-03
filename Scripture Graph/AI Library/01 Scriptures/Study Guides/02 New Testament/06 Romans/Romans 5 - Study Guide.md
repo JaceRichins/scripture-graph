@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 5
 slug: rom-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 - [[Sacred Scriptures—the Foundations of Faith (Elder Quentin L. Cook, October 2024)|Sacred Scriptures—the Foundations of Faith]] — Elder Quentin L. Cook, 2024-October *(explicit citation)*
 - [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
+- [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -78,6 +79,8 @@ _Not yet developed._
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1835-11-01 (Vol. 2 No. 2)** (periodical, 1835-11-01) *(explicit citation)*
+- **Adam** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

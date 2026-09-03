@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 47
 slug: ps-47
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

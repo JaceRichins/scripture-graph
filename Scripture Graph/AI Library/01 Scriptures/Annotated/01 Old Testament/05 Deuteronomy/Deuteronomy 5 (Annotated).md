@@ -36,7 +36,7 @@ cssclasses:
 ![[Deuteronomy 5#^deut-5-7]]
 
 ![[Deuteronomy 5#^deut-5-8]]
-> [[Exodus 20#^ex-20-4|≈ Exodus 20:4]] · [[Mosiah 12#^mosiah-12-36|≈ Mosiah 12:36]] · [[Mosiah 13#^mosiah-13-12|≈ Mosiah 13:12]] · [[Deuteronomy 4#^deut-4-18|≈ Deuteronomy 4:18]]
+> [[Exodus 20#^ex-20-4|≈ Exodus 20:4]] · [[Mosiah 13#^mosiah-13-12|≈ Mosiah 13:12]] · [[Mosiah 12#^mosiah-12-36|≈ Mosiah 12:36]] · [[Deuteronomy 4#^deut-4-18|≈ Deuteronomy 4:18]]
 
 ![[Deuteronomy 5#^deut-5-9]]
 > [[D&C 124#^dc-124-50|D&amp;C 124:50]] · [[Exodus 20#^ex-20-5|≈ Exodus 20:5]] · [[Mosiah 13#^mosiah-13-13|≈ Mosiah 13:13]] · [[Exodus 34#^ex-34-7|≈ Exodus 34:7]] · [[Numbers 14#^num-14-18|≈ Numbers 14:18]] · [[D&C 103#^dc-103-26|≈ D&C 103:26]] · [[D&C 105#^dc-105-30|≈ D&C 105:30]]
@@ -59,7 +59,7 @@ cssclasses:
 > [[Deuteronomy 7#^deut-7-19|≈ Deuteronomy 7:19]] · [[Deuteronomy 4#^deut-4-34|≈ Deuteronomy 4:34]] · [[Deuteronomy 13#^deut-13-5|≈ Deuteronomy 13:5]]
 
 ![[Deuteronomy 5#^deut-5-16]]
-> [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Mosiah 13#^mosiah-13-20|≈ Mosiah 13:20]] · [[Mosiah 3#^mosiah-3-22|≈ Mosiah 3:22]] · [[Deuteronomy 4#^deut-4-40|≈ Deuteronomy 4:40]] · [[Deuteronomy 4#^deut-4-21|≈ Deuteronomy 4:21]] · [[Deuteronomy 17#^deut-17-14|≈ Deuteronomy 17:14]]
+> [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Mosiah 13#^mosiah-13-20|≈ Mosiah 13:20]] · [[Mosiah 3#^mosiah-3-22|≈ Mosiah 3:22]] · [[Deuteronomy 4#^deut-4-40|≈ Deuteronomy 4:40]] · [[Deuteronomy 4#^deut-4-21|≈ Deuteronomy 4:21]] · [[Deuteronomy 19#^deut-19-1|≈ Deuteronomy 19:1]]
 
 ![[Deuteronomy 5#^deut-5-17]]
 

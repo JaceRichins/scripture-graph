@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 17
 slug: john-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,9 @@ _Not yet developed._
 - [[1 John 1]] — 1 footnote cross-reference (from [[John 17#^john-17-3|John 17:3]])
 - [[1 John 2]] — 1 footnote cross-reference (from [[John 17#^john-17-3|John 17:3]])
 - [[D&C 132]] — 1 footnote cross-reference (from [[John 17#^john-17-3|John 17:3]])
+- [[D&C 132]] — 0 parallel verses
+- [[D&C 50]] — 0 parallel verses
+- [[3 Nephi 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 56
 slug: dc-56
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -43,16 +43,23 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 1]] — 3 footnote cross-references (from [[D&C 56#^dc-56-1|D&C 56:1]])
+- [[D&C 50]] — 2 footnote cross-references (from [[D&C 56#^dc-56-1|D&C 56:1]])
+- [[D&C 75]] — 2 footnote cross-references (from [[D&C 56#^dc-56-4|D&C 56:4]])
+- [[D&C 52]] — 2 footnote cross-references (from [[D&C 56#^dc-56-5|D&C 56:5]])
+- [[2 Nephi 9]] — 2 footnote cross-references (from [[D&C 56#^dc-56-11|D&C 56:11]])
+- [[Luke 21]] — 2 footnote cross-references (from [[D&C 56#^dc-56-15|D&C 56:15]])
 - [[D&C 124]] — 3 parallel verses, e.g. [[D&C 56#^dc-56-1|D&C 56:1]] ↔ [[D&C 124#^dc-124-145|D&C 124:145]]
-- [[Jeremiah 8]] — 0 parallel verses
+- [[Jacob 2]] — 1 parallel verse, e.g. [[D&C 56#^dc-56-20|D&C 56:20]] ↔ [[Jacob 2#^jacob-2-22|Jacob 2:22]]
+- [[Jeremiah 8]] — 1 parallel verse, e.g. [[D&C 56#^dc-56-16|D&C 56:16]] ↔ [[Jeremiah 8#^jer-8-20|Jeremiah 8:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Fasting and Prayer for the Poor]]
 - [[Pride]]
 - [[Final Judgment]]
 - [[Obedience]] *(keyword match — unconfirmed)*
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 11
 slug: num-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Joshua 7]] — 2 parallel verses, e.g. [[Numbers 11#^num-11-10|Numbers 11:10]] ↔ [[Joshua 7#^josh-7-1|Joshua 7:1]]
 - [[Exodus 16]] — 0 parallel verses
 - [[Exodus 18]] — 0 parallel verses
+- [[Psalm 78]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

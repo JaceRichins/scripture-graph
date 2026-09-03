@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 16
 slug: 2ne-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -61,7 +61,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Learning with Our Hearts (Elder Walter F. González, October 2012)|Learning with Our Hearts]] — Elder Walter F. González, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

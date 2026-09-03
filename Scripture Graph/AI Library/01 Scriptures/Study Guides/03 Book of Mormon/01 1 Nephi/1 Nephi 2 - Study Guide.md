@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 2
 slug: 1ne-2
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,11 @@ The chapter presents Lehi's departure as revelation followed by costly [[Obedien
 - [[1 Nephi 4]] — 3 footnote cross-references (from [[1 Nephi 2#^1ne-2-2|1 Nephi 2:2]])
 - [[1 Nephi 5]] — 3 footnote cross-references (from [[1 Nephi 2#^1ne-2-2|1 Nephi 2:2]])
 - [[Genesis 12]] — 3 footnote cross-references (from [[1 Nephi 2#^1ne-2-2|1 Nephi 2:2]])
+- [[2 Nephi 1]] — 5 parallel verses, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[2 Nephi 5]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-24|1 Nephi 2:24]] ↔ [[2 Nephi 5#^2ne-5-25|2 Nephi 5:25]]
 - [[Alma 9]] — 3 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[1 Nephi 17]] — 4 parallel verses, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]]
+- [[Ether 2]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
 - [[Alma 42]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
 - [[Alma 50]] — 1 parallel verse, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
 - [[Mormon 3]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]] ↔ [[Mormon 3#^morm-3-15|Mormon 3:15]]
@@ -66,9 +69,6 @@ The chapter presents Lehi's departure as revelation followed by costly [[Obedien
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 - [[Ether 1]] — 2 parallel verses, e.g. [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]] ↔ [[Ether 1#^ether-1-38|Ether 1:38]]
 - [[1 Nephi 7]] — 1 parallel verse, e.g. [[1 Nephi 2#^1ne-2-13|1 Nephi 2:13]] ↔ [[1 Nephi 7#^1ne-7-14|1 Nephi 7:14]]
-- [[2 Nephi 1]] — 0 parallel verses
-- [[1 Nephi 17]] — 0 parallel verses
-- [[2 Nephi 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -104,6 +104,7 @@ The land promise is governed by conditional language. Prosperity and Nephi's fut
 - **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

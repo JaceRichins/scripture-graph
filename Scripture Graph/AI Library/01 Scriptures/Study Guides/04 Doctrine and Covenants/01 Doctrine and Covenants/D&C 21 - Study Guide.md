@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 21
 slug: dc-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -84,11 +84,11 @@ _Not yet developed._
 - **The Book of John Whitmer** (history) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
+- **08 The Rise of the Church of Christ** (history) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
-- **Prophets** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

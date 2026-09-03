@@ -57,7 +57,7 @@ cssclasses:
 ![[Jeremiah 37#^jer-37-16]]
 
 ![[Jeremiah 37#^jer-37-17]]
-> [[Jeremiah 38#^jer-38-3|≈ Jeremiah 38:3]] · [[Jeremiah 38#^jer-38-23|≈ Jeremiah 38:23]] · [[Jeremiah 38#^jer-38-14|≈ Jeremiah 38:14]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]]
+> [[Jeremiah 38#^jer-38-3|≈ Jeremiah 38:3]] · [[Jeremiah 38#^jer-38-23|≈ Jeremiah 38:23]] · [[Jeremiah 38#^jer-38-14|≈ Jeremiah 38:14]] · [[Jeremiah 21#^jer-21-10|≈ Jeremiah 21:10]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]]
 
 ![[Jeremiah 37#^jer-37-18]]
 

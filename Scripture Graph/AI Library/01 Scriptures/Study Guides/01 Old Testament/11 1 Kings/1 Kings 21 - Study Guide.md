@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 21
 slug: 1kgs-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -66,7 +66,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ahab** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

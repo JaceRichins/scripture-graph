@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 125
 slug: dc-125
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 125]] · My notes: [[D&C 125 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–4, The Saints are to build cities and to gather to the stakes of Zion.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,8 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 136]] — 2 parallel verses, e.g. [[D&C 125#^dc-125-1|D&C 125:1]] ↔ [[D&C 136#^dc-136-9|D&C 136:9]]
+- [[Omni 1]] — 1 footnote cross-reference (from [[D&C 125#^dc-125-3|D&C 125:3]])
+- [[Alma 2]] — 1 footnote cross-reference (from [[D&C 125#^dc-125-3|D&C 125:3]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

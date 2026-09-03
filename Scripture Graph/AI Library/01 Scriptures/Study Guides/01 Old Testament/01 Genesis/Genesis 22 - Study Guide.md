@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 22
 slug: gen-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,11 @@ _Not yet developed._
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
+- **Abraham, covenant of** (reference-entry) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
+- **Aram, Arameans** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

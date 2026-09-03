@@ -26,7 +26,7 @@ cssclasses:
 > [[Jacob 5#^jacob-5-71|Jacob 5:71]] · [[D&C 41#^dc-41-1|D&amp;C 41:1]] · [[Isaiah 24#^isa-24-6|Isa. 24:6]] · [[2 Nephi 27#^2ne-27-2|2 Ne. 27:2]] · [[Jacob 5#^jacob-5-77|Jacob 5:77]] · [[3 Nephi 25#^3ne-25-1|3 Ne. 25:1]]
 
 ![[Jacob 6#^jacob-6-4]]
-> [[2 Samuel 7#^2sam-7-24|2 Sam. 7:24]] · [[Nehemiah 9#^neh-9-18|Neh. 9:19 (18–26)]] · [[2 Nephi 19#^2ne-19-17|2 Ne. 19:17 (17–21)]] · [[2 Nephi 28#^2ne-28-32|28:32]] · [[Jacob 5#^jacob-5-47|Jacob 5:47]] · [[Moroni 10#^moro-10-21|≈ Moroni 10:21]] · [[Moroni 10#^moro-10-26|≈ Moroni 10:26]] · [[2 Nephi 25#^2ne-25-13|≈ 2 Nephi 25:13]] · [[2 Nephi 28#^2ne-28-8|≈ 2 Nephi 28:8]] · [[2 Nephi 9#^2ne-9-23|≈ 2 Nephi 9:23]]
+> [[2 Samuel 7#^2sam-7-24|2 Sam. 7:24]] · [[Nehemiah 9#^neh-9-18|Neh. 9:19 (18–26)]] · [[2 Nephi 19#^2ne-19-17|2 Ne. 19:17 (17–21)]] · [[2 Nephi 28#^2ne-28-32|28:32]] · [[Jacob 5#^jacob-5-47|Jacob 5:47]] · [[Moroni 10#^moro-10-21|≈ Moroni 10:21]] · [[Moroni 10#^moro-10-26|≈ Moroni 10:26]] · [[2 Nephi 25#^2ne-25-13|≈ 2 Nephi 25:13]] · [[2 Nephi 9#^2ne-9-23|≈ 2 Nephi 9:23]] · [[2 Nephi 28#^2ne-28-8|≈ 2 Nephi 28:8]]
 
 ![[Jacob 6#^jacob-6-5]]
 > [[Deuteronomy 10#^deut-10-20|Deut. 10:20]] · [[Joshua 23#^josh-23-8|Josh. 23:8]] · [[2 Kings 18#^2kgs-18-6|2 Kgs. 18:6]] · [[Helaman 4#^hel-4-25|Hel. 4:25]] · [[D&C 11#^dc-11-19|D&amp;C 11:19]] · [[Isaiah 59#^isa-59-16|Isa. 59:16]] · [[2 Nephi 1#^2ne-1-15|2 Ne. 1:15]] · [[Alma 5#^alma-5-33|Alma 5:33]] · [[3 Nephi 9#^3ne-9-14|3 Ne. 9:14]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 6
 slug: alma-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ _Not yet developed._
 - [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 - [[We Are The Church of Jesus Christ of Latter-day Saints (Reyna I. Aburto, April 2022)|We Are The Church of Jesus Christ of Latter-day Saints]] — Reyna I. Aburto, 2022-April *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

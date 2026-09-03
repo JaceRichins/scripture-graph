@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 22
 slug: ex-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,13 +57,16 @@ _Not yet developed._
 - [[Deuteronomy 10]] — 0 parallel verses
 - [[Exodus 13]] — 0 parallel verses
 - [[Amos 2]] — 0 parallel verses
+- [[Deuteronomy 24]] — 0 parallel verses
+- [[Deuteronomy 23]] — 0 parallel verses
+- [[2 Samuel 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Law of Moses]]
 - [[Ten Commandments]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -78,12 +81,12 @@ The same chapter also contains sale for unpaid theft, paternal authority in the 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Lord’s Richest Blessings (Elder Carl B. Pratt, April 2011)|The Lord’s Richest Blessings]] — Elder Carl B. Pratt, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

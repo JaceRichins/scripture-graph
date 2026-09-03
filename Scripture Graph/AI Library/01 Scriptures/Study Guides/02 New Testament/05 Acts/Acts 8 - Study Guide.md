@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 8
 slug: acts-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -73,16 +73,19 @@ _Not yet developed._
 - [[How Can I Understand (Elder Ulisses Soares, April 2019)|How Can I Understand?]] — Elder Ulisses Soares, 2019-April *(explicit citation)*
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 - [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
+- [[Waiting on the Road to Damascus (President Dieter F. Uchtdorf, April 2011)|Waiting on the Road to Damascus]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
 - [[Conference Report, April 1926 (General Conference (full report), April 1926)|Conference Report, April 1926]] — General Conference (full report), 1926-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1835-09-01 (Vol. 1 No. 12)** (periodical, 1835-09-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

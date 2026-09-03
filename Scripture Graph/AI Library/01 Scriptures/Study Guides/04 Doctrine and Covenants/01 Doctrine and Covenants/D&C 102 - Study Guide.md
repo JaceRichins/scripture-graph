@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 102
 slug: dc-102
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 102]] · My notes: [[D&C 102 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–8, A high council is appointed to settle important difficulties that arise in the Church; 9–18, Procedures are given for hearing cases; 19–23, The president of the council renders the decision; 24–34, Appellate procedure is set forth.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -44,10 +45,13 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[D&C 68]] — 6 parallel verses, e.g. [[D&C 102#^dc-102-26|D&C 102:26]] ↔ [[D&C 68#^dc-68-19|D&C 68:19]]
-- [[D&C 107]] — 3 parallel verses, e.g. [[D&C 102#^dc-102-10|D&C 102:10]] ↔ [[D&C 107#^dc-107-93|D&C 107:93]]
-- [[D&C 20]] — 2 parallel verses, e.g. [[D&C 102#^dc-102-12|D&C 102:12]] ↔ [[D&C 20#^dc-20-81|D&C 20:81]]
-- [[D&C 51]] — 2 parallel verses, e.g. [[D&C 102#^dc-102-9|D&C 102:9]] ↔ [[D&C 51#^dc-51-4|D&C 51:4]]
+- [[D&C 107]] — 3 footnote cross-references (from [[D&C 102#^dc-102-2|D&C 102:2]])
+- [[D&C 68]] — 2 footnote cross-references (from [[D&C 102#^dc-102-8|D&C 102:8]])
+- [[D&C 42]] — 1 footnote cross-reference (from [[D&C 102#^dc-102-1|D&C 102:1]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[D&C 102#^dc-102-2|D&C 102:2]])
+- [[D&C 81]] — 1 footnote cross-reference (from [[D&C 102#^dc-102-9|D&C 102:9]])
+- [[D&C 90]] — 1 footnote cross-reference (from [[D&C 102#^dc-102-9|D&C 102:9]])
+- [[D&C 107]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,6 +72,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **19 Stewards over This Ministry** (history) *(explicit citation)*
 - **Restoring the Ancient Order** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **High Council** (reference-entry) *(explicit citation)*

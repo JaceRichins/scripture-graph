@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 25
 slug: ex-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Exodus 14]] — 2 parallel verses, e.g. [[Exodus 25#^ex-25-2|Exodus 25:2]] ↔ [[Exodus 14#^ex-14-2|Exodus 14:2]]
 - [[1 Kings 6]] — 0 parallel verses
 - [[1 Chronicles 15]] — 0 parallel verses
+- [[Exodus 35]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +79,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

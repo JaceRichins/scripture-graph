@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 25
 slug: 2ne-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ A useful reading outline is:
 - [[1 Nephi 10]] — 3 footnote cross-references (from [[2 Nephi 25#^2ne-25-10|2 Nephi 25:10]])
 - [[2 Nephi 29]] — 4 parallel verses, e.g. [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]] ↔ [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]] ↔ [[Moroni 10#^moro-10-21|Moroni 10:21]]
+- [[Jacob 6]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]] ↔ [[Jacob 6#^jacob-6-2|Jacob 6:2]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]] ↔ [[2 Nephi 28#^2ne-28-8|2 Nephi 28:8]]
 - [[D&C 20]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-16|2 Nephi 25:16]] ↔ [[D&C 20#^dc-20-29|D&C 20:29]]
 - [[Helaman 14]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-13|2 Nephi 25:13]] ↔ [[Helaman 14#^hel-14-2|Helaman 14:2]]
@@ -66,14 +67,13 @@ A useful reading outline is:
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[2 Nephi 25#^2ne-25-12|2 Nephi 25:12]] ↔ [[1 Nephi 14#^1ne-14-7|1 Nephi 14:7]]
 - [[2 Nephi 27]] — 1 parallel verse, e.g. [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]] ↔ [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]]
 - [[Jarom 1]] — 1 parallel verse, e.g. [[2 Nephi 25#^2ne-25-12|2 Nephi 25:12]] ↔ [[Jarom 1#^jarom-1-3|Jarom 1:3]]
-- [[1 Nephi 19]] — 1 parallel verse, e.g. [[2 Nephi 25#^2ne-25-19|2 Nephi 25:19]] ↔ [[1 Nephi 19#^1ne-19-8|1 Nephi 19:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Salvation]]
-- [[Grace]]
 - [[Law of Moses]]
+- [[Grace]]
 - [[Crucifixion of Jesus Christ]]
 - [[Scattering of Israel]]
 - [[Records and Sacred Writings]]
@@ -98,8 +98,8 @@ The chapter also joins the [[Crucifixion of Jesus Christ]], [[Resurrection]], an
 - [[Facing Our Spiritual Hurricanes by Believing in Christ (Elder Sean Douglas, October 2021)|Facing Our Spiritual Hurricanes by Believing in Christ]] — Elder Sean Douglas, 2021-October *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[Compensating Blessings (Bishop Gérald Caussé, April 2025)|Compensating Blessings]] — Bishop Gérald Caussé, 2025-April *(explicit citation)*
+- [[Was It Worth It (Elder David F. Evans, April 2012)|Was It Worth It?]] — Elder David F. Evans, 2012-April *(explicit citation)*
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
-- [[Meeting the Challenges of Today’s World (Elder Robert D. Hales, October 2015)|Meeting the Challenges of Today’s World]] — Elder Robert D. Hales, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

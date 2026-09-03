@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 7
 slug: rev-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,8 @@ _Not yet developed._
 - [[Ezekiel 48]] — 1 footnote cross-reference (from [[Revelation 7#^rev-7-5|Revelation 7:5]])
 - [[D&C 77]] — 2 parallel verses, e.g. [[Revelation 7#^rev-7-3|Revelation 7:3]] ↔ [[D&C 77#^dc-77-9|D&C 77:9]]
 - [[Revelation 21]] — 1 parallel verse, e.g. [[Revelation 7#^rev-7-17|Revelation 7:17]] ↔ [[Revelation 21#^rev-21-4|Revelation 21:4]]
+- [[1 Nephi 12]] — 0 parallel verses
+- [[1 Nephi 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,7 +78,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Latter Day Saints' Messenger and Advocate 1837-01-01 (Vol. 3 No. 4)** (periodical, 1837-01-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

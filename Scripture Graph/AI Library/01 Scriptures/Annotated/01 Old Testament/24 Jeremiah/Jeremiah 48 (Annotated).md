@@ -45,7 +45,7 @@ cssclasses:
 > [[Zephaniah 1#^zeph-1-12|Zeph. 1:12]]
 
 ![[Jeremiah 48#^jer-48-12]]
-> [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]] · [[Jeremiah 51#^jer-51-52|≈ Jeremiah 51:52]] · [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]] · [[Jeremiah 16#^jer-16-14|≈ Jeremiah 16:14]] · [[Jeremiah 19#^jer-19-6|≈ Jeremiah 19:6]]
+> [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]] · [[Jeremiah 51#^jer-51-52|≈ Jeremiah 51:52]] · [[Jeremiah 16#^jer-16-14|≈ Jeremiah 16:14]] · [[Jeremiah 19#^jer-19-6|≈ Jeremiah 19:6]]
 
 ![[Jeremiah 48#^jer-48-13]]
 > [[Hosea 10#^hosea-10-6|Hosea 10:6]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 8
 slug: lev-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -90,7 +90,9 @@ These observations contribute to [[Justification and Sanctification]], [[Sacrifi
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **21 The Spirit of God** (history) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Aaron** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

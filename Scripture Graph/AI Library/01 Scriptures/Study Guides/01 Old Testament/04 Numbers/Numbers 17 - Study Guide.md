@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 17
 slug: num-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Exodus 38]] — 1 footnote cross-reference (from [[Numbers 17#^num-17-7|Numbers 17:7]])
 - [[Hebrews 9]] — 1 footnote cross-reference (from [[Numbers 17#^num-17-10|Numbers 17:10]])
 - [[Numbers 18]] — 1 footnote cross-reference (from [[Numbers 17#^num-17-13|Numbers 17:13]])
+- [[Numbers 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +66,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Oliver Cowdery’s Gift** (history) *(explicit citation)*
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

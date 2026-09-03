@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 6
 slug: acts-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Acts of the Apostles** (reference-entry) *(explicit citation)*
+- **Antioch** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

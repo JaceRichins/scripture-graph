@@ -17,10 +17,10 @@ cssclasses:
 > Jerusalem is besieged and taken by the Chaldeans—Many people and the vessels of the house of the Lord are carried into Babylon.
 
 ![[Jeremiah 52#^jer-52-1]]
-> [[2 Kings 24#^2kgs-24-18|2 Kgs. 24:18]] · [[2 Chronicles 36#^2chr-36-10|2 Chr. 36:10 (10–13)]] · [[2 Kings 24#^2kgs-24-18|≈ 2 Kings 24:18]] · [[2 Kings 24#^2kgs-24-8|≈ 2 Kings 24:8]] · [[2 Chronicles 36#^2chr-36-5|≈ 2 Chronicles 36:5]] · [[2 Chronicles 36#^2chr-36-11|≈ 2 Chronicles 36:11]] · [[2 Chronicles 36#^2chr-36-2|≈ 2 Chronicles 36:2]] · [[2 Chronicles 36#^2chr-36-9|≈ 2 Chronicles 36:9]]
+> [[2 Kings 24#^2kgs-24-18|2 Kgs. 24:18]] · [[2 Chronicles 36#^2chr-36-10|2 Chr. 36:10 (10–13)]] · [[2 Chronicles 36#^2chr-36-5|≈ 2 Chronicles 36:5]] · [[2 Chronicles 36#^2chr-36-11|≈ 2 Chronicles 36:11]] · [[2 Chronicles 36#^2chr-36-2|≈ 2 Chronicles 36:2]] · [[2 Chronicles 36#^2chr-36-9|≈ 2 Chronicles 36:9]] · [[2 Chronicles 21#^2chr-21-5|≈ 2 Chronicles 21:5]] · [[2 Chronicles 21#^2chr-21-20|≈ 2 Chronicles 21:20]]
 
 ![[Jeremiah 52#^jer-52-2]]
-> [[2 Kings 24#^2kgs-24-19|≈ 2 Kings 24:19]] · [[2 Kings 24#^2kgs-24-9|≈ 2 Kings 24:9]] · [[2 Chronicles 36#^2chr-36-5|≈ 2 Chronicles 36:5]] · [[2 Chronicles 36#^2chr-36-9|≈ 2 Chronicles 36:9]] · [[2 Chronicles 36#^2chr-36-12|≈ 2 Chronicles 36:12]] · [[2 Chronicles 21#^2chr-21-6|≈ 2 Chronicles 21:6]]
+> [[2 Chronicles 36#^2chr-36-5|≈ 2 Chronicles 36:5]] · [[2 Chronicles 36#^2chr-36-9|≈ 2 Chronicles 36:9]] · [[2 Chronicles 36#^2chr-36-12|≈ 2 Chronicles 36:12]] · [[2 Chronicles 21#^2chr-21-6|≈ 2 Chronicles 21:6]] · [[2 Chronicles 29#^2chr-29-6|≈ 2 Chronicles 29:6]] · [[2 Chronicles 29#^2chr-29-2|≈ 2 Chronicles 29:2]]
 
 ![[Jeremiah 52#^jer-52-3]]
 > [[2 Kings 24#^2kgs-24-20|2 Kgs. 24:20]] · [[2 Chronicles 36#^2chr-36-13|2 Chr. 36:13]] · [[Jeremiah 27#^jer-27-12|Jer. 27:17 (12, 16–17)]] · [[Jeremiah 39#^jer-39-1|39:4 (1–10)]] · [[Ezekiel 17#^ezek-17-15|Ezek. 17:15]] · [[1 Nephi 1#^1ne-1-4|1 Ne. 1:4]] · [[2 Kings 24#^2kgs-24-20|≈ 2 Kings 24:20]]
@@ -104,7 +104,7 @@ cssclasses:
 > [[Daniel 9#^dan-9-1|Dan. 9:11 (1–27)]] · [[Jeremiah 39#^jer-39-9|≈ Jeremiah 39:9]] · [[Jeremiah 39#^jer-39-10|≈ Jeremiah 39:10]] · [[Jeremiah 39#^jer-39-11|≈ Jeremiah 39:11]] · [[Jeremiah 39#^jer-39-13|≈ Jeremiah 39:13]] · [[2 Kings 25#^2kgs-25-11|≈ 2 Kings 25:11]] · [[Jeremiah 40#^jer-40-1|≈ Jeremiah 40:1]]
 
 ![[Jeremiah 52#^jer-52-31]]
-> [[Jeremiah 37#^jer-37-1|Jer. 37:1]] · [[2 Chronicles 29#^2chr-29-3|≈ 2 Chronicles 29:3]] · [[2 Kings 25#^2kgs-25-27|≈ 2 Kings 25:27]]
+> [[Jeremiah 37#^jer-37-1|Jer. 37:1]] · [[2 Kings 25#^2kgs-25-27|≈ 2 Kings 25:27]] · [[2 Chronicles 29#^2chr-29-3|≈ 2 Chronicles 29:3]]
 
 ![[Jeremiah 52#^jer-52-32]]
 > [[2 Kings 25#^2kgs-25-27|2 Kgs. 25:28 (27–30)]] · [[Jeremiah 27#^jer-27-3|Jer. 27:3]] · [[2 Kings 25#^2kgs-25-28|≈ 2 Kings 25:28]]

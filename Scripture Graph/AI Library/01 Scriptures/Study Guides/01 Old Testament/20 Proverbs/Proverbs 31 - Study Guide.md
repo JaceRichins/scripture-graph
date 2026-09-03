@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 31
 slug: prov-31
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -59,7 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Essence of Discipleship (Silvia H. Allred, April 2011)|The Essence of Discipleship]] — Silvia H. Allred, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

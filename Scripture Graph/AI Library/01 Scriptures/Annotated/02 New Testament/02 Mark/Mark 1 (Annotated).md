@@ -22,7 +22,7 @@ cssclasses:
 > [[Malachi 3#^mal-3-1|Mal. 3:1]] · [[Matthew 11#^matt-11-10|Matt. 11:10]] · [[Matthew 11#^matt-11-10|≈ Matthew 11:10]] · [[Luke 7#^luke-7-27|≈ Luke 7:27]]
 
 ![[Mark 1#^mark-1-3]]
-> [[Matthew 3#^matt-3-3|Matt. 3:3]] · [[Luke 3#^luke-3-4|Luke 3:4]] · [[John 1#^john-1-23|John 1:23]] · [[Matthew 3#^matt-3-3|≈ Matthew 3:3]] · [[Isaiah 40#^isa-40-3|≈ Isaiah 40:3]] · [[Luke 3#^luke-3-4|≈ Luke 3:4]] · [[John 1#^john-1-23|≈ John 1:23]] · [[1 Nephi 10#^1ne-10-8|≈ 1 Nephi 10:8]] · [[D&C 65#^dc-65-1|≈ D&C 65:1]]
+> [[Matthew 3#^matt-3-3|Matt. 3:3]] · [[Luke 3#^luke-3-4|Luke 3:4]] · [[John 1#^john-1-23|John 1:23]] · [[Matthew 3#^matt-3-3|≈ Matthew 3:3]] · [[D&C 65#^dc-65-1|≈ D&C 65:1]] · [[D&C 65#^dc-65-3|≈ D&C 65:3]] · [[Isaiah 40#^isa-40-3|≈ Isaiah 40:3]] · [[Luke 3#^luke-3-4|≈ Luke 3:4]] · [[John 1#^john-1-23|≈ John 1:23]]
 
 ![[Mark 1#^mark-1-4]]
 > [[Luke 3#^luke-3-3|≈ Luke 3:3]] · [[D&C 107#^dc-107-20|≈ D&C 107:20]]

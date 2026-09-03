@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jonah
 chapter: 4
 slug: jonah-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 6
 slug: micah-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,7 +49,8 @@ _Not yet developed._
 - [[Numbers 22]] — 1 footnote cross-reference (from [[Micah 6#^micah-6-5|Micah 6:5]])
 - [[Exodus 32]] — 2 parallel verses, e.g. [[Micah 6#^micah-6-4|Micah 6:4]] ↔ [[Exodus 32#^ex-32-4|Exodus 32:4]]
 - [[Jeremiah 25]] — 1 parallel verse, e.g. [[Micah 6#^micah-6-2|Micah 6:2]] ↔ [[Jeremiah 25#^jer-25-31|Jeremiah 25:31]]
-- [[Amos 5]] — 0 parallel verses
+- [[Psalm 50]] — 0 parallel verses
+- [[Hosea 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

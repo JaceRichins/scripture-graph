@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 17
 slug: mosiah-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 - [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
+- [[Having the Vision to Do (Elder O. Vincent Haleck, April 2012)|Having the Vision to Do]] — Elder O. Vincent Haleck, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

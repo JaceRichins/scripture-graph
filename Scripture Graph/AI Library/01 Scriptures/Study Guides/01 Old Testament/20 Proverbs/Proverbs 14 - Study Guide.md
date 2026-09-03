@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 14
 slug: prov-14
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Proverbs 16]] — 1 parallel verse, e.g. [[Proverbs 14#^prov-14-12|Proverbs 14:12]] ↔ [[Proverbs 16#^prov-16-25|Proverbs 16:25]]
 - [[Proverbs 28]] — 2 parallel verses, e.g. [[Proverbs 14#^prov-14-2|Proverbs 14:2]] ↔ [[Proverbs 28#^prov-28-6|Proverbs 28:6]]
 - [[Proverbs 13]] — 1 parallel verse, e.g. [[Proverbs 14#^prov-14-27|Proverbs 14:27]] ↔ [[Proverbs 13#^prov-13-14|Proverbs 13:14]]
+- [[Proverbs 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,7 +72,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Almsgiving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

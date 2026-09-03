@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 16
 slug: 1sam-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ Verse 7 is the chapter's doctrinal center: after Samuel misjudges Eliab, the LOR
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Judging Others** (reference-entry) *(explicit citation)*
 - **Judging Others** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

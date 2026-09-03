@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 13
 slug: judg-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,23 +49,23 @@ _Not yet developed._
 - [[Numbers 6]] — 1 footnote cross-reference (from [[Judges 13#^judg-13-5|Judges 13:5]])
 - [[Judges 16]] — 1 footnote cross-reference (from [[Judges 13#^judg-13-5|Judges 13:5]])
 - [[Genesis 16]] — 9 parallel verses, e.g. [[Judges 13#^judg-13-13|Judges 13:13]] ↔ [[Genesis 16#^gen-16-9|Genesis 16:9]]
+- [[Numbers 22]] — 7 parallel verses, e.g. [[Judges 13#^judg-13-18|Judges 13:18]] ↔ [[Numbers 22#^num-22-32|Numbers 22:32]]
+- [[Judges 6]] — 4 parallel verses, e.g. [[Judges 13#^judg-13-1|Judges 13:1]] ↔ [[Judges 6#^judg-6-1|Judges 6:1]]
 - [[Judges 3]] — 2 parallel verses, e.g. [[Judges 13#^judg-13-1|Judges 13:1]] ↔ [[Judges 3#^judg-3-12|Judges 3:12]]
 - [[2 Kings 1]] — 3 parallel verses, e.g. [[Judges 13#^judg-13-13|Judges 13:13]] ↔ [[2 Kings 1#^2kgs-1-15|2 Kings 1:15]]
 - [[1 Nephi 13]] — 3 parallel verses, e.g. [[Judges 13#^judg-13-13|Judges 13:13]] ↔ [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]]
 - [[Judges 10]] — 1 parallel verse, e.g. [[Judges 13#^judg-13-1|Judges 13:1]] ↔ [[Judges 10#^judg-10-6|Judges 10:6]]
 - [[Genesis 19]] — 2 parallel verses, e.g. [[Judges 13#^judg-13-24|Judges 13:24]] ↔ [[Genesis 19#^gen-19-37|Genesis 19:37]]
 - [[Joshua 11]] — 1 parallel verse, e.g. [[Judges 13#^judg-13-1|Judges 13:1]] ↔ [[Joshua 11#^josh-11-8|Joshua 11:8]]
-- [[Judges 6]] — 0 parallel verses
 - [[Numbers 6]] — 0 parallel verses
 - [[1 Samuel 1]] — 0 parallel verses
 - [[Luke 1]] — 0 parallel verses
-- [[Judges 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Angels]]
 - [[Exodus and Deliverance]]
+- [[Angels]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Word of Wisdom]] *(keyword match — unconfirmed)*
@@ -82,7 +82,7 @@ The promise that Samson will only "begin" Israel's deliverance (13:5) sets a res
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Arise and Shine Forth (Ann M. Dibb, April 2012)|Arise and Shine Forth]] — Ann M. Dibb, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 30
 slug: isa-30
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Isaiah 31]] — 1 footnote cross-reference (from [[Isaiah 30#^isa-30-16|Isaiah 30:16]])
 - [[D&C 113]] — 1 footnote cross-reference (from [[Isaiah 30#^isa-30-17|Isaiah 30:17]])
 - [[D&C 88]] — 1 parallel verse, e.g. [[Isaiah 30#^isa-30-26|Isaiah 30:26]] ↔ [[D&C 88#^dc-88-7|D&C 88:7]]
+- [[Isaiah 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +68,7 @@ _Not yet developed._
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[The Cost—and Blessings—of Discipleship (Elder Jeffrey R. Holland, April 2014)|The Cost—and Blessings—of Discipleship]] — Elder Jeffrey R. Holland, 2014-April *(explicit citation)*
+- [[Believe, Obey, and Endure (President Thomas S. Monson, April 2012)|Believe, Obey, and Endure]] — President Thomas S. Monson, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

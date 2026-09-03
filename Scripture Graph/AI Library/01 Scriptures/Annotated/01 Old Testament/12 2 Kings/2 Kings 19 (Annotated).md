@@ -20,7 +20,7 @@ cssclasses:
 > [[1 Kings 8#^1kgs-8-29|1 Kgs. 8:29 (29–30)]] · [[Psalm 73#^ps-73-16|Ps. 73:17 (16–17)]] · [[Isaiah 37#^isa-37-1|≈ Isaiah 37:1]] · [[Jeremiah 38#^jer-38-11|≈ Jeremiah 38:11]]
 
 ![[2 Kings 19#^2kgs-19-2]]
-> [[Isaiah 37#^isa-37-2|≈ Isaiah 37:2]] · [[Isaiah 38#^isa-38-1|≈ Isaiah 38:1]] · [[Isaiah 36#^isa-36-22|≈ Isaiah 36:22]] · [[2 Kings 18#^2kgs-18-18|≈ 2 Kings 18:18]] · [[2 Kings 18#^2kgs-18-37|≈ 2 Kings 18:37]] · [[2 Chronicles 32#^2chr-32-32|≈ 2 Chronicles 32:32]]
+> [[Isaiah 37#^isa-37-2|≈ Isaiah 37:2]] · [[Isaiah 38#^isa-38-1|≈ Isaiah 38:1]] · [[Isaiah 36#^isa-36-22|≈ Isaiah 36:22]] · [[2 Chronicles 32#^2chr-32-32|≈ 2 Chronicles 32:32]] · [[2 Kings 18#^2kgs-18-18|≈ 2 Kings 18:18]] · [[2 Kings 18#^2kgs-18-37|≈ 2 Kings 18:37]]
 
 ![[2 Kings 19#^2kgs-19-3]]
 > [[Isaiah 37#^isa-37-3|≈ Isaiah 37:3]]

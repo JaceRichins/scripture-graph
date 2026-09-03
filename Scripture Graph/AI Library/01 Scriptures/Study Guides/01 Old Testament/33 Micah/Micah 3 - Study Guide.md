@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 3
 slug: micah-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 3
 slug: 2kgs-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -66,9 +66,9 @@ Water arrives as predicted, and Moab's misreading of it as blood turns relief fo
 <!-- SG:BEGIN topics -->
 - [[Prophecy]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -87,7 +87,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ahab** (reference-entry) *(explicit citation)*
+- **Ahaziah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

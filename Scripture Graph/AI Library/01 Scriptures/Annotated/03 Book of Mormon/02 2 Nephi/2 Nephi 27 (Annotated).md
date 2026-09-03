@@ -59,7 +59,7 @@ cssclasses:
 > [[2 Nephi 28#^2ne-28-29|2 Ne. 28:29 (29–30)]] · [[Ether 4#^ether-4-8|Ether 4:8]] · [[1 Nephi 22#^1ne-22-11|≈ 1 Nephi 22:11]]
 
 ![[2 Nephi 27#^2ne-27-15]]
-> [[Isaiah 29#^isa-29-11|Isa. 29:11]] · [[2 Nephi 30#^2ne-30-8|≈ 2 Nephi 30:8]] · [[Isaiah 29#^isa-29-11|≈ Isaiah 29:11]] · [[Isaiah 29#^isa-29-12|≈ Isaiah 29:12]]
+> [[Isaiah 29#^isa-29-11|Isa. 29:11]] · [[Isaiah 29#^isa-29-11|≈ Isaiah 29:11]] · [[Isaiah 29#^isa-29-12|≈ Isaiah 29:12]] · [[2 Nephi 30#^2ne-30-8|≈ 2 Nephi 30:8]]
 
 ![[2 Nephi 27#^2ne-27-16]]
 

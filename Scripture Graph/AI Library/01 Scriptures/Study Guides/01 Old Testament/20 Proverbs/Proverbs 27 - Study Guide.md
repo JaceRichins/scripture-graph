@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 27
 slug: prov-27
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,13 +53,13 @@ _Not yet developed._
 - [[Psalm 141]] — 1 footnote cross-reference (from [[Proverbs 27#^prov-27-6|Proverbs 27:6]])
 - [[D&C 121]] — 1 footnote cross-reference (from [[Proverbs 27#^prov-27-6|Proverbs 27:6]])
 - [[2 Samuel 20]] — 1 footnote cross-reference (from [[Proverbs 27#^prov-27-6|Proverbs 27:6]])
+- [[Proverbs 20]] — 1 parallel verse, e.g. [[Proverbs 27#^prov-27-13|Proverbs 27:13]] ↔ [[Proverbs 20#^prov-20-16|Proverbs 20:16]]
 - [[Proverbs 22]] — 1 parallel verse, e.g. [[Proverbs 27#^prov-27-12|Proverbs 27:12]] ↔ [[Proverbs 22#^prov-22-3|Proverbs 22:3]]
 - [[Proverbs 22]] — 0 parallel verses
 - [[James 4]] — 0 parallel verses
 - [[Proverbs 18]] — 0 parallel verses
 - [[Proverbs 30]] — 0 parallel verses
 - [[Ecclesiastes 1]] — 0 parallel verses
-- [[Proverbs 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,7 +81,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Agriculture** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

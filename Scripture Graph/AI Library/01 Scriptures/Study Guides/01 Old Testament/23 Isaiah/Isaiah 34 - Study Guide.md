@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 34
 slug: isa-34
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

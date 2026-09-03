@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 19
 slug: gen-19
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ Scripture: [[Genesis 19]] · My notes: [[Genesis 19 - My Notes]]
 - [[D&C 133]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-14|Genesis 19:14]])
 - [[Revelation 18]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-14|Genesis 19:14]])
 - [[2 Peter 2]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-15|Genesis 19:15]])
+- [[Genesis 38]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[Genesis 38#^gen-38-5|Genesis 38:5]]
 - [[Genesis 4]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[Genesis 4#^gen-4-25|Genesis 4:25]]
 - [[Judges 13]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[Judges 13#^judg-13-24|Judges 13:24]]
 - [[1 Samuel 1]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[1 Samuel 1#^1sam-1-20|1 Samuel 1:20]]
@@ -88,7 +89,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Times and Seasons 1841-10-01 (Vol. 2 No. 23)** (periodical, 1841-10-01) *(explicit citation)*
+- **Abraham** (reference-entry) *(explicit citation)*
+- **Ammon, Ammonites** (reference-entry) *(explicit citation)*
+- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

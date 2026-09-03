@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 24
 slug: alma-24
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -88,7 +88,7 @@ _Not yet developed._
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
 - [[The Atoning Love of Jesus Christ (Elder Neil L. Andersen, October 2025)|The Atoning Love of Jesus Christ]] — Elder Neil L. Andersen, 2025-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
-- [[Unwavering Commitment to Jesus Christ (Elder Dale G. Renlund, October 2019)|Unwavering Commitment to Jesus Christ]] — Elder Dale G. Renlund, 2019-October *(explicit citation)*
+- [[Now Is the Time to Arise and Shine! (Elaine S. Dalton, April 2012)|Now Is the Time to Arise and Shine!]] — Elaine S. Dalton, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

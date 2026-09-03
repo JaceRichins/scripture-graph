@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 17
 slug: 2ne-17
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ Scripture: [[2 Nephi 17]] · My notes: [[2 Nephi 17 - My Notes]]
 - [[Isaiah 8]] — 3 footnote cross-references (from [[2 Nephi 17#^2ne-17-7|2 Nephi 17:7]])
 - [[Isaiah 7]] — 2 footnote cross-references (from [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]])
 - [[2 Nephi 18]] — 2 footnote cross-references (from [[2 Nephi 17#^2ne-17-14|2 Nephi 17:14]])
+- [[Isaiah 7]] — 28 parallel verses, e.g. [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]] ↔ [[Isaiah 7#^isa-7-1|Isaiah 7:1]]
 - [[2 Kings 15]] — 3 parallel verses, e.g. [[2 Nephi 17#^2ne-17-1|2 Nephi 17:1]] ↔ [[2 Kings 15#^2kgs-15-32|2 Kings 15:32]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
 - [[Isaiah 36]] — 1 parallel verse, e.g. [[2 Nephi 17#^2ne-17-3|2 Nephi 17:3]] ↔ [[Isaiah 36#^isa-36-2|Isaiah 36:2]]
@@ -66,15 +67,14 @@ Scripture: [[2 Nephi 17]] · My notes: [[2 Nephi 17 - My Notes]]
 - [[Isaiah 24]] — 1 parallel verse, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[Isaiah 24#^isa-24-21|Isaiah 24:21]]
 - [[2 Nephi 21]] — 1 parallel verse, e.g. [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
 - [[2 Kings 18]] — 1 parallel verse, e.g. [[2 Nephi 17#^2ne-17-3|2 Nephi 17:3]] ↔ [[2 Kings 18#^2kgs-18-17|2 Kings 18:17]]
-- [[Isaiah 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

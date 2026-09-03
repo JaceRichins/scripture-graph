@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 30
 slug: deut-30
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ _Not yet developed._
 - [[Deuteronomy 15]] — 4 parallel verses, e.g. [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]] ↔ [[Deuteronomy 15#^deut-15-18|Deuteronomy 15:18]]
 - [[Deuteronomy 11]] — 4 parallel verses, e.g. [[Deuteronomy 30#^deut-30-20|Deuteronomy 30:20]] ↔ [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]]
 - [[Deuteronomy 4]] — 3 parallel verses, e.g. [[Deuteronomy 30#^deut-30-18|Deuteronomy 30:18]] ↔ [[Deuteronomy 4#^deut-4-26|Deuteronomy 4:26]]
-- [[Deuteronomy 10]] — 3 parallel verses, e.g. [[Deuteronomy 30#^deut-30-10|Deuteronomy 30:10]] ↔ [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]]
 - [[1 Kings 8]] — 2 parallel verses, e.g. [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]] ↔ [[1 Kings 8#^1kgs-8-58|1 Kings 8:58]]
+- [[Deuteronomy 10]] — 3 parallel verses, e.g. [[Deuteronomy 30#^deut-30-10|Deuteronomy 30:10]] ↔ [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]]
 - [[Deuteronomy 13]] — 3 parallel verses, e.g. [[Deuteronomy 30#^deut-30-8|Deuteronomy 30:8]] ↔ [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]]
 - [[Deuteronomy 29]] — 2 parallel verses, e.g. [[Deuteronomy 30#^deut-30-20|Deuteronomy 30:20]] ↔ [[Deuteronomy 29#^deut-29-13|Deuteronomy 29:13]]
 - [[Matthew 22]] — 2 parallel verses, e.g. [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]] ↔ [[Matthew 22#^matt-22-37|Matthew 22:37]]
@@ -78,6 +78,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Agency** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

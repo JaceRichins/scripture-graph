@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 3
 slug: 1jn-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,16 +53,17 @@ _Not yet developed._
 - [[1 Corinthians 2]] — 2 footnote cross-references (from [[1 John 3#^1jn-3-24|1 John 3:24]])
 - [[Isaiah 56]] — 1 footnote cross-reference (from [[1 John 3#^1jn-3-1|1 John 3:1]])
 - [[Colossians 3]] — 1 footnote cross-reference (from [[1 John 3#^1jn-3-2|1 John 3:2]])
-- [[Moroni 7]] — 0 parallel verses
+- [[Moroni 7]] — 1 parallel verse, e.g. [[1 John 3#^1jn-3-2|1 John 3:2]] ↔ [[Moroni 7#^moro-7-48|Moroni 7:48]]
 - [[John 15]] — 0 parallel verses
 - [[James 2]] — 0 parallel verses
 - [[1 John 4]] — 0 parallel verses
+- [[1 John 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Satan and Temptation]]
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -101,6 +102,7 @@ Verse 23 joins belief in Jesus Christ with love for one another under one comman
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
+- **Atonement** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

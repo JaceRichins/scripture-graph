@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 29
 slug: prov-29
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[D&C 98]] — 1 footnote cross-reference (from [[Proverbs 29#^prov-29-2|Proverbs 29:2]])
 - [[Mosiah 11]] — 1 footnote cross-reference (from [[Proverbs 29#^prov-29-3|Proverbs 29:3]])
 - [[Proverbs 26]] — 1 parallel verse, e.g. [[Proverbs 29#^prov-29-20|Proverbs 29:20]] ↔ [[Proverbs 26#^prov-26-12|Proverbs 26:12]]
+- [[D&C 98]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,6 +65,7 @@ _Not yet developed._
 - [[Conference Report, October 1925 (General Conference (full report), October 1925)|Conference Report, October 1925]] — General Conference (full report), 1925-October *(explicit citation)*
 - [[Loving Others and Living with Differences (Elder Dallin H. Oaks, October 2014)|Loving Others and Living with Differences]] — Elder Dallin H. Oaks, 2014-October *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
+- [[Having the Vision to Do (Elder O. Vincent Haleck, April 2012)|Having the Vision to Do]] — Elder O. Vincent Haleck, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 24
 slug: deut-24
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ Verses 18 and 22 repeat the memory of Egyptian bondage as a motive for adjacent 
 - [[Proverbs 14]] — 1 footnote cross-reference (from [[Deuteronomy 24#^deut-24-14|Deuteronomy 24:14]])
 - [[Deuteronomy 15]] — 3 parallel verses, e.g. [[Deuteronomy 24#^deut-24-18|Deuteronomy 24:18]] ↔ [[Deuteronomy 15#^deut-15-15|Deuteronomy 15:15]]
 - [[2 Kings 14]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-16|Deuteronomy 24:16]] ↔ [[2 Kings 14#^2kgs-14-6|2 Kings 14:6]]
+- [[Deuteronomy 16]] — 2 parallel verses, e.g. [[Deuteronomy 24#^deut-24-18|Deuteronomy 24:18]] ↔ [[Deuteronomy 16#^deut-16-12|Deuteronomy 16:12]]
 - [[Deuteronomy 14]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-19|Deuteronomy 24:19]] ↔ [[Deuteronomy 14#^deut-14-29|Deuteronomy 14:29]]
 - [[Deuteronomy 4]] — 2 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]]
 - [[Deuteronomy 25]] — 2 parallel verses, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 25#^deut-25-19|Deuteronomy 25:19]]
@@ -62,7 +63,6 @@ Verses 18 and 22 repeat the memory of Egyptian bondage as a motive for adjacent 
 - [[Deuteronomy 21]] — 1 parallel verse, e.g. [[Deuteronomy 24#^deut-24-4|Deuteronomy 24:4]] ↔ [[Deuteronomy 21#^deut-21-23|Deuteronomy 21:23]]
 - [[Jeremiah 3]] — 0 parallel verses
 - [[Exodus 21]] — 0 parallel verses
-- [[Exodus 22]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,7 +91,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Agriculture** (reference-entry) *(explicit citation)*
+- **Almsgiving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

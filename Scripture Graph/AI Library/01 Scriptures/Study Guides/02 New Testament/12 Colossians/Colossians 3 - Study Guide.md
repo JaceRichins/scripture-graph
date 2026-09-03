@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 3
 slug: col-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Proverbs 15]] — 1 footnote cross-reference (from [[Colossians 3#^col-3-2|Colossians 3:2]])
 - [[Ether 4]] — 1 footnote cross-reference (from [[Colossians 3#^col-3-4|Colossians 3:4]])
 - [[Ephesians 5]] — 2 parallel verses, e.g. [[Colossians 3#^col-3-16|Colossians 3:16]] ↔ [[Ephesians 5#^eph-5-19|Ephesians 5:19]]
+- [[D&C 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -63,6 +64,8 @@ _Not yet developed._
 - [[Do Your Part with All Your Heart (Elder Dieter F. Uchtdorf, October 2025)|Do Your Part with All Your Heart]] — Elder Dieter F. Uchtdorf, 2025-October *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[You Can Do It Now! (President Dieter F. Uchtdorf, October 2013)|You Can Do It Now!]] — President Dieter F. Uchtdorf, 2013-October *(explicit citation)*
+- [[Charity Never Faileth (Silvia H. Allred, October 2011)|Charity Never Faileth]] — Silvia H. Allred, 2011-October *(explicit citation)*
+- [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Eternal Families (President Henry B. Eyring, April 2016)|Eternal Families]] — President Henry B. Eyring, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 

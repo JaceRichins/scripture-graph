@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 20
 slug: dc-20
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,18 +53,18 @@ _Not yet developed._
 - [[D&C 76]] — 4 footnote cross-references (from [[D&C 20#^dc-20-12|D&C 20:12]])
 - [[D&C 21]] — 3 footnote cross-references (from [[D&C 20#^dc-20-1|D&C 20:1]])
 - [[D&C 109]] — 3 footnote cross-references (from [[D&C 20#^dc-20-16|D&C 20:16]])
+- [[Moroni 4]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-77|D&C 20:77]] ↔ [[Moroni 4#^moro-4-3|Moroni 4:3]]
+- [[Moroni 5]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-79|D&C 20:79]] ↔ [[Moroni 5#^moro-5-2|Moroni 5:2]]
+- [[3 Nephi 11]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]
 - [[Moses 7]] — 5 parallel verses, e.g. [[D&C 20#^dc-20-27|D&C 20:27]] ↔ [[Moses 7#^moses-7-11|Moses 7:11]]
 - [[D&C 68]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[D&C 68#^dc-68-8|D&C 68:8]]
+- [[Moroni 6]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-37|D&C 20:37]] ↔ [[Moroni 6#^moro-6-3|Moroni 6:3]]
 - [[Moroni 10]] — 5 parallel verses, e.g. [[D&C 20#^dc-20-29|D&C 20:29]] ↔ [[Moroni 10#^moro-10-26|Moroni 10:26]]
+- [[D&C 107]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-43|D&C 20:43]] ↔ [[D&C 107#^dc-107-67|D&C 107:67]]
 - [[D&C 76]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-9|D&C 20:9]] ↔ [[D&C 76#^dc-76-14|D&C 76:14]]
 - [[2 Nephi 31]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
+- [[Matthew 28]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[Matthew 28#^matt-28-19|Matthew 28:19]]
 - [[Moroni 3]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-60|D&C 20:60]] ↔ [[Moroni 3#^moro-3-4|Moroni 3:4]]
-- [[D&C 21]] — 1 parallel verse, e.g. [[D&C 20#^dc-20-1|D&C 20:1]] ↔ [[D&C 21#^dc-21-3|D&C 21:3]]
-- [[D&C 138]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-1|D&C 20:1]] ↔ [[D&C 138#^dc-138-60|D&C 138:60]]
-- [[D&C 49]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-68|D&C 20:68]] ↔ [[D&C 49#^dc-49-14|D&C 49:14]]
-- [[Moses 5]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-26|D&C 20:26]] ↔ [[Moses 5#^moses-5-58|Moses 5:58]]
-- [[3 Nephi 1]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-27|D&C 20:27]] ↔ [[3 Nephi 1#^3ne-1-14|3 Nephi 1:14]]
-- [[D&C 42]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-27|D&C 20:27]] ↔ [[D&C 42#^dc-42-17|D&C 42:17]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

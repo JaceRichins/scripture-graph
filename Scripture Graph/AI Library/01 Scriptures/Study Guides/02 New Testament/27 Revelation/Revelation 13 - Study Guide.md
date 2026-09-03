@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 13
 slug: rev-13
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,8 @@ _Not yet developed._
 - **Foreordination** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
+- **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
+- **Antichrist** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

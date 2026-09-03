@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 11
 slug: matt-11
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

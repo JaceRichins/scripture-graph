@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 1
 slug: mal-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Ezekiel 25]] — 1 footnote cross-reference (from [[Malachi 1#^mal-1-3|Malachi 1:3]])
 - [[Amos 5]] — 1 footnote cross-reference (from [[Malachi 1#^mal-1-10|Malachi 1:10]])
 - [[3 Nephi 9]] — 1 footnote cross-reference (from [[Malachi 1#^mal-1-10|Malachi 1:10]])
+- [[Psalm 113]] — 1 parallel verse, e.g. [[Malachi 1#^mal-1-11|Malachi 1:11]] ↔ [[Psalm 113#^ps-113-3|Psalm 113:3]]
 - [[Leviticus 22]] — 0 parallel verses
 - [[Deuteronomy 15]] — 0 parallel verses
 - [[Romans 9]] — 0 parallel verses

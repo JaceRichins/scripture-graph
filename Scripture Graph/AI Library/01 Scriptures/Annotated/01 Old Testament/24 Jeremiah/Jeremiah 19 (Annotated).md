@@ -23,7 +23,7 @@ cssclasses:
 > [[Joshua 18#^josh-18-16|Josh. 18:16]] · [[Jeremiah 32#^jer-32-35|≈ Jeremiah 32:35]] · [[Jeremiah 7#^jer-7-31|≈ Jeremiah 7:31]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Joshua 15#^josh-15-8|≈ Joshua 15:8]] · [[Joshua 18#^josh-18-16|≈ Joshua 18:16]] · [[2 Chronicles 28#^2chr-28-3|≈ 2 Chronicles 28:3]]
 
 ![[Jeremiah 19#^jer-19-3]]
-> [[1 Samuel 3#^1sam-3-11|1 Sam. 3:11]] · [[2 Kings 21#^2kgs-21-12|2 Kgs. 21:12]] · [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 32#^jer-32-14|≈ Jeremiah 32:14]] · [[Jeremiah 32#^jer-32-15|≈ Jeremiah 32:15]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]]
+> [[1 Samuel 3#^1sam-3-11|1 Sam. 3:11]] · [[2 Kings 21#^2kgs-21-12|2 Kgs. 21:12]] · [[Jeremiah 32#^jer-32-14|≈ Jeremiah 32:14]] · [[Jeremiah 32#^jer-32-15|≈ Jeremiah 32:15]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]]
 
 ![[Jeremiah 19#^jer-19-4]]
 > [[Jeremiah 1#^jer-1-16|Jer. 1:16]] · [[Jeremiah 2#^jer-2-31|Jer. 2:34 (31–37)]] · [[Jeremiah 9#^jer-9-16|≈ Jeremiah 9:16]] · [[2 Kings 22#^2kgs-22-17|≈ 2 Kings 22:17]] · [[2 Chronicles 34#^2chr-34-25|≈ 2 Chronicles 34:25]]
@@ -46,7 +46,7 @@ cssclasses:
 ![[Jeremiah 19#^jer-19-10]]
 
 ![[Jeremiah 19#^jer-19-11]]
-> [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]] · [[Jeremiah 25#^jer-25-28|≈ Jeremiah 25:28]] · [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Ezekiel 20#^ezek-20-3|≈ Ezekiel 20:3]]
+> [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]] · [[Jeremiah 25#^jer-25-28|≈ Jeremiah 25:28]] · [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Ezekiel 20#^ezek-20-3|≈ Ezekiel 20:3]]
 
 ![[Jeremiah 19#^jer-19-12]]
 
@@ -57,4 +57,4 @@ cssclasses:
 > [[Jeremiah 26#^jer-26-2|≈ Jeremiah 26:2]]
 
 ![[Jeremiah 19#^jer-19-15]]
-> [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 32#^jer-32-14|≈ Jeremiah 32:14]] · [[Jeremiah 32#^jer-32-15|≈ Jeremiah 32:15]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]]
+> [[Jeremiah 32#^jer-32-14|≈ Jeremiah 32:14]] · [[Jeremiah 32#^jer-32-15|≈ Jeremiah 32:15]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]]

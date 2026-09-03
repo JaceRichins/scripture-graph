@@ -17,7 +17,7 @@ cssclasses:
 > Jesus calls and commissions the twelve disciples—He delivers to the Nephites a discourse similar to the Sermon on the Mount—He speaks the Beatitudes—His teachings transcend and take precedence over the law of Moses—Men are commanded to be perfect even as He and His Father are perfect—Compare Matthew 5. About A.D. 34.
 
 ![[3 Nephi 12#^3ne-12-1]]
-> [[Matthew 5#^matt-5-1|Matt. 5:1 (1–48)]] · [[Mark 16#^mark-16-15|Mark 16:16 (15–16)]] · [[John 4#^john-4-1|John 4:2 (1–2)]] · [[3 Nephi 11#^3ne-11-22|3 Ne. 11:22]] · [[3 Nephi 13#^3ne-13-25|13:25]] · [[3 Nephi 9#^3ne-9-20|≈ 3 Nephi 9:20]] · [[3 Nephi 18#^3ne-18-17|≈ 3 Nephi 18:17]] · [[3 Nephi 18#^3ne-18-26|≈ 3 Nephi 18:26]] · [[3 Nephi 18#^3ne-18-14|≈ 3 Nephi 18:14]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]]
+> [[Matthew 5#^matt-5-1|Matt. 5:1 (1–48)]] · [[Mark 16#^mark-16-15|Mark 16:16 (15–16)]] · [[John 4#^john-4-1|John 4:2 (1–2)]] · [[3 Nephi 11#^3ne-11-22|3 Ne. 11:22]] · [[3 Nephi 13#^3ne-13-25|13:25]] · [[3 Nephi 18#^3ne-18-17|≈ 3 Nephi 18:17]] · [[3 Nephi 18#^3ne-18-26|≈ 3 Nephi 18:26]] · [[3 Nephi 18#^3ne-18-14|≈ 3 Nephi 18:14]] · [[3 Nephi 9#^3ne-9-20|≈ 3 Nephi 9:20]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]]
 
 ![[3 Nephi 12#^3ne-12-2]]
 > [[Mosiah 26#^mosiah-26-15|Mosiah 26:15 (15–16)]] · [[D&C 46#^dc-46-14|D&amp;C 46:14]] · [[3 Nephi 11#^3ne-11-23|3 Ne. 11:23]] · [[Ether 4#^ether-4-13|Ether 4:13]] · [[3 Nephi 11#^3ne-11-35|3 Ne. 11:35]] · [[3 Nephi 19#^3ne-19-13|19:13 (13–14)]] · [[3 Nephi 9#^3ne-9-20|≈ 3 Nephi 9:20]] · [[Mormon 7#^morm-7-10|≈ Mormon 7:10]] · [[Ether 12#^ether-12-14|≈ Ether 12:14]] · [[Moses 6#^moses-6-66|≈ Moses 6:66]]

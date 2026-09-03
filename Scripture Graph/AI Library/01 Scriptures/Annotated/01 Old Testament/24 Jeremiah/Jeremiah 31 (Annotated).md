@@ -80,7 +80,7 @@ cssclasses:
 ![[Jeremiah 31#^jer-31-26]]
 
 ![[Jeremiah 31#^jer-31-27]]
-> [[Jeremiah 5#^jer-5-11|≈ Jeremiah 5:11]] · [[Jeremiah 33#^jer-33-14|≈ Jeremiah 33:14]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]] · [[Jeremiah 48#^jer-48-12|≈ Jeremiah 48:12]] · [[Jeremiah 51#^jer-51-52|≈ Jeremiah 51:52]]
+> [[Jeremiah 33#^jer-33-14|≈ Jeremiah 33:14]] · [[Jeremiah 5#^jer-5-11|≈ Jeremiah 5:11]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]] · [[Jeremiah 48#^jer-48-12|≈ Jeremiah 48:12]] · [[Jeremiah 51#^jer-51-52|≈ Jeremiah 51:52]]
 
 ![[Jeremiah 31#^jer-31-28]]
 > [[Jeremiah 44#^jer-44-27|Jer. 44:27]] · [[Jeremiah 45#^jer-45-4|Jer. 45:4]] · [[Daniel 9#^dan-9-14|Dan. 9:14]] · [[Jeremiah 1#^jer-1-10|≈ Jeremiah 1:10]]
@@ -97,7 +97,7 @@ cssclasses:
 > [[Hebrews 8#^heb-8-9|≈ Hebrews 8:9]]
 
 ![[Jeremiah 31#^jer-31-33]]
-> [[Hosea 2#^hosea-2-14|Hosea 2:18 (14–23)]] · [[Mormon 5#^morm-5-20|Morm. 5:20]] · [[D&C 45#^dc-45-9|D&amp;C 45:9]] · [[Romans 2#^rom-2-13|Rom. 2:15 (13–15)]] · [[Proverbs 7#^prov-7-3|Prov. 7:3]] · [[2 Corinthians 3#^2cor-3-3|2 Cor. 3:3]] · [[Hebrews 8#^heb-8-10|Heb. 8:10]] · [[Jeremiah 5#^jer-5-18|≈ Jeremiah 5:18]] · [[Hebrews 8#^heb-8-10|≈ Hebrews 8:10]] · [[Hebrews 10#^heb-10-16|≈ Hebrews 10:16]]
+> [[Hosea 2#^hosea-2-14|Hosea 2:18 (14–23)]] · [[Mormon 5#^morm-5-20|Morm. 5:20]] · [[D&C 45#^dc-45-9|D&amp;C 45:9]] · [[Romans 2#^rom-2-13|Rom. 2:15 (13–15)]] · [[Proverbs 7#^prov-7-3|Prov. 7:3]] · [[2 Corinthians 3#^2cor-3-3|2 Cor. 3:3]] · [[Hebrews 8#^heb-8-10|Heb. 8:10]] · [[Jeremiah 5#^jer-5-18|≈ Jeremiah 5:18]] · [[Ezekiel 37#^ezek-37-27|≈ Ezekiel 37:27]] · [[Hebrews 8#^heb-8-10|≈ Hebrews 8:10]]
 
 ![[Jeremiah 31#^jer-31-34]]
 > [[Hebrews 8#^heb-8-11|≈ Hebrews 8:11]]

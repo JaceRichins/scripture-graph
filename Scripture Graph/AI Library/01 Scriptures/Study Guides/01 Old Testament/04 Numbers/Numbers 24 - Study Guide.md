@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 24
 slug: num-24
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Psalm 104]] — 1 footnote cross-reference (from [[Numbers 24#^num-24-6|Numbers 24:6]])
 - [[Numbers 23]] — 10 parallel verses, e.g. [[Numbers 24#^num-24-8|Numbers 24:8]] ↔ [[Numbers 23#^num-23-22|Numbers 23:22]]
 - [[Numbers 22]] — 1 parallel verse, e.g. [[Numbers 24#^num-24-13|Numbers 24:13]] ↔ [[Numbers 22#^num-22-18|Numbers 22:18]]
+- [[Deuteronomy 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

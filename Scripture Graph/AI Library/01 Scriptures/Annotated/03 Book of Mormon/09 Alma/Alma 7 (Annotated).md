@@ -54,7 +54,7 @@ cssclasses:
 > [[Mosiah 15#^mosiah-15-12|Mosiah 15:12]]
 
 ![[Alma 7#^alma-7-14]]
-> [[1 Nephi 10#^1ne-10-10|≈ 1 Nephi 10:10]] · [[Alma 5#^alma-5-62|≈ Alma 5:62]] · [[Alma 5#^alma-5-49|≈ Alma 5:49]]
+> [[Alma 5#^alma-5-62|≈ Alma 5:62]] · [[Alma 5#^alma-5-49|≈ Alma 5:49]] · [[1 Nephi 10#^1ne-10-10|≈ 1 Nephi 10:10]]
 
 ![[Alma 7#^alma-7-15]]
 > [[2 Nephi 4#^2ne-4-18|2 Ne. 4:18]]

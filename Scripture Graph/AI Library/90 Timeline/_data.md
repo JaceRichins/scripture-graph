@@ -5743,6 +5743,63 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-3ne-25-cda49463",
+   "t": "Resurrected Christ quotes Malachi 4 to the Nephites at Bountiful",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "3 Nephi's internal chronology places Christ's ministry to the Nephites in the year of his post-resurrection appearance, roughly A.D. 34 per Nephite record-keeping.",
+   "chapters": [
+    "3 Nephi 25"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Elijah",
+    "Moses",
+    "Malachi"
+   ],
+   "places": [
+    "Bountiful (temple)"
+   ],
+   "things": [
+    "Law of Moses"
+   ]
+  },
+  {
+   "id": "r-3ne-28-43066676",
+   "t": "The three disciples receive a changed condition",
+   "y0": 34,
+   "y1": 35,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The supplied official chapter heading dates the chapter's events to approximately A.D. 34–35; the verses themselves do not provide an explicit calendar year.",
+   "chapters": [
+    "3 Nephi 28"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Three Nephite disciples",
+    "Mormon"
+   ],
+   "things": [
+    "bodily change",
+    "heavenly vision"
+   ]
+  },
+  {
    "id": "r-3ne-3-918667e6",
    "t": "Nephite gathering to the Zarahemla-Bountiful line",
    "y0": 17,
@@ -5791,6 +5848,84 @@ timeline module, not this file._
    ],
    "places": [
     "Zarahemla"
+   ]
+  },
+  {
+   "id": "r-3ne-4-647dc512",
+   "t": "Nephite defeat of Giddianhi and Zemnarihah's robber armies",
+   "y0": 18,
+   "y1": 22,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Years are reckoned internally by Nephite record-keepers from the sign of Christ's birth established in 3 Nephi 1; the chapter heading dates the episode to approximately A.D. 19-22.",
+   "chapters": [
+    "3 Nephi 4"
+   ],
+   "people": [
+    "Giddianhi",
+    "Zemnarihah",
+    "Gidgiddoni"
+   ],
+   "places": [
+    "land northward",
+    "wilderness"
+   ]
+  },
+  {
+   "id": "r-3ne-5-619fbd66",
+   "t": "Nephite repentance and end of the Gadianton robbers",
+   "y0": 22,
+   "y1": 26,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Based on the chapter's own year-count (22nd through 25th year since the sign of Christ's birth, 3 Nephi 5:7); the 'A.D.' correlation in the traditional chapter heading is an editorial addition, not part of the ancient text.",
+   "chapters": [
+    "3 Nephi 5"
+   ],
+   "people": [
+    "Mormon",
+    "Nephi (the disciple, son of Nephi)"
+   ],
+   "places": [
+    "Land of Mormon"
+   ]
+  },
+  {
+   "id": "r-3ne-5-6b05eea3",
+   "t": "Postwar repentance and suppression of robber combinations",
+   "y0": 22,
+   "y1": 25,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "3 Nephi 5:7 explicitly marks the passing of the twenty-second through twenty-fifth years; the official heading correlates the chapter with approximately A.D. 22–26.",
+   "chapters": [
+    "3 Nephi 5"
+   ],
+   "people": [
+    "Nephites",
+    "captured robbers"
+   ],
+   "things": [
+    "prisoner covenant",
+    "secret combinations"
    ]
   },
   {

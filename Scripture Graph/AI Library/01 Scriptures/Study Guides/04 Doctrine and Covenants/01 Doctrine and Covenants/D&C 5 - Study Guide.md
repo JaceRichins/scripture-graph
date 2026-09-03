@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 5
 slug: dc-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -75,8 +75,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **06 The Gift and Power of God** (history) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **Doctrine and Covenants** (reference-entry) *(explicit citation)*
+- **07 Fellow Servants** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 3
 slug: matt-3
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -56,10 +56,10 @@ _Not yet developed._
 - [[Jacob 5]] — 3 parallel verses, e.g. [[Matthew 3#^matt-3-10|Matthew 3:10]] ↔ [[Jacob 5#^jacob-5-42|Jacob 5:42]]
 - [[3 Nephi 14]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-10|Matthew 3:10]] ↔ [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Matthew 3#^matt-3-2|Matthew 3:2]] ↔ [[Alma 9#^alma-9-25|Alma 9:25]]
-- [[Isaiah 40]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-3|Matthew 3:3]] ↔ [[Isaiah 40#^isa-40-3|Isaiah 40:3]]
 - [[D&C 33]] — 2 parallel verses, e.g. [[Matthew 3#^matt-3-2|Matthew 3:2]] ↔ [[D&C 33#^dc-33-10|D&C 33:10]]
-- [[Matthew 17]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-17|Matthew 3:17]] ↔ [[Matthew 17#^matt-17-5|Matthew 17:5]]
 - [[2 Peter 1]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-17|Matthew 3:17]] ↔ [[2 Peter 1#^2pet-1-17|2 Peter 1:17]]
+- [[Isaiah 40]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-3|Matthew 3:3]] ↔ [[Isaiah 40#^isa-40-3|Isaiah 40:3]]
+- [[Matthew 17]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-17|Matthew 3:17]] ↔ [[Matthew 17#^matt-17-5|Matthew 17:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,6 +91,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Baptisms for the Dead** (reference-entry) *(explicit citation)*
+- **Adoption** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*

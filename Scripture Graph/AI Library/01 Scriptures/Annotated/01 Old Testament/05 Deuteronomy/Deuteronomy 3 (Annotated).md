@@ -17,7 +17,7 @@ cssclasses:
 > The children of Israel destroy the people of Bashan—Their lands, on the east of the Jordan, are given to Reuben and Gad—Moses sees Canaan from Pisgah but is denied entrance thereto—He counsels and strengthens Joshua.
 
 ![[Deuteronomy 3#^deut-3-1]]
-> [[Numbers 21#^num-21-33|≈ Numbers 21:33]] · [[Deuteronomy 2#^deut-2-32|≈ Deuteronomy 2:32]] · [[Deuteronomy 29#^deut-29-7|≈ Deuteronomy 29:7]]
+> [[Numbers 21#^num-21-33|≈ Numbers 21:33]] · [[Deuteronomy 29#^deut-29-7|≈ Deuteronomy 29:7]] · [[Deuteronomy 2#^deut-2-32|≈ Deuteronomy 2:32]]
 
 ![[Deuteronomy 3#^deut-3-2]]
 > [[Numbers 21#^num-21-34|≈ Numbers 21:34]]

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 116
 slug: dc-116
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 116]] · My notes: [[D&C 116 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> An extract from Joseph Smith’s history recounting a revelation given to Joseph Smith the Prophet, near Wight’s Ferry, at a place called Spring Hill, Daviess County, Missouri, May or June 1838.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,7 +39,11 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
-- [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[D&C 116#^dc-116-1|D&C 116:1]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-12|Joseph Smith—Matthew 1:12]]
+- [[Daniel 7]] — 1 footnote cross-reference (from [[D&C 116#^dc-116-1|D&C 116:1]])
+- [[D&C 78]] — 1 footnote cross-reference (from [[D&C 116#^dc-116-1|D&C 116:1]])
+- [[D&C 95]] — 1 footnote cross-reference (from [[D&C 116#^dc-116-1|D&C 116:1]])
+- [[D&C 107]] — 1 footnote cross-reference (from [[D&C 116#^dc-116-1|D&C 116:1]])
+- [[D&C 117]] — 1 footnote cross-reference (from [[D&C 116#^dc-116-1|D&C 116:1]])
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -60,6 +65,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Adam** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

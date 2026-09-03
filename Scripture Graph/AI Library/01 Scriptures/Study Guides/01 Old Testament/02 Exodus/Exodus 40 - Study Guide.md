@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 40
 slug: ex-40
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -86,8 +86,13 @@ The glory arrives only after the work is finished, making divine presence the na
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **37 We Will Prove Them** (history) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
+- **Times and Seasons 1842-01-01 (Vol. 3 No. 5)** (periodical, 1842-01-01) *(explicit citation)*
+- **Altar** (reference-entry) *(explicit citation)*
+- **Anoint** (reference-entry) *(explicit citation)*
+- **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

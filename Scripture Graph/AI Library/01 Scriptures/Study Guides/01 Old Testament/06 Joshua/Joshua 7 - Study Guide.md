@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 7
 slug: josh-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ The text never says how "the LORD taketh" was determined at each stage (7:14) �
 - [[Deuteronomy 1]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-7|Joshua 7:7]] ↔ [[Deuteronomy 1#^deut-1-27|Deuteronomy 1:27]]
 - [[Judges 2]] — 2 parallel verses, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
 - [[Nehemiah 11]] — 2 parallel verses, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Nehemiah 11#^neh-11-17|Nehemiah 11:17]]
+- [[Numbers 25]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Numbers 25#^num-25-3|Numbers 25:3]]
 - [[Numbers 12]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Numbers 12#^num-12-9|Numbers 12:9]]
 - [[Exodus 4]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Exodus 4#^ex-4-14|Exodus 4:14]]
 - [[Deuteronomy 29]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]]
@@ -64,7 +65,6 @@ The text never says how "the LORD taketh" was determined at each stage (7:14) �
 - [[2 Kings 13]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[2 Kings 13#^2kgs-13-3|2 Kings 13:3]]
 - [[1 Chronicles 13]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]]
 - [[Joshua 2]] — 0 parallel verses
-- [[Joshua 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 6
 slug: ps-6
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

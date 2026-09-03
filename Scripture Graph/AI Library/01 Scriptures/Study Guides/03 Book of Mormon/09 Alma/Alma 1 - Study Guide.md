@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 1
 slug: alma-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ _Not yet developed._
 - **‘The Vision’** (history) *(explicit citation)*
 - **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Teaching the Gospel** (reference-entry) *(explicit citation)*
+- **Antichrist** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 105
 slug: dc-105
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -39,15 +39,22 @@ A cautious outline is: (1) diagnosis of the delay and the requirements of Zion (
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 103]] — 5 footnote cross-references (from [[D&C 105#^dc-105-1|D&C 105:1]])
+- [[D&C 101]] — 5 footnote cross-references (from [[D&C 105#^dc-105-9|D&C 105:9]])
+- [[D&C 42]] — 4 footnote cross-references (from [[D&C 105#^dc-105-3|D&C 105:3]])
+- [[D&C 95]] — 4 footnote cross-references (from [[D&C 105#^dc-105-6|D&C 105:6]])
+- [[D&C 104]] — 3 footnote cross-references (from [[D&C 105#^dc-105-2|D&C 105:2]])
+- [[D&C 100]] — 2 footnote cross-references (from [[D&C 105#^dc-105-1|D&C 105:1]])
+- [[D&C 103]] — 3 parallel verses, e.g. [[D&C 105#^dc-105-30|D&C 105:30]] ↔ [[D&C 103#^dc-103-26|D&C 103:26]]
+- [[D&C 100]] — 3 parallel verses, e.g. [[D&C 105#^dc-105-41|D&C 105:41]] ↔ [[D&C 100#^dc-100-12|D&C 100:12]]
 - [[D&C 132]] — 2 parallel verses, e.g. [[D&C 105#^dc-105-20|D&C 105:20]] ↔ [[D&C 132#^dc-132-51|D&C 132:51]]
+- [[Exodus 20]] — 1 parallel verse, e.g. [[D&C 105#^dc-105-30|D&C 105:30]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
+- [[Deuteronomy 5]] — 1 parallel verse, e.g. [[D&C 105#^dc-105-30|D&C 105:30]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
 - [[D&C 96]] — 1 parallel verse, e.g. [[D&C 105#^dc-105-33|D&C 105:33]] ↔ [[D&C 96#^dc-96-8|D&C 96:8]]
+- [[D&C 104]] — 2 parallel verses, e.g. [[D&C 105#^dc-105-20|D&C 105:20]] ↔ [[D&C 104#^dc-104-11|D&C 104:11]]
 - [[Mosiah 15]] — 1 parallel verse, e.g. [[D&C 105#^dc-105-2|D&C 105:2]] ↔ [[Mosiah 15#^mosiah-15-19|Mosiah 15:19]]
 - [[D&C 90]] — 1 parallel verse, e.g. [[D&C 105#^dc-105-40|D&C 105:40]] ↔ [[D&C 90#^dc-90-24|D&C 90:24]]
-- [[Exodus 20]] — 0 parallel verses
-- [[Deuteronomy 5]] — 0 parallel verses
 - [[D&C 103]] — 0 parallel verses
-- [[D&C 103]] — 0 parallel verses
-- [[D&C 100]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,13 +81,18 @@ The chapter links [[Zion]] with [[Consecration]], [[Obedience]], unity, care for
 - [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 - [[One in Christ (Elder D. Todd Christofferson, April 2023)|One in Christ]] — Elder D. Todd Christofferson, 2023-April *(explicit citation)*
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
+- [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
+- [[The Sanctifying Work of Welfare (Bishop H. David Burton, April 2011)|The Sanctifying Work of Welfare]] — Bishop H. David Burton, 2011-April *(explicit citation)*
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **18 The Camp of Israel** (history) *(explicit citation)*
 - **The Acceptable Offering of Zion’s Camp** (history) *(explicit citation)*
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **22 Try the Lord** (history) *(explicit citation)*
+- **26 A Holy and Consecrated Land** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Adversity** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*

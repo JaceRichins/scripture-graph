@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 10
 slug: mosiah-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Omni 1]] — 2 parallel verses, e.g. [[Mosiah 10#^mosiah-10-16|Mosiah 10:16]] ↔ [[Omni 1#^omni-1-13|Omni 1:13]]
 - [[1 Nephi 4]] — 2 parallel verses, e.g. [[Mosiah 10#^mosiah-10-13|Mosiah 10:13]] ↔ [[1 Nephi 4#^1ne-4-1|1 Nephi 4:1]]
 - [[Helaman 1]] — 1 parallel verse, e.g. [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]] ↔ [[Helaman 1#^hel-1-14|Helaman 1:14]]
+- [[Alma 54]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

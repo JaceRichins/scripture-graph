@@ -38,7 +38,7 @@ cssclasses:
 ![[Leviticus 14#^lev-14-9]]
 
 ![[Leviticus 14#^lev-14-10]]
-> [[Numbers 6#^num-6-14|≈ Numbers 6:14]] · [[Numbers 6#^num-6-10|≈ Numbers 6:10]] · [[Leviticus 6#^lev-6-20|≈ Leviticus 6:20]] · [[Leviticus 15#^lev-15-14|≈ Leviticus 15:14]] · [[Numbers 28#^num-28-9|≈ Numbers 28:9]] · [[Numbers 28#^num-28-12|≈ Numbers 28:12]]
+> [[Leviticus 15#^lev-15-14|≈ Leviticus 15:14]] · [[Numbers 6#^num-6-14|≈ Numbers 6:14]] · [[Numbers 6#^num-6-10|≈ Numbers 6:10]] · [[Leviticus 6#^lev-6-20|≈ Leviticus 6:20]] · [[Numbers 28#^num-28-9|≈ Numbers 28:9]] · [[Numbers 28#^num-28-12|≈ Numbers 28:12]]
 
 ![[Leviticus 14#^lev-14-11]]
 > [[Leviticus 16#^lev-16-7|≈ Leviticus 16:7]]
@@ -61,13 +61,13 @@ cssclasses:
 > [[Leviticus 8#^lev-8-23|≈ Leviticus 8:23]] · [[Exodus 29#^ex-29-20|≈ Exodus 29:20]]
 
 ![[Leviticus 14#^lev-14-18]]
-> [[Leviticus 4#^lev-4-26|≈ Leviticus 4:26]] · [[Leviticus 4#^lev-4-31|≈ Leviticus 4:31]] · [[Leviticus 4#^lev-4-20|≈ Leviticus 4:20]] · [[Leviticus 4#^lev-4-35|≈ Leviticus 4:35]] · [[Numbers 15#^num-15-28|≈ Numbers 15:28]] · [[Numbers 15#^num-15-25|≈ Numbers 15:25]]
+> [[Leviticus 15#^lev-15-15|≈ Leviticus 15:15]] · [[Leviticus 15#^lev-15-30|≈ Leviticus 15:30]] · [[Leviticus 4#^lev-4-26|≈ Leviticus 4:26]] · [[Leviticus 4#^lev-4-31|≈ Leviticus 4:31]] · [[Leviticus 4#^lev-4-20|≈ Leviticus 4:20]] · [[Leviticus 4#^lev-4-35|≈ Leviticus 4:35]]
 
 ![[Leviticus 14#^lev-14-19]]
 > [[Ezekiel 45#^ezek-45-17|Ezek. 45:17]] · [[Numbers 6#^num-6-11|≈ Numbers 6:11]]
 
 ![[Leviticus 14#^lev-14-20]]
-> [[Leviticus 4#^lev-4-31|≈ Leviticus 4:31]] · [[Leviticus 4#^lev-4-26|≈ Leviticus 4:26]] · [[Leviticus 4#^lev-4-20|≈ Leviticus 4:20]] · [[Leviticus 4#^lev-4-35|≈ Leviticus 4:35]] · [[Numbers 6#^num-6-11|≈ Numbers 6:11]] · [[Numbers 15#^num-15-28|≈ Numbers 15:28]]
+> [[Leviticus 15#^lev-15-15|≈ Leviticus 15:15]] · [[Leviticus 15#^lev-15-30|≈ Leviticus 15:30]] · [[Leviticus 4#^lev-4-31|≈ Leviticus 4:31]] · [[Leviticus 4#^lev-4-26|≈ Leviticus 4:26]] · [[Leviticus 4#^lev-4-20|≈ Leviticus 4:20]] · [[Leviticus 4#^lev-4-35|≈ Leviticus 4:35]]
 
 ![[Leviticus 14#^lev-14-21]]
 > [[Leviticus 5#^lev-5-7|Lev. 5:7]] · [[Numbers 15#^num-15-28|≈ Numbers 15:28]] · [[Numbers 7#^num-7-13|≈ Numbers 7:13]] · [[Numbers 7#^num-7-19|≈ Numbers 7:19]] · [[Numbers 7#^num-7-25|≈ Numbers 7:25]] · [[Numbers 7#^num-7-31|≈ Numbers 7:31]] · [[Numbers 7#^num-7-37|≈ Numbers 7:37]]
@@ -82,7 +82,7 @@ cssclasses:
 > [[Leviticus 8#^lev-8-27|≈ Leviticus 8:27]] · [[Leviticus 8#^lev-8-29|≈ Leviticus 8:29]] · [[Numbers 6#^num-6-20|≈ Numbers 6:20]] · [[Leviticus 7#^lev-7-30|≈ Leviticus 7:30]] · [[Leviticus 9#^lev-9-21|≈ Leviticus 9:21]] · [[Leviticus 23#^lev-23-20|≈ Leviticus 23:20]]
 
 ![[Leviticus 14#^lev-14-25]]
-> [[Leviticus 4#^lev-4-25|≈ Leviticus 4:25]] · [[Leviticus 4#^lev-4-34|≈ Leviticus 4:34]] · [[Leviticus 8#^lev-8-23|≈ Leviticus 8:23]] · [[Exodus 29#^ex-29-20|≈ Exodus 29:20]]
+> [[Leviticus 8#^lev-8-23|≈ Leviticus 8:23]] · [[Leviticus 4#^lev-4-25|≈ Leviticus 4:25]] · [[Leviticus 4#^lev-4-34|≈ Leviticus 4:34]] · [[Exodus 29#^ex-29-20|≈ Exodus 29:20]]
 
 ![[Leviticus 14#^lev-14-26]]
 
@@ -92,12 +92,12 @@ cssclasses:
 > [[D&C 124#^dc-124-39|D&amp;C 124:39]] · [[Leviticus 8#^lev-8-23|≈ Leviticus 8:23]] · [[Exodus 29#^ex-29-20|≈ Exodus 29:20]]
 
 ![[Leviticus 14#^lev-14-29]]
-> [[Leviticus 6#^lev-6-7|≈ Leviticus 6:7]] · [[Leviticus 15#^lev-15-15|≈ Leviticus 15:15]]
+> [[Leviticus 15#^lev-15-15|≈ Leviticus 15:15]] · [[Leviticus 6#^lev-6-7|≈ Leviticus 6:7]]
 
 ![[Leviticus 14#^lev-14-30]]
 
 ![[Leviticus 14#^lev-14-31]]
-> [[Leviticus 15#^lev-15-14|Lev. 15:15 (14–15)]] · [[Leviticus 4#^lev-4-26|≈ Leviticus 4:26]] · [[Leviticus 4#^lev-4-31|≈ Leviticus 4:31]] · [[Leviticus 4#^lev-4-20|≈ Leviticus 4:20]] · [[Leviticus 4#^lev-4-35|≈ Leviticus 4:35]] · [[Numbers 6#^num-6-11|≈ Numbers 6:11]] · [[Numbers 15#^num-15-28|≈ Numbers 15:28]]
+> [[Leviticus 15#^lev-15-14|Lev. 15:15 (14–15)]] · [[Leviticus 15#^lev-15-15|≈ Leviticus 15:15]] · [[Leviticus 15#^lev-15-30|≈ Leviticus 15:30]] · [[Leviticus 4#^lev-4-26|≈ Leviticus 4:26]] · [[Leviticus 4#^lev-4-31|≈ Leviticus 4:31]] · [[Leviticus 4#^lev-4-20|≈ Leviticus 4:20]] · [[Leviticus 4#^lev-4-35|≈ Leviticus 4:35]]
 
 ![[Leviticus 14#^lev-14-32]]
 

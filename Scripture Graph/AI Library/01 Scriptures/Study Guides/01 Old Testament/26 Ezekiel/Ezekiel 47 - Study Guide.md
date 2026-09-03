@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 47
 slug: ezek-47
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Ezekiel 2]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]] ↔ [[Ezekiel 2#^ezek-2-1|Ezekiel 2:1]]
 - [[Ezekiel 37]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]] ↔ [[Ezekiel 37#^ezek-37-3|Ezekiel 37:3]]
 - [[Ezekiel 43]] — 2 parallel verses, e.g. [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]] ↔ [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]]
+- [[Ezekiel 48]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

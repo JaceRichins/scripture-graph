@@ -17,7 +17,7 @@ cssclasses:
 > The irrevocable judgment of Jerusalem is foretold—As a sign to the Jews, Ezekiel does not weep at his wife’s death.
 
 ![[Ezekiel 24#^ezek-24-1]]
-> [[2 Kings 25#^2kgs-25-1|2 Kgs. 25:1]] · [[Jeremiah 39#^jer-39-1|Jer. 39:1]] · [[Jeremiah 52#^jer-52-4|52:4]] · [[Ezekiel 1#^ezek-1-2|Ezek. 1:2]] · [[Ezekiel 33#^ezek-33-21|33:21]] · [[Ezekiel 29#^ezek-29-1|≈ Ezekiel 29:1]] · [[Ezekiel 29#^ezek-29-17|≈ Ezekiel 29:17]] · [[Jeremiah 52#^jer-52-4|≈ Jeremiah 52:4]] · [[Jeremiah 52#^jer-52-12|≈ Jeremiah 52:12]] · [[2 Kings 25#^2kgs-25-1|≈ 2 Kings 25:1]]
+> [[2 Kings 25#^2kgs-25-1|2 Kgs. 25:1]] · [[Jeremiah 39#^jer-39-1|Jer. 39:1]] · [[Jeremiah 52#^jer-52-4|52:4]] · [[Ezekiel 1#^ezek-1-2|Ezek. 1:2]] · [[Ezekiel 33#^ezek-33-21|33:21]] · [[Jeremiah 52#^jer-52-4|≈ Jeremiah 52:4]] · [[Jeremiah 52#^jer-52-12|≈ Jeremiah 52:12]] · [[Ezekiel 29#^ezek-29-1|≈ Ezekiel 29:1]] · [[Ezekiel 29#^ezek-29-17|≈ Ezekiel 29:17]] · [[2 Kings 25#^2kgs-25-1|≈ 2 Kings 25:1]]
 
 ![[Ezekiel 24#^ezek-24-2]]
 > [[Jeremiah 39#^jer-39-1|Jer. 39:1]] · [[1 Nephi 10#^1ne-10-3|1 Ne. 10:3]]

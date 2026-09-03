@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 4
 slug: mal-4
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,9 +52,11 @@ _Not yet developed._
 - [[D&C 110]] — 3 parallel verses, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 110#^dc-110-14|D&C 110:14]]
 - [[2 Nephi 26]] — 2 parallel verses, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]]
 - [[D&C 2]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 2#^dc-2-1|D&C 2:1]]
-- [[D&C 138]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 138#^dc-138-46|D&C 138:46]]
 - [[D&C 29]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[D&C 29#^dc-29-9|D&C 29:9]]
+- [[D&C 138]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 138#^dc-138-46|D&C 138:46]]
 - [[1 Nephi 22]] — 0 parallel verses
+- [[D&C 98]] — 0 parallel verses
+- [[D&C 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,6 +87,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **21 The Spirit of God** (history) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Family History Work and Genealogy** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*

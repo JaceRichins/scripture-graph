@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 9
 slug: alma-9
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -60,23 +60,23 @@ The near-verbatim echo between vv.5 and 31 is a real, striking verbal parallel, 
 - [[Alma 42]] — 6 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 - [[2 Nephi 1]] — 1 parallel verse, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
+- [[Alma 5]] — 3 parallel verses, e.g. [[Alma 9#^alma-9-12|Alma 9:12]] ↔ [[Alma 5#^alma-5-51|Alma 5:51]]
 - [[1 Nephi 2]] — 3 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]]
 - [[Alma 8]] — 3 parallel verses, e.g. [[Alma 9#^alma-9-1|Alma 9:1]] ↔ [[Alma 8#^alma-8-14|Alma 8:14]]
+- [[Omni 1]] — 3 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
+- [[Matthew 11]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-15|Alma 9:15]] ↔ [[Matthew 11#^matt-11-24|Matthew 11:24]]
 - [[Alma 36]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
+- [[Helaman 12]] — 4 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Helaman 12#^hel-12-25|Helaman 12:25]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
-- [[Ether 2]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
-- [[Jarom 1]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]
-- [[Helaman 7]] — 3 parallel verses, e.g. [[Alma 9#^alma-9-24|Alma 9:24]] ↔ [[Helaman 7#^hel-7-28|Helaman 7:28]]
-- [[2 Nephi 5]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[Final Judgment]]
 - [[Covenants]]
 - [[Repentance]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
@@ -100,6 +100,7 @@ Three threads stand out:
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
 - [[How Does the Holy Ghost Help You (Elder Gary E. Stevenson, April 2017)|How Does the Holy Ghost Help You?]] — Elder Gary E. Stevenson, 2017-April *(explicit citation)*
 - [[The Immediate Goodness of God (Elder Kyle S. McKay, April 2019)|The Immediate Goodness of God]] — Elder Kyle S. McKay, 2019-April *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 - [[Ask, Seek, and Knock (Milton Camargo, October 2020)|Ask, Seek, and Knock]] — Milton Camargo, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 73
 slug: dc-73
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 73]] · My notes: [[D&C 73 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–2, Elders are to continue to preach; 3–6, Joseph Smith and Sidney Rigdon are to continue to translate the Bible until it is finished.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,12 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 57]] — 1 footnote cross-reference (from [[D&C 73#^dc-73-1|D&C 73:1]])
+- [[D&C 20]] — 1 footnote cross-reference (from [[D&C 73#^dc-73-2|D&C 73:2]])
+- [[D&C 71]] — 1 footnote cross-reference (from [[D&C 73#^dc-73-3|D&C 73:3]])
+- [[D&C 45]] — 1 footnote cross-reference (from [[D&C 73#^dc-73-3|D&C 73:3]])
+- [[D&C 76]] — 1 footnote cross-reference (from [[D&C 73#^dc-73-3|D&C 73:3]])
+- [[D&C 90]] — 1 footnote cross-reference (from [[D&C 73#^dc-73-4|D&C 73:4]])
 - [[D&C 52]] — 3 parallel verses, e.g. [[D&C 73#^dc-73-3|D&C 73:3]] ↔ [[D&C 52#^dc-52-3|D&C 52:3]]
 - [[D&C 72]] — 1 parallel verse, e.g. [[D&C 73#^dc-73-1|D&C 73:1]] ↔ [[D&C 72#^dc-72-2|D&C 72:2]]
 - [[D&C 71]] — 1 parallel verse, e.g. [[D&C 73#^dc-73-3|D&C 73:3]] ↔ [[D&C 71#^dc-71-1|D&C 71:1]]

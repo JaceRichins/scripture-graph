@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 1
 slug: micah-1
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Judges 5]] — 1 footnote cross-reference (from [[Micah 1#^micah-1-4|Micah 1:4]])
 - [[Isaiah 64]] — 1 footnote cross-reference (from [[Micah 1#^micah-1-4|Micah 1:4]])
 - [[Hosea 1]] — 1 parallel verse, e.g. [[Micah 1#^micah-1-1|Micah 1:1]] ↔ [[Hosea 1#^hosea-1-1|Hosea 1:1]]
+- [[Psalm 97]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

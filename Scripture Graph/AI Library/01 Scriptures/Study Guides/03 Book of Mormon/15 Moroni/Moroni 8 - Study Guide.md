@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 8
 slug: moro-8
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

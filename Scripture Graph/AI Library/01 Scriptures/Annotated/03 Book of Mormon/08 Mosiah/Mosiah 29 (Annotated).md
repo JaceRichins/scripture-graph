@@ -92,7 +92,7 @@ cssclasses:
 > [[Deuteronomy 17#^deut-17-8|Deut. 17:8 (8–9)]] · [[Alma 1#^alma-1-14|≈ Alma 1:14]] · [[D&C 72#^dc-72-9|≈ D&C 72:9]]
 
 ![[Mosiah 29#^mosiah-29-29]]
-> [[Alma 51#^alma-51-16|≈ Alma 51:16]] · [[Helaman 1#^hel-1-8|≈ Helaman 1:8]] · [[Helaman 1#^hel-1-13|≈ Helaman 1:13]]
+> [[Helaman 1#^hel-1-8|≈ Helaman 1:8]] · [[Helaman 1#^hel-1-13|≈ Helaman 1:13]] · [[Alma 51#^alma-51-16|≈ Alma 51:16]]
 
 ![[Mosiah 29#^mosiah-29-30]]
 

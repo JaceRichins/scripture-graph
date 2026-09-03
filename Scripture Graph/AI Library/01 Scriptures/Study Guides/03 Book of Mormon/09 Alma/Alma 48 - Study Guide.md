@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 48
 slug: alma-48
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -52,10 +52,11 @@ _Not yet developed._
 - [[Alma 50]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Alma 50#^alma-50-1|Alma 50:1]]
 - [[Helaman 3]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Helaman 3#^hel-3-31|Helaman 3:31]]
 - [[Helaman 6]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[Helaman 6#^hel-6-30|Helaman 6:30]]
-- [[2 Nephi 30]] — 1 parallel verse, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[2 Nephi 30#^2ne-30-18|2 Nephi 30:18]]
 - [[Alma 47]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-3|Alma 48:3]] ↔ [[Alma 47#^alma-47-1|Alma 47:1]]
+- [[2 Nephi 30]] — 1 parallel verse, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[2 Nephi 30#^2ne-30-18|2 Nephi 30:18]]
 - [[Alma 45]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Alma 45#^alma-45-22|Alma 45:22]]
 - [[1 Nephi 22]] — 1 parallel verse, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
+- [[Alma 50]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +79,9 @@ _Not yet developed._
 - [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
 - [[Faith A Bond of Trust and Loyalty (Elder Sandino Roman, April 2025)|Faith: A Bond of Trust and Loyalty]] — Elder Sandino Roman, 2025-April *(explicit citation)*
+- [[Love Her Mother (Elaine S. Dalton, October 2011)|Love Her Mother]] — Elaine S. Dalton, 2011-October *(explicit citation)*
 - [[In the Path of Their Duty (Elder David A. Bednar, October 2023)|In the Path of Their Duty]] — Elder David A. Bednar, 2023-October *(explicit citation)*
+- [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 - [[Truly Good and without Guile (Elder Michael T. Ringwood, April 2015)|Truly Good and without Guile]] — Elder Michael T. Ringwood, 2015-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
 <!-- SG:END conference -->

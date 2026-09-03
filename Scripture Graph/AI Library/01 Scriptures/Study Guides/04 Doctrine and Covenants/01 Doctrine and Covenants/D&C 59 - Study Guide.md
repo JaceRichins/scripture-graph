@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 59
 slug: dc-59
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -43,18 +43,24 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[Matthew 5]] — 2 footnote cross-references (from [[D&C 59#^dc-59-2|D&C 59:2]])
+- [[D&C 76]] — 2 footnote cross-references (from [[D&C 59#^dc-59-2|D&C 59:2]])
+- [[D&C 98]] — 2 footnote cross-references (from [[D&C 59#^dc-59-2|D&C 59:2]])
+- [[Mosiah 2]] — 2 footnote cross-references (from [[D&C 59#^dc-59-5|D&C 59:5]])
+- [[D&C 62]] — 2 footnote cross-references (from [[D&C 59#^dc-59-9|D&C 59:9]])
+- [[Leviticus 23]] — 2 footnote cross-references (from [[D&C 59#^dc-59-9|D&C 59:9]])
 - [[2 Nephi 2]] — 2 parallel verses, e.g. [[D&C 59#^dc-59-16|D&C 59:16]] ↔ [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]]
+- [[D&C 49]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-16|D&C 59:16]] ↔ [[D&C 49#^dc-49-19|D&C 49:19]]
+- [[Matthew 22]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-5|D&C 59:5]] ↔ [[Matthew 22#^matt-22-37|Matthew 22:37]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-5|D&C 59:5]] ↔ [[Mark 12#^mark-12-30|Mark 12:30]]
 - [[Luke 10]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-5|D&C 59:5]] ↔ [[Luke 10#^luke-10-27|Luke 10:27]]
 - [[Moses 6]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-23|D&C 59:23]] ↔ [[Moses 6#^moses-6-59|Moses 6:59]]
 - [[Daniel 2]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-16|D&C 59:16]] ↔ [[Daniel 2#^dan-2-38|Daniel 2:38]]
-- [[D&C 89]] — 0 parallel verses
-- [[Deuteronomy 6]] — 0 parallel verses
-- [[Matthew 22]] — 0 parallel verses
+- [[D&C 89]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-16|D&C 59:16]] ↔ [[D&C 89#^dc-89-14|D&C 89:14]]
+- [[Deuteronomy 6]] — 1 parallel verse, e.g. [[D&C 59#^dc-59-5|D&C 59:5]] ↔ [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]]
 - [[D&C 88]] — 0 parallel verses
 - [[3 Nephi 9]] — 0 parallel verses
 - [[Leviticus 19]] — 0 parallel verses
-- [[Revelation 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,9 +87,9 @@ The creation teaching is similarly balanced. Material and sensory goods are affi
 - [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
 - [[Room in the Inn (Elder Gerrit W. Gong, April 2021)|Room in the Inn]] — Elder Gerrit W. Gong, 2021-April *(explicit citation)*
 - [[Our Earthly Stewardship (Bishop Gérald Caussé, October 2022)|Our Earthly Stewardship]] — Bishop Gérald Caussé, 2022-October *(explicit citation)*
+- [[The Sabbath and the Sacrament (Elder L. Tom Perry, April 2011)|The Sabbath and the Sacrament]] — Elder L. Tom Perry, 2011-April *(explicit citation)*
 - [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
 - [[We Are The Church of Jesus Christ of Latter-day Saints (Reyna I. Aburto, April 2022)|We Are The Church of Jesus Christ of Latter-day Saints]] — Reyna I. Aburto, 2022-April *(explicit citation)*
-- [[The Powerful, Virtuous Cycle of the Doctrine of Christ (Elder Dale G. Renlund, April 2024)|The Powerful, Virtuous Cycle of the Doctrine of Christ]] — Elder Dale G. Renlund, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

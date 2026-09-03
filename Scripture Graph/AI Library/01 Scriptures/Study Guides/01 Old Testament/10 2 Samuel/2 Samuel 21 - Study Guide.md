@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 21
 slug: 2sam-21
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[1 Samuel 20]] — 1 footnote cross-reference (from [[2 Samuel 21#^2sam-21-7|2 Samuel 21:7]])
 - [[1 Chronicles 20]] — 5 parallel verses, e.g. [[2 Samuel 21#^2sam-21-22|2 Samuel 21:22]] ↔ [[1 Chronicles 20#^1chr-20-8|1 Chronicles 20:8]]
 - [[2 Samuel 9]] — 1 parallel verse, e.g. [[2 Samuel 21#^2sam-21-7|2 Samuel 21:7]] ↔ [[2 Samuel 9#^2sam-9-6|2 Samuel 9:6]]
+- [[Joshua 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

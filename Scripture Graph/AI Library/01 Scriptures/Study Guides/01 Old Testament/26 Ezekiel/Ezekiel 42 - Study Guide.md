@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 42
 slug: ezek-42
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

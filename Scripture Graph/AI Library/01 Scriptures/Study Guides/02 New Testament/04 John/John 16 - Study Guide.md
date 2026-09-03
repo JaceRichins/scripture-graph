@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 16
 slug: john-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[John 14]] — 2 parallel verses, e.g. [[John 16#^john-16-1|John 16:1]] ↔ [[John 14#^john-14-25|John 14:25]]
 - [[3 Nephi 27]] — 1 parallel verse, e.g. [[John 16#^john-16-23|John 16:23]] ↔ [[3 Nephi 27#^3ne-27-28|3 Nephi 27:28]]
 - [[3 Nephi 18]] — 1 parallel verse, e.g. [[John 16#^john-16-23|John 16:23]] ↔ [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]]
+- [[D&C 50]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

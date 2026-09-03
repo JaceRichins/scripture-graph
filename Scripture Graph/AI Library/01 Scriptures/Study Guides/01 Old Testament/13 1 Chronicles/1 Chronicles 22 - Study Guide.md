@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 22
 slug: 1chr-22
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,7 +49,11 @@ _Not yet developed._
 - [[2 Samuel 24]] — 1 footnote cross-reference (from [[1 Chronicles 22#^1chr-22-1|1 Chronicles 22:1]])
 - [[1 Kings 9]] — 1 footnote cross-reference (from [[1 Chronicles 22#^1chr-22-2|1 Chronicles 22:2]])
 - [[1 Kings 3]] — 1 footnote cross-reference (from [[1 Chronicles 22#^1chr-22-5|1 Chronicles 22:5]])
+- [[1 Chronicles 28]] — 4 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-10|1 Chronicles 22:10]] ↔ [[1 Chronicles 28#^1chr-28-6|1 Chronicles 28:6]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
+- [[1 Kings 5]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-7|1 Chronicles 22:7]] ↔ [[1 Kings 5#^1kgs-5-5|1 Kings 5:5]]
+- [[Deuteronomy 31]] — 3 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
+- [[2 Samuel 7]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-10|1 Chronicles 22:10]] ↔ [[2 Samuel 7#^2sam-7-13|2 Samuel 7:13]]
 - [[1 Chronicles 17]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-10|1 Chronicles 22:10]] ↔ [[1 Chronicles 17#^1chr-17-13|1 Chronicles 17:13]]
 - [[Joshua 3]] — 3 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
 - [[1 Samuel 4]] — 3 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
@@ -57,10 +61,6 @@ _Not yet developed._
 - [[1 Kings 8]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[1 Kings 8#^1kgs-8-1|1 Kings 8:1]]
 - [[2 Chronicles 5]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-19|1 Chronicles 22:19]] ↔ [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]]
 - [[Ezekiel 12]] — 2 parallel verses, e.g. [[1 Chronicles 22#^1chr-22-8|1 Chronicles 22:8]] ↔ [[Ezekiel 12#^ezek-12-17|Ezekiel 12:17]]
-- [[2 Chronicles 2]] — 1 parallel verse, e.g. [[1 Chronicles 22#^1chr-22-2|1 Chronicles 22:2]] ↔ [[2 Chronicles 2#^2chr-2-17|2 Chronicles 2:17]]
-- [[Deuteronomy 31]] — 0 parallel verses
-- [[1 Chronicles 28]] — 0 parallel verses
-- [[1 Kings 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

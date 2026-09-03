@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 7
 slug: judg-7
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Judges 6]] — 2 parallel verses, e.g. [[Judges 7#^judg-7-9|Judges 7:9]] ↔ [[Judges 6#^judg-6-25|Judges 6:25]]
 - [[Judges 9]] — 2 parallel verses, e.g. [[Judges 7#^judg-7-1|Judges 7:1]] ↔ [[Judges 9#^judg-9-34|Judges 9:34]]
 - [[1 Chronicles 17]] — 1 parallel verse, e.g. [[Judges 7#^judg-7-9|Judges 7:9]] ↔ [[1 Chronicles 17#^1chr-17-3|1 Chronicles 17:3]]
+- [[1 Samuel 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

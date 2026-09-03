@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 16
 slug: jer-16
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
+- **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

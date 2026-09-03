@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 5
 slug: 1thes-5
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -47,11 +47,15 @@ _Not yet developed._
 - [[D&C 1]] — 1 footnote cross-reference (from [[1 Thessalonians 5#^1thes-5-3|1 Thessalonians 5:3]])
 - [[Luke 17]] — 1 footnote cross-reference (from [[1 Thessalonians 5#^1thes-5-4|1 Thessalonians 5:4]])
 - [[Luke 21]] — 1 footnote cross-reference (from [[1 Thessalonians 5#^1thes-5-4|1 Thessalonians 5:4]])
+- [[Romans 16]] — 2 parallel verses, e.g. [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
+- [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
+- [[Revelation 22]] — 1 parallel verse, e.g. [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
 - [[Philippians 4]] — 1 parallel verse, e.g. [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
 - [[1 Corinthians 16]] — 1 parallel verse, e.g. [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
-- [[Romans 16]] — 0 parallel verses
-- [[2 Thessalonians 3]] — 0 parallel verses
+- [[Galatians 6]] — 1 parallel verse, e.g. [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]] ↔ [[Galatians 6#^gal-6-18|Galatians 6:18]]
+- [[Philemon 1]] — 1 parallel verse, e.g. [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
 - [[D&C 98]] — 0 parallel verses
+- [[2 Peter 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +87,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

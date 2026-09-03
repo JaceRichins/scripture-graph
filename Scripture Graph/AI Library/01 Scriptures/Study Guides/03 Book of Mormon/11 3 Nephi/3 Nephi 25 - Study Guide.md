@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 25
 slug: 3ne-25
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -53,10 +53,13 @@ Verse 4 functions as a hinge, looking backward to the covenant given at Horeb be
 - [[Isaiah 66]] — 1 footnote cross-reference (from [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]])
 - [[Malachi 4]] — 6 parallel verses, e.g. [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]] ↔ [[Malachi 4#^mal-4-1|Malachi 4:1]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[3 Nephi 25#^3ne-25-6|3 Nephi 25:6]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
+- [[D&C 133]] — 1 parallel verse, e.g. [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]] ↔ [[D&C 133#^dc-133-64|D&C 133:64]]
+- [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]] ↔ [[Joseph Smith—History 1#^jsh-1-37|Joseph Smith—History 1:37]]
 - [[D&C 110]] — 3 parallel verses, e.g. [[3 Nephi 25#^3ne-25-5|3 Nephi 25:5]] ↔ [[D&C 110#^dc-110-14|D&C 110:14]]
+- [[D&C 2]] — 1 parallel verse, e.g. [[3 Nephi 25#^3ne-25-5|3 Nephi 25:5]] ↔ [[D&C 2#^dc-2-1|D&C 2:1]]
 - [[2 Nephi 26]] — 2 parallel verses, e.g. [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]] ↔ [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]]
+- [[D&C 29]] — 1 parallel verse, e.g. [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]] ↔ [[D&C 29#^dc-29-9|D&C 29:9]]
 - [[D&C 138]] — 1 parallel verse, e.g. [[3 Nephi 25#^3ne-25-5|3 Nephi 25:5]] ↔ [[D&C 138#^dc-138-46|D&C 138:46]]
-- [[D&C 133]] — 0 parallel verses
 - [[D&C 110]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -85,6 +88,7 @@ Verse 4 functions as a hinge, looking backward to the covenant given at Horeb be
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
 - [[The Savior’s Healing Power upon the Isles of the Sea (Elder J. Kimo Esplin, October 2023)|The Savior’s Healing Power upon the Isles of the Sea]] — Elder J. Kimo Esplin, 2023-October *(explicit citation)*
 - [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
+- [[Learning with Our Hearts (Elder Walter F. González, October 2012)|Learning with Our Hearts]] — Elder Walter F. González, 2012-October *(explicit citation)*
 - [[Gathering the Family of God (President Henry B. Eyring, April 2017)|Gathering the Family of God]] — President Henry B. Eyring, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 

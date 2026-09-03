@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 105
 slug: ps-105
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,9 @@ _Not yet developed._
 - [[D&C 19]] — 1 footnote cross-reference (from [[Psalm 105#^ps-105-2|Psalm 105:2]])
 - [[Exodus 2]] — 1 footnote cross-reference (from [[Psalm 105#^ps-105-8|Psalm 105:8]])
 - [[1 Chronicles 16]] — 12 parallel verses, e.g. [[Psalm 105#^ps-105-1|Psalm 105:1]] ↔ [[1 Chronicles 16#^1chr-16-8|1 Chronicles 16:8]]
+- [[Exodus 9]] — 0 parallel verses
+- [[Psalm 78]] — 0 parallel verses
+- [[Psalm 106]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +68,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[God Will Do Something Unimaginable (Elder Dieter F. Uchtdorf, October 2020)|God Will Do Something Unimaginable]] — Elder Dieter F. Uchtdorf, 2020-October *(explicit citation)*
+- [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

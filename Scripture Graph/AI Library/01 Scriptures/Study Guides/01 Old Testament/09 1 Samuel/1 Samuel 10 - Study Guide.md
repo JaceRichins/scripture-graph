@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 10
 slug: 1sam-10
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -50,7 +50,8 @@ _Not yet developed._
 - [[Judges 6]] — 1 parallel verse, e.g. [[1 Samuel 10#^1sam-10-18|1 Samuel 10:18]] ↔ [[Judges 6#^judg-6-9|Judges 6:9]]
 - [[Exodus 18]] — 1 parallel verse, e.g. [[1 Samuel 10#^1sam-10-18|1 Samuel 10:18]] ↔ [[Exodus 18#^ex-18-10|Exodus 18:10]]
 - [[1 Samuel 9]] — 1 parallel verse, e.g. [[1 Samuel 10#^1sam-10-23|1 Samuel 10:23]] ↔ [[1 Samuel 9#^1sam-9-2|1 Samuel 9:2]]
-- [[2 Kings 3]] — 0 parallel verses
+- [[Hosea 13]] — 0 parallel verses
+- [[1 Samuel 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,7 +74,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

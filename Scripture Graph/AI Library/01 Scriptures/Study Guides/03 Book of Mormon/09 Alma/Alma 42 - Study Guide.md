@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 42
 slug: alma-42
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -48,8 +48,11 @@ Alma 42 answers the charge that punishment makes God unjust. Its answer begins w
 - [[Genesis 3]] — 3 footnote cross-references (from [[Alma 42#^alma-42-2|Alma 42:2]])
 - [[Helaman 14]] — 3 footnote cross-references (from [[Alma 42#^alma-42-7|Alma 42:7]])
 - [[Alma 41]] — 3 footnote cross-references (from [[Alma 42#^alma-42-27|Alma 42:27]])
+- [[Genesis 3]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-2|Alma 42:2]] ↔ [[Genesis 3#^gen-3-24|Genesis 3:24]]
+- [[Moses 4]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-2|Alma 42:2]] ↔ [[Moses 4#^moses-4-31|Moses 4:31]]
 - [[Alma 12]] — 6 parallel verses, e.g. [[Alma 42#^alma-42-5|Alma 42:5]] ↔ [[Alma 12#^alma-12-26|Alma 12:26]]
 - [[Alma 9]] — 6 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[Helaman 14]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-11|Alma 42:11]] ↔ [[Helaman 14#^hel-14-16|Helaman 14:16]]
 - [[2 Nephi 5]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]]
 - [[Ether 2]] — 3 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
 - [[2 Nephi 9]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[2 Nephi 9#^2ne-9-6|2 Nephi 9:6]]
@@ -57,9 +60,6 @@ Alma 42 answers the charge that punishment makes God unjust. Its answer begins w
 - [[Ether 10]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Ether 10#^ether-10-11|Ether 10:11]]
 - [[Moroni 8]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-29|Alma 42:29]] ↔ [[Moroni 8#^moro-8-6|Moroni 8:6]]
 - [[1 Nephi 2]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[1 Nephi 2#^1ne-2-21|1 Nephi 2:21]]
-- [[2 Nephi 2]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-2|Alma 42:2]] ↔ [[2 Nephi 2#^2ne-2-19|2 Nephi 2:19]]
-- [[Alma 40]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-23|Alma 42:23]] ↔ [[Alma 40#^alma-40-3|Alma 40:3]]
-- [[Helaman 12]] — 2 parallel verses, e.g. [[Alma 42#^alma-42-9|Alma 42:9]] ↔ [[Helaman 12#^hel-12-25|Helaman 12:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -92,7 +92,7 @@ Its account of [[Justice and Mercy]] is complementary rather than competitive. J
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
 - [[The Plan of Mercy (Elder James R. Rasband, April 2025)|The Plan of Mercy]] — Elder James R. Rasband, 2025-April *(explicit citation)*
-- [[Be True to God and His Work (Elder Quentin L. Cook, October 2022)|Be True to God and His Work]] — Elder Quentin L. Cook, 2022-October *(explicit citation)*
+- [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

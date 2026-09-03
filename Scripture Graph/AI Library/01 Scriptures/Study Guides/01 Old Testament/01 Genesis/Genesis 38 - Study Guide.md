@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 38
 slug: gen-38
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---

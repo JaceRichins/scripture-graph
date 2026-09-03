@@ -100,10 +100,10 @@ cssclasses:
 > [[Psalm 67#^ps-67-1|Ps. 67:2 (1–2)]] · [[Mosiah 3#^mosiah-3-20|≈ Mosiah 3:20]] · [[1 Nephi 19#^1ne-19-17|≈ 1 Nephi 19:17]] · [[Mosiah 13#^mosiah-13-27|≈ Mosiah 13:27]]
 
 ![[Mosiah 15#^mosiah-15-29]]
-> [[Isaiah 52#^isa-52-8|Isa. 52:8 (8–10)]] · [[Mosiah 12#^mosiah-12-22|Mosiah 12:22 (22–24)]] · [[Isaiah 52#^isa-52-8|≈ Isaiah 52:8]] · [[Mosiah 12#^mosiah-12-22|≈ Mosiah 12:22]] · [[3 Nephi 16#^3ne-16-18|≈ 3 Nephi 16:18]] · [[3 Nephi 20#^3ne-20-32|≈ 3 Nephi 20:32]]
+> [[Isaiah 52#^isa-52-8|Isa. 52:8 (8–10)]] · [[Mosiah 12#^mosiah-12-22|Mosiah 12:22 (22–24)]] · [[3 Nephi 16#^3ne-16-18|≈ 3 Nephi 16:18]] · [[Isaiah 52#^isa-52-8|≈ Isaiah 52:8]] · [[Mosiah 12#^mosiah-12-22|≈ Mosiah 12:22]] · [[3 Nephi 20#^3ne-20-32|≈ 3 Nephi 20:32]]
 
 ![[Mosiah 15#^mosiah-15-30]]
-> [[Isaiah 52#^isa-52-9|≈ Isaiah 52:9]] · [[Mosiah 12#^mosiah-12-23|≈ Mosiah 12:23]] · [[3 Nephi 16#^3ne-16-19|≈ 3 Nephi 16:19]] · [[3 Nephi 20#^3ne-20-34|≈ 3 Nephi 20:34]]
+> [[3 Nephi 16#^3ne-16-19|≈ 3 Nephi 16:19]] · [[Isaiah 52#^isa-52-9|≈ Isaiah 52:9]] · [[Mosiah 12#^mosiah-12-23|≈ Mosiah 12:23]] · [[3 Nephi 20#^3ne-20-34|≈ 3 Nephi 20:34]]
 
 ![[Mosiah 15#^mosiah-15-31]]
-> [[Isaiah 52#^isa-52-10|≈ Isaiah 52:10]] · [[Mosiah 12#^mosiah-12-24|≈ Mosiah 12:24]] · [[3 Nephi 16#^3ne-16-20|≈ 3 Nephi 16:20]] · [[3 Nephi 20#^3ne-20-35|≈ 3 Nephi 20:35]] · [[D&C 133#^dc-133-3|≈ D&C 133:3]] · [[1 Nephi 19#^1ne-19-17|≈ 1 Nephi 19:17]]
+> [[3 Nephi 16#^3ne-16-20|≈ 3 Nephi 16:20]] · [[Isaiah 52#^isa-52-10|≈ Isaiah 52:10]] · [[Mosiah 12#^mosiah-12-24|≈ Mosiah 12:24]] · [[3 Nephi 20#^3ne-20-35|≈ 3 Nephi 20:35]] · [[D&C 133#^dc-133-3|≈ D&C 133:3]] · [[1 Nephi 19#^1ne-19-17|≈ 1 Nephi 19:17]]

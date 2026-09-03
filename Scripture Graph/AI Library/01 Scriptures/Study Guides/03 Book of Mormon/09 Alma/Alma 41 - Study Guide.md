@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 41
 slug: alma-41
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Moroni 8]] — 1 parallel verse, e.g. [[Alma 41#^alma-41-11|Alma 41:11]] ↔ [[Moroni 8#^moro-8-14|Moroni 8:14]]
 - [[Alma 37]] — 1 parallel verse, e.g. [[Alma 41#^alma-41-1|Alma 41:1]] ↔ [[Alma 37#^alma-37-38|Alma 37:38]]
 - [[Alma 40]] — 2 parallel verses, e.g. [[Alma 41#^alma-41-4|Alma 41:4]] ↔ [[Alma 40#^alma-40-23|Alma 40:23]]
+- [[Alma 42]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

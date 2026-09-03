@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 79
 slug: dc-79
-corpus_version_reviewed: 7
+corpus_version_reviewed: 9
 cssclasses:
 - sg-study
 ---
@@ -17,7 +17,8 @@ Scripture: [[D&C 79]] · My notes: [[D&C 79 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-_Not yet developed._
+> [!info] Chapter heading (official)
+> 1–4, Jared Carter is called to preach the gospel by the Comforter.
 <!-- SG:END overview -->
 
 ## Structure & Setting
@@ -38,6 +39,10 @@ _Not yet developed._
 
 ## Related Scriptures
 <!-- SG:BEGIN related-scriptures -->
+- [[D&C 52]] — 1 footnote cross-reference (from [[D&C 79#^dc-79-1|D&C 79:1]])
+- [[Revelation 14]] — 1 footnote cross-reference (from [[D&C 79#^dc-79-1|D&C 79:1]])
+- [[Psalm 25]] — 1 footnote cross-reference (from [[D&C 79#^dc-79-2|D&C 79:2]])
+- [[D&C 31]] — 1 footnote cross-reference (from [[D&C 79#^dc-79-3|D&C 79:3]])
 - [[D&C 104]] — 3 parallel verses, e.g. [[D&C 79#^dc-79-3|D&C 79:3]] ↔ [[D&C 104#^dc-104-25|D&C 104:25]]
 - [[D&C 124]] — 1 parallel verse, e.g. [[D&C 79#^dc-79-1|D&C 79:1]] ↔ [[D&C 124#^dc-124-18|D&C 124:18]]
 - [[D&C 66]] — 1 parallel verse, e.g. [[D&C 79#^dc-79-1|D&C 79:1]] ↔ [[D&C 66#^dc-66-5|D&C 66:5]]
