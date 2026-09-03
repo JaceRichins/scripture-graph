@@ -5197,6 +5197,62 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2ne-25-6990bc15",
+   "t": "Six-hundred-year interval: Lehi's departure to the Messiah",
+   "y0": -600,
+   "y1": 1,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "2 Nephi 25:19 states the Messiah comes 'six hundred years from the time that my father left Jerusalem,' per the Book of Mormon's own internal chronology.",
+   "chapters": [
+    "2 Nephi 25"
+   ],
+   "people": [
+    "Nephi (son of Lehi)",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-2ne-25-f27f36fd",
+   "t": "Nephi explains Isaiah and prophesies plainly",
+   "y0": -559,
+   "y1": -545,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns 2 Nephi 25 to approximately 559–545 B.C.; the chapter itself gives no narrower date.",
+   "chapters": [
+    "2 Nephi 25"
+   ],
+   "people": [
+    "Nephi",
+    "Isaiah",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ],
+   "things": [
+    "Nephi's record",
+    "law of Moses"
+   ]
+  },
+  {
    "id": "r-2sam-2-ef0af341",
    "t": "David's reign as king of Judah at Hebron",
    "y0": -1010,

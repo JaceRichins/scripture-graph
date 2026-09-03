@@ -44,12 +44,12 @@ _Not yet developed._
 - **600 BC–592 BC** — Wilderness journey from the valley of Lemuel to Nahom · [[1 Nephi 16]] · [[600-501 BC]] *(approximate)*
 - **600 BC–592 BC** — Lehi's sons make two attempts to obtain the brass plates · [[1 Nephi 3]] · [[600-501 BC]] *(approximate)*
 - **600 BC–592 BC** — Lehi's tree-of-life vision in the wilderness · [[1 Nephi 8]] · [[600-501 BC]] *(approximate)*
+- **600 BC–AD 1** — Six-hundred-year interval: Lehi's departure to the Messiah · [[2 Nephi 25]] · [[600-501 BC]] *(Book of Mormon internal dating)*
 - **590 BC** — Nephi makes the large plates · [[1 Nephi 19]] · [[600-501 BC]] *(Book of Mormon internal dating)*
 - **589 BC** — Lehi's family crosses the ocean · [[1 Nephi 17]] · [[1 Nephi 18]] · [[600-501 BC]] *(traditional dating)*
 - **588 BC–570 BC** — Nephites and Lamanites divide · [[2 Nephi 5]] · [[600-501 BC]] *(Book of Mormon internal dating)*
 - **570 BC** — Nephi makes the small plates · [[1 Nephi 9]] · [[2 Nephi 5]] · [[600-501 BC]] *(Book of Mormon internal dating)*
 - **559 BC–545 BC** — Nephi introduces his Isaiah quotations · [[2 Nephi 11]] · [[600-501 BC]] *(approximate)*
-- **AD 34** — Christ's foreseen appearance to the Nephites · [[1 Nephi 12]] · [[AD 1-100]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
