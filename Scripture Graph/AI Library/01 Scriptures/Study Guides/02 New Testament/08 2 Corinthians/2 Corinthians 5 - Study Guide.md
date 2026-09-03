@@ -23,7 +23,10 @@ Scripture: [[2 Corinthians 5]] · My notes: [[2 Corinthians 5 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Mortal groaning and heavenly hope (1-5):** Earthly tent, heavenly building, clothing, and the Spirit as a pledge.
+2. **Confidence and accountability (6-10):** Walking by [[Faith]], seeking the Lord's approval, and appearing at the [[Final Judgment]].
+3. **The motives of ministry (11-15):** Reverence for the Lord and Christ's love lead Paul to persuade others; Christ's death calls the living away from self-centered life.
+4. **New creation and reconciliation (16-21):** Fleshly evaluation gives way to new creation; God reconciles through Christ and entrusts a corresponding ministry to Christ's ambassadors.
 <!-- SG:END structure -->
 
 ## People
@@ -44,16 +47,19 @@ _Not yet developed._
 - [[D&C 19]] — 1 footnote cross-reference (from [[2 Corinthians 5#^2cor-5-14|2 Corinthians 5:14]])
 - [[Romans 14]] — 1 footnote cross-reference (from [[2 Corinthians 5#^2cor-5-15|2 Corinthians 5:15]])
 - [[1 John 2]] — 1 footnote cross-reference (from [[2 Corinthians 5#^2cor-5-17|2 Corinthians 5:17]])
+- [[Romans 8]] — 0 parallel verses
+- [[1 Corinthians 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Death and the Spirit World]]
+- [[Final Judgment]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Key doctrinal threads: (1) hope of a future, immortal embodiment described through overlapping house and clothing imagery, tied to [[Resurrection]]; the exact relationship between this hope and the 'absent from the body, present with the Lord' language of vv.6-8 remains disputed. (2) Universal accountability for deeds 'done in his body' before Christ's judgment seat ([[Final Judgment]]). (3) Christ's death 'for all' as the ground of a new ethic — believers no longer 'live unto themselves' — central to the [[Atonement of Jesus Christ]], though the precise mechanism behind v.21's 'made him to be sin for us' is compressed and admits more than one reading. (4) [[Conversion]] as becoming a 'new creature' in Christ (v.17). (5) Reconciliation between God and humanity, entrusted to Paul and his fellow ministers as a 'ministry of reconciliation' ([[Missionary Work]]), extended by application — not by explicit statement — to believers generally.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -80,22 +86,36 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The opening imagery deliberately overlaps two semantic fields. A body or mortal condition is first an earthly tent contrasted with a heavenly building, then something over which a heavenly garment is put. The controlling desire in verse 4 is not nakedness but fuller clothing, so that mortality is overtaken by life. Later, the repeated vocabulary of “reconciled,” “reconciling,” and “reconciliation” unifies verses 18-20: divine action becomes an entrusted message and then a direct appeal.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Causal terms such as “for,” “therefore,” and “wherefore” make the chapter a sustained argument rather than a collection of isolated sayings. The thought repeatedly moves from what God or Christ has done to how believers and ministers should live. Important contrasts organize the argument: earthly/heavenly, clothed/naked, body/Lord, faith/sight, appearance/heart, self/Christ, old/new, trespasses/righteousness, and estrangement/reconciliation.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Biblical Theology / Eschatology *(tentative)*
+> 2 Corinthians 5:6-8 is frequently cited as evidence that Paul envisioned a conscious intermediate state in which the departed spirit is immediately 'present with the Lord' before the resurrection described in verses 1-4, rather than an unconscious interval.
+> — strength 0.5 · confidence 0.6 · disputed intermediate-state reading
+
+> [!evidence] Internal Literary And Contextual Evidence *(tentative)*
+> The preference to be clothed rather than unclothed, culminating in mortality being swallowed up by life, is substantial internal evidence that Paul's hope includes transformed embodied life rather than permanent disembodiment. The precise identification and timing of the heavenly dwelling remain debated.
+> — strength 0.6 · confidence 0.6 · disputed embodiment vs intermediate state
+
+> [!evidence] Historical Theology / Doctrine Of Atonement *(tentative)*
+> 2 Corinthians 5:21 ('he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him') is one of the strongest 'interchange' or substitutionary formulas in the Pauline corpus and is used across Christian traditions as evidence for differing atonement models.
+> — strength 0.5 · confidence 0.6 · disputed atonement crux; unverified history claims
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does the “building of God” in verse 1 refer specifically to the resurrected body, an intermediate heavenly dwelling, or a broader divine provision? Which details favor each reading?
+- How does verse 10's universal judgment qualify simplistic readings of the confidence expressed in verses 6-8?
+- What does it mean in practice to stop evaluating people “after the flesh” in verse 16?
+- Does “be ye reconciled to God” describe accepting an accomplished divine initiative, entering an ongoing relationship, or both?
+- Which interpretations of “made him to be sin” best account for both Christ's sinlessness and the stated result for believers?
 <!-- SG:END questions -->
 
 ## Further Study
