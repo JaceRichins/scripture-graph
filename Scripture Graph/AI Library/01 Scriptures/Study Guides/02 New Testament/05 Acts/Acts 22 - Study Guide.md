@@ -23,7 +23,11 @@ Scripture: [[Acts 22]] · My notes: [[Acts 22 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter divides cleanly into two units:
+- **vv. 1-21 — Paul's defense speech**: autobiography and credentials (1-5), the Damascus road vision (6-11), Ananias's ministry and commission (12-16), and a second vision in the temple sending Paul to the Gentiles (17-21).
+- **vv. 22-30 — Riot and Roman citizenship**: the crowd's violent reaction (22-23), the order to scourge Paul (24), Paul's invocation of citizenship (25-29), and the chief captain's decision to bring Paul before the Jewish council (30).
+
+The hinge is verse 21 ("unto the Gentiles"), the single phrase that turns a sympathetic hearing into a riot.
 <!-- SG:END structure -->
 
 ## People
@@ -50,18 +54,24 @@ _Not yet developed._
 - [[Romans 11]] — 2 footnote cross-references (from [[Acts 22#^acts-22-3|Acts 22:3]])
 - [[Acts 8]] — 2 footnote cross-references (from [[Acts 22#^acts-22-4|Acts 22:4]])
 - [[Deuteronomy 33]] — 1 footnote cross-reference (from [[Acts 22#^acts-22-3|Acts 22:3]])
+- [[Acts 9]] — 0 parallel verses
+- [[Acts 26]] — 0 parallel verses
 - [[1 Timothy 1]] — 0 parallel verses
+- [[Acts 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Jews and Gentiles]]
+- [[Government and Laws]]
+- [[Repentance and Forgiveness]]
 - [[Testimony]] *(keyword match — unconfirmed)*
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter models [[Testimony]] as personal, experiential, and grounded in what one has "seen and heard" (v. 15) rather than secondhand report. [[Conversion]] is presented as a decisive, Christ-initiated event followed by human ministration (Ananias) and an ordinance: Paul is told to "arise, and be baptized, and wash away thy sins, calling on the name of the Lord" (v. 16), tying [[Baptism]] directly to remission of sin. The chapter also frames [[Missionary Work]] as a divine commission that can require leaving one's own people and going to those considered outsiders — a costly obedience, since it is precisely this commission that provokes the riot.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -83,22 +93,31 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Verse 2 notes Paul spoke "in the Hebrew tongue" (likely Aramaic, the vernacular of Jerusalem Jews), a detail that functions rhetorically: it signals in-group solidarity before Paul says anything else. In verse 20, Paul calls Stephen "thy martyr," using a Greek term (martys, "witness") that is the same root Ananias uses in verse 15 when telling Paul he will be Christ's "witness unto all men." The word had not yet fully narrowed to its later technical sense of "one killed for testimony," but the echo links Stephen's death and Paul's calling as two expressions of the same office of witness. The title "that Just One" (v. 14) for Jesus also appears in Peter's and Stephen's speeches ([[Acts 3]]:14; Acts 7:52), suggesting it circulated as an early title for Jesus among Jerusalem believers.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Luke uses direct speech and careful audience-awareness: Paul's language, credentials, and appeals to shared law and fathers are calibrated to a Jewish crowd, while the closing scene shifts entirely into the register of Roman law and procedure. Comparing this speech with the narrator's account in [[Acts 9]] shows Luke is willing to vary details (notably whether Paul's companions "heard" the voice) across retellings of the same event — a feature worth weighing honestly rather than harmonizing away.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Textual Consistency *(tentative)*
+> Acts 22:9 states Paul's companions 'saw indeed the light... but heard not the voice of him that spake to me,' which stands in apparent tension with Acts 9:7, where the men with Saul are described as 'hearing a voice, but seeing no man.' The two Acts retellings of the same event differ on whether the companions heard the voice.
+> — strength 0.5 · confidence 0.8 · accepted textual difference / disputed interpretation
+
+> [!evidence] Historical Plausibility *(tentative)*
+> Paul's claim of Roman citizenship by birth is historically plausible given Tarsus's status as a significant provincial city with a population that could include Roman citizen families, though Acts itself is the only surviving source for Paul's citizenship claim.
+> — strength 0.3 · confidence 0.6 · disputed / uncorroborated outside Acts
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the crowd listen through the vision and calling of Ananias but erupt specifically at the word "Gentiles"? What does that reveal about the audience's expectations of Paul's story?
+- How should the differing details between Acts 9:7 and Acts 22:9 (whether the companions heard the voice) shape how we read ancient testimony and multiple retellings generally?
+- What is the significance of Paul emphasizing he was "free born" rather than simply a naturalized citizen like the chief captain?
+- Why does Ananias's description ("a devout man according to the law, having a good report of all the Jews," v. 12) matter for Paul's specific audience here, compared to how Ananias is described in Acts 9?
 <!-- SG:END questions -->
 
 ## Further Study
