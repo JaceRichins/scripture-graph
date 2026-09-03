@@ -23,7 +23,14 @@ Scripture: [[1 Peter 1]] · My notes: [[1 Peter 1 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A useful, non-rigid outline is:
+
+1. **1:1-2 — Identity:** sender, scattered recipients, election, sanctification, and obedience.
+2. **1:3-12 — Saving hope:** new birth, inheritance, trials, unseen Christ, and prophetic witness.
+3. **1:13-21 — Holy conduct:** hope, sobriety, holiness, reverent fear, and redemption through Christ.
+4. **1:22-25 — Enduring new life:** sincere love, new birth through incorruptible seed, and the enduring word.
+
+“Wherefore” in verse 13 is the principal hinge, moving from proclamation to exhortation.
 <!-- SG:END structure -->
 
 ## People
@@ -45,12 +52,14 @@ _Not yet developed._
 - [[John 6]] — 1 footnote cross-reference (from [[1 Peter 1#^1pet-1-2|1 Peter 1:2]])
 - [[Isaiah 52]] — 1 footnote cross-reference (from [[1 Peter 1#^1pet-1-2|1 Peter 1:2]])
 - [[Exodus 24]] — 1 footnote cross-reference (from [[1 Peter 1#^1pet-1-2|1 Peter 1:2]])
-- [[Ephesians 1]] — 1 parallel verse, e.g. [[1 Peter 1#^1pet-1-3|1 Peter 1:3]] ↔ [[Ephesians 1#^eph-1-3|Ephesians 1:3]]
 - [[2 Corinthians 11]] — 1 parallel verse, e.g. [[1 Peter 1#^1pet-1-3|1 Peter 1:3]] ↔ [[2 Corinthians 11#^2cor-11-31|2 Corinthians 11:31]]
+- [[Isaiah 40]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Prophecy]]
+- [[Justification and Sanctification]]
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Revelation]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
@@ -60,7 +69,11 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter holds present and future salvation together. Believers are described as begotten again to living hope, yet salvation and grace are also ready to be revealed at Christ's appearing (1:3-9, 13). [[Grace]] therefore grounds disciplined hope and holy conduct rather than passivity.
+
+Christ's blood, not perishable silver or gold, is the price of redemption (1:18-19). The unblemished-lamb image draws on broad sacrificial language; Passover is a possible background but not the only one. Verse 20 places God's knowledge or purpose concerning Christ's redemptive role before the foundation of the world, but it does not by itself describe a premortal council or define the nature of Christ's premortal existence.
+
+The prophets searched concerning the promised salvation, and the “Spirit of Christ” in them testified beforehand of Christ's sufferings and glory (1:10-12). The statement supports prophetic revelation about the Messiah, while the precise relationship between Christ, the Spirit, and prophetic inspiration remains interpretively disputed.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -93,22 +106,47 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Verse 16 explicitly marks “Be ye holy; for I am holy” as scripture and invokes the repeated holiness formula in Leviticus. Verses 24-25 quote or adapt Isaiah 40:6-8, contrasting transient flesh with the enduring word of the Lord, which verse 25 identifies with the preached gospel.
+
+“Gird up the loins of your mind” (1:13) turns a conventional readiness idiom into an appeal for mental and spiritual preparedness. “Sprinkling of the blood” (1:2) draws on Israelite ritual language; the combination with obedience makes the Sinai covenant a possible background, though purification, priestly, and atonement rituals prevent assigning a single source with certainty.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Repeated contrasts give the chapter thematic coherence: present heaviness and future glory, the unseen Christ and active love, perishing gold and precious faith, corruptible wealth or seed and an incorruptible inheritance or seed, and withering flesh versus the enduring word. Some of this pattern is especially visible in English and should not be treated as proof of a rigid formal structure.
+
+New-birth language appears near both the opening and close (1:3, 23). The clearest structural hinge is “Wherefore” in verse 13, where the account of salvation and prophetic witness becomes the basis for exhortation. A further suffering-to-glory correspondence links believers' trials in verses 6-7 with the prophets' testimony concerning Christ in verse 11, without equating the two kinds of suffering.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual-Theological
+> The statement that Christ was foreordained before the foundation of the world is strong textual evidence that the chapter understands his redemptive role as established before its historical manifestation.
+> — strength 0.7 · confidence 0.9 · prior divine purpose accepted; fuller premortal doctrine disputed · [[Textual-Theological in 1 Peter 1|full dossier]]
+
+> [!evidence] Biblical-Theology
+> 1 Peter 1:10-12 states that Old Testament prophets 'searched diligently' concerning the coming salvation, and that 'the Spirit of Christ which was in them' testified beforehand of Christ's sufferings and subsequent glory, implying the prophets had some revelatory access to the future Messiah's story before its fulfillment.
+> — strength 0.6 · confidence 0.9 · observation accepted; precise pneumatology disputed · [[Biblical-Theology in 1 Peter 1|full dossier]]
+
+> [!evidence] Literary-Pattern
+> Repeated contrasts between what perishes and what endures create a coherent chapter-wide motif: an incorruptible inheritance, perishing gold, corruptible silver and gold, incorruptible seed, withering flesh, and the enduring word.
+> — strength 0.7 · confidence 0.9 · English-level thematic motif accepted · [[Literary-Pattern in 1 Peter 1|full dossier]]
+
+> [!evidence] Historical-Critical *(tentative)*
+> The letter's opening address to 'strangers scattered' (diaspora language, v. 1) sits alongside later references to the audience's former 'lusts... in ignorance' (v. 14) and a 'vain conversation received by tradition from your fathers' (v. 18), which bears on whether the intended audience was primarily Jewish-Christian, primarily Gentile-Christian, or mixed, a question relevant to how the chapter's Old Testament allusions would have landed with its first readers.
+> — strength 0.4 · confidence 0.8 · relevant evidence; audience composition unresolved
+
+> [!evidence] Doctrinal-Textual *(tentative)*
+> 1 Peter 1:20 states that Christ 'was foreordained before the foundation of the world, but was manifest in these last times,' textually grounding Christ's redemptive role in a decision or appointment that preceded the world's creation.
+> — strength 0.6 · confidence 0.8 · pre-creation purpose accepted; discrete appointment disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does “strangers scattered” in 1:1 primarily describe geographic displacement, Israelite-diaspora identity, theological exile, or an intentional combination?
+- How does the suffering-then-glory pattern in 1:6-7 relate to the same sequence in 1:11?
+- What changes when holiness is read as the consequence of redemption and hope rather than as a means of purchasing them?
+- How do future salvation in 1:5 and present reception of salvation in 1:9 complement one another?
 <!-- SG:END questions -->
 
 ## Further Study
