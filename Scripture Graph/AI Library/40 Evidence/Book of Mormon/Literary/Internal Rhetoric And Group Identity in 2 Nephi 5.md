@@ -7,13 +7,10 @@ created_by: librarian:job-2ne-5-20260903-061506-57f926d9
 created_at: '2026-09-03T06:30:26Z'
 evidence_class: internal rhetoric and group identity
 claim_confidence: 0.95
-evidence_strength: 0.85
 study_relevance: 0.95
 source_quality: 0.9
 consensus_status: accepted observation / disputed interpretation
 note_kind: context
-issue: bom-2nephi5-lamanite-boundary-rhetoric-context
-proposition: 'Not applicable: this is an illumination (context) note describing the passage''s moralized boundary rhetoric and later interpretive history rather than adjudicating a contested apologetic proposition.'
 calibrated_at: '2026-09-03T18:07:32Z'
 calibration_version: 2
 ---

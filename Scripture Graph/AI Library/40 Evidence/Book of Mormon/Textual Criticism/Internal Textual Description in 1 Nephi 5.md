@@ -7,13 +7,10 @@ created_by: librarian:job-1ne-5-20260903-004505-5e271417
 created_at: '2026-09-03T01:00:18Z'
 evidence_class: internal textual description
 claim_confidence: 0.98
-evidence_strength: 0.82
 study_relevance: 0.94
 source_quality: 1.0
 consensus_status: broadly accepted
 note_kind: context
-issue: context-1nephi5-brass-plates-inventory
-proposition: No contested evidentiary proposition is asserted; the note describes the collection portrayed in 1 Nephi 5.
 calibrated_at: '2026-09-03T18:05:45Z'
 calibration_version: 2
 ---

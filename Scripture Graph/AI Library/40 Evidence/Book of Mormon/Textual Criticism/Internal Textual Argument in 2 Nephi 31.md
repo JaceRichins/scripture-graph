@@ -7,13 +7,10 @@ created_by: librarian:job-2ne-31-20260903-055915-4b5b2f04
 created_at: '2026-09-03T06:11:40Z'
 evidence_class: internal textual argument
 claim_confidence: 0.95
-evidence_strength: 0.85
 study_relevance: 0.95
 source_quality: 0.95
 consensus_status: broadly accepted
 note_kind: context
-issue: bom-2nephi31-baptism-example-context
-proposition: 'Not applicable: this is an illumination (context) note describing the passage''s explicit a fortiori rhetorical structure rather than adjudicating a contested apologetic proposition.'
 calibrated_at: '2026-09-03T18:07:32Z'
 calibration_version: 2
 ---

@@ -7,13 +7,10 @@ created_by: librarian:job-1ne-11-20260902-215807-e58b3d7b
 created_at: '2026-09-02T22:10:28Z'
 evidence_class: internal textual evidence
 claim_confidence: 0.98
-evidence_strength: 0.9
 study_relevance: 0.85
 source_quality: 1
 consensus_status: broadly accepted
 note_kind: context
-issue: context-1nephi11-symbol-glosses
-proposition: No contested evidentiary proposition is asserted; the note illuminates the chapter's explicit interpretations of its symbols.
 calibrated_at: '2026-09-03T18:05:45Z'
 calibration_version: 2
 ---

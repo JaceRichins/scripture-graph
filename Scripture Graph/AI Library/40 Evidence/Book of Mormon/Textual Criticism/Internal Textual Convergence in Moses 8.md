@@ -7,13 +7,10 @@ created_by: librarian:job-moses-8-20260902-194504-8cea5d00
 created_at: '2026-09-02T19:58:21Z'
 evidence_class: internal textual convergence
 claim_confidence: 0.97
-evidence_strength: 0.92
 study_relevance: 0.96
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
 note_kind: context
-issue: context-moses8-noah-gospel-continuity
-proposition: No contested evidentiary proposition is asserted; the note illuminates Moses 8's explicit literary-theological framing.
 calibrated_at: '2026-09-03T18:05:45Z'
 calibration_version: 2
 ---

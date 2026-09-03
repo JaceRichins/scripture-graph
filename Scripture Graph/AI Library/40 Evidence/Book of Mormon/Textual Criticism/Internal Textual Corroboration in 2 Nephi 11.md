@@ -7,13 +7,10 @@ created_by: librarian:job-2ne-11-20260903-042741-8d50dd71
 created_at: '2026-09-03T04:41:03Z'
 evidence_class: internal textual corroboration
 claim_confidence: 0.9
-evidence_strength: 0.4
 study_relevance: 0.85
 source_quality: 0.7
 consensus_status: accepted observation / disputed interpretation
 note_kind: context
-issue: context-2nephi11-three-witness-rhetoric
-proposition: No contested evidentiary proposition is asserted; the note explains Nephi's explicit three-witness rhetorical arrangement.
 calibrated_at: '2026-09-03T18:05:45Z'
 calibration_version: 2
 ---

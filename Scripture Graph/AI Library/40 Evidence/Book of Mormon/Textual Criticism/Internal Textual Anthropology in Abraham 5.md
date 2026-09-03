@@ -7,13 +7,10 @@ created_by: librarian:job-abr-5-20260903-120141-3357e8e0
 created_at: '2026-09-03T12:17:11Z'
 evidence_class: internal textual anthropology
 claim_confidence: 0.9
-evidence_strength: 0.75
 study_relevance: 0.9
 source_quality: 0.95
 consensus_status: accepted observation / disputed interpretation
 note_kind: context
-issue: pgp-abraham5-spirit-body-context
-proposition: 'Not applicable: this is an illumination (context) note describing the verse''s body-spirit-breath sequence rather than adjudicating a contested apologetic proposition.'
 calibrated_at: '2026-09-03T18:07:32Z'
 calibration_version: 2
 ---
