@@ -156,7 +156,16 @@ def apply_ops(ctx: Ctx, ops: list[dict], actor: str) -> PatchResult:
             if field not in FM_WHITELIST:
                 raise PatchViolation(f"frontmatter field not whitelisted: {field}")
             fm, body = _load(ctx, relpath)
-            fm[field] = op.get("value")
+            if op.get("value") is None:
+                fm.pop(field, None)          # null = remove the field
+            else:
+                fm[field] = op.get("value")
+            _store(ctx, relpath, fm, body)
+            changed.append(relpath)
+        elif kind == "remove_section":
+            relpath = _guard_target(ctx, op["path"])
+            fm, body = _load(ctx, relpath)
+            body = md.remove_section(body, op["section"])
             _store(ctx, relpath, fm, body)
             changed.append(relpath)
         elif kind == "add_alias":

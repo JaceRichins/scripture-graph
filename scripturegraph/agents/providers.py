@@ -323,7 +323,8 @@ class StubProvider(Provider):
                 "model_scope": ["ancient source", "modern composition"],
                 "observation": "The pattern the note describes is present in the text.",
                 "interpretation": "It may reflect deliberate composition.",
-                "note_kind": "contested",
+                "note_kind": "context" if "context" in str(n.get("evidence_class") or "").lower()
+                             else "contested",
                 "historical_significance": "Compatible with ancient or modern composition.",
                 "how_it_fits": "Stub: the reconstruction under which this sits.",
                 "apologetic_significance": "Weak support for the proposition; does not discriminate the models.",
@@ -353,7 +354,12 @@ class StubProvider(Provider):
         decisions = []
         for n in a.get("notes", []):
             w = n.get("weight") or {}
-            decisions.append({"note_id": n["note_id"], "use": "a", "issue_key": n["issue_key"],
+            if n.get("note_kind") == "context":
+                decisions.append({"note_id": n["note_id"], "use": "a", "note_kind": "context",
+                                  "rationale": "stub: illumination", "fixes_applied": []})
+                continue
+            decisions.append({"note_id": n["note_id"], "use": "a", "note_kind": "contested",
+                              "issue_key": n["issue_key"],
                               "canonical": {"issue_title": n["issue_title"], "proposition": n["proposition"],
                                             "weight_label": w.get("label", "weak"),
                                             "evidence_strength": w.get("evidence_strength", 0.3),

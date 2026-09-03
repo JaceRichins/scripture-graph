@@ -110,6 +110,29 @@ def ensure_section(body: str, name: str, heading: str, content: str) -> str:
                 + marker_block(name, content if content else PLACEHOLDER) + "\n")
 
 
+def remove_section(body: str, name: str) -> str:
+    """Delete one managed section — its marker block and the `## Heading`
+    line immediately above it. A note that turns out to be illumination
+    sheds the adjudication sections it was given under an earlier pass."""
+    out, last = [], 0
+    for m in _MARKER_RE.finditer(body):
+        if m.group("name") != name:
+            continue
+        start = m.start()
+        head = body.rfind("\n## ", 0, start)
+        # only swallow the heading if nothing but whitespace sits between it and the block
+        if head != -1 and body[head:start].strip().startswith("## ") \
+                and body[head + 1:start].strip().count("\n") == 0:
+            start = head + 1
+        out.append(body[last:start].rstrip() + "\n")
+        last = m.end()
+        # also drop a single trailing blank line after the block
+        while last < len(body) and body[last] in "\r\n":
+            last += 1
+    out.append(body[last:])
+    return "".join(out) if last else body
+
+
 def section_is_empty(content: str | None) -> bool:
     return not content or content.strip() in ("", PLACEHOLDER)
 

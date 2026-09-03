@@ -192,6 +192,16 @@ def cmd_calibrate(args):
     from scripturegraph.agents.calibrate import (TARGET_PREFIX, evidence_notes, pending_groups,
                                                  run_calibration_job)
     corpora = [args.corpus] if args.corpus else list(ctx.c("calibrate.corpora", ["Book of Mormon"]))
+    if args.tidy:
+        from scripturegraph.agents.calibrate import tidy_context_notes
+        from scripturegraph.lockfile import EngineBusy, engine_lock
+        try:
+            with engine_lock(ctx):
+                print(json.dumps(tidy_context_notes(ctx), indent=2))
+        except EngineBusy:
+            print("Another engine run holds the lock — try again shortly.", file=sys.stderr)
+            return 3
+        return 0
     if args.list or (not args.target and not args.review_only and not args.run):
         for c in corpora:
             notes = evidence_notes(ctx, c)
@@ -588,6 +598,8 @@ def main(argv=None) -> int:
     sp.add_argument("--review-only", action="store_true",
                     help="run the pipeline but write a review report instead of touching the vault")
     sp.add_argument("--limit", type=int, help="max groups this invocation")
+    sp.add_argument("--tidy", action="store_true",
+                    help="strip adjudication fields/sections from illumination notes; prune the registry")
     sp.set_defaults(fn=cmd_calibrate)
 
     sp = sub.add_parser("dossier", help="deep subject dossiers -- people, places, gospel "

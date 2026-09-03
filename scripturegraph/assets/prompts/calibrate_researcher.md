@@ -16,14 +16,6 @@ apply the standard below exactly as you would to any ancient text.
 
 {{EMPHASIS}}
 
-## Task
-
-For EACH note in the context, produce a recalibrated assessment:
-
-- `issue_key` / `issue_title`: the canonical ISSUE this note bears on
-  (e.g. `bom-kjv-isaiah-dependence`, `bible-regnal-synchronisms`,
-  `bom-chiasmus-antiquity`). Reuse a registry key when one fits. Notes on
-  the same issue must end up with the same weight.
 ## FIRST: which kind of note is this?
 
 Decide `note_kind` BEFORE anything else, because it decides what the rest of
@@ -59,7 +51,16 @@ qualifications, and do not append a disclaimer that it is unproven — saying
 A note is not more honest for being more negative. Close on what was learned,
 not on a disclaimer.
 
-- `proposition`: the ONE contested proposition the weight refers to.
+## Task
+
+For EACH note in the context, produce a recalibrated assessment:
+
+- (contested only) `issue_key` / `issue_title`: the canonical ISSUE this note bears on
+  (e.g. `bom-kjv-isaiah-dependence`, `bible-regnal-synchronisms`,
+  `bom-chiasmus-antiquity`). Reuse a registry key when one fits. Notes on
+  the same issue must end up with the same weight.
+- (contested only) `proposition`: the ONE contested proposition the weight refers to.
+- `how_it_fits` (both kinds; the load-bearing section of an illumination note).
 - `model_scope`: which historical/compositional models the evidence
   discriminates between (e.g. tight-control translation of an ancient text
   · loose translation · 19th-century composition; early- vs late-date

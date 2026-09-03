@@ -96,6 +96,51 @@ def test_full_stub_calibration_job(imported_ctx):
     assert q == 1
 
 
+def test_illumination_note_carries_no_weight_and_no_registry_row(imported_ctx):
+    """An illumination (context) note keeps observation / interpretation /
+    historical significance / how-it-fits and sheds everything adjudicatory:
+    no weight fields (the old inflated score included), no adjudication
+    sections, no registry issue, and its claim loses the strength meter."""
+    from scripturegraph.agents.calibrate import ADJUDICATION_FM, ADJUDICATION_SECTIONS
+    ctx = imported_ctx
+    a, pa = _seed_note(ctx, "Parallel Alpha in 1 Nephi 1", es=0.9)            # contested (stub)
+    res = apply_ops(ctx, [{
+        "op": "create_note", "kind": "evidence", "title": "Boundary Context in 1 Nephi 1",
+        "subfolder": "Book of Mormon/Literary",
+        "frontmatter": {"evidence_class": "literary context", "claim_confidence": 0.95,
+                        "evidence_strength": 0.88, "study_relevance": 0.8, "source_quality": 0.9},
+        "sections": {"summary": "Background on the passage.\n**Scripture:** [[1 Nephi 1#^1-ne-1-1|1 Nephi 1:1]]",
+                     "weight": "an adjudication section left by an earlier pass"},
+    }], actor="test")
+    pc = res.created_paths[0]
+    ctx.db().execute(
+        "INSERT INTO claims(id,node_id,claim_type,text,tier,scores_json,consensus,sources_json,"
+        "provenance_json,created_at,updated_at) VALUES(?,?,?,?,?,?,?,?,?,?,?)",
+        ("clm-boundary-context", "chapter:1-ne-1", "evidence", "Background.", "ACCEPT",
+         json.dumps({"evidence_strength": 0.88, "claim_confidence": 0.95}), None, "[]",
+         json.dumps({"job": "test", "evidence_note": "Boundary Context in 1 Nephi 1"}), now_iso(), now_iso()))
+    ctx.db().commit()
+    target = pending_groups(ctx, ["Book of Mormon"])[0]
+    result = run_calibration_job(ctx, target, apply=True)
+    assert result["notes"] == 2
+    fm, body = md.parse_note(read_text(ctx.vault / pc))
+    assert fm["note_kind"] == "context" and fm["calibration_version"] == CALIBRATION_VERSION
+    for field in ADJUDICATION_FM:
+        assert field not in fm, f"illumination note still carries {field}"
+    for name, _ in ADJUDICATION_SECTIONS:
+        assert md.get_section(body, name) is None, f"adjudication section {name} survived"
+    for name in ("observation", "interpretation", "historical-significance", "how-it-fits"):
+        assert not md.section_is_empty(md.get_section(body, name)), name
+    assert md.markers_balanced(body)
+    scores = json.loads(ctx.db().execute("SELECT scores_json FROM claims WHERE id='clm-boundary-context'")
+                        .fetchone()["scores_json"])
+    assert "evidence_strength" not in scores and scores["calibration"]["note_kind"] == "context"
+    # the registry holds the contested note's issue only
+    keys = [r["issue_key"] for r in ctx.db().execute("SELECT issue_key FROM issues")]
+    assert len(keys) == 1 and "context" not in keys[0]
+    assert "Boundary Context" not in read_text(ctx.vault / REGISTRY_NOTE)
+
+
 def test_review_only_lands_nothing(imported_ctx):
     ctx = imported_ctx
     _, path = _seed_note(ctx, "Bible Parallel in Isaiah 53", subfolder="Bible/Literary", es=0.9)

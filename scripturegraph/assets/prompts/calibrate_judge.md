@@ -48,9 +48,13 @@ not on a disclaimer.
 
 Judging rules:
 - For each note choose `use` "a", "b" or "merged"; for "merged" supply the
-  merged fields in `merged` (only the fields you change). The result must
-  have all nine layers, labelled alternatives, a named proposition and model
-  scope, a symmetry statement, and a weight sentence.
+  merged fields in `merged` (only the fields you change). Set `note_kind` on
+  EVERY decision. For a `context` decision give `note_id`, `use`, `note_kind`
+  and (if merging) `merged` — and NOTHING else: no `issue_key`, no
+  `canonical`, no weight. The registry is for contested issues only. For a
+  `contested` decision the result must have all the layers, labelled
+  alternatives, a named proposition and model scope, a symmetry statement, a
+  weight sentence, `issue_key` and `canonical`.
 - ENFORCE: (1) evidence_strength = support for the named contested
   proposition, nothing else; (2) every alternative labelled possible /
   plausible / independently_supported / ad_hoc; (3) no proof/disproof

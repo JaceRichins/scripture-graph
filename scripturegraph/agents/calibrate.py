@@ -376,6 +376,16 @@ def _chosen(decision: dict, proposals: dict) -> dict | None:
         return None
     if use == "merged" and isinstance(decision.get("merged"), dict):
         base.update({k: v for k, v in decision["merged"].items() if v not in (None, "", [])})
+    # the judge's note_kind wins; an illumination note sheds every adjudication field
+    kind = str(decision.get("note_kind") or (decision.get("merged") or {}).get("note_kind")
+               or base.get("note_kind") or "context")
+    base["note_kind"] = "contested" if kind.lower().startswith("contest") else "context"
+    if base["note_kind"] == "context":
+        for k in ("weight", "issue_key", "issue_title", "proposition", "models", "alternatives",
+                  "does_not_establish", "apologetic_significance", "symmetry", "base_rate",
+                  "discriminating_test", "model_scope"):
+            base.pop(k, None)
+        return base
     canon = decision.get("canonical") or {}
     base["issue_key"] = slugify(decision.get("issue_key") or base.get("issue_key") or "")[:80]
     if canon:
@@ -557,7 +567,8 @@ def run_calibration_job(ctx: Ctx, target: str, apply: bool = True) -> dict:
             if spec.get("summary"):
                 ops.append({"op": "set_section", "path": note["path"], "section": "summary",
                             "content": spec["summary"].strip()})
-            w = (spec.get("weight") or {}) if kind.lower().startswith("contest") else {}
+            contested = kind.lower().startswith("contest")
+            w = (spec.get("weight") or {}) if contested else {}
             for field, value in (("note_kind", kind),
                                  ("evidence_strength", w.get("evidence_strength")),
                                  ("claim_confidence", w.get("claim_confidence")),
@@ -566,7 +577,15 @@ def run_calibration_job(ctx: Ctx, target: str, apply: bool = True) -> dict:
                                  ("calibrated_at", stamp), ("calibration_version", CALIBRATION_VERSION)):
                 if value not in (None, ""):
                     ops.append({"op": "set_fm_field", "path": note["path"], "field": field, "value": value})
-            key = spec.get("issue_key")
+            if not contested:
+                # an illumination note carries no weight: the old inflated
+                # score and any sections a v1 pass gave it come off
+                for field in ADJUDICATION_FM:
+                    ops.append({"op": "set_fm_field", "path": note["path"], "field": field, "value": None})
+                for name, _heading in ADJUDICATION_SECTIONS:
+                    if name in note["sections"]:
+                        ops.append({"op": "remove_section", "path": note["path"], "section": name})
+            key = spec.get("issue_key") if contested else None
             if key:
                 canon = d.get("canonical") or {}
                 touched_issues.setdefault(key, {
@@ -585,14 +604,20 @@ def run_calibration_job(ctx: Ctx, target: str, apply: bool = True) -> dict:
             # the claim behind each note follows the note — study-guide callouts re-render from it
             for note, spec, d in decided:
                 if note.get("claim"):
-                    w = spec.get("weight") or {}
+                    contested = str(spec.get("note_kind") or "context").lower().startswith("contest")
+                    w = (spec.get("weight") or {}) if contested else {}
                     row = db.execute("SELECT scores_json FROM claims WHERE id=?", (note["claim"]["id"],)).fetchone()
                     scores = json.loads(row["scores_json"] or "{}") if row else {}
+                    if not contested:
+                        # no weight to show: the guide callout keeps the claim
+                        # and its confidence, and drops the strength meter
+                        scores.pop("evidence_strength", None)
                     if w.get("evidence_strength") is not None:
                         scores["evidence_strength"] = w["evidence_strength"]
                     if w.get("claim_confidence") is not None:
                         scores["claim_confidence"] = w["claim_confidence"]
-                    scores["calibration"] = {"issue": spec.get("issue_key"), "label": w.get("label"),
+                    scores["calibration"] = {"note_kind": "contested" if contested else "context",
+                                             "issue": spec.get("issue_key"), "label": w.get("label"),
                                              "direction": w.get("direction"), "job": job_id,
                                              "version": CALIBRATION_VERSION}
                     db.execute("UPDATE claims SET scores_json=?, updated_at=? WHERE id=?",
@@ -644,6 +669,84 @@ def run_calibration_job(ctx: Ctx, target: str, apply: bool = True) -> dict:
                  issues=len(touched_issues), mode=mode, cost_usd=round(costs["usd"], 4))
     return {"job_id": job_id, "mode": mode, "git_rev": rev, "notes": len(decided),
             "issues": list(touched_issues), "cost_usd": costs["usd"]}
+
+
+def tidy_context_notes(ctx: Ctx) -> dict:
+    """Repair notes that landed as `note_kind: context` before the landing
+    knew what that meant: strip the adjudication frontmatter and sections,
+    drop the claim's strength meter, and prune registry issues that no
+    contested note cites. Idempotent; runs inside a git transaction."""
+    db = ctx.db()
+    stats = {"notes": 0, "claims": 0, "issues_pruned": 0}
+    ops = []
+    fixed_titles = []
+    for corpus in CORPORA:
+        for n in evidence_notes(ctx, corpus):
+            fm, body = _fm(ctx, n["path"])
+            if str(fm.get("note_kind") or "").lower() != "context":
+                continue
+            secs = mdkit.list_sections(body)
+            has_fm = any(k in fm for k in ADJUDICATION_FM)
+            has_sec = any(name in secs for name, _ in ADJUDICATION_SECTIONS)
+            if not (has_fm or has_sec):
+                continue
+            for field in ADJUDICATION_FM:
+                if field in fm:
+                    ops.append({"op": "set_fm_field", "path": n["path"], "field": field, "value": None})
+            for name, _heading in ADJUDICATION_SECTIONS:
+                if name in secs:
+                    ops.append({"op": "remove_section", "path": n["path"], "section": name})
+            fixed_titles.append(n["title"])
+    if not ops:
+        return stats
+    with LANDING:
+        gitops.checkpoint(ctx, f"before calibrate tidy ({len(fixed_titles)} notes)")
+        try:
+            result = apply_ops(ctx, ops, actor="librarian:calibrate-tidy")
+            stats["notes"] = len(fixed_titles)
+            for title in fixed_titles:
+                row = _claim_for(ctx, title)
+                if row is None:
+                    continue
+                scores = json.loads(row["scores_json"] or "{}")
+                if "evidence_strength" in scores or (scores.get("calibration") or {}).get("note_kind") != "context":
+                    scores.pop("evidence_strength", None)
+                    scores["calibration"] = {**(scores.get("calibration") or {}), "note_kind": "context",
+                                             "issue": None, "label": None, "direction": None}
+                    db.execute("UPDATE claims SET scores_json=?, updated_at=? WHERE id=?",
+                               (json.dumps(scores), now_iso(), row["id"]))
+                    stats["claims"] += 1
+            # registry rows that only illumination notes ever cited
+            contested_titles = set()
+            for corpus in CORPORA:
+                for n in evidence_notes(ctx, corpus):
+                    fm, _ = _fm(ctx, n["path"])
+                    if str(fm.get("note_kind") or "").lower().startswith("contest") and fm.get("issue"):
+                        contested_titles.add((fm["issue"], n["title"]))
+            live_keys = {k for k, _ in contested_titles}
+            for r in db.execute("SELECT issue_key, notes_json FROM issues").fetchall():
+                if r["issue_key"] not in live_keys:
+                    db.execute("DELETE FROM issues WHERE issue_key=?", (r["issue_key"],))
+                    stats["issues_pruned"] += 1
+                else:
+                    notes = sorted({t for k, t in contested_titles if k == r["issue_key"]})
+                    db.execute("UPDATE issues SET notes_json=? WHERE issue_key=?",
+                               (json.dumps(notes), r["issue_key"]))
+            db.commit()
+            record_file(ctx, REGISTRY_NOTE, "moc", "librarian", None,
+                        mdkit.build_note({"ownership": "system", "mutable": "ai", "content_type": "moc"},
+                                         render_registry_note(ctx)))
+            report = validate_changed(ctx, [*result.changed_paths, REGISTRY_NOTE])
+            if report.fatal:
+                raise PatchViolation("; ".join(f"{i.check}:{i.path}" for i in report.fatal))
+        except Exception as e:  # noqa: BLE001
+            gitops.hard_restore(ctx)
+            db.rollback()
+            raise RuntimeError(f"calibrate tidy failed and was rolled back: {e}") from e
+        gitops.commit_all(ctx, f"calibrate: tidy {len(fixed_titles)} illumination notes, "
+                               f"prune {stats['issues_pruned']} registry rows")
+    ctx.log.info("calibrate.tidy", **stats)
+    return stats
 
 
 def _review_report(context: dict, decided, judgment: dict, mode: str, judge: str) -> str:
