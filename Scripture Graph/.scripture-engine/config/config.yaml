@@ -43,6 +43,17 @@ automation:
 bootstrap:
   ai_jobs: 2          # AI research jobs to run during bootstrap demonstration
 
+# Evidence recalibration (agents/calibrate.py, docs/EVIDENCE-STANDARD.md).
+# Existing evidence notes are re-assessed to the evidence standard by two
+# independent calibrators (Claude + Codex, emphases rotating), cross-critique,
+# and a judge, with one canonical assessment per issue. Enabled for the Book
+# of Mormon (owner's direction, 2026-09-03); the Bible is reviewed only
+# (`scripturegraph calibrate --corpus Bible --review-only`) until approved.
+calibrate:
+  enabled: false   # held until one real group is validated by hand (2026-09-03)
+  corpora: ["Book of Mormon"]
+  per_tick: 10
+
 # Secondary sources (podcasts). items_per_night is the number of deep episode
 # analyses the nightly run pays for; the default 3 is why only three episodes
 # had ever been ingested. Raised 2026-09-02 — the podcast text is wanted.

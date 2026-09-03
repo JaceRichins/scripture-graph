@@ -187,6 +187,44 @@ def cmd_dossier(args):
     return 0
 
 
+def cmd_calibrate(args):
+    ctx = _ctx(args)
+    from scripturegraph.agents.calibrate import (TARGET_PREFIX, evidence_notes, pending_groups,
+                                                 run_calibration_job)
+    corpora = [args.corpus] if args.corpus else list(ctx.c("calibrate.corpora", ["Book of Mormon"]))
+    if args.list or (not args.target and not args.review_only and not args.run):
+        for c in corpora:
+            notes = evidence_notes(ctx, c)
+            done = sum(1 for n in notes if n["calibrated"])
+            print(f"{c}: {done}/{len(notes)} evidence notes calibrated; "
+                  f"{len(pending_groups(ctx, [c]))} groups pending")
+        return 0
+    from scripturegraph.lockfile import EngineBusy, engine_lock
+    targets = [args.target] if args.target else pending_groups(ctx, corpora)
+    if args.limit:
+        targets = targets[:args.limit]
+    out = []
+    try:
+        with engine_lock(ctx):
+            for t in targets:
+                if not t.startswith(TARGET_PREFIX):
+                    print(f"not a calibration target: {t}", file=sys.stderr)
+                    return 2
+                r = run_calibration_job(ctx, t, apply=not args.review_only)
+                out.append(r)
+                print(json.dumps(r, indent=2, default=str))
+                if not args.review_only:
+                    from scripturegraph.waves import mark_pass
+                    mark_pass(ctx, "calibrate", t, "ai")
+    except EngineBusy:
+        print("Another engine run holds the lock — try again shortly.", file=sys.stderr)
+        return 3
+    if args.review_only:
+        print(f"\n{len(out)} group(s) reviewed; reports: "
+              + ", ".join(r["report"] for r in out), file=sys.stderr)
+    return 0
+
+
 def cmd_health(args):
     return cmd_gardener(args)
 
@@ -528,6 +566,17 @@ def main(argv=None) -> int:
     sp = sub.add_parser("gardener", help="maintenance + Graph Health report")
     sp.add_argument("--no-repair", action="store_true")
     sp.set_defaults(fn=cmd_gardener)
+
+    sp = sub.add_parser("calibrate", help="evidence recalibration to the evidence standard "
+                                          "(two calibrators + judge); --review-only lands nothing")
+    sp.add_argument("target", nargs="?", help="a calib:<ids> group target")
+    sp.add_argument("--corpus", choices=["Book of Mormon", "Bible", "Restoration"])
+    sp.add_argument("--list", action="store_true", help="progress per corpus")
+    sp.add_argument("--run", action="store_true", help="run pending groups now (applies)")
+    sp.add_argument("--review-only", action="store_true",
+                    help="run the pipeline but write a review report instead of touching the vault")
+    sp.add_argument("--limit", type=int, help="max groups this invocation")
+    sp.set_defaults(fn=cmd_calibrate)
 
     sp = sub.add_parser("dossier", help="deep subject dossiers -- people, places, gospel "
                                         "topics, hard questions; written after the canon is read")

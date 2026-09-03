@@ -97,6 +97,19 @@ def set_section(body: str, name: str, content: str) -> str:
     return "".join(out)
 
 
+def ensure_section(body: str, name: str, heading: str, content: str) -> str:
+    """set_section, or append a new `## heading` + marker block when the note
+    never had that section (the layered evidence form adds nine)."""
+    try:
+        return set_section(body, name, content)
+    except KeyError:
+        content = content.rstrip()
+        if "<!-- SG:" in content:
+            raise ValueError("section content may not contain SG markers")
+        return (body.rstrip() + f"\n\n## {heading}\n"
+                + marker_block(name, content if content else PLACEHOLDER) + "\n")
+
+
 def section_is_empty(content: str | None) -> bool:
     return not content or content.strip() in ("", PLACEHOLDER)
 

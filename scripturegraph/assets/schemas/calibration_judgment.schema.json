@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CalibrationJudgment",
+  "type": "object",
+  "required": ["decisions"],
+  "properties": {
+    "decisions": {
+      "type": "array",
+      "maxItems": 12,
+      "items": {
+        "type": "object",
+        "required": ["note_id", "use", "issue_key", "canonical"],
+        "properties": {
+          "note_id": {"type": "string", "maxLength": 200},
+          "use": {"enum": ["a", "b", "merged"]},
+          "merged": {"type": "object"},
+          "issue_key": {"type": "string", "minLength": 3, "maxLength": 80},
+          "canonical": {
+            "type": "object",
+            "required": ["issue_title", "proposition", "weight_label", "evidence_strength", "direction", "assessment"],
+            "properties": {
+              "issue_title": {"type": "string", "maxLength": 160},
+              "proposition": {"type": "string", "maxLength": 400},
+              "weight_label": {"enum": ["none", "weak", "moderate", "strong"]},
+              "evidence_strength": {"type": "number", "minimum": 0, "maximum": 1},
+              "direction": {"enum": ["supports", "challenges", "neutral"]},
+              "assessment": {"type": "string", "minLength": 10, "maxLength": 900}
+            }
+          },
+          "symmetry_verdict": {"enum": ["consistent", "harsher", "softer"]},
+          "rationale": {"type": "string", "maxLength": 1200},
+          "fixes_applied": {"type": "array", "items": {"type": "string", "maxLength": 400}, "maxItems": 12}
+        }
+      }
+    },
+    "registry_changes": {
+      "type": "array", "maxItems": 12,
+      "items": {
+        "type": "object", "required": ["issue_key", "why"],
+        "properties": {
+          "issue_key": {"type": "string", "maxLength": 80},
+          "previous": {"type": "string", "maxLength": 300},
+          "new": {"type": "string", "maxLength": 300},
+          "why": {"type": "string", "maxLength": 600}
+        }
+      }
+    },
+    "overall_notes": {"type": "string", "maxLength": 3000}
+  }
+}

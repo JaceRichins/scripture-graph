@@ -83,6 +83,11 @@ def _dispatch_dossier(ctx: Ctx, target: str) -> dict:
     return run_dossier_job(ctx, target)
 
 
+def _dispatch_calibrate(ctx: Ctx, target: str) -> dict:
+    from scripturegraph.agents.calibrate import run_calibration_job
+    return run_calibration_job(ctx, target, apply=True)
+
+
 PASS_DEFS: dict[str, dict] = {
     "entities":   {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_entities},
     "citations":  {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_citations},
@@ -101,6 +106,9 @@ PASS_DEFS: dict[str, dict] = {
     # gospel topics, hard questions) are written only after every chapter has
     # been read -- pending_subjects() returns nothing until then
     "dossier":    {"scope": "subject", "mode": "ai", "fn": _dispatch_dossier},
+    # evidence recalibration: groups of existing evidence notes re-assessed to
+    # the evidence standard by two independent calibrators and a judge
+    "calibrate":  {"scope": "calibration", "mode": "ai", "fn": _dispatch_calibrate},
 }
 
 
@@ -125,6 +133,9 @@ def pending_targets(ctx: Ctx, name: str, by_priority: bool = False) -> list[str]
     if spec["scope"] == "subject":
         from scripturegraph.agents.dossier import pending_subjects
         return pending_subjects(ctx)
+    if spec["scope"] == "calibration":
+        from scripturegraph.agents.calibrate import pending_groups
+        return pending_groups(ctx)
     if spec["scope"] == "topic":
         rows = db.execute(
             "SELECT n.id FROM nodes n LEFT JOIN passes p ON p.name=? AND p.target=n.id "
@@ -146,14 +157,14 @@ def pending_targets(ctx: Ctx, name: str, by_priority: bool = False) -> list[str]
 
 
 def enqueue_wave(ctx: Ctx, name: str, limit: int | None = None,
-                 by_priority: bool = False) -> int:
+                 by_priority: bool = False, priority: float = 0.0) -> int:
     spec = PASS_DEFS[name]
     targets = pending_targets(ctx, name, by_priority=by_priority)
     if limit:
         targets = targets[:limit]
     task_type = "job" if spec["mode"] == "ai" else "pass"
     for t in targets:
-        q.enqueue(ctx, task_type, t, pass_name=name)
+        q.enqueue(ctx, task_type, t, pass_name=name, priority=priority)
     ctx.db().commit()
     if targets:
         ctx.log.info("wave.enqueued", pass_name=name, count=len(targets))
@@ -358,6 +369,16 @@ def waves_status(ctx: Ctx) -> dict:
             out[name] = {"scope": "global",
                          "current": bool(row and row["corpus_version"] >= cv),
                          "done_cv": row["corpus_version"] if row else None}
+        elif spec["scope"] == "calibration":
+            from scripturegraph.agents.calibrate import evidence_notes
+            corpora = list(ctx.c("calibrate.corpora", ["Book of Mormon"]))
+            done = total = 0
+            for c in corpora:
+                notes = evidence_notes(ctx, c)
+                total += len(notes)
+                done += sum(1 for n in notes if n["calibrated"])
+            out[name] = {"scope": "calibration", "corpora": corpora, "notes_done": done,
+                         "notes_total": total}
         elif spec["scope"] == "subject":
             from scripturegraph.agents.dossier import SUBJECT_TYPES, research_progress
             marks = ",".join("?" * len(SUBJECT_TYPES))

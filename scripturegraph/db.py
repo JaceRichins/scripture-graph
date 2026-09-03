@@ -309,6 +309,21 @@ CREATE TABLE IF NOT EXISTS file_registry (
     updated_at   TEXT
 );
 
+CREATE TABLE IF NOT EXISTS issues (
+    issue_key         TEXT PRIMARY KEY,   -- 'bom-kjv-isaiah-dependence'
+    corpus            TEXT,               -- Book of Mormon | Bible | Restoration
+    title             TEXT,
+    proposition       TEXT,               -- the ONE contested claim the weight refers to
+    weight_label      TEXT,               -- none|weak|moderate|strong
+    evidence_strength REAL,
+    direction         TEXT,               -- supports|challenges|neutral
+    assessment        TEXT,               -- the stable, quotable verdict
+    notes_json        TEXT,               -- titles of the evidence notes on this issue
+    history_json      TEXT,               -- prior weights and why they changed
+    updated_by        TEXT,
+    updated_at        TEXT
+);
+
 CREATE TABLE IF NOT EXISTS coverage (
     node_id                  TEXT PRIMARY KEY,
     completeness             REAL,

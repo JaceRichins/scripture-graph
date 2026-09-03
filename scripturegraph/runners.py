@@ -219,6 +219,8 @@ def run_nightly(ctx: Ctx) -> dict:
         stats["ai_budget"] = budget
         if budget:
             update_all_coverage(ctx)
+            if ctx.c("calibrate.enabled", True):
+                enqueue_wave(ctx, "calibrate", limit=budget, priority=5.0)
             enqueue_wave(ctx, "research", limit=budget * 3, by_priority=True)
             # nothing until the canon is read; then the budget research no
             # longer needs flows into subject dossiers
@@ -300,6 +302,11 @@ def run_study(ctx: Ctx) -> dict:
             if pending_jobs < 5:
                 from scripturegraph.coverage import update_all_coverage
                 update_all_coverage(ctx)
+                # recalibrating existing evidence outranks new research while
+                # any note is owed it (the owner's explicit priority, 2026-09-03)
+                if ctx.c("calibrate.enabled", True):
+                    enqueue_wave(ctx, "calibrate", limit=int(ctx.c("calibrate.per_tick", 10)),
+                                 priority=5.0)
                 enqueue_wave(ctx, "research", limit=25, by_priority=True)
                 enqueue_wave(ctx, "dossier", limit=25)   # gated: empty until read
             stats["ai"] = _process(

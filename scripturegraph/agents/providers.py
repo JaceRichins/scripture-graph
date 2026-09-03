@@ -305,7 +305,61 @@ class StubProvider(Provider):
             fn = {"researcher": self._research, "critic": self._critique,
                   "judge": self._judge}[role]
             return ProviderResult(ok=True, text=json.dumps(fn(context), ensure_ascii=False))
+        if role in ("calibrator", "calibration-critic", "calibration-judge"):
+            fn = {"calibrator": self._calibrate, "calibration-critic": self._calib_critique,
+                  "calibration-judge": self._calib_judge}[role]
+            return ProviderResult(ok=True, text=json.dumps(fn(context), ensure_ascii=False))
         return ProviderResult(ok=True, text="{}")
+
+    # ---- evidence calibration (agents/calibrate.py) ----
+    def _calibrate(self, context: dict) -> dict:
+        notes = []
+        for n in context.get("notes") or []:
+            key = "stub-" + str(n.get("evidence_class") or "issue").lower().replace(" ", "-")[:40]
+            notes.append({
+                "note_id": n["note_id"], "issue_key": key,
+                "issue_title": f"Stub issue for {n.get('evidence_class') or 'evidence'}",
+                "proposition": "the text preserves an ancient literary source",
+                "model_scope": ["ancient source", "modern composition"],
+                "observation": "The pattern the note describes is present in the text.",
+                "interpretation": "It may reflect deliberate composition.",
+                "historical_significance": "Compatible with ancient or modern composition.",
+                "apologetic_significance": "Weak support for the proposition; does not discriminate the models.",
+                "does_not_establish": "It does not establish antiquity or authorship.",
+                "models": [{"name": "ancient source", "predicts": "such patterns occur", "fit": "consistent"},
+                           {"name": "modern composition", "predicts": "such patterns can also occur", "fit": "consistent"}],
+                "alternatives": [{"explanation": "Translator or author imitation of biblical style",
+                                  "status": "plausible", "why": "the register is biblical"}],
+                "symmetry": "The same pattern in the other corpus would be weighed the same way.",
+                "base_rate": "Common in comparable literature.",
+                "weight": {"label": "weak", "direction": "supports", "evidence_strength": 0.3,
+                           "claim_confidence": 0.9,
+                           "sentence": "Weak evidence, consistent with both models; it does not distinguish them."},
+                "language_fixes": [], "summary": "Stub calibrated summary: the pattern is real and weakly supportive.",
+            })
+        return {"notes": notes, "uncertainties": ["stub calibration"]}
+
+    def _calib_critique(self, context: dict) -> dict:
+        proposal = context.get("proposal") or {}
+        return {"assessments": [{"claim_id": n.get("note_id", "?"), "verdict": "affirm",
+                                 "reasons": "stub: proposition named, alternatives labelled"}
+                                for n in proposal.get("notes", [])],
+                "overall": "stub critique"}
+
+    def _calib_judge(self, context: dict) -> dict:
+        a = (context.get("proposals") or {}).get("a") or {}
+        decisions = []
+        for n in a.get("notes", []):
+            w = n.get("weight") or {}
+            decisions.append({"note_id": n["note_id"], "use": "a", "issue_key": n["issue_key"],
+                              "canonical": {"issue_title": n["issue_title"], "proposition": n["proposition"],
+                                            "weight_label": w.get("label", "weak"),
+                                            "evidence_strength": w.get("evidence_strength", 0.3),
+                                            "direction": w.get("direction", "supports"),
+                                            "assessment": w.get("sentence", "stub")},
+                              "symmetry_verdict": "consistent", "rationale": "stub judgment",
+                              "fixes_applied": ["stub"]})
+        return {"decisions": decisions, "registry_changes": [], "overall_notes": "stub"}
 
     def _research(self, context: dict) -> dict:
         claims = []

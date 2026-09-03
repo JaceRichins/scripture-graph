@@ -25,7 +25,10 @@ from scripturegraph.vaultgen.generate import (FOLDER_AI_GUIDES, FOLDER_DOCTRINES
                                               is_canonical_path, is_personal_path, record_file,
                                               refresh_registry_hash)
 
-FM_WHITELIST = {"corpus_version_reviewed", "topic-status", "status", "review-status"}
+FM_WHITELIST = {"corpus_version_reviewed", "topic-status", "status", "review-status",
+                # evidence calibration (agents/calibrate.py): the weight and what it is FOR
+                "evidence_strength", "claim_confidence", "weight_label", "direction",
+                "issue", "proposition", "calibrated_at", "calibration_version"}
 
 # kind -> (folder, sections template name)
 CREATABLE_KINDS: dict[str, str] = {
@@ -128,6 +131,21 @@ def apply_ops(ctx: Ctx, ops: list[dict], actor: str) -> PatchResult:
             try:
                 body = md.set_section(body, op["section"], content)
             except (KeyError, ValueError) as e:
+                raise PatchViolation(str(e)) from e
+            _store(ctx, relpath, fm, body)
+            changed.append(relpath)
+        elif kind == "ensure_section":
+            # like set_section, but a section the note never had is appended
+            # under its heading — how an evidence note gains its nine layers
+            relpath = _guard_target(ctx, op["path"])
+            content = str(op.get("content", ""))
+            if len(content.encode()) > MAX_SECTION_BYTES:
+                raise PatchViolation(f"section content too large ({relpath})")
+            fm, body = _load(ctx, relpath)
+            heading = str(op.get("heading") or op["section"].replace("-", " ").title())
+            try:
+                body = md.ensure_section(body, op["section"], heading, content)
+            except ValueError as e:
                 raise PatchViolation(str(e)) from e
             _store(ctx, relpath, fm, body)
             changed.append(relpath)
