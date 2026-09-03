@@ -23,7 +23,13 @@ Scripture: [[D&C 94]] · My notes: [[D&C 94 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter proceeds in five movements:
+
+1. Verses 1–2 command preparation of the Kirtland city plan according to a revealed pattern.
+2. Verses 3–9 describe the Presidency's house, including its purpose, dimensions, dedication, and holiness requirement.
+3. Verses 10–12 describe a second house for printing scripture and other commanded materials.
+4. Verses 13–15 assign inheritances and identify the building committee.
+5. Verses 16–17 defer construction until a later commandment and close the revelation.
 <!-- SG:END structure -->
 
 ## People
@@ -49,16 +55,17 @@ _Not yet developed._
 - [[D&C 88]] — 1 parallel verse, e.g. [[D&C 94#^dc-94-1|D&C 94:1]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
 - [[D&C 103]] — 1 parallel verse, e.g. [[D&C 94#^dc-94-1|D&C 94:1]] ↔ [[D&C 103#^dc-103-34|D&C 103:34]]
 - [[D&C 104]] — 1 parallel verse, e.g. [[D&C 94#^dc-94-1|D&C 94:1]] ↔ [[D&C 104#^dc-104-11|D&C 104:11]]
+- [[D&C 97]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Records and Sacred Writings]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter links divine presence with holiness: the promised glory and presence in the Presidency's house are expressly conditional upon excluding what is unclean (verses 8–9). A close formulation appears in [[D&C 97]]. The text also places [[Revelation]] and the production of [[Records and Sacred Writings]] within consecrated service. It does not, however, define "unclean thing" or state that dedication mechanically guarantees divine presence.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -75,12 +82,12 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The word "pattern" recurs in verses 2, 5, 6, and 12. Some elements have already been given, while others "shall be given" later. Likewise, "wholly dedicated unto the Lord" appears in connection with both buildings (verses 7 and 12). These repetitions emphasize ordered purpose, but they do not by themselves disclose the source, symbolism, or complete contents of the pattern.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The descriptions of the two houses are deliberately parallel: each receives a southern lot, the same stated dimensions, lower and higher courts, complete dedication to the Lord, and a specialized institutional function. The symmetry is interrupted by verse 16, which makes clear that description and assignment are not yet authorization to build.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -90,7 +97,10 @@ _Not yet developed._
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How should the command to begin the city plan at "my house" relate to the two specialized houses subsequently described?
+- What meanings of "unclean thing" are supported by other revelations, especially [[D&C 97]], and which meanings remain assumptions?
+- Why are detailed purposes and dimensions supplied before authorization to commence construction?
+- What does the pairing of revelatory administration with scripture printing suggest about the relationship between [[Revelation]] and preservation or dissemination?
 <!-- SG:END questions -->
 
 ## Further Study
