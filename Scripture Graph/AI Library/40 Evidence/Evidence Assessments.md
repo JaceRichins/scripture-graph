@@ -10,6 +10,13 @@ One stable assessment per evidence issue, reused by every note that bears on it 
 
 ## Book of Mormon
 
+### jsm-matthew24-ad70-corroboration
+**AD 70 temple destruction and the historical status of Joseph Smith—Matthew's prediction** — *none* (neutral, evidence_strength 0.06) for: The historical destruction of Jerusalem's temple independently supports Joseph Smith—Matthew 1 as preserving a genuine pre-event prediction rather than a tradition or revision produced after the event.
+
+Jerusalem's AD 70 destruction is historically secure, but because Joseph Smith—Matthew is a nineteenth-century revision of an already-composed, possibly post-70, Gospel tradition, accurate reference to the destruction is predicted about equally by genuine pre-event prophecy, post-event Gospel shaping, and nineteenth-century revision, giving almost no discrimination toward advance predictive knowledge.
+
+Notes: [[Historical Corroboration in Joseph Smith—Matthew 1]]
+
 ### pgp-abraham-genesis-literary-dependence
 **Abraham 2 dependence on the Genesis 12 textual and narrative tradition** — *strong* (supports, evidence_strength 0.84) for: Abraham 2 derives substantial narrative structure and English wording from, or through common ancestry with, the Genesis 12 textual tradition.
 
@@ -46,11 +53,11 @@ Several phrase-and-sequence correspondences, especially the Matthew 3:10 paralle
 Notes: [[English Textual Intertextuality in Alma 5]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-chapter dependence on the Isaiah/KJV textual tradition** — *strong* (supports, evidence_strength 0.84) for: The English Book of Mormon Isaiah chapters depend literarily on the Isaiah/KJV textual tradition.
+**Book of Mormon Isaiah-chapter dependence on the Isaiah/KJV textual tradition** — *strong* (supports, evidence_strength 0.84) for: Second Nephi 18 is textually dependent on the Isaiah 8 tradition rather than being an independently composed or independently corroborating account of the Syro-Ephraimite crisis.
 
-Sustained ordered correspondence and close English wording provide strong evidence of dependence on the Isaiah/KJV textual tradition. This does not distinguish ancient quotation, KJV-mediated translation, or direct modern reuse, and the individual Isaiah chapters share one evidentiary cause.
+Sustained ordered correspondence and the introductory appeal to what is written make independent coincidental composition ad hoc, providing strong evidence of dependence on Isaiah. This does not distinguish ancient quotation, KJV-mediated translation, or direct modern reuse, and sibling Isaiah chapters share this evidentiary cause.
 
-Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]]
+Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]]
 
 ### bom-chiasmus-antiquity
 **Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: The proposed chiastic structure of Alma 36 supports intentional ancient Hebrew composition over natural narrative symmetry or KJV-absorbed patterning.
@@ -122,6 +129,13 @@ The relative itinerary is compatible with a real Red Sea journey, but without ro
 
 Notes: [[Geographic Identification in 1 Nephi 2]]
 
+### bom-if-and-semitic-source
+**If-and conditional constructions in the earliest textual layer as a Hebrew-source Hebraism** — *weak* (supports, evidence_strength 0.2) for: The earliest Book of Mormon's if-and conditional constructions are translation calques materially more expected from an ancient Semitic source than from English dictation or archaizing composition.
+
+The nonstandard if-and construction is real, attested early, and later regularized, modestly favoring a Semitic-calque reading, but a small clustered sample, an independently attested Early Modern English parallel, and the absence of matched-corpus frequency data keep this at the low end of the weak band.
+
+Notes: [[If-and conditionals in the Original Manuscript]]
+
 ### bom-1nephi14-johannine-attribution
 **Internal Johannine attribution in 1 Nephi 14** — *none* (supports, evidence_strength 0.1) for: The attribution of related apocalyptic material to a future apostle named John supports the ancient provenance or genuine foreknowledge of 1 Nephi 14.
 
@@ -142,6 +156,13 @@ Notes: [[Internal Chronological Evidence in 2 Nephi 6]]
 The sustained sequence and close English wording strongly support Matthew/KJV textual mediation. The evidence does not distinguish a historically repeated sermon rendered in biblical English, revelatory harmonization, or nineteenth-century adaptation, and the contextual change in verse 25 is compatible with each.
 
 Notes: [[Extended Textual Parallel in 3 Nephi 13]]
+
+### bom-nahom-nhm-geography
+**Nahom / South Arabian NHM as evidence of authentic ancient Arabian geography in 1 Nephi** — *weak* (supports, evidence_strength 0.3) for: The name Nahom and its narrative location preserve authentic pre-exilic South Arabian geographic knowledge that is materially more expected from an ancient source than from nineteenth-century composition.
+
+The right-period South Arabian NHM tribal attestation near Ma'rib is a real, interesting correlation, but the inscriptions identify a tribal designation rather than a confirmed burial locality, and no search denominator or ruled-out map-mediation evidence has been supplied, keeping this weak rather than moderate support for authentic ancient Arabian geography.
+
+Notes: [[Nahom and the NHM altars]]
 
 ### pgp-abraham-premortal-existence-doctrine
 **Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own assertion, that premortal personal existence is metaphysically real and/or ancient in origin.
@@ -177,3 +198,10 @@ Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
 The near-verbatim match to Luke 22:31 is real and unlikely to be coincidental, but it is one instance of the Book of Mormon's pervasive KJV-influenced diction (the same underlying mechanism as the Isaiah-dependence issue), and an ancient saying rendered into KJV idiom, a loose translation, and outright 19th-century composition all predict the same wording about equally well, so it only weakly discriminates between models of the text's origin.
 
 Notes: [[Distinctive Verbal Parallel in 3 Nephi 18]]
+
+### bom-1nephi-zedekiah-synchronism
+**Zedekiah-era political setting in 1 Nephi 1 as a historical synchronism** — *none* (supports, evidence_strength 0.1) for: First Nephi 1's Zedekiah and Babylonian-captivity setting provides independent evidence that the narrative derives from an authentic early-sixth-century BCE historical source rather than a Bible-informed nineteenth-century composition.
+
+The Zedekiah-era setting is internally coherent and historically accurate, but because the ruler, crisis, and threatened further captivity were all directly available from 2 Kings 24 to any Bible-literate nineteenth-century author, the synchronism gives almost no independent discrimination for genuine ancient grounding beyond internal plausibility.
+
+Notes: [[Historical Synchronism in 1 Nephi 1]]
