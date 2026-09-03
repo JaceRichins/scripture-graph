@@ -4096,6 +4096,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1thes-1-84896c9b",
+   "t": "Paul writes 1 Thessalonians, likely from Corinth",
+   "y0": 50,
+   "y1": 51,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "journeys"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Widely accepted scholarly dating during Paul's second missionary journey, shortly after founding the Thessalonian church (cf. Acts 17-18), making it likely the earliest surviving New Testament writing.",
+   "chapters": [
+    "1 Thessalonians 1"
+   ],
+   "people": [
+    "Paul (apostle)",
+    "Timothy (companion of Paul)"
+   ],
+   "places": [
+    "Thessalonica"
+   ]
+  },
+  {
    "id": "r-1thes-3-8ce74f87",
    "t": "Paul's Corinth ministry anchored by the Gallio inscription",
    "y0": 51,
@@ -4119,6 +4144,56 @@ timeline module, not this file._
    ],
    "places": [
     "Athens",
+    "Corinth"
+   ]
+  },
+  {
+   "id": "r-1thes-4-84896c9b",
+   "t": "Paul writes 1 Thessalonians, likely from Corinth",
+   "y0": 50,
+   "y1": 51,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Commonly dated via Paul's stay in Corinth during the proconsulship of Gallio (cf. Acts 18:11-12), making it one of Paul's earliest surviving letters; the dating rests on evidence external to this chapter.",
+   "chapters": [
+    "1 Thessalonians 4"
+   ],
+   "people": [
+    "Paul",
+    "Timothy"
+   ],
+   "places": [
+    "Corinth",
+    "Thessalonica"
+   ]
+  },
+  {
+   "id": "r-1thes-5-1a89e637",
+   "t": "Paul's First Epistle to the Thessalonians written from Corinth",
+   "y0": 50,
+   "y1": 51,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally dated to Paul's second missionary journey, commonly placed at Corinth (cf. Acts 18:1-11); widely regarded as one of the earliest surviving Pauline letters.",
+   "chapters": [
+    "1 Thessalonians 5"
+   ],
+   "people": [
+    "Paul the Apostle",
+    "Silvanus (Silas)",
+    "Timothy"
+   ],
+   "places": [
     "Corinth"
    ]
   },
