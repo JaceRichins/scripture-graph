@@ -10,6 +10,13 @@ One stable assessment per evidence issue, reused by every note that bears on it 
 
 ## Book of Mormon
 
+### pgp-abraham-genesis-literary-dependence
+**Abraham 2 dependence on the Genesis 12 textual and narrative tradition** — *strong* (supports, evidence_strength 0.84) for: Abraham 2 derives substantial narrative structure and English wording from, or through common ancestry with, the Genesis 12 textual tradition.
+
+The ordered narrative and close English wording strongly support dependence on or descent from the Genesis 12 textual tradition. This does not determine whether the relationship reflects ancient shared tradition, KJV-mediated inspired expansion, or ordinary nineteenth-century revision, and it does not establish the provenance of Abraham 2's expansions.
+
+Notes: [[Extensive Textual And Narrative Parallel in Abraham 2]]
+
 ### pgp-abraham-creation-from-materials
 **Abraham 3:24 'take of these materials' wording as evidence for creation-from-existing-matter doctrine** — *none* (neutral, evidence_strength 0.08) for: Abraham 3:24's organization-from-materials wording is evidence that the passage records an authentically ancient creation-from-existing-materials cosmology, as opposed to Joseph Smith's own 19th-century theological formulation.
 
@@ -39,11 +46,11 @@ Several phrase-and-sequence correspondences, especially the Matthew 3:10 paralle
 Notes: [[English Textual Intertextuality in Alma 5]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-chapter dependence on the Isaiah/KJV textual tradition** — *strong* (supports, evidence_strength 0.84) for: Book of Mormon Isaiah-quotation chapters deliberately depend on the Isaiah textual tradition rather than independently reproducing the same wording, sequence, and imagery.
+**Book of Mormon Isaiah-chapter dependence on the Isaiah/KJV textual tradition** — *strong* (supports, evidence_strength 0.84) for: The English Book of Mormon Isaiah chapters depend literarily on the Isaiah/KJV textual tradition.
 
-Sustained ordered correspondence and the introductory appeal to what is written make independent coincidental composition ad hoc, providing strong evidence of dependence on Isaiah. This does not distinguish ancient quotation, KJV-mediated translation, or direct modern reuse, and sibling Isaiah chapters share this evidentiary cause.
+Sustained ordered correspondence and close English wording provide strong evidence of dependence on the Isaiah/KJV textual tradition. This does not distinguish ancient quotation, KJV-mediated translation, or direct modern reuse, and the individual Isaiah chapters share one evidentiary cause.
 
-Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]]
+Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]]
 
 ### bom-chiasmus-antiquity
 **Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: The proposed chiastic structure of Alma 36 supports intentional ancient Hebrew composition over natural narrative symmetry or KJV-absorbed patterning.
@@ -108,6 +115,13 @@ The verse emphatically portrays the event as public and individually perceived, 
 
 Notes: [[Internal Collective-Witness Claim in 3 Nephi 17]]
 
+### bom-lehi-red-sea-campsite-identification
+**Identification of Lehi's first Red Sea campsite** — *none* (supports, evidence_strength 0.12) for: The geographic description in 1 Nephi 2 materially supports identifying a particular real-world campsite and an ancient Red Sea journey.
+
+The relative itinerary is compatible with a real Red Sea journey, but without route controls, hydrological dating, unique landmarks, or a denominator of candidate sites, it provides only none-band support for a particular campsite or ancient historicity. Its underdetermination neither invalidates a historical route nor validates any proposed identification.
+
+Notes: [[Geographic Identification in 1 Nephi 2]]
+
 ### bom-1nephi14-johannine-attribution
 **Internal Johannine attribution in 1 Nephi 14** — *none* (supports, evidence_strength 0.1) for: The attribution of related apocalyptic material to a future apostle named John supports the ancient provenance or genuine foreknowledge of 1 Nephi 14.
 
@@ -121,6 +135,13 @@ Notes: [[Internal Attribution in 1 Nephi 14]]
 The verse clearly presents Jacob's statement as pre-event prophecy within the narrative, but that placement gives only none-band support for genuine pre-Christian prediction. Ancient prophecy, later shaping, Christianizing translation, and nineteenth-century composition can all produce the same internal chronology without independent dating evidence.
 
 Notes: [[Internal Chronological Evidence in 2 Nephi 6]]
+
+### bom-3nephi-matthew-kjv-dependence
+**Matthew/KJV mediation of the Sermon material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The English wording and sequence of 3 Nephi 13 are literarily mediated by the Matthew 6 textual tradition, especially its King James English form.
+
+The sustained sequence and close English wording strongly support Matthew/KJV textual mediation. The evidence does not distinguish a historically repeated sermon rendered in biblical English, revelatory harmonization, or nineteenth-century adaptation, and the contextual change in verse 25 is compatible with each.
+
+Notes: [[Extended Textual Parallel in 3 Nephi 13]]
 
 ### pgp-abraham-premortal-existence-doctrine
 **Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own assertion, that premortal personal existence is metaphysically real and/or ancient in origin.
