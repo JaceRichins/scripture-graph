@@ -209,11 +209,20 @@ def cmd_calibrate(args):
     # hold the engine lock and can run beside the study ticks
     try:
         with (nullcontext() if args.review_only else engine_lock(ctx)):
+            from scripturegraph.agents.pipeline import JobQuarantined, ProviderUnavailable
             for t in targets:
                 if not t.startswith(TARGET_PREFIX):
                     print(f"not a calibration target: {t}", file=sys.stderr)
                     return 2
-                r = run_calibration_job(ctx, t, apply=not args.review_only)
+                try:
+                    r = run_calibration_job(ctx, t, apply=not args.review_only)
+                except JobQuarantined as e:
+                    # one group's bad model output must not end the run
+                    print(f"quarantined: {e}", file=sys.stderr)
+                    continue
+                except ProviderUnavailable as e:
+                    print(f"provider unavailable — stopping: {e}", file=sys.stderr)
+                    break
                 out.append(r)
                 print(json.dumps(r, indent=2, default=str))
                 if not args.review_only:

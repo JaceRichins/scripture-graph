@@ -450,6 +450,22 @@ def run_calibration_job(ctx: Ctx, target: str, apply: bool = True) -> dict:
                                       "calibration_judgment", timeout, ws / "judge",
                                       {**context, "proposals": proposals})
     track(stats)
+    if judgment is None and stats.get("transport_failed"):
+        # the judge prompt is the longest in the engine (five notes, two
+        # proposals, two critiques); one provider timing out is not a verdict
+        # on the work — let the other provider judge before giving up
+        others = [p for p in researchers if p.name != judge_provider.name]
+        if others:
+            ctx.log.warn("calibrate.judge_fallback", job=job_id, failed=judge_provider.name,
+                         fallback=others[0].name)
+            judge_provider = others[0]
+            judgment, stats = _call_validated(ctx, judge_provider, "calibration-judge", prompt,
+                                              "calibration_judgment", timeout, ws / "judge",
+                                              {**context, "proposals": proposals})
+            track(stats)
+        if judgment is None and stats.get("transport_failed"):
+            set_status("provider_unavailable", {"reason": "judge providers unreachable"})
+            raise ProviderUnavailable(f"{job_id}: judge providers unreachable")
     if judgment is None:
         set_status("quarantined", {"reason": "judge produced no valid output"})
         _quarantine(ctx, ws, job_id)
