@@ -299,14 +299,17 @@ def run_study(ctx: Ctx) -> dict:
             pending_jobs = ctx.db().execute(
                 "SELECT COUNT(*) AS n FROM work_queue WHERE task_type='job' "
                 "AND status='pending'").fetchone()["n"]
+            # recalibrating existing evidence outranks new research while any
+            # note is owed it (the owner's explicit priority, 2026-09-03).
+            # Outside the research-backlog guard on purpose: the nightly can
+            # leave hundreds of research jobs pending, and this enqueue is
+            # idempotent — priority 5 puts the groups at the head of the queue
+            if ctx.c("calibrate.enabled", True):
+                enqueue_wave(ctx, "calibrate", limit=int(ctx.c("calibrate.per_tick", 10)),
+                             priority=5.0)
             if pending_jobs < 5:
                 from scripturegraph.coverage import update_all_coverage
                 update_all_coverage(ctx)
-                # recalibrating existing evidence outranks new research while
-                # any note is owed it (the owner's explicit priority, 2026-09-03)
-                if ctx.c("calibrate.enabled", True):
-                    enqueue_wave(ctx, "calibrate", limit=int(ctx.c("calibrate.per_tick", 10)),
-                                 priority=5.0)
                 enqueue_wave(ctx, "research", limit=25, by_priority=True)
                 enqueue_wave(ctx, "dossier", limit=25)   # gated: empty until read
             stats["ai"] = _process(
