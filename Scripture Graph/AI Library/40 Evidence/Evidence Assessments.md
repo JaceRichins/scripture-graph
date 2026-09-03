@@ -59,6 +59,13 @@ The verse clearly portrays Lehi as reasoning from prior writings, but genuine an
 
 Notes: [[Explicit Source Attribution in 2 Nephi 2]]
 
+### isaiah7-immanuel-contemporary-context
+**Contemporary relevance of the Immanuel oracle to Ahaz's crisis** — *strong* (supports, evidence_strength 0.84) for: Isaiah 7:14–16 presents the Immanuel sign as having meaningful chronological relevance to Ahaz's contemporary political crisis.
+
+The explicit deadline tied to the child's development strongly supports meaningful relevance to Ahaz's contemporary crisis and creates substantial tension for an exclusively distant interpretation. It does not identify the child, establish intentional dual fulfillment, or provide independent evidence concerning Book of Mormon antiquity.
+
+Notes: [[Internal Chronological Context in 2 Nephi 17]]
+
 ### bom-3nephi27-sermon-reprise
 **Deliberate reprise of 3 Nephi 14 in 3 Nephi 27** — *strong* (supports, evidence_strength 0.78) for: The received wording of 3 Nephi 27 deliberately reprises the ask-and-knock and two-gates teachings already presented in 3 Nephi 14 rather than reproducing both ordered clusters by coincidence.
 
@@ -86,6 +93,34 @@ Notes: [[Comparative Textual Difference in Moses 3]]
 The passage explicitly identifies its immediate hearers as the other sheep, but this internal assertion provides almost no independent historical support because historical, revelatory, legendary, and literary-composition models all predict such explicitness.
 
 Notes: [[Explicit Internal Identification in 3 Nephi 15]]
+
+### bom-3nephi2-chronological-system
+**Historical significance of the synchronized chronology in 3 Nephi 2** — *none* (supports, evidence_strength 0.13) for: The synchronized eras in 3 Nephi 2 preserve a remembered historical calendrical transition rather than a chronology constructed for the narrative.
+
+The notices clearly exhibit deliberate final-form chronological organization, but they supply only none-band support for a historical Nephite calendrical transition. Authentic records, editorial systematization, translation clarification, and constructed historical narratives can all produce internally coordinated eras, and no external chronological anchor is supplied.
+
+Notes: [[Internal Chronological Evidence in 3 Nephi 2]]
+
+### bom-3nephi17-collective-witness-claim
+**Historical weight of the collective-witness claim in 3 Nephi 17** — *none* (supports, evidence_strength 0.14) for: The event described in 3 Nephi 17 was historically seen and heard by approximately 2,500 individual witnesses.
+
+The verse emphatically portrays the event as public and individually perceived, but it remains one third-person narrative report rather than approximately 2,500 independent testimonies. Historical occurrence, amplification, communal tradition, and literary authentication all predict such a claim, so it provides only none-band support for the event's historicity.
+
+Notes: [[Internal Collective-Witness Claim in 3 Nephi 17]]
+
+### bom-1nephi14-johannine-attribution
+**Internal Johannine attribution in 1 Nephi 14** — *none* (supports, evidence_strength 0.1) for: The attribution of related apocalyptic material to a future apostle named John supports the ancient provenance or genuine foreknowledge of 1 Nephi 14.
+
+The final text unmistakably creates an intentional association between Nephi's vision and Revelation's John, but this gives almost no support for ancient provenance or genuine foreknowledge because ancient revelation, translation harmonization, and nineteenth-century use of received Christian tradition all predict the attribution. It does not independently identify Revelation's John as the historical apostle.
+
+Notes: [[Internal Attribution in 1 Nephi 14]]
+
+### bom-2nephi6-predictive-prophecy
+**Internal placement of Jacob's crucifixion prophecy** — *none* (supports, evidence_strength 0.12) for: Jacob's statement in 2 Nephi 6:9 preserves a genuinely pre-Christian prediction of Jesus's scourging and crucifixion rather than wording composed or shaped after those events were known.
+
+The verse clearly presents Jacob's statement as pre-event prophecy within the narrative, but that placement gives only none-band support for genuine pre-Christian prediction. Ancient prophecy, later shaping, Christianizing translation, and nineteenth-century composition can all produce the same internal chronology without independent dating evidence.
+
+Notes: [[Internal Chronological Evidence in 2 Nephi 6]]
 
 ### pgp-abraham-premortal-existence-doctrine
 **Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own assertion, that premortal personal existence is metaphysically real and/or ancient in origin.
