@@ -6115,6 +6115,113 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-acts-10-3d331194",
+   "t": "Cornelius's conversion; Gentiles first receive the gospel",
+   "y0": 40,
+   "y1": 42,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed within the general, disputed chronology of early Acts (after Paul's conversion, before the Jerusalem council of Acts 15); no internal date is given in the text itself, so this range is only a rough scholarly estimate.",
+   "chapters": [
+    "Acts 10"
+   ],
+   "people": [
+    "Peter (apostle)",
+    "Cornelius"
+   ],
+   "places": [
+    "Caesarea",
+    "Joppa"
+   ]
+  },
+  {
+   "id": "r-acts-11-0ad3419f",
+   "t": "Agabus's Famine Prophecy and Relief to Judea",
+   "y0": 44,
+   "y1": 48,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Josephus (Antiquities 20) records a severe famine in Judea during the reign of Claudius, generally dated to the tenure of procurator Tiberius Julius Alexander, c. AD 46-48.",
+   "chapters": [
+    "Acts 11"
+   ],
+   "people": [
+    "Agabus",
+    "Barnabas",
+    "Saul of Tarsus"
+   ],
+   "places": [
+    "Antioch",
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-acts-11-c4029c87",
+   "t": "Peter's Defense and the Antioch Church's Growth",
+   "y0": 41,
+   "y1": 43,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed after the Cornelius episode (Acts 10) and before Herod Agrippa I's persecution and death in AD 44 (Acts 12); exact Acts chronology here is debated among scholars.",
+   "chapters": [
+    "Acts 11"
+   ],
+   "people": [
+    "Peter (apostle)",
+    "Barnabas",
+    "Saul of Tarsus"
+   ],
+   "places": [
+    "Jerusalem",
+    "Antioch"
+   ]
+  },
+  {
+   "id": "r-acts-13-46b559fb",
+   "t": "Paul and Barnabas Begin the First Missionary Journey",
+   "y0": 46,
+   "y1": 48,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Acts itself gives no dates; conventional harmonization of Acts with external data (e.g., the Gallio inscription for Paul's later Corinth ministry) places the first missionary journey roughly here, though the figure is approximate and debated.",
+   "chapters": [
+    "Acts 13"
+   ],
+   "people": [
+    "Paul",
+    "Barnabas",
+    "Sergius Paulus"
+   ],
+   "places": [
+    "Cyprus",
+    "Antioch in Pisidia"
+   ]
+  },
+  {
    "id": "r-acts-14-7b64eb67",
    "t": "Paul and Barnabas's Lycaonian mission (first journey)",
    "y0": 46,
@@ -6138,6 +6245,38 @@ timeline module, not this file._
    "places": [
     "Lystra",
     "Iconium"
+   ]
+  },
+  {
+   "id": "r-acts-15-c4ada9bf",
+   "t": "Jerusalem deliberation concerning Gentile believers",
+   "y0": 48,
+   "y1": 50,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Common historical reconstructions place the Jerusalem meeting around AD 49, but Acts itself supplies no absolute year.",
+   "chapters": [
+    "Acts 15"
+   ],
+   "people": [
+    "Peter",
+    "James",
+    "Paul",
+    "Barnabas"
+   ],
+   "places": [
+    "Antioch",
+    "Jerusalem"
+   ],
+   "things": [
+    "Jerusalem letter",
+    "Gentile mission"
    ]
   },
   {
