@@ -39,6 +39,7 @@ _Not yet developed._
 - **600 BC** — Lehi's family leaves Jerusalem · [[1 Nephi 1]] · [[1 Nephi 2]] · [[600-501 BC]] *(traditional dating)*
 - **600 BC–592 BC** — Wilderness journey from the valley of Lemuel to Nahom · [[1 Nephi 16]] · [[600-501 BC]] *(approximate)*
 - **600 BC–592 BC** — Lehi's sons make two attempts to obtain the brass plates · [[1 Nephi 3]] · [[600-501 BC]] *(approximate)*
+- **600 BC–592 BC** — Lehi's tree-of-life vision in the wilderness · [[1 Nephi 8]] · [[600-501 BC]] *(approximate)*
 - **589 BC** — Lehi's family crosses the ocean · [[1 Nephi 17]] · [[1 Nephi 18]] · [[600-501 BC]] *(traditional dating)*
 - **588 BC–570 BC** — Nephites and Lamanites divide · [[2 Nephi 5]] · [[600-501 BC]] *(Book of Mormon internal dating)*
 

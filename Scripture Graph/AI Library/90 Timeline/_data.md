@@ -3936,6 +3936,37 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1ne-8-a1512ed4",
+   "t": "Lehi's tree-of-life vision in the wilderness",
+   "y0": -600,
+   "y1": -592,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The supplied official chapter heading dates the chapter to about 600–592 B.C.; the text places the family in the wilderness.",
+   "chapters": [
+    "1 Nephi 8"
+   ],
+   "people": [
+    "Lehi",
+    "Nephi",
+    "Laman",
+    "Lemuel"
+   ],
+   "places": [
+    "wilderness"
+   ],
+   "things": [
+    "tree",
+    "iron rod"
+   ]
+  },
+  {
    "id": "r-1sam-12-8fac2c25",
    "t": "Samuel's Farewell Address at Saul's Coronation",
    "y0": -1050,

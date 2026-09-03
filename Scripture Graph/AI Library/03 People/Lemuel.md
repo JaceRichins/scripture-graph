@@ -38,6 +38,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **600 BC–592 BC** — Wilderness journey from the valley of Lemuel to Nahom · [[1 Nephi 16]] · [[600-501 BC]] *(approximate)*
 - **600 BC–592 BC** — Lehi's sons make two attempts to obtain the brass plates · [[1 Nephi 3]] · [[600-501 BC]] *(approximate)*
+- **600 BC–592 BC** — Lehi's tree-of-life vision in the wilderness · [[1 Nephi 8]] · [[600-501 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
