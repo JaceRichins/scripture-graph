@@ -43,6 +43,7 @@ _Not yet developed._
 - **AD 27–AD 30** — The mortal ministry in Galilee and Judea · [[John 6]] · [[Luke 15]] · [[John 11]] · [[AD 1-100]] *(approximate)*
 - **AD 30** — Gethsemane, the cross, the tomb · [[Luke 22]] · [[Matthew 27]] · [[John 19]] · [[AD 1-100]] *(traditional dating)*
 - **AD 30** — Pentecost — the Spirit poured out · [[Acts 2]] · [[AD 1-100]] *(traditional dating)*
+- **AD 30–AD 33** — Day of Pentecost: outpouring of the Holy Ghost at Jerusalem · [[Acts 2]] · [[AD 1-100]] *(traditional dating)*
 - **AD 30** — The Resurrection · [[John 20]] · [[Luke 24]] · [[Matthew 28]] · [[AD 1-100]] *(traditional dating)*
 - **AD 40–AD 42** — Cornelius's conversion; Gentiles first receive the gospel · [[Acts 10]] · [[AD 1-100]] *(approximate)*
 - **AD 41–AD 43** — Peter's Defense and the Antioch Church's Growth · [[Acts 11]] · [[AD 1-100]] *(approximate)*

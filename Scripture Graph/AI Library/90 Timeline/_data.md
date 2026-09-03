@@ -6280,6 +6280,38 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-acts-17-cc3c4d74",
+   "t": "Paul ministers in Thessalonica, Berea, and Athens",
+   "y0": 49,
+   "y1": 51,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Common reconstructions place these events during Paul's second missionary journey shortly before the Gallio episode narrated in Acts 18; Acts 17 itself supplies no absolute date.",
+   "chapters": [
+    "Acts 17"
+   ],
+   "people": [
+    "Paul",
+    "Silas",
+    "Timothy",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Thessalonica",
+    "Athens"
+   ],
+   "things": [
+    "scriptures",
+    "resurrection proclamation"
+   ]
+  },
+  {
    "id": "r-acts-18-b1ba8704",
    "t": "Gallio's proconsulship of Achaia anchors Paul in Corinth",
    "y0": 51,
@@ -6305,6 +6337,58 @@ timeline module, not this file._
    ],
    "things": [
     "Delphi Inscription"
+   ]
+  },
+  {
+   "id": "r-acts-2-4226660b",
+   "t": "Day of Pentecost: outpouring of the Holy Ghost at Jerusalem",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally dated to the Jewish Feast of Weeks (Pentecost), fifty days after Jesus's death and resurrection, within the range of years (AD 30-33) commonly proposed for the crucifixion.",
+   "chapters": [
+    "Acts 2"
+   ],
+   "people": [
+    "Peter (apostle)"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Gift of the Holy Ghost"
+   ]
+  },
+  {
+   "id": "r-acts-20-c16564c4",
+   "t": "Paul's farewell to the Ephesian elders at Miletus",
+   "y0": 56,
+   "y1": 58,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed near the end of Paul's third missionary journey, shortly before his final trip to Jerusalem before Pentecost (v.16); reconstructed from Acts' internal itinerary combined with broader Pauline chronology.",
+   "chapters": [
+    "Acts 20"
+   ],
+   "people": [
+    "Paul (apostle)",
+    "Timothy (companion of Paul)"
+   ],
+   "places": [
+    "Ephesus",
+    "Miletus"
    ]
   },
   {
