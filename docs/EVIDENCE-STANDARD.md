@@ -55,6 +55,38 @@ it is WHAT DOES THE EVIDENCE ACTUALLY JUSTIFY.
     critical, secular and other-Christian scholarship all qualify by
     competence and evidence, never by orientation.
 
+12. WEIGHT IS DISCRIMINATION, NOT CERTAINTY. If the leading rival models
+    predict the observation about equally well, evidence_strength is at most
+    0.15 (label "none" or "weak") however certain the observation is. Above
+    0.5 requires evidence that is independently sourced, specific, and
+    materially more expected under one serious model than under its rivals.
+    Favoring a model is not making it probable: priors and the rest of the
+    evidence stay separate from this one weight.
+13. NO DOUBLE COUNTING. Observations with one shared cause — KJV register,
+    quoted Isaiah chapters, a shared-source parallel, features of oral
+    dictation — are one piece of evidence, not many; say which issue they
+    belong to and discount dependent instances.
+14. PATTERNS NEED A DENOMINATOR. Chiasmus, wordplay, Hebraisms, name
+    matches, toponyms: state how many candidates could have been searched,
+    how common the pattern is in a matched control corpus, and whether the
+    boundaries were chosen after the fact. Absence-of-evidence arguments must
+    state what the model predicts should survive, the search coverage, and
+    preservation and detection sensitivity before they count.
+
+15. CONSISTENCY RULE. If the note's "does not establish" says the evidence
+    does not establish proposition X, then the weight FOR X is at most weak
+    (≤ 0.15). Bands: none 0–0.15 (rivals predict it about equally) · weak
+    0.15–0.35 · moderate 0.35–0.60 · strong 0.60–0.85 · very strong > 0.85
+    (requires independent external attestation). Name the band and say why.
+16. SAY WHAT INSPIRATION HAS TO DO WITH IT — usually nothing. Every note
+    states, in its own line, what the datum implies about whether the text
+    is inspired. Historical findings must never be read as spiritual ones by
+    silence.
+17. SAY WHAT WOULD CHANGE YOUR MIND. Every note names at least one
+    discriminating test: an observation that, if made, would move the weight
+    up, and one that would move it down. A note that cannot name one is a
+    hedged verdict, not a model-first assessment. Date the assessment.
+
 A good result may be uncomfortable: "this remains a substantial difficulty";
 "this criticism is weaker than it looks"; "genuinely interesting supporting
 evidence, but not proof"; "several models remain possible and the evidence

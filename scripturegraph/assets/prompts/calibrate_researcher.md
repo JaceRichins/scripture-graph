@@ -50,6 +50,11 @@ For EACH note in the context, produce a recalibrated assessment:
   `claim_confidence` 0–1 for the observation itself, and `sentence` — one
   calibrated sentence a believer, a skeptic and an outsider would each call
   fair.
+- `inspiration`: one sentence on what this datum implies about whether the
+  text is inspired — for almost every note the honest answer is "nothing",
+  and saying so is the point.
+- `discriminating_test`: what observation, if made, would move this weight
+  up, and what would move it down.
 - `language_fixes`: any proof/disproof phrasing in the current note and its
   replacement.
 - `summary`: a 2–4 sentence calibrated summary to replace the note's

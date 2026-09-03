@@ -252,13 +252,16 @@ def _sections_from(spec: dict) -> dict[str, str]:
               f"*{spec.get('proposition','?')}*.\n\n{w.get('sentence','')}")
     if spec.get("base_rate"):
         weight += f"\n\nBase rate / look-elsewhere: {spec['base_rate']}"
+    if spec.get("discriminating_test"):
+        weight += f"\n\nWhat would move this: {spec['discriminating_test']}"
     weight += (f"\n\nCanonical assessment: [[Evidence Assessments#{spec.get('issue_key','')}|"
                f"{spec.get('issue_title', spec.get('issue_key',''))}]]")
     return {
         "observation": spec.get("observation", ""),
         "interpretation": spec.get("interpretation", ""),
         "historical-significance": spec.get("historical_significance", ""),
-        "apologetic-significance": spec.get("apologetic_significance", ""),
+        "apologetic-significance": spec.get("apologetic_significance", "")
+        + (f"\n\n**Inspiration:** {spec['inspiration']}" if spec.get("inspiration") else ""),
         "does-not-establish": spec.get("does_not_establish", ""),
         "models": models or "_No historical model is discriminated by this evidence._",
         "alternatives": alts or "_None beyond the interpretation above._",
