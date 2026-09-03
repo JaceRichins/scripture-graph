@@ -23,7 +23,11 @@ Scripture: [[Acts 10]] · My notes: [[Acts 10 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Cornelius receives direction (vv. 1–8):** His prayers and alms are remembered before God, and an angel directs him to summon Peter.
+2. **Peter receives direction (vv. 9–23):** A threefold vision challenges his categories of clean and unclean; while he considers its meaning, the Spirit tells him to accompany Cornelius's messengers.
+3. **Peter enters the Gentile gathering (vv. 24–33):** He refuses Cornelius's gesture of worship, explains the boundary he is crossing, and hears Cornelius's account.
+4. **Peter proclaims Christ (vv. 34–43):** He recognizes God's impartiality and summarizes Jesus's ministry, death, [[Resurrection]], judgment, and remission of sins.
+5. **The Gentiles receive the Spirit and baptism (vv. 44–48):** The Holy Ghost falls while Peter is speaking, and he commands that water baptism not be withheld.
 <!-- SG:END structure -->
 
 ## People
@@ -48,22 +52,32 @@ _Not yet developed._
 - [[2 Nephi 32]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-3|Acts 10:3]])
 - [[Moroni 7]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-3|Acts 10:3]])
 - [[1 Samuel 9]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-9|Acts 10:9]])
-- [[Acts 11]] — 4 parallel verses, e.g. [[Acts 10#^acts-10-12|Acts 10:12]] ↔ [[Acts 11#^acts-11-6|Acts 11:6]]
+- [[Acts 11]] — 0 parallel verses
+- [[Acts 2]] — 0 parallel verses
+- [[Acts 8]] — 0 parallel verses
 - [[D&C 112]] — 0 parallel verses
+- [[Acts 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Jews and Gentiles]]
+- [[Gift of Tongues]]
+- [[Jesus Christ (Gospel Topic)]]
+- [[Repentance and Forgiveness]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Peter declares that God is no respecter of persons and that in every nation those who fear God and work righteousness are accepted (Acts 10:34–35). In context, nationality is no barrier to divine acceptance; Peter nevertheless immediately proclaims Jesus as Lord of all and promises remission through his name.
+
+The narrative also holds together Cornelius's prior piety and his need to hear Peter's message. God acknowledges his prayers and alms before Peter arrives, yet directs him to receive apostolic teaching about Christ.
+
+The Gentiles receive the [[Gift of the Holy Ghost]] before [[Baptism]] (Acts 10:44–48). Peter does not treat that gift as replacing baptism; he treats it as a reason baptism must not be withheld. Other narratives in Acts present a different order, so this episode alone does not establish a universal sequence. Peter explicitly applies the clean-and-unclean vision to people (Acts 10:28), while the text leaves open whether the imagery also has implications for food practices.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -101,20 +115,41 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The story advances through paired scenes: Cornelius prays and receives direction; Peter prays and receives direction. Cornelius sends messengers; the Spirit tells Peter that God has sent them. Cornelius recounts his vision; Peter explains what his own vision has taught him. This convergence presents the encounter as divinely initiated within the narrative, though narrative coordination is not independent evidence that the visions occurred historically.
+
+Peter's understanding unfolds progressively: vision, uncertainty, command, obedient encounter, interpretation, proclamation, and confirming manifestation. The vision occurs three times and is followed by the arrival of three messengers, but the text does not say that these numbers are symbolically connected. A proposed connection to Peter's three denials is likewise speculative.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Narrative Sign
+> The circumcised believers' astonishment and their hearing the Gentiles speak with tongues and magnify God function as observable confirmation within the story that the gift of the Holy Ghost has also been poured upon Gentiles.
+> — strength 0.9 · confidence 1.0 · Strong internal narrative evidence · [[Internal Narrative Sign in Acts 10|full dossier]]
+
+> [!evidence] Internal Narrative Corroboration
+> Within the narrative's own evidentiary logic, the independently reported experiences of Cornelius and Peter present the Gentile encounter as divinely initiated rather than as Peter's unilateral innovation.
+> — strength 0.8 · confidence 0.9 · Strong within the narrative; not external corroboration · [[Internal Narrative Corroboration in Acts 10|full dossier]]
+
+> [!evidence] Internal Testimonial Detail
+> Peter appeals to eating and drinking with the risen Jesus as part of the witnesses' testimony. This concrete meal detail strengthens the passage's presentation of the resurrection appearances as embodied encounters rather than as a purely abstract doctrine.
+> — strength 0.6 · confidence 0.9 · Detail explicit; historical significance limited · [[Internal Testimonial Detail in Acts 10|full dossier]]
+
+> [!evidence] Narrative-Order Comparison *(tentative)*
+> In this episode the Gentiles receive the Holy Ghost before water baptism, which is a different sequence than in other Acts narratives where the gift follows baptism through the laying on of hands (e.g. the Samaritans in Acts 8, and disciples at Ephesus in Acts 19); this passage should be read as an exceptional confirming sign for this specific missionary crisis rather than as a general procedural template, since Peter still requires water baptism immediately afterward.
+> — strength 0.6 · confidence 0.6 · Sequence established; exceptional-procedure reading disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does God direct Cornelius to Peter rather than having the angel deliver the entire message?
+- Does Peter's application of the vision to people define its whole meaning, or might the food imagery carry additional implications?
+- What does Cornelius's accepted piety before Peter's arrival contribute to the relationship between righteous living, faith in Christ, and ordinances?
+- Why does the Holy Ghost fall before baptism here, while the order differs in [[Acts 8]]?
+- How does Peter's admission, "I perceive," portray continuing [[Revelation]] and learning in apostolic leadership?
+- What does Peter's response to Cornelius's act of worship teach without assuming that Cornelius intended to regard Peter as divine?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Acts 9]] for the immediate narrative background to Peter's stay with Simon the tanner. In [[Acts 11]], Peter retells the Cornelius episode and defends his conduct to believers in Jerusalem, emphasizing the Gentiles' reception of the Holy Ghost. In [[Acts 15]], Peter appeals to God's earlier acceptance of Gentiles during the debate over their obligations. Compare [[Acts 2]], [[Acts 8]], and [[Acts 10]] to examine both the Pentecost-like signs and the differing narrative order of baptism and reception of the Holy Ghost.
 <!-- SG:END further-study -->
