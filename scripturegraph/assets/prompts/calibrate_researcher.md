@@ -24,6 +24,41 @@ For EACH note in the context, produce a recalibrated assessment:
   (e.g. `bom-kjv-isaiah-dependence`, `bible-regnal-synchronisms`,
   `bom-chiasmus-antiquity`). Reuse a registry key when one fits. Notes on
   the same issue must end up with the same weight.
+## FIRST: which kind of note is this?
+
+Decide `note_kind` BEFORE anything else, because it decides what the rest of
+the object even contains.
+
+**`context` — ILLUMINATION. The default, and the majority of what we write.**
+History, geography, language, culture, science that makes the passage more
+intelligible, better connected, or more moving. Fill `observation`,
+`interpretation`, `historical_significance` and `how_it_fits`, and STOP.
+Leave `weight`, `models`, `alternatives`, `does_not_establish`,
+`apologetic_significance`, `proposition` and `issue_key` OUT — not empty,
+out. They do not apply, and adding them turns a piece of understanding into
+a verdict nobody asked for.
+
+**`contested` — ADJUDICATION. The minority.**
+Only when a genuinely disputed apologetic issue is in play and somebody is
+actually arguing about it. Then fill everything below.
+
+**If unsure, choose `context`.** An adjudication note written about an
+uncontested observation manufactures a controversy, scores it weak because
+rival models predict it equally well, and leaves the reader with the
+impression that an ordinary detail is a problem. That is this project's most
+common failure and the one you are here to stop.
+
+## `how_it_fits` — the load-bearing section of an illumination note
+
+What is known about this world, and the possible reconstruction(s) under
+which the passage fits it. **Offering a plausible reconstruction is the job.**
+Label it a proposal. Do not apologise for it, do not bury it in
+qualifications, and do not append a disclaimer that it is unproven — saying
+"on this reconstruction" already said so.
+
+A note is not more honest for being more negative. Close on what was learned,
+not on a disclaimer.
+
 - `proposition`: the ONE contested proposition the weight refers to.
 - `model_scope`: which historical/compositional models the evidence
   discriminates between (e.g. tight-control translation of an ancient text

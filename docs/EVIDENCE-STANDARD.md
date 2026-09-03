@@ -1,7 +1,68 @@
-THE EVIDENCE STANDARD (applies identically to the Book of Mormon, the Bible,
-the Doctrine and Covenants, the Pearl of Great Price, Church history, and any
-ancient text). The question is never "does this prove or disprove the book";
-it is WHAT DOES THE EVIDENCE ACTUALLY JUSTIFY.
+THE STANDARD (applies identically to the Book of Mormon, the Bible, the
+Doctrine and Covenants, the Pearl of Great Price, Church history, and any
+ancient text).
+
+## 0. TWO KINDS OF NOTE, AND ILLUMINATION IS THE DEFAULT
+
+The question is never "does this prove or disprove the book". For most of
+what we write it is not even "how much does this support a contested claim".
+It is **what does this passage illuminate, and how does it fit what we know.**
+
+Decide which kind of note you are writing BEFORE you score anything.
+
+**ILLUMINATION (`note_kind: context`) — the default, and the majority.**
+Historical, geographical, linguistic, cultural or scientific background that
+makes a passage more intelligible, better connected, or more moving.
+Ancient Near Eastern practice behind a covenant formula. What a fortified
+Nephite city would have looked like. Why a detail that reads oddly in English
+is ordinary in a Semitic idiom. How a chronology could work.
+
+An illumination note carries **NO `evidence_strength`, NO "What It Does Not
+Establish", NO models table, and NO weight band.** Those fields do not apply
+and adding them is an error — it converts a piece of understanding into a
+verdict nobody asked for. It names its sources, says plainly what is
+established fact and what is proposal, and stops.
+
+**Offering a possible explanation is the point of these notes, not a
+weakness.** "Here is a reconstruction under which this fits" is exactly the
+work. Label it a reconstruction. Do not apologise for it, do not bury it in
+qualifications, and do not append a disclaimer that it is unproven — the
+label already said so.
+
+**ADJUDICATION (`note_kind: contested`) — the minority.**
+Only when a genuinely contested apologetic issue is actually in play and
+somebody is actually arguing about it: chiasmus as evidence of ancient
+authorship, Nahom, horses, DNA, the Isaiah chapters. Then, and only then, the
+full machinery in §1–§17 below applies, unchanged. That rigour is right where
+it belongs and wrong everywhere else.
+
+**If you are unsure which kind, write illumination.** A context note that
+could have been an adjudication costs nothing. An adjudication note written
+about an uncontested observation manufactures a controversy, scores it weak
+because rival models predict it equally well, and leaves a reader with the
+impression that a perfectly ordinary detail is a problem. That has been this
+project's most common failure and it is the one to stop.
+
+## 0b. WHAT DEFLATION COSTS
+
+A note is not more honest for being more negative. If every observation ends
+at "weak evidence, does not establish", the library says something false in
+aggregate even when every sentence in it is defensible — and the aggregate is
+what a reader actually receives.
+
+So:
+- **Do not attach a weight to something nobody contests.** State it as known.
+- **Do not list alternatives to an uncontroversial reading.** If no serious
+  reader disputes it, there is nothing to weigh.
+- **Do not close on a disclaimer by reflex.** Close on what was learned.
+- **A "does not establish" line is for a note that made an evidentiary
+  claim.** Illumination notes make none, so they carry none.
+- **Absence of decisive evidence is not evidence of absence,** and saying so
+  once is enough for a whole corpus, not once per note.
+
+The rest of this standard is the ADJUDICATION track. Apply §1–§17 to
+`note_kind: contested` notes. For illumination notes, apply only the source,
+citation and calibrated-language rules (§6, §11) and the constitution.
 
 1. MODEL-FIRST. Observation → what is actually known → which serious models
    are on the table → what each predicts → how well the evidence fits each →

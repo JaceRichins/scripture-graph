@@ -45,25 +45,57 @@ from scripturegraph.vaultgen import md as mdkit
 from scripturegraph.vaultgen.generate import FOLDER_EVIDENCE, record_file
 from scripturegraph.vaultgen.patch import PatchViolation, apply_ops
 
-CALIBRATION_VERSION = 1
+CALIBRATION_VERSION = 2
 GROUP_SIZE = 5
 CORPORA = ("Book of Mormon", "Bible", "Restoration")
 TARGET_PREFIX = "calib:"
 
 # the layered form every calibrated note carries, in order
+# The layered form a note carries, in order.
+#
+# `adjudication` marks the sections that only make sense when a genuinely
+# CONTESTED apologetic issue is in play. On an illumination note they are
+# omitted entirely rather than filled with "not applicable" -- a mandatory
+# "What It Does Not Establish" on an uncontested observation manufactures a
+# controversy and closes on a disclaimer, which is how a library of
+# individually fair notes ends up saying something false in aggregate.
 SECTIONS = [
-    ("observation", "Observation"),
-    ("interpretation", "Interpretation"),
-    ("historical-significance", "Historical Significance"),
-    ("apologetic-significance", "Apologetic Significance"),
-    ("does-not-establish", "What It Does Not Establish"),
-    ("models", "Models On The Table"),
-    ("alternatives", "Alternative Explanations"),
-    ("symmetry", "Comparative Check"),
-    ("weight", "Evidentiary Weight"),
+    ("observation", "Observation", False),
+    ("interpretation", "Interpretation", False),
+    ("historical-significance", "Historical Significance", False),
+    ("how-it-fits", "How This Fits", False),
+    ("apologetic-significance", "Apologetic Significance", True),
+    ("does-not-establish", "What It Does Not Establish", True),
+    ("models", "Models On The Table", True),
+    ("alternatives", "Alternative Explanations", True),
+    ("symmetry", "Comparative Check", True),
+    ("weight", "Evidentiary Weight", True),
 ]
-FM_FIELDS = ("evidence_strength", "claim_confidence", "weight_label", "direction",
-             "issue", "proposition", "calibrated_at", "calibration_version")
+#: Sections every note carries, whichever kind it is.
+CONTEXT_SECTIONS = [(k, t) for k, t, adj in SECTIONS if not adj]
+#: ...and the ones reserved for `note_kind: contested`.
+ADJUDICATION_SECTIONS = [(k, t) for k, t, adj in SECTIONS if adj]
+
+
+def sections_for(note_kind: str) -> list[tuple[str, str]]:
+    """Which sections this note carries.
+
+    Illumination is the default and the majority: history, geography,
+    language, culture and science that make a passage more intelligible.
+    Those notes carry no weight, no models table and no disclaimer, because
+    they make no evidentiary claim to disclaim.
+    """
+    if str(note_kind or "context").lower().startswith("contest"):
+        return [(k, t) for k, t, _ in SECTIONS]
+    return CONTEXT_SECTIONS
+FM_FIELDS = ("note_kind", "evidence_strength", "claim_confidence", "weight_label",
+             "direction", "issue", "proposition", "calibrated_at",
+             "calibration_version")
+#: Frontmatter that only an adjudication note carries. An illumination note
+#: with an evidence_strength is a scoring error: it has scored something
+#: nobody contests.
+ADJUDICATION_FM = ("evidence_strength", "weight_label", "direction", "issue",
+                   "proposition")
 REGISTRY_NOTE = f"{FOLDER_EVIDENCE}/Evidence Assessments.md"
 
 
@@ -239,8 +271,21 @@ def _bullets(items, fmt) -> str:
     return "\n".join(fmt(x) for x in items) if items else ""
 
 
+class _Sections(dict):
+    """Section text, with a missing section reading as empty rather than
+    raising. A KeyError here takes down a whole group of five notes, and a
+    section the model simply did not fill is not worth that."""
+
+    def __missing__(self, key):        # noqa: D105
+        return ""
+
+
 def _sections_from(spec: dict) -> dict[str, str]:
-    """The nine layered sections, rendered from one judged note object."""
+    """The layered sections, rendered from one judged note object.
+
+    Which of them a note actually carries is `sections_for(note_kind)`:
+    an illumination note takes the first four and stops.
+    """
     models = _bullets(spec.get("models") or [], lambda m: f"- **{m.get('name','?')}** — predicts: "
                       f"{m.get('predicts','?')}. Fit with this evidence: *{m.get('fit','?')}*.")
     alts = _bullets(spec.get("alternatives") or [], lambda a: f"- {a.get('explanation','?')} "
@@ -257,10 +302,15 @@ def _sections_from(spec: dict) -> dict[str, str]:
         weight += f"\n\nWhat would move this: {spec['discriminating_test']}"
     weight += (f"\n\nCanonical assessment: [[Evidence Assessments#{spec.get('issue_key','')}|"
                f"{spec.get('issue_title', spec.get('issue_key',''))}]]")
-    return {
+    return _Sections({
         "observation": spec.get("observation", ""),
         "interpretation": spec.get("interpretation", ""),
         "historical-significance": spec.get("historical_significance", ""),
+        # The load-bearing section of an illumination note: what is known
+        # about this world, and the possible reconstructions under which the
+        # passage fits it. Offering one is the job -- labelled as a proposal,
+        # not apologised for.
+        "how-it-fits": spec.get("how_it_fits", ""),
         "apologetic-significance": spec.get("apologetic_significance", "")
         + (f"\n\n**Inspiration:** {spec['inspiration']}" if spec.get("inspiration") else ""),
         "does-not-establish": spec.get("does_not_establish", ""),
@@ -268,7 +318,7 @@ def _sections_from(spec: dict) -> dict[str, str]:
         "alternatives": alts or "_None beyond the interpretation above._",
         "symmetry": spec.get("symmetry", ""),
         "weight": weight,
-    }
+    })
 
 
 def render_registry_note(ctx: Ctx) -> str:
@@ -500,14 +550,16 @@ def run_calibration_job(ctx: Ctx, target: str, apply: bool = True) -> dict:
         stamp = now_iso()
         for note, spec, d in decided:
             secs = _sections_from(spec)
-            for name, heading in SECTIONS:
+            kind = str(spec.get("note_kind") or "context")
+            for name, heading in sections_for(kind):
                 ops.append({"op": "ensure_section", "path": note["path"], "section": name,
                             "heading": heading, "content": secs[name]})
             if spec.get("summary"):
                 ops.append({"op": "set_section", "path": note["path"], "section": "summary",
                             "content": spec["summary"].strip()})
-            w = spec.get("weight") or {}
-            for field, value in (("evidence_strength", w.get("evidence_strength")),
+            w = (spec.get("weight") or {}) if kind.lower().startswith("contest") else {}
+            for field, value in (("note_kind", kind),
+                                 ("evidence_strength", w.get("evidence_strength")),
                                  ("claim_confidence", w.get("claim_confidence")),
                                  ("weight_label", w.get("label")), ("direction", w.get("direction")),
                                  ("issue", spec.get("issue_key")), ("proposition", spec.get("proposition")),
@@ -608,7 +660,7 @@ def _review_report(context: dict, decided, judgment: dict, mode: str, judge: str
                   f"- judge: {d.get('rationale','')}",
                   f"- fixes: {'; '.join(d.get('fixes_applied') or [])}", ""]
         secs = _sections_from(spec)
-        for name, heading in SECTIONS:
+        for name, heading in sections_for(spec.get("note_kind") or "context"):
             lines += [f"**{heading}.** {secs[name]}", ""]
     if judgment.get("overall_notes"):
         lines += ["## Judge's overall notes", judgment["overall_notes"], ""]

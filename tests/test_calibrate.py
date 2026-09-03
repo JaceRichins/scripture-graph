@@ -5,6 +5,7 @@ mode lands nothing."""
 import json
 
 from scripturegraph.agents.calibrate import (CALIBRATION_VERSION, REGISTRY_NOTE, SECTIONS,
+                                             sections_for,
                                              TARGET_PREFIX, evidence_notes, group_ids,
                                              pending_groups, run_calibration_job)
 from scripturegraph.util import now_iso, read_text
@@ -64,7 +65,11 @@ def test_full_stub_calibration_job(imported_ctx):
     assert result["mode"] == "stub" and result["git_rev"] and result["notes"] == 2
     for path in (pa, pb):
         fm, body = md.parse_note(read_text(ctx.vault / path))
-        for name, _heading in SECTIONS:
+        # The stub judgment carries a weight, so it lands as an adjudication
+        # note and takes every section. An ILLUMINATION note takes only the
+        # first four -- no weight, no models, no "does not establish" -- and
+        # that split is what `sections_for` exists for.
+        for name, _heading in sections_for(fm.get("note_kind") or "contested"):
             assert not md.section_is_empty(md.get_section(body, name)), name
         assert md.markers_balanced(body)
         assert fm["calibration_version"] == CALIBRATION_VERSION
