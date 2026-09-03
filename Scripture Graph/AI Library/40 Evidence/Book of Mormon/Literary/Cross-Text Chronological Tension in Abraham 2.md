@@ -14,75 +14,82 @@ consensus_status: accepted observation / disputed interpretation
 weight_label: moderate
 direction: challenges
 issue: pgp-abraham-genesis-chronology
-proposition: The 62-vs-75 age discrepancy creates a substantial difficulty for strict single-event chronological harmonization of Abraham 2 with Genesis 12.
-calibrated_at: '2026-09-03T14:09:57Z'
-calibration_version: 1
+proposition: The age difference between Abraham 2:14 and Genesis 12:4 creates a substantial difficulty for reading both passages as numerically consistent accounts of the same departure from Haran.
+calibrated_at: '2026-09-03T17:44:31Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Cross-Text Chronological Tension in Abraham 2
 
 ## Summary
 <!-- SG:BEGIN summary -->
-Abraham 2:14 and Genesis 12:4 give irreconcilable ages (62 vs. 75) for the same departure from Haran on their plain readings, a real and unresolved tension. This creates a moderate difficulty for strict harmonization models but is well within the range of chronological variance found among ancient sources generally, so it is fairly read as moderate, not decisive, evidence against a single-tradition ancient origin for the Book of Abraham's chronology.
+Abraham 2:14 gives Abraham's age as sixty-two at departure from Haran, while Genesis 12:4 gives seventy-five. Because the command, destination, and presence of Lot closely correspond, the same-departure reading is most natural and creates a real chronological tension. Divergent-tradition, revision, and transmission explanations remain possible, but none is independently demonstrated here; the discrepancy therefore moderately challenges strict harmonization rather than settling Abraham 2's origin.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-Abraham 2:14 gives Abraham's age as 62 at departure from Haran; Genesis 12:4 gives Abram's age as 75 at the same juncture.
+Abraham 2:14 says Abraham was sixty-two years old when he departed from Haran, whereas Genesis 12:4 says Abram was seventy-five when he departed from Haran. Both passages associate the departure with the divine command, travel toward Canaan, and Lot's presence.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-On the most natural reading, both texts describe the same single departure with irreconcilable ages; a minority harmonizing reading proposes two separate departures, which is possible but not indicated by either text.
+The strongest critical reading is that the matching circumstances identify the same departure, leaving a thirteen-year contradiction. A two-departure reconstruction is logically possible, but neither cited passage marks its departure as one of two such events, so it is less natural than the same-event reading.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-A real, internal-to-canon chronological tension comparable in kind to chronological tensions commonly found among ancient sources describing the same figures or events; by itself it speaks more to transmission/composition history than to the underlying history of Abraham.
+The discrepancy is direct evidence of chronological variation between two related Abraham narratives. Such variation can arise through divergent traditions, deliberate rewriting, memory, or numeral transmission, but no surviving witness presently identifies which mechanism produced the number sixty-two.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-Creates a modest difficulty for a maximally strict harmonization model treating Abraham 2 as an unmediated, numerically identical continuation of Genesis 12's own tradition; it is comfortably absorbed by models that already expect divergent traditions, redactional variance, or transmission-stage error, all well attested for ancient texts generally.
+The mismatch moderately challenges strict harmonization and any model requiring Abraham 2 to preserve Genesis's chronology without alteration. It is less damaging to models that permit divergent source traditions, inspired revision, or human transmission error, although invoking one of those mechanisms here remains a reconstruction rather than a demonstrated solution.
 
-**Inspiration:** The discrepancy bears on transmission/composition history, not on whether Abraham's calling or the doctrine taught is divinely inspired.
+**Inspiration:** The numerical discrepancy bears on chronology and textual history, not by itself on whether either passage is inspired.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-Does not establish which number, if either, is historically accurate, does not establish the direction or mechanism of dependency between the two accounts, and does not by itself settle whether Abraham 2 derives from an ancient source or is a later composition.
+The discrepancy does not identify which age is historically correct, prove that Abraham departed twice, reveal the source of sixty-two, or settle whether Abraham 2 has ancient, revelatory, or modern origins.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Single shared ancient tradition, exactly transmitted** — predicts: Ages at departure should match. Fit with this evidence: *strongly challenged*.
-- **Independent or divergent ancient traditions about Abraham** — predicts: Numeric details can differ between traditions describing 'the same' event. Fit with this evidence: *consistent*.
-- **Transmission or compositional numeral error** — predicts: Isolated numeric discrepancy without broader narrative divergence. Fit with this evidence: *consistent*.
-- **19th-century composition without cross-checking Genesis** — predicts: Discrepancy possible if the author did not verify the figure against Genesis. Fit with this evidence: *not ruled out*.
+- **Strict single-event chronological harmonization** — predicts: The two related narratives should give the same age for Abraham's departure from Haran.. Fit with this evidence: *strongly challenged*.
+- **Two separate departures from Haran** — predicts: Abraham could depart at sixty-two, return or remain connected to Haran, and depart again at seventy-five.. Fit with this evidence: *not ruled out*.
+- **Divergent ancient traditions** — predicts: Related accounts may preserve different numerical chronologies for the same event.. Fit with this evidence: *consistent*.
+- **Transmission or compositional numeral alteration** — predicts: An otherwise closely corresponding narrative may contain an isolated changed number.. Fit with this evidence: *consistent*.
+- **Nineteenth-century composition or revision** — predicts: The Genesis narrative may be reused with an intentional or inadvertent change to Abraham's age.. Fit with this evidence: *consistent*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- Two separate departures from Haran at different ages. — *ad hoc*
-- Divergent ancient chronological traditions about Abraham. — *plausible*
-- Scribal or transmission-stage numeral error. — *possible*
-- Modern compositional alteration of the biblical number. — *plausible*
+- Abraham left Haran twice, at sixty-two and seventy-five. — *ad hoc*: It reconciles the numbers but requires an unreported return, interval, or second departure despite the closely matching narrative circumstances.
+- Abraham 2 preserves a divergent ancient chronological tradition. — *possible*: Ancient traditions can vary numerically, but no independent ancient witness to the age sixty-two is supplied.
+- A transmission-stage numeral error produced one of the ages. — *possible*: Numerals are vulnerable in textual transmission, but no manuscript variant or identifiable transmission sequence supports that mechanism in this particular case.
+- A modern reviser intentionally or inadvertently altered Genesis's age. — *plausible*: Abraham 2 otherwise closely follows the Genesis 12 narrative tradition, and a compositional change directly accounts for the differing numeral.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-A comparable numeric mismatch between two biblical passages describing 'the same' event, such as differing regnal-year totals between Kings and Chronicles, is treated in this corpus as a moderate, transmission-explicable tension, not as proof against the passage's reliability; the source note's 0.96 evidence_strength substantially overstates the discriminating power of a single isolated numeral difference and is recalibrated down for consistency.
+A comparable numerical conflict between related biblical histories would be treated as a real difficulty for strict harmonization while leaving divergent tradition, redaction, and transmission explanations available when warranted. The same allowance applies here, but possible mechanisms should not be presented as established repairs without case-specific evidence.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
-**Moderate** (challenges, evidence_strength 0.55) for the proposition: *The 62-vs-75 age discrepancy creates a substantial difficulty for strict single-event chronological harmonization of Abraham 2 with Genesis 12.*.
+**Moderate** (challenges, evidence_strength 0.55) for the proposition: *The age difference between Abraham 2:14 and Genesis 12:4 creates a substantial difficulty for reading both passages as numerically consistent accounts of the same departure from Haran.*
 
+The matching narrative circumstances make the sixty-two-versus-seventy-five difference a real, moderate difficulty for strict single-event harmonization, although divergent-tradition, revision, and transmission models can accommodate it.
 
+Base rate / look-elsewhere: Numerical differences are a familiar feature of related ancient textual traditions, making transmission or divergent-source explanations generally credible mechanisms. Their general frequency does not show that either mechanism occurred here, while the matching command, destination, and companion make the same-event reading more specific than a bare numerical comparison.
 
-Base rate / look-elsewhere: Isolated single-number chronological discrepancies of this kind are common in ancient historiographic and genealogical transmission, well documented in biblical and Near Eastern textual criticism, so a lone instance carries only modest weight against any specific compositional model.
-
-What would move this: An independent ancient source attesting age ~62 at departure would raise plausibility of a genuine divergent tradition; a documented 19th-century source for '62' with no earlier attestation would lower it toward invention. Dated 2026-09-03.
+What would move this: An independently dated ancient witness connecting Abraham's Haran departure with age sixty-two would weaken the challenge to an ancient divergent-tradition model, while evidence that Abraham 2 explicitly distinguished two departures would weaken the same-event reading; a documented modern source or revision sequence accounting for sixty-two would strengthen the challenge to strict harmonization and ancient-source claims.
 
 Canonical assessment: [[Evidence Assessments#pgp-abraham-genesis-chronology|Age-at-Haran discrepancy between Abraham 2 and Genesis 12]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On the most natural reconstruction, Abraham 2 retells the Genesis departure but preserves or introduces a different age. A divergent-tradition reconstruction attributes the number to a separate chronological stream, while a compositional reconstruction treats it as an alteration made during modern expansion of Genesis; strict harmonization requires the less textually indicated proposal of two departures.
+<!-- SG:END how-it-fits -->

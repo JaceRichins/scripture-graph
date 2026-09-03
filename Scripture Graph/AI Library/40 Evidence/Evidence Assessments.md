@@ -32,9 +32,9 @@ The verse clearly and near-certainly depicts organization from already-available
 Notes: [[Doctrinal Wording in Abraham 3]]
 
 ### pgp-abraham-genesis-chronology
-**Age-at-Haran discrepancy between Abraham 2 and Genesis 12** — *moderate* (challenges, evidence_strength 0.55) for: The 62-vs-75 age discrepancy creates a substantial difficulty for strict single-event chronological harmonization of Abraham 2 with Genesis 12.
+**Age-at-Haran discrepancy between Abraham 2 and Genesis 12** — *moderate* (challenges, evidence_strength 0.55) for: The age difference between Abraham 2:14 and Genesis 12:4 creates a substantial difficulty for reading both passages as numerically consistent accounts of the same departure from Haran.
 
-Matching circumstances (same command, same destination, same companion Lot) make the same-departure reading most natural, so the 13-year age conflict is a real, directly observed tension for strict harmonization; but divergent-tradition, transmission-error, and compositional-alteration explanations remain live and unverified, keeping this at moderate rather than strong or decisive weight.
+Matching circumstances (same command, same destination, same companion Lot) make the same-departure reading most natural, so the 62-vs-75 age conflict is a real, directly observed tension for strict harmonization, but divergent-tradition, transmission-error, and compositional-alteration explanations remain live and unverified, keeping this at moderate rather than strong or decisive weight.
 
 Notes: [[Cross-Text Chronological Tension in Abraham 2]]
 
@@ -60,16 +60,16 @@ Several phrase-and-sequence correspondences, especially the Matthew 3:10 paralle
 Notes: [[English Textual Intertextuality in Alma 5]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-chapter dependence on the Isaiah/KJV textual tradition** — *strong* (supports, evidence_strength 0.84) for: Second Nephi 18 is textually dependent on the Isaiah 8 tradition rather than being an independently composed or independently corroborating account of the Syro-Ephraimite crisis.
+**Book of Mormon Isaiah-chapter dependence on the Isaiah/KJV textual tradition** — *strong* (supports, evidence_strength 0.84) for: 2 Nephi 15's near-total 30-verse correspondence with Isaiah 5 reflects dependence on the Isaiah/KJV textual tradition rather than independent generation of the same sequence.
 
-Sustained ordered correspondence and the introductory appeal to what is written make independent coincidental composition ad hoc, providing strong evidence of dependence on Isaiah. This does not distinguish ancient quotation, KJV-mediated translation, or direct modern reuse, and sibling Isaiah chapters share this evidentiary cause.
+The sustained order and near-verbatim English wording across all 30 verses strongly support mediation through the Isaiah 5/KJV textual tradition, but this does not distinguish an ancient quotation rendered through familiar KJV language, revelatory harmonization, or direct modern reuse, and sibling Isaiah-quotation chapters share this same evidentiary cause under Rule 13.
 
 Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]]
 
 ### bom-chiasmus-antiquity
-**Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: The proposed chiastic structure of Alma 36 supports intentional ancient Hebrew composition over natural narrative symmetry or KJV-absorbed patterning.
+**Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: Alma 36's inverted organization is materially more expected under ancient Hebrew-influenced composition than under natural narrative symmetry or nineteenth-century biblical-style composition.
 
-Alma 36 shows a real, unusually elaborate inverted structure, but natural descent-and-return narrative symmetry is an independently-supported rival that predicts the same pattern about as well, and no matched-control denominator has been supplied, so this is only slight, weak-band supporting evidence for ancient Hebrew literary origin, not evidence of intentional antiquity.
+Alma 36 shows a real, unusually elaborate inverted structure, but natural descent-and-return narrative symmetry is an independently-supported rival that predicts much of the same pattern, and no matched-control denominator has been supplied, so this is only slight, weak-band supporting evidence for ancient Hebrew literary origin, not evidence of intentional antiquity.
 
 Notes: [[Chiasmus in Alma 36]]
 
@@ -151,9 +151,9 @@ The exact three-word expression "breathing out threatenings" moderately supports
 Notes: [[English Biblical Intertext in 3 Nephi 5]]
 
 ### pgp-moses-genesis-expansions
-**Expansions in Moses 3 Relative to Genesis 2** — *none* (neutral, evidence_strength 0.05) for: The expansions in Moses 3 (spiritual-creation clause, free-choice clause) derive from an ancient or revelatory source rather than modern interpretive composition.
+**Expansions in Moses 3 Relative to Genesis 2** — *none* (neutral, evidence_strength 0.05) for: The expansions in Moses 3 (spiritual-creation clause, free-choice clause) derive from an ancient or revelatory source rather than ordinary modern interpretive composition.
 
-Moses 3:5 and 3:17 verifiably add content absent from Genesis 2:5 and 2:17 (near-certain, 0.99), but restoration, modern revelation, inspired revision, and ordinary 19th-century theological expansion all predict the same additions about equally, so the bare presence of the expansions gives almost no independent evidence for their ancient versus modern origin.
+Moses 3 unquestionably expands Genesis 2 at these points (near-certain, 0.99), but restoration, modern revelation, inspired revision, and ordinary 19th-century theological expansion all predict the same additions about equally, so the bare presence of the expansions gives almost no independent evidence for their ancient versus modern origin.
 
 Notes: [[Comparative Textual Difference in Moses 3]]
 
@@ -270,9 +270,9 @@ The immediate repetition of route and encounter details strongly supports delibe
 Notes: [[Internal Narrative Consistency in Alma 16]]
 
 ### pgp-abraham-premortal-existence-doctrine
-**Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own assertion, that premortal personal existence is metaphysically real and/or ancient in origin.
+**Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own bare assertion, that the premortal-existence and foreordination doctrine it teaches derives from an ancient Abrahamic source rather than from Joseph Smith's own developing 19th-century theology.
 
-The passage is near-certain (0.99) textual evidence that LDS canon teaches premortal existence and Abrahamic foreordination, but ancient-revelation, modern-revelation, and 19th-century-composition models all predict this explicit assertion about equally, so its own wording gives almost no independent discrimination for the contested metaphysical or historical proposition.
+The passage is near-certain, essentially uncontested textual evidence that LDS canon teaches premortal existence of spirits and Abraham's foreordination before birth, but ancient-source translation and 19th-century revelatory/compositional expansion predict this explicit assertion about equally well, so the passage's own wording gives almost no independent discrimination for its historical origin. This says nothing about whether the doctrine is metaphysically true.
 
 Notes: [[Canonical Doctrinal Statement in Abraham 3]]
 

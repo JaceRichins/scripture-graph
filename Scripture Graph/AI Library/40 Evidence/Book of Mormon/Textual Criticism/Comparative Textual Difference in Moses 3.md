@@ -14,16 +14,17 @@ consensus_status: accepted observation / disputed interpretation
 weight_label: none
 direction: neutral
 issue: pgp-moses-genesis-expansions
-proposition: The expansions in Moses 3 (spiritual-creation clause, free-choice clause) derive from an ancient or revelatory source rather than modern interpretive composition.
-calibrated_at: '2026-09-03T14:09:57Z'
-calibration_version: 1
+proposition: The expansions in Moses 3 (spiritual-creation clause, free-choice clause) derive from an ancient or revelatory source rather than ordinary modern interpretive composition.
+calibrated_at: '2026-09-03T17:44:31Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Comparative Textual Difference in Moses 3
 
 ## Summary
 <!-- SG:BEGIN summary -->
-[[Moses 3#^moses-3-5|Moses 3:5]] adds a spiritual-creation explanation absent from [[Genesis 2#^gen-2-5|Genesis 2:5]], and [[Moses 3#^moses-3-17|Moses 3:17]] adds an agency clause absent from [[Genesis 2#^gen-2-17|Genesis 2:17]]. These differences securely show that Moses 3 expands the corresponding Genesis wording and are doctrinally significant within Latter-day Saint scripture. By themselves, however, they do not discriminate among ancient restoration, modern revelation, inspired revision, and ordinary nineteenth-century expansion.
+Moses 3:5 adds a spiritual-creation explanation absent from Genesis 2:5, and Moses 3:17 adds an agency clause absent from Genesis 2:17. These differences securely show that Moses 3 expands the corresponding Genesis wording and are doctrinally significant within Latter-day Saint scripture. By themselves, however, they do not discriminate among ancient restoration, modern revelation, inspired revision, and ordinary nineteenth-century expansion.
 <!-- SG:END summary -->
 
 ## Observation
@@ -78,7 +79,7 @@ Expansions in rewritten biblical literature would be treated as secure evidence 
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
-**None** (neutral, evidence_strength 0.05) for the proposition: *The expansions in Moses 3 (spiritual-creation clause, free-choice clause) derive from an ancient or revelatory source rather than modern interpretive composition.*.
+**None** (neutral, evidence_strength 0.05) for the proposition: *The expansions in Moses 3 (spiritual-creation clause, free-choice clause) derive from an ancient or revelatory source rather than ordinary modern interpretive composition.*
 
 Moses 3 unquestionably expands Genesis 2 at these points, but the differences themselves do not distinguish ancient restoration or revelation from modern theological revision.
 
@@ -88,3 +89,8 @@ What would move this: The weight would rise if a securely premodern manuscript o
 
 Canonical assessment: [[Evidence Assessments#pgp-moses-genesis-expansions|Expansions in Moses 3 Relative to Genesis 2]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On a restoration model, the spiritual-creation and agency clauses could preserve theological content once present in an older textual tradition and later lost from the transmitted Hebrew of Genesis 2 — a coherent reconstruction consistent with Joseph Smith's broader 'plain and precious things' framework. On a modern-composition model, the same clauses read as ordinary doctrinal elaboration of a familiar KJV base text, of a kind common in nineteenth-century religious rewriting. Both fit the bare textual comparison equally; nothing in the wording itself favors one reconstruction over the other.
+<!-- SG:END how-it-fits -->

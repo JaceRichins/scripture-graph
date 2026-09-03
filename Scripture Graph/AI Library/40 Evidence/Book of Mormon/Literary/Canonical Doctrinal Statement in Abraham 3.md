@@ -14,9 +14,10 @@ consensus_status: broadly accepted
 weight_label: none
 direction: supports
 issue: pgp-abraham-premortal-existence-doctrine
-proposition: Abraham 3:18-23 provides evidence, beyond its own assertion, that premortal personal existence is metaphysically real and/or ancient in origin.
-calibrated_at: '2026-09-03T14:09:57Z'
-calibration_version: 1
+proposition: Abraham 3:18-23 provides evidence, beyond its own bare assertion, that the premortal-existence and foreordination doctrine it teaches derives from an ancient Abrahamic source rather than from Joseph Smith's own developing 19th-century theology.
+calibrated_at: '2026-09-03T17:44:31Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Canonical Doctrinal Statement in Abraham 3
@@ -28,7 +29,7 @@ Abraham 3:18-23 is direct, essentially uncontested textual evidence that LDS can
 
 ## Observation
 <!-- SG:BEGIN observation -->
-Abr 3:18 states spirits/intelligences existed before and have no beginning or end; vv.22-23 describe intelligences organized before the world and Abraham chosen before birth.
+Abraham 3:18 states spirits/intelligences existed before and have no beginning or end; vv.22-23 describe intelligences organized before the world and Abraham chosen before birth.
 <!-- SG:END observation -->
 
 ## Interpretation
@@ -55,8 +56,8 @@ Does not establish premortal existence as metaphysical fact, ancient Abrahamic o
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Ancient patriarchal-source translation** — predicts: Doctrine, if present, traces to genuinely ancient Abrahamic tradition. Fit with this evidence: *not ruled out*.
-- **19th-century revelatory/compositional expansion by Joseph Smith** — predicts: Doctrine reflects Joseph Smith's own developing theology placed into an Abrahamic narrative frame. Fit with this evidence: *consistent*.
+- **Ancient patriarchal-source translation** — predicts: Doctrine, if present, traces to genuinely ancient Abrahamic tradition.. Fit with this evidence: *not ruled out*.
+- **19th-century revelatory/compositional expansion by Joseph Smith** — predicts: Doctrine reflects Joseph Smith's own developing theology placed into an Abrahamic narrative frame.. Fit with this evidence: *consistent*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
@@ -73,11 +74,18 @@ A biblical text uniquely asserting a doctrine found nowhere else in the canon wo
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
-**None** (supports, evidence_strength 0.08) for the proposition: *Abraham 3:18-23 provides evidence, beyond its own assertion, that premortal personal existence is metaphysically real and/or ancient in origin.*.
+**None** (supports, evidence_strength 0.08) for the proposition: *Abraham 3:18-23 provides evidence, beyond its own bare assertion, that the premortal-existence and foreordination doctrine it teaches derives from an ancient Abrahamic source rather than from Joseph Smith's own developing 19th-century theology.*
 
+Abraham 3:18-23 is direct, essentially uncontested textual evidence that LDS canon teaches premortal existence of spirits and describes Abraham as foreordained before birth, but this gives almost no independent support for the doctrine's metaphysical truth or ancient origin since modern revelatory composition predicts the same explicit assertion equally well.
 
+Base rate / look-elsewhere: Explicit doctrinal assertions of this kind are common in both ancient and modern scripture; bare presence of an assertion does not discriminate between an ancient and a modern source without external dating evidence.
 
 What would move this: Independently-dated ancient Abrahamic material attesting the same premortal-intelligence/foreordination constellation would raise the weight; close ties to identifiable 1830s-40s theological sources with no ancient analogue would lower it further. Dated 2026-09-03.
 
 Canonical assessment: [[Evidence Assessments#pgp-abraham-premortal-existence-doctrine|Premortal Existence Doctrine in Abraham 3]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On the translation model LDS canon holds, an ancient patriarchal source could carry a premortal-existence teaching forward into Joseph Smith's rendering; on a compositional model, the same wording reflects his own developing 1835-42 theology placed into an Abrahamic frame. Both reconstructions fit the text equally well, so the verse's own wording cannot adjudicate between them without an external anchor such as an independently dated ancient parallel or a demonstrable textual source in Smith's own environment.
+<!-- SG:END how-it-fits -->
