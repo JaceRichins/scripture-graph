@@ -112,7 +112,7 @@ The chapter interweaves compressed genealogy with prophetic episodes. Brief noti
 
 > [!evidence] Internal Narrative Correspondence
 > Within the narrative's own presentation, the correspondence between the announced curse and destruction in verse 6 and the wars, famines, pestilences, and destruction in verse 7 functions as strong literary evidence that the narrator regards the warning as fulfilled. This is evidence about the text's causal and theological framing, not independent verification of the events or their causes.
-> — strength 0.9 · confidence 1.0 · Strong internal narrative correspondence · [[Internal Narrative Correspondence in Ether 11|full dossier]]
+> — strength 0.8 · confidence 1.0 · Strong internal narrative correspondence · [[Internal Narrative Correspondence in Ether 11|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

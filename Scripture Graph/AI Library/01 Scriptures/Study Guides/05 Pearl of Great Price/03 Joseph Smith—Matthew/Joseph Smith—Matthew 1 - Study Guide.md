@@ -139,7 +139,7 @@ The closing [[Parables of Jesus]] move from recognition to conduct: the fig tree
 
 > [!evidence] Internal Literary Structure
 > The localized references in verses 12–20 and the explicit transition in verse 21 provide strong internal evidence that the opening tribulation is not presented solely as an undifferentiated description of the final coming.
-> — strength 0.7 · confidence 0.8 · accepted observation / disputed interpretation · [[Internal Literary Structure in Joseph Smith—Matthew 1|full dossier]]
+> — strength 0.5 · confidence 0.7 · accepted observation / disputed interpretation · [[Internal Literary Structure in Joseph Smith—Matthew 1|full dossier]]
 
 > [!evidence] Interpretive Framework *(tentative)*
 > The explicit two-stage structure of JS-M 1 (the v.21 transition and the doubled abomination-of-desolation reference) is the primary textual basis for the standard LDS 'near/far' reading of the Olivet Discourse, distinguishing it from readings of the KJV parallel that treat the discourse as a single continuous timeline.

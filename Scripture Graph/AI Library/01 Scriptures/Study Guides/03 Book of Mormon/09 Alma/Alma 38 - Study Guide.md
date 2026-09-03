@@ -49,7 +49,6 @@ _Not yet developed._
 - [[Alma 63]] — 1 footnote cross-reference (from [[Alma 38#^alma-38-1|Alma 38:1]])
 - [[1 Nephi 2]] — 1 footnote cross-reference (from [[Alma 38#^alma-38-1|Alma 38:1]])
 - [[2 Nephi 5]] — 1 footnote cross-reference (from [[Alma 38#^alma-38-1|Alma 38:1]])
-- [[Alma 36]] — 5 parallel verses, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
 - [[D&C 9]] — 3 parallel verses, e.g. [[Alma 38#^alma-38-5|Alma 38:5]] ↔ [[D&C 9#^dc-9-14|D&C 9:14]]
@@ -57,6 +56,7 @@ _Not yet developed._
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Alma 38#^alma-38-5|Alma 38:5]] ↔ [[3 Nephi 27#^3ne-27-22|3 Nephi 27:22]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[Alma 38#^alma-38-5|Alma 38:5]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
 - [[2 Nephi 30]] — 1 parallel verse, e.g. [[Alma 38#^alma-38-1|Alma 38:1]] ↔ [[2 Nephi 30#^2ne-30-1|2 Nephi 30:1]]
+- [[Alma 36]] — 0 parallel verses
 - [[Alma 36]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -117,7 +117,7 @@ The Zoramite references connect counsel with earlier narrative context in [[Alma
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Coherence
 > Shiblon's remembered Zoramite service, persecution, and exposure to ostentatious prayer create strong internal narrative continuity between Alma 31 and Alma 38. This supports the literary coherence of the record but is only modest evidence regarding the historical origin of the narrative.
-> — strength 0.4 · confidence 0.9 · Coherence strong; historical significance modest and disputed · [[Internal Narrative Coherence in Alma 38|full dossier]]
+> — strength 0.7 · confidence 1.0 · Coherence strong; historical significance modest and disputed · [[Internal Narrative Coherence in Alma 38|full dossier]]
 
 > [!evidence] Intertextual Pattern *(tentative)*
 > The 'obey and prosper in the land / disobey and be cut off' formula recurring across multiple speakers and generations in the Book of Mormon (Lehi, Benjamin, Alma to Ammonihah, Alma to Helaman, Alma to Shiblon) mirrors the blessing-and-curse covenant pattern familiar from Deuteronomic literature, and is consistent with a text that presents itself as steeped in a shared Israelite covenant tradition.

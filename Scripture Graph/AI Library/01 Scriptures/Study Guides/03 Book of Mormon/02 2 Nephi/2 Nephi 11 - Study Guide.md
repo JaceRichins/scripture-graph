@@ -113,7 +113,7 @@ Verse 3's "words of three" formula recalls the biblical multiple-witness idiom f
 
 > [!evidence] Internal Compositional Statement
 > Verse 1 is direct internal evidence that the narrator consciously selected and omitted material according to a stated judgment of sufficiency.
-> — strength 0.9 · confidence 1.0 · well-calibrated evidence claim · [[Internal Compositional Statement in 2 Nephi 11|full dossier]]
+> — strength 0.1 · confidence 1.0 · well-calibrated evidence claim · [[Internal Compositional Statement in 2 Nephi 11|full dossier]]
 
 > [!evidence] Literary Corroboration
 > The three-witness arrangement is strong evidence of deliberate literary and theological corroboration within the chapter, but it provides only limited independent historical corroboration because the reader receives all three reported testimonies through Nephi's record.

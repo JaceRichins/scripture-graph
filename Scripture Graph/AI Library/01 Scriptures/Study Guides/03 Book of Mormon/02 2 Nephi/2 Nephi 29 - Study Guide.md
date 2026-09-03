@@ -104,7 +104,7 @@ The Lord answers using direct address to a hypothetical objector — quoting the
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Literary Evidence
 > The repeated Bible objection, the two-nation witness, the assertion that one divine word does not preclude another, the catalogue of writing communities, and the reciprocal exchange of records provide strong internal evidence that multiple sacred records are a deliberately organized central theme of the chapter.
-> — strength 0.8 · confidence 0.9 · well-supported theme; numeric scores were falsely precise · [[Internal Literary Evidence in 2 Nephi 29|full dossier]]
+> — strength 0.8 · confidence 1.0 · well-supported theme; numeric scores were falsely precise · [[Internal Literary Evidence in 2 Nephi 29|full dossier]]
 
 > [!evidence] Doctrinal Reception / Intra-Tradition Usage *(tentative)*
 > Within Latter-day Saint doctrine and apologetics, 2 Nephi 29 is one of the most frequently cited proof-texts for the doctrine of an open, continuing scriptural canon and for God's impartial dealing with all nations; its rhetorical structure (quoting then refuting the 'no more Bible' objection) is used didactically in LDS teaching materials to pre-empt sola-scriptura critiques of the Book of Mormon.

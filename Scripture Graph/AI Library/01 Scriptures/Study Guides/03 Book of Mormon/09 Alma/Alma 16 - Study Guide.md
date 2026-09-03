@@ -120,7 +120,7 @@ The chapter also moves from military success to the closing description of “vi
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Consistency
 > The precise match between Alma's stated prophecy (16:6) and its narrated fulfillment (16:7-8) is sometimes cited as internal evidence of Alma's prophetic gift and of the narrative's coherence, but this is authored by a single narrator (Mormon abridging Alma's record) describing both the prediction and its outcome after the fact, so it cannot function as independent confirmation of predictive prophecy.
-> — strength 0.2 · confidence 0.9 · methodologically well supported · [[Internal Narrative Consistency in Alma 16|full dossier]]
+> — strength 0.8 · confidence 0.9 · methodologically well supported · [[Internal Narrative Consistency in Alma 16|full dossier]]
 
 > [!evidence] Prediction-Outcome Narrative Correspondence
 > Alma's specified interception route in verse 6 is followed closely by the army's route and encounter in verses 7–8. This is strong evidence of deliberate internal narrative correspondence between revelation and outcome.

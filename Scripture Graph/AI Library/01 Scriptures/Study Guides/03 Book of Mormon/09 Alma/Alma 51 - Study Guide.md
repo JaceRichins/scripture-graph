@@ -105,7 +105,7 @@ The chapter reverses expectations twice. Peace at the beginning gives way almost
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative And Strategic Evidence
 > Within the narrative, the concurrence of internal dissent, refusal of military service, and Moroni's diversion against the king-men provides substantial evidence that political division impaired Nephite readiness during this invasion. The text explicitly treats dissension as destructive, while the Lamanites advance and capture the inadequately defended city of Moroni.
-> — strength 0.6 · confidence 0.8 · accepted observation of juxtaposition; causal strength disputed · [[Internal Narrative And Strategic Evidence in Alma 51|full dossier]]
+> — strength 0.4 · confidence 0.8 · accepted observation of juxtaposition; causal strength disputed · [[Internal Narrative And Strategic Evidence in Alma 51|full dossier]]
 
 > [!evidence] Literary Parallel *(tentative)*
 > Teancum's night infiltration of the enemy camp, private access to the sleeping king, killing him with a single concealed weapon, and undetected return to his own camp (vv.33-35) shares a narrative structure with the biblical account of Ehud's assassination of the Moabite king Eglon (Judges 3): a lone agent, a hidden weapon, unguarded private access to the king, and a clean escape that neutralizes an invading force.

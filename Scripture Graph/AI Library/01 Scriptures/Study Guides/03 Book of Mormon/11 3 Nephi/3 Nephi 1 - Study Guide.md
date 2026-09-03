@@ -110,7 +110,7 @@ The narrative repeatedly alternates between assurance and instability: prophecy 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Correspondence
 > The detailed narrative correspondence between Samuel's announced signs and their reported fulfillment strongly supports the conclusion that the text intends the episode to vindicate prophetic testimony. Because both prediction and fulfillment occur within the same literary history, that correspondence alone is weak evidence for the event's external historicity.
-> — strength 0.7 · confidence 0.9 · accepted observation / evidentiary limits explicit · [[Internal Narrative Correspondence in 3 Nephi 1|full dossier]]
+> — strength 0.7 · confidence 1.0 · accepted observation / evidentiary limits explicit · [[Internal Narrative Correspondence in 3 Nephi 1|full dossier]]
 
 > [!evidence] Literary_Pattern *(tentative)*
 > The unexplained, unrecorded departure of Nephi son of Helaman resembles a recurring Nephite/biblical narrative pattern in which an especially righteous figure exits the record without a described death (compare the unknown end of Alma the Younger and the unmarked burial of Moses).

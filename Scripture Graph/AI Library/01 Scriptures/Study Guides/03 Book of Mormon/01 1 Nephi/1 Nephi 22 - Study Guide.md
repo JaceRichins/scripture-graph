@@ -137,7 +137,7 @@ The repetition of “according to the flesh” near the beginning and in verse 2
 
 > [!evidence] Internal Literary Structure
 > The recurrence of "according to the flesh" near both the opening answer and the conclusion provides strong internal literary evidence that verses 2-27 form a sustained response to the brothers' question in verse 1.
-> — strength 0.8 · confidence 0.9 · Strong framing observation; deliberate inclusio uncertain · [[Internal Literary Structure in 1 Nephi 22|full dossier]]
+> — strength 0.2 · confidence 0.9 · Strong framing observation; deliberate inclusio uncertain · [[Internal Literary Structure in 1 Nephi 22|full dossier]]
 
 > [!evidence] Literary Intertextuality *(tentative)*
 > The prophet-like-Moses saying, the stubble and stalled-calf imagery, and the one-fold/one-shepherd formula provide strong textual evidence that the chapter composes its argument through recognizable scriptural language.

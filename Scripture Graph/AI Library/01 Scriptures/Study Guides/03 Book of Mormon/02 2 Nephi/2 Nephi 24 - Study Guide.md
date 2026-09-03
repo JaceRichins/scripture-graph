@@ -113,7 +113,7 @@ Personification expands the audience beyond human victims. The earth sings, tree
 
 > [!evidence] Internal Literary Context
 > The poem's own framing supplies strong internal evidence that its immediate literary target is a human imperial ruler: verse 4 addresses the king of Babylon, and observers in verse 16 call the fallen figure 'the man' who shook kingdoms. This does not exclude a secondary or typological application to Satan, but it weighs against treating Satan as the poem's only referent.
-> — strength 0.9 · confidence 1.0 · strong internal evidence; secondary applications open · [[Internal Literary Context in 2 Nephi 24|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong internal evidence; secondary applications open · [[Internal Literary Context in 2 Nephi 24|full dossier]]
 
 > [!evidence] Textual-Contextual Analysis *(tentative)*
 > The chapter heading and LDS tradition (via D&C 76:25-27) identify the 'Lucifer' of verse 12 with Satan and premortal rebellion. However, this identification is a theological/traditional overlay rather than something the immediate literary context makes explicit: verses 16-20 describe the same figure in terms that most naturally fit a mortal monarch — one who 'made the earth to tremble,' 'destroyed the cities,' is denied a royal burial specifically 'because thou hast destroyed thy land and slain thy people,' and is 'thrust through with a sword' among the slain. The poem's stated addressee (v.4) is 'the king of Babylon,' not a purely spiritual being.

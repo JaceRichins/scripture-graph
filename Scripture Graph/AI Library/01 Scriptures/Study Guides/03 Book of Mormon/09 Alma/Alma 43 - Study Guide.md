@@ -124,7 +124,7 @@ Material contrasts also shape the battle: armor and exposed bodies, numerical su
 
 > [!evidence] Internal Ethical Framing
 > Alma 43 provides strong internal textual evidence for a bounded defensive-war ethic in this narrative: defense is justified by protection of families, liberty, land, and worship; the Nephites are told not to initiate repeated offenses; and Moroni stops the killing when the encircled enemy is terrified.
-> — strength 0.8 · confidence 0.9 · strong internal framing; wider scope disputed · [[Internal Ethical Framing in Alma 43|full dossier]]
+> — strength 0.7 · confidence 0.9 · strong internal framing; wider scope disputed · [[Internal Ethical Framing in Alma 43|full dossier]]
 
 > [!evidence] Textual-Cultural Correlation *(tentative)*
 > Book of Mormon apologetic scholarship has proposed that the described contrast (quilted/thick-clothing and shield-based Nephite armor vs. largely unarmored Lamanite combatants) is broadly consistent with attested Mesoamerican military material culture, in which quilted cotton armor (ichcahuipilli) and wooden/hide shields were used by some combatants while others fought lightly clad.

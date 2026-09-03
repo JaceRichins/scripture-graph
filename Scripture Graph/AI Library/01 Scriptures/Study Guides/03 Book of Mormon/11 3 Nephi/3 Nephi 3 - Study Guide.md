@@ -103,7 +103,7 @@ Giddianhi's letter is a calculated persuasive composition: praise of Lachoneus's
 
 > [!evidence] Internal Narrative Contrast
 > The letter and the narrator provide sharply opposed accounts of the robbers' grievances: Giddianhi claims that dissenters were deprived of governmental rights, while the narrator says they had received no wrong except that caused by their own dissent. This is strong evidence for an intentional clash of moral-political narratives within the chapter, but the text supplies no independent adjudication beyond its narrator's judgment.
-> — strength 0.8 · confidence 0.8 · real contrast; 'intentional' slightly overstates design · [[Internal Narrative Contrast in 3 Nephi 3|full dossier]]
+> — strength 0.8 · confidence 0.9 · real contrast; 'intentional' slightly overstates design · [[Internal Narrative Contrast in 3 Nephi 3|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
