@@ -23,7 +23,15 @@ Scripture: [[3 Nephi 5]] · My notes: [[3 Nephi 5 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Fulfillment and reform (vv. 1–3):** signs confirm prophetic words, followed by changed conduct.
+
+2. **Prisoners, covenant, and law (vv. 4–6):** preaching opens a path to reintegration; continued murderous intent brings punishment.
+
+3. **Chronology and source transition (vv. 7–10):** twenty-five years are compressed, and Nephi's shorter record is named as Mormon's source.
+
+4. **The abridger identifies himself (vv. 11–19):** Mormon describes his plates, name, discipleship, commission, source horizons, eyewitness material, and linguistic limits.
+
+5. **Covenant testimony (vv. 20–26):** Lehi's deliverance is placed within God's mercy to Joseph and Jacob, culminating in restoration to covenant knowledge, recognition of Christ, and gathering.
 <!-- SG:END structure -->
 
 ## People
@@ -47,31 +55,36 @@ _Not yet developed._
 - [[Mormon 2]] — 2 footnote cross-references (from [[3 Nephi 5#^3ne-5-9|3 Nephi 5:9]])
 - [[Mormon 7]] — 2 footnote cross-references (from [[3 Nephi 5#^3ne-5-15|3 Nephi 5:15]])
 - [[3 Nephi 15]] — 2 footnote cross-references (from [[3 Nephi 5#^3ne-5-20|3 Nephi 5:20]])
-- [[Ether 13]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-26|3 Nephi 5:26]] ↔ [[Ether 13#^ether-13-11|Ether 13:11]]
-- [[Alma 46]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]] ↔ [[Alma 46#^alma-46-23|Alma 46:23]]
-- [[3 Nephi 1]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-2|3 Nephi 5:2]] ↔ [[3 Nephi 1#^3ne-1-20|3 Nephi 1:20]]
 - [[3 Nephi 16]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[3 Nephi 16#^3ne-16-5|3 Nephi 16:5]]
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]] ↔ [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]]
-- [[Moses 7]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-26|3 Nephi 5:26]] ↔ [[Moses 7#^moses-7-62|Moses 7:62]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]] ↔ [[3 Nephi 20#^3ne-20-13|3 Nephi 20:13]]
-- [[D&C 33]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[D&C 33#^dc-33-6|D&C 33:6]]
-- [[D&C 45]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[D&C 45#^dc-45-46|D&C 45:46]]
-- [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-27|Joseph Smith—Matthew 1:27]]
 - [[1 Nephi 19]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[1 Nephi 19#^1ne-19-16|1 Nephi 19:16]]
 - [[1 Nephi 22]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[1 Nephi 22#^1ne-22-25|1 Nephi 22:25]]
+- [[Mosiah 7]] — 1 parallel verse, e.g. [[3 Nephi 5#^3ne-5-20|3 Nephi 5:20]] ↔ [[Mosiah 7#^mosiah-7-20|Mosiah 7:20]]
+- [[Alma 36]] — 1 parallel verse, e.g. [[3 Nephi 5#^3ne-5-20|3 Nephi 5:20]] ↔ [[Alma 36#^alma-36-29|Alma 36:29]]
+- [[Mormon 1]] — 1 parallel verse, e.g. [[3 Nephi 5#^3ne-5-17|3 Nephi 5:17]] ↔ [[Mormon 1#^morm-1-1|Mormon 1:1]]
+- [[Helaman 16]] — 1 parallel verse, e.g. [[3 Nephi 5#^3ne-5-5|3 Nephi 5:5]] ↔ [[Helaman 16#^hel-16-2|Helaman 16:2]]
+- [[Alma 46]] — 0 parallel verses
+- [[1 Nephi 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Covenants]] *(keyword match — unconfirmed)*
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
-- [[Sin]] *(keyword match — unconfirmed)*
-- [[Education and Learning]] *(keyword match — unconfirmed)*
+- [[Covenants]]
+- [[Records and Sacred Writings]]
+- [[Secret Combinations]]
+- [[Repentance and Forgiveness]]
+- [[Prophecy]]
+- [[Signs of the Times]]
+- [[Scattering of Israel]]
+- [[Jesus Christ (Gospel Topic)]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter depicts [[Repentance]] as observable change: sins are forsaken, service begins, and former robbers covenant to cease murder. It also places [[Justice and Mercy]] together without erasing their tension: mercy offers release and reintegration, while law addresses continuing danger.
+
+The closing promise defines the [[Gathering of Israel]] as more than relocation. It includes restoration to knowledge of God and his [[Covenants]], recognition of Jesus Christ as Redeemer, and return from dispersion. The conditional pattern of past prosperity in verse 22 differs from the emphatic certainty of the future covenant fulfillment in verses 23–26.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -95,25 +108,45 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The phrase “breathing out threatenings” in verse 5 closely echoes Acts 9:1, making the English text's biblical register especially visible. That observation is secure; what it implies about authorship or translation is not.
+
+Mormon's claim that some things cannot be written “according to our language” follows his assurance that the record is just and true. The juxtaposition distinguishes intended truthfulness from completeness or expressive adequacy.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verses 8–19 form a concentrated metanarrative passage: the narrator steps out of the historical sequence to tell readers how the book was selected, sourced, physically produced, and bounded. The repeated first-person declarations make Mormon visible as an editor, disciple, witness, and theological interpreter rather than a transparent conduit.
+
+Verse 19 announces the end of this personal aside, but verses 20–26 extend it into testimony and prophecy before the historical narrative resumes. This creates a hinge between record-making and covenant meaning: Mormon explains not only how he writes but why the history matters.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] English Biblical Intertext
+> The uncommon English expression “breathing out threatenings” in 3 Nephi 5:5 is a direct verbal parallel to Acts 9:1. It is strong evidence of an English-level biblical intertext or biblical register, while its implications for translation method and composition history remain disputed.
+> — strength 0.9 · confidence 1.0 · Accepted verbal observation; production implications disputed · [[English Biblical Intertext in 3 Nephi 5|full dossier]]
+
+> [!evidence] Narrative Source Presentation
+> The combined notices about severe compression, an identified intermediary record, personally manufactured plates, inherited versus eyewitness material, and linguistic limitation strongly establish that the chapter presents itself as self-conscious abridged historiography.
+> — strength 0.9 · confidence 1.0 · Broadly accepted description of literary self-presentation · [[Narrative Source Presentation in 3 Nephi 5|full dossier]]
+
+> [!evidence] Literary Convention / Internal Record-Keeping Statement *(tentative)*
+> Mormon's self-identification, source citation, and statement of compilation method (vv. 9-19) resemble a pattern some LDS scholars label an ancient Near Eastern scribal 'colophon' convention (author identification, acknowledgment of sources, statement of purpose/limits), offered as internal evidence consistent with, though not proof of, ancient authorship.
+> — strength 0.2 · confidence 0.6 · Believing scholarly proposal; terminology and significance disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How literally should the universal statement that no living Nephite doubted be read: as a census-like assertion or emphatic narrative generalization?
+
+- How should readers evaluate a covenant made by prisoners when release or punishment depended upon their response?
+
+- What precise limitation does Mormon mean by saying that some things could not be written according to his people's language?
+
+- Why does the gathering promise repeatedly join land, covenant knowledge, and recognition of the Redeemer rather than treating any one of them as sufficient?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the church at the land of Mormon in [[Mosiah 18]], the covenant treatment of prisoners in [[Alma 46]], and the fuller gathering discourse in [[3 Nephi 20]]. These comparisons illuminate, respectively, Mormon's name, the difficult relationship between covenant and postwar law, and the chapter's compact theology of gathering.
 <!-- SG:END further-study -->
