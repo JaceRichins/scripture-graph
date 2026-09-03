@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1880 BC–1040 BC** — Judah's royal line: Pharez to David's birth · [[1 Chronicles 2]] · [[1900-1801 BC]] *(approximate)*
+- **1025 BC–1010 BC** — Samuel privately anoints David king in Bethlehem · [[1 Samuel 16]] · [[1100-1001 BC]] *(traditional dating)*
 - **4 BC** — The birth of Jesus Christ · [[Luke 2]] · [[Matthew 2]] · [[3 Nephi 1]] · [[100-1 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

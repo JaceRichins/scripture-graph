@@ -4018,6 +4018,59 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1sam-16-efa46c33",
+   "t": "Samuel privately anoints David king in Bethlehem",
+   "y0": -1025,
+   "y1": -1010,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional biblical chronologies place David's private anointing sometime during the latter part of Saul's reign, well before David's later public accession; exact regnal dates for this period are disputed among scholars and should be treated as approximate.",
+   "chapters": [
+    "1 Samuel 16"
+   ],
+   "people": [
+    "Samuel",
+    "David",
+    "Jesse",
+    "Saul"
+   ],
+   "places": [
+    "Bethlehem"
+   ]
+  },
+  {
+   "id": "r-1sam-2-f65b0bbd",
+   "t": "Samuel's childhood ministry and judgment on Eli's house",
+   "y0": -1100,
+   "y1": -1080,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Old Testament chronology places Eli's priesthood and Samuel's childhood at Shiloh near the close of the period of the judges, shortly before Saul's anointing as Israel's first king (c. 1050 BC).",
+   "chapters": [
+    "1 Samuel 2"
+   ],
+   "people": [
+    "Eli",
+    "Samuel",
+    "Hannah"
+   ],
+   "places": [
+    "Shiloh"
+   ]
+  },
+  {
    "id": "r-1sam-8-c1db7302",
    "t": "Israel's Demand for a King (transition from judges to monarchy)",
    "y0": -1050,

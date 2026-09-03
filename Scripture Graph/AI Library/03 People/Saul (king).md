@@ -43,6 +43,7 @@ _Not yet developed._
 - **1050 BC** — Saul anointed — Israel takes a king · [[1 Samuel 8]] · [[1 Samuel 10]] · [[1100-1001 BC]] *(approximate)*
 - **1030 BC–1010 BC** — Saul's reign and the Michmash campaign against the Philistines · [[1 Samuel 14]] · [[1100-1001 BC]] *(traditional dating)*
 - **1025 BC** — David and Goliath · [[1 Samuel 17]] · [[1100-1001 BC]] *(approximate)*
+- **1025 BC–1010 BC** — Samuel privately anoints David king in Bethlehem · [[1 Samuel 16]] · [[1100-1001 BC]] *(traditional dating)*
 - **AD 33–AD 36** — Stephen's Speech and Martyrdom in Jerusalem · [[Acts 7]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
