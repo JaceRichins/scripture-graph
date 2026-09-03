@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **995 BC–990 BC** — Death of Bathsheba's first child and birth of Solomon · [[2 Samuel 12]] · [[1000-901 BC]] *(approximate)*
 - **972 BC–970 BC** — David's material preparation and charge to Solomon for the temple · [[1 Chronicles 22]] · [[1000-901 BC]] *(traditional dating)*
 - **972 BC–970 BC** — Solomon anointed co-regent king at Gihon · [[1 Kings 1]] · [[1000-901 BC]] *(traditional dating)*
 - **971 BC** — David commissions Solomon and delivers the temple pattern · [[1 Chronicles 28]] · [[1000-901 BC]] *(traditional dating)*
@@ -47,7 +48,6 @@ _Not yet developed._
 - **970 BC–966 BC** — Solomon's early reign and the Gibeon dream · [[1 Kings 3]] · [[1000-901 BC]] *(traditional dating)*
 - **970 BC–967 BC** — Solomon's accession and Gibeon theophany · [[2 Chronicles 1]] · [[1000-901 BC]] *(traditional dating)*
 - **969 BC–966 BC** — Solomon-Hiram alliance and temple labor mobilization · [[1 Kings 5]] · [[1000-901 BC]] *(traditional dating)*
-- **967 BC–947 BC** — Solomon completes temple bronze/gold work and his own palace · [[1 Kings 7]] · [[1000-901 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

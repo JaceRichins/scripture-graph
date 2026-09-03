@@ -5329,6 +5329,55 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2pet-3-1c315fdf",
+   "t": "2 Peter composed / traditional apostolic dating",
+   "y0": 64,
+   "y1": 68,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Tradition places 2 Peter shortly before Peter's martyrdom under Nero; this is disputed by scholars who read 3:16's reference to a collected body of Pauline 'scripture' as evidence of later, possibly pseudonymous composition.",
+   "chapters": [
+    "2 Peter 3"
+   ],
+   "people": [
+    "Peter (apostle)",
+    "Paul (apostle)"
+   ]
+  },
+  {
+   "id": "r-2sam-12-4605bd97",
+   "t": "Death of Bathsheba's first child and birth of Solomon",
+   "y0": -995,
+   "y1": -990,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed within David's traditional c. 1010-970 BC reign, after the Uriah affair and before Absalom's rebellion; the text gives no absolute date, so the range is approximate.",
+   "chapters": [
+    "2 Samuel 12"
+   ],
+   "people": [
+    "David (king)",
+    "Bath-sheba",
+    "Solomon",
+    "Nathan (prophet)"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-2sam-2-ef0af341",
    "t": "David's reign as king of Judah at Hebron",
    "y0": -1010,
