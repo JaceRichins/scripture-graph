@@ -23,7 +23,12 @@ Scripture: [[D&C 71]] · My notes: [[D&C 71 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Commission and audience (vv. 1–4):** Joseph and Sidney are to proclaim, expound scripture, bear record, and prepare the way for future commandments and revelations during a limited assignment.
+2. **Reading, reception, and increase (vv. 5–6):** the text addresses whoever reads and connects receiving the instruction with being given greater power. The precise referent of “it” remains uncertain.
+3. **Confrontation and assurance (vv. 7–10):** opponents are to be met publicly and privately and challenged to present their reasons; vindication is promised on God's timetable.
+4. **Concluding command (v. 11):** the recipients are told to keep the commandments.
+
+Other divisions are possible, especially a two-part reading centered on commission and opposition.
 <!-- SG:END structure -->
 
 ## People
@@ -61,12 +66,14 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Scripture Study]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter joins [[Missionary Work]], [[Scripture Study]], and [[Revelation]]. Verse 1 does not portray inspired preaching as detached from textual study: the servants are to expound the mysteries from scripture according to the Spirit and power given them. Verses 5–6 add a principle of receptivity—understanding and receiving precede an increase of power.
+
+The assurances in verses 7–10 are paired with [[Obedience]] and divine timing. Faithfulness is named before the opponents' shame is manifested, and hostile voices are confounded in God's 'due time.' The text therefore supports confidence amid [[Adversity]], but not a simple promise that faithful people will avoid criticism, delay, or suffering.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -83,25 +90,43 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The pronoun 'it' in 'unto him that receiveth it' (v. 6) has no completely explicit single-word antecedent. In context it most naturally points to the wisdom or instruction just given, though it may encompass the proclaimed message more broadly.
+
+The chapter's repeated temporal language is important: 'for the space of a season' (v. 2), 'a mission for a season' (v. 3), and 'in mine own due time' (v. 10). The first two limit the assignment; the last limits human expectations about when vindication occurs.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verses 8–9 contain two strong verbal parallels to Isaiah. “Bring forth their strong reasons” closely resembles Isaiah 41:21's courtroom challenge, while “no weapon that is formed against you shall prosper” nearly reproduces Isaiah 54:17. Read together, these echoes support an interpretation of the conflict as a challenge of claims followed by promised vindication.
+
+The verbal parallels are clear; their precise compositional significance is not. They may reflect deliberate intertextual framing, direct familiarity with the King James Bible, Book of Mormon Isaiah wording, or biblical language already common in nineteenth-century religious discourse. They do not establish ancient authorship or divine origin.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Contextual And Lexical Evidence
+> The repeated temporal qualifications—mission for a season, further direction to come, and vindication in God's due time—are strong internal evidence for reading the commission as a bounded assignment whose outcomes need not be immediate.
+> — strength 0.8 · confidence 0.9 · strong internal reading with acknowledged limits · [[Contextual And Lexical Evidence in D&C 71|full dossier]]
+
+> [!evidence] Biblical Intertextuality
+> The concentration of two distinctive Isaianic formulations in verses 8–10 is strong internal evidence that the passage frames opposition through Isaiah's imagery of legal challenge and eventual vindication. It is meaningful literary evidence but weak evidence for any larger claim about ancient or divine authorship.
+> — strength 0.7 · confidence 0.9 · parallels accepted; combined literary design remains interpretive · [[Biblical Intertextuality in D&C 71|full dossier]]
+
+> [!evidence] Textual Parallel
+> D&C 71:9's assurance, "there is no weapon that is formed against you shall prosper," closely parallels Isaiah 54:17 KJV, "No weapon that is formed against thee shall prosper." This is a strong verbal parallel and indicates the revelation draws on (or echoes) this specific Isaianic covenant-assurance language, though the text does not explicitly flag it as a quotation.
+> — strength 0.7 · confidence 1.0 · verbal parallel accepted; transmission and intent disputed · [[Textual Parallel in D&C 71|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What does 'it' in verse 6 include: the immediate instruction, the gospel message, or both?
+- How does the invitation to meet opponents privately as well as publicly affect the meaning of 'confound'?
+- Should the promise about weapons be read primarily within this temporary mission, as a broader principle, or typologically at both levels?
+- What is gained by recognizing the paired echoes of [[Isaiah 41]] and [[Isaiah 54]]?
+- How does the command to keep the commandments in verse 11 govern the more confrontational language of verses 7–10?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare [[D&C 73]] and [[D&C 100]], both identified by the verified index as textual parallels. Study the exact shared wording before drawing conclusions about common historical settings, recurring commissioning patterns, or the scope of their promises.
 <!-- SG:END further-study -->
