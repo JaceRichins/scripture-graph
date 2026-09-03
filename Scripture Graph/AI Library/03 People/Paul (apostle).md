@@ -39,6 +39,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 33–AD 36** — Paul's Damascus road conversion (recounted in this speech) · [[Acts 22]] · [[AD 1-100]] *(approximate)*
 - **AD 34** — Stephen the first martyr · [[Acts 7]] · [[AD 1-100]] *(approximate)*
 - **AD 35** — Saul on the Damascus road · [[Acts 9]] · [[AD 1-100]] *(approximate)*
 - **AD 41–AD 43** — Peter's Defense and the Antioch Church's Growth · [[Acts 11]] · [[AD 1-100]] *(approximate)*
@@ -50,7 +51,6 @@ _Not yet developed._
 - **AD 49** — The Jerusalem council · [[Acts 15]] · [[AD 1-100]] *(historical)*
 - **AD 49–AD 51** — Paul ministers in Thessalonica, Berea, and Athens · [[Acts 17]] · [[AD 1-100]] *(approximate)*
 - **AD 50–AD 51** — Paul writes 1 Thessalonians, likely from Corinth · [[1 Thessalonians 1]] · [[AD 1-100]] *(historical)*
-- **AD 50–AD 51** — Paul writes 1 Thessalonians, likely from Corinth · [[1 Thessalonians 4]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

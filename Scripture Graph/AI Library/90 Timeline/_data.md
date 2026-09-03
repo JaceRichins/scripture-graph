@@ -3385,6 +3385,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1cor-11-7e78b59b",
+   "t": "Paul writes First Corinthians from Ephesus",
+   "y0": 53,
+   "y1": 55,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Standard Pauline chronology places composition during Paul's extended stay in Ephesus, roughly two decades after the crucifixion.",
+   "chapters": [
+    "1 Corinthians 11"
+   ],
+   "people": [
+    "Paul"
+   ],
+   "places": [
+    "Corinth",
+    "Ephesus"
+   ]
+  },
+  {
    "id": "r-1cor-12-7e78b59b",
    "t": "Paul writes First Corinthians from Ephesus",
    "y0": 53,
@@ -3406,6 +3431,31 @@ timeline module, not this file._
    "places": [
     "Corinth",
     "Ephesus"
+   ]
+  },
+  {
+   "id": "r-1cor-13-d1617905",
+   "t": "Paul writes 1 Corinthians from Ephesus",
+   "y0": 53,
+   "y1": 57,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional New Testament chronology places the letter during Paul's roughly three-year residence in Ephesus (cf. Acts 19), commonly dated to the mid-50s AD, before his final journey toward Jerusalem.",
+   "chapters": [
+    "1 Corinthians 13"
+   ],
+   "people": [
+    "Paul (Apostle)"
+   ],
+   "places": [
+    "Ephesus",
+    "Corinth"
    ]
   },
   {
@@ -6392,6 +6442,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-acts-22-55c97b79",
+   "t": "Paul's Damascus road conversion (recounted in this speech)",
+   "y0": 33,
+   "y1": 36,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Traditional chronology places Paul's vision and conversion within a few years of Jesus' crucifixion, based on comparison with Galatians 1:15-18 and the Acts 9 narrative; this speech (delivered c. AD 57) recounts that earlier event decades after it occurred.",
+   "chapters": [
+    "Acts 22"
+   ],
+   "people": [
+    "Paul (apostle)",
+    "Jesus Christ",
+    "Ananias"
+   ],
+   "places": [
+    "Damascus",
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-acts-23-a90eaf41",
    "t": "Paul's Sanhedrin trial and transfer to Caesarea",
    "y0": 57,
@@ -7176,6 +7253,33 @@ timeline module, not this file._
    "people": [
     "Joseph Smith Jr",
     "Oliver Cowdery"
+   ]
+  },
+  {
+   "id": "r-dc-23-f50b19c1",
+   "t": "Revelation calling five early disciples to preach and exhort",
+   "y0": 1830,
+   "y1": 1830,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The section heading and Church historical records date this revelation to April 1830 at Fayette, New York, near the time of the Church's organization; this dating is not stated within the verses themselves.",
+   "chapters": [
+    "D&C 23"
+   ],
+   "people": [
+    "Oliver Cowdery",
+    "Hyrum Smith",
+    "Samuel Smith",
+    "Joseph Smith Sr."
+   ],
+   "places": [
+    "Fayette, New York"
    ]
   },
   {

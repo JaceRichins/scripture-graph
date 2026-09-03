@@ -42,7 +42,9 @@ _Not yet developed._
 - **AD 51–AD 52** — Paul's Corinth ministry anchored by the Gallio inscription · [[1 Thessalonians 3]] · [[AD 1-100]] *(historical)*
 - **AD 51–AD 52** — Gallio's proconsulship of Achaia anchors Paul in Corinth · [[Acts 18]] · [[AD 1-100]] *(historical)*
 - **AD 53–AD 55** — Paul writes 1 Corinthians from Ephesus · [[1 Corinthians 1]] · [[AD 1-100]] *(approximate)*
+- **AD 53–AD 55** — Paul writes First Corinthians from Ephesus · [[1 Corinthians 11]] · [[AD 1-100]] *(traditional dating)*
 - **AD 53–AD 55** — Paul writes First Corinthians from Ephesus · [[1 Corinthians 12]] · [[AD 1-100]] *(historical)*
+- **AD 53–AD 57** — Paul writes 1 Corinthians from Ephesus · [[1 Corinthians 13]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
