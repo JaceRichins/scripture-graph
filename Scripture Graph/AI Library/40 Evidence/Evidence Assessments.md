@@ -206,6 +206,13 @@ The chain of explicit inferential connectives and dependent premises across 23 v
 
 Notes: [[Internal Literary Structure in 2 Nephi 2]]
 
+### bom-ether15-prophecy-fulfillment-correspondence
+**Fulfillment correspondence between Ether's warning (Ether 13) and Coriantumr's fall (Ether 15)** — *strong* (supports, evidence_strength 0.8) for: Ether 15's narration of the armies' mutual destruction and Coriantumr's survival is presented by the final text as deliberate fulfillment of Ether's Ether 13 warning
+
+The repeated destruction/survival details and the explicit fulfillment statement (15:33) strongly support deliberate final-form vindication of Ether's warning, matching the closely analogous bom-ether11-curse-fulfillment-correspondence. Because the warning and its fulfillment are transmitted through one continuous narrative source, the correspondence gives only none-band support for genuine pre-event prophecy, the war's historical scale, or inspiration.
+
+Notes: [[Internal Narrative Correspondence in Ether 15]]
+
 ### bom-2nephi11-historical-editorial-selection
 **Historical force of the narratorial selection statement in 2 Nephi 11** — *none* (supports, evidence_strength 0.1) for: The statement supports the existence of an actual ancient narrator-editor named Nephi who selected and omitted Jacob's teachings while producing a historical record.
 
@@ -233,6 +240,13 @@ Notes: [[Internal Chronological Evidence in 3 Nephi 2]] · [[Internal Textual Co
 The verse emphatically portrays the event as public and individually perceived, but it remains one third-person narrative report rather than approximately 2,500 independent testimonies. Historical occurrence, amplification, communal tradition, and literary authentication all predict such a claim, so it provides only none-band support for the event's historicity.
 
 Notes: [[Internal Collective-Witness Claim in 3 Nephi 17]]
+
+### bom-3nephi7-collective-witness-claim
+**Historical weight of the internal witness/testimony chain in 3 Nephi 7** — *none* (supports, evidence_strength 0.14) for: The accumulation of witness language in 3 Nephi 7 (eyewitness status, public witnessing of miracles, converts' signifying, healed persons' manifestations, and baptism as testimony) materially supports the historical occurrence and supernatural cause of the reported miracles, conversions, and healings
+
+The chapter clearly accumulates witness-related vocabulary and presents Nephi's ministry as public and openly attested, but because every witness claim is mediated through the same one narrator and is equally predicted by sincere historical report, communal amplification, or literary authentication, it gives only none-band support for the actual historicity or supernatural cause of the reported events — matching the closely analogous bom-3nephi17-collective-witness-claim (0.14).
+
+Notes: [[Internal Narrative Testimony in 3 Nephi 7]]
 
 ### bom-1nephi13-plain-precious-losses
 **Historical weight of the plain-and-precious-losses claim in 1 Nephi 13** — *none* (supports, evidence_strength 0.1) for: The wording of 1 Nephi 13 independently supports the historical claim that identifiable plain and precious teachings were deliberately removed from an apostolic record by a particular institution before its broad circulation.
@@ -311,6 +325,13 @@ The immediate repetition of route and encounter details strongly supports delibe
 
 Notes: [[Internal Narrative Consistency in Alma 16]]
 
+### bom-alma55-restraint-ethical-framing
+**Narratorial ethical framing of Moroni's capture-over-killing choice (Alma 55)** — *strong* (supports, evidence_strength 0.78) for: The final text's explicit third-person narratorial commentary (55:19) deliberately frames Moroni's choice to capture rather than kill incapacitated enemies as an intentional ethical statement about restraint in war
+
+The explicit third-person narratorial commentary in 55:19 ('he did not delight in murder or bloodshed'), paired with the forgone opportunity described in 55:18, strongly supports that the final text deliberately frames this episode as an ethical statement about restraint. It does not establish the episode's historicity, a general pacifist ethic, compliance with modern law of war, or approval of the episode's other tactics (exploited intoxication, deception, or the forced labor described later in the chapter).
+
+Notes: [[Internal Narrative Evidence in Alma 55]]
+
 ### context-moses8-noah-gospel-continuity
 **Noah's ministry as gospel continuity in Moses 8** — *none* (neutral, evidence_strength 0.0) for: No contested evidentiary proposition is asserted; the note illuminates Moses 8's explicit literary-theological framing.
 
@@ -339,12 +360,26 @@ JS-H explicitly frames the episode as Harris's secondhand report, and Anthon's o
 
 Notes: [[Embedded Secondhand Testimony in Joseph Smith—History 1]]
 
+### bom-ether11-secret-combinations-pattern
+**Secret combinations as a recurring narrative cause of Jaredite instability (Ether 11)** — *strong* (supports, evidence_strength 0.78) for: Ether 11's final text deliberately presents organized secret combinations as a recurring cause linked to refusal of prophetic warning, rebellion, and societal destruction across the chapter's episodes
+
+The repeated causal linkage of combinations to refusal (v.7), rebellion (v.15), and rejection of the prophets (v.22) strongly supports a deliberate recurring narrative motif, but it gives no independent support for the historical existence, continuity, or structure of any specific organization, and does not require that the three instances describe one continuous institution rather than distinct groups conflated under one recurring label.
+
+Notes: [[Internal Narrative Pattern in Ether 11]]
+
 ### bom-intratextual-symbolic-glossing
 **Self-glossing symbolism as evidence of unified compositional design** — *none* (supports, evidence_strength 0.12) for: The coordinated glosses in 1 Nephi 11–15 favor unified original design of the dream sequence over later interpretive development or redaction.
 
 The later chapters unmistakably give the principal dream images symbolic meanings, but unified planning and later interpretive systematization predict this final-form coordination about equally. It therefore supplies none-band support for unified original composition and no independent support for antiquity, historicity, or inspiration.
 
 Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
+
+### bom-alma54-logistics-motive-evidence
+**Stated logistical (food-provisioning) motive in the Moroni-Ammoron prisoner exchange (Alma 54)** — *strong* (supports, evidence_strength 0.78) for: The final text explicitly attributes preservation of food/provisions for one's own forces as a stated motive for the prisoner exchange, for both Moroni and Ammoron
+
+Alma 54:2 (narratorial description of Moroni's motive) and 54:20 (within Ammoron's quoted reply) each explicitly name food conservation as a reason to exchange prisoners, strongly supporting that the final text presents logistics as a real, stated motive alongside the chapter's ideological and familial concerns. This says nothing about the historicity of the exchange, the authenticity of the letters, the actual severity of wartime shortages, or whether logistics was the commanders' dominant rather than one contributing motive.
+
+Notes: [[Internal Narrative Evidence in Alma 54]]
 
 ### bom-jsm1-jerusalem-eschaton-structure
 **Textual distinction between the Jerusalem tribulation and later material in Joseph Smith—Matthew 1** — *moderate* (supports, evidence_strength 0.5) for: The final text of Joseph Smith—Matthew 1 textually distinguishes the Jerusalem-focused tribulation of vv.12-20 from the material following v.21, sufficient to show the chapter does not present vv.12-31 as one undifferentiated description of the final coming.
