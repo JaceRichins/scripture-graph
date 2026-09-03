@@ -94,6 +94,13 @@ The four-beat ordered match across widely separated books moderately supports de
 
 Notes: [[Internal Literary Correspondence in 1 Nephi 12]]
 
+### bom-alma43-defensive-war-framing
+**Defensive-war framing within Alma 43** — *strong* (supports, evidence_strength 0.7) for: Alma 43's narrator normatively frames Nephite violence in this particular battle as justified by defense of community goods and constrained when the enemy is overcome.
+
+The chapter gives strong evidence that its narrator presents this battle as defensive and depicts a limit on continued killing. It does not establish a universal war ethic, Moroni's precise motive, historical compliance, or inspiration.
+
+Notes: [[Internal Ethical Framing in Alma 43]]
+
 ### bom-3nephi27-sermon-reprise
 **Deliberate reprise of 3 Nephi 14 in 3 Nephi 27** — *strong* (supports, evidence_strength 0.78) for: The received wording of 3 Nephi 27 deliberately reprises the ask-and-knock and two-gates teachings already presented in 3 Nephi 14 rather than reproducing both ordered clusters by coincidence.
 
@@ -121,6 +128,13 @@ Notes: [[English Biblical Intertext in 3 Nephi 5]]
 Moses 3:5 and 3:17 verifiably add content absent from Genesis 2:5 and 2:17 (near-certain, 0.99), but restoration, modern revelation, inspired revision, and ordinary 19th-century theological expansion all predict the same additions about equally, so the bare presence of the expansions gives almost no independent evidence for their ancient versus modern origin.
 
 Notes: [[Comparative Textual Difference in Moses 3]]
+
+### bom-2nephi11-historical-editorial-selection
+**Historical force of the narratorial selection statement in 2 Nephi 11** — *none* (supports, evidence_strength 0.1) for: The statement supports the existence of an actual ancient narrator-editor named Nephi who selected and omitted Jacob's teachings while producing a historical record.
+
+The verse clearly presents its narrator as selecting material, but authentic ancient record-making, later redaction, and constructed first-person narration predict that self-presentation about equally well. It therefore gives none-band support for an actual ancient Nephite editor.
+
+Notes: [[Internal Compositional Statement in 2 Nephi 11]]
 
 ### bom-other-sheep-historical-identification
 **Historical identification of the Nephite hearers as Jesus's other sheep** — *none* (supports, evidence_strength 0.08) for: The historical hearers represented in 3 Nephi 15 were the people Jesus intended by the "other sheep" saying associated with John 10:16.
@@ -156,6 +170,13 @@ Notes: [[Geographic Identification in 1 Nephi 2]]
 The nonstandard if-and construction is real, attested early, and later regularized, modestly favoring a Semitic-calque reading, but a small clustered sample, an independently attested Early Modern English parallel, and the absence of matched-corpus frequency data keep this at the low end of the weak band.
 
 Notes: [[If-and conditionals in the Original Manuscript]]
+
+### bom-2nephi24-human-royal-referent
+**Immediate human royal referent of the taunt in 2 Nephi 24** — *strong* (supports, evidence_strength 0.84) for: The immediate literary target of the taunt in 2 Nephi 24 is a human imperial ruler, whatever secondary or typological applications readers may make.
+
+The king-of-Babylon frame, designation as a man, and descriptions of earthly conquest strongly support a human ruler as the immediate target. A secondary Satanic or typological application remains possible but is not established by this poem alone.
+
+Notes: [[Internal Literary Context in 2 Nephi 24]]
 
 ### bom-1nephi14-johannine-attribution
 **Internal Johannine attribution in 1 Nephi 14** — *none* (supports, evidence_strength 0.1) for: The attribution of related apocalyptic material to a future apostle named John supports the ancient provenance or genuine foreknowledge of 1 Nephi 14.
@@ -234,9 +255,23 @@ The recurring placement of inequality, costly display, class division, and hoard
 
 Notes: [[Internal Literary Pattern in 4 Nephi 1]]
 
+### bom-3nephi8-geographic-identifiability
+**Whether 3 Nephi 8 uniquely identifies a modern geography** — *strong* (challenges, evidence_strength 0.72) for: The geographic and disaster descriptions in 3 Nephi 8 are sufficient by themselves to identify a unique real-world setting for the narrated cities and lands.
+
+The chapter supplies genuine relative constraints but strongly challenges the claim that those constraints alone identify a unique modern geography. Its generic disaster features, absent distances, and lack of external anchors leave multiple historical and constructed settings viable.
+
+Notes: [[Internal Geographic Constraints in 3 Nephi 8]]
+
 ### bom-1nephi-zedekiah-synchronism
 **Zedekiah-era political setting in 1 Nephi 1 as a historical synchronism** — *none* (supports, evidence_strength 0.1) for: First Nephi 1's Zedekiah and Babylonian-captivity setting provides independent evidence that the narrative derives from an authentic early-sixth-century BCE historical source rather than a Bible-informed nineteenth-century composition.
 
 The Zedekiah-era setting is internally coherent and historically accurate, but because the ruler, crisis, and threatened further captivity were all directly available from 2 Kings 24 to any Bible-literate nineteenth-century author, the synchronism gives almost no independent discrimination for genuine ancient grounding beyond internal plausibility.
 
 Notes: [[Historical Synchronism in 1 Nephi 1]]
+
+### bom-zenos-zenock-intertextual-coherence
+**Zenos and Zenock intertextual linkage between 1 Nephi 19 and 3 Nephi 10** — *strong* (supports, evidence_strength 0.78) for: The final Book of Mormon text deliberately links 3 Nephi 10's destruction narrative with the Zenos-and-Zenock prophetic complex presented in 1 Nephi 19.
+
+The shared prophetic names, Christ-event setting, catastrophe motifs, and appeal to prior writings strongly support deliberate final-form linkage. The evidence does not distinguish ancient shared tradition, editorial harmonization, translation-level coordination, or modern composition.
+
+Notes: [[Internal Intertextual Coherence in 3 Nephi 10]]
