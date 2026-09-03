@@ -94,12 +94,33 @@ The explicit deadline tied to the child's development strongly supports meaningf
 
 Notes: [[Internal Chronological Context in 2 Nephi 17]]
 
+### bom-3nephi3-grievance-narrative-contrast
+**Contrasting political grievance accounts in 3 Nephi 3** — *strong* (supports, evidence_strength 0.75) for: The final text intentionally juxtaposes Giddianhi's grievance claim with the narrator's moral-political rebuttal.
+
+Giddianhi's grievance claim and the immediately adjacent narratorial rebuttal strongly support intentional moral-political contrast in the final text. The contrast does not independently adjudicate the grievance, authenticate the letter, establish historicity, or imply inspiration.
+
+Notes: [[Internal Narrative Contrast in 3 Nephi 3]]
+
 ### bom-1nephi12-vision-fulfillment-correspondence
 **Correspondence between Nephi's vision (1 Nephi 12) and later narrated fulfillments** — *moderate* (supports, evidence_strength 0.48) for: The final-form Book of Mormon deliberately shapes the imagery and sequence of Nephi's vision (destruction, Christophany, generations of righteousness, then contention/defeat) to correspond with the later narrated events in 3 Nephi 8, 3 Nephi 11, 4 Nephi, and Mormon 1, rather than the fit being a loose restatement of the book's own generic destruction/peace/pride template.
 
 The four-beat ordered match across widely separated books moderately supports deliberate final-form narrative design over accidental juxtaposition, but the beats are drawn from the Book of Mormon's own frequently recurring destruction/peace/pride template and span a large cross-book search space, which caps how much specificity the ordering can establish. It gives almost no separate support to genuine pre-event prophecy, antiquity, or historicity, which remain none-band (~0.1), consistent with the neighboring bom-2nephi6-predictive-prophecy and bom-3nephi2-chronological-system entries.
 
 Notes: [[Internal Literary Correspondence in 1 Nephi 12]]
+
+### bom-3nephi1-samuel-signs-correspondence
+**Correspondence between Samuel's birth signs and their fulfillment in 3 Nephi 1** — *strong* (supports, evidence_strength 0.65) for: The final text deliberately makes the reported fulfillment in 3 Nephi 1 correspond to Samuel's announced signs in Helaman 14 in order to vindicate prophetic testimony.
+
+The continuous-light complex, new-star correspondence, and explicit fulfillment language strongly support deliberate final-form vindication of Samuel. Because both sides belong to one literary tradition, this supplies only none-band support for genuine pre-event prophecy, external historicity, or inspiration.
+
+Notes: [[Internal Narrative Correspondence in 3 Nephi 1]]
+
+### bom-alma38-zoramite-narrative-coherence
+**Cross-chapter continuity between the Zoramite mission and Alma's counsel to Shiblon** — *strong* (supports, evidence_strength 0.72) for: The final text deliberately coordinates Alma 38's counsel to Shiblon with the earlier Zoramite mission narrative.
+
+Shiblon's identification with the Zoramite mission and Alma's pointed reversal of Zoramite prayer language strongly support deliberate cross-chapter coordination. This literary finding does not distinguish ancient record-keeping from editorial or nineteenth-century composition and provides no independent support for historicity or inspiration.
+
+Notes: [[Internal Narrative Coherence in Alma 38]]
 
 ### bom-alma43-defensive-war-framing
 **Defensive-war framing within Alma 43** — *strong* (supports, evidence_strength 0.7) for: Alma 43's narrator normatively frames Nephite violence in this particular battle as justified by defense of community goods and constrained when the enemy is overcome.
@@ -241,6 +262,13 @@ The right-period South Arabian NHM tribal attestation near Ma'rib is a real, int
 
 Notes: [[Nahom and the NHM altars]]
 
+### bom-alma16-prophecy-fulfillment-correspondence
+**Narrative fulfillment of Alma's military prophecy in Alma 16** — *strong* (supports, evidence_strength 0.84) for: The final text deliberately presents the campaign in Alma 16:7–8 as the fulfillment and vindication of Alma's prediction in Alma 16:6.
+
+The immediate repetition of route and encounter details strongly supports deliberate in-narrative vindication of Alma's prophetic authority. Because prediction and outcome come through one narrative witness, the correspondence supplies only none-band support for genuine pre-event revelation, historical occurrence, or inspiration.
+
+Notes: [[Internal Narrative Consistency in Alma 16]]
+
 ### pgp-abraham-premortal-existence-doctrine
 **Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own assertion, that premortal personal existence is metaphysically real and/or ancient in origin.
 
@@ -282,6 +310,13 @@ Notes: [[Internal Literary Structure in Joseph Smith—Matthew 1]]
 The near-verbatim match to Luke 22:31 is real and unlikely to be coincidental, but it is one instance of the Book of Mormon's pervasive KJV-influenced diction (the same underlying mechanism as the Isaiah-dependence issue), and an ancient saying rendered into KJV idiom, a loose translation, and outright 19th-century composition all predict the same wording about equally well, so it only weakly discriminates between models of the text's origin.
 
 Notes: [[Distinctive Verbal Parallel in 3 Nephi 18]]
+
+### bom-ether11-curse-fulfillment-correspondence
+**Warning-and-calamity correspondence in Ether 11** — *strong* (supports, evidence_strength 0.8) for: The final text deliberately presents the wars, famines, pestilences, and destruction in Ether 11:7 as fulfillment of the prophetic warning in Ether 11:6.
+
+The adjacency, causal narration, and repeated destruction language strongly support an intentional warning-and-fulfillment frame. The conventional calamity cluster and single narrative witness provide no independent support for historicity, genuine foreknowledge, divine causation, ancient provenance, or inspiration.
+
+Notes: [[Internal Narrative Correspondence in Ether 11]]
 
 ### bom-4nephi-wealth-apostasy-pattern
 **Wealth, inequality, and apostasy as a deliberate literary pattern in 4 Nephi** — *strong* (supports, evidence_strength 0.82) for: The final-form narrative of 4 Nephi deliberately places the transition from shared goods to status display, class division, gain-seeking churches, and hoarded wealth as literary markers of communal apostasy, rather than the wealth language being incidental to a bare chronological report.
