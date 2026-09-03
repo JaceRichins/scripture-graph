@@ -23,7 +23,11 @@ Scripture: [[3 Nephi 22]] · My notes: [[3 Nephi 22 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The oracle develops in three movements:
+
+- **Expansion after barrenness (vv.1-3):** The childless woman is commanded to sing and enlarge her tent in anticipation of descendants and renewed habitation.
+- **Reconciliation after estrangement (vv.4-10):** Shame and momentary forsaking give way to gathering, everlasting kindness, and an immovable covenant of peace, guaranteed by analogy to God's oath after Noah's flood.
+- **Rebuilding and security (vv.11-17):** The storm-tossed city receives jeweled foundations, taught children, righteousness, and assurance that hostile weapons and accusations will not finally prevail.
 <!-- SG:END structure -->
 
 ## People
@@ -45,20 +49,28 @@ _Not yet developed._
 - [[Obadiah 1]] — 1 footnote cross-reference (from [[3 Nephi 22#^3ne-22-3|3 Nephi 22:3]])
 - [[Joel 2]] — 1 footnote cross-reference (from [[3 Nephi 22#^3ne-22-4|3 Nephi 22:4]])
 - [[2 Nephi 6]] — 1 footnote cross-reference (from [[3 Nephi 22#^3ne-22-4|3 Nephi 22:4]])
-- [[Isaiah 54]] — 17 parallel verses, e.g. [[3 Nephi 22#^3ne-22-1|3 Nephi 22:1]] ↔ [[Isaiah 54#^isa-54-1|Isaiah 54:1]]
 - [[Zechariah 12]] — 1 parallel verse, e.g. [[3 Nephi 22#^3ne-22-3|3 Nephi 22:3]] ↔ [[Zechariah 12#^zech-12-6|Zechariah 12:6]]
+- [[Isaiah 54]] — 0 parallel verses
+- [[Genesis 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Covenants]]
+- [[Jews and Gentiles]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Ten Commandments]] *(keyword match — unconfirmed)*
+- [[Prophecy]] *(keyword match — unconfirmed)*
+- [[Scattering of Israel]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter grounds [[Covenants]] in the Lord's own character rather than Israel's merit: his kindness is compared directly to his post-Flood oath (v.9), an explicit analogy to Genesis 9, not an incorporation of Israel into the flood covenant's terms. The 'husband'/'Redeemer' language (v.5) casts the Lord's relationship to a scattered people in marital terms — a corporate covenant metaphor for national/covenantal loyalty (paralleled elsewhere in Hosea, Jeremiah, and Ezekiel), distinct from doctrines about individual [[Eternal Marriage]].
+
+The security promised in vv.15-17 is often overread as guaranteeing personal physical safety. The text itself concedes that enemies will gather, weapons will be formed, and accusations will be voiced (v.15); the promise is that such opposition will not *finally* prosper against the Lord's servants, not that conflict or suffering will be absent.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -86,20 +98,29 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+A solitary barren woman becomes a mother of many; her tent expands into inhabited cities; the forsaken wife becomes a jeweled city whose children enjoy peace; the address finally broadens to "the servants of the Lord." The poetry runs on temporal contrasts — a "small moment" against "great mercies," "a little wrath" against "everlasting kindness," removable mountains against an unremoved covenant — emphasizing the disproportion between brief affliction and enduring mercy. Verse 3's "right hand and...left" functions as a merism for expansive, unrestricted growth. These are real patterns in the text; no formal chiastic or numerological structure beyond this is claimed.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Explicit Scriptural Intertext
+> The verse-for-verse correspondence between 3 Nephi 22 and Isaiah 54, together with the introductory reference to what is written, is very strong evidence of a deliberate literary relationship with Isaiah 54.
+> — strength 0.9 · confidence 0.9 · strongest evidence claim; confirmed by overlap index · [[Explicit Scriptural Intertext in 3 Nephi 22|full dossier]]
+
+> [!evidence] Textual/Literary Parallel
+> The chapter's near-total wording match with the King James rendering of Isaiah 54 is real and mechanically checkable evidence of a direct textual relationship between the Book of Mormon text and the Isaiah tradition preserved in the KJV. This textual dependency is consistent with more than one explanatory model of the Book of Mormon's origin and translation, and the wording match alone does not settle the historical question between them.
+> — strength 0.8 · confidence 0.9 · well-hedged evidence claim, declines to adjudicate origin · [[Textual/Literary Parallel in 3 Nephi 22|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+1. Who is the feminine singular addressee, and what evidence beyond this chapter supports identifying her with [[Zion]] or Israel?
+2. How does the comparison to God's oath concerning Noah (v.9) shape — and possibly limit — the meaning of the covenant promise?
+3. How should the "husband" metaphor (v.5) be read as describing a covenant relationship with a people, rather than imported into teachings about individual marriage?
+4. What register does "no weapon formed against thee shall prosper" (v.17) operate in — physical safety, ultimate vindication, or both — given that v.15 concedes hostile gathering will occur?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the chapter directly with [[Isaiah 54]], noting both its placement in 3 Nephi and its progression from barrenness to covenant security. [[Isaiah 49]] offers a related image of a desolate woman receiving more children than expected. [[Galatians 4]] also uses Isaiah's barren-woman saying, but within a distinct argument; comparing the applications helps separate the wording of the oracle from later interpretations of it.
 <!-- SG:END further-study -->
