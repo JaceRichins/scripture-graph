@@ -48,7 +48,6 @@ Jacob, having already taught the Nephites extensively (v.3), turns to a direct r
 - [[2 Nephi 11]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]])
 - [[Jacob 2]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]])
 - [[Isaiah 49]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]])
-- [[Isaiah 49]] — 5 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
 - [[1 Nephi 21]] — 5 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]]
 - [[1 Nephi 22]] — 4 parallel verses, e.g. [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]] ↔ [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]]
 - [[1 Nephi 19]] — 3 parallel verses, e.g. [[2 Nephi 6#^2ne-6-9|2 Nephi 6:9]] ↔ [[1 Nephi 19#^1ne-19-8|1 Nephi 19:8]]
@@ -60,6 +59,7 @@ Jacob, having already taught the Nephites extensively (v.3), turns to a direct r
 - [[Ezekiel 37]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
 - [[Jacob 2]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]] ↔ [[Jacob 2#^jacob-2-1|Jacob 2:1]]
 - [[2 Nephi 1]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-12|2 Nephi 6:12]] ↔ [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]]
+- [[1 Nephi 15]] — 1 parallel verse, e.g. [[2 Nephi 6#^2ne-6-11|2 Nephi 6:11]] ↔ [[1 Nephi 15#^1ne-15-14|1 Nephi 15:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +67,7 @@ Jacob, having already taught the Nephites extensively (v.3), turns to a direct r
 - [[Scattering of Israel]]
 - [[Jews and Gentiles]]
 - [[Crucifixion of Jesus Christ]]
+- [[2 Nephi 9]]
 - [[Covenants]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
@@ -75,7 +76,7 @@ Jacob, having already taught the Nephites extensively (v.3), turns to a direct r
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-The chapter's core doctrinal content concerns [[Jews and Gentiles]], the [[Gathering of Israel]] and [[Scattering of Israel]], and [[Covenants]]. Verse 9 records — well before the events described — that the Holy One of Israel would 'manifest himself...in the flesh' and then be scourged and crucified, one of the Book of Mormon's clearest pre-New-Testament statements about the [[Crucifixion of Jesus Christ]]. Verses 14-15 anticipate a 'second time' recovery in power, tied to belief versus destruction — commonly associated with the [[Second Coming of Jesus Christ]], though the chapter itself doesn't use that later doctrinal label. Gentile blessing (v.12) is explicitly conditional: repentance, refusing to fight [[Zion]], and not joining 'that great and abominable church' — three conditions, not Gentile identity itself. Verse 11 also gives [[Prayer]] a communal dimension, attributing the preservation of the scattered to 'the prayers of the faithful.'
+The chapter's core doctrinal content concerns [[Jews and Gentiles]], the [[Gathering of Israel]] and [[Scattering of Israel]], and [[Covenants]]. Verse 9 records — well before the events described — that the Holy One of Israel would 'manifest himself...in the flesh' and then be scourged and crucified, one of the Book of Mormon's clearest pre-New-Testament statements about the [[Crucifixion of Jesus Christ]]. Because this is narrated as prophecy given before the events it describes, its force as external evidence of predictive prophecy depends on questions of the text's date and composition that this chapter alone cannot settle. Verses 14-15 anticipate a 'second time' recovery in power, tied to belief versus destruction — commonly associated with the [[Second Coming of Jesus Christ]], though the chapter itself doesn't use that later doctrinal label or specify its chronology. Gentile blessing (v.12) is explicitly conditional: repentance, refusing to fight [[Zion]], and not joining 'that great and abominable church' — three conditions, not Gentile identity itself. Verse 11 also gives [[Prayer]] a communal dimension, attributing the preservation of the scattered to 'the prayers of the faithful.'
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -92,35 +93,41 @@ The chapter's core doctrinal content concerns [[Jews and Gentiles]], the [[Gathe
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-Jacob's repeated verbs—read, speak, show, wait, believe, scatter, and gather—mark the chapter's movement from received revelation to interpretation and response. “Liken” in verse 5 describes an application of Isaiah to Jacob's audience, not necessarily a claim that the prophecy refers only to them. “Second time” in verse 14 describes another recovery, but this chapter alone does not specify its precise chronology or settle its relationship to the [[Second Coming of Jesus Christ]].
+Jacob's repeated verbs—read, speak, show, wait, believe, scatter, and gather—mark the chapter's movement from received revelation to interpretation and response. "Liken" in verse 5 describes an application of Isaiah to Jacob's audience, not necessarily a claim that Isaiah addressed only them. "Second time" in verse 14 describes another recovery, but this chapter alone does not specify its precise chronology or settle its relationship to the [[Second Coming of Jesus Christ]].
+
+In the Hebrew underlying Isaiah 49:22 (quoted in v.6), the noun rendered "standard" corresponds to *nes* (also translated banner, signal, or ensign elsewhere in Isaiah), and the verb rendered "lift up" comes from *nasa*, a root whose wider range includes bearing and, in some constructions, forgiving iniquity (e.g. Exodus 34:7). In this verse, however, *nasa* governs "hand" — the ordinary construction for raising up, not the sin-bearing idiom — so a "lift up/forgive" wordplay is plausible as homiletic association but is not established as Isaiah's intended meaning here.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-Jacob names his interpretive method before quoting Isaiah: the words 'may be likened' unto his hearers (v.5) because they are of the house of Israel — an application to a new audience that doesn't necessarily deny Isaiah's original address to 'all the house of Israel.' The discourse embeds Jacob's own interpretation between two portions of Isaiah 49 (vv.6-7, vv.16-18), making deliverance of the covenant people the controlling frame; the closing rhetorical question (v.16, 'shall the prey be taken from the mighty...?') is directly answered in v.17, preserving Isaiah's own question-answer oracle form. The distinctive phrase 'lick up the dust of...feet' / 'not ashamed' / 'wait for' links v.7 and v.13, though whether this is deliberate literary echo or simply Jacob repeating language he had just quoted is not something the text settles. The correspondence with [[Isaiah 49]] is strong textual evidence of direct scriptural reuse, but it does not by itself establish the historical mechanism or antiquity of that reuse.
+Jacob names his interpretive method before quoting Isaiah: the words 'may be likened' unto his hearers (v.5) because they are of the house of Israel — an application to a new audience that doesn't necessarily deny Isaiah's original address to 'all the house of Israel.' The discourse embeds Jacob's own interpretation between two portions of Isaiah 49 (vv.6-7, vv.16-18), making deliverance of the covenant people the controlling frame; the closing rhetorical question (v.16, 'shall the prey be taken from the mighty...?') is directly answered in v.17, preserving Isaiah's own question-answer oracle form. The distinctive phrase 'lick up the dust of...feet' / 'not ashamed' / 'wait for' links v.7 and v.13, though whether this is deliberate literary echo or simply Jacob repeating language he had just quoted is not something the text settles. The correspondence with [[Isaiah 49]] is strong textual evidence of direct scriptural reuse, but it does not by itself establish the historical mechanism or antiquity of that reuse. Verse 17 also runs somewhat fuller than the corresponding KJV Isaiah 49:25 clause; this wording difference is observable, but nothing in the text indicates whether it originates with Jacob, a source variant, or ordinary paraphrase.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
+> [!evidence] Internal Chronological Evidence
+> Within the Book of Mormon's narrative chronology, Jacob's statement about the Messiah's scourging and crucifixion is presented as a prophecy before those events. Its force as external evidence of predictive prophecy depends on independently establishing the text's date and history of composition.
+> — strength 0.2 · confidence 0.9 · epistemically careful, deliberately low evidence_strength · [[Internal Chronological Evidence in 2 Nephi 6|full dossier]]
+
 > [!evidence] Textual Intertextuality
 > The material in 2 Nephi 6:6-7 and 6:16-18 closely corresponds to Isaiah 49:22-26, corroborating the chapter's explicit presentation of Isaiah as its scriptural source. The final portion includes explanatory or expanded wording, so the relationship should not be described as mechanically verbatim throughout.
 > — strength 0.9 · confidence 1.0 · affirmed and independently checked by critique against KJV Isaiah 49 · [[Textual Intertextuality in 2 Nephi 6|full dossier]]
 
+> [!evidence] Textual Correspondence
+> The sustained correspondence with Isaiah 49 is strong evidence of direct literary reuse or dependence at the textual level. It does not, by itself, identify when or by what historical mechanism that reuse occurred.
+> — strength 0.8 · confidence 0.9 · broadly accepted · [[Textual Correspondence in 2 Nephi 6|full dossier]]
+
+> [!evidence] Linguistic/Lexical *(tentative)*
+> The Hebrew root nasa (נשא), which underlies 'lift up' in Isaiah 49:22 ('I will lift up mine hand'), does carry a distinct idiomatic sense of 'bear/forgive' in other constructions such as nasa avon ('forgive iniquity,' e.g. Exodus 34:7, Psalm 32:1). This makes the followHIM claim about a nasa 'lift up'/'forgive' double meaning lexically plausible in the general sense that the root is polysemous, but it is weaker as a claim about authorial intent in this specific verse, since here nasa governs 'hand' (yad), the same construction used elsewhere in the Hebrew Bible unambiguously for 'raise, lift up' rather than 'forgive.'
+> — strength 0.3 · confidence 0.3 · speculative wordplay, correctly hedged but redundant with B's stronger version
+
+> [!evidence] Linguistic/Lexical *(tentative)*
+> The Hebrew word ness/nes (נֵס) — attested in the Masoretic text of Isaiah 49:22 ('אָרִים נִסִּי', lit. 'I will raise up my standard/ensign') — is documented in standard Hebrew lexicons as meaning 'banner, standard, signal-pole,' and is the same root used elsewhere in Isaiah for 'ensign' (e.g., Isaiah 11:12, 13:2) and in the Numbers 21 narrative of the bronze serpent lifted on a pole. This corroborates the followHIM claim that the Hebrew underlying 'my standard' in the source text behind 2 Nephi 6:6 is this word.
+> — strength 0.6 · confidence 0.6 · correct but weaker-sourced duplicate of B:nes-standard
+
 > [!evidence] Internal Predictive Prophecy *(tentative)*
 > 2 Nephi 6:9-10 is presented within the text as a specific pre-crucifixion prophecy of Christ's scourging and crucifixion, dated by the chapter heading to roughly 559-545 B.C.; within the narrative's own claims this functions as predictive prophecy, but the evidentiary weight of this for readers outside the text's own framework is limited by the fact that the document's composition/translation history is itself disputed.
 > — strength 0.2 · confidence 0.7 · honest evidentiary-layer framing; inherently contested
-
-> [!evidence] Literary Structure *(tentative)*
-> The inclusio pattern identified in c4/c5 (repeated 'lick the dust,' 'not ashamed,' 'wait for' phrases bracketing vv.6-13) is consistent with deliberate editorial/literary shaping of the discourse, but the same evidence is also consistent with Jacob simply echoing memorable phrases from the Isaiah text he had just read aloud, without any deliberate structuring intent.
-> — strength 0.3 · confidence 0.5 · inherits c5's flawed 'inclusio' framing but conclusion is hedged
-
-> [!evidence] Evidence *(tentative)*
-> The Hebrew word translated 'standard' in 2 Nephi 6:6 is ness, the same word usually translated 'ensign' elsewhere in the Old Testament.
-> — confidence medium · secondary-claim
-
-> [!evidence] Evidence *(tentative)*
-> In 2 Nephi 6:6 (quoting Isaiah 49), the Hebrew word translated 'lift up' is nasa, which as a root word also carries the meaning 'to forgive.'
-> — confidence medium · secondary-claim
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
@@ -131,6 +138,7 @@ Jacob names his interpretive method before quoting Isaiah: the words 'may be lik
 - Does 'the second time' (v.14) name a single event, a prolonged process, or a typological pattern — and what evidence beyond this chapter would be needed to decide?
 - How should the violent imagery of vv.15,18 be read: literally, as apocalyptic/poetic convention inherited from Isaiah, or otherwise?
 - What does 'that great and abominable church' (v.12) mean in Jacob's own usage, versus how later Nephite writers (e.g., 1 Nephi 22) use the same phrase?
+- What evidence would be required before treating the semantic range of *nasa* (v.6) as an intended 'lift up/forgive' wordplay rather than homiletic association?
 <!-- SG:END questions -->
 
 ## Further Study
