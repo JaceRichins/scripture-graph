@@ -4506,6 +4506,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-32-2553f029",
+   "t": "Sennacherib's invasion of Judah and siege of Jerusalem",
+   "y0": -701,
+   "y1": -701,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Dated via Assyrian royal annals (Sennacherib's Prism), which place this campaign in Sennacherib's third regnal year, cross-checked against Assyrian eponym lists.",
+   "chapters": [
+    "2 Chronicles 32"
+   ],
+   "people": [
+    "Hezekiah",
+    "Sennacherib",
+    "Isaiah (prophet)"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-2chr-34-ea14ec68",
    "t": "Discovery of the book of the law (18th year)",
    "y0": -623,
@@ -4609,6 +4634,56 @@ timeline module, not this file._
    "places": [
     "Jerusalem",
     "Babylon"
+   ]
+  },
+  {
+   "id": "r-2chr-5-611aaf62",
+   "t": "Dedication of Solomon's Temple and installation of the Ark",
+   "y0": -959,
+   "y1": -959,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally placed after temple construction was completed in Solomon's 11th regnal year (cf. 1 Kings 6:38), with the ark procession occurring at the feast of the seventh month.",
+   "chapters": [
+    "2 Chronicles 5"
+   ],
+   "people": [
+    "Solomon"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Ark of the Covenant"
+   ]
+  },
+  {
+   "id": "r-2cor-11-77f9cb3a",
+   "t": "Paul's escape from Damascus under Aretas IV",
+   "y0": 34,
+   "y1": 39,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Nabatean king Aretas IV Philopator died c. AD 39/40, giving a rough terminus ante quem for this episode; the exact date and the nature of Aretas's authority over Damascus remain disputed among historians.",
+   "chapters": [
+    "2 Corinthians 11"
+   ],
+   "people": [
+    "Paul (Apostle)",
+    "Aretas IV (Nabatean king)"
+   ],
+   "places": [
+    "Damascus"
    ]
   },
   {

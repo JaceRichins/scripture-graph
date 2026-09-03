@@ -39,6 +39,7 @@ _Not yet developed._
 - **874 BC–853 BC** — Ahab's wars with Ben-hadad of Syria · [[1 Kings 20]] · [[900-801 BC]] *(traditional dating)*
 - **734 BC–722 BC** — Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria · [[Isaiah 8]] · [[800-701 BC]] *(historical)*
 - **732 BC** — Assyrian conquest of Damascus and death of Rezin · [[2 Kings 16]] · [[800-701 BC]] *(historical)*
+- **AD 34–AD 39** — Paul's escape from Damascus under Aretas IV · [[2 Corinthians 11]] · [[AD 1-100]] *(approximate)*
 - **AD 35** — Saul on the Damascus road · [[Acts 9]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

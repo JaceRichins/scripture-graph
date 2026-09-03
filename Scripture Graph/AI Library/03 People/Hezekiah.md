@@ -44,6 +44,7 @@ _Not yet developed._
 - **715 BC–686 BC** — Hezekiah's Scribes Compile Solomon's Proverbs · [[Proverbs 25]] · [[800-701 BC]] *(traditional dating)*
 - **703 BC–700 BC** — Hezekiah's illness, sign, and the Babylonian embassy · [[2 Kings 20]] · [[800-701 BC]] *(approximate)*
 - **701 BC** — Jerusalem spared from Sennacherib · [[2 Kings 19]] · [[Isaiah 37]] · [[800-701 BC]] *(historical)*
+- **701 BC** — Sennacherib's invasion of Judah and siege of Jerusalem · [[2 Chronicles 32]] · [[800-701 BC]] *(historical)*
 - **701 BC** — Sennacherib's campaign against Jerusalem · [[Isaiah 37]] · [[800-701 BC]] *(historical)*
 - **697 BC–642 BC** — Manasseh's 55-year reign over Judah · [[2 Kings 21]] · [[700-601 BC]] *(approximate)*
 - **697 BC–642 BC** — Reign of Manasseh, king of Judah, in Jerusalem · [[Jeremiah 15]] · [[700-601 BC]] *(traditional dating)*
