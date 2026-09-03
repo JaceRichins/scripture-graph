@@ -89,7 +89,13 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Historical/Archaeological Background *(tentative)*
+> Ephesus had a well-documented ancient reputation as a center of magical texts and incantations (the so-called "Ephesia grammata" associated with the Artemis/Diana cult, referenced by later classical writers such as Pausanias and Clement of Alexandria), which lends historical plausibility to the reference to Ephesian believers burning books of "curious arts."
+> — strength 0.5 · confidence 0.6 · accepted observation / disputed interpretation
+
+> [!evidence] Historical/Philological Corroboration *(tentative)*
+> The townclerk's speech uses precise Ephesian civic and legal vocabulary — a "townclerk" (grammateus, an actual Ephesian civic office attested in inscriptions), "deputies" (proconsuls), and a "lawful assembly" as distinct from the unruly crowd in the theatre — details cited by some historians as consistent with accurate local knowledge of first-century Ephesus.
+> — strength 0.5 · confidence 0.6 · believing scholarship
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
