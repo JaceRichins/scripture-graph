@@ -23,7 +23,17 @@ Scripture: [[1 Nephi 3]] · My notes: [[1 Nephi 3 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Commission and response (vv. 1–8):** Lehi reports the command; Nephi declares that God prepares a way.
+
+2. **First attempt (vv. 9–14):** The lot falls to Laman, whose request ends in accusation and a death threat.
+
+3. **Renewed commitment (vv. 15–21):** Nephi swears not to return without fulfilling the command and explains why the records matter.
+
+4. **Second attempt (vv. 22–27):** The brothers offer their wealth; Laban takes it and sends servants to kill them.
+
+5. **Fraternal violence and angelic intervention (vv. 28–31):** An angel stops the beating and promises deliverance, yet murmuring immediately resumes.
+
+This unfinished ending makes [[1 Nephi 3]] and [[1 Nephi 4]] a tightly connected narrative unit.
 <!-- SG:END structure -->
 
 ## People
@@ -57,19 +67,24 @@ _Not yet developed._
 - [[2 Nephi 4]] — 2 parallel verses, e.g. [[1 Nephi 3#^1ne-3-8|1 Nephi 3:8]] ↔ [[2 Nephi 4#^2ne-4-10|2 Nephi 4:10]]
 - [[3 Nephi 26]] — 2 parallel verses, e.g. [[1 Nephi 3#^1ne-3-12|1 Nephi 3:12]] ↔ [[3 Nephi 26#^3ne-26-11|3 Nephi 26:11]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[1 Nephi 3#^1ne-3-20|1 Nephi 3:20]] ↔ [[D&C 27#^dc-27-6|D&C 27:6]]
+- [[1 Nephi 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Obedience]]
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
-- [[Angels]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]]
+- [[Angels]]
+- [[Prophecy]]
+- [[Endurance]]
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter's treatment of [[Obedience]] includes initiative, persuasion, sacrifice, and persistence after failure. Nephi's confidence in verse 7 is not portrayed as a guarantee that the first reasonable plan will succeed. The chapter therefore connects [[Faith]] with continued action under uncertainty.
+
+The rationale for obtaining the plates also gives [[Records and Sacred Writings]] an intergenerational function: they preserve both language and prophetic teaching. The closing scene adds a caution about [[Angels]] and signs: even a direct supernatural interruption does not automatically produce lasting trust.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -101,25 +116,39 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Directional language forms a recurring pattern: the brothers go **up** to Jerusalem and Laban's house and **down** toward the wilderness or their inheritance. This is geographically coherent with Jerusalem's highland setting, though it is not strong independent evidence for antiquity because biblical English uses the same convention.
+
+Nephi's “As the Lord liveth, and as we live” functions as a solemn oath. Its resemblance to biblical oath language clarifies the force of his commitment, but the resemblance alone cannot determine whether the wording comes from an ancient source or biblical-style English.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter repeatedly reverses appearances. Laban labels Laman a robber, then takes the brothers' property and tries to have them killed. Nephi is socially the younger brother, yet the angel names him as a future ruler. Laban appears formidable because he can command fifty, yet the angel declares that his fate is subject to divine deliverance.
+
+The narrative also places Nephi's confident declaration near the beginning and two failures after it. That arrangement tests the meaning of the declaration: the promised way emerges through a sequence, not as effortless or immediate success.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Source Criticism / Narrator Bias *(tentative)*
+> The claim that an angel named Nephi as future ruler over his older brothers is preserved solely in Nephi's own first-person record, written after the succession dispute had already played out in his favor; this reduces its evidentiary weight as an independent historical report and raises the possibility of retrospective legitimation.
+> — strength 0.3 · confidence 0.7 · legitimate but incompletely documented source criticism
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does “prepare a way” in verse 7 promise an easy method, or only the eventual possibility of fulfilling the command?
+
+- Why does Nephi justify the mission by appealing both to family genealogy and to prophetic words?
+
+- What does Laban's accusation in verse 13 contribute to the moral irony of verses 25–26?
+
+- Why does the angelic appearance stop the beating but fail to end the murmuring?
+
+- How does the contrast between the Lord's promise and Laban's “fifty” frame the competing ideas of power at the chapter's close?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[1 Nephi 4]] as the completion of the unfinished mission and [[1 Nephi 5]] for Lehi's examination of the plates. Compare 1 Nephi 3:7 with 1 Nephi 17:3, where Nephi later states that God strengthens and provides means for those who keep the commandments. Compare the angel's announcement in 1 Nephi 3:29 with the earlier ruler-and-teacher promise in 1 Nephi 2:22.
 <!-- SG:END further-study -->
