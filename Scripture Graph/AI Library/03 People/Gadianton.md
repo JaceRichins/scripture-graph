@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **50 BC–26 BC** — Gadianton's secret combinations rise · [[Helaman 2]] · [[Helaman 6]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **AD 201–AD 321** — Fragmentation into rival churches, tribal factions, and Gadianton's return · [[4 Nephi 1]] · [[AD 201-300]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

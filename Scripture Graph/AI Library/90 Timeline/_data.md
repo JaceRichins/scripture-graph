@@ -5929,6 +5929,120 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-3ne-6-153854b0",
+   "t": "Nephite prosperity, pride, and apostasy (3 Nephi 6)",
+   "y0": 26,
+   "y1": 30,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "rulers"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Years are counted internally in the text from the sign of Christ's birth ('the twenty and sixth year' through 'the thirtieth year').",
+   "chapters": [
+    "3 Nephi 6"
+   ],
+   "people": [
+    "Lachoneus (son)",
+    "Gidgiddoni"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "Nephite judgeship"
+   ]
+  },
+  {
+   "id": "r-3ne-6-1a3eb27c",
+   "t": "Postwar restoration and descent into conspiracy",
+   "y0": 26,
+   "y1": 30,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "rulers"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "The chapter's own year markers place resettlement in year 26, disputation in year 29, and extreme wickedness and conspiracy at the beginning of year 30.",
+   "chapters": [
+    "3 Nephi 6"
+   ],
+   "people": [
+    "Gidgiddoni",
+    "Lachoneus",
+    "Jesus Christ",
+    "Satan"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "laws",
+    "highways"
+   ]
+  },
+  {
+   "id": "r-3ne-7-b92fce66",
+   "t": "Nephite government collapses; Nephi's three-year ministry of repentance",
+   "y0": 30,
+   "y1": 33,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Explicit internal year markers tied to the Nephite calendar reckoned from the sign of Christ's birth (3 Nephi 7:1, 13, 14, 21, 23, 26).",
+   "chapters": [
+    "3 Nephi 7"
+   ],
+   "people": [
+    "Nephi (son of Nephi)",
+    "Jacob (self-proclaimed king of the secret combination)"
+   ],
+   "places": [
+    "Northernmost part of the Nephite lands"
+   ]
+  },
+  {
+   "id": "r-3ne-8-dfe6352d",
+   "t": "Destruction at the opening of the thirty-fourth year",
+   "y0": 34,
+   "y1": 34,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "3 Nephi 8:2 says the thirty-third year had passed, and 3 Nephi 8:5 dates the storm to the fourth day of the first month of the thirty-fourth year.",
+   "chapters": [
+    "3 Nephi 8"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Samuel the Lamanite"
+   ],
+   "places": [
+    "Zarahemla",
+    "Moronihah"
+   ],
+   "things": [
+    "three-day darkness",
+    "great destruction"
+   ]
+  },
+  {
    "id": "r-3ne-9-65739377",
    "t": "Voice of Christ in the darkness after the great destruction",
    "y0": 34,
@@ -5944,6 +6058,54 @@ timeline module, not this file._
    "note": "Placed by the Nephite record within the darkness following the crucifixion-related destruction, itself dated to the thirty-fourth year since the sign of Christ's birth (per the surrounding 3 Nephi narrative).",
    "chapters": [
     "3 Nephi 9"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Zarahemla"
+   ]
+  },
+  {
+   "id": "r-4ne-1-0da22d01",
+   "t": "Fragmentation into rival churches, tribal factions, and Gadianton's return",
+   "y0": 201,
+   "y1": 321,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "records"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "4 Nephi 1:24, 1:35, 1:42, and 1:48 date the onset of pride, the great division into believer/unbeliever factions, Gadianton's resurgence, and Ammaron hiding the sacred records.",
+   "chapters": [
+    "4 Nephi 1"
+   ],
+   "people": [
+    "Gadianton",
+    "Ammaron"
+   ],
+   "places": [
+    "Zarahemla"
+   ]
+  },
+  {
+   "id": "r-4ne-1-e663cd3b",
+   "t": "Nephite-Lamanite golden age of Christian unity",
+   "y0": 36,
+   "y1": 200,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Internal year-markers in 4 Nephi 1:2, 1:18, and 1:22 count years from Christ's appearance in the Nephite calendar and describe sustained unity and peace.",
+   "chapters": [
+    "4 Nephi 1"
    ],
    "people": [
     "Jesus Christ"
