@@ -17,13 +17,20 @@ Scripture: [[3 Nephi 19]] · My notes: [[3 Nephi 19 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> The twelve disciples minister unto the people and pray for the Holy Ghost—The disciples are baptized and receive the Holy Ghost and the ministering of angels—Jesus prays using words that cannot be written—He attests to the exceedingly great faith of these Nephites. About A.D. 34.
+The chapter moves from public witness to organized ministry and then to sustained prayer. News of Jesus spreads overnight, the twelve teach his words, and the disciples seek the [[Gift of the Holy Ghost]]. Following [[Baptism]], they receive the Holy Ghost, are encircled as if by fire, and receive angelic ministry. Jesus then returns and prays repeatedly for the disciples and for future believers. The closing emphasis is not merely on spectacular manifestations but on [[Faith]], purification in Christ, and unity with the Father and Son.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Gathering and preparation (vv. 1–8):** The first multitude spreads the news; a larger crowd gathers, is divided into twelve bodies, and receives Jesus' words through the disciples.
+
+2. **Desire, baptism, and divine manifestation (vv. 9–15):** The disciples pray for the Holy Ghost, are baptized, receive the Spirit and fire, and are ministered to by angels before Jesus appears.
+
+3. **Corporate prayer (vv. 16–18):** Jesus commands the multitude and disciples to kneel; the disciples pray directly to him.
+
+4. **Three prayers of Jesus (vv. 19–34):** Jesus withdraws and prays, returns to the still-praying disciples, and withdraws again. His first two recorded prayers emphasize the Holy Ghost, future believers, purification, and unity. The third cannot be reproduced in human language.
+
+5. **Assessment of faith (vv. 35–36):** Jesus interprets the extraordinary manifestations in terms of the people's exceptional faith.
 <!-- SG:END structure -->
 
 ## People
@@ -49,10 +56,8 @@ _Not yet developed._
 - [[3 Nephi 11]] — 2 footnote cross-references (from [[3 Nephi 19#^3ne-19-11|3 Nephi 19:11]])
 - [[John 17]] — 2 footnote cross-references (from [[3 Nephi 19#^3ne-19-23|3 Nephi 19:23]])
 - [[3 Nephi 7]] — 1 footnote cross-reference (from [[3 Nephi 19#^3ne-19-4|3 Nephi 19:4]])
-- [[3 Nephi 17]] — 4 parallel verses, e.g. [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]] ↔ [[3 Nephi 17#^3ne-17-18|3 Nephi 17:18]]
 - [[Mormon 9]] — 4 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
 - [[3 Nephi 28]] — 3 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[3 Nephi 28#^3ne-28-30|3 Nephi 28:30]]
-- [[3 Nephi 18]] — 3 parallel verses, e.g. [[3 Nephi 19#^3ne-19-35|3 Nephi 19:35]] ↔ [[3 Nephi 18#^3ne-18-36|3 Nephi 18:36]]
 - [[D&C 50]] — 3 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[D&C 50#^dc-50-31|D&C 50:31]]
 - [[Alma 8]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-13|3 Nephi 19:13]] ↔ [[Alma 8#^alma-8-30|Alma 8:30]]
 - [[Ether 5]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]] ↔ [[Ether 5#^ether-5-5|Ether 5:5]]
@@ -61,10 +66,13 @@ _Not yet developed._
 - [[Ether 15]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-4|3 Nephi 19:4]] ↔ [[Ether 15#^ether-15-17|Ether 15:17]]
 - [[D&C 35]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-23|3 Nephi 19:23]] ↔ [[D&C 35#^dc-35-2|D&C 35:2]]
 - [[John 11]] — 2 parallel verses, e.g. [[3 Nephi 19#^3ne-19-20|3 Nephi 19:20]] ↔ [[John 11#^john-11-41|John 11:41]]
+- [[John 17]] — 0 parallel verses
+- [[3 Nephi 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[The Godhead]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
@@ -74,7 +82,11 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+This chapter narrates [[Baptism]] followed by the falling of the Holy Ghost "with fire" (v. 13) — a sequence the text states plainly, though it does not itself spell out a causal mechanism; the disciples' desire for the [[Gift of the Holy Ghost]] (v. 9), their [[Prayer]], and their faith all accompany the ordinance, so the passage should not be reduced to "baptism causes the Spirit" alone.
+
+Jesus's repeated petitions that the disciples — and "all them that shall believe in their words" (v. 21) — be purified through faith and "be one" as he is one with the Father (vv. 23, 28-29) are among the Book of Mormon's clearest statements on the unity of [[The Godhead]] and on the link between [[Faith]] and purification ([[Justification and Sanctification]]). The text suggests but does not define the nature of that oneness (relational, moral, or otherwise), and should not be forced into a single systematic reading.
+
+The disciples pray directly to Jesus, calling him "their Lord and their God" (v. 18), while Jesus prays to the Father — a juxtaposition relevant to Godhead doctrine that this chapter raises without resolving.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -106,17 +118,25 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Repetition supplies much of the chapter's shape: the people repeatedly kneel, the disciples pray without ceasing, Jesus repeatedly withdraws and returns, and his smile and radiant light recur. This creates an intensifying sequence that culminates in a prayer heard and understood but not reproducible.
+
+The language of future believers, mutual indwelling, and becoming one closely parallels [[John 17]]. That connection is textually strong, while conclusions about source history remain disputed. The inexpressible prayer also recalls [[3 Nephi 17]], where Jesus' words likewise exceed the narrator's ability to record them.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual Interrelationship
+> Jesus' prayer for the immediate disciples and those who will believe through their words, together with its language of mutual indwelling and becoming one, has a close literary and theological affinity with Jesus' prayer in John 17. The affinity strongly supports intertextual relationship but does not determine its historical direction or mechanism.
+> — strength 0.6 · confidence 0.9 · strong parallel, direction disputed · [[Textual Interrelationship in 3 Nephi 19|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Verse 11 says Nephi "was baptized" without naming who baptized him — readers often infer that Jesus did, but this is inference, not stated fact.
+- The record lists two disciples named Jonas (v. 4), one of them Nephi's own son, without comment — how did contemporaries or later readers distinguish them?
+- Why are Nephi and the other chosen disciples baptized in this chapter without any explanation of their prior ordinance history?
+- What does it mean for prayer to be "given" to the disciples (v. 24) while they are also described as "filled with desire"? Is this a tension, or two descriptions of the same experience?
+- The requested oneness between the Father, the Son, and believers (vv. 23, 29) is not defined by the text — does it describe shared purpose, covenant fidelity, transformed character, divine indwelling, or some combination?
 <!-- SG:END questions -->
 
 ## Further Study
