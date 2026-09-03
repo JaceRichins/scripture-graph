@@ -6119,6 +6119,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-38-72c141f1",
+   "t": "Alma counsels Shiblon",
+   "y0": -74,
+   "y1": -74,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates Alma's counsel to Shiblon to about 74 B.C.",
+   "chapters": [
+    "Alma 38"
+   ],
+   "people": [
+    "Alma",
+    "Shiblon",
+    "Jesus Christ"
+   ],
+   "things": [
+    "missionary instruction"
+   ]
+  },
+  {
    "id": "r-alma-43-2c5db19d",
    "t": "Moroni's first recorded campaign against Zerahemnah",
    "y0": -74,
