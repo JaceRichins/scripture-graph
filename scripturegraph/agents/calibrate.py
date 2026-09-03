@@ -350,7 +350,10 @@ def run_calibration_job(ctx: Ctx, target: str, apply: bool = True) -> dict:
         (ws / sub).mkdir(parents=True, exist_ok=True)
     seq = int(hashlib.sha1(job_id.encode()).hexdigest()[:8], 16)
     researchers, mode = _select_researchers(ctx)
-    timeout = int(ctx.c("calibrate.job_timeout_sec", 0) or ctx.budget("job_timeout_sec") or 420)
+    # a group carries five notes, two proposals and two critiques into the
+    # judge — the longest prompt in the engine, so it gets a longer leash
+    timeout = int(ctx.c("calibrate.job_timeout_sec", 0)
+                  or max(900, int(ctx.budget("job_timeout_sec") or 420)))
     costs = {"usd": 0.0, "calls": 0}
 
     def track(stats):
