@@ -23,7 +23,15 @@ Scripture: [[2 Nephi 10]] · My notes: [[2 Nephi 10 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Promises to Jacob's descendants (vv. 1–2):** loss through unbelief is set beside mercy and eventual knowledge of the Redeemer.
+
+2. **Christ, rejection, scattering, and restoration (vv. 3–9):** Jacob names Christ, predicts the crucifixion, and describes dispersion followed by belief, gathering, and Gentile assistance.
+
+3. **The promised land, liberty, and Zion (vv. 10–19):** the land is associated with [[Freedom and Liberty]], opposition to human kings raised against God, judgment upon hidden violence, and the inclusion of Gentiles within Israel.
+
+4. **Pastoral application to an exiled people (vv. 20–22):** Jacob reframes displacement as divine leading and assures his listeners that God remembers every broken-off branch.
+
+5. **Choice, reconciliation, and grace (vv. 23–25):** [[Agency]] leads into an appeal to accept God's will, while salvation remains possible only through divine grace.
 <!-- SG:END structure -->
 
 ## People
@@ -45,22 +53,26 @@ _Not yet developed._
 - [[2 Nephi 25]] — 3 footnote cross-references (from [[2 Nephi 10#^2ne-10-3|2 Nephi 10:3]])
 - [[1 Nephi 19]] — 3 footnote cross-references (from [[2 Nephi 10#^2ne-10-3|2 Nephi 10:3]])
 - [[2 Nephi 6]] — 3 footnote cross-references (from [[2 Nephi 10#^2ne-10-9|2 Nephi 10:9]])
-- [[2 Nephi 29]] — 3 parallel verses, e.g. [[2 Nephi 10#^2ne-10-15|2 Nephi 10:15]] ↔ [[2 Nephi 29#^2ne-29-1|2 Nephi 29:1]]
-- [[D&C 110]] — 1 parallel verse, e.g. [[2 Nephi 10#^2ne-10-8|2 Nephi 10:8]] ↔ [[D&C 110#^dc-110-11|D&C 110:11]]
+- [[2 Nephi 29]] — 0 parallel verses
+- [[2 Nephi 9]] — 0 parallel verses
+- [[2 Nephi 2]] — 0 parallel verses
+- [[1 Nephi 22]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]]
+- [[Government and Laws]]
+- [[Freedom and Liberty]]
+- [[Scattering of Israel]]
+- [[Crucifixion of Jesus Christ]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter integrates several doctrines rather than treating them separately. [[Gathering of Israel]] includes recovery of knowledge about the Redeemer, return to lands of inheritance, assistance from Gentiles, and the incorporation of Gentiles into Israel. Human [[Agency]] is real enough for Jacob to command a choice, yet verse 24 denies that choosing or reconciling oneself is an independent source of salvation: salvation is only through [[Grace]]. Verse 25 distinguishes resurrection from death and deliverance from everlasting death while assigning both victories to God's saving powers.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -87,22 +99,32 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated language of promises, covenants, inheritance, seed, scattering, and gathering gives the chapter a covenantal vocabulary. The nursing-father and nursing-mother imagery in verse 9 reuses [[Isaiah 49]], linking Gentile power with care for scattered Israel. In verses 20–22, spatial language—land, sea, isles, led away, and broken off—turns geography into a theology of diaspora: separation does not place a people beyond God's remembrance.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter presents itself as the continuation and conclusion of a larger discourse. Its opening refers back to the righteous branch, while its final verse returns to death, resurrection, and atonement, themes developed in [[2 Nephi 9]]. Verse 9 closely repeats the nursing-fathers and nursing-mothers language of [[Isaiah 49]], already quoted within Jacob's discourse. These correspondences establish literary continuity in the received text but do not by themselves determine authorship, date, or the mechanism of textual dependence. The chapter also moves from collective prophecy about peoples and lands to a personal appeal to choose, reconcile, and depend upon divine grace.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Intertextual Reuse
+> The description of Gentile kings and queens as nursing fathers and mothers closely reuses Isaiah 49:23 language already quoted in Jacob's discourse, providing strong evidence of deliberate literary continuity with the surrounding Isaiah exposition.
+> — strength 0.9 · confidence 1.0 · strong intertextual correspondence · [[Intertextual Reuse in 2 Nephi 10|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does “no kings” in verses 11–14 reject monarchy as such, or specifically kings raised up in opposition to God?
+
+- How does being “numbered among the house of Israel” in verse 18 define covenant belonging?
+
+- What is gained—and what may be obscured—when Jacob interprets forced migration as divine leading to a better land?
+
+- How should verse 24's command to reconcile oneself to God be read alongside its assertion that salvation is only through grace?
+
+- How can readers take the chapter's harsh statements about people at Jerusalem seriously as part of the text while resisting collective blame against Jews?
 <!-- SG:END questions -->
 
 ## Further Study
