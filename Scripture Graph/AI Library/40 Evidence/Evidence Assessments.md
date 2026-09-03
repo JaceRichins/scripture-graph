@@ -45,6 +45,13 @@ The explicit reference and shared wording make deliberate internal recall nearly
 
 Notes: [[Explicit Internal Intertext in Alma 36]]
 
+### pgp-abraham3-literary-hinge
+**Astronomical-to-premortal literary hinge in Abraham 3** — *strong* (supports, evidence_strength 0.84) for: Abraham 3:16-19 is a deliberately constructed literary hinge that intentionally reuses the chapter's celestial comparative pattern (vv.8-9, 16-17) to introduce spirits and intelligence, explicitly signaled by 'as, also' in v.18, rather than an incidental or merely pedagogical repetition.
+
+The explicit 'as, also' connective is direct textual evidence of intentional analogical transfer, not merely an inferred pattern, and strongly supports deliberate design linking the astronomical and premortal-spirit material. The registry's existing 0.84 for this issue is reused: the pedagogical-analogy alternative is real but was already effectively priced into the original strong-band assessment, and the ordinariness of analogical teaching devices in general does not defeat evidence from an explicit, textually stated connective specific to this passage. This bears only on final-form literary design, not on the chapter's date, source language, historicity, or the accuracy of its cosmology.
+
+Notes: [[Internal Literary Structure in Abraham 3]]
+
 ### bom-alma5-biblical-english-dependence
 **Biblical English dependence and intertextuality in Alma 5** — *strong* (supports, evidence_strength 0.68) for: The received English text of Alma 5 substantially draws on biblical, especially King James, wording and image clusters rather than having acquired all similarities through independent formulation.
 
@@ -129,6 +136,20 @@ Moses 3:5 and 3:17 verifiably add content absent from Genesis 2:5 and 2:17 (near
 
 Notes: [[Comparative Textual Difference in Moses 3]]
 
+### bom-1nephi22-flesh-inclusio
+**Final-form framing of 1 Nephi 22 by the recurring phrase 'according to the flesh'** — *weak* (supports, evidence_strength 0.2) for: Verses 2-27 of 1 Nephi 22 were deliberately structured as a bounded unit, using 'according to the flesh' as an intentional inclusio marking Nephi's answer to his brothers' question in v.1, rather than the phrase recurring incidentally as ordinary vocabulary on the chapter's governing spiritual-versus-temporal theme.
+
+The phrase genuinely brackets Nephi's answer in vv.2 and 27, but because the chapter's entire topic is precisely the spiritual-versus-'according to the flesh' distinction raised in v.1, ordinary thematic restatement predicts the same two-point recurrence about as well as deliberate inclusio design; per the discrimination rule (equally-predicting rivals cap weight low) this belongs in the weak band, not moderate.
+
+Notes: [[Internal Literary Structure in 1 Nephi 22]]
+
+### bom-2nephi2-integrated-argument
+**Final-form integration of the law-opposition-agency argument in 2 Nephi 2** — *strong* (supports, evidence_strength 0.65) for: The sequence in 2 Nephi 2:5-27 (law/punishment, opposition, creation, enticement, the Fall, redemption, agency) constitutes one deliberately integrated argument in its final form, rather than a set of loosely connected, independent aphorisms.
+
+The chain of explicit inferential connectives and dependent premises across 23 verses strongly supports reading the passage as one sustained final-form argument. Per the registry bands (moderate 0.35-0.60, strong 0.60-0.85), 0.65 sits in the strong band, so the 'moderate' label both proposals used alongside this number was a label/prose mismatch; the underlying number is retained as well supported and consistent with the prior 0.7 assessment. This bears only on final-form coherence, not on the truth of the passage's premises or on ancient versus modern authorship.
+
+Notes: [[Internal Literary Structure in 2 Nephi 2]]
+
 ### bom-2nephi11-historical-editorial-selection
 **Historical force of the narratorial selection statement in 2 Nephi 11** — *none* (supports, evidence_strength 0.1) for: The statement supports the existence of an actual ancient narrator-editor named Nephi who selected and omitted Jacob's teachings while producing a historical record.
 
@@ -185,6 +206,13 @@ The final text unmistakably creates an intentional association between Nephi's v
 
 Notes: [[Internal Attribution in 1 Nephi 14]]
 
+### bom-alma51-dissent-causation
+**Internal narrative causation: political dissent and Nephite readiness in Alma 51** — *moderate* (supports, evidence_strength 0.4) for: Within Alma 51's narrative, the king-men's refusal of military service and Moroni's resulting internal campaign materially contributed to Nephite unreadiness against Amalickiah's invasion, alongside — not instead of — the other causes the text itself names.
+
+The narrative's juxtaposition of Moroni's domestic campaign with the invasion and the fall of the city of Moroni gives moderate support to dissent functioning as a contributing factor in the narrator's own causal account, but v.23 directly and independently names an undersized garrison as a cause, and v.16's explicit moralizing about dissension signals an interpretive frame rather than a quantified military analysis. This directly-textual rival keeps the weight in the lower-moderate range rather than the 0.55 both proposals retained, and it says nothing about the historicity of the underlying campaign.
+
+Notes: [[Internal Narrative And Strategic Evidence in Alma 51]]
+
 ### bom-2nephi6-predictive-prophecy
 **Internal placement of Jacob's crucifixion prophecy** — *none* (supports, evidence_strength 0.12) for: Jacob's statement in 2 Nephi 6:9 preserves a genuinely pre-Christian prediction of Jesus's scourging and crucifixion rather than wording composed or shaped after those events were known.
 
@@ -240,6 +268,13 @@ Notes: [[Embedded Secondhand Testimony in Joseph Smith—History 1]]
 The later chapters unmistakably give the principal dream images symbolic meanings, but unified planning and later interpretive systematization predict this final-form coordination about equally. It therefore supplies none-band support for unified original composition and no independent support for antiquity, historicity, or inspiration.
 
 Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
+
+### bom-jsm1-jerusalem-eschaton-structure
+**Textual distinction between the Jerusalem tribulation and later material in Joseph Smith—Matthew 1** — *moderate* (supports, evidence_strength 0.5) for: The final text of Joseph Smith—Matthew 1 textually distinguishes the Jerusalem-focused tribulation of vv.12-20 from the material following v.21, sufficient to show the chapter does not present vv.12-31 as one undifferentiated description of the final coming.
+
+The Jerusalem/Judea naming in vv.12-20 and the explicit topic-close in v.21 give real, moderate support to a textually marked local unit, but apocalyptic telescoping and typological near/far blending are independently-supported, well-attested features of the genre that predict overlapping, non-sharply-separated horizons about as plausibly as a clean two-part division, which keeps this out of the strong band. This bears only on the chapter's internal organization, not on any prediction's timing, mechanism, or accuracy.
+
+Notes: [[Internal Literary Structure in Joseph Smith—Matthew 1]]
 
 ### bom-3nephi-luke-kjv-parallel
 **Verbal parallel between 3 Nephi 18:18 and Luke 22:31 (KJV-mediated wording)** — *weak* (supports, evidence_strength 0.22) for: The distinctive 'sift you as wheat' wording in 3 Nephi 18:18 reflects the same KJV-mediated textual source as Luke 22:31, rather than an independently-worded ancient utterance.
