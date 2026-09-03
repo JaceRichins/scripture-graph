@@ -93,7 +93,17 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Exegetical/Theological Interpretation *(tentative)*
+> The identity of 'them that are dead' in 1 Peter 4:6 is contested: it plausibly supports (but does not by itself establish) the doctrine that the gospel is preached to the deceased in the postmortal spirit world, since that is one live reading among several defensible ones.
+> — strength 0.4 · confidence 0.5 · disputed
+
+> [!evidence] Textual/Source Criticism *(tentative)*
+> 1 Peter 4:18's wording ('if the righteous scarcely be saved, where shall the ungodly and the sinner appear?') closely matches the Greek Septuagint (LXX) form of Proverbs 11:31, rather than the Hebrew-based wording reflected in the KJV Old Testament ('the righteous shall be recompensed in the earth: much more the wicked and the sinner'); this is widely treated in New Testament scholarship as a direct citation of the LXX text, which explains why a text-overlap check against the KJV Proverbs finds no shared wording despite the underlying citation.
+> — strength 0.6 · confidence 0.6 · accepted observation / disputed interpretation
+
+> [!evidence] Literary/Source Criticism *(tentative)*
+> The doxology at the end of 1 Peter 4:11 ('to whom be praise and dominion for ever and ever. Amen'), followed by a shift in v.12 to address an apparently active 'fiery trial,' has led a minority of source critics to propose that 1 Peter originally combined two separate documents joined at this seam; most modern commentators reject this and treat the doxology as a rhetorical pause within a unified letter.
+> — strength 0.2 · confidence 0.3 · minority interpretation
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
