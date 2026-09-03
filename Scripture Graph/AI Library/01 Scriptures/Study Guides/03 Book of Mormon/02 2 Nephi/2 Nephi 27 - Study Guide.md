@@ -23,7 +23,13 @@ Scripture: [[2 Nephi 27]] · My notes: [[2 Nephi 27 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Judgment and spiritual stupor (vv. 1–5):** The nations opposing Zion are compared to an unsatisfying dream; iniquity is portrayed as intoxication and closed sight.
+
+2. **The book from the dead (vv. 6–14):** A sealed revelation is preserved, selected words come forth, and limited viewers establish plural testimony.
+
+3. **The learned and unlearned readers (vv. 15–23):** The learned reader's refusal and worldly motive contrast with the unlearned man's admitted limitation and divine commission. The sealed portion remains subject to God's timing.
+
+4. **A marvelous reversal (vv. 24–35):** Lip-service religion and concealed counsel are judged; the deaf hear, the blind see, the meek rejoice, injustice ends, and Jacob's children come to understanding.
 <!-- SG:END structure -->
 
 ## People
@@ -45,7 +51,6 @@ _Not yet developed._
 - [[Ether 5]] — 3 footnote cross-references (from [[2 Nephi 27#^2ne-27-8|2 Nephi 27:8]])
 - [[1 Nephi 22]] — 2 footnote cross-references (from [[2 Nephi 27#^2ne-27-3|2 Nephi 27:3]])
 - [[Mormon 5]] — 2 footnote cross-references (from [[2 Nephi 27#^2ne-27-6|2 Nephi 27:6]])
-- [[Isaiah 29]] — 19 parallel verses, e.g. [[2 Nephi 27#^2ne-27-27|2 Nephi 27:27]] ↔ [[Isaiah 29#^isa-29-16|Isaiah 29:16]]
 - [[1 Nephi 22]] — 3 parallel verses, e.g. [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]] ↔ [[1 Nephi 22#^1ne-22-8|1 Nephi 22:8]]
 - [[2 Nephi 29]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-23|2 Nephi 27:23]] ↔ [[2 Nephi 29#^2ne-29-9|2 Nephi 29:9]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-32|2 Nephi 27:32]] ↔ [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]]
@@ -54,23 +59,24 @@ _Not yet developed._
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-10|2 Nephi 27:10]] ↔ [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]]
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-10|2 Nephi 27:10]] ↔ [[1 Nephi 14#^1ne-14-26|1 Nephi 14:26]]
 - [[2 Nephi 25]] — 1 parallel verse, e.g. [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]] ↔ [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]]
+- [[Isaiah 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Witnesses of the Book of Mormon]]
 - [[Miracles]]
+- [[Witnesses of the Book of Mormon]]
+- [[Book of Mormon (Gospel Topic)]]
+- [[Records and Sacred Writings]]
+- [[Prophecy]]
+- [[Education and Learning]]
+- [[Jews and Gentiles]]
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
-- [[Eternal Marriage]] *(keyword match — unconfirmed)*
-- [[Family]] *(keyword match — unconfirmed)*
-- [[Sin]] *(keyword match — unconfirmed)*
-- [[Revelation]] *(keyword match — unconfirmed)*
-- [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter contributes several qualified doctrinal ideas. [[Revelation]] belongs to God not only in content but also in timing (vv. 10–11, 20–22). [[Testimony]] may rest on multiple divinely authorized witnesses even when an artifact is not publicly available (vv. 12–14), though the passage itself does not compel a reader to accept those witnesses. [[Miracles]] are joined to God's constancy and human [[Faith]] (v. 23). Finally, authentic worship requires the heart as well as speech (v. 25); religious vocabulary alone does not prevent [[Apostasy]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -94,25 +100,39 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The chapter develops related clusters of words about **sight**, **speech**, and **reading**. People close their eyes and reject prophets (2 Nephi 27:5); selected witnesses see the hidden book (2 Nephi 27:12–13); learned and unlearned figures are asked to read (2 Nephi 27:15–20); and the deaf hear the book's words while the blind see and those who erred come to understanding (2 Nephi 27:29, 35). These are not identical kinds of perception, but together they reinforce the chapter's movement from concealment and spiritual impairment toward disclosure and understanding. Much of this language closely follows [[Isaiah 29]], while the present chapter expands the sealed-book episode with additional details about witnesses, restricted contents, and later disclosure.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The strongest literary feature is sustained reuse of [[Isaiah 29]]. Rather than reproducing that chapter as an uninterrupted quotation, 2 Nephi 27 expands its sealed-book imagery into a detailed narrative involving restricted text, witnesses, competing readers, divine commission, and future disclosure. This resembles interpretive rewriting: Isaiah's imagery supplies the framework, while the new narrative identifies the book as an instrument in the promised reversal from blindness to understanding. That observation is secure; whether the expansion should be explained as ancient prophetic interpretation, revealed translation, or modern composition remains disputed.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary Dependence And Interpretation
+> The density, wording, imagery, and ordered progression of correspondences constitute strong evidence that 2 Nephi 27 is literarily dependent on, or deliberately presented as an interpretation of, Isaiah 29 rather than merely sharing several general religious themes.
+> — strength 1.0 · confidence 1.0 · Broad scholarly agreement · [[Literary Dependence And Interpretation in 2 Nephi 27|full dossier]]
+
+> [!evidence] Internal Literary Coherence *(tentative)*
+> The chapter integrates the book narrative with its larger themes: a record from the dead answers prophetic silence, restricted sight is answered by witnesses, failed learned reading is answered by divine empowerment, and the deaf and blind ultimately receive the book's words. This is strong evidence of purposeful literary coherence within the chapter.
+> — strength 0.6 · confidence 0.8 · Coherence plausible; evidentiary strength disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+1. Verse 5 attributes blindness both to the Lord's judgment and to the people's decision to close their eyes. How does that dual attribution shape responsibility?
+
+2. Why does the chapter distinguish between seeing the physical book and receiving its words (vv. 12–14)?
+
+3. Is the learned man's fault lack of ability, demand for control, desire for gain, rejection of the offered words, or some combination (vv. 15–20)?
+
+4. How do the deaf and blind in verse 29 relate to the closed eyes and covered seers in verse 5?
+
+5. What does the chapter affirm about [[Education and Learning]], and what misuse of learning does it criticize?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read 2 Nephi 27 beside [[Isaiah 29]], marking what is retained, relocated, and expanded. Then compare [[2 Nephi 28]], [[2 Nephi 29]], and [[2 Nephi 30]] as a sequence: apostasy and false teaching, resistance to additional scripture, and the spread of covenant knowledge. For thematic study, trace [[Records and Sacred Writings]], [[Witnesses of the Book of Mormon]], [[Revelation]], and [[Apostasy]].
 <!-- SG:END further-study -->
