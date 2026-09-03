@@ -23,7 +23,15 @@ Scripture: [[2 Nephi 2]] · My notes: [[2 Nephi 2 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Jacob's affliction and redemption (vv. 1–4):** Lehi interprets suffering through divine consecration and the Redeemer.
+
+2. **Law and the Messiah (vv. 5–10):** Law cuts off; the Messiah answers its ends through sacrifice, grace, resurrection, and intercession.
+
+3. **Why opposition matters (vv. 11–16):** A conditional argument connects opposition with moral distinctions, purpose, creation, and action.
+
+4. **Eden and mortal probation (vv. 17–25):** The devil's fall, the temptation, human mortality, posterity, repentance, and joy are placed in one account.
+
+5. **Redeemed freedom and final appeal (vv. 26–30):** Lehi contrasts eternal life through the Mediator with captivity and death through the devil.
 <!-- SG:END structure -->
 
 ## People
@@ -55,29 +63,33 @@ _Not yet developed._
 - [[D&C 49]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]] ↔ [[D&C 49#^dc-49-19|D&C 49:19]]
 - [[Ether 4]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-14|2 Nephi 2:14]] ↔ [[Ether 4#^ether-4-7|Ether 4:7]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-4|2 Nephi 2:4]] ↔ [[1 Nephi 10#^1ne-10-18|1 Nephi 10:18]]
-- [[Alma 42]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-19|2 Nephi 2:19]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
 - [[Daniel 2]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]] ↔ [[Daniel 2#^dan-2-38|Daniel 2:38]]
 - [[2 Nephi 27]] — 2 parallel verses, e.g. [[2 Nephi 2#^2ne-2-21|2 Nephi 2:21]] ↔ [[2 Nephi 27#^2ne-27-13|2 Nephi 27:13]]
-- [[2 Nephi 11]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-13|2 Nephi 2:13]] ↔ [[2 Nephi 11#^2ne-11-7|2 Nephi 11:7]]
 - [[D&C 89]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]] ↔ [[D&C 89#^dc-89-14|D&C 89:14]]
 - [[Ether 8]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-18|2 Nephi 2:18]] ↔ [[Ether 8#^ether-8-25|Ether 8:25]]
+- [[Words of Mormon 1]] — 1 parallel verse, e.g. [[2 Nephi 2#^2ne-2-26|2 Nephi 2:26]] ↔ [[Words of Mormon 1#^wofm-1-11|Words of Mormon 1:11]]
+- [[Alma 42]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Fall of Adam and Eve]]
-- [[Freedom and Liberty]]
-- [[Satan and Temptation]]
 - [[Adversity]]
 - [[Agency]]
 - [[Plan of Salvation]]
+- [[Freedom and Liberty]]
+- [[Satan and Temptation]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter does not present [[Agency]] as self-originating independence. God creates the world and supplies necessary conditions; opposition and enticement make action possible; the [[Fall of Adam and Eve]] introduces mortality and moral experience; and the Messiah's redemption makes humanity "free forever" while preserving judgment and consequences.
+
+Its treatment of [[Grace]] also resists a simple grace-versus-obedience opposition. Salvation is called free, and no flesh can dwell with God except through the Messiah's merits, mercy, and grace. Yet Lehi also names belief, a broken heart and contrite spirit, repentance, hearkening, and choosing eternal life. The chapter does not fully systematize how these expressions relate, so later doctrinal formulations should not be read back into every phrase without argument.
+
+The exact phrase "a broken heart and a contrite spirit" (2 Nephi 2:7) also recurs in [[3 Nephi 9]] and [[D&C 59]]; whether this reflects a deliberate recurring formula or simply shared scriptural idiom (compare Psalm 51:17) isn't something this chapter alone can settle.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -110,25 +122,44 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated phrase "must needs" marks the discourse's argumentative links, especially in verses 11–17. Some links are stated as necessities rather than merely narrated events.
+
+The paired expressions "to act" and "to be acted upon" connect creation with moral agency. The distinction is not absolute: verse 26 says the redeemed act for themselves but may still be acted upon by the law's punishment.
+
+"Free" has two related uses: salvation is free in verse 4, while redeemed humanity becomes free in verses 26–27. This sequence supports a grace-grounded reading of freedom, though the precise meaning of "free" need not be identical in every occurrence.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter pairs concrete Eden imagery with its abstract opposition doctrine: the forbidden fruit is set "in opposition to the tree of life; the one being sweet and the other bitter" (v. 15), extending the philosophical argument of vv. 11-13 into the garden narrative's own symbols. Frequent use of "wherefore" as a connective -- a habit found throughout the Book of Mormon -- gives the passage a cumulative, argument-like momentum rather than a narrative one. That momentum culminates in the tightly balanced two-clause statement of verse 25, "Adam fell that men might be; and men are, that they might have joy," which compresses the longer counterfactual argument of vv. 22-24 into a single memorable line. The balance is real, but by itself it does not establish a more elaborate formal poetic structure beyond this parallelism.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary Structure
+> The sustained sequence from law and punishment through opposition, creation, enticement, the Fall, redemption, and choice is strong internal evidence that these themes function as one integrated argument rather than as unrelated aphorisms.
+> — strength 0.7 · confidence 0.8 · real internal coherence, appropriately scoped · [[Internal Literary Structure in 2 Nephi 2|full dossier]]
+
+> [!evidence] Explicit Source Attribution
+> Lehi explicitly introduces his account of the angel's fall as a supposition based on things he has read and on what is written. This is strong evidence for the discourse's presented posture as interpretation of prior writings, although it does not identify those writings.
+> — strength 0.8 · confidence 0.9 · well-hedged, textually explicit · [[Explicit Source Attribution in 2 Nephi 2|full dossier]]
+
+> [!evidence] Literary-Theological Parallel *(tentative)*
+> The opposition-based theodicy and felix culpa framing in this chapter resemble broader theodicy traditions (privative-evil theology, felix culpa) found in later Christian and philosophical thought; this resemblance is interesting but is weak, ambiguous evidence for dating or origin questions.
+> — strength 0.2 · confidence 0.4 · speculative and under-sourced
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does "opposition in all things" describe every conceivable reality, or primarily the moral and salvific order under discussion?
+- How do the conditions named in verse 7 relate to the declarations that salvation is free and depends wholly on the Messiah's merits, mercy, and grace?
+- Why does Lehi qualify the account of the fallen angel with "according to the things which I have read" and "must needs suppose"?
+- How does the chapter distinguish being free from being beyond law or consequences?
+- What does it mean for affliction to be consecrated for gain without treating the wrongdoing that caused it as good?
+- How does the "opposition in all things" argument of verse 11 relate to -- and perhaps anticipate -- the more developed justice-and-mercy discourse of [[Alma 42]] a generation later?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the chapter's account of death, resurrection, and judgment with [[2 Nephi 9]] (noting this connection is thematic and not yet verified at the verse level), and its law-punishment-mercy argument with [[Alma 42]]. [[Alma 12]]'s language of a "probationary state" offers a further thematic, though likewise unverified, echo of the "state of probation" introduced in verse 21. These comparisons are useful because they develop themes 2 Nephi 2 states compactly, and they should clarify the chapter before broader historical or philosophical claims are built upon it.
 <!-- SG:END further-study -->
