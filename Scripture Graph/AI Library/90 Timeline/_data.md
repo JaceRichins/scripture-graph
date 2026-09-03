@@ -6977,6 +6977,29 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-102-e0ce9afe",
+   "t": "Organization of the Church's first standing high council",
+   "y0": 1834,
+   "y1": 1834,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The minutes describe the organizing council as occurring 'this day' (v. 1); 1834 reflects the conventional Church-historical dating of this council, though the exact day is not stated in the verses themselves.",
+   "chapters": [
+    "D&C 102"
+   ],
+   "people": [
+    "Joseph Smith Jr",
+    "Sidney Rigdon",
+    "Frederick G. Williams"
+   ]
+  },
+  {
    "id": "r-dc-105-7fa3d080",
    "t": "Fishing River Revelation defers Zion's redemption",
    "y0": 1834,
@@ -7509,6 +7532,62 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-70-57c9ac4d",
+   "t": "D&C 70: stewards appointed over the revelations",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Section heading dates this revelation to November 12, 1831, received through Joseph Smith at Hiram, Ohio.",
+   "chapters": [
+    "D&C 70"
+   ],
+   "people": [
+    "Joseph Smith Jr",
+    "Sidney Rigdon",
+    "Oliver Cowdery",
+    "Martin Harris"
+   ],
+   "places": [
+    "Hiram, Ohio"
+   ],
+   "things": [
+    "Book of Commandments"
+   ]
+  },
+  {
+   "id": "r-dc-72-aaafce1b",
+   "t": "Newel K. Whitney called and ordained bishop, Kirtland",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The chapter's official section heading and Church historical records date this revelation to Kirtland, Ohio, December 1831, coinciding with Whitney's ordination as bishop over the Church in Kirtland.",
+   "chapters": [
+    "D&C 72"
+   ],
+   "people": [
+    "Newel K. Whitney"
+   ],
+   "places": [
+    "Kirtland, Ohio"
+   ],
+   "things": [
+    "Bishop's storehouse"
+   ]
+  },
+  {
    "id": "r-dc-81-286d53d2",
    "t": "Revelation concerning a counselor in the presidency",
    "y0": 1832,
@@ -7658,6 +7737,32 @@ timeline module, not this file._
    "things": [
     "keys of the kingdom",
     "School of the Prophets"
+   ]
+  },
+  {
+   "id": "r-dc-94-bea3047f",
+   "t": "Revelation on Kirtland city-of-the-stake building lots",
+   "y0": 1833,
+   "y1": 1833,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Traditionally dated to 2 August 1833 in Kirtland, Ohio, per the section's historical heading in the Doctrine and Covenants, during the early Kirtland building and consecration period.",
+   "chapters": [
+    "D&C 94"
+   ],
+   "people": [
+    "Hyrum Smith",
+    "Reynolds Cahoon",
+    "Jared Carter"
+   ],
+   "places": [
+    "Kirtland"
    ]
   },
   {

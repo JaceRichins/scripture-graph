@@ -129,7 +129,7 @@ Abraham 2 has a strong literary relationship with [[Genesis 12]]. The chapters s
 
 > [!evidence] Cross-Text Chronological Tension
 > Abraham 2 reports that Abraham was sixty-two when he departed Haran, whereas Genesis 12 reports that Abram was seventy-five when he departed Haran. On their most straightforward readings, the chronological notices differ.
-> — strength 1.0 · confidence 1.0 · Accepted observation; harmonizations disputed · [[Cross-Text Chronological Tension in Abraham 2|full dossier]]
+> — strength 0.6 · confidence 1.0 · Accepted observation; harmonizations disputed · [[Cross-Text Chronological Tension in Abraham 2|full dossier]]
 
 > [!evidence] Extensive Textual And Narrative Parallel
 > Abraham 2 has a strong literary relationship with Genesis 12: both narrate the call from kindred, departure from Haran with Sarai and Lot, arrival at Moreh, a land promise, altar building near Bethel and Ai, southward travel, famine-driven movement to Egypt, and the sister strategy concerning Sarai.

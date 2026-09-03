@@ -54,12 +54,12 @@ Moses 3 moves from the sanctification of the seventh day to a focused account of
 - [[Mosiah 13]] — 2 footnote cross-references (from [[Moses 3#^moses-3-3|Moses 3:3]])
 - [[D&C 77]] — 2 footnote cross-references (from [[Moses 3#^moses-3-3|Moses 3:3]])
 - [[Genesis 2]] — 25 parallel verses, e.g. [[Moses 3#^moses-3-5|Moses 3:5]] ↔ [[Genesis 2#^gen-2-5|Genesis 2:5]]
-- [[Abraham 5]] — 19 parallel verses, e.g. [[Moses 3#^moses-3-19|Moses 3:19]] ↔ [[Abraham 5#^abr-5-20|Abraham 5:20]]
 - [[Moses 2]] — 5 parallel verses, e.g. [[Moses 3#^moses-3-20|Moses 3:20]] ↔ [[Moses 2#^moses-2-30|Moses 2:30]]
 - [[Moses 4]] — 4 parallel verses, e.g. [[Moses 3#^moses-3-18|Moses 3:18]] ↔ [[Moses 4#^moses-4-28|Moses 4:28]]
 - [[Genesis 1]] — 1 parallel verse, e.g. [[Moses 3#^moses-3-20|Moses 3:20]] ↔ [[Genesis 1#^gen-1-30|Genesis 1:30]]
 - [[Abraham 4]] — 1 parallel verse, e.g. [[Moses 3#^moses-3-20|Moses 3:20]] ↔ [[Abraham 4#^abr-4-30|Abraham 4:30]]
 - [[Genesis 2]] — 0 parallel verses
+- [[Abraham 5]] — 0 parallel verses
 - [[Abraham 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -118,7 +118,7 @@ The repeated first-person formulas “I, God” and “I, the Lord God” give t
 <!-- SG:BEGIN evidence -->
 > [!evidence] Comparative Textual Difference
 > Moses 3 contains explicit material not present in the corresponding Genesis verses, notably the explanation of spiritual creation and the statement that Adam may choose for himself. This establishes that Moses 3 is not merely an exact reproduction of Genesis 2 at these points, while leaving the origin and authority of the expansions open.
-> — strength 1.0 · confidence 1.0 · Differences established; origin disputed · [[Comparative Textual Difference in Moses 3|full dossier]]
+> — strength 0.1 · confidence 1.0 · Differences established; origin disputed · [[Comparative Textual Difference in Moses 3|full dossier]]
 
 > [!evidence] Textual Relationship
 > Close correspondences in the formation of man, planting of Eden, garden vocation, command concerning the tree, creation of the woman, and one-flesh saying provide strong evidence of a direct literary relationship between Moses 3 and Genesis 2. The correspondences alone do not determine the direction or mechanism of that relationship.

@@ -94,7 +94,7 @@ The opening song invites "the inhabitants of Jerusalem, and men of Judah" to jud
 <!-- SG:BEGIN evidence -->
 > [!evidence] Direct Textual Parallel
 > The extensive verse-level correspondence between 2 Nephi 15 and Isaiah 5 is strong textual evidence that 2 Nephi 15 presents Isaiah 5 material.
-> — strength 0.9 · confidence 1.0 · strongest verified overlap of any candidate · [[Direct Textual Parallel in 2 Nephi 15|full dossier]]
+> — strength 0.8 · confidence 1.0 · strongest verified overlap of any candidate · [[Direct Textual Parallel in 2 Nephi 15|full dossier]]
 
 > [!evidence] Form-Critical / Genre Analysis *(tentative)*
 > The sixfold 'Woe unto...' pattern matches a recognized ancient Israelite prophetic genre (the 'woe' or hoy-oracle), used elsewhere by Isaiah (e.g., Isaiah 10:1; 28:1; 29:1) and by other prophets (e.g., Habakkuk 2; Amos 5-6) to pronounce covenant-lawsuit judgment against specific social sins.

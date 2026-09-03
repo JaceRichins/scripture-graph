@@ -42,7 +42,9 @@ _Not yet developed._
 - **AD 1831** — June 1831 conference and dispatch of elders to Missouri · [[D&C 52]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — Elders' return journey from Zion via St. Louis and Cincinnati · [[D&C 60]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — D&C 63 given at Kirtland, Ohio · [[D&C 63]] · [[AD 1801-1900]] *(historical)*
+- **AD 1831** — D&C 70: stewards appointed over the revelations · [[D&C 70]] · [[AD 1801-1900]] *(historical)*
 - **AD 1833** — D&C 90 received at Kirtland concerning First Presidency keys · [[D&C 90]] · [[AD 1801-1900]] *(historical)*
+- **AD 1834** — Organization of the Church's first standing high council · [[D&C 102]] · [[AD 1801-1900]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

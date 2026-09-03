@@ -42,6 +42,7 @@ _Not yet developed._
 - **AD 1829** — The Three and the Eight see the plates · [[D&C 17]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — The Book of Mormon published; the Church organized · [[D&C 20]] · [[D&C 21]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — June 1831 conference and dispatch of elders to Missouri · [[D&C 52]] · [[AD 1801-1900]] *(historical)*
+- **AD 1831** — D&C 70: stewards appointed over the revelations · [[D&C 70]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

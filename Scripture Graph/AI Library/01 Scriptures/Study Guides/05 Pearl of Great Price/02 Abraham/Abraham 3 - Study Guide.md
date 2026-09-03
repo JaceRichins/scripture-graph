@@ -127,7 +127,7 @@ The commission formula in Abraham 3:27 closely parallels [[Isaiah 6]]. The Engli
 <!-- SG:BEGIN evidence -->
 > [!evidence] Canonical Doctrinal Statement
 > Abraham 3:18–23 is direct and unusually explicit textual evidence for premortal existence within Latter-day Saint scripture: spirits are said to have existed before, and Abraham is said to have been chosen before birth.
-> — strength 1.0 · confidence 1.0 · Conclusive for textual teaching, not objective history · [[Canonical Doctrinal Statement in Abraham 3|full dossier]]
+> — strength 0.1 · confidence 1.0 · Conclusive for textual teaching, not objective history · [[Canonical Doctrinal Statement in Abraham 3|full dossier]]
 
 > [!evidence] Doctrinal Wording
 > The proposed creation of the earth is narrated in the plural and includes taking already-mentioned materials. This strongly supports reading the immediate scene as the organization or fashioning of an earth from available materials, although the passage does not explain the ultimate origin of those materials.

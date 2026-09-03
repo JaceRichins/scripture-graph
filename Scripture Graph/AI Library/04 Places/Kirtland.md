@@ -38,6 +38,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **AD 1831** — D&C 63 given at Kirtland, Ohio · [[D&C 63]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — D&C 64 given to Joseph Smith at Kirtland, Ohio · [[D&C 64]] · [[AD 1801-1900]] *(historical)*
+- **AD 1833** — Revelation on Kirtland city-of-the-stake building lots · [[D&C 94]] · [[AD 1801-1900]] *(historical)*
 - **AD 1833** — D&C 98 given at Kirtland amid Missouri persecutions · [[D&C 98]] · [[AD 1801-1900]] *(historical)*
 - **AD 1836** — The Kirtland Temple; keys restored · [[D&C 110]] · [[AD 1801-1900]] *(historical)*
 
