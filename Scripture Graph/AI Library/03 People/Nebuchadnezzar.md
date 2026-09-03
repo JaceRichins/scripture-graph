@@ -39,6 +39,7 @@ _Not yet developed._
 - **605 BC** — Daniel taken to Babylon · [[Daniel 1]] · [[700-601 BC]] *(historical)*
 - **597 BC–586 BC** — Jeremiah urges submission after Jeconiah's deportation · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
 - **597 BC–593 BC** — Jeremiah's yoke sign during Zedekiah's early reign · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
+- **588 BC–586 BC** — Siege and Fall of Jerusalem under Zedekiah · [[2 Kings 25]] · [[600-501 BC]] *(historical)*
 - **588 BC** — Babylonian siege of Jerusalem begins (Ezekiel's dated oracle) · [[Ezekiel 24]] · [[600-501 BC]] *(historical)*
 - **588 BC–586 BC** — Nebuchadnezzar's final siege of Jerusalem and Zedekiah's servant covenant · [[Jeremiah 34]] · [[600-501 BC]] *(historical)*
 - **588 BC–586 BC** — Siege and Fall of Jerusalem to Babylon · [[Jeremiah 39]] · [[600-501 BC]] *(traditional dating)*
@@ -47,7 +48,6 @@ _Not yet developed._
 - **587 BC–573 BC** — Ezekiel's Oracles Against Tyre and Nebuchadnezzar's Siege · [[Ezekiel 27]] · [[600-501 BC]] *(historical)*
 - **586 BC** — Babylon destroys Jerusalem and the temple · [[2 Kings 25]] · [[Lamentations 1]] · [[600-501 BC]] *(historical)*
 - **585 BC–572 BC** — Nebuchadnezzar's costly siege of Tyre · [[Ezekiel 29]] · [[600-501 BC]] *(historical)*
-- **570 BC–567 BC** — Nebuchadnezzar's campaign against Egypt (Amasis) · [[Jeremiah 43]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

@@ -45,11 +45,11 @@ _Not yet developed._
 - **594 BC–593 BC** — Seraiah carries Jeremiah's Babylon oracle · [[Jeremiah 51]] · [[600-501 BC]] *(approximate)*
 - **589 BC–586 BC** — Nebuchadrezzar's Siege of Jerusalem under Zedekiah · [[Jeremiah 21]] · [[600-501 BC]] *(historical)*
 - **588 BC–587 BC** — Jeremiah in the dungeon · [[Jeremiah 37]] · [[Jeremiah 38]] · [[600-501 BC]] *(historical)*
+- **588 BC–586 BC** — Siege and Fall of Jerusalem under Zedekiah · [[2 Kings 25]] · [[600-501 BC]] *(historical)*
 - **588 BC–586 BC** — Zedekiah rebels and Jerusalem is defeated · [[Ezekiel 17]] · [[600-501 BC]] *(approximate)*
 - **588 BC–587 BC** — Jeremiah's imprisonment and purchase of the field of Anathoth · [[Jeremiah 32]] · [[600-501 BC]] *(traditional dating)*
 - **588 BC–586 BC** — Nebuchadnezzar's final siege of Jerusalem and Zedekiah's servant covenant · [[Jeremiah 34]] · [[600-501 BC]] *(historical)*
 - **588 BC–586 BC** — Jeremiah imprisoned during Jerusalem's final siege · [[Jeremiah 38]] · [[600-501 BC]] *(approximate)*
-- **588 BC–586 BC** — Babylonian siege and fall of Jerusalem under Zedekiah · [[Jeremiah 38]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

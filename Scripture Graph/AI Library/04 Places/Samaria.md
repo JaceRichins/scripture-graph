@@ -46,8 +46,8 @@ _Not yet developed._
 - **753 BC–732 BC** — Israelite throne instability, multiple usurper kings · [[Hosea 8]] · [[800-701 BC]] *(historical)*
 - **734 BC–722 BC** — Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria · [[Isaiah 8]] · [[800-701 BC]] *(historical)*
 - **722 BC** — Assyria destroys northern Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*
+- **722 BC–721 BC** — Fall of Samaria and Assyrian exile of Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*
 - **722 BC** — Assyrian conquest of Samaria (background referent of Ezek. 23:9-10) · [[Ezekiel 23]] · [[800-701 BC]] *(historical)*
-- **722 BC–721 BC** — Assyrian conquest ends the Northern Kingdom's monarchy · [[Hosea 10]] · [[800-701 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

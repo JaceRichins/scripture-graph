@@ -4687,6 +4687,27 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2cor-3-a172c1a6",
+   "t": "Paul writes 2 Corinthians during his third missionary journey",
+   "y0": 55,
+   "y1": 56,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Widely accepted scholarly dating places 2 Corinthians during Paul's third missionary journey, written from Macedonia after leaving Ephesus.",
+   "chapters": [
+    "2 Corinthians 3"
+   ],
+   "people": [
+    "Paul (apostle)"
+   ]
+  },
+  {
    "id": "r-2kgs-1-003ddf5e",
    "t": "Mesha's revolt of Moab against Israel (Moabite Stone)",
    "y0": -850,
@@ -4839,6 +4860,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2kgs-17-7ecbf38a",
+   "t": "Fall of Samaria and Assyrian exile of Israel",
+   "y0": -722,
+   "y1": -721,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Conventionally dated via Assyrian royal inscriptions and administrative chronology (Sargon II's annals, Babylonian Chronicle synchronisms) rather than internal biblical chronology alone.",
+   "chapters": [
+    "2 Kings 17"
+   ],
+   "people": [
+    "Hoshea",
+    "Shalmaneser"
+   ],
+   "places": [
+    "Samaria",
+    "Assyria"
+   ]
+  },
+  {
    "id": "r-2kgs-20-a7a531f6",
    "t": "Hezekiah's illness, sign, and the Babylonian embassy",
    "y0": -703,
@@ -4961,6 +5008,59 @@ timeline module, not this file._
    ],
    "places": [
     "Megiddo"
+   ]
+  },
+  {
+   "id": "r-2kgs-25-4edb4bcf",
+   "t": "Assassination of Gedaliah at Mizpah",
+   "y0": -586,
+   "y1": -582,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Occurs 'in the seventh month' after Jerusalem's fall; exact year is debated, with some scholars linking it to a third deportation dated in Jeremiah 52:30.",
+   "chapters": [
+    "2 Kings 25"
+   ],
+   "people": [
+    "Gedaliah",
+    "Ishmael son of Nethaniah"
+   ],
+   "places": [
+    "Mizpah"
+   ]
+  },
+  {
+   "id": "r-2kgs-25-77759b0e",
+   "t": "Siege and Fall of Jerusalem under Zedekiah",
+   "y0": -588,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Synchronized with Nebuchadnezzar II's regnal years in the Babylonian Chronicle; scholarly estimates for the city's fall range between 587 and 586 BC.",
+   "chapters": [
+    "2 Kings 25"
+   ],
+   "people": [
+    "Nebuchadnezzar",
+    "Zedekiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Solomon's Temple"
    ]
   },
   {
