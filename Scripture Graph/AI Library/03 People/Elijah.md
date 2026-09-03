@@ -43,6 +43,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **870 BC–867 BC** — Elijah's drought and ministry to the widow of Zarephath · [[1 Kings 17]] · [[900-801 BC]] *(traditional dating)*
 - **860 BC** — Elijah on Carmel; fire answers · [[1 Kings 18]] · [[1 Kings 19]] · [[900-801 BC]] *(approximate)*
 - **852 BC–851 BC** — Death of Ahaziah and Jehoram's accession in Israel · [[2 Kings 1]] · [[900-801 BC]] *(traditional dating)*
 - **850 BC–849 BC** — Elijah's flight, theophany at Horeb, and call of Elisha · [[1 Kings 19]] · [[900-801 BC]] *(approximate)*

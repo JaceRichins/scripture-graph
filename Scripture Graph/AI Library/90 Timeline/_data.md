@@ -3572,6 +3572,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1kgs-17-43155231",
+   "t": "Elijah's drought and ministry to the widow of Zarephath",
+   "y0": -870,
+   "y1": -867,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Set during the reign of Ahab of Israel (traditionally c. 874-853 BC); the drought's length of three and a half years is supplied by Luke 4:25 and James 5:17, not by this chapter itself.",
+   "chapters": [
+    "1 Kings 17"
+   ],
+   "people": [
+    "Elijah",
+    "Ahab"
+   ],
+   "places": [
+    "Zarephath"
+   ]
+  },
+  {
    "id": "r-1kgs-19-524a3e42",
    "t": "Elijah's flight, theophany at Horeb, and call of Elisha",
    "y0": -850,
@@ -3877,6 +3901,38 @@ timeline module, not this file._
    "things": [
     "brass ball",
     "bow and arrow"
+   ]
+  },
+  {
+   "id": "r-1ne-3-3c1e90fa",
+   "t": "Lehi's sons make two attempts to obtain the brass plates",
+   "y0": -600,
+   "y1": -592,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the surrounding narrative to approximately 600–592 B.C.; the chapter itself gives no narrower year.",
+   "chapters": [
+    "1 Nephi 3"
+   ],
+   "people": [
+    "Nephi",
+    "Laman",
+    "Lemuel",
+    "Laban"
+   ],
+   "places": [
+    "Jerusalem",
+    "wilderness"
+   ],
+   "things": [
+    "plates of brass",
+    "family property"
    ]
   },
   {
