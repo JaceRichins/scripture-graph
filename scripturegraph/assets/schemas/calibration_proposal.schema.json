@@ -215,6 +215,10 @@
           "how_it_fits": {
             "type": "string",
             "description": "What is known about this world, and the possible reconstruction(s) under which the passage fits it. Offering a plausible reconstruction is the JOB -- label it a proposal, do not apologise for it, do not append a disclaimer that it is unproven."
+          },
+          "demotion_reason": {
+            "type": "string",
+            "description": "Set when a note that previously carried a weight is demoted to context: why nobody is actually arguing about it."
           }
         }
       }

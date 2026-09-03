@@ -99,6 +99,33 @@ For EACH note in the context, produce a recalibrated assessment:
 Do not soften a real difficulty and do not inflate a real strength. Where
 the current note is already right, say so and keep its weight.
 
+
+## The demotion rule — a near-zero weight means it was the wrong kind of note
+
+`evidence_strength` measures DISCRIMINATION: how much more expected this
+observation is under one serious model than under its rivals. So a weight at
+or below 0.15 is not a finding that the evidence is weak. It is the note
+telling you it discriminates between nothing — which is the definition of an
+observation nobody is arguing about, which is an ILLUMINATION note that has
+been mis-filed as an adjudication.
+
+**If the weight lands at or below 0.15 and no identifiable person is actually
+arguing about the proposition, demote the note to `context`.** Drop the
+weight, the proposition, the issue key, the models table, the alternatives
+and the "does not establish" section, and let the observation stand as
+understanding. Say in `demotion_reason` why.
+
+Keep it as `contested` at a low weight ONLY when the argument is live and a
+reader would come looking for the verdict — chiasmus, Nahom, horses, DNA, the
+Isaiah chapters. There, "this is weaker than it is often claimed to be" is
+itself the useful answer and belongs on the record.
+
+This is the single most common defect in the existing library: an ordinary
+detail processed as a disputed claim, scored 0.05, and closed on a
+disclaimer. Recalibrating an old note is exactly when to catch it, because
+the note arrives already carrying an issue key and a proposition, and those
+anchor it to `contested` unless you deliberately re-ask the question.
+
 ## Output format
 
 Respond with ONLY one JSON object validating against:

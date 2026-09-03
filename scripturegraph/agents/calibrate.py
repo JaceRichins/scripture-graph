@@ -717,11 +717,14 @@ def tidy_context_notes(ctx: Ctx) -> dict:
                                (json.dumps(scores), now_iso(), row["id"]))
                     stats["claims"] += 1
             # registry rows that only illumination notes ever cited
+            # live = cited by any note that still carries an `issue` (a
+            # context note had its issue removed above; a note calibrated
+            # under an earlier version has no note_kind yet but is contested)
             contested_titles = set()
             for corpus in CORPORA:
                 for n in evidence_notes(ctx, corpus):
                     fm, _ = _fm(ctx, n["path"])
-                    if str(fm.get("note_kind") or "").lower().startswith("contest") and fm.get("issue"):
+                    if fm.get("issue") and str(fm.get("note_kind") or "contested").lower() != "context":
                         contested_titles.add((fm["issue"], n["title"]))
             live_keys = {k for k, _ in contested_titles}
             for r in db.execute("SELECT issue_key, notes_json FROM issues").fetchall():
