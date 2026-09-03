@@ -10,6 +10,13 @@ One stable assessment per evidence issue, reused by every note that bears on it 
 
 ## Book of Mormon
 
+### pgp-abraham-creation-from-materials
+**Abraham 3:24 'take of these materials' wording as evidence for creation-from-existing-matter doctrine** — *none* (neutral, evidence_strength 0.08) for: Abraham 3:24's organization-from-materials wording is evidence that the passage records an authentically ancient creation-from-existing-materials cosmology, as opposed to Joseph Smith's own 19th-century theological formulation.
+
+The verse clearly and near-certainly depicts organization from already-available materials at this narrative step, an essentially uncontested textual observation; but that plain reading is equally well explained by Joseph Smith's own independently documented eternal-matter theology as by a genuinely ancient Abrahamic source, so it gives almost no independent evidence for dating or sourcing the doctrine to antiquity versus modernity.
+
+Notes: [[Doctrinal Wording in Abraham 3]]
+
 ### pgp-abraham-genesis-chronology
 **Age-at-Haran discrepancy between Abraham 2 and Genesis 12** — *moderate* (challenges, evidence_strength 0.55) for: The 62-vs-75 age discrepancy creates a substantial difficulty for strict single-event chronological harmonization of Abraham 2 with Genesis 12.
 
@@ -87,9 +94,30 @@ The passage is near-certain (0.99) textual evidence that LDS canon teaches premo
 
 Notes: [[Canonical Doctrinal Statement in Abraham 3]]
 
+### pgp-moses-proleptic-christ-naming
+**Proleptic naming of Jesus Christ in primeval Restoration-scripture discourse (Moses 6, Moses 8)** — *weak* (challenges, evidence_strength 0.25) for: Explicit proleptic naming of 'Jesus Christ' and a developed Christian ordinance/soteriology in primeval discourse (Adam in Moses 6, Noah in Moses 8) is evidence against these passages preserving historically ancient antediluvian teaching, favoring modern revelation or composition instead.
+
+Moses 6 integrates a coherent, explicitly Christian soteriology naming 'Jesus Christ' to Adam, which is more directly expected under modern revelation or composition than under literal antediluvian transmission; but proleptic naming of Christ is an independently attested, non-ad-hoc convention used elsewhere in Restoration scripture (e.g., Book of Mormon prophets centuries before Christ's birth), which limits how strongly this discriminates modern composition from an inspired-but-modernized rendering of older content, keeping the weight in the weak band.
+
+Notes: [[Doctrinal And Literary Integration in Moses 6]] · [[Doctrinal-Textual in Moses 8]]
+
+### jsh-anthon-episode-reliability
+**Reliability of the Martin Harris-Charles Anthon episode as reported in Joseph Smith-History** — *moderate* (challenges, evidence_strength 0.4) for: Martin Harris's account, as embedded by Joseph Smith in JS-H 1:63-65, accurately represents what Professor Charles Anthon actually said and did regarding the characters and their translation.
+
+JS-H explicitly frames the episode as Harris's secondhand report, and Anthon's own later letters (1834, 1841) independently describe the same meeting in materially different terms, disputing that he certified the characters as a genuine, correctly-translated ancient language; this is moderate evidence against taking Harris's most favorable claims at face value, though it does not establish which party's account is more accurate, since Anthon's letters were also written later, amid controversy, and are not themselves free of bias.
+
+Notes: [[Embedded Secondhand Testimony in Joseph Smith—History 1]]
+
 ### bom-intratextual-symbolic-glossing
 **Self-glossing symbolism as evidence of unified compositional design** — *none* (supports, evidence_strength 0.12) for: The coordinated glosses in 1 Nephi 11–15 favor unified original design of the dream sequence over later interpretive development or redaction.
 
 The later chapters unmistakably give the principal dream images symbolic meanings, but unified planning and later interpretive systematization predict this final-form coordination about equally. It therefore supplies none-band support for unified original composition and no independent support for antiquity, historicity, or inspiration.
 
 Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
+
+### bom-3nephi-luke-kjv-parallel
+**Verbal parallel between 3 Nephi 18:18 and Luke 22:31 (KJV-mediated wording)** — *weak* (supports, evidence_strength 0.22) for: The distinctive 'sift you as wheat' wording in 3 Nephi 18:18 reflects the same KJV-mediated textual source as Luke 22:31, rather than an independently-worded ancient utterance.
+
+The near-verbatim match to Luke 22:31 is real and unlikely to be coincidental, but it is one instance of the Book of Mormon's pervasive KJV-influenced diction (the same underlying mechanism as the Isaiah-dependence issue), and an ancient saying rendered into KJV idiom, a loose translation, and outright 19th-century composition all predict the same wording about equally well, so it only weakly discriminates between models of the text's origin.
+
+Notes: [[Distinctive Verbal Parallel in 3 Nephi 18]]
