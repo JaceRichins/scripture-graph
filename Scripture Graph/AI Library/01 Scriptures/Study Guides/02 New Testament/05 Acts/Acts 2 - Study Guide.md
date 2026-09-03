@@ -23,7 +23,12 @@ Scripture: [[Acts 2]] · My notes: [[Acts 2 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+- Verses 1-4: The gathered group is filled with the Holy Ghost amid a heavenly sound, fire-like tongues, and Spirit-enabled speech.
+- Verses 5-13: People connected with many nations hear their native languages; responses range from amazement and questioning to mockery.
+- Verses 14-21: Peter denies that the speakers are drunk and identifies the event with Joel’s promise of a last-days outpouring of the Spirit.
+- Verses 22-36: Peter proclaims Jesus’s death, resurrection, and exaltation, applying [[Psalm 16]] and [[Psalm 110]] to him and concluding that Jesus is “both Lord and Christ.”
+- Verses 37-41: The hearers ask what to do; Peter calls for repentance and baptism, and Acts reports about three thousand baptisms.
+- Verses 42-47: The chapter closes with shared teaching, fellowship, prayers, meals, worship, signs, and need-based distribution of possessions.
 <!-- SG:END structure -->
 
 ## People
@@ -51,14 +56,13 @@ _Not yet developed._
 - [[Alma 22]] — 2 footnote cross-references (from [[Acts 2#^acts-2-37|Acts 2:37]])
 - [[Joel 2]] — 3 parallel verses, e.g. [[Acts 2#^acts-2-17|Acts 2:17]] ↔ [[Joel 2#^joel-2-28|Joel 2:28]]
 - [[Psalm 16]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-27|Acts 2:27]] ↔ [[Psalm 16#^ps-16-10|Psalm 16:10]]
-- [[Matthew 22]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-34|Acts 2:34]] ↔ [[Matthew 22#^matt-22-44|Matthew 22:44]]
-- [[Luke 20]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-34|Acts 2:34]] ↔ [[Luke 20#^luke-20-42|Luke 20:42]]
 - [[D&C 49]] — 2 parallel verses, e.g. [[Acts 2#^acts-2-38|Acts 2:38]] ↔ [[D&C 49#^dc-49-14|D&C 49:14]]
-- [[Acts 5]] — 2 parallel verses, e.g. [[Acts 2#^acts-2-14|Acts 2:14]] ↔ [[Acts 5#^acts-5-35|Acts 5:35]]
-- [[Acts 4]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-4|Acts 2:4]] ↔ [[Acts 4#^acts-4-31|Acts 4:31]]
 - [[Moses 6]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-38|Acts 2:38]] ↔ [[Moses 6#^moses-6-52|Moses 6:52]]
+- [[Acts 4]] — 0 parallel verses
 - [[D&C 109]] — 0 parallel verses
 - [[D&C 49]] — 0 parallel verses
+- [[4 Nephi 1]] — 0 parallel verses
+- [[Acts 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,7 +75,11 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Acts 2 directly connects [[Repentance]], [[Baptism]], remission of sins, and the promised [[Gift of the Holy Ghost]] in Peter’s answer to the crowd (vv. 37-39). This is the sequence stated here, although other accounts in Acts must be examined before making it an invariant chronology for receiving the Spirit.
+
+Peter’s proclamation centers on the [[Resurrection]] and exaltation of Jesus Christ. He declares that God raised Jesus and identifies the apostolic group as witnesses (vv. 24, 32-36). He supports this proclamation by applying Joel, [[Psalm 16]], and [[Psalm 110]] to the events. Acts therefore provides direct evidence for Peter’s scriptural interpretation; it does not by itself establish that every passage originally had only the christological meaning Peter gives it.
+
+Verses 42-47 associate conversion with continuing in apostolic teaching, fellowship, prayers, worship, shared meals, and material care. The account describes common holdings and need-based distribution but does not specify that all private ownership was abolished or impose the Jerusalem practice as a universal economic rule.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -114,12 +122,26 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Biblical Hermeneutics *(tentative)*
+> Peter's twofold appeal to Psalm 16 and Psalm 110 -- both personal/royal psalms attributed to David -- to argue for the Messiah's bodily resurrection and heavenly exaltation is an early instance of Christian typological reading of the Psalms as messianic prophecy, applied in the same rhetorical pattern (David spoke of one greater than himself) that the Gospels attribute to Jesus's own use of Psalm 110.
+> — strength 0.6 · confidence 0.7 · Interpretive synthesis plausible but historically qualified
+
+> [!evidence] Prophetic Fulfillment Claim *(tentative)*
+> Peter's citation of Joel presents Pentecost as fulfilling the promised 'last days' outpouring of the Spirit, but the quoted passage also includes cosmic portents ('the sun shall be turned into darkness, and the moon into blood') that did not literally occur at Pentecost, so the claim of fulfillment is best read as an inaugurated/partial fulfillment rather than a complete, one-time event.
+> — strength 0.5 · confidence 0.6 · Textual tension accepted; eschatological resolution disputed
+
+> [!evidence] Textual/Linguistic Phenomenon *(tentative)*
+> This description (known foreign languages, immediately intelligible, no interpreter needed) is often treated by scholars as textually and phenomenologically distinct from the gift of tongues Paul describes in 1 Corinthians 12-14, which explicitly requires interpretation. The text itself does not state whether the miracle occurred in the speakers' utterance or in the hearers' perception.
+> — strength 0.5 · confidence 0.5 · Disputed comparison lacking identified scholarly support
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Peter identifies Pentecost with Joel’s promised outpouring, while the quotation also includes cosmic signs not narrated in Acts 2. What readings of fulfillment—initial, typological, symbolic, ongoing, or future—best account for both features?
+- Acts says that listeners heard the disciples in their native languages (vv. 6, 8, 11). What does this establish, and what does it leave unresolved about whether the miracle operated through speech, hearing, or both?
+- How does Peter’s argument from David’s death and burial shape his application of [[Psalm 16]] and [[Psalm 110]] to Jesus? How might that application differ from the psalms’ possible earlier settings?
+- What economic practices are explicitly described in verses 44-46? Which conclusions about voluntariness, ownership, duration, or universal obligation would require evidence from beyond this chapter?
+- How should Luke’s reported figure of “about three thousand” be handled when distinguishing the narrative’s explicit claim from an independently verified historical count?
 <!-- SG:END questions -->
 
 ## Further Study
