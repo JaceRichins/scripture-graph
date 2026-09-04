@@ -14,77 +14,83 @@ consensus_status: accepted observation / disputed interpretation
 weight_label: strong
 direction: supports
 issue: bom-4nephi-wealth-apostasy-pattern
-proposition: The final-form narrative of 4 Nephi deliberately places the transition from shared goods to status display, class division, gain-seeking churches, and hoarded wealth as literary markers of communal apostasy, rather than the wealth language being incidental to a bare chronological report.
-calibrated_at: '2026-09-03T17:03:32Z'
-calibration_version: 1
+proposition: The final-form narrative deliberately presents costly display, the end of common ownership, class division, gain-seeking religion, pride in riches, and accumulated treasure as recurring markers or mechanisms of communal apostasy.
+calibrated_at: '2026-09-04T22:58:46Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Internal Literary Pattern in 4 Nephi 1
 
 ## Summary
 <!-- SG:BEGIN summary -->
-The contrast between shared prosperity without rich and poor and the later sequence of costly display, ended common ownership, class division, gain-seeking churches, pride, and accumulated treasure strongly supports an intentional wealth-and-apostasy pattern in 4 Nephi. The narrative does not condemn prosperity uniformly or provide a complete causal economic history, and the pattern does not establish ancient provenance or historicity. See [[4 Nephi 1#^4ne-1-3|4 Nephi 1:3]], [[4 Nephi 1#^4ne-1-23|4 Nephi 1:23]], [[4 Nephi 1#^4ne-1-24|4 Nephi 1:24]], [[4 Nephi 1#^4ne-1-25|4 Nephi 1:25]], [[4 Nephi 1#^4ne-1-26|4 Nephi 1:26]], [[4 Nephi 1#^4ne-1-41|4 Nephi 1:41]], [[4 Nephi 1#^4ne-1-43|4 Nephi 1:43]], and [[4 Nephi 1#^4ne-1-46|4 Nephi 1:46]].
+The contrast between shared prosperity without rich and poor and the later sequence of costly display, ended common ownership, class division, gain-seeking churches, pride, and accumulated treasure strongly supports an intentional wealth-and-apostasy pattern in 4 Nephi. Verse 23 prevents a blanket condemnation of prosperity, while the chapter's compression prevents treating its sequence as a complete economic history. See [[4 Nephi 1#^4ne-1-3|4 Nephi 1:3]], [[4 Nephi 1#^4ne-1-23|4 Nephi 1:23]], [[4 Nephi 1#^4ne-1-24|4 Nephi 1:24]], [[4 Nephi 1#^4ne-1-25|4 Nephi 1:25]], [[4 Nephi 1#^4ne-1-26|4 Nephi 1:26]], [[4 Nephi 1#^4ne-1-41|4 Nephi 1:41]], [[4 Nephi 1#^4ne-1-43|4 Nephi 1:43]], and [[4 Nephi 1#^4ne-1-46|4 Nephi 1:46]].
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-The united society initially has all things common and no rich or poor; it later becomes prosperous, after which the narrative places pride and costly display, the end of common ownership, division into classes, gain-seeking and ornamented churches, pride in riches, and accumulated gold and silver along the trajectory of decline. Prosperity itself is not uniformly condemned, since verse 23 portrays riches as part of prosperity in Christ.
+The united society initially has all things common and no rich or poor. After prosperity is reported positively in verse 23, the decline narrative places pride and costly display, the end of common ownership, class division, gain-seeking and ornamented churches, pride in riches, and stored gold and silver at successive stages. See [[4 Nephi 1#^4ne-1-3|4 Nephi 1:3]], [[4 Nephi 1#^4ne-1-23|4 Nephi 1:23]], [[4 Nephi 1#^4ne-1-24|4 Nephi 1:24]], [[4 Nephi 1#^4ne-1-25|4 Nephi 1:25]], [[4 Nephi 1#^4ne-1-26|4 Nephi 1:26]], [[4 Nephi 1#^4ne-1-41|4 Nephi 1:41]], [[4 Nephi 1#^4ne-1-43|4 Nephi 1:43]], and [[4 Nephi 1#^4ne-1-46|4 Nephi 1:46]].
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The strongest critical qualification is that the narrator supplies a selective theological history rather than a controlled economic analysis: juxtaposition does not establish that ending common ownership or possessing wealth caused every later evil. What survives is a strong literary conclusion that unequal, prideful, status-producing uses of wealth function as recurring signs and mechanisms of apostasy in the narrator's presentation.
+The strongest critical qualification is that this is selective theological narration covering centuries, not controlled economic history: sequence and juxtaposition cannot show that wealth, private property, or the end of common ownership caused every later evil. Verse 23 also prevents a simple equation of prosperity with apostasy. What survives is strong evidence that unequal, prideful, status-producing uses of wealth are deliberately made recurring markers and mechanisms of decline in the narrator's presentation.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-The pattern is compatible with remembered social change, theological compression of a more complicated history, loose translation, or modern Christian social criticism. It provides evidence about the narrator's moral framing, not a complete economic history of an independently verified society.
+The pattern is compatible with remembered social change, theological compression of complex history, translation-level shaping, or modern Christian social criticism. It illuminates the narrator's moral interpretation but does not independently establish the society, institutions, chronology, or complete causal sequence.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-The pattern strongly supports a coherent social-ethical theme within 4 Nephi and challenges readings that detach pride, class division, and gain-seeking religion from the narrated decline. It does not authenticate the history or justify the broader proposition that wealth or private property always causes apostasy.
+The pattern strongly supports a coherent social-ethical design within 4 Nephi and challenges interpretations that detach costly display, class division, religious gain, and hoarding from the narrated apostasy. It provides no independent support for ancient provenance and does not justify universal claims about prosperity or property.
 
-**Inspiration:** The pattern by itself says nothing about inspiration; inspired history, theological abridgment, and ordinary moral composition can all organize decline around wealth and inequality.
+**Inspiration:** The pattern implies nothing by itself about inspiration because inspired history, theological abridgment, and ordinary moral composition can all organize decline around wealth and inequality.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-It does not establish that wealth inevitably causes wickedness, that prosperity is intrinsically condemned, that all private property is rejected, that the listed developments exhaust the causes of decline, or that the narrated society and chronology are historical.
+It does not establish that wealth inevitably causes wickedness, that prosperity is intrinsically condemned, that private property is always rejected, that the listed economic developments exhaust the causes of decline, or that the society and chronology are historical.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Historical ancient abridgment** — predicts: An abridger may select recurring economic and status indicators as significant causes or symptoms of a society's decline.. Fit with this evidence: *supports*.
-- **Theologically compressed history** — predicts: A narrator may simplify complex social change into a moral sequence centered on pride, inequality, and apostasy.. Fit with this evidence: *supports*.
-- **Loose translation or revelatory shaping** — predicts: The English rendering may sharpen the social and theological relationships within older material.. Fit with this evidence: *consistent*.
-- **Nineteenth-century Christian social critique** — predicts: A modern author can contrast Christian communal equality with class hierarchy, conspicuous consumption, and gain-seeking churches.. Fit with this evidence: *consistent*.
-- **Incidental juxtaposition** — predicts: Economic terms would occur without systematic concentration at the transition from unity to division.. Fit with this evidence: *strongly challenged*.
+- **Nineteenth-century Christian social critique** — predicts: A modern religious author can contrast communal equality with conspicuous consumption, class hierarchy, gain-seeking churches, and hoarded wealth.. Fit with this evidence: *consistent*.
+- **Theologically compressed history** — predicts: A moral narrator will simplify centuries of social change by selecting economic and status practices that embody apostasy.. Fit with this evidence: *supports*.
+- **Loose translation or revelatory shaping** — predicts: The English rendering may sharpen relationships between prosperity, pride, class formation, and religious corruption.. Fit with this evidence: *consistent*.
+- **Historical ancient abridgment** — predicts: An abridger may repeatedly select economic inequality and status competition as causes or symptoms of historical decline.. Fit with this evidence: *supports*.
+- **Incidental chronological juxtaposition** — predicts: Economic vocabulary would appear without systematic concentration at transitions from unity to division and apostasy.. Fit with this evidence: *strongly challenged*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- The sequence is theological compression rather than a complete account of social causation. — *independently supported*: Abridged moral histories commonly select events according to theological purpose, and 4 Nephi covers centuries in a very short narrative.
-- The end of common ownership had unstated practical causes unrelated to apostasy. — *possible*: The text does not provide a full causal history, but this possibility does not remove the narrator's deliberate placement of the change within the decline.
-- Pride and inequality, rather than wealth itself, are the actual targets. — *plausible*: Verse 23 treats prosperity positively, whereas later passages emphasize costly display, classes, gain, pride, and hoarding.
-- The pattern expresses a modern Christian communal ideal rather than ancient social memory. — *plausible*: A nineteenth-century theological author could deliberately construct the same contrast; the internal pattern supplies no independent date.
-- The economic vocabulary is incidental and has no organizing role. — *ad hoc*: Its repetition at major stages of the decline and its association with pride, classes, churches, and hoarding make pure accident difficult to sustain.
+- The sequence is theological compression rather than a complete account of social causation. — *independently supported*: The chapter summarizes centuries briefly and selects developments according to an overtly moral narrative purpose.
+- Pride, inequality, and status competition—not prosperity itself—are the principal targets. — *plausible*: Verse 23 portrays riches within prosperity in Christ positively, while later verses emphasize display, classes, gain, vanity, and accumulation.
+- The end of common ownership had unstated practical causes unrelated to apostasy. — *possible*: The narrative is too compressed to give a complete causal history, although this does not remove the change's literary placement within the decline.
+- The pattern expresses a nineteenth-century Christian communal ideal rather than ancient social memory. — *plausible*: A modern theological author could construct the same contrast without access to ancient records.
+- The economic vocabulary is incidental to the chronology. — *ad hoc*: Its repeated placement at major stages and its association with pride, class division, religious gain, and hoarding make pure accident difficult to sustain.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-A biblical narrative repeatedly associating status display, class formation, religious gain, and hoarded wealth with decline would likewise receive strong weight for the narrator's moral framing but not for universal economic causation or historicity. The existing note is neither unusually harsh nor unusually soft and its 0.82 weight is appropriate for this limited literary proposition.
+A biblical narrative repeatedly associating conspicuous display, class formation, religious gain, and hoarding with decline would receive strong weight for narratorial moral framing but not for universal economic causation or historicity. The current 0.82 assessment is symmetrical and appropriately limited.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
-**Strong** (supports, evidence_strength 0.82) for the proposition: *The final-form narrative of 4 Nephi deliberately places the transition from shared goods to status display, class division, gain-seeking churches, and hoarded wealth as literary markers of communal apostasy, rather than the wealth language being incidental to a bare chronological report.*
+**Strong** (supports, evidence_strength 0.82) for the proposition: *The final-form narrative deliberately presents costly display, the end of common ownership, class division, gain-seeking religion, pride in riches, and accumulated treasure as recurring markers or mechanisms of communal apostasy.*
 
-The repeated placement of inequality, costly display, class division, gain-seeking religion, and hoarded wealth strongly supports their role as literary markers of apostasy in 4 Nephi, without establishing universal economic causation or the narrative's historicity.
+The repeated placement of inequality, costly display, class division, gain-seeking religion, and accumulated wealth strongly supports their deliberate role as markers of apostasy in 4 Nephi, without establishing universal economic causation or historicity.
 
-Base rate / look-elsewhere: Wealth, pride, inequality, corrupt religious display, and social collapse are common themes in biblical and Christian moral literature, so the content is not provenance-specific. Eight cited locations across the chapter place related vocabulary at the transition and later stages of decline; no matched narrative control is supplied, but the repeated placement makes an organizing function substantially more likely than incidental occurrence.
+Base rate / look-elsewhere: Wealth, pride, inequality, corrupt religious display, and social decline are common themes in biblical and Christian moral literature, so the content is not provenance-specific. Eight cited locations place related language at decisive stages of the chapter's trajectory; despite the absence of a matched control, this concentration makes an organizing role substantially more likely than incidental occurrence.
 
-What would move this: The literary weight would rise if a full lexical analysis showed that economic-status vocabulary is statistically concentrated at structurally decisive stages and consistently linked by causal language to apostasy; it would fall if comprehensive coding revealed equally prominent counterexamples or showed that the pattern depends on selectively excluding other dominant causes. Independent evidence for the depicted institutions and chronology would separately raise historical significance.
+What would move this: Assessed 2026-09-04. The literary weight would rise if comprehensive lexical analysis found economic-status language concentrated at structurally decisive stages and repeatedly joined to apostasy by causal language; it would fall if full coding revealed equally prominent counterexamples or showed that the pattern results from excluding other dominant causes.
 
 Canonical assessment: [[Evidence Assessments#bom-4nephi-wealth-apostasy-pattern|Wealth, inequality, and apostasy as a deliberate literary pattern in 4 Nephi]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+Compressed moral histories commonly select social changes that embody a narrator's explanation of communal decline. On a historical-abridgment reconstruction, the narrator chooses inequality, status display, gain-seeking religion, and hoarding as significant features of a more complicated social collapse. On a literary or nineteenth-century reconstruction, the narrative contrasts an ideal Christian community with hierarchy and acquisitiveness to advance a social ethic. Verse 23 establishes the important internal distinction: prosperity can be narrated positively, while prideful inequality and status competition mark apostasy.
+<!-- SG:END how-it-fits -->

@@ -95,9 +95,9 @@ The exact phrase “all things common,” within a broader cluster of unity and 
 Notes: [[Intertextual Thematic Parallel in 4 Nephi 1]]
 
 ### bom-1nephi6-editorial-persona
-**Construction of Nephi as a self-conscious editor in 1 Nephi 6** — *strong* (supports, evidence_strength 0.84) for: The final-form chapter deliberately constructs Nephi as a self-conscious editor who distinguishes sources, cites a material constraint, states a theological purpose, and directs later custodians, rather than the editorial statements being incidental or unplanned narration.
+**Construction of Nephi as a self-conscious editor in 1 Nephi 6** — *strong* (supports, evidence_strength 0.84) for: The final-form chapter deliberately constructs Nephi as a self-conscious editor who distinguishes sources, selects material, invokes a physical constraint, states a theological purpose, and directs later custodians.
 
-The four clustered, explicit editorial statements strongly support deliberate construction of an editor-persona in the final text. This is the correct scope for the strong score: an authentic ancient record-keeper and a modern author using the well-attested 'found-manuscript' literary convention both predict identical surface features, so the strong weight does not extend to ancient provenance, the plates' physical existence, or Nephi's historicity, all of which remain independently unestablished (none-band on their own).
+The clustered source, selection, space, purpose, and succession statements strongly support deliberate construction of an editorial persona, while providing no independent discrimination between an ancient record keeper and literary characterization.
 
 Notes: [[Internal Literary Evidence in 1 Nephi 6]]
 
@@ -116,9 +116,9 @@ Giddianhi's grievance claim and the immediately adjacent narratorial rebuttal st
 Notes: [[Internal Narrative Contrast in 3 Nephi 3]]
 
 ### bom-1nephi12-vision-fulfillment-correspondence
-**Correspondence between Nephi's vision (1 Nephi 12) and later narrated fulfillments** — *moderate* (supports, evidence_strength 0.48) for: The final-form Book of Mormon deliberately shapes the imagery and sequence of Nephi's vision (destruction, Christophany, generations of righteousness, then contention/defeat) to correspond with the later narrated events in 3 Nephi 8, 3 Nephi 11, 4 Nephi, and Mormon 1, rather than the fit being a loose restatement of the book's own generic destruction/peace/pride template.
+**Correspondence between Nephi's vision (1 Nephi 12) and later narrated fulfillments** — *moderate* (supports, evidence_strength 0.48) for: The final-form Book of Mormon deliberately coordinates the ordered sequence in 1 Nephi 12 (destruction, Christophany, generations of righteousness, contention) with the later narratives in 3 Nephi 8, 3 Nephi 11, 4 Nephi, and Mormon 1, rather than the fit being a loose restatement of the book's recurring destruction/peace/pride template.
 
-The four-beat ordered match across widely separated books moderately supports deliberate final-form narrative design over accidental juxtaposition, but the beats are drawn from the Book of Mormon's own frequently recurring destruction/peace/pride template and span a large cross-book search space, which caps how much specificity the ordering can establish. It gives almost no separate support to genuine pre-event prophecy, antiquity, or historicity, which remain none-band (~0.1), consistent with the neighboring bom-2nephi6-predictive-prophecy and bom-3nephi2-chronological-system entries.
+The ordered four-part correspondence moderately supports deliberate final-form coordination, while the recurring narrative template, large cross-book search space, and common-source setting sharply limit its force as evidence of genuine prediction, antiquity, or historicity.
 
 Notes: [[Internal Literary Correspondence in 1 Nephi 12]]
 
@@ -165,9 +165,9 @@ The distinctive paired wording, nearby quotation, and continuing exposition stro
 Notes: [[Intertextual Reuse in 2 Nephi 10]]
 
 ### pgp-moses7-weeping-motif
-**Distributed weeping/compassionate-grief motif as a central literary theme of Moses 7** — *strong* (supports, evidence_strength 0.85) for: The final-form vision in Moses 7 deliberately distributes weeping and mourning among God, the heavens, Enoch, and the personified earth to make compassionate grief over wickedness and suffering a central, organizing literary theme, rather than the weeping language being scattered or merely conventional lament.
+**Distributed weeping/compassionate-grief motif as a central literary theme of Moses 7** — *strong* (supports, evidence_strength 0.85) for: The final-form vision deliberately distributes weeping and mourning among God, the heavens, Enoch, and the personified earth to make compassionate grief over wickedness and suffering a central organizing theme.
 
-The eight-fold recurrence of weeping/mourning language, distributed across four distinct subjects (God, heavens, Enoch, earth) and tied to a shared cause (wickedness/suffering), strongly supports a deliberately central, organizing literary theme. This is a literary-design finding only: it gives no independent support for the theme's antiquity or revelatory origin, and it does not resolve whether the language should be read as literal divine emotion, anthropomorphism, or personification.
+The dense distribution of weeping among God, heaven, Enoch, and earth strongly supports compassionate grief as a central final-form theme, while remaining neutral about provenance, inspiration, and the metaphysics of divine emotion.
 
 Notes: [[Internal Literary Pattern in Moses 7]]
 
@@ -319,9 +319,9 @@ The sustained sequence and close English wording strongly support Matthew/KJV te
 Notes: [[Extended Textual Parallel in 3 Nephi 13]]
 
 ### bom-2nephi29-multiple-records-theme
-**Multiple sacred records as the organizing theme of 2 Nephi 29** — *strong* (supports, evidence_strength 0.75) for: The final-form discourse in 2 Nephi 29:3-14 deliberately organizes the Bible-sufficiency objection, the two-nation witness, the argument that one divine word does not preclude another, the catalogue of writing peoples, and the promised exchange/gathering of records into one coordinated, escalating theme, rather than the repetition being incidental sermonic amplification.
+**Multiple sacred records as the organizing theme of 2 Nephi 29** — *strong* (supports, evidence_strength 0.75) for: The final-form discourse in 2 Nephi 29:3-14 deliberately organizes its objection, theological rationale, catalogue of writing peoples, and promised exchange and gathering around the theme of multiple sacred records.
 
-The density and escalating progression of records language across nine cited verses strongly supports deliberate final-form thematic organization. This says nothing about the discourse's date or divine origin, since ancient prophecy, later editorial shaping, modern revelation, and nineteenth-century advocacy for the Book of Mormon's own canonicity all predict the same organized argument about equally well.
+The density and progression of the records language strongly support a deliberately organized final-form theme, but they do not discriminate among ancient prophecy, editorial shaping, modern revelation, and nineteenth-century advocacy.
 
 Notes: [[Internal Literary Evidence in 2 Nephi 29]]
 
@@ -417,9 +417,9 @@ The adjacency, causal narration, and repeated destruction language strongly supp
 Notes: [[Internal Narrative Correspondence in Ether 11]]
 
 ### bom-4nephi-wealth-apostasy-pattern
-**Wealth, inequality, and apostasy as a deliberate literary pattern in 4 Nephi** — *strong* (supports, evidence_strength 0.82) for: The final-form narrative of 4 Nephi deliberately places the transition from shared goods to status display, class division, gain-seeking churches, and hoarded wealth as literary markers of communal apostasy, rather than the wealth language being incidental to a bare chronological report.
+**Wealth, inequality, and apostasy as a deliberate literary pattern in 4 Nephi** — *strong* (supports, evidence_strength 0.82) for: The final-form narrative deliberately presents costly display, the end of common ownership, class division, gain-seeking religion, pride in riches, and accumulated treasure as recurring markers or mechanisms of communal apostasy.
 
-The recurring placement of inequality, costly display, class division, and hoarded wealth at each stage of the narrated decline strongly supports a deliberate editorial pattern within this chapter. The same wealth-pride-decline template recurs elsewhere in the Book of Mormon (e.g., Alma 46, 0.83), so citing multiple instances together as cumulative, independent proof of a book-wide editorial habit would double-count one underlying compositional cause — but that concern governs how notes are combined across chapters, not this note's own within-chapter evidentiary strength, which rests on its own textual detail. It does not establish that wealth inevitably causes apostasy or that the sequence is a complete economic history.
+The repeated placement of inequality, costly display, class division, gain-seeking religion, and accumulated wealth strongly supports their deliberate role as markers of apostasy in 4 Nephi, without establishing universal economic causation or historicity.
 
 Notes: [[Internal Literary Pattern in 4 Nephi 1]]
 
