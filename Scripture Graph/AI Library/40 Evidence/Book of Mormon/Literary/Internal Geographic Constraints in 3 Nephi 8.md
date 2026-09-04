@@ -14,72 +14,81 @@ consensus_status: disputed
 weight_label: strong
 direction: challenges
 issue: bom-3nephi8-geographic-identifiability
-proposition: The geographic and disaster descriptions in 3 Nephi 8 are sufficient by themselves to identify a unique real-world setting for the narrated cities and lands.
-calibrated_at: '2026-09-03T17:05:04Z'
-calibration_version: 1
+proposition: The geographic and disaster descriptions in 3 Nephi 8 are sufficient by themselves to identify a unique modern setting for the narrated cities and lands.
+calibrated_at: '2026-09-04T23:03:07Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Internal Geographic Constraints in 3 Nephi 8
 
 ## Summary
 <!-- SG:BEGIN summary -->
-3 Nephi 8 provides named cities, relative lands, and differentiated forms of destruction, but these amount to strong evidence challenging the claim that this chapter alone uniquely identifies a modern geography. Generic disaster phenomena, missing distances, and absent external anchors leave numerous historical and literary settings viable. That underdetermination neither validates a proposed map nor rules out a historical setting.
+3 Nephi 8 supplies named cities, relative lands, and differentiated forms of destruction, but no distances or independent geographic anchor. These constraints strongly challenge the claim that this chapter alone identifies a unique modern setting, because historical landscapes with lost names, constructed geographies, and schematic disaster narratives all remain viable. The underdetermination neither validates a preferred map nor rules out a historical landscape.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-The chapter names cities (Zarahemla, Moroni, Moronihah), gives relative directional information (land northward/southward), and describes terrain change (sinking, burning, mountain formation, road destruction) within one destruction narrative.
+3 Nephi 8 names Zarahemla, Moroni, Moronihah, and other settlements; distinguishes the lands northward and southward; and distributes burning, inundation, burial, terrain change, and damaged roads across the destruction account. It supplies no travel distances, coordinates, securely identified external place-name, or archaeological anchor.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-These are internally coherent relative geographic markers within a single episode.
+The chapter supplies genuine relative constraints, but they are broad and embedded in a formulaic catastrophe catalogue. Without distances or an external anchor, the details do not jointly select one modern landscape over competing historical or constructed settings.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-As the note itself already concedes, these markers are insufficient to uniquely identify a real-world geography; they underdetermine every proposed correlation.
+The description is compatible with memory of a real landscape whose place-names have been lost, but it is equally compatible with schematic or invented geography. Its present value is as an internal map of relationships and differentiated destruction, not as a unique modern locator.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-Because the note's own 'does not establish' concedes the descriptions cannot pin down a unique real map, this cannot simultaneously be scored as strong support for anything about real ancient geography — internal consistency alone is compatible with a genuinely remembered ancient landscape, an invented literary geography, or a geography assembled from generic tropes available in 1830.
+The underdetermination strongly challenges claims that 3 Nephi 8 alone validates one proposed Book of Mormon geography. It neither challenges the mere possibility of a historical setting nor supports a particular alternative map.
 
-**Inspiration:** Nothing — internally consistent but non-locatable geographic description says nothing about whether the text is divinely inspired.
+**Inspiration:** The geographic underdetermination implies nothing by itself about whether the text is divinely inspired.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-It does not establish that any specific proposed real-world site or region corresponds to Zarahemla, Moroni, Moronihah, or the lands northward/southward, nor that the underlying geography is ancient rather than a 19th-century literary construction.
+It does not establish that the named cities were fictional, that no historical geography could underlie the narrative, that all modern proposals are equally plausible, or that any particular proposed location is correct.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **genuine ancient historical geography preserved through transmission** — predicts: internally consistent relative geography without requiring a unique modern match. Fit with this evidence: *not ruled out*.
-- **literary/constructed geography (ancient fictional or 19th-century composition)** — predicts: the identical internally consistent but non-uniquely-locatable pattern. Fit with this evidence: *consistent*.
+- **Unique modern-geography identification** — predicts: The chapter's constraints should jointly select one real region and exclude serious competitors without importing substantial information from elsewhere.. Fit with this evidence: *strongly challenged*.
+- **Historical but presently lost geography** — predicts: Internally meaningful relative descriptions may survive even though ancient names and exact locations can no longer be recovered.. Fit with this evidence: *consistent*.
+- **Constructed literary geography** — predicts: Named settlements, broad directional relationships, and differentiated destruction can be created for narrative purposes without a uniquely recoverable real-world map.. Fit with this evidence: *consistent*.
+- **Schematic catastrophe narration** — predicts: Formulaic distributions of burning, sinking, burial, and terrain disruption serve theological and dramatic aims more than cartographic precision.. Fit with this evidence: *supports*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- Internally consistent geography constructed for narrative purposes without a real-world referent. — *plausible*: Relative directional language and generic terrain-catastrophe description are easy to generate without a real template.
-- Genuine memory of a real ancient landscape, later obscured by translation/redaction. — *possible*: Cannot be verified without an independent external anchor; no confirmed archaeological correlate exists for any named city.
-- Schematic/rhetorical rather than cartographic language. — *plausible*: The repeated formulaic destruction catalog (sunk/burned/shaken) reads as a literary device as much as literal reportage.
+- A real geography became unidentifiable because ancient place-names and local reference points were lost. — *independently supported*: Loss and displacement of ancient toponyms are well-attested general historical mechanisms, although that fact does not identify the Book of Mormon's locations.
+- The author constructed a coherent but fictional landscape. — *plausible*: Relative directions and differentiated city fates are readily produced within literary world-building and require no external referent.
+- The account is primarily schematic or theological rather than cartographic. — *plausible*: The repeated disaster categories and emphasis on comprehensive judgment can organize the description without encoding a recoverable physical map.
+- One proposed modern geography uniquely satisfies all the chapter's constraints. — *possible*: This could become plausible only through a documented comparison showing that the proposed setting fits specific constraints that serious rivals do not.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-Vague, non-uniquely-locatable geographic detail in an ancient text (e.g., unidentified place names in parts of Genesis or Judges) is treated by biblical scholars as underdetermining historical geography, not as positive evidence for any specific proposed location; the same standard applies here.
+Unidentified biblical or classical place-names are not treated as proof that their narratives are fictional, but neither are broad directions and generic terrain descriptions treated as uniquely identifying modern sites. The current note applies that same standard and correctly targets overconfident identification rather than historicity itself.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
-**Strong** (challenges, evidence_strength 0.72) for the proposition: *The geographic and disaster descriptions in 3 Nephi 8 are sufficient by themselves to identify a unique real-world setting for the narrated cities and lands.*
+**Strong** (challenges, evidence_strength 0.72) for the proposition: *The geographic and disaster descriptions in 3 Nephi 8 are sufficient by themselves to identify a unique modern setting for the narrated cities and lands.*
 
-The chapter's geographic language is real and internally coherent, but by the note's own admission it cannot identify a unique real-world geography, so per the consistency rule it can only count as none/weak-band evidence about real ancient geography, not the moderate-to-strong support the prior score implied.
+Although 3 Nephi 8 supplies real relative constraints and differentiated destruction, its generic disaster features, missing distances, and lack of an external anchor strongly challenge the claim that the chapter by itself identifies a unique modern geography.
 
-Base rate / look-elsewhere: No independent search denominator or control corpus is offered; internally coherent but non-locatable geography is common both in real ancient texts with lost place-names and in wholly invented narrative geographies, so the pattern alone does not discriminate between them.
+Base rate / look-elsewhere: Lost toponyms and underdetermined locations are common in genuine ancient texts, while coherent relative geography is also common in fictional narratives. Disaster catalogues involving fire, inundation, earthquakes, and terrain change are widespread, so without a systematic candidate comparison these features have little power to select one modern region.
 
-What would move this: Weight would rise if an independently dated, pre-existing toponym or archaeological feature matched the relative geography with specificity beyond chance (as Nahom functions for 1 Nephi); it would fall further if the same directional/terrain vocabulary were shown reused formulaically elsewhere in the text, suggesting schematic rather than referential geography.
+What would move this: The challenge would strengthen if systematic mapping showed that numerous materially different regions satisfy the complete constraint set equally well. It would weaken if a securely dated external toponym or archaeological complex matched several rare, ordered geographic relationships and disaster features while serious rival regions failed those same tests.
 
 Canonical assessment: [[Evidence Assessments#bom-3nephi8-geographic-identifiability|Whether 3 Nephi 8 uniquely identifies a modern geography]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On a historical reconstruction, the directions and city relationships could preserve a once-intelligible local geography whose ancient names have disappeared. On a literary reconstruction, the same details organize the scope and variety of the catastrophe. Both reconstructions explain why the chapter is coherent internally while remaining insufficient to select one modern map.
+<!-- SG:END how-it-fits -->

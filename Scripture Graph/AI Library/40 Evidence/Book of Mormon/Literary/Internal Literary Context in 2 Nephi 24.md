@@ -15,72 +15,79 @@ weight_label: strong
 direction: supports
 issue: bom-2nephi24-human-royal-referent
 proposition: The immediate literary target of the taunt in 2 Nephi 24 is a human imperial ruler, whatever secondary or typological applications readers may make.
-calibrated_at: '2026-09-03T17:05:04Z'
-calibration_version: 1
+calibrated_at: '2026-09-04T23:03:07Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Internal Literary Context in 2 Nephi 24
 
 ## Summary
 <!-- SG:BEGIN summary -->
-The king-of-Babylon frame and the description of the fallen figure as a man associated with kingdoms, ruined cities, and prisoners provide strong evidence that a human ruler is the poem's immediate literary target. The celestial imagery permits a possible secondary or typological application to Satan, but the poem alone does not establish that additional referent.
+Second Nephi 24:4 frames the poem as a taunt against Babylon's king, and verses 16-17 describe the fallen figure as a man associated with kingdoms, ruined cities, and prisoners. These features strongly support a human imperial ruler as the immediate literary target. The celestial imagery permits a later or typological application to Satan, but the poem itself does not establish Satan as its sole referent.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-2 Nephi 24:4 frames the poem as a 'proverb against the king of Babylon'; verse 12 addresses 'Lucifer, son of the morning' as 'cut down to the ground'; verses 16-17 have observers identify the fallen figure as 'the man that made the earth to tremble... and shake kingdoms,' who 'destroyed... cities' and held 'prisoners' — language describing an earthly ruler's conquests and captives.
+Second Nephi 24:4 introduces a taunt against the king of Babylon. Verse 12 addresses the fallen figure as Lucifer, son of the morning, while verses 16-17 call him a man and describe him as shaking kingdoms, destroying cities, and refusing to release prisoners.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The poem's explicit frame (v.4) and its concluding description of concrete political/military acts (vv.16-17) most naturally identify a human king as the taunt's primary subject; 'Lucifer' ('morning star,' a stock title for a boastful king in the ancient Near East) is the poetic image applied to that king, not a separate second referent.
+The explicit royal frame and return to human political and military acts make a human imperial ruler the poem's immediate target. The celestial fall imagery heightens the king's humiliation and can support later typological application, but the passage does not explicitly announce a change to a separate Satanic subject.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-This is a well-supported reading within mainstream biblical scholarship (both faithful and secular), which generally identifies the poem's original target as a historical Neo-Assyrian or Neo-Babylonian ruler, with a later Christian and LDS overlay applying 'Lucifer' typologically/directly to Satan (a reading at least as old as Origen/Tertullian and continued in LDS scripture, e.g., D&C 76:25-27).
+The reading fits the ancient genre of royal taunt and reversal, in which exalted or cosmic imagery portrays a ruler's pretension and downfall. Historical-literary scholarship widely treats the human king as the immediate referent, while Christian and LDS reception has also applied the passage to Satan.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-It strongly supports, as a textual observation, reading the poem's immediate target as human, which weighs against treating the passage as a straightforward, exclusive prooftext for Satan's premortal fall; it does not preclude a secondary or typological application, which the Book of Mormon and other LDS scripture elsewhere apply to Satan without claiming that is the taunt's sole historical referent.
+The passage strongly challenges an exclusive-Satan reading that treats the human royal frame as incidental. It remains compatible with a dual or typological reading in which the defeated king represents Satanic pride, especially when interpreted within later Christian or LDS canon.
 
-**Inspiration:** Nothing about historicity or inspiration follows from identifying the poem's literary referent; this is a question of correct reading, not of whether the text or its typological application is divinely inspired.
+**Inspiration:** Identifying the poem's immediate literary referent implies nothing by itself about its inspiration or the validity of later inspired typological applications.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-It does not establish that a secondary/typological application to Satan is illegitimate, that the human king cannot also function as a type of Satan within LDS theology, or which specific historical king (Sargon II, Nebuchadnezzar, or another) is meant.
+It does not identify the particular historical king, disprove a secondary application to Satan, show that later Christian or LDS typology is illegitimate, or establish whether the poem's inspired significance extends beyond its immediate literary referent.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **historical-critical reading (poem addressed to a specific ancient human king, 'Lucifer' as a stock royal epithet)** — predicts: the human-referent framing (v.4, vv.16-17), treating v.12's 'Lucifer' as poetic address to that king. Fit with this evidence: *supports*.
-- **exclusive-Satan reading (the poem is fundamentally about Satan's premortal fall)** — predicts: less emphasis on v.4's explicit framing and vv.16-17's concrete conquest/captive language. Fit with this evidence: *some difficulty*.
-- **dual/typological reading (human king as literal referent and literary type of Satan)** — predicts: exactly this text — explicit human framing plus language later read typologically. Fit with this evidence: *consistent*.
+- **Immediate human-ruler reading** — predicts: The taunt is framed against Babylon's king and consistently describes royal conquest, cities, kingdoms, prisoners, death, and dynastic disgrace.. Fit with this evidence: *supports*.
+- **Human ruler with secondary Satanic typology** — predicts: The immediate political referent remains intact while cosmic pride-and-fall language permits a later canonical application to Satan.. Fit with this evidence: *consistent*.
+- **Exclusive Satan reading** — predicts: The celestial language identifies Satan as the poem's sole real subject, requiring the king-of-Babylon frame and human acts to be treated as figurative or displaced.. Fit with this evidence: *some difficulty*.
+- **Unmarked mid-poem referent shift** — predicts: The subject changes from Babylon's king to Satan and then returns to human royal consequences without an explicit transition.. Fit with this evidence: *not ruled out*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- The human king is a literary type/vehicle for a deeper, intended reference to Satan. — *plausible*: This is a longstanding, coherent Christian and LDS interpretive strategy (typology), though it adds an interpretive layer beyond the poem's own words.
-- The passage shifts mid-poem from an earthly to a cosmic referent. — *possible*: Nothing in the Hebrew, KJV, or Book of Mormon wording marks an explicit shift; this reading imports the shift from outside the text.
-- V.12's 'Lucifer' address is to the human king throughout, with no cosmic referent originally intended. — *independently supported*: This is the majority position among historical-critical Isaiah scholars, based on the explicit v.4 frame and earthly conquest imagery in vv.16-17.
+- The human king serves as a literary type of Satan. — *plausible*: This longstanding Christian and LDS reading preserves the immediate human context while adding a canonical or theological layer.
+- The poem shifts temporarily from the king to Satan. — *possible*: The celestial imagery permits the proposal, but the text supplies no explicit marker of a subject change and soon identifies the figure as a man.
+- The entire taunt concerns the human king, with celestial imagery functioning poetically rather than naming Satan. — *independently supported*: The king-of-Babylon heading and the surrounding descriptions of kingdoms, cities, prisoners, death, and descendants directly support this reading.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-A New Testament citation that reapplies an Old Testament national oracle typologically (e.g., Hosea 11:1's 'out of Egypt have I called my son' applied to Jesus in Matthew 2:15, despite Hosea's own immediate referent being Israel) is treated as a legitimate but ADDED layer of meaning, not evidence the original human referent was absent; the same two-layer standard is applied here rather than flattening the text to Satan-only or denying the LDS typological reading's legitimacy.
+When a New Testament writer gives an earlier national or royal text a typological application, interpreters normally preserve the earlier passage's immediate historical referent while recognizing the added canonical layer. Applying that same method here permits Satanic typology without erasing the human king.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **Strong** (supports, evidence_strength 0.84) for the proposition: *The immediate literary target of the taunt in 2 Nephi 24 is a human imperial ruler, whatever secondary or typological applications readers may make.*
 
-The poem's own explicit framing (v.4) and its earthly conquest-and-captive imagery (vv.16-17) strongly support a human royal figure as the taunt's primary literary referent, which is uncontroversial among biblical scholars across faith traditions, while leaving room for — but not itself establishing — the well-attested secondary typological application to Satan found elsewhere in LDS scripture.
+The king-of-Babylon frame and the description of the fallen figure as a man who shook kingdoms, destroyed cities, and held prisoners strongly support a human ruler as the taunt's immediate target, while leaving a secondary Satanic application possible.
 
-Base rate / look-elsewhere: N/A — this is a single-passage referent-identification claim, not a searched pattern.
+Base rate / look-elsewhere: Ancient royal and divine-judgment poetry regularly uses elevated, cosmic, and descent imagery for human rulers, so celestial language alone does not require a nonhuman referent. This is a contextual referent judgment rather than a corpus-mined verbal pattern, although broader genre comparison remains relevant.
 
-What would move this: Little would raise this further given how explicit v.4 and vv.16-17 already are; it would only be lowered if manuscript evidence showed vv.16-17's imagery was a later insertion decoupling the taunt from its v.4 frame.
+What would move this: The weight would rise with early linguistic or contextual evidence showing that the morning-star imagery was conventionally applied to defeated human kings in this specific setting. It would fall if the earliest recoverable textual form separated the royal frame and human descriptions from the celestial passage, or if explicit ancient evidence established that the poem intentionally changes subjects.
 
 Canonical assessment: [[Evidence Assessments#bom-2nephi24-human-royal-referent|Immediate human royal referent of the taunt in 2 Nephi 24]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On the historical-literary reconstruction, the poem ridicules a Babylonian ruler whose aspiration to celestial height is reversed by death and public humiliation. On the typological reconstruction, that same human fall becomes an image of Satanic pride and defeat. The second reconstruction adds a canonical layer while retaining the first as the passage's immediate political setting.
+<!-- SG:END how-it-fits -->

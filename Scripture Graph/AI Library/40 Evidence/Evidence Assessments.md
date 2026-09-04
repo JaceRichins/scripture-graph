@@ -144,7 +144,7 @@ Shiblon's identification with the Zoramite mission and Alma's pointed reversal o
 Notes: [[Internal Narrative Coherence in Alma 38]]
 
 ### bom-alma43-defensive-war-framing
-**Defensive-war framing within Alma 43** — *strong* (supports, evidence_strength 0.7) for: Alma 43's narrator normatively frames Nephite violence in this particular battle as justified by defense of community goods and constrained when the enemy is overcome.
+**Defensive-war framing within Alma 43** — *strong* (supports, evidence_strength 0.7) for: Alma 43 normatively frames Nephite violence in this battle as defense of community goods and portrays continued killing as limited once the surrounded enemy is overcome.
 
 The chapter gives strong evidence that its narrator presents this battle as defensive and depicts a limit on continued killing. It does not establish a universal war ethic, Moroni's precise motive, historical compliance, or inspiration.
 
@@ -424,7 +424,7 @@ The repeated placement of inequality, costly display, class division, gain-seeki
 Notes: [[Internal Literary Pattern in 4 Nephi 1]]
 
 ### bom-3nephi8-geographic-identifiability
-**Whether 3 Nephi 8 uniquely identifies a modern geography** — *strong* (challenges, evidence_strength 0.72) for: The geographic and disaster descriptions in 3 Nephi 8 are sufficient by themselves to identify a unique real-world setting for the narrated cities and lands.
+**Whether 3 Nephi 8 uniquely identifies a modern geography** — *strong* (challenges, evidence_strength 0.72) for: The geographic and disaster descriptions in 3 Nephi 8 are sufficient by themselves to identify a unique modern setting for the narrated cities and lands.
 
 The chapter supplies genuine relative constraints but strongly challenges the claim that those constraints alone identify a unique modern geography. Its generic disaster features, absent distances, and lack of external anchors leave multiple historical and constructed settings viable.
 
@@ -438,7 +438,7 @@ The Zedekiah-era setting is internally coherent and historically appropriate, bu
 Notes: [[Historical Synchronism in 1 Nephi 1]]
 
 ### bom-zenos-zenock-intertextual-coherence
-**Zenos and Zenock intertextual linkage between 1 Nephi 19 and 3 Nephi 10** — *strong* (supports, evidence_strength 0.78) for: The final Book of Mormon text deliberately links 3 Nephi 10's destruction narrative with the Zenos-and-Zenock prophetic complex presented in 1 Nephi 19.
+**Zenos and Zenock intertextual linkage between 1 Nephi 19 and 3 Nephi 10** — *strong* (supports, evidence_strength 0.78) for: The final Book of Mormon text deliberately links the destruction account in 3 Nephi 10 with the Zenos-and-Zenock prophetic material presented in 1 Nephi 19.
 
 The shared prophetic names, Christ-event setting, catastrophe motifs, and appeal to prior writings strongly support deliberate final-form linkage. The evidence does not distinguish ancient shared tradition, editorial harmonization, translation-level coordination, or modern composition.
 
