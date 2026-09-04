@@ -67,9 +67,9 @@ The paired dog-and-sow imagery, preserved order, and close wording strongly supp
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: First Nephi 21 is deliberately dependent on or descended from the Isaiah 49 textual tradition in its final English form.
+**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: Book of Mormon Isaiah-quotation chapters deliberately depend on the Isaiah textual tradition rather than independently reproducing the same wording, sequence, and imagery.
 
-The sustained sequence and close English wording across twenty-six verses give strong support to dependence on the Isaiah 49/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory harmonization, or nineteenth-century adaptation, and related Isaiah chapters must not be counted as independent evidence.
+The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and related Isaiah quotations must not be counted as independent evidence.
 
 Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]]
 

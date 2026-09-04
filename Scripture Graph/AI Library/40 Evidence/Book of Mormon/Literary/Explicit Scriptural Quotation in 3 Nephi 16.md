@@ -15,75 +15,82 @@ weight_label: strong
 direction: supports
 issue: bom-isaiah-textual-dependence
 proposition: Book of Mormon Isaiah-quotation chapters deliberately depend on the Isaiah textual tradition rather than independently reproducing the same wording, sequence, and imagery.
-calibrated_at: '2026-09-03T15:35:05Z'
-calibration_version: 1
+calibrated_at: '2026-09-04T22:02:32Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Explicit Scriptural Quotation in 3 Nephi 16
 
 ## Summary
 <!-- SG:BEGIN summary -->
-[[3 Nephi 16#^3ne-16-17|3 Nephi 16:17]] explicitly names Isaiah before [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18]], [[3 Nephi 16#^3ne-16-19|3 Nephi 16:19]], and [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]] closely reproduce [[Isaiah 52#^isa-52-8|Isaiah 52:8]], [[Isaiah 52#^isa-52-9|Isaiah 52:9]], and [[Isaiah 52#^isa-52-10|Isaiah 52:10]] in order. This is strong evidence of intentional quotation, notwithstanding the minor “our God”/“God” variation. The relationship does not distinguish ancient quotation, KJV-mediated translation, or direct modern reuse, nor does it determine a fulfillment date.
+[[3 Nephi 16#^3ne-16-17|3 Nephi 16:17]] explicitly names Isaiah before [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18–20]] reproduce [[Isaiah 52#^isa-52-8|Isaiah 52:8–10]] in order, strongly supporting intentional quotation. The minor “salvation of God”/“salvation of our God” variation does not materially weaken that relationship. Ancient quotation, KJV-shaped translation or harmonization, and direct modern reuse remain viable mechanisms, and this instance shares the broader Isaiah-dependence evidence rather than multiplying it.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-Third Nephi 16:17 names the prophet Isaiah and introduces a fulfillment quotation; verses 18–20 then reproduce Isaiah 52:8–10 in the same order with close wording. A minor variation appears at the end: 3 Nephi has “salvation of God,” while the supplied Isaiah text has “salvation of our God.”
+[[3 Nephi 16#^3ne-16-17|3 Nephi 16:17]] explicitly names Isaiah and introduces a fulfillment quotation. [[3 Nephi 16#^3ne-16-18|Verses 18–20]] then reproduce [[Isaiah 52#^isa-52-8|Isaiah 52:8–10]] in the same order and with close wording. The final phrase varies slightly: 3 Nephi reads “salvation of God,” whereas the supplied Isaiah text reads “salvation of our God.”
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The explicit attribution and close three-verse correspondence identify intentional quotation from the Isaiah 52 tradition. The small wording variation is compatible with textual, translation, editorial, or compositional variation and does not negate the relationship.
+The explicit attribution followed by three consecutively corresponding verses strongly supports intentional quotation from the Isaiah 52 textual tradition. The minor wording difference is an ordinary kind of variation within textual reuse and does not materially weaken identification of the source.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-The quotation is compatible with an ancient speaker invoking Isaiah, a translation using conventional King James wording, or a modern composition drawing directly on the King James Bible. It strongly disfavors independent composition of these lines but does not determine the quotation's historical stage.
+The passage securely associates the final text with Isaiah 52. Ancient quotation, KJV-shaped translation, revelatory or editorial harmonization, and direct modern reuse can each produce the observed relationship; the quotation by itself does not identify which historical stage supplied the English wording.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-This strongly supports deliberate Isaiah dependence but does not independently support ancient Book of Mormon authorship or a particular fulfillment chronology. Because the same dependence mechanism explains sibling Isaiah passages, the quotation should not be added as a fully independent authorship argument.
+The explicit naming of Isaiah and the ordered three-verse correspondence make the supportive case for deliberate quotation especially strong. They do not, however, distinguish ancient Nephite use of Isaiah from translation-level biblical wording or modern KJV reuse. Because the same broad mechanism explains the Book of Mormon’s other Isaiah quotations, this passage should not be added as an independent argument for authorship.
 
-**Inspiration:** The presence of an explicit Isaiah quotation does not by itself imply either that the Book of Mormon is inspired or that it is not.
+**Inspiration:** The presence of an explicit Isaiah quotation implies nothing by itself about whether the Book of Mormon is inspired.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-It does not establish ancient authorship, the historical setting of the discourse, a fulfillment date, a unique interpretation of Isaiah 52, or the mechanism responsible for the English wording.
+The quotation does not establish ancient authorship, the historical occurrence of the reported discourse, a fulfillment date, a unique interpretation of Isaiah 52, or whether the English wording arose in an ancient source, translation, harmonization, or modern composition.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Ancient speaker quoting Isaiah** — predicts: A speaker familiar with Isaiah may explicitly attribute and apply Isaiah 52.. Fit with this evidence: *consistent*.
-- **KJV-mediated translation** — predicts: An ancient quotation may be rendered through familiar King James phrasing, with occasional variation.. Fit with this evidence: *consistent*.
-- **19th-century composition** — predicts: A composer using the King James Bible may explicitly name Isaiah and reproduce three consecutive verses.. Fit with this evidence: *consistent*.
-- **Independent coincidental composition** — predicts: Three ordered verses and an explicit attribution arise without dependence.. Fit with this evidence: *strongly challenged*.
+- **Ancient speaker quoting Isaiah** — predicts: A speaker familiar with Isaiah explicitly attributes and applies Isaiah 52.. Fit with this evidence: *consistent*.
+- **KJV-shaped translation of an ancient source** — predicts: An ancient quotation appears in familiar King James phrasing, potentially with minor variations.. Fit with this evidence: *consistent*.
+- **Revelatory or editorial harmonization** — predicts: The passage is consciously aligned with the received English Isaiah text during revelation, translation, or editing.. Fit with this evidence: *consistent*.
+- **Nineteenth-century composition** — predicts: A composer using the King James Bible explicitly names Isaiah and reproduces three consecutive verses.. Fit with this evidence: *consistent*.
+- **Independent coincidental composition** — predicts: An explicit attribution and three ordered, closely matching verses arise without dependence on Isaiah.. Fit with this evidence: *strongly challenged*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- A historical speaker directly quoted an available Isaianic tradition. — *possible*: The narrative explicitly presents the words as Isaiah's, but this note provides no external attestation of the speech or its textual source.
-- Translation rendered an ancient quotation in King James-style English. — *possible*: This fits the correspondence and minor variation, although the proposed translation mechanism is not independently tested here.
-- A modern composer directly quoted the King James Bible. — *plausible*: Ready access to the KJV and the close English sequence make this a straightforward explanation.
-- The “our God”/“God” difference reflects transmission, translation, deliberate editing, or ordinary copying variation. — *plausible*: Small variants commonly arise in textual reuse, but this single difference cannot identify which mechanism operated.
-- The correspondence is coincidental. — *ad hoc*: Explicit attribution followed by three ordered, closely matching verses is not credibly explained as chance.
+- A historical speaker directly quoted an Isaianic tradition available within the narrative setting. — *possible*: The narrative expressly presents the words as Isaiah’s, but this note supplies no external attestation of the speech or its source manuscript.
+- Translation or revelatory harmonization rendered an ancient quotation in King James-style English. — *possible*: This explains both the close English wording and the possibility of minor variation, although the mechanism is not independently tested here.
+- A nineteenth-century composer directly quoted the King James Bible. — *plausible*: The KJV was readily available, and direct reuse predicts the attribution, ordering, and wording without additional assumptions.
+- The “our God”/“God” difference arose through translation, transmission, copying, or deliberate editing. — *plausible*: Small variants commonly occur when texts are quoted or transmitted, although this one difference cannot identify the responsible process.
+- The three-verse correspondence is coincidental. — *ad hoc*: Chance does not credibly explain an explicit attribution followed by three consecutive, closely corresponding verses.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-An explicitly attributed quotation in any corpus would be strong evidence of a literary relationship but not automatically of the quoting narrative's date or historicity. The original note was properly scoped, though “establishes” should be replaced and its weight standardized with the canonical Isaiah-dependence issue.
+An explicitly attributed, consecutively ordered quotation in any corpus should receive strong weight for a textual relationship, not automatic weight for the later work’s date or historicity. The note applies that standard evenly and retains the canonical 0.84 rather than importing the higher weights assigned elsewhere to differently scoped propositions.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **Strong** (supports, evidence_strength 0.84) for the proposition: *Book of Mormon Isaiah-quotation chapters deliberately depend on the Isaiah textual tradition rather than independently reproducing the same wording, sequence, and imagery.*
 
-The explicit attribution and ordered reproduction of Isaiah 52:8–10 strongly support intentional quotation, while leaving ancient quotation, translation-stage KJV wording, and modern reuse unresolved.
+The explicit attribution and ordered reproduction of Isaiah 52:8–10 strongly support intentional dependence on the Isaiah tradition, while leaving ancient quotation, KJV-shaped translation, harmonization, and modern reuse unresolved.
 
-Base rate / look-elsewhere: Short biblical phrases can recur incidentally, but an explicit attribution followed by three consecutive corresponding verses has a very low accidental base rate. The explicit citation constrains the candidate source and minimizes look-elsewhere selection, while shared KJV/Isaiah dependence means this cannot be treated as independent of the larger quotation class.
+Base rate / look-elsewhere: Short biblical phrases recur frequently, but an explicit source attribution followed immediately by three consecutive corresponding verses has a very low accidental base rate. The attribution fixes the candidate source in advance and sharply reduces the look-elsewhere cost. Its evidentiary cause is nevertheless shared with the wider group of Book of Mormon Isaiah quotations.
 
-What would move this: The dependence assessment would rise if systematic non-KJV variants linked the quotation to an independently dated ancient Isaiah witness; it would fall if the attribution or ordered correspondence proved absent from the earliest recoverable Book of Mormon text, or if comparison showed only commonplace wording rather than sustained agreement.
+What would move this: Weight for dependence would rise with confirmation that the attribution and ordered wording are present throughout the earliest recoverable textual witnesses and with matched-corpus evidence showing that this configuration virtually never appears without quotation. It would fall if the attribution or correspondence were absent from the earliest text or if the wording proved too commonplace and discontinuous to identify Isaiah 52 reliably. Systematic ancient non-KJV variants would chiefly help distinguish historical mechanisms. Assessment date: 2026-09-04.
 
-Canonical assessment: [[Evidence Assessments#bom-isaiah-textual-dependence|Book of Mormon Isaiah-chapter dependence on the Isaiah/KJV textual tradition]]
+Canonical assessment: [[Evidence Assessments#bom-isaiah-textual-dependence|Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+The quotation fits a discourse that invokes Isaiah as an authoritative interpreter of covenant restoration and Zion. On an ancient-speech reconstruction, Jesus quotes a scripture known within the narrative world; on translation or harmonization reconstructions, the quotation is rendered through familiar KJV language; on a modern-composition reconstruction, the KJV supplies the wording directly. The explicit attribution explains why the intertext is unusually secure even though its historical pathway remains contested.
+<!-- SG:END how-it-fits -->
