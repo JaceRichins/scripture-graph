@@ -32,13 +32,13 @@ pipeline:
 
 automation:
   enabled: true       # master switch for scheduled runs
-  # PAUSED 2026-09-02: Jace's weekly Claude limit hit 90% and the engine's
-  # autonomous research is held off to preserve his headroom. This is the
-  # research kill switch -- _ai_budget() returns 0 and run_study skips its
-  # AI phase entirely, so no research job is claimed or started. Everything
-  # else is intact: the queue keeps its rows, passes keep their corpus
-  # versions, nothing is torn down. Set back to true to resume.
-  ai_enabled: false   # PAUSED -- no AI provider calls during scheduled runs
+  # Paused 2026-09-02 at 90% of the weekly Claude limit, resumed 2026-09-03
+  # when the window reset. This is the research kill switch: false makes
+  # _ai_budget() return 0 and run_study skip its AI phase, so no research
+  # job is claimed or started, while the queue, passes and job workspaces
+  # all stay intact. Flip it, and re-enable the Study/Nightly/Weekly
+  # scheduled tasks, to pause or resume.
+  ai_enabled: true    # allow AI provider calls during scheduled runs
   # Parallel research workers -- the single throughput knob. A research job is
   # ~12 minutes of waiting on provider subprocesses against ~7 seconds of
   # landing, so workers buy nearly linear throughput. Raised from 1 on
