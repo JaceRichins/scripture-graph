@@ -15,71 +15,77 @@ weight_label: weak
 direction: supports
 issue: bom-1nephi22-flesh-inclusio
 proposition: Verses 2-27 of 1 Nephi 22 were deliberately structured as a bounded unit, using 'according to the flesh' as an intentional inclusio marking Nephi's answer to his brothers' question in v.1, rather than the phrase recurring incidentally as ordinary vocabulary on the chapter's governing spiritual-versus-temporal theme.
-calibrated_at: '2026-09-03T17:05:49Z'
-calibration_version: 1
+calibrated_at: '2026-09-04T23:19:20Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Internal Literary Structure in 1 Nephi 22
 
 ## Summary
 <!-- SG:BEGIN summary -->
-The phrase 'according to the flesh' opens Nephi's answer in 1 Nephi 22:2 and closes it in 22:27, giving moderate — not strong — internal evidence that verses 2-27 were organized as a single bounded response to the brothers' question in v.1. Because the same phrase recurs elsewhere in Nephi's writing as a recognizable theological term, incidental thematic reuse is a real alternative to deliberate inclusio design, and the two are not sharply distinguishable from the text alone. This bears only on the passage's literary organization, not on date, authorship, or inspiration.
+The phrase 'according to the flesh' occurs near the beginning of Nephi's answer in 1 Nephi 22:2 and at its conclusion in 22:27, making an inclusio reading reasonable. The chapter's governing temporal-versus-spiritual subject also makes ordinary thematic restatement a comparably plausible explanation, so the recurrence provides weak support for intentional final-form framing. It does not discriminate ancient authorship, editorial shaping, translation harmonization, or modern composition.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-The phrase 'according to the flesh' appears in 1 Nephi 22:2, near the start of Nephi's answer to his brothers' question in v.1, and again in 22:27, the final verse of the discourse, bracketing the intervening 25 verses of prophetic interpretation.
+The phrase 'according to the flesh' occurs in 1 Nephi 22:2 near the beginning of Nephi's answer to the question in verse 1 and again in verse 27, the discourse's concluding verse. The phrase therefore occupies framing positions around the intervening discussion.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The bracketing repetition is compatible with an intentional inclusio marking the boundaries of a single sustained answer, but the same phrase recurs as a recognizable Nephite theological term elsewhere in Nephi's writings (e.g., 2 Nephi 2:27), so its reappearance at the end of ch. 22 may be ordinary vocabulary reuse rather than a purpose-built structural device.
+The recurrence can function as an inclusio marking one sustained answer. The strongest critical reading is that the chapter's subject is precisely temporal or fleshly fulfillment, making a return to the phrase at the conclusion an expected thematic restatement without requiring a separately engineered framing device.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-This bears only on the text's own compositional/literary organization, not on the antiquity, historicity, or authorship of the material; a bracketed unit could be produced by an ancient author, an ancient editor, a translator harmonizing wording, or a modern author working from an outline.
+The observation concerns final-form organization. An ancient author, a later editor, a translator harmonizing terminology, or a nineteenth-century composer could produce the same recurrence, so it does not discriminate provenance models.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-For readers interested in demonstrating deliberate literary craftsmanship in the Book of Mormon, this is moderately supportive evidence that ch. 22 was composed or arranged as a discrete answer-unit; it does not by itself support inspiration, ancient origin, or any claim beyond internal coherence.
+The endpoints weakly support intentional literary framing because their positions are suggestive, but ordinary thematic recurrence predicts them nearly as well. The surviving claim is modest final-form craftsmanship, not ancient authorship.
 
-**Inspiration:** Nothing: literary bracketing, deliberate or incidental, is produced identically well by ancient authors, editors, or a nineteenth-century author, so it says nothing about whether the text is inspired.
+**Inspiration:** This literary recurrence has no independent implication for inspiration because inspired and non-inspired compositional models predict it equally well.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-Does not establish deliberate authorial design (versus incidental phrase reuse), the chapter's date, its authorship, ancient provenance, or anything about inspiration.
+It does not identify who supplied the framing, when it arose, whether it was consciously conceived as an inclusio, or whether the chapter is ancient, historical, or inspired.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Deliberate compositional inclusio** — predicts: the bracketing phrase should be distinctive/rare elsewhere, sharply marking these verses as a bounded unit. Fit with this evidence: *some difficulty*.
-- **Stock theological phrase, incidental recurrence** — predicts: the phrase recurs elsewhere in similar theological contexts without marking any special structural boundary. Fit with this evidence: *consistent*.
-- **Later editorial/redactional framing** — predicts: an editor or translator supplies the bracket to mark a preexisting unit's boundaries after the fact. Fit with this evidence: *not ruled out*.
+- **Ordinary thematic restatement** — predicts: A governing phrase returns at the conclusion because the discourse revisits its central temporal-versus-spiritual distinction.. Fit with this evidence: *consistent*.
+- **Intentional final-form inclusio** — predicts: The same phrase appears at the opening and conclusion to mark the boundaries of the response.. Fit with this evidence: *supports*.
+- **Editorial or translation-level framing** — predicts: A later compositional stage supplies consistent endpoint wording around an existing unit.. Fit with this evidence: *not ruled out*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- Ordinary thematic restatement: Nephi returns to a governing theme ('according to the flesh' = literal/historical fulfillment) because it is the discourse's topic, not because he is building an inclusio. — *plausible*: The phrase functions as Nephi's recurring term for literal/temporal fulfillment throughout this discourse and elsewhere in his writings, so its reuse is well explained by topic rather than structural design.
-- Later editorial/redactional organization of the chapter distinct from the wording of its original composition. — *possible*: Nothing in the text specifies whether the boundary markers originate with Nephi's initial dictation, a later editorial pass, or translation phrasing.
+- The phrase recurs because it states the chapter's governing theme rather than because it was selected as a formal boundary marker. — *plausible*: The discourse begins with a question about spiritual interpretation and repeatedly discusses temporal fulfillment; the phrase also belongs to Nephi's broader theological vocabulary.
+- An editor or translator standardized the wording at the two endpoints. — *possible*: The final text cannot locate the recurrence at a particular compositional or translation stage.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-A Bible passage bracketed by a repeated key term is treated elsewhere in this registry as strong-band evidence (0.6-0.95) for internal literary design; this note's phrase is real but less exclusive to the unit than a typical scholarly inclusio marker, so scoring it toward the low-moderate range rather than as high as the Bible parallels is the symmetric treatment, not a double standard.
+A repeated endpoint term in a biblical text would also be credited as a possible inclusio but discounted when the term is ordinary vocabulary demanded by the passage's subject. The weak score is therefore appropriately lower than scores for structures supported by multiple distinctive correspondences.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **Weak** (supports, evidence_strength 0.2) for the proposition: *Verses 2-27 of 1 Nephi 22 were deliberately structured as a bounded unit, using 'according to the flesh' as an intentional inclusio marking Nephi's answer to his brothers' question in v.1, rather than the phrase recurring incidentally as ordinary vocabulary on the chapter's governing spiritual-versus-temporal theme.*
 
-The repeated phrase really does bracket Nephi's answer, giving moderate support to reading vv.2-27 as a deliberately organized unit, but because the same phrase is a recurring term elsewhere in Nephi's writing, incidental thematic reuse remains a live and roughly comparably plausible explanation.
+The two endpoint occurrences weakly support intentional inclusio design, but ordinary thematic restatement predicts the recurrence nearly as well.
 
-Base rate / look-elsewhere: 'According to the flesh' is not unique to this chapter; it recurs as a recognizable Nephite theological term elsewhere in 1-2 Nephi, which lowers (but does not eliminate) the distinctiveness needed for confidently calling it a designed inclusio.
+Base rate / look-elsewhere: The phrase is not unique to this unit; related use occurs elsewhere, including 2 Nephi 2:27. The proposed pattern consists of only two occurrences selected within a chapter already organized around the same concept, and no matched-corpus survey shows how often comparable thematic terms recur at discourse endpoints.
 
-What would move this: A demonstration that 'according to the flesh' is rare/distinctive across the rest of the Nephite corpus would raise this toward strong; a survey showing it is a common recurring phrase used without structural function elsewhere would lower it toward weak.
+What would move this: The weight would rise if a corpus-wide survey showed that this phrase is rare outside deliberate boundaries and that additional distinctive correspondences reinforce the same unit; it would fall if matched passages commonly repeat governing vocabulary at their endpoints without other structural signals. Assessment date: 2026-09-04.
 
 Canonical assessment: [[Evidence Assessments#bom-1nephi22-flesh-inclusio|Final-form framing of 1 Nephi 22 by the recurring phrase 'according to the flesh']]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+The strongest critical explanation is ordinary thematic closure: Nephi returns to the fleshly or temporal dimension because that distinction governs the entire answer. What survives is a genuine endpoint correspondence that makes an inclusio reading reasonable, though only slightly more informative than thematic restatement.
+<!-- SG:END how-it-fits -->

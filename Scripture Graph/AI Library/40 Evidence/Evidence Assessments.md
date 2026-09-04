@@ -48,7 +48,7 @@ Notes: [[Explicit Internal Intertext in Alma 36]]
 ### pgp-abraham3-literary-hinge
 **Astronomical-to-premortal literary hinge in Abraham 3** — *strong* (supports, evidence_strength 0.84) for: Abraham 3:16-19 is a deliberately constructed literary hinge that intentionally reuses the chapter's celestial comparative pattern (vv.8-9, 16-17) to introduce spirits and intelligence, explicitly signaled by 'as, also' in v.18, rather than an incidental or merely pedagogical repetition.
 
-The explicit 'as, also' connective is direct textual evidence of intentional analogical transfer, not merely an inferred pattern, and strongly supports deliberate design linking the astronomical and premortal-spirit material. The registry's existing 0.84 for this issue is reused: the pedagogical-analogy alternative is real but was already effectively priced into the original strong-band assessment, and the ordinariness of analogical teaching devices in general does not defeat evidence from an explicit, textually stated connective specific to this passage. This bears only on final-form literary design, not on the chapter's date, source language, historicity, or the accuracy of its cosmology.
+The explicit 'as, also' connective is direct textual evidence of intentional analogical transfer, not merely an inferred pattern, and strongly supports deliberate design linking the astronomical and premortal-spirit material. The pedagogical-analogy alternative is real but is already effectively priced into the strong-band assessment, since an explicit connective is itself a deliberate device; ordinariness of analogical teaching in general does not defeat this passage-specific textual signal. This bears only on final-form literary design, not on the chapter's date, source language, historicity, or cosmological accuracy.
 
 Notes: [[Internal Literary Structure in Abraham 3]]
 
@@ -195,14 +195,14 @@ Notes: [[Comparative Textual Difference in Moses 3]]
 ### bom-1nephi22-flesh-inclusio
 **Final-form framing of 1 Nephi 22 by the recurring phrase 'according to the flesh'** — *weak* (supports, evidence_strength 0.2) for: Verses 2-27 of 1 Nephi 22 were deliberately structured as a bounded unit, using 'according to the flesh' as an intentional inclusio marking Nephi's answer to his brothers' question in v.1, rather than the phrase recurring incidentally as ordinary vocabulary on the chapter's governing spiritual-versus-temporal theme.
 
-The phrase genuinely brackets Nephi's answer in vv.2 and 27, but because the chapter's entire topic is precisely the spiritual-versus-'according to the flesh' distinction raised in v.1, ordinary thematic restatement predicts the same two-point recurrence about as well as deliberate inclusio design; per the discrimination rule (equally-predicting rivals cap weight low) this belongs in the weak band, not moderate.
+The phrase genuinely brackets Nephi's answer in vv.2 and 27, but because the chapter's entire topic is precisely the spiritual-versus-'according to the flesh' distinction raised in v.1, ordinary thematic restatement predicts the same two-point recurrence about as well as deliberate inclusio design; per the discrimination rule this belongs in the weak band, not moderate.
 
 Notes: [[Internal Literary Structure in 1 Nephi 22]]
 
 ### bom-2nephi2-integrated-argument
 **Final-form integration of the law-opposition-agency argument in 2 Nephi 2** — *strong* (supports, evidence_strength 0.65) for: The sequence in 2 Nephi 2:5-27 (law/punishment, opposition, creation, enticement, the Fall, redemption, agency) constitutes one deliberately integrated argument in its final form, rather than a set of loosely connected, independent aphorisms.
 
-The chain of explicit inferential connectives and dependent premises across 23 verses strongly supports reading the passage as one sustained final-form argument. Per the registry bands (moderate 0.35-0.60, strong 0.60-0.85), 0.65 sits in the strong band, so the 'moderate' label both proposals used alongside this number was a label/prose mismatch; the underlying number is retained as well supported and consistent with the prior 0.7 assessment. This bears only on final-form coherence, not on the truth of the passage's premises or on ancient versus modern authorship.
+The chain of explicit inferential connectives and dependent premises across 23 verses strongly supports reading the passage as one sustained final-form argument. Per the registry bands, 0.65 sits in the strong band, so any 'moderate' label attached to this number is a label/prose mismatch; the number is retained as well supported. This bears only on final-form coherence, not on the truth of the passage's premises or on ancient versus modern authorship.
 
 Notes: [[Internal Literary Structure in 2 Nephi 2]]
 
@@ -300,7 +300,7 @@ Notes: [[Internal Attribution in 1 Nephi 14]]
 ### bom-alma51-dissent-causation
 **Internal narrative causation: political dissent and Nephite readiness in Alma 51** — *moderate* (supports, evidence_strength 0.4) for: Within Alma 51's narrative, the king-men's refusal of military service and Moroni's resulting internal campaign materially contributed to Nephite unreadiness against Amalickiah's invasion, alongside — not instead of — the other causes the text itself names.
 
-The narrative's juxtaposition of Moroni's domestic campaign with the invasion and the fall of the city of Moroni gives moderate support to dissent functioning as a contributing factor in the narrator's own causal account, but v.23 directly and independently names an undersized garrison as a cause, and v.16's explicit moralizing about dissension signals an interpretive frame rather than a quantified military analysis. This directly-textual rival keeps the weight in the lower-moderate range rather than the 0.55 both proposals retained, and it says nothing about the historicity of the underlying campaign.
+The narrative's juxtaposition of Moroni's domestic campaign with the invasion and the fall of the city of Moroni gives moderate support to dissent functioning as a contributing factor in the narrator's own causal account, but v.23 directly and independently names an undersized garrison as a cause, and v.16's explicit moralizing about dissension signals an interpretive frame rather than a quantified military analysis. This directly-textual rival keeps the weight in the lower-moderate range, and it says nothing about the historicity of the underlying campaign.
 
 Notes: [[Internal Narrative And Strategic Evidence in Alma 51]]
 

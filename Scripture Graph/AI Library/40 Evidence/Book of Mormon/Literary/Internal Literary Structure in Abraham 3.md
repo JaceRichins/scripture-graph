@@ -15,69 +15,78 @@ weight_label: strong
 direction: supports
 issue: pgp-abraham3-literary-hinge
 proposition: Abraham 3:16-19 is a deliberately constructed literary hinge that intentionally reuses the chapter's celestial comparative pattern (vv.8-9, 16-17) to introduce spirits and intelligence, explicitly signaled by 'as, also' in v.18, rather than an incidental or merely pedagogical repetition.
-calibrated_at: '2026-09-03T17:05:49Z'
-calibration_version: 1
+calibrated_at: '2026-09-04T23:19:20Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Internal Literary Structure in Abraham 3
 
 ## Summary
 <!-- SG:BEGIN summary -->
-Abraham 3:16-19 repeats an identical two-unequal-things-then-a-greater-one comparative pattern for celestial bodies and then for spirits, and the explicit transition 'as, also' in v.18 is direct textual evidence that this is a deliberately designed rhetorical hinge rather than an incidental resemblance. This is strong internal literary evidence, marginally lower than the original 0.85 to account for the ordinariness of analogical teaching devices generally, but it establishes nothing about the chapter's date, authorship, original language, or the scientific accuracy of its cosmology.
+Abraham 3:16–19 explicitly uses 'as, also' to transfer a graded comparison from celestial bodies to spirits and intelligence. Because the connection is stated rather than inferred solely from pattern matching, it strongly supports a deliberate final-form hinge, even though the underlying analogical device is common. The structure does not determine the chapter's date, provenance, inspiration, or astronomical accuracy.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-Verses 8-9 and 16-17 establish a graded comparative series for celestial bodies (one planet's time-reckoning above another's, up to Kolob). Verse 18 explicitly pivots with 'as, also, if there be two spirits...' and vv.18-19 repeat the identical two-then-greater comparative form for spirits and intelligence.
+Abraham 3:8–9 and 16–17 describe graded celestial bodies and time-reckonings. Verse 18 explicitly introduces a comparison involving two spirits with the words 'as, also,' and verses 18–19 extend the greater-than pattern to spirits and intelligence.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The explicit connective 'as, also' is textually unambiguous evidence that the author/redactor intends the spirit-comparison to be read as a formal analogical extension of the celestial-comparison pattern already established; this is stronger evidence of deliberate structuring than an inferred parallel would be, because the linkage is stated rather than merely observed by a reader.
+The explicit connective makes intentional analogical transfer the best reading. The strongest critical qualification is that analogical teaching is an ordinary rhetorical device and therefore does not by itself indicate unusual sophistication, antiquity, or a comprehensive equivalence between celestial bodies and spirits.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-This bears on the literary design of the passage as received, not on the chapter's compositional date, source language, translation history, or the scientific status of its cosmology.
+The connection establishes final-form rhetorical design but does not identify its date, language, author, or transmission stage. Ancient authorship, modern revelation, editorial shaping, and nineteenth-century composition all predict an explicit analogy.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-This is strong internal evidence of deliberate rhetorical design; it is worth noting for readers assessing the text's literary sophistication, but it says nothing about whether that design originated anciently, through revelation, or through nineteenth-century composition.
+The wording strongly supports a deliberate hinge in the received text. Its evidentiary reach ends at final-form design and does not independently favor ancient provenance, historical authenticity, or scientific accuracy.
 
-**Inspiration:** Nothing: a deliberately signaled analogy is equally available to an ancient author, a modern revelator, or a nineteenth-century composer working with the same rhetorical toolkit.
+**Inspiration:** The deliberate analogy has no independent bearing on inspiration because ancient, revelatory, editorial, and ordinary modern composition models all readily predict it.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-Does not establish the chapter's date, authorship, original language, historicity, or the accuracy of its astronomical claims.
+It does not establish the chapter's date, author, original language, historical setting, astronomical accuracy, or the provenance of the underlying ideas.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-_No historical model is discriminated by this evidence._
+- **Ordinary pedagogical analogy** — predicts: A teacher reuses a simple greater-than comparison to explain a new subject without constructing an elaborate formal architecture.. Fit with this evidence: *consistent*.
+- **Deliberate analogical hinge** — predicts: An explicit connective transfers the celestial ranking pattern to spirits and joins the chapter's two principal subjects.. Fit with this evidence: *supports*.
+- **Editorial or revelatory linkage** — predicts: The final form intentionally joins previously distinct topics through an explicit analogy.. Fit with this evidence: *not ruled out*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- The repetition is primarily pedagogical scaffolding (reusing a simple comparative teaching device) rather than evidence of an author consciously designing a formal literary 'hinge.' — *plausible*: Explicit analogical teaching ('as with X, so with Y') is a common, low-cost rhetorical device in didactic and revelatory literature generally, not a mark of unusual literary sophistication.
-- The celestial comparison may be intended to illustrate only the single feature of relative intelligence/rank, not a comprehensive two-order analogy between astronomy and spirits. — *plausible*: The text itself narrows the comparison to relative rank/intelligence rather than claiming spirits and planets share all properties.
+- The passage uses ordinary pedagogical analogy rather than an unusually sophisticated literary structure. — *plausible*: Explicit comparisons of the form 'as with one domain, so with another' are common and inexpensive rhetorical devices.
+- The analogy concerns relative rank only, not a comprehensive correspondence between astronomy and premortal spirits. — *independently supported*: The immediate wording transfers the greater-than relation; it does not state that every property of celestial bodies maps onto spirits.
+- A later revelatory or editorial stage supplied the connective between two bodies of material. — *possible*: The final text establishes intentional linkage but cannot locate that linkage within its compositional history.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-This scores in the same high range (0.8+) given to Bible chapters in this registry for internal structure; an explicit connective marker ('as, also') is at least as strong a structural signal as the implicit repetitions that earn Bible chapters their high scores, so keeping this near its current 0.85 is the symmetric call rather than a favorable exception.
+An explicit analogical connective in a biblical text would likewise receive strong credit as evidence of final-form design. Applying the same standard supports retaining 0.84 here while refusing to convert literary design into evidence for provenance.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **Strong** (supports, evidence_strength 0.84) for the proposition: *Abraham 3:16-19 is a deliberately constructed literary hinge that intentionally reuses the chapter's celestial comparative pattern (vv.8-9, 16-17) to introduce spirits and intelligence, explicitly signaled by 'as, also' in v.18, rather than an incidental or merely pedagogical repetition.*
 
-The explicit 'as, also' transition is direct textual evidence, not just an inferred pattern, giving strong support to reading vv.16-19 as a deliberately designed hinge between the astronomical and premortal-spirit material, though this says nothing about the chapter's date, source, or the accuracy of its cosmology.
+The explicit 'as, also' transition and repeated graded comparison strongly support a deliberate final-form hinge between the astronomical and premortal-spirit material.
 
-Base rate / look-elsewhere: Explicit 'as with X, so with Y' analogical transitions are a common device in didactic and revelatory literature broadly, so the device itself is unremarkable; the evidentiary weight rests on the connective being present and unambiguous in this specific case, not on the rarity of the device.
+Base rate / look-elsewhere: Explicit analogy is common in didactic, philosophical, and revelatory literature. The weight arises from the unmistakable connective and repeated comparison in this passage, not from rarity; no matched-corpus denominator establishes that the device itself is unusual.
 
-What would move this: Finding the same graded two-then-greater comparative form used elsewhere in Abraham with an equally explicit connective would strengthen the case for deliberate authorial style; finding 'as, also' used loosely elsewhere in the text to link unrelated ideas would weaken the case that it marks a genuine structural hinge here.
+What would move this: The weight would rise modestly if additional distinctive correspondences showed sustained mapping across both sections; it would fall if textual history showed that the connective is secondary or if comparable uses of 'as, also' regularly join unrelated ideas without structural force. Assessment date: 2026-09-04.
 
 Canonical assessment: [[Evidence Assessments#pgp-abraham3-literary-hinge|Astronomical-to-premortal literary hinge in Abraham 3]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+The strongest critical account identifies the transition as ordinary pedagogical scaffolding rather than evidence of rare literary sophistication. That account limits significance but does not remove the structure: 'as, also' explicitly directs readers to map the preceding greater-than comparison onto spirits and intelligence, so deliberate final-form linkage remains strongly supported.
+<!-- SG:END how-it-fits -->

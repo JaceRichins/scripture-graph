@@ -15,71 +15,79 @@ weight_label: moderate
 direction: supports
 issue: bom-jsm1-jerusalem-eschaton-structure
 proposition: The final text of Joseph Smith—Matthew 1 textually distinguishes the Jerusalem-focused tribulation of vv.12-20 from the material following v.21, sufficient to show the chapter does not present vv.12-31 as one undifferentiated description of the final coming.
-calibrated_at: '2026-09-03T17:05:49Z'
-calibration_version: 1
+calibrated_at: '2026-09-04T23:19:20Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Internal Literary Structure in Joseph Smith—Matthew 1
 
 ## Summary
 <!-- SG:BEGIN summary -->
-Joseph Smith—Matthew 1:12-20 names Jerusalem and Judea explicitly, and v.21 marks a topic transition before the chapter turns to less localized material, giving moderate internal evidence that the text distinguishes a Jerusalem-focused unit from what follows. But apocalyptic telescoping — blending near and far horizons under shared stock imagery — is a well-attested feature of the genre and a live alternative the original note itself names, which is why the self-rated confidence (0.78/0.65) overstated how cleanly the text actually separates the two horizons. This bears only on the chapter's internal organization, not on any prophecy's timing, mechanism, or accuracy.
+Joseph Smith—Matthew 1:12–20 repeatedly names Jerusalem, Judea, and the Jews, and verse 21 explicitly closes that topic before introducing further material. These signals moderately support a textually distinguished Jerusalem-focused unit. Well-attested apocalyptic telescoping remains a strong alternative to an exclusive near-versus-far division, so the passage does not supply a complete prophetic timetable or establish advance prediction.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-Verses 12-13 and 18 name Jerusalem, Judea, and 'the destruction of Jerusalem' explicitly; v.20's 'shortened days' language is Jerusalem-specific in context; v.21 marks a transition ('these things I have spoken unto you concerning the Jews; and again...') before introducing the false-Christs material that follows.
+Joseph Smith—Matthew 1:12–13 and 18 explicitly name Jerusalem and Judea, while verse 21 closes material described as concerning the Jews and introduces further teaching with 'and again.' These are real localization and transition signals.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The localized place-names and the explicit 'concerning the Jews; and again' hand-off in v.21 are compatible with the author/redactor treating vv.12-20 as substantially about the Jerusalem crisis before turning to different material, but apocalyptic texts routinely blend near and far horizons under the same stock imagery ('abomination of desolation,' 'great tribulation'), and nothing in vv.12-20 rules out the local material also functioning typologically for the final coming.
+The signals moderately support a Jerusalem-focused unit ending at verse 20. The strongest critical reading is that apocalyptic discourse regularly telescopes local and eschatological horizons, so verse 21 may mark a topic movement without making verses 12–20 exclusively local or creating a clean chronological partition.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-This bears only on how the chapter organizes its own material, not on whether any of its predictions were fulfilled, when, or by what mechanism (redaction of Matthew, revelation to Joseph Smith, or both).
+The evidence concerns final-form organization and possible redactional clarification. It does not determine whether the underlying sayings preceded Jerusalem's destruction, resulted from Gospel redaction, were revised through Joseph Smith's revelatory work, or combine those processes.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-This gives moderate support to the reading that the text does not present all of vv.12-31 as one undifferentiated description of the final coming; it does not establish a complete prophetic timetable, resolve where any individual verse belongs chronologically, or bear on whether the underlying prediction is accurate or inspired.
+The textual markers moderately challenge a reading of verses 12–31 as wholly undifferentiated final-coming material. They do not establish a complete prophetic timetable or show that every image before verse 21 has only a first-century referent.
 
-**Inspiration:** Nothing: whether a text separates near/far horizons cleanly or blends them via telescoping is a genre-level literary feature produced identically by ancient apocalyptic authors, later redactors, and modern revisers.
+**Inspiration:** The organization or blending of prophetic horizons has no independent implication for inspiration because ancient apocalyptic authors, later redactors, and modern revisers can all produce either pattern.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-Does not establish a complete prophetic timetable, the date of any fulfillment, that every image in vv.12-20 has only the Jerusalem referent, or that the text cleanly separates near and far horizons rather than deliberately blending them.
+It does not establish exclusive referents for individual images, a clean chronological division, advance prediction, fulfillment dates, or the historical mechanism by which the chapter reached its present form.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Sharp two-horizon textual structure** — predicts: a clean seam at v.21 with vv.12-20 read as exclusively local. Fit with this evidence: *some difficulty*.
-- **Apocalyptic telescoping (blended horizons)** — predicts: local and eschatological imagery interleaved and mutually reinforcing throughout, with v.21 a loose topic shift rather than a hard boundary. Fit with this evidence: *consistent*.
-- **Redactional clarification distinct from underlying source** — predicts: any sharpening of the two-part structure could be a Joseph Smith-era editorial clarification of Matthew 24's more ambiguous ordering. Fit with this evidence: *not ruled out*.
+- **Apocalyptic telescoping** — predicts: Local and eschatological horizons overlap, and a topic transition need not create mutually exclusive chronological units.. Fit with this evidence: *consistent*.
+- **Textually distinguished local unit** — predicts: Jerusalem and Judea dominate verses 12–20, followed by an explicit topic-close and renewed discourse in verse 21.. Fit with this evidence: *supports*.
+- **Sharp exclusive two-horizon division** — predicts: Verse 21 creates a hard boundary, with all preceding material exclusively local and all following material exclusively eschatological.. Fit with this evidence: *some difficulty*.
+- **Joseph Smith-era redactional clarification** — predicts: Changes to Matthew's wording make the Jerusalem-focused unit more explicit in the final text.. Fit with this evidence: *not ruled out*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- The Jerusalem material is also intended typologically, as a pattern anticipating the final tribulation, rather than being read as exclusively local. — *plausible*: Typological near/far reading is the standard scholarly account of Jewish apocalyptic and of Matthew 24 specifically, and the shared stock imagery is drawn from Daniel/Matthew material used elsewhere for both near and far referents.
-- Prophetic/apocalyptic telescoping deliberately blends near and far horizons under one continuous description rather than separating them. — *independently supported*: This is a well-documented feature of biblical and Second Temple apocalyptic genre generally, not an ad hoc rescue invented for this text.
+- The Jerusalem crisis also functions typologically as a pattern of final tribulation. — *plausible*: Near and far horizons commonly share imagery in biblical apocalyptic discourse, so localization need not exclude eschatological application.
+- Apocalyptic telescoping intentionally blends the horizons rather than separating them into a precise timetable. — *independently supported*: Horizon blending is a recognized feature of biblical and Second Temple apocalyptic interpretation and is not a rescue invented for this passage.
+- The transition reflects nineteenth-century clarification of Matthew 24 rather than the structure of an independently transmitted ancient discourse. — *plausible*: Joseph Smith—Matthew is a revision of the Matthean discourse, making redactional sharpening an available compositional explanation.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-The same genre feature (apocalyptic telescoping blurring near/far horizons) is the standard scholarly reading of Matthew 24 and Mark 13 in mainstream biblical scholarship, so treating it here as a live, well-supported alternative rather than downgrading it is the symmetric call, not a special allowance for this text.
+The same Jerusalem language and topic-close in a biblical apocalypse would count as evidence for a local textual unit, while genre-based telescoping would prevent an exclusive division. Treating both considerations seriously here is the symmetric approach.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **Moderate** (supports, evidence_strength 0.5) for the proposition: *The final text of Joseph Smith—Matthew 1 textually distinguishes the Jerusalem-focused tribulation of vv.12-20 from the material following v.21, sufficient to show the chapter does not present vv.12-31 as one undifferentiated description of the final coming.*
 
-The Jerusalem-specific naming and the v.21 transition give moderate, not strong, support to reading vv.12-20 as a textually distinguished local unit, because apocalyptic telescoping — a well-attested genre feature the note itself lists — makes a deliberately blended near/far reading about as plausible as a sharply two-part one.
+The Jerusalem-specific language and verse 21 transition moderately support a distinct local unit, while well-attested apocalyptic telescoping prevents treating the boundary as exclusive or chronologically complete.
 
-Base rate / look-elsewhere: Two-horizon structuring language ('and again,' explicit place names followed by more generic tribulation imagery) is common across apocalyptic literature generally and is not unique to this chapter, so its presence here is unremarkable as a genre feature even though it is real.
+Base rate / look-elsewhere: Place-name localization, topic transitions, and near/far horizon blending are all common in apocalyptic literature. No survey establishes how often a transition like verse 21 marks an exclusive chronological boundary, so the evidence supports distinction more strongly than complete separation.
 
-What would move this: A clear source-critical marker showing vv.12-20 was originally an independent unit would raise this toward strong; evidence that vv.12-20's imagery is reused without distinction for clearly eschatological events elsewhere in the same text would lower it toward weak.
+What would move this: The weight would rise if source-critical evidence identified verses 12–20 as a stable independent unit with consistently local referents; it would fall if imagery on both sides of verse 21 were shown to be deliberately cross-applied within the same text, making the transition merely topical. Assessment date: 2026-09-04.
 
 Canonical assessment: [[Evidence Assessments#bom-jsm1-jerusalem-eschaton-structure|Textual distinction between the Jerusalem tribulation and later material in Joseph Smith—Matthew 1]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+The strongest critical model is apocalyptic telescoping: Jerusalem's crisis can function as a local event and as a type of later tribulation, with imagery crossing the proposed boundary. Even so, the repeated place-names and the explicit verse 21 topic-close give readers a real textual reason to distinguish a substantially Jerusalem-focused unit from the material that follows.
+<!-- SG:END how-it-fits -->
