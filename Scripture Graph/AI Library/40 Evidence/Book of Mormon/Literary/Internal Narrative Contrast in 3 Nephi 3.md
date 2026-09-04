@@ -15,75 +15,81 @@ weight_label: strong
 direction: supports
 issue: bom-3nephi3-grievance-narrative-contrast
 proposition: The final text intentionally juxtaposes Giddianhi's grievance claim with the narrator's moral-political rebuttal.
-calibrated_at: '2026-09-03T17:19:49Z'
-calibration_version: 1
+calibrated_at: '2026-09-04T23:18:33Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Internal Narrative Contrast in 3 Nephi 3
 
 ## Summary
 <!-- SG:BEGIN summary -->
-Giddianhi claims that the dissenters were deprived of their rights and government, while the immediately following narration says they had suffered no wrong beyond the consequences of their own dissent. This strongly supports an intentional moral-political contrast, but the narrator's judgment is not independent adjudication of the underlying grievance. Scripture: [[3 Nephi 3#^3ne-3-10|3 Nephi 3:10]], [[3 Nephi 3#^3ne-3-11|3 Nephi 3:11]].
+Giddianhi claims that the dissenters were deprived of their rights and government, while the immediately following narration says that they had suffered no wrong beyond the consequences of their own dissent. This strongly supports intentional moral-political contrast, but the narrator's judgment is not independent adjudication of the underlying grievance. Scripture: [[3 Nephi 3#^3ne-3-10|3 Nephi 3:10]], [[3 Nephi 3#^3ne-3-11|3 Nephi 3:11]].
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-In 3 Nephi 3:10, Giddianhi says his people dissented because the Nephites wickedly withheld their rights and government. In the immediately following narration, verse 11 says those dissenters had received no wrong except what resulted from their own dissent.
+In 3 Nephi 3:10, Giddianhi says that his people dissented because the Nephites wickedly withheld their rights and government. The immediately following narration in verse 11 says that these dissenters had received no wrong except what resulted from their own dissent.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The adjacent statements create a direct clash between an insurgent leader's justification and the narrator's rejection of it. The construction is intentional at least at the level of final-form presentation, although it need not represent balanced political analysis.
+The adjacent statements create a direct clash between an insurgent leader's justification and the narrator's rejection of it. The final text intentionally guides readers toward the narrator's moral judgment, although the juxtaposition need not constitute balanced political analysis.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-The contrast is compatible with a historical letter preserved and rebutted by a partisan narrator, a reconstructed speech or letter, editorial moralization, or wholly composed political characterization. It reveals the final text's competing voices and narrator alignment, not which historical grievance account is accurate.
+The contrast is compatible with a historical letter preserved and rebutted by a partisan narrator, a reconstructed letter, later editorial moralization, or wholly composed political characterization. It reveals the final text's allocation of competing voices and authority but does not identify which account is historically accurate.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-The strongest supportive case is the unusually compact juxtaposition of claim and rebuttal, which strongly supports deliberate moral-political characterization rather than accidental inconsistency. It offers no material support for ancient provenance because ancient partisan history and modern fiction predict the same device.
+The explicit adjacency strongly supports intentional moral-political contrast rather than accidental inconsistency. It offers no material discrimination for ancient provenance because ancient partisan history, later editing, and modern fiction all commonly place an antagonist's justification beside an authoritative rebuttal.
 
 **Inspiration:** The use of contrasting political voices implies nothing by itself about whether the text is divinely inspired.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-It does not establish that Giddianhi's letter is authentic, that the dissenters had or lacked legitimate grievances, that either account is politically complete, or that the events are historical.
+It does not establish that Giddianhi's letter is authentic, that the dissenters had or lacked legitimate grievances, that either presentation is politically complete, or that the narrated events occurred.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Historical letter with partisan narration** — predicts: A hostile leader states his case while the narrator immediately contests its legitimacy.. Fit with this evidence: *consistent*.
-- **Ancient moralizing historiography** — predicts: Opposing political claims are subordinated to the historian's theological judgment.. Fit with this evidence: *consistent*.
-- **Later editorial moralization** — predicts: An editor adds or sharpens a rebuttal so readers do not accept the antagonist's grievance framing.. Fit with this evidence: *not ruled out*.
-- **Nineteenth-century literary composition** — predicts: An author places propaganda and narratorial correction side by side to characterize antagonist and narrator.. Fit with this evidence: *consistent*.
-- **Unintentional inconsistency** — predicts: Conflicting claims appear without a clear framing relationship.. Fit with this evidence: *some difficulty*.
+- **Nineteenth-century literary characterization** — predicts: An author juxtaposes antagonist propaganda with narratorial correction to direct the reader's moral judgment.. Fit with this evidence: *consistent*.
+- **Later editorial moralization** — predicts: An editor adds or sharpens a rebuttal so that the antagonist's grievance claim is not accepted at face value.. Fit with this evidence: *not ruled out*.
+- **Ancient partisan historiography** — predicts: A historian quotes or reconstructs an enemy claim and immediately subordinates it to the narrator's ideological judgment.. Fit with this evidence: *consistent*.
+- **Historical letter with hostile narration** — predicts: A real insurgent states his case while a partisan narrator disputes its legitimacy.. Fit with this evidence: *consistent*.
+- **Unintentional inconsistency** — predicts: Conflicting claims appear without an explicit framing relationship.. Fit with this evidence: *some difficulty*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- Giddianhi's claim is propaganda and the narrator's rebuttal reflects accurate background knowledge. — *possible*: The hostile demand and threat make propaganda plausible, but no independent account adjudicates the dispute.
-- Both statements are partisan presentations of a more complicated historical dispute. — *plausible*: Opposing political actors commonly frame grievances selectively, and the narrator openly evaluates one side.
-- The contrast is chiefly a literary device for marking Giddianhi as morally illegitimate. — *plausible*: The narrator's rebuttal immediately guides the reader's judgment and does not explore the grievance further.
-- The two claims accidentally conflict. — *ad hoc*: Their adjacency and the narrator's explicit reference to the alleged wrong make an unintended clash unlikely.
+- The contrast is principally a literary device marking Giddianhi as morally illegitimate. — *plausible*: The immediate narratorial correction guides the reader's judgment and does not investigate the grievance further.
+- Both statements are partisan descriptions of a more complicated historical dispute. — *independently supported*: Political actors and partisan historians commonly frame grievances selectively; the passage itself supplies only the narrator's adjudication.
+- Giddianhi's claim is propaganda and the narrator's rebuttal preserves accurate background knowledge. — *possible*: The threatening letter makes propaganda plausible, but no independent account verifies the narrator's version.
+- The two claims conflict accidentally. — *ad hoc*: Their adjacency and the narrator's explicit reference to the alleged wrong make an unintended clash unlikely.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-The same adjacent opposition between quoted political rhetoric and narratorial rebuttal in a biblical history should receive strong weight for intentional narrative contrast while remaining neutral on which party was historically right. The existing 0.75 assessment is symmetrical with the registered 1 Kings 20 contrast and should be retained.
+An adjacent opposition between quoted political rhetoric and narratorial rebuttal in biblical historiography should receive strong weight for deliberate narrative contrast while remaining neutral about which party was historically correct. Retaining 0.75 matches the registered treatment of 1 Kings 20.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **Strong** (supports, evidence_strength 0.75) for the proposition: *The final text intentionally juxtaposes Giddianhi's grievance claim with the narrator's moral-political rebuttal.*
 
-The adjacent claim and explicit rebuttal strongly support intentional moral-political contrast, while providing no independent basis for deciding whose account of the grievance was historically accurate.
+The adjacent grievance claim and explicit narratorial rebuttal strongly support intentional moral-political contrast, while providing no independent basis for deciding whose historical account was accurate.
 
-Base rate / look-elsewhere: Partisan narrators commonly rebut antagonists' stated motives, so the device is not rare and does not indicate provenance. The search denominator is unusually constrained because the opposed claims occur in adjacent verses and concern the same alleged deprivation, minimizing look-elsewhere concerns for the literary proposition.
+Base rate / look-elsewhere: Partisan narrators commonly rebut antagonists' motives, so this device does not indicate provenance. Look-elsewhere concerns are small for the literary proposition because the opposed statements are adjacent and address the same alleged deprivation.
 
-What would move this: The weight for deliberate contrast would rise if textual or structural analysis identified further adjacent, consistently framed exchanges between Giddianhi's claims and the narrator's rebuttals; it would fall if an earlier textual form lacked the rebuttal or if matched examples showed that such adjacent contradictions commonly occur through accidental compilation.
+What would move this: The weight would rise if further close analysis found a sustained, consistently framed exchange between Giddianhi's assertions and narratorial rebuttals. It would fall if an earlier textual form lacked the rebuttal or if syntactic evidence showed that verse 11 was not responding to the grievance stated in verse 10.
 
 Canonical assessment: [[Evidence Assessments#bom-3nephi3-grievance-narrative-contrast|Contrasting political grievance accounts in 3 Nephi 3]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+Political narratives often preserve or construct an opponent's self-justification and then direct readers through narratorial evaluation. On a historical reconstruction, a partisan narrator rebuts a real insurgent letter; on editorial or literary reconstructions, the juxtaposition efficiently characterizes Giddianhi and establishes the narrative's moral alignment.
+<!-- SG:END how-it-fits -->

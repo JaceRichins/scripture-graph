@@ -15,73 +15,80 @@ weight_label: strong
 direction: supports
 issue: bom-ether11-curse-fulfillment-correspondence
 proposition: The final text deliberately presents the wars, famines, pestilences, and destruction in Ether 11:7 as fulfillment of the prophetic warning in Ether 11:6.
-calibrated_at: '2026-09-03T17:19:49Z'
-calibration_version: 1
+calibrated_at: '2026-09-04T23:18:33Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Internal Narrative Correspondence in Ether 11
 
 ## Summary
 <!-- SG:BEGIN summary -->
-Ether 11:6 warns of a curse and extraordinary destruction, and verse 7 immediately narrates wars, famines, pestilences, and destruction as the consequence of rejecting the Lord's voice. This provides strong evidence of deliberate warning-and-fulfillment framing, though the conventional calamity cluster and shared narrative source do not independently establish historical occurrence, supernatural prediction, divine causation, ancient provenance, or inspiration.
+Ether 11:6 warns of a curse and extraordinary destruction, and verse 7 immediately narrates wars, famines, pestilences, and destruction as the consequence of rejecting the warning. This strongly supports deliberate warning-and-fulfillment framing, while the conventional calamity cluster and shared narrative source do not independently establish historical occurrence, supernatural prediction, divine causation, ancient provenance, or inspiration.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-Ether 11:5-6 describes prophets predicting a great curse and destruction and being put to death for it; 11:7 immediately narrates 'wars and contentions... famines and pestilences... a great destruction' following the people's refusal to heed the warning, in the same verse and same narrative breath.
+Ether 11:5–6 describes prophets warning of a great curse and destruction and being put to death. Verse 7 immediately reports wars, contentions, famines, pestilences, and great destruction after the people refuse to heed the warning, explicitly connecting the calamities to the preceding rejection.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The text explicitly and immediately links the rejected prophetic warning to the described calamities as cause and consequence, within the compiler's (Moroni's) own summary framing of the Jaredite record.
+The final text deliberately frames the rejected warning and ensuing calamities as a fulfillment sequence and theological cause-and-consequence pattern. The correspondence is close to an explicit narratorial assertion rather than an independently discovered correlation.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-Consistent with a real historical pattern of political collapse following suppression of dissenting voices, with a compiler's theological telescoping of a longer, messier history into a single warning-then-judgment frame, and with invention of the whole cycle to fit a moral pattern the Book of Mormon repeats often (a recognized editorial template).
+The framing is compatible with real social collapse following suppression of dissent, retrospective moral interpretation of ordinary war and scarcity, compiler-level compression of a longer history, or invention according to a recurring wickedness-and-destruction template. It establishes the narrative's causal theology more readily than the events' historicity or mechanism.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-This is close to a restatement of what the compiler explicitly says rather than a separately inferable pattern, so while it is strong evidence for how the FINAL TEXT frames the events, it should not be scored as near-certain independent confirmation of anything beyond that framing; it says nothing about whether wars, famine, and disease had ordinary rather than supernatural causes.
+The adjacency, causal language, and repeated destruction theme strongly support deliberate warning-and-fulfillment framing. The critical alternative is well supported at the literary level: the Book of Mormon repeatedly uses rejected-warning and calamity cycles, so this instance may reflect a standing compositional template and provides almost no independent support for genuine prediction, divine causation, or ancient provenance.
 
-**Inspiration:** Nothing independently: a compiler's own claim that a warning was fulfilled is evidence about the text's theological framing, not external confirmation of supernatural causation or genuine inspiration.
+**Inspiration:** The compiler's presentation of a fulfilled warning is evidence about the text's theology and implies nothing independently about divine inspiration.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-Does not establish the historicity of the calamities, that they were supernaturally caused, that the warning was a genuine predictive prophecy rather than retrospective moralizing, or the narrator's date and identity.
+It does not establish the historicity of the calamities, their supernatural cause, genuine pre-event prediction, the narrator's date or identity, ancient provenance, or inspiration.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **compiler-level theological telescoping** — predicts: a tight warning-then-judgment frame regardless of the messier underlying history. Fit with this evidence: *supports*.
-- **ordinary political/environmental causation** — predicts: war, famine, and disease following social collapse without requiring supernatural mechanism. Fit with this evidence: *consistent*.
-- **genuine ancient predictive prophecy** — predicts: the same tight correspondence plus real advance foreknowledge. Fit with this evidence: *not ruled out*.
+- **Free literary construction** — predicts: The author creates a conventional rejected-warning and destruction cycle to reinforce a recurring moral theme.. Fit with this evidence: *consistent*.
+- **Compiler-level theological telescoping** — predicts: A compiler compresses a longer and more contingent history into a direct warning-refusal-judgment sequence.. Fit with this evidence: *supports*.
+- **Ordinary causation moralized retrospectively** — predicts: War, famine, and disease arising through social collapse are later narrated as fulfillment of prophetic warning.. Fit with this evidence: *consistent*.
+- **Genuine ancient predictive prophecy and divine judgment** — predicts: A pre-event warning is followed by the announced calamities as divine consequence.. Fit with this evidence: *not ruled out*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- Compiler-level theological telescoping: Moroni compresses and moralizes a longer, more contingent history into 'warned, refused, destroyed.' — *independently supported*: This exact wars-famine-pestilence-following-wickedness template recurs repeatedly throughout the Book of Mormon (Helaman, 4 Nephi, Alma), indicating a standing editorial habit rather than a one-off tight correspondence.
-- Ordinary political/environmental causation of war, famine, and disease following social collapse and killing of dissident prophets. — *independently supported*: A well-attested general historical pattern needing no supernatural mechanism.
-- Genuine ancient predictive prophecy independently fulfilled. — *possible*: Permitted by the text but not independently evidenced.
-- Free invention of the entire cycle to fit the Book of Mormon's recurring moral template. — *plausible*: Consistent with the pattern's frequent reuse elsewhere in the corpus.
+- The entire cycle was composed using the Book of Mormon's recurring wickedness-warning-destruction template. — *plausible*: Closely related moral cycles recur throughout the corpus and directly predict the form of this episode.
+- A compiler telescoped and moralized a longer, more complicated historical decline. — *independently supported*: Summary histories commonly compress complex causal sequences, and Ether repeatedly uses abbreviated dynastic and judgment formulas.
+- War, famine, and disease followed ordinary social and environmental mechanisms rather than supernatural intervention. — *independently supported*: These calamities commonly cluster during political breakdown and warfare.
+- A genuine ancient warning accurately predicted later divinely caused calamities. — *possible*: This matches the text's theological account but lacks independent pre-event dating and external attestation.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-An explicit warning-and-calamity linkage in a biblical narrative should likewise receive strong weight for narratorial fulfillment framing but little for external history or supernatural causation. The former 0.93 exceeded the rubric's ceiling for evidence without independent external attestation and is reduced to 0.80; analogous entries above that ceiling should be audited under the same rule.
+An explicit warning-and-calamity linkage in a biblical narrative should likewise receive strong weight for narratorial fulfillment framing but little for external history or supernatural causation. The retained 0.80 avoids the very-strong band, which requires independent external attestation.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **Strong** (supports, evidence_strength 0.8) for the proposition: *The final text deliberately presents the wars, famines, pestilences, and destruction in Ether 11:7 as fulfillment of the prophetic warning in Ether 11:6.*
 
-Ether 11:6–7 strongly supports an intentional warning-and-fulfillment frame, but the conventional calamity cluster and single narrative witness provide almost no independent support for supernatural prediction, historical occurrence, or ancient provenance.
+Ether 11:6–7 strongly supports an intentional warning-and-fulfillment frame, while the conventional calamity cluster and single narrative witness provide almost no independent support for supernatural prediction, historical occurrence, or ancient provenance.
 
-Base rate / look-elsewhere: The wars/famine/pestilence-follows-rejected-warning template recurs so often across the Book of Mormon (Helaman 11-12, 4 Nephi, Alma 8-10, Ether 9-11) that it functions as a standing compositional formula, which lowers rather than raises the case-specific diagnostic weight of any single instance, including this one.
+Base rate / look-elsewhere: Rejected-warning followed by war, famine, pestilence, or destruction is a common scriptural and historiographic template and recurs repeatedly within the Book of Mormon. That high base rate lowers its diagnostic value for provenance or prediction, although the immediate causal linkage makes deliberate framing highly likely in this particular passage.
 
-What would move this: For intentional framing, the weight would rise if analysis found additional rare, locally ordered language linking this warning uniquely to these calamities; it would fall if an earlier textual form separated the passages or lacked the causal connective and repeated destruction language, or if the supposed link proved syntactically unrelated. Independently dated warning evidence and external attestation of the calamities would be required to raise the separate historical-prediction assessment.
+What would move this: For intentional framing, the weight would rise if further rare, locally ordered wording uniquely linked this warning to these calamities; it would fall if an earlier textual form separated the passages, lacked the causal connection, or showed that the apparent link was syntactically unrelated. Independently dated warning evidence and external attestation of the calamities would be necessary to raise the separate historical-prediction assessment.
 
 Canonical assessment: [[Evidence Assessments#bom-ether11-curse-fulfillment-correspondence|Warning-and-calamity correspondence in Ether 11]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+War, famine, and disease often cluster during political collapse, while theological histories commonly interpret such sequences as judgments following rejected warnings. On a historical reconstruction, the compiler compresses real decline into a moral pattern; on retrospective or literary reconstructions, the same recurring pattern organizes or creates the episode.
+<!-- SG:END how-it-fits -->

@@ -125,7 +125,7 @@ Notes: [[Internal Literary Correspondence in 1 Nephi 12]]
 ### bom-3nephi1-samuel-signs-correspondence
 **Correspondence between Samuel's birth signs and their fulfillment in 3 Nephi 1** — *strong* (supports, evidence_strength 0.65) for: The final text deliberately makes the reported fulfillment in 3 Nephi 1 correspond to Samuel's announced signs in Helaman 14 in order to vindicate prophetic testimony.
 
-The continuous-light complex, new-star correspondence, and explicit fulfillment language strongly support deliberate final-form vindication of Samuel. Because both sides belong to one literary tradition, this supplies only none-band support for genuine pre-event prophecy, external historicity, or inspiration.
+The related continuous-light descriptions and the new star announced in Helaman 14 are deliberately matched by 3 Nephi 1, with explicit fulfillment language, providing strong evidence of intended narrative vindication of Samuel. Because both passages belong to the same literary tradition, the match alone supplies none-band support for supernatural foreknowledge, external historicity, or inspiration.
 
 Notes: [[Internal Narrative Correspondence in 3 Nephi 1]]
 
@@ -354,7 +354,7 @@ The right-period South Arabian NHM tribal attestation is a real and interesting 
 Notes: [[Nahom and the NHM altars]]
 
 ### bom-alma16-prophecy-fulfillment-correspondence
-**Narrative fulfillment of Alma's military prophecy in Alma 16** — *strong* (supports, evidence_strength 0.84) for: The correspondence between Alma's warning (Alma 9:18) and the destruction of Ammonihah (Alma 16) reflects deliberate final-form prophecy-and-fulfillment design.
+**Narrative fulfillment of Alma's military prophecy in Alma 16** — *strong* (supports, evidence_strength 0.84) for: The final text deliberately presents the campaign in Alma 16:7-8 as the fulfillment and vindication of Alma's prediction in Alma 16:6.
 
 The immediate repetition of route and encounter details strongly supports deliberate in-narrative vindication of Alma's prophetic authority. Because prediction and outcome come through one narrative witness, the correspondence supplies only none-band support for genuine pre-event revelation, historical occurrence, or inspiration.
 
