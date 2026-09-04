@@ -43,7 +43,7 @@ status: awaiting-jace
 
 > [!sg-host] 🎙 **Luke**  `intro-01`
 > Mary. Thank you for coming up.
-> %%jace: fix this dialogue Luke. And to Mary not the other way around.%%
+> %%jace: fix this dialogue Luke came and found mary not the other way around. Luke goes and finds the guest.%%
 >
 
 > [!sg-mary-magdalene] 🎙 **Mary Magdalene**  `intro-02`
