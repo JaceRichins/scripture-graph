@@ -258,7 +258,7 @@ Notes: [[Geographic Identification in 1 Nephi 2]]
 ### bom-if-and-semitic-source
 **If-and conditional constructions in the earliest textual layer as a Hebrew-source Hebraism** — *weak* (supports, evidence_strength 0.2) for: The earliest Book of Mormon's if-and conditional constructions are translation calques materially more expected from an ancient Semitic source than from English dictation or archaizing composition.
 
-The nonstandard if-and construction is real, attested early, and later regularized, modestly favoring a Semitic-calque reading, but a small clustered sample, an independently attested Early Modern English parallel, and the absence of matched-corpus frequency data keep this at the low end of the weak band.
+The nonstandard if-and construction is real, attested early, and later regularized, modestly favoring a Semitic-calque reading. A small and incompletely defined sample, independently attested English precedent, plausible dictation mechanisms, and missing matched-corpus frequencies keep the evidence weak.
 
 Notes: [[If-and conditionals in the Original Manuscript]]
 
@@ -328,7 +328,7 @@ Notes: [[Internal Literary Evidence in 2 Nephi 29]]
 ### bom-nahom-nhm-geography
 **Nahom / South Arabian NHM as evidence of authentic ancient Arabian geography in 1 Nephi** — *weak* (supports, evidence_strength 0.3) for: The name Nahom and its narrative location preserve authentic pre-exilic South Arabian geographic knowledge that is materially more expected from an ancient source than from nineteenth-century composition.
 
-The right-period South Arabian NHM tribal attestation near Ma'rib is a real, interesting correlation, but the inscriptions identify a tribal designation rather than a confirmed burial locality, and no search denominator or ruled-out map-mediation evidence has been supplied, keeping this weak rather than moderate support for authentic ancient Arabian geography.
+The right-period South Arabian NHM tribal attestation is a real and interesting correlation, but it does not identify a burial locality, establish the required vocalization, or tightly constrain the route. Possible map mediation and the missing search denominator keep it weak support for authentic ancient Arabian geography.
 
 Notes: [[Nahom and the NHM altars]]
 
@@ -433,7 +433,7 @@ Notes: [[Internal Geographic Constraints in 3 Nephi 8]]
 ### bom-1nephi-zedekiah-synchronism
 **Zedekiah-era political setting in 1 Nephi 1 as a historical synchronism** — *none* (supports, evidence_strength 0.1) for: First Nephi 1's Zedekiah and Babylonian-captivity setting provides independent evidence that the narrative derives from an authentic early-sixth-century BCE historical source rather than a Bible-informed nineteenth-century composition.
 
-The Zedekiah-era setting is internally coherent and historically accurate, but because the ruler, crisis, and threatened further captivity were all directly available from 2 Kings 24 to any Bible-literate nineteenth-century author, the synchronism gives almost no independent discrimination for genuine ancient grounding beyond internal plausibility.
+The Zedekiah-era setting is internally coherent and historically appropriate, but the ruler, crisis, threatened destruction, and prospect of further captivity were directly available from the Bible. The synchronism therefore gives almost no independent discrimination for an authentic early-sixth-century BCE source beyond internal plausibility.
 
 Notes: [[Historical Synchronism in 1 Nephi 1]]
 

@@ -13,8 +13,9 @@ weight_label: weak
 direction: supports
 issue: bom-nahom-nhm-geography
 proposition: The name Nahom and its narrative location preserve authentic pre-exilic South Arabian geographic knowledge that is materially more expected from an ancient source than from nineteenth-century composition.
-calibrated_at: '2026-09-03T16:36:36Z'
-calibration_version: 1
+calibrated_at: '2026-09-04T22:23:12Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Nahom and the NHM altars
@@ -27,7 +28,7 @@ calibration_version: 1
 > name still exists in roughly the area where Lehi's party would turn east.
 
 <!-- SG:BEGIN summary -->
-[[1 Nephi 16]]–[[1 Nephi 17]] describes Ishmael's burial at a pre-existing [[Nahom]] and a later eastward turn; South Arabian inscriptions independently attest an ancient NHM tribal affiliation, but they do not identify the Book of Mormon locality, its vocalization, or Ishmael's burial. The correspondence weakly supports authentic Arabian knowledge, while flexible route reconstruction, an unknown search denominator, and possible pre-1830 map mediation keep it from independently establishing the journey or ancient authorship. Sources retained: S. Kent Brown, “New Light: Nahom and the ‘Eastward’ Turn” (JBMS 12/1, 2003); Warren P. Aston, Lehi and Sariah in Arabia (2015); Burkhard Vogt and colleagues' Bar'an temple excavation reports; and the Philip Beale critique and responses in Interpreter/JBMS.
+1 Nephi 16 describes Ishmael's burial at a pre-existing Nahom, and South Arabian inscriptions independently attest an NHM tribal name near Ma'rib in roughly the right era — a real and interesting correlation. But the inscriptions fix a tribal designation, not a burial locality or the Book of Mormon's intended vocalization, and no search denominator or ruled-out map-mediation evidence has been supplied, so this remains weak rather than moderate support for authentic ancient Arabian geographic knowledge.
 <!-- SG:END summary -->
 
 ## Sources
@@ -48,62 +49,66 @@ calibration_version: 1
 
 ## Observation
 <!-- SG:BEGIN observation -->
-1 Nephi 16:34 says Ishmael was buried in a pre-existing place called Nahom. South Arabian inscriptions conventionally transliterated NHM occur on altars from the Bar'an temple excavation at Ma'rib and identify a tribal affiliation present around the relevant broad period. Later geography also preserves an NHM/Nihm name in western Yemen. The inscriptions do not themselves identify Lehi, Ishmael, a burial place, the Book of Mormon's vocalization, or the precise location where the tribe lived.
+1 Nephi 16:34 states Ishmael was buried at a pre-existing place called Nahom. South Arabian inscriptions conventionally transliterated NHM occur on altars from the Bar'an temple excavation near Ma'rib and attest a tribal affiliation in roughly the relevant broad period; a later NHM/Nihm placename survives in western Yemen. The inscriptions do not themselves name Lehi, Ishmael, a burial place, the Book of Mormon's intended vocalization, or a precise location.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The apologetic identification connects the unvocalized South Arabian NHM with Nahom and places it near a reconstructed southward route followed by an eastward turn toward a proposed Bountiful in Dhofar. This is geographically possible and more specific than a merely generic Arabian setting, but the route, vocalization, territorial extent, burial association, and Bountiful endpoint are reconstructed rather than directly established by the inscriptions.
+The apologetic identification links the unvocalized consonantal NHM with Nahom and situates it near a reconstructed southward route with an eastward turn toward a proposed Bountiful in Dhofar. This is geographically possible and more specific than a generic Arabian setting, but the route, vocalization, territorial extent, burial association, and Bountiful endpoint are reconstructed rather than directly given by the inscriptions.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-The evidence is compatible with the existence of an NHM-associated people in ancient South Arabia and with an itinerary passing through their territory. It is also compatible with a modern author encountering a related map name or obtaining a chance match after investigators searched many Arabian names and route configurations.
+Compatible with an ancient NHM-associated people in South Arabia and an itinerary passing through their territory; equally compatible with a modern author encountering a related map name, or with a chance match found after searching many Arabian names and route configurations.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-The approximately right-period NHM attestation is genuinely interesting and weakly increases the plausibility that Nahom reflects authentic Arabian knowledge, especially if nineteenth-century access to the name was unlikely. Its force is reduced by uncertain vocalization, the difference between a tribal designation and an identified burial locality, flexible route reconstruction, an unreported search denominator, and documented pre-1830 maps containing a related name. The current 0.50 assessment is therefore reduced because the observation does not discriminate at a moderate level between the principal origin models.
+The right-period NHM attestation is genuinely interesting and weakly raises the plausibility of authentic Arabian knowledge, especially if nineteenth-century access to the name was unlikely. Its force is reduced by uncertain vocalization, the gap between a tribal designation and a confirmed burial locality, flexible route reconstruction, an unreported search denominator, and documented pre-1830 maps carrying a related name.
 
-**Inspiration:** This geographic correlation says nothing by itself about divine inspiration, which is not entailed by either an ancient identification or a modern source explanation.
+**Inspiration:** This geographic correlation says nothing by itself about divine inspiration, which is not entailed by either an ancient identification or a modern-source explanation.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-It does not establish that Nahom is the same place as the NHM inscriptions, that Ishmael was buried there, that the proposed route or Bountiful identification is correct, or that Lehi's journey and the Book of Mormon narrative are historical.
+That Nahom is the same place as the NHM inscriptions, that Ishmael was buried there, that the proposed route or Bountiful identification is correct, or that Lehi's journey and the surrounding narrative are historical.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Historical Arabian journey preserved in an ancient record** — predicts: A pre-existing Arabian name reasonably corresponding to Nahom should occur near a viable route and period, ideally with evidence locating the group or place there.. Fit with this evidence: *supports*.
-- **Ancient record with approximate geography or later translation** — predicts: A broadly appropriate NHM name may survive even if vocalization and route details are altered or generalized.. Fit with this evidence: *consistent*.
-- **Nineteenth-century composition using geographic sources** — predicts: A name such as Nehhm/Nehm could enter the narrative if the author encountered a map or derivative geographic source.. Fit with this evidence: *not ruled out*.
-- **Nineteenth-century composition without access to NHM material** — predicts: Some apparent matches will arise when many consonantal names, spellings, routes, and endpoints are examined after publication.. Fit with this evidence: *not ruled out*.
+- **Historical Arabian journey preserved in an ancient record** — predicts: A pre-existing Arabian name reasonably corresponding to Nahom occurs near a viable route and period, ideally with evidence locating the group or place there.. Fit with this evidence: *supports*.
+- **Ancient record with approximate or later-translated geography** — predicts: A broadly appropriate NHM name may survive even if vocalization and route detail are generalized.. Fit with this evidence: *consistent*.
+- **Nineteenth-century composition using an accessible geographic source** — predicts: A name such as Nehhm/Nehm could enter the narrative via a map or derivative source Joseph Smith or an associate consulted.. Fit with this evidence: *not ruled out*.
+- **Nineteenth-century composition without NHM access** — predicts: Apparent matches will arise when many consonantal names, spellings, routes, and endpoints are examined after the fact.. Fit with this evidence: *not ruled out*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- Nahom and South Arabian NHM are a chance consonantal resemblance selected from a large field of possible Arabian names. — *plausible*: Semitic writing commonly foregrounds consonants, vocalization is uncertain, and the number of names and route locations examined has not been reported.
-- A nineteenth-century geographic source containing Nehhm or a related spelling ultimately supplied the name. — *possible*: Such spellings appeared on pre-1830 European maps, but direct evidence that Joseph Smith or an associate consulted a relevant map has not been supplied.
-- The inscriptions identify a tribe whose territory included the narrative's burial location. — *possible*: The inscriptions independently attest an NHM affiliation, but an offering at Ma'rib does not by itself locate the tribe's territory or a place called Nahom.
-- The southward itinerary and eastward turn independently locate Nahom near NHM territory. — *plausible*: The proposed route follows real Arabian travel constraints, but its stopping points and endpoint remain sufficiently flexible for retrospective fitting.
-- The consonantal correspondence alone identifies the names as linguistically identical. — *ad hoc*: That conclusion assumes the required vocalization and referent without direct inscriptional evidence.
+- Nahom and South Arabian NHM are a chance consonantal resemblance selected from a large field of Arabian names. — *plausible*: The vocalization is uncertain, and no comprehensive denominator reports how many names, spellings, routes, and locations were available for comparison.
+- A pre-1830 map or derivative geographic source containing Nehhm, Nehm, or a related spelling ultimately supplied the name. — *possible*: Related names appeared on pre-1830 European maps, although direct evidence that Joseph Smith or a close associate accessed and used a relevant source has not been supplied.
+- The inscriptions name a tribe whose territory included the narrative burial location. — *possible*: The inscriptions independently attest an NHM affiliation, but an offering at Ma'rib does not by itself map that group's territory or identify a locality called Nahom.
+- Travel constraints and the eastward turn narrow the route to NHM-associated territory. — *possible*: Proposed routes use real Arabian terrain and travel constraints, but their stopping points, territorial boundaries, and coastal endpoints retain appreciable retrospective flexibility.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-An unvocalized toponym or tribal-name match in a biblical narrative would likewise receive only limited historical weight unless its location, referent, route, and search denominator were independently constrained. The previous note was too generous relative to that standard because it treated a real inscription as though it securely supplied the narrative's exact place.
+An unvocalized toponym/tribal-name match in a biblical narrative would receive only limited weight unless location, referent, route, and search denominator were independently constrained; treating the inscription as though it securely supplied the narrative's exact place would be too generous there too.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **Weak** (supports, evidence_strength 0.3) for the proposition: *The name Nahom and its narrative location preserve authentic pre-exilic South Arabian geographic knowledge that is materially more expected from an ancient source than from nineteenth-century composition.*
 
-The right-period South Arabian NHM attestation is an interesting geographic correspondence that weakly supports authentic Arabian knowledge in 1 Nephi, but uncertain identification, route flexibility, possible map mediation, and an unknown search denominator prevent moderate or strong weight.
+The right-period South Arabian NHM inscriptions are an interesting, weakly corroborating detail for 1 Nephi's Arabian geography, but they identify a tribe rather than a burial site, and without route or search-denominator controls this stays weak evidence for ancient authenticity rather than moderate or strong.
 
-Base rate / look-elsewhere: No matched-control study or search denominator is supplied. Researchers could compare numerous Arabian names, variant transliterations, tribal designations, possible routes, stopping points, and coastal endpoints; this look-elsewhere opportunity materially lowers the evidentiary value. Ancient Near Eastern texts frequently preserve consonantal place and tribal names, while approximate matches across related Semitic languages are not rare enough to make three consonants decisive.
+Base rate / look-elsewhere: No matched-control study or search denominator is supplied; many Arabian names, transliterations, tribal designations, routes and coastal endpoints could be compared. Ancient Near Eastern texts commonly preserve consonantal place/tribal names, and three-consonant approximate matches across Semitic languages are not rare enough to be decisive on their own.
 
-What would move this: Weight would rise if securely provenanced pre-exilic evidence located an inhabited or burial locality vocalizable as Nahom at a narrowly predicted route junction, together with a comprehensive matched-name analysis and strong evidence that the name was unavailable in Joseph Smith's environment. It would fall if pre-1830 access to the relevant map name were demonstrated, linguistic work excluded the proposed vocalization or referent, or matched controls showed comparable three-consonant route matches to be common. Assessment dated 2026-09-03.
+What would move this: Would rise with securely provenanced pre-exilic evidence locating an inhabited or burial locality vocalizable as Nahom at a narrowly predicted route junction, plus a comprehensive matched-name analysis; would fall with demonstrated pre-1830 access to the relevant map name or matched controls showing comparable three-consonant route matches are common.
 
 Canonical assessment: [[Evidence Assessments#bom-nahom-nhm-geography|Nahom / South Arabian NHM as evidence of authentic ancient Arabian geography in 1 Nephi]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On the proposal that Lehi's party traveled a caravan route down Arabia's western/interior corridor, a stop remembered as 'Nahom' near the NHM tribe's territory around Ma'rib before turning east toward a candidate Bountiful is a workable reconstruction consistent with known incense-route geography and the Bar'an altar attestation. This is a live possibility, not a demonstration: the altars fix a tribal name and rough locale, not a burial ground or a narrative's exact path, so the reconstruction sits alongside chance resemblance and map mediation as one of several live accounts.
+<!-- SG:END how-it-fits -->
