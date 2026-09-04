@@ -59,6 +59,13 @@ Several phrase-and-sequence correspondences, especially the Matthew 3:10 paralle
 
 Notes: [[English Textual Intertextuality in Alma 5]]
 
+### bom-3nephi7-petrine-proverb-dependence
+**Biblical mediation of the paired dog-and-sow proverb in 3 Nephi 7** — *strong* (supports, evidence_strength 0.84) for: The received English wording of 3 Nephi 7:8 deliberately draws on or is mediated through the paired proverb in 2 Peter 2:22.
+
+The paired dog-and-sow imagery, preserved order, and close wording strongly support an English textual relationship with 2 Peter 2:22. Proverbs independently supports the antiquity of only half the proverb, so the evidence does not warrant a higher band or distinguish KJV-shaped translation from direct modern reuse.
+
+Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
+
 ### bom-isaiah-textual-dependence
 **Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: First Nephi 21 is deliberately dependent on or descended from the Isaiah 49 textual tradition in its final English form.
 
@@ -79,6 +86,13 @@ Notes: [[Chiasmus in Alma 36]]
 The verse clearly portrays Lehi as reasoning from prior writings, but genuine ancient source use, rhetorical appeal, editorial framing, and modern characterization predict the wording about equally. It therefore gives none-band support for an actual ancient source and no independent support for historicity or inspiration.
 
 Notes: [[Explicit Source Attribution in 2 Nephi 2]]
+
+### bom-4nephi-acts-communal-parallel
+**Communal-church parallel between 4 Nephi 1 and Acts** — *moderate* (supports, evidence_strength 0.46) for: The received account in 4 Nephi 1:1–3 deliberately participates in the literary-scriptural pattern of the communal-church summaries in Acts 2 and Acts 4.
+
+The exact phrase “all things common,” within a broader cluster of unity and economic equality, moderately supports deliberate Acts-related intertextuality. Common ideal-community motifs and viable shared-practice, translation, harmonization, and modern-reuse models limit the inference.
+
+Notes: [[Intertextual Thematic Parallel in 4 Nephi 1]]
 
 ### bom-1nephi6-editorial-persona
 **Construction of Nephi as a self-conscious editor in 1 Nephi 6** — *strong* (supports, evidence_strength 0.84) for: The final-form chapter deliberately constructs Nephi as a self-conscious editor who distinguishes sources, cites a material constraint, states a theological purpose, and directs later custodians, rather than the editorial statements being incidental or unplanned narration.
@@ -142,6 +156,13 @@ Notes: [[Internal Ethical Framing in Alma 43]]
 The paired teaching clusters, close wording, and preserved order strongly support an intentional reprise of 3 Nephi 14 in 3 Nephi 27. This is not independent additional evidence for Matthew dependence and does not distinguish historical repetition, translation harmonization, editorial reuse, or modern composition.
 
 Notes: [[English Textual Parallel in 3 Nephi 27]]
+
+### bom-2nephi10-isaiah49-reuse
+**Deliberate reuse of Isaiah 49:23 in 2 Nephi 10** — *strong* (supports, evidence_strength 0.84) for: 2 Nephi 10:9 deliberately reuses the Isaiah 49:23 language already quoted in 2 Nephi 6:7.
+
+The distinctive paired wording, nearby quotation, and continuing exposition strongly support deliberate final-form reuse of Isaiah 49:23. This callback does not independently distinguish ancient exposition from editorial, translation-level, or nineteenth-century mediation and must not be added separately to the underlying Isaiah-dependence evidence.
+
+Notes: [[Intertextual Reuse in 2 Nephi 10]]
 
 ### pgp-moses7-weeping-motif
 **Distributed weeping/compassionate-grief motif as a central literary theme of Moses 7** — *strong* (supports, evidence_strength 0.85) for: The final-form vision in Moses 7 deliberately distributes weeping and mourning among God, the heavens, Enoch, and the personified earth to make compassionate grief over wickedness and suffering a central, organizing literary theme, rather than the weeping language being scattered or merely conventional lament.
@@ -268,6 +289,20 @@ Notes: [[Internal Narrative And Strategic Evidence in Alma 51]]
 The verse clearly presents Jacob's statement as pre-event prophecy within the narrative, but that placement gives only none-band support for genuine pre-Christian prediction. Ancient prophecy, later shaping, Christianizing translation, and nineteenth-century composition can all produce the same internal chronology without independent dating evidence.
 
 Notes: [[Internal Chronological Evidence in 2 Nephi 6]]
+
+### pgp-abraham1-genesis12-intertextuality
+**Literary relationship between Abraham 1 and the Genesis 12 call narrative** — *moderate* (supports, evidence_strength 0.58) for: Abraham 1:16 and 1:19 deliberately participate in the Genesis 12 call tradition in the received English text.
+
+The close departure cluster in Abraham 1:16 and the looser resonance in 1:19 moderately support a deliberate relationship with the Genesis 12 call tradition. This sibling of the Abraham 2–Genesis 12 dependence issue supplies no independent discrimination among ancient tradition, translation or revelatory harmonization, and nineteenth-century adaptation.
+
+Notes: [[Intertextual Parallel in Abraham 1]]
+
+### bom-1nephi22-malachi4-dependence
+**Malachi 4 mediation of the paired images in 1 Nephi 22** — *strong* (supports, evidence_strength 0.84) for: The received English text of 1 Nephi 22 deliberately draws on or is mediated through the paired and ordered imagery of Malachi 4:1–2.
+
+The distinctive stubble and stall-calves images in the same contrastive order strongly support a textual or translation-level relationship with Malachi 4. The evidence does not distinguish KJV-shaped translation or harmonization from direct modern reuse, and no independent attestation warrants a higher band.
+
+Notes: [[Intertextual Verbal And Sequential Parallel in 1 Nephi 22]]
 
 ### bom-3nephi17-matthew15-healing-parallel
 **Matthew 15 Healing-Catalogue Parallel in 3 Nephi 17** — *moderate* (supports, evidence_strength 0.56) for: The final English text of 3 Nephi 17:7,9 has a specific literary or translation-level relationship to Matthew 15:30-31.
