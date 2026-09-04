@@ -53,9 +53,9 @@ The explicit 'as, also' connective is direct textual evidence of intentional ana
 Notes: [[Internal Literary Structure in Abraham 3]]
 
 ### bom-alma5-biblical-english-dependence
-**Biblical English dependence and intertextuality in Alma 5** — *strong* (supports, evidence_strength 0.68) for: The received English text of Alma 5 substantially draws on biblical, especially King James, wording and image clusters rather than having acquired all similarities through independent formulation.
+**Biblical English dependence and intertextuality in Alma 5** — *strong* (supports, evidence_strength 0.68) for: The received English text of Alma 5 substantially draws on biblical, especially King James, wording and image clusters rather than acquiring all of its similarities through independent formulation.
 
-Several phrase-and-sequence correspondences, especially the Matthew 3:10 parallel, strongly support biblical-English mediation in Alma 5. Their unequal specificity, shared biblical-register cause, large search space, and missing matched controls keep the weight below the higher textual-parallel scores and leave loose translation and nineteenth-century composition unresolved.
+Several close phrase-and-sequence correspondences, especially the Matthew 3:10 parallel, strongly support biblical-English mediation in Alma 5. Their unequal specificity, shared biblical-register cause, large search space, and missing matched controls keep the assessment below higher strong-band textual parallels and leave loose translation and nineteenth-century composition unresolved.
 
 Notes: [[English Textual Intertextuality in Alma 5]]
 
@@ -153,7 +153,7 @@ Notes: [[Internal Ethical Framing in Alma 43]]
 ### bom-3nephi27-sermon-reprise
 **Deliberate reprise of 3 Nephi 14 in 3 Nephi 27** — *strong* (supports, evidence_strength 0.78) for: The received wording of 3 Nephi 27 deliberately reprises the ask-and-knock and two-gates teachings already presented in 3 Nephi 14 rather than reproducing both ordered clusters by coincidence.
 
-The paired teaching clusters, close wording, and preserved order strongly support an intentional reprise of 3 Nephi 14 in 3 Nephi 27. This is not independent additional evidence for Matthew dependence and does not distinguish historical repetition, translation harmonization, editorial reuse, or modern composition.
+The paired teaching clusters, close wording, and preserved order strongly support an intentional reprise of 3 Nephi 14 in 3 Nephi 27. Historical repetition, stable translation wording, editorial reuse, and modern composition remain viable mechanisms, and the reprise is not independent additional evidence for Matthew dependence.
 
 Notes: [[English Textual Parallel in 3 Nephi 27]]
 
@@ -174,7 +174,7 @@ Notes: [[Internal Literary Pattern in Moses 7]]
 ### bom-3nephi5-acts-english-dependence
 **English biblical mediation of 3 Nephi 5:5 and Acts 9:1** — *moderate* (supports, evidence_strength 0.55) for: The received English wording of 3 Nephi 5:5 depends on, or was deliberately mediated through, the English biblical tradition represented by Acts 9:1 rather than arising independently.
 
-The exact three-word expression "breathing out threatenings" moderately supports English biblical mediation. Missing pre-1830 controls and an unreported search denominator prevent a strong inference of direct borrowing from Acts 9:1 and leave loose translation and modern composition unresolved.
+The exact three-word expression "breathing out threatenings" moderately supports English biblical mediation. Missing pre-1830 controls, an unreported search denominator, and plausible indirect transmission prevent a strong inference of direct borrowing from Acts 9:1 and leave loose translation and nineteenth-century composition unresolved.
 
 Notes: [[English Biblical Intertext in 3 Nephi 5]]
 
