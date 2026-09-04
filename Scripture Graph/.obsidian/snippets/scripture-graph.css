@@ -68,3 +68,42 @@
 .markdown-source-view.sg-personal {
   border-left: 3px solid rgba(90, 190, 140, 0.35);
 }
+
+/* >>> SG REVIEW NOTES (generated) >>> */
+/* One colour per person, from data/speaker-palette.json. */
+.callout[data-callout="sg-host"] {
+  --callout-color: 61, 76, 184;
+  --callout-icon: lucide-mic;
+}
+.theme-dark .callout[data-callout="sg-host"] {
+  --callout-color: 147, 160, 255;
+}
+.callout[data-callout="sg-mary-magdalene"] {
+  --callout-color: 180, 24, 90;
+  --callout-icon: lucide-mic;
+}
+.theme-dark .callout[data-callout="sg-mary-magdalene"] {
+  --callout-color: 255, 143, 177;
+}
+.callout[data-callout="sg-scholar"] {
+  --callout-color: 123, 63, 160;
+  --callout-icon: lucide-mic;
+}
+.theme-dark .callout[data-callout="sg-scholar"] {
+  --callout-color: 203, 155, 234;
+}
+.callout[data-callout="sg-record"] {
+  --callout-color: 154, 123, 47;
+  --callout-icon: lucide-book-open;
+}
+.callout[data-callout="sg-record"] .callout-content {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.05em; line-height: 1.7;
+}
+.theme-dark .callout[data-callout="sg-record"] {
+  --callout-color: 216, 180, 95;
+}
+.callout[data-callout="sg-scholar"] {
+  --callout-icon: lucide-search;
+}
+/* <<< SG REVIEW NOTES <<< */

@@ -125,7 +125,7 @@ The departure, wilderness journey, sacrifice, and promised land also resemble an
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Evidence
 > The repeated conditional clauses are strong internal evidence that prosperity, leadership, separation from God's presence, and power between the descendants are narrated as consequences contingent on obedience or rebellion, rather than as unconditional privileges attached permanently to one lineage.
-> — strength 0.8 · confidence 0.9 · unambiguous conditional grammar · [[Internal Textual Evidence in 1 Nephi 2|full dossier]]
+> — confidence 0.9 · unambiguous conditional grammar · [[Internal Textual Evidence in 1 Nephi 2|full dossier]]
 
 > [!evidence] Geographic Identification
 > The chapter supplies relative geographic information—travel near the Red Sea, three days in the wilderness, and a valley beside a river entering the sea—but no distances, coordinates, travel speed, or uniquely identifying landmarks sufficient by themselves to establish a modern campsite.

@@ -132,7 +132,7 @@ Laman's speech in verses 37–38 provides a significant countervoice. He interpr
 
 > [!evidence] Internal Thematic Evidence
 > Within Nephi's theological presentation, the pointer and changing writing provide strong internal evidence for a model of revelation that requires continuing faith, diligence, and attention rather than passive possession of a sacred object.
-> — strength 0.9 · confidence 1.0 · broadly accepted, well-hedged · [[Internal Thematic Evidence in 1 Nephi 16|full dossier]]
+> — confidence 1.0 · broadly accepted, well-hedged · [[Internal Thematic Evidence in 1 Nephi 16|full dossier]]
 
 > [!evidence] Historical/Geographical Corroboration *(tentative)*
 > Some researchers have proposed that ancient South Arabian altar inscriptions naming a tribal group 'NHM' (Nihm), found near Marib in Yemen and dated to roughly the 7th–6th centuries B.C., correspond to the burial place 'Nahom,' which is offered as external corroboration of a real-world location along a plausible Arabian trail.

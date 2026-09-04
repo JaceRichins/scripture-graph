@@ -127,7 +127,7 @@ Abraham 1:16 has a close literary relationship with [[Genesis 12]] through its l
 
 > [!evidence] Intertextual Parallel
 > Abraham 1:16 and Genesis 12:1 share a conspicuous cluster of ideas and language: leaving country or kindred and the father's house for a land not yet known or shown. Abraham 1:19 and Genesis 12:2–3 then associate Abraham's calling with a worldwide or multinational blessing. This strongly supports a deliberate literary or traditional relationship between the passages, but the textual parallel alone cannot determine the direction or historical origin of that relationship.
-> — strength 0.8 · confidence 1.0 · Strong literary relationship; origin disputed · [[Intertextual Parallel in Abraham 1|full dossier]]
+> — strength 0.6 · confidence 1.0 · Strong literary relationship; origin disputed · [[Intertextual Parallel in Abraham 1|full dossier]]
 
 > [!evidence] Official Doctrinal Reception
 > Current official Church teaching disavows past theories that black skin is a sign of divine disfavor or curse, that it reflects premortal unrighteousness, or that any race is inferior. This reception history materially constrains responsible modern use of Abraham 1:21–27: the passage should not be extended into claims of skin-color-based divine disfavor or racial inferiority.

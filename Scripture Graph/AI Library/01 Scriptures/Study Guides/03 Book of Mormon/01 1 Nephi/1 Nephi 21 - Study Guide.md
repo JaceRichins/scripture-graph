@@ -112,7 +112,7 @@ The emotional center is Zion's direct objection: she believes she has been forsa
 
 > [!evidence] Intertextual Dependence
 > The sustained sequence and close wording across all twenty-six verses constitute very strong evidence that 1 Nephi 21 is a conscious quotation or adaptation of Isaiah 49.
-> — strength 1.0 · confidence 1.0 · textual dependence established · [[Intertextual Dependence in 1 Nephi 21|full dossier]]
+> — strength 0.8 · confidence 1.0 · textual dependence established · [[Intertextual Dependence in 1 Nephi 21|full dossier]]
 
 > [!evidence] Textual/Literary Analysis *(tentative)*
 > The servant in this chapter is identified in v.3 as 'Israel' yet elsewhere is described as an individual sent to restore and gather Israel (vv.5-6, 8), creating an internal tension between collective and individual readings of the servant figure.

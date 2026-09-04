@@ -131,7 +131,7 @@ Verses 28–29 and 33 closely parallel sayings in [[Matthew 7]] and [[3 Nephi 14
 
 > [!evidence] Internal Textual Evidence
 > The explicit definition in verses 13–21 is strong internal textual evidence that "my gospel" here includes both Christ's saving mission and a commanded human response, rather than functioning merely as an institutional label.
-> — strength 0.9 · confidence 1.0 · Strong textual support; scope remains qualified · [[Internal Textual Evidence in 3 Nephi 27|full dossier]]
+> — confidence 1.0 · Strong textual support; scope remains qualified · [[Internal Textual Evidence in 3 Nephi 27|full dossier]]
 
 > [!evidence] Internal Literary Coherence *(tentative)*
 > The repeated expression "lifted up" creates a local progression: Christ is lifted upon the cross, humanity is drawn to stand before him for judgment, and faithful disciples are promised that they will be lifted up at the last day. This is strong evidence of deliberate semantic cohesion within the discourse.

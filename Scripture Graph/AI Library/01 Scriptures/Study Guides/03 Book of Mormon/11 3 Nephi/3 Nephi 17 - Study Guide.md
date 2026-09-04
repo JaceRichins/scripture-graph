@@ -133,7 +133,7 @@ The unwritable prayer recurs as a motif in [[3 Nephi 19]], and the children's ma
 
 > [!evidence] Intertextual Lexical And Narrative Parallel
 > The clustered lists of disabilities and the mass-healing setting in 3 Nephi 17 and Matthew 15 provide substantial evidence of a literary or traditional relationship between the passages.
-> — strength 0.6 · confidence 0.9 · Substantial parallel; causal explanation disputed · [[Intertextual Lexical And Narrative Parallel in 3 Nephi 17|full dossier]]
+> — strength 0.6 · confidence 1.0 · Substantial parallel; causal explanation disputed · [[Intertextual Lexical And Narrative Parallel in 3 Nephi 17|full dossier]]
 
 > [!evidence] Narrative Structure
 > The progression from limited understanding, to compassionate healing, to ineffable prayer, to individualized blessing, and finally to an angelic manifestation supports reading the chapter as a deliberately shaped ascent in intimacy and wonder.

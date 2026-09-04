@@ -113,7 +113,7 @@ Several contrasts carry the chapter's argument: tribes achieve peace but remain 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Intertextual Verbal Parallel
 > The English wording of 3 Nephi 7:8 closely parallels the paired dog-and-sow proverb in 2 Peter 2:22; its dog-and-vomit image also appears in Proverbs 26:11. This is strong evidence of biblical intertextuality in the English Book of Mormon wording.
-> — strength 0.9 · confidence 1.0 · English verbal parallel accepted; explanation disputed · [[Intertextual Verbal Parallel in 3 Nephi 7|full dossier]]
+> — strength 0.8 · confidence 1.0 · English verbal parallel accepted; explanation disputed · [[Intertextual Verbal Parallel in 3 Nephi 7|full dossier]]
 
 > [!evidence] Internal Narrative Testimony
 > The chapter constructs an internal chain of testimony: Nephi is called an eye-witness, the people see and witness miracles, converts publicly signify their experience of divine power, healed people manifest what occurred, and baptism serves as a witness and testimony.

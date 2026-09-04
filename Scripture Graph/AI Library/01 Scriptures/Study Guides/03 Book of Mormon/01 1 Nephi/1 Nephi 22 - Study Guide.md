@@ -129,11 +129,11 @@ The repetition of “according to the flesh” near the beginning and in verse 2
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Evidence
 > The repeated qualification that these events occur 'according to the flesh,' together with the explicit inclusion of temporal matters, is strong internal evidence that the chapter intends an embodied or historical dimension rather than an exclusively inward allegory.
-> — strength 0.9 · confidence 1.0 · Strong internal evidence with well-stated limits · [[Internal Textual Evidence in 1 Nephi 22|full dossier]]
+> — confidence 1.0 · Strong internal evidence with well-stated limits · [[Internal Textual Evidence in 1 Nephi 22|full dossier]]
 
 > [!evidence] Intertextual Verbal And Sequential Parallel
 > The paired images of the wicked becoming stubble and the righteous being led up as calves of the stall closely parallel the adjacent images in Malachi 4:1-2. Their shared sequence provides strong evidence of a textual or translation-level relationship.
-> — strength 0.9 · confidence 1.0 · English correspondence secure; historical explanation disputed · [[Intertextual Verbal And Sequential Parallel in 1 Nephi 22|full dossier]]
+> — strength 0.8 · confidence 1.0 · English correspondence secure; historical explanation disputed · [[Intertextual Verbal And Sequential Parallel in 1 Nephi 22|full dossier]]
 
 > [!evidence] Internal Literary Structure
 > The recurrence of "according to the flesh" near both the opening answer and the conclusion provides strong internal literary evidence that verses 2-27 form a sustained response to the brothers' question in verse 1.

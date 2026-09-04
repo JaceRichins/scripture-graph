@@ -99,7 +99,7 @@ Giddianhi's letter is a calculated persuasive composition: praise of Lachoneus's
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Thematic Evidence
 > The chapter strongly supports the interpretation that its theology of deliverance integrates repentance and prayer with disciplined material preparation: the people repent and pray, while their leaders consolidate supplies, fortify the population, maintain guards, and manufacture weapons and armor.
-> — strength 0.8 · confidence 0.8 · well-hedged; correctly avoids guaranteeing outcomes · [[Internal Thematic Evidence in 3 Nephi 3|full dossier]]
+> — confidence 0.8 · well-hedged; correctly avoids guaranteeing outcomes · [[Internal Thematic Evidence in 3 Nephi 3|full dossier]]
 
 > [!evidence] Internal Narrative Contrast
 > The letter and the narrator provide sharply opposed accounts of the robbers' grievances: Giddianhi claims that dissenters were deprived of governmental rights, while the narrator says they had received no wrong except that caused by their own dissent. This is strong evidence for an intentional clash of moral-political narratives within the chapter, but the text supplies no independent adjudication beyond its narrator's judgment.

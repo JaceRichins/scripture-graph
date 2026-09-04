@@ -142,7 +142,7 @@ The narrative also separates cultural achievement from moral approval. Herding, 
 
 > [!evidence] Internal Theological Presentation
 > Moses 5 presents the gospel as operating from humanity's beginning through angels, God's voice, the Holy Ghost, sacrifice, repentance, belief in the Son, and an ordinance. This strongly supports a literary-theological claim of continuity within the book's own narrative, but by itself provides little independent evidence for the historical antiquity of the described institutions.
-> — strength 0.8 · confidence 0.9 · affirmed; correctly layered claim · [[Internal Theological Presentation in Moses 5|full dossier]]
+> — confidence 0.9 · affirmed; correctly layered claim · [[Internal Theological Presentation in Moses 5|full dossier]]
 
 > [!evidence] Source-Critical / Textual Expansion *(tentative)*
 > The material involving Satan's direct dialogue with Cain, the throat-oath, and the title 'Master Mahan' (Moses 5:29-31, 49-53) has no counterpart in the traditional Hebrew/KJV text of Genesis 4, which passes directly from the rejected offering to the murder without this intervening material.

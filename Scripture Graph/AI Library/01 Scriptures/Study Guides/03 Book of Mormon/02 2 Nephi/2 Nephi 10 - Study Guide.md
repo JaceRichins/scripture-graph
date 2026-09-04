@@ -112,7 +112,7 @@ The chapter presents itself as the continuation and conclusion of a larger disco
 <!-- SG:BEGIN evidence -->
 > [!evidence] Intertextual Reuse
 > The description of Gentile kings and queens as nursing fathers and mothers closely reuses Isaiah 49:23 language already quoted in Jacob's discourse, providing strong evidence of deliberate literary continuity with the surrounding Isaiah exposition.
-> — strength 0.9 · confidence 1.0 · strong intertextual correspondence · [[Intertextual Reuse in 2 Nephi 10|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong intertextual correspondence · [[Intertextual Reuse in 2 Nephi 10|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
