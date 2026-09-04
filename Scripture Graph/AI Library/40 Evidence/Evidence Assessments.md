@@ -60,11 +60,11 @@ Several phrase-and-sequence correspondences, especially the Matthew 3:10 paralle
 Notes: [[English Textual Intertextuality in Alma 5]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-chapter dependence on the Isaiah/KJV textual tradition** — *strong* (supports, evidence_strength 0.84) for: 2 Nephi 15's near-total 30-verse correspondence with Isaiah 5 reflects dependence on the Isaiah/KJV textual tradition rather than independent generation of the same sequence.
+**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: First Nephi 21 is deliberately dependent on or descended from the Isaiah 49 textual tradition in its final English form.
 
-The sustained order and near-verbatim English wording across all 30 verses strongly support mediation through the Isaiah 5/KJV textual tradition, but this does not distinguish an ancient quotation rendered through familiar KJV language, revelatory harmonization, or direct modern reuse, and sibling Isaiah-quotation chapters share this same evidentiary cause under Rule 13.
+The sustained sequence and close English wording across twenty-six verses give strong support to dependence on the Isaiah 49/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory harmonization, or nineteenth-century adaptation, and related Isaiah chapters must not be counted as independent evidence.
 
-Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]]
+Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]]
 
 ### bom-chiasmus-antiquity
 **Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: Alma 36's inverted organization is materially more expected under ancient Hebrew-influenced composition than under natural narrative symmetry or nineteenth-century biblical-style composition.
@@ -269,6 +269,13 @@ The verse clearly presents Jacob's statement as pre-event prophecy within the na
 
 Notes: [[Internal Chronological Evidence in 2 Nephi 6]]
 
+### bom-3nephi17-matthew15-healing-parallel
+**Matthew 15 Healing-Catalogue Parallel in 3 Nephi 17** — *moderate* (supports, evidence_strength 0.56) for: The final English text of 3 Nephi 17:7,9 has a specific literary or translation-level relationship to Matthew 15:30-31.
+
+The clustered disability vocabulary and shared mass-healing setting give moderate support to a Matthew-related literary or translation-level relationship. Conventional healing catalogues, reordered and expanded wording, and missing matched-corpus controls prevent a strong inference or a determination of direction, date, historicity, or inspiration.
+
+Notes: [[Intertextual Lexical And Narrative Parallel in 3 Nephi 17]]
+
 ### bom-3nephi-matthew-kjv-dependence
 **Matthew/KJV mediation of the Sermon material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The English wording and sequence of 3 Nephi 13 are literarily mediated by the Matthew 6 textual tradition, especially its King James English form.
 
@@ -324,6 +331,13 @@ Notes: [[Doctrinal And Literary Integration in Moses 6]] · [[Doctrinal-Textual 
 JS-H explicitly frames the episode as Harris's secondhand report, and Anthon's own later letters (1834, 1841) independently describe the same meeting in materially different terms, disputing that he certified the characters as a genuine, correctly-translated ancient language; this is moderate evidence against taking Harris's most favorable claims at face value, though it does not establish which party's account is more accurate, since Anthon's letters were also written later, amid controversy, and are not themselves free of bias.
 
 Notes: [[Embedded Secondhand Testimony in Joseph Smith—History 1]]
+
+### bom-1nephi14-revelation17-intertext
+**Revelation 17 Imagery in 1 Nephi 14** — *moderate* (supports, evidence_strength 0.55) for: The final text of 1 Nephi 14:11 has a specific literary or translation-level relationship to Revelation 17:1 beyond merely sharing generic imagery of power associated with waters.
+
+The concentrated whore, sitting, and many-waters cluster gives moderate support to a deliberate Revelation-linked echo in the final text. Older Babylon imagery and pervasive KJV mediation leave direct adaptation, shared apocalyptic tradition, and translation-level harmonization viable, and the parallel independently establishes neither antiquity nor inspiration.
+
+Notes: [[Intertextual Literary Parallel in 1 Nephi 14]]
 
 ### bom-ether11-secret-combinations-pattern
 **Secret combinations as a recurring narrative cause of Jaredite instability (Ether 11)** — *strong* (supports, evidence_strength 0.78) for: Ether 11's final text deliberately presents organized secret combinations as a recurring cause linked to refusal of prophetic warning, rebellion, and societal destruction across the chapter's episodes
