@@ -15,72 +15,81 @@ weight_label: none
 direction: supports
 issue: bom-lehi-red-sea-campsite-identification
 proposition: The geographic description in 1 Nephi 2 materially supports identifying a particular real-world campsite and an ancient Red Sea journey.
-calibrated_at: '2026-09-03T16:35:50Z'
-calibration_version: 1
+calibrated_at: '2026-09-04T22:20:40Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Geographic Identification in 1 Nephi 2
 
 ## Summary
 <!-- SG:BEGIN summary -->
-1 Nephi 2 gives only generic wilderness travel markers — direction toward the Red Sea, three days' duration, a valley with a river to the sea — with no unique or checkable landmark, so it cannot serve as a positive geographic identification and barely discriminates between a genuine ancient itinerary and an invented one. The chapter's own hedged language already implies a weak-to-none weight rather than the 0.7 previously assigned; the more evidentially interesting Arabian-geography claims later in the Lehi narrative (e.g. Nahom in 1 Nephi 16) are separate, more specific evidence that should be judged on their own terms rather than lending strength to this generic passage.
+First Nephi 2 describes movement toward the Red Sea, a three-day wilderness journey, and a valley with a river entering the sea. These details permit historical route reconstructions but are not shown to identify a unique modern campsite, especially without a denominator of competing valleys, hydrological dating, or external anchors. The passage therefore gives none-band support for a particular identification while remaining compatible with both historical and constructed itineraries.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-The chapter gives only relative, non-unique markers — direction toward the Red Sea, a three-day duration, and a landscape type (a valley with a river to the sea) — with no distances in stated units, coordinates, named landmarks, or other detail not equally plausible as a generic description of desert travel.
+First Nephi 2 supplies relative itinerary features: travel toward the Red Sea, further movement in the wilderness, a three-day journey, and a valley beside a river that enters the sea. It supplies no coordinates, measured distances, named external landmarks, hydrological date, or feature shown here to distinguish one modern candidate from other route-feasible valleys and watercourses.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-On its own this passage cannot function as a positive identification of any specific real-world location; it is compatible with an unlimited number of actual coastal sites and equally compatible with a purely invented itinerary.
+The strongest critical reading is that these are generic biblical-style wilderness markers that an author could supply without firsthand Arabian knowledge. A historical traveler could also record exactly this level of detail. The passage therefore permits proposed reconstructions but does not, by itself, identify a unique campsite.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-The passage places essentially no constraint on the historical-geography question either way; it neither confirms nor rules out any candidate site and provides no test of whether the underlying journey occurred.
+The description is compatible with an ancient Red Sea itinerary, narrative compression of a real route, or an invented journey. Its limited constraints may help exclude plainly incompatible proposals when combined with external data, but the supplied evidence does not show that any surviving location uniquely meets them.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-Contributes essentially nothing to Arabian-geography arguments for Book of Mormon historicity; that argument's real evidential weight rests on later, far more specific claims (e.g. the place-name Nahom in 1 Nephi 16 matched against the attested South Arabian toponym NHM), not on this chapter's generic description. Weight from those more specific claims should not be allowed to transfer onto this passage.
+This passage provides none-band support for identifying a particular campsite or independently establishing the journey's historicity because the leading historical and compositional models predict its generic features about equally well. It remains contested because specific Valley of Lemuel proposals are a live apologetic claim for which readers may seek an assessment; it should not borrow weight from the more specific Nahom issue.
 
-**Inspiration:** Nothing — geographic vagueness or specificity in a travel narrative bears on historical-composition questions, not on spiritual inspiration.
+**Inspiration:** The geographic specificity or vagueness of this itinerary implies nothing by itself about whether the text is inspired.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-Does not establish that a real Valley of Lemuel or River Laman exists or ever existed at any proposed site, and does not establish that the journey is fictional — the text is too generic here to discriminate.
+The passage does not establish that a proposed modern valley is the Valley of Lemuel or that a presently observed watercourse is the River Laman. Its underdetermination also does not establish that the journey was fictional.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Genuine ancient itinerary, generically remembered/recorded** — predicts: vague directional/durational markers of exactly this kind. Fit with this evidence: *consistent*.
-- **19th-century composition using generic period knowledge of Arabia** — predicts: the same vague markers, since specific Arabian topography was not needed or available. Fit with this evidence: *consistent*.
-- **19th-century composition requiring detailed, checkable Arabian topography** — predicts: would expect either far more specific detail or detectable errors; neither is tested by this generic passage. Fit with this evidence: *not ruled out*.
+- **Historical ancient itinerary preserved in abbreviated form** — predicts: Relative direction, travel duration, and recognizable local terrain without coordinates or modern identifiers.. Fit with this evidence: *consistent*.
+- **Historical itinerary compressed or clarified in translation** — predicts: Generic route information with lost or simplified geographic detail.. Fit with this evidence: *consistent*.
+- **Nineteenth-century composition using generic wilderness geography** — predicts: A journey toward the Red Sea, travel stages, a valley, and a river without uniquely checkable anchors.. Fit with this evidence: *consistent*.
+- **Unique identification of a particular modern campsite from this chapter alone** — predicts: A sufficiently restrictive combination of route, distance, topography, and hydrology to distinguish one site.. Fit with this evidence: *some difficulty*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- A genuine ancient traveler's memory, preserved without the granular detail an eyewitness would actually retain or record. — *plausible*: Consistent with ordinary limits of memory/record-keeping in any ancient travel account, but not independently evidenced by anything internal to this chapter.
-- A 19th-century author drawing on generic, widely available knowledge that Arabia borders the Red Sea and that wilderness travel occurs in stages. — *plausible*: This level of geographic knowledge was available in period almanacs, Bible atlases, and travel literature; no special access to real Arabian terrain is required to produce wording this generic.
-- The vagueness is a deliberate authorial choice to leave the geography open to later readers. — *ad hoc*: Nothing in the text or its production history evidences deliberate vagueness as an authorial strategy; the simpler explanation is that this is simply the level of detail the source supplied.
+- A genuine travel account preserved only the details relevant to the narrative. — *plausible*: Selective and compressed itinerary reporting is ordinary in travel narratives, though this mechanism does not independently identify the route.
+- Translation or abridgment removed geographic precision present in an earlier source. — *possible*: The Book of Mormon presents itself as an abridged and translated record, but no omitted route detail can be recovered or tested from this passage.
+- A modern author used generic biblical wilderness-travel conventions and elementary Red Sea geography. — *plausible*: No unusual local detail is required to generate the features stated in the chapter.
+- A proposed valley is identified primarily because investigators searched the coast for a site matching the narrative. — *plausible*: Without a preregistered candidate set and uniqueness analysis, retrospective matching creates a substantial look-elsewhere cost.
+- The author deliberately made the geography vague to conceal the route. — *ad hoc*: The passage supplies no evidence of concealment, and ordinary narrative selectivity explains the limited detail without that added motive.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-A biblical itinerary notice with this same genericness (e.g. Exodus 15:22, 'they journeyed three days into the wilderness and found no water') is treated by biblical scholars as unverifiable for pinpointing a route, not as confirming or undermining the Exodus account by itself; the same standard is applied here rather than inflating this passage's value for faithful readers or treating its vagueness as suspicious for critical ones.
+A biblical itinerary containing only a direction, several days of travel, and a valley or water source would likewise be considered insufficient for a unique modern identification without external anchors. The present assessment neither promotes compatibility into corroboration nor treats ordinary geographic incompleteness as evidence of fiction.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **None** (supports, evidence_strength 0.12) for the proposition: *The geographic description in 1 Nephi 2 materially supports identifying a particular real-world campsite and an ancient Red Sea journey.*
 
-The chapter's markers are real but generic enough to be almost equally expected whether the journey is genuine or invented, so this passage offers at most none-to-weak support either way and should not be conflated with the more specific, more evidentially interesting geographic claims made later in the same narrative (e.g. Nahom).
+First Nephi 2 contains a coherent but generic Red Sea itinerary, and without unique landmarks, independently dated hydrology, or a controlled candidate comparison it gives almost no support for identifying a particular campsite or independently establishing an ancient journey.
 
-Base rate / look-elsewhere: No inventory of route-feasible valleys, watercourses, coastal outlets, matched travel narratives, or preservation and detection conditions is supplied. The frequency and uniqueness of the combined features therefore remain unmeasured, and any proposed site incurs a substantial look-elsewhere cost until that denominator is established.
+Base rate / look-elsewhere: No denominator is supplied for route-feasible valleys, intermittent or perennial watercourses, coastal outlets, travel speeds, or the preservation and detection of ancient campsites. Because investigators can search a long coastline and vary route assumptions, any selected candidate incurs a substantial look-elsewhere cost until competing sites and hydrological periods are evaluated consistently.
 
-What would move this: A genuinely unique, checkable detail in this specific chapter (a named valley, a stated distance, a topographic feature not derivable from general period knowledge) later corroborated by independent survey would raise this; evidence these phrases were lifted from an identifiable 1820s travel account or atlas would push toward the modern-composition explanation without invoking any real Arabian data.
+What would move this: Weight would rise if this chapter's combined travel time, route, topography, and independently dated hydrology uniquely selected a site under a transparent survey of all plausible candidates. It would move toward a modern-source explanation if the distinctive wording or feature cluster were shown to derive from an identifiable pre-1830 source; it would remain near zero if multiple sites continued to fit after systematic comparison.
 
 Canonical assessment: [[Evidence Assessments#bom-lehi-red-sea-campsite-identification|Identification of Lehi's first Red Sea campsite]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On a historical reconstruction, Lehi's group traveled southward near the Red Sea and camped in a valley where a watercourse reached the sea; abbreviated record-keeping or later narration preserved only relative route information. On a modern-composition reconstruction, familiar biblical wilderness-journey conventions and general Red Sea geography supplied the same details. A viable site proposal must therefore add independently dated hydrology, route feasibility, travel-time analysis, and features sufficiently uncommon to reduce the candidate field.
+<!-- SG:END how-it-fits -->

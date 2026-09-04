@@ -15,74 +15,81 @@ weight_label: strong
 direction: supports
 issue: pgp-abraham-genesis-literary-dependence
 proposition: Abraham 2 derives substantial narrative structure and English wording from, or through common ancestry with, the Genesis 12 textual tradition.
-calibrated_at: '2026-09-03T16:35:50Z'
-calibration_version: 1
+calibrated_at: '2026-09-04T22:20:40Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Extensive Textual And Narrative Parallel in Abraham 2
 
 ## Summary
 <!-- SG:BEGIN summary -->
-Abraham 2 closely follows Genesis 12's ordered account of the call, departure with Sarai and Lot, travel through Canaan, altars, famine, movement toward Egypt, and the sister strategy. This strongly supports dependence on or descent from the Genesis textual tradition, but it does not determine whether Abraham 2 is an ancient expansion rendered through biblical English, a modern inspired revision, or ordinary nineteenth-century composition, and it supplies no independent provenance for the expansions.
+Abraham 2 follows Genesis 12 through the same ordered departure, Canaan itinerary, altar building, famine, movement toward Egypt, and sister strategy, often in close King James wording. This strongly supports dependence on or descent from the Genesis textual tradition. The comparison does not determine whether Abraham 2's additional covenantal and autobiographical material is ancient, modern-inspired, or an ordinary nineteenth-century expansion.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-Abraham 2 follows Genesis 12's narrative beats in the same order (call from kindred, departure from Haran with Sarai and Lot, arrival at Moreh/the plain, altar-building near Bethel/Ai, southward travel, famine-driven move to Egypt, the sister ruse) and opens with wording nearly identical to the KJV, while also containing substantial material with no Genesis counterpart at all (astronomy, premortal councils, Kolob, the Egyptian priest/altar narrative, Abraham's autobiographical preface).
+Abraham 2 and Genesis 12 share an ordered narrative sequence: departure from Haran with Sarai and Lot, entry into Canaan, arrival at the plain of Moreh, a land promise, altar building near Bethel and Ai, southward movement, famine-driven travel toward Egypt, and the strategy of identifying Sarai as Abraham's sister. Their overlapping portions also share close King James wording, while Abraham 2 adds material including expanded covenant and priesthood language, records, prayers, and autobiographical narration not found in Genesis 12.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The shared skeleton and opening verbal match indicate the same kind of direct literary relationship to KJV Genesis documented for the Book of Mormon's Isaiah and Sermon-on-the-Mount material — but this note's 'extensive' label applies mainly to the overlapping portions; a large share of Abraham 2, and most of Abraham 3-5, has no Genesis parallel whatsoever.
+The leading critical reading is that KJV Genesis 12 served as a narrative and verbal scaffold for a nineteenth-century expansion. The ordered correspondence more generally strongly supports dependence on or descent from the Genesis textual tradition. It does not show that the added material derives from an ancient source, and the prior observation should not attribute astronomy, Kolob, or premortal-council material to Abraham 2 because those subjects principally occur elsewhere in the Book of Abraham.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-The relationship is compatible with a shared ancient Abraham tradition, an ancient expansion translated through KJV Genesis, modern inspired revision, or ordinary nineteenth-century composition. It strongly identifies the Genesis tradition as a source or textual ancestor but does not determine the relationship's date, direction, or the provenance of Abraham 2's expansions.
+The comparison identifies Genesis 12 or its textual tradition as the framework for the overlapping narrative. Rewritten ancient scripture, translation through familiar biblical wording, modern inspired expansion, and ordinary modern composition can all produce a received narrative supplemented with new material. The relationship therefore clarifies Abraham 2's literary ancestry but not the date or provenance of its additions.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-The verbal match supports literary dependence on KJV Genesis for the overlapping material — the same evidentiary structure as the Book of Mormon's biblical quotations — but this is far less informative here than it first appears: nobody disputes that Abraham 2 draws on the Genesis Abraham cycle, and the contested question (whether the non-Genesis expansions are ancient or a modern theological development) is untouched by this observation.
+The dependence finding is strong but bears on a proposition few readers dispute: Abraham 2 is closely related to Genesis. The major apologetic dispute concerns whether its additions preserve ancient Abrahamic material, modern revelation, or nineteenth-century development, and the shared Genesis wording provides almost no discrimination among those explanations.
 
-**Inspiration:** Nothing about the shared wording itself; whether the non-overlapping expansions are inspired revelation is a theological question this textual comparison cannot adjudicate.
+**Inspiration:** The literary relationship to Genesis implies nothing by itself about whether Abraham 2's additions are inspired.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-Does not establish the date, source, or method behind Abraham 2's expansions relative to Genesis, nor whether the underlying papyrus or vision genuinely contained ancient Abrahamic material; the KJV correspondence is confined to the overlapping episodes and says nothing about the non-overlapping, actually contested material.
+The parallel does not establish the antiquity, papyrus provenance, historical accuracy, or revelatory status of Abraham 2's added material. It also does not determine whether Genesis was used directly or mediated through an older shared tradition and later KJV-shaped rendering.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Ancient Abrahamic source sharing the Genesis skeleton, translated with KJV idiom for overlaps** — predicts: close correspondence in shared episodes plus independently-rendered novel content. Fit with this evidence: *consistent*.
-- **Genesis-as-scaffold for a Joseph Smith-era revelatory expansion** — predicts: near-verbatim shared wording plus substantial new theological material built around the frame. Fit with this evidence: *supports*.
-- **No literary relationship / coincidental resemblance** — predicts: would not predict order-preserved, near-verbatim overlap. Fit with this evidence: *strongly challenged*.
+- **Ordinary nineteenth-century expansion of KJV Genesis** — predicts: Preserved KJV narrative order and wording with substantial new material inserted around the inherited framework.. Fit with this evidence: *supports*.
+- **Modern inspired revision or expansion of Genesis** — predicts: The same textual dependence and additions, while attributing the new material to revelation.. Fit with this evidence: *consistent*.
+- **Ancient Abrahamic source translated through KJV Genesis** — predicts: A related ancient narrative with novel material, rendered in the extant English through familiar Genesis wording.. Fit with this evidence: *consistent*.
+- **Independent Abraham account without relationship to Genesis** — predicts: Potential overlap in broad patriarchal motifs but not the same extended order, named participants, locations, actions, and close English wording.. Fit with this evidence: *strongly challenged*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- Both accounts preserve an earlier Abraham tradition. — *possible*: Shared tradition could explain narrative agreement, but no independently identified antecedent containing Abraham 2's distinctive expansions is supplied.
-- An ancient Abraham text was translated using KJV Genesis as its English framework. — *possible*: This fits the extant English text but requires an unattested ancient document and an unverified translation mechanism.
-- Abraham 2 is a modern inspired expansion or reinterpretation of Genesis. — *plausible*: It directly accounts for dependence and additions, although inspiration cannot be independently inferred from the parallel.
-- Abraham 2 is an ordinary nineteenth-century expansion composed with the KJV open or remembered. — *plausible*: Genesis was available and supplies the narrative framework and wording, but the exact production mechanism for Abraham 2 is not independently documented by this note.
-- The extensive agreement is accidental. — *ad hoc*: Coincidence does not plausibly account for the long ordered sequence of distinctive people, places, actions, and wording.
+- Both texts preserve an earlier Abraham tradition. — *possible*: Shared ancestry can explain narrative agreement, but no independently identified ancient antecedent containing Abraham 2's distinctive additions is supplied.
+- An ancient Abraham text was rendered using KJV Genesis as the English framework. — *possible*: This fits the extant wording but requires an independently unattested source and a translation mechanism not demonstrated by the parallel.
+- Abraham 2 is a modern inspired expansion or reinterpretation of Genesis. — *plausible*: It directly predicts both Genesis dependence and added material, although textual comparison cannot adjudicate the claim of inspiration.
+- Abraham 2 is an ordinary nineteenth-century expansion composed with KJV Genesis available. — *plausible*: This parsimoniously predicts the order, wording, and additions; the exact drafting mechanism is not established by this note.
+- The extensive correspondence is accidental. — *ad hoc*: Coincidence does not plausibly explain the ordered sequence of named people, places, actions, and close wording.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-A Second Temple rewritten-Bible text (e.g. the Genesis Apocryphon or Jubilees) that reused Genesis wording this closely while adding new revelatory material would be described as exactly that — a Genesis-based expansion — without that label settling whether the additions preserve genuine older tradition; the same two-part judgment applies here, and the prior 0.98 score let the certainty of the shared-wording observation stand in for the much less certain, much more interesting claim about the expansions.
+A securely ancient rewritten-Bible work that reused Genesis while adding material would be classified as a Genesis-based expansion without assuming that every addition preserved an older tradition. Abraham 2 should receive the same two-part assessment: strong Genesis dependence, but a separate and unresolved provenance question for its additions.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
 **Strong** (supports, evidence_strength 0.84) for the proposition: *Abraham 2 derives substantial narrative structure and English wording from, or through common ancestry with, the Genesis 12 textual tradition.*
 
-The ordered narrative and close English wording strongly support Abraham 2's dependence on or descent from the Genesis 12 textual tradition, while leaving ancient shared tradition, inspired expansion, and ordinary modern revision unresolved.
+The ordered narrative and close English wording strongly support Abraham 2's dependence on or descent from the Genesis 12 textual tradition, while providing almost no independent leverage on whether its additions are ancient, modern-inspired, or ordinary nineteenth-century developments.
 
-Base rate / look-elsewhere: Order-preserved, multi-episode correspondence with a near-verbatim opening line is not a coincidence-compatible pattern for the overlapping material; no control corpus is needed to rule out chance there.
+Base rate / look-elsewhere: Ordered agreement across numerous distinctive narrative events is not adequately explained by chance. The comparison begins with a known Abraham narrative rather than a corpus-wide search for isolated resemblances. Determining whether the additions preserve older tradition would require a different denominator: comparable ancient rewritten-Abraham texts and independent witnesses to the added motifs.
 
-What would move this: Weight for Genesis/KJV textual dependence would rise if full collation identified a dense, ordered cluster of KJV-distinctive renderings in the overlapping passages; it would fall if the verbal correspondence proved generic and the ordered episodes were independently common in securely dated Abraham traditions without dependence on Genesis.
+What would move this: An independently dated ancient witness preserving a distinctive cluster of Abraham 2's non-Genesis additions would move interpretation toward an older source, while evidence that the additions track Joseph Smith's documented nineteenth-century sources or evolving theology would move it toward modern development. The basic Genesis-dependence weight would fall only if detailed collation failed to sustain the claimed order and verbal correspondence.
 
 Canonical assessment: [[Evidence Assessments#pgp-abraham-genesis-literary-dependence|Abraham 2 dependence on the Genesis 12 textual and narrative tradition]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On the critical reconstruction, Genesis 12 supplied an accessible sequence and wording that Joseph Smith expanded with new autobiographical, covenantal, and theological material. On an ancient-source reconstruction, Abraham 2 and Genesis descend from related Abraham traditions, with the English production process using KJV Genesis for their overlapping material. A modern-inspired-expansion reconstruction likewise treats Genesis as the scaffold while locating the additions in revelation rather than ordinary composition.
+<!-- SG:END how-it-fits -->

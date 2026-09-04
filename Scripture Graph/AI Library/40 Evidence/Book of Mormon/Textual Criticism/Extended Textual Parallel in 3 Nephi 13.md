@@ -6,7 +6,7 @@ sg-id: evidence:extended-textual-parallel-in-3-nephi-13
 created_by: librarian:job-3ne-13-20260903-072602-952e1f7e
 created_at: '2026-09-03T07:40:29Z'
 evidence_class: extended textual parallel
-claim_confidence: 0.98
+claim_confidence: 0.99
 evidence_strength: 0.84
 study_relevance: 0.99
 source_quality: 1
@@ -14,75 +14,82 @@ consensus_status: accepted observation / disputed interpretation
 weight_label: strong
 direction: supports
 issue: bom-3nephi-matthew-kjv-dependence
-proposition: The English wording and sequence of 3 Nephi 13 are literarily mediated by the Matthew 6 textual tradition, especially its King James English form.
-calibrated_at: '2026-09-03T16:35:50Z'
-calibration_version: 1
+proposition: The English wording and sequence of the Sermon material in 3 Nephi are literarily mediated by the Matthew/KJV textual tradition.
+calibrated_at: '2026-09-04T22:20:40Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Extended Textual Parallel in 3 Nephi 13
 
 ## Summary
 <!-- SG:BEGIN summary -->
-3 Nephi 13 matches Matthew 6 clause-for-clause in KJV wording — essentially certain evidence of a direct literary relationship to the King James Matthew text, structurally identical to the Book of Mormon's Isaiah quotations and warranting a comparable strong-band weight (about 0.82) rather than a score near 0.92-0.99 that treats the observation's certainty as the weight itself. This does not decide whether Jesus really repeated his Old-World sermon nearly verbatim, whether a translator supplied familiar KJV phrasing for a differently-worded original, or whether the chapter was composed directly from an open Bible; the verse-25 address to the Nephite twelve shows the chapter is not a pure, unedited copy.
+Third Nephi 13 follows Matthew 6 across the chapter in the same sequence and extensive King James wording, while verse 25 adapts the discourse to the Nephite twelve. This strongly supports Matthew/KJV textual mediation. The parallel does not choose among direct modern adaptation, translation or revelatory harmonization, and a historical repeated discourse subsequently rendered through familiar biblical English.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-Near word-for-word correspondence across the chapter's 34 verses, including idiosyncratic KJV phrasing ('that ye do not your alms before men, to be seen of them'), with 3 Nephi adding an address to the twelve Nephite disciples in verse 25 that has no Matthew counterpart.
+Third Nephi 13 follows Matthew 6 across 34 verses in the same order and with extensive clause-level King James wording, including “that ye do not your alms before men, to be seen of them.” Third Nephi 13:25 adds an address to the twelve Nephite disciples, showing contextual adaptation within the otherwise sustained parallel.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-A direct literary/textual relationship to the KJV Matthew 6 text of the same character and strength as the Book of Mormon's Isaiah-chapter dependence — sustained, ordered, clause-level correspondence, not a loose thematic echo.
+The strongest critical reading is direct adaptation of KJV Matthew 6, since that model predicts both the near-verbatim sequence and a localized audience adjustment. More generally, the evidence strongly supports Matthew/KJV textual mediation. Historical repetition of similar teachings may explain shared content, but it does not by itself explain the specific English wording.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-Consistent with (1) a real repeated discourse rendered into shared KJV idiom, (2) an ancient sermon translated using available Matthew language, or (3) direct 1829 composition from Matthew 6. Not consistent with the Nephite discourse being verbally unrelated to Matthew 6.
+The extant English discourse is closely related to the Matthew 6 textual tradition rather than representing an independently worded account. This can fit a historical sermon translated or revealed through familiar Matthew language, later harmonization, or direct nineteenth-century adaptation. The audience-specific insertion shows editorial contextualization but does not identify when it occurred.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-Strongly supports literary/textual dependence on the specific KJV Matthew 6 wording, for whichever mechanism produced it. It does not itself support or refute the historicity of a resurrected-Christ visit to the Americas — that question rests on a much larger evidentiary base than one textual comparison.
+The chapter strongly supports Matthew/KJV mediation but scarcely discriminates between an ancient discourse expressed through biblical English and modern adaptation from Matthew. It therefore bears principally on the English text's compositional or translation history, not directly on whether a resurrected-Christ visit occurred.
 
-**Inspiration:** Nothing directly — the wording's dependence on the KJV bears on compositional/translation history, not on whether the sermon's content is inspired.
+**Inspiration:** The dependence of the English wording on Matthew/KJV language implies nothing by itself about whether the sermon or its production was inspired.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-Does not establish that Jesus historically repeated the Sermon on the Mount nearly verbatim in the Americas, nor that the chapter is fabricated; it establishes only that the English wording is closely, directly related to the KJV Matthew 6 text.
+The parallel does not establish that Jesus historically delivered this discourse in the Americas, but neither does it establish fabrication. It does not decide whether the KJV language entered through revelation, translation, harmonization, memory, or direct copying.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Real repeated discourse rendered via shared KJV idiom** — predicts: thematic and structural similarity, but verbatim KJV-level wording only if the translator supplied it independently of the source language. Fit with this evidence: *not ruled out*.
-- **Ancient sermon translated using available Matthew language** — predicts: close correspondence for shared content, plus original material (the v.25 address) rendered independently. Fit with this evidence: *consistent*.
-- **Direct 1829 composition/adaptation from an open KJV Matthew** — predicts: exactly this degree of clause-level correspondence. Fit with this evidence: *supports*.
+- **Direct nineteenth-century adaptation of KJV Matthew** — predicts: Sustained clause-level KJV wording, preserved order, and localized alterations for the Book of Mormon setting.. Fit with this evidence: *supports*.
+- **Ancient discourse translated or harmonized through Matthew/KJV language** — predicts: Close English correspondence for shared teaching plus context-specific material such as the address to the twelve.. Fit with this evidence: *consistent*.
+- **Historical repetition without translation-level harmonization** — predicts: Substantial thematic and structural overlap but not normally near-verbatim KJV English across the chapter.. Fit with this evidence: *some difficulty*.
+- **Independent teachings with no literary or translation-level relationship** — predicts: Some common ethical sayings but not the same extended order, images, and wording.. Fit with this evidence: *strongly challenged*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- Jesus historically repeated substantially the same sermon in two settings. — *possible*: Teachers can repeat material and the narrative presents a second audience, but repetition alone does not explain the near-KJV English wording.
-- An ancient discourse was translated or revealed through Matthew's KJV language. — *plausible*: This explains the wording and permits contextual adaptation, although the historical discourse and translation mechanism are not independently attested.
-- Joseph Smith consciously or unconsciously adapted Matthew 6. — *plausible*: KJV availability and other corpus-wide biblical correspondences support this general mechanism, but direct use during this chapter's production is not independently documented.
-- Historical repetition followed by later English harmonization produced the correspondence. — *possible*: The combination fits the evidence but adds an unverified historical event beyond the evidenced English textual relationship.
-- The correspondence is accidental. — *ad hoc*: Accident does not adequately explain the chapter-length preservation of sequence, images, sayings, and wording.
+- Jesus historically repeated substantially the same teachings in two settings. — *possible*: Teachers repeat material and the narrative presents another audience, but repetition alone does not account for the specific KJV English.
+- An ancient Nephite discourse was translated or revealed through Matthew's KJV wording. — *plausible*: This accounts for the close language and permits contextual adaptation, although neither the historical discourse nor the mechanism is independently established by the parallel.
+- Joseph Smith consciously or unconsciously adapted KJV Matthew 6. — *plausible*: The KJV's availability and the broader pattern of biblical English mediation independently support this general mechanism.
+- Historical repetition was followed by later English harmonization. — *possible*: The combination explains the correspondence but adds a historical event that the textual parallel cannot independently verify.
+- The chapter-length agreement is accidental. — *ad hoc*: Accident does not plausibly explain the preserved sequence, images, sayings, and wording.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-This is evidentially the same category as the Bible's own duplicate passages (2 Kings 19/Isaiah 37, Jeremiah 52) and would be described the same way in an extrabiblical text quoting Matthew this closely — as a copy or translation from a known source, not independent testimony. The in-narrative 'same speaker repeating himself' explanation is one extra live alternative unique to this case, but it should not by itself push the score higher than the structurally identical Isaiah case.
+An extrabiblical text reproducing Matthew this closely would be described as textually dependent on, translated through, or harmonized to Matthew rather than treated as independent verbal testimony. Biblical duplicate passages receive the same conclusion, although the in-narrative possibility that the same teacher repeated his material remains a legitimate additional model here.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
-**Strong** (supports, evidence_strength 0.84) for the proposition: *The English wording and sequence of 3 Nephi 13 are literarily mediated by the Matthew 6 textual tradition, especially its King James English form.*
+**Strong** (supports, evidence_strength 0.84) for the proposition: *The English wording and sequence of the Sermon material in 3 Nephi are literarily mediated by the Matthew/KJV textual tradition.*
 
-The clause-level match to KJV Matthew 6 across an entire chapter is essentially certain evidence of direct literary/textual dependence on the King James wording, but this says nothing by itself about whether that dependence arose from an ancient repeated discourse rendered into familiar English, a translator's borrowed phrasing, or direct 19th-century composition from an open Bible.
+The sustained order and clause-level King James wording strongly support Matthew/KJV mediation of Third Nephi 13, but do not determine whether that mediation accompanied a historical repeated discourse, translation or revelatory harmonization, or direct nineteenth-century adaptation.
 
-Base rate / look-elsewhere: Exact multi-verse, clause-ordered correspondence is not achievable by chance; as with the Isaiah chapters, no control corpus is needed to exclude coincidence.
+Base rate / look-elsewhere: The correspondence covers an already aligned 34-verse discourse and preserves both sequence and clause-level wording, so coincidence is not a serious model. A matched control is unnecessary to recognize a literary relationship, though comparison with other sermon retellings and translations would be needed to quantify whether historical repetition alone commonly preserves this degree of wording.
 
-What would move this: Documented evidence Joseph Smith had an open Bible during the 3 Nephi dictation stretch would support direct incorporation; evidence of a non-KJV-shaped early textual-variant tradition for this material would count against it and toward independent transmission.
+What would move this: Contemporaneous evidence of direct Bible use during this dictation segment would move the mechanism toward modern adaptation, while an independently dated pre-1829 witness preserving Third Nephi's distinctive non-Matthean material within the same discourse would move it toward older transmission. The textual-dependence weight would fall if full collation failed to sustain the claimed ordered verbal agreement.
 
 Canonical assessment: [[Evidence Assessments#bom-3nephi-matthew-kjv-dependence|Matthew/KJV mediation of the Sermon material in 3 Nephi]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On a direct-modern-adaptation reconstruction, Matthew 6 supplied the ordered discourse and wording, while the address in verse 25 fitted it to the Nephite setting. On a historical-sermon reconstruction, Jesus delivered overlapping teaching and the English translation or revelatory process rendered shared material through the familiar KJV text, again permitting contextual adjustment. The textual relationship fits both; its historical placement distinguishes them.
+<!-- SG:END how-it-fits -->

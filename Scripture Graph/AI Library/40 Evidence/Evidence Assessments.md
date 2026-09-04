@@ -67,7 +67,7 @@ The paired dog-and-sow imagery, preserved order, and close wording strongly supp
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: Book of Mormon Isaiah-quotation chapters deliberately depend on the Isaiah textual tradition rather than independently reproducing the same wording, sequence, and imagery.
+**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The English Book of Mormon Isaiah chapters depend literarily on the Isaiah/KJV textual tradition.
 
 The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and related Isaiah quotations must not be counted as independent evidence.
 
@@ -312,7 +312,7 @@ The clustered disability vocabulary and shared mass-healing setting give moderat
 Notes: [[Intertextual Lexical And Narrative Parallel in 3 Nephi 17]]
 
 ### bom-3nephi-matthew-kjv-dependence
-**Matthew/KJV mediation of the Sermon material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The English wording and sequence of 3 Nephi 13 are literarily mediated by the Matthew 6 textual tradition, especially its King James English form.
+**Matthew/KJV mediation of the Sermon material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The English wording and sequence of the Sermon material in 3 Nephi are literarily mediated by the Matthew/KJV textual tradition.
 
 The sustained sequence and close English wording strongly support Matthew/KJV textual mediation. The evidence does not distinguish a historically repeated sermon rendered in biblical English, revelatory harmonization, or nineteenth-century adaptation, and the contextual change in verse 25 is compatible with each.
 
