@@ -171,6 +171,13 @@ The dense distribution of weeping among God, heaven, Enoch, and earth strongly s
 
 Notes: [[Internal Literary Pattern in Moses 7]]
 
+### bom-2nephi26-isaiah29-echo
+**Echo of Isaiah 29:4 wording in 2 Nephi 26:16** — *strong* (supports, evidence_strength 0.72) for: 2 Nephi 26:16 reflects a direct textual/translation-level relationship to the specific KJV wording of Isaiah 29:4, rather than independently and coincidentally similar phrasing.
+
+The near-verbatim, three-part overlap with Isaiah 29:4 (speaking out of the ground / speech low out of the dust / voice as one with a familiar spirit, in matching order) strongly supports some direct literary or textual relationship, occurring immediately before Nephi's explicit block quotation of Isaiah 29 in the following chapter. It does not indicate whether the relationship arose through ancient allusion, translation-level harmonization, or nineteenth-century composition, and it is a dependent instance of the broader Isaiah/KJV-dependence evidence, not additional independent support.
+
+Notes: [[Intertextual-Parallel in 2 Nephi 26]]
+
 ### bom-3nephi5-acts-english-dependence
 **English biblical mediation of 3 Nephi 5:5 and Acts 9:1** — *moderate* (supports, evidence_strength 0.55) for: The received English wording of 3 Nephi 5:5 depends on, or was deliberately mediated through, the English biblical tradition represented by Acts 9:1 rather than arising independently.
 
@@ -205,6 +212,20 @@ Notes: [[Internal Literary Structure in 2 Nephi 2]]
 The repeated destruction/survival details and the explicit fulfillment statement (15:33) strongly support deliberate final-form vindication of Ether's warning, matching the closely analogous bom-ether11-curse-fulfillment-correspondence. Because the warning and its fulfillment are transmitted through one continuous narrative source, the correspondence gives only none-band support for genuine pre-event prophecy, the war's historical scale, or inspiration.
 
 Notes: [[Internal Narrative Correspondence in Ether 15]]
+
+### bom-mosiah11-mosiah21-bondage-fulfillment
+**Fulfillment of Abinadi's bondage warning (Mosiah 11) in the Limhi-era captivity (Mosiah 21)** — *strong* (supports, evidence_strength 0.8) for: The correspondence between Abinadi's warning of bondage and delayed deliverance (Mosiah 11:21-24) and its narrated fulfillment, explicitly marked as fulfilling 'the word of the Lord' (Mosiah 21:3-15), reflects deliberate final-form prophecy-fulfillment design.
+
+The explicit fulfillment notice ('that the word of the Lord might be fulfilled,' 21:4) and the near-verbatim 'slow to hear' recurrence strongly support deliberate final-form design linking Abinadi's warning to the Limhite captivity. Because narrator and prophet share one continuous source, and the fulfillment notice is itself editorial commentary rather than external corroboration, this gives only none-band support for genuine pre-event foreknowledge or the captivity's historicity.
+
+Notes: [[Intratextual Narrative Fulfillment in Mosiah 11]]
+
+### bom-mosiah12-mosiah19-noah-death-fulfillment
+**Fulfillment of Abinadi's death-by-fire prophecy against his persecutors in Noah's death (Mosiah 19)** — *strong* (supports, evidence_strength 0.75) for: Noah's death by fire at the hands of his own men (Mosiah 19:20) reflects deliberate final-form fulfillment of Abinadi's dying prophecy that those who condemned him — including Noah, who delivered him up to be slain — would themselves suffer 'the pains of death by fire' (Mosiah 17), rather than merely a generic fire-as-judgment motif loosely tied to the earlier furnace metaphor of Mosiah 12:3.
+
+Abinadi's dying words include a specific prediction that his persecutors, including the king who delivered him up, would themselves suffer 'the pains of death by fire' (Mosiah 17) — a more targeted correspondence than the furnace metaphor of Mosiah 12:3 alone. Noah's actual death by fire at his own men's hands (Mosiah 19:20) closely matches it, strongly supporting deliberate final-form prophecy-fulfillment design. Because warning and fulfillment share one continuous narrative source, this gives only none-band support for genuine foreknowledge or the event's historicity. Exact verse-level wording and numbering within Mosiah 17 should be mechanically re-verified against the canonical text before this note is published.
+
+Notes: [[Intratextual Prophetic Correspondence in Mosiah 19]]
 
 ### bom-2nephi11-historical-editorial-selection
 **Historical force of the narratorial selection statement in 2 Nephi 11** — *none* (supports, evidence_strength 0.1) for: The statement supports the existence of an actual ancient narrator-editor named Nephi who selected and omitted Jacob's teachings while producing a historical record.
@@ -333,11 +354,11 @@ The right-period South Arabian NHM tribal attestation is a real and interesting 
 Notes: [[Nahom and the NHM altars]]
 
 ### bom-alma16-prophecy-fulfillment-correspondence
-**Narrative fulfillment of Alma's military prophecy in Alma 16** — *strong* (supports, evidence_strength 0.84) for: The final text deliberately presents the campaign in Alma 16:7–8 as the fulfillment and vindication of Alma's prediction in Alma 16:6.
+**Narrative fulfillment of Alma's military prophecy in Alma 16** — *strong* (supports, evidence_strength 0.84) for: The correspondence between Alma's warning (Alma 9:18) and the destruction of Ammonihah (Alma 16) reflects deliberate final-form prophecy-and-fulfillment design.
 
 The immediate repetition of route and encounter details strongly supports deliberate in-narrative vindication of Alma's prophetic authority. Because prediction and outcome come through one narrative witness, the correspondence supplies only none-band support for genuine pre-event revelation, historical occurrence, or inspiration.
 
-Notes: [[Internal Narrative Consistency in Alma 16]]
+Notes: [[Internal Narrative Consistency in Alma 16]] · [[Intra-Textual Prophecy-Fulfillment Pattern in Alma 16]]
 
 ### bom-alma55-restraint-ethical-framing
 **Narratorial ethical framing of Moroni's capture-over-killing choice (Alma 55)** — *strong* (supports, evidence_strength 0.78) for: The final text's explicit third-person narratorial commentary (55:19) deliberately frames Moroni's choice to capture rather than kill incapacitated enemies as an intentional ethical statement about restraint in war
