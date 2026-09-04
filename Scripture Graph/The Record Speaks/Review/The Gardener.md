@@ -36,12 +36,15 @@ status: awaiting-jace
 ## Show open
 
 > [!sg-host] 🎙 **Luke**  `so-01`
-> I am Luke, and I am out collecting the accounts of the Messiah. I So I go and find the people who were, and I sit down with them, and tonight that is Mary Magdalene — one of the women who got to the tomb before any of the men, and the first person sent from it. One thing before we start, because you should have it from me. The talking you are about to hear is imagined. It is not what the record has her say. The record itself we read whole and we do not touch a word of it — but the conversation around it I have made. What you feel while you listen I did not make, and neither did she. This is The Record Speaks. New Testament, chapter one.
+> This is Luke. I’m on a mission to gather the stories of the Messiah. I came to know these stories through the people who were there. So now, I sit down with the witnesses and hear their stories. The conversations are dramatized. The scripture is not. And my hope is that, through their witness, you come closer to Him. This is The Record Speaks. New Testament, chapter one.
+> %%Jace: these changes are final%%
 
 ## Introduction
 
 > [!sg-host] 🎙 **Luke**  `intro-01`
 > Mary. Thank you for coming up.
+> %%jace: fix this dialogue Luke. And to Mary not the other way around.%%
+>
 
 > [!sg-mary-magdalene] 🎙 **Mary Magdalene**  `intro-02`
 > It is not far.
@@ -51,6 +54,7 @@ status: awaiting-jace
 
 > [!sg-mary-magdalene] 🎙 **Mary Magdalene**  `intro-04`
 > Well — not from Magdala, no. I have not lived up there in years. But that is where I am from, yes. On the shore. My family had — we were not poor. That is the part people leave out, and I do not know why they leave it out.
+> %%Jace: good information but feels weird “I do not know why they leave it out.” Mary doesn’t know they left out” guest should not quote New Testament scripture as if they are quoting scripture cause they where there they should not say in john2:4 it says this they can just quote it as their own or say I heard the savor say this cause it happened to them they didn’t read about it.  We can put references in the podcast. They should quote the Old Testament like normal like this: Isaiah said… but never quote an actual verse cause that’s not how their scripture was%%
 
 > [!sg-host] 🎙 **Luke**  `intro-05`
 > You paid for a lot of it.
@@ -65,6 +69,7 @@ status: awaiting-jace
 
 > [!sg-record] 📖 John 20:1
 > The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.
+> %%scripture is good and it can be quoted like this but maybe before it is read instead you can say John wrote this please elaborate on what he means or something like that%%
 
 > [!sg-record] 📖 John 20:2
 > Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.
@@ -81,10 +86,10 @@ status: awaiting-jace
 > And I had spices with me. I got them the evening before, the good ones — you do that. It is the last thing there is left to do for somebody and you want to do it properly. None of us could have shifted that stone. I knew that before I set out. I went anyway.
 
 > [!sg-host] 🎙 **Luke**  `i1-04`
-> Why keep walking?
+> Why go when it was dark?
 
 > [!sg-mary-magdalene] 🎙 **Mary Magdalene**  `i1-05`
-> Because what else was I going to do, sit in the house?
+> three days before was the worst day of my life. Many of us got very little sleep we wanted to do something 
 
 > [!sg-mary-magdalene] 🎙 **Mary Magdalene**  `i1-06`
 > …Sorry. That came out sharp. I mean there was nothing else. There was nothing else left to do for him and I wanted to do it, and if the stone was a problem then it would be a problem when I got there.

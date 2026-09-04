@@ -142,7 +142,7 @@ The chapter pairs concrete Eden imagery with its abstract opposition doctrine: t
 
 > [!evidence] Explicit Source Attribution
 > Lehi explicitly introduces his account of the angel's fall as a supposition based on things he has read and on what is written. This is strong evidence for the discourse's presented posture as interpretation of prior writings, although it does not identify those writings.
-> — strength 0.1 · confidence 1.0 · well-hedged, textually explicit · [[Explicit Source Attribution in 2 Nephi 2|full dossier]]
+> — confidence 1.0 · well-hedged, textually explicit · [[Explicit Source Attribution in 2 Nephi 2|full dossier]]
 
 > [!evidence] Literary-Theological Parallel *(tentative)*
 > The opposition-based theodicy and felix culpa framing in this chapter resemble broader theodicy traditions (privative-evil theology, felix culpa) found in later Christian and philosophical thought; this resemblance is interesting but is weak, ambiguous evidence for dating or origin questions.
