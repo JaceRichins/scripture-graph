@@ -36,7 +36,7 @@ status: awaiting-jace
 ## Show open
 
 > [!sg-host] 🎙 **Luke**  `so-01`
-> I am Luke, and I am out collecting the accounts of the Messiah. I was not there for any of it. So I go and find the people who were, and I sit down with them, and tonight that is Mary Magdalene — one of the women who got to the tomb before any of the men, and the first person sent from it. One thing before we start, because you should have it from me. The talking you are about to hear is imagined. It is not what the record has her say. The record itself we read whole and we do not touch a word of it — but the conversation around it I have made. What you feel while you listen I did not make, and neither did she. This is The Record Speaks. New Testament, chapter one.
+> I am Luke, and I am out collecting the accounts of the Messiah. I So I go and find the people who were, and I sit down with them, and tonight that is Mary Magdalene — one of the women who got to the tomb before any of the men, and the first person sent from it. One thing before we start, because you should have it from me. The talking you are about to hear is imagined. It is not what the record has her say. The record itself we read whole and we do not touch a word of it — but the conversation around it I have made. What you feel while you listen I did not make, and neither did she. This is The Record Speaks. New Testament, chapter one.
 
 ## Introduction
 
