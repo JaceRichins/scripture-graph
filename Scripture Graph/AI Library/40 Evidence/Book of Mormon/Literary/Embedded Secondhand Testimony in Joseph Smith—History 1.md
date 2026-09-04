@@ -14,74 +14,82 @@ sg-id: evidence:embedded-secondhand-testimony-in-joseph-smith-history-1
 weight_label: moderate
 direction: challenges
 issue: jsh-anthon-episode-reliability
-proposition: Martin Harris's account, as embedded by Joseph Smith in JS-H 1:63-65, accurately represents what Professor Charles Anthon actually said and did regarding the characters and their translation.
-calibrated_at: '2026-09-03T15:48:36Z'
-calibration_version: 1
+proposition: Martin Harris's account, as embedded in Joseph Smith—History 1:63-65, accurately represents what Charles Anthon said and did concerning the copied characters and translation.
+calibrated_at: '2026-09-04T22:11:01Z'
+calibration_version: 2
+note_kind: contested
 ---
 
 # Embedded Secondhand Testimony in Joseph Smith—History 1
 
 ## Summary
 <!-- SG:BEGIN summary -->
-JS-H 1:63-65 explicitly presents the Anthon episode as Martin Harris's own secondhand account, not Joseph's firsthand knowledge. Because Anthon's own later letters (1834, 1841) independently describe the same meeting in materially different terms, denying he certified the characters as a genuine translatable ancient language, this is moderate evidence against taking Harris's most favorable claims at face value, though it does not establish which account is more accurate. The episode's evidentiary force is limited to testimonial reliability and says nothing directly about the Book of Mormon's spiritual truth-claims.
+Joseph Smith—History 1:63-65 explicitly presents the Anthon episode as Martin Harris's later report rather than Joseph's firsthand testimony. Anthon's 1834 and 1841 letters acknowledge an encounter but materially dispute the favorable certification and related details, moderately challenging Harris's account at those points. Because all surviving narratives are retrospective and potentially interested, the evidence does not establish which participant remembered or represented the meeting most accurately.
 <!-- SG:END summary -->
 
 ## Observation
 <!-- SG:BEGIN observation -->
-JS-H 1:63 explicitly frames the episode as Martin Harris's own account related afterward to Joseph ('I refer to his own account of the circumstances'), and vv.64-65 present Anthon's statements and the certificate-tearing incident in Harris's voice, quoted within Joseph's later history.
+Joseph Smith—History 1:63 introduces the episode by referring readers to Martin Harris's own account, and verses 64-65 place Anthon's alleged statements and the certificate incident within Harris's quoted report. Charles Anthon's later letters from 1834 and 1841 acknowledge a meeting but describe important features differently and deny the favorable certification attributed to him.
 <!-- SG:END observation -->
 
 ## Interpretation
 <!-- SG:BEGIN interpretation -->
-The text is transparent about its secondhand structure: Joseph does not claim personal knowledge of the New York meeting, only that Harris reported these events to him, which Joseph later set down in writing.
+The canonical account is explicitly secondhand with respect to the meeting: it directly establishes what Joseph's history says Harris reported, not what Joseph personally witnessed or what Anthon actually said. The divergent accounts preserve agreement about a meeting while disputing its evaluative and dramatic details.
 <!-- SG:END interpretation -->
 
 ## Historical Significance
 <!-- SG:BEGIN historical-significance -->
-As historical evidence, the passage directly establishes what Joseph Smith's history says Harris reported; it is one link in a chain (Anthon's actual words/actions to Harris's perception and memory to Harris's retelling to Joseph to Joseph's later written composition) with several points where distortion could enter even in good faith.
+The transmission chain runs from Anthon's conduct and words through Harris's perception, memory, and retelling to Joseph's later written history. Anthon's letters provide independent countertestimony but were also retrospective and written after the episode had become controversial, so neither account functions as a neutral contemporaneous transcript.
 <!-- SG:END historical-significance -->
 
 ## Apologetic Significance
 <!-- SG:BEGIN apologetic-significance -->
-Believers cite the episode as evidence of divine involvement in the translation process; the account's evidentiary weight depends entirely on Harris's accuracy, which is independently disputed by Anthon's own later letters (1834, to E. D. Howe; 1841, to T. W. Coit), in which Anthon denies certifying the characters as a genuine, correctly-translated ancient language and gives a different account of his own statements and motives.
+The strongest supportive reading notes that Anthon confirms the meeting and may have had professional or reputational reasons to minimize any favorable assessment after Mormonism became controversial. Even so, his two letters materially challenge the episode's most apologetically significant claims, especially that he certified the characters and translation as genuine. The surviving evidence therefore moderately challenges taking Harris's favorable particulars at face value without establishing deliberate deception by either participant.
 
-**Inspiration:** This is a question of testimonial reliability about a historical event, not a direct test of the Book of Mormon's spiritual truth-claims; even a fully accurate or fully mistaken Harris account would not itself establish or disprove the text's inspiration.
+**Inspiration:** The reliability of this historical anecdote does not by itself determine whether the Book of Mormon or Joseph Smith—History is inspired.
 <!-- SG:END apologetic-significance -->
 
 ## What It Does Not Establish
 <!-- SG:BEGIN does-not-establish -->
-Without independent corroboration, the passage does not establish Anthon's exact words, his actual evaluation of the characters, or the accuracy of Harris's interpretation; it establishes only that this is what Joseph's history says Harris reported.
+The disagreement does not establish Anthon's exact words, prove that Harris fabricated his account, or show that Anthon's later recollections were fully accurate. It also does not directly adjudicate the origin, translation, or inspiration of the Book of Mormon.
 <!-- SG:END does-not-establish -->
 
 ## Models On The Table
 <!-- SG:BEGIN models -->
-- **Accurate-reporting model** — predicts: Harris's account should closely match Anthon's own later description of the same meeting if both are candid.. Fit with this evidence: *some difficulty*.
-- **Memory-distortion / faithful-but-mistaken model** — predicts: Divergence on interpretive points while agreeing on basic facts (a meeting occurred, characters were shown).. Fit with this evidence: *consistent*.
-- **Independent countertestimony model** — predicts: Anthon's own letters should contradict Harris's most favorable claims, particularly certification of accuracy and the 'no ministering of angels' remark.. Fit with this evidence: *consistent*.
+- **Substantially accurate Harris report** — predicts: Anthon may later acknowledge the meeting while denying favorable statements because of controversy or reputational pressure.. Fit with this evidence: *some difficulty*.
+- **Sincere misunderstanding or memory distortion** — predicts: The accounts agree on the meeting but diverge over ambiguous evaluations, sequence, and motives without requiring deliberate fabrication.. Fit with this evidence: *supports*.
+- **Retrospective shaping in the Harris-Joseph transmission** — predicts: The later canonical account heightens the favorable certification and certificate-tearing episode as a faith-promoting narrative.. Fit with this evidence: *consistent*.
+- **Self-protective retrospective account by Anthon** — predicts: Anthon minimizes any earlier favorable reaction after the Book of Mormon becomes publicly controversial.. Fit with this evidence: *consistent*.
 <!-- SG:END models -->
 
 ## Alternative Explanations
 <!-- SG:BEGIN alternatives -->
-- Harris accurately remembered and reported the conversation, and Anthon's later letters (written years afterward, amid controversy over Mormonism, to hostile correspondents) are the less reliable, self-interested account. — *plausible*: Anthon wrote under social and professional pressure after the Book of Mormon became controversial, a documented motive for self-protective retelling, though this cuts both ways.
-- Harris misunderstood or reshaped an ambiguous remark by Anthon into a more favorable 'certification,' without deliberate fabrication. — *plausible*: Consistent with ordinary memory/perception biases and does not require bad faith from either party.
-- Anthon's own 1834 and 1841 letters give a materially different account, denying he validated the characters as a genuine translatable ancient language and disputing details of the certificate-tearing. — *independently supported*: These are Anthon's own primary-source letters, independent of the Harris/Joseph transmission chain, treated by historians across the spectrum as the most direct available check on the JS-H account.
-- Joseph's later written history subtly reshaped Harris's oral account when composing JS-H years afterward. — *plausible*: JS-H was compiled well after 1828; retrospective reconstruction/compression in religious histories is a well-documented genre phenomenon, not unique to this text.
+- Harris accurately reported the meeting, while Anthon later revised his account to protect his reputation. — *plausible*: Anthon wrote after the encounter had become religiously controversial, creating a possible motive for distancing, although motive alone does not establish revision.
+- Harris sincerely interpreted an ambiguous or limited scholarly reaction as stronger validation than Anthon intended. — *plausible*: Misunderstanding and memory reconstruction explain agreement on the meeting alongside disagreement over its significance without imputing bad faith.
+- Joseph's later history compressed or reshaped Harris's earlier oral report. — *plausible*: The canonical narrative was written retrospectively, and narrative compression is common in historical and religious recollection.
+- Anthon's 1834 and 1841 letters independently dispute the favorable certification described in JS-H. — *independently supported*: The surviving letters are primary testimony from the other named participant, although they are later recollections rather than contemporaneous notes.
+- The canonical account alone settles Anthon's exact statements because it is scripture. — *ad hoc*: That conclusion assumes the testimonial accuracy under dispute and does not address the independent countertestimony.
 <!-- SG:END alternatives -->
 
 ## Comparative Check
 <!-- SG:BEGIN symmetry -->
-A secondhand, faith-promoting anecdote in another religious history, contradicted by an independent letter from the named outside authority, would ordinarily be treated as seriously undermined on its disputed specifics while the bare fact of a meeting remained plausible; the same standard is applied here rather than giving JS-H a pass because it is faith-affirming.
+A secondhand, faith-promoting report in another religious history that was materially disputed by later letters from the named outsider would receive cautious rather than presumptive acceptance. The same standard also requires scrutiny of the outsider's retrospective motives and does not automatically privilege Anthon's account.
 <!-- SG:END symmetry -->
 
 ## Evidentiary Weight
 <!-- SG:BEGIN weight -->
-**Moderate** (challenges, evidence_strength 0.4) for the proposition: *Martin Harris's account, as embedded by Joseph Smith in JS-H 1:63-65, accurately represents what Professor Charles Anthon actually said and did regarding the characters and their translation.*
+**Moderate** (challenges, evidence_strength 0.4) for the proposition: *Martin Harris's account, as embedded in Joseph Smith—History 1:63-65, accurately represents what Charles Anthon said and did concerning the copied characters and translation.*
 
-That JS-H explicitly presents the Anthon episode as Harris's secondhand report is clear from the text itself; combined with the independently attested fact that Anthon's own later letters give a materially different account, this is moderate evidence against taking Harris's most favorable claims at face value, without settling which party's account is more reliable.
+Anthon's independent but retrospective counteraccounts moderately challenge Harris's most favorable particulars while leaving the occurrence of the meeting and the relative reliability of the participants unresolved.
 
-Base rate / look-elsewhere: A single, well-documented case rather than a pattern; the countertestimony (Anthon's two letters) is a small, extensively analyzed corpus, so the relevant denominator is the small set of directly relevant primary documents, not a broad search.
+Base rate / look-elsewhere: This is a small primary-source conflict rather than a mined literary pattern. Retrospective testimony commonly preserves agreement about a core encounter while diverging over wording, sequence, and interpretation; here the directly relevant corpus consists principally of the embedded Harris account and Anthon's two later letters.
 
-What would move this: Weight would move down (toward supporting Harris) if a contemporaneous 1828 letter or diary entry from Anthon corroborated Harris's favorable claims; it would move up (further challenging Harris) if a documented pattern of factual invention were found elsewhere in Harris's other independently checkable reports.
+What would move this: A contemporaneous 1828 document from Anthon corroborating the certificate or favorable assessment would substantially reduce the challenge; a contemporaneous account contradicting Harris, or a broader independently documented pattern of Harris inventing comparable details, would increase it.
 
-Canonical assessment: [[Evidence Assessments#jsh-anthon-episode-reliability|Reliability of the Martin Harris-Charles Anthon episode as reported in Joseph Smith-History]]
+Canonical assessment: [[Evidence Assessments#jsh-anthon-episode-reliability|Reliability of the Martin Harris–Charles Anthon episode as reported in Joseph Smith—History]]
 <!-- SG:END weight -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+The sources fit a reconstruction in which Harris visited Anthon with copied characters and both later accounts preserved that core encounter while interpreting or remembering its details differently. A supportive reconstruction gives Anthon a later motive to distance himself from a controversial movement; a skeptical reconstruction gives Harris or the later history a motive to shape an ambiguous scholarly response into prophetic validation. Ordinary memory, misunderstanding, narrative compression, and retrospective self-presentation can operate in either direction.
+<!-- SG:END how-it-fits -->
