@@ -102,7 +102,7 @@ The clustered source, selection, space, purpose, and succession statements stron
 Notes: [[Internal Literary Evidence in 1 Nephi 6]]
 
 ### isaiah7-immanuel-contemporary-context
-**Contemporary relevance of the Immanuel oracle to Ahaz's crisis** — *strong* (supports, evidence_strength 0.84) for: Isaiah 7:14–16 presents the Immanuel sign as having meaningful chronological relevance to Ahaz's contemporary political crisis.
+**Contemporary relevance of the Immanuel oracle to Ahaz's crisis** — *strong* (supports, evidence_strength 0.84) for: Isaiah 7:14-16 (2 Nephi 17:14-16) presents the Immanuel sign as having meaningful chronological relevance to Ahaz's contemporary political crisis.
 
 The explicit deadline tied to the child's development strongly supports meaningful relevance to Ahaz's contemporary crisis and creates substantial tension for an exclusively distant interpretation. It does not identify the child, establish intentional dual fulfillment, or provide independent evidence concerning Book of Mormon antiquity.
 
