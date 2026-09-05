@@ -10311,6 +10311,26 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ezek-34-f60a265d",
+   "t": "Ezekiel's shepherd oracle after Jerusalem's fall",
+   "y0": -586,
+   "y1": -570,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Ezekiel 34 belongs to the block of restoration oracles (chs. 33-48) that follow the report of Jerusalem's fall reaching the exiles (Ezekiel 33:21); this chapter itself carries no internal date formula.",
+   "chapters": [
+    "Ezekiel 34"
+   ],
+   "people": [
+    "David (king)"
+   ]
+  },
+  {
    "id": "r-ezek-37-f8fdddf1",
    "t": "Ezekiel's exilic ministry and vision of the dry bones",
    "y0": -593,
