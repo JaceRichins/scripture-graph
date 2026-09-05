@@ -23,7 +23,11 @@ Scripture: [[Exodus 31]] · My notes: [[Exodus 31 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Commissioned craftsmanship (vv. 1-11):** Bezaleel is called and filled with the spirit of God; Aholiab and other wise-hearted workers are also equipped. A detailed inventory defines the scope of their assignment.
+
+2. **Covenantal rest (vv. 12-17):** A new divine-speech introduction turns from sanctuary labor to the [[Sabbath Day]]. The passage describes the Sabbath as holy, a sign, and a perpetual covenant, with severe sanctions for violation.
+
+3. **Tablets of testimony (v. 18):** The Sinai communication concludes with a tangible covenant record. This closing verse leads directly into [[Exodus 32]].
 <!-- SG:END structure -->
 
 ## People
@@ -45,7 +49,6 @@ _Not yet developed._
 - [[Exodus 36]] — 1 footnote cross-reference (from [[Exodus 31#^ex-31-2|Exodus 31:2]])
 - [[2 Nephi 5]] — 1 footnote cross-reference (from [[Exodus 31#^ex-31-4|Exodus 31:4]])
 - [[Mark 6]] — 1 footnote cross-reference (from [[Exodus 31#^ex-31-11|Exodus 31:11]])
-- [[Exodus 35]] — 7 parallel verses, e.g. [[Exodus 31#^ex-31-10|Exodus 31:10]] ↔ [[Exodus 35#^ex-35-19|Exodus 35:19]]
 - [[Exodus 38]] — 2 parallel verses, e.g. [[Exodus 31#^ex-31-2|Exodus 31:2]] ↔ [[Exodus 38#^ex-38-22|Exodus 38:22]]
 - [[Exodus 39]] — 2 parallel verses, e.g. [[Exodus 31#^ex-31-10|Exodus 31:10]] ↔ [[Exodus 39#^ex-39-41|Exodus 39:41]]
 - [[Leviticus 7]] — 3 parallel verses, e.g. [[Exodus 31#^ex-31-14|Exodus 31:14]] ↔ [[Leviticus 7#^lev-7-20|Leviticus 7:20]]
@@ -57,10 +60,12 @@ _Not yet developed._
 - [[Leviticus 19]] — 1 parallel verse, e.g. [[Exodus 31#^ex-31-14|Exodus 31:14]] ↔ [[Leviticus 19#^lev-19-8|Leviticus 19:8]]
 - [[Numbers 15]] — 1 parallel verse, e.g. [[Exodus 31#^ex-31-14|Exodus 31:14]] ↔ [[Numbers 15#^num-15-30|Numbers 15:30]]
 - [[Leviticus 20]] — 2 parallel verses, e.g. [[Exodus 31#^ex-31-15|Exodus 31:15]] ↔ [[Leviticus 20#^lev-20-2|Leviticus 20:2]]
+- [[Exodus 12]] — 2 parallel verses, e.g. [[Exodus 31#^ex-31-14|Exodus 31:14]] ↔ [[Exodus 12#^ex-12-15|Exodus 12:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Work and Self-Reliance]]
 - [[Sabbath Day]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
@@ -68,7 +73,11 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+**Divinely enabled craftsmanship.** Bezaleel is filled with the spirit of God in wisdom, understanding, knowledge, design, and practical workmanship (31:3-5). Aholiab is appointed alongside him, and God places wisdom in the hearts of the other wise-hearted workers (31:6). This supports a theological connection with [[Spiritual Gifts]], while the passage itself speaks specifically of divine enablement for sacred craftsmanship rather than defining a later systematic category.
+
+**Skill under command.** The artisans exercise genuine technical and artistic ability, yet their assignment remains governed by what God commanded Moses (31:4, 6, 11). The chapter therefore joins gifted work with [[Obedience]] and collaborative [[Service]].
+
+**Sabbath as covenant sign.** Israel must keep the Sabbath, while the LORD identifies himself as the one who sanctifies Israel (31:13). The day is called holy, a sign, and a perpetual covenant (31:13-17), connecting [[Sabbath Day]], [[Covenants]], and [[Creation]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -88,25 +97,43 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several first-person divine verbs organize the artisan commission: “I have called,” “I have filled,” “I have given,” “I have put,” and “I have commanded” (vv. 2-6). The accumulation places God behind the workers' identity, capacity, collaboration, and assignment while leaving the actual making to human hands.
+
+The Sabbath unit repeats relational and temporal expressions: “between me and you,” “throughout your generations,” “perpetual covenant,” and “for ever” (vv. 13, 16-17). Together these expressions emphasize continuity and the Sabbath's function as a public marker of Israel's relationship with the LORD.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The transition from intensive sanctuary work to mandatory rest creates a meaningful tension. Even work explicitly commanded by God is placed beside a command to cease working on the seventh day. This supports—but does not compel—the reading that holy ends do not erase holy limits.
+
+The chapter also participates in an instruction-and-fulfillment pattern. [[Exodus 35]] repeats the calling and abilities of Bezaleel and Aholiab when construction begins. The recurrence lets readers compare command with performance and presents later craftsmanship as the execution of the earlier revelation.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Verbal And Narrative Correspondence
+> Exodus 35:30-35 later repeats the names, tribal identities, divine wisdom, and craft abilities introduced in Exodus 31. This correspondence supplies strong internal literary evidence that the later construction narrative is presented as fulfillment of the earlier commission.
+> — strength 0.9 · confidence 1.0 · strong internal literary correspondence · [[Verbal And Narrative Correspondence in Exodus 31|full dossier]]
+
+> [!evidence] Textual/Source-Critical Observation *(tentative)*
+> The juxtaposition of two separate legal penalty idioms ('put to death' and 'cut off from among his people') within a single verse addressing the same offense may reflect the combination of more than one legal tradition or formula in the text's transmission, though this is not certain from the wording alone.
+> — strength 0.2 · confidence 0.3 · disputed and weakly supported
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the narrative place the Sabbath command immediately after commissioning the tabernacle artisans?
+
+- What does it add to the theology of work that wisdom, knowledge, design, and manual skill are attributed to the spirit of God?
+
+- How do Israel's obligation to keep the Sabbath and the LORD's declaration that he sanctifies Israel function together?
+
+- How should readers understand the relationship between “put to death” and “cut off” in verse 14 without prematurely assuming that the expressions are either identical or entirely distinct?
+
+- What is gained narratively by ending the chapter with the tablets just before the golden-calf episode in [[Exodus 32]]?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the artisan commission with its implementation in [[Exodus 35]] and the completion reports in [[Exodus 39]]. Compare the Sabbath rationale with [[Genesis 2]] and [[Exodus 20]], then examine the Sabbath-as-sign language in [[Ezekiel 20]]. Finally, read Exodus 31:18 with [[Exodus 32]] and [[Exodus 34]] to trace the giving, breaking, and renewal of the stone tablets.
 <!-- SG:END further-study -->
