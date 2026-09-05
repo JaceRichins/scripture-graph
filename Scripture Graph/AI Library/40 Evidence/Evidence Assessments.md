@@ -549,6 +549,13 @@ The clustered disability vocabulary and shared mass-healing setting give moderat
 
 Notes: [[Intertextual Lexical And Narrative Parallel in 3 Nephi 17]]
 
+### bom-helaman10-matthew18-intertext
+**Matthew 18:18 mediation of the authority formula in Helaman 10:7** — *strong* (supports, evidence_strength 0.8) for: The final English wording of Helaman 10:7 deliberately echoes or is textually mediated by the Matthew 18:18 tradition, rather than the two passages coinciding by chance.
+
+The near-verbatim 'loose on earth shall be loosed in heaven' clause and the matched earth-heaven correlative structure strongly support deliberate Matthew 18:18/KJV-shaped mediation in Helaman 10:7's final English text, without indicating whether that mediation arose through loose translation of an authentic ancient formula, revelatory restatement, or direct nineteenth-century composition.
+
+Notes: [[Textual Parallel in Helaman 10]]
+
 ### bom-1nephi12-christian-intertext
 **Matthew 19 and Revelation 7 intertextuality in 1 Nephi 12** — *strong* (supports, evidence_strength 0.78) for: The final text of 1 Nephi 12:9–10 deliberately engages the Christian scriptural traditions represented by Matthew 19:28 and Revelation 7:14.
 
