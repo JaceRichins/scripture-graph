@@ -31,6 +31,13 @@ The verse clearly depicts organization from available materials at this narrativ
 
 Notes: [[Doctrinal Wording in Abraham 3]]
 
+### pgp-abraham5-genesis2-literary-dependence
+**Abraham 5 dependence on the Genesis 2 textual and narrative tradition** — *strong* (supports, evidence_strength 0.84) for: Abraham 5 is literarily dependent on, descended from, or deliberately mediated through the Genesis 2 textual and narrative tradition.
+
+The sustained narrative sequence and close English wording strongly support Abraham 5's dependence on or mediation through the Genesis 2 textual tradition. The relationship does not distinguish ancient shared tradition, KJV-mediated revelation, editorial harmonization, or nineteenth-century adaptation and supplies no independent conclusion about inspiration.
+
+Notes: [[Textual And Intertextual Comparison in Abraham 5]]
+
 ### pgp-abraham-genesis-chronology
 **Age-at-Haran discrepancy between Abraham 2 and Genesis 12** — *moderate* (challenges, evidence_strength 0.55) for: The age difference between Abraham 2:14 and Genesis 12:4 creates a substantial difficulty for reading both passages as numerically consistent accounts of the same departure from Haran.
 
@@ -417,11 +424,11 @@ The adjacent judgment-of-Israel and blood-whitened-garments correspondences stro
 Notes: [[Scriptural Intertextuality in 1 Nephi 12]]
 
 ### bom-3nephi-matthew-kjv-dependence
-**Matthew/KJV mediation of the Sermon material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The English wording and sequence of the Sermon material in 3 Nephi are literarily mediated by the Matthew/KJV textual tradition.
+**Matthew/KJV mediation of the Sermon material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The final English text of the Sermon material in 3 Nephi is textually mediated through or deliberately dependent on the Matthew/KJV tradition.
 
-The sustained sequence and close English wording strongly support Matthew/KJV textual mediation. The evidence does not distinguish a historically repeated sermon rendered in biblical English, revelatory harmonization, or nineteenth-century adaptation, and the contextual change in verse 25 is compatible with each.
+The sustained sequence and close English wording strongly support Matthew/KJV textual mediation of the Sermon material in 3 Nephi. The evidence does not distinguish a historically repeated sermon rendered in biblical English, revelatory harmonization, or nineteenth-century adaptation, and the contextual changes are compatible with each.
 
-Notes: [[Extended Textual Parallel in 3 Nephi 13]]
+Notes: [[Extended Textual Parallel in 3 Nephi 13]] · [[Textual And Literary Dependence in 3 Nephi 14]]
 
 ### bom-2nephi29-multiple-records-theme
 **Multiple sacred records as the organizing theme of 2 Nephi 29** — *strong* (supports, evidence_strength 0.75) for: The final-form discourse in 2 Nephi 29:3-14 deliberately organizes its objection, theological rationale, catalogue of writing peoples, and promised exchange and gathering around the theme of multiple sacred records.
