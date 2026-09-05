@@ -74,11 +74,11 @@ The paired dog-and-sow imagery, preserved order, and close wording strongly supp
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The English Book of Mormon Isaiah chapters depend literarily on the Isaiah/KJV textual tradition.
+**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The final Book of Mormon text has a deliberate textual relationship with the Isaiah/KJV textual tradition.
 
 The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and related Isaiah quotations must not be counted as independent evidence.
 
-Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]]
+Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]]
 
 ### bom-chiasmus-antiquity
 **Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: Alma 36's inverted organization is materially more expected under ancient Hebrew-influenced composition than under natural narrative symmetry or nineteenth-century biblical-style composition.
@@ -275,6 +275,13 @@ Notes: [[Internal Narrative Testimony in 3 Nephi 7]]
 1 Nephi 13 plainly asserts a history of lost teachings and covenants removed by "that great and abominable church," but an internal assertion cannot independently establish the external history it narrates. Without identifiable passages, manuscripts, dates, or a traceable institutional agent, it gives only none-band support for a specific institutional-excision scenario, distinct from the well-attested but diffuse fact of ancient textual variation.
 
 Notes: [[Internal Textual Assertion in 1 Nephi 13]]
+
+### bom-2nephi11-witness-corroboration
+**Historical weight of the three-witness testimony formula in 2 Nephi 11** — *none* (supports, evidence_strength 0.12) for: The three-witness formula in 2 Nephi 11:2-3 (Nephi, Jacob, and Isaiah as witnesses who have seen the Redeemer) provides independent historical corroboration that each reported vision actually occurred, beyond Nephi's own narration.
+
+The passage is strong, clear evidence of a deliberately constructed three-witness literary and theological pattern invoking a recognized scriptural formula (cf. Deuteronomy 19:15, echoed later in 2 Corinthians 13:1), but because every testimony reaches the reader through Nephi's own record, it gives only none-band support for genuine independent historical corroboration of the underlying visions.
+
+Notes: [[Literary Corroboration in 2 Nephi 11]]
 
 ### bom-lehi-red-sea-campsite-identification
 **Identification of Lehi's first Red Sea campsite** — *none* (supports, evidence_strength 0.12) for: The geographic description in 1 Nephi 2 materially supports identifying a particular real-world campsite and an ancient Red Sea journey.
