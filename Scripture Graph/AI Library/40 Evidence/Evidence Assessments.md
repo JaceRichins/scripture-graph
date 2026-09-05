@@ -633,6 +633,13 @@ The recurring Gospel formula in Enos 1:8 and the clustered Matthew 25–John 14 
 
 Notes: [[English Scriptural Intertextuality in Enos 1]]
 
+### bom-ether12-new-testament-intertext
+**New Testament and KJV-shaped intertextuality in Ether 12** — *strong* (supports, evidence_strength 0.72) for: Ether 12's final English wording deliberately participates in or is mediated through the New Testament textual tradition represented by Hebrews 6:19, Hebrews 11:1, John 10:17-18, and John 14:2-3.
+
+Ether 12 clusters distinctive verbal correspondences to Hebrews 6:19, Hebrews 11:1, John 10:17-18, and John 14:2-3 across roughly thirty verses of Moroni's discourse on faith and hope, not a single prayer (vv.4 and 6 are general exposition; only later verses address the Lord directly). The hope-anchor/sure-and-steadfast pairing and the hoped-for/not-seen faith definition are distinctive enough to strongly support deliberate New Testament or KJV-shaped mediation in the final text. No matched-corpus denominator is available, and the correspondences are dispersed rather than tightly clustered, keeping this at the lower end of the strong band. It does not distinguish ancient translation, revelatory harmonization, or nineteenth-century composition, and is not independent of the corpus's broader KJV-mediation pattern.
+
+Notes: [[Textual Interrelationship in Ether 12]]
+
 ### bom-2nephi32-new-testament-intertext
 **New Testament prayer-language intertextuality in 2 Nephi 32** — *moderate* (supports, evidence_strength 0.48) for: The final English text of 2 Nephi 32 deliberately engages New Testament wording represented by Matthew 7:7 and Luke 18:1.
 
