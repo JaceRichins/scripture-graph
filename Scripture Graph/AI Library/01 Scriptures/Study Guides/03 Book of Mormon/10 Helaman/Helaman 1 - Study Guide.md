@@ -114,7 +114,7 @@ The two halves are also joined by the violent deaths of successive chief judges 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative And Military Coherence
 > The sequence of surprise penetration, overextension, interception, rear attack, encirclement, and surrender provides strong evidence of deliberate strategic cause-and-effect within the narrative.
-> — strength 0.4 · confidence 1.0 · internal coherence accepted; historicity significance weak · [[Narrative And Military Coherence in Helaman 1|full dossier]]
+> — confidence 1.0 · internal coherence accepted; historicity significance weak · [[Narrative And Military Coherence in Helaman 1|full dossier]]
 
 > [!evidence] Translation/Linguistics *(tentative)*
 > The secondary-source claim (John White, followHIM) that dense 'and it came to pass'/'and' constructions in Helaman resemble Hebrew narrative progression is partially corroborated at the observational level: this chapter uses 'it came to pass' roughly ten times across 34 verses, a genuine and countable feature of the prose. However, the stronger claim that this is particularly characteristic of Helaman specifically is not established by this chapter alone — the construction is pervasive throughout nearly all Book of Mormon narrative books, not concentrated here.

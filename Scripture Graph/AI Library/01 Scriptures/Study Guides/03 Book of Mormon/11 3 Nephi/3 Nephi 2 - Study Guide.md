@@ -116,7 +116,7 @@ Repeated year notices compress the narrative and mark its movement across the ni
 
 > [!evidence] Narratorial Causal Interpretation
 > The explicit connection between communal iniquity, internal dissension, and military decline is strong evidence for the narrator's theological interpretation of history. It does not demonstrate that every military defeat is divine punishment; internal factionalism also has an ordinary strategic capacity to weaken a society.
-> — strength 0.9 · confidence 1.0 · Strong evidence for narratorial theology only · [[Narratorial Causal Interpretation in 3 Nephi 2|full dossier]]
+> — confidence 1.0 · Strong evidence for narratorial theology only · [[Narratorial Causal Interpretation in 3 Nephi 2|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

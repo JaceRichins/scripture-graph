@@ -133,7 +133,7 @@ Verses 25-28 build a repeated question-and-answer pattern — 'Behold, doth/hath
 
 > [!evidence] Scriptural Intertextuality
 > The sequence of siege, being brought low, speech from the ground, whispering from the dust, chaff, and sudden destruction closely follows Isaiah 29:3-5. This is strong evidence of a literary relationship between the passages.
-> — strength 0.9 · confidence 0.9 · accepted observation / disputed interpretation · [[Scriptural Intertextuality in 2 Nephi 26|full dossier]]
+> — strength 0.7 · confidence 0.9 · accepted observation / disputed interpretation · [[Scriptural Intertextuality in 2 Nephi 26|full dossier]]
 
 > [!evidence] Intertextual-Parallel
 > 2 Nephi 26:16's imagery of a destroyed people whose speech is 'low out of the dust' and whose voice is 'as one that hath a familiar spirit' closely parallels the well-known KJV language of Isaiah 29:4, which describes a humbled Jerusalem/Ariel speaking 'low out of the dust' with a voice 'as of one that hath a familiar spirit, out of the ground.' Nephi elsewhere quotes Isaiah 29 at length (2 Nephi 27), making direct literary dependence between these passages highly plausible.

@@ -134,7 +134,7 @@ Two smaller structural features are also present: the baptismal instructions are
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative And Sensory Pattern
 > The coordinated references to hearing, seeing, touching, knowing, and bearing record provide strong internal literary evidence that personal witness is a deliberate narrative emphasis in this chapter.
-> — strength 0.8 · confidence 0.9 · confirmed narrative pattern · [[Narrative And Sensory Pattern in 3 Nephi 11|full dossier]]
+> — confidence 0.9 · confirmed narrative pattern · [[Narrative And Sensory Pattern in 3 Nephi 11|full dossier]]
 
 > [!evidence] Literary Intertextuality
 > Close verbal and thematic correspondences with biblical scenes—the Father's declaration about the Beloved Son, inspection of Jesus's wounds, the triadic baptismal formula, and the rock-versus-sand conclusion—are strong evidence of a textual relationship with biblical language. They do not by themselves determine whether the relationship arose through shared revelation, deliberate composition, translation vocabulary, editorial shaping, or direct literary dependence.

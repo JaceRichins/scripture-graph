@@ -121,7 +121,7 @@ Lehi's impending death gives the address the form of a farewell discourse. The e
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Characterization
 > Lehi's defense supplies direct narrative evidence that authority, motive, and manner of speech were contested within the family. It supports the interpretation that the later division was preceded by a genuine conflict over leadership, but Lehi's testimony is partisan evidence within the narrative and cannot independently settle every accusation.
-> — strength 0.7 · confidence 0.9 · Balanced narrative interpretation · [[Narrative Characterization in 2 Nephi 1|full dossier]]
+> — confidence 0.9 · Balanced narrative interpretation · [[Narrative Characterization in 2 Nephi 1|full dossier]]
 
 > [!evidence] Literary Intertextuality
 > The concentration of dust, rising, bonds, and captivity language is good evidence of a literary relationship between Lehi's exhortation and Isaiah 52:2. It is less certain whether the passage presents a conscious quotation, an allusive reuse by the narrator, or biblical language supplied through translation.

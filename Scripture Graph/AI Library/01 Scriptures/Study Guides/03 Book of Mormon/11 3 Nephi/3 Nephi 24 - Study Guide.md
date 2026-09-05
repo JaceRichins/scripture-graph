@@ -99,7 +99,7 @@ The chapter's strongest secure intertext is [[Malachi 3]]; that relationship is 
 
 > [!evidence] Narrative Framing
 > The command to write the passage and the statement that Jesus expounded it provide strong evidence that the narrative deliberately presents Malachi's words as authoritative and relevant to the assembled people. This literary function can be identified without deciding whether the narrated event is historical.
-> — strength 0.6 · confidence 0.8 · appropriately scoped to literary function · [[Narrative Framing in 3 Nephi 24|full dossier]]
+> — confidence 0.8 · appropriately scoped to literary function · [[Narrative Framing in 3 Nephi 24|full dossier]]
 
 > [!evidence] Internal-Consistency / Textual-Critical *(tentative)*
 > 3 Nephi 24:1's framing addresses a chronological problem: Malachi is conventionally dated to the Persian/post-exilic period (after Jerusalem's temple was rebuilt, c. 516 BC), which is after Lehi's family left Jerusalem c. 600 BC and took the brass plates (whose prophetic contents are described in 1 Nephi 5 as running only 'down to the commencement of the reign of Zedekiah'). Since Malachi could not have been on the brass plates, having the resurrected Christ dictate Malachi's words directly to the Nephites in A.D. 34 is internally consistent with the record's own claims about the brass plates' limits, rather than requiring the Nephites to have anachronistically possessed a later prophet's text.

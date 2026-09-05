@@ -137,7 +137,7 @@ The unwritable prayer recurs as a motif in [[3 Nephi 19]], and the children's ma
 
 > [!evidence] Narrative Structure
 > The progression from limited understanding, to compassionate healing, to ineffable prayer, to individualized blessing, and finally to an angelic manifestation supports reading the chapter as a deliberately shaped ascent in intimacy and wonder.
-> — strength 0.6 · confidence 0.9 · Defensible literary interpretation · [[Narrative Structure in 3 Nephi 17|full dossier]]
+> — confidence 0.9 · Defensible literary interpretation · [[Narrative Structure in 3 Nephi 17|full dossier]]
 
 > [!evidence] Literary Parallel / Kjv Echo *(tentative)*
 > The formula in 3 Nephi 17:16, "The eye hath never seen, neither hath the ear heard, before, so great and marvelous things," closely echoes the KJV wording of 1 Corinthians 2:9 ("Eye hath not seen, nor ear heard...the things which God hath prepared for them that love him"), which Paul in turn draws from Isaiah 64:4.

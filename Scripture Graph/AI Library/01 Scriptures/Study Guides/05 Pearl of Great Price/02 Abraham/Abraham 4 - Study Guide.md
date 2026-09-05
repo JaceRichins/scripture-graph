@@ -66,6 +66,7 @@ _Not yet developed._
 - [[Moses 2]] — 0 parallel verses
 - [[Psalm 8]] — 0 parallel verses
 - [[Moses 2]] — 0 parallel verses
+- [[Abraham 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -115,7 +116,7 @@ The chapter is organized into six numbered periods, each closed by a night-and-d
 <!-- SG:BEGIN evidence -->
 > [!evidence] Repeated Textual Motif
 > The recurring statements that created domains “were obeyed,” creatures “would be obeyed,” and the completed plan would be “very obedient” provide strong textual evidence that responsiveness to divine ordering is a deliberate motif in Abraham 4.
-> — strength 0.9 · confidence 1.0 · Strong repeated textual motif · [[Repeated Textual Motif in Abraham 4|full dossier]]
+> — confidence 1.0 · Strong repeated textual motif · [[Repeated Textual Motif in Abraham 4|full dossier]]
 
 > [!evidence] Philological/Vocabulary Argument *(tentative)*
 > The chapter's consistent use of 'organize/form/prepare/order' rather than 'create' is often cited in LDS teaching as textual support for the doctrine that the Gods organized pre-existing elements rather than creating the earth from nothing (creatio ex nihilo).

@@ -107,7 +107,7 @@ One especially important difference from [[Genesis 6]] concerns grief. Genesis 6
 <!-- SG:BEGIN evidence -->
 > [!evidence] Repeated Textual Attribution
 > Because Moses 8 attributes Noah's grief both in narration and again within the Lord's speech, the chapter provides strong internal evidence that the Noah attribution is an integrated feature of its present form, not an isolated ambiguous pronoun.
-> — strength 0.9 · confidence 1.0 · Strong conclusion about present form only · [[Repeated Textual Attribution in Moses 8|full dossier]]
+> — confidence 1.0 · Strong conclusion about present form only · [[Repeated Textual Attribution in Moses 8|full dossier]]
 
 > [!evidence] Internal Textual Convergence
 > The coordinated references to teaching as "in the beginning," continuity with Enoch's Gospel, and named Christian ordinances strongly support the literary conclusion that Moses 8 deliberately frames Noah's ministry as a continuation of the Gospel of Jesus Christ rather than only as a generic warning of disaster.

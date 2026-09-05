@@ -100,7 +100,7 @@ The chapter interweaves compressed genealogy with prophetic episodes. Brief noti
 <!-- SG:BEGIN evidence -->
 > [!evidence] Recurrent Literary Structure
 > Three prophetic-warning episodes structure the chapter: the Com/Shiblom sequence, the Ethem sequence, and the Coriantor sequence. Each includes a conditional destruction warning and resistance by the population, but only the first episode proceeds within this chapter to reported calamity followed by repentance and mercy.
-> — strength 0.9 · confidence 1.0 · Strong descriptive structure; compositional intent unresolved · [[Recurrent Literary Structure in Ether 11|full dossier]]
+> — confidence 1.0 · Strong descriptive structure; compositional intent unresolved · [[Recurrent Literary Structure in Ether 11|full dossier]]
 
 > [!evidence] Literary Organization
 > The alternating summaries of rulers, prophetic warnings, responses, and consequences provide strong textual evidence that this chapter is organized as moral historiography rather than as a comprehensive political chronicle.

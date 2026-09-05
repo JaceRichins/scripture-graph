@@ -130,7 +130,7 @@ The chapter also adapts the Matthew-like material through references to coming t
 
 > [!evidence] Narrative And Audience Adaptation
 > The coordinated additions and substitutions—coming to Christ, filling with the Holy Ghost, persecution for Christ's name, light of this people, senine, and Jesus alongside the Father as perfect—support the claim that the Matthew-like material has been deliberately adapted to this narrative audience and setting.
-> — strength 0.8 · confidence 0.9 · Coordinated adaptation strongly supported; adapter and stage disputed · [[Narrative And Audience Adaptation in 3 Nephi 12|full dossier]]
+> — confidence 0.9 · Coordinated adaptation strongly supported; adapter and stage disputed · [[Narrative And Audience Adaptation in 3 Nephi 12|full dossier]]
 
 > [!evidence] Textual Parallel
 > The extensive sequence and wording shared by 3 Nephi 12 and Matthew 5 provide strong evidence of a literary or traditional relationship between the two chapters. That observation is much stronger than any conclusion about the direction or mechanism of dependence.

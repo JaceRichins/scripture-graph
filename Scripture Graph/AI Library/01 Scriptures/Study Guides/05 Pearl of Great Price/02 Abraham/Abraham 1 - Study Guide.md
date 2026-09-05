@@ -131,7 +131,7 @@ Abraham 1:16 has a close literary relationship with [[Genesis 12]] through its l
 
 > [!evidence] Official Doctrinal Reception
 > Current official Church teaching disavows past theories that black skin is a sign of divine disfavor or curse, that it reflects premortal unrighteousness, or that any race is inferior. This reception history materially constrains responsible modern use of Abraham 1:21–27: the passage should not be extended into claims of skin-color-based divine disfavor or racial inferiority.
-> — strength 1.0 · confidence 1.0 · Current official teaching; historical exegesis unresolved · [[Official Doctrinal Reception in Abraham 1|full dossier]]
+> — confidence 1.0 · Current official teaching; historical exegesis unresolved · [[Official Doctrinal Reception in Abraham 1|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

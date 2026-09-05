@@ -108,7 +108,7 @@ The emotional center is Zion's direct objection: she believes she has been forsa
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative And Thematic Context
 > The chapter's opening address to scattered Israel, its return imagery, and Nephi's immediate exposition provide strong evidence that the quotation functions in 1 Nephi as a prophecy of covenant scattering and gathering.
-> — strength 1.0 · confidence 1.0 · strongly established narrative function · [[Narrative And Thematic Context in 1 Nephi 21|full dossier]]
+> — confidence 1.0 · strongly established narrative function · [[Narrative And Thematic Context in 1 Nephi 21|full dossier]]
 
 > [!evidence] Intertextual Dependence
 > The sustained sequence and close wording across all twenty-six verses constitute very strong evidence that 1 Nephi 21 is a conscious quotation or adaptation of Isaiah 49.

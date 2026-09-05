@@ -124,7 +124,7 @@ The chapter also moves from military success to the closing description of “vi
 
 > [!evidence] Prediction-Outcome Narrative Correspondence
 > Alma's specified interception route in verse 6 is followed closely by the army's route and encounter in verses 7–8. This is strong evidence of deliberate internal narrative correspondence between revelation and outcome.
-> — strength 0.9 · confidence 1.0 · strong internal correspondence; larger implications disputed · [[Prediction-Outcome Narrative Correspondence in Alma 16|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong internal correspondence; larger implications disputed · [[Prediction-Outcome Narrative Correspondence in Alma 16|full dossier]]
 
 > [!evidence] Intra-Textual Prophecy-Fulfillment Pattern
 > The destruction of Ammonihah in Alma 16 corresponds to Alma's earlier warning that persistent wickedness would bring an unexpected Lamanite attack and utter destruction. The correspondence strongly supports a deliberate warning-and-fulfillment design within the book.

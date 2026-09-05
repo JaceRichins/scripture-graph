@@ -117,7 +117,7 @@ The ending compresses time. Detailed events close the thirty-first year in verse
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Theological Evidence
 > Alma 62:41 is strong textual evidence that the chapter treats adversity as spiritually non-deterministic: suffering may accompany either hardening or humility. It therefore resists a simple claim that affliction automatically produces righteousness.
-> — strength 0.9 · confidence 1.0 · Strong agreement; evidentiary limits clearly stated · [[Narrative Theological Evidence in Alma 62|full dossier]]
+> — confidence 1.0 · Strong agreement; evidentiary limits clearly stated · [[Narrative Theological Evidence in Alma 62|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

@@ -109,7 +109,7 @@ _Not yet developed._
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Political Consequence
 > Lamoni's actions provide direct narrative evidence that his religious transformation has public consequences, including changes to Ammon's status, communal institutions, political self-description, and freedom of worship.
-> — strength 0.8 · confidence 0.9 · accepted, well-hedged · [[Narrative Political Consequence in Alma 21|full dossier]]
+> — confidence 0.9 · accepted, well-hedged · [[Narrative Political Consequence in Alma 21|full dossier]]
 
 > [!evidence] Textual-Theological Contrast
 > Within the chapter's theological argument, the contrast between the Amalekite's appeal to sanctuaries and worship and Aaron's call to repentance supports the limited conclusion that religious participation is not presented as sufficient evidence of righteousness or redemption.

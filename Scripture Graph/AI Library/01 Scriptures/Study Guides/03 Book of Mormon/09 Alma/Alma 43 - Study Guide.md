@@ -120,7 +120,7 @@ Material contrasts also shape the battle: armor and exposed bodies, numerical su
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Temporal Association
 > The narrative associates united prayer for freedom with an immediate reversal in battle, stating that the Lamanites began to flee in the same hour that the Nephites cried to the Lord.
-> — strength 0.6 · confidence 1.0 · temporal association explicit; causation disputed · [[Narrative Temporal Association in Alma 43|full dossier]]
+> — confidence 1.0 · temporal association explicit; causation disputed · [[Narrative Temporal Association in Alma 43|full dossier]]
 
 > [!evidence] Internal Ethical Framing
 > Alma 43 provides strong internal textual evidence for a bounded defensive-war ethic in this narrative: defense is justified by protection of families, liberty, land, and worship; the Nephites are told not to initiate repeated offenses; and Moroni stops the killing when the encircled enemy is terrified.

@@ -117,7 +117,7 @@ The prophetic episode uses prediction and fulfillment: warned famine (v. 28), re
 
 > [!evidence] Narratorial And Geographic Framing
 > The references to the later Nephite destruction site and to a land "called by the Nephites Zarahemla" are strong internal evidence that the surviving account presents Jaredite geography through a later narratorial frame.
-> — strength 1.0 · confidence 1.0 · broadly accepted textual observation · [[Narratorial And Geographic Framing in Ether 9|full dossier]]
+> — confidence 1.0 · broadly accepted textual observation · [[Narratorial And Geographic Framing in Ether 9|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

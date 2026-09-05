@@ -129,7 +129,7 @@ Verse 19 announces the end of this personal aside, but verses 20–26 extend it 
 
 > [!evidence] Narrative Source Presentation
 > The combined notices about severe compression, an identified intermediary record, personally manufactured plates, inherited versus eyewitness material, and linguistic limitation strongly establish that the chapter presents itself as self-conscious abridged historiography.
-> — strength 0.9 · confidence 1.0 · Broadly accepted description of literary self-presentation · [[Narrative Source Presentation in 3 Nephi 5|full dossier]]
+> — strength 0.8 · confidence 1.0 · Broadly accepted description of literary self-presentation · [[Narrative Source Presentation in 3 Nephi 5|full dossier]]
 
 > [!evidence] Literary Convention / Internal Record-Keeping Statement *(tentative)*
 > Mormon's self-identification, source citation, and statement of compilation method (vv. 9-19) resemble a pattern some LDS scholars label an ancient Near Eastern scribal 'colophon' convention (author identification, acknowledgment of sources, statement of purpose/limits), offered as internal evidence consistent with, though not proof of, ancient authorship.
