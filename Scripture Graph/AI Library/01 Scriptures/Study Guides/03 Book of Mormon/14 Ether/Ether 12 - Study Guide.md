@@ -67,6 +67,7 @@ _Not yet developed._
 - [[Hebrews 6]] — 0 parallel verses
 - [[John 14]] — 0 parallel verses
 - [[D&C 17]] — 0 parallel verses
+- [[Ether 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -128,7 +129,7 @@ The repeated formulas "by faith" and "after their faith" unify verses 7-22, turn
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Interrelationship
 > The concentration of New Testament-like language is strong evidence of textual interrelationship at the level of the English wording, but it is weak evidence for choosing among historical explanations for that relationship.
-> — strength 0.6 · confidence 0.9 · honest strong-textual/weak-historical distinction · [[Textual Interrelationship in Ether 12|full dossier]]
+> — strength 0.7 · confidence 0.9 · honest strong-textual/weak-historical distinction · [[Textual Interrelationship in Ether 12|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

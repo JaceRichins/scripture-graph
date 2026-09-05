@@ -103,15 +103,15 @@ Ether 10 uses compact succession notices, moral evaluations, and sharp contrasts
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative-Theological Contrast
 > Morianton's case is strong internal evidence that Ether 10 does not treat prosperity or popular legitimacy as sufficient proof of divine approval: economic recovery follows his reforms even while the narrator says he is cut off from the Lord's presence.
-> — strength 0.7 · confidence 0.9 · Accepted as a limited counterexample, not a governing rule · [[Narrative-Theological Contrast in Ether 10|full dossier]]
+> — confidence 0.9 · Accepted as a limited counterexample, not a governing rule · [[Narrative-Theological Contrast in Ether 10|full dossier]]
 
 > [!evidence] Internal Geographic Description
 > The narrow-neck passage provides a meaningful constraint for reconstructing the narrative's internal geography: it places a city near a constricted land passage associated with divided seas and distinguishes northern settlement from a southern game reserve.
-> — strength 0.4 · confidence 1.0 · Accepted internal constraint with low external discriminating power · [[Internal Geographic Description in Ether 10|full dossier]]
+> — confidence 1.0 · Accepted internal constraint with low external discriminating power · [[Internal Geographic Description in Ether 10|full dossier]]
 
 > [!evidence] Material-Culture Description
 > The economic catalog is strong evidence for the kind of complex, specialized society portrayed by the narrative, but only weak evidence for identifying a particular archaeological culture or assigning modern technical meanings to every material term.
-> — strength 0.3 · confidence 1.0 · Accepted evidentiary limitation · [[Material-Culture Description in Ether 10|full dossier]]
+> — confidence 1.0 · Accepted evidentiary limitation · [[Material-Culture Description in Ether 10|full dossier]]
 
 > [!evidence] Material-Culture Anachronism *(tentative)*
 > The mention of 'silks' in Ether 10:24 is frequently raised in anachronism debates about the Book of Mormon's claimed pre-Columbian American setting, since domesticated silkworm sericulture is not attested archaeologically in the pre-Columbian Americas.

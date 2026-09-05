@@ -122,11 +122,11 @@ The three prayer-requests expand in scope — self and Jared, then friends and f
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Source And Editorial Claim
 > The chapter provides strong internal evidence for the limited claim that its narrator presents the work as a selective abridgment: Moroni identifies twenty-four source plates, attributes the underlying record to Ether, and explicitly says he supplies only part of the account.
-> — strength 0.9 · confidence 1.0 · uncontested, well-hedged · [[Internal Source And Editorial Claim in Ether 1|full dossier]]
+> — confidence 1.0 · uncontested, well-hedged · [[Internal Source And Editorial Claim in Ether 1|full dossier]]
 
 > [!evidence] Genealogical Chronology Limitation
 > The genealogy is insufficient for calculating an exact number of generations because it sometimes says "descendant of" rather than "son of." This wording permits genealogical compression, although it does not prove that generations were omitted in each such instance.
-> — strength 0.8 · confidence 0.9 · strongest, most disciplined claim in the set · [[Genealogical Chronology Limitation in Ether 1|full dossier]]
+> — confidence 0.9 · strongest, most disciplined claim in the set · [[Genealogical Chronology Limitation in Ether 1|full dossier]]
 
 > [!evidence] Textual/Comparative *(tentative)*
 > The recycling of ancestral names (Com, Coriantum, Heth) across separate generations in the Jaredite king-list is consistent with real-world papponymic/dynastic naming conventions documented in ancient Near Eastern and other royal genealogies, where a limited stock of dynastic names repeats across generations.
