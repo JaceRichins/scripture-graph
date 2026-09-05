@@ -46,11 +46,11 @@ The explicit reference and shared wording make deliberate internal recall nearly
 Notes: [[Explicit Internal Intertext in Alma 36]]
 
 ### pgp-abraham3-literary-hinge
-**Astronomical-to-premortal literary hinge in Abraham 3** — *strong* (supports, evidence_strength 0.84) for: Abraham 3:16-19 is a deliberately constructed literary hinge that intentionally reuses the chapter's celestial comparative pattern (vv.8-9, 16-17) to introduce spirits and intelligence, explicitly signaled by 'as, also' in v.18, rather than an incidental or merely pedagogical repetition.
+**Astronomical-to-premortal literary hinge in Abraham 3** — *strong* (supports, evidence_strength 0.84) for: The celestial (Kolob/greater-star) discussion and the premortal-spirits discussion in Abraham 3 are linked by deliberate literary analogy via the explicit 'as, also' comparative formula, rather than being two topically distinct discussions a reader retrospectively connects.
 
-The explicit 'as, also' connective is direct textual evidence of intentional analogical transfer, not merely an inferred pattern, and strongly supports deliberate design linking the astronomical and premortal-spirit material. The pedagogical-analogy alternative is real but is already effectively priced into the strong-band assessment, since an explicit connective is itself a deliberate device; ordinariness of analogical teaching in general does not defeat this passage-specific textual signal. This bears only on final-form literary design, not on the chapter's date, source language, historicity, or cosmological accuracy.
+The explicit 'as, also' connective is direct textual evidence of intentional analogical transfer linking the astronomical and premortal-spirit material, strongly supporting deliberate design in the final text. This bears only on final-form literary design, not on the chapter's date, source language, historicity, or cosmological accuracy.
 
-Notes: [[Internal Literary Structure in Abraham 3]]
+Notes: [[Internal Literary Structure in Abraham 3]] · [[Literary Structure in Abraham 3]]
 
 ### bom-alma5-biblical-english-dependence
 **Biblical English dependence and intertextuality in Alma 5** — *strong* (supports, evidence_strength 0.68) for: The received English text of Alma 5 substantially draws on biblical, especially King James, wording and image clusters rather than acquiring all of its similarities through independent formulation.
@@ -88,11 +88,18 @@ The sustained sequence and close English wording strongly support dependence on 
 Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]]
 
 ### bom-chiasmus-antiquity
-**Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: Alma 36's inverted organization is materially more expected under ancient Hebrew-influenced composition than under natural narrative symmetry or nineteenth-century biblical-style composition.
+**Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: The inverted structure of Alma 36 provides evidence that the chapter derives from an ancient Hebrew literary source, as opposed to natural narrative symmetry, analyst-flexible unit-matching, or deliberate non-Hebrew-specific ring composition.
 
-Alma 36 shows a real, unusually elaborate inverted structure, but natural descent-and-return narrative symmetry is an independently-supported rival that predicts much of the same pattern, and no matched-control denominator has been supplied, so this is only slight, weak-band supporting evidence for ancient Hebrew literary origin, not evidence of intentional antiquity.
+Alma 36 shows a real, unusually elaborate inverted structure around a clear hinge at v.18, but natural descent-and-return narrative symmetry, non-Hebrew-specific ring composition available to any literate author, and undocumented flexibility in selecting matching units all predict much of the same pattern. Absent a matched-control denominator, this remains weak-band supporting evidence for ancient Hebrew literary origin specifically, not evidence of intentional antiquity.
 
-Notes: [[Chiasmus in Alma 36]]
+Notes: [[Chiasmus in Alma 36]] · [[Literary Structure in Alma 36]]
+
+### isaiah50-christian-messianic-typology
+**Christian messianic typology of the Isaiah 50 servant figure in 2 Nephi 7** — *moderate* (supports, evidence_strength 0.48) for: The suffering, confident servant figure of 2 Nephi 7 (Isaiah 50) legitimately supports a Christian typological application to Jesus, without requiring Jesus to be the passage's sole original historical referent.
+
+The servant's willing suffering, physical humiliation, and confident vindication moderately support a legitimate Christian typological reading applied to Jesus, echoed later in the Gospel passion narratives. Because the prophet's own autobiographical voice and a Jeremiah-like persecuted-prophet reading fit the same details about equally well, and the passage never names a messiah, this is distinct from — and gives far less support to — the separate, much lower-weight claim that Jesus was the passage's sole original historical referent.
+
+Notes: [[Messianic And Typological Interpretation in 2 Nephi 7]]
 
 ### bom-lehi-angel-fall-source-attribution
 **Claimed written source behind Lehi's account of the angel's fall** — *none* (supports, evidence_strength 0.14) for: Lehi's account of the angel's fall was historically inferred from pre-existing written material rather than the source language functioning only as literary or rhetorical attribution.
@@ -163,6 +170,20 @@ Notes: [[Internal Narrative Coherence in Alma 38]]
 The chapter gives strong evidence that its narrator presents this battle as defensive and depicts a limit on continued killing. It does not establish a universal war ethic, Moroni's precise motive, historical compliance, or inspiration.
 
 Notes: [[Internal Ethical Framing in Alma 43]]
+
+### bom-2nephi3-moses-typology
+**Deliberate Moses-typology construction of the future seer in 2 Nephi 3** — *strong* (supports, evidence_strength 0.78) for: 2 Nephi 3 deliberately constructs the future seer as a designed literary type of Moses in the final-form text, rather than using generic deliverer language that only coincidentally echoes Moses.
+
+The explicit 'like unto Moses' comparison together with matched deliverance and spokesman motifs strongly supports deliberate typological design in the final text. The seer's speech restraint is implied by the spokesman provision rather than explicitly stated as Moses's is, which keeps the weight at 0.78 rather than higher; the typology gives no independent traction on the seer's historical identity, the prophecy's date, or genuine foreknowledge.
+
+Notes: [[Literary Typology in 2 Nephi 3]]
+
+### bom-alma46-garment-pattern
+**Deliberate literary design of the rent-garment covenant pattern in Alma 46** — *strong* (supports, evidence_strength 0.8) for: The rending-of-garments sequence in Alma 46:12-27 (Moroni's coat, the people's garments, and the Joseph/Jacob interpretation) reflects deliberate literary/theological design in the final-form text, rather than an incidental sequence of events only retrospectively perceived as patterned.
+
+Moroni's own reported speech explicitly ties the rent-garment action to Joseph's coat and Jacob's preserved-remnant prophecy, which is strong evidence that the final text deliberately builds a unified garment/covenant/remnant symbol rather than a reader-constructed connection. This bears only on final-form design and gives no independent traction on the text's date, language of composition, historicity, or inspiration.
+
+Notes: [[Literary Pattern in Alma 46]]
 
 ### bom-3nephi27-sermon-reprise
 **Deliberate reprise of 3 Nephi 14 in 3 Nephi 27** — *strong* (supports, evidence_strength 0.78) for: The received wording of 3 Nephi 27 deliberately reprises the ask-and-knock and two-gates teachings already presented in 3 Nephi 14 rather than reproducing both ordered clusters by coincidence.
