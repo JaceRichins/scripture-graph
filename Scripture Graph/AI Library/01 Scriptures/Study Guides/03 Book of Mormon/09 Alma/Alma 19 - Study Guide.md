@@ -109,11 +109,11 @@ The chapter repeatedly separates an event from its meaning. The prostrate househ
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Characterization
 > The crowd's several competing explanations are strong evidence of deliberate narrative polyphony: the text represents belief, hostility, political blame, traditional religious categories, and uncertainty rather than giving every observer immediate understanding.
-> — strength 0.7 · confidence 0.9 · Strong literary observation; no historical inference warranted · [[Literary Characterization in Alma 19|full dossier]]
+> — confidence 0.9 · Strong literary observation; no historical inference warranted · [[Literary Characterization in Alma 19|full dossier]]
 
 > [!evidence] Narrative Characterization
 > Abish's name, prior undisclosed conversion, independent interpretation, emotional reaction, and repeated actions provide substantial evidence that she is a developed causal character rather than incidental scenery.
-> — strength 0.7 · confidence 0.9 · Strong narrative-characterization claim · [[Narrative Characterization in Alma 19|full dossier]]
+> — confidence 0.9 · Strong narrative-characterization claim · [[Narrative Characterization in Alma 19|full dossier]]
 
 > [!evidence] Literary And Theological Pattern *(tentative)*
 > The queen's explicit distinction between direct witness and reliance on reported words, followed by waiting and narrated fulfillment, is strong internal evidence that the chapter is deliberately exploring how testimony, trust, and confirmation relate.

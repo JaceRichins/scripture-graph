@@ -66,6 +66,7 @@ Scripture: [[Alma 18]] · My notes: [[Alma 18 - My Notes]]
 - [[Alma 43]] — 1 parallel verse, e.g. [[Alma 18#^alma-18-38|Alma 18:38]] ↔ [[Alma 43#^alma-43-13|Alma 43:13]]
 - [[Alma 22]] — 0 parallel verses
 - [[Alma 19]] — 0 parallel verses
+- [[Alma 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -120,11 +121,11 @@ Two verbal details are worth flagging as language rather than doctrine, both as 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Sequence
 > Within the chapter's narrative, Lamoni's movement from inherited assumptions through fear, questioning, belief, and prayer supports reading his conversion as a process rather than a single unprepared reaction.
-> — strength 0.8 · confidence 0.9 · well-hedged evidence claim · [[Narrative Sequence in Alma 18|full dossier]]
+> — confidence 0.9 · well-hedged evidence claim · [[Narrative Sequence in Alma 18|full dossier]]
 
 > [!evidence] Internal Narrative Evidence
 > The question-and-answer progression from 'Great Spirit' to God, creation, heaven, and revelation is strong internal evidence that the narrative portrays Ammon as adapting instruction to Lamoni's present vocabulary and understanding.
-> — strength 0.8 · confidence 0.9 · well-hedged evidence claim · [[Internal Narrative Evidence in Alma 18|full dossier]]
+> — confidence 0.9 · well-hedged evidence claim · [[Internal Narrative Evidence in Alma 18|full dossier]]
 
 > [!evidence] Linguistic Curiosity *(tentative)*
 > "Rabbanah," glossed in the text as "powerful or great king" (18:13), is one of the rare instances where the Book of Mormon preserves and translates a non-English royal title used by Lamanites; the surface resemblance to the New Testament title "Rabboni" (John 20:16) has been noted by some readers, but the two arise in unrelated narrative and (presumed) linguistic settings.

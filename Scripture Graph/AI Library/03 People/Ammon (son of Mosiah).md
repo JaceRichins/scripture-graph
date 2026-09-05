@@ -42,6 +42,7 @@ _Not yet developed._
 - **91 BC** — Ammon begins service to Lamoni and defends the flocks · [[Alma 17]] · [[100-1 BC]] *(approximate)*
 - **90 BC–77 BC** — The sons of Mosiah among the Lamanites · [[Alma 17]] · [[Alma 18]] · [[Alma 24]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **90 BC–77 BC** — Aaron's mission to the Amalekites and Lamoni's liberty decree · [[Alma 21]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **90 BC–77 BC** — Mission among the Lamanites recalled by Ammon · [[Alma 26]] · [[100-1 BC]] *(approximate)*
 - **84 BC–77 BC** — The Anti-Nephi-Lehies bury their swords · [[Alma 23]] · [[Alma 24]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **77 BC** — The people of Ammon find refuge in Jershon · [[Alma 27]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 

@@ -6983,6 +6983,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-26-f1b3f395",
+   "t": "Mission among the Lamanites recalled by Ammon",
+   "y0": -90,
+   "y1": -77,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The supplied official chapter heading assigns the surrounding mission narrative approximately to 90–77 B.C.; the speech itself does not provide calendar dates.",
+   "chapters": [
+    "Alma 26"
+   ],
+   "people": [
+    "Ammon",
+    "Aaron",
+    "Lamanite converts"
+   ],
+   "places": [
+    "Zarahemla",
+    "land of Nephi"
+   ]
+  },
+  {
    "id": "r-alma-38-72c141f1",
    "t": "Alma counsels Shiblon",
    "y0": -74,
