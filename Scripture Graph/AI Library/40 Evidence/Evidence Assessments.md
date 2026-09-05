@@ -528,6 +528,13 @@ The distinctive stubble and stall-calves images in the same contrastive order st
 
 Notes: [[Intertextual Verbal And Sequential Parallel in 1 Nephi 22]]
 
+### bom-ether4-mark16-intertext
+**Mark 16:16-17 mediation of Ether 4:18** — *strong* (supports, evidence_strength 0.8) for: Ether 4:18 stands in a direct English-textual relationship with Mark 16:16-17 (KJV), reflecting deliberate biblical/KJV-shaped mediation rather than independent formulation.
+
+The close three-part sequential wording (belief-and-baptism/salvation, unbelief/damnation, signs-follow-believers) strongly supports a direct English-textual relationship between Ether 4:18 and Mark 16:16-17, comparable to the corpus's other tight New Testament passage-level correspondences. It does not distinguish ancient discourse rendered through KJV-shaped translation from editorial harmonization or nineteenth-century composition, and it is not independent of the corpus's broader KJV-mediation pattern. Note also that Mark 16:9-20 is a textually disputed longer ending absent from the earliest Greek manuscripts, which bears on any claim about the antiquity of the underlying saying, though not on the secure English-text relationship itself.
+
+Notes: [[Textual Intertext in Ether 4]]
+
 ### bom-3nephi17-matthew15-healing-parallel
 **Matthew 15 Healing-Catalogue Parallel in 3 Nephi 17** — *moderate* (supports, evidence_strength 0.56) for: The final English text of 3 Nephi 17:7,9 has a specific literary or translation-level relationship to Matthew 15:30-31.
 
