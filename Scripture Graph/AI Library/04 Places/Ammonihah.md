@@ -36,6 +36,9 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **82 BC** — Amulek testifies publicly in Ammonihah · [[Alma 10]] · [[100-1 BC]] *(approximate)*
+- **82 BC–81 BC** — Martyrdom at Ammonihah and prison deliverance · [[Alma 14]] · [[100-1 BC]] *(approximate)*
+- **82 BC–81 BC** — Trial, imprisonment, and deliverance of Alma and Amulek · [[Alma 14]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **82 BC** — Alma and Amulek preach at Ammonihah · [[Alma 9]] · [[100-1 BC]] *(approximate)*
 - **81 BC–77 BC** — Destruction, rescue, and expansion of the church · [[Alma 16]] · [[100-1 BC]] *(approximate)*
 

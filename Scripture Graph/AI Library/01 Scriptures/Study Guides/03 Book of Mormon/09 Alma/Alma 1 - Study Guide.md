@@ -119,7 +119,7 @@ That design also calls for critical attention. Alma 1:32 gives outsiders a sweep
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Legal-Narrative Evidence
 > The chapter provides strong internal evidence that its narrator understands Nehor's execution as punishment for killing Gideon and attempting to enforce priestcraft by the sword, not merely for holding or preaching an unpopular belief. The same account expressly says that the law could have no power over a person for belief.
-> — strength 0.8 · confidence 0.9 · well-hedged, best version of this idea across both proposals · [[Internal Legal-Narrative Evidence in Alma 1|full dossier]]
+> — confidence 0.9 · well-hedged, best version of this idea across both proposals · [[Internal Legal-Narrative Evidence in Alma 1|full dossier]]
 
 > [!evidence] Textual/Literary Parallel *(tentative)*
 > Alma 1:26-31's description of the church's egalitarian economic practices and resulting prosperity is repeated in substantially similar language later in Alma 4 (8 overlapping verses per index data), suggesting either a deliberate recurring literary formula used by the record's compiler to mark cycles of church health, or simply habitual/formulaic phrasing reused to describe a recurring social condition.

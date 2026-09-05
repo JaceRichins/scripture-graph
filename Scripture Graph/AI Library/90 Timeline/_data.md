@@ -6653,6 +6653,169 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-10-da6e1ebe",
+   "t": "Amulek testifies publicly in Ammonihah",
+   "y0": -82,
+   "y1": -82,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "visions"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Alma 10:6 specifies the fourth day of the seventh month in the tenth year of the reign of the judges; the official chapter heading gives approximately 82 B.C.",
+   "chapters": [
+    "Alma 10"
+   ],
+   "people": [
+    "Amulek",
+    "Alma",
+    "Zeezrom"
+   ],
+   "places": [
+    "Ammonihah"
+   ],
+   "things": [
+    "angelic command",
+    "public testimony"
+   ]
+  },
+  {
+   "id": "r-alma-11-f32ccde9",
+   "t": "Amulek's confrontation with Zeezrom",
+   "y0": -82,
+   "y1": -82,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns the events to about 82 B.C.; the chapter itself does not provide an absolute date.",
+   "chapters": [
+    "Alma 11"
+   ],
+   "people": [
+    "Amulek",
+    "Zeezrom"
+   ]
+  },
+  {
+   "id": "r-alma-13-f70a9b23",
+   "t": "Alma teaches concerning the holy order and repentance",
+   "y0": -82,
+   "y1": -82,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates this discourse to about 82 B.C.; the chapter itself supplies no absolute date.",
+   "chapters": [
+    "Alma 13"
+   ],
+   "people": [
+    "Alma",
+    "Melchizedek",
+    "Jesus Christ",
+    "Abraham"
+   ]
+  },
+  {
+   "id": "r-alma-14-d60efb56",
+   "t": "Martyrdom at Ammonihah and prison deliverance",
+   "y0": -82,
+   "y1": -81,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the events to about 82–81 B.C.; Alma 14:23 internally places the prison climax in the tenth year of the reign of the judges.",
+   "chapters": [
+    "Alma 14"
+   ],
+   "people": [
+    "Alma",
+    "Amulek",
+    "Zeezrom"
+   ],
+   "places": [
+    "Ammonihah"
+   ],
+   "things": [
+    "holy scriptures",
+    "prison"
+   ]
+  },
+  {
+   "id": "r-alma-14-f85559f3",
+   "t": "Trial, imprisonment, and deliverance of Alma and Amulek",
+   "y0": -82,
+   "y1": -81,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Alma 14:23 dates the prison ordeal to the twelfth day of the tenth month of the tenth year of the reign of the judges; the chapter heading places the episode about 82-81 B.C.",
+   "chapters": [
+    "Alma 14"
+   ],
+   "people": [
+    "Alma",
+    "Amulek",
+    "Zeezrom"
+   ],
+   "places": [
+    "Ammonihah"
+   ]
+  },
+  {
+   "id": "r-alma-15-363e230b",
+   "t": "Church established at Sidom",
+   "y0": -81,
+   "y1": -81,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Alma 15:19 closes the tenth year of the reign of the judges; the official chapter heading dates the chapter to about 81 B.C.",
+   "chapters": [
+    "Alma 15"
+   ],
+   "people": [
+    "Alma",
+    "Amulek",
+    "Zeezrom"
+   ],
+   "places": [
+    "Sidom",
+    "Zarahemla"
+   ],
+   "things": [
+    "church",
+    "baptism"
+   ]
+  },
+  {
    "id": "r-alma-16-0b1134fc",
    "t": "Destruction, rescue, and expansion of the church",
    "y0": -81,
