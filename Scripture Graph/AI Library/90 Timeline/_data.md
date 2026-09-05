@@ -8220,6 +8220,56 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dan-6-e274969d",
+   "t": "Daniel's continued service under Darius and Cyrus",
+   "y0": -539,
+   "y1": -530,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Daniel 6:28 places Daniel's prominence under Darius then Cyrus, following the traditional 539 BC Persian conquest of Babylon; 'Darius the Mede' is unattested outside Daniel, so this reflects narrative sequence, not independent corroboration.",
+   "chapters": [
+    "Daniel 6"
+   ],
+   "people": [
+    "Daniel (prophet)",
+    "Darius",
+    "Cyrus"
+   ],
+   "places": [
+    "Babylon"
+   ]
+  },
+  {
+   "id": "r-dan-7-9c84243e",
+   "t": "Daniel's vision of the four beasts (Belshazzar's 1st year)",
+   "y0": -553,
+   "y1": -553,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Daniel 7:1 sets the vision in Belshazzar's first year as co-regent of Babylon; conventional chronology places this at approximately 553 BC.",
+   "chapters": [
+    "Daniel 7"
+   ],
+   "people": [
+    "Daniel (prophet)"
+   ],
+   "places": [
+    "Babylon"
+   ]
+  },
+  {
    "id": "r-dan-8-c6f62255",
    "t": "Daniel's vision at Shushan, third year of Belshazzar",
    "y0": -551,
@@ -8243,6 +8293,30 @@ timeline module, not this file._
    "places": [
     "Shushan",
     "Elam"
+   ]
+  },
+  {
+   "id": "r-dc-1-8e911464",
+   "t": "D&C 1 received as preface to compiled revelations",
+   "y0": 1831,
+   "y1": 1831,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Traditional account (section heading) places this revelation at a conference of elders in Hiram, Ohio, given as the Lord's introduction to the forthcoming compiled Book of Commandments.",
+   "chapters": [
+    "D&C 1"
+   ],
+   "people": [
+    "Joseph Smith Jr"
+   ],
+   "places": [
+    "Hiram, Ohio"
    ]
   },
   {
@@ -8293,6 +8367,34 @@ timeline module, not this file._
    ],
    "things": [
     "Zion's Camp"
+   ]
+  },
+  {
+   "id": "r-dc-11-43a1bd08",
+   "t": "D&C 11 given to Hyrum Smith during Book of Mormon translation",
+   "y0": 1829,
+   "y1": 1829,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The section's historical heading records this revelation as given through Joseph Smith to his brother Hyrum Smith in May 1829; the verses themselves (vv.19,22) refer to an in-progress translation but do not state a date or place.",
+   "chapters": [
+    "D&C 11"
+   ],
+   "people": [
+    "Hyrum Smith",
+    "Joseph Smith"
+   ],
+   "places": [
+    "Harmony, Pennsylvania"
+   ],
+   "things": [
+    "Book of Mormon translation manuscript"
    ]
   },
   {

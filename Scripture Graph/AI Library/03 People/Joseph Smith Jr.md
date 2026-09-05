@@ -50,14 +50,14 @@ _Not yet developed._
 - **AD 1823** — Moroni appears; the plates shown · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
 - **AD 1827** — Joseph receives the plates · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — Priesthood restored by John the Baptist · [[D&C 13]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
+- **AD 1829** — D&C 11 given to Hyrum Smith during Book of Mormon translation · [[D&C 11]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — The translation by gift and power · [[D&C 3]] · [[D&C 10]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — The Book of Mormon published; the Church organized · [[D&C 20]] · [[D&C 21]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — Organization of the Church of Christ, April 6, 1830 · [[D&C 20]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — D&C 28 given, addressing Hiram Page revelations · [[D&C 28]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — D&C 29 received: revelation on gathering, judgment · [[D&C 29]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — D&C 35 given to Joseph Smith and Sidney Rigdon · [[D&C 35]] · [[AD 1801-1900]] *(historical)*
-- **AD 1831** — Revelation on gathering to Kirtland, Ohio (D&C 38) · [[D&C 38]] · [[AD 1801-1900]] *(historical)*
-- **AD 1831** — Revelation to James Covel given at Fayette, New York · [[D&C 39]] · [[AD 1801-1900]] *(historical)*
+- **AD 1831** — D&C 1 received as preface to compiled revelations · [[D&C 1]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

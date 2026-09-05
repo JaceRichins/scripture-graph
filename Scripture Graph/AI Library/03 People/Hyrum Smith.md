@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 1829** — D&C 11 given to Hyrum Smith during Book of Mormon translation · [[D&C 11]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — Revelation calling five early disciples to preach and exhort · [[D&C 23]] · [[AD 1801-1900]] *(historical)*
 - **AD 1833** — Revelation on Kirtland city-of-the-stake building lots · [[D&C 94]] · [[AD 1801-1900]] *(historical)*
 - **AD 1838–AD 1839** — Winter in Liberty Jail · [[D&C 121]] · [[D&C 122]] · [[D&C 123]] · [[AD 1801-1900]] *(historical)*

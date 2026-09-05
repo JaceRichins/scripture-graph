@@ -40,9 +40,11 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **605 BC** — Daniel taken to Babylon · [[Daniel 1]] · [[700-601 BC]] *(historical)*
 - **605 BC** — Daniel and companions enter Babylonian court training · [[Daniel 1]] · [[700-601 BC]] *(approximate)*
+- **553 BC** — Daniel's vision of the four beasts (Belshazzar's 1st year) · [[Daniel 7]] · [[600-501 BC]] *(traditional dating)*
 - **551 BC** — Daniel's vision at Shushan, third year of Belshazzar · [[Daniel 8]] · [[600-501 BC]] *(traditional dating)*
 - **539 BC** — Daniel in the lions' den · [[Daniel 6]] · [[600-501 BC]] *(traditional dating)*
 - **539 BC** — Fall of Babylon to the Medes and Persians · [[Daniel 5]] · [[600-501 BC]] *(historical)*
+- **539 BC–530 BC** — Daniel's continued service under Darius and Cyrus · [[Daniel 6]] · [[600-501 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
