@@ -110,7 +110,7 @@ Repetition intensifies the judgment. “Ye shall be broken in pieces” occurs t
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Dependence
 > The sequential, chapter-length correspondence between 2 Nephi 18 and Isaiah 8 is very strong evidence of a direct textual relationship. It establishes dependence upon or transmission of the Isaiah passage, but by itself cannot determine when, where, or by what translation process that relationship arose.
-> — strength 1.0 · confidence 1.0 · Textual relationship certain; mechanism disputed · [[Textual Dependence in 2 Nephi 18|full dossier]]
+> — strength 0.8 · confidence 1.0 · Textual relationship certain; mechanism disputed · [[Textual Dependence in 2 Nephi 18|full dossier]]
 
 > [!evidence] Historical And Chronological Specificity
 > The oracle is historically particular rather than generic: it names Damascus, Samaria, Assyria, Judah, Rezin, and Remaliah's son and attaches the anticipated plunder to a child's early development. This strongly supports reading the source passage against a concrete regional crisis, although the chapter alone does not prove when the prediction was composed or fulfilled.

@@ -123,7 +123,7 @@ Abraham 1:16 has a close literary relationship with [[Genesis 12]] through its l
 <!-- SG:BEGIN evidence -->
 > [!evidence] Text-Image Integration
 > Verses 12–14 explicitly direct the reader to figures placed at the beginning of the record and describe those figures as supplying visual information about the altar and gods. This is strong internal evidence that the narrative presents its image and prose as an integrated record.
-> — strength 0.9 · confidence 1.0 · Strong internal observation · [[Text-Image Integration in Abraham 1|full dossier]]
+> — confidence 1.0 · Strong internal observation · [[Text-Image Integration in Abraham 1|full dossier]]
 
 > [!evidence] Intertextual Parallel
 > Abraham 1:16 and Genesis 12:1 share a conspicuous cluster of ideas and language: leaving country or kindred and the father's house for a land not yet known or shown. Abraham 1:19 and Genesis 12:2–3 then associate Abraham's calling with a worldwide or multinational blessing. This strongly supports a deliberate literary or traditional relationship between the passages, but the textual parallel alone cannot determine the direction or historical origin of that relationship.

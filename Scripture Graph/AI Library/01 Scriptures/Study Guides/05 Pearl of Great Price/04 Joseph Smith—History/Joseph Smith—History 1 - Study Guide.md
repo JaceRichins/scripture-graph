@@ -159,7 +159,7 @@ Joseph's explicit comparison with Paul in [[Acts 26]] gives contested testimony 
 
 > [!evidence] Source Date And Proximity
 > Because the chapter identifies itself as an 1838 history while recounting experiences beginning decades earlier, it is strong primary evidence for Joseph Smith's public account and self-understanding in 1838, but it is not a contemporaneous record of the earliest narrated events.
-> — strength 0.9 · confidence 0.9 · source distinction broadly accepted · [[Source Date And Proximity in Joseph Smith—History 1|full dossier]]
+> — confidence 0.9 · source distinction broadly accepted · [[Source Date And Proximity in Joseph Smith—History 1|full dossier]]
 
 > [!evidence] Textual Variation And Scriptural Interpretation *(tentative)*
 > The narrator expressly notes that Moroni's wording of Malachi differed from the Bible available to him. The reported substitutions concerning priesthood, promises made to the fathers, and the agents who burn the wicked support reading the quotation as an interpretive adaptation rather than accidental verbatim repetition.

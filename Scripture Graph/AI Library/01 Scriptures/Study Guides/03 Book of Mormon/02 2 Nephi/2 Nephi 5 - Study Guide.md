@@ -124,7 +124,7 @@ The chapter also introduces the Book of Mormon's two-track [[Records and Sacred 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Source Perspective
 > The chapter is a first-person account by Nephi. This provides direct textual evidence for how Nephi understood and represented the separation, but it supplies no independent voice from the brothers or the people later called Lamanites.
-> — strength 0.8 · confidence 1.0 · sound source-criticism · [[Source Perspective in 2 Nephi 5|full dossier]]
+> — confidence 1.0 · sound source-criticism · [[Source Perspective in 2 Nephi 5|full dossier]]
 
 > [!evidence] Internal Rhetoric And Group Identity
 > Verses 21-24 are strong textual evidence that this account constructs separation from the Lamanites through moralized physical, marital, and social contrasts. They are not evidence that modern racial hierarchies are divinely authorized, nor do they independently verify the narrator's generalizations about the opposing population.

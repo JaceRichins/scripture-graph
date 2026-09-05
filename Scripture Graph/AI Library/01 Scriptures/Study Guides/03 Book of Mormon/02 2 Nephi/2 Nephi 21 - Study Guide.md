@@ -108,7 +108,7 @@ The peaceful-animal sequence expands from pairs of natural enemies to vulnerable
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Correspondence
 > The extensive verbal correspondence between 2 Nephi 21 and Isaiah 11 strongly establishes a direct literary relationship. It is strong evidence that the chapter presents an Isaianic text, but the correspondence alone cannot determine whether its English wording arose through translation from an ancient source, dependence on the King James Bible, or some combination of translation and familiar biblical phrasing.
-> — strength 1.0 · confidence 1.0 · Literary relationship established; mechanism unresolved · [[Textual Correspondence in 2 Nephi 21|full dossier]]
+> — strength 0.8 · confidence 1.0 · Literary relationship established; mechanism unresolved · [[Textual Correspondence in 2 Nephi 21|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

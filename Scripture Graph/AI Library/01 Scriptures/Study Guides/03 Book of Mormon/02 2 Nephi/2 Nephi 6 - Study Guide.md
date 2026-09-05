@@ -111,11 +111,11 @@ Jacob names his interpretive method before quoting Isaiah: the words 'may be lik
 
 > [!evidence] Textual Intertextuality
 > The material in 2 Nephi 6:6-7 and 6:16-18 closely corresponds to Isaiah 49:22-26, corroborating the chapter's explicit presentation of Isaiah as its scriptural source. The final portion includes explanatory or expanded wording, so the relationship should not be described as mechanically verbatim throughout.
-> — strength 0.9 · confidence 1.0 · affirmed and independently checked by critique against KJV Isaiah 49 · [[Textual Intertextuality in 2 Nephi 6|full dossier]]
+> — strength 0.8 · confidence 1.0 · affirmed and independently checked by critique against KJV Isaiah 49 · [[Textual Intertextuality in 2 Nephi 6|full dossier]]
 
 > [!evidence] Textual Correspondence
 > The sustained correspondence with Isaiah 49 is strong evidence of direct literary reuse or dependence at the textual level. It does not, by itself, identify when or by what historical mechanism that reuse occurred.
-> — strength 0.8 · confidence 0.9 · broadly accepted · [[Textual Correspondence in 2 Nephi 6|full dossier]]
+> — strength 0.8 · confidence 1.0 · broadly accepted · [[Textual Correspondence in 2 Nephi 6|full dossier]]
 
 > [!evidence] Linguistic/Lexical *(tentative)*
 > The Hebrew root nasa (נשא), which underlies 'lift up' in Isaiah 49:22 ('I will lift up mine hand'), does carry a distinct idiomatic sense of 'bear/forgive' in other constructions such as nasa avon ('forgive iniquity,' e.g. Exodus 34:7, Psalm 32:1). This makes the followHIM claim about a nasa 'lift up'/'forgive' double meaning lexically plausible in the general sense that the root is polysemous, but it is weaker as a claim about authorial intent in this specific verse, since here nasa governs 'hand' (yad), the same construction used elsewhere in the Hebrew Bible unambiguously for 'raise, lift up' rather than 'forgive.'

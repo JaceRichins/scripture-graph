@@ -94,7 +94,7 @@ The chapter shifts scale repeatedly: from a banner on a mountain, to gathered ki
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Correspondence
 > The verified chapter-wide textual correspondence with Isaiah 13 is strong evidence that 2 Nephi 23 presents that Isaianic oracle. The correspondence establishes a literary relationship much more securely than it establishes any particular account of authorship or translation.
-> — strength 0.8 · confidence 0.9 · strong textual match; authorship/dating separately disputed · [[Textual Correspondence in 2 Nephi 23|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong textual match; authorship/dating separately disputed · [[Textual Correspondence in 2 Nephi 23|full dossier]]
 
 > [!evidence] Predictive-Specificity / Composition-Dating *(tentative)*
 > Verse 17's naming of 'the Medes' as Babylon's destroyer matches the historical fact that Babylon fell in 539 B.C. to combined Medo-Persian forces under Cyrus the Great. Taken as an 8th-century-B.C. prediction (per the traditional authorship claimed in v.1, 'Isaiah the son of Amoz'), this is a specific and historically accurate detail delivered well over a century before the events (Babylon was not yet even the dominant regional power in Isaiah's lifetime).

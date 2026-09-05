@@ -56,13 +56,13 @@ _Not yet developed._
 - [[Moses 5]] — 2 footnote cross-references (from [[Moses 2#^moses-2-26|Moses 2:26]])
 - [[1 Nephi 1]] — 1 footnote cross-reference (from [[Moses 2#^moses-2-1|Moses 2:1]])
 - [[Genesis 1]] — 74 parallel verses, e.g. [[Moses 2#^moses-2-28|Moses 2:28]] ↔ [[Genesis 1#^gen-1-28|Genesis 1:28]]
-- [[Abraham 4]] — 28 parallel verses, e.g. [[Moses 2#^moses-2-28|Moses 2:28]] ↔ [[Abraham 4#^abr-4-28|Abraham 4:28]]
 - [[Moses 3]] — 5 parallel verses, e.g. [[Moses 2#^moses-2-30|Moses 2:30]] ↔ [[Moses 3#^moses-3-20|Moses 3:20]]
 - [[Genesis 7]] — 4 parallel verses, e.g. [[Moses 2#^moses-2-25|Moses 2:25]] ↔ [[Genesis 7#^gen-7-14|Genesis 7:14]]
 - [[Genesis 9]] — 2 parallel verses, e.g. [[Moses 2#^moses-2-28|Moses 2:28]] ↔ [[Genesis 9#^gen-9-1|Genesis 9:1]]
 - [[Genesis 11]] — 2 parallel verses, e.g. [[Moses 2#^moses-2-29|Moses 2:29]] ↔ [[Genesis 11#^gen-11-8|Genesis 11:8]]
 - [[Leviticus 11]] — 2 parallel verses, e.g. [[Moses 2#^moses-2-26|Moses 2:26]] ↔ [[Leviticus 11#^lev-11-41|Leviticus 11:41]]
 - [[Genesis 1]] — 0 parallel verses
+- [[Abraham 4]] — 0 parallel verses
 - [[Abraham 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -123,7 +123,7 @@ Comparison with [[Genesis 1]] and [[Abraham 4]] is indispensable. Their extensiv
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Dependence Or Shared Source
 > The extensive verbal and sequential correspondence among Moses 2, Genesis 1, and Abraham 4 is strong evidence of a direct literary relationship among these canonical creation accounts. That observation alone cannot identify the direction of dependence, reconstruct the complete transmission history, or establish an ancient date for any particular wording.
-> — strength 0.8 · confidence 0.9 · index-verified overlap; direction of dependence remains open · [[Textual Dependence Or Shared Source in Moses 2|full dossier]]
+> — strength 0.8 · confidence 1.0 · index-verified overlap; direction of dependence remains open · [[Textual Dependence Or Shared Source in Moses 2|full dossier]]
 
 > [!evidence] Biblical Source Criticism *(tentative)*
 > Mainstream academic biblical scholarship (the documentary hypothesis) generally attributes Genesis 1:1-2:3 — the text Moses 2 closely parallels — to a Priestly ('P') source commonly dated by such scholars to the exilic or post-exilic period, considerably later than a Mosaic-era setting.

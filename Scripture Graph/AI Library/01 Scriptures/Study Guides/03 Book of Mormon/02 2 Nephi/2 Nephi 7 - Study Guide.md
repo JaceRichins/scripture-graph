@@ -103,7 +103,7 @@ The placement between [[2 Nephi 6]] and [[2 Nephi 8]] matters. Jacob's surroundi
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Correspondence
 > 2 Nephi 7 follows Isaiah 50 in the same sequence and with extensive verbal correspondence. This firmly establishes a literary relationship—direct copying, translation from a related source, or dependence on a common textual tradition—but does not by itself determine the direction, date, or precise mechanism of dependence.
-> — strength 1.0 · confidence 1.0 · Firmly established textual relationship · [[Textual Correspondence in 2 Nephi 7|full dossier]]
+> — strength 0.8 · confidence 1.0 · Firmly established textual relationship · [[Textual Correspondence in 2 Nephi 7|full dossier]]
 
 > [!evidence] Textual Variants
 > The English text of 2 Nephi 7 is not wholly identical to the King James Version of Isaiah 50. Among its differences are added direct addresses to the house of Israel in verses 2 and 4 and the statement about smiting an adversary with the strength of the servant's mouth in verse 8. These are strong evidence of a distinct English form but, without corroborating ancient witnesses, weak evidence for any particular underlying Hebrew reading.

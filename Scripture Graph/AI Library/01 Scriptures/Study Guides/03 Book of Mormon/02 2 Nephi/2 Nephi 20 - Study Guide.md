@@ -116,7 +116,7 @@ The itinerary in verses 28-32 slows the threat into a sequence of named location
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Correspondence
 > The chapter corresponds closely and continuously to Isaiah 10, establishing a direct literary relationship between the two chapter texts.
-> — strength 1.0 · confidence 1.0 · Mechanically verified and broadly accepted · [[Textual Correspondence in 2 Nephi 20|full dossier]]
+> — strength 0.8 · confidence 1.0 · Mechanically verified and broadly accepted · [[Textual Correspondence in 2 Nephi 20|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

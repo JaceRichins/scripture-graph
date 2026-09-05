@@ -63,10 +63,10 @@ Scripture: [[3 Nephi 9]] · My notes: [[3 Nephi 9 - My Notes]]
 - [[2 Nephi 2]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[2 Nephi 2#^2ne-2-14|2 Nephi 2:14]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
 - [[D&C 35]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 35#^dc-35-2|D&C 35:2]]
-- [[3 Nephi 8]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-4|3 Nephi 9:4]] ↔ [[3 Nephi 8#^3ne-8-9|3 Nephi 8:9]]
 - [[D&C 50]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 50#^dc-50-43|D&C 50:43]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 93#^dc-93-3|D&C 93:3]]
 - [[D&C 14]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 14#^dc-14-9|D&C 14:9]]
+- [[D&C 6]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 6#^dc-6-21|D&C 6:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -140,7 +140,7 @@ Two verbal parallels to earlier scripture are worth studying without overclaimin
 
 > [!evidence] Textual Interrelationship
 > The sequence in 3 Nephi 9:16-17—coming to his own, rejection by his own, and granting divine sonship to those who receive him—closely parallels John 1:11-12. The correspondence is strong evidence of a literary relationship in the transmitted English texts, while its direction and historical explanation remain disputed.
-> — strength 0.7 · confidence 0.9 · disputed, well-framed · [[Textual Interrelationship in 3 Nephi 9|full dossier]]
+> — strength 0.8 · confidence 0.9 · disputed, well-framed · [[Textual Interrelationship in 3 Nephi 9|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

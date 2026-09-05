@@ -117,7 +117,7 @@ Verses 4-27 build a sustained doctrinal argument (the necessity of an infinite a
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Dependence Or Allusion
 > The close verbal correspondence between 2 Nephi 9:50-51 and Isaiah 55:1-2 is strong evidence of literary reuse or deliberate allusion at the level of the received English texts.
-> — strength 0.9 · confidence 0.9 · well-disciplined evidence layer · [[Textual Dependence Or Allusion in 2 Nephi 9|full dossier]]
+> — strength 0.8 · confidence 0.9 · well-disciplined evidence layer · [[Textual Dependence Or Allusion in 2 Nephi 9|full dossier]]
 
 > [!evidence] Internal Literary Consistency *(tentative)*
 > The near-verbatim reuse of Isaiah 55:1 in 2 Nephi 9:50-51 is internally consistent with the Book of Mormon's claim that Nephite writers possessed and quoted an Isaiah text (the brass plates).

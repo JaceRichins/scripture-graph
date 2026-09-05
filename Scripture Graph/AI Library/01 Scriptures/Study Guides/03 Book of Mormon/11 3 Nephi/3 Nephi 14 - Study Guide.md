@@ -114,7 +114,7 @@ The teaching relies on memorable paired contrasts: mote/beam, bread/stone, fish/
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual And Literary Dependence
 > The extensive agreement in content, order, and distinctive English expressions between 3 Nephi 14 and Matthew 7 is strong evidence of a literary relationship or shared English textual form. It is not merely a similarity of general doctrine: the correspondence extends through nearly the whole chapter in the same sequence.
-> — strength 0.9 · confidence 1.0 · Relationship accepted; direction and mechanism disputed · [[Textual And Literary Dependence in 3 Nephi 14|full dossier]]
+> — strength 0.8 · confidence 1.0 · Relationship accepted; direction and mechanism disputed · [[Textual And Literary Dependence in 3 Nephi 14|full dossier]]
 
 > [!evidence] Textual/Literary Parallel *(tentative)*
 > 3 Nephi 14 is verified (by chapter-level text-overlap indexing) to share extensive near-verbatim English wording with KJV Matthew 7 across nearly the entire chapter, a degree of verbal identity far beyond what independent translation of an unrelated ancient text would typically produce by chance.

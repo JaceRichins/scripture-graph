@@ -100,7 +100,7 @@ Abraham 5 is closely related to [[Genesis 2]] and [[Moses 3]], yet close compari
 
 > [!evidence] Textual And Intertextual Comparison
 > The extensive overlap in subject matter, sequence, and wording among Abraham 5, Genesis 2, and Moses 3 strongly establishes a literary relationship among these accounts. Comparison can identify expansions and rearrangements, but textual similarity alone cannot determine the direction of dependence or the historical origin of each formulation.
-> — strength 0.8 · confidence 0.9 · broadly accepted, well-hedged · [[Textual And Intertextual Comparison in Abraham 5|full dossier]]
+> — strength 0.8 · confidence 1.0 · broadly accepted, well-hedged · [[Textual And Intertextual Comparison in Abraham 5|full dossier]]
 
 > [!evidence] Comparative Ancient Near Eastern Religion *(tentative)*
 > Abraham 5's plural "the Gods" language deliberating together over Creation resembles the "divine council" motif documented elsewhere in the Hebrew Bible and ancient Near Eastern literature, where a chief deity is depicted deliberating with subordinate heavenly beings.

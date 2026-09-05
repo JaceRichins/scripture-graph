@@ -100,7 +100,7 @@ The chapter contains a notable difference from its Isaiah parallel. Isaiah 51:19
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Correspondence
 > The close, sustained correspondence of 2 Nephi 8:1–23 with Isaiah 51:1–23 and of 2 Nephi 8:24–25 with Isaiah 52:1–2 is strong evidence of a direct literary relationship with Isaiah.
-> — strength 0.9 · confidence 1.0 · exemplary evidentiary framing, strongly affirmed · [[Textual Correspondence in 2 Nephi 8|full dossier]]
+> — strength 0.8 · confidence 1.0 · exemplary evidentiary framing, strongly affirmed · [[Textual Correspondence in 2 Nephi 8|full dossier]]
 
 > [!evidence] Comparative Ane / Inner-Biblical Literary Pattern *(tentative)*
 > The 'Rahab' and 'dragon' cut and wounded by the arm of the Lord (v.9) draw on a wider ancient Near Eastern idiom of divine combat with a chaos-monster/sea-dragon, an idiom also visible in Job 26:12-13 and Psalm 89:9-10, which this passage then fuses with a historical Exodus memory (drying the sea, v.10).

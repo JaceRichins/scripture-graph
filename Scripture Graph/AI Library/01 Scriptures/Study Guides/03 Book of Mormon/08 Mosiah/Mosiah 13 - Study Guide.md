@@ -120,7 +120,7 @@ The shining-face detail in v.5 casts Abinadi in a Moses-like prophetic role — 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Interdependence
 > The extensive verbal correspondence between Mosiah 13:12-24 and Exodus 20:4-17 strongly supports reading this passage as a deliberate English-language quotation or reproduction of the Decalogue, particularly the Exodus form.
-> — strength 0.8 · confidence 0.9 · exemplary evidentiary framing · [[Textual Interdependence in Mosiah 13|full dossier]]
+> — strength 0.8 · confidence 1.0 · exemplary evidentiary framing · [[Textual Interdependence in Mosiah 13|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

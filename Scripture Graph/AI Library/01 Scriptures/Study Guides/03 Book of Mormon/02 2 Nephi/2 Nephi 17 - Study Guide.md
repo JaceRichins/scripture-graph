@@ -122,7 +122,7 @@ The closing oracle is organized by the repeated phrase “in that day” and a s
 
 > [!evidence] Textual Parallel
 > The extensive verbal overlap between 2 Nephi 17 and Isaiah 7 strongly establishes a direct literary relationship between the chapters. The overlap alone does not determine a complete transmission history or independently establish the antiquity of the Book of Mormon account.
-> — strength 1.0 · confidence 1.0 · Direct literary relationship broadly accepted · [[Textual Parallel in 2 Nephi 17|full dossier]]
+> — strength 0.8 · confidence 1.0 · Direct literary relationship broadly accepted · [[Textual Parallel in 2 Nephi 17|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

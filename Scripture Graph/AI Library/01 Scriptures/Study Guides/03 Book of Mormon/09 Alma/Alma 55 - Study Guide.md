@@ -97,7 +97,7 @@ Wine also links the main episode with the campaign summary. It first enables the
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Characterization
 > The explicit counterfactual in Alma 55:18–19 is strong textual evidence that the narrative's ethical ideal for military leadership includes restraint when killing is unnecessary and prioritizes deliverance over bloodshed. It is not independent evidence of Moroni's historical motives.
-> — strength 0.9 · confidence 1.0 · Strong internal evidence with appropriate limitations · [[Textual Characterization in Alma 55|full dossier]]
+> — confidence 1.0 · Strong internal evidence with appropriate limitations · [[Textual Characterization in Alma 55|full dossier]]
 
 > [!evidence] Internal Narrative Evidence
 > The sequence provides strong internal textual evidence that the narrative evaluates Moroni positively for choosing capture and liberation when he possessed an opportunity to kill incapacitated enemies. This establishes the narrator's ethical framing of this episode, not the historical accuracy of the account or the conformity of every action to modern laws of war.

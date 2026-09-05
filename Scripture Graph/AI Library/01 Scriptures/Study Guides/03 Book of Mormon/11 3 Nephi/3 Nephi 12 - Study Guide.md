@@ -126,7 +126,7 @@ The chapter also adapts the Matthew-like material through references to coming t
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Dependence And Intertextuality
 > The sustained agreement with Matthew 5 in sequence, imagery, and English wording is strong evidence of a direct literary relationship between the two received texts. It is not, by itself, evidence that can determine whether the relationship arose through divine translation into familiar biblical language, deliberate modern composition, or another process.
-> — strength 1.0 · confidence 1.0 · English literary relationship accepted; historical mechanism disputed · [[Textual Dependence And Intertextuality in 3 Nephi 12|full dossier]]
+> — strength 0.8 · confidence 1.0 · English literary relationship accepted; historical mechanism disputed · [[Textual Dependence And Intertextuality in 3 Nephi 12|full dossier]]
 
 > [!evidence] Narrative And Audience Adaptation
 > The coordinated additions and substitutions—coming to Christ, filling with the Holy Ghost, persecution for Christ's name, light of this people, senine, and Jesus alongside the Father as perfect—support the claim that the Matthew-like material has been deliberately adapted to this narrative audience and setting.

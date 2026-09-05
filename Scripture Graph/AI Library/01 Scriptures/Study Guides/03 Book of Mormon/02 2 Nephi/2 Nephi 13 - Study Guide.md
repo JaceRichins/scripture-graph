@@ -94,7 +94,7 @@ Several literary techniques structure the chapter: anaphoric cataloging, used tw
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Intertextuality
 > The sustained textual correspondence between 2 Nephi 13 and Isaiah 3 is strong evidence that 2 Nephi 13 deliberately incorporates the Isaiah passage.
-> — strength 0.9 · confidence 1.0 · confirmed, mechanism honestly left open · [[Textual Intertextuality in 2 Nephi 13|full dossier]]
+> — strength 0.8 · confidence 1.0 · confirmed, mechanism honestly left open · [[Textual Intertextuality in 2 Nephi 13|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
