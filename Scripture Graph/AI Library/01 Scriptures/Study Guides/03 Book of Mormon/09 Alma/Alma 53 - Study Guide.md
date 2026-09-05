@@ -23,7 +23,15 @@ Scripture: [[Alma 53]] · My notes: [[Alma 53 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Aftermath and fortification (53:1–7):** The dead are buried, prisoners are moved and put to work, Bountiful becomes a prison stronghold, and Moroni prepares for further war.
+
+2. **Danger from within (53:8–9):** Dissension and intrigue enable Lamanite advances in the western theater.
+
+3. **The parents' covenant crisis (53:10–15):** The people of Ammon want to defend their protectors but are persuaded not to violate their oath.
+
+4. **The sons' covenant and character (53:16–22):** Sons not bound by the earlier covenant form a defensive force, choose Helaman, and march west.
+
+5. **Chronological close (53:23):** The twenty-eighth year of the judges ends.
 <!-- SG:END structure -->
 
 ## People
@@ -52,19 +60,23 @@ _Not yet developed._
 - [[Alma 62]] — 2 parallel verses, e.g. [[Alma 53#^alma-53-6|Alma 53:6]] ↔ [[Alma 62#^alma-62-30|Alma 62:30]]
 - [[Helaman 6]] — 3 parallel verses, e.g. [[Alma 53#^alma-53-10|Alma 53:10]] ↔ [[Helaman 6#^hel-6-4|Helaman 6:4]]
 - [[3 Nephi 4]] — 2 parallel verses, e.g. [[Alma 53#^alma-53-8|Alma 53:8]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
+- [[Alma 49]] — 0 parallel verses
+- [[Alma 56]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[War and Peace]]
+- [[Freedom and Liberty]]
 - [[Covenants]] *(keyword match — unconfirmed)*
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter offers a situational study of [[Covenants]]. Helaman treats the parents' earlier oath as binding even when compassion makes obedience painful (Alma 53:13–15). The sons, however, had not entered that covenant and therefore make a different covenant to defend liberty and resist bondage (Alma 53:16–18). The clearest principle is fidelity to covenants personally undertaken; the passage should not be turned into a universal endorsement of either pacifism or warfare.
+
+The soldiers' preparation also combines ability with character. Alongside courage, strength, and activity, the narrator emphasizes reliability, [[Truth]], soberness, and [[Obedience]] (Alma 53:20–21).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -93,20 +105,36 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Alma 53:10 marks an explicit narrative turn: “I have somewhat to say concerning the people of Ammon.” The following recap supplies their origins, conversion, relocation, protection, and oath before introducing their sons' force. The chapter ends after Helaman marches at the head of the two thousand, so their covenant and character precede the battle narratives in [[Alma 56]] and [[Alma 57]].
+
+Readers may see a thematic contrast between strong physical defenses and the danger created by internal dissension, but the sequence can also be understood as concurrent reporting from different military theaters. The chapter does not explicitly declare that walls are futile without unity.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Narrative Consistency
+> The agreement among Alma 24, Alma 27, Alma 53, and Alma 56 concerning the people's conversion, anti-bloodshed covenant, Nephite protection, and the sons' military service is strong evidence of deliberate narrative continuity. As evidence about the work's historical origin, however, internal consistency has limited force because an author or editor in any period could construct or harmonize these episodes.
+> — strength 0.4 · confidence 1.0 · Strong literary observation; weak historical evidence · [[Internal Narrative Consistency in Alma 53|full dossier]]
+
+> [!evidence] Internal Narrative Consistency *(tentative)*
+> The fortification method described in Alma 53:3-5 (a ditch, an earthen bank, and a timber breastwork) matches the fortification method the text attributes to Moroni earlier in Alma 49, suggesting internal consistency in how the Nephite record describes military engineering across chapters covering different years.
+> — strength 0.3 · confidence 0.7 · Internal parallel plausible; historical significance weak
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What does “Moroni was compelled” mean in Alma 53:5: strategic necessity, justificatory framing, or both?
+
+- Why does the narrator condemn internal intrigue directly in Alma 53:8–9 while offering no explicit ethical evaluation of compelled prisoner labor in Alma 53:1–5?
+
+- Does “compelled to behold” in Alma 53:15 describe an unavoidable consequence of covenant keeping, emotionally forceful narration, or something else?
+
+- Why are the parents bound to refrain while the sons may covenant to fight? How much explanatory weight does the text place on personal participation in the earlier oath?
+
+- In Alma 53:19, does “never had hitherto been a disadvantage” mean only that the people of Ammon were not a liability, or does the surrounding narrative support a stronger implication?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Alma 24]], [[Alma 27]], [[Alma 53]], and [[Alma 56]] as a sequence, tracking conversion, the covenant against bloodshed, Nephite protection, and the sons' new covenant separately. Compare Alma 53:20–21 with the soldiers' later conduct in [[Alma 57]]. For military construction, compare Bountiful's ditch, earthwork, and timber defenses with [[Alma 49]]. These connections demonstrate substantial narrative continuity, but internal consistency alone cannot establish authorship or historicity.
 <!-- SG:END further-study -->
