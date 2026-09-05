@@ -134,11 +134,11 @@ Enos 1:20 may also be read alongside [[Mosiah 10]], for which the supplied index
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Structure
 > The ordered expansion from Enos's soul to the Nephites and then to the Lamanites is substantial textual evidence that the prayer account has been shaped to portray forgiveness producing widening concern for others.
-> — strength 0.8 · confidence 1.0 · pattern accepted; intentional shaping disputed · [[Literary Structure in Enos 1|full dossier]]
+> — confidence 1.0 · pattern accepted; intentional shaping disputed · [[Literary Structure in Enos 1|full dossier]]
 
 > [!evidence] English Scriptural Intertextuality
 > The English expressions about faith making a person whole and about the blessed entering a prepared place in the Father's mansions closely parallel New Testament language. This is strong evidence that the English text participates in a King James biblical register.
-> — strength 0.9 · confidence 1.0 · accepted English-register observation; origins disputed · [[English Scriptural Intertextuality in Enos 1|full dossier]]
+> — strength 0.8 · confidence 1.0 · accepted English-register observation; origins disputed · [[English Scriptural Intertextuality in Enos 1|full dossier]]
 
 > [!evidence] Theological/Interpretive *(tentative)*
 > Within Latter-day Saint interpretation, Enos's covenant that the Nephite record would be 'brought forth' to the Lamanites in a future day is understood as anticipating the eventual publication of the Book of Mormon.

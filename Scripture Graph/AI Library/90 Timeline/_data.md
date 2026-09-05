@@ -9739,6 +9739,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-eph-6-967ed9b2",
+   "t": "Ephesians composed during a Roman imprisonment (traditional)",
+   "y0": 60,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Paul calls himself 'an ambassador in bonds' (6:20); traditionally linked to the imprisonment in Acts 28, though critical scholars dispute both the exact imprisonment and Pauline authorship itself.",
+   "chapters": [
+    "Ephesians 6"
+   ],
+   "people": [
+    "Paul",
+    "Tychicus"
+   ],
+   "places": [
+    "Rome"
+   ]
+  },
+  {
    "id": "r-esth-1-91f6b731",
    "t": "Ahasuerus (Xerxes I) hosts his third-year feast at Susa",
    "y0": -483,
