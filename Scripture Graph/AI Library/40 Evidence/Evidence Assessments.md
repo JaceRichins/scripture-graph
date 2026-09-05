@@ -185,6 +185,13 @@ The explicit cross-reference to Samuel (3 Nephi 8:3) plus four clustered corresp
 
 Notes: [[Internal Prediction-Fulfillment in 3 Nephi 8]]
 
+### bom-alma24-26-costly-conduct-sincerity
+**Costly conduct (love, weapon-burial, willingness to die) as internal proof of conversion sincerity** — *none* (supports, evidence_strength 0.13) for: The narrated confession/weapon-burial/willingness-to-die progression (Alma 24) and Ammon's later appeal to it (Alma 26) establish the historical genuineness of the converts' sincere conversion, not merely narrate an argument for it.
+
+Ammon explicitly cites the converts' love, weapon-burial, and willingness to die as proof ('witness') of their sincerity, structurally like the registry's collective-witness issues (bom-2nephi11-witness-corroboration, bom-3nephi17-collective-witness-claim). But the conduct and the argument from it both reach the reader through one interested narrator, and this is the same underlying episode narrated in Alma 24, so the two are not independent evidence. Authentic ancient memory, editorial shaping, and modern composition all predict this same costly-conduct-as-proof narrative about equally well, giving only none-band support for the episode's historicity or for any individual convert's actual inward sincerity.
+
+Notes: [[Internal Behavioral Evidence in Alma 26]] · [[Literary And Behavioral Coherence in Alma 24]]
+
 ### bom-alma38-zoramite-narrative-coherence
 **Cross-chapter continuity between the Zoramite mission and Alma's counsel to Shiblon** — *strong* (supports, evidence_strength 0.72) for: The final text deliberately coordinates Alma 38's counsel to Shiblon with the earlier Zoramite mission narrative.
 
@@ -275,6 +282,13 @@ Notes: [[Internal Literary Structure in 1 Nephi 22]]
 The chain of explicit inferential connectives and dependent premises across 23 verses strongly supports reading the passage as one sustained final-form argument. Per the registry bands, 0.65 sits in the strong band, so any 'moderate' label attached to this number is a label/prose mismatch; the number is retained as well supported. This bears only on final-form coherence, not on the truth of the passage's premises or on ancient versus modern authorship.
 
 Notes: [[Internal Literary Structure in 2 Nephi 2]]
+
+### bom-alma25-abinadi-fulfillment-correspondence
+**Final-form prophecy-fulfillment correspondence between Mosiah 17 and Alma 25** — *strong* (supports, evidence_strength 0.8) for: Alma 25's retrospective explanation and Abinadi's predictions in Mosiah 17 reflect deliberate final-form narrative coordination between prophecy and fulfillment.
+
+Alma 25:9-12 names Abinadi and states his words 'were verified,' closely echoing the death-by-fire, hunted/scattered, and 'driven and slain by wild beasts' language of Mosiah 17:15-18. This explicit, verse-level correspondence strongly supports deliberate final-form coordination, matching comparable registered prophecy-fulfillment issues (bom-alma16-prophecy-fulfillment-correspondence 0.84, bom-mosiah11-mosiah21-bondage-fulfillment). Because prediction and fulfillment reach the reader through one continuous narrative source, this gives only none-band support for genuine pre-event prediction, the persecution's historicity, or the record's antiquity.
+
+Notes: [[Internal Literary Coherence in Alma 25]]
 
 ### bom-ether15-prophecy-fulfillment-correspondence
 **Fulfillment correspondence between Ether's warning (Ether 13) and Coriantumr's fall (Ether 15)** — *strong* (supports, evidence_strength 0.8) for: Ether 15's narration of the armies' mutual destruction and Coriantumr's survival is presented by the final text as deliberate fulfillment of Ether's Ether 13 warning
@@ -394,6 +408,13 @@ Notes: [[Internal Narrative And Strategic Evidence in Alma 51]]
 The verse clearly presents Jacob's statement as pre-event prophecy within the narrative, but that placement gives only none-band support for genuine pre-Christian prediction. Ancient prophecy, later shaping, Christianizing translation, and nineteenth-century composition can all produce the same internal chronology without independent dating evidence.
 
 Notes: [[Internal Chronological Evidence in 2 Nephi 6]]
+
+### bom-alma22-geographic-coherence
+**Internal spatial coherence of the Alma 22 geographic summary** — *moderate* (supports, evidence_strength 0.57) for: The interlocking boundaries, regions, travel corridor, population distribution, and defensive strategy in Alma 22:27-34 reflect a deliberately coherent, internally connected spatial model in the final text.
+
+Alma 22:27-34 relates named regions, sea-to-sea boundaries, a narrow neck/strip, a travel measurement, and a stated defensive rationale that fit together without internal contradiction, giving moderate support to deliberate final-form spatial coherence. This is compatible with genuine geographic memory, editorial systematization, or careful literary worldbuilding about equally, so it gives much weaker, largely non-discriminating support for identifying a unique real-world location or for ancient authorship -- a distinct question already tracked separately at bom-3nephi8-geographic-identifiability -- and it does not fix absolute scale or guarantee any one reconstruction is correct.
+
+Notes: [[Internal Geographic Coherence in Alma 22]]
 
 ### bom-3nephi15-john10-intertext
 **Interpretive engagement with John 10:16 in 3 Nephi 15** — *strong* (supports, evidence_strength 0.96) for: The final text of 3 Nephi 15 deliberately quotes and interprets the other-sheep saying preserved in John 10:16.
@@ -562,6 +583,13 @@ Notes: [[Textual Parallel in 3 Nephi 18]]
 The close Luke 18:1 formulation in 2 Nephi 32:9, reinforced by the looser Matthew 7:7 ask-and-knock echo in verse 4, moderately supports deliberate New Testament or KJV-shaped mediation in the final English text. The correspondences do not distinguish translation-level harmonization, revelatory reuse, indirect devotional transmission, or nineteenth-century composition.
 
 Notes: [[Verbal Intertextuality in 2 Nephi 32]]
+
+### bom-alma22-lamoni-father-conversion-parallelism
+**Parallel Lamoni/father conversion accounts as literary patterning** — *moderate* (supports, evidence_strength 0.55) for: The corresponding collapse-and-conversion accounts of Lamoni (Alma 18-19) and his father (Alma 22) reflect intentional literary parallelism in the final text.
+
+Both Lamoni and his father collapse as if dead after praying for divine self-revelation, are attended by household members, and rise to minister to and convert their households, giving moderate support to intentional literary parallelism. This stops short of the higher-strong band because, unlike bom-alma25-abinadi-fulfillment-correspondence, the text contains no explicit internal cross-reference marking the second scene as a deliberate echo of the first, and no verbatim phrase-level match has been demonstrated, only shared structure. It gives only none-band support (about 0.12) for the historicity, medical nature, or divine cause of either underlying event, since independent occurrence, editorial templating, and deliberate composition all predict the same repetition.
+
+Notes: [[Narrative Parallelism in Alma 22]]
 
 ### pgp-abraham-premortal-existence-doctrine
 **Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own bare assertion, that the premortal-existence and foreordination doctrine it teaches derives from an ancient Abrahamic source rather than from Joseph Smith's own developing 19th-century theology.
