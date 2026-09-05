@@ -8105,6 +8105,121 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dan-1-06f428d6",
+   "t": "Nebuchadnezzar's siege of Jerusalem under Jehoiakim",
+   "y0": -605,
+   "y1": -605,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Daniel 1:1 dates the siege to the third year of Jehoiakim; conventionally correlated with c. 605 BC, though this creates a one-year tension with Jeremiah 25:1's dating of Nebuchadnezzar's first year to Jehoiakim's fourth year.",
+   "chapters": [
+    "Daniel 1"
+   ],
+   "people": [
+    "Nebuchadnezzar",
+    "Jehoiakim"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-dan-1-523221f5",
+   "t": "Daniel and companions enter Babylonian court training",
+   "y0": -605,
+   "y1": -605,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Conventional reconstruction correlating Jehoiakim's third regnal year with Nebuchadnezzar's 605 BCE campaign; regnal conventions and the precise Jerusalem event remain disputed.",
+   "chapters": [
+    "Daniel 1"
+   ],
+   "people": [
+    "Daniel",
+    "Nebuchadnezzar",
+    "Hananiah",
+    "Mishael"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ],
+   "things": [
+    "temple vessels",
+    "royal court training"
+   ]
+  },
+  {
+   "id": "r-dan-3-41366000",
+   "t": "Shadrach, Meshach, and Abed-nego cast into the furnace",
+   "y0": -605,
+   "y1": -562,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "No regnal year is given in the Hebrew-Aramaic text; range spans Nebuchadnezzar's reign (605-562 BCE).",
+   "chapters": [
+    "Daniel 3"
+   ],
+   "people": [
+    "Nebuchadnezzar",
+    "Shadrach",
+    "Meshach",
+    "Abed-nego"
+   ],
+   "places": [
+    "Babylon"
+   ],
+   "things": [
+    "golden image",
+    "burning fiery furnace"
+   ]
+  },
+  {
+   "id": "r-dan-5-66cfb8af",
+   "t": "Fall of Babylon to the Medes and Persians",
+   "y0": -539,
+   "y1": -539,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Extrabiblical cuneiform sources (e.g., the Nabonidus Chronicle) place Babylon's capture by Cyrus's forces in 539 BC; Daniel 5 narrates this event as occurring the night of Belshazzar's feast, though the identity of 'Darius the Median' in the biblical account is independently disputed.",
+   "chapters": [
+    "Daniel 5"
+   ],
+   "people": [
+    "Daniel (prophet)",
+    "Belshazzar",
+    "Darius the Median",
+    "Nebuchadnezzar"
+   ],
+   "places": [
+    "Babylon"
+   ]
+  },
+  {
    "id": "r-dan-8-c6f62255",
    "t": "Daniel's vision at Shushan, third year of Belshazzar",
    "y0": -551,
