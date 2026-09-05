@@ -7,22 +7,37 @@ created_by: librarian:job-alma-28-20260905-064509-4514145a
 created_at: '2026-09-05T06:53:11Z'
 evidence_class: internal literary evidence
 claim_confidence: 0.95
-evidence_strength: 0.9
 study_relevance: 0.85
 source_quality: 1.0
 consensus_status: broadly accepted
+note_kind: context
+calibrated_at: '2026-09-05T07:32:45Z'
+calibration_version: 2
 ---
 
 # Internal Literary Evidence in Alma 28
 
 ## Summary
 <!-- SG:BEGIN summary -->
-The repeated formula 'and thus we see' explicitly marks verses 13–14 as narrator-supplied lessons drawn from the preceding history. This is strong internal evidence that the chapter is didactic narration rather than an unmediated battle report.
-
-**Does not establish:** It does not establish the narrator's historical identity, the antiquity of the account, or the historical accuracy of the reported events.
-
-**Alternative explanations:**
-- The formula may be a conventional narrative transition as well as an explicit signal of moral interpretation.
-
-**Scripture:** [[Alma 28#^alma-28-13|Alma 28:13]], [[Alma 28#^alma-28-14|Alma 28:14]]
+The repeated formula "and thus we see" in [[Alma 28#^alma-28-13|Alma 28:13]] and [[Alma 28#^alma-28-14|Alma 28:14]] marks an explicit transition from narrated events to narrator-supplied lessons. The chapter closes by interpreting conflict and death through themes of sin, diligence, sorrow, and Christian hope.
 <!-- SG:END summary -->
+
+## Observation
+<!-- SG:BEGIN observation -->
+Alma 28:13–14 repeats the formula "and thus we see" three times while drawing lessons about inequality, sin, diligence, sorrow, and joy from the preceding narrative.
+<!-- SG:END observation -->
+
+## Interpretation
+<!-- SG:BEGIN interpretation -->
+The repeated formula marks a shift from recounting events to explicit narratorial interpretation. The narrator tells readers which theological and moral lessons to draw from the chapter.
+<!-- SG:END interpretation -->
+
+## Historical Significance
+<!-- SG:BEGIN historical-significance -->
+The passage illustrates didactic historical narration: reported events are selected and interpreted within a moral framework rather than presented as a neutral chronicle.
+<!-- SG:END historical-significance -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+In moralizing historiography, narrators commonly pause the story to state its meaning. Here the repeated formula creates a compact interpretive conclusion in which warfare and death become a lesson about sin, Christian labor, grief, and hope.
+<!-- SG:END how-it-fits -->

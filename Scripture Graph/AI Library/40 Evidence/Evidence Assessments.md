@@ -570,6 +570,13 @@ The explicit third-person narratorial commentary in 55:19 ('he did not delight i
 
 Notes: [[Internal Narrative Evidence in Alma 55]]
 
+### bom-alma3-record-accuracy-self-attestation
+**Nephite self-attestation of record accuracy in Alma 3** — *none* (supports, evidence_strength 0.12) for: Alma 3:11-12's claim that the Nephite records are the 'true' records independently corroborates the historical accuracy and impartiality of the Nephite account of the Nephite-Lamanite conflict.
+
+Alma 3:11-12 has the narrator assert that Nephite record-keepers held the true records of both peoples, but this is self-attestation within the very record being assessed, not independent corroboration. Sincere ancient record-keeping, one-sided ancient historiography, rhetorical self-authorization, and modern composition all predict the identical claim about equally well. This mirrors the registry's treatment of the same evidence class elsewhere (bom-2nephi11-witness-corroboration 0.12, bom-3nephi17-collective-witness-claim 0.14, bom-3nephi7-collective-witness-claim 0.14, bom-alma24-26-costly-conduct-sincerity 0.13), which are kept contested at none-band rather than demoted, because self-attestation-as-corroboration is a move genuinely made and contested in Book of Mormon apologetics.
+
+Notes: [[Internal Source Claim in Alma 3]]
+
 ### bom-3nephi18-lords-supper-intertext
 **New Testament Lord's Supper Intertextuality in 3 Nephi 18** — *strong* (supports, evidence_strength 0.68) for: The final form of 3 Nephi 18 deliberately participates in or is mediated through the New Testament Lord's Supper textual and liturgical tradition.
 
@@ -646,6 +653,13 @@ Notes: [[Internal Narrative Pattern in Ether 11]]
 The later chapters unmistakably give the principal dream images symbolic meanings, but unified planning and later interpretive systematization predict this final-form coordination about equally. It therefore supplies none-band support for unified original composition and no independent support for antiquity, historicity, or inspiration.
 
 Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
+
+### bom-alma30-jacob7-antichrist-pattern
+**Sherem-Korihor Narrative Patterning** — *moderate* (supports, evidence_strength 0.58) for: The final form of Alma 30 deliberately patterns the Korihor narrative on, or alongside, the Sherem narrative in Jacob 7.
+
+The ordered challenge, sign-demand, affliction, and confession parallels between Korihor (Alma 30) and Sherem (Jacob 7) moderately support deliberate final-form patterning, but Korihor's death is a delayed mob killing among a separate people rather than a proximate consequence of his affliction, unlike Sherem's. The divergent death beat, the small pool of only two clear anti-Christ figures in the text (limiting how diagnostic the match can be), the availability of a conventional cautionary-narrative template, and missing matched controls keep this below the strong band and leave the transmission mechanism, direction, and historicity unresolved.
+
+Notes: [[Literary Intertextuality in Alma 30]]
 
 ### bom-alma54-logistics-motive-evidence
 **Stated logistical (food-provisioning) motive in the Moroni-Ammoron prisoner exchange (Alma 54)** — *strong* (supports, evidence_strength 0.78) for: The final text explicitly attributes preservation of food/provisions for one's own forces as a stated motive for the prisoner exchange, for both Moroni and Ammoron
