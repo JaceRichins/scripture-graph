@@ -59,6 +59,13 @@ Matching circumstances (same command, same destination, same companion Lot) make
 
 Notes: [[Cross-Text Chronological Tension in Abraham 2]]
 
+### bom-alma32-experiment-epistemology
+**Alma 32's 'experiment upon the word' as a reliable, non-circular way of knowing versus confirmation bias/unfalsifiability** — *none* (neutral, evidence_strength 0.1) for: The staged experiential process in Alma 32 (desire, noticed inward change, continued cultivation, mature fruit) provides genuine, non-circular verification of the tested proposition's truth, beyond what ordinary expectation and confirmation-bias effects would independently produce.
+
+Alma 32 stages a real, self-aware experiential process and explicitly limits the resulting knowledge to 'that thing' rather than claiming full proof, but critics have long argued the passage is functionally unfalsifiable, since any perceived inward change counts as confirmation and its absence is attributed to the hearer's own unbelief (v.28). Because ordinary expectation and confirmation-bias effects predict the same self-reported 'swelling' and 'enlightening' about as well as genuine spiritual discernment would, and the text supplies no way to distinguish the two from inside the experience, this gives only none-band support for treating the process as independently reliable evidence.
+
+Notes: [[Internal Epistemology in Alma 32]]
+
 ### bom-alma36-vision-echo-antiquity
 **Alma 36's Lehi-vision echo as evidence of ancient origin** — *none* (neutral, evidence_strength 0.08) for: Alma 36:22's deliberate recall of Lehi's vision is evidence that the Book of Mormon's final-form literary cohesion derives from an ancient record or tradition rather than modern authorship or editing.
 
