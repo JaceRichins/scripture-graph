@@ -17,13 +17,20 @@ Scripture: [[Ether 12]] · My notes: [[Ether 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> The prophet Ether exhorts the people to believe in God—Moroni recounts the wonders and marvels done by faith—Faith enabled the brother of Jared to see Christ—The Lord gives men weakness that they may be humble—The brother of Jared moved Mount Zerin by faith—Faith, hope, and charity are essential to salvation—Moroni saw Jesus face to face.
+Ether's unsuccessful warning to Coriantumr's people prompts Moroni's extended meditation on [[Faith]]. He argues that faith precedes witness, illustrates that principle with earlier sacred history, and then turns to his fear that future Gentiles will mock his writing. The Lord's response joins [[Humility]] and [[Grace]]: acknowledged weakness can become a setting for divine strength. The closing movement adds [[Hope]] and [[Charity]], Moroni's personal witness of Jesus, and an invitation to seek Christ.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Ether's ministry and rejection (vv. 1–5):** Ether calls the people to faith and repentance, but they reject unseen warnings.
+
+2. **Faith before witness (vv. 6–22):** Moroni states the principle and supplies examples of manifestations, miracles, promises, and fulfilled missions.
+
+3. **Weak writing and sufficient grace (vv. 23–29):** Moroni voices his fear of mockery; the Lord answers that weakness can produce humility and become strength through grace.
+
+4. **Faith, hope, and charity (vv. 30–37):** Moroni applies the answer to heavenly inheritance and to Christ's love, then prays for future readers.
+
+5. **Farewell and witness (vv. 38–41):** Moroni anticipates judgment, testifies of seeing Jesus, and commends readers to seek him.
 <!-- SG:END structure -->
 
 ## People
@@ -52,10 +59,14 @@ _Not yet developed._
 - [[Enos 1]] — 3 footnote cross-references (from [[Ether 12#^ether-12-2|Ether 12:2]])
 - [[1 Corinthians 13]] — 3 footnote cross-references (from [[Ether 12#^ether-12-3|Ether 12:3]])
 - [[D&C 135]] — 3 parallel verses, e.g. [[Ether 12#^ether-12-37|Ether 12:37]] ↔ [[D&C 135#^dc-135-5|D&C 135:5]]
-- [[Ether 3]] — 2 parallel verses, e.g. [[Ether 12#^ether-12-19|Ether 12:19]] ↔ [[Ether 3#^ether-3-20|Ether 3:20]]
 - [[1 Nephi 18]] — 2 parallel verses, e.g. [[Ether 12#^ether-12-36|Ether 12:36]] ↔ [[1 Nephi 18#^1ne-18-21|1 Nephi 18:21]]
 - [[3 Nephi 12]] — 2 parallel verses, e.g. [[Ether 12#^ether-12-14|Ether 12:14]] ↔ [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]]
 - [[3 Nephi 9]] — 1 parallel verse, e.g. [[Ether 12#^ether-12-14|Ether 12:14]] ↔ [[3 Nephi 9#^3ne-9-20|3 Nephi 9:20]]
+- [[Ether 3]] — 0 parallel verses
+- [[Hebrews 11]] — 0 parallel verses
+- [[Hebrews 6]] — 0 parallel verses
+- [[John 14]] — 0 parallel verses
+- [[D&C 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,13 +77,13 @@ _Not yet developed._
 - [[Grace]]
 - [[Miracles]]
 - [[Adversity]]
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
-- [[Charity]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]]
+- [[Records and Sacred Writings]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter does not present faith as mere assent. Its exemplary faith acts, endures uncertainty, and precedes the witness being sought. [[Hope]] grows from that faith and stabilizes conduct; [[Charity]] is identified with Christ's self-giving love; and [[Grace]] works with humility and faith to transform weakness. Verse 27 should not be used to promise that every disability, struggle, or limitation will disappear in mortality—the verse does not specify the timing or outward form of becoming strong.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -105,25 +116,32 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Moroni moves between the singular **weakness** in verse 27 and the more concrete weakness or awkwardness of writing in verses 23–25 and 40. The immediate example is rhetorical and literary limitation, but “men” and “all men” give the teaching wider scope. The wording therefore supports a general application while cautioning against interpreting “weakness” as a precise claim that God directly assigns every individual sin or affliction.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The repeated formulas "by faith" and "after their faith" unify verses 7-22, turning earlier narratives—including [[Ether 3]], [[Alma 14]], [[Helaman 5]], and [[3 Nephi 28]]—into a cumulative argument by anaphora. The chapter closely echoes [[Hebrews 11]] in defining faith through unseen hopes before listing exemplars. Its anchor image echoes [[Hebrews 6]] even at the phrase level: Ether 12:4's "sure and steadfast" matches Hebrews 6:19's "sure and stedfast," and both passages associate the anchor with passing within the veil (compare vv.19, 21). The prepared-place language in verses 32-34 similarly echoes [[John 14]]. These are real textual correspondences, but they cannot by themselves decide a theory of composition or translation.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual Interrelationship
+> The concentration of New Testament-like language is strong evidence of textual interrelationship at the level of the English wording, but it is weak evidence for choosing among historical explanations for that relationship.
+> — strength 0.6 · confidence 0.9 · honest strong-textual/weak-historical distinction · [[Textual Interrelationship in Ether 12|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does "no witness until after the trial of your faith" describe a universal timetable, or Moroni's recurring theological pattern?
+- What kinds of strength might verse 27 include besides removal of a limitation?
+- Why does Moroni answer anticipated mockery by praying for the readers' charity rather than asking for a more polished record?
+- How do faith, hope, and charity perform distinct roles in the chapter rather than functioning as interchangeable virtues?
+- The "talent" language in verse 35 echoes the Parable of the Talents (Matthew 25:14-30); what does that parallel add to Moroni's warning to the Gentiles?
+- Mount Zerin is named nowhere else in scripture; what, if anything, should a reader make of a unique, otherwise unattested place name?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the summaries in Ether 12 with their fuller narratives: the brother of Jared in [[Ether 3]], Alma and Amulek in [[Alma 14]], Nephi and Lehi in [[Helaman 5]], and the three disciples in [[3 Nephi 28]]. Then compare Ether 12:4–6 with [[Hebrews 6]] and [[Hebrews 11]], and Ether 12:32–34 with [[John 14]]. Note both the genuine correspondences and the additional interpretive work Moroni performs.
 <!-- SG:END further-study -->
