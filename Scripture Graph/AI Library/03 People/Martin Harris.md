@@ -38,6 +38,8 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 1829** — Revelation concerning Martin Harris's requested witness · [[D&C 5]] · [[AD 1801-1900]] *(historical)*
+- **AD 1829** — Three Witnesses Testify of the Book of Mormon Plates · [[D&C 5]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — The translation by gift and power · [[D&C 3]] · [[D&C 10]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — The Three and the Eight see the plates · [[D&C 17]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — The Book of Mormon published; the Church organized · [[D&C 20]] · [[D&C 21]] · [[AD 1801-1900]] *(historical)*

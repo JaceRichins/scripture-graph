@@ -8817,6 +8817,79 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-4-4c0eff00",
+   "t": "D&C 4 given to Joseph Knight Sr. in Harmony, Pennsylvania",
+   "y0": 1829,
+   "y1": 1829,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Section heading and the Joseph Smith Papers Project date this revelation to February 1829, during the Book of Mormon translation.",
+   "chapters": [
+    "D&C 4"
+   ],
+   "people": [
+    "Joseph Smith Jr.",
+    "Joseph Knight Sr."
+   ],
+   "places": [
+    "Harmony, Pennsylvania"
+   ]
+  },
+  {
+   "id": "r-dc-5-0ccfff14",
+   "t": "Revelation concerning Martin Harris's requested witness",
+   "y0": 1829,
+   "y1": 1829,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "D&C 5 is historically dated to March 1829, during the Book of Mormon translation period and before the promised witnesses received their viewing commission.",
+   "chapters": [
+    "D&C 5"
+   ],
+   "people": [
+    "Joseph Smith Jr",
+    "Martin Harris"
+   ],
+   "things": [
+    "plates",
+    "Book of Mormon translation"
+   ]
+  },
+  {
+   "id": "r-dc-5-f844e086",
+   "t": "Three Witnesses Testify of the Book of Mormon Plates",
+   "y0": 1829,
+   "y1": 1829,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "visions"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The Book of Mormon's printed 'Testimony of Three Witnesses' states that Oliver Cowdery, David Whitmer, and Martin Harris saw an angel and the plates by the power of God; this is traditionally understood as fulfilling the promise made in D&C 5:11-15.",
+   "chapters": [
+    "D&C 5"
+   ],
+   "people": [
+    "Martin Harris",
+    "Oliver Cowdery",
+    "David Whitmer"
+   ]
+  },
+  {
    "id": "r-dc-52-622abfbd",
    "t": "June 1831 conference and dispatch of elders to Missouri",
    "y0": 1831,
@@ -9134,6 +9207,32 @@ timeline module, not this file._
    ],
    "things": [
     "Bishop's storehouse"
+   ]
+  },
+  {
+   "id": "r-dc-8-caae2a36",
+   "t": "Revelation to Oliver Cowdery concerning spiritual gifts",
+   "y0": 1829,
+   "y1": 1829,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The Joseph Smith Papers dates the revelation to April 1829, during Oliver Cowdery's early work with Joseph Smith.",
+   "chapters": [
+    "D&C 8"
+   ],
+   "people": [
+    "Oliver Cowdery",
+    "Joseph Smith"
+   ],
+   "things": [
+    "ancient records",
+    "gift of Aaron"
    ]
   },
   {

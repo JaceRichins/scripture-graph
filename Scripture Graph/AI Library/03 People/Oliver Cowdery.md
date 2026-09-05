@@ -41,6 +41,8 @@ _Not yet developed._
 - **AD 1829** — Priesthood restored by John the Baptist · [[D&C 13]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — Aaronic Priesthood restored near the Susquehanna River · [[D&C 13]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — D&C 18 given to Oliver Cowdery and David Whitmer · [[D&C 18]] · [[AD 1801-1900]] *(historical)*
+- **AD 1829** — Three Witnesses Testify of the Book of Mormon Plates · [[D&C 5]] · [[AD 1801-1900]] *(historical)*
+- **AD 1829** — Revelation to Oliver Cowdery concerning spiritual gifts · [[D&C 8]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — The translation by gift and power · [[D&C 3]] · [[D&C 10]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — The Three and the Eight see the plates · [[D&C 17]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — The Book of Mormon published; the Church organized · [[D&C 20]] · [[D&C 21]] · [[AD 1801-1900]] *(historical)*
@@ -48,8 +50,6 @@ _Not yet developed._
 - **AD 1830** — Revelation calling five early disciples to preach and exhort · [[D&C 23]] · [[AD 1801-1900]] *(historical)*
 - **AD 1830** — D&C 28 given, addressing Hiram Page revelations · [[D&C 28]] · [[AD 1801-1900]] *(historical)*
 - **AD 1831** — Revelation given at Independence, Jackson County, Missouri · [[D&C 57]] · [[AD 1801-1900]] *(historical)*
-- **AD 1831** — Elders' return journey from Zion via St. Louis and Cincinnati · [[D&C 60]] · [[AD 1801-1900]] *(historical)*
-- **AD 1831** — D&C 68 given at a conference of elders, Hiram, Ohio · [[D&C 68]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

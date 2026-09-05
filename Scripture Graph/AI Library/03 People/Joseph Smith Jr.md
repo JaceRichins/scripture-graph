@@ -54,10 +54,10 @@ _Not yet developed._
 - **AD 1829** — D&C 11 given to Hyrum Smith during Book of Mormon translation · [[D&C 11]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — Aaronic Priesthood restored near the Susquehanna River · [[D&C 13]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — D&C 18 given to Oliver Cowdery and David Whitmer · [[D&C 18]] · [[AD 1801-1900]] *(historical)*
+- **AD 1829** — D&C 4 given to Joseph Knight Sr. in Harmony, Pennsylvania · [[D&C 4]] · [[AD 1801-1900]] *(historical)*
+- **AD 1829** — Revelation concerning Martin Harris's requested witness · [[D&C 5]] · [[AD 1801-1900]] *(historical)*
+- **AD 1829** — Revelation to Oliver Cowdery concerning spiritual gifts · [[D&C 8]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — The translation by gift and power · [[D&C 3]] · [[D&C 10]] · [[Joseph Smith—History 1]] · [[AD 1801-1900]] *(historical)*
-- **AD 1830** — The Book of Mormon published; the Church organized · [[D&C 20]] · [[D&C 21]] · [[AD 1801-1900]] *(historical)*
-- **AD 1830** — Organization of the Church of Christ, April 6, 1830 · [[D&C 20]] · [[AD 1801-1900]] *(historical)*
-- **AD 1830** — D&C 28 given, addressing Hiram Page revelations · [[D&C 28]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
