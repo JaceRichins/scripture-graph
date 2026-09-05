@@ -17,13 +17,15 @@ Scripture: [[Alma 49]] · My notes: [[Alma 49 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> The invading Lamanites are unable to take the fortified cities of Ammonihah and Noah—Amalickiah curses God and swears to drink the blood of Moroni—Helaman and his brethren continue to strengthen the Church. About 72 B.C.
+Alma 49 narrates a campaign won largely before close combat begins. The invaders approach Ammonihah with superior numbers and memories of an earlier easy victory, but Moroni has changed the defensive situation (Alma 49:1–11). Their fallback target, Noah, has also been strengthened in anticipation of precisely this move (Alma 49:12–20). A costly assault fails, after which the narrative contrasts Amalickiah's rage with Nephite [[Gratitude]] and closes with peace and sustained [[Missionary Work]] (Alma 49:21–30).
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Failed expectation at Ammonihah (49:1–11):** Former weakness has become prepared strength.
+2. **Anticipated movement to Noah (49:12–17):** Moroni has predicted the enemy's fallback, and Lehi's presence adds deterrence.
+3. **Assault and defeat (49:18–25):** A controlled entrance, elevated missiles, and armor produce the reported casualty disparity.
+4. **Contrasting responses and aftermath (49:26–30):** Amalickiah curses and threatens; the Nephites give thanks; preaching and attention to God's word continue.
 <!-- SG:END structure -->
 
 ## People
@@ -52,18 +54,18 @@ _Not yet developed._
 - [[Alma 50]] — 2 footnote cross-references (from [[Alma 49#^alma-49-4|Alma 49:4]])
 - [[Alma 51]] — 2 footnote cross-references (from [[Alma 49#^alma-49-25|Alma 49:25]])
 - [[Alma 43]] — 4 parallel verses, e.g. [[Alma 49#^alma-49-28|Alma 49:28]] ↔ [[Alma 43#^alma-43-9|Alma 43:9]]
+- [[Alma 43]] — 0 parallel verses
 - [[Alma 50]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The theological claim is not that preparation makes divine help unnecessary. Alma 49:27 calls Moroni's preparation for safety an act of [[Obedience]], and Alma 49:28 attributes deliverance to God's power. The chapter therefore presents prudent labor and reliance on God together. Its final verse similarly connects communal spiritual health with active teaching, [[Baptism]], [[Repentance]], and diligent attention to God's word.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -82,12 +84,12 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Repeated forms of **supposed**, **astonished**, and **disappointed** organize the military narrative (Alma 49:3–17). The repetition emphasizes a widening gap between what the invaders think they know and what Moroni has prepared. Identity language is also significant: “Lamanites, or the Amalickiahites” and “Amalickiah, who was a Nephite by birth” indicate that the conflict's labels can be political as well as genealogical (Alma 49:9, 25).
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter repeatedly reverses expectations: destroyed Ammonihah has been rebuilt, weak Noah has become stronger than Ammonihah, numerical confidence meets positional disadvantage, and attackers prepared with armor face defenders whose arrangements they have never encountered. The closing antithesis is especially concentrated: Amalickiah curses God and swears for Moroni's blood, while the Nephites thank God for deliverance (Alma 49:27–28). Compare Moroni's characterization and preparations in [[Alma 48]] and the continuation of fortification in [[Alma 50]].
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -97,7 +99,11 @@ _Not yet developed._
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How much of the victory does the text attribute to fortification, intelligence, leadership, armor, and divine action respectively?
+- Why does the narrator emphasize what the Lamanites “supposed” and how often they were astonished or disappointed?
+- Does the captains' oath demonstrate courage, pride, coercive leadership, or some combination of these?
+- What does the label “Amalickiahites” suggest about political identity within the larger Lamanite force?
+- Why does a military chapter end with preaching, baptism, and attention to the word of God?
 <!-- SG:END questions -->
 
 ## Further Study
