@@ -59,6 +59,13 @@ Several close phrase-and-sequence correspondences, especially the Matthew 3:10 p
 
 Notes: [[English Textual Intertextuality in Alma 5]]
 
+### bom-2nephi25-biblical-intertextuality
+**Biblical and KJV Mediation in 2 Nephi 25** — *strong* (supports, evidence_strength 0.73) for: The final English discourse of 2 Nephi 25 deliberately incorporates language and motifs corresponding to Numbers 21, Isaiah 11 and 29, Malachi 4, and Acts 4, strongly supporting biblical and KJV-shaped mediation.
+
+The dense multi-book cluster strongly supports deliberate biblical and KJV-shaped mediation in 2 Nephi 25's final English form. The Acts- and Malachi-like wording creates tension for strict pre-Christian-verbatim wording, while loose translation, revelatory harmonization, and nineteenth-century composition remain viable; the cluster is not independent of the broader KJV-mediation evidence.
+
+Notes: [[Literary Intertextuality in 2 Nephi 25]]
+
 ### bom-3nephi7-petrine-proverb-dependence
 **Biblical mediation of the paired dog-and-sow proverb in 3 Nephi 7** — *strong* (supports, evidence_strength 0.84) for: The received English wording of 3 Nephi 7:8 deliberately draws on or is mediated through the paired proverb in 2 Peter 2:22.
 
@@ -311,6 +318,13 @@ The verse clearly presents Jacob's statement as pre-event prophecy within the na
 
 Notes: [[Internal Chronological Evidence in 2 Nephi 6]]
 
+### bom-2nephi1-isaiah52-intertext
+**Isaiah 52 Reuse in 2 Nephi 1** — *strong* (supports, evidence_strength 0.65) for: The final English text of 2 Nephi 1 deliberately reuses the awakening, rising-from-dust, bonds, and captivity language of Isaiah 52:1–2.
+
+The combined imperatives to awake, arise from dust, and shake off bonds strongly support deliberate reuse of the Isaiah 52:1–2 awakening-and-release complex. The lower-strong weight reflects the composite passage-level match while allowing for common biblical vocabulary, a large comparison space, and missing matched controls.
+
+Notes: [[Literary Intertextuality in 2 Nephi 1]]
+
 ### pgp-abraham1-genesis12-intertextuality
 **Literary relationship between Abraham 1 and the Genesis 12 call narrative** — *moderate* (supports, evidence_strength 0.58) for: Abraham 1:16 and 1:19 deliberately participate in the Genesis 12 call tradition in the received English text.
 
@@ -389,11 +403,11 @@ Joseph Smith—History explicitly presents the episode as Harris's retrospective
 Notes: [[Embedded Secondhand Testimony in Joseph Smith—History 1]]
 
 ### bom-1nephi14-revelation17-intertext
-**Revelation 17 Imagery in 1 Nephi 14** — *moderate* (supports, evidence_strength 0.55) for: The final text of 1 Nephi 14:11 has a specific literary or translation-level relationship to Revelation 17:1 beyond merely sharing generic imagery of power associated with waters.
+**Revelation 17 Imagery in 1 Nephi 14** — *moderate* (supports, evidence_strength 0.55) for: The final text of 1 Nephi 14 deliberately evokes the imagery and language represented in Revelation 17.
 
 The concentrated whore, sitting, and many-waters cluster gives moderate support to a deliberate Revelation-linked echo in the final text. Older Babylon imagery and pervasive KJV mediation leave direct adaptation, shared apocalyptic tradition, and translation-level harmonization viable, and the parallel independently establishes neither antiquity nor inspiration.
 
-Notes: [[Intertextual Literary Parallel in 1 Nephi 14]]
+Notes: [[Intertextual Literary Parallel in 1 Nephi 14]] · [[Literary Intertextuality in 1 Nephi 14]]
 
 ### bom-ether11-secret-combinations-pattern
 **Secret combinations as a recurring narrative cause of Jaredite instability (Ether 11)** — *strong* (supports, evidence_strength 0.78) for: Ether 11's final text deliberately presents organized secret combinations as a recurring cause linked to refusal of prophetic warning, rebellion, and societal destruction across the chapter's episodes
