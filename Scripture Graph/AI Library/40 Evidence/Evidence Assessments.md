@@ -297,6 +297,13 @@ Abinadi's dying words include a specific prediction that his persecutors, includ
 
 Notes: [[Intratextual Prophetic Correspondence in Mosiah 19]]
 
+### bom-moroni10-hebrews13-intertext
+**Hebrews 13:8 intertextuality in Moroni 10:19** — *moderate* (supports, evidence_strength 0.58) for: Moroni 10:19's ordered description of Christ as the same yesterday, today, and forever reflects textual or traditional mediation through the formula represented in Hebrews 13:8.
+
+The ordered yesterday-today-forever formula applied to Christ moderately supports a Hebrews-related textual or devotional relationship in Moroni 10:19. Its brevity, portability in Christian discourse, and missing matched-corpus denominator prevent a strong assessment and leave direct reuse, indirect reception, and KJV-shaped translation unresolved.
+
+Notes: [[VerbalTextual Echo in Moroni 10]]
+
 ### bom-2nephi11-historical-editorial-selection
 **Historical force of the narratorial selection statement in 2 Nephi 11** — *none* (supports, evidence_strength 0.1) for: The statement supports the existence of an actual ancient narrator-editor named Nephi who selected and omitted Jacob's teachings while producing a historical record.
 
@@ -480,11 +487,11 @@ The adjacent judgment-of-Israel and blood-whitened-garments correspondences stro
 Notes: [[Scriptural Intertextuality in 1 Nephi 12]]
 
 ### bom-3nephi10-matthew23-intertext
-**Matthew 23:37 intertextuality in 3 Nephi 10:4–6** — *strong* (supports, evidence_strength 0.84) for: The final form of 3 Nephi 10:4–6 deliberately reuses or engages the Jerusalem-and-hen lament preserved in Matthew 23:37.
+**Matthew 23:37 intertextuality in 3 Nephi 10:4–6** — *strong* (supports, evidence_strength 0.84) for: The final text of 3 Nephi 10:4–6 deliberately engages the Jerusalem lament represented in Matthew 23:37.
 
-The distinctive gathering language, hen-and-chickens image, wings, Israel/Jerusalem setting, refusal, and threefold temporal adaptation strongly support deliberate final-form engagement with Matthew 23:37. The relationship does not determine whether its mechanism was historical repetition, KJV-shaped translation, revelatory harmonization, or nineteenth-century adaptation, and it is not independent of the broader Matthew/KJV-mediation pattern.
+The concentrated whore, sitting, and many-waters cluster gives moderate support to a deliberate Revelation-linked echo in the final text.
 
-Notes: [[Verbal And Thematic Intertext in 3 Nephi 10]]
+Notes: [[Verbal And Thematic Intertext in 3 Nephi 10]] · [[Verbatim Textual Parallel in 3 Nephi 10]]
 
 ### bom-3nephi-matthew-kjv-dependence
 **Matthew/KJV Mediation of the Sermon Material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The final English sermon material in 3 Nephi is textually mediated through or deliberately related to Matthew and its KJV form.
@@ -541,6 +548,13 @@ Notes: [[Internal Narrative Evidence in Alma 55]]
 The ordered ritual actions together with the bread, wine, body, blood, and remembrance cluster strongly support participation in the New Testament Lord's Supper tradition. Formulaic ritual language and viable historical-repetition, liturgical-transmission, translation-harmonization, and modern-synthesis models prevent identifying a particular source or historical mechanism.
 
 Notes: [[Textual Parallel in 3 Nephi 18]]
+
+### bom-2nephi32-new-testament-intertext
+**New Testament prayer-language intertextuality in 2 Nephi 32** — *moderate* (supports, evidence_strength 0.48) for: The final English text of 2 Nephi 32 deliberately engages New Testament wording represented by Matthew 7:7 and Luke 18:1.
+
+The close Luke 18:1 formulation in 2 Nephi 32:9, reinforced by the looser Matthew 7:7 ask-and-knock echo in verse 4, moderately supports deliberate New Testament or KJV-shaped mediation in the final English text. The correspondences do not distinguish translation-level harmonization, revelatory reuse, indirect devotional transmission, or nineteenth-century composition.
+
+Notes: [[Verbal Intertextuality in 2 Nephi 32]]
 
 ### pgp-abraham-premortal-existence-doctrine
 **Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own bare assertion, that the premortal-existence and foreordination doctrine it teaches derives from an ancient Abrahamic source rather than from Joseph Smith's own developing 19th-century theology.
