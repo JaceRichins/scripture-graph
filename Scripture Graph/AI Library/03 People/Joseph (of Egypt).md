@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **1900 BC–1850 BC** — Jacob adopts and blesses Ephraim and Manasseh in Egypt · [[Genesis 48]] · [[1900-1801 BC]] *(traditional dating)*
 - **1451 BC** — Moses blesses the tribes of Israel before his death · [[Deuteronomy 33]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1445 BC** — Israel's departure from Egypt and early wilderness journey · [[Exodus 13]] · [[1500-1401 BC]] *(traditional dating)*
 - **AD 34** — Jesus explains fulfillment and the other sheep · [[3 Nephi 15]] · [[AD 1-100]] *(approximate)*

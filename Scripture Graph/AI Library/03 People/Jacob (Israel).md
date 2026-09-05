@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **1900 BC–1850 BC** — Jacob adopts and blesses Ephraim and Manasseh in Egypt · [[Genesis 48]] · [[1900-1801 BC]] *(traditional dating)*
 - **1406 BC** — Baal-peor apostasy recalled in Hosea 9:10 · [[Hosea 9]] · [[1500-1401 BC]] *(traditional dating)*
 - **755 BC–687 BC** — Hosea's ministry across Judean and Israelite reigns · [[Hosea 1]] · [[800-701 BC]] *(traditional dating)*
 

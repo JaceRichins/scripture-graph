@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **1900 BC–1850 BC** — Jacob adopts and blesses Ephraim and Manasseh in Egypt · [[Genesis 48]] · [[1900-1801 BC]] *(traditional dating)*
 - **1740 BC–1710 BC** — Joseph sold into Egypt; rises to rule · [[Genesis 37]] · [[Genesis 39]] · [[Genesis 41]] · [[1800-1701 BC]] *(approximate)*
 - **1526 BC** — Moses drawn from the Nile · [[Exodus 2]] · [[1600-1501 BC]] *(traditional dating)*
 - **1491 BC–1445 BC** — Giving of the Ten Commandments at Sinai · [[Exodus 20]] · [[1500-1401 BC]] *(traditional dating)*
@@ -47,7 +48,6 @@ _Not yet developed._
 - **1406 BC** — Deuteronomy 15 sabbatical release laws given · [[Deuteronomy 15]] · [[1500-1401 BC]] *(traditional dating)*
 - **926 BC–925 BC** — Shishak (Shoshenq I) invades Judah · [[2 Chronicles 12]] · [[1000-901 BC]] *(historical)*
 - **740 BC–700 BC** — Isaiah's oracle against Egypt delivered · [[Isaiah 19]] · [[800-701 BC]] *(traditional dating)*
-- **671 BC–663 BC** — Assyrian conquest and sack of Egypt under Esarhaddon and Ashurbanipal · [[Isaiah 19]] · [[700-601 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

@@ -10740,6 +10740,58 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-gen-48-3e7a83c4",
+   "t": "Jacob adopts and blesses Ephraim and Manasseh in Egypt",
+   "y0": -1900,
+   "y1": -1850,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed near the end of Jacob's life in Egypt, shortly before his death (Genesis 49), within the traditional patriarchal chronology derived from Genesis genealogies.",
+   "chapters": [
+    "Genesis 48"
+   ],
+   "people": [
+    "Jacob (Israel)",
+    "Joseph (of Egypt)",
+    "Ephraim",
+    "Manasseh"
+   ],
+   "places": [
+    "Egypt"
+   ],
+   "things": [
+    "Birthright blessing"
+   ]
+  },
+  {
+   "id": "r-gen-5-92da05dc",
+   "t": "Antediluvian genealogy: Adam to birth of Noah",
+   "y0": -4004,
+   "y1": -2948,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Sums the ages at fatherhood given in Genesis 5:3-28 (1,056 years from Adam to Noah's birth) applied to the traditional Ussher creation date of 4004 BC; one of several proposed biblical chronologies, not a settled historical date.",
+   "chapters": [
+    "Genesis 5"
+   ],
+   "people": [
+    "Adam",
+    "Enoch",
+    "Noah"
+   ]
+  },
+  {
    "id": "r-gen-6-9142884a",
    "t": "The Genesis Flood (traditional dating)",
    "y0": -2348,

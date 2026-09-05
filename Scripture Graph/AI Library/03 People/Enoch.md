@@ -41,6 +41,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **4004 BC–2948 BC** — Antediluvian genealogy: Adam to birth of Noah · [[Genesis 5]] · [[4100-4001 BC]] *(traditional dating)*
 - **3300 BC–3000 BC** — Enoch's city of Zion · [[Moses 7]] · [[3300-3201 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

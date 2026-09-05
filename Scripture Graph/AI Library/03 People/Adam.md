@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **4004 BC–2948 BC** — Antediluvian genealogy: Adam to birth of Noah · [[Genesis 5]] · [[4100-4001 BC]] *(traditional dating)*
 - **4000 BC** — The Creation and Eden · [[Genesis 1]] · [[Genesis 2]] · [[Moses 2]] · [[4000-3901 BC]] *(traditional dating)*
 - **4000 BC** — The Fall of Adam and Eve · [[Genesis 3]] · [[Moses 4]] · [[4000-3901 BC]] *(traditional dating)*
 - **AD 1836** — Vision of the Celestial Kingdom, Kirtland Temple · [[D&C 137]] · [[AD 1801-1900]] *(historical)*
