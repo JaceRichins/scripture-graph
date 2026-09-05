@@ -10687,6 +10687,59 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-gen-28-37914aa7",
+   "t": "Jacob blessed by Isaac and flees to Haran",
+   "y0": -1900,
+   "y1": -1801,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed within the same patriarchal-era window used for the surrounding Isaac/Jacob/Esau narratives (Genesis 25-27); the text gives no absolute date, so this reflects a traditional reconstruction, not an internally fixed chronology.",
+   "chapters": [
+    "Genesis 28"
+   ],
+   "people": [
+    "Jacob",
+    "Isaac",
+    "Esau"
+   ],
+   "places": [
+    "Beth-el",
+    "Haran"
+   ]
+  },
+  {
+   "id": "r-gen-29-cec1fd4f",
+   "t": "Jacob serves Laban and marries Leah and Rachel in Haran",
+   "y0": -1929,
+   "y1": -1915,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Conventional patriarchal chronology counting back from later genealogical notices; internally consistent but not independently attested, so treat years as approximate.",
+   "chapters": [
+    "Genesis 29"
+   ],
+   "people": [
+    "Jacob",
+    "Rachel",
+    "Leah",
+    "Laban"
+   ],
+   "places": [
+    "Haran"
+   ]
+  },
+  {
    "id": "r-gen-6-9142884a",
    "t": "The Genesis Flood (traditional dating)",
    "y0": -2348,

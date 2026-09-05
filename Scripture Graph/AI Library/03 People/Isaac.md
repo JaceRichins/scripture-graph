@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1900 BC–1890 BC** — Isaac's Marriage to Rebekah · [[Genesis 24]] · [[1900-1801 BC]] *(traditional dating)*
+- **1900 BC–1801 BC** — Jacob blessed by Isaac and flees to Haran · [[Genesis 28]] · [[1900-1801 BC]] *(traditional dating)*
 - **1870 BC** — The binding of Isaac on Moriah · [[Genesis 22]] · [[1900-1801 BC]] *(approximate)*
 - **1835 BC–1825 BC** — Death of Abraham at age 175 · [[Genesis 25]] · [[1900-1801 BC]] *(approximate)*
 - **1406 BC** — Moses' covenant-renewal address on the plains of Moab · [[Deuteronomy 30]] · [[1500-1401 BC]] *(traditional dating)*

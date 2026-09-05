@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **1900 BC–1801 BC** — Jacob blessed by Isaac and flees to Haran · [[Genesis 28]] · [[1900-1801 BC]] *(traditional dating)*
 - **1835 BC–1810 BC** — Esau sells his birthright to Jacob · [[Genesis 25]] · [[1900-1801 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

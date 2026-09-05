@@ -37,7 +37,9 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1950 BC** — Abraham called out of Ur · [[Genesis 12]] · [[Abraham 2]] · [[2000-1901 BC]] *(approximate)*
+- **1929 BC–1915 BC** — Jacob serves Laban and marries Leah and Rachel in Haran · [[Genesis 29]] · [[2000-1901 BC]] *(traditional dating)*
 - **1921 BC** — Call of Abram and departure from Haran to Canaan · [[Genesis 12]] · [[2000-1901 BC]] *(traditional dating)*
+- **1900 BC–1801 BC** — Jacob blessed by Isaac and flees to Haran · [[Genesis 28]] · [[1900-1801 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
