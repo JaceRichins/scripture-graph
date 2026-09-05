@@ -88,11 +88,11 @@ The paired dog-and-sow imagery, preserved order, and close wording strongly supp
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The Book of Mormon's Isaiah chapters depend on or descend from the Isaiah textual tradition represented in the King James Bible.
+**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The Book of Mormon Isaiah chapters depend on the Isaiah/KJV textual tradition.
 
 The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and this instance must not be counted as independent evidence beyond the general Isaiah-dependence pattern.
 
-Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]]
+Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]] · [[Textual Correspondence in 2 Nephi 6]] · [[Textual Correspondence in 2 Nephi 7]] · [[Textual Correspondence in 2 Nephi 8]] · [[Textual Dependence in 2 Nephi 18]]
 
 ### bom-chiasmus-antiquity
 **Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: The inverted structure of Alma 36 provides evidence that the chapter derives from an ancient Hebrew literary source, as opposed to natural narrative symmetry, analyst-flexible unit-matching, or deliberate non-Hebrew-specific ring composition.
@@ -424,11 +424,11 @@ The adjacent judgment-of-Israel and blood-whitened-garments correspondences stro
 Notes: [[Scriptural Intertextuality in 1 Nephi 12]]
 
 ### bom-3nephi-matthew-kjv-dependence
-**Matthew/KJV mediation of the Sermon material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The final English text of the Sermon material in 3 Nephi is textually mediated through or deliberately dependent on the Matthew/KJV tradition.
+**Matthew/KJV Mediation of the Sermon Material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The Sermon material in 3 Nephi depends on or is mediated through the Matthew/KJV textual tradition.
 
-The sustained sequence and close English wording strongly support Matthew/KJV textual mediation of the Sermon material in 3 Nephi. The evidence does not distinguish a historically repeated sermon rendered in biblical English, revelatory harmonization, or nineteenth-century adaptation, and the contextual changes are compatible with each.
+The sustained sequence and close English wording strongly support Matthew/KJV textual mediation. The evidence does not distinguish a historically repeated sermon rendered in biblical English, revelatory harmonization, or nineteenth-century adaptation, and the contextual change in verse 25 is compatible with each.
 
-Notes: [[Extended Textual Parallel in 3 Nephi 13]] · [[Textual And Literary Dependence in 3 Nephi 14]]
+Notes: [[Extended Textual Parallel in 3 Nephi 13]] · [[Textual And Literary Dependence in 3 Nephi 14]] · [[Textual Dependence And Intertextuality in 3 Nephi 12]]
 
 ### bom-2nephi29-multiple-records-theme
 **Multiple sacred records as the organizing theme of 2 Nephi 29** — *strong* (supports, evidence_strength 0.75) for: The final-form discourse in 2 Nephi 29:3-14 deliberately organizes its objection, theological rationale, catalogue of writing peoples, and promised exchange and gathering around the theme of multiple sacred records.
