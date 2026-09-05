@@ -23,7 +23,13 @@ Scripture: [[Alma 25]] · My notes: [[Alma 25 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **War redirected (vv. 1-4):** Vengeance moves from the Anti-Nephi-Lehies to Nephite territory; Ammonihah is destroyed, but subsequent battles devastate the descendants of the priests of Noah.
+
+2. **Conversion, martyrdom, and reversal (vv. 5-12):** Affliction awakens remembrance of missionary teaching. Amulonite rulers burn converts, after which other Lamanites hunt those rulers' descendants. The narrator identifies the sequence as fulfillment of Abinadi's words.
+
+3. **A growing covenant community (vv. 13-16):** Additional converts join the Anti-Nephi-Lehies, bury their weapons, and practice Christ-centered observance of the law of Moses.
+
+4. **Missionary rejoicing (v. 17):** Ammon and his companions interpret the outcome as answered [[Prayer]] and fulfilled divine promise.
 <!-- SG:END structure -->
 
 ## People
@@ -61,18 +67,23 @@ _Not yet developed._
 - [[Mosiah 29]] — 1 parallel verse, e.g. [[Alma 25#^alma-25-14|Alma 25:14]] ↔ [[Mosiah 29#^mosiah-29-43|Mosiah 29:43]]
 - [[Ether 10]] — 1 parallel verse, e.g. [[Alma 25#^alma-25-14|Alma 25:14]] ↔ [[Ether 10#^ether-10-2|Ether 10:2]]
 - [[Alma 10]] — 1 parallel verse, e.g. [[Alma 25#^alma-25-2|Alma 25:2]] ↔ [[Alma 10#^alma-10-1|Alma 10:1]]
+- [[Alma 24]] — 0 parallel verses
+- [[2 Nephi 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Law of Moses]] *(keyword match — unconfirmed)*
+- [[Law of Moses]]
+- [[Jesus Christ (Gospel Topic)]]
+- [[Prophecy]]
+- [[War and Peace]]
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Alma 25:15-16 distinguishes continuing observance of the [[Law of Moses]] from the source of salvation. The people keep the law because it has not yet been fulfilled, but they look forward to Christ and understand the law as a type of his coming. They do not suppose that salvation comes through the law itself; rather, it strengthens [[Faith]] in Christ. Verse 16 connects that faith with [[Hope]] unto eternal salvation and with the spirit of [[Prophecy]]. This is the chapter's theological presentation and should not be generalized into a claim about the beliefs of every pre-Christian Israelite.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -89,25 +100,37 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The chapter repeatedly uses causal transitions—“because,” “therefore,” “for,” and “thus”—to present violence, remembrance, conversion, persecution, and backlash as an intelligible chain rather than an unconnected list of events. “Remembrance” in verse 6 is especially important: Aaron's preaching precedes the conversions, but suffering supplies the occasion for that teaching to be reconsidered.
+
+The word “type” appears in two nearby settings. Abinadi's death is a type of later events (vv. 10-11), while the law of Moses is a type of Christ's coming (v. 15). One type concerns recurring historical consequences; the other concerns ritual anticipation of Christ.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The central episode employs reversal. The descendants of those responsible for Abinadi's fiery death cause believers to die by fire, then become the hunted and scattered group described in Abinadi's warning. The correspondence with [[Mosiah 17]] creates substantial internal narrative cohesion. It should be treated as literary evidence: it demonstrates that the passages were coordinated, but by itself cannot decide whether that coordination reflects fulfilled historical prophecy, authorial planning, or editorial shaping.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary Coherence
+> The detailed correspondence between Alma 25's retrospective explanation and Abinadi's predictions in Mosiah 17 is strong evidence of purposeful internal narrative integration across the Book of Mormon account.
+> — strength 0.8 · confidence 1.0 · Strong evidence of internal coordination; provenance implications disputed · [[Internal Literary Coherence in Alma 25|full dossier]]
+
+> [!evidence] Literary Pattern *(tentative)*
+> The word 'type' appears twice in this chapter with related but distinct senses — once for a prophesied pattern of suffering (v. 10) and once for the law of Moses prefiguring Christ (v. 15) — which could suggest a deliberate literary link between the chapter's persecution narrative and its law-of-Moses theology.
+> — strength 0.3 · confidence 0.5 · Verified repetition; intentional literary linkage is speculative
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+Why does the narrator call Abinadi “the first” to suffer death by fire for belief in God (v. 11)? The intended scope is not specified; reading it as a claim about all human history would exceed the text.
+
+How should readers evaluate the chapter's theology of retributive fulfillment alongside its account of innocent converts being burned? The narrative recognizes both prophetic judgment upon persecutors and the real suffering of believers, without offering a full general theory of why martyrdom is permitted.
+
+Does burying weapons in verse 14 signify an absolute rejection of all warfare or adoption of the particular covenant practice established in [[Alma 24]]? The immediate comparison supports the latter; broader conclusions require additional passages.
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare Alma 25:9-12 closely with [[Mosiah 17]], noting both the verbal correspondences and Alma 25's retrospective explanation of what Abinadi “meant.” Compare verses 15-16 with [[2 Nephi 25]] to study how the Book of Mormon relates Mosaic observance, typology, and salvation through Christ. Reading [[Alma 17]], [[Alma 24]], and [[Mosiah 28]] alongside verse 17 clarifies the prayers, promises, and prior disarmament presupposed by the chapter.
 <!-- SG:END further-study -->
