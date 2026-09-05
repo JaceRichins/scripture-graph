@@ -121,7 +121,7 @@ The final agricultural scene completes an earlier narrative thread: seeds preser
 <!-- SG:BEGIN evidence -->
 > [!evidence] Limits Of Internal Technical Evidence
 > Although the narrator attributes the ship's design to revelation and calls its workmanship exceedingly fine, the account gives no dimensions, hull form, rigging plan, construction sequence, or sailing specifications. It therefore cannot independently support a technical reconstruction of the vessel.
-> — strength 0.2 · confidence 1.0 · strong limiting observation · [[Limits Of Internal Technical Evidence in 1 Nephi 18|full dossier]]
+> — confidence 1.0 · strong limiting observation · [[Limits Of Internal Technical Evidence in 1 Nephi 18|full dossier]]
 
 > [!evidence] Historical/Archaeological (Disputed) *(tentative)*
 > 1 Nephi 18:25 lists cattle, oxen, asses, horses, and goats among beasts found on the promised land; this verse is frequently cited in debates over Book of Mormon historicity because mainstream archaeology finds no evidence of these domesticated animals (particularly horses) in the pre-Columbian Americas of this era.

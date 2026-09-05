@@ -125,7 +125,7 @@ Abraham 2 has a strong literary relationship with [[Genesis 12]]. The chapters s
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Parallel
 > Abraham 2 and Genesis 12 share a closely ordered narrative sequence: a command to leave, migration toward Canaan, a land promise, altar building near Bethel, famine-driven travel to Egypt, and the sister strategy concerning Sarai. This is strong evidence of literary relationship or shared narrative tradition, but it does not by itself determine the direction, date, or mechanism of dependence.
-> — strength 1.0 · confidence 1.0 · Strong literary relationship; provenance disputed · [[Literary Parallel in Abraham 2|full dossier]]
+> — strength 0.8 · confidence 1.0 · Strong literary relationship; provenance disputed · [[Literary Parallel in Abraham 2|full dossier]]
 
 > [!evidence] Cross-Text Chronological Tension
 > Abraham 2 reports that Abraham was sixty-two when he departed Haran, whereas Genesis 12 reports that Abram was seventy-five when he departed Haran. On their most straightforward readings, the chronological notices differ.

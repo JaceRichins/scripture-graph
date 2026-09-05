@@ -114,7 +114,7 @@ Knowledge forms another literary thread. The remnant recovers knowledge of its f
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Dependence And Intertextuality
 > The sustained verbal and sequential correspondence with Isaiah 11 is strong evidence that 2 Nephi 30:9, 11–15 intentionally invokes the Isaianic vision and uses it as a framework for Nephi's prophecy.
-> — strength 1.0 · confidence 1.0 · strong textual dependence; production explanation unresolved · [[Literary Dependence And Intertextuality in 2 Nephi 30|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong textual dependence; production explanation unresolved · [[Literary Dependence And Intertextuality in 2 Nephi 30|full dossier]]
 
 > [!evidence] Textual/Manuscript History *(tentative)*
 > This verse is a documented site of textual revision across Book of Mormon editions: the word rendered 'pure' in the current text was originally 'white' in the 1830 first edition and the 1837/early printings, was changed to 'pure' in the 1840 edition (produced under Joseph Smith's oversight), reverted to 'white' in the Utah editions that followed, and was changed back to 'pure' in the 1981 LDS edition (which the text quoted above reflects).

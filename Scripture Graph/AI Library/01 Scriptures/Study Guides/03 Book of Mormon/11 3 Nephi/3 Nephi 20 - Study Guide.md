@@ -136,7 +136,7 @@ These correspondences strongly establish deliberate biblical intertextual constr
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Intertextuality
 > The explicit instruction to search Isaiah, followed by a sustained and thematically integrated reuse of Isaiah 52, is strong evidence that the chapter deliberately interprets Isaiah through the themes of covenant fulfillment, gathering, and redemption rather than merely reproducing an isolated verbal parallel.
-> — strength 0.9 · confidence 1.0 · strong final-form inference; origins disputed · [[Literary Intertextuality in 3 Nephi 20|full dossier]]
+> — confidence 1.0 · strong final-form inference; origins disputed · [[Literary Intertextuality in 3 Nephi 20|full dossier]]
 
 > [!evidence] Literary Intertextuality *(tentative)*
 > The sustained, ordered use of material corresponding to Micah 4-5, Acts 3, and Isaiah 52 is strong evidence that the chapter deliberately constructs its covenant discourse through earlier scriptural language. It is not, standing alone, strong evidence for any particular date, author, or direction of literary dependence.

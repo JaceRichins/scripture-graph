@@ -147,7 +147,7 @@ The birth analogy in verses 59–60 moves from observable mortal birth to spirit
 
 > [!evidence] Literary Coherence
 > The book of remembrance introduced near the beginning returns as the stated basis for Enoch's knowledge of Adam. This recurrence gives the chapter a coherent explanation for how primordial teachings were transmitted.
-> — strength 0.7 · confidence 1.0 · Literary recurrence accepted; historical inference excluded · [[Literary Coherence in Moses 6|full dossier]]
+> — confidence 1.0 · Literary recurrence accepted; historical inference excluded · [[Literary Coherence in Moses 6|full dossier]]
 
 > [!evidence] Doctrinal And Literary Integration
 > Moses 6:52–68 presents an internally integrated sequence of faith, repentance, baptism, reception of the Holy Ghost, justification, sanctification, and divine sonship. This is strong evidence that the passage intentionally presents a coherent plan of salvation.

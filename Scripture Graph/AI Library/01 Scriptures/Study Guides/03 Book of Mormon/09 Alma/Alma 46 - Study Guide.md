@@ -50,7 +50,6 @@ Alma 46 begins immediately after a military victory but shifts attention to inte
 - [[Alma 44]] — 3 footnote cross-references (from [[Alma 46#^alma-46-7|Alma 46:7]])
 - [[Alma 48]] — 3 footnote cross-references (from [[Alma 46#^alma-46-12|Alma 46:12]])
 - [[Alma 45]] — 2 footnote cross-references (from [[Alma 46#^alma-46-1|Alma 46:1]])
-- [[3 Nephi 6]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-31|Alma 46:31]] ↔ [[3 Nephi 6#^3ne-6-3|3 Nephi 6:3]]
 - [[Ether 13]] — 4 parallel verses, e.g. [[Alma 46#^alma-46-23|Alma 46:23]] ↔ [[Ether 13#^ether-13-7|Ether 13:7]]
 - [[Alma 48]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-38|Alma 46:38]] ↔ [[Alma 48#^alma-48-20|Alma 48:20]]
 - [[Alma 45]] — 3 parallel verses, e.g. [[Alma 46#^alma-46-36|Alma 46:36]] ↔ [[Alma 45#^alma-45-22|Alma 45:22]]
@@ -62,6 +61,7 @@ Alma 46 begins immediately after a military victory but shifts attention to inte
 - [[Helaman 16]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-39|Alma 46:39]] ↔ [[Helaman 16#^hel-16-1|Helaman 16:1]]
 - [[3 Nephi 19]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-13|Alma 46:13]] ↔ [[3 Nephi 19#^3ne-19-27|3 Nephi 19:27]]
 - [[Mosiah 18]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-1|Alma 46:1]] ↔ [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]]
+- [[Alma 61]] — 2 parallel verses, e.g. [[Alma 46#^alma-46-20|Alma 46:20]] ↔ [[Alma 61#^alma-61-18|Alma 61:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

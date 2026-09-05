@@ -104,7 +104,7 @@ The chapter interweaves compressed genealogy with prophetic episodes. Brief noti
 
 > [!evidence] Literary Organization
 > The alternating summaries of rulers, prophetic warnings, responses, and consequences provide strong textual evidence that this chapter is organized as moral historiography rather than as a comprehensive political chronicle.
-> — strength 0.9 · confidence 1.0 · Strong internal literary characterization · [[Literary Organization in Ether 11|full dossier]]
+> — confidence 1.0 · Strong internal literary characterization · [[Literary Organization in Ether 11|full dossier]]
 
 > [!evidence] Internal Narrative Pattern
 > The repeated association of combinations with refusal, power-seeking rebellion, and prophetic rejection is strong internal evidence that the chapter deliberately presents organized secrecy as a systemic cause of Jaredite instability.

@@ -114,7 +114,7 @@ The strongest literary feature is sustained reuse of [[Isaiah 29]]. Rather than 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Dependence And Interpretation
 > The density, wording, imagery, and ordered progression of correspondences constitute strong evidence that 2 Nephi 27 is literarily dependent on, or deliberately presented as an interpretation of, Isaiah 29 rather than merely sharing several general religious themes.
-> — strength 1.0 · confidence 1.0 · Broad scholarly agreement · [[Literary Dependence And Interpretation in 2 Nephi 27|full dossier]]
+> — strength 0.8 · confidence 1.0 · Broad scholarly agreement · [[Literary Dependence And Interpretation in 2 Nephi 27|full dossier]]
 
 > [!evidence] Internal Literary Coherence *(tentative)*
 > The chapter integrates the book narrative with its larger themes: a record from the dead answers prophetic silence, restricted sight is answered by witnesses, failed learned reading is answered by divine empowerment, and the deaf and blind ultimately receive the book's words. This is strong evidence of purposeful literary coherence within the chapter.

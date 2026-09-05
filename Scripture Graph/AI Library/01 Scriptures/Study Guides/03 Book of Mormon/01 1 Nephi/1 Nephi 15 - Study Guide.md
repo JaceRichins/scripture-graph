@@ -137,7 +137,7 @@ Two trees organize the chapter's imagery. The **olive tree** signifies the house
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Coherence
 > The sustained question-and-answer interpretation of Lehi's dream is strong evidence that 1 Nephi 15 is literarily integrated with the earlier dream narrative: multiple symbols are revisited in sequence and incorporated into a single teaching about revelation, discipleship, judgment, and the tree of life.
-> — strength 0.6 · confidence 1.0 · Coherence accepted; evidentiary reach reduced · [[Literary Coherence in 1 Nephi 15|full dossier]]
+> — confidence 1.0 · Coherence accepted; evidentiary reach reduced · [[Literary Coherence in 1 Nephi 15|full dossier]]
 
 > [!evidence] Intertextual Phrasing *(tentative)*
 > The covenant formula quoted in 1 Nephi 15:18 uses the phrase 'kindreds of the earth,' which matches the wording of Acts 3:25 (KJV) rather than the 'nations of the earth' wording of Genesis 22:18. This is a documentable wording similarity between the Book of Mormon text and a specific New Testament passage, not merely the general Abrahamic covenant theme.

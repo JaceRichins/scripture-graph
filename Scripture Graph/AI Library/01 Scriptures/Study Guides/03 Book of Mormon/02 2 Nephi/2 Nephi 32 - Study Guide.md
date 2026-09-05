@@ -123,7 +123,7 @@ The chapter is tightly joined to [[2 Nephi 31]] by repeated language: entering t
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Continuity
 > The recurrence of entering the way, receiving the Holy Ghost, and the doctrine of Christ provides strong internal evidence that 2 Nephi 32 continues the discipleship argument of 2 Nephi 31.
-> — strength 0.9 · confidence 1.0 · Strong internal literary evidence · [[Literary Continuity in 2 Nephi 32|full dossier]]
+> — confidence 1.0 · Strong internal literary evidence · [[Literary Continuity in 2 Nephi 32|full dossier]]
 
 > [!evidence] Verbal Intertextuality
 > The English wording about asking and knocking and about praying always without fainting closely parallels New Testament phrasing, providing strong evidence of Christian scriptural intertextuality at the level of the received English text.

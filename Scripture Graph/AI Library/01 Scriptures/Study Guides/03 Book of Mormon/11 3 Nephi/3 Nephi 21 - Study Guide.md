@@ -117,7 +117,7 @@ The chapter substantially reuses earlier prophetic language. [[Isaiah 52]] contr
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Intertextuality
 > The sustained and ordered reuse of Isaiah 52 and Micah 5 is strong evidence that the chapter intentionally interprets its restoration and gathering scenario through earlier prophetic texts.
-> — strength 0.8 · confidence 0.9 · Intentional English-text reuse strong; origin disputed · [[Literary Intertextuality in 3 Nephi 21|full dossier]]
+> — confidence 0.9 · Intentional English-text reuse strong; origin disputed · [[Literary Intertextuality in 3 Nephi 21|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

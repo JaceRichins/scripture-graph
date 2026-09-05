@@ -113,7 +113,7 @@ The prophetic episode uses prediction and fulfillment: warned famine (v. 28), re
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary And Political Pattern
 > The narrated sequence provides strong internal evidence that Ether 9 uses secret combinations as a critique of political orders built on assassination, purchased loyalty, and concealed oaths: such arrangements overthrow a kingdom but then fragment into competing factions and near-annihilation.
-> — strength 0.9 · confidence 1.0 · strong internal pattern; causal exclusivity rejected · [[Literary And Political Pattern in Ether 9|full dossier]]
+> — confidence 1.0 · strong internal pattern; causal exclusivity rejected · [[Literary And Political Pattern in Ether 9|full dossier]]
 
 > [!evidence] Narratorial And Geographic Framing
 > The references to the later Nephite destruction site and to a land "called by the Nephites Zarahemla" are strong internal evidence that the surviving account presents Jaredite geography through a later narratorial frame.

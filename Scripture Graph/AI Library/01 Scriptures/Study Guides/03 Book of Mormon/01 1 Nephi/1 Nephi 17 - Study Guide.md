@@ -128,7 +128,7 @@ The most prominent literary feature is sustained Exodus typology. Nephi does mor
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Intertextuality
 > The sustained concentration of Exodus motifs is strong evidence that the chapter deliberately frames the Lehite journey as analogous to Israel's deliverance. It is literary evidence for purposeful scriptural interpretation within the narrative, not independent proof that the narrated events occurred.
-> — strength 0.9 · confidence 1.0 · strong literary evidence; historical implications disputed · [[Literary Intertextuality in 1 Nephi 17|full dossier]]
+> — confidence 1.0 · strong literary evidence; historical implications disputed · [[Literary Intertextuality in 1 Nephi 17|full dossier]]
 
 > [!evidence] Geographic/Archaeological Correlation *(tentative)*
 > Some LDS-affiliated researchers (notably Warren Aston) have proposed that Bountiful and Irreantum correspond to a real Arabian coastal site (commonly identified with Khor Kharfot/Wadi Sayq in Oman's Dhofar region), citing matching features such as fruit trees, freshwater, timber suitable for shipbuilding, and coastal access.

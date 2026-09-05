@@ -117,7 +117,7 @@ Verse 3's "words of three" formula recalls the biblical multiple-witness idiom f
 
 > [!evidence] Literary Corroboration
 > The three-witness arrangement is strong evidence of deliberate literary and theological corroboration within the chapter, but it provides only limited independent historical corroboration because the reader receives all three reported testimonies through Nephi's record.
-> — strength 0.5 · confidence 0.9 · settled, well-calibrated · [[Literary Corroboration in 2 Nephi 11|full dossier]]
+> — strength 0.1 · confidence 0.9 · settled, well-calibrated · [[Literary Corroboration in 2 Nephi 11|full dossier]]
 
 > [!evidence] Internal Textual Corroboration
 > The alignment of Isaiah, Nephi, and Jacob is strong evidence that the chapter deliberately constructs a multiple-witness argument for its claims about Christ. As historical corroboration of the reported visions, however, it is limited because all three witnesses are presented through Nephi's record.

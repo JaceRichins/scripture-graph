@@ -138,7 +138,7 @@ Two smaller structural features are also present: the baptismal instructions are
 
 > [!evidence] Literary Intertextuality
 > Close verbal and thematic correspondences with biblical scenes—the Father's declaration about the Beloved Son, inspection of Jesus's wounds, the triadic baptismal formula, and the rock-versus-sand conclusion—are strong evidence of a textual relationship with biblical language. They do not by themselves determine whether the relationship arose through shared revelation, deliberate composition, translation vocabulary, editorial shaping, or direct literary dependence.
-> — strength 0.8 · confidence 0.9 · accepted observation / disputed interpretation · [[Literary Intertextuality in 3 Nephi 11|full dossier]]
+> — strength 0.7 · confidence 1.0 · accepted observation / disputed interpretation · [[Literary Intertextuality in 3 Nephi 11|full dossier]]
 
 > [!evidence] Textual/Linguistic Parallel *(tentative)*
 > The concentration of King James Gospel idiom in this chapter (the doubled 'verily, verily,' the Father/Son 'hear ye him' declaration matching the Transfiguration wording, the 'I am in the Father, and the Father in me' formula) shows this discourse is expressed in language that closely tracks familiar KJV New Testament phrasing.

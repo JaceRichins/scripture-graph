@@ -94,7 +94,7 @@ The paired letters permit a close comparison of rival war narratives. Both write
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Document Framing
 > The narrator explicitly introduces each message as the words written by its sender, and the letters contain distinct self-presentations and competing ideologies. This is strong evidence for intentional embedded-document composition within the text, but not for the external authenticity of the letters.
-> — strength 0.9 · confidence 1.0 · Strong literary observation; external authenticity not inferred · [[Literary Document Framing in Alma 54|full dossier]]
+> — confidence 1.0 · Strong literary observation; external authenticity not inferred · [[Literary Document Framing in Alma 54|full dossier]]
 
 > [!evidence] Internal Narrative Evidence
 > The separate statements by Moroni and Ammoron that an exchange would conserve food for their own forces are strong internal textual evidence that military logistics drive the negotiation alongside ideological and familial concerns.

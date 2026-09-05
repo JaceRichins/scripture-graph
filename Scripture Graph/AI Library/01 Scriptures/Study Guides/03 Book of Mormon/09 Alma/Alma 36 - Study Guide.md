@@ -139,7 +139,7 @@ Alma 36:22 deliberately links the testimony to [[1 Nephi 1]]. Alma does not mere
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Structure
 > The sustained framing and reversals are meaningful evidence of careful literary composition. They provide, at most, weak and non-exclusive support for claims of specifically ancient or Hebrew authorship because concentric rhetoric is not unique to ancient Hebrew writing and some detailed mappings depend on interpretive selection.
-> — strength 0.3 · confidence 0.9 · careful composition supported; authorship inference weak · [[Literary Structure in Alma 36|full dossier]]
+> — strength 0.2 · confidence 0.9 · careful composition supported; authorship inference weak · [[Literary Structure in Alma 36|full dossier]]
 
 > [!evidence] Explicit Internal Intertext
 > The explicit comparison with Lehi's vision, reinforced by shared throne-and-angels imagery, is strong internal evidence that Alma 36 intentionally recalls the narrative in 1 Nephi 1 and participates in the book's intertextual cohesion.

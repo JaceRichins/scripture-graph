@@ -122,7 +122,7 @@ Nephi also exposes the chapter's layered narration: readers receive Nephi's abri
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary And Intertextual Pattern
 > Lehi's account has several features of biblical prophetic-call and commission narratives: divine glory, an opened-heaven throne scene, a written heavenly message, proclamation of judgment, and resistance from the audience. Isaiah 6 and Ezekiel 1-3 provide particularly relevant comparisons. These correspondences strongly support reading the episode as deliberately framed in biblical prophetic terms, but they provide little leverage for determining when or how the account was composed.
-> — strength 0.5 · confidence 0.8 · accepted observation / disputed evidentiary weight · [[Literary And Intertextual Pattern in 1 Nephi 1|full dossier]]
+> — strength 0.2 · confidence 0.8 · accepted observation / disputed evidentiary weight · [[Literary And Intertextual Pattern in 1 Nephi 1|full dossier]]
 
 > [!evidence] Historical Synchronism
 > The reference to Zedekiah and the anticipated Babylonian captivity is consistent with the late-Judah political crisis summarized in 2 Kings 24:10-17. This constitutes a coherent historical synchronism within the narrative, but only modest evidence beyond internal plausibility because the same setting is readily available in the Bible.

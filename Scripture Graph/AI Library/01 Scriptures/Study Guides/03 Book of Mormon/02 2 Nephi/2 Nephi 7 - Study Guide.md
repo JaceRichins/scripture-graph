@@ -111,7 +111,7 @@ The placement between [[2 Nephi 6]] and [[2 Nephi 8]] matters. Jacob's surroundi
 
 > [!evidence] Messianic And Typological Interpretation
 > A Christian messianic reading is meaningfully supported by the servant's willing suffering, rejection, confidence in divine help, and anticipated vindication. The official chapter heading adopts this reading. Nevertheless, the chapter itself never explicitly calls the speaker the Messiah or Jesus Christ, so the evidence does not establish an exclusive original referent.
-> — strength 0.6 · confidence 0.9 · Traditional Christian reading; exclusive original referent disputed · [[Messianic And Typological Interpretation in 2 Nephi 7|full dossier]]
+> — strength 0.5 · confidence 1.0 · Traditional Christian reading; exclusive original referent disputed · [[Messianic And Typological Interpretation in 2 Nephi 7|full dossier]]
 
 > [!evidence] Textual/Historical-Critical *(tentative)*
 > 2 Nephi 7 corresponds verse-for-verse (per the verified 12-verse text overlap) to Isaiah 50:1-11 in the KJV tradition. Isaiah 50 falls within Isaiah 40-55, a block that a substantial body of biblical scholarship ('Deutero-Isaiah') dates to the Babylonian exile period (mid-6th century BC), which would place at least some of it after Lehi's departure from Jerusalem (traditionally c. 597-587 BC). This raises a question about how such material could already appear on the brass plates Lehi's family carried out of Jerusalem.
