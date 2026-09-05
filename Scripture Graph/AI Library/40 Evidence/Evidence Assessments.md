@@ -95,9 +95,9 @@ The paired dog-and-sow imagery, preserved order, and close wording strongly supp
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The Book of Mormon Isaiah chapters (including 2 Nephi 13) depend on or descend from the Isaiah/KJV textual tradition
+**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The sustained sequence and close English wording of Book of Mormon Isaiah chapters, including 3 Nephi 22, reflect dependence on or mediation through the Isaiah/KJV textual tradition.
 
-The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and this instance must not be counted as independent evidence beyond the general Isaiah-dependence pattern.
+The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and 3 Nephi 22 must not be counted independently from the broader Isaiah-dependence pattern.
 
 Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]] · [[Textual Correspondence in 2 Nephi 6]] · [[Textual Correspondence in 2 Nephi 7]] · [[Textual Correspondence in 2 Nephi 8]] · [[Textual Dependence in 2 Nephi 18]] · [[Textual Intertextuality in 2 Nephi 13]] · [[Textual Intertextuality in 2 Nephi 6]]
 
@@ -417,11 +417,11 @@ The shared two-stage intercessory structure (present disciples, then future beli
 Notes: [[Textual Interrelationship in 3 Nephi 19]]
 
 ### bom-3nephi9-john1-intertext
-**John 1:11-12 intertext in 3 Nephi 9:16-17** — *strong* (supports, evidence_strength 0.78) for: 3 Nephi 9:16-17 deliberately engages the textual or traditional form represented by John 1:11-12 in the transmitted English text
+**John 1:11–12 intertext in 3 Nephi 9:16–17** — *strong* (supports, evidence_strength 0.78) for: The final form of 3 Nephi 9:16–17 deliberately engages the rejection-and-reception sequence of John 1:11–12.
 
-The near-verbatim two-clause sequence (rejection-of-one's-own, then a sonship-and-belief formula), recast from third to first person, strongly supports a deliberate textual relationship between 3 Nephi 9:16-17 and John 1:11-12. This specific pairing was not confirmed by the project's mechanical overlap index (which lists John 14, not John 1, for this chapter), so confidence rests partly on manual comparison pending mechanical re-verification. The relationship does not determine dependence direction, translation mechanism, historicity, or inspiration.
+The near-verbatim two-clause sequence, recast from third to first person, strongly supports a deliberate textual relationship between 3 Nephi 9:16–17 and John 1:11–12. This specific pairing was not confirmed by the project's mechanical overlap index, so confidence rests partly on manual comparison pending re-verification; the relationship does not determine mechanism, historicity, or inspiration.
 
-Notes: [[Textual Interrelationship in 3 Nephi 9]]
+Notes: [[Textual Interrelationship in 3 Nephi 9]] · [[TextualLiterary in 3 Nephi 9]]
 
 ### bom-3nephi26-john5-intertext
 **John 5 resurrection formula in 3 Nephi 26:4–5** — *strong* (supports, evidence_strength 0.83) for: The final text of 3 Nephi 26:4–5 has a deliberate textual or tradition-level relationship with the resurrection saying in John 5:28–29.
@@ -465,6 +465,13 @@ The adjacent judgment-of-Israel and blood-whitened-garments correspondences stro
 
 Notes: [[Scriptural Intertextuality in 1 Nephi 12]]
 
+### bom-3nephi10-matthew23-intertext
+**Matthew 23:37 intertextuality in 3 Nephi 10:4–6** — *strong* (supports, evidence_strength 0.84) for: The final form of 3 Nephi 10:4–6 deliberately reuses or engages the Jerusalem-and-hen lament preserved in Matthew 23:37.
+
+The distinctive gathering language, hen-and-chickens image, wings, Israel/Jerusalem setting, refusal, and threefold temporal adaptation strongly support deliberate final-form engagement with Matthew 23:37. The relationship does not determine whether its mechanism was historical repetition, KJV-shaped translation, revelatory harmonization, or nineteenth-century adaptation, and it is not independent of the broader Matthew/KJV-mediation pattern.
+
+Notes: [[Verbal And Thematic Intertext in 3 Nephi 10]]
+
 ### bom-3nephi-matthew-kjv-dependence
 **Matthew/KJV Mediation of the Sermon Material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The Sermon material in 3 Nephi depends on or is mediated through the Matthew/KJV textual tradition.
 
@@ -480,11 +487,11 @@ The density and progression of the records language strongly support a deliberat
 Notes: [[Internal Literary Evidence in 2 Nephi 29]]
 
 ### bom-nahom-nhm-geography
-**Nahom / South Arabian NHM as evidence of authentic ancient Arabian geography in 1 Nephi** — *weak* (supports, evidence_strength 0.3) for: The name Nahom and its narrative location preserve authentic pre-exilic South Arabian geographic knowledge that is materially more expected from an ancient source than from nineteenth-century composition.
+**Nahom / South Arabian NHM as evidence of authentic ancient Arabian geography in 1 Nephi** — *weak* (supports, evidence_strength 0.3) for: The Nahom toponym and its proposed relationship to South Arabian NHM provide evidence that 1 Nephi preserves authentic ancient Arabian geography.
 
-The right-period South Arabian NHM tribal attestation is a real and interesting correlation, but it does not identify a burial locality, establish the required vocalization, or tightly constrain the route. Possible map mediation and the missing search denominator keep it weak support for authentic ancient Arabian geography.
+The right-period South Arabian NHM tribal attestation is a real and interesting correlation, but it does not identify a burial locality, establish the required vocalization, or tightly constrain the route. Possible modern mediation and the missing search denominator keep it weak support for authentic ancient Arabian geography.
 
-Notes: [[Nahom and the NHM altars]]
+Notes: [[Nahom and the NHM altars]] · [[Toponymic Observation in 1 Nephi 16]]
 
 ### bom-alma16-prophecy-fulfillment-correspondence
 **Narrative fulfillment of Alma's military prophecy in Alma 16** — *strong* (supports, evidence_strength 0.84) for: The final text deliberately coordinates Alma's specified interception route with the subsequently narrated route and encounter.
