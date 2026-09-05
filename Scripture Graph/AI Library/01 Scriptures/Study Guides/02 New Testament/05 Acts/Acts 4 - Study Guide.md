@@ -23,7 +23,11 @@ Scripture: [[Acts 4]] · My notes: [[Acts 4 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Arrest and growth (4:1-4):** opposition to preaching resurrection through Jesus accompanies further belief.
+2. **Examination before the council (4:5-12):** Peter identifies the risen Jesus as the source of the healing and the only source of [[Salvation]].
+3. **Threat and response (4:13-22):** the council cannot answer the visible healing but orders Peter and John to stop teaching in Jesus's name; they place obedience to God above that command.
+4. **The community's prayer (4:23-31):** [[Psalm 2]] interprets the opposition, the believers ask for boldness, the place is shaken, and the gathering is filled with the Holy Ghost.
+5. **United witness and stewardship (4:32-37):** resurrection testimony, grace, unity, and need-based provision appear together, with Barnabas as a named example.
 <!-- SG:END structure -->
 
 ## People
@@ -51,11 +55,15 @@ _Not yet developed._
 - [[Psalm 9]] — 1 footnote cross-reference (from [[Acts 4#^acts-4-12|Acts 4:12]])
 - [[Hosea 13]] — 1 footnote cross-reference (from [[Acts 4#^acts-4-12|Acts 4:12]])
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-24|Acts 4:24]] ↔ [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]]
-- [[Acts 5]] — 2 parallel verses, e.g. [[Acts 4#^acts-4-1|Acts 4:1]] ↔ [[Acts 5#^acts-5-24|Acts 5:24]]
 - [[Psalm 2]] — 2 parallel verses, e.g. [[Acts 4#^acts-4-26|Acts 4:26]] ↔ [[Psalm 2#^ps-2-2|Psalm 2:2]]
-- [[Acts 2]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-31|Acts 4:31]] ↔ [[Acts 2#^acts-2-4|Acts 2:4]]
 - [[Acts 14]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-24|Acts 4:24]] ↔ [[Acts 14#^acts-14-15|Acts 14:15]]
+- [[Acts 5]] — 0 parallel verses
+- [[Psalm 118]] — 0 parallel verses
+- [[Luke 20]] — 0 parallel verses
+- [[Acts 2]] — 0 parallel verses
 - [[2 Nephi 25]] — 0 parallel verses
+- [[Acts 2]] — 0 parallel verses
+- [[4 Nephi 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,7 +75,7 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Acts 4:10-12 ties healing, [[Resurrection]], and [[Salvation]] to Jesus Christ rather than to the apostles' independent power. Verses 19-20 present obedience to God as the apostles' governing obligation when human authorities demand silence, although the passage should not be generalized into permission to disregard every civil command. Verses 23-31 portray [[Prayer]] as scripture-informed and mission-centered. Verses 32-35 depict [[Consecration]] by its spiritual and material fruits: unity, relinquishment of possessiveness, trustworthy administration, and provision according to need.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -100,22 +108,28 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated phrase **“the name”** unifies the chapter. The council asks by what name the healing occurred (4:7); Peter answers that it was by Jesus Christ (4:10); salvation is located in no other name (4:12); the council prohibits speech in that name (4:17-18); and the disciples pray for signs through Jesus's name (4:30). “Name” consequently functions as more than a verbal label: in the chapter's rhetoric it represents Jesus's authority, identity, and saving power.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Acts 4 repeatedly turns attempted suppression into expanded witness. Arrest leads to testimony before rulers; threats lead to corporate prayer; prayer leads to renewed boldness; and public opposition is followed by a portrait of communal power and grace. Two scriptural images interpret these events: the rejected stone becomes the cornerstone (4:11; [[Psalm 118]]), and rulers gathered against God's anointed are read through [[Psalm 2]] (4:25-28).
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Historical Detail Corroboration *(tentative)*
+> The 'captain of the temple' (Acts 4:1) named among those who arrested Peter and John corresponds to a real, attested Second Temple office (roughly second in rank to the high priest, responsible for Temple order and guard), also mentioned later at Acts 5:24,26 and Luke 22:4,52.
+> — strength 0.2 · confidence 0.7 · plausible but insufficiently sourced
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does Peter move from the healing of one man to the universal claim of Acts 4:12?
+- What exactly can—and cannot—be inferred historically from the council's reported admission in Acts 4:16?
+- Why does the community ask for boldness rather than the removal of opposition in Acts 4:29-30?
+- How do divine determination in Acts 4:28 and the responsibility of Jesus's opponents in Acts 4:27 relate?
+- Which features of Acts 4:32-35 express enduring principles of [[Consecration]], and which belong to this community's particular administration?
 <!-- SG:END questions -->
 
 ## Further Study
