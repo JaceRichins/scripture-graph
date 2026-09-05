@@ -88,11 +88,11 @@ The paired dog-and-sow imagery, preserved order, and close wording strongly supp
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: Mosiah 14's quotation of Isaiah 53 is textually dependent on or mediated through the Isaiah/KJV textual tradition.
+**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The Book of Mormon's Isaiah chapters depend on or descend from the Isaiah textual tradition represented in the King James Bible.
 
 The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and this instance must not be counted as independent evidence beyond the general Isaiah-dependence pattern.
 
-Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]]
+Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]]
 
 ### bom-chiasmus-antiquity
 **Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: The inverted structure of Alma 36 provides evidence that the chapter derives from an ancient Hebrew literary source, as opposed to natural narrative symmetry, analyst-flexible unit-matching, or deliberate non-Hebrew-specific ring composition.
@@ -527,6 +527,13 @@ Notes: [[Narrative Conduct In War in Alma 52]]
 The Jerusalem/Judea naming in vv.12-20 and the explicit topic-close in v.21 give real, moderate support to a textually marked local unit, but apocalyptic telescoping and typological near/far blending are independently-supported, well-attested features of the genre that predict overlapping, non-sharply-separated horizons about as plausibly as a clean two-part division, which keeps this out of the strong band. This bears only on the chapter's internal organization, not on any prediction's timing, mechanism, or accuracy.
 
 Notes: [[Internal Literary Structure in Joseph Smith—Matthew 1]]
+
+### pgp-moses5-cain-mark-constraint
+**Textual limits on identifying Cain's mark in Moses 5** — *strong* (supports, evidence_strength 0.85) for: Moses 5:40 assigns Cain's mark a protective function but does not identify its physical form, equate it with skin color, or state that it was inherited by Cain's descendants.
+
+Moses 5:39–40 provides strong support for a passage-bounded protective-function reading: the text specifies neither the mark's form nor hereditary transmission. A skin-color or hereditary identification may arise through broader synthesis or later tradition, but it cannot be attributed to the wording of these verses alone.
+
+Notes: [[Textual Constraint in Moses 5]]
 
 ### bom-3nephi-luke-kjv-parallel
 **Verbal parallel between 3 Nephi 18:18 and Luke 22:31 (KJV-mediated wording)** — *weak* (supports, evidence_strength 0.22) for: The Luke/KJV wording in 3 Nephi 18:18 favors direct nineteenth-century reuse over an ancient saying subsequently rendered or harmonized into KJV idiom.
