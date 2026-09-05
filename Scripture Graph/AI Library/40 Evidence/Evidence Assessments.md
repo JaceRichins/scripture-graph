@@ -214,11 +214,11 @@ The dense distribution of weeping among God, heaven, Enoch, and earth strongly s
 Notes: [[Internal Literary Pattern in Moses 7]]
 
 ### bom-2nephi26-isaiah29-echo
-**Echo of Isaiah 29:4 wording in 2 Nephi 26:16** — *strong* (supports, evidence_strength 0.72) for: 2 Nephi 26:16 reflects a direct textual/translation-level relationship to the specific KJV wording of Isaiah 29:4, rather than independently and coincidentally similar phrasing.
+**Echo of Isaiah 29:3–5 in 2 Nephi 26:15–18** — *strong* (supports, evidence_strength 0.72) for: The final text of 2 Nephi 26:15–18 has a deliberate literary or textual relationship with Isaiah 29:3–5.
 
-The near-verbatim, three-part overlap with Isaiah 29:4 (speaking out of the ground / speech low out of the dust / voice as one with a familiar spirit, in matching order) strongly supports some direct literary or textual relationship, occurring immediately before Nephi's explicit block quotation of Isaiah 29 in the following chapter. It does not indicate whether the relationship arose through ancient allusion, translation-level harmonization, or nineteenth-century composition, and it is a dependent instance of the broader Isaiah/KJV-dependence evidence, not additional independent support.
+The ordered siege, humiliation, dust-speech, chaff, and sudden-destruction sequence strongly supports deliberate reuse of Isaiah 29 in 2 Nephi 26. The evidence does not distinguish ancient adaptation from translation-level harmonization, revelatory reuse, or modern composition and is not independent of the registered verse-16 echo.
 
-Notes: [[Intertextual-Parallel in 2 Nephi 26]]
+Notes: [[Intertextual-Parallel in 2 Nephi 26]] · [[Scriptural Intertextuality in 2 Nephi 26]]
 
 ### bom-3nephi5-acts-english-dependence
 **English biblical mediation of 3 Nephi 5:5 and Acts 9:1** — *moderate* (supports, evidence_strength 0.55) for: The received English wording of 3 Nephi 5:5 depends on, or was deliberately mediated through, the English biblical tradition represented by Acts 9:1 rather than arising independently.
@@ -360,12 +360,33 @@ The verse clearly presents Jacob's statement as pre-event prophecy within the na
 
 Notes: [[Internal Chronological Evidence in 2 Nephi 6]]
 
+### bom-3nephi15-john10-intertext
+**Interpretive engagement with John 10:16 in 3 Nephi 15** — *strong* (supports, evidence_strength 0.96) for: The final text of 3 Nephi 15 deliberately quotes and interprets the other-sheep saying preserved in John 10:16.
+
+The twofold near-verbatim repetition, explicit identification, and explanation of the earlier audience's misunderstanding provide exceptionally strong evidence that 3 Nephi 15 deliberately engages John 10:16. This supplies almost no independent support for the historical delivery of the explanation, the Nephite identification, ancient provenance, or inspiration.
+
+Notes: [[Scriptural Intertextuality in 3 Nephi 15]]
+
 ### bom-2nephi1-isaiah52-intertext
 **Isaiah 52 Reuse in 2 Nephi 1** — *strong* (supports, evidence_strength 0.65) for: The final English text of 2 Nephi 1 deliberately reuses the awakening, rising-from-dust, bonds, and captivity language of Isaiah 52:1–2.
 
 The combined imperatives to awake, arise from dust, and shake off bonds strongly support deliberate reuse of the Isaiah 52:1–2 awakening-and-release complex. The lower-strong weight reflects the composite passage-level match while allowing for common biblical vocabulary, a large comparison space, and missing matched controls.
 
 Notes: [[Literary Intertextuality in 2 Nephi 1]]
+
+### bom-moroni10-isaiah-intertext
+**Isaiah 52 and 54 reuse in Moroni 10:31** — *strong* (supports, evidence_strength 0.65) for: Moroni 10:31 deliberately reuses the Isaiah 52:1–2 and Isaiah 54:2 restoration complexes in its final English form.
+
+The clustered awakening, dust, beautiful-garments, and strengthened-stakes language strongly supports deliberate reuse of Isaiah 52 and 54 in Moroni 10:31's final English form. Its recurrence within a broader Isaiah-restoration pattern prevents treating it as independent evidence and leaves ancient reuse, translation harmonization, revelatory idiom, and modern KJV-based composition unresolved.
+
+Notes: [[Scriptural Allusion in Moroni 10]]
+
+### bom-3nephi26-john5-intertext
+**John 5 resurrection formula in 3 Nephi 26:4–5** — *strong* (supports, evidence_strength 0.83) for: The final text of 3 Nephi 26:4–5 has a deliberate textual or tradition-level relationship with the resurrection saying in John 5:28–29.
+
+The matched good-and-evil contrast, paired resurrection outcomes, distinctive damnation wording, and preserved order strongly support a relationship between 3 Nephi 26:4–5 and John 5:28–29. Historical repetition, shared tradition, translation-level harmonization, revelatory expression, and modern adaptation remain viable mechanisms.
+
+Notes: [[Scriptural Intertextuality in 3 Nephi 26]]
 
 ### pgp-abraham1-genesis12-intertextuality
 **Literary relationship between Abraham 1 and the Genesis 12 call narrative** — *moderate* (supports, evidence_strength 0.58) for: Abraham 1:16 and 1:19 deliberately participate in the Genesis 12 call tradition in the received English text.
@@ -387,6 +408,13 @@ Notes: [[Intertextual Verbal And Sequential Parallel in 1 Nephi 22]]
 The clustered disability vocabulary and shared mass-healing setting give moderate support to a Matthew-related literary or translation-level relationship. Conventional healing catalogues, reordered and expanded wording, and missing matched-corpus controls prevent a strong inference or a determination of direction, date, historicity, or inspiration.
 
 Notes: [[Intertextual Lexical And Narrative Parallel in 3 Nephi 17]]
+
+### bom-1nephi12-christian-intertext
+**Matthew 19 and Revelation 7 intertextuality in 1 Nephi 12** — *strong* (supports, evidence_strength 0.78) for: The final text of 1 Nephi 12:9–10 deliberately engages the Christian scriptural traditions represented by Matthew 19:28 and Revelation 7:14.
+
+The adjacent judgment-of-Israel and blood-whitened-garments correspondences strongly support deliberate Christian scriptural intertextuality in 1 Nephi 12's final form. They do not determine whether the relationship arose through revelation, translation, redaction, shared tradition, or nineteenth-century composition.
+
+Notes: [[Scriptural Intertextuality in 1 Nephi 12]]
 
 ### bom-3nephi-matthew-kjv-dependence
 **Matthew/KJV mediation of the Sermon material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The English wording and sequence of the Sermon material in 3 Nephi are literarily mediated by the Matthew/KJV textual tradition.
