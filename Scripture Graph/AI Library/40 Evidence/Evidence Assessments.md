@@ -73,6 +73,13 @@ The explicit reference and shared wording make deliberate internal recall nearly
 
 Notes: [[Explicit Internal Intertext in Alma 36]]
 
+### bom-alma48-amalickiah-moroni-contrast
+**Amalickiah/Moroni motif contrast in Alma 48** — *strong* (supports, evidence_strength 0.72) for: Alma 48's final text deliberately constructs Amalickiah's fraudulent acquisition of power and Moroni's preparation of the people as a matched rhetorical contrast, rather than two unrelated notices the reader must connect unaided.
+
+Alma 48:7's explicit 'on the other hand' strongly supports deliberate final-form contrast design between Amalickiah and Moroni, matching the registry's treatment of comparable explicit-connective contrasts (bom-3nephi3-grievance-narrative-contrast 0.75, bom-2nephi2-integrated-argument 0.65). This bears only on whether the contrast is authored rather than reader-imposed; it gives no independent traction on historicity, date of composition, compositional stage, or inspiration, since an ancient editor's interpretive abridgment and a deliberate modern author predict the identical connective equally well.
+
+Notes: [[Literary Structure in Alma 48]]
+
 ### pgp-abraham3-literary-hinge
 **Astronomical-to-premortal literary hinge in Abraham 3** — *strong* (supports, evidence_strength 0.84) for: The celestial (Kolob/greater-star) discussion and the premortal-spirits discussion in Abraham 3 are linked by deliberate literary analogy via the explicit 'as, also' comparative formula, rather than being two topically distinct discussions a reader retrospectively connects.
 
@@ -576,6 +583,13 @@ Notes: [[Nahom and the NHM altars]] · [[Toponymic Observation in 1 Nephi 16]]
 The immediate repetition of route and encounter details strongly supports deliberate in-narrative vindication of Alma's prophetic authority. Because prediction and outcome come through one narrative witness, the correspondence supplies only none-band support for genuine pre-event revelation, historical occurrence, or inspiration.
 
 Notes: [[Internal Narrative Consistency in Alma 16]] · [[Intra-Textual Prophecy-Fulfillment Pattern in Alma 16]] · [[Prediction-Outcome Narrative Correspondence in Alma 16]]
+
+### bom-alma45-epistemic-calibration
+**Narratorial epistemic calibration (know/report/suppose/admit-ignorance) in Alma's disappearance account** — *strong* (supports, evidence_strength 0.75) for: The differentiated epistemic markers in Alma 45:18-19 reflect a deliberately constructed, source-conscious narratorial voice -- distinguishing personal certainty, secondhand report, and explicit supposition from admitted ignorance -- rather than an undifferentiated legendary or invented account.
+
+Alma 45:18-19's explicit differentiation of knowledge, report, and supposition is strong evidence of a deliberately calibrated, source-conscious narratorial voice, comparable to bom-alma40-epistemic-persona, but that calibration is equally available to an ancient record-keeper and a later author imitating historiographic caution, and it cannot verify that Alma's disappearance occurred or was miraculous.
+
+Notes: [[Narratorial Epistemic Calibration in Alma 45]]
 
 ### bom-alma55-restraint-ethical-framing
 **Narratorial ethical framing of Moroni's capture-over-killing choice (Alma 55)** — *strong* (supports, evidence_strength 0.78) for: The final text's explicit third-person narratorial commentary (55:19) deliberately frames Moroni's choice to capture rather than kill incapacitated enemies as an intentional ethical statement about restraint in war
