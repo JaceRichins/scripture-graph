@@ -9493,6 +9493,75 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-deut-1-06151bf2",
+   "t": "Moses's Farewell Discourse in the Plains of Moab",
+   "y0": -1406,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Reckoned as the fortieth year after the Exodus per the internal date notice in Deuteronomy 1:3, shortly before Moses's death and Israel's crossing of the Jordan.",
+   "chapters": [
+    "Deuteronomy 1"
+   ],
+   "people": [
+    "Moses"
+   ],
+   "places": [
+    "Moab"
+   ]
+  },
+  {
+   "id": "r-deut-11-cb03ba10",
+   "t": "Moses' covenant exhortation on the plains of Moab",
+   "y0": -1406,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional dating places this address shortly before Israel's crossing of the Jordan, roughly 40 years after a traditional Exodus date of c.1446 BC.",
+   "chapters": [
+    "Deuteronomy 11"
+   ],
+   "people": [
+    "Moses"
+   ],
+   "places": [
+    "Moab"
+   ]
+  },
+  {
+   "id": "r-deut-15-9ca2e287",
+   "t": "Deuteronomy 15 sabbatical release laws given",
+   "y0": -1406,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Narrative setting is Moses' address on the plains of Moab in the fortieth year after the Exodus, shortly before Israel entered Canaan (cf. Deuteronomy 1:3); scholars dispute the actual composition date of the legal core.",
+   "chapters": [
+    "Deuteronomy 15"
+   ],
+   "places": [
+    "Egypt"
+   ]
+  },
+  {
    "id": "r-deut-19-7aa06e4c",
    "t": "Moses delivers the Deuteronomic law on the plains of Moab",
    "y0": -1406,
