@@ -23,7 +23,12 @@ Scripture: [[Ether 10]] · My notes: [[Ether 10 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Rebuilding through memory (vv. 1–4):** Shez remembers earlier destruction and divine deliverance, establishes a righteous kingdom, and builds cities.
+2. **Royal exploitation and revolt (vv. 5–8):** Riplakish uses taxes, prisons, and coerced labor to support royal luxury; rebellion and war end his reign.
+3. **Conquest, reform, and mixed judgment (vv. 9–12):** Morianton conquers the land, eases burdens, administers justice, and restores prosperity, but is condemned for his whoredoms.
+4. **Deposition and recovery (vv. 13–18):** Kim is deposed and held captive; Levi later regains the kingdom, and Corom and Lib receive positive evaluations.
+5. **Lib's prosperous society (vv. 19–29):** Geography, hunting lands, commerce, ores and metals, textiles, tools, weapons, and fine workmanship form an extended catalog.
+6. **Dynastic captivity and renewed conspiracy (vv. 30–34):** Several generations remain captive before Com gains the whole kingdom and confronts oath-bound robbers whom he cannot defeat.
 <!-- SG:END structure -->
 
 ## People
@@ -62,14 +67,16 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Book of Mormon Geography]]
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]]
+- [[War and Peace]]
+- [[Government and Laws]]
+- [[Secret Combinations]]
+- [[Work and Self-Reliance]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The narrator presents remembrance of destruction and divine deliverance as central to Shez's righteous rebuilding. Levi's righteousness is expressly followed by the people's prosperity, and Lib's prosperous society is described as blessed by the Lord. These passages support a recurring relationship between righteousness and blessing, but not an exceptionless promise of immediate material success. Morianton gains favor, governs justly, and presides over wealth while remaining personally condemned; Hearthom loses the kingdom without an accompanying moral evaluation. The chapter also distinguishes justice toward subjects from complete personal righteousness, making rulers accountable both for their treatment of others and for their own conduct before the Lord.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -84,25 +91,48 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The chapter repeatedly uses the language of burdens and work in sharply different settings. Under Riplakish, prisoners labor continually to support themselves and produce fine goods, with death threatened for refusal. Morianton later gains favor by easing the people's unspecified burden. Under Lib, repeated verbs such as “buy,” “sell,” “traffic,” “dig,” “make,” and “work” depict broad communal industry. The contrast invites study of coercive and productive labor, though the text does not expressly classify all labor under Lib as voluntary. The phrase “forty and two years” also appears in the notices for Riplakish, Levi, and Com; its significance, if any, is unexplained.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Ether 10 uses compact succession notices, moral evaluations, and sharp contrasts to organize a long dynastic history. Riplakish's spacious buildings, throne, prisons, and coerced luxury production portray construction as an instrument of domination; Lib's economic catalog portrays building, manufacturing, trade, cultivation, and craftsmanship within communal prosperity. Riplakish also meaningfully parallels King Noah in [[Mosiah 11]] through taxation, royal excess, multiple wives or concubines, and elaborate construction. The productive catalog resembles [[2 Nephi 5]] in its use of metals and workmanship to characterize an organized society. These comparisons are literary observations and do not establish textual dependence, ancient authorship, or historical identification. Likewise, Ether's moral evaluations of rulers resemble biblical regnal diction, but both inherited convention and King James-style language remain possible explanations.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Narrative-Theological Contrast
+> Morianton's case is strong internal evidence that Ether 10 does not treat prosperity or popular legitimacy as sufficient proof of divine approval: economic recovery follows his reforms even while the narrator says he is cut off from the Lord's presence.
+> — strength 0.7 · confidence 0.9 · Accepted as a limited counterexample, not a governing rule · [[Narrative-Theological Contrast in Ether 10|full dossier]]
+
+> [!evidence] Internal Geographic Description
+> The narrow-neck passage provides a meaningful constraint for reconstructing the narrative's internal geography: it places a city near a constricted land passage associated with divided seas and distinguishes northern settlement from a southern game reserve.
+> — strength 0.4 · confidence 1.0 · Accepted internal constraint with low external discriminating power · [[Internal Geographic Description in Ether 10|full dossier]]
+
+> [!evidence] Material-Culture Description
+> The economic catalog is strong evidence for the kind of complex, specialized society portrayed by the narrative, but only weak evidence for identifying a particular archaeological culture or assigning modern technical meanings to every material term.
+> — strength 0.3 · confidence 1.0 · Accepted evidentiary limitation · [[Material-Culture Description in Ether 10|full dossier]]
+
+> [!evidence] Material-Culture Anachronism *(tentative)*
+> The mention of 'silks' in Ether 10:24 is frequently raised in anachronism debates about the Book of Mormon's claimed pre-Columbian American setting, since domesticated silkworm sericulture is not attested archaeologically in the pre-Columbian Americas.
+> — strength 0.3 · confidence 0.5 · Textual term certain; archaeological characterization insufficiently sourced
+
+> [!evidence] Literary/Stylistic Parallel *(tentative)*
+> The recurring regnal-evaluation formula in Ether 10 (kings judged as doing right or evil 'in the sight of the Lord') stylistically resembles the regnal formulas used for kings of Israel and Judah in the King James Kings and Chronicles narratives.
+> — strength 0.2 · confidence 0.7 · Stylistic resemblance accepted; explanation disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the narrator emphasize Shez's memory before describing his righteous kingdom?
+- What does Morianton's mixed portrait imply about the difference between political competence and complete righteousness?
+- How does the chapter distinguish oppressive labor from productive work?
+- Does the inclusion of weapons within the prosperity catalog complicate the relationship between [[War and Peace]]?
+- What can the narrow-neck description establish about internal geography, and what remains beyond the evidence?
+- Why might the narrator repeat the period of forty-two years three times without explaining it?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Ether 9]] for the famine, Heth's destruction, and the earlier serpent episode, and [[Ether 11]] for the continuation of continuation continuation ofContinuing account of Com's reign. Compare Riplakish with King Noah in [[Mosiah 11]], focusing on taxation, royal construction, wives or concubines, and the burden placed on the people. Compare the productive catalog in verses 22–27 with [[2 Nephi 5]]. For thematic study, trace coercive power, captivity, legitimate rule, and oath-bound conspiracy through [[Government and Laws]], [[Freedom and Liberty]], [[War and Peace]], and [[Secret Combinations]].
 <!-- SG:END further-study -->
