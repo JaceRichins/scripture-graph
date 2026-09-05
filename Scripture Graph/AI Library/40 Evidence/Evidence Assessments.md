@@ -10,6 +10,13 @@ One stable assessment per evidence issue, reused by every note that bears on it 
 
 ## Book of Mormon
 
+### bom-moroni10-1corinthians12-intertext
+**1 Corinthians 12 spiritual-gifts catalog reuse in Moroni 10:8-16** — *strong* (supports, evidence_strength 0.75) for: Moroni 10:8-16 deliberately reuses or is textually dependent on the 1 Corinthians 12:4-8 spiritual-gifts catalog in the transmitted English text
+
+The opening frame ('the same God who worketh all in all... manifestations of the Spirit') and the wisdom/knowledge pairing closely track 1 Corinthians 12:6 and 12:8, strongly supporting a direct English-textual relationship for that portion. The remaining catalog is reordered, omits 'discerning of spirits,' and inserts a Book-of-Mormon-distinctive item ('the beholding of angels and ministering spirits,' v.14) absent from Paul's list, so the relationship is adaptation rather than a sustained verbatim block. A claimed close correspondence between Moroni 10:17 and 1 Corinthians 12:11's distribution formula could not be verified against the canonical text and is not relied on here. Direction, source language, and antiquity remain undetermined.
+
+Notes: [[Textual Intertextuality in Moroni 10]]
+
 ### jsm-matthew24-ad70-corroboration
 **AD 70 temple destruction and the historical status of Joseph Smith—Matthew's prediction** — *none* (neutral, evidence_strength 0.06) for: The historical destruction of Jerusalem's temple independently supports Joseph Smith—Matthew 1 as preserving a genuine pre-event prediction rather than a tradition or revision produced after the event.
 
@@ -88,11 +95,11 @@ The paired dog-and-sow imagery, preserved order, and close wording strongly supp
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The Book of Mormon Isaiah chapters depend on the Isaiah/KJV textual tradition.
+**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The Book of Mormon Isaiah chapters (including 2 Nephi 13) depend on or descend from the Isaiah/KJV textual tradition
 
 The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and this instance must not be counted as independent evidence beyond the general Isaiah-dependence pattern.
 
-Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]] · [[Textual Correspondence in 2 Nephi 6]] · [[Textual Correspondence in 2 Nephi 7]] · [[Textual Correspondence in 2 Nephi 8]] · [[Textual Dependence in 2 Nephi 18]]
+Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]] · [[Textual Correspondence in 2 Nephi 6]] · [[Textual Correspondence in 2 Nephi 7]] · [[Textual Correspondence in 2 Nephi 8]] · [[Textual Dependence in 2 Nephi 18]] · [[Textual Intertextuality in 2 Nephi 13]] · [[Textual Intertextuality in 2 Nephi 6]]
 
 ### bom-chiasmus-antiquity
 **Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: The inverted structure of Alma 36 provides evidence that the chapter derives from an ancient Hebrew literary source, as opposed to natural narrative symmetry, analyst-flexible unit-matching, or deliberate non-Hebrew-specific ring composition.
@@ -387,6 +394,13 @@ Notes: [[Literary Intertextuality in 2 Nephi 1]]
 The clustered awakening, dust, beautiful-garments, and strengthened-stakes language strongly supports deliberate reuse of Isaiah 52 and 54 in Moroni 10:31's final English form. Its recurrence within a broader Isaiah-restoration pattern prevents treating it as independent evidence and leaves ancient reuse, translation harmonization, revelatory idiom, and modern KJV-based composition unresolved.
 
 Notes: [[Scriptural Allusion in Moroni 10]]
+
+### bom-3nephi9-john1-intertext
+**John 1:11-12 intertext in 3 Nephi 9:16-17** — *strong* (supports, evidence_strength 0.78) for: 3 Nephi 9:16-17 deliberately engages the textual or traditional form represented by John 1:11-12 in the transmitted English text
+
+The near-verbatim two-clause sequence (rejection-of-one's-own, then a sonship-and-belief formula), recast from third to first person, strongly supports a deliberate textual relationship between 3 Nephi 9:16-17 and John 1:11-12. This specific pairing was not confirmed by the project's mechanical overlap index (which lists John 14, not John 1, for this chapter), so confidence rests partly on manual comparison pending mechanical re-verification. The relationship does not determine dependence direction, translation mechanism, historicity, or inspiration.
+
+Notes: [[Textual Interrelationship in 3 Nephi 9]]
 
 ### bom-3nephi26-john5-intertext
 **John 5 resurrection formula in 3 Nephi 26:4–5** — *strong* (supports, evidence_strength 0.83) for: The final text of 3 Nephi 26:4–5 has a deliberate textual or tradition-level relationship with the resurrection saying in John 5:28–29.
