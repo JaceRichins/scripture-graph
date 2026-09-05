@@ -193,11 +193,11 @@ The ordered four-part correspondence moderately supports deliberate final-form c
 Notes: [[Internal Literary Correspondence in 1 Nephi 12]]
 
 ### bom-3nephi1-samuel-signs-correspondence
-**Correspondence between Samuel's birth signs and their fulfillment in 3 Nephi 1** — *strong* (supports, evidence_strength 0.65) for: The final text deliberately makes the reported fulfillment in 3 Nephi 1 correspond to Samuel's announced signs in Helaman 14 in order to vindicate prophetic testimony.
+**Correspondence between Samuel's birth signs (Helaman 14) and their fulfillment in 3 Nephi 1** — *strong* (supports, evidence_strength 0.65) for: The birth-sign details prophesied in Helaman 14:2-5 and their narrated fulfillment in 3 Nephi 1 reflect deliberate final-form prophetic design.
 
 The related continuous-light descriptions and the new star announced in Helaman 14 are deliberately matched by 3 Nephi 1, with explicit fulfillment language, providing strong evidence of intended narrative vindication of Samuel. Because both passages belong to the same literary tradition, the match alone supplies none-band support for supernatural foreknowledge, external historicity, or inspiration.
 
-Notes: [[Internal Narrative Correspondence in 3 Nephi 1]]
+Notes: [[Internal Narrative Correspondence in 3 Nephi 1]] · [[Internal Prediction-Fulfillment in Helaman 14]]
 
 ### bom-3nephi8-death-signs-fulfillment
 **Correspondence between Samuel's death-sign prophecy (Helaman 14) and its fulfillment in 3 Nephi 8** — *strong* (supports, evidence_strength 0.8) for: The final Book of Mormon text deliberately presents 3 Nephi 8's disasters as fulfillment of Samuel's death-sign prophecy in Helaman 14.
@@ -724,6 +724,13 @@ The concentrated whore, sitting, and many-waters cluster gives moderate support 
 
 Notes: [[Intertextual Literary Parallel in 1 Nephi 14]] · [[Literary Intertextuality in 1 Nephi 14]]
 
+### bom-helaman13-400year-destruction-fulfillment
+**Samuel's four-hundred-year destruction ceiling and its fulfillment in Mormon 6** — *moderate* (supports, evidence_strength 0.57) for: The Nephite destruction narrated in Mormon 6, falling within Samuel's four-hundred-year ceiling (Helaman 13:5,9-10), reflects deliberate final-form chronological coordination.
+
+Samuel's warning that destruction would come 'before four hundred years pass' is matched by the record's own chronology, which places the climactic destruction roughly a decade within that ceiling once the several years between Samuel's prophecy and Christ's birth are added to the 384 years counted from Christ's coming. This moderately supports deliberate long-range coordination, comparable to the registered bom-alma45-nephite-destruction-fulfillment issue, but the width of a four-century horizon and Mormon's own after-the-fact compiling role limit how discriminating the fit is; it gives no independent support for genuine pre-event supernatural prediction or the historical accuracy of either figure.
+
+Notes: [[Intratextual Prediction-Fulfillment in Helaman 13]]
+
 ### bom-ether11-secret-combinations-pattern
 **Secret combinations as a recurring narrative cause of Jaredite instability (Ether 11)** — *strong* (supports, evidence_strength 0.78) for: Ether 11's final text deliberately presents organized secret combinations as a recurring cause linked to refusal of prophetic warning, rebellion, and societal destruction across the chapter's episodes
 
@@ -744,6 +751,13 @@ Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
 The ordered challenge, sign-demand, affliction, and confession parallels between Korihor (Alma 30) and Sherem (Jacob 7) moderately support deliberate final-form patterning, but Korihor's death is a delayed mob killing among a separate people rather than a proximate consequence of his affliction, unlike Sherem's. The divergent death beat, the small pool of only two clear anti-Christ figures in the text (limiting how diagnostic the match can be), the availability of a conventional cautionary-narrative template, and missing matched controls keep this below the strong band and leave the transmission mechanism, direction, and historicity unresolved.
 
 Notes: [[Literary Intertextuality in Alma 30]]
+
+### bom-helaman13-mormon1-slippery-treasure-callback
+**Slippery-treasure curse callback from Helaman 13 to Mormon 1** — *moderate* (supports, evidence_strength 0.55) for: The shared 'slippery treasure' curse vocabulary in Helaman 13:18-20 and Mormon 1:18 reflects a deliberate final-form prophecy-fulfillment callback rather than an independently occurring standing idiom or coincidence.
+
+The distinctive shared vocabulary (slippery, curse of the land, unable to retain treasures) across a wide narrative gap moderately supports a deliberate callback linking Samuel's curse to its later narrated realization, comparable to the corpus's other registered curse/prophecy-fulfillment pairs. No corpus-wide search has verified how rare this idiom is, so a standing curse-formula shared independently by both passages remains a live alternative that keeps this below the strong band; it gives no independent support for the historicity or supernatural mechanism of the reported treasure loss.
+
+Notes: [[Intratextual Fulfillment And Verbal Callback in Helaman 13]]
 
 ### bom-alma54-logistics-motive-evidence
 **Stated logistical (food-provisioning) motive in the Moroni-Ammoron prisoner exchange (Alma 54)** — *strong* (supports, evidence_strength 0.78) for: The final text explicitly attributes preservation of food/provisions for one's own forces as a stated motive for the prisoner exchange, for both Moroni and Ammoron
