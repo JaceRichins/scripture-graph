@@ -95,9 +95,9 @@ The paired dog-and-sow imagery, preserved order, and close wording strongly supp
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The sustained sequence and close English wording of Book of Mormon Isaiah chapters, including 3 Nephi 22, reflect dependence on or mediation through the Isaiah/KJV textual tradition.
+**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The final English Book of Mormon Isaiah chapters depend on or are mediated through the Isaiah/KJV textual tradition.
 
-The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and 3 Nephi 22 must not be counted independently from the broader Isaiah-dependence pattern.
+The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, and nineteenth-century adaptation, and individual chapters are not independent additions to this shared pattern.
 
 Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]] · [[Textual Correspondence in 2 Nephi 6]] · [[Textual Correspondence in 2 Nephi 7]] · [[Textual Correspondence in 2 Nephi 8]] · [[Textual Dependence in 2 Nephi 18]] · [[Textual Intertextuality in 2 Nephi 13]] · [[Textual Intertextuality in 2 Nephi 6]]
 
@@ -444,6 +444,13 @@ The chapter-length correspondence with Malachi 3, reinforced by explicit interna
 
 Notes: [[Textual Interdependence in 3 Nephi 24]]
 
+### bom-3nephi25-malachi4-dependence
+**Malachi 4 Dependence in 3 Nephi 25** — *strong* (supports, evidence_strength 0.83) for: The final English text of 3 Nephi 25 depends on or is mediated through the Malachi 4 textual tradition.
+
+The complete six-verse, same-order correspondence strongly supports dependence on or mediation through Malachi 4 despite minor differences such as Son/Sun in verse 2. Historical transmission rendered in biblical English, translation-level harmonization, and direct nineteenth-century adaptation remain viable, and this chapter is not independent of the adjacent Malachi 3 quotation.
+
+Notes: [[Textual Parallel in 3 Nephi 25]]
+
 ### bom-1nephi22-malachi4-dependence
 **Malachi 4 mediation of the paired images in 1 Nephi 22** — *strong* (supports, evidence_strength 0.84) for: The received English text of 1 Nephi 22 deliberately draws on or is mediated through the paired and ordered imagery of Malachi 4:1–2.
 
@@ -473,11 +480,11 @@ The distinctive gathering language, hen-and-chickens image, wings, Israel/Jerusa
 Notes: [[Verbal And Thematic Intertext in 3 Nephi 10]]
 
 ### bom-3nephi-matthew-kjv-dependence
-**Matthew/KJV Mediation of the Sermon Material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The Sermon material in 3 Nephi depends on or is mediated through the Matthew/KJV textual tradition.
+**Matthew/KJV Mediation of the Sermon Material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The final English sermon material in 3 Nephi is textually mediated through or deliberately related to Matthew and its KJV form.
 
-The sustained sequence and close English wording strongly support Matthew/KJV textual mediation. The evidence does not distinguish a historically repeated sermon rendered in biblical English, revelatory harmonization, or nineteenth-century adaptation, and the contextual change in verse 25 is compatible with each.
+The sustained sequence and close English wording strongly support Matthew/KJV textual mediation. The evidence does not distinguish a historically repeated sermon rendered in biblical English, revelatory or editorial harmonization, and nineteenth-century adaptation.
 
-Notes: [[Extended Textual Parallel in 3 Nephi 13]] · [[Textual And Literary Dependence in 3 Nephi 14]] · [[Textual Dependence And Intertextuality in 3 Nephi 12]]
+Notes: [[Extended Textual Parallel in 3 Nephi 13]] · [[Textual And Literary Dependence in 3 Nephi 14]] · [[Textual Dependence And Intertextuality in 3 Nephi 12]] · [[Textual Parallel in 3 Nephi 12]]
 
 ### bom-2nephi29-multiple-records-theme
 **Multiple sacred records as the organizing theme of 2 Nephi 29** — *strong* (supports, evidence_strength 0.75) for: The final-form discourse in 2 Nephi 29:3-14 deliberately organizes its objection, theological rationale, catalogue of writing peoples, and promised exchange and gathering around the theme of multiple sacred records.
@@ -506,6 +513,13 @@ Notes: [[Internal Narrative Consistency in Alma 16]] · [[Intra-Textual Prophecy
 The explicit third-person narratorial commentary in 55:19 ('he did not delight in murder or bloodshed'), paired with the forgone opportunity described in 55:18, strongly supports that the final text deliberately frames this episode as an ethical statement about restraint. It does not establish the episode's historicity, a general pacifist ethic, compliance with modern law of war, or approval of the episode's other tactics (exploited intoxication, deception, or the forced labor described later in the chapter).
 
 Notes: [[Internal Narrative Evidence in Alma 55]]
+
+### bom-3nephi18-lords-supper-intertext
+**New Testament Lord's Supper Intertextuality in 3 Nephi 18** — *strong* (supports, evidence_strength 0.68) for: The final form of 3 Nephi 18 deliberately participates in or is mediated through the New Testament Lord's Supper textual and liturgical tradition.
+
+The ordered ritual actions together with the bread, wine, body, blood, and remembrance cluster strongly support participation in the New Testament Lord's Supper tradition. Formulaic ritual language and viable historical-repetition, liturgical-transmission, translation-harmonization, and modern-synthesis models prevent identifying a particular source or historical mechanism.
+
+Notes: [[Textual Parallel in 3 Nephi 18]]
 
 ### pgp-abraham-premortal-existence-doctrine
 **Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own bare assertion, that the premortal-existence and foreordination doctrine it teaches derives from an ancient Abrahamic source rather than from Joseph Smith's own developing 19th-century theology.
