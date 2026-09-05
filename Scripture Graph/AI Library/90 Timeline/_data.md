@@ -10815,6 +10815,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-gen-9-4af07a0f",
+   "t": "Noahic covenant established after the Flood",
+   "y0": -2348,
+   "y1": -2348,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Ussher-style chronology places the Flood's end near 2348 BC; Genesis 9's covenant follows immediately upon the family's exit from the ark. Dating is a traditional construct, not stated numerically in the text itself.",
+   "chapters": [
+    "Genesis 9"
+   ],
+   "people": [
+    "Noah (patriarch)"
+   ],
+   "things": [
+    "Rainbow (covenant token)"
+   ]
+  },
+  {
    "id": "r-hag-2-0ee363a8",
    "t": "Encouragement to rebuild the temple",
    "y0": -520,
@@ -10868,6 +10892,66 @@ timeline module, not this file._
    ],
    "places": [
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-heb-1-22e12c3f",
+   "t": "Composition of the Epistle to the Hebrews",
+   "y0": 60,
+   "y1": 95,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Authorship and date are disputed even in antiquity (Origen noted uncertainty about the author); most scholars place composition sometime between the 60s and 90s AD based on internal cues and reception history.",
+   "chapters": [
+    "Hebrews 1"
+   ],
+   "people": [
+    "Jesus Christ"
+   ]
+  },
+  {
+   "id": "r-heb-10-22e12c3f",
+   "t": "Composition of the Epistle to the Hebrews",
+   "y0": 60,
+   "y1": 95,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Authorship and precise date are disputed; the letter presupposes an ongoing (or recently ended) sacrificial system, which many scholars take as evidence for composition before the Jerusalem temple's destruction in 70 AD, though this is not certain and some argue for a later date.",
+   "chapters": [
+    "Hebrews 10"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "things": [
+    "Epistle to the Hebrews"
+   ]
+  },
+  {
+   "id": "r-heb-11-22e12c3f",
+   "t": "Composition of the Epistle to the Hebrews",
+   "y0": 60,
+   "y1": 95,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Author and precise date are disputed; proposals range from the mid-60s AD (some argue pre-70 AD, before the Jerusalem temple's destruction) to as late as the 90s AD.",
+   "chapters": [
+    "Hebrews 11"
    ]
   },
   {

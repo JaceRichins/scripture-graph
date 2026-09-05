@@ -41,6 +41,7 @@ _Not yet developed._
 - **4004 BC–2948 BC** — Antediluvian genealogy: Adam to birth of Noah · [[Genesis 5]] · [[4100-4001 BC]] *(traditional dating)*
 - **2350 BC** — Noah and the Flood · [[Genesis 7]] · [[Genesis 8]] · [[Moses 8]] · [[2400-2301 BC]] *(traditional dating)*
 - **2348 BC** — The Genesis Flood (traditional dating) · [[Genesis 6]] · [[2400-2301 BC]] *(traditional dating)*
+- **2348 BC** — Noahic covenant established after the Flood · [[Genesis 9]] · [[2400-2301 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
