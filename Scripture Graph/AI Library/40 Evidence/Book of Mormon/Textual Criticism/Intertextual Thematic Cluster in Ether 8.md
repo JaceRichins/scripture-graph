@@ -7,24 +7,37 @@ created_by: librarian:job-ether-8-20260905-163307-6a762d4f
 created_at: '2026-09-05T16:43:42Z'
 evidence_class: intertextual thematic cluster
 claim_confidence: 0.92
-evidence_strength: 0.8
 study_relevance: 0.92
 source_quality: 1.0
 consensus_status: accepted observation / disputed interpretation
+note_kind: context
+calibrated_at: '2026-09-05T17:29:02Z'
+calibration_version: 2
 ---
 
 # Intertextual Thematic Cluster in Ether 8
 
 ## Summary
 <!-- SG:BEGIN summary -->
-Ether 8 and Helaman 6 share a distinctive conceptual cluster: Satanic influence upon hearts, traditions traced to Cain, secret oaths, murder and plunder for gain, and the destruction of societies. This is strong evidence of deliberate conceptual continuity within the Book of Mormon's editorial presentation.
-
-**Does not establish:** The parallel does not by itself establish ancient authorship, historical transmission from Cain, or independent source documents.
-
-**Alternative explanations:**
-- The continuity may result from a common narrator or final editor rather than independent ancient traditions.
-- A modern author could intentionally reuse the same theological vocabulary.
-- Translation choices could increase verbal similarity between passages.
-
-**Scripture:** [[Ether 8#^ether-8-15|Ether 8:15]], [[Ether 8#^ether-8-16|Ether 8:16]], [[Ether 8#^ether-8-17|Ether 8:17]], [[Ether 8#^ether-8-18|Ether 8:18]], [[Ether 8#^ether-8-21|Ether 8:21]], [[Ether 8#^ether-8-25|Ether 8:25]], [[Helaman 6#^hel-6-21|Helaman 6:21]], [[Helaman 6#^hel-6-22|Helaman 6:22]], [[Helaman 6#^hel-6-24|Helaman 6:24]], [[Helaman 6#^hel-6-25|Helaman 6:25]]
+Ether 8 and Helaman 6 describe destructive combinations through a shared cluster of Satanic influence, Cain traditions, secret oaths, murder, plunder or gain, protected wrongdoing, and societal ruin. Ether 8 explicitly joins Jaredite and Nephite history under this recurring explanatory pattern.
 <!-- SG:END summary -->
+
+## Observation
+<!-- SG:BEGIN observation -->
+Ether 8 and Helaman 6 associate covert oaths and covenants with Satanic influence, traditions connected with Cain, murder, plunder or gain, protection of wrongdoing, and social destruction. Ether 8:21 expressly connects such combinations with the destruction of the Jaredite and Nephite peoples.
+<!-- SG:END observation -->
+
+## Interpretation
+<!-- SG:BEGIN interpretation -->
+The shared cluster creates deliberate conceptual continuity in the Book of Mormon's final presentation. Jaredite and Nephite conspiracies are interpreted through one recurring theological and political category rather than presented as unrelated episodes.
+<!-- SG:END interpretation -->
+
+## Historical Significance
+<!-- SG:BEGIN historical-significance -->
+The linkage shows how the final narratorial or editorial voice interprets two civilizations through a common account of concealed power, protected violence, and societal collapse. Secret combinations become a cross-civilizational explanatory motif within the book.
+<!-- SG:END historical-significance -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On a final-form literary reading, Ether 8 uses the Nephite experience known to its narrator as an interpretive lens for Jaredite history. The repeated cluster and Ether 8:21's explicit linkage make concealed violence and gain-seeking power a recurring explanation for civilizational destruction.
+<!-- SG:END how-it-fits -->

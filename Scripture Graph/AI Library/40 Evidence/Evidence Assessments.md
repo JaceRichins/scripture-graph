@@ -290,6 +290,13 @@ Moses 3 unquestionably expands Genesis 2 at these points (near-certain, 0.99), b
 
 Notes: [[Comparative Textual Difference in Moses 3]]
 
+### bom-ether4-father-son-language
+**Father-and-Son language in Ether 4:12** — *weak* (challenges, evidence_strength 0.25) for: Ether 4:12 is incompatible with a distinct-persons understanding of Christ and the Father.
+
+Ether 4:12 weakly challenges the claim that its Father-language is incompatible with a personal distinction between Christ and the Father: the same speech calls Christ "the Father" and distinguishes him from "the Father who sent me." Title, role, unity, agency, numerical-identity, and compositional explanations remain viable, so the verse does not select a complete Godhead model.
+
+Notes: [[Doctrinal-Textual in Ether 4]]
+
 ### bom-alma45-nephite-destruction-fulfillment
 **Final-form correspondence between Alma's warning and the destruction narrative in Mormon** — *strong* (supports, evidence_strength 0.7) for: The final Book of Mormon deliberately coordinates Alma's prediction of Nephite destruction with the later narrative in Mormon.
 
