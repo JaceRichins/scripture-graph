@@ -74,11 +74,11 @@ The paired dog-and-sow imagery, preserved order, and close wording strongly supp
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
 
 ### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The final Book of Mormon text has a deliberate textual relationship with the Isaiah/KJV textual tradition.
+**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: Mosiah 14's quotation of Isaiah 53 is textually dependent on or mediated through the Isaiah/KJV textual tradition.
 
-The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and related Isaiah quotations must not be counted as independent evidence.
+The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, or nineteenth-century adaptation, and this instance must not be counted as independent evidence beyond the general Isaiah-dependence pattern.
 
-Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]]
+Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]]
 
 ### bom-chiasmus-antiquity
 **Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: Alma 36's inverted organization is materially more expected under ancient Hebrew-influenced composition than under natural narrative symmetry or nineteenth-century biblical-style composition.
@@ -401,6 +401,13 @@ Notes: [[Canonical Doctrinal Statement in Abraham 3]]
 The explicit Christian naming and developed soteriology weakly challenge literal preservation of antediluvian historical wording. They do little to distinguish ancient underlying teaching rendered through modern revelation from modern redaction or composition, and final-form coherence does not date the material or determine inspiration.
 
 Notes: [[Doctrinal And Literary Integration in Moses 6]] · [[Doctrinal-Textual in Moses 8]]
+
+### bom-1nephi1-callnarrative-biblical-parallel
+**Prophetic call-narrative parallels between 1 Nephi 1 and Isaiah 6 / Ezekiel 1-3** — *weak* (supports, evidence_strength 0.2) for: 1 Nephi 1's prophetic call/commission narrative reflects genuine ancient authorial participation in the biblical prophetic call-narrative genre (as in Isaiah 6 and Ezekiel 1-3), rather than deliberate literary construction by a KJV-literate nineteenth-century author imitating those same familiar passages.
+
+The clustered call-narrative features (divine glory, opened-heaven throne scene, a written heavenly message, judgment proclamation, and audience rejection) place 1 Nephi 1 within a recognizable ancient prophetic-commission genre, but because a KJV-literate modern author consciously imitating the same well-known passages predicts nearly the same cluster, and the Book of Mormon elsewhere demonstrably quotes biblical text at length, this gives only weak support for genuine ancient genre participation over deliberate modern construction.
+
+Notes: [[Literary And Intertextual Pattern in 1 Nephi 1]]
 
 ### jsh-anthon-episode-reliability
 **Reliability of the Martin Harris–Charles Anthon episode as reported in Joseph Smith—History** — *moderate* (challenges, evidence_strength 0.4) for: Martin Harris's account, as embedded in Joseph Smith—History 1:63-65, accurately represents what Charles Anthon said and did concerning the copied characters and translation.
