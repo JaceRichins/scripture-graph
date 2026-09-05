@@ -23,7 +23,13 @@ Scripture: [[Alma 12]] · My notes: [[Alma 12 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Confrontation and widening audience (vv. 1-7):** Alma exposes Zeezrom's deception but makes the warning applicable to everyone.
+
+2. **Mysteries, hardening, and judgment (vv. 8-18):** Zeezrom's question prompts teaching about revelation, the chains of hell, resurrection, judgment, and the second death.
+
+3. **The Eden objection (vv. 19-27):** Antionah appeals to the barred tree of life; Alma argues that mortality preserves a probationary state and allows the plan of redemption to operate.
+
+4. **Divine disclosure and human response (vv. 28-37):** Angels disclose the plan, commandments follow, and the audience is invited to choose repentance and mercy rather than hardening and exclusion from God's rest.
 <!-- SG:END structure -->
 
 ## People
@@ -48,9 +54,6 @@ _Not yet developed._
 - [[Moses 5]] — 5 footnote cross-references (from [[Alma 12#^alma-12-24|Alma 12:24]])
 - [[Genesis 2]] — 4 footnote cross-references (from [[Alma 12#^alma-12-23|Alma 12:23]])
 - [[2 Nephi 28]] — 3 footnote cross-references (from [[Alma 12#^alma-12-10|Alma 12:10]])
-- [[Alma 5]] — 6 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
-- [[Alma 42]] — 6 parallel verses, e.g. [[Alma 12#^alma-12-26|Alma 12:26]] ↔ [[Alma 42#^alma-42-5|Alma 42:5]]
-- [[Alma 11]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-8|Alma 12:8]] ↔ [[Alma 11#^alma-11-41|Alma 11:41]]
 - [[Moses 4]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Moses 4#^moses-4-31|Moses 4:31]]
 - [[2 Nephi 9]] — 1 parallel verse, e.g. [[Alma 12#^alma-12-17|Alma 12:17]] ↔ [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]]
 - [[Alma 40]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-25|Alma 12:25]] ↔ [[Alma 40#^alma-40-3|Alma 40:3]]
@@ -60,23 +63,26 @@ _Not yet developed._
 - [[Mosiah 4]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-1|Alma 12:1]] ↔ [[Mosiah 4#^mosiah-4-4|Mosiah 4:4]]
 - [[Moroni 7]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-18|Alma 12:18]] ↔ [[Moroni 7#^moro-7-38|Moroni 7:38]]
 - [[1 Nephi 8]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]]
+- [[Alma 22]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-25|Alma 12:25]] ↔ [[Alma 22#^alma-22-13|Alma 22:13]]
+- [[Alma 60]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-5|Alma 12:5]] ↔ [[Alma 60#^alma-60-23|Alma 60:23]]
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[Alma 12#^alma-12-17|Alma 12:17]] ↔ [[Mosiah 3#^mosiah-3-27|Mosiah 3:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Fall of Adam and Eve]]
+- [[Moses 4]]
+- [[Alma 40]]
+- [[Final Judgment]]
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Plan of Salvation]] *(keyword match — unconfirmed)*
 - [[Resurrection]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
-- [[Justice and Mercy]] *(keyword match — unconfirmed)*
-- [[Satan and Temptation]] *(keyword match — unconfirmed)*
-- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Alma's discourse makes three central doctrinal contributions. First, revelation is graduated according to response: "he that will harden his heart, the same receiveth the lesser portion of the word; and he that will not harden his heart, to him is given the greater portion of the word, until it is given unto him to know the mysteries of God until he know them in full" (vv. 9-11) — access to sacred knowledge tracks heed and diligence rather than being fixed or arbitrary. Second, the chapter distinguishes temporal death from a "second death," described as a spiritual death — dying "as to things pertaining unto righteousness" (vv. 12, 16-18, 24-27) — within the context of [[Final Judgment]], where thoughts, words, and works all testify for or against a person (vv. 12-15). Third, Alma reframes exclusion from the [[Tree of Life]] as protective rather than purely punitive: had Adam partaken of it while fallen, there would be no death, no preparatory period, and the plan of redemption would be "frustrated" (vv. 23-26) — mortality is what makes a probationary period, [[Repentance]], and [[Resurrection]] possible. [[Justice and Mercy]] remain conditional and Christ-centered throughout: "the works of justice could not be destroyed" (v. 32), yet whoever repents and does not harden his heart "shall have claim on mercy through mine Only Begotten Son" (v. 34).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -109,22 +115,28 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Three terms recur and structurally bind the chapter together. "Chains" first names the adversary's snare (v. 6) and is later self-glossed — "this is what is meant by the chains of hell" (v. 11) — then returns at the close: the wicked are "chained down to an everlasting destruction... according to the power and captivity of Satan" (v. 17). "Harden" (heart/hearts) recurs seven times (vv. 10, 11, 13, 33, 34, 35, 36), tying the middle doctrinal section on judgment to the closing covenant appeal into one continuous argument. "Plan of redemption" links resurrection, the preserved probationary state, angelic disclosure, and mercy through the Son (vv. 25-26, 30, 32-34). The judgment section (vv. 12-15) also draws on forensic vocabulary — condemn, works, thoughts, "the bar of God" — a detail some readers connect to the immediate narrative context of Zeezrom's legal confrontation, though that reading depends on Zeezrom's role as established earlier in Alma 10-11 rather than on anything stated in this chapter.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Alma's rhetorical strategy pivots explicitly from the singular "thou/thee" (addressed to Zeezrom, vv.3-4) to the plural "ye/you/all" (vv.5-6 onward), a marked shift the text itself calls attention to ("what I say unto thee I say unto all," v.5) rather than leaving implicit — Alma converts a private confrontation into public instruction in real time. Antionah's intervention (vv.20-21) also functions as a literary device: a formal objection voiced by a named civic leader, giving Alma's subsequent discourse on the Fall a clear rhetorical occasion rather than presenting it as an unprompted digression.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Philological/Textual Parallel *(tentative)*
+> Alma's closing appeal, "he sendeth down his wrath upon you as in the first provocation, yea, according to his word in the last provocation as well as the first" (v.36), echoes the King James idiom of Psalm 95:8 ("Harden not your heart, as in the provocation") and its New Testament reuse in Hebrews 3:8, 15.
+> — strength 0.3 · confidence 0.5 · disputed; resemblance is loose, not close reproduction
+
+> [!evidence] Internal Literary/Doctrinal Consistency *(tentative)*
+> The two-deaths / spiritual-death doctrine articulated in Alma 12 substantially matches the doctrine Jacob teaches roughly four centuries earlier in 2 Nephi 9, which the verified index already flags as a one-verse text overlap; this internal doctrinal consistency across purportedly separate authors is cited by believing readers as evidence of a coherent underlying theological system rather than ad hoc invention.
+> — strength 0.3 · confidence 0.6 · disputed; single-author explanation equally available
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+Open questions worth further study: How does the "portion of the word" principle (vv. 9-11) relate to other Book of Mormon statements about knowledge being given "according to... faith" (e.g., [[Alma 32]])? What is the significance of Antionah being named and titled "a chief ruler" rather than left anonymous — does his objection represent a specific class of Nephite skepticism? What does it mean to know God's mysteries "in full" (v. 10) — is this attainable in mortality, or an ultimate horizon? How should "everlasting destruction" and the condemned being "as though there had been no redemption made" relate to the accompanying claim that "they cannot die, seeing there is no more corruption" (vv. 17-18)? What exactly are the "first commandments" and "second commandments" named in verses 31 and 36-37 — the argument suggests a distinction between pre-Fall temporal commands and post-Fall moral commands, but neither term is fully defined here.
 <!-- SG:END questions -->
 
 ## Further Study
