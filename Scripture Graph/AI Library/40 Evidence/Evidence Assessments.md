@@ -115,6 +115,13 @@ The exact phrase “all things common,” within a broader cluster of unity and 
 
 Notes: [[Intertextual Thematic Parallel in 4 Nephi 1]]
 
+### bom-3nephi5-editorial-persona
+**Construction of Mormon's Editorial Persona in 3 Nephi 5** — *strong* (supports, evidence_strength 0.84) for: The clustered source, selection, space, purpose, and succession statements in 3 Nephi 5 construct a deliberate self-conscious editorial/abridger persona for Mormon.
+
+The compression notice, named intermediary record, self-manufactured plates, and inherited-versus-eyewitness distinction in 3 Nephi 5:8-18 strongly support deliberate construction of a self-conscious editorial persona for Mormon — the same evidence class already registered as bom-1nephi6-editorial-persona. It provides no independent discrimination between an actual ancient record-keeper and literary characterization, and does not establish Mormon's historical existence, the physical plates, or the accuracy of the omitted history.
+
+Notes: [[Narrative Source Presentation in 3 Nephi 5]]
+
 ### bom-1nephi6-editorial-persona
 **Construction of Nephi as a self-conscious editor in 1 Nephi 6** — *strong* (supports, evidence_strength 0.84) for: The final-form chapter deliberately constructs Nephi as a self-conscious editor who distinguishes sources, selects material, invokes a physical constraint, states a theological purpose, and directs later custodians.
 
@@ -471,6 +478,13 @@ Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
 Alma 54:2 (narratorial description of Moroni's motive) and 54:20 (within Ammoron's quoted reply) each explicitly name food conservation as a reason to exchange prisoners, strongly supporting that the final text presents logistics as a real, stated motive alongside the chapter's ideological and familial concerns. This says nothing about the historicity of the exchange, the authenticity of the letters, the actual severity of wartime shortages, or whether logistics was the commanders' dominant rather than one contributing motive.
 
 Notes: [[Internal Narrative Evidence in Alma 54]]
+
+### bom-alma52-surrender-disarmament-framing
+**Surrender, Disarmament, and Wartime Restraint Framing in Alma 52** — *strong* (supports, evidence_strength 0.7) for: The final text of Alma 52 deliberately frames conditional surrender and disarmament, rather than continued killing, as the means of ending armed resistance in this engagement.
+
+Moroni's conditional offer to forbear bloodshed after surrender (v.37), the captains' compliance (vv.38-39), and the final prisoner count exceeding the dead (v.40) strongly support that the final text deliberately frames disarmament and captivity as an alternative to continued killing. This reading is checked, not erased, by v.25's killing of Mulek's defenders who would not yield their weapons, so it does not establish a comprehensive Nephite law of war, Moroni's exact motive, or compliance with modern laws of armed conflict, and it says nothing about historicity or inspiration.
+
+Notes: [[Narrative Conduct In War in Alma 52]]
 
 ### bom-jsm1-jerusalem-eschaton-structure
 **Textual distinction between the Jerusalem tribulation and later material in Joseph Smith—Matthew 1** — *moderate* (supports, evidence_strength 0.5) for: The final text of Joseph Smith—Matthew 1 textually distinguishes the Jerusalem-focused tribulation of vv.12-20 from the material following v.21, sufficient to show the chapter does not present vv.12-31 as one undifferentiated description of the final coming.
