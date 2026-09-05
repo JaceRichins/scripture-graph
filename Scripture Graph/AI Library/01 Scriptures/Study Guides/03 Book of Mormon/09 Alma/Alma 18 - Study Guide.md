@@ -23,7 +23,15 @@ Scripture: [[Alma 18]] · My notes: [[Alma 18 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Testimony, astonishment, and fear (vv. 1–7):** The servants report; Lamoni calls Ammon the Great Spirit and reconsiders his executions.
+
+2. **Faithful service and uneasy encounter (vv. 8–23):** Ammon prepares the royal horses, discerns Lamoni's thoughts, denies being divine, and secures permission to teach.
+
+3. **Shared terms clarified (vv. 24–35):** Ammon moves from Lamoni's Great Spirit terminology to God as Creator, heaven, divine knowledge, and the Holy Spirit.
+
+4. **Sacred history and redemption (vv. 36–39):** Creation, Fall, Lehi's family history, the records, redemption, and Christ form one connected account.
+
+5. **Belief, prayer, and collapse (vv. 40–43):** Lamoni asks for mercy and falls as if dead.
 <!-- SG:END structure -->
 
 ## People
@@ -52,28 +60,29 @@ _Not yet developed._
 - [[Alma 20]] — 3 footnote cross-references (from [[Alma 18#^alma-18-9|Alma 18:9]])
 - [[Daniel 5]] — 2 footnote cross-references (from [[Alma 18#^alma-18-12|Alma 18:12]])
 - [[Genesis 41]] — 2 footnote cross-references (from [[Alma 18#^alma-18-16|Alma 18:16]])
-- [[Alma 22]] — 4 parallel verses, e.g. [[Alma 18#^alma-18-39|Alma 18:39]] ↔ [[Alma 22#^alma-22-13|Alma 22:13]]
 - [[Alma 20]] — 3 parallel verses, e.g. [[Alma 18#^alma-18-9|Alma 18:9]] ↔ [[Alma 20#^alma-20-8|Alma 20:8]]
 - [[Alma 30]] — 3 parallel verses, e.g. [[Alma 18#^alma-18-24|Alma 18:24]] ↔ [[Alma 30#^alma-30-37|Alma 30:37]]
-- [[Mosiah 27]] — 3 parallel verses, e.g. [[Alma 18#^alma-18-43|Alma 18:43]] ↔ [[Mosiah 27#^mosiah-27-23|Mosiah 27:23]]
-- [[Mark 10]] — 2 parallel verses, e.g. [[Alma 18#^alma-18-14|Alma 18:14]] ↔ [[Mark 10#^mark-10-51|Mark 10:51]]
 - [[Alma 12]] — 2 parallel verses, e.g. [[Alma 18#^alma-18-39|Alma 18:39]] ↔ [[Alma 12#^alma-12-30|Alma 12:30]]
-- [[Mosiah 13]] — 2 parallel verses, e.g. [[Alma 18#^alma-18-18|Alma 18:18]] ↔ [[Mosiah 13#^mosiah-13-1|Mosiah 13:1]]
-- [[Mosiah 4]] — 2 parallel verses, e.g. [[Alma 18#^alma-18-39|Alma 18:39]] ↔ [[Mosiah 4#^mosiah-4-7|Mosiah 4:7]]
-- [[Alma 19]] — 1 parallel verse, e.g. [[Alma 18#^alma-18-43|Alma 18:43]] ↔ [[Alma 19#^alma-19-5|Alma 19:5]]
 - [[Alma 43]] — 1 parallel verse, e.g. [[Alma 18#^alma-18-38|Alma 18:38]] ↔ [[Alma 43#^alma-43-13|Alma 43:13]]
+- [[Alma 22]] — 0 parallel verses
+- [[Alma 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[The Godhead]]
+- [[Jesus Christ (Gospel Topic)]]
+- [[Records and Sacred Writings]]
 - [[Scattering of Israel]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Ammon's discourse compresses much of the [[Plan of Salvation]] into a single missionary conversation: the nature of [[The Godhead]] (the Great Spirit identified as God, v.28), [[Creation]] of heaven and earth (vv.28-32), man made "after the image of God" (v.34), the [[Fall of Adam and Eve]] (v.36), and the coming of Christ as part of a plan "prepared from the foundation of the world" (v.39) — standard scriptural idiom for "from the world's beginning," not a claim about strict sequence relative to Creation.
+
+The chapter also ties [[Revelation]] and [[Spiritual Gifts]] to human limitation rather than divine status: Ammon insists he is only a man (vv.17, 19, 34) while attributing his discernment of Lamoni's thoughts (v.16) and his teaching power to "a portion of that Spirit... according to my faith and desires which are in God" (v.35). Lamoni's closing prayer joins personal and communal concern, asking mercy "upon me, and my people" (v.41) — but the chapter ends before showing lasting results, so [[Alma 19]] is needed for the fuller conversion account.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -97,22 +106,42 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The phrase "caught with guile" (v. 23) should be read alongside the narrator's description of Ammon as "wise, yet harmless" (v. 22). The immediate bargain is limited: Ammon declines material or military advantage and asks Lamoni to listen. Even so, the phrase preserves genuine rhetorical tension and should not be softened into a claim that strategy and persuasion are absent.
+
+"As if he were dead" (vv. 42–43) reports an appearance rather than declaring Lamoni dead. The servants carry him to his wife, and his family mourns what they understand as his loss. Claims about the precise physical or spiritual nature of his condition go beyond this chapter.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Two verbal details are worth flagging as language rather than doctrine, both as surface-text observations rather than established literary dependence. Ammon's question to the king, "What wilt thou that I should do for thee, O king?" (v.14), echoes the King James idiom of Jesus's questions in the Gospels (compare Mark 10:36, 10:51) — most plausibly a feature of the consistently KJV-style English register used throughout the translation, rather than evidence of conscious allusion to those specific verses. Similarly, the narrator's description of Ammon as "wise, yet harmless" (v.22) recalls Matthew 10:16's "wise as serpents, and harmless as doves"; worth noting as a possible echo, though the text doesn't flag it as deliberate allusion. Also notable: "Rabbanah" (v.13) is a case where the record supplies and glosses a non-English royal title ("powerful or great king") instead of translating it away; any relationship to the similar-sounding New Testament title "Rabboni" is unverifiable from the text and should be treated as coincidence unless better sourced.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Narrative Sequence
+> Within the chapter's narrative, Lamoni's movement from inherited assumptions through fear, questioning, belief, and prayer supports reading his conversion as a process rather than a single unprepared reaction.
+> — strength 0.8 · confidence 0.9 · well-hedged evidence claim · [[Narrative Sequence in Alma 18|full dossier]]
+
+> [!evidence] Internal Narrative Evidence
+> The question-and-answer progression from 'Great Spirit' to God, creation, heaven, and revelation is strong internal evidence that the narrative portrays Ammon as adapting instruction to Lamoni's present vocabulary and understanding.
+> — strength 0.8 · confidence 0.9 · well-hedged evidence claim · [[Internal Narrative Evidence in Alma 18|full dossier]]
+
+> [!evidence] Linguistic Curiosity *(tentative)*
+> "Rabbanah," glossed in the text as "powerful or great king" (18:13), is one of the rare instances where the Book of Mormon preserves and translates a non-English royal title used by Lamanites; the surface resemblance to the New Testament title "Rabboni" (John 20:16) has been noted by some readers, but the two arise in unrelated narrative and (presumed) linguistic settings.
+> — strength 0.1 · confidence 0.4 · speculative curiosity, honestly labeled
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the narrative place Ammon's ordinary obedience in preparing horses beside his extraordinary power in defending the flocks?
+
+- How does Ammon correct Lamoni's mistaken beliefs without beginning by rejecting all of Lamoni's inherited vocabulary?
+
+- Does "caught with guile" describe harmless rhetorical skill, manipulation, or a deliberately provocative mixture of both?
+
+- What changes between Lamoni's fear of punishment in verses 4–6 and his appeal to abundant mercy in verse 41?
+
+- Which conclusions about Lamoni's collapse can be drawn from Alma 18 itself, and which depend on [[Alma 19]]?
 <!-- SG:END questions -->
 
 ## Further Study
