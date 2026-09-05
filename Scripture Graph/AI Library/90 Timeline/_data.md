@@ -9611,6 +9611,90 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-deut-30-ded145ae",
+   "t": "Moses' covenant-renewal address on the plains of Moab",
+   "y0": -1406,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology places Moses' closing addresses shortly before Israel's crossing of the Jordan into Canaan, conventionally dated near 1406 BCE; the date is disputed among historians and depends on one's view of Exodus chronology.",
+   "chapters": [
+    "Deuteronomy 30"
+   ],
+   "people": [
+    "Moses",
+    "Abraham",
+    "Isaac"
+   ],
+   "places": [
+    "Jordan River"
+   ]
+  },
+  {
+   "id": "r-deut-32-8811ea3b",
+   "t": "Moses delivers the Song of Moses on the plains of Moab",
+   "y0": -1410,
+   "y1": -1400,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed near the end of the 40-year wilderness period, shortly before Moses' death and Israel's crossing of the Jordan; exact date depends on disputed early vs. late Exodus chronology.",
+   "chapters": [
+    "Deuteronomy 32"
+   ],
+   "people": [
+    "Moses",
+    "Aaron",
+    "Hoshea/Joshua"
+   ],
+   "places": [
+    "Moab",
+    "Mount Nebo"
+   ],
+   "things": [
+    "Song of Moses"
+   ]
+  },
+  {
+   "id": "r-deut-33-295eafb6",
+   "t": "Moses blesses the tribes of Israel before his death",
+   "y0": -1451,
+   "y1": -1451,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Bible-chronology dating places Moses' death, and this preceding blessing, roughly 40 years after a traditional Exodus date of c. 1491 BC; the Exodus date itself is disputed among scholars.",
+   "chapters": [
+    "Deuteronomy 33"
+   ],
+   "people": [
+    "Moses",
+    "Joseph"
+   ],
+   "places": [
+    "Mount Sinai"
+   ],
+   "things": [
+    "Urim and Thummim"
+   ]
+  },
+  {
    "id": "r-esth-1-91f6b731",
    "t": "Ahasuerus (Xerxes I) hosts his third-year feast at Susa",
    "y0": -483,

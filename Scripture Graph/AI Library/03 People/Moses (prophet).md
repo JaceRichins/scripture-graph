@@ -40,6 +40,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **1526 BC** — Moses drawn from the Nile · [[Exodus 2]] · [[1600-1501 BC]] *(traditional dating)*
 - **1491 BC** — Sinai covenant ceremony and Moses's ascent · [[Exodus 24]] · [[1500-1401 BC]] *(traditional dating)*
+- **1451 BC** — Moses blesses the tribes of Israel before his death · [[Deuteronomy 33]] · [[1500-1401 BC]] *(traditional dating)*
 - **1450 BC–1449 BC** — Twelve spies sent from Paran to scout Canaan · [[Numbers 13]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The burning bush at Horeb · [[Exodus 3]] · [[Moses 1]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The Exodus from Egypt; the Red Sea · [[Exodus 12]] · [[Exodus 14]] · [[1500-1401 BC]] *(traditional dating)*
@@ -49,7 +50,6 @@ _Not yet developed._
 - **1445 BC–1444 BC** — Consecration of the Levites for tabernacle service · [[Numbers 8]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC** — The tabernacle raised · [[Exodus 40]] · [[Leviticus 9]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC–1406 BC** — Forty years in the wilderness · [[Numbers 14]] · [[Deuteronomy 8]] · [[1500-1401 BC]] *(traditional dating)*
-- **1407 BC–1400 BC** — Moses' Transjordan conquest and land grant to Reuben, Gad, half-Manasseh · [[Joshua 13]] · [[1500-1401 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

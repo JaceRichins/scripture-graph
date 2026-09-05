@@ -44,6 +44,7 @@ _Not yet developed._
 - **1445 BC–1444 BC** — Aaron's Inaugural Sacrifices at the Wilderness Tabernacle · [[Leviticus 9]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC–1444 BC** — Consecration of the Levites for tabernacle service · [[Numbers 8]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC** — The tabernacle raised · [[Exodus 40]] · [[Leviticus 9]] · [[1500-1401 BC]] *(traditional dating)*
+- **1410 BC–1400 BC** — Moses delivers the Song of Moses on the plains of Moab · [[Deuteronomy 32]] · [[1500-1401 BC]] *(traditional dating)*
 - **715 BC–686 BC** — Hezekiah's reign and first-month temple reform · [[2 Chronicles 29]] · [[800-701 BC]] *(historical)*
 - **90 BC–77 BC** — Mission among the Lamanites recalled by Ammon · [[Alma 26]] · [[100-1 BC]] *(approximate)*
 
