@@ -17,6 +17,13 @@ The opening frame ('the same God who worketh all in all... manifestations of the
 
 Notes: [[Textual Intertextuality in Moroni 10]]
 
+### bom-2nephi7-isaiah50-variants
+**2 Nephi 7 Isaiah Variants as Evidence of a Distinct Ancient Vorlage** — *none* (supports, evidence_strength 0.1) for: The wording differences between 2 Nephi 7 and KJV Isaiah 50 (added 'O house of Israel' addresses in vv.2, 4, and the added 'strength of my mouth' clause in v.8) reflect access to a genuinely divergent ancient Hebrew text rather than translation-level, editorial, or modern KJV adaptation.
+
+2 Nephi 7 clearly departs from KJV Isaiah 50 at several points, firmly establishing a distinct English form. But no specific ancient witness (Dead Sea Scrolls, Septuagint, Targum) is shown to corroborate any of these variants, and the corpus's own well-established KJV-mediation pattern (bom-isaiah-textual-dependence, 0.84) makes translation-level or editorial expansion the better-supported default explanation for this kind of departure. Rival models therefore predict the same pattern about as well as, or better than, a genuinely divergent Vorlage, placing this in the none band for the ancient-Vorlage proposition specifically.
+
+Notes: [[Textual Variants in 2 Nephi 7]]
+
 ### jsm-matthew24-ad70-corroboration
 **AD 70 temple destruction and the historical status of Joseph Smith—Matthew's prediction** — *none* (neutral, evidence_strength 0.06) for: The historical destruction of Jerusalem's temple independently supports Joseph Smith—Matthew 1 as preserving a genuine pre-event prediction rather than a tradition or revision produced after the event.
 
@@ -424,11 +431,11 @@ The near-verbatim two-clause sequence, recast from third to first person, strong
 Notes: [[Textual Interrelationship in 3 Nephi 9]] · [[TextualLiterary in 3 Nephi 9]]
 
 ### bom-3nephi26-john5-intertext
-**John 5 resurrection formula in 3 Nephi 26:4–5** — *strong* (supports, evidence_strength 0.83) for: The final text of 3 Nephi 26:4–5 has a deliberate textual or tradition-level relationship with the resurrection saying in John 5:28–29.
+**John 5 Resurrection Formula in 3 Nephi 26:4-5** — *strong* (supports, evidence_strength 0.83) for: The final English wording of 3 Nephi 26:4-5 has a deliberate textual or translation-level relationship with John 5:28-29.
 
-The matched good-and-evil contrast, paired resurrection outcomes, distinctive damnation wording, and preserved order strongly support a relationship between 3 Nephi 26:4–5 and John 5:28–29. Historical repetition, shared tradition, translation-level harmonization, revelatory expression, and modern adaptation remain viable mechanisms.
+The matched good-and-evil contrast, paired resurrection outcomes, distinctive damnation wording, and preserved order strongly support a relationship between 3 Nephi 26:4-5 and John 5:28-29. Historical repetition, shared tradition, translation-level harmonization, revelatory expression, and modern adaptation remain viable mechanisms.
 
-Notes: [[Scriptural Intertextuality in 3 Nephi 26]]
+Notes: [[Scriptural Intertextuality in 3 Nephi 26]] · [[TextualLinguistic Parallel in 3 Nephi 26]]
 
 ### pgp-abraham1-genesis12-intertextuality
 **Literary relationship between Abraham 1 and the Genesis 12 call narrative** — *moderate* (supports, evidence_strength 0.58) for: Abraham 1:16 and 1:19 deliberately participate in the Genesis 12 call tradition in the received English text.
@@ -485,6 +492,20 @@ Notes: [[Verbal And Thematic Intertext in 3 Nephi 10]]
 The sustained sequence and close English wording strongly support Matthew/KJV textual mediation. The evidence does not distinguish a historically repeated sermon rendered in biblical English, revelatory or editorial harmonization, and nineteenth-century adaptation.
 
 Notes: [[Extended Textual Parallel in 3 Nephi 13]] · [[Textual And Literary Dependence in 3 Nephi 14]] · [[Textual Dependence And Intertextuality in 3 Nephi 12]] · [[Textual Parallel in 3 Nephi 12]]
+
+### pgp-moses3-genesis2-literary-dependence
+**Moses 3 Dependence on the Genesis 2 Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The final English text of Moses 3 has a direct literary or transmission relationship with the Genesis 2 textual tradition.
+
+The sustained sequence and close wording across the formation of man, the garden, the tree command, and the creation of woman strongly support a literary or transmission relationship between Moses 3 and Genesis 2, in line with the registry's other Genesis/Exodus dependence issues (all capped near 0.84 absent independent external attestation). It does not establish the direction of dependence, an ancient source language, the historicity of Eden, or whether the added material is ancient restoration, revelatory harmonization, or editorial expansion.
+
+Notes: [[Textual Relationship in Moses 3]]
+
+### pgp-moses6-genesis5-literary-dependence
+**Moses 6 Dependence on the Genesis 5 Genealogical Tradition** — *strong* (supports, evidence_strength 0.84) for: Moses 6's genealogy has a direct literary or transmission relationship with the Genesis 5 textual tradition.
+
+The shared generational order, matching ages and lifespans, and formulaic wording strongly support a literary or transmission relationship between Moses 6 and Genesis 5, consistent with the registry's other Genesis-dependence issues capped near 0.84 absent independent external attestation. It does not establish the historicity of the ages, the antiquity of the added prophetic and narrative material, or whether that material is ancient restoration, revelatory expansion, or nineteenth-century composition.
+
+Notes: [[Textual Relationship in Moses 6]]
 
 ### bom-2nephi29-multiple-records-theme
 **Multiple sacred records as the organizing theme of 2 Nephi 29** — *strong* (supports, evidence_strength 0.75) for: The final-form discourse in 2 Nephi 29:3-14 deliberately organizes its objection, theological rationale, catalogue of writing peoples, and promised exchange and gathering around the theme of multiple sacred records.
