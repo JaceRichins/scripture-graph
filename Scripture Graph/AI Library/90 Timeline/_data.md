@@ -10352,6 +10352,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ezra-2-9598ece7",
+   "t": "Return of exiles from Babylon under Zerubbabel",
+   "y0": -538,
+   "y1": -536,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "temples"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally placed shortly after Cyrus's decree (dated c. 538 BC in Ezra 1); Ezra 2 itself gives no explicit regnal year for this specific list.",
+   "chapters": [
+    "Ezra 2"
+   ],
+   "people": [
+    "Zerubbabel",
+    "Jeshua"
+   ],
+   "places": [
+    "Babylon",
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-ezra-7-b3ca7cec",
    "t": "Ezra's Commission and Journey to Jerusalem",
    "y0": -458,
