@@ -10532,6 +10532,35 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-gen-17-d9c0a5ba",
+   "t": "Covenant renewed, circumcision instituted at Abraham's age 99",
+   "y0": -1898,
+   "y1": -1898,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Text states Abraham was ninety-nine years old (Genesis 17:1, 17:24); year computed only under traditional biblical chronology reckonings, not independently datable.",
+   "chapters": [
+    "Genesis 17"
+   ],
+   "people": [
+    "Abraham (patriarch)",
+    "Sarah",
+    "Ishmael"
+   ],
+   "places": [
+    "Canaan"
+   ],
+   "things": [
+    "Circumcision"
+   ]
+  },
+  {
    "id": "r-gen-19-ff9e17be",
    "t": "Destruction of Sodom and Gomorrah (patriarchal era)",
    "y0": -2000,
@@ -10606,6 +10635,55 @@ timeline module, not this file._
    "places": [
     "Mesopotamia (city of Nahor)",
     "Beer-lahai-roi"
+   ]
+  },
+  {
+   "id": "r-gen-25-d9d44f86",
+   "t": "Esau sells his birthright to Jacob",
+   "y0": -1835,
+   "y1": -1810,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The text places this 'when the boys grew' (25:27) but gives no specific age, so the timing relative to the twins' birth is broadly estimated rather than fixed.",
+   "chapters": [
+    "Genesis 25"
+   ],
+   "people": [
+    "Jacob",
+    "Esau"
+   ]
+  },
+  {
+   "id": "r-gen-25-f513906d",
+   "t": "Death of Abraham at age 175",
+   "y0": -1835,
+   "y1": -1825,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Patriarchal narratives are traditionally placed in the Middle Bronze Age (~2000-1800 BC) based on internal genealogical ages (Genesis 25:7); no independent extrabiblical source confirms an exact date.",
+   "chapters": [
+    "Genesis 25"
+   ],
+   "people": [
+    "Abraham",
+    "Isaac",
+    "Ishmael"
+   ],
+   "places": [
+    "Cave of Machpelah"
+   ],
+   "things": [
+    "Cave of Machpelah"
    ]
   },
   {
