@@ -23,7 +23,15 @@ Scripture: [[Daniel 9]] · My notes: [[Daniel 9 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Setting and scripture study (vv. 1–2):** Daniel reads Jeremiah's seventy-year prophecy.
+
+2. **Preparation and confession (vv. 3–14):** He fasts, confesses collective rebellion, and acknowledges the covenant curse written in the [[Law of Moses]].
+
+3. **Petition for Jerusalem (vv. 15–19):** He recalls the exodus, appeals to mercy rather than merit, and asks God to restore the city and sanctuary for his own name's sake.
+
+4. **Gabriel's arrival (vv. 20–23):** The answer is dispatched from the beginning of the supplication and arrives while Daniel is still praying.
+
+5. **The seventy weeks (vv. 24–27):** Gabriel describes six redemptive goals, segmented periods, an anointed prince who is cut off, the destruction of city and sanctuary, and a final period of covenant, interrupted sacrifice, and desolation.
 <!-- SG:END structure -->
 
 ## People
@@ -56,20 +64,31 @@ _Not yet developed._
 - [[1 Corinthians 9]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[1 Corinthians 9#^1cor-9-9|1 Corinthians 9:9]]
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Daniel 9#^dan-9-13|Daniel 9:13]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
 - [[Jeremiah 11]] — 1 parallel verse, e.g. [[Daniel 9#^dan-9-7|Daniel 9:7]] ↔ [[Jeremiah 11#^jer-11-2|Jeremiah 11:2]]
+- [[Jeremiah 25]] — 0 parallel verses
+- [[Jeremiah 29]] — 0 parallel verses
+- [[Leviticus 26]] — 0 parallel verses
 - [[Daniel 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Matthew 24]]
+- [[Scripture Study]]
+- [[Repentance and Forgiveness]]
+- [[Law of Moses]]
+- [[Scattering of Israel]]
+- [[Prophecy]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Prayer]] *(keyword match — unconfirmed)*
-- [[Prophets]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Daniel's prayer holds [[Justice and Mercy]] together. He does not minimize Israel's rebellion or accuse God of injustice; neither does he treat judgment as the end of the covenant relationship. His decisive appeal is, “not ... for our righteousnesses, but for thy great mercies” (v. 18). This makes repentance an act of truthful confession and dependent hope.
+
+The chapter also models intercessory repentance. Daniel says “we” and confesses his own sin alongside that of his people (vv. 5–6, 20). The prayer is therefore neither detached blame nor a claim that personal confession mechanically transfers guilt; it is covenant solidarity before God.
+
+A Christian reading connects the oracle's reconciliation for iniquity and the cutting off of Messiah with the [[Atonement of Jesus Christ]]. That reading has substantial thematic coherence, but the chapter's various figures and dates should not be treated as unambiguous merely because the larger Christian identification is meaningful.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -88,25 +107,41 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The prayer repeatedly contrasts God's righteousness and covenant mercy with Israel's shame, rebellion, and disobedience. Israel has no righteousness to present, yet God possesses great mercies; this contrast supplies the moral logic of the petition.
+
+Daniel 9:19 accelerates through five imperative verbs—“hear,” “forgive,” “hearken,” “do,” and “defer not”—which may also be heard as four appeal units because “hearken and do” forms one clause. Repetition of “O Lord” intensifies the conclusion. Gabriel's language of giving “skill and understanding,” understanding the matter, considering the vision, and knowing and understanding (vv. 22-25) echoes Daniel's initial effort to understand scripture in verse 2.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter's principal movement is from **seventy years** (v. 2) to **seventy weeks** (v. 24). The correspondence is unlikely to be incidental, but it does not independently settle the calendar represented by the weeks. The oracle is also framed by the problem of the desolate sanctuary: Daniel asks that God's face shine on it (v. 17), Gabriel arrives at the time of the evening oblation (v. 21), and the prophecy anticipates the cessation of sacrifice and renewed desolation (v. 27). This frame keeps the numerical revelation tied to worship, covenant, sin, and restoration.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Intratextual Messianic Convergence *(tentative)*
+> Within the oracle, reconciliation for iniquity, everlasting righteousness, the arrival of Messiah the Prince, and the Messiah being cut off form a meaningful convergence that supports a Christian reading centered on Jesus Christ and his atoning death.
+> — strength 0.6 · confidence 0.9 · Thematically coherent Christian interpretation; historical referents disputed
+
+> [!evidence] Literary And Chronological Inference *(tentative)*
+> The movement from Jeremiah's seventy years to seventy weeks supports reading the latter as a schematic multiplication or extension of the exile period, often understood as seventy units of seven years; Daniel 9 itself, however, does not explicitly state that each week equals seven years.
+> — strength 0.6 · confidence 0.8 · Common reading, textually implicit and chronologically disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does Daniel respond to a promise of restoration with confession instead of assuming that restoration will occur without repentance?
+
+- What changes when a prayer appeals to God's name and mercy rather than the petitioner's merit?
+
+- How do the six purposes in verse 24 govern the interpretation of the chronological details that follow?
+
+- Do “Messiah the Prince,” “the prince that shall come,” and the subject called “he” in verse 27 refer to the same figure? What textual evidence favors or challenges each reading?
+
+- Does “the most Holy” in verse 24 designate a person, a sanctuary, or another consecrated reality?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare Daniel's use of the seventy years with [[Jeremiah 25]] and [[Jeremiah 29]]. Read the confession alongside the anticipated exilic prayer in [[1 Kings 8]], the confession-and-covenant pattern in [[Leviticus 26]], and the covenant sanctions of [[Deuteronomy 28]]. [[Ezra 9]] and [[Nehemiah 9]] provide additional examples of communal penitential prayer and guard against treating any single parallel as exclusive. For New Testament reception of Daniel's desolation language, compare [[Matthew 24]] and [[Mark 13]]. These relationships illuminate Daniel 9 without requiring one harmonized chronological scheme.
 <!-- SG:END further-study -->
