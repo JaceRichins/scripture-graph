@@ -130,7 +130,7 @@ The Liahona interpretation is not merely an inferred resemblance; Alma calls it 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Coherence
 > The recurrence of small means, preservation, guidance, diligence, and salvation across the record instructions and Liahona discourse is meaningful evidence that Alma 37 functions as an integrated didactic composition rather than as a collection of unrelated sayings.
-> — strength 0.7 · confidence 0.9 · Accepted coherence; design mechanism disputed · [[Literary Coherence in Alma 37|full dossier]]
+> — confidence 0.9 · Accepted coherence; design mechanism disputed · [[Literary Coherence in Alma 37|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

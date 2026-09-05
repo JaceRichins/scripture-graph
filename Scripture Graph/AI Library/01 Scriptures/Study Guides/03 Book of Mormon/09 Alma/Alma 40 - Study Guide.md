@@ -61,6 +61,7 @@ _Not yet developed._
 - [[Mormon 7]] — 1 parallel verse, e.g. [[Alma 40#^alma-40-3|Alma 40:3]] ↔ [[Mormon 7#^morm-7-6|Mormon 7:6]]
 - [[Moses 7]] — 1 parallel verse, e.g. [[Alma 40#^alma-40-14|Alma 40:14]] ↔ [[Moses 7#^moses-7-1|Moses 7:1]]
 - [[Ecclesiastes 12]] — 0 parallel verses
+- [[Alma 41]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

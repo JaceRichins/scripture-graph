@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **66 BC–64 BC** — Ammoron's Lamanite kingship and the retaking of Mulek · [[Alma 52]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **66 BC–62 BC** — Helaman's Epistle and the Judea Campaign · [[Alma 56]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **62 BC–57 BC** — Recapture of Nephihah and death of Ammoron and Teancum · [[Alma 62]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **62 BC–61 BC** — End of the long Nephite-Lamanite war · [[Alma 62]] · [[100-1 BC]] *(approximate)*
 

@@ -121,11 +121,11 @@ The chapter is organized around reversals: war ends but suffering remains; suffe
 <!-- SG:BEGIN evidence -->
 > [!evidence] Explicit Narrative Causal Attribution
 > Alma 4 gives strong textual evidence for the narrator's view that misconduct by professed believers can damage a religious community's public witness: church wickedness is called a stumbling-block, and Alma sees its example as influencing unbelievers toward further iniquity.
-> — strength 0.8 · confidence 0.9 · broadly accepted, correctly scoped · [[Explicit Narrative Causal Attribution in Alma 4|full dossier]]
+> — confidence 0.9 · broadly accepted, correctly scoped · [[Explicit Narrative Causal Attribution in Alma 4|full dossier]]
 
 > [!evidence] Intra-Textual Ethical Contrast
 > The contrast between wealth obtained by industry, prideful treatment of others, and voluntary aid to the needy supports the interpretation that the chapter's ethical critique centers strongly on pride and the social use of possessions, not simply on productive labor itself.
-> — strength 0.7 · confidence 0.8 · accepted observation / disputed interpretation, honestly labeled · [[Intra-Textual Ethical Contrast in Alma 4|full dossier]]
+> — confidence 0.8 · accepted observation / disputed interpretation, honestly labeled · [[Intra-Textual Ethical Contrast in Alma 4|full dossier]]
 
 > [!evidence] Internal Literary Consistency *(tentative)*
 > The wealth-catalogue formula in Alma 4:6 ('fine silks, and...fine-twined linen...gold and...silver') recurs in comparable form across multiple Nephite-record chapters describing the onset of pride (e.g., verified overlaps of related material appear near Mosiah 11), suggesting a consistent, possibly editorial, literary convention within the Book of Mormon for marking the transition from prosperity to pride.

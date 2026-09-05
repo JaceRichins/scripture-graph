@@ -44,6 +44,7 @@ _Not yet developed._
 - **589 BC** — Lehi's family crosses the ocean · [[1 Nephi 17]] · [[1 Nephi 18]] · [[600-501 BC]] *(traditional dating)*
 - **77 BC–76 BC** — Battle and close of the fifteenth year · [[Alma 28]] · [[100-1 BC]] *(approximate)*
 - **74 BC** — Moroni's first recorded campaign against Zerahemnah · [[Alma 43]] · [[100-1 BC]] *(approximate)*
+- **72 BC** — Failed Lamanite campaign against Ammonihah and Noah · [[Alma 49]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

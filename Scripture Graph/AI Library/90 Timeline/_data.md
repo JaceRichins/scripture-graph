@@ -7334,6 +7334,63 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-45-0a64f5cf",
+   "t": "Helaman reestablishes the churches",
+   "y0": -73,
+   "y1": -73,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Alma 45 places Helaman's ministry at the commencement of the nineteenth year of the reign of the judges.",
+   "chapters": [
+    "Alma 45"
+   ],
+   "people": [
+    "Helaman",
+    "Helaman's brethren"
+   ],
+   "places": [
+    "Nephite lands"
+   ],
+   "things": [
+    "churches"
+   ]
+  },
+  {
+   "id": "r-alma-45-2b6b678c",
+   "t": "Alma commissions Helaman and departs",
+   "y0": -73,
+   "y1": -73,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The narrative places these events in the nineteenth year of the reign of the judges; the chapter heading conventionally dates the chapter to about 73 B.C.",
+   "chapters": [
+    "Alma 45"
+   ],
+   "people": [
+    "Alma",
+    "Helaman"
+   ],
+   "places": [
+    "Zarahemla",
+    "Melek"
+   ],
+   "things": [
+    "sacred records",
+    "written prophecy"
+   ]
+  },
+  {
    "id": "r-alma-46-21dea0da",
    "t": "Amalickiahite revolt and the title of liberty",
    "y0": -73,
@@ -7418,6 +7475,32 @@ timeline module, not this file._
    "places": [
     "land of Nephi",
     "Zarahemla"
+   ]
+  },
+  {
+   "id": "r-alma-49-c0094751",
+   "t": "Failed Lamanite campaign against Ammonihah and Noah",
+   "y0": -72,
+   "y1": -72,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Alma 49:1 dates the Lamanite approach to the eleventh month of the nineteenth year of the reign of the judges; v. 29 closes the nineteenth year, traditionally correlated to about 72 BC.",
+   "chapters": [
+    "Alma 49"
+   ],
+   "people": [
+    "Lehi",
+    "Amalickiah",
+    "Moroni"
+   ],
+   "places": [
+    "Ammonihah",
+    "land of Noah"
    ]
   },
   {
@@ -7566,6 +7649,59 @@ timeline module, not this file._
    "places": [
     "Land of Bountiful",
     "City of Mulek"
+   ]
+  },
+  {
+   "id": "r-alma-56-045c754d",
+   "t": "Helaman joins the depleted army of Antipus",
+   "y0": -66,
+   "y1": -66,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Alma 56:7–20 places these events in the twenty-sixth year; the supplied official chapter heading dates verses 2–19 to about 66 B.C.",
+   "chapters": [
+    "Alma 56"
+   ],
+   "people": [
+    "Helaman",
+    "Antipus",
+    "two thousand young Ammonites"
+   ],
+   "places": [
+    "Judea"
+   ]
+  },
+  {
+   "id": "r-alma-56-cebe85a0",
+   "t": "Helaman's Epistle and the Judea Campaign",
+   "y0": -66,
+   "y1": -62,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Internal reign-of-judges year markers place the dispatch of the epistle in the thirtieth year (v.1) and the narrated campaign in the twenty-sixth and twenty-seventh years (vv.7, 9, 20), consistent with the chapter heading's dating of about 66-62 B.C.",
+   "chapters": [
+    "Alma 56"
+   ],
+   "people": [
+    "Helaman",
+    "Antipus",
+    "Moroni",
+    "Ammoron"
+   ],
+   "places": [
+    "Judea",
+    "Antiparah"
    ]
   },
   {

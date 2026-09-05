@@ -117,7 +117,7 @@ The chapter builds to a chain of three parallel rhetorical questions in vv.17-19
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Evidence
 > Alma 39 supplies direct textual evidence that its speaker considers knowledge of Christ and the plan of redemption necessary before Christ's coming. The argument appeals to the equal preciousness of present and future souls and to God's ability to send an angel in either period.
-> — strength 0.8 · confidence 0.9 · sound internal-textual argument, not external consensus · [[Internal Textual Evidence in Alma 39|full dossier]]
+> — strength 0.1 · confidence 0.9 · sound internal-textual argument, not external consensus · [[Internal Textual Evidence in Alma 39|full dossier]]
 
 > [!evidence] Internal Doctrinal Argument *(tentative)*
 > Alma teaches, via a chain of rhetorical questions, that the saving efficacy of Christ's atonement and the value of a soul's knowledge of it are not contingent on chronological proximity to the coming of Christ — a soul before Christ's coming is 'as precious' as one born after it.
