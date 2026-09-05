@@ -48,9 +48,9 @@ _Not yet developed._
 - **AD 46–AD 48** — Paul and Barnabas Begin the First Missionary Journey · [[Acts 13]] · [[AD 1-100]] *(traditional dating)*
 - **AD 46–AD 48** — Paul and Barnabas's Lycaonian mission (first journey) · [[Acts 14]] · [[AD 1-100]] *(approximate)*
 - **AD 48–AD 50** — Jerusalem deliberation concerning Gentile believers · [[Acts 15]] · [[AD 1-100]] *(approximate)*
+- **AD 48–AD 57** — Composition of Paul's Epistle to the Galatians · [[Galatians 6]] · [[AD 1-100]] *(approximate)*
 - **AD 49** — The Jerusalem council · [[Acts 15]] · [[AD 1-100]] *(historical)*
 - **AD 49–AD 51** — Paul ministers in Thessalonica, Berea, and Athens · [[Acts 17]] · [[AD 1-100]] *(approximate)*
-- **AD 50–AD 51** — Paul writes 1 Thessalonians, likely from Corinth · [[1 Thessalonians 1]] · [[AD 1-100]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

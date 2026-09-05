@@ -80,3 +80,10 @@ _Not yet developed._
 <!-- SG:BEGIN synthesis -->
 _Not yet developed._
 <!-- SG:END synthesis -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **2000 BC–1900 BC** — Covenant of the Pieces made with Abram · [[Genesis 15]] · [[2000-1901 BC]] *(traditional dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

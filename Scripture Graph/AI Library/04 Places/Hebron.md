@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **2000 BC–1900 BC** — Abram separates from Lot and settles at Hebron · [[Genesis 13]] · [[2000-1901 BC]] *(traditional dating)*
 - **1450 BC–1449 BC** — Twelve spies sent from Paran to scout Canaan · [[Numbers 13]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1350 BC** — Caleb's line: Bezaleel to Judahite town-founding · [[1 Chronicles 2]] · [[1500-1401 BC]] *(traditional dating)*
 - **1400 BC** — Caleb receives Hebron as his inheritance · [[Joshua 14]] · [[1400-1301 BC]] *(traditional dating)*

@@ -10430,6 +10430,108 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-gal-6-74065cd5",
+   "t": "Composition of Paul's Epistle to the Galatians",
+   "y0": 48,
+   "y1": 57,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Dating depends on the unresolved 'South Galatia' hypothesis (shortly after Paul's first missionary journey, c. AD 48-49) versus the 'North Galatia' hypothesis (during his third missionary journey, c. AD 53-57); scholars remain divided.",
+   "chapters": [
+    "Galatians 6"
+   ],
+   "people": [
+    "Paul"
+   ],
+   "places": [
+    "Galatia"
+   ]
+  },
+  {
+   "id": "r-gen-12-5e77a9b1",
+   "t": "Call of Abram and departure from Haran to Canaan",
+   "y0": -1921,
+   "y1": -1921,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology (e.g., Ussher-style reckoning used in some LDS Bible Dictionary tables) places Abram's call and departure from Haran at about 1921 BC; this date is not independently verifiable and is disputed among historians.",
+   "chapters": [
+    "Genesis 12"
+   ],
+   "people": [
+    "Abraham",
+    "Sarah"
+   ],
+   "places": [
+    "Haran",
+    "Canaan"
+   ]
+  },
+  {
+   "id": "r-gen-13-f4c91769",
+   "t": "Abram separates from Lot and settles at Hebron",
+   "y0": -2000,
+   "y1": -1900,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional LDS Bible Dictionary-style chronology places Abraham's life roughly in this range; the chapter itself gives no absolute date, and the dating of the patriarchal narratives is disputed among scholars.",
+   "chapters": [
+    "Genesis 13"
+   ],
+   "people": [
+    "Abraham",
+    "Lot"
+   ],
+   "places": [
+    "Hebron",
+    "Canaan"
+   ]
+  },
+  {
+   "id": "r-gen-15-d06da760",
+   "t": "Covenant of the Pieces made with Abram",
+   "y0": -2000,
+   "y1": -1900,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional patriarchal chronologies place Abraham's life around 2000 BC; Genesis gives no external synchronism, so this date is conventional rather than independently fixed.",
+   "chapters": [
+    "Genesis 15"
+   ],
+   "people": [
+    "Abraham"
+   ],
+   "places": [
+    "Canaan"
+   ],
+   "things": [
+    "Abrahamic Covenant"
+   ]
+  },
+  {
    "id": "r-gen-19-ff9e17be",
    "t": "Destruction of Sodom and Gomorrah (patriarchal era)",
    "y0": -2000,
