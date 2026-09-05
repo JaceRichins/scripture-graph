@@ -38,6 +38,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **1740 BC–1710 BC** — Joseph sold into Egypt; rises to rule · [[Genesis 37]] · [[Genesis 39]] · [[Genesis 41]] · [[1800-1701 BC]] *(approximate)*
 - **1526 BC** — Moses drawn from the Nile · [[Exodus 2]] · [[1600-1501 BC]] *(traditional dating)*
+- **1491 BC–1445 BC** — Giving of the Ten Commandments at Sinai · [[Exodus 20]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The Exodus from Egypt; the Red Sea · [[Exodus 12]] · [[Exodus 14]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1445 BC** — Israel's departure from Egypt and early wilderness journey · [[Exodus 13]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1406 BC** — Exodus and wilderness rebellions recalled in Psalm 106 · [[Psalm 106]] · [[1500-1401 BC]] *(traditional dating)*
@@ -47,7 +48,6 @@ _Not yet developed._
 - **740 BC–700 BC** — Isaiah's oracle against Egypt delivered · [[Isaiah 19]] · [[800-701 BC]] *(traditional dating)*
 - **671 BC–663 BC** — Assyrian conquest and sack of Egypt under Esarhaddon and Ashurbanipal · [[Isaiah 19]] · [[700-601 BC]] *(historical)*
 - **609 BC** — Jehoahaz (Shallum) deposed, exiled to Egypt · [[Jeremiah 22]] · [[700-601 BC]] *(historical)*
-- **609 BC–598 BC** — Execution of the prophet Urijah by Jehoiakim · [[Jeremiah 26]] · [[700-601 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

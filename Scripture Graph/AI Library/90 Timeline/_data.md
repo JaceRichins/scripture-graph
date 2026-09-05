@@ -9867,6 +9867,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ex-20-a52c1341",
+   "t": "Giving of the Ten Commandments at Sinai",
+   "y0": -1491,
+   "y1": -1445,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Latter-day Saint and Ussher-style chronologies place the Exodus and the subsequent giving of the law at Sinai (about three months later, per Exodus 19:1) within the 15th century BC; exact year is disputed among chronologies.",
+   "chapters": [
+    "Exodus 20"
+   ],
+   "people": [
+    "Moses (prophet)"
+   ],
+   "places": [
+    "Egypt"
+   ]
+  },
+  {
    "id": "r-ex-24-54fbe531",
    "t": "Sinai covenant ceremony and Moses's ascent",
    "y0": -1491,
@@ -9891,6 +9915,65 @@ timeline module, not this file._
    ],
    "places": [
     "Mount Sinai"
+   ]
+  },
+  {
+   "id": "r-ex-28-7ac9313f",
+   "t": "Sinai lawgiving and tabernacle instructions",
+   "y0": -1491,
+   "y1": -1451,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "LDS Bible Dictionary places Sinai lawgiving here; critical scholarship dates Exodus tradition variously (e.g., c. 1250 BC); some question a unified historical event.",
+   "chapters": [
+    "Exodus 28"
+   ],
+   "people": [
+    "Aaron",
+    "Moses"
+   ],
+   "places": [
+    "Mount Sinai"
+   ],
+   "things": [
+    "Urim and Thummim",
+    "Breastplate of judgment"
+   ]
+  },
+  {
+   "id": "r-ex-31-898cd7b8",
+   "t": "Israel receives tabernacle and Sabbath instructions at Sinai",
+   "y0": -1446,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology (cf. 1 Kings 6:1) places the Sinai revelation shortly after the Exodus; scholars are divided between an early (~15th century BC) and late (~13th century BC) Exodus date.",
+   "chapters": [
+    "Exodus 31"
+   ],
+   "people": [
+    "Moses",
+    "Bezaleel",
+    "Aholiab"
+   ],
+   "places": [
+    "Mount Sinai"
+   ],
+   "things": [
+    "Tabernacle",
+    "Tables of stone"
    ]
   },
   {

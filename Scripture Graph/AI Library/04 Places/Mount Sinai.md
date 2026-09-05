@@ -40,9 +40,11 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1491 BC** — Sinai covenant ceremony and Moses's ascent · [[Exodus 24]] · [[1500-1401 BC]] *(traditional dating)*
+- **1491 BC–1451 BC** — Sinai lawgiving and tabernacle instructions · [[Exodus 28]] · [[1500-1401 BC]] *(traditional dating)*
 - **1451 BC** — Moses blesses the tribes of Israel before his death · [[Deuteronomy 33]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The burning bush at Horeb · [[Exodus 3]] · [[Moses 1]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1250 BC** — Israel's arrival at Sinai and the covenant theophany · [[Exodus 19]] · [[1500-1401 BC]] *(approximate)*
+- **1446 BC–1406 BC** — Israel receives tabernacle and Sabbath instructions at Sinai · [[Exodus 31]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1445 BC** — The law given at Sinai · [[Exodus 19]] · [[Exodus 20]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC** — The tabernacle raised · [[Exodus 40]] · [[Leviticus 9]] · [[1500-1401 BC]] *(traditional dating)*
 - **850 BC–849 BC** — Elijah's flight, theophany at Horeb, and call of Elisha · [[1 Kings 19]] · [[900-801 BC]] *(approximate)*
