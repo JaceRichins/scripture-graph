@@ -23,7 +23,11 @@ Scripture: [[Exodus 4]] · My notes: [[Exodus 4 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Objection about credibility and three signs (4:1–9).** The signs escalate from rod, to body, to river.
+2. **Objection about speech and Aaron's appointment (4:10–17).** Repeated references to mouth, speech, words, and spokesman organize the unit.
+3. **Departure for Egypt (4:18–23).** Moses receives reassurance, carries the rod of God, and is given the firstborn message for Pharaoh.
+4. **Roadside circumcision crisis (4:24–26).** Zipporah's action averts an unexplained lethal threat.
+5. **Aaron's meeting and Israel's response (4:27–31).** The brothers transmit the revelation, perform the signs, and gather the elders; belief and worship resolve Moses's opening concern.
 <!-- SG:END structure -->
 
 ## People
@@ -57,20 +61,25 @@ _Not yet developed._
 - [[Mark 12]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
 - [[Luke 20]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
-- [[Numbers 12]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Numbers 12#^num-12-9|Numbers 12:9]]
 - [[Numbers 25]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Numbers 25#^num-25-3|Numbers 25:3]]
 - [[Joshua 7]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Joshua 7#^josh-7-1|Joshua 7:1]]
+- [[1 Nephi 6]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Exodus and Deliverance]]
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents calling as dependence rather than personal adequacy. God challenges Moses to trust divine sovereignty over speech and promises, “I will be with thy mouth” (Exodus 4:12), then provides Aaron as a partner. This supports a theology of [[Prophets]] in which authority and ability arise from commission and divine aid, while the narrative still treats continued resistance seriously.
+
+Israel's description as God's “firstborn” gives the demand for release a familial and covenantal dimension. Pharaoh is refusing God's claim upon a people called to serve him, and the warning prepares for [[Passover]] and the larger pattern of [[Exodus and Deliverance]].
+
+The circumcision account plausibly concerns [[Covenants]] and [[Obedience]], but the text does not name the offense, identify every pronoun, or exclude readings in which the episode preserves an older ritual or etiological tradition. Likewise, the statement that God will harden Pharaoh's heart raises a question about [[Agency]] and divine sovereignty that Exodus 4:21 alone does not resolve.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -90,25 +99,40 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Two word clusters shape the chapter. First, belief, hearing, voice, and signs dominate verses 1–9 and return in verses 30–31. Exodus 4:8 speaks of “the voice of the first sign,” giving the sign communicative force; whether this is deliberate sight-and-hearing wordplay or ordinary idiom is uncertain. Second, mouth, speech, tongue, words, and spokesman dominate verses 10–16. God's answer to Moses's speech objection is expressed through presence, teaching, and Aaron's shared role.
+
+The staff's labels also develop: it is “a rod” in Exodus 4:2, the rod for doing signs in verse 17, and “the rod of God” in verse 20. The changing designation tracks its new function within Moses's commission.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The strongest structural feature is the reversal between 4:1 and 4:31. Moses predicts, “they will not believe me”; after the words and signs are delivered, “the people believed.” This is strong evidence of narrative coherence, though it need not be classified as a technical inclusio.
+
+The firstborn declaration in 4:22–23 stands immediately before a threat resolved by the circumcision of a son in 4:24–26. The juxtaposition invites a covenantal reading, but the story's brevity prevents certainty about the endangered person's identity or the precise symbolic relationship between the scenes.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary Structure
+> The explicit reversal from “they will not believe me” to “the people believed” strongly supports reading verse 31 as the resolution of Moses's opening objection. It is good evidence for deliberate narrative coherence, although the simple completion of a plot problem is an adequate alternative to a formal inclusio.
+> — strength 0.9 · confidence 1.0 · Strong literary evidence with adequate alternatives · [[Literary Structure in Exodus 4|full dossier]]
+
+> [!evidence] Textual-Ambiguity *(tentative)*
+> The 'bridegroom of blood' episode (Exodus 4:24-26) is genuinely ambiguous in the Hebrew as reflected in the KJV: the pronoun 'him' whom the Lord sought to kill, and whose feet the foreskin touches, is not clearly identified as Moses or his son, and the causal logic connecting circumcision to the threat's removal is not spelled out.
+> — strength 0.7 · confidence 0.8 · Pronoun ambiguity accepted; causal wording overstated
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does God provide multiple signs instead of rebuking Moses's concern about credibility?
+- What is gained by describing a sign as having a “voice” (4:8)?
+- Does Aaron's appointment represent gracious accommodation, a consequence of Moses's refusal, or both?
+- How does the title “my firstborn” redefine the conflict between God and Pharaoh?
+- Which conclusions about 4:24–26 are explicit in the text, and which depend on filling its grammatical and narrative gaps?
+- Why does the chapter conclude with the people's worship before Moses and Aaron confront Pharaoh?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare Moses's objection and divine promise with [[Judges 6]] and [[Jeremiah 1]]. Read [[Genesis 17]] for the covenantal background of circumcision, [[Exodus 7]] for the public rod-serpent sign, and [[Exodus 12]] for the outcome of the firstborn warning. When studying Pharaoh's hardened heart, trace the full sequence in later chapters rather than building a doctrine of [[Agency]] from Exodus 4:21 alone.
 <!-- SG:END further-study -->
