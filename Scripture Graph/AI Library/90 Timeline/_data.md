@@ -11006,6 +11006,125 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-hel-10-34503ddb",
+   "t": "Nephi commissioned and rejected",
+   "y0": -21,
+   "y1": -20,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Helaman 10:19 closes the seventy-first year of the judges; the supplied official heading gives approximately 21-20 B.C.",
+   "chapters": [
+    "Helaman 10"
+   ],
+   "people": [
+    "Nephi"
+   ],
+   "things": [
+    "sealing power",
+    "repentance warning"
+   ]
+  },
+  {
+   "id": "r-hel-11-7fd9d43f",
+   "t": "Great famine during Nephi's ministry (Helaman 11)",
+   "y0": -18,
+   "y1": -15,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Reign-of-judges year count (73rd-76th year) placed within the chapter's traditional ~20-6 B.C. span per the official chapter heading; the text itself gives only relative regnal years, not absolute dates.",
+   "chapters": [
+    "Helaman 11"
+   ],
+   "people": [
+    "Nephi (son of Helaman)",
+    "Lehi (son of Helaman, his brother)"
+   ],
+   "places": [
+    "Sea West",
+    "Sea East"
+   ]
+  },
+  {
+   "id": "r-hel-11-ef74756e",
+   "t": "Dissenters revive the Gadianton robbers (Helaman 11)",
+   "y0": -11,
+   "y1": -6,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Reign-of-judges year count (80th-85th year) placed within the chapter's traditional ~20-6 B.C. span per the official chapter heading.",
+   "chapters": [
+    "Helaman 11"
+   ],
+   "people": [
+    "Gadianton"
+   ],
+   "things": [
+    "secret plans of Gadianton"
+   ]
+  },
+  {
+   "id": "r-hel-12-cb56322d",
+   "t": "Editorial reflection on Nephite instability",
+   "y0": -6,
+   "y1": -6,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates this reflection to about 6 B.C.; its opening inference follows the events narrated in Helaman 11.",
+   "chapters": [
+    "Helaman 12"
+   ]
+  },
+  {
+   "id": "r-hel-13-33193439",
+   "t": "Samuel preaches from the wall of Zarahemla",
+   "y0": -6,
+   "y1": -6,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The narrative places the event in the eighty-sixth year; the chapter heading conventionally dates it to about 6 B.C.",
+   "chapters": [
+    "Helaman 13"
+   ],
+   "people": [
+    "Samuel",
+    "Nephites",
+    "Lamanites"
+   ],
+   "places": [
+    "Zarahemla"
+   ]
+  },
+  {
    "id": "r-hosea-1-863a09e5",
    "t": "Hosea's ministry across Judean and Israelite reigns",
    "y0": -755,
