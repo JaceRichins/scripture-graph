@@ -36,7 +36,7 @@ status: awaiting-jace
 ## Show open
 
 > [!sg-host] 🎙 **Luke**  `so-01`
-> This is Luke. I'm on a mission to gather the stories of the Messiah. I came to know these stories through the people who were there. So now, I sit down with the witnesses and hear their stories. The conversations are dramatized. The scripture is not. And my hope is that, through their witness, you come closer to Him. This is The Record Speaks. New Testament, chapter one.
+> This is Luke. I’m on a mission to gather the stories of the Messiah. I came to know these stories through the people who were there. So now, I sit down with the witnesses and hear their stories. The conversations are dramatized. The scripture is not. And my hope is that, through their witness, you come closer to Him. This is The Record Speaks. New Testament, chapter one.
 
 ## Introduction
 
@@ -120,7 +120,7 @@ status: awaiting-jace
 > Then read it.
 
 > [!sg-host] 🎙 **Luke**  `i2-03`
-> It's about what happened when you told them.
+> It's what I wrote down about the moment you told them. Let me read it to you.
 
 > [!sg-mary-magdalene] 🎙 **Mary Magdalene**  `i2-04`
 > I know what happened when I told them. Read it.
@@ -166,7 +166,7 @@ status: awaiting-jace
 > I said it again. That's all I had. I said the same thing in the same words and I could hear myself doing it, and I could hear that it wasn't working, and I said it anyway. And their faces didn't change.
 
 > [!sg-host] 🎙 **Luke**  `i2-14`
-> There's a line here I keep stopping on. It's one sentence, and all it does is send everybody home. And then John writes this.
+> There's a line here I keep stopping on. It's one sentence, and all it does is send everybody home. Let me read you what John puts next.
 
 ## Scripture
 
@@ -465,4 +465,4 @@ status: awaiting-jace
 
 ---
 
-*Generated 2026-09-05 00:06 UTC. The conversation is imagined; the scripture is byte-exact and is never altered.*
+*Generated 2026-09-05 00:16 UTC. The conversation is imagined; the scripture is byte-exact and is never altered.*
