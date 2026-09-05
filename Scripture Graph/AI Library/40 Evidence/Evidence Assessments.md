@@ -500,6 +500,13 @@ The sustained sequence and close English wording strongly support Matthew/KJV te
 
 Notes: [[Extended Textual Parallel in 3 Nephi 13]] · [[Textual And Literary Dependence in 3 Nephi 14]] · [[Textual Dependence And Intertextuality in 3 Nephi 12]] · [[Textual Parallel in 3 Nephi 12]]
 
+### bom-alma13-melchizedek-biblical-intertext
+**Melchizedek priesthood cluster in Alma 13 and its relation to Genesis 14 / Hebrews 7** — *strong* (supports, evidence_strength 0.78) for: Alma 13's Melchizedek priesthood description (a priest of the most high God; an order without beginning of days or end of years; the Salem king who received tithes) stands in a direct literary or translation-level textual relationship to the Genesis 14 and Hebrews 7 Melchizedek material.
+
+The distinctive multi-point Melchizedek cluster in Alma 13:14-18 (priest of the most high God, king of Salem, tithes, and especially the close wording match to Hebrews 7:3's 'without beginning of days... nor end of life') strongly supports a direct literary or translation-level relationship between Alma 13 and the Genesis 14/Hebrews 7 tradition. It does not distinguish ancient shared tradition rendered through KJV-shaped translation from nineteenth-century composition, and gives only weak, non-discriminating support for any specific historical-origin model or for the historicity of Alma's additional narrative about Melchizedek's people.
+
+Notes: [[Literary Intertextuality in Alma 13]]
+
 ### pgp-moses3-genesis2-literary-dependence
 **Moses 3 Dependence on the Genesis 2 Textual Tradition** — *strong* (supports, evidence_strength 0.84) for: The final English text of Moses 3 has a direct literary or transmission relationship with the Genesis 2 textual tradition.
 
@@ -562,6 +569,13 @@ Notes: [[Verbal Intertextuality in 2 Nephi 32]]
 The passage is near-certain, essentially uncontested textual evidence that LDS canon teaches premortal existence of spirits and Abraham's foreordination before birth, but ancient-source translation and 19th-century revelatory/compositional expansion predict this explicit assertion about equally well, so the passage's own wording gives almost no independent discrimination for its historical origin. This says nothing about whether the doctrine is metaphysically true.
 
 Notes: [[Canonical Doctrinal Statement in Abraham 3]]
+
+### bom-alma13-premortal-foreordination
+**Premortal-foreordination reading of Alma 13:3-5** — *none* (supports, evidence_strength 0.12) for: Alma 13:3-5 depicts the described faith, good works, and choice between good and evil as occurring in a premortal existence, i.e. genuine foreordination grounded in premortal merit.
+
+Alma 13:3-5 is compatible with a premortal-foreordination reading, but the same wording is equally compatible with a mortal-response reading, so per the discrimination rule this gives only none-band (0.12) support for the proposition that the described faith, works, and choice occurred premortally.
+
+Notes: [[Doctrinal Textual Inference in Alma 13]]
 
 ### pgp-moses-proleptic-christ-naming
 **Proleptic naming of Jesus Christ in primeval Restoration-scripture discourse (Moses 6, Moses 8)** — *weak* (challenges, evidence_strength 0.25) for: The explicit naming of Jesus Christ and developed Christian soteriology in Moses 6:52-68 and Moses 8:24 weigh against literal preservation of antediluvian historical wording, relative to modernized revelation, redaction, or composition.
