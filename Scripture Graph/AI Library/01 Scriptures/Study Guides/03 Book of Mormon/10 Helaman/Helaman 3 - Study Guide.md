@@ -17,13 +17,21 @@ Scripture: [[Helaman 3]] · My notes: [[Helaman 3 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Many Nephites migrate to the land northward—They build houses of cement and keep many records—Tens of thousands are converted and baptized—The word of God leads men to salvation—Nephi the son of Helaman fills the judgment seat. About 49–39 B.C.
+Helaman 3 juxtaposes outward expansion, political administration, church growth, and inward moral instability. Migration produces new settlements adapted to scarce timber; the narrator then pauses to describe a much larger record tradition behind the abridgment. Helaman governs with justice, widespread baptism accompanies a period of peace, and the narrator draws an inclusive invitation to believe in Christ and lay hold upon God's word. Yet peace and prosperity do not eliminate danger: Gadianton's combinations remain hidden, while wealth-fed pride enters the hearts of professing believers and leads to persecution.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A careful outline is:
+
+1. **Years 43-46:** contention develops into dissension and northward migration (vv. 1-4).
+2. **Northern settlement:** environmental conditions, cement construction, timber management, shipping, and expansion (vv. 5-12).
+3. **Editorial aside:** many source records, radical selection, and later Nephite dissolution (vv. 13-17).
+4. **Return to the chronology:** contention, Helaman's just rule, and the beginning of peace (vv. 18-23).
+5. **Church growth and narrator's lesson:** mass baptism and the saving guidance of God's word (vv. 24-30).
+6. **Peace under strain:** prosperity, pride, persecution, faithful endurance, and succession after Helaman's death (vv. 31-37).
+
+The editorial interruption in verses 13-17 is explicit: verse 17 announces the return to the main account.
 <!-- SG:END structure -->
 
 ## People
@@ -56,29 +64,32 @@ _Not yet developed._
 - [[Alma 46]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-31|Helaman 3:31]] ↔ [[Alma 46#^alma-46-36|Alma 46:36]]
 - [[2 Kings 15]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-20|Helaman 3:20]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
 - [[Alma 48]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-31|Helaman 3:31]] ↔ [[Alma 48#^alma-48-9|Alma 48:9]]
-- [[Helaman 11]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-8|Helaman 3:8]] ↔ [[Helaman 11#^hel-11-20|Helaman 11:20]]
 - [[Mosiah 11]] — 1 parallel verse, e.g. [[Helaman 3#^hel-3-37|Helaman 3:37]] ↔ [[Mosiah 11#^mosiah-11-1|Mosiah 11:1]]
 - [[Alma 19]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-12|Helaman 3:12]] ↔ [[Alma 19#^alma-19-25|Alma 19:25]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-16|Helaman 3:16]] ↔ [[Alma 37#^alma-37-4|Alma 37:4]]
 - [[Mosiah 26]] — 1 parallel verse, e.g. [[Helaman 3#^hel-3-12|Helaman 3:12]] ↔ [[Mosiah 26#^mosiah-26-1|Mosiah 26:1]]
 - [[Helaman 4]] — 1 parallel verse, e.g. [[Helaman 3#^hel-3-33|Helaman 3:33]] ↔ [[Helaman 4#^hel-4-11|Helaman 4:11]]
 - [[Jacob 3]] — 1 parallel verse, e.g. [[Helaman 3#^hel-3-14|Helaman 3:14]] ↔ [[Jacob 3#^jacob-3-13|Jacob 3:13]]
+- [[Alma 50]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Book of Mormon Geography]]
-- [[Justification and Sanctification]]
 - [[Fasting]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[Pride]] *(keyword match — unconfirmed)*
-- [[Justice and Mercy]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]]
+- [[Government and Laws]]
+- [[Pride]]
+- [[War and Peace]]
+- [[Helaman 6]]
+- [[Secret Combinations]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Verses 27-30 combine divine mercy with human response. Heaven's gate is open to all who are willing, but the passage does not describe an unconditional outcome: it mentions sincerity, calling on God, belief in Jesus Christ, and laying hold upon God's word. The destination is communion with God and the patriarchs in the kingdom of heaven.
+
+Verse 35 presents sanctification as transformation of the heart. Under persecution, humble believers fast, pray, deepen their faith in Christ, and yield their hearts to God. The verse connects that yielding with purification and sanctification, while leaving many systematic questions about grace, ordinances, and the timing of sanctification unstated. See [[Fasting]], [[Humility]], and [[Justification and Sanctification]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -111,25 +122,41 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The phrase "quick and powerful" in verse 29 means living and active, not merely rapid. Its combination with "divide asunder" closely echoes the KJV wording of Hebrews 4:12, while the straight-course imagery resembles [[Alma 37]]. These parallels are useful for intertextual study, but the verbal match is most plausibly explained by the English translation's use of familiar KJV New Testament phrasing rather than by direct ancient literary dependence in either direction.
+
+Separately, the formulas evaluating Helaman and Nephi ("did that which was right in the sight of God... continually"; "did keep the commandments of God, and did walk in the ways of his father," vv. 20, 37) resemble the recurring regnal-evaluation language of Kings and Chronicles (e.g., 2 Kings 15:3). This is worth noting as a possible shared chronicle convention, but it remains only a loose, tentative parallel.
+
+Verse 33 makes a deliberate distinction between the church of God and pride within the hearts of people who profess membership, preserving an ideal conception of the church while assigning responsibility for persecution to its proud adherents.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter repeatedly qualifies appearances. Peace exists, but secret combinations survive unnoticed (v. 23); the church prospers numerically, but pride soon grows among professing members (vv. 24-26, 33); humble believers suffer, but their inward joy and sanctification increase (vv. 34-35). These contrasts prevent prosperity, peace, institutional membership, or suffering from functioning as simple measures of spiritual condition.
+
+Verses 13-17 also expose the narrator's selectivity. The claim that not even a hundredth part can be included explains the narrative's compression and presents the book as an abridgment, though that self-description is not independent proof of the source archive it describes.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary Evidence
+> Helaman 3:13-17 is strong internal evidence that the work presents itself as a selective record compiled from a much larger documentary tradition. As internal literary evidence, however, it cannot independently verify that the claimed source records existed outside the narrative.
+> — strength 0.8 · confidence 0.9 · correctly bounded internal evidence · [[Internal Literary Evidence in Helaman 3|full dossier]]
+
+> [!evidence] Material-Culture Correspondence *(tentative)*
+> The claim that migrants in the land northward built extensively with cement/concrete, in a period the chapter dates to roughly the mid-first century B.C., is sometimes cited as a point in the Book of Mormon's favor because large-scale Preclassic Maya cement and lime-plaster construction (e.g., at El Mirador in Guatemala) was not known to 1830 American readers but has since been documented archaeologically in the same general region and era.
+> — strength 0.3 · confidence 0.5 · disputed; citation errors, weak correspondence
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does "the whole earth" in verse 8 designate the narrators' known inhabited world, function as expansive rhetoric, or carry some other geographic scope?
+- Why does the narrator place the long record-keeping and future-dissolution aside precisely within the migration account?
+- How can "continual peace" coexist with concealed combinations and persecution inside the church community?
+- What does the distinction between the church and the hearts of professing members contribute to the chapter's treatment of institutional responsibility?
+- In verses 34-35, does affliction itself sanctify, or does the narrative locate sanctification in the believers' faithful response and yielding to God?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the prosperity-pride sequence with [[Alma 4]] and later developments in [[Helaman 4]] and [[Helaman 6]]. Compare the guiding word in Helaman 3:29-30 with [[Alma 37]] and the active, dividing word in [[Hebrews 4]]. Geographic study should keep the chapter's observations—waters, rivers, timber scarcity, cement, shipping, and named directional lands—separate from proposed modern maps.
 <!-- SG:END further-study -->
