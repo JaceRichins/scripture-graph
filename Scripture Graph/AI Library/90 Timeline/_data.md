@@ -6848,6 +6848,114 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-17-7cfc3cf6",
+   "t": "Ammon begins service to Lamoni and defends the flocks",
+   "y0": -91,
+   "y1": -91,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The supplied official heading dates Alma 17:5–39 to about 91 B.C., near the beginning of the fourteen-year mission.",
+   "chapters": [
+    "Alma 17"
+   ],
+   "people": [
+    "Ammon",
+    "King Lamoni"
+   ],
+   "places": [
+    "Land of Ishmael",
+    "Water of Sebus"
+   ]
+  },
+  {
+   "id": "r-alma-17-861601fe",
+   "t": "Alma reunites with the sons of Mosiah",
+   "y0": -77,
+   "y1": -77,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The supplied official heading dates Alma 17:1–3 to about 77 B.C., at the conclusion of the mission summarized in verse 4.",
+   "chapters": [
+    "Alma 17"
+   ],
+   "people": [
+    "Alma",
+    "Sons of Mosiah"
+   ],
+   "places": [
+    "Manti",
+    "Zarahemla"
+   ]
+  },
+  {
+   "id": "r-alma-2-45a45f44",
+   "t": "Amlicite rebellion and battles near Zarahemla",
+   "y0": -87,
+   "y1": -87,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Alma 2:1 places the episode at the commencement of the fifth year of the reign of the judges; the official chapter heading dates it to about 87 B.C.",
+   "chapters": [
+    "Alma 2"
+   ],
+   "people": [
+    "Alma",
+    "Amlici"
+   ],
+   "places": [
+    "Zarahemla",
+    "Sidon"
+   ],
+   "things": [
+    "voice of the people",
+    "Amlicite rebellion"
+   ]
+  },
+  {
+   "id": "r-alma-2-f0b7e1aa",
+   "t": "Amlicite rebellion and Nephite-Lamanite war (Alma 2)",
+   "y0": -87,
+   "y1": -87,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "The chapter heading and the chapter's own reference to 'the commencement of the fifth year of their reign' (the reign of the judges) place these events at about 87 BC on the Nephite internal calendar.",
+   "chapters": [
+    "Alma 2"
+   ],
+   "people": [
+    "Amlici",
+    "Alma (chief judge)",
+    "Nehor",
+    "Gideon"
+   ],
+   "places": [
+    "Zarahemla",
+    "river Sidon"
+   ]
+  },
+  {
    "id": "r-alma-21-00ed0ed8",
    "t": "Aaron's mission to the Amalekites and Lamoni's liberty decree",
    "y0": -90,

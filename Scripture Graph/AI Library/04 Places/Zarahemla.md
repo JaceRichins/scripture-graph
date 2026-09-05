@@ -44,10 +44,10 @@ _Not yet developed._
 - **121 BC** — Limhi's people escape to Zarahemla · [[Mosiah 22]] · [[200-101 BC]] *(Book of Mormon internal dating)*
 - **120 BC** — Alma's people delivered to Zarahemla · [[Mosiah 24]] · [[200-101 BC]] *(Book of Mormon internal dating)*
 - **91 BC** — The reign of the judges begins · [[Mosiah 29]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **87 BC** — Amlicite rebellion and battles near Zarahemla · [[Alma 2]] · [[100-1 BC]] *(approximate)*
+- **87 BC** — Amlicite rebellion and Nephite-Lamanite war (Alma 2) · [[Alma 2]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **83 BC** — Alma preaches repentance at Zarahemla · [[Alma 5]] · [[100-1 BC]] *(approximate)*
 - **81 BC** — Church established at Sidom · [[Alma 15]] · [[100-1 BC]] *(approximate)*
-- **81 BC–77 BC** — Destruction, rescue, and expansion of the church · [[Alma 16]] · [[100-1 BC]] *(approximate)*
-- **74 BC** — Korihor demands a sign · [[Alma 30]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

@@ -126,11 +126,11 @@ The most conspicuous organizing refrain is entry into "the rest of the Lord" (vv
 <!-- SG:BEGIN evidence -->
 > [!evidence] Doctrinal Textual Inference
 > Alma 13:3-5 provides genuine but not conclusive textual support for a premortal-foreordination reading. Phrases such as "from the foundation of the world," "foreknowledge of God," and "in the first place" permit that interpretation, but the syntax does not unambiguously locate the described faith, works, and choices in premortal life.
-> — strength 0.6 · confidence 0.9 · well-calibrated framing of the premortal ambiguity · [[Doctrinal Textual Inference in Alma 13|full dossier]]
+> — strength 0.1 · confidence 0.9 · well-calibrated framing of the premortal ambiguity · [[Doctrinal Textual Inference in Alma 13|full dossier]]
 
 > [!evidence] Literary Intertextuality
 > The shared Melchizedek cluster is strong evidence that Alma 13 is literarily or conceptually related to biblical Melchizedek traditions. It is weak evidence, considered alone, for any particular account of the Book of Mormon's historical origin.
-> — strength 0.5 · confidence 0.9 · best-calibrated evidentiary claim in either proposal · [[Literary Intertextuality in Alma 13|full dossier]]
+> — strength 0.8 · confidence 0.9 · best-calibrated evidentiary claim in either proposal · [[Literary Intertextuality in Alma 13|full dossier]]
 
 > [!evidence] Extrabiblical Narrative Expansion *(tentative)*
 > Alma 13's account of Melchizedek supplies substantial narrative detail absent from the brief Genesis 14 notice (a wicked people who repent under his preaching, his title 'prince of peace,' and that 'he did reign under his father'), representing a significant extrabiblical expansion of a minor biblical figure.
