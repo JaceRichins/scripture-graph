@@ -119,7 +119,7 @@ Ridicule occurs after some participants have tasted the fruit, so an initial joy
 <!-- SG:BEGIN evidence -->
 > [!evidence] Intra-Textual Verbal Parallel
 > Alma's seed discourse culminates in fruit described through the same unusual cluster of superlative sweetness, whiteness, and preciousness found in Lehi's vision. The close overlap is strong evidence of an intra-Book-of-Mormon literary and theological relationship between the passages.
-> — strength 0.9 · confidence 1.0 · strong verbal observation; dependence direction disputed · [[Intra-Textual Verbal Parallel in 1 Nephi 8|full dossier]]
+> — confidence 1.0 · strong verbal observation; dependence direction disputed · [[Intra-Textual Verbal Parallel in 1 Nephi 8|full dossier]]
 
 > [!evidence] Explicit Intratextual Interpretation
 > Later visions and explanations within 1 Nephi explicitly identify the tree with the love of God, the rod with the word of God, the mist with the temptations of the devil, and the building with the vain imaginations and pride of humanity; they also interpret the filthy water and gulf. This strongly supports reading 1 Nephi 8 symbolically within the book's own narrative framework.

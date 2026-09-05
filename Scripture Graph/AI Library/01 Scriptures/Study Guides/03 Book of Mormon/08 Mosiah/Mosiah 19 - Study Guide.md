@@ -98,7 +98,7 @@ Noah's death "even unto death by fire" (19:20) also echoes Abinadi's earlier war
 <!-- SG:BEGIN evidence -->
 > [!evidence] Intratextual Prophetic Correspondence
 > The earlier warning and the later account of Noah's death provide strong evidence of deliberate intratextual correspondence, but their force as evidence for supernatural foreknowledge or independent historicity is limited without evidence external to the narrative.
-> — strength 0.4 · confidence 0.9 · model example of hedged evidentiary framing · [[Intratextual Prophetic Correspondence in Mosiah 19|full dossier]]
+> — strength 0.8 · confidence 0.9 · model example of hedged evidentiary framing · [[Intratextual Prophetic Correspondence in Mosiah 19|full dossier]]
 
 > [!evidence] Intratextual Prophecy-Fulfillment Pattern *(tentative)*
 > King Noah's death specifically 'by fire' (Mosiah 19:20) matches the manner of destruction Abinadi had earlier prophesied against him ('the life of king Noah shall be valued even as a garment in a hot furnace,' Mosiah 12:3), suggesting the text is structured so that Noah's execution reads as the fulfillment of Abinadi's specific curse rather than a generic death.

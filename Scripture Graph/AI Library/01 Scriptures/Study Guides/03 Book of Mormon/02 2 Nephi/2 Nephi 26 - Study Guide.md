@@ -137,7 +137,7 @@ Verses 25-28 build a repeated question-and-answer pattern — 'Behold, doth/hath
 
 > [!evidence] Intertextual-Parallel
 > 2 Nephi 26:16's imagery of a destroyed people whose speech is 'low out of the dust' and whose voice is 'as one that hath a familiar spirit' closely parallels the well-known KJV language of Isaiah 29:4, which describes a humbled Jerusalem/Ariel speaking 'low out of the dust' with a voice 'as of one that hath a familiar spirit, out of the ground.' Nephi elsewhere quotes Isaiah 29 at length (2 Nephi 27), making direct literary dependence between these passages highly plausible.
-> — strength 0.8 · confidence 0.9 · accepted observation / disputed interpretation · [[Intertextual-Parallel in 2 Nephi 26|full dossier]]
+> — strength 0.7 · confidence 0.9 · accepted observation / disputed interpretation · [[Intertextual-Parallel in 2 Nephi 26|full dossier]]
 
 > [!evidence] Intertextual-Parallel *(tentative)*
 > Verse 25's invitation, 'Come unto me all ye ends of the earth, buy milk and honey, without money and without price,' echoes the structure and closing phrase of Isaiah 55:1's invitation to 'buy wine and milk without money and without price,' but substitutes 'milk and honey' for Isaiah's 'wine and milk' — a change some readers take as a deliberate allusion to the 'land flowing with milk and honey' (Exodus/promised-land imagery) layered onto an Isaiah-based invitation.

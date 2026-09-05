@@ -128,7 +128,7 @@ The chapter also moves from military success to the closing description of “vi
 
 > [!evidence] Intra-Textual Prophecy-Fulfillment Pattern
 > The destruction of Ammonihah in Alma 16 corresponds to Alma's earlier warning that persistent wickedness would bring an unexpected Lamanite attack and utter destruction. The correspondence strongly supports a deliberate warning-and-fulfillment design within the book.
-> — strength 0.9 · confidence 0.9 · strong intra-textual design; historical inference limited · [[Intra-Textual Prophecy-Fulfillment Pattern in Alma 16|full dossier]]
+> — strength 0.8 · confidence 0.9 · strong intra-textual design; historical inference limited · [[Intra-Textual Prophecy-Fulfillment Pattern in Alma 16|full dossier]]
 
 > [!evidence] Anachronism Dispute *(tentative)*
 > Alma 16:13 states that Alma and Amulek preached 'in their synagogues, which were built after the manner of the Jews.' Some critics have questioned this as anachronistic, since synagogues as an institution are generally dated by scholars to the post-exilic or Second Temple period, after Lehi's group is said to have left Jerusalem (c. 600 BC). Defenders note the term may be a translation choice for a Nephite gathering place rather than a claim of institutional identity with later Jewish synagogues, and that the historical origins of the synagogue as an institution remain debated among scholars.
