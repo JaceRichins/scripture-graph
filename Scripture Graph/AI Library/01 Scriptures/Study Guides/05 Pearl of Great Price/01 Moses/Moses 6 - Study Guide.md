@@ -143,7 +143,7 @@ The birth analogy in verses 59–60 moves from observable mortal birth to spirit
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Relationship
 > The shared genealogical order, ages, and wording provide strong evidence of a literary relationship between Moses 6 and Genesis 5. The additional material in Moses 6 makes the genealogy a history of transmitted revelation as well as descent.
-> — strength 1.0 · confidence 1.0 · Literary relationship clear; production mechanism disputed · [[Textual Relationship in Moses 6|full dossier]]
+> — strength 0.8 · confidence 1.0 · Literary relationship clear; production mechanism disputed · [[Textual Relationship in Moses 6|full dossier]]
 
 > [!evidence] Literary Coherence
 > The book of remembrance introduced near the beginning returns as the stated basis for Enoch's knowledge of Adam. This recurrence gives the chapter a coherent explanation for how primordial teachings were transmitted.

@@ -122,7 +122,7 @@ The repeated first-person formulas “I, God” and “I, the Lord God” give t
 
 > [!evidence] Textual Relationship
 > Close correspondences in the formation of man, planting of Eden, garden vocation, command concerning the tree, creation of the woman, and one-flesh saying provide strong evidence of a direct literary relationship between Moses 3 and Genesis 2. The correspondences alone do not determine the direction or mechanism of that relationship.
-> — strength 1.0 · confidence 1.0 · Strong textual relationship established · [[Textual Relationship in Moses 3|full dossier]]
+> — strength 0.8 · confidence 1.0 · Strong textual relationship established · [[Textual Relationship in Moses 3|full dossier]]
 
 > [!evidence] Textual/Historical Geography *(tentative)*
 > The garden narrative anchors Eden to real-world-named geography (a river parting into the Pison, Gihon, Hiddekel, and Euphrates, with the lands of Havilah, Ethiopia, and Assyria named), which some readers cite as evidence for a literal geographic location of Eden.

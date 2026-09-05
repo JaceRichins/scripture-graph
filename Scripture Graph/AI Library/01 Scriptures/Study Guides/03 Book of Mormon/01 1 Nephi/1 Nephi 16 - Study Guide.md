@@ -124,7 +124,7 @@ Laman's speech in verses 37–38 provides a significant countervoice. He interpr
 <!-- SG:BEGIN evidence -->
 > [!evidence] Toponymic Observation
 > The chapter supplies the internally specific claim that Ishmael was buried at a place called Nahom, but the chapter by itself cannot identify that place with any modern archaeological or geographic site.
-> — strength 0.2 · confidence 0.9 · accepted observation / disputed interpretation · [[Toponymic Observation in 1 Nephi 16|full dossier]]
+> — strength 0.3 · confidence 1.0 · accepted observation / disputed interpretation · [[Toponymic Observation in 1 Nephi 16|full dossier]]
 
 > [!evidence] Narrative Countervoice
 > The preservation of Laman's accusation is strong textual evidence that Nephi's authority is contested within the narrative. Because the accusation is reported by Nephi, it is not independent evidence establishing either Laman's account of Nephi's motives or Nephi's account of Laman's motives.

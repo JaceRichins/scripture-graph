@@ -132,7 +132,7 @@ The bread and wine instructions are built as matched units ending in an identica
 
 > [!evidence] Textual Parallel
 > The sequence of taking, breaking, blessing, giving, eating, drinking, and remembering Jesus has a strong thematic and verbal relationship to New Testament accounts of the Last Supper and Paul's discussion of the Lord's Supper.
-> — strength 0.8 · confidence 0.9 · well-calibrated, broadly accepted · [[Textual Parallel in 3 Nephi 18|full dossier]]
+> — strength 0.7 · confidence 1.0 · well-calibrated, broadly accepted · [[Textual Parallel in 3 Nephi 18|full dossier]]
 
 > [!evidence] Intertextual Comparison *(tentative)*
 > Jesus tells the multitude generally that 'Satan desireth to have you, that he may sift you as wheat,' a warning that in the closest New Testament parallel (Luke 22:31) is addressed privately to Simon Peter alone ('Satan hath desired to have you, that he may sift you as wheat') rather than to an entire congregation.

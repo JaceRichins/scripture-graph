@@ -107,7 +107,7 @@ The placement between [[2 Nephi 6]] and [[2 Nephi 8]] matters. Jacob's surroundi
 
 > [!evidence] Textual Variants
 > The English text of 2 Nephi 7 is not wholly identical to the King James Version of Isaiah 50. Among its differences are added direct addresses to the house of Israel in verses 2 and 4 and the statement about smiting an adversary with the strength of the servant's mouth in verse 8. These are strong evidence of a distinct English form but, without corroborating ancient witnesses, weak evidence for any particular underlying Hebrew reading.
-> — strength 0.2 · confidence 1.0 · Variants established; historical significance disputed · [[Textual Variants in 2 Nephi 7|full dossier]]
+> — strength 0.1 · confidence 1.0 · Variants established; historical significance disputed · [[Textual Variants in 2 Nephi 7|full dossier]]
 
 > [!evidence] Messianic And Typological Interpretation
 > A Christian messianic reading is meaningfully supported by the servant's willing suffering, rejection, confidence in divine help, and anticipated vindication. The official chapter heading adopts this reading. Nevertheless, the chapter itself never explicitly calls the speaker the Messiah or Jesus Christ, so the evidence does not establish an exclusive original referent.

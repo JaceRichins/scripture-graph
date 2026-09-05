@@ -109,7 +109,7 @@ Personification expands the audience beyond human victims. The earth sings, tree
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Parallel
 > Corresponding passages at the beginning, center, and end of 2 Nephi 24 parallel the same verse positions in Isaiah 14, supporting a sustained and direct literary relationship between the chapters.
-> — strength 1.0 · confidence 1.0 · deterministically verified full-chapter parallel · [[Textual Parallel in 2 Nephi 24|full dossier]]
+> — strength 0.8 · confidence 1.0 · deterministically verified full-chapter parallel · [[Textual Parallel in 2 Nephi 24|full dossier]]
 
 > [!evidence] Internal Literary Context
 > The poem's own framing supplies strong internal evidence that its immediate literary target is a human imperial ruler: verse 4 addresses the king of Babylon, and observers in verse 16 call the fallen figure 'the man' who shook kingdoms. This does not exclude a secondary or typological application to Satan, but it weighs against treating Satan as the poem's only referent.

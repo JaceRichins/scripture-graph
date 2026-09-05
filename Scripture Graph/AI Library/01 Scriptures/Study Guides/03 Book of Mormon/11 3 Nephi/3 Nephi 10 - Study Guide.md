@@ -121,7 +121,7 @@ Verses 11–17 also turn the audience from witnesses into readers. “Let him se
 <!-- SG:BEGIN evidence -->
 > [!evidence] Verbal And Thematic Intertext
 > The lament over Jerusalem and the image of gathering children as a hen gathers her chickens closely parallel Matthew 23:37. The relationship is especially clear in the shared combination of Jerusalem, repeated desire to gather, the hen image, and human refusal; 3 Nephi expands the saying into past, counterfactual, and future gathering statements.
-> — strength 0.9 · confidence 1.0 · Strong parallel accepted; direction and mechanism disputed · [[Verbal And Thematic Intertext in 3 Nephi 10|full dossier]]
+> — strength 0.8 · confidence 1.0 · Strong parallel accepted; direction and mechanism disputed · [[Verbal And Thematic Intertext in 3 Nephi 10|full dossier]]
 
 > [!evidence] Internal Intertextual Coherence
 > The appeal to Zenos and Zenock as prophets of events associated with Christ's coming forms a substantial internal connection with 1 Nephi 19, which also attributes signs surrounding Christ's death—including three days of darkness and disruptions of the earth—to these prophetic traditions. This is strong evidence of deliberate intertextual coherence within the Book of Mormon.

@@ -114,7 +114,7 @@ The most notable textual feature of this chapter is v. 2's 'the **Son** of Right
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Parallel
 > The six verses of 3 Nephi 25 correspond in sequence and substance to the six verses of Malachi 4. This is strong evidence of literary dependence or a shared textual source at the level of the English texts, but it does not by itself determine the historical route or direction of that dependence.
-> — strength 0.8 · confidence 0.9 · verified textual dependence, direction/mechanism left open · [[Textual Parallel in 3 Nephi 25|full dossier]]
+> — strength 0.8 · confidence 1.0 · verified textual dependence, direction/mechanism left open · [[Textual Parallel in 3 Nephi 25|full dossier]]
 
 > [!evidence] Cross-Canon Textual Comparison *(tentative)*
 > The angel Moroni quoted this same Malachi 4:5-6 prophecy to young Joseph Smith in 1823 (recorded in Joseph Smith—History 1:38-39 and D&C 2), but with wording that differs from both the KJV and 3 Nephi 25:6 — describing Elijah planting in children's hearts 'the promises made to the fathers' and warning that the earth would otherwise be 'utterly wasted' at his coming, rather than 3 Nephi's 'turn the heart of the fathers to the children...lest I come and smite the earth with a curse.' Readers should verify the precise 1823 wording directly, as this claim reconstructs it from memory rather than mechanical lookup.

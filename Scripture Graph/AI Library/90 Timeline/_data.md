@@ -6497,6 +6497,61 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-acts-26-5922063d",
+   "t": "Paul's hearing before Herod Agrippa II and Festus",
+   "y0": 57,
+   "y1": 60,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Tied to the procuratorship of Porcius Festus, whose accession date is disputed among historians (estimates range roughly AD 55-62 based on Josephus and Roman administrative records); the hearing follows Paul's two-year detention under Felix.",
+   "chapters": [
+    "Acts 26"
+   ],
+   "people": [
+    "Paul",
+    "Herod Agrippa II",
+    "Porcius Festus",
+    "Bernice"
+   ],
+   "places": [
+    "Caesarea"
+   ]
+  },
+  {
+   "id": "r-acts-28-0d48f5e5",
+   "t": "Paul reaches Rome and teaches there for two years",
+   "y0": 60,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "A common reconstruction dates Paul's arrival around AD 60; Acts itself specifies two whole years in Rome but supplies no absolute calendar date.",
+   "chapters": [
+    "Acts 28"
+   ],
+   "people": [
+    "Paul"
+   ],
+   "places": [
+    "Melita",
+    "Rome"
+   ],
+   "things": [
+    "Paul's chain"
+   ]
+  },
+  {
    "id": "r-acts-7-9f4dedbd",
    "t": "Stephen's Speech and Martyrdom in Jerusalem",
    "y0": 33,

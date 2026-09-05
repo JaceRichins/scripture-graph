@@ -113,7 +113,7 @@ _Not yet developed._
 
 > [!evidence] Textual-Theological Contrast
 > Within the chapter's theological argument, the contrast between the Amalekite's appeal to sanctuaries and worship and Aaron's call to repentance supports the limited conclusion that religious participation is not presented as sufficient evidence of righteousness or redemption.
-> — strength 0.7 · confidence 0.8 · accepted observation / disputed interpretation, properly hedged · [[Textual-Theological Contrast in Alma 21|full dossier]]
+> — confidence 0.8 · accepted observation / disputed interpretation, properly hedged · [[Textual-Theological Contrast in Alma 21|full dossier]]
 
 > [!evidence] Internal Narrative Consistency *(tentative)*
 > Alma 21's brief summary that the imprisoned missionaries 'were delivered by the hand of Lamoni and Ammon' (v14) is consistent with, and presupposes, a fuller account of Lamoni and Ammon traveling to Middoni and securing the prisoners' release — a scene the verified index confirms has direct textual overlap with Alma 20. The two passages narrate the same episode from different vantage points without contradiction.

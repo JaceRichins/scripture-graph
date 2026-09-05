@@ -127,7 +127,7 @@ The chapter is tightly joined to [[2 Nephi 31]] by repeated language: entering t
 
 > [!evidence] Verbal Intertextuality
 > The English wording about asking and knocking and about praying always without fainting closely parallels New Testament phrasing, providing strong evidence of Christian scriptural intertextuality at the level of the received English text.
-> — strength 0.9 · confidence 1.0 · English intertextuality accepted; historical explanation disputed · [[Verbal Intertextuality in 2 Nephi 32|full dossier]]
+> — strength 0.5 · confidence 1.0 · English intertextuality accepted; historical explanation disputed · [[Verbal Intertextuality in 2 Nephi 32|full dossier]]
 
 > [!evidence] Textual/Linguistic Parallel *(tentative)*
 > The phrase 'ye must pray always, and not faint' (2 Nephi 32:9) is verbally close to the King James rendering of Luke 18:1 ('men ought always to pray, and not to faint'), a wording similarity worth noting but not identical (word order/tense differ, and the BoM clause is embedded in a different argument about consecrating performances).

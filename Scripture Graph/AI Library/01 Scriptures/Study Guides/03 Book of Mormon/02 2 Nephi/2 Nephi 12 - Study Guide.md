@@ -96,7 +96,7 @@ Height organizes the chapter: the Lord's house is properly exalted (v. 2), while
 
 > [!evidence] Textual Relationship
 > The chapter's attribution to Isaiah and its extensive verbal correspondence with Isaiah 2 provide very strong evidence of a direct literary relationship between the two chapter texts.
-> — strength 0.9 · confidence 1.0 · verified overlap; alternative explanations honestly presented · [[Textual Relationship in 2 Nephi 12|full dossier]]
+> — strength 0.8 · confidence 1.0 · verified overlap; alternative explanations honestly presented · [[Textual Relationship in 2 Nephi 12|full dossier]]
 
 > [!evidence] Textual Variant In Book Of Mormon Isaiah Quotations *(tentative)*
 > The Book of Mormon's singular 'forgive him not' in 2 Nephi 12:9, in place of the King James plural 'forgive them not,' is sometimes cited by Latter-day Saint scholars as a grammatically smoother reading consistent with the verse's singular subjects, and occasionally offered as a possible authentic variant from an underlying non-Masoretic text; the observation is real, but its evidentiary weight for an independent ancient source is weak.

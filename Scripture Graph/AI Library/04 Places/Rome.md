@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **AD 59–AD 62** — Paul's voyage and Roman imprisonment · [[Acts 27]] · [[Acts 28]] · [[AD 1-100]] *(historical)*
+- **AD 60–AD 62** — Paul reaches Rome and teaches there for two years · [[Acts 28]] · [[AD 1-100]] *(approximate)*
 - **AD 64–AD 67** — Peter and Paul martyred under Nero · [[2 Timothy 4]] · [[2 Peter 1]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

@@ -134,7 +134,7 @@ The chapter also adapts the Matthew-like material through references to coming t
 
 > [!evidence] Textual Parallel
 > The extensive sequence and wording shared by 3 Nephi 12 and Matthew 5 provide strong evidence of a literary or traditional relationship between the two chapters. That observation is much stronger than any conclusion about the direction or mechanism of dependence.
-> — strength 1.0 · confidence 1.0 · Relationship accepted; direction, mechanism, and historicity disputed · [[Textual Parallel in 3 Nephi 12|full dossier]]
+> — strength 0.8 · confidence 1.0 · Relationship accepted; direction, mechanism, and historicity disputed · [[Textual Parallel in 3 Nephi 12|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
