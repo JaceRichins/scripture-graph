@@ -23,7 +23,11 @@ Scripture: [[Helaman 12]] · My notes: [[Helaman 12 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Prosperity and forgetfulness (vv. 1–3):** blessings are followed by hardened hearts.
+2. **A lament over human resistance (vv. 4–7):** repeated “quick” and “slow” clauses culminate in the dust comparison.
+3. **The effective word of God (vv. 8–21):** creation obeys divine commands, and divine judgments likewise take effect.
+4. **The offered way of salvation (vv. 22–24):** repentance, hearkening, good works, and [[Grace]] answer the danger of being cut off.
+5. **The final alternatives (vv. 25–26):** the narrator wishes universal salvation while acknowledging [[Final Judgment]].
 <!-- SG:END structure -->
 
 ## People
@@ -50,11 +54,18 @@ _Not yet developed._
 - [[Alma 50]] — 2 parallel verses, e.g. [[Helaman 12#^hel-12-25|Helaman 12:25]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
 - [[1 Nephi 8]] — 1 parallel verse, e.g. [[Helaman 12#^hel-12-25|Helaman 12:25]] ↔ [[1 Nephi 8#^1ne-8-36|1 Nephi 8:36]]
 - [[Alma 4]] — 1 parallel verse, e.g. [[Helaman 12#^hel-12-4|Helaman 12:4]] ↔ [[Alma 4#^alma-4-8|Alma 4:8]]
+- [[Alma 9]] — 0 parallel verses
+- [[Alma 4]] — 0 parallel verses
+- [[Mosiah 4]] — 0 parallel verses
+- [[Helaman 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Pride]]
+- [[Helaman 13]]
+- [[Final Judgment]]
+- [[Joshua 10]]
 - [[Salvation]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
@@ -63,7 +74,11 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+- **Prosperity and [[Pride]]:** The chapter treats abundance as a divine blessing but condemns the pride, forgetfulness, and refusal of counsel that arise during ease. Prosperity itself is not called intrinsically evil.
+- **Chastening and [[Adversity]]:** Verse 3 presents collective affliction as a means of bringing this people to remembrance. It should not be generalized into a claim that every illness, disaster, or death is punishment for an individual's sin.
+- **Humanity and obedient creation:** Calling people “less than the dust” follows their refusal to accept God's guidance and precedes the dust's obedience. In context, the comparison concerns dependence and responsiveness, not a complete denial of human worth.
+- **[[Repentance]], works, and [[Grace]]:** Verses 22–24 present repentance and hearkening as the offered path to salvation and place good works and grace in the same sentence. The chapter does not fully define their causal relationship.
+- **[[Final Judgment]]:** Verses 25–26 name everlasting life and everlasting damnation as final alternatives. This is the chapter's local formulation and should not be made to settle every question about postmortal conditions.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -87,25 +102,33 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Two repeated contrasts organize the rhetoric. In verses 4–5, people are “quick” toward evil and “slow” toward good. In verses 8–21, formulas such as “at his voice,” “by the power of his voice,” and “if he say” portray God's word as immediately effective. Humanity's refusal to “give ear” in verse 5 is thereby set against a creation that responds without delay.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The dust comparison develops the theme of obedience: people reject their Creator's guidance (v. 6), while dust moves at divine command (v. 8). The ensuing catalogue moves through dust, mountains, earth, waters, a city, treasures, and finally an individual's standing before God. This can be read as a movement from [[Creation]] toward personal accountability, though it may also be a conventional catalogue of divine power rather than a deliberately engineered funnel.
+
+Verses 14–15 strongly recall the long day of [[Joshua 10]]. Helaman 12 distinguishes the sun's apparent stillness from the earth's asserted movement. That observation is noteworthy, but it neither supplies a complete astronomical model nor provides strong evidence of otherwise unavailable scientific knowledge.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Apologetic Scientific-Anachronism Argument *(tentative)*
+> Some apologetic commentary treats the explicit heliocentric statement in v.15 as evidence of unexpected scientific sophistication in an 1829-30 text, but this is weak evidence: heliocentrism was standard, uncontroversial common knowledge in early 19th-century America (taught in schools and almanacs since the 18th century), so its presence here does not require unusual insight beyond the ordinary knowledge available to anyone producing the text at that time.
+> — strength 0.1 · confidence 0.8 · Evidentiary conclusion supported; history under-sourced
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+Why does the narrator describe humanity as less obedient than dust while also wishing that all humanity might be saved? Does the sequence suggest that the strongest contrast is between human worth and dust, or between human agency and creation's immediate obedience?
+
+What does verse 24 mean by being “restored unto grace for grace, according to their works”? The sentence places [[Grace]] and works together, but does not independently resolve every question about their relationship.
+
+How can verse 3 be read as a commentary on this particular narrative cycle without turning every instance of suffering into evidence of divine punishment?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the warning about abundance and forgetfulness with [[Deuteronomy 8]], and the less-than-dust language with [[Mosiah 4]]. [[Alma 4]] and [[Alma 9]] provide Book of Mormon examples of prosperity, pride, remembered deliverance, and accountability. The cursed-treasure motif is developed in [[Helaman 13]]. The closing good-and-evil judgment formula also closely parallels [[John 5]], although the verbal relationship alone cannot decide how that wording entered the English text. [[Alma 41]] may offer a broader comparison concerning conduct and restoration, but its symmetrical restoration language should not be equated with “grace for grace” in Helaman 12:24.
 <!-- SG:END further-study -->
