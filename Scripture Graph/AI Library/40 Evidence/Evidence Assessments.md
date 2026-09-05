@@ -18,11 +18,11 @@ Jerusalem's AD 70 destruction is historically secure, but because Joseph Smith�
 Notes: [[Historical Corroboration in Joseph Smith—Matthew 1]]
 
 ### pgp-abraham-genesis-literary-dependence
-**Abraham 2 dependence on the Genesis 12 textual and narrative tradition** — *strong* (supports, evidence_strength 0.84) for: Abraham 2 derives substantial narrative structure and English wording from, or through common ancestry with, the Genesis 12 textual tradition.
+**Abraham 2 dependence on the Genesis 12 textual and narrative tradition** — *strong* (supports, evidence_strength 0.84) for: Abraham 2 depends on, descends from, or was mediated through the Genesis 12 textual and narrative tradition.
 
 The ordered narrative and close English wording strongly support dependence on or descent from the Genesis 12 textual tradition. This does not determine whether the relationship reflects ancient shared tradition, KJV-mediated inspired expansion, or ordinary nineteenth-century revision, and it does not establish the provenance of Abraham 2's expansions.
 
-Notes: [[Extensive Textual And Narrative Parallel in Abraham 2]]
+Notes: [[Extensive Textual And Narrative Parallel in Abraham 2]] · [[Literary Parallel in Abraham 2]]
 
 ### pgp-abraham-creation-from-materials
 **Abraham 3:24 'take of these materials' wording as evidence for creation-from-existing-matter doctrine** — *none* (neutral, evidence_strength 0.08) for: Abraham 3:24's organization-from-materials wording supports an authentically ancient cosmology rather than a modern revelatory or compositional formulation.
@@ -65,6 +65,13 @@ Notes: [[English Textual Intertextuality in Alma 5]]
 The dense multi-book cluster strongly supports deliberate biblical and KJV-shaped mediation in 2 Nephi 25's final English form. The Acts- and Malachi-like wording creates tension for strict pre-Christian-verbatim wording, while loose translation, revelatory harmonization, and nineteenth-century composition remain viable; the cluster is not independent of the broader KJV-mediation evidence.
 
 Notes: [[Literary Intertextuality in 2 Nephi 25]]
+
+### bom-3nephi11-biblical-english-mediation
+**Biblical and KJV mediation in 3 Nephi 11** — *strong* (supports, evidence_strength 0.68) for: The final English form of 3 Nephi 11 deliberately draws on, or was mediated through, identifiable New Testament textual and liturgical language.
+
+The clustered Beloved-Son declaration, wound inspection, baptismal formula, and rock, sand, flood, wind, and gates-of-hell language strongly support New Testament mediation in the final English form. Shared Christian subject matter, formulaic language, a common KJV-register cause, and missing matched controls keep the finding below higher strong-band passage-level correspondences and leave translation-level harmonization and nineteenth-century adaptation unresolved.
+
+Notes: [[Literary Intertextuality in 3 Nephi 11]]
 
 ### bom-3nephi7-petrine-proverb-dependence
 **Biblical mediation of the paired dog-and-sow proverb in 3 Nephi 7** — *strong* (supports, evidence_strength 0.84) for: The received English wording of 3 Nephi 7:8 deliberately draws on or is mediated through the paired proverb in 2 Peter 2:22.
