@@ -710,6 +710,13 @@ The chapter supplies genuine relative constraints but strongly challenges the cl
 
 Notes: [[Internal Geographic Constraints in 3 Nephi 8]]
 
+### bom-alma27-ammonite-pacifism-universality
+**Whether the Ammonite refusal to bear arms in Alma 27 constitutes a universal pacifist doctrine or a particular penitential practice** — *moderate* (challenges, evidence_strength 0.5) for: The final text of Alma 27 presents the people of Ammon's refusal to shed blood as a general pacifist doctrine intended for all believers, rather than a particular penitential obligation arising from their specific history.
+
+Alma 27 strongly establishes the people of Ammon's enduring, principled refusal to shed blood, but their conversion and penitential covenant history in Alma 24-26 and the Nephite armies' contemporaneous armed protection of them (v.23) moderately challenge reading this episode as prescribing universal pacifism for all believers; the recurring 'brethren' language is secondary, non-decisive evidence for that limitation.
+
+Notes: [[Textual And Ethical in Alma 27]]
+
 ### bom-1nephi-zedekiah-synchronism
 **Zedekiah-era political setting in 1 Nephi 1 as a historical synchronism** — *none* (supports, evidence_strength 0.1) for: First Nephi 1's Zedekiah and Babylonian-captivity setting provides independent evidence that the narrative derives from an authentic early-sixth-century BCE historical source rather than a Bible-informed nineteenth-century composition.
 
