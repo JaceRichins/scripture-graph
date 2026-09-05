@@ -9977,6 +9977,81 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ex-33-e0146043",
+   "t": "Sinai covenant renewal after the golden calf",
+   "y0": -1491,
+   "y1": -1490,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional LDS Bible chronology (following Ussher-style reckoning used in LDS Bible Dictionary conventions) places the Exodus and the Sinai covenant events around 1491 BC; internal biblical chronology and other scholarly datings vary by a century or more.",
+   "chapters": [
+    "Exodus 33"
+   ],
+   "people": [
+    "Moses (prophet)",
+    "Joshua (son of Nun)"
+   ],
+   "places": [
+    "Mount Sinai",
+    "Egypt"
+   ]
+  },
+  {
+   "id": "r-ex-34-078b5075",
+   "t": "Second tablets and covenant renewal at Mount Sinai",
+   "y0": -1491,
+   "y1": -1491,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed using the traditional LDS Bible Dictionary chronology for the Exodus (c. 1491 BC); occurs within the same encampment period at Sinai shortly after the golden-calf incident of Exodus 32.",
+   "chapters": [
+    "Exodus 34"
+   ],
+   "people": [
+    "Moses (prophet)",
+    "Aaron (brother of Moses)"
+   ],
+   "places": [
+    "Mount Sinai"
+   ]
+  },
+  {
+   "id": "r-ezek-1-a8214ec2",
+   "t": "Ezekiel's inaugural vision at the river Chebar",
+   "y0": -593,
+   "y1": -593,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Dated internally to the fifth year of Jehoiachin's captivity (1:2); Jehoiachin's deportation is conventionally placed in 597 BCE from Babylonian/biblical synchronisms, placing this vision around 593 BCE.",
+   "chapters": [
+    "Ezekiel 1"
+   ],
+   "people": [
+    "Ezekiel"
+   ],
+   "places": [
+    "Chebar (Babylonia)"
+   ]
+  },
+  {
    "id": "r-ezek-13-efcdff4a",
    "t": "Ezekiel's exilic ministry and oracles against false prophets",
    "y0": -593,

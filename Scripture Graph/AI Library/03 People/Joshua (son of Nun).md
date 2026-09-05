@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **1491 BC** — Sinai covenant ceremony and Moses's ascent · [[Exodus 24]] · [[1500-1401 BC]] *(traditional dating)*
+- **1491 BC–1490 BC** — Sinai covenant renewal after the golden calf · [[Exodus 33]] · [[1500-1401 BC]] *(traditional dating)*
 - **1406 BC** — Jericho falls · [[Joshua 6]] · [[1500-1401 BC]] *(traditional dating)*
 - **1406 BC** — Israel crosses the Jordan · [[Joshua 3]] · [[Joshua 4]] · [[1500-1401 BC]] *(traditional dating)*
 - **1406 BC–1400 BC** — Conquest and destruction of Jericho under Joshua · [[Joshua 6]] · [[1500-1401 BC]] *(traditional dating)*
