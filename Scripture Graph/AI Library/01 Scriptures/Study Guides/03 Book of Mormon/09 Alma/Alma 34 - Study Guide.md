@@ -17,13 +17,20 @@ Scripture: [[Alma 34]] · My notes: [[Alma 34 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Amulek testifies that the word is in Christ unto salvation—Unless an atonement is made, all mankind must perish—The whole law of Moses points toward the sacrifice of the Son of God—The eternal plan of redemption is based on faith and repentance—Pray for temporal and spiritual blessings—This life is the time for men to prepare to meet God—Work out your salvation with fear before God. About 74 B.C.
+Amulek builds on Alma's seed discourse by identifying Christ as the saving content of the word. His sermon moves from the necessity of an infinite and eternal [[Atonement of Jesus Christ]] to its practical response: [[Faith]] unto [[Repentance]], persistent [[Prayer]], material care for people in need, and patient [[Endurance]]. The chapter does not allow worship to remain merely verbal; prayer becomes vain when separated from [[Charity]].
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+- **Verses 1–8:** Amulek recalls Alma's teaching and testifies that Christ will come.
+
+- **Verses 9–16:** He argues for a final, infinite, and eternal sacrifice and relates [[Justice and Mercy]].
+
+- **Verses 17–29:** Faith unto repentance becomes prayer, humility, and care for vulnerable people.
+
+- **Verses 30–36:** The hearers are warned not to postpone repentance.
+
+- **Verses 37–41:** The discourse closes with worship, [[Gratitude]], watchfulness, patience, and hope.
 <!-- SG:END structure -->
 
 ## People
@@ -47,10 +54,12 @@ _Not yet developed._
 - [[Alma 12]] — 3 footnote cross-references (from [[Alma 34#^alma-34-9|Alma 34:9]])
 - [[Alma 31]] — 2 footnote cross-references (from [[Alma 34#^alma-34-1|Alma 34:1]])
 - [[Alma 32]] — 2 footnote cross-references (from [[Alma 34#^alma-34-3|Alma 34:3]])
-- [[Alma 5]] — 5 parallel verses, e.g. [[Alma 34#^alma-34-8|Alma 34:8]] ↔ [[Alma 5#^alma-5-32|Alma 5:32]]
 - [[Alma 13]] — 3 parallel verses, e.g. [[Alma 34#^alma-34-36|Alma 34:36]] ↔ [[Alma 13#^alma-13-11|Alma 13:11]]
 - [[Mosiah 2]] — 2 parallel verses, e.g. [[Alma 34#^alma-34-8|Alma 34:8]] ↔ [[Mosiah 2#^mosiah-2-41|Mosiah 2:41]]
 - [[Alma 12]] — 1 parallel verse, e.g. [[Alma 34#^alma-34-31|Alma 34:31]] ↔ [[Alma 12#^alma-12-33|Alma 12:33]]
+- [[Alma 32]] — 0 parallel verses
+- [[Mosiah 4]] — 0 parallel verses
+- [[Alma 32]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -62,12 +71,14 @@ _Not yet developed._
 - [[Fasting and Prayer for the Poor]]
 - [[Gratitude]]
 - [[Law of Moses]]
-- [[Repentance]] *(keyword match — unconfirmed)*
+- [[Endurance]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The atonement is presented as necessary within God's plan, not as an optional supplement to human effort. Amulek teaches that its intent is to make faith unto repentance possible for those who receive it (Alma 34:15-16), while those without such faith remain 'exposed to the whole law of the demands of justice' (34:16). The text says mercy 'overpowereth justice' (34:15) yet also 'satisf[ies] the demands of justice' (34:16) — language that gestures toward a coherent doctrine of [[Justice and Mercy]] without fully spelling out how the two are reconciled; this is best read as Amulek's stated framework rather than a resolved philosophical system.
+
+Amulek's teaching on [[Prayer]] is deliberately expansive: fields, homes, households, enemies, crops, flocks, private places, and inward prayer all fall within its scope. Yet verses 28-29 place an ethical boundary around this practice: prayer without care for the needy, naked, sick, and afflicted is called vain, and habitual failure at [[Charity]] is likened to worthless 'dross' cast out by refiners (34:29). The chapter also treats the [[Law of Moses]] as typological, existing to point toward 'that great and last sacrifice' (34:14), and warns that delaying [[Repentance]] until death leaves 'that same spirit' which governed a person in life still governing them afterward (34:34-35).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -100,25 +111,41 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated word **expedient** in verses 9–10 and 13 presents the atonement as necessary to the divine plan. The expressions **great and last sacrifice** and **infinite and eternal sacrifice** distinguish Christ's sacrifice from the ordinary sacrifices listed in verse 10.
+
+The phrase **faith unto repentance** is important: the preposition portrays faith as oriented toward repentance. The chapter's language does not support reducing saving faith to passive agreement.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verses 18-27 form a sustained catalog anchored by the repeated imperative 'cry unto him,' moving across personal, agricultural, domestic, and spiritual concerns before turning to private prayer 'in your closets, and your secret places' (34:26). The passage also uses two vivid images to mark its stakes: an uncharitable disciple is likened to 'dross, which the refiners do cast out' (34:29), and one who delays repentance is warned that 'that same spirit' governing them at death continues to govern them afterward (34:34-35). The discourse overall moves in a chain of consequence — atonement grounds faith unto repentance, which is expressed in prayer, tested by charity, and sustained by patience — though a fully deliberate formal design (e.g., a precise concentric structure) goes beyond what the text itself demonstrates.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary And Thematic Coherence
+> The progression from atonement, to faith and repentance, to prayer, charity, urgency, and endurance provides strong internal evidence that the discourse integrates doctrine with demanded conduct.
+> — strength 0.8 · confidence 0.9 · model claim: hedged, disputed-tagged · [[Literary And Thematic Coherence in Alma 34|full dossier]]
+
+> [!evidence] Textual/Statistical *(tentative)*
+> Verified text-overlap data show Alma 34 shares verse-level phraseology with Alma 5 (5 verses), Alma 13 (3 verses), Mosiah 2 (2 verses), and Alma 12 (1 verse) — chapters that likewise treat faith, the atoning/redemptive plan, and the peril of procrastinated repentance, suggesting a shared rhetorical and doctrinal vocabulary across these Alma-tradition sermons.
+> — strength 0.3 · confidence 0.6 · overlap counts real; strength unverified
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What does **infinite and eternal** modify most directly: the sacrifice, its efficacy, the identity of the sacrificer, or some combination of these?
+
+- How should **overpowereth justice** in verse 15 be read alongside **satisfy the demands of justice** in verse 16?
+
+- Does **that same spirit** in verse 34 primarily mean a person's settled disposition, a spiritual influence, or something else within Amulek's vocabulary?
+
+- How do verses 28–29 prevent prayers for prosperity in verses 24–25 from becoming a promise that righteousness guarantees wealth?
+
+- What is the relationship between immediate redemption in verse 31 and the continued afflictions anticipated in verses 40–41?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the experiment recalled in Alma 34:4 with [[Alma 32]], the infinite-atonement language with [[2 Nephi 9]], and the union of prayer and material care with [[Mosiah 4]]. These comparisons clarify recurring Book of Mormon themes without, by themselves, resolving questions of literary dependence or compositional history.
 <!-- SG:END further-study -->
