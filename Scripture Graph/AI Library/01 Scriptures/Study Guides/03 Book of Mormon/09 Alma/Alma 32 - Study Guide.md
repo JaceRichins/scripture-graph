@@ -23,7 +23,11 @@ Scripture: [[Alma 32]] · My notes: [[Alma 32 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Exclusion and appeal (vv. 1–5):** Poor hearers describe the social and religious consequences of their poverty.
+2. **Humility and worship (vv. 6–16):** Alma recognizes their receptivity, rejects a building-bound view of worship, and prefers voluntary humility to compelled humility.
+3. **Faith and accountability (vv. 17–26):** Faith is distinguished from perfect knowledge; demands for signs are answered by an appeal to moral accountability and God's mercy.
+4. **The seed's initial test (vv. 27–36):** Desire leads to planting; enlargement and enlightenment provide limited knowledge that the seed is good.
+5. **Long cultivation and fruit (vv. 37–43):** Continued nourishment permits roots, growth, and the fruit of the [[Tree of Life]]; neglect can destroy a genuinely promising beginning.
 <!-- SG:END structure -->
 
 ## People
@@ -49,7 +53,10 @@ _Not yet developed._
 - [[2 Nephi 31]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-13|Alma 32:13]] ↔ [[2 Nephi 31#^2ne-31-15|2 Nephi 31:15]]
 - [[Alma 12]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-40|Alma 32:40]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
 - [[D&C 18]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-13|Alma 32:13]] ↔ [[D&C 18#^dc-18-22|D&C 18:22]]
-- [[Alma 33]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-10|Alma 32:10]] ↔ [[Alma 33#^alma-33-2|Alma 33:2]]
+- [[Alma 33]] — 0 parallel verses
+- [[Alma 34]] — 0 parallel verses
+- [[1 Nephi 8]] — 0 parallel verses
+- [[Matthew 13]] — 0 parallel verses
 - [[1 Nephi 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -59,14 +66,16 @@ _Not yet developed._
 - [[Humility]]
 - [[Angels]]
 - [[Tree of Life]]
-- [[Education and Learning]] *(keyword match — unconfirmed)*
+- [[Endurance]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Alma defines [[Faith]] as less than perfect knowledge but more specific than hope in anything whatsoever: its object is unseen **and true** (v. 21). A desire to believe can begin the process by giving the word room to work. Initial enlargement and enlightenment provide bounded knowledge—knowledge that is perfect only “in that thing”—and faith becomes dormant regarding what has been learned, not unnecessary for the unfinished journey (vv. 34–36). These inward effects are evidence within Alma's account, but they do not by themselves identify a supernatural cause or verify every proposition attached to the word.
+
+[[Humility]] is valuable because it may lead to [[Repentance]], mercy, and [[Salvation]], not because deprivation is inherently holy. Alma calls freely chosen humility more blessed than humility imposed by circumstances. The conclusion likewise joins [[Endurance]] to faith through diligence, patience, long-suffering, and continued nourishment.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -99,27 +108,51 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several repeated expressions control the argument. **Compelled** and **humble** distinguish an imposed condition from a voluntary response. **Give place** marks the hearer's agency: the word is offered, but it can be admitted or resisted. **Perfect knowledge** changes scope across the passage. Initial growth produces knowledge that is perfect only “in that thing” (v. 34), while complete knowledge has not yet arrived (vv. 35–36). This qualification keeps a real experience from being treated as exhaustive certainty.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The seed comparison develops through planting, swelling, sprouting, rooting, nourishment, maturity, and fruit. Its sustained sequence makes judgment stage-dependent: initial non-growth may count against a seed (v. 32), whereas later withering after growth is attributed to neglected roots and nourishment (vv. 38–39). Early inward changes are therefore a beginning, not the metaphor's final outcome.
+
+The fruit in verses 40–42 forms a thematic and lexical parallel with [[1 Nephi 8]] through its sweetness, whiteness, desirability, and satisfying quality, although the verified index identifies no qualifying verse-level overlap. Ground, roots, scorching sun, withering, and fruit also parallel [[Matthew 13]]. These comparisons illuminate the imagery but do not establish direct borrowing, direction of dependence, chronology, historicity, or authorship.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Epistemology
+> The text supports reading Alma's experiment as a staged appeal to lived consequences: a hearer begins with desire, notices limited effects, continues cultivation, and awaits mature fruit. Because the participant is already motivated to believe and evaluates inward changes, the procedure is not equivalent to a controlled scientific test.
+> — strength 0.8 · confidence 1.0 · accepted textual account with disputed epistemic reach · [[Internal Epistemology in Alma 32|full dossier]]
+
+> [!evidence] Narrative And Social Theme
+> Repeated references to clothing, poverty, social contempt, and denied synagogue access are strong internal evidence that economic exclusion from worship is a deliberate concern of this chapter, not incidental scenery.
+> — strength 0.9 · confidence 1.0 · strong internal narrative evidence · [[Narrative And Social Theme in Alma 32|full dossier]]
+
+> [!evidence] Literary Structure
+> The ordered recurrence of planting, swelling, sprouting, rooting, nourishing, maturing, and harvesting is strong internal evidence that the seed passage is a deliberately sustained metaphor rather than a collection of unrelated agricultural images.
+> — strength 1.0 · confidence 1.0 · clear internal literary observation · [[Literary Structure in Alma 32|full dossier]]
+
+> [!evidence] Doctrinal Inclusivity Textual Data Point *(tentative)*
+> Verse 23's explicit inclusion of women and little children as recipients of the word/angelic communication is a textual data point for gospel access being broader than a narrow male-only channel, though it is a single verse and does not address priesthood office or church governance.
+> — strength 0.4 · confidence 0.7 · secure observation, disputed generalization
+
+> [!evidence] Historical Linguistics / Anachronism Caution *(tentative)*
+> Alma's call to make 'an experiment upon my words' is sometimes read as anticipating a scientific/empirical epistemology; but early modern English commonly used 'experiment' to mean a trial or proof by personal experience rather than a controlled scientific procedure, so equating the passage with the modern scientific method risks anachronism.
+> — strength 0.5 · confidence 0.6 · valuable caution; historical claim unsourced
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What is the precise scope of “the word” in the experiment: Alma's immediate teaching, faith in Christ, the gospel more broadly, or each of these at different levels?
+- Why does Alma call knowledge perfect “in that thing” while immediately denying that knowledge is perfect overall?
+- How should inward enlargement and enlightenment be weighed alongside the passage's longer-term criterion of fruit?
+- Does redirecting the poor toward worship outside the synagogue adequately answer the injustice of their exclusion, or only their immediate spiritual need?
+- How do initial non-growth in verse 32 and later withering from neglect in verses 38–39 function as different diagnoses?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Alma 33]] and [[Alma 34]] as continuations of the same exchange: they clarify worship beyond the synagogue and direct the planted word toward Christ, repentance, and redemption. Compare the mature fruit with [[1 Nephi 8]], and compare the seed's reception with [[Matthew 13]]. For thematic study, trace the interaction of [[Faith]], [[Hope]], [[Agency]], [[Humility]], and [[Endurance]] rather than isolating the initial feeling of growth from the chapter's demand for sustained nourishment.
 <!-- SG:END further-study -->
 
 ## Secondary Sources
