@@ -438,11 +438,11 @@ The right-period South Arabian NHM tribal attestation is a real and interesting 
 Notes: [[Nahom and the NHM altars]]
 
 ### bom-alma16-prophecy-fulfillment-correspondence
-**Narrative fulfillment of Alma's military prophecy in Alma 16** — *strong* (supports, evidence_strength 0.84) for: The final text deliberately presents the campaign in Alma 16:7-8 as the fulfillment and vindication of Alma's prediction in Alma 16:6.
+**Narrative fulfillment of Alma's military prophecy in Alma 16** — *strong* (supports, evidence_strength 0.84) for: The final text deliberately coordinates Alma's specified interception route with the subsequently narrated route and encounter.
 
 The immediate repetition of route and encounter details strongly supports deliberate in-narrative vindication of Alma's prophetic authority. Because prediction and outcome come through one narrative witness, the correspondence supplies only none-band support for genuine pre-event revelation, historical occurrence, or inspiration.
 
-Notes: [[Internal Narrative Consistency in Alma 16]] · [[Intra-Textual Prophecy-Fulfillment Pattern in Alma 16]]
+Notes: [[Internal Narrative Consistency in Alma 16]] · [[Intra-Textual Prophecy-Fulfillment Pattern in Alma 16]] · [[Prediction-Outcome Narrative Correspondence in Alma 16]]
 
 ### bom-alma55-restraint-ethical-framing
 **Narratorial ethical framing of Moroni's capture-over-killing choice (Alma 55)** — *strong* (supports, evidence_strength 0.78) for: The final text's explicit third-person narratorial commentary (55:19) deliberately frames Moroni's choice to capture rather than kill incapacitated enemies as an intentional ethical statement about restraint in war
