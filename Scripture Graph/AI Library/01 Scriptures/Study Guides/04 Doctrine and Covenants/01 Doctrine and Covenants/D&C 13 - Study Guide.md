@@ -23,7 +23,7 @@ Scripture: [[D&C 13]] · My notes: [[D&C 13 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The verse has three movements: (1) address to 'fellow servants' and conferral 'in the name of Messiah'; (2) a threefold enumeration of keys — ministering of [[Angels]], gospel of repentance, and [[Baptism]] by immersion for remission of sins; and (3) a continuity promise guaranteeing the priesthood's presence on earth until the sons of Levi offer again 'unto the Lord in righteousness.' The verse guarantees persistence up to that future event; it does not state what happens afterward.
 <!-- SG:END structure -->
 
 ## People
@@ -45,8 +45,10 @@ _Not yet developed._
 - [[Genesis 49]] — 1 footnote cross-reference (from [[D&C 13#^dc-13-1|D&C 13:1]])
 - [[Deuteronomy 10]] — 1 footnote cross-reference (from [[D&C 13#^dc-13-1|D&C 13:1]])
 - [[1 Chronicles 6]] — 1 footnote cross-reference (from [[D&C 13#^dc-13-1|D&C 13:1]])
-- [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[D&C 13#^dc-13-1|D&C 13:1]] ↔ [[Joseph Smith—History 1#^jsh-1-69|Joseph Smith—History 1:69]]
 - [[D&C 107]] — 1 parallel verse, e.g. [[D&C 13#^dc-13-1|D&C 13:1]] ↔ [[D&C 107#^dc-107-20|D&C 107:20]]
+- [[Joseph Smith—History 1]] — 0 parallel verses
+- [[Malachi 3]] — 0 parallel verses
+- [[D&C 107]] — 0 parallel verses
 - [[Joseph Smith—History 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -59,7 +61,7 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The verse ties [[Aaronic Priesthood]] authority to three specific keys: the ministering of [[Angels]], the gospel of repentance, and [[Baptism]] by immersion for remission of sins. [[D&C 107]] restates a closely parallel list — keys of the ministering of angels, and baptism of repentance for remission of sins — as part of a later, more systematic doctrinal exposition on priesthood. This compact list should not be read as an exhaustive definition of every Aaronic Priesthood function. The verse also asserts a permanence doctrine for the restored priesthood, though it does not itself compare this office to the higher [[Melchizedek Priesthood]] restored shortly afterward.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -92,22 +94,39 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+“Keys” denotes authorized powers or stewardship in the verse, although the passage does not explain the mechanics of each key. “Until” clearly points toward the sons of Levi's future offering, but it should not be made to answer more than the sentence states: the passage does not explicitly say what happens to the priesthood after that offering. The closing language strongly recalls Malachi 3:3.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The closing clause is a close verbal echo of Malachi 3:3 ('that they may offer unto the LORD an offering in righteousness'). The same phrase resurfaces in D&C 128:24, where Joseph Smith applies 'offer unto the Lord an offering in righteousness' to Latter-day Saint record-keeping for the dead — a notable reuse of Malachi's language in a new context, though D&C 128 does not itself claim to fulfill D&C 13's promise. The verse's use of 'Messiah' as the divine title of authorization is also worth noting, though the same verse also refers to 'the Lord,' so 'Messiah' is not the passage's only divine title.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual Relationship
+> The close textual identity between D&C 13:1 and Joseph Smith—History 1:69 strongly supports reading them as two canonical presentations of the same reported conferral rather than as separate priesthood declarations.
+> — strength 0.9 · confidence 0.9 · affirmed, correct evidentiary layering · [[Textual Relationship in D&C 13|full dossier]]
+
+> [!evidence] Scriptural Allusion
+> The distinctive combination of the sons of Levi, an offering, and righteousness makes dependence upon or conscious reuse of Malachi 3:3 highly likely.
+> — strength 0.8 · confidence 0.9 · affirmed · [[Scriptural Allusion in D&C 13|full dossier]]
+
+> [!evidence] Interpretive/Doctrinal *(tentative)*
+> The 'sons of Levi' who will 'offer again an offering unto the Lord in righteousness' has been read within Latter-day Saint tradition both as a literal future restoration of Levitical temple sacrifice/offerings and as a more symbolic fulfillment (e.g., Joseph Smith's own application of the same phrase to temple recordkeeping for the dead in D&C 128:24).
+> — strength 0.4 · confidence 0.6 · disputed, unresolved by text
+
+> [!evidence] Testimonial/Historical *(tentative)*
+> The claim that D&C 13 records the literal words of an angelic messenger rests on the personal testimony of Joseph Smith (and later corroborating testimony from Oliver Cowdery), recorded years after the event in Joseph Smith—History 1:68-72.
+> — strength 0.3 · confidence 0.6 · sound evidentiary layering, chronology needs care
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Is the 'offering' by the 'sons of Levi' meant literally (a restored temple or sacrificial rite by literal descendants of Levi) or figuratively, as Joseph Smith's own reuse of the phrase in D&C 128:24 might suggest? The text does not resolve this.
+- What distinction, if any, should be made between holding the [[Aaronic Priesthood]] and holding each of the three keys named here?
+- Does 'until' mark a true endpoint after which the priesthood's role changes, or simply emphasize uninterrupted continuity up to a promised culmination? The verse does not say.
+- How does [[D&C 107]]'s later, more systematic list of Aaronic Priesthood powers relate to the compact enumeration given here?
 <!-- SG:END questions -->
 
 ## Further Study
