@@ -17,28 +17,33 @@ Scripture: [[Alma 17]] · My notes: [[Alma 17 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> The sons of Mosiah have the spirit of prophecy and of revelation—They go their several ways to declare the word to the Lamanites—Ammon goes to the land of Ishmael and becomes the servant of King Lamoni—Ammon saves the king’s flocks and slays his enemies at the water of Sebus. Verses 1–3, about 77 B.C.; verse 4, about 91–77 B.C.; and verses 5–39, about 91 B.C.
+Alma 17 opens at the end of a fourteen-year mission and then moves backward to narrate its beginning. Alma finds the sons of Mosiah spiritually mature after years of [[Scripture Study]], [[Prayer]], [[Fasting]], teaching, and suffering. The narrative then follows Ammon into the land of Ishmael, where he chooses [[Service]] in Lamoni's household before directly teaching the king. The chapter closes with the violent encounter at Sebus and with physical testimony being carried to Lamoni, setting up [[Alma 18]].
+
+Several tensions deserve attention: spiritual power does not remove [[Adversity]]; the missionaries call the Lamanites brethren while the narrator also characterizes them harshly; Ammon's service is compassionate but explicitly strategic; and a divine commission centered on patience and example leads into a scene of lethal force.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Reunion and retrospective summary (17:1–5):** Alma meets the sons of Mosiah after their fourteen-year mission; their formation and sufferings are summarized.
+2. **Departure and commission (17:6–12):** They refuse kingship, travel into the wilderness, pray and fast, and receive comfort and instruction.
+3. **Separation and mission rationale (17:13–18):** The narrator describes the intended audience and the missionaries' hope of bringing them to [[Repentance]] and knowledge of redemption.
+4. **Ammon enters Lamoni's household (17:19–26):** Ammon is captured, released, offered marriage, and chooses service.
+5. **The Sebus episode (17:27–39):** The flocks are scattered, the servants fear execution, Ammon organizes their recovery, defeats the scatterers, and generates testimony that is taken to the king.
 <!-- SG:END structure -->
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Ammon (son of Mosiah)]] — 21 mentions
 - [[Ishmael (father-in-law of Nephi)]] — 5 mentions
-- [[King Lamoni]] — 4 mentions
 - [[Gideon (judge)]] — 1 mention
 - [[Nephi (son of Lehi)]] — 1 mention
+- [[Ammon (son of Mosiah)]] — 0 mentions
+- [[King Lamoni]] — 0 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
-- [[Zarahemla]] — 2 mentions
 - [[Manti]] — 1 mention
+- [[Zarahemla]] — 0 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
@@ -49,8 +54,6 @@ _Not yet developed._
 - [[Alma 19]] — 4 footnote cross-references (from [[Alma 17#^alma-17-23|Alma 17:23]])
 - [[Alma 21]] — 3 footnote cross-references (from [[Alma 17#^alma-17-13|Alma 17:13]])
 - [[Mosiah 27]] — 2 footnote cross-references (from [[Alma 17#^alma-17-1|Alma 17:1]])
-- [[Alma 21]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Alma 21#^alma-21-17|Alma 21:17]]
-- [[Alma 26]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Alma 26#^alma-26-24|Alma 26:24]]
 - [[Mosiah 27]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-4|Alma 17:4]] ↔ [[Mosiah 27#^mosiah-27-36|Mosiah 27:36]]
 - [[Helaman 16]] — 2 parallel verses, e.g. [[Alma 17#^alma-17-36|Alma 17:36]] ↔ [[Helaman 16#^hel-16-2|Helaman 16:2]]
 - [[Mosiah 28]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-8|Alma 17:8]] ↔ [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]]
@@ -59,11 +62,16 @@ _Not yet developed._
 - [[Mosiah 1]] — 2 parallel verses, e.g. [[Alma 17#^alma-17-15|Alma 17:15]] ↔ [[Mosiah 1#^mosiah-1-5|Mosiah 1:5]]
 - [[Alma 29]] — 1 parallel verse, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Alma 29#^alma-29-9|Alma 29:9]]
 - [[Alma 21]] — 0 parallel verses
+- [[Alma 26]] — 0 parallel verses
+- [[Alma 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Government and Laws]]
+- [[Prophecy]]
+- [[Scripture Study]]
+- [[Endurance]]
 - [[Scattering of Israel]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Adversity]] *(keyword match — unconfirmed)*
@@ -72,7 +80,9 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter connects knowledge of God's word with disciplined searching rather than passive familiarity (17:2). It similarly links prayer and fasting with prophecy, revelation, and empowered teaching (17:3), while immediately noting extensive suffering (17:5). The passage therefore supports these practices as spiritual formation, not as a formula guaranteeing comfort or success.
+
+The commission in 17:11 joins divine instrumentality with human conduct: the missionaries are to establish God's word, remain patient in affliction, and show good examples. In 17:16 their purpose is framed as bringing others to [[Repentance]] and knowledge of the plan of redemption. The conditional expressions in 17:9 and 17:16 leave room for the agency and uncertain response of those being taught.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -103,25 +113,37 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated qualifications “if it were possible” and “perhaps” temper the missionaries' expectations about converting the Lamanites (17:9, 16). A separate “perhaps” in 17:23, where Ammon says he may dwell among the Lamanites “until the day I die,” expresses his own uncertainty about his personal future rather than doubt about the mission's success, and shouldn't be read as the same rhetorical move. “Instrument in the hands of God” appears both in the missionaries' prayer and in the divine response (17:9, 11), pairing their desire with a promised role rather than depicting them as independent causes of conversion.
+
+Ammon's description as “chief among them, or rather he did administer unto them” (17:18) revises status language into service language, though the exact distinction intended by “or rather” remains uncertain. In 17:31 “flattered them by his words” is followed by encouragement and a practical rescue plan; the context does not by itself prove deceptive flattery in the strongest modern sense.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter moves from compressed retrospective summary (vv. 1-19) to a detailed origin episode (vv. 20-39), letting the reader know the mission ultimately succeeds before encountering its risks and ambiguities. The action at Sebus is carefully staged: scattered flocks create mortal fear among the servants; Ammon restores order before confronting the aggressors; and the severed arms become testimony carried to the king. Direct doctrinal teaching is delayed until [[Alma 18]], so service, danger, and reputation prepare the narrative setting for Ammon's preaching.
+
+The chapter repeatedly places contrasting ideas together: political privilege is refused but access to a king is later gained through captivity; weapons carried for obtaining food become instruments of combat; Ammon rejoices at an opportunity while his fellow-servants weep; and a mission to save souls includes lethal violence at Sebus.
+
+Verse 29 briefly opens a direct window into Ammon's reasoning (“these were the thoughts of Ammon”), an explicit look at a character's strategic calculation that is unusual for the book's narrative style. The Sebus conflict has also been compared to Moses defending Jethro's daughters' flocks at a well (Exodus 2:16-17); the resemblance is worth noting as a literary echo, though it is equally explainable as conscious or unconscious borrowing from a familiar biblical scene as by independent historical memory, so it should not be treated as evidence of historicity.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary/Cultural Plausibility *(tentative)*
+> The narrative's specific, mundane details (pastoral setting, watering-hole disputes among herdsmen, culturally specific captive-treatment customs, and named geography) are the kind of incidental cultural details some scholars cite as consistent with an ancient Near Eastern/Mesoamerican herding milieu, offered as evidence of authenticity rather than modern invention.
+> — strength 0.2 · confidence 0.5 · speculative, no named scholarship, plausible biblical-borrowing alternative
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How should readers distinguish the narrator's sweeping description of the Lamanites in 17:14–15 from the conduct of particular Lamanites later in the narrative?
+- Does Ammon's joy in 17:29 primarily express compassion, strategic calculation, confidence in God, or some combination of these?
+- What moral distinction, if any, does the narrative invite between the six deaths caused by the sling, the killing of the leader, and the nonlethal cutting off of other attackers' arms?
+- Why does Ammon choose service rather than Lamoni's offer of marriage, and how does that choice shape the king's later willingness to listen?
+- What does the shift from “chief” to “administer” in 17:18 imply about leadership?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Mosiah 27]] for the angelic encounter recalled in Alma 17:2 and [[Mosiah 28]] for the sons of Mosiah's request to undertake the mission. Continue with [[Alma 18]] for Lamoni's response to the report from Sebus. Compare [[Alma 26]], where Ammon retrospectively interprets the mission's suffering, deliverance, and success.
 <!-- SG:END further-study -->
