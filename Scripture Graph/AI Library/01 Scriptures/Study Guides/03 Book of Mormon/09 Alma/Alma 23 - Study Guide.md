@@ -23,7 +23,10 @@ Scripture: [[Alma 23]] · My notes: [[Alma 23 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Royal protection (vv. 1–3):** The king prohibits interference with the missionaries and explains his reforming purpose.
+2. **Mission and teaching (vv. 4–6):** Churches and local offices are established; thousands receive instruction from [[Records and Sacred Writings]] and are described as enduring converts.
+3. **Extent and limits (vv. 7–15):** Converts lay down weapons; seven locations are named; Amalekite and Amulonite resistance is acknowledged.
+4. **New identity and relations (vv. 16–18):** The converts choose the name Anti-Nephi-Lehies and begin peaceful correspondence with the Nephites.
 <!-- SG:END structure -->
 
 ## People
@@ -60,14 +63,19 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[War and Peace]]
+- [[Records and Sacred Writings]]
 - [[Conversion]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+- **Conversion as durable, not merely emotional.** The narrator's oath-like claim in v. 6 — that those converted through this mission 'never did fall away' — frames [[Conversion]] as producing lasting fruit, though this is the narrator's summary characterization of this specific group rather than a universal rule about every conversion.
+- **Repentance and non-violence.** Laying down 'the weapons of their rebellion' (vv. 7, 13) ties repentance directly to renouncing violence, a theme [[Alma 24]] develops further.
+- **A ruler's conversion reshaping policy.** The king's decree (vv. 1–3) is explicitly grounded in his own conversion (v. 3), showing how personal [[Conversion]] can reshape [[Government and Laws]] to protect [[Missionary Work]] — though the decree protects a specific mission rather than establishing a general principle of religious liberty for all groups.
+- **Multidimensional conversion.** The chapter links belief with moral reform, ecclesiastical organization ('establishing churches, and consecrating priests and teachers,' v. 4), transmitted [[Records and Sacred Writings]] (v. 5), and renewed relations with the Nephites (v. 18).
+- **The curse and its removal (v. 18).** The text ties the end of 'the curse of God' to the converts' changed conduct and restored relationship with the Nephites, but does not itself define what the curse consists of — that question remains genuinely disputed and is not resolved by this verse alone.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -95,25 +103,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Two verbal contrasts deserve attention. First, traditions are not uniformly condemned: the king opposes the wicked traditions of the Lamanite fathers, while converts are brought to believe Nephite traditions and are taught records and prophecies. The implied test is truth, not merely age or inheritance. Second, weapons of rebellion becomes weapons of war, linking opposition to God with hostility toward human brethren. The meaning of Anti-Nephi-Lehies is not explained in the chapter, and confident etymologies exceed the available text.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verses 9–12 read almost like a gazetteer, listing converted lands and cities with minimal narrative elaboration — a shift in register from the surrounding prose. This catalog is immediately paired with a contrasting notice about the Amalekites and Amulonites (v. 14), creating a literary foil: named, converted communities set against named, unconverted ones. The renaming in v. 17 caps this movement, marking the converts' new collective identity — though the text does not explain why 'Anti-Nephi-Lehies' was the chosen name, and confident etymologies of the 'Anti-' element go beyond what the chapter itself establishes.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Linguistic Pattern *(tentative)*
+> 'Anti-' recurs as an initial element in several unrelated Book of Mormon place and group names (e.g., Antionum, Antiparah, Antipus, Ani-Anti, Anti-Nephi-Lehi), suggesting it functions in the record's underlying language(s) as a name-formation element rather than as the modern English prefix 'anti-' (meaning 'against'), which would otherwise oddly imply these converts named themselves 'against Nephi and Lehi.'
+> — strength 0.2 · confidence 0.3 · minority/speculative, partly inaccurate examples
+
+> [!evidence] Internal Doctrinal Statement *(tentative)*
+> The chapter closes by stating that once the converted Lamanites became industrious and friendly with the Nephites, opening correspondence with them, 'the curse of God did no more follow them' — tying removal of the 'curse' to conversion, changed conduct, and renewed relationship with the Nephites rather than treating it as an immutable, unconditional state.
+> — strength 0.3 · confidence 0.6 · disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the king frame his decree in such specific legal detail (vv. 1–2) rather than a general statement of tolerance — what might the specificity suggest about persecution the missionaries had faced?
+- What distinction does the narrator draw between inherited tradition and verified truth (compare v. 3's 'wicked traditions' with v. 5's Nephite traditions)?
+- Why does the account name both the converted communities and the resistant groups (v. 14) rather than simply describing overall success?
+- Which elements of the Anti-Nephi-Lehies' transformation are religious, political, economic, or social — and can they be cleanly separated?
+- What can Alma 23:18 establish about 'the curse of God,' and what remains undefined until compared with other passages?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+See [[Alma 22]] for the king's own conversion that precipitates this chapter's proclamation, and [[Alma 24]] for the direct continuation of the weapons motif into the Anti-Nephi-Lehies' covenant and burial of their weapons. Compare [[Helaman 15]] on the later reported durability of Lamanite conversion. For the earlier Nephite civil-law protection of freedom of belief, compare [[Alma 30]] — note it states a broader, more general principle than this chapter's decree protecting a specific mission. Compare [[Alma 3]] cautiously on curse language; shared vocabulary does not by itself prove every passage describes the same phenomenon.
 <!-- SG:END further-study -->
