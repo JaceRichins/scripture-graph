@@ -7927,6 +7927,36 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-8-de65bd9f",
+   "t": "Alma's Ammonihah mission and the call of Amulek",
+   "y0": -82,
+   "y1": -81,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "The text places these events at the transition from the 9th to the 10th year of the reign of the judges (Alma 8:2-3); the printed chapter heading assigns this to 'about 82 B.C.' using the traditional correlation of judges-reign years to B.C. dates.",
+   "chapters": [
+    "Alma 8"
+   ],
+   "people": [
+    "Alma the Younger",
+    "Amulek",
+    "Nephihah"
+   ],
+   "places": [
+    "Ammonihah",
+    "Melek"
+   ],
+   "things": [
+    "Judgment-seat"
+   ]
+  },
+  {
    "id": "r-alma-9-8a535925",
    "t": "Alma and Amulek preach at Ammonihah",
    "y0": -82,
@@ -8000,6 +8030,55 @@ timeline module, not this file._
    ],
    "places": [
     "Israel (Northern Kingdom)"
+   ]
+  },
+  {
+   "id": "r-amos-8-82d8262a",
+   "t": "Amos's ministry and the fall of the Northern Kingdom",
+   "y0": -760,
+   "y1": -722,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Amos is traditionally dated to the reign of Jeroboam II of Israel (and Uzziah of Judah); he prophesies imminent judgment roughly a generation before Samaria fell to Assyria in 722 BC.",
+   "chapters": [
+    "Amos 8"
+   ],
+   "people": [
+    "Amos"
+   ],
+   "places": [
+    "Samaria"
+   ]
+  },
+  {
+   "id": "r-col-1-2ac92675",
+   "t": "Paul writes his epistle to the church at Colosse",
+   "y0": 60,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally placed during Paul's Roman imprisonment based on internal references to his bonds later in the letter; some scholars instead propose an earlier imprisonment (e.g., at Ephesus), so the date remains disputed.",
+   "chapters": [
+    "Colossians 1"
+   ],
+   "people": [
+    "Paul (apostle)",
+    "Timothy (companion of Paul)",
+    "Epaphras"
+   ],
+   "places": [
+    "Colosse"
    ]
   },
   {

@@ -114,7 +114,7 @@ Verses 6-23 contain a dense cluster of anaphoric rhetorical questions ("Can you 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Epistemic Qualification
 > The chapter strongly establishes that Moroni suspects the government of seeking power or committing treason, but his own wording marks this as an inference rather than confirmed knowledge.
-> — strength 0.8 · confidence 0.9 · verified, epistemically careful · [[Textual Epistemic Qualification in Alma 60|full dossier]]
+> — confidence 0.9 · verified, epistemically careful · [[Textual Epistemic Qualification in Alma 60|full dossier]]
 
 > [!evidence] Internal Theological/Ethical Tension *(tentative)*
 > Moroni's threat of coercive force against the civil government he serves (vv.27-30, 35) sits in real tension with the Book of Mormon's broader teaching that citizens should sustain and be governed by lawfully appointed rulers, raising a genuine question about whether the text presents this threat as fully righteous or as an extreme, situational wartime response.

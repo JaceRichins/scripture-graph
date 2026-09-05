@@ -63,6 +63,7 @@ The chapter's governing tension is therefore not merely weakness versus strength
 - [[3 Nephi 4]] — 2 parallel verses, e.g. [[Alma 58#^alma-58-30|Alma 58:30]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
 - [[Alma 57]] — 0 parallel verses
 - [[Alma 56]] — 0 parallel verses
+- [[Alma 60]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -121,7 +122,7 @@ A smaller interpretive difficulty deserves notice. Verse 28 calls the taking of 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary-Theological Coherence
 > The progression from extremity through prayer, assurance, courage, disciplined action, and deliverance provides substantial textual evidence for a coherent theology of providence in the chapter: trust in God energizes prudent action rather than replacing it.
-> — strength 0.8 · confidence 0.9 · Literary-theological pattern affirmed; larger conclusions limited · [[Literary-Theological Coherence in Alma 58|full dossier]]
+> — confidence 0.9 · Literary-theological pattern affirmed; larger conclusions limited · [[Literary-Theological Coherence in Alma 58|full dossier]]
 
 > [!evidence] Narrative And Rhetorical Pattern *(tentative)*
 > The repeated contrast between what Helaman knows, does not know, and fears is strong internal evidence that this passage deliberately marks degrees of epistemic certainty within the narrator's political assessment.

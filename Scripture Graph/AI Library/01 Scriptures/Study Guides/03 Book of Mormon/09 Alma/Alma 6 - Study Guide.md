@@ -113,7 +113,7 @@ Alma 6 is transitional rather than sermonic. Verse 7 preserves a brief etiologic
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Institutional Detail
 > The combination of designated officers, ordination by laying on hands, procedures for admission and exclusion, and a numbered record is strong internal evidence that the narrative depicts a formally regulated religious community.
-> — strength 0.7 · confidence 0.9 · well-hedged, disclaims antiquity · [[Internal Institutional Detail in Alma 6|full dossier]]
+> — confidence 0.9 · well-hedged, disclaims antiquity · [[Internal Institutional Detail in Alma 6|full dossier]]
 
 > [!evidence] Textual/Theological Parallel *(tentative)*
 > The phrase "their names were blotted out" in Alma 6:3 uses covenant-curse imagery attested in the Hebrew Bible (e.g., a name being blotted out of a book), which is consistent with, but does not independently prove, the Book of Mormon's claim to be an ancient Israelite record.

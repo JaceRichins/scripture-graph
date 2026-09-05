@@ -43,11 +43,11 @@ _Not yet developed._
 - **852 BC–841 BC** — Naaman healed of leprosy by Elisha · [[2 Kings 5]] · [[900-801 BC]] *(approximate)*
 - **841 BC–814 BC** — Reign of Jehu over Israel · [[2 Kings 10]] · [[900-801 BC]] *(historical)*
 - **760 BC–722 BC** — Amos and Hosea warn the north · [[Amos 5]] · [[Hosea 11]] · [[800-701 BC]] *(approximate)*
+- **760 BC–722 BC** — Amos's ministry and the fall of the Northern Kingdom · [[Amos 8]] · [[800-701 BC]] *(traditional dating)*
 - **755 BC–722 BC** — Hosea prophesies through Israel's final kings · [[Hosea 10]] · [[800-701 BC]] *(approximate)*
 - **753 BC–732 BC** — Israelite throne instability, multiple usurper kings · [[Hosea 8]] · [[800-701 BC]] *(historical)*
 - **734 BC–722 BC** — Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria · [[Isaiah 8]] · [[800-701 BC]] *(historical)*
 - **722 BC** — Assyria destroys northern Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*
-- **722 BC–721 BC** — Fall of Samaria and Assyrian exile of Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

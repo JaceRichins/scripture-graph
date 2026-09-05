@@ -40,6 +40,7 @@ _Not yet developed._
 - **91 BC** — The reign of the judges begins · [[Mosiah 29]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **85 BC–83 BC** — Nephite church prosperity turns to pride and internal strife · [[Alma 4]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **83 BC** — Alma separates the judgment-seat from the high priesthood · [[Alma 4]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **82 BC–81 BC** — Alma's Ammonihah mission and the call of Amulek · [[Alma 8]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **74 BC** — Korihor demands a sign · [[Alma 30]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **74 BC** — Alma among the Zoramites; the seed of faith · [[Alma 31]] · [[Alma 32]] · [[Alma 34]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 

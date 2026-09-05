@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **82 BC–81 BC** — Alma's Ammonihah mission and the call of Amulek · [[Alma 8]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **73 BC** — Alma commissions Helaman and departs · [[Alma 45]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
