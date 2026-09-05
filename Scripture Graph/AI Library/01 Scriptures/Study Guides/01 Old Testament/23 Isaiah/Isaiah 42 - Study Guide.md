@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 42
 slug: isa-42
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -49,8 +49,9 @@ _Not yet developed._
 - [[Isaiah 49]] — 1 footnote cross-reference (from [[Isaiah 42#^isa-42-6|Isaiah 42:6]])
 - [[D&C 45]] — 1 footnote cross-reference (from [[Isaiah 42#^isa-42-6|Isaiah 42:6]])
 - [[Psalm 149]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-10|Isaiah 42:10]] ↔ [[Psalm 149#^ps-149-1|Psalm 149:1]]
-- [[Isaiah 49]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-6|Isaiah 42:6]] ↔ [[Isaiah 49#^isa-49-8|Isaiah 49:8]]
 - [[Matthew 12]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-3|Isaiah 42:3]] ↔ [[Matthew 12#^matt-12-20|Matthew 12:20]]
+- [[Isaiah 49]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-6|Isaiah 42:6]] ↔ [[Isaiah 49#^isa-49-8|Isaiah 49:8]]
+- [[Acts 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +79,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Blindness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 7
 slug: john-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,10 @@ _Not yet developed._
 - **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Testimony** (reference-entry) *(explicit citation)*
+- **Bethlehem** (reference-entry) *(explicit citation)*
+- **Brethren of the Lord** (reference-entry) *(explicit citation)*
+- **Diaspora** (reference-entry) *(explicit citation)*
+- **Dispersion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 22
 slug: matt-22
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,8 @@ _Not yet developed._
 - [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
 - [[1 Nephi 6]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
-- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
 - [[Alma 36]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
+- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
 - [[Deuteronomy 10]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]]
 <!-- SG:END related-scriptures -->
 
@@ -79,13 +79,13 @@ _Not yet developed._
 - [[Put On Thy Strength, O Zion (Elder David A. Bednar, October 2022)|Put On Thy Strength, O Zion]] — Elder David A. Bednar, 2022-October *(explicit citation)*
 - [[Bridging the Two Great Commandments (Elder Gary E. Stevenson, April 2024)|Bridging the Two Great Commandments]] — Elder Gary E. Stevenson, 2024-April *(explicit citation)*
 - [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*
+- [[The Love of God (President Dieter F. Uchtdorf, October 2009)|The Love of God]] — President Dieter F. Uchtdorf, 2009-October *(explicit citation)*
 - [[Missionary Work Sharing What Is in Your Heart (Elder Dieter F. Uchtdorf, April 2019)|Missionary Work: Sharing What Is in Your Heart]] — Elder Dieter F. Uchtdorf, 2019-April *(explicit citation)*
 - [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
 - [[His Yoke Is Easy and His Burden Is Light (Sister J. Anette Dennis, October 2022)|His Yoke Is Easy and His Burden Is Light]] — Sister J. Anette Dennis, 2022-October *(explicit citation)*
 - [[One in Christ (Elder D. Todd Christofferson, April 2023)|One in Christ]] — Elder D. Todd Christofferson, 2023-April *(explicit citation)*
 - [[Cherishing Life (Elder Neil L. Andersen, April 2025)|Cherishing Life]] — Elder Neil L. Andersen, 2025-April *(explicit citation)*
 - [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
-- [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 3
 slug: 1pet-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -88,9 +88,12 @@ Verse 21 denies that baptism's saving power lies in physical washing ("not the p
 <!-- SG:BEGIN history -->
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
+- **Conversation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

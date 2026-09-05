@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 3
 slug: 1tim-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,9 @@ _Not yet developed._
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Bishop** (reference-entry) *(explicit citation)*
 - **Deacon** (reference-entry) *(explicit citation)*
+- **Bishop** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

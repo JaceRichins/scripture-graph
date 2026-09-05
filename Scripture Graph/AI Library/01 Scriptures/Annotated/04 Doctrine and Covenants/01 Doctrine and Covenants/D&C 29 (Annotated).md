@@ -55,7 +55,7 @@ cssclasses:
 > [[Exodus 19#^ex-19-13|Ex. 19:13, 19]] · [[D&C 43#^dc-43-18|D&amp;C 43:18]] · [[D&C 45#^dc-45-45|45:45 (45–46)]] · [[D&C 76#^dc-76-17|D&amp;C 76:50 (17, 50)]] · [[Revelation 11#^rev-11-18|Rev. 11:18 (18–19)]] · [[D&C 88#^dc-88-96|D&amp;C 88:97 (96–97)]] · [[D&C 133#^dc-133-56|133:56]] · [[D&C 76#^dc-76-95|D&amp;C 76:95]] · [[D&C 78#^dc-78-5|78:5 (5–7)]] · [[D&C 84#^dc-84-35|84:38 (35–39)]]
 
 ![[D&C 29#^dc-29-14]]
-> [[Joel 2#^joel-2-10|Joel 2:10]] · [[Joseph Smith—Matthew 1#^jsm-1-33|JS—M 1:33]] · [[Genesis 1#^gen-1-14|Gen. 1:14]] · [[D&C 45#^dc-45-42|≈ D&C 45:42]] · [[Joseph Smith—Matthew 1#^jsm-1-33|≈ Joseph Smith—Matthew 1:33]] · [[Mark 13#^mark-13-24|≈ Mark 13:24]] · [[D&C 34#^dc-34-9|≈ D&C 34:9]] · [[Matthew 24#^matt-24-29|≈ Matthew 24:29]]
+> [[Joel 2#^joel-2-10|Joel 2:10]] · [[Joseph Smith—Matthew 1#^jsm-1-33|JS—M 1:33]] · [[Genesis 1#^gen-1-14|Gen. 1:14]] · [[Mark 13#^mark-13-24|≈ Mark 13:24]] · [[D&C 34#^dc-34-9|≈ D&C 34:9]] · [[D&C 45#^dc-45-42|≈ D&C 45:42]] · [[Joseph Smith—Matthew 1#^jsm-1-33|≈ Joseph Smith—Matthew 1:33]] · [[Matthew 24#^matt-24-29|≈ Matthew 24:29]]
 
 ![[D&C 29#^dc-29-15]]
 > [[Matthew 13#^matt-13-42|Matt. 13:42]]

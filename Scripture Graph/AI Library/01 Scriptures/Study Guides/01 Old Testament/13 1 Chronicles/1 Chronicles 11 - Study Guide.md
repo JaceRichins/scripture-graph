@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 11
 slug: 1chr-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -82,8 +82,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Benaiah** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
 - **Asahel** (reference-entry) *(explicit citation)*
+- **Bethlehem** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

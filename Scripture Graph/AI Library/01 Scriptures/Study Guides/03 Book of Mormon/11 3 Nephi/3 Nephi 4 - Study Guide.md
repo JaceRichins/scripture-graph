@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 4
 slug: 3ne-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,9 +57,9 @@ Scripture: [[3 Nephi 4]] · My notes: [[3 Nephi 4 - My Notes]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
 - [[Luke 20]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
-- [[Exodus 3]] — 2 parallel verses, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Alma 36]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Mosiah 2]] — 2 parallel verses, e.g. [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]] ↔ [[Mosiah 2#^mosiah-2-4|Mosiah 2:4]]
 - [[1 Nephi 6]] — 1 parallel verse, e.g. [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 58
 slug: alma-58
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ _Not yet developed._
 - [[Ether 15]] — 2 parallel verses, e.g. [[Alma 58#^alma-58-14|Alma 58:14]] ↔ [[Ether 15#^ether-15-17|Ether 15:17]]
 - [[Alma 60]] — 2 parallel verses, e.g. [[Alma 58#^alma-58-10|Alma 58:10]] ↔ [[Alma 60#^alma-60-20|Alma 60:20]]
 - [[Mormon 4]] — 2 parallel verses, e.g. [[Alma 58#^alma-58-30|Alma 58:30]] ↔ [[Mormon 4#^morm-4-2|Mormon 4:2]]
-- [[Alma 47]] — 2 parallel verses, e.g. [[Alma 58#^alma-58-15|Alma 58:15]] ↔ [[Alma 47#^alma-47-15|Alma 47:15]]
 - [[Alma 27]] — 2 parallel verses, e.g. [[Alma 58#^alma-58-10|Alma 58:10]] ↔ [[Alma 27#^alma-27-5|Alma 27:5]]
+- [[Alma 47]] — 2 parallel verses, e.g. [[Alma 58#^alma-58-15|Alma 58:15]] ↔ [[Alma 47#^alma-47-15|Alma 47:15]]
 - [[3 Nephi 4]] — 2 parallel verses, e.g. [[Alma 58#^alma-58-30|Alma 58:30]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
 <!-- SG:END related-scriptures -->
 

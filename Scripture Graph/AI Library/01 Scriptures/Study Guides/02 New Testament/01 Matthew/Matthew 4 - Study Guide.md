@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 4
 slug: matt-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -60,9 +60,9 @@ _Not yet developed._
 - [[Matthew 2]] — 2 parallel verses, e.g. [[Matthew 4#^matt-4-14|Matthew 4:14]] ↔ [[Matthew 2#^matt-2-23|Matthew 2:23]]
 - [[Matthew 12]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-14|Matthew 4:14]] ↔ [[Matthew 12#^matt-12-17|Matthew 12:17]]
 - [[Deuteronomy 8]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-4|Matthew 4:4]] ↔ [[Deuteronomy 8#^deut-8-3|Deuteronomy 8:3]]
+- [[Alma 10]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-17|Matthew 4:17]] ↔ [[Alma 10#^alma-10-20|Alma 10:20]]
 - [[Matthew 13]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-14|Matthew 4:14]] ↔ [[Matthew 13#^matt-13-35|Matthew 13:35]]
 - [[Matthew 21]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-14|Matthew 4:14]] ↔ [[Matthew 21#^matt-21-4|Matthew 21:4]]
-- [[Alma 10]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-17|Matthew 4:17]] ↔ [[Alma 10#^alma-10-20|Alma 10:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -94,13 +94,13 @@ _Not yet developed._
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
+- **Deuteronomy** (reference-entry) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Introduction** (reference-entry) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
-- **Priesthood Blessing** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

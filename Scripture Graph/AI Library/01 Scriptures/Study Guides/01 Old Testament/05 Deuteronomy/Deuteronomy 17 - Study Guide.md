@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 17
 slug: deut-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -71,8 +71,8 @@ _Not yet developed._
 - [[Covenants]]
 - [[Pride]]
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -89,7 +89,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Commerce** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

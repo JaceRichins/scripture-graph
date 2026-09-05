@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 14
 slug: 1sam-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Abner** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
+- **Blood** (reference-entry) *(explicit citation)*
+- **Edom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 15
 slug: 1sam-15
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ The chapter's most quoted teaching is that obedience to revealed command outweig
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Agency Essential to the Plan of Life (Elder Robert D. Hales, October 2010)|Agency: Essential to the Plan of Life]] — Elder Robert D. Hales, 2010-October *(explicit citation)*
 - [[Faith Is Not by Chance, but by Choice (Elder Neil L. Andersen, October 2015)|Faith Is Not by Chance, but by Choice]] — Elder Neil L. Andersen, 2015-October *(explicit citation)*
 - [[Obedience Brings Blessings (President Thomas S. Monson, April 2013)|Obedience Brings Blessings]] — President Thomas S. Monson, 2013-April *(explicit citation)*
 - [[Ponder the Path of Thy Feet (President Thomas S. Monson, October 2014)|Ponder the Path of Thy Feet]] — President Thomas S. Monson, 2014-October *(explicit citation)*
@@ -83,6 +84,7 @@ The chapter's most quoted teaching is that obedience to revealed command outweig
 ## Church History
 <!-- SG:BEGIN history -->
 - **Amalek, Amalekites** (reference-entry) *(explicit citation)*
+- **Carmel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

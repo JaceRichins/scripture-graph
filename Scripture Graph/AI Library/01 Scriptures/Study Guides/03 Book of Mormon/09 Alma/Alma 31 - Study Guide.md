@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 31
 slug: alma-31
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -119,11 +119,11 @@ The Rameumptom episode is morally analogous to [[Luke 18]], where confident reli
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Political Theology
 > Alma 31:4-5 is strong evidence for the narrative's preference for moral persuasion over coercive force in this crisis. It is not, by itself, empirical proof that preaching is always more effective than military or political action.
-> — strength 0.9 · confidence 1.0 · Broad agreement · [[Narrative Political Theology in Alma 31|full dossier]]
+> — confidence 1.0 · Broad agreement · [[Narrative Political Theology in Alma 31|full dossier]]
 
 > [!evidence] Literary Design
 > The sustained oppositions between the Zoramite prayer and Alma's prayer are strong evidence that the chapter has been composed or edited to invite comparison between two models of worship.
-> — strength 0.9 · confidence 0.9 · Literary contrast accepted; compositional mechanism disputed · [[Literary Design in Alma 31|full dossier]]
+> — confidence 0.9 · Literary contrast accepted; compositional mechanism disputed · [[Literary Design in Alma 31|full dossier]]
 
 > [!evidence] Intertextual/Thematic Parallel *(tentative)*
 > Alma 31:38's description of the Lord giving the missionaries strength to "suffer no manner of afflictions" echoes a similar motif elsewhere in the Alma narrative in which the Lord eases the burdens of a suffering group of Alma's people (Mosiah 24, concerning Alma the Elder's people under Amulon). This is offered only as a loose thematic/intergenerational echo, not a demonstrated literary dependency.

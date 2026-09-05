@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 10
 slug: 1sam-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -70,11 +70,13 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[The Greatest Possession (Elder Jeffrey R. Holland, October 2021)|The Greatest Possession]] — Elder Jeffrey R. Holland, 2021-October *(explicit citation)*
+- [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Anoint** (reference-entry) *(explicit citation)*
+- **Bethel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

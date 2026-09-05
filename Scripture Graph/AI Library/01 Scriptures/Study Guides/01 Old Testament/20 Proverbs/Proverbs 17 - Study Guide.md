@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 17
 slug: prov-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -66,7 +66,7 @@ The chapter grounds conduct in divine and creational accountability: the LORD te
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“You Are My Hands” (President Dieter F. Uchtdorf, April 2010)|“You Are My Hands”]] — President Dieter F. Uchtdorf, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

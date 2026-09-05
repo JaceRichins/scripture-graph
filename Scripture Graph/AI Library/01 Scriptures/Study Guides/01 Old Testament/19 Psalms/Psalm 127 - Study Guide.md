@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 127
 slug: ps-127
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 - [[Conference Report, April 1930 (General Conference (full report), April 1930)|Conference Report, April 1930]] — General Conference (full report), 1930-April *(explicit citation)*
 - [[Teaching Our Children to Understand (Cheryl A. Esplin, April 2012)|Teaching Our Children to Understand]] — Cheryl A. Esplin, 2012-April *(explicit citation)*
 - [[Becoming Goodly Parents (Elder L. Tom Perry, October 2012)|Becoming Goodly Parents]] — Elder L. Tom Perry, 2012-October *(explicit citation)*
+- [[Mothers Teaching Children in the Home (Elder L. Tom Perry, April 2010)|Mothers Teaching Children in the Home]] — Elder L. Tom Perry, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

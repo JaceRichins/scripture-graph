@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 17
 slug: dc-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Look to the Book, Look to the Lord (Elder Gary E. Stevenson, October 2016)|Look to the Book, Look to the Lord]] — Elder Gary E. Stevenson, 2016-October *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[Watching with All Perseverance (Elder David A. Bednar, April 2010)|Watching with All Perseverance]] — Elder David A. Bednar, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -81,6 +82,7 @@ _Not yet developed._
 - **07 Fellow Servants** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
+- **Breastplate** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

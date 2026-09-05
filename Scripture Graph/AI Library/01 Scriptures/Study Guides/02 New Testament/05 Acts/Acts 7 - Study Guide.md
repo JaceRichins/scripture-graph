@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 7
 slug: acts-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,8 +69,8 @@ A rejection-then-recognition pattern runs through the history — both Joseph an
 - [[Luke 20]] — 1 parallel verse, e.g. [[Acts 7#^acts-7-32|Acts 7:32]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
 - [[Alma 36]] — 1 parallel verse, e.g. [[Acts 7#^acts-7-32|Acts 7:32]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Acts 7#^acts-7-32|Acts 7:32]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
-- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Acts 7#^acts-7-32|Acts 7:32]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
 - [[1 Nephi 6]] — 1 parallel verse, e.g. [[Acts 7#^acts-7-32|Acts 7:32]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
+- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Acts 7#^acts-7-32|Acts 7:32]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
 - [[1 Nephi 22]] — 1 parallel verse, e.g. [[Acts 7#^acts-7-37|Acts 7:37]] ↔ [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]]
 <!-- SG:END related-scriptures -->
 
@@ -80,8 +80,8 @@ A rejection-then-recognition pattern runs through the history — both Joseph an
 - [[Repentance and Forgiveness]]
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -96,6 +96,7 @@ A rejection-then-recognition pattern runs through the history — both Joseph an
 <!-- SG:BEGIN conference -->
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
 - [[The Father and the Son (Elder Christoffel Golden Jr., April 2013)|The Father and the Son]] — Elder Christoffel Golden Jr., 2013-April *(explicit citation)*
+- [[Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ (Elder Robert D. Hales, October 2009)|Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ]] — Elder Robert D. Hales, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -103,6 +104,9 @@ A rejection-then-recognition pattern runs through the history — both Joseph an
 - **Godhead** (reference-entry) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Blasphemy** (reference-entry) *(explicit citation)*
+- **Burning bush** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 8
 slug: rom-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,9 +73,9 @@ _Not yet developed._
 - [[Take the Holy Spirit as Your Guide (Elder Larry Y. Wilson, April 2018)|Take the Holy Spirit as Your Guide]] — Elder Larry Y. Wilson, 2018-April *(explicit citation)*
 - [[His Yoke Is Easy and His Burden Is Light (Sister J. Anette Dennis, October 2022)|His Yoke Is Easy and His Burden Is Light]] — Sister J. Anette Dennis, 2022-October *(explicit citation)*
 - [[Four Titles (President Dieter F. Uchtdorf, April 2013)|Four Titles]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
+- [[All Things Work Together for Good (Elder James B. Martino, April 2010)|All Things Work Together for Good]] — Elder James B. Martino, 2010-April *(explicit citation)*
 - [[Discovering the Divinity Within (Rosemary M. Wixom, October 2015)|Discovering the Divinity Within]] — Rosemary M. Wixom, 2015-October *(explicit citation)*
 - [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
-- [[The Holy Ghost (Elder Robert D. Hales, April 2016)|The Holy Ghost]] — Elder Robert D. Hales, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

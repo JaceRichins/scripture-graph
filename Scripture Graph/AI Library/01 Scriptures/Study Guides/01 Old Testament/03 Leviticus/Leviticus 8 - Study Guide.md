@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 8
 slug: lev-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ These observations contribute to [[Justification and Sanctification]], [[Sacrifi
 <!-- SG:BEGIN conference -->
 - [[Becoming Exemplary Latter-day Saints (President Russell M. Nelson, October 2018)|Becoming Exemplary Latter-day Saints]] — President Russell M. Nelson, 2018-October *(explicit citation)*
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
+- [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

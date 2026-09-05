@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 50
 slug: alma-50
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,8 +59,8 @@ Scripture: [[Alma 50]] · My notes: [[Alma 50 - My Notes]]
 - [[Ether 2]] — 3 parallel verses, e.g. [[Alma 50#^alma-50-20|Alma 50:20]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
 - [[Alma 30]] — 3 parallel verses, e.g. [[Alma 50#^alma-50-25|Alma 50:25]] ↔ [[Alma 30#^alma-30-5|Alma 30:5]]
 - [[Helaman 3]] — 3 parallel verses, e.g. [[Alma 50#^alma-50-1|Alma 50:1]] ↔ [[Helaman 3#^hel-3-31|Helaman 3:31]]
-- [[Alma 62]] — 3 parallel verses, e.g. [[Alma 50#^alma-50-7|Alma 50:7]] ↔ [[Alma 62#^alma-62-22|Alma 62:22]]
 - [[Alma 57]] — 2 parallel verses, e.g. [[Alma 50#^alma-50-25|Alma 50:25]] ↔ [[Alma 57#^alma-57-6|Alma 57:6]]
+- [[Alma 62]] — 3 parallel verses, e.g. [[Alma 50#^alma-50-7|Alma 50:7]] ↔ [[Alma 62#^alma-62-22|Alma 62:22]]
 - [[Alma 48]] — 3 parallel verses, e.g. [[Alma 50#^alma-50-1|Alma 50:1]] ↔ [[Alma 48#^alma-48-9|Alma 48:9]]
 - [[1 Nephi 4]] — 2 parallel verses, e.g. [[Alma 50#^alma-50-20|Alma 50:20]] ↔ [[1 Nephi 4#^1ne-4-14|1 Nephi 4:14]]
 - [[Judges 18]] — 2 parallel verses, e.g. [[Alma 50#^alma-50-13|Alma 50:13]] ↔ [[Judges 18#^judg-18-29|Judges 18:29]]
@@ -74,8 +74,8 @@ Scripture: [[Alma 50]] · My notes: [[Alma 50 - My Notes]]
 - [[Records and Sacred Writings]]
 - [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

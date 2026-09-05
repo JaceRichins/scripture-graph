@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 130
 slug: dc-130
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -70,14 +70,14 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Gift of the Holy Ghost]]
-- [[The Godhead]]
+- [[Education and Learning]]
 - [[Obedience]]
+- [[The Godhead]]
 - [[Prophecy]]
-- [[Angels]] *(keyword match — unconfirmed)*
 - [[Book of Mormon (Gospel Topic)]] *(keyword match — unconfirmed)*
 - [[Second Coming of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

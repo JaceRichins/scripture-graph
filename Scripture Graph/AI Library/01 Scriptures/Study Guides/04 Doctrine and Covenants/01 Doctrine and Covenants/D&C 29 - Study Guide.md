@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 29
 slug: dc-29
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,8 +73,8 @@ The chapter can be outlined as follows:
 - [[Final Judgment]]
 - [[Signs of the Times]]
 - [[Satan and Temptation]] *(keyword match — unconfirmed)*
-- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 12
 slug: 2sam-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ David's own explanation of his fasting (vv. 22-23) presents [[Fasting]] and [[Pr
 - **Plural Marriage** (reference-entry) *(explicit citation)*
 - **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
+- **David** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

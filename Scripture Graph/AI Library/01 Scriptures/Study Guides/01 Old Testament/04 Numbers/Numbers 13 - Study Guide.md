@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 13
 slug: num-13
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **History of the Church, Volume 1** (history, 1902-1912) *(explicit citation)*
+- **Caleb** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

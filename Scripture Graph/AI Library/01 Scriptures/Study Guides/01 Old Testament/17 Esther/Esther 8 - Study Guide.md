@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 8
 slug: esth-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,7 +69,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Camel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

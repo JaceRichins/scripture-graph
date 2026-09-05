@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 110
 slug: dc-110
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ _Not yet developed._
 - [[D&C 138]] — 2 footnote cross-references (from [[D&C 110#^dc-110-1|D&C 110:1]])
 - [[D&C 45]] — 2 footnote cross-references (from [[D&C 110#^dc-110-4|D&C 110:4]])
 - [[D&C 138]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-15|D&C 110:15]] ↔ [[D&C 138#^dc-138-48|D&C 138:48]]
-- [[D&C 128]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
 - [[Malachi 4]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[Malachi 4#^mal-4-5|Malachi 4:5]]
+- [[D&C 128]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
 - [[3 Nephi 25]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[3 Nephi 25#^3ne-25-5|3 Nephi 25:5]]
 - [[D&C 104]] — 3 parallel verses, e.g. [[D&C 110#^dc-110-10|D&C 110:10]] ↔ [[D&C 104#^dc-104-32|D&C 104:32]]
 - [[D&C 2]] — 2 parallel verses, e.g. [[D&C 110#^dc-110-14|D&C 110:14]] ↔ [[D&C 2#^dc-2-1|D&C 2:1]]

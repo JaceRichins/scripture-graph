@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 20
 slug: acts-20
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -65,10 +65,10 @@ Scripture: [[Acts 20]] · My notes: [[Acts 20 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[Work and Self-Reliance]]
 - [[Prophecy]]
 - [[Endurance]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -97,6 +97,7 @@ Paul also makes self-supporting labor and care for the weak part of faithful [[S
 <!-- SG:BEGIN history -->
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*

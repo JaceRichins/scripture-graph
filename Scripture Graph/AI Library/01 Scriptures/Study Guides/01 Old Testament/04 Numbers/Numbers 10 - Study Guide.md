@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 10
 slug: num-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
+- **Cloud** (reference-entry) *(explicit citation)*
+- **Commandments, the Ten** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 12
 slug: 2cor-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ _Not yet developed._
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Paradise** (reference-entry) *(explicit citation)*
+- **Degrees of glory** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

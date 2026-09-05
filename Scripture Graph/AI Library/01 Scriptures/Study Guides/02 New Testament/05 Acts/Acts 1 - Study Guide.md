@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 1
 slug: acts-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,12 +58,13 @@ Acts 1:8's geography (Jerusalem, Judæa, Samaria, uttermost part of the earth) f
 - [[D&C 95]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-4|Acts 1:4]])
 - [[Daniel 2]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-7|Acts 1:7]])
 - [[D&C 68]] — 1 footnote cross-reference (from [[Acts 1#^acts-1-7|Acts 1:7]])
-- [[Acts 11]] — 0 parallel verses
+- [[Acts 11]] — 1 parallel verse, e.g. [[Acts 1#^acts-1-5|Acts 1:5]] ↔ [[Acts 11#^acts-11-16|Acts 11:16]]
 - [[Luke 1]] — 0 parallel verses
 - [[Luke 24]] — 0 parallel verses
 - [[Acts 8]] — 0 parallel verses
 - [[Matthew 27]] — 0 parallel verses
 - [[3 Nephi 18]] — 0 parallel verses
+- [[Acts 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

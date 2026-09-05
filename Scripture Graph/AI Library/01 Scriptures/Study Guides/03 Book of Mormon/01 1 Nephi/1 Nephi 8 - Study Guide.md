@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 8
 slug: 1ne-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ Lehi's treatment of Laman and Lemuel is especially important. Although the visio
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[In Tune with the Music of Faith (Elder Quentin L. Cook, April 2012)|In Tune with the Music of Faith]] — Elder Quentin L. Cook, 2012-April *(explicit citation)*
+- [[Never Leave Him (Elder Neil L. Andersen, October 2010)|Never Leave Him]] — Elder Neil L. Andersen, 2010-October *(explicit citation)*
 - [[But We Heeded Them Not (Elder David A. Bednar, April 2022)|But We Heeded Them Not]] — Elder David A. Bednar, 2022-April *(explicit citation)*
 - [[Stand Up Inside and Be All In (Elder Gary B. Sabin, April 2017)|Stand Up Inside and Be All In]] — Elder Gary B. Sabin, 2017-April *(explicit citation)*
 - [[Be Faithful, Not Faithless (Stephen W. Owen, October 2019)|Be Faithful, Not Faithless]] — Stephen W. Owen, 2019-October *(explicit citation)*
@@ -91,8 +92,7 @@ Lehi's treatment of Laman and Lemuel is especially important. Although the visio
 - [[Come unto Christ—Living as Latter-day Saints (Elder John A. McCune, April 2020)|Come unto Christ—Living as Latter-day Saints]] — Elder John A. McCune, 2020-April *(explicit citation)*
 - [[“Abide in Me, and I in You; Therefore Walk with Me” (Elder David A. Bednar, April 2023)|“Abide in Me, and I in You; Therefore Walk with Me”]] — Elder David A. Bednar, 2023-April *(explicit citation)*
 - [[Continually Holding Fast (Elder Kevin S. Hamilton, October 2013)|Continually Holding Fast]] — Elder Kevin S. Hamilton, 2013-October *(explicit citation)*
-- [[Stay by the Tree (Elder Kevin W. Pearson, April 2015)|Stay by the Tree]] — Elder Kevin W. Pearson, 2015-April *(explicit citation)*
-- [[A Pattern for Peace (Bishop W. Christopher Waddell, April 2016)|A Pattern for Peace]] — Bishop W. Christopher Waddell, 2016-April *(explicit citation)*
+- [[May You Have Courage (President Thomas S. Monson, April 2009)|May You Have Courage]] — President Thomas S. Monson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -101,6 +101,7 @@ Lehi's treatment of Laman and Lemuel is especially important. Although the visio
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **Daniel, book of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

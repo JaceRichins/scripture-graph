@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 22
 slug: 2sam-22
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -75,7 +75,7 @@ The chapter's dominant thread is God as refuge and deliverer (vv.2-3; see [[Salv
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **David** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

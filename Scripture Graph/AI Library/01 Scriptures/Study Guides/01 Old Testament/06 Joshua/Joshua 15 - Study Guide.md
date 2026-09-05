@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 15
 slug: josh-15
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,9 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Ashdod or Azotus** (reference-entry) *(explicit citation)*
+- **Beth-shemesh** (reference-entry) *(explicit citation)*
+- **Caleb** (reference-entry) *(explicit citation)*
+- **Carmel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

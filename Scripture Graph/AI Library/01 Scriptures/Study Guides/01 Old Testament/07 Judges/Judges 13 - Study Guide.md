@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 13
 slug: judg-13
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -87,7 +87,7 @@ The promise that Samson will only "begin" Israel's deliverance (13:5) sets a res
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Dan** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 40
 slug: gen-40
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -65,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Daniel, book of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

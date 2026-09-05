@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 16
 slug: deut-16
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,8 +58,8 @@ _Not yet developed._
 - [[Deuteronomy 14]] — 10 parallel verses, e.g. [[Deuteronomy 16#^deut-16-16|Deuteronomy 16:16]] ↔ [[Deuteronomy 14#^deut-14-23|Deuteronomy 14:23]]
 - [[Deuteronomy 17]] — 5 parallel verses, e.g. [[Deuteronomy 16#^deut-16-5|Deuteronomy 16:5]] ↔ [[Deuteronomy 17#^deut-17-2|Deuteronomy 17:2]]
 - [[Deuteronomy 26]] — 5 parallel verses, e.g. [[Deuteronomy 16#^deut-16-6|Deuteronomy 16:6]] ↔ [[Deuteronomy 26#^deut-26-2|Deuteronomy 26:2]]
-- [[Deuteronomy 24]] — 2 parallel verses, e.g. [[Deuteronomy 16#^deut-16-12|Deuteronomy 16:12]] ↔ [[Deuteronomy 24#^deut-24-18|Deuteronomy 24:18]]
 - [[Deuteronomy 31]] — 2 parallel verses, e.g. [[Deuteronomy 16#^deut-16-16|Deuteronomy 16:16]] ↔ [[Deuteronomy 31#^deut-31-11|Deuteronomy 31:11]]
+- [[Deuteronomy 24]] — 2 parallel verses, e.g. [[Deuteronomy 16#^deut-16-12|Deuteronomy 16:12]] ↔ [[Deuteronomy 24#^deut-24-18|Deuteronomy 24:18]]
 - [[2 Chronicles 8]] — 1 parallel verse, e.g. [[Deuteronomy 16#^deut-16-16|Deuteronomy 16:16]] ↔ [[2 Chronicles 8#^2chr-8-13|2 Chronicles 8:13]]
 - [[Deuteronomy 18]] — 3 parallel verses, e.g. [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]] ↔ [[Deuteronomy 18#^deut-18-9|Deuteronomy 18:9]]
 - [[Deuteronomy 19]] — 3 parallel verses, e.g. [[Deuteronomy 16#^deut-16-20|Deuteronomy 16:20]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
@@ -91,7 +91,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Calendar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

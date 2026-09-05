@@ -128,7 +128,7 @@ cssclasses:
 > [[John 17#^john-17-12|John 17:12]]
 
 ![[D&C 50#^dc-50-43]]
-> [[John 14#^john-14-11|John 14:11]] · [[John 14#^john-14-10|≈ John 14:10]] · [[John 14#^john-14-11|≈ John 14:11]] · [[D&C 93#^dc-93-3|≈ D&C 93:3]] · [[3 Nephi 28#^3ne-28-10|≈ 3 Nephi 28:10]] · [[3 Nephi 9#^3ne-9-15|≈ 3 Nephi 9:15]] · [[3 Nephi 11#^3ne-11-27|≈ 3 Nephi 11:27]]
+> [[John 14#^john-14-11|John 14:11]] · [[John 14#^john-14-10|≈ John 14:10]] · [[John 14#^john-14-11|≈ John 14:11]] · [[D&C 93#^dc-93-3|≈ D&C 93:3]] · [[3 Nephi 9#^3ne-9-15|≈ 3 Nephi 9:15]] · [[3 Nephi 11#^3ne-11-27|≈ 3 Nephi 11:27]] · [[3 Nephi 28#^3ne-28-10|≈ 3 Nephi 28:10]]
 
 ![[D&C 50#^dc-50-44]]
 > [[Ezra 3#^ezra-3-11|Ezra 3:11]] · [[Alma 5#^alma-5-40|Alma 5:40]] · [[Genesis 49#^gen-49-24|Gen. 49:24]] · [[1 Peter 2#^1pet-2-4|1 Pet. 2:4 (4–8)]] · [[2 Peter 1#^2pet-1-10|2 Pet. 1:10]] · [[Helaman 5#^hel-5-12|Hel. 5:12]]

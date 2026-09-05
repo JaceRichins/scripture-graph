@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 36
 slug: ezek-36
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,12 +80,14 @@ _Not yet developed._
 - [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
 - [[Jesus Christ and Your New Beginning (Elder Patrick Kearon, October 2025)|Jesus Christ and Your New Beginning]] — Elder Patrick Kearon, 2025-October *(explicit citation)*
 - [[You Can Do It Now! (President Dieter F. Uchtdorf, October 2013)|You Can Do It Now!]] — President Dieter F. Uchtdorf, 2013-October *(explicit citation)*
+- [[Preserving the Heart’s Mighty Change (Elder Dale G. Renlund, October 2009)|Preserving the Heart’s Mighty Change]] — Elder Dale G. Renlund, 2009-October *(explicit citation)*
 - [[Take Up Our Cross (Elder Ulisses Soares, October 2019)|Take Up Our Cross]] — Elder Ulisses Soares, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1841-11-15 (Vol. 3 No. 2)** (periodical, 1841-11-15) *(explicit citation)*
+- **Captivities of the Israelites** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

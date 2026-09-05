@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 61
 slug: isa-61
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Anointed One** (reference-entry) *(explicit citation)*
+- **Blindness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

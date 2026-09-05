@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 12
 slug: ezek-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—Matthew
 chapter: 1
 slug: jsm-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ Verse 31 connects [[Missionary Work]] with the end: the gospel is to be preached
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
+- [[Safety for the Soul (Elder Jeffrey R. Holland, October 2009)|Safety for the Soul]] — Elder Jeffrey R. Holland, 2009-October *(explicit citation)*
 - [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
 - [[Rise Up in Strength, Sisters in Zion (Bonnie L. Oscarson, October 2016)|Rise Up in Strength, Sisters in Zion]] — Bonnie L. Oscarson, 2016-October *(explicit citation)*
 - [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
@@ -104,7 +105,6 @@ Verse 31 connects [[Missionary Work]] with the end: the gospel is to be preached
 - [[Wholehearted (Sister Michelle D. Craig, October 2022)|Wholehearted]] — Sister Michelle D. Craig, 2022-October *(explicit citation)*
 - [[Overcome the World and Find Rest (President Russell M. Nelson, October 2022)|Overcome the World and Find Rest]] — President Russell M. Nelson, 2022-October *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
-- [[Nourish the Roots, and the Branches Will Grow (Elder Dieter F. Uchtdorf, October 2024)|Nourish the Roots, and the Branches Will Grow]] — Elder Dieter F. Uchtdorf, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

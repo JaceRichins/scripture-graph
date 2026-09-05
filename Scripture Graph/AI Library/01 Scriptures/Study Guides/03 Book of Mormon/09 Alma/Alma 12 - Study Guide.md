@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 12
 slug: alma-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,9 @@ Scripture: [[Alma 12]] · My notes: [[Alma 12 - My Notes]]
 - [[Moses 5]] — 5 footnote cross-references (from [[Alma 12#^alma-12-24|Alma 12:24]])
 - [[Genesis 2]] — 4 footnote cross-references (from [[Alma 12#^alma-12-23|Alma 12:23]])
 - [[2 Nephi 28]] — 3 footnote cross-references (from [[Alma 12#^alma-12-10|Alma 12:10]])
+- [[Alma 5]] — 6 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
+- [[Alma 42]] — 6 parallel verses, e.g. [[Alma 12#^alma-12-26|Alma 12:26]] ↔ [[Alma 42#^alma-42-5|Alma 42:5]]
+- [[Alma 11]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-8|Alma 12:8]] ↔ [[Alma 11#^alma-11-41|Alma 11:41]]
 - [[Moses 4]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[Moses 4#^moses-4-31|Moses 4:31]]
 - [[2 Nephi 9]] — 1 parallel verse, e.g. [[Alma 12#^alma-12-17|Alma 12:17]] ↔ [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]]
 - [[Alma 40]] — 3 parallel verses, e.g. [[Alma 12#^alma-12-25|Alma 12:25]] ↔ [[Alma 40#^alma-40-3|Alma 40:3]]
@@ -63,9 +66,6 @@ Scripture: [[Alma 12]] · My notes: [[Alma 12 - My Notes]]
 - [[Mosiah 4]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-1|Alma 12:1]] ↔ [[Mosiah 4#^mosiah-4-4|Mosiah 4:4]]
 - [[Moroni 7]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-18|Alma 12:18]] ↔ [[Moroni 7#^moro-7-38|Moroni 7:38]]
 - [[1 Nephi 8]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-21|Alma 12:21]] ↔ [[1 Nephi 8#^1ne-8-24|1 Nephi 8:24]]
-- [[Alma 22]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-25|Alma 12:25]] ↔ [[Alma 22#^alma-22-13|Alma 22:13]]
-- [[Alma 60]] — 2 parallel verses, e.g. [[Alma 12#^alma-12-5|Alma 12:5]] ↔ [[Alma 60#^alma-60-23|Alma 60:23]]
-- [[Mosiah 3]] — 1 parallel verse, e.g. [[Alma 12#^alma-12-17|Alma 12:17]] ↔ [[Mosiah 3#^mosiah-3-27|Mosiah 3:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -106,11 +106,11 @@ Alma's discourse makes three central doctrinal contributions. First, revelation 
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Death** (reference-entry) *(explicit citation)*
 - **Mortality** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
-- **Death, Spiritual** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

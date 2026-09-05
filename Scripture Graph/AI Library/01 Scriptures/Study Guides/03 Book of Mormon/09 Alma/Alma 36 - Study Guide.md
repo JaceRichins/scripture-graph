@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 36
 slug: alma-36
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ The outer correspondences are especially clear: verses 1 and 30 repeat the prosp
 - [[Alma 29]] — 2 footnote cross-references (from [[Alma 36#^alma-36-2|Alma 36:2]])
 - [[Alma 5]] — 2 footnote cross-references (from [[Alma 36#^alma-36-4|Alma 36:4]])
 - [[Alma 26]] — 2 footnote cross-references (from [[Alma 36#^alma-36-5|Alma 36:5]])
+- [[Alma 38]] — 5 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
 - [[1 Nephi 1]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-22|Alma 36:22]] ↔ [[1 Nephi 1#^1ne-1-8|1 Nephi 1:8]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[2 Nephi 4]] — 2 parallel verses, e.g. [[Alma 36#^alma-36-30|Alma 36:30]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
@@ -69,11 +70,11 @@ The outer correspondences are especially clear: verses 1 and 30 repeat the prosp
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
 - [[Luke 20]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
-- [[Acts 7]] — 1 parallel verse, e.g. [[Alma 36#^alma-36-2|Alma 36:2]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Exodus and Deliverance]]
 - [[Repentance]]
 - [[Atonement of Jesus Christ]]
 - [[Conversion]]
@@ -81,7 +82,6 @@ The outer correspondences are especially clear: verses 1 and 30 repeat the prosp
 - [[Grace]]
 - [[Missionary Work]]
 - [[Obedience]]
-- [[Final Judgment]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 2
 slug: zech-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

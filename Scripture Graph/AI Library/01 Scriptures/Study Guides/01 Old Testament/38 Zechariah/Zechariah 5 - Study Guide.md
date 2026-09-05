@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 5
 slug: zech-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 35
 slug: isa-35
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Isaiah 34]] — 0 parallel verses
 - [[D&C 66]] — 0 parallel verses
 - [[D&C 81]] — 0 parallel verses
+- [[D&C 117]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,6 +70,9 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **13 The Gift Has Returned** (history) *(explicit citation)*
+- **Blindness** (reference-entry) *(explicit citation)*
+- **Carmel** (reference-entry) *(explicit citation)*
+- **Dragon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

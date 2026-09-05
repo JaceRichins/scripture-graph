@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 26
 slug: lev-26
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Reverence** (reference-entry) *(explicit citation)*
+- **Confession** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

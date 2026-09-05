@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 2
 slug: alma-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,7 +57,10 @@ Scripture: [[Alma 2]] · My notes: [[Alma 2 - My Notes]]
 - [[Alma 16]] — 2 footnote cross-references (from [[Alma 2#^alma-2-1|Alma 2:1]])
 - [[Alma 4]] — 2 footnote cross-references (from [[Alma 2#^alma-2-3|Alma 2:3]])
 - [[Omni 1]] — 2 footnote cross-references (from [[Alma 2#^alma-2-15|Alma 2:15]])
+- [[Helaman 1]] — 3 parallel verses, e.g. [[Alma 2#^alma-2-12|Alma 2:12]] ↔ [[Helaman 1#^hel-1-14|Helaman 1:14]]
+- [[Alma 43]] — 4 parallel verses, e.g. [[Alma 2#^alma-2-34|Alma 2:34]] ↔ [[Alma 43#^alma-43-27|Alma 43:27]]
 - [[Alma 45]] — 4 parallel verses, e.g. [[Alma 2#^alma-2-28|Alma 2:28]] ↔ [[Alma 45#^alma-45-1|Alma 45:1]]
+- [[Alma 51]] — 3 parallel verses, e.g. [[Alma 2#^alma-2-7|Alma 2:7]] ↔ [[Alma 51#^alma-51-7|Alma 51:7]]
 - [[Alma 60]] — 2 parallel verses, e.g. [[Alma 2#^alma-2-12|Alma 2:12]] ↔ [[Alma 60#^alma-60-2|Alma 60:2]]
 - [[Mosiah 9]] — 1 parallel verse, e.g. [[Alma 2#^alma-2-12|Alma 2:12]] ↔ [[Mosiah 9#^mosiah-9-16|Mosiah 9:16]]
 - [[Mosiah 10]] — 1 parallel verse, e.g. [[Alma 2#^alma-2-12|Alma 2:12]] ↔ [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]]
@@ -66,15 +69,12 @@ Scripture: [[Alma 2]] · My notes: [[Alma 2 - My Notes]]
 - [[Alma 57]] — 2 parallel verses, e.g. [[Alma 2#^alma-2-23|Alma 2:23]] ↔ [[Alma 57#^alma-57-17|Alma 57:17]]
 - [[Alma 27]] — 2 parallel verses, e.g. [[Alma 2#^alma-2-7|Alma 2:7]] ↔ [[Alma 27#^alma-27-22|Alma 27:22]]
 - [[Alma 6]] — 1 parallel verse, e.g. [[Alma 2#^alma-2-20|Alma 2:20]] ↔ [[Alma 6#^alma-6-7|Alma 6:7]]
-- [[Ether 15]] — 2 parallel verses, e.g. [[Alma 2#^alma-2-23|Alma 2:23]] ↔ [[Ether 15#^ether-15-17|Ether 15:17]]
-- [[Alma 62]] — 2 parallel verses, e.g. [[Alma 2#^alma-2-28|Alma 2:28]] ↔ [[Alma 62#^alma-62-50|Alma 62:50]]
-- [[Mormon 6]] — 2 parallel verses, e.g. [[Alma 2#^alma-2-12|Alma 2:12]] ↔ [[Mormon 6#^morm-6-9|Mormon 6:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

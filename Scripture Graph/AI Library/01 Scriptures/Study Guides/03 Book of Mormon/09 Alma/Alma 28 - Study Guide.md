@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 28
 slug: alma-28
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,15 +53,19 @@ Alma 28 closes the extended account of Ammon and his brethren ([[Alma 27]]–27)
 - [[3 Nephi 12]] — 1 footnote cross-reference (from [[Alma 28#^alma-28-6|Alma 28:6]])
 - [[Alma 17]] — 1 footnote cross-reference (from [[Alma 28#^alma-28-8|Alma 28:8]])
 - [[Alma 1]] — 1 footnote cross-reference (from [[Alma 28#^alma-28-10|Alma 28:10]])
+- [[Alma 30]] — 2 parallel verses, e.g. [[Alma 28#^alma-28-1|Alma 28:1]] ↔ [[Alma 30#^alma-30-1|Alma 30:1]]
+- [[Helaman 11]] — 2 parallel verses, e.g. [[Alma 28#^alma-28-4|Alma 28:4]] ↔ [[Helaman 11#^hel-11-1|Helaman 11:1]]
+- [[Alma 43]] — 2 parallel verses, e.g. [[Alma 28#^alma-28-1|Alma 28:1]] ↔ [[Alma 43#^alma-43-15|Alma 43:15]]
+- [[Ether 11]] — 2 parallel verses, e.g. [[Alma 28#^alma-28-2|Alma 28:2]] ↔ [[Ether 11#^ether-11-7|Ether 11:7]]
 - [[Alma 47]] — 1 parallel verse, e.g. [[Alma 28#^alma-28-4|Alma 28:4]] ↔ [[Alma 47#^alma-47-35|Alma 47:35]]
 - [[Alma 35]] — 1 parallel verse, e.g. [[Alma 28#^alma-28-1|Alma 28:1]] ↔ [[Alma 35#^alma-35-13|Alma 35:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Death and the Spirit World]]
 - [[Satan and Temptation]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -82,6 +86,8 @@ Verse 14 answers this inequality with "the great call of diligence of men to lab
 - [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
 - [[The Virtue of the Word (Elder Mark D. Eddy, October 2022)|The Virtue of the Word]] — Elder Mark D. Eddy, 2022-October *(explicit citation)*
 - [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
+- [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
+- [[Things Pertaining to Righteousness (Elder Francisco J. Viñas, April 2010)|Things Pertaining to Righteousness]] — Elder Francisco J. Viñas, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

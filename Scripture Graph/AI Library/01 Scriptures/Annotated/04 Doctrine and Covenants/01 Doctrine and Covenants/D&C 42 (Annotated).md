@@ -17,7 +17,7 @@ cssclasses:
 > 1–10, The elders are called to preach the gospel, baptize converts, and build up the Church; 11–12, They must be called and ordained and are to teach the principles of the gospel found in the scriptures; 13–17, They are to teach and prophesy by the power of the Spirit; 18–29, The Saints are commanded not to kill, steal, lie, lust, commit adultery, or speak evil against others; 30–39, Laws governing the consecration of properties are set forth; 40–42, Pride and idleness are condemned; 43–52, The sick are to be healed through administrations and by faith; 53–60, The scriptures govern the Church and are to be proclaimed to the world; 61–69, The site of the New Jerusalem and the mysteries of the kingdom will be revealed; 70–73, Consecrated properties are to be used to support Church officers; 74–93, Laws governing fornication, adultery, killing, stealing, and confession of sins are set forth.
 
 ![[D&C 42#^dc-42-1]]
-> [[D&C 75#^dc-75-23|≈ D&C 75:23]] · [[D&C 55#^dc-55-2|≈ D&C 55:2]] · [[D&C 68#^dc-68-25|≈ D&C 68:25]] · [[D&C 61#^dc-61-2|≈ D&C 61:2]] · [[D&C 67#^dc-67-1|≈ D&C 67:1]] · [[D&C 41#^dc-41-2|≈ D&C 41:2]]
+> [[D&C 75#^dc-75-23|≈ D&C 75:23]] · [[D&C 55#^dc-55-2|≈ D&C 55:2]] · [[D&C 68#^dc-68-25|≈ D&C 68:25]] · [[D&C 61#^dc-61-2|≈ D&C 61:2]] · [[D&C 67#^dc-67-1|≈ D&C 67:1]] · [[3 Nephi 30#^3ne-30-1|≈ 3 Nephi 30:1]]
 
 ![[D&C 42#^dc-42-2]]
 > [[Jeremiah 26#^jer-26-4|Jer. 26:4]] · [[D&C 41#^dc-41-3|D&amp;C 41:3]] · [[D&C 43#^dc-43-2|43:2]] · [[D&C 58#^dc-58-23|58:23]]

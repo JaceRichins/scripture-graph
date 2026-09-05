@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 22
 slug: rev-22
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -54,9 +54,9 @@ _Not yet developed._
 - [[D&C 38]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[D&C 38#^dc-38-1|D&C 38:1]]
 - [[D&C 45]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[Revelation 19]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-9|Revelation 22:9]] ↔ [[Revelation 19#^rev-19-10|Revelation 19:10]]
-- [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
 - [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
-- [[Revelation 21]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[Revelation 21#^rev-21-6|Revelation 21:6]]
+- [[Alma 11]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[Alma 11#^alma-11-39|Alma 11:39]]
+- [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,14 +76,19 @@ _Not yet developed._
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 - [[The Love of God (Elder D. Todd Christofferson, October 2021)|The Love of God]] — Elder D. Todd Christofferson, 2021-October *(explicit citation)*
 - [[Seeing God’s Family through the Overview Lens (Sister Tamara W. Runia, October 2023)|Seeing God’s Family through the Overview Lens]] — Sister Tamara W. Runia, 2023-October *(explicit citation)*
+- [[Our Father’s Plan—Big Enough for All His Children (Elder Quentin L. Cook, April 2009)|Our Father’s Plan—Big Enough for All His Children]] — Elder Quentin L. Cook, 2009-April *(explicit citation)*
+- [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 - [[Conference Report, April 1916 (General Conference (full report), April 1916)|Conference Report, April 1916]] — General Conference (full report), 1916-April *(explicit citation)*
 - [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
+- [[Turn to the Lord (Elder Donald L. Hallstrom, April 2010)|Turn to the Lord]] — Elder Donald L. Hallstrom, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Are “Mormons” Christian?** (reference-entry) *(explicit citation)*
 - **Agency and Accountability** (reference-entry) *(explicit citation)*
+- **Book of life** (reference-entry) *(explicit citation)*
+- **Dog** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

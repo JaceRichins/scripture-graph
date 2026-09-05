@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 9
 slug: mark-9
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ _Not yet developed._
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Abuse** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

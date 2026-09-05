@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 19
 slug: alma-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Luke 7]] — 2 footnote cross-references (from [[Alma 19#^alma-19-10|Alma 19:10]])
 - [[Moses 6]] — 2 footnote cross-references (from [[Alma 19#^alma-19-24|Alma 19:24]])
 - [[D&C 3]] — 1 footnote cross-reference (from [[Alma 19#^alma-19-4|Alma 19:4]])
+- [[Mosiah 27]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-5|Alma 19:5]] ↔ [[Mosiah 27#^mosiah-27-23|Mosiah 27:23]]
 - [[Mosiah 26]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-25|Alma 19:25]] ↔ [[Mosiah 26#^mosiah-26-1|Mosiah 26:1]]
 - [[Alma 46]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-25|Alma 19:25]] ↔ [[Alma 46#^alma-46-39|Alma 46:39]]
 - [[Helaman 3]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-25|Alma 19:25]] ↔ [[Helaman 3#^hel-3-12|Helaman 3:12]]
@@ -57,8 +58,8 @@ _Not yet developed._
 - [[Ether 9]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-25|Alma 19:25]] ↔ [[Ether 9#^ether-9-32|Ether 9:32]]
 - [[Mosiah 4]] — 1 parallel verse, e.g. [[Alma 19#^alma-19-15|Alma 19:15]] ↔ [[Mosiah 4#^mosiah-4-1|Mosiah 4:1]]
 - [[Alma 47]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-15|Alma 19:15]] ↔ [[Alma 47#^alma-47-29|Alma 47:29]]
+- [[Alma 18]] — 1 parallel verse, e.g. [[Alma 19#^alma-19-5|Alma 19:5]] ↔ [[Alma 18#^alma-18-43|Alma 18:43]]
 - [[3 Nephi 6]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-25|Alma 19:25]] ↔ [[3 Nephi 6#^3ne-6-7|3 Nephi 6:7]]
-- [[Alma 18]] — 0 parallel verses
 - [[Alma 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -87,7 +88,7 @@ Lamoni's testimony centers salvation on the coming Redeemer and belief on his na
 - [[Lifted Up upon the Cross (Elder Jeffrey R. Holland, October 2022)|Lifted Up upon the Cross]] — Elder Jeffrey R. Holland, 2022-October *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[Love Her Mother (Elaine S. Dalton, October 2011)|Love Her Mother]] — Elaine S. Dalton, 2011-October *(explicit citation)*
-- [[Take the Holy Spirit as Your Guide (Elder Larry Y. Wilson, April 2018)|Take the Holy Spirit as Your Guide]] — Elder Larry Y. Wilson, 2018-April *(explicit citation)*
+- [[“Repent … That I May Heal You” (Elder Neil L. Andersen, October 2009)|“Repent … That I May Heal You”]] — Elder Neil L. Andersen, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

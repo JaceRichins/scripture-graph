@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 1
 slug: 2tim-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -91,7 +91,7 @@ Scripture: [[2 Timothy 1]] · My notes: [[2 Timothy 1 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

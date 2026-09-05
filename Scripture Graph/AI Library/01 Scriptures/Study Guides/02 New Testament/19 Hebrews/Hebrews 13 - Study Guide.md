@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 13
 slug: heb-13
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,10 @@ _Not yet developed._
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Adultery** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
+- **Blood** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
+- **Conversation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

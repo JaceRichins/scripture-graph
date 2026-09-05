@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 22
 slug: alma-22
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -62,18 +62,18 @@ Scripture: [[Alma 22]] · My notes: [[Alma 22 - My Notes]]
 - [[Acts 2]] — 2 footnote cross-references (from [[Alma 22#^alma-22-3|Alma 22:3]])
 - [[Alma 23]] — 2 footnote cross-references (from [[Alma 22#^alma-22-23|Alma 22:23]])
 - [[Helaman 3]] — 2 footnote cross-references (from [[Alma 22#^alma-22-27|Alma 22:27]])
+- [[Alma 18]] — 4 parallel verses, e.g. [[Alma 22#^alma-22-13|Alma 22:13]] ↔ [[Alma 18#^alma-18-39|Alma 18:39]]
 - [[Mosiah 4]] — 3 parallel verses, e.g. [[Alma 22#^alma-22-10|Alma 22:10]] ↔ [[Mosiah 4#^mosiah-4-9|Mosiah 4:9]]
 - [[Alma 30]] — 2 parallel verses, e.g. [[Alma 22#^alma-22-7|Alma 22:7]] ↔ [[Alma 30#^alma-30-37|Alma 30:37]]
 - [[Mosiah 7]] — 2 parallel verses, e.g. [[Alma 22#^alma-22-9|Alma 22:9]] ↔ [[Mosiah 7#^mosiah-7-20|Mosiah 7:20]]
 - [[Alma 12]] — 2 parallel verses, e.g. [[Alma 22#^alma-22-13|Alma 22:13]] ↔ [[Alma 12#^alma-12-25|Alma 12:25]]
 - [[Alma 12]] — 0 parallel verses
-- [[Alma 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Book of Mormon Geography]]
-- [[Government and Laws]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
@@ -92,11 +92,11 @@ Aaron's teaching makes the fall intelligible only in relation to the already-pre
 - [[Overcome the World and Find Rest (President Russell M. Nelson, October 2022)|Overcome the World and Find Rest]] — President Russell M. Nelson, 2022-October *(explicit citation)*
 - [[“There Can Be Nothing So Exquisite and Sweet as Was My Joy” (Elder Craig C. Christensen, April 2023)|“There Can Be Nothing So Exquisite and Sweet as Was My Joy”]] — Elder Craig C. Christensen, 2023-April *(explicit citation)*
 - [[“I Will Give Away All My Sins to Know Thee” (Elder Wan-Liang Wu, April 2026)|“I Will Give Away All My Sins to Know Thee”]] — Elder Wan-Liang Wu, 2026-April *(explicit citation)*
+- [[An Easiness and Willingness to Believe (Elder Michael T. Ringwood, October 2009)|An Easiness and Willingness to Believe]] — Elder Michael T. Ringwood, 2009-October *(explicit citation)*
 - [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
 - [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
 - [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
 - [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
-- [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

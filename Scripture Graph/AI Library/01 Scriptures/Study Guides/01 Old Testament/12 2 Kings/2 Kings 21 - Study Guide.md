@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 21
 slug: 2kgs-21
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -64,8 +64,8 @@ The prophetic oracle is the interpretive center of the chapter, tying disobedien
 - [[2 Kings 14]] — 12 parallel verses, e.g. [[2 Kings 21#^2kgs-21-17|2 Kings 21:17]] ↔ [[2 Kings 14#^2kgs-14-28|2 Kings 14:28]]
 - [[2 Kings 24]] — 12 parallel verses, e.g. [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]] ↔ [[2 Kings 24#^2kgs-24-5|2 Kings 24:5]]
 - [[2 Chronicles 36]] — 17 parallel verses, e.g. [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
-- [[1 Kings 16]] — 10 parallel verses, e.g. [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
 - [[1 Kings 15]] — 11 parallel verses, e.g. [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]] ↔ [[1 Kings 15#^1kgs-15-7|1 Kings 15:7]]
+- [[1 Kings 16]] — 10 parallel verses, e.g. [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]] ↔ [[1 Kings 16#^1kgs-16-14|1 Kings 16:14]]
 - [[2 Kings 13]] — 10 parallel verses, e.g. [[2 Kings 21#^2kgs-21-17|2 Kings 21:17]] ↔ [[2 Kings 13#^2kgs-13-8|2 Kings 13:8]]
 - [[1 Kings 22]] — 7 parallel verses, e.g. [[2 Kings 21#^2kgs-21-1|2 Kings 21:1]] ↔ [[1 Kings 22#^1kgs-22-42|1 Kings 22:42]]
 - [[1 Kings 14]] — 8 parallel verses, e.g. [[2 Kings 21#^2kgs-21-25|2 Kings 21:25]] ↔ [[1 Kings 14#^1kgs-14-29|1 Kings 14:29]]

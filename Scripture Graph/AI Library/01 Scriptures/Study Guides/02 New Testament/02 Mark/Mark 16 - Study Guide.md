@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 16
 slug: mark-16
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -94,10 +94,10 @@ _Not yet developed._
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
-- **Missionary Work** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 5
 slug: mark-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,9 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Burial** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Devil** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

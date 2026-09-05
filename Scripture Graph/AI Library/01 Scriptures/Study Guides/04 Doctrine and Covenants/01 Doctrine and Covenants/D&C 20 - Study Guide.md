@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 20
 slug: dc-20
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,8 +63,8 @@ _Not yet developed._
 - [[D&C 107]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-43|D&C 20:43]] ↔ [[D&C 107#^dc-107-67|D&C 107:67]]
 - [[D&C 76]] — 4 parallel verses, e.g. [[D&C 20#^dc-20-9|D&C 20:9]] ↔ [[D&C 76#^dc-76-14|D&C 76:14]]
 - [[2 Nephi 31]] — 3 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
-- [[Matthew 28]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[Matthew 28#^matt-28-19|Matthew 28:19]]
 - [[Moroni 3]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-60|D&C 20:60]] ↔ [[Moroni 3#^moro-3-4|Moroni 3:4]]
+- [[Matthew 28]] — 2 parallel verses, e.g. [[D&C 20#^dc-20-73|D&C 20:73]] ↔ [[Matthew 28#^matt-28-19|Matthew 28:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 11
 slug: jer-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **12 After Much Tribulation** (history) *(explicit citation)*
+- **Baal** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

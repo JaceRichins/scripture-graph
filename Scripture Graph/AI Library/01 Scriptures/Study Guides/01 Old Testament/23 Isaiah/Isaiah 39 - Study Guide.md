@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 39
 slug: isa-39
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

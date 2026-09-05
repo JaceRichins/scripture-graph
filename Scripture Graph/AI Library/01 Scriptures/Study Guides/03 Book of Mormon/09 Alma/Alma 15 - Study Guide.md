@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 15
 slug: alma-15
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ Scripture: [[Alma 15]] · My notes: [[Alma 15 - My Notes]]
 - [[Mark 2]] — 1 footnote cross-reference (from [[Alma 15#^alma-15-10|Alma 15:10]])
 - [[Acts 3]] — 1 footnote cross-reference (from [[Alma 15#^alma-15-11|Alma 15:11]])
 - [[Alma 4]] — 1 footnote cross-reference (from [[Alma 15#^alma-15-13|Alma 15:13]])
+- [[Alma 14]] — 4 parallel verses, e.g. [[Alma 15#^alma-15-15|Alma 15:15]] ↔ [[Alma 14#^alma-14-5|Alma 14:5]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Alma 15#^alma-15-15|Alma 15:15]] ↔ [[Alma 9#^alma-9-5|Alma 9:5]]
-- [[Alma 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

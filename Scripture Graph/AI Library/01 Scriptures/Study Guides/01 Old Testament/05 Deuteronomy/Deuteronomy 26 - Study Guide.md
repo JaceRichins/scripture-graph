@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 26
 slug: deut-26
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

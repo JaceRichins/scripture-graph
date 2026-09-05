@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 46
 slug: ps-46
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,8 @@ _Not yet developed._
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
 - [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
 - [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
+- [[Helping Others Recognize the Whisperings of the Spirit (Vicki F. Matsumori, October 2009)|Helping Others Recognize the Whisperings of the Spirit]] — Vicki F. Matsumori, 2009-October *(explicit citation)*
+- [[Of Things That Matter Most (President Dieter F. Uchtdorf, October 2010)|Of Things That Matter Most]] — President Dieter F. Uchtdorf, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

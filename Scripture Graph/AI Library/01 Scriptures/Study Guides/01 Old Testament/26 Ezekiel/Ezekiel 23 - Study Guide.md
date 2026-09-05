@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 23
 slug: ezek-23
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

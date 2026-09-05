@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 9
 slug: dan-9
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Darius** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

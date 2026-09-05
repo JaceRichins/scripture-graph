@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 46
 slug: ezek-46
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

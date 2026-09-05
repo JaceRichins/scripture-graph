@@ -88,10 +88,10 @@ cssclasses:
 > [[Matthew 24#^matt-24-26|≈ Matthew 24:26]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-26]]
-> [[Ezekiel 43#^ezek-43-1|Ezek. 43:2 (1–9)]] · [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]] · [[Matthew 24#^matt-24-39|≈ Matthew 24:39]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]] · [[Moses 7#^moses-7-65|≈ Moses 7:65]] · [[D&C 61#^dc-61-38|≈ D&C 61:38]]
+> [[Ezekiel 43#^ezek-43-1|Ezek. 43:2 (1–9)]] · [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]] · [[Matthew 24#^matt-24-39|≈ Matthew 24:39]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]] · [[Moses 7#^moses-7-65|≈ Moses 7:65]] · [[D&C 45#^dc-45-39|≈ D&C 45:39]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-27]]
-> [[Deuteronomy 28#^deut-28-26|Deut. 28:26]] · [[Psalm 74#^ps-74-1|Ps. 74:1 (1–2)]] · [[Matthew 24#^matt-24-28|Matt. 24:28]] · [[1 Nephi 19#^1ne-19-15|1 Ne. 19:16 (15–16)]] · [[D&C 35#^dc-35-25|D&amp;C 35:25]] · [[Matthew 24#^matt-24-28|≈ Matthew 24:28]] · [[Moses 7#^moses-7-62|≈ Moses 7:62]] · [[3 Nephi 5#^3ne-5-24|≈ 3 Nephi 5:24]] · [[3 Nephi 5#^3ne-5-26|≈ 3 Nephi 5:26]] · [[1 Nephi 22#^1ne-22-25|≈ 1 Nephi 22:25]]
+> [[Deuteronomy 28#^deut-28-26|Deut. 28:26]] · [[Psalm 74#^ps-74-1|Ps. 74:1 (1–2)]] · [[Matthew 24#^matt-24-28|Matt. 24:28]] · [[1 Nephi 19#^1ne-19-15|1 Ne. 19:16 (15–16)]] · [[D&C 35#^dc-35-25|D&amp;C 35:25]] · [[Matthew 24#^matt-24-28|≈ Matthew 24:28]] · [[Moses 7#^moses-7-62|≈ Moses 7:62]] · [[1 Nephi 22#^1ne-22-25|≈ 1 Nephi 22:25]] · [[D&C 45#^dc-45-46|≈ D&C 45:46]] · [[3 Nephi 5#^3ne-5-24|≈ 3 Nephi 5:24]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-28]]
 
@@ -108,7 +108,7 @@ cssclasses:
 > [[Matthew 24#^matt-24-15|≈ Matthew 24:15]] · [[Mark 13#^mark-13-14|≈ Mark 13:14]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-33]]
-> [[Joel 2#^joel-2-10|Joel 2:10]] · [[D&C 29#^dc-29-14|D&amp;C 29:14]] · [[Amos 5#^amos-5-18|Amos 5:18]] · [[Ezekiel 32#^ezek-32-7|Ezek. 32:7 (7–9)]] · [[Matthew 24#^matt-24-29|≈ Matthew 24:29]] · [[Mark 13#^mark-13-24|≈ Mark 13:24]] · [[Luke 21#^luke-21-26|≈ Luke 21:26]] · [[D&C 29#^dc-29-14|≈ D&C 29:14]] · [[3 Nephi 20#^3ne-20-22|≈ 3 Nephi 20:22]] · [[D&C 45#^dc-45-42|≈ D&C 45:42]]
+> [[Joel 2#^joel-2-10|Joel 2:10]] · [[D&C 29#^dc-29-14|D&amp;C 29:14]] · [[Amos 5#^amos-5-18|Amos 5:18]] · [[Ezekiel 32#^ezek-32-7|Ezek. 32:7 (7–9)]] · [[Matthew 24#^matt-24-29|≈ Matthew 24:29]] · [[Mark 13#^mark-13-24|≈ Mark 13:24]] · [[Luke 21#^luke-21-26|≈ Luke 21:26]] · [[3 Nephi 20#^3ne-20-22|≈ 3 Nephi 20:22]] · [[D&C 29#^dc-29-14|≈ D&C 29:14]] · [[D&C 45#^dc-45-42|≈ D&C 45:42]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-34]]
 > [[Matthew 24#^matt-24-34|Matt. 24:34]] · [[D&C 45#^dc-45-31|D&amp;C 45:31]] · [[D&C 45#^dc-45-23|≈ D&C 45:23]]
@@ -132,19 +132,19 @@ cssclasses:
 > [[D&C 39#^dc-39-20|D&amp;C 39:21 (20–22)]] · [[D&C 49#^dc-49-7|49:7]] · [[Matthew 24#^matt-24-36|≈ Matthew 24:36]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-41]]
-> [[Genesis 6#^gen-6-5|Gen. 6:5]] · [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]] · [[Matthew 24#^matt-24-39|≈ Matthew 24:39]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]] · [[Moses 7#^moses-7-65|≈ Moses 7:65]] · [[Luke 17#^luke-17-26|≈ Luke 17:26]]
+> [[Genesis 6#^gen-6-5|Gen. 6:5]] · [[Luke 17#^luke-17-26|≈ Luke 17:26]] · [[Luke 17#^luke-17-28|≈ Luke 17:28]] · [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]] · [[Matthew 24#^matt-24-39|≈ Matthew 24:39]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-42]]
 > [[Matthew 24#^matt-24-38|≈ Matthew 24:38]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-43]]
-> [[Matthew 24#^matt-24-39|≈ Matthew 24:39]] · [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]] · [[Moses 7#^moses-7-65|≈ Moses 7:65]] · [[D&C 61#^dc-61-38|≈ D&C 61:38]]
+> [[Matthew 24#^matt-24-39|≈ Matthew 24:39]] · [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]] · [[Moses 7#^moses-7-65|≈ Moses 7:65]] · [[D&C 45#^dc-45-39|≈ D&C 45:39]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-44]]
-> [[Zechariah 13#^zech-13-8|Zech. 13:8]] · [[Matthew 24#^matt-24-40|≈ Matthew 24:40]] · [[Matthew 24#^matt-24-41|≈ Matthew 24:41]] · [[Luke 17#^luke-17-36|≈ Luke 17:36]] · [[Luke 17#^luke-17-35|≈ Luke 17:35]] · [[Luke 17#^luke-17-34|≈ Luke 17:34]]
+> [[Zechariah 13#^zech-13-8|Zech. 13:8]] · [[Luke 17#^luke-17-36|≈ Luke 17:36]] · [[Luke 17#^luke-17-35|≈ Luke 17:35]] · [[Luke 17#^luke-17-34|≈ Luke 17:34]] · [[Matthew 24#^matt-24-40|≈ Matthew 24:40]] · [[Matthew 24#^matt-24-41|≈ Matthew 24:41]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-45]]
-> [[Matthew 24#^matt-24-41|≈ Matthew 24:41]] · [[Matthew 24#^matt-24-40|≈ Matthew 24:40]] · [[Luke 17#^luke-17-35|≈ Luke 17:35]] · [[Luke 17#^luke-17-36|≈ Luke 17:36]] · [[Luke 17#^luke-17-34|≈ Luke 17:34]]
+> [[Luke 17#^luke-17-35|≈ Luke 17:35]] · [[Luke 17#^luke-17-36|≈ Luke 17:36]] · [[Luke 17#^luke-17-34|≈ Luke 17:34]] · [[Matthew 24#^matt-24-41|≈ Matthew 24:41]] · [[Matthew 24#^matt-24-40|≈ Matthew 24:40]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-46]]
 > [[D&C 61#^dc-61-36|≈ D&C 61:36]] · [[D&C 61#^dc-61-18|≈ D&C 61:18]] · [[D&C 82#^dc-82-5|≈ D&C 82:5]] · [[D&C 92#^dc-92-1|≈ D&C 92:1]] · [[D&C 93#^dc-93-49|≈ D&C 93:49]]
@@ -174,4 +174,4 @@ cssclasses:
 > [[Matthew 8#^matt-8-12|Matt. 8:12]] · [[Matthew 24#^matt-24-51|≈ Matthew 24:51]] · [[Luke 13#^luke-13-28|≈ Luke 13:28]] · [[Matthew 25#^matt-25-30|≈ Matthew 25:30]]
 
 ![[Joseph Smith—Matthew 1#^jsm-1-55]]
-> [[Psalm 36#^ps-36-11|Ps. 36:11–12]] · [[Psalm 73#^ps-73-3|73:17 (3–17)]] · [[2 Nephi 30#^2ne-30-10|2 Ne. 30:10]] · [[D&C 1#^dc-1-9|D&amp;C 1:9 (9–10)]] · [[D&C 29#^dc-29-17|29:17]] · [[D&C 63#^dc-63-35|≈ D&C 63:35]] · [[1 Nephi 22#^1ne-22-20|≈ 1 Nephi 22:20]] · [[3 Nephi 20#^3ne-20-23|≈ 3 Nephi 20:23]] · [[D&C 133#^dc-133-63|≈ D&C 133:63]]
+> [[Psalm 36#^ps-36-11|Ps. 36:11–12]] · [[Psalm 73#^ps-73-3|73:17 (3–17)]] · [[2 Nephi 30#^2ne-30-10|2 Ne. 30:10]] · [[D&C 1#^dc-1-9|D&amp;C 1:9 (9–10)]] · [[D&C 29#^dc-29-17|29:17]] · [[1 Nephi 22#^1ne-22-20|≈ 1 Nephi 22:20]] · [[3 Nephi 20#^3ne-20-23|≈ 3 Nephi 20:23]] · [[D&C 133#^dc-133-63|≈ D&C 133:63]] · [[D&C 63#^dc-63-35|≈ D&C 63:35]]

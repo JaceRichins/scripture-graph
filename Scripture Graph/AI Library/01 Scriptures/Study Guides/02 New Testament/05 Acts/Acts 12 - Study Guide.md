@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 12
 slug: acts-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Caesarea** (reference-entry) *(explicit citation)*
+- **Easter** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

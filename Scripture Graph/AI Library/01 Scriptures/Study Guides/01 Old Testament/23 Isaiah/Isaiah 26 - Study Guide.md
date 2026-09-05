@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 26
 slug: isa-26
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **Dew** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -44,7 +44,7 @@ cssclasses:
 > [[Mosiah 27#^mosiah-27-11|Mosiah 27:14 (11–31)]]
 
 ![[Alma 29#^alma-29-11]]
-> [[Exodus 3#^ex-3-6|Ex. 3:6]] · [[Alma 36#^alma-36-2|Alma 36:2]] · [[Exodus 3#^ex-3-6|≈ Exodus 3:6]] · [[Exodus 3#^ex-3-15|≈ Exodus 3:15]] · [[Exodus 4#^ex-4-5|≈ Exodus 4:5]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]]
+> [[Exodus 3#^ex-3-6|Ex. 3:6]] · [[Alma 36#^alma-36-2|Alma 36:2]] · [[Exodus 3#^ex-3-6|≈ Exodus 3:6]] · [[Exodus 3#^ex-3-15|≈ Exodus 3:15]] · [[Alma 5#^alma-5-5|≈ Alma 5:5]] · [[Exodus 4#^ex-4-5|≈ Exodus 4:5]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]]
 
 ![[Alma 29#^alma-29-12]]
 > [[Micah 6#^micah-6-4|Micah 6:4]] · [[Alma 5#^alma-5-5|Alma 5:5 (5–6)]] · [[Alma 36#^alma-36-2|36:29 (2, 29)]]

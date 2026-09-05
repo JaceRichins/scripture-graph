@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 50
 slug: dc-50
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,8 +59,8 @@ _Not yet developed._
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]]
 - [[3 Nephi 19]] — 3 parallel verses, e.g. [[D&C 50#^dc-50-31|D&C 50:31]] ↔ [[3 Nephi 19#^3ne-19-6|3 Nephi 19:6]]
 - [[D&C 58]] — 1 parallel verse, e.g. [[D&C 50#^dc-50-1|D&C 50:1]] ↔ [[D&C 58#^dc-58-1|D&C 58:1]]
-- [[3 Nephi 28]] — 2 parallel verses, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[3 Nephi 28#^3ne-28-10|3 Nephi 28:10]]
 - [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
+- [[3 Nephi 28]] — 2 parallel verses, e.g. [[D&C 50#^dc-50-43|D&C 50:43]] ↔ [[3 Nephi 28#^3ne-28-10|3 Nephi 28:10]]
 - [[D&C 67]] — 2 parallel verses, e.g. [[D&C 50#^dc-50-45|D&C 50:45]] ↔ [[D&C 67#^dc-67-10|D&C 67:10]]
 - [[Mormon 9]] — 2 parallel verses, e.g. [[D&C 50#^dc-50-31|D&C 50:31]] ↔ [[Mormon 9#^morm-9-6|Mormon 9:6]]
 - [[D&C 43]] — 1 parallel verse, e.g. [[D&C 50#^dc-50-1|D&C 50:1]] ↔ [[D&C 43#^dc-43-1|D&C 43:1]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 1
 slug: heb-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1841-06-01 (Vol. 2 No. 15)** (periodical, 1841-06-01) *(explicit citation)*
 - **Times and Seasons 1841-09-01 (Vol. 2 No. 21)** (periodical, 1841-09-01) *(explicit citation)*

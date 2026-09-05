@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 134
 slug: dc-134
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -60,7 +60,7 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Government and Laws]]
-- [[Freedom and Liberty]]
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Light of Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 2
 slug: 1thes-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[2 Corinthians 7]] — 1 footnote cross-reference (from [[1 Thessalonians 2#^1thes-2-3|1 Thessalonians 2:3]])
 - [[1 Thessalonians 4]] — 0 parallel verses
 - [[1 Corinthians 9]] — 0 parallel verses
+- [[Acts 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

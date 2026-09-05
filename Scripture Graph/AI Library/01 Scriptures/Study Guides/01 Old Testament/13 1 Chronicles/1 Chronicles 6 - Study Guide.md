@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 6
 slug: 1chr-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Asher** (reference-entry) *(explicit citation)*
+- **Beth-shemesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

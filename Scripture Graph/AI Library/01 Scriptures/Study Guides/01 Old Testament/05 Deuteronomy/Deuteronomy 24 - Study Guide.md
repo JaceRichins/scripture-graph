@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 24
 slug: deut-24
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Agriculture** (reference-entry) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
+- **Deuteronomy** (reference-entry) *(explicit citation)*
+- **Divorce** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

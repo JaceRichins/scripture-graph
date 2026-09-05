@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 7
 slug: num-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,8 @@ _Not yet developed._
 - [[Leviticus 14]] — 12 parallel verses, e.g. [[Numbers 7#^num-7-13|Numbers 7:13]] ↔ [[Leviticus 14#^lev-14-21|Leviticus 14:21]]
 - [[Numbers 15]] — 12 parallel verses, e.g. [[Numbers 7#^num-7-16|Numbers 7:16]] ↔ [[Numbers 15#^num-15-24|Numbers 15:24]]
 - [[Leviticus 12]] — 12 parallel verses, e.g. [[Numbers 7#^num-7-15|Numbers 7:15]] ↔ [[Leviticus 12#^lev-12-6|Leviticus 12:6]]
-- [[Leviticus 9]] — 12 parallel verses, e.g. [[Numbers 7#^num-7-16|Numbers 7:16]] ↔ [[Leviticus 9#^lev-9-3|Leviticus 9:3]]
 - [[Leviticus 5]] — 12 parallel verses, e.g. [[Numbers 7#^num-7-16|Numbers 7:16]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
+- [[Leviticus 9]] — 12 parallel verses, e.g. [[Numbers 7#^num-7-16|Numbers 7:16]] ↔ [[Leviticus 9#^lev-9-3|Leviticus 9:3]]
 - [[Numbers 18]] — 15 parallel verses, e.g. [[Numbers 7#^num-7-5|Numbers 7:5]] ↔ [[Numbers 18#^num-18-23|Numbers 18:23]]
 - [[Numbers 3]] — 15 parallel verses, e.g. [[Numbers 7#^num-7-5|Numbers 7:5]] ↔ [[Numbers 3#^num-3-8|Numbers 3:8]]
 - [[Exodus 30]] — 13 parallel verses, e.g. [[Numbers 7#^num-7-85|Numbers 7:85]] ↔ [[Exodus 30#^ex-30-24|Exodus 30:24]]

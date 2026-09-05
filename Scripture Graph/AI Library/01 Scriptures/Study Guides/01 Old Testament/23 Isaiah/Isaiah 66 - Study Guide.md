@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 66
 slug: isa-66
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

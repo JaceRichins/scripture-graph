@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 29
 slug: ps-29
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

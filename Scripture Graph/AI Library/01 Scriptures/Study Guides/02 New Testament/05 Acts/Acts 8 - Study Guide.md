@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 8
 slug: acts-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,11 +63,11 @@ The geographical movement into Judaea and Samaria closely advances the mission p
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Apostles]]
 - [[Scripture Study]]
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Prayer]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -86,6 +86,7 @@ Philip's encounter with the Ethiopian joins [[Scripture Study]] with [[Jesus Chr
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 - [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
 - [[Waiting on the Road to Damascus (President Dieter F. Uchtdorf, April 2011)|Waiting on the Road to Damascus]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
+- [[His Servants, the Prophets (Elder F. Michael Watson, April 2009)|His Servants, the Prophets]] — Elder F. Michael Watson, 2009-April *(explicit citation)*
 - [[Conference Report, April 1926 (General Conference (full report), April 1926)|Conference Report, April 1926]] — General Conference (full report), 1926-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -93,11 +94,14 @@ Philip's encounter with the Ethiopian joins [[Scripture Study]] with [[Jesus Chr
 <!-- SG:BEGIN history -->
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-09-01 (Vol. 1 No. 12)** (periodical, 1835-09-01) *(explicit citation)*
+- **Caesarea** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

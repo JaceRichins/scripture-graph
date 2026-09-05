@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 103
 slug: dc-103
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -61,8 +61,8 @@ _Not yet developed._
 - [[D&C 101]] — 4 parallel verses, e.g. [[D&C 103#^dc-103-12|D&C 103:12]] ↔ [[D&C 101#^dc-101-68|D&C 101:68]]
 - [[D&C 90]] — 4 parallel verses, e.g. [[D&C 103#^dc-103-30|D&C 103:30]] ↔ [[D&C 90#^dc-90-28|D&C 90:28]]
 - [[D&C 124]] — 3 parallel verses, e.g. [[D&C 103#^dc-103-30|D&C 103:30]] ↔ [[D&C 124#^dc-124-18|D&C 124:18]]
-- [[Matthew 5]] — 1 parallel verse, e.g. [[D&C 103#^dc-103-10|D&C 103:10]] ↔ [[Matthew 5#^matt-5-13|Matthew 5:13]]
 - [[D&C 104]] — 2 parallel verses, e.g. [[D&C 103#^dc-103-34|D&C 103:34]] ↔ [[D&C 104#^dc-104-11|D&C 104:11]]
+- [[Matthew 5]] — 1 parallel verse, e.g. [[D&C 103#^dc-103-10|D&C 103:10]] ↔ [[Matthew 5#^matt-5-13|Matthew 5:13]]
 - [[Exodus 20]] — 1 parallel verse, e.g. [[D&C 103#^dc-103-26|D&C 103:26]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
 - [[Deuteronomy 5]] — 1 parallel verse, e.g. [[D&C 103#^dc-103-26|D&C 103:26]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
 - [[3 Nephi 12]] — 1 parallel verse, e.g. [[D&C 103#^dc-103-10|D&C 103:10]] ↔ [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 3
 slug: 1jn-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,8 +63,8 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Sin]] *(keyword match — unconfirmed)*
-- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -95,6 +95,7 @@ Verse 23 joins belief in Jesus Christ with love for one another under one comman
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Conscience** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
@@ -103,6 +104,7 @@ Verse 23 joins belief in Jesus Christ with love for one another under one comman
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Atonement** (reference-entry) *(explicit citation)*
+- **Cain** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 5
 slug: isa-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -74,7 +74,7 @@ _Not yet developed._
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 - [[Jesus Christ Is the Strength of Youth (Elder Dieter F. Uchtdorf, October 2022)|Jesus Christ Is the Strength of Youth]] — Elder Dieter F. Uchtdorf, 2022-October *(explicit citation)*
 - [[Let Your Faith Show (Elder Russell M. Nelson, April 2014)|Let Your Faith Show]] — Elder Russell M. Nelson, 2014-April *(explicit citation)*
-- [[That the Lost May Be Found (Elder M. Russell Ballard, April 2012)|That the Lost May Be Found]] — Elder M. Russell Ballard, 2012-April *(explicit citation)*
+- [[May You Have Courage (President Thomas S. Monson, April 2009)|May You Have Courage]] — President Thomas S. Monson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 19
 slug: gen-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,8 +53,8 @@ Scripture: [[Genesis 19]] · My notes: [[Genesis 19 - My Notes]]
 - [[D&C 133]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-14|Genesis 19:14]])
 - [[Revelation 18]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-14|Genesis 19:14]])
 - [[2 Peter 2]] — 2 footnote cross-references (from [[Genesis 19#^gen-19-15|Genesis 19:15]])
-- [[Genesis 38]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[Genesis 38#^gen-38-5|Genesis 38:5]]
 - [[Genesis 4]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[Genesis 4#^gen-4-25|Genesis 4:25]]
+- [[Genesis 38]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[Genesis 38#^gen-38-5|Genesis 38:5]]
 - [[Judges 13]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[Judges 13#^judg-13-24|Judges 13:24]]
 - [[1 Samuel 1]] — 2 parallel verses, e.g. [[Genesis 19#^gen-19-37|Genesis 19:37]] ↔ [[1 Samuel 1#^1sam-1-20|1 Samuel 1:20]]
 - [[Judges 9]] — 1 parallel verse, e.g. [[Genesis 19#^gen-19-34|Genesis 19:34]] ↔ [[Judges 9#^judg-9-42|Judges 9:42]]
@@ -84,7 +84,7 @@ The account also treats warning as urgent but not coercively self-executing. The
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -93,6 +93,8 @@ _Not yet developed._
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Blindness** (reference-entry) *(explicit citation)*
+- **Dead Sea** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

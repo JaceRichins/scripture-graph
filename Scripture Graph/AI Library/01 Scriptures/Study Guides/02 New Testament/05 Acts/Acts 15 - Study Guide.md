@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 15
 slug: acts-15
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,7 +56,7 @@ Scripture: [[Acts 15]] · My notes: [[Acts 15 - My Notes]]
 - [[D&C 7]] — 1 footnote cross-reference (from [[Acts 15#^acts-15-7|Acts 15:7]])
 - [[Joseph Smith—History 1]] — 1 footnote cross-reference (from [[Acts 15#^acts-15-7|Acts 15:7]])
 - [[Acts 17]] — 1 footnote cross-reference (from [[Acts 15#^acts-15-9|Acts 15:9]])
-- [[Acts 21]] — 0 parallel verses
+- [[Acts 21]] — 2 parallel verses, e.g. [[Acts 15#^acts-15-29|Acts 15:29]] ↔ [[Acts 21#^acts-21-25|Acts 21:25]]
 - [[Acts 16]] — 0 parallel verses
 - [[Acts 11]] — 0 parallel verses
 - [[Amos 9]] — 0 parallel verses
@@ -65,11 +65,11 @@ Scripture: [[Acts 15]] · My notes: [[Acts 15 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
-- [[Apostles]]
 - [[Acts 21]]
 - [[Law of Moses]]
 - [[Prophecy]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -87,8 +87,15 @@ The chapter portrays discernment through debate, testimony about divine action, 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Antioch** (reference-entry) *(explicit citation)*
+- **Barnabas** (reference-entry) *(explicit citation)*
+- **Blood** (reference-entry) *(explicit citation)*
+- **Cilicia** (reference-entry) *(explicit citation)*
+- **Circumcision** (reference-entry) *(explicit citation)*
+- **Clean and unclean** (reference-entry) *(explicit citation)*
+- **Cyprus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

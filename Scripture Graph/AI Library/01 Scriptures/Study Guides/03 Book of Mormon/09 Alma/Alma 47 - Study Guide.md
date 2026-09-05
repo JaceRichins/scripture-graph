@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 47
 slug: alma-47
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,9 +56,9 @@ Scripture: [[Alma 47]] · My notes: [[Alma 47 - My Notes]]
 - [[Mormon 1]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-35|Alma 47:35]] ↔ [[Mormon 1#^morm-1-8|Mormon 1:8]]
 - [[Ether 15]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-33|Alma 47:33]] ↔ [[Ether 15#^ether-15-4|Ether 15:4]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Alma 43#^alma-43-8|Alma 43:8]]
-- [[Alma 48]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Alma 48#^alma-48-3|Alma 48:3]]
 - [[Alma 58]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-15|Alma 47:15]] ↔ [[Alma 58#^alma-58-15|Alma 58:15]]
 - [[Mormon 3]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Mormon 3#^morm-3-5|Mormon 3:5]]
+- [[Alma 48]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-1|Alma 47:1]] ↔ [[Alma 48#^alma-48-3|Alma 48:3]]
 - [[Alma 19]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-29|Alma 47:29]] ↔ [[Alma 19#^alma-19-15|Alma 19:15]]
 - [[Alma 35]] — 2 parallel verses, e.g. [[Alma 47#^alma-47-29|Alma 47:29]] ↔ [[Alma 35#^alma-35-1|Alma 35:1]]
 - [[Moses 8]] — 1 parallel verse, e.g. [[Alma 47#^alma-47-3|Alma 47:3]] ↔ [[Moses 8#^moses-8-19|Moses 8:19]]

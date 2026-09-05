@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 9
 slug: 3ne-9
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,10 +63,10 @@ Scripture: [[3 Nephi 9]] · My notes: [[3 Nephi 9 - My Notes]]
 - [[2 Nephi 2]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[2 Nephi 2#^2ne-2-14|2 Nephi 2:14]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
 - [[D&C 35]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 35#^dc-35-2|D&C 35:2]]
+- [[3 Nephi 8]] — 2 parallel verses, e.g. [[3 Nephi 9#^3ne-9-4|3 Nephi 9:4]] ↔ [[3 Nephi 8#^3ne-8-9|3 Nephi 8:9]]
 - [[D&C 50]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 50#^dc-50-43|D&C 50:43]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 93#^dc-93-3|D&C 93:3]]
 - [[D&C 14]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 14#^dc-14-9|D&C 14:9]]
-- [[D&C 6]] — 1 parallel verse, e.g. [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]] ↔ [[D&C 6#^dc-6-21|D&C 6:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -94,6 +94,7 @@ Scripture: [[3 Nephi 9]] · My notes: [[3 Nephi 9 - My Notes]]
 <!-- SG:BEGIN conference -->
 - [[The Joy of Our Redemption (Sister Kristin M. Yee, October 2024)|The Joy of Our Redemption]] — Sister Kristin M. Yee, 2024-October *(explicit citation)*
 - [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
+- [[“Repent … That I May Heal You” (Elder Neil L. Andersen, October 2009)|“Repent … That I May Heal You”]] — Elder Neil L. Andersen, 2009-October *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
 - [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
@@ -101,7 +102,6 @@ Scripture: [[3 Nephi 9]] · My notes: [[3 Nephi 9 - My Notes]]
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[The Miracle of the Atonement (Elder C. Scott Grow, April 2011)|The Miracle of the Atonement]] — Elder C. Scott Grow, 2011-April *(explicit citation)*
 - [[Learning with Our Hearts (Elder Walter F. González, October 2012)|Learning with Our Hearts]] — Elder Walter F. González, 2012-October *(explicit citation)*
-- [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 7
 slug: esth-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

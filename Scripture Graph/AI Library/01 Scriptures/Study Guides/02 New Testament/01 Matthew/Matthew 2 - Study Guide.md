@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 2
 slug: matt-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -79,11 +79,14 @@ _Not yet developed._
 - [[Jesus Christ Is the Strength of Parents (Elder Dieter F. Uchtdorf, April 2023)|Jesus Christ Is the Strength of Parents]] — Elder Dieter F. Uchtdorf, 2023-April *(explicit citation)*
 - [[Eternity’s Great Gifts Jesus Christ’s Atonement, Resurrection, Restoration (Elder Gerrit W. Gong, April 2025)|Eternity’s Great Gifts: Jesus Christ’s Atonement, Resurrection, Restoration]] — Elder Gerrit W. Gong, 2025-April *(explicit citation)*
 - [[Personal Peace The Reward of Righteousness (Elder Quentin L. Cook, April 2013)|Personal Peace: The Reward of Righteousness]] — Elder Quentin L. Cook, 2013-April *(explicit citation)*
+- [[Watching with All Perseverance (Elder David A. Bednar, April 2010)|Watching with All Perseverance]] — Elder David A. Bednar, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Bethlehem** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

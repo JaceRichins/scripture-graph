@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 19
 slug: john-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,9 +80,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-03-01 (Vol. 1 No. 5)** (periodical, 1840-03-01) *(explicit citation)*
 - **Arimathea** (reference-entry) *(explicit citation)*
+- **Blasphemy** (reference-entry) *(explicit citation)*
+- **Caesar** (reference-entry) *(explicit citation)*
+- **Clothing** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

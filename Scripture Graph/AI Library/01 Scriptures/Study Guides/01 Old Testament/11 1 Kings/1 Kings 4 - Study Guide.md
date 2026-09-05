@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 4
 slug: 1kgs-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Adoniram** (reference-entry) *(explicit citation)*
 - **Asher** (reference-entry) *(explicit citation)*
+- **Beth-shan or Beth-shean** (reference-entry) *(explicit citation)*
+- **Beth-shemesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

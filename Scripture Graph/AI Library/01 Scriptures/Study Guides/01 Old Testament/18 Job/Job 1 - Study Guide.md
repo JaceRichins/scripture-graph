@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 1
 slug: job-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -72,11 +72,13 @@ _Not yet developed._
 - [[All Things for Our Good (Elder Gerrit W. Gong, April 2024)|All Things for Our Good]] — Elder Gerrit W. Gong, 2024-April *(explicit citation)*
 - [[“I Will Not Fail Thee, nor Forsake Thee” (President Thomas S. Monson, October 2013)|“I Will Not Fail Thee, nor Forsake Thee”]] — President Thomas S. Monson, 2013-October *(explicit citation)*
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
+- [[Faith in Adversity (Elder Rafael E. Pino, April 2009)|Faith in Adversity]] — Elder Rafael E. Pino, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Journal of Discourses, Volume 22** (history, ~1875) *(explicit citation)*
+- **Camel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

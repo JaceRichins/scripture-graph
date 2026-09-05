@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 5
 slug: jacob-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

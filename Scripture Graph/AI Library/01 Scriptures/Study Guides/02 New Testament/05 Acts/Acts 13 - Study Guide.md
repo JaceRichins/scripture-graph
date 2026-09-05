@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 13
 slug: acts-13
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ The sermon's positive reception among Gentiles the following sabbath, followed b
 - [[Justification and Sanctification]]
 - [[Law of Moses]]
 - [[Prophecy]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Sabbath Day]] *(keyword match — unconfirmed)*
@@ -101,10 +102,16 @@ The turn toward Gentile hearers belongs to the chapter's treatment of [[Jews and
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Antioch** (reference-entry) *(explicit citation)*
+- **Bar-jesus** (reference-entry) *(explicit citation)*
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Barnabas** (reference-entry) *(explicit citation)*
+- **Blasphemy** (reference-entry) *(explicit citation)*
+- **Blindness** (reference-entry) *(explicit citation)*
+- **Cyprus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

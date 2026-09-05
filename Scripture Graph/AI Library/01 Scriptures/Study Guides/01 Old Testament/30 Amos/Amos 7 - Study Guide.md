@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 7
 slug: amos-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1845-06-01 (Vol. 6 No. 10)** (periodical, 1845-06-01) *(explicit citation)*
 - **Amos** (reference-entry) *(explicit citation)*
+- **Bethel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

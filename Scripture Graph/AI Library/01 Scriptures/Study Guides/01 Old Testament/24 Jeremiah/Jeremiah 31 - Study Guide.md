@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 31
 slug: jer-31
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,7 +56,7 @@ _Not yet developed._
 - [[Jeremiah 49]] — 3 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
 - [[Jeremiah 16]] — 4 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 16#^jer-16-14|Jeremiah 16:14]]
 - [[Jeremiah 44]] — 4 parallel verses, e.g. [[Jeremiah 31#^jer-31-23|Jeremiah 31:23]] ↔ [[Jeremiah 44#^jer-44-9|Jeremiah 44:9]]
-- [[Amos 9]] — 3 parallel verses, e.g. [[Jeremiah 31#^jer-31-38|Jeremiah 31:38]] ↔ [[Amos 9#^amos-9-13|Amos 9:13]]
+- [[Jeremiah 30]] — 3 parallel verses, e.g. [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]] ↔ [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -100,6 +100,7 @@ _Not yet developed._
 - **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1843-02-01 (Vol. 4 No. 6)** (periodical, 1843-02-01) *(explicit citation)*
 - **Times and Seasons 1844-11-15 (Vol. 5 No. 21)** (periodical, 1844-11-15) *(explicit citation)*
+- **Birthright** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

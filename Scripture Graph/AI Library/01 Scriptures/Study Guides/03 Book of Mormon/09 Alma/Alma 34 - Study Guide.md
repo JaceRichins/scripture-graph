@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 34
 slug: alma-34
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Alma 12]] — 3 footnote cross-references (from [[Alma 34#^alma-34-9|Alma 34:9]])
 - [[Alma 31]] — 2 footnote cross-references (from [[Alma 34#^alma-34-1|Alma 34:1]])
 - [[Alma 32]] — 2 footnote cross-references (from [[Alma 34#^alma-34-3|Alma 34:3]])
+- [[Alma 5]] — 5 parallel verses, e.g. [[Alma 34#^alma-34-8|Alma 34:8]] ↔ [[Alma 5#^alma-5-32|Alma 5:32]]
 - [[Alma 13]] — 3 parallel verses, e.g. [[Alma 34#^alma-34-36|Alma 34:36]] ↔ [[Alma 13#^alma-13-11|Alma 13:11]]
 - [[Mosiah 2]] — 2 parallel verses, e.g. [[Alma 34#^alma-34-8|Alma 34:8]] ↔ [[Mosiah 2#^mosiah-2-41|Mosiah 2:41]]
 - [[Alma 12]] — 1 parallel verse, e.g. [[Alma 34#^alma-34-31|Alma 34:31]] ↔ [[Alma 12#^alma-12-33|Alma 12:33]]
@@ -88,11 +89,11 @@ Amulek's teaching on [[Prayer]] is deliberately expansive: fields, homes, househ
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 - [[Room in the Inn (Elder Gerrit W. Gong, April 2021)|Room in the Inn]] — Elder Gerrit W. Gong, 2021-April *(explicit citation)*
 - [[The Miracle of the Atonement (Elder C. Scott Grow, April 2011)|The Miracle of the Atonement]] — Elder C. Scott Grow, 2011-April *(explicit citation)*
+- [[“Repent … That I May Heal You” (Elder Neil L. Andersen, October 2009)|“Repent … That I May Heal You”]] — Elder Neil L. Andersen, 2009-October *(explicit citation)*
 - [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
 - [[The Eternal Everyday (Elder Quentin L. Cook, October 2017)|The Eternal Everyday]] — Elder Quentin L. Cook, 2017-October *(explicit citation)*
 - [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
 - [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
-- [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -125,7 +126,7 @@ Verses 18-27 form a sustained catalog anchored by the repeated imperative 'cry u
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary And Thematic Coherence
 > The progression from atonement, to faith and repentance, to prayer, charity, urgency, and endurance provides strong internal evidence that the discourse integrates doctrine with demanded conduct.
-> — strength 0.8 · confidence 0.9 · model claim: hedged, disputed-tagged · [[Literary And Thematic Coherence in Alma 34|full dossier]]
+> — confidence 0.9 · model claim: hedged, disputed-tagged · [[Literary And Thematic Coherence in Alma 34|full dossier]]
 
 > [!evidence] Textual/Statistical *(tentative)*
 > Verified text-overlap data show Alma 34 shares verse-level phraseology with Alma 5 (5 verses), Alma 13 (3 verses), Mosiah 2 (2 verses), and Alma 12 (1 verse) — chapters that likewise treat faith, the atoning/redemptive plan, and the peril of procrastinated repentance, suggesting a shared rhetorical and doctrinal vocabulary across these Alma-tradition sermons.

@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 5
 slug: acts-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,10 +55,11 @@ The chapter alternates between an internal crisis (deception judged) and an exte
 - [[D&C 19]] — 1 footnote cross-reference (from [[Acts 5#^acts-5-1|Acts 5:1]])
 - [[D&C 105]] — 1 footnote cross-reference (from [[Acts 5#^acts-5-2|Acts 5:2]])
 - [[Leviticus 10]] — 1 footnote cross-reference (from [[Acts 5#^acts-5-5|Acts 5:5]])
-- [[Luke 6]] — 0 parallel verses
+- [[Acts 4]] — 2 parallel verses, e.g. [[Acts 5#^acts-5-24|Acts 5:24]] ↔ [[Acts 4#^acts-4-1|Acts 4:1]]
+- [[Acts 2]] — 2 parallel verses, e.g. [[Acts 5#^acts-5-35|Acts 5:35]] ↔ [[Acts 2#^acts-2-14|Acts 2:14]]
+- [[Luke 6]] — 1 parallel verse, e.g. [[Acts 5#^acts-5-16|Acts 5:16]] ↔ [[Luke 6#^luke-6-18|Luke 6:18]]
 - [[Acts 4]] — 0 parallel verses
 - [[Acts 19]] — 0 parallel verses
-- [[Acts 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +68,7 @@ The chapter alternates between an internal crisis (deception judged) and an exte
 - [[Repentance and Forgiveness]]
 - [[Satan and Temptation]]
 - [[Endurance]]
+- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
@@ -92,6 +94,7 @@ The chapter alternates between an internal crisis (deception judged) and an exte
 - [[Tithing Opening the Windows of Heaven (Elder Neil L. Andersen, October 2023)|Tithing: Opening the Windows of Heaven]] — Elder Neil L. Andersen, 2023-October *(explicit citation)*
 - [[Trusting Our Father (Elder David P. Homer, October 2024)|Trusting Our Father]] — Elder David P. Homer, 2024-October *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
+- [[The Power of Covenants (Elder D. Todd Christofferson, April 2009)|The Power of Covenants]] — Elder D. Todd Christofferson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -101,6 +104,9 @@ The chapter alternates between an internal crisis (deception judged) and an exte
 - **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Acts of the Apostles** (reference-entry) *(explicit citation)*
 - **Ananias** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Covenant** (reference-entry) *(explicit citation)*
+- **Devil** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

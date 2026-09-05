@@ -41,7 +41,7 @@ cssclasses:
 > [[D&C 13|D&amp;C 13]] · [[Exodus 28#^ex-28-1|Ex. 28:1 (1–3, 41)]] · [[D&C 107#^dc-107-13|D&amp;C 107:13]]
 
 ![[D&C 27#^dc-27-9]]
-> [[1 Kings 17#^1kgs-17-1|1 Kgs. 17:1 (1–22)]] · [[2 Kings 1#^2kgs-1-1|2 Kgs. 1:1–2:15]] · [[D&C 2#^dc-2-1|D&amp;C 2:2 (1–3)]] · [[Joseph Smith—History 1#^jsh-1-38|JS—H 1:38 (38–39)]] · [[Luke 1#^luke-1-17|≈ Luke 1:17]] · [[D&C 98#^dc-98-16|≈ D&C 98:16]] · [[D&C 110#^dc-110-15|≈ D&C 110:15]]
+> [[1 Kings 17#^1kgs-17-1|1 Kgs. 17:1 (1–22)]] · [[2 Kings 1#^2kgs-1-1|2 Kgs. 1:1–2:15]] · [[D&C 2#^dc-2-1|D&amp;C 2:2 (1–3)]] · [[Joseph Smith—History 1#^jsh-1-38|JS—H 1:38 (38–39)]] · [[D&C 98#^dc-98-16|≈ D&C 98:16]] · [[Luke 1#^luke-1-17|≈ Luke 1:17]] · [[D&C 110#^dc-110-15|≈ D&C 110:15]]
 
 ![[D&C 27#^dc-27-10]]
 > [[Alma 7#^alma-7-25|Alma 7:25]] · [[Genesis 21#^gen-21-12|Gen. 21:12]] · [[Hebrews 11#^heb-11-17|Heb. 11:18 (17–18)]] · [[1 Nephi 17#^1ne-17-40|1 Ne. 17:40]] · [[Deuteronomy 11#^deut-11-9|Deut. 11:9]] · [[D&C 98#^dc-98-32|D&amp;C 98:32]] · [[Exodus 32#^ex-32-11|Ex. 32:13 (11–13)]] · [[D&C 98#^dc-98-32|≈ D&C 98:32]]

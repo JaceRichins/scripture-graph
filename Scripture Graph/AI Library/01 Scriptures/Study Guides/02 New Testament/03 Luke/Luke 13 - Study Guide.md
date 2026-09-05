@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 13
 slug: luke-13
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

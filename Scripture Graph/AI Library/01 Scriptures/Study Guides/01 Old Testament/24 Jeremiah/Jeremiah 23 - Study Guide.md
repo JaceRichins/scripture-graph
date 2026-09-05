@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 23
 slug: jer-23
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -83,7 +83,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1841-01-15 (Vol. 2 No. 6)** (periodical, 1841-01-15) *(explicit citation)*
+- **David** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

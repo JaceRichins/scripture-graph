@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 43
 slug: alma-43
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -65,8 +65,8 @@ The chapter moves through six stages:
 - [[Alma 16]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-16|Alma 43:16]] ↔ [[Alma 16#^alma-16-5|Alma 16:5]]
 - [[Alma 50]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-35|Alma 43:35]] ↔ [[Alma 50#^alma-50-35|Alma 50:35]]
 - [[Alma 2]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 2#^alma-2-34|Alma 2:34]]
-- [[Alma 49]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-9|Alma 43:9]] ↔ [[Alma 49#^alma-49-28|Alma 49:28]]
 - [[Alma 8]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-27|Alma 43:27]] ↔ [[Alma 8#^alma-8-3|Alma 8:3]]
+- [[Alma 49]] — 4 parallel verses, e.g. [[Alma 43#^alma-43-9|Alma 43:9]] ↔ [[Alma 49#^alma-49-28|Alma 49:28]]
 - [[Alma 56]] — 3 parallel verses, e.g. [[Alma 43#^alma-43-26|Alma 43:26]] ↔ [[Alma 56#^alma-56-1|Alma 56:1]]
 - [[Alma 28]] — 2 parallel verses, e.g. [[Alma 43#^alma-43-15|Alma 43:15]] ↔ [[Alma 28#^alma-28-1|Alma 28:1]]
 - [[Alma 27]] — 2 parallel verses, e.g. [[Alma 43#^alma-43-11|Alma 43:11]] ↔ [[Alma 27#^alma-27-21|Alma 27:21]]
@@ -97,11 +97,12 @@ The people of Ammon embody a different obligation. Their [[Covenants]] prevent t
 - [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
 - [[Watchful unto Prayer Continually (Elder David A. Bednar, October 2019)|Watchful unto Prayer Continually]] — Elder David A. Bednar, 2019-October *(explicit citation)*
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
+- [[Courageous Parenting (Elder Larry R. Lawrence, October 2010)|Courageous Parenting]] — Elder Larry R. Lawrence, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Dragon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

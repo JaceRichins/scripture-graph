@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 30
 slug: dc-30
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[D&C 128]] — 1 footnote cross-reference (from [[D&C 30#^dc-30-4|D&C 30:4]])
 - [[D&C 28]] — 1 footnote cross-reference (from [[D&C 30#^dc-30-5|D&C 30:5]])
 - [[D&C 32]] — 1 footnote cross-reference (from [[D&C 30#^dc-30-5|D&C 30:5]])
+- [[D&C 36]] — 1 parallel verse, e.g. [[D&C 30#^dc-30-9|D&C 30:9]] ↔ [[D&C 36#^dc-36-1|D&C 36:1]]
 - [[D&C 24]] — 1 parallel verse, e.g. [[D&C 30#^dc-30-9|D&C 30:9]] ↔ [[D&C 24#^dc-24-12|D&C 24:12]]
 <!-- SG:END related-scriptures -->
 
@@ -70,6 +71,7 @@ Peter's instructions connect shared adversity with [[Prayer]], [[Faith]], and [[
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
+- [[Unselfish Service (Elder Dallin H. Oaks, April 2009)|Unselfish Service]] — Elder Dallin H. Oaks, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

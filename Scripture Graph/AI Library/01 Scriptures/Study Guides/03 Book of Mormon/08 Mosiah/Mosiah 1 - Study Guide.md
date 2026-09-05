@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 1
 slug: mosiah-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ _Not yet developed._
 - [[Trust in the Lord and Lean Not (Bonnie H. Cordon, April 2017)|Trust in the Lord and Lean Not]] — Bonnie H. Cordon, 2017-April *(explicit citation)*
 - [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
 - [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
+- [[Our Path of Duty (Bishop Keith B. McMullin, April 2010)|Our Path of Duty]] — Bishop Keith B. McMullin, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

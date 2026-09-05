@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 4
 slug: josh-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -87,7 +87,7 @@ The chapter joins divine deliverance with disciplined remembrance. Israel is com
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Education** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

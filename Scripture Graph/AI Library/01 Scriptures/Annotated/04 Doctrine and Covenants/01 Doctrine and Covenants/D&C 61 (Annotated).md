@@ -17,10 +17,10 @@ cssclasses:
 > 1–12, The Lord has decreed many destructions upon the waters; 13–22, The waters were cursed by John, and the destroyer rides upon their face; 23–29, Some have power to command the waters; 30–35, Elders are to journey two by two and preach the gospel; 36–39, They are to prepare for the coming of the Son of Man.
 
 ![[D&C 61#^dc-61-1]]
-> [[D&C 19#^dc-19-1|D&amp;C 19:1]] · [[D&C 38#^dc-38-1|≈ D&C 38:1]] · [[D&C 45#^dc-45-7|≈ D&C 45:7]] · [[D&C 35#^dc-35-1|≈ D&C 35:1]] · [[D&C 54#^dc-54-1|≈ D&C 54:1]]
+> [[D&C 19#^dc-19-1|D&amp;C 19:1]] · [[D&C 45#^dc-45-7|≈ D&C 45:7]] · [[D&C 35#^dc-35-1|≈ D&C 35:1]] · [[D&C 38#^dc-38-1|≈ D&C 38:1]] · [[D&C 54#^dc-54-1|≈ D&C 54:1]]
 
 ![[D&C 61#^dc-61-2]]
-> [[Mosiah 4#^mosiah-4-10|Mosiah 4:10 (10–11)]] · [[D&C 64#^dc-64-1|≈ D&C 64:1]] · [[D&C 64#^dc-64-7|≈ D&C 64:7]] · [[D&C 75#^dc-75-23|≈ D&C 75:23]] · [[D&C 88#^dc-88-1|≈ D&C 88:1]] · [[D&C 91#^dc-91-1|≈ D&C 91:1]] · [[D&C 100#^dc-100-1|≈ D&C 100:1]]
+> [[Mosiah 4#^mosiah-4-10|Mosiah 4:10 (10–11)]] · [[D&C 75#^dc-75-23|≈ D&C 75:23]] · [[D&C 88#^dc-88-1|≈ D&C 88:1]] · [[D&C 91#^dc-91-1|≈ D&C 91:1]] · [[D&C 64#^dc-64-1|≈ D&C 64:1]] · [[D&C 64#^dc-64-7|≈ D&C 64:7]] · [[D&C 100#^dc-100-1|≈ D&C 100:1]]
 
 ![[D&C 61#^dc-61-3]]
 > [[D&C 91#^dc-91-3|≈ D&C 91:3]]
@@ -60,7 +60,7 @@ cssclasses:
 > [[Moses 4#^moses-4-23|Moses 4:23]] · [[D&C 57#^dc-57-1|D&amp;C 57:1 (1–5)]]
 
 ![[D&C 61#^dc-61-18]]
-> [[Joseph Smith—Matthew 1#^jsm-1-46|≈ Joseph Smith—Matthew 1:46]] · [[D&C 88#^dc-88-76|≈ D&C 88:76]] · [[D&C 88#^dc-88-77|≈ D&C 88:77]] · [[D&C 82#^dc-82-5|≈ D&C 82:5]] · [[D&C 90#^dc-90-12|≈ D&C 90:12]] · [[D&C 92#^dc-92-1|≈ D&C 92:1]]
+> [[D&C 88#^dc-88-76|≈ D&C 88:76]] · [[D&C 88#^dc-88-77|≈ D&C 88:77]] · [[Joseph Smith—Matthew 1#^jsm-1-46|≈ Joseph Smith—Matthew 1:46]] · [[D&C 82#^dc-82-5|≈ D&C 82:5]] · [[D&C 90#^dc-90-12|≈ D&C 90:12]] · [[D&C 92#^dc-92-1|≈ D&C 92:1]]
 
 ![[D&C 61#^dc-61-19]]
 
@@ -74,7 +74,7 @@ cssclasses:
 > [[D&C 60#^dc-60-6|≈ D&C 60:6]]
 
 ![[D&C 61#^dc-61-24]]
-> [[D&C 64#^dc-64-26|≈ D&C 64:26]] · [[D&C 63#^dc-63-41|≈ D&C 63:41]] · [[D&C 90#^dc-90-28|≈ D&C 90:28]] · [[D&C 90#^dc-90-30|≈ D&C 90:30]] · [[D&C 104#^dc-104-16|≈ D&C 104:16]] · [[D&C 103#^dc-103-30|≈ D&C 103:30]]
+> [[D&C 63#^dc-63-41|≈ D&C 63:41]] · [[D&C 64#^dc-64-26|≈ D&C 64:26]] · [[D&C 90#^dc-90-28|≈ D&C 90:28]] · [[D&C 90#^dc-90-30|≈ D&C 90:30]] · [[D&C 104#^dc-104-16|≈ D&C 104:16]] · [[D&C 103#^dc-103-30|≈ D&C 103:30]]
 
 ![[D&C 61#^dc-61-25]]
 > [[Numbers 9#^num-9-18|Num. 9:18]] · [[Numbers 2#^num-2-32|Num. 2:34 (32–34)]]
@@ -111,6 +111,6 @@ cssclasses:
 > [[D&C 50#^dc-50-35|D&amp;C 50:35]] · [[D&C 62#^dc-62-9|62:9]]
 
 ![[D&C 61#^dc-61-38]]
-> [[D&C 64#^dc-64-23|≈ D&C 64:23]] · [[Joseph Smith—Matthew 1#^jsm-1-26|≈ Joseph Smith—Matthew 1:26]] · [[Joseph Smith—Matthew 1#^jsm-1-41|≈ Joseph Smith—Matthew 1:41]] · [[Joseph Smith—Matthew 1#^jsm-1-43|≈ Joseph Smith—Matthew 1:43]] · [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]]
+> [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]] · [[Matthew 24#^matt-24-39|≈ Matthew 24:39]] · [[D&C 63#^dc-63-53|≈ D&C 63:53]] · [[D&C 64#^dc-64-23|≈ D&C 64:23]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]]
 
 ![[D&C 61#^dc-61-39]]

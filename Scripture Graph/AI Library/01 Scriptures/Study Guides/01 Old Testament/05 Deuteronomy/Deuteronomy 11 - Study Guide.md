@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 11
 slug: deut-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Family** (reference-entry) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
+- **Ebal, Mount** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

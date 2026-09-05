@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 17
 slug: 3ne-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,10 +58,10 @@ The movement is from words the people cannot yet understand to experiences they 
 - [[3 Nephi 28]] — 2 parallel verses, e.g. [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]] ↔ [[3 Nephi 28#^3ne-28-12|3 Nephi 28:12]]
 - [[Mosiah 18]] — 3 parallel verses, e.g. [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]] ↔ [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]]
 - [[3 Nephi 13]] — 1 parallel verse, e.g. [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
-- [[Ether 3]] — 2 parallel verses, e.g. [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]] ↔ [[Ether 3#^ether-3-13|Ether 3:13]]
 - [[Alma 59]] — 2 parallel verses, e.g. [[3 Nephi 17#^3ne-17-14|3 Nephi 17:14]] ↔ [[Alma 59#^alma-59-11|Alma 59:11]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[3 Nephi 17#^3ne-17-13|3 Nephi 17:13]] ↔ [[3 Nephi 20#^3ne-20-10|3 Nephi 20:10]]
 - [[Acts 28]] — 2 parallel verses, e.g. [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]] ↔ [[Acts 28#^acts-28-29|Acts 28:29]]
+- [[Ether 3]] — 2 parallel verses, e.g. [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]] ↔ [[Ether 3#^ether-3-13|Ether 3:13]]
 - [[Jacob 7]] — 2 parallel verses, e.g. [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]] ↔ [[Jacob 7#^jacob-7-20|Jacob 7:20]]
 - [[3 Nephi 14]] — 1 parallel verse, e.g. [[3 Nephi 17#^3ne-17-1|3 Nephi 17:1]] ↔ [[3 Nephi 14#^3ne-14-1|3 Nephi 14:1]]
 <!-- SG:END related-scriptures -->

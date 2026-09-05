@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 23
 slug: ex-23
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Animals** (reference-entry) *(explicit citation)*
+- **Calendar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

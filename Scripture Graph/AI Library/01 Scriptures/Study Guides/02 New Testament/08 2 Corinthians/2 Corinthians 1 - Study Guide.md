@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 1
 slug: 2cor-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,10 @@ Scripture: [[2 Corinthians 1]] · My notes: [[2 Corinthians 1 - My Notes]]
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Amen** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
+- **Conversation** (reference-entry) *(explicit citation)*
+- **Earnest** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

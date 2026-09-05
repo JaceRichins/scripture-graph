@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 2
 slug: 2kgs-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ The prophetic communities possess genuine advance knowledge yet misunderstand wh
 ## Church History
 <!-- SG:BEGIN history -->
 - **An Angel and a Promise** (history) *(explicit citation)*
+- **Carmel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

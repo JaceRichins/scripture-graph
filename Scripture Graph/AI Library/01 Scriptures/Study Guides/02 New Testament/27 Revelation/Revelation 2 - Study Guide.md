@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 2
 slug: rev-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1841-02-01 (Vol. 2 No. 7)** (periodical, 1841-02-01) *(explicit citation)*
+- **Balaam** (reference-entry) *(explicit citation)*
+- **Candlestick** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

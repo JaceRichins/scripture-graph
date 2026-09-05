@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 27
 slug: jer-27
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -90,7 +90,7 @@ The chapter also offers a restrained form of hope. Restoration is promised for t
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Edom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 9
 slug: num-9
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -51,8 +51,8 @@ _Not yet developed._
 - [[Exodus 39]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[Exodus 39#^ex-39-32|Exodus 39:32]]
 - [[2 Chronicles 30]] — 3 parallel verses, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[2 Chronicles 30#^2chr-30-15|2 Chronicles 30:15]]
 - [[2 Chronicles 35]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[2 Chronicles 35#^2chr-35-1|2 Chronicles 35:1]]
-- [[Numbers 10]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-23|Numbers 9:23]] ↔ [[Numbers 10#^num-10-13|Numbers 10:13]]
 - [[Leviticus 23]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[Leviticus 23#^lev-23-5|Leviticus 23:5]]
+- [[Numbers 10]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-23|Numbers 9:23]] ↔ [[Numbers 10#^num-10-13|Numbers 10:13]]
 - [[Leviticus 17]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-13|Numbers 9:13]] ↔ [[Leviticus 17#^lev-17-4|Leviticus 17:4]]
 - [[Exodus 40]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-17|Numbers 9:17]] ↔ [[Exodus 40#^ex-40-36|Exodus 40:36]]
 - [[Ezra 6]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-20|Numbers 9:20]] ↔ [[Ezra 6#^ezra-6-14|Ezra 6:14]]
@@ -80,7 +80,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Cloud** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

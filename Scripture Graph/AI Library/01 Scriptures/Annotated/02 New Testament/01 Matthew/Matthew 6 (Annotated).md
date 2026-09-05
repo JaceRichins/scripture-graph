@@ -88,7 +88,7 @@ cssclasses:
 > [[Alma 5#^alma-5-39|Alma 5:39 (39–42)]] · [[3 Nephi 13#^3ne-13-24|≈ 3 Nephi 13:24]] · [[Luke 16#^luke-16-13|≈ Luke 16:13]]
 
 ![[Matthew 6#^matt-6-25]]
-> [[Psalm 55#^ps-55-22|Ps. 55:22]] · [[Proverbs 16#^prov-16-3|Prov. 16:3]] · [[Luke 12#^luke-12-22|Luke 12:22]] · [[Philippians 4#^philip-4-6|Philip. 4:6]] · [[3 Nephi 13#^3ne-13-25|3 Ne. 13:25]] · [[D&C 84#^dc-84-81|D&amp;C 84:81]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]] · [[D&C 27#^dc-27-2|≈ D&C 27:2]] · [[Luke 12#^luke-12-22|≈ Luke 12:22]] · [[Luke 12#^luke-12-29|≈ Luke 12:29]]
+> [[Psalm 55#^ps-55-22|Ps. 55:22]] · [[Proverbs 16#^prov-16-3|Prov. 16:3]] · [[Luke 12#^luke-12-22|Luke 12:22]] · [[Philippians 4#^philip-4-6|Philip. 4:6]] · [[3 Nephi 13#^3ne-13-25|3 Ne. 13:25]] · [[D&C 84#^dc-84-81|D&amp;C 84:81]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]] · [[Luke 12#^luke-12-22|≈ Luke 12:22]] · [[Luke 12#^luke-12-29|≈ Luke 12:29]] · [[D&C 27#^dc-27-2|≈ D&C 27:2]]
 
 ![[Matthew 6#^matt-6-26]]
 > [[3 Nephi 13#^3ne-13-26|≈ 3 Nephi 13:26]]

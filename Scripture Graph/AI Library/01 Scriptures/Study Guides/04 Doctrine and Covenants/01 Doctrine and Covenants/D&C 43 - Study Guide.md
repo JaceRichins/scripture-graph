@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 43
 slug: dc-43
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -70,8 +70,8 @@ _Not yet developed._
 - [[Sustaining Church Leaders]]
 - [[Education and Learning]]
 - [[Justification and Sanctification]]
-- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

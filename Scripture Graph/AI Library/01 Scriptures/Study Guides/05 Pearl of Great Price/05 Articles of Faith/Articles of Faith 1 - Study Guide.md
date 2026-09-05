@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Articles of Faith
 chapter: 1
 slug: aoff-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Deuteronomy 24]] — 1 footnote cross-reference (from [[Articles of Faith 1#^aoff-1-2|Articles of Faith 1:2]])
 - [[Ezekiel 18]] — 1 footnote cross-reference (from [[Articles of Faith 1#^aoff-1-2|Articles of Faith 1:2]])
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[Articles of Faith 1#^aoff-1-4|Articles of Faith 1:4]] ↔ [[Joseph Smith—History 1#^jsh-1-69|Joseph Smith—History 1:69]]
+- [[D&C 134]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

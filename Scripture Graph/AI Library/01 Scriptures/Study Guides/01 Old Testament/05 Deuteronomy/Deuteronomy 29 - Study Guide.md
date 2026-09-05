@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 29
 slug: deut-29
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -97,7 +97,7 @@ The oath to Abraham, Isaac, and Jacob connects the chapter with the [[Abrahamic 
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Dead Sea** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

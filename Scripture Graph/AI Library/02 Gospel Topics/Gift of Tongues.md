@@ -34,6 +34,7 @@ _Not yet developed._
 - [[Mormon 9]] *(keyword match)*
 - [[Moroni 10]]
 - [[D&C 109]]
+- [[Acts 10]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 40
 slug: ps-40
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,8 @@ _Not yet developed._
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
 - [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[Continue in Patience (President Dieter F. Uchtdorf, April 2010)|Continue in Patience]] — President Dieter F. Uchtdorf, 2010-April *(explicit citation)*
+- [[Be of a Good Courage (Ann M. Dibb, April 2010)|Be of a Good Courage]] — Ann M. Dibb, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

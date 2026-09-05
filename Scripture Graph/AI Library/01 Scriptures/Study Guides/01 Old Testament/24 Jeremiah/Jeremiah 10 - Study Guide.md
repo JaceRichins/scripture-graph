@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 10
 slug: jer-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Aramaic** (reference-entry) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
+- **Dragon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

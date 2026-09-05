@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 17
 slug: gen-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -83,12 +83,12 @@ _Not yet developed._
 - **Baptism** (reference-entry) *(explicit citation)*
 - **11 Ye Shall Receive My Law** (history) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
+- **Circumcision** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Abel** (reference-entry) *(explicit citation)*
-- **Abraham, covenant of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

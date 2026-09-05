@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 32
 slug: gen-32
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Edom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

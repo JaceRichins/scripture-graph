@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 14
 slug: 1cor-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Matthew 18]] — 1 footnote cross-reference (from [[1 Corinthians 14#^1cor-14-20|1 Corinthians 14:20]])
 - [[Hebrews 4]] — 1 footnote cross-reference (from [[1 Corinthians 14#^1cor-14-25|1 Corinthians 14:25]])
 - [[2 Corinthians 12]] — 1 footnote cross-reference (from [[1 Corinthians 14#^1cor-14-26|1 Corinthians 14:26]])
+- [[1 Corinthians 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,6 +67,7 @@ _Not yet developed._
 - [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
 - [[The Answer Is Jesus (Elder Ryan K. Olsen, October 2022)|The Answer Is Jesus]] — Elder Ryan K. Olsen, 2022-October *(explicit citation)*
 - [[Personal Peace The Reward of Righteousness (Elder Quentin L. Cook, April 2013)|Personal Peace: The Reward of Righteousness]] — Elder Quentin L. Cook, 2013-April *(explicit citation)*
+- [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[God Loves His Children (Elder Taniela B. Wakolo, April 2021)|God Loves His Children]] — Elder Taniela B. Wakolo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -75,6 +77,7 @@ _Not yet developed._
 - **Gifts of the Spirit** (reference-entry) *(explicit citation)*
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
 - **Amen** (reference-entry) *(explicit citation)*
+- **Barbarian** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

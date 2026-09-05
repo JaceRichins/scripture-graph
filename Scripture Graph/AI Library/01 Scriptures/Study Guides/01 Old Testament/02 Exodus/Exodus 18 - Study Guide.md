@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 18
 slug: ex-18
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,7 +80,7 @@ Shared responsibility does not remove Moses' distinctive duties. He continues to
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Two Lines of Communication (Elder Dallin H. Oaks, October 2010)|Two Lines of Communication]] — Elder Dallin H. Oaks, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

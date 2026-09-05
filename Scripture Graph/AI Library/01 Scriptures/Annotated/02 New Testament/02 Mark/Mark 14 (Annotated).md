@@ -75,7 +75,7 @@ cssclasses:
 > [[Luke 22#^luke-22-19|Luke 22:19]] · [[John 6#^john-6-53|John 6:53]] · [[Matthew 26#^matt-26-26|≈ Matthew 26:26]] · [[1 Corinthians 11#^1cor-11-24|≈ 1 Corinthians 11:24]]
 
 ![[Mark 14#^mark-14-23]]
-> [[John 6#^john-6-11|≈ John 6:11]] · [[1 Corinthians 11#^1cor-11-24|≈ 1 Corinthians 11:24]]
+> [[1 Corinthians 11#^1cor-11-24|≈ 1 Corinthians 11:24]] · [[John 6#^john-6-11|≈ John 6:11]]
 
 ![[Mark 14#^mark-14-24]]
 > [[Matthew 26#^matt-26-28|≈ Matthew 26:28]]

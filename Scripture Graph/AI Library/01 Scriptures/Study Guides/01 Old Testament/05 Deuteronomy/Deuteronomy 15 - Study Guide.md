@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 15
 slug: deut-15
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Blood** (reference-entry) *(explicit citation)*
+- **Clean and unclean** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

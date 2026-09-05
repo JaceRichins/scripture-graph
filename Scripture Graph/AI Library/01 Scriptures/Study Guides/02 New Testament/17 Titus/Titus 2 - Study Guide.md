@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 2
 slug: titus-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,11 +58,12 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Daughters in My Kingdom” The History and Work of Relief Society (Julie B. Beck, October 2010)|“Daughters in My Kingdom”: The History and Work of Relief Society]] — Julie B. Beck, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*

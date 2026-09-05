@@ -17,10 +17,10 @@ cssclasses:
 > 1–5, Faithful Saints receive that Comforter, which is the promise of eternal life; 6–13, All things are controlled and governed by the Light of Christ; 14–16, The Resurrection comes through the Redemption; 17–31, Obedience to celestial, terrestrial, or telestial law prepares men for those respective kingdoms and glories; 32–35, Those who will to abide in sin remain filthy still; 36–41, All kingdoms are governed by law; 42–45, God has given a law unto all things; 46–50, Man will comprehend even God; 51–61, The parable of the man sending his servants into the field and visiting them in turn; 62–73, Draw near unto the Lord, and ye will see His face; 74–80, Sanctify yourselves and teach one another the doctrines of the kingdom; 81–85, Every man who has been warned should warn his neighbor; 86–94, Signs, upheavals of the elements, and angels prepare the way for the coming of the Lord; 95–102, Angelic trumps call forth the dead in their order; 103–16, Angelic trumps proclaim the restoration of the gospel, the fall of Babylon, and the battle of the great God; 117–26, Seek learning, establish a house of God (a temple), and clothe yourselves with the bond of charity; 127–41, The order of the School of the Prophets is set forth, including the ordinance of washing of feet.
 
 ![[D&C 88#^dc-88-1]]
-> [[D&C 95#^dc-95-1|≈ D&C 95:1]] · [[D&C 100#^dc-100-1|≈ D&C 100:1]] · [[D&C 61#^dc-61-2|≈ D&C 61:2]] · [[D&C 124#^dc-124-1|≈ D&C 124:1]]
+> [[D&C 95#^dc-95-1|≈ D&C 95:1]] · [[D&C 61#^dc-61-2|≈ D&C 61:2]] · [[D&C 100#^dc-100-1|≈ D&C 100:1]] · [[D&C 124#^dc-124-1|≈ D&C 124:1]]
 
 ![[D&C 88#^dc-88-2]]
-> [[Luke 15#^luke-15-7|Luke 15:7 (7–10)]] · [[Acts 10#^acts-10-1|Acts 10:2 (1–4)]] · [[D&C 112#^dc-112-1|D&amp;C 112:1]] · [[James 5#^james-5-4|James 5:4]] · [[D&C 87#^dc-87-7|D&amp;C 87:7]] · [[D&C 95#^dc-95-7|95:7]] · [[D&C 98#^dc-98-2|≈ D&C 98:2]] · [[D&C 95#^dc-95-7|≈ D&C 95:7]] · [[D&C 87#^dc-87-7|≈ D&C 87:7]]
+> [[Luke 15#^luke-15-7|Luke 15:7 (7–10)]] · [[Acts 10#^acts-10-1|Acts 10:2 (1–4)]] · [[D&C 112#^dc-112-1|D&amp;C 112:1]] · [[James 5#^james-5-4|James 5:4]] · [[D&C 87#^dc-87-7|D&amp;C 87:7]] · [[D&C 95#^dc-95-7|95:7]] · [[D&C 95#^dc-95-7|≈ D&C 95:7]] · [[D&C 98#^dc-98-2|≈ D&C 98:2]] · [[D&C 87#^dc-87-7|≈ D&C 87:7]]
 
 ![[D&C 88#^dc-88-3]]
 > [[John 14#^john-14-16|John 14:16]] · [[2 Peter 1#^2pet-1-19|2 Pet. 1:19]] · [[D&C 76#^dc-76-53|D&amp;C 76:53]] · [[D&C 132#^dc-132-19|132:19 (19, 26, 49)]]
@@ -180,7 +180,7 @@ cssclasses:
 > [[D&C 76#^dc-76-24|D&amp;C 76:24]]
 
 ![[D&C 88#^dc-88-62]]
-> [[Exodus 33#^ex-33-11|Ex. 33:11]] · [[Ether 12#^ether-12-39|Ether 12:39]] · [[D&C 84#^dc-84-63|D&amp;C 84:63]] · [[D&C 93#^dc-93-45|93:45]] · [[Deuteronomy 6#^deut-6-6|Deut. 6:6]] · [[Isaiah 55#^isa-55-6|Isa. 55:6]] · [[James 1#^james-1-5|James 1:5 (5–6)]] · [[D&C 46#^dc-46-7|D&amp;C 46:7]] · [[D&C 94#^dc-94-1|≈ D&C 94:1]] · [[D&C 100#^dc-100-7|≈ D&C 100:7]]
+> [[Exodus 33#^ex-33-11|Ex. 33:11]] · [[Ether 12#^ether-12-39|Ether 12:39]] · [[D&C 84#^dc-84-63|D&amp;C 84:63]] · [[D&C 93#^dc-93-45|93:45]] · [[Deuteronomy 6#^deut-6-6|Deut. 6:6]] · [[Isaiah 55#^isa-55-6|Isa. 55:6]] · [[James 1#^james-1-5|James 1:5 (5–6)]] · [[D&C 46#^dc-46-7|D&amp;C 46:7]] · [[D&C 94#^dc-94-1|≈ D&C 94:1]] · [[3 Nephi 18#^3ne-18-28|≈ 3 Nephi 18:28]]
 
 ![[D&C 88#^dc-88-63]]
 > [[Psalm 69#^ps-69-18|Ps. 69:18]] · [[Zechariah 1#^zech-1-3|Zech. 1:3 (3–4)]] · [[James 4#^james-4-8|James 4:8]] · [[Revelation 3#^rev-3-20|Rev. 3:20 (20–21)]] · [[Deuteronomy 4#^deut-4-7|Deut. 4:7]] · [[Lamentations 3#^lam-3-57|Lam. 3:57]] · [[Ezekiel 36#^ezek-36-8|Ezek. 36:9 (8–15)]] · [[1 Chronicles 28#^1chr-28-9|1 Chr. 28:9]] · [[Ezra 8#^ezra-8-22|Ezra 8:22 (22–23)]] · [[Ether 12#^ether-12-41|Ether 12:41]]
@@ -221,10 +221,10 @@ cssclasses:
 > [[Acts 2#^acts-2-40|Acts 2:40]]
 
 ![[D&C 88#^dc-88-76]]
-> [[4 Nephi 1#^4ne-1-12|4 Ne. 1:12]] · [[Moroni 6#^moro-6-5|Moro. 6:5]] · [[D&C 98#^dc-98-11|≈ D&C 98:11]] · [[D&C 90#^dc-90-12|≈ D&C 90:12]] · [[D&C 49#^dc-49-11|≈ D&C 49:11]] · [[D&C 49#^dc-49-1|≈ D&C 49:1]] · [[D&C 43#^dc-43-8|≈ D&C 43:8]] · [[3 Nephi 18#^3ne-18-12|≈ 3 Nephi 18:12]]
+> [[4 Nephi 1#^4ne-1-12|4 Ne. 1:12]] · [[Moroni 6#^moro-6-5|Moro. 6:5]] · [[D&C 98#^dc-98-11|≈ D&C 98:11]] · [[D&C 90#^dc-90-12|≈ D&C 90:12]] · [[3 Nephi 18#^3ne-18-12|≈ 3 Nephi 18:12]] · [[D&C 61#^dc-61-18|≈ D&C 61:18]] · [[D&C 49#^dc-49-11|≈ D&C 49:11]] · [[D&C 49#^dc-49-1|≈ D&C 49:1]]
 
 ![[D&C 88#^dc-88-77]]
-> [[Exodus 35#^ex-35-34|Ex. 35:34]] · [[Moroni 10#^moro-10-9|Moro. 10:9 (9–10)]] · [[D&C 38#^dc-38-23|D&amp;C 38:23]] · [[D&C 43#^dc-43-8|43:8]] · [[D&C 107#^dc-107-85|107:85 (85–89)]] · [[Titus 2#^titus-2-1|Titus 2:1]] · [[D&C 98#^dc-98-11|≈ D&C 98:11]] · [[D&C 90#^dc-90-12|≈ D&C 90:12]] · [[D&C 49#^dc-49-1|≈ D&C 49:1]] · [[D&C 49#^dc-49-11|≈ D&C 49:11]]
+> [[Exodus 35#^ex-35-34|Ex. 35:34]] · [[Moroni 10#^moro-10-9|Moro. 10:9 (9–10)]] · [[D&C 38#^dc-38-23|D&amp;C 38:23]] · [[D&C 43#^dc-43-8|43:8]] · [[D&C 107#^dc-107-85|107:85 (85–89)]] · [[Titus 2#^titus-2-1|Titus 2:1]] · [[D&C 98#^dc-98-11|≈ D&C 98:11]] · [[D&C 90#^dc-90-12|≈ D&C 90:12]] · [[3 Nephi 18#^3ne-18-12|≈ 3 Nephi 18:12]] · [[D&C 61#^dc-61-18|≈ D&C 61:18]]
 
 ![[D&C 88#^dc-88-78]]
 > [[D&C 90#^dc-90-15|90:15]] · [[D&C 93#^dc-93-53|93:53]]
@@ -303,7 +303,7 @@ cssclasses:
 > [[Revelation 14#^rev-14-6|Rev. 14:6 (6–7)]] · [[D&C 42#^dc-42-58|≈ D&C 42:58]]
 
 ![[D&C 88#^dc-88-104]]
-> [[Psalm 86#^ps-86-9|Ps. 86:9]] · [[Revelation 5#^rev-5-13|Rev. 5:13]] · [[Psalm 66#^ps-66-4|Ps. 66:4]] · [[Psalm 72#^ps-72-9|72:9 (9–10)]] · [[Malachi 1#^mal-1-11|Mal. 1:11]] · [[Philippians 2#^philip-2-9|Philip. 2:10 (9–11)]] · [[Revelation 14#^rev-14-7|Rev. 14:7]] · [[Hebrews 1#^heb-1-8|Heb. 1:8]] · [[Revelation 14#^rev-14-7|≈ Revelation 14:7]] · [[D&C 76#^dc-76-110|≈ D&C 76:110]]
+> [[Psalm 86#^ps-86-9|Ps. 86:9]] · [[Revelation 5#^rev-5-13|Rev. 5:13]] · [[Psalm 66#^ps-66-4|Ps. 66:4]] · [[Psalm 72#^ps-72-9|72:9 (9–10)]] · [[Malachi 1#^mal-1-11|Mal. 1:11]] · [[Philippians 2#^philip-2-9|Philip. 2:10 (9–11)]] · [[Revelation 14#^rev-14-7|Rev. 14:7]] · [[Hebrews 1#^heb-1-8|Heb. 1:8]] · [[Revelation 14#^rev-14-7|≈ Revelation 14:7]] · [[D&C 124#^dc-124-101|≈ D&C 124:101]]
 
 ![[D&C 88#^dc-88-105]]
 > [[Revelation 14#^rev-14-8|Rev. 14:8]] · [[D&C 1#^dc-1-16|D&amp;C 1:16]] · [[Revelation 14#^rev-14-8|≈ Revelation 14:8]] · [[Revelation 14#^rev-14-10|≈ Revelation 14:10]] · [[Revelation 18#^rev-18-3|≈ Revelation 18:3]] · [[D&C 35#^dc-35-11|≈ D&C 35:11]]

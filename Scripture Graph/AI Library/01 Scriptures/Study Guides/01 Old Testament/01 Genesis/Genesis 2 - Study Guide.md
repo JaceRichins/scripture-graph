@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 2
 slug: gen-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ _Not yet developed._
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
+- **Eden, Garden of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

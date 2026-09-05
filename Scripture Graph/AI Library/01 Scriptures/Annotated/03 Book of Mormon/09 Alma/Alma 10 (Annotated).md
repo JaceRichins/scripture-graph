@@ -72,7 +72,7 @@ cssclasses:
 > [[Mosiah 29#^mosiah-29-27|Mosiah 29:27]] · [[Alma 2#^alma-2-3|Alma 2:4 (3–7)]] · [[Helaman 5#^hel-5-2|Hel. 5:2]]
 
 ![[Alma 10#^alma-10-20]]
-> [[Alma 8#^alma-8-14|Alma 8:14 (14–16, 20)]] · [[Alma 13#^alma-13-22|13:22]] · [[Helaman 5#^hel-5-32|≈ Helaman 5:32]] · [[Matthew 4#^matt-4-17|≈ Matthew 4:17]]
+> [[Alma 8#^alma-8-14|Alma 8:14 (14–16, 20)]] · [[Alma 13#^alma-13-22|13:22]] · [[Matthew 4#^matt-4-17|≈ Matthew 4:17]] · [[Helaman 5#^hel-5-32|≈ Helaman 5:32]]
 
 ![[Alma 10#^alma-10-21]]
 > [[Mosiah 13#^mosiah-13-28|Mosiah 13:34 (28–35)]]

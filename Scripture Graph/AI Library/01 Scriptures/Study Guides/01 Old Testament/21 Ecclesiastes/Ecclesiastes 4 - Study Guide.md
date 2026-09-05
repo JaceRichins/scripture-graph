@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 4
 slug: eccl-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,7 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Man Down!” (President Henry B. Eyring, April 2009)|“Man Down!”]] — President Henry B. Eyring, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

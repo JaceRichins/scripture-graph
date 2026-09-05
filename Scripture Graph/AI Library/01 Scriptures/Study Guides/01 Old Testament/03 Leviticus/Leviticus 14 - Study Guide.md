@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 14
 slug: lev-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,8 +53,8 @@ Scripture: [[Leviticus 14]] · My notes: [[Leviticus 14 - My Notes]]
 - [[Leviticus 15]] — 1 footnote cross-reference (from [[Leviticus 14#^lev-14-31|Leviticus 14:31]])
 - [[Leviticus 5]] — 17 parallel verses, e.g. [[Leviticus 14#^lev-14-31|Leviticus 14:31]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
 - [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 14#^lev-14-21|Leviticus 14:21]] ↔ [[Numbers 7#^num-7-13|Numbers 7:13]]
-- [[Leviticus 8]] — 8 parallel verses, e.g. [[Leviticus 14#^lev-14-25|Leviticus 14:25]] ↔ [[Leviticus 8#^lev-8-23|Leviticus 8:23]]
 - [[Leviticus 4]] — 17 parallel verses, e.g. [[Leviticus 14#^lev-14-20|Leviticus 14:20]] ↔ [[Leviticus 4#^lev-4-31|Leviticus 4:31]]
+- [[Leviticus 8]] — 8 parallel verses, e.g. [[Leviticus 14#^lev-14-25|Leviticus 14:25]] ↔ [[Leviticus 8#^lev-8-23|Leviticus 8:23]]
 - [[Leviticus 15]] — 8 parallel verses, e.g. [[Leviticus 14#^lev-14-31|Leviticus 14:31]] ↔ [[Leviticus 15#^lev-15-15|Leviticus 15:15]]
 - [[Exodus 29]] — 9 parallel verses, e.g. [[Leviticus 14#^lev-14-25|Leviticus 14:25]] ↔ [[Exodus 29#^ex-29-20|Exodus 29:20]]
 - [[Numbers 6]] — 7 parallel verses, e.g. [[Leviticus 14#^lev-14-31|Leviticus 14:31]] ↔ [[Numbers 6#^num-6-11|Numbers 6:11]]

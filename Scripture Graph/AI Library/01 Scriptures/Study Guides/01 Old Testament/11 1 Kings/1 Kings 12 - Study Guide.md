@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 12
 slug: 1kgs-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,12 +77,16 @@ Jeroboam's fear of losing political allegiance leads directly to religious chang
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[When the Lord Commands (Elder Bruce A. Carlson, April 2010)|When the Lord Commands]] — Elder Bruce A. Carlson, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Adoniram** (reference-entry) *(explicit citation)*
+- **Benjamin** (reference-entry) *(explicit citation)*
+- **Bethel** (reference-entry) *(explicit citation)*
+- **Calves, golden, worship of** (reference-entry) *(explicit citation)*
+- **Dan** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 11
 slug: heb-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,8 @@ _Not yet developed._
 - **Gifts of the Spirit** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **Cain** (reference-entry) *(explicit citation)*
+- **Daniel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

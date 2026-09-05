@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 6
 slug: 1kgs-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ Statements of completion recur in verses 9, 14, 22, and 38. They may mark stages
 - [[Ezekiel 8]] — 2 footnote cross-references (from [[1 Kings 6#^1kgs-6-3|1 Kings 6:3]])
 - [[2 Chronicles 3]] — 5 parallel verses, e.g. [[1 Kings 6#^1kgs-6-2|1 Kings 6:2]] ↔ [[2 Chronicles 3#^2chr-3-8|2 Chronicles 3:8]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
-- [[Exodus 37]] — 3 parallel verses, e.g. [[1 Kings 6#^1kgs-6-20|1 Kings 6:20]] ↔ [[Exodus 37#^ex-37-11|Exodus 37:11]]
 - [[Numbers 33]] — 1 parallel verse, e.g. [[1 Kings 6#^1kgs-6-1|1 Kings 6:1]] ↔ [[Numbers 33#^num-33-38|Numbers 33:38]]
+- [[Exodus 37]] — 3 parallel verses, e.g. [[1 Kings 6#^1kgs-6-20|1 Kings 6:20]] ↔ [[Exodus 37#^ex-37-11|Exodus 37:11]]
 - [[1 Kings 7]] — 3 parallel verses, e.g. [[1 Kings 6#^1kgs-6-2|1 Kings 6:2]] ↔ [[1 Kings 7#^1kgs-7-2|1 Kings 7:2]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
 - [[Joshua 3]] — 3 parallel verses, e.g. [[1 Kings 6#^1kgs-6-19|1 Kings 6:19]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
@@ -88,7 +88,8 @@ Verse 19 says that the inner sanctuary was prepared to receive the ark. The chap
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Calendar** (reference-entry) *(explicit citation)*
+- **Cherubim** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

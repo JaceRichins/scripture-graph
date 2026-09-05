@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 55
 slug: isa-55
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[John 7]] — 1 footnote cross-reference (from [[Isaiah 55#^isa-55-1|Isaiah 55:1]])
 - [[2 Nephi 9]] — 1 footnote cross-reference (from [[Isaiah 55#^isa-55-1|Isaiah 55:1]])
 - [[2 Nephi 9]] — 2 parallel verses, e.g. [[Isaiah 55#^isa-55-1|Isaiah 55:1]] ↔ [[2 Nephi 9#^2ne-9-50|2 Nephi 9:50]]
+- [[Acts 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

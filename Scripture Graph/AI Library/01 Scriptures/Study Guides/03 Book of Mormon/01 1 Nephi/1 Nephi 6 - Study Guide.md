@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 6
 slug: 1ne-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -54,9 +54,9 @@ _Not yet developed._
 - [[1 Nephi 19]] — 1 footnote cross-reference (from [[1 Nephi 6#^1ne-6-1|1 Nephi 6:1]])
 - [[1 Nephi 5]] — 1 footnote cross-reference (from [[1 Nephi 6#^1ne-6-2|1 Nephi 6:2]])
 - [[Jacob 7]] — 1 footnote cross-reference (from [[1 Nephi 6#^1ne-6-3|1 Nephi 6:3]])
-- [[Exodus 3]] — 2 parallel verses, e.g. [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Alma 36]] — 1 parallel verse, e.g. [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
 - [[Luke 20]] — 1 parallel verse, e.g. [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]

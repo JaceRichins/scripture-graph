@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 14
 slug: alma-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,19 +52,20 @@ Alma 14 traces sharply divided responses to prophetic preaching. Some people bel
 - [[Alma 8]] — 3 footnote cross-references (from [[Alma 14#^alma-14-10|Alma 14:10]])
 - [[Alma 12]] — 2 footnote cross-references (from [[Alma 14#^alma-14-2|Alma 14:2]])
 - [[Mosiah 17]] — 2 footnote cross-references (from [[Alma 14#^alma-14-11|Alma 14:11]])
+- [[Alma 15]] — 4 parallel verses, e.g. [[Alma 14#^alma-14-5|Alma 14:5]] ↔ [[Alma 15#^alma-15-15|Alma 15:15]]
 - [[Alma 20]] — 2 parallel verses, e.g. [[Alma 14#^alma-14-6|Alma 14:6]] ↔ [[Alma 20#^alma-20-27|Alma 20:27]]
 - [[Alma 35]] — 1 parallel verse, e.g. [[Alma 14#^alma-14-7|Alma 14:7]] ↔ [[Alma 35#^alma-35-6|Alma 35:6]]
-- [[Alma 15]] — 0 parallel verses
+- [[Alma 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Alma 1]]
 - [[Records and Sacred Writings]]
 - [[Scripture Study]]
 - [[Final Judgment]]
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

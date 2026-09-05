@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 1
 slug: lev-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Sacrifice** (reference-entry) *(explicit citation)*
+- **Dove, or turtle-dove** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

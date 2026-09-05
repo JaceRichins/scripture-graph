@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 8
 slug: ezra-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

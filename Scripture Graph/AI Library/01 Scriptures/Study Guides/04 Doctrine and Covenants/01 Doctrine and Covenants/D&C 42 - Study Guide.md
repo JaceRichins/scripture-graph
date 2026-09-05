@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 42
 slug: dc-42
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,9 +63,9 @@ This outline describes shifts in subject matter; the text itself does not formal
 - [[D&C 33]] — 2 parallel verses, e.g. [[D&C 42#^dc-42-6|D&C 42:6]] ↔ [[D&C 33#^dc-33-2|D&C 33:2]]
 - [[Helaman 5]] — 1 parallel verse, e.g. [[D&C 42#^dc-42-7|D&C 42:7]] ↔ [[Helaman 5#^hel-5-32|Helaman 5:32]]
 - [[D&C 63]] — 2 parallel verses, e.g. [[D&C 42#^dc-42-23|D&C 42:23]] ↔ [[D&C 63#^dc-63-16|D&C 63:16]]
-- [[D&C 41]] — 3 parallel verses, e.g. [[D&C 42#^dc-42-58|D&C 42:58]] ↔ [[D&C 41#^dc-41-2|D&C 41:2]]
 - [[D&C 34]] — 2 parallel verses, e.g. [[D&C 42#^dc-42-5|D&C 42:5]] ↔ [[D&C 34#^dc-34-10|D&C 34:10]]
 - [[3 Nephi 12]] — 3 parallel verses, e.g. [[D&C 42#^dc-42-58|D&C 42:58]] ↔ [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]]
+- [[D&C 41]] — 3 parallel verses, e.g. [[D&C 42#^dc-42-58|D&C 42:58]] ↔ [[D&C 41#^dc-41-2|D&C 41:2]]
 - [[D&C 55]] — 2 parallel verses, e.g. [[D&C 42#^dc-42-1|D&C 42:1]] ↔ [[D&C 55#^dc-55-2|D&C 55:2]]
 - [[Luke 8]] — 1 parallel verse, e.g. [[D&C 42#^dc-42-65|D&C 42:65]] ↔ [[Luke 8#^luke-8-10|Luke 8:10]]
 <!-- SG:END related-scriptures -->
@@ -100,9 +100,9 @@ Repentance can lead to forgiveness and reconciliation, while unrepentant or repe
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
 - [[“The Principles of My Gospel” (Elder David A. Bednar, April 2021)|“The Principles of My Gospel”]] — Elder David A. Bednar, 2021-April *(explicit citation)*
+- [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 - [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
 - [[A Plea to My Sisters (President Russell M. Nelson, October 2015)|A Plea to My Sisters]] — President Russell M. Nelson, 2015-October *(explicit citation)*
-- [[Serve (Elder Carl B. Cook, October 2016)|Serve]] — Elder Carl B. Cook, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

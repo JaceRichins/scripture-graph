@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 19
 slug: prov-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -50,8 +50,8 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Work and Self-Reliance]]
-- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -68,6 +68,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Almsgiving** (reference-entry) *(explicit citation)*
+- **Dew** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

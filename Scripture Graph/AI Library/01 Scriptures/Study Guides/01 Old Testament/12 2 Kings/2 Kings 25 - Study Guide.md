@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 25
 slug: 2kgs-25
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -61,8 +61,8 @@ Scripture: [[2 Kings 25]] · My notes: [[2 Kings 25 - My Notes]]
 - [[Jeremiah 39]] — 7 parallel verses, e.g. [[2 Kings 25#^2kgs-25-12|2 Kings 25:12]] ↔ [[Jeremiah 39#^jer-39-10|Jeremiah 39:10]]
 - [[Jeremiah 41]] — 4 parallel verses, e.g. [[2 Kings 25#^2kgs-25-25|2 Kings 25:25]] ↔ [[Jeremiah 41#^jer-41-1|Jeremiah 41:1]]
 - [[Jeremiah 43]] — 2 parallel verses, e.g. [[2 Kings 25#^2kgs-25-22|2 Kings 25:22]] ↔ [[Jeremiah 43#^jer-43-6|Jeremiah 43:6]]
-- [[1 Kings 9]] — 2 parallel verses, e.g. [[2 Kings 25#^2kgs-25-9|2 Kings 25:9]] ↔ [[1 Kings 9#^1kgs-9-1|1 Kings 9:1]]
 - [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Kings 25#^2kgs-25-26|2 Kings 25:26]] ↔ [[2 Kings 23#^2kgs-23-2|2 Kings 23:2]]
+- [[1 Kings 9]] — 2 parallel verses, e.g. [[2 Kings 25#^2kgs-25-9|2 Kings 25:9]] ↔ [[1 Kings 9#^1kgs-9-1|1 Kings 9:1]]
 - [[Ezekiel 24]] — 1 parallel verse, e.g. [[2 Kings 25#^2kgs-25-1|2 Kings 25:1]] ↔ [[Ezekiel 24#^ezek-24-1|Ezekiel 24:1]]
 - [[Genesis 8]] — 1 parallel verse, e.g. [[2 Kings 25#^2kgs-25-27|2 Kings 25:27]] ↔ [[Genesis 8#^gen-8-14|Genesis 8:14]]
 - [[2 Chronicles 7]] — 1 parallel verse, e.g. [[2 Kings 25#^2kgs-25-9|2 Kings 25:9]] ↔ [[2 Chronicles 7#^2chr-7-11|2 Chronicles 7:11]]
@@ -75,8 +75,8 @@ Scripture: [[2 Kings 25]] · My notes: [[2 Kings 25 - My Notes]]
 - [[Scattering of Israel]]
 - [[Prophecy]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -96,6 +96,7 @@ The distinction between deportees and those left to cultivate the land is also i
 <!-- SG:BEGIN history -->
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
+- **Captivities of the Israelites** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

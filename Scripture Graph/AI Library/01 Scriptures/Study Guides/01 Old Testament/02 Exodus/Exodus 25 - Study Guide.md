@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 25
 slug: ex-25
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,9 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
+- **Candlestick** (reference-entry) *(explicit citation)*
+- **Cherubim** (reference-entry) *(explicit citation)*
+- **Commandments, the Ten** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -88,13 +88,13 @@ cssclasses:
 > [[Genesis 1#^gen-1-25|≈ Genesis 1:25]] · [[Genesis 1#^gen-1-30|≈ Genesis 1:30]] · [[Moses 2#^moses-2-25|≈ Moses 2:25]] · [[Genesis 7#^gen-7-14|≈ Genesis 7:14]] · [[Genesis 7#^gen-7-8|≈ Genesis 7:8]]
 
 ![[Abraham 4#^abr-4-26]]
-> [[Moses 6#^moses-6-8|Moses 6:9 (8–10)]] · [[Genesis 1#^gen-1-26|≈ Genesis 1:26]] · [[Genesis 1#^gen-1-28|≈ Genesis 1:28]] · [[Genesis 1#^gen-1-30|≈ Genesis 1:30]] · [[Moses 2#^moses-2-26|≈ Moses 2:26]] · [[Moses 2#^moses-2-28|≈ Moses 2:28]] · [[Genesis 7#^gen-7-14|≈ Genesis 7:14]]
+> [[Moses 6#^moses-6-8|Moses 6:9 (8–10)]] · [[Genesis 1#^gen-1-26|≈ Genesis 1:26]] · [[Genesis 1#^gen-1-28|≈ Genesis 1:28]] · [[Genesis 1#^gen-1-30|≈ Genesis 1:30]] · [[Moses 2#^moses-2-26|≈ Moses 2:26]] · [[Moses 2#^moses-2-28|≈ Moses 2:28]] · [[Psalm 8#^ps-8-8|≈ Psalm 8:8]]
 
 ![[Abraham 4#^abr-4-27]]
 > [[Genesis 1#^gen-1-26|Gen. 1:26]] · [[Abraham 5#^abr-5-7|Abr. 5:7]]
 
 ![[Abraham 4#^abr-4-28]]
-> [[Genesis 1#^gen-1-28|≈ Genesis 1:28]] · [[Genesis 1#^gen-1-26|≈ Genesis 1:26]] · [[Moses 2#^moses-2-28|≈ Moses 2:28]] · [[Moses 2#^moses-2-26|≈ Moses 2:26]] · [[Genesis 9#^gen-9-1|≈ Genesis 9:1]] · [[Psalm 8#^ps-8-8|≈ Psalm 8:8]]
+> [[Genesis 1#^gen-1-28|≈ Genesis 1:28]] · [[Genesis 1#^gen-1-26|≈ Genesis 1:26]] · [[Moses 2#^moses-2-28|≈ Moses 2:28]] · [[Moses 2#^moses-2-26|≈ Moses 2:26]] · [[Psalm 8#^ps-8-8|≈ Psalm 8:8]] · [[Genesis 9#^gen-9-1|≈ Genesis 9:1]]
 
 ![[Abraham 4#^abr-4-29]]
 > [[Genesis 1#^gen-1-29|Gen. 1:29 (29–30)]] · [[Genesis 1#^gen-1-29|≈ Genesis 1:29]] · [[Moses 2#^moses-2-29|≈ Moses 2:29]] · [[Genesis 7#^gen-7-3|≈ Genesis 7:3]] · [[Genesis 11#^gen-11-8|≈ Genesis 11:8]] · [[Genesis 11#^gen-11-9|≈ Genesis 11:9]]

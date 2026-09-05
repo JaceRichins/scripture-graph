@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 7
 slug: 1kgs-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -86,7 +86,7 @@ Verse 51 also presents an intergenerational act of [[Consecration]]: David had d
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Candlestick** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

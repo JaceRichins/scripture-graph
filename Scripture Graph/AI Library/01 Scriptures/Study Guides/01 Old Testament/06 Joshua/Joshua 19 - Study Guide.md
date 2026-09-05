@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 19
 slug: josh-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -83,7 +83,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Beth-shemesh** (reference-entry) *(explicit citation)*
 - **Asher** (reference-entry) *(explicit citation)*
+- **Beersheba** (reference-entry) *(explicit citation)*
+- **Bethlehem** (reference-entry) *(explicit citation)*
+- **Dan** (reference-entry) *(explicit citation)*
+- **Edrei** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

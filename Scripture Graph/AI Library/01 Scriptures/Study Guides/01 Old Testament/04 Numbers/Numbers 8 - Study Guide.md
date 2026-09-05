@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 8
 slug: num-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

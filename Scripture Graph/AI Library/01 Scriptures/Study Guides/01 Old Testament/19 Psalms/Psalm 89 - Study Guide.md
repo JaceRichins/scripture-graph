@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 89
 slug: ps-89
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

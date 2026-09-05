@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 19
 slug: ex-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ _Not yet developed._
 - **Latter Day Saints' Messenger and Advocate 1836-06-01 (Vol. 2 No. 9)** (periodical, 1836-06-01) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
+- **Commandments, the Ten** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

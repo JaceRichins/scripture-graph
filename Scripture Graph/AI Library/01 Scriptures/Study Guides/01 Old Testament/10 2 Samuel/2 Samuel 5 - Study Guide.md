@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 5
 slug: 2sam-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,7 +80,7 @@ David's kingship is grounded in covenant: the elders make a league with him "bef
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -89,6 +89,7 @@ _Not yet developed._
 - **Zion** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
 - **Architecture** (reference-entry) *(explicit citation)*
+- **David** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

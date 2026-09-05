@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 8
 slug: 2kgs-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,10 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Ahaziah** (reference-entry) *(explicit citation)*
 - **Athaliah** (reference-entry) *(explicit citation)*
+- **Camel** (reference-entry) *(explicit citation)*
+- **Chariot** (reference-entry) *(explicit citation)*
+- **Damascus** (reference-entry) *(explicit citation)*
+- **Dog** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

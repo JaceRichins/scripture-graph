@@ -89,7 +89,7 @@ cssclasses:
 ![[Alma 57#^alma-57-29]]
 
 ![[Alma 57#^alma-57-30]]
-> [[Alma 2#^alma-2-22|≈ Alma 2:22]] · [[Alma 27#^alma-27-5|≈ Alma 27:5]]
+> [[Alma 27#^alma-27-5|≈ Alma 27:5]] · [[Alma 2#^alma-2-22|≈ Alma 2:22]]
 
 ![[Alma 57#^alma-57-31]]
 

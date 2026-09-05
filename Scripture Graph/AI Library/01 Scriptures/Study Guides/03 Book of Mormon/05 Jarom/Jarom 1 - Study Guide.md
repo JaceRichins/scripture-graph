@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jarom
 chapter: 1
 slug: jarom-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -48,8 +48,8 @@ _Not yet developed._
 - [[Words of Mormon 1]] — 3 footnote cross-references (from [[Jarom 1#^jarom-1-7|Jarom 1:7]])
 - [[Ether 2]] — 2 footnote cross-references (from [[Jarom 1#^jarom-1-3|Jarom 1:3]])
 - [[Omni 1]] — 3 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
-- [[Alma 37]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
 - [[4 Nephi 1]] — 4 parallel verses, e.g. [[Jarom 1#^jarom-1-5|Jarom 1:5]] ↔ [[4 Nephi 1#^4ne-1-22|4 Nephi 1:22]]
+- [[Alma 37]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Mormon 3]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[Mormon 3#^morm-3-10|Mormon 3:10]]
 - [[1 Nephi 14]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[1 Nephi 14#^1ne-14-7|1 Nephi 14:7]]
@@ -78,6 +78,7 @@ _Not yet developed._
 - [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
 - [[Preserving the Voice of the Covenant People in the Rising Generation (Brother Jan E. Newman, October 2023)|Preserving the Voice of the Covenant People in the Rising Generation]] — Brother Jan E. Newman, 2023-October *(explicit citation)*
 - [[Trusting Our Father (Elder David P. Homer, October 2024)|Trusting Our Father]] — Elder David P. Homer, 2024-October *(explicit citation)*
+- [[Hold On (Ann M. Dibb, October 2009)|Hold On]] — Ann M. Dibb, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

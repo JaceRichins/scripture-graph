@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 3
 slug: gen-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Moses 4]] — 25 parallel verses, e.g. [[Genesis 3#^gen-3-17|Genesis 3:17]] ↔ [[Moses 4#^moses-4-23|Moses 4:23]]
 - [[Alma 42]] — 3 parallel verses, e.g. [[Genesis 3#^gen-3-24|Genesis 3:24]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
 - [[Moses 4]] — 0 parallel verses
+- [[Ecclesiastes 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,8 +74,8 @@ _Not yet developed._
 - [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
 - [[Nourish the Roots, and the Branches Will Grow (Elder Dieter F. Uchtdorf, October 2024)|Nourish the Roots, and the Branches Will Grow]] — Elder Dieter F. Uchtdorf, 2024-October *(explicit citation)*
 - [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
-- [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
-- [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
+- [[Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ (Elder Robert D. Hales, October 2009)|Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ]] — Elder Robert D. Hales, 2009-October *(explicit citation)*
+- [[Two Principles for Any Economy (President Dieter F. Uchtdorf, October 2009)|Two Principles for Any Economy]] — President Dieter F. Uchtdorf, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -86,6 +87,9 @@ _Not yet developed._
 - **Welfare** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1846-01-15 (Vol. 6 No. 21)** (periodical, 1846-01-15) *(explicit citation)*
+- **Bible, English** (reference-entry) *(explicit citation)*
+- **Cherubim** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

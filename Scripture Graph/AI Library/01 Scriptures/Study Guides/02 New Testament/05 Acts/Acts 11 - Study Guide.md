@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 11
 slug: acts-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -61,12 +61,13 @@ Luke lets the reader hear the Gentile-inclusion argument twice — once as narra
 - [[Acts 1]] — 1 parallel verse, e.g. [[Acts 11#^acts-11-16|Acts 11:16]] ↔ [[Acts 1#^acts-1-5|Acts 1:5]]
 - [[Acts 10]] — 0 parallel verses
 - [[Acts 21]] — 0 parallel verses
+- [[Acts 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[Prophecy]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -93,8 +94,14 @@ Luke lets the reader hear the Gentile-inclusion argument twice — once as narra
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Antioch** (reference-entry) *(explicit citation)*
+- **Caesar** (reference-entry) *(explicit citation)*
+- **Caesarea** (reference-entry) *(explicit citation)*
+- **Clean and unclean** (reference-entry) *(explicit citation)*
+- **Cyprus** (reference-entry) *(explicit citation)*
+- **Cyrene** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

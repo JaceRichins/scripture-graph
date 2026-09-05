@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 12
 slug: eccl-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ Verse 7 is the chapter's clearest doctrinal statement: at death "the dust shall 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
+- [[Our Path of Duty (Bishop Keith B. McMullin, April 2010)|Our Path of Duty]] — Bishop Keith B. McMullin, 2010-April *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 - [[Conference Report, October 1924 (General Conference (full report), October 1924)|Conference Report, October 1924]] — General Conference (full report), 1924-October *(explicit citation)*
 <!-- SG:END conference -->
@@ -78,6 +79,7 @@ Verse 7 is the chapter's clearest doctrinal statement: at death "the dust shall 
 - **Journal of Discourses, Volume 21** (history, ~1874) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
+- **Ecclesiastes** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

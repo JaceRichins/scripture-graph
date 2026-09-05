@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 21
 slug: job-21
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

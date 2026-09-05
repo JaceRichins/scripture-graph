@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 14
 slug: num-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -93,7 +93,7 @@ Joshua and Caleb illustrate [[Faith]] as confidence grounded in the Lord's prese
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Caleb** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -57,7 +57,7 @@ cssclasses:
 ![[Mosiah 28#^mosiah-28-14]]
 
 ![[Mosiah 28#^mosiah-28-15]]
-> [[1 Nephi 5#^1ne-5-14|≈ 1 Nephi 5:14]] · [[Mosiah 2#^mosiah-2-11|≈ Mosiah 2:11]] · [[Alma 37#^alma-37-4|≈ Alma 37:4]] · [[Mosiah 1#^mosiah-1-5|≈ Mosiah 1:5]]
+> [[Alma 37#^alma-37-4|≈ Alma 37:4]] · [[1 Nephi 5#^1ne-5-14|≈ 1 Nephi 5:14]] · [[Mosiah 2#^mosiah-2-11|≈ Mosiah 2:11]] · [[Mosiah 1#^mosiah-1-5|≈ Mosiah 1:5]]
 
 ![[Mosiah 28#^mosiah-28-16]]
 > [[Mosiah 8#^mosiah-8-13|Mosiah 8:13 (13–18)]]

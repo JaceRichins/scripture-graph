@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 6
 slug: 2ne-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ Jacob, having already taught the Nephites extensively (v.3), turns to a direct r
 - [[2 Nephi 11]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]])
 - [[Jacob 2]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]])
 - [[Isaiah 49]] — 2 footnote cross-references (from [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]])
+- [[Isaiah 49]] — 5 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
 - [[1 Nephi 21]] — 5 parallel verses, e.g. [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]] ↔ [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]]
 - [[1 Nephi 22]] — 4 parallel verses, e.g. [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]] ↔ [[1 Nephi 22#^1ne-22-13|1 Nephi 22:13]]
 - [[1 Nephi 19]] — 3 parallel verses, e.g. [[2 Nephi 6#^2ne-6-9|2 Nephi 6:9]] ↔ [[1 Nephi 19#^1ne-19-8|1 Nephi 19:8]]
@@ -59,7 +60,6 @@ Jacob, having already taught the Nephites extensively (v.3), turns to a direct r
 - [[Ezekiel 37]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-6|2 Nephi 6:6]] ↔ [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]]
 - [[Jacob 2]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-1|2 Nephi 6:1]] ↔ [[Jacob 2#^jacob-2-1|Jacob 2:1]]
 - [[2 Nephi 1]] — 2 parallel verses, e.g. [[2 Nephi 6#^2ne-6-12|2 Nephi 6:12]] ↔ [[2 Nephi 1#^2ne-1-7|2 Nephi 1:7]]
-- [[1 Nephi 15]] — 1 parallel verse, e.g. [[2 Nephi 6#^2ne-6-11|2 Nephi 6:11]] ↔ [[1 Nephi 15#^1ne-15-14|1 Nephi 15:14]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,8 +68,8 @@ Jacob, having already taught the Nephites extensively (v.3), turns to a direct r
 - [[Jews and Gentiles]]
 - [[Crucifixion of Jesus Christ]]
 - [[2 Nephi 9]]
-- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

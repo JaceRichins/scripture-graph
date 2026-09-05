@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 124
 slug: dc-124
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,8 +77,8 @@ A text-sensitive outline is:
 - [[D&C 82]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-131|D&C 124:131]] ↔ [[D&C 82#^dc-82-8|D&C 82:8]]
 - [[D&C 132]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-1|D&C 124:1]] ↔ [[D&C 132#^dc-132-1|D&C 132:1]]
 - [[D&C 117]] — 3 parallel verses, e.g. [[D&C 124#^dc-124-59|D&C 124:59]] ↔ [[D&C 117#^dc-117-12|D&C 117:12]]
-- [[Matthew 18]] — 1 parallel verse, e.g. [[D&C 124#^dc-124-93|D&C 124:93]] ↔ [[Matthew 18#^matt-18-18|Matthew 18:18]]
 - [[D&C 42]] — 4 parallel verses, e.g. [[D&C 124#^dc-124-106|D&C 124:106]] ↔ [[D&C 42#^dc-42-6|D&C 42:6]]
+- [[Matthew 18]] — 1 parallel verse, e.g. [[D&C 124#^dc-124-93|D&C 124:93]] ↔ [[Matthew 18#^matt-18-18|Matthew 18:18]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

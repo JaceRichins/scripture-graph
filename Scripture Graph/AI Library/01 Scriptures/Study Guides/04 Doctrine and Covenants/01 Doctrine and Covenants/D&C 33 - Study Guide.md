@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 33
 slug: dc-33
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,11 +52,11 @@ D&C 33 commissions Ezra and Northrop to participate in [[Missionary Work]]. Its 
 - [[D&C 12]] — 3 parallel verses, e.g. [[D&C 33#^dc-33-1|D&C 33:1]] ↔ [[D&C 12#^dc-12-2|D&C 12:2]]
 - [[D&C 14]] — 3 parallel verses, e.g. [[D&C 33#^dc-33-1|D&C 33:1]] ↔ [[D&C 14#^dc-14-2|D&C 14:2]]
 - [[2 Nephi 31]] — 2 parallel verses, e.g. [[D&C 33#^dc-33-11|D&C 33:11]] ↔ [[2 Nephi 31#^2ne-31-13|2 Nephi 31:13]]
-- [[Hebrews 4]] — 1 parallel verse, e.g. [[D&C 33#^dc-33-1|D&C 33:1]] ↔ [[Hebrews 4#^heb-4-12|Hebrews 4:12]]
 - [[D&C 42]] — 2 parallel verses, e.g. [[D&C 33#^dc-33-2|D&C 33:2]] ↔ [[D&C 42#^dc-42-6|D&C 42:6]]
+- [[Hebrews 4]] — 1 parallel verse, e.g. [[D&C 33#^dc-33-1|D&C 33:1]] ↔ [[Hebrews 4#^heb-4-12|Hebrews 4:12]]
 - [[D&C 133]] — 1 parallel verse, e.g. [[D&C 33#^dc-33-10|D&C 33:10]] ↔ [[D&C 133#^dc-133-17|D&C 133:17]]
-- [[Matthew 16]] — 1 parallel verse, e.g. [[D&C 33#^dc-33-13|D&C 33:13]] ↔ [[Matthew 16#^matt-16-18|Matthew 16:18]]
 - [[D&C 39]] — 2 parallel verses, e.g. [[D&C 33#^dc-33-11|D&C 33:11]] ↔ [[D&C 39#^dc-39-6|D&C 39:6]]
+- [[Matthew 16]] — 1 parallel verse, e.g. [[D&C 33#^dc-33-13|D&C 33:13]] ↔ [[Matthew 16#^matt-16-18|Matthew 16:18]]
 - [[D&C 4]] — 2 parallel verses, e.g. [[D&C 33#^dc-33-3|D&C 33:3]] ↔ [[D&C 4#^dc-4-4|D&C 4:4]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[D&C 33#^dc-33-10|D&C 33:10]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
 <!-- SG:END related-scriptures -->
@@ -88,6 +88,7 @@ Verse 16 joins the Book of Mormon and other scriptures with the quickening power
 - [[Watch Ye Therefore, and Pray Always (President M. Russell Ballard, October 2020)|Watch Ye Therefore, and Pray Always]] — President M. Russell Ballard, 2020-October *(explicit citation)*
 - [[Approaching the Throne of God with Confidence (Elder Jörg Klebingat, October 2014)|Approaching the Throne of God with Confidence]] — Elder Jörg Klebingat, 2014-October *(explicit citation)*
 - [[Converted unto the Lord (Elder David A. Bednar, October 2012)|Converted unto the Lord]] — Elder David A. Bednar, 2012-October *(explicit citation)*
+- [[Receive the Holy Ghost (Elder David A. Bednar, October 2010)|Receive the Holy Ghost]] — Elder David A. Bednar, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

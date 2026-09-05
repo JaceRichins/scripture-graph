@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 19
 slug: 1kgs-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -82,7 +82,8 @@ The chapter is a key text on [[Revelation]]: divine communication is not confine
 - [[Promptings of the Spirit (Elder Gary E. Stevenson, October 2023)|Promptings of the Spirit]] — Elder Gary E. Stevenson, 2023-October *(explicit citation)*
 - [[The Words of Christ and the Holy Ghost Will Lead Us to the Truth (Elder Takashi Wada, October 2024)|The Words of Christ and the Holy Ghost Will Lead Us to the Truth]] — Elder Takashi Wada, 2024-October *(explicit citation)*
 - [[Know Who You Really Are (Elder Brik V. Eyre, October 2025)|Know Who You Really Are]] — Elder Brik V. Eyre, 2025-October *(explicit citation)*
-- [[The Spirit of Revelation (Elder David A. Bednar, April 2011)|The Spirit of Revelation]] — Elder David A. Bednar, 2011-April *(explicit citation)*
+- [[Finding Strength in Challenging Times! (Elder Allan F. Packer, April 2009)|Finding Strength in Challenging Times!]] — Elder Allan F. Packer, 2009-April *(explicit citation)*
+- [[Helping Others Recognize the Whisperings of the Spirit (Vicki F. Matsumori, October 2009)|Helping Others Recognize the Whisperings of the Spirit]] — Vicki F. Matsumori, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

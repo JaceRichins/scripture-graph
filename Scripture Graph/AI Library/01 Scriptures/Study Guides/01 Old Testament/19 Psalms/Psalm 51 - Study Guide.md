@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 51
 slug: ps-51
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,8 @@ Verse 5 portrays sinfulness as reaching back to life's beginning, but it does no
 ## Church History
 <!-- SG:BEGIN history -->
 - **Sacrifice** (reference-entry) *(explicit citation)*
+- **Conversion** (reference-entry) *(explicit citation)*
+- **David** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

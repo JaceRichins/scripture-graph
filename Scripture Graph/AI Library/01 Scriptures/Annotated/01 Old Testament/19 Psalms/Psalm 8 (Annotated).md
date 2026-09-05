@@ -33,6 +33,6 @@ cssclasses:
 ![[Psalm 8#^ps-8-7]]
 
 ![[Psalm 8#^ps-8-8]]
-> [[Genesis 1#^gen-1-26|≈ Genesis 1:26]] · [[Genesis 1#^gen-1-28|≈ Genesis 1:28]] · [[Abraham 4#^abr-4-26|≈ Abraham 4:26]] · [[Abraham 4#^abr-4-28|≈ Abraham 4:28]]
+> [[Abraham 4#^abr-4-26|≈ Abraham 4:26]] · [[Abraham 4#^abr-4-28|≈ Abraham 4:28]] · [[Genesis 1#^gen-1-26|≈ Genesis 1:26]] · [[Genesis 1#^gen-1-28|≈ Genesis 1:28]]
 
 ![[Psalm 8#^ps-8-9]]

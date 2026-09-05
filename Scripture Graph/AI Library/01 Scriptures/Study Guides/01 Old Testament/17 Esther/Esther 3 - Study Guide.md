@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 3
 slug: esth-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -62,7 +62,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[May You Have Courage (President Thomas S. Monson, April 2009)|May You Have Courage]] — President Thomas S. Monson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

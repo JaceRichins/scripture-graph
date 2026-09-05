@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 14
 slug: rev-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,10 +73,10 @@ _Not yet developed._
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
 - [[Fulfillment of Prophecy (Elder Ronald A. Rasband, April 2020)|Fulfillment of Prophecy]] — Elder Ronald A. Rasband, 2020-April *(explicit citation)*
 - [[All Nations, Kindreds, and Tongues (Elder Gerrit W. Gong, October 2020)|All Nations, Kindreds, and Tongues]] — Elder Gerrit W. Gong, 2020-October *(explicit citation)*
+- [[Continue in Patience (President Dieter F. Uchtdorf, April 2010)|Continue in Patience]] — President Dieter F. Uchtdorf, 2010-April *(explicit citation)*
 - [[Conference Report, April 1927 (General Conference (full report), April 1927)|Conference Report, April 1927]] — General Conference (full report), 1927-April *(explicit citation)*
 - [[Conference Report, October 1918 (General Conference (full report), October 1918)|Conference Report, October 1918]] — General Conference (full report), 1918-October *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
-- [[Conference Report, October 1928 (General Conference (full report), October 1928)|Conference Report, October 1928]] — General Conference (full report), 1928-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -90,6 +90,7 @@ _Not yet developed._
 - **Times and Seasons 1842-07-15 (Vol. 3 No. 18)** (periodical, 1842-07-15) *(explicit citation)*
 - **Times and Seasons 1845-02-15 (Vol. 6 No. 3)** (periodical, 1845-02-15) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-01-01 (Vol. 3 No. 4)** (periodical, 1837-01-01) *(explicit citation)*
+- **Babylon or Babel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 5
 slug: moses-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -107,6 +107,7 @@ The final verses assert continuity of the [[Gospel of Jesus Christ]] from the be
 ## Church History
 <!-- SG:BEGIN history -->
 - **Family** (reference-entry) *(explicit citation)*
+- **Cain** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
@@ -115,7 +116,6 @@ The final verses assert continuity of the [[Gospel of Jesus Christ]] from the be
 - **Creation** (reference-entry) *(explicit citation)*
 - **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
-- **Hope** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 29
 slug: prov-29
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

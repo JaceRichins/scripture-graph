@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 35
 slug: gen-35
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
+- **Benjamin** (reference-entry) *(explicit citation)*
+- **Bethlehem** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

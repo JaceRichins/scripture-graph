@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 5
 slug: 1pet-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,9 @@ _Not yet developed._
 - **Grace** (reference-entry) *(explicit citation)*
 - **Humility** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-06-01 (Vol. 3 No. 9)** (periodical, 1837-06-01) *(explicit citation)*
+- **Babylon or Babel** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Devil** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 3
 slug: ex-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,7 @@ The chapter presents [[Revelation]] as disclosure for a mission: God reveals who
 ## Church History
 <!-- SG:BEGIN history -->
 - **Bible** (reference-entry) *(explicit citation)*
+- **Burning bush** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

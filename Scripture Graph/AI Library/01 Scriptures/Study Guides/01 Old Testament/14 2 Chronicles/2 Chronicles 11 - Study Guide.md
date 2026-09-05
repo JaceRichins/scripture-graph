@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 11
 slug: 2chr-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Absalom** (reference-entry) *(explicit citation)*
+- **Bethlehem** (reference-entry) *(explicit citation)*
+- **Calves, golden, worship of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

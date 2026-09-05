@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 10
 slug: acts-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,7 +52,7 @@ Scripture: [[Acts 10]] · My notes: [[Acts 10 - My Notes]]
 - [[2 Nephi 32]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-3|Acts 10:3]])
 - [[Moroni 7]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-3|Acts 10:3]])
 - [[1 Samuel 9]] — 1 footnote cross-reference (from [[Acts 10#^acts-10-9|Acts 10:9]])
-- [[Acts 11]] — 0 parallel verses
+- [[Acts 11]] — 4 parallel verses, e.g. [[Acts 10#^acts-10-12|Acts 10:12]] ↔ [[Acts 11#^acts-11-6|Acts 11:6]]
 - [[Acts 2]] — 0 parallel verses
 - [[Acts 8]] — 0 parallel verses
 - [[D&C 112]] — 0 parallel verses
@@ -61,12 +61,12 @@ Scripture: [[Acts 10]] · My notes: [[Acts 10 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[Gift of Tongues]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Repentance and Forgiveness]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -103,9 +103,9 @@ The Gentiles receive the [[Gift of the Holy Ghost]] before [[Baptism]] (Acts 10:
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Racial and Cultural Prejudice** (reference-entry) *(explicit citation)*
 - **01 Ask in Faith** (history) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
-- **Fasting** (reference-entry) *(explicit citation)*
-- **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

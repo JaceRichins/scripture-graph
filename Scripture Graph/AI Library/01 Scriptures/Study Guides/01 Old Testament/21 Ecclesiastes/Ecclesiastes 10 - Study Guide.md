@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 10
 slug: eccl-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

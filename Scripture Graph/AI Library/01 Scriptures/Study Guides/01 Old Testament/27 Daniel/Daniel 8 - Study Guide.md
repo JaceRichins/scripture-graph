@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 8
 slug: dan-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

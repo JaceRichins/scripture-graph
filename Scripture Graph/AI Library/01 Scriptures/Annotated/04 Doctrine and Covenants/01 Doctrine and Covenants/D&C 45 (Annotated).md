@@ -35,7 +35,7 @@ cssclasses:
 > [[John 9#^john-9-4|John 9:4]] · [[Hebrews 3#^heb-3-13|Heb. 3:13]] · [[D&C 64#^dc-64-23|D&amp;C 64:23 (23–25)]] · [[D&C 46#^dc-46-1|≈ D&C 46:1]] · [[D&C 133#^dc-133-1|≈ D&C 133:1]] · [[D&C 1#^dc-1-1|≈ D&C 1:1]] · [[D&C 136#^dc-136-41|≈ D&C 136:41]]
 
 ![[D&C 45#^dc-45-7]]
-> [[Revelation 1#^rev-1-8|Rev. 1:8]] · [[Revelation 21#^rev-21-6|21:6]] · [[D&C 19#^dc-19-1|D&amp;C 19:1]] · [[John 1#^john-1-5|John 1:5]] · [[D&C 88#^dc-88-49|≈ D&C 88:49]] · [[D&C 61#^dc-61-1|≈ D&C 61:1]] · [[D&C 6#^dc-6-21|≈ D&C 6:21]] · [[Revelation 1#^rev-1-8|≈ Revelation 1:8]] · [[Revelation 21#^rev-21-6|≈ Revelation 21:6]] · [[Revelation 22#^rev-22-13|≈ Revelation 22:13]]
+> [[Revelation 1#^rev-1-8|Rev. 1:8]] · [[Revelation 21#^rev-21-6|21:6]] · [[D&C 19#^dc-19-1|D&amp;C 19:1]] · [[John 1#^john-1-5|John 1:5]] · [[D&C 61#^dc-61-1|≈ D&C 61:1]] · [[D&C 88#^dc-88-49|≈ D&C 88:49]] · [[D&C 6#^dc-6-21|≈ D&C 6:21]] · [[Revelation 1#^rev-1-8|≈ Revelation 1:8]] · [[Revelation 21#^rev-21-6|≈ Revelation 21:6]] · [[Revelation 22#^rev-22-13|≈ Revelation 22:13]]
 
 ![[D&C 45#^dc-45-8]]
 > [[2 Peter 1#^2pet-1-2|2 Pet. 1:3 (2–4)]] · [[D&C 6#^dc-6-21|≈ D&C 6:21]] · [[D&C 10#^dc-10-57|≈ D&C 10:57]] · [[D&C 39#^dc-39-3|≈ D&C 39:3]] · [[D&C 39#^dc-39-4|≈ D&C 39:4]] · [[3 Nephi 9#^3ne-9-17|≈ 3 Nephi 9:17]] · [[D&C 11#^dc-11-29|≈ D&C 11:29]]
@@ -73,7 +73,7 @@ cssclasses:
 > [[Psalm 79#^ps-79-1|Ps. 79:3 (1–4)]] · [[Luke 21#^luke-21-20|Luke 21:20 (20–24)]]
 
 ![[D&C 45#^dc-45-20]]
-> [[Matthew 24#^matt-24-1|Matt. 24:1 (1–3)]] · [[Luke 21#^luke-21-5|Luke 21:6 (5–6)]] · [[Luke 21#^luke-21-6|≈ Luke 21:6]] · [[Mark 13#^mark-13-2|≈ Mark 13:2]]
+> [[Matthew 24#^matt-24-1|Matt. 24:1 (1–3)]] · [[Luke 21#^luke-21-5|Luke 21:6 (5–6)]] · [[Mark 13#^mark-13-2|≈ Mark 13:2]] · [[Luke 21#^luke-21-6|≈ Luke 21:6]]
 
 ![[D&C 45#^dc-45-21]]
 > [[Mark 13#^mark-13-30|Mark 13:30]] · [[Joseph Smith—Matthew 1#^jsm-1-34|JS—M 1:34]] · [[Matthew 24#^matt-24-34|Matt. 24:34]]
@@ -128,7 +128,7 @@ cssclasses:
 > [[Joseph Smith—Matthew 1#^jsm-1-39|≈ Joseph Smith—Matthew 1:39]]
 
 ![[D&C 45#^dc-45-39]]
-> [[Job 1#^job-1-1|Job 1:1]] · [[D&C 10#^dc-10-55|D&amp;C 10:56 (55–56)]] · [[2 Peter 3#^2pet-3-10|2 Pet. 3:12 (10–13)]] · [[D&C 35#^dc-35-15|D&amp;C 35:15 (15–16)]] · [[D&C 49#^dc-49-23|49:23]] · [[Moses 7#^moses-7-62|Moses 7:62]] · [[D&C 68#^dc-68-11|D&amp;C 68:11]] · [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]] · [[Matthew 24#^matt-24-39|≈ Matthew 24:39]]
+> [[Job 1#^job-1-1|Job 1:1]] · [[D&C 10#^dc-10-55|D&amp;C 10:56 (55–56)]] · [[2 Peter 3#^2pet-3-10|2 Pet. 3:12 (10–13)]] · [[D&C 35#^dc-35-15|D&amp;C 35:15 (15–16)]] · [[D&C 49#^dc-49-23|49:23]] · [[Moses 7#^moses-7-62|Moses 7:62]] · [[D&C 68#^dc-68-11|D&amp;C 68:11]] · [[D&C 64#^dc-64-23|≈ D&C 64:23]] · [[D&C 68#^dc-68-11|≈ D&C 68:11]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]]
 
 ![[D&C 45#^dc-45-40]]
 > [[Joel 2#^joel-2-30|Joel 2:30]] · [[2 Nephi 29#^2ne-29-7|≈ 2 Nephi 29:7]] · [[Abraham 3#^abr-3-21|≈ Abraham 3:21]]
@@ -148,7 +148,7 @@ cssclasses:
 > [[D&C 29#^dc-29-13|D&amp;C 29:13]] · [[D&C 43#^dc-43-18|43:18]] · [[D&C 88#^dc-88-96|D&amp;C 88:97 (96–97)]] · [[D&C 133#^dc-133-56|133:56]] · [[1 Thessalonians 4#^1thes-4-17|1 Thes. 4:17]]
 
 ![[D&C 45#^dc-45-46]]
-> [[Alma 40#^alma-40-12|Alma 40:12]] · [[Isaiah 55#^isa-55-3|Isa. 55:3]] · [[Amos 5#^amos-5-6|Amos 5:6]] · [[D&C 88#^dc-88-63|D&amp;C 88:63]] · [[D&C 101#^dc-101-38|101:38]] · [[Psalm 121#^ps-121-7|Ps. 121:7]] · [[D&C 33#^dc-33-6|D&amp;C 33:6]] · [[Moses 7#^moses-7-62|≈ Moses 7:62]] · [[Joseph Smith—Matthew 1#^jsm-1-27|≈ Joseph Smith—Matthew 1:27]] · [[3 Nephi 5#^3ne-5-24|≈ 3 Nephi 5:24]]
+> [[Alma 40#^alma-40-12|Alma 40:12]] · [[Isaiah 55#^isa-55-3|Isa. 55:3]] · [[Amos 5#^amos-5-6|Amos 5:6]] · [[D&C 88#^dc-88-63|D&amp;C 88:63]] · [[D&C 101#^dc-101-38|101:38]] · [[Psalm 121#^ps-121-7|Ps. 121:7]] · [[D&C 33#^dc-33-6|D&amp;C 33:6]] · [[Moses 7#^moses-7-62|≈ Moses 7:62]] · [[Joseph Smith—Matthew 1#^jsm-1-27|≈ Joseph Smith—Matthew 1:27]] · [[1 Nephi 22#^1ne-22-25|≈ 1 Nephi 22:25]]
 
 ![[D&C 45#^dc-45-47]]
 > [[D&C 1#^dc-1-13|D&amp;C 1:14 (13–14)]] · [[D&C 35#^dc-35-14|35:14]]
@@ -160,7 +160,7 @@ cssclasses:
 > [[D&C 29#^dc-29-14|D&amp;C 29:15 (14–21)]] · [[D&C 87#^dc-87-6|87:6]] · [[2 Timothy 3#^2tim-3-9|2 Tim. 3:9]] · [[D&C 97#^dc-97-19|≈ D&C 97:19]] · [[Mosiah 15#^mosiah-15-31|≈ Mosiah 15:31]] · [[3 Nephi 16#^3ne-16-20|≈ 3 Nephi 16:20]] · [[D&C 133#^dc-133-3|≈ D&C 133:3]]
 
 ![[D&C 45#^dc-45-50]]
-> [[Isaiah 29#^isa-29-20|Isa. 29:20]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]] · [[D&C 97#^dc-97-7|≈ D&C 97:7]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]]
+> [[Isaiah 29#^isa-29-20|Isa. 29:20]] · [[D&C 97#^dc-97-7|≈ D&C 97:7]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]]
 
 ![[D&C 45#^dc-45-51]]
 > [[Zechariah 12#^zech-12-10|Zech. 12:10]] · [[Zechariah 13#^zech-13-6|≈ Zechariah 13:6]]
@@ -181,7 +181,7 @@ cssclasses:
 > [[Matthew 25#^matt-25-1|Matt. 25:1 (1–13)]] · [[D&C 63#^dc-63-54|D&amp;C 63:54]] · [[3 Nephi 28#^3ne-28-7|≈ 3 Nephi 28:7]] · [[3 Nephi 28#^3ne-28-8|≈ 3 Nephi 28:8]]
 
 ![[D&C 45#^dc-45-57]]
-> [[D&C 29#^dc-29-9|D&amp;C 29:9 (9, 21, 23)]] · [[D&C 63#^dc-63-34|63:34 (34, 54)]] · [[D&C 64#^dc-64-24|64:24]] · [[D&C 88#^dc-88-94|88:94]] · [[D&C 101#^dc-101-23|101:24 (23–25)]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]] · [[D&C 97#^dc-97-7|≈ D&C 97:7]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]]
+> [[D&C 29#^dc-29-9|D&amp;C 29:9 (9, 21, 23)]] · [[D&C 63#^dc-63-34|63:34 (34, 54)]] · [[D&C 64#^dc-64-24|64:24]] · [[D&C 88#^dc-88-94|88:94]] · [[D&C 101#^dc-101-23|101:24 (23–25)]] · [[D&C 97#^dc-97-7|≈ D&C 97:7]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]]
 
 ![[D&C 45#^dc-45-58]]
 > [[Isaiah 29#^isa-29-19|Isa. 29:19]] · [[Matthew 5#^matt-5-5|Matt. 5:5]] · [[Colossians 1#^col-1-12|Col. 1:12]] · [[2 Nephi 9#^2ne-9-18|2 Ne. 9:18]] · [[D&C 38#^dc-38-16|D&amp;C 38:20 (16–20)]] · [[D&C 56#^dc-56-20|56:20]] · [[Genesis 1#^gen-1-20|Gen. 1:22 (20–25)]] · [[Jeremiah 30#^jer-30-19|Jer. 30:19]] · [[D&C 63#^dc-63-51|D&amp;C 63:51]] · [[D&C 101#^dc-101-29|101:30 (29–31)]]

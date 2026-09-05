@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 19
 slug: acts-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Acts 17]] — 1 footnote cross-reference (from [[Acts 19#^acts-19-8|Acts 19:8]])
 - [[2 Kings 4]] — 1 footnote cross-reference (from [[Acts 19#^acts-19-12|Acts 19:12]])
 - [[Acts 8]] — 2 parallel verses, e.g. [[Acts 19#^acts-19-5|Acts 19:5]] ↔ [[Acts 8#^acts-8-16|Acts 8:16]]
+- [[Acts 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +68,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
+- [[Receive the Holy Ghost (Elder David A. Bednar, October 2010)|Receive the Holy Ghost]] — Elder David A. Bednar, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -75,6 +77,11 @@ _Not yet developed._
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1844-12-01 (Vol. 5 No. 22)** (periodical, 1844-12-01) *(explicit citation)*
 - **Alexander** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Confirmation** (reference-entry) *(explicit citation)*
+- **Devil** (reference-entry) *(explicit citation)*
+- **Diana** (reference-entry) *(explicit citation)*
+- **Dispersion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

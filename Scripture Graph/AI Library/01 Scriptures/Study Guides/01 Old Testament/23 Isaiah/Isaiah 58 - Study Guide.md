@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 58
 slug: isa-58
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -70,9 +70,9 @@ _Not yet developed._
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
 - [[Are We Not All Beggars (Elder Jeffrey R. Holland, October 2014)|Are We Not All Beggars?]] — Elder Jeffrey R. Holland, 2014-October *(explicit citation)*
 - [[The Law of the Fast A Personal Responsibility to Care for the Poor and Needy (Bishop Dean M. Davies, October 2014)|The Law of the Fast: A Personal Responsibility to Care for the Poor and Needy]] — Bishop Dean M. Davies, 2014-October *(explicit citation)*
+- [[Stewardship—a Sacred Trust (Elder Quentin L. Cook, October 2009)|Stewardship—a Sacred Trust]] — Elder Quentin L. Cook, 2009-October *(explicit citation)*
 - [[God Is at the Helm (Elder M. Russell Ballard, October 2015)|God Is at the Helm]] — Elder M. Russell Ballard, 2015-October *(explicit citation)*
 - [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
-- [[Abiding in God and Repairing the Breach (Neill F. Marriott, October 2017)|Abiding in God and Repairing the Breach]] — Neill F. Marriott, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

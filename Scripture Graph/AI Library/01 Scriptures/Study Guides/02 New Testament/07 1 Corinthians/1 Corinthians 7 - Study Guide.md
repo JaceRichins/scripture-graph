@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 7
 slug: 1cor-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -64,11 +64,13 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
 - [[Hallmarks of Happiness (Elder Gary B. Sabin, October 2023)|Hallmarks of Happiness]] — Elder Gary B. Sabin, 2023-October *(explicit citation)*
+- [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
+- **Divorce** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

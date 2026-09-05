@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 106
 slug: ps-106
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -93,7 +93,7 @@ Moses' action in verse 23 illustrates mediation: he stands "in the breach" and t
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

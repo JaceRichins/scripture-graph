@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 4
 slug: 1ne-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,8 @@ The chapter's theological logic is specific rather than abstract: the Lord's com
 <!-- SG:BEGIN history -->
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
+- **Canon** (reference-entry) *(explicit citation)*
+- **Church** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

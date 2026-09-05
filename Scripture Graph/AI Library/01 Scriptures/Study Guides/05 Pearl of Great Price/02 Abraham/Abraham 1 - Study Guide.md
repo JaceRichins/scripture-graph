@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 1
 slug: abr-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -64,8 +64,8 @@ Verses 15–20 form the main narrative pivot from threatened death to deliveranc
 - [[Records and Sacred Writings]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Priesthood]] *(keyword match — unconfirmed)*
-- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -85,6 +85,7 @@ Verse 30 likewise requires precision about [[Repentance]]: it says Abraham's fat
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
 - [[The Greatest Leaders Are the Greatest Followers (Stephen W. Owen, April 2016)|The Greatest Leaders Are the Greatest Followers]] — Stephen W. Owen, 2016-April *(explicit citation)*
 - [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
+- [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

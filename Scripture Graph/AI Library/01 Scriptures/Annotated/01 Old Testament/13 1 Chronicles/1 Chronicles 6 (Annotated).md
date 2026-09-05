@@ -171,7 +171,7 @@ cssclasses:
 > [[Joshua 21#^josh-21-6|≈ Joshua 21:6]] · [[Joshua 21#^josh-21-28|≈ Joshua 21:28]] · [[Joshua 21#^josh-21-30|≈ Joshua 21:30]] · [[Joshua 21#^josh-21-32|≈ Joshua 21:32]]
 
 ![[1 Chronicles 6#^1chr-6-63]]
-> [[Joshua 21#^josh-21-7|≈ Joshua 21:7]] · [[Joshua 21#^josh-21-36|≈ Joshua 21:36]] · [[Joshua 21#^josh-21-38|≈ Joshua 21:38]] · [[Joshua 20#^josh-20-8|≈ Joshua 20:8]]
+> [[Joshua 20#^josh-20-8|≈ Joshua 20:8]] · [[Joshua 21#^josh-21-7|≈ Joshua 21:7]] · [[Joshua 21#^josh-21-36|≈ Joshua 21:36]] · [[Joshua 21#^josh-21-38|≈ Joshua 21:38]]
 
 ![[1 Chronicles 6#^1chr-6-64]]
 > [[Joshua 21#^josh-21-8|≈ Joshua 21:8]]
@@ -180,7 +180,7 @@ cssclasses:
 > [[Joshua 21#^josh-21-9|≈ Joshua 21:9]] · [[Joshua 21#^josh-21-4|≈ Joshua 21:4]] · [[Joshua 21#^josh-21-5|≈ Joshua 21:5]] · [[Joshua 21#^josh-21-6|≈ Joshua 21:6]] · [[Numbers 10#^num-10-19|≈ Numbers 10:19]] · [[Numbers 10#^num-10-24|≈ Numbers 10:24]]
 
 ![[1 Chronicles 6#^1chr-6-66]]
-> [[Joshua 21#^josh-21-20|Josh. 21:20 (20–26)]] · [[Joshua 21#^josh-21-5|≈ Joshua 21:5]] · [[Numbers 3#^num-3-29|≈ Numbers 3:29]] · [[Numbers 4#^num-4-28|≈ Numbers 4:28]] · [[Numbers 4#^num-4-33|≈ Numbers 4:33]] · [[Numbers 4#^num-4-41|≈ Numbers 4:41]] · [[Numbers 4#^num-4-42|≈ Numbers 4:42]]
+> [[Joshua 21#^josh-21-20|Josh. 21:20 (20–26)]] · [[Numbers 3#^num-3-29|≈ Numbers 3:29]] · [[Numbers 4#^num-4-28|≈ Numbers 4:28]] · [[Numbers 4#^num-4-33|≈ Numbers 4:33]] · [[Numbers 4#^num-4-41|≈ Numbers 4:41]] · [[Numbers 4#^num-4-42|≈ Numbers 4:42]] · [[Numbers 4#^num-4-45|≈ Numbers 4:45]]
 
 ![[1 Chronicles 6#^1chr-6-67]]
 
@@ -213,7 +213,7 @@ cssclasses:
 > [[Joshua 21#^josh-21-34|Josh. 21:34 (34–39)]] · [[Joshua 21#^josh-21-34|≈ Joshua 21:34]] · [[Joshua 21#^josh-21-5|≈ Joshua 21:5]]
 
 ![[1 Chronicles 6#^1chr-6-78]]
-> [[Joshua 21#^josh-21-36|≈ Joshua 21:36]] · [[Joshua 20#^josh-20-8|≈ Joshua 20:8]]
+> [[Joshua 20#^josh-20-8|≈ Joshua 20:8]] · [[Joshua 21#^josh-21-36|≈ Joshua 21:36]]
 
 ![[1 Chronicles 6#^1chr-6-79]]
 > [[Joshua 21#^josh-21-37|≈ Joshua 21:37]]

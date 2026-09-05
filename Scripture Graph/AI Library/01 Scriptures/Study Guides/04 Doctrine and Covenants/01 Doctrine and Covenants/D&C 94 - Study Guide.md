@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 94
 slug: dc-94
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -51,8 +51,8 @@ The chapter proceeds in five movements:
 - [[D&C 97]] — 2 footnote cross-references (from [[D&C 94#^dc-94-2|D&C 94:2]])
 - [[D&C 107]] — 2 footnote cross-references (from [[D&C 94#^dc-94-3|D&C 94:3]])
 - [[D&C 68]] — 1 footnote cross-reference (from [[D&C 94#^dc-94-1|D&C 94:1]])
-- [[D&C 100]] — 1 parallel verse, e.g. [[D&C 94#^dc-94-1|D&C 94:1]] ↔ [[D&C 100#^dc-100-7|D&C 100:7]]
 - [[D&C 88]] — 1 parallel verse, e.g. [[D&C 94#^dc-94-1|D&C 94:1]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
+- [[D&C 100]] — 1 parallel verse, e.g. [[D&C 94#^dc-94-1|D&C 94:1]] ↔ [[D&C 100#^dc-100-7|D&C 100:7]]
 - [[D&C 103]] — 1 parallel verse, e.g. [[D&C 94#^dc-94-1|D&C 94:1]] ↔ [[D&C 103#^dc-103-34|D&C 103:34]]
 - [[D&C 104]] — 1 parallel verse, e.g. [[D&C 94#^dc-94-1|D&C 94:1]] ↔ [[D&C 104#^dc-104-11|D&C 104:11]]
 - [[D&C 97]] — 0 parallel verses

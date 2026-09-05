@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 20
 slug: deut-20
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

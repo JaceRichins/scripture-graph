@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 26
 slug: job-26
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

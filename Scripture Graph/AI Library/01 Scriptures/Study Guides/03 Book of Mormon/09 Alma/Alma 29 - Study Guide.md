@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 29
 slug: alma-29
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,7 +52,9 @@ _Not yet developed._
 - [[Isaiah 58]] — 1 footnote cross-reference (from [[Alma 29#^alma-29-1|Alma 29:1]])
 - [[D&C 29]] — 1 footnote cross-reference (from [[Alma 29#^alma-29-1|Alma 29:1]])
 - [[Omni 1]] — 1 footnote cross-reference (from [[Alma 29#^alma-29-2|Alma 29:2]])
+- [[Exodus 3]] — 2 parallel verses, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Exodus 4]] — 1 parallel verse, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[Exodus 4#^ex-4-5|Exodus 4:5]]
+- [[Alma 5]] — 2 parallel verses, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[Alma 5#^alma-5-5|Alma 5:5]]
 - [[Alma 17]] — 1 parallel verse, e.g. [[Alma 29#^alma-29-9|Alma 29:9]] ↔ [[Alma 17#^alma-17-9|Alma 17:9]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
@@ -62,13 +64,11 @@ _Not yet developed._
 - [[Helaman 11]] — 1 parallel verse, e.g. [[Alma 29#^alma-29-17|Alma 29:17]] ↔ [[Helaman 11#^hel-11-13|Helaman 11:13]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
 - [[1 Nephi 6]] — 1 parallel verse, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
-- [[3 Nephi 4]] — 1 parallel verse, e.g. [[Alma 29#^alma-29-11|Alma 29:11]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
-- [[Exodus 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
@@ -85,6 +85,7 @@ Verse 8 portrays revelation and teaching as distributed among nations and tongue
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Trust in God, Then Go and Do (President Henry B. Eyring, October 2010)|Trust in God, Then Go and Do]] — President Henry B. Eyring, 2010-October *(explicit citation)*
 - [[Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy (Sister Tamara W. Runia, April 2025)|Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy]] — Sister Tamara W. Runia, 2025-April *(explicit citation)*
 - [[I Stand All Amazed (Elder Ronald A. Rasband, October 2015)|I Stand All Amazed]] — Elder Ronald A. Rasband, 2015-October *(explicit citation)*
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
@@ -93,8 +94,7 @@ Verse 8 portrays revelation and teaching as distributed among nations and tongue
 - [[Compensating Blessings (Bishop Gérald Caussé, April 2025)|Compensating Blessings]] — Bishop Gérald Caussé, 2025-April *(explicit citation)*
 - [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
 - [[Yes, Lord, I Will Follow Thee (Elder Eduardo Gavarret, October 2014)|Yes, Lord, I Will Follow Thee]] — Elder Eduardo Gavarret, 2014-October *(explicit citation)*
-- [[Do We Trust Him Hard Is Good (Elder Stanley G. Ellis, October 2017)|Do We Trust Him? Hard Is Good]] — Elder Stanley G. Ellis, 2017-October *(explicit citation)*
-- [[Take the Holy Spirit as Your Guide (Elder Larry Y. Wilson, April 2018)|Take the Holy Spirit as Your Guide]] — Elder Larry Y. Wilson, 2018-April *(explicit citation)*
+- [[Finding Strength in Challenging Times! (Elder Allan F. Packer, April 2009)|Finding Strength in Challenging Times!]] — Elder Allan F. Packer, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

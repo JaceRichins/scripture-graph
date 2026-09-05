@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 24
 slug: 1sam-24
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -65,7 +65,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Conscience** (reference-entry) *(explicit citation)*
+- **Dog** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

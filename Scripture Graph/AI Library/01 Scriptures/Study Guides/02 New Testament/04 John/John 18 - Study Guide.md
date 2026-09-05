@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 18
 slug: john-18
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,8 @@ _Not yet developed._
 - **Of Governments and Laws** (history) *(explicit citation)*
 - **Council in Heaven** (reference-entry) *(explicit citation)*
 - **Annas** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Clean and unclean** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

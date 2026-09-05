@@ -157,7 +157,7 @@ cssclasses:
 ![[D&C 63#^dc-63-52]]
 
 ![[D&C 63#^dc-63-53]]
-> [[D&C 35#^dc-35-15|D&amp;C 35:15]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]] · [[Moses 7#^moses-7-65|≈ Moses 7:65]] · [[D&C 64#^dc-64-24|≈ D&C 64:24]] · [[D&C 64#^dc-64-23|≈ D&C 64:23]] · [[Joseph Smith—Matthew 1#^jsm-1-26|≈ Joseph Smith—Matthew 1:26]] · [[Joseph Smith—Matthew 1#^jsm-1-41|≈ Joseph Smith—Matthew 1:41]]
+> [[D&C 35#^dc-35-15|D&amp;C 35:15]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]] · [[Moses 7#^moses-7-65|≈ Moses 7:65]] · [[D&C 64#^dc-64-24|≈ D&C 64:24]] · [[D&C 64#^dc-64-23|≈ D&C 64:23]] · [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]]
 
 ![[D&C 63#^dc-63-54]]
 > [[Matthew 25#^matt-25-1|Matt. 25:1]] · [[D&C 45#^dc-45-56|D&amp;C 45:56 (56–59)]] · [[Psalm 52#^ps-52-5|Ps. 52:5]] · [[Matthew 13#^matt-13-30|Matt. 13:40 (30, 39–41)]] · [[Mosiah 16#^mosiah-16-2|Mosiah 16:2]]

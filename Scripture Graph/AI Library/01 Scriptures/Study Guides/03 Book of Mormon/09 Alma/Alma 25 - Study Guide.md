@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 25
 slug: alma-25
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,10 +73,10 @@ Scripture: [[Alma 25]] · My notes: [[Alma 25 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Law of Moses]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Prophecy]]
 - [[War and Peace]]
+- [[Law of Moses]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

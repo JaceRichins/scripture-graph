@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 21
 slug: num-21
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Numbers 22]] — 1 parallel verse, e.g. [[Numbers 21#^num-21-10|Numbers 21:10]] ↔ [[Numbers 22#^num-22-1|Numbers 22:1]]
 - [[Joshua 12]] — 0 parallel verses
 - [[Joshua 13]] — 0 parallel verses
+- [[Alma 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,6 +87,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
+- **Edom** (reference-entry) *(explicit citation)*
+- **Edrei** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

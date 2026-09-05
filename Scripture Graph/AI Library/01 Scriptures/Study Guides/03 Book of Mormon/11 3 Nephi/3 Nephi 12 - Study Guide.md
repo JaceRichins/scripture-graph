@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 12
 slug: 3ne-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -108,6 +108,7 @@ Verses 1–2 connect belief in Christ and the testimony of chosen witnesses with
 - **Quorum of the Twelve Apostles** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
+- **Beatitudes** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

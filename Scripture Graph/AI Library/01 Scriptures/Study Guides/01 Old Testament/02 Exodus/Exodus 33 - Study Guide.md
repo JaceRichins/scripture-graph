@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 33
 slug: ex-33
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **First Vision** (reference-entry) *(explicit citation)*
+- **Cloud** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

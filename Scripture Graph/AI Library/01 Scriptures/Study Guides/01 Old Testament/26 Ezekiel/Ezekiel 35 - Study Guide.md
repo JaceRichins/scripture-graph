@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 35
 slug: ezek-35
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,8 @@ _Not yet developed._
 - [[Isaiah 49]] — 2 parallel verses, e.g. [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
 - [[Ezekiel 5]] — 2 parallel verses, e.g. [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]] ↔ [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]]
 - [[Zephaniah 2]] — 2 parallel verses, e.g. [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]] ↔ [[Zephaniah 2#^zeph-2-9|Zephaniah 2:9]]
-- [[Ezekiel 22]] — 2 parallel verses, e.g. [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]] ↔ [[Ezekiel 22#^ezek-22-16|Ezekiel 22:16]]
 - [[1 Kings 20]] — 2 parallel verses, e.g. [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]] ↔ [[1 Kings 20#^1kgs-20-13|1 Kings 20:13]]
+- [[Ezekiel 22]] — 2 parallel verses, e.g. [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]] ↔ [[Ezekiel 22#^ezek-22-16|Ezekiel 22:16]]
 - [[1 Nephi 21]] — 2 parallel verses, e.g. [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]] ↔ [[1 Nephi 21#^1ne-21-23|1 Nephi 21:23]]
 - [[2 Nephi 6]] — 2 parallel verses, e.g. [[Ezekiel 35#^ezek-35-4|Ezekiel 35:4]] ↔ [[2 Nephi 6#^2ne-6-7|2 Nephi 6:7]]
 <!-- SG:END related-scriptures -->
@@ -82,7 +82,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Edom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

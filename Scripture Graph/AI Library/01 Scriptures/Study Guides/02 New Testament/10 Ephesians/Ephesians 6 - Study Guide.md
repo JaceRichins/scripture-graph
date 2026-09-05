@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 6
 slug: eph-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Family** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
+- **Breastplate** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

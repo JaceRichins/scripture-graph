@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 7
 slug: jacob-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[Alma 7]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-12|Jacob 7:12]] ↔ [[Alma 7#^alma-7-10|Alma 7:10]]
 - [[3 Nephi 17]] — 2 parallel verses, e.g. [[Jacob 7#^jacob-7-20|Jacob 7:20]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
 - [[Enos 1]] — 1 parallel verse, e.g. [[Jacob 7#^jacob-7-27|Jacob 7:27]] ↔ [[Enos 1#^enos-1-26|Enos 1:26]]
+- [[Alma 30]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -84,6 +85,7 @@ _Not yet developed._
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
 - [[Be Reconciled to God (Elder Kelly R. Johnson, October 2025)|Be Reconciled to God]] — Elder Kelly R. Johnson, 2025-October *(explicit citation)*
 - [[Guided Safely Home (President Thomas S. Monson, October 2014)|Guided Safely Home]] — President Thomas S. Monson, 2014-October *(explicit citation)*
+- [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

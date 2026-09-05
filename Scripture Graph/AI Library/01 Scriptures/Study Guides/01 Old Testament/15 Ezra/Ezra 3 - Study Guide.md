@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 3
 slug: ezra-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,9 +58,9 @@ Scripture: [[Ezra 3]] · My notes: [[Ezra 3 - My Notes]]
 - [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-11|Ezra 3:11]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
 - [[2 Chronicles 8]] — 2 parallel verses, e.g. [[Ezra 3#^ezra-3-11|Ezra 3:11]] ↔ [[2 Chronicles 8#^2chr-8-16|2 Chronicles 8:16]]
-- [[1 Chronicles 23]] — 1 parallel verse, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[1 Chronicles 23#^1chr-23-4|1 Chronicles 23:4]]
 - [[1 Kings 2]] — 1 parallel verse, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[1 Kings 2#^1kgs-2-3|1 Kings 2:3]]
 - [[2 Chronicles 23]] — 1 parallel verse, e.g. [[Ezra 3#^ezra-3-2|Ezra 3:2]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
+- [[1 Chronicles 23]] — 1 parallel verse, e.g. [[Ezra 3#^ezra-3-8|Ezra 3:8]] ↔ [[1 Chronicles 23#^1chr-23-4|1 Chronicles 23:4]]
 - [[1 Chronicles 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -84,7 +84,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Cyrus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 1
 slug: eccl-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -49,11 +49,12 @@ The chapter therefore offers a severe examination of mortal limits. It should no
 - [[Proverbs 27]] — 1 footnote cross-reference (from [[Ecclesiastes 1#^eccl-1-8|Ecclesiastes 1:8]])
 - [[Ecclesiastes 2]] — 0 parallel verses
 - [[Proverbs 27]] — 0 parallel verses
+- [[Ecclesiastes 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 35
 slug: 2chr-35
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -38,8 +38,8 @@ The chapter joins two contrasting episodes. Verses 1–19 describe a lavish, car
 - [[Solomon]] — 2 mentions
 - [[Moses (prophet)]] — 2 mentions
 - [[Aaron (brother of Moses)]] — 2 mentions
-- [[Jeremiah (prophet)]] — 1 mention
 - [[Samuel (prophet)]] — 1 mention
+- [[Jeremiah (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -67,7 +67,7 @@ The chapter joins two contrasting episodes. Verses 1–19 describe a lavish, car
 - [[2 Chronicles 28]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 28#^2chr-28-26|2 Chronicles 28:26]]
 - [[2 Chronicles 23]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]] ↔ [[2 Chronicles 23#^2chr-23-18|2 Chronicles 23:18]]
 - [[2 Chronicles 27]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]] ↔ [[2 Chronicles 27#^2chr-27-7|2 Chronicles 27:7]]
-- [[2 Kings 23]] — 2 parallel verses, e.g. [[2 Chronicles 35#^2chr-35-12|2 Chronicles 35:12]] ↔ [[2 Kings 23#^2kgs-23-21|2 Kings 23:21]]
+- [[Joshua 22]] — 1 parallel verse, e.g. [[2 Chronicles 35#^2chr-35-6|2 Chronicles 35:6]] ↔ [[Joshua 22#^josh-22-9|Joshua 22:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

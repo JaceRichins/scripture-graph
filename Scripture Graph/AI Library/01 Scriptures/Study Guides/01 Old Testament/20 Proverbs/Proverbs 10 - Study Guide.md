@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 10
 slug: prov-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -64,7 +64,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[What Have You Done with My Name (Elder Mervyn B. Arnold, October 2010)|What Have You Done with My Name?]] — Elder Mervyn B. Arnold, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

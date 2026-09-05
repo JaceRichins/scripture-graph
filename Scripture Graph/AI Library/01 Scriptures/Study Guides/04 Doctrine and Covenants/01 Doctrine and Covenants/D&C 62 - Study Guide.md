@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 62
 slug: dc-62
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Luke 4]] — 1 footnote cross-reference (from [[D&C 62#^dc-62-1|D&C 62:1]])
 - [[Luke 12]] — 1 footnote cross-reference (from [[D&C 62#^dc-62-3|D&C 62:3]])
 - [[D&C 57]] — 1 parallel verse, e.g. [[D&C 62#^dc-62-1|D&C 62:1]] ↔ [[D&C 57#^dc-57-1|D&C 57:1]]
+- [[D&C 67]] — 1 parallel verse, e.g. [[D&C 62#^dc-62-1|D&C 62:1]] ↔ [[D&C 67#^dc-67-1|D&C 67:1]]
 - [[D&C 60]] — 1 parallel verse, e.g. [[D&C 62#^dc-62-5|D&C 62:5]] ↔ [[D&C 60#^dc-60-5|D&C 60:5]]
 - [[D&C 60]] — 0 parallel verses
 <!-- SG:END related-scriptures -->

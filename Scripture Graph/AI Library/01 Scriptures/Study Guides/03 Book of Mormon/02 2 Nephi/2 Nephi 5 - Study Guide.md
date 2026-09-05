@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 5
 slug: 2ne-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -62,8 +62,8 @@ Verses 19-20 (fulfillment of the ruler/teacher promise and the 'cut off' languag
 - [[1 Nephi 3]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[1 Nephi 3#^1ne-3-12|1 Nephi 3:12]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Ether 10]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-15|2 Nephi 5:15]] ↔ [[Ether 10#^ether-10-23|Ether 10:23]]
-- [[Mosiah 1]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]]
 - [[Alma 50]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
+- [[Mosiah 1]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]]
 - [[Ether 2]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]] ↔ [[Ether 2#^ether-2-15|Ether 2:15]]
 - [[1 Nephi 18]] — 2 parallel verses, e.g. [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]] ↔ [[1 Nephi 18#^1ne-18-23|1 Nephi 18:23]]
 - [[1 Nephi 5]] — 1 parallel verse, e.g. [[2 Nephi 5#^2ne-5-12|2 Nephi 5:12]] ↔ [[1 Nephi 5#^1ne-5-10|1 Nephi 5:10]]

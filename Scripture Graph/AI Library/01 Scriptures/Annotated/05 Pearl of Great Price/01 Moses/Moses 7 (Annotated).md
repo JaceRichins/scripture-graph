@@ -44,7 +44,7 @@ cssclasses:
 > [[Moses 5#^moses-5-8|Moses 5:8]] · [[Moses 6#^moses-6-57|6:57]] · [[Moses 6#^moses-6-27|≈ Moses 6:27]]
 
 ![[Moses 7#^moses-7-11]]
-> [[D&C 68#^dc-68-8|≈ D&C 68:8]] · [[Moses 6#^moses-6-66|≈ Moses 6:66]] · [[Moses 5#^moses-5-9|≈ Moses 5:9]] · [[Moses 5#^moses-5-7|≈ Moses 5:7]] · [[Moses 1#^moses-1-24|≈ Moses 1:24]] · [[Matthew 28#^matt-28-19|≈ Matthew 28:19]]
+> [[D&C 68#^dc-68-8|≈ D&C 68:8]] · [[Matthew 28#^matt-28-19|≈ Matthew 28:19]] · [[Moses 6#^moses-6-66|≈ Moses 6:66]] · [[3 Nephi 1#^3ne-1-14|≈ 3 Nephi 1:14]] · [[2 Nephi 31#^2ne-31-21|≈ 2 Nephi 31:21]] · [[3 Nephi 11#^3ne-11-25|≈ 3 Nephi 11:25]]
 
 ![[Moses 7#^moses-7-12]]
 
@@ -141,7 +141,7 @@ cssclasses:
 > [[Moses 5#^moses-5-57|Moses 5:57]] · [[D&C 20#^dc-20-26|≈ D&C 20:26]]
 
 ![[Moses 7#^moses-7-47]]
-> [[D&C 63#^dc-63-53|≈ D&C 63:53]] · [[D&C 68#^dc-68-11|≈ D&C 68:11]] · [[D&C 130#^dc-130-14|≈ D&C 130:14]] · [[D&C 130#^dc-130-12|≈ D&C 130:12]] · [[D&C 130#^dc-130-17|≈ D&C 130:17]] · [[D&C 64#^dc-64-23|≈ D&C 64:23]]
+> [[D&C 45#^dc-45-39|≈ D&C 45:39]] · [[D&C 63#^dc-63-53|≈ D&C 63:53]] · [[D&C 68#^dc-68-11|≈ D&C 68:11]] · [[D&C 130#^dc-130-14|≈ D&C 130:14]] · [[D&C 130#^dc-130-12|≈ D&C 130:12]] · [[D&C 130#^dc-130-17|≈ D&C 130:17]]
 
 ![[Moses 7#^moses-7-48]]
 
@@ -180,7 +180,7 @@ cssclasses:
 > [[Micah 3#^micah-3-6|Micah 3:6]] · [[D&C 38#^dc-38-11|D&amp;C 38:11 (11–12)]] · [[D&C 112#^dc-112-23|112:23]] · [[1 Nephi 22#^1ne-22-15|1 Ne. 22:17 (15–22)]] · [[2 Nephi 30#^2ne-30-10|2 Ne. 30:10]]
 
 ![[Moses 7#^moses-7-62]]
-> [[Joseph Smith—Matthew 1#^jsm-1-27|≈ Joseph Smith—Matthew 1:27]] · [[3 Nephi 5#^3ne-5-26|≈ 3 Nephi 5:26]] · [[3 Nephi 5#^3ne-5-24|≈ 3 Nephi 5:24]] · [[D&C 45#^dc-45-46|≈ D&C 45:46]] · [[D&C 33#^dc-33-6|≈ D&C 33:6]] · [[D&C 35#^dc-35-15|≈ D&C 35:15]]
+> [[D&C 45#^dc-45-46|≈ D&C 45:46]] · [[Joseph Smith—Matthew 1#^jsm-1-27|≈ Joseph Smith—Matthew 1:27]] · [[3 Nephi 5#^3ne-5-26|≈ 3 Nephi 5:26]] · [[3 Nephi 5#^3ne-5-24|≈ 3 Nephi 5:24]] · [[D&C 33#^dc-33-6|≈ D&C 33:6]] · [[D&C 35#^dc-35-15|≈ D&C 35:15]]
 
 ![[Moses 7#^moses-7-63]]
 > [[Revelation 21#^rev-21-9|Rev. 21:10 (9–11)]] · [[D&C 45#^dc-45-11|D&amp;C 45:12 (11–12)]] · [[Revelation 14#^rev-14-12|Rev. 14:13 (12–13)]]
@@ -189,7 +189,7 @@ cssclasses:
 > [[D&C 88#^dc-88-110|≈ D&C 88:110]]
 
 ![[Moses 7#^moses-7-65]]
-> [[1 Corinthians 5#^1cor-5-5|1 Cor. 5:5]] · [[Jude 1#^jude-1-14|Jude 1:14]] · [[D&C 63#^dc-63-53|≈ D&C 63:53]] · [[D&C 68#^dc-68-11|≈ D&C 68:11]] · [[D&C 130#^dc-130-14|≈ D&C 130:14]] · [[D&C 130#^dc-130-12|≈ D&C 130:12]] · [[D&C 130#^dc-130-17|≈ D&C 130:17]] · [[D&C 64#^dc-64-23|≈ D&C 64:23]]
+> [[1 Corinthians 5#^1cor-5-5|1 Cor. 5:5]] · [[Jude 1#^jude-1-14|Jude 1:14]] · [[D&C 45#^dc-45-39|≈ D&C 45:39]] · [[D&C 63#^dc-63-53|≈ D&C 63:53]] · [[D&C 68#^dc-68-11|≈ D&C 68:11]] · [[D&C 130#^dc-130-14|≈ D&C 130:14]] · [[D&C 130#^dc-130-12|≈ D&C 130:12]] · [[D&C 130#^dc-130-17|≈ D&C 130:17]]
 
 ![[Moses 7#^moses-7-66]]
 > [[Isaiah 13#^isa-13-7|Isa. 13:7]]

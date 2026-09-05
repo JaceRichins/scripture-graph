@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 67
 slug: dc-67
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -45,9 +45,9 @@ _Not yet developed._
 - [[Acts 1]] — 1 footnote cross-reference (from [[D&C 67#^dc-67-1|D&C 67:1]])
 - [[D&C 42]] — 1 parallel verse, e.g. [[D&C 67#^dc-67-1|D&C 67:1]] ↔ [[D&C 42#^dc-42-1|D&C 42:1]]
 - [[D&C 50]] — 2 parallel verses, e.g. [[D&C 67#^dc-67-10|D&C 67:10]] ↔ [[D&C 50#^dc-50-45|D&C 50:45]]
+- [[D&C 62]] — 1 parallel verse, e.g. [[D&C 67#^dc-67-1|D&C 67:1]] ↔ [[D&C 62#^dc-62-1|D&C 62:1]]
 - [[Alma 30]] — 1 parallel verse, e.g. [[D&C 67#^dc-67-7|D&C 67:7]] ↔ [[Alma 30#^alma-30-24|Alma 30:24]]
 - [[D&C 18]] — 1 parallel verse, e.g. [[D&C 67#^dc-67-14|D&C 67:14]] ↔ [[D&C 18#^dc-18-7|D&C 18:7]]
-- [[D&C 62]] — 1 parallel verse, e.g. [[D&C 67#^dc-67-1|D&C 67:1]] ↔ [[D&C 62#^dc-62-1|D&C 62:1]]
 - [[James 1]] — 0 parallel verses
 - [[Moses 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -70,6 +70,7 @@ Two threads run through the chapter. First, the elders' doubt centered on Joseph
 - [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[The Why of Priesthood Service (President Dieter F. Uchtdorf, April 2012)|The Why of Priesthood Service]] — President Dieter F. Uchtdorf, 2012-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[Continue in Patience (President Dieter F. Uchtdorf, April 2010)|Continue in Patience]] — President Dieter F. Uchtdorf, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

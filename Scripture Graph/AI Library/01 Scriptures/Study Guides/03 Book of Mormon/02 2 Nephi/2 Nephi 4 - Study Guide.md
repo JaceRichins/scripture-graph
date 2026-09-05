@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 4
 slug: 2ne-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -78,7 +78,7 @@ Scripture: [[2 Nephi 4]] · My notes: [[2 Nephi 4 - My Notes]]
 - [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
-- [[Prophecy]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

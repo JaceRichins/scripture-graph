@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 15
 slug: lev-15
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

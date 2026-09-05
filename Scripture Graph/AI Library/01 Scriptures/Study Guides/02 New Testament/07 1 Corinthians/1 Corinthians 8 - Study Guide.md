@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 8
 slug: 1cor-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Godhead** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

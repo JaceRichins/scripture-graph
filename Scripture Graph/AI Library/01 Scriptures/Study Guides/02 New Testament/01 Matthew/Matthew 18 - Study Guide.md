@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 18
 slug: matt-18
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -48,8 +48,8 @@ _Not yet developed._
 - [[Mark 9]] — 8 parallel verses, e.g. [[Matthew 18#^matt-18-9|Matthew 18:9]] ↔ [[Mark 9#^mark-9-47|Mark 9:47]]
 - [[D&C 128]] — 3 parallel verses, e.g. [[Matthew 18#^matt-18-18|Matthew 18:18]] ↔ [[D&C 128#^dc-128-8|D&C 128:8]]
 - [[D&C 6]] — 2 parallel verses, e.g. [[Matthew 18#^matt-18-20|Matthew 18:20]] ↔ [[D&C 6#^dc-6-32|D&C 6:32]]
-- [[D&C 124]] — 1 parallel verse, e.g. [[Matthew 18#^matt-18-18|Matthew 18:18]] ↔ [[D&C 124#^dc-124-93|D&C 124:93]]
 - [[Luke 17]] — 1 parallel verse, e.g. [[Matthew 18#^matt-18-6|Matthew 18:6]] ↔ [[Luke 17#^luke-17-2|Luke 17:2]]
+- [[D&C 124]] — 1 parallel verse, e.g. [[Matthew 18#^matt-18-18|Matthew 18:18]] ↔ [[D&C 124#^dc-124-93|D&C 124:93]]
 - [[Matthew 5]] — 2 parallel verses, e.g. [[Matthew 18#^matt-18-9|Matthew 18:9]] ↔ [[Matthew 5#^matt-5-29|Matthew 5:29]]
 - [[Matthew 16]] — 1 parallel verse, e.g. [[Matthew 18#^matt-18-18|Matthew 18:18]] ↔ [[Matthew 16#^matt-16-19|Matthew 16:19]]
 - [[Helaman 10]] — 1 parallel verse, e.g. [[Matthew 18#^matt-18-18|Matthew 18:18]] ↔ [[Helaman 10#^hel-10-7|Helaman 10:7]]

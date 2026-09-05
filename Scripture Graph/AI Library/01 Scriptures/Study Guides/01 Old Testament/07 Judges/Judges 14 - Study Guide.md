@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 14
 slug: judg-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1837-06-01 (Vol. 3 No. 9)** (periodical, 1837-06-01) *(explicit citation)*
+- **Circumcision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

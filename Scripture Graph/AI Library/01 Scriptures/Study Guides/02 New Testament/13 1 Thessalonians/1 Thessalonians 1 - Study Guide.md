@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 1
 slug: 1thes-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ The chapter refuses to separate belief from lived response. [[Faith]] works, lov
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

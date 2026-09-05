@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 23
 slug: 2kgs-23
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -96,13 +96,14 @@ The chapter also requires ethical candor. Its narrator approves Josiah's covenan
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Love and Law (Elder Dallin H. Oaks, October 2009)|Love and Law]] — Elder Dallin H. Oaks, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Armageddon** (reference-entry) *(explicit citation)*
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
+- **Bethel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

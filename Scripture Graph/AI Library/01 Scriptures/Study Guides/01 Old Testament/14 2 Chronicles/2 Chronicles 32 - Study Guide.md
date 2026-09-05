@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 32
 slug: 2chr-32
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,8 +63,8 @@ Scripture: [[2 Chronicles 32]] · My notes: [[2 Chronicles 32 - My Notes]]
 - [[2 Chronicles 20]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-32|2 Chronicles 32:32]] ↔ [[2 Chronicles 20#^2chr-20-34|2 Chronicles 20:34]]
 - [[2 Chronicles 26]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-33|2 Chronicles 32:33]] ↔ [[2 Chronicles 26#^2chr-26-23|2 Chronicles 26:23]]
 - [[Isaiah 38]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-11|2 Chronicles 32:11]] ↔ [[Isaiah 38#^isa-38-6|Isaiah 38:6]]
+- [[Judges 9]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-6|2 Chronicles 32:6]] ↔ [[Judges 9#^judg-9-35|Judges 9:35]]
 - [[2 Kings 19]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-11|2 Chronicles 32:11]] ↔ [[2 Kings 19#^2kgs-19-10|2 Kings 19:10]]
-- [[Isaiah 37]] — 2 parallel verses, e.g. [[2 Chronicles 32#^2chr-32-11|2 Chronicles 32:11]] ↔ [[Isaiah 37#^isa-37-10|Isaiah 37:10]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -93,7 +93,7 @@ Hezekiah and Isaiah's appeal to heaven makes [[Prayer]] central to the narrator'
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chronicles** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

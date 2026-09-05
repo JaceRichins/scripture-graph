@@ -23,7 +23,7 @@ cssclasses:
 > [[John 1#^john-1-4|John 1:4 (4, 7–9)]] · [[D&C 14#^dc-14-9|D&amp;C 14:9]] · [[D&C 84#^dc-84-45|84:46 (45–47)]] · [[D&C 88#^dc-88-6|88:6]] · [[John 1#^john-1-9|≈ John 1:9]] · [[D&C 84#^dc-84-46|≈ D&C 84:46]]
 
 ![[D&C 93#^dc-93-3]]
-> [[John 10#^john-10-28|John 10:30 (28–31)]] · [[John 14#^john-14-10|14:10]] · [[John 17#^john-17-22|17:22]] · [[D&C 50#^dc-50-43|D&amp;C 50:43]] · [[John 14#^john-14-10|≈ John 14:10]] · [[John 14#^john-14-11|≈ John 14:11]] · [[3 Nephi 11#^3ne-11-27|≈ 3 Nephi 11:27]] · [[D&C 50#^dc-50-43|≈ D&C 50:43]] · [[3 Nephi 20#^3ne-20-35|≈ 3 Nephi 20:35]] · [[3 Nephi 9#^3ne-9-15|≈ 3 Nephi 9:15]]
+> [[John 10#^john-10-28|John 10:30 (28–31)]] · [[John 14#^john-14-10|14:10]] · [[John 17#^john-17-22|17:22]] · [[D&C 50#^dc-50-43|D&amp;C 50:43]] · [[John 14#^john-14-10|≈ John 14:10]] · [[John 14#^john-14-11|≈ John 14:11]] · [[3 Nephi 20#^3ne-20-35|≈ 3 Nephi 20:35]] · [[3 Nephi 9#^3ne-9-15|≈ 3 Nephi 9:15]] · [[3 Nephi 11#^3ne-11-27|≈ 3 Nephi 11:27]] · [[D&C 50#^dc-50-43|≈ D&C 50:43]]
 
 ![[D&C 93#^dc-93-4]]
 > [[Mosiah 15#^mosiah-15-2|Mosiah 15:3 (2–5)]] · [[2 Peter 1#^2pet-1-13|2 Pet. 1:13]]

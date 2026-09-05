@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 25
 slug: ezek-25
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -60,9 +60,9 @@ _Not yet developed._
 - [[Ezekiel 14]] — 2 parallel verses, e.g. [[Ezekiel 25#^ezek-25-13|Ezekiel 25:13]] ↔ [[Ezekiel 14#^ezek-14-13|Ezekiel 14:13]]
 - [[Jeremiah 51]] — 2 parallel verses, e.g. [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]] ↔ [[Jeremiah 51#^jer-51-25|Jeremiah 51:25]]
 - [[Zephaniah 1]] — 2 parallel verses, e.g. [[Ezekiel 25#^ezek-25-13|Ezekiel 25:13]] ↔ [[Zephaniah 1#^zeph-1-4|Zephaniah 1:4]]
-- [[Ezekiel 36]] — 1 parallel verse, e.g. [[Ezekiel 25#^ezek-25-3|Ezekiel 25:3]] ↔ [[Ezekiel 36#^ezek-36-4|Ezekiel 36:4]]
 - [[Isaiah 49]] — 2 parallel verses, e.g. [[Ezekiel 25#^ezek-25-7|Ezekiel 25:7]] ↔ [[Isaiah 49#^isa-49-23|Isaiah 49:23]]
 - [[Ezekiel 6]] — 1 parallel verse, e.g. [[Ezekiel 25#^ezek-25-3|Ezekiel 25:3]] ↔ [[Ezekiel 6#^ezek-6-3|Ezekiel 6:3]]
+- [[Ezekiel 36]] — 1 parallel verse, e.g. [[Ezekiel 25#^ezek-25-3|Ezekiel 25:3]] ↔ [[Ezekiel 36#^ezek-36-4|Ezekiel 36:4]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

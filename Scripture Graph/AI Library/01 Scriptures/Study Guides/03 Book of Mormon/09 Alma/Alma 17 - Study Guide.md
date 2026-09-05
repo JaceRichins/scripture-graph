@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 17
 slug: alma-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -33,17 +33,17 @@ Several tensions deserve attention: spiritual power does not remove [[Adversity]
 
 ## People
 <!-- SG:BEGIN people -->
+- [[Ammon (son of Mosiah)]] — 21 mentions
 - [[Ishmael (father-in-law of Nephi)]] — 5 mentions
+- [[King Lamoni]] — 4 mentions
 - [[Gideon (judge)]] — 1 mention
 - [[Nephi (son of Lehi)]] — 1 mention
-- [[Ammon (son of Mosiah)]] — 0 mentions
-- [[King Lamoni]] — 0 mentions
 <!-- SG:END people -->
 
 ## Places
 <!-- SG:BEGIN places -->
+- [[Zarahemla]] — 2 mentions
 - [[Manti]] — 1 mention
-- [[Zarahemla]] — 0 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures
@@ -54,6 +54,8 @@ Several tensions deserve attention: spiritual power does not remove [[Adversity]
 - [[Alma 19]] — 4 footnote cross-references (from [[Alma 17#^alma-17-23|Alma 17:23]])
 - [[Alma 21]] — 3 footnote cross-references (from [[Alma 17#^alma-17-13|Alma 17:13]])
 - [[Mosiah 27]] — 2 footnote cross-references (from [[Alma 17#^alma-17-1|Alma 17:1]])
+- [[Alma 21]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Alma 21#^alma-21-17|Alma 21:17]]
+- [[Alma 26]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Alma 26#^alma-26-24|Alma 26:24]]
 - [[Mosiah 27]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-4|Alma 17:4]] ↔ [[Mosiah 27#^mosiah-27-36|Mosiah 27:36]]
 - [[Helaman 16]] — 2 parallel verses, e.g. [[Alma 17#^alma-17-36|Alma 17:36]] ↔ [[Helaman 16#^hel-16-2|Helaman 16:2]]
 - [[Mosiah 28]] — 3 parallel verses, e.g. [[Alma 17#^alma-17-8|Alma 17:8]] ↔ [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]]
@@ -62,16 +64,15 @@ Several tensions deserve attention: spiritual power does not remove [[Adversity]
 - [[Mosiah 1]] — 2 parallel verses, e.g. [[Alma 17#^alma-17-15|Alma 17:15]] ↔ [[Mosiah 1#^mosiah-1-5|Mosiah 1:5]]
 - [[Alma 29]] — 1 parallel verse, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Alma 29#^alma-29-9|Alma 29:9]]
 - [[Alma 21]] — 0 parallel verses
-- [[Alma 26]] — 0 parallel verses
-- [[Alma 21]] — 0 parallel verses
+- [[Alma 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[Scripture Study]]
 - [[Endurance]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Scattering of Israel]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Adversity]] *(keyword match — unconfirmed)*

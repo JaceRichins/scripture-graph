@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 18
 slug: rev-18
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **Adultery** (reference-entry) *(explicit citation)*
+- **Babylon or Babel** (reference-entry) *(explicit citation)*
+- **Commerce** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

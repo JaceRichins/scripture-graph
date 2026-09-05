@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 7
 slug: mosiah-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ _Not yet developed._
 - [[Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]] — Elder Ulisses Soares, 2023-October *(explicit citation)*
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
+- [[Turn to the Lord (Elder Donald L. Hallstrom, April 2010)|Turn to the Lord]] — Elder Donald L. Hallstrom, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

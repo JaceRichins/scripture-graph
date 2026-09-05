@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 7
 slug: ezra-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,10 +55,10 @@ The chapter has four movements:
 - [[Nehemiah 11]] — 3 parallel verses, e.g. [[Ezra 7#^ezra-7-2|Ezra 7:2]] ↔ [[Nehemiah 11#^neh-11-11|Nehemiah 11:11]]
 - [[Ezra 2]] — 1 parallel verse, e.g. [[Ezra 7#^ezra-7-7|Ezra 7:7]] ↔ [[Ezra 2#^ezra-2-70|Ezra 2:70]]
 - [[Nehemiah 13]] — 1 parallel verse, e.g. [[Ezra 7#^ezra-7-7|Ezra 7:7]] ↔ [[Nehemiah 13#^neh-13-5|Nehemiah 13:5]]
-- [[1 Chronicles 6]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-1|Ezra 7:1]] ↔ [[1 Chronicles 6#^1chr-6-36|1 Chronicles 6:36]]
 - [[1 Chronicles 23]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-19|Ezra 7:19]] ↔ [[1 Chronicles 23#^1chr-23-24|1 Chronicles 23:24]]
 - [[1 Chronicles 28]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-19|Ezra 7:19]] ↔ [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]]
 - [[1 Chronicles 9]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-2|Ezra 7:2]] ↔ [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]]
+- [[1 Chronicles 6]] — 2 parallel verses, e.g. [[Ezra 7#^ezra-7-1|Ezra 7:1]] ↔ [[1 Chronicles 6#^1chr-6-36|1 Chronicles 6:36]]
 - [[Judges 20]] — 1 parallel verse, e.g. [[Ezra 7#^ezra-7-5|Ezra 7:5]] ↔ [[Judges 20#^judg-20-28|Judges 20:28]]
 - [[Ezra 1]] — 0 parallel verses
 - [[Ezra 8]] — 0 parallel verses

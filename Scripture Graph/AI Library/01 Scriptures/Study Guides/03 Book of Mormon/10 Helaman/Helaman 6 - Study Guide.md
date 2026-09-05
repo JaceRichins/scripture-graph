@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 6
 slug: hel-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Helaman 4]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-1|Helaman 6:1]] ↔ [[Helaman 4#^hel-4-18|Helaman 4:18]]
 - [[Alma 48]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-30|Helaman 6:30]] ↔ [[Alma 48#^alma-48-17|Alma 48:17]]
 - [[Alma 50]] — 1 parallel verse, e.g. [[Helaman 6#^hel-6-15|Helaman 6:15]] ↔ [[Alma 50#^alma-50-37|Alma 50:37]]
+- [[3 Nephi 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,6 +76,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
+- [[An Easiness and Willingness to Believe (Elder Michael T. Ringwood, October 2009)|An Easiness and Willingness to Believe]] — Elder Michael T. Ringwood, 2009-October *(explicit citation)*
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 - [[Harden Not Your Heart (Elder Christopher H. Kim, April 2025)|Harden Not Your Heart]] — Elder Christopher H. Kim, 2025-April *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
@@ -82,7 +84,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Cain** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

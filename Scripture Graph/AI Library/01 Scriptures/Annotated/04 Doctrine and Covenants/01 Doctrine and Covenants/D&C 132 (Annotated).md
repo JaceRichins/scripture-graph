@@ -64,7 +64,7 @@ cssclasses:
 > [[Luke 20#^luke-20-36|Luke 20:36]]
 
 ![[D&C 132#^dc-132-18]]
-> [[D&C 76#^dc-76-53|≈ D&C 76:53]] · [[John 8#^john-8-51|≈ John 8:51]]
+> [[John 8#^john-8-51|≈ John 8:51]] · [[D&C 76#^dc-76-53|≈ D&C 76:53]]
 
 ![[D&C 132#^dc-132-19]]
 > [[2 Peter 1#^2pet-1-19|2 Pet. 1:19]] · [[D&C 68#^dc-68-12|D&amp;C 68:12]] · [[D&C 76#^dc-76-53|76:53]] · [[D&C 88#^dc-88-3|88:3 (3–4)]] · [[D&C 124#^dc-124-124|124:124]] · [[Exodus 19#^ex-19-6|Ex. 19:6]] · [[Revelation 5#^rev-5-10|Rev. 5:10]] · [[Revelation 20#^rev-20-6|20:6]] · [[D&C 76#^dc-76-56|D&amp;C 76:56]] · [[D&C 78#^dc-78-15|78:15 (15, 18)]]
@@ -87,7 +87,7 @@ cssclasses:
 > [[Genesis 6#^gen-6-12|Gen. 6:12]] · [[2 Nephi 28#^2ne-28-11|2 Ne. 28:11]] · [[Helaman 6#^hel-6-31|Hel. 6:31]] · [[3 Nephi 14#^3ne-14-13|3 Ne. 14:13 (13–15)]] · [[Matthew 7#^matt-7-13|Matt. 7:13 (13–14)]] · [[John 5#^john-5-43|John 5:43]]
 
 ![[D&C 132#^dc-132-26]]
-> [[D&C 88#^dc-88-3|D&amp;C 88:3 (3–4)]] · [[Alma 39#^alma-39-5|Alma 39:5 (5–6)]] · [[1 Timothy 1#^1tim-1-20|1 Tim. 1:20]] · [[D&C 82#^dc-82-21|D&amp;C 82:21]] · [[D&C 104#^dc-104-9|104:9 (9–10)]] · [[D&C 76#^dc-76-53|≈ D&C 76:53]] · [[John 8#^john-8-51|≈ John 8:51]] · [[Mosiah 15#^mosiah-15-22|≈ Mosiah 15:22]]
+> [[D&C 88#^dc-88-3|D&amp;C 88:3 (3–4)]] · [[Alma 39#^alma-39-5|Alma 39:5 (5–6)]] · [[1 Timothy 1#^1tim-1-20|1 Tim. 1:20]] · [[D&C 82#^dc-82-21|D&amp;C 82:21]] · [[D&C 104#^dc-104-9|104:9 (9–10)]] · [[John 8#^john-8-51|≈ John 8:51]] · [[Mosiah 15#^mosiah-15-22|≈ Mosiah 15:22]] · [[D&C 76#^dc-76-53|≈ D&C 76:53]]
 
 ![[D&C 132#^dc-132-27]]
 > [[Matthew 12#^matt-12-31|Matt. 12:32 (31–32)]] · [[Hebrews 6#^heb-6-4|Heb. 6:6 (4–6)]] · [[Hebrews 10#^heb-10-26|10:29 (26–29)]] · [[D&C 42#^dc-42-18|D&amp;C 42:18]] · [[D&C 76#^dc-76-31|76:34 (31, 34–35)]] · [[D&C 84#^dc-84-41|84:41]]
@@ -176,7 +176,7 @@ cssclasses:
 > [[Matthew 6#^matt-6-12|Matt. 6:15 (12–15)]] · [[Genesis 21#^gen-21-6|Gen. 21:6]] · [[D&C 25#^dc-25-9|D&amp;C 25:9]]
 
 ![[D&C 132#^dc-132-57]]
-> [[Matthew 10#^matt-10-28|Matt. 10:28]] · [[Revelation 12#^rev-12-12|Rev. 12:12 (12–17)]] · [[Isaiah 43#^isa-43-3|≈ Isaiah 43:3]] · [[Abraham 2#^abr-2-7|≈ Abraham 2:7]] · [[Abraham 3#^abr-3-3|≈ Abraham 3:3]] · [[D&C 108#^dc-108-8|≈ D&C 108:8]] · [[D&C 105#^dc-105-41|≈ D&C 105:41]]
+> [[Matthew 10#^matt-10-28|Matt. 10:28]] · [[Revelation 12#^rev-12-12|Rev. 12:12 (12–17)]] · [[Isaiah 43#^isa-43-3|≈ Isaiah 43:3]] · [[D&C 108#^dc-108-8|≈ D&C 108:8]] · [[Abraham 2#^abr-2-7|≈ Abraham 2:7]] · [[Abraham 3#^abr-3-3|≈ Abraham 3:3]] · [[D&C 105#^dc-105-41|≈ D&C 105:41]]
 
 ![[D&C 132#^dc-132-58]]
 > [[D&C 84#^dc-84-19|D&amp;C 84:19 (19–26)]]

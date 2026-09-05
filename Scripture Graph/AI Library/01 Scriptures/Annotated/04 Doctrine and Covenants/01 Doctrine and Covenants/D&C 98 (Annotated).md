@@ -92,13 +92,13 @@ cssclasses:
 ![[D&C 98#^dc-98-27]]
 
 ![[D&C 98#^dc-98-28]]
-> [[Exodus 20#^ex-20-5|≈ Exodus 20:5]] · [[Deuteronomy 5#^deut-5-9|≈ Deuteronomy 5:9]] · [[Numbers 14#^num-14-18|≈ Numbers 14:18]] · [[Exodus 34#^ex-34-7|≈ Exodus 34:7]]
+> [[Exodus 20#^ex-20-5|≈ Exodus 20:5]] · [[Numbers 14#^num-14-18|≈ Numbers 14:18]] · [[Deuteronomy 5#^deut-5-9|≈ Deuteronomy 5:9]] · [[Exodus 34#^ex-34-7|≈ Exodus 34:7]]
 
 ![[D&C 98#^dc-98-29]]
-> [[Deuteronomy 7#^deut-7-16|Deut. 7:23 (16–23)]] · [[Exodus 20#^ex-20-5|≈ Exodus 20:5]] · [[Deuteronomy 5#^deut-5-9|≈ Deuteronomy 5:9]] · [[Numbers 14#^num-14-18|≈ Numbers 14:18]] · [[Exodus 34#^ex-34-7|≈ Exodus 34:7]]
+> [[Deuteronomy 7#^deut-7-16|Deut. 7:23 (16–23)]] · [[Exodus 20#^ex-20-5|≈ Exodus 20:5]] · [[Numbers 14#^num-14-18|≈ Numbers 14:18]] · [[Deuteronomy 5#^deut-5-9|≈ Deuteronomy 5:9]] · [[Exodus 34#^ex-34-7|≈ Exodus 34:7]]
 
 ![[D&C 98#^dc-98-30]]
-> [[Exodus 20#^ex-20-5|≈ Exodus 20:5]] · [[Deuteronomy 5#^deut-5-9|≈ Deuteronomy 5:9]] · [[Numbers 14#^num-14-18|≈ Numbers 14:18]] · [[Exodus 34#^ex-34-7|≈ Exodus 34:7]]
+> [[Exodus 20#^ex-20-5|≈ Exodus 20:5]] · [[Numbers 14#^num-14-18|≈ Numbers 14:18]] · [[Deuteronomy 5#^deut-5-9|≈ Deuteronomy 5:9]] · [[Exodus 34#^ex-34-7|≈ Exodus 34:7]]
 
 ![[D&C 98#^dc-98-31]]
 

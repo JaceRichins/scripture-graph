@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 4
 slug: jacob-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

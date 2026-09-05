@@ -51,10 +51,10 @@ cssclasses:
 > [[Obadiah 1#^obad-1-17|Obad. 1:17]] · [[2 Nephi 24#^2ne-24-1|2 Ne. 24:2 (1–2)]] · [[Isaiah 34#^isa-34-5|Isa. 34:5]] · [[Jeremiah 49#^jer-49-7|Jer. 49:17 (7–22)]] · [[Ezekiel 25#^ezek-25-12|Ezek. 25:14 (12–14)]] · [[Obadiah 1#^obad-1-8|Obad. 1:18 (8, 18–19, 21)]]
 
 ![[Amos 9#^amos-9-13]]
-> [[Genesis 8#^gen-8-22|Gen. 8:22]] · [[3 Nephi 26#^3ne-26-3|3 Ne. 26:3]] · [[Mormon 9#^morm-9-2|Morm. 9:2]] · [[Jeremiah 30#^jer-30-3|≈ Jeremiah 30:3]] · [[Jeremiah 31#^jer-31-38|≈ Jeremiah 31:38]] · [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]] · [[Jeremiah 31#^jer-31-31|≈ Jeremiah 31:31]] · [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]] · [[Jeremiah 23#^jer-23-5|≈ Jeremiah 23:5]]
+> [[Genesis 8#^gen-8-22|Gen. 8:22]] · [[3 Nephi 26#^3ne-26-3|3 Ne. 26:3]] · [[Mormon 9#^morm-9-2|Morm. 9:2]] · [[Jeremiah 30#^jer-30-3|≈ Jeremiah 30:3]] · [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]] · [[Jeremiah 31#^jer-31-38|≈ Jeremiah 31:38]] · [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]] · [[Jeremiah 31#^jer-31-31|≈ Jeremiah 31:31]] · [[Jeremiah 23#^jer-23-5|≈ Jeremiah 23:5]]
 
 ![[Amos 9#^amos-9-14]]
-> [[Zephaniah 2#^zeph-2-7|Zeph. 2:7]] · [[3 Nephi 16#^3ne-16-11|3 Ne. 16:16 (11–20)]] · [[D&C 77#^dc-77-15|D&amp;C 77:15]] · [[D&C 84#^dc-84-2|84:3 (2–5)]] · [[D&C 101#^dc-101-18|101:18]] · [[D&C 103#^dc-103-11|103:11]] · [[Ezekiel 36#^ezek-36-8|Ezek. 36:10 (8–15)]] · [[Jeremiah 30#^jer-30-3|≈ Jeremiah 30:3]] · [[Jeremiah 30#^jer-30-18|≈ Jeremiah 30:18]] · [[Isaiah 65#^isa-65-21|≈ Isaiah 65:21]]
+> [[Zephaniah 2#^zeph-2-7|Zeph. 2:7]] · [[3 Nephi 16#^3ne-16-11|3 Ne. 16:16 (11–20)]] · [[D&C 77#^dc-77-15|D&amp;C 77:15]] · [[D&C 84#^dc-84-2|84:3 (2–5)]] · [[D&C 101#^dc-101-18|101:18]] · [[D&C 103#^dc-103-11|103:11]] · [[Ezekiel 36#^ezek-36-8|Ezek. 36:10 (8–15)]] · [[Jeremiah 30#^jer-30-3|≈ Jeremiah 30:3]] · [[Jeremiah 30#^jer-30-18|≈ Jeremiah 30:18]] · [[Jeremiah 49#^jer-49-6|≈ Jeremiah 49:6]]
 
 ![[Amos 9#^amos-9-15]]
 > [[D&C 55#^dc-55-5|D&amp;C 55:5]] · [[D&C 77#^dc-77-15|D&amp;C 77:15]] · [[3 Nephi 20#^3ne-20-29|3 Ne. 20:29]]

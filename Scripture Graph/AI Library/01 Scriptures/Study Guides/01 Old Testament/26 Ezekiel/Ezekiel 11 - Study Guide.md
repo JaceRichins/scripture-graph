@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 11
 slug: ezek-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
+- **Cherubim** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

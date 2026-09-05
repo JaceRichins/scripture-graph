@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 2
 slug: 2pet-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ Scripture: [[2 Peter 2]] · My notes: [[2 Peter 2 - My Notes]]
 - [[1 Corinthians 6]] — 1 footnote cross-reference (from [[2 Peter 2#^2pet-2-1|2 Peter 2:1]])
 - [[Romans 16]] — 1 footnote cross-reference (from [[2 Peter 2#^2pet-2-3|2 Peter 2:3]])
 - [[Jude 1]] — 0 parallel verses
+- [[3 Nephi 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,12 +77,18 @@ Scripture: [[2 Peter 2]] · My notes: [[2 Peter 2 - My Notes]]
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[“Daughters in My Kingdom” The History and Work of Relief Society (Julie B. Beck, October 2010)|“Daughters in My Kingdom”: The History and Work of Relief Society]] — Julie B. Beck, 2010-October *(explicit citation)*
+- [[Moral Discipline (Elder D. Todd Christofferson, October 2009)|Moral Discipline]] — Elder D. Todd Christofferson, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Balaam** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Conversation** (reference-entry) *(explicit citation)*
+- **Darkness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

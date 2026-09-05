@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 49
 slug: gen-49
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Asher** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Dan** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

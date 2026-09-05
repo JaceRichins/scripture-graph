@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 1
 slug: deut-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,9 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **18 The Camp of Israel** (history) *(explicit citation)*
+- **Caleb** (reference-entry) *(explicit citation)*
+- **Deuteronomy** (reference-entry) *(explicit citation)*
+- **Edrei** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

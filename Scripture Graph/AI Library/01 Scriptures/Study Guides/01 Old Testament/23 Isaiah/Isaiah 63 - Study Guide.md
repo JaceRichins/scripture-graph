@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 63
 slug: isa-63
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Behold Thy Mother (Elder Jeffrey R. Holland, October 2015)|Behold Thy Mother]] — Elder Jeffrey R. Holland, 2015-October *(explicit citation)*
+- [[None Were with Him (Elder Jeffrey R. Holland, April 2009)|None Were with Him]] — Elder Jeffrey R. Holland, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

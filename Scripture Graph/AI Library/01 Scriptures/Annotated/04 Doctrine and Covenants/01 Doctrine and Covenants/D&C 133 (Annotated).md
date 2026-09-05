@@ -23,7 +23,7 @@ cssclasses:
 > [[Malachi 3#^mal-3-1|Mal. 3:1]] · [[D&C 36#^dc-36-8|D&amp;C 36:8]] · [[D&C 1#^dc-1-36|D&amp;C 1:36]] · [[2 Kings 17#^2kgs-17-38|2 Kgs. 17:38]] · [[Alma 46#^alma-46-8|Alma 46:8]]
 
 ![[D&C 133#^dc-133-3]]
-> [[Isaiah 52#^isa-52-10|Isa. 52:10]] · [[Isaiah 12#^isa-12-2|Isa. 12:2]] · [[Isaiah 52#^isa-52-10|52:10]] · [[Isaiah 52#^isa-52-10|≈ Isaiah 52:10]] · [[Mosiah 12#^mosiah-12-24|≈ Mosiah 12:24]] · [[Mosiah 15#^mosiah-15-31|≈ Mosiah 15:31]] · [[D&C 45#^dc-45-49|≈ D&C 45:49]] · [[1 Nephi 19#^1ne-19-17|≈ 1 Nephi 19:17]] · [[1 Nephi 22#^1ne-22-11|≈ 1 Nephi 22:11]]
+> [[Isaiah 52#^isa-52-10|Isa. 52:10]] · [[Isaiah 12#^isa-12-2|Isa. 12:2]] · [[Isaiah 52#^isa-52-10|52:10]] · [[Isaiah 52#^isa-52-10|≈ Isaiah 52:10]] · [[Mosiah 12#^mosiah-12-24|≈ Mosiah 12:24]] · [[Mosiah 15#^mosiah-15-31|≈ Mosiah 15:31]] · [[D&C 45#^dc-45-49|≈ D&C 45:49]] · [[1 Nephi 22#^1ne-22-11|≈ 1 Nephi 22:11]] · [[3 Nephi 16#^3ne-16-20|≈ 3 Nephi 16:20]]
 
 ![[D&C 133#^dc-133-4]]
 > [[D&C 62#^dc-62-4|D&amp;C 62:4]] · [[D&C 63#^dc-63-24|63:41 (24, 39–41)]]
@@ -44,7 +44,7 @@ cssclasses:
 > [[Isaiah 54#^isa-54-2|Isa. 54:2]] · [[D&C 58#^dc-58-25|D&amp;C 58:25 (25, 56)]] · [[D&C 63#^dc-63-24|63:24]] · [[D&C 101#^dc-101-68|101:68 (68–71)]]
 
 ![[D&C 133#^dc-133-10]]
-> [[Matthew 25#^matt-25-6|Matt. 25:6]] · [[D&C 33#^dc-33-17|D&amp;C 33:17 (17–18)]] · [[D&C 45#^dc-45-54|45:56 (54–59)]] · [[D&C 1#^dc-1-12|D&amp;C 1:12]] · [[Matthew 25#^matt-25-6|≈ Matthew 25:6]] · [[D&C 45#^dc-45-39|≈ D&C 45:39]] · [[D&C 88#^dc-88-92|≈ D&C 88:92]] · [[D&C 43#^dc-43-20|≈ D&C 43:20]] · [[D&C 43#^dc-43-21|≈ D&C 43:21]] · [[D&C 43#^dc-43-22|≈ D&C 43:22]]
+> [[Matthew 25#^matt-25-6|Matt. 25:6]] · [[D&C 33#^dc-33-17|D&amp;C 33:17 (17–18)]] · [[D&C 45#^dc-45-54|45:56 (54–59)]] · [[D&C 1#^dc-1-12|D&amp;C 1:12]] · [[D&C 45#^dc-45-39|≈ D&C 45:39]] · [[D&C 88#^dc-88-92|≈ D&C 88:92]] · [[D&C 43#^dc-43-20|≈ D&C 43:20]] · [[D&C 43#^dc-43-21|≈ D&C 43:21]] · [[D&C 43#^dc-43-22|≈ D&C 43:22]] · [[Matthew 25#^matt-25-6|≈ Matthew 25:6]]
 
 ![[D&C 133#^dc-133-11]]
 > [[Proverbs 27#^prov-27-18|Prov. 27:18]] · [[Mark 13#^mark-13-24|Mark 13:35 (24–37)]] · [[1 Nephi 21#^1ne-21-23|1 Ne. 21:23]] · [[2 Nephi 6#^2ne-6-13|2 Ne. 6:13]] · [[D&C 49#^dc-49-7|D&amp;C 49:7]] · [[Matthew 25#^matt-25-13|≈ Matthew 25:13]]
@@ -201,7 +201,7 @@ cssclasses:
 > [[2 Chronicles 35#^2chr-35-6|2 Chr. 35:6]] · [[D&C 88#^dc-88-74|D&amp;C 88:74]]
 
 ![[D&C 133#^dc-133-63]]
-> [[Deuteronomy 28#^deut-28-15|Deut. 28:15]] · [[Acts 3#^acts-3-23|Acts 3:23]] · [[1 Nephi 22#^1ne-22-20|1 Ne. 22:20 (20–21)]] · [[3 Nephi 20#^3ne-20-23|3 Ne. 20:23]] · [[3 Nephi 21#^3ne-21-11|21:11]] · [[D&C 1#^dc-1-14|D&amp;C 1:14]] · [[Joseph Smith—History 1#^jsh-1-40|JS—H 1:40]] · [[Joseph Smith—Matthew 1#^jsm-1-55|≈ Joseph Smith—Matthew 1:55]] · [[Joseph Smith—History 1#^jsh-1-40|≈ Joseph Smith—History 1:40]] · [[1 Nephi 19#^1ne-19-23|≈ 1 Nephi 19:23]]
+> [[Deuteronomy 28#^deut-28-15|Deut. 28:15]] · [[Acts 3#^acts-3-23|Acts 3:23]] · [[1 Nephi 22#^1ne-22-20|1 Ne. 22:20 (20–21)]] · [[3 Nephi 20#^3ne-20-23|3 Ne. 20:23]] · [[3 Nephi 21#^3ne-21-11|21:11]] · [[D&C 1#^dc-1-14|D&amp;C 1:14]] · [[Joseph Smith—History 1#^jsh-1-40|JS—H 1:40]] · [[Joseph Smith—Matthew 1#^jsm-1-55|≈ Joseph Smith—Matthew 1:55]] · [[Joseph Smith—History 1#^jsh-1-40|≈ Joseph Smith—History 1:40]] · [[1 Nephi 22#^1ne-22-20|≈ 1 Nephi 22:20]]
 
 ![[D&C 133#^dc-133-64]]
 > [[Malachi 4#^mal-4-1|Mal. 4:1]] · [[D&C 5#^dc-5-19|D&amp;C 5:19]] · [[Joseph Smith—History 1#^jsh-1-37|JS—H 1:37]] · [[Isaiah 24#^isa-24-6|Isa. 24:6]] · [[Isaiah 66#^isa-66-15|66:15 (15–16)]] · [[Joel 2#^joel-2-5|Joel 2:5]] · [[1 Nephi 22#^1ne-22-15|1 Ne. 22:15]] · [[3 Nephi 25#^3ne-25-1|3 Ne. 25:1]] · [[D&C 29#^dc-29-9|D&amp;C 29:9]] · [[D&C 64#^dc-64-24|64:24]]

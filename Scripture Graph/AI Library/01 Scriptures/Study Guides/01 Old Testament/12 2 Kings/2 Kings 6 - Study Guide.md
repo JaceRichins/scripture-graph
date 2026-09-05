@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 6
 slug: 2kgs-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,7 +73,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Benhadad** (reference-entry) *(explicit citation)*
+- **Blindness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

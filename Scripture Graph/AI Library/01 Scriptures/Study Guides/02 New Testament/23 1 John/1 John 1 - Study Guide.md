@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 1
 slug: 1jn-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -89,12 +89,14 @@ Fellowship also has both vertical and communal dimensions. The recipients are in
 <!-- SG:BEGIN history -->
 - **Grace** (reference-entry) *(explicit citation)*
 - **Sin** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Sin** (reference-entry) *(explicit citation)*
+- **Blood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

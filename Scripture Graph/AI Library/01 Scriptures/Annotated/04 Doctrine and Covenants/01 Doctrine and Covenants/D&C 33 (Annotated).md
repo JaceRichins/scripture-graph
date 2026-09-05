@@ -17,7 +17,7 @@ cssclasses:
 > 1–4, Laborers are called to declare the gospel in the eleventh hour; 5–6, The Church is established, and the elect are to be gathered; 7–10, Repent, for the kingdom of heaven is at hand; 11–15, The Church is built upon the gospel rock; 16–18, Prepare for the coming of the Bridegroom.
 
 ![[D&C 33#^dc-33-1]]
-> [[D&C 52#^dc-52-22|D&amp;C 52:22]] · [[D&C 56#^dc-56-5|56:5 (5–8)]] · [[Hebrews 4#^heb-4-12|Heb. 4:12]] · [[Helaman 3#^hel-3-29|Hel. 3:29 (29–30)]] · [[Amos 4#^amos-4-13|Amos 4:13]] · [[Hebrews 4#^heb-4-12|≈ Hebrews 4:12]] · [[D&C 6#^dc-6-2|≈ D&C 6:2]] · [[D&C 35#^dc-35-1|≈ D&C 35:1]] · [[D&C 11#^dc-11-2|≈ D&C 11:2]] · [[D&C 12#^dc-12-2|≈ D&C 12:2]]
+> [[D&C 52#^dc-52-22|D&amp;C 52:22]] · [[D&C 56#^dc-56-5|56:5 (5–8)]] · [[Hebrews 4#^heb-4-12|Heb. 4:12]] · [[Helaman 3#^hel-3-29|Hel. 3:29 (29–30)]] · [[Amos 4#^amos-4-13|Amos 4:13]] · [[D&C 35#^dc-35-1|≈ D&C 35:1]] · [[Hebrews 4#^heb-4-12|≈ Hebrews 4:12]] · [[D&C 6#^dc-6-2|≈ D&C 6:2]] · [[D&C 11#^dc-11-2|≈ D&C 11:2]] · [[D&C 12#^dc-12-2|≈ D&C 12:2]]
 
 ![[D&C 33#^dc-33-2]]
 > [[Isaiah 58#^isa-58-1|Isa. 58:1]] · [[D&C 19#^dc-19-37|D&amp;C 19:37]] · [[D&C 29#^dc-29-4|29:4]] · [[D&C 30#^dc-30-9|30:9]] · [[Deuteronomy 32#^deut-32-5|Deut. 32:5]] · [[D&C 34#^dc-34-6|≈ D&C 34:6]] · [[D&C 42#^dc-42-6|≈ D&C 42:6]] · [[D&C 75#^dc-75-4|≈ D&C 75:4]]

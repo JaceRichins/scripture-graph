@@ -1,0 +1,163 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elder Joseph W. Sitati
+year: '2009'
+month: October
+url: https://www.churchofjesuschrist.org/general-conference/2009/10/blessings-of-the-gospel-available-to-all?lang=eng
+doc_id: talk:2009-october-blessings-of-the-gospel-available-to-all
+full_text: true
+---
+
+# Blessings of the Gospel Available to All
+
+**Speaker:** Elder Joseph W. Sitati · **Conference:** October 2009 · [source](https://www.churchofjesuschrist.org/general-conference/2009/10/blessings-of-the-gospel-available-to-all?lang=eng)
+
+Blessings of the Gospel Available to All
+
+By Elder Joseph W. Sitati
+
+Of the Seventy
+
+God’s children on the earth today have the opportunity to understand His plan of happiness for them more fully than at any other time.
+
+A few weeks ago Elder Melvin R. Perkins, who is an Area Seventy serving in Alaska, and I stood at the pulpit in front of the congregation of the Vancouver British Columbia Stake in Canada. In a moving voice he invited the Saints to consider the image before them: a descendant of Mormon handcart pioneers and a pioneer convert of the Church from a faraway African nation serving the Lord side by side.
+
+From humble beginnings in Fayette, New York, nearly 180 years ago, The Church of Jesus Christ of Latter-day Saints has become a global faith. I stand here as a witness of this marvelous work. I pray that the Spirit of the Lord will be with you and with me as I share some thoughts this afternoon.
+
+I am grateful for the keys of revelation in this last dispensation. Through the exercise of those keys by living prophets since the Restoration, God’s children on the earth today have the opportunity to understand His plan of happiness for them more fully than at any other time.
+
+The love of our Father in Heaven has been evident as the way has been opened for all living and dead of every nation, now and in the future, to receive exaltation in His presence, according to the exercise of their agency. The standard is the same, and the blessing is the same for all. God has reaffirmed that He is no respecter of persons.
+
+The gospel has gone forth on the earth in a pattern that ensures that God’s purposes to bring to pass the immortality and eternal life of man are fulfilled.
+
+After the Fall our first parents, Adam and Eve, made an eternal covenant with God for their salvation. As Adam’s children multiplied, two groups emerged.
+
+One group, led by Enoch, kept the covenant so well that they could no longer be retained on the earth. So the Lord gathered them unto Himself.
+
+The second group was overcome in wickedness so great that they suffered the judgments of God. The Flood swallowed them up, leaving only the family of Noah, a righteous descendant of Enoch.
+
+God put Noah under covenant, with the additional promise that life on earth would no longer be destroyed by floods.
+
+As Noah’s family multiplied once more, many were taken up in wickedness. Driven by pride, they built the Tower of Babel. God allowed the judgments of heaven to fall upon them. Their language was confounded, and they were scattered abroad. Only a few who were obedient were preserved.
+
+Among those preserved was the brother of Jared, a man of great faith, who pleaded with the Lord on behalf of the righteous Jaredites. The Lord led them to the American continent, with the promise that if they served Him, they would “be free from bondage, and from captivity, and from all other nations under heaven.” The Nephites were also led to the same continent later. In the end both the Jaredite and the Nephite civilizations were destroyed, as they did not prove faithful.
+
+Another preserved man of great faith was Abraham, a descendant of Noah, who was led to Canaan. God put Abraham under covenant, with additional promises that his posterity would increase as the stars in the heavens and that in his seed “shall all the nations of the earth be blessed.” The nations in the promise were descendants of Noah scattered from the Tower of Babel, known as Gentiles in a general sense.
+
+God renewed the covenant with Abraham’s son Isaac and grandson Jacob, who became Israel.
+
+Because the descendants of Israel could not endure the conditions of the covenant, it was changed during the dispensation of Moses. A lesser covenant was introduced and continued among the children of Israel until Christ restored the fulness of the gospel during His mortal ministry.
+
+After His Resurrection the Savior signaled that the time for the gospel to be taken to the Gentiles had come. Earlier, in the parable of the laborers in the vineyard, He had revealed that the gentile nations would be visited and invited one after the other. However, the blessings would be the same irrespective of the order of invitation.
+
+After the Savior’s Ascension, the presiding Apostle, Peter, a descendant of Israel, held the keys of the priesthood, by which he gave direction to the Church. It is significant that although the Savior had already given permission, Peter baptized the first Gentile, Cornelius, only after receiving specific revelation to do so.
+
+The ministry to the Gentiles was interrupted by the martyrdom of Peter and the deaths of the other Apostles, after which the keys of the priesthood were taken from the earth. The long period of apostasy followed.
+
+The keys were restored by the ancient Apostles Peter, James, and John in 1829 upon Joseph Smith just before the Church was organized. The gospel in its fulness was again coming to the earth and started to go forth among the nations of the Gentiles as the new and everlasting covenant.
+
+Through the Prophet Joseph Smith, the Lord revealed that the determining criteria for the order in which the gentile nations are invited include the capacity to spiritually and temporally nourish the kingdom of God as it is established on the earth for the last time.
+
+We see that as the restored Church began to be established on the earth, the living prophets sought and followed the will of God about how the gospel should go forth among the nations.
+
+I have lived to see the time foreseen by the prophet Zenos in the allegory of the olive tree, when the righteous from all nations of the earth would become partakers of the covenant of God with Israel.
+
+I have seen the good fruit of the gospel blossom in my home continent of Africa. After just 30 years, there are 300,000 Saints. In the doctrines and principles of the restored gospel, many are finding a sure anchor for their faith. Families uprooted from their rural communities in search of a better future in the towns and cities have found a new way to hold on to the strong family traditions which have come progressively under attack in this era of globalization. The Spirit of the Lord is moving powerfully among the people.
+
+A new celestial culture is developing in homes, nurtured by the ready hearkening to the counsel of the living prophet to have daily prayer and scripture study and to meet once a week as a family in home evening. As a result, many are able to break free from the shackles of traditions that restrict the exercise of their agency.
+
+As an illustration from personal experience, three of our children were recently married in the temple without the encumbrance of dowry, a traditional practice that drives many young men and women to live together without any legal commitment to each other. The opportunity for a temple marriage in the three temples now established in Accra, Ghana; Aba, Nigeria; and Johannesburg, South Africa, is helping to instill a fresh hope in the sanctity of marriage.
+
+I testify of the Savior Jesus Christ, by whom we have the gospel and promise of exaltation. I testify of our living prophet, President Thomas S. Monson, through whom we have the assurance of the Savior’s direction for continuing to extend salvation to all. In the name of Jesus Christ, amen.
+
+Notes
+
+See Moses 6:52, 57, 59.
+
+See Moses 7:19–21.
+
+See Genesis 6:17–22; see also Moses 7–8.
+
+See D&C 84:14–15.
+
+See Genesis 8:11–21; 9:8–11.
+
+See Genesis 11:1–8.
+
+See Ether 2:8–12; see also Ether 1:33–43; 4–6.
+
+See Genesis 12–17; 22; see also Abraham 1–2.
+
+Genesis 22:18.
+
+See Hebrews 7:11–12, 19–22; D&C 84:24–25.
+
+See Matthew 28:18–20.
+
+See Matthew 20:1–16.
+
+See Acts 10.
+
+See Bible Dictionary, “Peter,” 749.
+
+See D&C 58:1–12.
+
+See Jacob 5:57–68.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28844161", "context": "", "text": "
+See Moses 6:52, 57, 59.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/6?lang=eng&id=p52%2Cp57%2Cp59#p52", "text": "Moses 6:52, 57, 59"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28844162", "context": "", "text": "
+See Moses 7:19–21.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/7?lang=eng&id=p19-p21#p19", "text": "Moses 7:19–21"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28844163", "context": "", "text": "
+See Genesis 6:17–22; see also Moses 7–8.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/gen/6?lang=eng&id=p17-p22#p17", "text": "Genesis 6:17–22"}, {"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/7?lang=eng", "text": "Moses 7–8"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28844163", "context": "", "text": "
+See D&C 84:14–15.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/84?lang=eng&id=p14-p15#p14", "text": "D&C 84:14–15"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "28844164", "context": "", "text": "
+See Genesis 8:11–21; 9:8–11.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/gen/8?lang=eng&id=p11-p21#p11", "text": "Genesis 8:11–21"}, {"type": "scripture-ref", "href": "/study/scriptures/ot/gen/9?lang=eng&id=p8-p11#p8", "text": "9:8–11"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28844165", "context": "", "text": "
+See Genesis 11:1–8.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/gen/11?lang=eng&id=p1-p8#p1", "text": "Genesis 11:1–8"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28844166", "context": "", "text": "
+See Ether 2:8–12; see also Ether 1:33–43; 4–6.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/ether/2?lang=eng&id=p8-p12#p8", "text": "Ether 2:8–12"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/ether/1?lang=eng&id=p33-p43#p33", "text": "Ether 1:33–43"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/ether/4?lang=eng", "text": "4–6"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28844167", "context": "", "text": "
+See Genesis 12–17; 22; see also Abraham 1–2.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/gen/12?lang=eng", "text": "Genesis 12–17"}, {"type": "scripture-ref", "href": "/study/scriptures/ot/gen/22?lang=eng", "text": "22"}, {"type": "scripture-ref", "href": "/study/scriptures/pgp/abr/1?lang=eng", "text": "Abraham 1–2"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "28844167", "context": "", "text": "
+Genesis 22:18.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/gen/22?lang=eng&id=p18#p18", "text": "Genesis 22:18"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "28844169", "context": "", "text": "
+See Hebrews 7:11–12, 19–22; D&C 84:24–25.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/heb/7?lang=eng&id=p11-p12%2Cp19-p22#p11", "text": "Hebrews 7:11–12, 19–22"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/84?lang=eng&id=p24-p25#p24", "text": "D&C 84:24–25"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "28844170", "context": "", "text": "
+See Matthew 28:18–20.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/28?lang=eng&id=p18-p20#p18", "text": "Matthew 28:18–20"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "28844170", "context": "", "text": "
+See Matthew 20:1–16.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/20?lang=eng&id=p1-p16#p1", "text": "Matthew 20:1–16"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "28844171", "context": "", "text": "
+See Acts 10.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/acts/10?lang=eng", "text": "Acts 10"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "28844172", "context": "", "text": "
+See Bible Dictionary, “Peter,” 749.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bd/peter?lang=eng", "text": "Peter"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "28844174", "context": "", "text": "
+See D&C 58:1–12.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/58?lang=eng&id=p1-p12#p1", "text": "D&C 58:1–12"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "28844176", "context": "", "text": "
+See Jacob 5:57–68.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/jacob/5?lang=eng&id=p57-p68#p57", "text": "Jacob 5:57–68"}]}}
+
+## Scripture citations in this talk
+
+- [[Moses 7]] (6×)
+- [[D&C 84]] (6×)
+- [[Moses 6]] (3×)
+- [[Genesis 6]] (3×)
+- [[Genesis 8]] (3×)
+- [[Genesis 11]] (3×)
+- [[Ether 2]] (3×)
+- [[Ether 1]] (3×)
+- [[Genesis 12]] (3×)
+- [[Abraham 1]] (3×)
+- [[Genesis 22]] (3×)
+- [[Hebrews 7]] (3×)
+- [[Matthew 28]] (3×)
+- [[Matthew 20]] (3×)
+- [[Acts 10]] (3×)
+- [[D&C 58]] (3×)
+- [[Jacob 5]] (3×)
+- [[Genesis 9]] (2×)

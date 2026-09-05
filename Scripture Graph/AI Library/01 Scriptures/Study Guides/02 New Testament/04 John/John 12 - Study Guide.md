@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 12
 slug: john-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -84,7 +84,12 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Light of Christ** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
+- **Bethsaida** (reference-entry) *(explicit citation)*
+- **Confession** (reference-entry) *(explicit citation)*
+- **Darkness** (reference-entry) *(explicit citation)*
+- **Devil** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

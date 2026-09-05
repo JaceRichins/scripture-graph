@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 8
 slug: 2sam-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -78,9 +78,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chariot** (reference-entry) *(explicit citation)*
 - **Abiathar** (reference-entry) *(explicit citation)*
 - **Amalek, Amalekites** (reference-entry) *(explicit citation)*
 - **Aram, Arameans** (reference-entry) *(explicit citation)*
+- **Benaiah** (reference-entry) *(explicit citation)*
+- **Damascus** (reference-entry) *(explicit citation)*
+- **Edom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

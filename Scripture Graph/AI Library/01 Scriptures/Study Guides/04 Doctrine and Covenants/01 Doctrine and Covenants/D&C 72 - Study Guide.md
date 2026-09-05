@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 72
 slug: dc-72
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,13 +52,17 @@ _Not yet developed._
 - [[D&C 51]] — 2 footnote cross-references (from [[D&C 72#^dc-72-3|D&C 72:3]])
 - [[D&C 41]] — 2 footnote cross-references (from [[D&C 72#^dc-72-6|D&C 72:6]])
 - [[D&C 63]] — 4 parallel verses, e.g. [[D&C 72#^dc-72-8|D&C 72:8]] ↔ [[D&C 63#^dc-63-24|D&C 63:24]]
+- [[D&C 90]] — 3 parallel verses, e.g. [[D&C 72#^dc-72-21|D&C 72:21]] ↔ [[D&C 90#^dc-90-9|D&C 90:9]]
+- [[D&C 73]] — 1 parallel verse, e.g. [[D&C 72#^dc-72-2|D&C 72:2]] ↔ [[D&C 73#^dc-73-1|D&C 73:1]]
+- [[Mosiah 29]] — 2 parallel verses, e.g. [[D&C 72#^dc-72-9|D&C 72:9]] ↔ [[Mosiah 29#^mosiah-29-15|Mosiah 29:15]]
 - [[D&C 103]] — 2 parallel verses, e.g. [[D&C 72#^dc-72-26|D&C 72:26]] ↔ [[D&C 103#^dc-103-30|D&C 103:30]]
+- [[D&C 75]] — 1 parallel verse, e.g. [[D&C 72#^dc-72-8|D&C 72:8]] ↔ [[D&C 75#^dc-75-12|D&C 75:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Kingdom of God]]
 - [[Zion]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Consecration]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

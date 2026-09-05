@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 13
 slug: rev-13
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,9 @@ _Not yet developed._
 - **Foreordination** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
 - **Antichrist** (reference-entry) *(explicit citation)*
+- **Book of life** (reference-entry) *(explicit citation)*
+- **Devil** (reference-entry) *(explicit citation)*
+- **Dragon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

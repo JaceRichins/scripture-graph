@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 16
 slug: 3ne-16
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -44,8 +44,8 @@ The chapter falls into five movements: (1) vv. 1–3, the announcement of "other
 - [[1 Nephi 19]] — 2 footnote cross-references (from [[3 Nephi 16#^3ne-16-1|3 Nephi 16:1]])
 - [[1 Nephi 22]] — 2 footnote cross-references (from [[3 Nephi 16#^3ne-16-5|3 Nephi 16:5]])
 - [[1 Nephi 13]] — 2 footnote cross-references (from [[3 Nephi 16#^3ne-16-6|3 Nephi 16:6]])
-- [[Mosiah 12]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18]] ↔ [[Mosiah 12#^mosiah-12-22|Mosiah 12:22]]
 - [[Isaiah 52]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18]] ↔ [[Isaiah 52#^isa-52-8|Isaiah 52:8]]
+- [[Mosiah 12]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-18|3 Nephi 16:18]] ↔ [[Mosiah 12#^mosiah-12-22|Mosiah 12:22]]
 - [[Mosiah 15]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]] ↔ [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]]
 - [[3 Nephi 20]] — 6 parallel verses, e.g. [[3 Nephi 16#^3ne-16-20|3 Nephi 16:20]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]
 - [[3 Nephi 21]] — 7 parallel verses, e.g. [[3 Nephi 16#^3ne-16-13|3 Nephi 16:13]] ↔ [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]]
@@ -55,7 +55,7 @@ The chapter falls into five movements: (1) vv. 1–3, the announcement of "other
 - [[1 Nephi 22]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]] ↔ [[1 Nephi 22#^1ne-22-7|1 Nephi 22:7]]
 - [[3 Nephi 30]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]] ↔ [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]]
 - [[D&C 42]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]] ↔ [[D&C 42#^dc-42-39|D&C 42:39]]
-- [[2 Nephi 29]] — 3 parallel verses, e.g. [[3 Nephi 16#^3ne-16-8|3 Nephi 16:8]] ↔ [[2 Nephi 29#^2ne-29-14|2 Nephi 29:14]]
+- [[3 Nephi 12]] — 1 parallel verse, e.g. [[3 Nephi 16#^3ne-16-15|3 Nephi 16:15]] ↔ [[3 Nephi 12#^3ne-12-13|3 Nephi 12:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,6 +79,7 @@ The chapter ties covenant standing to response rather than fixed status: Gentile
 <!-- SG:BEGIN conference -->
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[Come unto Him (Elder Neil L. Andersen, April 2009)|Come unto Him]] — Elder Neil L. Andersen, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

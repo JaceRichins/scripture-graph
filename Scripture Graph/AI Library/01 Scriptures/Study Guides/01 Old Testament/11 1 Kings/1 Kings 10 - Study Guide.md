@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 10
 slug: 1kgs-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,10 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Architecture** (reference-entry) *(explicit citation)*
+- **Camel** (reference-entry) *(explicit citation)*
+- **Chariot** (reference-entry) *(explicit citation)*
+- **Commerce** (reference-entry) *(explicit citation)*
+- **Egypt** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

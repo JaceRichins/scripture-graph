@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 39
 slug: gen-39
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 - [[Followers of Christ (Elder Walter F. González, April 2011)|Followers of Christ]] — Elder Walter F. González, 2011-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[Place No More for the Enemy of My Soul (Elder Jeffrey R. Holland, April 2010)|Place No More for the Enemy of My Soul]] — Elder Jeffrey R. Holland, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

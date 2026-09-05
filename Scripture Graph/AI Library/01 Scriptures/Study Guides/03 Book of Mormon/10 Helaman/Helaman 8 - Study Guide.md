@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 8
 slug: hel-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,8 @@ _Not yet developed._
 - [[Alma 34]] — 2 footnote cross-references (from [[Helaman 8#^hel-8-19|Helaman 8:19]])
 - [[Helaman 6]] — 2 footnote cross-references (from [[Helaman 8#^hel-8-21|Helaman 8:21]])
 - [[Alma 5]] — 2 parallel verses, e.g. [[Helaman 8#^hel-8-13|Helaman 8:13]] ↔ [[Alma 5#^alma-5-47|Alma 5:47]]
+- [[Alma 33]] — 0 parallel verses
+- [[Alma 37]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

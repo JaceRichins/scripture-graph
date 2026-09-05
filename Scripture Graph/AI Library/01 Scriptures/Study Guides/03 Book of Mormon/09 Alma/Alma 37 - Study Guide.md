@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 37
 slug: alma-37
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,9 @@ _Not yet developed._
 - [[Alma 45]] — 2 footnote cross-references (from [[Alma 37#^alma-37-1|Alma 37:1]])
 - [[Alma 50]] — 2 footnote cross-references (from [[Alma 37#^alma-37-1|Alma 37:1]])
 - [[Jarom 1]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]
+- [[Alma 9]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
+- [[Alma 38]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
+- [[Mosiah 28]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-9|Alma 37:9]] ↔ [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]]
 - [[Alma 36]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
 - [[2 Nephi 1]] — 1 parallel verse, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[Mosiah 12]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-25|Alma 37:25]] ↔ [[Mosiah 12#^mosiah-12-8|Mosiah 12:8]]
@@ -60,18 +63,16 @@ _Not yet developed._
 - [[Alma 41]] — 1 parallel verse, e.g. [[Alma 37#^alma-37-38|Alma 37:38]] ↔ [[Alma 41#^alma-41-1|Alma 41:1]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-37|Alma 37:37]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
 - [[D&C 3]] — 1 parallel verse, e.g. [[Alma 37#^alma-37-12|Alma 37:12]] ↔ [[D&C 3#^dc-3-2|D&C 3:2]]
-- [[D&C 5]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-25|Alma 37:25]] ↔ [[D&C 5#^dc-5-33|D&C 5:33]]
-- [[Alma 50]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-13|Alma 37:13]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
-- [[Helaman 3]] — 2 parallel verses, e.g. [[Alma 37#^alma-37-4|Alma 37:4]] ↔ [[Helaman 3#^hel-3-16|Helaman 3:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Liahona (compass)]]
-- [[Records and Sacred Writings]]
-- [[Secret Combinations]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
+- [[Secret Combinations]] *(keyword match — unconfirmed)*
 - [[Humility]] *(keyword match — unconfirmed)*
 - [[Miracles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -91,10 +92,10 @@ Alma also pairs negative and positive moral instruction. Helaman must protect th
 - [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
+- [[Becoming More Powerful Priesthood Holders (Elder Walter F. González, October 2009)|Becoming More Powerful Priesthood Holders]] — Elder Walter F. González, 2009-October *(explicit citation)*
 - [[Jesus Christ Is Not Our Burden; He Is Our Relief (Brother David J. Wunderli, April 2026)|Jesus Christ Is Not Our Burden; He Is Our Relief]] — Brother David J. Wunderli, 2026-April *(explicit citation)*
 - [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
 - [[Family Councils (Elder M. Russell Ballard, April 2016)|Family Councils]] — Elder M. Russell Ballard, 2016-April *(explicit citation)*
-- [[For Our Spiritual Development and Learning (Elder W. Mark Bassett, October 2016)|For Our Spiritual Development and Learning]] — Elder W. Mark Bassett, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

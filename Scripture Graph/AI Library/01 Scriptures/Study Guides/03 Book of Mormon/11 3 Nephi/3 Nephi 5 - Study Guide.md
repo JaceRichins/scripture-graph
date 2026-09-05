@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 5
 slug: 3ne-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,8 +59,8 @@ Scripture: [[3 Nephi 5]] · My notes: [[3 Nephi 5 - My Notes]]
 - [[Alma 46]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]] ↔ [[Alma 46#^alma-46-23|Alma 46:23]]
 - [[3 Nephi 1]] — 3 parallel verses, e.g. [[3 Nephi 5#^3ne-5-2|3 Nephi 5:2]] ↔ [[3 Nephi 1#^3ne-1-20|3 Nephi 1:20]]
 - [[3 Nephi 16]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[3 Nephi 16#^3ne-16-5|3 Nephi 16:5]]
-- [[Moses 7]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-26|3 Nephi 5:26]] ↔ [[Moses 7#^moses-7-62|Moses 7:62]]
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]] ↔ [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]]
+- [[Moses 7]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-26|3 Nephi 5:26]] ↔ [[Moses 7#^moses-7-62|Moses 7:62]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-23|3 Nephi 5:23]] ↔ [[3 Nephi 20#^3ne-20-13|3 Nephi 20:13]]
 - [[D&C 33]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[D&C 33#^dc-33-6|D&C 33:6]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[3 Nephi 5#^3ne-5-24|3 Nephi 5:24]] ↔ [[D&C 45#^dc-45-46|D&C 45:46]]

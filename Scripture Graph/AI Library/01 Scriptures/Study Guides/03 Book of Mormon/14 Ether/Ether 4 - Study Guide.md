@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 4
 slug: ether-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

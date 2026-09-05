@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 20
 slug: 1kgs-20
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Ahab** (reference-entry) *(explicit citation)*
+- **Benhadad** (reference-entry) *(explicit citation)*
+- **Damascus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

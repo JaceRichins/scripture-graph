@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 4
 slug: ezra-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Aramaic** (reference-entry) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
+- **Darius** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

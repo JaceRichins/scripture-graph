@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 4
 slug: alma-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,24 +52,25 @@ Scripture: [[Alma 4]] · My notes: [[Alma 4 - My Notes]]
 - [[Alma 3]] — 2 footnote cross-references (from [[Alma 4#^alma-4-2|Alma 4:2]])
 - [[Mosiah 29]] — 2 footnote cross-references (from [[Alma 4#^alma-4-4|Alma 4:4]])
 - [[Alma 16]] — 2 footnote cross-references (from [[Alma 4#^alma-4-9|Alma 4:9]])
+- [[Alma 1]] — 8 parallel verses, e.g. [[Alma 4#^alma-4-8|Alma 4:8]] ↔ [[Alma 1#^alma-1-6|Alma 1:6]]
+- [[Mosiah 11]] — 4 parallel verses, e.g. [[Alma 4#^alma-4-6|Alma 4:6]] ↔ [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]]
+- [[Alma 62]] — 3 parallel verses, e.g. [[Alma 4#^alma-4-6|Alma 4:6]] ↔ [[Alma 62#^alma-62-49|Alma 62:49]]
+- [[Alma 8]] — 3 parallel verses, e.g. [[Alma 4#^alma-4-20|Alma 4:20]] ↔ [[Alma 8#^alma-8-24|Alma 8:24]]
 - [[Mosiah 26]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-9|Alma 4:9]] ↔ [[Mosiah 26#^mosiah-26-38|Mosiah 26:38]]
+- [[Helaman 1]] — 3 parallel verses, e.g. [[Alma 4#^alma-4-16|Alma 4:16]] ↔ [[Helaman 1#^hel-1-8|Helaman 1:8]]
+- [[Alma 46]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-9|Alma 4:9]] ↔ [[Alma 46#^alma-46-14|Alma 46:14]]
 - [[2 Nephi 26]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-8|Alma 4:8]] ↔ [[2 Nephi 26#^2ne-26-20|2 Nephi 26:20]]
 - [[Alma 13]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-20|Alma 4:20]] ↔ [[Alma 13#^alma-13-6|Alma 13:6]]
+- [[Mormon 8]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-8|Alma 4:8]] ↔ [[Mormon 8#^morm-8-28|Mormon 8:28]]
+- [[3 Nephi 6]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-6|Alma 4:6]] ↔ [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]]
 - [[3 Nephi 16]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-8|Alma 4:8]] ↔ [[3 Nephi 16#^3ne-16-10|3 Nephi 16:10]]
-- [[3 Nephi 28]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-10|Alma 4:10]] ↔ [[3 Nephi 28#^3ne-28-19|3 Nephi 28:19]]
-- [[Alma 51]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-16|Alma 4:16]] ↔ [[Alma 51#^alma-51-16|Alma 51:16]]
-- [[Helaman 11]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-11|Alma 4:11]] ↔ [[Helaman 11#^hel-11-30|Helaman 11:30]]
-- [[Alma 6]] — 2 parallel verses, e.g. [[Alma 4#^alma-4-6|Alma 4:6]] ↔ [[Alma 6#^alma-6-3|Alma 6:3]]
-- [[Mosiah 1]] — 1 parallel verse, e.g. [[Alma 4#^alma-4-19|Alma 4:19]] ↔ [[Mosiah 1#^mosiah-1-17|Mosiah 1:17]]
-- [[Helaman 12]] — 1 parallel verse, e.g. [[Alma 4#^alma-4-8|Alma 4:8]] ↔ [[Helaman 12#^hel-12-4|Helaman 12:4]]
-- [[Alma 1]] — 0 parallel verses
-- [[3 Nephi 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Pride]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Pride]] *(keyword match — unconfirmed)*
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Adversity]] *(keyword match — unconfirmed)*
@@ -94,6 +95,7 @@ Scripture: [[Alma 4]] · My notes: [[Alma 4 - My Notes]]
 - [[Be Perfected in Him (Elder Paul V. Johnson, October 2022)|Be Perfected in Him]] — Elder Paul V. Johnson, 2022-October *(explicit citation)*
 - [[“This Is My Gospel”—“This Is My Church” (Elder Dale G. Renlund, October 2024)|“This Is My Gospel”—“This Is My Church”]] — Elder Dale G. Renlund, 2024-October *(explicit citation)*
 - [[Can Ye Feel So Now (Elder Quentin L. Cook, October 2012)|Can Ye Feel So Now?]] — Elder Quentin L. Cook, 2012-October *(explicit citation)*
+- [[Our Father’s Plan—Big Enough for All His Children (Elder Quentin L. Cook, April 2009)|Our Father’s Plan—Big Enough for All His Children]] — Elder Quentin L. Cook, 2009-April *(explicit citation)*
 - [[The Parable of the Sower (Elder Dallin H. Oaks, April 2015)|The Parable of the Sower]] — Elder Dallin H. Oaks, 2015-April *(explicit citation)*
 - [[The Healing Ointment of Forgiveness (Elder Kevin R. Duncan, April 2016)|The Healing Ointment of Forgiveness]] — Elder Kevin R. Duncan, 2016-April *(explicit citation)*
 <!-- SG:END conference -->

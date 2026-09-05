@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 35
 slug: num-35
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -91,7 +91,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Cities of refuge** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 31
 slug: prov-31
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,12 +59,13 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Be an Example of the Believers (Mary N. Cook, October 2010)|Be an Example of the Believers]] — Mary N. Cook, 2010-October *(explicit citation)*
 - [[The Essence of Discipleship (Silvia H. Allred, April 2011)|The Essence of Discipleship]] — Silvia H. Allred, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Education** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 28
 slug: num-28
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -61,7 +61,7 @@ The same animal pattern—two bullocks, one ram, and seven lambs—appears in th
 - [[Exodus 29]] — 3 parallel verses, e.g. [[Numbers 28#^num-28-5|Numbers 28:5]] ↔ [[Exodus 29#^ex-29-40|Exodus 29:40]]
 - [[Numbers 18]] — 2 parallel verses, e.g. [[Numbers 28#^num-28-2|Numbers 28:2]] ↔ [[Numbers 18#^num-18-17|Numbers 18:17]]
 - [[Leviticus 9]] — 2 parallel verses, e.g. [[Numbers 28#^num-28-15|Numbers 28:15]] ↔ [[Leviticus 9#^lev-9-3|Leviticus 9:3]]
-- [[Ezekiel 46]] — 2 parallel verses, e.g. [[Numbers 28#^num-28-11|Numbers 28:11]] ↔ [[Ezekiel 46#^ezek-46-13|Ezekiel 46:13]]
+- [[Leviticus 6]] — 2 parallel verses, e.g. [[Numbers 28#^num-28-5|Numbers 28:5]] ↔ [[Leviticus 6#^lev-6-20|Leviticus 6:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

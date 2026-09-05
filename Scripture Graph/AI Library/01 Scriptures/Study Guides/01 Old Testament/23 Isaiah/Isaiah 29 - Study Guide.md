@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 29
 slug: isa-29
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Isaiah 29#^isa-29-21|Isaiah 29:21]] ↔ [[2 Nephi 28#^2ne-28-16|2 Nephi 28:16]]
 - [[2 Nephi 25]] — 0 parallel verses
 - [[2 Nephi 33]] — 0 parallel verses
+- [[1 Corinthians 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

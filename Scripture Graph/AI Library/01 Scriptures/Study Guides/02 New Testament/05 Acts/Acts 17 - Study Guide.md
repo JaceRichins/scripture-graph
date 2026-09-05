@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 17
 slug: acts-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,9 +63,9 @@ Scripture: [[Acts 17]] · My notes: [[Acts 17 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[Final Judgment]]
 - [[Government and Laws]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -97,6 +97,8 @@ The chapter binds [[Jesus Christ (Gospel Topic)]] to suffering, [[Resurrection]]
 - **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Athens** (reference-entry) *(explicit citation)*
+- **Caesar** (reference-entry) *(explicit citation)*
+- **Dispersion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

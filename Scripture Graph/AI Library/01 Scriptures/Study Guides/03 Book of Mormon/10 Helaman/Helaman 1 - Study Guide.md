@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 1
 slug: hel-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,8 +58,8 @@ Helaman 1 presents political breakdown and foreign invasion as causally connecte
 - [[Helaman 4]] — 2 footnote cross-references (from [[Helaman 1#^hel-1-15|Helaman 1:15]])
 - [[Matthew 12]] — 1 footnote cross-reference (from [[Helaman 1#^hel-1-4|Helaman 1:4]])
 - [[Alma 2]] — 3 parallel verses, e.g. [[Helaman 1#^hel-1-14|Helaman 1:14]] ↔ [[Alma 2#^alma-2-12|Alma 2:12]]
-- [[Alma 51]] — 3 parallel verses, e.g. [[Helaman 1#^hel-1-8|Helaman 1:8]] ↔ [[Alma 51#^alma-51-16|Alma 51:16]]
 - [[Alma 4]] — 3 parallel verses, e.g. [[Helaman 1#^hel-1-8|Helaman 1:8]] ↔ [[Alma 4#^alma-4-16|Alma 4:16]]
+- [[Alma 51]] — 3 parallel verses, e.g. [[Helaman 1#^hel-1-8|Helaman 1:8]] ↔ [[Alma 51#^alma-51-16|Alma 51:16]]
 - [[Ether 7]] — 2 parallel verses, e.g. [[Helaman 1#^hel-1-8|Helaman 1:8]] ↔ [[Ether 7#^ether-7-18|Ether 7:18]]
 - [[Alma 30]] — 2 parallel verses, e.g. [[Helaman 1#^hel-1-1|Helaman 1:1]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Helaman 1#^hel-1-15|Helaman 1:15]] ↔ [[Alma 50#^alma-50-28|Alma 50:28]]

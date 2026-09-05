@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 14
 slug: acts-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,8 @@ The Antioch in verse 21 is Pisidian Antioch; the Antioch in verses 26–28 is th
 - [[Acts 17]] — 0 parallel verses
 - [[Acts 3]] — 0 parallel verses
 - [[2 Timothy 3]] — 0 parallel verses
+- [[Acts 16]] — 0 parallel verses
+- [[Acts 28]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +80,7 @@ The Antioch in verse 21 is Pisidian Antioch; the Antioch in verses 26–28 is th
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -87,6 +89,9 @@ _Not yet developed._
 - **Times and Seasons 1845-07-01 (Vol. 6 No. 12)** (periodical, 1845-07-01) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-06-01 (Vol. 3 No. 9)** (periodical, 1837-06-01) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
+- **Barnabas** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Dispersion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

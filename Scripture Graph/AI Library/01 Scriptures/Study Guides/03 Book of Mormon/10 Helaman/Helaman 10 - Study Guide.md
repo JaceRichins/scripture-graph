@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 10
 slug: hel-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -76,7 +76,7 @@ _Not yet developed._
 - [[Faith A Bond of Trust and Loyalty (Elder Sandino Roman, April 2025)|Faith: A Bond of Trust and Loyalty]] — Elder Sandino Roman, 2025-April *(explicit citation)*
 - [[Know Who You Really Are (Elder Brik V. Eyre, October 2025)|Know Who You Really Are]] — Elder Brik V. Eyre, 2025-October *(explicit citation)*
 - [[Come, Join with Us (President Dieter F. Uchtdorf, October 2013)|Come, Join with Us]] — President Dieter F. Uchtdorf, 2013-October *(explicit citation)*
-- [[Drawing Closer to God (Elder Terence M. Vinson, October 2013)|Drawing Closer to God]] — Elder Terence M. Vinson, 2013-October *(explicit citation)*
+- [[Be Ready (President Henry B. Eyring, October 2009)|Be Ready]] — President Henry B. Eyring, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 8
 slug: ex-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,10 +56,10 @@ The first and third episodes closely correspond, while the compact middle episod
 - [[Exodus 10]] — 5 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[Exodus 10#^ex-10-3|Exodus 10:3]]
 - [[Ezekiel 28]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[Ezekiel 28#^ezek-28-12|Ezekiel 28:12]]
 - [[2 Kings 1]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[2 Kings 1#^2kgs-1-6|2 Kings 1:6]]
-- [[Exodus 5]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[Exodus 5#^ex-5-1|Exodus 5:1]]
 - [[Exodus 12]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-13|Exodus 8:13]] ↔ [[Exodus 12#^ex-12-35|Exodus 12:35]]
 - [[Exodus 32]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-13|Exodus 8:13]] ↔ [[Exodus 32#^ex-32-28|Exodus 32:28]]
 - [[2 Chronicles 34]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[2 Chronicles 34#^2chr-34-26|2 Chronicles 34:26]]
+- [[Exodus 5]] — 2 parallel verses, e.g. [[Exodus 8#^ex-8-1|Exodus 8:1]] ↔ [[Exodus 5#^ex-5-1|Exodus 5:1]]
 - [[Exodus 7]] — 0 parallel verses
 - [[Exodus 10]] — 0 parallel verses
 - [[Exodus 9]] — 0 parallel verses

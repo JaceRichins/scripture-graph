@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 31
 slug: 2chr-31
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,8 +53,8 @@ _Not yet developed._
 - [[Ezra 3]] — 2 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-17|2 Chronicles 31:17]] ↔ [[Ezra 3#^ezra-3-8|Ezra 3:8]]
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]] ↔ [[Nehemiah 10#^neh-10-34|Nehemiah 10:34]]
 - [[Luke 2]] — 1 parallel verse, e.g. [[2 Chronicles 31#^2chr-31-3|2 Chronicles 31:3]] ↔ [[Luke 2#^luke-2-23|Luke 2:23]]
-- [[1 Chronicles 23]] — 2 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-21|2 Chronicles 31:21]] ↔ [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]]
 - [[1 Chronicles 9]] — 2 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-13|2 Chronicles 31:13]] ↔ [[1 Chronicles 9#^1chr-9-11|1 Chronicles 9:11]]
+- [[1 Chronicles 23]] — 2 parallel verses, e.g. [[2 Chronicles 31#^2chr-31-21|2 Chronicles 31:21]] ↔ [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]]
 - [[Numbers 3]] — 1 parallel verse, e.g. [[2 Chronicles 31#^2chr-31-19|2 Chronicles 31:19]] ↔ [[Numbers 3#^num-3-3|Numbers 3:3]]
 <!-- SG:END related-scriptures -->
 

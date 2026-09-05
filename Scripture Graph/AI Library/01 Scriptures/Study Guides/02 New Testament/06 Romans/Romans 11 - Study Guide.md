@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 11
 slug: rom-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1836-07-01 (Vol. 2 No. 10)** (periodical, 1836-07-01) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **Benjamin** (reference-entry) *(explicit citation)*
+- **Blindness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

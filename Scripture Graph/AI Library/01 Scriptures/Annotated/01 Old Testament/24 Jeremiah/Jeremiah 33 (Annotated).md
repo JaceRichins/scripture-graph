@@ -52,7 +52,7 @@ cssclasses:
 > [[Jeremiah 32#^jer-32-44|≈ Jeremiah 32:44]]
 
 ![[Jeremiah 33#^jer-33-14]]
-> [[Jeremiah 29#^jer-29-10|Jer. 29:10]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]] · [[Jeremiah 48#^jer-48-12|≈ Jeremiah 48:12]] · [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]] · [[Jeremiah 51#^jer-51-52|≈ Jeremiah 51:52]] · [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]]
+> [[Jeremiah 29#^jer-29-10|Jer. 29:10]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]] · [[Jeremiah 48#^jer-48-12|≈ Jeremiah 48:12]] · [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]] · [[Jeremiah 51#^jer-51-52|≈ Jeremiah 51:52]] · [[Jeremiah 16#^jer-16-14|≈ Jeremiah 16:14]]
 
 ![[Jeremiah 33#^jer-33-15]]
 

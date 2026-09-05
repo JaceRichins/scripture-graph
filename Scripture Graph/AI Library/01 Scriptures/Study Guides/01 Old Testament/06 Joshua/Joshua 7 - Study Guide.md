@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 7
 slug: josh-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,8 @@ The text never says how "the LORD taketh" was determined at each stage (7:14) �
 - [[Deuteronomy 1]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-7|Joshua 7:7]] ↔ [[Deuteronomy 1#^deut-1-27|Deuteronomy 1:27]]
 - [[Judges 2]] — 2 parallel verses, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
 - [[Nehemiah 11]] — 2 parallel verses, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Nehemiah 11#^neh-11-17|Nehemiah 11:17]]
-- [[Numbers 25]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Numbers 25#^num-25-3|Numbers 25:3]]
 - [[Numbers 12]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Numbers 12#^num-12-9|Numbers 12:9]]
+- [[Numbers 25]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Numbers 25#^num-25-3|Numbers 25:3]]
 - [[Exodus 4]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Exodus 4#^ex-4-14|Exodus 4:14]]
 - [[Deuteronomy 29]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[Deuteronomy 29#^deut-29-27|Deuteronomy 29:27]]
 - [[2 Samuel 6]] — 1 parallel verse, e.g. [[Joshua 7#^josh-7-1|Joshua 7:1]] ↔ [[2 Samuel 6#^2sam-6-7|2 Samuel 6:7]]
@@ -90,7 +90,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Confession** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

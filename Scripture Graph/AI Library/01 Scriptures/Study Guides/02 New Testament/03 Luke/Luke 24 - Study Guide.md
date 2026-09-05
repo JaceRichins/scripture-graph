@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 24
 slug: luke-24
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,9 @@ _Not yet developed._
 - [[Acts 20]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-1|Luke 24:1]] ↔ [[Acts 20#^acts-20-7|Acts 20:7]]
 - [[2 Kings 1]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-17|Luke 24:17]] ↔ [[2 Kings 1#^2kgs-1-7|2 Kings 1:7]]
 - [[D&C 95]] — 0 parallel verses
+- [[Acts 1]] — 0 parallel verses
+- [[Acts 17]] — 0 parallel verses
+- [[Acts 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,12 +92,12 @@ _Not yet developed._
 - **21 The Spirit of God** (history) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
 - **Easter** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
-- **Times and Seasons 1840-02-01 (Vol. 1 No. 4)** (periodical, 1840-02-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

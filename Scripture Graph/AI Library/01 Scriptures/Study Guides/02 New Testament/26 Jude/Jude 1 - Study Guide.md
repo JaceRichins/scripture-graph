@@ -6,7 +6,7 @@ volume: New Testament
 book: Jude
 chapter: 1
 slug: jude-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,8 @@ _Not yet developed._
 - [[How Great Will Be Your Joy (Elder Ronald A. Rasband, October 2023)|How Great Will Be Your Joy]] — Elder Ronald A. Rasband, 2023-October *(explicit citation)*
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
+- [[“You Are My Hands” (President Dieter F. Uchtdorf, April 2010)|“You Are My Hands”]] — President Dieter F. Uchtdorf, 2010-April *(explicit citation)*
+- [[And of Some Have Compassion, Making a Difference (Barbara Thompson, October 2010)|And of Some Have Compassion, Making a Difference]] — Barbara Thompson, 2010-October *(explicit citation)*
 - [[Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]] — Elder Dallin H. Oaks, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -77,6 +79,10 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Bible** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Balaam** (reference-entry) *(explicit citation)*
+- **Cain** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Darkness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

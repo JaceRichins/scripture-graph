@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 11
 slug: 2ne-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -51,8 +51,8 @@ _Not yet developed._
 - [[3 Nephi 23]] — 1 footnote cross-reference (from [[2 Nephi 11#^2ne-11-2|2 Nephi 11:2]])
 - [[2 Nephi 16]] — 1 footnote cross-reference (from [[2 Nephi 11#^2ne-11-2|2 Nephi 11:2]])
 - [[2 Nephi 10]] — 1 footnote cross-reference (from [[2 Nephi 11#^2ne-11-3|2 Nephi 11:3]])
+- [[2 Nephi 2]] — 1 parallel verse, e.g. [[2 Nephi 11#^2ne-11-7|2 Nephi 11:7]] ↔ [[2 Nephi 2#^2ne-2-13|2 Nephi 2:13]]
 - [[1 Nephi 13]] — 1 parallel verse, e.g. [[2 Nephi 11#^2ne-11-5|2 Nephi 11:5]] ↔ [[1 Nephi 13#^1ne-13-23|1 Nephi 13:23]]
-- [[2 Nephi 2]] — 0 parallel verses
 - [[1 Nephi 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

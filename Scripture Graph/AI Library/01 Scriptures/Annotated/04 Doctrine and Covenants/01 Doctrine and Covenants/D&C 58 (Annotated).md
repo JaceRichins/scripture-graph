@@ -17,7 +17,7 @@ cssclasses:
 > 1–5, Those who endure tribulation will be crowned with glory; 6–12, The Saints are to prepare for the marriage of the Lamb and the supper of the Lord; 13–18, Bishops are judges in Israel; 19–23, The Saints are to obey the laws of the land; 24–29, Men should use their agency to do good; 30–33, The Lord commands and revokes; 34–43, To repent, men must confess and forsake their sins; 44–58, The Saints are to purchase their inheritance and gather in Missouri; 59–65, The gospel must be preached unto every creature.
 
 ![[D&C 58#^dc-58-1]]
-> [[Isaiah 50#^isa-50-5|Isa. 50:5 (5–7)]] · [[D&C 57#^dc-57-1|D&amp;C 57:1 (1–8)]] · [[D&C 41#^dc-41-2|≈ D&C 41:2]] · [[D&C 50#^dc-50-1|≈ D&C 50:1]] · [[D&C 57#^dc-57-1|≈ D&C 57:1]] · [[D&C 43#^dc-43-1|≈ D&C 43:1]]
+> [[Isaiah 50#^isa-50-5|Isa. 50:5 (5–7)]] · [[D&C 57#^dc-57-1|D&amp;C 57:1 (1–8)]] · [[D&C 57#^dc-57-1|≈ D&C 57:1]] · [[D&C 41#^dc-41-2|≈ D&C 41:2]] · [[D&C 50#^dc-50-1|≈ D&C 50:1]] · [[D&C 43#^dc-43-1|≈ D&C 43:1]]
 
 ![[D&C 58#^dc-58-2]]
 > [[Psalm 19#^ps-19-9|Ps. 19:11 (9–11)]] · [[Mosiah 2#^mosiah-2-22|Mosiah 2:22]] · [[1 Peter 4#^1pet-4-6|1 Pet. 4:6]] · [[2 Thessalonians 1#^2thes-1-4|2 Thes. 1:4]]

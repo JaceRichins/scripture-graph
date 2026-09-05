@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 95
 slug: ps-95
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

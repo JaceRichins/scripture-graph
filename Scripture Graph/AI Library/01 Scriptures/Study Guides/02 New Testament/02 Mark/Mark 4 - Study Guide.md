@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 4
 slug: mark-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Matthew 11]] — 1 parallel verse, e.g. [[Mark 4#^mark-4-9|Mark 4:9]] ↔ [[Matthew 11#^matt-11-15|Matthew 11:15]]
 - [[Luke 14]] — 1 parallel verse, e.g. [[Mark 4#^mark-4-9|Mark 4:9]] ↔ [[Luke 14#^luke-14-35|Luke 14:35]]
 - [[Luke 13]] — 1 parallel verse, e.g. [[Mark 4#^mark-4-31|Mark 4:31]] ↔ [[Luke 13#^luke-13-19|Luke 13:19]]
+- [[D&C 40]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

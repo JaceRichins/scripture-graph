@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 28
 slug: jer-28
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

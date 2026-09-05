@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 4
 slug: col-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -79,7 +79,8 @@ Ministry is collaborative. Tychicus communicates and comforts, Onesimus accompan
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Barnabas** (reference-entry) *(explicit citation)*
+- **Colosse** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

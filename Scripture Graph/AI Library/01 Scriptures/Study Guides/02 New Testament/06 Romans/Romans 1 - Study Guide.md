@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 1
 slug: rom-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -48,10 +48,11 @@ _Not yet developed._
 - [[D&C 45]] — 1 footnote cross-reference (from [[Romans 1#^rom-1-4|Romans 1:4]])
 - [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
-- [[1 Thessalonians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
 - [[Colossians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
+- [[1 Thessalonians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
 - [[2 Corinthians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
 - [[Ephesians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
+- [[Acts 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,6 +90,8 @@ _Not yet developed._
 - **Times and Seasons 1840-11-15 (Vol. 2 No. 2)** (periodical, 1840-11-15) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1834-11-01 (Vol. 1 No. 2)** (periodical, 1834-11-01) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
+- **Barbarian** (reference-entry) *(explicit citation)*
+- **Bible** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

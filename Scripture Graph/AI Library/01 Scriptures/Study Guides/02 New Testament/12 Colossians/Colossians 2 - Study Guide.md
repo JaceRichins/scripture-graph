@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 2
 slug: col-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,9 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1844-04-15 (Vol. 5 No. 8)** (periodical, 1844-04-15) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Circumcision** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

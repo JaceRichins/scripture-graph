@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 136
 slug: ps-136
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -45,8 +45,8 @@ _Not yet developed._
 - [[Deuteronomy 4]] — 1 footnote cross-reference (from [[Psalm 136#^ps-136-12|Psalm 136:12]])
 - [[Helaman 8]] — 1 footnote cross-reference (from [[Psalm 136#^ps-136-15|Psalm 136:15]])
 - [[Psalm 118]] — 2 parallel verses, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[Psalm 118#^ps-118-29|Psalm 118:29]]
-- [[Psalm 106]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[Psalm 106#^ps-106-1|Psalm 106:1]]
 - [[1 Chronicles 16]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
+- [[Psalm 106]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[Psalm 106#^ps-106-1|Psalm 106:1]]
 - [[Psalm 107]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-1|Psalm 136:1]] ↔ [[Psalm 107#^ps-107-1|Psalm 107:1]]
 - [[Jeremiah 32]] — 1 parallel verse, e.g. [[Psalm 136#^ps-136-12|Psalm 136:12]] ↔ [[Jeremiah 32#^jer-32-21|Jeremiah 32:21]]
 - [[Ezekiel 20]] — 2 parallel verses, e.g. [[Psalm 136#^ps-136-12|Psalm 136:12]] ↔ [[Ezekiel 20#^ezek-20-33|Ezekiel 20:33]]
@@ -68,7 +68,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Repent … That I May Heal You” (Elder Neil L. Andersen, October 2009)|“Repent … That I May Heal You”]] — Elder Neil L. Andersen, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

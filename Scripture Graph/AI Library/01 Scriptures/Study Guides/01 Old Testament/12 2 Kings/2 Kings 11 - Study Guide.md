@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 11
 slug: 2kgs-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

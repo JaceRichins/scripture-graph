@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 11
 slug: 3ne-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,14 +53,14 @@ A cautious outline follows the chapter's changes in speaker and action:
 - [[1 Nephi 12]] — 2 footnote cross-references (from [[3 Nephi 11#^3ne-11-8|3 Nephi 11:8]])
 - [[D&C 20]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[D&C 20#^dc-20-73|D&C 20:73]]
 - [[3 Nephi 28]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-32|3 Nephi 11:32]] ↔ [[3 Nephi 28#^3ne-28-11|3 Nephi 28:11]]
-- [[3 Nephi 9]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[3 Nephi 18]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-40|3 Nephi 11:40]] ↔ [[3 Nephi 18#^3ne-18-13|3 Nephi 18:13]]
+- [[3 Nephi 9]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]] ↔ [[D&C 93#^dc-93-3|D&C 93:3]]
-- [[John 14]] — 2 parallel verses, e.g. [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]] ↔ [[John 14#^john-14-10|John 14:10]]
 - [[Moses 7]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[Moses 7#^moses-7-11|Moses 7:11]]
+- [[John 14]] — 2 parallel verses, e.g. [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]] ↔ [[John 14#^john-14-10|John 14:10]]
 - [[3 Nephi 12]] — 3 parallel verses, e.g. [[3 Nephi 11#^3ne-11-12|3 Nephi 11:12]] ↔ [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]]
-- [[Matthew 28]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[Matthew 28#^matt-28-19|Matthew 28:19]]
 - [[D&C 39]] — 2 parallel verses, e.g. [[3 Nephi 11#^3ne-11-17|3 Nephi 11:17]] ↔ [[D&C 39#^dc-39-19|D&C 39:19]]
+- [[Matthew 28]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[Matthew 28#^matt-28-19|Matthew 28:19]]
 - [[D&C 68]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]] ↔ [[D&C 68#^dc-68-8|D&C 68:8]]
 - [[D&C 50]] — 1 parallel verse, e.g. [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]] ↔ [[D&C 50#^dc-50-43|D&C 50:43]]
 <!-- SG:END related-scriptures -->

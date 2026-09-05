@@ -7199,6 +7199,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-37-a8626473",
+   "t": "Alma entrusts sacred records to Helaman",
+   "y0": -74,
+   "y1": -74,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates Alma's instructions to Helaman to about 74 B.C.",
+   "chapters": [
+    "Alma 37"
+   ],
+   "people": [
+    "Alma",
+    "Helaman"
+   ],
+   "things": [
+    "Sacred plates",
+    "Interpreters"
+   ]
+  },
+  {
    "id": "r-alma-38-72c141f1",
    "t": "Alma counsels Shiblon",
    "y0": -74,
@@ -7222,6 +7248,58 @@ timeline module, not this file._
    ],
    "things": [
     "missionary instruction"
+   ]
+  },
+  {
+   "id": "r-alma-4-08c329fe",
+   "t": "Nephite church prosperity turns to pride and internal strife",
+   "y0": -85,
+   "y1": -83,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Eighth and ninth years of the reign of the judges as narrated in Alma 4:6-15",
+   "chapters": [
+    "Alma 4"
+   ],
+   "people": [
+    "Alma the Younger"
+   ],
+   "places": [
+    "Zarahemla"
+   ]
+  },
+  {
+   "id": "r-alma-4-8f633d90",
+   "t": "Alma separates the judgment-seat from the high priesthood",
+   "y0": -83,
+   "y1": -83,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Ninth year of the reign of the judges per Book of Mormon internal chronology (Alma 4:20); the chapter heading dates the chapter's events to about 86-83 B.C.",
+   "chapters": [
+    "Alma 4"
+   ],
+   "people": [
+    "Alma the Younger",
+    "Nephihah"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "judgment-seat",
+    "high priesthood"
    ]
   },
   {

@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 28
 slug: acts-28
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,10 +53,11 @@ Scripture: [[Acts 28]] · My notes: [[Acts 28 - My Notes]]
 - [[D&C 84]] — 1 footnote cross-reference (from [[Acts 28#^acts-28-3|Acts 28:3]])
 - [[D&C 124]] — 1 footnote cross-reference (from [[Acts 28#^acts-28-3|Acts 28:3]])
 - [[Luke 10]] — 1 footnote cross-reference (from [[Acts 28#^acts-28-5|Acts 28:5]])
+- [[Matthew 13]] — 2 parallel verses, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[Matthew 13#^matt-13-15|Matthew 13:15]]
 - [[Isaiah 6]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[Isaiah 6#^isa-6-10|Isaiah 6:10]]
 - [[2 Nephi 16]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[2 Nephi 16#^2ne-16-10|2 Nephi 16:10]]
+- [[Moses 6]] — 1 parallel verse, e.g. [[Acts 28#^acts-28-27|Acts 28:27]] ↔ [[Moses 6#^moses-6-27|Moses 6:27]]
 - [[3 Nephi 17]] — 2 parallel verses, e.g. [[Acts 28#^acts-28-29|Acts 28:29]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
-- [[Matthew 13]] — 0 parallel verses
 - [[Acts 14]] — 0 parallel verses
 - [[2 Nephi 16]] — 0 parallel verses
 - [[Luke 2]] — 0 parallel verses
@@ -64,10 +65,10 @@ Scripture: [[Acts 28]] · My notes: [[Acts 28 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[Kingdom of God]]
 - [[Scripture Study]]
 - [[The Godhead]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -82,12 +83,17 @@ The healing of Publius's father joins [[Prayer]], laying on of hands, and healin
 - [[Highly Favored of the Lord (Elder Gary E. Stevenson, October 2020)|Highly Favored of the Lord]] — Elder Gary E. Stevenson, 2020-October *(explicit citation)*
 - [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
+- [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
+- **Barbarian** (reference-entry) *(explicit citation)*
+- **Centurion** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Dispersion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

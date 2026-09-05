@@ -53,7 +53,7 @@ cssclasses:
 > [[Jeremiah 5#^jer-5-21|Jer. 5:21]] · [[Romans 11#^rom-11-8|Rom. 11:8]] · [[2 Nephi 9#^2ne-9-31|2 Ne. 9:31]] · [[2 Nephi 16#^2ne-16-10|16:10]] · [[Acts 28#^acts-28-26|≈ Acts 28:26]]
 
 ![[Matthew 13#^matt-13-15]]
-> [[3 Nephi 9#^3ne-9-13|3 Ne. 9:13]] · [[3 Nephi 18#^3ne-18-32|18:32]] · [[Moses 6#^moses-6-27|≈ Moses 6:27]] · [[Isaiah 6#^isa-6-10|≈ Isaiah 6:10]] · [[Acts 28#^acts-28-27|≈ Acts 28:27]] · [[2 Nephi 16#^2ne-16-10|≈ 2 Nephi 16:10]]
+> [[3 Nephi 9#^3ne-9-13|3 Ne. 9:13]] · [[3 Nephi 18#^3ne-18-32|18:32]] · [[Moses 6#^moses-6-27|≈ Moses 6:27]] · [[Acts 28#^acts-28-27|≈ Acts 28:27]] · [[Isaiah 6#^isa-6-10|≈ Isaiah 6:10]] · [[2 Nephi 16#^2ne-16-10|≈ 2 Nephi 16:10]]
 
 ![[Matthew 13#^matt-13-16]]
 > [[Luke 10#^luke-10-23|Luke 10:23]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 30
 slug: alma-30
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ Scripture: [[Alma 30]] · My notes: [[Alma 30 - My Notes]]
 - [[Alma 31]] — 3 footnote cross-references (from [[Alma 30#^alma-30-12|Alma 30:12]])
 - [[Mosiah 2]] — 2 footnote cross-references (from [[Alma 30#^alma-30-3|Alma 30:3]])
 - [[Alma 34]] — 2 footnote cross-references (from [[Alma 30#^alma-30-3|Alma 30:3]])
+- [[Alma 28]] — 2 parallel verses, e.g. [[Alma 30#^alma-30-1|Alma 30:1]] ↔ [[Alma 28#^alma-28-1|Alma 28:1]]
 - [[Alma 50]] — 3 parallel verses, e.g. [[Alma 30#^alma-30-5|Alma 30:5]] ↔ [[Alma 50#^alma-50-25|Alma 50:25]]
 - [[Alma 18]] — 3 parallel verses, e.g. [[Alma 30#^alma-30-37|Alma 30:37]] ↔ [[Alma 18#^alma-18-24|Alma 18:24]]
 - [[Helaman 13]] — 2 parallel verses, e.g. [[Alma 30#^alma-30-3|Alma 30:3]] ↔ [[Helaman 13#^hel-13-1|Helaman 13:1]]
@@ -72,13 +73,13 @@ Scripture: [[Alma 30]] · My notes: [[Alma 30 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Freedom and Liberty]]
 - [[Satan and Temptation]]
 - [[Law of Moses]]
 - [[War and Peace]]
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -94,6 +95,7 @@ Scripture: [[Alma 30]] · My notes: [[Alma 30 - My Notes]]
 <!-- SG:BEGIN conference -->
 - [[Hearing His Voice (Elder David P. Homer, April 2019)|Hearing His Voice]] — Elder David P. Homer, 2019-April *(explicit citation)*
 - [[Nourish the Roots, and the Branches Will Grow (Elder Dieter F. Uchtdorf, October 2024)|Nourish the Roots, and the Branches Will Grow]] — Elder Dieter F. Uchtdorf, 2024-October *(explicit citation)*
+- [[Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ (Elder Robert D. Hales, October 2009)|Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ]] — Elder Robert D. Hales, 2009-October *(explicit citation)*
 - [[The Eye of Faith (Elder Neil L. Andersen, April 2019)|The Eye of Faith]] — Elder Neil L. Andersen, 2019-April *(explicit citation)*
 - [[Integrity A Christlike Attribute (Elder Jack N. Gerard, April 2024)|Integrity: A Christlike Attribute]] — Elder Jack N. Gerard, 2024-April *(explicit citation)*
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
@@ -101,7 +103,6 @@ Scripture: [[Alma 30]] · My notes: [[Alma 30 - My Notes]]
 - [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
 - [[For Our Spiritual Development and Learning (Elder W. Mark Bassett, October 2016)|For Our Spiritual Development and Learning]] — Elder W. Mark Bassett, 2016-October *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
-- [[Serve (Elder Carl B. Cook, October 2016)|Serve]] — Elder Carl B. Cook, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

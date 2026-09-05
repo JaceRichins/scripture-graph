@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 15
 slug: gen-15
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
+- **Blood** (reference-entry) *(explicit citation)*
+- **Damascus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

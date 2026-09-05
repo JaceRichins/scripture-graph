@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 18
 slug: judg-18
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -79,7 +79,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Dan** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

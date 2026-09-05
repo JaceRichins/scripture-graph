@@ -85,7 +85,7 @@ cssclasses:
 > [[D&C 42#^dc-42-13|D&amp;C 42:13 (13–29)]] · [[D&C 107#^dc-107-63|≈ D&C 107:63]] · [[D&C 107#^dc-107-12|≈ D&C 107:12]]
 
 ![[D&C 68#^dc-68-25]]
-> [[1 Samuel 3#^1sam-3-13|1 Sam. 3:13]] · [[Psalm 78#^ps-78-4|Ps. 78:4 (4–6)]] · [[Hebrews 6#^heb-6-2|Heb. 6:2]] · [[D&C 18#^dc-18-42|D&amp;C 18:42]] · [[D&C 20#^dc-20-71|20:71]] · [[Ezekiel 33#^ezek-33-2|Ezek. 33:4 (2–8)]] · [[Jacob 1#^jacob-1-19|Jacob 1:19]] · [[D&C 29#^dc-29-48|D&amp;C 29:48]] · [[Mormon 9#^morm-9-29|≈ Mormon 9:29]] · [[Mormon 5#^morm-5-14|≈ Mormon 5:14]]
+> [[1 Samuel 3#^1sam-3-13|1 Sam. 3:13]] · [[Psalm 78#^ps-78-4|Ps. 78:4 (4–6)]] · [[Hebrews 6#^heb-6-2|Heb. 6:2]] · [[D&C 18#^dc-18-42|D&amp;C 18:42]] · [[D&C 20#^dc-20-71|20:71]] · [[Ezekiel 33#^ezek-33-2|Ezek. 33:4 (2–8)]] · [[Jacob 1#^jacob-1-19|Jacob 1:19]] · [[D&C 29#^dc-29-48|D&amp;C 29:48]] · [[Mormon 5#^morm-5-14|≈ Mormon 5:14]] · [[Mormon 9#^morm-9-29|≈ Mormon 9:29]]
 
 ![[D&C 68#^dc-68-26]]
 > [[D&C 107#^dc-107-74|≈ D&C 107:74]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 16
 slug: 1cor-16
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -46,10 +46,13 @@ The chapter follows a recognizable Pauline letter-closing pattern also found in 
 - [[Deuteronomy 16]] — 1 footnote cross-reference (from [[1 Corinthians 16#^1cor-16-2|1 Corinthians 16:2]])
 - [[Colossians 4]] — 1 footnote cross-reference (from [[1 Corinthians 16#^1cor-16-9|1 Corinthians 16:9]])
 - [[1 Thessalonians 3]] — 1 footnote cross-reference (from [[1 Corinthians 16#^1cor-16-10|1 Corinthians 16:10]])
-- [[Romans 16]] — 0 parallel verses
-- [[Galatians 6]] — 0 parallel verses
-- [[1 Thessalonians 5]] — 0 parallel verses
-- [[2 Thessalonians 3]] — 0 parallel verses
+- [[Romans 16]] — 3 parallel verses, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
+- [[Philippians 4]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
+- [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
+- [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
+- [[Revelation 22]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
+- [[Galatians 6]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Galatians 6#^gal-6-18|Galatians 6:18]]
+- [[Philemon 1]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

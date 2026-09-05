@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 7
 slug: morm-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

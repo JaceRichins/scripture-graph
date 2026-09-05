@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 12
 slug: mosiah-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ _Not yet developed._
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Ten Commandments** (reference-entry) *(explicit citation)*
+- **Commandments, the Ten** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 27
 slug: prov-27
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

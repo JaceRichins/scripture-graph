@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 4
 slug: abr-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,15 +56,15 @@ _Not yet developed._
 - [[Proverbs 3]] — 1 footnote cross-reference (from [[Abraham 4#^abr-4-1|Abraham 4:1]])
 - [[Moses 1]] — 1 footnote cross-reference (from [[Abraham 4#^abr-4-1|Abraham 4:1]])
 - [[Amos 9]] — 1 footnote cross-reference (from [[Abraham 4#^abr-4-9|Abraham 4:9]])
+- [[Genesis 1]] — 32 parallel verses, e.g. [[Abraham 4#^abr-4-26|Abraham 4:26]] ↔ [[Genesis 1#^gen-1-26|Genesis 1:26]]
+- [[Moses 2]] — 28 parallel verses, e.g. [[Abraham 4#^abr-4-28|Abraham 4:28]] ↔ [[Moses 2#^moses-2-28|Moses 2:28]]
 - [[Genesis 7]] — 6 parallel verses, e.g. [[Abraham 4#^abr-4-25|Abraham 4:25]] ↔ [[Genesis 7#^gen-7-14|Genesis 7:14]]
+- [[Psalm 8]] — 2 parallel verses, e.g. [[Abraham 4#^abr-4-26|Abraham 4:26]] ↔ [[Psalm 8#^ps-8-8|Psalm 8:8]]
 - [[Genesis 11]] — 2 parallel verses, e.g. [[Abraham 4#^abr-4-29|Abraham 4:29]] ↔ [[Genesis 11#^gen-11-8|Genesis 11:8]]
 - [[Genesis 9]] — 2 parallel verses, e.g. [[Abraham 4#^abr-4-28|Abraham 4:28]] ↔ [[Genesis 9#^gen-9-1|Genesis 9:1]]
 - [[Leviticus 11]] — 2 parallel verses, e.g. [[Abraham 4#^abr-4-26|Abraham 4:26]] ↔ [[Leviticus 11#^lev-11-41|Leviticus 11:41]]
 - [[Genesis 2]] — 1 parallel verse, e.g. [[Abraham 4#^abr-4-30|Abraham 4:30]] ↔ [[Genesis 2#^gen-2-20|Genesis 2:20]]
 - [[Moses 3]] — 1 parallel verse, e.g. [[Abraham 4#^abr-4-30|Abraham 4:30]] ↔ [[Moses 3#^moses-3-20|Moses 3:20]]
-- [[Genesis 1]] — 0 parallel verses
-- [[Moses 2]] — 0 parallel verses
-- [[Psalm 8]] — 0 parallel verses
 - [[Moses 2]] — 0 parallel verses
 - [[Abraham 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -86,6 +86,8 @@ Several conclusions require restraint. The plural grammar and explicit counsel a
 <!-- SG:BEGIN conference -->
 - [[Family Councils (Elder M. Russell Ballard, April 2016)|Family Councils]] — Elder M. Russell Ballard, 2016-April *(explicit citation)*
 - [[Has the Day of Miracles Ceased (Elder Donald L. Hallstrom, October 2017)|Has the Day of Miracles Ceased?]] — Elder Donald L. Hallstrom, 2017-October *(explicit citation)*
+- [[Counsel to Young Men (President Boyd K. Packer, April 2009)|Counsel to Young Men]] — President Boyd K. Packer, 2009-April *(explicit citation)*
+- [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
 - [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
 - [[The Plan of Happiness (President Boyd K. Packer, April 2015)|The Plan of Happiness]] — President Boyd K. Packer, 2015-April *(explicit citation)*
 <!-- SG:END conference -->

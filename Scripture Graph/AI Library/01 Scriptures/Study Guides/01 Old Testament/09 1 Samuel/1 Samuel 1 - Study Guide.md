@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 1
 slug: 1sam-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -75,7 +75,7 @@ The story also places private anguish inside communal worship at Shiloh. Its use
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Counsel to Young Men (President Boyd K. Packer, April 2009)|Counsel to Young Men]] — President Boyd K. Packer, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

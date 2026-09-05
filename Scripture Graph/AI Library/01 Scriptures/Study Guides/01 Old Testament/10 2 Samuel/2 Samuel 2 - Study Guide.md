@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 2
 slug: 2sam-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Abner** (reference-entry) *(explicit citation)*
 - **Asahel** (reference-entry) *(explicit citation)*
+- **Bethlehem** (reference-entry) *(explicit citation)*
+- **David** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

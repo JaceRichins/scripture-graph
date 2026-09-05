@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 11
 slug: matt-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ _Not yet developed._
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
+- **Bethsaida** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 1
 slug: hosea-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

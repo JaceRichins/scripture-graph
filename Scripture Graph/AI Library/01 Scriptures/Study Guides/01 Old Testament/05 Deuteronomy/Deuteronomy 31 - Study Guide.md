@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 31
 slug: deut-31
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,8 @@ The chapter joins divine presence with human covenant responsibility. Israel and
 ## Church History
 <!-- SG:BEGIN history -->
 - **Abortion** (reference-entry) *(explicit citation)*
+- **Cloud** (reference-entry) *(explicit citation)*
+- **Deuteronomy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

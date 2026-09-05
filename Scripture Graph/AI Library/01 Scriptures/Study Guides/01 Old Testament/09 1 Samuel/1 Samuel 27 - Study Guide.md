@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 27
 slug: 1sam-27
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Amalek, Amalekites** (reference-entry) *(explicit citation)*
+- **Carmel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

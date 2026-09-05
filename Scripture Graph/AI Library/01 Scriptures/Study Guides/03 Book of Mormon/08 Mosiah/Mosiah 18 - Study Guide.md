@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 18
 slug: mosiah-18
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Alma 46]] — 2 parallel verses, e.g. [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]] ↔ [[Alma 46#^alma-46-1|Alma 46:1]]
 - [[Ether 6]] — 2 parallel verses, e.g. [[Mosiah 18#^mosiah-18-19|Mosiah 18:19]] ↔ [[Ether 6#^ether-6-25|Ether 6:25]]
 - [[Alma 21]] — 1 parallel verse, e.g. [[Mosiah 18#^mosiah-18-2|Mosiah 18:2]] ↔ [[Alma 21#^alma-21-9|Alma 21:9]]
+- [[Alma 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

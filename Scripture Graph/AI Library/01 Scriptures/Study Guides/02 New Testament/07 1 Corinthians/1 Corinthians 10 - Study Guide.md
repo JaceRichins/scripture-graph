@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 10
 slug: 1cor-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,8 +63,8 @@ _Not yet developed._
 - [[Exodus and Deliverance]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Light of Christ]] *(keyword match — unconfirmed)*
-- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Sacrifice]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -82,7 +82,12 @@ _Not yet developed._
 - [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
 - [[Look down the Road (Elder Alvin F. Meredith III, October 2021)|Look down the Road]] — Elder Alvin F. Meredith III, 2021-October *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[Preparation Brings Blessings (President Thomas S. Monson, April 2010)|Preparation Brings Blessings]] — President Thomas S. Monson, 2010-April *(explicit citation)*
+- [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
+- [[The Three Rs of Choice (President Thomas S. Monson, October 2010)|The Three Rs of Choice]] — President Thomas S. Monson, 2010-October *(explicit citation)*
 - [[Courage to Proclaim the Truth (Elder Denelson Silva, October 2022)|Courage to Proclaim the Truth]] — Elder Denelson Silva, 2022-October *(explicit citation)*
+- [[Becoming Provident Providers Temporally and Spiritually (Elder Robert D. Hales, April 2009)|Becoming Provident Providers Temporally and Spiritually]] — Elder Robert D. Hales, 2009-April *(explicit citation)*
+- [[Prayer and Promptings (President Boyd K. Packer, October 2009)|Prayer and Promptings]] — President Boyd K. Packer, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -91,6 +96,10 @@ _Not yet developed._
 - **Same-Sex Attraction** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
+- **Baptism** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Communion** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 18
 slug: 1kgs-18
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ The chapter bears on [[Prophets]], [[Sacrifice]], [[Miracles]], and [[Prayer]]. 
 <!-- SG:BEGIN history -->
 - **Ahab** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
+- **Carmel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

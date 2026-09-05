@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 2
 slug: 1sam-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

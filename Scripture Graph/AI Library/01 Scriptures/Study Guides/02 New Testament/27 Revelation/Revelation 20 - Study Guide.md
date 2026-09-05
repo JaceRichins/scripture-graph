@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 20
 slug: rev-20
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,8 @@ _Not yet developed._
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-05-01 (Vol. 1 No. 7)** (periodical, 1840-05-01) *(explicit citation)*
 - **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
+- **Book of life** (reference-entry) *(explicit citation)*
+- **Death** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

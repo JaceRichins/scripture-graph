@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 2
 slug: 1pet-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -93,7 +93,12 @@ Its language of a holy and royal [[Priesthood]] is corporate and vocational: the
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Bishop** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
+- **Conversation** (reference-entry) *(explicit citation)*
+- **Darkness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

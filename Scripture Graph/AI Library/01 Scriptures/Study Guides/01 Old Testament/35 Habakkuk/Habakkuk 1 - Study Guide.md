@@ -6,7 +6,7 @@ volume: Old Testament
 book: Habakkuk
 chapter: 1
 slug: hab-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -41,6 +41,7 @@ _Not yet developed._
 - [[D&C 121]] — 1 footnote cross-reference (from [[Habakkuk 1#^hab-1-2|Habakkuk 1:2]])
 - [[Micah 6]] — 1 footnote cross-reference (from [[Habakkuk 1#^hab-1-2|Habakkuk 1:2]])
 - [[Acts 13]] — 1 footnote cross-reference (from [[Habakkuk 1#^hab-1-5|Habakkuk 1:5]])
+- [[Acts 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

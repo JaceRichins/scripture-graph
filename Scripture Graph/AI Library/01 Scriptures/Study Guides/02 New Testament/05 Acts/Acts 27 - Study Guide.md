@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 27
 slug: acts-27
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -61,7 +61,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Centurion** (reference-entry) *(explicit citation)*
+- **Cilicia** (reference-entry) *(explicit citation)*
+- **Cyprus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

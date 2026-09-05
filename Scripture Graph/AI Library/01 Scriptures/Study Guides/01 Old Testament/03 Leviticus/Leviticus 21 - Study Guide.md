@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 21
 slug: lev-21
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Anoint** (reference-entry) *(explicit citation)*
+- **Clean and unclean** (reference-entry) *(explicit citation)*
+- **Divorce** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -17,7 +17,7 @@ cssclasses:
 > Amlici seeks to be king and is rejected by the voice of the people—His followers make him king—The Amlicites make war on the Nephites and are defeated—The Lamanites and Amlicites join forces and are defeated—Alma slays Amlici. About 87 B.C.
 
 ![[Alma 2#^alma-2-1]]
-> [[Alma 1#^alma-1-15|Alma 1:15]] · [[Alma 16#^alma-16-11|16:11]] · [[Alma 24#^alma-24-28|24:28 (28–30)]] · [[Alma 1#^alma-1-8|Alma 1:8]] · [[Alma 8#^alma-8-3|≈ Alma 8:3]] · [[Alma 45#^alma-45-20|≈ Alma 45:20]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[Alma 51#^alma-51-2|≈ Alma 51:2]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[Mosiah 24#^mosiah-24-7|≈ Mosiah 24:7]]
+> [[Alma 1#^alma-1-15|Alma 1:15]] · [[Alma 16#^alma-16-11|16:11]] · [[Alma 24#^alma-24-28|24:28 (28–30)]] · [[Alma 1#^alma-1-8|Alma 1:8]] · [[Alma 51#^alma-51-2|≈ Alma 51:2]] · [[Alma 51#^alma-51-1|≈ Alma 51:1]] · [[Helaman 1#^hel-1-1|≈ Helaman 1:1]] · [[Alma 8#^alma-8-3|≈ Alma 8:3]] · [[Alma 45#^alma-45-20|≈ Alma 45:20]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]]
 
 ![[Alma 2#^alma-2-2]]
 > [[2 Samuel 15#^2sam-15-1|2 Sam. 15:6 (1–10)]]
@@ -34,7 +34,7 @@ cssclasses:
 ![[Alma 2#^alma-2-6]]
 
 ![[Alma 2#^alma-2-7]]
-> [[Mosiah 29#^mosiah-29-25|Mosiah 29:25 (25–27)]] · [[Mosiah 29#^mosiah-29-2|≈ Mosiah 29:2]] · [[Alma 27#^alma-27-22|≈ Alma 27:22]] · [[Alma 51#^alma-51-7|≈ Alma 51:7]] · [[Mosiah 24#^mosiah-24-13|≈ Mosiah 24:13]] · [[1 Nephi 18#^1ne-18-5|≈ 1 Nephi 18:5]] · [[1 Nephi 16#^1ne-16-9|≈ 1 Nephi 16:9]]
+> [[Mosiah 29#^mosiah-29-25|Mosiah 29:25 (25–27)]] · [[Alma 51#^alma-51-7|≈ Alma 51:7]] · [[Mosiah 29#^mosiah-29-2|≈ Mosiah 29:2]] · [[Alma 27#^alma-27-22|≈ Alma 27:22]] · [[Mosiah 24#^mosiah-24-13|≈ Mosiah 24:13]] · [[1 Nephi 18#^1ne-18-5|≈ 1 Nephi 18:5]] · [[1 Nephi 16#^1ne-16-9|≈ 1 Nephi 16:9]]
 
 ![[Alma 2#^alma-2-8]]
 
@@ -85,7 +85,7 @@ cssclasses:
 ![[Alma 2#^alma-2-25]]
 
 ![[Alma 2#^alma-2-26]]
-> [[Alma 6#^alma-6-4|Alma 6:4]] · [[Omni 1#^omni-1-14|Omni 1:14 (14, 18)]] · [[Alma 45#^alma-45-1|≈ Alma 45:1]] · [[Helaman 1#^hel-1-27|≈ Helaman 1:27]] · [[Helaman 11#^hel-11-20|≈ Helaman 11:20]]
+> [[Alma 6#^alma-6-4|Alma 6:4]] · [[Omni 1#^omni-1-14|Omni 1:14 (14, 18)]] · [[Helaman 1#^hel-1-27|≈ Helaman 1:27]] · [[Alma 45#^alma-45-1|≈ Alma 45:1]] · [[Helaman 11#^hel-11-20|≈ Helaman 11:20]]
 
 ![[Alma 2#^alma-2-27]]
 > [[Jarom 1#^jarom-1-6|Jarom 1:6]]
@@ -106,7 +106,7 @@ cssclasses:
 ![[Alma 2#^alma-2-33]]
 
 ![[Alma 2#^alma-2-34]]
-> [[Alma 8#^alma-8-3|≈ Alma 8:3]] · [[Alma 43#^alma-43-27|≈ Alma 43:27]] · [[Alma 43#^alma-43-32|≈ Alma 43:32]] · [[Alma 43#^alma-43-53|≈ Alma 43:53]]
+> [[Alma 43#^alma-43-27|≈ Alma 43:27]] · [[Alma 43#^alma-43-32|≈ Alma 43:32]] · [[Alma 43#^alma-43-53|≈ Alma 43:53]] · [[Alma 8#^alma-8-3|≈ Alma 8:3]]
 
 ![[Alma 2#^alma-2-35]]
 > [[Ether 15#^ether-15-29|≈ Ether 15:29]] · [[3 Nephi 19#^3ne-19-17|≈ 3 Nephi 19:17]]

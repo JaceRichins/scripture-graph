@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 119
 slug: ps-119
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,9 +52,9 @@ _Not yet developed._
 - [[Scripture Study]]
 - [[Endurance]]
 - [[Education and Learning]]
-- [[Pride]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[Pride]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Hope]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

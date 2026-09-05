@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 2
 slug: ezra-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Bethlehem** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

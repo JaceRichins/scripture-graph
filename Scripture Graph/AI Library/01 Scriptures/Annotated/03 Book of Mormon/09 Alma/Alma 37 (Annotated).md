@@ -51,7 +51,7 @@ cssclasses:
 > [[Proverbs 15#^prov-15-22|Prov. 15:22]] · [[2 Nephi 9#^2ne-9-28|2 Ne. 9:28]] · [[Jacob 4#^jacob-4-10|Jacob 4:10]] · [[1 Nephi 10#^1ne-10-19|1 Ne. 10:19]] · [[Alma 7#^alma-7-20|Alma 7:20]] · [[D&C 3#^dc-3-2|≈ D&C 3:2]]
 
 ![[Alma 37#^alma-37-13]]
-> [[Luke 13#^luke-13-22|Luke 13:24 (22–30)]] · [[Alma 9#^alma-9-13|Alma 9:13 (13–14)]] · [[3 Nephi 5#^3ne-5-22|3 Ne. 5:22]] · [[Psalm 122#^ps-122-6|Ps. 122:6]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Alma 36#^alma-36-30|Alma 36:30]] · [[Alma 50#^alma-50-20|50:20]] · [[Jarom 1#^jarom-1-9|≈ Jarom 1:9]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 38#^alma-38-1|≈ Alma 38:1]]
+> [[Luke 13#^luke-13-22|Luke 13:24 (22–30)]] · [[Alma 9#^alma-9-13|Alma 9:13 (13–14)]] · [[3 Nephi 5#^3ne-5-22|3 Ne. 5:22]] · [[Psalm 122#^ps-122-6|Ps. 122:6]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Alma 36#^alma-36-30|Alma 36:30]] · [[Alma 50#^alma-50-20|50:20]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 38#^alma-38-1|≈ Alma 38:1]] · [[Jarom 1#^jarom-1-9|≈ Jarom 1:9]]
 
 ![[Alma 37#^alma-37-14]]
 > [[D&C 3#^dc-3-5|D&amp;C 3:5]] · [[1 Nephi 9#^1ne-9-3|1 Ne. 9:5 (3–6)]]
@@ -76,7 +76,7 @@ cssclasses:
 > [[Mosiah 8#^mosiah-8-9|Mosiah 8:9]] · [[Mosiah 21#^mosiah-21-27|21:27]] · [[Mosiah 28#^mosiah-28-11|28:11]] · [[Ether 1#^ether-1-1|Ether 1:2 (1–5)]] · [[Ether 15#^ether-15-33|15:33]] · [[Proverbs 26#^prov-26-26|Prov. 26:26]] · [[Alma 14#^alma-14-2|Alma 14:3 (2–3)]]
 
 ![[Alma 37#^alma-37-22]]
-> [[Jarom 1#^jarom-1-10|≈ Jarom 1:10]] · [[Alma 9#^alma-9-24|≈ Alma 9:24]]
+> [[Alma 9#^alma-9-24|≈ Alma 9:24]] · [[Jarom 1#^jarom-1-10|≈ Jarom 1:10]]
 
 ![[Alma 37#^alma-37-23]]
 > [[Mosiah 8#^mosiah-8-13|Mosiah 8:13]]

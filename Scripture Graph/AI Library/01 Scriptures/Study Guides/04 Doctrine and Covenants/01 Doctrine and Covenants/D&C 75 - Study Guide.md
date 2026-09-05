@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 75
 slug: dc-75
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,8 +56,8 @@ The three "Even so. Amen." markers (vv. 12, 22, 36) are the clearest textual sig
 - [[D&C 5]] — 2 footnote cross-references (from [[D&C 75#^dc-75-16|D&C 75:16]])
 - [[D&C 80]] — 2 footnote cross-references (from [[D&C 75#^dc-75-35|D&C 75:35]])
 - [[Revelation 1]] — 1 footnote cross-reference (from [[D&C 75#^dc-75-1|D&C 75:1]])
-- [[D&C 66]] — 2 parallel verses, e.g. [[D&C 75#^dc-75-3|D&C 75:3]] ↔ [[D&C 66#^dc-66-5|D&C 66:5]]
 - [[3 Nephi 27]] — 3 parallel verses, e.g. [[D&C 75#^dc-75-27|D&C 75:27]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
+- [[D&C 66]] — 2 parallel verses, e.g. [[D&C 75#^dc-75-3|D&C 75:3]] ↔ [[D&C 66#^dc-66-5|D&C 66:5]]
 - [[D&C 42]] — 2 parallel verses, e.g. [[D&C 75#^dc-75-4|D&C 75:4]] ↔ [[D&C 42#^dc-42-6|D&C 42:6]]
 - [[Matthew 10]] — 2 parallel verses, e.g. [[D&C 75#^dc-75-22|D&C 75:22]] ↔ [[Matthew 10#^matt-10-15|Matthew 10:15]]
 - [[Matthew 11]] — 2 parallel verses, e.g. [[D&C 75#^dc-75-22|D&C 75:22]] ↔ [[Matthew 11#^matt-11-24|Matthew 11:24]]

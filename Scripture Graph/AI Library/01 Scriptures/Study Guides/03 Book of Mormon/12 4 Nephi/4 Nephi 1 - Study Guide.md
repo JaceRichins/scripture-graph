@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 4 Nephi
 chapter: 1
 slug: 4ne-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,7 +59,9 @@ Repeated year notices let the narrative cross decades rapidly. The peaceful era 
 - [[Mormon 8]] — 3 footnote cross-references (from [[4 Nephi 1#^4ne-1-26|4 Nephi 1:26]])
 - [[3 Nephi 12]] — 2 footnote cross-references (from [[4 Nephi 1#^4ne-1-3|4 Nephi 1:3]])
 - [[3 Nephi 9]] — 2 footnote cross-references (from [[4 Nephi 1#^4ne-1-9|4 Nephi 1:9]])
+- [[Omni 1]] — 5 parallel verses, e.g. [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]] ↔ [[Omni 1#^omni-1-3|Omni 1:3]]
 - [[3 Nephi 26]] — 3 parallel verses, e.g. [[4 Nephi 1#^4ne-1-1|4 Nephi 1:1]] ↔ [[3 Nephi 26#^3ne-26-17|3 Nephi 26:17]]
+- [[Jarom 1]] — 4 parallel verses, e.g. [[4 Nephi 1#^4ne-1-22|4 Nephi 1:22]] ↔ [[Jarom 1#^jarom-1-5|Jarom 1:5]]
 - [[Mormon 2]] — 3 parallel verses, e.g. [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]] ↔ [[Mormon 2#^morm-2-15|Mormon 2:15]]
 - [[Mosiah 3]] — 1 parallel verse, e.g. [[4 Nephi 1#^4ne-1-5|4 Nephi 1:5]] ↔ [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]]
 - [[D&C 35]] — 1 parallel verse, e.g. [[4 Nephi 1#^4ne-1-5|4 Nephi 1:5]] ↔ [[D&C 35#^dc-35-9|D&C 35:9]]
@@ -69,20 +71,18 @@ Repeated year notices let the narrative cross decades rapidly. The peaceful era 
 - [[3 Nephi 1]] — 2 parallel verses, e.g. [[4 Nephi 1#^4ne-1-13|4 Nephi 1:13]] ↔ [[3 Nephi 1#^3ne-1-19|3 Nephi 1:19]]
 - [[2 Nephi 1]] — 1 parallel verse, e.g. [[4 Nephi 1#^4ne-1-30|4 Nephi 1:30]] ↔ [[2 Nephi 1#^2ne-1-26|2 Nephi 1:26]]
 - [[Moses 7]] — 0 parallel verses
-- [[Acts 2]] — 0 parallel verses
-- [[Acts 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Consecration]]
 - [[Pride]]
-- [[Records and Sacred Writings]]
+- [[Consecration]]
 - [[Secret Combinations]]
 - [[Law of Moses]]
 - [[War and Peace]]
 - [[Miracles]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

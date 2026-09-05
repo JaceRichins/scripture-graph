@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 2
 slug: mark-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,10 +80,14 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Capernaum** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Abiathar** (reference-entry) *(explicit citation)*
+- **Bottles** (reference-entry) *(explicit citation)*
+- **Commandments, the Ten** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

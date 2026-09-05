@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 22
 slug: 1kgs-22
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 - **Ahaziah** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Architecture** (reference-entry) *(explicit citation)*
+- **Commerce** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

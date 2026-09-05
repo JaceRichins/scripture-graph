@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 38
 slug: dc-38
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,10 +55,10 @@ _Not yet developed._
 - [[D&C 124]] — 3 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[D&C 124#^dc-124-131|D&C 124:131]]
 - [[3 Nephi 12]] — 3 parallel verses, e.g. [[D&C 38#^dc-38-40|D&C 38:40]] ↔ [[3 Nephi 12#^3ne-12-29|3 Nephi 12:29]]
 - [[D&C 44]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-35|D&C 38:35]] ↔ [[D&C 44#^dc-44-6|D&C 44:6]]
-- [[D&C 45]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
-- [[D&C 61]] — 2 parallel verses, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[D&C 61#^dc-61-1|D&C 61:1]]
 - [[Moses 7]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-5|D&C 38:5]] ↔ [[Moses 7#^moses-7-57|Moses 7:57]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[Revelation 22#^rev-22-13|Revelation 22:13]]
+- [[D&C 45]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
+- [[D&C 61]] — 2 parallel verses, e.g. [[D&C 38#^dc-38-1|D&C 38:1]] ↔ [[D&C 61#^dc-61-1|D&C 61:1]]
 - [[D&C 41]] — 2 parallel verses, e.g. [[D&C 38#^dc-38-34|D&C 38:34]] ↔ [[D&C 41#^dc-41-9|D&C 41:9]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[D&C 38#^dc-38-18|D&C 38:18]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
 - [[Isaiah 52]] — 1 parallel verse, e.g. [[D&C 38#^dc-38-42|D&C 38:42]] ↔ [[Isaiah 52#^isa-52-11|Isaiah 52:11]]

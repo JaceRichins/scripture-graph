@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 7
 slug: 1chr-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Asher** (reference-entry) *(explicit citation)*
+- **Benjamin** (reference-entry) *(explicit citation)*
+- **Beth-shan or Beth-shean** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

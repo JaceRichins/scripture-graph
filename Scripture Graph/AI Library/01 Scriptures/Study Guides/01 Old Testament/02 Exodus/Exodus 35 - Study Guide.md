@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 35
 slug: ex-35
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -71,8 +71,8 @@ _Not yet developed._
 - [[Law of Moses]]
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Sabbath Day]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

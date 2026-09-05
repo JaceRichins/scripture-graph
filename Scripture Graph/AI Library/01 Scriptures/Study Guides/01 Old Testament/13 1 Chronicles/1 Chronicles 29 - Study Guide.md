@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 29
 slug: 1chr-29
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,8 +56,8 @@ Scripture: [[1 Chronicles 29]] · My notes: [[1 Chronicles 29 - My Notes]]
 - [[2 Chronicles 35]] — 2 parallel verses, e.g. [[1 Chronicles 29#^1chr-29-29|1 Chronicles 29:29]] ↔ [[2 Chronicles 35#^2chr-35-27|2 Chronicles 35:27]]
 - [[1 Chronicles 23]] — 2 parallel verses, e.g. [[1 Chronicles 29#^1chr-29-7|1 Chronicles 29:7]] ↔ [[1 Chronicles 23#^1chr-23-28|1 Chronicles 23:28]]
 - [[Exodus 35]] — 2 parallel verses, e.g. [[1 Chronicles 29#^1chr-29-2|1 Chronicles 29:2]] ↔ [[Exodus 35#^ex-35-9|Exodus 35:9]]
-- [[2 Chronicles 9]] — 1 parallel verse, e.g. [[1 Chronicles 29#^1chr-29-29|1 Chronicles 29:29]] ↔ [[2 Chronicles 9#^2chr-9-29|2 Chronicles 9:29]]
 - [[Numbers 4]] — 2 parallel verses, e.g. [[1 Chronicles 29#^1chr-29-8|1 Chronicles 29:8]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
+- [[2 Chronicles 9]] — 1 parallel verse, e.g. [[1 Chronicles 29#^1chr-29-29|1 Chronicles 29:29]] ↔ [[2 Chronicles 9#^2chr-9-29|2 Chronicles 9:29]]
 - [[2 Chronicles 20]] — 1 parallel verse, e.g. [[1 Chronicles 29#^1chr-29-29|1 Chronicles 29:29]] ↔ [[2 Chronicles 20#^2chr-20-34|2 Chronicles 20:34]]
 - [[2 Chronicles 28]] — 1 parallel verse, e.g. [[1 Chronicles 29#^1chr-29-29|1 Chronicles 29:29]] ↔ [[2 Chronicles 28#^2chr-28-26|2 Chronicles 28:26]]
 - [[1 Chronicles 28]] — 2 parallel verses, e.g. [[1 Chronicles 29#^1chr-29-7|1 Chronicles 29:7]] ↔ [[1 Chronicles 28#^1chr-28-20|1 Chronicles 28:20]]

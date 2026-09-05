@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 116
 slug: dc-116
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 - **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Adam** (reference-entry) *(explicit citation)*
+- **Daniel, book of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

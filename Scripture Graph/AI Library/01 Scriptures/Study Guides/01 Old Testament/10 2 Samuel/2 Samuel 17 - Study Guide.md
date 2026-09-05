@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 17
 slug: 2sam-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

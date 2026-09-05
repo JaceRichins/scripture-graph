@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 6
 slug: rev-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[Be Thou an Example of the Believers (Elder Russell M. Nelson, October 2010)|Be Thou an Example of the Believers]] — Elder Russell M. Nelson, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -71,6 +72,7 @@ _Not yet developed._
 - **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1845-05-15 (Vol. 6 No. 9)** (periodical, 1845-05-15) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
+- **Blood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

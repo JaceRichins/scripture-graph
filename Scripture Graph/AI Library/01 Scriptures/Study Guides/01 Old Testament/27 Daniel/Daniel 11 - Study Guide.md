@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 11
 slug: dan-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Abomination of desolation** (reference-entry) *(explicit citation)*
+- **Darius** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

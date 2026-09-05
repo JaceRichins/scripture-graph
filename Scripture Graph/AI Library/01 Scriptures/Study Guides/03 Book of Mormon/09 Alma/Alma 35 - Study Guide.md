@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 35
 slug: alma-35
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Testimony of Jesus (Elder D. Todd Christofferson, April 2024)|The Testimony of Jesus]] — Elder D. Todd Christofferson, 2024-April *(explicit citation)*
+- [[Things Pertaining to Righteousness (Elder Francisco J. Viñas, April 2010)|Things Pertaining to Righteousness]] — Elder Francisco J. Viñas, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 14
 slug: gen-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Genesis 19]] — 1 footnote cross-reference (from [[Genesis 14#^gen-14-2|Genesis 14:2]])
 - [[Numbers 34]] — 1 footnote cross-reference (from [[Genesis 14#^gen-14-3|Genesis 14:3]])
 - [[Genesis 6]] — 1 footnote cross-reference (from [[Genesis 14#^gen-14-5|Genesis 14:5]])
+- [[Alma 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +66,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[The Power of the Priesthood (President Boyd K. Packer, April 2010)|The Power of the Priesthood]] — President Boyd K. Packer, 2010-April *(explicit citation)*
 - [[Ministering with the Power and Authority of God (President Russell M. Nelson, April 2018)|Ministering with the Power and Authority of God]] — President Russell M. Nelson, 2018-April *(explicit citation)*
 - [[“Walk with Me” (President Henry B. Eyring, April 2017)|“Walk with Me”]] — President Henry B. Eyring, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -76,6 +78,9 @@ _Not yet developed._
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
+- **Dead Sea** (reference-entry) *(explicit citation)*
+- **Dispensations** (reference-entry) *(explicit citation)*
+- **Edom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

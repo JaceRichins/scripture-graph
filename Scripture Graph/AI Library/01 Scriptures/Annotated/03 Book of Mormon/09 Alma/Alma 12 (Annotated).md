@@ -73,7 +73,7 @@ cssclasses:
 ![[Alma 12#^alma-12-20]]
 
 ![[Alma 12#^alma-12-21]]
-> [[Genesis 3#^gen-3-24|Gen. 3:24]] · [[Alma 42#^alma-42-2|Alma 42:2]] · [[Moses 4#^moses-4-31|Moses 4:31]] · [[Alma 5#^alma-5-34|≈ Alma 5:34]] · [[Alma 5#^alma-5-62|≈ Alma 5:62]] · [[Alma 32#^alma-32-40|≈ Alma 32:40]] · [[Moses 4#^moses-4-31|≈ Moses 4:31]] · [[Moses 4#^moses-4-23|≈ Moses 4:23]] · [[Alma 42#^alma-42-4|≈ Alma 42:4]]
+> [[Genesis 3#^gen-3-24|Gen. 3:24]] · [[Alma 42#^alma-42-2|Alma 42:2]] · [[Moses 4#^moses-4-31|Moses 4:31]] · [[Alma 5#^alma-5-34|≈ Alma 5:34]] · [[Alma 5#^alma-5-62|≈ Alma 5:62]] · [[Alma 42#^alma-42-4|≈ Alma 42:4]] · [[Alma 32#^alma-32-40|≈ Alma 32:40]] · [[Moses 4#^moses-4-31|≈ Moses 4:31]] · [[Moses 4#^moses-4-23|≈ Moses 4:23]]
 
 ![[Alma 12#^alma-12-22]]
 > [[Genesis 3#^gen-3-6|Gen. 3:6]] · [[2 Nephi 2#^2ne-2-15|2 Ne. 2:15 (15–19)]] · [[Mosiah 3#^mosiah-3-26|Mosiah 3:26]] · [[Mosiah 16#^mosiah-16-4|Mosiah 16:5 (4–5)]] · [[Alma 9#^alma-9-30|Alma 9:30 (30–32)]]

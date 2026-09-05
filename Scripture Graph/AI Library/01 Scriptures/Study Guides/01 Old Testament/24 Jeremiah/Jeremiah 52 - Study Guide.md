@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 52
 slug: jer-52
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -91,7 +91,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Captivities of the Israelites** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

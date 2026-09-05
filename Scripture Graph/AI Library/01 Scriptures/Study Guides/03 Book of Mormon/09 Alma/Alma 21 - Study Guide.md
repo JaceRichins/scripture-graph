@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 21
 slug: alma-21
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,8 +53,8 @@ Scripture: [[Alma 21]] · My notes: [[Alma 21 - My Notes]]
 - [[Alma 16]] — 3 footnote cross-references (from [[Alma 21#^alma-21-5|Alma 21:5]])
 - [[Alma 20]] — 3 footnote cross-references (from [[Alma 21#^alma-21-13|Alma 21:13]])
 - [[Alma 17]] — 3 parallel verses, e.g. [[Alma 21#^alma-21-17|Alma 21:17]] ↔ [[Alma 17#^alma-17-9|Alma 17:9]]
-- [[Alma 24]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Alma 24#^alma-24-1|Alma 24:1]]
 - [[Mosiah 1]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]]
+- [[Alma 24]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-21|Alma 21:21]] ↔ [[Alma 24#^alma-24-1|Alma 24:1]]
 - [[Alma 35]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-12|Alma 21:12]] ↔ [[Alma 35#^alma-35-1|Alma 35:1]]
 - [[Alma 11]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-7|Alma 21:7]] ↔ [[Alma 11#^alma-11-35|Alma 11:35]]
 - [[Alma 20]] — 2 parallel verses, e.g. [[Alma 21#^alma-21-13|Alma 21:13]] ↔ [[Alma 20#^alma-20-30|Alma 20:30]]
@@ -82,6 +82,7 @@ The closing verses tie this teaching to lived practice: Ammon instructs Lamoni's
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Being Accepted of the Lord (Elder Erich W. Kopischke, April 2013)|Being Accepted of the Lord]] — Elder Erich W. Kopischke, 2013-April *(explicit citation)*
+- [[Things Pertaining to Righteousness (Elder Francisco J. Viñas, April 2010)|Things Pertaining to Righteousness]] — Elder Francisco J. Viñas, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 112
 slug: dc-112
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ _Not yet developed._
 - [[D&C 124]] — 2 footnote cross-references (from [[D&C 112#^dc-112-24|D&C 112:24]])
 - [[Acts 10]] — 1 footnote cross-reference (from [[D&C 112#^dc-112-1|D&C 112:1]])
 - [[D&C 68]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[D&C 68#^dc-68-9|D&C 68:9]]
-- [[Revelation 22]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-34|D&C 112:34]] ↔ [[Revelation 22#^rev-22-12|Revelation 22:12]]
 - [[Mormon 9]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[Mormon 9#^morm-9-23|Mormon 9:23]]
+- [[Revelation 22]] — 1 parallel verse, e.g. [[D&C 112#^dc-112-34|D&C 112:34]] ↔ [[Revelation 22#^rev-22-12|Revelation 22:12]]
 - [[Mark 16]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-29|D&C 112:29]] ↔ [[Mark 16#^mark-16-16|Mark 16:16]]
 - [[D&C 61]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-14|D&C 112:14]] ↔ [[D&C 61#^dc-61-36|D&C 61:36]]
 - [[D&C 124]] — 2 parallel verses, e.g. [[D&C 112#^dc-112-1|D&C 112:1]] ↔ [[D&C 124#^dc-124-1|D&C 124:1]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 10
 slug: ex-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Exodus 7]] — 1 parallel verse, e.g. [[Exodus 10#^ex-10-3|Exodus 10:3]] ↔ [[Exodus 7#^ex-7-16|Exodus 7:16]]
 - [[Exodus 9]] — 0 parallel verses
 - [[Exodus 8]] — 0 parallel verses
+- [[3 Nephi 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

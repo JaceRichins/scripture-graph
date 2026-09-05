@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 15
 slug: 3ne-15
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,7 +77,7 @@ Scripture: [[3 Nephi 15]] · My notes: [[3 Nephi 15 - My Notes]]
 - [[Covenants]]
 - [[Prophecy]]
 - [[Endurance]]
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -95,6 +95,7 @@ The second half joins [[Scattering of Israel]] and [[Gathering of Israel]]. Sepa
 - [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
 - [[All Who Have Endured Valiantly (Elder David A. Bednar, April 2026)|All Who Have Endured Valiantly]] — Elder David A. Bednar, 2026-April *(explicit citation)*
 - [[Believe, Obey, and Endure (President Thomas S. Monson, April 2012)|Believe, Obey, and Endure]] — President Thomas S. Monson, 2012-April *(explicit citation)*
+- [[His Servants, the Prophets (Elder F. Michael Watson, April 2009)|His Servants, the Prophets]] — Elder F. Michael Watson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -102,6 +103,7 @@ The second half joins [[Scattering of Israel]] and [[Gathering of Israel]]. Sepa
 - **07 Fellow Servants** (history) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
+- **Circumcision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

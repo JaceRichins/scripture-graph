@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 50
 slug: isa-50
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

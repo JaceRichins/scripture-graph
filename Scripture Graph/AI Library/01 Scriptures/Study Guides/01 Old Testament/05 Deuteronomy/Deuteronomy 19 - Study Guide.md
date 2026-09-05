@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 19
 slug: deut-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -79,12 +79,13 @@ The chapter places love of God and walking in his ways beside concrete measures 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[More Diligent and Concerned at Home (Elder David A. Bednar, October 2009)|More Diligent and Concerned at Home]] — Elder David A. Bednar, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Cities of refuge** (reference-entry) *(explicit citation)*
+- **Deuteronomy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

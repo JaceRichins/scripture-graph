@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 32
 slug: alma-32
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,11 +53,12 @@ _Not yet developed._
 - [[2 Nephi 31]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-13|Alma 32:13]] ↔ [[2 Nephi 31#^2ne-31-15|2 Nephi 31:15]]
 - [[Alma 12]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-40|Alma 32:40]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
 - [[D&C 18]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-13|Alma 32:13]] ↔ [[D&C 18#^dc-18-22|D&C 18:22]]
-- [[Alma 33]] — 0 parallel verses
+- [[Alma 33]] — 2 parallel verses, e.g. [[Alma 32#^alma-32-10|Alma 32:10]] ↔ [[Alma 33#^alma-33-2|Alma 33:2]]
 - [[Alma 34]] — 0 parallel verses
 - [[1 Nephi 8]] — 0 parallel verses
 - [[Matthew 13]] — 0 parallel verses
 - [[1 Nephi 8]] — 0 parallel verses
+- [[Alma 34]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,13 +84,13 @@ Alma defines [[Faith]] as less than perfect knowledge but more specific than hop
 - [[Waiting on the Lord (Elder Jeffrey R. Holland, October 2020)|Waiting on the Lord]] — Elder Jeffrey R. Holland, 2020-October *(explicit citation)*
 - [[The Truth of All Things (Elder David F. Evans, October 2017)|The Truth of All Things]] — Elder David F. Evans, 2017-October *(explicit citation)*
 - [[“Abide in Me, and I in You; Therefore Walk with Me” (Elder David A. Bednar, April 2023)|“Abide in Me, and I in You; Therefore Walk with Me”]] — Elder David A. Bednar, 2023-April *(explicit citation)*
+- [[The Way of the Disciple (President Dieter F. Uchtdorf, April 2009)|The Way of the Disciple]] — President Dieter F. Uchtdorf, 2009-April *(explicit citation)*
 - [[Nourishing and Bearing Your Testimony (Elder Gary E. Stevenson, October 2022)|Nourishing and Bearing Your Testimony]] — Elder Gary E. Stevenson, 2022-October *(explicit citation)*
 - [[I Know These Things of Myself (Elder Craig C. Christensen, October 2014)|I Know These Things of Myself]] — Elder Craig C. Christensen, 2014-October *(explicit citation)*
 - [[A Living Testimony (President Henry B. Eyring, April 2011)|A Living Testimony]] — President Henry B. Eyring, 2011-April *(explicit citation)*
+- [[That Your Burdens May Be Light (Elder L. Whitney Clayton, October 2009)|That Your Burdens May Be Light]] — Elder L. Whitney Clayton, 2009-October *(explicit citation)*
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[The Faith to Ask and Then to Act (President Henry B. Eyring, October 2021)|The Faith to Ask and Then to Act]] — President Henry B. Eyring, 2021-October *(explicit citation)*
-- [[Facing Our Spiritual Hurricanes by Believing in Christ (Elder Sean Douglas, October 2021)|Facing Our Spiritual Hurricanes by Believing in Christ]] — Elder Sean Douglas, 2021-October *(explicit citation)*
-- [[His Yoke Is Easy and His Burden Is Light (Sister J. Anette Dennis, October 2022)|His Yoke Is Easy and His Burden Is Light]] — Sister J. Anette Dennis, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -122,15 +123,15 @@ The fruit in verses 40–42 forms a thematic and lexical parallel with [[1 Nephi
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Epistemology
 > The text supports reading Alma's experiment as a staged appeal to lived consequences: a hearer begins with desire, notices limited effects, continues cultivation, and awaits mature fruit. Because the participant is already motivated to believe and evaluates inward changes, the procedure is not equivalent to a controlled scientific test.
-> — strength 0.8 · confidence 1.0 · accepted textual account with disputed epistemic reach · [[Internal Epistemology in Alma 32|full dossier]]
+> — strength 0.1 · confidence 1.0 · accepted textual account with disputed epistemic reach · [[Internal Epistemology in Alma 32|full dossier]]
 
 > [!evidence] Narrative And Social Theme
 > Repeated references to clothing, poverty, social contempt, and denied synagogue access are strong internal evidence that economic exclusion from worship is a deliberate concern of this chapter, not incidental scenery.
-> — strength 0.9 · confidence 1.0 · strong internal narrative evidence · [[Narrative And Social Theme in Alma 32|full dossier]]
+> — confidence 1.0 · strong internal narrative evidence · [[Narrative And Social Theme in Alma 32|full dossier]]
 
 > [!evidence] Literary Structure
 > The ordered recurrence of planting, swelling, sprouting, rooting, nourishing, maturing, and harvesting is strong internal evidence that the seed passage is a deliberately sustained metaphor rather than a collection of unrelated agricultural images.
-> — strength 1.0 · confidence 1.0 · clear internal literary observation · [[Literary Structure in Alma 32|full dossier]]
+> — confidence 1.0 · clear internal literary observation · [[Literary Structure in Alma 32|full dossier]]
 
 > [!evidence] Doctrinal Inclusivity Textual Data Point *(tentative)*
 > Verse 23's explicit inclusion of women and little children as recipients of the word/angelic communication is a textual data point for gospel access being broader than a narrow male-only channel, though it is a single verse and does not address priesthood office or church governance.

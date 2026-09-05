@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 17
 slug: josh-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Asher** (reference-entry) *(explicit citation)*
+- **Beth-shan or Beth-shean** (reference-entry) *(explicit citation)*
+- **Chariot** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

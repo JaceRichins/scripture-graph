@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 31
 slug: dc-31
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,7 +53,7 @@ _Not yet developed._
 - [[Isaiah 52]] — 1 footnote cross-reference (from [[D&C 31#^dc-31-3|D&C 31:3]])
 - [[Luke 2]] — 1 footnote cross-reference (from [[D&C 31#^dc-31-3|D&C 31:3]])
 - [[Romans 10]] — 1 footnote cross-reference (from [[D&C 31#^dc-31-3|D&C 31:3]])
-- [[D&C 33]] — 0 parallel verses
+- [[D&C 33]] — 1 parallel verse, e.g. [[D&C 31#^dc-31-5|D&C 31:5]] ↔ [[D&C 33#^dc-33-9|D&C 33:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,6 +79,8 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)|Adorned with the Virtue of Temperance]] — Elder Ulisses Soares, 2025-October *(explicit citation)*
 - [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
+- [[Being Temperate in All Things (Elder Kent D. Watson, October 2009)|Being Temperate in All Things]] — Elder Kent D. Watson, 2009-October *(explicit citation)*
+- [[Two Principles for Any Economy (President Dieter F. Uchtdorf, October 2009)|Two Principles for Any Economy]] — President Dieter F. Uchtdorf, 2009-October *(explicit citation)*
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[We Never Walk Alone (President Thomas S. Monson, October 2013)|We Never Walk Alone]] — President Thomas S. Monson, 2013-October *(explicit citation)*

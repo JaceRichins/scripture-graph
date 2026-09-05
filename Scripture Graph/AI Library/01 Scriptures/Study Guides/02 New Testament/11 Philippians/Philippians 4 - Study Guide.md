@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 4
 slug: philip-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,8 @@ _Not yet developed._
 - **Movies and Television** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
+- **Book of life** (reference-entry) *(explicit citation)*
+- **Caesar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

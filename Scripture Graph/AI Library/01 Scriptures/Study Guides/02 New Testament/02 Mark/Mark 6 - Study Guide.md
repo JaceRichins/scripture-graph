@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 6
 slug: mark-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -81,17 +81,22 @@ _Not yet developed._
 - [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
 - [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
-- [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
-- [[Charity—a Sign of True Discipleship (Elder Michael B. Strong, April 2025)|Charity—a Sign of True Discipleship]] — Elder Michael B. Strong, 2025-April *(explicit citation)*
+- [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
+- [[Tell Me the Stories of Jesus (Elder Neil L. Andersen, April 2010)|Tell Me the Stories of Jesus]] — Elder Neil L. Andersen, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
+- **Bethsaida** (reference-entry) *(explicit citation)*
+- **Brethren of the Lord** (reference-entry) *(explicit citation)*
+- **By and by** (reference-entry) *(explicit citation)*
+- **Calendar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

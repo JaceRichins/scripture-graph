@@ -6,30 +6,30 @@ content_type: report
 
 # Status
 
-*Generated 2026-09-05T08:40:03Z.*
+*Generated 2026-09-05T09:27:37Z.*
 
-- Engine: v0.1.0 · corpus **v9** · bootstrap **STEADY_STATE** · git `000386fc`
+- Engine: v0.1.0 · corpus **v11** · bootstrap **STEADY_STATE** · git `f305c2db`
 - Scripture: 88 books, 1584 chapters, 42027 verses
 - Graph: 108 topics · 167 people · 82 places · 1142 evidence notes · 28 questions
 - Personal notes indexed: 3173
-- Documents: 3165 (1218 conference talks)
-- Index: 281642 chunks · embeddings: hash/hash-ngram-v1 (278469)
-- Work queue: {'pending': 523}
+- Documents: 3608 (1375 conference talks)
+- Index: 287025 chunks · embeddings: hash/hash-ngram-v1 (283852)
+- Work queue: {'pending': 606}
 - **Today:** 12 study ticks · 61 research jobs applied · 1144 new claims
-- Secondary sources: 3 approved · 660 episodes tracked · 5 ingested
+- Secondary sources: 3 approved · 661 episodes tracked · 5 ingested
 - AI providers: claude: ready, codex: ready
 
 ## Coverage
 
-Overall: mean **79.9**, stddev 8.72, min 71.3
+Overall: mean **80.1**, stddev 8.74, min 71.3
 
 | Volume | Mean | Min | P10 |
 | --- | --- | --- | --- |
 | Old Testament | 79.3 | 71.3 | 73.0 |
-| New Testament | 76.5 | 73.0 | 73.0 |
-| Book of Mormon | 83.1 | 73.0 | 73.0 |
-| Doctrine and Covenants | 83.2 | 73.0 | 73.0 |
-| Pearl of Great Price | 91.3 | 81.9 | 81.9 |
+| New Testament | 77.4 | 73.0 | 73.0 |
+| Book of Mormon | 83.0 | 73.0 | 73.0 |
+| Doctrine and Covenants | 84.5 | 73.0 | 73.0 |
+| Pearl of Great Price | 90.2 | 81.9 | 81.9 |
 
 ## Next in the refinement queue
 
@@ -44,8 +44,8 @@ Overall: mean **79.9**, stddev 8.72, min 71.3
 
 ## Recent runs
 
-- study: 2026-09-05T08:15:02Z → … (running)
+- nightly: 2026-09-05T08:40:05Z → … (running)
+- study: 2026-09-05T08:15:02Z → 2026-09-05T08:40:03Z (ok)
 - study: 2026-09-05T07:15:02Z → 2026-09-05T07:45:51Z (ok)
 - study: 2026-09-05T06:45:02Z → 2026-09-05T07:14:46Z (ok)
 - study: 2026-09-05T06:15:02Z → 2026-09-05T06:40:27Z (ok)
-- study: 2026-09-05T05:45:02Z → 2026-09-05T06:09:54Z (ok)

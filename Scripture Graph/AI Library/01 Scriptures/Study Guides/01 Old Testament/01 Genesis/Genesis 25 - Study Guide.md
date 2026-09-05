@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 25
 slug: gen-25
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,8 @@ _Not yet developed._
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Arabia, Arabians** (reference-entry) *(explicit citation)*
+- **Birthright** (reference-entry) *(explicit citation)*
+- **Edom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

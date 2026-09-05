@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 15
 slug: 2sam-15
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 50
 slug: jer-50
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -64,9 +64,9 @@ Scripture: [[Jeremiah 50]] · My notes: [[Jeremiah 50 - My Notes]]
 - [[Jeremiah 29]] — 4 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]]
 - [[Jeremiah 44]] — 3 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 44#^jer-44-11|Jeremiah 44:11]]
 - [[Jeremiah 51]] — 3 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 51#^jer-51-33|Jeremiah 51:33]]
+- [[Jeremiah 43]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]]
 - [[Isaiah 13]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-39|Jeremiah 50:39]] ↔ [[Isaiah 13#^isa-13-20|Isaiah 13:20]]
 - [[2 Nephi 23]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-39|Jeremiah 50:39]] ↔ [[2 Nephi 23#^2ne-23-20|2 Nephi 23:20]]
-- [[Jeremiah 43]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-18|Jeremiah 50:18]] ↔ [[Jeremiah 43#^jer-43-10|Jeremiah 43:10]]
 - [[Jeremiah 21]] — 2 parallel verses, e.g. [[Jeremiah 50#^jer-50-32|Jeremiah 50:32]] ↔ [[Jeremiah 21#^jer-21-14|Jeremiah 21:14]]
 <!-- SG:END related-scriptures -->
 
@@ -99,7 +99,7 @@ The repeated command to recompense Babylon according to its works appears beside
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Carmel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

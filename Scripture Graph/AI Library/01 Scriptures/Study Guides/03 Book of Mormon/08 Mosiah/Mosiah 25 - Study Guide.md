@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 25
 slug: mosiah-25
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

@@ -66,10 +66,10 @@ cssclasses:
 ![[D&C 107#^dc-107-18]]
 
 ![[D&C 107#^dc-107-19]]
-> [[Ephesians 1#^eph-1-9|Eph. 1:9]] · [[Alma 12#^alma-12-9|Alma 12:9 (9–11)]] · [[D&C 63#^dc-63-23|D&amp;C 63:23]] · [[D&C 84#^dc-84-19|84:19 (19–22)]] · [[Ezekiel 1#^ezek-1-1|Ezek. 1:1]] · [[Acts 7#^acts-7-56|Acts 7:56]] · [[Acts 10#^acts-10-11|10:11]] · [[Hebrews 12#^heb-12-22|Heb. 12:23 (22–24)]] · [[Hebrews 12#^heb-12-23|≈ Hebrews 12:23]] · [[Hebrews 12#^heb-12-24|≈ Hebrews 12:24]]
+> [[Ephesians 1#^eph-1-9|Eph. 1:9]] · [[Alma 12#^alma-12-9|Alma 12:9 (9–11)]] · [[D&C 63#^dc-63-23|D&amp;C 63:23]] · [[D&C 84#^dc-84-19|84:19 (19–22)]] · [[Ezekiel 1#^ezek-1-1|Ezek. 1:1]] · [[Acts 7#^acts-7-56|Acts 7:56]] · [[Acts 10#^acts-10-11|10:11]] · [[Hebrews 12#^heb-12-22|Heb. 12:23 (22–24)]] · [[D&C 76#^dc-76-69|≈ D&C 76:69]] · [[Hebrews 12#^heb-12-23|≈ Hebrews 12:23]]
 
 ![[D&C 107#^dc-107-20]]
-> [[Leviticus 7#^lev-7-35|Lev. 7:35]] · [[D&C 13|D&amp;C 13]] · [[D&C 84#^dc-84-26|84:27 (26–27)]] · [[Numbers 18#^num-18-1|Num. 18:5 (1–6)]] · [[D&C 13#^dc-13-1|≈ D&C 13:1]] · [[Mark 1#^mark-1-4|≈ Mark 1:4]] · [[Luke 3#^luke-3-3|≈ Luke 3:3]] · [[Joseph Smith—History 1#^jsh-1-69|≈ Joseph Smith—History 1:69]]
+> [[Leviticus 7#^lev-7-35|Lev. 7:35]] · [[D&C 13|D&amp;C 13]] · [[D&C 84#^dc-84-26|84:27 (26–27)]] · [[Numbers 18#^num-18-1|Num. 18:5 (1–6)]] · [[Mark 1#^mark-1-4|≈ Mark 1:4]] · [[Luke 3#^luke-3-3|≈ Luke 3:3]] · [[D&C 13#^dc-13-1|≈ D&C 13:1]] · [[Joseph Smith—History 1#^jsh-1-69|≈ Joseph Smith—History 1:69]]
 
 ![[D&C 107#^dc-107-21]]
 > [[Numbers 11#^num-11-16|Num. 11:16]] · [[D&C 88#^dc-88-127|D&amp;C 88:127]] · [[D&C 124#^dc-124-123|124:123]]

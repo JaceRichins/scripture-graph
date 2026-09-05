@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 1
 slug: luke-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 - [[2 Samuel 7]] — 0 parallel verses
 - [[Judges 13]] — 0 parallel verses
 - [[1 Samuel 2]] — 0 parallel verses
+- [[Acts 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -104,6 +105,8 @@ _Not yet developed._
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Circumcision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

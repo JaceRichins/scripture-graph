@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 4
 slug: mal-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ _Not yet developed._
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Family History Work and Genealogy** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

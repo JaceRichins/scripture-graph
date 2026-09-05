@@ -49,7 +49,7 @@ cssclasses:
 > [[Psalm 139#^ps-139-2|Ps. 139:2]] · [[Matthew 12#^matt-12-25|Matt. 12:25]]
 
 ![[Mosiah 24#^mosiah-24-13]]
-> [[Jeremiah 33#^jer-33-1|Jer. 33:3 (1–3)]] · [[Matthew 6#^matt-6-6|Matt. 6:6]] · [[Alma 2#^alma-2-7|≈ Alma 2:7]] · [[1 Nephi 16#^1ne-16-25|≈ 1 Nephi 16:25]] · [[1 Nephi 16#^1ne-16-9|≈ 1 Nephi 16:9]] · [[1 Nephi 16#^1ne-16-26|≈ 1 Nephi 16:26]] · [[Alma 27#^alma-27-22|≈ Alma 27:22]]
+> [[Jeremiah 33#^jer-33-1|Jer. 33:3 (1–3)]] · [[Matthew 6#^matt-6-6|Matt. 6:6]] · [[Alma 27#^alma-27-22|≈ Alma 27:22]] · [[Alma 2#^alma-2-7|≈ Alma 2:7]] · [[1 Nephi 16#^1ne-16-25|≈ 1 Nephi 16:25]] · [[1 Nephi 16#^1ne-16-9|≈ 1 Nephi 16:9]] · [[1 Nephi 16#^1ne-16-26|≈ 1 Nephi 16:26]]
 
 ![[Mosiah 24#^mosiah-24-14]]
 > [[Isaiah 46#^isa-46-3|Isa. 46:4 (3–4)]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 30
 slug: num-30
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,7 +56,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Let Virtue Garnish Your Thoughts (Bishop H. David Burton, October 2009)|Let Virtue Garnish Your Thoughts]] — Bishop H. David Burton, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

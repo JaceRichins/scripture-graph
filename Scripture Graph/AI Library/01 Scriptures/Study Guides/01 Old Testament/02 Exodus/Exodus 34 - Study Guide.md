@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 34
 slug: ex-34
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,8 @@ _Not yet developed._
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Ten Commandments** (reference-entry) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
+- **Calendar** (reference-entry) *(explicit citation)*
+- **Commandments, the Ten** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

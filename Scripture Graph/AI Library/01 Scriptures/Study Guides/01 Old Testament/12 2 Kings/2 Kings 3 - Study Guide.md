@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 3
 slug: 2kgs-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

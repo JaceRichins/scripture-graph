@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 7
 slug: ps-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,7 +58,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Love and Law (Elder Dallin H. Oaks, October 2009)|Love and Law]] — Elder Dallin H. Oaks, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

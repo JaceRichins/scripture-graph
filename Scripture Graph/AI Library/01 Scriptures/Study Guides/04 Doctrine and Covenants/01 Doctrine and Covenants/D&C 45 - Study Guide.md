@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 45
 slug: dc-45
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -62,16 +62,16 @@ This outline tracks clear shifts in topic and speaker focus but should not be re
 - [[D&C 29]] — 2 parallel verses, e.g. [[D&C 45#^dc-45-42|D&C 45:42]] ↔ [[D&C 29#^dc-29-14|D&C 29:14]]
 - [[3 Nephi 27]] — 4 parallel verses, e.g. [[D&C 45#^dc-45-57|D&C 45:57]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
 - [[D&C 97]] — 3 parallel verses, e.g. [[D&C 45#^dc-45-50|D&C 45:50]] ↔ [[D&C 97#^dc-97-7|D&C 97:7]]
-- [[3 Nephi 28]] — 4 parallel verses, e.g. [[D&C 45#^dc-45-16|D&C 45:16]] ↔ [[3 Nephi 28#^3ne-28-7|3 Nephi 28:7]]
+- [[D&C 133]] — 4 parallel verses, e.g. [[D&C 45#^dc-45-49|D&C 45:49]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Second Coming of Jesus Christ]]
 - [[Signs of the Times]]
-- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Zion]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Kingdom of God]] *(keyword match — unconfirmed)*

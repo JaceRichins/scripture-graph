@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 26
 slug: alma-26
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -51,12 +51,12 @@ Scripture: [[Alma 26]] · My notes: [[Alma 26 - My Notes]]
 - [[Alma 36]] — 3 footnote cross-references (from [[Alma 26#^alma-26-7|Alma 26:7]])
 - [[Alma 24]] — 3 footnote cross-references (from [[Alma 26#^alma-26-32|Alma 26:32]])
 - [[Mosiah 23]] — 2 footnote cross-references (from [[Alma 26#^alma-26-3|Alma 26:3]])
+- [[Alma 17]] — 3 parallel verses, e.g. [[Alma 26#^alma-26-24|Alma 26:24]] ↔ [[Alma 17#^alma-17-9|Alma 17:9]]
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[Alma 26#^alma-26-23|Alma 26:23]] ↔ [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]]
 - [[Alma 20]] — 2 parallel verses, e.g. [[Alma 26#^alma-26-23|Alma 26:23]] ↔ [[Alma 20#^alma-20-2|Alma 20:2]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[Alma 26#^alma-26-24|Alma 26:24]] ↔ [[Alma 9#^alma-9-17|Alma 9:17]]
 - [[Alma 20]] — 0 parallel verses
 - [[Alma 24]] — 0 parallel verses
-- [[Alma 17]] — 0 parallel verses
 - [[Alma 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -104,6 +104,7 @@ The final claim that God remembers every people gives the chapter a geographical
 - **Grace** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
+- **Conversion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

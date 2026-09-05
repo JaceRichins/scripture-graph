@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 4
 slug: moses-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,8 +58,8 @@ The chapter moves through six sections:
 - [[Alma 42]] — 3 parallel verses, e.g. [[Moses 4#^moses-4-31|Moses 4:31]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
 - [[Moses 3]] — 4 parallel verses, e.g. [[Moses 4#^moses-4-28|Moses 4:28]] ↔ [[Moses 3#^moses-3-18|Moses 3:18]]
 - [[Alma 12]] — 3 parallel verses, e.g. [[Moses 4#^moses-4-31|Moses 4:31]] ↔ [[Alma 12#^alma-12-21|Alma 12:21]]
-- [[Moses 1]] — 2 parallel verses, e.g. [[Moses 4#^moses-4-1|Moses 4:1]] ↔ [[Moses 1#^moses-1-17|Moses 1:17]]
 - [[Alma 5]] — 2 parallel verses, e.g. [[Moses 4#^moses-4-23|Moses 4:23]] ↔ [[Alma 5#^alma-5-34|Alma 5:34]]
+- [[Moses 1]] — 2 parallel verses, e.g. [[Moses 4#^moses-4-1|Moses 4:1]] ↔ [[Moses 1#^moses-1-17|Moses 1:17]]
 - [[Genesis 3]] — 0 parallel verses
 - [[Alma 12]] — 0 parallel verses
 - [[Moses 5]] — 0 parallel verses
@@ -68,8 +68,8 @@ The chapter moves through six sections:
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Fall of Adam and Eve]]
-- [[Satan and Temptation]]
 - [[Agency]]
+- [[Satan and Temptation]]
 - [[2 Nephi 2]]
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Tree of Life]] *(keyword match — unconfirmed)*
@@ -86,16 +86,16 @@ The chapter moves through six sections:
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Agency Essential to the Plan of Life (Elder Robert D. Hales, October 2010)|Agency: Essential to the Plan of Life]] — Elder Robert D. Hales, 2010-October *(explicit citation)*
 - [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
 - [[Preserving Agency, Protecting Religious Freedom (Elder Robert D. Hales, April 2015)|Preserving Agency, Protecting Religious Freedom]] — Elder Robert D. Hales, 2015-April *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 - [[Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]] — Elder Dallin H. Oaks, 2016-April *(explicit citation)*
 - [[Divine Helps for Mortality (President Dallin H. Oaks, April 2025)|Divine Helps for Mortality]] — President Dallin H. Oaks, 2025-April *(explicit citation)*
 - [[Keep the Commandments (President Thomas S. Monson, October 2015)|Keep the Commandments]] — President Thomas S. Monson, 2015-October *(explicit citation)*
 - [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
 - [[Am I Good Enough Will I Make It (Elder J. Devn Cornish, October 2016)|Am I Good Enough? Will I Make It?]] — Elder J. Devn Cornish, 2016-October *(explicit citation)*
-- [[Return and Receive (Elder M. Russell Ballard, April 2017)|Return and Receive]] — Elder M. Russell Ballard, 2017-April *(explicit citation)*
-- [[Choose You This Day (Elder Dale G. Renlund, October 2018)|Choose You This Day]] — Elder Dale G. Renlund, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

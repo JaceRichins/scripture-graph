@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 1
 slug: 1kgs-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -71,7 +71,7 @@ Solomon's first judgment combines [[Justice and Mercy]]. Adonijah is not execute
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -81,6 +81,8 @@ _Not yet developed._
 - **Altar** (reference-entry) *(explicit citation)*
 - **Amen** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
+- **Benaiah** (reference-entry) *(explicit citation)*
+- **David** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 12
 slug: 2chr-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ Scripture: [[2 Chronicles 12]] · My notes: [[2 Chronicles 12 - My Notes]]
 - [[1 Kings 12]] — 1 footnote cross-reference (from [[2 Chronicles 12#^2chr-12-15|2 Chronicles 12:15]])
 - [[1 Kings 14]] — 1 footnote cross-reference (from [[2 Chronicles 12#^2chr-12-16|2 Chronicles 12:16]])
 - [[1 Kings 14]] — 8 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[1 Kings 14#^1kgs-14-21|1 Kings 14:21]]
-- [[2 Chronicles 36]] — 5 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
 - [[2 Kings 15]] — 7 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 15#^2kgs-15-2|2 Kings 15:2]]
+- [[2 Chronicles 36]] — 5 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Chronicles 36#^2chr-36-2|2 Chronicles 36:2]]
 - [[2 Kings 24]] — 4 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 24#^2kgs-24-8|2 Kings 24:8]]
 - [[2 Kings 21]] — 5 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-13|2 Chronicles 12:13]] ↔ [[2 Kings 21#^2kgs-21-19|2 Kings 21:19]]
 - [[1 Kings 15]] — 6 parallel verses, e.g. [[2 Chronicles 12#^2chr-12-9|2 Chronicles 12:9]] ↔ [[1 Kings 15#^1kgs-15-18|1 Kings 15:18]]
@@ -89,7 +89,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chronicles** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

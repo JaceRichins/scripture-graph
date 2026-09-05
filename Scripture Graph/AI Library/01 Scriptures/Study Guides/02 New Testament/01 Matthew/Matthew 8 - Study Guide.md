@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 8
 slug: matt-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,9 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
+- **Capernaum** (reference-entry) *(explicit citation)*
+- **Centurion** (reference-entry) *(explicit citation)*
+- **Darkness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

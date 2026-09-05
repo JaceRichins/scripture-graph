@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 3
 slug: acts-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -62,10 +62,10 @@ The chapter divides cleanly into a narrative unit and a sermon unit:
 - [[1 Kings 6]] — 1 footnote cross-reference (from [[Acts 3#^acts-3-11|Acts 3:11]])
 - [[3 Nephi 20]] — 6 parallel verses, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[3 Nephi 20#^3ne-20-23|3 Nephi 20:23]]
 - [[1 Nephi 22]] — 3 parallel verses, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20]]
+- [[Acts 7]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-22|Acts 3:22]] ↔ [[Acts 7#^acts-7-37|Acts 7:37]]
 - [[1 Nephi 15]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-25|Acts 3:25]] ↔ [[1 Nephi 15#^1ne-15-18|1 Nephi 15:18]]
 - [[D&C 136]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-13|Acts 3:13]] ↔ [[D&C 136#^dc-136-21|D&C 136:21]]
 - [[1 Nephi 19]] — 1 parallel verse, e.g. [[Acts 3#^acts-3-13|Acts 3:13]] ↔ [[1 Nephi 19#^1ne-19-10|1 Nephi 19:10]]
-- [[Acts 7]] — 0 parallel verses
 - [[3 Nephi 20]] — 0 parallel verses
 - [[Acts 7]] — 0 parallel verses
 - [[Acts 14]] — 0 parallel verses
@@ -108,6 +108,7 @@ Acts 3:21 is important to [[Restoration of the Gospel]], but careful study shoul
 <!-- SG:BEGIN history -->
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **The Word of Wisdom** (history) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
@@ -115,7 +116,6 @@ Acts 3:21 is important to [[Restoration of the Gospel]], but careful study shoul
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

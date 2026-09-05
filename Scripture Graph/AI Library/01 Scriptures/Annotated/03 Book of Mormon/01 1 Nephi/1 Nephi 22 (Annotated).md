@@ -68,7 +68,7 @@ cssclasses:
 > [[2 Nephi 30#^2ne-30-10|2 Ne. 30:10]] · [[3 Nephi 22#^3ne-22-13|3 Ne. 22:13 (13–17)]] · [[Moses 7#^moses-7-61|Moses 7:61]] · [[Psalm 55#^ps-55-22|Ps. 55:22]] · [[1 Nephi 17#^1ne-17-33|1 Ne. 17:35 (33–38)]]
 
 ![[1 Nephi 22#^1ne-22-18]]
-> [[2 Nephi 1#^2ne-1-9|≈ 2 Nephi 1:9]] · [[3 Nephi 26#^3ne-26-10|≈ 3 Nephi 26:10]] · [[1 Nephi 19#^1ne-19-15|≈ 1 Nephi 19:15]] · [[1 Nephi 14#^1ne-14-6|≈ 1 Nephi 14:6]]
+> [[2 Nephi 1#^2ne-1-9|≈ 2 Nephi 1:9]] · [[3 Nephi 26#^3ne-26-10|≈ 3 Nephi 26:10]] · [[1 Nephi 14#^1ne-14-6|≈ 1 Nephi 14:6]] · [[1 Nephi 19#^1ne-19-15|≈ 1 Nephi 19:15]]
 
 ![[1 Nephi 22#^1ne-22-19]]
 

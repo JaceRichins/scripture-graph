@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 102
 slug: dc-102
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -61,10 +61,10 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Apostles]]
 - [[Government and Laws]]
 - [[Sustaining Church Leaders]]
 - [[Records and Sacred Writings]]
+- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Revelation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

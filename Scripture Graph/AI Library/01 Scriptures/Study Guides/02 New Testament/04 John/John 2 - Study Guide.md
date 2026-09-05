@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 2
 slug: john-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Matthew 27]] — 1 footnote cross-reference (from [[John 2#^john-2-19|John 2:19]])
 - [[Mark 14]] — 1 footnote cross-reference (from [[John 2#^john-2-19|John 2:19]])
 - [[Psalm 69]] — 1 parallel verse, e.g. [[John 2#^john-2-17|John 2:17]] ↔ [[Psalm 69#^ps-69-9|Psalm 69:9]]
+- [[D&C 117]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +71,7 @@ _Not yet developed._
 - [[Go and Do Likewise (Elder James E. Evanson, October 2025)|Go and Do Likewise]] — Elder James E. Evanson, 2025-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[The Sabbath and the Sacrament (Elder L. Tom Perry, April 2011)|The Sabbath and the Sacrament]] — Elder L. Tom Perry, 2011-April *(explicit citation)*
+- [[His Arm Is Sufficient (Barbara Thompson, April 2009)|His Arm Is Sufficient]] — Barbara Thompson, 2009-April *(explicit citation)*
 - [[After the Fourth Day (Elder W. Mark Bassett, April 2023)|After the Fourth Day]] — Elder W. Mark Bassett, 2023-April *(explicit citation)*
 - [[Conference Report, April 1925 (General Conference (full report), April 1925)|Conference Report, April 1925]] — General Conference (full report), 1925-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
@@ -78,6 +80,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Miracles** (reference-entry) *(explicit citation)*
+- **Brethren of the Lord** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

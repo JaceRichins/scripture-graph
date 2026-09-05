@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 36
 slug: dc-36
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -79,8 +79,10 @@ Verses 5–7 hold inward willingness and outward commissioning together: a perso
 - [[Light Cleaveth unto Light (Elder Timothy J. Dyches, April 2021)|Light Cleaveth unto Light]] — Elder Timothy J. Dyches, 2021-April *(explicit citation)*
 - [[God Knows and Loves You (Elder Alan T. Phillips, October 2023)|God Knows and Loves You]] — Elder Alan T. Phillips, 2023-October *(explicit citation)*
 - [[An Unspeakable Gift from God (Elder Craig C. Christensen, October 2012)|An Unspeakable Gift from God]] — Elder Craig C. Christensen, 2012-October *(explicit citation)*
+- [[Helping Others Recognize the Whisperings of the Spirit (Vicki F. Matsumori, October 2009)|Helping Others Recognize the Whisperings of the Spirit]] — Vicki F. Matsumori, 2009-October *(explicit citation)*
 - [[Live Up to Your Privileges (President Emily Belle Freeman, October 2024)|Live Up to Your Privileges]] — President Emily Belle Freeman, 2024-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[The Holy Ghost and Revelation (Elder Jay E. Jensen, October 2010)|The Holy Ghost and Revelation]] — Elder Jay E. Jensen, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

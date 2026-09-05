@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 51
 slug: alma-51
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,8 +63,8 @@ Alma 51 begins with peace but rapidly joins a constitutional crisis to an extern
 - [[3 Nephi 2]] — 2 parallel verses, e.g. [[Alma 51#^alma-51-6|Alma 51:6]] ↔ [[3 Nephi 2#^3ne-2-12|3 Nephi 2:12]]
 - [[Alma 8]] — 2 parallel verses, e.g. [[Alma 51#^alma-51-9|Alma 51:9]] ↔ [[Alma 8#^alma-8-9|Alma 8:9]]
 - [[Alma 56]] — 2 parallel verses, e.g. [[Alma 51#^alma-51-1|Alma 51:1]] ↔ [[Alma 56#^alma-56-1|Alma 56:1]]
-- [[Alma 50]] — 2 parallel verses, e.g. [[Alma 51#^alma-51-1|Alma 51:1]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
 - [[Alma 4]] — 2 parallel verses, e.g. [[Alma 51#^alma-51-16|Alma 51:16]] ↔ [[Alma 4#^alma-4-16|Alma 4:16]]
+- [[Alma 50]] — 2 parallel verses, e.g. [[Alma 51#^alma-51-1|Alma 51:1]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
 - [[Alma 54]] — 1 parallel verse, e.g. [[Alma 51#^alma-51-1|Alma 51:1]] ↔ [[Alma 54#^alma-54-1|Alma 54:1]]
 <!-- SG:END related-scriptures -->
 

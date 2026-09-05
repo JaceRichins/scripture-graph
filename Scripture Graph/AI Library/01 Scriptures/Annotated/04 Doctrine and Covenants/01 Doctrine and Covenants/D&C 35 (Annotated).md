@@ -17,10 +17,10 @@ cssclasses:
 > 1–2, How men may become the sons of God; 3–7, Sidney Rigdon is called to baptize and to confer the Holy Ghost; 8–12, Signs and miracles are wrought by faith; 13–16, The Lord’s servants will thresh the nations by the power of the Spirit; 17–19, Joseph Smith holds the keys of the mysteries; 20–21, The elect will abide the day of the Lord’s coming; 22–27, Israel will be saved.
 
 ![[D&C 35#^dc-35-1]]
-> [[Revelation 1#^rev-1-8|Rev. 1:8]] · [[D&C 19#^dc-19-1|D&amp;C 19:1]] · [[1 Nephi 10#^1ne-10-19|1 Ne. 10:19]] · [[D&C 3#^dc-3-2|D&amp;C 3:2]] · [[Hebrews 13#^heb-13-8|Heb. 13:8]] · [[D&C 20#^dc-20-12|D&amp;C 20:12]] · [[D&C 38#^dc-38-1|38:1 (1–4)]] · [[D&C 39#^dc-39-1|39:1 (1–3)]] · [[D&C 76#^dc-76-4|76:4]] · [[D&C 45#^dc-45-7|≈ D&C 45:7]]
+> [[Revelation 1#^rev-1-8|Rev. 1:8]] · [[D&C 19#^dc-19-1|D&amp;C 19:1]] · [[1 Nephi 10#^1ne-10-19|1 Ne. 10:19]] · [[D&C 3#^dc-3-2|D&amp;C 3:2]] · [[Hebrews 13#^heb-13-8|Heb. 13:8]] · [[D&C 20#^dc-20-12|D&amp;C 20:12]] · [[D&C 38#^dc-38-1|38:1 (1–4)]] · [[D&C 39#^dc-39-1|39:1 (1–3)]] · [[D&C 76#^dc-76-4|76:4]] · [[D&C 54#^dc-54-1|≈ D&C 54:1]]
 
 ![[D&C 35#^dc-35-2]]
-> [[D&C 20#^dc-20-25|D&amp;C 20:25]] · [[D&C 38#^dc-38-4|38:4]] · [[D&C 45#^dc-45-5|45:5 (5, 8)]] · [[John 17#^john-17-21|John 17:21]] · [[Moses 6#^moses-6-68|Moses 6:68]] · [[D&C 45#^dc-45-5|≈ D&C 45:5]] · [[D&C 53#^dc-53-2|≈ D&C 53:2]] · [[D&C 54#^dc-54-1|≈ D&C 54:1]] · [[3 Nephi 19#^3ne-19-23|≈ 3 Nephi 19:23]] · [[3 Nephi 19#^3ne-19-29|≈ 3 Nephi 19:29]]
+> [[D&C 20#^dc-20-25|D&amp;C 20:25]] · [[D&C 38#^dc-38-4|38:4]] · [[D&C 45#^dc-45-5|45:5 (5, 8)]] · [[John 17#^john-17-21|John 17:21]] · [[Moses 6#^moses-6-68|Moses 6:68]] · [[D&C 53#^dc-53-2|≈ D&C 53:2]] · [[D&C 54#^dc-54-1|≈ D&C 54:1]] · [[D&C 45#^dc-45-5|≈ D&C 45:5]] · [[3 Nephi 19#^3ne-19-23|≈ 3 Nephi 19:23]] · [[3 Nephi 19#^3ne-19-29|≈ 3 Nephi 19:29]]
 
 ![[D&C 35#^dc-35-3]]
 > [[Exodus 2#^ex-2-23|Ex. 2:24 (23–24)]] · [[Mosiah 9#^mosiah-9-17|Mosiah 9:18 (17–18)]] · [[Abraham 1#^abr-1-15|Abr. 1:15 (15–16)]]

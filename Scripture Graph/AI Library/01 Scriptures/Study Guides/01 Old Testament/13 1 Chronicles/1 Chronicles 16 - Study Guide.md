@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 16
 slug: 1chr-16
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,9 +57,9 @@ Scripture: [[1 Chronicles 16]] · My notes: [[1 Chronicles 16 - My Notes]]
 - [[Psalm 29]] — 2 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-29|1 Chronicles 16:29]] ↔ [[Psalm 29#^ps-29-2|Psalm 29:2]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
 - [[Psalm 106]] — 1 parallel verse, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[Psalm 106#^ps-106-1|Psalm 106:1]]
-- [[2 Chronicles 5]] — 3 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
 - [[Psalm 107]] — 1 parallel verse, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[Psalm 107#^ps-107-1|Psalm 107:1]]
 - [[Psalm 136]] — 1 parallel verse, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]
+- [[2 Chronicles 5]] — 3 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]] ↔ [[Deuteronomy 31#^deut-31-9|Deuteronomy 31:9]]
 - [[Joshua 3]] — 3 parallel verses, e.g. [[1 Chronicles 16#^1chr-16-37|1 Chronicles 16:37]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
 <!-- SG:END related-scriptures -->

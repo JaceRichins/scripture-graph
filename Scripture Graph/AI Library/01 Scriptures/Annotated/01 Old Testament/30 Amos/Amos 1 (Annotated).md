@@ -17,7 +17,7 @@ cssclasses:
 > Amos shows the Lord’s judgments upon Syria, the Philistines, Tyre, Edom, and Ammon.
 
 ![[Amos 1#^amos-1-1]]
-> [[Hosea 1#^hosea-1-1|Hosea 1:1]] · [[Amos 7#^amos-7-10|Amos 7:10]] · [[Zechariah 14#^zech-14-5|Zech. 14:5]] · [[Zechariah 14#^zech-14-5|≈ Zechariah 14:5]] · [[Hosea 1#^hosea-1-1|≈ Hosea 1:1]] · [[1 Chronicles 5#^1chr-5-17|≈ 1 Chronicles 5:17]]
+> [[Hosea 1#^hosea-1-1|Hosea 1:1]] · [[Amos 7#^amos-7-10|Amos 7:10]] · [[Zechariah 14#^zech-14-5|Zech. 14:5]] · [[Hosea 1#^hosea-1-1|≈ Hosea 1:1]] · [[Zechariah 14#^zech-14-5|≈ Zechariah 14:5]] · [[1 Chronicles 5#^1chr-5-17|≈ 1 Chronicles 5:17]]
 
 ![[Amos 1#^amos-1-2]]
 > [[Isaiah 31#^isa-31-4|Isa. 31:4]] · [[Jeremiah 25#^jer-25-30|Jer. 25:30]] · [[Joel 3#^joel-3-16|≈ Joel 3:16]]
@@ -49,12 +49,12 @@ cssclasses:
 > [[Jeremiah 49#^jer-49-7|Jer. 49:7]] · [[Amos 2#^amos-2-1|≈ Amos 2:1]] · [[Amos 2#^amos-2-4|≈ Amos 2:4]] · [[Amos 2#^amos-2-6|≈ Amos 2:6]]
 
 ![[Amos 1#^amos-1-12]]
-> [[Obadiah 1#^obad-1-9|Obad. 1:9 (9–10)]] · [[Amos 2#^amos-2-2|≈ Amos 2:2]] · [[Amos 2#^amos-2-5|≈ Amos 2:5]] · [[Hosea 8#^hosea-8-14|≈ Hosea 8:14]]
+> [[Obadiah 1#^obad-1-9|Obad. 1:9 (9–10)]] · [[Hosea 8#^hosea-8-14|≈ Hosea 8:14]] · [[Amos 2#^amos-2-2|≈ Amos 2:2]] · [[Amos 2#^amos-2-5|≈ Amos 2:5]]
 
 ![[Amos 1#^amos-1-13]]
 > [[Amos 2#^amos-2-4|≈ Amos 2:4]] · [[Amos 2#^amos-2-6|≈ Amos 2:6]] · [[Amos 2#^amos-2-1|≈ Amos 2:1]]
 
 ![[Amos 1#^amos-1-14]]
-> [[Jeremiah 49#^jer-49-2|Jer. 49:2]] · [[Ezekiel 21#^ezek-21-20|Ezek. 21:20]] · [[Ezekiel 25#^ezek-25-4|25:5 (4–5)]] · [[Jeremiah 49#^jer-49-27|≈ Jeremiah 49:27]] · [[Hosea 8#^hosea-8-14|≈ Hosea 8:14]]
+> [[Jeremiah 49#^jer-49-2|Jer. 49:2]] · [[Ezekiel 21#^ezek-21-20|Ezek. 21:20]] · [[Ezekiel 25#^ezek-25-4|25:5 (4–5)]] · [[Hosea 8#^hosea-8-14|≈ Hosea 8:14]] · [[Jeremiah 49#^jer-49-27|≈ Jeremiah 49:27]]
 
 ![[Amos 1#^amos-1-15]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 4
 slug: luke-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -89,10 +89,13 @@ _Not yet developed._
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Introduction** (reference-entry) *(explicit citation)*
 - **Anointed One** (reference-entry) *(explicit citation)*
+- **Blindness** (reference-entry) *(explicit citation)*
+- **Capernaum** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

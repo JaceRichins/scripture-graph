@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 1
 slug: ezra-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -65,12 +65,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Trust in God, Then Go and Do (President Henry B. Eyring, October 2010)|Trust in God, Then Go and Do]] — President Henry B. Eyring, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Captivities of the Israelites** (reference-entry) *(explicit citation)*
+- **Cyrus** (reference-entry) *(explicit citation)*
+- **Dispersion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 13
 slug: mosiah-13
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,8 +59,8 @@ The phrase 'type... of things to come' appears at both v.10 (applied to Abinadi'
 - [[Acts 4]] — 1 parallel verse, e.g. [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]] ↔ [[Acts 4#^acts-4-24|Acts 4:24]]
 - [[Deuteronomy 19]] — 3 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 19#^deut-19-2|Deuteronomy 19:2]]
 - [[Mosiah 17]] — 1 parallel verse, e.g. [[Mosiah 13#^mosiah-13-34|Mosiah 13:34]] ↔ [[Mosiah 17#^mosiah-17-8|Mosiah 17:8]]
-- [[Deuteronomy 27]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]]
 - [[Alma 18]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-1|Mosiah 13:1]] ↔ [[Alma 18#^alma-18-18|Alma 18:18]]
+- [[Deuteronomy 27]] — 2 parallel verses, e.g. [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]] ↔ [[Deuteronomy 27#^deut-27-2|Deuteronomy 27:2]]
 - [[Numbers 14]] — 1 parallel verse, e.g. [[Mosiah 13#^mosiah-13-13|Mosiah 13:13]] ↔ [[Numbers 14#^num-14-18|Numbers 14:18]]
 <!-- SG:END related-scriptures -->
 
@@ -90,6 +90,7 @@ Abinadi's argument preserves several qualifications rather than rejecting the la
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[The Cost—and Blessings—of Discipleship (Elder Jeffrey R. Holland, April 2014)|The Cost—and Blessings—of Discipleship]] — Elder Jeffrey R. Holland, 2014-April *(explicit citation)*
+- [[Our Perfect Example (President Henry B. Eyring, October 2009)|Our Perfect Example]] — President Henry B. Eyring, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

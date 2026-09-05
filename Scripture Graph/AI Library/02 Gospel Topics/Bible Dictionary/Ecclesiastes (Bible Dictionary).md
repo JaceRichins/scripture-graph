@@ -1,0 +1,16 @@
+---
+ownership: system
+mutable: ai
+content_type: reference
+collection: bible-dictionary
+url: https://www.churchofjesuschrist.org/study/scriptures/bd/ecclesiastes?lang=eng
+doc_id: glib:/scriptures/bd/ecclesiastes
+---
+
+# Ecclesiastes
+
+*Bible Dictionary* · [source](https://www.churchofjesuschrist.org/study/scriptures/bd/ecclesiastes?lang=eng)
+
+A Greek translation of the Hebrew Koheleth, a word meaning “one who convenes an assembly,” sometimes rendered Preacher. The book of Ecclesiastes consists of reflections on some of the deepest problems of life, as they present themselves to the thoughtful observer. The epilogue (Eccl. 12:9–14) sets forth the main conclusions at which the writer has arrived. The author describes himself as “son of David, king in Jerusalem” (1:1).
+
+The book of Ecclesiastes seems permeated with a pessimistic flavor but must be read in the light of one of its key phrases: “under the sun” (1:9), meaning “from a worldly point of view.” The term vanity also needs clarification, since as used in Ecclesiastes it means “transitory” or “fleeting.” Thus the Preacher laments that as things appear from the point of view of the world, everything is temporary and soon gone—nothing is permanent. It is in this light also that the reader must understand 9:5 and 9:10, which declare that the dead “know not any thing,” and there is no knowledge “in the grave.” These should not be construed as theological pronouncements on the condition of the soul after death; rather, they are observations by the Preacher about how things appear to men on the earth “under the sun.” The most spiritual part of the book appears in chapters 11 and 12, where it is concluded that the only activity of lasting and permanent value comes from obedience to God’s commandments, since all things will be examined in the judgment that God will render on man.

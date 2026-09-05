@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 121
 slug: dc-121
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -90,9 +90,9 @@ Verses 28 and 32 also contain unresolved language about “one God or many gods�
 - [[Confidence in the Presence of God (President Russell M. Nelson, April 2025)|Confidence in the Presence of God]] — President Russell M. Nelson, 2025-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Where Is the Pavilion (President Henry B. Eyring, October 2012)|Where Is the Pavilion?]] — President Henry B. Eyring, 2012-October *(explicit citation)*
+- [[Be Ready (President Henry B. Eyring, October 2009)|Be Ready]] — President Henry B. Eyring, 2009-October *(explicit citation)*
 - [[The Joy of the Priesthood (President Dieter F. Uchtdorf, October 2012)|The Joy of the Priesthood]] — President Dieter F. Uchtdorf, 2012-October *(explicit citation)*
 - [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
-- [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

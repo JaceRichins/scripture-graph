@@ -17,7 +17,7 @@ cssclasses:
 > 1–3, Lyman Sherman is forgiven of his sins; 4–5, He is to be numbered with the leading elders of the Church; 6–8, He is called to preach the gospel and strengthen his brethren.
 
 ![[D&C 108#^dc-108-1]]
-> [[D&C 71#^dc-71-1|≈ D&C 71:1]] · [[D&C 71#^dc-71-9|≈ D&C 71:9]] · [[D&C 80#^dc-80-1|≈ D&C 80:1]] · [[D&C 95#^dc-95-1|≈ D&C 95:1]] · [[D&C 112#^dc-112-1|≈ D&C 112:1]] · [[D&C 115#^dc-115-1|≈ D&C 115:1]]
+> [[D&C 71#^dc-71-1|≈ D&C 71:1]] · [[D&C 71#^dc-71-9|≈ D&C 71:9]] · [[D&C 80#^dc-80-1|≈ D&C 80:1]] · [[D&C 95#^dc-95-1|≈ D&C 95:1]] · [[D&C 112#^dc-112-1|≈ D&C 112:1]] · [[D&C 124#^dc-124-1|≈ D&C 124:1]]
 
 ![[D&C 108#^dc-108-2]]
 

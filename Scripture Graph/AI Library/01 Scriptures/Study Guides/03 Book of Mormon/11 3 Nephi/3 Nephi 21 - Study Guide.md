@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 21
 slug: 3ne-21
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -67,11 +67,11 @@ Scripture: [[3 Nephi 21]] · My notes: [[3 Nephi 21 - My Notes]]
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Signs of the Times]]
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Covenants]] *(keyword match — unconfirmed)*
-- [[Scattering of Israel]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
+- [[Scattering of Israel]] *(keyword match — unconfirmed)*
 - [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -89,6 +89,7 @@ The chapter joins conversion to gathering. Coming to Christ, baptism, entering t
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
 - [[The Time Shall Come (Elder L. Whitney Clayton, October 2011)|The Time Shall Come]] — Elder L. Whitney Clayton, 2011-October *(explicit citation)*
+- [[Be Thou an Example of the Believers (Elder Russell M. Nelson, October 2010)|Be Thou an Example of the Believers]] — Elder Russell M. Nelson, 2010-October *(explicit citation)*
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 

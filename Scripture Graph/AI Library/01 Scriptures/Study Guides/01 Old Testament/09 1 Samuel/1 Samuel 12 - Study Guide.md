@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 12
 slug: 1sam-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -64,9 +64,9 @@ Scripture: [[1 Samuel 12]] · My notes: [[1 Samuel 12 - My Notes]]
 - [[1 Samuel 8]]
 - [[Covenants]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

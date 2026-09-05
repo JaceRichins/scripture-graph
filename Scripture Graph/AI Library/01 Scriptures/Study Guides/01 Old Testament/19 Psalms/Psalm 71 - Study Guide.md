@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 71
 slug: ps-71
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 6
 slug: ezra-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -74,8 +74,8 @@ The movement from imperial paperwork to temple liturgy mirrors the book of Ezra'
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
-- [[Passover]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Passover]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -94,6 +94,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
+- **Daily service** (reference-entry) *(explicit citation)*
+- **Darius** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

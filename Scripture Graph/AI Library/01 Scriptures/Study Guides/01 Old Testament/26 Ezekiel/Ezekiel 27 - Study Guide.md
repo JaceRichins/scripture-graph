@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 27
 slug: ezek-27
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,7 +77,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Balm** (reference-entry) *(explicit citation)*
+- **Cassia** (reference-entry) *(explicit citation)*
+- **Commerce** (reference-entry) *(explicit citation)*
+- **Damascus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 57
 slug: dc-57
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,9 +57,9 @@ Scripture: [[D&C 57]] · My notes: [[D&C 57 - My Notes]]
 - [[D&C 42]] — 2 footnote cross-references (from [[D&C 57#^dc-57-2|D&C 57:2]])
 - [[D&C 124]] — 14 parallel verses, e.g. [[D&C 57#^dc-57-11|D&C 57:11]] ↔ [[D&C 124#^dc-124-91|D&C 124:91]]
 - [[D&C 52]] — 5 parallel verses, e.g. [[D&C 57#^dc-57-1|D&C 57:1]] ↔ [[D&C 52#^dc-52-42|D&C 52:42]]
+- [[D&C 58]] — 3 parallel verses, e.g. [[D&C 57#^dc-57-7|D&C 57:7]] ↔ [[D&C 58#^dc-58-40|D&C 58:40]]
 - [[D&C 63]] — 2 parallel verses, e.g. [[D&C 57#^dc-57-6|D&C 57:6]] ↔ [[D&C 63#^dc-63-56|D&C 63:56]]
 - [[D&C 62]] — 1 parallel verse, e.g. [[D&C 57#^dc-57-1|D&C 57:1]] ↔ [[D&C 62#^dc-62-1|D&C 62:1]]
-- [[D&C 58]] — 0 parallel verses
 - [[D&C 63]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

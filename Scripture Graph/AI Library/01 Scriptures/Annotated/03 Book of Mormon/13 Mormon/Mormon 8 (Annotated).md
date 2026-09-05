@@ -98,7 +98,7 @@ cssclasses:
 > [[Genesis 4#^gen-4-10|Gen. 4:10]] · [[Revelation 6#^rev-6-1|Rev. 6:10 (1, 10)]] · [[2 Nephi 28#^2ne-28-10|2 Ne. 28:10]] · [[Ether 8#^ether-8-22|Ether 8:22 (22–24)]] · [[D&C 87#^dc-87-7|D&amp;C 87:7]]
 
 ![[Mormon 8#^morm-8-28]]
-> [[2 Timothy 3#^2tim-3-1|2 Tim. 3:1 (1–7)]] · [[1 Nephi 14#^1ne-14-9|1 Ne. 14:10 (9–10)]] · [[2 Nephi 28#^2ne-28-3|2 Ne. 28:3 (3–32)]] · [[D&C 33#^dc-33-4|D&amp;C 33:4]] · [[2 Kings 14#^2kgs-14-10|2 Kgs. 14:10]] · [[Jacob 2#^jacob-2-13|Jacob 2:13]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[2 Nephi 28#^2ne-28-15|≈ 2 Nephi 28:15]] · [[Alma 1#^alma-1-6|≈ Alma 1:6]]
+> [[2 Timothy 3#^2tim-3-1|2 Tim. 3:1 (1–7)]] · [[1 Nephi 14#^1ne-14-9|1 Ne. 14:10 (9–10)]] · [[2 Nephi 28#^2ne-28-3|2 Ne. 28:3 (3–32)]] · [[D&C 33#^dc-33-4|D&amp;C 33:4]] · [[2 Kings 14#^2kgs-14-10|2 Kgs. 14:10]] · [[Jacob 2#^jacob-2-13|Jacob 2:13]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[Alma 4#^alma-4-8|≈ Alma 4:8]] · [[Alma 4#^alma-4-6|≈ Alma 4:6]]
 
 ![[Mormon 8#^morm-8-29]]
 > [[Joel 2#^joel-2-28|Joel 2:30 (28–32)]] · [[2 Nephi 27#^2ne-27-1|2 Ne. 27:2 (1–3)]] · [[1 Nephi 19#^1ne-19-11|1 Ne. 19:11]] · [[D&C 45#^dc-45-40|D&amp;C 45:41 (40–41)]]
@@ -119,7 +119,7 @@ cssclasses:
 ![[Mormon 8#^morm-8-35]]
 
 ![[Mormon 8#^morm-8-36]]
-> [[Jacob 2#^jacob-2-13|Jacob 2:13]] · [[3 Nephi 16#^3ne-16-10|3 Ne. 16:10]] · [[2 Nephi 28#^2ne-28-11|2 Ne. 28:13 (11–14)]] · [[Alma 5#^alma-5-53|Alma 5:53]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[2 Nephi 28#^2ne-28-15|≈ 2 Nephi 28:15]] · [[Alma 5#^alma-5-53|≈ Alma 5:53]] · [[Alma 6#^alma-6-3|≈ Alma 6:3]] · [[3 Nephi 16#^3ne-16-10|≈ 3 Nephi 16:10]]
+> [[Jacob 2#^jacob-2-13|Jacob 2:13]] · [[3 Nephi 16#^3ne-16-10|3 Ne. 16:10]] · [[2 Nephi 28#^2ne-28-11|2 Ne. 28:13 (11–14)]] · [[Alma 5#^alma-5-53|Alma 5:53]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[Alma 5#^alma-5-53|≈ Alma 5:53]] · [[2 Nephi 28#^2ne-28-15|≈ 2 Nephi 28:15]] · [[Alma 6#^alma-6-3|≈ Alma 6:3]] · [[3 Nephi 16#^3ne-16-10|≈ 3 Nephi 16:10]]
 
 ![[Mormon 8#^morm-8-37]]
 > [[Ezekiel 34#^ezek-34-8|Ezek. 34:8]] · [[1 Nephi 13#^1ne-13-7|1 Ne. 13:7]] · [[2 Nephi 28#^2ne-28-9|2 Ne. 28:13 (9–16)]] · [[D&C 52#^dc-52-40|≈ D&C 52:40]]

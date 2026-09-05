@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 45
 slug: isa-45
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 - [[Look to God and Live (Elder D. Todd Christofferson, October 2025)|Look to God and Live]] — Elder D. Todd Christofferson, 2025-October *(explicit citation)*
 - [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
 - [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
+- [[Trust in God, Then Go and Do (President Henry B. Eyring, October 2010)|Trust in God, Then Go and Do]] — President Henry B. Eyring, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -71,6 +72,7 @@ _Not yet developed._
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-09-01 (Vol. 1 No. 12)** (periodical, 1835-09-01) *(explicit citation)*
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
+- **Cyrus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 26
 slug: acts-26
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,21 +55,22 @@ Scripture: [[Acts 26]] · My notes: [[Acts 26 - My Notes]]
 - [[Acts 23]] — 1 footnote cross-reference (from [[Acts 26#^acts-26-5|Acts 26:5]])
 - [[1 Timothy 1]] — 1 footnote cross-reference (from [[Acts 26#^acts-26-9|Acts 26:9]])
 - [[Luke 1]] — 1 footnote cross-reference (from [[Acts 26#^acts-26-16|Acts 26:16]])
-- [[Acts 9]] — 0 parallel verses
+- [[Acts 9]] — 2 parallel verses, e.g. [[Acts 26#^acts-26-14|Acts 26:14]] ↔ [[Acts 9#^acts-9-5|Acts 9:5]]
 - [[Acts 22]] — 0 parallel verses
 - [[Isaiah 42]] — 0 parallel verses
 - [[Isaiah 49]] — 0 parallel verses
 - [[Luke 24]] — 0 parallel verses
 - [[1 Timothy 1]] — 0 parallel verses
 - [[Acts 22]] — 0 parallel verses
+- [[Acts 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
-- [[Government and Laws]]
 - [[Repentance and Forgiveness]]
 - [[Prophecy]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Hope]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -99,6 +100,10 @@ Acts 26:18 also gives a compact account of deliverance: darkness gives way to li
 <!-- SG:BEGIN history -->
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
+- **Blasphemy** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
+- **Damascus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

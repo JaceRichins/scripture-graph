@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 37
 slug: isa-37
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 25
 slug: num-25
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,7 +77,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Baal** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

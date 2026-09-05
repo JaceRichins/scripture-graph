@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 7
 slug: mark-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -71,16 +71,22 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Choose Wisely (Elder Quentin L. Cook, October 2014)|Choose Wisely]] — Elder Quentin L. Cook, 2014-October *(explicit citation)*
+- [[Stewardship—a Sacred Trust (Elder Quentin L. Cook, October 2009)|Stewardship—a Sacred Trust]] — Elder Quentin L. Cook, 2009-October *(explicit citation)*
+- [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 - [[The Joy of a Covenant Relationship with God (Elder Thierry K. Mutombo, April 2026)|The Joy of a Covenant Relationship with God]] — Elder Thierry K. Mutombo, 2026-April *(explicit citation)*
 - [[Followers of Christ (Elder Dallin H. Oaks, April 2013)|Followers of Christ]] — Elder Dallin H. Oaks, 2013-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
 - [[What Manner of Men and Women Ought Ye to Be (Elder Lynn G. Robbins, April 2011)|What Manner of Men and Women Ought Ye to Be?]] — Elder Lynn G. Robbins, 2011-April *(explicit citation)*
+- [[The Blessing of Scripture (Elder D. Todd Christofferson, April 2010)|The Blessing of Scripture]] — Elder D. Todd Christofferson, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1840-11-01 (Vol. 2 No. 1)** (periodical, 1840-11-01) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **Clean and unclean** (reference-entry) *(explicit citation)*
+- **Corban** (reference-entry) *(explicit citation)*
+- **Dog** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

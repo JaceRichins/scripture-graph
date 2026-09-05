@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 23
 slug: matt-23
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[Mark 11]] — 1 parallel verse, e.g. [[Matthew 23#^matt-23-39|Matthew 23:39]] ↔ [[Mark 11#^mark-11-9|Mark 11:9]]
 - [[D&C 10]] — 1 parallel verse, e.g. [[Matthew 23#^matt-23-37|Matthew 23:37]] ↔ [[D&C 10#^dc-10-65|D&C 10:65]]
 - [[D&C 121]] — 0 parallel verses
+- [[D&C 117]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -90,6 +91,9 @@ _Not yet developed._
 - **Humility** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-11-01 (Vol. 2 No. 1)** (periodical, 1840-11-01) *(explicit citation)*
 - **Abel** (reference-entry) *(explicit citation)*
+- **Burial** (reference-entry) *(explicit citation)*
+- **Camel** (reference-entry) *(explicit citation)*
+- **Damnation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

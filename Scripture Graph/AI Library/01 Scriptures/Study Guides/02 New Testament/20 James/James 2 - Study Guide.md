@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 2
 slug: james-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,8 @@ _Not yet developed._
 - **Faith** (reference-entry) *(explicit citation)*
 - **Journal of Discourses, Volume 10** (history, ~1863) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Death** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

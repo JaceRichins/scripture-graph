@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 1
 slug: judg-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,12 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Asher** (reference-entry) *(explicit citation)*
+- **Benjamin** (reference-entry) *(explicit citation)*
+- **Beth-shan or Beth-shean** (reference-entry) *(explicit citation)*
+- **Beth-shemesh** (reference-entry) *(explicit citation)*
+- **Caleb** (reference-entry) *(explicit citation)*
+- **Chariot** (reference-entry) *(explicit citation)*
+- **Dan** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

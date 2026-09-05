@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 14
 slug: 1kgs-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -83,12 +83,13 @@ The chapter presents [[Revelation]] as knowledge supplied by God rather than ord
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[When the Lord Commands (Elder Bruce A. Carlson, April 2010)|When the Lord Commands]] — Elder Bruce A. Carlson, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Blindness** (reference-entry) *(explicit citation)*
+- **Egypt** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

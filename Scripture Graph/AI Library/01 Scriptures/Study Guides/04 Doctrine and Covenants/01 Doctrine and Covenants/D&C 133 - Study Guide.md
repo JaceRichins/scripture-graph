@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 133
 slug: dc-133
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -68,8 +68,8 @@ The movement is therefore both outward and judicial: the summons broadens from t
 - [[Revelation 14]] — 6 parallel verses, e.g. [[D&C 133#^dc-133-38|D&C 133:38]] ↔ [[Revelation 14#^rev-14-7|Revelation 14:7]]
 - [[Malachi 4]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-64|D&C 133:64]] ↔ [[Malachi 4#^mal-4-1|Malachi 4:1]]
 - [[3 Nephi 25]] — 1 parallel verse, e.g. [[D&C 133#^dc-133-64|D&C 133:64]] ↔ [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]]
-- [[Isaiah 63]] — 5 parallel verses, e.g. [[D&C 133#^dc-133-53|D&C 133:53]] ↔ [[Isaiah 63#^isa-63-9|Isaiah 63:9]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[D&C 133#^dc-133-64|D&C 133:64]] ↔ [[Joseph Smith—History 1#^jsh-1-37|Joseph Smith—History 1:37]]
+- [[Isaiah 63]] — 5 parallel verses, e.g. [[D&C 133#^dc-133-53|D&C 133:53]] ↔ [[Isaiah 63#^isa-63-9|Isaiah 63:9]]
 - [[3 Nephi 20]] — 3 parallel verses, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[3 Nephi 20#^3ne-20-35|3 Nephi 20:35]]
 - [[Isaiah 52]] — 2 parallel verses, e.g. [[D&C 133#^dc-133-3|D&C 133:3]] ↔ [[Isaiah 52#^isa-52-10|Isaiah 52:10]]
 - [[Isaiah 64]] — 3 parallel verses, e.g. [[D&C 133#^dc-133-45|D&C 133:45]] ↔ [[Isaiah 64#^isa-64-4|Isaiah 64:4]]

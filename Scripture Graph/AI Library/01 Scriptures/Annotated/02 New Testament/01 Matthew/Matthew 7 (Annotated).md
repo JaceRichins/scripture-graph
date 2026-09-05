@@ -56,7 +56,7 @@ cssclasses:
 > [[2 Nephi 31#^2ne-31-17|2 Ne. 31:17–21]] · [[Luke 13#^luke-13-24|Luke 13:24]] · [[3 Nephi 27#^3ne-27-33|3 Ne. 27:33]] · [[D&C 22#^dc-22-1|D&amp;C 22:4 (1–4)]] · [[D&C 43#^dc-43-7|43:7]] · [[D&C 132#^dc-132-25|D&amp;C 132:25]] · [[3 Nephi 14#^3ne-14-13|≈ 3 Nephi 14:13]] · [[3 Nephi 27#^3ne-27-33|≈ 3 Nephi 27:33]]
 
 ![[Matthew 7#^matt-7-14]]
-> [[Mosiah 3#^mosiah-3-17|Mosiah 3:17]] · [[1 Nephi 8#^1ne-8-19|1 Ne. 8:20 (19–24)]] · [[2 Nephi 33#^2ne-33-9|2 Ne. 33:9]] · [[Jeremiah 21#^jer-21-8|Jer. 21:8]] · [[3 Nephi 14#^3ne-14-14|≈ 3 Nephi 14:14]] · [[D&C 132#^dc-132-22|≈ D&C 132:22]] · [[3 Nephi 27#^3ne-27-33|≈ 3 Nephi 27:33]]
+> [[Mosiah 3#^mosiah-3-17|Mosiah 3:17]] · [[1 Nephi 8#^1ne-8-19|1 Ne. 8:20 (19–24)]] · [[2 Nephi 33#^2ne-33-9|2 Ne. 33:9]] · [[Jeremiah 21#^jer-21-8|Jer. 21:8]] · [[3 Nephi 14#^3ne-14-14|≈ 3 Nephi 14:14]] · [[3 Nephi 27#^3ne-27-33|≈ 3 Nephi 27:33]] · [[D&C 132#^dc-132-22|≈ D&C 132:22]]
 
 ![[Matthew 7#^matt-7-15]]
 > [[3 Nephi 14#^3ne-14-15|≈ 3 Nephi 14:15]]
@@ -71,7 +71,7 @@ cssclasses:
 > [[3 Nephi 14#^3ne-14-18|≈ 3 Nephi 14:18]] · [[Luke 6#^luke-6-43|≈ Luke 6:43]]
 
 ![[Matthew 7#^matt-7-19]]
-> [[Luke 3#^luke-3-9|Luke 3:9]] · [[John 15#^john-15-1|John 15:2 (1–6)]] · [[Jacob 5#^jacob-5-26|Jacob 5:26 (26–60)]] · [[Alma 5#^alma-5-36|Alma 5:36]] · [[D&C 97#^dc-97-7|D&amp;C 97:7]] · [[Luke 13#^luke-13-7|Luke 13:7]] · [[3 Nephi 14#^3ne-14-19|≈ 3 Nephi 14:19]] · [[D&C 97#^dc-97-7|≈ D&C 97:7]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]]
+> [[Luke 3#^luke-3-9|Luke 3:9]] · [[John 15#^john-15-1|John 15:2 (1–6)]] · [[Jacob 5#^jacob-5-26|Jacob 5:26 (26–60)]] · [[Alma 5#^alma-5-36|Alma 5:36]] · [[D&C 97#^dc-97-7|D&amp;C 97:7]] · [[Luke 13#^luke-13-7|Luke 13:7]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]]
 
 ![[Matthew 7#^matt-7-20]]
 > [[James 2#^james-2-14|James 2:18 (14–26)]] · [[1 John 3#^1jn-3-10|1 Jn. 3:10 (10–18)]] · [[3 Nephi 14#^3ne-14-20|≈ 3 Nephi 14:20]]

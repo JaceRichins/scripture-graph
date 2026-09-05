@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 18
 slug: alma-18
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -60,12 +60,16 @@ Scripture: [[Alma 18]] · My notes: [[Alma 18 - My Notes]]
 - [[Alma 20]] — 3 footnote cross-references (from [[Alma 18#^alma-18-9|Alma 18:9]])
 - [[Daniel 5]] — 2 footnote cross-references (from [[Alma 18#^alma-18-12|Alma 18:12]])
 - [[Genesis 41]] — 2 footnote cross-references (from [[Alma 18#^alma-18-16|Alma 18:16]])
+- [[Alma 22]] — 4 parallel verses, e.g. [[Alma 18#^alma-18-39|Alma 18:39]] ↔ [[Alma 22#^alma-22-13|Alma 22:13]]
 - [[Alma 20]] — 3 parallel verses, e.g. [[Alma 18#^alma-18-9|Alma 18:9]] ↔ [[Alma 20#^alma-20-8|Alma 20:8]]
 - [[Alma 30]] — 3 parallel verses, e.g. [[Alma 18#^alma-18-24|Alma 18:24]] ↔ [[Alma 30#^alma-30-37|Alma 30:37]]
+- [[Mosiah 27]] — 3 parallel verses, e.g. [[Alma 18#^alma-18-43|Alma 18:43]] ↔ [[Mosiah 27#^mosiah-27-23|Mosiah 27:23]]
+- [[Mark 10]] — 2 parallel verses, e.g. [[Alma 18#^alma-18-14|Alma 18:14]] ↔ [[Mark 10#^mark-10-51|Mark 10:51]]
 - [[Alma 12]] — 2 parallel verses, e.g. [[Alma 18#^alma-18-39|Alma 18:39]] ↔ [[Alma 12#^alma-12-30|Alma 12:30]]
+- [[Mosiah 13]] — 2 parallel verses, e.g. [[Alma 18#^alma-18-18|Alma 18:18]] ↔ [[Mosiah 13#^mosiah-13-1|Mosiah 13:1]]
+- [[Mosiah 4]] — 2 parallel verses, e.g. [[Alma 18#^alma-18-39|Alma 18:39]] ↔ [[Mosiah 4#^mosiah-4-7|Mosiah 4:7]]
+- [[Alma 19]] — 1 parallel verse, e.g. [[Alma 18#^alma-18-43|Alma 18:43]] ↔ [[Alma 19#^alma-19-5|Alma 19:5]]
 - [[Alma 43]] — 1 parallel verse, e.g. [[Alma 18#^alma-18-38|Alma 18:38]] ↔ [[Alma 43#^alma-43-13|Alma 43:13]]
-- [[Alma 22]] — 0 parallel verses
-- [[Alma 19]] — 0 parallel verses
 - [[Alma 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -74,6 +78,7 @@ Scripture: [[Alma 18]] · My notes: [[Alma 18 - My Notes]]
 - [[The Godhead]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Records and Sacred Writings]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Scattering of Israel]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*

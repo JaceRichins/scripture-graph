@@ -40,7 +40,7 @@ cssclasses:
 > [[Moses 1#^moses-1-17|Moses 1:17]] · [[Moses 6#^moses-6-57|Moses 6:57]] · [[Moses 7#^moses-7-10|7:10]] · [[Moses 1#^moses-1-17|≈ Moses 1:17]]
 
 ![[Moses 5#^moses-5-9]]
-> [[Psalm 49#^ps-49-15|Ps. 49:15]] · [[Mosiah 27#^mosiah-27-24|Mosiah 27:24 (24–26)]] · [[D&C 93#^dc-93-38|D&amp;C 93:38]] · [[Articles of Faith 1#^aoff-1-3|A of F 1:3]] · [[Moses 7#^moses-7-11|≈ Moses 7:11]] · [[Moses 1#^moses-1-24|≈ Moses 1:24]] · [[3 Nephi 11#^3ne-11-32|≈ 3 Nephi 11:32]] · [[D&C 20#^dc-20-27|≈ D&C 20:27]]
+> [[Psalm 49#^ps-49-15|Ps. 49:15]] · [[Mosiah 27#^mosiah-27-24|Mosiah 27:24 (24–26)]] · [[D&C 93#^dc-93-38|D&amp;C 93:38]] · [[Articles of Faith 1#^aoff-1-3|A of F 1:3]] · [[Moses 7#^moses-7-11|≈ Moses 7:11]] · [[3 Nephi 11#^3ne-11-32|≈ 3 Nephi 11:32]] · [[D&C 20#^dc-20-27|≈ D&C 20:27]] · [[Moses 1#^moses-1-24|≈ Moses 1:24]]
 
 ![[Moses 5#^moses-5-10]]
 > [[D&C 107#^dc-107-41|D&amp;C 107:56 (41–56)]] · [[Genesis 3#^gen-3-3|Gen. 3:5 (3–6)]] · [[D&C 76#^dc-76-12|D&amp;C 76:12 (12, 19)]] · [[Moses 4#^moses-4-10|Moses 4:11 (10–13)]] · [[Job 19#^job-19-26|Job 19:26]] · [[2 Nephi 9#^2ne-9-4|2 Ne. 9:4]]

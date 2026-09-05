@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 6
 slug: luke-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,7 @@ _Not yet developed._
 - **Mercy** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1836-03-01 (Vol. 2 No. 6)** (periodical, 1836-03-01) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
+- **Beatitudes** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

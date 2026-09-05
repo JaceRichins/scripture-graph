@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 82
 slug: dc-82
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -62,7 +62,7 @@ D&C 82 moves from forgiveness and heightened accountability (vv. 1–10) to the 
 - [[D&C 92]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-5|D&C 82:5]] ↔ [[D&C 92#^dc-92-1|D&C 92:1]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-5|D&C 82:5]] ↔ [[D&C 93#^dc-93-49|D&C 93:49]]
 - [[Joseph Smith—Matthew 1]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-5|D&C 82:5]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-46|Joseph Smith—Matthew 1:46]]
-- [[D&C 104]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-21|D&C 82:21]] ↔ [[D&C 104#^dc-104-9|D&C 104:9]]
+- [[D&C 4]] — 1 parallel verse, e.g. [[D&C 82#^dc-82-19|D&C 82:19]] ↔ [[D&C 4#^dc-4-5|D&C 4:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,8 +72,8 @@ D&C 82 moves from forgiveness and heightened accountability (vv. 1–10) to the 
 - [[Satan and Temptation]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Zion]] *(keyword match — unconfirmed)*
-- [[Covenants]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

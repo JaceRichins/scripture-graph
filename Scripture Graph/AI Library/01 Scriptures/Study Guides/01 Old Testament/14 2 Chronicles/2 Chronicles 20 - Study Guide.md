@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 20
 slug: 2chr-20
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ The prayer also joins [[Temples]], covenant memory, and present need. Jehoshapha
 - **Bible** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Ahaziah** (reference-entry) *(explicit citation)*
+- **Chronicles** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 4
 slug: 1thes-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ The passage supplies a limited sequence but does not establish the date of the L
 - [[We Talk of Christ (Elder Neil L. Andersen, October 2020)|We Talk of Christ]] — Elder Neil L. Andersen, 2020-October *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[The Lord’s Way (Elder Stanley G. Ellis, April 2013)|The Lord’s Way]] — Elder Stanley G. Ellis, 2013-April *(explicit citation)*
+- [[We Are Doing a Great Work and Cannot Come Down (President Dieter F. Uchtdorf, April 2009)|We Are Doing a Great Work and Cannot Come Down]] — President Dieter F. Uchtdorf, 2009-April *(explicit citation)*
 - [[No Other Gods (Elder Dallin H. Oaks, October 2013)|No Other Gods]] — Elder Dallin H. Oaks, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 

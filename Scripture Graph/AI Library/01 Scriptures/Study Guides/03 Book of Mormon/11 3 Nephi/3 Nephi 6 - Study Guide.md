@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 6
 slug: 3ne-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -50,26 +50,26 @@ A smaller contrast joins the halves. In verse 3, a covenant turns former robbers
 - [[3 Nephi 4]] — 1 footnote cross-reference (from [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]])
 - [[3 Nephi 5]] — 1 footnote cross-reference (from [[3 Nephi 6#^3ne-6-3|3 Nephi 6:3]])
 - [[3 Nephi 8]] — 1 footnote cross-reference (from [[3 Nephi 6#^3ne-6-8|3 Nephi 6:8]])
+- [[Alma 46]] — 4 parallel verses, e.g. [[3 Nephi 6#^3ne-6-3|3 Nephi 6:3]] ↔ [[Alma 46#^alma-46-31|Alma 46:31]]
+- [[Alma 4]] — 2 parallel verses, e.g. [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]] ↔ [[Alma 4#^alma-4-6|Alma 4:6]]
 - [[Mosiah 19]] — 1 parallel verse, e.g. [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]] ↔ [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]]
 - [[Alma 19]] — 2 parallel verses, e.g. [[3 Nephi 6#^3ne-6-7|3 Nephi 6:7]] ↔ [[Alma 19#^alma-19-25|Alma 19:25]]
 - [[Ether 9]] — 2 parallel verses, e.g. [[3 Nephi 6#^3ne-6-7|3 Nephi 6:7]] ↔ [[Ether 9#^ether-9-32|Ether 9:32]]
 - [[Alma 50]] — 1 parallel verse, e.g. [[3 Nephi 6#^3ne-6-19|3 Nephi 6:19]] ↔ [[Alma 50#^alma-50-40|Alma 50:40]]
 - [[1 Nephi 16]] — 1 parallel verse, e.g. [[3 Nephi 6#^3ne-6-14|3 Nephi 6:14]] ↔ [[1 Nephi 16#^1ne-16-4|1 Nephi 16:4]]
-- [[Alma 46]] — 0 parallel verses
-- [[Alma 4]] — 0 parallel verses
 - [[Ether 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Pride]]
-- [[Education and Learning]]
 - [[Secret Combinations]]
 - [[Freedom and Liberty]]
 - [[Satan and Temptation]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Covenants]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

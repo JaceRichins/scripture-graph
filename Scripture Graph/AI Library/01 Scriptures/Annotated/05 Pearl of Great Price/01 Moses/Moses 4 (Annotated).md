@@ -98,15 +98,15 @@ cssclasses:
 > [[Genesis 27#^gen-27-16|Gen. 27:16]] · [[Alma 49#^alma-49-6|Alma 49:6]] · [[Genesis 3#^gen-3-21|≈ Genesis 3:21]]
 
 ![[Moses 4#^moses-4-28]]
-> [[Genesis 3#^gen-3-22|Gen. 3:22]] · [[Alma 42#^alma-42-4|Alma 42:5 (4–5)]] · [[Genesis 2#^gen-2-9|Gen. 2:9]] · [[1 Nephi 11#^1ne-11-25|1 Ne. 11:25]] · [[Moses 3#^moses-3-9|Moses 3:9]] · [[Abraham 5#^abr-5-9|Abr. 5:9]] · [[Alma 42#^alma-42-3|≈ Alma 42:3]] · [[Genesis 3#^gen-3-22|≈ Genesis 3:22]] · [[Moses 3#^moses-3-18|≈ Moses 3:18]]
+> [[Genesis 3#^gen-3-22|Gen. 3:22]] · [[Alma 42#^alma-42-4|Alma 42:5 (4–5)]] · [[Genesis 2#^gen-2-9|Gen. 2:9]] · [[1 Nephi 11#^1ne-11-25|1 Ne. 11:25]] · [[Moses 3#^moses-3-9|Moses 3:9]] · [[Abraham 5#^abr-5-9|Abr. 5:9]] · [[Genesis 3#^gen-3-22|≈ Genesis 3:22]] · [[Alma 42#^alma-42-3|≈ Alma 42:3]] · [[Moses 3#^moses-3-18|≈ Moses 3:18]]
 
 ![[Moses 4#^moses-4-29]]
-> [[Alma 42#^alma-42-2|≈ Alma 42:2]] · [[Genesis 3#^gen-3-23|≈ Genesis 3:23]]
+> [[Genesis 3#^gen-3-23|≈ Genesis 3:23]] · [[Alma 42#^alma-42-2|≈ Alma 42:2]]
 
 ![[Moses 4#^moses-4-30]]
 > [[1 Kings 8#^1kgs-8-56|1 Kgs. 8:56]] · [[Jeremiah 44#^jer-44-28|Jer. 44:28]]
 
 ![[Moses 4#^moses-4-31]]
-> [[Alma 42#^alma-42-3|Alma 42:3]] · [[Alma 42#^alma-42-2|≈ Alma 42:2]] · [[Genesis 3#^gen-3-24|≈ Genesis 3:24]] · [[Alma 12#^alma-12-21|≈ Alma 12:21]]
+> [[Alma 42#^alma-42-3|Alma 42:3]] · [[Genesis 3#^gen-3-24|≈ Genesis 3:24]] · [[Alma 42#^alma-42-2|≈ Alma 42:2]] · [[Alma 12#^alma-12-21|≈ Alma 12:21]]
 
 ![[Moses 4#^moses-4-32]]

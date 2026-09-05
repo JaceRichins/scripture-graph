@@ -73,7 +73,7 @@ cssclasses:
 > [[Alma 25#^alma-25-1|Alma 25:13 (1, 13)]] · [[Alma 43#^alma-43-11|43:11]] · [[Alma 43#^alma-43-11|≈ Alma 43:11]] · [[Alma 25#^alma-25-13|≈ Alma 25:13]]
 
 ![[Alma 27#^alma-27-22]]
-> [[Alma 43#^alma-43-12|Alma 43:12]] · [[Alma 28#^alma-28-1|Alma 28:1 (1, 8)]] · [[Mosiah 29#^mosiah-29-2|≈ Mosiah 29:2]] · [[Alma 51#^alma-51-7|≈ Alma 51:7]] · [[Mosiah 24#^mosiah-24-13|≈ Mosiah 24:13]] · [[Alma 2#^alma-2-7|≈ Alma 2:7]] · [[1 Nephi 16#^1ne-16-9|≈ 1 Nephi 16:9]] · [[1 Nephi 16#^1ne-16-25|≈ 1 Nephi 16:25]]
+> [[Alma 43#^alma-43-12|Alma 43:12]] · [[Alma 28#^alma-28-1|Alma 28:1 (1, 8)]] · [[Mosiah 24#^mosiah-24-13|≈ Mosiah 24:13]] · [[Mosiah 29#^mosiah-29-2|≈ Mosiah 29:2]] · [[Alma 51#^alma-51-7|≈ Alma 51:7]] · [[Alma 2#^alma-2-7|≈ Alma 2:7]] · [[1 Nephi 16#^1ne-16-9|≈ 1 Nephi 16:9]] · [[1 Nephi 16#^1ne-16-25|≈ 1 Nephi 16:25]]
 
 ![[Alma 27#^alma-27-23]]
 > [[Alma 43#^alma-43-12|Alma 43:12]]

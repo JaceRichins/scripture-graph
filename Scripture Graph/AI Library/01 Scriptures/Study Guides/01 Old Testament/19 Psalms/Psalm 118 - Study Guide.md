@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 118
 slug: ps-118
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[2 Chronicles 5]] — 1 parallel verse, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
 - [[2 Chronicles 7]] — 1 parallel verse, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[2 Chronicles 7#^2chr-7-3|2 Chronicles 7:3]]
 - [[Exodus 15]] — 0 parallel verses
+- [[Acts 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

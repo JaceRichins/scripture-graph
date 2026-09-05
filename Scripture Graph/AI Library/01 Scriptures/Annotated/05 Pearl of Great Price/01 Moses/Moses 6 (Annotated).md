@@ -198,7 +198,7 @@ cssclasses:
 > [[D&C 19#^dc-19-31|D&amp;C 19:31]] · [[2 Nephi 31#^2ne-31-17|2 Ne. 31:18 (17–21)]] · [[3 Nephi 28#^3ne-28-11|3 Ne. 28:11]] · [[Moses 7#^moses-7-11|≈ Moses 7:11]] · [[Moses 1#^moses-1-24|≈ Moses 1:24]] · [[3 Nephi 11#^3ne-11-35|≈ 3 Nephi 11:35]] · [[3 Nephi 12#^3ne-12-1|≈ 3 Nephi 12:1]] · [[3 Nephi 12#^3ne-12-2|≈ 3 Nephi 12:2]]
 
 ![[Moses 6#^moses-6-67]]
-> [[Moses 1#^moses-1-3|≈ Moses 1:3]] · [[Alma 13#^alma-13-7|≈ Alma 13:7]] · [[Alma 13#^alma-13-9|≈ Alma 13:9]]
+> [[Alma 13#^alma-13-7|≈ Alma 13:7]] · [[Alma 13#^alma-13-9|≈ Alma 13:9]] · [[Moses 1#^moses-1-3|≈ Moses 1:3]]
 
 ![[Moses 6#^moses-6-68]]
 > [[John 17#^john-17-21|John 17:21]] · [[1 John 1#^1jn-1-3|1 Jn. 1:3]] · [[D&C 35#^dc-35-2|D&amp;C 35:2]] · [[John 1#^john-1-9|John 1:12 (9–13)]] · [[Mosiah 27#^mosiah-27-24|Mosiah 27:25 (24–26)]] · [[D&C 34#^dc-34-3|D&amp;C 34:3]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 29
 slug: jer-29
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,8 +59,8 @@ Scripture: [[Jeremiah 29]] · My notes: [[Jeremiah 29 - My Notes]]
 - [[Jeremiah 44]] — 15 parallel verses, e.g. [[Jeremiah 29#^jer-29-25|Jeremiah 29:25]] ↔ [[Jeremiah 44#^jer-44-25|Jeremiah 44:25]]
 - [[Jeremiah 35]] — 14 parallel verses, e.g. [[Jeremiah 29#^jer-29-19|Jeremiah 29:19]] ↔ [[Jeremiah 35#^jer-35-15|Jeremiah 35:15]]
 - [[Jeremiah 32]] — 12 parallel verses, e.g. [[Jeremiah 29#^jer-29-21|Jeremiah 29:21]] ↔ [[Jeremiah 32#^jer-32-28|Jeremiah 32:28]]
-- [[Jeremiah 27]] — 10 parallel verses, e.g. [[Jeremiah 29#^jer-29-9|Jeremiah 29:9]] ↔ [[Jeremiah 27#^jer-27-15|Jeremiah 27:15]]
 - [[Jeremiah 28]] — 9 parallel verses, e.g. [[Jeremiah 29#^jer-29-25|Jeremiah 29:25]] ↔ [[Jeremiah 28#^jer-28-2|Jeremiah 28:2]]
+- [[Jeremiah 27]] — 10 parallel verses, e.g. [[Jeremiah 29#^jer-29-9|Jeremiah 29:9]] ↔ [[Jeremiah 27#^jer-27-15|Jeremiah 27:15]]
 - [[Jeremiah 7]] — 9 parallel verses, e.g. [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]] ↔ [[Jeremiah 7#^jer-7-3|Jeremiah 7:3]]
 - [[Jeremiah 46]] — 6 parallel verses, e.g. [[Jeremiah 29#^jer-29-21|Jeremiah 29:21]] ↔ [[Jeremiah 46#^jer-46-26|Jeremiah 46:26]]
 - [[Jeremiah 42]] — 8 parallel verses, e.g. [[Jeremiah 29#^jer-29-4|Jeremiah 29:4]] ↔ [[Jeremiah 42#^jer-42-15|Jeremiah 42:15]]
@@ -101,6 +101,7 @@ The disputes with rival speakers contribute to the chapter's teaching about [[Pr
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
 - [[Your Wonderful Journey Home (President Dieter F. Uchtdorf, April 2013)|Your Wonderful Journey Home]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
+- [[The Love of God (President Dieter F. Uchtdorf, October 2009)|The Love of God]] — President Dieter F. Uchtdorf, 2009-October *(explicit citation)*
 - [[God Loves His Children (Elder Taniela B. Wakolo, April 2021)|God Loves His Children]] — Elder Taniela B. Wakolo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 

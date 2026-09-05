@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 11
 slug: 1cor-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -43,8 +43,8 @@ _Not yet developed._
 - [[1 Corinthians 14]] — 1 footnote cross-reference (from [[1 Corinthians 11#^1cor-11-16|1 Corinthians 11:16]])
 - [[3 Nephi 11]] — 1 footnote cross-reference (from [[1 Corinthians 11#^1cor-11-16|1 Corinthians 11:16]])
 - [[3 Nephi 20]] — 1 footnote cross-reference (from [[1 Corinthians 11#^1cor-11-23|1 Corinthians 11:23]])
-- [[Mark 14]] — 0 parallel verses
-- [[Luke 22]] — 0 parallel verses
+- [[Luke 22]] — 2 parallel verses, e.g. [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]] ↔ [[Luke 22#^luke-22-19|Luke 22:19]]
+- [[Mark 14]] — 2 parallel verses, e.g. [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]] ↔ [[Mark 14#^mark-14-22|Mark 14:22]]
 - [[1 Corinthians 14]] — 0 parallel verses
 - [[3 Nephi 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->

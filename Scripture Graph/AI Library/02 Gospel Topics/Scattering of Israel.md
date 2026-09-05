@@ -37,8 +37,8 @@ _Not yet developed._
 - [[Mormon 5]] *(keyword match)*
 - [[Alma 18]] *(keyword match)*
 - [[Alma 17]] *(keyword match)*
-- [[Amos 9]]
 - [[2 Kings 17]]
+- [[Amos 9]]
 - [[2 Kings 18]]
 - [[2 Kings 24]]
 <!-- SG:END scriptural-foundation -->

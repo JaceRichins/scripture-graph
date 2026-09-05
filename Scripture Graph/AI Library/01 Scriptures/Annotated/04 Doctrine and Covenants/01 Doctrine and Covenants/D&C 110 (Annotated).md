@@ -56,10 +56,10 @@ cssclasses:
 > [[1 Kings 17#^1kgs-17-1|1 Kgs. 17:1]] · [[Malachi 4#^mal-4-5|Mal. 4:5 (5–6)]] · [[Matthew 17#^matt-17-1|Matt. 17:3 (1–4)]] · [[Luke 4#^luke-4-25|Luke 4:25]] · [[3 Nephi 25#^3ne-25-5|3 Ne. 25:5 (5–6)]] · [[D&C 2#^dc-2-1|D&amp;C 2:1]] · [[D&C 35#^dc-35-4|35:4]] · [[D&C 128#^dc-128-17|128:17]] · [[D&C 138#^dc-138-46|138:46]]
 
 ![[D&C 110#^dc-110-14]]
-> [[D&C 2#^dc-2-1|≈ D&C 2:1]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[D&C 138#^dc-138-46|≈ D&C 138:46]] · [[Joseph Smith—History 1#^jsh-1-38|≈ Joseph Smith—History 1:38]] · [[Malachi 4#^mal-4-5|≈ Malachi 4:5]] · [[3 Nephi 25#^3ne-25-5|≈ 3 Nephi 25:5]]
+> [[Malachi 4#^mal-4-5|≈ Malachi 4:5]] · [[D&C 2#^dc-2-1|≈ D&C 2:1]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[D&C 138#^dc-138-46|≈ D&C 138:46]] · [[Joseph Smith—History 1#^jsh-1-38|≈ Joseph Smith—History 1:38]] · [[3 Nephi 25#^3ne-25-5|≈ 3 Nephi 25:5]]
 
 ![[D&C 110#^dc-110-15]]
-> [[Joseph Smith—History 1#^jsh-1-38|JS—H 1:39 (38–39)]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[D&C 138#^dc-138-48|≈ D&C 138:48]] · [[Luke 1#^luke-1-17|≈ Luke 1:17]] · [[D&C 27#^dc-27-9|≈ D&C 27:9]] · [[Malachi 4#^mal-4-6|≈ Malachi 4:6]] · [[D&C 98#^dc-98-16|≈ D&C 98:16]]
+> [[Joseph Smith—History 1#^jsh-1-38|JS—H 1:39 (38–39)]] · [[Malachi 4#^mal-4-6|≈ Malachi 4:6]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[D&C 138#^dc-138-48|≈ D&C 138:48]] · [[Luke 1#^luke-1-17|≈ Luke 1:17]] · [[D&C 27#^dc-27-9|≈ D&C 27:9]] · [[D&C 98#^dc-98-16|≈ D&C 98:16]]
 
 ![[D&C 110#^dc-110-16]]
-> [[Zephaniah 1#^zeph-1-14|Zeph. 1:14]] · [[D&C 2#^dc-2-1|≈ D&C 2:1]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[D&C 138#^dc-138-46|≈ D&C 138:46]] · [[Joseph Smith—History 1#^jsh-1-38|≈ Joseph Smith—History 1:38]] · [[Malachi 4#^mal-4-5|≈ Malachi 4:5]] · [[3 Nephi 25#^3ne-25-5|≈ 3 Nephi 25:5]]
+> [[Zephaniah 1#^zeph-1-14|Zeph. 1:14]] · [[Malachi 4#^mal-4-5|≈ Malachi 4:5]] · [[D&C 2#^dc-2-1|≈ D&C 2:1]] · [[D&C 128#^dc-128-17|≈ D&C 128:17]] · [[D&C 138#^dc-138-46|≈ D&C 138:46]] · [[Joseph Smith—History 1#^jsh-1-38|≈ Joseph Smith—History 1:38]] · [[3 Nephi 25#^3ne-25-5|≈ 3 Nephi 25:5]]

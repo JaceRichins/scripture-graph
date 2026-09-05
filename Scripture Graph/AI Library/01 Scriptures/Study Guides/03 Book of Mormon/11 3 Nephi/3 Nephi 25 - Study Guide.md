@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 25
 slug: 3ne-25
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -89,7 +89,9 @@ Verse 4 functions as a hinge, looking backward to the covenant given at Horeb be
 - [[The Savior’s Healing Power upon the Isles of the Sea (Elder J. Kimo Esplin, October 2023)|The Savior’s Healing Power upon the Isles of the Sea]] — Elder J. Kimo Esplin, 2023-October *(explicit citation)*
 - [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
 - [[Learning with Our Hearts (Elder Walter F. González, October 2012)|Learning with Our Hearts]] — Elder Walter F. González, 2012-October *(explicit citation)*
+- [[Be Thou an Example of the Believers (Elder Russell M. Nelson, October 2010)|Be Thou an Example of the Believers]] — Elder Russell M. Nelson, 2010-October *(explicit citation)*
 - [[Gathering the Family of God (President Henry B. Eyring, April 2017)|Gathering the Family of God]] — President Henry B. Eyring, 2017-April *(explicit citation)*
+- [[He Lives! All Glory to His Name! (Elder Richard G. Scott, April 2010)|He Lives! All Glory to His Name!]] — Elder Richard G. Scott, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

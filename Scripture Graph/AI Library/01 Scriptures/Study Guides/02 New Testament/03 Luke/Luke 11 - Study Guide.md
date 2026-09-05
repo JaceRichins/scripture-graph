@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 11
 slug: luke-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
+- **Beelzebub** (reference-entry) *(explicit citation)*
+- **Burial** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

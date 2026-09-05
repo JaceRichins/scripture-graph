@@ -38,7 +38,7 @@ cssclasses:
 > [[1 Nephi 16#^1ne-16-15|1 Ne. 16:15 (15–32)]]
 
 ![[Alma 17#^alma-17-8]]
-> [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]] · [[Mosiah 28#^mosiah-28-1|≈ Mosiah 28:1]] · [[Mosiah 28#^mosiah-28-5|≈ Mosiah 28:5]] · [[Alma 26#^alma-26-23|≈ Alma 26:23]]
+> [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]] · [[Alma 26#^alma-26-23|≈ Alma 26:23]] · [[Mosiah 28#^mosiah-28-1|≈ Mosiah 28:1]] · [[Mosiah 28#^mosiah-28-5|≈ Mosiah 28:5]]
 
 ![[Alma 17#^alma-17-9]]
 > [[Alma 25#^alma-25-17|Alma 25:17]] · [[Mosiah 23#^mosiah-23-10|Mosiah 23:10]] · [[Alma 26#^alma-26-3|Alma 26:3]] · [[Alma 3#^alma-3-11|Alma 3:11]] · [[Alma 21#^alma-21-17|≈ Alma 21:17]] · [[Alma 26#^alma-26-24|≈ Alma 26:24]] · [[Alma 26#^alma-26-3|≈ Alma 26:3]] · [[Jacob 7#^jacob-7-24|≈ Jacob 7:24]] · [[Mosiah 27#^mosiah-27-36|≈ Mosiah 27:36]] · [[Alma 29#^alma-29-9|≈ Alma 29:9]]

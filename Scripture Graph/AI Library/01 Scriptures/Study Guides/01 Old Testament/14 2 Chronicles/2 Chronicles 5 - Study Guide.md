@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 5
 slug: 2chr-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -65,8 +65,8 @@ The chapter moves from the completion of Solomon's temple to the installation of
 - [[1 Chronicles 28]] — 4 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[1 Chronicles 28#^1chr-28-2|1 Chronicles 28:2]]
 - [[1 Chronicles 16]] — 3 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
 - [[1 Kings 7]] — 1 parallel verse, e.g. [[2 Chronicles 5#^2chr-5-1|2 Chronicles 5:1]] ↔ [[1 Kings 7#^1kgs-7-51|1 Kings 7:51]]
-- [[Deuteronomy 10]] — 2 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]]
 - [[Numbers 10]] — 2 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Numbers 10#^num-10-33|Numbers 10:33]]
+- [[Numbers 14]] — 2 parallel verses, e.g. [[2 Chronicles 5#^2chr-5-2|2 Chronicles 5:2]] ↔ [[Numbers 14#^num-14-44|Numbers 14:44]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

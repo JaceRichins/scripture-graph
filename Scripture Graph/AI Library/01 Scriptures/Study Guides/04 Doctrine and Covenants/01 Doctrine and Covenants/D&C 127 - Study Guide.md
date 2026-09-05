@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 127
 slug: dc-127
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -54,9 +54,9 @@ _Not yet developed._
 - [[Official Declaration 1]] — 3 parallel verses, e.g. [[D&C 127#^dc-127-12|D&C 127:12]] ↔ [[Official Declaration 1#^od-1-3|Official Declaration 1:3]]
 - [[Official Declaration 2]] — 3 parallel verses, e.g. [[D&C 127#^dc-127-12|D&C 127:12]] ↔ [[Official Declaration 2#^od-2-2|Official Declaration 2:2]]
 - [[D&C 115]] — 3 parallel verses, e.g. [[D&C 127#^dc-127-12|D&C 127:12]] ↔ [[D&C 115#^dc-115-4|D&C 115:4]]
+- [[D&C 128]] — 2 parallel verses, e.g. [[D&C 127#^dc-127-7|D&C 127:7]] ↔ [[D&C 128#^dc-128-7|D&C 128:7]]
 - [[D&C 136]] — 1 parallel verse, e.g. [[D&C 127#^dc-127-12|D&C 127:12]] ↔ [[D&C 136#^dc-136-2|D&C 136:2]]
 - [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[D&C 127#^dc-127-12|D&C 127:12]] ↔ [[Joseph Smith—History 1#^jsh-1-1|Joseph Smith—History 1:1]]
-- [[D&C 128]] — 0 parallel verses
 - [[D&C 128]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -82,6 +82,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Recommended to the Lord (Elder Ronald A. Rasband, October 2020)|Recommended to the Lord]] — Elder Ronald A. Rasband, 2020-October *(explicit citation)*
 - [[Roots and Branches (Elder Quentin L. Cook, April 2014)|Roots and Branches]] — Elder Quentin L. Cook, 2014-April *(explicit citation)*
+- [[Turn to the Lord (Elder Donald L. Hallstrom, April 2010)|Turn to the Lord]] — Elder Donald L. Hallstrom, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

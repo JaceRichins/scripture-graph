@@ -78,7 +78,7 @@ cssclasses:
 > [[Exodus 35#^ex-35-5|Ex. 35:5]] · [[D&C 59#^dc-59-15|D&amp;C 59:15]] · [[D&C 45#^dc-45-55|≈ D&C 45:55]] · [[1 Nephi 22#^1ne-22-15|≈ 1 Nephi 22:15]] · [[Alma 13#^alma-13-24|≈ Alma 13:24]]
 
 ![[D&C 64#^dc-64-23]]
-> [[John 9#^john-9-4|John 9:4]] · [[D&C 45#^dc-45-6|D&amp;C 45:6]] · [[Malachi 3#^mal-3-10|Mal. 3:10 (10–11)]] · [[D&C 119|heading to section 119]] · [[Isaiah 9#^isa-9-5|Isa. 9:5 (5, 18–19)]] · [[Malachi 4#^mal-4-1|Mal. 4:1]] · [[3 Nephi 25#^3ne-25-1|3 Ne. 25:1]] · [[Joseph Smith—History 1#^jsh-1-37|JS—H 1:37]] · [[Moses 7#^moses-7-47|≈ Moses 7:47]] · [[Moses 7#^moses-7-65|≈ Moses 7:65]]
+> [[John 9#^john-9-4|John 9:4]] · [[D&C 45#^dc-45-6|D&amp;C 45:6]] · [[Malachi 3#^mal-3-10|Mal. 3:10 (10–11)]] · [[D&C 119|heading to section 119]] · [[Isaiah 9#^isa-9-5|Isa. 9:5 (5, 18–19)]] · [[Malachi 4#^mal-4-1|Mal. 4:1]] · [[3 Nephi 25#^3ne-25-1|3 Ne. 25:1]] · [[Joseph Smith—History 1#^jsh-1-37|JS—H 1:37]] · [[Matthew 24#^matt-24-27|≈ Matthew 24:27]] · [[Matthew 24#^matt-24-37|≈ Matthew 24:37]]
 
 ![[D&C 64#^dc-64-24]]
 > [[Isaiah 66#^isa-66-15|Isa. 66:15 (15–16)]] · [[Joel 2#^joel-2-5|Joel 2:5]] · [[2 Nephi 15#^2ne-15-24|2 Ne. 15:24]] · [[2 Nephi 26#^2ne-26-4|26:6 (4, 6)]] · [[Job 40#^job-40-11|Job 40:11]] · [[Proverbs 15#^prov-15-25|Prov. 15:25]] · [[Malachi 3#^mal-3-15|Mal. 3:15]] · [[2 Nephi 12#^2ne-12-12|2 Ne. 12:12]] · [[2 Nephi 23#^2ne-23-11|23:11]] · [[Revelation 18#^rev-18-6|Rev. 18:8 (6–8)]]

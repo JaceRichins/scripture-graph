@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 10
 slug: mark-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -92,7 +92,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
+- **Blindness** (reference-entry) *(explicit citation)*
+- **Divorce** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

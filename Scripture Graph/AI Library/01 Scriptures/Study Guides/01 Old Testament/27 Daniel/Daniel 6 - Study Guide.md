@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 6
 slug: dan-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -76,7 +76,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Cyrus** (reference-entry) *(explicit citation)*
+- **Daniel** (reference-entry) *(explicit citation)*
+- **Daniel, book of** (reference-entry) *(explicit citation)*
+- **Darius** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 40
 slug: ex-40
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

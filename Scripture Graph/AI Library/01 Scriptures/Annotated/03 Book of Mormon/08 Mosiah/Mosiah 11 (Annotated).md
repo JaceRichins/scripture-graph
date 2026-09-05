@@ -29,7 +29,7 @@ cssclasses:
 > [[Proverbs 29#^prov-29-3|Prov. 29:3]]
 
 ![[Mosiah 11#^mosiah-11-5]]
-> [[1 Kings 12#^1kgs-12-31|1 Kgs. 12:31]] · [[2 Chronicles 11#^2chr-11-13|2 Chr. 11:14 (13–14)]] · [[Mosiah 12#^mosiah-12-17|12:25 (17, 25)]] · [[Alma 1#^alma-1-32|≈ Alma 1:32]] · [[2 Nephi 26#^2ne-26-20|≈ 2 Nephi 26:20]] · [[2 Nephi 28#^2ne-28-15|≈ 2 Nephi 28:15]] · [[Alma 4#^alma-4-6|≈ Alma 4:6]] · [[Alma 4#^alma-4-8|≈ Alma 4:8]] · [[Alma 6#^alma-6-3|≈ Alma 6:3]]
+> [[1 Kings 12#^1kgs-12-31|1 Kgs. 12:31]] · [[2 Chronicles 11#^2chr-11-13|2 Chr. 11:14 (13–14)]] · [[Mosiah 12#^mosiah-12-17|12:25 (17, 25)]] · [[Alma 4#^alma-4-6|≈ Alma 4:6]] · [[Alma 4#^alma-4-8|≈ Alma 4:8]] · [[Alma 1#^alma-1-32|≈ Alma 1:32]] · [[2 Nephi 26#^2ne-26-20|≈ 2 Nephi 26:20]] · [[2 Nephi 28#^2ne-28-15|≈ 2 Nephi 28:15]] · [[Alma 6#^alma-6-3|≈ Alma 6:3]]
 
 ![[Mosiah 11#^mosiah-11-6]]
 
@@ -63,7 +63,7 @@ cssclasses:
 ![[Mosiah 11#^mosiah-11-18]]
 
 ![[Mosiah 11#^mosiah-11-19]]
-> [[Amos 6#^amos-6-13|Amos 6:13]] · [[D&C 3#^dc-3-4|D&amp;C 3:4]] · [[Alma 1#^alma-1-32|≈ Alma 1:32]] · [[2 Nephi 26#^2ne-26-20|≈ 2 Nephi 26:20]] · [[2 Nephi 28#^2ne-28-15|≈ 2 Nephi 28:15]] · [[Alma 4#^alma-4-6|≈ Alma 4:6]] · [[Alma 4#^alma-4-8|≈ Alma 4:8]] · [[Alma 6#^alma-6-3|≈ Alma 6:3]]
+> [[Amos 6#^amos-6-13|Amos 6:13]] · [[D&C 3#^dc-3-4|D&amp;C 3:4]] · [[Alma 4#^alma-4-6|≈ Alma 4:6]] · [[Alma 4#^alma-4-8|≈ Alma 4:8]] · [[Alma 1#^alma-1-32|≈ Alma 1:32]] · [[2 Nephi 26#^2ne-26-20|≈ 2 Nephi 26:20]] · [[2 Nephi 28#^2ne-28-15|≈ 2 Nephi 28:15]] · [[Alma 6#^alma-6-3|≈ Alma 6:3]]
 
 ![[Mosiah 11#^mosiah-11-20]]
 > [[Mosiah 19#^mosiah-19-4|≈ Mosiah 19:4]]

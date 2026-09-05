@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 12
 slug: matt-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,12 @@ _Not yet developed._
 - **Journal of Discourses, Volume 18** (history, ~1871) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Signs** (reference-entry) *(explicit citation)*
+- **Beelzebub** (reference-entry) *(explicit citation)*
+- **Blasphemy** (reference-entry) *(explicit citation)*
+- **Blindness** (reference-entry) *(explicit citation)*
+- **Brethren of the Lord** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Devil** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

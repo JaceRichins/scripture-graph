@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 3
 slug: 1chr-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Absalom** (reference-entry) *(explicit citation)*
 - **Ahaziah** (reference-entry) *(explicit citation)*
+- **Daniel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

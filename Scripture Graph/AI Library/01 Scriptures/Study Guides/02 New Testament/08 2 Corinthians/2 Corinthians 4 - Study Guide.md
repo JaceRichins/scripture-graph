@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 4
 slug: 2cor-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ Human weakness is not presented as the source of divine power. The “earthen ve
 ## Church History
 <!-- SG:BEGIN history -->
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

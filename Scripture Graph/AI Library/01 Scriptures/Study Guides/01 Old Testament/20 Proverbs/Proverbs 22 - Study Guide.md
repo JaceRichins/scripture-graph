@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 22
 slug: prov-22
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -67,8 +67,10 @@ _Not yet developed._
 - [[Laying the Foundation of a Great Work (Elder Steven R. Bangerter, October 2018)|Laying the Foundation of a Great Work]] — Elder Steven R. Bangerter, 2018-October *(explicit citation)*
 - [[After the Trial of Our Faith (Elder Jorge M. Alvarado, October 2019)|After the Trial of Our Faith]] — Elder Jorge M. Alvarado, 2019-October *(explicit citation)*
 - [[Finding Personal Peace (President Henry B. Eyring, April 2023)|Finding Personal Peace]] — President Henry B. Eyring, 2023-April *(explicit citation)*
+- [[What Have You Done with My Name (Elder Mervyn B. Arnold, October 2010)|What Have You Done with My Name?]] — Elder Mervyn B. Arnold, 2010-October *(explicit citation)*
 - [[Conference Report, October 1929 (General Conference (full report), October 1929)|Conference Report, October 1929]] — General Conference (full report), 1929-October *(explicit citation)*
 - [[Becoming Goodly Parents (Elder L. Tom Perry, October 2012)|Becoming Goodly Parents]] — Elder L. Tom Perry, 2012-October *(explicit citation)*
+- [[Mothers Teaching Children in the Home (Elder L. Tom Perry, April 2010)|Mothers Teaching Children in the Home]] — Elder L. Tom Perry, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

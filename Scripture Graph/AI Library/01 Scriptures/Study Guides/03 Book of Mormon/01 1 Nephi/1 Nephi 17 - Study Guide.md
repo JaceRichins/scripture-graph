@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 17
 slug: 1ne-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -60,8 +60,8 @@ Scripture: [[1 Nephi 17]] · My notes: [[1 Nephi 17 - My Notes]]
 - [[Mosiah 13]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-55|1 Nephi 17:55]] ↔ [[Mosiah 13#^mosiah-13-20|Mosiah 13:20]]
 - [[2 Nephi 1]] — 3 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[1 Nephi 16]] — 3 parallel verses, e.g. [[1 Nephi 17#^1ne-17-1|1 Nephi 17:1]] ↔ [[1 Nephi 16#^1ne-16-33|1 Nephi 16:33]]
-- [[Alma 9]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[1 Nephi 5]] — 3 parallel verses, e.g. [[1 Nephi 17#^1ne-17-22|1 Nephi 17:22]] ↔ [[1 Nephi 5#^1ne-5-6|1 Nephi 5:6]]
+- [[Alma 9]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Exodus 20]] — 1 parallel verse, e.g. [[1 Nephi 17#^1ne-17-55|1 Nephi 17:55]] ↔ [[Exodus 20#^ex-20-12|Exodus 20:12]]
 - [[2 Nephi 4]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-13|1 Nephi 17:13]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
 - [[1 Nephi 15]] — 2 parallel verses, e.g. [[1 Nephi 17#^1ne-17-19|1 Nephi 17:19]] ↔ [[1 Nephi 15#^1ne-15-4|1 Nephi 15:4]]

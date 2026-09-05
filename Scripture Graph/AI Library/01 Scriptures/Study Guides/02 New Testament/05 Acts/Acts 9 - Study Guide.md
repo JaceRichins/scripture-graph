@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 9
 slug: acts-9
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -54,16 +54,16 @@ Acts 9 interweaves two apostolic story lines. Saul travels to Damascus as a pers
 - [[Ezekiel 1]] — 1 footnote cross-reference (from [[Acts 9#^acts-9-4|Acts 9:4]])
 - [[Ether 3]] — 1 footnote cross-reference (from [[Acts 9#^acts-9-4|Acts 9:4]])
 - [[Moses 1]] — 1 footnote cross-reference (from [[Acts 9#^acts-9-4|Acts 9:4]])
+- [[Acts 26]] — 2 parallel verses, e.g. [[Acts 9#^acts-9-5|Acts 9:5]] ↔ [[Acts 26#^acts-26-14|Acts 26:14]]
 - [[Acts 22]] — 0 parallel verses
 - [[Acts 26]] — 0 parallel verses
 - [[2 Corinthians 11]] — 0 parallel verses
-- [[Acts 26]] — 0 parallel verses
 - [[Acts 22]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -79,14 +79,15 @@ Peter's words to Æneas keep the agent of the healing clear: "Jesus Christ maket
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Waiting on the Road to Damascus (President Dieter F. Uchtdorf, April 2011)|Waiting on the Road to Damascus]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
+- [[Be Thou an Example of the Believers (Elder Russell M. Nelson, October 2010)|Be Thou an Example of the Believers]] — Elder Russell M. Nelson, 2010-October *(explicit citation)*
 - [[Blessed and Happy Are Those Who Keep the Commandments of God (Elder Von G. Keetch, October 2015)|Blessed and Happy Are Those Who Keep the Commandments of God]] — Elder Von G. Keetch, 2015-October *(explicit citation)*
 - [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
 - [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
 - [[We Are His Children (Elder Christophe G. Giraud-Carrier, October 2023)|We Are His Children]] — Elder Christophe G. Giraud-Carrier, 2023-October *(explicit citation)*
 - [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
+- [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 - [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
 - [[Conference Report, April 1929 (General Conference (full report), April 1929)|Conference Report, April 1929]] — General Conference (full report), 1929-April *(explicit citation)*
-- [[Having the Vision to Do (Elder O. Vincent Haleck, April 2012)|Having the Vision to Do]] — Elder O. Vincent Haleck, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -94,9 +95,13 @@ Peter's words to Æneas keep the agent of the healing clear: "Jesus Christ maket
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Ananias** (reference-entry) *(explicit citation)*
+- **Blindness** (reference-entry) *(explicit citation)*
+- **Caesarea** (reference-entry) *(explicit citation)*
+- **Cilicia** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

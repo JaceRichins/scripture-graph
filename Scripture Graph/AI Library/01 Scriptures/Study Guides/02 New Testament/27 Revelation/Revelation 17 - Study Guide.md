@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 17
 slug: rev-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1843-04-15 (Vol. 4 No. 11)** (periodical, 1843-04-15) *(explicit citation)*
+- **Babylon or Babel** (reference-entry) *(explicit citation)*
+- **Book of life** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

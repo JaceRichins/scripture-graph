@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 18
 slug: acts-18
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ Acts 18 closes Paul's second missionary journey and opens his third. Paul settle
 - [[Acts 20]] — 1 footnote cross-reference (from [[Acts 18#^acts-18-3|Acts 18:3]])
 - [[1 Thessalonians 2]] — 1 footnote cross-reference (from [[Acts 18#^acts-18-3|Acts 18:3]])
 - [[1 Thessalonians 1]] — 1 footnote cross-reference (from [[Acts 18#^acts-18-5|Acts 18:5]])
+- [[Acts 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -80,6 +81,12 @@ The chapter connects belief with hearing, testimony, and [[Baptism]] (Acts 18:5,
 - **Aquila** (reference-entry) *(explicit citation)*
 - **Antioch** (reference-entry) *(explicit citation)*
 - **Apollos** (reference-entry) *(explicit citation)*
+- **Blasphemy** (reference-entry) *(explicit citation)*
+- **Caesar** (reference-entry) *(explicit citation)*
+- **Caesarea** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Corinth** (reference-entry) *(explicit citation)*
+- **Dispersion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

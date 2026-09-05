@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 26
 slug: 2ne-26
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,8 +73,8 @@ _Not yet developed._
 - [[Secret Combinations]]
 - [[Records and Sacred Writings]]
 - [[Satan and Temptation]]
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Apostasy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

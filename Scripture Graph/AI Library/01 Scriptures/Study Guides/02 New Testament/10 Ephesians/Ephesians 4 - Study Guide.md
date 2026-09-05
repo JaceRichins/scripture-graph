@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 4
 slug: eph-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -79,13 +79,13 @@ _Not yet developed._
 - **Endowment** (reference-entry) *(explicit citation)*
 - **Unity** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
+- **Church** (reference-entry) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Teacher (Aaronic Priesthood)** (reference-entry) *(explicit citation)*
-- **Worship God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 7
 slug: 3ne-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[1 Nephi 7]] — 3 parallel verses, e.g. [[3 Nephi 7#^3ne-7-16|3 Nephi 7:16]] ↔ [[1 Nephi 7#^1ne-7-8|1 Nephi 7:8]]
 - [[Ether 15]] — 1 parallel verse, e.g. [[3 Nephi 7#^3ne-7-16|3 Nephi 7:16]] ↔ [[Ether 15#^ether-15-19|Ether 15:19]]
 - [[1 Nephi 14]] — 1 parallel verse, e.g. [[3 Nephi 7#^3ne-7-16|3 Nephi 7:16]] ↔ [[1 Nephi 14#^1ne-14-7|1 Nephi 14:7]]
+- [[Alma 46]] — 1 parallel verse, e.g. [[3 Nephi 7#^3ne-7-13|3 Nephi 7:13]] ↔ [[Alma 46#^alma-46-7|Alma 46:7]]
 - [[3 Nephi 10]] — 2 parallel verses, e.g. [[3 Nephi 7#^3ne-7-1|3 Nephi 7:1]] ↔ [[3 Nephi 10#^3ne-10-18|3 Nephi 10:18]]
 - [[Jarom 1]] — 1 parallel verse, e.g. [[3 Nephi 7#^3ne-7-16|3 Nephi 7:16]] ↔ [[Jarom 1#^jarom-1-3|Jarom 1:3]]
 - [[4 Nephi 1]] — 0 parallel verses
@@ -67,10 +68,10 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Secret Combinations]]
 - [[Satan and Temptation]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
@@ -88,6 +89,7 @@ The account also portrays [[Miracles]] as signs that invite but do not force con
 <!-- SG:BEGIN conference -->
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 - [[Be Perfected in Him (Elder Paul V. Johnson, October 2022)|Be Perfected in Him]] — Elder Paul V. Johnson, 2022-October *(explicit citation)*
+- [[Becoming More Powerful Priesthood Holders (Elder Walter F. González, October 2009)|Becoming More Powerful Priesthood Holders]] — Elder Walter F. González, 2009-October *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 - [[The Powers of Heaven (Elder David A. Bednar, April 2012)|The Powers of Heaven]] — Elder David A. Bednar, 2012-April *(explicit citation)*
 <!-- SG:END conference -->

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 9
 slug: 1cor-9
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,9 +69,9 @@ _Not yet developed._
 - [[Law of Moses]]
 - [[Endurance]]
 - [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
-- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Hope]] *(keyword match — unconfirmed)*
 - [[Missionary Work]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -96,6 +96,10 @@ The final warning connects [[Endurance]] with self-discipline. Paul applies the 
 - **Apostle** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
+- **Barnabas** (reference-entry) *(explicit citation)*
+- **Brethren of the Lord** (reference-entry) *(explicit citation)*
+- **Corinth** (reference-entry) *(explicit citation)*
+- **Deuteronomy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

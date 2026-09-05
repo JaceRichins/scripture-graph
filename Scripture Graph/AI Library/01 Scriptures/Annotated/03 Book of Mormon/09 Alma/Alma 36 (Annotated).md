@@ -23,7 +23,7 @@ cssclasses:
 > [[Mosiah 23#^mosiah-23-23|Mosiah 23:23]] · [[Mosiah 24#^mosiah-24-17|24:17 (17–21)]] · [[Deuteronomy 26#^deut-26-8|Deut. 26:8]] · [[Exodus 3#^ex-3-6|Ex. 3:6]] · [[Alma 29#^alma-29-11|Alma 29:11]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]] · [[Mormon 9#^morm-9-11|≈ Mormon 9:11]] · [[Mosiah 23#^mosiah-23-23|≈ Mosiah 23:23]]
 
 ![[Alma 36#^alma-36-3]]
-> [[Romans 8#^rom-8-28|Rom. 8:28]] · [[Mosiah 23#^mosiah-23-21|Mosiah 23:22 (21–22)]] · [[Alma 37#^alma-37-37|≈ Alma 37:37]] · [[Alma 38#^alma-38-5|≈ Alma 38:5]] · [[Mosiah 23#^mosiah-23-22|≈ Mosiah 23:22]] · [[Alma 39#^alma-39-10|≈ Alma 39:10]] · [[D&C 9#^dc-9-14|≈ D&C 9:14]] · [[D&C 75#^dc-75-16|≈ D&C 75:16]]
+> [[Romans 8#^rom-8-28|Rom. 8:28]] · [[Mosiah 23#^mosiah-23-21|Mosiah 23:22 (21–22)]] · [[Alma 38#^alma-38-5|≈ Alma 38:5]] · [[Alma 37#^alma-37-37|≈ Alma 37:37]] · [[Mosiah 23#^mosiah-23-22|≈ Mosiah 23:22]] · [[Alma 39#^alma-39-10|≈ Alma 39:10]] · [[D&C 9#^dc-9-14|≈ D&C 9:14]] · [[D&C 75#^dc-75-16|≈ D&C 75:16]]
 
 ![[Alma 36#^alma-36-4]]
 > [[1 Corinthians 2#^1cor-2-11|1 Cor. 2:11]] · [[Alma 5#^alma-5-45|Alma 5:45 (45–46)]]
@@ -100,4 +100,4 @@ cssclasses:
 > [[Mosiah 24#^mosiah-24-17|Mosiah 24:17]] · [[Mosiah 25#^mosiah-25-10|25:10]] · [[Mosiah 27#^mosiah-27-16|27:16]] · [[Alma 5#^alma-5-5|Alma 5:5 (5–6)]] · [[Alma 29#^alma-29-11|29:12 (11–12)]] · [[Mosiah 7#^mosiah-7-20|≈ Mosiah 7:20]] · [[3 Nephi 5#^3ne-5-20|≈ 3 Nephi 5:20]]
 
 ![[Alma 36#^alma-36-30]]
-> [[2 Nephi 1#^2ne-1-20|2 Ne. 1:20]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Alma 37#^alma-37-13|Alma 37:13]] · [[Alma 50#^alma-50-20|50:20]] · [[Alma 37#^alma-37-13|≈ Alma 37:13]] · [[Alma 38#^alma-38-1|≈ Alma 38:1]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Mosiah 12#^mosiah-12-33|≈ Mosiah 12:33]] · [[Mosiah 2#^mosiah-2-31|≈ Mosiah 2:31]] · [[2 Nephi 1#^2ne-1-20|≈ 2 Nephi 1:20]]
+> [[2 Nephi 1#^2ne-1-20|2 Ne. 1:20]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Alma 37#^alma-37-13|Alma 37:13]] · [[Alma 50#^alma-50-20|50:20]] · [[Alma 38#^alma-38-1|≈ Alma 38:1]] · [[Alma 37#^alma-37-13|≈ Alma 37:13]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Mosiah 12#^mosiah-12-33|≈ Mosiah 12:33]] · [[Mosiah 2#^mosiah-2-31|≈ Mosiah 2:31]] · [[2 Nephi 1#^2ne-1-20|≈ 2 Nephi 1:20]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 128
 slug: ps-128
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

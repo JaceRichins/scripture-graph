@@ -36,6 +36,7 @@ _Not yet developed._
 - [[1 Corinthians 15]]
 - [[1 Peter 4]]
 - [[D&C 124]]
+- [[D&C 127]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

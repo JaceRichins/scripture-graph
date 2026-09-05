@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 1
 slug: 2ne-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -63,8 +63,8 @@ Lehi's farewell begins with remembered mercy and moves toward warning, exhortati
 - [[1 Nephi 22]] — 4 parallel verses, e.g. [[2 Nephi 1#^2ne-1-9|2 Nephi 1:9]] ↔ [[1 Nephi 22#^1ne-22-18|1 Nephi 22:18]]
 - [[Alma 37]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
 - [[Alma 38]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
-- [[2 Nephi 3]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-32|2 Nephi 1:32]] ↔ [[2 Nephi 3#^2ne-3-2|2 Nephi 3:2]]
 - [[Jacob 4]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-6|2 Nephi 1:6]] ↔ [[Jacob 4#^jacob-4-15|Jacob 4:15]]
+- [[2 Nephi 3]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-32|2 Nephi 1:32]] ↔ [[2 Nephi 3#^2ne-3-2|2 Nephi 3:2]]
 - [[Mosiah 1]] — 2 parallel verses, e.g. [[2 Nephi 1#^2ne-1-14|2 Nephi 1:14]] ↔ [[Mosiah 1#^mosiah-1-9|Mosiah 1:9]]
 - [[Omni 1]] — 1 parallel verse, e.g. [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
 <!-- SG:END related-scriptures -->

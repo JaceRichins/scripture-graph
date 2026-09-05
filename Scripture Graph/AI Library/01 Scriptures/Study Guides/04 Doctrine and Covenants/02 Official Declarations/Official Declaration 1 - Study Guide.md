@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Official Declarations
 chapter: 1
 slug: od-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -62,7 +62,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Obedience to the Prophets (Elder Claudio R. M. Costa, October 2010)|Obedience to the Prophets]] — Elder Claudio R. M. Costa, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

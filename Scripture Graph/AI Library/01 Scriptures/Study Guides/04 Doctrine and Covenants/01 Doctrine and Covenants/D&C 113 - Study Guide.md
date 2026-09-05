@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 113
 slug: dc-113
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -71,7 +71,7 @@ The chapter links latter-day gathering with priesthood authority and kingdom key
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

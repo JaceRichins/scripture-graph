@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 3
 slug: 1ne-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -95,10 +95,10 @@ The rationale for obtaining the plates also gives [[Records and Sacred Writings]
 - [[Ladder of Faith (Elder Larry S. Kacher, April 2022)|Ladder of Faith]] — Elder Larry S. Kacher, 2022-April *(explicit citation)*
 - [[Continuing Revelation (President Henry B. Eyring, October 2014)|Continuing Revelation]] — President Henry B. Eyring, 2014-October *(explicit citation)*
 - [[Willing and Worthy to Serve (President Thomas S. Monson, April 2012)|Willing and Worthy to Serve]] — President Thomas S. Monson, 2012-April *(explicit citation)*
+- [[When the Lord Commands (Elder Bruce A. Carlson, April 2010)|When the Lord Commands]] — Elder Bruce A. Carlson, 2010-April *(explicit citation)*
 - [[Earning the Trust of the Lord and Your Family (Elder Richard J. Maynes, October 2017)|Earning the Trust of the Lord and Your Family]] — Elder Richard J. Maynes, 2017-October *(explicit citation)*
 - [[Until Seventy Times Seven (Elder Lynn G. Robbins, April 2018)|Until Seventy Times Seven]] — Elder Lynn G. Robbins, 2018-April *(explicit citation)*
 - [[Lift Up Your Head and Rejoice (M. Joseph Brough, October 2018)|Lift Up Your Head and Rejoice]] — M. Joseph Brough, 2018-October *(explicit citation)*
-- [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

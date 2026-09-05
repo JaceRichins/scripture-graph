@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 8
 slug: ps-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -45,8 +45,8 @@ _Not yet developed._
 - [[1 Nephi 19]] — 1 footnote cross-reference (from [[Psalm 8#^ps-8-4|Psalm 8:4]])
 - [[Alma 17]] — 1 footnote cross-reference (from [[Psalm 8#^ps-8-4|Psalm 8:4]])
 - [[Hebrews 2]] — 2 parallel verses, e.g. [[Psalm 8#^ps-8-4|Psalm 8:4]] ↔ [[Hebrews 2#^heb-2-6|Hebrews 2:6]]
-- [[Genesis 1]] — 2 parallel verses, e.g. [[Psalm 8#^ps-8-8|Psalm 8:8]] ↔ [[Genesis 1#^gen-1-26|Genesis 1:26]]
 - [[Abraham 4]] — 2 parallel verses, e.g. [[Psalm 8#^ps-8-8|Psalm 8:8]] ↔ [[Abraham 4#^abr-4-26|Abraham 4:26]]
+- [[Genesis 1]] — 2 parallel verses, e.g. [[Psalm 8#^ps-8-8|Psalm 8:8]] ↔ [[Genesis 1#^gen-1-26|Genesis 1:26]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

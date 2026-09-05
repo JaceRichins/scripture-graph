@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 14
 slug: 1chr-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

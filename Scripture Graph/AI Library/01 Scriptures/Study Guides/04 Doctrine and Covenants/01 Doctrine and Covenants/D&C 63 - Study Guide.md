@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 63
 slug: dc-63
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -66,8 +66,8 @@ This division is an organizational aid rather than a claim that the revelation h
 - [[D&C 130]] — 3 parallel verses, e.g. [[D&C 63#^dc-63-53|D&C 63:53]] ↔ [[D&C 130#^dc-130-14|D&C 130:14]]
 - [[D&C 52]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-65|D&C 63:65]] ↔ [[D&C 52#^dc-52-3|D&C 52:3]]
 - [[D&C 57]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-56|D&C 63:56]] ↔ [[D&C 57#^dc-57-6|D&C 57:6]]
-- [[Revelation 21]] — 1 parallel verse, e.g. [[D&C 63#^dc-63-17|D&C 63:17]] ↔ [[Revelation 21#^rev-21-8|Revelation 21:8]]
 - [[Matthew 24]] — 3 parallel verses, e.g. [[D&C 63#^dc-63-53|D&C 63:53]] ↔ [[Matthew 24#^matt-24-27|Matthew 24:27]]
+- [[Revelation 21]] — 1 parallel verse, e.g. [[D&C 63#^dc-63-17|D&C 63:17]] ↔ [[Revelation 21#^rev-21-8|Revelation 21:8]]
 - [[D&C 42]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-16|D&C 63:16]] ↔ [[D&C 42#^dc-42-23|D&C 42:23]]
 - [[D&C 75]] — 1 parallel verse, e.g. [[D&C 63#^dc-63-24|D&C 63:24]] ↔ [[D&C 75#^dc-75-12|D&C 75:12]]
 - [[D&C 90]] — 2 parallel verses, e.g. [[D&C 63#^dc-63-41|D&C 63:41]] ↔ [[D&C 90#^dc-90-30|D&C 90:30]]
@@ -98,9 +98,10 @@ The chapter's theology of signs is carefully ordered: [[Faith]] does not arise f
 - [[Missionary Service Blessed My Life Forever (President M. Russell Ballard, April 2022)|Missionary Service Blessed My Life Forever]] — President M. Russell Ballard, 2022-April *(explicit citation)*
 - [[Reverence for Sacred Things (Elder Ulisses Soares, April 2025)|Reverence for Sacred Things]] — Elder Ulisses Soares, 2025-April *(explicit citation)*
 - [[The Eternal Gift of Testimony (Elder Kevin G. Brown, October 2025)|The Eternal Gift of Testimony]] — Elder Kevin G. Brown, 2025-October *(explicit citation)*
+- [[“Daughters in My Kingdom” The History and Work of Relief Society (Julie B. Beck, October 2010)|“Daughters in My Kingdom”: The History and Work of Relief Society]] — Julie B. Beck, 2010-October *(explicit citation)*
 - [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
-- [[To Hold Sacred (Elder Paul B. Pieper, April 2012)|To Hold Sacred]] — Elder Paul B. Pieper, 2012-April *(explicit citation)*
+- [[Love and Law (Elder Dallin H. Oaks, October 2009)|Love and Law]] — Elder Dallin H. Oaks, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

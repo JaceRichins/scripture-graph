@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 22
 slug: lev-22
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

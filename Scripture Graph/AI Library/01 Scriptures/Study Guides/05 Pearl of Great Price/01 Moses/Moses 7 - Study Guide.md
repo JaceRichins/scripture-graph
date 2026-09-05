@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 7
 slug: moses-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,7 +69,7 @@ Moses 7 records a single extended theophany granted to Enoch. Called from 'the p
 - [[3 Nephi 11]] — 3 parallel verses, e.g. [[Moses 7#^moses-7-11|Moses 7:11]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]
 - [[D&C 45]] — 3 parallel verses, e.g. [[Moses 7#^moses-7-47|Moses 7:47]] ↔ [[D&C 45#^dc-45-39|D&C 45:39]]
 - [[Moses 6]] — 3 parallel verses, e.g. [[Moses 7#^moses-7-10|Moses 7:10]] ↔ [[Moses 6#^moses-6-27|Moses 6:27]]
-- [[Moses 5]] — 2 parallel verses, e.g. [[Moses 7#^moses-7-11|Moses 7:11]] ↔ [[Moses 5#^moses-5-9|Moses 5:9]]
+- [[2 Nephi 31]] — 2 parallel verses, e.g. [[Moses 7#^moses-7-11|Moses 7:11]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -108,7 +108,7 @@ Moses 7 records a single extended theophany granted to Enoch. Called from 'the p
 - [[“Come, Follow Me” (President Russell M. Nelson, April 2019)|“Come, Follow Me”]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 - [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
 - [[The Peace of Christ Abolishes Enmity (Elder Dale G. Renlund, October 2021)|The Peace of Christ Abolishes Enmity]] — Elder Dale G. Renlund, 2021-October *(explicit citation)*
-- [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

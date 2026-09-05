@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 17
 slug: ex-17
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

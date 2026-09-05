@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 27
 slug: mosiah-27
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

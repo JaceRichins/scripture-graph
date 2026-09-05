@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 8
 slug: 1kgs-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,8 +73,8 @@ The cases in the prayer are commonly grouped as seven, but the text does not num
 - [[Exodus and Deliverance]]
 - [[Jews and Gentiles]]
 - [[Prayer]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Covenants]] *(keyword match — unconfirmed)*
@@ -100,6 +100,8 @@ _Not yet developed._
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Calendar** (reference-entry) *(explicit citation)*
+- **Cloud** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

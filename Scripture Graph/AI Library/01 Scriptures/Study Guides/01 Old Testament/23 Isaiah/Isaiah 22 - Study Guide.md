@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 22
 slug: isa-22
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
+- **Chariot** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

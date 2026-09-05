@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 70
 slug: dc-70
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,8 +53,8 @@ _Not yet developed._
 - [[Isaiah 39]] — 1 footnote cross-reference (from [[D&C 70#^dc-70-1|D&C 70:1]])
 - [[D&C 61]] — 1 footnote cross-reference (from [[D&C 70#^dc-70-1|D&C 70:1]])
 - [[1 Corinthians 4]] — 1 footnote cross-reference (from [[D&C 70#^dc-70-3|D&C 70:3]])
+- [[D&C 84]] — 1 parallel verse, e.g. [[D&C 70#^dc-70-6|D&C 70:6]] ↔ [[D&C 84#^dc-84-73|D&C 84:73]]
 - [[D&C 115]] — 1 parallel verse, e.g. [[D&C 70#^dc-70-1|D&C 70:1]] ↔ [[D&C 115#^dc-115-1|D&C 115:1]]
-- [[D&C 84]] — 0 parallel verses
 - [[D&C 115]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

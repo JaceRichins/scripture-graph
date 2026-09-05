@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 8
 slug: moses-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -86,7 +86,7 @@ Judgment is paired with warning and moral agency. The people are told what will 
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Baptism** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

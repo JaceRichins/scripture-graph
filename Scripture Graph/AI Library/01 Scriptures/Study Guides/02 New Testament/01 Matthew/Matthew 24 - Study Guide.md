@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 24
 slug: matt-24
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,10 +53,10 @@ _Not yet developed._
 - [[D&C 130]] — 9 parallel verses, e.g. [[Matthew 24#^matt-24-27|Matthew 24:27]] ↔ [[D&C 130#^dc-130-12|D&C 130:12]]
 - [[Moses 7]] — 6 parallel verses, e.g. [[Matthew 24#^matt-24-27|Matthew 24:27]] ↔ [[Moses 7#^moses-7-47|Moses 7:47]]
 - [[D&C 45]] — 3 parallel verses, e.g. [[Matthew 24#^matt-24-27|Matthew 24:27]] ↔ [[D&C 45#^dc-45-39|D&C 45:39]]
-- [[D&C 68]] — 3 parallel verses, e.g. [[Matthew 24#^matt-24-27|Matthew 24:27]] ↔ [[D&C 68#^dc-68-11|D&C 68:11]]
 - [[D&C 61]] — 3 parallel verses, e.g. [[Matthew 24#^matt-24-27|Matthew 24:27]] ↔ [[D&C 61#^dc-61-38|D&C 61:38]]
 - [[D&C 63]] — 3 parallel verses, e.g. [[Matthew 24#^matt-24-27|Matthew 24:27]] ↔ [[D&C 63#^dc-63-53|D&C 63:53]]
 - [[D&C 64]] — 3 parallel verses, e.g. [[Matthew 24#^matt-24-27|Matthew 24:27]] ↔ [[D&C 64#^dc-64-23|D&C 64:23]]
+- [[D&C 68]] — 3 parallel verses, e.g. [[Matthew 24#^matt-24-27|Matthew 24:27]] ↔ [[D&C 68#^dc-68-11|D&C 68:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 11
 slug: 1kgs-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -96,12 +96,15 @@ Solomon's failure can also be read against the king's law of [[Deuteronomy 17]],
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[When the Lord Commands (Elder Bruce A. Carlson, April 2010)|When the Lord Commands]] — Elder Bruce A. Carlson, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Ammon, Ammonites** (reference-entry) *(explicit citation)*
+- **Candlestick** (reference-entry) *(explicit citation)*
+- **Damascus** (reference-entry) *(explicit citation)*
+- **Egypt** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

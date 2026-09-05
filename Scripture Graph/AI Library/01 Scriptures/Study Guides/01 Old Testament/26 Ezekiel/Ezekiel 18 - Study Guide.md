@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 18
 slug: ezek-18
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

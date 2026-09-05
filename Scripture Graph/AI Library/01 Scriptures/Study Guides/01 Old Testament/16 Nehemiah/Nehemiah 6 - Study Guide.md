@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 6
 slug: neh-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[We Are Doing a Great Work and Cannot Come Down (President Dieter F. Uchtdorf, April 2009)|We Are Doing a Great Work and Cannot Come Down]] — President Dieter F. Uchtdorf, 2009-April *(explicit citation)*
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 

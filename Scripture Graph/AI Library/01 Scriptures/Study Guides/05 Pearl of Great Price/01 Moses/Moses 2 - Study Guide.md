@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 2
 slug: moses-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,13 +56,13 @@ _Not yet developed._
 - [[Moses 5]] — 2 footnote cross-references (from [[Moses 2#^moses-2-26|Moses 2:26]])
 - [[1 Nephi 1]] — 1 footnote cross-reference (from [[Moses 2#^moses-2-1|Moses 2:1]])
 - [[Genesis 1]] — 74 parallel verses, e.g. [[Moses 2#^moses-2-28|Moses 2:28]] ↔ [[Genesis 1#^gen-1-28|Genesis 1:28]]
+- [[Abraham 4]] — 28 parallel verses, e.g. [[Moses 2#^moses-2-28|Moses 2:28]] ↔ [[Abraham 4#^abr-4-28|Abraham 4:28]]
 - [[Moses 3]] — 5 parallel verses, e.g. [[Moses 2#^moses-2-30|Moses 2:30]] ↔ [[Moses 3#^moses-3-20|Moses 3:20]]
 - [[Genesis 7]] — 4 parallel verses, e.g. [[Moses 2#^moses-2-25|Moses 2:25]] ↔ [[Genesis 7#^gen-7-14|Genesis 7:14]]
 - [[Genesis 9]] — 2 parallel verses, e.g. [[Moses 2#^moses-2-28|Moses 2:28]] ↔ [[Genesis 9#^gen-9-1|Genesis 9:1]]
 - [[Genesis 11]] — 2 parallel verses, e.g. [[Moses 2#^moses-2-29|Moses 2:29]] ↔ [[Genesis 11#^gen-11-8|Genesis 11:8]]
 - [[Leviticus 11]] — 2 parallel verses, e.g. [[Moses 2#^moses-2-26|Moses 2:26]] ↔ [[Leviticus 11#^lev-11-41|Leviticus 11:41]]
 - [[Genesis 1]] — 0 parallel verses
-- [[Abraham 4]] — 0 parallel verses
 - [[Abraham 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -83,6 +83,7 @@ The food provisions given to humans and animals (2:29-30) are exclusively seed-b
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ (Elder Robert D. Hales, October 2009)|Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ]] — Elder Robert D. Hales, 2009-October *(explicit citation)*
 - [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
 - [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
 - [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*

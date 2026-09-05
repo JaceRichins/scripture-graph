@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 22
 slug: acts-22
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,13 +58,15 @@ The hinge is verse 21 ("unto the Gentiles"), the single phrase that turns a symp
 - [[Acts 26]] — 0 parallel verses
 - [[1 Timothy 1]] — 0 parallel verses
 - [[Acts 16]] — 0 parallel verses
+- [[Acts 26]] — 0 parallel verses
+- [[Acts 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[Government and Laws]]
 - [[Repentance and Forgiveness]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -85,10 +87,12 @@ The chapter models [[Testimony]] as personal, experiential, and grounded in what
 <!-- SG:BEGIN history -->
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-09-01 (Vol. 1 No. 12)** (periodical, 1835-09-01) *(explicit citation)*
 - **Ananias** (reference-entry) *(explicit citation)*
+- **Damascus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 1
 slug: ex-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,8 +59,8 @@ Scripture: [[Exodus 1]] · My notes: [[Exodus 1 - My Notes]]
 <!-- SG:BEGIN topics -->
 - [[Exodus and Deliverance]]
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

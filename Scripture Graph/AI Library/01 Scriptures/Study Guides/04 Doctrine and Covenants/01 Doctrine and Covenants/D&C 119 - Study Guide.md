@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 119
 slug: dc-119
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Tithing Opening the Windows of Heaven (Elder Neil L. Andersen, October 2023)|Tithing: Opening the Windows of Heaven]] — Elder Neil L. Andersen, 2023-October *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[Becoming Provident Providers Temporally and Spiritually (Elder Robert D. Hales, April 2009)|Becoming Provident Providers Temporally and Spiritually]] — Elder Robert D. Hales, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

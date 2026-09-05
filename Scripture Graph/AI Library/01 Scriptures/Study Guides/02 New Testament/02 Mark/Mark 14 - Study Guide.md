@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 14
 slug: mark-14
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -53,9 +53,9 @@ _Not yet developed._
 - [[Luke 22]] — 12 parallel verses, e.g. [[Mark 14#^mark-14-14|Mark 14:14]] ↔ [[Luke 22#^luke-22-11|Luke 22:11]]
 - [[Mark 11]] — 3 parallel verses, e.g. [[Mark 14#^mark-14-43|Mark 14:43]] ↔ [[Mark 11#^mark-11-27|Mark 11:27]]
 - [[Matthew 24]] — 2 parallel verses, e.g. [[Mark 14#^mark-14-62|Mark 14:62]] ↔ [[Matthew 24#^matt-24-30|Matthew 24:30]]
+- [[1 Corinthians 11]] — 2 parallel verses, e.g. [[Mark 14#^mark-14-22|Mark 14:22]] ↔ [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]]
 - [[Luke 19]] — 2 parallel verses, e.g. [[Mark 14#^mark-14-43|Mark 14:43]] ↔ [[Luke 19#^luke-19-47|Luke 19:47]]
 - [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[Mark 14#^mark-14-62|Mark 14:62]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-36|Joseph Smith—Matthew 1:36]]
-- [[1 Corinthians 11]] — 2 parallel verses, e.g. [[Mark 14#^mark-14-22|Mark 14:22]] ↔ [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]]
 - [[Mark 10]] — 2 parallel verses, e.g. [[Mark 14#^mark-14-20|Mark 14:20]] ↔ [[Mark 10#^mark-10-3|Mark 10:3]]
 - [[Luke 20]] — 2 parallel verses, e.g. [[Mark 14#^mark-14-20|Mark 14:20]] ↔ [[Luke 20#^luke-20-3|Luke 20:3]]
 - [[John 18]] — 2 parallel verses, e.g. [[Mark 14#^mark-14-61|Mark 14:61]] ↔ [[John 18#^john-18-33|John 18:33]]
@@ -95,8 +95,10 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Sacrament** (reference-entry) *(explicit citation)*
+- **Clothing** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Abba** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

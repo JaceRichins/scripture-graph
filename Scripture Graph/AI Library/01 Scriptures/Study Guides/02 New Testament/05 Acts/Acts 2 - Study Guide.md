@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 2
 slug: acts-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,9 +56,12 @@ Scripture: [[Acts 2]] · My notes: [[Acts 2 - My Notes]]
 - [[Alma 22]] — 2 footnote cross-references (from [[Acts 2#^acts-2-37|Acts 2:37]])
 - [[Joel 2]] — 3 parallel verses, e.g. [[Acts 2#^acts-2-17|Acts 2:17]] ↔ [[Joel 2#^joel-2-28|Joel 2:28]]
 - [[Psalm 16]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-27|Acts 2:27]] ↔ [[Psalm 16#^ps-16-10|Psalm 16:10]]
+- [[Matthew 22]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-34|Acts 2:34]] ↔ [[Matthew 22#^matt-22-44|Matthew 22:44]]
+- [[Luke 20]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-34|Acts 2:34]] ↔ [[Luke 20#^luke-20-42|Luke 20:42]]
 - [[D&C 49]] — 2 parallel verses, e.g. [[Acts 2#^acts-2-38|Acts 2:38]] ↔ [[D&C 49#^dc-49-14|D&C 49:14]]
+- [[Acts 5]] — 2 parallel verses, e.g. [[Acts 2#^acts-2-14|Acts 2:14]] ↔ [[Acts 5#^acts-5-35|Acts 5:35]]
+- [[Acts 4]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-4|Acts 2:4]] ↔ [[Acts 4#^acts-4-31|Acts 4:31]]
 - [[Moses 6]] — 1 parallel verse, e.g. [[Acts 2#^acts-2-38|Acts 2:38]] ↔ [[Moses 6#^moses-6-52|Moses 6:52]]
-- [[Acts 4]] — 0 parallel verses
 - [[D&C 109]] — 0 parallel verses
 - [[D&C 49]] — 0 parallel verses
 - [[4 Nephi 1]] — 0 parallel verses
@@ -100,6 +103,7 @@ Verses 42-47 associate conversion with continuing in apostolic teaching, fellows
 <!-- SG:BEGIN history -->
 - **10 Gathered In** (history) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
@@ -107,7 +111,6 @@ Verses 42-47 associate conversion with continuing in apostolic teaching, fellows
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
-- **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

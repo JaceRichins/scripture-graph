@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 24
 slug: ps-24
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -68,7 +68,9 @@ _Not yet developed._
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Coming to Ourselves The Sacrament, the Temple, and Sacrifice in Service (Elder Robert D. Hales, April 2012)|Coming to Ourselves: The Sacrament, the Temple, and Sacrifice in Service]] — Elder Robert D. Hales, 2012-April *(explicit citation)*
 - [[Of Regrets and Resolutions (President Dieter F. Uchtdorf, October 2012)|Of Regrets and Resolutions]] — President Dieter F. Uchtdorf, 2012-October *(explicit citation)*
-- [[The Power of Scripture (Elder Richard G. Scott, October 2011)|The Power of Scripture]] — Elder Richard G. Scott, 2011-October *(explicit citation)*
+- [[His Servants, the Prophets (Elder F. Michael Watson, April 2009)|His Servants, the Prophets]] — Elder F. Michael Watson, 2009-April *(explicit citation)*
+- [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
+- [[The Divine Gift of Gratitude (President Thomas S. Monson, October 2010)|The Divine Gift of Gratitude]] — President Thomas S. Monson, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -76,6 +78,7 @@ _Not yet developed._
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
+- **Daily service** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

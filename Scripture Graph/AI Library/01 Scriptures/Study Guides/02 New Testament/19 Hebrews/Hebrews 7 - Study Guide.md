@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 7
 slug: heb-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Psalm 110]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-21|Hebrews 7:21]] ↔ [[Psalm 110#^ps-110-4|Psalm 110:4]]
 - [[Hebrews 5]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-17|Hebrews 7:17]] ↔ [[Hebrews 5#^heb-5-6|Hebrews 5:6]]
 - [[Hebrews 6]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-17|Hebrews 7:17]] ↔ [[Hebrews 6#^heb-6-20|Hebrews 6:20]]
+- [[Alma 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,6 +70,8 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
 - [[Live Up to Your Privileges (President Emily Belle Freeman, October 2024)|Live Up to Your Privileges]] — President Emily Belle Freeman, 2024-October *(explicit citation)*
+- [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
+- [[The Power of the Priesthood (President Boyd K. Packer, April 2010)|The Power of the Priesthood]] — President Boyd K. Packer, 2010-April *(explicit citation)*
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -77,6 +80,7 @@ _Not yet developed._
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

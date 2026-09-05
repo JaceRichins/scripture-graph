@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 45
 slug: ps-45
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Architecture** (reference-entry) *(explicit citation)*
+- **Cassia** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

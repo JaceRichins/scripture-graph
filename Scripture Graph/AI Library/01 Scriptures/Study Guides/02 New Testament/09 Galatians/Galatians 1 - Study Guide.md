@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 1
 slug: gal-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,11 @@ _Not yet developed._
 - **Journal of Discourses, Volume 26** (history, ~1879) *(explicit citation)*
 - **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Brethren of the Lord** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Cilicia** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
+- **Conversation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

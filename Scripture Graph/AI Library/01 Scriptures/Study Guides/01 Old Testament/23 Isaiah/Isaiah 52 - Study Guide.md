@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 52
 slug: isa-52
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,8 @@ _Not yet developed._
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
 - [[Are We Not All Beggars (Elder Jeffrey R. Holland, October 2014)|Are We Not All Beggars?]] — Elder Jeffrey R. Holland, 2014-October *(explicit citation)*
 - [[Missionaries Are a Treasure of the Church (Elder Kazuhiko Yamashita, October 2011)|Missionaries Are a Treasure of the Church]] — Elder Kazuhiko Yamashita, 2011-October *(explicit citation)*
+- [[Be Your Best Self (President Thomas S. Monson, April 2009)|Be Your Best Self]] — President Thomas S. Monson, 2009-April *(explicit citation)*
+- [[The Three Rs of Choice (President Thomas S. Monson, October 2010)|The Three Rs of Choice]] — President Thomas S. Monson, 2010-October *(explicit citation)*
 - [[Hastening the Lord’s Game Plan! (Elder S. Gifford Nielsen, October 2013)|Hastening the Lord’s Game Plan!]] — Elder S. Gifford Nielsen, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 

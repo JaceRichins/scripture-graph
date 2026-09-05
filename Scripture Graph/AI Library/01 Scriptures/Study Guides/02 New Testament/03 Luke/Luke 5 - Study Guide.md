@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 5
 slug: luke-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,9 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Prophets** (reference-entry) *(explicit citation)*
+- **Blasphemy** (reference-entry) *(explicit citation)*
+- **Bottles** (reference-entry) *(explicit citation)*
+- **Capernaum** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

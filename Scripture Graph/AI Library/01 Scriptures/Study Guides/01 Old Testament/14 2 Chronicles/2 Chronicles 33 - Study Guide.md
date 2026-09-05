@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 33
 slug: 2chr-33
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -73,8 +73,8 @@ The central narrative reversal lies in verses 12–13. Several later actions und
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Humility]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -92,6 +92,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
+- **Chronicles** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

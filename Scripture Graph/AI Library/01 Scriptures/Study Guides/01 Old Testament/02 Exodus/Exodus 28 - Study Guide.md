@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 28
 slug: ex-28
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ _Not yet developed._
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 - [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
 - [[Covenant Confidence through Jesus Christ (Elder Ulisses Soares, April 2024)|Covenant Confidence through Jesus Christ]] — Elder Ulisses Soares, 2024-April *(explicit citation)*
+- [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -87,6 +88,7 @@ _Not yet developed._
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
+- **Breastplate** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

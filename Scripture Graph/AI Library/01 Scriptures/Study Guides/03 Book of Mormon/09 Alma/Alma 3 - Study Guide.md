@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 3
 slug: alma-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ Scripture: [[Alma 3]] · My notes: [[Alma 3 - My Notes]]
 - [[2 Nephi 5]] — 2 footnote cross-references (from [[Alma 3#^alma-3-6|Alma 3:6]])
 - [[Alma 17]] — 2 footnote cross-references (from [[Alma 3#^alma-3-11|Alma 3:11]])
 - [[Alma 44]] — 1 footnote cross-reference (from [[Alma 3#^alma-3-3|Alma 3:3]])
+- [[Alma 43]] — 3 parallel verses, e.g. [[Alma 3#^alma-3-5|Alma 3:5]] ↔ [[Alma 43#^alma-43-20|Alma 43:20]]
 - [[Alma 23]] — 3 parallel verses, e.g. [[Alma 3#^alma-3-12|Alma 3:12]] ↔ [[Alma 23#^alma-23-10|Alma 23:10]]
 - [[Alma 44]] — 2 parallel verses, e.g. [[Alma 3#^alma-3-3|Alma 3:3]] ↔ [[Alma 44#^alma-44-22|Alma 44:22]]
 - [[Mosiah 21]] — 2 parallel verses, e.g. [[Alma 3#^alma-3-21|Alma 3:21]] ↔ [[Mosiah 21#^mosiah-21-7|Mosiah 21:7]]
@@ -65,11 +66,11 @@ Scripture: [[Alma 3]] · My notes: [[Alma 3 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Final Judgment]]
 - [[Prophecy]]
 - [[Death and the Spirit World]]
 - [[Records and Sacred Writings]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -80,6 +81,7 @@ The repentance clause in Alma 3:14 is essential to the passage's theology. Separ
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Careful versus Casual (Becky Craven, April 2019)|Careful versus Casual]] — Becky Craven, 2019-April *(explicit citation)*
+- [[“Come unto Me with Full Purpose of Heart, and I Shall Heal You” (Elder Patrick Kearon, October 2010)|“Come unto Me with Full Purpose of Heart, and I Shall Heal You”]] — Elder Patrick Kearon, 2010-October *(explicit citation)*
 - [[The Virtue of the Word (Elder Mark D. Eddy, October 2022)|The Virtue of the Word]] — Elder Mark D. Eddy, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 

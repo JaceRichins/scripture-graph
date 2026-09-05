@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 33
 slug: alma-33
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -49,9 +49,11 @@ _Not yet developed._
 - [[Alma 11]] — 2 footnote cross-references (from [[Alma 33#^alma-33-1|Alma 33:1]])
 - [[Alma 37]] — 2 footnote cross-references (from [[Alma 33#^alma-33-2|Alma 33:2]])
 - [[1 Nephi 17]] — 2 footnote cross-references (from [[Alma 33#^alma-33-19|Alma 33:19]])
+- [[Alma 32]] — 2 parallel verses, e.g. [[Alma 33#^alma-33-2|Alma 33:2]] ↔ [[Alma 32#^alma-32-10|Alma 32:10]]
+- [[Mosiah 13]] — 1 parallel verse, e.g. [[Alma 33#^alma-33-20|Alma 33:20]] ↔ [[Mosiah 13#^mosiah-13-32|Mosiah 13:32]]
 - [[Helaman 8]] — 0 parallel verses
 - [[Numbers 21]] — 0 parallel verses
-- [[Alma 32]] — 0 parallel verses
+- [[Alma 37]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,6 +91,7 @@ Zenos and Zenock are presented as teaching that judgment is turned away and merc
 - **Worship God the Father** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **Worship** (reference-entry) *(explicit citation)*
+- **Dispensations** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text
@@ -105,11 +108,11 @@ The Zenos quotation repeats declarations that God heard the speaker across wilde
 <!-- SG:BEGIN evidence -->
 > [!evidence] Compositional Coherence
 > The chapter coherently integrates the hearers' questions about worship and planting the word with a scriptural argument about prayer, a typology of looking and believing, and a final return to the seed-and-tree imagery. This strongly supports purposeful literary unity across Alma 32–33.
-> — strength 0.8 · confidence 1.0 · literary unity accepted; provenance unresolved · [[Compositional Coherence in Alma 33|full dossier]]
+> — confidence 1.0 · literary unity accepted; provenance unresolved · [[Compositional Coherence in Alma 33|full dossier]]
 
 > [!evidence] Literary And Rhetorical Coherence
 > The selection of Zenos's statement about being heard after being cast out is closely tailored to an audience whose stated concern is exclusion from synagogues. This is strong evidence of deliberate rhetorical adaptation within the narrative.
-> — strength 0.9 · confidence 1.0 · strong internal literary evidence · [[Literary And Rhetorical Coherence in Alma 33|full dossier]]
+> — confidence 1.0 · strong internal literary evidence · [[Literary And Rhetorical Coherence in Alma 33|full dossier]]
 
 > [!evidence] Linguistic/Textual *(tentative)*
 > The phrase 'when I did turn unto my closet, O Lord, and prayed unto thee' (v.7) uses 'closet' for a private place of prayer, matching the King James English of Matthew 6:6 ('when thou prayest, enter into thy closet'), a distinctively Early Modern English idiom rather than a literal translation choice one would expect from an independent ancient source.

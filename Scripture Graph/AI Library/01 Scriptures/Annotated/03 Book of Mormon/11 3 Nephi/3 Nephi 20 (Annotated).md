@@ -17,7 +17,7 @@ cssclasses:
 > Jesus provides bread and wine miraculously and again administers the sacrament unto the people—The remnant of Jacob will come to the knowledge of the Lord their God and will inherit the Americas—Jesus is the prophet like unto Moses, and the Nephites are children of the prophets—Others of the Lord’s people will be gathered to Jerusalem. About A.D. 34.
 
 ![[3 Nephi 20#^3ne-20-1]]
-> [[1 Samuel 7#^1sam-7-8|1 Sam. 7:8]] · [[2 Nephi 32#^2ne-32-9|2 Ne. 32:9]] · [[Mosiah 24#^mosiah-24-12|Mosiah 24:12]] · [[Mosiah 18#^mosiah-18-19|≈ Mosiah 18:19]] · [[Mosiah 18#^mosiah-18-23|≈ Mosiah 18:23]] · [[Ether 6#^ether-6-25|≈ Ether 6:25]] · [[3 Nephi 18#^3ne-18-2|≈ 3 Nephi 18:2]] · [[3 Nephi 17#^3ne-17-13|≈ 3 Nephi 17:13]]
+> [[1 Samuel 7#^1sam-7-8|1 Sam. 7:8]] · [[2 Nephi 32#^2ne-32-9|2 Ne. 32:9]] · [[Mosiah 24#^mosiah-24-12|Mosiah 24:12]] · [[Mosiah 18#^mosiah-18-19|≈ Mosiah 18:19]] · [[Mosiah 18#^mosiah-18-23|≈ Mosiah 18:23]] · [[Ether 6#^ether-6-25|≈ Ether 6:25]] · [[3 Nephi 17#^3ne-17-13|≈ 3 Nephi 17:13]] · [[3 Nephi 18#^3ne-18-2|≈ 3 Nephi 18:2]]
 
 ![[3 Nephi 20#^3ne-20-2]]
 > [[Mosiah 18#^mosiah-18-19|≈ Mosiah 18:19]] · [[Mosiah 18#^mosiah-18-23|≈ Mosiah 18:23]] · [[Ether 6#^ether-6-25|≈ Ether 6:25]]

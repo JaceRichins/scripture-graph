@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 4
 slug: 2tim-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -69,15 +69,20 @@ _Not yet developed._
 - [[The Moral Force of Women (Elder D. Todd Christofferson, October 2013)|The Moral Force of Women]] — Elder D. Todd Christofferson, 2013-October *(explicit citation)*
 - [[The Strength to Endure (Elder Richard J. Maynes, October 2013)|The Strength to Endure]] — Elder Richard J. Maynes, 2013-October *(explicit citation)*
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
+- [[Adversity (President Henry B. Eyring, April 2009)|Adversity]] — President Henry B. Eyring, 2009-April *(explicit citation)*
+- [[Attempting the Impossible (Elder Jorge F. Zeballos, October 2009)|Attempting the Impossible]] — Elder Jorge F. Zeballos, 2009-October *(explicit citation)*
+- [[What Have You Done with My Name (Elder Mervyn B. Arnold, October 2010)|What Have You Done with My Name?]] — Elder Mervyn B. Arnold, 2010-October *(explicit citation)*
 - [[The Righteous Judge (Elder Lynn G. Robbins, October 2016)|The Righteous Judge]] — Elder Lynn G. Robbins, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Alexander** (reference-entry) *(explicit citation)*
 - **Aquila** (reference-entry) *(explicit citation)*
+- **Clothing** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

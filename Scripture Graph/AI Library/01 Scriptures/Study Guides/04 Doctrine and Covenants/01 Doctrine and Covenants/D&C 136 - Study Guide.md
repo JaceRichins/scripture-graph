@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 136
 slug: dc-136
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -114,6 +114,8 @@ Joy is directed toward [[Gratitude]] through praise and thanksgiving, while sorr
 - **Stewardship** (reference-entry) *(explicit citation)*
 - **Humility** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
+- **Blood** (reference-entry) *(explicit citation)*
+- **Dispensations** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

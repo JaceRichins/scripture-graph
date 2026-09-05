@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 4
 slug: acts-4
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -55,15 +55,16 @@ Scripture: [[Acts 4]] · My notes: [[Acts 4 - My Notes]]
 - [[Psalm 9]] — 1 footnote cross-reference (from [[Acts 4#^acts-4-12|Acts 4:12]])
 - [[Hosea 13]] — 1 footnote cross-reference (from [[Acts 4#^acts-4-12|Acts 4:12]])
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-24|Acts 4:24]] ↔ [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]]
+- [[Acts 5]] — 2 parallel verses, e.g. [[Acts 4#^acts-4-1|Acts 4:1]] ↔ [[Acts 5#^acts-5-24|Acts 5:24]]
 - [[Psalm 2]] — 2 parallel verses, e.g. [[Acts 4#^acts-4-26|Acts 4:26]] ↔ [[Psalm 2#^ps-2-2|Psalm 2:2]]
+- [[Acts 2]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-31|Acts 4:31]] ↔ [[Acts 2#^acts-2-4|Acts 2:4]]
 - [[Acts 14]] — 1 parallel verse, e.g. [[Acts 4#^acts-4-24|Acts 4:24]] ↔ [[Acts 14#^acts-14-15|Acts 14:15]]
-- [[Acts 5]] — 0 parallel verses
 - [[Psalm 118]] — 0 parallel verses
 - [[Luke 20]] — 0 parallel verses
 - [[Acts 2]] — 0 parallel verses
 - [[2 Nephi 25]] — 0 parallel verses
-- [[Acts 2]] — 0 parallel verses
 - [[4 Nephi 1]] — 0 parallel verses
+- [[Acts 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -96,6 +97,7 @@ Acts 4:10-12 ties healing, [[Resurrection]], and [[Salvation]] to Jesus Christ r
 <!-- SG:BEGIN history -->
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **09 Come Life or Come Death** (history) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Witness** (reference-entry) *(explicit citation)*
 - **10 Gathered In** (history) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
@@ -103,7 +105,6 @@ Acts 4:10-12 ties healing, [[Resurrection]], and [[Salvation]] to Jesus Christ r
 - **Consecration** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
-- **Times and Seasons 1843-08-15 (Vol. 4 No. 19)** (periodical, 1843-08-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

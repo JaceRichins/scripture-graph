@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 3
 slug: 1cor-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[1 Peter 2]] — 0 parallel verses
 - [[D&C 93]] — 0 parallel verses
 - [[D&C 76]] — 0 parallel verses
+- [[1 Corinthians 1]] — 0 parallel verses
 - [[1 Corinthians 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -87,9 +88,11 @@ In verses 16-17 the Corinthian community is addressed collectively as God's holy
 - [[Be Not Moved! (Elaine S. Dalton, April 2013)|Be Not Moved!]] — Elaine S. Dalton, 2013-April *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[Temple Standard (Elder Scott D. Whiting, October 2012)|Temple Standard]] — Elder Scott D. Whiting, 2012-October *(explicit citation)*
+- [[Preparation Brings Blessings (President Thomas S. Monson, April 2010)|Preparation Brings Blessings]] — President Thomas S. Monson, 2010-April *(explicit citation)*
+- [[Be an Example of the Believers (Mary N. Cook, October 2010)|Be an Example of the Believers]] — Mary N. Cook, 2010-October *(explicit citation)*
+- [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
 - [[The Plan and the Proclamation (Elder Dallin H. Oaks, October 2017)|The Plan and the Proclamation]] — Elder Dallin H. Oaks, 2017-October *(explicit citation)*
 - [[Come, Listen to a Prophet’s Voice (Bishop Dean M. Davies, October 2018)|Come, Listen to a Prophet’s Voice]] — Bishop Dean M. Davies, 2018-October *(explicit citation)*
-- [[Sharing Your Light (Neill F. Marriott, October 2014)|Sharing Your Light]] — Neill F. Marriott, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -98,6 +101,7 @@ In verses 16-17 the Corinthian community is addressed collectively as God's holy
 - **Body Piercing** (reference-entry) *(explicit citation)*
 - **Tattooing** (reference-entry) *(explicit citation)*
 - **Apollos** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

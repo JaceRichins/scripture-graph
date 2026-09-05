@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 13
 slug: ex-13
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,10 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
+- **Birthright** (reference-entry) *(explicit citation)*
+- **Calendar** (reference-entry) *(explicit citation)*
+- **Cloud** (reference-entry) *(explicit citation)*
+- **Education** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

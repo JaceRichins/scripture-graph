@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 27
 slug: alma-27
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,23 +58,24 @@ Alma 27 resolves a major phase of the mission begun in [[Alma 17]]. After violen
 - [[Alma 28]] — 2 footnote cross-references (from [[Alma 27#^alma-27-18|Alma 27:18]])
 - [[Acts 13]] — 1 footnote cross-reference (from [[Alma 27#^alma-27-2|Alma 27:2]])
 - [[Mosiah 29]] — 1 footnote cross-reference (from [[Alma 27#^alma-27-9|Alma 27:9]])
+- [[Alma 57]] — 4 parallel verses, e.g. [[Alma 27#^alma-27-5|Alma 27:5]] ↔ [[Alma 57#^alma-57-35|Alma 57:35]]
+- [[Mosiah 24]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-12|Alma 27:12]] ↔ [[Mosiah 24#^mosiah-24-23|Mosiah 24:23]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-21|Alma 27:21]] ↔ [[Alma 43#^alma-43-11|Alma 43:11]]
 - [[1 Nephi 16]] — 3 parallel verses, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[1 Nephi 16#^1ne-16-9|1 Nephi 16:9]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[Alma 2#^alma-2-7|Alma 2:7]]
 - [[Alma 25]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-21|Alma 27:21]] ↔ [[Alma 25#^alma-25-13|Alma 25:13]]
+- [[Alma 58]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-5|Alma 27:5]] ↔ [[Alma 58#^alma-58-10|Alma 58:10]]
 - [[Mosiah 29]] — 1 parallel verse, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[Mosiah 29#^mosiah-29-2|Mosiah 29:2]]
 - [[Helaman 16]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-2|Alma 27:2]] ↔ [[Helaman 16#^hel-16-3|Helaman 16:3]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Alma 27#^alma-27-14|Alma 27:14]] ↔ [[Alma 50#^alma-50-11|Alma 50:11]]
 - [[Alma 51]] — 1 parallel verse, e.g. [[Alma 27#^alma-27-22|Alma 27:22]] ↔ [[Alma 51#^alma-51-7|Alma 51:7]]
 - [[Alma 20]] — 1 parallel verse, e.g. [[Alma 27#^alma-27-25|Alma 27:25]] ↔ [[Alma 20#^alma-20-3|Alma 20:3]]
-- [[Alma 57]] — 0 parallel verses
-- [[Alma 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*

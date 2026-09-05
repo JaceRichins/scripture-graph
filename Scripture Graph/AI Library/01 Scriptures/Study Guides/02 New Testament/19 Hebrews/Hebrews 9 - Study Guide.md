@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 9
 slug: heb-9
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Hebrews 8]] — 3 footnote cross-references (from [[Hebrews 9#^heb-9-11|Hebrews 9:11]])
 - [[Exodus 26]] — 2 footnote cross-references (from [[Hebrews 9#^heb-9-2|Hebrews 9:2]])
 - [[Hebrews 7]] — 2 footnote cross-references (from [[Hebrews 9#^heb-9-9|Hebrews 9:9]])
+- [[Alma 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,11 +70,15 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Blood** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1841-02-01 (Vol. 2 No. 7)** (periodical, 1841-02-01) *(explicit citation)*
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Times and Seasons 1845-07-01 (Vol. 6 No. 12)** (periodical, 1845-07-01) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
 - **Atonement** (reference-entry) *(explicit citation)*
+- **Cherubim** (reference-entry) *(explicit citation)*
+- **Conscience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

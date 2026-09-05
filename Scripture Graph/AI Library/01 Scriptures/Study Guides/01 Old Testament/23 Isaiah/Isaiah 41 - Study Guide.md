@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 41
 slug: isa-41
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[D&C 50]] — 1 footnote cross-reference (from [[Isaiah 41#^isa-41-1|Isaiah 41:1]])
 - [[Isaiah 46]] — 1 footnote cross-reference (from [[Isaiah 41#^isa-41-2|Isaiah 41:2]])
 - [[Isaiah 45]] — 1 footnote cross-reference (from [[Isaiah 41#^isa-41-2|Isaiah 41:2]])
+- [[D&C 71]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

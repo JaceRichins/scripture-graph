@@ -60,7 +60,7 @@ cssclasses:
 > [[Exodus 25#^ex-25-1|Ex. 25:2 (1–7)]] · [[Exodus 35#^ex-35-5|35:5]] · [[D&C 64#^dc-64-22|D&amp;C 64:22 (22, 34)]] · [[D&C 97#^dc-97-8|97:8]] · [[Proverbs 17#^prov-17-22|Prov. 17:22]] · [[1 Peter 4#^1pet-4-3|1 Pet. 4:3]] · [[D&C 88#^dc-88-69|D&amp;C 88:69]]
 
 ![[D&C 59#^dc-59-16]]
-> [[D&C 89#^dc-89-14|≈ D&C 89:14]] · [[D&C 49#^dc-49-19|≈ D&C 49:19]] · [[2 Nephi 2#^2ne-2-15|≈ 2 Nephi 2:15]] · [[Daniel 2#^dan-2-38|≈ Daniel 2:38]]
+> [[D&C 89#^dc-89-14|≈ D&C 89:14]] · [[2 Nephi 2#^2ne-2-15|≈ 2 Nephi 2:15]] · [[D&C 49#^dc-49-19|≈ D&C 49:19]] · [[Daniel 2#^dan-2-38|≈ Daniel 2:38]]
 
 ![[D&C 59#^dc-59-17]]
 > [[Genesis 1#^gen-1-31|Gen. 1:31]] · [[Moroni 7#^moro-7-12|Moro. 7:12]] · [[Moses 2#^moses-2-31|Moses 2:31]] · [[D&C 70#^dc-70-15|D&amp;C 70:16 (15–16)]]

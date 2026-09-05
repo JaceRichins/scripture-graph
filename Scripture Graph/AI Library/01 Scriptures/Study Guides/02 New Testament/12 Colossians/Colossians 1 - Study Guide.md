@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 1
 slug: col-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,8 @@ _Not yet developed._
 - **Creation** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Colosse** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

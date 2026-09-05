@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 104
 slug: dc-104
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -60,13 +60,13 @@ The declarations of divine ownership in verses 55–57 and 86 frame the treasury
 - [[D&C 79]] — 3 parallel verses, e.g. [[D&C 104#^dc-104-25|D&C 104:25]] ↔ [[D&C 79#^dc-79-3|D&C 79:3]]
 - [[D&C 110]] — 3 parallel verses, e.g. [[D&C 104#^dc-104-32|D&C 104:32]] ↔ [[D&C 110#^dc-110-10|D&C 110:10]]
 - [[D&C 103]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 103#^dc-103-34|D&C 103:34]]
-- [[D&C 105]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 105#^dc-105-20|D&C 105:20]]
 - [[D&C 63]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-6|D&C 104:6]] ↔ [[D&C 63#^dc-63-58|D&C 63:58]]
 - [[D&C 61]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-5|D&C 104:5]] ↔ [[D&C 61#^dc-61-5|D&C 61:5]]
 - [[D&C 88]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 88#^dc-88-62|D&C 88:62]]
+- [[D&C 105]] — 2 parallel verses, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 105#^dc-105-20|D&C 105:20]]
+- [[D&C 94]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 94#^dc-94-1|D&C 94:1]]
 - [[D&C 78]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-9|D&C 104:9]] ↔ [[D&C 78#^dc-78-12|D&C 78:12]]
 - [[D&C 82]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-9|D&C 104:9]] ↔ [[D&C 82#^dc-82-21|D&C 82:21]]
-- [[D&C 94]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 94#^dc-94-1|D&C 94:1]]
 - [[D&C 100]] — 1 parallel verse, e.g. [[D&C 104#^dc-104-11|D&C 104:11]] ↔ [[D&C 100#^dc-100-7|D&C 100:7]]
 - [[D&C 136]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -103,7 +103,7 @@ The debt instructions join [[Humility]] and [[Prayer]] with diligence, correspon
 - [[I Pray He’ll Use Us (Sharon Eubank, October 2021)|I Pray He’ll Use Us]] — Sharon Eubank, 2021-October *(explicit citation)*
 - [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
 - [[Prepared in a Manner That Never Had Been Known (Linda K. Burton, October 2014)|Prepared in a Manner That Never Had Been Known]] — Linda K. Burton, 2014-October *(explicit citation)*
-- [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
+- [[Stewardship—a Sacred Trust (Elder Quentin L. Cook, October 2009)|Stewardship—a Sacred Trust]] — Elder Quentin L. Cook, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

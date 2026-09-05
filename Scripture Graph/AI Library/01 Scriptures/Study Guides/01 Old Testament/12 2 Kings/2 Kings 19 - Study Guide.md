@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 19
 slug: 2kgs-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Chariot** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

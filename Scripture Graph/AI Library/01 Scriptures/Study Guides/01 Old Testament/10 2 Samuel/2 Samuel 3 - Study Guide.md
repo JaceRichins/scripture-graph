@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 3
 slug: 2sam-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Absalom** (reference-entry) *(explicit citation)*
+- **Daniel** (reference-entry) *(explicit citation)*
+- **Dog** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

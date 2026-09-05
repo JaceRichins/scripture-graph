@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 44
 slug: dc-44
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 - [[Exercising Our Spiritual Muscles (Elder Juan Pablo Villar, April 2019)|Exercising Our Spiritual Muscles]] — Elder Juan Pablo Villar, 2019-April *(explicit citation)*
 - [[The Essence of Discipleship (Silvia H. Allred, April 2011)|The Essence of Discipleship]] — Silvia H. Allred, 2011-April *(explicit citation)*
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
+- [[“And upon the Handmaids in Those Days Will I Pour Out My Spirit” (Julie B. Beck, April 2010)|“And upon the Handmaids in Those Days Will I Pour Out My Spirit”]] — Julie B. Beck, 2010-April *(explicit citation)*
 - [[What Manner of Men (Elder Donald L. Hallstrom, April 2014)|What Manner of Men?]] — Elder Donald L. Hallstrom, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 

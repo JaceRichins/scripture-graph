@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 10
 slug: alma-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -61,17 +61,17 @@ Amulek moves from private conversion to public witness. He identifies his ancest
 - [[Alma 5]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-12|Alma 10:12]] ↔ [[Alma 5#^alma-5-47|Alma 5:47]]
 - [[Alma 13]] — 1 parallel verse, e.g. [[Alma 10#^alma-10-12|Alma 10:12]] ↔ [[Alma 13#^alma-13-26|Alma 13:26]]
 - [[D&C 138]] — 2 parallel verses, e.g. [[Alma 10#^alma-10-13|Alma 10:13]] ↔ [[D&C 138#^dc-138-10|D&C 138:10]]
+- [[Matthew 4]] — 1 parallel verse, e.g. [[Alma 10#^alma-10-20|Alma 10:20]] ↔ [[Matthew 4#^matt-4-17|Matthew 4:17]]
 - [[Alma 25]] — 1 parallel verse, e.g. [[Alma 10#^alma-10-1|Alma 10:1]] ↔ [[Alma 25#^alma-25-2|Alma 25:2]]
 - [[Alma 6]] — 1 parallel verse, e.g. [[Alma 10#^alma-10-12|Alma 10:12]] ↔ [[Alma 6#^alma-6-8|Alma 6:8]]
-- [[Matthew 4]] — 0 parallel verses
 - [[Alma 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Satan and Temptation]]
 - [[Angels]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
@@ -92,6 +92,7 @@ The chapter's treatment of [[Government and Laws]] distinguishes a legal system 
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
 - [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
 - [[“Return unto Me … That I May Heal You” (Elder S. Mark Palmer, April 2025)|“Return unto Me … That I May Heal You”]] — Elder S. Mark Palmer, 2025-April *(explicit citation)*
+- [[Prayer and Promptings (President Boyd K. Packer, October 2009)|Prayer and Promptings]] — President Boyd K. Packer, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

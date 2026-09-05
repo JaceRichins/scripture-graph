@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 10
 slug: luke-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

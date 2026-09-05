@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 26
 slug: ex-26
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

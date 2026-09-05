@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 2
 slug: neh-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -58,7 +58,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[We Are Doing a Great Work and Cannot Come Down (President Dieter F. Uchtdorf, April 2009)|We Are Doing a Great Work and Cannot Come Down]] — President Dieter F. Uchtdorf, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

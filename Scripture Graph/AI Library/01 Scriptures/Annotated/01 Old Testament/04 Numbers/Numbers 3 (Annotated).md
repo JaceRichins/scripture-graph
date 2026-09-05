@@ -36,13 +36,13 @@ cssclasses:
 > [[Leviticus 8#^lev-8-35|Lev. 8:35]] · [[Numbers 8#^num-8-15|≈ Numbers 8:15]] · [[Numbers 7#^num-7-5|≈ Numbers 7:5]] · [[Numbers 18#^num-18-6|≈ Numbers 18:6]] · [[Numbers 16#^num-16-9|≈ Numbers 16:9]]
 
 ![[Numbers 3#^num-3-8]]
-> [[1 Chronicles 25#^1chr-25-1|1 Chr. 25:1]] · [[Numbers 1#^num-1-50|Num. 1:50 (50–53)]] · [[Numbers 8#^num-8-19|≈ Numbers 8:19]] · [[Numbers 8#^num-8-15|≈ Numbers 8:15]] · [[Numbers 7#^num-7-5|≈ Numbers 7:5]] · [[1 Chronicles 23#^1chr-23-32|≈ 1 Chronicles 23:32]] · [[Numbers 18#^num-18-6|≈ Numbers 18:6]] · [[Numbers 18#^num-18-23|≈ Numbers 18:23]]
+> [[1 Chronicles 25#^1chr-25-1|1 Chr. 25:1]] · [[Numbers 1#^num-1-50|Num. 1:50 (50–53)]] · [[Numbers 8#^num-8-19|≈ Numbers 8:19]] · [[Numbers 8#^num-8-15|≈ Numbers 8:15]] · [[Numbers 7#^num-7-5|≈ Numbers 7:5]] · [[Numbers 18#^num-18-6|≈ Numbers 18:6]] · [[Numbers 18#^num-18-23|≈ Numbers 18:23]] · [[1 Chronicles 23#^1chr-23-32|≈ 1 Chronicles 23:32]]
 
 ![[Numbers 3#^num-3-9]]
 > [[Numbers 16#^num-16-40|Num. 16:40]] · [[1 Chronicles 23#^1chr-23-32|1 Chr. 23:32]]
 
 ![[Numbers 3#^num-3-10]]
-> [[Numbers 18#^num-18-7|≈ Numbers 18:7]] · [[Numbers 1#^num-1-51|≈ Numbers 1:51]]
+> [[Numbers 1#^num-1-51|≈ Numbers 1:51]] · [[Numbers 18#^num-18-7|≈ Numbers 18:7]]
 
 ![[Numbers 3#^num-3-11]]
 
@@ -82,7 +82,7 @@ cssclasses:
 ![[Numbers 3#^num-3-24]]
 
 ![[Numbers 3#^num-3-25]]
-> [[Numbers 18#^num-18-2|Num. 18:3 (2–3)]] · [[Numbers 4#^num-4-28|≈ Numbers 4:28]] · [[Numbers 4#^num-4-25|≈ Numbers 4:25]] · [[Numbers 4#^num-4-26|≈ Numbers 4:26]] · [[1 Chronicles 23#^1chr-23-32|≈ 1 Chronicles 23:32]] · [[Exodus 35#^ex-35-17|≈ Exodus 35:17]]
+> [[Numbers 18#^num-18-2|Num. 18:3 (2–3)]] · [[Numbers 4#^num-4-28|≈ Numbers 4:28]] · [[Numbers 4#^num-4-25|≈ Numbers 4:25]] · [[Numbers 4#^num-4-26|≈ Numbers 4:26]] · [[Exodus 35#^ex-35-17|≈ Exodus 35:17]] · [[1 Chronicles 23#^1chr-23-32|≈ 1 Chronicles 23:32]]
 
 ![[Numbers 3#^num-3-26]]
 > [[Numbers 4#^num-4-26|≈ Numbers 4:26]] · [[Exodus 35#^ex-35-17|≈ Exodus 35:17]]
@@ -118,7 +118,7 @@ cssclasses:
 > [[Numbers 4#^num-4-32|≈ Numbers 4:32]]
 
 ![[Numbers 3#^num-3-38]]
-> [[Numbers 18#^num-18-2|Num. 18:5 (2–7)]] · [[Numbers 1#^num-1-51|Num. 1:51]] · [[Numbers 18#^num-18-7|≈ Numbers 18:7]] · [[Numbers 1#^num-1-51|≈ Numbers 1:51]]
+> [[Numbers 18#^num-18-2|Num. 18:5 (2–7)]] · [[Numbers 1#^num-1-51|Num. 1:51]] · [[Numbers 1#^num-1-51|≈ Numbers 1:51]] · [[Numbers 18#^num-18-7|≈ Numbers 18:7]]
 
 ![[Numbers 3#^num-3-39]]
 > [[Numbers 26#^num-26-62|≈ Numbers 26:62]]

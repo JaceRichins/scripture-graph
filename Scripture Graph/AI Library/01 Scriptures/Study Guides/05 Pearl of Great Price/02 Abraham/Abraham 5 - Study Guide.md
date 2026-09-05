@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 5
 slug: abr-5
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -54,8 +54,8 @@ The final unit does not fit a straightforward chronology because the woman has a
 - [[Abraham 3]] — 2 footnote cross-references (from [[Abraham 5#^abr-5-13|Abraham 5:13]])
 - [[D&C 38]] — 1 footnote cross-reference (from [[Abraham 5#^abr-5-1|Abraham 5:1]])
 - [[D&C 45]] — 1 footnote cross-reference (from [[Abraham 5#^abr-5-1|Abraham 5:1]])
-- [[Genesis 2]] — 0 parallel verses
-- [[Moses 3]] — 0 parallel verses
+- [[Genesis 2]] — 19 parallel verses, e.g. [[Abraham 5#^abr-5-9|Abraham 5:9]] ↔ [[Genesis 2#^gen-2-9|Genesis 2:9]]
+- [[Moses 3]] — 19 parallel verses, e.g. [[Abraham 5#^abr-5-20|Abraham 5:20]] ↔ [[Moses 3#^moses-3-19|Moses 3:19]]
 - [[Abraham 4]] — 0 parallel verses
 - [[Moses 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -80,6 +80,7 @@ The chapter contributes directly to several doctrinal themes. Rest and sanctific
 <!-- SG:BEGIN history -->
 - **Spirit (or Soul)** (reference-entry) *(explicit citation)*
 - **Family Councils** (reference-entry) *(explicit citation)*
+- **Eden, Garden of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 1
 slug: 1cor-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -51,29 +51,29 @@ Paul addresses a congregation richly endowed by divine [[Grace]] yet fractured b
 - [[D&C 45]] — 1 footnote cross-reference (from [[1 Corinthians 1#^1cor-1-7|1 Corinthians 1:7]])
 - [[D&C 4]] — 1 footnote cross-reference (from [[1 Corinthians 1#^1cor-1-8|1 Corinthians 1:8]])
 - [[Acts 4]] — 1 footnote cross-reference (from [[1 Corinthians 1#^1cor-1-10|1 Corinthians 1:10]])
+- [[2 Corinthians 1]] — 2 parallel verses, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
 - [[Philippians 1]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
 - [[Ephesians 1]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
 - [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
 - [[Colossians 1]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[Colossians 1#^col-1-2|Colossians 1:2]]
 - [[1 Thessalonians 1]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
-- [[2 Corinthians 10]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-31|1 Corinthians 1:31]] ↔ [[2 Corinthians 10#^2cor-10-17|2 Corinthians 10:17]]
 - [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-10|1 Corinthians 1:10]] ↔ [[2 Thessalonians 3#^2thes-3-6|2 Thessalonians 3:6]]
+- [[2 Corinthians 10]] — 1 parallel verse, e.g. [[1 Corinthians 1#^1cor-1-31|1 Corinthians 1:31]] ↔ [[2 Corinthians 10#^2cor-10-17|2 Corinthians 10:17]]
 - [[Jeremiah 9]] — 0 parallel verses
 - [[1 Corinthians 3]] — 0 parallel verses
 - [[Isaiah 29]] — 0 parallel verses
 - [[1 Corinthians 2]] — 0 parallel verses
-- [[1 Corinthians 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
-- [[Crucifixion of Jesus Christ]]
 - [[Gospel of Jesus Christ]]
 - [[Jews and Gentiles]]
 - [[Justification and Sanctification]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
+- [[Crucifixion of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -93,6 +93,7 @@ Verses 18-25 place the [[Crucifixion of Jesus Christ]] at the center of the gosp
 - [[Receiving a Testimony of Light and Truth (President Dieter F. Uchtdorf, October 2014)|Receiving a Testimony of Light and Truth]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
 - [[An Ensign to the Nations (Elder Jeffrey R. Holland, April 2011)|An Ensign to the Nations]] — Elder Jeffrey R. Holland, 2011-April *(explicit citation)*
 - [[You Matter to Him (President Dieter F. Uchtdorf, October 2011)|You Matter to Him]] — President Dieter F. Uchtdorf, 2011-October *(explicit citation)*
+- [[Pride and the Priesthood (President Dieter F. Uchtdorf, October 2010)|Pride and the Priesthood]] — President Dieter F. Uchtdorf, 2010-October *(explicit citation)*
 - [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -102,6 +103,8 @@ Verses 18-25 place the [[Crucifixion of Jesus Christ]] at the center of the gosp
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Apollos** (reference-entry) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Church** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

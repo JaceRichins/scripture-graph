@@ -69,7 +69,7 @@ cssclasses:
 > [[Alma 30#^alma-30-10|Alma 30:10]]
 
 ![[Alma 1#^alma-1-19]]
-> [[Mosiah 25#^mosiah-25-18|≈ Mosiah 25:18]] · [[Mosiah 25#^mosiah-25-23|≈ Mosiah 25:23]] · [[Alma 4#^alma-4-9|≈ Alma 4:9]] · [[Alma 46#^alma-46-14|≈ Alma 46:14]] · [[Alma 6#^alma-6-2|≈ Alma 6:2]] · [[Alma 6#^alma-6-3|≈ Alma 6:3]]
+> [[Alma 4#^alma-4-9|≈ Alma 4:9]] · [[Mosiah 25#^mosiah-25-18|≈ Mosiah 25:18]] · [[Mosiah 25#^mosiah-25-23|≈ Mosiah 25:23]] · [[Alma 46#^alma-46-14|≈ Alma 46:14]] · [[Alma 6#^alma-6-2|≈ Alma 6:2]] · [[Alma 6#^alma-6-3|≈ Alma 6:3]]
 
 ![[Alma 1#^alma-1-20]]
 > [[Isaiah 55#^isa-55-1|Isa. 55:1 (1–2)]]
@@ -104,6 +104,6 @@ cssclasses:
 ![[Alma 1#^alma-1-31]]
 
 ![[Alma 1#^alma-1-32]]
-> [[2 Kings 14#^2kgs-14-10|2 Kgs. 14:10]] · [[Jacob 2#^jacob-2-13|Jacob 2:13]] · [[Alma 31#^alma-31-25|Alma 31:25]] · [[Mormon 8#^morm-8-28|Morm. 8:28]] · [[Alma 62#^alma-62-49|≈ Alma 62:49]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[Alma 4#^alma-4-6|≈ Alma 4:6]] · [[Alma 4#^alma-4-8|≈ Alma 4:8]] · [[Mormon 8#^morm-8-28|≈ Mormon 8:28]]
+> [[2 Kings 14#^2kgs-14-10|2 Kgs. 14:10]] · [[Jacob 2#^jacob-2-13|Jacob 2:13]] · [[Alma 31#^alma-31-25|Alma 31:25]] · [[Mormon 8#^morm-8-28|Morm. 8:28]] · [[Alma 4#^alma-4-6|≈ Alma 4:6]] · [[Alma 4#^alma-4-8|≈ Alma 4:8]] · [[Alma 62#^alma-62-49|≈ Alma 62:49]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[Mormon 8#^morm-8-28|≈ Mormon 8:28]]
 
 ![[Alma 1#^alma-1-33]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 8
 slug: isa-8
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -82,7 +82,8 @@ Christian readers have strong canonical grounds for relating the stumbling stone
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Christ, names of** (reference-entry) *(explicit citation)*
+- **Damascus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

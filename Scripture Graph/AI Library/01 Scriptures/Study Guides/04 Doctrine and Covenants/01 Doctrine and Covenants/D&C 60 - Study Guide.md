@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 60
 slug: dc-60
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Malachi 3]] — 0 parallel verses
 - [[1 Timothy 2]] — 0 parallel verses
 - [[D&C 61]] — 0 parallel verses
+- [[D&C 62]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

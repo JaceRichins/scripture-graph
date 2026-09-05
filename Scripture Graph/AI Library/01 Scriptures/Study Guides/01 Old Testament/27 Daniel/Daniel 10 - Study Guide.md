@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 10
 slug: dan-10
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Angels** (reference-entry) *(explicit citation)*
+- **Cyrus** (reference-entry) *(explicit citation)*
+- **Daniel, book of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 39
 slug: ex-39
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Altar** (reference-entry) *(explicit citation)*
+- **Breastplate** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

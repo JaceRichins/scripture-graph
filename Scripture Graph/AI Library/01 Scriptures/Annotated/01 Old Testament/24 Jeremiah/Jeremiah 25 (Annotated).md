@@ -90,7 +90,7 @@ cssclasses:
 > [[Jeremiah 48#^jer-48-26|Jer. 48:26]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 9#^jer-9-15|≈ Jeremiah 9:15]]
 
 ![[Jeremiah 25#^jer-25-28]]
-> [[Obadiah 1#^obad-1-16|Obad. 1:16]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 13#^jer-13-13|≈ Jeremiah 13:13]] · [[Ezekiel 12#^ezek-12-28|≈ Ezekiel 12:28]] · [[Jeremiah 19#^jer-19-11|≈ Jeremiah 19:11]]
+> [[Obadiah 1#^obad-1-16|Obad. 1:16]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]] · [[Jeremiah 43#^jer-43-10|≈ Jeremiah 43:10]] · [[Jeremiah 13#^jer-13-13|≈ Jeremiah 13:13]] · [[Jeremiah 19#^jer-19-11|≈ Jeremiah 19:11]] · [[Ezekiel 2#^ezek-2-4|≈ Ezekiel 2:4]]
 
 ![[Jeremiah 25#^jer-25-29]]
 > [[Ezekiel 9#^ezek-9-6|Ezek. 9:6]] · [[Jeremiah 7#^jer-7-10|≈ Jeremiah 7:10]]

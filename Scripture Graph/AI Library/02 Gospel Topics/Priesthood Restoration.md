@@ -36,6 +36,7 @@ _Not yet developed._
 - [[D&C 13]]
 - [[Joseph Smith—History 1]]
 - [[D&C 128]]
+- [[D&C 127]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

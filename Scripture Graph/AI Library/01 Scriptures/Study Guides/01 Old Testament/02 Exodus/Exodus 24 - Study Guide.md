@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 24
 slug: ex-24
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Aaron** (reference-entry) *(explicit citation)*
+- **Blood** (reference-entry) *(explicit citation)*
+- **Cloud** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

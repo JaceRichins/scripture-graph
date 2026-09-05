@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 16
 slug: 2ne-16
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Isaiah 6]] — 13 parallel verses, e.g. [[2 Nephi 16#^2ne-16-5|2 Nephi 16:5]] ↔ [[Isaiah 6#^isa-6-5|Isaiah 6:5]]
 - [[Acts 28]] — 1 parallel verse, e.g. [[2 Nephi 16#^2ne-16-10|2 Nephi 16:10]] ↔ [[Acts 28#^acts-28-27|Acts 28:27]]
 - [[Matthew 13]] — 1 parallel verse, e.g. [[2 Nephi 16#^2ne-16-10|2 Nephi 16:10]] ↔ [[Matthew 13#^matt-13-15|Matthew 13:15]]
+- [[Acts 28]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

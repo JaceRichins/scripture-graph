@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 54
 slug: dc-54
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -49,11 +49,11 @@ _Not yet developed._
 - [[1 Corinthians 15]] — 1 footnote cross-reference (from [[D&C 54#^dc-54-1|D&C 54:1]])
 - [[Jeremiah 44]] — 1 footnote cross-reference (from [[D&C 54#^dc-54-3|D&C 54:3]])
 - [[Joshua 23]] — 1 footnote cross-reference (from [[D&C 54#^dc-54-4|D&C 54:4]])
+- [[Revelation 22]] — 2 parallel verses, e.g. [[D&C 54#^dc-54-10|D&C 54:10]] ↔ [[Revelation 22#^rev-22-12|Revelation 22:12]]
 - [[D&C 35]] — 2 parallel verses, e.g. [[D&C 54#^dc-54-1|D&C 54:1]] ↔ [[D&C 35#^dc-35-2|D&C 35:2]]
 - [[D&C 61]] — 1 parallel verse, e.g. [[D&C 54#^dc-54-1|D&C 54:1]] ↔ [[D&C 61#^dc-61-1|D&C 61:1]]
 - [[D&C 53]] — 1 parallel verse, e.g. [[D&C 54#^dc-54-1|D&C 54:1]] ↔ [[D&C 53#^dc-53-2|D&C 53:2]]
 - [[D&C 112]] — 1 parallel verse, e.g. [[D&C 54#^dc-54-10|D&C 54:10]] ↔ [[D&C 112#^dc-112-34|D&C 112:34]]
-- [[Revelation 22]] — 0 parallel verses
 - [[Matthew 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -74,6 +74,7 @@ Repentance includes becoming “truly humble” and contrite (v. 3). Faithful wa
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
+- [[Love and Law (Elder Dallin H. Oaks, October 2009)|Love and Law]] — Elder Dallin H. Oaks, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

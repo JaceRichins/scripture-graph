@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 51
 slug: jer-51
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -70,9 +70,9 @@ Scripture: [[Jeremiah 51]] · My notes: [[Jeremiah 51 - My Notes]]
 - [[Prophecy]]
 - [[Records and Sacred Writings]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Zion]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -89,7 +89,8 @@ Its doctrine of recompense is tied to specified wrongs, especially violence agai
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Balm** (reference-entry) *(explicit citation)*
+- **Dragon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

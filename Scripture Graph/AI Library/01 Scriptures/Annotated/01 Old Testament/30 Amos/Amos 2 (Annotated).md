@@ -20,7 +20,7 @@ cssclasses:
 > [[Isaiah 16#^isa-16-13|Isa. 16:13]] · [[Amos 1#^amos-1-11|≈ Amos 1:11]] · [[Amos 1#^amos-1-3|≈ Amos 1:3]] · [[Amos 1#^amos-1-6|≈ Amos 1:6]] · [[Amos 1#^amos-1-9|≈ Amos 1:9]] · [[Amos 1#^amos-1-13|≈ Amos 1:13]]
 
 ![[Amos 2#^amos-2-2]]
-> [[Jeremiah 17#^jer-17-27|≈ Jeremiah 17:27]] · [[Hosea 8#^hosea-8-14|≈ Hosea 8:14]] · [[Amos 1#^amos-1-12|≈ Amos 1:12]] · [[Amos 1#^amos-1-4|≈ Amos 1:4]] · [[2 Samuel 6#^2sam-6-15|≈ 2 Samuel 6:15]]
+> [[Jeremiah 17#^jer-17-27|≈ Jeremiah 17:27]] · [[Hosea 8#^hosea-8-14|≈ Hosea 8:14]] · [[2 Samuel 6#^2sam-6-15|≈ 2 Samuel 6:15]] · [[Amos 1#^amos-1-12|≈ Amos 1:12]] · [[Amos 1#^amos-1-4|≈ Amos 1:4]]
 
 ![[Amos 2#^amos-2-3]]
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 12
 slug: deut-12
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Altar** (reference-entry) *(explicit citation)*
+- **Blood** (reference-entry) *(explicit citation)*
+- **Clean and unclean** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

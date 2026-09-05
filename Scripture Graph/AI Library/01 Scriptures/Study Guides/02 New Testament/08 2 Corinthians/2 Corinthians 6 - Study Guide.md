@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 6
 slug: 2cor-6
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

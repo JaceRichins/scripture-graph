@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 54
 slug: isa-54
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[3 Nephi 22]] — 17 parallel verses, e.g. [[Isaiah 54#^isa-54-1|Isaiah 54:1]] ↔ [[3 Nephi 22#^3ne-22-1|3 Nephi 22:1]]
 - [[Zechariah 12]] — 1 parallel verse, e.g. [[Isaiah 54#^isa-54-3|Isaiah 54:3]] ↔ [[Zechariah 12#^zech-12-6|Zechariah 12:6]]
 - [[D&C 101]] — 0 parallel verses
+- [[D&C 71]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

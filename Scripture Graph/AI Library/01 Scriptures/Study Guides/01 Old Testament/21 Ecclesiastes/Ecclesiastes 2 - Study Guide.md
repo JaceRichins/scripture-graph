@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 2
 slug: eccl-2
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[D&C 88]] — 1 footnote cross-reference (from [[Ecclesiastes 2#^eccl-2-1|Ecclesiastes 2:1]])
 - [[1 Kings 7]] — 1 footnote cross-reference (from [[Ecclesiastes 2#^eccl-2-4|Ecclesiastes 2:4]])
 - [[1 Kings 9]] — 1 footnote cross-reference (from [[Ecclesiastes 2#^eccl-2-8|Ecclesiastes 2:8]])
+- [[Ecclesiastes 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

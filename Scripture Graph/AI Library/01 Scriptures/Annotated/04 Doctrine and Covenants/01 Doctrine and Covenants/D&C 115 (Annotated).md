@@ -17,7 +17,7 @@ cssclasses:
 > 1–4, The Lord names His church The Church of Jesus Christ of Latter-day Saints; 5–6, Zion and her stakes are places of defense and refuge for the Saints; 7–16, The Saints are commanded to build a house of the Lord at Far West; 17–19, Joseph Smith holds the keys of the kingdom of God on earth.
 
 ![[D&C 115#^dc-115-1]]
-> [[D&C 81#^dc-81-1|D&amp;C 81:1]] · [[D&C 112#^dc-112-20|112:20]] · [[D&C 124#^dc-124-91|124:91]] · [[D&C 95#^dc-95-1|≈ D&C 95:1]] · [[D&C 124#^dc-124-1|≈ D&C 124:1]] · [[D&C 71#^dc-71-1|≈ D&C 71:1]] · [[D&C 71#^dc-71-9|≈ D&C 71:9]] · [[D&C 80#^dc-80-1|≈ D&C 80:1]] · [[D&C 126#^dc-126-1|≈ D&C 126:1]]
+> [[D&C 81#^dc-81-1|D&amp;C 81:1]] · [[D&C 112#^dc-112-20|112:20]] · [[D&C 124#^dc-124-91|124:91]] · [[D&C 71#^dc-71-1|≈ D&C 71:1]] · [[D&C 71#^dc-71-9|≈ D&C 71:9]] · [[D&C 80#^dc-80-1|≈ D&C 80:1]] · [[D&C 95#^dc-95-1|≈ D&C 95:1]] · [[D&C 124#^dc-124-1|≈ D&C 124:1]] · [[D&C 126#^dc-126-1|≈ D&C 126:1]]
 
 ![[D&C 115#^dc-115-2]]
 > [[D&C 64#^dc-64-17|D&amp;C 64:17]] · [[D&C 124#^dc-124-19|124:19]]

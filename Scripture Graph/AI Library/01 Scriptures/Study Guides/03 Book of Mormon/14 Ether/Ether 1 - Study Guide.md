@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 1
 slug: ether-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -77,12 +77,14 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
 - [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
+- [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
 - [[Conference Report, April 1908 (General Conference (full report), April 1908)|Conference Report, April 1908]] — General Conference (full report), 1908-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
+- **Babylon or Babel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 112
 slug: ps-112
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

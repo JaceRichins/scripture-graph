@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 7
 slug: 2chr-7
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

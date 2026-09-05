@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 3
 slug: 2pet-3
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ Verse 9 expresses God's unwillingness that any perish, but it does not specify t
 - [[The Eternal Everyday (Elder Quentin L. Cook, October 2017)|The Eternal Everyday]] — Elder Quentin L. Cook, 2017-October *(explicit citation)*
 - [[God’s Intent Is to Bring You Home (Elder Patrick Kearon, April 2024)|God’s Intent Is to Bring You Home]] — Elder Patrick Kearon, 2024-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[Never Leave Him (Elder Neil L. Andersen, October 2010)|Never Leave Him]] — Elder Neil L. Andersen, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -85,6 +86,7 @@ Verse 9 expresses God's unwillingness that any perish, but it does not specify t
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Conversation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 19
 slug: 2ne-19
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -40,10 +40,10 @@ Scripture: [[2 Nephi 19]] · My notes: [[2 Nephi 19 - My Notes]]
 
 ## Places
 <!-- SG:BEGIN places -->
-- [[Galilee]] — 1 mention
-- [[Samaria]] — 1 mention
 - [[Red Sea]] — 1 mention
 - [[Jordan River]] — 1 mention
+- [[Galilee]] — 1 mention
+- [[Samaria]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures

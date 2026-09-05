@@ -45,7 +45,7 @@ cssclasses:
 > [[Exodus 12#^ex-12-21|Ex. 12:22 (21–22)]]
 
 ![[2 Chronicles 35#^2chr-35-12]]
-> [[2 Kings 23#^2kgs-23-21|≈ 2 Kings 23:21]] · [[Ezra 6#^ezra-6-18|≈ Ezra 6:18]] · [[2 Chronicles 23#^2chr-23-18|≈ 2 Chronicles 23:18]]
+> [[Ezra 6#^ezra-6-18|≈ Ezra 6:18]] · [[2 Kings 23#^2kgs-23-21|≈ 2 Kings 23:21]] · [[2 Chronicles 23#^2chr-23-18|≈ 2 Chronicles 23:18]]
 
 ![[2 Chronicles 35#^2chr-35-13]]
 
@@ -81,4 +81,4 @@ cssclasses:
 > [[2 Kings 23#^2kgs-23-28|≈ 2 Kings 23:28]]
 
 ![[2 Chronicles 35#^2chr-35-27]]
-> [[2 Chronicles 36#^2chr-36-8|≈ 2 Chronicles 36:8]] · [[2 Kings 15#^2kgs-15-11|≈ 2 Kings 15:11]] · [[2 Kings 15#^2kgs-15-15|≈ 2 Kings 15:15]] · [[2 Kings 15#^2kgs-15-26|≈ 2 Kings 15:26]] · [[2 Kings 15#^2kgs-15-31|≈ 2 Kings 15:31]] · [[1 Chronicles 29#^1chr-29-29|≈ 1 Chronicles 29:29]]
+> [[2 Kings 15#^2kgs-15-11|≈ 2 Kings 15:11]] · [[2 Kings 15#^2kgs-15-15|≈ 2 Kings 15:15]] · [[2 Kings 15#^2kgs-15-26|≈ 2 Kings 15:26]] · [[2 Kings 15#^2kgs-15-31|≈ 2 Kings 15:31]] · [[2 Chronicles 36#^2chr-36-8|≈ 2 Chronicles 36:8]] · [[1 Chronicles 29#^1chr-29-29|≈ 1 Chronicles 29:29]]

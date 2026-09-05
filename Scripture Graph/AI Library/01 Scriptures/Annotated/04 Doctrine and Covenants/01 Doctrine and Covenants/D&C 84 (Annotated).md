@@ -242,7 +242,7 @@ cssclasses:
 > [[Matthew 9#^matt-9-35|Matt. 9:35]] · [[Joseph Smith—Matthew 1#^jsm-1-31|JS—M 1:31]] · [[Luke 21#^luke-21-18|Luke 21:18]]
 
 ![[D&C 84#^dc-84-81]]
-> [[Matthew 6#^matt-6-25|Matt. 6:25]] · [[Luke 12#^luke-12-22|Luke 12:22]] · [[Matthew 6#^matt-6-25|≈ Matthew 6:25]] · [[Luke 12#^luke-12-29|≈ Luke 12:29]] · [[D&C 27#^dc-27-2|≈ D&C 27:2]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]]
+> [[Matthew 6#^matt-6-25|Matt. 6:25]] · [[Luke 12#^luke-12-22|Luke 12:22]] · [[Matthew 6#^matt-6-25|≈ Matthew 6:25]] · [[Luke 12#^luke-12-29|≈ Luke 12:29]] · [[3 Nephi 13#^3ne-13-25|≈ 3 Nephi 13:25]] · [[D&C 27#^dc-27-2|≈ D&C 27:2]]
 
 ![[D&C 84#^dc-84-82]]
 > [[Matthew 6#^matt-6-28|Matt. 6:28]] · [[Matthew 6#^matt-6-28|≈ Matthew 6:28]] · [[Luke 12#^luke-12-27|≈ Luke 12:27]] · [[3 Nephi 13#^3ne-13-28|≈ 3 Nephi 13:28]]

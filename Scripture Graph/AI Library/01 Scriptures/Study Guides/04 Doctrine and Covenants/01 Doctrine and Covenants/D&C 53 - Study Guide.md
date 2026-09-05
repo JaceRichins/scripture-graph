@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 53
 slug: dc-53
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[D&C 52]] — 2 parallel verses, e.g. [[D&C 53#^dc-53-5|D&C 53:5]] ↔ [[D&C 52#^dc-52-3|D&C 52:3]]
 - [[D&C 54]] — 1 parallel verse, e.g. [[D&C 53#^dc-53-2|D&C 53:2]] ↔ [[D&C 54#^dc-54-1|D&C 54:1]]
 - [[D&C 35]] — 1 parallel verse, e.g. [[D&C 53#^dc-53-2|D&C 53:2]] ↔ [[D&C 35#^dc-35-2|D&C 35:2]]
+- [[D&C 55]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

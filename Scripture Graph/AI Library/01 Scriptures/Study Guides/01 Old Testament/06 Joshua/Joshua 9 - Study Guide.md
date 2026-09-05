@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 9
 slug: josh-9
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---

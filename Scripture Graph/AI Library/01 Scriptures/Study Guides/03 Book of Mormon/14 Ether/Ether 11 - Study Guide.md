@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 11
 slug: ether-11
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
@@ -56,8 +56,8 @@ _Not yet developed._
 - [[Alma 28]] — 2 parallel verses, e.g. [[Ether 11#^ether-11-7|Ether 11:7]] ↔ [[Alma 28#^alma-28-2|Alma 28:2]]
 - [[3 Nephi 8]] — 2 parallel verses, e.g. [[Ether 11#^ether-11-7|Ether 11:7]] ↔ [[3 Nephi 8#^3ne-8-5|3 Nephi 8:5]]
 - [[Helaman 10]] — 2 parallel verses, e.g. [[Ether 11#^ether-11-15|Ether 11:15]] ↔ [[Helaman 10#^hel-10-1|Helaman 10:1]]
-- [[Helaman 13]] — 1 parallel verse, e.g. [[Ether 11#^ether-11-6|Ether 11:6]] ↔ [[Helaman 13#^hel-13-23|Helaman 13:23]]
 - [[Mosiah 12]] — 1 parallel verse, e.g. [[Ether 11#^ether-11-12|Ether 11:12]] ↔ [[Mosiah 12#^mosiah-12-8|Mosiah 12:8]]
+- [[Helaman 13]] — 1 parallel verse, e.g. [[Ether 11#^ether-11-6|Ether 11:6]] ↔ [[Helaman 13#^hel-13-23|Helaman 13:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,8 +67,8 @@ _Not yet developed._
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 1
 slug: prov-1
-corpus_version_reviewed: 9
+corpus_version_reviewed: 11
 cssclasses:
 - sg-study
 ---
