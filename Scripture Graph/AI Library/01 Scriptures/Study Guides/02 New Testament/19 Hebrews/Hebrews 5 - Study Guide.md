@@ -23,7 +23,10 @@ Scripture: [[Hebrews 5]] · My notes: [[Hebrews 5 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+- **vv.1-4** — The pattern of ordinary high priesthood: taken from among men, offering gifts and sacrifices for sins, and compassionate because he himself is 'compassed with infirmity' — never self-appointed but 'called of God, as was Aaron.'
+- **vv.5-6** — Christ fits this pattern of divine calling: he did not glorify himself but was addressed by God with two scriptural declarations — 'Thou art my Son, to day have I begotten thee' ([[Psalm 2]] 2:7, also quoted at Hebrews 1:5) and 'Thou art a priest for ever after the order of Melchisedec' ([[Psalm 110]] 110:4).
+- **vv.7-10** — Christ's fitness for priesthood is described through lived experience: prayers and tears, obedience learned through suffering, being 'made perfect,' becoming 'the author of eternal salvation,' and finally 'called of God an high priest after the order of Melchisedec' — echoing, though not repeating verbatim, the 'called' language of v.4.
+- **vv.11-14** — Direct address breaks in: the promised teaching about Melchizedek is 'hard to be uttered' because the audience is 'dull of hearing' and needs milk, not solid food — a rebuke whose thread continues into [[Hebrews 6]] before the Melchizedek title explicitly resumes at Hebrews 6:20 and is developed fully in [[Hebrews 7]].
 <!-- SG:END structure -->
 
 ## People
@@ -45,8 +48,9 @@ _Not yet developed._
 - [[D&C 124]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-6|Hebrews 5:6]])
 - [[Matthew 26]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-7|Hebrews 5:7]])
 - [[John 16]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-11|Hebrews 5:11]])
-- [[Hebrews 7]] — 2 parallel verses, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Hebrews 7#^heb-7-17|Hebrews 7:17]]
 - [[Psalm 110]] — 1 parallel verse, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Psalm 110#^ps-110-4|Psalm 110:4]]
+- [[Hebrews 7]] — 0 parallel verses
+- [[Hebrews 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -56,7 +60,10 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+- **Priesthood is conferred, not claimed.** Both Aaron's and Christ's priesthood rest on divine call rather than self-assertion (vv.4-5). The chapter states this as the pattern for the high-priestly office under discussion; extending it as a universal rule for every later office goes beyond what these verses alone establish.
+- **Christ's priesthood is named 'after the order of Melchisedec,'** distinct in title from the Aaronic/Levitical priesthood described in vv.1-3, though this chapter only announces the distinction — its fuller significance is worked out in [[Hebrews 7]].
+- **Christ 'learned...obedience by the things which he suffered' (v.8).** The text presents obedience as acquired through lived suffering rather than as an automatic attribute; this does not imply prior disobedience, and interpreters differ on whether it describes moral growth, experiential enactment, or functional completion of obedience.
+- **Salvation is described as extending 'unto all them that obey him' (v.9).** This ties eternal salvation to obedient response, but the verse alone does not settle whether obedience functions as a precondition, an expression of allegiance, or evidence of salvation already received.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -85,25 +92,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+'Compassed with infirmity' (v.2) pictures human weakness as something that surrounds the priest, grounding his compassion in shared limitation rather than status. In v.9, 'being made perfect' translates a Greek verb (teleioō) that can describe moral or experiential completion, and that some interpreters connect to priestly-consecration language in the Greek Old Testament ('filling the hands'); the chapter does not specify which sense is intended, and commentators are divided.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verses 4 and 10 both use the language of being 'called of God' — for Aaron and then for Christ — forming a thematic bracket around the whole argument, even though the underlying wording is not a strict repetition. The 'milk versus strong meat' image (vv.12-14) is a teaching metaphor for spiritual immaturity also found elsewhere in early Christian writing (e.g., 1 Corinthians 3:1-2, 1 Peter 2:2); its abrupt appearance right after the weighty Melchizedek claim dramatizes the very problem being named.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Intertextual Evidence *(tentative)*
+> The adjacent use of Psalm 2:7 and Psalm 110:4 strongly supports the interpretation that Hebrews presents Jesus' sonship and priesthood as mutually relevant aspects of his identity and saving role.
+> — strength 0.5 · confidence 0.7 · plausible interpretive synthesis, unsourced consensus claim
+
+> [!evidence] Intertextual/Messianic Exegesis *(tentative)*
+> Hebrews' application of Psalm 110:4 to Jesus as an eternal priest 'after the order of Melchisedec' is a distinctively early-Christian messianic reading of a psalm that, in its ancient Israelite setting, most naturally addressed a reigning Judean king; the equation of that royal figure with Jesus is an interpretive move made by the New Testament author rather than a self-evident feature of the psalm alone.
+> — strength 0.6 · confidence 0.7 · disputed historical-critical reconstruction
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does 'learned he obedience by the things which he suffered' (v.8) describe growth in Christ's experience of obedience, or something more — and how do interpreters reconcile this with his sinlessness elsewhere in Hebrews?
+- Is v.7's 'strong crying and tears' meant to evoke a single episode (commonly associated with [[Gethsemane]]) or Christ's suffering more broadly? The verse itself names no setting.
+- Does 'was heard in that he feared' mean Christ was heard because of reverent submission, saved from death, or saved through death via resurrection? The KJV wording is ambiguous.
+- What does it mean that salvation is 'unto all them that obey him' (v.9) — is obedience a condition of receiving salvation, an expression of already having received it, or both?
+- What audience situation provoked the rebuke of vv.11-14 — believers tempted to return to Jewish sacrificial practice, or a more general complacency? The chapter itself does not say.
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read alongside [[Hebrews 6]], where the exhortation continues and the Melchizedek title explicitly resumes at 6:20, and [[Hebrews 7]], where the 'first principles' and Melchizedek argument deferred here are developed at length.
 <!-- SG:END further-study -->
