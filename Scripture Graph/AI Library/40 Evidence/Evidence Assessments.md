@@ -185,6 +185,13 @@ Shiblon's identification with the Zoramite mission and Alma's pointed reversal o
 
 Notes: [[Internal Narrative Coherence in Alma 38]]
 
+### bom-mosiah13-exodus20-dependence
+**Decalogue Dependence in Mosiah 13** — *strong* (supports, evidence_strength 0.84) for: Abinadi's recitation of the commandments (begun in Mosiah 12, continued in Mosiah 13:12-24) stands in a direct literary/textual dependence relationship with the Exodus 20 Decalogue tradition
+
+The extensive verbal correspondence between Abinadi's recitation and Exodus 20:4-17 strongly supports a direct literary/translation relationship with the Decalogue tradition. Because the Decalogue held special liturgical and legal status in Israelite religious practice, this close correspondence is compatible with, but not uniquely predicted by, authentic ancient transmission, translation-level harmonization, or direct modern reuse, so the finding establishes dependence without discriminating a transmission mechanism, date, or ancient authorship.
+
+Notes: [[Textual Interdependence in Mosiah 13]]
+
 ### bom-alma43-defensive-war-framing
 **Defensive-war framing within Alma 43** — *strong* (supports, evidence_strength 0.7) for: Alma 43 normatively frames Nephite violence in this battle as defense of community goods and portrays continued killing as limited once the surrounded enemy is overcome.
 
@@ -395,6 +402,20 @@ The clustered awakening, dust, beautiful-garments, and strengthened-stakes langu
 
 Notes: [[Scriptural Allusion in Moroni 10]]
 
+### bom-2nephi9-isaiah55-reuse
+**Isaiah 55:1-2 Reuse in 2 Nephi 9:50-51** — *strong* (supports, evidence_strength 0.8) for: The final English text of 2 Nephi 9:50-51 deliberately reuses or is textually mediated by Isaiah 55:1-2, rather than reflecting independent generic exhortation language
+
+The near-verbatim, multi-clause overlap across 2 Nephi 9:50-51 and Isaiah 55:1-2 -- including the distinctive repeated phrase 'without money and without price' -- strongly supports a literary or translation-level relationship with the Isaiah 55 tradition, comparable to the tightest registered two/three-verse Isaiah echoes elsewhere in the corpus (above 2 Nephi 26/Isaiah 29 at 0.72, near 1 Nephi 22/Malachi 4 at 0.84). It does not establish translation mechanism, date, or ancient authorship, and should not be added as independent weight when the broader Isaiah/KJV-mediation pattern is aggregated.
+
+Notes: [[Textual Dependence Or Allusion in 2 Nephi 9]]
+
+### bom-3nephi19-john17-intertext
+**John 17 Prayer Parallel in 3 Nephi 19** — *moderate* (supports, evidence_strength 0.6) for: 3 Nephi 19:21-29 reflects a deliberate literary/textual engagement with John 17:20-23's mutual-indwelling prayer language, rather than independent generic Christian devotional idiom
+
+The shared two-stage intercessory structure (present disciples, then future believers 'through their word') and repeated reciprocal-indwelling language moderately support an intertextual relationship between 3 Nephi 19 and John 17. Because this indwelling/unity language was also common currency in period Christian devotional idiom drawn from the same well-known KJV passage, the parallel does not rise to the strong band reserved for more distinctive single-clause Johannine echoes registered elsewhere in 3 Nephi (John 10, John 5), and it does not establish direction, mechanism, ancient authorship, or inspiration.
+
+Notes: [[Textual Interrelationship in 3 Nephi 19]]
+
 ### bom-3nephi9-john1-intertext
 **John 1:11-12 intertext in 3 Nephi 9:16-17** — *strong* (supports, evidence_strength 0.78) for: 3 Nephi 9:16-17 deliberately engages the textual or traditional form represented by John 1:11-12 in the transmitted English text
 
@@ -415,6 +436,13 @@ Notes: [[Scriptural Intertextuality in 3 Nephi 26]]
 The close departure cluster in Abraham 1:16 and the looser resonance in 1:19 moderately support a deliberate relationship with the Genesis 12 call tradition. This sibling of the Abraham 2–Genesis 12 dependence issue supplies no independent discrimination among ancient tradition, translation or revelatory harmonization, and nineteenth-century adaptation.
 
 Notes: [[Intertextual Parallel in Abraham 1]]
+
+### bom-3nephi24-malachi3-dependence
+**Malachi 3 Dependence in 3 Nephi 24** — *strong* (supports, evidence_strength 0.83) for: 3 Nephi 24 stands in a direct literary/textual dependence relationship with the Malachi 3 tradition, rather than being independent composition
+
+The chapter-length correspondence with Malachi 3, reinforced by explicit internal attribution ('the words which the Father had given unto Malachi'), strongly supports a direct literary relationship -- raised from the prior 0.75 to align with comparably tight, chapter-length KJV-dependence issues elsewhere in the registry (bom-isaiah-textual-dependence 0.84, bom-3nephi-matthew-kjv-dependence 0.84) and the closely analogous bom-1nephi22-malachi4-dependence (0.84). It establishes neither ancient Book of Mormon authorship nor modern fabrication and does not identify the transmission mechanism; the in-narrative attribution to Malachi is itself part of what needs explaining, not independent proof of an ancient citation event.
+
+Notes: [[Textual Interdependence in 3 Nephi 24]]
 
 ### bom-1nephi22-malachi4-dependence
 **Malachi 4 mediation of the paired images in 1 Nephi 22** — *strong* (supports, evidence_strength 0.84) for: The received English text of 1 Nephi 22 deliberately draws on or is mediated through the paired and ordered imagery of Malachi 4:1–2.
@@ -534,6 +562,13 @@ Notes: [[Internal Narrative Evidence in Alma 54]]
 Moroni's conditional offer to forbear bloodshed after surrender (v.37), the captains' compliance (vv.38-39), and the final prisoner count exceeding the dead (v.40) strongly support that the final text deliberately frames disarmament and captivity as an alternative to continued killing. This reading is checked, not erased, by v.25's killing of Mulek's defenders who would not yield their weapons, so it does not establish a comprehensive Nephite law of war, Moroni's exact motive, or compliance with modern laws of armed conflict, and it says nothing about historicity or inspiration.
 
 Notes: [[Narrative Conduct In War in Alma 52]]
+
+### pgp-moses2-genesis1-abraham4-dependence
+**Textual Dependence Among Moses 2, Genesis 1, and Abraham 4** — *strong* (supports, evidence_strength 0.84) for: Moses 2 and Abraham 4 stand in a direct literary/textual relationship with the Genesis 1 creation tradition, rather than being independently composed cosmogonies
+
+The sustained sequential and extensive verbal correspondence among Moses 2, Genesis 1, and Abraham 4 strongly supports a direct literary or transmission relationship among the three creation accounts, consistent with the comparable pgp-abraham-genesis-literary-dependence and pgp-abraham5-genesis2-literary-dependence issues (both 0.84). It does not identify the direction of dependence, an ancient date for any distinctive wording, or the accounts' historicity or inspiration.
+
+Notes: [[Textual Dependence Or Shared Source in Moses 2]]
 
 ### bom-jsm1-jerusalem-eschaton-structure
 **Textual distinction between the Jerusalem tribulation and later material in Joseph Smith—Matthew 1** — *moderate* (supports, evidence_strength 0.5) for: The final text of Joseph Smith—Matthew 1 textually distinguishes the Jerusalem-focused tribulation of vv.12-20 from the material following v.21, sufficient to show the chapter does not present vv.12-31 as one undifferentiated description of the final coming.
