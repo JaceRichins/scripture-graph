@@ -9695,6 +9695,50 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-eph-2-8d4cb3f7",
+   "t": "Composition of the Epistle to the Ephesians",
+   "y0": 60,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally dated to Paul's Roman imprisonment (cf. Acts 28); a substantial body of critical scholarship instead treats Ephesians as deutero-Pauline and dates it later (c. AD 80-100) based on vocabulary, style, and theological differences from the undisputed Pauline letters.",
+   "chapters": [
+    "Ephesians 2"
+   ],
+   "people": [
+    "Paul"
+   ],
+   "places": [
+    "Rome",
+    "Ephesus"
+   ]
+  },
+  {
+   "id": "r-eph-5-90a01ff9",
+   "t": "Composition of Ephesians (traditional Pauline imprisonment)",
+   "y0": 60,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally dated to Paul's Roman imprisonment based on internal references (e.g., Ephesians 3:1, 4:1); critical scholarship disputes Pauline authorship and thus this dating.",
+   "chapters": [
+    "Ephesians 5"
+   ],
+   "people": [
+    "Paul (traditional author)"
+   ]
+  },
+  {
    "id": "r-esth-1-91f6b731",
    "t": "Ahasuerus (Xerxes I) hosts his third-year feast at Susa",
    "y0": -483,
