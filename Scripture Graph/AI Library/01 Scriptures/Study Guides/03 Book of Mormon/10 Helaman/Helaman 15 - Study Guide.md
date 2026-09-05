@@ -23,7 +23,12 @@ Scripture: [[Helaman 15]] · My notes: [[Helaman 15 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Conditional warning to the Nephites (vv. 1-3):** failure to repent leads to desolation, flight, and suffering.
+2. **Present faithfulness of converted Lamanites (vv. 4-10):** preaching and written prophecy lead to conversion, obedience, missionary effort, steadfastness, and renunciation of weapons.
+3. **Scattering and eventual restoration (vv. 11-16):** despite future unbelief and affliction, promises remain extended to the Lamanites.
+4. **Renewed Nephite warning (v. 17):** the opening condition returns in an intensified threat of utter destruction.
+
+The repeated expression "no place for refuge" in verses 2 and 12 creates a notable internal link between threatened Nephite flight and later Lamanite scattering.
 <!-- SG:END structure -->
 
 ## People
@@ -51,21 +56,31 @@ _Not yet developed._
 - [[Alma 9]] — 2 parallel verses, e.g. [[Helaman 15#^hel-15-3|Helaman 15:3]] ↔ [[Alma 9#^alma-9-19|Alma 9:19]]
 - [[Mosiah 27]] — 2 parallel verses, e.g. [[Helaman 15#^hel-15-6|Helaman 15:6]] ↔ [[Mosiah 27#^mosiah-27-14|Mosiah 27:14]]
 - [[1 Kings 8]] — 1 parallel verse, e.g. [[Helaman 15#^hel-15-5|Helaman 15:5]] ↔ [[1 Kings 8#^1kgs-8-58|1 Kings 8:58]]
+- [[Alma 9]] — 0 parallel verses
+- [[Alma 24]] — 0 parallel verses
+- [[Matthew 23]] — 0 parallel verses
+- [[Matthew 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[War and Peace]]
+- [[Prophecy]]
+- [[Law of Moses]]
+- [[Scattering of Israel]]
+- [[Records and Sacred Writings]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
-- [[Sin]] *(keyword match — unconfirmed)*
-- [[Prophets]] *(keyword match — unconfirmed)*
-- [[Truth]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Helaman 15 ties responsibility to received knowledge. The Lamanites' inherited traditions help explain their former unbelief, while the Nephites' mighty works heighten their accountability. The teaching is not that ancestry saves or condemns: the Lamanites change through [[Conversion]], and the Nephites can still escape judgment through [[Repentance]].
+
+Verses 7-9 describe conversion as a sequence extending from [[Records and Sacred Writings]] to faith, repentance, a changed heart, steadfastness, and observable conduct. Verse 5 also places obedience to the [[Law of Moses]] alongside faith in Christ.
+
+The restoration promise belongs to the paired themes of [[Scattering of Israel]] and [[Gathering of Israel]]. Its stated center is renewed knowledge of the Redeemer and return to the Lord, not merely collective survival or geographic movement.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -92,25 +107,39 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The difficult declaration that the Lord "hated" the Lamanites is qualified within the same verse by reference to evil deeds and inherited tradition. The following verses describe their salvation, obedience, blessing, and eventual mercy. This context supports a judicial or covenantal-disfavor reading, but it does not make the severe rhetoric disappear or provide a complete doctrine of divine love.
+
+The English wording of verses 1-2 strongly resembles [[Matthew 23]] and [[Matthew 24]]: a house left desolate and a woe upon pregnant and nursing women during flight. The relationship is textually observable, but whether it reflects translation diction, conscious literary reuse, shared prophetic language, or another process cannot be decided from the parallel alone.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verse 7 uses a causal chain rather than a bare list: written prophecies lead to faith and repentance, which bring a change of heart. Verses 8-9 then test the inward change through endurance and costly action. The recollection of buried weapons links the sermon to [[Alma 24]], where renouncing violence becomes both covenant and testimony.
+
+The chapter also reverses expected positions. The formerly disfavored people become firm missionaries, while the chosen and chastened people face destruction. This reversal makes inherited status subordinate to response, repentance, and perseverance.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Narrative Allusion
+> The uncommon combination of buried weapons, refusal to use swords, fear of renewed sin, and willingness to be slain is strong textual evidence that Helaman 15:9 recalls the Anti-Nephi-Lehi narrative in Alma 24.
+> — strength 0.9 · confidence 1.0 · strong allusive evidence; identity qualified · [[Internal Narrative Allusion in Helaman 15|full dossier]]
+
+> [!evidence] English Phraseological Intertext
+> Helaman 15:1-2 has conspicuous English phraseological parallels with two warnings in Matthew: the declaration of a house left desolate in Matthew 23:38 and the woe concerning pregnant and nursing women during flight in Matthew 24:19. The verbal correspondence is strong, while its explanation remains open.
+> — strength 0.9 · confidence 1.0 · strong English verbal parallel; cause unresolved · [[English Phraseological Intertext in Helaman 15|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+1. What changes when scripture is read as one step in the conversion sequence of verse 7 rather than as its endpoint?
+2. How do the explanatory clauses and subsequent promises constrain, without erasing, the severe word "hated" in verse 4?
+3. Why does the sermon apply "no place for refuge" to both Nephite flight and future Lamanite scattering?
+4. Does the promise to prolong a people's days imply divine approval? How does "notwithstanding their iniquity" in verse 10 qualify that conclusion?
+5. What is gained or lost if the "they" who buried weapons in verse 9 is identified specifically with the Anti-Nephi-Lehies of [[Alma 24]]?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the accountability argument with [[Alma 9]], the weapon-burial narrative with [[Alma 24]], and the scattering-and-return sequence with [[Deuteronomy 30]]. The English warning formulas can also be compared carefully with [[Matthew 23]] and [[Matthew 24]], while keeping the observable verbal relationship separate from competing explanations of how it arose.
 <!-- SG:END further-study -->
