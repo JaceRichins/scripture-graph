@@ -130,7 +130,7 @@ The chapter repeatedly contrasts speech with imposed silence. Korihor succeeds t
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Intertextuality
 > Alma 30 and Jacob 7 exhibit a substantial narrative pattern: an opponent challenges prophecy about Christ, demands a sign, is struck by divine power, confesses deception, and dies. This is strong evidence of literary relationship or deliberate typological patterning, but it does not determine whether the similarity reflects repeated history, editorial shaping, a conventional cautionary narrative, or direct literary reuse.
-> — strength 0.7 · confidence 0.9 · confirmed but ending parallel overstated · [[Literary Intertextuality in Alma 30|full dossier]]
+> — strength 0.6 · confidence 0.9 · confirmed but ending parallel overstated · [[Literary Intertextuality in Alma 30|full dossier]]
 
 > [!evidence] Internal Legal/Political Statement *(tentative)*
 > The chapter's description of a law that criminalizes only conduct and not belief (Alma 30:7-11) is cited by some readers as evidence of a sophisticated ancient legal distinction, while critics note the passage's articulation of neutral, equal-grounds treatment of belief reads similarly to post-Enlightenment religious-liberty language current in Joseph Smith's own time and place.

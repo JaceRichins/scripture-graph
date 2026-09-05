@@ -43,6 +43,8 @@ _Not yet developed._
 - **82 BC** — Alma and Amulek preach at Ammonihah · [[Alma 9]] · [[100-1 BC]] *(approximate)*
 - **81 BC** — Church established at Sidom · [[Alma 15]] · [[100-1 BC]] *(approximate)*
 - **81 BC–77 BC** — Destruction, rescue, and expansion of the church · [[Alma 16]] · [[100-1 BC]] *(approximate)*
+- **74 BC** — Mission to reclaim the Zoramites · [[Alma 31]] · [[100-1 BC]] *(approximate)*
+- **74 BC** — Amulek teaches the afflicted Zoramites · [[Alma 34]] · [[100-1 BC]] *(approximate)*
 - **74 BC** — Alma among the Zoramites; the seed of faith · [[Alma 31]] · [[Alma 32]] · [[Alma 34]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

@@ -120,7 +120,7 @@ The chapter also repeatedly expands its horizon: one speaker, every people, all 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Coherence
 > Repeated vocabulary concerning wish, desire, allotment, calling, glory, remembrance, and joy produces a coherent progression from imagined universal influence to contentment in a particular calling and shared joy in others' success. This supports purposeful literary organization.
-> — strength 0.5 · confidence 0.9 · Observable coherence; authorial and historical implications disputed · [[Literary Coherence in Alma 29|full dossier]]
+> — confidence 0.9 · Observable coherence; authorial and historical implications disputed · [[Literary Coherence in Alma 29|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

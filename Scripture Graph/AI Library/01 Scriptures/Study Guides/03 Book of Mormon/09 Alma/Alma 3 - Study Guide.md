@@ -104,11 +104,11 @@ The editorial sentence "Now we will return again to the Amlicites" in verse 13 e
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Ideology And Identity
 > Verses 6–10 are strong textual evidence that this narrator uses embodied, hereditary, religious, and social categories together to explain population boundaries. They should therefore be read candidly as racialized boundary-making language, while recognizing that the precise nature and historical referent of the reported skin difference remain unresolved.
-> — strength 0.9 · confidence 0.9 · strong textual basis; analytical terminology qualified · [[Narrative Ideology And Identity in Alma 3|full dossier]]
+> — confidence 0.9 · strong textual basis; analytical terminology qualified · [[Narrative Ideology And Identity in Alma 3|full dossier]]
 
 > [!evidence] Internal Source Claim
 > Alma 3:12 is evidence that the narrator presents Nephite record keepers as custodians of true information about both Nephites and Lamanites. As self-attestation within the record, however, it is not independent corroboration of that claimed accuracy.
-> — strength 0.4 · confidence 1.0 · self-attestation verified; corroborative value limited · [[Internal Source Claim in Alma 3|full dossier]]
+> — strength 0.1 · confidence 0.9 · self-attestation verified; corroborative value limited · [[Internal Source Claim in Alma 3|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

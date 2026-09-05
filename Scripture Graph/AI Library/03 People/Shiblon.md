@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **74 BC** — Mission to reclaim the Zoramites · [[Alma 31]] · [[100-1 BC]] *(approximate)*
 - **74 BC** — Alma counsels Shiblon · [[Alma 38]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

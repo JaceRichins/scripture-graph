@@ -106,7 +106,7 @@ Verse 5 catalogs grief through a chain of specific kinship pairs—widow/husband
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Literary Evidence
 > The repeated formula 'and thus we see' explicitly marks verses 13–14 as narrator-supplied lessons drawn from the preceding history. This is strong internal evidence that the chapter is didactic narration rather than an unmediated battle report.
-> — strength 0.9 · confidence 0.9 · strong internal literary evidence · [[Internal Literary Evidence in Alma 28|full dossier]]
+> — confidence 0.9 · strong internal literary evidence · [[Internal Literary Evidence in Alma 28|full dossier]]
 
 > [!evidence] Textual Pattern / Redaction Criticism *(tentative)*
 > The 'thus we see' formula in Alma 28:13-14 is part of a recurring Nephite/Mormon editorial device that closes narrated episodes with a moralizing summary; the verified text-overlap index links Alma 28 to other chapters (Alma 30, Alma 43, Alma 47, Alma 35, Helaman 11, Ether 11) at the level of 1-2 shared verses, consistent with this being a stylistic/redactional pattern rather than a set of chapter-specific thematic parallels.

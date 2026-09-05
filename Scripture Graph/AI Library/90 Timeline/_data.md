@@ -7122,6 +7122,83 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-31-69ca0956",
+   "t": "Mission to reclaim the Zoramites",
+   "y0": -74,
+   "y1": -74,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates Alma's mission to the Zoramites to about 74 B.C.",
+   "chapters": [
+    "Alma 31"
+   ],
+   "people": [
+    "Alma",
+    "Amulek",
+    "Shiblon",
+    "Corianton"
+   ],
+   "places": [
+    "Antionum",
+    "Zarahemla"
+   ],
+   "things": [
+    "Rameumptom"
+   ]
+  },
+  {
+   "id": "r-alma-32-bd1de759",
+   "t": "Alma preaches humility and faith to the poor at Onidah",
+   "y0": -74,
+   "y1": -74,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Official chapter heading places this discourse at about 74 B.C., consistent with the surrounding reign-of-judges chronology in Alma's record.",
+   "chapters": [
+    "Alma 32"
+   ],
+   "people": [
+    "Alma"
+   ],
+   "places": [
+    "hill Onidah"
+   ]
+  },
+  {
+   "id": "r-alma-34-38c2f0de",
+   "t": "Amulek teaches the afflicted Zoramites",
+   "y0": -74,
+   "y1": -74,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns the discourse to approximately 74 B.C.; the individual verses do not state that date.",
+   "chapters": [
+    "Alma 34"
+   ],
+   "people": [
+    "Amulek",
+    "Alma"
+   ]
+  },
+  {
    "id": "r-alma-38-72c141f1",
    "t": "Alma counsels Shiblon",
    "y0": -74,

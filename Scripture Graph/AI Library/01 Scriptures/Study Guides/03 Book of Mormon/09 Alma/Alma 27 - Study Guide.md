@@ -127,11 +127,11 @@ The migration can also be compared with an [[Exodus and Deliverance]] pattern: p
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Characterization
 > Within the narrative, the converts' former murders, present repentance, refusal to kill, honesty, faithfulness, and lack of terror before death form a coherent portrait of moral transformation.
-> — strength 0.9 · confidence 1.0 · Broadly affirmed as narrative characterization · [[Narrative Characterization in Alma 27|full dossier]]
+> — confidence 1.0 · Broadly affirmed as narrative characterization · [[Narrative Characterization in Alma 27|full dossier]]
 
 > [!evidence] Textual And Ethical
 > The chapter provides strong textual evidence that the people of Ammon maintain an enduring refusal to shed blood or take up arms, rooted in repentance and abhorrence of killing. Because the wording repeatedly concerns violence against their 'brethren' and this community's particular history, the passage alone does not settle whether the narrator teaches universal pacifism for every person and circumstance.
-> — strength 0.9 · confidence 1.0 · Strong textual observation; universal application disputed · [[Textual And Ethical in Alma 27|full dossier]]
+> — strength 0.5 · confidence 0.9 · Strong textual observation; universal application disputed · [[Textual And Ethical in Alma 27|full dossier]]
 
 > [!evidence] Intertextual Echo *(tentative)*
 > The phrasing 'death was swallowed up ... by the victory of Christ over it' (Alma 27:28) resembles 1 Corinthians 15:54's resurrection language, but this may reflect shared King James idiom available to the translation rather than a deliberate intertextual allusion within the narrative.
