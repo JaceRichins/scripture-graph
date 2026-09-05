@@ -23,7 +23,11 @@ Scripture: [[Colossians 2]] · My notes: [[Colossians 2 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Pastoral concern and purpose (2:1–5):** comfort, unity in love, understanding, and protection from persuasive deception.
+2. **Life rooted in Christ (2:6–10):** continued faith, thanksgiving, warning, Christ's fulness, and believers' completeness in him.
+3. **Participation in Christ's victory (2:11–15):** spiritual circumcision, [[Baptism]], resurrection life, forgiveness, cancellation, and triumph.
+4. **Freedom from condemning claims (2:16–19):** food and calendar judgments, angel worship, false humility, and failure to hold the Head.
+5. **Death to worldly rudiments (2:20–23):** criticism of perishable, humanly imposed restrictions that have an appearance of wisdom.
 <!-- SG:END structure -->
 
 ## People
@@ -44,17 +48,31 @@ _Not yet developed._
 - [[Colossians 4]] — 1 footnote cross-reference (from [[Colossians 2#^col-2-1|Colossians 2:1]])
 - [[Revelation 1]] — 1 footnote cross-reference (from [[Colossians 2#^col-2-1|Colossians 2:1]])
 - [[1 Corinthians 2]] — 1 footnote cross-reference (from [[Colossians 2#^col-2-3|Colossians 2:3]])
+- [[Ephesians 2]] — 0 parallel verses
+- [[Ephesians 4]] — 0 parallel verses
+- [[Romans 6]] — 0 parallel verses
+- [[Galatians 4]] — 0 parallel verses
+- [[Hebrews 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Education and Learning]]
+- [[The Godhead]]
+- [[Law of Moses]]
+- [[Crucifixion of Jesus Christ]]
+- [[Repentance and Forgiveness]]
+- [[Jesus Christ (Gospel Topic)]]
 - [[Faith]] *(keyword match — unconfirmed)*
-- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter joins [[Faith]], [[Baptism]], and [[Resurrection]] rather than treating them as rivals: believers rise with Christ through faith in God's operation (2:12). Their movement from death in sins to life with Christ is accompanied by forgiveness (2:13), linking new life with [[Repentance and Forgiveness]].
+
+Colossians 2:9 is a major statement about Christ and [[The Godhead]], but the verse should first be allowed its own emphasis: divine fulness dwells in Christ bodily. Verses 9–10 then ground the believers' completeness in him and his supremacy over every principality and power.
+
+The chapter's criticism of regulations is contextual. It targets judgment, human commandments, worldly rudiments, and bodily neglect detached from Christ. It should not be generalized into a rejection of every divinely authorized practice or every use of the word [[Ordinances]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -82,25 +100,42 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated expressions "in him" and "with him" bind the chapter's argument together: believers walk, are rooted, are built up, and are complete **in him**; they are buried, raised, and made alive **with him**. This grammar emphasizes participation and dependence rather than mere imitation.
+
+Two vocabulary items are harder than the KJV's plain wording suggests. "[[The Godhead]]" (v.9) translates a Greek term for the divine essence itself, supporting a strong claim about Christ's deity — but exactly what that establishes about his relationship to the Father is a matter of later doctrinal synthesis, not settled by the word alone. "Rudiments of the world" (vv.8, 20) renders a term (Greek *stoicheia*) whose sense is genuinely disputed among scholars — elementary teachings, or elemental cosmic powers — and the KJV's neutral wording does not decide the question.
+
+The phrase "handwriting of ordinances" (v.14) is likewise difficult. The surrounding verbs — blotting out, taking away, nailing to the cross — clearly communicate cancellation, but the phrase alone does not identify with certainty whether the cancelled object is a debt record, a condemning decree, the Mosaic law as a whole, or some combination.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Two contrasting systems shape the chapter. One is centered on Christ: rootedness, fulness, life, forgiveness, nourishment, cohesion, and growth. The other is marked by enticing words, vain deceit, human tradition, judgment, visionary pretension, false humility, and perishable restrictions. The contrast culminates in the difference between “holding the Head” (2:19) and submitting to humanly framed prohibitions (2:20–23).
+
+The body imagery also works in two distinct but related ways. Christ possesses divine fulness bodily (2:9), while the community is a body nourished and joined through its Head (2:19). Bodily existence is therefore not inherently disparaged; what is questioned is bodily neglect presented as spiritual wisdom.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary And Thematic Pattern
+> Repeated claims of wisdom, fulness, completeness, resurrection life, forgiveness, victory, and bodily growth being located in or mediated through Christ support a reading in which Christ's sufficiency is the chapter's organizing answer to rival claims and regulations.
+> — strength 0.8 · confidence 0.9 · sound literary-thematic pattern, properly scoped · [[Internal Literary And Thematic Pattern in Colossians 2|full dossier]]
+
+> [!evidence] Historical Reconstruction From Internal Textual Clues *(tentative)*
+> The cluster of warnings in this chapter (calendar/dietary rules v.16, angel worship v.18, ascetic 'touch not, taste not, handle not' rules vv.20-22, human 'philosophy' v.8) is used by New Testament scholars as indirect evidence that a specific syncretistic teaching combining Jewish ceremonial practice, asceticism, and angelic veneration was circulating at Colossae.
+> — strength 0.4 · confidence 0.5 · disputed historical reconstruction
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+1. Which descriptions in 2:6–7 explain what it means to “walk” in Christ?
+2. How do baptism, faith, God's action, forgiveness, and resurrection life relate in 2:11–13?
+3. What does the cancellation imagery of 2:14 clearly establish, and which proposed identifications of the “handwriting” go beyond the wording?
+4. Does 2:16 primarily address the observances themselves, condemnation by outsiders, or both?
+5. How can humility become a performance that is actually associated with pride, as in 2:18 and 2:23?
+6. What practical difference does “holding the Head” make when evaluating teachings that appear wise?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the baptismal death-and-resurrection imagery with [[Romans 6]], the cross-and-ordinances language with [[Ephesians 2]], and the Head-and-body growth metaphor with [[Ephesians 4]]. [[Galatians 4]] provides a useful comparison for “rudiments of the world” and calendrical observance, while [[Hebrews 10]] offers another use of “shadow” language. These parallels clarify vocabulary but should not be assumed to settle every interpretive dispute in Colossians 2.
 <!-- SG:END further-study -->
