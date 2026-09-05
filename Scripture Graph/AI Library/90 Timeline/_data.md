@@ -10955,6 +10955,26 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-heb-5-22e12c3f",
+   "t": "Composition of the Epistle to the Hebrews",
+   "y0": 60,
+   "y1": 95,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Author and precise date are unknown and disputed; many scholars favor a date before 70 CE partly on the (disputed) argument that Hebrews 5:1-3 and related passages describe priestly sacrifice in ongoing present tense, implying the Jerusalem temple was still standing.",
+   "chapters": [
+    "Hebrews 5"
+   ],
+   "people": [
+    "Author of Hebrews (anonymous)"
+   ]
+  },
+  {
    "id": "r-hel-1-9329c390",
    "t": "Succession crisis and Lamanite invasion of Zarahemla",
    "y0": -52,
