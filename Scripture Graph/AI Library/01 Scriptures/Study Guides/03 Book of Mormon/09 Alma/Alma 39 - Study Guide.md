@@ -17,13 +17,18 @@ Scripture: [[Alma 39]] · My notes: [[Alma 39 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Sexual sin is an abomination—Corianton’s sins kept the Zoramites from receiving the word—Christ’s redemption is retroactive in saving the faithful who preceded it. About 74 B.C.
+Alma's third and most pointed address to a son follows his commendation of Shiblon in [[Alma 38]]. He rebukes Corianton for boasting in his own strength, abandoning his mission among the Zoramites, and pursuing a woman named Isabel in the land of Siron (vv.1-4) — misconduct serious enough that the Zoramites' unwillingness to believe Alma's preaching is directly tied to what they witnessed in Corianton's conduct (v.11). The chapter does not end in condemnation: Alma repeatedly calls Corianton to repent, to seek counsel from his elder brothers, and to repair the relational harm he caused (vv.9-14). Its final section (vv.15-19) shifts from correction to doctrine, defending why the [[Plan of Salvation]] and the promise of Christ's coming needed to be taught long in advance: every soul, in every generation, is equally precious to God.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Verses 1–4:** Contrast with a faithful brother and specification of the son's failures.
+
+2. **Verses 5–8:** Gravity of sin, distinctions concerning forgiveness, and warning about [[Final Judgment]].
+
+3. **Verses 9–14:** Concrete directions for [[Repentance and Forgiveness]], including restraint, counsel, changed influence, return, acknowledgment, and rejection of worldly vanity.
+
+4. **Verses 15–19:** Restoration of the chapter's missionary horizon through prophecy of Christ and a defense of teaching redemption before his coming.
 <!-- SG:END structure -->
 
 ## People
@@ -51,19 +56,28 @@ _Not yet developed._
 - [[Alma 37]] — 2 parallel verses, e.g. [[Alma 39#^alma-39-9|Alma 39:9]] ↔ [[Alma 37#^alma-37-43|Alma 37:43]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[Alma 39#^alma-39-9|Alma 39:9]] ↔ [[Alma 9#^alma-9-12|Alma 9:12]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[Alma 39#^alma-39-9|Alma 39:9]] ↔ [[3 Nephi 11#^3ne-11-38|3 Nephi 11:38]]
+- [[Alma 38]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Chastity]]
+- [[Repentance and Forgiveness]]
+- [[Final Judgment]]
+- [[Pride]]
+- [[Satan and Temptation]]
+- [[Kingdom of God]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter holds moral seriousness and the possibility of repentance together. Its careful wording matters: knowing denial of the Holy Ghost is called unpardonable; forgiveness for murder against divine light and knowledge is called difficult; the son himself is repeatedly commanded to repent. Thus the passage should not be summarized as declaring his sin unforgivable.
+
+Repentance here has both inward and outward dimensions. The son must turn to the Lord with all his mind, might, and strength, but he must also stop harming others, return to those affected, and acknowledge his wrong. That specific command supports the principle that repentance may require repair of social harm, though it does not prescribe identical public disclosure in every case.
+
+Verses 15–19 connect [[Missionary Work]] with the [[Atonement of Jesus Christ]]. The future coming of Christ does not make knowledge of redemption irrelevant to earlier people, because their souls are equally precious and their need for salvation is equally real.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -89,25 +103,37 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The antecedent of "these things" in verse 5 is important and not completely explicit. The plural can naturally reach back across the cluster of actions in verses 2–4: boasting, forsaking ministry, and going after Isabel. Readers may reasonably see sexual wrongdoing as central, but the grammar does not compel the claim that verse 5 isolates one sexual act and ranks every form of sexual sin immediately below murder.
+
+The command to "cross yourself" appears twice in verse 9. Its immediate parallels—forsaking sins and no longer following the lusts of the eyes—favor the sense of restraining or denying sinful desire. Nothing in the verse requires a reading involving physical self-punishment.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter builds to a chain of three parallel rhetorical questions in vv.17-19 ('is not... Is it not... Is it not...'), a persuasive device pressing home the timeless value of gospel knowledge. Sustained direct address ('my son') and rhetorical questioning recur throughout the chapter. Alma uses a similar interrogative style addressing a congregation in [[Alma 5]] — a verified textual parallel to this chapter — though rhetorical questions are a common device across Book of Mormon sermons generally, so the resemblance is suggestive of Alma's habitual teaching manner rather than proof of a distinctively personal signature.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Textual Evidence
+> Alma 39 supplies direct textual evidence that its speaker considers knowledge of Christ and the plan of redemption necessary before Christ's coming. The argument appeals to the equal preciousness of present and future souls and to God's ability to send an angel in either period.
+> — strength 0.8 · confidence 0.9 · sound internal-textual argument, not external consensus · [[Internal Textual Evidence in Alma 39|full dossier]]
+
+> [!evidence] Internal Doctrinal Argument *(tentative)*
+> Alma teaches, via a chain of rhetorical questions, that the saving efficacy of Christ's atonement and the value of a soul's knowledge of it are not contingent on chronological proximity to the coming of Christ — a soul before Christ's coming is 'as precious' as one born after it.
+> — strength 0.5 · confidence 0.6 · overstates systematic doctrine
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What specific question or doubt of Corianton's is Alma answering in vv.15-19 — is it recoverable from the text, or only inferable from Alma's response?
+- Does 'these things' in verse 5 refer narrowly to Corianton's pursuit of Isabel, or to the whole cluster of boasting, abandoned ministry, and misconduct in vv.2-4? What changes about the chapter's meaning under each reading?
+- To what extent does Alma hold Corianton personally responsible for the Zoramites' unbelief (v.11), versus treating their rejection as a pre-existing disposition merely triggered by his conduct?
+- Why does Alma pair inward repentance ('turn to the Lord with all your mind, might, and strength,' v.13) with an outward, relational step — returning to acknowledge fault to those he harmed?
+- What assumptions about time, revelation, and the equal worth of souls underlie the rhetorical questions of vv.17-19?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare [[Alma 38]], the companion address to Corianton's brother Shiblon, whose steadiness frames the opening rebuke (v.1). The chapter also shows verified textual overlap with [[Alma 36]] (note the shared 'harrow' language), [[Alma 5]], [[Alma 37]], [[Mosiah 17]], and [[Alma 9]] — these overlaps were not closely examined in this round of study and are worth a closer look in a future pass. For the doctrinal turn in vv.15-19, study alongside [[Atonement of Jesus Christ]] and [[Missionary Work]].
 <!-- SG:END further-study -->
