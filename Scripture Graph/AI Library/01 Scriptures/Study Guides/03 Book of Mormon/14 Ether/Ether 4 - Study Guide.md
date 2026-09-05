@@ -119,15 +119,15 @@ A broader movement runs from concealment to invitation. The opening emphasizes w
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Intertext
 > Ether 4:18 closely parallels Mark 16:16–17 in sequence and wording: belief and baptism lead to salvation, unbelief leads to condemnation, and signs follow believers. The overlap securely establishes an English-text intertext, although it does not by itself determine how or when the relationship arose.
-> — strength 0.9 · confidence 1.0 · English-text intertext accepted; historical explanation disputed · [[Textual Intertext in Ether 4|full dossier]]
+> — strength 0.8 · confidence 1.0 · English-text intertext accepted; historical explanation disputed · [[Textual Intertext in Ether 4|full dossier]]
 
 > [!evidence] Literary Coherence
 > The recurrence and development of the veil motif across Ether 3–4 is good evidence of literary coherence between the vision narrative and its interpretation: the barrier crossed by the brother of Jared becomes a figure for the unbelief later audiences must overcome.
-> — strength 0.7 · confidence 0.9 · Literary coherence accepted; origin remains disputed · [[Literary Coherence in Ether 4|full dossier]]
+> — confidence 0.9 · Literary coherence accepted; origin remains disputed · [[Literary Coherence in Ether 4|full dossier]]
 
 > [!evidence] Doctrinal-Textual
 > In Ether 4:12, Christ declares 'I am the Father, I am the light, and the life, and the truth of the world.' Read in isolation, this self-identification as 'the Father' raises a genuine interpretive question about the Godhead that this verse alone does not resolve.
-> — strength 0.4 · confidence 1.0 · Text accepted; theological interpretation disputed · [[Doctrinal-Textual in Ether 4|full dossier]]
+> — strength 0.2 · confidence 1.0 · Text accepted; theological interpretation disputed · [[Doctrinal-Textual in Ether 4|full dossier]]
 
 > [!evidence] Intertextual Verbal Parallel *(tentative)*
 > The title given to Christ in Ether 4:7 — 'Jesus Christ, the Son of God, the Father of the heavens and of the earth' — verbally overlaps (per the verified index) with similar Father/Son language for Christ in Mosiah 3, suggesting this compound title was a recurring Nephite Christological formula rather than a one-off phrase.

@@ -9814,6 +9814,59 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ex-13-d91b50b0",
+   "t": "Israel's departure from Egypt and early wilderness journey",
+   "y0": -1446,
+   "y1": -1445,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology (via 1 Kings 6:1) places the Exodus c. 1446 BC; many historians instead favor a 13th-century BC (Ramesside) date, and the event's historicity and precise date remain debated among scholars.",
+   "chapters": [
+    "Exodus 13"
+   ],
+   "people": [
+    "Moses",
+    "Joseph (of Egypt)"
+   ],
+   "places": [
+    "Egypt",
+    "Canaan"
+   ]
+  },
+  {
+   "id": "r-ex-19-82a5c062",
+   "t": "Israel's arrival at Sinai and the covenant theophany",
+   "y0": -1446,
+   "y1": -1250,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Occurs in the third month after the Exodus (19:1); absolute dating of the Exodus itself is disputed between an early date (~1446 BC, based on 1 Kings 6:1) and a late/Ramesside date (~13th century BC), so the range spans both scholarly positions rather than asserting one.",
+   "chapters": [
+    "Exodus 19"
+   ],
+   "people": [
+    "Moses",
+    "Aaron"
+   ],
+   "places": [
+    "Mount Sinai"
+   ],
+   "things": [
+    "Mosaic covenant"
+   ]
+  },
+  {
    "id": "r-ex-24-54fbe531",
    "t": "Sinai covenant ceremony and Moses's ascent",
    "y0": -1491,

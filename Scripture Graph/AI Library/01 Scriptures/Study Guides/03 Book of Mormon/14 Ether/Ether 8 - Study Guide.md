@@ -115,15 +115,15 @@ The recurrent terms **power**, **gain**, **murder**, **blood**, and **destructio
 <!-- SG:BEGIN evidence -->
 > [!evidence] Contextual Lexical Evidence
 > The chapter's contextual description strongly supports reading its condemned 'secret combinations' as coercive networks organized for power, gain, violence, plunder, deception, and suppression of freedom—not as a categorical condemnation of every confidential association.
-> — strength 0.9 · confidence 1.0 · Strong contextual lexical evidence · [[Contextual Lexical Evidence in Ether 8|full dossier]]
+> — confidence 1.0 · Strong contextual lexical evidence · [[Contextual Lexical Evidence in Ether 8|full dossier]]
 
 > [!evidence] Literary Coherence
 > The narrative details and Moroni's warning are tightly coordinated around the repeated motives of power, gain, secrecy, murder, and destruction. This alignment strongly supports reading the episode as deliberately constructed or edited moral history rather than an incidental court anecdote.
-> — strength 0.9 · confidence 1.0 · Broadly accepted literary observation · [[Literary Coherence in Ether 8|full dossier]]
+> — confidence 1.0 · Broadly accepted literary observation · [[Literary Coherence in Ether 8|full dossier]]
 
 > [!evidence] Intertextual Thematic Cluster
 > Ether 8 and Helaman 6 share a distinctive conceptual cluster: Satanic influence upon hearts, traditions traced to Cain, secret oaths, murder and plunder for gain, and the destruction of societies. This is strong evidence of deliberate conceptual continuity within the Book of Mormon's editorial presentation.
-> — strength 0.8 · confidence 0.9 · Accepted observation; provenance implications remain disputed · [[Intertextual Thematic Cluster in Ether 8|full dossier]]
+> — confidence 0.9 · Accepted observation; provenance implications remain disputed · [[Intertextual Thematic Cluster in Ether 8|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

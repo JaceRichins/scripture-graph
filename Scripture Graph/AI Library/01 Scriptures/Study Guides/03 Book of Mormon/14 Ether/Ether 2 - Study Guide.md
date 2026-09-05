@@ -118,7 +118,7 @@ The chapter alternates narrative with editorial application: vv.1-8 narrate move
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Voice And Editorial Framing
 > The shift to statements such as "we can behold" and an address to "O ye Gentiles" is strong textual evidence that Ether 2:9–12 is a narrator's application of the Jaredite account to later readers. In that application, the narrator explicitly identifies the God of the land as Jesus Christ.
-> — strength 0.8 · confidence 0.9 · accepted within LDS BoM scholarship, not universal · [[Narrative Voice And Editorial Framing in Ether 2|full dossier]]
+> — confidence 0.9 · accepted within LDS BoM scholarship, not universal · [[Narrative Voice And Editorial Framing in Ether 2|full dossier]]
 
 > [!evidence] Internal Textual Consistency *(tentative)*
 > The near-verbatim recurrence of the choice-land/swept-off covenant formula across Jaredite (Ether), Nephite (Alma), and Lehite (2 Nephi) material within the Book of Mormon is evidence of strong internal theological/literary consistency across the book's constituent records.

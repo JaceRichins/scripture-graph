@@ -91,7 +91,7 @@ The repeated phrase 'driven forth' underscores that even the storm's violence mo
 <!-- SG:BEGIN evidence -->
 > [!evidence] Explicit Literary Allusion
 > The explicit comparison of the Jaredite vessels to Noah's ark is strong evidence that the account invites readers to understand the voyage as an ark-and-deliverance narrative. It is not independent evidence that the voyage occurred historically or that the record is ancient.
-> — strength 0.8 · confidence 1.0 · model of correctly layered evidence · [[Explicit Literary Allusion in Ether 6|full dossier]]
+> — confidence 1.0 · model of correctly layered evidence · [[Explicit Literary Allusion in Ether 6|full dossier]]
 
 > [!evidence] Literary Type-Scene Parallel *(tentative)*
 > The crossing narrative (storm sent by God, mariners buried by waves, a cry to the Lord, deliverance, and grateful praise upon reaching a safe haven) matches the 'sailors in distress' type-scene found in biblical poetry, most notably Psalm 107's description of sailors who cry to the Lord in a storm and are brought to their desired haven. This supports reading Ether 6 as employing a recognizable ancient/biblical narrative pattern for describing divine deliverance at sea.

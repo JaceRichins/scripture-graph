@@ -40,6 +40,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **1491 BC** — Sinai covenant ceremony and Moses's ascent · [[Exodus 24]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The Exodus from Egypt; the Red Sea · [[Exodus 12]] · [[Exodus 14]] · [[1500-1401 BC]] *(traditional dating)*
+- **1446 BC–1250 BC** — Israel's arrival at Sinai and the covenant theophany · [[Exodus 19]] · [[1500-1401 BC]] *(approximate)*
 - **1446 BC–1406 BC** — Exodus and wilderness rebellions recalled in Psalm 106 · [[Psalm 106]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC–1444 BC** — Aaron's Inaugural Sacrifices at the Wilderness Tabernacle · [[Leviticus 9]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC–1444 BC** — Consecration of the Levites for tabernacle service · [[Numbers 8]] · [[1500-1401 BC]] *(traditional dating)*
