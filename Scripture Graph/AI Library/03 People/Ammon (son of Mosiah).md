@@ -45,6 +45,8 @@ _Not yet developed._
 - **90 BC–77 BC** — Mission among the Lamanites recalled by Ammon · [[Alma 26]] · [[100-1 BC]] *(approximate)*
 - **84 BC–77 BC** — The Anti-Nephi-Lehies bury their swords · [[Alma 23]] · [[Alma 24]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **77 BC** — The people of Ammon find refuge in Jershon · [[Alma 27]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **77 BC–76 BC** — Battle and close of the fifteenth year · [[Alma 28]] · [[100-1 BC]] *(approximate)*
+- **76 BC–74 BC** — Korihor's public ministry, trial, and death · [[Alma 30]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

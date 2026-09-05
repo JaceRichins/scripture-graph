@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **87 BC** — Amlicite rebellion and battles near Zarahemla · [[Alma 2]] · [[100-1 BC]] *(approximate)*
+- **87 BC–86 BC** — Aftermath of the Amlicite war and second Lamanite incursion · [[Alma 3]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

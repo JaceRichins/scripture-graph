@@ -7010,6 +7010,118 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-28-38ef6a25",
+   "t": "Battle and close of the fifteenth year",
+   "y0": -77,
+   "y1": -76,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns about 77–76 B.C.; Alma 28:7 and Alma 28:9 internally place the account at the end of the fifteenth year of the judges.",
+   "chapters": [
+    "Alma 28"
+   ],
+   "people": [
+    "Ammon (son of Mosiah)",
+    "Nephi (son of Lehi)",
+    "Lehi (father of Nephi)"
+   ],
+   "places": [
+    "Jershon",
+    "Zarahemla"
+   ],
+   "things": [
+    "reign of the judges"
+   ]
+  },
+  {
+   "id": "r-alma-29-a0a800e9",
+   "t": "Alma reflects on missionary desire and shared joy",
+   "y0": -76,
+   "y1": -76,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns the discourse to about 76 B.C.; this is an approximate editorial chronology rather than an independently demonstrated absolute date.",
+   "chapters": [
+    "Alma 29"
+   ],
+   "people": [
+    "Alma",
+    "Ammon and his brethren"
+   ],
+   "places": [
+    "land of Nephi"
+   ],
+   "things": [
+    "missionary calling"
+   ]
+  },
+  {
+   "id": "r-alma-3-4570edda",
+   "t": "Aftermath of the Amlicite war and second Lamanite incursion",
+   "y0": -87,
+   "y1": -86,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Chapter heading and Alma 3:25, 27 place these events within, and closing, the fifth year of the reign of the judges.",
+   "chapters": [
+    "Alma 3"
+   ],
+   "people": [
+    "Alma",
+    "Amlicites",
+    "Lamanites"
+   ],
+   "places": [
+    "Zarahemla",
+    "Sidon"
+   ]
+  },
+  {
+   "id": "r-alma-30-6483cd9a",
+   "t": "Korihor's public ministry, trial, and death",
+   "y0": -76,
+   "y1": -74,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Dated by the text to the latter part of the 17th year of the reign of the judges through its aftermath; matches the published chapter heading's approximate range.",
+   "chapters": [
+    "Alma 30"
+   ],
+   "people": [
+    "Korihor",
+    "Alma",
+    "Ammon (son of Mosiah)",
+    "Giddonah"
+   ],
+   "places": [
+    "Zarahemla",
+    "Jershon"
+   ]
+  },
+  {
    "id": "r-alma-38-72c141f1",
    "t": "Alma counsels Shiblon",
    "y0": -74,

@@ -36,6 +36,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **76 BC–74 BC** — Korihor's public ministry, trial, and death · [[Alma 30]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **74 BC** — Korihor demands a sign · [[Alma 30]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

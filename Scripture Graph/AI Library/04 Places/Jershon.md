@@ -37,6 +37,8 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **77 BC** — The people of Ammon find refuge in Jershon · [[Alma 27]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **77 BC–76 BC** — Battle and close of the fifteenth year · [[Alma 28]] · [[100-1 BC]] *(approximate)*
+- **76 BC–74 BC** — Korihor's public ministry, trial, and death · [[Alma 30]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **74 BC** — Moroni's first recorded campaign against Zerahemnah · [[Alma 43]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

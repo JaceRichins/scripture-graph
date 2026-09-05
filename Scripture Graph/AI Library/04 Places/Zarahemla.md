@@ -47,7 +47,7 @@ _Not yet developed._
 - **90 BC–77 BC** — Mission among the Lamanites recalled by Ammon · [[Alma 26]] · [[100-1 BC]] *(approximate)*
 - **87 BC** — Amlicite rebellion and battles near Zarahemla · [[Alma 2]] · [[100-1 BC]] *(approximate)*
 - **87 BC** — Amlicite rebellion and Nephite-Lamanite war (Alma 2) · [[Alma 2]] · [[100-1 BC]] *(Book of Mormon internal dating)*
-- **83 BC** — Alma preaches repentance at Zarahemla · [[Alma 5]] · [[100-1 BC]] *(approximate)*
+- **87 BC–86 BC** — Aftermath of the Amlicite war and second Lamanite incursion · [[Alma 3]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

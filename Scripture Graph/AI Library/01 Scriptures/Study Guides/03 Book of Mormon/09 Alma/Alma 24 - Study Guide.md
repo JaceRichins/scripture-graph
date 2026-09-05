@@ -68,6 +68,8 @@ Scripture: [[Alma 24]] · My notes: [[Alma 24 - My Notes]]
 - [[1 Samuel 6]] — 1 parallel verse, e.g. [[Alma 24#^alma-24-23|Alma 24:23]] ↔ [[1 Samuel 6#^1sam-6-12|1 Samuel 6:12]]
 - [[2 Kings 22]] — 1 parallel verse, e.g. [[Alma 24#^alma-24-23|Alma 24:23]] ↔ [[2 Kings 22#^2kgs-22-2|2 Kings 22:2]]
 - [[Alma 25]] — 0 parallel verses
+- [[Alma 26]] — 0 parallel verses
+- [[Alma 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -128,7 +130,7 @@ The chapter sustains an extended metaphor of stained versus bright swords (vv. 1
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary And Behavioral Coherence
 > The progression from confession of murder, to public weapon burial, to willingness to die supplies strong internal evidence that this chapter portrays repentance as a costly and durable change of conduct rather than merely an emotion.
-> — strength 0.8 · confidence 0.9 · affirmed · [[Literary And Behavioral Coherence in Alma 24|full dossier]]
+> — strength 0.1 · confidence 0.9 · affirmed · [[Literary And Behavioral Coherence in Alma 24|full dossier]]
 
 > [!evidence] Narrative/Editorial Doctrine *(tentative)*
 > The narrator (traditionally identified as Mormon compiling the record) twice asserts confident assurance of salvation for the Anti-Nephi-Lehies slain without resistance, treating their deaths as proof of righteousness rather than merely reporting the event neutrally.

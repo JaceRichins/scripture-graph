@@ -57,6 +57,7 @@ Scripture: [[Alma 26]] · My notes: [[Alma 26 - My Notes]]
 - [[Alma 20]] — 0 parallel verses
 - [[Alma 24]] — 0 parallel verses
 - [[Alma 17]] — 0 parallel verses
+- [[Alma 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -123,7 +124,7 @@ The boasting exchange also has a literary shape worth noting: Aaron's rebuke (v.
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Behavioral Evidence
 > Within Ammon's argument, costly love and refusal to kill function as evidence of the converts' sincerity: he points to their love, burial of weapons, and willingness to die rather than take an enemy's life.
-> — strength 0.8 · confidence 0.9 · model evidentiary framing · [[Internal Behavioral Evidence in Alma 26|full dossier]]
+> — strength 0.1 · confidence 0.9 · model evidentiary framing · [[Internal Behavioral Evidence in Alma 26|full dossier]]
 
 > [!evidence] Internal Identity Claim *(tentative)*
 > Ammon's description of the people as a lost branch of the tree of Israel in a strange land is strong evidence for the chapter's internal theology of Israelite scattering and divine remembrance, but only weak evidence for an externally verifiable ancestry.
