@@ -8428,6 +8428,35 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-dc-13-ec4364d0",
+   "t": "Aaronic Priesthood restored near the Susquehanna River",
+   "y0": 1829,
+   "y1": 1829,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Dated May 15, 1829 per the heading tradition and Joseph Smith—History 1:68-72, describing ordination near Harmony, Pennsylvania.",
+   "chapters": [
+    "D&C 13"
+   ],
+   "people": [
+    "Joseph Smith Jr.",
+    "Oliver Cowdery",
+    "John the Baptist"
+   ],
+   "places": [
+    "Harmony, Pennsylvania"
+   ],
+   "things": [
+    "Aaronic Priesthood"
+   ]
+  },
+  {
    "id": "r-dc-131-b480bc07",
    "t": "Joseph Smith's instructions on marriage, prophecy, and spirit (1843)",
    "y0": 1843,
@@ -8525,6 +8554,84 @@ timeline module, not this file._
    ],
    "places": [
     "Kirtland Temple"
+   ]
+  },
+  {
+   "id": "r-dc-18-309daae7",
+   "t": "Quorum of the Twelve Apostles organized in Kirtland",
+   "y0": 1835,
+   "y1": 1835,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Restoration church history records the original Quorum of the Twelve Apostles chosen and blessed in Kirtland, Ohio, February 1835, presented as fulfilling D&C 18:37-39.",
+   "chapters": [
+    "D&C 18"
+   ],
+   "people": [
+    "Oliver Cowdery",
+    "David Whitmer"
+   ],
+   "places": [
+    "Kirtland, Ohio"
+   ]
+  },
+  {
+   "id": "r-dc-18-7273d31d",
+   "t": "D&C 18 given to Oliver Cowdery and David Whitmer",
+   "y0": 1829,
+   "y1": 1829,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The section heading and Joseph Smith's history date this revelation to June 1829 at Fayette, New York, prompted by Oliver Cowdery's inquiry.",
+   "chapters": [
+    "D&C 18"
+   ],
+   "people": [
+    "Oliver Cowdery",
+    "David Whitmer",
+    "Joseph Smith Jr",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Fayette, New York"
+   ]
+  },
+  {
+   "id": "r-dc-2-c2824e29",
+   "t": "Moroni quotes the Elijah prophecy to Joseph Smith",
+   "y0": 1823,
+   "y1": 1823,
+   "lane": "rs",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "visions"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Joseph Smith's account of Moroni's nighttime visits on September 21-22, 1823, recorded in Joseph Smith—History 1:29-49.",
+   "chapters": [
+    "D&C 2"
+   ],
+   "people": [
+    "Joseph Smith",
+    "Moroni",
+    "Elijah"
+   ],
+   "places": [
+    "Manchester, New York"
    ]
   },
   {

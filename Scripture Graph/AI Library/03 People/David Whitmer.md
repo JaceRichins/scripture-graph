@@ -36,7 +36,9 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 1829** — D&C 18 given to Oliver Cowdery and David Whitmer · [[D&C 18]] · [[AD 1801-1900]] *(historical)*
 - **AD 1829** — The Three and the Eight see the plates · [[D&C 17]] · [[AD 1801-1900]] *(historical)*
+- **AD 1835** — Quorum of the Twelve Apostles organized in Kirtland · [[D&C 18]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
