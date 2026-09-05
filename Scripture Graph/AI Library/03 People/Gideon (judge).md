@@ -40,6 +40,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **1380 BC–1050 BC** — The era of the judges · [[Judges 4]] · [[Judges 7]] · [[Judges 16]] · [[1400-1301 BC]] *(approximate)*
 - **87 BC** — Amlicite rebellion and Nephite-Lamanite war (Alma 2) · [[Alma 2]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **83 BC** — Alma orders the Zarahemla church and travels to Gideon · [[Alma 6]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

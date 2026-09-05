@@ -38,6 +38,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **74 BC–60 BC** — The great Nephite-Lamanite wars · [[Alma 43]] · [[Alma 46]] · [[Alma 48]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **66 BC–60 BC** — Helaman's two thousand stripling sons · [[Alma 53]] · [[Alma 56]] · [[Alma 57]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **63 BC–62 BC** — Helaman's forces retake the city of Manti by stratagem · [[Alma 58]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

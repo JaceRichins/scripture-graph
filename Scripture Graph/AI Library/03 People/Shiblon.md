@@ -38,6 +38,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **74 BC** — Mission to reclaim the Zoramites · [[Alma 31]] · [[100-1 BC]] *(approximate)*
 - **74 BC** — Alma counsels Shiblon · [[Alma 38]] · [[100-1 BC]] *(approximate)*
+- **56 BC** — Death of Moroni; sacred records pass to Shiblon · [[Alma 63]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

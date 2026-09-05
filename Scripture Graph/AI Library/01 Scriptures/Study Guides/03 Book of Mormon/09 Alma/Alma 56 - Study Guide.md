@@ -67,6 +67,7 @@ Alma 56 is an epistolary war narrative with two time levels: Moroni receives the
 - [[Alma 50]] — 2 parallel verses, e.g. [[Alma 56#^alma-56-20|Alma 56:20]] ↔ [[Alma 50#^alma-50-17|Alma 50:17]]
 - [[Alma 60]] — 1 parallel verse, e.g. [[Alma 56#^alma-56-2|Alma 56:2]] ↔ [[Alma 60#^alma-60-1|Alma 60:1]]
 - [[Alma 53]] — 0 parallel verses
+- [[Alma 58]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -119,11 +120,11 @@ The battle sequence (vv.30-54) is built as a controlled reversal: a false retrea
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Causation
 > The chapter gives a multi-causal account of the Nephite success: it invokes divine favor and extraordinary strength while also describing reinforcements, provisioning, deception, forced marches, surprise, enemy reorientation, regrouping, and encirclement. This is strong evidence that the narrative presents providence and human action together rather than treating tactics as irrelevant.
-> — strength 0.8 · confidence 0.9 · substance affirmed; numeric scoring in the original claim was overprecise · [[Internal Narrative Causation in Alma 56|full dossier]]
+> — confidence 0.9 · substance affirmed; numeric scoring in the original claim was overprecise · [[Internal Narrative Causation in Alma 56|full dossier]]
 
 > [!evidence] Internal First-Person Narrative Testimony
 > Alma 56 is strong evidence that its narrator reports the preservation and exceptional fighting of the two thousand as miraculous, but the chapter by itself is limited evidence for establishing supernatural causation outside the narrative because it supplies no independent corroboration or comparative casualty data.
-> — strength 0.3 · confidence 0.9 · well-calibrated layering of observation vs. evidentiary weight · [[Internal First-Person Narrative Testimony in Alma 56|full dossier]]
+> — strength 0.1 · confidence 0.9 · well-calibrated layering of observation vs. evidentiary weight · [[Internal First-Person Narrative Testimony in Alma 56|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

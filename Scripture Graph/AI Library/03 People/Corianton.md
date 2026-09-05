@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **74 BC** — Mission to reclaim the Zoramites · [[Alma 31]] · [[100-1 BC]] *(approximate)*
+- **56 BC–54 BC** — Hagoth builds ships; Nephites migrate to land northward · [[Alma 63]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

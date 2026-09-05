@@ -121,7 +121,7 @@ The repeated formula in verses 13–15 gives the conclusion a reciprocal cadence
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Literary Evidence
 > The chapter provides strong internal evidence that its several uses of “restoration” belong to a coherent argument: restoration to proper bodily order introduces restoration according to works and desires; a proposed reversal from sin to happiness is rejected; and the discourse concludes with matched pairs of conduct and recompense.
-> — strength 0.9 · confidence 1.0 · Strong internal evidence for a modest literary conclusion · [[Internal Literary Evidence in Alma 41|full dossier]]
+> — confidence 1.0 · Strong internal evidence for a modest literary conclusion · [[Internal Literary Evidence in Alma 41|full dossier]]
 
 > [!evidence] Linguistic/Phraseological Parallel *(tentative)*
 > Alma 41:11's description of the carnal man as being 'in the gall of bitterness and in the bonds of iniquity' closely parallels the KJV wording of Acts 8:23, where Peter tells Simon Magus he perceives him to be 'in the gall of bitterness, and in the bond of iniquity.'

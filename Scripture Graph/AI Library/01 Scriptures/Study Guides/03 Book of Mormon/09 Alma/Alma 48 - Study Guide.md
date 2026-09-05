@@ -121,7 +121,7 @@ The praise of Moroni in vv.11-18 is openly evaluative rather than neutral biogra
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Structure
 > The explicit transition from Amalickiah's deceptive acquisition of power to Moroni's preparations is strong evidence that the chapter's final form deliberately contrasts their motives and methods.
-> — strength 0.6 · confidence 0.9 · solid observation; numeric scores were overprecise · [[Literary Structure in Alma 48|full dossier]]
+> — strength 0.7 · confidence 0.9 · solid observation; numeric scores were overprecise · [[Literary Structure in Alma 48|full dossier]]
 
 > [!evidence] Archaeological/Comparative *(tentative)*
 > The specific combination of defensive works described—small forts/places of resort, earthen embankments, and encircling stone walls—corresponds to defensive architecture types documented at some Mesoamerican sites, a correspondence some LDS scholars cite as circumstantial support for an ancient, geographically situated origin of the war narrative.

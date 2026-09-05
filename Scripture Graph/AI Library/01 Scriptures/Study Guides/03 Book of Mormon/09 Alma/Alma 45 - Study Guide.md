@@ -129,7 +129,7 @@ Alma's prophecy also corresponds broadly with the later destruction narrative in
 
 > [!evidence] Narratorial Epistemic Calibration
 > The narrator's distinction among knowledge, report, supposition, and admitted ignorance is meaningful evidence of epistemic restraint in this passage. It supports reading the account as intentionally source-conscious, although it cannot verify that the disappearance occurred or determine the text's date of composition.
-> — strength 0.6 · confidence 0.9 · Textual restraint accepted; historical inference disputed · [[Narratorial Epistemic Calibration in Alma 45|full dossier]]
+> — strength 0.8 · confidence 0.9 · Textual restraint accepted; historical inference disputed · [[Narratorial Epistemic Calibration in Alma 45|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

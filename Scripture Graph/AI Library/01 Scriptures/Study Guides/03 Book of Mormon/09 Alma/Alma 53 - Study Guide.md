@@ -114,7 +114,7 @@ Readers may see a thematic contrast between strong physical defenses and the dan
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Consistency
 > The agreement among Alma 24, Alma 27, Alma 53, and Alma 56 concerning the people's conversion, anti-bloodshed covenant, Nephite protection, and the sons' military service is strong evidence of deliberate narrative continuity. As evidence about the work's historical origin, however, internal consistency has limited force because an author or editor in any period could construct or harmonize these episodes.
-> — strength 0.4 · confidence 1.0 · Strong literary observation; weak historical evidence · [[Internal Narrative Consistency in Alma 53|full dossier]]
+> — confidence 1.0 · Strong literary observation; weak historical evidence · [[Internal Narrative Consistency in Alma 53|full dossier]]
 
 > [!evidence] Internal Narrative Consistency *(tentative)*
 > The fortification method described in Alma 53:3-5 (a ditch, an earthen bank, and a timber breastwork) matches the fortification method the text attributes to Moroni earlier in Alma 49, suggesting internal consistency in how the Nephite record describes military engineering across chapters covering different years.

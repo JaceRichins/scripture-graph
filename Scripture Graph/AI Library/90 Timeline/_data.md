@@ -7705,6 +7705,122 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-58-43b21182",
+   "t": "Helaman's forces retake the city of Manti by stratagem",
+   "y0": -63,
+   "y1": -62,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Dated within the epistle to 'the twenty and ninth year, in the latter end' of the reign of the judges (Alma 58:38); matches the traditional heading estimate of about 63-62 B.C.",
+   "chapters": [
+    "Alma 58"
+   ],
+   "people": [
+    "Helaman (son of Alma)",
+    "Gid",
+    "Teomner"
+   ],
+   "places": [
+    "Manti"
+   ]
+  },
+  {
+   "id": "r-alma-58-dc720043",
+   "t": "Recovery of Manti and withdrawal of Lamanite armies",
+   "y0": -63,
+   "y1": -62,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the events to about 63–62 B.C.; Alma 58:38 places the report in the latter end of the twenty-ninth year.",
+   "chapters": [
+    "Alma 58"
+   ],
+   "people": [
+    "Helaman",
+    "Gid",
+    "Teomner",
+    "Moroni"
+   ],
+   "places": [
+    "Manti",
+    "Zarahemla"
+   ],
+   "things": [
+    "Helaman's epistle"
+   ]
+  },
+  {
+   "id": "r-alma-6-ecd35df3",
+   "t": "Alma orders the Zarahemla church and travels to Gideon",
+   "y0": -83,
+   "y1": -83,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the events to about 83 B.C.; the chapter itself does not supply an absolute year.",
+   "chapters": [
+    "Alma 6"
+   ],
+   "people": [
+    "Alma",
+    "Gideon",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Zarahemla",
+    "Sidon"
+   ],
+   "things": [
+    "church record",
+    "word of God"
+   ]
+  },
+  {
+   "id": "r-alma-60-d5a8d4f4",
+   "t": "Moroni sends an ultimatum to Pahoran",
+   "y0": -62,
+   "y1": -62,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates Moroni's complaint and threat to about 62 B.C.",
+   "chapters": [
+    "Alma 60"
+   ],
+   "people": [
+    "Moroni",
+    "Pahoran",
+    "Helaman"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "Moroni's epistle"
+   ]
+  },
+  {
    "id": "r-alma-62-23e0e358",
    "t": "Recapture of Nephihah and death of Ammoron and Teancum",
    "y0": -62,
@@ -7758,6 +7874,56 @@ timeline module, not this file._
    "places": [
     "Zarahemla",
     "Nephihah"
+   ]
+  },
+  {
+   "id": "r-alma-63-68e1ba52",
+   "t": "Death of Moroni; sacred records pass to Shiblon",
+   "y0": -56,
+   "y1": -56,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Alma 63:1 and 63:3 date these events to the 36th year of the reign of the judges.",
+   "chapters": [
+    "Alma 63"
+   ],
+   "people": [
+    "Shiblon",
+    "Moroni"
+   ]
+  },
+  {
+   "id": "r-alma-63-a1110021",
+   "t": "Hagoth builds ships; Nephites migrate to land northward",
+   "y0": -56,
+   "y1": -54,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Alma 63:4-9 places these events in the 37th-38th years of the reign of the judges; approximate B.C. dates follow the chapter's traditional placement (c. 56-52 B.C.).",
+   "chapters": [
+    "Alma 63"
+   ],
+   "people": [
+    "Hagoth",
+    "Corianton"
+   ],
+   "places": [
+    "Land of Bountiful",
+    "land northward"
+   ],
+   "things": [
+    "ships"
    ]
   },
   {
