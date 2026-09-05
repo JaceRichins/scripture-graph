@@ -290,6 +290,13 @@ Moses 3 unquestionably expands Genesis 2 at these points (near-certain, 0.99), b
 
 Notes: [[Comparative Textual Difference in Moses 3]]
 
+### bom-alma45-nephite-destruction-fulfillment
+**Final-form correspondence between Alma's warning and the destruction narrative in Mormon** — *strong* (supports, evidence_strength 0.7) for: The final Book of Mormon deliberately coordinates Alma's prediction of Nephite destruction with the later narrative in Mormon.
+
+The clustered extinction, assimilation or desertion, escape, and pursuit correspondences strongly support deliberate final-form coordination between Alma 45 and Mormon 6–8. Because no explicit fulfillment citation or independent dating is supplied, the correspondence gives only none-band support for genuine pre-event prediction or historicity.
+
+Notes: [[Internal Literary Coherence in Alma 45]]
+
 ### bom-1nephi22-flesh-inclusio
 **Final-form framing of 1 Nephi 22 by the recurring phrase 'according to the flesh'** — *weak* (supports, evidence_strength 0.2) for: Verses 2-27 of 1 Nephi 22 were deliberately structured as a bounded unit, using 'according to the flesh' as an intentional inclusio marking Nephi's answer to his brothers' question in v.1, rather than the phrase recurring incidentally as ordinary vocabulary on the chapter's governing spiritual-versus-temporal theme.
 
@@ -373,6 +380,13 @@ Notes: [[Internal Collective-Witness Claim in 3 Nephi 17]]
 The chapter clearly accumulates witness-related vocabulary and presents Nephi's ministry as public and openly attested, but every witness claim is mediated through the same narrator. Because sincere historical report, communal amplification, and literary authentication can all produce this language, it gives only none-band support for the historicity or supernatural cause of the reported events.
 
 Notes: [[Internal Narrative Testimony in 3 Nephi 7]]
+
+### bom-alma56-stripling-warriors-miracle-claim
+**Historical weight of the miraculous-preservation claim in Alma 56** — *none* (supports, evidence_strength 0.14) for: The survival and exceptional fighting of Helaman's two thousand soldiers are best explained by supernatural divine intervention.
+
+Alma 56 clearly frames the soldiers' survival and fighting as providential and miraculous, but the internally mediated report, viable natural and literary explanations, and absence of independent or comparative evidence give only none-band support for supernatural intervention as the best historical explanation.
+
+Notes: [[Internal First-Person Narrative Testimony in Alma 56]]
 
 ### bom-1nephi13-plain-precious-losses
 **Historical weight of the plain-and-precious-losses claim in 1 Nephi 13** — *none* (supports, evidence_strength 0.1) for: The wording of 1 Nephi 13 independently supports the historical claim that identifiable plain and precious teachings were deliberately removed from an apostolic record by a particular institution before its broad circulation.

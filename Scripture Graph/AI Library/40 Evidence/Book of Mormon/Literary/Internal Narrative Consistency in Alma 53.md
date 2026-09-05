@@ -7,24 +7,37 @@ created_by: librarian:job-alma-53-20260905-100210-ce85571b
 created_at: '2026-09-05T10:11:17Z'
 evidence_class: internal narrative consistency
 claim_confidence: 0.96
-evidence_strength: 0.38
 study_relevance: 0.9
 source_quality: 0.99
 consensus_status: accepted observation / disputed interpretation
+note_kind: context
+calibrated_at: '2026-09-05T10:57:33Z'
+calibration_version: 2
 ---
 
 # Internal Narrative Consistency in Alma 53
 
 ## Summary
 <!-- SG:BEGIN summary -->
-The agreement among Alma 24, Alma 27, Alma 53, and Alma 56 concerning the people's conversion, anti-bloodshed covenant, Nephite protection, and the sons' military service is strong evidence of deliberate narrative continuity. As evidence about the work's historical origin, however, internal consistency has limited force because an author or editor in any period could construct or harmonize these episodes.
-
-**Does not establish:** It does not establish ancient authorship, independent source traditions, the historicity of the people or wars, or the accuracy of the reported chronology.
-
-**Alternative explanations:**
-- A single modern author could deliberately maintain continuity across the episodes.
-- A later editor or redactor could harmonize separate narrative materials.
-- Internal consistency may demonstrate literary care without demonstrating that the narrated events occurred.
-
-**Scripture:** [[Alma 24#^alma-24-15|Alma 24:15]], [[Alma 24#^alma-24-17|Alma 24:17]], [[Alma 27#^alma-27-22|Alma 27:22]], [[Alma 27#^alma-27-24|Alma 27:24]], [[Alma 53#^alma-53-10|Alma 53:10]], [[Alma 53#^alma-53-11|Alma 53:11]], [[Alma 53#^alma-53-16|Alma 53:16]], [[Alma 53#^alma-53-19|Alma 53:19]], [[Alma 56#^alma-56-6|Alma 56:6]], [[Alma 56#^alma-56-8|Alma 56:8]]
+Alma 24, 27, 53, and 56 form a continuous chain linking the Ammonites' anti-bloodshed covenant, Nephite protection, material support, and the service of sons who had not taken the oath. The generational distinction allows the sons to defend the community without nullifying their parents' penitential commitment.
 <!-- SG:END summary -->
+
+## Observation
+<!-- SG:BEGIN observation -->
+Alma 24 describes the converted Lamanites burying their weapons under a covenant against further bloodshed. Alma 27 places the community under Nephite protection with an obligation to provide material support. Alma 53 recalls the covenant, distinguishes the parents from sons who had not entered it, and introduces those sons' military service; Alma 56 continues their service under Helaman.
+<!-- SG:END observation -->
+
+## Interpretation
+<!-- SG:BEGIN interpretation -->
+The sequence forms deliberate narrative continuity. The sons' service is presented as a generational qualification rather than an unexplained reversal of their parents' covenant, while the earlier protection and support arrangement supplies the social setting for their participation.
+<!-- SG:END interpretation -->
+
+## Historical Significance
+<!-- SG:BEGIN historical-significance -->
+The linked episodes preserve the practical consequences of a communal vow across changing circumstances: the parents continue their renunciation of arms, contribute to their protectors materially, and allow uncovenanted sons to assume a defensive military role.
+<!-- SG:END historical-significance -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+On a continuous-record reconstruction, successive notices preserve how one community's penitential covenant shaped its later political and military obligations. On an editorial reconstruction, the reminders keep those obligations intelligible as the narrative develops. In either reconstruction, the generational distinction resolves the apparent tension between the parents' refusal to fight and the sons' organized service.
+<!-- SG:END how-it-fits -->
