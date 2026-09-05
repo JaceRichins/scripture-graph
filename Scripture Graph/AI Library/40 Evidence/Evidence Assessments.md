@@ -115,6 +115,13 @@ The sustained sequence and close English wording strongly support dependence on 
 
 Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]] · [[Textual Correspondence in 2 Nephi 6]] · [[Textual Correspondence in 2 Nephi 7]] · [[Textual Correspondence in 2 Nephi 8]] · [[Textual Dependence in 2 Nephi 18]] · [[Textual Intertextuality in 2 Nephi 13]] · [[Textual Intertextuality in 2 Nephi 6]]
 
+### bom-alma40-epistemic-persona
+**Calibrated epistemic persona construction in Alma 40** — *strong* (supports, evidence_strength 0.78) for: The four-way distinction in Alma 40 between reported angelic revelation, acknowledged divine mystery, immaterial chronological detail, and stated personal opinion constitutes deliberate construction of a careful, epistemically self-aware prophetic persona.
+
+Alma 40 clearly differentiates reported angelic disclosure (v.11), matters reserved to God's knowledge (vv.3-5,8), a chronological detail explicitly called immaterial, and Alma's own stated opinion (vv.20-21), strongly supporting deliberate construction of a careful, non-overclaiming prophetic persona — the same evidence class the registry already treats as contested for bom-1nephi6-editorial-persona and bom-3nephi5-editorial-persona. This construction gives no independent discrimination between an authentic ancient revelatory voice and later literary characterization, and provides only none-band support for the angelic disclosure's occurrence or the doctrine's truth.
+
+Notes: [[Textual Epistemic Calibration in Alma 40]]
+
 ### bom-chiasmus-antiquity
 **Chiasmus in Alma 36 as evidence of ancient Hebrew literary origin** — *weak* (supports, evidence_strength 0.2) for: The inverted structure of Alma 36 provides evidence that the chapter derives from an ancient Hebrew literary source, as opposed to natural narrative symmetry, analyst-flexible unit-matching, or deliberate non-Hebrew-specific ring composition.
 
@@ -604,6 +611,13 @@ Notes: [[Verbal Intertextuality in 2 Nephi 32]]
 Both Lamoni and his father collapse as if dead after praying for divine self-revelation, are attended by household members, and rise to minister to and convert their households, giving moderate support to intentional literary parallelism. This stops short of the higher-strong band because, unlike bom-alma25-abinadi-fulfillment-correspondence, the text contains no explicit internal cross-reference marking the second scene as a deliberate echo of the first, and no verbatim phrase-level match has been demonstrated, only shared structure. It gives only none-band support (about 0.12) for the historicity, medical nature, or divine cause of either underlying event, since independent occurrence, editorial templating, and deliberate composition all predict the same repetition.
 
 Notes: [[Narrative Parallelism in Alma 22]]
+
+### bom-alma39-preadvent-christology
+**Pre-advent knowledge of Christ's atonement in Alma 39** — *none* (supports, evidence_strength 0.12) for: Alma's explicit theological defense of pre-Christian knowledge of Christ's atonement (Alma 39:15-19) reflects genuine ancient prophetic revelation rather than anachronistic retrojection of later Christian theology.
+
+Alma 39:15-19 explicitly defends detailed pre-advent knowledge of Christ, reasoning that a soul now is as precious to God as a soul will be at Christ's coming and that God can send an angel to declare 'these glad tidings' in any era. This shows the text is aware of, and answers, the anachronism concern, but genuine ancient revelation, later Christianizing redaction or translation, and nineteenth-century composition all predict the identical passage about equally well, giving only none-band support for authentic pre-Christian foreknowledge specifically, in line with the registry's bom-2nephi6-predictive-prophecy.
+
+Notes: [[Internal Textual Evidence in Alma 39]]
 
 ### pgp-abraham-premortal-existence-doctrine
 **Premortal Existence Doctrine in Abraham 3** — *none* (supports, evidence_strength 0.08) for: Abraham 3:18-23 provides evidence, beyond its own bare assertion, that the premortal-existence and foreordination doctrine it teaches derives from an ancient Abrahamic source rather than from Joseph Smith's own developing 19th-century theology.
