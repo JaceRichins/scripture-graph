@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 30–AD 33** — Peter and John heal the lame man at the temple · [[Acts 3]] · [[AD 1-100]] *(approximate)*
 - **AD 90–AD 95** — Traditional composition of 1 John at Ephesus · [[1 John 5]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

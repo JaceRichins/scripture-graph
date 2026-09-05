@@ -6552,6 +6552,82 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-acts-3-c1064b29",
+   "t": "Peter and John heal the lame man at the temple",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "temples"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed shortly after Pentecost (Acts 2) in the early Jerusalem church period, before Stephen's death and Saul's conversion; exact year depends on the disputed date of the crucifixion (AD 30 or 33).",
+   "chapters": [
+    "Acts 3"
+   ],
+   "people": [
+    "Peter (apostle)",
+    "John the Apostle",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Beautiful Gate"
+   ]
+  },
+  {
+   "id": "r-acts-5-0856a5ef",
+   "t": "Judas of Galilee's tax-census revolt",
+   "y0": 6,
+   "y1": 6,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Referenced in Acts 5:37 ('in the days of the taxing') and independently recorded by Josephus, Antiquities 18.1.1, as a revolt against the census under Quirinius.",
+   "chapters": [
+    "Acts 5"
+   ],
+   "people": [
+    "Judas of Galilee"
+   ],
+   "places": [
+    "Galilee"
+   ]
+  },
+  {
+   "id": "r-acts-5-0c3c19ba",
+   "t": "Gamaliel's counsel before the Sanhedrin",
+   "y0": 33,
+   "y1": 36,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Narrated shortly after Pentecost in the early apostolic period; precise year is not fixed by the text.",
+   "chapters": [
+    "Acts 5"
+   ],
+   "people": [
+    "Gamaliel",
+    "Peter"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-acts-7-9f4dedbd",
    "t": "Stephen's Speech and Martyrdom in Jerusalem",
    "y0": 33,
