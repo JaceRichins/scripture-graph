@@ -23,7 +23,13 @@ Scripture: [[D&C 8]] · My notes: [[D&C 8 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter has two principal gift-centered movements followed by a closing attestation:
+
+1. **The spirit of revelation (vv. 1-5):** Knowledge concerning ancient records, communication in mind and heart, the example of Moses, and commands to apply and remember the gift.
+2. **The gift of Aaron (vv. 6-11):** Another gift, its divine source and hand-associated language, knowledge sought by that means, and conditions governing proper use.
+3. **Closing attestation (v. 12):** The speaker identifies himself as the one who has spoken from the beginning.
+
+Repeated words such as “gift,” “ask,” “knowledge,” “faith,” and “remember” connect the instructions without proving an elaborate formal design.
 <!-- SG:END structure -->
 
 ## People
@@ -49,19 +55,24 @@ _Not yet developed._
 - [[Mosiah 8]] — 1 footnote cross-reference (from [[D&C 8#^dc-8-1|D&C 8:1]])
 - [[D&C 11]] — 2 parallel verses, e.g. [[D&C 8#^dc-8-11|D&C 8:11]] ↔ [[D&C 11#^dc-11-17|D&C 11:17]]
 - [[Alma 40]] — 2 parallel verses, e.g. [[D&C 8#^dc-8-1|D&C 8:1]] ↔ [[Alma 40#^alma-40-22|Alma 40:22]]
+- [[Exodus 14]] — 0 parallel verses
+- [[D&C 9]] — 0 parallel verses
+- [[D&C 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Revelation]]
+- [[Records and Sacred Writings]]
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter's account of [[Revelation]] joins divine initiative with disciplined human response. God promises knowledge, while Oliver must ask in [[Faith]] with an honest heart, keep the commandments, avoid trifling, and seek only what he ought. Spiritual confidence is therefore not presented as unrestricted permission for every request or impression.
+
+Communication “in your mind and in your heart” describes the mode promised here, but it is not a complete diagnostic test for divine communication. [[D&C 9]] adds study and inquiry, while [[D&C 11]] describes moral fruits associated with the Spirit. These comparisons can enrich D&C 8 without importing their details into the chapter itself.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -94,25 +105,40 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+“Trifle not with these things” (v. 10) warns against treating sacred matters carelessly or without due seriousness.
+
+The canonical expression “gift of Aaron” is not fully explained within the chapter. Verses 6-9 say that the gift had told Oliver things, associate it with his hands, and describe it as a means of asking for knowledge. Early textual witnesses preserve sprout/rod-related wording before the later “gift of Aaron” form. That textual development provides substantial historical context for the hand-language and makes a rod interpretation plausible. It does not establish the claimed gift's supernatural efficacy, exact operation, or a single certain motive for the revisions.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The Moses allusion compresses a much longer deliverance narrative into one sentence. Read with [[Exodus 14]], it associates revealed direction, divine power, obedient action, and passage through danger. Verse 4 then applies the deliverance theme to Oliver's own threatened circumstances.
+
+This is a theological analogy within the revelation. It is not independent historical evidence for either the Exodus account or the supernatural operation of Oliver's gifts. Likewise, the chapter's clear two-part organization aids reading but does not by itself demonstrate elaborate literary design or ancient authorship.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual History
+> Early textual witnesses of the revelation describe Oliver's second gift with sprout or rod terminology, whereas the current canonical text calls it the gift of Aaron. This textual development helps explain the otherwise unusual references to holding the gift in one's hands and asking by that means. It also makes a connection with early nineteenth-century divining practices historically plausible, although the precise intended operation and the purpose of each editorial change remain uncertain.
+> — strength 0.8 · confidence 0.9 · Textual development accepted; implications disputed · [[Textual History in D&C 8|full dossier]]
+
+> [!evidence] Textual/Historical
+> Historically, LDS textual scholarship has documented that the earliest printed text of this revelation (A Book of Commandments, 1833) used different wording associated with a physical rod, prior to revision to 'the gift of Aaron' in later editions. This textual history is often cited as the basis for reading 'the gift of Aaron' as a reference to a divining rod Cowdery reportedly used, rather than as a title with no physical referent.
+> — strength 0.8 · confidence 0.9 · Textual development accepted; identification and motive disputed · [[Textual/Historical in D&C 8|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What safeguards in verses 1, 5, and 10-11 qualify the promise to receive knowledge?
+- Does “mind and heart” name distinct faculties, overlapping metaphors, or rhetorical fullness?
+- How do [[D&C 9]] and [[D&C 11]] complicate an overly simple equation of strong inward feelings with revelation?
+- Why might Moses at the Red Sea be chosen as the example of the spirit of revelation?
+- What did the gift of Aaron likely mean in Oliver Cowdery's historical setting, and how should the early rod-related wording affect interpretation of the canonical phrase?
+- What external checks, if any, should accompany inward claims of revelation? D&C 8 supplies moral and spiritual conditions but does not fully resolve that epistemic question.
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare D&C 8:2 with [[D&C 9]] 7-9 and [[D&C 11]] 12-14 to study related Restoration descriptions of discernment. Compare D&C 8:3 with [[Exodus 14]] 21-22 to see how the revelation compresses the longer Red Sea narrative. For verses 6-9, consult the Joseph Smith Papers document “Revelation, April 1829–B [D&C 8],” including its transcript, historical introduction, and textual apparatus; distinguish the documented wording changes from interpretations of the gift's efficacy or the editors' motives.
 <!-- SG:END further-study -->
