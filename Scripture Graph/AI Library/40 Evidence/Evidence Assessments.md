@@ -626,6 +626,13 @@ The ordered ritual actions together with the bread, wine, body, blood, and remem
 
 Notes: [[Textual Parallel in 3 Nephi 18]]
 
+### bom-enos1-new-testament-intertext
+**New Testament and KJV-shaped intertextuality in Enos 1** — *strong* (supports, evidence_strength 0.78) for: The final English text of Enos 1 deliberately engages recognizable New Testament wording in a King James register, rather than converging only on generic Christian themes.
+
+The recurring Gospel formula in Enos 1:8 and the clustered Matthew 25–John 14 wording in Enos 1:27 strongly support deliberate New Testament/KJV-shaped mediation in the final English text. They do not distinguish loose translation, revelatory harmonization, editorial adaptation, or nineteenth-century composition and imply nothing independently about historicity or inspiration.
+
+Notes: [[English Scriptural Intertextuality in Enos 1]]
+
 ### bom-2nephi32-new-testament-intertext
 **New Testament prayer-language intertextuality in 2 Nephi 32** — *moderate* (supports, evidence_strength 0.48) for: The final English text of 2 Nephi 32 deliberately engages New Testament wording represented by Matthew 7:7 and Luke 18:1.
 
