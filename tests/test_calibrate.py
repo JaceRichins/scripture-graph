@@ -75,7 +75,7 @@ def test_full_stub_calibration_job(imported_ctx):
         assert fm["calibration_version"] == CALIBRATION_VERSION
         assert fm["evidence_strength"] == 0.3 and fm["weight_label"] == "weak"
         assert fm["issue"].startswith("stub-") and fm["proposition"]
-        assert "Canonical assessment: [[Evidence Assessments#" in md.get_section(body, "weight")
+        assert "Canonical assessment: [[Assessments#" in md.get_section(body, "weight")
     # the claim behind the note follows the note
     row = ctx.db().execute("SELECT scores_json FROM claims WHERE id=?",
                            ("clm-parallel-alpha-in-1-nephi-1",)).fetchone()

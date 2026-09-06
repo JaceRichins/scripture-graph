@@ -310,8 +310,12 @@ def process_queue(ctx: Ctx, max_items: int | None = None, include_ai: bool = Tru
                 q.release(ctx, item["id"])
                 return
             try:
-                spec["fn"](ctx, item["target"])
-                mark_pass(ctx, name, item["target"], spec["mode"])
+                res = spec["fn"](ctx, item["target"])
+                # a job may name its own pass mode: an early dossier is
+                # 'ai-early' (owed a second pass), a cumulative page records
+                # the registry signature it was written at
+                own_mode = res.get("pass_mode") if isinstance(res, dict) else None
+                mark_pass(ctx, name, item["target"], own_mode or spec["mode"])
                 q.complete(ctx, item["id"])
                 with lock:
                     stats["done"] += 1

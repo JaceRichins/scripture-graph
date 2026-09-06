@@ -16,7 +16,7 @@ const ACTION_PRESETS: { label: string; task: AiTask; template: (a: string) => st
   { label: "Connections", task: "connections", template: a => `What are the most meaningful connections to ${a} across the scriptures and this vault?` },
   { label: "Historical context", task: "history", template: a => `What is the historical context of ${a}?` },
   { label: "Language & text", task: "language", template: a => `What language, translation, or textual observations matter in ${a}?` },
-  { label: "Evidence", task: "evidence", template: a => `What evidence and honest counter-considerations relate to ${a}?` },
+  { label: "Findings", task: "evidence", template: a => `What findings, frameworks and honest counter-considerations relate to ${a}?` },
   { label: "Challenge it", task: "challenge", template: a => `Give the strongest skeptical reading of ${a}, then the strongest response.` },
 ];
 

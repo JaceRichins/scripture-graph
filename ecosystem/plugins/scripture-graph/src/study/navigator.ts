@@ -46,7 +46,7 @@ export const LIBRARY_SECTIONS: { icon: NavIconName; name: string; path: string }
   { icon: "doctrines", name: "Doctrines", path: "AI Library/06 Doctrines" },
   { icon: "papers", name: "Joseph Smith Papers", path: "AI Library/20 Joseph Smith Papers" },
   { icon: "history", name: "Church History", path: "AI Library/30 Church History" },
-  { icon: "evidence", name: "Evidence", path: "AI Library/40 Evidence" },
+  { icon: "evidence", name: "Findings", path: "AI Library/40 Findings" },
   // Hard Questions is a first-class shelf (see libraryView), not a folder here
   { icon: "scholarship", name: "Scholarship", path: "AI Library/60 Scholarship" },
   { icon: "podcast", name: "Podcasts & talks", path: "AI Library/65 Secondary Sources" },

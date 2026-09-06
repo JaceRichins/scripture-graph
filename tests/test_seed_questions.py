@@ -26,7 +26,7 @@ def test_seed_questions_have_scope_and_the_shared_sections():
         assert fm.get("scope") in ("restoration", "christianity", "book-of-mormon"), e.name
         scopes.add(fm["scope"])
         for section in ("concise-answer", "strongest-evidence", "objections",
-                        "responses", "assessment", "related", "further-study"):
+                        "responses", "frameworks", "assessment", "related", "further-study"):
             assert f"<!-- SG:BEGIN {section} -->" in body, f"{e.name}: {section}"
         assert md.markers_balanced(body), e.name
     assert scopes == {"restoration", "christianity", "book-of-mormon"}, "all three arenas are represented"
@@ -78,8 +78,9 @@ def test_seed_links_point_at_real_vocabulary(imported_ctx):
             name = " ".join(m.split())
             if name in titles or chapter_rx.match(name):
                 continue
-            # MOC pages the generator writes (Bible Evidence, Book of Mormon Evidence …)
-            if name.endswith(" Evidence") or name == "Joseph Smith—History 1":
+            # MOC pages the generator writes (Bible Findings, Book of Mormon Findings …;
+            # the old " Evidence" titles survive as aliases)
+            if name.endswith((" Evidence", " Findings", " Assessment")) or name == "Joseph Smith—History 1":
                 continue
             bad.append((e.name, name))
     assert not bad, bad

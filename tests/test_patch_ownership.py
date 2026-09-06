@@ -42,7 +42,7 @@ def test_create_note_and_duplicate_guard(imported_ctx):
             "sections": {"summary": "A modest observation."}}]
     result = apply_ops(ctx, ops, actor="test")
     assert result.created_paths == [
-        "AI Library/40 Evidence/Book of Mormon/Literary/Test Evidence Item.md"]
+        "AI Library/40 Findings/Book of Mormon/Literary/Test Evidence Item.md"]
     # duplicate title refused
     with pytest.raises(PatchViolation, match="already"):
         apply_ops(ctx, ops, actor="test")

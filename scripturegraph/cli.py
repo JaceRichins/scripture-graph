@@ -289,6 +289,53 @@ def cmd_calibrate(args):
     return 0
 
 
+def cmd_cumulative(args):
+    ctx = _ctx(args)
+    from scripturegraph.agents.cumulative import (CORPORA, build_corpus_context, context_markdown,
+                                                  pending_corpora, run_cumulative_job)
+    corpora = [args.corpus] if args.corpus else list(ctx.c("calibrate.corpora", ["Book of Mormon"]))
+    for c in corpora:
+        if c not in CORPORA:
+            print(f"not a corpus: {c!r} (one of {', '.join(CORPORA)})", file=sys.stderr)
+            return 2
+    if args.list or not (args.run or args.dry_run or args.review_only):
+        pend = pending_corpora(ctx)
+        for c in corpora:
+            n = ctx.db().execute("SELECT COUNT(*) AS n FROM issues WHERE corpus=?", (c,)).fetchone()["n"]
+            row = ctx.db().execute("SELECT mode, completed_at FROM passes WHERE name='cumulative' "
+                                   "AND target=?", (c,)).fetchone()
+            print(f"{c}: {n} contested assessments; page "
+                  + (f"written {row['completed_at']} at {row['mode']}" if row else "not written")
+                  + (" -- pending" if c in pend else ""))
+        return 0
+    if args.dry_run:
+        for c in corpora:
+            print(context_markdown(build_corpus_context(ctx, c)))
+        return 0
+    from contextlib import nullcontext
+    from scripturegraph.agents.pipeline import JobQuarantined, ProviderUnavailable
+    from scripturegraph.lockfile import EngineBusy, engine_lock
+    from scripturegraph.waves import mark_pass
+    try:
+        with (nullcontext() if args.review_only else engine_lock(ctx)):
+            for c in corpora:
+                try:
+                    r = run_cumulative_job(ctx, c, apply=not args.review_only)
+                except JobQuarantined as e:
+                    print(f"quarantined: {e}", file=sys.stderr)
+                    continue
+                except ProviderUnavailable as e:
+                    print(f"provider unavailable -- stopping: {e}", file=sys.stderr)
+                    break
+                if not args.review_only:
+                    mark_pass(ctx, "cumulative", c, r.get("pass_mode") or "ai")
+                print(json.dumps(r, indent=2, default=str))
+    except EngineBusy:
+        print("Another engine run holds the lock -- try again shortly.", file=sys.stderr)
+        return 3
+    return 0
+
+
 def cmd_health(args):
     return cmd_gardener(args)
 
@@ -643,6 +690,16 @@ def main(argv=None) -> int:
     sp.add_argument("--tidy", action="store_true",
                     help="strip adjudication fields/sections from illumination notes; prune the registry")
     sp.set_defaults(fn=cmd_calibrate)
+
+    sp = sub.add_parser("cumulative", help="the corpus-level page where contested findings "
+                                           "are weighed together (one per corpus)")
+    sp.add_argument("--corpus", help="Book of Mormon | Bible | Restoration (default: calibrate.corpora)")
+    sp.add_argument("--list", action="store_true", help="registry size and page status per corpus")
+    sp.add_argument("--run", action="store_true", help="write the page now")
+    sp.add_argument("--dry-run", action="store_true", help="print the context the assessors see")
+    sp.add_argument("--review-only", action="store_true",
+                    help="run the pipeline but write a review report instead of touching the vault")
+    sp.set_defaults(fn=cmd_cumulative)
 
     sp = sub.add_parser("dossier", help="deep subject dossiers -- people, places, gospel "
                                         "topics, hard questions; written after the canon is read")

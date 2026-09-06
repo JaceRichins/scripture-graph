@@ -37,7 +37,7 @@ const FOLDER_TINT: [string, string][] = [
   ["AI Library/06 Doctrines", "#c9b8ff"],
   ["AI Library/80 Bible Dictionary", "#b9c6e8"],
   ["AI Library/10 General Conference", "#d9c07a"],
-  ["AI Library/40 Evidence", "#93d3a2"],
+  ["AI Library/40 Findings", "#93d3a2"],
   ["AI Library/30 Church History", "#e0a887"],
   ["AI Library/01 Scriptures", "#8ec7f0"],
   ["Library/", "#c9b8ff"],

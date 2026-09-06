@@ -309,7 +309,45 @@ class StubProvider(Provider):
             fn = {"calibrator": self._calibrate, "calibration-critic": self._calib_critique,
                   "calibration-judge": self._calib_judge}[role]
             return ProviderResult(ok=True, text=json.dumps(fn(context), ensure_ascii=False))
+        if role in ("cumulative-researcher", "cumulative-critic", "cumulative-judge"):
+            fn = {"cumulative-researcher": self._cumulative, "cumulative-critic": self._calib_critique,
+                  "cumulative-judge": self._cumulative_judge}[role]
+            return ProviderResult(ok=True, text=json.dumps(fn(context), ensure_ascii=False))
         return ProviderResult(ok=True, text="{}")
+
+    # ---- cumulative assessment (agents/cumulative.py) ----
+    def _cumulative(self, context: dict) -> dict:
+        issues = context.get("issues") or []
+        keys = [i["issue_key"] for i in issues]
+        return {
+            "lines": [{"name": "Stub line", "issues": keys[:5],
+                       "independence": "stub: one shared cause", "direction": "supports",
+                       "band": "weak", "why": "stub judgment, not a sum"}],
+            "frameworks": [{"name": "ancient source", "status": "plausible",
+                            "support": "stub", "effect": "left untouched"},
+                           {"name": "modern composition", "status": "plausible",
+                            "support": "stub", "effect": "left untouched"}],
+            "set_aside": [{"model": "a hemispheric reading", "why": "the text does not require it"}],
+            "sections": {
+                "how-to-read": "Stub: a judgment, not a sum; not a verdict on the book.",
+                "lines": "- **Stub line** — " + ", ".join(f"[[Assessments#{k}|{k}]]" for k in keys[:5])
+                         + " — weak, supports: one shared cause.",
+                "synthesis": "Stub synthesis: the picture is genuinely open.",
+                "frameworks": "- ancient source (*plausible*) — left untouched.\n"
+                              "- modern composition (*plausible*) — left untouched.",
+                "believer": "Stub: a believer can hold the text as ancient without overreach.",
+                "skeptic": "Stub: a skeptic can hold the findings as inconclusive without overreach.",
+                "would-move": "Stub: an independently dated external attestation.",
+                "inspiration": "Stub: none of this bears on inspiration.",
+            },
+            "uncertainties": ["stub"],
+        }
+
+    def _cumulative_judge(self, context: dict) -> dict:
+        a = (context.get("proposals") or {}).get("a") or {}
+        return {"section_approvals": {k: {"use": "a", "rationale": "stub"} for k in (a.get("sections") or {})},
+                "line_verdicts": [{"name": "Stub line", "verdict": "shared_cause"}],
+                "symmetry_verdict": "consistent", "overall_notes": "stub"}
 
     # ---- evidence calibration (agents/calibrate.py) ----
     def _calibrate(self, context: dict) -> dict:

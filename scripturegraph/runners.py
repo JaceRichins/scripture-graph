@@ -258,6 +258,8 @@ def run_nightly(ctx: Ctx) -> dict:
             update_all_coverage(ctx)
             if ctx.c("calibrate.enabled", True):
                 enqueue_wave(ctx, "calibrate", limit=budget, priority=5.0)
+                # the corpus page is redone once enough assessments moved
+                enqueue_wave(ctx, "cumulative", priority=4.0)
             enqueue_wave(ctx, "research", limit=budget * 3, by_priority=True)
             # nothing until the canon is read; then the budget research no
             # longer needs flows into subject dossiers
@@ -408,6 +410,9 @@ def run_weekly(ctx: Ctx) -> dict:
         budget = _ai_budget(ctx, "weekly_ai_jobs")
         stats["ai_budget"] = budget
         if budget:
+            if ctx.c("calibrate.enabled", True):
+                from scripturegraph.waves import enqueue_wave
+                enqueue_wave(ctx, "cumulative", priority=4.0)
             stats["queue"] = _process(ctx, include_ai=True, ai_budget=budget,
                                       max_items=2000)
         write_status_note(ctx)

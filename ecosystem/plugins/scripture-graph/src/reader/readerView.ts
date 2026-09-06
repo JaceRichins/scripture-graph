@@ -14,7 +14,7 @@ const LENSES: { key: string; icon: string; label: string; sections: string[] }[]
   { key: "history", icon: "🏺", label: "History", sections: ["structure", "history"] },
   { key: "language", icon: "א", label: "Language", sections: ["language"] },
   { key: "literary", icon: "🔀", label: "Literary", sections: ["literary"] },
-  { key: "evidence", icon: "🔬", label: "Evidence", sections: ["evidence"] },
+  { key: "evidence", icon: "🔬", label: "Findings", sections: ["evidence"] },
   { key: "conference", icon: "🎙", label: "Conference", sections: ["conference"] },
   { key: "related", icon: "🔗", label: "Related", sections: ["related-scriptures"] },
   { key: "media", icon: "🎧", label: "Media", sections: ["secondary-sources"] },
