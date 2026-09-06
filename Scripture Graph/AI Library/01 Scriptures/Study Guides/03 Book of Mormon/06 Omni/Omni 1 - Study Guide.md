@@ -23,7 +23,13 @@ Scripture: [[Omni 1]] · My notes: [[Omni 1 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Omni (vv. 1–3):** commanded record keeping, warfare, moral confession, chronological notices, and transfer to Amaron.
+2. **Amaron (vv. 4–8):** destruction of the more wicked, covenant judgment, preservation of the righteous, and transfer to Chemish.
+3. **Chemish (v. 9):** eyewitness notice about Amaron's writing and the inherited record-keeping practice.
+4. **Abinadom (vv. 10–11):** warfare, the royal record, and a knowledge-limited statement concerning additional revelation and prophecy.
+5. **Amaleki (vv. 12–30):** Mosiah's migration, discovery and integration of Zarahemla, the Coriantumr stone, Benjamin's reign, exhortation to Christ, and the two return attempts.
+
+'And I make an end' closes the entries of Omni, Chemish, and Abinadom (vv. 3, 9, 11). Amaleki ends with the related but expanded formula, 'I make an end of my speaking' (v. 30). His longer entry bridges the small plates toward [[Words of Mormon 1]] and [[Mosiah 9]].
 <!-- SG:END structure -->
 
 ## People
@@ -68,17 +74,20 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Sacrifice]]
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
-- [[Revelation]] *(keyword match — unconfirmed)*
-- [[Obedience]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]]
+- [[Government and Laws]]
+- [[War and Peace]]
+- [[Exodus and Deliverance]]
+- [[Prophecy]]
+- [[Education and Learning]]
+- [[Endurance]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Amaron presents destruction and deliverance through the inherited relationship between [[Obedience]] and prosperity in the land (Omni 1:5–7; compare [[2 Nephi 1]]). This is Amaron's theological interpretation of events, not an independently testable demonstration of divine causation.
+
+Amaleki's conclusion turns to personal discipleship: come to Christ, partake of his [[Salvation]] and redemption, offer the whole soul, continue in [[Fasting]] and [[Prayer]], and practice [[Endurance]] (Omni 1:26). The whole-soul offering can reasonably be read through [[Sacrifice]] and [[Consecration]] as comprehensive devotion, though that explanation is interpretive. Verse 25 also commends prophecy, revelation, ministering of angels, speaking with tongues, and the gift of interpreting languages—an explicit cluster of [[Spiritual Gifts]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -107,25 +116,34 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Language is not incidental in Amaleki's history. The people of Zarahemla cannot initially communicate with Mosiah's people; after being taught Mosiah's language, Zarahemla recounts his genealogy from memory, and the two communities unite. Meanwhile, an engraved stone requires divine interpretation. Spoken teaching, remembered genealogy, written records, and inspired interpretation are therefore four different means by which the chapter depicts knowledge crossing generations or communities.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter shifts from terse first-person notices to Amaleki's sustained historical narrative and direct exhortation. Repeated formulas—'Behold,' 'it came to pass,' and forms of 'I make an end'—create continuity across the five voices, while differences in length and subject matter remain visible. These features are compatible with the book's presentation of a composite, multigenerational record but do not establish separate ancient authorship; a single author or editor could construct the same effects.
+
+Amaleki also places record-rich and record-poor communities in meaningful proximity: Mosiah's people carry the brass plates, whereas Zarahemla's people brought no records and recount genealogy from memory. This supports a record-and-memory theme, but the text does not identify missing records as the sole cause of language change or religious denial. Mosiah's faithful response to warning may also be compared with the stiffnecked expedition leader's disastrous conduct, provided the comparison is labeled as a reader's interpretation rather than an explicit contrast drawn by Amaleki.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary-Thematic
+> The repeated association among records, genealogy, language, religious memory, interpretation, and political continuity provides moderately strong internal evidence that record preservation is a governing literary theme of the chapter.
+> — strength 0.7 · confidence 0.9 · Strong internal theme; broader historical implications denied · [[Literary-Thematic in Omni 1|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does Omni preserve his confession of wickedness alongside his military defense of the Nephites and obedience in keeping the plates? What distinction might the passage draw between a particular fulfilled duty and broader faithfulness?
+- Abinadom says that he knows of no revelation beyond what has been written, nor prophecy (Omni 1:11). What does this establish about his knowledge, and what does it leave unresolved about the wider Nephite community?
+- Verse 17 places warfare, corrupted language, absent records, religious denial, and mutual unintelligibility together. Which relationships are explicitly stated, and which causal explanations are only inferred?
+- Why does a chapter dominated by abbreviated historical notices conclude with an expansive invitation to offer one's whole soul to Christ?
+- Compare Omni 1:27–30 with [[Mosiah 9]]. Which details support identifying the expeditions, and where do the narrators' viewpoints or emphases differ?
+- Why does Amaleki select Benjamin after stating that he has no seed? What can safely be concluded about the movement of record custody beyond the chapter's identified parent-child chain?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare Amaleki's transfer of the plates with [[Words of Mormon 1]], the return expeditions with [[Mosiah 9]], the tower and confounded-language notice with [[Ether 1]], and divine interpretation of engraved records with [[Mosiah 28]]. The last comparison is thematic: Omni describes an engraved stone being interpreted, not a stone used as an interpreting instrument. For the obedience-and-prosperity formula, compare [[2 Nephi 1]] and [[Alma 9]]. These passages clarify how Omni connects the small plates with later Nephite and Jaredite narratives without, by themselves, proving ancient authorship or historicity.
 <!-- SG:END further-study -->
