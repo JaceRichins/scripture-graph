@@ -339,6 +339,10 @@ _STOP = set("a an the of in on to for and or is are was were do does did how why
             "which who whom whose can could should would there their its it be been being "
             "from with by as at into than then that this these those not no about really "
             "actually evidence question questions did does".split())
+# words that name the whole corpus rather than this question
+_GENERIC = set("book mormon bible biblical scripture scriptures church ancient record records "
+               "historical history text texts testament saints latter-day gospel christian "
+               "christians christianity people".split())
 
 
 def _question_context(ctx: Ctx, title: str, body: str, meta: dict) -> dict:
@@ -439,14 +443,26 @@ def _question_context(ctx: Ctx, title: str, body: str, meta: dict) -> dict:
                              "weight": fm.get("weight_label", ""), "issue": fm.get("issue", "")})
     # ---- 3. the library ----
     library: list[dict] = []
-    try:
-        from scripturegraph.ask import retrieve
-        for d in retrieve(ctx, title + " " + " ".join(kw), k=int(ctx.c("dossier.library_passages", 14))):
-            library.append({"label": d["label"], "kind": d["owner_type"],
-                            "text": truncate((d.get("text") or "").replace("\n", " "), 520),
-                            "title": _doc_note_title(ctx, d["owner_type"], d["owner_id"])})
-    except Exception as e:  # noqa: BLE001 — retrieval is context, never a blocker
-        ctx.log.warn("dossier.retrieve_failed", error=str(e)[:200])
+    if kw:
+        try:
+            # documents (essays, talks, histories) on the distinctive terms
+            # only — the chapters above already cover the verses
+            from scripturegraph.ask import _passage_label
+            from scripturegraph.indexing.semantic import fts_search
+            k = int(ctx.c("dossier.library_passages", 14))
+            seen_docs = set()
+            for d in fts_search(ctx, " ".join(kw), k=k * 3, owner_types=("document",)):
+                if d["owner_id"] in seen_docs:
+                    continue
+                seen_docs.add(d["owner_id"])
+                library.append({"label": _passage_label(ctx, d["owner_type"], d["owner_id"]),
+                                "kind": d["owner_type"],
+                                "text": truncate((d.get("text") or "").replace("\n", " "), 520),
+                                "title": _doc_note_title(ctx, d["owner_type"], d["owner_id"])})
+                if len(library) >= k:
+                    break
+        except Exception as e:  # noqa: BLE001 — retrieval is context, never a blocker
+            ctx.log.warn("dossier.retrieve_failed", error=str(e)[:200])
     extra_vocab = [n["title"] for n in related_nodes] + [e["title"] for e in ev_notes] + \
                   [x["title"] for x in library if x.get("title")]
     return {"keywords": kw, "related_nodes": related_nodes, "chapters": chapters,
