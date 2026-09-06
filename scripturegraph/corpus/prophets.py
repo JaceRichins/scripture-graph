@@ -90,8 +90,15 @@ _ISSUE_RE = re.compile(r"^per_utah-and-the-mormons_(?P<paper>.+?)_(?P<date>\d{4}
 
 # ------------------------------------------------------------------ books
 
+def _sources(ctx: Ctx) -> None:
+    """documents.source_id is a foreign key: the registry rows must exist"""
+    from scripturegraph.corpus.registry import ensure_registry
+    ensure_registry(ctx)
+
+
 def fetch_books(ctx: Ctx, limit: int | None = None) -> dict:
     """Public-domain books by the prophets: download once, index, note."""
+    _sources(ctx)
     stats = {"fetched": 0, "skipped": 0, "missing": 0, "chunks": 0}
     db = ctx.db()
     for key, ident, title, author, year in BOOKS:
@@ -188,6 +195,7 @@ def fetch_periodicals(ctx: Ctx, budget: int) -> dict:
     """Up to `budget` issues across the papers, oldest first per paper,
     round-robin so one long run (the Millennial Star) does not starve the
     short ones. Skips issues any importer already holds."""
+    _sources(ctx)
     stats = {"fetched": 0, "skipped": 0, "missing": 0, "papers": {}}
     db = ctx.db()
     have = {r["archive"] for r in db.execute(

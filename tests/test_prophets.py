@@ -26,7 +26,9 @@ def test_issue_labels_and_gutenberg_trim():
 
 def test_blessings_note_gathers_from_indexed_sources(imported_ctx):
     from scripturegraph.corpus.universal import store_document
+    from scripturegraph.corpus.registry import ensure_registry
     ctx = imported_ctx
+    ensure_registry(ctx)
     store_document(ctx, "book:test", prophets.SOURCE_BOOKS, "history", "A Test Book",
                    "Nothing here.\n\n" + "He received a patriarchal blessing under the hands of his father, which said " * 3,
                    author="Someone", date="1880")
