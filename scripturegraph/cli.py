@@ -177,10 +177,17 @@ def cmd_dossier(args):
     mode = "ai" if gate["complete"] else "ai-early"
     from scripturegraph.lockfile import EngineBusy, engine_lock
     if args.questions_now:
-        targets = [t for t in pending_subjects(ctx, ignore_gate=True) if t.startswith("question:")]
+        # the owner's order: people and places a hard question names first,
+        # then the questions themselves; the rest waits for the canon
+        from scripturegraph.agents.dossier import question_cited_subjects
+        cited = question_cited_subjects(ctx)
+        targets = [t for t in pending_subjects(ctx, ignore_gate=True)
+                   if t in cited or t.startswith("question:")]
         if args.limit:
             targets = targets[:args.limit]
-        print(f"{len(targets)} question dossier(s) to write now ({mode})")
+        n_ent = sum(1 for t in targets if not t.startswith("question:"))
+        print(f"{len(targets)} dossier(s) to write now ({mode}): {n_ent} people/places the "
+              f"questions name, then {len(targets) - n_ent} questions")
         try:
             # landing writes the vault and commits — never beside a study tick
             with engine_lock(ctx):
