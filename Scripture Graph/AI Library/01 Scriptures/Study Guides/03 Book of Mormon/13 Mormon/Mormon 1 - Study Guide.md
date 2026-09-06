@@ -23,7 +23,12 @@ Scripture: [[Mormon 1]] · My notes: [[Mormon 1 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter has four main movements:
+
+1. **The recorder commissioned (vv. 1–5):** Mormon identifies his record, recalls Ammaron's instructions, and states that he remembered them.
+2. **The young observer enters public history (vv. 6–12):** travel to Zarahemla, population density, coalition warfare, victory, and four years without bloodshed.
+3. **Spiritual withdrawal and personal encounter (vv. 13–17):** public miracles and gifts cease, while fifteen-year-old Mormon tastes the goodness of Jesus but is forbidden to preach.
+4. **Covenant curse and social disorder (vv. 18–19):** robbers, disappearing treasures, occult practices, and explicit prophetic fulfillment complete the portrait of collapse.
 <!-- SG:END structure -->
 
 ## People
@@ -51,21 +56,24 @@ _Not yet developed._
 - [[Mormon 4]] — 2 footnote cross-references (from [[Mormon 1#^morm-1-3|Mormon 1:3]])
 - [[D&C 3]] — 3 parallel verses, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[D&C 3#^dc-3-17|D&C 3:17]]
 - [[Alma 47]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[Alma 47#^alma-47-35|Alma 47:35]]
-- [[Mormon 2]] — 1 parallel verse, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[Mormon 2#^morm-2-1|Mormon 2:1]]
 - [[3 Nephi 8]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[3 Nephi 8#^3ne-8-20|3 Nephi 8:20]]
 - [[Ether 14]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[Ether 14#^ether-14-23|Ether 14:23]]
 - [[3 Nephi 5]] — 1 parallel verse, e.g. [[Mormon 1#^morm-1-1|Mormon 1:1]] ↔ [[3 Nephi 5#^3ne-5-17|3 Nephi 5:17]]
+- [[Mormon 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]]
+- [[War and Peace]]
+- [[Book of Mormon (Gospel Topic)]]
+- [[Secret Combinations]]
+- [[Prophecy]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The narrator attributes the withdrawal of miracles, healing, spiritual gifts, and the Holy Ghost to the people's iniquity and unbelief (Mormon 1:13–14). Mormon's experience in the following verse cautions against assuming that this social description excludes every form of individual divine encounter. His experience also does not automatically authorize public ministry: he attempts to preach but is forbidden because the people have willfully rebelled and hardened their hearts (Mormon 1:15–17). These are the chapter's stated relationships; they should not be turned into an invariant rule governing every account of [[Spiritual Gifts]], [[Miracles]], or [[Missionary Work]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -91,25 +99,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated verbs in Ammaron's commission—observe, remember, and engrave—define Mormon's narrative vocation (vv. 2–4). Later repetition supplies causal emphasis: Mormon twice says he was forbidden to preach and repeatedly attributes that condition to the people's hardness of heart (vv. 16–17). Land-wide formulas in verses 7, 13, 18, and 19 expand the scale from material development to pervasive wickedness and disorder.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+A striking contrast governs the chapter. The public world moves from buildings, population, armies, and temporary peace to the disappearance of miracles, cursed property, and occult power. Meanwhile, Mormon moves from being a child trained to observe to a young witness who knows the goodness of Jesus. This contrast preserves his perspective as morally distinct from the society he records without claiming that his preaching changed it. The archival plot also continues coherently through [[4 Nephi 1]], [[Mormon 2]], and [[Mormon 4]]. That continuity is strong literary evidence of deliberate composition, but it is not independent proof of historicity.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Narrative Self-Presentation
+> The first-person seen-and-heard formula, the age notices, and the observe-remember-engrave commission support the narrower conclusion that the text deliberately presents Mormon as an eyewitness recorder trained from childhood.
+> — strength 0.7 · confidence 1.0 · affirmed; evidentiary limits explicit · [[Narrative Self-Presentation in Mormon 1|full dossier]]
+
+> [!evidence] Internal Narrative Continuity
+> The agreement among Ammaron's earlier concealment of the records, his detailed instructions here, and Mormon's later retrievals is strong evidence of deliberate narrative and editorial continuity across these chapters.
+> — strength 0.8 · confidence 1.0 · affirmed with alternatives fully preserved · [[Internal Narrative Continuity in Mormon 1|full dossier]]
+
+> [!evidence] Internal Textual Definition *(tentative)*
+> This explicit definitional collapse (v8-9) is internal textual support for reading 'Nephite'/'Lamanite' in the book's later chapters as political or coalition labels rather than strict lineage terms.
+> — strength 0.5 · confidence 0.7 · observation accepted; extrapolation disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+How should the broad statement that the Holy Ghost came upon no one (v. 14) be read alongside Mormon's visitation in verse 15—as a general description with an exception, or as a distinction between different kinds of divine manifestation? Why does the narrative place four years without bloodshed immediately before its description of prevailing wickedness? What does Ammaron's instruction to take only the plates of Nephi, while leaving the remaining archive at Shim, suggest about the practical division between composing a current record and safeguarding inherited sources?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare Ammaron's concealment of the records in [[4 Nephi 1]] with Mormon's staged retrievals in [[Mormon 2]] and [[Mormon 4]]. Examine [[3 Nephi 28]] when considering the possible identity of the “beloved disciples,” while noting that Mormon 1 does not state their number. Compare the slippery treasures with Samuel's warning in [[Helaman 13]], where the verbal and conceptual correspondence is especially close. Mormon's reference to Abinadi also invites study of [[Mosiah 12]], but the chapter does not specify which conditions fulfill particular elements of Abinadi's warnings.
 <!-- SG:END further-study -->
