@@ -25,7 +25,7 @@ from scripturegraph.vaultgen.generate import (FOLDER_AI_GUIDES, FOLDER_DOCTRINES
                                               is_canonical_path, is_personal_path, record_file,
                                               refresh_registry_hash)
 
-FM_WHITELIST = {"corpus_version_reviewed", "topic-status", "status", "review-status",
+FM_WHITELIST = {"corpus_version_reviewed", "topic-status", "status", "review-status", "scope",
                 # evidence calibration (agents/calibrate.py): the weight and what it is FOR
                 "note_kind", "evidence_strength", "claim_confidence", "weight_label",
                 "direction",

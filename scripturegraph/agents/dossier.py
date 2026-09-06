@@ -138,17 +138,41 @@ def pending_subjects(ctx: Ctx, ignore_gate: bool = False) -> list[str]:
     # a dossier written EARLY (before the canon was read — mode 'ai-early')
     # is owed a second pass once the reading is complete
     rows = ctx.db().execute(
-        f"SELECT n.id FROM nodes n "
+        f"SELECT n.id, n.node_type FROM nodes n "
         f"LEFT JOIN passes p ON p.name='dossier' AND p.target=n.id "
         f"WHERE n.node_type IN ({marks}) AND n.vault_path IS NOT NULL "
         f"AND (p.target IS NULL OR p.mode='ai-early' "
         f"     OR (p.corpus_version < ? AND p.completed_at < ?)) "
-        f"ORDER BY CASE n.node_type WHEN 'question' THEN 0 ELSE 1 END, "
-        f"(SELECT COALESCE(SUM(COALESCE(e.weight, 1)), 0) FROM edges e "
+        f"ORDER BY (SELECT COALESCE(SUM(COALESCE(e.weight, 1)), 0) FROM edges e "
         f" WHERE (e.dst = n.id OR e.src = n.id) "
         f" AND e.status IN ('accepted','tentative')) DESC, n.title",
         (*types, ctx.corpus_version(), cutoff)).fetchall()
-    return [r["id"] for r in rows]
+    # the owner's order: the people and places a hard question NAMES come
+    # first (a question page that mentions Helen Mar Kimball without a page on
+    # her is a page with a hole in it), then the questions, then the rest by
+    # how much the graph knows
+    cited = question_cited_subjects(ctx)
+    first = [r["id"] for r in rows if r["id"] in cited]
+    questions = [r["id"] for r in rows if r["node_type"] == "question"]
+    rest = [r["id"] for r in rows if r["id"] not in cited and r["node_type"] != "question"]
+    return first + questions + rest
+
+
+def question_cited_subjects(ctx: Ctx) -> set[str]:
+    """Person/place/topic/event node ids wiki-linked from any question page."""
+    from scripturegraph.graphops import resolve_name
+    db = ctx.db()
+    out: set[str] = set()
+    for r in db.execute("SELECT vault_path FROM nodes WHERE node_type='question' AND vault_path IS NOT NULL"):
+        p = ctx.vault / r["vault_path"]
+        if not p.exists():
+            continue
+        _, body = mdkit.parse_note(read_text(p))
+        for m in re.findall(r"\[\[([^\]|#]+)", body):
+            for n in resolve_name(ctx, " ".join(m.split()))[:1]:
+                if n["node_type"] in ("person", "place", "topic", "event"):
+                    out.add(n["id"])
+    return out
 
 
 def resolve_subject(ctx: Ctx, ref: str) -> str | None:
@@ -332,7 +356,42 @@ def build_subject_context(ctx: Ctx, node_id: str) -> dict:
         out["findings"] = (q["findings"] + findings)[:60]
         out["vocabulary"] = sorted(set(vocab) | set(q["extra_vocab"]))
         out["topic_titles"] = out["vocabulary"]
+    else:
+        # deep scholarship on a person or place means the library too — the
+        # Joseph Smith Papers printings, History of the Church, Times and
+        # Seasons, talks — not only the chapters that name them
+        names = [title] + aliases[:3]
+        out["library"] = _library(ctx, [n for n in names if len(n) > 2], k=int(ctx.c("dossier.library_passages", 14)))
+        out["vocabulary"] = sorted(set(vocab) | {x["title"] for x in out["library"] if x.get("title")})
+        out["topic_titles"] = out["vocabulary"]
     return out
+
+
+def _library(ctx: Ctx, terms: list[str], k: int = 14) -> list[dict]:
+    """Passages from the library's documents (essays, talks, histories,
+    periodicals) that match the terms, each with the vault page it lives on."""
+    library: list[dict] = []
+    if not terms:
+        return library
+    try:
+        from scripturegraph.ask import _passage_label
+        from scripturegraph.indexing.semantic import fts_search
+        # exact phrases for multi-word names, so "John C. Bennett" is not "John"
+        query = " ".join(f'"{t}"' if " " in t else t for t in terms)
+        seen = set()
+        for d in fts_search(ctx, query, k=k * 3, owner_types=("document",)):
+            if d["owner_id"] in seen:
+                continue
+            seen.add(d["owner_id"])
+            library.append({"label": _passage_label(ctx, d["owner_type"], d["owner_id"]),
+                            "kind": d["owner_type"],
+                            "text": truncate((d.get("text") or "").replace("\n", " "), 520),
+                            "title": _doc_note_title(ctx, d["owner_type"], d["owner_id"])})
+            if len(library) >= k:
+                break
+    except Exception as e:  # noqa: BLE001 — retrieval is context, never a blocker
+        ctx.log.warn("dossier.retrieve_failed", error=str(e)[:200])
+    return library
 
 
 _STOP = set("a an the of in on to for and or is are was were do does did how why what when "

@@ -32,8 +32,8 @@ const QUESTIONS_PATH = "AI Library/50 Questions";
 /** the four original seeds predate the `scope` field; their vault copies are
  * write-once, so the shelf files them by title */
 const QUESTION_SCOPE_BY_TITLE: Record<string, string> = {
-  "How reliable are the Book of Mormon witnesses": "restoration",
-  "Is the Book of Mormon an ancient historical record": "restoration",
+  "How reliable are the Book of Mormon witnesses": "book-of-mormon",
+  "Is the Book of Mormon an ancient historical record": "book-of-mormon",
   "Why are there multiple First Vision accounts": "restoration",
   "How reliable is the biblical text": "christianity",
 };
@@ -415,12 +415,15 @@ export class SGLibraryView extends ItemView {
           cls: "sg-nav-gsub",
           text: r.status.startsWith("developed")
             ? "Researched dossier — evidence, objections, honest assessment"
-            : "Seeded answer — deepens once the whole canon has been read",
+            : r.status.startsWith("queued")
+              ? "In the research queue — written from the vault's own findings"
+              : "Seeded answer — the research pass deepens it",
         });
         row.onclick = () => this.host.openPath(r.path);
       }
     };
-    group("The Restoration & the Latter-day Saints", "restoration");
+    group("Church History & the Restoration", "restoration");
+    group("The Book of Mormon", "book-of-mormon");
     group("The Bible & Christianity", "christianity");
     group("More questions", "more");
     if (!rows.length) {

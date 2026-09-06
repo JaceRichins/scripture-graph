@@ -23,13 +23,13 @@ def test_seed_questions_have_scope_and_the_shared_sections():
     for e in seeds:
         fm, body = md.parse_note(e.read_text(encoding="utf-8"))
         assert fm["content_type"] == "question"
-        assert fm.get("scope") in ("restoration", "christianity"), e.name
+        assert fm.get("scope") in ("restoration", "christianity", "book-of-mormon"), e.name
         scopes.add(fm["scope"])
         for section in ("concise-answer", "strongest-evidence", "objections",
                         "responses", "assessment", "related", "further-study"):
             assert f"<!-- SG:BEGIN {section} -->" in body, f"{e.name}: {section}"
         assert md.markers_balanced(body), e.name
-    assert scopes == {"restoration", "christianity"}, "both arenas are represented"
+    assert scopes == {"restoration", "christianity", "book-of-mormon"}, "all three arenas are represented"
 
 
 def test_install_is_write_once_and_stamps_ids(imported_ctx):
