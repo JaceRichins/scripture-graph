@@ -353,6 +353,13 @@ The ordered yesterday-today-forever formula applied to Christ moderately support
 
 Notes: [[VerbalTextual Echo in Moroni 10]]
 
+### bom-helaman15-alma24-allusion
+**Helaman 15:9 allusion to the Anti-Nephi-Lehi weapon-burial covenant (Alma 24)** — *strong* (supports, evidence_strength 0.78) for: Helaman 15:9 deliberately recalls the specific Anti-Nephi-Lehi buried-weapons covenant narrated in Alma 24, rather than describing an independently-arising or generic pattern.
+
+The distinctive four-element combination -- buried weapons, refusal to fight, fear of renewed sin, and willingness to be slain -- closely matches Alma 24:17-22 and strongly supports deliberate final-form recall, comparable to the registry's other narrative-recall/fulfillment issues (bom-alma25-abinadi-fulfillment-correspondence 0.8, bom-alma16-prophecy-fulfillment-correspondence 0.84). Because both passages reach the reader through the same continuous narrative source, this gives only none-band support for the historicity of either episode or for identifying the same individuals across a century.
+
+Notes: [[Internal Narrative Allusion in Helaman 15]]
+
 ### bom-2nephi11-historical-editorial-selection
 **Historical force of the narratorial selection statement in 2 Nephi 11** — *none* (supports, evidence_strength 0.1) for: The statement supports the existence of an actual ancient narrator-editor named Nephi who selected and omitted Jacob's teachings while producing a historical record.
 
@@ -570,6 +577,13 @@ The concentrated whore, sitting, and many-waters cluster gives moderate support 
 
 Notes: [[Verbal And Thematic Intertext in 3 Nephi 10]] · [[Verbatim Textual Parallel in 3 Nephi 10]]
 
+### bom-helaman15-matthew23-24-intertext
+**Matthew 23:38 / 24:19 (and Lukan parallels) mediation in Helaman 15:1-2** — *strong* (supports, evidence_strength 0.68) for: Helaman 15:1-2's English wording reflects deliberate biblical/KJV-shaped mediation drawing on the desolate-house warning (Matthew 23:38) and the pregnant-and-nursing woe during flight (Matthew 24:19), rather than arising independently of that shared idiom.
+
+The near-verbatim 'left...desolate' clause in v.1 closely matches Matthew 23:38, and v.2's pregnant-and-nursing-women-in-flight woe recalls Matthew 24:19, though this second correspondence is looser and shares close wording with Luke 21:23/23:29 as well. Combined, this strongly supports deliberate Synoptic/KJV-shaped mediation in the final English text, without establishing a source specific to Matthew alone or determining whether mediation occurred through translation, redaction, revelation, or nineteenth-century composition.
+
+Notes: [[English Phraseological Intertext in Helaman 15]]
+
 ### bom-3nephi-matthew-kjv-dependence
 **Matthew/KJV Mediation of the Sermon Material in 3 Nephi** — *strong* (supports, evidence_strength 0.84) for: The final English sermon material in 3 Nephi is textually mediated through or deliberately related to Matthew and its KJV form.
 
@@ -710,6 +724,13 @@ The clustered call-narrative features (divine glory, opened-heaven throne scene,
 
 Notes: [[Literary And Intertextual Pattern in 1 Nephi 1]]
 
+### bom-helaman6-prosperity-corruption-pattern
+**Prosperity-to-corruption literary patterning in Helaman 6** — *strong* (supports, evidence_strength 0.65) for: The movement from peaceful prosperity (6:7-14) to status-seeking, secret crime, and institutional capture (6:15-40), capped by the narrator's explicit riches/gain diagnosis in v.17, reflects deliberate final-form causal and moral framing.
+
+The explicit causal chain in v.17 tying prolonged riches to status competition, secret combinations, and gain-seeking strongly supports deliberate final-form moral-causal framing, comparable to the registered bom-4nephi-wealth-apostasy-pattern (0.82) though scored a step lower as a single instance rather than a repeated multi-generational refrain. Real annalistic chronology and deliberate theological framing are not mutually exclusive, so a chronological record does not neutralize the narrator's explicit causal diagnosis; this gives no support for prosperity as a universal historical cause of corruption or for the episode's historicity.
+
+Notes: [[Internal Literary Evidence in Helaman 6]]
+
 ### jsh-anthon-episode-reliability
 **Reliability of the Martin Harris–Charles Anthon episode as reported in Joseph Smith—History** — *moderate* (challenges, evidence_strength 0.4) for: Martin Harris's account, as embedded in Joseph Smith—History 1:63-65, accurately represents what Charles Anthon said and did concerning the copied characters and translation.
 
@@ -758,6 +779,13 @@ Notes: [[Literary Intertextuality in Alma 30]]
 The distinctive shared vocabulary (slippery, curse of the land, unable to retain treasures) across a wide narrative gap moderately supports a deliberate callback linking Samuel's curse to its later narrated realization, comparable to the corpus's other registered curse/prophecy-fulfillment pairs. No corpus-wide search has verified how rare this idiom is, so a standing curse-formula shared independently by both passages remains a live alternative that keeps this below the strong band; it gives no independent support for the historicity or supernatural mechanism of the reported treasure loss.
 
 Notes: [[Intratextual Fulfillment And Verbal Callback in Helaman 13]]
+
+### bom-helaman3-editorial-persona
+**Source/selection notice as editorial-persona construction in Helaman 3** — *moderate* (supports, evidence_strength 0.58) for: Helaman 3:13-17's source/selection notice evidences deliberate construction of a source-conscious editorial persona, the narrower single-element instance of the class registered at bom-1nephi6-editorial-persona and bom-3nephi5-editorial-persona.
+
+Helaman 3:13-17's notice that many extensive records existed, of which only a portion could be included, moderately supports deliberate source-conscious editorial self-presentation -- the same evidence class registered strong (0.84) for the fuller five-element clusters in 1 Nephi 6 and 3 Nephi 5, scored lower here because Helaman 3 supplies only the source/selection elements, not the fuller space/purpose/succession cluster. As internal literary self-description, it gives only none-band (~0.1) support for the claimed archive's actual historical existence, matching bom-2nephi11-historical-editorial-selection.
+
+Notes: [[Internal Literary Evidence in Helaman 3]]
 
 ### bom-alma54-logistics-motive-evidence
 **Stated logistical (food-provisioning) motive in the Moroni-Ammoron prisoner exchange (Alma 54)** — *strong* (supports, evidence_strength 0.78) for: The final text explicitly attributes preservation of food/provisions for one's own forces as a stated motive for the prisoner exchange, for both Moroni and Ammoron
