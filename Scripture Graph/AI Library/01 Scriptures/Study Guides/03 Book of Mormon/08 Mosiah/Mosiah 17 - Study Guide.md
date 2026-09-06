@@ -23,7 +23,12 @@ Scripture: [[Mosiah 17]] · My notes: [[Mosiah 17 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter moves through four compact stages:
+
+1. **Dissent and preservation (vv. 1–4):** Alma believes, pleads for Abinadi, escapes, and writes his words.
+2. **Accusation and refusal (vv. 5–10):** Abinadi is imprisoned, formally accused, and refuses to retract his teachings.
+3. **Noah's reversal (vv. 11–12):** fear inclines Noah toward release, but priestly pressure and anger reverse the decision.
+4. **Execution and final prophecy (vv. 13–20):** Abinadi predicts corresponding judgments, entrusts his soul to God, and dies.
 <!-- SG:END structure -->
 
 ## People
@@ -52,13 +57,17 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Government and Laws]]
+- [[Condescension of God]]
+- [[Final Judgment]]
+- [[Endurance]]
+- [[Records and Sacred Writings]]
+- [[Mosiah 29]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter connects several doctrinal threads. [[Testimony]] is borne at ultimate cost: Abinadi's words and his "innocent blood" are said to "stand as a testimony" against his killers (v.10), tied explicitly to [[Final Judgment]] ("at the last day"). The accusation that finally provokes his death shifts from a theological charge — that "God himself should come down among the children of men" (v.8, touching the [[Condescension of God]]) — to the political charge that he "reviled the king" (v.12), which is what actually moves Noah to act. Abinadi's refusal to recant under threat of death illustrates [[Endurance]]; his final prayer, "O God, receive my soul" (v.19), touches [[Death and the Spirit World]] without developing a detailed doctrine of the postmortal state. The narrator's closing description — that Abinadi "sealed the truth of his words by his death" (v.20) — presents martyrdom as solemn witness, not as logical proof that every claim he taught was true.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -81,25 +90,37 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The accusations deserve careful comparison. Verse 8 foregrounds the claim that "God himself should come down among the children of men," while verse 12 reduces the decisive charge to "He has reviled the king." The change in wording may expose the political vulnerability of Noah's court, but the chapter does not supply a legal code or trial transcript from which a full judicial procedure can be reconstructed.
+
+The expression "all the words" in verse 4 emphasizes comprehensive preservation. It should not automatically be treated as a technical guarantee of word-for-word transcription.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verse 4's detail that Alma "did write all the words which Abinadi had spoken" is a rare self-referential moment: read one way, it supplies an in-story explanation for how Abinadi's sermon (Mosiah 12-16) could have been preserved and later used in [[Mosiah 18]] — though the text does not say Alma worked from notes or memory, and "all the words" need not mean a verbatim transcript. Alma and Noah form a sharp contrast: Alma's belief produces intercession, danger, and a written record, while Noah's fear produces only momentary hesitation before priestly pressure and anger prevail. Abinadi's dying words, "O God, receive my soul" (v.19), echo the King James idiom of a dying prayer of committal found elsewhere in this era's religious English (compare Acts 7:59); this is best read as one hypothesis among several — translation register, common devotional language, or coincidence — rather than settled evidence of direct borrowing.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Textual Transmission
+> Within the narrative, Alma's written record supplies an explicit transmission mechanism by which Abinadi's teachings could be preserved after his death. Because this mechanism is reported by the same narrative whose transmission it helps explain, it is internal evidence rather than independent corroboration.
+> — strength 0.6 · confidence 0.9 · well-hedged; internal not external evidence · [[Internal Textual Transmission in Mosiah 17|full dossier]]
+
+> [!evidence] Behavior Under Lethal Coercion
+> As narrated, Abinadi's refusal to recant under threat and execution strongly supports the sincerity of his commitment to his message. Sincerity is distinct from the truth of the message.
+> — strength 0.7 · confidence 0.9 · sound; sincerity distinct from truth · [[Behavior Under Lethal Coercion in Mosiah 17|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the decisive accusation shift from a teaching about God to an offense against the king?
+- Does Noah's momentary fear indicate conscience, political calculation, or both?
+- What can Abinadi's willingness to die establish about his sincerity, and what can it not establish about the truth of his claims?
+- How should "all the words" in verse 4 be understood: verbatim record, comprehensive summary, or conventional narrative phrasing?
+- How do later chapters distinguish between the several fire-related judgments pronounced in verses 15 and 18?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Mosiah 18]] for the continuation of Alma's response and the public consequences of the record he preserved. Read [[Mosiah 19]] and [[Alma 25]] when evaluating later narrative claims that Abinadi's warnings were fulfilled. Such fulfillment claims should be examined as part of the Book of Mormon's own narrative and editorial framework before being treated as independent historical evidence.
 <!-- SG:END further-study -->
