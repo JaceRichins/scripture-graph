@@ -164,6 +164,13 @@ The exact phrase “all things common,” within a broader cluster of unity and 
 
 Notes: [[Intertextual Thematic Parallel in 4 Nephi 1]]
 
+### bom-jarom1-editorial-persona
+**Construction of Jarom's editorial persona in an intergenerational record system** — *strong* (supports, evidence_strength 0.84) for: Jarom 1 deliberately constructs Jarom as a self-conscious editorial persona within an intergenerational record system, rather than the reader inferring this connection from otherwise disconnected details.
+
+The clustered source, purpose, space, and succession statements in Jarom 1:1-2,14-15 strongly support deliberate construction of a self-conscious editorial persona for Jarom, the same evidence class registered at bom-1nephi6-editorial-persona and bom-3nephi5-editorial-persona (0.84), while providing no independent discrimination between an ancient record-keeper and literary characterization.
+
+Notes: [[Internal Textual Evidence in Jarom 1]]
+
 ### bom-3nephi5-editorial-persona
 **Construction of Mormon's Editorial Persona in 3 Nephi 5** — *strong* (supports, evidence_strength 0.84) for: The clustered source, selection, space, purpose, and succession statements in 3 Nephi 5 construct a deliberate self-conscious editorial/abridger persona for Mormon.
 
@@ -723,6 +730,13 @@ Notes: [[Verbal Intertextuality in 2 Nephi 32]]
 Both Lamoni and his father collapse as if dead after praying for divine self-revelation, are attended by household members, and rise to minister to and convert their households, giving moderate support to intentional literary parallelism. This stops short of the higher-strong band because, unlike bom-alma25-abinadi-fulfillment-correspondence, the text contains no explicit internal cross-reference marking the second scene as a deliberate echo of the first, and no verbatim phrase-level match has been demonstrated, only shared structure. It gives only none-band support (about 0.12) for the historicity, medical nature, or divine cause of either underlying event, since independent occurrence, editorial templating, and deliberate composition all predict the same repetition.
 
 Notes: [[Narrative Parallelism in Alma 22]]
+
+### bom-jarom1-mosaic-messianic-expectation
+**Pre-Christian Mosaic-and-Messianic theology depicted in Jarom 1** — *none* (supports, evidence_strength 0.12) for: The Nephite community's theology in Jarom 1, combining literal observance of the law of Moses with explicit foreknowledge of and belief in a coming Messiah, reflects authentic pre-Christian Israelite prophetic tradition rather than later Christian retrojection.
+
+Jarom 1 clearly depicts explicit Mosaic-and-Messianic theology, but because ancient revelation, later Christianizing redaction, and modern composition all readily predict this same depiction, it gives only none-band (0.12) support for the theology's pre-Christian origin specifically, matching the registry's treatment of the same evidence class at bom-alma39-preadvent-christology and bom-2nephi6-predictive-prophecy.
+
+Notes: [[Internal Religious Depiction in Jarom 1]]
 
 ### bom-alma39-preadvent-christology
 **Pre-advent knowledge of Christ's atonement in Alma 39** — *none* (supports, evidence_strength 0.12) for: Alma's explicit theological defense of pre-Christian knowledge of Christ's atonement (Alma 39:15-19) reflects genuine ancient prophetic revelation rather than anachronistic retrojection of later Christian theology.
