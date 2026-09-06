@@ -11832,6 +11832,101 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-isa-45-ec43cc2e",
+   "t": "Cyrus's Rise and Decree Ending the Babylonian Exile",
+   "y0": -559,
+   "y1": -538,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Cyrus's reign as king of Persia and his decree permitting exiled peoples to return, corroborated by the Cyrus Cylinder and the biblical account in Ezra 1:1-4.",
+   "chapters": [
+    "Isaiah 45"
+   ],
+   "people": [
+    "Cyrus"
+   ],
+   "places": [
+    "Babylon"
+   ],
+   "things": [
+    "Cyrus Cylinder"
+   ]
+  },
+  {
+   "id": "r-isa-49-bc948c9a",
+   "t": "Isaiah 40-55 - critical 'exilic' setting (Deutero-Isaiah)",
+   "y0": -550,
+   "y1": -539,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Many biblical scholars date the literary setting of Isaiah 40-55 to the close of the Babylonian exile, addressing exiles awaiting return under Cyrus of Persia.",
+   "chapters": [
+    "Isaiah 49"
+   ],
+   "places": [
+    "Babylon"
+   ]
+  },
+  {
+   "id": "r-isa-49-cf9e43ed",
+   "t": "Isaiah 49 - traditional authorship by Isaiah of Jerusalem",
+   "y0": -700,
+   "y1": -690,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional and LDS canonical view attributes all of Isaiah, including chapters 40-55, to the 8th-century BC prophet Isaiah, understood as prophesying the future Babylonian exile and restoration.",
+   "chapters": [
+    "Isaiah 49"
+   ],
+   "people": [
+    "Isaiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-isa-5-e7d36e6a",
+   "t": "Isaiah's vineyard oracle against 8th-century Judah",
+   "y0": -740,
+   "y1": -700,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Isaiah 1:1 places his ministry across the reigns of Uzziah, Jotham, Ahaz, and Hezekiah (c. 740-700 BC); the judgment culminating in an invading foreign army (5:26-30) is traditionally associated with the Assyrian threat of this era.",
+   "chapters": [
+    "Isaiah 5"
+   ],
+   "people": [
+    "Isaiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Judah"
+   ]
+  },
+  {
    "id": "r-isa-62-750ea7b5",
    "t": "Isaiah's oracle of Zion's restoration and renaming",
    "y0": -700,
