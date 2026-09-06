@@ -10,6 +10,7 @@
 import { ItemView, Platform, WorkspaceLeaf, type ViewStateResult } from "obsidian";
 import { BOOKS, type BookInfo } from "@scripture-graph/core-sdk";
 import { SGState } from "../state";
+import { historyBack, recordHistory, refreshNavArrows } from "./leafNav";
 import { GRAPH_PRESETS, openGraphPreset } from "./graphPresets";
 import { cascade, iconHue, navIcon, type NavIconName } from "./navIcons";
 import { LIBRARY_SECTIONS, VOLUMES, titleForChapterSlug, type NavigatorHost } from "./navigator";
@@ -97,13 +98,21 @@ export class SGLibraryView extends ItemView {
     this.contentEl.empty();
   }
 
+  /** every drill-down is a history step: the tab's own back stack gets the
+   * place being left (recordHistory), so the navbar's ‹ › arrows walk the
+   * Library the way they walk notes — and the in-page ‹ walks the same
+   * stack, so the two never disagree (user-reported: the arrows were dead
+   * inside the Library, and ‹ went to the root) */
   private go(v: LibView): void {
+    recordHistory(this.leaf);
     this.trail.push(this.view);
     this.view = v;
     this.render();
+    refreshNavArrows(this.app, this.leaf);
   }
 
   private back(): void {
+    if (historyBack(this.leaf)) return;      // restores view + trail via setState
     const prev = this.trail.pop();
     if (prev) { this.view = prev; this.render(); return; }
     const v = this.view;

@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.5 build 1b62f1c8 2026-09-06T15:57:03Z */
+/* scripture-graph v0.65.6 build f037d852 2026-09-06T16:12:20Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.5", sha: "1b62f1c8", at: "2026-09-06T15:57:03Z" };
+    define_SG_BUILD_default = { version: "0.65.6", sha: "f037d852", at: "2026-09-06T16:12:20Z" };
   }
 });
 
@@ -6058,6 +6058,27 @@ function recordHistory(leaf) {
   h.backHistory.push(hs);
   h.forwardHistory.length = 0;
 }
+function historyBack(leaf) {
+  const h = leaf.history;
+  if (!h?.backHistory?.length || typeof h.back !== "function") return false;
+  h.back();
+  return true;
+}
+function refreshNavArrows(app, leaf) {
+  try {
+    leaf.updateHeader?.();
+  } catch {
+  }
+  try {
+    const nav = app.mobileNavbar;
+    (nav?.updateUI ?? nav?.update)?.call(nav);
+  } catch {
+  }
+  try {
+    app.workspace.trigger("layout-change");
+  } catch {
+  }
+}
 var init_leafNav = __esm({
   "src/study/leafNav.ts"() {
     "use strict";
@@ -11357,6 +11378,7 @@ init_leafNav();
 init_define_SG_BUILD();
 var import_obsidian4 = require("obsidian");
 init_src();
+init_leafNav();
 
 // src/study/graphPresets.ts
 init_define_SG_BUILD();
@@ -12379,12 +12401,20 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
     this.contentEl.empty();
   }
+  /** every drill-down is a history step: the tab's own back stack gets the
+   * place being left (recordHistory), so the navbar's ‹ › arrows walk the
+   * Library the way they walk notes — and the in-page ‹ walks the same
+   * stack, so the two never disagree (user-reported: the arrows were dead
+   * inside the Library, and ‹ went to the root) */
   go(v) {
+    recordHistory(this.leaf);
     this.trail.push(this.view);
     this.view = v;
     this.render();
+    refreshNavArrows(this.app, this.leaf);
   }
   back() {
+    if (historyBack(this.leaf)) return;
     const prev = this.trail.pop();
     if (prev) {
       this.view = prev;
@@ -14409,9 +14439,7 @@ var DocView = class extends import_obsidian19.ItemView {
     const head = page.createDiv({ cls: "sg-doc-head" });
     const back = head.createEl("button", { cls: "sg-doc-back", text: "\u2039 Back" });
     back.onclick = () => {
-      const h = this.leaf.history;
-      if (h?.backHistory?.length && typeof h.back === "function") h.back();
-      else this.host.openLibrary();
+      if (!historyBack(this.leaf)) this.host.openLibrary();
     };
     head.createDiv({ cls: "sg-doc-eyebrow", text: kind.eyebrow });
     head.createEl("h1", { cls: "sg-doc-title", text: file.basename });

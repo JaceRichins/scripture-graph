@@ -14,7 +14,7 @@ import { ItemView, MarkdownRenderer, Notice, TFile, WorkspaceLeaf, type ViewStat
 import { LIBRARY_PREFIX, SGState } from "../state";
 import { AnnotationService, COLOR_HEX } from "../social/annotations";
 import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "../study/themeLibrary";
-import { recordHistory } from "../study/leafNav";
+import { historyBack, recordHistory } from "../study/leafNav";
 import { trace } from "../study/trace";
 
 export const DOC_VIEW = "scripture-graph-doc";
@@ -109,9 +109,7 @@ export class DocView extends ItemView {
     back.onclick = () => {
       // the leaf's own back stack first (recordHistory fed it); the Library
       // page when there is nothing to go back to
-      const h = (this.leaf as unknown as { history?: { backHistory: unknown[]; back?: () => void } }).history;
-      if (h?.backHistory?.length && typeof h.back === "function") h.back();
-      else this.host.openLibrary();
+      if (!historyBack(this.leaf)) this.host.openLibrary();
     };
     head.createDiv({ cls: "sg-doc-eyebrow", text: kind.eyebrow });
     head.createEl("h1", { cls: "sg-doc-title", text: file.basename });

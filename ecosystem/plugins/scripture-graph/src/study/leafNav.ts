@@ -9,8 +9,9 @@
  * Obsidian's arrows walk. */
 interface LeafInternals {
   getHistoryState?: () => unknown;
+  updateHeader?: () => void;
   getViewState?: () => unknown;
-  history?: { backHistory: unknown[]; forwardHistory: unknown[] };
+  history?: { backHistory: unknown[]; forwardHistory: unknown[]; back?: () => void };
   view?: { getViewType?: () => string; getEphemeralState?: () => unknown };
 }
 
@@ -28,4 +29,24 @@ export function recordHistory(leaf: unknown): void {
     ?? { state: l.getViewState?.() ?? {}, eState: l.view?.getEphemeralState?.() ?? {} };
   h.backHistory.push(hs);
   h.forwardHistory.length = 0;               // a new road forks the future off
+}
+
+
+/** walk the leaf's own back stack one step — true when there was one */
+export function historyBack(leaf: unknown): boolean {
+  const h = (leaf as LeafInternals).history;
+  if (!h?.backHistory?.length || typeof h.back !== "function") return false;
+  h.back();
+  return true;
+}
+
+/** the mobile navbar greys its ‹ › from the leaf's history; after a
+ * hand-pushed entry nothing tells it to look again — so ask */
+export function refreshNavArrows(app: unknown, leaf: unknown): void {
+  try { (leaf as LeafInternals).updateHeader?.(); } catch { /* internals */ }
+  try {
+    const nav = (app as { mobileNavbar?: { updateUI?: () => void; update?: () => void } }).mobileNavbar;
+    (nav?.updateUI ?? nav?.update)?.call(nav);
+  } catch { /* desktop, or internals moved */ }
+  try { (app as { workspace: { trigger: (n: string) => void } }).workspace.trigger("layout-change"); } catch { /* ui */ }
 }
