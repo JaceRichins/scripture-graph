@@ -17,13 +17,15 @@ Scripture: [[Job 1]] · My notes: [[Job 1 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Job, a just and perfect man, is blessed with great riches—Satan obtains permission from the Lord to tempt and try Job—Job’s property and children are destroyed, and yet he praises and blesses the Lord.
+Job 1 deliberately separates Job's conduct from his catastrophe: the narrator and the LORD both call him upright before any disaster occurs (1:1, 1:8). Satan reframes the question, arguing that Job's devotion is merely the product of divine protection and prosperity (1:9-10), and predicts that removing Job's blessings will provoke him to curse God (1:11). With Satan's power bounded by a prohibition against harming Job himself (1:12), a rapid cascade of disasters removes Job's wealth, servants, and children in a single day. Job mourns intensely but worships and blesses the LORD (1:20-21), directly contradicting Satan's prediction, and the narrator affirms that Job did not sin in this response (1:22). The chapter does not resolve the underlying question of why the righteous suffer; the same heavenly-council scene recurs almost verbatim to open a second trial in [[Job 2]].
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Job's character and prosperity (vv. 1–5):** Job is introduced as upright, wealthy, and continually concerned for his children's spiritual welfare.
+2. **The heavenly challenge (vv. 6–12):** Satan questions whether Job's devotion is disinterested; the LORD permits a test while imposing a limit.
+3. **The cascade of losses (vv. 13–19):** Four overlapping messenger reports alternate human violence and natural or apparently supernatural disaster.
+4. **Job's response (vv. 20–22):** Mourning, worship, blessing, and the narrator's verdict answer Satan's prediction.
 <!-- SG:END structure -->
 
 ## People
@@ -45,7 +47,6 @@ _Not yet developed._
 - [[Ezekiel 14]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
 - [[James 5]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
 - [[Job 4]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
-- [[Job 2]] — 5 parallel verses, e.g. [[Job 1#^job-1-8|Job 1:8]] ↔ [[Job 2#^job-2-3|Job 2:3]]
 - [[Joshua 10]] — 12 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
 - [[Numbers 21]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Numbers 21#^num-21-24|Numbers 21:24]]
 - [[Joshua 11]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Joshua 11#^josh-11-12|Joshua 11:12]]
@@ -54,16 +55,19 @@ _Not yet developed._
 - [[Judges 18]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Judges 18#^judg-18-27|Judges 18:27]]
 - [[Genesis 34]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Genesis 34#^gen-34-26|Genesis 34:26]]
 - [[2 Kings 10]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]]
+- [[Job 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Satan and Temptation]]
+- [[Endurance]]
 - [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter is a forceful warning against assuming that prosperity proves righteousness or that calamity proves guilt: the reader is explicitly told Job is upright before any suffering begins (1:1, 1:8), and Satan's power to test him is explicitly bounded by God (1:12), touching [[Satan and Temptation]]. Job's practice of offering [[Sacrifice|burnt offerings]] on behalf of his children (1:5) shows a family head personally interceding for his household. The text also holds grief and faithfulness together: Job's mourning (1:20) is neither concealed nor condemned, and his worship and blessing under total loss speaks to [[Faith]], [[Adversity]], and [[Endurance]] — though the chapter should not be read as demanding that sufferers suppress lament, nor as resolving the larger theological question the rest of the book raises.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -83,25 +87,43 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+"Perfect" in 1:1 renders a Hebrew term (tam) closer to "blameless" or "of complete integrity" than to sinless perfection. "The sons of God" (1:6) is council-of-heaven language whose precise referents (angelic beings, divine court members, or something else) are not specified within the chapter. "Satan" appears with the Hebrew definite article, suggesting a role or title — "the adversary" — operating within the heavenly court; how this relates to later, more fully personalized portrayals of Satan elsewhere in scripture is a debated question, not something this chapter settles.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The prologue's disasters intensify through repetition: three of the four messengers arrive while the previous one is still speaking (1:16-18), and every report closes with the same refrain, "I only am escaped alone to tell thee." The reports alternate human raiders (Sabeans, Chaldeans) with non-human forces (fire, wind) and alternate targets (livestock and servants, then children), so that every category of blessing named in 1:2-3 is destroyed in turn. A second reversal frames the whole chapter: Satan predicts Job will curse God (1:11), but Job instead blesses the LORD (1:21) — a clear answer to this first test, though not to every question the book goes on to raise in [[Job 2]] and beyond. The round numbers describing Job's family and flocks (seven sons, three daughters, seven thousand sheep, three thousand camels) may reflect a conventional ancient formula for idealized wealth, though this reading isn't certain from the text alone.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Narrative Characterization
+> Within this narrative, Job's disasters are not presented as punishment for misconduct: he is declared upright before the losses and is said not to have sinned in his response. This is strong textual evidence that the chapter portrays at least one instance of severe suffering not explained by the sufferer's wrongdoing.
+> — strength 0.9 · confidence 0.9 · narratorial statement, not merely interpretation · [[Internal Narrative Characterization in Job 1|full dossier]]
+
+> [!evidence] Literary/Theological Pattern
+> Job's declaration 'the LORD gave, and the LORD hath taken away; blessed be the name of the LORD' (1:21), followed by the narrator's verdict that 'Job sinned not, nor charged God foolishly' (1:22), models praising God through unexplained loss without receiving any explanation for it — the chapter never shows God or the narrator answering the theological 'why,' only Job's response to not knowing.
+> — strength 0.8 · confidence 0.8 · broadly accepted, with a needed qualification · [[Literary/Theological Pattern in Job 1|full dossier]]
+
+> [!evidence] Scholarly Consensus On Composition *(tentative)*
+> Job 1 belongs to a prose narrative frame (chapters 1-2 and 42:7-17) that brackets the poetic dialogue of chapters 3-41; most biblical scholars treat the prose and poetry as compositionally distinct in some way (different sources, periods, or authorial layers), which affects how far conclusions drawn from Job 1 alone can be extended to the book's poetic argument.
+> — strength 0.4 · confidence 0.6 · unverified consensus claim
+
+> [!evidence] Historical/Cultural Setting *(tentative)*
+> Job is placed outside Israel ('the land of Uz') and practices a patriarch-style religion in which the family head personally offers burnt offerings for his children without priesthood/tabernacle mediation (1:5), consistent with (though not proof of) a pre-Mosaic, patriarchal-era setting comparable to Abraham, Isaac, and Jacob.
+> — strength 0.3 · confidence 0.5 · disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+1. What does Satan's question, "Doth Job fear God for nought?" assume about the relationship between devotion and reward?
+2. Why does the narrative disclose the heavenly challenge to the reader while Job himself receives no such explanation?
+3. What is the effect of the fourth messenger (1:18) repeating the narrator's own words from 1:13 almost verbatim?
+4. How does Job 1 distinguish mourning from sinful accusation?
+5. What conclusions about suffering does this particular case support, and which broader conclusions remain unwarranted?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+The dating, authorship, and even genre of Job are long-disputed questions in biblical scholarship. Job's household worship — the family head personally offering burnt offerings rather than a priest mediating them (1:5) — is consistent with a patriarchal-era setting like Abraham's, but could equally be a deliberate archaizing choice by a later author; the text itself does not settle this. Readers interested in the heavenly-council scene may compare it with [[Job 2]], where nearly the same scene recurs to open Job's second trial.
 <!-- SG:END further-study -->
