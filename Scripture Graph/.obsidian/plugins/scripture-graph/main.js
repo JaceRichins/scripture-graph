@@ -1,4 +1,4 @@
-/* scripture-graph v0.63.0 build a1e8ff05 2026-09-04T22:00:04Z */
+/* scripture-graph v0.64.0 build 6f5eb544 2026-09-06T13:59:46Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.63.0", sha: "a1e8ff05", at: "2026-09-04T22:00:04Z" };
+    define_SG_BUILD_default = { version: "0.64.0", sha: "6f5eb544", at: "2026-09-06T13:59:46Z" };
   }
 });
 
@@ -12308,8 +12308,8 @@ var VOLUMES = [
 var LIBRARY_VIEW = "sg-library";
 var QUESTIONS_PATH = "AI Library/50 Questions";
 var QUESTION_SCOPE_BY_TITLE = {
-  "How reliable are the Book of Mormon witnesses": "restoration",
-  "Is the Book of Mormon an ancient historical record": "restoration",
+  "How reliable are the Book of Mormon witnesses": "book-of-mormon",
+  "Is the Book of Mormon an ancient historical record": "book-of-mormon",
   "Why are there multiple First Vision accounts": "restoration",
   "How reliable is the biblical text": "christianity"
 };
@@ -12693,12 +12693,13 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
         col.createDiv({ cls: "sg-nav-name", text: r.name });
         col.createDiv({
           cls: "sg-nav-gsub",
-          text: r.status.startsWith("developed") ? "Researched dossier \u2014 evidence, objections, honest assessment" : "Seeded answer \u2014 deepens once the whole canon has been read"
+          text: r.status.startsWith("developed") ? "Researched dossier \u2014 evidence, objections, honest assessment" : r.status.startsWith("queued") ? "In the research queue \u2014 written from the vault's own findings" : "Seeded answer \u2014 the research pass deepens it"
         });
         row.onclick = () => this.host.openPath(r.path);
       }
     };
-    group("The Restoration & the Latter-day Saints", "restoration");
+    group("Church History & the Restoration", "restoration");
+    group("The Book of Mormon", "book-of-mormon");
     group("The Bible & Christianity", "christianity");
     group("More questions", "more");
     if (!rows.length) {
