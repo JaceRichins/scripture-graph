@@ -23,7 +23,12 @@ Scripture: [[Helaman 16]] · My notes: [[Helaman 16 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter has four movements:
+
+1. **Immediate response (vv. 1–8):** believers seek Nephi and baptism; opponents attack Samuel and then reinterpret his preservation; Samuel escapes.
+2. **Progressive hardening (vv. 9–12):** notices for the eighty-sixth through eighty-ninth years emphasize continuity and worsening iniquity.
+3. **Signs and resistance (vv. 13–24):** prophecy begins to be fulfilled, angels announce glad tidings, and the people answer with skeptical arguments, rumors, and contention.
+4. **Colophon (v. 25):** the book closes by identifying its record source.
 <!-- SG:END structure -->
 
 ## People
@@ -60,6 +65,11 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Satan and Temptation]]
+- [[Signs of the Times]]
+- [[Pride]]
+- [[Prophecy]]
+- [[Records and Sacred Writings]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
@@ -67,7 +77,9 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Verses 1–5 associate belief with confession, [[Repentance]], and [[Baptism]]. Nephi's preaching, signs, wonders, and miracles are directed toward helping people know and remember that Christ would shortly come.
+
+The chapter also complicates simplistic claims about [[Miracles]]. Within the narrative, Samuel's preservation and later signs carry evidentiary significance, but people interpret them differently. Verse 5 assigns advance prophecy a role in remembrance and belief, while verses 15 and 22–23 portray pride, contention, and hardening as barriers to persuasion. This supports a study of evidence interacting with moral and spiritual disposition; it does not justify dismissing every skeptical request for evidence.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -84,25 +96,42 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The vocabulary of belief organizes the chapter. Variations of “believe” distinguish those who seek baptism from those who resist Samuel and Christ's coming. “Know” is also contested: Nephi's ministry seeks to help people know that Christ will shortly come, while the opponents repeatedly claim that they know the prophecies cannot occur or are a wicked tradition. Their confident language therefore mirrors the believers' certainty while reaching the opposite conclusion.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+A central irony links verses 2–6 with verses 13–16. When stones and arrows fail, Samuel's opponents do not deny the failure but attribute it to demonic power. When signs later appear, reported opponents suggest that prophets merely guessed some things correctly. In both scenes, the narrator portrays potentially confirming evidence as being absorbed into explanations that preserve disbelief.
+
+This irony securely describes the text's literary presentation, but the opponents' speech and motives reach readers through a narrator who rejects their position. Their concerns about distant events, inherited tradition, and dependence on teachers may therefore deserve more consideration than the narrator's verdict alone provides.
+
+The objection in verses 18–20 also creates forward-looking tension: the people ask why Christ would not appear in their land, and [[3 Nephi 11]] later supplies a narrative answer through the risen Christ's appearance.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary And Internal Predictive Sequence
+> Within the narrative, the sequence of prior announcement, later signs, and explicit recognition of fulfillment supplies evidence for the reliability of the prophets and creates continuity between Helaman 14, Helaman 16, and 3 Nephi 1.
+> — strength 0.4 · confidence 0.9 · Strong literary coherence; weak independent historical evidence · [[Literary And Internal Predictive Sequence in Helaman 16|full dossier]]
+
+> [!evidence] Narrative Pattern Of Evidence And Response
+> Helaman 16 strongly supports the narrower literary claim that, in this narrative, additional signs do not guarantee persuasion: attacks fail, prophetic signs arrive, angels appear, and miracles continue, yet widespread disbelief and hardening remain.
+> — strength 0.9 · confidence 1.0 · Strong narrower literary conclusion · [[Narrative Pattern Of Evidence And Response in Helaman 16|full dossier]]
+
+> [!evidence] Intertextual Echo (English Translation Layer) *(tentative)*
+> Helaman 16:14's phrase describing angels declaring 'glad tidings of great joy' to 'wise men' echoes vocabulary distributed between Luke's annunciation to shepherds ('good tidings of great joy') and Matthew's wise men (Magi) narrative. This textual echo is interesting but ambiguous: it could reflect intentional design in the underlying record, a translation choice drawing on KJV idiom, or simple coincidence of common religious phrasing.
+> — strength 0.2 · confidence 0.5 · Speculative English-language echo
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What distinguishes a reasonable alternative explanation from an explanation designed to be immune to contrary evidence?
+- Why does verse 5 assign prophecy a role in producing remembrance and belief if signs alone cannot compel belief?
+- Which concerns in verses 18–21 resemble legitimate questions about distant testimony or religious authority, and where does the narrator locate their error?
+- How does the believing minority's response differ in conduct, not merely opinion, from that of the majority?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Helaman 14]], Helaman 16:5, Helaman 16:13–14, and [[3 Nephi 1]] as a prediction–remembrance–fulfillment sequence. Then compare the demand for a local appearance in Helaman 16:18–20 with [[3 Nephi 11]]. This comparison supports strong claims about the book's internal narrative design, while questions of historical fulfillment require evidence beyond literary correspondence alone.
 <!-- SG:END further-study -->
