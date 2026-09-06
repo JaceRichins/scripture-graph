@@ -14,7 +14,7 @@
  *     ribbon menu — the two things the old bar had that this one folds away.
  * Everything here calls surfaces that already exist; the dock is a door,
  * not a room. */
-import { App, Modal, Notice, Platform, TFile, TFolder } from "obsidian";
+import { App, Modal, Notice, Platform, TFile, TFolder, requestUrl } from "obsidian";
 import { chapterIdFromTitle, parseCanonicalVerses, parseFrontmatter } from "@scripture-graph/core-sdk";
 import type { Annotation } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, PERSONAL_PREFIX, SGState } from "../state";
@@ -111,7 +111,7 @@ export class Dock {
       ws.iterateRootLeaves(() => { n++; });
       if (this.tabsCount) this.tabsCount.setText(n > 1 ? String(n) : "");
       this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing);
-      this.listenBtn?.toggleClass("sg-dock-round-off", !this.listen.canRead(this.s.app));
+      this.listenBtn?.toggleClass("sg-dock-round-off", !this.listen.canRead(this.s.app, this.host.currentPage()));
     } catch (e) {
       console.warn("scripture-graph: dock refresh", e);
     }
@@ -127,8 +127,9 @@ export class Dock {
 
   private toggleListen(): void {
     if (this.listen.playing) { this.listen.stop(); this.refresh(); return; }
-    const ok = this.listen.start(this.s.app);
-    if (!ok) new Notice("Open a chapter to listen to it");
+    const page = this.host.currentPage();
+    const ok = this.listen.start(this.s.app, page);
+    if (!ok) new Notice("Open a chapter or a talk to listen to it");
     this.refresh();
   }
 }
@@ -168,11 +169,59 @@ class Listener {
     return { title: file.basename, file };
   }
 
-  canRead(app: App): boolean {
+  private audio: HTMLAudioElement | null = null;
+
+  /** a Church study page's API uri, from the note's url — talks, Teachings
+   * chapters, Come Follow Me lessons all answer with their recording */
+  private churchUri(app: App, f: TFile | null): string | null {
+    if (!f) return null;
+    const fm = (app.metadataCache.getFileCache(f)?.frontmatter ?? {}) as Record<string, unknown>;
+    const url = typeof fm["url"] === "string" ? fm["url"] : "";
+    const m = /^https?:\/\/www\.churchofjesuschrist\.org(?:\/study)?(\/[^?#]+)/.exec(url);
+    return m ? m[1]! : null;
+  }
+
+  canRead(app: App, page: TFile | null = null): boolean {
+    if (this.churchUri(app, page)) return true;
     return typeof window !== "undefined" && "speechSynthesis" in window && this.text(app) !== null;
   }
 
-  start(app: App): boolean {
+  /** the recording behind a Church page, when the API offers one */
+  private async recording(uri: string): Promise<string | null> {
+    try {
+      const res = await requestUrl({
+        url: `https://www.churchofjesuschrist.org/study/api/v3/language-pages/type/content?lang=eng&uri=${encodeURIComponent(uri)}`,
+        headers: { "User-Agent": "ScriptureGraph-personal-study/0.1" },
+      });
+      const audio = (res.json?.meta?.audio ?? []) as { mediaUrl?: string; variant?: string }[];
+      const pick = audio.find(a => a.mediaUrl && !/ACCOMPANIMENT/i.test(a.variant ?? "")) ?? audio.find(a => a.mediaUrl);
+      return pick?.mediaUrl ?? null;
+    } catch { return null; }
+  }
+
+  start(app: App, page: TFile | null = null): boolean {
+    const uri = this.churchUri(app, page);
+    if (uri && page) {
+      // the speaker's own voice, streamed from the Church
+      this.playing = true;
+      document.body.addClass("sg-listening");
+      void this.recording(uri).then(url => {
+        if (!this.playing) return;
+        if (!url) {
+          this.playing = false;
+          document.body.removeClass("sg-listening");
+          new Notice("No recording for this page");
+          return;
+        }
+        this.audio?.pause();
+        this.audio = new Audio(url);
+        this.audio.onended = () => { this.playing = false; this.audio = null; document.body.removeClass("sg-listening"); };
+        this.audio.onerror = this.audio.onended;
+        void this.audio.play();
+        trace("listen.recording", { page: page.basename });
+      });
+      return true;
+    }
     const t = this.text(app);
     if (!t || !("speechSynthesis" in window)) return false;
     void app.vault.cachedRead(t.file).then(raw => {
@@ -194,6 +243,8 @@ class Listener {
   }
 
   stop(): void {
+    this.audio?.pause();
+    this.audio = null;
     if ("speechSynthesis" in window) window.speechSynthesis.cancel();
     this.playing = false;
     this.utter = null;

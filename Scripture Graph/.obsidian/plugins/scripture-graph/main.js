@@ -1,4 +1,4 @@
-/* scripture-graph v0.69.3 build 1fd787a5 2026-09-06T22:59:45Z */
+/* scripture-graph v0.69.4 build bafab115 2026-09-06T23:01:36Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.69.3", sha: "1fd787a5", at: "2026-09-06T22:59:45Z" };
+    define_SG_BUILD_default = { version: "0.69.4", sha: "bafab115", at: "2026-09-06T23:01:36Z" };
   }
 });
 
@@ -15391,7 +15391,7 @@ var Dock = class {
       });
       if (this.tabsCount) this.tabsCount.setText(n > 1 ? String(n) : "");
       this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing);
-      this.listenBtn?.toggleClass("sg-dock-round-off", !this.listen.canRead(this.s.app));
+      this.listenBtn?.toggleClass("sg-dock-round-off", !this.listen.canRead(this.s.app, this.host.currentPage()));
     } catch (e) {
       console.warn("scripture-graph: dock refresh", e);
     }
@@ -15414,8 +15414,9 @@ var Dock = class {
       this.refresh();
       return;
     }
-    const ok = this.listen.start(this.s.app);
-    if (!ok) new import_obsidian21.Notice("Open a chapter to listen to it");
+    const page = this.host.currentPage();
+    const ok = this.listen.start(this.s.app, page);
+    if (!ok) new import_obsidian21.Notice("Open a chapter or a talk to listen to it");
     this.refresh();
   }
 };
@@ -15457,10 +15458,60 @@ var Listener = class {
     if (!file || !file.path.startsWith(CANONICAL_PREFIX) || !chapterIdFromTitle(file.basename)) return null;
     return { title: file.basename, file };
   }
-  canRead(app) {
+  audio = null;
+  /** a Church study page's API uri, from the note's url — talks, Teachings
+   * chapters, Come Follow Me lessons all answer with their recording */
+  churchUri(app, f) {
+    if (!f) return null;
+    const fm = app.metadataCache.getFileCache(f)?.frontmatter ?? {};
+    const url = typeof fm["url"] === "string" ? fm["url"] : "";
+    const m2 = /^https?:\/\/www\.churchofjesuschrist\.org(?:\/study)?(\/[^?#]+)/.exec(url);
+    return m2 ? m2[1] : null;
+  }
+  canRead(app, page = null) {
+    if (this.churchUri(app, page)) return true;
     return typeof window !== "undefined" && "speechSynthesis" in window && this.text(app) !== null;
   }
-  start(app) {
+  /** the recording behind a Church page, when the API offers one */
+  async recording(uri) {
+    try {
+      const res = await (0, import_obsidian21.requestUrl)({
+        url: `https://www.churchofjesuschrist.org/study/api/v3/language-pages/type/content?lang=eng&uri=${encodeURIComponent(uri)}`,
+        headers: { "User-Agent": "ScriptureGraph-personal-study/0.1" }
+      });
+      const audio = res.json?.meta?.audio ?? [];
+      const pick = audio.find((a2) => a2.mediaUrl && !/ACCOMPANIMENT/i.test(a2.variant ?? "")) ?? audio.find((a2) => a2.mediaUrl);
+      return pick?.mediaUrl ?? null;
+    } catch {
+      return null;
+    }
+  }
+  start(app, page = null) {
+    const uri = this.churchUri(app, page);
+    if (uri && page) {
+      this.playing = true;
+      document.body.addClass("sg-listening");
+      void this.recording(uri).then((url) => {
+        if (!this.playing) return;
+        if (!url) {
+          this.playing = false;
+          document.body.removeClass("sg-listening");
+          new import_obsidian21.Notice("No recording for this page");
+          return;
+        }
+        this.audio?.pause();
+        this.audio = new Audio(url);
+        this.audio.onended = () => {
+          this.playing = false;
+          this.audio = null;
+          document.body.removeClass("sg-listening");
+        };
+        this.audio.onerror = this.audio.onended;
+        void this.audio.play();
+        trace("listen.recording", { page: page.basename });
+      });
+      return true;
+    }
     const t = this.text(app);
     if (!t || !("speechSynthesis" in window)) return false;
     void app.vault.cachedRead(t.file).then((raw) => {
@@ -15485,6 +15536,8 @@ var Listener = class {
     return true;
   }
   stop() {
+    this.audio?.pause();
+    this.audio = null;
     if ("speechSynthesis" in window) window.speechSynthesis.cancel();
     this.playing = false;
     this.utter = null;
