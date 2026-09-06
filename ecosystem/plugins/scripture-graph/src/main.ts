@@ -21,6 +21,7 @@ import { WelcomeModal, refreshIdentity } from "./social/onboarding";
 import { AiService } from "./ai/aiService";
 import { ASK_VIEW, AskView } from "./ai/askView";
 import { READER_VIEW, ReaderView } from "./reader/readerView";
+import { DOC_VIEW, DocView, docKindFor } from "./reader/docView";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SCENES, SceneManager } from "./study/scenes";
@@ -95,6 +96,12 @@ export default class SGPlugin extends Plugin {
 
     // ---- views ------------------------------------------------------------
     this.registerView(ASK_VIEW, leaf => new AskView(leaf, this.state, this.ai, this.ann));
+    // hard questions and talks are pages of their own (reader/docView.ts)
+    this.registerView(DOC_VIEW, leaf => new DocView(leaf, this.state, this.ann, {
+      openAsk: (seed) => void this.openAsk(null, null, `About "${seed}" — `),
+      openRaw: this.state.device.showAiLibrary
+        ? (f) => { void this.app.workspace.getLeaf().openFile(f); } : null,
+    }));
     this.registerView(READER_VIEW, leaf =>
       new ReaderView(leaf, this.state, this.ann, (c, v, seed) => void this.openAsk(c, v, seed)));
 
@@ -736,6 +743,9 @@ export default class SGPlugin extends Plugin {
    * it. The ↗ open-as-page path exists only in power mode (the same toggle
    * that shows the AI Library folder) — for the family it simply isn't there. */
   openLibrarySheet(file: TFile, subpath: string | null): void {
+    // a hard question or a talk is the thing being read, not a glance at
+    // it: its own page, with the reader's treatment
+    if (docKindFor(file.path)) { void this.openDoc(file); return; }
     const openAsPage = this.state.device.showAiLibrary
       ? (f: TFile) => { void this.app.workspace.getLeaf().openFile(f); }
       : null;
@@ -974,6 +984,15 @@ export default class SGPlugin extends Plugin {
     await this.app.workspace.revealLeaf(leaf);
     const view = leaf.view;
     if (view instanceof AskView) view.setAnchor(chapterTitle, verseId, seed);
+  }
+
+  /** 📄 a question or talk as its own page (one history step, like the reader) */
+  async openDoc(file: TFile): Promise<void> {
+    const leaf = this.app.workspace.getLeavesOfType(DOC_VIEW)[0]
+      ?? this.app.workspace.getLeaf(false);
+    recordHistory(leaf);
+    await leaf.setViewState({ type: DOC_VIEW, state: { path: file.path }, active: true });
+    await this.app.workspace.revealLeaf(leaf);
   }
 
   async openReader(title: string): Promise<void> {

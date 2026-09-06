@@ -1,5 +1,44 @@
 # Engineering Decisions Log
 
+## 2026-09-06 -- Findings, frameworks, and the cumulative page
+
+**The library is called Findings, not Evidence.** "Evidence" carries a verdict
+in the word -- evidence is *for* or *against* something -- and most of what the
+folder holds is illumination that makes no such claim. `40 Evidence` became
+`40 Findings`; the registry note "Evidence Assessments" became "Assessments";
+the corpus MOCs are "<Corpus> Findings". The old titles stay as frontmatter
+aliases so a `[[Evidence]]` link in anyone's personal notes still resolves --
+the engine never rewrites personal notes. Internals keep their names
+(`FOLDER_EVIDENCE`, node type `evidence`, `evidence_strength`) so nothing
+else had to move; on the page the weight is shown as *discrimination*.
+Migration: `vaultgen/migrate.py` (registry, graph paths, managed links, one
+git transaction, idempotent).
+
+**Frameworks are searched before anything is weighed (standard section 18).**
+The owner's concern: a model that under-investigates is biased whichever way
+it leans, and the reader should meet the framework they never considered.
+Every contested assessment and every hard question now says what the text
+itself requires versus what readers assumed, lists every serious model the
+text permits *in both directions* with a labelled status and its support, and
+shows what was considered and set aside. Reconciling-only and critical-only
+lists are both rejected by the judge. Labelled possibility is the safeguard.
+
+**One cumulative page per corpus (`agents/cumulative.py`).** Individually fair
+assessments can mislead in aggregate either way: independent findings
+dismissed one at a time as coincidence, or findings with one shared cause
+counted many times. Software groups the registry by category; two assessors
+decide independence by shared cause, write a synthesis that is a judgment and
+never a sum, say what the whole picture does to each framework, and end with
+what a believer and a skeptic can each hold. The page is required reading for
+every hard-question dossier in its corpus. Redone when the registry has moved
+by `cumulative.min_changed` (5) assessments.
+
+**Hard questions and talks open as their own page** (plugin v0.65,
+`reader/docView.ts`), not as the library sheet: the sheet is for a glance at a
+topic mid-chapter; a question is the thing being read. Sections become
+blocks, the page carries study themes as a whole (six themes added:
+Testimony, Doctrine, History, Restoration, Scholarship, Truth).
+
 ## 2026-09-02 -- The nightly was starving; patient runs and yielding ticks
 
 Every nightly since Aug 29 fired at 02:30 into a running 30-minute study
