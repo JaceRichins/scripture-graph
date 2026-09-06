@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **874 BC–853 BC** — Ahab's wars with Ben-hadad of Syria · [[1 Kings 20]] · [[900-801 BC]] *(traditional dating)*
+- **734 BC–732 BC** — Syro-Ephraimite War and Ahaz's Reign in Judah · [[Isaiah 7]] · [[800-701 BC]] *(approximate)*
 - **734 BC–722 BC** — Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria · [[Isaiah 8]] · [[800-701 BC]] *(historical)*
 - **732 BC** — Assyrian conquest of Damascus and death of Rezin · [[2 Kings 16]] · [[800-701 BC]] *(historical)*
 - **AD 33–AD 36** — Paul's Damascus road conversion (recounted in this speech) · [[Acts 22]] · [[AD 1-100]] *(approximate)*

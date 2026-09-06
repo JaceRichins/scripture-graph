@@ -11989,6 +11989,78 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-isa-63-eebeb2e8",
+   "t": "Critical 'Trito-Isaiah' post-exilic setting",
+   "y0": -539,
+   "y1": -400,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Mainstream biblical scholarship assigns Isaiah 56-66, including ch. 63's reference to a trodden-down sanctuary, to an anonymous post-exilic author distinct from the 8th-century Isaiah.",
+   "chapters": [
+    "Isaiah 63"
+   ]
+  },
+  {
+   "id": "r-isa-64-61c8fa96",
+   "t": "Destruction of Jerusalem and Solomon's Temple",
+   "y0": -586,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "temples"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Isaiah 64:10-11 laments the temple as already 'burned up with fire' and Jerusalem as 'a desolation,' language many scholars connect to the Babylonian destruction of 586 BC, though traditional readings attribute this to prophetic foresight predating the event.",
+   "chapters": [
+    "Isaiah 64"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Solomon's Temple"
+   ]
+  },
+  {
+   "id": "r-isa-7-94950063",
+   "t": "Syro-Ephraimite War and Ahaz's Reign in Judah",
+   "y0": -734,
+   "y1": -732,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Conventional chronology based on Assyrian synchronisms (Tiglath-Pileser III's annals) and the regnal data of 2 Kings 16, placing Ahaz's reign and this crisis in the mid-730s BC.",
+   "chapters": [
+    "Isaiah 7"
+   ],
+   "people": [
+    "Ahaz",
+    "Isaiah",
+    "Rezin",
+    "Pekah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Damascus"
+   ],
+   "things": [
+    "Immanuel sign"
+   ]
+  },
+  {
    "id": "r-isa-8-f50c86cf",
    "t": "Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria",
    "y0": -734,
