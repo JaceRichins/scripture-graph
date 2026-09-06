@@ -22,5 +22,5 @@ def test_weeks_parse_with_year_boundaries():
 def test_chapters_resolve_to_vault_titles():
     assert chapters_of("Genesis 1–2; Moses 2–3; Abraham 4–5") == [
         "Genesis 1", "Genesis 2", "Moses 2", "Moses 3", "Abraham 4", "Abraham 5"]
-    assert chapters_of("Doctrine and Covenants 6–9")[0] == "Doctrine and Covenants 6"
+    assert chapters_of("Doctrine and Covenants 6–9")[0] == "D&C 6"
     assert chapters_of("Introduction to the Old Testament") == []

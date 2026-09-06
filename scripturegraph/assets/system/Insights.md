@@ -201,11 +201,11 @@ by hand is kept.
     "refs": [
       {
         "label": "D&C 6:22–23",
-        "chapter": "Doctrine and Covenants 6",
+        "chapter": "D&C 6",
         "anchor": "dc-6-22"
       }
     ],
-    "read": "Doctrine and Covenants 6"
+    "read": "D&C 6"
   },
   {
     "id": "ruth-thy-god-my-god",
@@ -427,16 +427,16 @@ by hand is kept.
     "refs": [
       {
         "label": "D&C 121:1",
-        "chapter": "Doctrine and Covenants 121",
+        "chapter": "D&C 121",
         "anchor": "dc-121-1"
       },
       {
         "label": "D&C 121:36",
-        "chapter": "Doctrine and Covenants 121",
+        "chapter": "D&C 121",
         "anchor": "dc-121-36"
       }
     ],
-    "read": "Doctrine and Covenants 121"
+    "read": "D&C 121"
   },
   {
     "id": "peter-three-times",
