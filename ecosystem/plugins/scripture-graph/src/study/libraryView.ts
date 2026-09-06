@@ -253,14 +253,21 @@ export class SGLibraryView extends ItemView {
       chip.onclick = () => this.host.openNote(`${r.chapter}#^${r.anchor}`);
     }
     const row = card.createDiv({ cls: "sg-insight-actions" });
-    const read = row.createEl("button", { cls: "sg-insight-read", text: `Read ${it.read}` });
-    read.onclick = () => this.host.openChapter(it.read);
-    const more = row.createEl("button", { cls: "sg-insight-more", text: "Another ↻" });
-    more.onclick = () => {
-      this.s.device.insightStep = step + 1;
+    const go = (delta: number) => {
+      this.s.device.insightStep = step + delta;
       void this.s.saveDevice();
       void this.renderInsight(slot);
     };
+    const prev = row.createEl("button", { cls: "sg-insight-step", text: "‹" });
+    prev.setAttr("aria-label", "Previous");
+    prev.onclick = () => go(-1);
+    const read = row.createEl("button", { cls: "sg-insight-read", text: `Read ${it.read}` });
+    read.onclick = () => this.host.openChapter(it.read);
+    const next = row.createEl("button", { cls: "sg-insight-step", text: "›" });
+    next.setAttr("aria-label", "Next");
+    next.onclick = () => go(1);
+    const idx = ((day + step) % pool.length + pool.length) % pool.length;
+    card.createDiv({ cls: "sg-insight-count", text: `${idx + 1} of ${pool.length}` });
   }
 
   // ------------------------------------------------------------ cover cards

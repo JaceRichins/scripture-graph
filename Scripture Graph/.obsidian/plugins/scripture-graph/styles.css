@@ -2336,9 +2336,11 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
   flex: 1 1 auto; min-height: 40px; border-radius: 12px; font-weight: 700;
   background: var(--interactive-accent); color: var(--text-on-accent); border: 0; box-shadow: none;
 }
-.sg-insight-more {
-  flex: 0 0 auto; min-height: 40px; padding: 0 14px; border-radius: 12px; font-weight: 600;
-  background: var(--background-secondary); color: var(--text-muted); box-shadow: none;
+.sg-insight-step {
+  flex: 0 0 44px; min-height: 40px; padding: 0; border-radius: 12px;
+  font-size: 1.5em; font-weight: 500; line-height: 1;
+  background: var(--background-secondary); color: var(--text-normal); box-shadow: none;
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 55%, transparent);
 }
-.sg-insight-read:active, .sg-insight-more:active, .sg-insight-ref:active { transform: scale(0.96); }
+.sg-insight-count { margin-top: 8px; text-align: center; font-size: 0.72em; color: var(--text-muted); letter-spacing: 0.04em; }
+.sg-insight-read:active, .sg-insight-step:active, .sg-insight-ref:active { transform: scale(0.96); }

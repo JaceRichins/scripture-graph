@@ -1,4 +1,4 @@
-/* scripture-graph v0.66.4 build d43db4b5 2026-09-06T19:05:20Z */
+/* scripture-graph v0.66.5 build 339d2835 2026-09-06T19:25:34Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.66.4", sha: "d43db4b5", at: "2026-09-06T19:05:20Z" };
+    define_SG_BUILD_default = { version: "0.66.5", sha: "339d2835", at: "2026-09-06T19:25:34Z" };
   }
 });
 
@@ -12548,14 +12548,21 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       chip.onclick = () => this.host.openNote(`${r.chapter}#^${r.anchor}`);
     }
     const row = card.createDiv({ cls: "sg-insight-actions" });
-    const read2 = row.createEl("button", { cls: "sg-insight-read", text: `Read ${it.read}` });
-    read2.onclick = () => this.host.openChapter(it.read);
-    const more = row.createEl("button", { cls: "sg-insight-more", text: "Another \u21BB" });
-    more.onclick = () => {
-      this.s.device.insightStep = step + 1;
+    const go = (delta) => {
+      this.s.device.insightStep = step + delta;
       void this.s.saveDevice();
       void this.renderInsight(slot);
     };
+    const prev = row.createEl("button", { cls: "sg-insight-step", text: "\u2039" });
+    prev.setAttr("aria-label", "Previous");
+    prev.onclick = () => go(-1);
+    const read2 = row.createEl("button", { cls: "sg-insight-read", text: `Read ${it.read}` });
+    read2.onclick = () => this.host.openChapter(it.read);
+    const next = row.createEl("button", { cls: "sg-insight-step", text: "\u203A" });
+    next.setAttr("aria-label", "Next");
+    next.onclick = () => go(1);
+    const idx = ((day + step) % pool.length + pool.length) % pool.length;
+    card.createDiv({ cls: "sg-insight-count", text: `${idx + 1} of ${pool.length}` });
   }
   // ------------------------------------------------------------ cover cards
   coverSeq = 0;
