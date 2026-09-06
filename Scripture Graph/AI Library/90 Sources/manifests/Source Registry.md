@@ -10,6 +10,7 @@ content_type: manifest
 | --- | --- | --- | --- | --- |
 | Standard Works (scriptures-json) | scripture | 1 | **imported** | download |
 | Bible Dictionary / Guide to the Scriptures | reference | 2 | **manual_download_required** | drop-folder |
+| Come, Follow Me -- For Home and Church | manual | 2 | **available** | api |
 | Gospel Topics essays & entries | reference | 2 | **manual_download_required** | drop-folder |
 | Teachings of Presidents of the Church | teachings | 2 | **available** | api |
 | Conference Reports 1897-1930 (public domain) | conference | 3 | **imported** | download |
@@ -30,6 +31,7 @@ content_type: manifest
 
 - **Standard Works (scriptures-json)** — Public-domain scripture text. Auto-downloaded to sources/downloads/scriptures-json.
 - **Bible Dictionary / Guide to the Scriptures** — Copyrighted study helps. Drop saved pages into sources/drop/reference/.
+- **Come, Follow Me -- For Home and Church** — This year's lessons via the Gospel Library API (corpus/cfm.py). Copyrighted: private index + private vault.
 - **Gospel Topics essays & entries** — Copyrighted. Taxonomy seeded internally; drop saved pages into sources/drop/reference/.
 - **Teachings of Presidents of the Church** — The Church's curated volumes, Joseph Smith through Gordon B. Hinckley, via the Gospel Library API (corpus/glib.py). Copyrighted: private index + private vault.
 - **General Conference talks** — Copyrighted; bulk scraping not used. Drop official EPUB/HTML/JSON files into sources/drop/conference/. Vault notes store metadata + citations + brief excerpts; full text stays in the local index only.
