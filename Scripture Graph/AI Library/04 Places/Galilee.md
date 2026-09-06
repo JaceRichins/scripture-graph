@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **734 BC–732 BC** — Syro-Ephraimite War threatens Judah under Ahaz · [[Isaiah 9]] · [[800-701 BC]] *(historical)*
 - **AD 6** — Judas of Galilee's tax-census revolt · [[Acts 5]] · [[AD 1-100]] *(historical)*
 - **AD 27–AD 30** — The mortal ministry in Galilee and Judea · [[John 6]] · [[Luke 15]] · [[John 11]] · [[AD 1-100]] *(approximate)*
 - **AD 28** — The Sermon on the Mount · [[Matthew 5]] · [[Matthew 6]] · [[Matthew 7]] · [[AD 1-100]] *(approximate)*

@@ -47,7 +47,7 @@ _Not yet developed._
 - **755 BC–722 BC** — Hosea prophesies through Israel's final kings · [[Hosea 10]] · [[800-701 BC]] *(approximate)*
 - **753 BC–732 BC** — Israelite throne instability, multiple usurper kings · [[Hosea 8]] · [[800-701 BC]] *(historical)*
 - **734 BC–722 BC** — Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria · [[Isaiah 8]] · [[800-701 BC]] *(historical)*
-- **722 BC** — Assyria destroys northern Israel · [[2 Kings 17]] · [[800-701 BC]] *(historical)*
+- **734 BC–732 BC** — Syro-Ephraimite War threatens Judah under Ahaz · [[Isaiah 9]] · [[800-701 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

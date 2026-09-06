@@ -12088,6 +12088,31 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-isa-9-6a852ff8",
+   "t": "Syro-Ephraimite War threatens Judah under Ahaz",
+   "y0": -734,
+   "y1": -732,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Conventional dating of the Syro-Ephraimite crisis, in which Rezin of Aram-Damascus and Pekah of Israel allied against Ahaz of Judah, the backdrop named in Isaiah 9:11 and Isaiah 7:1.",
+   "chapters": [
+    "Isaiah 9"
+   ],
+   "people": [
+    "David (king)"
+   ],
+   "places": [
+    "Samaria",
+    "Galilee"
+   ]
+  },
+  {
    "id": "r-jer-11-724136e0",
    "t": "Jeremiah's covenant sermon in Judah's cities",
    "y0": -627,
