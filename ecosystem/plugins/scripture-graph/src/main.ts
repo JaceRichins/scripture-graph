@@ -99,6 +99,7 @@ export default class SGPlugin extends Plugin {
     // hard questions and talks are pages of their own (reader/docView.ts)
     this.registerView(DOC_VIEW, leaf => new DocView(leaf, this.state, this.ann, {
       openAsk: (seed) => void this.openAsk(null, null, `About "${seed}" — `),
+      openLibrary: () => this.openNavigator(),
       openRaw: this.state.device.showAiLibrary
         ? (f) => { void this.app.workspace.getLeaf().openFile(f); } : null,
     }));
@@ -1005,6 +1006,7 @@ export default class SGPlugin extends Plugin {
     recordHistory(leaf);
     await leaf.setViewState({ type: DOC_VIEW, state: { path: file.path }, active: true });
     await this.app.workspace.revealLeaf(leaf);
+    document.body.addClass("sg-fab-on");   // the 📖 door out is always there
   }
 
   async openReader(title: string): Promise<void> {

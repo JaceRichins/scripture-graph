@@ -40,6 +40,8 @@ const PLACEHOLDER = /^_?Not yet developed\.?_?$/i;
 
 export interface DocHost {
   openAsk: (seed: string) => void;
+  /** the Library page — the way back when the tab has no history */
+  openLibrary: () => void;
   /** power users only: the raw markdown page */
   openRaw: ((file: TFile) => void) | null;
 }
@@ -101,8 +103,16 @@ export class DocView extends ItemView {
     const fm = (this.app.metadataCache.getFileCache(file)?.frontmatter ?? {}) as Record<string, unknown>;
     const page = root.createDiv({ cls: "sg-doc-page" });
 
-    // ---- head: eyebrow, title, status, actions ----
+    // ---- head: the way back, eyebrow, title, status, actions ----
     const head = page.createDiv({ cls: "sg-doc-head" });
+    const back = head.createEl("button", { cls: "sg-doc-back", text: "‹ Back" });
+    back.onclick = () => {
+      // the leaf's own back stack first (recordHistory fed it); the Library
+      // page when there is nothing to go back to
+      const h = (this.leaf as unknown as { history?: { backHistory: unknown[]; back?: () => void } }).history;
+      if (h?.backHistory?.length && typeof h.back === "function") h.back();
+      else this.host.openLibrary();
+    };
     head.createDiv({ cls: "sg-doc-eyebrow", text: kind.eyebrow });
     head.createEl("h1", { cls: "sg-doc-title", text: file.basename });
     const meta = head.createDiv({ cls: "sg-doc-meta" });

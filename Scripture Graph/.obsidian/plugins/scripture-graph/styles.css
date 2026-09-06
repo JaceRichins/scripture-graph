@@ -2185,6 +2185,11 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
    text on the scene, like scripture: no cards, no shading, tight margins */
 .sg-doc { height: 100%; overflow-y: auto; overscroll-behavior: contain; padding: 0; }
 .sg-doc-page { max-width: 680px; margin: 0 auto; padding: 10px 14px calc(36px + env(safe-area-inset-bottom, 0px)); }
+.sg-doc-back {
+  display: inline-block; margin: 0 0 8px -6px; padding: 4px 10px; font-size: 0.9em; font-weight: 600;
+  background: none; border: 0; box-shadow: none; color: var(--text-accent);
+}
+.sg-doc-back:active { opacity: 0.6; }
 .sg-doc-eyebrow {
   font-size: 0.7em; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;
   color: var(--text-accent); margin-bottom: 4px;

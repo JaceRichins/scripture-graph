@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.3 build ff80e20d 2026-09-06T15:14:48Z */
+/* scripture-graph v0.65.4 build f0024747 2026-09-06T15:54:54Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.3", sha: "ff80e20d", at: "2026-09-06T15:14:48Z" };
+    define_SG_BUILD_default = { version: "0.65.4", sha: "f0024747", at: "2026-09-06T15:54:54Z" };
   }
 });
 
@@ -14379,6 +14379,12 @@ var DocView = class extends import_obsidian19.ItemView {
     const fm = this.app.metadataCache.getFileCache(file)?.frontmatter ?? {};
     const page = root.createDiv({ cls: "sg-doc-page" });
     const head = page.createDiv({ cls: "sg-doc-head" });
+    const back = head.createEl("button", { cls: "sg-doc-back", text: "\u2039 Back" });
+    back.onclick = () => {
+      const h = this.leaf.history;
+      if (h?.backHistory?.length && typeof h.back === "function") h.back();
+      else this.host.openLibrary();
+    };
     head.createDiv({ cls: "sg-doc-eyebrow", text: kind.eyebrow });
     head.createEl("h1", { cls: "sg-doc-title", text: file.basename });
     const meta = head.createDiv({ cls: "sg-doc-meta" });
@@ -15589,6 +15595,7 @@ var SGPlugin = class extends import_obsidian23.Plugin {
     this.registerView(ASK_VIEW, (leaf) => new AskView(leaf, this.state, this.ai, this.ann));
     this.registerView(DOC_VIEW, (leaf) => new DocView(leaf, this.state, this.ann, {
       openAsk: (seed) => void this.openAsk(null, null, `About "${seed}" \u2014 `),
+      openLibrary: () => this.openNavigator(),
       openRaw: this.state.device.showAiLibrary ? (f) => {
         void this.app.workspace.getLeaf().openFile(f);
       } : null
@@ -16437,6 +16444,7 @@ ${text.trim()}
     recordHistory(leaf);
     await leaf.setViewState({ type: DOC_VIEW, state: { path: file.path }, active: true });
     await this.app.workspace.revealLeaf(leaf);
+    document.body.addClass("sg-fab-on");
   }
   async openReader(title) {
     const leaf = this.app.workspace.getLeavesOfType(READER_VIEW)[0] ?? this.app.workspace.getLeaf(false);
