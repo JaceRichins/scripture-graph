@@ -23,7 +23,10 @@ Scripture: [[Galatians 2]] · My notes: [[Galatians 2 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Jerusalem consultation (vv. 1–5):** Paul presents his Gentile gospel; Titus is not compelled to be circumcised; Paul resists demands he regards as bondage.
+2. **Recognition and fellowship (vv. 6–10):** James, Cephas, and John acknowledge distinct missionary fields and ask that the poor be remembered.
+3. **Antioch confrontation (vv. 11–14):** Peter withdraws from eating with Gentiles, others follow, and Paul rebukes the conduct publicly.
+4. **Theological rationale (vv. 15–21):** justification through Christ is contrasted with works of the law, culminating in life with Christ and the necessity of his death.
 <!-- SG:END structure -->
 
 ## People
@@ -48,20 +51,24 @@ _Not yet developed._
 - [[Acts 4]] — 1 footnote cross-reference (from [[Galatians 2#^gal-2-1|Galatians 2:1]])
 - [[Alma 8]] — 1 footnote cross-reference (from [[Galatians 2#^gal-2-2|Galatians 2:2]])
 - [[Helaman 13]] — 1 footnote cross-reference (from [[Galatians 2#^gal-2-2|Galatians 2:2]])
+- [[Romans 3]] — 0 parallel verses
 - [[Galatians 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
-- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
-- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]]
+- [[Gospel of Jesus Christ]]
+- [[Justification and Sanctification]]
+- [[Law of Moses]]
+- [[Crucifixion of Jesus Christ]]
+- [[Freedom and Liberty]]
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Galatians 2 presents [[Justification and Sanctification]] as centered in Jesus Christ rather than secured by works of the law. That contrast should not be expanded into a rejection of all moral action: the chapter itself commends remembering the poor (v. 10), and its criticism concerns conduct that does not accord with the gospel (v. 14). The culminating image is participatory: being "crucified with Christ" means that ordinary embodied life continues, but with Christ as its governing source and the Son's self-giving love as its foundation (vv. 19–20).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -80,22 +87,33 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Three phrases require interpretive care. First, "works of the law" occurs amid disputes about circumcision and Jewish-Gentile separation, but scholars debate whether its scope is primarily such identity-marking practices or the law's works more generally. Second, "faith of Jesus Christ" can grammatically be read as faith in Christ or Christ's own faithfulness; the nearby statement "we have believed in Jesus Christ" independently confirms the role of human trust. Third, "compellest" in verse 14 may describe social pressure produced by Peter's withdrawal rather than a formal decree.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Paul builds the chapter on paired contrasts: liberty versus bondage (v. 4), the circumcision versus the uncircumcision (vv. 7-9), walking uprightly versus dissimulation (vv. 13-14), and law versus faith (vv. 16, 21). Titus's uncircumcision and Peter's changed table conduct function as concrete test cases that ground the more abstract argument that follows. The paradoxes of vv. 19-20 — dead to the law yet alive to God, crucified yet living, 'not I' yet Christ living in me — dramatize a claimed reorientation of identity rather than simply stating a doctrine. Paul's quoted rebuke of Peter (beginning v. 14) shades into general argument without a clear marker of where it ends; this may be a deliberate rhetorical blurring that lets private correction double as public instruction to the Galatians, but the text itself does not confirm authorial intent, so that reading should be held as a plausible inference rather than a demonstrated technique.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Narrative Evidence
+> Within Paul's argument, Titus's noncircumcision is direct narrative evidence that the Jerusalem encounter he describes did not make circumcision a requirement for this Greek believer.
+> — strength 0.8 · confidence 0.8 · broadly accepted · [[Internal Narrative Evidence in Galatians 2|full dossier]]
+
+> [!evidence] Internal Historical Testimony
+> The Antioch episode is strong textual evidence that prominent early Christian leaders could disagree publicly in conduct and judgment over Jewish-Gentile relations.
+> — strength 0.8 · confidence 0.9 · broadly accepted, well-hedged · [[Internal Historical Testimony in Galatians 2|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Where does Paul's quoted speech to Peter (beginning v. 14) end, and where does his direct address to the Galatians resume — a question the KJV's lack of quotation marks leaves open?
+- Does verse 9's division of labor ('we unto the heathen, and they unto the circumcision') describe a strict boundary or a general emphasis, given Paul's own practice of preaching first in synagogues?
+- Does Peter's withdrawal at Antioch reveal doctrinal disagreement, fear-driven inconsistency, or some mixture of both?
+- How should the request to 'remember the poor' (v. 10) qualify readings that turn Paul's rejection of 'works of the law' into a rejection of ethical action generally?
+- How does Paul's claim in verse 18 ('if I build again the things which I destroyed, I make myself a transgressor') function logically within his argument against returning to the law?
+- What changes if 'the faith of Jesus Christ' (v. 16) is read as Christ's own faithfulness rather than only the believer's faith in him?
 <!-- SG:END questions -->
 
 ## Further Study
