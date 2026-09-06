@@ -47,6 +47,31 @@ export class StudyService {
     await this.bookmarkFile(f);
   }
 
+  /** the anchor a bookmark on this file rides: the chapter id, the engine's
+   * sg-id, or the title */
+  bookmarkAnchor(f: TFile): string {
+    if (f.path.startsWith(CANONICAL_PREFIX)) {
+      const id = chapterIdFromTitle(f.basename);
+      if (id) return id;
+    }
+    const fm = this.s.app.metadataCache.getFileCache(f)?.frontmatter as Record<string, unknown> | undefined;
+    const sgId = typeof fm?.["sg-id"] === "string" ? (fm["sg-id"] as string) : null;
+    return sgId ?? `node:${f.basename}`;
+  }
+
+  /** my live bookmark on this file, if there is one */
+  async bookmarkOf(f: TFile): Promise<Annotation | null> {
+    const anchor = this.bookmarkAnchor(f);
+    const all = await this.s.sync.allAnnotations();
+    return all.find(a => a.anchor_id === anchor && a.annotation_type === "bookmark" && !a.deleted_at) ?? null;
+  }
+
+  /** tap again: the bookmark goes */
+  async unbookmark(a: Annotation): Promise<void> {
+    await this.ann.remove(a.annotation_id);
+    new Notice("Bookmark removed");
+  }
+
   /** bookmark THIS file — the page views (questions, talks, history) have no
    * "active file" in Obsidian's sense, so they hand theirs over */
   async bookmarkFile(f: TFile): Promise<void> {

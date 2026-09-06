@@ -2387,3 +2387,9 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
   background: var(--interactive-accent); color: var(--text-on-accent); border: 0; box-shadow: none;
 }
 .sg-saved-keep:active { transform: scale(0.98); }
+.sg-saved-x {
+  flex: none; width: 36px; height: 36px; border-radius: 50%; margin-left: 6px;
+  background: var(--background-secondary); color: var(--text-muted); border: 0; box-shadow: none; font-size: 0.9em;
+}
+.sg-saved-keep-off { background: var(--background-secondary); color: var(--text-normal); }
+.sg-ask-btn.sg-on { background: var(--interactive-accent); color: var(--text-on-accent); }

@@ -101,6 +101,11 @@ export default class SGPlugin extends Plugin {
     this.registerView(DOC_VIEW, leaf => new DocView(leaf, this.state, this.ann, {
       openAsk: (seed) => void this.openAsk(null, null, `About "${seed}" — `),
       bookmark: (f) => this.study.bookmarkFile(f),
+      bookmarkId: async (f) => (await this.study.bookmarkOf(f))?.annotation_id ?? null,
+      unbookmark: async (id) => {
+        const a = (await this.state.sync.allAnnotations()).find(x => x.annotation_id === id);
+        if (a) await this.study.unbookmark(a);
+      },
       openLibrary: () => this.openNavigator(),
       openRaw: this.state.device.showAiLibrary
         ? (f) => { void this.app.workspace.getLeaf().openFile(f); } : null,
@@ -697,6 +702,7 @@ export default class SGPlugin extends Plugin {
         return af instanceof TFile ? af : null;
       },
       bookmark: (f) => this.study.bookmarkFile(f),
+      unbookmark: (a) => this.study.unbookmark(a),
     });
     this.dock.mount();
     this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.dock?.refresh()));

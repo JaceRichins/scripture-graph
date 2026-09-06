@@ -42,6 +42,9 @@ const PLACEHOLDER = /^_?Not yet developed\.?_?$/i;
 export interface DocHost {
   openAsk: (seed: string) => void;
   bookmark: (file: TFile) => Promise<void>;
+  /** the live bookmark on this file → its id, or null */
+  bookmarkId: (file: TFile) => Promise<string | null>;
+  unbookmark: (id: string) => Promise<void>;
   /** the Library page — the way back when the tab has no history */
   openLibrary: () => void;
   /** power users only: the raw markdown page */
@@ -133,8 +136,16 @@ export class DocView extends ItemView {
     themesBtn.onclick = () => { this.showThemes = !this.showThemes; void this.render(); };
     const askBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "✨ Ask AI" });
     askBtn.onclick = () => this.host.openAsk(file.basename);
+    // 🔖 is a toggle: bookmarked pages show it lit, and a tap removes it
     const markBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "🔖 Bookmark" });
-    markBtn.onclick = () => void this.host.bookmark(file).then(() => markBtn.setText("🔖 Bookmarked"));
+    let markId: string | null = null;
+    const paint = () => { markBtn.setText(markId ? "🔖 Bookmarked" : "🔖 Bookmark"); markBtn.toggleClass("sg-on", !!markId); };
+    void this.host.bookmarkId(file).then(id => { markId = id; paint(); });
+    markBtn.onclick = () => void (async () => {
+      if (markId) { await this.host.unbookmark(markId); markId = null; }
+      else { await this.host.bookmark(file); markId = await this.host.bookmarkId(file); }
+      paint();
+    })();
     if (this.host.openRaw) {
       const raw = actions.createEl("button", { cls: "sg-ask-btn", text: "↗" });
       raw.setAttr("aria-label", "Open the raw page");

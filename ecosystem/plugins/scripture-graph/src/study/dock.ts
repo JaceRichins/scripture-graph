@@ -16,6 +16,7 @@
  * not a room. */
 import { App, Modal, Notice, Platform, TFile, TFolder } from "obsidian";
 import { chapterIdFromTitle, parseCanonicalVerses, parseFrontmatter } from "@scripture-graph/core-sdk";
+import type { Annotation } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, PERSONAL_PREFIX, SGState } from "../state";
 import { historyBack } from "./leafNav";
 import { releaseKeyboard } from "./libraryView";
@@ -33,6 +34,7 @@ export interface DockHost {
   /** the page under the dock right now (a note, or a page view's file) */
   currentPage: () => TFile | null;
   bookmark: (file: TFile) => Promise<void>;
+  unbookmark: (a: Annotation) => Promise<void>;
 }
 
 interface ObsidianInternals {
@@ -220,21 +222,33 @@ class SavedModal extends Modal {
     }).length;
 
     const sect = (label: string) => c.createDiv({ cls: "sg-nav-sect", text: label });
-    const row = (parent: HTMLElement, icon: string, name: string, sub: string, onTap: () => void) => {
+    const row = (parent: HTMLElement, icon: string, name: string, sub: string, onTap: () => void,
+      onRemove?: () => void) => {
       const r = parent.createDiv({ cls: "sg-nav-row" });
       r.createSpan({ cls: "sg-saved-ico", text: icon });
       const col = r.createDiv({ cls: "sg-nav-gcol" });
       col.createDiv({ cls: "sg-nav-name", text: name });
       if (sub) col.createDiv({ cls: "sg-nav-gsub", text: sub });
       r.onclick = () => { this.close(); onTap(); };
+      if (onRemove) {
+        // ✕ removes without leaving the sheet
+        const x = r.createEl("button", { cls: "sg-saved-x", text: "✕" });
+        x.setAttr("aria-label", "Remove bookmark");
+        x.onclick = (e) => { e.stopPropagation(); onRemove(); r.remove(); };
+      }
     };
 
     // the page you came from: one tap to keep it
     const here = this.host.currentPage();
     if (here) {
-      const keep = c.createEl("button", { cls: "sg-saved-keep", text: `🔖 Bookmark “${here.basename}”` });
+      const mine = marks.find(m => new RegExp(`\\[\\[${here.basename.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(\\]|\\|)`).test(m.content));
+      const keep = c.createEl("button", { cls: "sg-saved-keep",
+        text: mine ? `✕ Remove bookmark on “${here.basename}”` : `🔖 Bookmark “${here.basename}”` });
+      keep.toggleClass("sg-saved-keep-off", !!mine);
       keep.onclick = () => {
-        void this.host.bookmark(here).then(() => { this.close(); new SavedModal(this.s, this.host).open(); });
+        const done = () => { this.close(); new SavedModal(this.s, this.host).open(); };
+        if (mine) void this.host.unbookmark(mine).then(done);
+        else void this.host.bookmark(here).then(done);
       };
     }
 
@@ -252,7 +266,8 @@ class SavedModal extends Modal {
     if (!marks.length) list1.createDiv({ cls: "sg-nav-empty", text: "Nothing bookmarked yet — use the button above on any page." });
     for (const m of marks.slice(0, 40)) {
       const title = /\[\[([^\]|]+)/.exec(m.content)?.[1] ?? m.anchor_id;
-      row(list1, "🔖", title, new Date(m.created_at).toLocaleDateString(), () => this.host.openPath(title));
+      row(list1, "🔖", title, new Date(m.created_at).toLocaleDateString(), () => this.host.openPath(title),
+        () => void this.host.unbookmark(m));
     }
 
     sect("Flashcards");

@@ -1,4 +1,4 @@
-/* scripture-graph v0.68.2 build c8903e81 2026-09-06T21:41:25Z */
+/* scripture-graph v0.68.3 build 4f9b6578 2026-09-06T21:50:23Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.68.2", sha: "c8903e81", at: "2026-09-06T21:41:25Z" };
+    define_SG_BUILD_default = { version: "0.68.3", sha: "4f9b6578", at: "2026-09-06T21:50:23Z" };
   }
 });
 
@@ -14873,7 +14873,25 @@ var DocView = class extends import_obsidian19.ItemView {
     const askBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "\u2728 Ask AI" });
     askBtn.onclick = () => this.host.openAsk(file.basename);
     const markBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "\u{1F516} Bookmark" });
-    markBtn.onclick = () => void this.host.bookmark(file).then(() => markBtn.setText("\u{1F516} Bookmarked"));
+    let markId = null;
+    const paint = () => {
+      markBtn.setText(markId ? "\u{1F516} Bookmarked" : "\u{1F516} Bookmark");
+      markBtn.toggleClass("sg-on", !!markId);
+    };
+    void this.host.bookmarkId(file).then((id) => {
+      markId = id;
+      paint();
+    });
+    markBtn.onclick = () => void (async () => {
+      if (markId) {
+        await this.host.unbookmark(markId);
+        markId = null;
+      } else {
+        await this.host.bookmark(file);
+        markId = await this.host.bookmarkId(file);
+      }
+      paint();
+    })();
     if (this.host.openRaw) {
       const raw = actions.createEl("button", { cls: "sg-ask-btn", text: "\u2197" });
       raw.setAttr("aria-label", "Open the raw page");
@@ -15177,7 +15195,7 @@ var SavedModal = class _SavedModal extends import_obsidian20.Modal {
       }
     }).length;
     const sect = (label) => c2.createDiv({ cls: "sg-nav-sect", text: label });
-    const row = (parent, icon, name, sub, onTap) => {
+    const row = (parent, icon, name, sub, onTap, onRemove) => {
       const r = parent.createDiv({ cls: "sg-nav-row" });
       r.createSpan({ cls: "sg-saved-ico", text: icon });
       const col = r.createDiv({ cls: "sg-nav-gcol" });
@@ -15187,15 +15205,31 @@ var SavedModal = class _SavedModal extends import_obsidian20.Modal {
         this.close();
         onTap();
       };
+      if (onRemove) {
+        const x3 = r.createEl("button", { cls: "sg-saved-x", text: "\u2715" });
+        x3.setAttr("aria-label", "Remove bookmark");
+        x3.onclick = (e) => {
+          e.stopPropagation();
+          onRemove();
+          r.remove();
+        };
+      }
     };
     const here = this.host.currentPage();
     if (here) {
-      const keep = c2.createEl("button", { cls: "sg-saved-keep", text: `\u{1F516} Bookmark \u201C${here.basename}\u201D` });
+      const mine = marks.find((m2) => new RegExp(`\\[\\[${here.basename.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(\\]|\\|)`).test(m2.content));
+      const keep = c2.createEl("button", {
+        cls: "sg-saved-keep",
+        text: mine ? `\u2715 Remove bookmark on \u201C${here.basename}\u201D` : `\u{1F516} Bookmark \u201C${here.basename}\u201D`
+      });
+      keep.toggleClass("sg-saved-keep-off", !!mine);
       keep.onclick = () => {
-        void this.host.bookmark(here).then(() => {
+        const done = () => {
           this.close();
           new _SavedModal(this.s, this.host).open();
-        });
+        };
+        if (mine) void this.host.unbookmark(mine).then(done);
+        else void this.host.bookmark(here).then(done);
       };
     }
     sect("Continue");
@@ -15216,7 +15250,14 @@ var SavedModal = class _SavedModal extends import_obsidian20.Modal {
     if (!marks.length) list1.createDiv({ cls: "sg-nav-empty", text: "Nothing bookmarked yet \u2014 use the button above on any page." });
     for (const m2 of marks.slice(0, 40)) {
       const title = /\[\[([^\]|]+)/.exec(m2.content)?.[1] ?? m2.anchor_id;
-      row(list1, "\u{1F516}", title, new Date(m2.created_at).toLocaleDateString(), () => this.host.openPath(title));
+      row(
+        list1,
+        "\u{1F516}",
+        title,
+        new Date(m2.created_at).toLocaleDateString(),
+        () => this.host.openPath(title),
+        () => void this.host.unbookmark(m2)
+      );
     }
     sect("Flashcards");
     const list2 = c2.createDiv({ cls: "sg-nav-list" });
@@ -15300,6 +15341,28 @@ ${body}
     const f = this.s.app.workspace.getActiveFile();
     if (!f) return void new import_obsidian21.Notice("Open a page first, then bookmark it");
     await this.bookmarkFile(f);
+  }
+  /** the anchor a bookmark on this file rides: the chapter id, the engine's
+   * sg-id, or the title */
+  bookmarkAnchor(f) {
+    if (f.path.startsWith(CANONICAL_PREFIX)) {
+      const id = chapterIdFromTitle(f.basename);
+      if (id) return id;
+    }
+    const fm = this.s.app.metadataCache.getFileCache(f)?.frontmatter;
+    const sgId = typeof fm?.["sg-id"] === "string" ? fm["sg-id"] : null;
+    return sgId ?? `node:${f.basename}`;
+  }
+  /** my live bookmark on this file, if there is one */
+  async bookmarkOf(f) {
+    const anchor = this.bookmarkAnchor(f);
+    const all = await this.s.sync.allAnnotations();
+    return all.find((a2) => a2.anchor_id === anchor && a2.annotation_type === "bookmark" && !a2.deleted_at) ?? null;
+  }
+  /** tap again: the bookmark goes */
+  async unbookmark(a2) {
+    await this.ann.remove(a2.annotation_id);
+    new import_obsidian21.Notice("Bookmark removed");
   }
   /** bookmark THIS file — the page views (questions, talks, history) have no
    * "active file" in Obsidian's sense, so they hand theirs over */
@@ -16335,6 +16398,11 @@ var SGPlugin = class extends import_obsidian24.Plugin {
     this.registerView(DOC_VIEW, (leaf) => new DocView(leaf, this.state, this.ann, {
       openAsk: (seed) => void this.openAsk(null, null, `About "${seed}" \u2014 `),
       bookmark: (f) => this.study.bookmarkFile(f),
+      bookmarkId: async (f) => (await this.study.bookmarkOf(f))?.annotation_id ?? null,
+      unbookmark: async (id) => {
+        const a2 = (await this.state.sync.allAnnotations()).find((x3) => x3.annotation_id === id);
+        if (a2) await this.study.unbookmark(a2);
+      },
       openLibrary: () => this.openNavigator(),
       openRaw: this.state.device.showAiLibrary ? (f) => {
         void this.app.workspace.getLeaf().openFile(f);
@@ -16917,7 +16985,8 @@ var SGPlugin = class extends import_obsidian24.Plugin {
         const af = typeof p === "string" ? this.app.vault.getAbstractFileByPath(p) : null;
         return af instanceof import_obsidian24.TFile ? af : null;
       },
-      bookmark: (f) => this.study.bookmarkFile(f)
+      bookmark: (f) => this.study.bookmarkFile(f),
+      unbookmark: (a2) => this.study.unbookmark(a2)
     });
     this.dock.mount();
     this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.dock?.refresh()));
