@@ -13114,6 +13114,36 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-john-8-83b8e42a",
+   "t": "Jesus teaches in the Jerusalem temple after the Feast of Tabernacles",
+   "y0": 29,
+   "y1": 29,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "temples"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "John 8 continues directly from the Feast of Tabernacles setting narrated in John 7; traditional harmonies place this stage of Jesus' Judean ministry roughly a year before the Crucifixion.",
+   "chapters": [
+    "John 8"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Abraham (patriarch)",
+    "Moses (prophet)"
+   ],
+   "places": [
+    "Jerusalem",
+    "Mount of Olives"
+   ],
+   "things": [
+    "Temple treasury"
+   ]
+  },
+  {
    "id": "r-josh-13-52f35af1",
    "t": "Moses' Transjordan conquest and land grant to Reuben, Gad, half-Manasseh",
    "y0": -1407,
