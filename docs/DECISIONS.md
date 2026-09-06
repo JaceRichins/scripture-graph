@@ -1,5 +1,40 @@
 # Engineering Decisions Log
 
+## 2026-09-06 -- Words of the Prophets
+
+**The shelf is "Words of the Prophets", not "Joseph Smith Papers".** The
+owner asked, more than once, for the prophets' actual words -- journals,
+teachings, blessings that are legitimately public -- and the shelf named
+after one project could not carry that. `20 Joseph Smith Papers` became
+`20 Words of the Prophets`, with the JSP reference records one shelf inside.
+
+**What fills it, and why each is legitimate** (corpus/prophets.py):
+- *Teachings of Presidents of the Church*, all fifteen volumes, chapter by
+  chapter through the Gospel Library API -- the same channel, budget and
+  posture as Saints and the Gospel Topics essays (private index, private
+  vault).
+- Public-domain books by the prophets and their contemporaries from
+  archive.org, Project Gutenberg texts where they exist (Discourses of
+  Brigham Young, Gospel Doctrine, Mediation and Atonement, Leaves from My
+  Journal, Pratt's autobiography, Life of Heber C. Kimball, Key to the
+  Science of Theology, Jenson's encyclopedia, Richards's Compendium).
+- The Church's own periodicals to 1929 from archive.org's "Utah and the
+  Mormons" collection (2,765 Millennial Star issues, the Nauvoo Neighbor,
+  The Seer, Zion's Watchman, the Evening and Morning Star and more),
+  forty issues a night. The Times and Seasons and Messenger and Advocate
+  importer belongs to another session's uncommitted branch and is left
+  alone; this one skips anything already held.
+- *Patriarchal Blessings (historical)*: gathered only from the public-domain
+  sources above (people gone a century and more), never fetched from
+  anywhere else; no living person's blessing belongs in the vault. Anything
+  the owner has the right to keep goes in `sources/drop/prophets/`.
+
+**The JSP transcripts stay on their site** (D13 stands): the terms forbid
+copying the edited transcripts, and the public-domain sources above carry
+most of the same words. Their site blocks AI agents by name in robots.txt;
+Interpreter's does too, which is why the scholarship harvester (pending)
+will use BYU ScholarsArchive's OAI-PMH feed instead.
+
 ## 2026-09-06 -- Findings, frameworks, and the cumulative page
 
 **The library is called Findings, not Evidence.** "Evidence" carries a verdict

@@ -91,3 +91,11 @@ automation_notes: |
 #   codex:  {enabled: auto}
 # embeddings:
 #   provider: auto            # auto | hash | fastembed | openai
+
+# Words of the Prophets (corpus/prophets.py): public-domain books once, a
+# night's worth of periodical issues from archive.org, the historical
+# blessings page; the Teachings of Presidents volumes ride the Gospel
+# Library nightly budget (acquisition.pages_per_night).
+acquisition:
+  prophets: true
+  periodicals_per_night: 40
