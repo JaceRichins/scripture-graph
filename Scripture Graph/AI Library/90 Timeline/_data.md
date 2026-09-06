@@ -12137,6 +12137,53 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-james-5-94399ab8",
+   "t": "Epistle of James likely composed",
+   "y0": 45,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional dating range proposed by scholars for the Epistle of James, varying with disputed authorship and audience identification; not stated within the text itself.",
+   "chapters": [
+    "James 5"
+   ],
+   "people": [
+    "James (author)"
+   ]
+  },
+  {
+   "id": "r-jer-1-ea704708",
+   "t": "Jeremiah's call in the 13th year of Josiah",
+   "y0": -627,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Jeremiah 1:2-3 internally dates his ministry from the 13th year of Josiah to the 11th year of Zedekiah and the fall of Jerusalem; the traditional date for Josiah's 13th year is c. 627 BCE.",
+   "chapters": [
+    "Jeremiah 1"
+   ],
+   "people": [
+    "Jeremiah (prophet)",
+    "Josiah",
+    "Zedekiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Anathoth"
+   ]
+  },
+  {
    "id": "r-jer-11-724136e0",
    "t": "Jeremiah's covenant sermon in Judah's cities",
    "y0": -627,
@@ -12183,6 +12230,30 @@ timeline module, not this file._
    ],
    "places": [
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-jer-16-0ca5cec1",
+   "t": "Jeremiah's marriage/mourning/feasting sign-acts",
+   "y0": -627,
+   "y1": -587,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Chapter 16 carries no internal regnal date marker (unlike, e.g., Jeremiah 25 or 36); placement is only approximate within Jeremiah's broader ministry, traditionally dated from Josiah's 13th year to the fall of Jerusalem.",
+   "chapters": [
+    "Jeremiah 16"
+   ],
+   "people": [
+    "Jeremiah"
+   ],
+   "places": [
+    "Judah"
    ]
   },
   {
