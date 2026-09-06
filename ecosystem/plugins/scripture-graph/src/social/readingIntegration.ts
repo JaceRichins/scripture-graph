@@ -12,6 +12,7 @@ import { voiceFor } from "../study/presence";
 import { ConnectionsModal, clearConnectionsCache, connectionsFor } from "./connections";
 import { openLocalGraphFor } from "../study/studyBar";
 import { TranslationsModal, isBiblical } from "../study/translations";
+import { FootnotesModal, footnotesFor } from "../reader/footnotes";
 
 export interface SelectionHit {
   verseId: string;
@@ -45,6 +46,24 @@ export function registerReadingIntegration(
       const mine = await svc.mine(verseId);
       decorateVerse(s, svc, p, verseId, mine, svc.social(verseId));
     }
+    // ---- ᵃ footnotes: the official apparatus, a superscript chip per verse
+    const chapterTitle0 = ctx.sourcePath.split("/").pop()!.replace(/\.md$/, "");
+    void footnotesFor(plugin.app, chapterTitle0).then(fn => {
+      if (!fn) return;
+      for (const { p, verseId } of paragraphs) {
+        const n = verseId.slice(slug.length + 1);
+        const notes = fn[n];
+        if (!notes?.length || p.querySelector(".sg-fn-chip")) continue;
+        const letters = notes.map(x => x.m.replace(/^\d+/, "")).filter(Boolean).slice(0, 4).join("");
+        const chip = p.createSpan({ cls: "sg-fn-chip", text: letters || "ᵃ" });
+        chip.setAttr("aria-label", `${notes.length} footnote${notes.length === 1 ? "" : "s"}`);
+        chip.onclick = (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          new FootnotesModal(s, chapterTitle0, n, notes, ctx.sourcePath).open();
+        };
+      }
+    });
     // ---- ⇄ connections: what the rest of the library says about each verse -
     // the vault's resolved links already know every page that cites a verse
     // anchor; connected verses get a quiet chip that opens the evidence

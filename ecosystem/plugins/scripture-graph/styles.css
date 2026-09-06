@@ -2393,3 +2393,37 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
 }
 .sg-saved-keep-off { background: var(--background-secondary); color: var(--text-normal); }
 .sg-ask-btn.sg-on { background: var(--interactive-accent); color: var(--text-on-accent); }
+
+/* ---- ᵃ footnotes on the verse ---- */
+.sg-fn-chip {
+  position: relative; display: inline-block; margin-left: 5px; padding: 0 5px;
+  border-radius: 7px; font-size: 0.68em; font-weight: 700; line-height: 1.6; letter-spacing: 0.04em;
+  color: var(--text-accent); background: color-mix(in srgb, var(--text-accent) 12%, transparent);
+  vertical-align: super; cursor: pointer; user-select: none;
+}
+.sg-fn-chip::after { content: ""; position: absolute; inset: -9px; }
+.sg-fn-chip:active { transform: scale(0.92); }
+.sg-fn-title { margin: 0 0 2px; }
+.sg-fn-sub { color: var(--text-muted); font-size: 0.85em; margin-bottom: 10px; }
+.sg-fn-row { display: flex; gap: 10px; align-items: flex-start; padding: 8px 0; border-top: 1px solid color-mix(in srgb, var(--background-modifier-border) 50%, transparent); }
+.sg-fn-marker { flex: none; width: 22px; font-weight: 800; color: var(--text-accent); }
+.sg-fn-body { flex: 1; min-width: 0; }
+.sg-fn-text { margin-bottom: 6px; color: var(--text-normal); }
+.sg-fn-refs { display: flex; flex-wrap: wrap; gap: 6px; }
+.sg-fn-ref { padding: 4px 11px; border-radius: 999px; font-size: 0.86em; font-weight: 600; background: var(--background-secondary); box-shadow: none;
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
+.sg-fn-ref-plain { opacity: 0.75; }
+/* ---- ♪ hymns ---- */
+.sg-nav-intro { color: var(--text-muted); font-size: 0.92em; line-height: 1.45; margin: 0 0 10px; }
+.sg-hymn-n { flex: none; width: 34px; text-align: right; margin-right: 10px; font-weight: 700; color: var(--text-muted); font-variant-numeric: tabular-nums; }
+.sg-hymn-on .sg-nav-name { color: var(--text-accent); }
+.sg-hymn-player { position: sticky; top: 0; z-index: 4; margin: 8px 0 12px; padding: 12px 14px; border-radius: 16px;
+  background: color-mix(in srgb, var(--background-primary) 88%, #000); border: 1px solid rgba(255,255,255,0.08); }
+.sg-hymn-player:empty { display: none; }
+.sg-hymn-title { font-weight: 800; font-size: 1.05em; margin-bottom: 8px; }
+.sg-hymn-now { font-size: 0.8em; color: var(--text-accent); margin-bottom: 6px; }
+.sg-hymn-doors { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.sg-hymn-door { padding: 6px 12px; border-radius: 999px; font-size: 0.86em; font-weight: 600; text-decoration: none;
+  background: var(--background-secondary); color: var(--text-normal); box-shadow: none;
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
+.sg-hymn-door-main { background: var(--interactive-accent); color: var(--text-on-accent); border-color: transparent; }

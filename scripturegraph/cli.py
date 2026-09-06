@@ -485,6 +485,12 @@ def _cmd_fetch_locked(ctx, args, fetchers, glib, ensure_registry):
     if args.what in ("jsp", "all"):
         from scripturegraph.corpus.jsp_refs import write_jsp_reference_notes
         out["jsp_reference_notes"] = write_jsp_reference_notes(ctx)
+    if args.what in ("hymns", "all"):
+        from scripturegraph.corpus import hymns
+        out["hymns"] = hymns.fetch_hymns(ctx, args.limit or 400)
+    if args.what in ("footnotes", "all"):
+        from scripturegraph.vaultgen.footnotes import write_footnote_notes
+        out["footnotes"] = write_footnote_notes(ctx)
     if args.what in ("prophets", "all"):
         from scripturegraph.corpus import prophets
         out["prophets_books"] = prophets.fetch_books(ctx, limit=args.limit)
@@ -738,8 +744,8 @@ def main(argv=None) -> int:
 
     sp = sub.add_parser("fetch", help="acquire corpora (conference API / Gospel Library / "
                                       "public-domain history / JSP records)")
-    sp.add_argument("what", choices=["conference", "history", "jsp", "prophets", "od", "apparatus",
-                                     "collections", "gospel-library", "all"])
+    sp.add_argument("what", choices=["conference", "history", "jsp", "prophets", "hymns", "footnotes",
+                                     "od", "apparatus", "collections", "gospel-library", "all"])
     sp.add_argument("--from-year", type=int, default=2015)
     sp.add_argument("--to-year", type=int, default=2026)
     sp.add_argument("--limit", type=int, help="page cap for apparatus/collections")

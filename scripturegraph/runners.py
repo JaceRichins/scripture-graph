@@ -245,6 +245,13 @@ def run_nightly(ctx: Ctx) -> dict:
                     ctx, int(ctx.c("acquisition.pages_per_night", 350)))
             except Exception as e:  # noqa: BLE001
                 ctx.log.warn("nightly.glib_failed", error=str(e)[:200])
+        if ctx.c("acquisition.hymns", True):
+            # the hymnbook index for the Hymns shelf: forty a night until done
+            from scripturegraph.corpus import hymns
+            try:
+                stats["hymns"] = hymns.fetch_hymns(ctx, int(ctx.c("acquisition.hymns_per_night", 40)))
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("nightly.hymns_failed", error=str(e)[:200])
         if ctx.c("acquisition.prophets", True):
             # Words of the Prophets: public-domain books once, a night's worth
             # of periodical issues, the historical blessings page
@@ -404,6 +411,12 @@ def run_weekly(ctx: Ctx) -> dict:
                 stats["crossrefs"] = build_crossrefs(ctx)
             except Exception as e:  # noqa: BLE001
                 ctx.log.warn("weekly.crossrefs_failed", error=str(e)[:200])
+        # the official footnotes as notes (regenerable; cheap when unchanged)
+        try:
+            from scripturegraph.vaultgen.footnotes import write_footnote_notes
+            stats["footnotes"] = write_footnote_notes(ctx)
+        except Exception as e:  # noqa: BLE001
+            ctx.log.warn("weekly.footnotes_failed", error=str(e)[:200])
         if ctx.c("timeline.enabled", True):
             from scripturegraph.timeline import maybe_build_timeline
             try:

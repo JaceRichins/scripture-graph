@@ -503,6 +503,7 @@ export class StudyBar {
     };
     act("📝 Note", () => this.doNote());
     act("🃏 Card", () => void this.doFlashcard());
+    act("📤 Share", () => void this.doShare());
     // 🌐 parallel translations — Bible verses only (WEB/ASV/YLT are local files)
     const firstSel = this.sel.partial ?? this.sel.verses[0] ?? null;
     if (firstSel && isBiblical(firstSel.verseId)) {
@@ -516,6 +517,7 @@ export class StudyBar {
       const menu = new Menu();
       menu.addItem(i => i.setTitle("🕸 Connections graph").onClick(() => void this.openGraph()));
       menu.addItem(i => i.setTitle("📋 Copy verse").onClick(() => void this.doCopy()));
+      menu.addItem(i => i.setTitle("📤 Share verse").onClick(() => void this.doShare()));
       menu.addItem(i => i.setTitle("✨ Ask AI").onClick(() => this.doAsk()));
       menu.showAtMouseEvent(e);
     };
@@ -646,6 +648,25 @@ export class StudyBar {
       ?? this.sel.verses.map(v => v.verseText).join(" ");
     const ref = this.refLabel();
     await this.study.addFlashcard(`What does ${ref} say?`, back.slice(0, 600), anchor);
+    this.clear();
+  }
+
+  /** the phone's share sheet (Messages, Notes, …) with the verse as a
+   * text card; where there is no share sheet, the clipboard */
+  private async doShare(): Promise<void> {
+    const ref = this.refLabel();
+    const text = this.sel.partial?.selected
+      ?? this.sel.verses.map(v => v.verseText).join("\n");
+    const card = `“${text}”\n— ${ref}`;
+    const nav = navigator as Navigator & { share?: (d: { text: string; title?: string }) => Promise<void> };
+    try {
+      if (typeof nav.share === "function") {
+        await nav.share({ title: ref, text: card });
+      } else {
+        await navigator.clipboard.writeText(card);
+        new Notice(`Copied ${ref} — no share sheet here`);
+      }
+    } catch { /* the user closed the sheet */ }
     this.clear();
   }
 

@@ -26,6 +26,7 @@ type LibView =
   | { kind: "graphs" }
   | { kind: "timelines" }
   | { kind: "questions" }
+  | { kind: "hymns" }
   | { kind: "folder"; path: string; title: string };
 
 /** blur whatever is focused inside `root` and tell the layout the keyboard
@@ -50,6 +51,11 @@ function coverKey(name: string): string {
   const slug = name.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   return COVER_ALIAS[slug] ?? slug;
 }
+
+/** the hymnbook index the engine writes (titles, numbers, the Church's recordings) */
+const HYMNS_PATH = "AI Library/00 System/Hymns.md";
+interface Hymn { uri: string; title: string; n: number | null; url: string;
+  audio?: { vocal?: string; accompaniment?: string; other?: string } }
 
 /** the Did-you-notice pool (see the note's own header) */
 const INSIGHTS_PATH = "AI Library/00 System/Insights.md";
@@ -130,6 +136,7 @@ export class SGLibraryView extends ItemView {
   }
 
   async onClose(): Promise<void> {
+    this.hymnAudio?.pause();
     if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
     document.body.removeClass("sg-lib-open");
     this.contentEl.empty();
@@ -159,7 +166,10 @@ export class SGLibraryView extends ItemView {
     this.render();
   }
 
+  dockSlotHymns(): boolean { return this.view.kind === "hymns"; }
+
   private title(): string {
+    if (this.view.kind === "hymns") return "Hymns";
     const v = this.view;
     return v.kind === "home" ? "Library"
       : v.kind === "scriptures" ? "Scriptures"
@@ -202,6 +212,7 @@ export class SGLibraryView extends ItemView {
     else if (v.kind === "graphs") this.renderGraphs(body);
     else if (v.kind === "timelines") this.renderTimelines(body);
     else if (v.kind === "questions") this.renderQuestions(body);
+    else if (v.kind === "hymns") void this.renderHymns(body);
     else this.renderFolder(body, v.path);
   }
 
@@ -249,6 +260,80 @@ export class SGLibraryView extends ItemView {
     this.trail = [{ kind: "home" }];
     this.view = { kind: "graphs" };
     this.render();
+  }
+
+  // ----------------------------------------------------------------- hymns
+
+  private hymnAudio: HTMLAudioElement | null = null;
+  private hymnPlaying: string | null = null;
+
+  private async renderHymns(c: HTMLElement): Promise<void> {
+    const f = this.app.vault.getAbstractFileByPath(HYMNS_PATH);
+    let hymns: Hymn[] = [];
+    if (f instanceof TFile) {
+      try {
+        const m = /```json\s*([\s\S]*?)```/.exec(await this.app.vault.cachedRead(f));
+        hymns = m ? (JSON.parse(m[1]!) as Hymn[]) : [];
+      } catch { hymns = []; }
+    }
+    if (!c.isConnected) return;
+    c.createDiv({ cls: "sg-nav-intro", text: "The hymnbook. Tap a hymn to hear the Church's own recording "
+      + "here — vocal or accompaniment — or open it in Spotify, Apple Music or YouTube. The words live on "
+      + "the hymn's page at churchofjesuschrist.org." });
+    const inp = c.createEl("input", { cls: "sg-nav-filter", attr: { type: "search", placeholder: "Find a hymn by name or number…" } });
+    const player = c.createDiv({ cls: "sg-hymn-player" });
+    const list = c.createDiv({ cls: "sg-nav-list" });
+    const render = () => {
+      list.empty();
+      const q = inp.value.trim().toLowerCase();
+      let i = 0;
+      for (const h of hymns) {
+        if (q && !(h.title.toLowerCase().includes(q) || String(h.n ?? "").startsWith(q))) continue;
+        const row = list.createDiv({ cls: "sg-nav-row sg-hymn-row" });
+        cascade(row, i++);
+        row.createSpan({ cls: "sg-hymn-n", text: h.n ? String(h.n) : "·" });
+        const col = row.createDiv({ cls: "sg-nav-gcol" });
+        col.createDiv({ cls: "sg-nav-name", text: h.title });
+        const has = h.audio?.vocal || h.audio?.accompaniment || h.audio?.other;
+        col.createDiv({ cls: "sg-nav-gsub", text: has ? "Church recording · Spotify · Apple Music · YouTube" : "Spotify · Apple Music · YouTube" });
+        row.toggleClass("sg-hymn-on", this.hymnPlaying === h.uri);
+        row.onclick = () => this.playHymn(h, player, render);
+        if (i > 400) break;
+      }
+      if (!list.childElementCount) list.createDiv({ cls: "sg-nav-empty", text: hymns.length ? "No hymn matches." : "The hymn index has not synced yet — the engine writes it nightly." });
+    };
+    inp.oninput = render;
+    render();
+  }
+
+  private playHymn(h: Hymn, player: HTMLElement, rerender: () => void): void {
+    player.empty();
+    const head = player.createDiv({ cls: "sg-hymn-head" });
+    head.createDiv({ cls: "sg-hymn-title", text: `${h.n ? h.n + " · " : ""}${h.title}` });
+    const q = encodeURIComponent(`${h.title} hymn`);
+    const doors = player.createDiv({ cls: "sg-hymn-doors" });
+    const src = h.audio?.vocal ?? h.audio?.accompaniment ?? h.audio?.other ?? null;
+    const startStream = (url: string, label: string) => {
+      this.hymnAudio?.pause();
+      this.hymnAudio = new Audio(url);
+      this.hymnAudio.onended = () => { this.hymnPlaying = null; rerender(); };
+      void this.hymnAudio.play();
+      this.hymnPlaying = h.uri;
+      head.createDiv({ cls: "sg-hymn-now", text: `▶ ${label}` });
+      rerender();
+    };
+    if (h.audio?.vocal) { const b = doors.createEl("button", { cls: "sg-hymn-door sg-hymn-door-main", text: "▶ Sing along" }); b.onclick = () => startStream(h.audio!.vocal!, "vocal"); }
+    if (h.audio?.accompaniment) { const b = doors.createEl("button", { cls: "sg-hymn-door", text: "🎹 Accompaniment" }); b.onclick = () => startStream(h.audio!.accompaniment!, "accompaniment"); }
+    const stop = doors.createEl("button", { cls: "sg-hymn-door", text: "■ Stop" });
+    stop.onclick = () => { this.hymnAudio?.pause(); this.hymnPlaying = null; head.querySelector(".sg-hymn-now")?.remove(); rerender(); };
+    const ext = player.createDiv({ cls: "sg-hymn-doors" });
+    const link = (label: string, url: string) => { const a = ext.createEl("a", { cls: "sg-hymn-door", text: label, href: url }); a.setAttr("target", "_blank"); a.setAttr("rel", "noopener"); };
+    link("Spotify", `https://open.spotify.com/search/${q}`);
+    link("Apple Music", `https://music.apple.com/us/search?term=${q}`);
+    link("YouTube", `https://www.youtube.com/results?search_query=${q}`);
+    link("Words & music ↗", h.url);
+    if (src && !this.hymnPlaying) startStream(src, h.audio?.vocal ? "vocal" : "accompaniment");
+    player.scrollIntoView({ block: "nearest", behavior: "smooth" });
   }
 
   // ------------------------------------------------------- did you notice?
@@ -399,6 +484,10 @@ export class SGLibraryView extends ItemView {
       onTap: () => this.go({ kind: "graphs" }) });
     this.cover(grid, { icon: "question", label: "Hard Questions",
       onTap: () => this.go({ kind: "questions" }) });
+    if (this.app.vault.getAbstractFileByPath(HYMNS_PATH)) {
+      this.cover(grid, { icon: "podcast", label: "Hymns", photo: "hymns",
+        onTap: () => this.go({ kind: "hymns" }) });
+    }
     for (const s of LIBRARY_SECTIONS) {
       const l = this.host.listFolder(s.path);
       // a shelf whose only page is its own index (Scholarship before any

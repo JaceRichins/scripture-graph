@@ -239,6 +239,10 @@ def fetch_all_apparatus(ctx: Ctx, limit: int | None = None) -> dict:
             ctx.log.info("glib.apparatus_progress", done=i + 1, total=len(targets))
     remaining = len(rows) - len(targets)
     ctx.log.info("glib.apparatus", remaining=remaining, **stats)
+    if stats.get("fetched"):
+        # the phone reads footnotes from notes, not the database
+        from scripturegraph.vaultgen.footnotes import write_footnote_notes
+        write_footnote_notes(ctx)
     return {**stats, "remaining": remaining}
 
 
