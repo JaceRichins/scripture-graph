@@ -94,6 +94,13 @@ Several close phrase-and-sequence correspondences, especially the Matthew 3:10 p
 
 Notes: [[English Textual Intertextuality in Alma 5]]
 
+### bom-jacob4-stone-tradition-intertext
+**Biblical Stone-Tradition Intertextuality in Jacob 4** — *strong* (supports, evidence_strength 0.84) for: Jacob 4:15–17 deliberately combines the rejected-stone and sure-foundation traditions represented in Psalm 118:22 and Isaiah 28:16.
+
+The rejected-stone, sure-foundation, building, and head-of-the-corner cluster, reinforced by “according to the scriptures,” strongly supports deliberate participation in the Isaiah 28/Psalm 118 stone tradition. It does not isolate direct use of Matthew 21 or distinguish ancient synthesis, Christianizing or KJV-shaped mediation, revelatory reuse, and nineteenth-century composition.
+
+Notes: [[Biblical Intertextuality in Jacob 4]]
+
 ### bom-2nephi25-biblical-intertextuality
 **Biblical and KJV Mediation in 2 Nephi 25** — *strong* (supports, evidence_strength 0.73) for: The final English discourse of 2 Nephi 25 deliberately incorporates language and motifs corresponding to Numbers 21, Isaiah 11 and 29, Malachi 4, and Acts 4, strongly supporting biblical and KJV-shaped mediation.
 
@@ -746,11 +753,11 @@ The explicit causal chain in v.17 tying prolonged riches to status competition, 
 Notes: [[Internal Literary Evidence in Helaman 6]]
 
 ### bom-jacob1-psalm95-hebrews3-intertext
-**Psalm 95 and Hebrews 3 mediation in Jacob 1:7** — *strong* (supports, evidence_strength 0.68) for: Jacob 1:7's final English wording reflects textual or translation-level mediation through the KJV-shaped Psalm 95:8–11 / Hebrews 3:8–11 wilderness-warning complex.
+**Psalm 95 and Hebrews 3 Intertextuality in Jacob 1** — *strong* (supports, evidence_strength 0.8) for: Jacob 1:7 deliberately engages the Psalm 95 wilderness-and-rest tradition represented in Psalm 95:8–11 and its quotation in Hebrews 3:7–11.
 
-The ordered provocation, temptation, and wilderness vocabulary, reinforced by the shared wrath-and-rest framework, strongly supports Psalm 95/Hebrews 3 or KJV-shaped mediation in Jacob 1:7's final English form. The parallel does not distinguish translation, harmonization, memorized biblical idiom, or direct nineteenth-century reuse and therefore does not independently establish antiquity, historicity, or inspiration.
+The ordered provocation, temptation, wilderness, divine-wrath, and denied-rest cluster strongly supports deliberate engagement with the Psalm 95/Hebrews 3 tradition in Jacob 1:7. Psalm 95 and Hebrews 3 are one textual complex rather than independent witnesses, and the relationship does not distinguish ancient allusion, KJV-shaped translation or revelation, and nineteenth-century composition.
 
-Notes: [[VerbalTextual Parallel in Jacob 1]]
+Notes: [[Biblical Intertext in Jacob 1]] · [[VerbalTextual Parallel in Jacob 1]]
 
 ### jsh-anthon-episode-reliability
 **Reliability of the Martin Harris–Charles Anthon episode as reported in Joseph Smith—History** — *moderate* (challenges, evidence_strength 0.4) for: Martin Harris's account, as embedded in Joseph Smith—History 1:63-65, accurately represents what Charles Anthon said and did concerning the copied characters and translation.
