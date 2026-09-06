@@ -249,6 +249,7 @@ def fetch_all_apparatus(ctx: Ctx, limit: int | None = None) -> dict:
 # ------------------------------------------------------------- collections
 
 from scripturegraph.vaultgen.generate import (FOLDER_HISTORY as _FH,
+                                              FOLDER_LIBRARY as _FL,
                                               FOLDER_PROPHETS as _FP,
                                               FOLDER_SCRIPTURES as _FS,
                                               FOLDER_TOPICS as _FT)
@@ -317,6 +318,18 @@ _TEACHINGS = [
     ("howard-w-hunter", "Howard W. Hunter", "teachings-of-presidents-of-the-church-howard-w-hunter"),
     ("gordon-b-hinckley", "Gordon B. Hinckley", "teachings-of-presidents-of-the-church-gordon-b-hinckley"),
 ]
+# Come, Follow Me -- this year's manual (and last year's, for the archive):
+# one page per lesson. Priority 1: it is small and it is what the family
+# reads this week (corpus/cfm.py writes the weekly index from its TOC).
+_CFM = [(2026, "come-follow-me-for-home-and-church-old-testament-2026"),
+        (2025, "come-follow-me-for-home-and-church-doctrine-and-covenants-2025")]
+for _year, _slug in _CFM:
+    COLLECTIONS[f"cfm-{_year}"] = {
+        "uri": f"/manual/{_slug}", "source": "come-follow-me", "doc_type": "lesson",
+        "max_pages": 90, "priority": 1,
+        "folder": f"{_FL}/07 Come Follow Me/{_year}", "suffix": "",
+    }
+
 for _key, _name, _slug in _TEACHINGS:
     COLLECTIONS[f"teachings-{_key}"] = {
         "uri": f"/manual/{_slug}", "source": "teachings-of-presidents", "doc_type": "teachings",

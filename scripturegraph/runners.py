@@ -245,6 +245,14 @@ def run_nightly(ctx: Ctx) -> dict:
                     ctx, int(ctx.c("acquisition.pages_per_night", 350)))
             except Exception as e:  # noqa: BLE001
                 ctx.log.warn("nightly.glib_failed", error=str(e)[:200])
+        if ctx.c("acquisition.come_follow_me", True):
+            # the week index for the home card (the lessons ride the Gospel
+            # Library crawl above)
+            from scripturegraph.corpus import cfm
+            try:
+                stats["come_follow_me"] = cfm.write_index(ctx)
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("nightly.cfm_failed", error=str(e)[:200])
         if ctx.c("acquisition.hymns", True):
             # the hymnbook index for the Hymns shelf: forty a night until done
             from scripturegraph.corpus import hymns

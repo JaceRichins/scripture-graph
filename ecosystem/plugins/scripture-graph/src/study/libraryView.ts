@@ -52,6 +52,11 @@ function coverKey(name: string): string {
   return COVER_ALIAS[slug] ?? slug;
 }
 
+/** the Come, Follow Me week index the engine writes from the manual's TOC */
+const CFM_PATH = "AI Library/00 System/Come Follow Me.md";
+interface CfmWeek { week: string; start: string; end: string; dates: string; block: string;
+  chapters: string[]; uri: string; page: string | null }
+
 /** the hymnbook index the engine writes (titles, numbers, the Church's recordings) */
 const HYMNS_PATH = "AI Library/00 System/Hymns.md";
 interface Hymn { uri: string; title: string; n: number | null; url: string;
@@ -262,6 +267,63 @@ export class SGLibraryView extends ItemView {
     this.render();
   }
 
+  // ------------------------------------------------------- come, follow me
+
+  private async renderThisWeek(slot: HTMLElement): Promise<void> {
+    const f = this.app.vault.getAbstractFileByPath(CFM_PATH);
+    if (!(f instanceof TFile)) return;
+    let data: { year: number; title: string; weeks: CfmWeek[] } | null = null;
+    try {
+      const m = /```json\s*([\s\S]*?)```/.exec(await this.app.vault.cachedRead(f));
+      data = m ? JSON.parse(m[1]!) : null;
+    } catch { data = null; }
+    if (!data?.weeks?.length || !slot.isConnected) return;
+    const today = new Date().toISOString().slice(0, 10);
+    let wk = data.weeks.find(w => w.start <= today && today <= w.end)
+      ?? data.weeks.find(w => w.start > today) ?? data.weeks[data.weeks.length - 1]!;
+    const card = slot.createDiv({ cls: "sg-cfm" });
+    card.createDiv({ cls: "sg-cfm-eyebrow", text: `Come, Follow Me · ${wk.dates}` });
+    card.createDiv({ cls: "sg-cfm-title", text: wk.block });
+    const chips = card.createDiv({ cls: "sg-cfm-chips" });
+    for (const ch of wk.chapters.slice(0, 8)) {
+      const b = chips.createEl("button", { cls: "sg-cfm-chip", text: ch });
+      b.onclick = () => this.host.openChapter(ch);
+    }
+    const row = card.createDiv({ cls: "sg-cfm-actions" });
+    if (wk.page) {
+      const open = row.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" });
+      open.onclick = () => this.host.openPath(wk.page!);
+    } else {
+      row.createDiv({ cls: "sg-nav-gsub", text: "The lesson page arrives with tonight's crawl." });
+    }
+    const idx = data.weeks.indexOf(wk);
+    const nav = row.createDiv({ cls: "sg-cfm-nav" });
+    const prev = nav.createEl("button", { cls: "sg-insight-step", text: "‹" });
+    const next = nav.createEl("button", { cls: "sg-insight-step", text: "›" });
+    const show = (i: number) => {
+      const w = data!.weeks[i];
+      if (!w) return;
+      wk = w;
+      slot.empty();
+      // re-render around the chosen week without re-reading the file
+      const c2 = slot.createDiv({ cls: "sg-cfm" });
+      c2.createDiv({ cls: "sg-cfm-eyebrow", text: `Come, Follow Me · ${w.dates}` });
+      c2.createDiv({ cls: "sg-cfm-title", text: w.block });
+      const ch2 = c2.createDiv({ cls: "sg-cfm-chips" });
+      for (const ch of w.chapters.slice(0, 8)) {
+        const b = ch2.createEl("button", { cls: "sg-cfm-chip", text: ch });
+        b.onclick = () => this.host.openChapter(ch);
+      }
+      const r2 = c2.createDiv({ cls: "sg-cfm-actions" });
+      if (w.page) { const o = r2.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" }); o.onclick = () => this.host.openPath(w.page!); }
+      const n2 = r2.createDiv({ cls: "sg-cfm-nav" });
+      const p2 = n2.createEl("button", { cls: "sg-insight-step", text: "‹" }); p2.onclick = () => show(i - 1);
+      const x2 = n2.createEl("button", { cls: "sg-insight-step", text: "›" }); x2.onclick = () => show(i + 1);
+    };
+    prev.onclick = () => show(idx - 1);
+    next.onclick = () => show(idx + 1);
+  }
+
   // ----------------------------------------------------------------- hymns
 
   private hymnAudio: HTMLAudioElement | null = null;
@@ -466,6 +528,8 @@ export class SGLibraryView extends ItemView {
     this.coverSeq = 0;
     // (Continue reading + recent chapters left the home page 2026-09-06 —
     // the dock's Saved sheet carries them; the home leads with the insight)
+    // 📅 Come, Follow Me — this week, from the engine's index
+    void this.renderThisWeek(c.createDiv({ cls: "sg-cfm-slot" }));
     // ✦ Did you notice? — one deep, faith-building connection a day
     void this.renderInsight(c.createDiv({ cls: "sg-insight-slot" }));
     // the shelf, GL's top level: Scriptures is ONE cover — the black jacket

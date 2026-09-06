@@ -2427,3 +2427,22 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
   background: var(--background-secondary); color: var(--text-normal); box-shadow: none;
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
 .sg-hymn-door-main { background: var(--interactive-accent); color: var(--text-on-accent); border-color: transparent; }
+
+/* ---- 📅 Come, Follow Me — this week ---- */
+.sg-cfm-slot { margin: 2px 0 14px; }
+.sg-cfm {
+  padding: 14px 16px 12px; border-radius: 18px;
+  background:
+    radial-gradient(120% 90% at 100% 0%, rgba(108, 125, 210, 0.18), transparent 60%),
+    color-mix(in srgb, var(--background-secondary) 78%, transparent);
+  border: 1px solid rgba(108, 125, 210, 0.3);
+}
+.sg-cfm-eyebrow { font-size: 0.68em; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #a5b4fc; margin-bottom: 4px; }
+.sg-cfm-title { font-size: 1.15em; font-weight: 800; line-height: 1.2; letter-spacing: -0.01em; text-wrap: balance; }
+.sg-cfm-chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 0; }
+.sg-cfm-chip { font-size: 0.8em; font-weight: 600; padding: 4px 11px; border-radius: 999px; box-shadow: none;
+  background: rgba(165, 180, 252, 0.12); color: #c7d2fe; border: 1px solid rgba(165, 180, 252, 0.35); }
+.sg-cfm-actions { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
+.sg-cfm-open { flex: 1 1 auto; min-height: 40px; border-radius: 12px; font-weight: 700; border: 0; box-shadow: none;
+  background: var(--interactive-accent); color: var(--text-on-accent); }
+.sg-cfm-nav { display: flex; gap: 6px; }

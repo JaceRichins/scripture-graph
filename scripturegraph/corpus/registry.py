@@ -54,6 +54,10 @@ SEED_SOURCES = [
      "download", "available", "https://archive.org/details/utah-and-the-mormons",
      "Millennial Star, Nauvoo Neighbor, The Seer, Zion's Watchman, Evening and Morning Star "
      "and more, budgeted nightly (corpus/prophets.py)."),
+    ("come-follow-me", "Come, Follow Me -- For Home and Church", "manual", 2,
+     "api", "available", "https://www.churchofjesuschrist.org/study/manual",
+     "This year's lessons via the Gospel Library API (corpus/cfm.py). Copyrighted: private "
+     "index + private vault."),
     ("prophets-drop", "Words of the Prophets (your own permitted material)", "history", 4,
      "drop-folder", "manual_download_required", "",
      "Drop legally obtained volumes, journals or family documents into sources/drop/prophets/."),

@@ -42,6 +42,7 @@ FOLDER_PEOPLE = f"{FOLDER_LIBRARY}/03 People"
 FOLDER_PLACES = f"{FOLDER_LIBRARY}/04 Places"
 FOLDER_EVENTS = f"{FOLDER_LIBRARY}/05 Events"
 FOLDER_DOCTRINES = f"{FOLDER_LIBRARY}/06 Doctrines"
+FOLDER_CFM = f"{FOLDER_LIBRARY}/07 Come Follow Me"
 FOLDER_CONFERENCE = f"{FOLDER_LIBRARY}/10 General Conference"
 # Words of the Prophets: teachings, journals and writings, periodicals, the
 # JSP reference records, historical blessings -- everything the prophets said
@@ -563,6 +564,10 @@ def generate_framework(ctx: Ctx) -> None:
         f"{FOLDER_DOCTRINES}/Doctrines.md": _simple_moc(
             "Doctrines", ["Doctrinal statements and principle notes distilled from",
                           f"{md.wikilink('Gospel Topics')} study."]),
+        f"{FOLDER_CFM}/Come Follow Me.md": _simple_moc(
+            "Come Follow Me",
+            ["This year's *Come, Follow Me — For Home and Church* lessons, one page each, and the",
+             "week index the home page reads (" + md.wikilink("Come Follow Me", "this week") + ")."]),
         f"{FOLDER_CONFERENCE}/General Conference.md": _simple_moc(
             "General Conference",
             ["Conference talks, organized by year/session once imported.",

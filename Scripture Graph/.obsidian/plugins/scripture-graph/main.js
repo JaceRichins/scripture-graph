@@ -1,4 +1,4 @@
-/* scripture-graph v0.69.0 build c21cbf65 2026-09-06T22:47:35Z */
+/* scripture-graph v0.69.1 build 7d05d100 2026-09-06T22:52:51Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.69.0", sha: "c21cbf65", at: "2026-09-06T22:47:35Z" };
+    define_SG_BUILD_default = { version: "0.69.1", sha: "7d05d100", at: "2026-09-06T22:52:51Z" };
   }
 });
 
@@ -12667,6 +12667,7 @@ function coverKey(name) {
   const slug = name.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   return COVER_ALIAS[slug] ?? slug;
 }
+var CFM_PATH = "AI Library/00 System/Come Follow Me.md";
 var HYMNS_PATH = "AI Library/00 System/Hymns.md";
 var INSIGHTS_PATH = "AI Library/00 System/Insights.md";
 var COVERS_PATH = "AI Library/00 System/covers";
@@ -12838,6 +12839,66 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     this.trail = [{ kind: "home" }];
     this.view = { kind: "graphs" };
     this.render();
+  }
+  // ------------------------------------------------------- come, follow me
+  async renderThisWeek(slot) {
+    const f = this.app.vault.getAbstractFileByPath(CFM_PATH);
+    if (!(f instanceof import_obsidian4.TFile)) return;
+    let data = null;
+    try {
+      const m2 = /```json\s*([\s\S]*?)```/.exec(await this.app.vault.cachedRead(f));
+      data = m2 ? JSON.parse(m2[1]) : null;
+    } catch {
+      data = null;
+    }
+    if (!data?.weeks?.length || !slot.isConnected) return;
+    const today = (/* @__PURE__ */ new Date()).toISOString().slice(0, 10);
+    let wk = data.weeks.find((w) => w.start <= today && today <= w.end) ?? data.weeks.find((w) => w.start > today) ?? data.weeks[data.weeks.length - 1];
+    const card = slot.createDiv({ cls: "sg-cfm" });
+    card.createDiv({ cls: "sg-cfm-eyebrow", text: `Come, Follow Me \xB7 ${wk.dates}` });
+    card.createDiv({ cls: "sg-cfm-title", text: wk.block });
+    const chips = card.createDiv({ cls: "sg-cfm-chips" });
+    for (const ch of wk.chapters.slice(0, 8)) {
+      const b = chips.createEl("button", { cls: "sg-cfm-chip", text: ch });
+      b.onclick = () => this.host.openChapter(ch);
+    }
+    const row = card.createDiv({ cls: "sg-cfm-actions" });
+    if (wk.page) {
+      const open2 = row.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" });
+      open2.onclick = () => this.host.openPath(wk.page);
+    } else {
+      row.createDiv({ cls: "sg-nav-gsub", text: "The lesson page arrives with tonight's crawl." });
+    }
+    const idx = data.weeks.indexOf(wk);
+    const nav = row.createDiv({ cls: "sg-cfm-nav" });
+    const prev = nav.createEl("button", { cls: "sg-insight-step", text: "\u2039" });
+    const next = nav.createEl("button", { cls: "sg-insight-step", text: "\u203A" });
+    const show = (i) => {
+      const w = data.weeks[i];
+      if (!w) return;
+      wk = w;
+      slot.empty();
+      const c2 = slot.createDiv({ cls: "sg-cfm" });
+      c2.createDiv({ cls: "sg-cfm-eyebrow", text: `Come, Follow Me \xB7 ${w.dates}` });
+      c2.createDiv({ cls: "sg-cfm-title", text: w.block });
+      const ch2 = c2.createDiv({ cls: "sg-cfm-chips" });
+      for (const ch of w.chapters.slice(0, 8)) {
+        const b = ch2.createEl("button", { cls: "sg-cfm-chip", text: ch });
+        b.onclick = () => this.host.openChapter(ch);
+      }
+      const r2 = c2.createDiv({ cls: "sg-cfm-actions" });
+      if (w.page) {
+        const o = r2.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" });
+        o.onclick = () => this.host.openPath(w.page);
+      }
+      const n2 = r2.createDiv({ cls: "sg-cfm-nav" });
+      const p2 = n2.createEl("button", { cls: "sg-insight-step", text: "\u2039" });
+      p2.onclick = () => show(i - 1);
+      const x22 = n2.createEl("button", { cls: "sg-insight-step", text: "\u203A" });
+      x22.onclick = () => show(i + 1);
+    };
+    prev.onclick = () => show(idx - 1);
+    next.onclick = () => show(idx + 1);
   }
   // ----------------------------------------------------------------- hymns
   hymnAudio = null;
@@ -13046,6 +13107,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   }
   renderShelf(c2) {
     this.coverSeq = 0;
+    void this.renderThisWeek(c2.createDiv({ cls: "sg-cfm-slot" }));
     void this.renderInsight(c2.createDiv({ cls: "sg-insight-slot" }));
     const grid = c2.createDiv({ cls: "sg-nav-covers" });
     this.cover(grid, {

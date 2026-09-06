@@ -485,6 +485,9 @@ def _cmd_fetch_locked(ctx, args, fetchers, glib, ensure_registry):
     if args.what in ("jsp", "all"):
         from scripturegraph.corpus.jsp_refs import write_jsp_reference_notes
         out["jsp_reference_notes"] = write_jsp_reference_notes(ctx)
+    if args.what in ("cfm", "all"):
+        from scripturegraph.corpus import cfm
+        out["come_follow_me"] = cfm.write_index(ctx)
     if args.what in ("hymns", "all"):
         from scripturegraph.corpus import hymns
         out["hymns"] = hymns.fetch_hymns(ctx, args.limit or 400)
@@ -744,7 +747,7 @@ def main(argv=None) -> int:
 
     sp = sub.add_parser("fetch", help="acquire corpora (conference API / Gospel Library / "
                                       "public-domain history / JSP records)")
-    sp.add_argument("what", choices=["conference", "history", "jsp", "prophets", "hymns", "footnotes",
+    sp.add_argument("what", choices=["conference", "history", "jsp", "prophets", "hymns", "footnotes", "cfm",
                                      "od", "apparatus", "collections", "gospel-library", "all"])
     sp.add_argument("--from-year", type=int, default=2015)
     sp.add_argument("--to-year", type=int, default=2026)
