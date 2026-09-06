@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 11
 slug: 2ne-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ Verse 7 identifies God with Christ and makes creation dependent upon divine exis
 - [[’Tis Eastertide No One Walks Alone (Elder Gerrit W. Gong, April 2026)|’Tis Eastertide: No One Walks Alone]] — Elder Gerrit W. Gong, 2026-April *(explicit citation)*
 - [[Keeping Covenants Protects Us, Prepares Us, and Empowers Us (Rosemary M. Wixom, April 2014)|Keeping Covenants Protects Us, Prepares Us, and Empowers Us]] — Rosemary M. Wixom, 2014-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[My Soul Delighteth in the Things of the Lord (Susan W. Tanner, April 2008)|My Soul Delighteth in the Things of the Lord]] — Susan W. Tanner, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

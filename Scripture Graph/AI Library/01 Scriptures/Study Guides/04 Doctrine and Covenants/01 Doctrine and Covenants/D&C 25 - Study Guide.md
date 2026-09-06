@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 25
 slug: dc-25
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -80,10 +80,10 @@ The chapter joins grace and covenant responsibility without reducing either one 
 - [[Tune Your Heart to Jesus Christ The Sacred Gift of Primary Music (Sister Tracy Y. Browning, October 2025)|Tune Your Heart to Jesus Christ: The Sacred Gift of Primary Music]] — Sister Tracy Y. Browning, 2025-October *(explicit citation)*
 - [[Guardians of Virtue (Elaine S. Dalton, April 2011)|Guardians of Virtue]] — Elaine S. Dalton, 2011-April *(explicit citation)*
 - [[Cleave unto the Covenants (Barbara Thompson, October 2011)|Cleave unto the Covenants]] — Barbara Thompson, 2011-October *(explicit citation)*
+- [[A Return to Virtue (Elaine S. Dalton, October 2008)|A Return to Virtue]] — Elaine S. Dalton, 2008-October *(explicit citation)*
+- [[Now Let Us Rejoice (Barbara Thompson, October 2008)|Now Let Us Rejoice]] — Barbara Thompson, 2008-October *(explicit citation)*
 - [[Be Thou Humble (Elder Steven E. Snow, April 2016)|Be Thou Humble]] — Elder Steven E. Snow, 2016-April *(explicit citation)*
 - [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
-- [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
-- [[Build a Fortress of Spirituality and Protection (Elder Ronald A. Rasband, April 2019)|Build a Fortress of Spirituality and Protection]] — Elder Ronald A. Rasband, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

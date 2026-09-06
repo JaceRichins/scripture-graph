@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 29
 slug: num-29
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -74,7 +74,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

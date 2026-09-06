@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 13
 slug: num-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

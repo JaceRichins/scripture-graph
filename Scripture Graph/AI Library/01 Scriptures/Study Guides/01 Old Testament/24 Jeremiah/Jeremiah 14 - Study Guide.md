@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 14
 slug: jer-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ This sequence alternates human appeal and divine response, but the final appeal 
 - [[Jeremiah 32]] — 1 parallel verse, e.g. [[Jeremiah 14#^jer-14-12|Jeremiah 14:12]] ↔ [[Jeremiah 32#^jer-32-36|Jeremiah 32:36]]
 - [[Jeremiah 42]] — 2 parallel verses, e.g. [[Jeremiah 14#^jer-14-12|Jeremiah 14:12]] ↔ [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]]
 - [[Jeremiah 7]] — 0 parallel verses
+- [[Jeremiah 8]] — 0 parallel verses
 - [[Jeremiah 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

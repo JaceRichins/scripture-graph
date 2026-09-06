@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 2
 slug: 1sam-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -80,11 +80,12 @@ Hannah's prayer also rejects confidence in unaided strength: the LORD weighs act
 <!-- SG:BEGIN conference -->
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)|Adorned with the Virtue of Temperance]] — Elder Ulisses Soares, 2025-October *(explicit citation)*
+- [[Give Heed unto the Prophets’ Words (Elder Quentin L. Cook, April 2008)|Give Heed unto the Prophets’ Words]] — Elder Quentin L. Cook, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ephod** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

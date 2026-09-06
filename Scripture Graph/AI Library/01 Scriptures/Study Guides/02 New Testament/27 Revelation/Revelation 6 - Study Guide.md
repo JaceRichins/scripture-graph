@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 6
 slug: rev-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[Be Thou an Example of the Believers (Elder Russell M. Nelson, October 2010)|Be Thou an Example of the Believers]] — Elder Russell M. Nelson, 2010-October *(explicit citation)*
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

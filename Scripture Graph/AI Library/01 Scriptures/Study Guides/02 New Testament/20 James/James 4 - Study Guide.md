@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 4
 slug: james-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 - [[Sin]]
 - [[Satan and Temptation]]
 - [[Pride]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

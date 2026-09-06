@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 44
 slug: ezek-44
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Ezekiel 42]] — 2 footnote cross-references (from [[Ezekiel 44#^ezek-44-1|Ezekiel 44:1]])
 - [[Ezekiel 48]] — 2 footnote cross-references (from [[Ezekiel 44#^ezek-44-3|Ezekiel 44:3]])
 - [[Ezekiel 46]] — 3 parallel verses, e.g. [[Ezekiel 44#^ezek-44-3|Ezekiel 44:3]] ↔ [[Ezekiel 46#^ezek-46-2|Ezekiel 46:2]]
+- [[Ezekiel 40]] — 3 parallel verses, e.g. [[Ezekiel 44#^ezek-44-5|Ezekiel 44:5]] ↔ [[Ezekiel 40#^ezek-40-4|Ezekiel 40:4]]
 - [[Ezekiel 42]] — 1 parallel verse, e.g. [[Ezekiel 44#^ezek-44-29|Ezekiel 44:29]] ↔ [[Ezekiel 42#^ezek-42-13|Ezekiel 42:13]]
 - [[Ezekiel 20]] — 2 parallel verses, e.g. [[Ezekiel 44#^ezek-44-6|Ezekiel 44:6]] ↔ [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]]
 - [[Ezekiel 43]] — 1 parallel verse, e.g. [[Ezekiel 44#^ezek-44-4|Ezekiel 44:4]] ↔ [[Ezekiel 43#^ezek-43-5|Ezekiel 43:5]]
@@ -60,7 +61,6 @@ _Not yet developed._
 - [[Leviticus 21]] — 0 parallel verses
 - [[Leviticus 10]] — 0 parallel verses
 - [[Numbers 18]] — 0 parallel verses
-- [[Deuteronomy 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

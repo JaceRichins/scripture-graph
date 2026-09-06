@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 4
 slug: mark-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Furniture** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

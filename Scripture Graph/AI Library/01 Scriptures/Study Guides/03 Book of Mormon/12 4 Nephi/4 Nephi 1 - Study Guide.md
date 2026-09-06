@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 4 Nephi
 chapter: 1
 slug: 4ne-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -82,7 +82,7 @@ Repeated year notices let the narrative cross decades rapidly. The peaceful era 
 - [[War and Peace]]
 - [[Miracles]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
+- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

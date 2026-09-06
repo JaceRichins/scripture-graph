@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 1
 slug: matt-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

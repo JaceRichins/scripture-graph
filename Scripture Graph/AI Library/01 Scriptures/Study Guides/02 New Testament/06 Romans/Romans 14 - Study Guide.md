@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 14
 slug: rom-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[D&C 81]] — 1 footnote cross-reference (from [[Romans 14#^rom-14-1|Romans 14:1]])
 - [[D&C 84]] — 1 footnote cross-reference (from [[Romans 14#^rom-14-1|Romans 14:1]])
 - [[Mormon 3]] — 2 parallel verses, e.g. [[Romans 14#^rom-14-10|Romans 14:10]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
+- [[Isaiah 45]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

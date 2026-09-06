@@ -17,7 +17,7 @@ cssclasses:
 > 1–3, The Lord lays His hand upon Edward Partridge by the hand of Sidney Rigdon; 4–8, Every man who receives the gospel and the priesthood is to be called to go forth and preach.
 
 ![[D&C 36#^dc-36-1]]
-> [[D&C 41#^dc-41-9|D&amp;C 41:9 (9–11)]] · [[D&C 30#^dc-30-9|≈ D&C 30:9]] · [[D&C 24#^dc-24-12|≈ D&C 24:12]]
+> [[D&C 41#^dc-41-9|D&amp;C 41:9 (9–11)]] · [[D&C 24#^dc-24-12|≈ D&C 24:12]] · [[D&C 30#^dc-30-9|≈ D&C 30:9]]
 
 ![[D&C 36#^dc-36-2]]
 > [[D&C 39#^dc-39-6|D&amp;C 39:6]] · [[D&C 42#^dc-42-61|42:61]] · [[D&C 39#^dc-39-6|≈ D&C 39:6]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 11
 slug: gen-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,8 @@ _Not yet developed._
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-9|Genesis 11:9]] ↔ [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]]
 - [[Genesis 7]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-8|Genesis 11:8]] ↔ [[Genesis 7#^gen-7-3|Genesis 7:3]]
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-8|Genesis 11:8]] ↔ [[1 Nephi 14#^1ne-14-13|1 Nephi 14:13]]
+- [[Ether 1]] — 0 parallel verses
+- [[Genesis 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,6 +81,7 @@ _Not yet developed._
 - **Abraham** (reference-entry) *(explicit citation)*
 - **11 Ye Shall Receive My Law** (history) *(explicit citation)*
 - **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

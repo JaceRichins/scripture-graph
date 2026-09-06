@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 20
 slug: acts-20
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,8 +68,8 @@ Scripture: [[Acts 20]] · My notes: [[Acts 20 - My Notes]]
 - [[Work and Self-Reliance]]
 - [[Prophecy]]
 - [[Endurance]]
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -91,6 +91,7 @@ Paul also makes self-supporting labor and care for the weak part of faithful [[S
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[Seek Ye Out of the Best Books (Elder Ian S. Ardern, October 2017)|Seek Ye Out of the Best Books]] — Elder Ian S. Ardern, 2017-October *(explicit citation)*
 - [[Conference Report, October 1926 (General Conference (full report), October 1926)|Conference Report, October 1926]] — General Conference (full report), 1926-October *(explicit citation)*
+- [[Good, Better, Best (Elder Dallin H. Oaks, October 2007)|Good, Better, Best]] — Elder Dallin H. Oaks, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -98,11 +99,13 @@ Paul also makes self-supporting labor and care for the weak part of faithful [[S
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Sabbath** (reference-entry) *(explicit citation)*
+- **Ephesus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

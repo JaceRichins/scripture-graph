@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 3
 slug: 2thes-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Philemon 1]] — 1 parallel verse, e.g. [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
 - [[1 Corinthians 1]] — 1 parallel verse, e.g. [[2 Thessalonians 3#^2thes-3-6|2 Thessalonians 3:6]] ↔ [[1 Corinthians 1#^1cor-1-10|1 Corinthians 1:10]]
 - [[Acts 20]] — 0 parallel verses
+- [[Galatians 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

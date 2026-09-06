@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 6
 slug: dan-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ Scripture: [[Daniel 6]] · My notes: [[Daniel 6 - My Notes]]
 - [[D&C 88]] — 1 footnote cross-reference (from [[Daniel 6#^dan-6-4|Daniel 6:4]])
 - [[1 Kings 8]] — 1 footnote cross-reference (from [[Daniel 6#^dan-6-10|Daniel 6:10]])
 - [[Daniel 4]] — 1 parallel verse, e.g. [[Daniel 6#^dan-6-25|Daniel 6:25]] ↔ [[Daniel 4#^dan-4-1|Daniel 4:1]]
+- [[Daniel 5]] — 3 parallel verses, e.g. [[Daniel 6#^dan-6-13|Daniel 6:13]] ↔ [[Daniel 5#^dan-5-13|Daniel 5:13]]
 - [[Daniel 7]] — 1 parallel verse, e.g. [[Daniel 6#^dan-6-26|Daniel 6:26]] ↔ [[Daniel 7#^dan-7-14|Daniel 7:14]]
 - [[Daniel 3]] — 0 parallel verses
 - [[Daniel 4]] — 0 parallel verses
@@ -64,10 +65,10 @@ Scripture: [[Daniel 6]] · My notes: [[Daniel 6 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Kingdom of God]]
-- [[The Godhead]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

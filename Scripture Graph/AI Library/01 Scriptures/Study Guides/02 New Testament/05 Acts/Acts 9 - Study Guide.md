@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 9
 slug: acts-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -86,8 +86,8 @@ Peter's words to Æneas keep the agent of the healing clear: "Jesus Christ maket
 - [[We Are His Children (Elder Christophe G. Giraud-Carrier, October 2023)|We Are His Children]] — Elder Christophe G. Giraud-Carrier, 2023-October *(explicit citation)*
 - [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
 - [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
+- [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
 - [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
-- [[Conference Report, April 1929 (General Conference (full report), April 1929)|Conference Report, April 1929]] — General Conference (full report), 1929-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

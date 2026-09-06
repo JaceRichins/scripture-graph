@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 1
 slug: mal-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

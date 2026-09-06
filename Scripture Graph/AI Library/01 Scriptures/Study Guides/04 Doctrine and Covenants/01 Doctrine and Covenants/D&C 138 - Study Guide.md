@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 138
 slug: dc-138
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -109,11 +109,11 @@ Verses 55–57 connect [[Premortal Life]], mortal vocation, and postmortal servi
 - [[The Vision of the Redemption of the Dead (President M. Russell Ballard, October 2018)|The Vision of the Redemption of the Dead]] — President M. Russell Ballard, 2018-October *(explicit citation)*
 - [[Happy and Forever (Elder Gerrit W. Gong, October 2022)|Happy and Forever]] — Elder Gerrit W. Gong, 2022-October *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[Power to Overcome the Adversary (Elder Peter M. Johnson, October 2019)|Power to Overcome the Adversary]] — Elder Peter M. Johnson, 2019-October *(explicit citation)*
 - [[Because of Jesus Christ (Elder Dale G. Renlund, April 2026)|Because of Jesus Christ]] — Elder Dale G. Renlund, 2026-April *(explicit citation)*
 - [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
 - [[Here to Serve a Righteous Cause (Carol F. McConkie, October 2015)|Here to Serve a Righteous Cause]] — Carol F. McConkie, 2015-October *(explicit citation)*
-- [[Tested and Tempted—but Helped (Elder Hugo Montoya, October 2015)|Tested and Tempted—but Helped]] — Elder Hugo Montoya, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

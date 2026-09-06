@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 30
 slug: alma-30
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -79,8 +79,8 @@ Scripture: [[Alma 30]] · My notes: [[Alma 30 - My Notes]]
 - [[War and Peace]]
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Prophecy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -115,6 +115,7 @@ Scripture: [[Alma 30]] · My notes: [[Alma 30 - My Notes]]
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Signs** (reference-entry) *(explicit citation)*
 - **Antichrist** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

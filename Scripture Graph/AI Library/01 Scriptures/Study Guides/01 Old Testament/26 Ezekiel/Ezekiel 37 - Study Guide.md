@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 37
 slug: ezek-37
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,8 +53,8 @@ _Not yet developed._
 - [[Jeremiah 25]] — 6 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 - [[Ezekiel 24]] — 5 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Ezekiel 24#^ezek-24-3|Ezekiel 24:3]]
 - [[Ezekiel 23]] — 5 parallel verses, e.g. [[Ezekiel 37#^ezek-37-15|Ezekiel 37:15]] ↔ [[Ezekiel 23#^ezek-23-1|Ezekiel 23:1]]
-- [[Ezekiel 33]] — 5 parallel verses, e.g. [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]] ↔ [[Ezekiel 33#^ezek-33-22|Ezekiel 33:22]]
 - [[Ezekiel 34]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]]
+- [[Ezekiel 33]] — 5 parallel verses, e.g. [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]] ↔ [[Ezekiel 33#^ezek-33-22|Ezekiel 33:22]]
 - [[Ezekiel 36]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-28|Ezekiel 37:28]] ↔ [[Ezekiel 36#^ezek-36-23|Ezekiel 36:23]]
 - [[Ezekiel 43]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-3|Ezekiel 37:3]] ↔ [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]]
 - [[Ezekiel 29]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]] ↔ [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]]
@@ -91,6 +91,7 @@ _Not yet developed._
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[Sacred Scriptures—the Foundations of Faith (Elder Quentin L. Cook, October 2024)|Sacred Scriptures—the Foundations of Faith]] — Elder Quentin L. Cook, 2024-October *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -98,6 +99,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*
+- **Ephraim, stick of** (reference-entry) *(explicit citation)*
+- **Ezekiel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

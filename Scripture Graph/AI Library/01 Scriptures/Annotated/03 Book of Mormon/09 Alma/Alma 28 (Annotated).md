@@ -26,7 +26,7 @@ cssclasses:
 > [[Alma 30#^alma-30-1|Alma 30:1]]
 
 ![[Alma 28#^alma-28-4]]
-> [[Helaman 11#^hel-11-1|≈ Helaman 11:1]] · [[Helaman 11#^hel-11-5|≈ Helaman 11:5]] · [[Alma 47#^alma-47-35|≈ Alma 47:35]]
+> [[Alma 47#^alma-47-35|≈ Alma 47:35]] · [[Helaman 11#^hel-11-1|≈ Helaman 11:1]] · [[Helaman 11#^hel-11-5|≈ Helaman 11:5]]
 
 ![[Alma 28#^alma-28-5]]
 

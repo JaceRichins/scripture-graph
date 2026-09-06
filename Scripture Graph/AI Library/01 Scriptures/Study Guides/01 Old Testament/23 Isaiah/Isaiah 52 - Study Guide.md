@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 52
 slug: isa-52
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,9 +58,9 @@ _Not yet developed._
 - [[2 Nephi 8]] — 2 parallel verses, e.g. [[Isaiah 52#^isa-52-1|Isaiah 52:1]] ↔ [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]]
 - [[D&C 133]] — 2 parallel verses, e.g. [[Isaiah 52#^isa-52-10|Isaiah 52:10]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
 - [[3 Nephi 21]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-15|Isaiah 52:15]] ↔ [[3 Nephi 21#^3ne-21-8|3 Nephi 21:8]]
+- [[Nahum 1]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-7|Isaiah 52:7]] ↔ [[Nahum 1#^nahum-1-15|Nahum 1:15]]
 - [[D&C 38]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-11|Isaiah 52:11]] ↔ [[D&C 38#^dc-38-42|D&C 38:42]]
 - [[D&C 128]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-7|Isaiah 52:7]] ↔ [[D&C 128#^dc-128-19|D&C 128:19]]
-- [[Nahum 1]] — 0 parallel verses
 - [[Isaiah 53]] — 0 parallel verses
 - [[Alma 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -86,6 +86,8 @@ Redemption here is explicitly non-commercial: the people were "sold...for nought
 - [[Be Your Best Self (President Thomas S. Monson, April 2009)|Be Your Best Self]] — President Thomas S. Monson, 2009-April *(explicit citation)*
 - [[The Three Rs of Choice (President Thomas S. Monson, October 2010)|The Three Rs of Choice]] — President Thomas S. Monson, 2010-October *(explicit citation)*
 - [[Hastening the Lord’s Game Plan! (Elder S. Gifford Nielsen, October 2013)|Hastening the Lord’s Game Plan!]] — Elder S. Gifford Nielsen, 2013-October *(explicit citation)*
+- [[Live by Faith and Not by Fear (Elder Quentin L. Cook, October 2007)|Live by Faith and Not by Fear]] — Elder Quentin L. Cook, 2007-October *(explicit citation)*
+- [[Come to Zion (Elder D. Todd Christofferson, October 2008)|Come to Zion]] — Elder D. Todd Christofferson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

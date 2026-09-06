@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 34
 slug: ezek-34
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[2 Nephi 26]] — 1 footnote cross-reference (from [[Ezekiel 34#^ezek-34-3|Ezekiel 34:3]])
 - [[2 Nephi 28]] — 1 footnote cross-reference (from [[Ezekiel 34#^ezek-34-8|Ezekiel 34:8]])
 - [[Ezekiel 20]] — 7 parallel verses, e.g. [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
+- [[Ezekiel 37]] — 4 parallel verses, e.g. [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]
 - [[Ezekiel 14]] — 4 parallel verses, e.g. [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]] ↔ [[Ezekiel 14#^ezek-14-4|Ezekiel 14:4]]
 - [[Ezekiel 5]] — 2 parallel verses, e.g. [[Ezekiel 34#^ezek-34-8|Ezekiel 34:8]] ↔ [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]]
 - [[Ezekiel 33]] — 3 parallel verses, e.g. [[Ezekiel 34#^ezek-34-27|Ezekiel 34:27]] ↔ [[Ezekiel 33#^ezek-33-29|Ezekiel 33:29]]
@@ -63,12 +64,11 @@ _Not yet developed._
 - [[Jeremiah 25]] — 2 parallel verses, e.g. [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 - [[Ezekiel 35]] — 2 parallel verses, e.g. [[Ezekiel 34#^ezek-34-8|Ezekiel 34:8]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[Ezekiel 34#^ezek-34-6|Ezekiel 34:6]] ↔ [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]]
-- [[Ezekiel 37]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Scattering of Israel]]
+- [[Scattering of Israel]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

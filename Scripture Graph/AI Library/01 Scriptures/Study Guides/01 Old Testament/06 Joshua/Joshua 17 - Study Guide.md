@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 17
 slug: josh-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

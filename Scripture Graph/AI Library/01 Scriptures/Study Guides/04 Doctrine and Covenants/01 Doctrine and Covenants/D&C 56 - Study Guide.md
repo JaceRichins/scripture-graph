@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 56
 slug: dc-56
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -71,7 +71,9 @@ The chapter treats [[Obedience]] as continued responsiveness rather than mere at
 <!-- SG:BEGIN conference -->
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Are We Not All Beggars (Elder Jeffrey R. Holland, October 2014)|Are We Not All Beggars?]] — Elder Jeffrey R. Holland, 2014-October *(explicit citation)*
+- [[God Loves and Helps All of His Children (Bishop Keith B. McMullin, October 2008)|God Loves and Helps All of His Children]] — Bishop Keith B. McMullin, 2008-October *(explicit citation)*
 - [[We Believe in Being Chaste (Elder David A. Bednar, April 2013)|We Believe in Being Chaste]] — Elder David A. Bednar, 2013-April *(explicit citation)*
+- [[Come to Zion (Elder D. Todd Christofferson, October 2008)|Come to Zion]] — Elder D. Todd Christofferson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

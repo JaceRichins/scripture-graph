@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 29
 slug: 2ne-29
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ The chapter is a key textual basis within Latter-day Saint teaching for continui
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[“Let This House Be Built unto My Name” (Elder David A. Bednar, April 2020)|“Let This House Be Built unto My Name”]] — Elder David A. Bednar, 2020-April *(explicit citation)*
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
 - [[The Savior’s Healing Power upon the Isles of the Sea (Elder J. Kimo Esplin, October 2023)|The Savior’s Healing Power upon the Isles of the Sea]] — Elder J. Kimo Esplin, 2023-October *(explicit citation)*

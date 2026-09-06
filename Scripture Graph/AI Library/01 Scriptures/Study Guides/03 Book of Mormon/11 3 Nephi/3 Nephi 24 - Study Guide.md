@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 24
 slug: 3ne-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,8 @@ The refining imagery connects divine presence with purification. The purpose is 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Tithing Opening the Windows of Heaven (Elder Neil L. Andersen, October 2023)|Tithing: Opening the Windows of Heaven]] — Elder Neil L. Andersen, 2023-October *(explicit citation)*
+- [[Will a Man Rob God (Elder Yoshihiko Kikuchi, April 2007)|Will a Man Rob God?]] — Elder Yoshihiko Kikuchi, 2007-April *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 54
 slug: isa-54
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

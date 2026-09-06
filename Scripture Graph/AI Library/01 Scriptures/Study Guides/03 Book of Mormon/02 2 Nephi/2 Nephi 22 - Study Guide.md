@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 22
 slug: 2ne-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,7 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Restoring Faith in the Family (Elder Kenneth Johnson, April 2008)|Restoring Faith in the Family]] — Elder Kenneth Johnson, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

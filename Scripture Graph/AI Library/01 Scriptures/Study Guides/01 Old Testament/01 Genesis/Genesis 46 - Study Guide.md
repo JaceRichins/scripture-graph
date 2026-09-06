@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 46
 slug: gen-46
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,9 +57,10 @@ Scripture: [[Genesis 46]] · My notes: [[Genesis 46 - My Notes]]
 - [[Exodus 6]] — 2 parallel verses, e.g. [[Genesis 46#^gen-46-10|Genesis 46:10]] ↔ [[Exodus 6#^ex-6-15|Exodus 6:15]]
 - [[Genesis 41]] — 2 parallel verses, e.g. [[Genesis 46#^gen-46-20|Genesis 46:20]] ↔ [[Genesis 41#^gen-41-50|Genesis 41:50]]
 - [[Exodus 1]] — 1 parallel verse, e.g. [[Genesis 46#^gen-46-8|Genesis 46:8]] ↔ [[Exodus 1#^ex-1-1|Exodus 1:1]]
+- [[Numbers 3]] — 2 parallel verses, e.g. [[Genesis 46#^gen-46-8|Genesis 46:8]] ↔ [[Numbers 3#^num-3-2|Numbers 3:2]]
+- [[Genesis 47]] — 1 parallel verse, e.g. [[Genesis 46#^gen-46-32|Genesis 46:32]] ↔ [[Genesis 47#^gen-47-1|Genesis 47:1]]
+- [[Numbers 26]] — 1 parallel verse, e.g. [[Genesis 46#^gen-46-12|Genesis 46:12]] ↔ [[Numbers 26#^num-26-19|Numbers 26:19]]
 - [[1 Chronicles 2]] — 1 parallel verse, e.g. [[Genesis 46#^gen-46-12|Genesis 46:12]] ↔ [[1 Chronicles 2#^1chr-2-3|1 Chronicles 2:3]]
-- [[Numbers 26]] — 0 parallel verses
-- [[Genesis 47]] — 0 parallel verses
 - [[Genesis 28]] — 0 parallel verses
 - [[Exodus 6]] — 0 parallel verses
 - [[Genesis 26]] — 0 parallel verses
@@ -85,7 +86,8 @@ The promise "I will go down with thee" places divine presence at the center of t
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ephraim** (reference-entry) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

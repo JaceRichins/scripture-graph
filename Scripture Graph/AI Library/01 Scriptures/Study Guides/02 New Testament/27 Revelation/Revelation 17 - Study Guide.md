@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 17
 slug: rev-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[D&C 88]] — 0 parallel verses
 - [[Jeremiah 51]] — 0 parallel verses
 - [[1 Nephi 14]] — 0 parallel verses
+- [[Daniel 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

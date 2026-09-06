@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 28
 slug: matt-28
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[2 Nephi 31]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
 - [[Mark 16]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-7|Matthew 28:7]] ↔ [[Mark 16#^mark-16-7|Mark 16:7]]
 - [[Moses 7]] — 0 parallel verses
+- [[John 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 11
 slug: ex-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

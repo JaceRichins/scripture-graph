@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 4
 slug: gen-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,8 @@ Genesis 4 narrates the first birth, the first murder, and the divergence of two 
 - [[Genesis 38]] — 2 parallel verses, e.g. [[Genesis 4#^gen-4-25|Genesis 4:25]] ↔ [[Genesis 38#^gen-38-5|Genesis 38:5]]
 - [[Moses 5]] — 0 parallel verses
 - [[Alma 20]] — 0 parallel verses
+- [[Ether 8]] — 0 parallel verses
+- [[Hebrews 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +80,9 @@ The warning in Genesis 4:6-7 places [[Agency]] beside [[Sin]]: Cain's anger is a
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Out of Small Things (Elder Michael J. Teh, October 2007)|Out of Small Things]] — Elder Michael J. Teh, 2007-October *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -86,6 +90,8 @@ The warning in Genesis 4:6-7 places [[Agency]] beside [[Sin]]: Cain's anger is a
 - **Cain** (reference-entry) *(explicit citation)*
 - **Abel** (reference-entry) *(explicit citation)*
 - **Agriculture** (reference-entry) *(explicit citation)*
+- **Eve** (reference-entry) *(explicit citation)*
+- **Genesis** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 6
 slug: morm-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,8 @@ _Not yet developed._
 - [[“Repent … That I May Heal You” (Elder Neil L. Andersen, October 2009)|“Repent … That I May Heal You”]] — Elder Neil L. Andersen, 2009-October *(explicit citation)*
 - [[Tell Me the Stories of Jesus (Elder Neil L. Andersen, April 2010)|Tell Me the Stories of Jesus]] — Elder Neil L. Andersen, 2010-April *(explicit citation)*
 - [[Let There Be Light! (Elder Quentin L. Cook, October 2010)|Let There Be Light!]] — Elder Quentin L. Cook, 2010-October *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 - [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
 <!-- SG:END conference -->
 

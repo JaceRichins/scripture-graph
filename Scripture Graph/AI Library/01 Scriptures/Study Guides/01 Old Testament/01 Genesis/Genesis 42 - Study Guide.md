@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 42
 slug: gen-42
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

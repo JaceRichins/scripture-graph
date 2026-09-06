@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 1
 slug: eph-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ Ephesians 1 moves from greeting (vv. 1–2), to an extended blessing for God's w
 - [[D&C 6]] — 1 footnote cross-reference (from [[Ephesians 1#^eph-1-18|Ephesians 1:18]])
 - [[D&C 11]] — 1 footnote cross-reference (from [[Ephesians 1#^eph-1-18|Ephesians 1:18]])
 - [[2 Corinthians 1]] — 3 parallel verses, e.g. [[Ephesians 1#^eph-1-2|Ephesians 1:2]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
+- [[Colossians 1]] — 3 parallel verses, e.g. [[Ephesians 1#^eph-1-1|Ephesians 1:1]] ↔ [[Colossians 1#^col-1-1|Colossians 1:1]]
 - [[Philippians 1]] — 1 parallel verse, e.g. [[Ephesians 1#^eph-1-2|Ephesians 1:2]] ↔ [[Philippians 1#^philip-1-2|Philippians 1:2]]
 - [[1 Corinthians 1]] — 1 parallel verse, e.g. [[Ephesians 1#^eph-1-2|Ephesians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Ephesians 1#^eph-1-10|Ephesians 1:10]] ↔ [[D&C 27#^dc-27-13|D&C 27:13]]
@@ -61,7 +62,6 @@ Ephesians 1 moves from greeting (vv. 1–2), to an extended blessing for God's w
 - [[Romans 1]] — 1 parallel verse, e.g. [[Ephesians 1#^eph-1-2|Ephesians 1:2]] ↔ [[Romans 1#^rom-1-7|Romans 1:7]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[Ephesians 1#^eph-1-2|Ephesians 1:2]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
 - [[2 Corinthians 11]] — 1 parallel verse, e.g. [[Ephesians 1#^eph-1-3|Ephesians 1:3]] ↔ [[2 Corinthians 11#^2cor-11-31|2 Corinthians 11:31]]
-- [[2 Corinthians 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

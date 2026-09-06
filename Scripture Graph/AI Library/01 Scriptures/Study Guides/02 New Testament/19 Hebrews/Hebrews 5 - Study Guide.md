@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 5
 slug: heb-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,9 +48,10 @@ _Not yet developed._
 - [[D&C 124]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-6|Hebrews 5:6]])
 - [[Matthew 26]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-7|Hebrews 5:7]])
 - [[John 16]] — 1 footnote cross-reference (from [[Hebrews 5#^heb-5-11|Hebrews 5:11]])
+- [[Hebrews 7]] — 2 parallel verses, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Hebrews 7#^heb-7-17|Hebrews 7:17]]
 - [[Psalm 110]] — 1 parallel verse, e.g. [[Hebrews 5#^heb-5-6|Hebrews 5:6]] ↔ [[Psalm 110#^ps-110-4|Psalm 110:4]]
-- [[Hebrews 7]] — 0 parallel verses
 - [[Hebrews 6]] — 0 parallel verses
+- [[Hebrews 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

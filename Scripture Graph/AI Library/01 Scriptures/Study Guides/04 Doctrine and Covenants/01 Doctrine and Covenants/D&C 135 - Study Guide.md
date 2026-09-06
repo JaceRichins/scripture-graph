@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 135
 slug: dc-135
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ The chapter presents sacred witness as something that may carry mortal cost. Its
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 - [[Safety for the Soul (Elder Jeffrey R. Holland, October 2009)|Safety for the Soul]] — Elder Jeffrey R. Holland, 2009-October *(explicit citation)*
 - [[The Power of the Priesthood (President Boyd K. Packer, April 2010)|The Power of the Priesthood]] — President Boyd K. Packer, 2010-April *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[How the Priesthood Blesses Youth (Enzo Serge Petelo, April 2020)|How the Priesthood Blesses Youth]] — Laudy Ruth Kaouk, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 

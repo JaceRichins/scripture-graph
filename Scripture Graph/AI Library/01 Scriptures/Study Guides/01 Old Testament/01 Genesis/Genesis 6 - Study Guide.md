@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 6
 slug: gen-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,10 @@ _Not yet developed._
 - [[D&C 112]] — 2 footnote cross-references (from [[Genesis 6#^gen-6-5|Genesis 6:5]])
 - [[Moses 8]] — 10 parallel verses, e.g. [[Genesis 6#^gen-6-7|Genesis 6:7]] ↔ [[Moses 8#^moses-8-26|Moses 8:26]]
 - [[Genesis 8]] — 1 parallel verse, e.g. [[Genesis 6#^gen-6-18|Genesis 6:18]] ↔ [[Genesis 8#^gen-8-16|Genesis 8:16]]
+- [[Ether 2]] — 0 parallel verses
+- [[Exodus 2]] — 0 parallel verses
+- [[Genesis 5]] — 0 parallel verses
+- [[Genesis 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

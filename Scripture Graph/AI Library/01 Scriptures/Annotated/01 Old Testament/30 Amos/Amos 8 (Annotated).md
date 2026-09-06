@@ -45,7 +45,7 @@ cssclasses:
 > [[Isaiah 3#^isa-3-16|Isa. 3:24 (16–26)]] · [[Jeremiah 6#^jer-6-26|Jer. 6:26]] · [[Zechariah 12#^zech-12-10|Zech. 12:10]]
 
 ![[Amos 8#^amos-8-11]]
-> [[1 Samuel 3#^1sam-3-1|1 Sam. 3:1]] · [[Psalm 74#^ps-74-9|Ps. 74:9]] · [[Hosea 2#^hosea-2-3|Hosea 2:3]] · [[Revelation 12#^rev-12-6|Rev. 12:6]] · [[Jeremiah 23#^jer-23-5|≈ Jeremiah 23:5]] · [[Jeremiah 23#^jer-23-7|≈ Jeremiah 23:7]] · [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]] · [[Jeremiah 31#^jer-31-31|≈ Jeremiah 31:31]] · [[Jeremiah 31#^jer-31-38|≈ Jeremiah 31:38]] · [[Amos 9#^amos-9-13|≈ Amos 9:13]]
+> [[1 Samuel 3#^1sam-3-1|1 Sam. 3:1]] · [[Psalm 74#^ps-74-9|Ps. 74:9]] · [[Hosea 2#^hosea-2-3|Hosea 2:3]] · [[Revelation 12#^rev-12-6|Rev. 12:6]] · [[Amos 9#^amos-9-13|≈ Amos 9:13]] · [[Jeremiah 23#^jer-23-5|≈ Jeremiah 23:5]] · [[Jeremiah 23#^jer-23-7|≈ Jeremiah 23:7]] · [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]] · [[Jeremiah 31#^jer-31-31|≈ Jeremiah 31:31]] · [[Jeremiah 31#^jer-31-38|≈ Jeremiah 31:38]]
 
 ![[Amos 8#^amos-8-12]]
 > [[Job 12#^job-12-24|Job 12:24 (24–25)]]

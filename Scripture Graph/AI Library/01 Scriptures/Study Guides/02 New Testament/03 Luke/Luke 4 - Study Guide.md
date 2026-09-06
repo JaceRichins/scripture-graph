@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 4
 slug: luke-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[Psalm 91]] — 2 parallel verses, e.g. [[Luke 4#^luke-4-10|Luke 4:10]] ↔ [[Psalm 91#^ps-91-11|Psalm 91:11]]
 - [[Matthew 27]] — 2 parallel verses, e.g. [[Luke 4#^luke-4-3|Luke 4:3]] ↔ [[Matthew 27#^matt-27-40|Matthew 27:40]]
 - [[Acts 13]] — 1 parallel verse, e.g. [[Luke 4#^luke-4-16|Luke 4:16]] ↔ [[Acts 13#^acts-13-14|Acts 13:14]]
+- [[James 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

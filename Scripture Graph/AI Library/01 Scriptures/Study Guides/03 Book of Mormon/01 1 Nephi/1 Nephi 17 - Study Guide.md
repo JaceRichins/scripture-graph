@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 17
 slug: 1ne-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -112,6 +112,7 @@ The chapter's teaching on [[Obedience]] includes both grace and effort. God prep
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
+- **Fiery serpents** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

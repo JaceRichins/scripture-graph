@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 22
 slug: deut-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -63,7 +63,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[To Heal the Shattering Consequences of Abuse (Elder Richard G. Scott, April 2008)|To Heal the Shattering Consequences of Abuse]] — Elder Richard G. Scott, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 17
 slug: gen-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,9 +51,12 @@ Scripture: [[Genesis 17]] · My notes: [[Genesis 17 - My Notes]]
 - [[Genesis 24]] — 2 footnote cross-references (from [[Genesis 17#^gen-17-7|Genesis 17:7]])
 - [[Acts 15]] — 2 footnote cross-references (from [[Genesis 17#^gen-17-11|Genesis 17:11]])
 - [[Genesis 25]] — 2 footnote cross-references (from [[Genesis 17#^gen-17-16|Genesis 17:16]])
+- [[Leviticus 7]] — 4 parallel verses, e.g. [[Genesis 17#^gen-17-14|Genesis 17:14]] ↔ [[Leviticus 7#^lev-7-20|Leviticus 7:20]]
 - [[Numbers 19]] — 2 parallel verses, e.g. [[Genesis 17#^gen-17-14|Genesis 17:14]] ↔ [[Numbers 19#^num-19-13|Numbers 19:13]]
 - [[Exodus 12]] — 2 parallel verses, e.g. [[Genesis 17#^gen-17-14|Genesis 17:14]] ↔ [[Exodus 12#^ex-12-15|Exodus 12:15]]
 - [[Genesis 18]] — 0 parallel verses
+- [[Genesis 18]] — 0 parallel verses
+- [[Genesis 35]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

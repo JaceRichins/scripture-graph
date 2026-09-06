@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 10
 slug: neh-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,7 +89,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Firstfruits** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

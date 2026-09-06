@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—History
 chapter: 1
 slug: jsh-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -108,6 +108,7 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Shall We Not Go On in So Great a Cause (President M. Russell Ballard, April 2020)|Shall We Not Go On in So Great a Cause?]] — President M. Russell Ballard, 2020-April *(explicit citation)*
+- [[Gospel Teaching—Our Most Important Calling (William D. Oswald, October 2008)|Gospel Teaching—Our Most Important Calling]] — William D. Oswald, 2008-October *(explicit citation)*
 - [[“A Choice Seer Will I Raise Up” (Elder Craig C. Christensen, October 2016)|“A Choice Seer Will I Raise Up”]] — Elder Craig C. Christensen, 2016-October *(explicit citation)*
 - [[Knowing, Loving, and Growing (Elder Hans T. Boom, October 2019)|Knowing, Loving, and Growing]] — Elder Hans T. Boom, 2019-October *(explicit citation)*
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
@@ -116,7 +117,6 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 - [[Pillars and Rays (Elder Alexander Dushku, April 2024)|Pillars and Rays]] — Elder Alexander Dushku, 2024-April *(explicit citation)*
 - [[The Man Who Communed with Jehovah (Elder Kyle S. McKay, October 2024)|The Man Who Communed with Jehovah]] — Elder Kyle S. McKay, 2024-October *(explicit citation)*
 - [[With the Power of God in Great Glory (Elder David A. Bednar, October 2021)|With the Power of God in Great Glory]] — Elder David A. Bednar, 2021-October *(explicit citation)*
-- [[The Faith to Ask and Then to Act (President Henry B. Eyring, October 2021)|The Faith to Ask and Then to Act]] — President Henry B. Eyring, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

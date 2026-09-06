@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 5
 slug: luke-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Matthew 8]] — 3 parallel verses, e.g. [[Luke 5#^luke-5-13|Luke 5:13]] ↔ [[Matthew 8#^matt-8-3|Matthew 8:3]]
 - [[Mark 1]] — 3 parallel verses, e.g. [[Luke 5#^luke-5-14|Luke 5:14]] ↔ [[Mark 1#^mark-1-44|Mark 1:44]]
 - [[Moroni 8]] — 1 parallel verse, e.g. [[Luke 5#^luke-5-32|Luke 5:32]] ↔ [[Moroni 8#^moro-8-8|Moroni 8:8]]
+- [[John 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,6 +86,8 @@ _Not yet developed._
 - **Blasphemy** (reference-entry) *(explicit citation)*
 - **Bottles** (reference-entry) *(explicit citation)*
 - **Capernaum** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
+- **Fish** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

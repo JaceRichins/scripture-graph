@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 30
 slug: ex-30
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,9 +60,9 @@ _Not yet developed._
 - [[Exodus 29]] — 5 parallel verses, e.g. [[Exodus 30#^ex-30-30|Exodus 30:30]] ↔ [[Exodus 29#^ex-29-1|Exodus 29:1]]
 - [[Leviticus 24]] — 4 parallel verses, e.g. [[Exodus 30#^ex-30-31|Exodus 30:31]] ↔ [[Leviticus 24#^lev-24-15|Leviticus 24:15]]
 - [[Leviticus 3]] — 4 parallel verses, e.g. [[Exodus 30#^ex-30-20|Exodus 30:20]] ↔ [[Leviticus 3#^lev-3-3|Leviticus 3:3]]
+- [[Exodus 38]] — 3 parallel verses, e.g. [[Exodus 30#^ex-30-13|Exodus 30:13]] ↔ [[Exodus 38#^ex-38-26|Exodus 38:26]]
 - [[Numbers 8]] — 2 parallel verses, e.g. [[Exodus 30#^ex-30-15|Exodus 30:15]] ↔ [[Numbers 8#^num-8-12|Numbers 8:12]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Exodus 30#^ex-30-16|Exodus 30:16]] ↔ [[Numbers 15#^num-15-28|Numbers 15:28]]
-- [[Exodus 31]] — 1 parallel verse, e.g. [[Exodus 30#^ex-30-28|Exodus 30:28]] ↔ [[Exodus 31#^ex-31-9|Exodus 31:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -92,6 +92,7 @@ The equal half-shekel assessment gives rich and poor equal standing within this 
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
 - **Cassia** (reference-entry) *(explicit citation)*
 - **Daily service** (reference-entry) *(explicit citation)*

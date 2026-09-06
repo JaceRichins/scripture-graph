@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 25
 slug: ex-25
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,18 +48,18 @@ _Not yet developed._
 - [[Exodus 30]] — 3 footnote cross-references (from [[Exodus 25#^ex-25-6|Exodus 25:6]])
 - [[D&C 124]] — 3 footnote cross-references (from [[Exodus 25#^ex-25-6|Exodus 25:6]])
 - [[Exodus 37]] — 3 footnote cross-references (from [[Exodus 25#^ex-25-17|Exodus 25:17]])
+- [[Exodus 37]] — 21 parallel verses, e.g. [[Exodus 25#^ex-25-23|Exodus 25:23]] ↔ [[Exodus 37#^ex-37-10|Exodus 37:10]]
 - [[Exodus 30]] — 8 parallel verses, e.g. [[Exodus 25#^ex-25-28|Exodus 25:28]] ↔ [[Exodus 30#^ex-30-5|Exodus 30:5]]
+- [[Exodus 26]] — 9 parallel verses, e.g. [[Exodus 25#^ex-25-10|Exodus 25:10]] ↔ [[Exodus 26#^ex-26-16|Exodus 26:16]]
 - [[Exodus 35]] — 5 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 35#^ex-35-6|Exodus 35:6]]
 - [[Exodus 27]] — 5 parallel verses, e.g. [[Exodus 25#^ex-25-13|Exodus 25:13]] ↔ [[Exodus 27#^ex-27-6|Exodus 27:6]]
 - [[Exodus 28]] — 5 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 28#^ex-28-5|Exodus 28:5]]
 - [[Exodus 39]] — 3 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 39#^ex-39-2|Exodus 39:2]]
 - [[Exodus 36]] — 2 parallel verses, e.g. [[Exodus 25#^ex-25-4|Exodus 25:4]] ↔ [[Exodus 36#^ex-36-35|Exodus 36:35]]
 - [[Exodus 14]] — 2 parallel verses, e.g. [[Exodus 25#^ex-25-2|Exodus 25:2]] ↔ [[Exodus 14#^ex-14-2|Exodus 14:2]]
-- [[Exodus 37]] — 0 parallel verses
 - [[Deuteronomy 10]] — 0 parallel verses
 - [[Numbers 7]] — 0 parallel verses
 - [[1 Kings 6]] — 0 parallel verses
-- [[1 Chronicles 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,6 +81,7 @@ The chapter portrays sacred space as a gift-enabled meeting place between God an
 <!-- SG:BEGIN conference -->
 - [[We Are The Church of Jesus Christ of Latter-day Saints (Reyna I. Aburto, April 2022)|We Are The Church of Jesus Christ of Latter-day Saints]] — Reyna I. Aburto, 2022-April *(explicit citation)*
 - [[The Plan of Mercy (Elder James R. Rasband, April 2025)|The Plan of Mercy]] — Elder James R. Rasband, 2025-April *(explicit citation)*
+- [[Holy Temples, Sacred Covenants (Silvia H. Allred, October 2008)|Holy Temples, Sacred Covenants]] — Silvia H. Allred, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

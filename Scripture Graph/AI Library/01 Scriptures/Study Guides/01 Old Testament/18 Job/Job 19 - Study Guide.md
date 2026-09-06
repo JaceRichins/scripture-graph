@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 19
 slug: job-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 - [[“I Will Not Fail Thee, nor Forsake Thee” (President Thomas S. Monson, October 2013)|“I Will Not Fail Thee, nor Forsake Thee”]] — President Thomas S. Monson, 2013-October *(explicit citation)*
 - [[The Resurrection of Jesus Christ (Elder D. Todd Christofferson, April 2014)|The Resurrection of Jesus Christ]] — Elder D. Todd Christofferson, 2014-April *(explicit citation)*
 - [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
+- [[I Know That My Redeemer Lives! (President Thomas S. Monson, April 2007)|I Know That My Redeemer Lives!]] — President Thomas S. Monson, 2007-April *(explicit citation)*
 - [[Our Relationship with God (Elder D. Todd Christofferson, April 2022)|Our Relationship with God]] — Elder D. Todd Christofferson, 2022-April *(explicit citation)*
 - [[The Blessing of Scripture (Elder D. Todd Christofferson, April 2010)|The Blessing of Scripture]] — Elder D. Todd Christofferson, 2010-April *(explicit citation)*
 <!-- SG:END conference -->

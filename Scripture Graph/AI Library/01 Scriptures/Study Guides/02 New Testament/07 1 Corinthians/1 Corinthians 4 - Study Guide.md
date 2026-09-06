@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 4
 slug: 1cor-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

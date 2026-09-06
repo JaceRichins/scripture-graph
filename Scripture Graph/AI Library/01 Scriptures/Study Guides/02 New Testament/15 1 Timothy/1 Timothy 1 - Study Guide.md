@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 1
 slug: 1tim-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,8 @@ The theological center is the saying that Christ came to save sinners (v. 15). T
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Alexander** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Ephesus** (reference-entry) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

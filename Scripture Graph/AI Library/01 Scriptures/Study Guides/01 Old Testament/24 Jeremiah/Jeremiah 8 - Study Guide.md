@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 8
 slug: jer-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ The lament in verses 18–22 holds judgment and compassion together. The speaker
 - [[Mountains to Climb (President Henry B. Eyring, April 2012)|Mountains to Climb]] — President Henry B. Eyring, 2012-April *(explicit citation)*
 - [[See Others as They May Become (President Thomas S. Monson, October 2012)|See Others as They May Become]] — President Thomas S. Monson, 2012-October *(explicit citation)*
 - [[What Have I Done for Someone Today (President Thomas S. Monson, October 2009)|What Have I Done for Someone Today?]] — President Thomas S. Monson, 2009-October *(explicit citation)*
+- [[Looking Back and Moving Forward (President Thomas S. Monson, April 2008)|Looking Back and Moving Forward]] — President Thomas S. Monson, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

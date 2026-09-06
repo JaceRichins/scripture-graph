@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 1
 slug: josh-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,17 +51,17 @@ Scripture: [[Joshua 1]] · My notes: [[Joshua 1 - My Notes]]
 - [[Deuteronomy 3]] — 1 footnote cross-reference (from [[Joshua 1#^josh-1-4|Joshua 1:4]])
 - [[Exodus 23]] — 1 footnote cross-reference (from [[Joshua 1#^josh-1-4|Joshua 1:4]])
 - [[Deuteronomy 31]] — 11 parallel verses, e.g. [[Joshua 1#^josh-1-6|Joshua 1:6]] ↔ [[Deuteronomy 31#^deut-31-23|Deuteronomy 31:23]]
+- [[Deuteronomy 11]] — 2 parallel verses, e.g. [[Joshua 1#^josh-1-11|Joshua 1:11]] ↔ [[Deuteronomy 11#^deut-11-31|Deuteronomy 11:31]]
+- [[Deuteronomy 12]] — 3 parallel verses, e.g. [[Joshua 1#^josh-1-11|Joshua 1:11]] ↔ [[Deuteronomy 12#^deut-12-10|Deuteronomy 12:10]]
 - [[Deuteronomy 3]] — 3 parallel verses, e.g. [[Joshua 1#^josh-1-13|Joshua 1:13]] ↔ [[Deuteronomy 3#^deut-3-18|Deuteronomy 3:18]]
 - [[Joshua 22]] — 3 parallel verses, e.g. [[Joshua 1#^josh-1-13|Joshua 1:13]] ↔ [[Joshua 22#^josh-22-4|Joshua 22:4]]
+- [[Joshua 23]] — 3 parallel verses, e.g. [[Joshua 1#^josh-1-7|Joshua 1:7]] ↔ [[Joshua 23#^josh-23-6|Joshua 23:6]]
 - [[Joshua 3]] — 1 parallel verse, e.g. [[Joshua 1#^josh-1-5|Joshua 1:5]] ↔ [[Joshua 3#^josh-3-7|Joshua 3:7]]
 - [[Deuteronomy 17]] — 2 parallel verses, e.g. [[Joshua 1#^josh-1-7|Joshua 1:7]] ↔ [[Deuteronomy 17#^deut-17-20|Deuteronomy 17:20]]
 - [[Joshua 18]] — 2 parallel verses, e.g. [[Joshua 1#^josh-1-11|Joshua 1:11]] ↔ [[Joshua 18#^josh-18-3|Joshua 18:3]]
 - [[Deuteronomy 10]] — 1 parallel verse, e.g. [[Joshua 1#^josh-1-6|Joshua 1:6]] ↔ [[Deuteronomy 10#^deut-10-11|Deuteronomy 10:11]]
 - [[2 Kings 21]] — 2 parallel verses, e.g. [[Joshua 1#^josh-1-8|Joshua 1:8]] ↔ [[2 Kings 21#^2kgs-21-8|2 Kings 21:8]]
 - [[Deuteronomy 4]] — 2 parallel verses, e.g. [[Joshua 1#^josh-1-15|Joshua 1:15]] ↔ [[Deuteronomy 4#^deut-4-41|Deuteronomy 4:41]]
-- [[Deuteronomy 31]] — 0 parallel verses
-- [[Deuteronomy 3]] — 0 parallel verses
-- [[Joshua 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -96,6 +96,8 @@ Scripture: [[Joshua 1]] · My notes: [[Joshua 1 - My Notes]]
 - **Abortion** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **Euphrates** (reference-entry) *(explicit citation)*
+- **Gad** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

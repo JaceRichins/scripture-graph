@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 23
 slug: 2kgs-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,7 @@ The chapter also requires ethical candor. Its narrator approves Josiah's covenan
 - **Armageddon** (reference-entry) *(explicit citation)*
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 - **Bethel** (reference-entry) *(explicit citation)*
+- **Gehenna** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

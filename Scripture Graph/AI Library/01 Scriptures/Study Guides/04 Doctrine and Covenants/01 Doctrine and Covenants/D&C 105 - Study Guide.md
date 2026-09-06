@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 105
 slug: dc-105
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,7 +83,7 @@ The chapter links [[Zion]] with [[Consecration]], [[Obedience]], unity, care for
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
 - [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
 - [[The Sanctifying Work of Welfare (Bishop H. David Burton, April 2011)|The Sanctifying Work of Welfare]] — Bishop H. David Burton, 2011-April *(explicit citation)*
-- [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
+- [[Come to Zion (Elder D. Todd Christofferson, October 2008)|Come to Zion]] — Elder D. Todd Christofferson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

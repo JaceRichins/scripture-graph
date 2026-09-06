@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 5
 slug: 1jn-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,8 @@ _Not yet developed._
 - [[The Merciful Obtain Mercy (President Dieter F. Uchtdorf, April 2012)|The Merciful Obtain Mercy]] — President Dieter F. Uchtdorf, 2012-April *(explicit citation)*
 - [[The Love of God (President Dieter F. Uchtdorf, October 2009)|The Love of God]] — President Dieter F. Uchtdorf, 2009-October *(explicit citation)*
 - [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
+- [[The Great Commandment (Elder Joseph B. Wirthlin, October 2007)|The Great Commandment]] — Elder Joseph B. Wirthlin, 2007-October *(explicit citation)*
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

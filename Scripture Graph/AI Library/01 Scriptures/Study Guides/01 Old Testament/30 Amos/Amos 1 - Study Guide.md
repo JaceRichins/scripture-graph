@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 1
 slug: amos-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ Every oracle uses the three-and-four formula. Fire devouring palaces is the prin
 - [[1 Chronicles 5]] — 1 parallel verse, e.g. [[Amos 1#^amos-1-1|Amos 1:1]] ↔ [[1 Chronicles 5#^1chr-5-17|1 Chronicles 5:17]]
 - [[Amos 2]] — 0 parallel verses
 - [[Hosea 8]] — 0 parallel verses
+- [[Joel 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -94,6 +95,7 @@ _Not yet developed._
 - **Benhadad** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
+- **Gaza** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

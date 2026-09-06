@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 9
 slug: 1ne-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Helaman 14]] — 1 parallel verse, e.g. [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]] ↔ [[Helaman 14#^hel-14-1|Helaman 14:1]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[1 Nephi 9#^1ne-9-1|1 Nephi 9:1]] ↔ [[1 Nephi 10#^1ne-10-16|1 Nephi 10:16]]
 - [[1 Nephi 6]] — 0 parallel verses
+- [[Jacob 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

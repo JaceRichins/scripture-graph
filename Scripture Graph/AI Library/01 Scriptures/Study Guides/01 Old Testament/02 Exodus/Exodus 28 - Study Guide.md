@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 28
 slug: ex-28
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,9 @@ Care is needed applying these themes beyond the chapter. Exodus 28 concerns a pa
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Breastplate** (reference-entry) *(explicit citation)*
+- **Eleazar** (reference-entry) *(explicit citation)*
+- **Embroidery** (reference-entry) *(explicit citation)*
+- **Engraving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 106
 slug: ps-106
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ Scripture: [[Psalm 106]] · My notes: [[Psalm 106 - My Notes]]
 - [[Nehemiah 9]] — 0 parallel verses
 - [[Numbers 16]] — 0 parallel verses
 - [[Psalm 78]] — 0 parallel verses
+- [[Exodus 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

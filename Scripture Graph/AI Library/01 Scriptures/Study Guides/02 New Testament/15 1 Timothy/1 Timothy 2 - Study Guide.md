@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 2
 slug: 1tim-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Adam** (reference-entry) *(explicit citation)*
+- **Eve** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

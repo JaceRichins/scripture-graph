@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 5
 slug: mosiah-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -71,11 +71,11 @@ _Not yet developed._
 - [[The Testimony of Jesus (Elder D. Todd Christofferson, April 2024)|The Testimony of Jesus]] — Elder D. Todd Christofferson, 2024-April *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[The Character of Christ (President D. Todd Christofferson, April 2026)|The Character of Christ]] — President D. Todd Christofferson, 2026-April *(explicit citation)*
+- [[Stand as a Witness (Susan W. Tanner, April 2008)|Stand as a Witness]] — Susan W. Tanner, 2008-April *(explicit citation)*
 - [[All Must Take upon Them the Name Given of the Father (Elder Paul B. Pieper, October 2018)|All Must Take upon Them the Name Given of the Father]] — Elder Paul B. Pieper, 2018-October *(explicit citation)*
 - [[The Finest Homes (Elder L. Whitney Clayton, April 2020)|The Finest Homes]] — Elder L. Whitney Clayton, 2020-April *(explicit citation)*
 - [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
 - [[Focus on Jesus Christ (Brother Milton Camargo, April 2023)|Focus on Jesus Christ]] — Brother Milton Camargo, 2023-April *(explicit citation)*
-- [[All Who Have Endured Valiantly (Elder David A. Bednar, April 2026)|All Who Have Endured Valiantly]] — Elder David A. Bednar, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

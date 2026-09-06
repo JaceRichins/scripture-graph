@@ -23,7 +23,7 @@ cssclasses:
 > [[Words of Mormon 1#^wofm-1-1|W of M 1:9 (1–9)]] · [[Alma 30#^alma-30-20|Alma 30:20 (20–23, 31)]] · [[Alma 46#^alma-46-38|46:38]] · [[Alma 8#^alma-8-4|≈ Alma 8:4]]
 
 ![[Alma 43#^alma-43-3]]
-> [[Mormon 5#^morm-5-9|Morm. 5:9]] · [[Alma 35#^alma-35-13|Alma 35:13]] · [[Alma 28#^alma-28-9|≈ Alma 28:9]] · [[Alma 35#^alma-35-13|≈ Alma 35:13]]
+> [[Mormon 5#^morm-5-9|Morm. 5:9]] · [[Alma 35#^alma-35-13|Alma 35:13]] · [[Alma 35#^alma-35-13|≈ Alma 35:13]] · [[Alma 28#^alma-28-9|≈ Alma 28:9]]
 
 ![[Alma 43#^alma-43-4]]
 > [[Alma 30#^alma-30-59|Alma 30:59]] · [[Alma 35#^alma-35-2|35:14 (2–14)]] · [[Alma 52#^alma-52-20|52:33 (20, 33)]] · [[Helaman 1#^hel-1-1|≈ Helaman 1:1]]
@@ -57,7 +57,7 @@ cssclasses:
 ![[Alma 43#^alma-43-14]]
 
 ![[Alma 43#^alma-43-15]]
-> [[Alma 27#^alma-27-26|Alma 27:26]] · [[Alma 28#^alma-28-1|≈ Alma 28:1]] · [[Alma 35#^alma-35-13|≈ Alma 35:13]] · [[Alma 16#^alma-16-2|≈ Alma 16:2]]
+> [[Alma 27#^alma-27-26|Alma 27:26]] · [[Alma 35#^alma-35-13|≈ Alma 35:13]] · [[Alma 16#^alma-16-2|≈ Alma 16:2]] · [[Alma 28#^alma-28-1|≈ Alma 28:1]]
 
 ![[Alma 43#^alma-43-16]]
 > [[Alma 46#^alma-46-34|Alma 46:34]] · [[Alma 46#^alma-46-11|Alma 46:11]] · [[Alma 16#^alma-16-5|≈ Alma 16:5]]

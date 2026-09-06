@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 8
 slug: neh-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Ezra** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 - **Amen** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

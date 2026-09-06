@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 19
 slug: gen-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

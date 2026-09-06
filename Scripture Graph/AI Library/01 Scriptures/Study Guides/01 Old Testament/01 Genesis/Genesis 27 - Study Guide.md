@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 27
 slug: gen-27
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,8 +51,12 @@ Scripture: [[Genesis 27]] · My notes: [[Genesis 27 - My Notes]]
 - [[Moses 4]] — 1 footnote cross-reference (from [[Genesis 27#^gen-27-16|Genesis 27:16]])
 - [[Hebrews 11]] — 1 footnote cross-reference (from [[Genesis 27#^gen-27-27|Genesis 27:27]])
 - [[Genesis 22]] — 1 parallel verse, e.g. [[Genesis 27#^gen-27-18|Genesis 27:18]] ↔ [[Genesis 22#^gen-22-7|Genesis 22:7]]
-- [[Genesis 28]] — 0 parallel verses
+- [[Genesis 28]] — 2 parallel verses, e.g. [[Genesis 27#^gen-27-46|Genesis 27:46]] ↔ [[Genesis 28#^gen-28-1|Genesis 28:1]]
 - [[Genesis 48]] — 0 parallel verses
+- [[Genesis 28]] — 0 parallel verses
+- [[Genesis 37]] — 0 parallel verses
+- [[Genesis 48]] — 0 parallel verses
+- [[Hebrews 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,6 +85,7 @@ The chapter also requires a distinction between covenantal succession and moral 
 <!-- SG:BEGIN history -->
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
+- **Esau** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

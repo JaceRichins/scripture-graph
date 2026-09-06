@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 14
 slug: gen-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,9 +55,9 @@ The chapter falls into three movements: the war and Lot's capture (vv.1-12), Abr
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Tithing]]
-- [[Government and Laws]]
 - [[War and Peace]]
 - [[Hebrews 7]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -84,6 +84,7 @@ Genesis 14:18 calls Melchizedek, king of Salem, "priest of the most high God"—
 - **Dead Sea** (reference-entry) *(explicit citation)*
 - **Dispensations** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

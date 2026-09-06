@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 6
 slug: 1tim-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -77,13 +77,16 @@ Timothy's charge also joins human perseverance with divine calling. He must purs
 - [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
 - [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
 - [[Pride and the Priesthood (President Dieter F. Uchtdorf, October 2010)|Pride and the Priesthood]] — President Dieter F. Uchtdorf, 2010-October *(explicit citation)*
-- [[The Parable of the Sower (Elder Dallin H. Oaks, April 2015)|The Parable of the Sower]] — Elder Dallin H. Oaks, 2015-April *(explicit citation)*
+- [[Lay Up in Store (Bishop Keith B. McMullin, April 2007)|Lay Up in Store]] — Bishop Keith B. McMullin, 2007-April *(explicit citation)*
+- [[Message to My Grandsons (President James E. Faust, April 2007)|Message to My Grandsons]] — President James E. Faust, 2007-April *(explicit citation)*
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Confession** (reference-entry) *(explicit citation)*
+- **Games** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

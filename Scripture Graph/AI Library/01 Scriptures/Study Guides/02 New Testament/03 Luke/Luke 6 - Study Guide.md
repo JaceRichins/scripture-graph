@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 6
 slug: luke-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Preserving the Voice of the Covenant People in the Rising Generation (Brother Jan E. Newman, October 2023)|Preserving the Voice of the Covenant People in the Rising Generation]] — Brother Jan E. Newman, 2023-October *(explicit citation)*
+- [[The Twelve (President Boyd K. Packer, April 2008)|The Twelve]] — President Boyd K. Packer, 2008-April *(explicit citation)*
 - [[Followers of Christ (Elder Dallin H. Oaks, April 2013)|Followers of Christ]] — Elder Dallin H. Oaks, 2013-April *(explicit citation)*
 - [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
@@ -85,7 +86,6 @@ _Not yet developed._
 - [[The Message, the Meaning, and the Multitude (Elder Jeffrey R. Holland, October 2019)|The Message, the Meaning, and the Multitude]] — Elder Jeffrey R. Holland, 2019-October *(explicit citation)*
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[Love Your Enemies (President Dallin H. Oaks, October 2020)|Love Your Enemies]] — President Dallin H. Oaks, 2020-October *(explicit citation)*
-- [[Hearts Knit Together (Elder Gary E. Stevenson, April 2021)|Hearts Knit Together]] — Elder Gary E. Stevenson, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

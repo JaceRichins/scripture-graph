@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 16
 slug: rom-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

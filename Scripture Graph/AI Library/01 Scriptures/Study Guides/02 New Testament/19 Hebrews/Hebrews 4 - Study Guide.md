@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 4
 slug: heb-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,15 +52,17 @@ _Not yet developed._
 - [[Exodus 17]] — 1 footnote cross-reference (from [[Hebrews 4#^heb-4-8|Hebrews 4:8]])
 - [[Acts 7]] — 1 footnote cross-reference (from [[Hebrews 4#^heb-4-8|Hebrews 4:8]])
 - [[Alma 31]] — 1 footnote cross-reference (from [[Hebrews 4#^heb-4-12|Hebrews 4:12]])
+- [[Hebrews 3]] — 2 parallel verses, e.g. [[Hebrews 4#^heb-4-7|Hebrews 4:7]] ↔ [[Hebrews 3#^heb-3-15|Hebrews 3:15]]
 - [[D&C 33]] — 1 parallel verse, e.g. [[Hebrews 4#^heb-4-12|Hebrews 4:12]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
 - [[Jacob 6]] — 1 parallel verse, e.g. [[Hebrews 4#^heb-4-7|Hebrews 4:7]] ↔ [[Jacob 6#^jacob-6-6|Jacob 6:6]]
 - [[Hebrews 3]] — 0 parallel verses
 - [[Hebrews 2]] — 0 parallel verses
 - [[Hebrews 10]] — 0 parallel verses
-- [[Hebrews 3]] — 0 parallel verses
 - [[Alma 7]] — 0 parallel verses
 - [[D&C 14]] — 0 parallel verses
 - [[D&C 6]] — 0 parallel verses
+- [[Helaman 3]] — 0 parallel verses
+- [[Jacob 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

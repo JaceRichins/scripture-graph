@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 4
 slug: rom-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[2 Nephi 9]] — 1 footnote cross-reference (from [[Romans 4#^rom-4-15|Romans 4:15]])
 - [[Alma 42]] — 1 footnote cross-reference (from [[Romans 4#^rom-4-15|Romans 4:15]])
 - [[Genesis 18]] — 1 footnote cross-reference (from [[Romans 4#^rom-4-21|Romans 4:21]])
+- [[Galatians 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -62,6 +63,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[A Perfect Brightness of Hope (Elder Jeffrey R. Holland, April 2020)|A Perfect Brightness of Hope]] — Elder Jeffrey R. Holland, 2020-April *(explicit citation)*
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 2
 slug: 2pet-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ Scripture: [[2 Peter 2]] · My notes: [[2 Peter 2 - My Notes]]
 - [[Romans 16]] — 1 footnote cross-reference (from [[2 Peter 2#^2pet-2-3|2 Peter 2:3]])
 - [[Jude 1]] — 0 parallel verses
 - [[3 Nephi 7]] — 0 parallel verses
+- [[Jude 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

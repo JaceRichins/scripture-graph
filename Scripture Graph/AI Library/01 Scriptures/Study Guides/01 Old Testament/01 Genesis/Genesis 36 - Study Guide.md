@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 36
 slug: gen-36
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Edom** (reference-entry) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
+- **Genesis** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -43,6 +43,7 @@ _Not yet developed._
 - [[2 Nephi 10]]
 - [[2 Nephi 25]]
 - [[2 Nephi 6]]
+- [[Colossians 2]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

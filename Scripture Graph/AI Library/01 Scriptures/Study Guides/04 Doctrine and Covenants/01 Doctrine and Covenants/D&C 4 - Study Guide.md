@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 4
 slug: dc-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,18 +49,18 @@ _Not yet developed._
 - [[1 Nephi 14]] — 1 footnote cross-reference (from [[D&C 4#^dc-4-1|D&C 4:1]])
 - [[1 Nephi 22]] — 1 footnote cross-reference (from [[D&C 4#^dc-4-1|D&C 4:1]])
 - [[D&C 6]] — 1 footnote cross-reference (from [[D&C 4#^dc-4-1|D&C 4:1]])
+- [[D&C 11]] — 2 parallel verses, e.g. [[D&C 4#^dc-4-1|D&C 4:1]] ↔ [[D&C 11#^dc-11-1|D&C 11:1]]
 - [[D&C 12]] — 2 parallel verses, e.g. [[D&C 4#^dc-4-1|D&C 4:1]] ↔ [[D&C 12#^dc-12-1|D&C 12:1]]
+- [[D&C 66]] — 1 parallel verse, e.g. [[D&C 4#^dc-4-7|D&C 4:7]] ↔ [[D&C 66#^dc-66-9|D&C 66:9]]
+- [[D&C 88]] — 1 parallel verse, e.g. [[D&C 4#^dc-4-7|D&C 4:7]] ↔ [[D&C 88#^dc-88-63|D&C 88:63]]
+- [[D&C 6]] — 2 parallel verses, e.g. [[D&C 4#^dc-4-4|D&C 4:4]] ↔ [[D&C 6#^dc-6-3|D&C 6:3]]
 - [[D&C 49]] — 1 parallel verse, e.g. [[D&C 4#^dc-4-7|D&C 4:7]] ↔ [[D&C 49#^dc-49-26|D&C 49:26]]
 - [[3 Nephi 27]] — 1 parallel verse, e.g. [[D&C 4#^dc-4-7|D&C 4:7]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
 - [[D&C 14]] — 2 parallel verses, e.g. [[D&C 4#^dc-4-4|D&C 4:4]] ↔ [[D&C 14#^dc-14-3|D&C 14:3]]
 - [[D&C 33]] — 2 parallel verses, e.g. [[D&C 4#^dc-4-4|D&C 4:4]] ↔ [[D&C 33#^dc-33-3|D&C 33:3]]
+- [[D&C 75]] — 1 parallel verse, e.g. [[D&C 4#^dc-4-7|D&C 4:7]] ↔ [[D&C 75#^dc-75-27|D&C 75:27]]
 - [[D&C 82]] — 1 parallel verse, e.g. [[D&C 4#^dc-4-5|D&C 4:5]] ↔ [[D&C 82#^dc-82-19|D&C 82:19]]
-- [[D&C 66]] — 0 parallel verses
-- [[D&C 75]] — 0 parallel verses
-- [[D&C 88]] — 0 parallel verses
-- [[D&C 6]] — 0 parallel verses
 - [[D&C 12]] — 0 parallel verses
-- [[D&C 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

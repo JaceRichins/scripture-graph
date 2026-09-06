@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 7
 slug: deut-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,23 +51,23 @@ _Not yet developed._
 - [[Alma 5]] — 1 footnote cross-reference (from [[Deuteronomy 7#^deut-7-2|Deuteronomy 7:2]])
 - [[Deuteronomy 28]] — 8 parallel verses, e.g. [[Deuteronomy 7#^deut-7-13|Deuteronomy 7:13]] ↔ [[Deuteronomy 28#^deut-28-18|Deuteronomy 28:18]]
 - [[Deuteronomy 14]] — 2 parallel verses, e.g. [[Deuteronomy 7#^deut-7-6|Deuteronomy 7:6]] ↔ [[Deuteronomy 14#^deut-14-2|Deuteronomy 14:2]]
+- [[Deuteronomy 11]] — 3 parallel verses, e.g. [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]] ↔ [[Deuteronomy 11#^deut-11-29|Deuteronomy 11:29]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
 - [[Deuteronomy 6]] — 3 parallel verses, e.g. [[Deuteronomy 7#^deut-7-13|Deuteronomy 7:13]] ↔ [[Deuteronomy 6#^deut-6-10|Deuteronomy 6:10]]
 - [[Exodus 13]] — 2 parallel verses, e.g. [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]] ↔ [[Exodus 13#^ex-13-5|Exodus 13:5]]
 - [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Deuteronomy 7#^deut-7-11|Deuteronomy 7:11]] ↔ [[Deuteronomy 5#^deut-5-31|Deuteronomy 5:31]]
 - [[Deuteronomy 13]] — 2 parallel verses, e.g. [[Deuteronomy 7#^deut-7-8|Deuteronomy 7:8]] ↔ [[Deuteronomy 13#^deut-13-5|Deuteronomy 13:5]]
 - [[Deuteronomy 30]] — 2 parallel verses, e.g. [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]] ↔ [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]]
+- [[Joshua 23]] — 1 parallel verse, e.g. [[Deuteronomy 7#^deut-7-4|Deuteronomy 7:4]] ↔ [[Joshua 23#^josh-23-16|Joshua 23:16]]
 - [[Joshua 3]] — 1 parallel verse, e.g. [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]] ↔ [[Joshua 3#^josh-3-10|Joshua 3:10]]
 - [[2 Chronicles 8]] — 1 parallel verse, e.g. [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]] ↔ [[2 Chronicles 8#^2chr-8-7|2 Chronicles 8:7]]
-- [[Genesis 15]] — 1 parallel verse, e.g. [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]] ↔ [[Genesis 15#^gen-15-21|Genesis 15:21]]
-- [[Joshua 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[War and Peace]]
 - [[Law of Moses]]
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Ten Commandments]] *(keyword match — unconfirmed)*
 - [[Covenants]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
@@ -91,6 +91,7 @@ The blessings in verses 12-15 are conditional, corporate covenant promises invol
 ## Church History
 <!-- SG:BEGIN history -->
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Gentile** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

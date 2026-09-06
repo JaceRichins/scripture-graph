@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 3
 slug: 2ne-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -103,6 +103,7 @@ Verse 2 preserves an important qualification: security in the promised land is c
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **Ephraim, stick of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

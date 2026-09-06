@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 13
 slug: matt-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,8 @@ _Not yet developed._
 - **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 - **By and by** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
+- **Fish** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

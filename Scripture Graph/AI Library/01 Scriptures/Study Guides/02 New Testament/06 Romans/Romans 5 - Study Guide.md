@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 5
 slug: rom-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[The Love of God (President Dieter F. Uchtdorf, October 2009)|The Love of God]] — President Dieter F. Uchtdorf, 2009-October *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

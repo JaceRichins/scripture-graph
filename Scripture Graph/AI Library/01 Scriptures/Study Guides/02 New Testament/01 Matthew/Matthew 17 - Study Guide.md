@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 17
 slug: matt-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -90,12 +90,12 @@ _Not yet developed._
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Elias** (reference-entry) *(explicit citation)*
+- **Elijah** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
-- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
-- **Priesthood Keys** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

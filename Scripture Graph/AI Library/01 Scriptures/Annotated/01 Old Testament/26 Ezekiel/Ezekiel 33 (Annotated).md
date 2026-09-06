@@ -72,7 +72,7 @@ cssclasses:
 > [[Ezekiel 18#^ezek-18-30|Ezek. 18:30]] · [[1 Nephi 10#^1ne-10-20|1 Ne. 10:20]] · [[Ezekiel 18#^ezek-18-25|≈ Ezekiel 18:25]] · [[Ezekiel 18#^ezek-18-29|≈ Ezekiel 18:29]]
 
 ![[Ezekiel 33#^ezek-33-21]]
-> [[Ezekiel 1#^ezek-1-2|Ezek. 1:2]] · [[Ezekiel 20#^ezek-20-1|20:1]] · [[Ezekiel 24#^ezek-24-1|24:1]] · [[Ezekiel 26#^ezek-26-1|26:1]] · [[Ezekiel 24#^ezek-24-26|Ezek. 24:26]] · [[Ezekiel 32#^ezek-32-1|≈ Ezekiel 32:1]] · [[Ezekiel 1#^ezek-1-1|≈ Ezekiel 1:1]] · [[Ezekiel 1#^ezek-1-2|≈ Ezekiel 1:2]]
+> [[Ezekiel 1#^ezek-1-2|Ezek. 1:2]] · [[Ezekiel 20#^ezek-20-1|20:1]] · [[Ezekiel 24#^ezek-24-1|24:1]] · [[Ezekiel 26#^ezek-26-1|26:1]] · [[Ezekiel 24#^ezek-24-26|Ezek. 24:26]] · [[Ezekiel 1#^ezek-1-1|≈ Ezekiel 1:1]] · [[Ezekiel 1#^ezek-1-2|≈ Ezekiel 1:2]] · [[Ezekiel 32#^ezek-32-1|≈ Ezekiel 32:1]]
 
 ![[Ezekiel 33#^ezek-33-22]]
 > [[Ezekiel 1#^ezek-1-3|Ezek. 1:3]] · [[Ezekiel 24#^ezek-24-27|Ezek. 24:27]] · [[Ezekiel 37#^ezek-37-1|≈ Ezekiel 37:1]]

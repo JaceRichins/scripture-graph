@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 62
 slug: alma-62
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,8 @@ Alma 62 resolves both fronts of the crisis created in [[Alma 60]] and [[Alma 61]
 - [[Alma 44]] — 2 footnote cross-references (from [[Alma 62#^alma-62-11|Alma 62:11]])
 - [[Helaman 11]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-48|Alma 62:48]] ↔ [[Helaman 11#^hel-11-20|Helaman 11:20]]
 - [[Alma 51]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-25|Alma 62:25]] ↔ [[Alma 51#^alma-51-22|Alma 51:22]]
-- [[Alma 4]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-49|Alma 62:49]] ↔ [[Alma 4#^alma-4-6|Alma 4:6]]
 - [[Alma 45]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-50|Alma 62:50]] ↔ [[Alma 45#^alma-45-1|Alma 45:1]]
+- [[Alma 4]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-49|Alma 62:49]] ↔ [[Alma 4#^alma-4-6|Alma 4:6]]
 - [[Alma 50]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-22|Alma 62:22]] ↔ [[Alma 50#^alma-50-7|Alma 50:7]]
 - [[Alma 53]] — 2 parallel verses, e.g. [[Alma 62#^alma-62-30|Alma 62:30]] ↔ [[Alma 53#^alma-53-6|Alma 53:6]]
 - [[Mosiah 18]] — 3 parallel verses, e.g. [[Alma 62#^alma-62-28|Alma 62:28]] ↔ [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]]
@@ -94,6 +94,7 @@ Verses 44–47 connect social recovery with [[Repentance]], [[Baptism]], preachi
 - [[That Your Burdens May Be Light (Elder L. Whitney Clayton, October 2009)|That Your Burdens May Be Light]] — Elder L. Whitney Clayton, 2009-October *(explicit citation)*
 - [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
 - [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
+- [[If These Old Walls Could Talk (Bishop H. David Burton, April 2007)|If These Old Walls Could Talk]] — Bishop H. David Burton, 2007-April *(explicit citation)*
 - [[Do We Trust Him Hard Is Good (Elder Stanley G. Ellis, October 2017)|Do We Trust Him? Hard Is Good]] — Elder Stanley G. Ellis, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 

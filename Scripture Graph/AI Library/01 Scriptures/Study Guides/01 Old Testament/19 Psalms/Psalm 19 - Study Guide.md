@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 19
 slug: ps-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
+- [[Testimony (Elder Dallin H. Oaks, April 2008)|Testimony]] — Elder Dallin H. Oaks, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

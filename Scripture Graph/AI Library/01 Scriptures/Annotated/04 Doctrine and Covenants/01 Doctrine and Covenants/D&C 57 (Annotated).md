@@ -17,7 +17,7 @@ cssclasses:
 > 1–3, Independence, Missouri, is the place for the City of Zion and the temple; 4–7, The Saints are to purchase lands and receive inheritances in that area; 8–16, Sidney Gilbert is to establish a store, William W. Phelps is to be a printer, and Oliver Cowdery is to edit material for publication.
 
 ![[D&C 57#^dc-57-1]]
-> [[D&C 52#^dc-52-3|D&amp;C 52:3 (3, 42)]] · [[D&C 29#^dc-29-7|D&amp;C 29:8 (7–8)]] · [[D&C 45#^dc-45-64|45:66 (64–66)]] · [[D&C 52#^dc-52-2|52:2 (2, 42)]] · [[D&C 58#^dc-58-1|58:1]] · [[D&C 103#^dc-103-24|103:24]] · [[D&C 61#^dc-61-17|D&amp;C 61:17]] · [[D&C 58#^dc-58-1|≈ D&C 58:1]] · [[D&C 62#^dc-62-1|≈ D&C 62:1]] · [[D&C 52#^dc-52-42|≈ D&C 52:42]]
+> [[D&C 52#^dc-52-3|D&amp;C 52:3 (3, 42)]] · [[D&C 29#^dc-29-7|D&amp;C 29:8 (7–8)]] · [[D&C 45#^dc-45-64|45:66 (64–66)]] · [[D&C 52#^dc-52-2|52:2 (2, 42)]] · [[D&C 58#^dc-58-1|58:1]] · [[D&C 103#^dc-103-24|103:24]] · [[D&C 61#^dc-61-17|D&amp;C 61:17]] · [[D&C 62#^dc-62-1|≈ D&C 62:1]] · [[D&C 58#^dc-58-1|≈ D&C 58:1]] · [[D&C 52#^dc-52-42|≈ D&C 52:42]]
 
 ![[D&C 57#^dc-57-2]]
 > [[D&C 48#^dc-48-5|D&amp;C 48:5]] · [[D&C 52#^dc-52-5|52:5 (5, 42)]] · [[D&C 28#^dc-28-9|D&amp;C 28:9]] · [[D&C 42#^dc-42-9|42:9 (9, 62)]] · [[D&C 103#^dc-103-22|103:24 (22–24)]] · [[D&C 62#^dc-62-4|D&amp;C 62:4]] · [[D&C 78#^dc-78-3|78:3]]

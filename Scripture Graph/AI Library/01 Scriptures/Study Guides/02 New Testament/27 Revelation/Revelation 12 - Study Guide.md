@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 12
 slug: rev-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
 - [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
 - [[Choose You This Day (Elder Dale G. Renlund, October 2018)|Choose You This Day]] — Elder Dale G. Renlund, 2018-October *(explicit citation)*
@@ -70,7 +71,6 @@ _Not yet developed._
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
 - [[Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy (Sister Tamara W. Runia, April 2025)|Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy]] — Sister Tamara W. Runia, 2025-April *(explicit citation)*
 - [[Beware the Second Temptation (Elder Scott D. Whiting, April 2025)|Beware the Second Temptation]] — Elder Scott D. Whiting, 2025-April *(explicit citation)*
-- [[Free Forever, to Act for Themselves (Elder D. Todd Christofferson, October 2014)|Free Forever, to Act for Themselves]] — Elder D. Todd Christofferson, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

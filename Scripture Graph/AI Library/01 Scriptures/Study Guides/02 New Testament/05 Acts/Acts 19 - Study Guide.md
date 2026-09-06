@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 19
 slug: acts-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,11 +68,14 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[Receive the Holy Ghost (Elder David A. Bednar, October 2010)|Receive the Holy Ghost]] — Elder David A. Bednar, 2010-October *(explicit citation)*
+- [[Born Again (Elder D. Todd Christofferson, April 2008)|Born Again]] — Elder D. Todd Christofferson, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Ephesus** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1844-12-01 (Vol. 5 No. 22)** (periodical, 1844-12-01) *(explicit citation)*

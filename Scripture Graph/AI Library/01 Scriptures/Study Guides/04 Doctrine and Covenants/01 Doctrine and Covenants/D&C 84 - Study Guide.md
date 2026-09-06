@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 84
 slug: dc-84
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -73,8 +73,8 @@ Verse 6 begins a statement about the sons of Moses that verse 31 explicitly resu
 - [[3 Nephi 13]] — 3 parallel verses, e.g. [[D&C 84#^dc-84-82|D&C 84:82]] ↔ [[3 Nephi 13#^3ne-13-28|3 Nephi 13:28]]
 - [[Luke 12]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-81|D&C 84:81]] ↔ [[Luke 12#^luke-12-29|Luke 12:29]]
 - [[John 16]] — 3 parallel verses, e.g. [[D&C 84#^dc-84-119|D&C 84:119]] ↔ [[John 16#^john-16-16|John 16:16]]
-- [[Alma 13]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-17|D&C 84:17]] ↔ [[Alma 13#^alma-13-9|Alma 13:9]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-120|D&C 84:120]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
+- [[Alma 13]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-17|D&C 84:17]] ↔ [[Alma 13#^alma-13-9|Alma 13:9]]
 - [[D&C 93]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-41|D&C 84:41]] ↔ [[D&C 93#^dc-93-52|D&C 93:52]]
 - [[Mark 16]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-65|D&C 84:65]] ↔ [[Mark 16#^mark-16-17|Mark 16:17]]
 - [[Mormon 9]] — 2 parallel verses, e.g. [[D&C 84#^dc-84-65|D&C 84:65]] ↔ [[Mormon 9#^morm-9-24|Mormon 9:24]]
@@ -106,6 +106,7 @@ Faithful recipients are said to become sons of Moses and Aaron and Abraham's see
 <!-- SG:BEGIN conference -->
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
 - [[Your Potential, Your Privilege (President Dieter F. Uchtdorf, April 2011)|Your Potential, Your Privilege]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
+- [[Faith and the Oath and Covenant of the Priesthood (President Henry B. Eyring, April 2008)|Faith and the Oath and Covenant of the Priesthood]] — President Henry B. Eyring, 2008-April *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
@@ -113,7 +114,6 @@ Faithful recipients are said to become sons of Moses and Aaron and Abraham's see
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 - [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
 - [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
-- [[Power in the Priesthood (Elder Neil L. Andersen, October 2013)|Power in the Priesthood]] — Elder Neil L. Andersen, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

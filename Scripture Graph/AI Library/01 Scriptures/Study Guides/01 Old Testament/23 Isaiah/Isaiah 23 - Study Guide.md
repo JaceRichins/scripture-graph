@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 23
 slug: isa-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

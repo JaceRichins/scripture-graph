@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 11
 slug: 1cor-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -69,8 +69,8 @@ Key doctrinal threads: a headship structure culminating in God as head of Christ
 - [[Kingdoms of Glory (President Dallin H. Oaks, October 2023)|Kingdoms of Glory]] — President Dallin H. Oaks, 2023-October *(explicit citation)*
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[The Pleasing Word of God (Elder Francisco J. Viñas, October 2015)|The Pleasing Word of God]] — Elder Francisco J. Viñas, 2015-October *(explicit citation)*
-- [[To Be a Follower of Christ (Elder Alfred Kyungu, October 2021)|To Be a Follower of Christ]] — Elder Alfred Kyungu, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 13
 slug: rom-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Matthew 22]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-10|Romans 13:10]])
 - [[Matthew 19]] — 2 parallel verses, e.g. [[Romans 13#^rom-13-9|Romans 13:9]] ↔ [[Matthew 19#^matt-19-18|Matthew 19:18]]
 - [[D&C 58]] — 0 parallel verses
+- [[Galatians 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

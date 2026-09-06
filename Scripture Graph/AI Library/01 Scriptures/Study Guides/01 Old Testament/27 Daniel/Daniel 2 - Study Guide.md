@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 2
 slug: dan-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,24 +51,25 @@ Daniel 2 is a court narrative built around an apparently impossible royal demand
 - [[Daniel 1]] — 3 footnote cross-references (from [[Daniel 2#^dan-2-17|Daniel 2:17]])
 - [[Daniel 4]] — 2 footnote cross-references (from [[Daniel 2#^dan-2-2|Daniel 2:2]])
 - [[Daniel 3]] — 2 footnote cross-references (from [[Daniel 2#^dan-2-5|Daniel 2:5]])
+- [[Daniel 4]] — 3 parallel verses, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[Daniel 4#^dan-4-12|Daniel 4:12]]
+- [[Daniel 3]] — 2 parallel verses, e.g. [[Daniel 2#^dan-2-49|Daniel 2:49]] ↔ [[Daniel 3#^dan-3-12|Daniel 3:12]]
 - [[D&C 49]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[D&C 49#^dc-49-19|D&C 49:19]]
 - [[D&C 59]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[D&C 59#^dc-59-16|D&C 59:16]]
 - [[2 Nephi 2]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[2 Nephi 2#^2ne-2-15|2 Nephi 2:15]]
 - [[D&C 89]] — 1 parallel verse, e.g. [[Daniel 2#^dan-2-38|Daniel 2:38]] ↔ [[D&C 89#^dc-89-14|D&C 89:14]]
-- [[Daniel 4]] — 0 parallel verses
-- [[Daniel 3]] — 0 parallel verses
 - [[Daniel 7]] — 0 parallel verses
 - [[D&C 65]] — 0 parallel verses
 - [[D&C 109]] — 0 parallel verses
 - [[D&C 65]] — 0 parallel verses
 - [[Daniel 1]] — 0 parallel verses
+- [[Daniel 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Kingdom of God]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Signs of the Times]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

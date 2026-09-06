@@ -17,7 +17,7 @@ cssclasses:
 > 1–4, Joseph Smith and Sidney Rigdon are sent forth to proclaim the gospel; 5–11, Enemies of the Saints will be confounded.
 
 ![[D&C 71#^dc-71-1]]
-> [[Matthew 4#^matt-4-23|Matt. 4:23]] · [[D&C 42#^dc-42-61|D&amp;C 42:61 (61–65)]] · [[D&C 80#^dc-80-1|≈ D&C 80:1]] · [[D&C 86#^dc-86-1|≈ D&C 86:1]] · [[D&C 73#^dc-73-3|≈ D&C 73:3]] · [[D&C 108#^dc-108-1|≈ D&C 108:1]] · [[D&C 44#^dc-44-1|≈ D&C 44:1]] · [[D&C 55#^dc-55-5|≈ D&C 55:5]]
+> [[Matthew 4#^matt-4-23|Matt. 4:23]] · [[D&C 42#^dc-42-61|D&amp;C 42:61 (61–65)]] · [[D&C 80#^dc-80-1|≈ D&C 80:1]] · [[D&C 86#^dc-86-1|≈ D&C 86:1]] · [[D&C 73#^dc-73-3|≈ D&C 73:3]] · [[D&C 44#^dc-44-1|≈ D&C 44:1]] · [[D&C 55#^dc-55-5|≈ D&C 55:5]] · [[D&C 55#^dc-55-1|≈ D&C 55:1]]
 
 ![[D&C 71#^dc-71-2]]
 > [[D&C 73#^dc-73-3|D&amp;C 73:3]]
@@ -40,7 +40,7 @@ cssclasses:
 > [[Isaiah 41#^isa-41-21|Isa. 41:21]]
 
 ![[D&C 71#^dc-71-9]]
-> [[Isaiah 54#^isa-54-17|Isa. 54:17]] · [[D&C 80#^dc-80-1|≈ D&C 80:1]] · [[D&C 86#^dc-86-1|≈ D&C 86:1]] · [[D&C 108#^dc-108-1|≈ D&C 108:1]] · [[D&C 100#^dc-100-1|≈ D&C 100:1]] · [[D&C 112#^dc-112-1|≈ D&C 112:1]] · [[D&C 115#^dc-115-1|≈ D&C 115:1]]
+> [[Isaiah 54#^isa-54-17|Isa. 54:17]] · [[D&C 80#^dc-80-1|≈ D&C 80:1]] · [[D&C 86#^dc-86-1|≈ D&C 86:1]] · [[D&C 100#^dc-100-1|≈ D&C 100:1]] · [[D&C 108#^dc-108-1|≈ D&C 108:1]] · [[D&C 112#^dc-112-1|≈ D&C 112:1]] · [[D&C 115#^dc-115-1|≈ D&C 115:1]]
 
 ![[D&C 71#^dc-71-10]]
 > [[Jeremiah 17#^jer-17-15|Jer. 17:18 (15–18)]]

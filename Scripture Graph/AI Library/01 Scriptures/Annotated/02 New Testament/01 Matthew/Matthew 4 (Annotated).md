@@ -61,7 +61,7 @@ cssclasses:
 > [[D&C 57#^dc-57-10|D&amp;C 57:10]]
 
 ![[Matthew 4#^matt-4-17]]
-> [[Isaiah 56#^isa-56-1|Isa. 56:1]] · [[Matthew 3#^matt-3-2|Matt. 3:2]] · [[Alma 10#^alma-10-20|≈ Alma 10:20]] · [[Matthew 10#^matt-10-7|≈ Matthew 10:7]]
+> [[Isaiah 56#^isa-56-1|Isa. 56:1]] · [[Matthew 3#^matt-3-2|Matt. 3:2]] · [[Matthew 10#^matt-10-7|≈ Matthew 10:7]] · [[Alma 10#^alma-10-20|≈ Alma 10:20]]
 
 ![[Matthew 4#^matt-4-18]]
 > [[Mark 1#^mark-1-16|≈ Mark 1:16]]

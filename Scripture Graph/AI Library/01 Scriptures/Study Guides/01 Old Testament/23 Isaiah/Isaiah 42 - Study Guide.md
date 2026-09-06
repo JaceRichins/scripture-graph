@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 42
 slug: isa-42
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Matthew 12]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-3|Isaiah 42:3]] ↔ [[Matthew 12#^matt-12-20|Matthew 12:20]]
 - [[Isaiah 49]] — 1 parallel verse, e.g. [[Isaiah 42#^isa-42-6|Isaiah 42:6]] ↔ [[Isaiah 49#^isa-49-8|Isaiah 49:8]]
 - [[Acts 26]] — 0 parallel verses
+- [[Isaiah 49]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

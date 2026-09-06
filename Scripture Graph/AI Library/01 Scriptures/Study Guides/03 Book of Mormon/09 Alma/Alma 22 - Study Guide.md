@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 22
 slug: alma-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

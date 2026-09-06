@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 3
 slug: dc-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,8 @@ _Not yet developed._
 - [[Alma 37]] — 2 footnote cross-references (from [[D&C 3#^dc-3-4|D&C 3:4]])
 - [[D&C 5]] — 2 footnote cross-references (from [[D&C 3#^dc-3-6|D&C 3:6]])
 - [[D&C 20]] — 2 footnote cross-references (from [[D&C 3#^dc-3-6|D&C 3:6]])
+- [[Mormon 1]] — 3 parallel verses, e.g. [[D&C 3#^dc-3-17|D&C 3:17]] ↔ [[Mormon 1#^morm-1-8|Mormon 1:8]]
+- [[Alma 7]] — 1 parallel verse, e.g. [[D&C 3#^dc-3-2|D&C 3:2]] ↔ [[Alma 7#^alma-7-20|Alma 7:20]]
 - [[Alma 37]] — 1 parallel verse, e.g. [[D&C 3#^dc-3-2|D&C 3:2]] ↔ [[Alma 37#^alma-37-12|Alma 37:12]]
 - [[Moses 8]] — 1 parallel verse, e.g. [[D&C 3#^dc-3-19|D&C 3:19]] ↔ [[Moses 8#^moses-8-2|Moses 8:2]]
 - [[Numbers 20]] — 1 parallel verse, e.g. [[D&C 3#^dc-3-2|D&C 3:2]] ↔ [[Numbers 20#^num-20-17|Numbers 20:17]]

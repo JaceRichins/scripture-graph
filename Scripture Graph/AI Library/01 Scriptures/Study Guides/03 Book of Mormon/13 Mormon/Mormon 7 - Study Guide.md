@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 7
 slug: morm-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,9 @@ _Not yet developed._
 - [[There Is Power in the Book (Elder LeGrand R. Curtis Jr., October 2016)|There Is Power in the Book]] — Elder LeGrand R. Curtis Jr., 2016-October *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[“My Words … Never Cease” (Elder Jeffrey R. Holland, April 2008)|“My Words … Never Cease”]] — Elder Jeffrey R. Holland, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

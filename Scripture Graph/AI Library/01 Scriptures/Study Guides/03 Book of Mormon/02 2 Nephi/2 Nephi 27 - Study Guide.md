@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 27
 slug: 2ne-27
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,9 @@ Scripture: [[2 Nephi 27]] · My notes: [[2 Nephi 27 - My Notes]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-10|2 Nephi 27:10]] ↔ [[1 Nephi 10#^1ne-10-3|1 Nephi 10:3]]
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[2 Nephi 27#^2ne-27-10|2 Nephi 27:10]] ↔ [[1 Nephi 14#^1ne-14-26|1 Nephi 14:26]]
 - [[2 Nephi 25]] — 1 parallel verse, e.g. [[2 Nephi 27#^2ne-27-26|2 Nephi 27:26]] ↔ [[2 Nephi 25#^2ne-25-17|2 Nephi 25:17]]
+- [[D&C 17]] — 0 parallel verses
+- [[D&C 5]] — 0 parallel verses
+- [[Isaiah 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 44
 slug: gen-44
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

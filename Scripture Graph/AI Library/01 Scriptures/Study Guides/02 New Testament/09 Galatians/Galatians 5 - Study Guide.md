@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 5
 slug: gal-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,8 +59,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Service]]
 - [[Freedom and Liberty]]
+- [[Service]]
 - [[Law of Moses]]
 - [[Justification and Sanctification]]
 - [[Kingdom of God]]
@@ -93,6 +93,7 @@ The chapter also relates divine action and human response without making them id
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Flesh** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*

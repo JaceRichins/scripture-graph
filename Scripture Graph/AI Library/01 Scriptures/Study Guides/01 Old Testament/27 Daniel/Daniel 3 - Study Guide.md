@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 3
 slug: dan-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,17 +51,18 @@ Scripture: [[Daniel 3]] · My notes: [[Daniel 3 - My Notes]]
 - [[Mosiah 17]] — 1 footnote cross-reference (from [[Daniel 3#^dan-3-6|Daniel 3:6]])
 - [[Matthew 10]] — 1 footnote cross-reference (from [[Daniel 3#^dan-3-16|Daniel 3:16]])
 - [[Acts 20]] — 1 footnote cross-reference (from [[Daniel 3#^dan-3-16|Daniel 3:16]])
+- [[Daniel 2]] — 2 parallel verses, e.g. [[Daniel 3#^dan-3-12|Daniel 3:12]] ↔ [[Daniel 2#^dan-2-49|Daniel 2:49]]
 - [[Esther 9]] — 2 parallel verses, e.g. [[Daniel 3#^dan-3-2|Daniel 3:2]] ↔ [[Esther 9#^esth-9-3|Esther 9:3]]
 - [[Daniel 6]] — 0 parallel verses
 - [[Daniel 2]] — 0 parallel verses
 - [[3 Nephi 28]] — 0 parallel verses
-- [[Daniel 2]] — 0 parallel verses
+- [[Daniel 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Exodus and Deliverance]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 29
 slug: jer-29
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -110,6 +110,7 @@ The disputes with rival speakers contribute to the chapter's teaching about [[Pr
 - **Bible** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Ahab** (reference-entry) *(explicit citation)*
+- **Ezra** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

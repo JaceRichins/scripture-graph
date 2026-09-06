@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 19
 slug: lev-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ Verses 21–22 connect a trespass offering, priestly atonement, and forgiveness 
 - [[Do Justly, Love Mercy, and Walk Humbly with God (Elder Dale G. Renlund, October 2020)|Do Justly, Love Mercy, and Walk Humbly with God]] — Elder Dale G. Renlund, 2020-October *(explicit citation)*
 - [[A Mighty Change of Heart “I Have Nothing More to Give You” (Elder Eduardo Gavarret, April 2022)|A Mighty Change of Heart: “I Have Nothing More to Give You”]] — Elder Eduardo Gavarret, 2022-April *(explicit citation)*
 - [[Ye Are No More Strangers (Bishop Gérald Caussé, October 2013)|Ye Are No More Strangers]] — Bishop Gérald Caussé, 2013-October *(explicit citation)*
+- [[God Loves and Helps All of His Children (Bishop Keith B. McMullin, October 2008)|God Loves and Helps All of His Children]] — Bishop Keith B. McMullin, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -108,6 +109,8 @@ Verses 21–22 connect a trespass offering, priestly atonement, and forgiveness 
 - **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
 - **Commerce** (reference-entry) *(explicit citation)*
+- **Firstfruits** (reference-entry) *(explicit citation)*
+- **Gentile** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

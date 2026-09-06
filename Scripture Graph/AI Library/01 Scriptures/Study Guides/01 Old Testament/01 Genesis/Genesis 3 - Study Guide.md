@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 3
 slug: gen-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,8 +49,8 @@ Scripture: [[Genesis 3]] · My notes: [[Genesis 3 - My Notes]]
 - [[2 Nephi 2]] — 3 footnote cross-references (from [[Genesis 3#^gen-3-5|Genesis 3:5]])
 - [[Mosiah 16]] — 2 footnote cross-references (from [[Genesis 3#^gen-3-5|Genesis 3:5]])
 - [[2 Corinthians 11]] — 1 footnote cross-reference (from [[Genesis 3#^gen-3-1|Genesis 3:1]])
+- [[Moses 4]] — 25 parallel verses, e.g. [[Genesis 3#^gen-3-17|Genesis 3:17]] ↔ [[Moses 4#^moses-4-23|Moses 4:23]]
 - [[Alma 42]] — 3 parallel verses, e.g. [[Genesis 3#^gen-3-24|Genesis 3:24]] ↔ [[Alma 42#^alma-42-2|Alma 42:2]]
-- [[Moses 4]] — 0 parallel verses
 - [[Genesis 2]] — 0 parallel verses
 - [[Moses 4]] — 0 parallel verses
 - [[Ecclesiastes 12]] — 0 parallel verses
@@ -60,12 +60,12 @@ Scripture: [[Genesis 3]] · My notes: [[Genesis 3 - My Notes]]
 <!-- SG:BEGIN topics -->
 - [[Fall of Adam and Eve]]
 - [[Work and Self-Reliance]]
-- [[Tree of Life]]
 - [[Alma 42]]
 - [[2 Nephi 2]]
 - [[Romans 5]]
 - [[1 Corinthians 15]]
 - [[Marriage]] *(keyword match — unconfirmed)*
+- [[Tree of Life]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -91,6 +91,7 @@ The chapter supplies the biblical narrative foundation for the [[Fall of Adam an
 <!-- SG:BEGIN history -->
 - **37 We Will Prove Them** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Eve** (reference-entry) *(explicit citation)*
 - **Transgression** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
 - **Welfare** (reference-entry) *(explicit citation)*
@@ -98,7 +99,6 @@ The chapter supplies the biblical narrative foundation for the [[Fall of Adam an
 - **Times and Seasons 1846-01-15 (Vol. 6 No. 21)** (periodical, 1846-01-15) *(explicit citation)*
 - **Bible, English** (reference-entry) *(explicit citation)*
 - **Cherubim** (reference-entry) *(explicit citation)*
-- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

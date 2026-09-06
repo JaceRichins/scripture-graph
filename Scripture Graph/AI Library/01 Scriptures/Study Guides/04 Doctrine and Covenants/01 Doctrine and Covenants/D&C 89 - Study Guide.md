@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 89
 slug: dc-89
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,8 +83,8 @@ The chapter's theology is strongly embodied: divine instruction addresses food, 
 - [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
 - [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
 - [[Counsel to Young Men (President Boyd K. Packer, April 2009)|Counsel to Young Men]] — President Boyd K. Packer, 2009-April *(explicit citation)*
-- [[The Power of Covenants (Elder D. Todd Christofferson, April 2009)|The Power of Covenants]] — Elder D. Todd Christofferson, 2009-April *(explicit citation)*
-- [[Watching with All Perseverance (Elder David A. Bednar, April 2010)|Watching with All Perseverance]] — Elder David A. Bednar, 2010-April *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[Give Heed unto the Prophets’ Words (Elder Quentin L. Cook, April 2008)|Give Heed unto the Prophets’ Words]] — Elder Quentin L. Cook, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

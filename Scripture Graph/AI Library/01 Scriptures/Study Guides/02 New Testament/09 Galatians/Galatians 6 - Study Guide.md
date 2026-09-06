@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 6
 slug: gal-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -47,13 +47,13 @@ _Not yet developed._
 - [[Proverbs 9]] — 1 footnote cross-reference (from [[Galatians 6#^gal-6-5|Galatians 6:5]])
 - [[Ezekiel 32]] — 1 footnote cross-reference (from [[Galatians 6#^gal-6-7|Galatians 6:7]])
 - [[Psalm 7]] — 1 footnote cross-reference (from [[Galatians 6#^gal-6-7|Galatians 6:7]])
+- [[Romans 16]] — 2 parallel verses, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
+- [[Philemon 1]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
 - [[Philippians 4]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
 - [[Revelation 22]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
 - [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
 - [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
 - [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[Galatians 6#^gal-6-18|Galatians 6:18]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
-- [[Romans 16]] — 0 parallel verses
-- [[Philemon 1]] — 0 parallel verses
 - [[2 Corinthians 5]] — 0 parallel verses
 - [[1 Corinthians 16]] — 0 parallel verses
 - [[2 Thessalonians 3]] — 0 parallel verses
@@ -63,9 +63,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Crucifixion of Jesus Christ]]
 - [[Law of Moses]]
 - [[Endurance]]
+- [[Crucifixion of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -97,6 +97,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Agency and Accountability** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
+- **Flesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

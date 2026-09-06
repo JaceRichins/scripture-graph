@@ -39,7 +39,7 @@ cssclasses:
 ![[Alma 58#^alma-58-9]]
 
 ![[Alma 58#^alma-58-10]]
-> [[Mosiah 9#^mosiah-9-17|≈ Mosiah 9:17]] · [[Alma 60#^alma-60-20|≈ Alma 60:20]] · [[Alma 27#^alma-27-5|≈ Alma 27:5]] · [[Alma 57#^alma-57-35|≈ Alma 57:35]]
+> [[Mosiah 9#^mosiah-9-17|≈ Mosiah 9:17]] · [[Alma 60#^alma-60-20|≈ Alma 60:20]] · [[Alma 57#^alma-57-35|≈ Alma 57:35]] · [[Alma 27#^alma-27-5|≈ Alma 27:5]]
 
 ![[Alma 58#^alma-58-11]]
 
@@ -107,7 +107,7 @@ cssclasses:
 > [[Alma 61#^alma-61-3|Alma 61:3]]
 
 ![[Alma 58#^alma-58-37]]
-> [[2 Kings 17#^2kgs-17-39|2 Kgs. 17:39]] · [[Mosiah 9#^mosiah-9-17|≈ Mosiah 9:17]] · [[Alma 60#^alma-60-20|≈ Alma 60:20]] · [[Alma 27#^alma-27-5|≈ Alma 27:5]] · [[Alma 57#^alma-57-35|≈ Alma 57:35]]
+> [[2 Kings 17#^2kgs-17-39|2 Kgs. 17:39]] · [[Mosiah 9#^mosiah-9-17|≈ Mosiah 9:17]] · [[Alma 60#^alma-60-20|≈ Alma 60:20]] · [[Alma 57#^alma-57-35|≈ Alma 57:35]] · [[Alma 27#^alma-27-5|≈ Alma 27:5]]
 
 ![[Alma 58#^alma-58-38]]
 

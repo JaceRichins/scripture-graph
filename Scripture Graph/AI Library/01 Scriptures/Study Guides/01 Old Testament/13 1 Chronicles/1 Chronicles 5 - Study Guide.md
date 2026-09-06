@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 5
 slug: 1chr-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ The chapter is more than a collection of names. It explains why Reuben's biologi
 - [[Amos 1]] — 1 parallel verse, e.g. [[1 Chronicles 5#^1chr-5-17|1 Chronicles 5:17]] ↔ [[Amos 1#^amos-1-1|Amos 1:1]]
 - [[Genesis 49]] — 0 parallel verses
 - [[2 Kings 17]] — 0 parallel verses
+- [[Genesis 49]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,8 +86,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Gad** (reference-entry) *(explicit citation)*
 - **Birthright** (reference-entry) *(explicit citation)*
 - **Captivities of the Israelites** (reference-entry) *(explicit citation)*
+- **Ephraim** (reference-entry) *(explicit citation)*
+- **Euphrates** (reference-entry) *(explicit citation)*
+- **Firstborn** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

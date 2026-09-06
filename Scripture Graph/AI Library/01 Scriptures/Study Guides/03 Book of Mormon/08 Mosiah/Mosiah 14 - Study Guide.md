@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 14
 slug: mosiah-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

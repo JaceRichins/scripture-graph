@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 12
 slug: dc-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,9 @@ _Not yet developed._
 - [[D&C 4]] — 2 parallel verses, e.g. [[D&C 12#^dc-12-1|D&C 12:1]] ↔ [[D&C 4#^dc-4-1|D&C 4:1]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[D&C 12#^dc-12-9|D&C 12:9]] ↔ [[3 Nephi 11#^3ne-11-11|3 Nephi 11:11]]
 - [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 12#^dc-12-9|D&C 12:9]] ↔ [[3 Nephi 9#^3ne-9-18|3 Nephi 9:18]]
+- [[D&C 14]] — 0 parallel verses
+- [[D&C 4]] — 0 parallel verses
+- [[D&C 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 21
 slug: deut-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ _Not yet developed._
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
+- **Firstborn** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

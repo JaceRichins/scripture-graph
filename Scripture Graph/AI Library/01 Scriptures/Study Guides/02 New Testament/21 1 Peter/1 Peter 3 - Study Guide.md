@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 3
 slug: 1pet-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Psalm 34]] — 2 parallel verses, e.g. [[1 Peter 3#^1pet-3-12|1 Peter 3:12]] ↔ [[Psalm 34#^ps-34-15|Psalm 34:15]]
 - [[Genesis 7]] — 0 parallel verses
 - [[1 Peter 2]] — 0 parallel verses
+- [[Ephesians 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -94,6 +95,7 @@ Verse 21 denies that baptism's saving power lies in physical washing ("not the p
 - **Hope** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

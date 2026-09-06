@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 1
 slug: 3ne-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,8 @@ The chapter treats the [[Law of Moses]] as still binding until it is fulfilled '
 - [[Your Wonderful Journey Home (President Dieter F. Uchtdorf, April 2013)|Your Wonderful Journey Home]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
 - [[The Resurrection of Jesus Christ (Elder D. Todd Christofferson, April 2014)|The Resurrection of Jesus Christ]] — Elder D. Todd Christofferson, 2014-April *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
+- [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

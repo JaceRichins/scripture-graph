@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 5
 slug: hel-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

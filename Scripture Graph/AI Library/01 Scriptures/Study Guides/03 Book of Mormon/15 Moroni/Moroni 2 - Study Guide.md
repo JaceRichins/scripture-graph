@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 2
 slug: moro-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
 - [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
+- [[Gospel Teaching—Our Most Important Calling (William D. Oswald, October 2008)|Gospel Teaching—Our Most Important Calling]] — William D. Oswald, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

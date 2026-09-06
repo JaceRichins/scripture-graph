@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 12
 slug: heb-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ Scripture: [[Hebrews 12]] · My notes: [[Hebrews 12 - My Notes]]
 - [[Genesis 27]] — 0 parallel verses
 - [[Genesis 4]] — 0 parallel verses
 - [[Hebrews 13]] — 0 parallel verses
+- [[Isaiah 35]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 6
 slug: 2kgs-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 - [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
 - [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
 - [[Eyes to See (Michelle D. Craig, October 2020)|Eyes to See]] — Michelle D. Craig, 2020-October *(explicit citation)*
+- [[O Ye That Embark (President Henry B. Eyring, October 2008)|O Ye That Embark]] — President Henry B. Eyring, 2008-October *(explicit citation)*
 - [[Lord, Wilt Thou Cause That My Eyes May Be Opened (Elder W. Craig Zwick, October 2017)|Lord, Wilt Thou Cause That My Eyes May Be Opened]] — Elder W. Craig Zwick, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -75,6 +76,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Benhadad** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

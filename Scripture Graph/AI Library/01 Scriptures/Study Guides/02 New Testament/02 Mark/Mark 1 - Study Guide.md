@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 1
 slug: mark-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[If You Will Be Responsible (Elder Jorge F. Zeballos, April 2015)|If You Will Be Responsible]] — Elder Jorge F. Zeballos, 2015-April *(explicit citation)*
 - [[That They Do Always Remember Him (Elder Claudio R. M. Costa, October 2015)|That They Do Always Remember Him]] — Elder Claudio R. M. Costa, 2015-October *(explicit citation)*
 - [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
@@ -87,7 +88,6 @@ _Not yet developed._
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
 - [[The Savior’s Abiding Compassion (Elder Ulisses Soares, October 2021)|The Savior’s Abiding Compassion]] — Elder Ulisses Soares, 2021-October *(explicit citation)*
 - [[In Awe of Christ and His Gospel (Elder Ulisses Soares, April 2022)|In Awe of Christ and His Gospel]] — Elder Ulisses Soares, 2022-April *(explicit citation)*
-- [[And They Sought to See Jesus Who He Was (Elder James W. McConkie III, October 2022)|And They Sought to See Jesus Who He Was]] — Elder James W. McConkie III, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -99,6 +99,7 @@ _Not yet developed._
 - **Camel’s hair** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **Fish** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

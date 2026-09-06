@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 46
 slug: jer-46
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ _Not yet developed._
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 - **Balm** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
+- **Euphrates** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

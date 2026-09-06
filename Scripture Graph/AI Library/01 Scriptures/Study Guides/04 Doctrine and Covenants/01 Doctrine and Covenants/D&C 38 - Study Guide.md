@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 38
 slug: dc-38
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,12 +89,12 @@ Preparation includes spiritual, social, and practical dimensions: purity, wisdom
 - [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
 - [[He Goes before Us (President Henry B. Eyring, April 2020)|He Goes before Us]] — President Henry B. Eyring, 2020-April *(explicit citation)*
 - [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
+- [[Lay Up in Store (Bishop Keith B. McMullin, April 2007)|Lay Up in Store]] — Bishop Keith B. McMullin, 2007-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[The Family Is of God (Carole M. Stephens, April 2015)|The Family Is of God]] — Carole M. Stephens, 2015-April *(explicit citation)*
 - [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
 - [[Meeting the Challenges of Today’s World (Elder Robert D. Hales, October 2015)|Meeting the Challenges of Today’s World]] — Elder Robert D. Hales, 2015-October *(explicit citation)*
-- [[Shipshape and Bristol Fashion Be Temple Worthy—in Good Times and Bad Times (Elder Quentin L. Cook, October 2015)|Shipshape and Bristol Fashion: Be Temple Worthy—in Good Times and Bad Times]] — Elder Quentin L. Cook, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

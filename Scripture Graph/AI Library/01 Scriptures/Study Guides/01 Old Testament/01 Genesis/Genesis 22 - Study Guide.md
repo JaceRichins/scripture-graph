@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 22
 slug: gen-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ Latter-day Saint and New Testament writers later read Abraham's willingness to o
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
 - [[Joseph Smith—Prophet of the Restoration (Elder Tad R. Callister, October 2009)|Joseph Smith—Prophet of the Restoration]] — Elder Tad R. Callister, 2009-October *(explicit citation)*
+- [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

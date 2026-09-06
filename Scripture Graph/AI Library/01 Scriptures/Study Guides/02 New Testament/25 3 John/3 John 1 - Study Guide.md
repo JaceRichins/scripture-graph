@@ -6,7 +6,7 @@ volume: New Testament
 book: 3 John
 chapter: 1
 slug: 3jn-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Parenting** (reference-entry) *(explicit citation)*
+- **Elders** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

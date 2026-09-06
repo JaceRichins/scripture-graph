@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 1
 slug: morm-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -70,9 +70,11 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[A Record of What I Have Both Seen and Heard (Elder Brent H. Nielson, April 2024)|A Record of What I Have Both Seen and Heard]] — Elder Brent H. Nielson, 2024-April *(explicit citation)*
 - [[Called of Him to Declare His Word (Elder Randy D. Funk, October 2013)|Called of Him to Declare His Word]] — Elder Randy D. Funk, 2013-October *(explicit citation)*
 - [[Counsel to Young Men (President Boyd K. Packer, April 2009)|Counsel to Young Men]] — President Boyd K. Packer, 2009-April *(explicit citation)*
+- [[Give Heed unto the Prophets’ Words (Elder Quentin L. Cook, April 2008)|Give Heed unto the Prophets’ Words]] — Elder Quentin L. Cook, 2008-April *(explicit citation)*
 - [[The Magnificent Aaronic Priesthood (David L. Beck, April 2010)|The Magnificent Aaronic Priesthood]] — David L. Beck, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 

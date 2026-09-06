@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 4
 slug: moro-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Sacrament** (reference-entry) *(explicit citation)*
 - **Communion** (reference-entry) *(explicit citation)*
+- **Elders** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

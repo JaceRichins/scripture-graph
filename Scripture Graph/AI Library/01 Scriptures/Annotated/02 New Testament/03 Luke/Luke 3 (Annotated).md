@@ -26,7 +26,7 @@ cssclasses:
 > [[Mark 1#^mark-1-4|≈ Mark 1:4]] · [[D&C 107#^dc-107-20|≈ D&C 107:20]]
 
 ![[Luke 3#^luke-3-4]]
-> [[Matthew 3#^matt-3-3|Matt. 3:3]] · [[Mark 1#^mark-1-3|Mark 1:3]] · [[John 1#^john-1-23|John 1:23]] · [[D&C 84#^dc-84-26|D&amp;C 84:28 (26–28)]] · [[Joseph Smith—History 1#^jsh-1-70|JS—H 1:72 (70–73)]] · [[Matthew 3#^matt-3-3|≈ Matthew 3:3]] · [[Mark 1#^mark-1-3|≈ Mark 1:3]] · [[Isaiah 40#^isa-40-3|≈ Isaiah 40:3]] · [[John 1#^john-1-23|≈ John 1:23]] · [[1 Nephi 10#^1ne-10-8|≈ 1 Nephi 10:8]]
+> [[Matthew 3#^matt-3-3|Matt. 3:3]] · [[Mark 1#^mark-1-3|Mark 1:3]] · [[John 1#^john-1-23|John 1:23]] · [[D&C 84#^dc-84-26|D&amp;C 84:28 (26–28)]] · [[Joseph Smith—History 1#^jsh-1-70|JS—H 1:72 (70–73)]] · [[Matthew 3#^matt-3-3|≈ Matthew 3:3]] · [[Mark 1#^mark-1-3|≈ Mark 1:3]] · [[John 1#^john-1-23|≈ John 1:23]] · [[Isaiah 40#^isa-40-3|≈ Isaiah 40:3]] · [[1 Nephi 10#^1ne-10-8|≈ 1 Nephi 10:8]]
 
 ![[Luke 3#^luke-3-5]]
 > [[Isaiah 40#^isa-40-4|Isa. 40:4]] · [[Helaman 14#^hel-14-23|Hel. 14:23]] · [[D&C 109#^dc-109-74|D&amp;C 109:74]] · [[Isaiah 40#^isa-40-4|≈ Isaiah 40:4]]

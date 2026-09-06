@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 17
 slug: 1kgs-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The widow's accusation associates tragedy with remembered [[Sin]], but the narra
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[Waiting on the Lord (Elder Jeffrey R. Holland, October 2020)|Waiting on the Lord]] — Elder Jeffrey R. Holland, 2020-October *(explicit citation)*
 - [[A Higher Joy (Elder Dieter F. Uchtdorf, April 2024)|A Higher Joy]] — Elder Dieter F. Uchtdorf, 2024-April *(explicit citation)*
+- [[Lay Up in Store (Bishop Keith B. McMullin, April 2007)|Lay Up in Store]] — Bishop Keith B. McMullin, 2007-April *(explicit citation)*
 - [[The Hearts of the Children Shall Turn (Elder David A. Bednar, October 2011)|The Hearts of the Children Shall Turn]] — Elder David A. Bednar, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -91,6 +92,7 @@ The widow's accusation associates tragedy with remembered [[Sin]], but the narra
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Elijah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

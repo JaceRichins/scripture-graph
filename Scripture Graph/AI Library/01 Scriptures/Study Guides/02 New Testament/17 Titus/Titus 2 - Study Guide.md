@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 2
 slug: titus-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[“Daughters in My Kingdom” The History and Work of Relief Society (Julie B. Beck, October 2010)|“Daughters in My Kingdom”: The History and Work of Relief Society]] — Julie B. Beck, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 

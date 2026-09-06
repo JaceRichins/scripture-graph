@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 82
 slug: ps-82
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 - [[The Peace of Christ Abolishes Enmity (Elder Dale G. Renlund, October 2021)|The Peace of Christ Abolishes Enmity]] — Elder Dale G. Renlund, 2021-October *(explicit citation)*
 - [[Sons and Daughters of God (Elder Rubén V. Alliaud, October 2024)|Sons and Daughters of God]] — Elder Rubén V. Alliaud, 2024-October *(explicit citation)*
 - [[Receive His Gift (Elder Patrick Kearon, April 2025)|Receive His Gift]] — Elder Patrick Kearon, 2025-April *(explicit citation)*
+- [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[Conference Report, April 1916 (General Conference (full report), April 1916)|Conference Report, April 1916]] — General Conference (full report), 1916-April *(explicit citation)*
 <!-- SG:END conference -->
 

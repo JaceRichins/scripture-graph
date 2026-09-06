@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 134
 slug: dc-134
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ These propositions connect naturally with [[Government and Laws]], [[Freedom and
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Preserving Agency, Protecting Religious Freedom (Elder Robert D. Hales, April 2015)|Preserving Agency, Protecting Religious Freedom]] — Elder Robert D. Hales, 2015-April *(explicit citation)*
+- [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[The Plan of Happiness (President Boyd K. Packer, April 2015)|The Plan of Happiness]] — President Boyd K. Packer, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 

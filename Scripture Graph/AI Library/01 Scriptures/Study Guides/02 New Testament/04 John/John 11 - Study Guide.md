@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 11
 slug: john-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ Scripture: [[John 11]] · My notes: [[John 11 - My Notes]]
 - [[3 Nephi 19]] — 2 parallel verses, e.g. [[John 11#^john-11-41|John 11:41]] ↔ [[3 Nephi 19#^3ne-19-20|3 Nephi 19:20]]
 - [[John 12]] — 0 parallel verses
 - [[John 20]] — 0 parallel verses
+- [[John 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,6 +67,7 @@ Scripture: [[John 11]] · My notes: [[John 11 - My Notes]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Passover]]
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

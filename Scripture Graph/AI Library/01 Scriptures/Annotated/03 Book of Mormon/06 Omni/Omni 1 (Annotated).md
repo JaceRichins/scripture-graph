@@ -23,7 +23,7 @@ cssclasses:
 > [[3 Nephi 4#^3ne-4-31|≈ 3 Nephi 4:31]] · [[2 Nephi 5#^2ne-5-10|≈ 2 Nephi 5:10]]
 
 ![[Omni 1#^omni-1-3]]
-> [[Jarom 1#^jarom-1-13|Jarom 1:13]] · [[Jacob 1#^jacob-1-1|Jacob 1:1 (1–4)]] · [[Jacob 7#^jacob-7-27|7:27]] · [[Jarom 1#^jarom-1-1|Jarom 1:15 (1–2, 15)]] · [[4 Nephi 1#^4ne-1-40|≈ 4 Nephi 1:40]] · [[4 Nephi 1#^4ne-1-22|≈ 4 Nephi 1:22]] · [[Jarom 1#^jarom-1-15|≈ Jarom 1:15]] · [[Jarom 1#^jarom-1-13|≈ Jarom 1:13]] · [[2 Nephi 5#^2ne-5-34|≈ 2 Nephi 5:34]]
+> [[Jarom 1#^jarom-1-13|Jarom 1:13]] · [[Jacob 1#^jacob-1-1|Jacob 1:1 (1–4)]] · [[Jacob 7#^jacob-7-27|7:27]] · [[Jarom 1#^jarom-1-1|Jarom 1:15 (1–2, 15)]] · [[Jarom 1#^jarom-1-15|≈ Jarom 1:15]] · [[Jarom 1#^jarom-1-13|≈ Jarom 1:13]] · [[2 Nephi 5#^2ne-5-34|≈ 2 Nephi 5:34]] · [[4 Nephi 1#^4ne-1-40|≈ 4 Nephi 1:40]] · [[4 Nephi 1#^4ne-1-22|≈ 4 Nephi 1:22]]
 
 ![[Omni 1#^omni-1-4]]
 
@@ -31,7 +31,7 @@ cssclasses:
 > [[Jarom 1#^jarom-1-10|Jarom 1:10]] · [[4 Nephi 1#^4ne-1-40|≈ 4 Nephi 1:40]] · [[4 Nephi 1#^4ne-1-48|≈ 4 Nephi 1:48]]
 
 ![[Omni 1#^omni-1-6]]
-> [[Jarom 1#^jarom-1-9|Jarom 1:9]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Deuteronomy 28#^deut-28-29|Deut. 28:29]] · [[3 Nephi 4#^3ne-4-31|≈ 3 Nephi 4:31]] · [[Mosiah 10#^mosiah-10-2|≈ Mosiah 10:2]] · [[Mosiah 2#^mosiah-2-4|≈ Mosiah 2:4]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[2 Nephi 1#^2ne-1-20|≈ 2 Nephi 1:20]] · [[2 Nephi 4#^2ne-4-4|≈ 2 Nephi 4:4]]
+> [[Jarom 1#^jarom-1-9|Jarom 1:9]] · [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]] · [[Deuteronomy 28#^deut-28-29|Deut. 28:29]] · [[Jarom 1#^jarom-1-9|≈ Jarom 1:9]] · [[3 Nephi 4#^3ne-4-31|≈ 3 Nephi 4:31]] · [[Mosiah 10#^mosiah-10-2|≈ Mosiah 10:2]] · [[Mosiah 2#^mosiah-2-4|≈ Mosiah 2:4]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[2 Nephi 1#^2ne-1-20|≈ 2 Nephi 1:20]]
 
 ![[Omni 1#^omni-1-7]]
 > [[Alma 2#^alma-2-28|≈ Alma 2:28]] · [[3 Nephi 4#^3ne-4-8|≈ 3 Nephi 4:8]] · [[3 Nephi 4#^3ne-4-33|≈ 3 Nephi 4:33]] · [[Mosiah 2#^mosiah-2-4|≈ Mosiah 2:4]] · [[Alma 62#^alma-62-50|≈ Alma 62:50]] · [[Alma 9#^alma-9-10|≈ Alma 9:10]]

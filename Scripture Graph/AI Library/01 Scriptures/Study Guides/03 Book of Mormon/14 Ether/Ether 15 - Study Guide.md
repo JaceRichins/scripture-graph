@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 15
 slug: ether-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ Scripture: [[Ether 15]] · My notes: [[Ether 15 - My Notes]]
 - [[Alma 57]] — 1 parallel verse, e.g. [[Ether 15#^ether-15-17|Ether 15:17]] ↔ [[Alma 57#^alma-57-17|Alma 57:17]]
 - [[1 Nephi 22]] — 1 parallel verse, e.g. [[Ether 15#^ether-15-19|Ether 15:19]] ↔ [[1 Nephi 22#^1ne-22-26|1 Nephi 22:26]]
 - [[Mormon 6]] — 0 parallel verses
+- [[Ether 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

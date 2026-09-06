@@ -41,7 +41,7 @@ cssclasses:
 ![[Ether 14#^ether-14-10]]
 
 ![[Ether 14#^ether-14-11]]
-> [[Alma 1#^alma-1-1|≈ Alma 1:1]] · [[Alma 1#^alma-1-2|≈ Alma 1:2]] · [[Ether 13#^ether-13-18|≈ Ether 13:18]]
+> [[Ether 13#^ether-13-18|≈ Ether 13:18]] · [[Alma 1#^alma-1-1|≈ Alma 1:1]] · [[Alma 1#^alma-1-2|≈ Alma 1:2]]
 
 ![[Ether 14#^ether-14-12]]
 

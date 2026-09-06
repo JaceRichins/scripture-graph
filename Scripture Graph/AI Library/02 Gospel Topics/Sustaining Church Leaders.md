@@ -39,6 +39,8 @@ _Not yet developed._
 - [[1 Thessalonians 5]]
 - [[D&C 30]]
 - [[D&C 102]]
+- [[D&C 21]]
+- [[D&C 6]]
 - [[D&C 35]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 

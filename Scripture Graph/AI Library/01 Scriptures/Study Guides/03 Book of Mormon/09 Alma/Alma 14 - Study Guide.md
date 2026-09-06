@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 14
 slug: alma-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -65,9 +65,9 @@ Alma 14 traces sharply divided responses to prophetic preaching. Some people bel
 - [[Scripture Study]]
 - [[Final Judgment]]
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 42
 slug: alma-42
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ Its account of [[Justice and Mercy]] is complementary rather than competitive. J
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
 - [[Do You Know Why I as a Christian Believe in Christ (Elder Ahmad S. Corbitt, April 2023)|Do You Know Why I as a Christian Believe in Christ?]] — Elder Ahmad S. Corbitt, 2023-April *(explicit citation)*
 - [[God’s Intent Is to Bring You Home (Elder Patrick Kearon, April 2024)|God’s Intent Is to Bring You Home]] — Elder Patrick Kearon, 2024-April *(explicit citation)*
@@ -92,7 +93,6 @@ Its account of [[Justice and Mercy]] is complementary rather than competitive. J
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
 - [[The Plan of Mercy (Elder James R. Rasband, April 2025)|The Plan of Mercy]] — Elder James R. Rasband, 2025-April *(explicit citation)*
-- [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

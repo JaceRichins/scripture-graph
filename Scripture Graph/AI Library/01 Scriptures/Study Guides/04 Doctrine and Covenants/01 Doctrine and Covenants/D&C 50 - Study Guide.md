@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 50
 slug: dc-50
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -96,11 +96,11 @@ The final reassurance does not erase the need for growth. The hearers are Christ
 - [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
 - [[Teaching after the Manner of the Spirit (Matthew O. Richardson, October 2011)|Teaching after the Manner of the Spirit]] — Matthew O. Richardson, 2011-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[Nourished by the Good Word of God (Daniel K Judd, October 2007)|Nourished by the Good Word of God]] — Daniel K Judd, 2007-October *(explicit citation)*
 - [[Be Not Afraid, Only Believe (President Dieter F. Uchtdorf, October 2015)|Be Not Afraid, Only Believe]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[Choose the Light (Elder Vern P. Stanfill, October 2015)|Choose the Light]] — Elder Vern P. Stanfill, 2015-October *(explicit citation)*
 - [[Your Next Step (Elder Randall K. Bennett, October 2015)|Your Next Step]] — Elder Randall K. Bennett, 2015-October *(explicit citation)*
 - [[Always Retain a Remission of Your Sins (Elder David A. Bednar, April 2016)|Always Retain a Remission of Your Sins]] — Elder David A. Bednar, 2016-April *(explicit citation)*
-- [[Am I Good Enough Will I Make It (Elder J. Devn Cornish, October 2016)|Am I Good Enough? Will I Make It?]] — Elder J. Devn Cornish, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

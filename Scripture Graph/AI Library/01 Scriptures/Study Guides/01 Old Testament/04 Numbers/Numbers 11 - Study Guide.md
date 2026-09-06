@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 11
 slug: num-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Suicide** (reference-entry) *(explicit citation)*
+- **Eldad and Medad** (reference-entry) *(explicit citation)*
+- **Elders** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

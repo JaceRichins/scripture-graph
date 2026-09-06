@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 5
 slug: jacob-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,11 +57,11 @@ _Not yet developed._
 - [[Mormon 8]] — 3 parallel verses, e.g. [[Jacob 5#^jacob-5-42|Jacob 5:42]] ↔ [[Mormon 8#^morm-8-21|Mormon 8:21]]
 - [[Jacob 6]] — 3 parallel verses, e.g. [[Jacob 5#^jacob-5-42|Jacob 5:42]] ↔ [[Jacob 6#^jacob-6-7|Jacob 6:7]]
 - [[D&C 97]] — 3 parallel verses, e.g. [[Jacob 5#^jacob-5-42|Jacob 5:42]] ↔ [[D&C 97#^dc-97-7|D&C 97:7]]
+- [[Helaman 14]] — 3 parallel verses, e.g. [[Jacob 5#^jacob-5-46|Jacob 5:46]] ↔ [[Helaman 14#^hel-14-18|Helaman 14:18]]
+- [[Matthew 3]] — 3 parallel verses, e.g. [[Jacob 5#^jacob-5-42|Jacob 5:42]] ↔ [[Matthew 3#^matt-3-10|Matthew 3:10]]
 - [[Matthew 7]] — 3 parallel verses, e.g. [[Jacob 5#^jacob-5-42|Jacob 5:42]] ↔ [[Matthew 7#^matt-7-19|Matthew 7:19]]
 - [[Luke 3]] — 3 parallel verses, e.g. [[Jacob 5#^jacob-5-42|Jacob 5:42]] ↔ [[Luke 3#^luke-3-9|Luke 3:9]]
 - [[3 Nephi 14]] — 3 parallel verses, e.g. [[Jacob 5#^jacob-5-42|Jacob 5:42]] ↔ [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]]
-- [[Romans 11]] — 0 parallel verses
-- [[Isaiah 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +70,7 @@ _Not yet developed._
 - [[Jews and Gentiles]]
 - [[Final Judgment]]
 - [[Jacob 6]]
+- [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

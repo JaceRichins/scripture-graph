@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 2
 slug: amos-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 - [[Amos 7]] — 0 parallel verses
 - [[Amos 5]] — 0 parallel verses
 - [[Hosea 8]] — 0 parallel verses
+- [[Amos 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

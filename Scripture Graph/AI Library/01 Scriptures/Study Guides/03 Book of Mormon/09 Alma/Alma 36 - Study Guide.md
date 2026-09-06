@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 36
 slug: alma-36
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 3
 slug: 2pet-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,8 @@ _Not yet developed._
 - [[Jude 1]] — 0 parallel verses
 - [[Abraham 3]] — 0 parallel verses
 - [[3 Nephi 26]] — 0 parallel verses
+- [[Isaiah 65]] — 0 parallel verses
+- [[Jude 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,6 +81,7 @@ Verse 9 expresses God's unwillingness that any perish, but it does not specify t
 - [[God’s Intent Is to Bring You Home (Elder Patrick Kearon, April 2024)|God’s Intent Is to Bring You Home]] — Elder Patrick Kearon, 2024-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Never Leave Him (Elder Neil L. Andersen, October 2010)|Never Leave Him]] — Elder Neil L. Andersen, 2010-October *(explicit citation)*
+- [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

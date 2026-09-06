@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 3
 slug: ezek-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,10 @@ _Not yet developed._
 - [[Revelation 10]] — 1 footnote cross-reference (from [[Ezekiel 3#^ezek-3-3|Ezekiel 3:3]])
 - [[Matthew 11]] — 1 footnote cross-reference (from [[Ezekiel 3#^ezek-3-6|Ezekiel 3:6]])
 - [[Ezekiel 18]] — 1 footnote cross-reference (from [[Ezekiel 3#^ezek-3-20|Ezekiel 3:20]])
+- [[Ezekiel 33]] — 8 parallel verses, e.g. [[Ezekiel 3#^ezek-3-18|Ezekiel 3:18]] ↔ [[Ezekiel 33#^ezek-33-8|Ezekiel 33:8]]
 - [[Ezekiel 2]] — 14 parallel verses, e.g. [[Ezekiel 3#^ezek-3-9|Ezekiel 3:9]] ↔ [[Ezekiel 2#^ezek-2-6|Ezekiel 2:6]]
 - [[Ezekiel 37]] — 11 parallel verses, e.g. [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]
+- [[Ezekiel 43]] — 8 parallel verses, e.g. [[Ezekiel 3#^ezek-3-1|Ezekiel 3:1]] ↔ [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]]
 - [[Ezekiel 4]] — 4 parallel verses, e.g. [[Ezekiel 3#^ezek-3-1|Ezekiel 3:1]] ↔ [[Ezekiel 4#^ezek-4-16|Ezekiel 4:16]]
 - [[Ezekiel 10]] — 4 parallel verses, e.g. [[Ezekiel 3#^ezek-3-23|Ezekiel 3:23]] ↔ [[Ezekiel 10#^ezek-10-22|Ezekiel 10:22]]
 - [[Ezekiel 47]] — 4 parallel verses, e.g. [[Ezekiel 3#^ezek-3-1|Ezekiel 3:1]] ↔ [[Ezekiel 47#^ezek-47-6|Ezekiel 47:6]]
@@ -61,9 +63,7 @@ _Not yet developed._
 - [[Jeremiah 25]] — 2 parallel verses, e.g. [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 - [[Jeremiah 26]] — 1 parallel verse, e.g. [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]] ↔ [[Jeremiah 26#^jer-26-4|Jeremiah 26:4]]
 - [[Jeremiah 8]] — 1 parallel verse, e.g. [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]] ↔ [[Jeremiah 8#^jer-8-4|Jeremiah 8:4]]
-- [[Ezekiel 33]] — 0 parallel verses
 - [[Ezekiel 2]] — 0 parallel verses
-- [[Ezekiel 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,6 +91,7 @@ The four cases also show that prior moral status does not make later conduct irr
 <!-- SG:BEGIN history -->
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
+- **Ezekiel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

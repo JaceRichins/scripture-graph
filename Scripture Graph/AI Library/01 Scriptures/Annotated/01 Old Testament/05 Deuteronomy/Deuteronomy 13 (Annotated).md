@@ -27,7 +27,7 @@ cssclasses:
 ![[Deuteronomy 13#^deut-13-4]]
 
 ![[Deuteronomy 13#^deut-13-5]]
-> [[Deuteronomy 5#^deut-5-15|≈ Deuteronomy 5:15]] · [[Leviticus 19#^lev-19-36|≈ Leviticus 19:36]] · [[Numbers 15#^num-15-41|≈ Numbers 15:41]] · [[Deuteronomy 7#^deut-7-8|≈ Deuteronomy 7:8]] · [[Deuteronomy 19#^deut-19-19|≈ Deuteronomy 19:19]]
+> [[Deuteronomy 19#^deut-19-19|≈ Deuteronomy 19:19]] · [[Deuteronomy 5#^deut-5-15|≈ Deuteronomy 5:15]] · [[Leviticus 19#^lev-19-36|≈ Leviticus 19:36]] · [[Numbers 15#^num-15-41|≈ Numbers 15:41]] · [[Deuteronomy 7#^deut-7-8|≈ Deuteronomy 7:8]]
 
 ![[Deuteronomy 13#^deut-13-6]]
 > [[Exodus 32#^ex-32-29|Ex. 32:29]]
@@ -42,7 +42,7 @@ cssclasses:
 > [[Deuteronomy 17#^deut-17-7|Deut. 17:7]] · [[Deuteronomy 17#^deut-17-7|≈ Deuteronomy 17:7]]
 
 ![[Deuteronomy 13#^deut-13-10]]
-> [[Deuteronomy 5#^deut-5-6|≈ Deuteronomy 5:6]] · [[Psalm 81#^ps-81-10|≈ Psalm 81:10]] · [[Deuteronomy 6#^deut-6-12|≈ Deuteronomy 6:12]] · [[Deuteronomy 8#^deut-8-14|≈ Deuteronomy 8:14]] · [[Joshua 24#^josh-24-17|≈ Joshua 24:17]] · [[Deuteronomy 21#^deut-21-21|≈ Deuteronomy 21:21]]
+> [[Deuteronomy 6#^deut-6-12|≈ Deuteronomy 6:12]] · [[Deuteronomy 8#^deut-8-14|≈ Deuteronomy 8:14]] · [[Deuteronomy 5#^deut-5-6|≈ Deuteronomy 5:6]] · [[Psalm 81#^ps-81-10|≈ Psalm 81:10]] · [[Joshua 24#^josh-24-17|≈ Joshua 24:17]] · [[Deuteronomy 21#^deut-21-21|≈ Deuteronomy 21:21]]
 
 ![[Deuteronomy 13#^deut-13-11]]
 > [[Deuteronomy 17#^deut-17-13|Deut. 17:13]] · [[Deuteronomy 21#^deut-21-21|≈ Deuteronomy 21:21]]
@@ -65,4 +65,4 @@ cssclasses:
 > [[Numbers 25#^num-25-4|Num. 25:4]] · [[Deuteronomy 19#^deut-19-8|≈ Deuteronomy 19:8]]
 
 ![[Deuteronomy 13#^deut-13-18]]
-> [[Exodus 15#^ex-15-26|≈ Exodus 15:26]] · [[Deuteronomy 6#^deut-6-2|≈ Deuteronomy 6:2]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 7#^deut-7-11|≈ Deuteronomy 7:11]] · [[Deuteronomy 21#^deut-21-9|≈ Deuteronomy 21:9]] · [[Deuteronomy 15#^deut-15-5|≈ Deuteronomy 15:5]]
+> [[Deuteronomy 6#^deut-6-2|≈ Deuteronomy 6:2]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 19#^deut-19-9|≈ Deuteronomy 19:9]] · [[Exodus 15#^ex-15-26|≈ Exodus 15:26]] · [[Deuteronomy 7#^deut-7-11|≈ Deuteronomy 7:11]] · [[Deuteronomy 21#^deut-21-9|≈ Deuteronomy 21:9]]

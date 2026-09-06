@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 21
 slug: isa-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1842-07-15 (Vol. 3 No. 18)** (periodical, 1842-07-15) *(explicit citation)*
+- **Elam** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

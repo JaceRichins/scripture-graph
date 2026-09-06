@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 3
 slug: james-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Proverbs 16]] — 1 footnote cross-reference (from [[James 3#^james-3-6|James 3:6]])
 - [[Mark 7]] — 1 footnote cross-reference (from [[James 3#^james-3-6|James 3:6]])
 - [[Alma 12]] — 1 footnote cross-reference (from [[James 3#^james-3-6|James 3:6]])
+- [[James 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -59,6 +60,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
+- [[The Tongue of Angels (Elder Jeffrey R. Holland, April 2007)|The Tongue of Angels]] — Elder Jeffrey R. Holland, 2007-April *(explicit citation)*
 - [[The Answer Is Jesus (Elder Ryan K. Olsen, October 2022)|The Answer Is Jesus]] — Elder Ryan K. Olsen, 2022-October *(explicit citation)*
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
@@ -69,6 +71,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Conversation** (reference-entry) *(explicit citation)*
+- **Gehenna** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 11
 slug: neh-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

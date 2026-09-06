@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 24
 slug: isa-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,16 +52,16 @@ _Not yet developed._
 - [[Ezekiel 7]] — 1 footnote cross-reference (from [[Isaiah 24#^isa-24-2|Isaiah 24:2]])
 - [[Revelation 17]] — 1 footnote cross-reference (from [[Isaiah 24#^isa-24-6|Isaiah 24:6]])
 - [[Hosea 2]] — 1 footnote cross-reference (from [[Isaiah 24#^isa-24-8|Isaiah 24:8]])
+- [[Jeremiah 48]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-18|Isaiah 24:18]] ↔ [[Jeremiah 48#^jer-48-44|Jeremiah 48:44]]
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
+- [[Isaiah 27]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
 - [[2 Nephi 24]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
+- [[Zechariah 14]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
 - [[Isaiah 10]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[2 Nephi 20]] — 2 parallel verses, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
 - [[Isaiah 11]] — 1 parallel verse, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
 - [[2 Nephi 17]] — 1 parallel verse, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
 - [[2 Nephi 21]] — 1 parallel verse, e.g. [[Isaiah 24#^isa-24-21|Isaiah 24:21]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
-- [[Isaiah 27]] — 0 parallel verses
-- [[Zechariah 14]] — 0 parallel verses
-- [[Jeremiah 48]] — 0 parallel verses
 - [[D&C 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -79,6 +79,7 @@ The chapter binds [[Sin]] to accountability: the world's disorder is not portray
 <!-- SG:BEGIN conference -->
 - [[Saving Ordinances Will Bring Us Marvelous Light (Elder Taniela B. Wakolo, April 2018)|Saving Ordinances Will Bring Us Marvelous Light]] — Elder Taniela B. Wakolo, 2018-April *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
+- [[The Stone Cut Out of the Mountain (President Gordon B. Hinckley, October 2007)|The Stone Cut Out of the Mountain]] — President Gordon B. Hinckley, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

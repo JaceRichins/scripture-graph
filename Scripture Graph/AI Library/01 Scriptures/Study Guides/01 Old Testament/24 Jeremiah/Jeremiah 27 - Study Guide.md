@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 27
 slug: jer-27
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

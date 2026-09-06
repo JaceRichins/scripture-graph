@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 24
 slug: josh-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -103,7 +103,7 @@ These features clearly form a covenant-renewal sequence. Comparisons with ancien
 - [[Be Your Best Self (President Thomas S. Monson, April 2009)|Be Your Best Self]] — President Thomas S. Monson, 2009-April *(explicit citation)*
 - [[Until We Meet Again (President Thomas S. Monson, April 2009)|Until We Meet Again]] — President Thomas S. Monson, 2009-April *(explicit citation)*
 - [[“Daughters in My Kingdom” The History and Work of Relief Society (Julie B. Beck, October 2010)|“Daughters in My Kingdom”: The History and Work of Relief Society]] — Julie B. Beck, 2010-October *(explicit citation)*
-- [[This Is Our Time! (Elder S. Gifford Nielsen, April 2021)|This Is Our Time!]] — Elder S. Gifford Nielsen, 2021-April *(explicit citation)*
+- [[This Day (Elder Henry B. Eyring, April 2007)|This Day]] — Elder Henry B. Eyring, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -114,6 +114,7 @@ These features clearly form a covenant-renewal sequence. Comparisons with ancien
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Balaam** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
+- **Eleazar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

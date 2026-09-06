@@ -46,7 +46,7 @@ cssclasses:
 > [[Alma 44#^alma-44-7|Alma 44:7]] · [[Alma 57#^alma-57-19|57:19]]
 
 ![[Alma 62#^alma-62-12]]
-> [[Helaman 1#^hel-1-1|≈ Helaman 1:1]] · [[Alma 63#^alma-63-1|≈ Alma 63:1]] · [[Helaman 11#^hel-11-30|≈ Helaman 11:30]] · [[Alma 4#^alma-4-11|≈ Alma 4:11]] · [[Alma 45#^alma-45-20|≈ Alma 45:20]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]]
+> [[Helaman 1#^hel-1-1|≈ Helaman 1:1]] · [[Alma 63#^alma-63-1|≈ Alma 63:1]] · [[Helaman 11#^hel-11-30|≈ Helaman 11:30]] · [[Alma 45#^alma-45-20|≈ Alma 45:20]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]] · [[Alma 50#^alma-50-17|≈ Alma 50:17]]
 
 ![[Alma 62#^alma-62-13]]
 
@@ -145,7 +145,7 @@ cssclasses:
 > [[Alma 50#^alma-50-20|Alma 50:20]] · [[Helaman 11#^hel-11-20|≈ Helaman 11:20]]
 
 ![[Alma 62#^alma-62-49]]
-> [[Alma 55#^alma-55-31|Alma 55:31]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[Alma 4#^alma-4-6|≈ Alma 4:6]] · [[Alma 4#^alma-4-8|≈ Alma 4:8]] · [[Alma 1#^alma-1-32|≈ Alma 1:32]] · [[Alma 55#^alma-55-31|≈ Alma 55:31]]
+> [[Alma 55#^alma-55-31|Alma 55:31]] · [[Mosiah 11#^mosiah-11-5|≈ Mosiah 11:5]] · [[Mosiah 11#^mosiah-11-19|≈ Mosiah 11:19]] · [[Alma 1#^alma-1-32|≈ Alma 1:32]] · [[Alma 4#^alma-4-6|≈ Alma 4:6]] · [[Alma 4#^alma-4-8|≈ Alma 4:8]] · [[Alma 55#^alma-55-31|≈ Alma 55:31]]
 
 ![[Alma 62#^alma-62-50]]
 > [[2 Corinthians 11#^2cor-11-24|2 Cor. 11:26 (24–33)]] · [[Omni 1#^omni-1-7|≈ Omni 1:7]] · [[Mosiah 2#^mosiah-2-4|≈ Mosiah 2:4]] · [[Mormon 3#^morm-3-13|≈ Mormon 3:13]] · [[Ether 6#^ether-6-30|≈ Ether 6:30]] · [[Alma 45#^alma-45-1|≈ Alma 45:1]] · [[Alma 2#^alma-2-28|≈ Alma 2:28]]

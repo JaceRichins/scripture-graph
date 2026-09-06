@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 21
 slug: gen-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ The last two movements are joined by water and divine-presence language: a well 
 - [[Galatians 4]] — 1 parallel verse, e.g. [[Genesis 21#^gen-21-10|Genesis 21:10]] ↔ [[Galatians 4#^gal-4-30|Galatians 4:30]]
 - [[Genesis 22]] — 1 parallel verse, e.g. [[Genesis 21#^gen-21-14|Genesis 21:14]] ↔ [[Genesis 22#^gen-22-3|Genesis 22:3]]
 - [[Genesis 16]] — 0 parallel verses
+- [[Genesis 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,12 +76,13 @@ Human [[Covenants]] also matter. Abraham and Abimelech address mistrust through 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Beersheba** (reference-entry) *(explicit citation)*
+- **Genesis** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 24
 slug: luke-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[Acts 1]] — 0 parallel verses
 - [[Acts 17]] — 0 parallel verses
 - [[Acts 26]] — 0 parallel verses
+- [[John 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

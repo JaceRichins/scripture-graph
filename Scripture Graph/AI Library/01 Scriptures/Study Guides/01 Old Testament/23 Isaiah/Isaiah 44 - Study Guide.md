@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 44
 slug: isa-44
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ The central contrast is between the LORD who forms Israel and makes all things, 
 - [[Deuteronomy 4]] — 0 parallel verses
 - [[Jeremiah 10]] — 0 parallel verses
 - [[Isaiah 41]] — 0 parallel verses
+- [[Isaiah 45]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 8
 slug: luke-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,8 @@ _Not yet developed._
 - **Brethren of the Lord** (reference-entry) *(explicit citation)*
 - **Burial** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **Gadara** (reference-entry) *(explicit citation)*
+- **Galilee, Sea of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

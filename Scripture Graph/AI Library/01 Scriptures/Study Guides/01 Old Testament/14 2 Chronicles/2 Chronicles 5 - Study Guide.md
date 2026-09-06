@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 5
 slug: 2chr-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Temples** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

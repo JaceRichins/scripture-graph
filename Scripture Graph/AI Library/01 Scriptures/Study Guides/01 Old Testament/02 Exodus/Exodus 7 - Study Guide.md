@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 7
 slug: ex-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,18 +50,18 @@ Exodus 7 moves from commission to confrontation. Moses and Aaron receive defined
 - [[Nehemiah 9]] — 1 footnote cross-reference (from [[Exodus 7#^ex-7-5|Exodus 7:5]])
 - [[Exodus 8]] — 1 footnote cross-reference (from [[Exodus 7#^ex-7-5|Exodus 7:5]])
 - [[Deuteronomy 31]] — 1 footnote cross-reference (from [[Exodus 7#^ex-7-7|Exodus 7:7]])
+- [[Exodus 8]] — 8 parallel verses, e.g. [[Exodus 7#^ex-7-13|Exodus 7:13]] ↔ [[Exodus 8#^ex-8-19|Exodus 8:19]]
+- [[Exodus 9]] — 3 parallel verses, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 9#^ex-9-1|Exodus 9:1]]
 - [[Exodus 6]] — 4 parallel verses, e.g. [[Exodus 7#^ex-7-4|Exodus 7:4]] ↔ [[Exodus 6#^ex-6-13|Exodus 6:13]]
+- [[Exodus 14]] — 3 parallel verses, e.g. [[Exodus 7#^ex-7-5|Exodus 7:5]] ↔ [[Exodus 14#^ex-14-18|Exodus 14:18]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 3#^ex-3-18|Exodus 3:18]]
 - [[Numbers 4]] — 2 parallel verses, e.g. [[Exodus 7#^ex-7-8|Exodus 7:8]] ↔ [[Numbers 4#^num-4-1|Numbers 4:1]]
 - [[Exodus 10]] — 1 parallel verse, e.g. [[Exodus 7#^ex-7-16|Exodus 7:16]] ↔ [[Exodus 10#^ex-10-3|Exodus 10:3]]
 - [[Exodus 12]] — 1 parallel verse, e.g. [[Exodus 7#^ex-7-4|Exodus 7:4]] ↔ [[Exodus 12#^ex-12-51|Exodus 12:51]]
-- [[Exodus 8]] — 0 parallel verses
-- [[Exodus 9]] — 0 parallel verses
 - [[Exodus 4]] — 0 parallel verses
 - [[Exodus 9]] — 0 parallel verses
 - [[Exodus 8]] — 0 parallel verses
 - [[Revelation 11]] — 0 parallel verses
-- [[2 Timothy 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

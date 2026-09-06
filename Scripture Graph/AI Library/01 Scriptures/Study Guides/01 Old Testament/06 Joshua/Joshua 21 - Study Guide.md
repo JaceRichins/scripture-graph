@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 21
 slug: josh-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Benjamin** (reference-entry) *(explicit citation)*
 - **Caleb** (reference-entry) *(explicit citation)*
+- **Galilee** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

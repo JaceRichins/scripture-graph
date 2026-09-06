@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 6
 slug: ezra-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

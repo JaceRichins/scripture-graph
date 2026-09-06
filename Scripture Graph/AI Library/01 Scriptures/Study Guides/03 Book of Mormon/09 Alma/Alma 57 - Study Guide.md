@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 57
 slug: alma-57
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[Alma 30]] — 1 parallel verse, e.g. [[Alma 57#^alma-57-6|Alma 57:6]] ↔ [[Alma 30#^alma-30-5|Alma 30:5]]
 - [[3 Nephi 1]] — 1 parallel verse, e.g. [[Alma 57#^alma-57-6|Alma 57:6]] ↔ [[3 Nephi 1#^3ne-1-4|3 Nephi 1:4]]
 - [[Alma 54]] — 1 parallel verse, e.g. [[Alma 57#^alma-57-6|Alma 57:6]] ↔ [[Alma 54#^alma-54-1|Alma 54:1]]
+- [[Alma 58]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

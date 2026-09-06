@@ -44,7 +44,7 @@ cssclasses:
 > [[Mosiah 14#^mosiah-14-5|Mosiah 14:5 (5–12)]]
 
 ![[Mosiah 15#^mosiah-15-10]]
-> [[Isaiah 53#^isa-53-8|Isa. 53:8]] · [[Leviticus 6#^lev-6-25|Lev. 6:25 (25–26)]] · [[Isaiah 53#^isa-53-10|Isa. 53:10]] · [[Mosiah 5#^mosiah-5-7|Mosiah 5:7]] · [[Mosiah 27#^mosiah-27-25|27:25]] · [[Moroni 7#^moro-7-19|Moro. 7:19]] · [[Mosiah 14#^mosiah-14-10|≈ Mosiah 14:10]] · [[Isaiah 53#^isa-53-10|≈ Isaiah 53:10]]
+> [[Isaiah 53#^isa-53-8|Isa. 53:8]] · [[Leviticus 6#^lev-6-25|Lev. 6:25 (25–26)]] · [[Isaiah 53#^isa-53-10|Isa. 53:10]] · [[Mosiah 5#^mosiah-5-7|Mosiah 5:7]] · [[Mosiah 27#^mosiah-27-25|27:25]] · [[Moroni 7#^moro-7-19|Moro. 7:19]] · [[Isaiah 53#^isa-53-10|≈ Isaiah 53:10]] · [[Mosiah 14#^mosiah-14-10|≈ Mosiah 14:10]]
 
 ![[Mosiah 15#^mosiah-15-11]]
 > [[Luke 10#^luke-10-16|Luke 10:16]] · [[D&C 84#^dc-84-36|D&amp;C 84:36 (36–38)]]
@@ -73,7 +73,7 @@ cssclasses:
 > [[Mosiah 4#^mosiah-4-6|Mosiah 4:6]] · [[2 Nephi 9#^2ne-9-6|2 Ne. 9:7 (6–13)]] · [[Mosiah 4#^mosiah-4-7|≈ Mosiah 4:7]] · [[D&C 105#^dc-105-2|≈ D&C 105:2]]
 
 ![[Mosiah 15#^mosiah-15-20]]
-> [[Alma 40#^alma-40-3|≈ Alma 40:3]] · [[Mosiah 13#^mosiah-13-35|≈ Mosiah 13:35]] · [[Mormon 7#^morm-7-6|≈ Mormon 7:6]]
+> [[Mosiah 13#^mosiah-13-35|≈ Mosiah 13:35]] · [[Alma 40#^alma-40-3|≈ Alma 40:3]] · [[Mormon 7#^morm-7-6|≈ Mormon 7:6]]
 
 ![[Mosiah 15#^mosiah-15-21]]
 > [[Jacob 4#^jacob-4-11|Jacob 4:11]] · [[Alma 40#^alma-40-16|Alma 40:16 (16–21)]]

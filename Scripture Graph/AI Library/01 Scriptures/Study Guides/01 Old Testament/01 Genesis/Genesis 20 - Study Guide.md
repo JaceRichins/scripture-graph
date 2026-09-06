@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 20
 slug: gen-20
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,8 @@ _Not yet developed._
 - [[Genesis 16]] — 1 footnote cross-reference (from [[Genesis 20#^gen-20-1|Genesis 20:1]])
 - [[Genesis 10]] — 1 footnote cross-reference (from [[Genesis 20#^gen-20-1|Genesis 20:1]])
 - [[Genesis 21]] — 1 footnote cross-reference (from [[Genesis 20#^gen-20-2|Genesis 20:2]])
+- [[Genesis 12]] — 0 parallel verses
+- [[Genesis 26]] — 0 parallel verses
 - [[Genesis 12]] — 0 parallel verses
 - [[Genesis 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->

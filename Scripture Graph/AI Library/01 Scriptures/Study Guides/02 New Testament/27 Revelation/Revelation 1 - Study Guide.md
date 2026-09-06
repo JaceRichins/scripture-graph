@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 1
 slug: rev-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ _Not yet developed._
 - **43 A Public Nuisance** (history) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

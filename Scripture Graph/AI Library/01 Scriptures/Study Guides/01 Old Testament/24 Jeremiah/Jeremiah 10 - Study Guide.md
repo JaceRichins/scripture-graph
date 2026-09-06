@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 10
 slug: jer-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

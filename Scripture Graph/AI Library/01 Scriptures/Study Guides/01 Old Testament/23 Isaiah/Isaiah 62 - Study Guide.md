@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 62
 slug: isa-62
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Isaiah 40]] — 0 parallel verses
 - [[Isaiah 60]] — 0 parallel verses
 - [[Isaiah 61]] — 0 parallel verses
+- [[Isaiah 57]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

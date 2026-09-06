@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 7
 slug: hel-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ Scripture: [[Helaman 7]] · My notes: [[Helaman 7 - My Notes]]
 - [[Alma 9]] — 3 parallel verses, e.g. [[Helaman 7#^hel-7-28|Helaman 7:28]] ↔ [[Alma 9#^alma-9-24|Alma 9:24]]
 - [[Alma 5]] — 2 parallel verses, e.g. [[Helaman 7#^hel-7-18|Helaman 7:18]] ↔ [[Alma 5#^alma-5-38|Alma 5:38]]
 - [[Helaman 4]] — 2 parallel verses, e.g. [[Helaman 7#^hel-7-2|Helaman 7:2]] ↔ [[Helaman 4#^hel-4-14|Helaman 4:14]]
+- [[Jacob 3]] — 1 parallel verse, e.g. [[Helaman 7#^hel-7-24|Helaman 7:24]] ↔ [[Jacob 3#^jacob-3-5|Jacob 3:5]]
 - [[Helaman 5]] — 1 parallel verse, e.g. [[Helaman 7#^hel-7-7|Helaman 7:7]] ↔ [[Helaman 5#^hel-5-6|Helaman 5:6]]
 <!-- SG:END related-scriptures -->
 
@@ -86,6 +87,8 @@ Helaman 7 also treats public injustice as spiritual sin. [[Government and Laws]]
 - [[Spiritual Whirlwinds (Elder Neil L. Andersen, April 2014)|Spiritual Whirlwinds]] — Elder Neil L. Andersen, 2014-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[“Repent … That I May Heal You” (Elder Neil L. Andersen, October 2009)|“Repent … That I May Heal You”]] — Elder Neil L. Andersen, 2009-October *(explicit citation)*
+- [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
+- [[The Spirit of the Tabernacle (President Boyd K. Packer, April 2007)|The Spirit of the Tabernacle]] — President Boyd K. Packer, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

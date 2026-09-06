@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 11
 slug: deut-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,18 +49,18 @@ _Not yet developed._
 - [[D&C 8]] — 2 footnote cross-references (from [[Deuteronomy 11#^deut-11-4|Deuteronomy 11:4]])
 - [[Exodus 20]] — 2 footnote cross-references (from [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]])
 - [[Deuteronomy 28]] — 2 footnote cross-references (from [[Deuteronomy 11#^deut-11-14|Deuteronomy 11:14]])
+- [[Deuteronomy 6]] — 6 parallel verses, e.g. [[Deuteronomy 11#^deut-11-19|Deuteronomy 11:19]] ↔ [[Deuteronomy 6#^deut-6-7|Deuteronomy 6:7]]
 - [[Numbers 16]] — 5 parallel verses, e.g. [[Deuteronomy 11#^deut-11-6|Deuteronomy 11:6]] ↔ [[Numbers 16#^num-16-32|Numbers 16:32]]
+- [[Deuteronomy 4]] — 5 parallel verses, e.g. [[Deuteronomy 11#^deut-11-27|Deuteronomy 11:27]] ↔ [[Deuteronomy 4#^deut-4-2|Deuteronomy 4:2]]
 - [[Joshua 22]] — 2 parallel verses, e.g. [[Deuteronomy 11#^deut-11-13|Deuteronomy 11:13]] ↔ [[Joshua 22#^josh-22-5|Joshua 22:5]]
+- [[Deuteronomy 28]] — 4 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]]
+- [[Deuteronomy 30]] — 4 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 30#^deut-30-20|Deuteronomy 30:20]]
+- [[Joshua 1]] — 2 parallel verses, e.g. [[Deuteronomy 11#^deut-11-31|Deuteronomy 11:31]] ↔ [[Joshua 1#^josh-1-11|Joshua 1:11]]
 - [[Deuteronomy 8]] — 3 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 8#^deut-8-1|Deuteronomy 8:1]]
+- [[Deuteronomy 27]] — 3 parallel verses, e.g. [[Deuteronomy 11#^deut-11-8|Deuteronomy 11:8]] ↔ [[Deuteronomy 27#^deut-27-1|Deuteronomy 27:1]]
+- [[Deuteronomy 7]] — 3 parallel verses, e.g. [[Deuteronomy 11#^deut-11-29|Deuteronomy 11:29]] ↔ [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]]
 - [[Deuteronomy 1]] — 2 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 1#^deut-1-8|Deuteronomy 1:8]]
 - [[Joshua 5]] — 2 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Joshua 5#^josh-5-6|Joshua 5:6]]
-- [[Deuteronomy 13]] — 2 parallel verses, e.g. [[Deuteronomy 11#^deut-11-13|Deuteronomy 11:13]] ↔ [[Deuteronomy 13#^deut-13-3|Deuteronomy 13:3]]
-- [[Deuteronomy 12]] — 2 parallel verses, e.g. [[Deuteronomy 11#^deut-11-31|Deuteronomy 11:31]] ↔ [[Deuteronomy 12#^deut-12-10|Deuteronomy 12:10]]
-- [[Deuteronomy 26]] — 2 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 26#^deut-26-9|Deuteronomy 26:9]]
-- [[Deuteronomy 5]] — 1 parallel verse, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 5#^deut-5-33|Deuteronomy 5:33]]
-- [[Genesis 9]] — 1 parallel verse, e.g. [[Deuteronomy 11#^deut-11-25|Deuteronomy 11:25]] ↔ [[Genesis 9#^gen-9-2|Genesis 9:2]]
-- [[Numbers 26]] — 1 parallel verse, e.g. [[Deuteronomy 11#^deut-11-6|Deuteronomy 11:6]] ↔ [[Numbers 26#^num-26-10|Numbers 26:10]]
-- [[Joshua 23]] — 1 parallel verse, e.g. [[Deuteronomy 11#^deut-11-17|Deuteronomy 11:17]] ↔ [[Joshua 23#^josh-23-16|Joshua 23:16]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,6 +89,7 @@ The promises of rain and harvest belong to this address to covenant Israel in it
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Frontlets or phylacteries** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Ebal, Mount** (reference-entry) *(explicit citation)*

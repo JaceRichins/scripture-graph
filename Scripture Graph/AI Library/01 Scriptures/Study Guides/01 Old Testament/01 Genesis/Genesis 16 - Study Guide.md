@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 16
 slug: gen-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[1 Nephi 13]] — 3 parallel verses, e.g. [[Genesis 16#^gen-16-9|Genesis 16:9]] ↔ [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]]
 - [[D&C 132]] — 0 parallel verses
 - [[Genesis 21]] — 0 parallel verses
+- [[Genesis 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,7 +68,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

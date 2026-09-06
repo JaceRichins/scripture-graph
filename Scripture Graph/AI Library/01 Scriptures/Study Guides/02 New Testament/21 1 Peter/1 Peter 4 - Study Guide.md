@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 4
 slug: 1pet-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ _Not yet developed._
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1841-07-01 (Vol. 2 No. 17)** (periodical, 1841-07-01) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Flesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

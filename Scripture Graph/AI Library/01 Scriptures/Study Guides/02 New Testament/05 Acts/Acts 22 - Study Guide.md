@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 22
 slug: acts-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,8 +66,8 @@ The hinge is verse 21 ("unto the Gentiles"), the single phrase that turns a symp
 <!-- SG:BEGIN topics -->
 - [[Government and Laws]]
 - [[Repentance and Forgiveness]]
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

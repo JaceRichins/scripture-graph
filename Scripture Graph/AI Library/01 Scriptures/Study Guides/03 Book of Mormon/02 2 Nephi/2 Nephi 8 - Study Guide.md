@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 8
 slug: 2ne-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ Zion and Jerusalem are addressed jointly rather than as strictly separate stages
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]] ↔ [[3 Nephi 20#^3ne-20-36|3 Nephi 20:36]]
 - [[Isaiah 52]] — 2 parallel verses, e.g. [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]] ↔ [[Isaiah 52#^isa-52-1|Isaiah 52:1]]
 - [[2 Nephi 7]] — 0 parallel verses
+- [[Isaiah 51]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

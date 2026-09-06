@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 11
 slug: lev-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Camel** (reference-entry) *(explicit citation)*
+- **Fish** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

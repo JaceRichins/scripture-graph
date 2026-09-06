@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 6
 slug: deut-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ The phrase "that it may be well with thee" recurs at v.3 and v.18; whether this 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Deuteronomy** (reference-entry) *(explicit citation)*
+- **Frontlets or phylacteries** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Ten Commandments** (reference-entry) *(explicit citation)*
 - **Love** (reference-entry) *(explicit citation)*

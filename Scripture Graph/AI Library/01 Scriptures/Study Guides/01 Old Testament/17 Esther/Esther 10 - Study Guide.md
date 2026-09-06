@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 10
 slug: esth-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

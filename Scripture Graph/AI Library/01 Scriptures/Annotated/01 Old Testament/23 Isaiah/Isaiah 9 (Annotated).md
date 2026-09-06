@@ -50,7 +50,7 @@ cssclasses:
 > [[Isaiah 7#^isa-7-1|Isa. 7:1]] · [[2 Nephi 19#^2ne-19-11|≈ 2 Nephi 19:11]]
 
 ![[Isaiah 9#^isa-9-12]]
-> [[Jeremiah 4#^jer-4-8|Jer. 4:8]] · [[2 Nephi 19#^2ne-19-12|≈ 2 Nephi 19:12]] · [[2 Nephi 19#^2ne-19-17|≈ 2 Nephi 19:17]] · [[2 Nephi 19#^2ne-19-21|≈ 2 Nephi 19:21]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]] · [[2 Nephi 15#^2ne-15-25|≈ 2 Nephi 15:25]] · [[Isaiah 10#^isa-10-4|≈ Isaiah 10:4]]
+> [[Jeremiah 4#^jer-4-8|Jer. 4:8]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]] · [[2 Nephi 19#^2ne-19-12|≈ 2 Nephi 19:12]] · [[2 Nephi 19#^2ne-19-17|≈ 2 Nephi 19:17]] · [[2 Nephi 19#^2ne-19-21|≈ 2 Nephi 19:21]] · [[2 Nephi 15#^2ne-15-25|≈ 2 Nephi 15:25]] · [[Isaiah 10#^isa-10-4|≈ Isaiah 10:4]]
 
 ![[Isaiah 9#^isa-9-13]]
 > [[Hosea 7#^hosea-7-10|Hosea 7:10]] · [[2 Nephi 19#^2ne-19-13|≈ 2 Nephi 19:13]]
@@ -65,16 +65,16 @@ cssclasses:
 > [[Isaiah 1#^isa-1-31|Isa. 1:31]] · [[2 Nephi 19#^2ne-19-16|≈ 2 Nephi 19:16]]
 
 ![[Isaiah 9#^isa-9-17]]
-> [[Proverbs 26#^prov-26-25|Prov. 26:25]] · [[2 Nephi 19#^2ne-19-17|≈ 2 Nephi 19:17]] · [[2 Nephi 19#^2ne-19-12|≈ 2 Nephi 19:12]] · [[2 Nephi 19#^2ne-19-21|≈ 2 Nephi 19:21]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]] · [[2 Nephi 15#^2ne-15-25|≈ 2 Nephi 15:25]] · [[Isaiah 10#^isa-10-4|≈ Isaiah 10:4]]
+> [[Proverbs 26#^prov-26-25|Prov. 26:25]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]] · [[2 Nephi 19#^2ne-19-17|≈ 2 Nephi 19:17]] · [[2 Nephi 19#^2ne-19-12|≈ 2 Nephi 19:12]] · [[2 Nephi 19#^2ne-19-21|≈ 2 Nephi 19:21]] · [[2 Nephi 15#^2ne-15-25|≈ 2 Nephi 15:25]] · [[Isaiah 10#^isa-10-4|≈ Isaiah 10:4]]
 
 ![[Isaiah 9#^isa-9-18]]
 > [[Isaiah 10#^isa-10-17|Isa. 10:17]] · [[Isaiah 10#^isa-10-34|Isa. 10:34]] · [[2 Nephi 19#^2ne-19-18|≈ 2 Nephi 19:18]]
 
 ![[Isaiah 9#^isa-9-19]]
-> [[Mosiah 9#^mosiah-9-2|Mosiah 9:2]] · [[Joseph Smith—Matthew 1#^jsm-1-30|JS—M 1:30]] · [[Ezekiel 38#^ezek-38-21|Ezek. 38:21]] · [[Micah 7#^micah-7-2|Micah 7:2 (2, 6)]] · [[2 Nephi 19#^2ne-19-19|≈ 2 Nephi 19:19]] · [[Isaiah 5#^isa-5-7|≈ Isaiah 5:7]] · [[2 Nephi 15#^2ne-15-7|≈ 2 Nephi 15:7]]
+> [[Mosiah 9#^mosiah-9-2|Mosiah 9:2]] · [[Joseph Smith—Matthew 1#^jsm-1-30|JS—M 1:30]] · [[Ezekiel 38#^ezek-38-21|Ezek. 38:21]] · [[Micah 7#^micah-7-2|Micah 7:2 (2, 6)]] · [[Isaiah 5#^isa-5-7|≈ Isaiah 5:7]] · [[2 Nephi 19#^2ne-19-19|≈ 2 Nephi 19:19]] · [[2 Nephi 15#^2ne-15-7|≈ 2 Nephi 15:7]]
 
 ![[Isaiah 9#^isa-9-20]]
 > [[Haggai 1#^hag-1-6|Hag. 1:6]] · [[Jeremiah 19#^jer-19-9|Jer. 19:9]] · [[2 Nephi 19#^2ne-19-20|≈ 2 Nephi 19:20]]
 
 ![[Isaiah 9#^isa-9-21]]
-> [[2 Nephi 19#^2ne-19-21|≈ 2 Nephi 19:21]] · [[2 Nephi 19#^2ne-19-12|≈ 2 Nephi 19:12]] · [[2 Nephi 19#^2ne-19-17|≈ 2 Nephi 19:17]] · [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]] · [[2 Nephi 15#^2ne-15-25|≈ 2 Nephi 15:25]] · [[Isaiah 10#^isa-10-4|≈ Isaiah 10:4]]
+> [[Isaiah 5#^isa-5-25|≈ Isaiah 5:25]] · [[2 Nephi 19#^2ne-19-21|≈ 2 Nephi 19:21]] · [[2 Nephi 19#^2ne-19-12|≈ 2 Nephi 19:12]] · [[2 Nephi 19#^2ne-19-17|≈ 2 Nephi 19:17]] · [[2 Nephi 15#^2ne-15-25|≈ 2 Nephi 15:25]] · [[Isaiah 10#^isa-10-4|≈ Isaiah 10:4]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 27
 slug: alma-27
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

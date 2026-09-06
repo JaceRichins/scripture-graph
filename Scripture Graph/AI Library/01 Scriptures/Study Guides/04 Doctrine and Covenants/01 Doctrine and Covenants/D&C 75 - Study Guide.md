@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 75
 slug: dc-75
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -91,9 +91,11 @@ The three "Even so. Amen." markers (vv. 12, 22, 36) are the clearest textual sig
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Don’t Leave for Tomorrow What You Can Do Today (Elder Claudio R. M. Costa, October 2007)|Don’t Leave for Tomorrow What You Can Do Today]] — Elder Claudio R. M. Costa, 2007-October *(explicit citation)*
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[The Weak and the Simple of the Church (President Boyd K. Packer, October 2007)|The Weak and the Simple of the Church]] — President Boyd K. Packer, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

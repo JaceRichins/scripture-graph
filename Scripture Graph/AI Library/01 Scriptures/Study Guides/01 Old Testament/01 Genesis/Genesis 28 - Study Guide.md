@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 28
 slug: gen-28
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,14 +51,15 @@ The chapter has a clean two-part shape hinged on Jacob's departure in v.10: vv.1
 - [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[Genesis 22#^gen-22-18|Genesis 22:18]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[3 Nephi 20#^3ne-20-25|3 Nephi 20:25]]
 - [[Abraham 2]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[Abraham 2#^abr-2-11|Abraham 2:11]]
+- [[Genesis 13]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-13|Genesis 28:13]] ↔ [[Genesis 13#^gen-13-15|Genesis 13:15]]
+- [[Genesis 27]] — 2 parallel verses, e.g. [[Genesis 28#^gen-28-1|Genesis 28:1]] ↔ [[Genesis 27#^gen-27-46|Genesis 27:46]]
 - [[D&C 42]] — 1 parallel verse, e.g. [[Genesis 28#^gen-28-14|Genesis 28:14]] ↔ [[D&C 42#^dc-42-63|D&C 42:63]]
 - [[Genesis 22]] — 0 parallel verses
 - [[Genesis 27]] — 0 parallel verses
 - [[John 1]] — 0 parallel verses
 - [[Genesis 12]] — 0 parallel verses
 - [[Hosea 12]] — 0 parallel verses
-- [[Genesis 13]] — 0 parallel verses
-- [[Genesis 27]] — 0 parallel verses
+- [[Genesis 35]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

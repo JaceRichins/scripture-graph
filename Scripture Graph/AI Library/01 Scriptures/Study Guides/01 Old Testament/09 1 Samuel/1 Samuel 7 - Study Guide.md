@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 7
 slug: 1sam-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,8 @@ Samuel's intercession is central, but the text does not depict it as a technique
 <!-- SG:BEGIN history -->
 - **Bethel** (reference-entry) *(explicit citation)*
 - **Ebenezer** (reference-entry) *(explicit citation)*
+- **Eleazar** (reference-entry) *(explicit citation)*
+- **Gath** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

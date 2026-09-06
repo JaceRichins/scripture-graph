@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 17
 slug: luke-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -79,7 +79,7 @@ _Not yet developed._
 - [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
 - [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[The Divine Gift of Gratitude (President Thomas S. Monson, October 2010)|The Divine Gift of Gratitude]] — President Thomas S. Monson, 2010-October *(explicit citation)*
-- [[Love Is Spoken Here (Elder Gerrit W. Gong, October 2023)|Love Is Spoken Here]] — Elder Gerrit W. Gong, 2023-October *(explicit citation)*
+- [[Gratitude A Path to Happiness (Bonnie D. Parkin, April 2007)|Gratitude: A Path to Happiness]] — Bonnie D. Parkin, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

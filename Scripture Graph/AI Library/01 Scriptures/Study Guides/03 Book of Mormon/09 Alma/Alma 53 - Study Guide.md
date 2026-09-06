@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 53
 slug: alma-53
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,9 +66,9 @@ Scripture: [[Alma 53]] · My notes: [[Alma 53 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
-- [[Freedom and Liberty]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Covenants]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

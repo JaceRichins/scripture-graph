@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 2
 slug: 1jn-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -105,6 +105,7 @@ _Not yet developed._
 - **Anoint** (reference-entry) *(explicit citation)*
 - **Antichrist** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
+- **Flesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

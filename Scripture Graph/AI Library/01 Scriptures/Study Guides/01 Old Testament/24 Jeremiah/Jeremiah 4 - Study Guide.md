@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 4
 slug: jer-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Deuteronomy 10]] — 0 parallel verses
 - [[Hosea 10]] — 0 parallel verses
 - [[Hosea 10]] — 0 parallel verses
+- [[Jeremiah 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

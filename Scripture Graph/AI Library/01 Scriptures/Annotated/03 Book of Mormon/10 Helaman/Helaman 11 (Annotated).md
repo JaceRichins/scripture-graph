@@ -67,7 +67,7 @@ cssclasses:
 > [[Helaman 5#^hel-5-36|Hel. 5:44 (36–44)]] · [[Helaman 6#^hel-6-6|6:6]]
 
 ![[Helaman 11#^hel-11-20]]
-> [[Jarom 1#^jarom-1-6|Jarom 1:6]] · [[Alma 22#^alma-22-27|Alma 22:27 (27, 32–33)]] · [[Helaman 3#^hel-3-8|Hel. 3:8]] · [[3 Nephi 1#^3ne-1-17|3 Ne. 1:17]] · [[Mormon 2#^morm-2-8|≈ Mormon 2:8]] · [[Helaman 3#^hel-3-8|≈ Helaman 3:8]] · [[4 Nephi 1#^4ne-1-10|≈ 4 Nephi 1:10]] · [[Alma 45#^alma-45-1|≈ Alma 45:1]] · [[Alma 2#^alma-2-26|≈ Alma 2:26]] · [[Alma 62#^alma-62-48|≈ Alma 62:48]]
+> [[Jarom 1#^jarom-1-6|Jarom 1:6]] · [[Alma 22#^alma-22-27|Alma 22:27 (27, 32–33)]] · [[Helaman 3#^hel-3-8|Hel. 3:8]] · [[3 Nephi 1#^3ne-1-17|3 Ne. 1:17]] · [[Helaman 3#^hel-3-8|≈ Helaman 3:8]] · [[Mormon 2#^morm-2-8|≈ Mormon 2:8]] · [[4 Nephi 1#^4ne-1-10|≈ 4 Nephi 1:10]] · [[Alma 45#^alma-45-1|≈ Alma 45:1]] · [[Alma 2#^alma-2-26|≈ Alma 2:26]] · [[Alma 62#^alma-62-48|≈ Alma 62:48]]
 
 ![[Helaman 11#^hel-11-21]]
 > [[3 Nephi 2#^3ne-2-11|≈ 3 Nephi 2:11]]

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 7
 slug: jacob-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -69,12 +69,12 @@ The movement from flattery to plain confession, from hearts led away to restored
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Scripture Study]]
-- [[Satan and Temptation]]
-- [[Records and Sacred Writings]]
 - [[Law of Moses]]
 - [[War and Peace]]
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[Scripture Study]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -95,6 +95,7 @@ When Sherem demands a sign, Jacob objects to tempting God, conditionally identif
 - [[Be Reconciled to God (Elder Kelly R. Johnson, October 2025)|Be Reconciled to God]] — Elder Kelly R. Johnson, 2025-October *(explicit citation)*
 - [[Guided Safely Home (President Thomas S. Monson, October 2014)|Guided Safely Home]] — President Thomas S. Monson, 2014-October *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
+- [[Today (Elder Lance B. Wickman, April 2008)|Today]] — Elder Lance B. Wickman, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

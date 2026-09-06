@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 23
 slug: lev-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -99,9 +99,12 @@ Later Christian scripture connects Passover with Christ in [[1 Corinthians 5]] a
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Feasts** (reference-entry) *(explicit citation)*
+- **Firstfruits** (reference-entry) *(explicit citation)*
 - **Agriculture** (reference-entry) *(explicit citation)*
 - **Atonement** (reference-entry) *(explicit citation)*
 - **Calendar** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

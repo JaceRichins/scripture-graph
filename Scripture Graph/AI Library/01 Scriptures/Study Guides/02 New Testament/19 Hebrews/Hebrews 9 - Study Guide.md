@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 9
 slug: heb-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ Verses 27-28 place the [[Final Judgment]] and the [[Second Coming of Jesus Chris
 - [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
 - [[God’s Intent Is to Bring You Home (Elder Patrick Kearon, April 2024)|God’s Intent Is to Bring You Home]] — Elder Patrick Kearon, 2024-April *(explicit citation)*
 - [[Focus on Jesus Christ and His Gospel (Elder I. Raymond Egbo, October 2024)|Focus on Jesus Christ and His Gospel]] — Elder I. Raymond Egbo, 2024-October *(explicit citation)*
+- [[I Know That My Redeemer Lives! (President Thomas S. Monson, April 2007)|I Know That My Redeemer Lives!]] — President Thomas S. Monson, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -93,6 +94,7 @@ Verses 27-28 place the [[Final Judgment]] and the [[Second Coming of Jesus Chris
 - **Atonement** (reference-entry) *(explicit citation)*
 - **Cherubim** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

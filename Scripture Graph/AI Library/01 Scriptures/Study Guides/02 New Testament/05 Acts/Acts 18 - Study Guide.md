@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 18
 slug: acts-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ The chapter connects belief with hearing, testimony, and [[Baptism]] (Acts 18:5,
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Corinth** (reference-entry) *(explicit citation)*
 - **Dispersion** (reference-entry) *(explicit citation)*
+- **Ephesus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

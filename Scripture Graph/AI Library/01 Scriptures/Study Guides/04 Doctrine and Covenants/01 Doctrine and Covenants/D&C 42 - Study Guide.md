@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 42
 slug: dc-42
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -99,10 +99,10 @@ Repentance can lead to forgiveness and reconciliation, while unrepentant or repe
 - [[Marriage Watch and Learn (Elder L. Whitney Clayton, April 2013)|Marriage: Watch and Learn]] — Elder L. Whitney Clayton, 2013-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[“The Principles of My Gospel” (Elder David A. Bednar, April 2021)|“The Principles of My Gospel”]] — Elder David A. Bednar, 2021-April *(explicit citation)*
 - [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 - [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
-- [[A Plea to My Sisters (President Russell M. Nelson, October 2015)|A Plea to My Sisters]] — President Russell M. Nelson, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

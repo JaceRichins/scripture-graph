@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 8
 slug: isa-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[2 Nephi 18]] — 22 parallel verses, e.g. [[Isaiah 8#^isa-8-7|Isaiah 8:7]] ↔ [[2 Nephi 18#^2ne-18-7|2 Nephi 18:7]]
 - [[Isaiah 7]] — 0 parallel verses
 - [[2 Nephi 18]] — 0 parallel verses
+- [[Isaiah 28]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

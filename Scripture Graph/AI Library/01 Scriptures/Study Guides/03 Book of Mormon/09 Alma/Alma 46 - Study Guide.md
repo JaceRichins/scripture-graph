@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 46
 slug: alma-46
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,8 @@ The closing verses distinguish confidence from direct description. Some die beli
 - [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[If These Old Walls Could Talk (Bishop H. David Burton, April 2007)|If These Old Walls Could Talk]] — Bishop H. David Burton, 2007-April *(explicit citation)*
+- [[“Mom, Are We Christians” (Elder Gary J. Coleman, April 2007)|“Mom, Are We Christians?”]] — Elder Gary J. Coleman, 2007-April *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 

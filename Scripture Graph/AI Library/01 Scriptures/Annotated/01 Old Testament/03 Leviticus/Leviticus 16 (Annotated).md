@@ -66,7 +66,7 @@ cssclasses:
 > [[Leviticus 5#^lev-5-9|≈ Leviticus 5:9]]
 
 ![[Leviticus 16#^lev-16-20]]
-> [[Exodus 29#^ex-29-44|≈ Exodus 29:44]] · [[Exodus 30#^ex-30-18|≈ Exodus 30:18]]
+> [[Exodus 30#^ex-30-18|≈ Exodus 30:18]] · [[Exodus 29#^ex-29-44|≈ Exodus 29:44]]
 
 ![[Leviticus 16#^lev-16-21]]
 > [[Hebrews 10#^heb-10-3|Heb. 10:3]] · [[Leviticus 4#^lev-4-24|≈ Leviticus 4:24]]

@@ -40,6 +40,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **1406 BC** — Israel crosses the Jordan · [[Joshua 3]] · [[Joshua 4]] · [[1500-1401 BC]] *(traditional dating)*
 - **1406 BC** — Moses' covenant-renewal address on the plains of Moab · [[Deuteronomy 30]] · [[1500-1401 BC]] *(traditional dating)*
+- **1406 BC–1400 BC** — Joshua commissioned to lead Israel into Canaan · [[Joshua 1]] · [[1500-1401 BC]] *(traditional dating)*
 - **852 BC–841 BC** — Naaman healed of leprosy by Elisha · [[2 Kings 5]] · [[900-801 BC]] *(approximate)*
 - **AD 27** — Jesus baptized in the Jordan · [[Matthew 3]] · [[Mark 1]] · [[AD 1-100]] *(approximate)*
 

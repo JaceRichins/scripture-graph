@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 24
 slug: mosiah-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

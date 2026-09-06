@@ -44,7 +44,7 @@ cssclasses:
 > [[Exodus 24#^ex-24-18|Ex. 24:18]] · [[Exodus 32#^ex-32-1|32:1]] · [[Exodus 34#^ex-34-28|34:28]]
 
 ![[Deuteronomy 9#^deut-9-10]]
-> [[2 Corinthians 3#^2cor-3-3|2 Cor. 3:3]] · [[Deuteronomy 4#^deut-4-10|Deut. 4:10]] · [[Exodus 31#^ex-31-18|≈ Exodus 31:18]] · [[Deuteronomy 5#^deut-5-4|≈ Deuteronomy 5:4]] · [[Deuteronomy 5#^deut-5-22|≈ Deuteronomy 5:22]] · [[Deuteronomy 10#^deut-10-4|≈ Deuteronomy 10:4]]
+> [[2 Corinthians 3#^2cor-3-3|2 Cor. 3:3]] · [[Deuteronomy 4#^deut-4-10|Deut. 4:10]] · [[Exodus 31#^ex-31-18|≈ Exodus 31:18]] · [[Deuteronomy 10#^deut-10-4|≈ Deuteronomy 10:4]] · [[Deuteronomy 5#^deut-5-4|≈ Deuteronomy 5:4]] · [[Deuteronomy 5#^deut-5-22|≈ Deuteronomy 5:22]]
 
 ![[Deuteronomy 9#^deut-9-11]]
 > [[Genesis 8#^gen-8-6|≈ Genesis 8:6]]

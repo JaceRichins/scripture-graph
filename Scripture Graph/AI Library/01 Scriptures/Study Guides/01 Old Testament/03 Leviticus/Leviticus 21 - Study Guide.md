@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 21
 slug: lev-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Leviticus 24]] — 2 parallel verses, e.g. [[Leviticus 21#^lev-21-6|Leviticus 21:6]] ↔ [[Leviticus 24#^lev-24-9|Leviticus 24:9]]
 - [[Leviticus 17]] — 1 parallel verse, e.g. [[Leviticus 21#^lev-21-24|Leviticus 21:24]] ↔ [[Leviticus 17#^lev-17-2|Leviticus 17:2]]
 - [[Leviticus 22]] — 0 parallel verses
+- [[Ezekiel 44]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

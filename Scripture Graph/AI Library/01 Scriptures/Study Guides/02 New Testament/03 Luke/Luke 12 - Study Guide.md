@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 12
 slug: luke-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Gehenna** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 4
 slug: col-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[1 Corinthians 16]] — 1 footnote cross-reference (from [[Colossians 4#^col-4-3|Colossians 4:3]])
 - [[Ephesians 6]] — 1 parallel verse, e.g. [[Colossians 4#^col-4-8|Colossians 4:8]] ↔ [[Ephesians 6#^eph-6-22|Ephesians 6:22]]
 - [[Philemon 1]] — 0 parallel verses
+- [[Ephesians 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

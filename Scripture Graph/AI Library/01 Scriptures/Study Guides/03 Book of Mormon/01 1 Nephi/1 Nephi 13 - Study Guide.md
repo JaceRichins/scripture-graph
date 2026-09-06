@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 13
 slug: 1ne-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[This Day (Elder Ronald A. Rasband, October 2022)|This Day]] — Elder Ronald A. Rasband, 2022-October *(explicit citation)*
 - [[A Sin-Resistant Generation (Joy D. Jones, April 2017)|A Sin-Resistant Generation]] — Joy D. Jones, 2017-April *(explicit citation)*
 - [[How Does the Holy Ghost Help You (Elder Gary E. Stevenson, April 2017)|How Does the Holy Ghost Help You?]] — Elder Gary E. Stevenson, 2017-April *(explicit citation)*
@@ -97,7 +98,6 @@ _Not yet developed._
 - [[A Living Witness of the Living Christ (Bishop Gérald Caussé, April 2020)|A Living Witness of the Living Christ]] — Bishop Gérald Caussé, 2020-April *(explicit citation)*
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[Come into the Fold of God (Elder Randy D. Funk, April 2022)|Come into the Fold of God]] — Elder Randy D. Funk, 2022-April *(explicit citation)*
-- [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -120,7 +120,7 @@ cssclasses:
 > [[Mosiah 10#^mosiah-10-17|Mosiah 10:17]]
 
 ![[4 Nephi 1#^4ne-1-40]]
-> [[Helaman 5#^hel-5-2|Hel. 5:2]] · [[Jarom 1#^jarom-1-13|≈ Jarom 1:13]] · [[Omni 1#^omni-1-3|≈ Omni 1:3]] · [[Omni 1#^omni-1-5|≈ Omni 1:5]] · [[Mormon 2#^morm-2-15|≈ Mormon 2:15]]
+> [[Helaman 5#^hel-5-2|Hel. 5:2]] · [[Mormon 2#^morm-2-15|≈ Mormon 2:15]] · [[Jarom 1#^jarom-1-13|≈ Jarom 1:13]] · [[Omni 1#^omni-1-3|≈ Omni 1:3]] · [[Omni 1#^omni-1-5|≈ Omni 1:5]]
 
 ![[4 Nephi 1#^4ne-1-41]]
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 19
 slug: rev-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Ezekiel 39]] — 0 parallel verses
 - [[D&C 58]] — 0 parallel verses
 - [[D&C 65]] — 0 parallel verses
+- [[Isaiah 63]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,6 +83,7 @@ _Not yet developed._
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

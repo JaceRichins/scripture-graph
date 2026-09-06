@@ -44,7 +44,7 @@ cssclasses:
 > [[Ether 3#^ether-3-14|Ether 3:14]] · [[Moroni 7#^moro-7-18|Moro. 7:18]] · [[D&C 88#^dc-88-7|D&amp;C 88:13 (7–13)]]
 
 ![[Mosiah 16#^mosiah-16-10]]
-> [[Alma 40#^alma-40-2|Alma 40:2]] · [[1 Corinthians 15#^1cor-15-42|1 Cor. 15:42]] · [[3 Nephi 26#^3ne-26-4|3 Ne. 26:4]] · [[Mosiah 3#^mosiah-3-24|≈ Mosiah 3:24]] · [[Alma 11#^alma-11-44|≈ Alma 11:44]] · [[3 Nephi 26#^3ne-26-4|≈ 3 Nephi 26:4]] · [[3 Nephi 27#^3ne-27-14|≈ 3 Nephi 27:14]]
+> [[Alma 40#^alma-40-2|Alma 40:2]] · [[1 Corinthians 15#^1cor-15-42|1 Cor. 15:42]] · [[3 Nephi 26#^3ne-26-4|3 Ne. 26:4]] · [[Mosiah 3#^mosiah-3-24|≈ Mosiah 3:24]] · [[3 Nephi 26#^3ne-26-4|≈ 3 Nephi 26:4]] · [[Alma 11#^alma-11-44|≈ Alma 11:44]] · [[3 Nephi 27#^3ne-27-14|≈ 3 Nephi 27:14]]
 
 ![[Mosiah 16#^mosiah-16-11]]
 > [[Daniel 12#^dan-12-2|Dan. 12:2 (2–3)]] · [[John 5#^john-5-28|John 5:29 (28–29)]] · [[Alma 9#^alma-9-11|Alma 9:11]] · [[3 Nephi 26#^3ne-26-5|≈ 3 Nephi 26:5]]

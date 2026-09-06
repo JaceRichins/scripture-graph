@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 23
 slug: prov-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[A Royal Priesthood (President Thomas S. Monson, October 2007)|A Royal Priesthood]] — President Thomas S. Monson, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 12
 slug: john-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,12 +56,16 @@ Scripture: [[John 12]] · My notes: [[John 12 - My Notes]]
 - [[Mosiah 2]] — 1 footnote cross-reference (from [[John 12#^john-12-6|John 12:6]])
 - [[John 13]] — 1 footnote cross-reference (from [[John 12#^john-12-6|John 12:6]])
 - [[Mark 14]] — 1 footnote cross-reference (from [[John 12#^john-12-7|John 12:7]])
+- [[Mosiah 14]] — 1 parallel verse, e.g. [[John 12#^john-12-38|John 12:38]] ↔ [[Mosiah 14#^mosiah-14-1|Mosiah 14:1]]
+- [[Isaiah 53]] — 1 parallel verse, e.g. [[John 12#^john-12-38|John 12:38]] ↔ [[Isaiah 53#^isa-53-1|Isaiah 53:1]]
 - [[John 3]] — 0 parallel verses
 - [[Matthew 26]] — 0 parallel verses
 - [[Mark 14]] — 0 parallel verses
 - [[3 Nephi 27]] — 0 parallel verses
-- [[Isaiah 53]] — 0 parallel verses
 - [[John 11]] — 0 parallel verses
+- [[John 17]] — 0 parallel verses
+- [[John 3]] — 0 parallel verses
+- [[John 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

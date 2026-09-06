@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 17
 slug: alma-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -94,10 +94,10 @@ The commission in 17:11 joins divine instrumentality with human conduct: the mis
 - [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
 - [[Stay in the Boat and Hold On! (Elder M. Russell Ballard, October 2014)|Stay in the Boat and Hold On!]] — Elder M. Russell Ballard, 2014-October *(explicit citation)*
+- [[Gospel Teaching—Our Most Important Calling (William D. Oswald, October 2008)|Gospel Teaching—Our Most Important Calling]] — William D. Oswald, 2008-October *(explicit citation)*
 - [[The Priesthood—a Sacred Gift (President Thomas S. Monson, April 2015)|The Priesthood—a Sacred Gift]] — President Thomas S. Monson, 2015-April *(explicit citation)*
 - [[Teaching in the Home—a Joyful and Sacred Responsibility (Devin G. Durrant, April 2018)|Teaching in the Home—a Joyful and Sacred Responsibility]] — Devin G. Durrant, 2018-April *(explicit citation)*
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
-- [[Missionary Service Blessed My Life Forever (President M. Russell Ballard, April 2022)|Missionary Service Blessed My Life Forever]] — President M. Russell Ballard, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -110,6 +110,7 @@ The commission in 17:11 joins divine instrumentality with human conduct: the mis
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Teaching the Gospel** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

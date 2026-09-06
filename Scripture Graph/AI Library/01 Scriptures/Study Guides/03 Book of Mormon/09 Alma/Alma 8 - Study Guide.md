@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 8
 slug: alma-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ The central reversal occurs between expulsion and speedy return. Alma's circumst
 - [[Alma 14]] — 2 footnote cross-references (from [[Alma 8#^alma-8-31|Alma 8:31]])
 - [[Alma 2]] — 1 footnote cross-reference (from [[Alma 8#^alma-8-1|Alma 8:1]])
 - [[Alma 31]] — 1 footnote cross-reference (from [[Alma 8#^alma-8-3|Alma 8:3]])
+- [[Alma 9]] — 3 parallel verses, e.g. [[Alma 8#^alma-8-14|Alma 8:14]] ↔ [[Alma 9#^alma-9-1|Alma 9:1]]
 - [[Alma 43]] — 4 parallel verses, e.g. [[Alma 8#^alma-8-3|Alma 8:3]] ↔ [[Alma 43#^alma-43-27|Alma 43:27]]
 - [[Alma 4]] — 3 parallel verses, e.g. [[Alma 8#^alma-8-24|Alma 8:24]] ↔ [[Alma 4#^alma-4-20|Alma 4:20]]
 - [[3 Nephi 19]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-30|Alma 8:30]] ↔ [[3 Nephi 19#^3ne-19-13|3 Nephi 19:13]]
@@ -68,7 +69,6 @@ The central reversal occurs between expulsion and speedy return. Alma's circumst
 - [[3 Nephi 2]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-14|Alma 8:14]] ↔ [[3 Nephi 2#^3ne-2-18|3 Nephi 2:18]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-3|Alma 8:3]] ↔ [[Alma 2#^alma-2-34|Alma 2:34]]
 - [[1 Nephi 1]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-1|Alma 8:1]] ↔ [[1 Nephi 1#^1ne-1-7|1 Nephi 1:7]]
-- [[Alma 5]] — 2 parallel verses, e.g. [[Alma 8#^alma-8-23|Alma 8:23]] ↔ [[Alma 5#^alma-5-3|Alma 5:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -98,6 +98,7 @@ The central reversal occurs between expulsion and speedy return. Alma's circumst
 - [[Lift Up Your Head and Rejoice (M. Joseph Brough, October 2018)|Lift Up Your Head and Rejoice]] — M. Joseph Brough, 2018-October *(explicit citation)*
 - [[Ask, Seek, and Knock (Milton Camargo, October 2020)|Ask, Seek, and Knock]] — Milton Camargo, 2020-October *(explicit citation)*
 - [[The Preparatory Priesthood (President Henry B. Eyring, October 2014)|The Preparatory Priesthood]] — President Henry B. Eyring, 2014-October *(explicit citation)*
+- [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 

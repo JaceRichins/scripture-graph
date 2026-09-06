@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 12
 slug: mosiah-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ _Not yet developed._
 - [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
 - [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
 - [[Learning with Our Hearts (Elder Walter F. González, October 2012)|Learning with Our Hearts]] — Elder Walter F. González, 2012-October *(explicit citation)*
+- [[One among the Crowd (Elder Dennis B. Neuenschwander, April 2008)|One among the Crowd]] — Elder Dennis B. Neuenschwander, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 29
 slug: isa-29
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ Through [[2 Nephi 27]], Latter-day Saint interpretation connects the sealed book
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
@@ -89,7 +90,6 @@ Through [[2 Nephi 27]], Latter-day Saint interpretation connects the sealed book
 - [[A Record of What I Have Both Seen and Heard (Elder Brent H. Nielson, April 2024)|A Record of What I Have Both Seen and Heard]] — Elder Brent H. Nielson, 2024-April *(explicit citation)*
 - [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
 - [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
-- [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

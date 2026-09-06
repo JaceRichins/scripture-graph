@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 12
 slug: ex-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ Later Christian texts connect Passover with [[Jesus Christ (Gospel Topic)]] and 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Feasts** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

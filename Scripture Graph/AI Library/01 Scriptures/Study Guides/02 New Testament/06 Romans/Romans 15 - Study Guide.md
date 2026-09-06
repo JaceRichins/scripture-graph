@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 15
 slug: rom-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 - [[The Triumph of Hope (Elder Neil L. Andersen, October 2024)|The Triumph of Hope]] — Elder Neil L. Andersen, 2024-October *(explicit citation)*
 - [[The Holy Ghost (Elder Robert D. Hales, April 2016)|The Holy Ghost]] — Elder Robert D. Hales, 2016-April *(explicit citation)*
 - [[Temples, Houses of the Lord Dotting the Earth (Elder Neil L. Andersen, April 2024)|Temples, Houses of the Lord Dotting the Earth]] — Elder Neil L. Andersen, 2024-April *(explicit citation)*

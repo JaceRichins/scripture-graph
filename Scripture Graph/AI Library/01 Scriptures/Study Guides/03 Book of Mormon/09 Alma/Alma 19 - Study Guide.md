@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 19
 slug: alma-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,8 +58,8 @@ _Not yet developed._
 - [[Ether 9]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-25|Alma 19:25]] ↔ [[Ether 9#^ether-9-32|Ether 9:32]]
 - [[Mosiah 4]] — 1 parallel verse, e.g. [[Alma 19#^alma-19-15|Alma 19:15]] ↔ [[Mosiah 4#^mosiah-4-1|Mosiah 4:1]]
 - [[Alma 47]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-15|Alma 19:15]] ↔ [[Alma 47#^alma-47-29|Alma 47:29]]
-- [[Alma 18]] — 1 parallel verse, e.g. [[Alma 19#^alma-19-5|Alma 19:5]] ↔ [[Alma 18#^alma-18-43|Alma 18:43]]
 - [[3 Nephi 6]] — 2 parallel verses, e.g. [[Alma 19#^alma-19-25|Alma 19:25]] ↔ [[3 Nephi 6#^3ne-6-7|3 Nephi 6:7]]
+- [[Alma 18]] — 1 parallel verse, e.g. [[Alma 19#^alma-19-5|Alma 19:5]] ↔ [[Alma 18#^alma-18-43|Alma 18:43]]
 - [[Alma 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 2
 slug: 1kgs-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ _Not yet developed._
 - **Abner** (reference-entry) *(explicit citation)*
 - **Absalom** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
+- **Eli** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

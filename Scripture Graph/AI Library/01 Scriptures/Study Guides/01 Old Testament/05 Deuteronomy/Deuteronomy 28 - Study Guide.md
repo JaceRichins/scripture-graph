@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 28
 slug: deut-28
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 16
 slug: john-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,12 +50,12 @@ _Not yet developed._
 - [[John 15]] — 1 footnote cross-reference (from [[John 16#^john-16-12|John 16:12]])
 - [[John 15]] — 3 parallel verses, e.g. [[John 16#^john-16-1|John 16:1]] ↔ [[John 15#^john-15-11|John 15:11]]
 - [[D&C 84]] — 3 parallel verses, e.g. [[John 16#^john-16-16|John 16:16]] ↔ [[D&C 84#^dc-84-119|D&C 84:119]]
+- [[John 14]] — 2 parallel verses, e.g. [[John 16#^john-16-1|John 16:1]] ↔ [[John 14#^john-14-25|John 14:25]]
 - [[3 Nephi 27]] — 1 parallel verse, e.g. [[John 16#^john-16-23|John 16:23]] ↔ [[3 Nephi 27#^3ne-27-28|3 Nephi 27:28]]
 - [[3 Nephi 18]] — 1 parallel verse, e.g. [[John 16#^john-16-23|John 16:23]] ↔ [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]]
 - [[John 14]] — 0 parallel verses
 - [[John 15]] — 0 parallel verses
 - [[D&C 50]] — 0 parallel verses
-- [[John 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

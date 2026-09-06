@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 3
 slug: 2chr-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,7 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Engraving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

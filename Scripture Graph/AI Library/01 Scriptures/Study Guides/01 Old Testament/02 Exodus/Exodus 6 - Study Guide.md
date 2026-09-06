@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 6
 slug: ex-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,8 @@ The chapter presents [[Exodus and Deliverance]] as more than escape from forced 
 <!-- SG:BEGIN history -->
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
+- **Eleazar** (reference-entry) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

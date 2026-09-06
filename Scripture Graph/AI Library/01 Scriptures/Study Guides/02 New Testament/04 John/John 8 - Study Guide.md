@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 8
 slug: john-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,11 +55,12 @@ _Not yet developed._
 - [[John 5]] — 2 footnote cross-references (from [[John 8#^john-8-28|John 8:28]])
 - [[John 7]] — 2 footnote cross-references (from [[John 8#^john-8-28|John 8:28]])
 - [[D&C 132]] — 4 parallel verses, e.g. [[John 8#^john-8-51|John 8:51]] ↔ [[D&C 132#^dc-132-18|D&C 132:18]]
+- [[John 14]] — 1 parallel verse, e.g. [[John 8#^john-8-19|John 8:19]] ↔ [[John 14#^john-14-7|John 14:7]]
 - [[John 6]] — 2 parallel verses, e.g. [[John 8#^john-8-58|John 8:58]] ↔ [[John 6#^john-6-32|John 6:32]]
-- [[John 9]] — 0 parallel verses
+- [[John 7]] — 2 parallel verses, e.g. [[John 8#^john-8-20|John 8:20]] ↔ [[John 7#^john-7-30|John 7:30]]
+- [[John 9]] — 2 parallel verses, e.g. [[John 8#^john-8-19|John 8:19]] ↔ [[John 9#^john-9-12|John 9:12]]
 - [[John 7]] — 0 parallel verses
 - [[John 12]] — 0 parallel verses
-- [[John 7]] — 0 parallel verses
 - [[John 13]] — 0 parallel verses
 - [[John 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->

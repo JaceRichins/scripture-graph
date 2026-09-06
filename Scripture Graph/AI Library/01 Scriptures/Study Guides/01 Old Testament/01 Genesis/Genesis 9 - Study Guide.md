@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 9
 slug: gen-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ Scripture: [[Genesis 9]] · My notes: [[Genesis 9 - My Notes]]
 - [[Leviticus 17]] — 1 footnote cross-reference (from [[Genesis 9#^gen-9-4|Genesis 9:4]])
 - [[Psalm 9]] — 1 footnote cross-reference (from [[Genesis 9#^gen-9-5|Genesis 9:5]])
 - [[Moses 2]] — 2 parallel verses, e.g. [[Genesis 9#^gen-9-1|Genesis 9:1]] ↔ [[Moses 2#^moses-2-28|Moses 2:28]]
+- [[Genesis 1]] — 2 parallel verses, e.g. [[Genesis 9#^gen-9-1|Genesis 9:1]] ↔ [[Genesis 1#^gen-1-28|Genesis 1:28]]
 - [[Abraham 4]] — 2 parallel verses, e.g. [[Genesis 9#^gen-9-1|Genesis 9:1]] ↔ [[Abraham 4#^abr-4-28|Abraham 4:28]]
 - [[Deuteronomy 11]] — 1 parallel verse, e.g. [[Genesis 9#^gen-9-2|Genesis 9:2]] ↔ [[Deuteronomy 11#^deut-11-25|Deuteronomy 11:25]]
 - [[Genesis 24]] — 1 parallel verse, e.g. [[Genesis 9#^gen-9-26|Genesis 9:26]] ↔ [[Genesis 24#^gen-24-27|Genesis 24:27]]
@@ -86,6 +87,7 @@ The prohibition on eating blood 'which is the life thereof' (v.4) treats blood a
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Flesh** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1846-01-15 (Vol. 6 No. 21)** (periodical, 1846-01-15) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
 - **Blood** (reference-entry) *(explicit citation)*

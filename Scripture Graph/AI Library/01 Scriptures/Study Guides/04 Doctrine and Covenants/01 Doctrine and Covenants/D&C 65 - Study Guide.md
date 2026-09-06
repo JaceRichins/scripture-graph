@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 65
 slug: dc-65
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,8 @@ _Not yet developed._
 - [[D&C 133]] — 2 parallel verses, e.g. [[D&C 65#^dc-65-1|D&C 65:1]] ↔ [[D&C 133#^dc-133-17|D&C 133:17]]
 - [[Daniel 2]] — 0 parallel verses
 - [[Revelation 19]] — 0 parallel verses
+- [[Daniel 2]] — 0 parallel verses
+- [[Isaiah 40]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

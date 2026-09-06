@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 25
 slug: jer-25
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -98,7 +98,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Elam** (reference-entry) *(explicit citation)*
+- **Ezra** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

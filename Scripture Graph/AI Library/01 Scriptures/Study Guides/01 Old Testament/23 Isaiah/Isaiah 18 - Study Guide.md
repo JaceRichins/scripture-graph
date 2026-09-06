@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 18
 slug: isa-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Dew** (reference-entry) *(explicit citation)*
+- **Ethiopia or Cush** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 9
 slug: zech-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Blood** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Gaza** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

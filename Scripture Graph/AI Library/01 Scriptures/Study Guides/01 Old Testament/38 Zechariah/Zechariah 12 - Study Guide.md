@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 12
 slug: zech-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

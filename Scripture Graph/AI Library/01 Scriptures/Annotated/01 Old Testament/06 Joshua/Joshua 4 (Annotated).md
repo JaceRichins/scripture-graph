@@ -34,7 +34,7 @@ cssclasses:
 > [[Deuteronomy 6#^deut-6-20|≈ Deuteronomy 6:20]]
 
 ![[Joshua 4#^josh-4-7]]
-> [[Numbers 10#^num-10-33|≈ Numbers 10:33]] · [[Numbers 14#^num-14-44|≈ Numbers 14:44]] · [[Joshua 6#^josh-6-8|≈ Joshua 6:8]] · [[Joshua 8#^josh-8-33|≈ Joshua 8:33]] · [[1 Kings 8#^1kgs-8-1|≈ 1 Kings 8:1]] · [[1 Kings 8#^1kgs-8-6|≈ 1 Kings 8:6]]
+> [[Numbers 10#^num-10-33|≈ Numbers 10:33]] · [[Numbers 14#^num-14-44|≈ Numbers 14:44]] · [[Joshua 6#^josh-6-8|≈ Joshua 6:8]] · [[Joshua 8#^josh-8-33|≈ Joshua 8:33]] · [[Joshua 3#^josh-3-3|≈ Joshua 3:3]] · [[Joshua 3#^josh-3-11|≈ Joshua 3:11]]
 
 ![[Joshua 4#^josh-4-8]]
 > [[Numbers 32#^num-32-28|≈ Numbers 32:28]] · [[Numbers 36#^num-36-9|≈ Numbers 36:9]] · [[1 Kings 18#^1kgs-18-31|≈ 1 Kings 18:31]] · [[Joshua 14#^josh-14-1|≈ Joshua 14:1]] · [[Joshua 19#^josh-19-51|≈ Joshua 19:51]] · [[Joshua 21#^josh-21-1|≈ Joshua 21:1]]
@@ -62,7 +62,7 @@ cssclasses:
 ![[Joshua 4#^josh-4-17]]
 
 ![[Joshua 4#^josh-4-18]]
-> [[Numbers 10#^num-10-33|≈ Numbers 10:33]] · [[Numbers 14#^num-14-44|≈ Numbers 14:44]] · [[Joshua 6#^josh-6-8|≈ Joshua 6:8]] · [[Joshua 8#^josh-8-33|≈ Joshua 8:33]] · [[1 Kings 8#^1kgs-8-1|≈ 1 Kings 8:1]] · [[1 Kings 8#^1kgs-8-6|≈ 1 Kings 8:6]]
+> [[Numbers 10#^num-10-33|≈ Numbers 10:33]] · [[Numbers 14#^num-14-44|≈ Numbers 14:44]] · [[Joshua 6#^josh-6-8|≈ Joshua 6:8]] · [[Joshua 8#^josh-8-33|≈ Joshua 8:33]] · [[Joshua 3#^josh-3-17|≈ Joshua 3:17]] · [[Joshua 3#^josh-3-3|≈ Joshua 3:3]]
 
 ![[Joshua 4#^josh-4-19]]
 > [[Joshua 5#^josh-5-9|Josh. 5:9]]

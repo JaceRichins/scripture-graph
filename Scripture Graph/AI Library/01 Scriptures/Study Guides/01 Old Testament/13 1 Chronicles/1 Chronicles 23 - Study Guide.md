@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 23
 slug: 1chr-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Eleazar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

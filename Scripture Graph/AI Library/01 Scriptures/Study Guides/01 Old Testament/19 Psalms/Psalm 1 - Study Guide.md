@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 1
 slug: ps-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Jeremiah 17]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-3|Psalm 1:3]])
 - [[Genesis 39]] — 1 footnote cross-reference (from [[Psalm 1#^ps-1-3|Psalm 1:3]])
 - [[Psalm 119]] — 0 parallel verses
+- [[Jeremiah 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

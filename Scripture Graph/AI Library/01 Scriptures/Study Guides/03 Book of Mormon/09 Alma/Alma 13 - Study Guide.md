@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 13
 slug: alma-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,12 +51,12 @@ Alma's argument is practical rather than merely institutional. The holy order po
 - [[Ether 12]] — 2 footnote cross-references (from [[Alma 13#^alma-13-4|Alma 13:4]])
 - [[Alma 5]] — 4 parallel verses, e.g. [[Alma 13#^alma-13-9|Alma 13:9]] ↔ [[Alma 5#^alma-5-48|Alma 5:48]]
 - [[Alma 16]] — 3 parallel verses, e.g. [[Alma 13#^alma-13-16|Alma 13:16]] ↔ [[Alma 16#^alma-16-17|Alma 16:17]]
-- [[D&C 84]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-9|Alma 13:9]] ↔ [[D&C 84#^dc-84-17|D&C 84:17]]
 - [[Alma 34]] — 3 parallel verses, e.g. [[Alma 13#^alma-13-11|Alma 13:11]] ↔ [[Alma 34#^alma-34-36|Alma 34:36]]
 - [[Alma 4]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-6|Alma 13:6]] ↔ [[Alma 4#^alma-4-20|Alma 4:20]]
-- [[Moses 6]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-7|Alma 13:7]] ↔ [[Moses 6#^moses-6-67|Moses 6:67]]
+- [[D&C 84]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-9|Alma 13:9]] ↔ [[D&C 84#^dc-84-17|D&C 84:17]]
 - [[D&C 78]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-9|Alma 13:9]] ↔ [[D&C 78#^dc-78-16|D&C 78:16]]
 - [[Moses 1]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-7|Alma 13:7]] ↔ [[Moses 1#^moses-1-3|Moses 1:3]]
+- [[Moses 6]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-7|Alma 13:7]] ↔ [[Moses 6#^moses-6-67|Moses 6:67]]
 - [[Alma 60]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-12|Alma 13:12]] ↔ [[Alma 60#^alma-60-13|Alma 60:13]]
 - [[1 Nephi 13]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-29|Alma 13:29]] ↔ [[1 Nephi 13#^1ne-13-37|1 Nephi 13:37]]
 - [[D&C 64]] — 2 parallel verses, e.g. [[Alma 13#^alma-13-24|Alma 13:24]] ↔ [[D&C 64#^dc-64-22|D&C 64:22]]
@@ -87,13 +87,13 @@ The repeated promise of entering God's rest can include present reconciliation w
 - [[Ministering with the Power and Authority of God (President Russell M. Nelson, April 2018)|Ministering with the Power and Authority of God]] — President Russell M. Nelson, 2018-April *(explicit citation)*
 - [[Foreordained to Serve (Elder Steven R. Bangerter, April 2024)|Foreordained to Serve]] — Elder Steven R. Bangerter, 2024-April *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[Faith and the Oath and Covenant of the Priesthood (President Henry B. Eyring, April 2008)|Faith and the Oath and Covenant of the Priesthood]] — President Henry B. Eyring, 2008-April *(explicit citation)*
 - [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
 - [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
-- [[That He May Become Strong Also (President Henry B. Eyring, October 2016)|That He May Become Strong Also]] — President Henry B. Eyring, 2016-October *(explicit citation)*
-- [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

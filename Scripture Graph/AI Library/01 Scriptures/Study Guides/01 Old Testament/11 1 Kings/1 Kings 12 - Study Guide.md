@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 12
 slug: 1kgs-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ The chapter narrates two connected crises of rule. Rehoboam loses most of the ki
 - [[Exodus 32]] — 2 parallel verses, e.g. [[1 Kings 12#^1kgs-12-28|1 Kings 12:28]] ↔ [[Exodus 32#^ex-32-4|Exodus 32:4]]
 - [[2 Samuel 20]] — 1 parallel verse, e.g. [[1 Kings 12#^1kgs-12-16|1 Kings 12:16]] ↔ [[2 Samuel 20#^2sam-20-1|2 Samuel 20:1]]
 - [[2 Samuel 20]] — 0 parallel verses
+- [[Exodus 32]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -87,6 +88,7 @@ Jeroboam's fear of losing political allegiance leads directly to religious chang
 - **Bethel** (reference-entry) *(explicit citation)*
 - **Calves, golden, worship of** (reference-entry) *(explicit citation)*
 - **Dan** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

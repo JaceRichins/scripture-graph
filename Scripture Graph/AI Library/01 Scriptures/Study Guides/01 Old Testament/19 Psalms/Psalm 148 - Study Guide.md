@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 148
 slug: ps-148
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

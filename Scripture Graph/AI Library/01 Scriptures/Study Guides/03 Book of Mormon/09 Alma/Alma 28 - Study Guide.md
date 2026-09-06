@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 28
 slug: alma-28
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ Verse 14 answers this inequality with "the great call of diligence of men to lab
 - **Death, Physical** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

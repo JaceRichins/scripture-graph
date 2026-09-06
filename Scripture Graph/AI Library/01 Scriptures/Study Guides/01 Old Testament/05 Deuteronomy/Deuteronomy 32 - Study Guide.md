@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 32
 slug: deut-32
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,9 +66,11 @@ Many scholars also read the whole song against the pattern of an ancient covenan
 - [[Deuteronomy 31]] — 3 parallel verses, e.g. [[Deuteronomy 32#^deut-32-47|Deuteronomy 32:47]] ↔ [[Deuteronomy 31#^deut-31-13|Deuteronomy 31:13]]
 - [[Numbers 13]] — 1 parallel verse, e.g. [[Deuteronomy 32#^deut-32-49|Deuteronomy 32:49]] ↔ [[Numbers 13#^num-13-2|Numbers 13:2]]
 - [[Deuteronomy 4]] — 2 parallel verses, e.g. [[Deuteronomy 32#^deut-32-47|Deuteronomy 32:47]] ↔ [[Deuteronomy 4#^deut-4-14|Deuteronomy 4:14]]
+- [[Numbers 27]] — 1 parallel verse, e.g. [[Deuteronomy 32#^deut-32-50|Deuteronomy 32:50]] ↔ [[Numbers 27#^num-27-13|Numbers 27:13]]
+- [[Isaiah 43]] — 1 parallel verse, e.g. [[Deuteronomy 32#^deut-32-39|Deuteronomy 32:39]] ↔ [[Isaiah 43#^isa-43-13|Isaiah 43:13]]
 - [[Deuteronomy 28]] — 1 parallel verse, e.g. [[Deuteronomy 32#^deut-32-46|Deuteronomy 32:46]] ↔ [[Deuteronomy 28#^deut-28-58|Deuteronomy 28:58]]
-- [[Numbers 27]] — 0 parallel verses
 - [[Deuteronomy 33]] — 0 parallel verses
+- [[Isaiah 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 1
 slug: col-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Hebrews 6]] — 1 footnote cross-reference (from [[Colossians 1#^col-1-4|Colossians 1:4]])
 - [[1 Peter 1]] — 1 footnote cross-reference (from [[Colossians 1#^col-1-5|Colossians 1:5]])
 - [[Alma 32]] — 1 footnote cross-reference (from [[Colossians 1#^col-1-6|Colossians 1:6]])
+- [[Ephesians 1]] — 3 parallel verses, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[Ephesians 1#^eph-1-1|Ephesians 1:1]]
 - [[2 Corinthians 1]] — 3 parallel verses, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[2 Corinthians 1#^2cor-1-1|2 Corinthians 1:1]]
 - [[2 Thessalonians 1]] — 2 parallel verses, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[2 Thessalonians 1#^2thes-1-2|2 Thessalonians 1:2]]
 - [[1 Thessalonians 1]] — 1 parallel verse, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[1 Thessalonians 1#^1thes-1-1|1 Thessalonians 1:1]]
@@ -55,7 +56,6 @@ _Not yet developed._
 - [[2 Timothy 1]] — 1 parallel verse, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[2 Timothy 1#^2tim-1-1|2 Timothy 1:1]]
 - [[1 Corinthians 1]] — 1 parallel verse, e.g. [[Colossians 1#^col-1-2|Colossians 1:2]] ↔ [[1 Corinthians 1#^1cor-1-3|1 Corinthians 1:3]]
 - [[1 Timothy 1]] — 2 parallel verses, e.g. [[Colossians 1#^col-1-1|Colossians 1:1]] ↔ [[1 Timothy 1#^1tim-1-1|1 Timothy 1:1]]
-- [[Ephesians 1]] — 0 parallel verses
 - [[John 1]] — 0 parallel verses
 - [[2 Corinthians 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -91,6 +91,7 @@ _Not yet developed._
 - [[Drawing Closer to the Savior (Elder Neil L. Andersen, October 2022)|Drawing Closer to the Savior]] — Elder Neil L. Andersen, 2022-October *(explicit citation)*
 - [[“Be Still, and Know That I Am God” (Elder David A. Bednar, April 2024)|“Be Still, and Know That I Am God”]] — Elder David A. Bednar, 2024-April *(explicit citation)*
 - [[The Father and the Son (Elder Christoffel Golden Jr., April 2013)|The Father and the Son]] — Elder Christoffel Golden Jr., 2013-April *(explicit citation)*
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -101,6 +102,7 @@ _Not yet developed._
 - **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Colosse** (reference-entry) *(explicit citation)*
+- **Firstborn** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

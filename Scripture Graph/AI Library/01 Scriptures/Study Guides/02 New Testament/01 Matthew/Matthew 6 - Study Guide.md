@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 6
 slug: matt-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[D&C 27]] — 1 parallel verse, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
 - [[D&C 88]] — 0 parallel verses
 - [[Alma 31]] — 0 parallel verses
+- [[Helaman 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,8 +92,8 @@ _Not yet developed._
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Worship God the Father** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
-- **Heaven** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

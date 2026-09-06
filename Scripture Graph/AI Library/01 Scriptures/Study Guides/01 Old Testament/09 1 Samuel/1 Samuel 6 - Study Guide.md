@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 6
 slug: 1sam-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Beth-shemesh** (reference-entry) *(explicit citation)*
+- **Gath** (reference-entry) *(explicit citation)*
+- **Gaza** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

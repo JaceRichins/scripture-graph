@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 10
 slug: ether-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -67,11 +67,11 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Book of Mormon Geography]]
-- [[Freedom and Liberty]]
-- [[War and Peace]]
-- [[Government and Laws]]
 - [[Secret Combinations]]
 - [[Work and Self-Reliance]]
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

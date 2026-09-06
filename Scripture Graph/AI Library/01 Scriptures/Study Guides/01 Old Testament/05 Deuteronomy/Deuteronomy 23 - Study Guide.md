@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 23
 slug: deut-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 - **Balaam** (reference-entry) *(explicit citation)*
 - **Dog** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
+- **Gentile** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 5
 slug: 1pet-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ _Not yet developed._
 - **Babylon or Babel** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **Elders** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

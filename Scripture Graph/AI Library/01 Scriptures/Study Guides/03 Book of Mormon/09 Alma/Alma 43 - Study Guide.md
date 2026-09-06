@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 43
 slug: alma-43
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ The people of Ammon embody a different obligation. Their [[Covenants]] prevent t
 - [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
 - [[Watchful unto Prayer Continually (Elder David A. Bednar, October 2019)|Watchful unto Prayer Continually]] — Elder David A. Bednar, 2019-October *(explicit citation)*
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
+- [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
 - [[Courageous Parenting (Elder Larry R. Lawrence, October 2010)|Courageous Parenting]] — Elder Larry R. Lawrence, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 

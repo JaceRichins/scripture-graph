@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 36
 slug: jer-36
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

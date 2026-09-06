@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 9
 slug: 2cor-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
+- [[Gratitude A Path to Happiness (Bonnie D. Parkin, April 2007)|Gratitude: A Path to Happiness]] — Bonnie D. Parkin, 2007-April *(explicit citation)*
 - [[Unselfish Service (Elder Dallin H. Oaks, April 2009)|Unselfish Service]] — Elder Dallin H. Oaks, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 

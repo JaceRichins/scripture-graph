@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 10
 slug: rom-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,8 @@ _Not yet developed._
 - [[D&C 46]] — 1 footnote cross-reference (from [[Romans 10#^rom-10-10|Romans 10:10]])
 - [[Acts 10]] — 1 footnote cross-reference (from [[Romans 10#^rom-10-12|Romans 10:12]])
 - [[Romans 2]] — 1 footnote cross-reference (from [[Romans 10#^rom-10-12|Romans 10:12]])
+- [[Isaiah 65]] — 0 parallel verses
+- [[Joel 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +85,7 @@ _Not yet developed._
 - **Confession** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 6
 slug: mosiah-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Preserving the Voice of the Covenant People in the Rising Generation (Brother Jan E. Newman, October 2023)|Preserving the Voice of the Covenant People in the Rising Generation]] — Brother Jan E. Newman, 2023-October *(explicit citation)*
 - [[General Conference Strengthening Faith and Testimony (Elder Robert D. Hales, October 2013)|General Conference: Strengthening Faith and Testimony]] — Elder Robert D. Hales, 2013-October *(explicit citation)*
+- [[Remember and Perish Not (Elder Marlin K. Jensen, April 2007)|Remember and Perish Not]] — Elder Marlin K. Jensen, 2007-April *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 

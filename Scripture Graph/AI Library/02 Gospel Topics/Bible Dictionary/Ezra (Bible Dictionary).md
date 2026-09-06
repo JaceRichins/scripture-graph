@@ -1,0 +1,20 @@
+---
+ownership: system
+mutable: ai
+content_type: reference
+collection: bible-dictionary
+url: https://www.churchofjesuschrist.org/study/scriptures/bd/ezra?lang=eng
+doc_id: glib:/scriptures/bd/ezra
+---
+
+# Ezra
+
+*Bible Dictionary* · [source](https://www.churchofjesuschrist.org/study/scriptures/bd/ezra?lang=eng)
+
+A famous priest and scribe who brought back part of the exiles from captivity (Ezra 7–10; Neh. 8; 12). The object of his mission was “to teach in Israel statutes and judgments.” In 458 B.C. he obtained from Artaxerxes an important edict (Ezra 7:12–26) allowing him to take to Jerusalem any Jewish exiles who cared to go, along with offerings for the temple with which he was entrusted, and giving to the Jews various rights and privileges. He was also directed to appoint magistrates and judges. On arriving in Jerusalem his first reform was to cause the Jews to separate from their foreign wives, and a list is given of those who had offended in this way (Ezra 10). The later history of Ezra is found in the book of Nehemiah, which is a sequel to the book of Ezra. Along with Nehemiah he took steps to instruct the people in the Mosaic law (Neh. 8). Hitherto “the law” had been to a great extent the exclusive possession of the priests. It was now brought within the reach of every Jew. The open reading of “the book of the law” was a new departure and marked the law as the center of Jewish national life.
+
+A good many traditions have gathered around the name of Ezra. He is said to have formed the canon of Hebrew scripture and to have established an important national council, called the Great Synagogue, over which he presided. But for none of these traditions is there trustworthy evidence. The Jews of later days were inclined to attribute to the influence of Ezra every religious development between the days of Nehemiah and the Maccabees.
+
+The book of Ezra contains also an introductory section (Ezra 1–6) describing events that happened from 60 to 80 years before the arrival of Ezra in Jerusalem, that is, the decree of Cyrus, 537 B.C., and the return of Jews under Zerubbabel; the attempt to build the temple and the hindrances due to the Samaritans; the preaching of Haggai and Zechariah and the completion of the temple, 516 B.C. There is no record in the book of any events between this date and the mission of Ezra.
+
+Religious values in the book of Ezra are found in the teaching that (1) the promises of the Lord through His prophets shall all be fulfilled (Ezra 1:1; see also Jer. 25:13; 29:10; D&C 1:37–38; 5:20); (2) discipline and patience are born of disappointment, as one expectation after another was frustrated; (3) there is eternal significance in everyday life; (4) preparation is needed for the rule of Messiah, the law being the schoolmaster to bring men to Christ.

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 5
 slug: john-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,7 +52,7 @@ Jesus later appears to recall this healing in [[John 7]] (7:21-23), where he aga
 - [[D&C 76]] — 2 footnote cross-references (from [[John 5#^john-5-28|John 5:28]])
 - [[Matthew 11]] — 2 footnote cross-references (from [[John 5#^john-5-35|John 5:35]])
 - [[Matthew 26]] — 1 footnote cross-reference (from [[John 5#^john-5-1|John 5:1]])
-- [[John 6]] — 0 parallel verses
+- [[John 6]] — 3 parallel verses, e.g. [[John 5#^john-5-19|John 5:19]] ↔ [[John 6#^john-6-32|John 6:32]]
 - [[John 8]] — 0 parallel verses
 - [[Daniel 12]] — 0 parallel verses
 - [[1 John 2]] — 0 parallel verses

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 7
 slug: isa-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,18 +60,18 @@ Scripture: [[Isaiah 7]] · My notes: [[Isaiah 7 - My Notes]]
 - [[Isaiah 10]] — 6 parallel verses, e.g. [[Isaiah 7#^isa-7-18|Isaiah 7:18]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[2 Nephi 20]] — 6 parallel verses, e.g. [[Isaiah 7#^isa-7-18|Isaiah 7:18]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
 - [[2 Kings 15]] — 3 parallel verses, e.g. [[Isaiah 7#^isa-7-1|Isaiah 7:1]] ↔ [[2 Kings 15#^2kgs-15-32|2 Kings 15:32]]
+- [[Isaiah 11]] — 3 parallel verses, e.g. [[Isaiah 7#^isa-7-18|Isaiah 7:18]] ↔ [[Isaiah 11#^isa-11-11|Isaiah 11:11]]
 - [[Isaiah 24]] — 3 parallel verses, e.g. [[Isaiah 7#^isa-7-18|Isaiah 7:18]] ↔ [[Isaiah 24#^isa-24-21|Isaiah 24:21]]
 - [[2 Nephi 21]] — 3 parallel verses, e.g. [[Isaiah 7#^isa-7-18|Isaiah 7:18]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
 - [[Joel 3]] — 3 parallel verses, e.g. [[Isaiah 7#^isa-7-18|Isaiah 7:18]] ↔ [[Joel 3#^joel-3-18|Joel 3:18]]
 - [[Zechariah 13]] — 3 parallel verses, e.g. [[Isaiah 7#^isa-7-18|Isaiah 7:18]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
-- [[Isaiah 36]] — 1 parallel verse, e.g. [[Isaiah 7#^isa-7-3|Isaiah 7:3]] ↔ [[Isaiah 36#^isa-36-2|Isaiah 36:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Prophecy]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Alma 7]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -96,6 +96,7 @@ Scripture: [[Isaiah 7]] · My notes: [[Isaiah 7 - My Notes]]
 - **Latter Day Saints' Messenger and Advocate 1836-02-01 (Vol. 2 No. 5)** (periodical, 1836-02-01) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
+- **Fullers** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

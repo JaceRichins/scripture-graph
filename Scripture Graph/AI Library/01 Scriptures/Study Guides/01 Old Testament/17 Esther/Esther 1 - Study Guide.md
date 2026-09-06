@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 1
 slug: esth-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Esther 8]] — 1 parallel verse, e.g. [[Esther 1#^esth-1-22|Esther 1:22]] ↔ [[Esther 8#^esth-8-9|Esther 8:9]]
 - [[Daniel 6]] — 0 parallel verses
 - [[Esther 2]] — 0 parallel verses
+- [[Daniel 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

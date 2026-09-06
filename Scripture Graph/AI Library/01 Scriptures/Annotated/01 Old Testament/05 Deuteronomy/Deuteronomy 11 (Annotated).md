@@ -35,10 +35,10 @@ cssclasses:
 ![[Deuteronomy 11#^deut-11-7]]
 
 ![[Deuteronomy 11#^deut-11-8]]
-> [[1 Nephi 4#^1ne-4-2|1 Ne. 4:2]] · [[Ether 12#^ether-12-27|Ether 12:27]] · [[D&C 38#^dc-38-15|D&amp;C 38:15]] · [[Joshua 1#^josh-1-6|Josh. 1:6 (6–7)]] · [[1 Nephi 10#^1ne-10-3|1 Ne. 10:3]] · [[Abraham 2#^abr-2-6|Abr. 2:6]] · [[Deuteronomy 4#^deut-4-5|≈ Deuteronomy 4:5]] · [[Deuteronomy 4#^deut-4-1|≈ Deuteronomy 4:1]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 27#^deut-27-1|≈ Deuteronomy 27:1]]
+> [[1 Nephi 4#^1ne-4-2|1 Ne. 4:2]] · [[Ether 12#^ether-12-27|Ether 12:27]] · [[D&C 38#^dc-38-15|D&amp;C 38:15]] · [[Joshua 1#^josh-1-6|Josh. 1:6 (6–7)]] · [[1 Nephi 10#^1ne-10-3|1 Ne. 10:3]] · [[Abraham 2#^abr-2-6|Abr. 2:6]] · [[Deuteronomy 4#^deut-4-5|≈ Deuteronomy 4:5]] · [[Deuteronomy 4#^deut-4-1|≈ Deuteronomy 4:1]] · [[Deuteronomy 27#^deut-27-1|≈ Deuteronomy 27:1]] · [[Deuteronomy 6#^deut-6-1|≈ Deuteronomy 6:1]]
 
 ![[Deuteronomy 11#^deut-11-9]]
-> [[Exodus 20#^ex-20-12|Ex. 20:12]] · [[Alma 9#^alma-9-16|Alma 9:16]] · [[Helaman 15#^hel-15-10|Hel. 15:11 (10–11)]] · [[D&C 5#^dc-5-33|D&amp;C 5:33]] · [[Genesis 50#^gen-50-24|Gen. 50:24]] · [[D&C 27#^dc-27-10|D&amp;C 27:10]] · [[D&C 98#^dc-98-32|98:32]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 27#^deut-27-3|≈ Deuteronomy 27:3]] · [[Deuteronomy 28#^deut-28-11|≈ Deuteronomy 28:11]]
+> [[Exodus 20#^ex-20-12|Ex. 20:12]] · [[Alma 9#^alma-9-16|Alma 9:16]] · [[Helaman 15#^hel-15-10|Hel. 15:11 (10–11)]] · [[D&C 5#^dc-5-33|D&amp;C 5:33]] · [[Genesis 50#^gen-50-24|Gen. 50:24]] · [[D&C 27#^dc-27-10|D&amp;C 27:10]] · [[D&C 98#^dc-98-32|98:32]] · [[Deuteronomy 27#^deut-27-3|≈ Deuteronomy 27:3]] · [[Deuteronomy 28#^deut-28-11|≈ Deuteronomy 28:11]] · [[Deuteronomy 30#^deut-30-20|≈ Deuteronomy 30:20]]
 
 ![[Deuteronomy 11#^deut-11-10]]
 
@@ -48,7 +48,7 @@ cssclasses:
 ![[Deuteronomy 11#^deut-11-12]]
 
 ![[Deuteronomy 11#^deut-11-13]]
-> [[2 Thessalonians 3#^2thes-3-5|2 Thes. 3:5]] · [[Joshua 22#^josh-22-5|≈ Joshua 22:5]] · [[Deuteronomy 27#^deut-27-1|≈ Deuteronomy 27:1]] · [[Deuteronomy 13#^deut-13-3|≈ Deuteronomy 13:3]]
+> [[2 Thessalonians 3#^2thes-3-5|2 Thes. 3:5]] · [[Deuteronomy 27#^deut-27-1|≈ Deuteronomy 27:1]] · [[Joshua 22#^josh-22-5|≈ Joshua 22:5]] · [[Deuteronomy 13#^deut-13-3|≈ Deuteronomy 13:3]]
 
 ![[Deuteronomy 11#^deut-11-14]]
 > [[Deuteronomy 28#^deut-28-12|Deut. 28:12]] · [[Helaman 11#^hel-11-13|Hel. 11:13]] · [[Joel 2#^joel-2-23|Joel 2:23]] · [[Zechariah 10#^zech-10-1|Zech. 10:1]] · [[Deuteronomy 7#^deut-7-13|≈ Deuteronomy 7:13]]
@@ -70,7 +70,7 @@ cssclasses:
 > [[Deuteronomy 6#^deut-6-9|Deut. 6:9]] · [[Deuteronomy 6#^deut-6-9|≈ Deuteronomy 6:9]]
 
 ![[Deuteronomy 11#^deut-11-21]]
-> [[Psalm 89#^ps-89-29|Ps. 89:29]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 28#^deut-28-11|≈ Deuteronomy 28:11]] · [[Deuteronomy 30#^deut-30-20|≈ Deuteronomy 30:20]] · [[Joshua 5#^josh-5-6|≈ Joshua 5:6]] · [[Deuteronomy 1#^deut-1-8|≈ Deuteronomy 1:8]]
+> [[Psalm 89#^ps-89-29|Ps. 89:29]] · [[Deuteronomy 28#^deut-28-11|≈ Deuteronomy 28:11]] · [[Deuteronomy 30#^deut-30-20|≈ Deuteronomy 30:20]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Joshua 5#^josh-5-6|≈ Joshua 5:6]] · [[Deuteronomy 1#^deut-1-8|≈ Deuteronomy 1:8]]
 
 ![[Deuteronomy 11#^deut-11-22]]
 > [[Joshua 22#^josh-22-5|≈ Joshua 22:5]] · [[Deuteronomy 10#^deut-10-12|≈ Deuteronomy 10:12]]
@@ -81,7 +81,7 @@ cssclasses:
 > [[Genesis 15#^gen-15-18|Gen. 15:18]]
 
 ![[Deuteronomy 11#^deut-11-25]]
-> [[Deuteronomy 28#^deut-28-7|Deut. 28:10 (7–10)]] · [[Genesis 9#^gen-9-2|≈ Genesis 9:2]] · [[Deuteronomy 7#^deut-7-24|≈ Deuteronomy 7:24]]
+> [[Deuteronomy 28#^deut-28-7|Deut. 28:10 (7–10)]] · [[Deuteronomy 7#^deut-7-24|≈ Deuteronomy 7:24]] · [[Genesis 9#^gen-9-2|≈ Genesis 9:2]]
 
 ![[Deuteronomy 11#^deut-11-26]]
 
@@ -97,7 +97,7 @@ cssclasses:
 ![[Deuteronomy 11#^deut-11-30]]
 
 ![[Deuteronomy 11#^deut-11-31]]
-> [[Deuteronomy 12#^deut-12-10|≈ Deuteronomy 12:10]] · [[Deuteronomy 12#^deut-12-9|≈ Deuteronomy 12:9]] · [[Joshua 1#^josh-1-11|≈ Joshua 1:11]] · [[Joshua 1#^josh-1-15|≈ Joshua 1:15]]
+> [[Joshua 1#^josh-1-11|≈ Joshua 1:11]] · [[Joshua 1#^josh-1-15|≈ Joshua 1:15]] · [[Deuteronomy 12#^deut-12-10|≈ Deuteronomy 12:10]] · [[Deuteronomy 12#^deut-12-9|≈ Deuteronomy 12:9]]
 
 ![[Deuteronomy 11#^deut-11-32]]
 > [[Deuteronomy 4#^deut-4-8|≈ Deuteronomy 4:8]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 95
 slug: ps-95
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Psalm 89]] — 1 footnote cross-reference (from [[Psalm 95#^ps-95-1|Psalm 95:1]])
 - [[Psalm 149]] — 1 footnote cross-reference (from [[Psalm 95#^ps-95-6|Psalm 95:6]])
 - [[Hebrews 3]] — 5 parallel verses, e.g. [[Psalm 95#^ps-95-10|Psalm 95:10]] ↔ [[Hebrews 3#^heb-3-10|Hebrews 3:10]]
+- [[Jacob 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

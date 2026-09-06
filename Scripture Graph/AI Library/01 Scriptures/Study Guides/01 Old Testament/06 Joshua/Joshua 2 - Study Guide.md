@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 2
 slug: josh-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

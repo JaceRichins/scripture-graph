@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 17
 slug: mosiah-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,8 @@ _Not yet developed._
 - [[Build a Fortress of Spirituality and Protection (Elder Ronald A. Rasband, April 2019)|Build a Fortress of Spirituality and Protection]] — Elder Ronald A. Rasband, 2019-April *(explicit citation)*
 - [[Waiting on the Lord (Elder Jeffrey R. Holland, October 2020)|Waiting on the Lord]] — Elder Jeffrey R. Holland, 2020-October *(explicit citation)*
 - [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
+- [[One among the Crowd (Elder Dennis B. Neuenschwander, April 2008)|One among the Crowd]] — Elder Dennis B. Neuenschwander, 2008-April *(explicit citation)*
+- [[We Will Not Yield, We Cannot Yield (Elder W. Craig Zwick, April 2008)|We Will Not Yield, We Cannot Yield]] — Elder W. Craig Zwick, 2008-April *(explicit citation)*
 - [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*

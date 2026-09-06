@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 12
 slug: isa-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

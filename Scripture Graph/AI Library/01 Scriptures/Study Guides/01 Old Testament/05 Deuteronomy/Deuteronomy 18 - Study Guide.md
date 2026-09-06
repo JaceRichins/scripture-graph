@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 18
 slug: deut-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
+- **Firstfruits** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

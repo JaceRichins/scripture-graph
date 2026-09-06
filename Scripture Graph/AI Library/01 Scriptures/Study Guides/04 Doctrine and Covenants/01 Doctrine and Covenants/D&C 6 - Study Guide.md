@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 6
 slug: dc-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,18 +53,18 @@ _Not yet developed._
 - [[Matthew 7]] — 3 footnote cross-references (from [[D&C 6#^dc-6-5|D&C 6:5]])
 - [[D&C 10]] — 3 footnote cross-references (from [[D&C 6#^dc-6-12|D&C 6:12]])
 - [[Hebrews 4]] — 2 footnote cross-references (from [[D&C 6#^dc-6-2|D&C 6:2]])
+- [[D&C 11]] — 12 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 11#^dc-11-3|D&C 11:3]]
 - [[D&C 12]] — 6 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 12#^dc-12-3|D&C 12:3]]
+- [[D&C 14]] — 7 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 14#^dc-14-3|D&C 14:3]]
 - [[D&C 10]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 10#^dc-10-57|D&C 10:57]]
 - [[D&C 33]] — 3 parallel verses, e.g. [[D&C 6#^dc-6-2|D&C 6:2]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
 - [[Matthew 18]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-32|D&C 6:32]] ↔ [[Matthew 18#^matt-18-20|Matthew 18:20]]
 - [[D&C 39]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 39#^dc-39-2|D&C 39:2]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 45#^dc-45-8|D&C 45:8]]
+- [[D&C 4]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 4#^dc-4-4|D&C 4:4]]
 - [[2 Corinthians 13]] — 1 parallel verse, e.g. [[D&C 6#^dc-6-28|D&C 6:28]] ↔ [[2 Corinthians 13#^2cor-13-1|2 Corinthians 13:1]]
 - [[D&C 34]] — 1 parallel verse, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 34#^dc-34-2|D&C 34:2]]
 - [[Moroni 10]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-13|D&C 6:13]] ↔ [[Moroni 10#^moro-10-21|Moroni 10:21]]
-- [[Alma 59]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-26|D&C 6:26]] ↔ [[Alma 59#^alma-59-11|Alma 59:11]]
-- [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
-- [[D&C 88]] — 1 parallel verse, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 88#^dc-88-49|D&C 88:49]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

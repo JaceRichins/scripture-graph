@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 72
 slug: dc-72
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,8 +62,8 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Zion]] *(keyword match — unconfirmed)*
-- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Consecration]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

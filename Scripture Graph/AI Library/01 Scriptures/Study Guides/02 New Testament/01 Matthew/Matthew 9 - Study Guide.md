@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 9
 slug: matt-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ _Not yet developed._
 - **Bottles** (reference-entry) *(explicit citation)*
 - **Burial** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

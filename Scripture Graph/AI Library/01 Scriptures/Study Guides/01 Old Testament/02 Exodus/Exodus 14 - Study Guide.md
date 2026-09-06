@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 14
 slug: ex-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,11 +48,11 @@ Scripture: [[Exodus 14]] · My notes: [[Exodus 14 - My Notes]]
 - [[Exodus 7]] — 2 footnote cross-references (from [[Exodus 14#^ex-14-4|Exodus 14:4]])
 - [[Exodus 13]] — 2 footnote cross-references (from [[Exodus 14#^ex-14-12|Exodus 14:12]])
 - [[2 Nephi 7]] — 2 footnote cross-references (from [[Exodus 14#^ex-14-21|Exodus 14:21]])
+- [[Exodus 7]] — 3 parallel verses, e.g. [[Exodus 14#^ex-14-18|Exodus 14:18]] ↔ [[Exodus 7#^ex-7-5|Exodus 7:5]]
 - [[Exodus 10]] — 2 parallel verses, e.g. [[Exodus 14#^ex-14-26|Exodus 14:26]] ↔ [[Exodus 10#^ex-10-12|Exodus 10:12]]
+- [[Numbers 33]] — 1 parallel verse, e.g. [[Exodus 14#^ex-14-8|Exodus 14:8]] ↔ [[Numbers 33#^num-33-3|Numbers 33:3]]
 - [[Exodus 25]] — 2 parallel verses, e.g. [[Exodus 14#^ex-14-2|Exodus 14:2]] ↔ [[Exodus 25#^ex-25-2|Exodus 25:2]]
 - [[Numbers 19]] — 2 parallel verses, e.g. [[Exodus 14#^ex-14-2|Exodus 14:2]] ↔ [[Numbers 19#^num-19-2|Numbers 19:2]]
-- [[Exodus 7]] — 0 parallel verses
-- [[Numbers 33]] — 0 parallel verses
 - [[Exodus 15]] — 0 parallel verses
 - [[1 Corinthians 10]] — 0 parallel verses
 - [[Joshua 4]] — 0 parallel verses
@@ -83,6 +83,7 @@ Divine hardening in verses 4, 8, and 17 raises a serious question for [[Agency]]
 - [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
 - [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
 - [[More Than Conquerors through Him That Loved Us (Elder Paul V. Johnson, April 2011)|More Than Conquerors through Him That Loved Us]] — Elder Paul V. Johnson, 2011-April *(explicit citation)*
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

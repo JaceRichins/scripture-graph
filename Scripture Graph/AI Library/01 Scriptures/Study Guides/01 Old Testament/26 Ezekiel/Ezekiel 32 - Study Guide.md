@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 32
 slug: ezek-32
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -86,7 +86,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Elam** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -176,7 +176,7 @@ cssclasses:
 > [[Matthew 6#^matt-6-12|Matt. 6:15 (12–15)]] · [[Genesis 21#^gen-21-6|Gen. 21:6]] · [[D&C 25#^dc-25-9|D&amp;C 25:9]]
 
 ![[D&C 132#^dc-132-57]]
-> [[Matthew 10#^matt-10-28|Matt. 10:28]] · [[Revelation 12#^rev-12-12|Rev. 12:12 (12–17)]] · [[Isaiah 43#^isa-43-3|≈ Isaiah 43:3]] · [[D&C 108#^dc-108-8|≈ D&C 108:8]] · [[Abraham 2#^abr-2-7|≈ Abraham 2:7]] · [[Abraham 3#^abr-3-3|≈ Abraham 3:3]] · [[D&C 105#^dc-105-41|≈ D&C 105:41]]
+> [[Matthew 10#^matt-10-28|Matt. 10:28]] · [[Revelation 12#^rev-12-12|Rev. 12:12 (12–17)]] · [[Isaiah 43#^isa-43-3|≈ Isaiah 43:3]] · [[Abraham 2#^abr-2-7|≈ Abraham 2:7]] · [[Abraham 3#^abr-3-3|≈ Abraham 3:3]] · [[D&C 108#^dc-108-8|≈ D&C 108:8]] · [[D&C 105#^dc-105-41|≈ D&C 105:41]]
 
 ![[D&C 132#^dc-132-58]]
 > [[D&C 84#^dc-84-19|D&amp;C 84:19 (19–26)]]

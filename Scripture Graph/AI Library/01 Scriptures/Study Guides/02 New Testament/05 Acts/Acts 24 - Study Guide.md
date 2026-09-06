@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 24
 slug: acts-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,8 @@ _Not yet developed._
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Ananias** (reference-entry) *(explicit citation)*
 - **Drusilla** (reference-entry) *(explicit citation)*
+- **Felix** (reference-entry) *(explicit citation)*
+- **Festus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

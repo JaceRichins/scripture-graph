@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 20
 slug: 1kgs-20
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

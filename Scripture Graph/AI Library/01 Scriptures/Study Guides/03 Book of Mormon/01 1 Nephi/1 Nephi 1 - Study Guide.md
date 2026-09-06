@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 1
 slug: 1ne-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ The chapter serves simultaneously as a preface to Nephi's record and as the call
 - [[Ezekiel 2]] — 0 parallel verses
 - [[2 Chronicles 36]] — 0 parallel verses
 - [[Alma 36]] — 0 parallel verses
+- [[Helaman 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -104,6 +105,7 @@ The reference to a Messiah and "the redemption of the world" makes redemption ce
 - **Heaven** (reference-entry) *(explicit citation)*
 - **Heaven** (reference-entry) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -43,7 +43,7 @@ cssclasses:
 ![[Mormon 9#^morm-9-10]]
 
 ![[Mormon 9#^morm-9-11]]
-> [[Genesis 1#^gen-1-1|Gen. 1:1]] · [[Mosiah 4#^mosiah-4-2|Mosiah 4:2]] · [[D&C 76#^dc-76-20|D&amp;C 76:24 (20–24)]] · [[2 Nephi 2#^2ne-2-14|≈ 2 Nephi 2:14]] · [[3 Nephi 9#^3ne-9-15|≈ 3 Nephi 9:15]] · [[D&C 14#^dc-14-9|≈ D&C 14:9]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]] · [[Luke 20#^luke-20-37|≈ Luke 20:37]]
+> [[Genesis 1#^gen-1-1|Gen. 1:1]] · [[Mosiah 4#^mosiah-4-2|Mosiah 4:2]] · [[D&C 76#^dc-76-20|D&amp;C 76:24 (20–24)]] · [[Ether 4#^ether-4-7|≈ Ether 4:7]] · [[2 Nephi 2#^2ne-2-14|≈ 2 Nephi 2:14]] · [[3 Nephi 9#^3ne-9-15|≈ 3 Nephi 9:15]] · [[D&C 14#^dc-14-9|≈ D&C 14:9]] · [[Matthew 22#^matt-22-32|≈ Matthew 22:32]] · [[Mark 12#^mark-12-26|≈ Mark 12:26]]
 
 ![[Mormon 9#^morm-9-12]]
 > [[Mosiah 3#^mosiah-3-26|Mosiah 3:26]] · [[Moroni 8#^moro-8-8|Moro. 8:8]]

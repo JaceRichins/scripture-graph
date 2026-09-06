@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 12
 slug: 3ne-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,13 +89,13 @@ Verses 1–2 connect belief in Christ and the testimony of chosen witnesses with
 - [[Peacemakers Needed (President Russell M. Nelson, April 2023)|Peacemakers Needed]] — President Russell M. Nelson, 2023-April *(explicit citation)*
 - [[Blessed Are the Peacemakers (Elder Gary E. Stevenson, October 2025)|Blessed Are the Peacemakers]] — Elder Gary E. Stevenson, 2025-October *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[The Power of Spiritual Momentum (President Russell M. Nelson, April 2022)|The Power of Spiritual Momentum]] — President Russell M. Nelson, 2022-April *(explicit citation)*
 - [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
 - [[Following Christ (President Dallin H. Oaks, October 2024)|Following Christ]] — President Dallin H. Oaks, 2024-October *(explicit citation)*
 - [[“Come, Follow Me” by Practicing Christian Love and Service (Elder Robert D. Hales, October 2016)|“Come, Follow Me” by Practicing Christian Love and Service]] — Elder Robert D. Hales, 2016-October *(explicit citation)*
 - [[The Language of the Gospel (Elder Valeri V. Cordón, April 2017)|The Language of the Gospel]] — Elder Valeri V. Cordón, 2017-April *(explicit citation)*
 - [[Spiritual Eclipse (Elder Gary E. Stevenson, October 2017)|Spiritual Eclipse]] — Elder Gary E. Stevenson, 2017-October *(explicit citation)*
-- [[For Him (Joy D. Jones, October 2018)|For Him]] — Joy D. Jones, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 36
 slug: ezek-36
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Ezekiel 22]] — 2 footnote cross-references (from [[Ezekiel 36#^ezek-36-17|Ezekiel 36:17]])
 - [[Ezekiel 6]] — 3 parallel verses, e.g. [[Ezekiel 36#^ezek-36-4|Ezekiel 36:4]] ↔ [[Ezekiel 6#^ezek-6-3|Ezekiel 6:3]]
 - [[Ezekiel 20]] — 5 parallel verses, e.g. [[Ezekiel 36#^ezek-36-22|Ezekiel 36:22]] ↔ [[Ezekiel 20#^ezek-20-30|Ezekiel 20:30]]
+- [[Ezekiel 37]] — 4 parallel verses, e.g. [[Ezekiel 36#^ezek-36-23|Ezekiel 36:23]] ↔ [[Ezekiel 37#^ezek-37-28|Ezekiel 37:28]]
 - [[Jeremiah 7]] — 2 parallel verses, e.g. [[Ezekiel 36#^ezek-36-28|Ezekiel 36:28]] ↔ [[Jeremiah 7#^jer-7-23|Jeremiah 7:23]]
 - [[Ezekiel 11]] — 3 parallel verses, e.g. [[Ezekiel 36#^ezek-36-28|Ezekiel 36:28]] ↔ [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]]
 - [[Ezekiel 17]] — 3 parallel verses, e.g. [[Ezekiel 36#^ezek-36-36|Ezekiel 36:36]] ↔ [[Ezekiel 17#^ezek-17-21|Ezekiel 17:21]]
@@ -60,7 +61,6 @@ _Not yet developed._
 - [[Ezekiel 14]] — 1 parallel verse, e.g. [[Ezekiel 36#^ezek-36-22|Ezekiel 36:22]] ↔ [[Ezekiel 14#^ezek-14-6|Ezekiel 14:6]]
 - [[Leviticus 25]] — 2 parallel verses, e.g. [[Ezekiel 36#^ezek-36-28|Ezekiel 36:28]] ↔ [[Leviticus 25#^lev-25-18|Leviticus 25:18]]
 - [[Ezekiel 21]] — 2 parallel verses, e.g. [[Ezekiel 36#^ezek-36-3|Ezekiel 36:3]] ↔ [[Ezekiel 21#^ezek-21-9|Ezekiel 21:9]]
-- [[Ezekiel 25]] — 1 parallel verse, e.g. [[Ezekiel 36#^ezek-36-4|Ezekiel 36:4]] ↔ [[Ezekiel 25#^ezek-25-3|Ezekiel 25:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -90,7 +90,7 @@ The covenant formula in 36:28—Israel will be God's people and he will be Israe
 - [[Jesus Christ and Your New Beginning (Elder Patrick Kearon, October 2025)|Jesus Christ and Your New Beginning]] — Elder Patrick Kearon, 2025-October *(explicit citation)*
 - [[You Can Do It Now! (President Dieter F. Uchtdorf, October 2013)|You Can Do It Now!]] — President Dieter F. Uchtdorf, 2013-October *(explicit citation)*
 - [[Preserving the Heart’s Mighty Change (Elder Dale G. Renlund, October 2009)|Preserving the Heart’s Mighty Change]] — Elder Dale G. Renlund, 2009-October *(explicit citation)*
-- [[Take Up Our Cross (Elder Ulisses Soares, October 2019)|Take Up Our Cross]] — Elder Ulisses Soares, 2019-October *(explicit citation)*
+- [[To Learn, to Do, to Be (President Thomas S. Monson, October 2008)|To Learn, to Do, to Be]] — President Thomas S. Monson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 2
 slug: james-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,11 +58,12 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Faith]]
-- [[Final Judgment]]
-- [[Justification and Sanctification]]
 - [[Sacrifice of Isaac (Akedah)]]
 - [[Genesis 22]]
 - [[Joshua 2]]
+- [[Final Judgment]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -96,6 +97,7 @@ James also makes mercy an issue of accountability: those who show no mercy face 
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Death** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

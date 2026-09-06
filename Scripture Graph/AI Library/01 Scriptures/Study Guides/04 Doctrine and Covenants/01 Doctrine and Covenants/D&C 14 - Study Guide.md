@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 14
 slug: dc-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,8 @@ _Not yet developed._
 - [[Psalm 19]] — 1 footnote cross-reference (from [[D&C 14#^dc-14-7|D&C 14:7]])
 - [[Proverbs 7]] — 1 footnote cross-reference (from [[D&C 14#^dc-14-7|D&C 14:7]])
 - [[Mosiah 2]] — 1 footnote cross-reference (from [[D&C 14#^dc-14-7|D&C 14:7]])
+- [[D&C 6]] — 7 parallel verses, e.g. [[D&C 14#^dc-14-3|D&C 14:3]] ↔ [[D&C 6#^dc-6-3|D&C 6:3]]
+- [[D&C 11]] — 6 parallel verses, e.g. [[D&C 14#^dc-14-3|D&C 14:3]] ↔ [[D&C 11#^dc-11-3|D&C 11:3]]
 - [[D&C 12]] — 5 parallel verses, e.g. [[D&C 14#^dc-14-3|D&C 14:3]] ↔ [[D&C 12#^dc-12-3|D&C 12:3]]
 - [[D&C 33]] — 3 parallel verses, e.g. [[D&C 14#^dc-14-2|D&C 14:2]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
 - [[D&C 4]] — 2 parallel verses, e.g. [[D&C 14#^dc-14-3|D&C 14:3]] ↔ [[D&C 4#^dc-4-4|D&C 4:4]]
@@ -57,11 +59,9 @@ _Not yet developed._
 - [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 14#^dc-14-9|D&C 14:9]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[D&C 18]] — 1 parallel verse, e.g. [[D&C 14#^dc-14-8|D&C 14:8]] ↔ [[D&C 18#^dc-18-18|D&C 18:18]]
 - [[1 Nephi 15]] — 1 parallel verse, e.g. [[D&C 14#^dc-14-7|D&C 14:7]] ↔ [[1 Nephi 15#^1ne-15-36|1 Nephi 15:36]]
-- [[D&C 6]] — 0 parallel verses
 - [[D&C 12]] — 0 parallel verses
 - [[Hebrews 4]] — 0 parallel verses
 - [[John 4]] — 0 parallel verses
-- [[Matthew 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

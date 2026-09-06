@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 1
 slug: moro-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

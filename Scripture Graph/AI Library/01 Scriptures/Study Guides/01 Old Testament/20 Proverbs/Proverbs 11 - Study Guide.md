@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 11
 slug: prov-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[Proverbs 3]] — 0 parallel verses
 - [[Proverbs 13]] — 0 parallel verses
 - [[1 Peter 4]] — 0 parallel verses
+- [[Deuteronomy 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Words of Mormon
 chapter: 1
 slug: wofm-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Jarom 1]] — 3 footnote cross-references (from [[Words of Mormon 1#^wofm-1-3|Words of Mormon 1:3]])
 - [[Mormon 6]] — 2 parallel verses, e.g. [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]] ↔ [[Mormon 6#^morm-6-1|Mormon 6:1]]
 - [[2 Nephi 2]] — 1 parallel verse, e.g. [[Words of Mormon 1#^wofm-1-11|Words of Mormon 1:11]] ↔ [[2 Nephi 2#^2ne-2-26|2 Nephi 2:26]]
+- [[Jacob 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

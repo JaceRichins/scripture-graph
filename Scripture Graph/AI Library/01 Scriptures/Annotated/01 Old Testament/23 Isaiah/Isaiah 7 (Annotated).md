@@ -68,7 +68,7 @@ cssclasses:
 > [[2 Nephi 17#^2ne-17-17|≈ 2 Nephi 17:17]]
 
 ![[Isaiah 7#^isa-7-18]]
-> [[Isaiah 5#^isa-5-26|Isa. 5:26]] · [[Joel 3#^joel-3-18|≈ Joel 3:18]] · [[Zechariah 13#^zech-13-4|≈ Zechariah 13:4]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]] · [[Zechariah 14#^zech-14-13|≈ Zechariah 14:13]] · [[Zechariah 12#^zech-12-9|≈ Zechariah 12:9]] · [[2 Nephi 17#^2ne-17-18|≈ 2 Nephi 17:18]]
+> [[Isaiah 5#^isa-5-26|Isa. 5:26]] · [[Joel 3#^joel-3-18|≈ Joel 3:18]] · [[Zechariah 13#^zech-13-4|≈ Zechariah 13:4]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]] · [[Zechariah 14#^zech-14-13|≈ Zechariah 14:13]] · [[Zechariah 12#^zech-12-9|≈ Zechariah 12:9]] · [[Isaiah 11#^isa-11-11|≈ Isaiah 11:11]]
 
 ![[Isaiah 7#^isa-7-19]]
 > [[2 Nephi 17#^2ne-17-19|≈ 2 Nephi 17:19]]
@@ -77,13 +77,13 @@ cssclasses:
 > [[2 Nephi 17#^2ne-17-20|≈ 2 Nephi 17:20]]
 
 ![[Isaiah 7#^isa-7-21]]
-> [[Joel 3#^joel-3-18|≈ Joel 3:18]] · [[Zechariah 13#^zech-13-4|≈ Zechariah 13:4]] · [[Zechariah 14#^zech-14-13|≈ Zechariah 14:13]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]] · [[Zechariah 12#^zech-12-9|≈ Zechariah 12:9]] · [[2 Nephi 17#^2ne-17-21|≈ 2 Nephi 17:21]]
+> [[Joel 3#^joel-3-18|≈ Joel 3:18]] · [[Zechariah 13#^zech-13-4|≈ Zechariah 13:4]] · [[Zechariah 14#^zech-14-13|≈ Zechariah 14:13]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]] · [[Zechariah 12#^zech-12-9|≈ Zechariah 12:9]] · [[Isaiah 11#^isa-11-11|≈ Isaiah 11:11]]
 
 ![[Isaiah 7#^isa-7-22]]
 > [[2 Nephi 17#^2ne-17-22|≈ 2 Nephi 17:22]]
 
 ![[Isaiah 7#^isa-7-23]]
-> [[Joel 3#^joel-3-18|≈ Joel 3:18]] · [[Zechariah 13#^zech-13-4|≈ Zechariah 13:4]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]] · [[Zechariah 14#^zech-14-13|≈ Zechariah 14:13]] · [[Zechariah 12#^zech-12-9|≈ Zechariah 12:9]] · [[2 Nephi 17#^2ne-17-23|≈ 2 Nephi 17:23]]
+> [[Joel 3#^joel-3-18|≈ Joel 3:18]] · [[Zechariah 13#^zech-13-4|≈ Zechariah 13:4]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]] · [[Zechariah 14#^zech-14-13|≈ Zechariah 14:13]] · [[Zechariah 12#^zech-12-9|≈ Zechariah 12:9]] · [[Isaiah 11#^isa-11-11|≈ Isaiah 11:11]]
 
 ![[Isaiah 7#^isa-7-24]]
 > [[2 Nephi 17#^2ne-17-24|≈ 2 Nephi 17:24]]

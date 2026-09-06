@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 4
 slug: judg-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chariot** (reference-entry) *(explicit citation)*
+- **Esdraelon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

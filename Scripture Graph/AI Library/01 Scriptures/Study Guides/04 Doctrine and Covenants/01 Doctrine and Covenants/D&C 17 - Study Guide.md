@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 17
 slug: dc-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ The repeated “righteous purposes” clause links verse 4 with the conclusion i
 - [[Ether 4]] — 2 footnote cross-references (from [[D&C 17#^dc-17-1|D&C 17:1]])
 - [[2 Nephi 5]] — 2 footnote cross-references (from [[D&C 17#^dc-17-1|D&C 17:1]])
 - [[Mormon 6]] — 1 footnote cross-reference (from [[D&C 17#^dc-17-1|D&C 17:1]])
+- [[D&C 18]] — 3 parallel verses, e.g. [[D&C 17#^dc-17-9|D&C 17:9]] ↔ [[D&C 18#^dc-18-33|D&C 18:33]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[D&C 17#^dc-17-8|D&C 17:8]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
 - [[D&C 9]] — 1 parallel verse, e.g. [[D&C 17#^dc-17-8|D&C 17:8]] ↔ [[D&C 9#^dc-9-14|D&C 9:14]]
 - [[D&C 21]] — 1 parallel verse, e.g. [[D&C 17#^dc-17-8|D&C 17:8]] ↔ [[D&C 21#^dc-21-6|D&C 21:6]]
@@ -62,12 +63,13 @@ The repeated “righteous purposes” clause links verse 4 with the conclusion i
 - [[2 Nephi 27]] — 0 parallel verses
 - [[Ether 12]] — 0 parallel verses
 - [[2 Corinthians 12]] — 0 parallel verses
+- [[D&C 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Liahona (compass)]]
 - [[Witnesses of the Book of Mormon]]
+- [[Liahona (compass)]]
 - [[Records and Sacred Writings]]
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 37
 slug: ps-37
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,8 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[School Thy Feelings, O My Brother (President Thomas S. Monson, October 2009)|School Thy Feelings, O My Brother]] — President Thomas S. Monson, 2009-October *(explicit citation)*
+- [[Commitment to the Lord (Elder John B. Dickson, April 2007)|Commitment to the Lord]] — Elder John B. Dickson, 2007-April *(explicit citation)*
+- [[Christian Courage The Price of Discipleship (Elder Robert D. Hales, October 2008)|Christian Courage: The Price of Discipleship]] — Elder Robert D. Hales, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

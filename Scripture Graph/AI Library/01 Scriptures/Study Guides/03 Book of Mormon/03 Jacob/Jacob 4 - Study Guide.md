@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 4
 slug: jacob-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -64,9 +64,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Records and Sacred Writings]]
 - [[Prophecy]]
 - [[Truth]]
-- [[Records and Sacred Writings]]
 - [[Sacrifice of Isaac (Akedah)]]
 - [[Law of Moses]]
 - [[Condescension of God]]
@@ -104,6 +104,7 @@ Jacob does not treat the [[Law of Moses]] and faith in Christ as competing syste
 - **Truth** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

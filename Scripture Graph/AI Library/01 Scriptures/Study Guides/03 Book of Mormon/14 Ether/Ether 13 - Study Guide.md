@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 13
 slug: ether-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,12 +54,12 @@ Ether 13 divides at verse 13:
 - [[Genesis 7]] — 1 footnote cross-reference (from [[Ether 13#^ether-13-2|Ether 13:2]])
 - [[Genesis 8]] — 1 footnote cross-reference (from [[Ether 13#^ether-13-2|Ether 13:2]])
 - [[Ether 2]] — 1 footnote cross-reference (from [[Ether 13#^ether-13-2|Ether 13:2]])
+- [[Ether 14]] — 3 parallel verses, e.g. [[Ether 13#^ether-13-28|Ether 13:28]] ↔ [[Ether 14#^ether-14-15|Ether 14:15]]
 - [[3 Nephi 5]] — 3 parallel verses, e.g. [[Ether 13#^ether-13-11|Ether 13:11]] ↔ [[3 Nephi 5#^3ne-5-26|3 Nephi 5:26]]
 - [[Alma 46]] — 4 parallel verses, e.g. [[Ether 13#^ether-13-7|Ether 13:7]] ↔ [[Alma 46#^alma-46-23|Alma 46:23]]
 - [[Alma 1]] — 2 parallel verses, e.g. [[Ether 13#^ether-13-18|Ether 13:18]] ↔ [[Alma 1#^alma-1-1|Alma 1:1]]
 - [[D&C 29]] — 1 parallel verse, e.g. [[Ether 13#^ether-13-9|Ether 13:9]] ↔ [[D&C 29#^dc-29-23|D&C 29:23]]
 - [[3 Nephi 16]] — 1 parallel verse, e.g. [[Ether 13#^ether-13-11|Ether 13:11]] ↔ [[3 Nephi 16#^3ne-16-5|3 Nephi 16:5]]
-- [[Ether 14]] — 0 parallel verses
 - [[Ether 15]] — 0 parallel verses
 - [[D&C 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -67,10 +67,10 @@ Ether 13 divides at verse 13:
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Zion]]
-- [[War and Peace]]
 - [[Secret Combinations]]
 - [[Prophecy]]
 - [[Records and Sacred Writings]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

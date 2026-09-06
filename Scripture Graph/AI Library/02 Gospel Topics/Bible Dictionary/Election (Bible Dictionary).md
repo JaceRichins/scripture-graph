@@ -1,0 +1,20 @@
+---
+ownership: system
+mutable: ai
+content_type: reference
+collection: bible-dictionary
+url: https://www.churchofjesuschrist.org/study/scriptures/bd/election?lang=eng
+doc_id: glib:/scriptures/bd/election
+---
+
+# Election
+
+*Bible Dictionary* · [source](https://www.churchofjesuschrist.org/study/scriptures/bd/election?lang=eng)
+
+A theological term primarily denoting God’s choice of the house of Israel to be the covenant people with privileges and responsibilities, that they might become a means of blessing to the whole world (Rom. 9:11; 11:5, 7, 28). Election is an opportunity for service and is both on a national and an individual basis. On a national basis the seed of Abraham carry the gospel to the world. But it is by individual faithfulness that it is done.
+
+The elect are chosen even “before the foundation of the world,” yet no one is unconditionally elected to eternal life. Each must, for himself, hearken to the gospel and receive its ordinances and covenants from the hands of the servants of the Lord in order to obtain salvation. If one is elected but does not serve, his election could be said to have been in vain, as Paul expressed in 2 Cor. 6:1.
+
+We see that elections are not all of the same kind. Since election has to do with God’s choice of persons or groups to accomplish His purposes, some may be elected by Him to one thing and some to another. Although the Lord uses certain individuals to accomplish His purposes, it does not necessarily follow that these persons will automatically receive a fulness of salvation thereby. For instance, Nebuchadnezzar and Cyrus fulfilled certain purposes in the economy of God, but they apparently did it for their own reasons and not as conscious acts of faith and righteousness. On the other hand, salvation of one’s soul comes only by personal integrity and willing obedience to the laws and ordinances of the gospel of Jesus Christ. Thus there are some elections to be desired over others. An “election of grace” spoken of in D&C 84:98–102 and Rom. 11:1–5 has reference to one’s situation in mortality; that is, being born at a time, at a place, and in circumstances where one will come in favorable contact with the gospel. This election took place in the premortal existence. Those who are faithful and diligent in the gospel in mortality receive an even more desirable election in this life and become the elect of God. These receive the promise of a fulness of God’s glory in eternity (D&C 84:33–41).
+
+The concept held by many that God unconditionally elected some to be saved and some to be damned without any effort, action, or choice on their part is not correct, for the scriptures teach that it is only by faith and obedience that one’s calling and election is made sure (2 Pet. 1; D&C 131:5). See also Abraham, covenant of.

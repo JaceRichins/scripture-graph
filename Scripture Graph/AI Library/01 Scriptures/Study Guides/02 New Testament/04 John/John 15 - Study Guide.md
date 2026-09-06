@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 15
 slug: john-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,14 +49,15 @@ _Not yet developed._
 - [[Matthew 15]] — 1 footnote cross-reference (from [[John 15#^john-15-2|John 15:2]])
 - [[Matthew 7]] — 1 footnote cross-reference (from [[John 15#^john-15-2|John 15:2]])
 - [[Luke 3]] — 1 footnote cross-reference (from [[John 15#^john-15-2|John 15:2]])
-- [[John 16]] — 0 parallel verses
+- [[John 13]] — 2 parallel verses, e.g. [[John 15#^john-15-20|John 15:20]] ↔ [[John 13#^john-13-16|John 13:16]]
+- [[John 16]] — 3 parallel verses, e.g. [[John 15#^john-15-11|John 15:11]] ↔ [[John 16#^john-16-1|John 16:1]]
 - [[John 14]] — 0 parallel verses
 - [[John 13]] — 0 parallel verses
 - [[1 John 3]] — 0 parallel verses
 - [[1 John 3]] — 0 parallel verses
-- [[John 13]] — 0 parallel verses
 - [[John 14]] — 0 parallel verses
 - [[John 16]] — 0 parallel verses
+- [[John 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

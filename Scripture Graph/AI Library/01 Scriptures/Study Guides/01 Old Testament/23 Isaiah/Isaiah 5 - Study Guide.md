@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 5
 slug: isa-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -47,10 +47,10 @@ _Not yet developed._
 - [[Proverbs 24]] — 1 footnote cross-reference (from [[Isaiah 5#^isa-5-5|Isaiah 5:5]])
 - [[Lamentations 2]] — 1 footnote cross-reference (from [[Isaiah 5#^isa-5-5|Isaiah 5:5]])
 - [[2 Nephi 15]] — 33 parallel verses, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]]
+- [[Isaiah 9]] — 4 parallel verses, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[Isaiah 9#^isa-9-12|Isaiah 9:12]]
 - [[2 Nephi 19]] — 4 parallel verses, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]]
 - [[Isaiah 10]] — 1 parallel verse, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[Isaiah 10#^isa-10-4|Isaiah 10:4]]
 - [[2 Nephi 20]] — 1 parallel verse, e.g. [[Isaiah 5#^isa-5-25|Isaiah 5:25]] ↔ [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]]
-- [[Isaiah 9]] — 0 parallel verses
 - [[2 Nephi 15]] — 0 parallel verses
 - [[Isaiah 10]] — 0 parallel verses
 - [[Matthew 21]] — 0 parallel verses

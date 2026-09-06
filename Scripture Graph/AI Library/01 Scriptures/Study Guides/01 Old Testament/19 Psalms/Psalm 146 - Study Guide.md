@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 146
 slug: ps-146
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,7 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

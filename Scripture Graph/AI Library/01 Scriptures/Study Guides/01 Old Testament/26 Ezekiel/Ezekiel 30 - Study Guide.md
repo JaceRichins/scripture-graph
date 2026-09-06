@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 30
 slug: ezek-30
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

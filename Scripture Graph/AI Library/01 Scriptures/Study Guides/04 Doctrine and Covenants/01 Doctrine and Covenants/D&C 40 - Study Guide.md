@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 40
 slug: dc-40
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -65,7 +65,7 @@ D&C 40 sets [[Covenants|covenant]]-making next to covenant-breaking: Covel's sin
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Do It Now (Elder Donald L. Hallstrom, October 2007)|Do It Now]] — Elder Donald L. Hallstrom, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

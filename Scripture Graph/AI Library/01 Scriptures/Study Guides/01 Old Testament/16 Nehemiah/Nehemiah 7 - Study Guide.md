@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 7
 slug: neh-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Bethlehem** (reference-entry) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

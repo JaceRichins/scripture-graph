@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 49
 slug: gen-49
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ Several sayings tie conduct to lasting consequence: Reuben's diminished status i
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[To the Aaronic Priesthood Preparing for the Decade of Decision (Elder Robert D. Hales, April 2007)|To the Aaronic Priesthood: Preparing for the Decade of Decision]] — Elder Robert D. Hales, 2007-April *(explicit citation)*
 - [[Conference Report, October 1918 (General Conference (full report), October 1918)|Conference Report, October 1918]] — General Conference (full report), 1918-October *(explicit citation)*
 - [[Conference Report, April 1928 (General Conference (full report), April 1928)|Conference Report, April 1928]] — General Conference (full report), 1928-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -85,6 +86,7 @@ Several sayings tie conduct to lasting consequence: Reuben's diminished status i
 - **Asher** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Dan** (reference-entry) *(explicit citation)*
+- **Gad** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

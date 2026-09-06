@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 14
 slug: acts-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,8 @@ The Antioch in verse 21 is Pisidian Antioch; the Antioch in verses 26–28 is th
 - **Barnabas** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Dispersion** (reference-entry) *(explicit citation)*
+- **Elders** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

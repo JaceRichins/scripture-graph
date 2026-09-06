@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 24
 slug: ex-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ The narrative narrows from the assembled people to selected representatives and 
 - [[Matthew 26]] — 0 parallel verses
 - [[Luke 22]] — 0 parallel verses
 - [[Exodus 40]] — 0 parallel verses
+- [[Exodus 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +84,7 @@ _Not yet developed._
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Blood** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
+- **Elders** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 26
 slug: 2chr-26
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Ashdod or Azotus** (reference-entry) *(explicit citation)*
 - **Chronicles** (reference-entry) *(explicit citation)*
+- **Gath** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

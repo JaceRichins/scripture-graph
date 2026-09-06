@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 5
 slug: josh-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ Joshua 5 forms a transition between the Jordan crossing (chapters 3-4) and the a
 - [[Numbers 16]] — 2 parallel verses, e.g. [[Joshua 5#^josh-5-6|Joshua 5:6]] ↔ [[Numbers 16#^num-16-13|Numbers 16:13]]
 - [[Deuteronomy 26]] — 2 parallel verses, e.g. [[Joshua 5#^josh-5-6|Joshua 5:6]] ↔ [[Deuteronomy 26#^deut-26-9|Deuteronomy 26:9]]
 - [[Genesis 33]] — 2 parallel verses, e.g. [[Joshua 5#^josh-5-13|Joshua 5:13]] ↔ [[Genesis 33#^gen-33-1|Genesis 33:1]]
+- [[Numbers 9]] — 1 parallel verse, e.g. [[Joshua 5#^josh-5-10|Joshua 5:10]] ↔ [[Numbers 9#^num-9-5|Numbers 9:5]]
 - [[Numbers 22]] — 2 parallel verses, e.g. [[Joshua 5#^josh-5-13|Joshua 5:13]] ↔ [[Numbers 22#^num-22-23|Numbers 22:23]]
 - [[2 Samuel 13]] — 1 parallel verse, e.g. [[Joshua 5#^josh-5-13|Joshua 5:13]] ↔ [[2 Samuel 13#^2sam-13-34|2 Samuel 13:34]]
 - [[Exodus 12]] — 1 parallel verse, e.g. [[Joshua 5#^josh-5-10|Joshua 5:10]] ↔ [[Exodus 12#^ex-12-18|Exodus 12:18]]
@@ -60,14 +61,13 @@ Joshua 5 forms a transition between the Jordan crossing (chapters 3-4) and the a
 - [[Exodus 3]] — 0 parallel verses
 - [[Exodus 12]] — 0 parallel verses
 - [[Exodus 16]] — 0 parallel verses
-- [[Exodus 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[Passover]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -84,6 +84,7 @@ The chapter binds divine gift to human response: the LORD who gave manna in the 
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

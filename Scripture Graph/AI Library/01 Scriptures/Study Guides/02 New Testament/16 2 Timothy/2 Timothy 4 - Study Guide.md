@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 4
 slug: 2tim-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ _Not yet developed._
 - [[Adversity (President Henry B. Eyring, April 2009)|Adversity]] — President Henry B. Eyring, 2009-April *(explicit citation)*
 - [[Attempting the Impossible (Elder Jorge F. Zeballos, October 2009)|Attempting the Impossible]] — Elder Jorge F. Zeballos, 2009-October *(explicit citation)*
 - [[What Have You Done with My Name (Elder Mervyn B. Arnold, October 2010)|What Have You Done with My Name?]] — Elder Mervyn B. Arnold, 2010-October *(explicit citation)*
+- [[Lay Up in Store (Bishop Keith B. McMullin, April 2007)|Lay Up in Store]] — Bishop Keith B. McMullin, 2007-April *(explicit citation)*
 - [[The Righteous Judge (Elder Lynn G. Robbins, October 2016)|The Righteous Judge]] — Elder Lynn G. Robbins, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -83,6 +84,9 @@ _Not yet developed._
 - **Alexander** (reference-entry) *(explicit citation)*
 - **Aquila** (reference-entry) *(explicit citation)*
 - **Clothing** (reference-entry) *(explicit citation)*
+- **Ephesus** (reference-entry) *(explicit citation)*
+- **Evangelist** (reference-entry) *(explicit citation)*
+- **Games** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

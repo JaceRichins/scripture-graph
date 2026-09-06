@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 5
 slug: ezra-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

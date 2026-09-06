@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 8
 slug: prov-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,7 +58,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[This Day (Elder Henry B. Eyring, April 2007)|This Day]] — Elder Henry B. Eyring, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 1
 slug: 1jn-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ Fellowship also has both vertical and communal dimensions. The recipients are in
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[A Pattern for Peace (Bishop W. Christopher Waddell, April 2016)|A Pattern for Peace]] — Bishop W. Christopher Waddell, 2016-April *(explicit citation)*
 - [[Bearers of Heavenly Light (President Dieter F. Uchtdorf, October 2017)|Bearers of Heavenly Light]] — President Dieter F. Uchtdorf, 2017-October *(explicit citation)*
@@ -82,7 +83,6 @@ Fellowship also has both vertical and communal dimensions. The recipients are in
 - [[Integrity A Christlike Attribute (Elder Jack N. Gerard, April 2024)|Integrity: A Christlike Attribute]] — Elder Jack N. Gerard, 2024-April *(explicit citation)*
 - [[“Return unto Me … That I May Heal You” (Elder S. Mark Palmer, April 2025)|“Return unto Me … That I May Heal You”]] — Elder S. Mark Palmer, 2025-April *(explicit citation)*
 - [[The Hope of God’s Light (President Dieter F. Uchtdorf, April 2013)|The Hope of God’s Light]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
-- [[“I Have Given You an Example” (Elder Richard G. Scott, April 2014)|“I Have Given You an Example”]] — Elder Richard G. Scott, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

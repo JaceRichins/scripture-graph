@@ -1,0 +1,241 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elder Quentin L. Cook
+year: '2008'
+month: October
+url: https://www.churchofjesuschrist.org/general-conference/2008/10/hope-ya-know-we-had-a-hard-time?lang=eng
+doc_id: talk:2008-october-hope-ya-know-we-had-a-hard-time
+full_text: true
+---
+
+# “Hope Ya Know, We Had a Hard Time”
+
+**Speaker:** Elder Quentin L. Cook · **Conference:** October 2008 · [source](https://www.churchofjesuschrist.org/general-conference/2008/10/hope-ya-know-we-had-a-hard-time?lang=eng)
+
+“Hope Ya Know, We Had a Hard Time”
+
+By Elder Quentin L. Cook
+
+Of the Quorum of the Twelve Apostles
+
+We know from the scriptures that some trials are for our good and are suited for our own personal development.
+
+Last winter my daughter had a white-knuckle experience driving in a severe snowstorm. She reminded me of a similar situation I had with my two sons many years ago. My youngest son, Joe, was three years old, and my son Larry was six. We were traveling by car from San Francisco to Utah in June. The weather had been very good.
+
+As we started our ascent to the Donner Pass summit in the Sierra Nevada Mountains, suddenly and without warning an enormous snowstorm hit us. None of the drivers was prepared. A semitruck in front of us had jackknifed and was spread across two lanes. Other trucks and cars had slid off the freeway. One lane was open, and many vehicles, including ours, were desperately trying to gain traction to avoid the other vehicles. All traffic then came to a halt.
+
+We were not prepared for this blizzard in June. We had no warm clothing, and our fuel was relatively low. I huddled with the two boys in an effort to keep us warm. After many hours, safety vehicles, snowplows, and tow trucks began to clear up the massive logjam of vehicles.
+
+Eventually a tow truck hauled us to a service station on the other side of the pass. I called my wife, knowing she would be worried because she had expected a call the prior evening. She asked if she could speak to the two boys. When it was the three-year-old’s turn, with a quivering voice he said, “Hope ya know, we had a hard time!”
+
+I could tell, as our three-year-old talked to his mother and told her of the hard time, he gained comfort and then reassurance. Our prayers are that way when we go to our Father in Heaven. We know He cares for us in our time of need.
+
+Each of Us Will Face Trials and Hardships in This Life
+
+The incident I just recounted, while a difficult travel situation, was brief, and there were no lasting consequences. However, many of the trials and hardships we encounter in life are severe and appear to have lasting consequences. Each of us will experience some of these during the vicissitudes of life. Many listening to this conference are experiencing situations of a most serious nature at this very moment.
+
+We resonate with the Prophet Joseph’s petition after he had been falsely accused and imprisoned in Liberty Jail for months: “O God, where art thou? And where is the pavilion that covereth thy hiding place?”
+
+The Lord’s answer is reassuring:
+
+“My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;
+
+“And then, if thou endure it well, God shall exalt thee on high.”
+
+One of the essential doctrines illuminated by the Restoration is that there must be opposition in all things for righteousness to be brought to pass. This life is not always easy, nor was it meant to be; it is a time of testing and proving. As we read in Abraham, “And we will prove them herewith, to see if they will do all things whatsoever the Lord their God shall command them.” Elder Harold B. Lee taught, “Sometimes the things that are best for us and the things that bring eternal rewards seem at the moment to be the most bitter, and the things forbidden are ofttimes the things which seem to be the more desirable.”
+
+The novel A Tale of Two Cities opens with the oft-quoted line “It was the best of times, it was the worst of times.” The scriptures make it clear that each generation has its own version of best and worst of times. We are all subject to the conflict between good and evil and the contrast between light and dark, hope and despair. As Elder Neal A. Maxwell explained, “The sharp, side-by-side contrast of the sweet and the bitter is essential until the very end of this brief, mortal experience.” We know from our doctrine that good will overcome evil, and those who repent and are sanctified shall be given eternal life.
+
+Near the time Dickens was writing his novel, the heroic efforts of the early Saints who settled the Intermountain West were occurring.
+
+Even with their common faith, the Saints had experienced much hardship and approached the evacuation of Nauvoo with very different expectations. Some looked forward with optimism, others with concern. Two excellent examples are presented by Helen Mar Whitney and Bathsheba Smith. Both have left compelling records of their feelings.
+
+Sister Whitney recorded her expectations upon leaving Nauvoo: “I will pack away all my little ribbons, collars and laces, etc., for we are going where we cannot purchase them. We are going out from the world to live beyond the Rocky Mountains where none others will wish to go. … There will be neither rich nor poor among us, and we will have none but the honest and virtuous.” Sister Whitney’s words resonate with an idealistic optimism.
+
+Sister Bathsheba Smith’s recorded feelings are also full of faith but evidence some trepidation. She had seen the mobs arrayed against the Saints in Missouri and was present at the death of the Apostle David W. Patten.
+
+Recalling the evacuation of Nauvoo, she wrote: “My last act in that precious spot was to tidy the rooms, sweep up the floor and set the broom in its accustomed place behind the door. Then with emotions in my heart … I gently closed the door and faced an unknown future, … faced it with faith in God and with no less assurance of the ultimate establishment of the Gospel in the West and of its true enduring principles, than I had felt in those trying scenes in Missouri.”
+
+Both of these LDS pioneer women remained strong in the gospel throughout their lives and provided wonderful service in building Zion, but they faced many additional trials and hardships, which they both faithfully endured. Despite Sister Whitney’s optimism, her first three children died at or near birth—two of them during her extended exodus from Nauvoo to Salt Lake. Sister Whitney has blessed us with her writings in defense of our faith and was the mother of the Apostle Orson F. Whitney.
+
+Sister Smith recorded the poverty, sickness, and privation that the Saints suffered as they made their way west. In March of 1847 her mother passed away, and the next month her second son, John, was born. Her record of that is brief: “He was my last child, and [he] lived only four hours.” Later in her life she was the matron of the Salt Lake Temple and the fourth general president of the Relief Society.
+
+We are deeply touched by the hardships that the early Saints endured. Brigham Young captured this somewhat humorously in February 1856 when he stated: “I might say something with regard to the hard times. You know that I have told you that if any one was afraid of starving to death, let him leave, and go where there is plenty. I do not apprehend the least danger of starving, for until we eat up the last mule, from the tip of the ear to the end of the fly whipper, I am not afraid of starving to death.”
+
+He went on to say, “There are many people who cannot now get employment, but the spring is going to open upon us soon, and we are not going to suffer any more than what is for our good.”
+
+The challenges we face today are in their own way comparable to challenges of the past. The recent economic crisis has caused significant concern throughout the world. Employment and financial problems are not unusual. Many people have physical and mental health challenges. Others deal with marital problems or wayward children. Some have lost loved ones. Addictions and inappropriate or harmful propensities cause heartache. Whatever the source of the trials, they cause significant pain and suffering for individuals and those who love them.
+
+We know from the scriptures that some trials are for our good and are suited for our own personal development. We also know that the rain falls on the just and the unjust. It is also true that every cloud we see doesn’t result in rain. Regardless of the challenges, trials, and hardships we endure, the reassuring doctrine of the Atonement wrought by Jesus Christ includes Alma’s teaching that the Savior would take upon Him our infirmities and “succor his people according to their infirmities.”
+
+The scriptures and modern prophets have made it clear that there will be lean years and plentiful years. The Lord expects us to be prepared for many of the challenges that come. He proclaims, “If ye are prepared ye shall not fear.” Part of the trauma I experienced crossing the Sierras in that blizzard many years ago occurred because I was not prepared for this sudden, unexpected event. One of the great blessings of the scriptures is that they warn us of challenges that are unexpected but often occur. We would do well to be prepared for them. One form of preparation is to keep the commandments.
+
+In numerous places in the Book of Mormon, the people were promised that they would prosper in the land if they would keep the commandments. This promise is often accompanied by the warning that if they do not keep the commandments of God, they shall be cut off from His presence. Clearly, having the blessings of the Spirit—the ministration of the Holy Ghost—is an essential element to truly prosper in the land and to be prepared.
+
+Regardless of our trials, with the abundance we have today, we would be ungrateful if we did not appreciate our blessings. Despite the obvious nature of the hardships the pioneers were experiencing, President Brigham Young talked about the significance of gratitude. He stated, “I do not know of any, excepting the unpardonable sin, that is greater than the sin of ingratitude.”
+
+Gratitude for the Savior and His Atonement
+
+Our foremost gratitude should be for the Savior and His Atonement. We are aware that many who are listening to this conference are experiencing trials and hardships of such intensity that the underlying feeling in their hearts as they approach our Father in Heaven in prayer is “Hope ya know, I’m having a hard time.”
+
+Let me share with you the true account of one sister, Ellen Yates from Grantsville, Utah. Early in October, 10 years ago, she kissed her husband, Leon, good-bye as he left to go to work in Salt Lake City. This would be the last time she would see Leon alive. He had a collision with a young man 20 years of age who was late for his first job and had tried to pass a slower vehicle, resulting in a head-on collision that killed them both instantly. Sister Yates said that after two compassionate highway patrolmen told her the news, she plunged into shock and grief.
+
+She records, “As I tried to look ahead in life, all I could see was darkness and pain.” It turned out that her husband’s best friend was the bishop of the young man’s ward. The bishop called Sister Yates and told her that the young man’s mother, Jolayne Willmore, wanted to talk with her. She remembers “being shocked because I was so centered on my grief and pain that I had not even thought about the young man and his family. I suddenly realized that here was a mother who was in as much or more pain than I was. I quickly gave my permission … for a visit.”
+
+When Brother and Sister Willmore arrived, they expressed their great sorrow that their son was responsible for Leon’s death and presented her with a picture of the Savior holding a little girl in His arms. Sister Yates says, “When times become too hard to bear, I look at this picture and remember that Christ knows me personally. He knows my loneliness and my trials.” One scripture that comforts Sister Yates is “Wherefore, be of good cheer, and do not fear, for I the Lord am with you, and will stand by you.”
+
+Each October, Sister Yates and Sister Willmore (both of whom are here together in the Conference Center today) go to the temple together and offer thanks for the Atonement of Jesus Christ, for the plan of salvation, for eternal families, and for the covenants that bind together husbands and wives and families on both sides of the veil. Sister Yates concludes, “Through this trial, I have felt the love of my Father in Heaven and my Savior in greater abundance than I had ever felt before.” She testifies that “there is no grief, no pain, no sickness so great that the Atonement of Christ and the love of Christ cannot heal.” What a wonderful example of love and forgiveness these two sisters have demonstrated. It has allowed the Atonement of Jesus Christ to be efficacious in their lives.
+
+Think of the Savior in the Garden of Gethsemane during the Atonement process, suffering agony so great that He bled from every pore. His cry to His Father included the word Abba. This might be interpreted as the cry of a son who is in distress to his father: “O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.” I testify that the Atonement of Jesus Christ covers all of the trials and hardships that any of us will encounter in this life. At times when we may feel to say, “Hope you know, I had a hard time,” we can be assured that He is there and we are safe in His loving arms.
+
+When our beloved prophet, President Thomas S. Monson, was asked on his birthday this past August what would be the ideal gift that members worldwide could give him, he said without a moment’s hesitation, “Find someone who is having a hard time, … and do something for them.”
+
+I, with you, am eternally grateful to Jesus Christ, the rescuer of mankind. I bear witness that He is the Savior and Redeemer of the world. In the name of Jesus Christ, amen.
+
+Notes
+
+D&C 121:1, 7–8.
+
+See 2 Nephi 2:11.
+
+Abraham 3:25.
+
+Harold B. Lee, The Fall of Man (address delivered at a meeting for seminary and institute teachers, June 23, 1954).
+
+Charles Dickens, A Tale of Two Cities (Signet Classic, 1997), 13.
+
+See 2 Nephi 2:15–16.
+
+Neal A. Maxwell, “Enduring Well,” Liahona, Apr. 1999, 12; Ensign, Apr. 1997, 7.
+
+See D&C 19:2–3; 133:64.
+
+See D&C 133:62; 14:7; John 17:3.
+
+A Woman’s View: Helen Mar Whitney’s Reminiscences of Early Church History, ed. Jeni Broberg Holzapfel and Richard Neitzel Holzapfel (1997), 329–30.
+
+Bathsheba W. Smith, Autobiography, ed. Alice Merrill Horne, typescript, 15, as quoted in Maurine Jensen Proctor and Scot Facer Proctor, photo essay, “Joseph, Joseph, Joseph: The Temple Has Returned to Nauvoo, Part 4, ‘Lift Up Thine Eyes,’” Meridian Magazine, 2002, http://www.meridianmagazine.com/photoessay/020522nauvoo/020522nauvoo3.html.
+
+See Ether 12:6.
+
+See A Woman’s View, 491.
+
+See Heidi Swinton, “I Gently Closed the Door,” in Heroines of the Restoration, ed. Barbara B. Smith and Blythe Darlyn Thatcher (1997), 134.
+
+Bathsheba W. Smith, in Heroines of the Restoration, 134.
+
+Teachings of Presidents of the Church: Brigham Young (Melchizedek Priesthood and Relief Society course of study, 1997), 177.
+
+See D&C 122:7.
+
+See Matthew 5:45.
+
+Alma 7:12.
+
+See Genesis 41:29–31; Gordon B. Hinckley, in Conference Report, Oct. 1998, 70; or Ensign, Nov. 1998, 53.
+
+D&C 38:30.
+
+See 2 Nephi 4:4.
+
+See Alma 36:30.
+
+Teachings: Brigham Young, 177.
+
+D&C 68:6.
+
+Ellen Yates, personal account delivered at the Grantsville Utah Stake conference, Saturday evening session, Feb. 16, 2008.
+
+See D&C 19:18.
+
+See Mark 14:36.
+
+Matthew 26:39.
+
+Thomas S. Monson, quoted in Gerry Avant, “Prophet’s Birthday: Milestone of 81,” Church News, Aug. 23, 2008, 4.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28841053", "context": "", "text": "
+D&C 121:1, 7–8.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/121?lang=eng&id=p1%2Cp7-p8#p1", "text": "D&C 121:1, 7–8"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28841054", "context": "", "text": "
+See 2 Nephi 2:11.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/2?lang=eng&id=p11#p11", "text": "2 Nephi 2:11"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28841054", "context": "", "text": "
+Abraham 3:25.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/abr/3?lang=eng&id=p25#p25", "text": "Abraham 3:25"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28841054", "context": "", "text": "
+Harold B. Lee, The Fall of Man (address delivered at a meeting for seminary and institute teachers, June 23, 1954).
+"}, "note5": {"id": "note5", "marker": "5.", "pid": "28841055", "context": "", "text": "
+Charles Dickens, A Tale of Two Cities (Signet Classic, 1997), 13.
+"}, "note6": {"id": "note6", "marker": "6.", "pid": "28841055", "context": "", "text": "
+See 2 Nephi 2:15–16.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/2?lang=eng&id=p15-p16#p15", "text": "2 Nephi 2:15–16"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28841055", "context": "", "text": "
+Neal A. Maxwell, “Enduring Well,” Liahona, Apr. 1999, 12; Ensign, Apr. 1997, 7.
+"}, "note8": {"id": "note8", "marker": "8.", "pid": "28841055", "context": "", "text": "
+See D&C 19:2–3; 133:64.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/19?lang=eng&id=p2-p3#p2", "text": "D&C 19:2–3"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/133?lang=eng&id=p64#p64", "text": "133:64"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "28841055", "context": "", "text": "
+See D&C 133:62; 14:7; John 17:3.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/133?lang=eng&id=p62#p62", "text": "D&C 133:62"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/14?lang=eng&id=p7#p7", "text": "14:7"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/john/17?lang=eng&id=p3#p3", "text": "John 17:3"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "28841058", "context": "", "text": "
+A Woman’s View: Helen Mar Whitney’s Reminiscences of Early Church History, ed. Jeni Broberg Holzapfel and Richard Neitzel Holzapfel (1997), 329–30.
+"}, "note11": {"id": "note11", "marker": "11.", "pid": "28841060", "context": "", "text": "
+Bathsheba W. Smith, Autobiography, ed. Alice Merrill Horne, typescript, 15, as quoted in Maurine Jensen Proctor and Scot Facer Proctor, photo essay, “Joseph, Joseph, Joseph: The Temple Has Returned to Nauvoo, Part 4, ‘Lift Up Thine Eyes,’” Meridian Magazine, 2002, http://www.meridianmagazine.com/photoessay/020522nauvoo/020522nauvoo3.html.
+"}, "note12": {"id": "note12", "marker": "12.", "pid": "28841061", "context": "", "text": "
+See Ether 12:6.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/ether/12?lang=eng&id=p6#p6", "text": "Ether 12:6"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "28841061", "context": "", "text": "
+See A Woman’s View, 491.
+"}, "note14": {"id": "note14", "marker": "14.", "pid": "28841062", "context": "", "text": "
+See Heidi Swinton, “I Gently Closed the Door,” in Heroines of the Restoration, ed. Barbara B. Smith and Blythe Darlyn Thatcher (1997), 134.
+"}, "note15": {"id": "note15", "marker": "15.", "pid": "28841062", "context": "", "text": "
+Bathsheba W. Smith, in Heroines of the Restoration, 134.
+"}, "note16": {"id": "note16", "marker": "16.", "pid": "28841064", "context": "", "text": "
+Teachings of Presidents of the Church: Brigham Young (Melchizedek Priesthood and Relief Society course of study, 1997), 177.
+"}, "note17": {"id": "note17", "marker": "17.", "pid": "28841066", "context": "", "text": "
+See D&C 122:7.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/122?lang=eng&id=p7#p7", "text": "D&C 122:7"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "28841066", "context": "", "text": "
+See Matthew 5:45.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/5?lang=eng&id=p45#p45", "text": "Matthew 5:45"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "28841066", "context": "", "text": "
+Alma 7:12.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/7?lang=eng&id=p12#p12", "text": "Alma 7:12"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "28841067", "context": "", "text": "
+See Genesis 41:29–31; Gordon B. Hinckley, in Conference Report, Oct. 1998, 70; or Ensign, Nov. 1998, 53.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/gen/41?lang=eng&id=p29-p31#p29", "text": "Genesis 41:29–31"}, {"type": "cross-ref", "href": "/study/general-conference/1998/10/to-the-boys-and-to-the-men?lang=eng&id=p36-p39#p36", "text": "70"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "28841067", "context": "", "text": "
+D&C 38:30.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/38?lang=eng&id=p30#p30", "text": "D&C 38:30"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "28841068", "context": "", "text": "
+See 2 Nephi 4:4.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/4?lang=eng&id=p4#p4", "text": "2 Nephi 4:4"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "28841068", "context": "", "text": "
+See Alma 36:30.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/36?lang=eng&id=p30#p30", "text": "Alma 36:30"}]}, "note24": {"id": "note24", "marker": "24.", "pid": "28841069", "context": "", "text": "
+Teachings: Brigham Young, 177.
+"}, "note25": {"id": "note25", "marker": "25.", "pid": "28841074", "context": "", "text": "
+D&C 68:6.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/68?lang=eng&id=p6#p6", "text": "D&C 68:6"}]}, "note26": {"id": "note26", "marker": "26.", "pid": "28841075", "context": "", "text": "
+Ellen Yates, personal account delivered at the Grantsville Utah Stake conference, Saturday evening session, Feb. 16, 2008.
+"}, "note27": {"id": "note27", "marker": "27.", "pid": "28841076", "context": "", "text": "
+See D&C 19:18.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/19?lang=eng&id=p18#p18", "text": "D&C 19:18"}]}, "note28": {"id": "note28", "marker": "28.", "pid": "28841076", "context": "", "text": "
+See Mark 14:36.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/mark/14?lang=eng&id=p36#p36", "text": "Mark 14:36"}]}, "note29": {"id": "note29", "marker": "29.", "pid": "28841076", "context": "", "text": "
+Matthew 26:39.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/26?lang=eng&id=p39#p39", "text": "Matthew 26:39"}]}, "note30": {"id": "note30", "marker": "30.", "pid": "28841077", "context": "", "text": "
+Thomas S. Monson, quoted in Gerry Avant, “Prophet’s Birthday: Milestone of 81,” Church News, Aug. 23, 2008, 4.
+"}}
+
+## Scripture citations in this talk
+
+- [[2 Nephi 2]] (6×)
+- [[D&C 19]] (6×)
+- [[D&C 133]] (5×)
+- [[D&C 121]] (3×)
+- [[Abraham 3]] (3×)
+- [[John 17]] (3×)
+- [[Ether 12]] (3×)
+- [[D&C 122]] (3×)
+- [[Matthew 5]] (3×)
+- [[Alma 7]] (3×)
+- [[Genesis 41]] (3×)
+- [[D&C 38]] (3×)
+- [[2 Nephi 4]] (3×)
+- [[Alma 36]] (3×)
+- [[D&C 68]] (3×)
+- [[Mark 14]] (3×)
+- [[Matthew 26]] (3×)
+- [[D&C 14]] (2×)

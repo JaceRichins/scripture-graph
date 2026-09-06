@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 86
 slug: ps-86
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

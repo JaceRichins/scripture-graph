@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 19
 slug: john-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,17 +58,18 @@ Scripture: [[John 19]] · My notes: [[John 19 - My Notes]]
 - [[Mark 15]] — 0 parallel verses
 - [[Luke 23]] — 0 parallel verses
 - [[Exodus 12]] — 0 parallel verses
+- [[John 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Crucifixion of Jesus Christ]]
-- [[Government and Laws]]
 - [[John 3]]
 - [[Passover]]
 - [[Prophecy]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -103,6 +104,7 @@ Jesus' words to his mother and the beloved disciple make practical care for anot
 - **Blasphemy** (reference-entry) *(explicit citation)*
 - **Caesar** (reference-entry) *(explicit citation)*
 - **Clothing** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

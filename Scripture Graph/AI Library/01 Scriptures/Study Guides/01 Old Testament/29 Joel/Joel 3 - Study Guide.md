@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 3
 slug: joel-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,7 +51,9 @@ _Not yet developed._
 - [[Micah 4]] — 1 footnote cross-reference (from [[Joel 3#^joel-3-2|Joel 3:2]])
 - [[Zephaniah 3]] — 1 footnote cross-reference (from [[Joel 3#^joel-3-2|Joel 3:2]])
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
+- [[Joel 2]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-15|Joel 3:15]] ↔ [[Joel 2#^joel-2-10|Joel 2:10]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
+- [[Zechariah 14]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
 - [[Isaiah 10]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[2 Nephi 20]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
 - [[2 Nephi 24]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-18|Joel 3:18]] ↔ [[2 Nephi 24#^2ne-24-3|2 Nephi 24:3]]
@@ -60,8 +62,6 @@ _Not yet developed._
 - [[Jeremiah 50]] — 2 parallel verses, e.g. [[Joel 3#^joel-3-1|Joel 3:1]] ↔ [[Jeremiah 50#^jer-50-4|Jeremiah 50:4]]
 - [[Amos 1]] — 1 parallel verse, e.g. [[Joel 3#^joel-3-16|Joel 3:16]] ↔ [[Amos 1#^amos-1-2|Amos 1:2]]
 - [[Isaiah 2]] — 0 parallel verses
-- [[Micah 4]] — 0 parallel verses
-- [[Amos 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -80,7 +80,7 @@ The chapter presents divine judgment as a response to identifiable social and po
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

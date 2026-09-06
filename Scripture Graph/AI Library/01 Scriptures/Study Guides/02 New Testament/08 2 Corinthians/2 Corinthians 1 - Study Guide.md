@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 1
 slug: 2cor-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ Scripture: [[2 Corinthians 1]] · My notes: [[2 Corinthians 1 - My Notes]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]] ↔ [[Philemon 1#^philem-1-3|Philemon 1:3]]
 - [[1 Corinthians 1]] — 0 parallel verses
 - [[1 Thessalonians 3]] — 0 parallel verses
+- [[Ephesians 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

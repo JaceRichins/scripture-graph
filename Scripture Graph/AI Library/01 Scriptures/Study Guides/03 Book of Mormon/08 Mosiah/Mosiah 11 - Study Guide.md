@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 11
 slug: mosiah-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,8 +56,8 @@ _Not yet developed._
 - [[Alma 1]] — 3 parallel verses, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[Alma 1#^alma-1-29|Alma 1:29]]
 - [[Helaman 6]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[Helaman 6#^hel-6-9|Helaman 6:9]]
 - [[3 Nephi 16]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[3 Nephi 16#^3ne-16-10|3 Nephi 16:10]]
-- [[Helaman 3]] — 1 parallel verse, e.g. [[Mosiah 11#^mosiah-11-1|Mosiah 11:1]] ↔ [[Helaman 3#^hel-3-37|Helaman 3:37]]
 - [[Ether 10]] — 1 parallel verse, e.g. [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]] ↔ [[Ether 10#^ether-10-23|Ether 10:23]]
+- [[Helaman 3]] — 1 parallel verse, e.g. [[Mosiah 11#^mosiah-11-1|Mosiah 11:1]] ↔ [[Helaman 3#^hel-3-37|Helaman 3:37]]
 - [[2 Nephi 26]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[2 Nephi 26#^2ne-26-20|2 Nephi 26:20]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[2 Nephi 28#^2ne-28-15|2 Nephi 28:15]]
 - [[Alma 62]] — 2 parallel verses, e.g. [[Mosiah 11#^mosiah-11-5|Mosiah 11:5]] ↔ [[Alma 62#^alma-62-49|Alma 62:49]]
@@ -85,6 +85,7 @@ The chapter also gives a sober account of agency. The people are deceived by fla
 <!-- SG:BEGIN conference -->
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
+- [[One among the Crowd (Elder Dennis B. Neuenschwander, April 2008)|One among the Crowd]] — Elder Dennis B. Neuenschwander, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

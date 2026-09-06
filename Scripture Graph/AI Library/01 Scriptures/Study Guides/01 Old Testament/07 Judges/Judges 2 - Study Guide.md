@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 2
 slug: judg-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ The repetition of Joshua's dismissal and death connects this chapter closely wit
 - [[Joshua 24]] — 1 footnote cross-reference (from [[Judges 2#^judg-2-7|Judges 2:7]])
 - [[Numbers 13]] — 1 footnote cross-reference (from [[Judges 2#^judg-2-8|Judges 2:8]])
 - [[Joshua 24]] — 3 parallel verses, e.g. [[Judges 2#^judg-2-7|Judges 2:7]] ↔ [[Joshua 24#^josh-24-31|Joshua 24:31]]
+- [[Judges 3]] — 4 parallel verses, e.g. [[Judges 2#^judg-2-14|Judges 2:14]] ↔ [[Judges 3#^judg-3-8|Judges 3:8]]
 - [[Judges 10]] — 3 parallel verses, e.g. [[Judges 2#^judg-2-14|Judges 2:14]] ↔ [[Judges 10#^judg-10-7|Judges 10:7]]
 - [[Numbers 11]] — 3 parallel verses, e.g. [[Judges 2#^judg-2-8|Judges 2:8]] ↔ [[Numbers 11#^num-11-28|Numbers 11:28]]
 - [[2 Kings 13]] — 2 parallel verses, e.g. [[Judges 2#^judg-2-14|Judges 2:14]] ↔ [[2 Kings 13#^2kgs-13-3|2 Kings 13:3]]
@@ -60,12 +61,11 @@ The repetition of Joshua's dismissal and death connects this chapter closely wit
 - [[Numbers 12]] — 2 parallel verses, e.g. [[Judges 2#^judg-2-14|Judges 2:14]] ↔ [[Numbers 12#^num-12-9|Numbers 12:9]]
 - [[Numbers 25]] — 2 parallel verses, e.g. [[Judges 2#^judg-2-14|Judges 2:14]] ↔ [[Numbers 25#^num-25-3|Numbers 25:3]]
 - [[Exodus 4]] — 2 parallel verses, e.g. [[Judges 2#^judg-2-14|Judges 2:14]] ↔ [[Exodus 4#^ex-4-14|Exodus 4:14]]
-- [[Joshua 7]] — 2 parallel verses, e.g. [[Judges 2#^judg-2-14|Judges 2:14]] ↔ [[Joshua 7#^josh-7-1|Joshua 7:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

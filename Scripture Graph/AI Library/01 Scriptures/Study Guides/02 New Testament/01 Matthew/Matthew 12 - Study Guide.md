@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 12
 slug: matt-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ _Not yet developed._
 - [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
 - [[Forsake Not Your Own Mercy (Elder Matthew S. Holland, October 2025)|Forsake Not Your Own Mercy]] — Elder Matthew S. Holland, 2025-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[Giving Holiness to the Lord (Bishop L. Todd Budge, October 2021)|Giving Holiness to the Lord]] — Bishop L. Todd Budge, 2021-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[The Book of Mormon—a Book from God (Elder Tad R. Callister, October 2011)|The Book of Mormon—a Book from God]] — Elder Tad R. Callister, 2011-October *(explicit citation)*

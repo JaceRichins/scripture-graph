@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 4
 slug: micah-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[2 Nephi 12]] — 3 parallel verses, e.g. [[Micah 4#^micah-4-2|Micah 4:2]] ↔ [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]]
 - [[3 Nephi 20]] — 1 parallel verse, e.g. [[Micah 4#^micah-4-13|Micah 4:13]] ↔ [[3 Nephi 20#^3ne-20-19|3 Nephi 20:19]]
 - [[1 Kings 4]] — 1 parallel verse, e.g. [[Micah 4#^micah-4-4|Micah 4:4]] ↔ [[1 Kings 4#^1kgs-4-25|1 Kings 4:25]]
+- [[Joel 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

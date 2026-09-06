@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 10
 slug: heb-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,17 +58,21 @@ _Not yet developed._
 - [[Psalm 40]] — 1 parallel verse, e.g. [[Hebrews 10#^heb-10-7|Hebrews 10:7]] ↔ [[Psalm 40#^ps-40-7|Psalm 40:7]]
 - [[Jeremiah 31]] — 1 parallel verse, e.g. [[Hebrews 10#^heb-10-16|Hebrews 10:16]] ↔ [[Jeremiah 31#^jer-31-33|Jeremiah 31:33]]
 - [[Colossians 2]] — 0 parallel verses
+- [[Hebrews 4]] — 0 parallel verses
+- [[Hebrews 8]] — 0 parallel verses
+- [[Hebrews 7]] — 0 parallel verses
+- [[Hebrews 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Justification and Sanctification]]
 - [[Hebrews 9]]
 - [[Law of Moses]]
 - [[Endurance]]
 - [[Final Judgment]]
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -101,6 +105,8 @@ The chapter holds this assurance together with a sober warning (vv.26-31): the s
 - **Blood** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 3
 slug: luke-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,16 +89,20 @@ _Not yet developed._
 - [[Accessing God’s Power through Covenants (Elder Dale G. Renlund, April 2023)|Accessing God’s Power through Covenants]] — Elder Dale G. Renlund, 2023-April *(explicit citation)*
 - [[A Higher Joy (Elder Dieter F. Uchtdorf, April 2024)|A Higher Joy]] — Elder Dieter F. Uchtdorf, 2024-April *(explicit citation)*
 - [[The Lord Jesus Christ Teaches Us to Pray (Elder Juan A. Uceda, October 2016)|The Lord Jesus Christ Teaches Us to Pray]] — Elder Juan A. Uceda, 2016-October *(explicit citation)*
+- [[Even a Child Can Understand (Elder Gérald Caussé, October 2008)|Even a Child Can Understand]] — Elder Gérald Caussé, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Adoption** (reference-entry) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Adam** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Enoch** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

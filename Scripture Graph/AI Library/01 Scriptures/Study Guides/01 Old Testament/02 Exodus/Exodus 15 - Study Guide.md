@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 15
 slug: ex-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ Scripture: [[Exodus 15]] · My notes: [[Exodus 15 - My Notes]]
 - [[Joshua 2]] — 0 parallel verses
 - [[Isaiah 12]] — 0 parallel verses
 - [[Psalm 118]] — 0 parallel verses
+- [[Exodus 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

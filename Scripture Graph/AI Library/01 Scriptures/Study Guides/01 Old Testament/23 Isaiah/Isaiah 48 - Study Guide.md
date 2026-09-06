@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 48
 slug: isa-48
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Psalm 115]] — 1 footnote cross-reference (from [[Isaiah 48#^isa-48-11|Isaiah 48:11]])
 - [[1 Nephi 20]] — 22 parallel verses, e.g. [[Isaiah 48#^isa-48-20|Isaiah 48:20]] ↔ [[1 Nephi 20#^1ne-20-20|1 Nephi 20:20]]
 - [[Jeremiah 51]] — 0 parallel verses
+- [[Isaiah 57]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

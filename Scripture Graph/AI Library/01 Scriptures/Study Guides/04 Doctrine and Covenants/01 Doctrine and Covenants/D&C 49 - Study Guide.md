@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 49
 slug: dc-49
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -78,12 +78,15 @@ The chapter's clearest doctrinal core is a compact statement of the [[Gospel of 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[Turn On Your Light (Sharon Eubank, October 2017)|Turn On Your Light]] — Sharon Eubank, 2017-October *(explicit citation)*
 - [[Come unto Christ—Together (Elder Taniela B. Wakolo, April 2026)|Come unto Christ—Together]] — Elder Taniela B. Wakolo, 2026-April *(explicit citation)*
 - [[The Prophet Joseph Smith (Elder Lawrence E. Corbridge, April 2014)|The Prophet Joseph Smith]] — Elder Lawrence E. Corbridge, 2014-April *(explicit citation)*
 - [[Priesthood Power (President Thomas S. Monson, April 2011)|Priesthood Power]] — President Thomas S. Monson, 2011-April *(explicit citation)*
+- [[Restoring Faith in the Family (Elder Kenneth Johnson, April 2008)|Restoring Faith in the Family]] — Elder Kenneth Johnson, 2008-April *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[The Great Plan (President Dallin H. Oaks, April 2020)|The Great Plan]] — President Dallin H. Oaks, 2020-April *(explicit citation)*
+- [[Come to Zion (Elder D. Todd Christofferson, October 2008)|Come to Zion]] — Elder D. Todd Christofferson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

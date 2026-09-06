@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 33
 slug: ex-33
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

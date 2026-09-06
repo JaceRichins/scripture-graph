@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 8
 slug: ex-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

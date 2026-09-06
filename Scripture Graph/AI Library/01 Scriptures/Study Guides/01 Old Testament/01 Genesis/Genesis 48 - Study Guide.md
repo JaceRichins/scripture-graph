@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 48
 slug: gen-48
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ Scripture: [[Genesis 48]] · My notes: [[Genesis 48 - My Notes]]
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
+- **Firstborn** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

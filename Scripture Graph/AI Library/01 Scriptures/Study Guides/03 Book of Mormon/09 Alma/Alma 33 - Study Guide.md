@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 33
 slug: alma-33
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,16 +54,17 @@ _Not yet developed._
 - [[Helaman 8]] — 0 parallel verses
 - [[Numbers 21]] — 0 parallel verses
 - [[Alma 37]] — 0 parallel verses
+- [[Helaman 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Scripture Study]]
 - [[Final Judgment]]
 - [[Records and Sacred Writings]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[Scripture Study]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

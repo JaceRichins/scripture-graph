@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 11
 slug: 2cor-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,8 @@ Paul's suffering catalogue (11:23-29) complicates triumphalist ideas about disci
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **Eve** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

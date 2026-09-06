@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 17
 slug: john-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ Sanctification is joined to [[Truth]], the Father's word, Jesus' self-consecrati
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Gaining a Testimony of God the Father; His Son, Jesus Christ; and the Holy Ghost (Elder Robert D. Hales, April 2008)|Gaining a Testimony of God the Father; His Son, Jesus Christ; and the Holy Ghost]] — Elder Robert D. Hales, 2008-April *(explicit citation)*
 - [[And This Is Life Eternal (Elder C. Scott Grow, April 2017)|And This Is Life Eternal]] — Elder C. Scott Grow, 2017-April *(explicit citation)*
 - [[One in Christ (Elder D. Todd Christofferson, April 2023)|One in Christ]] — Elder D. Todd Christofferson, 2023-April *(explicit citation)*
 - [[Be One with Christ (Elder Quentin L. Cook, April 2024)|Be One with Christ]] — Elder Quentin L. Cook, 2024-April *(explicit citation)*
@@ -89,9 +90,8 @@ Sanctification is joined to [[Truth]], the Father's word, Jesus' self-consecrati
 - [[The Father and the Son (Elder Christoffel Golden Jr., April 2013)|The Father and the Son]] — Elder Christoffel Golden Jr., 2013-April *(explicit citation)*
 - [[Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ (Elder Robert D. Hales, October 2014)|Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ]] — Elder Robert D. Hales, 2014-October *(explicit citation)*
 - [[Agency Essential to the Plan of Life (Elder Robert D. Hales, October 2010)|Agency: Essential to the Plan of Life]] — Elder Robert D. Hales, 2010-October *(explicit citation)*
+- [[The Only True God and Jesus Christ Whom He Hath Sent (Elder Jeffrey R. Holland, October 2007)|The Only True God and Jesus Christ Whom He Hath Sent]] — Elder Jeffrey R. Holland, 2007-October *(explicit citation)*
 - [[To Whom Shall We Go (Elder M. Russell Ballard, October 2016)|To Whom Shall We Go?]] — Elder M. Russell Ballard, 2016-October *(explicit citation)*
-- [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
-- [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

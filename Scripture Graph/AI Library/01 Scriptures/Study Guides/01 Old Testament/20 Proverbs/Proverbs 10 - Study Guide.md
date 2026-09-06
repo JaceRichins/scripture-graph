@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 10
 slug: prov-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[What Have You Done with My Name (Elder Mervyn B. Arnold, October 2010)|What Have You Done with My Name?]] — Elder Mervyn B. Arnold, 2010-October *(explicit citation)*
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

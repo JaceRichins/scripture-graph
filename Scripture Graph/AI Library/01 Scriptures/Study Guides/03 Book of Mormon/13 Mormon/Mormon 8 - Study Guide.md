@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 8
 slug: morm-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

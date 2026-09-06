@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 137
 slug: dc-137
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -77,11 +77,11 @@ Although Alvin's lack of baptism prompts the revelation, the chapter itself does
 - [[Compensating Blessings (Bishop Gérald Caussé, April 2025)|Compensating Blessings]] — Bishop Gérald Caussé, 2025-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[All Nations, Kindreds, and Tongues (Elder Gerrit W. Gong, October 2020)|All Nations, Kindreds, and Tongues]] — Elder Gerrit W. Gong, 2020-October *(explicit citation)*
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[Divine Love in the Father’s Plan (President Dallin H. Oaks, April 2022)|Divine Love in the Father’s Plan]] — President Dallin H. Oaks, 2022-April *(explicit citation)*
 - [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
-- [[Cheering Each Other On (Sister J. Anette Dennis, October 2025)|Cheering Each Other On]] — Sister J. Anette Dennis, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

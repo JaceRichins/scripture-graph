@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 14
 slug: zech-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1841-11-15 (Vol. 3 No. 2)** (periodical, 1841-11-15) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

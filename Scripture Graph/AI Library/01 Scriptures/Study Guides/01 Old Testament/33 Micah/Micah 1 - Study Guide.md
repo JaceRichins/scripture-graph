@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 1
 slug: micah-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,7 +66,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Gath** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

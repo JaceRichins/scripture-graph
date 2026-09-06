@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 21
 slug: num-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[Joshua 12]] — 0 parallel verses
 - [[Joshua 13]] — 0 parallel verses
 - [[Alma 33]] — 0 parallel verses
+- [[Helaman 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,6 +90,7 @@ _Not yet developed._
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
 - **Edrei** (reference-entry) *(explicit citation)*
+- **Fiery serpents** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

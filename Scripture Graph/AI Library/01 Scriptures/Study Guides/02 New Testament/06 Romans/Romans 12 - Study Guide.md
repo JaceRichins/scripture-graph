@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 12
 slug: rom-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,8 +66,9 @@ _Not yet developed._
 - [[The Triumph of Hope (Elder Neil L. Andersen, October 2024)|The Triumph of Hope]] — Elder Neil L. Andersen, 2024-October *(explicit citation)*
 - [[About His Business (Elder Patrick Kearon, April 2026)|About His Business]] — Elder Patrick Kearon, 2026-April *(explicit citation)*
 - [[The Merciful Obtain Mercy (President Dieter F. Uchtdorf, April 2012)|The Merciful Obtain Mercy]] — President Dieter F. Uchtdorf, 2012-April *(explicit citation)*
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[The Plan and the Proclamation (Elder Dallin H. Oaks, October 2017)|The Plan and the Proclamation]] — Elder Dallin H. Oaks, 2017-October *(explicit citation)*
-- [[Reflections on a Consecrated Life (Elder D. Todd Christofferson, October 2010)|Reflections on a Consecrated Life]] — Elder D. Todd Christofferson, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

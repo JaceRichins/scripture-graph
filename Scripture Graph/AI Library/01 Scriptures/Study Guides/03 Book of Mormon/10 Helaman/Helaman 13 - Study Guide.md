@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 13
 slug: hel-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -74,10 +74,10 @@ Scripture: [[Helaman 13]] · My notes: [[Helaman 13 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Pride]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Pride]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

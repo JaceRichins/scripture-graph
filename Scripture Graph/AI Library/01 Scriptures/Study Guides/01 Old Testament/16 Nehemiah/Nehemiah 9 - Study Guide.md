@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 9
 slug: neh-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,13 +48,14 @@ _Not yet developed._
 - [[Helaman 8]] — 2 footnote cross-references (from [[Nehemiah 9#^neh-9-9|Nehemiah 9:9]])
 - [[Mosiah 7]] — 2 footnote cross-references (from [[Nehemiah 9#^neh-9-11|Nehemiah 9:11]])
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Nehemiah 9#^neh-9-29|Nehemiah 9:29]] ↔ [[Ezekiel 20#^ezek-20-11|Ezekiel 20:11]]
-- [[Exodus 3]] — 2 parallel verses, e.g. [[Nehemiah 9#^neh-9-8|Nehemiah 9:8]] ↔ [[Exodus 3#^ex-3-17|Exodus 3:17]]
 - [[Exodus 13]] — 2 parallel verses, e.g. [[Nehemiah 9#^neh-9-12|Nehemiah 9:12]] ↔ [[Exodus 13#^ex-13-21|Exodus 13:21]]
-- [[Leviticus 18]] — 1 parallel verse, e.g. [[Nehemiah 9#^neh-9-29|Nehemiah 9:29]] ↔ [[Leviticus 18#^lev-18-5|Leviticus 18:5]]
 - [[Joel 2]] — 1 parallel verse, e.g. [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]] ↔ [[Joel 2#^joel-2-13|Joel 2:13]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[Nehemiah 9#^neh-9-8|Nehemiah 9:8]] ↔ [[Exodus 3#^ex-3-17|Exodus 3:17]]
+- [[Leviticus 18]] — 1 parallel verse, e.g. [[Nehemiah 9#^neh-9-29|Nehemiah 9:29]] ↔ [[Leviticus 18#^lev-18-5|Leviticus 18:5]]
 - [[Jonah 4]] — 1 parallel verse, e.g. [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]] ↔ [[Jonah 4#^jonah-4-2|Jonah 4:2]]
 - [[Nehemiah 10]] — 0 parallel verses
 - [[Psalm 106]] — 0 parallel verses
+- [[Isaiah 63]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

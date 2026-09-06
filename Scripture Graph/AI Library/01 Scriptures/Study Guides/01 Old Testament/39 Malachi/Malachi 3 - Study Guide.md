@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 3
 slug: mal-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[D&C 36]] — 0 parallel verses
 - [[D&C 60]] — 0 parallel verses
 - [[D&C 85]] — 0 parallel verses
+- [[D&C 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,7 +74,7 @@ _Not yet developed._
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 - [[Four Titles (President Dieter F. Uchtdorf, April 2013)|Four Titles]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
 - [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
-- [[The Windows of Heaven (Elder David A. Bednar, October 2013)|The Windows of Heaven]] — Elder David A. Bednar, 2013-October *(explicit citation)*
+- [[Will a Man Rob God (Elder Yoshihiko Kikuchi, April 2007)|Will a Man Rob God?]] — Elder Yoshihiko Kikuchi, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

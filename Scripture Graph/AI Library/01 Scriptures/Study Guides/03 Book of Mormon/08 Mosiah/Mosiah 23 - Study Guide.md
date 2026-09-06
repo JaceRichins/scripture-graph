@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 23
 slug: mosiah-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[Mosiah 24]] — 1 parallel verse, e.g. [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]] ↔ [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]]
 - [[Moses 5]] — 1 parallel verse, e.g. [[Mosiah 23#^mosiah-23-25|Mosiah 23:25]] ↔ [[Moses 5#^moses-5-32|Moses 5:32]]
 - [[Jacob 1]] — 1 parallel verse, e.g. [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]] ↔ [[Jacob 1#^jacob-1-9|Jacob 1:9]]
+- [[Ether 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

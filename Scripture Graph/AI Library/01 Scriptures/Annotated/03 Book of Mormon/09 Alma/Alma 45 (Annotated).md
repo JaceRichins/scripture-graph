@@ -70,13 +70,13 @@ cssclasses:
 > [[2 Kings 2#^2kgs-2-16|2 Kgs. 2:16]] · [[Deuteronomy 34#^deut-34-5|Deut. 34:6 (5–6)]]
 
 ![[Alma 45#^alma-45-20]]
-> [[Alma 46#^alma-46-1|Alma 46:1]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[Helaman 11#^hel-11-30|≈ Helaman 11:30]] · [[Alma 46#^alma-46-37|≈ Alma 46:37]] · [[Alma 48#^alma-48-2|≈ Alma 48:2]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]] · [[Alma 43#^alma-43-1|≈ Alma 43:1]]
+> [[Alma 46#^alma-46-1|Alma 46:1]] · [[Alma 46#^alma-46-37|≈ Alma 46:37]] · [[Alma 62#^alma-62-12|≈ Alma 62:12]] · [[Helaman 11#^hel-11-30|≈ Helaman 11:30]] · [[Alma 48#^alma-48-2|≈ Alma 48:2]] · [[Alma 2#^alma-2-1|≈ Alma 2:1]] · [[Alma 43#^alma-43-1|≈ Alma 43:1]]
 
 ![[Alma 45#^alma-45-21]]
 > [[Alma 31#^alma-31-5|Alma 31:5]] · [[Alma 6#^alma-6-7|Alma 6:7]] · [[Alma 62#^alma-62-44|62:44 (44–47)]]
 
 ![[Alma 45#^alma-45-22]]
-> [[Alma 48#^alma-48-19|Alma 48:19]] · [[Alma 62#^alma-62-45|≈ Alma 62:45]] · [[Alma 46#^alma-46-36|≈ Alma 46:36]] · [[Alma 48#^alma-48-9|≈ Alma 48:9]] · [[Alma 50#^alma-50-1|≈ Alma 50:1]]
+> [[Alma 48#^alma-48-19|Alma 48:19]] · [[Alma 46#^alma-46-36|≈ Alma 46:36]] · [[Alma 62#^alma-62-45|≈ Alma 62:45]] · [[Alma 48#^alma-48-9|≈ Alma 48:9]] · [[Alma 50#^alma-50-1|≈ Alma 50:1]]
 
 ![[Alma 45#^alma-45-23]]
 > [[3 Nephi 11#^3ne-11-28|3 Ne. 11:29 (28–29)]] · [[Alma 46#^alma-46-1|≈ Alma 46:1]]

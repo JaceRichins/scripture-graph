@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 9
 slug: 1cor-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ The final warning connects [[Endurance]] with self-discipline. Paul applies the 
 - **Brethren of the Lord** (reference-entry) *(explicit citation)*
 - **Corinth** (reference-entry) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
+- **Games** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

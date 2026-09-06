@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 17
 slug: num-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

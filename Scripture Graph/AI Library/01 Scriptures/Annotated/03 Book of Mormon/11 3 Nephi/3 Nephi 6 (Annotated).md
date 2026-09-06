@@ -33,7 +33,7 @@ cssclasses:
 > [[3 Nephi 3#^3ne-3-18|3 Ne. 3:18]] · [[3 Nephi 3#^3ne-3-1|3 Ne. 3:1]]
 
 ![[3 Nephi 6#^3ne-6-7]]
-> [[Alma 46#^alma-46-39|≈ Alma 46:39]] · [[Alma 19#^alma-19-25|≈ Alma 19:25]] · [[Alma 19#^alma-19-35|≈ Alma 19:35]] · [[Ether 9#^ether-9-32|≈ Ether 9:32]]
+> [[Alma 19#^alma-19-25|≈ Alma 19:25]] · [[Alma 19#^alma-19-35|≈ Alma 19:35]] · [[Alma 46#^alma-46-39|≈ Alma 46:39]] · [[Ether 9#^ether-9-32|≈ Ether 9:32]]
 
 ![[3 Nephi 6#^3ne-6-8]]
 > [[3 Nephi 8#^3ne-8-13|3 Ne. 8:13]]

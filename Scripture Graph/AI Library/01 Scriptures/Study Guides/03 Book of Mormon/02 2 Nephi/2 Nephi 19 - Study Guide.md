@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 19
 slug: 2ne-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ Scripture: [[2 Nephi 19]] · My notes: [[2 Nephi 19 - My Notes]]
 - [[2 Nephi 15]] — 4 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]]
 - [[Isaiah 10]] — 3 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[Isaiah 10#^isa-10-4|Isaiah 10:4]]
 - [[2 Nephi 20]] — 3 parallel verses, e.g. [[2 Nephi 19#^2ne-19-12|2 Nephi 19:12]] ↔ [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]]
+- [[Isaiah 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -80,6 +81,7 @@ The child's titles in verse 6, especially "The Mighty God" and "The Everlasting 
 - [[Women and Gospel Learning in the Home (President Henry B. Eyring, October 2018)|Women and Gospel Learning in the Home]] — President Henry B. Eyring, 2018-October *(explicit citation)*
 - [[Becoming like Him (Elder Scott D. Whiting, October 2020)|Becoming like Him]] — Elder Scott D. Whiting, 2020-October *(explicit citation)*
 - [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
+- [[God Loves and Helps All of His Children (Bishop Keith B. McMullin, October 2008)|God Loves and Helps All of His Children]] — Bishop Keith B. McMullin, 2008-October *(explicit citation)*
 - [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 

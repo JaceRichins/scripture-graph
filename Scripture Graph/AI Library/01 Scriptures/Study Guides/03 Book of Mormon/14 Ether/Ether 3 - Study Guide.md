@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 3
 slug: ether-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,10 +50,11 @@ _Not yet developed._
 - [[Mosiah 8]] — 3 footnote cross-references (from [[Ether 3#^ether-3-22|Ether 3:22]])
 - [[Ether 2]] — 6 parallel verses, e.g. [[Ether 3#^ether-3-21|Ether 3:21]] ↔ [[Ether 2#^ether-2-20|Ether 2:20]]
 - [[Ether 1]] — 3 parallel verses, e.g. [[Ether 3#^ether-3-1|Ether 3:1]] ↔ [[Ether 1#^ether-1-35|Ether 1:35]]
+- [[Ether 12]] — 2 parallel verses, e.g. [[Ether 3#^ether-3-20|Ether 3:20]] ↔ [[Ether 12#^ether-12-19|Ether 12:19]]
 - [[3 Nephi 17]] — 2 parallel verses, e.g. [[Ether 3#^ether-3-13|Ether 3:13]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
 - [[Alma 45]] — 1 parallel verse, e.g. [[Ether 3#^ether-3-11|Ether 3:11]] ↔ [[Alma 45#^alma-45-2|Alma 45:2]]
 - [[Ether 12]] — 0 parallel verses
-- [[Ether 12]] — 0 parallel verses
+- [[Ether 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

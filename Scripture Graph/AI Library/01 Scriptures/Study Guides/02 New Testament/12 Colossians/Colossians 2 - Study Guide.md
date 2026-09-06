@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 2
 slug: col-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,16 +53,17 @@ _Not yet developed._
 - [[Romans 6]] — 0 parallel verses
 - [[Galatians 4]] — 0 parallel verses
 - [[Hebrews 10]] — 0 parallel verses
+- [[Ephesians 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[The Godhead]]
 - [[Law of Moses]]
 - [[Crucifixion of Jesus Christ]]
 - [[Repentance and Forgiveness]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -96,6 +97,7 @@ The chapter's criticism of regulations is contextual. It targets judgment, human
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **Flesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

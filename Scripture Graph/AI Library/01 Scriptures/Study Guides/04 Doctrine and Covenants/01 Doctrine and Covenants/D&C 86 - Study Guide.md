@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 86
 slug: dc-86
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ The chapter's clearest teaching about judgment is restraint: removing evil prema
 - [[Fruit That Remains (Elder Matthew L. Carpenter, April 2024)|Fruit That Remains]] — Elder Matthew L. Carpenter, 2024-April *(explicit citation)*
 - [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[Salvation and Exaltation (Elder Russell M. Nelson, April 2008)|Salvation and Exaltation]] — Elder Russell M. Nelson, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

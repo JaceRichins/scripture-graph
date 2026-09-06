@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 11
 slug: 2sam-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[Blessed Are All the Pure in Heart (Elder L. Whitney Clayton, October 2007)|Blessed Are All the Pure in Heart]] — Elder L. Whitney Clayton, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

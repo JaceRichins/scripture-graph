@@ -1,0 +1,146 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elder Yoshihiko Kikuchi
+year: '2007'
+month: April
+url: https://www.churchofjesuschrist.org/general-conference/2007/04/will-a-man-rob-god?lang=eng
+doc_id: talk:2007-april-will-a-man-rob-god
+full_text: true
+---
+
+# Will a Man Rob God?
+
+**Speaker:** Elder Yoshihiko Kikuchi · **Conference:** April 2007 · [source](https://www.churchofjesuschrist.org/general-conference/2007/04/will-a-man-rob-god?lang=eng)
+
+Will a Man Rob God?
+
+By Elder Yoshihiko Kikuchi
+
+Of the Seventy
+
+When you and I pay honest, true tithes to the Lord, the Lord will open the windows of heaven.
+
+I would like to discuss the law of tithing. In the book of Malachi, the Lord asks:
+
+“Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.
+
+“Ye are cursed with a curse: for ye have robbed me, even this whole nation.
+
+“Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.”
+
+Tithing is such an important commandment that when the Lord appeared on the American continent after His Resurrection, He repeated those same exact words. And the Lord said in our day, “Those who have thus been tithed shall pay one-tenth of all their interest annually.”
+
+In the book of Leviticus, the Lord stated three different times that tithing is “holy unto the Lord.”
+
+The Lord said, “Prove me now [or test me now] … , if I will not open you the windows of heaven.” Many of us test the Lord in the right way; however, some do not.
+
+Consider, for example, ten apples. Now, all ten of these apples actually belong to the Lord, but He asks us to return to Him only one-tenth, or one apple.
+
+Are you offering only a small bite of that apple and keeping 90 percent? Are you willing to offer the Lord such a small portion?
+
+Are you ashamed, or do you try to patch up and hide the bitten portion of the apple and then offer that to the Lord?
+
+We want our offerings to be full and clean. We have been taught: “Behold, the Lord requireth the heart and a willing mind; and the willing and obedient shall eat the good of the land of Zion in these last days.”
+
+A few years ago I received the assignment to reorganize the Carey Idaho Stake. The plane landed at Twin Falls, and President Roy Hubert, who had served so well, met me there and drove me to his home. While we were driving, I asked him, “Is there anything I can do for you and your Saints?”
+
+He said: “Oh, we have had a terrible drought for the last few years. This year it is particularly severe, and many farmers have left town to find employment elsewhere.”
+
+I was so disturbed for our faithful members who love the Lord and the Church yet were losing their farms.
+
+A young bishop, R. Spence Ellsworth, was called to serve as the new stake president. During the Sunday general session, results of the drought weighed heavily on my mind. As I was speaking, a strong prompting came. I asked them to do the following:
+
+Faithfully pay an honest tithe, both young and old.
+
+Humbly hold regular individual and family prayers.
+
+Devotedly have daily personal and family scripture study.
+
+Thankfully keep the Sabbath day holy.
+
+Gratefully go to the temple often, there offering thanksgiving.
+
+Willingly sustain and follow the new leaders.
+
+Hold a stakewide fast, including everyone in the affected communities who would like to participate.
+
+For the next couple of days following the stake conference, many members planted their crops with complete faith, even though there was no forecast of rain.
+
+On Wednesday, under the direction of President Ellsworth, the whole stake fasted. That same week many members, the leaders, and their spouses went to the Boise Idaho Temple and offered their thanksgiving. While these faithful Saints were in the temple, rain began to fall on the entire community, though the weather forecast indicated no moisture for the next few weeks. The following Saturday, good rain fell again and continued for a few days. This happened late in the month of April. Significant snow fell in the mountains, providing enough moisture. In the Dietrich and Richfield communities, their reservoir had been under 30 percent, but after the people fasted, the reservoir was nearly full. The Carey water supply increased from about 44 percent to more than 100 percent of normal. Through the rest of the growing season, as members of the Carey stake increased their faith by fasting a few more times, paying honest tithes, and attending the temple more frequently, the Lord heard and answered their prayers. Frost came late that year, so the farmers were able to harvest grain, sugar beets, alfalfa, potatoes, and other crops. From that day, and each year since, they have offered their thanksgiving prayers, and “because of … his tender mercies,” the Lord continues to bless them.
+
+In the book of Chronicles, the Lord said, “If my people, … called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.”
+
+Paying a full and honest tithe leads us to the temple. Tithing, I believe, is one of President Hinckley’s prophetic priorities.
+
+Last week in the Young Women meeting, President Hinckley said, “While tithing is paid with money, more importantly it is paid with faith.”
+
+Another time he said: “This is not so much a matter of money as it is a matter of faith. … I urge you, … every one of you, to take the Lord at His word in this important matter.”
+
+It is a matter of commitment. The earth belongs to the Lord, and this includes our own lives. He allows us to use everything on this earth. He only asks us to return one-tenth. Tithing is a token of gratitude, obedience, and thanksgiving—a token of our willingness and dedication. Paying tithing, willingly, develops an honest and pure heart. Paying tithing increases our love for the Lord.
+
+The Lord said, “It is a day of sacrifice, and a day for the tithing of my people.”
+
+Brothers and sisters, let us demonstrate our faith. Let us show our willingness to obey. I promise you, in the name of Jesus Christ, when you and I pay honest, true tithes to the Lord, the Lord will open the windows of heaven.
+
+I know that Heavenly Father lives. Therefore, He will bless you. Jesus Christ is our Savior. Joseph saw Heavenly Father and His Son, Jesus Christ. This is His Church. President Gordon B. Hinckley is a living oracle of God. He asks you to come often to the temple. This is my humble prayer in the name of Jesus Christ, amen.
+
+Notes
+
+Malachi 3:8–10.
+
+See 3 Nephi 24:8–10.
+
+D&C 119:4.
+
+Leviticus 27:30; see also vv. 32–33.
+
+3 Nephi 24:10.
+
+D&C 64:34.
+
+Ether 6:12.
+
+2 Chronicles 7:14.
+
+“Let Virtue Garnish Thy Thoughts Unceasingly,” Liahona and Ensign, May 2007, 117.
+
+In Conference Report, Oct. 1985, 110; or Ensign, Nov. 1985, 85.
+
+D&C 64:23.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28836512", "context": "", "text": "
+Malachi 3:8–10.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/mal/3?lang=eng&id=p8-p10#p8", "text": "Malachi 3:8–10"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28836513", "context": "", "text": "
+See 3 Nephi 24:8–10.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/24?lang=eng&id=p8-p10#p8", "text": "3 Nephi 24:8–10"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28836513", "context": "", "text": "
+D&C 119:4.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/119?lang=eng&id=p4#p4", "text": "D&C 119:4"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28836514", "context": "", "text": "
+Leviticus 27:30; see also vv. 32–33.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/lev/27?lang=eng&id=p30#p30", "text": "Leviticus 27:30"}, {"type": "scripture-ref", "href": "/study/scriptures/ot/lev/27?lang=eng&id=p32-p33#p32", "text": "vv. 32–33"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "28836515", "context": "", "text": "
+3 Nephi 24:10.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/24?lang=eng&id=p10#p10", "text": "3 Nephi 24:10"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28836519", "context": "", "text": "
+D&C 64:34.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/64?lang=eng&id=p34#p34", "text": "D&C 64:34"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28836532", "context": "", "text": "
+Ether 6:12.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/ether/6?lang=eng&id=p12#p12", "text": "Ether 6:12"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28836533", "context": "", "text": "
+2 Chronicles 7:14.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/2-chr/7?lang=eng&id=p14#p14", "text": "2 Chronicles 7:14"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "28836535", "context": "", "text": "
+“Let Virtue Garnish Thy Thoughts Unceasingly,” Liahona and Ensign, May 2007, 117.
+"}, "note10": {"id": "note10", "marker": "10.", "pid": "28836536", "context": "", "text": "
+In Conference Report, Oct. 1985, 110; or Ensign, Nov. 1985, 85.
+", "referenceUris": [{"type": "cross-ref", "href": "/study/general-conference/1985/10/let-us-move-this-work-forward?lang=eng&id=p19-p20#p19", "text": "110"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "28836538", "context": "", "text": "
+D&C 64:23.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/64?lang=eng&id=p23#p23", "text": "D&C 64:23"}]}}
+
+## Scripture citations in this talk
+
+- [[3 Nephi 24]] (6×)
+- [[D&C 64]] (6×)
+- [[Malachi 3]] (3×)
+- [[D&C 119]] (3×)
+- [[Leviticus 27]] (3×)
+- [[Ether 6]] (3×)
+- [[2 Chronicles 7]] (3×)

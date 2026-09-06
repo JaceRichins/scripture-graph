@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 3
 slug: jacob-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[1 Nephi 12]] — 1 footnote cross-reference (from [[Jacob 3#^jacob-3-3|Jacob 3:3]])
 - [[Omni 1]] — 1 footnote cross-reference (from [[Jacob 3#^jacob-3-4|Jacob 3:4]])
 - [[2 Nephi 9]] — 2 parallel verses, e.g. [[Jacob 3#^jacob-3-11|Jacob 3:11]] ↔ [[2 Nephi 9#^2ne-9-19|2 Nephi 9:19]]
+- [[Helaman 7]] — 1 parallel verse, e.g. [[Jacob 3#^jacob-3-5|Jacob 3:5]] ↔ [[Helaman 7#^hel-7-24|Helaman 7:24]]
 - [[Helaman 3]] — 1 parallel verse, e.g. [[Jacob 3#^jacob-3-13|Jacob 3:13]] ↔ [[Helaman 3#^hel-3-14|Helaman 3:14]]
 - [[2 Nephi 9]] — 0 parallel verses
 - [[Helaman 3]] — 0 parallel verses
@@ -62,8 +63,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Records and Sacred Writings]]
 - [[Final Judgment]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
@@ -87,6 +88,7 @@ Family conduct is spiritually consequential. Love between spouses and toward chi
 - [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
 - [[The Atoning Love of Jesus Christ (Elder Neil L. Andersen, October 2025)|The Atoning Love of Jesus Christ]] — Elder Neil L. Andersen, 2025-October *(explicit citation)*
 - [[Claim the Blessings of Your Covenants (Linda S. Reeves, October 2013)|Claim the Blessings of Your Covenants]] — Linda S. Reeves, 2013-October *(explicit citation)*
+- [[Opening Our Hearts (Elder Gerald N. Lund, April 2008)|Opening Our Hearts]] — Elder Gerald N. Lund, 2008-April *(explicit citation)*
 - [[The Healing Ointment of Forgiveness (Elder Kevin R. Duncan, April 2016)|The Healing Ointment of Forgiveness]] — Elder Kevin R. Duncan, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 

@@ -27,6 +27,8 @@ _Not yet developed._
 - [[1 Nephi 11]]
 - [[2 Nephi 4]]
 - [[1 Nephi 19]]
+- [[Jacob 4]]
+- [[John 1]]
 - [[3 Nephi 1]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 

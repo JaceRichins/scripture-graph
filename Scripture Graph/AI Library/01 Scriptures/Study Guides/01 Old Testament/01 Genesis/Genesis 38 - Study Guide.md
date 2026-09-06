@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 38
 slug: gen-38
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Moses 6]] — 2 parallel verses, e.g. [[Genesis 38#^gen-38-3|Genesis 38:3]] ↔ [[Moses 6#^moses-6-2|Moses 6:2]]
 - [[Genesis 4]] — 2 parallel verses, e.g. [[Genesis 38#^gen-38-5|Genesis 38:5]] ↔ [[Genesis 4#^gen-4-25|Genesis 4:25]]
 - [[Genesis 19]] — 2 parallel verses, e.g. [[Genesis 38#^gen-38-5|Genesis 38:5]] ↔ [[Genesis 19#^gen-19-37|Genesis 19:37]]
+- [[Deuteronomy 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

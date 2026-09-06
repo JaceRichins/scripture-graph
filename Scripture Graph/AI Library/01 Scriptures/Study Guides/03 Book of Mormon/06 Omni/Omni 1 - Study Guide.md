@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Omni
 chapter: 1
 slug: omni-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,8 +51,8 @@ _Not yet developed._
 - [[Mosiah 28]] — 3 footnote cross-references (from [[Omni 1#^omni-1-20|Omni 1:20]])
 - [[Jacob 1]] — 2 footnote cross-references (from [[Omni 1#^omni-1-3|Omni 1:3]])
 - [[Mosiah 7]] — 2 footnote cross-references (from [[Omni 1#^omni-1-12|Omni 1:12]])
-- [[4 Nephi 1]] — 5 parallel verses, e.g. [[Omni 1#^omni-1-3|Omni 1:3]] ↔ [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]]
 - [[3 Nephi 4]] — 4 parallel verses, e.g. [[Omni 1#^omni-1-7|Omni 1:7]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
+- [[4 Nephi 1]] — 5 parallel verses, e.g. [[Omni 1#^omni-1-3|Omni 1:3]] ↔ [[4 Nephi 1#^4ne-1-40|4 Nephi 1:40]]
 - [[Jarom 1]] — 3 parallel verses, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[Jarom 1#^jarom-1-9|Jarom 1:9]]
 - [[Alma 9]] — 3 parallel verses, e.g. [[Omni 1#^omni-1-6|Omni 1:6]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Mosiah 28]] — 1 parallel verse, e.g. [[Omni 1#^omni-1-22|Omni 1:22]] ↔ [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]]

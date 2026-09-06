@@ -54,7 +54,7 @@ cssclasses:
 > [[Alma 44#^alma-44-9|Alma 44:9]] · [[Alma 49#^alma-49-6|49:6 (6, 24)]] · [[Alma 51#^alma-51-20|Alma 51:20]] · [[Alma 48#^alma-48-10|Alma 48:10]] · [[3 Nephi 19#^3ne-19-27|≈ 3 Nephi 19:27]] · [[3 Nephi 19#^3ne-19-19|≈ 3 Nephi 19:19]]
 
 ![[Alma 46#^alma-46-14]]
-> [[Mosiah 26#^mosiah-26-38|≈ Mosiah 26:38]] · [[Mosiah 27#^mosiah-27-2|≈ Mosiah 27:2]] · [[Alma 4#^alma-4-9|≈ Alma 4:9]] · [[Alma 4#^alma-4-10|≈ Alma 4:10]] · [[Alma 1#^alma-1-7|≈ Alma 1:7]] · [[Alma 1#^alma-1-19|≈ Alma 1:19]]
+> [[Mosiah 26#^mosiah-26-38|≈ Mosiah 26:38]] · [[Mosiah 27#^mosiah-27-2|≈ Mosiah 27:2]] · [[Alma 1#^alma-1-7|≈ Alma 1:7]] · [[Alma 1#^alma-1-19|≈ Alma 1:19]] · [[Alma 4#^alma-4-9|≈ Alma 4:9]] · [[Alma 4#^alma-4-10|≈ Alma 4:10]]
 
 ![[Alma 46#^alma-46-15]]
 > [[Acts 11#^acts-11-26|Acts 11:26]]
@@ -125,7 +125,7 @@ cssclasses:
 > [[Alma 43#^alma-43-2|Alma 43:2]] · [[Alma 49#^alma-49-30|49:30]] · [[Alma 48#^alma-48-20|≈ Alma 48:20]]
 
 ![[Alma 46#^alma-46-39]]
-> [[Moroni 7#^moro-7-3|Moro. 7:41 (3, 41)]] · [[Mosiah 26#^mosiah-26-1|≈ Mosiah 26:1]] · [[Helaman 3#^hel-3-12|≈ Helaman 3:12]] · [[Helaman 16#^hel-16-1|≈ Helaman 16:1]] · [[3 Nephi 6#^3ne-6-7|≈ 3 Nephi 6:7]] · [[Alma 19#^alma-19-25|≈ Alma 19:25]] · [[Alma 19#^alma-19-35|≈ Alma 19:35]]
+> [[Moroni 7#^moro-7-3|Moro. 7:41 (3, 41)]] · [[Mosiah 26#^mosiah-26-1|≈ Mosiah 26:1]] · [[Helaman 3#^hel-3-12|≈ Helaman 3:12]] · [[Helaman 16#^hel-16-1|≈ Helaman 16:1]] · [[Alma 19#^alma-19-25|≈ Alma 19:25]] · [[Alma 19#^alma-19-35|≈ Alma 19:35]] · [[3 Nephi 6#^3ne-6-7|≈ 3 Nephi 6:7]]
 
 ![[Alma 46#^alma-46-40]]
 > [[D&C 59#^dc-59-17|D&amp;C 59:17 (17–20)]] · [[D&C 89#^dc-89-10|89:10]] · [[Ezekiel 47#^ezek-47-12|Ezek. 47:12]]

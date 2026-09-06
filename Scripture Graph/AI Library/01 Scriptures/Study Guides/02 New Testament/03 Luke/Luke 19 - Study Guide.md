@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 19
 slug: luke-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **Bethphage** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Fig tree** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

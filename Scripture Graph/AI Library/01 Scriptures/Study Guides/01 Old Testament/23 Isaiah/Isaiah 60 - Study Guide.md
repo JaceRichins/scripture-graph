@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 60
 slug: isa-60
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ Scripture: [[Isaiah 60]] · My notes: [[Isaiah 60 - My Notes]]
 - [[Isaiah 56]] — 2 footnote cross-references (from [[Isaiah 60#^isa-60-7|Isaiah 60:7]])
 - [[D&C 64]] — 2 footnote cross-references (from [[Isaiah 60#^isa-60-9|Isaiah 60:9]])
 - [[Isaiah 54]] — 2 footnote cross-references (from [[Isaiah 60#^isa-60-10|Isaiah 60:10]])
+- [[Isaiah 49]] — 2 parallel verses, e.g. [[Isaiah 60#^isa-60-16|Isaiah 60:16]] ↔ [[Isaiah 49#^isa-49-26|Isaiah 49:26]]
 - [[1 Nephi 21]] — 2 parallel verses, e.g. [[Isaiah 60#^isa-60-16|Isaiah 60:16]] ↔ [[1 Nephi 21#^1ne-21-26|1 Nephi 21:26]]
 - [[2 Nephi 6]] — 1 parallel verse, e.g. [[Isaiah 60#^isa-60-16|Isaiah 60:16]] ↔ [[2 Nephi 6#^2ne-6-18|2 Nephi 6:18]]
 - [[Isaiah 49]] — 0 parallel verses
@@ -60,8 +61,8 @@ Scripture: [[Isaiah 60]] · My notes: [[Isaiah 60 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
 - [[War and Peace]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

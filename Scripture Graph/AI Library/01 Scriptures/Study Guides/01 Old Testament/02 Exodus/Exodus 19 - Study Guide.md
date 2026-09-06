@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 19
 slug: ex-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ The encounter also presents holiness as ordered approach. Washing, temporary abs
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
+- **Exodus, book of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

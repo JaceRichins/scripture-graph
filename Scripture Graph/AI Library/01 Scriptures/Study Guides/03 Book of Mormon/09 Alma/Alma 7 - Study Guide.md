@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 7
 slug: alma-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,8 @@ Scripture: [[Alma 7]] · My notes: [[Alma 7 - My Notes]]
 - [[Matthew 3]] — 2 footnote cross-references (from [[Alma 7#^alma-7-9|Alma 7:9]])
 - [[Mosiah 3]] — 2 footnote cross-references (from [[Alma 7#^alma-7-9|Alma 7:9]])
 - [[Alma 5]] — 4 parallel verses, e.g. [[Alma 7#^alma-7-6|Alma 7:6]] ↔ [[Alma 5#^alma-5-53|Alma 5:53]]
+- [[D&C 3]] — 1 parallel verse, e.g. [[Alma 7#^alma-7-20|Alma 7:20]] ↔ [[D&C 3#^dc-3-2|D&C 3:2]]
+- [[Moroni 10]] — 3 parallel verses, e.g. [[Alma 7#^alma-7-10|Alma 7:10]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
 - [[1 Nephi 10]] — 3 parallel verses, e.g. [[Alma 7#^alma-7-10|Alma 7:10]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
 - [[Jacob 7]] — 2 parallel verses, e.g. [[Alma 7#^alma-7-10|Alma 7:10]] ↔ [[Jacob 7#^jacob-7-12|Jacob 7:12]]
 - [[Moroni 6]] — 2 parallel verses, e.g. [[Alma 7#^alma-7-10|Alma 7:10]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]

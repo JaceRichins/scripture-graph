@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 6
 slug: alma-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ The chapter functions as a hinge: it completes the Zarahemla narrative from [[Al
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 - [[We Are The Church of Jesus Christ of Latter-day Saints (Reyna I. Aburto, April 2022)|We Are The Church of Jesus Christ of Latter-day Saints]] — Reyna I. Aburto, 2022-April *(explicit citation)*
 - [[Pride and the Priesthood (President Dieter F. Uchtdorf, October 2010)|Pride and the Priesthood]] — President Dieter F. Uchtdorf, 2010-October *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -97,6 +98,8 @@ The chapter functions as a hinge: it completes the Zarahemla narrative from [[Al
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
+- **Elders** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

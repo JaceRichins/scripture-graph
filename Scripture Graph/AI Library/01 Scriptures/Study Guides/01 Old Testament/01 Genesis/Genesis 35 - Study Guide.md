@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 35
 slug: gen-35
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ This progression makes the chapter both a return narrative and a family-transiti
 - [[Genesis 25]] — 2 footnote cross-references (from [[Genesis 35#^gen-35-28|Genesis 35:28]])
 - [[Genesis 27]] — 1 footnote cross-reference (from [[Genesis 35#^gen-35-1|Genesis 35:1]])
 - [[Judges 9]] — 2 parallel verses, e.g. [[Genesis 35#^gen-35-6|Genesis 35:6]] ↔ [[Judges 9#^judg-9-48|Judges 9:48]]
+- [[Genesis 25]] — 1 parallel verse, e.g. [[Genesis 35#^gen-35-29|Genesis 35:29]] ↔ [[Genesis 25#^gen-25-17|Genesis 25:17]]
 - [[Genesis 32]] — 0 parallel verses
 - [[Genesis 17]] — 0 parallel verses
 - [[Genesis 28]] — 0 parallel verses
@@ -92,6 +93,7 @@ _Not yet developed._
 - **Altar** (reference-entry) *(explicit citation)*
 - **Benjamin** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
+- **Esau** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 5
 slug: 2ne-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -97,7 +97,10 @@ Verse 20 explicitly defines the rebellious brothers' condition as being 'cut off
 - [[The Lord’s Way (Elder Stanley G. Ellis, April 2013)|The Lord’s Way]] — Elder Stanley G. Ellis, 2013-April *(explicit citation)*
 - [[The Power, Joy, and Love of Covenant Keeping (Linda K. Burton, October 2013)|The Power, Joy, and Love of Covenant Keeping]] — Linda K. Burton, 2013-October *(explicit citation)*
 - [[Love Her Mother (Elaine S. Dalton, October 2011)|Love Her Mother]] — Elaine S. Dalton, 2011-October *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[Restoring Faith in the Family (Elder Kenneth Johnson, April 2008)|Restoring Faith in the Family]] — Elder Kenneth Johnson, 2008-April *(explicit citation)*
 - [[Let Doing Good Be Our Normal (Elder Rafael E. Pino, October 2022)|Let Doing Good Be Our Normal]] — Elder Rafael E. Pino, 2022-October *(explicit citation)*
+- [[Today Is the Time (Elder Walter F. González, October 2007)|Today Is the Time]] — Elder Walter F. González, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

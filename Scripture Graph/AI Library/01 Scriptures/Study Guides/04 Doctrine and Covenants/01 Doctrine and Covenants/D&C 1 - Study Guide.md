@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 1
 slug: dc-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,12 +50,16 @@ A useful five-part reading is:
 - [[D&C 18]] — 3 footnote cross-references (from [[D&C 1#^dc-1-2|D&C 1:2]])
 - [[D&C 39]] — 3 footnote cross-references (from [[D&C 1#^dc-1-2|D&C 1:2]])
 - [[D&C 56]] — 3 footnote cross-references (from [[D&C 1#^dc-1-10|D&C 1:10]])
+- [[D&C 133]] — 3 parallel verses, e.g. [[D&C 1#^dc-1-1|D&C 1:1]] ↔ [[D&C 133#^dc-133-1|D&C 133:1]]
 - [[1 Nephi 22]] — 3 parallel verses, e.g. [[D&C 1#^dc-1-9|D&C 1:9]] ↔ [[1 Nephi 22#^1ne-22-16|1 Nephi 22:16]]
+- [[Alma 45]] — 1 parallel verse, e.g. [[D&C 1#^dc-1-31|D&C 1:31]] ↔ [[Alma 45#^alma-45-16|Alma 45:16]]
+- [[D&C 45]] — 2 parallel verses, e.g. [[D&C 1#^dc-1-1|D&C 1:1]] ↔ [[D&C 45#^dc-45-1|D&C 45:1]]
+- [[D&C 58]] — 1 parallel verse, e.g. [[D&C 1#^dc-1-35|D&C 1:35]] ↔ [[D&C 58#^dc-58-4|D&C 58:4]]
 - [[Matthew 2]] — 2 parallel verses, e.g. [[D&C 1#^dc-1-18|D&C 1:18]] ↔ [[Matthew 2#^matt-2-15|Matthew 2:15]]
-- [[D&C 133]] — 0 parallel verses
 - [[Isaiah 34]] — 0 parallel verses
 - [[Luke 12]] — 0 parallel verses
 - [[Matthew 24]] — 0 parallel verses
+- [[Isaiah 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,11 +90,11 @@ The qualification in verse 30 is also important: the Lord's approval is directed
 - [[Essential Truths—Our Need to Act (Elder Adilson de Paula Parrella, October 2017)|Essential Truths—Our Need to Act]] — Elder Adilson de Paula Parrella, 2017-October *(explicit citation)*
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[Lay Up in Store (Bishop Keith B. McMullin, April 2007)|Lay Up in Store]] — Bishop Keith B. McMullin, 2007-April *(explicit citation)*
 - [[Plain and Precious Truths (Elder Gary E. Stevenson, October 2015)|Plain and Precious Truths]] — Elder Gary E. Stevenson, 2015-October *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
 - [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
 - [[Introductory Remarks (President Russell M. Nelson, April 2018)|Introductory Remarks]] — President Russell M. Nelson, 2018-April *(explicit citation)*
-- [[Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

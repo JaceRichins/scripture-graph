@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 12
 slug: 2kgs-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Ahaziah** (reference-entry) *(explicit citation)*
+- **Gath** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

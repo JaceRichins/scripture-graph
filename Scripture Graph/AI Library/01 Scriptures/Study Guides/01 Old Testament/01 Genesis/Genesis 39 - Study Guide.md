@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 39
 slug: gen-39
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Matthew 10]] — 1 footnote cross-reference (from [[Genesis 39#^gen-39-3|Genesis 39:3]])
 - [[Mosiah 2]] — 1 footnote cross-reference (from [[Genesis 39#^gen-39-3|Genesis 39:3]])
 - [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 39#^gen-39-7|Genesis 39:7]] ↔ [[Genesis 22#^gen-22-1|Genesis 22:1]]
+- [[Daniel 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +68,7 @@ _Not yet developed._
 - [[Followers of Christ (Elder Walter F. González, April 2011)|Followers of Christ]] — Elder Walter F. González, 2011-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Place No More for the Enemy of My Soul (Elder Jeffrey R. Holland, April 2010)|Place No More for the Enemy of My Soul]] — Elder Jeffrey R. Holland, 2010-April *(explicit citation)*
+- [[Today Is the Time (Elder Walter F. González, October 2007)|Today Is the Time]] — Elder Walter F. González, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 19
 slug: matt-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Mark 9]] — 2 parallel verses, e.g. [[Matthew 19#^matt-19-24|Matthew 19:24]] ↔ [[Mark 9#^mark-9-47|Mark 9:47]]
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Matthew 19#^matt-19-18|Matthew 19:18]] ↔ [[Mosiah 13#^mosiah-13-22|Mosiah 13:22]]
 - [[1 Nephi 12]] — 0 parallel verses
+- [[Genesis 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,13 +77,13 @@ _Not yet developed._
 - [[The Joyful Burden of Discipleship (Elder Ronald A. Rasband, April 2014)|The Joyful Burden of Discipleship]] — Elder Ronald A. Rasband, 2014-April *(explicit citation)*
 - [[What Lack I Yet (Elder Larry R. Lawrence, October 2015)|What Lack I Yet?]] — Elder Larry R. Lawrence, 2015-October *(explicit citation)*
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[“Whoso Receiveth Them, Receiveth Me” (Elder Neil L. Andersen, April 2016)|“Whoso Receiveth Them, Receiveth Me”]] — Elder Neil L. Andersen, 2016-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 - [[And This Is Life Eternal (Elder C. Scott Grow, April 2017)|And This Is Life Eternal]] — Elder C. Scott Grow, 2017-April *(explicit citation)*
 - [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[The Finest Homes (Elder L. Whitney Clayton, April 2020)|The Finest Homes]] — Elder L. Whitney Clayton, 2020-April *(explicit citation)*
-- [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -43,7 +43,7 @@ _Not yet developed._
 - [[2 Samuel 14]] *(keyword match)*
 - [[Esther 8]] *(keyword match)*
 - [[Daniel 6]] *(keyword match)*
-- [[Esther 10]] *(keyword match)*
+- [[Daniel 1]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

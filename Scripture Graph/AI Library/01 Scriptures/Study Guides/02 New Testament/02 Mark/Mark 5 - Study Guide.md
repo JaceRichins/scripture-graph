@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 5
 slug: mark-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Helaman 15]] — 1 footnote cross-reference (from [[Mark 5#^mark-5-34|Mark 5:34]])
 - [[Luke 8]] — 11 parallel verses, e.g. [[Mark 5#^mark-5-13|Mark 5:13]] ↔ [[Luke 8#^luke-8-33|Luke 8:33]]
 - [[Matthew 8]] — 2 parallel verses, e.g. [[Mark 5#^mark-5-13|Mark 5:13]] ↔ [[Matthew 8#^matt-8-32|Matthew 8:32]]
+- [[Enos 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,6 +83,7 @@ _Not yet developed._
 - **Burial** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **Gadara** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

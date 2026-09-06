@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 12
 slug: gen-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,14 +54,17 @@ Scripture: [[Genesis 12]] · My notes: [[Genesis 12 - My Notes]]
 - [[Nehemiah 9]] — 2 footnote cross-references (from [[Genesis 12#^gen-12-1|Genesis 12:1]])
 - [[1 Nephi 2]] — 2 footnote cross-references (from [[Genesis 12#^gen-12-1|Genesis 12:1]])
 - [[Abraham 2]] — 12 parallel verses, e.g. [[Genesis 12#^gen-12-13|Genesis 12:13]] ↔ [[Abraham 2#^abr-2-25|Abraham 2:25]]
+- [[Genesis 26]] — 2 parallel verses, e.g. [[Genesis 12#^gen-12-10|Genesis 12:10]] ↔ [[Genesis 26#^gen-26-1|Genesis 26:1]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[Genesis 12#^gen-12-1|Genesis 12:1]] ↔ [[Acts 7#^acts-7-3|Acts 7:3]]
 - [[Exodus 32]] — 1 parallel verse, e.g. [[Genesis 12#^gen-12-2|Genesis 12:2]] ↔ [[Exodus 32#^ex-32-10|Exodus 32:10]]
-- [[Genesis 26]] — 0 parallel verses
 - [[Abraham 2]] — 0 parallel verses
 - [[Genesis 20]] — 0 parallel verses
 - [[Acts 7]] — 0 parallel verses
 - [[Psalm 72]] — 0 parallel verses
 - [[Genesis 20]] — 0 parallel verses
+- [[Genesis 13]] — 0 parallel verses
+- [[Genesis 26]] — 0 parallel verses
+- [[Genesis 28]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -87,6 +90,7 @@ The danger to Sarai also makes [[Marriage]] central to the episode. The text rep
 - [[The Sacred Place of Restoration (Elder Jairo Mazzagardi, April 2016)|The Sacred Place of Restoration]] — Elder Jairo Mazzagardi, 2016-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
+- [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

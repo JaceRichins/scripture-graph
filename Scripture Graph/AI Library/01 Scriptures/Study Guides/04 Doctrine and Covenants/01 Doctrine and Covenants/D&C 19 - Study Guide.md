@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 19
 slug: dc-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,8 +51,9 @@ _Not yet developed._
 - [[D&C 76]] — 3 footnote cross-references (from [[D&C 19#^dc-19-6|D&C 19:6]])
 - [[D&C 68]] — 2 footnote cross-references (from [[D&C 19#^dc-19-1|D&C 19:1]])
 - [[D&C 75]] — 2 footnote cross-references (from [[D&C 19#^dc-19-1|D&C 19:1]])
+- [[D&C 45]] — 2 parallel verses, e.g. [[D&C 19#^dc-19-7|D&C 19:7]] ↔ [[D&C 45#^dc-45-55|D&C 45:55]]
+- [[Mosiah 13]] — 1 parallel verse, e.g. [[D&C 19#^dc-19-25|D&C 19:25]] ↔ [[Mosiah 13#^mosiah-13-24|Mosiah 13:24]]
 - [[D&C 55]] — 1 parallel verse, e.g. [[D&C 19#^dc-19-13|D&C 19:13]] ↔ [[D&C 55#^dc-55-2|D&C 55:2]]
-- [[Mosiah 13]] — 0 parallel verses
 - [[Mosiah 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

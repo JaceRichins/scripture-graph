@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 64
 slug: isa-64
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ Verse 6 should be read within this communal lament. Its comparison of "all our r
 <!-- SG:BEGIN conference -->
 - [[The Joy of Living a Christ-Centered Life (Elder Richard J. Maynes, October 2015)|The Joy of Living a Christ-Centered Life]] — Elder Richard J. Maynes, 2015-October *(explicit citation)*
 - [[Hope in Christ (President M. Russell Ballard, April 2021)|Hope in Christ]] — President M. Russell Ballard, 2021-April *(explicit citation)*
+- [[The Great Commandment (Elder Joseph B. Wirthlin, October 2007)|The Great Commandment]] — Elder Joseph B. Wirthlin, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

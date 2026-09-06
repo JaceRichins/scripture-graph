@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 21
 slug: prov-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

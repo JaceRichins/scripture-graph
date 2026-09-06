@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 28
 slug: mosiah-28
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 1
 slug: 2pet-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Mark 1]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[Mark 1#^mark-1-11|Mark 1:11]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[3 Nephi 11#^3ne-11-7|3 Nephi 11:7]]
 - [[D&C 107]] — 0 parallel verses
+- [[D&C 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -80,6 +81,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
+- [[The Twelve (President Boyd K. Packer, April 2008)|The Twelve]] — President Boyd K. Packer, 2008-April *(explicit citation)*
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Discovering the Divinity Within (Rosemary M. Wixom, October 2015)|Discovering the Divinity Within]] — Rosemary M. Wixom, 2015-October *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
@@ -88,7 +90,6 @@ _Not yet developed._
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
-- [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -101,6 +102,7 @@ _Not yet developed._
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **Election** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

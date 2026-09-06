@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 15
 slug: acts-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ The chapter portrays discernment through debate, testimony about divine action, 
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Cyprus** (reference-entry) *(explicit citation)*
+- **Epistles** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

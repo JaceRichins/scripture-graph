@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 18
 slug: luke-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Adultery** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

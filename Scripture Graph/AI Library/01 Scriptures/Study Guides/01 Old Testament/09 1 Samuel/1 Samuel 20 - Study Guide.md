@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 20
 slug: 1sam-20
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Abner** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

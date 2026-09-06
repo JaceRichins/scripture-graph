@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 1
 slug: ether-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[Mosiah 28]] — 3 footnote cross-references (from [[Ether 1#^ether-1-1|Ether 1:1]])
 - [[Ether 3]] — 3 footnote cross-references (from [[Ether 1#^ether-1-5|Ether 1:5]])
 - [[Genesis 11]] — 2 footnote cross-references (from [[Ether 1#^ether-1-3|Ether 1:3]])
+- [[Ether 2]] — 12 parallel verses, e.g. [[Ether 1#^ether-1-35|Ether 1:35]] ↔ [[Ether 2#^ether-2-16|Ether 2:16]]
 - [[Mosiah 28]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]]
 - [[1 Nephi 14]] — 4 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[1 Nephi 14#^1ne-14-14|1 Nephi 14:14]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-33|Ether 1:33]] ↔ [[1 Nephi 10#^1ne-10-12|1 Nephi 10:12]]
@@ -68,7 +69,6 @@ _Not yet developed._
 - [[1 Nephi 5]] — 1 parallel verse, e.g. [[Ether 1#^ether-1-3|Ether 1:3]] ↔ [[1 Nephi 5#^1ne-5-11|1 Nephi 5:11]]
 - [[1 Nephi 2]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-38|Ether 1:38]] ↔ [[1 Nephi 2#^1ne-2-20|1 Nephi 2:20]]
 - [[2 Nephi 1]] — 2 parallel verses, e.g. [[Ether 1#^ether-1-38|Ether 1:38]] ↔ [[2 Nephi 1#^2ne-1-5|2 Nephi 1:5]]
-- [[Ether 2]] — 0 parallel verses
 - [[Genesis 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -102,6 +102,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Babylon or Babel** (reference-entry) *(explicit citation)*
+- **Genesis** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

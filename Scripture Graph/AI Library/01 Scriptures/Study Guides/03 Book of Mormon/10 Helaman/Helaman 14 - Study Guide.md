@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 14
 slug: hel-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,7 +54,9 @@ _Not yet developed._
 - [[Helaman 13]] — 3 footnote cross-references (from [[Helaman 14#^hel-14-1|Helaman 14:1]])
 - [[1 Nephi 19]] — 3 footnote cross-references (from [[Helaman 14#^hel-14-21|Helaman 14:21]])
 - [[3 Nephi 23]] — 2 footnote cross-references (from [[Helaman 14#^hel-14-1|Helaman 14:1]])
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[Helaman 14#^hel-14-12|Helaman 14:12]] ↔ [[Mosiah 3#^mosiah-3-8|Mosiah 3:8]]
 - [[Alma 42]] — 3 parallel verses, e.g. [[Helaman 14#^hel-14-16|Helaman 14:16]] ↔ [[Alma 42#^alma-42-11|Alma 42:11]]
+- [[Jacob 5]] — 3 parallel verses, e.g. [[Helaman 14#^hel-14-18|Helaman 14:18]] ↔ [[Jacob 5#^jacob-5-46|Jacob 5:46]]
 - [[Helaman 16]] — 2 parallel verses, e.g. [[Helaman 14#^hel-14-12|Helaman 14:12]] ↔ [[Helaman 16#^hel-16-18|Helaman 16:18]]
 - [[Alma 5]] — 3 parallel verses, e.g. [[Helaman 14#^hel-14-18|Helaman 14:18]] ↔ [[Alma 5#^alma-5-35|Alma 5:35]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Helaman 14#^hel-14-16|Helaman 14:16]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
@@ -69,11 +71,11 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Agency]]
-- [[Death and the Spirit World]]
 - [[Helaman 16]]
 - [[Prophecy]]
 - [[Signs of the Times]]
 - [[Final Judgment]]
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Resurrection]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

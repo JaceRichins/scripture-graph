@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 3
 slug: moses-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -81,8 +81,10 @@ The chapter joins several themes without collapsing them into one another. [[Cre
 - [[The Prophet Joseph Smith (Elder Lawrence E. Corbridge, April 2014)|The Prophet Joseph Smith]] — Elder Lawrence E. Corbridge, 2014-April *(explicit citation)*
 - [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
 - [[Never Leave Him (Elder Neil L. Andersen, October 2010)|Never Leave Him]] — Elder Neil L. Andersen, 2010-October *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
 - [[We Believe in Being Chaste (Elder David A. Bednar, April 2013)|We Believe in Being Chaste]] — Elder David A. Bednar, 2013-April *(explicit citation)*
+- [[Pray Always (Elder David A. Bednar, October 2008)|Pray Always]] — Elder David A. Bednar, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -91,12 +93,12 @@ The chapter joins several themes without collapsing them into one another. [[Cre
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
-- **Marriage** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 45
 slug: alma-45
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,8 +56,10 @@ Scripture: [[Alma 45]] · My notes: [[Alma 45 - My Notes]]
 - [[Alma 62]] — 2 footnote cross-references (from [[Alma 45#^alma-45-15|Alma 45:15]])
 - [[Alma 50]] — 1 footnote cross-reference (from [[Alma 45#^alma-45-2|Alma 45:2]])
 - [[Alma 2]] — 4 parallel verses, e.g. [[Alma 45#^alma-45-1|Alma 45:1]] ↔ [[Alma 2#^alma-2-28|Alma 2:28]]
+- [[Alma 46]] — 3 parallel verses, e.g. [[Alma 45#^alma-45-22|Alma 45:22]] ↔ [[Alma 46#^alma-46-36|Alma 46:36]]
 - [[Alma 62]] — 3 parallel verses, e.g. [[Alma 45#^alma-45-1|Alma 45:1]] ↔ [[Alma 62#^alma-62-50|Alma 62:50]]
 - [[Helaman 11]] — 3 parallel verses, e.g. [[Alma 45#^alma-45-5|Alma 45:5]] ↔ [[Helaman 11#^hel-11-8|Helaman 11:8]]
+- [[D&C 1]] — 1 parallel verse, e.g. [[Alma 45#^alma-45-16|Alma 45:16]] ↔ [[D&C 1#^dc-1-31|D&C 1:31]]
 - [[3 Nephi 4]] — 2 parallel verses, e.g. [[Alma 45#^alma-45-1|Alma 45:1]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
 - [[Alma 48]] — 2 parallel verses, e.g. [[Alma 45#^alma-45-22|Alma 45:22]] ↔ [[Alma 48#^alma-48-9|Alma 48:9]]
 - [[Alma 43]] — 1 parallel verse, e.g. [[Alma 45#^alma-45-20|Alma 45:20]] ↔ [[Alma 43#^alma-43-1|Alma 43:1]]
@@ -65,8 +67,6 @@ Scripture: [[Alma 45]] · My notes: [[Alma 45 - My Notes]]
 - [[Mormon 3]] — 1 parallel verse, e.g. [[Alma 45#^alma-45-1|Alma 45:1]] ↔ [[Mormon 3#^morm-3-13|Mormon 3:13]]
 - [[Ether 3]] — 1 parallel verse, e.g. [[Alma 45#^alma-45-2|Alma 45:2]] ↔ [[Ether 3#^ether-3-11|Ether 3:11]]
 - [[Alma 50]] — 1 parallel verse, e.g. [[Alma 45#^alma-45-22|Alma 45:22]] ↔ [[Alma 50#^alma-50-1|Alma 50:1]]
-- [[Alma 37]] — 0 parallel verses
-- [[3 Nephi 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -103,6 +103,7 @@ In the final scene, riches are not condemned in isolation. The narrated sequence
 <!-- SG:BEGIN history -->
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

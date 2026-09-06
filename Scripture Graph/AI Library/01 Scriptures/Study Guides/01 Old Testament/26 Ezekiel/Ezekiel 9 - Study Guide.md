@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 9
 slug: ezek-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

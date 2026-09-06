@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 33
 slug: gen-33
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 33#^gen-33-1|Genesis 33:1]] ↔ [[Genesis 22#^gen-22-13|Genesis 22:13]]
 - [[Judges 6]] — 1 parallel verse, e.g. [[Genesis 33#^gen-33-10|Genesis 33:10]] ↔ [[Judges 6#^judg-6-17|Judges 6:17]]
 - [[Exodus 34]] — 1 parallel verse, e.g. [[Genesis 33#^gen-33-10|Genesis 33:10]] ↔ [[Exodus 34#^ex-34-9|Exodus 34:9]]
+- [[Genesis 32]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

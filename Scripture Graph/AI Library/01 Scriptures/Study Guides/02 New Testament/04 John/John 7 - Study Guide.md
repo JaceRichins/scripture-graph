@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 7
 slug: john-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,18 +52,19 @@ John 7 follows Jesus from a deliberately private arrival at the feast of taberna
 - [[John 3]] — 2 footnote cross-references (from [[John 7#^john-7-26|John 7:26]])
 - [[John 13]] — 2 footnote cross-references (from [[John 7#^john-7-29|John 7:29]])
 - [[John 11]] — 1 footnote cross-reference (from [[John 7#^john-7-1|John 7:1]])
+- [[John 8]] — 2 parallel verses, e.g. [[John 7#^john-7-30|John 7:30]] ↔ [[John 8#^john-8-20|John 8:20]]
+- [[John 3]] — 0 parallel verses
+- [[John 3]] — 0 parallel verses
 - [[John 8]] — 0 parallel verses
-- [[John 3]] — 0 parallel verses
-- [[John 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Testimony]]
-- [[Jews and Gentiles]]
 - [[John 5]]
 - [[Prophecy]]
 - [[Law of Moses]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Sabbath Day]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -88,6 +89,7 @@ John 7:16–18 grounds Jesus's teaching in the one who sent him rather than in s
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Feasts** (reference-entry) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*

@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 11
 slug: heb-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,8 @@ Scripture: [[Hebrews 11]] · My notes: [[Hebrews 11 - My Notes]]
 - [[D&C 63]] — 0 parallel verses
 - [[Ether 12]] — 0 parallel verses
 - [[Genesis 22]] — 0 parallel verses
+- [[Hebrews 13]] — 0 parallel verses
+- [[Hebrews 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -102,17 +104,18 @@ Verse 26 gives the Moses narrative an explicitly christological interpretation. 
 - [[Fourth Floor, Last Door (President Dieter F. Uchtdorf, October 2016)|Fourth Floor, Last Door]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 - [[The Exquisite Gift of the Son (Elder Matthew S. Holland, October 2020)|The Exquisite Gift of the Son]] — Elder Matthew S. Holland, 2020-October *(explicit citation)*
 - [[Faith Is Not by Chance, but by Choice (Elder Neil L. Andersen, October 2015)|Faith Is Not by Chance, but by Choice]] — Elder Neil L. Andersen, 2015-October *(explicit citation)*
 - [[A Yearning for Home (President Dieter F. Uchtdorf, October 2017)|A Yearning for Home]] — President Dieter F. Uchtdorf, 2017-October *(explicit citation)*
 - [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
 - [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
-- [[Hope in Christ (President M. Russell Ballard, April 2021)|Hope in Christ]] — President M. Russell Ballard, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-06-01 (Vol. 3 No. 9)** (periodical, 1837-06-01) *(explicit citation)*
@@ -121,7 +124,6 @@ Verse 26 gives the Moses narrative an explicitly christological interpretation. 
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **Cain** (reference-entry) *(explicit citation)*
-- **Daniel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

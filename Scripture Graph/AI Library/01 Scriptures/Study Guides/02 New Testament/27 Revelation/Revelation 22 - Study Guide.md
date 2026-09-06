@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 22
 slug: rev-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ _Not yet developed._
 - [[D&C 45]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[Revelation 19]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-9|Revelation 22:9]] ↔ [[Revelation 19#^rev-19-10|Revelation 19:10]]
 - [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
-- [[Alma 11]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[Alma 11#^alma-11-39|Alma 11:39]]
 - [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-21|Revelation 22:21]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
+- [[Revelation 21]] — 1 parallel verse, e.g. [[Revelation 22#^rev-22-13|Revelation 22:13]] ↔ [[Revelation 21#^rev-21-6|Revelation 21:6]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,6 +81,7 @@ _Not yet developed._
 - [[Conference Report, April 1916 (General Conference (full report), April 1916)|Conference Report, April 1916]] — General Conference (full report), 1916-April *(explicit citation)*
 - [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
 - [[Turn to the Lord (Elder Donald L. Hallstrom, April 2010)|Turn to the Lord]] — Elder Donald L. Hallstrom, 2010-April *(explicit citation)*
+- [[“My Words … Never Cease” (Elder Jeffrey R. Holland, April 2008)|“My Words … Never Cease”]] — Elder Jeffrey R. Holland, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

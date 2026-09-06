@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 21
 slug: 2chr-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Ahaziah** (reference-entry) *(explicit citation)*
 - **Athaliah** (reference-entry) *(explicit citation)*
+- **Elijah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

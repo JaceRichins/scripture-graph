@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 2
 slug: isa-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,9 +52,10 @@ Verse 5 is especially important: it can be read both as the response demanded by
 - [[1 Kings 8]] — 1 footnote cross-reference (from [[Isaiah 2#^isa-2-2|Isaiah 2:2]])
 - [[Isaiah 30]] — 1 footnote cross-reference (from [[Isaiah 2#^isa-2-3|Isaiah 2:3]])
 - [[2 Nephi 12]] — 26 parallel verses, e.g. [[Isaiah 2#^isa-2-3|Isaiah 2:3]] ↔ [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]]
-- [[Micah 4]] — 0 parallel verses
-- [[Isaiah 31]] — 0 parallel verses
+- [[Micah 4]] — 3 parallel verses, e.g. [[Isaiah 2#^isa-2-3|Isaiah 2:3]] ↔ [[Micah 4#^micah-4-2|Micah 4:2]]
+- [[Isaiah 31]] — 1 parallel verse, e.g. [[Isaiah 2#^isa-2-20|Isaiah 2:20]] ↔ [[Isaiah 31#^isa-31-7|Isaiah 31:7]]
 - [[2 Nephi 12]] — 0 parallel verses
+- [[Joel 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 23
 slug: 2sam-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 - **Benaiah** (reference-entry) *(explicit citation)*
 - **Asahel** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
+- **Eleazar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 21
 slug: 3ne-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ The chapter joins conversion to gathering. Coming to Christ, baptism, entering t
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
 - [[The Time Shall Come (Elder L. Whitney Clayton, October 2011)|The Time Shall Come]] — Elder L. Whitney Clayton, 2011-October *(explicit citation)*
 - [[Be Thou an Example of the Believers (Elder Russell M. Nelson, October 2010)|Be Thou an Example of the Believers]] — Elder Russell M. Nelson, 2010-October *(explicit citation)*
+- [[Gospel Teaching—Our Most Important Calling (William D. Oswald, October 2008)|Gospel Teaching—Our Most Important Calling]] — William D. Oswald, 2008-October *(explicit citation)*
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 

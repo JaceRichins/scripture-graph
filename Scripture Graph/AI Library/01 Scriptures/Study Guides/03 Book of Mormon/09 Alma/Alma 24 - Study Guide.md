@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 24
 slug: alma-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ Scripture: [[Alma 24]] · My notes: [[Alma 24 - My Notes]]
 - [[Alma 25]] — 0 parallel verses
 - [[Alma 26]] — 0 parallel verses
 - [[Alma 27]] — 0 parallel verses
+- [[Helaman 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 14
 slug: matt-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Matthew 15]] — 3 parallel verses, e.g. [[Matthew 14#^matt-14-20|Matthew 14:20]] ↔ [[Matthew 15#^matt-15-37|Matthew 15:37]]
 - [[Luke 9]] — 2 parallel verses, e.g. [[Matthew 14#^matt-14-19|Matthew 14:19]] ↔ [[Luke 9#^luke-9-16|Luke 9:16]]
 - [[Mark 8]] — 2 parallel verses, e.g. [[Matthew 14#^matt-14-20|Matthew 14:20]] ↔ [[Mark 8#^mark-8-8|Mark 8:8]]
+- [[John 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +84,7 @@ _Not yet developed._
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Calendar** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **Gennesaret(h), Land of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 29
 slug: 1chr-29
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Anoint** (reference-entry) *(explicit citation)*
+- **Gad** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

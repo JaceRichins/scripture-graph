@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 11
 slug: rom-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,8 @@ _Not yet developed._
 - [[2 Corinthians 11]] — 1 footnote cross-reference (from [[Romans 11#^rom-11-1|Romans 11:1]])
 - [[1 Kings 19]] — 1 footnote cross-reference (from [[Romans 11#^rom-11-3|Romans 11:3]])
 - [[1 Corinthians 2]] — 1 parallel verse, e.g. [[Romans 11#^rom-11-34|Romans 11:34]] ↔ [[1 Corinthians 2#^1cor-2-16|1 Corinthians 2:16]]
+- [[Isaiah 59]] — 0 parallel verses
+- [[Jacob 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,10 +72,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Election** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1836-07-01 (Vol. 2 No. 10)** (periodical, 1836-07-01) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **Benjamin** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
+- **Gentile** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

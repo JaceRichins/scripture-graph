@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 10
 slug: john-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ Scripture: [[John 10]] · My notes: [[John 10 - My Notes]]
 - [[D&C 50]] — 0 parallel verses
 - [[3 Nephi 16]] — 0 parallel verses
 - [[Ezekiel 34]] — 0 parallel verses
+- [[John 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -102,6 +103,7 @@ The other-sheep promise is left geographically undefined in John. [[3 Nephi 15]]
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

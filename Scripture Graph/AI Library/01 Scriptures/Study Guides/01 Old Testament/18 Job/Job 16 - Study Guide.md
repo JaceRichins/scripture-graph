@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 16
 slug: job-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

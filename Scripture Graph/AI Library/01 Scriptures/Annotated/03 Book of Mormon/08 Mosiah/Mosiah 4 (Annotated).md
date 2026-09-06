@@ -35,7 +35,7 @@ cssclasses:
 > [[Mosiah 15#^mosiah-15-19|Mosiah 15:19]] · [[Mosiah 18#^mosiah-18-13|18:13]] · [[Psalm 36#^ps-36-7|Ps. 36:7 (7–8)]] · [[2 Nephi 22#^2ne-22-2|2 Ne. 22:2]] · [[Helaman 12#^hel-12-1|Hel. 12:1]] · [[Alma 12#^alma-12-30|≈ Alma 12:30]] · [[1 Nephi 19#^1ne-19-9|≈ 1 Nephi 19:9]]
 
 ![[Mosiah 4#^mosiah-4-7]]
-> [[Alma 18#^alma-18-39|≈ Alma 18:39]] · [[Alma 22#^alma-22-13|≈ Alma 22:13]] · [[Mosiah 15#^mosiah-15-19|≈ Mosiah 15:19]] · [[Alma 13#^alma-13-5|≈ Alma 13:5]]
+> [[Alma 22#^alma-22-13|≈ Alma 22:13]] · [[Mosiah 15#^mosiah-15-19|≈ Mosiah 15:19]] · [[Alma 13#^alma-13-5|≈ Alma 13:5]] · [[Alma 18#^alma-18-39|≈ Alma 18:39]]
 
 ![[Mosiah 4#^mosiah-4-8]]
 > [[Acts 4#^acts-4-12|Acts 4:12]] · [[2 Nephi 31#^2ne-31-21|2 Ne. 31:21]] · [[Mosiah 3#^mosiah-3-17|Mosiah 3:17]]

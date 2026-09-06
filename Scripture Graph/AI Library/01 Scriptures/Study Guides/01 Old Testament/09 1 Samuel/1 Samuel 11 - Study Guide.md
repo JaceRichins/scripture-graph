@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 11
 slug: 1sam-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,7 +55,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[A Matter of a Few Degrees (President Dieter F. Uchtdorf, April 2008)|A Matter of a Few Degrees]] — President Dieter F. Uchtdorf, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

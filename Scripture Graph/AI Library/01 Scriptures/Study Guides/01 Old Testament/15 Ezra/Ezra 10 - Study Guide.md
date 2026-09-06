@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 10
 slug: ezra-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,9 @@ _Not yet developed._
 - **Asahel** (reference-entry) *(explicit citation)*
 - **Benjamin** (reference-entry) *(explicit citation)*
 - **Confession** (reference-entry) *(explicit citation)*
+- **Eleazar** (reference-entry) *(explicit citation)*
+- **Ezra** (reference-entry) *(explicit citation)*
+- **Gentile** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

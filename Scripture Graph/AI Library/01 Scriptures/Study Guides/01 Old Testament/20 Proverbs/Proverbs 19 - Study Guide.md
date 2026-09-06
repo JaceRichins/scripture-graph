@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 19
 slug: prov-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

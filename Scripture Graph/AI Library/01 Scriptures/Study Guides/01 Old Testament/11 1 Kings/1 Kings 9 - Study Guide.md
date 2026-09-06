@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 9
 slug: 1kgs-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ Some readers see in verse 3 ("to put my name there for ever... mine eyes and min
 ## Church History
 <!-- SG:BEGIN history -->
 - **Egypt** (reference-entry) *(explicit citation)*
+- **Galilee** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

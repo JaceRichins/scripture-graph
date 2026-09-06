@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 21
 slug: john-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ The chapter depicts the risen [[Jesus Christ (Gospel Topic)]] as present, author
 ## Church History
 <!-- SG:BEGIN history -->
 - **Clothing** (reference-entry) *(explicit citation)*
+- **Fish** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

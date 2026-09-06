@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 15
 slug: mark-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,10 +51,11 @@ _Not yet developed._
 - [[Psalm 22]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-24|Mark 15:24]])
 - [[Psalm 69]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-36|Mark 15:36]])
 - [[Matthew 27]] — 14 parallel verses, e.g. [[Mark 15#^mark-15-34|Mark 15:34]] ↔ [[Matthew 27#^matt-27-46|Matthew 27:46]]
-- [[Luke 23]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-38|Mark 15:38]] ↔ [[Luke 23#^luke-23-45|Luke 23:45]]
 - [[John 18]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-9|Mark 15:9]] ↔ [[John 18#^john-18-39|John 18:39]]
+- [[Luke 23]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-38|Mark 15:38]] ↔ [[Luke 23#^luke-23-45|Luke 23:45]]
 - [[Mark 16]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-40|Mark 15:40]] ↔ [[Mark 16#^mark-16-1|Mark 16:1]]
 - [[Psalm 22]] — 1 parallel verse, e.g. [[Mark 15#^mark-15-34|Mark 15:34]] ↔ [[Psalm 22#^ps-22-1|Psalm 22:1]]
+- [[John 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,6 +75,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Grave Has No Victory (Reyna I. Aburto, April 2021)|The Grave Has No Victory]] — Reyna I. Aburto, 2021-April *(explicit citation)*
 - [[Behold the Man! (Elder Dieter F. Uchtdorf, April 2018)|Behold the Man!]] — Elder Dieter F. Uchtdorf, 2018-April *(explicit citation)*
+- [[I Know That My Redeemer Lives! (President Thomas S. Monson, April 2007)|I Know That My Redeemer Lives!]] — President Thomas S. Monson, 2007-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
@@ -87,6 +89,8 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Alexander** (reference-entry) *(explicit citation)*
 - **Centurion** (reference-entry) *(explicit citation)*
+- **Eli** (reference-entry) *(explicit citation)*
+- **Elijah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 12
 slug: lev-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

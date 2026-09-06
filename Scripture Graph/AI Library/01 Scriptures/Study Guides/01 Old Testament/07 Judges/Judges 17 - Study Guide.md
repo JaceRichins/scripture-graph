@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 17
 slug: judg-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Judges 18]] — 4 parallel verses, e.g. [[Judges 17#^judg-17-3|Judges 17:3]] ↔ [[Judges 18#^judg-18-14|Judges 18:14]]
 - [[Judges 21]] — 1 parallel verse, e.g. [[Judges 17#^judg-17-6|Judges 17:6]] ↔ [[Judges 21#^judg-21-25|Judges 21:25]]
 - [[Judges 18]] — 0 parallel verses
+- [[Deuteronomy 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +68,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Bethlehem** (reference-entry) *(explicit citation)*
+- **Ephod** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

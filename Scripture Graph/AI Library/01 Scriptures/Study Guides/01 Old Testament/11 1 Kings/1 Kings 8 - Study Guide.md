@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 8
 slug: 1kgs-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -102,6 +102,7 @@ _Not yet developed._
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Calendar** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

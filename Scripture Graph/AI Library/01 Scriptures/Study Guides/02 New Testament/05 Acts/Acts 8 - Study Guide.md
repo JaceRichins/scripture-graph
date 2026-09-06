@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 8
 slug: acts-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ The geographical movement into Judaea and Samaria closely advances the mission p
 - [[1 Nephi 11]] — 2 parallel verses, e.g. [[Acts 8#^acts-8-26|Acts 8:26]] ↔ [[1 Nephi 11#^1ne-11-35|1 Nephi 11:35]]
 - [[Acts 1]] — 0 parallel verses
 - [[Acts 10]] — 0 parallel verses
+- [[Isaiah 53]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,8 +68,8 @@ The geographical movement into Judaea and Samaria closely advances the mission p
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Prayer]] *(keyword match — unconfirmed)*
-- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

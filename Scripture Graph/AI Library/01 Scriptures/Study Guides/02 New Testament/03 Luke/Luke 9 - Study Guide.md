@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 9
 slug: luke-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Motions of a Hidden Fire (President Jeffrey R. Holland, April 2024)|Motions of a Hidden Fire]] — President Jeffrey R. Holland, 2024-April *(explicit citation)*
+- [[The Twelve (President Boyd K. Packer, April 2008)|The Twelve]] — President Boyd K. Packer, 2008-April *(explicit citation)*
 - [[A Summer with Great-Aunt Rose (President Dieter F. Uchtdorf, October 2015)|A Summer with Great-Aunt Rose]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[He Asks Us to Be His Hands (Cheryl A. Esplin, April 2016)|He Asks Us to Be His Hands]] — Cheryl A. Esplin, 2016-April *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
@@ -84,7 +85,6 @@ _Not yet developed._
 - [[By Divine Design (Elder Ronald A. Rasband, October 2017)|By Divine Design]] — Elder Ronald A. Rasband, 2017-October *(explicit citation)*
 - [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
 - [[The Needs before Us (Bonnie L. Oscarson, October 2017)|The Needs before Us]] — Bonnie L. Oscarson, 2017-October *(explicit citation)*
-- [[Divine Discontent (Michelle D. Craig, October 2018)|Divine Discontent]] — Michelle D. Craig, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -97,6 +97,7 @@ _Not yet developed._
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Bethsaida** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **Elijah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

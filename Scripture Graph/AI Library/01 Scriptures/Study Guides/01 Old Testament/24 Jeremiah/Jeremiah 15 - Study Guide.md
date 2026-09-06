@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 15
 slug: jer-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,8 @@ Scripture: [[Jeremiah 15]] · My notes: [[Jeremiah 15 - My Notes]]
 - [[2 Kings 24]] — 0 parallel verses
 - [[Jeremiah 20]] — 0 parallel verses
 - [[Ezekiel 2]] — 0 parallel verses
+- [[Ezekiel 14]] — 0 parallel verses
+- [[Jeremiah 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 8
 slug: mosiah-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

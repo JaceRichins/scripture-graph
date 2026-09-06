@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 8
 slug: amos-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,12 +50,12 @@ _Not yet developed._
 - [[Proverbs 11]] — 1 footnote cross-reference (from [[Amos 8#^amos-8-5|Amos 8:5]])
 - [[Amos 7]] — 3 parallel verses, e.g. [[Amos 8#^amos-8-2|Amos 8:2]] ↔ [[Amos 7#^amos-7-8|Amos 7:8]]
 - [[Jeremiah 31]] — 3 parallel verses, e.g. [[Amos 8#^amos-8-11|Amos 8:11]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
+- [[Amos 9]] — 2 parallel verses, e.g. [[Amos 8#^amos-8-8|Amos 8:8]] ↔ [[Amos 9#^amos-9-5|Amos 9:5]]
 - [[Jeremiah 23]] — 2 parallel verses, e.g. [[Amos 8#^amos-8-11|Amos 8:11]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
 - [[Jeremiah 30]] — 1 parallel verse, e.g. [[Amos 8#^amos-8-9|Amos 8:9]] ↔ [[Jeremiah 30#^jer-30-8|Jeremiah 30:8]]
 - [[Micah 5]] — 1 parallel verse, e.g. [[Amos 8#^amos-8-9|Amos 8:9]] ↔ [[Micah 5#^micah-5-10|Micah 5:10]]
 - [[Zephaniah 1]] — 1 parallel verse, e.g. [[Amos 8#^amos-8-9|Amos 8:9]] ↔ [[Zephaniah 1#^zeph-1-10|Zephaniah 1:10]]
 - [[Zechariah 13]] — 1 parallel verse, e.g. [[Amos 8#^amos-8-9|Amos 8:9]] ↔ [[Zechariah 13#^zech-13-2|Zechariah 13:2]]
-- [[Amos 9]] — 0 parallel verses
 - [[Amos 7]] — 0 parallel verses
 - [[Amos 2]] — 0 parallel verses
 - [[Leviticus 19]] — 0 parallel verses
@@ -90,6 +90,7 @@ _Not yet developed._
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

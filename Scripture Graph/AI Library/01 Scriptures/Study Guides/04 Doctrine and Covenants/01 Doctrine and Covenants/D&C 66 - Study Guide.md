@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 66
 slug: dc-66
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,8 +53,8 @@ _Not yet developed._
 - [[D&C 90]] — 1 footnote cross-reference (from [[D&C 66#^dc-66-1|D&C 66:1]])
 - [[D&C 75]] — 2 parallel verses, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 75#^dc-75-3|D&C 75:3]]
 - [[D&C 88]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 88#^dc-88-63|D&C 88:63]]
-- [[3 Nephi 27]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
 - [[D&C 4]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 4#^dc-4-7|D&C 4:7]]
+- [[3 Nephi 27]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
 - [[D&C 49]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 49#^dc-49-26|D&C 49:26]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 93#^dc-93-53|D&C 93:53]]
 - [[D&C 79]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 79#^dc-79-1|D&C 79:1]]
@@ -87,6 +87,7 @@ The concluding promise connects continued faithfulness with [[Eternal Life]] (D&
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[This Day (Elder Ronald A. Rasband, October 2022)|This Day]] — Elder Ronald A. Rasband, 2022-October *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
 - [[Receive His Gift (Elder Patrick Kearon, April 2025)|Receive His Gift]] — Elder Patrick Kearon, 2025-April *(explicit citation)*
 - [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*

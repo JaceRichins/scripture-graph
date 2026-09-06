@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 5
 slug: dan-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,15 +52,16 @@ Scripture: [[Daniel 5]] · My notes: [[Daniel 5 - My Notes]]
 - [[Abraham 3]] — 1 footnote cross-reference (from [[Daniel 5#^dan-5-5|Daniel 5:5]])
 - [[Alma 18]] — 1 footnote cross-reference (from [[Daniel 5#^dan-5-6|Daniel 5:6]])
 - [[Daniel 4]] — 5 parallel verses, e.g. [[Daniel 5#^dan-5-21|Daniel 5:21]] ↔ [[Daniel 4#^dan-4-33|Daniel 4:33]]
+- [[Daniel 6]] — 3 parallel verses, e.g. [[Daniel 5#^dan-5-13|Daniel 5:13]] ↔ [[Daniel 6#^dan-6-13|Daniel 6:13]]
 - [[Daniel 4]] — 0 parallel verses
 - [[Daniel 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Pride]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Kingdom of God]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

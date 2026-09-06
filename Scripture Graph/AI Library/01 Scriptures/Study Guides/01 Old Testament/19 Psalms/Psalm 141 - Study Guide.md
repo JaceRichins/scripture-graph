@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 141
 slug: ps-141
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Exodus 37]] — 1 footnote cross-reference (from [[Psalm 141#^ps-141-2|Psalm 141:2]])
 - [[Exodus 29]] — 1 footnote cross-reference (from [[Psalm 141#^ps-141-2|Psalm 141:2]])
 - [[Psalm 39]] — 1 footnote cross-reference (from [[Psalm 141#^ps-141-3|Psalm 141:3]])
+- [[Exodus 30]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

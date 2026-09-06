@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 15
 slug: 2kgs-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

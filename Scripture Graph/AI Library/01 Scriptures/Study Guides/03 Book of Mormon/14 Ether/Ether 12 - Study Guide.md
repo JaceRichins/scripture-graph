@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 12
 slug: ether-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,10 +59,10 @@ _Not yet developed._
 - [[Enos 1]] — 3 footnote cross-references (from [[Ether 12#^ether-12-2|Ether 12:2]])
 - [[1 Corinthians 13]] — 3 footnote cross-references (from [[Ether 12#^ether-12-3|Ether 12:3]])
 - [[D&C 135]] — 3 parallel verses, e.g. [[Ether 12#^ether-12-37|Ether 12:37]] ↔ [[D&C 135#^dc-135-5|D&C 135:5]]
+- [[Ether 3]] — 2 parallel verses, e.g. [[Ether 12#^ether-12-19|Ether 12:19]] ↔ [[Ether 3#^ether-3-20|Ether 3:20]]
 - [[1 Nephi 18]] — 2 parallel verses, e.g. [[Ether 12#^ether-12-36|Ether 12:36]] ↔ [[1 Nephi 18#^1ne-18-21|1 Nephi 18:21]]
 - [[3 Nephi 12]] — 2 parallel verses, e.g. [[Ether 12#^ether-12-14|Ether 12:14]] ↔ [[3 Nephi 12#^3ne-12-1|3 Nephi 12:1]]
 - [[3 Nephi 9]] — 1 parallel verse, e.g. [[Ether 12#^ether-12-14|Ether 12:14]] ↔ [[3 Nephi 9#^3ne-9-20|3 Nephi 9:20]]
-- [[Ether 3]] — 0 parallel verses
 - [[Hebrews 11]] — 0 parallel verses
 - [[Hebrews 6]] — 0 parallel verses
 - [[John 14]] — 0 parallel verses
@@ -78,8 +78,8 @@ _Not yet developed._
 - [[Grace]]
 - [[Miracles]]
 - [[Adversity]]
-- [[Jews and Gentiles]]
 - [[Records and Sacred Writings]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -94,11 +94,11 @@ The chapter does not present faith as mere assent. Its exemplary faith acts, end
 - [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 - [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[A Perfect Brightness of Hope (Elder Jeffrey R. Holland, April 2020)|A Perfect Brightness of Hope]] — Elder Jeffrey R. Holland, 2020-April *(explicit citation)*
 - [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
 - [[“Behold! I Am a God of Miracles” (Elder Ronald A. Rasband, April 2021)|“Behold! I Am a God of Miracles”]] — Elder Ronald A. Rasband, 2021-April *(explicit citation)*
-- [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

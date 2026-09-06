@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 28
 slug: num-28
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -84,7 +84,7 @@ Within the [[Law of Moses]], worship is portrayed as regular, ordered, and commu
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

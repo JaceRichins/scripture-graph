@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Official Declarations
 chapter: 1
 slug: od-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

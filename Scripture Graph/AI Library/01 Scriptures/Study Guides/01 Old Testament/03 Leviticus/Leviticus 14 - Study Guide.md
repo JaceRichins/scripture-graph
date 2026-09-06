@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 14
 slug: lev-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

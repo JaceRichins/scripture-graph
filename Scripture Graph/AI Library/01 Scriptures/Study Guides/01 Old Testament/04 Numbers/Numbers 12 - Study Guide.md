@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 12
 slug: num-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[2 Kings 13]] — 1 parallel verse, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[2 Kings 13#^2kgs-13-3|2 Kings 13:3]]
 - [[1 Chronicles 13]] — 1 parallel verse, e.g. [[Numbers 12#^num-12-9|Numbers 12:9]] ↔ [[1 Chronicles 13#^1chr-13-10|1 Chronicles 13:10]]
 - [[2 Kings 5]] — 0 parallel verses
+- [[Hebrews 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,7 +76,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ethiopia or Cush** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

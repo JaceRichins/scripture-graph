@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 13
 slug: ex-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,23 +54,23 @@ The two extended ritual units are closely parallel: both anticipate entrance int
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 13#^ex-13-5|Exodus 13:5]] ↔ [[Exodus 3#^ex-3-17|Exodus 3:17]]
 - [[Deuteronomy 6]] — 3 parallel verses, e.g. [[Exodus 13#^ex-13-14|Exodus 13:14]] ↔ [[Deuteronomy 6#^deut-6-20|Deuteronomy 6:20]]
 - [[Genesis 50]] — 1 parallel verse, e.g. [[Exodus 13#^ex-13-19|Exodus 13:19]] ↔ [[Genesis 50#^gen-50-25|Genesis 50:25]]
+- [[Exodus 34]] — 2 parallel verses, e.g. [[Exodus 13#^ex-13-13|Exodus 13:13]] ↔ [[Exodus 34#^ex-34-20|Exodus 34:20]]
 - [[Deuteronomy 7]] — 2 parallel verses, e.g. [[Exodus 13#^ex-13-5|Exodus 13:5]] ↔ [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]]
+- [[Nehemiah 9]] — 2 parallel verses, e.g. [[Exodus 13#^ex-13-21|Exodus 13:21]] ↔ [[Nehemiah 9#^neh-9-12|Nehemiah 9:12]]
 - [[Exodus 12]] — 2 parallel verses, e.g. [[Exodus 13#^ex-13-15|Exodus 13:15]] ↔ [[Exodus 12#^ex-12-12|Exodus 12:12]]
 - [[Joshua 2]] — 2 parallel verses, e.g. [[Exodus 13#^ex-13-5|Exodus 13:5]] ↔ [[Joshua 2#^josh-2-14|Joshua 2:14]]
 - [[2 Chronicles 8]] — 1 parallel verse, e.g. [[Exodus 13#^ex-13-5|Exodus 13:5]] ↔ [[2 Chronicles 8#^2chr-8-7|2 Chronicles 8:7]]
 - [[Joshua 3]] — 1 parallel verse, e.g. [[Exodus 13#^ex-13-5|Exodus 13:5]] ↔ [[Joshua 3#^josh-3-10|Joshua 3:10]]
 - [[Deuteronomy 16]] — 1 parallel verse, e.g. [[Exodus 13#^ex-13-6|Exodus 13:6]] ↔ [[Deuteronomy 16#^deut-16-8|Deuteronomy 16:8]]
-- [[Exodus 34]] — 0 parallel verses
-- [[Nehemiah 9]] — 0 parallel verses
 - [[Deuteronomy 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
 - [[Passover]]
 - [[Law of Moses]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -88,11 +88,15 @@ The chapter portrays redemption as creating both belonging and responsibility. T
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Firstborn** (reference-entry) *(explicit citation)*
+- **Frontlets or phylacteries** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **Birthright** (reference-entry) *(explicit citation)*
 - **Calendar** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

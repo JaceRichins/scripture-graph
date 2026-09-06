@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 47
 slug: alma-47
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -81,7 +81,8 @@ It is also a negative study of [[Honesty]] and [[Government and Laws]]. Institut
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[A Return to Virtue (Elaine S. Dalton, October 2008)|A Return to Virtue]] — Elaine S. Dalton, 2008-October *(explicit citation)*
+- [[Christian Courage The Price of Discipleship (Elder Robert D. Hales, October 2008)|Christian Courage: The Price of Discipleship]] — Elder Robert D. Hales, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

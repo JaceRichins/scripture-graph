@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 67
 slug: ps-67
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

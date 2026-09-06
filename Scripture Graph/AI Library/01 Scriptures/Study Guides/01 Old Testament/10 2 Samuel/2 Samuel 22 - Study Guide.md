@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 22
 slug: 2sam-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

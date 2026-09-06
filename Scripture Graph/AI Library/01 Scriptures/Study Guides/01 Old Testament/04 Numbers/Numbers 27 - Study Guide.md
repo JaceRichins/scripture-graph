@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 27
 slug: num-27
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,8 +58,8 @@ _Not yet developed._
 - [[1 Chronicles 7]] — 1 parallel verse, e.g. [[Numbers 27#^num-27-1|Numbers 27:1]] ↔ [[1 Chronicles 7#^1chr-7-17|1 Chronicles 7:17]]
 - [[Exodus 16]] — 2 parallel verses, e.g. [[Numbers 27#^num-27-20|Numbers 27:20]] ↔ [[Exodus 16#^ex-16-1|Exodus 16:1]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Numbers 27#^num-27-20|Numbers 27:20]] ↔ [[Numbers 15#^num-15-25|Numbers 15:25]]
+- [[Deuteronomy 32]] — 1 parallel verse, e.g. [[Numbers 27#^num-27-13|Numbers 27:13]] ↔ [[Deuteronomy 32#^deut-32-50|Deuteronomy 32:50]]
 - [[Exodus 30]] — 1 parallel verse, e.g. [[Numbers 27#^num-27-8|Numbers 27:8]] ↔ [[Exodus 30#^ex-30-31|Exodus 30:31]]
-- [[Leviticus 24]] — 1 parallel verse, e.g. [[Numbers 27#^num-27-8|Numbers 27:8]] ↔ [[Leviticus 24#^lev-24-15|Leviticus 24:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

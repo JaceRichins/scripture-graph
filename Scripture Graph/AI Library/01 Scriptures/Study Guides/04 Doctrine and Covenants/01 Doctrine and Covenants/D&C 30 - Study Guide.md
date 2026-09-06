@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 30
 slug: dc-30
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ Peter's instructions connect shared adversity with [[Prayer]], [[Faith]], and [[
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
 - [[Unselfish Service (Elder Dallin H. Oaks, April 2009)|Unselfish Service]] — Elder Dallin H. Oaks, 2009-April *(explicit citation)*
 <!-- SG:END conference -->

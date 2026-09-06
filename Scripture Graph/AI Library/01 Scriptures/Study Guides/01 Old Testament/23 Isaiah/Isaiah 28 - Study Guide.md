@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 28
 slug: isa-28
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[Isaiah 8]] — 0 parallel verses
 - [[D&C 101]] — 0 parallel verses
 - [[D&C 95]] — 0 parallel verses
+- [[Jacob 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

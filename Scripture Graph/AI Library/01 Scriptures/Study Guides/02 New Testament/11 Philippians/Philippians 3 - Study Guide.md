@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 3
 slug: philip-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 - [[Pressing toward the Mark (Elder Edward Dube, April 2021)|Pressing toward the Mark]] — Elder Edward Dube, 2021-April *(explicit citation)*
 - [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
 - [[Lifted Up upon the Cross (Elder Jeffrey R. Holland, October 2022)|Lifted Up upon the Cross]] — Elder Jeffrey R. Holland, 2022-October *(explicit citation)*
+- [[To Learn, to Do, to Be (President Thomas S. Monson, October 2008)|To Learn, to Do, to Be]] — President Thomas S. Monson, 2008-October *(explicit citation)*
 - [[Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026)|Jesus Christ—the True Vine]] — Elder Ulisses Soares, 2026-April *(explicit citation)*
 - [[Conference Report, April 1915 (General Conference (full report), April 1915)|Conference Report, April 1915]] — General Conference (full report), 1915-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -72,6 +73,7 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
+- **Games** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

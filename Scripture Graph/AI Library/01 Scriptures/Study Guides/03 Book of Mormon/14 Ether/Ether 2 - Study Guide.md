@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 2
 slug: ether-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[1 Nephi 17]] — 3 footnote cross-references (from [[Ether 2#^ether-2-3|Ether 2:3]])
 - [[Genesis 6]] — 3 footnote cross-references (from [[Ether 2#^ether-2-6|Ether 2:6]])
 - [[1 Nephi 16]] — 2 footnote cross-references (from [[Ether 2#^ether-2-3|Ether 2:3]])
+- [[Ether 1]] — 12 parallel verses, e.g. [[Ether 2#^ether-2-16|Ether 2:16]] ↔ [[Ether 1#^ether-1-35|Ether 1:35]]
 - [[Ether 3]] — 6 parallel verses, e.g. [[Ether 2#^ether-2-20|Ether 2:20]] ↔ [[Ether 3#^ether-3-21|Ether 3:21]]
 - [[Alma 50]] — 3 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
 - [[1 Nephi 18]] — 3 parallel verses, e.g. [[Ether 2#^ether-2-25|Ether 2:25]] ↔ [[1 Nephi 18#^1ne-18-10|1 Nephi 18:10]]
@@ -58,19 +59,18 @@ _Not yet developed._
 - [[Alma 9]] — 2 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Alma 42]] — 3 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[Alma 42#^alma-42-9|Alma 42:9]]
 - [[2 Nephi 5]] — 1 parallel verse, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[2 Nephi 5#^2ne-5-20|2 Nephi 5:20]]
+- [[Genesis 4]] — 2 parallel verses, e.g. [[Ether 2#^ether-2-15|Ether 2:15]] ↔ [[Genesis 4#^gen-4-16|Genesis 4:16]]
 - [[2 Nephi 1]] — 1 parallel verse, e.g. [[Ether 2#^ether-2-10|Ether 2:10]] ↔ [[2 Nephi 1#^2ne-1-5|2 Nephi 1:5]]
 - [[1 Nephi 18]] — 0 parallel verses
 - [[Alma 50]] — 0 parallel verses
-- [[Genesis 6]] — 0 parallel verses
-- [[Ether 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Freedom and Liberty]]
 - [[Repentance and Forgiveness]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Crucifixion of Jesus Christ]] *(keyword match — unconfirmed)*
 - [[Work and Self-Reliance]] *(keyword match — unconfirmed)*

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 16
 slug: matt-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Take Up Our Cross (Elder Ulisses Soares, October 2019)|Take Up Our Cross]] — Elder Ulisses Soares, 2019-October *(explicit citation)*
 - [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
+- [[The Twelve (President Boyd K. Packer, April 2008)|The Twelve]] — President Boyd K. Packer, 2008-April *(explicit citation)*
 - [[Standing with the Leaders of the Church (Elder Ronald A. Rasband, April 2016)|Standing with the Leaders of the Church]] — Elder Ronald A. Rasband, 2016-April *(explicit citation)*
 - [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
@@ -82,7 +83,6 @@ _Not yet developed._
 - [[Best Days and Worst Days (President Emily Belle Freeman, April 2026)|Best Days and Worst Days]] — President Emily Belle Freeman, 2026-April *(explicit citation)*
 - [[Come, Join with Us (President Dieter F. Uchtdorf, October 2013)|Come, Join with Us]] — President Dieter F. Uchtdorf, 2013-October *(explicit citation)*
 - [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
-- [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

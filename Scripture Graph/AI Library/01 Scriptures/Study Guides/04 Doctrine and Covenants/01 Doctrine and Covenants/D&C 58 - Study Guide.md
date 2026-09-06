@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 58
 slug: dc-58
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,9 +60,9 @@ This outline describes shifts in subject matter; it does not demonstrate an elab
 - [[D&C 42]] — 3 footnote cross-references (from [[D&C 58#^dc-58-23|D&C 58:23]])
 - [[D&C 57]] — 3 parallel verses, e.g. [[D&C 58#^dc-58-40|D&C 58:40]] ↔ [[D&C 57#^dc-57-7|D&C 57:7]]
 - [[D&C 50]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-1|D&C 58:1]] ↔ [[D&C 50#^dc-50-1|D&C 50:1]]
+- [[D&C 1]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-4|D&C 58:4]] ↔ [[D&C 1#^dc-1-35|D&C 1:35]]
 - [[D&C 119]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-51|D&C 58:51]] ↔ [[D&C 119#^dc-119-1|D&C 119:1]]
 - [[D&C 41]] — 2 parallel verses, e.g. [[D&C 58#^dc-58-49|D&C 58:49]] ↔ [[D&C 41#^dc-41-9|D&C 41:9]]
-- [[D&C 1]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-4|D&C 58:4]] ↔ [[D&C 1#^dc-1-35|D&C 1:35]]
 - [[D&C 63]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-40|D&C 58:40]] ↔ [[D&C 63#^dc-63-56|D&C 63:56]]
 - [[D&C 43]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-1|D&C 58:1]] ↔ [[D&C 43#^dc-43-1|D&C 43:1]]
 - [[Revelation 19]] — 0 parallel verses
@@ -97,10 +97,10 @@ The land instructions also connect [[Consecration]] with practical administratio
 - [[The Atoning Love of Jesus Christ (Elder Neil L. Andersen, October 2025)|The Atoning Love of Jesus Christ]] — Elder Neil L. Andersen, 2025-October *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 - [[“Repent … That I May Heal You” (Elder Neil L. Andersen, October 2009)|“Repent … That I May Heal You”]] — Elder Neil L. Andersen, 2009-October *(explicit citation)*
+- [[Remembering, Repenting, and Changing (Julie B. Beck, April 2007)|Remembering, Repenting, and Changing]] — Julie B. Beck, 2007-April *(explicit citation)*
 - [[Latter-day Saints Keep on Trying (Elder Dale G. Renlund, April 2015)|Latter-day Saints Keep on Trying]] — Elder Dale G. Renlund, 2015-April *(explicit citation)*
 - [[The Greatest Generation of Young Adults (Elder M. Russell Ballard, April 2015)|The Greatest Generation of Young Adults]] — Elder M. Russell Ballard, 2015-April *(explicit citation)*
 - [[Meeting the Challenges of Today’s World (Elder Robert D. Hales, October 2015)|Meeting the Challenges of Today’s World]] — Elder Robert D. Hales, 2015-October *(explicit citation)*
-- [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

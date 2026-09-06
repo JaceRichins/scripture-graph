@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 7
 slug: acts-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,8 @@ A rejection-then-recognition pattern runs through the history — both Joseph an
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
 - [[The Father and the Son (Elder Christoffel Golden Jr., April 2013)|The Father and the Son]] — Elder Christoffel Golden Jr., 2013-April *(explicit citation)*
 - [[Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ (Elder Robert D. Hales, October 2009)|Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ]] — Elder Robert D. Hales, 2009-October *(explicit citation)*
+- [[I Know That My Redeemer Lives! (President Thomas S. Monson, April 2007)|I Know That My Redeemer Lives!]] — President Thomas S. Monson, 2007-April *(explicit citation)*
+- [[“Mom, Are We Christians” (Elder Gary J. Coleman, April 2007)|“Mom, Are We Christians?”]] — Elder Gary J. Coleman, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

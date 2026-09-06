@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 12
 slug: josh-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Bethel** (reference-entry) *(explicit citation)*
 - **Edrei** (reference-entry) *(explicit citation)*
+- **Gad** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

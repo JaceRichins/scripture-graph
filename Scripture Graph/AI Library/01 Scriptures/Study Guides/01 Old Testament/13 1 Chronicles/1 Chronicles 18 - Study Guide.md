@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 18
 slug: 1chr-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,8 @@ _Not yet developed._
 - **Abimelech** (reference-entry) *(explicit citation)*
 - **Benaiah** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
+- **Euphrates** (reference-entry) *(explicit citation)*
+- **Gath** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

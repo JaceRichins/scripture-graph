@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 102
 slug: dc-102
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -75,7 +75,7 @@ The chapter presents [[Priesthood]] governance as ordered by both authority and 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Fulfilling the Purpose of Relief Society (Julie B. Beck, October 2008)|Fulfilling the Purpose of Relief Society]] — Julie B. Beck, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

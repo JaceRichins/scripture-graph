@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 11
 slug: acts-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -67,8 +67,8 @@ Luke lets the reader hear the Gentile-inclusion argument twice — once as narra
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prophecy]]
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

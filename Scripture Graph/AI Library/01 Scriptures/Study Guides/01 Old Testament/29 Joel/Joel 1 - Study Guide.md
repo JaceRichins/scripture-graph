@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 1
 slug: joel-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Isaiah 13]] — 1 parallel verse, e.g. [[Joel 1#^joel-1-15|Joel 1:15]] ↔ [[Isaiah 13#^isa-13-6|Isaiah 13:6]]
 - [[2 Nephi 23]] — 1 parallel verse, e.g. [[Joel 1#^joel-1-15|Joel 1:15]] ↔ [[2 Nephi 23#^2ne-23-6|2 Nephi 23:6]]
 - [[Jeremiah 47]] — 2 parallel verses, e.g. [[Joel 1#^joel-1-14|Joel 1:14]] ↔ [[Jeremiah 47#^jer-47-2|Jeremiah 47:2]]
+- [[Zephaniah 1]] — 1 parallel verse, e.g. [[Joel 1#^joel-1-15|Joel 1:15]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
 - [[Isaiah 13]] — 0 parallel verses
 - [[1 Kings 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->

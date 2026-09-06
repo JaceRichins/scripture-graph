@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 9
 slug: mark-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -90,8 +90,13 @@ _Not yet developed._
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Abuse** (reference-entry) *(explicit citation)*
+- **Elias** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Elijah** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
+- **Fullers** (reference-entry) *(explicit citation)*
+- **Gehenna** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

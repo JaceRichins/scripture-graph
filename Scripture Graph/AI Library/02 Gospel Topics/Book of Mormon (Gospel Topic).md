@@ -42,6 +42,8 @@ _Not yet developed._
 - [[D&C 135]]
 - [[2 Nephi 27]]
 - [[2 Nephi 3]]
+- [[D&C 19]]
+- [[D&C 3]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

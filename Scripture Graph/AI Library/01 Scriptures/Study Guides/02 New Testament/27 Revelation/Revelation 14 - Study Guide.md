@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 14
 slug: rev-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Revelation 18]] — 2 parallel verses, e.g. [[Revelation 14#^rev-14-8|Revelation 14:8]] ↔ [[Revelation 18#^rev-18-3|Revelation 18:3]]
 - [[Revelation 16]] — 0 parallel verses
 - [[D&C 59]] — 0 parallel verses
+- [[Joel 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,15 +69,15 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[The Sacred Place of Restoration (Elder Jairo Mazzagardi, April 2016)|The Sacred Place of Restoration]] — Elder Jairo Mazzagardi, 2016-April *(explicit citation)*
 - [[Closing Remarks (President Russell M. Nelson, October 2019)|Closing Remarks]] — President Russell M. Nelson, 2019-October *(explicit citation)*
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
 - [[Fulfillment of Prophecy (Elder Ronald A. Rasband, April 2020)|Fulfillment of Prophecy]] — Elder Ronald A. Rasband, 2020-April *(explicit citation)*
 - [[All Nations, Kindreds, and Tongues (Elder Gerrit W. Gong, October 2020)|All Nations, Kindreds, and Tongues]] — Elder Gerrit W. Gong, 2020-October *(explicit citation)*
 - [[Continue in Patience (President Dieter F. Uchtdorf, April 2010)|Continue in Patience]] — President Dieter F. Uchtdorf, 2010-April *(explicit citation)*
-- [[Conference Report, April 1927 (General Conference (full report), April 1927)|Conference Report, April 1927]] — General Conference (full report), 1927-April *(explicit citation)*
-- [[Conference Report, October 1918 (General Conference (full report), October 1918)|Conference Report, October 1918]] — General Conference (full report), 1918-October *(explicit citation)*
-- [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
+- [[Salvation and Exaltation (Elder Russell M. Nelson, April 2008)|Salvation and Exaltation]] — Elder Russell M. Nelson, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

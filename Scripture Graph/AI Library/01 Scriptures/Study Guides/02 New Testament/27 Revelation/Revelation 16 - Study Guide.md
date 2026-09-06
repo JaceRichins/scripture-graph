@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 16
 slug: rev-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ _Not yet developed._
 - **Armageddon** (reference-entry) *(explicit citation)*
 - **Babylon or Babel** (reference-entry) *(explicit citation)*
 - **Dragon** (reference-entry) *(explicit citation)*
+- **Esdraelon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

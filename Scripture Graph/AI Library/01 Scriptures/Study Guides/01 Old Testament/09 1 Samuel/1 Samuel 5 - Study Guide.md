@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 5
 slug: 1sam-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 - **Dagon** (reference-entry) *(explicit citation)*
 - **Ashdod or Azotus** (reference-entry) *(explicit citation)*
 - **Ebenezer** (reference-entry) *(explicit citation)*
+- **Gath** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

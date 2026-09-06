@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 83
 slug: ps-83
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

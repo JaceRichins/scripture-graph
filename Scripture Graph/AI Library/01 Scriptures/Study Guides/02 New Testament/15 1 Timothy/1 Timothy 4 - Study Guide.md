@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 4
 slug: 1tim-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 - **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
+- **Flesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

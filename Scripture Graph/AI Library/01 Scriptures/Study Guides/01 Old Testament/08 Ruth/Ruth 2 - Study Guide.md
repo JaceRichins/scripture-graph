@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 2
 slug: ruth-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

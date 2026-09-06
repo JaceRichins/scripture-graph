@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 1
 slug: ezek-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,10 +50,13 @@ _Not yet developed._
 - [[Ezekiel 40]] — 3 footnote cross-references (from [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]])
 - [[1 Nephi 1]] — 2 footnote cross-references (from [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]])
 - [[D&C 110]] — 2 footnote cross-references (from [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]])
-- [[Ezekiel 10]] — 0 parallel verses
+- [[Ezekiel 10]] — 6 parallel verses, e.g. [[Ezekiel 1#^ezek-1-19|Ezekiel 1:19]] ↔ [[Ezekiel 10#^ezek-10-16|Ezekiel 10:16]]
+- [[Ezekiel 8]] — 3 parallel verses, e.g. [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]] ↔ [[Ezekiel 8#^ezek-8-1|Ezekiel 8:1]]
+- [[Ezekiel 33]] — 2 parallel verses, e.g. [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]] ↔ [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]]
 - [[Ezekiel 43]] — 0 parallel verses
 - [[Revelation 4]] — 0 parallel verses
 - [[1 Nephi 1]] — 0 parallel verses
+- [[Ezekiel 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,7 +76,8 @@ The vision insists, through its repeated hedging language ("likeness," "appearan
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ezekiel** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

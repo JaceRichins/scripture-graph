@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 1
 slug: hosea-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[Micah 1]] — 1 parallel verse, e.g. [[Hosea 1#^hosea-1-1|Hosea 1:1]] ↔ [[Micah 1#^micah-1-1|Micah 1:1]]
 - [[Genesis 32]] — 1 parallel verse, e.g. [[Hosea 1#^hosea-1-10|Hosea 1:10]] ↔ [[Genesis 32#^gen-32-12|Genesis 32:12]]
 - [[Genesis 32]] — 0 parallel verses
+- [[Hosea 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,7 +79,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

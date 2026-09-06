@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 26
 slug: ex-26
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Ezekiel 40]] — 3 parallel verses, e.g. [[Exodus 26#^ex-26-13|Exodus 26:13]] ↔ [[Ezekiel 40#^ezek-40-10|Ezekiel 40:10]]
 - [[Exodus 40]] — 1 parallel verse, e.g. [[Exodus 26#^ex-26-35|Exodus 26:35]] ↔ [[Exodus 40#^ex-40-24|Exodus 40:24]]
 - [[Exodus 27]] — 0 parallel verses
+- [[Ezekiel 40]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

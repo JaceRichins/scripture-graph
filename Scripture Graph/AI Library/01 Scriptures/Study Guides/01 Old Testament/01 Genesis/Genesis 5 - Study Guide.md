@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 5
 slug: gen-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,9 +54,9 @@ _Not yet developed._
 - [[Moses 6]] — 2 footnote cross-references (from [[Genesis 5#^gen-5-14|Genesis 5:14]])
 - [[D&C 133]] — 2 footnote cross-references (from [[Genesis 5#^gen-5-23|Genesis 5:23]])
 - [[1 Nephi 19]] — 1 footnote cross-reference (from [[Genesis 5#^gen-5-1|Genesis 5:1]])
+- [[Moses 6]] — 20 parallel verses, e.g. [[Genesis 5#^gen-5-2|Genesis 5:2]] ↔ [[Moses 6#^moses-6-9|Moses 6:9]]
+- [[Moses 8]] — 6 parallel verses, e.g. [[Genesis 5#^gen-5-29|Genesis 5:29]] ↔ [[Moses 8#^moses-8-9|Moses 8:9]]
 - [[Genesis 11]] — 6 parallel verses, e.g. [[Genesis 5#^gen-5-16|Genesis 5:16]] ↔ [[Genesis 11#^gen-11-17|Genesis 11:17]]
-- [[Moses 6]] — 0 parallel verses
-- [[Moses 8]] — 0 parallel verses
 - [[Genesis 11]] — 0 parallel verses
 - [[Genesis 6]] — 0 parallel verses
 - [[Moses 7]] — 0 parallel verses
@@ -92,6 +92,8 @@ Lamech's hope concerning Noah connects [[Family]], labor, and the cursed ground 
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1841-02-01 (Vol. 2 No. 7)** (periodical, 1841-02-01) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **Enoch** (reference-entry) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

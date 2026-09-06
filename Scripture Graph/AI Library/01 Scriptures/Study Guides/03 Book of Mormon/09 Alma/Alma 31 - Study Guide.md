@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 31
 slug: alma-31
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,10 +66,10 @@ Scripture: [[Alma 31]] · My notes: [[Alma 31 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Pride]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Law of Moses]]
 - [[Prayer]] *(keyword match — unconfirmed)*
+- [[Pride]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Adversity]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

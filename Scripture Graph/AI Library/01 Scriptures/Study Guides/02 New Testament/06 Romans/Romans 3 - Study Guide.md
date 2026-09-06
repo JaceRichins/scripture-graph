@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 3
 slug: rom-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,9 @@ _Not yet developed._
 - [[Psalm 51]] — 1 footnote cross-reference (from [[Romans 3#^rom-3-4|Romans 3:4]])
 - [[Psalm 14]] — 1 parallel verse, e.g. [[Romans 3#^rom-3-12|Romans 3:12]] ↔ [[Psalm 14#^ps-14-3|Psalm 14:3]]
 - [[Psalm 53]] — 1 parallel verse, e.g. [[Romans 3#^rom-3-12|Romans 3:12]] ↔ [[Psalm 53#^ps-53-3|Psalm 53:3]]
+- [[Ephesians 2]] — 0 parallel verses
+- [[Galatians 3]] — 0 parallel verses
+- [[Isaiah 59]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

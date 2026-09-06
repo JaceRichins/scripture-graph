@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 13
 slug: josh-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Balaam** (reference-entry) *(explicit citation)*
 - **Edrei** (reference-entry) *(explicit citation)*
+- **Gad** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

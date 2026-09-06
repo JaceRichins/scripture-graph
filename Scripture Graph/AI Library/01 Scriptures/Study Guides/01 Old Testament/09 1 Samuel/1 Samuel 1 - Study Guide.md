@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 1
 slug: 1sam-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -76,11 +76,15 @@ The story also places private anguish inside communal worship at Shiloh. Its use
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Counsel to Young Men (President Boyd K. Packer, April 2009)|Counsel to Young Men]] — President Boyd K. Packer, 2009-April *(explicit citation)*
+- [[Mothers Who Know (Julie B. Beck, October 2007)|Mothers Who Know]] — Julie B. Beck, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Arimathea** (reference-entry) *(explicit citation)*
+- **Eli** (reference-entry) *(explicit citation)*
+- **Elihu** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 23
 slug: ex-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,10 +50,10 @@ _Not yet developed._
 - [[Joshua 24]] — 2 footnote cross-references (from [[Exodus 23#^ex-23-27|Exodus 23:27]])
 - [[Deuteronomy 7]] — 2 footnote cross-references (from [[Exodus 23#^ex-23-29|Exodus 23:29]])
 - [[Leviticus 19]] — 1 footnote cross-reference (from [[Exodus 23#^ex-23-3|Exodus 23:3]])
+- [[Exodus 34]] — 5 parallel verses, e.g. [[Exodus 23#^ex-23-19|Exodus 23:19]] ↔ [[Exodus 34#^ex-34-26|Exodus 34:26]]
 - [[Deuteronomy 14]] — 1 parallel verse, e.g. [[Exodus 23#^ex-23-19|Exodus 23:19]] ↔ [[Deuteronomy 14#^deut-14-21|Deuteronomy 14:21]]
+- [[Exodus 3]] — 2 parallel verses, e.g. [[Exodus 23#^ex-23-23|Exodus 23:23]] ↔ [[Exodus 3#^ex-3-8|Exodus 3:8]]
 - [[Joshua 24]] — 1 parallel verse, e.g. [[Exodus 23#^ex-23-23|Exodus 23:23]] ↔ [[Joshua 24#^josh-24-11|Joshua 24:11]]
-- [[Exodus 3]] — 0 parallel verses
-- [[Exodus 34]] — 0 parallel verses
 - [[Deuteronomy 16]] — 0 parallel verses
 - [[Exodus 22]] — 0 parallel verses
 - [[Joshua 24]] — 0 parallel verses
@@ -80,10 +80,14 @@ The Angel passage belongs naturally with [[Angels]], but the statement that God'
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
+- [[God Loves and Helps All of His Children (Bishop Keith B. McMullin, October 2008)|God Loves and Helps All of His Children]] — Bishop Keith B. McMullin, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Feasts** (reference-entry) *(explicit citation)*
+- **Firstfruits** (reference-entry) *(explicit citation)*
+- **Gentile** (reference-entry) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
 - **Calendar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 6
 slug: 1ne-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ The chapter also presents sacred record keeping as purposeful and selective. Nep
 - [[The Role of the Book of Mormon in Conversion (Elder Shayne M. Bowen, October 2018)|The Role of the Book of Mormon in Conversion]] — Elder Shayne M. Bowen, 2018-October *(explicit citation)*
 - [[Eternity’s Great Gifts Jesus Christ’s Atonement, Resurrection, Restoration (Elder Gerrit W. Gong, April 2025)|Eternity’s Great Gifts: Jesus Christ’s Atonement, Resurrection, Restoration]] — Elder Gerrit W. Gong, 2025-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
+- [[A Book with a Promise (Elder Craig C. Christensen, April 2008)|A Book with a Promise]] — Elder Craig C. Christensen, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

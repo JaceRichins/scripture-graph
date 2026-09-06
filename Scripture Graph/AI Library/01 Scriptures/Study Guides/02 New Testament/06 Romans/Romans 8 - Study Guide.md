@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 8
 slug: rom-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,9 @@ _Not yet developed._
 - [[D&C 98]] — 0 parallel verses
 - [[2 Corinthians 4]] — 0 parallel verses
 - [[2 Corinthians 5]] — 0 parallel verses
+- [[Galatians 4]] — 0 parallel verses
+- [[Galatians 5]] — 0 parallel verses
+- [[Hebrews 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,8 +77,8 @@ _Not yet developed._
 - [[His Yoke Is Easy and His Burden Is Light (Sister J. Anette Dennis, October 2022)|His Yoke Is Easy and His Burden Is Light]] — Sister J. Anette Dennis, 2022-October *(explicit citation)*
 - [[Four Titles (President Dieter F. Uchtdorf, April 2013)|Four Titles]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
 - [[All Things Work Together for Good (Elder James B. Martino, April 2010)|All Things Work Together for Good]] — Elder James B. Martino, 2010-April *(explicit citation)*
-- [[Discovering the Divinity Within (Rosemary M. Wixom, October 2015)|Discovering the Divinity Within]] — Rosemary M. Wixom, 2015-October *(explicit citation)*
-- [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -87,9 +90,9 @@ _Not yet developed._
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Same-Sex Attraction** (reference-entry) *(explicit citation)*
 - **18 The Camp of Israel** (history) *(explicit citation)*
+- **Flesh** (reference-entry) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
-- **Eternal Life** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

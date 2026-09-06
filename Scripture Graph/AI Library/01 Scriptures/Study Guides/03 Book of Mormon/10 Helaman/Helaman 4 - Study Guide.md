@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 4
 slug: hel-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ The chapter falls into four movements:
 - [[Alma 63]] — 1 footnote cross-reference (from [[Helaman 4#^hel-4-4|Helaman 4:4]])
 - [[Alma 22]] — 1 footnote cross-reference (from [[Helaman 4#^hel-4-7|Helaman 4:7]])
 - [[Helaman 11]] — 3 parallel verses, e.g. [[Helaman 4#^hel-4-18|Helaman 4:18]] ↔ [[Helaman 11#^hel-11-1|Helaman 11:1]]
+- [[Helaman 6]] — 2 parallel verses, e.g. [[Helaman 4#^hel-4-18|Helaman 4:18]] ↔ [[Helaman 6#^hel-6-1|Helaman 6:1]]
 - [[Helaman 7]] — 2 parallel verses, e.g. [[Helaman 4#^hel-4-14|Helaman 4:14]] ↔ [[Helaman 7#^hel-7-2|Helaman 7:2]]
 - [[Helaman 1]] — 2 parallel verses, e.g. [[Helaman 4#^hel-4-20|Helaman 4:20]] ↔ [[Helaman 1#^hel-1-25|Helaman 1:25]]
 - [[Helaman 3]] — 1 parallel verse, e.g. [[Helaman 4#^hel-4-11|Helaman 4:11]] ↔ [[Helaman 3#^hel-3-33|Helaman 3:33]]
@@ -61,12 +62,12 @@ The chapter falls into four movements:
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[War and Peace]]
-- [[Prophecy]]
 - [[Pride]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
+- [[Prophecy]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

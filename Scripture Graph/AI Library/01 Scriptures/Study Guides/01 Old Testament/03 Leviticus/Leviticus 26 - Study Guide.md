@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 26
 slug: lev-26
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Amos 4]] — 0 parallel verses
 - [[Ezekiel 5]] — 0 parallel verses
 - [[Lamentations 2]] — 0 parallel verses
+- [[Daniel 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

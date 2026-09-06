@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 9
 slug: isa-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,11 +55,11 @@ The repeated refrain continues at [[Isaiah 10]], so the modern chapter ending do
 - [[Isaiah 26]] — 1 footnote cross-reference (from [[Isaiah 9#^isa-9-3|Isaiah 9:3]])
 - [[Abraham 2]] — 1 footnote cross-reference (from [[Isaiah 9#^isa-9-3|Isaiah 9:3]])
 - [[2 Nephi 19]] — 27 parallel verses, e.g. [[Isaiah 9#^isa-9-17|Isaiah 9:17]] ↔ [[2 Nephi 19#^2ne-19-17|2 Nephi 19:17]]
+- [[Isaiah 5]] — 4 parallel verses, e.g. [[Isaiah 9#^isa-9-12|Isaiah 9:12]] ↔ [[Isaiah 5#^isa-5-25|Isaiah 5:25]]
 - [[2 Nephi 15]] — 4 parallel verses, e.g. [[Isaiah 9#^isa-9-12|Isaiah 9:12]] ↔ [[2 Nephi 15#^2ne-15-25|2 Nephi 15:25]]
 - [[Isaiah 10]] — 3 parallel verses, e.g. [[Isaiah 9#^isa-9-12|Isaiah 9:12]] ↔ [[Isaiah 10#^isa-10-4|Isaiah 10:4]]
 - [[2 Nephi 20]] — 3 parallel verses, e.g. [[Isaiah 9#^isa-9-12|Isaiah 9:12]] ↔ [[2 Nephi 20#^2ne-20-4|2 Nephi 20:4]]
 - [[2 Nephi 19]] — 0 parallel verses
-- [[Isaiah 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -96,6 +96,8 @@ The promised ruler bears government rather than the people's oppressive burden a
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
+- **Fig tree** (reference-entry) *(explicit citation)*
+- **Galilee** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

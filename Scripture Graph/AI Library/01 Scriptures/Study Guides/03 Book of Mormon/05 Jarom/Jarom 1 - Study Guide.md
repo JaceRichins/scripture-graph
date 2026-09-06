@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jarom
 chapter: 1
 slug: jarom-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,9 @@ _Not yet developed._
 - [[2 Nephi 5]] — 3 footnote cross-references (from [[Jarom 1#^jarom-1-7|Jarom 1:7]])
 - [[Words of Mormon 1]] — 3 footnote cross-references (from [[Jarom 1#^jarom-1-7|Jarom 1:7]])
 - [[Ether 2]] — 2 footnote cross-references (from [[Jarom 1#^jarom-1-3|Jarom 1:3]])
-- [[4 Nephi 1]] — 4 parallel verses, e.g. [[Jarom 1#^jarom-1-5|Jarom 1:5]] ↔ [[4 Nephi 1#^4ne-1-22|4 Nephi 1:22]]
+- [[Omni 1]] — 3 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Omni 1#^omni-1-6|Omni 1:6]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
+- [[4 Nephi 1]] — 4 parallel verses, e.g. [[Jarom 1#^jarom-1-5|Jarom 1:5]] ↔ [[4 Nephi 1#^4ne-1-22|4 Nephi 1:22]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[Alma 9#^alma-9-13|Alma 9:13]]
 - [[Mormon 3]] — 2 parallel verses, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[Mormon 3#^morm-3-10|Mormon 3:10]]
 - [[1 Nephi 14]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[1 Nephi 14#^1ne-14-7|1 Nephi 14:7]]
@@ -62,17 +63,16 @@ _Not yet developed._
 - [[Ether 15]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-3|Jarom 1:3]] ↔ [[Ether 15#^ether-15-19|Ether 15:19]]
 - [[2 Nephi 1]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[2 Nephi 1#^2ne-1-20|2 Nephi 1:20]]
 - [[2 Nephi 4]] — 1 parallel verse, e.g. [[Jarom 1#^jarom-1-9|Jarom 1:9]] ↔ [[2 Nephi 4#^2ne-4-4|2 Nephi 4:4]]
-- [[Omni 1]] — 0 parallel verses
 - [[2 Nephi 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Records and Sacred Writings]]
-- [[War and Peace]]
 - [[Law of Moses]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Government and Laws]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 13
 slug: judg-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The promise that Samson will only "begin" Israel's deliverance (13:5) sets a res
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Arise and Shine Forth (Ann M. Dibb, April 2012)|Arise and Shine Forth]] — Ann M. Dibb, 2012-April *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

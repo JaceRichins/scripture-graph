@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 38
 slug: ex-38
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,7 +89,7 @@ The offered materials may invite comparison with [[Consecration]], and the order
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Engraving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

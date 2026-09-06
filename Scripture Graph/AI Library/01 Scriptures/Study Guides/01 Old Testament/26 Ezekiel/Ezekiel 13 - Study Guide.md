@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 13
 slug: ezek-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[Jeremiah 23]] — 0 parallel verses
 - [[Jeremiah 29]] — 0 parallel verses
 - [[Ezekiel 22]] — 0 parallel verses
+- [[Jeremiah 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

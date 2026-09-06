@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 4
 slug: abr-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 - [[Moses 3]] — 1 parallel verse, e.g. [[Abraham 4#^abr-4-30|Abraham 4:30]] ↔ [[Moses 3#^moses-3-20|Moses 3:20]]
 - [[Moses 2]] — 0 parallel verses
 - [[Abraham 5]] — 0 parallel verses
+- [[Genesis 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

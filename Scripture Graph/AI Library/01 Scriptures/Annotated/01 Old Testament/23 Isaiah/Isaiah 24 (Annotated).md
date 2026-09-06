@@ -65,7 +65,7 @@ cssclasses:
 ![[Isaiah 24#^isa-24-20]]
 
 ![[Isaiah 24#^isa-24-21]]
-> [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]] · [[Isaiah 7#^isa-7-23|≈ Isaiah 7:23]] · [[Isaiah 27#^isa-27-12|≈ Isaiah 27:12]] · [[Isaiah 27#^isa-27-13|≈ Isaiah 27:13]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]]
+> [[Isaiah 27#^isa-27-12|≈ Isaiah 27:12]] · [[Isaiah 27#^isa-27-13|≈ Isaiah 27:13]] · [[Zechariah 14#^zech-14-6|≈ Zechariah 14:6]] · [[Zechariah 14#^zech-14-13|≈ Zechariah 14:13]] · [[Isaiah 7#^isa-7-18|≈ Isaiah 7:18]] · [[Isaiah 7#^isa-7-21|≈ Isaiah 7:21]]
 
 ![[Isaiah 24#^isa-24-22]]
 > [[John 5#^john-5-25|John 5:25]]

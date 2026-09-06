@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 10
 slug: 1sam-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[A Matter of a Few Degrees (President Dieter F. Uchtdorf, April 2008)|A Matter of a Few Degrees]] — President Dieter F. Uchtdorf, 2008-April *(explicit citation)*
 - [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[The Greatest Possession (Elder Jeffrey R. Holland, October 2021)|The Greatest Possession]] — Elder Jeffrey R. Holland, 2021-October *(explicit citation)*
 - [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*

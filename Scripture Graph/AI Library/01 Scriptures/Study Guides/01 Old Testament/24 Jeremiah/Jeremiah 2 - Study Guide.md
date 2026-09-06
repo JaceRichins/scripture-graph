@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 2
 slug: jer-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 - [[Jeremiah 3]] — 0 parallel verses
 - [[Jeremiah 17]] — 0 parallel verses
 - [[Jeremiah 17]] — 0 parallel verses
+- [[Jeremiah 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,6 +87,7 @@ Grace and deliverance precede the accusation. The LORD first brought Israel from
 ## Church History
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1843-02-01 (Vol. 4 No. 6)** (periodical, 1843-02-01) *(explicit citation)*
+- **Fullers** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

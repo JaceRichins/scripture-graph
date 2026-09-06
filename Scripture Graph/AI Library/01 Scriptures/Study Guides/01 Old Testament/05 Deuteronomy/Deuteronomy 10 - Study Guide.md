@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 10
 slug: deut-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,8 @@ Verses 6-9 sit as third-person subject matter bracketed by Moses's first-person 
 - [[Exodus 25]] — 1 footnote cross-reference (from [[Deuteronomy 10#^deut-10-1|Deuteronomy 10:1]])
 - [[2 Nephi 3]] — 1 footnote cross-reference (from [[Deuteronomy 10#^deut-10-2|Deuteronomy 10:2]])
 - [[Mormon 8]] — 1 footnote cross-reference (from [[Deuteronomy 10#^deut-10-2|Deuteronomy 10:2]])
+- [[Exodus 34]] — 5 parallel verses, e.g. [[Deuteronomy 10#^deut-10-2|Deuteronomy 10:2]] ↔ [[Exodus 34#^ex-34-1|Exodus 34:1]]
+- [[Deuteronomy 9]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-4|Deuteronomy 10:4]] ↔ [[Deuteronomy 9#^deut-9-10|Deuteronomy 9:10]]
 - [[Deuteronomy 4]] — 4 parallel verses, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Deuteronomy 4#^deut-4-29|Deuteronomy 4:29]]
 - [[Deuteronomy 31]] — 4 parallel verses, e.g. [[Deuteronomy 10#^deut-10-11|Deuteronomy 10:11]] ↔ [[Deuteronomy 31#^deut-31-20|Deuteronomy 31:20]]
 - [[Deuteronomy 30]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Deuteronomy 30#^deut-30-10|Deuteronomy 30:10]]
@@ -60,8 +62,6 @@ Verses 6-9 sit as third-person subject matter bracketed by Moses's first-person 
 - [[Joshua 3]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]] ↔ [[Joshua 3#^josh-3-3|Joshua 3:3]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Matthew 22#^matt-22-37|Matthew 22:37]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Mark 12#^mark-12-30|Mark 12:30]]
-- [[Luke 10]] — 1 parallel verse, e.g. [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]] ↔ [[Luke 10#^luke-10-27|Luke 10:27]]
-- [[1 Samuel 4]] — 3 parallel verses, e.g. [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]] ↔ [[1 Samuel 4#^1sam-4-3|1 Samuel 4:3]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,6 +89,7 @@ Verses 6-9 sit as third-person subject matter bracketed by Moses's first-person 
 <!-- SG:BEGIN history -->
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
+- **Eleazar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

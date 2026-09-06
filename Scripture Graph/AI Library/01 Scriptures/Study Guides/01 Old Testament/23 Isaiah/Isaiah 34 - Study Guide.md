@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 34
 slug: isa-34
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,9 @@ _Not yet developed._
 - [[Isaiah 35]] — 0 parallel verses
 - [[Isaiah 63]] — 0 parallel verses
 - [[Revelation 6]] — 0 parallel verses
+- [[D&C 1]] — 0 parallel verses
+- [[Isaiah 35]] — 0 parallel verses
+- [[Isaiah 63]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

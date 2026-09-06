@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 5
 slug: amos-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,9 @@ The repeated seek-and-live appeals give the chapter rhetorical coherence, but th
 - [[Amos 2]] — 0 parallel verses
 - [[Amos 9]] — 0 parallel verses
 - [[Psalm 50]] — 0 parallel verses
+- [[Amos 3]] — 0 parallel verses
+- [[Amos 8]] — 0 parallel verses
+- [[Isaiah 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

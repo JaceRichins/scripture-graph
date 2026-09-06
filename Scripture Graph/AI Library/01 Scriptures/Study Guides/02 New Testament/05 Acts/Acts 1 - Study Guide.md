@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 1
 slug: acts-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ Acts 1:8's geography (Jerusalem, Judæa, Samaria, uttermost part of the earth) f
 - [[We Talk of Christ (Elder Neil L. Andersen, October 2020)|We Talk of Christ]] — Elder Neil L. Andersen, 2020-October *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
+- [[The Twelve (President Boyd K. Packer, April 2008)|The Twelve]] — President Boyd K. Packer, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 24
 slug: jer-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,16 +53,18 @@ The two interpretations are deliberately unequal in emphasis: the good-fig secti
 - [[2 Kings 24]] — 1 footnote cross-reference (from [[Jeremiah 24#^jer-24-1|Jeremiah 24:1]])
 - [[Hosea 9]] — 1 footnote cross-reference (from [[Jeremiah 24#^jer-24-2|Jeremiah 24:2]])
 - [[D&C 122]] — 1 footnote cross-reference (from [[Jeremiah 24#^jer-24-5|Jeremiah 24:5]])
+- [[Jeremiah 34]] — 3 parallel verses, e.g. [[Jeremiah 24#^jer-24-9|Jeremiah 24:9]] ↔ [[Jeremiah 34#^jer-34-17|Jeremiah 34:17]]
+- [[Jeremiah 29]] — 4 parallel verses, e.g. [[Jeremiah 24#^jer-24-9|Jeremiah 24:9]] ↔ [[Jeremiah 29#^jer-29-18|Jeremiah 29:18]]
+- [[Jeremiah 32]] — 2 parallel verses, e.g. [[Jeremiah 24#^jer-24-7|Jeremiah 24:7]] ↔ [[Jeremiah 32#^jer-32-38|Jeremiah 32:38]]
+- [[Zechariah 8]] — 1 parallel verse, e.g. [[Jeremiah 24#^jer-24-7|Jeremiah 24:7]] ↔ [[Zechariah 8#^zech-8-8|Zechariah 8:8]]
 - [[Ezekiel 11]] — 1 parallel verse, e.g. [[Jeremiah 24#^jer-24-7|Jeremiah 24:7]] ↔ [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]]
 - [[Ezekiel 37]] — 2 parallel verses, e.g. [[Jeremiah 24#^jer-24-7|Jeremiah 24:7]] ↔ [[Ezekiel 37#^ezek-37-23|Ezekiel 37:23]]
 - [[Jeremiah 27]] — 1 parallel verse, e.g. [[Jeremiah 24#^jer-24-1|Jeremiah 24:1]] ↔ [[Jeremiah 27#^jer-27-20|Jeremiah 27:20]]
+- [[Jeremiah 44]] — 2 parallel verses, e.g. [[Jeremiah 24#^jer-24-5|Jeremiah 24:5]] ↔ [[Jeremiah 44#^jer-44-7|Jeremiah 44:7]]
 - [[Deuteronomy 28]] — 1 parallel verse, e.g. [[Jeremiah 24#^jer-24-9|Jeremiah 24:9]] ↔ [[Deuteronomy 28#^deut-28-25|Deuteronomy 28:25]]
-- [[Jeremiah 32]] — 0 parallel verses
-- [[Jeremiah 29]] — 0 parallel verses
 - [[Jeremiah 1]] — 0 parallel verses
 - [[Ezekiel 11]] — 0 parallel verses
 - [[Jeremiah 42]] — 0 parallel verses
-- [[Jeremiah 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 5
 slug: eph-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,12 +50,14 @@ _Not yet developed._
 - [[Genesis 8]] — 1 footnote cross-reference (from [[Ephesians 5#^eph-5-2|Ephesians 5:2]])
 - [[Leviticus 1]] — 1 footnote cross-reference (from [[Ephesians 5#^eph-5-2|Ephesians 5:2]])
 - [[Ecclesiastes 5]] — 1 footnote cross-reference (from [[Ephesians 5#^eph-5-4|Ephesians 5:4]])
-- [[Mark 10]] — 0 parallel verses
+- [[Mark 10]] — 1 parallel verse, e.g. [[Ephesians 5#^eph-5-31|Ephesians 5:31]] ↔ [[Mark 10#^mark-10-7|Mark 10:7]]
+- [[Colossians 3]] — 2 parallel verses, e.g. [[Ephesians 5#^eph-5-19|Ephesians 5:19]] ↔ [[Colossians 3#^col-3-16|Colossians 3:16]]
 - [[Colossians 3]] — 0 parallel verses
 - [[1 Peter 3]] — 0 parallel verses
 - [[1 Corinthians 6]] — 0 parallel verses
 - [[D&C 25]] — 0 parallel verses
-- [[Colossians 3]] — 0 parallel verses
+- [[Ephesians 6]] — 0 parallel verses
+- [[Genesis 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

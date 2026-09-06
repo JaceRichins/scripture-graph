@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 33
 slug: ezek-33
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,18 +51,18 @@ Ezekiel 33 joins prophetic responsibility, personal turning, Jerusalem's fall, a
 - [[Ezekiel 3]] — 2 footnote cross-references (from [[Ezekiel 33#^ezek-33-12|Ezekiel 33:12]])
 - [[Ezekiel 1]] — 2 footnote cross-references (from [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]])
 - [[3 Nephi 16]] — 1 footnote cross-reference (from [[Ezekiel 33#^ezek-33-2|Ezekiel 33:2]])
+- [[Ezekiel 18]] — 18 parallel verses, e.g. [[Ezekiel 33#^ezek-33-16|Ezekiel 33:16]] ↔ [[Ezekiel 18#^ezek-18-21|Ezekiel 18:21]]
+- [[Ezekiel 3]] — 8 parallel verses, e.g. [[Ezekiel 33#^ezek-33-8|Ezekiel 33:8]] ↔ [[Ezekiel 3#^ezek-3-18|Ezekiel 3:18]]
 - [[Ezekiel 20]] — 8 parallel verses, e.g. [[Ezekiel 33#^ezek-33-10|Ezekiel 33:10]] ↔ [[Ezekiel 20#^ezek-20-27|Ezekiel 20:27]]
 - [[Ezekiel 37]] — 5 parallel verses, e.g. [[Ezekiel 33#^ezek-33-22|Ezekiel 33:22]] ↔ [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]]
 - [[Ezekiel 14]] — 4 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Ezekiel 14#^ezek-14-4|Ezekiel 14:4]]
 - [[Ezekiel 34]] — 3 parallel verses, e.g. [[Ezekiel 33#^ezek-33-29|Ezekiel 33:29]] ↔ [[Ezekiel 34#^ezek-34-27|Ezekiel 34:27]]
 - [[Ezekiel 35]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-11|Ezekiel 33:11]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
+- [[Ezekiel 1]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]] ↔ [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]]
 - [[Ezekiel 30]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-28|Ezekiel 33:28]] ↔ [[Ezekiel 30#^ezek-30-18|Ezekiel 30:18]]
 - [[Ezekiel 17]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-27|Ezekiel 33:27]] ↔ [[Ezekiel 17#^ezek-17-19|Ezekiel 17:19]]
 - [[Jeremiah 25]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 - [[Ezekiel 24]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Ezekiel 24#^ezek-24-3|Ezekiel 24:3]]
-- [[Ezekiel 32]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]] ↔ [[Ezekiel 32#^ezek-32-1|Ezekiel 32:1]]
-- [[Ezekiel 18]] — 0 parallel verses
-- [[Ezekiel 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

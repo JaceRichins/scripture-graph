@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 6
 slug: rom-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Mosiah 2]] — 1 footnote cross-reference (from [[Romans 6#^rom-6-2|Romans 6:2]])
 - [[Mosiah 27]] — 1 footnote cross-reference (from [[Romans 6#^rom-6-3|Romans 6:3]])
 - [[2 Timothy 2]] — 1 footnote cross-reference (from [[Romans 6#^rom-6-5|Romans 6:5]])
+- [[Colossians 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,7 +73,7 @@ _Not yet developed._
 - [[Receive His Gift (Elder Patrick Kearon, April 2025)|Receive His Gift]] — Elder Patrick Kearon, 2025-April *(explicit citation)*
 - [[Jesus Christ and Your New Beginning (Elder Patrick Kearon, October 2025)|Jesus Christ and Your New Beginning]] — Elder Patrick Kearon, 2025-October *(explicit citation)*
 - [[We Are Doing a Great Work and Cannot Come Down (President Dieter F. Uchtdorf, April 2009)|We Are Doing a Great Work and Cannot Come Down]] — President Dieter F. Uchtdorf, 2009-April *(explicit citation)*
-- [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
+- [[The Only True God and Jesus Christ Whom He Hath Sent (Elder Jeffrey R. Holland, October 2007)|The Only True God and Jesus Christ Whom He Hath Sent]] — Elder Jeffrey R. Holland, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

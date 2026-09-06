@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 59
 slug: isa-59
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -61,10 +61,10 @@ _Not yet developed._
 - [[Repentance and Forgiveness]]
 - [[War and Peace]]
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
 - [[Truth]] *(keyword match — unconfirmed)*
-- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

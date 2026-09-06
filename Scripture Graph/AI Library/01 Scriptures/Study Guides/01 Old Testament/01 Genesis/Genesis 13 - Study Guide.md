@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 13
 slug: gen-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,7 +55,7 @@ The chapter opens and closes with an act of worship (vv. 4, 18), loosely framing
 - [[Abraham 1]] — 2 footnote cross-references (from [[Genesis 13#^gen-13-4|Genesis 13:4]])
 - [[Genesis 24]] — 1 footnote cross-reference (from [[Genesis 13#^gen-13-2|Genesis 13:2]])
 - [[Genesis 4]] — 1 footnote cross-reference (from [[Genesis 13#^gen-13-4|Genesis 13:4]])
-- [[Genesis 28]] — 0 parallel verses
+- [[Genesis 28]] — 1 parallel verse, e.g. [[Genesis 13#^gen-13-15|Genesis 13:15]] ↔ [[Genesis 28#^gen-28-13|Genesis 28:13]]
 - [[Genesis 12]] — 0 parallel verses
 - [[Genesis 36]] — 0 parallel verses
 <!-- SG:END related-scriptures -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 8
 slug: eccl-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

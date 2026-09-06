@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 6
 slug: 3ne-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ Verse 13 also links [[Humility]], [[Repentance]], and [[Endurance]]: some believ
 - [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
 - [[The Finest Homes (Elder L. Whitney Clayton, April 2020)|The Finest Homes]] — Elder L. Whitney Clayton, 2020-April *(explicit citation)*
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
+- [[Righteous Traditions (Cheryl C. Lant, April 2008)|Righteous Traditions]] — Cheryl C. Lant, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

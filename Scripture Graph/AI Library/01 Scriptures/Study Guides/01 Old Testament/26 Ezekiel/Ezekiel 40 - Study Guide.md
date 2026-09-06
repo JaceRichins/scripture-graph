@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 40
 slug: ezek-40
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,16 +51,18 @@ _Not yet developed._
 - [[Ezekiel 44]] — 4 footnote cross-references (from [[Ezekiel 40#^ezek-40-6|Ezekiel 40:6]])
 - [[Ezekiel 1]] — 3 footnote cross-references (from [[Ezekiel 40#^ezek-40-1|Ezekiel 40:1]])
 - [[Revelation 21]] — 2 footnote cross-references (from [[Ezekiel 40#^ezek-40-2|Ezekiel 40:2]])
+- [[Ezekiel 44]] — 3 parallel verses, e.g. [[Ezekiel 40#^ezek-40-4|Ezekiel 40:4]] ↔ [[Ezekiel 44#^ezek-44-5|Ezekiel 44:5]]
+- [[Ezekiel 47]] — 3 parallel verses, e.g. [[Ezekiel 40#^ezek-40-34|Ezekiel 40:34]] ↔ [[Ezekiel 47#^ezek-47-12|Ezekiel 47:12]]
 - [[Exodus 26]] — 3 parallel verses, e.g. [[Ezekiel 40#^ezek-40-10|Ezekiel 40:10]] ↔ [[Exodus 26#^ex-26-13|Exodus 26:13]]
+- [[Ezekiel 46]] — 2 parallel verses, e.g. [[Ezekiel 40#^ezek-40-22|Ezekiel 40:22]] ↔ [[Ezekiel 46#^ezek-46-12|Ezekiel 46:12]]
 - [[Jeremiah 52]] — 2 parallel verses, e.g. [[Ezekiel 40#^ezek-40-1|Ezekiel 40:1]] ↔ [[Jeremiah 52#^jer-52-4|Jeremiah 52:4]]
+- [[Ezekiel 42]] — 1 parallel verse, e.g. [[Ezekiel 40#^ezek-40-39|Ezekiel 40:39]] ↔ [[Ezekiel 42#^ezek-42-13|Ezekiel 42:13]]
 - [[1 Kings 7]] — 1 parallel verse, e.g. [[Ezekiel 40#^ezek-40-21|Ezekiel 40:21]] ↔ [[1 Kings 7#^1kgs-7-6|1 Kings 7:6]]
-- [[Ezekiel 47]] — 0 parallel verses
-- [[Ezekiel 46]] — 0 parallel verses
-- [[Ezekiel 44]] — 0 parallel verses
 - [[Exodus 26]] — 0 parallel verses
 - [[Ezekiel 41]] — 0 parallel verses
 - [[Revelation 21]] — 0 parallel verses
 - [[Ezekiel 47]] — 0 parallel verses
+- [[Ezekiel 44]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,7 +83,7 @@ The chapter contributes most directly to the biblical presentation of [[Temples]
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Ezekiel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

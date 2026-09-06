@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 27
 slug: lev-27
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,12 +66,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Will a Man Rob God (Elder Yoshihiko Kikuchi, April 2007)|Will a Man Rob God?]] — Elder Yoshihiko Kikuchi, 2007-April *(explicit citation)*
 - [[Conference Report, October 1927 (General Conference (full report), October 1927)|Conference Report, October 1927]] — General Conference (full report), 1927-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Tithing** (reference-entry) *(explicit citation)*
+- **Firstborn** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

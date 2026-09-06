@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 17
 slug: jer-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,16 +53,18 @@ These changes of voice, genre, and subject may reflect the arrangement of distin
 - [[Alma 31]] — 1 footnote cross-reference (from [[Jeremiah 17#^jer-17-2|Jeremiah 17:2]])
 - [[Jeremiah 15]] — 1 footnote cross-reference (from [[Jeremiah 17#^jer-17-4|Jeremiah 17:4]])
 - [[D&C 1]] — 1 footnote cross-reference (from [[Jeremiah 17#^jer-17-5|Jeremiah 17:5]])
+- [[Jeremiah 32]] — 3 parallel verses, e.g. [[Jeremiah 17#^jer-17-10|Jeremiah 17:10]] ↔ [[Jeremiah 32#^jer-32-19|Jeremiah 32:19]]
+- [[Jeremiah 22]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-25|Jeremiah 17:25]] ↔ [[Jeremiah 22#^jer-22-4|Jeremiah 22:4]]
 - [[Amos 2]] — 2 parallel verses, e.g. [[Jeremiah 17#^jer-17-27|Jeremiah 17:27]] ↔ [[Amos 2#^amos-2-5|Amos 2:5]]
 - [[2 Chronicles 34]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-25|Jeremiah 17:25]] ↔ [[2 Chronicles 34#^2chr-34-30|2 Chronicles 34:30]]
 - [[Jeremiah 35]] — 1 parallel verse, e.g. [[Jeremiah 17#^jer-17-25|Jeremiah 17:25]] ↔ [[Jeremiah 35#^jer-35-13|Jeremiah 35:13]]
-- [[Jeremiah 22]] — 0 parallel verses
 - [[Psalm 1]] — 0 parallel verses
 - [[Jeremiah 2]] — 0 parallel verses
 - [[Amos 2]] — 0 parallel verses
 - [[Revelation 2]] — 0 parallel verses
 - [[Nehemiah 13]] — 0 parallel verses
 - [[2 Nephi 4]] — 0 parallel verses
+- [[Jeremiah 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -84,6 +86,7 @@ These changes of voice, genre, and subject may reflect the arrangement of distin
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 

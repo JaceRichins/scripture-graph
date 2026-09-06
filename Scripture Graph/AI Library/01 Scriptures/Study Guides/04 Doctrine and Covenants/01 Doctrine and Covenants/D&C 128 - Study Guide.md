@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 128
 slug: dc-128
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -106,8 +106,8 @@ The chapter treats authorized earthly action as capable of heavenly recognition.
 - [[The Times of Restitution of All Things (Elder David A. Bednar, April 2025)|The Times of Restitution of All Things]] — Elder David A. Bednar, 2025-April *(explicit citation)*
 - [[Roots and Branches (Elder Quentin L. Cook, April 2014)|Roots and Branches]] — Elder Quentin L. Cook, 2014-April *(explicit citation)*
 - [[Generations Linked in Love (Elder Russell M. Nelson, April 2010)|Generations Linked in Love]] — Elder Russell M. Nelson, 2010-April *(explicit citation)*
-- [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
-- [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[Salvation and Exaltation (Elder Russell M. Nelson, April 2008)|Salvation and Exaltation]] — Elder Russell M. Nelson, 2008-April *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

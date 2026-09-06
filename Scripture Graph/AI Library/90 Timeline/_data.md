@@ -13144,6 +13144,60 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-josh-1-2d4399b7",
+   "t": "Joshua commissioned to lead Israel into Canaan",
+   "y0": -1406,
+   "y1": -1400,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Using the 1 Kings 6:1 chronology (480 years before Solomon's 4th regnal year) the Exodus falls c. 1446 BC; 40 years of wilderness wandering places entry into Canaan c. 1406 BC. A widely held minority 'late date' view instead places these events in the 1200s BC.",
+   "chapters": [
+    "Joshua 1"
+   ],
+   "people": [
+    "Moses",
+    "Joshua"
+   ],
+   "places": [
+    "Jordan River",
+    "Canaan"
+   ],
+   "things": [
+    "Book of the law"
+   ]
+  },
+  {
+   "id": "r-josh-10-3f22e5dc",
+   "t": "Israelite conquest of southern Canaan (Joshua 10)",
+   "y0": -1406,
+   "y1": -1400,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Based on the 480-year span in 1 Kings 6:1 counted back from Solomon's 4th year (~966 BC), placing the Exodus c. 1446 BC and the conquest one generation later; this 'early date' scheme is disputed against a 'late date' (c. 1210s BC) alternative.",
+   "chapters": [
+    "Joshua 10"
+   ],
+   "people": [
+    "Joshua",
+    "Adoni-zedek"
+   ],
+   "places": [
+    "Gibeon",
+    "Makkedah"
+   ]
+  },
+  {
    "id": "r-josh-13-52f35af1",
    "t": "Moses' Transjordan conquest and land grant to Reuben, Gad, half-Manasseh",
    "y0": -1407,
@@ -13270,6 +13324,28 @@ timeline module, not this file._
    "places": [
     "Mount of Olives",
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-jude-1-71df2494",
+   "t": "Epistle of Jude composed",
+   "y0": 60,
+   "y1": 90,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally attributed to Jude, brother of James; wide range reflects disputed authorship identification and disputed literary relationship to 2 Peter, which affects relative dating.",
+   "chapters": [
+    "Jude 1"
+   ],
+   "people": [
+    "Jude",
+    "James"
    ]
   },
   {

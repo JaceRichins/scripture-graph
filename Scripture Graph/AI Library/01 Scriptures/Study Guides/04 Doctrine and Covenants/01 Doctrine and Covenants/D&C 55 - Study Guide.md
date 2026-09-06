@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 55
 slug: dc-55
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,8 +60,8 @@ _Not yet developed._
 - [[Mormon 9]] — 1 parallel verse, e.g. [[D&C 55#^dc-55-2|D&C 55:2]] ↔ [[Mormon 9#^morm-9-29|Mormon 9:29]]
 - [[D&C 42]] — 2 parallel verses, e.g. [[D&C 55#^dc-55-2|D&C 55:2]] ↔ [[D&C 42#^dc-42-1|D&C 42:1]]
 - [[D&C 52]] — 2 parallel verses, e.g. [[D&C 55#^dc-55-5|D&C 55:5]] ↔ [[D&C 52#^dc-52-3|D&C 52:3]]
-- [[Moroni 3]] — 1 parallel verse, e.g. [[D&C 55#^dc-55-2|D&C 55:2]] ↔ [[Moroni 3#^moro-3-3|Moroni 3:3]]
 - [[Moses 8]] — 1 parallel verse, e.g. [[D&C 55#^dc-55-2|D&C 55:2]] ↔ [[Moses 8#^moses-8-24|Moses 8:24]]
+- [[Moroni 3]] — 1 parallel verse, e.g. [[D&C 55#^dc-55-2|D&C 55:2]] ↔ [[Moroni 3#^moro-3-3|Moroni 3:3]]
 - [[D&C 19]] — 1 parallel verse, e.g. [[D&C 55#^dc-55-2|D&C 55:2]] ↔ [[D&C 19#^dc-19-13|D&C 19:13]]
 - [[3 Nephi 30]] — 1 parallel verse, e.g. [[D&C 55#^dc-55-2|D&C 55:2]] ↔ [[3 Nephi 30#^3ne-30-1|3 Nephi 30:1]]
 - [[D&C 109]] — 1 parallel verse, e.g. [[D&C 55#^dc-55-2|D&C 55:2]] ↔ [[D&C 109#^dc-109-4|D&C 109:4]]

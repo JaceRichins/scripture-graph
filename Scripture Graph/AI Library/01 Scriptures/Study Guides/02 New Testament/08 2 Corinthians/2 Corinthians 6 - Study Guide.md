@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 6
 slug: 2cor-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,11 +62,13 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Election** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

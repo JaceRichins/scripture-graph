@@ -70,7 +70,7 @@ cssclasses:
 > [[Luke 23#^luke-23-44|Luke 23:44 (44–45)]] · [[Alma 18#^alma-18-14|Alma 18:14]] · [[1 Nephi 19#^1ne-19-10|1 Ne. 19:10]] · [[3 Nephi 10#^3ne-10-9|3 Ne. 10:9]] · [[Exodus 20#^ex-20-18|≈ Exodus 20:18]]
 
 ![[3 Nephi 8#^3ne-8-20]]
-> [[Exodus 10#^ex-10-21|Ex. 10:21]] · [[1 Nephi 12#^1ne-12-5|1 Ne. 12:5]] · [[1 Nephi 19#^1ne-19-11|19:11]] · [[3 Nephi 9#^3ne-9-1|≈ 3 Nephi 9:1]] · [[Mormon 1#^morm-1-19|≈ Mormon 1:19]] · [[Mormon 1#^morm-1-18|≈ Mormon 1:18]]
+> [[Exodus 10#^ex-10-21|Ex. 10:21]] · [[1 Nephi 12#^1ne-12-5|1 Ne. 12:5]] · [[1 Nephi 19#^1ne-19-11|19:11]] · [[Mormon 1#^morm-1-19|≈ Mormon 1:19]] · [[Mormon 1#^morm-1-18|≈ Mormon 1:18]] · [[3 Nephi 9#^3ne-9-1|≈ 3 Nephi 9:1]]
 
 ![[3 Nephi 8#^3ne-8-21]]
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 5
 slug: 1ne-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -106,6 +106,8 @@ The family's sacrifices and thanksgiving connect deliverance with [[Gratitude]] 
 <!-- SG:BEGIN history -->
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Canon** (reference-entry) *(explicit citation)*
+- **Eve** (reference-entry) *(explicit citation)*
+- **Genesis** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

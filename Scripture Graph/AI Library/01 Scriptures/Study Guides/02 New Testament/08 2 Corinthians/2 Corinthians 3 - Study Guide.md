@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 3
 slug: 2cor-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -88,7 +88,7 @@ The final verses connect [[Freedom and Liberty]] with the Spirit's presence and 
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Epistles** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -23,7 +23,7 @@ cssclasses:
 > [[Jeremiah 36#^jer-36-2|≈ Jeremiah 36:2]]
 
 ![[Jeremiah 30#^jer-30-3]]
-> [[Jeremiah 51#^jer-51-52|≈ Jeremiah 51:52]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]] · [[Jeremiah 49#^jer-49-39|≈ Jeremiah 49:39]] · [[Jeremiah 49#^jer-49-6|≈ Jeremiah 49:6]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]]
+> [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]] · [[Jeremiah 31#^jer-31-31|≈ Jeremiah 31:31]] · [[Jeremiah 31#^jer-31-38|≈ Jeremiah 31:38]] · [[Jeremiah 51#^jer-51-52|≈ Jeremiah 51:52]] · [[Jeremiah 7#^jer-7-32|≈ Jeremiah 7:32]] · [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]]
 
 ![[Jeremiah 30#^jer-30-4]]
 

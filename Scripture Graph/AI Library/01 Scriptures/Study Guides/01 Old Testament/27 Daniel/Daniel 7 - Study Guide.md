@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 7
 slug: dan-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ Scripture: [[Daniel 7]] · My notes: [[Daniel 7 - My Notes]]
 - [[Revelation 20]] — 3 footnote cross-references (from [[Daniel 7#^dan-7-10|Daniel 7:10]])
 - [[Revelation 11]] — 2 footnote cross-references (from [[Daniel 7#^dan-7-10|Daniel 7:10]])
 - [[Revelation 12]] — 2 footnote cross-references (from [[Daniel 7#^dan-7-21|Daniel 7:21]])
+- [[D&C 82]] — 3 parallel verses, e.g. [[Daniel 7#^dan-7-22|Daniel 7:22]] ↔ [[D&C 82#^dc-82-13|D&C 82:13]]
 - [[Daniel 6]] — 1 parallel verse, e.g. [[Daniel 7#^dan-7-14|Daniel 7:14]] ↔ [[Daniel 6#^dan-6-26|Daniel 6:26]]
 - [[Daniel 2]] — 0 parallel verses
 - [[Revelation 13]] — 0 parallel verses
@@ -61,11 +62,11 @@ Scripture: [[Daniel 7]] · My notes: [[Daniel 7 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Final Judgment]]
 - [[D&C 116]]
 - [[Kingdom of God]]
 - [[Government and Laws]]
 - [[The Godhead]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -86,6 +87,7 @@ The chapter contrasts two figures in the heavenly court: the fiery-throned 'Anci
 - **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Adam** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

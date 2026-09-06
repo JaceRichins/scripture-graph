@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 13
 slug: acts-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ The sermon's positive reception among Gentiles the following sabbath, followed b
 - [[Acts 1]] — 0 parallel verses
 - [[Luke 2]] — 0 parallel verses
 - [[2 Timothy 3]] — 0 parallel verses
+- [[Hebrews 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

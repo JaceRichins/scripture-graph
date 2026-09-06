@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 5
 slug: morm-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Taking on the Name of Jesus Christ (Elder Dale G. Renlund, October 2025)|Taking on the Name of Jesus Christ]] — Elder Dale G. Renlund, 2025-October *(explicit citation)*
 - [[The Atonement Covers All Pain (Elder Kent F. Richards, April 2011)|The Atonement Covers All Pain]] — Elder Kent F. Richards, 2011-April *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

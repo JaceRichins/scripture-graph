@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 3
 slug: zech-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -43,6 +43,7 @@ _Not yet developed._
 - [[Amos 4]] — 1 footnote cross-reference (from [[Zechariah 3#^zech-3-2|Zechariah 3:2]])
 - [[Deuteronomy 11]] — 1 footnote cross-reference (from [[Zechariah 3#^zech-3-7|Zechariah 3:7]])
 - [[Amos 4]] — 0 parallel verses
+- [[Jude 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

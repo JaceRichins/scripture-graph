@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 14
 slug: john-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,14 +55,14 @@ _Not yet developed._
 - [[3 Nephi 9]] — 2 parallel verses, e.g. [[John 14#^john-14-10|John 14:10]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[3 Nephi 11]] — 2 parallel verses, e.g. [[John 14#^john-14-10|John 14:10]] ↔ [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]]
 - [[D&C 50]] — 2 parallel verses, e.g. [[John 14#^john-14-10|John 14:10]] ↔ [[D&C 50#^dc-50-43|D&C 50:43]]
+- [[John 8]] — 1 parallel verse, e.g. [[John 14#^john-14-7|John 14:7]] ↔ [[John 8#^john-8-19|John 8:19]]
 - [[John 6]] — 2 parallel verses, e.g. [[John 14#^john-14-12|John 14:12]] ↔ [[John 6#^john-6-47|John 6:47]]
-- [[John 16]] — 0 parallel verses
+- [[John 16]] — 2 parallel verses, e.g. [[John 14#^john-14-25|John 14:25]] ↔ [[John 16#^john-16-1|John 16:1]]
 - [[John 13]] — 0 parallel verses
 - [[John 15]] — 0 parallel verses
 - [[D&C 98]] — 0 parallel verses
 - [[D&C 81]] — 0 parallel verses
 - [[Enos 1]] — 0 parallel verses
-- [[Ether 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -94,9 +94,9 @@ _Not yet developed._
 - [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
 - [[After the Fourth Day (Elder W. Mark Bassett, April 2023)|After the Fourth Day]] — Elder W. Mark Bassett, 2023-April *(explicit citation)*
 - [[What Thinks Christ of Me (Elder Neil L. Andersen, April 2012)|What Thinks Christ of Me?]] — Elder Neil L. Andersen, 2012-April *(explicit citation)*
+- [[The Only True God and Jesus Christ Whom He Hath Sent (Elder Jeffrey R. Holland, October 2007)|The Only True God and Jesus Christ Whom He Hath Sent]] — Elder Jeffrey R. Holland, 2007-October *(explicit citation)*
 - [[“If Ye Love Me, Keep My Commandments” (Carole M. Stephens, October 2015)|“If Ye Love Me, Keep My Commandments”]] — Carole M. Stephens, 2015-October *(explicit citation)*
 - [[The Comforter (President Henry B. Eyring, April 2015)|The Comforter]] — President Henry B. Eyring, 2015-April *(explicit citation)*
-- [[“Come, Follow Me” by Practicing Christian Love and Service (Elder Robert D. Hales, October 2016)|“Come, Follow Me” by Practicing Christian Love and Service]] — Elder Robert D. Hales, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

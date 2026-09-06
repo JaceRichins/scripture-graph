@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 49
 slug: alma-49
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,11 +56,13 @@ Alma 49 narrates a campaign won largely before close combat begins. The invaders
 - [[Alma 43]] — 4 parallel verses, e.g. [[Alma 49#^alma-49-28|Alma 49:28]] ↔ [[Alma 43#^alma-43-9|Alma 43:9]]
 - [[Alma 43]] — 0 parallel verses
 - [[Alma 50]] — 0 parallel verses
+- [[Alma 53]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

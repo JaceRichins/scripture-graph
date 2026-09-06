@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 13
 slug: 1sam-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[A Matter of a Few Degrees (President Dieter F. Uchtdorf, April 2008)|A Matter of a Few Degrees]] — President Dieter F. Uchtdorf, 2008-April *(explicit citation)*
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 <!-- SG:END conference -->

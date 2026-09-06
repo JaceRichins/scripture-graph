@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 2
 slug: abr-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ This is a practical outline, not proof of a formal literary design.
 - [[Abraham 3]] — 2 parallel verses, e.g. [[Abraham 2#^abr-2-7|Abraham 2:7]] ↔ [[Abraham 3#^abr-3-3|Abraham 3:3]]
 - [[Exodus 32]] — 1 parallel verse, e.g. [[Abraham 2#^abr-2-9|Abraham 2:9]] ↔ [[Exodus 32#^ex-32-10|Exodus 32:10]]
 - [[D&C 132]] — 0 parallel verses
+- [[Genesis 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

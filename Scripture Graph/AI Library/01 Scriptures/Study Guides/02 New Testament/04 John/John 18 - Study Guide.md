@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 18
 slug: john-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,21 +52,22 @@ The alternation in verses 15–27 places Jesus' open testimony beside Peter's de
 - [[3 Nephi 11]] — 2 footnote cross-references (from [[John 18#^john-18-11|John 18:11]])
 - [[John 17]] — 1 footnote cross-reference (from [[John 18#^john-18-9|John 18:9]])
 - [[Luke 3]] — 1 footnote cross-reference (from [[John 18#^john-18-13|John 18:13]])
-- [[Mark 14]] — 0 parallel verses
-- [[Mark 15]] — 0 parallel verses
+- [[Mark 15]] — 2 parallel verses, e.g. [[John 18#^john-18-39|John 18:39]] ↔ [[Mark 15#^mark-15-9|Mark 15:9]]
+- [[Mark 14]] — 2 parallel verses, e.g. [[John 18#^john-18-33|John 18:33]] ↔ [[Mark 14#^mark-14-61|Mark 14:61]]
 - [[John 11]] — 0 parallel verses
 - [[Matthew 26]] — 0 parallel verses
 - [[Luke 22]] — 0 parallel verses
+- [[John 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Truth]]
-- [[Government and Laws]]
 - [[Kingdom of God]]
 - [[Passover]]
 - [[War and Peace]]
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

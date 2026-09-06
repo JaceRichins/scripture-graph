@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 28
 slug: 3ne-28
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ Verses 10–11 contribute to [[The Godhead]] by affirming the Father's and Son's
 <!-- SG:BEGIN history -->
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

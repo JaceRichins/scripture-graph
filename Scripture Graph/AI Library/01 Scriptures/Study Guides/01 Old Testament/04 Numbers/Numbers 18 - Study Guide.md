@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 18
 slug: num-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

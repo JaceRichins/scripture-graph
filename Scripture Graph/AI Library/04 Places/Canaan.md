@@ -44,6 +44,7 @@ _Not yet developed._
 - **1450 BC–1449 BC** — Twelve spies sent from Paran to scout Canaan · [[Numbers 13]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1445 BC** — Israel's departure from Egypt and early wilderness journey · [[Exodus 13]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1406 BC** — Exodus and wilderness rebellions recalled in Psalm 106 · [[Psalm 106]] · [[1500-1401 BC]] *(traditional dating)*
+- **1406 BC–1400 BC** — Joshua commissioned to lead Israel into Canaan · [[Joshua 1]] · [[1500-1401 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

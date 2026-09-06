@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 10
 slug: 2kgs-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ _Not yet developed._
 - **Bethel** (reference-entry) *(explicit citation)*
 - **Calves, golden, worship of** (reference-entry) *(explicit citation)*
 - **Dan** (reference-entry) *(explicit citation)*
+- **Gad** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

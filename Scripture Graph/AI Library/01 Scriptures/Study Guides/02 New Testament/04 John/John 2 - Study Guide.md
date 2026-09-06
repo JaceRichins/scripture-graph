@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 2
 slug: john-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Mark 14]] — 1 footnote cross-reference (from [[John 2#^john-2-19|John 2:19]])
 - [[Psalm 69]] — 1 parallel verse, e.g. [[John 2#^john-2-17|John 2:17]] ↔ [[Psalm 69#^ps-69-9|Psalm 69:9]]
 - [[D&C 117]] — 0 parallel verses
+- [[John 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

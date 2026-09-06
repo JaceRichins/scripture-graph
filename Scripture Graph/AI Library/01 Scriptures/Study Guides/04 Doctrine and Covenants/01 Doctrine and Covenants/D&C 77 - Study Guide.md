@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 77
 slug: dc-77
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The chapter portrays salvation on a cosmic scale. The earth is destined for a sa
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Spirit** (reference-entry) *(explicit citation)*
+- **Elias** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

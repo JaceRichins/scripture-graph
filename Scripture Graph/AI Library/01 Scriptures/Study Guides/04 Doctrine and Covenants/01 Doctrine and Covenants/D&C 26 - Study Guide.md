@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 26
 slug: dc-26
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,7 +60,9 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Trek Continues! (Elder M. Russell Ballard, October 2017)|The Trek Continues!]] — Elder M. Russell Ballard, 2017-October *(explicit citation)*
+- [[Salvation and Exaltation (Elder Russell M. Nelson, April 2008)|Salvation and Exaltation]] — Elder Russell M. Nelson, 2008-April *(explicit citation)*
 - [[Pure Truth, Pure Doctrine, and Pure Revelation (President Russell M. Nelson, October 2021)|Pure Truth, Pure Doctrine, and Pure Revelation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
+- [[The Weak and the Simple of the Church (President Boyd K. Packer, October 2007)|The Weak and the Simple of the Church]] — President Boyd K. Packer, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

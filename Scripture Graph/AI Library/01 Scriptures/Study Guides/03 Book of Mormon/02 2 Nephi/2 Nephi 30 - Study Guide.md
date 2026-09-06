@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 30
 slug: 2ne-30
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ The chapter moves through four connected units:
 - [[Alma 38]] — 1 parallel verse, e.g. [[2 Nephi 30#^2ne-30-1|2 Nephi 30:1]] ↔ [[Alma 38#^alma-38-1|Alma 38:1]]
 - [[1 Nephi 22]] — 1 parallel verse, e.g. [[2 Nephi 30#^2ne-30-18|2 Nephi 30:18]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
 - [[2 Nephi 21]] — 0 parallel verses
+- [[Isaiah 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,6 +92,7 @@ The closing vision links righteous rule, peace, knowledge, and the exposure of d
 - [[The Gospel Light of Truth and Love (Elder Alan R. Walker, April 2021)|The Gospel Light of Truth and Love]] — Elder Alan R. Walker, 2021-April *(explicit citation)*
 - [[Trusting the Doctrine of Christ (Elder Evan A. Schmutz, April 2023)|Trusting the Doctrine of Christ]] — Elder Evan A. Schmutz, 2023-April *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

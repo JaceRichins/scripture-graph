@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 85
 slug: dc-85
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,7 +68,11 @@ The chapter presents [[Consecration]] as an ordered communal practice involving 
 - [[The Faith to Ask and Then to Act (President Henry B. Eyring, October 2021)|The Faith to Ask and Then to Act]] — President Henry B. Eyring, 2021-October *(explicit citation)*
 - [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
 - [[Helping Others Recognize the Whisperings of the Spirit (Vicki F. Matsumori, October 2009)|Helping Others Recognize the Whisperings of the Spirit]] — Vicki F. Matsumori, 2009-October *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[Opening Our Hearts (Elder Gerald N. Lund, April 2008)|Opening Our Hearts]] — Elder Gerald N. Lund, 2008-April *(explicit citation)*
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
+- [[The Spirit of the Tabernacle (President Boyd K. Packer, April 2007)|The Spirit of the Tabernacle]] — President Boyd K. Packer, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

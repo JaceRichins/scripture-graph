@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 3
 slug: 1sam-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,7 +66,9 @@ The chapter contributes to [[Revelation]] and [[Prophets]] by depicting a call i
 <!-- SG:BEGIN conference -->
 - [[A Child’s Guiding Gift (Mary R. Durham, April 2016)|A Child’s Guiding Gift]] — Mary R. Durham, 2016-April *(explicit citation)*
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
+- [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
 - [[Courageous Parenting (Elder Larry R. Lawrence, October 2010)|Courageous Parenting]] — Elder Larry R. Lawrence, 2010-October *(explicit citation)*
+- [[Testimony as a Process (Elder Carlos A. Godoy, October 2008)|Testimony as a Process]] — Elder Carlos A. Godoy, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 15
 slug: hel-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

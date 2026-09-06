@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 3
 slug: heb-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,10 +52,13 @@ Scripture: [[Hebrews 3]] · My notes: [[Hebrews 3 - My Notes]]
 - [[Jacob 1]] — 1 footnote cross-reference (from [[Hebrews 3#^heb-3-8|Hebrews 3:8]])
 - [[Alma 12]] — 1 footnote cross-reference (from [[Hebrews 3#^heb-3-8|Hebrews 3:8]])
 - [[Psalm 95]] — 5 parallel verses, e.g. [[Hebrews 3#^heb-3-10|Hebrews 3:10]] ↔ [[Psalm 95#^ps-95-10|Psalm 95:10]]
+- [[Hebrews 4]] — 2 parallel verses, e.g. [[Hebrews 3#^heb-3-15|Hebrews 3:15]] ↔ [[Hebrews 4#^heb-4-7|Hebrews 4:7]]
 - [[Jacob 6]] — 1 parallel verse, e.g. [[Hebrews 3#^heb-3-15|Hebrews 3:15]] ↔ [[Jacob 6#^jacob-6-6|Jacob 6:6]]
-- [[Hebrews 4]] — 0 parallel verses
 - [[Numbers 12]] — 0 parallel verses
 - [[1 Corinthians 10]] — 0 parallel verses
+- [[Hebrews 4]] — 0 parallel verses
+- [[Jacob 1]] — 0 parallel verses
+- [[Jacob 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

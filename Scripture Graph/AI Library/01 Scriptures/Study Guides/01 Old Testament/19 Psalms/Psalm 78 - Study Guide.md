@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 78
 slug: ps-78
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

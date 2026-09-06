@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 6
 slug: ether-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Exodus and Deliverance]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -70,6 +70,7 @@ The political narrative introduces a tension within [[Government and Laws]]. The
 - [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
 - [[Christ The Light That Shines in Darkness (Sharon Eubank, April 2019)|Christ: The Light That Shines in Darkness]] — Sharon Eubank, 2019-April *(explicit citation)*
 - [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*
+- [[Will a Man Rob God (Elder Yoshihiko Kikuchi, April 2007)|Will a Man Rob God?]] — Elder Yoshihiko Kikuchi, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

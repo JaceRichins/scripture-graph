@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 6
 slug: judg-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -94,7 +94,7 @@ Notably, the chapter stacks two separate messenger scenes — a human prophet (v
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Gaza** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

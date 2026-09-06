@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 31
 slug: ex-31
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ Scripture: [[Exodus 31]] · My notes: [[Exodus 31 - My Notes]]
 - [[Exodus 36]] — 1 footnote cross-reference (from [[Exodus 31#^ex-31-2|Exodus 31:2]])
 - [[2 Nephi 5]] — 1 footnote cross-reference (from [[Exodus 31#^ex-31-4|Exodus 31:4]])
 - [[Mark 6]] — 1 footnote cross-reference (from [[Exodus 31#^ex-31-11|Exodus 31:11]])
+- [[Exodus 35]] — 7 parallel verses, e.g. [[Exodus 31#^ex-31-10|Exodus 31:10]] ↔ [[Exodus 35#^ex-35-19|Exodus 35:19]]
 - [[Exodus 38]] — 2 parallel verses, e.g. [[Exodus 31#^ex-31-2|Exodus 31:2]] ↔ [[Exodus 38#^ex-38-22|Exodus 38:22]]
 - [[Exodus 39]] — 2 parallel verses, e.g. [[Exodus 31#^ex-31-10|Exodus 31:10]] ↔ [[Exodus 39#^ex-39-41|Exodus 39:41]]
 - [[Leviticus 7]] — 3 parallel verses, e.g. [[Exodus 31#^ex-31-14|Exodus 31:14]] ↔ [[Leviticus 7#^lev-7-20|Leviticus 7:20]]
@@ -60,7 +61,6 @@ Scripture: [[Exodus 31]] · My notes: [[Exodus 31 - My Notes]]
 - [[Leviticus 19]] — 1 parallel verse, e.g. [[Exodus 31#^ex-31-14|Exodus 31:14]] ↔ [[Leviticus 19#^lev-19-8|Leviticus 19:8]]
 - [[Numbers 15]] — 1 parallel verse, e.g. [[Exodus 31#^ex-31-14|Exodus 31:14]] ↔ [[Numbers 15#^num-15-30|Numbers 15:30]]
 - [[Leviticus 20]] — 2 parallel verses, e.g. [[Exodus 31#^ex-31-15|Exodus 31:15]] ↔ [[Leviticus 20#^lev-20-2|Leviticus 20:2]]
-- [[Exodus 12]] — 2 parallel verses, e.g. [[Exodus 31#^ex-31-14|Exodus 31:14]] ↔ [[Exodus 12#^ex-12-15|Exodus 12:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,6 +86,7 @@ Scripture: [[Exodus 31]] · My notes: [[Exodus 31 - My Notes]]
 - [[Shipshape and Bristol Fashion Be Temple Worthy—in Good Times and Bad Times (Elder Quentin L. Cook, October 2015)|Shipshape and Bristol Fashion: Be Temple Worthy—in Good Times and Bad Times]] — Elder Quentin L. Cook, 2015-October *(explicit citation)*
 - [[Make Time for the Lord (President Russell M. Nelson, October 2021)|Make Time for the Lord]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 - [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
+- [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

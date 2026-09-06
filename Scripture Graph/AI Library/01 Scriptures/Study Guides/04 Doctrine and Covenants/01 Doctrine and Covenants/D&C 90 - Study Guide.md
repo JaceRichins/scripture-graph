@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 90
 slug: dc-90
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ The chapter treats [[Priesthood]] keys and [[Revelation]] as inseparable from ac
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Ministry of Angels (Elder Jeffrey R. Holland, October 2008)|The Ministry of Angels]] — Elder Jeffrey R. Holland, 2008-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Be an Example and a Light (President Thomas S. Monson, October 2015)|Be an Example and a Light]] — President Thomas S. Monson, 2015-October *(explicit citation)*
 - [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
@@ -90,7 +91,6 @@ The chapter treats [[Priesthood]] keys and [[Revelation]] as inseparable from ac
 - [[A Yearning for Home (President Dieter F. Uchtdorf, October 2017)|A Yearning for Home]] — President Dieter F. Uchtdorf, 2017-October *(explicit citation)*
 - [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
 - [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
-- [[All Nations, Kindreds, and Tongues (Elder Gerrit W. Gong, October 2020)|All Nations, Kindreds, and Tongues]] — Elder Gerrit W. Gong, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

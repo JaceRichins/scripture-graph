@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 2
 slug: ezek-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Jeremiah 8]] — 1 parallel verse, e.g. [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]] ↔ [[Jeremiah 8#^jer-8-4|Jeremiah 8:4]]
 - [[Jeremiah 15]] — 0 parallel verses
 - [[1 Nephi 1]] — 0 parallel verses
+- [[Ezekiel 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

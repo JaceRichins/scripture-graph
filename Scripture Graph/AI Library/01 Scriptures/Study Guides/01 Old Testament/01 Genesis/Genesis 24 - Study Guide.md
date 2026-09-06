@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 24
 slug: gen-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 - [[Genesis 22]] — 0 parallel verses
 - [[Genesis 29]] — 0 parallel verses
 - [[Genesis 47]] — 0 parallel verses
+- [[Exodus 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,6 +83,7 @@ Isaac's marriage continues the family line associated with the [[Abrahamic Coven
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Be Not Moved! (Elaine S. Dalton, April 2013)|Be Not Moved!]] — Elaine S. Dalton, 2013-April *(explicit citation)*
+- [[Mothers Who Know (Julie B. Beck, October 2007)|Mothers Who Know]] — Julie B. Beck, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

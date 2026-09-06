@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 66
 slug: isa-66
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

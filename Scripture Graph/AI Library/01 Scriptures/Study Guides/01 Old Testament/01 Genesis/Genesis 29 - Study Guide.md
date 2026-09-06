@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 29
 slug: gen-29
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ Scripture: [[Genesis 29]] · My notes: [[Genesis 29 - My Notes]]
 - [[Genesis 27]] — 1 footnote cross-reference (from [[Genesis 29#^gen-29-4|Genesis 29:4]])
 - [[Genesis 2]] — 1 footnote cross-reference (from [[Genesis 29#^gen-29-14|Genesis 29:14]])
 - [[Genesis 38]] — 4 parallel verses, e.g. [[Genesis 29#^gen-29-33|Genesis 29:33]] ↔ [[Genesis 38#^gen-38-4|Genesis 38:4]]
+- [[Hosea 1]] — 3 parallel verses, e.g. [[Genesis 29#^gen-29-33|Genesis 29:33]] ↔ [[Hosea 1#^hosea-1-6|Hosea 1:6]]
 - [[Genesis 24]] — 0 parallel verses
 - [[Hosea 12]] — 0 parallel verses
 - [[Genesis 24]] — 0 parallel verses
@@ -74,6 +75,7 @@ The chapter is also morally descriptive rather than automatically prescriptive. 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Power, Joy, and Love of Covenant Keeping (Linda K. Burton, October 2013)|The Power, Joy, and Love of Covenant Keeping]] — Linda K. Burton, 2013-October *(explicit citation)*
+- [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

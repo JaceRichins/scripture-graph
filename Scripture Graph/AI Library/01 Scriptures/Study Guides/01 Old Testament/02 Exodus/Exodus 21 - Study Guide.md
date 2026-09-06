@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 21
 slug: ex-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Leviticus 20]] — 0 parallel verses
 - [[Numbers 35]] — 0 parallel verses
 - [[Deuteronomy 24]] — 0 parallel verses
+- [[Deuteronomy 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,6 +75,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Animals** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

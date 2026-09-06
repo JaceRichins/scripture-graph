@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 18
 slug: 1ne-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ This progression forms a strong narrative reversal, but the chapter need not be 
 - [[Alma 2]] — 2 parallel verses, e.g. [[1 Nephi 18#^1ne-18-6|1 Nephi 18:6]] ↔ [[Alma 2#^alma-2-23|Alma 2:23]]
 - [[1 Nephi 17]] — 0 parallel verses
 - [[1 Nephi 7]] — 0 parallel verses
+- [[Ether 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -93,6 +94,7 @@ The operation of the [[Liahona (compass)]] is narrated in moral and relational c
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
+- [[The Tongue of Angels (Elder Jeffrey R. Holland, April 2007)|The Tongue of Angels]] — Elder Jeffrey R. Holland, 2007-April *(explicit citation)*
 - [[The Spirit of Revelation (Elder David A. Bednar, April 2011)|The Spirit of Revelation]] — Elder David A. Bednar, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 

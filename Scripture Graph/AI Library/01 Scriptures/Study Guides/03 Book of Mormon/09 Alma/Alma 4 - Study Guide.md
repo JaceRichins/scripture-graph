@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 4
 slug: alma-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -70,10 +70,10 @@ Scripture: [[Alma 4]] · My notes: [[Alma 4 - My Notes]]
 <!-- SG:BEGIN topics -->
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Pride]] *(keyword match — unconfirmed)*
-- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Adversity]] *(keyword match — unconfirmed)*
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -102,7 +102,7 @@ Scripture: [[Alma 4]] · My notes: [[Alma 4 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Elders** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

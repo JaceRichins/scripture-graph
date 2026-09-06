@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Enos
 chapter: 1
 slug: enos-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,12 +55,12 @@ This is a progressive narrative, not a demonstrated chiasm. Its clearest organiz
 - [[Ether 12]] — 3 footnote cross-references (from [[Enos 1#^enos-1-13|Enos 1:13]])
 - [[Jarom 1]] — 3 footnote cross-references (from [[Enos 1#^enos-1-20|Enos 1:20]])
 - [[Ephesians 6]] — 2 footnote cross-references (from [[Enos 1#^enos-1-1|Enos 1:1]])
+- [[Mosiah 10]] — 2 parallel verses, e.g. [[Enos 1#^enos-1-20|Enos 1:20]] ↔ [[Mosiah 10#^mosiah-10-12|Mosiah 10:12]]
 - [[Jacob 1]] — 2 parallel verses, e.g. [[Enos 1#^enos-1-25|Enos 1:25]] ↔ [[Jacob 1#^jacob-1-1|Jacob 1:1]]
 - [[Jacob 7]] — 1 parallel verse, e.g. [[Enos 1#^enos-1-26|Enos 1:26]] ↔ [[Jacob 7#^jacob-7-27|Jacob 7:27]]
 - [[1 Nephi 13]] — 2 parallel verses, e.g. [[Enos 1#^enos-1-26|Enos 1:26]] ↔ [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]]
 - [[Omni 1]] — 1 parallel verse, e.g. [[Enos 1#^enos-1-25|Enos 1:25]] ↔ [[Omni 1#^omni-1-25|Omni 1:25]]
 - [[3 Nephi 2]] — 1 parallel verse, e.g. [[Enos 1#^enos-1-25|Enos 1:25]] ↔ [[3 Nephi 2#^3ne-2-7|3 Nephi 2:7]]
-- [[Mosiah 10]] — 0 parallel verses
 - [[Alma 36]] — 0 parallel verses
 - [[2 Nephi 1]] — 0 parallel verses
 - [[Mark 5]] — 0 parallel verses
@@ -72,11 +72,11 @@ This is a progressive narrative, not a demonstrated chiasm. Its clearest organiz
 <!-- SG:BEGIN topics -->
 - [[Prayer]]
 - [[Repentance and Forgiveness]]
-- [[Records and Sacred Writings]]
 - [[War and Peace]]
 - [[Prophecy]]
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

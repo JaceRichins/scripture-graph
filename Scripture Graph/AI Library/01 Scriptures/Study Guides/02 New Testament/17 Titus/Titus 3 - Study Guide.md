@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 3
 slug: titus-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

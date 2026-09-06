@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 48
 slug: ezek-48
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

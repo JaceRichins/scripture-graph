@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 9
 slug: num-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ _Not yet developed._
 - [[Numbers 10]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-23|Numbers 9:23]] ↔ [[Numbers 10#^num-10-13|Numbers 10:13]]
 - [[Leviticus 17]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-13|Numbers 9:13]] ↔ [[Leviticus 17#^lev-17-4|Leviticus 17:4]]
 - [[Exodus 40]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-17|Numbers 9:17]] ↔ [[Exodus 40#^ex-40-36|Exodus 40:36]]
-- [[Ezra 6]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-20|Numbers 9:20]] ↔ [[Ezra 6#^ezra-6-14|Ezra 6:14]]
 - [[Joshua 5]] — 1 parallel verse, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[Joshua 5#^josh-5-10|Joshua 5:10]]
+- [[Ezra 6]] — 2 parallel verses, e.g. [[Numbers 9#^num-9-20|Numbers 9:20]] ↔ [[Ezra 6#^ezra-6-14|Ezra 6:14]]
 - [[Numbers 2]] — 1 parallel verse, e.g. [[Numbers 9#^num-9-5|Numbers 9:5]] ↔ [[Numbers 2#^num-2-34|Numbers 2:34]]
 <!-- SG:END related-scriptures -->
 
@@ -80,6 +80,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Feasts** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

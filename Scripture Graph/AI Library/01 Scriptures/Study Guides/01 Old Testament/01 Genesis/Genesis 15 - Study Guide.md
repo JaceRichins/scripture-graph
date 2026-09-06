@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 15
 slug: gen-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ In the covenant ceremony, only the theophanic 'smoking furnace' and 'burning lam
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Blood** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
+- **Euphrates** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 3
 slug: 1ne-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -112,6 +112,7 @@ The rationale for obtaining the plates also gives [[Records and Sacred Writings]
 - **Eternal Life** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
+- **Engraving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

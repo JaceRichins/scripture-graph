@@ -76,7 +76,7 @@ cssclasses:
 > [[Isaiah 6#^isa-6-9|Isa. 6:9]] · [[Matthew 13#^matt-13-14|≈ Matthew 13:14]]
 
 ![[Acts 28#^acts-28-27]]
-> [[Matthew 13#^matt-13-15|≈ Matthew 13:15]] · [[Moses 6#^moses-6-27|≈ Moses 6:27]] · [[Isaiah 6#^isa-6-10|≈ Isaiah 6:10]] · [[2 Nephi 16#^2ne-16-10|≈ 2 Nephi 16:10]]
+> [[Isaiah 6#^isa-6-10|≈ Isaiah 6:10]] · [[Matthew 13#^matt-13-15|≈ Matthew 13:15]] · [[Moses 6#^moses-6-27|≈ Moses 6:27]] · [[2 Nephi 16#^2ne-16-10|≈ 2 Nephi 16:10]]
 
 ![[Acts 28#^acts-28-28]]
 > [[Acts 13#^acts-13-46|Acts 13:46]]

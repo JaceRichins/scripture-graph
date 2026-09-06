@@ -47,7 +47,7 @@ cssclasses:
 > [[Ezekiel 36#^ezek-36-24|Ezek. 36:28 (24–28)]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 13#^jer-13-13|≈ Jeremiah 13:13]] · [[Jeremiah 19#^jer-19-11|≈ Jeremiah 19:11]] · [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]] · [[Jeremiah 25#^jer-25-28|≈ Jeremiah 25:28]] · [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]]
 
 ![[Ezekiel 37#^ezek-37-13]]
-> [[Ezekiel 33#^ezek-33-29|≈ Ezekiel 33:29]] · [[Ezekiel 20#^ezek-20-44|≈ Ezekiel 20:44]] · [[Ezekiel 20#^ezek-20-42|≈ Ezekiel 20:42]] · [[Ezekiel 30#^ezek-30-8|≈ Ezekiel 30:8]] · [[Ezekiel 34#^ezek-34-27|≈ Ezekiel 34:27]]
+> [[Ezekiel 34#^ezek-34-27|≈ Ezekiel 34:27]] · [[Ezekiel 33#^ezek-33-29|≈ Ezekiel 33:29]] · [[Ezekiel 20#^ezek-20-44|≈ Ezekiel 20:44]] · [[Ezekiel 20#^ezek-20-42|≈ Ezekiel 20:42]] · [[Ezekiel 30#^ezek-30-8|≈ Ezekiel 30:8]]
 
 ![[Ezekiel 37#^ezek-37-14]]
 > [[Alma 40#^alma-40-16|Alma 40:23 (16–24)]] · [[D&C 88#^dc-88-15|D&amp;C 88:15 (15–17)]] · [[Ezekiel 36#^ezek-36-36|≈ Ezekiel 36:36]] · [[Ezekiel 17#^ezek-17-21|≈ Ezekiel 17:21]] · [[Ezekiel 17#^ezek-17-24|≈ Ezekiel 17:24]]
@@ -76,7 +76,7 @@ cssclasses:
 > [[Jeremiah 50#^jer-50-4|Jer. 50:4]] · [[John 10#^john-10-16|John 10:16]] · [[Ezekiel 34#^ezek-34-23|Ezek. 34:23]] · [[1 Kings 12#^1kgs-12-16|1 Kgs. 12:16–20]]
 
 ![[Ezekiel 37#^ezek-37-23]]
-> [[Ezekiel 36#^ezek-36-25|Ezek. 36:25]] · [[Zechariah 9#^zech-9-16|Zech. 9:16]] · [[Jeremiah 24#^jer-24-7|≈ Jeremiah 24:7]] · [[Jeremiah 32#^jer-32-38|≈ Jeremiah 32:38]] · [[Zechariah 8#^zech-8-8|≈ Zechariah 8:8]] · [[Ezekiel 11#^ezek-11-20|≈ Ezekiel 11:20]] · [[Ezekiel 36#^ezek-36-28|≈ Ezekiel 36:28]]
+> [[Ezekiel 36#^ezek-36-25|Ezek. 36:25]] · [[Zechariah 9#^zech-9-16|Zech. 9:16]] · [[Jeremiah 24#^jer-24-7|≈ Jeremiah 24:7]] · [[Jeremiah 32#^jer-32-38|≈ Jeremiah 32:38]] · [[Zechariah 8#^zech-8-8|≈ Zechariah 8:8]] · [[Ezekiel 36#^ezek-36-28|≈ Ezekiel 36:28]] · [[Ezekiel 11#^ezek-11-20|≈ Ezekiel 11:20]]
 
 ![[Ezekiel 37#^ezek-37-24]]
 > [[Jeremiah 30#^jer-30-9|Jer. 30:9]] · [[Ezekiel 34#^ezek-34-23|Ezek. 34:23]]

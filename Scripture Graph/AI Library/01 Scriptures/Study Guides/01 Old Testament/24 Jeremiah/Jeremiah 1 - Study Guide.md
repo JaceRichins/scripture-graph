@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 1
 slug: jer-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,24 +51,24 @@ Scripture: [[Jeremiah 1]] · My notes: [[Jeremiah 1 - My Notes]]
 - [[Jeremiah 36]] — 1 footnote cross-reference (from [[Jeremiah 1#^jer-1-2|Jeremiah 1:2]])
 - [[Jeremiah 52]] — 1 footnote cross-reference (from [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]])
 - [[Isaiah 44]] — 1 footnote cross-reference (from [[Jeremiah 1#^jer-1-5|Jeremiah 1:5]])
+- [[Jeremiah 15]] — 2 parallel verses, e.g. [[Jeremiah 1#^jer-1-19|Jeremiah 1:19]] ↔ [[Jeremiah 15#^jer-15-20|Jeremiah 15:20]]
+- [[Jeremiah 25]] — 3 parallel verses, e.g. [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]] ↔ [[Jeremiah 25#^jer-25-1|Jeremiah 25:1]]
+- [[Jeremiah 36]] — 2 parallel verses, e.g. [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]] ↔ [[Jeremiah 36#^jer-36-1|Jeremiah 36:1]]
 - [[Jeremiah 35]] — 1 parallel verse, e.g. [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]] ↔ [[Jeremiah 35#^jer-35-1|Jeremiah 35:1]]
 - [[Zephaniah 1]] — 1 parallel verse, e.g. [[Jeremiah 1#^jer-1-2|Jeremiah 1:2]] ↔ [[Zephaniah 1#^zeph-1-1|Zephaniah 1:1]]
 - [[Jeremiah 22]] — 2 parallel verses, e.g. [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]] ↔ [[Jeremiah 22#^jer-22-18|Jeremiah 22:18]]
+- [[Jeremiah 31]] — 2 parallel verses, e.g. [[Jeremiah 1#^jer-1-15|Jeremiah 1:15]] ↔ [[Jeremiah 31#^jer-31-16|Jeremiah 31:16]]
 - [[Zechariah 4]] — 2 parallel verses, e.g. [[Jeremiah 1#^jer-1-11|Jeremiah 1:11]] ↔ [[Zechariah 4#^zech-4-2|Zechariah 4:2]]
 - [[2 Kings 22]] — 1 parallel verse, e.g. [[Jeremiah 1#^jer-1-16|Jeremiah 1:16]] ↔ [[2 Kings 22#^2kgs-22-17|2 Kings 22:17]]
 - [[2 Chronicles 34]] — 1 parallel verse, e.g. [[Jeremiah 1#^jer-1-16|Jeremiah 1:16]] ↔ [[2 Chronicles 34#^2chr-34-25|2 Chronicles 34:25]]
 - [[Jeremiah 30]] — 1 parallel verse, e.g. [[Jeremiah 1#^jer-1-19|Jeremiah 1:19]] ↔ [[Jeremiah 30#^jer-30-11|Jeremiah 30:11]]
 - [[Jeremiah 13]] — 1 parallel verse, e.g. [[Jeremiah 1#^jer-1-13|Jeremiah 1:13]] ↔ [[Jeremiah 13#^jer-13-3|Jeremiah 13:3]]
-- [[Jeremiah 26]] — 1 parallel verse, e.g. [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]] ↔ [[Jeremiah 26#^jer-26-1|Jeremiah 26:1]]
-- [[Jeremiah 27]] — 1 parallel verse, e.g. [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]] ↔ [[Jeremiah 27#^jer-27-1|Jeremiah 27:1]]
-- [[Jeremiah 45]] — 1 parallel verse, e.g. [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]] ↔ [[Jeremiah 45#^jer-45-1|Jeremiah 45:1]]
-- [[Jeremiah 46]] — 1 parallel verse, e.g. [[Jeremiah 1#^jer-1-3|Jeremiah 1:3]] ↔ [[Jeremiah 46#^jer-46-2|Jeremiah 46:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Premortal Life]]
-- [[Government and Laws]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

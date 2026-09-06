@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 5
 slug: ex-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

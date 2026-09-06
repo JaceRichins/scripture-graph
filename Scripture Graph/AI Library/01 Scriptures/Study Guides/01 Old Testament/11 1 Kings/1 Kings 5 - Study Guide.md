@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 5
 slug: 1kgs-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -70,7 +70,7 @@ Verse 12 links the LORD's promised gift of wisdom with the political setting of 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Holy Temples, Sacred Covenants (Silvia H. Allred, October 2008)|Holy Temples, Sacred Covenants]] — Silvia H. Allred, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 45
 slug: isa-45
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,7 +50,7 @@ These divisions describe shifts in address and subject matter; they should not b
 - [[Moses 1]] — 2 footnote cross-references (from [[Isaiah 45#^isa-45-5|Isaiah 45:5]])
 - [[D&C 38]] — 2 footnote cross-references (from [[Isaiah 45#^isa-45-15|Isaiah 45:15]])
 - [[Isaiah 41]] — 1 footnote cross-reference (from [[Isaiah 45#^isa-45-1|Isaiah 45:1]])
-- [[Isaiah 46]] — 0 parallel verses
+- [[Isaiah 46]] — 1 parallel verse, e.g. [[Isaiah 45#^isa-45-22|Isaiah 45:22]] ↔ [[Isaiah 46#^isa-46-9|Isaiah 46:9]]
 - [[Isaiah 44]] — 0 parallel verses
 - [[Romans 14]] — 0 parallel verses
 - [[Philippians 2]] — 0 parallel verses

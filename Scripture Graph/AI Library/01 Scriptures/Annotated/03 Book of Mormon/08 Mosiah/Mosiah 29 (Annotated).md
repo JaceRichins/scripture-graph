@@ -52,7 +52,7 @@ cssclasses:
 ![[Mosiah 29#^mosiah-29-14]]
 
 ![[Mosiah 29#^mosiah-29-15]]
-> [[Alma 1#^alma-1-32|Alma 1:32]] · [[D&C 72#^dc-72-9|≈ D&C 72:9]] · [[Alma 1#^alma-1-14|≈ Alma 1:14]]
+> [[Alma 1#^alma-1-32|Alma 1:32]] · [[Alma 1#^alma-1-14|≈ Alma 1:14]] · [[D&C 72#^dc-72-9|≈ D&C 72:9]]
 
 ![[Mosiah 29#^mosiah-29-16]]
 > [[1 Samuel 8#^1sam-8-4|1 Sam. 8:5 (4–22)]] · [[Mosiah 23#^mosiah-23-7|≈ Mosiah 23:7]]
@@ -89,7 +89,7 @@ cssclasses:
 > [[Alma 2#^alma-2-3|Alma 2:4 (3–7)]] · [[Alma 10#^alma-10-19|10:19]] · [[Helaman 4#^hel-4-20|Hel. 4:21 (20–24)]] · [[Helaman 5#^hel-5-2|5:2]]
 
 ![[Mosiah 29#^mosiah-29-28]]
-> [[Deuteronomy 17#^deut-17-8|Deut. 17:8 (8–9)]] · [[D&C 72#^dc-72-9|≈ D&C 72:9]] · [[Alma 1#^alma-1-14|≈ Alma 1:14]]
+> [[Deuteronomy 17#^deut-17-8|Deut. 17:8 (8–9)]] · [[Alma 1#^alma-1-14|≈ Alma 1:14]] · [[D&C 72#^dc-72-9|≈ D&C 72:9]]
 
 ![[Mosiah 29#^mosiah-29-29]]
 > [[Alma 51#^alma-51-16|≈ Alma 51:16]] · [[Helaman 1#^hel-1-8|≈ Helaman 1:8]] · [[Helaman 1#^hel-1-13|≈ Helaman 1:13]]

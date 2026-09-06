@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 15
 slug: 3ne-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,8 @@ The second half joins [[Scattering of Israel]] and [[Gathering of Israel]]. Sepa
 - [[All Who Have Endured Valiantly (Elder David A. Bednar, April 2026)|All Who Have Endured Valiantly]] — Elder David A. Bednar, 2026-April *(explicit citation)*
 - [[Believe, Obey, and Endure (President Thomas S. Monson, April 2012)|Believe, Obey, and Endure]] — President Thomas S. Monson, 2012-April *(explicit citation)*
 - [[His Servants, the Prophets (Elder F. Michael Watson, April 2009)|His Servants, the Prophets]] — Elder F. Michael Watson, 2009-April *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[Salvation and Exaltation (Elder Russell M. Nelson, April 2008)|Salvation and Exaltation]] — Elder Russell M. Nelson, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

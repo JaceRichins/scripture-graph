@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 2
 slug: acts-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -104,13 +104,13 @@ Verses 42-47 associate conversion with continuing in apostolic teaching, fellows
 - **10 Gathered In** (history) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
-- **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

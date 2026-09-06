@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 6
 slug: eph-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[Isaiah 59]] — 0 parallel verses
 - [[Colossians 3]] — 0 parallel verses
 - [[1 Thessalonians 5]] — 0 parallel verses
+- [[Isaiah 59]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,6 +79,7 @@ The armor passage portrays resistance to evil through [[Truth]], righteousness, 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 - [[Drawing the Power of Jesus Christ into Our Lives (President Russell M. Nelson, April 2017)|Drawing the Power of Jesus Christ into Our Lives]] — President Russell M. Nelson, 2017-April *(explicit citation)*
@@ -87,7 +89,6 @@ The armor passage portrays resistance to evil through [[Truth]], righteousness, 
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
 - [[Following Jesus Being a Peacemaker (Elder Neil L. Andersen, April 2022)|Following Jesus: Being a Peacemaker]] — Elder Neil L. Andersen, 2022-April *(explicit citation)*
 - [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
-- [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -95,6 +96,7 @@ The armor passage portrays resistance to evil through [[Truth]], righteousness, 
 - **Family** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Breastplate** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

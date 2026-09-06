@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—Matthew
 chapter: 1
 slug: jsm-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -113,6 +113,7 @@ Verse 31 connects [[Missionary Work]] with the end: the gospel is to be preached
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Abomination of desolation** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Fig tree** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

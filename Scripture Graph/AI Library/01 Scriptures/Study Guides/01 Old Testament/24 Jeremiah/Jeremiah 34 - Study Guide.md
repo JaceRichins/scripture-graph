@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 34
 slug: jer-34
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

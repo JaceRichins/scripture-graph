@@ -23,7 +23,7 @@ cssclasses:
 > [[2 Nephi 32#^2ne-32-9|≈ 2 Nephi 32:9]] · [[2 Nephi 33#^2ne-33-12|≈ 2 Nephi 33:12]] · [[Mormon 9#^morm-9-6|≈ Mormon 9:6]] · [[Mormon 9#^morm-9-21|≈ Mormon 9:21]]
 
 ![[Moroni 3#^moro-3-3]]
-> [[Moroni 8#^moro-8-3|≈ Moroni 8:3]] · [[D&C 55#^dc-55-2|≈ D&C 55:2]] · [[D&C 20#^dc-20-29|≈ D&C 20:29]]
+> [[Moroni 8#^moro-8-3|≈ Moroni 8:3]] · [[D&C 20#^dc-20-29|≈ D&C 20:29]] · [[D&C 55#^dc-55-2|≈ D&C 55:2]]
 
 ![[Moroni 3#^moro-3-4]]
 > [[D&C 18#^dc-18-32|D&amp;C 18:32]] · [[D&C 20#^dc-20-39|20:39 (39, 60)]] · [[1 Nephi 13#^1ne-13-37|1 Ne. 13:37]] · [[Moroni 6#^moro-6-9|Moro. 6:9]] · [[Moroni 6#^moro-6-4|≈ Moroni 6:4]] · [[Moroni 6#^moro-6-9|≈ Moroni 6:9]] · [[Moroni 8#^moro-8-7|≈ Moroni 8:7]] · [[1 Nephi 10#^1ne-10-17|≈ 1 Nephi 10:17]] · [[1 Nephi 10#^1ne-10-19|≈ 1 Nephi 10:19]] · [[2 Nephi 32#^2ne-32-3|≈ 2 Nephi 32:3]]

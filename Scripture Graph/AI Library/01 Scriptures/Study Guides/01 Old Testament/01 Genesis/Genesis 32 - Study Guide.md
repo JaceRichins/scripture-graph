@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 32
 slug: gen-32
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ Genesis 32 places Jacob between two encounters. As he returns from his years wit
 - [[Genesis 33]] — 0 parallel verses
 - [[Hosea 1]] — 0 parallel verses
 - [[Hosea 12]] — 0 parallel verses
+- [[Genesis 35]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -84,6 +85,7 @@ The chapter also resists a simplistic equation of blessing with ease. Jacob emer
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
+- **Esau** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

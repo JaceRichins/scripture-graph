@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 1
 slug: titus-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 - [[Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)|Adorned with the Virtue of Temperance]] — Elder Ulisses Soares, 2025-October *(explicit citation)*
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[Being Temperate in All Things (Elder Kent D. Watson, October 2009)|Being Temperate in All Things]] — Elder Kent D. Watson, 2009-October *(explicit citation)*
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[Conference Report, October 1924 (General Conference (full report), October 1924)|Conference Report, October 1924]] — General Conference (full report), 1924-October *(explicit citation)*
 <!-- SG:END conference -->
 

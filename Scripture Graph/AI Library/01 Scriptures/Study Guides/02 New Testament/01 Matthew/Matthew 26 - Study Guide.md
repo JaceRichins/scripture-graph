@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 26
 slug: matt-26
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,14 +53,15 @@ _Not yet developed._
 - [[Mark 14]] — 29 parallel verses, e.g. [[Matthew 26#^matt-26-31|Matthew 26:31]] ↔ [[Mark 14#^mark-14-27|Mark 14:27]]
 - [[Luke 22]] — 10 parallel verses, e.g. [[Matthew 26#^matt-26-75|Matthew 26:75]] ↔ [[Luke 22#^luke-22-61|Luke 22:61]]
 - [[Matthew 27]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-59|Matthew 26:59]] ↔ [[Matthew 27#^matt-27-1|Matthew 27:1]]
-- [[3 Nephi 27]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-15|Matthew 26:15]] ↔ [[3 Nephi 27#^3ne-27-2|3 Nephi 27:2]]
 - [[John 13]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-21|Matthew 26:21]] ↔ [[John 13#^john-13-21|John 13:21]]
+- [[3 Nephi 27]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-15|Matthew 26:15]] ↔ [[3 Nephi 27#^3ne-27-2|3 Nephi 27:2]]
 - [[Luke 23]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-34|Matthew 26:34]] ↔ [[Luke 23#^luke-23-43|Luke 23:43]]
 - [[Mark 11]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-3|Matthew 26:3]] ↔ [[Mark 11#^mark-11-27|Mark 11:27]]
 - [[Exodus 24]] — 0 parallel verses
 - [[2 Nephi 7]] — 0 parallel verses
 - [[D&C 27]] — 0 parallel verses
 - [[3 Nephi 18]] — 0 parallel verses
+- [[Deuteronomy 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

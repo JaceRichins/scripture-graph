@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 15
 slug: 1cor-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -97,9 +97,9 @@ The sun, moon, stars, and celestial and terrestrial bodies invite comparison wit
 - [[Divine Love in the Father’s Plan (President Dallin H. Oaks, April 2022)|Divine Love in the Father’s Plan]] — President Dallin H. Oaks, 2022-April *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 - [[The Resurrection of Jesus Christ (Elder D. Todd Christofferson, April 2014)|The Resurrection of Jesus Christ]] — Elder D. Todd Christofferson, 2014-April *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
 - [[What Has Our Savior Done for Us (President Dallin H. Oaks, April 2021)|What Has Our Savior Done for Us?]] — President Dallin H. Oaks, 2021-April *(explicit citation)*
-- [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 8
 slug: ether-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,13 +68,13 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Secret Combinations]]
-- [[Freedom and Liberty]]
 - [[Government and Laws]]
 - [[Satan and Temptation]]
 - [[Records and Sacred Writings]]
 - [[Pride]]
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
-- [[Honesty]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -89,6 +89,7 @@ Moroni's desired response is more than fear. He calls for [[Repentance]], moral 
 - [[The Key to Spiritual Protection (President Boyd K. Packer, October 2013)|The Key to Spiritual Protection]] — President Boyd K. Packer, 2013-October *(explicit citation)*
 - [[Choose You This Day (Elder Dale G. Renlund, October 2018)|Choose You This Day]] — Elder Dale G. Renlund, 2018-October *(explicit citation)*
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
+- [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

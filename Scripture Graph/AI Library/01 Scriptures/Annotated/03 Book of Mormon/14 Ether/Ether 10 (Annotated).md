@@ -79,7 +79,7 @@ cssclasses:
 > [[Genesis 34#^gen-34-10|Gen. 34:10 (10–21)]] · [[Mosiah 24#^mosiah-24-7|Mosiah 24:7]] · [[4 Nephi 1#^4ne-1-46|4 Ne. 1:46]]
 
 ![[Ether 10#^ether-10-23]]
-> [[Helaman 6#^hel-6-9|Hel. 6:9 (9–11)]] · [[Ether 9#^ether-9-17|Ether 9:17]] · [[2 Nephi 5#^2ne-5-15|2 Ne. 5:15]] · [[Moses 5#^moses-5-46|Moses 5:46]] · [[Genesis 4#^gen-4-22|Gen. 4:22]] · [[Mosiah 8#^mosiah-8-10|Mosiah 8:10]] · [[Ether 9#^ether-9-17|≈ Ether 9:17]] · [[Mosiah 11#^mosiah-11-8|≈ Mosiah 11:8]] · [[2 Nephi 5#^2ne-5-15|≈ 2 Nephi 5:15]]
+> [[Helaman 6#^hel-6-9|Hel. 6:9 (9–11)]] · [[Ether 9#^ether-9-17|Ether 9:17]] · [[2 Nephi 5#^2ne-5-15|2 Ne. 5:15]] · [[Moses 5#^moses-5-46|Moses 5:46]] · [[Genesis 4#^gen-4-22|Gen. 4:22]] · [[Mosiah 8#^mosiah-8-10|Mosiah 8:10]] · [[Mosiah 11#^mosiah-11-8|≈ Mosiah 11:8]] · [[Ether 9#^ether-9-17|≈ Ether 9:17]] · [[2 Nephi 5#^2ne-5-15|≈ 2 Nephi 5:15]]
 
 ![[Ether 10#^ether-10-24]]
 > [[Ether 9#^ether-9-17|Ether 9:17]] · [[Exodus 25#^ex-25-4|Ex. 25:4 (4–5)]] · [[1 Nephi 13#^1ne-13-7|1 Ne. 13:7 (7–8)]]

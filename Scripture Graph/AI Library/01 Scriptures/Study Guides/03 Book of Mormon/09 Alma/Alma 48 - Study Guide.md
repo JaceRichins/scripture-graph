@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 48
 slug: alma-48
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,13 +55,13 @@ Verse 7 ('Moroni, on the other hand...') is the chapter's structural hinge, expl
 - [[Alma 52]] — 2 footnote cross-references (from [[Alma 48#^alma-48-1|Alma 48:1]])
 - [[Alma 54]] — 2 footnote cross-references (from [[Alma 48#^alma-48-1|Alma 48:1]])
 - [[Alma 46]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-20|Alma 48:20]] ↔ [[Alma 46#^alma-46-38|Alma 46:38]]
+- [[Alma 50]] — 3 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Alma 50#^alma-50-1|Alma 50:1]]
 - [[Helaman 3]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Helaman 3#^hel-3-31|Helaman 3:31]]
 - [[Helaman 6]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[Helaman 6#^hel-6-30|Helaman 6:30]]
 - [[2 Nephi 30]] — 1 parallel verse, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[2 Nephi 30#^2ne-30-18|2 Nephi 30:18]]
 - [[Alma 47]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-3|Alma 48:3]] ↔ [[Alma 47#^alma-47-1|Alma 47:1]]
 - [[Alma 45]] — 2 parallel verses, e.g. [[Alma 48#^alma-48-9|Alma 48:9]] ↔ [[Alma 45#^alma-45-22|Alma 45:22]]
 - [[1 Nephi 22]] — 1 parallel verse, e.g. [[Alma 48#^alma-48-17|Alma 48:17]] ↔ [[1 Nephi 22#^1ne-22-15|1 Nephi 22:15]]
-- [[Alma 50]] — 0 parallel verses
 - [[Alma 46]] — 0 parallel verses
 - [[Alma 47]] — 0 parallel verses
 - [[Alma 50]] — 0 parallel verses
@@ -70,7 +70,7 @@ Verse 7 ('Moroni, on the other hand...') is the chapter's structural hinge, expl
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[War and Peace]]
-- [[Freedom and Liberty]]
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

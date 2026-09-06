@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 1
 slug: ruth-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 3
 slug: 1jn-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[James 2]] — 0 parallel verses
 - [[1 John 4]] — 0 parallel verses
 - [[1 John 5]] — 0 parallel verses
+- [[John 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

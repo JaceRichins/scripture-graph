@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 5
 slug: abr-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ The final unit does not fit a straightforward chronology because the woman has a
 - [[Moses 3]] — 19 parallel verses, e.g. [[Abraham 5#^abr-5-20|Abraham 5:20]] ↔ [[Moses 3#^moses-3-19|Moses 3:19]]
 - [[Abraham 4]] — 0 parallel verses
 - [[Moses 3]] — 0 parallel verses
+- [[Genesis 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,6 +74,7 @@ The chapter contributes directly to several doctrinal themes. Rest and sanctific
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Daughters in the Covenant (President Henry B. Eyring, April 2014)|Daughters in the Covenant]] — President Henry B. Eyring, 2014-April *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[Family Councils (Elder M. Russell Ballard, April 2016)|Family Councils]] — Elder M. Russell Ballard, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 

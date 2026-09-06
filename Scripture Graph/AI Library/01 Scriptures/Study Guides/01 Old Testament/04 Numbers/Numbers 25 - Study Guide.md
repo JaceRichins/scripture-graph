@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 25
 slug: num-25
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

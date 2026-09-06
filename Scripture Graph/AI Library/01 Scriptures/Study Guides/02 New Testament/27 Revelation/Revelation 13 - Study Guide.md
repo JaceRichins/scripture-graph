@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 13
 slug: rev-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Revelation 19]] — 1 footnote cross-reference (from [[Revelation 13#^rev-13-14|Revelation 13:14]])
 - [[2 Nephi 28]] — 1 footnote cross-reference (from [[Revelation 13#^rev-13-14|Revelation 13:14]])
 - [[D&C 52]] — 1 footnote cross-reference (from [[Revelation 13#^rev-13-14|Revelation 13:14]])
+- [[Daniel 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

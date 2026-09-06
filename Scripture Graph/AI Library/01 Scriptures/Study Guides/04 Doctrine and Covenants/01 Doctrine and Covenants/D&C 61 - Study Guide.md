@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 61
 slug: dc-61
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -82,12 +82,12 @@ The conclusion joins watchfulness, sobriety, and [[Prayer]] with readiness for t
 - [[Jesus Christ Is the Strength of Youth (Elder Dieter F. Uchtdorf, October 2022)|Jesus Christ Is the Strength of Youth]] — Elder Dieter F. Uchtdorf, 2022-October *(explicit citation)*
 - [[Building a Life Resistant to the Adversary (Elder Jorge F. Zeballos, October 2022)|Building a Life Resistant to the Adversary]] — Elder Jorge F. Zeballos, 2022-October *(explicit citation)*
 - [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
 - [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
 - [[Watch Ye Therefore, and Pray Always (President M. Russell Ballard, October 2020)|Watch Ye Therefore, and Pray Always]] — President M. Russell Ballard, 2020-October *(explicit citation)*
 - [[We Never Walk Alone (President Thomas S. Monson, October 2013)|We Never Walk Alone]] — President Thomas S. Monson, 2013-October *(explicit citation)*
 - [[Be of Good Cheer (President Dallin H. Oaks, October 2020)|Be of Good Cheer]] — President Dallin H. Oaks, 2020-October *(explicit citation)*
-- [[Get On with Our Lives (Elder Steven E. Snow, April 2009)|Get On with Our Lives]] — Elder Steven E. Snow, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

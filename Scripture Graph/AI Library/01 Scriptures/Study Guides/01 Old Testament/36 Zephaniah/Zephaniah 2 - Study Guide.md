@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zephaniah
 chapter: 2
 slug: zeph-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Ammon, Ammonites** (reference-entry) *(explicit citation)*
+- **Gaza** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

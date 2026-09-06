@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 22
 slug: luke-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[3 Nephi 18]] — 1 parallel verse, e.g. [[Luke 22#^luke-22-31|Luke 22:31]] ↔ [[3 Nephi 18#^3ne-18-18|3 Nephi 18:18]]
 - [[Exodus 24]] — 0 parallel verses
 - [[D&C 52]] — 0 parallel verses
+- [[John 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

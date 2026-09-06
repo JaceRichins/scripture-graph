@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 6
 slug: lev-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Daily service** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

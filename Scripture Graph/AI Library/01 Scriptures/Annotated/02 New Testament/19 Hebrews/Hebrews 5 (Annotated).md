@@ -30,7 +30,7 @@ cssclasses:
 > [[Hebrews 1#^heb-1-5|Heb. 1:5]]
 
 ![[Hebrews 5#^heb-5-6]]
-> [[D&C 124#^dc-124-130|D&amp;C 124:130]] · [[Psalm 110#^ps-110-4|≈ Psalm 110:4]] · [[Hebrews 7#^heb-7-17|≈ Hebrews 7:17]] · [[Hebrews 7#^heb-7-21|≈ Hebrews 7:21]]
+> [[D&C 124#^dc-124-130|D&amp;C 124:130]] · [[Hebrews 7#^heb-7-17|≈ Hebrews 7:17]] · [[Hebrews 7#^heb-7-21|≈ Hebrews 7:21]] · [[Psalm 110#^ps-110-4|≈ Psalm 110:4]]
 
 ![[Hebrews 5#^heb-5-7]]
 > [[Matthew 26#^matt-26-39|Matt. 26:39 (39, 42, 44)]]

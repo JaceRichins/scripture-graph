@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 127
 slug: dc-127
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ _Not yet developed._
 - **Index by Section Number** (history) *(explicit citation)*
 - **Grief** (reference-entry) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

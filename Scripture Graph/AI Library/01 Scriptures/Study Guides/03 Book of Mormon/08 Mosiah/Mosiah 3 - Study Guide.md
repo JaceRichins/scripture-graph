@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 3
 slug: mosiah-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -85,11 +85,11 @@ _Not yet developed._
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
 - [[The Beauty of Holiness (Carol F. McConkie, April 2017)|The Beauty of Holiness]] — Carol F. McConkie, 2017-April *(explicit citation)*
 - [[Becoming like Him (Elder Scott D. Whiting, October 2020)|Becoming like Him]] — Elder Scott D. Whiting, 2020-October *(explicit citation)*
+- [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[Your Next Step (Elder Randall K. Bennett, October 2015)|Your Next Step]] — Elder Randall K. Bennett, 2015-October *(explicit citation)*
 - [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
 - [[Honoring His Name (Lisa L. Harkness, October 2019)|Honoring His Name]] — Lisa L. Harkness, 2019-October *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
-- [[Choose Jesus Christ as Your Guide (Elder Edward B. Rowe, April 2026)|Choose Jesus Christ as Your Guide]] — Elder Edward B. Rowe, 2026-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

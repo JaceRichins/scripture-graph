@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 2
 slug: 1cor-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ The chapter teaches that faith is meant to rest 'in the power of God' rather tha
 <!-- SG:BEGIN conference -->
 - [[The Eye of Faith (Elder Neil L. Andersen, April 2019)|The Eye of Faith]] — Elder Neil L. Andersen, 2019-April *(explicit citation)*
 - [[Faith Is Not by Chance, but by Choice (Elder Neil L. Andersen, October 2015)|Faith Is Not by Chance, but by Choice]] — Elder Neil L. Andersen, 2015-October *(explicit citation)*
+- [[Restoring Faith in the Family (Elder Kenneth Johnson, April 2008)|Restoring Faith in the Family]] — Elder Kenneth Johnson, 2008-April *(explicit citation)*
 - [[Prayer and Promptings (President Boyd K. Packer, October 2009)|Prayer and Promptings]] — President Boyd K. Packer, 2009-October *(explicit citation)*
 - [[Is It Still Wonderful to You (Bishop Gérald Caussé, April 2015)|Is It Still Wonderful to You?]] — Bishop Gérald Caussé, 2015-April *(explicit citation)*
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
@@ -79,7 +80,6 @@ The chapter teaches that faith is meant to rest 'in the power of God' rather tha
 - [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
 - [[The Blessings of Worship (Bishop Dean M. Davies, October 2016)|The Blessings of Worship]] — Bishop Dean M. Davies, 2016-October *(explicit citation)*
-- [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

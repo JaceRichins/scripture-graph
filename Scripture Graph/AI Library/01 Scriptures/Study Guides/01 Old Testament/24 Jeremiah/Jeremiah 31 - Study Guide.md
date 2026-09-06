@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 31
 slug: jer-31
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,8 @@ _Not yet developed._
 - **Times and Seasons 1843-02-01 (Vol. 4 No. 6)** (periodical, 1843-02-01) *(explicit citation)*
 - **Times and Seasons 1844-11-15 (Vol. 5 No. 21)** (periodical, 1844-11-15) *(explicit citation)*
 - **Birthright** (reference-entry) *(explicit citation)*
+- **Ephraim** (reference-entry) *(explicit citation)*
+- **Firstborn** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

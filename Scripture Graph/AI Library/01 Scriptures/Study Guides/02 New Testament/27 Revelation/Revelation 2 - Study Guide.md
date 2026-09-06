@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 2
 slug: rev-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Revelation 3]] — 22 parallel verses, e.g. [[Revelation 2#^rev-2-7|Revelation 2:7]] ↔ [[Revelation 3#^rev-3-6|Revelation 3:6]]
 - [[Revelation 19]] — 1 parallel verse, e.g. [[Revelation 2#^rev-2-27|Revelation 2:27]] ↔ [[Revelation 19#^rev-19-15|Revelation 19:15]]
 - [[D&C 66]] — 0 parallel verses
+- [[Jeremiah 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,6 +73,7 @@ _Not yet developed._
 - [[Overcoming the World (Elder Neil L. Andersen, April 2017)|Overcoming the World]] — Elder Neil L. Andersen, 2017-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

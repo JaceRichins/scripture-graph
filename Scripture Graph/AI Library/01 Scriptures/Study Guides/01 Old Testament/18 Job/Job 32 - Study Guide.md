@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 32
 slug: job-32
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,12 +53,14 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Restoring Faith in the Family (Elder Kenneth Johnson, April 2008)|Restoring Faith in the Family]] — Elder Kenneth Johnson, 2008-April *(explicit citation)*
 - [[Conference Report, October 1922 (General Conference (full report), October 1922)|Conference Report, October 1922]] — General Conference (full report), 1922-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Bottles** (reference-entry) *(explicit citation)*
+- **Elihu** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 5
 slug: 1tim-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -63,12 +63,14 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
+- [[Lay Up in Store (Bishop Keith B. McMullin, April 2007)|Lay Up in Store]] — Bishop Keith B. McMullin, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Animals** (reference-entry) *(explicit citation)*
 - **Death** (reference-entry) *(explicit citation)*
+- **Elders** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

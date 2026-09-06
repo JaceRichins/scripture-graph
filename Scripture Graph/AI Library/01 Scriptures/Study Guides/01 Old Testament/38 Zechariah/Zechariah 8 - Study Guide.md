@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 8
 slug: zech-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Ezekiel 11]] — 1 parallel verse, e.g. [[Zechariah 8#^zech-8-8|Zechariah 8:8]] ↔ [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]]
 - [[Ezekiel 37]] — 2 parallel verses, e.g. [[Zechariah 8#^zech-8-8|Zechariah 8:8]] ↔ [[Ezekiel 37#^ezek-37-23|Ezekiel 37:23]]
 - [[Jeremiah 11]] — 2 parallel verses, e.g. [[Zechariah 8#^zech-8-8|Zechariah 8:8]] ↔ [[Jeremiah 11#^jer-11-4|Jeremiah 11:4]]
+- [[Ephesians 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +71,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
+- **Games** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

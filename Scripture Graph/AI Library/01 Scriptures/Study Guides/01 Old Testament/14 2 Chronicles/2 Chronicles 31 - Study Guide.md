@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 31
 slug: 2chr-31
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Asahel** (reference-entry) *(explicit citation)*
+- **Firstfruits** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

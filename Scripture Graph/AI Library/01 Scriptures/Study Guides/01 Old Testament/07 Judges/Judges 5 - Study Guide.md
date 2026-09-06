@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 5
 slug: judg-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Amalek, Amalekites** (reference-entry) *(explicit citation)*
 - **Armageddon** (reference-entry) *(explicit citation)*
+- **Embroidery** (reference-entry) *(explicit citation)*
+- **Gad** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

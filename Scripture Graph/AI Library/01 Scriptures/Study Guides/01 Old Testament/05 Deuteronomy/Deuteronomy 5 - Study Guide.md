@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 5
 slug: deut-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -88,11 +88,13 @@ The chapter places public revelation and prophetic mediation together. Israel he
 - [[The Three Rs of Choice (President Thomas S. Monson, October 2010)|The Three Rs of Choice]] — President Thomas S. Monson, 2010-October *(explicit citation)*
 - [[How Can I Understand (Elder Ulisses Soares, April 2019)|How Can I Understand?]] — Elder Ulisses Soares, 2019-April *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
+- [[Testimony (Elder Dallin H. Oaks, April 2008)|Testimony]] — Elder Dallin H. Oaks, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Deuteronomy** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

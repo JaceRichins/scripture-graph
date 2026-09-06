@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 8
 slug: hel-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -67,17 +67,18 @@ Scripture: [[Helaman 8]] · My notes: [[Helaman 8 - My Notes]]
 - [[Matthew 6]] — 0 parallel verses
 - [[Alma 33]] — 0 parallel verses
 - [[Alma 37]] — 0 parallel verses
+- [[John 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Final Judgment]]
-- [[Secret Combinations]]
 - [[Exodus and Deliverance]]
 - [[Prophecy]]
 - [[Government and Laws]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
+- [[Secret Combinations]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -99,6 +100,7 @@ Scripture: [[Helaman 8]] · My notes: [[Helaman 8 - My Notes]]
 - [[Drawing the Power of Jesus Christ into Our Lives (President Russell M. Nelson, April 2017)|Drawing the Power of Jesus Christ into Our Lives]] — President Russell M. Nelson, 2017-April *(explicit citation)*
 - [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
 - [[Look to God and Live (Elder D. Todd Christofferson, October 2025)|Look to God and Live]] — Elder D. Todd Christofferson, 2025-October *(explicit citation)*
+- [[Testimony (Elder Dallin H. Oaks, April 2008)|Testimony]] — Elder Dallin H. Oaks, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

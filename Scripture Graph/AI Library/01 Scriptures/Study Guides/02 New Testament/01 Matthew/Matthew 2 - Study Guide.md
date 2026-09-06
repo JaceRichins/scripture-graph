@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 2
 slug: matt-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
+- [[The Ministry of Angels (Elder Jeffrey R. Holland, October 2008)|The Ministry of Angels]] — Elder Jeffrey R. Holland, 2008-October *(explicit citation)*
 - [[Meeting the Challenges of Today’s World (Elder Robert D. Hales, October 2015)|Meeting the Challenges of Today’s World]] — Elder Robert D. Hales, 2015-October *(explicit citation)*
 - [[Jesus Christ Is the Strength of Parents (Elder Dieter F. Uchtdorf, April 2023)|Jesus Christ Is the Strength of Parents]] — Elder Dieter F. Uchtdorf, 2023-April *(explicit citation)*
 - [[Eternity’s Great Gifts Jesus Christ’s Atonement, Resurrection, Restoration (Elder Gerrit W. Gong, April 2025)|Eternity’s Great Gifts: Jesus Christ’s Atonement, Resurrection, Restoration]] — Elder Gerrit W. Gong, 2025-April *(explicit citation)*

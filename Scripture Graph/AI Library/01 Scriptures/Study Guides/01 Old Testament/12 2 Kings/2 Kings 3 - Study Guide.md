@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 3
 slug: 2kgs-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Ahab** (reference-entry) *(explicit citation)*
 - **Ahaziah** (reference-entry) *(explicit citation)*
+- **Elisha** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

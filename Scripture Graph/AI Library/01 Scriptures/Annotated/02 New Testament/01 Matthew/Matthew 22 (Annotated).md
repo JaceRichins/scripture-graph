@@ -122,7 +122,7 @@ cssclasses:
 ![[Matthew 22#^matt-22-43]]
 
 ![[Matthew 22#^matt-22-44]]
-> [[Psalm 110#^ps-110-1|≈ Psalm 110:1]] · [[Acts 2#^acts-2-34|≈ Acts 2:34]] · [[Mark 12#^mark-12-36|≈ Mark 12:36]] · [[Luke 20#^luke-20-42|≈ Luke 20:42]] · [[Luke 20#^luke-20-43|≈ Luke 20:43]]
+> [[Psalm 110#^ps-110-1|≈ Psalm 110:1]] · [[Mark 12#^mark-12-36|≈ Mark 12:36]] · [[Luke 20#^luke-20-42|≈ Luke 20:42]] · [[Luke 20#^luke-20-43|≈ Luke 20:43]] · [[Acts 2#^acts-2-34|≈ Acts 2:34]]
 
 ![[Matthew 22#^matt-22-45]]
 

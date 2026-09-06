@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 38
 slug: isa-38
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

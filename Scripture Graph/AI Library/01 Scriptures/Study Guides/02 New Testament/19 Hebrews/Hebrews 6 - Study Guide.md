@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 6
 slug: heb-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,9 @@ _Not yet developed._
 - [[D&C 104]] — 1 footnote cross-reference (from [[Hebrews 6#^heb-6-8|Hebrews 6:8]])
 - [[1 Thessalonians 1]] — 1 footnote cross-reference (from [[Hebrews 6#^heb-6-10|Hebrews 6:10]])
 - [[Hebrews 7]] — 2 parallel verses, e.g. [[Hebrews 6#^heb-6-20|Hebrews 6:20]] ↔ [[Hebrews 7#^heb-7-17|Hebrews 7:17]]
+- [[Ether 12]] — 0 parallel verses
+- [[Hebrews 5]] — 0 parallel verses
+- [[Hebrews 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,6 +69,7 @@ _Not yet developed._
 - [[Accessing God’s Power through Covenants (Elder Dale G. Renlund, April 2023)|Accessing God’s Power through Covenants]] — Elder Dale G. Renlund, 2023-April *(explicit citation)*
 - [[Tune Your Heart to Jesus Christ The Sacred Gift of Primary Music (Sister Tracy Y. Browning, October 2025)|Tune Your Heart to Jesus Christ: The Sacred Gift of Primary Music]] — Sister Tracy Y. Browning, 2025-October *(explicit citation)*
 - [[Our Father’s Plan—Big Enough for All His Children (Elder Quentin L. Cook, April 2009)|Our Father’s Plan—Big Enough for All His Children]] — Elder Quentin L. Cook, 2009-April *(explicit citation)*
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

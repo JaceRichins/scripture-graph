@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 20
 slug: john-20
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

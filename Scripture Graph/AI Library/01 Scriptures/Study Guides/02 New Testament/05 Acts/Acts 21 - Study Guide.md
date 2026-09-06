@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 21
 slug: acts-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,8 @@ _Not yet developed._
 - **Cilicia** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Cyprus** (reference-entry) *(explicit citation)*
+- **Epistles** (reference-entry) *(explicit citation)*
+- **Evangelist** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 8
 slug: heb-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,10 +48,11 @@ Scripture: [[Hebrews 8]] · My notes: [[Hebrews 8 - My Notes]]
 - [[Exodus 40]] — 1 footnote cross-reference (from [[Hebrews 8#^heb-8-2|Hebrews 8:2]])
 - [[Ephesians 5]] — 1 footnote cross-reference (from [[Hebrews 8#^heb-8-3|Hebrews 8:3]])
 - [[Exodus 35]] — 1 footnote cross-reference (from [[Hebrews 8#^heb-8-5|Hebrews 8:5]])
+- [[Jeremiah 31]] — 6 parallel verses, e.g. [[Hebrews 8#^heb-8-10|Hebrews 8:10]] ↔ [[Jeremiah 31#^jer-31-33|Jeremiah 31:33]]
 - [[Hebrews 10]] — 1 parallel verse, e.g. [[Hebrews 8#^heb-8-10|Hebrews 8:10]] ↔ [[Hebrews 10#^heb-10-16|Hebrews 10:16]]
 - [[Jeremiah 23]] — 2 parallel verses, e.g. [[Hebrews 8#^heb-8-8|Hebrews 8:8]] ↔ [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]]
-- [[Jeremiah 31]] — 0 parallel verses
 - [[Hebrews 10]] — 0 parallel verses
+- [[Hebrews 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

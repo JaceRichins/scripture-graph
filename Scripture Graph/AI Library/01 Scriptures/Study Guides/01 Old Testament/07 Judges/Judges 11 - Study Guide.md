@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 11
 slug: judg-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

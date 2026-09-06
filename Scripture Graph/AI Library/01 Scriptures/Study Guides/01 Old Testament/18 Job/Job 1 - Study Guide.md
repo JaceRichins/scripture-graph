@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 1
 slug: job-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Ezekiel 14]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
 - [[James 5]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
 - [[Job 4]] — 1 footnote cross-reference (from [[Job 1#^job-1-1|Job 1:1]])
+- [[Job 2]] — 5 parallel verses, e.g. [[Job 1#^job-1-8|Job 1:8]] ↔ [[Job 2#^job-2-3|Job 2:3]]
 - [[Joshua 10]] — 12 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Joshua 10#^josh-10-28|Joshua 10:28]]
 - [[Numbers 21]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Numbers 21#^num-21-24|Numbers 21:24]]
 - [[Joshua 11]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Joshua 11#^josh-11-12|Joshua 11:12]]
@@ -55,7 +56,6 @@ _Not yet developed._
 - [[Judges 18]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Judges 18#^judg-18-27|Judges 18:27]]
 - [[Genesis 34]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[Genesis 34#^gen-34-26|Genesis 34:26]]
 - [[2 Kings 10]] — 2 parallel verses, e.g. [[Job 1#^job-1-15|Job 1:15]] ↔ [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]]
-- [[Job 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,6 +77,7 @@ The chapter is a forceful warning against assuming that prosperity proves righte
 - [[“I Will Not Fail Thee, nor Forsake Thee” (President Thomas S. Monson, October 2013)|“I Will Not Fail Thee, nor Forsake Thee”]] — President Thomas S. Monson, 2013-October *(explicit citation)*
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[Faith in Adversity (Elder Rafael E. Pino, April 2009)|Faith in Adversity]] — Elder Rafael E. Pino, 2009-April *(explicit citation)*
+- [[Enduring Together (Bishop Richard C. Edgley, October 2007)|Enduring Together]] — Bishop Richard C. Edgley, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

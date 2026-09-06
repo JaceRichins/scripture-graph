@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 14
 slug: job-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Roots and Branches (Elder Quentin L. Cook, April 2014)|Roots and Branches]] — Elder Quentin L. Cook, 2014-April *(explicit citation)*
+- [[I Know That My Redeemer Lives! (President Thomas S. Monson, April 2007)|I Know That My Redeemer Lives!]] — President Thomas S. Monson, 2007-April *(explicit citation)*
 - [[The Race of Life (President Thomas S. Monson, April 2012)|The Race of Life]] — President Thomas S. Monson, 2012-April *(explicit citation)*
 - [[He Is Risen! (President Thomas S. Monson, April 2010)|He Is Risen!]] — President Thomas S. Monson, 2010-April *(explicit citation)*
 <!-- SG:END conference -->

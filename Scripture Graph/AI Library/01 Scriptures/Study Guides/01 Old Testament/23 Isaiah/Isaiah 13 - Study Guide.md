@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 13
 slug: isa-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ The movement from a named city, outward to universal/cosmic language, and back t
 - [[Haggai 2]] — 0 parallel verses
 - [[Jeremiah 51]] — 0 parallel verses
 - [[Jeremiah 50]] — 0 parallel verses
+- [[Joel 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

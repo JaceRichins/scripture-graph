@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 50
 slug: gen-50
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -79,7 +79,10 @@ Joseph's final command is rooted in the [[Abrahamic Covenant]]. His confidence t
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Embalming** (reference-entry) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
+- **Elders** (reference-entry) *(explicit citation)*
+- **Ephraim, stick of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

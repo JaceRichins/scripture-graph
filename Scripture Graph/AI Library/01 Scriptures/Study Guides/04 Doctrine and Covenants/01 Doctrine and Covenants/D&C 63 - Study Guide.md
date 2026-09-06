@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 63
 slug: dc-63
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -99,9 +99,9 @@ The chapter's theology of signs is carefully ordered: [[Faith]] does not arise f
 - [[Reverence for Sacred Things (Elder Ulisses Soares, April 2025)|Reverence for Sacred Things]] — Elder Ulisses Soares, 2025-April *(explicit citation)*
 - [[The Eternal Gift of Testimony (Elder Kevin G. Brown, October 2025)|The Eternal Gift of Testimony]] — Elder Kevin G. Brown, 2025-October *(explicit citation)*
 - [[“Daughters in My Kingdom” The History and Work of Relief Society (Julie B. Beck, October 2010)|“Daughters in My Kingdom”: The History and Work of Relief Society]] — Julie B. Beck, 2010-October *(explicit citation)*
+- [[The Tongue of Angels (Elder Jeffrey R. Holland, April 2007)|The Tongue of Angels]] — Elder Jeffrey R. Holland, 2007-April *(explicit citation)*
+- [[Opening Our Hearts (Elder Gerald N. Lund, April 2008)|Opening Our Hearts]] — Elder Gerald N. Lund, 2008-April *(explicit citation)*
 - [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
-- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
-- [[Love and Law (Elder Dallin H. Oaks, October 2009)|Love and Law]] — Elder Dallin H. Oaks, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

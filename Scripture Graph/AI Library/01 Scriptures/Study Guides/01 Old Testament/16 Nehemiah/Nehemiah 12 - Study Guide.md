@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 12
 slug: neh-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,8 @@ _Not yet developed._
 - **Alexander** (reference-entry) *(explicit citation)*
 - **Benjamin** (reference-entry) *(explicit citation)*
 - **Darius** (reference-entry) *(explicit citation)*
+- **Eleazar** (reference-entry) *(explicit citation)*
+- **Firstfruits** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

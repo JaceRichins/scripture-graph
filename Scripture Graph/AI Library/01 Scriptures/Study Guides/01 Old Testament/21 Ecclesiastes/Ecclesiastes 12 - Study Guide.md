@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 12
 slug: eccl-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ Verse 7 is the chapter's clearest doctrinal statement: at death "the dust shall 
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Ecclesiastes** (reference-entry) *(explicit citation)*
+- **Fear** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

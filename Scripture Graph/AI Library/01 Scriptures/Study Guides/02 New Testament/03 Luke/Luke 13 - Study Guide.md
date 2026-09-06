@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 13
 slug: luke-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
 - [[Be Ye Therefore Perfect—Eventually (Elder Jeffrey R. Holland, October 2017)|Be Ye Therefore Perfect—Eventually]] — Elder Jeffrey R. Holland, 2017-October *(explicit citation)*
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*

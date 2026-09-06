@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 15
 slug: josh-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ _Not yet developed._
 - **Beth-shemesh** (reference-entry) *(explicit citation)*
 - **Caleb** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
+- **Gaza** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

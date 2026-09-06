@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 18
 slug: 1kgs-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ The chapter bears on [[Prophets]], [[Sacrifice]], [[Miracles]], and [[Prayer]]. 
 - [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
 - [[Hearing His Voice (Elder David P. Homer, April 2019)|Hearing His Voice]] — Elder David P. Homer, 2019-April *(explicit citation)*
 - [[Waiting on the Lord (Elder Jeffrey R. Holland, October 2020)|Waiting on the Lord]] — Elder Jeffrey R. Holland, 2020-October *(explicit citation)*
+- [[“My Words … Never Cease” (Elder Jeffrey R. Holland, April 2008)|“My Words … Never Cease”]] — Elder Jeffrey R. Holland, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -85,6 +86,7 @@ The chapter bears on [[Prophets]], [[Sacrifice]], [[Miracles]], and [[Prayer]]. 
 - **Ahab** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
+- **Elijah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

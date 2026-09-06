@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 24
 slug: deut-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 6
 slug: john-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,10 +58,10 @@ The chapter joins present [[Eternal Life]] with future [[Resurrection]]. Believe
 - [[John 5]] — 3 parallel verses, e.g. [[John 6#^john-6-32|John 6:32]] ↔ [[John 5#^john-5-19|John 5:19]]
 - [[John 8]] — 2 parallel verses, e.g. [[John 6#^john-6-32|John 6:32]] ↔ [[John 8#^john-8-58|John 8:58]]
 - [[John 14]] — 2 parallel verses, e.g. [[John 6#^john-6-47|John 6:47]] ↔ [[John 14#^john-14-12|John 14:12]]
+- [[Mark 14]] — 2 parallel verses, e.g. [[John 6#^john-6-62|John 6:62]] ↔ [[Mark 14#^mark-14-62|Mark 14:62]]
 - [[John 4]] — 2 parallel verses, e.g. [[John 6#^john-6-38|John 6:38]] ↔ [[John 4#^john-4-34|John 4:34]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[John 6#^john-6-32|John 6:32]] ↔ [[3 Nephi 27#^3ne-27-4|3 Nephi 27:4]]
 - [[Jonah 1]] — 1 parallel verse, e.g. [[John 6#^john-6-28|John 6:28]] ↔ [[Jonah 1#^jonah-1-11|Jonah 1:11]]
-- [[Mark 14]] — 0 parallel verses
 - [[John 13]] — 0 parallel verses
 - [[Exodus 16]] — 0 parallel verses
 - [[Matthew 14]] — 0 parallel verses

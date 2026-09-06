@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 5
 slug: 3ne-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -98,8 +98,8 @@ The closing promise defines the [[Gathering of Israel]] as more than relocation.
 - [[Encounter at the Empty Tomb (President Dieter F. Uchtdorf, April 2026)|Encounter at the Empty Tomb]] — President Dieter F. Uchtdorf, 2026-April *(explicit citation)*
 - [[Called of Him to Declare His Word (Elder Randy D. Funk, October 2013)|Called of Him to Declare His Word]] — Elder Randy D. Funk, 2013-October *(explicit citation)*
 - [[Wanted Hands and Hearts to Hasten the Work (Linda K. Burton, April 2014)|Wanted: Hands and Hearts to Hasten the Work]] — Linda K. Burton, 2014-April *(explicit citation)*
+- [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[Do We Trust Him Hard Is Good (Elder Stanley G. Ellis, October 2017)|Do We Trust Him? Hard Is Good]] — Elder Stanley G. Ellis, 2017-October *(explicit citation)*
-- [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

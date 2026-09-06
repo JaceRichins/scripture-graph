@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 14
 slug: deut-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
+- **Flesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

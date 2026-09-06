@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 121
 slug: dc-121
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -91,8 +91,8 @@ Verses 28 and 32 also contain unresolved language about “one God or many gods�
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Where Is the Pavilion (President Henry B. Eyring, October 2012)|Where Is the Pavilion?]] — President Henry B. Eyring, 2012-October *(explicit citation)*
 - [[Be Ready (President Henry B. Eyring, October 2009)|Be Ready]] — President Henry B. Eyring, 2009-October *(explicit citation)*
+- [[Opening Our Hearts (Elder Gerald N. Lund, April 2008)|Opening Our Hearts]] — Elder Gerald N. Lund, 2008-April *(explicit citation)*
 - [[The Joy of the Priesthood (President Dieter F. Uchtdorf, October 2012)|The Joy of the Priesthood]] — President Dieter F. Uchtdorf, 2012-October *(explicit citation)*
-- [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

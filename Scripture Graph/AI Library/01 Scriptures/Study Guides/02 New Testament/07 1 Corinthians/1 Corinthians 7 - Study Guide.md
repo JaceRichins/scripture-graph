@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 7
 slug: 1cor-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
 - **Divorce** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

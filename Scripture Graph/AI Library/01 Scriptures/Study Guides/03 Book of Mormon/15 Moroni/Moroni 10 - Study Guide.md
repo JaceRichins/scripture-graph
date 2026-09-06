@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 10
 slug: moro-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

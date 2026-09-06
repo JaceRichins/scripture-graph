@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 3
 slug: josh-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ The twelve men named in 3:12 are left unexplained within this chapter; their rol
 - [[D&C 43]] — 1 footnote cross-reference (from [[Joshua 3#^josh-3-5|Joshua 3:5]])
 - [[Joshua 4]] — 1 footnote cross-reference (from [[Joshua 3#^josh-3-7|Joshua 3:7]])
 - [[1 Chronicles 29]] — 1 footnote cross-reference (from [[Joshua 3#^josh-3-7|Joshua 3:7]])
+- [[Joshua 4]] — 10 parallel verses, e.g. [[Joshua 3#^josh-3-17|Joshua 3:17]] ↔ [[Joshua 4#^josh-4-18|Joshua 4:18]]
 - [[1 Chronicles 15]] — 12 parallel verses, e.g. [[Joshua 3#^josh-3-17|Joshua 3:17]] ↔ [[1 Chronicles 15#^1chr-15-26|1 Chronicles 15:26]]
 - [[Deuteronomy 31]] — 9 parallel verses, e.g. [[Joshua 3#^josh-3-3|Joshua 3:3]] ↔ [[Deuteronomy 31#^deut-31-26|Deuteronomy 31:26]]
 - [[1 Samuel 4]] — 9 parallel verses, e.g. [[Joshua 3#^josh-3-11|Joshua 3:11]] ↔ [[1 Samuel 4#^1sam-4-4|1 Samuel 4:4]]
@@ -63,7 +64,6 @@ The twelve men named in 3:12 are left unexplained within this chapter; their rol
 - [[Joshua 8]] — 3 parallel verses, e.g. [[Joshua 3#^josh-3-17|Joshua 3:17]] ↔ [[Joshua 8#^josh-8-33|Joshua 8:33]]
 - [[Numbers 10]] — 3 parallel verses, e.g. [[Joshua 3#^josh-3-3|Joshua 3:3]] ↔ [[Numbers 10#^num-10-33|Numbers 10:33]]
 - [[Numbers 14]] — 3 parallel verses, e.g. [[Joshua 3#^josh-3-3|Joshua 3:3]] ↔ [[Numbers 14#^num-14-44|Numbers 14:44]]
-- [[Deuteronomy 10]] — 3 parallel verses, e.g. [[Joshua 3#^josh-3-3|Joshua 3:3]] ↔ [[Deuteronomy 10#^deut-10-8|Deuteronomy 10:8]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 24
 slug: 2sam-24
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Angels** (reference-entry) *(explicit citation)*
+- **Gad** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

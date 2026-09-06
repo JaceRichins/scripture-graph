@@ -17,15 +17,15 @@ cssclasses:
 > Ezekiel is made a watchman unto the house of Israel—The blood of Israel is required at his hand unless he raises the warning voice.
 
 ![[Ezekiel 3#^ezek-3-1]]
-> [[Ezekiel 37#^ezek-37-3|≈ Ezekiel 37:3]] · [[Ezekiel 37#^ezek-37-11|≈ Ezekiel 37:11]] · [[Ezekiel 4#^ezek-4-16|≈ Ezekiel 4:16]] · [[Ezekiel 43#^ezek-43-7|≈ Ezekiel 43:7]] · [[Ezekiel 43#^ezek-43-18|≈ Ezekiel 43:18]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]]
+> [[Ezekiel 43#^ezek-43-7|≈ Ezekiel 43:7]] · [[Ezekiel 43#^ezek-43-18|≈ Ezekiel 43:18]] · [[Ezekiel 37#^ezek-37-3|≈ Ezekiel 37:3]] · [[Ezekiel 37#^ezek-37-11|≈ Ezekiel 37:11]] · [[Ezekiel 4#^ezek-4-16|≈ Ezekiel 4:16]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]]
 
 ![[Ezekiel 3#^ezek-3-2]]
 
 ![[Ezekiel 3#^ezek-3-3]]
-> [[Jeremiah 15#^jer-15-16|Jer. 15:16]] · [[Ezekiel 2#^ezek-2-8|Ezek. 2:8]] · [[Revelation 10#^rev-10-9|Rev. 10:10 (9–10)]] · [[Ezekiel 37#^ezek-37-3|≈ Ezekiel 37:3]] · [[Ezekiel 37#^ezek-37-11|≈ Ezekiel 37:11]] · [[Ezekiel 4#^ezek-4-16|≈ Ezekiel 4:16]] · [[Ezekiel 43#^ezek-43-7|≈ Ezekiel 43:7]] · [[Ezekiel 43#^ezek-43-18|≈ Ezekiel 43:18]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]]
+> [[Jeremiah 15#^jer-15-16|Jer. 15:16]] · [[Ezekiel 2#^ezek-2-8|Ezek. 2:8]] · [[Revelation 10#^rev-10-9|Rev. 10:10 (9–10)]] · [[Ezekiel 43#^ezek-43-7|≈ Ezekiel 43:7]] · [[Ezekiel 43#^ezek-43-18|≈ Ezekiel 43:18]] · [[Ezekiel 37#^ezek-37-3|≈ Ezekiel 37:3]] · [[Ezekiel 37#^ezek-37-11|≈ Ezekiel 37:11]] · [[Ezekiel 4#^ezek-4-16|≈ Ezekiel 4:16]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]]
 
 ![[Ezekiel 3#^ezek-3-4]]
-> [[Ezekiel 37#^ezek-37-3|≈ Ezekiel 37:3]] · [[Ezekiel 37#^ezek-37-11|≈ Ezekiel 37:11]] · [[Ezekiel 4#^ezek-4-16|≈ Ezekiel 4:16]] · [[Ezekiel 43#^ezek-43-7|≈ Ezekiel 43:7]] · [[Ezekiel 43#^ezek-43-18|≈ Ezekiel 43:18]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]]
+> [[Ezekiel 43#^ezek-43-7|≈ Ezekiel 43:7]] · [[Ezekiel 43#^ezek-43-18|≈ Ezekiel 43:18]] · [[Ezekiel 37#^ezek-37-3|≈ Ezekiel 37:3]] · [[Ezekiel 37#^ezek-37-11|≈ Ezekiel 37:11]] · [[Ezekiel 4#^ezek-4-16|≈ Ezekiel 4:16]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]]
 
 ![[Ezekiel 3#^ezek-3-5]]
 
@@ -40,7 +40,7 @@ cssclasses:
 > [[Ezekiel 2#^ezek-2-6|≈ Ezekiel 2:6]]
 
 ![[Ezekiel 3#^ezek-3-10]]
-> [[Ezekiel 37#^ezek-37-3|≈ Ezekiel 37:3]] · [[Ezekiel 37#^ezek-37-11|≈ Ezekiel 37:11]] · [[Ezekiel 4#^ezek-4-16|≈ Ezekiel 4:16]] · [[Ezekiel 43#^ezek-43-7|≈ Ezekiel 43:7]] · [[Ezekiel 43#^ezek-43-18|≈ Ezekiel 43:18]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]]
+> [[Ezekiel 43#^ezek-43-7|≈ Ezekiel 43:7]] · [[Ezekiel 43#^ezek-43-18|≈ Ezekiel 43:18]] · [[Ezekiel 37#^ezek-37-3|≈ Ezekiel 37:3]] · [[Ezekiel 37#^ezek-37-11|≈ Ezekiel 37:11]] · [[Ezekiel 4#^ezek-4-16|≈ Ezekiel 4:16]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]]
 
 ![[Ezekiel 3#^ezek-3-11]]
 > [[Ezekiel 2#^ezek-2-5|≈ Ezekiel 2:5]] · [[Ezekiel 2#^ezek-2-7|≈ Ezekiel 2:7]]
@@ -86,4 +86,4 @@ cssclasses:
 > [[Ezekiel 24#^ezek-24-27|Ezek. 24:27]]
 
 ![[Ezekiel 3#^ezek-3-27]]
-> [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]] · [[Jeremiah 25#^jer-25-28|≈ Jeremiah 25:28]] · [[Ezekiel 33#^ezek-33-25|≈ Ezekiel 33:25]] · [[Ezekiel 37#^ezek-37-12|≈ Ezekiel 37:12]]
+> [[Ezekiel 33#^ezek-33-25|≈ Ezekiel 33:25]] · [[Jeremiah 26#^jer-26-4|≈ Jeremiah 26:4]] · [[Jeremiah 8#^jer-8-4|≈ Jeremiah 8:4]] · [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]] · [[Jeremiah 25#^jer-25-28|≈ Jeremiah 25:28]] · [[Ezekiel 37#^ezek-37-12|≈ Ezekiel 37:12]]

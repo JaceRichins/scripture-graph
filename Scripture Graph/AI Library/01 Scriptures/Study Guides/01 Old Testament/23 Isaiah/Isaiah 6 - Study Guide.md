@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 6
 slug: isa-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Matthew 13]] — 1 parallel verse, e.g. [[Isaiah 6#^isa-6-10|Isaiah 6:10]] ↔ [[Matthew 13#^matt-13-15|Matthew 13:15]]
 - [[Abraham 3]] — 0 parallel verses
 - [[1 Nephi 1]] — 0 parallel verses
+- [[Jeremiah 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

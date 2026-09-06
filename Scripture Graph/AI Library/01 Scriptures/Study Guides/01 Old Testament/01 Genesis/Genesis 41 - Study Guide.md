@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 41
 slug: gen-41
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ Joseph's statement in verse 16 models [[Humility]] by refusing to claim independ
 <!-- SG:BEGIN conference -->
 - [[There Was Bread (Bishop W. Christopher Waddell, October 2020)|There Was Bread]] — Bishop W. Christopher Waddell, 2020-October *(explicit citation)*
 - [[God Will Do Something Unimaginable (Elder Dieter F. Uchtdorf, October 2020)|God Will Do Something Unimaginable]] — Elder Dieter F. Uchtdorf, 2020-October *(explicit citation)*
+- [[“Hope Ya Know, We Had a Hard Time” (Elder Quentin L. Cook, October 2008)|“Hope Ya Know, We Had a Hard Time”]] — Elder Quentin L. Cook, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -80,6 +81,7 @@ Joseph's statement in verse 16 models [[Humility]] by refusing to claim independ
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Commerce** (reference-entry) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
+- **Ephraim** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

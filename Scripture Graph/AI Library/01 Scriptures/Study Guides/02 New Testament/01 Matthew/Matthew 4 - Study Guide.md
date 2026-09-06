@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 4
 slug: matt-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,9 +60,9 @@ _Not yet developed._
 - [[Matthew 2]] — 2 parallel verses, e.g. [[Matthew 4#^matt-4-14|Matthew 4:14]] ↔ [[Matthew 2#^matt-2-23|Matthew 2:23]]
 - [[Matthew 12]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-14|Matthew 4:14]] ↔ [[Matthew 12#^matt-12-17|Matthew 12:17]]
 - [[Deuteronomy 8]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-4|Matthew 4:4]] ↔ [[Deuteronomy 8#^deut-8-3|Deuteronomy 8:3]]
-- [[Alma 10]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-17|Matthew 4:17]] ↔ [[Alma 10#^alma-10-20|Alma 10:20]]
 - [[Matthew 13]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-14|Matthew 4:14]] ↔ [[Matthew 13#^matt-13-35|Matthew 13:35]]
 - [[Matthew 21]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-14|Matthew 4:14]] ↔ [[Matthew 21#^matt-21-4|Matthew 21:4]]
+- [[Alma 10]] — 1 parallel verse, e.g. [[Matthew 4#^matt-4-17|Matthew 4:17]] ↔ [[Alma 10#^alma-10-20|Alma 10:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,11 +82,11 @@ _Not yet developed._
 - [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
 - [[Know Who You Really Are (Elder Brik V. Eyre, October 2025)|Know Who You Really Are]] — Elder Brik V. Eyre, 2025-October *(explicit citation)*
 - [[Being a More Christian Christian (Elder Robert D. Hales, October 2012)|Being a More Christian Christian]] — Elder Robert D. Hales, 2012-October *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
 - [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
-- [[That They Do Always Remember Him (Elder Claudio R. M. Costa, October 2015)|That They Do Always Remember Him]] — Elder Claudio R. M. Costa, 2015-October *(explicit citation)*
-- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 34
 slug: ps-34
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
+- [[Opening Our Hearts (Elder Gerald N. Lund, April 2008)|Opening Our Hearts]] — Elder Gerald N. Lund, 2008-April *(explicit citation)*
 - [[Strengthened by the Atonement of Jesus Christ (Elder Dallin H. Oaks, October 2015)|Strengthened by the Atonement of Jesus Christ]] — Elder Dallin H. Oaks, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 

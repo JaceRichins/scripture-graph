@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 27
 slug: mosiah-27
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Alma 46]] — 2 parallel verses, e.g. [[Mosiah 27#^mosiah-27-2|Mosiah 27:2]] ↔ [[Alma 46#^alma-46-14|Alma 46:14]]
 - [[Helaman 15]] — 2 parallel verses, e.g. [[Mosiah 27#^mosiah-27-14|Mosiah 27:14]] ↔ [[Helaman 15#^hel-15-6|Helaman 15:6]]
 - [[Moses 6]] — 1 parallel verse, e.g. [[Mosiah 27#^mosiah-27-26|Mosiah 27:26]] ↔ [[Moses 6#^moses-6-57|Moses 6:57]]
+- [[Alma 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

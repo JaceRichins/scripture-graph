@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 20
 slug: num-20
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ The chapter has a loose envelope shape: Miriam's death (v.1) and Aaron's death (
 - [[Leviticus 9]] — 1 parallel verse, e.g. [[Numbers 20#^num-20-6|Numbers 20:6]] ↔ [[Leviticus 9#^lev-9-23|Leviticus 9:23]]
 - [[Exodus 17]] — 0 parallel verses
 - [[Judges 11]] — 0 parallel verses
+- [[Exodus 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,6 +80,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
+- **Eleazar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

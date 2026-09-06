@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 3
 slug: job-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Psalm 107]] — 1 footnote cross-reference (from [[Job 3#^job-3-5|Job 3:5]])
 - [[D&C 57]] — 1 footnote cross-reference (from [[Job 3#^job-3-5|Job 3:5]])
 - [[Job 10]] — 1 footnote cross-reference (from [[Job 3#^job-3-11|Job 3:11]])
+- [[Jeremiah 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

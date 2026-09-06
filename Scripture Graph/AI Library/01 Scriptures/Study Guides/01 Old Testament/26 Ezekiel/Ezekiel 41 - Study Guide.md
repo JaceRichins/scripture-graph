@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 41
 slug: ezek-41
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[1 Kings 10]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]] ↔ [[1 Kings 10#^1kgs-10-20|1 Kings 10:20]]
 - [[2 Chronicles 9]] — 2 parallel verses, e.g. [[Ezekiel 41#^ezek-41-15|Ezekiel 41:15]] ↔ [[2 Chronicles 9#^2chr-9-19|2 Chronicles 9:19]]
 - [[1 Kings 6]] — 0 parallel verses
+- [[Ezekiel 40]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

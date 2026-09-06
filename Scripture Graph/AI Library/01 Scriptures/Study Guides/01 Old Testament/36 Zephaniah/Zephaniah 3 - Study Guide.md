@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zephaniah
 chapter: 3
 slug: zeph-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

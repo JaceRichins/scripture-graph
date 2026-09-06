@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 16
 slug: 1kgs-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Ahab** (reference-entry) *(explicit citation)*
 - **Baal** (reference-entry) *(explicit citation)*
+- **Elijah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 22
 slug: ex-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,9 @@ The same chapter also contains sale for unpaid theft, paternal authority in the 
 <!-- SG:BEGIN history -->
 - **Animals** (reference-entry) *(explicit citation)*
 - **Clean and unclean** (reference-entry) *(explicit citation)*
+- **Firstborn** (reference-entry) *(explicit citation)*
+- **Firstfruits** (reference-entry) *(explicit citation)*
+- **Gentile** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

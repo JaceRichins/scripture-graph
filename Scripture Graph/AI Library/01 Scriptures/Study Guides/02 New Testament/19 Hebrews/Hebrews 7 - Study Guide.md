@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 7
 slug: heb-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ Scripture: [[Hebrews 7]] · My notes: [[Hebrews 7 - My Notes]]
 - [[D&C 84]] — 1 footnote cross-reference (from [[Hebrews 7#^heb-7-3|Hebrews 7:3]])
 - [[Isaiah 11]] — 1 footnote cross-reference (from [[Hebrews 7#^heb-7-14|Hebrews 7:14]])
 - [[Psalm 110]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-21|Hebrews 7:21]] ↔ [[Psalm 110#^ps-110-4|Psalm 110:4]]
+- [[Hebrews 5]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-17|Hebrews 7:17]] ↔ [[Hebrews 5#^heb-5-6|Hebrews 5:6]]
 - [[Hebrews 6]] — 2 parallel verses, e.g. [[Hebrews 7#^heb-7-17|Hebrews 7:17]] ↔ [[Hebrews 6#^heb-6-20|Hebrews 6:20]]
 - [[Hebrews 5]] — 0 parallel verses
 - [[Hebrews 6]] — 0 parallel verses
@@ -59,7 +60,6 @@ Scripture: [[Hebrews 7]] · My notes: [[Hebrews 7 - My Notes]]
 - [[Hebrews 10]] — 0 parallel verses
 - [[Romans 8]] — 0 parallel verses
 - [[Alma 13]] — 0 parallel verses
-- [[Hebrews 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

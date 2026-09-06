@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 23
 slug: luke-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[2 Chronicles 3]] — 1 parallel verse, e.g. [[Luke 23#^luke-23-33|Luke 23:33]] ↔ [[2 Chronicles 3#^2chr-3-17|2 Chronicles 3:17]]
 - [[Matthew 26]] — 1 parallel verse, e.g. [[Luke 23#^luke-23-43|Luke 23:43]] ↔ [[Matthew 26#^matt-26-34|Matthew 26:34]]
 - [[Acts 7]] — 0 parallel verses
+- [[John 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,13 +74,13 @@ _Not yet developed._
 - [[The Grave Has No Victory (Reyna I. Aburto, April 2021)|The Grave Has No Victory]] — Reyna I. Aburto, 2021-April *(explicit citation)*
 - [[That They Do Always Remember Him (Elder Claudio R. M. Costa, October 2015)|That They Do Always Remember Him]] — Elder Claudio R. M. Costa, 2015-October *(explicit citation)*
 - [[He Is Risen! (President Thomas S. Monson, April 2010)|He Is Risen!]] — President Thomas S. Monson, 2010-April *(explicit citation)*
+- [[I Know That My Redeemer Lives! (President Thomas S. Monson, April 2007)|I Know That My Redeemer Lives!]] — President Thomas S. Monson, 2007-April *(explicit citation)*
 - [[Behold the Man! (Elder Dieter F. Uchtdorf, April 2018)|Behold the Man!]] — Elder Dieter F. Uchtdorf, 2018-April *(explicit citation)*
 - [[None Were with Him (Elder Jeffrey R. Holland, April 2009)|None Were with Him]] — Elder Jeffrey R. Holland, 2009-April *(explicit citation)*
 - [[Even as Christ Forgives You, So Also Do Ye (Elder Larry J. Echo Hawk, April 2018)|Even as Christ Forgives You, So Also Do Ye]] — Elder Larry J. Echo Hawk, 2018-April *(explicit citation)*
 - [[Revelation for the Church, Revelation for Our Lives (President Russell M. Nelson, April 2018)|Revelation for the Church, Revelation for Our Lives]] — President Russell M. Nelson, 2018-April *(explicit citation)*
 - [[Watch Ye Therefore, and Pray Always (President M. Russell Ballard, October 2020)|Watch Ye Therefore, and Pray Always]] — President M. Russell Ballard, 2020-October *(explicit citation)*
 - [[Tested, Proved, and Polished (President Henry B. Eyring, October 2020)|Tested, Proved, and Polished]] — President Henry B. Eyring, 2020-October *(explicit citation)*
-- [[Trust Again (Elder Gerrit W. Gong, October 2021)|Trust Again]] — Elder Gerrit W. Gong, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 47
 slug: ezek-47
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ Verses 22–23 make a more explicit social provision: resident strangers who hav
 ## Church History
 <!-- SG:BEGIN history -->
 - **Damascus** (reference-entry) *(explicit citation)*
+- **Ezekiel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

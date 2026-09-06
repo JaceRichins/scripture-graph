@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 10
 slug: mark-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 - [[Mark 14]] — 2 parallel verses, e.g. [[Mark 10#^mark-10-3|Mark 10:3]] ↔ [[Mark 14#^mark-14-20|Mark 14:20]]
 - [[Mark 9]] — 2 parallel verses, e.g. [[Mark 10#^mark-10-24|Mark 10:24]] ↔ [[Mark 9#^mark-9-47|Mark 9:47]]
 - [[Luke 17]] — 1 parallel verse, e.g. [[Mark 10#^mark-10-52|Mark 10:52]] ↔ [[Luke 17#^luke-17-19|Luke 17:19]]
+- [[Genesis 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -96,6 +97,7 @@ _Not yet developed._
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Divorce** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

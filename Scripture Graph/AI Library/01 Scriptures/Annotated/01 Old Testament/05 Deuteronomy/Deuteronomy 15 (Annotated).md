@@ -24,7 +24,7 @@ cssclasses:
 ![[Deuteronomy 15#^deut-15-3]]
 
 ![[Deuteronomy 15#^deut-15-4]]
-> [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 16#^deut-16-20|≈ Deuteronomy 16:20]] · [[Deuteronomy 17#^deut-17-14|≈ Deuteronomy 17:14]] · [[Deuteronomy 18#^deut-18-9|≈ Deuteronomy 18:9]] · [[Deuteronomy 21#^deut-21-1|≈ Deuteronomy 21:1]]
+> [[Deuteronomy 16#^deut-16-20|≈ Deuteronomy 16:20]] · [[Deuteronomy 25#^deut-25-19|≈ Deuteronomy 25:19]] · [[Deuteronomy 25#^deut-25-15|≈ Deuteronomy 25:15]] · [[Deuteronomy 24#^deut-24-4|≈ Deuteronomy 24:4]] · [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]]
 
 ![[Deuteronomy 15#^deut-15-5]]
 > [[Deuteronomy 27#^deut-27-10|≈ Deuteronomy 27:10]] · [[Deuteronomy 28#^deut-28-15|≈ Deuteronomy 28:15]] · [[Deuteronomy 28#^deut-28-1|≈ Deuteronomy 28:1]] · [[Deuteronomy 28#^deut-28-2|≈ Deuteronomy 28:2]] · [[Deuteronomy 28#^deut-28-45|≈ Deuteronomy 28:45]] · [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]]
@@ -33,7 +33,7 @@ cssclasses:
 > [[Deuteronomy 28#^deut-28-12|≈ Deuteronomy 28:12]]
 
 ![[Deuteronomy 15#^deut-15-7]]
-> [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 16#^deut-16-5|≈ Deuteronomy 16:5]] · [[Deuteronomy 16#^deut-16-20|≈ Deuteronomy 16:20]] · [[Deuteronomy 17#^deut-17-2|≈ Deuteronomy 17:2]] · [[Deuteronomy 17#^deut-17-14|≈ Deuteronomy 17:14]]
+> [[Deuteronomy 16#^deut-16-5|≈ Deuteronomy 16:5]] · [[Deuteronomy 16#^deut-16-20|≈ Deuteronomy 16:20]] · [[Deuteronomy 25#^deut-25-15|≈ Deuteronomy 25:15]] · [[Deuteronomy 25#^deut-25-19|≈ Deuteronomy 25:19]] · [[Exodus 20#^ex-20-12|≈ Exodus 20:12]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]]
 
 ![[Deuteronomy 15#^deut-15-8]]
 

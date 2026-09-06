@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 51
 slug: ps-51
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Ezekiel 36]] — 0 parallel verses
 - [[3 Nephi 9]] — 0 parallel verses
 - [[D&C 59]] — 0 parallel verses
+- [[Isaiah 57]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

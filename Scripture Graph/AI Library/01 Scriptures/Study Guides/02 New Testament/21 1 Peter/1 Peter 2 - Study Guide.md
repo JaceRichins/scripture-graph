@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 2
 slug: 1pet-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,8 @@ _Not yet developed._
 - [[1 Peter 3]] — 0 parallel verses
 - [[2 Nephi 18]] — 0 parallel verses
 - [[1 Corinthians 3]] — 0 parallel verses
+- [[Ephesians 2]] — 0 parallel verses
+- [[Isaiah 53]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

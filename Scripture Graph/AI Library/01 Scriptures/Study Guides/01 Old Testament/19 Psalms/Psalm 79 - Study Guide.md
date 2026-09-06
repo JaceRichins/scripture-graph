@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 79
 slug: ps-79
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

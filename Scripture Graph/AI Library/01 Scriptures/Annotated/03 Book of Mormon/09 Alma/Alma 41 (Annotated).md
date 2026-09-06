@@ -17,7 +17,7 @@ cssclasses:
 > In the Resurrection men come forth to a state of endless happiness or endless misery—Wickedness never was happiness—Carnal men are without God in the world—Every person receives again in the Restoration the characteristics and attributes acquired in mortality. About 74 B.C.
 
 ![[Alma 41#^alma-41-1]]
-> [[2 Peter 1#^2pet-1-20|2 Pet. 1:20]] · [[2 Peter 3#^2pet-3-16|3:16]] · [[Alma 13#^alma-13-20|Alma 13:20]] · [[Alma 40#^alma-40-24|≈ Alma 40:24]] · [[Alma 37#^alma-37-38|≈ Alma 37:38]]
+> [[2 Peter 1#^2pet-1-20|2 Pet. 1:20]] · [[2 Peter 3#^2pet-3-16|3:16]] · [[Alma 13#^alma-13-20|Alma 13:20]] · [[Alma 37#^alma-37-38|≈ Alma 37:38]] · [[Alma 40#^alma-40-24|≈ Alma 40:24]]
 
 ![[Alma 41#^alma-41-2]]
 > [[Alma 40#^alma-40-23|Alma 40:23]]

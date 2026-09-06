@@ -38,7 +38,7 @@ cssclasses:
 > [[Alma 33#^alma-33-13|Alma 33:13]] · [[Helaman 8#^hel-8-19|Hel. 8:19]] · [[Alma 33#^alma-33-15|Alma 33:15]] · [[Helaman 8#^hel-8-19|Hel. 8:20 (19–20)]] · [[Alma 33#^alma-33-19|Alma 33:19]]
 
 ![[Alma 34#^alma-34-8]]
-> [[Alma 5#^alma-5-32|≈ Alma 5:32]] · [[Alma 5#^alma-5-45|≈ Alma 5:45]] · [[Mosiah 2#^mosiah-2-41|≈ Mosiah 2:41]]
+> [[Mosiah 2#^mosiah-2-41|≈ Mosiah 2:41]] · [[Alma 5#^alma-5-32|≈ Alma 5:32]] · [[Alma 5#^alma-5-45|≈ Alma 5:45]]
 
 ![[Alma 34#^alma-34-9]]
 > [[2 Nephi 2#^2ne-2-10|2 Ne. 2:10]] · [[2 Nephi 9#^2ne-9-7|9:7 (7–9)]] · [[Alma 22#^alma-22-14|Alma 22:14]] · [[Alma 33#^alma-33-22|33:22]] · [[Alma 12#^alma-12-22|Alma 12:26 (22–33)]] · [[Alma 42#^alma-42-6|42:8 (6–28)]] · [[Moses 6#^moses-6-62|Moses 6:62]]
@@ -96,7 +96,7 @@ cssclasses:
 ![[Alma 34#^alma-34-29]]
 
 ![[Alma 34#^alma-34-30]]
-> [[Matthew 3#^matt-3-8|Matt. 3:8]] · [[Alma 13#^alma-13-13|Alma 13:13]] · [[Alma 5#^alma-5-43|≈ Alma 5:43]] · [[Mosiah 2#^mosiah-2-31|≈ Mosiah 2:31]] · [[Alma 13#^alma-13-13|≈ Alma 13:13]]
+> [[Matthew 3#^matt-3-8|Matt. 3:8]] · [[Alma 13#^alma-13-13|Alma 13:13]] · [[Mosiah 2#^mosiah-2-31|≈ Mosiah 2:31]] · [[Alma 5#^alma-5-43|≈ Alma 5:43]] · [[Alma 13#^alma-13-13|≈ Alma 13:13]]
 
 ![[Alma 34#^alma-34-31]]
 > [[Romans 13#^rom-13-11|Rom. 13:12 (11–12)]] · [[Matthew 11#^matt-11-20|Matt. 11:20]] · [[3 Nephi 9#^3ne-9-3|3 Ne. 9:3]] · [[D&C 84#^dc-84-114|D&amp;C 84:114]] · [[Alma 12#^alma-12-33|≈ Alma 12:33]]

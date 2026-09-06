@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 25
 slug: 3ne-25
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ Verse 4 functions as a hinge, looking backward to the covenant given at Horeb be
 - [[D&C 29]] — 1 parallel verse, e.g. [[3 Nephi 25#^3ne-25-1|3 Nephi 25:1]] ↔ [[D&C 29#^dc-29-9|D&C 29:9]]
 - [[D&C 138]] — 1 parallel verse, e.g. [[3 Nephi 25#^3ne-25-5|3 Nephi 25:5]] ↔ [[D&C 138#^dc-138-46|D&C 138:46]]
 - [[D&C 110]] — 0 parallel verses
+- [[D&C 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

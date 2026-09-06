@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 68
 slug: dc-68
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
 - [[Essential Conversations (Joy D. Jones, April 2021)|Essential Conversations]] — Joy D. Jones, 2021-April *(explicit citation)*
 - [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*
@@ -98,7 +99,6 @@ _Not yet developed._
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 - [[A Sin-Resistant Generation (Joy D. Jones, April 2017)|A Sin-Resistant Generation]] — Joy D. Jones, 2017-April *(explicit citation)*
 - [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
-- [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 12
 slug: 2ne-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ Scripture: [[2 Nephi 12]] · My notes: [[2 Nephi 12 - My Notes]]
 - [[Isaiah 2]] — 26 parallel verses, e.g. [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]] ↔ [[Isaiah 2#^isa-2-3|Isaiah 2:3]]
 - [[Micah 4]] — 3 parallel verses, e.g. [[2 Nephi 12#^2ne-12-3|2 Nephi 12:3]] ↔ [[Micah 4#^micah-4-2|Micah 4:2]]
 - [[Isaiah 31]] — 1 parallel verse, e.g. [[2 Nephi 12#^2ne-12-20|2 Nephi 12:20]] ↔ [[Isaiah 31#^isa-31-7|Isaiah 31:7]]
+- [[Isaiah 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 10
 slug: acts-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,9 +66,9 @@ Scripture: [[Acts 10]] · My notes: [[Acts 10 - My Notes]]
 - [[Repentance and Forgiveness]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

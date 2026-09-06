@@ -27,13 +27,13 @@ cssclasses:
 ![[Jeremiah 23#^jer-23-4]]
 
 ![[Jeremiah 23#^jer-23-5]]
-> [[Isaiah 4#^isa-4-2|Isa. 4:2]] · [[Isaiah 11#^isa-11-1|11:1]] · [[Isaiah 32#^isa-32-1|32:1]] · [[Jeremiah 30#^jer-30-9|Jer. 30:9]] · [[Ezekiel 34#^ezek-34-23|Ezek. 34:24 (23–24)]] · [[Matthew 2#^matt-2-2|Matt. 2:2]] · [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]] · [[Jeremiah 30#^jer-30-3|≈ Jeremiah 30:3]] · [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]]
+> [[Isaiah 4#^isa-4-2|Isa. 4:2]] · [[Isaiah 11#^isa-11-1|11:1]] · [[Isaiah 32#^isa-32-1|32:1]] · [[Jeremiah 30#^jer-30-9|Jer. 30:9]] · [[Ezekiel 34#^ezek-34-23|Ezek. 34:24 (23–24)]] · [[Matthew 2#^matt-2-2|Matt. 2:2]] · [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]] · [[Jeremiah 31#^jer-31-31|≈ Jeremiah 31:31]] · [[Jeremiah 31#^jer-31-38|≈ Jeremiah 31:38]] · [[Jeremiah 33#^jer-33-14|≈ Jeremiah 33:14]]
 
 ![[Jeremiah 23#^jer-23-6]]
 > [[Deuteronomy 33#^deut-33-28|Deut. 33:28]] · [[Ezekiel 28#^ezek-28-26|Ezek. 28:26]] · [[Jeremiah 33#^jer-33-16|≈ Jeremiah 33:16]]
 
 ![[Jeremiah 23#^jer-23-7]]
-> [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]] · [[Jeremiah 30#^jer-30-3|≈ Jeremiah 30:3]] · [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]] · [[Jeremiah 31#^jer-31-31|≈ Jeremiah 31:31]] · [[Jeremiah 31#^jer-31-38|≈ Jeremiah 31:38]]
+> [[Jeremiah 31#^jer-31-27|≈ Jeremiah 31:27]] · [[Jeremiah 31#^jer-31-31|≈ Jeremiah 31:31]] · [[Jeremiah 31#^jer-31-38|≈ Jeremiah 31:38]] · [[Jeremiah 33#^jer-33-14|≈ Jeremiah 33:14]] · [[Jeremiah 49#^jer-49-2|≈ Jeremiah 49:2]] · [[Jeremiah 9#^jer-9-25|≈ Jeremiah 9:25]]
 
 ![[Jeremiah 23#^jer-23-8]]
 

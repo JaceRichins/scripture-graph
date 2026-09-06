@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 33
 slug: num-33
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

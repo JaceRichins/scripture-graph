@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 20
 slug: 2chr-20
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

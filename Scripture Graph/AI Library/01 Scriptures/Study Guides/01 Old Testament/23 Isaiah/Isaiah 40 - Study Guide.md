@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 40
 slug: isa-40
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,13 +49,13 @@ _Not yet developed._
 - [[D&C 88]] — 1 footnote cross-reference (from [[Isaiah 40#^isa-40-3|Isaiah 40:3]])
 - [[D&C 128]] — 1 footnote cross-reference (from [[Isaiah 40#^isa-40-3|Isaiah 40:3]])
 - [[Luke 3]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-4|Isaiah 40:4]] ↔ [[Luke 3#^luke-3-5|Luke 3:5]]
+- [[Isaiah 62]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-10|Isaiah 40:10]] ↔ [[Isaiah 62#^isa-62-11|Isaiah 62:11]]
 - [[Matthew 3]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
 - [[D&C 65]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
 - [[Isaiah 58]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Isaiah 58#^isa-58-14|Isaiah 58:14]]
 - [[Isaiah 1]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Isaiah 1#^isa-1-20|Isaiah 1:20]]
-- [[Isaiah 62]] — 0 parallel verses
 - [[1 Nephi 10]] — 0 parallel verses
 - [[D&C 65]] — 0 parallel verses
 - [[Isaiah 62]] — 0 parallel verses
@@ -77,6 +77,7 @@ Waiting upon the LORD is presented as the condition of renewed strength, but the
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Waiting on the Lord (Elder Jeffrey R. Holland, October 2020)|Waiting on the Lord]] — Elder Jeffrey R. Holland, 2020-October *(explicit citation)*
+- [[Concern for the One (Elder Joseph B. Wirthlin, April 2008)|Concern for the One]] — Elder Joseph B. Wirthlin, 2008-April *(explicit citation)*
 - [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[Tomorrow the Lord Will Do Wonders among You (Elder Jeffrey R. Holland, April 2016)|Tomorrow the Lord Will Do Wonders among You]] — Elder Jeffrey R. Holland, 2016-April *(explicit citation)*
 - [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
@@ -85,7 +86,6 @@ Waiting upon the LORD is presented as the condition of renewed strength, but the
 - [[Room in the Inn (Elder Gerrit W. Gong, April 2021)|Room in the Inn]] — Elder Gerrit W. Gong, 2021-April *(explicit citation)*
 - [[Christ Heals That Which Is Broken (Amy A. Wright, April 2022)|Christ Heals That Which Is Broken]] — Amy A. Wright, 2022-April *(explicit citation)*
 - [[The Power of Spiritual Momentum (President Russell M. Nelson, April 2022)|The Power of Spiritual Momentum]] — President Russell M. Nelson, 2022-April *(explicit citation)*
-- [[Jesus Christ Is the Strength of Youth (Elder Dieter F. Uchtdorf, October 2022)|Jesus Christ Is the Strength of Youth]] — Elder Dieter F. Uchtdorf, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 2
 slug: jacob-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,10 +68,10 @@ Scripture: [[Jacob 2]] · My notes: [[Jacob 2 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Pride]]
 - [[Chastity]]
 - [[Marriage]]
 - [[Fasting and Prayer for the Poor]]
-- [[Pride]]
 - [[Kingdom of God]]
 - [[Obedience]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*

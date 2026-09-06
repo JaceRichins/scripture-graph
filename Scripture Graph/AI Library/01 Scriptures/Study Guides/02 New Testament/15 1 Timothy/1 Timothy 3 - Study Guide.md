@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 3
 slug: 1tim-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,7 +60,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

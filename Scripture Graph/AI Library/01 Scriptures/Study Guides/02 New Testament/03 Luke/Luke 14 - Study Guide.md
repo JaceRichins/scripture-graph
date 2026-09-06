@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 14
 slug: luke-14
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ _Not yet developed._
 - [[The Peace of Christ Abolishes Enmity (Elder Dale G. Renlund, October 2021)|The Peace of Christ Abolishes Enmity]] — Elder Dale G. Renlund, 2021-October *(explicit citation)*
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
 - [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
+- [[You Know Enough (Elder Neil L. Andersen, October 2008)|You Know Enough]] — Elder Neil L. Andersen, 2008-October *(explicit citation)*
 - [[Cheering Each Other On (Sister J. Anette Dennis, October 2025)|Cheering Each Other On]] — Sister J. Anette Dennis, 2025-October *(explicit citation)*
 - [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
 <!-- SG:END conference -->

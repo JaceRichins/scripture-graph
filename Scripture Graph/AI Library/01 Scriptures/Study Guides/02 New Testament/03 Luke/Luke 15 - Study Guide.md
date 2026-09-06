@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 15
 slug: luke-15
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ _Not yet developed._
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

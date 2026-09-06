@@ -66,7 +66,7 @@ cssclasses:
 > [[Ezra 7#^ezra-7-25|Ezra 7:25]]
 
 ![[Deuteronomy 19#^deut-19-19]]
-> [[Deuteronomy 17#^deut-17-7|≈ Deuteronomy 17:7]] · [[Deuteronomy 13#^deut-13-5|≈ Deuteronomy 13:5]]
+> [[Deuteronomy 13#^deut-13-5|≈ Deuteronomy 13:5]] · [[Deuteronomy 17#^deut-17-7|≈ Deuteronomy 17:7]]
 
 ![[Deuteronomy 19#^deut-19-20]]
 

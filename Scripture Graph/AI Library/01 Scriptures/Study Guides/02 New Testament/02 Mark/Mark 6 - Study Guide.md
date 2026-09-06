@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 6
 slug: mark-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[D&C 75]] — 1 parallel verse, e.g. [[Mark 6#^mark-6-11|Mark 6:11]] ↔ [[D&C 75#^dc-75-22|D&C 75:22]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[Mark 6#^mark-6-11|Mark 6:11]] ↔ [[Alma 9#^alma-9-15|Alma 9:15]]
 - [[D&C 24]] — 0 parallel verses
+- [[John 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

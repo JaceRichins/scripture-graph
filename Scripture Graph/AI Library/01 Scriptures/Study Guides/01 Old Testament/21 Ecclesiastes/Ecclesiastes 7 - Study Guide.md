@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 7
 slug: eccl-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,7 +58,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Slow to Anger (President Gordon B. Hinckley, October 2007)|Slow to Anger]] — President Gordon B. Hinckley, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 2
 slug: gal-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Acts 4]] — 1 footnote cross-reference (from [[Galatians 2#^gal-2-1|Galatians 2:1]])
 - [[Alma 8]] — 1 footnote cross-reference (from [[Galatians 2#^gal-2-2|Galatians 2:2]])
 - [[Helaman 13]] — 1 footnote cross-reference (from [[Galatians 2#^gal-2-2|Galatians 2:2]])
+- [[Galatians 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

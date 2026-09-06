@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 31
 slug: 1sam-31
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Beth-shan or Beth-shean** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
+- **Esdraelon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

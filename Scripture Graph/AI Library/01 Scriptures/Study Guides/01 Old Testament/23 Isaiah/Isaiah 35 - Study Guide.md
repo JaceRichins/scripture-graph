@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 35
 slug: isa-35
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[D&C 66]] — 0 parallel verses
 - [[D&C 81]] — 0 parallel verses
 - [[D&C 117]] — 0 parallel verses
+- [[Isaiah 41]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

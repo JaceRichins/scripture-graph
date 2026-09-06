@@ -28,7 +28,7 @@ cssclasses:
 > [[John 5#^john-5-28|John 5:29 (28–29)]]
 
 ![[Alma 40#^alma-40-5]]
-> [[1 Thessalonians 4#^1thes-4-16|1 Thes. 4:16]] · [[Mosiah 26#^mosiah-26-24|Mosiah 26:25 (24–25)]] · [[D&C 43#^dc-43-18|D&amp;C 43:18]] · [[D&C 76#^dc-76-85|76:85]] · [[Alma 11#^alma-11-41|≈ Alma 11:41]] · [[Alma 12#^alma-12-8|≈ Alma 12:8]]
+> [[1 Thessalonians 4#^1thes-4-16|1 Thes. 4:16]] · [[Mosiah 26#^mosiah-26-24|Mosiah 26:25 (24–25)]] · [[D&C 43#^dc-43-18|D&amp;C 43:18]] · [[D&C 76#^dc-76-85|76:85]] · [[Alma 12#^alma-12-8|≈ Alma 12:8]] · [[Alma 11#^alma-11-41|≈ Alma 11:41]]
 
 ![[Alma 40#^alma-40-6]]
 
@@ -72,7 +72,7 @@ cssclasses:
 ![[Alma 40#^alma-40-20]]
 
 ![[Alma 40#^alma-40-21]]
-> [[Luke 23#^luke-23-39|Luke 23:43 (39–43)]] · [[Alma 42#^alma-42-23|Alma 42:23]] · [[Alma 42#^alma-42-23|≈ Alma 42:23]] · [[Alma 11#^alma-11-41|≈ Alma 11:41]] · [[Alma 12#^alma-12-8|≈ Alma 12:8]]
+> [[Luke 23#^luke-23-39|Luke 23:43 (39–43)]] · [[Alma 42#^alma-42-23|Alma 42:23]] · [[Alma 42#^alma-42-23|≈ Alma 42:23]] · [[Alma 12#^alma-12-8|≈ Alma 12:8]] · [[Alma 11#^alma-11-41|≈ Alma 11:41]]
 
 ![[Alma 40#^alma-40-22]]
 > [[D&C 109#^dc-109-23|≈ D&C 109:23]] · [[D&C 8#^dc-8-1|≈ D&C 8:1]]
@@ -81,7 +81,7 @@ cssclasses:
 > [[Ezekiel 37#^ezek-37-6|Ezek. 37:14 (6–14)]] · [[D&C 88#^dc-88-15|D&amp;C 88:15 (15–17)]] · [[2 Nephi 9#^2ne-9-13|2 Ne. 9:13]] · [[Alma 11#^alma-11-40|Alma 11:45 (40–45)]] · [[Luke 21#^luke-21-18|Luke 21:18]] · [[Alma 41#^alma-41-2|Alma 41:2]] · [[D&C 29#^dc-29-25|D&amp;C 29:25]] · [[Philippians 3#^philip-3-21|Philip. 3:21]] · [[Alma 41#^alma-41-4|≈ Alma 41:4]] · [[Alma 11#^alma-11-43|≈ Alma 11:43]]
 
 ![[Alma 40#^alma-40-24]]
-> [[Isaiah 26#^isa-26-19|Isa. 26:19]] · [[Alma 41#^alma-41-1|≈ Alma 41:1]] · [[D&C 109#^dc-109-23|≈ D&C 109:23]] · [[D&C 8#^dc-8-1|≈ D&C 8:1]]
+> [[Isaiah 26#^isa-26-19|Isa. 26:19]] · [[D&C 109#^dc-109-23|≈ D&C 109:23]] · [[D&C 8#^dc-8-1|≈ D&C 8:1]] · [[Alma 41#^alma-41-1|≈ Alma 41:1]]
 
 ![[Alma 40#^alma-40-25]]
 > [[Daniel 12#^dan-12-3|Dan. 12:3]] · [[Matthew 13#^matt-13-43|Matt. 13:43]]

@@ -75,7 +75,7 @@ cssclasses:
 > [[Luke 22#^luke-22-19|Luke 22:19]] · [[John 6#^john-6-53|John 6:53]] · [[Matthew 26#^matt-26-26|≈ Matthew 26:26]] · [[1 Corinthians 11#^1cor-11-24|≈ 1 Corinthians 11:24]]
 
 ![[Mark 14#^mark-14-23]]
-> [[1 Corinthians 11#^1cor-11-24|≈ 1 Corinthians 11:24]] · [[John 6#^john-6-11|≈ John 6:11]]
+> [[John 6#^john-6-11|≈ John 6:11]] · [[1 Corinthians 11#^1cor-11-24|≈ 1 Corinthians 11:24]]
 
 ![[Mark 14#^mark-14-24]]
 > [[Matthew 26#^matt-26-28|≈ Matthew 26:28]]
@@ -177,7 +177,7 @@ cssclasses:
 > [[Isaiah 53#^isa-53-7|Isa. 53:7 (7–8)]] · [[John 18#^john-18-33|≈ John 18:33]]
 
 ![[Mark 14#^mark-14-62]]
-> [[Matthew 26#^matt-26-64|≈ Matthew 26:64]] · [[Matthew 24#^matt-24-30|≈ Matthew 24:30]] · [[Joseph Smith—Matthew 1#^jsm-1-36|≈ Joseph Smith—Matthew 1:36]] · [[John 6#^john-6-62|≈ John 6:62]]
+> [[Matthew 26#^matt-26-64|≈ Matthew 26:64]] · [[Matthew 24#^matt-24-30|≈ Matthew 24:30]] · [[John 6#^john-6-62|≈ John 6:62]] · [[Joseph Smith—Matthew 1#^jsm-1-36|≈ Joseph Smith—Matthew 1:36]]
 
 ![[Mark 14#^mark-14-63]]
 > [[Matthew 26#^matt-26-65|≈ Matthew 26:65]]

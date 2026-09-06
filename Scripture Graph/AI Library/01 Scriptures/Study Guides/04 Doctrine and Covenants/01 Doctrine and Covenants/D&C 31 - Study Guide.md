@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 31
 slug: dc-31
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ _Not yet developed._
 - [[We Never Walk Alone (President Thomas S. Monson, October 2013)|We Never Walk Alone]] — President Thomas S. Monson, 2013-October *(explicit citation)*
 - [[Lift Up Your Heart and Rejoice (Elder Marcos A. Aidukaitis, April 2022)|Lift Up Your Heart and Rejoice]] — Elder Marcos A. Aidukaitis, 2022-April *(explicit citation)*
 - [[Converted to His Gospel through His Church (Elder Donald L. Hallstrom, April 2012)|Converted to His Gospel through His Church]] — Elder Donald L. Hallstrom, 2012-April *(explicit citation)*
+- [[Pray Always (Elder David A. Bednar, October 2008)|Pray Always]] — Elder David A. Bednar, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

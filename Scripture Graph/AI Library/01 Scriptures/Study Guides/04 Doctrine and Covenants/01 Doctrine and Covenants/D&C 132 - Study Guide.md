@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 132
 slug: dc-132
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,7 @@ Plural marriage is justified through claimed divine command and an Abrahamic com
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[Fruit That Remains (Elder Matthew L. Carpenter, April 2024)|Fruit That Remains]] — Elder Matthew L. Carpenter, 2024-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[The Sealing Power (Elder D. Todd Christofferson, October 2023)|The Sealing Power]] — Elder D. Todd Christofferson, 2023-October *(explicit citation)*
@@ -108,7 +109,6 @@ Plural marriage is justified through claimed divine command and an Abrahamic com
 - [[Living the Gospel Joyful (President Dieter F. Uchtdorf, October 2014)|Living the Gospel Joyful]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
 - [[Rejoice in the Gift of Priesthood Keys (President Russell M. Nelson, April 2024)|Rejoice in the Gift of Priesthood Keys]] — President Russell M. Nelson, 2024-April *(explicit citation)*
 - [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
-- [[If You Will Be Responsible (Elder Jorge F. Zeballos, April 2015)|If You Will Be Responsible]] — Elder Jorge F. Zeballos, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

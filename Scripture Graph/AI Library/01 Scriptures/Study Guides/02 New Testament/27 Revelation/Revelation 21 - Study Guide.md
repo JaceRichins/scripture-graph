@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 21
 slug: rev-21
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 - **The Center Place** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Book of life** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

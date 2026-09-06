@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 17
 slug: 1sam-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The chapter also belongs under [[War and Peace]], but its violence should not be
 - [[Counsel to Young Men (President Boyd K. Packer, April 2009)|Counsel to Young Men]] — President Boyd K. Packer, 2009-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Deepening Our Conversion to Jesus Christ (Elder Arnulfo Valenzuela, October 2021)|Deepening Our Conversion to Jesus Christ]] — Elder Arnulfo Valenzuela, 2021-October *(explicit citation)*
+- [[Who’s on the Lord’s Side (Charles W. Dahlquist II, April 2007)|Who’s on the Lord’s Side?]] — Charles W. Dahlquist II, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -93,6 +94,7 @@ The chapter also belongs under [[War and Peace]], but its violence should not be
 - **Abner** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
 - **Dog** (reference-entry) *(explicit citation)*
+- **Gath** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

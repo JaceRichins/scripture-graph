@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 16
 slug: luke-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Turn On Your Light (Sharon Eubank, October 2017)|Turn On Your Light]] — Sharon Eubank, 2017-October *(explicit citation)*
 - [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
+- [[Lift Where You Stand (President Dieter F. Uchtdorf, October 2008)|Lift Where You Stand]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 - [[The Joy of a Covenant Relationship with God (Elder Thierry K. Mutombo, April 2026)|The Joy of a Covenant Relationship with God]] — Elder Thierry K. Mutombo, 2026-April *(explicit citation)*
 - [[Followers of Christ (Elder Dallin H. Oaks, April 2013)|Followers of Christ]] — Elder Dallin H. Oaks, 2013-April *(explicit citation)*
 <!-- SG:END conference -->

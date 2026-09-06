@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 1
 slug: 2kgs-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ _Not yet developed._
 - **Angels** (reference-entry) *(explicit citation)*
 - **Baal** (reference-entry) *(explicit citation)*
 - **Beelzebub** (reference-entry) *(explicit citation)*
+- **Elijah** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 18
 slug: ex-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

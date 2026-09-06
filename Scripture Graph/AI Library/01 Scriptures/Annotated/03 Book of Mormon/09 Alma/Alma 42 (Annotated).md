@@ -79,7 +79,7 @@ cssclasses:
 > [[Galatians 3#^gal-3-13|Gal. 3:13]] · [[D&C 76#^dc-76-48|D&amp;C 76:48]]
 
 ![[Alma 42#^alma-42-23]]
-> [[2 Nephi 2#^2ne-2-8|2 Ne. 2:8]] · [[Alma 7#^alma-7-12|Alma 7:12]] · [[Alma 12#^alma-12-24|12:25 (24–25)]] · [[2 Nephi 9#^2ne-9-4|2 Ne. 9:4]] · [[Alma 11#^alma-11-41|Alma 11:41 (41–45)]] · [[Helaman 14#^hel-14-15|Hel. 14:15 (15–18)]] · [[Mormon 9#^morm-9-13|Morm. 9:13]] · [[Alma 40#^alma-40-21|Alma 40:21 (21–24)]] · [[Helaman 14#^hel-14-15|≈ Helaman 14:15]] · [[Alma 12#^alma-12-8|≈ Alma 12:8]]
+> [[2 Nephi 2#^2ne-2-8|2 Ne. 2:8]] · [[Alma 7#^alma-7-12|Alma 7:12]] · [[Alma 12#^alma-12-24|12:25 (24–25)]] · [[2 Nephi 9#^2ne-9-4|2 Ne. 9:4]] · [[Alma 11#^alma-11-41|Alma 11:41 (41–45)]] · [[Helaman 14#^hel-14-15|Hel. 14:15 (15–18)]] · [[Mormon 9#^morm-9-13|Morm. 9:13]] · [[Alma 40#^alma-40-21|Alma 40:21 (21–24)]] · [[Helaman 14#^hel-14-15|≈ Helaman 14:15]] · [[2 Nephi 2#^2ne-2-8|≈ 2 Nephi 2:8]]
 
 ![[Alma 42#^alma-42-24]]
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 12
 slug: 1cor-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[D&C 84]] — 0 parallel verses
 - [[Moroni 10]] — 0 parallel verses
 - [[D&C 46]] — 0 parallel verses
+- [[Ephesians 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

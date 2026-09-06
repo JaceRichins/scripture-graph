@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 107
 slug: dc-107
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ The formulas “the revelation which says” in verse 58 and “the commandment 
 - [[D&C 84]] — 1 parallel verse, e.g. [[D&C 107#^dc-107-13|D&C 107:13]] ↔ [[D&C 84#^dc-84-18|D&C 84:18]]
 - [[2 Peter 1]] — 0 parallel verses
 - [[D&C 102]] — 0 parallel verses
+- [[D&C 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -97,6 +98,7 @@ Governance is joined to procedure and moral accountability. Decisions involve qu
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Twelve (President Boyd K. Packer, April 2008)|The Twelve]] — President Boyd K. Packer, 2008-April *(explicit citation)*
 - [[Live Up to Your Privileges (President Emily Belle Freeman, October 2024)|Live Up to Your Privileges]] — President Emily Belle Freeman, 2024-October *(explicit citation)*
 - [[The Book (Elder Allan F. Packer, October 2014)|The Book]] — Elder Allan F. Packer, 2014-October *(explicit citation)*
 - [[Miracles, Angels, and Priesthood Power (Elder Shayne M. Bowen, April 2024)|Miracles, Angels, and Priesthood Power]] — Elder Shayne M. Bowen, 2024-April *(explicit citation)*
@@ -106,7 +108,6 @@ Governance is joined to procedure and moral accountability. Decisions involve qu
 - [[Act in All Diligence (President Henry B. Eyring, April 2010)|Act in All Diligence]] — President Henry B. Eyring, 2010-April *(explicit citation)*
 - [[The Power of the Priesthood (President Boyd K. Packer, April 2010)|The Power of the Priesthood]] — President Boyd K. Packer, 2010-April *(explicit citation)*
 - [[That He May Become Strong Also (President Henry B. Eyring, October 2016)|That He May Become Strong Also]] — President Henry B. Eyring, 2016-October *(explicit citation)*
-- [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

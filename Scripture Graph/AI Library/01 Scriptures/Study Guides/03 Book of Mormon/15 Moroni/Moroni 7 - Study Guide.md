@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 7
 slug: moro-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,8 +49,8 @@ _Not yet developed._
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Moroni 7#^moro-7-34|Moroni 7:34]] ↔ [[3 Nephi 27#^3ne-27-20|3 Nephi 27:20]]
 - [[1 John 3]] — 1 parallel verse, e.g. [[Moroni 7#^moro-7-48|Moroni 7:48]] ↔ [[1 John 3#^1jn-3-2|1 John 3:2]]
 - [[3 Nephi 18]] — 1 parallel verse, e.g. [[Moroni 7#^moro-7-26|Moroni 7:26]] ↔ [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]]
-- [[3 Nephi 21]] — 2 parallel verses, e.g. [[Moroni 7#^moro-7-34|Moroni 7:34]] ↔ [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]]
 - [[Ether 4]] — 1 parallel verse, e.g. [[Moroni 7#^moro-7-34|Moroni 7:34]] ↔ [[Ether 4#^ether-4-18|Ether 4:18]]
+- [[3 Nephi 21]] — 2 parallel verses, e.g. [[Moroni 7#^moro-7-34|Moroni 7:34]] ↔ [[3 Nephi 21#^3ne-21-6|3 Nephi 21:6]]
 - [[Moroni 10]] — 3 parallel verses, e.g. [[Moroni 7#^moro-7-44|Moroni 7:44]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
 - [[2 Nephi 33]] — 2 parallel verses, e.g. [[Moroni 7#^moro-7-35|Moroni 7:35]] ↔ [[2 Nephi 33#^2ne-33-11|2 Nephi 33:11]]
 - [[Alma 12]] — 2 parallel verses, e.g. [[Moroni 7#^moro-7-38|Moroni 7:38]] ↔ [[Alma 12#^alma-12-18|Alma 12:18]]

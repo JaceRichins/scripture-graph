@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 8
 slug: mark-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -80,7 +80,7 @@ _Not yet developed._
 - [[Are You Sleeping through the Restoration (President Dieter F. Uchtdorf, April 2014)|Are You Sleeping through the Restoration?]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[Being a More Christian Christian (Elder Robert D. Hales, October 2012)|Being a More Christian Christian]] — Elder Robert D. Hales, 2012-October *(explicit citation)*
 - [[Never Leave Him (Elder Neil L. Andersen, October 2010)|Never Leave Him]] — Elder Neil L. Andersen, 2010-October *(explicit citation)*
-- [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
+- [[The Way (Elder Lawrence E. Corbridge, October 2008)|The Way]] — Elder Lawrence E. Corbridge, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -120,7 +120,7 @@ cssclasses:
 > [[2 Nephi 9#^2ne-9-13|2 Ne. 9:13]] · [[Alma 40#^alma-40-23|Alma 40:23]] · [[D&C 130#^dc-130-18|D&amp;C 130:18]] · [[2 Nephi 9#^2ne-9-14|2 Ne. 9:14]] · [[Mosiah 3#^mosiah-3-25|Mosiah 3:25]] · [[Alma 5#^alma-5-18|Alma 5:18]] · [[Matthew 12#^matt-12-36|Matt. 12:36 (36–37)]] · [[Alma 40#^alma-40-23|≈ Alma 40:23]]
 
 ![[Alma 11#^alma-11-44]]
-> [[Revelation 20#^rev-20-12|Rev. 20:12 (12–15)]] · [[3 Nephi 11#^3ne-11-27|3 Ne. 11:27 (27–28, 36)]] · [[2 Peter 2#^2pet-2-9|2 Pet. 2:9]] · [[Alma 12#^alma-12-8|≈ Alma 12:8]] · [[Mosiah 16#^mosiah-16-10|≈ Mosiah 16:10]] · [[Alma 5#^alma-5-49|≈ Alma 5:49]] · [[Mosiah 3#^mosiah-3-24|≈ Mosiah 3:24]] · [[Alma 1#^alma-1-30|≈ Alma 1:30]] · [[3 Nephi 26#^3ne-26-4|≈ 3 Nephi 26:4]]
+> [[Revelation 20#^rev-20-12|Rev. 20:12 (12–15)]] · [[3 Nephi 11#^3ne-11-27|3 Ne. 11:27 (27–28, 36)]] · [[2 Peter 2#^2pet-2-9|2 Pet. 2:9]] · [[Alma 12#^alma-12-8|≈ Alma 12:8]] · [[Alma 5#^alma-5-49|≈ Alma 5:49]] · [[Mosiah 3#^mosiah-3-24|≈ Mosiah 3:24]] · [[Mosiah 16#^mosiah-16-10|≈ Mosiah 16:10]] · [[Alma 1#^alma-1-30|≈ Alma 1:30]] · [[3 Nephi 26#^3ne-26-4|≈ 3 Nephi 26:4]]
 
 ![[Alma 11#^alma-11-45]]
 > [[Alma 12#^alma-12-12|Alma 12:12]] · [[Alma 40#^alma-40-23|Alma 40:23]] · [[D&C 88#^dc-88-16|D&amp;C 88:16]] · [[Revelation 21#^rev-21-4|Rev. 21:4]] · [[Alma 12#^alma-12-18|Alma 12:18 (18, 20)]] · [[D&C 63#^dc-63-49|D&amp;C 63:49]] · [[D&C 88#^dc-88-116|88:116]] · [[1 Corinthians 15#^1cor-15-44|1 Cor. 15:44]] · [[Alma 21#^alma-21-9|≈ Alma 21:9]]

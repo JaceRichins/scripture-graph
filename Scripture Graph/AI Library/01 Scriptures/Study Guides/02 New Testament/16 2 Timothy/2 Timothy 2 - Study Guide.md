@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 2
 slug: 2tim-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Games** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

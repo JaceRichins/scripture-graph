@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 1
 slug: deut-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,23 +56,23 @@ Deuteronomy 1 opens Moses' retrospective address in Moab near the end of the wil
 - [[Deuteronomy 3]] — 2 footnote cross-references (from [[Deuteronomy 1#^deut-1-4|Deuteronomy 1:4]])
 - [[Nehemiah 9]] — 2 footnote cross-references (from [[Deuteronomy 1#^deut-1-8|Deuteronomy 1:8]])
 - [[Exodus 18]] — 2 footnote cross-references (from [[Deuteronomy 1#^deut-1-9|Deuteronomy 1:9]])
+- [[Deuteronomy 4]] — 3 parallel verses, e.g. [[Deuteronomy 1#^deut-1-8|Deuteronomy 1:8]] ↔ [[Deuteronomy 4#^deut-4-1|Deuteronomy 4:1]]
 - [[Deuteronomy 11]] — 2 parallel verses, e.g. [[Deuteronomy 1#^deut-1-8|Deuteronomy 1:8]] ↔ [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]]
+- [[Numbers 14]] — 2 parallel verses, e.g. [[Deuteronomy 1#^deut-1-40|Deuteronomy 1:40]] ↔ [[Numbers 14#^num-14-25|Numbers 14:25]]
 - [[Deuteronomy 8]] — 1 parallel verse, e.g. [[Deuteronomy 1#^deut-1-8|Deuteronomy 1:8]] ↔ [[Deuteronomy 8#^deut-8-1|Deuteronomy 8:1]]
+- [[Deuteronomy 9]] — 2 parallel verses, e.g. [[Deuteronomy 1#^deut-1-26|Deuteronomy 1:26]] ↔ [[Deuteronomy 9#^deut-9-23|Deuteronomy 9:23]]
+- [[Deuteronomy 2]] — 1 parallel verse, e.g. [[Deuteronomy 1#^deut-1-40|Deuteronomy 1:40]] ↔ [[Deuteronomy 2#^deut-2-1|Deuteronomy 2:1]]
 - [[Deuteronomy 6]] — 2 parallel verses, e.g. [[Deuteronomy 1#^deut-1-21|Deuteronomy 1:21]] ↔ [[Deuteronomy 6#^deut-6-3|Deuteronomy 6:3]]
 - [[Joshua 7]] — 1 parallel verse, e.g. [[Deuteronomy 1#^deut-1-27|Deuteronomy 1:27]] ↔ [[Joshua 7#^josh-7-7|Joshua 7:7]]
 - [[Deuteronomy 10]] — 2 parallel verses, e.g. [[Deuteronomy 1#^deut-1-10|Deuteronomy 1:10]] ↔ [[Deuteronomy 10#^deut-10-22|Deuteronomy 10:22]]
 - [[Deuteronomy 28]] — 2 parallel verses, e.g. [[Deuteronomy 1#^deut-1-10|Deuteronomy 1:10]] ↔ [[Deuteronomy 28#^deut-28-62|Deuteronomy 28:62]]
 - [[Deuteronomy 5]] — 1 parallel verse, e.g. [[Deuteronomy 1#^deut-1-34|Deuteronomy 1:34]] ↔ [[Deuteronomy 5#^deut-5-28|Deuteronomy 5:28]]
-- [[Deuteronomy 4]] — 0 parallel verses
-- [[Deuteronomy 9]] — 0 parallel verses
-- [[Numbers 14]] — 0 parallel verses
 - [[Exodus 18]] — 0 parallel verses
-- [[Deuteronomy 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -95,6 +95,7 @@ Deuteronomy 1 opens Moses' retrospective address in Moab near the end of the wil
 - **Caleb** (reference-entry) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
 - **Edrei** (reference-entry) *(explicit citation)*
+- **Euphrates** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

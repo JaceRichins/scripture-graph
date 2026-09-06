@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 3
 slug: col-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,9 +51,12 @@ _Not yet developed._
 - [[Matthew 6]] — 1 footnote cross-reference (from [[Colossians 3#^col-3-2|Colossians 3:2]])
 - [[Proverbs 15]] — 1 footnote cross-reference (from [[Colossians 3#^col-3-2|Colossians 3:2]])
 - [[Ether 4]] — 1 footnote cross-reference (from [[Colossians 3#^col-3-4|Colossians 3:4]])
-- [[Ephesians 5]] — 0 parallel verses
+- [[Ephesians 5]] — 2 parallel verses, e.g. [[Colossians 3#^col-3-16|Colossians 3:16]] ↔ [[Ephesians 5#^eph-5-19|Ephesians 5:19]]
 - [[Galatians 3]] — 0 parallel verses
 - [[D&C 25]] — 0 parallel verses
+- [[Ephesians 4]] — 0 parallel verses
+- [[Ephesians 5]] — 0 parallel verses
+- [[Ephesians 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,6 +92,8 @@ _Not yet developed._
 - **Bible** (reference-entry) *(explicit citation)*
 - **Barbarian** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
+- **Flesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

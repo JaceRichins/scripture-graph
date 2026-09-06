@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 16
 slug: prov-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
+- [[Slow to Anger (President Gordon B. Hinckley, October 2007)|Slow to Anger]] — President Gordon B. Hinckley, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

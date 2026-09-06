@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 22
 slug: matt-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

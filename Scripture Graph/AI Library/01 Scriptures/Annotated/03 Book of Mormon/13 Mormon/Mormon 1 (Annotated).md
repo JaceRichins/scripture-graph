@@ -36,10 +36,10 @@ cssclasses:
 ![[Mormon 1#^morm-1-7]]
 
 ![[Mormon 1#^morm-1-8]]
-> [[4 Nephi 1#^4ne-1-36|4 Ne. 1:36]] · [[Mormon 2#^morm-2-1|≈ Mormon 2:1]] · [[Alma 47#^alma-47-35|≈ Alma 47:35]] · [[D&C 3#^dc-3-17|≈ D&C 3:17]] · [[D&C 3#^dc-3-18|≈ D&C 3:18]]
+> [[4 Nephi 1#^4ne-1-36|4 Ne. 1:36]] · [[Mormon 2#^morm-2-1|≈ Mormon 2:1]] · [[D&C 3#^dc-3-17|≈ D&C 3:17]] · [[D&C 3#^dc-3-18|≈ D&C 3:18]] · [[Alma 47#^alma-47-35|≈ Alma 47:35]]
 
 ![[Mormon 1#^morm-1-9]]
-> [[4 Nephi 1#^4ne-1-20|4 Ne. 1:20]] · [[Alma 47#^alma-47-35|≈ Alma 47:35]] · [[D&C 3#^dc-3-18|≈ D&C 3:18]]
+> [[4 Nephi 1#^4ne-1-20|4 Ne. 1:20]] · [[D&C 3#^dc-3-18|≈ D&C 3:18]] · [[Alma 47#^alma-47-35|≈ Alma 47:35]]
 
 ![[Mormon 1#^morm-1-10]]
 

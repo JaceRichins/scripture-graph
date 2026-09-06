@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 13
 slug: john-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,14 +51,17 @@ _Not yet developed._
 - [[D&C 63]] — 1 footnote cross-reference (from [[John 13#^john-13-2|John 13:2]])
 - [[D&C 38]] — 1 footnote cross-reference (from [[John 13#^john-13-10|John 13:10]])
 - [[John 6]] — 1 footnote cross-reference (from [[John 13#^john-13-11|John 13:11]])
+- [[John 15]] — 2 parallel verses, e.g. [[John 13#^john-13-16|John 13:16]] ↔ [[John 15#^john-15-20|John 15:20]]
+- [[Matthew 10]] — 1 parallel verse, e.g. [[John 13#^john-13-20|John 13:20]] ↔ [[Matthew 10#^matt-10-40|Matthew 10:40]]
+- [[Matthew 26]] — 1 parallel verse, e.g. [[John 13#^john-13-21|John 13:21]] ↔ [[Matthew 26#^matt-26-21|Matthew 26:21]]
 - [[D&C 39]] — 1 parallel verse, e.g. [[John 13#^john-13-20|John 13:20]] ↔ [[D&C 39#^dc-39-5|D&C 39:5]]
-- [[Matthew 10]] — 0 parallel verses
-- [[Matthew 26]] — 0 parallel verses
-- [[John 15]] — 0 parallel verses
 - [[John 6]] — 0 parallel verses
 - [[John 8]] — 0 parallel verses
 - [[1 John 4]] — 0 parallel verses
 - [[1 John 2]] — 0 parallel verses
+- [[John 14]] — 0 parallel verses
+- [[John 15]] — 0 parallel verses
+- [[John 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -90,9 +93,9 @@ _Not yet developed._
 - [[Cherishing Life (Elder Neil L. Andersen, April 2025)|Cherishing Life]] — Elder Neil L. Andersen, 2025-April *(explicit citation)*
 - [[Cheering Each Other On (Sister J. Anette Dennis, October 2025)|Cheering Each Other On]] — Sister J. Anette Dennis, 2025-October *(explicit citation)*
 - [[“I Have Given You an Example” (Elder Richard G. Scott, April 2014)|“I Have Given You an Example”]] — Elder Richard G. Scott, 2014-April *(explicit citation)*
+- [[The Great Commandment (Elder Joseph B. Wirthlin, October 2007)|The Great Commandment]] — Elder Joseph B. Wirthlin, 2007-October *(explicit citation)*
 - [[God Is at the Helm (Elder M. Russell Ballard, October 2015)|God Is at the Helm]] — Elder M. Russell Ballard, 2015-October *(explicit citation)*
 - [[I Stand All Amazed (Elder Ronald A. Rasband, October 2015)|I Stand All Amazed]] — Elder Ronald A. Rasband, 2015-October *(explicit citation)*
-- [[He Asks Us to Be His Hands (Cheryl A. Esplin, April 2016)|He Asks Us to Be His Hands]] — Cheryl A. Esplin, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

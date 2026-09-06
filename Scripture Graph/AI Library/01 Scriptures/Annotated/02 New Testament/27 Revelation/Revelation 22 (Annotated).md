@@ -52,7 +52,7 @@ cssclasses:
 > [[1 Thessalonians 2#^1thes-2-19|1 Thes. 2:19]] · [[1 Thessalonians 3#^1thes-3-13|3:13]] · [[Revelation 1#^rev-1-7|Rev. 1:7]] · [[Alma 41#^alma-41-13|Alma 41:13]] · [[D&C 54#^dc-54-10|≈ D&C 54:10]] · [[D&C 112#^dc-112-34|≈ D&C 112:34]]
 
 ![[Revelation 22#^rev-22-13]]
-> [[D&C 54#^dc-54-1|≈ D&C 54:1]] · [[Alma 11#^alma-11-39|≈ Alma 11:39]] · [[Revelation 1#^rev-1-8|≈ Revelation 1:8]] · [[Revelation 1#^rev-1-11|≈ Revelation 1:11]] · [[Revelation 21#^rev-21-6|≈ Revelation 21:6]] · [[3 Nephi 9#^3ne-9-18|≈ 3 Nephi 9:18]]
+> [[Revelation 1#^rev-1-8|≈ Revelation 1:8]] · [[Revelation 1#^rev-1-11|≈ Revelation 1:11]] · [[Revelation 21#^rev-21-6|≈ Revelation 21:6]] · [[3 Nephi 9#^3ne-9-18|≈ 3 Nephi 9:18]] · [[D&C 38#^dc-38-1|≈ D&C 38:1]] · [[D&C 45#^dc-45-7|≈ D&C 45:7]]
 
 ![[Revelation 22#^rev-22-14]]
 

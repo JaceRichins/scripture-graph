@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 4
 slug: gal-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,13 +56,14 @@ Some readers see an envelope pattern, with sonship/heirship language opening (vv
 - [[Galatians 3]] — 0 parallel verses
 - [[Romans 8]] — 0 parallel verses
 - [[Colossians 2]] — 0 parallel verses
+- [[Galatians 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Freedom and Liberty]]
 - [[Law of Moses]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

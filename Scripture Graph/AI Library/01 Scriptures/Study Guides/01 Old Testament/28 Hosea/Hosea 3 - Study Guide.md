@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 3
 slug: hosea-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -43,6 +43,7 @@ _Not yet developed._
 - [[D&C 113]] — 1 footnote cross-reference (from [[Hosea 3#^hosea-3-5|Hosea 3:5]])
 - [[Ezekiel 34]] — 1 footnote cross-reference (from [[Hosea 3#^hosea-3-5|Hosea 3:5]])
 - [[Deuteronomy 31]] — 1 footnote cross-reference (from [[Hosea 3#^hosea-3-5|Hosea 3:5]])
+- [[Jeremiah 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

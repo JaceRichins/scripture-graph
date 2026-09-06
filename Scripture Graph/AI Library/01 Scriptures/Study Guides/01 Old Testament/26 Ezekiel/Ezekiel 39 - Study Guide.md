@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 39
 slug: ezek-39
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 12
 slug: hosea-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 - [[Leviticus 23]] — 0 parallel verses
 - [[Amos 8]] — 0 parallel verses
 - [[Micah 6]] — 0 parallel verses
+- [[Genesis 29]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

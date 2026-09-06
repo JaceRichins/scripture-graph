@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 30
 slug: deut-30
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,17 +52,17 @@ A refrain, "with all thine heart, and with all thy soul," recurs in verses 2, 6,
 - [[Jeremiah 12]] — 1 footnote cross-reference (from [[Deuteronomy 30#^deut-30-3|Deuteronomy 30:3]])
 - [[Nehemiah 1]] — 1 footnote cross-reference (from [[Deuteronomy 30#^deut-30-3|Deuteronomy 30:3]])
 - [[Deuteronomy 28]] — 14 parallel verses, e.g. [[Deuteronomy 30#^deut-30-9|Deuteronomy 30:9]] ↔ [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]]
+- [[Deuteronomy 6]] — 5 parallel verses, e.g. [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]] ↔ [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]]
 - [[Deuteronomy 26]] — 4 parallel verses, e.g. [[Deuteronomy 30#^deut-30-2|Deuteronomy 30:2]] ↔ [[Deuteronomy 26#^deut-26-16|Deuteronomy 26:16]]
 - [[Deuteronomy 8]] — 4 parallel verses, e.g. [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]] ↔ [[Deuteronomy 8#^deut-8-6|Deuteronomy 8:6]]
 - [[Deuteronomy 15]] — 4 parallel verses, e.g. [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]] ↔ [[Deuteronomy 15#^deut-15-18|Deuteronomy 15:18]]
+- [[Deuteronomy 11]] — 4 parallel verses, e.g. [[Deuteronomy 30#^deut-30-20|Deuteronomy 30:20]] ↔ [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]]
 - [[Deuteronomy 4]] — 3 parallel verses, e.g. [[Deuteronomy 30#^deut-30-18|Deuteronomy 30:18]] ↔ [[Deuteronomy 4#^deut-4-26|Deuteronomy 4:26]]
 - [[Deuteronomy 10]] — 3 parallel verses, e.g. [[Deuteronomy 30#^deut-30-10|Deuteronomy 30:10]] ↔ [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]]
 - [[1 Kings 8]] — 2 parallel verses, e.g. [[Deuteronomy 30#^deut-30-16|Deuteronomy 30:16]] ↔ [[1 Kings 8#^1kgs-8-58|1 Kings 8:58]]
 - [[Deuteronomy 13]] — 3 parallel verses, e.g. [[Deuteronomy 30#^deut-30-8|Deuteronomy 30:8]] ↔ [[Deuteronomy 13#^deut-13-18|Deuteronomy 13:18]]
 - [[Deuteronomy 29]] — 2 parallel verses, e.g. [[Deuteronomy 30#^deut-30-20|Deuteronomy 30:20]] ↔ [[Deuteronomy 29#^deut-29-13|Deuteronomy 29:13]]
 - [[Matthew 22]] — 2 parallel verses, e.g. [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]] ↔ [[Matthew 22#^matt-22-37|Matthew 22:37]]
-- [[Mark 12]] — 2 parallel verses, e.g. [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]] ↔ [[Mark 12#^mark-12-30|Mark 12:30]]
-- [[Luke 10]] — 2 parallel verses, e.g. [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]] ↔ [[Luke 10#^luke-10-27|Luke 10:27]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

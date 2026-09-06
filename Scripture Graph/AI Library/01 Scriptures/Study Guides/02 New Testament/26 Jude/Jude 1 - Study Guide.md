@@ -6,7 +6,7 @@ volume: New Testament
 book: Jude
 chapter: 1
 slug: jude-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ Jude weaves together warning and reassurance rather than offering only one or th
 - **Cain** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
+- **Enoch** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

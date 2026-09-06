@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 2
 slug: joel-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,14 +51,15 @@ _Not yet developed._
 - [[D&C 84]] — 2 footnote cross-references (from [[Joel 2#^joel-2-10|Joel 2:10]])
 - [[D&C 45]] — 2 footnote cross-references (from [[Joel 2#^joel-2-10|Joel 2:10]])
 - [[Acts 2]] — 3 parallel verses, e.g. [[Joel 2#^joel-2-28|Joel 2:28]] ↔ [[Acts 2#^acts-2-17|Acts 2:17]]
-- [[Joel 3]] — 0 parallel verses
-- [[Nehemiah 9]] — 0 parallel verses
-- [[Jonah 4]] — 0 parallel verses
-- [[Zephaniah 1]] — 0 parallel verses
+- [[Joel 3]] — 2 parallel verses, e.g. [[Joel 2#^joel-2-10|Joel 2:10]] ↔ [[Joel 3#^joel-3-15|Joel 3:15]]
+- [[Nehemiah 9]] — 1 parallel verse, e.g. [[Joel 2#^joel-2-13|Joel 2:13]] ↔ [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]]
+- [[Jonah 4]] — 1 parallel verse, e.g. [[Joel 2#^joel-2-13|Joel 2:13]] ↔ [[Jonah 4#^jonah-4-2|Jonah 4:2]]
+- [[Zephaniah 1]] — 2 parallel verses, e.g. [[Joel 2#^joel-2-11|Joel 2:11]] ↔ [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]]
 - [[Acts 2]] — 0 parallel verses
 - [[Romans 10]] — 0 parallel verses
 - [[Exodus 34]] — 0 parallel verses
 - [[D&C 34]] — 0 parallel verses
+- [[Joel 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +84,7 @@ _Not yet developed._
 - [[He Will Place You on His Shoulders and Carry You Home (President Dieter F. Uchtdorf, April 2016)|He Will Place You on His Shoulders and Carry You Home]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
 - [[“And upon the Handmaids in Those Days Will I Pour Out My Spirit” (Julie B. Beck, April 2010)|“And upon the Handmaids in Those Days Will I Pour Out My Spirit”]] — Julie B. Beck, 2010-April *(explicit citation)*
+- [[Fulfilling the Purpose of Relief Society (Julie B. Beck, October 2008)|Fulfilling the Purpose of Relief Society]] — Julie B. Beck, 2008-October *(explicit citation)*
 - [[Conference Report, April 1930 (General Conference (full report), April 1930)|Conference Report, April 1930]] — General Conference (full report), 1930-April *(explicit citation)*
 - [[Sacred Keys of the Aaronic Priesthood (Larry M. Gibson, April 2011)|Sacred Keys of the Aaronic Priesthood]] — Larry M. Gibson, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -95,6 +97,7 @@ _Not yet developed._
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1841-10-01 (Vol. 2 No. 23)** (periodical, 1841-10-01) *(explicit citation)*
 - **Times and Seasons 1844-11-15 (Vol. 5 No. 21)** (periodical, 1844-11-15) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

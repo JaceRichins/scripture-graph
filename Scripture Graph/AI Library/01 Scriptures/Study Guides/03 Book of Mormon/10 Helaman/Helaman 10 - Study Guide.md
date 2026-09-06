@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 10
 slug: hel-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,13 +48,14 @@ _Not yet developed._
 - [[Mosiah 24]] — 1 footnote cross-reference (from [[Helaman 10#^hel-10-4|Helaman 10:4]])
 - [[3 Nephi 11]] — 1 footnote cross-reference (from [[Helaman 10#^hel-10-4|Helaman 10:4]])
 - [[3 Nephi 18]] — 1 footnote cross-reference (from [[Helaman 10#^hel-10-5|Helaman 10:5]])
+- [[Matthew 18]] — 1 parallel verse, e.g. [[Helaman 10#^hel-10-7|Helaman 10:7]] ↔ [[Matthew 18#^matt-18-18|Matthew 18:18]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[Helaman 10#^hel-10-7|Helaman 10:7]] ↔ [[D&C 128#^dc-128-8|D&C 128:8]]
 - [[Ether 11]] — 2 parallel verses, e.g. [[Helaman 10#^hel-10-1|Helaman 10:1]] ↔ [[Ether 11#^ether-11-15|Ether 11:15]]
 - [[Alma 59]] — 2 parallel verses, e.g. [[Helaman 10#^hel-10-3|Helaman 10:3]] ↔ [[Alma 59#^alma-59-11|Alma 59:11]]
 - [[D&C 132]] — 1 parallel verse, e.g. [[Helaman 10#^hel-10-7|Helaman 10:7]] ↔ [[D&C 132#^dc-132-46|D&C 132:46]]
+- [[Matthew 21]] — 1 parallel verse, e.g. [[Helaman 10#^hel-10-9|Helaman 10:9]] ↔ [[Matthew 21#^matt-21-21|Matthew 21:21]]
 - [[3 Nephi 17]] — 1 parallel verse, e.g. [[Helaman 10#^hel-10-3|Helaman 10:3]] ↔ [[3 Nephi 17#^3ne-17-14|3 Nephi 17:14]]
 - [[D&C 124]] — 1 parallel verse, e.g. [[Helaman 10#^hel-10-7|Helaman 10:7]] ↔ [[D&C 124#^dc-124-93|D&C 124:93]]
-- [[Matthew 18]] — 0 parallel verses
 - [[D&C 132]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 

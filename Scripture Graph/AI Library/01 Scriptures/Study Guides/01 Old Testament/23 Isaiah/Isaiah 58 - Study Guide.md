@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 58
 slug: isa-58
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,20 +48,20 @@ _Not yet developed._
 - [[D&C 42]] — 1 footnote cross-reference (from [[Isaiah 58#^isa-58-1|Isaiah 58:1]])
 - [[Malachi 3]] — 1 footnote cross-reference (from [[Isaiah 58#^isa-58-3|Isaiah 58:3]])
 - [[Alma 34]] — 1 footnote cross-reference (from [[Isaiah 58#^isa-58-3|Isaiah 58:3]])
+- [[Isaiah 1]] — 1 parallel verse, e.g. [[Isaiah 58#^isa-58-14|Isaiah 58:14]] ↔ [[Isaiah 1#^isa-1-20|Isaiah 1:20]]
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Isaiah 58#^isa-58-14|Isaiah 58:14]] ↔ [[Isaiah 40#^isa-40-5|Isaiah 40:5]]
 - [[Isaiah 40]] — 0 parallel verses
 - [[Isaiah 1]] — 0 parallel verses
 - [[Amos 5]] — 0 parallel verses
 - [[Matthew 25]] — 0 parallel verses
 - [[D&C 34]] — 0 parallel verses
-- [[Isaiah 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Sabbath Day]]
-- [[Fasting]]
 - [[Fasting and Prayer for the Poor]]
+- [[Fasting]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -92,6 +92,7 @@ The promised blessings should be read with care. They express a strong covenanta
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Fasts** (reference-entry) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

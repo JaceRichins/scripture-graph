@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 40
 slug: gen-40
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[1 Nephi 11]] — 1 footnote cross-reference (from [[Genesis 40#^gen-40-8|Genesis 40:8]])
 - [[Genesis 41]] — 2 parallel verses, e.g. [[Genesis 40#^gen-40-5|Genesis 40:5]] ↔ [[Genesis 41#^gen-41-11|Genesis 41:11]]
 - [[Genesis 22]] — 2 parallel verses, e.g. [[Genesis 40#^gen-40-1|Genesis 40:1]] ↔ [[Genesis 22#^gen-22-1|Genesis 22:1]]
+- [[Genesis 41]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

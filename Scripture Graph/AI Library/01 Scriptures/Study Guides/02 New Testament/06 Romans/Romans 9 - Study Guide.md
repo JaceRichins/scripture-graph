@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 9
 slug: rom-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[2 Nephi 18]] — 0 parallel verses
 - [[Isaiah 10]] — 0 parallel verses
 - [[Malachi 1]] — 0 parallel verses
+- [[Isaiah 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,6 +78,8 @@ _Not yet developed._
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
+- **Election** (reference-entry) *(explicit citation)*
+- **Genesis** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

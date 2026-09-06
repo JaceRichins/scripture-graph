@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 16
 slug: 1cor-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ The chapter follows a recognizable Pauline letter-closing pattern also found in 
 - [[Revelation 22]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
 - [[Galatians 6]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Galatians 6#^gal-6-18|Galatians 6:18]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
+- [[Galatians 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,6 +78,8 @@ Although this chapter is largely administrative, it closes the letter's argument
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Apollos** (reference-entry) *(explicit citation)*
 - **Aquila** (reference-entry) *(explicit citation)*
+- **Ephesus** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

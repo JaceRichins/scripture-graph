@@ -31,6 +31,7 @@ _Not yet developed._
 - [[Hebrews 11]]
 - [[Jacob 4]]
 - [[D&C 132]]
+- [[James 2]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

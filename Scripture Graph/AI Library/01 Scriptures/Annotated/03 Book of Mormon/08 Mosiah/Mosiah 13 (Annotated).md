@@ -81,7 +81,7 @@ cssclasses:
 > [[Proverbs 24#^prov-24-28|Prov. 24:28]] · [[Exodus 20#^ex-20-16|≈ Exodus 20:16]]
 
 ![[Mosiah 13#^mosiah-13-24]]
-> [[Exodus 20#^ex-20-17|≈ Exodus 20:17]] · [[D&C 19#^dc-19-25|≈ D&C 19:25]]
+> [[D&C 19#^dc-19-25|≈ D&C 19:25]] · [[Exodus 20#^ex-20-17|≈ Exodus 20:17]]
 
 ![[Mosiah 13#^mosiah-13-25]]
 > [[Mosiah 12#^mosiah-12-37|Mosiah 12:37]] · [[Mosiah 12#^mosiah-12-37|≈ Mosiah 12:37]]
@@ -104,7 +104,7 @@ cssclasses:
 > [[Mosiah 16#^mosiah-16-14|Mosiah 16:14]] · [[Alma 25#^alma-25-15|Alma 25:15 (15–16)]]
 
 ![[Mosiah 13#^mosiah-13-32]]
-> [[Psalm 111#^ps-111-10|Ps. 111:10]] · [[2 Nephi 25#^2ne-25-23|2 Ne. 25:23 (23–25)]] · [[Alma 33#^alma-33-20|≈ Alma 33:20]] · [[1 Nephi 17#^1ne-17-19|≈ 1 Nephi 17:19]]
+> [[Psalm 111#^ps-111-10|Ps. 111:10]] · [[2 Nephi 25#^2ne-25-23|2 Ne. 25:23 (23–25)]] · [[1 Nephi 17#^1ne-17-19|≈ 1 Nephi 17:19]] · [[Alma 33#^alma-33-20|≈ Alma 33:20]]
 
 ![[Mosiah 13#^mosiah-13-33]]
 > [[1 Peter 1#^1pet-1-11|1 Pet. 1:11]] · [[1 Nephi 10#^1ne-10-5|1 Ne. 10:5]] · [[Jacob 4#^jacob-4-4|Jacob 4:4]] · [[Jacob 7#^jacob-7-11|7:11 (11–12)]] · [[Alma 25#^alma-25-10|Alma 25:16 (10–16)]] · [[Alma 30#^alma-30-44|30:44]]

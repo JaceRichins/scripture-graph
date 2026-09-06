@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 17
 slug: lev-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Blood** (reference-entry) *(explicit citation)*
 - **Clean and unclean** (reference-entry) *(explicit citation)*
+- **Flesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

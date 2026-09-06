@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 26
 slug: deut-26
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -55,11 +55,11 @@ _Not yet developed._
 - [[Deuteronomy 27]] — 4 parallel verses, e.g. [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]] ↔ [[Deuteronomy 27#^deut-27-3|Deuteronomy 27:3]]
 - [[Numbers 16]] — 4 parallel verses, e.g. [[Deuteronomy 26#^deut-26-9|Deuteronomy 26:9]] ↔ [[Numbers 16#^num-16-13|Numbers 16:13]]
 - [[Deuteronomy 17]] — 4 parallel verses, e.g. [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]] ↔ [[Deuteronomy 17#^deut-17-14|Deuteronomy 17:14]]
+- [[Deuteronomy 6]] — 4 parallel verses, e.g. [[Deuteronomy 26#^deut-26-16|Deuteronomy 26:16]] ↔ [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]]
 - [[Deuteronomy 25]] — 2 parallel verses, e.g. [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]] ↔ [[Deuteronomy 25#^deut-25-19|Deuteronomy 25:19]]
 - [[Deuteronomy 5]] — 3 parallel verses, e.g. [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]] ↔ [[Deuteronomy 5#^deut-5-16|Deuteronomy 5:16]]
 - [[Deuteronomy 15]] — 2 parallel verses, e.g. [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]] ↔ [[Deuteronomy 15#^deut-15-4|Deuteronomy 15:4]]
 - [[Deuteronomy 4]] — 2 parallel verses, e.g. [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]] ↔ [[Deuteronomy 4#^deut-4-21|Deuteronomy 4:21]]
-- [[Deuteronomy 21]] — 2 parallel verses, e.g. [[Deuteronomy 26#^deut-26-1|Deuteronomy 26:1]] ↔ [[Deuteronomy 21#^deut-21-23|Deuteronomy 21:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +83,7 @@ Covenant identity is likewise paired with covenant conduct. Verses 17–19 combi
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Firstfruits** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1843-06-15 (Vol. 4 No. 15)** (periodical, 1843-06-15) *(explicit citation)*
 <!-- SG:END history -->
 

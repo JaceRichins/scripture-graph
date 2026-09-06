@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 30
 slug: jer-30
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,19 +58,19 @@ _Not yet developed._
 - [[Jeremiah 32]] — 4 parallel verses, e.g. [[Jeremiah 30#^jer-30-1|Jeremiah 30:1]] ↔ [[Jeremiah 32#^jer-32-1|Jeremiah 32:1]]
 - [[Jeremiah 11]] — 3 parallel verses, e.g. [[Jeremiah 30#^jer-30-1|Jeremiah 30:1]] ↔ [[Jeremiah 11#^jer-11-1|Jeremiah 11:1]]
 - [[Jeremiah 7]] — 3 parallel verses, e.g. [[Jeremiah 30#^jer-30-1|Jeremiah 30:1]] ↔ [[Jeremiah 7#^jer-7-1|Jeremiah 7:1]]
+- [[Jeremiah 31]] — 3 parallel verses, e.g. [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
 - [[Jeremiah 51]] — 3 parallel verses, e.g. [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]] ↔ [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]]
 - [[Amos 9]] — 3 parallel verses, e.g. [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]] ↔ [[Amos 9#^amos-9-14|Amos 9:14]]
 - [[Zechariah 13]] — 1 parallel verse, e.g. [[Jeremiah 30#^jer-30-8|Jeremiah 30:8]] ↔ [[Zechariah 13#^zech-13-2|Zechariah 13:2]]
 - [[Ezekiel 36]] — 1 parallel verse, e.g. [[Jeremiah 30#^jer-30-22|Jeremiah 30:22]] ↔ [[Ezekiel 36#^ezek-36-28|Ezekiel 36:28]]
 - [[Ezekiel 29]] — 2 parallel verses, e.g. [[Jeremiah 30#^jer-30-3|Jeremiah 30:3]] ↔ [[Ezekiel 29#^ezek-29-14|Ezekiel 29:14]]
-- [[Jeremiah 34]] — 2 parallel verses, e.g. [[Jeremiah 30#^jer-30-18|Jeremiah 30:18]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Freedom and Liberty]]
 - [[Scattering of Israel]]
 - [[Records and Sacred Writings]]
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Jesus Christ (Gospel Topic)]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

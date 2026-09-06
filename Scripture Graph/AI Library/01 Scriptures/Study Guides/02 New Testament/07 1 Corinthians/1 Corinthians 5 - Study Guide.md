@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 5
 slug: 1cor-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[D&C 2]] — 1 footnote cross-reference (from [[1 Corinthians 5#^1cor-5-5|1 Corinthians 5:5]])
 - [[D&C 19]] — 1 footnote cross-reference (from [[1 Corinthians 5#^1cor-5-5|1 Corinthians 5:5]])
 - [[Exodus 12]] — 0 parallel verses
+- [[Galatians 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,6 +70,7 @@ _Not yet developed._
 - **Bible** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Easter** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

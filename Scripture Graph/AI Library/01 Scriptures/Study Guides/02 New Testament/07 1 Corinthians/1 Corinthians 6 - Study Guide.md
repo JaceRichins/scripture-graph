@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 6
 slug: 1cor-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[1 Corinthians 7]] — 0 parallel verses
 - [[1 Corinthians 3]] — 0 parallel verses
 - [[1 Corinthians 10]] — 0 parallel verses
+- [[Ephesians 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

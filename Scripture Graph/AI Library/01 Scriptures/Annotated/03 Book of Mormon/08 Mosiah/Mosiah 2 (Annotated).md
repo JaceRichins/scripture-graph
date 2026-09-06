@@ -98,7 +98,7 @@ cssclasses:
 > [[Mosiah 1#^mosiah-1-10|Mosiah 1:10]] · [[Mosiah 6#^mosiah-6-3|6:3 (3–4)]]
 
 ![[Mosiah 2#^mosiah-2-31]]
-> [[Alma 38#^alma-38-1|≈ Alma 38:1]] · [[Alma 5#^alma-5-43|≈ Alma 5:43]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 34#^alma-34-30|≈ Alma 34:30]] · [[Alma 36#^alma-36-30|≈ Alma 36:30]] · [[Alma 36#^alma-36-1|≈ Alma 36:1]]
+> [[Alma 5#^alma-5-43|≈ Alma 5:43]] · [[Alma 9#^alma-9-13|≈ Alma 9:13]] · [[Alma 34#^alma-34-30|≈ Alma 34:30]] · [[Alma 36#^alma-36-30|≈ Alma 36:30]] · [[Alma 36#^alma-36-1|≈ Alma 36:1]] · [[Alma 38#^alma-38-1|≈ Alma 38:1]]
 
 ![[Mosiah 2#^mosiah-2-32]]
 > [[Ephesians 4#^eph-4-26|Eph. 4:27 (26–27)]] · [[3 Nephi 11#^3ne-11-29|3 Ne. 11:29]] · [[Alma 3#^alma-3-26|Alma 3:27 (26–27)]] · [[Alma 5#^alma-5-41|5:42 (41–42)]] · [[Alma 30#^alma-30-60|30:60]] · [[D&C 29#^dc-29-45|D&amp;C 29:45]] · [[2 Nephi 32#^2ne-32-8|2 Ne. 32:8]] · [[Mosiah 4#^mosiah-4-14|Mosiah 4:14]] · [[Alma 5#^alma-5-20|Alma 5:20]]

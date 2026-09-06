@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 27
 slug: matt-27
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

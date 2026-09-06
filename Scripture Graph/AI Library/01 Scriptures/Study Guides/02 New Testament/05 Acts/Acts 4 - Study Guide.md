@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 4
 slug: acts-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ Scripture: [[Acts 4]] · My notes: [[Acts 4 - My Notes]]
 - [[2 Nephi 25]] — 0 parallel verses
 - [[4 Nephi 1]] — 0 parallel verses
 - [[Acts 5]] — 0 parallel verses
+- [[D&C 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

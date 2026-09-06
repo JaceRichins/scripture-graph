@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 5
 slug: 2cor-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[1 John 2]] — 1 footnote cross-reference (from [[2 Corinthians 5#^2cor-5-17|2 Corinthians 5:17]])
 - [[Romans 8]] — 0 parallel verses
 - [[1 Corinthians 15]] — 0 parallel verses
+- [[Galatians 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,6 +87,7 @@ Key doctrinal threads: (1) hope of a future, immortal embodiment described throu
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Earnest** (reference-entry) *(explicit citation)*
+- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

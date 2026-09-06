@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 9
 slug: dc-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,15 +51,16 @@ _Not yet developed._
 - [[Alma 38]] — 3 parallel verses, e.g. [[D&C 9#^dc-9-14|D&C 9:14]] ↔ [[Alma 38#^alma-38-5|Alma 38:5]]
 - [[Alma 36]] — 2 parallel verses, e.g. [[D&C 9#^dc-9-14|D&C 9:14]] ↔ [[Alma 36#^alma-36-3|Alma 36:3]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[D&C 9#^dc-9-14|D&C 9:14]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
+- [[D&C 99]] — 2 parallel verses, e.g. [[D&C 9#^dc-9-3|D&C 9:3]] ↔ [[D&C 99#^dc-99-6|D&C 99:6]]
 - [[D&C 17]] — 1 parallel verse, e.g. [[D&C 9#^dc-9-14|D&C 9:14]] ↔ [[D&C 17#^dc-17-8|D&C 17:8]]
 - [[D&C 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Scripture Study]]
 - [[Records and Sacred Writings]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -71,6 +72,7 @@ The chapter also separates discipline from final rejection. A privilege is withd
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Using the Supernal Gift of Prayer (Elder Richard G. Scott, April 2007)|Using the Supernal Gift of Prayer]] — Elder Richard G. Scott, 2007-April *(explicit citation)*
 - [[Finding Strength in Challenging Times! (Elder Allan F. Packer, April 2009)|Finding Strength in Challenging Times!]] — Elder Allan F. Packer, 2009-April *(explicit citation)*
 - [[Look to the Book, Look to the Lord (Elder Gary E. Stevenson, October 2016)|Look to the Book, Look to the Lord]] — Elder Gary E. Stevenson, 2016-October *(explicit citation)*
 - [[Missionary Work Sharing What Is in Your Heart (Elder Dieter F. Uchtdorf, April 2019)|Missionary Work: Sharing What Is in Your Heart]] — Elder Dieter F. Uchtdorf, 2019-April *(explicit citation)*
@@ -80,7 +82,6 @@ The chapter also separates discipline from final rejection. A privilege is withd
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Be Not Moved! (Elaine S. Dalton, April 2013)|Be Not Moved!]] — Elaine S. Dalton, 2013-April *(explicit citation)*
 - [[The Lord’s Way (Elder Stanley G. Ellis, April 2013)|The Lord’s Way]] — Elder Stanley G. Ellis, 2013-April *(explicit citation)*
-- [[General Conference Strengthening Faith and Testimony (Elder Robert D. Hales, October 2013)|General Conference: Strengthening Faith and Testimony]] — Elder Robert D. Hales, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

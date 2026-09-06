@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 3
 slug: jer-3
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

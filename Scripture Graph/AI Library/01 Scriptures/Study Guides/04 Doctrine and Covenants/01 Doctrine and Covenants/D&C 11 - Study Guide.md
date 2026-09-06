@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 11
 slug: dc-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,27 +51,27 @@ _Not yet developed._
 - [[Matthew 7]] — 2 footnote cross-references (from [[D&C 11#^dc-11-12|D&C 11:12]])
 - [[D&C 10]] — 2 footnote cross-references (from [[D&C 11#^dc-11-16|D&C 11:16]])
 - [[Isaiah 29]] — 1 footnote cross-reference (from [[D&C 11#^dc-11-1|D&C 11:1]])
+- [[D&C 6]] — 12 parallel verses, e.g. [[D&C 11#^dc-11-3|D&C 11:3]] ↔ [[D&C 6#^dc-6-3|D&C 6:3]]
+- [[D&C 12]] — 6 parallel verses, e.g. [[D&C 11#^dc-11-3|D&C 11:3]] ↔ [[D&C 12#^dc-12-3|D&C 12:3]]
+- [[D&C 14]] — 6 parallel verses, e.g. [[D&C 11#^dc-11-3|D&C 11:3]] ↔ [[D&C 14#^dc-14-3|D&C 14:3]]
 - [[D&C 33]] — 4 parallel verses, e.g. [[D&C 11#^dc-11-2|D&C 11:2]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
 - [[D&C 10]] — 3 parallel verses, e.g. [[D&C 11#^dc-11-28|D&C 11:28]] ↔ [[D&C 10#^dc-10-57|D&C 10:57]]
+- [[D&C 4]] — 2 parallel verses, e.g. [[D&C 11#^dc-11-1|D&C 11:1]] ↔ [[D&C 4#^dc-4-1|D&C 4:1]]
+- [[John 1]] — 1 parallel verse, e.g. [[D&C 11#^dc-11-30|D&C 11:30]] ↔ [[John 1#^john-1-12|John 1:12]]
 - [[D&C 8]] — 2 parallel verses, e.g. [[D&C 11#^dc-11-17|D&C 11:17]] ↔ [[D&C 8#^dc-8-11|D&C 8:11]]
 - [[D&C 45]] — 1 parallel verse, e.g. [[D&C 11#^dc-11-29|D&C 11:29]] ↔ [[D&C 45#^dc-45-8|D&C 45:8]]
 - [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 11#^dc-11-28|D&C 11:28]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[D&C 52]] — 1 parallel verse, e.g. [[D&C 11#^dc-11-28|D&C 11:28]] ↔ [[D&C 52#^dc-52-44|D&C 52:44]]
 - [[D&C 39]] — 1 parallel verse, e.g. [[D&C 11#^dc-11-29|D&C 11:29]] ↔ [[D&C 39#^dc-39-3|D&C 39:3]]
-- [[D&C 6]] — 0 parallel verses
-- [[D&C 14]] — 0 parallel verses
-- [[D&C 12]] — 0 parallel verses
-- [[John 1]] — 0 parallel verses
-- [[D&C 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Prophecy]]
 - [[Scripture Study]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Faith]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
 - [[Kingdom of God]] *(keyword match — unconfirmed)*

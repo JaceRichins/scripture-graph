@@ -109,7 +109,7 @@ cssclasses:
 > [[Moroni 10#^moro-10-23|Moro. 10:23]] · [[Galatians 2#^gal-2-16|Gal. 2:16]] · [[D&C 88#^dc-88-64|D&amp;C 88:64 (64–65)]]
 
 ![[Moroni 7#^moro-7-34]]
-> [[3 Nephi 27#^3ne-27-20|3 Ne. 27:20]] · [[Ether 4#^ether-4-18|Ether 4:18]] · [[3 Nephi 21#^3ne-21-6|≈ 3 Nephi 21:6]] · [[3 Nephi 27#^3ne-27-20|≈ 3 Nephi 27:20]] · [[3 Nephi 30#^3ne-30-2|≈ 3 Nephi 30:2]] · [[Ether 4#^ether-4-18|≈ Ether 4:18]]
+> [[3 Nephi 27#^3ne-27-20|3 Ne. 27:20]] · [[Ether 4#^ether-4-18|Ether 4:18]] · [[Ether 4#^ether-4-18|≈ Ether 4:18]] · [[3 Nephi 21#^3ne-21-6|≈ 3 Nephi 21:6]] · [[3 Nephi 27#^3ne-27-20|≈ 3 Nephi 27:20]] · [[3 Nephi 30#^3ne-30-2|≈ 3 Nephi 30:2]]
 
 ![[Moroni 7#^moro-7-35]]
 > [[2 Nephi 33#^2ne-33-11|2 Ne. 33:11]] · [[Ether 5#^ether-5-4|Ether 5:4 (4–6)]] · [[Mormon 9#^morm-9-15|Morm. 9:15]] · [[D&C 35#^dc-35-8|D&amp;C 35:8]] · [[2 Nephi 33#^2ne-33-11|≈ 2 Nephi 33:11]]

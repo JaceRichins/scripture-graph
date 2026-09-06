@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 6
 slug: 2ne-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The chapter's core doctrinal content concerns [[Jews and Gentiles]], the [[Gathe
 <!-- SG:BEGIN conference -->
 - [[Essential Conversations (Joy D. Jones, April 2021)|Essential Conversations]] — Joy D. Jones, 2021-April *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[Do We Trust Him Hard Is Good (Elder Stanley G. Ellis, October 2017)|Do We Trust Him? Hard Is Good]] — Elder Stanley G. Ellis, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 

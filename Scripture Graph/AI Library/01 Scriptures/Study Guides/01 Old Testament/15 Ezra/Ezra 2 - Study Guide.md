@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 2
 slug: ezra-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,10 +56,10 @@ Scripture: [[Ezra 2]] · My notes: [[Ezra 2 - My Notes]]
 - [[1 Nephi 10]] — 1 footnote cross-reference (from [[Ezra 2#^ezra-2-1|Ezra 2:1]])
 - [[Omni 1]] — 1 footnote cross-reference (from [[Ezra 2#^ezra-2-1|Ezra 2:1]])
 - [[1 Chronicles 3]] — 1 footnote cross-reference (from [[Ezra 2#^ezra-2-2|Ezra 2:2]])
+- [[Nehemiah 7]] — 49 parallel verses, e.g. [[Ezra 2#^ezra-2-1|Ezra 2:1]] ↔ [[Nehemiah 7#^neh-7-6|Nehemiah 7:6]]
 - [[Ezra 7]] — 1 parallel verse, e.g. [[Ezra 2#^ezra-2-70|Ezra 2:70]] ↔ [[Ezra 7#^ezra-7-7|Ezra 7:7]]
 - [[Esther 2]] — 1 parallel verse, e.g. [[Ezra 2#^ezra-2-1|Ezra 2:1]] ↔ [[Esther 2#^esth-2-6|Esther 2:6]]
 - [[Nehemiah 11]] — 1 parallel verse, e.g. [[Ezra 2#^ezra-2-58|Ezra 2:58]] ↔ [[Nehemiah 11#^neh-11-3|Nehemiah 11:3]]
-- [[Nehemiah 7]] — 0 parallel verses
 - [[Nehemiah 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
@@ -85,6 +85,7 @@ _Not yet developed._
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
+- **Genealogy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

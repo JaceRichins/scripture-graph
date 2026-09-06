@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 2
 slug: rom-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -67,7 +67,9 @@ _Not yet developed._
 - [[The Lord Is Hastening His Work (Elder Quentin L. Cook, October 2025)|The Lord Is Hastening His Work]] — Elder Quentin L. Cook, 2025-October *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[The Merciful Obtain Mercy (President Dieter F. Uchtdorf, April 2012)|The Merciful Obtain Mercy]] — President Dieter F. Uchtdorf, 2012-April *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[Come Let Us Go Up to the Mountain of the Lord (Elaine S. Dalton, April 2009)|Come Let Us Go Up to the Mountain of the Lord]] — Elaine S. Dalton, 2009-April *(explicit citation)*
+- [[Have We Not Reason to Rejoice (Elder Dieter F. Uchtdorf, October 2007)|Have We Not Reason to Rejoice?]] — Elder Dieter F. Uchtdorf, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

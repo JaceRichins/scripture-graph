@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 18
 slug: ezek-18
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -49,13 +49,14 @@ _Not yet developed._
 - [[Lamentations 5]] — 1 footnote cross-reference (from [[Ezekiel 18#^ezek-18-2|Ezekiel 18:2]])
 - [[Hebrews 12]] — 1 footnote cross-reference (from [[Ezekiel 18#^ezek-18-5|Ezekiel 18:5]])
 - [[D&C 76]] — 1 footnote cross-reference (from [[Ezekiel 18#^ezek-18-5|Ezekiel 18:5]])
+- [[Ezekiel 33]] — 18 parallel verses, e.g. [[Ezekiel 18#^ezek-18-21|Ezekiel 18:21]] ↔ [[Ezekiel 33#^ezek-33-16|Ezekiel 33:16]]
+- [[Ezekiel 14]] — 4 parallel verses, e.g. [[Ezekiel 18#^ezek-18-30|Ezekiel 18:30]] ↔ [[Ezekiel 14#^ezek-14-6|Ezekiel 14:6]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Ezekiel 18#^ezek-18-3|Ezekiel 18:3]] ↔ [[Ezekiel 20#^ezek-20-3|Ezekiel 20:3]]
 - [[Ezekiel 35]] — 2 parallel verses, e.g. [[Ezekiel 18#^ezek-18-3|Ezekiel 18:3]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
-- [[Ezekiel 33]] — 0 parallel verses
-- [[Jeremiah 31]] — 0 parallel verses
+- [[Jeremiah 31]] — 1 parallel verse, e.g. [[Ezekiel 18#^ezek-18-2|Ezekiel 18:2]] ↔ [[Jeremiah 31#^jer-31-29|Jeremiah 31:29]]
 - [[Jeremiah 31]] — 0 parallel verses
 - [[Deuteronomy 24]] — 0 parallel verses
-- [[Ezekiel 14]] — 0 parallel verses
+- [[Ezekiel 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

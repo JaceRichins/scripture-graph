@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 7
 slug: 2chr-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -83,12 +83,13 @@ The chapter also rejects confidence in sacred space apart from covenant fidelity
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Will a Man Rob God (Elder Yoshihiko Kikuchi, April 2007)|Will a Man Rob God?]] — Elder Yoshihiko Kikuchi, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Feasts** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

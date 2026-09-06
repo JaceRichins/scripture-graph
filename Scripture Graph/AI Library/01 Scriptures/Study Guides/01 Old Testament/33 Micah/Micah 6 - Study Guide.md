@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 6
 slug: micah-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Jeremiah 25]] — 1 parallel verse, e.g. [[Micah 6#^micah-6-2|Micah 6:2]] ↔ [[Jeremiah 25#^jer-25-31|Jeremiah 25:31]]
 - [[Psalm 50]] — 0 parallel verses
 - [[Hosea 12]] — 0 parallel verses
+- [[Amos 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

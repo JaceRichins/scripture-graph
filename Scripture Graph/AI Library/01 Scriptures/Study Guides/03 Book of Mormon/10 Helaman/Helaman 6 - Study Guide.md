@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 6
 slug: hel-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -60,7 +60,9 @@ Verse 17 — where getting gain shifts from the neutral trade of verse 8 to a me
 - [[Helaman 3]] — 2 footnote cross-references (from [[Helaman 6#^hel-6-6|Helaman 6:6]])
 - [[Helaman 8]] — 2 footnote cross-references (from [[Helaman 6#^hel-6-10|Helaman 6:10]])
 - [[Alma 53]] — 3 parallel verses, e.g. [[Helaman 6#^hel-6-4|Helaman 6:4]] ↔ [[Alma 53#^alma-53-10|Alma 53:10]]
+- [[Mosiah 11]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-9|Helaman 6:9]] ↔ [[Mosiah 11#^mosiah-11-8|Mosiah 11:8]]
 - [[Alma 62]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-4|Helaman 6:4]] ↔ [[Alma 62#^alma-62-27|Alma 62:27]]
+- [[Helaman 4]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-1|Helaman 6:1]] ↔ [[Helaman 4#^hel-4-18|Helaman 4:18]]
 - [[Alma 48]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-30|Helaman 6:30]] ↔ [[Alma 48#^alma-48-17|Alma 48:17]]
 - [[Alma 50]] — 1 parallel verse, e.g. [[Helaman 6#^hel-6-15|Helaman 6:15]] ↔ [[Alma 50#^alma-50-37|Alma 50:37]]
 - [[Alma 37]] — 0 parallel verses
@@ -73,10 +75,10 @@ Verse 17 — where getting gain shifts from the neutral trade of verse 8 to a me
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Secret Combinations]]
-- [[Government and Laws]]
 - [[Satan and Temptation]]
 - [[Pride]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Covenants]] *(keyword match — unconfirmed)*
 - [[Humility]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
@@ -95,7 +97,9 @@ The chapter is also notable for what it does not blame: riches themselves are no
 - [[An Easiness and Willingness to Believe (Elder Michael T. Ringwood, October 2009)|An Easiness and Willingness to Believe]] — Elder Michael T. Ringwood, 2009-October *(explicit citation)*
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 - [[Harden Not Your Heart (Elder Christopher H. Kim, April 2025)|Harden Not Your Heart]] — Elder Christopher H. Kim, 2025-April *(explicit citation)*
+- [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
+- [[Point of Safe Return (Elder Dieter F. Uchtdorf, April 2007)|Point of Safe Return]] — Elder Dieter F. Uchtdorf, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

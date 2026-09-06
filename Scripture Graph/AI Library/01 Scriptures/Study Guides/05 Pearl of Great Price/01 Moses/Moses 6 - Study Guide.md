@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 6
 slug: moses-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -105,8 +105,8 @@ The passage calls this teaching the [[Plan of Salvation]] and grounds it in the 
 - [[Jesus Christ Is Not Our Burden; He Is Our Relief (Brother David J. Wunderli, April 2026)|Jesus Christ Is Not Our Burden; He Is Our Relief]] — Brother David J. Wunderli, 2026-April *(explicit citation)*
 - [[Free Forever, to Act for Themselves (Elder D. Todd Christofferson, October 2014)|Free Forever, to Act for Themselves]] — Elder D. Todd Christofferson, 2014-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[Born Again (Elder D. Todd Christofferson, April 2008)|Born Again]] — Elder D. Todd Christofferson, 2008-April *(explicit citation)*
 - [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
-- [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

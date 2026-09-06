@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 10
 slug: 1cor-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,8 @@ _Not yet developed._
 - [[1 Corinthians 8]] — 0 parallel verses
 - [[1 Corinthians 9]] — 0 parallel verses
 - [[1 Corinthians 6]] — 0 parallel verses
+- [[Exodus 14]] — 0 parallel verses
+- [[Hebrews 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -100,6 +102,7 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Communion** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **Feasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

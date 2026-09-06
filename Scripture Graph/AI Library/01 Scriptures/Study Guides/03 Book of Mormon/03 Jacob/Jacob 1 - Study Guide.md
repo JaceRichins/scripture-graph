@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 1
 slug: jacob-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -73,12 +73,12 @@ Scripture: [[Jacob 1]] · My notes: [[Jacob 1 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Records and Sacred Writings]]
 - [[Jacob 2]]
 - [[Pride]]
 - [[Government and Laws]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Prophecy]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -99,6 +99,7 @@ Jacob 1:19 makes ministerial accountability conditional on fulfilling the duty t
 - [[Come unto Christ—Together (Elder Taniela B. Wakolo, April 2026)|Come unto Christ—Together]] — Elder Taniela B. Wakolo, 2026-April *(explicit citation)*
 - [[The Cost—and Blessings—of Discipleship (Elder Jeffrey R. Holland, April 2014)|The Cost—and Blessings—of Discipleship]] — Elder Jeffrey R. Holland, 2014-April *(explicit citation)*
 - [[What Shall a Man Give in Exchange for His Soul (Elder Robert C. Gay, October 2012)|What Shall a Man Give in Exchange for His Soul?]] — Elder Robert C. Gay, 2012-October *(explicit citation)*
+- [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[The Powers of the Priesthood (President Dallin H. Oaks, April 2018)|The Powers of the Priesthood]] — President Dallin H. Oaks, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 

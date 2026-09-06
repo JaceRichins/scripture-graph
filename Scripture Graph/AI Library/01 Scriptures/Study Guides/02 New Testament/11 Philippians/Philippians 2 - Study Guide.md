@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 2
 slug: philip-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[2 Corinthians 8]] — 1 footnote cross-reference (from [[Philippians 2#^philip-2-7|Philippians 2:7]])
 - [[Hebrews 2]] — 1 footnote cross-reference (from [[Philippians 2#^philip-2-7|Philippians 2:7]])
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Philippians 2#^philip-2-12|Philippians 2:12]] ↔ [[Mormon 9#^morm-9-27|Mormon 9:27]]
+- [[Isaiah 45]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,8 +69,8 @@ _Not yet developed._
 - [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
 - [[Guided Safely Home (President Thomas S. Monson, October 2014)|Guided Safely Home]] — President Thomas S. Monson, 2014-October *(explicit citation)*
 - [[Until We Meet Again (President Thomas S. Monson, October 2014)|Until We Meet Again]] — President Thomas S. Monson, 2014-October *(explicit citation)*
+- [[The Only True God and Jesus Christ Whom He Hath Sent (Elder Jeffrey R. Holland, October 2007)|The Only True God and Jesus Christ Whom He Hath Sent]] — Elder Jeffrey R. Holland, 2007-October *(explicit citation)*
 - [[The Greatest among You (President Dieter F. Uchtdorf, April 2017)|The Greatest among You]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
-- [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

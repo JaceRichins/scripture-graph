@@ -35,13 +35,13 @@ cssclasses:
 > [[Alma 12#^alma-12-37|Alma 12:37]] · [[Alma 16#^alma-16-17|16:17]] · [[Alma 4#^alma-4-20|≈ Alma 4:20]]
 
 ![[Alma 13#^alma-13-7]]
-> [[Hebrews 7#^heb-7-3|Heb. 7:3]] · [[Abraham 1#^abr-1-2|Abr. 1:3 (2–4)]] · [[D&C 84#^dc-84-17|≈ D&C 84:17]] · [[Moses 6#^moses-6-67|≈ Moses 6:67]] · [[D&C 78#^dc-78-16|≈ D&C 78:16]] · [[Moses 1#^moses-1-3|≈ Moses 1:3]]
+> [[Hebrews 7#^heb-7-3|Heb. 7:3]] · [[Abraham 1#^abr-1-2|Abr. 1:3 (2–4)]] · [[D&C 78#^dc-78-16|≈ D&C 78:16]] · [[D&C 84#^dc-84-17|≈ D&C 84:17]] · [[Moses 1#^moses-1-3|≈ Moses 1:3]] · [[Moses 6#^moses-6-67|≈ Moses 6:67]]
 
 ![[Alma 13#^alma-13-8]]
 > [[Alma 4#^alma-4-20|≈ Alma 4:20]]
 
 ![[Alma 13#^alma-13-9]]
-> [[John 1#^john-1-14|John 1:17 (14, 17)]] · [[2 Nephi 2#^2ne-2-6|2 Ne. 2:6]] · [[Moses 1#^moses-1-6|Moses 1:6]] · [[Alma 5#^alma-5-48|≈ Alma 5:48]] · [[D&C 84#^dc-84-17|≈ D&C 84:17]] · [[Moses 6#^moses-6-67|≈ Moses 6:67]] · [[D&C 78#^dc-78-16|≈ D&C 78:16]] · [[Moses 1#^moses-1-3|≈ Moses 1:3]]
+> [[John 1#^john-1-14|John 1:17 (14, 17)]] · [[2 Nephi 2#^2ne-2-6|2 Ne. 2:6]] · [[Moses 1#^moses-1-6|Moses 1:6]] · [[Alma 5#^alma-5-48|≈ Alma 5:48]] · [[D&C 78#^dc-78-16|≈ D&C 78:16]] · [[D&C 84#^dc-84-17|≈ D&C 84:17]] · [[Moses 1#^moses-1-3|≈ Moses 1:3]] · [[Moses 6#^moses-6-67|≈ Moses 6:67]]
 
 ![[Alma 13#^alma-13-10]]
 > [[D&C 84#^dc-84-6|D&amp;C 84:18 (6–22)]] · [[D&C 107#^dc-107-40|107:53 (40–55)]]

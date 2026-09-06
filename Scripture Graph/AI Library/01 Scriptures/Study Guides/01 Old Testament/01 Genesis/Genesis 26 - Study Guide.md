@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 26
 slug: gen-26
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,22 +53,23 @@ Scripture: [[Genesis 26]] · My notes: [[Genesis 26 - My Notes]]
 - [[Genesis 12]] — 2 footnote cross-references (from [[Genesis 26#^gen-26-7|Genesis 26:7]])
 - [[Exodus 1]] — 2 footnote cross-references (from [[Genesis 26#^gen-26-16|Genesis 26:16]])
 - [[Genesis 22]] — 1 parallel verse, e.g. [[Genesis 26#^gen-26-4|Genesis 26:4]] ↔ [[Genesis 22#^gen-22-18|Genesis 22:18]]
+- [[Genesis 12]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-1|Genesis 26:1]] ↔ [[Genesis 12#^gen-12-10|Genesis 12:10]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-4|Genesis 26:4]] ↔ [[3 Nephi 20#^3ne-20-25|3 Nephi 20:25]]
+- [[Moses 5]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-20|Genesis 26:20]] ↔ [[Moses 5#^moses-5-42|Moses 5:42]]
 - [[Genesis 21]] — 2 parallel verses, e.g. [[Genesis 26#^gen-26-26|Genesis 26:26]] ↔ [[Genesis 21#^gen-21-22|Genesis 21:22]]
-- [[Moses 5]] — 0 parallel verses
 - [[Genesis 22]] — 0 parallel verses
 - [[Genesis 21]] — 0 parallel verses
 - [[Genesis 20]] — 0 parallel verses
 - [[Genesis 12]] — 0 parallel verses
 - [[3 Nephi 20]] — 0 parallel verses
 - [[Genesis 20]] — 0 parallel verses
-- [[Genesis 12]] — 0 parallel verses
+- [[Genesis 46]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Marriage]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -90,6 +91,7 @@ The chapter also complicates an idealized portrait of the patriarchs. Isaac is a
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
+- **Esau** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

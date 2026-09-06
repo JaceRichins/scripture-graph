@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 12
 slug: 2cor-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[1 Corinthians 9]] — 0 parallel verses
 - [[2 Corinthians 11]] — 0 parallel verses
 - [[3 Nephi 28]] — 0 parallel verses
+- [[D&C 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

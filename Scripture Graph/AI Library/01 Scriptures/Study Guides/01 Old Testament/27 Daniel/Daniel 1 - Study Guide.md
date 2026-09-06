@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 1
 slug: dan-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -68,9 +68,9 @@ The repeated movement from royal action to divine action keeps earthly power sub
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Word of Wisdom]]
-- [[Government and Laws]]
-- [[Education and Learning]]
 - [[Prophecy]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

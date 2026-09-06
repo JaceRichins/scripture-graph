@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 8
 slug: judg-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Abimelech** (reference-entry) *(explicit citation)*
 - **Baal** (reference-entry) *(explicit citation)*
+- **Ephod** (reference-entry) *(explicit citation)*
+- **Ephraim** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

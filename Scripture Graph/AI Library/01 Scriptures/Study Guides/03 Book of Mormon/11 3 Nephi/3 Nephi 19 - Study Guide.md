@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 19
 slug: 3ne-19
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -109,6 +109,7 @@ The disciples pray directly to Jesus, calling him "their Lord and their God" (v.
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

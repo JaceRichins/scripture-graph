@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 22
 slug: ezek-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[Ezekiel 13]] — 1 parallel verse, e.g. [[Ezekiel 22#^ezek-22-22|Ezekiel 22:22]] ↔ [[Ezekiel 13#^ezek-13-14|Ezekiel 13:14]]
 - [[Ezekiel 13]] — 0 parallel verses
 - [[Jeremiah 5]] — 0 parallel verses
+- [[Ezekiel 44]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

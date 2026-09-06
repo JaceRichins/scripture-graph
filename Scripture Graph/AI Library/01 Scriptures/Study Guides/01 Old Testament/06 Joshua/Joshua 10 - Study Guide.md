@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 10
 slug: josh-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,26 +53,26 @@ Note: verses 15 and 43 both report Joshua's return to Gilgal in nearly identical
 - [[Joshua 21]] — 1 footnote cross-reference (from [[Joshua 10#^josh-10-8|Joshua 10:8]])
 - [[Isaiah 28]] — 1 footnote cross-reference (from [[Joshua 10#^josh-10-10|Joshua 10:10]])
 - [[Exodus 9]] — 1 footnote cross-reference (from [[Joshua 10#^josh-10-11|Joshua 10:11]])
+- [[Joshua 11]] — 13 parallel verses, e.g. [[Joshua 10#^josh-10-39|Joshua 10:39]] ↔ [[Joshua 11#^josh-11-12|Joshua 11:12]]
 - [[Job 1]] — 12 parallel verses, e.g. [[Joshua 10#^josh-10-28|Joshua 10:28]] ↔ [[Job 1#^job-1-15|Job 1:15]]
 - [[Joshua 19]] — 6 parallel verses, e.g. [[Joshua 10#^josh-10-37|Joshua 10:37]] ↔ [[Joshua 19#^josh-19-47|Joshua 19:47]]
+- [[Joshua 8]] — 5 parallel verses, e.g. [[Joshua 10#^josh-10-28|Joshua 10:28]] ↔ [[Joshua 8#^josh-8-24|Joshua 8:24]]
 - [[2 Kings 10]] — 6 parallel verses, e.g. [[Joshua 10#^josh-10-39|Joshua 10:39]] ↔ [[2 Kings 10#^2kgs-10-25|2 Kings 10:25]]
 - [[Judges 1]] — 6 parallel verses, e.g. [[Joshua 10#^josh-10-28|Joshua 10:28]] ↔ [[Judges 1#^judg-1-8|Judges 1:8]]
 - [[Judges 18]] — 6 parallel verses, e.g. [[Joshua 10#^josh-10-39|Joshua 10:39]] ↔ [[Judges 18#^judg-18-27|Judges 18:27]]
 - [[Numbers 21]] — 6 parallel verses, e.g. [[Joshua 10#^josh-10-28|Joshua 10:28]] ↔ [[Numbers 21#^num-21-24|Numbers 21:24]]
 - [[Genesis 34]] — 6 parallel verses, e.g. [[Joshua 10#^josh-10-28|Joshua 10:28]] ↔ [[Genesis 34#^gen-34-26|Genesis 34:26]]
 - [[1 Kings 18]] — 1 parallel verse, e.g. [[Joshua 10#^josh-10-27|Joshua 10:27]] ↔ [[1 Kings 18#^1kgs-18-36|1 Kings 18:36]]
-- [[Joshua 8]] — 0 parallel verses
-- [[Joshua 11]] — 0 parallel verses
 - [[Joshua 6]] — 0 parallel verses
 - [[Joshua 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -88,6 +88,7 @@ The chapter joins promise and effort: Joshua is told the coalition is already 'd
 ## Church History
 <!-- SG:BEGIN history -->
 - **Beth-horon** (reference-entry) *(explicit citation)*
+- **Gaza** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 37
 slug: alma-37
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -93,9 +93,9 @@ Alma also pairs negative and positive moral instruction. Helaman must protect th
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Becoming More Powerful Priesthood Holders (Elder Walter F. González, October 2009)|Becoming More Powerful Priesthood Holders]] — Elder Walter F. González, 2009-October *(explicit citation)*
+- [[Small and Simple Things (Elder Christoffel Golden Jr., October 2007)|Small and Simple Things]] — Elder Christoffel Golden Jr., 2007-October *(explicit citation)*
 - [[Jesus Christ Is Not Our Burden; He Is Our Relief (Brother David J. Wunderli, April 2026)|Jesus Christ Is Not Our Burden; He Is Our Relief]] — Brother David J. Wunderli, 2026-April *(explicit citation)*
 - [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
-- [[Family Councils (Elder M. Russell Ballard, April 2016)|Family Councils]] — Elder M. Russell Ballard, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 22
 slug: josh-22
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,7 +89,7 @@ Joshua's opening charge presents [[Obedience]] as wholehearted attachment to God
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Gad** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

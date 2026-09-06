@@ -6,7 +6,7 @@ volume: Old Testament
 book: Obadiah
 chapter: 1
 slug: obad-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

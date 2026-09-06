@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 2
 slug: gen-2
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,17 +50,18 @@ The chapter should be read alongside, but not simply collapsed into, [[Genesis 1
 - [[Moses 4]] — 3 footnote cross-references (from [[Genesis 2#^gen-2-7|Genesis 2:7]])
 - [[Genesis 3]] — 3 footnote cross-references (from [[Genesis 2#^gen-2-9|Genesis 2:9]])
 - [[Mosiah 13]] — 2 footnote cross-references (from [[Genesis 2#^gen-2-3|Genesis 2:3]])
+- [[Moses 3]] — 25 parallel verses, e.g. [[Genesis 2#^gen-2-5|Genesis 2:5]] ↔ [[Moses 3#^moses-3-5|Moses 3:5]]
 - [[Abraham 5]] — 19 parallel verses, e.g. [[Genesis 2#^gen-2-9|Genesis 2:9]] ↔ [[Abraham 5#^abr-5-9|Abraham 5:9]]
+- [[Genesis 1]] — 1 parallel verse, e.g. [[Genesis 2#^gen-2-20|Genesis 2:20]] ↔ [[Genesis 1#^gen-1-30|Genesis 1:30]]
 - [[Abraham 4]] — 1 parallel verse, e.g. [[Genesis 2#^gen-2-20|Genesis 2:20]] ↔ [[Abraham 4#^abr-4-30|Abraham 4:30]]
-- [[Moses 3]] — 0 parallel verses
 - [[Abraham 5]] — 0 parallel verses
 - [[Genesis 1]] — 0 parallel verses
 - [[Matthew 19]] — 0 parallel verses
 - [[Mark 10]] — 0 parallel verses
 - [[Ephesians 5]] — 0 parallel verses
 - [[Moses 3]] — 0 parallel verses
-- [[Genesis 1]] — 0 parallel verses
 - [[Exodus 31]] — 0 parallel verses
+- [[Genesis 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,7 +92,7 @@ The chapter treats aloneness as “not good” and presents the woman as the cor
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[The Sabbath and the Sacrament (Elder L. Tom Perry, April 2011)|The Sabbath and the Sacrament]] — Elder L. Tom Perry, 2011-April *(explicit citation)*
 - [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
-- [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
+- [[Restoring Faith in the Family (Elder Kenneth Johnson, April 2008)|Restoring Faith in the Family]] — Elder Kenneth Johnson, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 23
 slug: dc-23
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 - [[Motions of a Hidden Fire (President Jeffrey R. Holland, April 2024)|Motions of a Hidden Fire]] — President Jeffrey R. Holland, 2024-April *(explicit citation)*
 - [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

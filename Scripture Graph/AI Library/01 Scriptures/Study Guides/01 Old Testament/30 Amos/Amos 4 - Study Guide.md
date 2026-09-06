@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 4
 slug: amos-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 - [[Haggai 2]] — 0 parallel verses
 - [[Zechariah 3]] — 0 parallel verses
 - [[Amos 6]] — 0 parallel verses
+- [[Amos 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 1
 slug: ex-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ Scripture: [[Exodus 1]] · My notes: [[Exodus 1 - My Notes]]
 - [[Genesis 35]] — 1 footnote cross-reference (from [[Exodus 1#^ex-1-1|Exodus 1:1]])
 - [[Genesis 46]] — 1 parallel verse, e.g. [[Exodus 1#^ex-1-1|Exodus 1:1]] ↔ [[Genesis 46#^gen-46-8|Genesis 46:8]]
 - [[Genesis 15]] — 0 parallel verses
+- [[Genesis 46]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -80,6 +81,7 @@ Israel's multiplication fits naturally within the [[Abrahamic Covenant]], especi
 ## Church History
 <!-- SG:BEGIN history -->
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
+- **Exodus, book of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 1
 slug: james-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,14 +58,15 @@ _Not yet developed._
 - [[Joseph Smith—History 1]] — 1 parallel verse, e.g. [[James 1#^james-1-5|James 1:5]] ↔ [[Joseph Smith—History 1#^jsh-1-11|Joseph Smith—History 1:11]]
 - [[D&C 46]] — 0 parallel verses
 - [[D&C 67]] — 0 parallel verses
+- [[James 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prayer]]
 - [[Revelation]]
-- [[Satan and Temptation]]
 - [[Endurance]]
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Pride]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

@@ -26,7 +26,7 @@ cssclasses:
 > [[Exodus 34#^ex-34-1|Ex. 34:4 (1–5)]] · [[Exodus 34#^ex-34-4|≈ Exodus 34:4]] · [[Exodus 34#^ex-34-1|≈ Exodus 34:1]]
 
 ![[Deuteronomy 10#^deut-10-4]]
-> [[Deuteronomy 4#^deut-4-15|≈ Deuteronomy 4:15]] · [[Deuteronomy 4#^deut-4-12|≈ Deuteronomy 4:12]] · [[Deuteronomy 5#^deut-5-4|≈ Deuteronomy 5:4]] · [[Deuteronomy 5#^deut-5-22|≈ Deuteronomy 5:22]] · [[Deuteronomy 9#^deut-9-10|≈ Deuteronomy 9:10]]
+> [[Deuteronomy 9#^deut-9-10|≈ Deuteronomy 9:10]] · [[Deuteronomy 4#^deut-4-15|≈ Deuteronomy 4:15]] · [[Deuteronomy 4#^deut-4-12|≈ Deuteronomy 4:12]] · [[Deuteronomy 5#^deut-5-4|≈ Deuteronomy 5:4]] · [[Deuteronomy 5#^deut-5-22|≈ Deuteronomy 5:22]]
 
 ![[Deuteronomy 10#^deut-10-5]]
 > [[Deuteronomy 9#^deut-9-15|≈ Deuteronomy 9:15]]

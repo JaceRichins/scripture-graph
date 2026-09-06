@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 5
 slug: moses-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,8 @@ A cautious outline is:
 - [[Moses 4]] — 0 parallel verses
 - [[Moses 6]] — 0 parallel verses
 - [[Genesis 4]] — 0 parallel verses
+- [[Ether 8]] — 0 parallel verses
+- [[Helaman 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -98,10 +100,10 @@ The final verses assert continuity of the [[Gospel of Jesus Christ]] from the be
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[The Ministry of Angels (Elder Jeffrey R. Holland, October 2008)|The Ministry of Angels]] — Elder Jeffrey R. Holland, 2008-October *(explicit citation)*
 - [[Seeking Answers to Spiritual Questions (Sister Tracy Y. Browning, October 2024)|Seeking Answers to Spiritual Questions]] — Sister Tracy Y. Browning, 2024-October *(explicit citation)*
 - [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
 - [[Where Justice, Love, and Mercy Meet (Elder Jeffrey R. Holland, April 2015)|Where Justice, Love, and Mercy Meet]] — Elder Jeffrey R. Holland, 2015-April *(explicit citation)*
-- [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

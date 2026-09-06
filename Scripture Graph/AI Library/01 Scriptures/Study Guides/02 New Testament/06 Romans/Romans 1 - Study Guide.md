@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 1
 slug: rom-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[2 Corinthians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[2 Corinthians 1#^2cor-1-2|2 Corinthians 1:2]]
 - [[Ephesians 1]] — 1 parallel verse, e.g. [[Romans 1#^rom-1-7|Romans 1:7]] ↔ [[Ephesians 1#^eph-1-2|Ephesians 1:2]]
 - [[Acts 17]] — 0 parallel verses
+- [[Galatians 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

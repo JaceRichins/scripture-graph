@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 20
 slug: jer-20
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -52,10 +52,10 @@ Scripture: [[Jeremiah 20]] · My notes: [[Jeremiah 20 - My Notes]]
 - [[Jeremiah 34]] — 4 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 34#^jer-34-2|Jeremiah 34:2]]
 - [[Jeremiah 32]] — 4 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 32#^jer-32-3|Jeremiah 32:3]]
 - [[Jeremiah 11]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-12|Jeremiah 20:12]] ↔ [[Jeremiah 11#^jer-11-20|Jeremiah 11:20]]
+- [[Jeremiah 38]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 38#^jer-38-23|Jeremiah 38:23]]
 - [[Jeremiah 51]] — 2 parallel verses, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 51#^jer-51-1|Jeremiah 51:1]]
 - [[Jeremiah 21]] — 1 parallel verse, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Jeremiah 21#^jer-21-10|Jeremiah 21:10]]
 - [[Ezekiel 30]] — 1 parallel verse, e.g. [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
-- [[Jeremiah 38]] — 0 parallel verses
 - [[Jeremiah 15]] — 0 parallel verses
 - [[Job 3]] — 0 parallel verses
 - [[Jeremiah 1]] — 0 parallel verses

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 11
 slug: hel-11
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -57,20 +57,20 @@ _Not yet developed._
 - [[Helaman 4]] — 3 parallel verses, e.g. [[Helaman 11#^hel-11-1|Helaman 11:1]] ↔ [[Helaman 4#^hel-4-18|Helaman 4:18]]
 - [[Alma 45]] — 3 parallel verses, e.g. [[Helaman 11#^hel-11-8|Helaman 11:8]] ↔ [[Alma 45#^alma-45-5|Alma 45:5]]
 - [[Alma 47]] — 2 parallel verses, e.g. [[Helaman 11#^hel-11-1|Helaman 11:1]] ↔ [[Alma 47#^alma-47-35|Alma 47:35]]
+- [[Helaman 3]] — 2 parallel verses, e.g. [[Helaman 11#^hel-11-20|Helaman 11:20]] ↔ [[Helaman 3#^hel-3-8|Helaman 3:8]]
 - [[3 Nephi 2]] — 2 parallel verses, e.g. [[Helaman 11#^hel-11-21|Helaman 11:21]] ↔ [[3 Nephi 2#^3ne-2-11|3 Nephi 2:11]]
 - [[Mormon 2]] — 2 parallel verses, e.g. [[Helaman 11#^hel-11-3|Helaman 11:3]] ↔ [[Mormon 2#^morm-2-20|Mormon 2:20]]
 - [[Alma 63]] — 2 parallel verses, e.g. [[Helaman 11#^hel-11-3|Helaman 11:3]] ↔ [[Alma 63#^alma-63-9|Alma 63:9]]
 - [[4 Nephi 1]] — 2 parallel verses, e.g. [[Helaman 11#^hel-11-3|Helaman 11:3]] ↔ [[4 Nephi 1#^4ne-1-36|4 Nephi 1:36]]
-- [[Alma 2]] — 2 parallel verses, e.g. [[Helaman 11#^hel-11-30|Helaman 11:30]] ↔ [[Alma 2#^alma-2-1|Alma 2:1]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Secret Combinations]]
-- [[Government and Laws]]
-- [[War and Peace]]
 - [[Pride]]
+- [[Secret Combinations]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

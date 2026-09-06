@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 9
 slug: john-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -53,7 +53,7 @@ _Not yet developed._
 - [[3 Nephi 17]] — 1 footnote cross-reference (from [[John 9#^john-9-1|John 9:1]])
 - [[D&C 84]] — 1 footnote cross-reference (from [[John 9#^john-9-1|John 9:1]])
 - [[John 11]] — 1 footnote cross-reference (from [[John 9#^john-9-3|John 9:3]])
-- [[John 8]] — 0 parallel verses
+- [[John 8]] — 2 parallel verses, e.g. [[John 9#^john-9-12|John 9:12]] ↔ [[John 8#^john-8-19|John 8:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,7 +82,7 @@ The chapter also portrays [[Faith]] and [[Testimony]] as developing without eras
 - [[Jesus Christ and Your New Beginning (Elder Patrick Kearon, October 2025)|Jesus Christ and Your New Beginning]] — Elder Patrick Kearon, 2025-October *(explicit citation)*
 - [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
 - [[Special Lessons (Elder Ronald A. Rasband, April 2012)|Special Lessons]] — Elder Ronald A. Rasband, 2012-April *(explicit citation)*
-- [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
+- [[This Day (Elder Henry B. Eyring, April 2007)|This Day]] — Elder Henry B. Eyring, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

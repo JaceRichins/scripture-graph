@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 10
 slug: ezek-10
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Cherubim** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

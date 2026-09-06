@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 12
 slug: judg-12
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Amalek, Amalekites** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
+- **Ephraim** (reference-entry) *(explicit citation)*
+- **Gad** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

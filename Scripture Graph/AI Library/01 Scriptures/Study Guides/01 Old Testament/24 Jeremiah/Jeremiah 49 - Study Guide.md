@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 49
 slug: jer-49
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ _Not yet developed._
 - **Camel** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
+- **Elam** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

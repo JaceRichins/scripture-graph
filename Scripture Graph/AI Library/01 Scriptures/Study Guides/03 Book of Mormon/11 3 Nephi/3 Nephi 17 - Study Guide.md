@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 17
 slug: 3ne-17
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -107,6 +107,7 @@ Jesus's reference to Israelite groups known to the Father but lost from human vi
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Happiness** (reference-entry) *(explicit citation)*
+- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

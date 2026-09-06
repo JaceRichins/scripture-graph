@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 33
 slug: 2chr-33
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
 - **Chronicles** (reference-entry) *(explicit citation)*
+- **Fish** (reference-entry) *(explicit citation)*
+- **Gehenna** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

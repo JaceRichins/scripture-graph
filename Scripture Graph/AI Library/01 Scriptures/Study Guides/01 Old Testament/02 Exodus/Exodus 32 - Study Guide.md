@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 32
 slug: ex-32
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ Scripture: [[Exodus 32]] · My notes: [[Exodus 32 - My Notes]]
 <!-- SG:BEGIN conference -->
 - [[Tomorrow the Lord Will Do Wonders among You (Elder Jeffrey R. Holland, April 2016)|Tomorrow the Lord Will Do Wonders among You]] — Elder Jeffrey R. Holland, 2016-April *(explicit citation)*
 - [[More Than a Hero (Bishop W. Christopher Waddell, October 2023)|More Than a Hero]] — Bishop W. Christopher Waddell, 2023-October *(explicit citation)*
+- [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -92,6 +93,7 @@ Scripture: [[Exodus 32]] · My notes: [[Exodus 32 - My Notes]]
 <!-- SG:BEGIN history -->
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Calves, golden, worship of** (reference-entry) *(explicit citation)*
+- **Engraving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

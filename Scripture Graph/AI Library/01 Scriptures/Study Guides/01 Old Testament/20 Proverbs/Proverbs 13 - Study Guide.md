@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 13
 slug: prov-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,11 +62,13 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
 - [[Pride and the Priesthood (President Dieter F. Uchtdorf, October 2010)|Pride and the Priesthood]] — President Dieter F. Uchtdorf, 2010-October *(explicit citation)*
+- [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1836-09-01 (Vol. 2 No. 12)** (periodical, 1836-09-01) *(explicit citation)*
+- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

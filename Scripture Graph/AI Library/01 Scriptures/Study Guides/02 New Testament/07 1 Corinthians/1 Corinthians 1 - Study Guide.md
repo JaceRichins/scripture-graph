@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 1
 slug: 1cor-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -94,7 +94,7 @@ Verses 18-25 place the [[Crucifixion of Jesus Christ]] at the center of the gosp
 - [[An Ensign to the Nations (Elder Jeffrey R. Holland, April 2011)|An Ensign to the Nations]] — Elder Jeffrey R. Holland, 2011-April *(explicit citation)*
 - [[You Matter to Him (President Dieter F. Uchtdorf, October 2011)|You Matter to Him]] — President Dieter F. Uchtdorf, 2011-October *(explicit citation)*
 - [[Pride and the Priesthood (President Dieter F. Uchtdorf, October 2010)|Pride and the Priesthood]] — President Dieter F. Uchtdorf, 2010-October *(explicit citation)*
-- [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
+- [[Concern for the One (Elder Joseph B. Wirthlin, April 2008)|Concern for the One]] — Elder Joseph B. Wirthlin, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

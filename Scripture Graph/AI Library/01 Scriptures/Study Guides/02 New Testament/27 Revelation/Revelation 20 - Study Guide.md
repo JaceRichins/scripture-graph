@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 20
 slug: rev-20
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[D&C 128]] — 2 parallel verses, e.g. [[Revelation 20#^rev-20-12|Revelation 20:12]] ↔ [[D&C 128#^dc-128-6|D&C 128:6]]
 - [[D&C 88]] — 0 parallel verses
 - [[Ezekiel 38]] — 0 parallel verses
+- [[Daniel 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +66,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Invite Christ to Author Your Story (Camille N. Johnson, October 2021)|Invite Christ to Author Your Story]] — Camille N. Johnson, 2021-October *(explicit citation)*
+- [[Mrs. Patton—the Story Continues (President Thomas S. Monson, October 2007)|Mrs. Patton—the Story Continues]] — President Thomas S. Monson, 2007-October *(explicit citation)*
 - [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
 - [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
 <!-- SG:END conference -->

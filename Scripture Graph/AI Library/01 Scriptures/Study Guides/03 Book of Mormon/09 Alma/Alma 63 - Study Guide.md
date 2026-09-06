@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 63
 slug: alma-63
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ The chapter follows a compact annalistic sequence:
 - [[Records and Sacred Writings]]
 - [[War and Peace]]
 - [[Book of Mormon Geography]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

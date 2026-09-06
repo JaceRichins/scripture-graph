@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 4
 slug: 1jn-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ Love for one's brother is not an optional supplement to professed love for God. 
 - **Love** (reference-entry) *(explicit citation)*
 - **Antichrist** (reference-entry) *(explicit citation)*
 - **Confession** (reference-entry) *(explicit citation)*
+- **Fear** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

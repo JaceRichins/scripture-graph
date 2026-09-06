@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 8
 slug: hosea-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

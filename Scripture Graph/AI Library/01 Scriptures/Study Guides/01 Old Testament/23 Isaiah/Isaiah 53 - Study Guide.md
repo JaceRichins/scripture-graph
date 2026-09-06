@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 53
 slug: isa-53
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -51,9 +51,9 @@ _Not yet developed._
 - [[Mosiah 15]] — 2 footnote cross-references (from [[Isaiah 53#^isa-53-8|Isaiah 53:8]])
 - [[John 12]] — 1 footnote cross-reference (from [[Isaiah 53#^isa-53-1|Isaiah 53:1]])
 - [[Romans 10]] — 1 footnote cross-reference (from [[Isaiah 53#^isa-53-1|Isaiah 53:1]])
-- [[Mosiah 14]] — 0 parallel verses
-- [[John 12]] — 0 parallel verses
-- [[Mosiah 15]] — 0 parallel verses
+- [[Mosiah 14]] — 12 parallel verses, e.g. [[Isaiah 53#^isa-53-10|Isaiah 53:10]] ↔ [[Mosiah 14#^mosiah-14-10|Mosiah 14:10]]
+- [[John 12]] — 1 parallel verse, e.g. [[Isaiah 53#^isa-53-1|Isaiah 53:1]] ↔ [[John 12#^john-12-38|John 12:38]]
+- [[Mosiah 15]] — 1 parallel verse, e.g. [[Isaiah 53#^isa-53-10|Isaiah 53:10]] ↔ [[Mosiah 15#^mosiah-15-10|Mosiah 15:10]]
 - [[Isaiah 52]] — 0 parallel verses
 - [[1 Peter 2]] — 0 parallel verses
 - [[Acts 8]] — 0 parallel verses
@@ -84,11 +84,11 @@ The text should not be forced into only one later theory of atonement. It includ
 - [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
 - [[“I Am He” (President Jeffrey R. Holland, October 2024)|“I Am He”]] — President Jeffrey R. Holland, 2024-October *(explicit citation)*
 - [[Temple Mirrors of Eternity A Testimony of Family (Elder Gerrit W. Gong, October 2010)|Temple Mirrors of Eternity: A Testimony of Family]] — Elder Gerrit W. Gong, 2010-October *(explicit citation)*
+- [[One among the Crowd (Elder Dennis B. Neuenschwander, April 2008)|One among the Crowd]] — Elder Dennis B. Neuenschwander, 2008-April *(explicit citation)*
 - [[The Family Is of God (Carole M. Stephens, April 2015)|The Family Is of God]] — Carole M. Stephens, 2015-April *(explicit citation)*
 - [[Behold Thy Mother (Elder Jeffrey R. Holland, October 2015)|Behold Thy Mother]] — Elder Jeffrey R. Holland, 2015-October *(explicit citation)*
 - [[Repentance A Joyful Choice (Elder Dale G. Renlund, October 2016)|Repentance: A Joyful Choice]] — Elder Dale G. Renlund, 2016-October *(explicit citation)*
 - [[Our Father’s Glorious Plan (Elder Weatherford T. Clayton, April 2017)|Our Father’s Glorious Plan]] — Elder Weatherford T. Clayton, 2017-April *(explicit citation)*
-- [[The Heart of the Widow (Elder O. Vincent Haleck, October 2017)|The Heart of the Widow]] — Elder O. Vincent Haleck, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

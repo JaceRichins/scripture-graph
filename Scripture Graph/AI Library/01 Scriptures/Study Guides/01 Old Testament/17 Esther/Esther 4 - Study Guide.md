@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 4
 slug: esth-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Fasting** (reference-entry) *(explicit citation)*
+- **Esther, book of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

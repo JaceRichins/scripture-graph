@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 6
 slug: josh-6
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

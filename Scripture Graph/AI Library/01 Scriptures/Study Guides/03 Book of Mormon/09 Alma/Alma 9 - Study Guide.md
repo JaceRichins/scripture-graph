@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 9
 slug: alma-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -67,8 +67,8 @@ The near-verbatim echo between vv.5 and 31 is a real, striking verbal parallel, 
 - [[Matthew 11]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-15|Alma 9:15]] ↔ [[Matthew 11#^matt-11-24|Matthew 11:24]]
 - [[Alma 36]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 36#^alma-36-30|Alma 36:30]]
 - [[Helaman 12]] — 4 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Helaman 12#^hel-12-25|Helaman 12:25]]
-- [[Alma 37]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
 - [[Alma 50]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 50#^alma-50-20|Alma 50:20]]
+- [[Alma 37]] — 2 parallel verses, e.g. [[Alma 9#^alma-9-13|Alma 9:13]] ↔ [[Alma 37#^alma-37-13|Alma 37:13]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -102,6 +102,7 @@ Three threads stand out:
 - [[The Immediate Goodness of God (Elder Kyle S. McKay, April 2019)|The Immediate Goodness of God]] — Elder Kyle S. McKay, 2019-April *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 - [[Ask, Seek, and Knock (Milton Camargo, October 2020)|Ask, Seek, and Knock]] — Milton Camargo, 2020-October *(explicit citation)*
+- [[Born Again (Elder D. Todd Christofferson, April 2008)|Born Again]] — Elder D. Todd Christofferson, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

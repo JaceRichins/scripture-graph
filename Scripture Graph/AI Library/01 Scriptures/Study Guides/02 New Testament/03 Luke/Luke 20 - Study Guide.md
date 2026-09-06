@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 20
 slug: luke-20
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

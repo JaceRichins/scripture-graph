@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 5
 slug: micah-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

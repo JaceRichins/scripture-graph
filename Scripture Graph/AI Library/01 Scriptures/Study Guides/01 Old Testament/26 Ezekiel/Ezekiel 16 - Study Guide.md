@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 16
 slug: ezek-16
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[Ezekiel 14]] — 3 parallel verses, e.g. [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]] ↔ [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]]
 - [[Ezekiel 23]] — 0 parallel verses
 - [[Ezekiel 23]] — 0 parallel verses
+- [[Isaiah 57]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -87,7 +88,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Embroidery** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

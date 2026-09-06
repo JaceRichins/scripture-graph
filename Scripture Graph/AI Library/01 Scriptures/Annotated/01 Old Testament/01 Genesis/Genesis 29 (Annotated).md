@@ -93,10 +93,10 @@ cssclasses:
 > [[Genesis 46#^gen-46-15|Gen. 46:15]] · [[Genesis 35#^gen-35-2|Gen. 35:23 (2, 23)]] · [[Genesis 49#^gen-49-3|49:3]] · [[1 Chronicles 2#^1chr-2-1|1 Chr. 2:1]] · [[1 Chronicles 5#^1chr-5-1|5:1]] · [[Genesis 38#^gen-38-4|≈ Genesis 38:4]]
 
 ![[Genesis 29#^gen-29-33]]
-> [[Deuteronomy 21#^deut-21-15|Deut. 21:15]] · [[Genesis 49#^gen-49-5|Gen. 49:5]] · [[Genesis 38#^gen-38-4|≈ Genesis 38:4]] · [[Hosea 1#^hosea-1-6|≈ Hosea 1:6]]
+> [[Deuteronomy 21#^deut-21-15|Deut. 21:15]] · [[Genesis 49#^gen-49-5|Gen. 49:5]] · [[Hosea 1#^hosea-1-6|≈ Hosea 1:6]] · [[Genesis 38#^gen-38-4|≈ Genesis 38:4]]
 
 ![[Genesis 29#^gen-29-34]]
-> [[Numbers 18#^num-18-2|Num. 18:2 (2–4)]] · [[Genesis 38#^gen-38-4|≈ Genesis 38:4]] · [[Hosea 1#^hosea-1-6|≈ Hosea 1:6]]
+> [[Numbers 18#^num-18-2|Num. 18:2 (2–4)]] · [[Hosea 1#^hosea-1-6|≈ Hosea 1:6]] · [[Genesis 38#^gen-38-4|≈ Genesis 38:4]]
 
 ![[Genesis 29#^gen-29-35]]
-> [[Genesis 49#^gen-49-8|Gen. 49:8]] · [[1 Nephi 18#^1ne-18-16|1 Ne. 18:16]] · [[Mosiah 2#^mosiah-2-20|Mosiah 2:20 (20–21)]] · [[D&C 136#^dc-136-28|D&amp;C 136:28]] · [[Genesis 38#^gen-38-4|≈ Genesis 38:4]] · [[Hosea 1#^hosea-1-6|≈ Hosea 1:6]]
+> [[Genesis 49#^gen-49-8|Gen. 49:8]] · [[1 Nephi 18#^1ne-18-16|1 Ne. 18:16]] · [[Mosiah 2#^mosiah-2-20|Mosiah 2:20 (20–21)]] · [[D&C 136#^dc-136-28|D&amp;C 136:28]] · [[Hosea 1#^hosea-1-6|≈ Hosea 1:6]] · [[Genesis 38#^gen-38-4|≈ Genesis 38:4]]

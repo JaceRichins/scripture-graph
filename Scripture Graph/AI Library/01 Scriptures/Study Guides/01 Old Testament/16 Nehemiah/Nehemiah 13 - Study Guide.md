@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 13
 slug: neh-13
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ _Not yet developed._
 - [[Exodus 12]] — 1 footnote cross-reference (from [[Nehemiah 13#^neh-13-3|Nehemiah 13:3]])
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Nehemiah 13#^neh-13-12|Nehemiah 13:12]] ↔ [[Nehemiah 10#^neh-10-39|Nehemiah 10:39]]
 - [[Ezra 7]] — 1 parallel verse, e.g. [[Nehemiah 13#^neh-13-5|Nehemiah 13:5]] ↔ [[Ezra 7#^ezra-7-7|Ezra 7:7]]
+- [[Jeremiah 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,6 +73,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Balaam** (reference-entry) *(explicit citation)*
+- **Fish** (reference-entry) *(explicit citation)*
+- **Gentile** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

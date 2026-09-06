@@ -68,4 +68,4 @@ cssclasses:
 ![[Deuteronomy 30#^deut-30-19]]
 
 ![[Deuteronomy 30#^deut-30-20]]
-> [[Acts 17#^acts-17-28|Acts 17:28]] · [[D&C 88#^dc-88-7|D&amp;C 88:13 (7, 13)]] · [[Deuteronomy 6#^deut-6-10|≈ Deuteronomy 6:10]] · [[Deuteronomy 6#^deut-6-18|≈ Deuteronomy 6:18]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 29#^deut-29-13|≈ Deuteronomy 29:13]] · [[Deuteronomy 11#^deut-11-9|≈ Deuteronomy 11:9]] · [[Deuteronomy 11#^deut-11-21|≈ Deuteronomy 11:21]]
+> [[Acts 17#^acts-17-28|Acts 17:28]] · [[D&C 88#^dc-88-7|D&amp;C 88:13 (7, 13)]] · [[Deuteronomy 6#^deut-6-10|≈ Deuteronomy 6:10]] · [[Deuteronomy 6#^deut-6-18|≈ Deuteronomy 6:18]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 11#^deut-11-9|≈ Deuteronomy 11:9]] · [[Deuteronomy 11#^deut-11-21|≈ Deuteronomy 11:21]] · [[Deuteronomy 29#^deut-29-13|≈ Deuteronomy 29:13]]

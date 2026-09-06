@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 112
 slug: dc-112
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ D&C 112:29 joins belief and [[Baptism]] with [[Salvation]], closely paralleling 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Twelve (President Boyd K. Packer, April 2008)|The Twelve]] — President Boyd K. Packer, 2008-April *(explicit citation)*
 - [[The Eternal Everyday (Elder Quentin L. Cook, October 2017)|The Eternal Everyday]] — Elder Quentin L. Cook, 2017-October *(explicit citation)*
 - [[Conversion to the Will of God (Elder Quentin L. Cook, April 2022)|Conversion to the Will of God]] — Elder Quentin L. Cook, 2022-April *(explicit citation)*
 - [[Called of Him to Declare His Word (Elder Randy D. Funk, October 2013)|Called of Him to Declare His Word]] — Elder Randy D. Funk, 2013-October *(explicit citation)*
@@ -98,7 +99,6 @@ D&C 112:29 joins belief and [[Baptism]] with [[Salvation]], closely paralleling 
 - [[Take the Holy Spirit as Your Guide (Elder Larry Y. Wilson, April 2018)|Take the Holy Spirit as Your Guide]] — Elder Larry Y. Wilson, 2018-April *(explicit citation)*
 - [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
-- [[Holiness and the Plan of Happiness (President Henry B. Eyring, October 2019)|Holiness and the Plan of Happiness]] — President Henry B. Eyring, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

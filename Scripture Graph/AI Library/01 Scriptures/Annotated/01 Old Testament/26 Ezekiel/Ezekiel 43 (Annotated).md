@@ -34,7 +34,7 @@ cssclasses:
 ![[Ezekiel 43#^ezek-43-6]]
 
 ![[Ezekiel 43#^ezek-43-7]]
-> [[Isaiah 60#^isa-60-13|Isa. 60:13]] · [[Matthew 5#^matt-5-35|Matt. 5:35]] · [[Ezekiel 20#^ezek-20-39|Ezek. 20:39]] · [[Ezekiel 39#^ezek-39-7|39:7]] · [[Zechariah 2#^zech-2-10|≈ Zechariah 2:10]] · [[Zechariah 2#^zech-2-11|≈ Zechariah 2:11]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]] · [[Ezekiel 2#^ezek-2-1|≈ Ezekiel 2:1]] · [[Ezekiel 2#^ezek-2-3|≈ Ezekiel 2:3]] · [[Ezekiel 3#^ezek-3-1|≈ Ezekiel 3:1]]
+> [[Isaiah 60#^isa-60-13|Isa. 60:13]] · [[Matthew 5#^matt-5-35|Matt. 5:35]] · [[Ezekiel 20#^ezek-20-39|Ezek. 20:39]] · [[Ezekiel 39#^ezek-39-7|39:7]] · [[Zechariah 2#^zech-2-10|≈ Zechariah 2:10]] · [[Zechariah 2#^zech-2-11|≈ Zechariah 2:11]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]] · [[Ezekiel 3#^ezek-3-1|≈ Ezekiel 3:1]] · [[Ezekiel 3#^ezek-3-3|≈ Ezekiel 3:3]] · [[Ezekiel 3#^ezek-3-4|≈ Ezekiel 3:4]]
 
 ![[Ezekiel 43#^ezek-43-8]]
 > [[D&C 63#^dc-63-60|D&amp;C 63:61 (60–64)]]
@@ -62,7 +62,7 @@ cssclasses:
 ![[Ezekiel 43#^ezek-43-17]]
 
 ![[Ezekiel 43#^ezek-43-18]]
-> [[Leviticus 1#^lev-1-5|Lev. 1:5]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]] · [[Ezekiel 2#^ezek-2-1|≈ Ezekiel 2:1]] · [[Ezekiel 2#^ezek-2-3|≈ Ezekiel 2:3]] · [[Ezekiel 3#^ezek-3-1|≈ Ezekiel 3:1]] · [[Ezekiel 3#^ezek-3-3|≈ Ezekiel 3:3]] · [[Ezekiel 3#^ezek-3-4|≈ Ezekiel 3:4]]
+> [[Leviticus 1#^lev-1-5|Lev. 1:5]] · [[Ezekiel 47#^ezek-47-6|≈ Ezekiel 47:6]] · [[Ezekiel 3#^ezek-3-1|≈ Ezekiel 3:1]] · [[Ezekiel 3#^ezek-3-3|≈ Ezekiel 3:3]] · [[Ezekiel 3#^ezek-3-4|≈ Ezekiel 3:4]] · [[Ezekiel 3#^ezek-3-10|≈ Ezekiel 3:10]] · [[Ezekiel 2#^ezek-2-1|≈ Ezekiel 2:1]]
 
 ![[Ezekiel 43#^ezek-43-19]]
 > [[Deuteronomy 17#^deut-17-9|Deut. 17:9]] · [[Ezekiel 44#^ezek-44-15|Ezek. 44:15]] · [[Ezekiel 48#^ezek-48-11|48:11]] · [[Ezekiel 40#^ezek-40-46|Ezek. 40:46]] · [[Exodus 29#^ex-29-10|Ex. 29:10]] · [[Leviticus 8#^lev-8-14|Lev. 8:14]]

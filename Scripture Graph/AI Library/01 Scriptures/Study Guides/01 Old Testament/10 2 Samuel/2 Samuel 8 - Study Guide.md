@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 8
 slug: 2sam-8
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ _Not yet developed._
 - **Benaiah** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
+- **Euphrates** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

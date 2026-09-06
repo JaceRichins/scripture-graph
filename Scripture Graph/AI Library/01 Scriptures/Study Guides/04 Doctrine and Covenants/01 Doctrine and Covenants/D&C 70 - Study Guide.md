@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 70
 slug: dc-70
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ Temporal equality in verse 14 should be read with the chapter's references to ne
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Eternal Gift of Testimony (Elder Kevin G. Brown, October 2025)|The Eternal Gift of Testimony]] — Elder Kevin G. Brown, 2025-October *(explicit citation)*
+- [[Come to Zion (Elder D. Todd Christofferson, October 2008)|Come to Zion]] — Elder D. Todd Christofferson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 5
 slug: matt-5
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[D&C 101]] — 0 parallel verses
 - [[D&C 63]] — 0 parallel verses
 - [[3 Nephi 18]] — 0 parallel verses
+- [[James 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 40
 slug: jer-40
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---

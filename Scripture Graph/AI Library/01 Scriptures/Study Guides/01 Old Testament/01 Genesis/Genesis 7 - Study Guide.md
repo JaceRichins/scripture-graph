@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 7
 slug: gen-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[Genesis 1]] — 0 parallel verses
 - [[1 Peter 3]] — 0 parallel verses
 - [[Matthew 24]] — 0 parallel verses
+- [[Genesis 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,7 +75,7 @@ The juxtaposition of destruction and preservation can inform reflection on [[Jus
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

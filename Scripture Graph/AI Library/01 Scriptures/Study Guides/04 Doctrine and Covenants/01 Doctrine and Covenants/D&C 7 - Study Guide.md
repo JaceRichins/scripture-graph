@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 7
 slug: dc-7
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[John 21]] — 1 footnote cross-reference (from [[D&C 7#^dc-7-3|D&C 7:3]])
 - [[John 21]] — 2 parallel verses, e.g. [[D&C 7#^dc-7-4|D&C 7:4]] ↔ [[John 21#^john-21-22|John 21:22]]
 - [[D&C 132]] — 2 parallel verses, e.g. [[D&C 7#^dc-7-7|D&C 7:7]] ↔ [[D&C 132#^dc-132-7|D&C 132:7]]
+- [[John 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

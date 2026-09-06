@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 9
 slug: 2ne-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -85,8 +85,8 @@ The chapter sharply distinguishes universal [[Resurrection]] from salvation in t
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[Think Celestial! (President Russell M. Nelson, October 2023)|Think Celestial!]] — President Russell M. Nelson, 2023-October *(explicit citation)*
+- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
-- [[Come into the Fold of God (Elder Randy D. Funk, April 2022)|Come into the Fold of God]] — Elder Randy D. Funk, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

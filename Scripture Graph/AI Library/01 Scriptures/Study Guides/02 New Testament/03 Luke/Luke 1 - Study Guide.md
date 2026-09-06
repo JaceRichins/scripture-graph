@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 1
 slug: luke-1
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 - [[Judges 13]] — 0 parallel verses
 - [[1 Samuel 2]] — 0 parallel verses
 - [[Acts 1]] — 0 parallel verses
+- [[Alma 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -84,6 +85,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Plan of Mercy (Elder James R. Rasband, April 2025)|The Plan of Mercy]] — Elder James R. Rasband, 2025-April *(explicit citation)*
+- [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[Whatsoever He Saith unto You, Do It (Elder L. Whitney Clayton, April 2017)|Whatsoever He Saith unto You, Do It]] — Elder L. Whitney Clayton, 2017-April *(explicit citation)*
 - [[Essential Truths—Our Need to Act (Elder Adilson de Paula Parrella, October 2017)|Essential Truths—Our Need to Act]] — Elder Adilson de Paula Parrella, 2017-October *(explicit citation)*
 - [[Lift Up Your Head and Rejoice (M. Joseph Brough, October 2018)|Lift Up Your Head and Rejoice]] — M. Joseph Brough, 2018-October *(explicit citation)*
@@ -92,7 +94,6 @@ _Not yet developed._
 - [[The Personal Journey of a Child of God (Elder Neil L. Andersen, April 2021)|The Personal Journey of a Child of God]] — Elder Neil L. Andersen, 2021-April *(explicit citation)*
 - [[And They Sought to See Jesus Who He Was (Elder James W. McConkie III, October 2022)|And They Sought to See Jesus Who He Was]] — Elder James W. McConkie III, 2022-October *(explicit citation)*
 - [[Words Matter (Elder Ronald A. Rasband, April 2024)|Words Matter]] — Elder Ronald A. Rasband, 2024-April *(explicit citation)*
-- [[Temples, Houses of the Lord Dotting the Earth (Elder Neil L. Andersen, April 2024)|Temples, Houses of the Lord Dotting the Earth]] — Elder Neil L. Andersen, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 4
 slug: dan-4
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,8 @@ _Not yet developed._
 - [[Daniel 5]] — 5 parallel verses, e.g. [[Daniel 4#^dan-4-33|Daniel 4:33]] ↔ [[Daniel 5#^dan-5-21|Daniel 5:21]]
 - [[Daniel 6]] — 1 parallel verse, e.g. [[Daniel 4#^dan-4-1|Daniel 4:1]] ↔ [[Daniel 6#^dan-6-25|Daniel 6:25]]
 - [[Daniel 2]] — 3 parallel verses, e.g. [[Daniel 4#^dan-4-12|Daniel 4:12]] ↔ [[Daniel 2#^dan-2-38|Daniel 2:38]]
+- [[Daniel 5]] — 0 parallel verses
+- [[Daniel 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

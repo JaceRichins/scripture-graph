@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 9
 slug: amos-9
-corpus_version_reviewed: 11
+corpus_version_reviewed: 13
 cssclasses:
 - sg-study
 ---
