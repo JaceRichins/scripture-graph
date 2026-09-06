@@ -24,6 +24,7 @@ import { READER_VIEW, ReaderView } from "./reader/readerView";
 import { DOC_VIEW, DocView, docKindFor } from "./reader/docView";
 import { Dock, isPhone, obsidianInternals } from "./study/dock";
 import { ReadingSettingsModal, applyReading } from "./study/readingSettings";
+import { VaultSync } from "./sync/vaultSync";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SCENES, SceneManager } from "./study/scenes";
@@ -305,6 +306,20 @@ export default class SGPlugin extends Plugin {
       }
     });
     applyReading(this.state);
+    // 🔁 vault sync: the shared tree from the family server, personal notes both ways
+    this.vaultSync = new VaultSync(this.state, () => this.state.device.displayName ?? "device");
+    this.app.workspace.onLayoutReady(() => this.vaultSync.start());
+    this.register(() => this.vaultSync.stop());
+    this.registerEvent(this.app.vault.on("modify", f => this.vaultSync.noteChanged(f.path)));
+    this.registerEvent(this.app.vault.on("create", f => this.vaultSync.noteChanged(f.path)));
+    this.registerEvent(this.app.vault.on("delete", f => this.vaultSync.noteChanged(f.path)));
+    this.registerEvent(this.app.vault.on("rename", (f, old) => { this.vaultSync.noteChanged(old); this.vaultSync.noteChanged(f.path); }));
+    this.addCommand({
+      id: "vault-sync-now", name: "Sync the vault now", icon: "refresh-cw",
+      callback: () => { new Notice("Syncing…"); void this.vaultSync.run("manual").then(() => new Notice(
+        this.vaultSync.status.lastError ? `Sync: ${this.vaultSync.status.lastError}`
+          : `Synced — ${this.vaultSync.status.files.toLocaleString()} files on this device`)); },
+    });
     this.addCommand({
       id: "reading-settings", name: "Reading settings (text size, spacing, typeface)", icon: "type",
       callback: () => this.openReadingSettings(),
@@ -686,6 +701,7 @@ export default class SGPlugin extends Plugin {
   }
 
   private dock: Dock | null = null;
+  vaultSync!: VaultSync;
 
   openReadingSettings(): void {
     new ReadingSettingsModal(this.state, () => this.pickScene(), () => {

@@ -11,6 +11,8 @@ import { Annotation, SyncOp } from "@scripture-graph/core-sdk";
 import { audit, authenticate, consumeInvite, createDevice, createInvite, createUser, now, type AuthedDevice } from "./auth";
 import type { DB } from "./db";
 import Database from "better-sqlite3";
+import { ensurePersonalTables, manifest, mirrorToDisk, personalGet, personalManifest, personalPush,
+  readShared, seedPersonalFromDisk, type PushItem } from "./vault";
 
 const MAX_OPS_PER_PUSH = 200;
 const PULL_LIMIT = 500;
@@ -41,7 +43,10 @@ const VISIBLE_SQL = `(
 export interface BuildOpts { db: DB; trustProxy?: boolean }
 
 export function buildApp({ db }: BuildOpts): FastifyInstance {
-  const app = Fastify({ logger: false, bodyLimit: 1_000_000 });
+  // 8 MB: a personal-notes push can carry a long page, a batch request a
+  // long list of paths
+  const app = Fastify({ logger: false, bodyLimit: 8_000_000 });
+  ensurePersonalTables(db);
   const limiter = new RateLimiter();
 
   const ALLOWED_ORIGINS = new Set(
@@ -400,6 +405,80 @@ export function buildApp({ db }: BuildOpts): FastifyInstance {
     "main.js": "application/javascript",
     "styles.css": "text/css",
   };
+  // ------------------------------------------------------------- vault sync
+  // The shared tree, read-only, for every device; each person's Library/
+  // two-way. SG_VAULT names the vault folder on this machine.
+  const vaultRoot = process.env["SG_VAULT"] ?? "";
+  const haveVault = () => !!vaultRoot && existsSync(vaultRoot);
+  const mirror = haveVault() && process.env["SG_OWNER_MIRROR"] !== "0" ? mirrorToDisk(vaultRoot) : null;
+  const isOwner = (userId: string): boolean =>
+    (db.prepare("SELECT role FROM users WHERE user_id=?").get(userId) as { role?: string } | undefined)?.role === "owner";
+  let seeded = false;
+  app.get("/vault/version", async (req, reply) => {
+    const who = authed(req, reply); if (!who) return;
+    if (!haveVault()) return reply.code(503).send({ error: "no vault on this server" });
+    const m = manifest(vaultRoot);
+    return { version: m.version, count: m.count, bytes: m.bytes };
+  });
+  app.get("/vault/manifest", async (req, reply) => {
+    const who = authed(req, reply); if (!who) return;
+    if (!haveVault()) return reply.code(503).send({ error: "no vault on this server" });
+    const m = manifest(vaultRoot);
+    if (req.headers["if-none-match"] === m.version) return reply.code(304).send();
+    reply.header("etag", m.version);
+    return m;
+  });
+  app.post("/vault/batch", async (req, reply) => {
+    const who = authed(req, reply); if (!who) return;
+    if (!haveVault()) return reply.code(503).send({ error: "no vault on this server" });
+    const paths = ((req.body as { paths?: unknown })?.paths ?? []) as unknown[];
+    if (!Array.isArray(paths) || paths.length > 400) return reply.code(400).send({ error: "paths: up to 400" });
+    const files = [];
+    let bytes = 0;
+    for (const p of paths) {
+      if (typeof p !== "string") continue;
+      const f = readShared(vaultRoot, p);
+      if (!f) { files.push({ p, missing: true }); continue; }
+      files.push(f);
+      bytes += (f.text ?? f.b64 ?? "").length;
+      if (bytes > 6_000_000) break;              // the device asks again for the rest
+    }
+    return { files };
+  });
+  app.get("/vault/file", async (req, reply) => {
+    const who = authed(req, reply); if (!who) return;
+    if (!haveVault()) return reply.code(503).send({ error: "no vault on this server" });
+    const p = String((req.query as { path?: string }).path ?? "");
+    const f = readShared(vaultRoot, p);
+    if (!f) return reply.code(404).send({ error: "not found" });
+    return f;
+  });
+  // ---- personal: Library/ per user
+  app.get("/vault/personal/manifest", async (req, reply) => {
+    const who = authed(req, reply); if (!who) return;
+    if (!seeded && haveVault() && isOwner(who.user_id)) {
+      seeded = true;
+      seedPersonalFromDisk(db, vaultRoot, who.user_id, now());
+    }
+    const since = (req.query as { since?: string }).since;
+    return { files: personalManifest(db, who.user_id, since || undefined), now: now() };
+  });
+  app.get("/vault/personal/file", async (req, reply) => {
+    const who = authed(req, reply); if (!who) return;
+    const p = String((req.query as { path?: string }).path ?? "");
+    const row = personalGet(db, who.user_id, p);
+    if (!row) return reply.code(404).send({ error: "not found" });
+    return row;
+  });
+  app.post("/vault/personal/push", async (req, reply) => {
+    const who = authed(req, reply); if (!who) return;
+    const items = ((req.body as { files?: unknown })?.files ?? []) as PushItem[];
+    if (!Array.isArray(items) || items.length > 200) return reply.code(400).send({ error: "files: up to 200" });
+    const results = personalPush(db, who.user_id, who.device_id, items, now(),
+      isOwner(who.user_id) ? mirror : null);
+    return { results, now: now() };
+  });
+
   // ------------------------------------------------------------ search
   // The engine's full-text index (chunks_fts over every indexed passage:
   // scripture, talks, teachings, periodicals, questions) answered for the

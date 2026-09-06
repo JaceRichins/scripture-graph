@@ -185,7 +185,7 @@ export class VaultSync {
         const got = new Set(files.map(x => x.p));
         const rest = chunk.filter(p => !got.has(p));
         if (rest.length && rest.length < chunk.length) todo.push(...rest);
-        await this.s.store.set(INDEX_KEY, index);
+        await this.s.store.put(INDEX_KEY, index);
         this.emit();
       }
     };
@@ -195,7 +195,7 @@ export class VaultSync {
       try { if (await adapter.exists(normalizePath(p))) await adapter.remove(normalizePath(p)); } catch { /* keep */ }
       delete index[p];
     }
-    await this.s.store.set(INDEX_KEY, index);
+    await this.s.store.put(INDEX_KEY, index);
     this.set({ lastVersion: v.version, files: Object.keys(index).length });
   }
 
@@ -245,7 +245,7 @@ export class VaultSync {
         }
       }
     }
-    await this.s.store.set(PINDEX_KEY, pidx);
+    await this.s.store.put(PINDEX_KEY, pidx);
     this.emit();
   }
 
@@ -253,7 +253,7 @@ export class VaultSync {
     if (!this.s.device.deviceToken) return;
     const since = (await this.s.store.get<string>(PSINCE_KEY)) ?? undefined;
     const { files, now } = await this.s.api.personalManifest(since);
-    if (!files.length) { await this.s.store.set(PSINCE_KEY, now); return; }
+    if (!files.length) { await this.s.store.put(PSINCE_KEY, now); return; }
     this.set({ phase: "pulling notes" });
     const pidx = await this.personalIndex();
     const adapter = this.s.app.vault.adapter;
@@ -291,14 +291,14 @@ export class VaultSync {
       pidx[f.path] = { hash: f.hash ?? "", mtime: f.mtime, base: f.hash };
       this.status.personalPulled++;
     }
-    await this.s.store.set(PINDEX_KEY, pidx);
-    await this.s.store.set(PSINCE_KEY, now);
+    await this.s.store.put(PINDEX_KEY, pidx);
+    await this.s.store.put(PSINCE_KEY, now);
     this.emit();
   }
 
   /** wipe what this device holds of the optional shelves it no longer wants */
   async resetIndex(): Promise<void> {
-    await this.s.store.set(INDEX_KEY, {});
+    await this.s.store.put(INDEX_KEY, {});
     this.set({ lastVersion: null, files: 0 });
   }
 }

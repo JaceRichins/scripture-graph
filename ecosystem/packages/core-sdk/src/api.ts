@@ -84,6 +84,29 @@ export class ApiClient {
     return this.req<{ annotations: Annotation[]; next_cursor: string }>(
       "GET", `/sync/pull?cursor=${encodeURIComponent(cursor ?? "")}`);
   }
+  // vault sync
+  vaultVersion() { return this.req<{ version: string; count: number; bytes: number }>("GET", "/vault/version"); }
+  vaultManifest() {
+    return this.req<{ version: string; count: number; bytes: number; files: { p: string; h: string; s: number; m: number }[] }>(
+      "GET", "/vault/manifest");
+  }
+  vaultBatch(paths: string[]) {
+    return this.req<{ files: { p: string; text?: string; b64?: string; h?: string; missing?: boolean }[] }>(
+      "POST", "/vault/batch", { paths });
+  }
+  personalManifest(since?: string) {
+    return this.req<{ files: { path: string; hash: string | null; mtime: number; deleted_at: string | null; updated_at: string }[]; now: string }>(
+      "GET", `/vault/personal/manifest${since ? `?since=${encodeURIComponent(since)}` : ""}`);
+  }
+  personalFile(path: string) {
+    return this.req<{ path: string; content: string | null; hash: string | null; mtime: number; deleted_at: string | null }>(
+      "GET", `/vault/personal/file?path=${encodeURIComponent(path)}`);
+  }
+  personalPush(files: { path: string; content: string | null; hash: string | null; base_hash: string | null; mtime: number; deleted?: boolean }[]) {
+    return this.req<{ results: { path: string; status: "stored" | "conflict" | "rejected"; server?: { content: string | null; hash: string | null; mtime: number } }[]; now: string }>(
+      "POST", "/vault/personal/push", { files });
+  }
+
   /** the family server's full-text search over the engine's index */
   search(q: string) {
     return this.req<{ results: { title: string; path: string | null; snippet: string; kind: string }[] }>(

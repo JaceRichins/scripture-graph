@@ -6,14 +6,64 @@ import { WelcomeModal, linkDevice, refreshIdentity } from "./social/onboarding";
 import { TIER_CANDIDATES, type Tier } from "@scripture-graph/core-sdk";
 import { SCENES } from "./study/scenes";
 import { BUILD } from "./build";
+import { SECTIONS, syncPrefs } from "./sync/vaultSync";
 
 export class SGSettingsTab extends PluginSettingTab {
   constructor(private p: SGPlugin) { super(p.app, p); }
+
+  private renderSync(el: HTMLElement): void {
+    const s = this.p.state;
+    const vs = this.p.vaultSync;
+    el.createEl("h2", { text: "Vault sync" });
+    const prefs = syncPrefs(s);
+    const st = vs.status;
+    const line = el.createDiv({ cls: "setting-item-description sg-sync-status" });
+    const paint = () => {
+      const when = st.lastRun ? new Date(st.lastRun).toLocaleString() : "never";
+      line.setText(st.running
+        ? `${st.phase}${st.total ? ` — ${st.done.toLocaleString()} of ${st.total.toLocaleString()} files` : "…"}`
+        : `Last sync ${when} · ${st.files.toLocaleString()} files on this device`
+          + (st.personalPushed || st.personalPulled ? ` · notes ↑${st.personalPushed} ↓${st.personalPulled}` : "")
+          + (st.conflicts ? ` · ${st.conflicts} kept both` : "")
+          + (st.lastError ? ` · ${st.lastError}` : ""));
+    };
+    paint();
+    vs.listeners.push(paint);
+    new Setting(el).setName("Sync from the family server")
+      .setDesc("The whole shared vault comes from the server, and your own notes go both ways under your login. No Obsidian Sync needed.")
+      .addToggle(t => t.setValue(prefs.enabled).onChange(async v => {
+        s.device.sync = { ...(s.device.sync ?? {}), enabled: v };
+        await s.saveDevice();
+        if (v) vs.start(); else vs.stop();
+      }));
+    new Setting(el).setName("Sync now").addButton(b => b.setButtonText("Sync").onClick(async () => {
+      await vs.run("manual"); paint();
+    }));
+    new Setting(el).setName("Check every")
+      .addDropdown(d => d.addOptions({ "15": "15 minutes", "30": "30 minutes", "60": "hour", "180": "3 hours" })
+        .setValue(String(prefs.intervalMin)).onChange(async v => {
+          s.device.sync = { ...(s.device.sync ?? {}), intervalMin: Number(v) };
+          await s.saveDevice(); vs.start();
+        }));
+    el.createEl("h3", { text: "What this device carries" });
+    for (const sec of SECTIONS) {
+      new Setting(el).setName(sec.label).setDesc(sec.always ? "Always" : "")
+        .addToggle(t => t.setValue(sec.always || prefs.sections[sec.key] !== false).setDisabled(!!sec.always)
+          .onChange(async v => {
+            s.device.sync = { ...(s.device.sync ?? {}), sections: { ...(s.device.sync?.sections ?? {}), [sec.key]: v } };
+            await s.saveDevice();
+            await vs.resetIndex();        // the next run adds or removes the shelf
+          }));
+    }
+  }
 
   display(): void {
     const { containerEl: el } = this;
     const s = this.p.state;
     el.empty();
+
+    // ---------------------------------------------------------- vault sync
+    this.renderSync(el);
 
     // ------------------------------------------------------------ account
     el.createEl("h2", { text: "Account" });

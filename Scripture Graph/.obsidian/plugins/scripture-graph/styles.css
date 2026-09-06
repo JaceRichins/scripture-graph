@@ -2494,3 +2494,4 @@ body.sg-read-wide .sg-doc-page { max-width: 100% !important; }
   .sg-nav-row, .sg-nav-cover, .sg-nav-book, .sg-nav-ch, .sg-tl-node, .sg-tl-float, .sg-tl-halo-breathe, .sg-tl-star,
   .sg-nav-cover-photo, .sg-dock-slot, .sg-dock-round, .sg-tl-svg { animation: none !important; transition: none !important; }
 }
+.sg-sync-status { margin: 0 0 10px; font-variant-numeric: tabular-nums; }

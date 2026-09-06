@@ -8,6 +8,9 @@ Set-Location $here
 $env:SG_HOST = "0.0.0.0"
 $env:SG_PORT = "8930"
 # DB defaults to data\scripturegraph-social.sqlite3 (gitignored)
+# the vault itself, for /vault/* (every device syncs from here; the
+# owner's Library/ is mirrored back to disk for the engine)
+$env:SG_VAULT = "C:\Users\jacer\repos\SCRIPTURE GRAPH\Scripture Graph"
 # the engine's index, read-only, for /search (the phone's library search)
 $env:SG_ENGINE_DB = "C:\Users\jacer\repos\SCRIPTURE GRAPH\Scripture Graph\.scripture-engine\database\scripturegraph.sqlite3"
 
