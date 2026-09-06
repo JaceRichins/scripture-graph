@@ -23,7 +23,11 @@ Scripture: [[Isaiah 40]] · My notes: [[Isaiah 40 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Comfort and pardon (vv. 1–2):** Jerusalem's warfare is accomplished and her iniquity pardoned.
+2. **Three proclamations (vv. 3–8):** prepare God's highway; all flesh will see his glory; flesh fades but God's word endures.
+3. **The herald and divine arrival (vv. 9–11):** Zion announces God as both ruler and shepherd.
+4. **The incomparable Creator (vv. 12–26):** rhetorical questions contrast God with nations, idols, rulers, and every proposed likeness.
+5. **The complaint answered (vv. 27–31):** Israel's fear of being overlooked is answered by God's inexhaustible understanding and strength.
 <!-- SG:END structure -->
 
 ## People
@@ -47,25 +51,27 @@ _Not yet developed._
 - [[Luke 3]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-4|Isaiah 40:4]] ↔ [[Luke 3#^luke-3-5|Luke 3:5]]
 - [[Matthew 3]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
-- [[Isaiah 62]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-10|Isaiah 40:10]] ↔ [[Isaiah 62#^isa-62-11|Isaiah 62:11]]
 - [[D&C 65]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
 - [[Isaiah 58]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Isaiah 58#^isa-58-14|Isaiah 58:14]]
 - [[Isaiah 1]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Isaiah 1#^isa-1-20|Isaiah 1:20]]
 - [[Isaiah 62]] — 0 parallel verses
+- [[1 Nephi 10]] — 0 parallel verses
+- [[D&C 65]] — 0 parallel verses
+- [[Isaiah 62]] — 0 parallel verses
 - [[D&C 89]] — 0 parallel verses
-- [[1 Corinthians 2]] — 0 parallel verses
-- [[1 Peter 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[Repentance and Forgiveness]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter joins [[Repentance and Forgiveness]] to divine consolation without explaining pardon as human achievement. Its teaching on [[Creation]] is pastoral as well as cosmic: the One who measures creation and names its host also gathers lambs and strengthens the powerless. This relationship between greatness and care grounds [[Hope]] and [[Endurance]].
+
+Waiting upon the LORD is presented as the condition of renewed strength, but the text does not promise that faithful people never experience fatigue; verse 30 explicitly recognizes that even the young faint and fall. The promise instead locates lasting strength in God rather than in natural human vigor.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -94,25 +100,43 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several verbal recurrences bind the chapter together. Grass withers under divine blowing in verses 6–8, and rulers wither when God blows upon them in verse 24. The questions about what the audience has known and heard appear in verses 21 and 28. The arm that rules in verse 10 gathers lambs in verse 11. These repetitions carry the reader from general declarations about mortality and creation to a direct answer for discouraged Israel.
+
+The imagery of a circle, curtain, and tent in verse 22 is poetic and relational: it places God above and prior to the inhabited world. Turning that imagery into a precise claim about modern astronomy exceeds what the wording establishes.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter repeatedly uses contrast: flesh versus word, nations versus Creator, crafted image versus living Maker, transient rulers versus the One who removes them, and weary youth versus the inexhaustible God. Its rhetorical questions do more than convey information; they challenge the hearer to reconsider the complaint that God has overlooked Israel.
+
+The repeated image of God's arm in verses 10–11 can be read as joining rule with tender care: the arm that governs also gathers lambs. This is a plausible literary interpretation rather than a demonstrated compositional scheme. Likewise, the closing movement from mounting up to running and walking may encompass both extraordinary renewal and sustained faithfulness, but the text does not define a fixed three-stage spiritual progression.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Canonical Intertextual Reception
+> The repeated Gospel application of Isaiah 40:3 to John the Baptist is strong evidence that the earliest canonical Christian witnesses understood John's ministry as preparation for the Lord's coming. It gives substantial support to a Christian messianic reading within the canon, although it does not by itself prove that John was the passage's sole intended referent in its original historical setting.
+> — strength 0.9 · confidence 1.0 · strong reception evidence; original sense open · [[Canonical Intertextual Reception in Isaiah 40|full dossier]]
+
+> [!evidence] Literary Coherence
+> Repeated vocabulary and coordinated contrasts—including grass and withering, divine blowing, the known/heard questions, and the movement from cosmic power to strength for the faint—provide moderate-to-strong internal evidence that the chapter has been deliberately shaped as a coherent literary argument.
+> — strength 0.7 · confidence 0.9 · observed coherence; compositional cause disputed · [[Literary Coherence in Isaiah 40|full dossier]]
+
+> [!evidence] Historical-Critical Scholarship / Authorship Dispute *(tentative)*
+> Mainstream historical-critical biblical scholarship widely attributes Isaiah 40-55 ('Deutero-Isaiah') to an anonymous prophet writing near the end of the Babylonian exile (c. mid-6th century BCE), distinct from the 8th-century BCE prophet of chapters 1-39, citing that the addressee is assumed to already be in exile and that the historical horizon (e.g., naming of Cyrus in later chapters) fits that later period. This view is rejected by traditional and Latter-day Saint readings, which hold to single authorship by Isaiah son of Amoz via predictive prophecy.
+> — strength 0.5 · confidence 0.6 · mainstream critical view, inadequately sourced
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How does the announcement of pardon in verses 1–2 shape the commands and promises that follow?
+- What does the ruler-shepherd pairing prevent readers from assuming about divine power?
+- Why does the chapter answer Israel's feeling of neglect by directing attention to creation?
+- Does the movement from flying to running to walking intensify or soften the promise, and what in the text supports that judgment?
+- How do the Gospel uses of verse 3 extend its meaning without necessarily exhausting its earlier historical sense?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the wilderness oracle with [[Matthew 3]], [[Mark 1]], [[Luke 3]], and [[John 1]]. [[Luke 3]] is especially important because it carries the citation beyond the initial voice to the leveling of the landscape and the universal vision. Compare the enduring-word passage with [[1 Peter 1]], and the counselor question with [[Romans 11]] and [[1 Corinthians 2]]. Restoration-scripture reception can be traced in [[1 Nephi 10]] and [[D&C 65]].
 <!-- SG:END further-study -->
