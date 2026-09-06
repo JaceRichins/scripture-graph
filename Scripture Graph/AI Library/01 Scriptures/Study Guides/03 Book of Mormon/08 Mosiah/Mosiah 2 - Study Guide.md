@@ -17,13 +17,20 @@ Scripture: [[Mosiah 2]] · My notes: [[Mosiah 2 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> King Benjamin addresses his people—He recounts the equity, fairness, and spirituality of his reign—He counsels them to serve their Heavenly King—Those who rebel against God will suffer anguish like unquenchable fire. About 124 B.C.
+Mosiah 2 presents a temple assembly that joins worship, public instruction, royal accountability, and political succession. Families gather with offerings, orient their tents toward the temple, and receive Benjamin's words orally or in writing. Benjamin then dismantles any exalted image of kingship: he is mortal, accountable to God, and obligated to serve. From that example he moves to the chapter's central ethical teaching—service to other people is service to God—and then to a theology of dependence in which creation, preservation, and blessing leave no room for boasting. The closing warning contrasts informed, persistent rebellion with faithful endurance and never-ending happiness.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Assembly and communication (vv. 1-9):** temple gathering, offerings, family tents, tower, and written distribution.
+
+2. **An account of servant-kingship (vv. 10-19):** Benjamin's mortality, authority, labor, restraint, and call to mutual [[Service]].
+
+3. **Creation, blessing, and indebtedness (vv. 20-26):** gratitude to the heavenly King and the argument that obedience never makes God indebted to humanity.
+
+4. **Accountability and succession (vv. 27-31):** Benjamin prepares for death, discharges his teaching responsibility, and announces Mosiah's rule.
+
+5. **The two outcomes (vv. 32-41):** knowledgeable rebellion and estrangement from God are contrasted with [[Obedience]], endurance, and dwelling with God.
 <!-- SG:END structure -->
 
 ## People
@@ -66,15 +73,20 @@ _Not yet developed._
 - [[Service]]
 - [[Obedience]]
 - [[Gratitude]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Government and Laws]]
+- [[Records and Sacred Writings]]
+- [[Final Judgment]]
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Benjamin joins [[Service]], [[Humility]], and [[Gratitude]]. He directly teaches that service to fellow beings is service to God and uses his own royal labor to call the community to mutual service (vv. 16-19).
+
+Verses 20-25 argue that creation, preservation, and even the blessings that follow obedience leave humanity indebted to God and without grounds for boasting. This is strong rhetoric about dependence on God; by itself it is neither a complete theology of grace and works nor an explicit declaration that human beings lack value or agency.
+
+The judgment language has a defined context. The person upon whom mercy has no claim is described as taught, knowingly transgressive, openly rebellious, unrepentant, and remaining in that condition until death (vv. 33-39). The passage therefore contributes to study of [[Justice and Mercy]], [[Repentance]], and [[Final Judgment]], but should be read with the rest of Benjamin's address before being made into a complete doctrine of salvation.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -107,27 +119,45 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Benjamin constructs several memorable contrasts: earthly king and heavenly King; service to fellow beings and service to God; created dust and the Creator who owns it; wages of punishment and immediate divine blessing; temporal and spiritual blessing; mortal frame and immortal spirit. Repetition gives the address urgency: "I say unto you," "my brethren," and the final "remember, remember" repeatedly call the audience back to attention and accountability.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter moves from visible arrangements toward inward response. Families orient their tent doors toward the temple (v. 6); Benjamin then asks listeners to open their ears, hearts, and minds (v. 9); finally he calls them to awaken to remembrance (v. 40). This supports a literary movement from physical orientation to intellectual and moral orientation.
+
+Biblical comparisons can sharpen particular themes without proving direct dependence. Benjamin's restrained, commandment-bound kingship resembles [[Deuteronomy 17]]; his concern about responsibility for the people's blood resembles the watchman language of [[Ezekiel 3]] and [[Ezekiel 33]]; and his dust imagery recalls [[Genesis 2]] and [[Genesis 3]]. These motifs may reflect broad biblical tradition or KJV-shaped translation or composition rather than deliberate use of those particular passages.
+
+The phrase "unprofitable servants" also parallels [[Luke 17]] in the extant English text. Because Luke postdates Benjamin's speech in the narrative chronology, this cannot show ancient Nephite literary access to Luke. It is best treated as evidence about the English translation or composition environment, not as proof of an ancient intertext or of historicity.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual/Linguistic Parallel *(tentative)*
+> The phrase 'unprofitable servants' (Mosiah 2:21) is a close verbal match to the King James rendering of a saying attributed to Jesus in Luke 17:10, yet it appears in a Nephite discourse the text itself dates to roughly 124 BC, decades before Jesus's ministry.
+> — strength 0.2 · confidence 0.9 · Verbal parallel accepted; explanation disputed
+
+> [!evidence] Textual/Linguistic Parallel *(tentative)*
+> Benjamin's statement that God 'dwelleth not in unholy temples' (v.37) uses a body/community-as-temple metaphor that parallels Paul's language in 1 Corinthians 3:16-17 ('ye are the temple of God, and... the Spirit of God dwelleth in you... if any man defile the temple of God, him shall God destroy'), despite predating Paul by roughly 150 years in the text's internal chronology.
+> — strength 0.2 · confidence 0.8 · Conceptual resemblance accepted; intertext disputed
+
+> [!evidence] Literary And Scriptural Intertextuality *(tentative)*
+> The convergence of limited kingship, rejection of royal enrichment, covenantal obedience, and prophetic accountability gives substantial support to reading Benjamin through biblical kingship traditions.
+> — strength 0.3 · confidence 0.7 · Broad pattern plausible; significance overstated
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+Why does the narrative preserve both the physical arrangements of the assembly and the content of the speech? What does the written distribution of the address imply about participation by people outside normal hearing range? How does Benjamin's claim to have been chosen by the people, consecrated by his father, and preserved by God combine popular, dynastic, and divine accounts of authority? Does "prosper in the land" in verses 22 and 31 promise uncomplicated material prosperity, or does verse 41's distinction between temporal and spiritual blessing qualify that formula?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare Mosiah 2:12-14, 26, and 31 with [[Deuteronomy 17]] as a broad study of restrained, commandment-bound kingship. Compare Mosiah 2:27-28 with [[Ezekiel 3]] and [[Ezekiel 33]] on a teacher's responsibility to warn, while leaving specific dependence unresolved.
+
+Mosiah 2:21-24 and [[Luke 17]] share "unprofitable servants" language in English. Because Luke is later than the discourse's narrative date, study this as a question about KJV-shaped translation or nineteenth-century composition rather than possible ancient Nephite access to Luke.
+
+Read the subsequent chapters of Benjamin's address before turning Mosiah 2's statements about indebtedness, justice, mercy, or prosperity into a complete account of salvation.
 <!-- SG:END further-study -->
 
 ## Secondary Sources
