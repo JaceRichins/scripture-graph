@@ -23,7 +23,11 @@ Scripture: [[Jeremiah 8]] · My notes: [[Jeremiah 8 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Postmortem disgrace (vv. 1–3):** Graves are violated, and the dead are exposed before the heavenly bodies they worshipped.
+2. **Refusal to return (vv. 4–7):** Jerusalem behaves less responsively than birds that recognize their appointed times.
+3. **False wisdom and false cure (vv. 8–12):** Rejection of the LORD's word exposes empty claims to wisdom; corrupt leaders announce peace without healing the injury.
+4. **Disaster becomes immediate (vv. 13–17):** Failed produce, fortified cities, poisoned water, invading horses, and uncharmable serpents accumulate into a picture of unavoidable judgment.
+5. **Communal and prophetic lament (vv. 18–22):** Unanswered cries about Zion, missed rescue, shared hurt, and the question about balm close the chapter.
 <!-- SG:END structure -->
 
 ## People
@@ -53,18 +57,23 @@ _Not yet developed._
 - [[Ezekiel 2]] — 1 parallel verse, e.g. [[Jeremiah 8#^jer-8-4|Jeremiah 8:4]] ↔ [[Ezekiel 2#^ezek-2-4|Ezekiel 2:4]]
 - [[Ezekiel 3]] — 1 parallel verse, e.g. [[Jeremiah 8#^jer-8-4|Jeremiah 8:4]] ↔ [[Ezekiel 3#^ezek-3-27|Ezekiel 3:27]]
 - [[D&C 56]] — 1 parallel verse, e.g. [[Jeremiah 8#^jer-8-20|Jeremiah 8:20]] ↔ [[D&C 56#^dc-56-16|D&C 56:16]]
-- [[Jeremiah 46]] — 0 parallel verses
+- [[Jeremiah 6]] — 0 parallel verses
 - [[Jeremiah 14]] — 0 parallel verses
+- [[Jeremiah 46]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-_Not yet developed._
+- [[War and Peace]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents [[Apostasy]] as more than passive drift. The people hold fast to deceit, refuse to return, reject the LORD's word, and do not examine their conduct (vv. 4–9). Correspondingly, [[Repentance]] includes honest self-questioning and an actual return, not merely confidence that the law or sacred institutions are present.
+
+Jeremiah also distinguishes genuine peace from reassuring religious speech. Leaders treat a deep wound as though it were slight and declare peace when none exists (vv. 10–12). [[Prophets]] and other teachers are therefore accountable not only for what they say but for whether their message truthfully diagnoses the people's condition.
+
+The lament in verses 18–22 holds judgment and compassion together. The speaker announces disaster yet is personally wounded by the people's wound. This prevents the chapter's warnings from being reduced to satisfaction at punishment.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -88,22 +97,40 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several repeated words organize the received chapter. **Return** connects the ordinary questions of verse 4 with Jerusalem's refusal in verse 5. **Peace** appears as false assurance in verse 11 and disappointed expectation in verse 15. **Hurt, healed, health, balm,** and **physician** form a medical vocabulary running from verses 11 through 22. The expression **daughter of my people** occurs four times—verses 11, 19, 21, and 22—joining the false cure, distant cry, shared hurt, and final question about recovery. Similar healing language recurs elsewhere in Jeremiah, so this pattern demonstrates thematic clustering in the received chapter but does not establish single-stage composition.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter repeatedly overturns confidence: the worshipped heavenly bodies become the setting of postmortem disgrace; birds observe their seasons while the people fail to recognize judgment; professed wisdom is exposed by rejection of the LORD's word; and proclaimed peace gives way to invasion.
+
+Jeremiah 8:10–12 closely parallels [[Jeremiah 6]]:13–15, while Jeremiah 8:15 closely parallels [[Jeremiah 14]]:19. These repetitions establish recurring oracle and lament material within the received book. They do not determine whether Jeremiah repeated earlier language, an editor reused traditional material, or transmission produced some harmonization.
+
+The final questions about balm, a physician, and unrecovered health continue the chapter's healing imagery. They dramatize failed recovery but do not specify whether the remedy is unavailable, inadequate, refused, or no longer effective under judgment.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Recurrent Literary Vocabulary
+> A recurring medical vocabulary binds the chapter's accusations and lament: leaders heal the hurt only slightly, the people expect a time of health, the speaker shares the daughter's hurt, and the conclusion asks about balm, a physician, and unrecovered health. This pattern strongly supports reading false assurance and failed healing as a central literary theme.
+> — strength 0.8 · confidence 0.9 · Lexical cluster accepted; compositional significance limited · [[Recurrent Literary Vocabulary in Jeremiah 8|full dossier]]
+
+> [!evidence] Intratextual Verbal Parallel
+> Jeremiah 8:10-12 closely parallels Jeremiah 6:13-15 in sequence and wording: comprehensive covetousness and religious falsehood, superficial healing with a false announcement of peace, lack of shame, and an announced fall at visitation. This is strong evidence of direct literary reuse or shared textual tradition within Jeremiah.
+> — strength 0.9 · confidence 1.0 · Strong verified parallel; origin unresolved · [[Intratextual Verbal Parallel in Jeremiah 8|full dossier]]
+
+> [!evidence] Textual/Compositional
+> The near-verbatim duplication of an oracle unit between Jeremiah 6:13-15 and Jeremiah 8:10-12 is evidence that the book of Jeremiah contains recurring oracle material rather than a single, non-repeating sequential composition.
+> — strength 0.8 · confidence 1.0 · Recurrence established; compositional explanation open · [[Textual/Compositional in Jeremiah 8|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the text compare human refusal to return with both ordinary recovery after a fall and the seasonal knowledge of birds?
+- What distinction does verses 8–9 make between possessing the law and receiving genuine wisdom from it?
+- Who is speaking at each point in verses 14–22: the people, Jeremiah, the LORD, or a deliberately shifting combination of voices?
+- Is the final question about balm expressing the absence of a remedy, the failure of available healers, or the people's failure to receive healing?
+- How does the speaker's shared hurt affect the way the chapter's announcements of judgment should be read?
 <!-- SG:END questions -->
 
 ## Further Study
