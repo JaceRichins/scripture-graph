@@ -745,6 +745,13 @@ The explicit causal chain in v.17 tying prolonged riches to status competition, 
 
 Notes: [[Internal Literary Evidence in Helaman 6]]
 
+### bom-jacob1-psalm95-hebrews3-intertext
+**Psalm 95 and Hebrews 3 mediation in Jacob 1:7** — *strong* (supports, evidence_strength 0.68) for: Jacob 1:7's final English wording reflects textual or translation-level mediation through the KJV-shaped Psalm 95:8–11 / Hebrews 3:8–11 wilderness-warning complex.
+
+The ordered provocation, temptation, and wilderness vocabulary, reinforced by the shared wrath-and-rest framework, strongly supports Psalm 95/Hebrews 3 or KJV-shaped mediation in Jacob 1:7's final English form. The parallel does not distinguish translation, harmonization, memorized biblical idiom, or direct nineteenth-century reuse and therefore does not independently establish antiquity, historicity, or inspiration.
+
+Notes: [[VerbalTextual Parallel in Jacob 1]]
+
 ### jsh-anthon-episode-reliability
 **Reliability of the Martin Harris–Charles Anthon episode as reported in Joseph Smith—History** — *moderate* (challenges, evidence_strength 0.4) for: Martin Harris's account, as embedded in Joseph Smith—History 1:63-65, accurately represents what Charles Anthon said and did concerning the copied characters and translation.
 
