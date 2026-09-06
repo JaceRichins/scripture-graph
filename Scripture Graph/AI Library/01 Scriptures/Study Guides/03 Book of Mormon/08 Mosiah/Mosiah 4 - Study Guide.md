@@ -23,7 +23,12 @@ Scripture: [[Mosiah 4]] · My notes: [[Mosiah 4 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Verses 1-3 — Mercy received:** The multitude recognizes its fallen state, calls upon Christ, and receives remission and joy.
+2. **Verses 4-10 — The way of salvation:** Benjamin identifies the atonement, trust, repentance, obedience, and enduring faith.
+3. **Verses 11-12 — Mercy retained:** Remembrance, humility, daily prayer, and steadfastness sustain joy, love, remission, and growth.
+4. **Verses 13-16 — Conversion becomes communal:** Peace, fairness, responsible parenting, love, service, and succor follow.
+5. **Verses 17-25 — The beggar argument:** Benjamin rejects deserved-misery reasoning by appealing to universal dependence upon God; he also distinguishes inability from unwillingness.
+6. **Verses 26-30 — Disciplined perseverance:** Aid is proportionate to means, zeal is bounded by strength, ordinary obligations matter, and disciples must watch thoughts, words, and deeds.
 <!-- SG:END structure -->
 
 ## People
@@ -66,16 +71,18 @@ _Not yet developed._
 - [[Fasting and Prayer for the Poor]]
 - [[Repentance]]
 - [[Family]]
+- [[Repentance and Forgiveness]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
-- [[Service]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter does not present grace and ethical conduct as competing alternatives. Remission is received through Christ's atonement and faith, while the life that retains remission includes repentance, remembrance, prayer, endurance, and mercy toward others. Verse 26 makes the connection explicit, but it does not explain the relation in later systematic categories: charitable conduct may be understood as a covenant condition, a fruit of grace, evidence of continuing conversion, or some combination of these.
+
+Benjamin's treatment of poverty is also morally precise. The rich may not condemn a petitioner by claiming the suffering is deserved; all people live as dependents before God. Yet those without means are not commanded to perform the impossible. Their sincere willingness matters, while covetousness remains subject to judgment. Verse 27 adds a complementary limit: [[Service]] should be diligent but proportionate to strength.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -113,20 +120,28 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter's argument turns received mercy into practiced mercy. The crowd begs God and is not refused (verses 2-3, 20); therefore, those same recipients should not refuse another beggar (verses 16-22). This analogy gives “all beggars” more force than a general statement about human need: it recalls an event the audience has just experienced.
+
+A second progression runs from inner life to widening circles of conduct: remembered dependence and prayer (verses 11-12), peaceful relations (verse 13), the household (verses 14-15), the needy community (verses 16-26), contractual honesty (verse 28), and finally thoughts, words, and deeds (verses 29-30). This organization is meaningful, although it does not by itself establish anything about the text's historical provenance.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Textual Coherence
+> The explicit connection between retaining remission from day to day and relieving the poor is strong internal textual evidence that material and spiritual care for those in need is integral to Benjamin's account of persevering discipleship, not a detached social appendix.
+> — strength 0.8 · confidence 0.9 · Textual integration accepted; precise causal model unresolved · [[Internal Textual Coherence in Mosiah 4|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does “retain a remission” describe a condition of continuing forgiveness, the fruits that show forgiveness remains operative, or both?
+- How does the admission that humans cannot comprehend everything God comprehends shape the command to believe and act in verses 9-10?
+- What judgments about people in need does Benjamin forbid, and what questions about causes or responsibility does he leave unanswered?
+- How should verse 27 govern service without becoming an excuse for avoidable inaction?
+- Why does Benjamin end an expansive sermon with the concrete example of returning borrowed property and the inward discipline of watching one's thoughts?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare [[Mosiah 2]] for Benjamin's teaching that service to others is service to God and that mortals remain dependent upon their Creator. Compare [[Alma 34]], especially verse 28, for the warning that prayer is vain when separated from care for the needy. [[Alma 36]] provides a close experiential parallel between pleading for Christ's mercy and the transition from guilt or anguish to joy. [[Alma 5]] asks whether an earlier change of heart remains present, complementing Mosiah 4's emphasis on remembering and retaining remission.
 <!-- SG:END further-study -->
