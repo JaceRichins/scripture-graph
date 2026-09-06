@@ -23,7 +23,15 @@ Scripture: [[Mosiah 3]] · My notes: [[Mosiah 3 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A cautious outline is:
+
+1. **Source and purpose of the message (vv. 1-4):** an angel brings glad tidings meant to produce joy.
+2. **Christ's mission (vv. 5-10):** descent, miracles, suffering, identity, rejection, crucifixion, resurrection, and judgment.
+3. **Atonement and differing accountability (vv. 11-18):** the ignorant, knowing rebels, Israel under the [[Law of Moses]], and infants are considered in turn.
+4. **Transformation through Christ (v. 19):** yielding to the Holy Spirit and becoming childlike.
+5. **Knowledge, responsibility, and judgment (vv. 20-27):** the spreading message removes blamelessness and stands as testimony at judgment.
+
+This outline follows changes in subject matter; it should not be treated as proof of a formal ancient literary structure.
 <!-- SG:END structure -->
 
 ## People
@@ -51,31 +59,31 @@ _Not yet developed._
 - [[Jacob 6]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-27|Mosiah 3:27]] ↔ [[Jacob 6#^jacob-6-10|Jacob 6:10]]
 - [[4 Nephi 1]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]] ↔ [[4 Nephi 1#^4ne-1-5|4 Nephi 1:5]]
 - [[2 Nephi 9]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-27|Mosiah 3:27]] ↔ [[2 Nephi 9#^2ne-9-16|2 Nephi 9:16]]
-- [[Mosiah 16]] — 2 parallel verses, e.g. [[Mosiah 3#^mosiah-3-24|Mosiah 3:24]] ↔ [[Mosiah 16#^mosiah-16-10|Mosiah 16:10]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Mosiah 3#^mosiah-3-24|Mosiah 3:24]] ↔ [[3 Nephi 27#^3ne-27-14|3 Nephi 27:14]]
 - [[D&C 35]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-5|Mosiah 3:5]] ↔ [[D&C 35#^dc-35-9|D&C 35:9]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Mosiah 3#^mosiah-3-12|Mosiah 3:12]] ↔ [[Alma 37#^alma-37-33|Alma 37:33]]
 - [[Alma 5]] — 2 parallel verses, e.g. [[Mosiah 3#^mosiah-3-22|Mosiah 3:22]] ↔ [[Alma 5#^alma-5-61|Alma 5:61]]
 - [[Deuteronomy 5]] — 2 parallel verses, e.g. [[Mosiah 3#^mosiah-3-22|Mosiah 3:22]] ↔ [[Deuteronomy 5#^deut-5-12|Deuteronomy 5:12]]
-- [[Mosiah 15]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-20|Mosiah 3:20]] ↔ [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]]
 - [[Alma 11]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-24|Mosiah 3:24]] ↔ [[Alma 11#^alma-11-44|Alma 11:44]]
+- [[3 Nephi 26]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-24|Mosiah 3:24]] ↔ [[3 Nephi 26#^3ne-26-4|3 Nephi 26:4]]
+- [[Mosiah 5]] — 1 parallel verse, e.g. [[Mosiah 3#^mosiah-3-26|Mosiah 3:26]] ↔ [[Mosiah 5#^mosiah-5-5|Mosiah 5:5]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Salvation]]
 - [[Atonement of Jesus Christ]]
-- [[Final Judgment]]
 - [[Humility]]
 - [[Infant Baptism (rejected doctrine)]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Gethsemane]]
-- [[Family]] *(keyword match — unconfirmed)*
+- [[Final Judgment]]
+- [[Condescension of God]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter's doctrine of salvation is both exclusive and differentiated. Christ is the only saving name and means (v. 17), yet the application of his atonement is discussed in relation to knowledge and capacity. Those who die without knowing God's will or sin ignorantly are covered by his blood (v. 11); knowing rebellion requires [[Repentance]] and [[Faith]] (v. 12); and infants do not perish (vv. 16, 18). Verse 19 then presents sanctification as yielding to the Holy Spirit, receiving grace through Christ's atonement, and acquiring childlike dispositions. These distinctions are relevant to [[Justice and Mercy]] but do not answer every question about degrees of knowledge or accountability.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -108,22 +116,38 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several titles and images carry substantial theological weight. “Lord Omnipotent” emphasizes divine rule and is applied to Christ in verses 5, 17, 18, and 21. “Tabernacle of clay” depicts embodied mortality (v. 5). Verse 8 calls Christ both the Son of God and the Father of heaven and earth; the verse supplies the additional title “Creator of all things,” but it does not by itself provide a complete account of the relationships within [[The Godhead]]. In verse 27 torment is “as a lake of fire and brimstone”; the comparative “as” permits figurative imagery and cautions against assuming a literal physical lake.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The angel's double summons — "Awake" (v.2), then "Awake, and hear" (v.3) — heightens the urgency of the visitation before any content is delivered, moving Benjamin from physical wakefulness to attentive hearing.
+
+Verses 16 and 19 both use "child" language, though in ways that sit in some tension rather than forming a clean opposition: verse 16 says children "fall, even so the blood of Christ atoneth for their sins" — they are covered by the Atonement rather than declared inherently sinless — while verses 18–19 call on accountable adults to deliberately "become as a child," submissive, meek, humble, patient, and full of love, as the fruit of yielding to the Holy Spirit. Whether this is a deliberate rhetorical pairing or simply two related but distinct uses of child imagery is left open by the text itself.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary Evidence
+> The detailed sequence in verses 5-10 is strong internal evidence that the passage was deliberately constructed as a coherent prophecy of Jesus Christ. It is weak as independent evidence for the prophecy's historical antiquity because the text alone cannot adjudicate between supernatural foreknowledge, use of earlier Christian traditions, or composition informed by the New Testament.
+> — strength 0.3 · confidence 0.9 · correctly calibrated evidentiary claim · [[Internal Literary Evidence in Mosiah 3|full dossier]]
+
+> [!evidence] Apologetic/Predictive-Prophecy Claim *(tentative)*
+> Mosiah 3 is presented, within Book of Mormon internal chronology, as an angelic prophecy delivered to King Benjamin roughly a century before Christ's birth, yet it specifically names 'Jesus Christ' and his mother 'Mary' (v.8). Believing readers cite this specificity as evidence of genuine predictive prophecy and ancient origin.
+> — strength 0.2 · confidence 0.8 · disputed apologetic claim, honestly hedged
+
+> [!evidence] Intertextual Consistency *(tentative)*
+> The 'blood from every pore' detail in Mosiah 3:7 anticipates the same specific physiological description later associated with Gethsemane elsewhere in scripture (e.g., Doctrine and Covenants 19:18, and Luke 22:44's 'sweat...as it were great drops of blood'), representing an internally consistent motif about the nature of Christ's suffering.
+> — strength 0.3 · confidence 0.6 · disputed intertextual claim, appropriately hedged
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- How do verses 11-12 distinguish ignorance from knowing rebellion, and what remains unstated about partial knowledge?
+- Why does the chapter connect becoming like a child with both salvation (v. 18) and sanctified character (v. 19)?
+- In what sense do revealed words become a testimony against their hearers in verses 22-24?
+- How should “Father of heaven and earth” in verse 8 be read alongside “Son of God” in the same verse?
+- Does the statement that knowledge of a Savior will spread to every people describe universal historical access, a prophetic ideal, or eventual divine disclosure?
 <!-- SG:END questions -->
 
 ## Further Study
