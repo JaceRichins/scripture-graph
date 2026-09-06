@@ -44,6 +44,8 @@ _Not yet developed._
 - **66 BC–64 BC** — Ammoron's Lamanite kingship and the retaking of Mulek · [[Alma 52]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **56 BC–54 BC** — Hagoth builds ships; Nephites migrate to land northward · [[Alma 63]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **52 BC–51 BC** — Succession crisis and Lamanite invasion of Zarahemla · [[Helaman 1]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **38 BC–30 BC** — Nephite territorial collapse and partial recovery · [[Helaman 4]] · [[100-1 BC]] *(approximate)*
+- **38 BC–30 BC** — Nephite civil war, loss and partial reconquest of Zarahemla · [[Helaman 4]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **AD 17** — Nephite gathering to the Zarahemla-Bountiful line · [[3 Nephi 3]] · [[AD 1-100]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

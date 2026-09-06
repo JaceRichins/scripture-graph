@@ -11125,6 +11125,128 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-hel-3-d309b1dc",
+   "t": "Migration, church growth, and Helaman's death",
+   "y0": -49,
+   "y1": -39,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The chapter heading dates the narrative approximately 49-39 B.C.; internally the account spans the forty-third through fifty-third years of the judges.",
+   "chapters": [
+    "Helaman 3"
+   ],
+   "people": [
+    "Helaman",
+    "Nephi",
+    "Lehi",
+    "Gadianton"
+   ],
+   "places": [
+    "Zarahemla",
+    "land northward"
+   ],
+   "things": [
+    "Nephite records",
+    "houses of cement"
+   ]
+  },
+  {
+   "id": "r-hel-4-a459c167",
+   "t": "Nephite territorial collapse and partial recovery",
+   "y0": -38,
+   "y1": -30,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The chapter covers the fifty-fourth through sixty-second years of the reign of the judges; the official chapter heading dates this span to about 38–30 B.C.",
+   "chapters": [
+    "Helaman 4"
+   ],
+   "people": [
+    "Moronihah",
+    "Nephi (son of Helaman)",
+    "Lehi (son of Helaman)"
+   ],
+   "places": [
+    "Land of Zarahemla",
+    "Land of Bountiful"
+   ],
+   "things": [
+    "Nephite defensive line",
+    "laws of Mosiah"
+   ]
+  },
+  {
+   "id": "r-hel-4-a8af7150",
+   "t": "Nephite civil war, loss and partial reconquest of Zarahemla",
+   "y0": -38,
+   "y1": -30,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Dated by the Nephite reign-of-judges calendar to years 54-62; the chapter heading assigns this to about 38-30 B.C.",
+   "chapters": [
+    "Helaman 4"
+   ],
+   "people": [
+    "Moronihah",
+    "Nephi (son of Helaman)",
+    "Lehi (son of Helaman)"
+   ],
+   "places": [
+    "Zarahemla",
+    "Land of Bountiful"
+   ]
+  },
+  {
+   "id": "r-hel-6-7bb4ab27",
+   "t": "Peace, prosperity, and Gadianton ascendancy",
+   "y0": -29,
+   "y1": -23,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the events to approximately 29-23 B.C.; the internal account spans the sixty-second through sixty-eighth years of the judges.",
+   "chapters": [
+    "Helaman 6"
+   ],
+   "people": [
+    "Cezoram",
+    "Gadianton",
+    "Kishkumen",
+    "Nephi"
+   ],
+   "places": [
+    "Zarahemla",
+    "land northward"
+   ],
+   "things": [
+    "judgment-seat",
+    "secret oaths"
+   ]
+  },
+  {
    "id": "r-hosea-1-863a09e5",
    "t": "Hosea's ministry across Judean and Israelite reigns",
    "y0": -755,

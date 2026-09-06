@@ -129,11 +129,11 @@ Useful scriptural parallels include [[Alma 10]] on a city spared for the righteo
 <!-- SG:BEGIN evidence -->
 > [!evidence] Intratextual Prediction-Fulfillment
 > Samuel's prediction that destruction will occur before four hundred years pass corresponds to the Book of Mormon's later internal chronology: Mormon dates the climactic Nephite destruction to the late fourth century after Christ. This is strong evidence of deliberate long-range narrative coherence within the book.
-> — strength 0.8 · confidence 1.0 · Strong evidence of final-form narrative coherence only · [[Intratextual Prediction-Fulfillment in Helaman 13|full dossier]]
+> — strength 0.6 · confidence 1.0 · Strong evidence of final-form narrative coherence only · [[Intratextual Prediction-Fulfillment in Helaman 13|full dossier]]
 
 > [!evidence] Intratextual Fulfillment And Verbal Callback
 > The later narrative explicitly reports that hidden treasures became slippery and could not be retained, closely matching Samuel's language about the curse on treasures. This functions as a clear intratextual fulfillment or authorial callback.
-> — strength 0.9 · confidence 1.0 · Strong intratextual callback; historical mechanism disputed · [[Intratextual Fulfillment And Verbal Callback in Helaman 13|full dossier]]
+> — strength 0.6 · confidence 1.0 · Strong intratextual callback; historical mechanism disputed · [[Intratextual Fulfillment And Verbal Callback in Helaman 13|full dossier]]
 
 > [!evidence] Narrative Structure / Prophecy-Fulfillment Framing *(tentative)*
 > Samuel's specific, falsifiable figure of 'four hundred years' until destruction (contingent on repentance) is presented within the text as a genuine predictive prophecy, illustrating the Book of Mormon's broader prophecy-and-fulfillment narrative structure.

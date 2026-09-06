@@ -132,7 +132,7 @@ _Not yet developed._
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Prediction-Fulfillment
 > The detailed correspondences between Samuel's signs and the later narratives provide strong evidence that the Book of Mormon's present literary form intentionally links prophecy and fulfillment.
-> — strength 0.9 · confidence 1.0 · Literary linkage accepted; historical inference expressly disputed · [[Internal Prediction-Fulfillment in Helaman 14|full dossier]]
+> — strength 0.7 · confidence 1.0 · Literary linkage accepted; historical inference expressly disputed · [[Internal Prediction-Fulfillment in Helaman 14|full dossier]]
 
 > [!evidence] Narrative Specificity *(tentative)*
 > Within the narrative, the five-year deadline and publicly observable birth signs make Samuel's prophecy unusually specific and expose it to an explicit test by the subsequent story.

@@ -107,11 +107,11 @@ Verses 1 and 18 repeat division language: the people first disperse and later be
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Coherence
 > The authorization to smite the earth with famine in Helaman 10:6 is narratively activated in Helaman 11:3-6, where Nephi asks the Lord to replace warfare with famine and the famine follows. This is strong evidence of deliberate internal narrative continuity.
-> — strength 0.9 · confidence 1.0 · Broadly accepted internal narrative continuity · [[Internal Narrative Coherence in Helaman 10|full dossier]]
+> — confidence 1.0 · Broadly accepted internal narrative continuity · [[Internal Narrative Coherence in Helaman 10|full dossier]]
 
 > [!evidence] Textual Parallel
 > Helaman 10:7 and Matthew 18:18 share a close earth-and-heaven ratification formula and the language of loosing. This strongly supports a literary or verbal relationship in their English forms, although it does not determine the relationship's direction, date, or historical mechanism.
-> — strength 0.9 · confidence 1.0 · English textual relationship accepted; mechanism disputed · [[Textual Parallel in Helaman 10|full dossier]]
+> — strength 0.8 · confidence 1.0 · English textual relationship accepted; mechanism disputed · [[Textual Parallel in Helaman 10|full dossier]]
 
 > [!evidence] Internal Literary/Chronological Consistency *(tentative)*
 > The chapter's closing regnal-year formula ('the seventy and first year of the reign of the judges') is internally consistent with the Nephite year-count system used throughout Helaman, which is sometimes cited as a mark of careful record-keeping.

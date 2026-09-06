@@ -38,6 +38,7 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **52 BC–51 BC** — Succession crisis and Lamanite invasion of Zarahemla · [[Helaman 1]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **50 BC–26 BC** — Gadianton's secret combinations rise · [[Helaman 2]] · [[Helaman 6]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **29 BC–23 BC** — Peace, prosperity, and Gadianton ascendancy · [[Helaman 6]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

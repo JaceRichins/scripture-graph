@@ -116,7 +116,7 @@ Nephi's brother Lehi is introduced in this chapter only by comparison — "Lehi,
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Organization
 > The repeated dated transitions and paired language of remembering, forgetting, and being stirred up constitute strong textual evidence that the narrator deliberately frames these years as a recurring moral cycle.
-> — strength 0.8 · confidence 0.9 · affirmed, model hedging · [[Literary Organization in Helaman 11|full dossier]]
+> — confidence 0.9 · affirmed, model hedging · [[Literary Organization in Helaman 11|full dossier]]
 
 > [!evidence] Internal Literary/Thematic Consistency *(tentative)*
 > Read together, Helaman 11:10 and 11:26 support the idea that the text portrays secret combinations as transmissible bodies of hidden knowledge or tradition that can outlast the destruction of the group that held them, rather than as organizations that simply cease to exist once defeated.
