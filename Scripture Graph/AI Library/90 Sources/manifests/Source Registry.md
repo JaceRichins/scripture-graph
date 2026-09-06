@@ -19,9 +19,9 @@ content_type: manifest
 | History of the Church (B. H. Roberts ed.) | history | 4 | **imported** | download |
 | Joseph Smith Papers | jsp | 4 | **imported** | drop-folder |
 | Journal of Discourses (1854-1886) | history | 4 | **imported** | download |
-| Church periodicals 1832-1929 (public domain) | history | 4 | **available** | download |
+| Church periodicals 1832-1929 (public domain) | history | 4 | **imported** | download |
 | Latter Day Saints' Messenger and Advocate (Kirtland, 1834-1837) | history | 4 | **available** | download |
-| Journals and writings of the prophets (public domain) | history | 4 | **available** | download |
+| Journals and writings of the prophets (public domain) | history | 4 | **imported** | download |
 | Words of the Prophets (your own permitted material) | history | 4 | **manual_download_required** | drop-folder |
 | Times and Seasons (Nauvoo, 1839-1846) | history | 4 | **available** | download |
 | Academic scholarship & journals | scholarship | 6 | **manual_download_required** | drop-folder |
