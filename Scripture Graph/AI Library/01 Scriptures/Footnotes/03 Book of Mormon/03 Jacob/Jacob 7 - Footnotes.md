@@ -1,0 +1,38 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: jacob-7
+verses: 17
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# Jacob 7 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> Sherem denies Christ, contends with Jacob, demands a sign, and is smitten of God—All of the prophets have spoken of Christ and His Atonement—The Nephites lived out their days as wanderers, born in tribulation, and hated by the Lamanites. About 544–421 B.C.
+
+```json
+{"2":[{"m":"2a","refs":[{"c":"alma-21","t":"Alma 21","v":[8],"l":"Alma 21:8"},{"c":"alma-30","t":"Alma 30","v":[12],"l":"30:12 (12, 22)"}]}],"5":[{"m":"5a","refs":[{"c":"2ne-10","t":"2 Nephi 10","v":[3],"l":"2 Ne. 10:3"},{"c":"2ne-11","t":"2 Nephi 11","v":[3],"l":"11:3"},{"c":"jacob-2","t":"Jacob 2","v":[11],"l":"Jacob 2:11"}]},{"m":"5b","refs":[{"c":"2ne-2","t":"2 Nephi 2","v":[4],"l":"2 Ne. 2:4"}]},{"m":"5c","refs":[{"c":"ex-19","t":"Exodus 19","v":[9,10,11,12,13],"l":"Ex. 19:9 (9–13)"}]}],"6":[{"m":"6a","refs":[{"c":"2ne-31","t":"2 Nephi 31","v":[2],"l":"2 Ne. 31:2"}]}],"7":[{"m":"7a","refs":[{"c":"jacob-4","t":"Jacob 4","v":[5],"l":"Jacob 4:5"}]},{"m":"7c","refs":[{"c":"alma-30","t":"Alma 30","v":[13],"l":"Alma 30:13"}]}],"8":[{"m":"8b","refs":[{"c":"ps-97","t":"Psalm 97","v":[7],"l":"Ps. 97:7"}]}],"11":[{"m":"11a","refs":[{"c":"1ne-10","t":"1 Nephi 10","v":[5],"l":"1 Ne. 10:5"},{"c":"3ne-20","t":"3 Nephi 20","v":[23,24],"l":"3 Ne. 20:24 (23–24)"}]},{"m":"11b","refs":[{"c":"1pet-1","t":"1 Peter 1","v":[11],"l":"1 Pet. 1:11"},{"c":"rev-19","t":"Revelation 19","v":[10],"l":"Rev. 19:10"},{"c":"jacob-4","t":"Jacob 4","v":[4],"l":"Jacob 4:4"},{"c":"mosiah-13","t":"Mosiah 13","v":[33,34,35],"l":"Mosiah 13:33 (33–35)"},{"c":"dc-20","t":"D&C 20","v":[26],"l":"D&amp;C 20:26"}]}],"12":[{"m":"12b","refs":[{"c":"2ne-2","t":"2 Nephi 2","v":[10,11,12,13,14,15],"l":"2 Ne. 2:21 (10–30)"}]}],"13":[{"m":"13a","refs":[{"c":"john-6","t":"John 6","v":[30],"l":"John 6:30"},{"c":"alma-30","t":"Alma 30","v":[43,44,45,46,47,48],"l":"Alma 30:43 (43–60)"},{"c":"dc-46","t":"D&C 46","v":[8,9],"l":"D&amp;C 46:9 (8–9)"}]}],"14":[{"m":"14b","refs":[{"c":"mosiah-12","t":"Mosiah 12","v":[30],"l":"Mosiah 12:30"},{"c":"alma-30","t":"Alma 30","v":[41,42],"l":"Alma 30:42 (41–42)"}]},{"m":"14c","refs":[{"c":"alma-30","t":"Alma 30","v":[53],"l":"Alma 30:53"}]},{"m":"14d","refs":[{"c":"num-26","t":"Numbers 26","v":[10],"l":"Num. 26:10"},{"c":"dc-124","t":"D&C 124","v":[50,51,52,53],"l":"D&amp;C 124:53 (50–53)"}]}],"18":[{"m":"18a","refs":[{"c":"gal-3","t":"Galatians 3","v":[1,2,3,4],"l":"Gal. 3:1 (1–4)"},{"c":"alma-30","t":"Alma 30","v":[53],"l":"Alma 30:53 (53, 60)"}]}],"19":[{"m":"19c","refs":[{"c":"jacob-6","t":"Jacob 6","v":[9],"l":"Jacob 6:9"},{"c":"mosiah-15","t":"Mosiah 15","v":[26],"l":"Mosiah 15:26"}]}],"20":[{"m":"20a","refs":[{"c":"jer-28","t":"Jeremiah 28","v":[15,16,17],"l":"Jer. 28:16 (15–17)"},{"c":"alma-30","t":"Alma 30","v":[12,13,14,15,16,17],"l":"Alma 30:59 (12–60)"}]},{"m":"20b","refs":[{"c":"gen-49","t":"Genesis 49","v":[33],"l":"Gen. 49:33"},{"c":"hel-14","t":"Helaman 14","v":[21],"l":"Hel. 14:21"}]}],"21":[{"m":"21a","refs":[{"c":"alma-19","t":"Alma 19","v":[1,2,3,4,5,6],"l":"Alma 19:6 (1–36)"}]}],"23":[{"m":"23b","refs":[{"c":"alma-17","t":"Alma 17","v":[2],"l":"Alma 17:2"}]}],"24":[{"m":"24a","refs":[{"c":"enos-1","t":"Enos 1","v":[20],"l":"Enos 1:20"}]},{"m":"24b","refs":[{"c":"enos-1","t":"Enos 1","v":[14],"l":"Enos 1:14"}]},{"m":"24c","refs":[{"c":"mosiah-1","t":"Mosiah 1","v":[5],"l":"Mosiah 1:5"},{"c":"mosiah-10","t":"Mosiah 10","v":[11,12,13,14,15,16],"l":"10:12 (11–18)"},{"c":"alma-3","t":"Alma 3","v":[8],"l":"Alma 3:8"},{"c":"alma-9","t":"Alma 9","v":[16],"l":"9:16"},{"c":"dc-93","t":"D&C 93","v":[39],"l":"D&amp;C 93:39"}]},{"m":"24d","refs":[{"c":"jarom-1","t":"Jarom 1","v":[6],"l":"Jarom 1:6"},{"c":"alma-26","t":"Alma 26","v":[23,24,25],"l":"Alma 26:24 (23–25)"}]},{"m":"24e","refs":[{"c":"2ne-5","t":"2 Nephi 5","v":[1,2,3],"l":"2 Ne. 5:1 (1–3)"},{"c":"mosiah-28","t":"Mosiah 28","v":[2],"l":"Mosiah 28:2"}]}],"26":[{"m":"26a","refs":[{"c":"1ne-19","t":"1 Nephi 19","v":[1,2,3,4,5,6],"l":"1 Ne. 19:1 (1–6)"},{"c":"jarom-1","t":"Jarom 1","v":[1],"l":"Jarom 1:14 (1, 14–15)"}]},{"m":"26b","refs":[{"c":"james-4","t":"James 4","v":[14],"l":"James 4:14"}]},{"m":"26c","refs":[{"c":"1chr-29","t":"1 Chronicles 29","v":[15],"l":"1 Chr. 29:15"},{"c":"ps-144","t":"Psalm 144","v":[4],"l":"Ps. 144:4"}]},{"m":"26d","refs":[{"c":"alma-13","t":"Alma 13","v":[23],"l":"Alma 13:23"}]},{"m":"26e","refs":[{"c":"alma-26","t":"Alma 26","v":[36],"l":"Alma 26:36"}]}],"27":[{"m":"27a","refs":[{"c":"enos-1","t":"Enos 1","v":[1],"l":"Enos 1:1"}]},{"m":"27b","refs":[{"c":"omni-1","t":"Omni 1","v":[3],"l":"Omni 1:3"}]},{"m":"27c","refs":[{"c":"jacob-1","t":"Jacob 1","v":[1,2,3,4],"l":"Jacob 1:1 (1–4)"}]},{"m":"27d","refs":[{"c":"1ne-6","t":"1 Nephi 6","v":[1,2,3,4,5,6],"l":"1 Ne. 6:3 (1–6)"},{"c":"jarom-1","t":"Jarom 1","v":[2],"l":"Jarom 1:2 (2, 14)"}]}]}
+```
+
+- **2** 2a [[Alma 21#^alma-21-8|Alma 21:8]] · [[Alma 30#^alma-30-12|30:12 (12, 22)]]
+- **5** 5a [[2 Nephi 10#^2ne-10-3|2 Ne. 10:3]] · [[2 Nephi 11#^2ne-11-3|11:3]] · [[Jacob 2#^jacob-2-11|Jacob 2:11]]; 5b [[2 Nephi 2#^2ne-2-4|2 Ne. 2:4]]; 5c [[Exodus 19#^ex-19-9|Ex. 19:9 (9–13)]]
+- **6** 6a [[2 Nephi 31#^2ne-31-2|2 Ne. 31:2]]
+- **7** 7a [[Jacob 4#^jacob-4-5|Jacob 4:5]]; 7c [[Alma 30#^alma-30-13|Alma 30:13]]
+- **8** 8b [[Psalm 97#^ps-97-7|Ps. 97:7]]
+- **11** 11a [[1 Nephi 10#^1ne-10-5|1 Ne. 10:5]] · [[3 Nephi 20#^3ne-20-23|3 Ne. 20:24 (23–24)]]; 11b [[1 Peter 1#^1pet-1-11|1 Pet. 1:11]] · [[Revelation 19#^rev-19-10|Rev. 19:10]] · [[Jacob 4#^jacob-4-4|Jacob 4:4]] · [[Mosiah 13#^mosiah-13-33|Mosiah 13:33 (33–35)]] · [[D&C 20#^dc-20-26|D&amp;C 20:26]]
+- **12** 12b [[2 Nephi 2#^2ne-2-10|2 Ne. 2:21 (10–30)]]
+- **13** 13a [[John 6#^john-6-30|John 6:30]] · [[Alma 30#^alma-30-43|Alma 30:43 (43–60)]] · [[D&C 46#^dc-46-8|D&amp;C 46:9 (8–9)]]
+- **14** 14b [[Mosiah 12#^mosiah-12-30|Mosiah 12:30]] · [[Alma 30#^alma-30-41|Alma 30:42 (41–42)]]; 14c [[Alma 30#^alma-30-53|Alma 30:53]]; 14d [[Numbers 26#^num-26-10|Num. 26:10]] · [[D&C 124#^dc-124-50|D&amp;C 124:53 (50–53)]]
+- **18** 18a [[Galatians 3#^gal-3-1|Gal. 3:1 (1–4)]] · [[Alma 30#^alma-30-53|Alma 30:53 (53, 60)]]
+- **19** 19c [[Jacob 6#^jacob-6-9|Jacob 6:9]] · [[Mosiah 15#^mosiah-15-26|Mosiah 15:26]]
+- **20** 20a [[Jeremiah 28#^jer-28-15|Jer. 28:16 (15–17)]] · [[Alma 30#^alma-30-12|Alma 30:59 (12–60)]]; 20b [[Genesis 49#^gen-49-33|Gen. 49:33]] · [[Helaman 14#^hel-14-21|Hel. 14:21]]
+- **21** 21a [[Alma 19#^alma-19-1|Alma 19:6 (1–36)]]
+- **23** 23b [[Alma 17#^alma-17-2|Alma 17:2]]
+- **24** 24a [[Enos 1#^enos-1-20|Enos 1:20]]; 24b [[Enos 1#^enos-1-14|Enos 1:14]]; 24c [[Mosiah 1#^mosiah-1-5|Mosiah 1:5]] · [[Mosiah 10#^mosiah-10-11|10:12 (11–18)]] · [[Alma 3#^alma-3-8|Alma 3:8]] · [[Alma 9#^alma-9-16|9:16]] · [[D&C 93#^dc-93-39|D&amp;C 93:39]]; 24d [[Jarom 1#^jarom-1-6|Jarom 1:6]] · [[Alma 26#^alma-26-23|Alma 26:24 (23–25)]]; 24e [[2 Nephi 5#^2ne-5-1|2 Ne. 5:1 (1–3)]] · [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]]
+- **26** 26a [[1 Nephi 19#^1ne-19-1|1 Ne. 19:1 (1–6)]] · [[Jarom 1#^jarom-1-1|Jarom 1:14 (1, 14–15)]]; 26b [[James 4#^james-4-14|James 4:14]]; 26c [[1 Chronicles 29#^1chr-29-15|1 Chr. 29:15]] · [[Psalm 144#^ps-144-4|Ps. 144:4]]; 26d [[Alma 13#^alma-13-23|Alma 13:23]]; 26e [[Alma 26#^alma-26-36|Alma 26:36]]
+- **27** 27a [[Enos 1#^enos-1-1|Enos 1:1]]; 27b [[Omni 1#^omni-1-3|Omni 1:3]]; 27c [[Jacob 1#^jacob-1-1|Jacob 1:1 (1–4)]]; 27d [[1 Nephi 6#^1ne-6-1|1 Ne. 6:3 (1–6)]] · [[Jarom 1#^jarom-1-2|Jarom 1:2 (2, 14)]]

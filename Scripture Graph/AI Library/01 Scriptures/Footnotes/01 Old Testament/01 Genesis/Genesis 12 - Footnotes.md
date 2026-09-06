@@ -1,0 +1,34 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: gen-12
+verses: 13
+updated_at: '2026-09-06T23:26:25Z'
+cssclasses:
+- sg-ai
+---
+
+# Genesis 12 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> Abram will become a great nation—He and his seed will bless all the families of the earth—He travels from Haran to the land of Canaan—Because of famine, he goes down into Egypt—Abram and Sarai are tested in Pharaoh’s court.
+
+```json
+{"1":[{"m":"1a","refs":[{"c":"acts-7","t":"Acts 7","v":[1,2,3,4,5,6],"l":"Acts 7:2 (1–8, 16)"},{"c":"abr-2","t":"Abraham 2","v":[3,4],"l":"Abr. 2:3 (3–4)"}]},{"m":"1b","refs":[{"c":"neh-9","t":"Nehemiah 9","v":[7],"l":"Neh. 9:7"},{"c":"heb-11","t":"Hebrews 11","v":[8],"l":"Heb. 11:8"}]},{"m":"1c","refs":[{"c":"gen-20","t":"Genesis 20","v":[13],"l":"Gen. 20:13"},{"c":"1ne-2","t":"1 Nephi 2","v":[2],"l":"1 Ne. 2:2"},{"c":"ether-1","t":"Ether 1","v":[42],"l":"Ether 1:42"},{"c":"abr-2","t":"Abraham 2","v":[3],"l":"Abr. 2:3"}]},{"m":"1d","refs":[{"c":"isa-51","t":"Isaiah 51","v":[2],"l":"Isa. 51:2"},{"c":"abr-1","t":"Abraham 1","v":[16],"l":"Abr. 1:16"}]},{"m":"1e","refs":[{"c":"abr-1","t":"Abraham 1","v":[1,2,3,4,5,6],"l":"Abr. 1:5 (1–7)"}]},{"m":"1f","refs":[{"c":"gen-24","t":"Genesis 24","v":[7],"l":"Gen. 24:7"}]}],"2":[{"m":"2a","refs":[{"c":"gen-28","t":"Genesis 28","v":[3,4],"l":"Gen. 28:3 (3–4)"}]},{"m":"2c","refs":[{"c":"1ne-22","t":"1 Nephi 22","v":[9],"l":"1 Ne. 22:9"},{"c":"3ne-20","t":"3 Nephi 20","v":[25],"l":"3 Ne. 20:25 (25, 27)"}]},{"m":"2d","refs":[{"c":"abr-2","t":"Abraham 2","v":[8,9,10,11],"l":"Abr. 2:10 (8–11)"}]}],"3":[{"m":"3c","refs":[{"c":"ex-23","t":"Exodus 23","v":[20,21,22,23],"l":"Ex. 23:22 (20–23)"}]}],"4":[{"m":"4a","refs":[{"c":"abr-2","t":"Abraham 2","v":[14],"l":"Abr. 2:14"}]}],"5":[{"m":"5a","refs":[{"c":"gen-11","t":"Genesis 11","v":[29],"l":"Gen. 11:29"},{"c":"abr-2","t":"Abraham 2","v":[2],"l":"Abr. 2:2"}]},{"m":"5b","refs":[{"c":"gen-14","t":"Genesis 14","v":[12],"l":"Gen. 14:12"},{"c":"abr-2","t":"Abraham 2","v":[15],"l":"Abr. 2:15"}]},{"m":"5c","refs":[{"c":"gen-13","t":"Genesis 13","v":[8],"l":"Gen. 13:8"}]},{"m":"5d","refs":[{"c":"abr-2","t":"Abraham 2","v":[15],"l":"Abr. 2:15"}]},{"m":"5e","refs":[{"c":"gen-11","t":"Genesis 11","v":[31],"l":"Gen. 11:31"}]}],"6":[{"m":"6a","refs":[{"c":"gen-10","t":"Genesis 10","v":[15,16,17,18,19],"l":"Gen. 10:18 (15–19)"},{"c":"gen-13","t":"Genesis 13","v":[7],"l":"13:7"},{"c":"moses-7","t":"Moses 7","v":[7,8],"l":"Moses 7:7 (7–8)"},{"c":"abr-1","t":"Abraham 1","v":[21,22,23,24,25],"l":"Abr. 1:22 (21–25)"},{"c":"abr-2","t":"Abraham 2","v":[18],"l":"2:18"}]}],"7":[{"m":"7a","refs":[{"c":"ex-33","t":"Exodus 33","v":[1],"l":"Ex. 33:1"}]},{"m":"7b","refs":[{"c":"neh-9","t":"Nehemiah 9","v":[8],"l":"Neh. 9:8"}]},{"m":"7d","refs":[{"c":"gen-13","t":"Genesis 13","v":[3,4],"l":"Gen. 13:4 (3–4)"},{"c":"gen-26","t":"Genesis 26","v":[25],"l":"26:25"},{"c":"1ne-2","t":"1 Nephi 2","v":[7],"l":"1 Ne. 2:7"},{"c":"abr-2","t":"Abraham 2","v":[17],"l":"Abr. 2:17"}]}],"8":[{"m":"8a","refs":[{"c":"gen-28","t":"Genesis 28","v":[16,17,18,19],"l":"Gen. 28:19 (16–19)"},{"c":"josh-16","t":"Joshua 16","v":[1,2],"l":"Josh. 16:2 (1–2)"},{"c":"2kgs-2","t":"2 Kings 2","v":[2],"l":"2 Kgs. 2:2"}]},{"m":"8b","refs":[{"c":"gen-13","t":"Genesis 13","v":[3],"l":"Gen. 13:3"}]},{"m":"8d","refs":[{"c":"abr-2","t":"Abraham 2","v":[20],"l":"Abr. 2:20"}]}],"11":[{"m":"11a","refs":[{"c":"abr-2","t":"Abraham 2","v":[22],"l":"Abr. 2:22"}]}],"13":[{"m":"13a","refs":[{"c":"gen-20","t":"Genesis 20","v":[1,2,3,4,5,6],"l":"Gen. 20:5 (1–18)"},{"c":"gen-26","t":"Genesis 26","v":[6,7,8,9,10,11],"l":"26:7 (6–11)"},{"c":"abr-2","t":"Abraham 2","v":[21,22,23,24,25],"l":"Abr. 2:24 (21–25)"}]}],"17":[{"m":"17a","refs":[{"c":"gen-20","t":"Genesis 20","v":[18],"l":"Gen. 20:18"},{"c":"1chr-16","t":"1 Chronicles 16","v":[18,19,20,21,22],"l":"1 Chr. 16:21 (18–22)"},{"c":"ps-105","t":"Psalm 105","v":[12,13,14,15],"l":"Ps. 105:14 (12–15)"}]}],"18":[{"m":"18a","refs":[{"c":"gen-20","t":"Genesis 20","v":[9,10],"l":"Gen. 20:9 (9–10)"}]}],"19":[{"m":"19a","refs":[{"c":"gen-20","t":"Genesis 20","v":[12],"l":"Gen. 20:12"},{"c":"abr-2","t":"Abraham 2","v":[22,23,24,25],"l":"Abr. 2:25 (22–25)"}]}]}
+```
+
+- **1** 1a [[Acts 7#^acts-7-1|Acts 7:2 (1–8, 16)]] · [[Abraham 2#^abr-2-3|Abr. 2:3 (3–4)]]; 1b [[Nehemiah 9#^neh-9-7|Neh. 9:7]] · [[Hebrews 11#^heb-11-8|Heb. 11:8]]; 1c [[Genesis 20#^gen-20-13|Gen. 20:13]] · [[1 Nephi 2#^1ne-2-2|1 Ne. 2:2]] · [[Ether 1#^ether-1-42|Ether 1:42]] · [[Abraham 2#^abr-2-3|Abr. 2:3]]; 1d [[Isaiah 51#^isa-51-2|Isa. 51:2]] · [[Abraham 1#^abr-1-16|Abr. 1:16]]; 1e [[Abraham 1#^abr-1-1|Abr. 1:5 (1–7)]]; 1f [[Genesis 24#^gen-24-7|Gen. 24:7]]
+- **2** 2a [[Genesis 28#^gen-28-3|Gen. 28:3 (3–4)]]; 2c [[1 Nephi 22#^1ne-22-9|1 Ne. 22:9]] · [[3 Nephi 20#^3ne-20-25|3 Ne. 20:25 (25, 27)]]; 2d [[Abraham 2#^abr-2-8|Abr. 2:10 (8–11)]]
+- **3** 3c [[Exodus 23#^ex-23-20|Ex. 23:22 (20–23)]]
+- **4** 4a [[Abraham 2#^abr-2-14|Abr. 2:14]]
+- **5** 5a [[Genesis 11#^gen-11-29|Gen. 11:29]] · [[Abraham 2#^abr-2-2|Abr. 2:2]]; 5b [[Genesis 14#^gen-14-12|Gen. 14:12]] · [[Abraham 2#^abr-2-15|Abr. 2:15]]; 5c [[Genesis 13#^gen-13-8|Gen. 13:8]]; 5d [[Abraham 2#^abr-2-15|Abr. 2:15]]; 5e [[Genesis 11#^gen-11-31|Gen. 11:31]]
+- **6** 6a [[Genesis 10#^gen-10-15|Gen. 10:18 (15–19)]] · [[Genesis 13#^gen-13-7|13:7]] · [[Moses 7#^moses-7-7|Moses 7:7 (7–8)]] · [[Abraham 1#^abr-1-21|Abr. 1:22 (21–25)]] · [[Abraham 2#^abr-2-18|2:18]]
+- **7** 7a [[Exodus 33#^ex-33-1|Ex. 33:1]]; 7b [[Nehemiah 9#^neh-9-8|Neh. 9:8]]; 7d [[Genesis 13#^gen-13-3|Gen. 13:4 (3–4)]] · [[Genesis 26#^gen-26-25|26:25]] · [[1 Nephi 2#^1ne-2-7|1 Ne. 2:7]] · [[Abraham 2#^abr-2-17|Abr. 2:17]]
+- **8** 8a [[Genesis 28#^gen-28-16|Gen. 28:19 (16–19)]] · [[Joshua 16#^josh-16-1|Josh. 16:2 (1–2)]] · [[2 Kings 2#^2kgs-2-2|2 Kgs. 2:2]]; 8b [[Genesis 13#^gen-13-3|Gen. 13:3]]; 8d [[Abraham 2#^abr-2-20|Abr. 2:20]]
+- **11** 11a [[Abraham 2#^abr-2-22|Abr. 2:22]]
+- **13** 13a [[Genesis 20#^gen-20-1|Gen. 20:5 (1–18)]] · [[Genesis 26#^gen-26-6|26:7 (6–11)]] · [[Abraham 2#^abr-2-21|Abr. 2:24 (21–25)]]
+- **17** 17a [[Genesis 20#^gen-20-18|Gen. 20:18]] · [[1 Chronicles 16#^1chr-16-18|1 Chr. 16:21 (18–22)]] · [[Psalm 105#^ps-105-12|Ps. 105:14 (12–15)]]
+- **18** 18a [[Genesis 20#^gen-20-9|Gen. 20:9 (9–10)]]
+- **19** 19a [[Genesis 20#^gen-20-12|Gen. 20:12]] · [[Abraham 2#^abr-2-22|Abr. 2:25 (22–25)]]

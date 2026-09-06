@@ -1,0 +1,43 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: alma-1
+verses: 22
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# Alma 1 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> Nehor teaches false doctrines, establishes a church, introduces priestcraft, and slays Gideon—Nehor is executed for his crimes—Priestcrafts and persecutions spread among the people—The priests support themselves, the people care for the poor, and the Church prospers. About 91–88 B.C.
+
+```json
+{"1":[{"m":"1a","refs":[{"c":"mosiah-29","t":"Mosiah 29","v":[46],"l":"Mosiah 29:46"}]},{"m":"1b","refs":[{"c":"jarom-1","t":"Jarom 1","v":[5],"l":"Jarom 1:5"},{"c":"alma-4","t":"Alma 4","v":[16],"l":"Alma 4:16"},{"c":"alma-8","t":"Alma 8","v":[17],"l":"8:17"},{"c":"hel-4","t":"Helaman 4","v":[22],"l":"Hel. 4:22"}]}],"3":[{"m":"3a","refs":[{"c":"ezek-13","t":"Ezekiel 13","v":[1,2,3,4],"l":"Ezek. 13:3 (1–4)"}]},{"m":"3c","refs":[{"c":"luke-6","t":"Luke 6","v":[26],"l":"Luke 6:26"},{"c":"1ne-22","t":"1 Nephi 22","v":[23],"l":"1 Ne. 22:23"}]},{"m":"3d","refs":[{"c":"mosiah-18","t":"Mosiah 18","v":[24],"l":"Mosiah 18:24 (24, 26)"},{"c":"mosiah-27","t":"Mosiah 27","v":[3,4,5],"l":"27:5 (3–5)"}]}],"4":[{"m":"4a","refs":[{"c":"alma-15","t":"Alma 15","v":[15],"l":"Alma 15:15"},{"c":"alma-21","t":"Alma 21","v":[6],"l":"21:6"},{"c":"alma-30","t":"Alma 30","v":[17],"l":"30:17"},{"c":"morm-8","t":"Mormon 8","v":[31],"l":"Morm. 8:31"}]},{"m":"4e","refs":[{"c":"moses-4","t":"Moses 4","v":[1,2,3,4],"l":"Moses 4:1 (1–4)"}]}],"5":[{"m":"5a","refs":[{"c":"acts-8","t":"Acts 8","v":[17,18,19,20,21,22],"l":"Acts 8:18 (17–23)"}]}],"8":[{"m":"8a","refs":[{"c":"mosiah-20","t":"Mosiah 20","v":[17],"l":"Mosiah 20:17"},{"c":"mosiah-22","t":"Mosiah 22","v":[3],"l":"22:3"},{"c":"alma-2","t":"Alma 2","v":[1],"l":"Alma 2:1"}]}],"9":[{"m":"9a","refs":[{"c":"gen-24","t":"Genesis 24","v":[1],"l":"Gen. 24:1"},{"c":"1ne-18","t":"1 Nephi 18","v":[17],"l":"1 Ne. 18:17"}]},{"m":"9b","refs":[{"c":"alma-6","t":"Alma 6","v":[7],"l":"Alma 6:7"}]}],"10":[{"m":"10a","refs":[{"c":"mosiah-29","t":"Mosiah 29","v":[42],"l":"Mosiah 29:42"}]}],"12":[{"m":"12a","refs":[{"c":"2ne-26","t":"2 Nephi 26","v":[29],"l":"2 Ne. 26:29"},{"c":"alma-2","t":"Alma 2","v":[20],"l":"Alma 2:20"},{"c":"alma-14","t":"Alma 14","v":[16],"l":"14:16"}]},{"m":"12b","refs":[{"c":"alma-21","t":"Alma 21","v":[4],"l":"Alma 21:4"}]}],"13":[{"m":"13a","refs":[{"c":"prov-28","t":"Proverbs 28","v":[17],"l":"Prov. 28:17"}]},{"m":"13b","refs":[{"c":"luke-18","t":"Luke 18","v":[7],"l":"Luke 18:7"},{"c":"dc-121","t":"D&C 121","v":[5],"l":"D&amp;C 121:5"}]}],"14":[{"m":"14b","refs":[{"c":"mosiah-29","t":"Mosiah 29","v":[39],"l":"Mosiah 29:39"}]},{"m":"14c","refs":[{"c":"hel-1","t":"Helaman 1","v":[8],"l":"Hel. 1:8"}]}],"15":[{"m":"15a","refs":[{"c":"alma-2","t":"Alma 2","v":[1],"l":"2:1 (1, 20)"}]},{"m":"15b","refs":[{"c":"deut-13","t":"Deuteronomy 13","v":[1,2,3,4,5,6],"l":"Deut. 13:5 (1–9)"}]}],"17":[{"m":"17b","refs":[{"c":"alma-30","t":"Alma 30","v":[7,8,9,10,11,12],"l":"Alma 30:7 (7–12)"},{"c":"aoff-1","t":"Articles of Faith 1","v":[11],"l":"A of F 1:11"}]}],"18":[{"m":"18a","refs":[{"c":"alma-30","t":"Alma 30","v":[10],"l":"Alma 30:10"}]}],"20":[{"m":"20a","refs":[{"c":"isa-55","t":"Isaiah 55","v":[1,2],"l":"Isa. 55:1 (1–2)"}]}],"21":[{"m":"21a","refs":[{"c":"alma-4","t":"Alma 4","v":[8],"l":"Alma 4:8"}]}],"22":[{"m":"22a","refs":[{"c":"ex-21","t":"Exodus 21","v":[18,19],"l":"Ex. 21:18 (18–19)"},{"c":"isa-58","t":"Isaiah 58","v":[4],"l":"Isa. 58:4"}]}],"24":[{"m":"24a","refs":[{"c":"ex-32","t":"Exodus 32","v":[33],"l":"Ex. 32:33"},{"c":"mosiah-26","t":"Mosiah 26","v":[32],"l":"Mosiah 26:32, 36"},{"c":"alma-6","t":"Alma 6","v":[3],"l":"Alma 6:3"}]},{"m":"24b","refs":[{"c":"alma-46","t":"Alma 46","v":[7],"l":"Alma 46:7"}]}],"26":[{"m":"26a","refs":[{"c":"mosiah-18","t":"Mosiah 18","v":[24],"l":"Mosiah 18:24 (24, 26)"},{"c":"mosiah-27","t":"Mosiah 27","v":[3,4,5],"l":"27:5 (3–5)"}]},{"m":"26b","refs":[{"c":"mosiah-4","t":"Mosiah 4","v":[27],"l":"Mosiah 4:27"},{"c":"dc-10","t":"D&C 10","v":[4],"l":"D&amp;C 10:4"}]}],"27":[{"m":"27b","refs":[{"c":"luke-18","t":"Luke 18","v":[22],"l":"Luke 18:22"},{"c":"acts-20","t":"Acts 20","v":[33,34,35],"l":"Acts 20:35 (33–35)"},{"c":"mosiah-4","t":"Mosiah 4","v":[26],"l":"Mosiah 4:26"},{"c":"dc-42","t":"D&C 42","v":[29,30,31],"l":"D&amp;C 42:30 (29–31)"}]}],"29":[{"m":"29b","refs":[{"c":"alma-4","t":"Alma 4","v":[6],"l":"Alma 4:6"}]},{"m":"29c","refs":[{"c":"mosiah-10","t":"Mosiah 10","v":[5],"l":"Mosiah 10:5"},{"c":"hel-6","t":"Helaman 6","v":[13],"l":"Hel. 6:13"}]}],"30":[{"m":"30a","refs":[{"c":"2cor-8","t":"2 Corinthians 8","v":[14],"l":"2 Cor. 8:14"},{"c":"jacob-2","t":"Jacob 2","v":[17,18,19],"l":"Jacob 2:19 (17–19)"}]},{"m":"30c","refs":[{"c":"job-31","t":"Job 31","v":[25],"l":"Job 31:25"}]},{"m":"30e","refs":[{"c":"deut-10","t":"Deuteronomy 10","v":[17],"l":"Deut. 10:17"},{"c":"alma-16","t":"Alma 16","v":[14],"l":"Alma 16:14"},{"c":"dc-1","t":"D&C 1","v":[35],"l":"D&amp;C 1:35"}]}],"32":[{"m":"32g","refs":[{"c":"2kgs-14","t":"2 Kings 14","v":[10],"l":"2 Kgs. 14:10"},{"c":"jacob-2","t":"Jacob 2","v":[13],"l":"Jacob 2:13"},{"c":"alma-31","t":"Alma 31","v":[25],"l":"Alma 31:25"},{"c":"morm-8","t":"Mormon 8","v":[28],"l":"Morm. 8:28"}]}]}
+```
+
+- **1** 1a [[Mosiah 29#^mosiah-29-46|Mosiah 29:46]]; 1b [[Jarom 1#^jarom-1-5|Jarom 1:5]] · [[Alma 4#^alma-4-16|Alma 4:16]] · [[Alma 8#^alma-8-17|8:17]] · [[Helaman 4#^hel-4-22|Hel. 4:22]]
+- **3** 3a [[Ezekiel 13#^ezek-13-1|Ezek. 13:3 (1–4)]]; 3c [[Luke 6#^luke-6-26|Luke 6:26]] · [[1 Nephi 22#^1ne-22-23|1 Ne. 22:23]]; 3d [[Mosiah 18#^mosiah-18-24|Mosiah 18:24 (24, 26)]] · [[Mosiah 27#^mosiah-27-3|27:5 (3–5)]]
+- **4** 4a [[Alma 15#^alma-15-15|Alma 15:15]] · [[Alma 21#^alma-21-6|21:6]] · [[Alma 30#^alma-30-17|30:17]] · [[Mormon 8#^morm-8-31|Morm. 8:31]]; 4e [[Moses 4#^moses-4-1|Moses 4:1 (1–4)]]
+- **5** 5a [[Acts 8#^acts-8-17|Acts 8:18 (17–23)]]
+- **8** 8a [[Mosiah 20#^mosiah-20-17|Mosiah 20:17]] · [[Mosiah 22#^mosiah-22-3|22:3]] · [[Alma 2#^alma-2-1|Alma 2:1]]
+- **9** 9a [[Genesis 24#^gen-24-1|Gen. 24:1]] · [[1 Nephi 18#^1ne-18-17|1 Ne. 18:17]]; 9b [[Alma 6#^alma-6-7|Alma 6:7]]
+- **10** 10a [[Mosiah 29#^mosiah-29-42|Mosiah 29:42]]
+- **12** 12a [[2 Nephi 26#^2ne-26-29|2 Ne. 26:29]] · [[Alma 2#^alma-2-20|Alma 2:20]] · [[Alma 14#^alma-14-16|14:16]]; 12b [[Alma 21#^alma-21-4|Alma 21:4]]
+- **13** 13a [[Proverbs 28#^prov-28-17|Prov. 28:17]]; 13b [[Luke 18#^luke-18-7|Luke 18:7]] · [[D&C 121#^dc-121-5|D&amp;C 121:5]]
+- **14** 14b [[Mosiah 29#^mosiah-29-39|Mosiah 29:39]]; 14c [[Helaman 1#^hel-1-8|Hel. 1:8]]
+- **15** 15a [[Alma 2#^alma-2-1|2:1 (1, 20)]]; 15b [[Deuteronomy 13#^deut-13-1|Deut. 13:5 (1–9)]]
+- **17** 17b [[Alma 30#^alma-30-7|Alma 30:7 (7–12)]] · [[Articles of Faith 1#^aoff-1-11|A of F 1:11]]
+- **18** 18a [[Alma 30#^alma-30-10|Alma 30:10]]
+- **20** 20a [[Isaiah 55#^isa-55-1|Isa. 55:1 (1–2)]]
+- **21** 21a [[Alma 4#^alma-4-8|Alma 4:8]]
+- **22** 22a [[Exodus 21#^ex-21-18|Ex. 21:18 (18–19)]] · [[Isaiah 58#^isa-58-4|Isa. 58:4]]
+- **24** 24a [[Exodus 32#^ex-32-33|Ex. 32:33]] · [[Mosiah 26#^mosiah-26-32|Mosiah 26:32, 36]] · [[Alma 6#^alma-6-3|Alma 6:3]]; 24b [[Alma 46#^alma-46-7|Alma 46:7]]
+- **26** 26a [[Mosiah 18#^mosiah-18-24|Mosiah 18:24 (24, 26)]] · [[Mosiah 27#^mosiah-27-3|27:5 (3–5)]]; 26b [[Mosiah 4#^mosiah-4-27|Mosiah 4:27]] · [[D&C 10#^dc-10-4|D&amp;C 10:4]]
+- **27** 27b [[Luke 18#^luke-18-22|Luke 18:22]] · [[Acts 20#^acts-20-33|Acts 20:35 (33–35)]] · [[Mosiah 4#^mosiah-4-26|Mosiah 4:26]] · [[D&C 42#^dc-42-29|D&amp;C 42:30 (29–31)]]
+- **29** 29b [[Alma 4#^alma-4-6|Alma 4:6]]; 29c [[Mosiah 10#^mosiah-10-5|Mosiah 10:5]] · [[Helaman 6#^hel-6-13|Hel. 6:13]]
+- **30** 30a [[2 Corinthians 8#^2cor-8-14|2 Cor. 8:14]] · [[Jacob 2#^jacob-2-17|Jacob 2:19 (17–19)]]; 30c [[Job 31#^job-31-25|Job 31:25]]; 30e [[Deuteronomy 10#^deut-10-17|Deut. 10:17]] · [[Alma 16#^alma-16-14|Alma 16:14]] · [[D&C 1#^dc-1-35|D&amp;C 1:35]]
+- **32** 32g [[2 Kings 14#^2kgs-14-10|2 Kgs. 14:10]] · [[Jacob 2#^jacob-2-13|Jacob 2:13]] · [[Alma 31#^alma-31-25|Alma 31:25]] · [[Mormon 8#^morm-8-28|Morm. 8:28]]

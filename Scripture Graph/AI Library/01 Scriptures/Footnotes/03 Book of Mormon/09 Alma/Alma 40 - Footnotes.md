@@ -1,0 +1,41 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: alma-40
+verses: 20
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# Alma 40 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> Christ brings to pass the resurrection of all men—The righteous dead go to paradise and the wicked to outer darkness to await the day of their resurrection—All things will be restored to their proper and perfect frame in the Resurrection. About 74 B.C.
+
+```json
+{"2":[{"m":"2a","refs":[{"c":"mosiah-16","t":"Mosiah 16","v":[10,11,12,13],"l":"Mosiah 16:10 (10–13)"}]},{"m":"2b","refs":[{"c":"1cor-15","t":"1 Corinthians 15","v":[42,43,44,45,46,47],"l":"1 Cor. 15:53 (42–54)"}]},{"m":"2c","refs":[{"c":"1cor-15","t":"1 Corinthians 15","v":[20,21,22,23],"l":"1 Cor. 15:20 (20–23)"}]}],"3":[{"m":"3c","refs":[{"c":"dc-25","t":"D&C 25","v":[4],"l":"D&amp;C 25:4"},{"c":"dc-121","t":"D&C 121","v":[26],"l":"121:26"},{"c":"dc-124","t":"D&C 124","v":[41],"l":"124:41"}]}],"4":[{"m":"4a","refs":[{"c":"john-5","t":"John 5","v":[28,29],"l":"John 5:29 (28–29)"}]}],"5":[{"m":"5a","refs":[{"c":"1thes-4","t":"1 Thessalonians 4","v":[16],"l":"1 Thes. 4:16"},{"c":"mosiah-26","t":"Mosiah 26","v":[24,25],"l":"Mosiah 26:25 (24–25)"},{"c":"dc-43","t":"D&C 43","v":[18],"l":"D&amp;C 43:18"},{"c":"dc-76","t":"D&C 76","v":[85],"l":"76:85"}]}],"7":[{"m":"7a","refs":[{"c":"dc-138","t":"D&C 138","v":[],"l":"D&amp;C 138"}]}],"8":[{"m":"8a","refs":[{"c":"2pet-3","t":"2 Peter 3","v":[8],"l":"2 Pet. 3:8"}]}],"10":[{"m":"10b","refs":[{"c":"acts-17","t":"Acts 17","v":[26],"l":"Acts 17:26"}]}],"11":[{"m":"11a","refs":[{"c":"john-20","t":"John 20","v":[17],"l":"John 20:17"}]},{"m":"11b","refs":[{"c":"job-14","t":"Job 14","v":[10],"l":"Job 14:10"},{"c":"luke-16","t":"Luke 16","v":[22,23,24,25,26],"l":"Luke 16:22 (22–26)"},{"c":"1ne-15","t":"1 Nephi 15","v":[31,32,33,34,35,36],"l":"1 Ne. 15:31 (31–36)"},{"c":"alma-11","t":"Alma 11","v":[45],"l":"Alma 11:45"},{"c":"dc-76","t":"D&C 76","v":[71,72,73,74],"l":"D&amp;C 76:73 (71–74)"}]},{"m":"11d","refs":[{"c":"eccl-12","t":"Ecclesiastes 12","v":[7],"l":"Eccl. 12:7"},{"c":"2ne-9","t":"2 Nephi 9","v":[38],"l":"2 Ne. 9:38"},{"c":"alma-24","t":"Alma 24","v":[16],"l":"Alma 24:16"},{"c":"hel-8","t":"Helaman 8","v":[23],"l":"Hel. 8:23"}]}],"12":[{"m":"12a","refs":[{"c":"isa-51","t":"Isaiah 51","v":[11],"l":"Isa. 51:11"},{"c":"luke-16","t":"Luke 16","v":[22],"l":"Luke 16:22"},{"c":"dc-138","t":"D&C 138","v":[15],"l":"D&amp;C 138:15"}]},{"m":"12c","refs":[{"c":"2kgs-22","t":"2 Kings 22","v":[20],"l":"2 Kgs. 22:20"},{"c":"alma-7","t":"Alma 7","v":[27],"l":"Alma 7:27"},{"c":"dc-45","t":"D&C 45","v":[46],"l":"D&amp;C 45:46"}]}],"13":[{"m":"13d","refs":[{"c":"matt-8","t":"Matthew 8","v":[12],"l":"Matt. 8:12"},{"c":"mosiah-16","t":"Mosiah 16","v":[2],"l":"Mosiah 16:2"}]}],"14":[{"m":"14b","refs":[{"c":"dc-138","t":"D&C 138","v":[20],"l":"D&amp;C 138:20"}]},{"m":"14c","refs":[{"c":"jacob-6","t":"Jacob 6","v":[13],"l":"Jacob 6:13"},{"c":"moses-7","t":"Moses 7","v":[1],"l":"Moses 7:1"}]},{"m":"14e","refs":[{"c":"alma-34","t":"Alma 34","v":[34],"l":"Alma 34:34"}]}],"16":[{"m":"16a","refs":[{"c":"jacob-4","t":"Jacob 4","v":[11],"l":"Jacob 4:11"},{"c":"mosiah-15","t":"Mosiah 15","v":[21,22,23],"l":"Mosiah 15:21 (21–23)"},{"c":"mosiah-18","t":"Mosiah 18","v":[9],"l":"18:9"}]}],"17":[{"m":"17a","refs":[{"c":"dc-76","t":"D&C 76","v":[17],"l":"D&amp;C 76:17 (17, 32, 50)"}]}],"18":[{"m":"18a","refs":[{"c":"matt-27","t":"Matthew 27","v":[52],"l":"Matt. 27:52"}]}],"19":[{"m":"19a","refs":[{"c":"mosiah-15","t":"Mosiah 15","v":[26],"l":"Mosiah 15:26"}]}],"21":[{"m":"21a","refs":[{"c":"luke-23","t":"Luke 23","v":[39,40,41,42,43],"l":"Luke 23:43 (39–43)"}]},{"m":"21d","refs":[{"c":"alma-42","t":"Alma 42","v":[23],"l":"Alma 42:23"}]}],"23":[{"m":"23a","refs":[{"c":"ezek-37","t":"Ezekiel 37","v":[6,7,8,9,10,11],"l":"Ezek. 37:14 (6–14)"},{"c":"dc-88","t":"D&C 88","v":[15,16,17],"l":"D&amp;C 88:15 (15–17)"}]},{"m":"23b","refs":[{"c":"2ne-9","t":"2 Nephi 9","v":[13],"l":"2 Ne. 9:13"},{"c":"alma-11","t":"Alma 11","v":[40,41,42,43,44,45],"l":"Alma 11:45 (40–45)"}]},{"m":"23d","refs":[{"c":"luke-21","t":"Luke 21","v":[18],"l":"Luke 21:18"},{"c":"alma-41","t":"Alma 41","v":[2],"l":"Alma 41:2"},{"c":"dc-29","t":"D&C 29","v":[25],"l":"D&amp;C 29:25"}]},{"m":"23e","refs":[{"c":"philip-3","t":"Philippians 3","v":[21],"l":"Philip. 3:21"}]}],"24":[{"m":"24a","refs":[{"c":"isa-26","t":"Isaiah 26","v":[19],"l":"Isa. 26:19"}]}],"25":[{"m":"25a","refs":[{"c":"dan-12","t":"Daniel 12","v":[3],"l":"Dan. 12:3"},{"c":"matt-13","t":"Matthew 13","v":[43],"l":"Matt. 13:43"}]}],"26":[{"m":"26a","refs":[{"c":"ps-94","t":"Psalm 94","v":[1,2,3,4,5,6],"l":"Ps. 94:3 (1–11)"},{"c":"1cor-6","t":"1 Corinthians 6","v":[9,10],"l":"1 Cor. 6:9 (9–10)"},{"c":"1ne-15","t":"1 Nephi 15","v":[33],"l":"1 Ne. 15:33"},{"c":"alma-12","t":"Alma 12","v":[16],"l":"Alma 12:16"},{"c":"dc-29","t":"D&C 29","v":[41],"l":"D&amp;C 29:41"}]},{"m":"26b","refs":[{"c":"eph-5","t":"Ephesians 5","v":[5],"l":"Eph. 5:5"},{"c":"alma-11","t":"Alma 11","v":[37],"l":"Alma 11:37"}]},{"m":"26c","refs":[{"c":"ps-75","t":"Psalm 75","v":[8],"l":"Ps. 75:8"}]}]}
+```
+
+- **2** 2a [[Mosiah 16#^mosiah-16-10|Mosiah 16:10 (10–13)]]; 2b [[1 Corinthians 15#^1cor-15-42|1 Cor. 15:53 (42–54)]]; 2c [[1 Corinthians 15#^1cor-15-20|1 Cor. 15:20 (20–23)]]
+- **3** 3c [[D&C 25#^dc-25-4|D&amp;C 25:4]] · [[D&C 121#^dc-121-26|121:26]] · [[D&C 124#^dc-124-41|124:41]]
+- **4** 4a [[John 5#^john-5-28|John 5:29 (28–29)]]
+- **5** 5a [[1 Thessalonians 4#^1thes-4-16|1 Thes. 4:16]] · [[Mosiah 26#^mosiah-26-24|Mosiah 26:25 (24–25)]] · [[D&C 43#^dc-43-18|D&amp;C 43:18]] · [[D&C 76#^dc-76-85|76:85]]
+- **7** 7a D&amp;C 138
+- **8** 8a [[2 Peter 3#^2pet-3-8|2 Pet. 3:8]]
+- **10** 10b [[Acts 17#^acts-17-26|Acts 17:26]]
+- **11** 11a [[John 20#^john-20-17|John 20:17]]; 11b [[Job 14#^job-14-10|Job 14:10]] · [[Luke 16#^luke-16-22|Luke 16:22 (22–26)]] · [[1 Nephi 15#^1ne-15-31|1 Ne. 15:31 (31–36)]] · [[Alma 11#^alma-11-45|Alma 11:45]] · [[D&C 76#^dc-76-71|D&amp;C 76:73 (71–74)]]; 11d [[Ecclesiastes 12#^eccl-12-7|Eccl. 12:7]] · [[2 Nephi 9#^2ne-9-38|2 Ne. 9:38]] · [[Alma 24#^alma-24-16|Alma 24:16]] · [[Helaman 8#^hel-8-23|Hel. 8:23]]
+- **12** 12a [[Isaiah 51#^isa-51-11|Isa. 51:11]] · [[Luke 16#^luke-16-22|Luke 16:22]] · [[D&C 138#^dc-138-15|D&amp;C 138:15]]; 12c [[2 Kings 22#^2kgs-22-20|2 Kgs. 22:20]] · [[Alma 7#^alma-7-27|Alma 7:27]] · [[D&C 45#^dc-45-46|D&amp;C 45:46]]
+- **13** 13d [[Matthew 8#^matt-8-12|Matt. 8:12]] · [[Mosiah 16#^mosiah-16-2|Mosiah 16:2]]
+- **14** 14b [[D&C 138#^dc-138-20|D&amp;C 138:20]]; 14c [[Jacob 6#^jacob-6-13|Jacob 6:13]] · [[Moses 7#^moses-7-1|Moses 7:1]]; 14e [[Alma 34#^alma-34-34|Alma 34:34]]
+- **16** 16a [[Jacob 4#^jacob-4-11|Jacob 4:11]] · [[Mosiah 15#^mosiah-15-21|Mosiah 15:21 (21–23)]] · [[Mosiah 18#^mosiah-18-9|18:9]]
+- **17** 17a [[D&C 76#^dc-76-17|D&amp;C 76:17 (17, 32, 50)]]
+- **18** 18a [[Matthew 27#^matt-27-52|Matt. 27:52]]
+- **19** 19a [[Mosiah 15#^mosiah-15-26|Mosiah 15:26]]
+- **21** 21a [[Luke 23#^luke-23-39|Luke 23:43 (39–43)]]; 21d [[Alma 42#^alma-42-23|Alma 42:23]]
+- **23** 23a [[Ezekiel 37#^ezek-37-6|Ezek. 37:14 (6–14)]] · [[D&C 88#^dc-88-15|D&amp;C 88:15 (15–17)]]; 23b [[2 Nephi 9#^2ne-9-13|2 Ne. 9:13]] · [[Alma 11#^alma-11-40|Alma 11:45 (40–45)]]; 23d [[Luke 21#^luke-21-18|Luke 21:18]] · [[Alma 41#^alma-41-2|Alma 41:2]] · [[D&C 29#^dc-29-25|D&amp;C 29:25]]; 23e [[Philippians 3#^philip-3-21|Philip. 3:21]]
+- **24** 24a [[Isaiah 26#^isa-26-19|Isa. 26:19]]
+- **25** 25a [[Daniel 12#^dan-12-3|Dan. 12:3]] · [[Matthew 13#^matt-13-43|Matt. 13:43]]
+- **26** 26a [[Psalm 94#^ps-94-1|Ps. 94:3 (1–11)]] · [[1 Corinthians 6#^1cor-6-9|1 Cor. 6:9 (9–10)]] · [[1 Nephi 15#^1ne-15-33|1 Ne. 15:33]] · [[Alma 12#^alma-12-16|Alma 12:16]] · [[D&C 29#^dc-29-41|D&amp;C 29:41]]; 26b [[Ephesians 5#^eph-5-5|Eph. 5:5]] · [[Alma 11#^alma-11-37|Alma 11:37]]; 26c [[Psalm 75#^ps-75-8|Ps. 75:8]]

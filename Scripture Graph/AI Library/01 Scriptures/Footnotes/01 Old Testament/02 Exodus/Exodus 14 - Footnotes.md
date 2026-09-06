@@ -1,0 +1,38 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: ex-14
+verses: 17
+updated_at: '2026-09-06T23:26:25Z'
+cssclasses:
+- sg-ai
+---
+
+# Exodus 14 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> Israel goes out of Egypt—Israel passes through the Red Sea on dry ground—The Lord overthrows the Egyptians in the midst of the sea.
+
+```json
+{"2":[{"m":"2a","refs":[{"c":"num-33","t":"Numbers 33","v":[7,8],"l":"Num. 33:7 (7–8)"}]},{"m":"2b","refs":[{"c":"jer-44","t":"Jeremiah 44","v":[1],"l":"Jer. 44:1"}]}],"4":[{"m":"4d","refs":[{"c":"ex-7","t":"Exodus 7","v":[5],"l":"Ex. 7:5"}]}],"7":[{"m":"7a","refs":[{"c":"ex-15","t":"Exodus 15","v":[4],"l":"Ex. 15:4"}]}],"8":[{"m":"8c","refs":[{"c":"num-33","t":"Numbers 33","v":[3],"l":"Num. 33:3"}]}],"9":[{"m":"9a","refs":[{"c":"ex-15","t":"Exodus 15","v":[9],"l":"Ex. 15:9"}]},{"m":"9b","refs":[{"c":"josh-24","t":"Joshua 24","v":[6],"l":"Josh. 24:6"}]}],"11":[{"m":"11a","refs":[{"c":"ps-106","t":"Psalm 106","v":[7],"l":"Ps. 106:7"}]},{"m":"11b","refs":[{"c":"ex-32","t":"Exodus 32","v":[22],"l":"Ex. 32:22"}]}],"12":[{"m":"12b","refs":[{"c":"ex-5","t":"Exodus 5","v":[20,21,22,23],"l":"Ex. 5:21 (20–23)"},{"c":"ex-13","t":"Exodus 13","v":[17,18],"l":"13:17 (17–18)"}]}],"14":[{"m":"14b","refs":[{"c":"dc-10","t":"D&C 10","v":[37],"l":"D&amp;C 10:37"},{"c":"dc-11","t":"D&C 11","v":[22],"l":"11:22"}]}],"16":[{"m":"16a","refs":[{"c":"ex-7","t":"Exodus 7","v":[19,20,21],"l":"Ex. 7:20 (19–21)"}]},{"m":"16b","refs":[{"c":"isa-43","t":"Isaiah 43","v":[16],"l":"Isa. 43:16"}]},{"m":"16c","refs":[{"c":"mosiah-7","t":"Mosiah 7","v":[19],"l":"Mosiah 7:19"},{"c":"hel-8","t":"Helaman 8","v":[11],"l":"Hel. 8:11"},{"c":"dc-8","t":"D&C 8","v":[3],"l":"D&amp;C 8:3"}]}],"19":[{"m":"19a","refs":[{"c":"ex-13","t":"Exodus 13","v":[21,22],"l":"Ex. 13:21 (21–22)"},{"c":"ex-16","t":"Exodus 16","v":[10],"l":"16:10"},{"c":"ex-23","t":"Exodus 23","v":[20,21,22,23],"l":"23:20 (20–23)"},{"c":"1ne-3","t":"1 Nephi 3","v":[28,29,30,31],"l":"1 Ne. 3:29 (28–31)"},{"c":"dc-103","t":"D&C 103","v":[17,18,19,20],"l":"D&amp;C 103:20 (17–20)"}]},{"m":"19b","refs":[{"c":"ex-33","t":"Exodus 33","v":[9],"l":"Ex. 33:9"},{"c":"num-9","t":"Numbers 9","v":[15],"l":"Num. 9:15"}]}],"20":[{"m":"20b","refs":[{"c":"hel-5","t":"Helaman 5","v":[28,29,30,31,32,33],"l":"Hel. 5:28 (28–43)"}]}],"21":[{"m":"21a","refs":[{"c":"ps-106","t":"Psalm 106","v":[9,10,11,12,13,14],"l":"Ps. 106:9 (9–15)"},{"c":"1ne-4","t":"1 Nephi 4","v":[2,3],"l":"1 Ne. 4:2 (2–3)"},{"c":"2ne-7","t":"2 Nephi 7","v":[2],"l":"2 Ne. 7:2"},{"c":"dc-133","t":"D&C 133","v":[68],"l":"D&amp;C 133:68"}]},{"m":"21b","refs":[{"c":"ps-78","t":"Psalm 78","v":[13],"l":"Ps. 78:13"}]},{"m":"21c","refs":[{"c":"josh-2","t":"Joshua 2","v":[10],"l":"Josh. 2:10"},{"c":"josh-3","t":"Joshua 3","v":[14,15,16,17],"l":"3:16 (14–17)"},{"c":"josh-4","t":"Joshua 4","v":[23],"l":"4:23"},{"c":"2kgs-2","t":"2 Kings 2","v":[8],"l":"2 Kgs. 2:8"},{"c":"1ne-17","t":"1 Nephi 17","v":[24,25,26,27,28,29],"l":"1 Ne. 17:26 (24–34)"},{"c":"2ne-7","t":"2 Nephi 7","v":[2],"l":"2 Ne. 7:2"},{"c":"moses-1","t":"Moses 1","v":[25],"l":"Moses 1:25"}]},{"m":"21d","refs":[{"c":"neh-9","t":"Nehemiah 9","v":[11],"l":"Neh. 9:11"},{"c":"isa-63","t":"Isaiah 63","v":[12],"l":"Isa. 63:12"}]},{"m":"21e","refs":[{"c":"isa-51","t":"Isaiah 51","v":[10],"l":"Isa. 51:10"}]},{"m":"21f","refs":[{"c":"ex-15","t":"Exodus 15","v":[8],"l":"Ex. 15:8"},{"c":"ps-77","t":"Psalm 77","v":[16],"l":"Ps. 77:16"}]},{"m":"21g","refs":[{"c":"2kgs-2","t":"2 Kings 2","v":[14],"l":"2 Kgs. 2:14"},{"c":"ps-114","t":"Psalm 114","v":[3],"l":"Ps. 114:3"}]}],"26":[{"m":"26a","refs":[{"c":"isa-10","t":"Isaiah 10","v":[26],"l":"Isa. 10:26"}]}],"27":[{"m":"27c","refs":[{"c":"isa-10","t":"Isaiah 10","v":[26],"l":"Isa. 10:26"},{"c":"2ne-20","t":"2 Nephi 20","v":[25,26],"l":"2 Ne. 20:26 (25–26)"},{"c":"alma-36","t":"Alma 36","v":[28],"l":"Alma 36:28"}]}],"28":[{"m":"28a","refs":[{"c":"ps-78","t":"Psalm 78","v":[53],"l":"Ps. 78:53"}]},{"m":"28b","refs":[{"c":"ex-15","t":"Exodus 15","v":[1,2,3,4,5,6],"l":"Ex. 15:4 (1–7)"}]},{"m":"28c","refs":[{"c":"deut-11","t":"Deuteronomy 11","v":[4],"l":"Deut. 11:4"}]},{"m":"28d","refs":[{"c":"ps-106","t":"Psalm 106","v":[10,11],"l":"Ps. 106:11 (10–11)"}]}],"29":[{"m":"29a","refs":[{"c":"isa-11","t":"Isaiah 11","v":[16],"l":"Isa. 11:16"},{"c":"2ne-21","t":"2 Nephi 21","v":[16],"l":"2 Ne. 21:16"},{"c":"dc-133","t":"D&C 133","v":[27],"l":"D&amp;C 133:27"}]}],"30":[{"m":"30a","refs":[{"c":"judg-3","t":"Judges 3","v":[13,14,15,16,17,18],"l":"Judg. 3:30 (13–31)"},{"c":"judg-10","t":"Judges 10","v":[11,12],"l":"10:11 (11–12)"}]}]}
+```
+
+- **2** 2a [[Numbers 33#^num-33-7|Num. 33:7 (7–8)]]; 2b [[Jeremiah 44#^jer-44-1|Jer. 44:1]]
+- **4** 4d [[Exodus 7#^ex-7-5|Ex. 7:5]]
+- **7** 7a [[Exodus 15#^ex-15-4|Ex. 15:4]]
+- **8** 8c [[Numbers 33#^num-33-3|Num. 33:3]]
+- **9** 9a [[Exodus 15#^ex-15-9|Ex. 15:9]]; 9b [[Joshua 24#^josh-24-6|Josh. 24:6]]
+- **11** 11a [[Psalm 106#^ps-106-7|Ps. 106:7]]; 11b [[Exodus 32#^ex-32-22|Ex. 32:22]]
+- **12** 12b [[Exodus 5#^ex-5-20|Ex. 5:21 (20–23)]] · [[Exodus 13#^ex-13-17|13:17 (17–18)]]
+- **14** 14b [[D&C 10#^dc-10-37|D&amp;C 10:37]] · [[D&C 11#^dc-11-22|11:22]]
+- **16** 16a [[Exodus 7#^ex-7-19|Ex. 7:20 (19–21)]]; 16b [[Isaiah 43#^isa-43-16|Isa. 43:16]]; 16c [[Mosiah 7#^mosiah-7-19|Mosiah 7:19]] · [[Helaman 8#^hel-8-11|Hel. 8:11]] · [[D&C 8#^dc-8-3|D&amp;C 8:3]]
+- **19** 19a [[Exodus 13#^ex-13-21|Ex. 13:21 (21–22)]] · [[Exodus 16#^ex-16-10|16:10]] · [[Exodus 23#^ex-23-20|23:20 (20–23)]] · [[1 Nephi 3#^1ne-3-28|1 Ne. 3:29 (28–31)]] · [[D&C 103#^dc-103-17|D&amp;C 103:20 (17–20)]]; 19b [[Exodus 33#^ex-33-9|Ex. 33:9]] · [[Numbers 9#^num-9-15|Num. 9:15]]
+- **20** 20b [[Helaman 5#^hel-5-28|Hel. 5:28 (28–43)]]
+- **21** 21a [[Psalm 106#^ps-106-9|Ps. 106:9 (9–15)]] · [[1 Nephi 4#^1ne-4-2|1 Ne. 4:2 (2–3)]] · [[2 Nephi 7#^2ne-7-2|2 Ne. 7:2]] · [[D&C 133#^dc-133-68|D&amp;C 133:68]]; 21b [[Psalm 78#^ps-78-13|Ps. 78:13]]; 21c [[Joshua 2#^josh-2-10|Josh. 2:10]] · [[Joshua 3#^josh-3-14|3:16 (14–17)]] · [[Joshua 4#^josh-4-23|4:23]] · [[2 Kings 2#^2kgs-2-8|2 Kgs. 2:8]] · [[1 Nephi 17#^1ne-17-24|1 Ne. 17:26 (24–34)]] · [[2 Nephi 7#^2ne-7-2|2 Ne. 7:2]] · [[Moses 1#^moses-1-25|Moses 1:25]]; 21d [[Nehemiah 9#^neh-9-11|Neh. 9:11]] · [[Isaiah 63#^isa-63-12|Isa. 63:12]]; 21e [[Isaiah 51#^isa-51-10|Isa. 51:10]]; 21f [[Exodus 15#^ex-15-8|Ex. 15:8]] · [[Psalm 77#^ps-77-16|Ps. 77:16]]; 21g [[2 Kings 2#^2kgs-2-14|2 Kgs. 2:14]] · [[Psalm 114#^ps-114-3|Ps. 114:3]]
+- **26** 26a [[Isaiah 10#^isa-10-26|Isa. 10:26]]
+- **27** 27c [[Isaiah 10#^isa-10-26|Isa. 10:26]] · [[2 Nephi 20#^2ne-20-25|2 Ne. 20:26 (25–26)]] · [[Alma 36#^alma-36-28|Alma 36:28]]
+- **28** 28a [[Psalm 78#^ps-78-53|Ps. 78:53]]; 28b [[Exodus 15#^ex-15-1|Ex. 15:4 (1–7)]]; 28c [[Deuteronomy 11#^deut-11-4|Deut. 11:4]]; 28d [[Psalm 106#^ps-106-10|Ps. 106:11 (10–11)]]
+- **29** 29a [[Isaiah 11#^isa-11-16|Isa. 11:16]] · [[2 Nephi 21#^2ne-21-16|2 Ne. 21:16]] · [[D&C 133#^dc-133-27|D&amp;C 133:27]]
+- **30** 30a [[Judges 3#^judg-3-13|Judg. 3:30 (13–31)]] · [[Judges 10#^judg-10-11|10:11 (11–12)]]

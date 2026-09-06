@@ -1,0 +1,33 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: 2ne-33
+verses: 12
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# 2 Nephi 33 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> Nephi’s words are true—They testify of Christ—Those who believe in Christ will believe Nephi’s words, which will stand as a witness before the judgment bar. About 559–545 B.C.
+
+```json
+{"1":[{"m":"1a","refs":[{"c":"ether-12","t":"Ether 12","v":[23,24,25,26,27],"l":"Ether 12:23 (23–27)"}]},{"m":"1b","refs":[{"c":"rom-10","t":"Romans 10","v":[13,14,15,16,17],"l":"Rom. 10:17 (13–17)"},{"c":"dc-100","t":"D&C 100","v":[7,8],"l":"D&amp;C 100:8 (7–8)"}]}],"2":[{"m":"2a","refs":[{"c":"num-15","t":"Numbers 15","v":[30,31],"l":"Num. 15:31 (30–31)"},{"c":"1ne-19","t":"1 Nephi 19","v":[7],"l":"1 Ne. 19:7"},{"c":"jacob-4","t":"Jacob 4","v":[14],"l":"Jacob 4:14"},{"c":"dc-3","t":"D&C 3","v":[4,5,6,7,8,9],"l":"D&amp;C 3:7 (4–13)"}]}],"3":[{"m":"3b","refs":[{"c":"gen-20","t":"Genesis 20","v":[7],"l":"Gen. 20:7"},{"c":"num-21","t":"Numbers 21","v":[7],"l":"Num. 21:7"},{"c":"1sam-7","t":"1 Samuel 7","v":[5],"l":"1 Sam. 7:5"},{"c":"jer-42","t":"Jeremiah 42","v":[4],"l":"Jer. 42:4"},{"c":"enos-1","t":"Enos 1","v":[9,10,11,12],"l":"Enos 1:9 (9–12)"},{"c":"wofm-1","t":"Words of Mormon 1","v":[8],"l":"W of M 1:8"},{"c":"moro-9","t":"Moroni 9","v":[22],"l":"Moro. 9:22"}]},{"m":"3c","refs":[{"c":"ps-6","t":"Psalm 6","v":[6],"l":"Ps. 6:6"},{"c":"jer-13","t":"Jeremiah 13","v":[17],"l":"Jer. 13:17"},{"c":"acts-20","t":"Acts 20","v":[19],"l":"Acts 20:19"}]}],"4":[{"m":"4a","refs":[{"c":"ether-8","t":"Ether 8","v":[26],"l":"Ether 8:26"},{"c":"moro-7","t":"Moroni 7","v":[12,13,14,15,16,17],"l":"Moro. 7:13 (12–17)"}]}],"5":[{"m":"5a","refs":[{"c":"1ne-16","t":"1 Nephi 16","v":[1,2,3],"l":"1 Ne. 16:2 (1–3)"},{"c":"2ne-9","t":"2 Nephi 9","v":[40],"l":"2 Ne. 9:40"},{"c":"2ne-28","t":"2 Nephi 28","v":[28],"l":"28:28"},{"c":"enos-1","t":"Enos 1","v":[23],"l":"Enos 1:23"},{"c":"wofm-1","t":"Words of Mormon 1","v":[17],"l":"W of M 1:17"}]},{"m":"5b","refs":[{"c":"2ne-25","t":"2 Nephi 25","v":[4],"l":"2 Ne. 25:4"},{"c":"jacob-2","t":"Jacob 2","v":[11],"l":"Jacob 2:11"},{"c":"jacob-4","t":"Jacob 4","v":[13],"l":"4:13"}]}],"6":[{"m":"6a","refs":[{"c":"ps-44","t":"Psalm 44","v":[4,5,6,7,8],"l":"Ps. 44:8 (4–8)"},{"c":"dc-76","t":"D&C 76","v":[61],"l":"D&amp;C 76:61"}]},{"m":"6b","refs":[{"c":"2ne-31","t":"2 Nephi 31","v":[3],"l":"2 Ne. 31:3"}]},{"m":"6c","refs":[{"c":"enos-1","t":"Enos 1","v":[27],"l":"Enos 1:27"}]}],"9":[{"m":"9a","refs":[{"c":"eph-3","t":"Ephesians 3","v":[1,2,3,4,5,6],"l":"Eph. 3:6 (1–7)"},{"c":"2ne-10","t":"2 Nephi 10","v":[18],"l":"2 Ne. 10:18"},{"c":"3ne-21","t":"3 Nephi 21","v":[14],"l":"3 Ne. 21:14"}]},{"m":"9c","refs":[{"c":"2ne-9","t":"2 Nephi 9","v":[41],"l":"2 Ne. 9:41"},{"c":"hel-3","t":"Helaman 3","v":[29,30],"l":"Hel. 3:29 (29–30)"}]},{"m":"9d","refs":[{"c":"matt-7","t":"Matthew 7","v":[14],"l":"Matt. 7:14"}]},{"m":"9f","refs":[{"c":"dc-132","t":"D&C 132","v":[22],"l":"D&amp;C 132:22"}]}],"10":[{"m":"10c","refs":[{"c":"john-8","t":"John 8","v":[47],"l":"John 8:47"}]},{"m":"10e","refs":[{"c":"isa-51","t":"Isaiah 51","v":[16],"l":"Isa. 51:16"},{"c":"moro-10","t":"Moroni 10","v":[27,28,29],"l":"Moro. 10:27 (27–29)"},{"c":"dc-1","t":"D&C 1","v":[24],"l":"D&amp;C 1:24"}]},{"m":"10f","refs":[{"c":"1kgs-8","t":"1 Kings 8","v":[36],"l":"1 Kgs. 8:36"},{"c":"2ne-25","t":"2 Nephi 25","v":[28],"l":"2 Ne. 25:28"}]}],"11":[{"m":"11a","refs":[{"c":"ether-5","t":"Ether 5","v":[4,5,6],"l":"Ether 5:4 (4–6)"},{"c":"moro-7","t":"Moroni 7","v":[35],"l":"Moro. 7:35"}]}],"13":[{"m":"13a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[4],"l":"Isa. 29:4"},{"c":"2ne-27","t":"2 Nephi 27","v":[13],"l":"2 Ne. 27:13"},{"c":"morm-8","t":"Mormon 8","v":[26],"l":"Morm. 8:26"}]}],"14":[{"m":"14c","refs":[{"c":"2ne-29","t":"2 Nephi 29","v":[11],"l":"2 Ne. 29:11"},{"c":"wofm-1","t":"Words of Mormon 1","v":[11],"l":"W of M 1:11"}]}],"15":[{"m":"15a","refs":[{"c":"2ne-25","t":"2 Nephi 25","v":[22],"l":"2 Ne. 25:22"},{"c":"3ne-27","t":"3 Nephi 27","v":[23,24,25,26,27],"l":"3 Ne. 27:25 (23–27)"},{"c":"ether-4","t":"Ether 4","v":[8,9,10],"l":"Ether 4:10 (8–10)"}]}]}
+```
+
+- **1** 1a [[Ether 12#^ether-12-23|Ether 12:23 (23–27)]]; 1b [[Romans 10#^rom-10-13|Rom. 10:17 (13–17)]] · [[D&C 100#^dc-100-7|D&amp;C 100:8 (7–8)]]
+- **2** 2a [[Numbers 15#^num-15-30|Num. 15:31 (30–31)]] · [[1 Nephi 19#^1ne-19-7|1 Ne. 19:7]] · [[Jacob 4#^jacob-4-14|Jacob 4:14]] · [[D&C 3#^dc-3-4|D&amp;C 3:7 (4–13)]]
+- **3** 3b [[Genesis 20#^gen-20-7|Gen. 20:7]] · [[Numbers 21#^num-21-7|Num. 21:7]] · [[1 Samuel 7#^1sam-7-5|1 Sam. 7:5]] · [[Jeremiah 42#^jer-42-4|Jer. 42:4]] · [[Enos 1#^enos-1-9|Enos 1:9 (9–12)]] · [[Words of Mormon 1#^wofm-1-8|W of M 1:8]] · [[Moroni 9#^moro-9-22|Moro. 9:22]]; 3c [[Psalm 6#^ps-6-6|Ps. 6:6]] · [[Jeremiah 13#^jer-13-17|Jer. 13:17]] · [[Acts 20#^acts-20-19|Acts 20:19]]
+- **4** 4a [[Ether 8#^ether-8-26|Ether 8:26]] · [[Moroni 7#^moro-7-12|Moro. 7:13 (12–17)]]
+- **5** 5a [[1 Nephi 16#^1ne-16-1|1 Ne. 16:2 (1–3)]] · [[2 Nephi 9#^2ne-9-40|2 Ne. 9:40]] · [[2 Nephi 28#^2ne-28-28|28:28]] · [[Enos 1#^enos-1-23|Enos 1:23]] · [[Words of Mormon 1#^wofm-1-17|W of M 1:17]]; 5b [[2 Nephi 25#^2ne-25-4|2 Ne. 25:4]] · [[Jacob 2#^jacob-2-11|Jacob 2:11]] · [[Jacob 4#^jacob-4-13|4:13]]
+- **6** 6a [[Psalm 44#^ps-44-4|Ps. 44:8 (4–8)]] · [[D&C 76#^dc-76-61|D&amp;C 76:61]]; 6b [[2 Nephi 31#^2ne-31-3|2 Ne. 31:3]]; 6c [[Enos 1#^enos-1-27|Enos 1:27]]
+- **9** 9a [[Ephesians 3#^eph-3-1|Eph. 3:6 (1–7)]] · [[2 Nephi 10#^2ne-10-18|2 Ne. 10:18]] · [[3 Nephi 21#^3ne-21-14|3 Ne. 21:14]]; 9c [[2 Nephi 9#^2ne-9-41|2 Ne. 9:41]] · [[Helaman 3#^hel-3-29|Hel. 3:29 (29–30)]]; 9d [[Matthew 7#^matt-7-14|Matt. 7:14]]; 9f [[D&C 132#^dc-132-22|D&amp;C 132:22]]
+- **10** 10c [[John 8#^john-8-47|John 8:47]]; 10e [[Isaiah 51#^isa-51-16|Isa. 51:16]] · [[Moroni 10#^moro-10-27|Moro. 10:27 (27–29)]] · [[D&C 1#^dc-1-24|D&amp;C 1:24]]; 10f [[1 Kings 8#^1kgs-8-36|1 Kgs. 8:36]] · [[2 Nephi 25#^2ne-25-28|2 Ne. 25:28]]
+- **11** 11a [[Ether 5#^ether-5-4|Ether 5:4 (4–6)]] · [[Moroni 7#^moro-7-35|Moro. 7:35]]
+- **13** 13a [[Isaiah 29#^isa-29-4|Isa. 29:4]] · [[2 Nephi 27#^2ne-27-13|2 Ne. 27:13]] · [[Mormon 8#^morm-8-26|Morm. 8:26]]
+- **14** 14c [[2 Nephi 29#^2ne-29-11|2 Ne. 29:11]] · [[Words of Mormon 1#^wofm-1-11|W of M 1:11]]
+- **15** 15a [[2 Nephi 25#^2ne-25-22|2 Ne. 25:22]] · [[3 Nephi 27#^3ne-27-23|3 Ne. 27:25 (23–27)]] · [[Ether 4#^ether-4-8|Ether 4:10 (8–10)]]

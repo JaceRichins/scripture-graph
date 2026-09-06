@@ -1,0 +1,47 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: ether-3
+verses: 26
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# Ether 3 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> The brother of Jared sees the finger of the Lord as He touches sixteen stones—Christ shows His spirit body to the brother of Jared—Those who have a perfect knowledge cannot be kept from within the veil—Interpreters are provided to bring the Jaredite record to light.
+
+```json
+{"1":[{"m":"1a","refs":[{"c":"ex-24","t":"Exodus 24","v":[12,13],"l":"Ex. 24:13 (12–13)"},{"c":"deut-10","t":"Deuteronomy 10","v":[1],"l":"Deut. 10:1"},{"c":"1ne-11","t":"1 Nephi 11","v":[1],"l":"1 Ne. 11:1"}]},{"m":"1b","refs":[{"c":"ether-4","t":"Ether 4","v":[1],"l":"Ether 4:1"}]},{"m":"1d","refs":[{"c":"rev-21","t":"Revelation 21","v":[21],"l":"Rev. 21:21"}]}],"2":[{"m":"2a","refs":[{"c":"gen-18","t":"Genesis 18","v":[25,26,27,28,29,30],"l":"Gen. 18:32 (25–33)"}]},{"m":"2b","refs":[{"c":"moses-1","t":"Moses 1","v":[10],"l":"Moses 1:10"}]},{"m":"2d","refs":[{"c":"mosiah-3","t":"Mosiah 3","v":[19],"l":"Mosiah 3:19"}]}],"3":[{"m":"3a","refs":[{"c":"ether-1","t":"Ether 1","v":[34,35,36,37,38,39],"l":"Ether 1:40 (34–43)"}]},{"m":"3b","refs":[{"c":"ether-6","t":"Ether 6","v":[2,3],"l":"Ether 6:2 (2–3, 10)"}]}],"4":[{"m":"4b","refs":[{"c":"ether-12","t":"Ether 12","v":[19,20,21],"l":"Ether 12:20 (19–21)"}]}],"5":[{"m":"5a","refs":[{"c":"isa-55","t":"Isaiah 55","v":[8,9],"l":"Isa. 55:8 (8–9)"}]}],"6":[{"m":"6b","refs":[{"c":"dan-5","t":"Daniel 5","v":[5],"l":"Dan. 5:5"},{"c":"abr-3","t":"Abraham 3","v":[11,12],"l":"Abr. 3:12 (11–12)"}]},{"m":"6c","refs":[{"c":"ether-12","t":"Ether 12","v":[19],"l":"Ether 12:19 (19, 21)"}]},{"m":"6d","refs":[{"c":"ezek-1","t":"Ezekiel 1","v":[28],"l":"Ezek. 1:28"},{"c":"acts-9","t":"Acts 9","v":[3,4,5],"l":"Acts 9:4 (3–5)"}]},{"m":"6e","refs":[{"c":"ex-3","t":"Exodus 3","v":[6],"l":"Ex. 3:6"},{"c":"jsh-1","t":"Joseph Smith—History 1","v":[32],"l":"JS—H 1:32"}]}],"8":[{"m":"8a","refs":[{"c":"moses-1","t":"Moses 1","v":[11],"l":"Moses 1:11"}]}],"9":[{"m":"9b","refs":[{"c":"matt-8","t":"Matthew 8","v":[10],"l":"Matt. 8:10"},{"c":"alma-19","t":"Alma 19","v":[10],"l":"Alma 19:10"}]}],"10":[{"m":"10a","refs":[{"c":"ex-33","t":"Exodus 33","v":[17,18],"l":"Ex. 33:18 (17–18)"}]}],"11":[{"m":"11a","refs":[{"c":"1ne-11","t":"1 Nephi 11","v":[4,5],"l":"1 Ne. 11:4 (4–5)"}]}],"12":[{"m":"12a","refs":[{"c":"num-23","t":"Numbers 23","v":[19],"l":"Num. 23:19"},{"c":"heb-6","t":"Hebrews 6","v":[18],"l":"Heb. 6:18"}]}],"13":[{"m":"13a","refs":[{"c":"1sam-3","t":"1 Samuel 3","v":[21],"l":"1 Sam. 3:21"},{"c":"dc-67","t":"D&C 67","v":[11,12],"l":"D&amp;C 67:11 (11–12)"}]},{"m":"13b","refs":[{"c":"enos-1","t":"Enos 1","v":[6,7,8],"l":"Enos 1:8 (6–8)"}]}],"14":[{"m":"14c","refs":[{"c":"mosiah-15","t":"Mosiah 15","v":[2],"l":"Mosiah 15:2"}]},{"m":"14d","refs":[{"c":"mosiah-16","t":"Mosiah 16","v":[9],"l":"Mosiah 16:9"},{"c":"dc-88","t":"D&C 88","v":[7,8,9,10,11,12],"l":"D&amp;C 88:13 (7–13)"}]}],"15":[{"m":"15a","refs":[{"c":"ex-3","t":"Exodus 3","v":[6],"l":"Ex. 3:6"},{"c":"ex-33","t":"Exodus 33","v":[11,12,13,14,15,16],"l":"33:20 (11–23)"},{"c":"john-1","t":"John 1","v":[18],"l":"John 1:18"},{"c":"dc-107","t":"D&C 107","v":[54],"l":"D&amp;C 107:54"},{"c":"moses-1","t":"Moses 1","v":[2],"l":"Moses 1:2"}]},{"m":"15c","refs":[{"c":"gen-1","t":"Genesis 1","v":[26,27,28],"l":"Gen. 1:26 (26–28)"},{"c":"mosiah-7","t":"Mosiah 7","v":[27],"l":"Mosiah 7:27"},{"c":"dc-20","t":"D&C 20","v":[17,18],"l":"D&amp;C 20:18 (17–18)"}]}],"16":[{"m":"16b","refs":[{"c":"dc-17","t":"D&C 17","v":[1],"l":"D&amp;C 17:1"}]}],"17":[{"m":"17a","refs":[{"c":"ether-1","t":"Ether 1","v":[5],"l":"Ether 1:5"},{"c":"ether-15","t":"Ether 15","v":[33],"l":"15:33"}]},{"m":"17b","refs":[{"c":"3ne-11","t":"3 Nephi 11","v":[8,9,10,11,12,13],"l":"3 Ne. 11:8 (8–16)"}]}],"19":[{"m":"19c","refs":[{"c":"alma-32","t":"Alma 32","v":[34],"l":"Alma 32:34"}]}],"20":[{"m":"20a","refs":[{"c":"ether-12","t":"Ether 12","v":[19,20,21],"l":"Ether 12:21 (19–21)"}]}],"21":[{"m":"21a","refs":[{"c":"ether-4","t":"Ether 4","v":[1],"l":"Ether 4:1"}]},{"m":"21b","refs":[{"c":"luke-2","t":"Luke 2","v":[17,18,19,20],"l":"Luke 2:19 (17–20)"}]}],"22":[{"m":"22a","refs":[{"c":"mosiah-8","t":"Mosiah 8","v":[11,12],"l":"Mosiah 8:11 (11–12)"}]}],"23":[{"m":"23a","refs":[{"c":"mosiah-8","t":"Mosiah 8","v":[13,14,15,16,17,18],"l":"Mosiah 8:13 (13–18)"},{"c":"morm-9","t":"Mormon 9","v":[34],"l":"Morm. 9:34"},{"c":"dc-17","t":"D&C 17","v":[1],"l":"D&amp;C 17:1"}]}],"24":[{"m":"24a","refs":[{"c":"ether-1","t":"Ether 1","v":[35],"l":"Ether 1:35"}]}],"25":[{"m":"25a","refs":[{"c":"2ne-27","t":"2 Nephi 27","v":[7],"l":"2 Ne. 27:7"}]},{"m":"25b","refs":[{"c":"moses-1","t":"Moses 1","v":[8],"l":"Moses 1:8"}]},{"m":"25c","refs":[{"c":"luke-24","t":"Luke 24","v":[10,11,12,13,14,15],"l":"Luke 24:16 (10–24)"},{"c":"dc-25","t":"D&C 25","v":[4],"l":"D&amp;C 25:4"}]}],"26":[{"m":"26c","refs":[{"c":"2ne-27","t":"2 Nephi 27","v":[7,8],"l":"2 Ne. 27:7 (7–8, 10–11)"},{"c":"mosiah-8","t":"Mosiah 8","v":[19],"l":"Mosiah 8:19"},{"c":"ether-4","t":"Ether 4","v":[1,2,3,4,5,6],"l":"Ether 4:4 (1–8)"}]}],"27":[{"m":"27a","refs":[{"c":"2ne-27","t":"2 Nephi 27","v":[6,7,8,9,10,11],"l":"2 Ne. 27:7 (6–23)"}]}],"28":[{"m":"28a","refs":[{"c":"dc-17","t":"D&C 17","v":[1],"l":"D&amp;C 17:1"}]},{"m":"28b","refs":[{"c":"2ne-3","t":"2 Nephi 3","v":[6],"l":"2 Ne. 3:6"},{"c":"3ne-21","t":"3 Nephi 21","v":[8,9,10,11],"l":"3 Ne. 21:11 (8–11)"},{"c":"morm-8","t":"Mormon 8","v":[16],"l":"Morm. 8:16 (16, 25)"}]}]}
+```
+
+- **1** 1a [[Exodus 24#^ex-24-12|Ex. 24:13 (12–13)]] · [[Deuteronomy 10#^deut-10-1|Deut. 10:1]] · [[1 Nephi 11#^1ne-11-1|1 Ne. 11:1]]; 1b [[Ether 4#^ether-4-1|Ether 4:1]]; 1d [[Revelation 21#^rev-21-21|Rev. 21:21]]
+- **2** 2a [[Genesis 18#^gen-18-25|Gen. 18:32 (25–33)]]; 2b [[Moses 1#^moses-1-10|Moses 1:10]]; 2d [[Mosiah 3#^mosiah-3-19|Mosiah 3:19]]
+- **3** 3a [[Ether 1#^ether-1-34|Ether 1:40 (34–43)]]; 3b [[Ether 6#^ether-6-2|Ether 6:2 (2–3, 10)]]
+- **4** 4b [[Ether 12#^ether-12-19|Ether 12:20 (19–21)]]
+- **5** 5a [[Isaiah 55#^isa-55-8|Isa. 55:8 (8–9)]]
+- **6** 6b [[Daniel 5#^dan-5-5|Dan. 5:5]] · [[Abraham 3#^abr-3-11|Abr. 3:12 (11–12)]]; 6c [[Ether 12#^ether-12-19|Ether 12:19 (19, 21)]]; 6d [[Ezekiel 1#^ezek-1-28|Ezek. 1:28]] · [[Acts 9#^acts-9-3|Acts 9:4 (3–5)]]; 6e [[Exodus 3#^ex-3-6|Ex. 3:6]] · [[Joseph Smith—History 1#^jsh-1-32|JS—H 1:32]]
+- **8** 8a [[Moses 1#^moses-1-11|Moses 1:11]]
+- **9** 9b [[Matthew 8#^matt-8-10|Matt. 8:10]] · [[Alma 19#^alma-19-10|Alma 19:10]]
+- **10** 10a [[Exodus 33#^ex-33-17|Ex. 33:18 (17–18)]]
+- **11** 11a [[1 Nephi 11#^1ne-11-4|1 Ne. 11:4 (4–5)]]
+- **12** 12a [[Numbers 23#^num-23-19|Num. 23:19]] · [[Hebrews 6#^heb-6-18|Heb. 6:18]]
+- **13** 13a [[1 Samuel 3#^1sam-3-21|1 Sam. 3:21]] · [[D&C 67#^dc-67-11|D&amp;C 67:11 (11–12)]]; 13b [[Enos 1#^enos-1-6|Enos 1:8 (6–8)]]
+- **14** 14c [[Mosiah 15#^mosiah-15-2|Mosiah 15:2]]; 14d [[Mosiah 16#^mosiah-16-9|Mosiah 16:9]] · [[D&C 88#^dc-88-7|D&amp;C 88:13 (7–13)]]
+- **15** 15a [[Exodus 3#^ex-3-6|Ex. 3:6]] · [[Exodus 33#^ex-33-11|33:20 (11–23)]] · [[John 1#^john-1-18|John 1:18]] · [[D&C 107#^dc-107-54|D&amp;C 107:54]] · [[Moses 1#^moses-1-2|Moses 1:2]]; 15c [[Genesis 1#^gen-1-26|Gen. 1:26 (26–28)]] · [[Mosiah 7#^mosiah-7-27|Mosiah 7:27]] · [[D&C 20#^dc-20-17|D&amp;C 20:18 (17–18)]]
+- **16** 16b [[D&C 17#^dc-17-1|D&amp;C 17:1]]
+- **17** 17a [[Ether 1#^ether-1-5|Ether 1:5]] · [[Ether 15#^ether-15-33|15:33]]; 17b [[3 Nephi 11#^3ne-11-8|3 Ne. 11:8 (8–16)]]
+- **19** 19c [[Alma 32#^alma-32-34|Alma 32:34]]
+- **20** 20a [[Ether 12#^ether-12-19|Ether 12:21 (19–21)]]
+- **21** 21a [[Ether 4#^ether-4-1|Ether 4:1]]; 21b [[Luke 2#^luke-2-17|Luke 2:19 (17–20)]]
+- **22** 22a [[Mosiah 8#^mosiah-8-11|Mosiah 8:11 (11–12)]]
+- **23** 23a [[Mosiah 8#^mosiah-8-13|Mosiah 8:13 (13–18)]] · [[Mormon 9#^morm-9-34|Morm. 9:34]] · [[D&C 17#^dc-17-1|D&amp;C 17:1]]
+- **24** 24a [[Ether 1#^ether-1-35|Ether 1:35]]
+- **25** 25a [[2 Nephi 27#^2ne-27-7|2 Ne. 27:7]]; 25b [[Moses 1#^moses-1-8|Moses 1:8]]; 25c [[Luke 24#^luke-24-10|Luke 24:16 (10–24)]] · [[D&C 25#^dc-25-4|D&amp;C 25:4]]
+- **26** 26c [[2 Nephi 27#^2ne-27-7|2 Ne. 27:7 (7–8, 10–11)]] · [[Mosiah 8#^mosiah-8-19|Mosiah 8:19]] · [[Ether 4#^ether-4-1|Ether 4:4 (1–8)]]
+- **27** 27a [[2 Nephi 27#^2ne-27-6|2 Ne. 27:7 (6–23)]]
+- **28** 28a [[D&C 17#^dc-17-1|D&amp;C 17:1]]; 28b [[2 Nephi 3#^2ne-3-6|2 Ne. 3:6]] · [[3 Nephi 21#^3ne-21-8|3 Ne. 21:11 (8–11)]] · [[Mormon 8#^morm-8-16|Morm. 8:16 (16, 25)]]

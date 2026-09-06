@@ -1,0 +1,42 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: alma-14
+verses: 21
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# Alma 14 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> Alma and Amulek are imprisoned and smitten—The believers and their holy scriptures are burned by fire—These martyrs are received by the Lord in glory—The prison walls are rent and fall—Alma and Amulek are delivered, and their persecutors are slain. About 82–81 B.C.
+
+```json
+{"1":[{"m":"1a","refs":[{"c":"2kgs-22","t":"2 Kings 22","v":[8,9,10,11,12,13],"l":"2 Kgs. 22:11 (8–13)"},{"c":"acts-17","t":"Acts 17","v":[2,3],"l":"Acts 17:2 (2–3, 11)"},{"c":"alma-13","t":"Alma 13","v":[20],"l":"Alma 13:20"}]}],"2":[{"m":"2a","refs":[{"c":"alma-12","t":"Alma 12","v":[3,4,5,6,7],"l":"Alma 12:7 (3–7)"}]},{"m":"2b","refs":[{"c":"alma-10","t":"Alma 10","v":[24,25,26,27,28,29],"l":"Alma 10:28 (24–32)"}]}],"3":[{"m":"3a","refs":[{"c":"prov-26","t":"Proverbs 26","v":[26],"l":"Prov. 26:26"},{"c":"alma-37","t":"Alma 37","v":[21],"l":"Alma 37:21"}]},{"m":"3b","refs":[{"c":"acts-23","t":"Acts 23","v":[12,13,14,15],"l":"Acts 23:12 (12–15)"}]}],"5":[{"m":"5a","refs":[{"c":"alma-11","t":"Alma 11","v":[33,34,35,36,37],"l":"Alma 11:35 (33–37)"}]}],"6":[{"m":"6b","refs":[{"c":"alma-10","t":"Alma 10","v":[25,26,27,28,29,30],"l":"Alma 10:31 (25–31)"}]},{"m":"6c","refs":[{"c":"alma-15","t":"Alma 15","v":[5],"l":"Alma 15:5"}]}],"7":[{"m":"7a","refs":[{"c":"alma-10","t":"Alma 10","v":[31],"l":"Alma 10:31"},{"c":"alma-11","t":"Alma 11","v":[21,22,23,24,25,26],"l":"11:21 (21–36)"},{"c":"alma-15","t":"Alma 15","v":[3],"l":"15:3"}]},{"m":"7b","refs":[{"c":"alma-15","t":"Alma 15","v":[1],"l":"Alma 15:1"}]}],"8":[{"m":"8a","refs":[{"c":"alma-15","t":"Alma 15","v":[2],"l":"Alma 15:2"}]},{"m":"8b","refs":[{"c":"jer-36","t":"Jeremiah 36","v":[21,22,23,24,25,26],"l":"Jer. 36:23 (21–28)"}]}],"10":[{"m":"10a","refs":[{"c":"alma-8","t":"Alma 8","v":[30,31],"l":"Alma 8:31 (30–31)"}]}],"11":[{"m":"11b","refs":[{"c":"ex-23","t":"Exodus 23","v":[7],"l":"Ex. 23:7"},{"c":"ps-37","t":"Psalm 37","v":[8,9,10,11,12,13],"l":"Ps. 37:9 (8–13)"},{"c":"alma-60","t":"Alma 60","v":[13],"l":"Alma 60:13"},{"c":"dc-103","t":"D&C 103","v":[3],"l":"D&amp;C 103:3"}]},{"m":"11d","refs":[{"c":"lam-4","t":"Lamentations 4","v":[13],"l":"Lam. 4:13"},{"c":"mosiah-17","t":"Mosiah 17","v":[10],"l":"Mosiah 17:10"}]}],"14":[{"m":"14a","refs":[{"c":"1kgs-22","t":"1 Kings 22","v":[14,15,16,17,18,19],"l":"1 Kgs. 22:24 (14–27)"}]},{"m":"14b","refs":[{"c":"alma-12","t":"Alma 12","v":[17],"l":"Alma 12:17"}]}],"16":[{"m":"16a","refs":[{"c":"alma-1","t":"Alma 1","v":[7,8,9,10,11,12],"l":"Alma 1:12 (7–15)"},{"c":"alma-2","t":"Alma 2","v":[20],"l":"2:20"},{"c":"alma-21","t":"Alma 21","v":[4],"l":"21:4"}]}],"17":[{"m":"17a","refs":[{"c":"matt-27","t":"Matthew 27","v":[12,13,14],"l":"Matt. 27:12 (12–14)"}]},{"m":"17b","refs":[{"c":"alma-9","t":"Alma 9","v":[33],"l":"Alma 9:33"}]}],"18":[{"m":"18a","refs":[{"c":"alma-10","t":"Alma 10","v":[14],"l":"Alma 10:14"},{"c":"alma-11","t":"Alma 11","v":[20,21,22,23,24,25],"l":"11:21 (20–37)"}]}],"19":[{"m":"19a","refs":[{"c":"john-19","t":"John 19","v":[9,10],"l":"John 19:10 (9–10)"}]},{"m":"19b","refs":[{"c":"mosiah-7","t":"Mosiah 7","v":[8],"l":"Mosiah 7:8"}]}],"20":[{"m":"20a","refs":[{"c":"matt-27","t":"Matthew 27","v":[39,40,41,42,43],"l":"Matt. 27:40 (39–43)"}]}],"22":[{"m":"22b","refs":[{"c":"acts-16","t":"Acts 16","v":[23,24,25,26,27,28],"l":"Acts 16:23 (23–40)"},{"c":"dc-122","t":"D&C 122","v":[6],"l":"D&amp;C 122:6"}]},{"m":"22c","refs":[{"c":"gen-39","t":"Genesis 39","v":[20],"l":"Gen. 39:20"},{"c":"mosiah-7","t":"Mosiah 7","v":[7],"l":"Mosiah 7:7"}]}],"23":[{"m":"23a","refs":[{"c":"alma-8","t":"Alma 8","v":[6],"l":"Alma 8:6"},{"c":"alma-15","t":"Alma 15","v":[1],"l":"15:1 (1, 15–16)"}]}],"25":[{"m":"25a","refs":[{"c":"alma-8","t":"Alma 8","v":[31],"l":"Alma 8:31"}]}],"26":[{"m":"26a","refs":[{"c":"james-5","t":"James 5","v":[10,11],"l":"James 5:10 (10–11)"},{"c":"mosiah-17","t":"Mosiah 17","v":[10,11,12,13,14,15],"l":"Mosiah 17:13 (10–20)"},{"c":"jsh-1","t":"Joseph Smith—History 1","v":[22],"l":"JS—H 1:22"}]},{"m":"26b","refs":[{"c":"ps-69","t":"Psalm 69","v":[1,2],"l":"Ps. 69:14 (1–2, 14)"},{"c":"dc-121","t":"D&C 121","v":[3],"l":"D&amp;C 121:3"}]}],"27":[{"m":"27a","refs":[{"c":"acts-12","t":"Acts 12","v":[4,5,6],"l":"Acts 12:4 (4–6)"},{"c":"acts-16","t":"Acts 16","v":[26],"l":"16:26"},{"c":"hel-5","t":"Helaman 5","v":[21,22,23,24,25,26],"l":"Hel. 5:21 (21–50)"},{"c":"3ne-28","t":"3 Nephi 28","v":[19,20],"l":"3 Ne. 28:19 (19–20)"},{"c":"4ne-1","t":"4 Nephi 1","v":[30],"l":"4 Ne. 1:30"},{"c":"ether-12","t":"Ether 12","v":[13],"l":"Ether 12:13"}]}],"28":[{"m":"28a","refs":[{"c":"alma-15","t":"Alma 15","v":[2],"l":"Alma 15:2"}]},{"m":"28b","refs":[{"c":"1ne-7","t":"1 Nephi 7","v":[17,18],"l":"1 Ne. 7:17 (17–18)"},{"c":"jacob-4","t":"Jacob 4","v":[6],"l":"Jacob 4:6"},{"c":"3ne-28","t":"3 Nephi 28","v":[19,20,21,22],"l":"3 Ne. 28:20 (19–22)"}]},{"m":"28c","refs":[{"c":"alma-36","t":"Alma 36","v":[27],"l":"Alma 36:27"}]}]}
+```
+
+- **1** 1a [[2 Kings 22#^2kgs-22-8|2 Kgs. 22:11 (8–13)]] · [[Acts 17#^acts-17-2|Acts 17:2 (2–3, 11)]] · [[Alma 13#^alma-13-20|Alma 13:20]]
+- **2** 2a [[Alma 12#^alma-12-3|Alma 12:7 (3–7)]]; 2b [[Alma 10#^alma-10-24|Alma 10:28 (24–32)]]
+- **3** 3a [[Proverbs 26#^prov-26-26|Prov. 26:26]] · [[Alma 37#^alma-37-21|Alma 37:21]]; 3b [[Acts 23#^acts-23-12|Acts 23:12 (12–15)]]
+- **5** 5a [[Alma 11#^alma-11-33|Alma 11:35 (33–37)]]
+- **6** 6b [[Alma 10#^alma-10-25|Alma 10:31 (25–31)]]; 6c [[Alma 15#^alma-15-5|Alma 15:5]]
+- **7** 7a [[Alma 10#^alma-10-31|Alma 10:31]] · [[Alma 11#^alma-11-21|11:21 (21–36)]] · [[Alma 15#^alma-15-3|15:3]]; 7b [[Alma 15#^alma-15-1|Alma 15:1]]
+- **8** 8a [[Alma 15#^alma-15-2|Alma 15:2]]; 8b [[Jeremiah 36#^jer-36-21|Jer. 36:23 (21–28)]]
+- **10** 10a [[Alma 8#^alma-8-30|Alma 8:31 (30–31)]]
+- **11** 11b [[Exodus 23#^ex-23-7|Ex. 23:7]] · [[Psalm 37#^ps-37-8|Ps. 37:9 (8–13)]] · [[Alma 60#^alma-60-13|Alma 60:13]] · [[D&C 103#^dc-103-3|D&amp;C 103:3]]; 11d [[Lamentations 4#^lam-4-13|Lam. 4:13]] · [[Mosiah 17#^mosiah-17-10|Mosiah 17:10]]
+- **14** 14a [[1 Kings 22#^1kgs-22-14|1 Kgs. 22:24 (14–27)]]; 14b [[Alma 12#^alma-12-17|Alma 12:17]]
+- **16** 16a [[Alma 1#^alma-1-7|Alma 1:12 (7–15)]] · [[Alma 2#^alma-2-20|2:20]] · [[Alma 21#^alma-21-4|21:4]]
+- **17** 17a [[Matthew 27#^matt-27-12|Matt. 27:12 (12–14)]]; 17b [[Alma 9#^alma-9-33|Alma 9:33]]
+- **18** 18a [[Alma 10#^alma-10-14|Alma 10:14]] · [[Alma 11#^alma-11-20|11:21 (20–37)]]
+- **19** 19a [[John 19#^john-19-9|John 19:10 (9–10)]]; 19b [[Mosiah 7#^mosiah-7-8|Mosiah 7:8]]
+- **20** 20a [[Matthew 27#^matt-27-39|Matt. 27:40 (39–43)]]
+- **22** 22b [[Acts 16#^acts-16-23|Acts 16:23 (23–40)]] · [[D&C 122#^dc-122-6|D&amp;C 122:6]]; 22c [[Genesis 39#^gen-39-20|Gen. 39:20]] · [[Mosiah 7#^mosiah-7-7|Mosiah 7:7]]
+- **23** 23a [[Alma 8#^alma-8-6|Alma 8:6]] · [[Alma 15#^alma-15-1|15:1 (1, 15–16)]]
+- **25** 25a [[Alma 8#^alma-8-31|Alma 8:31]]
+- **26** 26a [[James 5#^james-5-10|James 5:10 (10–11)]] · [[Mosiah 17#^mosiah-17-10|Mosiah 17:13 (10–20)]] · [[Joseph Smith—History 1#^jsh-1-22|JS—H 1:22]]; 26b [[Psalm 69#^ps-69-1|Ps. 69:14 (1–2, 14)]] · [[D&C 121#^dc-121-3|D&amp;C 121:3]]
+- **27** 27a [[Acts 12#^acts-12-4|Acts 12:4 (4–6)]] · [[Acts 16#^acts-16-26|16:26]] · [[Helaman 5#^hel-5-21|Hel. 5:21 (21–50)]] · [[3 Nephi 28#^3ne-28-19|3 Ne. 28:19 (19–20)]] · [[4 Nephi 1#^4ne-1-30|4 Ne. 1:30]] · [[Ether 12#^ether-12-13|Ether 12:13]]
+- **28** 28a [[Alma 15#^alma-15-2|Alma 15:2]]; 28b [[1 Nephi 7#^1ne-7-17|1 Ne. 7:17 (17–18)]] · [[Jacob 4#^jacob-4-6|Jacob 4:6]] · [[3 Nephi 28#^3ne-28-19|3 Ne. 28:20 (19–22)]]; 28c [[Alma 36#^alma-36-27|Alma 36:27]]

@@ -1,0 +1,36 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: jarom-1
+verses: 15
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# Jarom 1 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> The Nephites keep the law of Moses, look forward to the coming of Christ, and prosper in the land—Many prophets labor to keep the people in the way of truth. About 399–361 B.C.
+
+```json
+{"1":[{"m":"1a","refs":[{"c":"1ne-3","t":"1 Nephi 3","v":[12],"l":"1 Ne. 3:12"},{"c":"1ne-5","t":"1 Nephi 5","v":[14],"l":"5:14"}]}],"2":[{"m":"2a","refs":[{"c":"jacob-3","t":"Jacob 3","v":[13,14],"l":"Jacob 3:14 (13–14)"},{"c":"omni-1","t":"Omni 1","v":[1],"l":"Omni 1:1"}]},{"m":"2b","refs":[{"c":"1ne-6","t":"1 Nephi 6","v":[1,2,3,4,5,6],"l":"1 Ne. 6:3 (1–6)"},{"c":"jacob-7","t":"Jacob 7","v":[27],"l":"Jacob 7:27"}]},{"m":"2d","refs":[{"c":"2ne-27","t":"2 Nephi 27","v":[6],"l":"2 Ne. 27:6"},{"c":"morm-5","t":"Mormon 5","v":[12,13],"l":"Morm. 5:12 (12–13)"}]}],"3":[{"m":"3a","refs":[{"c":"enos-1","t":"Enos 1","v":[22,23],"l":"Enos 1:22 (22–23)"}]},{"m":"3b","refs":[{"c":"ether-2","t":"Ether 2","v":[8,9,10],"l":"Ether 2:8 (8–10)"}]}],"4":[{"m":"4a","refs":[{"c":"alma-26","t":"Alma 26","v":[22],"l":"Alma 26:22"},{"c":"hel-11","t":"Helaman 11","v":[23],"l":"Hel. 11:23"},{"c":"dc-107","t":"D&C 107","v":[18,19],"l":"D&amp;C 107:19 (18–19)"}]}],"5":[{"m":"5a","refs":[{"c":"2ne-25","t":"2 Nephi 25","v":[24],"l":"2 Ne. 25:24"},{"c":"mosiah-2","t":"Mosiah 2","v":[3],"l":"Mosiah 2:3"},{"c":"alma-30","t":"Alma 30","v":[3],"l":"Alma 30:3"},{"c":"alma-34","t":"Alma 34","v":[13,14],"l":"34:14 (13–14)"}]},{"m":"5b","refs":[{"c":"ex-35","t":"Exodus 35","v":[2],"l":"Ex. 35:2"}]},{"m":"5e","refs":[{"c":"alma-1","t":"Alma 1","v":[1],"l":"Alma 1:1"}]}],"6":[{"m":"6a","refs":[{"c":"hel-11","t":"Helaman 11","v":[19,20],"l":"Hel. 11:20 (19–20)"}]},{"m":"6b","refs":[{"c":"alma-2","t":"Alma 2","v":[27],"l":"Alma 2:27"}]},{"m":"6c","refs":[{"c":"jacob-7","t":"Jacob 7","v":[24],"l":"Jacob 7:24"},{"c":"enos-1","t":"Enos 1","v":[20],"l":"Enos 1:20"},{"c":"alma-26","t":"Alma 26","v":[23,24,25],"l":"Alma 26:24 (23–25)"}]}],"7":[{"m":"7a","refs":[{"c":"2ne-5","t":"2 Nephi 5","v":[18],"l":"2 Ne. 5:18"},{"c":"2ne-6","t":"2 Nephi 6","v":[2],"l":"6:2"},{"c":"jacob-1","t":"Jacob 1","v":[9],"l":"Jacob 1:9 (9, 11, 15)"},{"c":"mosiah-1","t":"Mosiah 1","v":[10],"l":"Mosiah 1:10"}]},{"m":"7c","refs":[{"c":"wofm-1","t":"Words of Mormon 1","v":[14],"l":"W of M 1:14"}]}],"8":[{"m":"8a","refs":[{"c":"2ne-5","t":"2 Nephi 5","v":[15],"l":"2 Ne. 5:15"}]},{"m":"8d","refs":[{"c":"2ne-5","t":"2 Nephi 5","v":[14],"l":"2 Ne. 5:14"},{"c":"mosiah-10","t":"Mosiah 10","v":[8],"l":"Mosiah 10:8"}]}],"9":[{"m":"9a","refs":[{"c":"2ne-1","t":"2 Nephi 1","v":[20],"l":"2 Ne. 1:20"},{"c":"omni-1","t":"Omni 1","v":[6],"l":"Omni 1:6"}]},{"m":"9b","refs":[{"c":"josh-1","t":"Joshua 1","v":[7],"l":"Josh. 1:7"},{"c":"ps-122","t":"Psalm 122","v":[6],"l":"Ps. 122:6"}]}],"10":[{"m":"10a","refs":[{"c":"1ne-12","t":"1 Nephi 12","v":[19,20],"l":"1 Ne. 12:19 (19–20)"},{"c":"omni-1","t":"Omni 1","v":[5],"l":"Omni 1:5"}]}],"11":[{"m":"11c","refs":[{"c":"jacob-4","t":"Jacob 4","v":[5],"l":"Jacob 4:5"},{"c":"alma-25","t":"Alma 25","v":[15,16],"l":"Alma 25:15 (15–16)"}]},{"m":"11d","refs":[{"c":"2ne-11","t":"2 Nephi 11","v":[4],"l":"2 Ne. 11:4"},{"c":"ether-12","t":"Ether 12","v":[18,19],"l":"Ether 12:19 (18–19)"}]},{"m":"11e","refs":[{"c":"2ne-25","t":"2 Nephi 25","v":[24,25,26,27],"l":"2 Ne. 25:26 (24–27)"},{"c":"mosiah-3","t":"Mosiah 3","v":[13],"l":"Mosiah 3:13"},{"c":"mosiah-16","t":"Mosiah 16","v":[6],"l":"16:6"}]}],"12":[{"m":"12a","refs":[{"c":"ether-2","t":"Ether 2","v":[8,9,10],"l":"Ether 2:10 (8–10)"}]},{"m":"12b","refs":[{"c":"alma-31","t":"Alma 31","v":[5],"l":"Alma 31:5"}]},{"m":"12c","refs":[{"c":"enos-1","t":"Enos 1","v":[23],"l":"Enos 1:23"}]}],"13":[{"m":"13b","refs":[{"c":"omni-1","t":"Omni 1","v":[3],"l":"Omni 1:3"}]}],"14":[{"m":"14a","refs":[{"c":"jacob-4","t":"Jacob 4","v":[1,2],"l":"Jacob 4:1 (1–2)"},{"c":"omni-1","t":"Omni 1","v":[30],"l":"Omni 1:30"}]},{"m":"14b","refs":[{"c":"jacob-7","t":"Jacob 7","v":[26,27],"l":"Jacob 7:26 (26–27)"},{"c":"wofm-1","t":"Words of Mormon 1","v":[3],"l":"W of M 1:3"}]},{"m":"14c","refs":[{"c":"omni-1","t":"Omni 1","v":[11],"l":"Omni 1:11"},{"c":"wofm-1","t":"Words of Mormon 1","v":[10],"l":"W of M 1:10"}]}],"15":[{"m":"15a","refs":[{"c":"jacob-1","t":"Jacob 1","v":[1,2,3,4],"l":"Jacob 1:1 (1–4)"},{"c":"omni-1","t":"Omni 1","v":[3],"l":"Omni 1:3"}]}]}
+```
+
+- **1** 1a [[1 Nephi 3#^1ne-3-12|1 Ne. 3:12]] · [[1 Nephi 5#^1ne-5-14|5:14]]
+- **2** 2a [[Jacob 3#^jacob-3-13|Jacob 3:14 (13–14)]] · [[Omni 1#^omni-1-1|Omni 1:1]]; 2b [[1 Nephi 6#^1ne-6-1|1 Ne. 6:3 (1–6)]] · [[Jacob 7#^jacob-7-27|Jacob 7:27]]; 2d [[2 Nephi 27#^2ne-27-6|2 Ne. 27:6]] · [[Mormon 5#^morm-5-12|Morm. 5:12 (12–13)]]
+- **3** 3a [[Enos 1#^enos-1-22|Enos 1:22 (22–23)]]; 3b [[Ether 2#^ether-2-8|Ether 2:8 (8–10)]]
+- **4** 4a [[Alma 26#^alma-26-22|Alma 26:22]] · [[Helaman 11#^hel-11-23|Hel. 11:23]] · [[D&C 107#^dc-107-18|D&amp;C 107:19 (18–19)]]
+- **5** 5a [[2 Nephi 25#^2ne-25-24|2 Ne. 25:24]] · [[Mosiah 2#^mosiah-2-3|Mosiah 2:3]] · [[Alma 30#^alma-30-3|Alma 30:3]] · [[Alma 34#^alma-34-13|34:14 (13–14)]]; 5b [[Exodus 35#^ex-35-2|Ex. 35:2]]; 5e [[Alma 1#^alma-1-1|Alma 1:1]]
+- **6** 6a [[Helaman 11#^hel-11-19|Hel. 11:20 (19–20)]]; 6b [[Alma 2#^alma-2-27|Alma 2:27]]; 6c [[Jacob 7#^jacob-7-24|Jacob 7:24]] · [[Enos 1#^enos-1-20|Enos 1:20]] · [[Alma 26#^alma-26-23|Alma 26:24 (23–25)]]
+- **7** 7a [[2 Nephi 5#^2ne-5-18|2 Ne. 5:18]] · [[2 Nephi 6#^2ne-6-2|6:2]] · [[Jacob 1#^jacob-1-9|Jacob 1:9 (9, 11, 15)]] · [[Mosiah 1#^mosiah-1-10|Mosiah 1:10]]; 7c [[Words of Mormon 1#^wofm-1-14|W of M 1:14]]
+- **8** 8a [[2 Nephi 5#^2ne-5-15|2 Ne. 5:15]]; 8d [[2 Nephi 5#^2ne-5-14|2 Ne. 5:14]] · [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]]
+- **9** 9a [[2 Nephi 1#^2ne-1-20|2 Ne. 1:20]] · [[Omni 1#^omni-1-6|Omni 1:6]]; 9b [[Joshua 1#^josh-1-7|Josh. 1:7]] · [[Psalm 122#^ps-122-6|Ps. 122:6]]
+- **10** 10a [[1 Nephi 12#^1ne-12-19|1 Ne. 12:19 (19–20)]] · [[Omni 1#^omni-1-5|Omni 1:5]]
+- **11** 11c [[Jacob 4#^jacob-4-5|Jacob 4:5]] · [[Alma 25#^alma-25-15|Alma 25:15 (15–16)]]; 11d [[2 Nephi 11#^2ne-11-4|2 Ne. 11:4]] · [[Ether 12#^ether-12-18|Ether 12:19 (18–19)]]; 11e [[2 Nephi 25#^2ne-25-24|2 Ne. 25:26 (24–27)]] · [[Mosiah 3#^mosiah-3-13|Mosiah 3:13]] · [[Mosiah 16#^mosiah-16-6|16:6]]
+- **12** 12a [[Ether 2#^ether-2-8|Ether 2:10 (8–10)]]; 12b [[Alma 31#^alma-31-5|Alma 31:5]]; 12c [[Enos 1#^enos-1-23|Enos 1:23]]
+- **13** 13b [[Omni 1#^omni-1-3|Omni 1:3]]
+- **14** 14a [[Jacob 4#^jacob-4-1|Jacob 4:1 (1–2)]] · [[Omni 1#^omni-1-30|Omni 1:30]]; 14b [[Jacob 7#^jacob-7-26|Jacob 7:26 (26–27)]] · [[Words of Mormon 1#^wofm-1-3|W of M 1:3]]; 14c [[Omni 1#^omni-1-11|Omni 1:11]] · [[Words of Mormon 1#^wofm-1-10|W of M 1:10]]
+- **15** 15a [[Jacob 1#^jacob-1-1|Jacob 1:1 (1–4)]] · [[Omni 1#^omni-1-3|Omni 1:3]]

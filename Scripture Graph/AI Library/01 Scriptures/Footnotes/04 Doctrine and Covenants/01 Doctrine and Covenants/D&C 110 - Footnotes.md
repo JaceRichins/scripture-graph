@@ -1,0 +1,36 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: dc-110
+verses: 15
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# D&C 110 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> 1–10, The Lord Jehovah appears in glory and accepts the Kirtland Temple as His house; 11–12, Moses and Elias each appear and commit their keys and dispensations; 13–16, Elijah returns and commits the keys of his dispensation as promised by Malachi.
+
+```json
+{"1":[{"m":"1b","refs":[{"c":"dc-76","t":"D&C 76","v":[10],"l":"D&amp;C 76:12 (10, 12, 19)"},{"c":"dc-136","t":"D&C 136","v":[32],"l":"136:32"},{"c":"dc-138","t":"D&C 138","v":[11],"l":"138:11"}]}],"2":[{"m":"2b","refs":[{"c":"1sam-3","t":"1 Samuel 3","v":[10],"l":"1 Sam. 3:10"},{"c":"1ne-1","t":"1 Nephi 1","v":[8,9,10,11,12,13],"l":"1 Ne. 1:11 (8–15)"},{"c":"jsh-1","t":"Joseph Smith—History 1","v":[17],"l":"JS—H 1:17"}]},{"m":"2c","refs":[{"c":"ezek-1","t":"Ezekiel 1","v":[26,27,28],"l":"Ezek. 1:27 (26–28)"},{"c":"rev-21","t":"Revelation 21","v":[21],"l":"Rev. 21:21"},{"c":"dc-137","t":"D&C 137","v":[4],"l":"D&amp;C 137:4"}]}],"3":[{"m":"3a","refs":[{"c":"rev-1","t":"Revelation 1","v":[14],"l":"Rev. 1:14"},{"c":"rev-2","t":"Revelation 2","v":[18],"l":"2:18"}]},{"m":"3b","refs":[{"c":"ex-34","t":"Exodus 34","v":[29,30,31,32,33,34],"l":"Ex. 34:29 (29–35)"},{"c":"rev-1","t":"Revelation 1","v":[16],"l":"Rev. 1:16"},{"c":"hel-5","t":"Helaman 5","v":[36],"l":"Hel. 5:36"},{"c":"jsh-1","t":"Joseph Smith—History 1","v":[32],"l":"JS—H 1:32"}]},{"m":"3c","refs":[{"c":"ezek-1","t":"Ezekiel 1","v":[24],"l":"Ezek. 1:24"},{"c":"ezek-43","t":"Ezekiel 43","v":[2],"l":"43:2"},{"c":"rev-1","t":"Revelation 1","v":[15],"l":"Rev. 1:15"},{"c":"dc-133","t":"D&C 133","v":[22],"l":"D&amp;C 133:22"}]}],"4":[{"m":"4b","refs":[{"c":"deut-5","t":"Deuteronomy 5","v":[22,23,24],"l":"Deut. 5:24 (22–24)"},{"c":"zech-13","t":"Zechariah 13","v":[6],"l":"Zech. 13:6"},{"c":"dc-45","t":"D&C 45","v":[51,52],"l":"D&amp;C 45:52 (51–52)"}]}],"5":[{"m":"5a","refs":[{"c":"luke-5","t":"Luke 5","v":[21],"l":"Luke 5:21"}]}],"6":[{"m":"6a","refs":[{"c":"dc-109","t":"D&C 109","v":[4,5],"l":"D&amp;C 109:4 (4–5)"}]}],"7":[{"m":"7a","refs":[{"c":"2chr-7","t":"2 Chronicles 7","v":[16],"l":"2 Chr. 7:16"}]}],"8":[{"m":"8a","refs":[{"c":"ex-19","t":"Exodus 19","v":[10,11],"l":"Ex. 19:11 (10–11)"},{"c":"dc-50","t":"D&C 50","v":[45],"l":"D&amp;C 50:45"}]},{"m":"8b","refs":[{"c":"dc-88","t":"D&C 88","v":[134],"l":"D&amp;C 88:134"},{"c":"dc-97","t":"D&C 97","v":[15,16,17],"l":"97:15 (15–17)"}]}],"9":[{"m":"9a","refs":[{"c":"gen-12","t":"Genesis 12","v":[1,2,3],"l":"Gen. 12:3 (1–3)"},{"c":"dc-39","t":"D&C 39","v":[15],"l":"D&amp;C 39:15"},{"c":"abr-2","t":"Abraham 2","v":[8,9,10,11],"l":"Abr. 2:11 (8–11)"}]},{"m":"9b","refs":[{"c":"dc-95","t":"D&C 95","v":[8,9],"l":"D&amp;C 95:8 (8–9)"}]}],"10":[{"m":"10a","refs":[{"c":"zech-12","t":"Zechariah 12","v":[10],"l":"Zech. 12:10"},{"c":"dc-105","t":"D&C 105","v":[12],"l":"D&amp;C 105:12"}]}],"11":[{"m":"11b","refs":[{"c":"ezek-1","t":"Ezekiel 1","v":[1],"l":"Ezek. 1:1"}]},{"m":"11c","refs":[{"c":"matt-17","t":"Matthew 17","v":[3],"l":"Matt. 17:3"},{"c":"dc-133","t":"D&C 133","v":[55],"l":"D&amp;C 133:55"}]},{"m":"11d","refs":[{"c":"dc-113","t":"D&C 113","v":[6],"l":"D&amp;C 113:6"}]},{"m":"11e","refs":[{"c":"1ne-22","t":"1 Nephi 22","v":[10,11,12],"l":"1 Ne. 22:12 (10–12)"},{"c":"jacob-6","t":"Jacob 6","v":[2],"l":"Jacob 6:2"},{"c":"dc-29","t":"D&C 29","v":[7],"l":"D&amp;C 29:7"},{"c":"dc-45","t":"D&C 45","v":[43],"l":"45:43"},{"c":"dc-127","t":"D&C 127","v":[6],"l":"127:6"}]},{"m":"11f","refs":[{"c":"dc-133","t":"D&C 133","v":[26],"l":"D&amp;C 133:26"}]}],"12":[{"m":"12c","refs":[{"c":"gal-3","t":"Galatians 3","v":[6,7,8,9,10,11],"l":"Gal. 3:8 (6–29)"},{"c":"dc-124","t":"D&C 124","v":[58],"l":"D&amp;C 124:58"}]},{"m":"12d","refs":[{"c":"gen-18","t":"Genesis 18","v":[17,18,19],"l":"Gen. 18:18 (17–19)"}]}],"13":[{"m":"13b","refs":[{"c":"1kgs-17","t":"1 Kings 17","v":[1],"l":"1 Kgs. 17:1"},{"c":"mal-4","t":"Malachi 4","v":[5,6],"l":"Mal. 4:5 (5–6)"},{"c":"matt-17","t":"Matthew 17","v":[1,2,3,4],"l":"Matt. 17:3 (1–4)"},{"c":"luke-4","t":"Luke 4","v":[25],"l":"Luke 4:25"},{"c":"3ne-25","t":"3 Nephi 25","v":[5,6],"l":"3 Ne. 25:5 (5–6)"},{"c":"dc-2","t":"D&C 2","v":[1],"l":"D&amp;C 2:1"},{"c":"dc-35","t":"D&C 35","v":[4],"l":"35:4"},{"c":"dc-128","t":"D&C 128","v":[17],"l":"128:17"},{"c":"dc-138","t":"D&C 138","v":[46],"l":"138:46"}]}],"15":[{"m":"15a","refs":[{"c":"jsh-1","t":"Joseph Smith—History 1","v":[38,39],"l":"JS—H 1:39 (38–39)"}]}],"16":[{"m":"16c","refs":[{"c":"zeph-1","t":"Zephaniah 1","v":[14],"l":"Zeph. 1:14"}]}]}
+```
+
+- **1** 1b [[D&C 76#^dc-76-10|D&amp;C 76:12 (10, 12, 19)]] · [[D&C 136#^dc-136-32|136:32]] · [[D&C 138#^dc-138-11|138:11]]
+- **2** 2b [[1 Samuel 3#^1sam-3-10|1 Sam. 3:10]] · [[1 Nephi 1#^1ne-1-8|1 Ne. 1:11 (8–15)]] · [[Joseph Smith—History 1#^jsh-1-17|JS—H 1:17]]; 2c [[Ezekiel 1#^ezek-1-26|Ezek. 1:27 (26–28)]] · [[Revelation 21#^rev-21-21|Rev. 21:21]] · [[D&C 137#^dc-137-4|D&amp;C 137:4]]
+- **3** 3a [[Revelation 1#^rev-1-14|Rev. 1:14]] · [[Revelation 2#^rev-2-18|2:18]]; 3b [[Exodus 34#^ex-34-29|Ex. 34:29 (29–35)]] · [[Revelation 1#^rev-1-16|Rev. 1:16]] · [[Helaman 5#^hel-5-36|Hel. 5:36]] · [[Joseph Smith—History 1#^jsh-1-32|JS—H 1:32]]; 3c [[Ezekiel 1#^ezek-1-24|Ezek. 1:24]] · [[Ezekiel 43#^ezek-43-2|43:2]] · [[Revelation 1#^rev-1-15|Rev. 1:15]] · [[D&C 133#^dc-133-22|D&amp;C 133:22]]
+- **4** 4b [[Deuteronomy 5#^deut-5-22|Deut. 5:24 (22–24)]] · [[Zechariah 13#^zech-13-6|Zech. 13:6]] · [[D&C 45#^dc-45-51|D&amp;C 45:52 (51–52)]]
+- **5** 5a [[Luke 5#^luke-5-21|Luke 5:21]]
+- **6** 6a [[D&C 109#^dc-109-4|D&amp;C 109:4 (4–5)]]
+- **7** 7a [[2 Chronicles 7#^2chr-7-16|2 Chr. 7:16]]
+- **8** 8a [[Exodus 19#^ex-19-10|Ex. 19:11 (10–11)]] · [[D&C 50#^dc-50-45|D&amp;C 50:45]]; 8b [[D&C 88#^dc-88-134|D&amp;C 88:134]] · [[D&C 97#^dc-97-15|97:15 (15–17)]]
+- **9** 9a [[Genesis 12#^gen-12-1|Gen. 12:3 (1–3)]] · [[D&C 39#^dc-39-15|D&amp;C 39:15]] · [[Abraham 2#^abr-2-8|Abr. 2:11 (8–11)]]; 9b [[D&C 95#^dc-95-8|D&amp;C 95:8 (8–9)]]
+- **10** 10a [[Zechariah 12#^zech-12-10|Zech. 12:10]] · [[D&C 105#^dc-105-12|D&amp;C 105:12]]
+- **11** 11b [[Ezekiel 1#^ezek-1-1|Ezek. 1:1]]; 11c [[Matthew 17#^matt-17-3|Matt. 17:3]] · [[D&C 133#^dc-133-55|D&amp;C 133:55]]; 11d [[D&C 113#^dc-113-6|D&amp;C 113:6]]; 11e [[1 Nephi 22#^1ne-22-10|1 Ne. 22:12 (10–12)]] · [[Jacob 6#^jacob-6-2|Jacob 6:2]] · [[D&C 29#^dc-29-7|D&amp;C 29:7]] · [[D&C 45#^dc-45-43|45:43]] · [[D&C 127#^dc-127-6|127:6]]; 11f [[D&C 133#^dc-133-26|D&amp;C 133:26]]
+- **12** 12c [[Galatians 3#^gal-3-6|Gal. 3:8 (6–29)]] · [[D&C 124#^dc-124-58|D&amp;C 124:58]]; 12d [[Genesis 18#^gen-18-17|Gen. 18:18 (17–19)]]
+- **13** 13b [[1 Kings 17#^1kgs-17-1|1 Kgs. 17:1]] · [[Malachi 4#^mal-4-5|Mal. 4:5 (5–6)]] · [[Matthew 17#^matt-17-1|Matt. 17:3 (1–4)]] · [[Luke 4#^luke-4-25|Luke 4:25]] · [[3 Nephi 25#^3ne-25-5|3 Ne. 25:5 (5–6)]] · [[D&C 2#^dc-2-1|D&amp;C 2:1]] · [[D&C 35#^dc-35-4|35:4]] · [[D&C 128#^dc-128-17|128:17]] · [[D&C 138#^dc-138-46|138:46]]
+- **15** 15a [[Joseph Smith—History 1#^jsh-1-38|JS—H 1:39 (38–39)]]
+- **16** 16c [[Zephaniah 1#^zeph-1-14|Zeph. 1:14]]

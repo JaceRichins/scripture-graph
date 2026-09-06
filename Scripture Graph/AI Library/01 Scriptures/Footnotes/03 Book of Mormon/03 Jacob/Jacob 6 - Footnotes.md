@@ -1,0 +1,34 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: jacob-6
+verses: 13
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# Jacob 6 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> The Lord will recover Israel in the last days—The world will be burned with fire—Men must follow Christ to avoid the lake of fire and brimstone. About 544–421 B.C.
+
+```json
+{"1":[{"m":"1a","refs":[{"c":"jacob-5","t":"Jacob 5","v":[1],"l":"Jacob 5:1"},{"c":"alma-33","t":"Alma 33","v":[13,14,15],"l":"Alma 33:13 (13–15)"}]},{"m":"1b","refs":[{"c":"rom-11","t":"Romans 11","v":[1,2,3,4,5,6],"l":"Rom. 11:21 (1–36)"},{"c":"1ne-10","t":"1 Nephi 10","v":[12],"l":"1 Ne. 10:12"},{"c":"jacob-5","t":"Jacob 5","v":[3,4,5,6,7,8],"l":"Jacob 5:3 (3–77)"}]}],"2":[{"m":"2a","refs":[{"c":"1ne-22","t":"1 Nephi 22","v":[10,11,12],"l":"1 Ne. 22:12 (10–12)"},{"c":"dc-110","t":"D&C 110","v":[11],"l":"D&amp;C 110:11"},{"c":"dc-137","t":"D&C 137","v":[6],"l":"137:6"}]},{"m":"2b","refs":[{"c":"jacob-5","t":"Jacob 5","v":[61],"l":"Jacob 5:61"}]},{"m":"2c","refs":[{"c":"1ne-14","t":"1 Nephi 14","v":[1],"l":"1 Ne. 14:1, 14"}]},{"m":"2d","refs":[{"c":"jacob-5","t":"Jacob 5","v":[71],"l":"Jacob 5:71"},{"c":"dc-101","t":"D&C 101","v":[56],"l":"D&amp;C 101:56"}]},{"m":"2e","refs":[{"c":"jer-12","t":"Jeremiah 12","v":[10],"l":"Jer. 12:10"},{"c":"dc-138","t":"D&C 138","v":[56],"l":"D&amp;C 138:56"}]},{"m":"2f","refs":[{"c":"2ne-30","t":"2 Nephi 30","v":[10],"l":"2 Ne. 30:10"},{"c":"jacob-5","t":"Jacob 5","v":[29],"l":"Jacob 5:29"},{"c":"dc-43","t":"D&C 43","v":[17,18,19,20],"l":"D&amp;C 43:17 (17–20, 28)"}]}],"3":[{"m":"3a","refs":[{"c":"jacob-5","t":"Jacob 5","v":[71],"l":"Jacob 5:71"}]},{"m":"3c","refs":[{"c":"dc-41","t":"D&C 41","v":[1],"l":"D&amp;C 41:1"}]},{"m":"3e","refs":[{"c":"isa-24","t":"Isaiah 24","v":[6],"l":"Isa. 24:6"},{"c":"2ne-27","t":"2 Nephi 27","v":[2],"l":"2 Ne. 27:2"},{"c":"jacob-5","t":"Jacob 5","v":[77],"l":"Jacob 5:77"},{"c":"3ne-25","t":"3 Nephi 25","v":[1],"l":"3 Ne. 25:1"}]}],"4":[{"m":"4a","refs":[{"c":"2sam-7","t":"2 Samuel 7","v":[24],"l":"2 Sam. 7:24"}]},{"m":"4b","refs":[{"c":"neh-9","t":"Nehemiah 9","v":[18,19,20,21,22,23],"l":"Neh. 9:19 (18–26)"},{"c":"2ne-19","t":"2 Nephi 19","v":[17,18,19,20,21],"l":"2 Ne. 19:17 (17–21)"},{"c":"2ne-28","t":"2 Nephi 28","v":[32],"l":"28:32"},{"c":"jacob-5","t":"Jacob 5","v":[47],"l":"Jacob 5:47"}]}],"5":[{"m":"5a","refs":[{"c":"deut-10","t":"Deuteronomy 10","v":[20],"l":"Deut. 10:20"},{"c":"josh-23","t":"Joshua 23","v":[8],"l":"Josh. 23:8"},{"c":"2kgs-18","t":"2 Kings 18","v":[6],"l":"2 Kgs. 18:6"},{"c":"hel-4","t":"Helaman 4","v":[25],"l":"Hel. 4:25"},{"c":"dc-11","t":"D&C 11","v":[19],"l":"D&amp;C 11:19"}]},{"m":"5b","refs":[{"c":"isa-59","t":"Isaiah 59","v":[16],"l":"Isa. 59:16"},{"c":"2ne-1","t":"2 Nephi 1","v":[15],"l":"2 Ne. 1:15"},{"c":"alma-5","t":"Alma 5","v":[33],"l":"Alma 5:33"},{"c":"3ne-9","t":"3 Nephi 9","v":[14],"l":"3 Ne. 9:14"}]}],"6":[{"m":"6a","refs":[{"c":"ezek-18","t":"Ezekiel 18","v":[26,27,28],"l":"Ezek. 18:28 (26–28, 32)"}]}],"7":[{"m":"7a","refs":[{"c":"ps-119","t":"Psalm 119","v":[28],"l":"Ps. 119:28"}]},{"m":"7b","refs":[{"c":"alma-5","t":"Alma 5","v":[52],"l":"Alma 5:52"},{"c":"3ne-27","t":"3 Nephi 27","v":[11,12],"l":"3 Ne. 27:11 (11–12)"}]}],"8":[{"m":"8a","refs":[{"c":"jer-26","t":"Jeremiah 26","v":[5],"l":"Jer. 26:5"}]}],"9":[{"m":"9b","refs":[{"c":"jacob-7","t":"Jacob 7","v":[19],"l":"Jacob 7:19"},{"c":"mosiah-15","t":"Mosiah 15","v":[26],"l":"Mosiah 15:26"}]}],"10":[{"m":"10b","refs":[{"c":"rev-19","t":"Revelation 19","v":[20],"l":"Rev. 19:20"},{"c":"2ne-28","t":"2 Nephi 28","v":[23],"l":"2 Ne. 28:23"},{"c":"mosiah-3","t":"Mosiah 3","v":[27],"l":"Mosiah 3:27"}]},{"m":"10c","refs":[{"c":"mosiah-2","t":"Mosiah 2","v":[33],"l":"Mosiah 2:33"},{"c":"dc-19","t":"D&C 19","v":[10,11,12],"l":"D&amp;C 19:11 (10–12)"}]}],"11":[{"m":"11a","refs":[{"c":"2ne-9","t":"2 Nephi 9","v":[41],"l":"2 Ne. 9:41"}]},{"m":"11b","refs":[{"c":"2ne-31","t":"2 Nephi 31","v":[15],"l":"2 Ne. 31:15"}]}],"12":[{"m":"12a","refs":[{"c":"matt-10","t":"Matthew 10","v":[16],"l":"Matt. 10:16"},{"c":"morm-9","t":"Mormon 9","v":[28],"l":"Morm. 9:28"}]}],"13":[{"m":"13a","refs":[{"c":"moro-10","t":"Moroni 10","v":[34],"l":"Moro. 10:34"}]},{"m":"13b","refs":[{"c":"alma-40","t":"Alma 40","v":[14],"l":"Alma 40:14"}]}]}
+```
+
+- **1** 1a [[Jacob 5#^jacob-5-1|Jacob 5:1]] · [[Alma 33#^alma-33-13|Alma 33:13 (13–15)]]; 1b [[Romans 11#^rom-11-1|Rom. 11:21 (1–36)]] · [[1 Nephi 10#^1ne-10-12|1 Ne. 10:12]] · [[Jacob 5#^jacob-5-3|Jacob 5:3 (3–77)]]
+- **2** 2a [[1 Nephi 22#^1ne-22-10|1 Ne. 22:12 (10–12)]] · [[D&C 110#^dc-110-11|D&amp;C 110:11]] · [[D&C 137#^dc-137-6|137:6]]; 2b [[Jacob 5#^jacob-5-61|Jacob 5:61]]; 2c [[1 Nephi 14#^1ne-14-1|1 Ne. 14:1, 14]]; 2d [[Jacob 5#^jacob-5-71|Jacob 5:71]] · [[D&C 101#^dc-101-56|D&amp;C 101:56]]; 2e [[Jeremiah 12#^jer-12-10|Jer. 12:10]] · [[D&C 138#^dc-138-56|D&amp;C 138:56]]; 2f [[2 Nephi 30#^2ne-30-10|2 Ne. 30:10]] · [[Jacob 5#^jacob-5-29|Jacob 5:29]] · [[D&C 43#^dc-43-17|D&amp;C 43:17 (17–20, 28)]]
+- **3** 3a [[Jacob 5#^jacob-5-71|Jacob 5:71]]; 3c [[D&C 41#^dc-41-1|D&amp;C 41:1]]; 3e [[Isaiah 24#^isa-24-6|Isa. 24:6]] · [[2 Nephi 27#^2ne-27-2|2 Ne. 27:2]] · [[Jacob 5#^jacob-5-77|Jacob 5:77]] · [[3 Nephi 25#^3ne-25-1|3 Ne. 25:1]]
+- **4** 4a [[2 Samuel 7#^2sam-7-24|2 Sam. 7:24]]; 4b [[Nehemiah 9#^neh-9-18|Neh. 9:19 (18–26)]] · [[2 Nephi 19#^2ne-19-17|2 Ne. 19:17 (17–21)]] · [[2 Nephi 28#^2ne-28-32|28:32]] · [[Jacob 5#^jacob-5-47|Jacob 5:47]]
+- **5** 5a [[Deuteronomy 10#^deut-10-20|Deut. 10:20]] · [[Joshua 23#^josh-23-8|Josh. 23:8]] · [[2 Kings 18#^2kgs-18-6|2 Kgs. 18:6]] · [[Helaman 4#^hel-4-25|Hel. 4:25]] · [[D&C 11#^dc-11-19|D&amp;C 11:19]]; 5b [[Isaiah 59#^isa-59-16|Isa. 59:16]] · [[2 Nephi 1#^2ne-1-15|2 Ne. 1:15]] · [[Alma 5#^alma-5-33|Alma 5:33]] · [[3 Nephi 9#^3ne-9-14|3 Ne. 9:14]]
+- **6** 6a [[Ezekiel 18#^ezek-18-26|Ezek. 18:28 (26–28, 32)]]
+- **7** 7a [[Psalm 119#^ps-119-28|Ps. 119:28]]; 7b [[Alma 5#^alma-5-52|Alma 5:52]] · [[3 Nephi 27#^3ne-27-11|3 Ne. 27:11 (11–12)]]
+- **8** 8a [[Jeremiah 26#^jer-26-5|Jer. 26:5]]
+- **9** 9b [[Jacob 7#^jacob-7-19|Jacob 7:19]] · [[Mosiah 15#^mosiah-15-26|Mosiah 15:26]]
+- **10** 10b [[Revelation 19#^rev-19-20|Rev. 19:20]] · [[2 Nephi 28#^2ne-28-23|2 Ne. 28:23]] · [[Mosiah 3#^mosiah-3-27|Mosiah 3:27]]; 10c [[Mosiah 2#^mosiah-2-33|Mosiah 2:33]] · [[D&C 19#^dc-19-10|D&amp;C 19:11 (10–12)]]
+- **11** 11a [[2 Nephi 9#^2ne-9-41|2 Ne. 9:41]]; 11b [[2 Nephi 31#^2ne-31-15|2 Ne. 31:15]]
+- **12** 12a [[Matthew 10#^matt-10-16|Matt. 10:16]] · [[Mormon 9#^morm-9-28|Morm. 9:28]]
+- **13** 13a [[Moroni 10#^moro-10-34|Moro. 10:34]]; 13b [[Alma 40#^alma-40-14|Alma 40:14]]

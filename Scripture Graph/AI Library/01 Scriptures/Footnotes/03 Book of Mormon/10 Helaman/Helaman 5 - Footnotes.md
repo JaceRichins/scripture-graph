@@ -1,0 +1,55 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: hel-5
+verses: 34
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# Helaman 5 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> Nephi and Lehi devote themselves to preaching—Their names invite them to pattern their lives after their forebears—Christ redeems those who repent—Nephi and Lehi make many converts and are imprisoned, and fire encircles them—A cloud of darkness overshadows three hundred people—The earth shakes, and a voice commands men to repent—Nephi and Lehi converse with angels, and the multitude is encircled by fire. About 30 B.C.
+
+```json
+{"1":[{"m":"1a","refs":[{"c":"hel-3","t":"Helaman 3","v":[37],"l":"Hel. 3:37"}]},{"m":"1b","refs":[{"c":"alma-4","t":"Alma 4","v":[15,16,17,18,19,20],"l":"Alma 4:20 (15–20)"}]},{"m":"1c","refs":[{"c":"hel-6","t":"Helaman 6","v":[15],"l":"Hel. 6:15"}]}],"2":[{"m":"2a","refs":[{"c":"mosiah-29","t":"Mosiah 29","v":[25,26,27],"l":"Mosiah 29:25 (25–27)"},{"c":"hel-1","t":"Helaman 1","v":[3,4,5],"l":"Hel. 1:5 (3–5, 13)"}]},{"m":"2b","refs":[{"c":"alma-10","t":"Alma 10","v":[19],"l":"Alma 10:19"}]},{"m":"2c","refs":[{"c":"4ne-1","t":"4 Nephi 1","v":[40],"l":"4 Ne. 1:40"}]},{"m":"2d","refs":[{"c":"hel-6","t":"Helaman 6","v":[40],"l":"Hel. 6:40"},{"c":"hel-10","t":"Helaman 10","v":[11],"l":"10:11"},{"c":"dc-18","t":"D&C 18","v":[6],"l":"D&amp;C 18:6"},{"c":"dc-61","t":"D&C 61","v":[31],"l":"61:31"}]}],"5":[{"m":"5a","refs":[{"c":"hel-3","t":"Helaman 3","v":[21],"l":"Hel. 3:21 (21, 37)"}]}],"6":[{"m":"6a","refs":[{"c":"1ne-1","t":"1 Nephi 1","v":[1],"l":"1 Ne. 1:4 (1, 4)"}]},{"m":"6b","refs":[{"c":"2ne-4","t":"2 Nephi 4","v":[12],"l":"2 Ne. 4:12"},{"c":"2ne-33","t":"2 Nephi 33","v":[1,2,3,4,5,6],"l":"33:3 (1–15)"},{"c":"jacob-1","t":"Jacob 1","v":[9,10,11,12],"l":"Jacob 1:10 (9–12)"}]}],"8":[{"m":"8a","refs":[{"c":"hel-8","t":"Helaman 8","v":[25],"l":"Hel. 8:25"},{"c":"3ne-13","t":"3 Nephi 13","v":[19,20,21],"l":"3 Ne. 13:20 (19–21)"}]},{"m":"8b","refs":[{"c":"1ne-15","t":"1 Nephi 15","v":[36],"l":"1 Ne. 15:36"}]}],"9":[{"m":"9a","refs":[{"c":"mosiah-2","t":"Mosiah 2","v":[9],"l":"Mosiah 2:9"}]},{"m":"9b","refs":[{"c":"mosiah-3","t":"Mosiah 3","v":[18],"l":"Mosiah 3:18"},{"c":"mosiah-4","t":"Mosiah 4","v":[2],"l":"4:2"}]}],"10":[{"m":"10a","refs":[{"c":"alma-11","t":"Alma 11","v":[34],"l":"Alma 11:34"}]}],"11":[{"m":"11a","refs":[{"c":"alma-13","t":"Alma 13","v":[24,25],"l":"Alma 13:24 (24–25)"},{"c":"alma-39","t":"Alma 39","v":[19],"l":"39:19"}]}],"12":[{"m":"12a","refs":[{"c":"ps-71","t":"Psalm 71","v":[3],"l":"Ps. 71:3"},{"c":"matt-7","t":"Matthew 7","v":[24,25,26,27],"l":"Matt. 7:24 (24–27)"},{"c":"dc-6","t":"D&C 6","v":[34],"l":"D&amp;C 6:34"},{"c":"moses-7","t":"Moses 7","v":[53],"l":"Moses 7:53"}]},{"m":"12b","refs":[{"c":"isa-28","t":"Isaiah 28","v":[14,15,16,17],"l":"Isa. 28:16 (14–17)"},{"c":"jacob-4","t":"Jacob 4","v":[16],"l":"Jacob 4:16"}]},{"m":"12c","refs":[{"c":"alma-26","t":"Alma 26","v":[6],"l":"Alma 26:6"},{"c":"3ne-14","t":"3 Nephi 14","v":[25],"l":"3 Ne. 14:25 (25, 27)"}]}],"13":[{"m":"13a","refs":[{"c":"mosiah-1","t":"Mosiah 1","v":[4],"l":"Mosiah 1:4"},{"c":"alma-18","t":"Alma 18","v":[36],"l":"Alma 18:36"},{"c":"alma-36","t":"Alma 36","v":[1],"l":"36:1"},{"c":"moses-6","t":"Moses 6","v":[58],"l":"Moses 6:58"}]}],"16":[{"m":"16a","refs":[{"c":"hel-4","t":"Helaman 4","v":[5],"l":"Hel. 4:5"}]}],"17":[{"m":"17a","refs":[{"c":"hel-4","t":"Helaman 4","v":[14],"l":"Hel. 4:14"}]},{"m":"17c","refs":[{"c":"hel-4","t":"Helaman 4","v":[2],"l":"Hel. 4:4 (2, 4)"}]}],"18":[{"m":"18a","refs":[{"c":"dc-24","t":"D&C 24","v":[6],"l":"D&amp;C 24:6"},{"c":"dc-100","t":"D&C 100","v":[5,6,7,8],"l":"100:5 (5–8)"}]}],"19":[{"m":"19b","refs":[{"c":"mal-2","t":"Malachi 2","v":[6],"l":"Mal. 2:6"}]},{"m":"19c","refs":[{"c":"hel-15","t":"Helaman 15","v":[4],"l":"Hel. 15:4"}]}],"20":[{"m":"20a","refs":[{"c":"alma-22","t":"Alma 22","v":[1],"l":"Alma 22:1"}]}],"21":[{"m":"21a","refs":[{"c":"mosiah-7","t":"Mosiah 7","v":[6,7,8],"l":"Mosiah 7:7 (6–8)"},{"c":"mosiah-21","t":"Mosiah 21","v":[22,23,24],"l":"21:23 (22–24)"}]}],"23":[{"m":"23a","refs":[{"c":"ex-24","t":"Exodus 24","v":[17],"l":"Ex. 24:17"},{"c":"dc-137","t":"D&C 137","v":[2],"l":"D&amp;C 137:2"}]},{"m":"23b","refs":[{"c":"ex-3","t":"Exodus 3","v":[2],"l":"Ex. 3:2"},{"c":"dan-3","t":"Daniel 3","v":[25],"l":"Dan. 3:25 (25, 27)"}]}],"24":[{"m":"24a","refs":[{"c":"ex-14","t":"Exodus 14","v":[24],"l":"Ex. 14:24"},{"c":"1ne-1","t":"1 Nephi 1","v":[6],"l":"1 Ne. 1:6"},{"c":"dc-29","t":"D&C 29","v":[12],"l":"D&amp;C 29:12"},{"c":"jsh-1","t":"Joseph Smith—History 1","v":[16],"l":"JS—H 1:16"}]}],"26":[{"m":"26a","refs":[{"c":"dan-10","t":"Daniel 10","v":[12],"l":"Dan. 10:12"}]}],"28":[{"m":"28a","refs":[{"c":"ex-14","t":"Exodus 14","v":[20],"l":"Ex. 14:20"}]}],"29":[{"m":"29a","refs":[{"c":"deut-4","t":"Deuteronomy 4","v":[33],"l":"Deut. 4:33"},{"c":"3ne-11","t":"3 Nephi 11","v":[3,4,5,6,7,8],"l":"3 Ne. 11:3 (3–14)"}]}],"30":[{"m":"30a","refs":[{"c":"moses-1","t":"Moses 1","v":[25],"l":"Moses 1:25"}]},{"m":"30b","refs":[{"c":"1kgs-19","t":"1 Kings 19","v":[12],"l":"1 Kgs. 19:12"},{"c":"dc-85","t":"D&C 85","v":[6,7],"l":"D&amp;C 85:6 (6–7)"}]}],"32":[{"m":"32a","refs":[{"c":"matt-3","t":"Matthew 3","v":[2,3],"l":"Matt. 3:2 (2–3)"},{"c":"alma-7","t":"Alma 7","v":[9],"l":"Alma 7:9"},{"c":"alma-9","t":"Alma 9","v":[25,26],"l":"9:25 (25–26)"}]}],"33":[{"m":"33a","refs":[{"c":"rom-8","t":"Romans 8","v":[26],"l":"Rom. 8:26"}]}],"36":[{"m":"36a","refs":[{"c":"ex-34","t":"Exodus 34","v":[29,30,31,32,33,34],"l":"Ex. 34:29 (29–35)"},{"c":"acts-6","t":"Acts 6","v":[15],"l":"Acts 6:15"}]}],"40":[{"m":"40a","refs":[{"c":"acts-2","t":"Acts 2","v":[37,38,39],"l":"Acts 2:37 (37–39)"}]}],"41":[{"m":"41c","refs":[{"c":"alma-31","t":"Alma 31","v":[5,6,7,8,9,10],"l":"Alma 31:6 (5–38)"}]}],"43":[{"m":"43a","refs":[{"c":"3ne-17","t":"3 Nephi 17","v":[24],"l":"3 Ne. 17:24"},{"c":"3ne-19","t":"3 Nephi 19","v":[14],"l":"19:14"}]}],"44":[{"m":"44a","refs":[{"c":"hel-6","t":"Helaman 6","v":[6],"l":"Hel. 6:6"}]},{"m":"44b","refs":[{"c":"hel-11","t":"Helaman 11","v":[19],"l":"Hel. 11:19"}]}],"45":[{"m":"45a","refs":[{"c":"3ne-9","t":"3 Nephi 9","v":[20],"l":"3 Ne. 9:20"},{"c":"3ne-19","t":"3 Nephi 19","v":[13,14],"l":"19:14 (13–14)"},{"c":"ether-12","t":"Ether 12","v":[14],"l":"Ether 12:14"}]}],"48":[{"m":"48a","refs":[{"c":"acts-7","t":"Acts 7","v":[55,56],"l":"Acts 7:56 (55–56)"},{"c":"1ne-1","t":"1 Nephi 1","v":[8],"l":"1 Ne. 1:8"}]}],"50":[{"m":"50a","refs":[{"c":"ether-12","t":"Ether 12","v":[14],"l":"Ether 12:14"}]}],"51":[{"m":"51a","refs":[{"c":"alma-31","t":"Alma 31","v":[5],"l":"Alma 31:5"}]}],"52":[{"m":"52a","refs":[{"c":"hel-4","t":"Helaman 4","v":[5],"l":"Hel. 4:5 (5, 18–19)"}]}]}
+```
+
+- **1** 1a [[Helaman 3#^hel-3-37|Hel. 3:37]]; 1b [[Alma 4#^alma-4-15|Alma 4:20 (15–20)]]; 1c [[Helaman 6#^hel-6-15|Hel. 6:15]]
+- **2** 2a [[Mosiah 29#^mosiah-29-25|Mosiah 29:25 (25–27)]] · [[Helaman 1#^hel-1-3|Hel. 1:5 (3–5, 13)]]; 2b [[Alma 10#^alma-10-19|Alma 10:19]]; 2c [[4 Nephi 1#^4ne-1-40|4 Ne. 1:40]]; 2d [[Helaman 6#^hel-6-40|Hel. 6:40]] · [[Helaman 10#^hel-10-11|10:11]] · [[D&C 18#^dc-18-6|D&amp;C 18:6]] · [[D&C 61#^dc-61-31|61:31]]
+- **5** 5a [[Helaman 3#^hel-3-21|Hel. 3:21 (21, 37)]]
+- **6** 6a [[1 Nephi 1#^1ne-1-1|1 Ne. 1:4 (1, 4)]]; 6b [[2 Nephi 4#^2ne-4-12|2 Ne. 4:12]] · [[2 Nephi 33#^2ne-33-1|33:3 (1–15)]] · [[Jacob 1#^jacob-1-9|Jacob 1:10 (9–12)]]
+- **8** 8a [[Helaman 8#^hel-8-25|Hel. 8:25]] · [[3 Nephi 13#^3ne-13-19|3 Ne. 13:20 (19–21)]]; 8b [[1 Nephi 15#^1ne-15-36|1 Ne. 15:36]]
+- **9** 9a [[Mosiah 2#^mosiah-2-9|Mosiah 2:9]]; 9b [[Mosiah 3#^mosiah-3-18|Mosiah 3:18]] · [[Mosiah 4#^mosiah-4-2|4:2]]
+- **10** 10a [[Alma 11#^alma-11-34|Alma 11:34]]
+- **11** 11a [[Alma 13#^alma-13-24|Alma 13:24 (24–25)]] · [[Alma 39#^alma-39-19|39:19]]
+- **12** 12a [[Psalm 71#^ps-71-3|Ps. 71:3]] · [[Matthew 7#^matt-7-24|Matt. 7:24 (24–27)]] · [[D&C 6#^dc-6-34|D&amp;C 6:34]] · [[Moses 7#^moses-7-53|Moses 7:53]]; 12b [[Isaiah 28#^isa-28-14|Isa. 28:16 (14–17)]] · [[Jacob 4#^jacob-4-16|Jacob 4:16]]; 12c [[Alma 26#^alma-26-6|Alma 26:6]] · [[3 Nephi 14#^3ne-14-25|3 Ne. 14:25 (25, 27)]]
+- **13** 13a [[Mosiah 1#^mosiah-1-4|Mosiah 1:4]] · [[Alma 18#^alma-18-36|Alma 18:36]] · [[Alma 36#^alma-36-1|36:1]] · [[Moses 6#^moses-6-58|Moses 6:58]]
+- **16** 16a [[Helaman 4#^hel-4-5|Hel. 4:5]]
+- **17** 17a [[Helaman 4#^hel-4-14|Hel. 4:14]]; 17c [[Helaman 4#^hel-4-2|Hel. 4:4 (2, 4)]]
+- **18** 18a [[D&C 24#^dc-24-6|D&amp;C 24:6]] · [[D&C 100#^dc-100-5|100:5 (5–8)]]
+- **19** 19b [[Malachi 2#^mal-2-6|Mal. 2:6]]; 19c [[Helaman 15#^hel-15-4|Hel. 15:4]]
+- **20** 20a [[Alma 22#^alma-22-1|Alma 22:1]]
+- **21** 21a [[Mosiah 7#^mosiah-7-6|Mosiah 7:7 (6–8)]] · [[Mosiah 21#^mosiah-21-22|21:23 (22–24)]]
+- **23** 23a [[Exodus 24#^ex-24-17|Ex. 24:17]] · [[D&C 137#^dc-137-2|D&amp;C 137:2]]; 23b [[Exodus 3#^ex-3-2|Ex. 3:2]] · [[Daniel 3#^dan-3-25|Dan. 3:25 (25, 27)]]
+- **24** 24a [[Exodus 14#^ex-14-24|Ex. 14:24]] · [[1 Nephi 1#^1ne-1-6|1 Ne. 1:6]] · [[D&C 29#^dc-29-12|D&amp;C 29:12]] · [[Joseph Smith—History 1#^jsh-1-16|JS—H 1:16]]
+- **26** 26a [[Daniel 10#^dan-10-12|Dan. 10:12]]
+- **28** 28a [[Exodus 14#^ex-14-20|Ex. 14:20]]
+- **29** 29a [[Deuteronomy 4#^deut-4-33|Deut. 4:33]] · [[3 Nephi 11#^3ne-11-3|3 Ne. 11:3 (3–14)]]
+- **30** 30a [[Moses 1#^moses-1-25|Moses 1:25]]; 30b [[1 Kings 19#^1kgs-19-12|1 Kgs. 19:12]] · [[D&C 85#^dc-85-6|D&amp;C 85:6 (6–7)]]
+- **32** 32a [[Matthew 3#^matt-3-2|Matt. 3:2 (2–3)]] · [[Alma 7#^alma-7-9|Alma 7:9]] · [[Alma 9#^alma-9-25|9:25 (25–26)]]
+- **33** 33a [[Romans 8#^rom-8-26|Rom. 8:26]]
+- **36** 36a [[Exodus 34#^ex-34-29|Ex. 34:29 (29–35)]] · [[Acts 6#^acts-6-15|Acts 6:15]]
+- **40** 40a [[Acts 2#^acts-2-37|Acts 2:37 (37–39)]]
+- **41** 41c [[Alma 31#^alma-31-5|Alma 31:6 (5–38)]]
+- **43** 43a [[3 Nephi 17#^3ne-17-24|3 Ne. 17:24]] · [[3 Nephi 19#^3ne-19-14|19:14]]
+- **44** 44a [[Helaman 6#^hel-6-6|Hel. 6:6]]; 44b [[Helaman 11#^hel-11-19|Hel. 11:19]]
+- **45** 45a [[3 Nephi 9#^3ne-9-20|3 Ne. 9:20]] · [[3 Nephi 19#^3ne-19-13|19:14 (13–14)]] · [[Ether 12#^ether-12-14|Ether 12:14]]
+- **48** 48a [[Acts 7#^acts-7-55|Acts 7:56 (55–56)]] · [[1 Nephi 1#^1ne-1-8|1 Ne. 1:8]]
+- **50** 50a [[Ether 12#^ether-12-14|Ether 12:14]]
+- **51** 51a [[Alma 31#^alma-31-5|Alma 31:5]]
+- **52** 52a [[Helaman 4#^hel-4-5|Hel. 4:5 (5, 18–19)]]

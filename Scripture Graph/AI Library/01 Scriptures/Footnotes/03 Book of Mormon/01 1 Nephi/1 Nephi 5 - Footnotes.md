@@ -1,0 +1,35 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: 1ne-5
+verses: 14
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# 1 Nephi 5 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> Sariah complains against Lehi—Both rejoice over the return of their sons—They offer sacrifices—The plates of brass contain writings of Moses and the prophets—The plates identify Lehi as a descendant of Joseph—Lehi prophesies concerning his seed and the preservation of the plates. About 600–592 B.C.
+
+```json
+{"2":[{"m":"2b","refs":[{"c":"gen-37","t":"Genesis 37","v":[8],"l":"Gen. 37:19 (8, 19)"}]}],"4":[{"m":"4a","refs":[{"c":"1ne-2","t":"1 Nephi 2","v":[11],"l":"1 Ne. 2:11"},{"c":"1ne-17","t":"1 Nephi 17","v":[20],"l":"17:20"}]},{"m":"4b","refs":[{"c":"1ne-1","t":"1 Nephi 1","v":[8,9,10,11,12,13],"l":"1 Ne. 1:8 (8–13)"},{"c":"1ne-3","t":"1 Nephi 3","v":[17,18],"l":"3:18 (17–18)"}]}],"5":[{"m":"5a","refs":[{"c":"eph-1","t":"Ephesians 1","v":[11],"l":"Eph. 1:11"},{"c":"heb-6","t":"Hebrews 6","v":[13,14,15],"l":"Heb. 6:15 (13–15)"}]},{"m":"5b","refs":[{"c":"1ne-2","t":"1 Nephi 2","v":[20],"l":"1 Ne. 2:20"},{"c":"1ne-18","t":"1 Nephi 18","v":[8],"l":"18:8 (8, 22–23)"}]}],"8":[{"m":"8a","refs":[{"c":"1ne-2","t":"1 Nephi 2","v":[2],"l":"1 Ne. 2:2"}]},{"m":"8b","refs":[{"c":"gen-19","t":"Genesis 19","v":[14],"l":"Gen. 19:14"}]},{"m":"8c","refs":[{"c":"1ne-3","t":"1 Nephi 3","v":[7],"l":"1 Ne. 3:7"}]}],"9":[{"m":"9a","refs":[{"c":"1ne-7","t":"1 Nephi 7","v":[22],"l":"1 Ne. 7:22"},{"c":"mosiah-2","t":"Mosiah 2","v":[3],"l":"Mosiah 2:3"},{"c":"3ne-9","t":"3 Nephi 9","v":[19],"l":"3 Ne. 9:19"}]}],"10":[{"m":"10a","refs":[{"c":"1ne-4","t":"1 Nephi 4","v":[24],"l":"1 Ne. 4:24 (24, 38)"},{"c":"1ne-13","t":"1 Nephi 13","v":[23],"l":"13:23"}]}],"11":[{"m":"11a","refs":[{"c":"ex-17","t":"Exodus 17","v":[14],"l":"Ex. 17:14"},{"c":"deut-31","t":"Deuteronomy 31","v":[9],"l":"Deut. 31:9"},{"c":"luke-16","t":"Luke 16","v":[29],"l":"Luke 16:29"},{"c":"luke-24","t":"Luke 24","v":[27],"l":"24:27"},{"c":"1ne-19","t":"1 Nephi 19","v":[23],"l":"1 Ne. 19:23"},{"c":"moses-1","t":"Moses 1","v":[40,41],"l":"Moses 1:41 (40–41)"}]}],"12":[{"m":"12a","refs":[{"c":"1chr-9","t":"1 Chronicles 9","v":[1],"l":"1 Chr. 9:1"}]}],"13":[{"m":"13a","refs":[{"c":"2kgs-24","t":"2 Kings 24","v":[18],"l":"2 Kgs. 24:18"},{"c":"jer-37","t":"Jeremiah 37","v":[1],"l":"Jer. 37:1"}]},{"m":"13b","refs":[{"c":"ezra-1","t":"Ezra 1","v":[1],"l":"Ezra 1:1"},{"c":"jer-36","t":"Jeremiah 36","v":[17,18,19,20,21,22],"l":"Jer. 36:32 (17–32)"},{"c":"1ne-7","t":"1 Nephi 7","v":[14],"l":"1 Ne. 7:14"},{"c":"hel-8","t":"Helaman 8","v":[20],"l":"Hel. 8:20"}]}],"14":[{"m":"14a","refs":[{"c":"mosiah-2","t":"Mosiah 2","v":[34],"l":"Mosiah 2:34"}]},{"m":"14b","refs":[{"c":"1ne-3","t":"1 Nephi 3","v":[3],"l":"1 Ne. 3:3, 12"},{"c":"jarom-1","t":"Jarom 1","v":[1],"l":"Jarom 1:1"}]},{"m":"14d","refs":[{"c":"2ne-3","t":"2 Nephi 3","v":[4],"l":"2 Ne. 3:4"},{"c":"alma-10","t":"Alma 10","v":[3],"l":"Alma 10:3"}]},{"m":"14e","refs":[{"c":"gen-25","t":"Genesis 25","v":[26],"l":"Gen. 25:26"},{"c":"2ne-20","t":"2 Nephi 20","v":[21],"l":"2 Ne. 20:21"},{"c":"alma-7","t":"Alma 7","v":[25],"l":"Alma 7:25"},{"c":"dc-27","t":"D&C 27","v":[10],"l":"D&amp;C 27:10"}]},{"m":"14f","refs":[{"c":"gen-37","t":"Genesis 37","v":[29,30,31,32,33,34],"l":"Gen. 37:36 (29–36)"}]}],"15":[{"m":"15a","refs":[{"c":"gen-15","t":"Genesis 15","v":[13,14],"l":"Gen. 15:14 (13–14)"},{"c":"ex-15","t":"Exodus 15","v":[13],"l":"Ex. 15:13"},{"c":"amos-3","t":"Amos 3","v":[1,2],"l":"Amos 3:1 (1–2)"},{"c":"1ne-17","t":"1 Nephi 17","v":[23,24,25,26,27,28],"l":"1 Ne. 17:31 (23–31)"},{"c":"1ne-19","t":"1 Nephi 19","v":[10],"l":"19:10"},{"c":"dc-103","t":"D&C 103","v":[16,17,18],"l":"D&amp;C 103:16 (16–18)"},{"c":"dc-136","t":"D&C 136","v":[22],"l":"136:22"}]}],"16":[{"m":"16a","refs":[{"c":"2chr-15","t":"2 Chronicles 15","v":[9],"l":"2 Chr. 15:9"},{"c":"1ne-6","t":"1 Nephi 6","v":[2],"l":"1 Ne. 6:2"}]}],"18":[{"m":"18a","refs":[{"c":"alma-22","t":"Alma 22","v":[12],"l":"Alma 22:12"}]},{"m":"18b","refs":[{"c":"jsh-1","t":"Joseph Smith—History 1","v":[33],"l":"JS—H 1:33"}]}],"19":[{"m":"19a","refs":[{"c":"alma-37","t":"Alma 37","v":[4],"l":"Alma 37:4"}]}]}
+```
+
+- **2** 2b [[Genesis 37#^gen-37-8|Gen. 37:19 (8, 19)]]
+- **4** 4a [[1 Nephi 2#^1ne-2-11|1 Ne. 2:11]] · [[1 Nephi 17#^1ne-17-20|17:20]]; 4b [[1 Nephi 1#^1ne-1-8|1 Ne. 1:8 (8–13)]] · [[1 Nephi 3#^1ne-3-17|3:18 (17–18)]]
+- **5** 5a [[Ephesians 1#^eph-1-11|Eph. 1:11]] · [[Hebrews 6#^heb-6-13|Heb. 6:15 (13–15)]]; 5b [[1 Nephi 2#^1ne-2-20|1 Ne. 2:20]] · [[1 Nephi 18#^1ne-18-8|18:8 (8, 22–23)]]
+- **8** 8a [[1 Nephi 2#^1ne-2-2|1 Ne. 2:2]]; 8b [[Genesis 19#^gen-19-14|Gen. 19:14]]; 8c [[1 Nephi 3#^1ne-3-7|1 Ne. 3:7]]
+- **9** 9a [[1 Nephi 7#^1ne-7-22|1 Ne. 7:22]] · [[Mosiah 2#^mosiah-2-3|Mosiah 2:3]] · [[3 Nephi 9#^3ne-9-19|3 Ne. 9:19]]
+- **10** 10a [[1 Nephi 4#^1ne-4-24|1 Ne. 4:24 (24, 38)]] · [[1 Nephi 13#^1ne-13-23|13:23]]
+- **11** 11a [[Exodus 17#^ex-17-14|Ex. 17:14]] · [[Deuteronomy 31#^deut-31-9|Deut. 31:9]] · [[Luke 16#^luke-16-29|Luke 16:29]] · [[Luke 24#^luke-24-27|24:27]] · [[1 Nephi 19#^1ne-19-23|1 Ne. 19:23]] · [[Moses 1#^moses-1-40|Moses 1:41 (40–41)]]
+- **12** 12a [[1 Chronicles 9#^1chr-9-1|1 Chr. 9:1]]
+- **13** 13a [[2 Kings 24#^2kgs-24-18|2 Kgs. 24:18]] · [[Jeremiah 37#^jer-37-1|Jer. 37:1]]; 13b [[Ezra 1#^ezra-1-1|Ezra 1:1]] · [[Jeremiah 36#^jer-36-17|Jer. 36:32 (17–32)]] · [[1 Nephi 7#^1ne-7-14|1 Ne. 7:14]] · [[Helaman 8#^hel-8-20|Hel. 8:20]]
+- **14** 14a [[Mosiah 2#^mosiah-2-34|Mosiah 2:34]]; 14b [[1 Nephi 3#^1ne-3-3|1 Ne. 3:3, 12]] · [[Jarom 1#^jarom-1-1|Jarom 1:1]]; 14d [[2 Nephi 3#^2ne-3-4|2 Ne. 3:4]] · [[Alma 10#^alma-10-3|Alma 10:3]]; 14e [[Genesis 25#^gen-25-26|Gen. 25:26]] · [[2 Nephi 20#^2ne-20-21|2 Ne. 20:21]] · [[Alma 7#^alma-7-25|Alma 7:25]] · [[D&C 27#^dc-27-10|D&amp;C 27:10]]; 14f [[Genesis 37#^gen-37-29|Gen. 37:36 (29–36)]]
+- **15** 15a [[Genesis 15#^gen-15-13|Gen. 15:14 (13–14)]] · [[Exodus 15#^ex-15-13|Ex. 15:13]] · [[Amos 3#^amos-3-1|Amos 3:1 (1–2)]] · [[1 Nephi 17#^1ne-17-23|1 Ne. 17:31 (23–31)]] · [[1 Nephi 19#^1ne-19-10|19:10]] · [[D&C 103#^dc-103-16|D&amp;C 103:16 (16–18)]] · [[D&C 136#^dc-136-22|136:22]]
+- **16** 16a [[2 Chronicles 15#^2chr-15-9|2 Chr. 15:9]] · [[1 Nephi 6#^1ne-6-2|1 Ne. 6:2]]
+- **18** 18a [[Alma 22#^alma-22-12|Alma 22:12]]; 18b [[Joseph Smith—History 1#^jsh-1-33|JS—H 1:33]]
+- **19** 19a [[Alma 37#^alma-37-4|Alma 37:4]]

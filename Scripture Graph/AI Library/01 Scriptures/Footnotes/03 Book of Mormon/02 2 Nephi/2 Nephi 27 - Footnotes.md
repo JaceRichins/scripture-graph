@@ -1,0 +1,50 @@
+---
+ownership: ai
+mutable: engine
+content_type: footnotes
+slug: 2ne-27
+verses: 29
+updated_at: '2026-09-06T23:26:27Z'
+cssclasses:
+- sg-ai
+---
+
+# 2 Nephi 27 — Footnotes
+
+The official study footnotes for this chapter, verse by verse. The reader shows them on the verse; this page is the same data, readable.
+
+> Darkness and apostasy will cover the earth in the last days—The Book of Mormon will come forth—Three witnesses will testify of the book—The learned man will say he cannot read the sealed book—The Lord will do a marvelous work and a wonder—Compare Isaiah 29. About 559–545 B.C.
+
+```json
+{"1":[{"m":"1b","refs":[{"c":"isa-29","t":"Isaiah 29","v":[9],"l":"Isa. 29:9"}]}],"2":[{"m":"2a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[6,7,8,9,10],"l":"Isa. 29:6 (6–10)"},{"c":"morm-8","t":"Mormon 8","v":[29],"l":"Morm. 8:29"}]},{"m":"2b","refs":[{"c":"isa-24","t":"Isaiah 24","v":[6],"l":"Isa. 24:6"},{"c":"isa-66","t":"Isaiah 66","v":[16],"l":"66:16"},{"c":"jacob-6","t":"Jacob 6","v":[3],"l":"Jacob 6:3"},{"c":"3ne-25","t":"3 Nephi 25","v":[1],"l":"3 Ne. 25:1"}]}],"3":[{"m":"3a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[7,8],"l":"Isa. 29:7 (7–8)"}]},{"m":"3b","refs":[{"c":"1ne-22","t":"1 Nephi 22","v":[14],"l":"1 Ne. 22:14"}]}],"4":[{"m":"4a","refs":[{"c":"rev-17","t":"Revelation 17","v":[1,2,3,4,5,6],"l":"Rev. 17:6 (1–6)"},{"c":"2ne-8","t":"2 Nephi 8","v":[21],"l":"2 Ne. 8:21"}]}],"5":[{"m":"5b","refs":[{"c":"2chr-24","t":"2 Chronicles 24","v":[19],"l":"2 Chr. 24:19"},{"c":"jer-26","t":"Jeremiah 26","v":[5],"l":"Jer. 26:5"},{"c":"jer-37","t":"Jeremiah 37","v":[15],"l":"37:15"},{"c":"zech-1","t":"Zechariah 1","v":[2,3,4,5],"l":"Zech. 1:4 (2–5)"}]}],"6":[{"m":"6a","refs":[{"c":"jarom-1","t":"Jarom 1","v":[2],"l":"Jarom 1:2"},{"c":"morm-5","t":"Mormon 5","v":[12,13],"l":"Morm. 5:12 (12–13)"}]},{"m":"6b","refs":[{"c":"2ne-26","t":"2 Nephi 26","v":[16,17],"l":"2 Ne. 26:17 (16–17)"},{"c":"2ne-29","t":"2 Nephi 29","v":[12],"l":"29:12"}]}],"7":[{"m":"7a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[11,12],"l":"Isa. 29:11 (11–12)"},{"c":"ether-3","t":"Ether 3","v":[27],"l":"Ether 3:27"}]},{"m":"7b","refs":[{"c":"mosiah-8","t":"Mosiah 8","v":[19],"l":"Mosiah 8:19"},{"c":"ether-3","t":"Ether 3","v":[20,21,22,23,24,25],"l":"Ether 3:25 (20–28)"},{"c":"ether-4","t":"Ether 4","v":[4],"l":"4:4"}]},{"m":"7c","refs":[{"c":"ether-1","t":"Ether 1","v":[2,3,4],"l":"Ether 1:2–4"},{"c":"ether-13","t":"Ether 13","v":[1,2,3,4,5,6],"l":"13:1–13"}]}],"8":[{"m":"8a","refs":[{"c":"3ne-26","t":"3 Nephi 26","v":[7,8,9,10,11,12],"l":"3 Ne. 26:9 (7–12, 18)"},{"c":"ether-4","t":"Ether 4","v":[5],"l":"Ether 4:5"},{"c":"ether-5","t":"Ether 5","v":[1],"l":"5:1"},{"c":"dc-17","t":"D&C 17","v":[6],"l":"D&amp;C 17:6"}]}],"9":[{"m":"9a","refs":[{"c":"jsh-1","t":"Joseph Smith—History 1","v":[64],"l":"JS—H 1:64"}]}],"10":[{"m":"10a","refs":[{"c":"dan-12","t":"Daniel 12","v":[9],"l":"Dan. 12:9"},{"c":"1ne-14","t":"1 Nephi 14","v":[26],"l":"1 Ne. 14:26"},{"c":"dc-35","t":"D&C 35","v":[18],"l":"D&amp;C 35:18"},{"c":"jsh-1","t":"Joseph Smith—History 1","v":[65],"l":"JS—H 1:65"}]},{"m":"10b","refs":[{"c":"ether-4","t":"Ether 4","v":[15],"l":"Ether 4:15"}]}],"11":[{"m":"11a","refs":[{"c":"luke-12","t":"Luke 12","v":[3],"l":"Luke 12:3"},{"c":"morm-5","t":"Mormon 5","v":[8],"l":"Morm. 5:8"},{"c":"dc-121","t":"D&C 121","v":[26,27,28,29,30,31],"l":"D&amp;C 121:26–31"}]}],"12":[{"m":"12a","refs":[{"c":"2ne-11","t":"2 Nephi 11","v":[3],"l":"2 Ne. 11:3"},{"c":"ether-5","t":"Ether 5","v":[2,3,4],"l":"Ether 5:3 (2–4)"},{"c":"dc-5","t":"D&C 5","v":[11],"l":"D&amp;C 5:11 (11, 15)"},{"c":"dc-17","t":"D&C 17","v":[1],"l":"17:1"}]},{"m":"12b","refs":[{"c":"deut-19","t":"Deuteronomy 19","v":[15],"l":"Deut. 19:15"}]}],"13":[{"m":"13a","refs":[{"c":"dc-5","t":"D&C 5","v":[3],"l":"D&amp;C 5:14 (3, 14)"}]},{"m":"13b","refs":[{"c":"2ne-3","t":"2 Nephi 3","v":[19,20],"l":"2 Ne. 3:19 (19–20)"},{"c":"2ne-33","t":"2 Nephi 33","v":[13,14,15],"l":"33:13 (13–15)"},{"c":"morm-9","t":"Mormon 9","v":[30],"l":"Morm. 9:30"},{"c":"moro-10","t":"Moroni 10","v":[27],"l":"Moro. 10:27"}]}],"14":[{"m":"14a","refs":[{"c":"2ne-28","t":"2 Nephi 28","v":[29,30],"l":"2 Ne. 28:29 (29–30)"},{"c":"ether-4","t":"Ether 4","v":[8],"l":"Ether 4:8"}]}],"15":[{"m":"15a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[11],"l":"Isa. 29:11"}]}],"19":[{"m":"19a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[12],"l":"Isa. 29:12"}]}],"20":[{"m":"20a","refs":[{"c":"ex-4","t":"Exodus 4","v":[11,12],"l":"Ex. 4:11 (11–12)"},{"c":"jer-1","t":"Jeremiah 1","v":[7,8,9],"l":"Jer. 1:7 (7–9)"}]}],"21":[{"m":"21a","refs":[{"c":"ether-5","t":"Ether 5","v":[1],"l":"Ether 5:1"}]}],"22":[{"m":"22c","refs":[{"c":"ether-4","t":"Ether 4","v":[6,7],"l":"Ether 4:7 (6–7)"}]}],"23":[{"m":"23c","refs":[{"c":"wofm-1","t":"Words of Mormon 1","v":[7],"l":"W of M 1:7"}]},{"m":"23d","refs":[{"c":"heb-11","t":"Hebrews 11","v":[],"l":"Heb. 11"},{"c":"ether-12","t":"Ether 12","v":[7,8,9,10,11,12],"l":"Ether 12:12 (7–22)"}]}],"25":[{"m":"25a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[13,14,15,16,17,18],"l":"Isa. 29:13 (13–24)"}]},{"m":"25b","refs":[{"c":"matt-15","t":"Matthew 15","v":[7,8,9],"l":"Matt. 15:8 (7–9)"}]},{"m":"25d","refs":[{"c":"2ne-28","t":"2 Nephi 28","v":[31],"l":"2 Ne. 28:31"}]}],"26":[{"m":"26a","refs":[{"c":"1ne-22","t":"1 Nephi 22","v":[8],"l":"1 Ne. 22:8"},{"c":"2ne-29","t":"2 Nephi 29","v":[1,2],"l":"2 Ne. 29:1 (1–2)"}]},{"m":"26b","refs":[{"c":"isa-29","t":"Isaiah 29","v":[14],"l":"Isa. 29:14"},{"c":"2ne-25","t":"2 Nephi 25","v":[17],"l":"2 Ne. 25:17"}]}],"27":[{"m":"27a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[15,16],"l":"Isa. 29:15 (15–16)"}]},{"m":"27d","refs":[{"c":"jer-18","t":"Jeremiah 18","v":[6],"l":"Jer. 18:6"}]}],"29":[{"m":"29a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[18],"l":"Isa. 29:18"}]}],"30":[{"m":"30b","refs":[{"c":"dc-101","t":"D&C 101","v":[36],"l":"D&amp;C 101:36"}]}],"31":[{"m":"31a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[20],"l":"Isa. 29:20"}]}],"32":[{"m":"32a","refs":[{"c":"luke-11","t":"Luke 11","v":[53,54],"l":"Luke 11:54 (53–54)"},{"c":"acts-22","t":"Acts 22","v":[22],"l":"Acts 22:22"}]},{"m":"32b","refs":[{"c":"amos-5","t":"Amos 5","v":[7],"l":"Amos 5:10 (7, 10)"}]},{"m":"32c","refs":[{"c":"2ne-28","t":"2 Nephi 28","v":[16],"l":"2 Ne. 28:16"}]}],"34":[{"m":"34a","refs":[{"c":"isa-29","t":"Isaiah 29","v":[23],"l":"Isa. 29:23"}]}],"35":[{"m":"35a","refs":[{"c":"2ne-28","t":"2 Nephi 28","v":[14],"l":"2 Ne. 28:14"},{"c":"dc-33","t":"D&C 33","v":[4],"l":"D&amp;C 33:4"}]},{"m":"35b","refs":[{"c":"dan-12","t":"Daniel 12","v":[4,5,6,7,8,9],"l":"Dan. 12:4 (4–10)"}]}]}
+```
+
+- **1** 1b [[Isaiah 29#^isa-29-9|Isa. 29:9]]
+- **2** 2a [[Isaiah 29#^isa-29-6|Isa. 29:6 (6–10)]] · [[Mormon 8#^morm-8-29|Morm. 8:29]]; 2b [[Isaiah 24#^isa-24-6|Isa. 24:6]] · [[Isaiah 66#^isa-66-16|66:16]] · [[Jacob 6#^jacob-6-3|Jacob 6:3]] · [[3 Nephi 25#^3ne-25-1|3 Ne. 25:1]]
+- **3** 3a [[Isaiah 29#^isa-29-7|Isa. 29:7 (7–8)]]; 3b [[1 Nephi 22#^1ne-22-14|1 Ne. 22:14]]
+- **4** 4a [[Revelation 17#^rev-17-1|Rev. 17:6 (1–6)]] · [[2 Nephi 8#^2ne-8-21|2 Ne. 8:21]]
+- **5** 5b [[2 Chronicles 24#^2chr-24-19|2 Chr. 24:19]] · [[Jeremiah 26#^jer-26-5|Jer. 26:5]] · [[Jeremiah 37#^jer-37-15|37:15]] · [[Zechariah 1#^zech-1-2|Zech. 1:4 (2–5)]]
+- **6** 6a [[Jarom 1#^jarom-1-2|Jarom 1:2]] · [[Mormon 5#^morm-5-12|Morm. 5:12 (12–13)]]; 6b [[2 Nephi 26#^2ne-26-16|2 Ne. 26:17 (16–17)]] · [[2 Nephi 29#^2ne-29-12|29:12]]
+- **7** 7a [[Isaiah 29#^isa-29-11|Isa. 29:11 (11–12)]] · [[Ether 3#^ether-3-27|Ether 3:27]]; 7b [[Mosiah 8#^mosiah-8-19|Mosiah 8:19]] · [[Ether 3#^ether-3-20|Ether 3:25 (20–28)]] · [[Ether 4#^ether-4-4|4:4]]; 7c [[Ether 1#^ether-1-2|Ether 1:2–4]] · [[Ether 13#^ether-13-1|13:1–13]]
+- **8** 8a [[3 Nephi 26#^3ne-26-7|3 Ne. 26:9 (7–12, 18)]] · [[Ether 4#^ether-4-5|Ether 4:5]] · [[Ether 5#^ether-5-1|5:1]] · [[D&C 17#^dc-17-6|D&amp;C 17:6]]
+- **9** 9a [[Joseph Smith—History 1#^jsh-1-64|JS—H 1:64]]
+- **10** 10a [[Daniel 12#^dan-12-9|Dan. 12:9]] · [[1 Nephi 14#^1ne-14-26|1 Ne. 14:26]] · [[D&C 35#^dc-35-18|D&amp;C 35:18]] · [[Joseph Smith—History 1#^jsh-1-65|JS—H 1:65]]; 10b [[Ether 4#^ether-4-15|Ether 4:15]]
+- **11** 11a [[Luke 12#^luke-12-3|Luke 12:3]] · [[Mormon 5#^morm-5-8|Morm. 5:8]] · [[D&C 121#^dc-121-26|D&amp;C 121:26–31]]
+- **12** 12a [[2 Nephi 11#^2ne-11-3|2 Ne. 11:3]] · [[Ether 5#^ether-5-2|Ether 5:3 (2–4)]] · [[D&C 5#^dc-5-11|D&amp;C 5:11 (11, 15)]] · [[D&C 17#^dc-17-1|17:1]]; 12b [[Deuteronomy 19#^deut-19-15|Deut. 19:15]]
+- **13** 13a [[D&C 5#^dc-5-3|D&amp;C 5:14 (3, 14)]]; 13b [[2 Nephi 3#^2ne-3-19|2 Ne. 3:19 (19–20)]] · [[2 Nephi 33#^2ne-33-13|33:13 (13–15)]] · [[Mormon 9#^morm-9-30|Morm. 9:30]] · [[Moroni 10#^moro-10-27|Moro. 10:27]]
+- **14** 14a [[2 Nephi 28#^2ne-28-29|2 Ne. 28:29 (29–30)]] · [[Ether 4#^ether-4-8|Ether 4:8]]
+- **15** 15a [[Isaiah 29#^isa-29-11|Isa. 29:11]]
+- **19** 19a [[Isaiah 29#^isa-29-12|Isa. 29:12]]
+- **20** 20a [[Exodus 4#^ex-4-11|Ex. 4:11 (11–12)]] · [[Jeremiah 1#^jer-1-7|Jer. 1:7 (7–9)]]
+- **21** 21a [[Ether 5#^ether-5-1|Ether 5:1]]
+- **22** 22c [[Ether 4#^ether-4-6|Ether 4:7 (6–7)]]
+- **23** 23c [[Words of Mormon 1#^wofm-1-7|W of M 1:7]]; 23d Heb. 11 · [[Ether 12#^ether-12-7|Ether 12:12 (7–22)]]
+- **25** 25a [[Isaiah 29#^isa-29-13|Isa. 29:13 (13–24)]]; 25b [[Matthew 15#^matt-15-7|Matt. 15:8 (7–9)]]; 25d [[2 Nephi 28#^2ne-28-31|2 Ne. 28:31]]
+- **26** 26a [[1 Nephi 22#^1ne-22-8|1 Ne. 22:8]] · [[2 Nephi 29#^2ne-29-1|2 Ne. 29:1 (1–2)]]; 26b [[Isaiah 29#^isa-29-14|Isa. 29:14]] · [[2 Nephi 25#^2ne-25-17|2 Ne. 25:17]]
+- **27** 27a [[Isaiah 29#^isa-29-15|Isa. 29:15 (15–16)]]; 27d [[Jeremiah 18#^jer-18-6|Jer. 18:6]]
+- **29** 29a [[Isaiah 29#^isa-29-18|Isa. 29:18]]
+- **30** 30b [[D&C 101#^dc-101-36|D&amp;C 101:36]]
+- **31** 31a [[Isaiah 29#^isa-29-20|Isa. 29:20]]
+- **32** 32a [[Luke 11#^luke-11-53|Luke 11:54 (53–54)]] · [[Acts 22#^acts-22-22|Acts 22:22]]; 32b [[Amos 5#^amos-5-7|Amos 5:10 (7, 10)]]; 32c [[2 Nephi 28#^2ne-28-16|2 Ne. 28:16]]
+- **34** 34a [[Isaiah 29#^isa-29-23|Isa. 29:23]]
+- **35** 35a [[2 Nephi 28#^2ne-28-14|2 Ne. 28:14]] · [[D&C 33#^dc-33-4|D&amp;C 33:4]]; 35b [[Daniel 12#^dan-12-4|Dan. 12:4 (4–10)]]
