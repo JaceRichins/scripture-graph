@@ -1,4 +1,4 @@
-/* scripture-graph v0.70.0 build ccbd2abd 2026-09-06T23:04:55Z */
+/* scripture-graph v0.70.1 build 0a05a720 2026-09-06T23:05:22Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.70.0", sha: "ccbd2abd", at: "2026-09-06T23:04:55Z" };
+    define_SG_BUILD_default = { version: "0.70.1", sha: "0a05a720", at: "2026-09-06T23:05:22Z" };
   }
 });
 
@@ -15368,11 +15368,11 @@ async function notebooks(s) {
   return out;
 }
 var NotebookModal = class extends import_obsidian21.Modal {
-  constructor(s, nb, open2) {
+  constructor(s, nb, openLink) {
     super(s.app);
     this.s = s;
     this.nb = nb;
-    this.open = open2;
+    this.openLink = openLink;
   }
   async onOpen() {
     this.modalEl.addClass("sg-lib-modal");
@@ -15400,9 +15400,9 @@ var NotebookModal = class extends import_obsidian21.Modal {
       row.createDiv({ cls: "sg-nb-when", text: new Date(a2.updated_at).toLocaleDateString() });
       const go = () => {
         this.close();
-        if (v) this.open(`${v.chapter}#^${v.anchor}`);
-        else if (a2.anchor_id.startsWith("node:")) this.open(a2.anchor_id.slice(5));
-        else this.open(a2.anchor_id);
+        if (v) this.openLink(`${v.chapter}#^${v.anchor}`);
+        else if (a2.anchor_id.startsWith("node:")) this.openLink(a2.anchor_id.slice(5));
+        else this.openLink(a2.anchor_id);
       };
       row.onclick = go;
       row.onkeydown = (e) => {

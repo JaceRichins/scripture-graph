@@ -37,7 +37,7 @@ export async function notebooks(s: SGState): Promise<Notebook[]> {
 }
 
 export class NotebookModal extends Modal {
-  constructor(private s: SGState, private nb: Notebook, private open: (link: string) => void) { super(s.app); }
+  constructor(private s: SGState, private nb: Notebook, private openLink: (link: string) => void) { super(s.app); }
 
   async onOpen(): Promise<void> {
     this.modalEl.addClass("sg-lib-modal");
@@ -65,9 +65,9 @@ export class NotebookModal extends Modal {
       row.createDiv({ cls: "sg-nb-when", text: new Date(a.updated_at).toLocaleDateString() });
       const go = () => {
         this.close();
-        if (v) this.open(`${v.chapter}#^${v.anchor}`);
-        else if (a.anchor_id.startsWith("node:")) this.open(a.anchor_id.slice(5));
-        else this.open(a.anchor_id);
+        if (v) this.openLink(`${v.chapter}#^${v.anchor}`);
+        else if (a.anchor_id.startsWith("node:")) this.openLink(a.anchor_id.slice(5));
+        else this.openLink(a.anchor_id);
       };
       row.onclick = go;
       row.onkeydown = (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(); } };
