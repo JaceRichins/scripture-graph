@@ -14,6 +14,9 @@ import { TimeGraph } from "./timeGraph";
 
 export const TIMELINE_VIEW = "sg-timeline";
 
+/** the zoom stops: spacing × detail. 1 is the classic layout. */
+export const ZOOM_STOPS = [0.55, 0.75, 1, 1.35, 1.8];
+
 export interface TimelineEvent {
   id: string; t: string; y0: number; y1: number;
   lane: "ow" | "nw" | "rs";
@@ -177,6 +180,12 @@ export class TimelineView extends ItemView {
   private cats = new Set(CATS.map(c => c.key));
   private detail = false;         // false = major+notable only
   private depth: 1 | 2 | 3 = 2;   // 2 = braids; 3 = ✨ the constellation
+  /** zoom: spacing and detail together. Below 0.75 minor moments fold into
+   * a "+N" chip per century; from 1.35 up each moment opens into a card
+   * with its note. Pinch, −/+, or ctrl+wheel; anchored on the year under
+   * the middle of the screen so what you were looking at stays put. */
+  private zoom = 1;
+  private nowEl: HTMLElement | null = null;
   /** the plain depth ✨ was entered from, so a second tap returns there */
   private depthBefore: 1 | 2 = 2;
   /** the live physics sky when depth 3 is on — one instance, torn down
@@ -262,6 +271,7 @@ export class TimelineView extends ItemView {
     const dev = (s as unknown as { device?: { tlDepth?: 1 | 2 | 3 } }).device;
     if (dev?.tlDepth === 1 || dev?.tlDepth === 2 || dev?.tlDepth === 3) {
       this.depth = dev.tlDepth;
+      if (typeof dev.tlZoom === "number" && ZOOM_STOPS.includes(dev.tlZoom)) this.zoom = dev.tlZoom;
     }
   }
 
@@ -436,6 +446,7 @@ export class TimelineView extends ItemView {
         });
       }
       this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
+      this.attachZoomGestures(this.streamEl);
       this.renderStream();
       return;
     }
@@ -485,6 +496,18 @@ export class TimelineView extends ItemView {
       b.onclick = click;
       return b;
     };
+    if (this.depth !== 3) {
+      const zseg = row.createDiv({ cls: "sg-tl-seg sg-tl-zoom" });
+      const zi = ZOOM_STOPS.indexOf(this.zoom);
+      const minus = zseg.createEl("button", { cls: "sg-tl-seg-btn", text: "−" });
+      minus.setAttr("aria-label", "Zoom out");
+      minus.toggleClass("sg-tl-seg-off", zi <= 0);
+      minus.onclick = () => this.stepZoom(-1);
+      const plus = zseg.createEl("button", { cls: "sg-tl-seg-btn", text: "+" });
+      plus.setAttr("aria-label", "Zoom in");
+      plus.toggleClass("sg-tl-seg-off", zi >= ZOOM_STOPS.length - 1);
+      plus.onclick = () => this.stepZoom(1);
+    }
     tool("Jump to ▾", "Scroll to an era", false, ev => {
       const m = new Menu();
       for (const era of ERAS) {
@@ -561,7 +584,92 @@ export class TimelineView extends ItemView {
 
     // ---- the stream -----------------------------------------------------
     this.streamEl = c.createDiv({ cls: "sg-tl-stream" });
+    this.attachZoomGestures(this.streamEl);
     this.renderStream();
+  }
+
+  // ---- zoom ---------------------------------------------------------------
+
+  /** the year under the middle of the viewport — the anchor a zoom keeps */
+  private centerYear(): number | null {
+    const stream = this.streamEl;
+    if (!stream || !this.yByYear.length) return null;
+    const mid = stream.scrollTop + stream.clientHeight * 0.4;
+    let best = this.yByYear[0]!;
+    for (const pair of this.yByYear) if (pair[1] <= mid) best = pair;
+    return best[0];
+  }
+
+  private stepZoom(delta: number): void {
+    const i = ZOOM_STOPS.indexOf(this.zoom);
+    const j = Math.min(ZOOM_STOPS.length - 1, Math.max(0, (i < 0 ? 2 : i) + delta));
+    this.setZoom(ZOOM_STOPS[j]!);
+  }
+
+  private setZoom(z: number): void {
+    if (z === this.zoom || this.depth === 3) return;
+    const anchor = this.centerYear();
+    this.zoom = z;
+    const dev = this.s.device as { tlZoom?: number };
+    dev.tlZoom = z;
+    void this.s.saveDevice?.();
+    // the bar's −/+ dim at the ends; the stream re-lays out at the new stop
+    this.render();
+    if (anchor != null) {
+      const stream = this.streamEl;
+      const hit = this.yByYear.find(([yr]) => yr >= anchor);
+      if (stream && hit) stream.scrollTop = Math.max(0, hit[1] - stream.clientHeight * 0.4);
+    }
+  }
+
+  /** pinch on touch, ctrl+wheel on desktop, and the century readout that
+   * follows the scroll — attached once per stream element */
+  private attachZoomGestures(stream: HTMLElement): void {
+    let d0 = 0;
+    let stepped = false;
+    stream.addEventListener("touchstart", (e) => {
+      if (e.touches.length === 2) {
+        d0 = Math.hypot(e.touches[0]!.clientX - e.touches[1]!.clientX,
+          e.touches[0]!.clientY - e.touches[1]!.clientY);
+        stepped = false;
+      }
+    }, { passive: true });
+    stream.addEventListener("touchmove", (e) => {
+      if (e.touches.length !== 2 || !d0 || stepped) return;
+      const d = Math.hypot(e.touches[0]!.clientX - e.touches[1]!.clientX,
+        e.touches[0]!.clientY - e.touches[1]!.clientY);
+      const ratio = d / d0;
+      if (ratio > 1.28) { stepped = true; this.stepZoom(1); }
+      else if (ratio < 0.78) { stepped = true; this.stepZoom(-1); }
+    }, { passive: true });
+    stream.addEventListener("touchend", () => { d0 = 0; }, { passive: true });
+    stream.addEventListener("wheel", (e) => {
+      if (!e.ctrlKey && !e.metaKey) return;
+      e.preventDefault();
+      this.stepZoom(e.deltaY < 0 ? 1 : -1);
+    }, { passive: false });
+    let raf = 0;
+    stream.addEventListener("scroll", () => {
+      if (raf) return;
+      raf = window.requestAnimationFrame(() => {
+        raf = 0;
+        this.updateNow();
+      });
+    }, { passive: true });
+  }
+
+  /** "1900–1801 BC" pinned at the top while the page scrolls */
+  private updateNow(): void {
+    const stream = this.streamEl;
+    const now = this.nowEl;
+    if (!stream || !now || !this.yByYear.length) return;
+    const top = stream.scrollTop + 72;
+    let label = "";
+    for (const [yr, y] of this.yByYear) {
+      if (y <= top) label = yr < 0 ? `${-yr}–${-(yr + 99)} BC` : `AD ${yr}–${yr + 99}`;
+    }
+    now.setText(label);
+    now.toggleClass("sg-tl-now-on", !!label && stream.scrollTop > 40);
   }
 
   private yById = new Map<string, number>();
@@ -595,7 +703,21 @@ export class TimelineView extends ItemView {
     // ✨ depth 3: the SVG stream stands aside and the physics sky takes
     // the stage — the classic renderer below is untouched, one tap away
     if (this.depth === 3) { this.mountTimeGraph(stream); return; }
-    const events = this.visible();
+    const Z = this.zoom;
+    stream.style.setProperty("--tl-z", String(Z));
+    const all = this.visible();
+    // zoomed out: the minor moments fold into a "+N" chip per century
+    const folding = Z < 0.75 && !this.focuses.length;
+    const events = folding ? all.filter(e => e.imp <= 2) : all;
+    const folded = new Map<number, number>();
+    if (folding) {
+      for (const e of all) {
+        if (e.imp <= 2) continue;
+        const c = e.y0 < 0 ? -Math.ceil((-e.y0) / 100) * 100
+          : Math.floor(Math.max(e.y0 - 1, 0) / 100) * 100 + 1;
+        folded.set(c, (folded.get(c) ?? 0) + 1);
+      }
+    }
     if (!events.length) {
       const empty = stream.createDiv({ cls: "sg-tl-empty" });
       empty.createDiv({ text: "Nothing matches — every event is filtered out." });
@@ -645,7 +767,9 @@ export class TimelineView extends ItemView {
 
     // ---- layout: rank-spaced down the page, extra breath at century and
     // era turns — real pixels, no scaling anywhere
-    const ROW = 78, CENTURY_GAP = 58, ERA_GAP = 66, TOP = 64, BOTTOM = 120;
+    const ROW = Math.round(78 * Z), CENTURY_GAP = Math.round(58 * Math.max(0.75, Z)),
+      ERA_GAP = Math.round(66 * Math.max(0.8, Z)), TOP = 64, BOTTOM = 120;
+    const cards = Z >= 1.35;
     let y = TOP;
     let lastCentury: number | null = null;
     const centuries: { y: number; label: string; page: string; year: number }[] = [];
@@ -713,6 +837,11 @@ export class TimelineView extends ItemView {
         height: String(yEnd - band.yTop), class: "sg-tl-band",
         fill: ERA_TINT[band.label] ?? "rgba(255, 255, 255, 0.03)",
       });
+      // a hairline where the age turns, and a small caption in the gutter
+      el("line", { x1: "0", y1: String(band.yTop), x2: String(W), y2: String(band.yTop),
+        class: "sg-tl-erarule" });
+      const cap = el("text", { x: "14", y: String(band.yTop + 16), class: "sg-tl-eracap" });
+      cap.textContent = band.label;
       // size the watermark to FIT the column, long names included
       const fs = Math.min(
         Math.round(colW * 0.085), 64,
@@ -983,13 +1112,29 @@ export class TimelineView extends ItemView {
       (t as unknown as SVGElement & { onclick: unknown }).onclick = () => {
         void this.s.app.workspace.openLinkText(`AI Library/90 Timeline/${c.page}.md`, "");
       };
+      const n = folded.get(c.year) ?? 0;
+      if (n) {
+        // "+N" — the moments folded away at this zoom; tap to open the century
+        const g = el("g", { class: "sg-tl-more" });
+        const label = `+${n}`;
+        const w = 22 + label.length * 7;
+        el("rect", { x: String(W / 2 + 62), y: String(c.y - 11), width: String(w), height: "17", rx: "8.5",
+          class: "sg-tl-more-bg" }, g);
+        const mt = el("text", { x: String(W / 2 + 62 + w / 2), y: String(c.y + 1), "text-anchor": "middle",
+          class: "sg-tl-more-t" }, g);
+        mt.textContent = label;
+        (g as unknown as SVGElement & { onclick: unknown }).onclick = () => {
+          this.pendingYear = c.year;
+          this.setZoom(1);
+        };
+      }
     }
 
     // ---- nodes + labels beside them, flowing toward the open middle
     let nodeIdx = 0;
     for (const e of events) {
       const p = pos.get(e.id)!;
-      const r = (e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5) * p.z;
+      const r = (e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5) * p.z * (0.82 + 0.2 * Z);
       const braided = onThread(e);
       const color = (braided && e.thread ? threadById.get(e.thread)?.color : undefined)
         ?? LANE_COLOR[e.lane]!;
@@ -1049,12 +1194,38 @@ export class TimelineView extends ItemView {
         x: String(tx0), y: String(p.y + 14), "text-anchor": anchor,
         class: "sg-tl-year", fill: color,
       }, g);
-      t2.textContent = `${yearStr(e.y0)} · ${DATING_SHORT[e.dating] ?? e.dating}`;
+      t2.textContent = (e.y1 && e.y1 !== e.y0 ? `${yearStr(e.y0)} – ${yearStr(e.y1)}` : yearStr(e.y0))
+        + ` · ${DATING_SHORT[e.dating] ?? e.dating}`;
+      if (cards && e.note) {
+        // zoomed in: the moment opens into a card — the note, two lines,
+        // on a quiet backing so the page reads like a story, not a chart
+        const cw2 = Math.min(avail, 320);
+        const maxCh2 = Math.max(18, Math.floor(cw2 / 5.9));
+        const words = e.note.replace(/\s+/g, " ").trim();
+        const l1 = words.length > maxCh2 ? words.slice(0, maxCh2).replace(/\s\S*$/, "") : words;
+        const rest = words.slice(l1.length).trim();
+        const l2 = rest.length > maxCh2 ? `${rest.slice(0, maxCh2 - 1).replace(/\s\S*$/, "")}…` : rest;
+        const bx = dir > 0 ? tx0 - 8 : tx0 - cw2 + 8;
+        el("rect", { x: String(bx), y: String(p.y - 20), width: String(cw2 + 4),
+          height: String(l2 ? 66 : 52), rx: "10", class: "sg-tl-card" }, g);
+        g.insertBefore(g.lastChild!, g.querySelector(".sg-tl-hit")!.nextSibling);
+        const n1 = el("text", { x: String(tx0), y: String(p.y + 30), "text-anchor": anchor,
+          class: "sg-tl-note" }, g);
+        n1.textContent = l1;
+        if (l2) {
+          const n2 = el("text", { x: String(tx0), y: String(p.y + 44), "text-anchor": anchor,
+            class: "sg-tl-note" }, g);
+          n2.textContent = l2;
+        }
+      }
       (outer as unknown as SVGElement & { onclick: unknown }).onclick =
         () => this.selectNode(e, outer);
     }
 
     stream.appendChild(svg);
+    this.nowEl = stream.createDiv({ cls: "sg-tl-now" });
+    stream.prepend(this.nowEl);
+    this.updateNow();
 
     // exact label fit: measure the RENDERED width and trim what overflows —
     // heuristics guess, devices differ, the ruler doesn't

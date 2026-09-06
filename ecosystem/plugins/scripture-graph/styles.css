@@ -1567,11 +1567,11 @@ body.sg-scene-on .sg-chap-conn {
 /* crisp true-pixel type: title beside the node, year tinted the lane color */
 .sg-tl-label {
   fill: rgba(238, 240, 248, 0.92);
-  font-size: 13px; font-weight: 600;
+  font-size: calc(13px * clamp(0.9, var(--tl-z, 1), 1.18)); font-weight: 600;
   paint-order: stroke; stroke: var(--sg-space); stroke-width: 3.5px;
   stroke-linejoin: round;
 }
-.sg-tl-label-big { fill: #ffffff; font-size: 15px; font-weight: 700; }
+.sg-tl-label-big { fill: #ffffff; font-size: calc(15px * clamp(0.9, var(--tl-z, 1), 1.2)); font-weight: 700; }
 .sg-tl-label-sm {
   font-size: 11.5px; font-weight: 600;
   fill: rgba(238, 240, 248, 0.72);
@@ -2344,3 +2344,35 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
 }
 .sg-insight-count { margin-top: 8px; text-align: center; font-size: 0.72em; color: var(--text-muted); letter-spacing: 0.04em; }
 .sg-insight-read:active, .sg-insight-step:active, .sg-insight-ref:active { transform: scale(0.96); }
+
+/* ---- timeline zoom: stops, cards, folded chips, the century readout ---- */
+.sg-tl-zoom { margin-left: 2px; }
+.sg-tl-seg-btn.sg-tl-seg-off { opacity: 0.35; }
+.sg-tl-card {
+  fill: rgba(255, 255, 255, 0.045); stroke: rgba(255, 255, 255, 0.08); stroke-width: 1;
+}
+.sg-tl-note {
+  font-size: 11.5px; fill: rgba(238, 240, 248, 0.7);
+  paint-order: stroke; stroke: var(--sg-space); stroke-width: 3px; stroke-linejoin: round;
+}
+.sg-tl-more { cursor: pointer; }
+.sg-tl-more-bg { fill: rgba(255, 255, 255, 0.09); stroke: rgba(255, 255, 255, 0.14); }
+.sg-tl-more-t { font-size: 10.5px; font-weight: 700; fill: rgba(238, 240, 248, 0.85); letter-spacing: 0.04em; }
+.sg-tl-more:active .sg-tl-more-bg { fill: rgba(255, 255, 255, 0.18); }
+.sg-tl-erarule { stroke: rgba(255, 255, 255, 0.10); stroke-width: 1; }
+.sg-tl-eracap {
+  font-size: 10px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase;
+  fill: rgba(238, 240, 248, 0.42);
+}
+.sg-tl-now {
+  position: sticky; top: 8px; z-index: 3; float: left; margin-left: 12px;
+  padding: 4px 11px; border-radius: 999px;
+  font-size: 11px; font-weight: 700; letter-spacing: 0.08em;
+  background: rgba(30, 30, 40, 0.82); color: rgba(238, 240, 248, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
+  opacity: 0; transform: translateY(-6px); transition: opacity 0.18s ease, transform 0.18s ease;
+  pointer-events: none;
+}
+.sg-tl-now-on { opacity: 1; transform: none; }
+.sg-tl-now:empty { display: none; }

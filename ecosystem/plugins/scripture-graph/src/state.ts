@@ -80,6 +80,8 @@ export interface DeviceState {
   lastMatchedScene?: string;
   /** timeline depth: 1 = one line per world, 2 = storylines split out */
   tlDepth: 1 | 2;
+  /** timeline zoom stop (spacing × detail); 1 = the classic layout */
+  tlZoom?: number;
   /** timelines you built yourself — a name plus the subjects it overlaps
    * (mirrors timelineView's Subject shape; typed inline so state imports no study code) */
   myTimelines?: { name: string; subjects: { kind: "people" | "places" | "things"; name: string }[] }[];

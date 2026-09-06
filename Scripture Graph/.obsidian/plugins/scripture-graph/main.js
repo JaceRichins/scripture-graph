@@ -1,4 +1,4 @@
-/* scripture-graph v0.66.5 build 339d2835 2026-09-06T19:25:34Z */
+/* scripture-graph v0.67.0 build 13d711bf 2026-09-06T20:00:59Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.66.5", sha: "339d2835", at: "2026-09-06T19:25:34Z" };
+    define_SG_BUILD_default = { version: "0.67.0", sha: "13d711bf", at: "2026-09-06T20:00:59Z" };
   }
 });
 
@@ -8063,6 +8063,7 @@ __export(timelineView_exports, {
   SubjectPickerModal: () => SubjectPickerModal,
   TIMELINE_VIEW: () => TIMELINE_VIEW,
   TimelineView: () => TimelineView,
+  ZOOM_STOPS: () => ZOOM_STOPS,
   loadTimelineData: () => loadTimelineData,
   openTimelinePicker: () => openTimelinePicker
 });
@@ -8091,7 +8092,7 @@ async function loadTimelineData(app) {
 function openTimelinePicker(s, existingNames, onSave) {
   new TimelineComposerModal(s, existingNames, onSave).open();
 }
-var import_obsidian9, TIMELINE_VIEW, SUBJECT_META, DATA_PATH, ERAS, ERA_TINT, CATS, DATING_SHORT, NARRATIVE_LINKS, LANE_COLOR, LANE_NAME, LANE_F, LANE_DIR, THREAD_F, FOCUS_ACCENTS, TimelineView, SubjectPickerModal, TimelineComposerModal;
+var import_obsidian9, TIMELINE_VIEW, ZOOM_STOPS, SUBJECT_META, DATA_PATH, ERAS, ERA_TINT, CATS, DATING_SHORT, NARRATIVE_LINKS, LANE_COLOR, LANE_NAME, LANE_F, LANE_DIR, THREAD_F, FOCUS_ACCENTS, TimelineView, SubjectPickerModal, TimelineComposerModal;
 var init_timelineView = __esm({
   "src/study/timelineView.ts"() {
     "use strict";
@@ -8100,6 +8101,7 @@ var init_timelineView = __esm({
     init_sheetRegistry();
     init_timeGraph();
     TIMELINE_VIEW = "sg-timeline";
+    ZOOM_STOPS = [0.55, 0.75, 1, 1.35, 1.8];
     SUBJECT_META = {
       people: { emoji: "\u{1F9D1}", label: "People" },
       places: { emoji: "\u{1F5FA}", label: "Places" },
@@ -8183,6 +8185,7 @@ var init_timelineView = __esm({
         const dev = s.device;
         if (dev?.tlDepth === 1 || dev?.tlDepth === 2 || dev?.tlDepth === 3) {
           this.depth = dev.tlDepth;
+          if (typeof dev.tlZoom === "number" && ZOOM_STOPS.includes(dev.tlZoom)) this.zoom = dev.tlZoom;
         }
       }
       data = null;
@@ -8192,6 +8195,12 @@ var init_timelineView = __esm({
       // false = major+notable only
       depth = 2;
       // 2 = braids; 3 = ✨ the constellation
+      /** zoom: spacing and detail together. Below 0.75 minor moments fold into
+       * a "+N" chip per century; from 1.35 up each moment opens into a card
+       * with its note. Pinch, −/+, or ctrl+wheel; anchored on the year under
+       * the middle of the screen so what you were looking at stays put. */
+      zoom = 1;
+      nowEl = null;
       /** the plain depth ✨ was entered from, so a second tap returns there */
       depthBefore = 2;
       /** the live physics sky when depth 3 is on — one instance, torn down
@@ -8430,6 +8439,7 @@ var init_timelineView = __esm({
             });
           }
           this.streamEl = c2.createDiv({ cls: "sg-tl-stream" });
+          this.attachZoomGestures(this.streamEl);
           this.renderStream();
           return;
         }
@@ -8468,6 +8478,18 @@ var init_timelineView = __esm({
           b.onclick = click;
           return b;
         };
+        if (this.depth !== 3) {
+          const zseg = row.createDiv({ cls: "sg-tl-seg sg-tl-zoom" });
+          const zi = ZOOM_STOPS.indexOf(this.zoom);
+          const minus = zseg.createEl("button", { cls: "sg-tl-seg-btn", text: "\u2212" });
+          minus.setAttr("aria-label", "Zoom out");
+          minus.toggleClass("sg-tl-seg-off", zi <= 0);
+          minus.onclick = () => this.stepZoom(-1);
+          const plus = zseg.createEl("button", { cls: "sg-tl-seg-btn", text: "+" });
+          plus.setAttr("aria-label", "Zoom in");
+          plus.toggleClass("sg-tl-seg-off", zi >= ZOOM_STOPS.length - 1);
+          plus.onclick = () => this.stepZoom(1);
+        }
         tool("Jump to \u25BE", "Scroll to an era", false, (ev) => {
           const m2 = new import_obsidian9.Menu();
           for (const era of ERAS) {
@@ -8549,7 +8571,96 @@ var init_timelineView = __esm({
           }
         }
         this.streamEl = c2.createDiv({ cls: "sg-tl-stream" });
+        this.attachZoomGestures(this.streamEl);
         this.renderStream();
+      }
+      // ---- zoom ---------------------------------------------------------------
+      /** the year under the middle of the viewport — the anchor a zoom keeps */
+      centerYear() {
+        const stream = this.streamEl;
+        if (!stream || !this.yByYear.length) return null;
+        const mid = stream.scrollTop + stream.clientHeight * 0.4;
+        let best = this.yByYear[0];
+        for (const pair of this.yByYear) if (pair[1] <= mid) best = pair;
+        return best[0];
+      }
+      stepZoom(delta) {
+        const i = ZOOM_STOPS.indexOf(this.zoom);
+        const j = Math.min(ZOOM_STOPS.length - 1, Math.max(0, (i < 0 ? 2 : i) + delta));
+        this.setZoom(ZOOM_STOPS[j]);
+      }
+      setZoom(z) {
+        if (z === this.zoom || this.depth === 3) return;
+        const anchor = this.centerYear();
+        this.zoom = z;
+        const dev = this.s.device;
+        dev.tlZoom = z;
+        void this.s.saveDevice?.();
+        this.render();
+        if (anchor != null) {
+          const stream = this.streamEl;
+          const hit = this.yByYear.find(([yr]) => yr >= anchor);
+          if (stream && hit) stream.scrollTop = Math.max(0, hit[1] - stream.clientHeight * 0.4);
+        }
+      }
+      /** pinch on touch, ctrl+wheel on desktop, and the century readout that
+       * follows the scroll — attached once per stream element */
+      attachZoomGestures(stream) {
+        let d0 = 0;
+        let stepped = false;
+        stream.addEventListener("touchstart", (e) => {
+          if (e.touches.length === 2) {
+            d0 = Math.hypot(
+              e.touches[0].clientX - e.touches[1].clientX,
+              e.touches[0].clientY - e.touches[1].clientY
+            );
+            stepped = false;
+          }
+        }, { passive: true });
+        stream.addEventListener("touchmove", (e) => {
+          if (e.touches.length !== 2 || !d0 || stepped) return;
+          const d = Math.hypot(
+            e.touches[0].clientX - e.touches[1].clientX,
+            e.touches[0].clientY - e.touches[1].clientY
+          );
+          const ratio = d / d0;
+          if (ratio > 1.28) {
+            stepped = true;
+            this.stepZoom(1);
+          } else if (ratio < 0.78) {
+            stepped = true;
+            this.stepZoom(-1);
+          }
+        }, { passive: true });
+        stream.addEventListener("touchend", () => {
+          d0 = 0;
+        }, { passive: true });
+        stream.addEventListener("wheel", (e) => {
+          if (!e.ctrlKey && !e.metaKey) return;
+          e.preventDefault();
+          this.stepZoom(e.deltaY < 0 ? 1 : -1);
+        }, { passive: false });
+        let raf = 0;
+        stream.addEventListener("scroll", () => {
+          if (raf) return;
+          raf = window.requestAnimationFrame(() => {
+            raf = 0;
+            this.updateNow();
+          });
+        }, { passive: true });
+      }
+      /** "1900–1801 BC" pinned at the top while the page scrolls */
+      updateNow() {
+        const stream = this.streamEl;
+        const now2 = this.nowEl;
+        if (!stream || !now2 || !this.yByYear.length) return;
+        const top = stream.scrollTop + 72;
+        let label = "";
+        for (const [yr, y3] of this.yByYear) {
+          if (y3 <= top) label = yr < 0 ? `${-yr}\u2013${-(yr + 99)} BC` : `AD ${yr}\u2013${yr + 99}`;
+        }
+        now2.setText(label);
+        now2.toggleClass("sg-tl-now-on", !!label && stream.scrollTop > 40);
       }
       yById = /* @__PURE__ */ new Map();
       yByYear = [];
@@ -8582,7 +8693,19 @@ var init_timelineView = __esm({
           this.mountTimeGraph(stream);
           return;
         }
-        const events = this.visible();
+        const Z = this.zoom;
+        stream.style.setProperty("--tl-z", String(Z));
+        const all = this.visible();
+        const folding = Z < 0.75 && !this.focuses.length;
+        const events = folding ? all.filter((e) => e.imp <= 2) : all;
+        const folded = /* @__PURE__ */ new Map();
+        if (folding) {
+          for (const e of all) {
+            if (e.imp <= 2) continue;
+            const c2 = e.y0 < 0 ? -Math.ceil(-e.y0 / 100) * 100 : Math.floor(Math.max(e.y0 - 1, 0) / 100) * 100 + 1;
+            folded.set(c2, (folded.get(c2) ?? 0) + 1);
+          }
+        }
         if (!events.length) {
           const empty = stream.createDiv({ cls: "sg-tl-empty" });
           empty.createDiv({ text: "Nothing matches \u2014 every event is filtered out." });
@@ -8621,7 +8744,8 @@ var init_timelineView = __esm({
           }
           return (h >>> 0) / 4294967295;
         };
-        const ROW = 78, CENTURY_GAP = 58, ERA_GAP = 66, TOP = 64, BOTTOM = 120;
+        const ROW = Math.round(78 * Z), CENTURY_GAP = Math.round(58 * Math.max(0.75, Z)), ERA_GAP = Math.round(66 * Math.max(0.8, Z)), TOP = 64, BOTTOM = 120;
+        const cards = Z >= 1.35;
         let y3 = TOP;
         let lastCentury = null;
         const centuries = [];
@@ -8682,6 +8806,15 @@ var init_timelineView = __esm({
             class: "sg-tl-band",
             fill: ERA_TINT[band.label] ?? "rgba(255, 255, 255, 0.03)"
           });
+          el("line", {
+            x1: "0",
+            y1: String(band.yTop),
+            x2: String(W),
+            y2: String(band.yTop),
+            class: "sg-tl-erarule"
+          });
+          const cap = el("text", { x: "14", y: String(band.yTop + 16), class: "sg-tl-eracap" });
+          cap.textContent = band.label;
           const fs = Math.min(
             Math.round(colW * 0.085),
             64,
@@ -8940,11 +9073,36 @@ var init_timelineView = __esm({
           t.onclick = () => {
             void this.s.app.workspace.openLinkText(`AI Library/90 Timeline/${c2.page}.md`, "");
           };
+          const n = folded.get(c2.year) ?? 0;
+          if (n) {
+            const g = el("g", { class: "sg-tl-more" });
+            const label = `+${n}`;
+            const w = 22 + label.length * 7;
+            el("rect", {
+              x: String(W / 2 + 62),
+              y: String(c2.y - 11),
+              width: String(w),
+              height: "17",
+              rx: "8.5",
+              class: "sg-tl-more-bg"
+            }, g);
+            const mt = el("text", {
+              x: String(W / 2 + 62 + w / 2),
+              y: String(c2.y + 1),
+              "text-anchor": "middle",
+              class: "sg-tl-more-t"
+            }, g);
+            mt.textContent = label;
+            g.onclick = () => {
+              this.pendingYear = c2.year;
+              this.setZoom(1);
+            };
+          }
         }
         let nodeIdx = 0;
         for (const e of events) {
           const p = pos.get(e.id);
-          const r = (e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5) * p.z;
+          const r = (e.imp === 1 ? 9 : e.imp === 2 ? 6.5 : 4.5) * p.z * (0.82 + 0.2 * Z);
           const braided = onThread(e);
           const color = (braided && e.thread ? threadById.get(e.thread)?.color : void 0) ?? LANE_COLOR[e.lane];
           const outer = el("g", {
@@ -9009,10 +9167,47 @@ var init_timelineView = __esm({
             class: "sg-tl-year",
             fill: color
           }, g);
-          t2.textContent = `${yearStr2(e.y0)} \xB7 ${DATING_SHORT[e.dating] ?? e.dating}`;
+          t2.textContent = (e.y1 && e.y1 !== e.y0 ? `${yearStr2(e.y0)} \u2013 ${yearStr2(e.y1)}` : yearStr2(e.y0)) + ` \xB7 ${DATING_SHORT[e.dating] ?? e.dating}`;
+          if (cards && e.note) {
+            const cw2 = Math.min(avail, 320);
+            const maxCh2 = Math.max(18, Math.floor(cw2 / 5.9));
+            const words = e.note.replace(/\s+/g, " ").trim();
+            const l1 = words.length > maxCh2 ? words.slice(0, maxCh2).replace(/\s\S*$/, "") : words;
+            const rest = words.slice(l1.length).trim();
+            const l2 = rest.length > maxCh2 ? `${rest.slice(0, maxCh2 - 1).replace(/\s\S*$/, "")}\u2026` : rest;
+            const bx = dir > 0 ? tx0 - 8 : tx0 - cw2 + 8;
+            el("rect", {
+              x: String(bx),
+              y: String(p.y - 20),
+              width: String(cw2 + 4),
+              height: String(l2 ? 66 : 52),
+              rx: "10",
+              class: "sg-tl-card"
+            }, g);
+            g.insertBefore(g.lastChild, g.querySelector(".sg-tl-hit").nextSibling);
+            const n1 = el("text", {
+              x: String(tx0),
+              y: String(p.y + 30),
+              "text-anchor": anchor,
+              class: "sg-tl-note"
+            }, g);
+            n1.textContent = l1;
+            if (l2) {
+              const n2 = el("text", {
+                x: String(tx0),
+                y: String(p.y + 44),
+                "text-anchor": anchor,
+                class: "sg-tl-note"
+              }, g);
+              n2.textContent = l2;
+            }
+          }
           outer.onclick = () => this.selectNode(e, outer);
         }
         stream.appendChild(svg);
+        this.nowEl = stream.createDiv({ cls: "sg-tl-now" });
+        stream.prepend(this.nowEl);
+        this.updateNow();
         svg.querySelectorAll("text[data-avail]").forEach((node) => {
           const t = node;
           if (typeof t.getComputedTextLength !== "function") return;
