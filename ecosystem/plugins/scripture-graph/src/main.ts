@@ -571,15 +571,21 @@ export default class SGPlugin extends Plugin {
   }
 
   /** 🕰 the timeline view, optionally scrolled to a year */
-  async openTimeline(year: number | null): Promise<void> {
-    let leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0] ?? null;
-    if (!leaf) {
-      // replace the current page (history remembers it) — never mint a tab
-      leaf = this.app.workspace.getLeaf(false);
+  /** the timeline replaces the CURRENT page, with that page behind it in
+   * history — never a jump to some older Timeline tab, which has nothing
+   * behind it and leaves the navbar's ‹ dead (user-reported) */
+  private async timelineLeaf(): Promise<WorkspaceLeaf> {
+    const leaf = this.app.workspace.getLeaf(false);
+    if (leaf.view.getViewType() !== TIMELINE_VIEW) {
       recordHistory(leaf);
       await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
     }
     await this.app.workspace.revealLeaf(leaf);
+    return leaf;
+  }
+
+  async openTimeline(year: number | null): Promise<void> {
+    const leaf = await this.timelineLeaf();
     const view = leaf.view;
     if (view instanceof TimelineView && year != null) view.setYear(year);
   }
@@ -622,22 +628,14 @@ export default class SGPlugin extends Plugin {
 
   /** jump to the timeline focused on one subject */
   async openTimelineFocus(subject: { kind: "people" | "places" | "things"; name: string }): Promise<void> {
-    await this.openTimeline(null);
-    const leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0];
-    const view = leaf?.view;
+    const leaf = await this.timelineLeaf();
+    const view = leaf.view;
     if (view instanceof TimelineView) view.setFocus(subject);
   }
 
   /** the timeline pre-shaped by the shelf: whole story, one lane, or a saved mix */
   private async openTimelinePreset(p: TimelinePreset): Promise<void> {
-    let leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0] ?? null;
-    if (!leaf) {
-      // replace the current page (history remembers it) — never mint a tab
-      leaf = this.app.workspace.getLeaf(false);
-      recordHistory(leaf);
-      await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
-    }
-    await this.app.workspace.revealLeaf(leaf);
+    const leaf = await this.timelineLeaf();
     const view = leaf.view;
     if (view instanceof TimelineView) view.applyPreset(p);
   }

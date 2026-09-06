@@ -177,6 +177,8 @@ export class TimelineView extends ItemView {
   private cats = new Set(CATS.map(c => c.key));
   private detail = false;         // false = major+notable only
   private depth: 1 | 2 | 3 = 2;   // 2 = braids; 3 = ✨ the constellation
+  /** the plain depth ✨ was entered from, so a second tap returns there */
+  private depthBefore: 1 | 2 = 2;
   /** the live physics sky when depth 3 is on — one instance, torn down
    * whenever the stream re-renders or the view closes */
   private graph: TimeGraph | null = null;
@@ -459,8 +461,16 @@ export class TimelineView extends ItemView {
         b.setAttr("title", hint);
         b.toggleClass("sg-tl-seg-on", this.depth === d);
         b.onclick = () => {
-          if (this.depth === d) return;
-          this.depth = d;
+          // ✨ is a toggle: tapping it while the constellation is up returns
+          // to the plain timeline you had before (user-reported: a second
+          // tap did nothing, and 1/2 was not an obvious way back)
+          if (this.depth === d) {
+            if (d !== 3) return;
+            this.depth = this.depthBefore;
+          } else {
+            if (d === 3) this.depthBefore = this.depth;
+            this.depth = d;
+          }
           this.saveDepth();
           this.render();
         };

@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.12 build 8f5d51d5 2026-09-06T16:54:01Z */
+/* scripture-graph v0.65.13 build c2e9780c 2026-09-06T16:58:17Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.12", sha: "8f5d51d5", at: "2026-09-06T16:54:01Z" };
+    define_SG_BUILD_default = { version: "0.65.13", sha: "c2e9780c", at: "2026-09-06T16:58:17Z" };
   }
 });
 
@@ -8192,6 +8192,8 @@ var init_timelineView = __esm({
       // false = major+notable only
       depth = 2;
       // 2 = braids; 3 = ✨ the constellation
+      /** the plain depth ✨ was entered from, so a second tap returns there */
+      depthBefore = 2;
       /** the live physics sky when depth 3 is on — one instance, torn down
        * whenever the stream re-renders or the view closes */
       graph = null;
@@ -8446,8 +8448,13 @@ var init_timelineView = __esm({
             b.setAttr("title", hint);
             b.toggleClass("sg-tl-seg-on", this.depth === d);
             b.onclick = () => {
-              if (this.depth === d) return;
-              this.depth = d;
+              if (this.depth === d) {
+                if (d !== 3) return;
+                this.depth = this.depthBefore;
+              } else {
+                if (d === 3) this.depthBefore = this.depth;
+                this.depth = d;
+              }
               this.saveDepth();
               this.render();
             };
@@ -16140,14 +16147,20 @@ var SGPlugin = class extends import_obsidian23.Plugin {
     }
   }
   /** 🕰 the timeline view, optionally scrolled to a year */
-  async openTimeline(year) {
-    let leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0] ?? null;
-    if (!leaf) {
-      leaf = this.app.workspace.getLeaf(false);
+  /** the timeline replaces the CURRENT page, with that page behind it in
+   * history — never a jump to some older Timeline tab, which has nothing
+   * behind it and leaves the navbar's ‹ dead (user-reported) */
+  async timelineLeaf() {
+    const leaf = this.app.workspace.getLeaf(false);
+    if (leaf.view.getViewType() !== TIMELINE_VIEW) {
       recordHistory(leaf);
       await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
     }
     await this.app.workspace.revealLeaf(leaf);
+    return leaf;
+  }
+  async openTimeline(year) {
+    const leaf = await this.timelineLeaf();
     const view = leaf.view;
     if (view instanceof TimelineView && year != null) view.setYear(year);
   }
@@ -16185,20 +16198,13 @@ var SGPlugin = class extends import_obsidian23.Plugin {
   }
   /** jump to the timeline focused on one subject */
   async openTimelineFocus(subject) {
-    await this.openTimeline(null);
-    const leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0];
-    const view = leaf?.view;
+    const leaf = await this.timelineLeaf();
+    const view = leaf.view;
     if (view instanceof TimelineView) view.setFocus(subject);
   }
   /** the timeline pre-shaped by the shelf: whole story, one lane, or a saved mix */
   async openTimelinePreset(p) {
-    let leaf = this.app.workspace.getLeavesOfType(TIMELINE_VIEW)[0] ?? null;
-    if (!leaf) {
-      leaf = this.app.workspace.getLeaf(false);
-      recordHistory(leaf);
-      await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
-    }
-    await this.app.workspace.revealLeaf(leaf);
+    const leaf = await this.timelineLeaf();
     const view = leaf.view;
     if (view instanceof TimelineView) view.applyPreset(p);
   }
