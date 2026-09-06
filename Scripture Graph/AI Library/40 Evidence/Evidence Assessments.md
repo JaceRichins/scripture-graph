@@ -332,6 +332,13 @@ The repeated destruction/survival details and the explicit fulfillment statement
 
 Notes: [[Internal Narrative Correspondence in Ether 15]]
 
+### bom-helaman8-murder-sign-fulfillment-correspondence
+**Fulfillment correspondence between Nephi's murder-disclosure sign and its narrated investigation in Helaman 8-9** — *strong* (supports, evidence_strength 0.8) for: The correspondence between Nephi's disclosure (murder, perpetrator, secret-band membership, and a prescribed confession test) and the narrated investigation and confession in Helaman 9 reflects deliberate final-form narrative coordination vindicating Nephi's prophetic authority.
+
+The clustered disclosure, investigation, confession-test, and narrated confession (Helaman 8:27-28; 9:1, 6, 26, 35) strongly support deliberate final-form coordination vindicating Nephi's prophetic knowledge, matching the registry's other internal prediction-fulfillment issues (bom-alma16 0.84, bom-alma25 0.8, bom-ether11 0.8, bom-ether15 0.8, bom-helaman15-alma24-allusion 0.78). Because prediction and fulfillment reach the reader through one continuous narrative source, this gives only none-band support for genuine pre-event supernatural knowledge, the murder's historicity, or inspiration.
+
+Notes: [[Narrative Predictive Sign in Helaman 8]]
+
 ### bom-mosiah11-mosiah21-bondage-fulfillment
 **Fulfillment of Abinadi's bondage warning (Mosiah 11) in the Limhi-era captivity (Mosiah 21)** — *strong* (supports, evidence_strength 0.8) for: The correspondence between Abinadi's warning of bondage and delayed deliverance (Mosiah 11:21-24) and its narrated fulfillment, explicitly marked as fulfilling 'the word of the Lord' (Mosiah 21:3-15), reflects deliberate final-form prophecy-fulfillment design.
 
