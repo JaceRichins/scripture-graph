@@ -23,7 +23,13 @@ Scripture: [[Mosiah 5]] · My notes: [[Mosiah 5 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Response to the sermon (vv. 1–4):** The people profess belief, describe changed hearts, and report knowledge and joy.
+2. **Covenant commitment (vv. 5–6):** They promise lifelong obedience, and Benjamin accepts the covenant as righteous.
+3. **A new name and relationship (vv. 7–10):** Benjamin calls them Christ's children and links his name with freedom and salvation.
+4. **Retaining the name (vv. 11–14):** Transgression can blot out the name; service and inward familiarity are necessary to know the master.
+5. **Concluding exhortation (v. 15):** Steadfast good works lead toward being sealed to Christ and receiving eternal life.
+
+The right-hand/left-hand contrast in vv. 9–10 is a simple antithetical parallel rather than a full chiastic structure — worth noting so the pattern isn't overstated into something the text doesn't build.
 <!-- SG:END structure -->
 
 ## People
@@ -46,22 +52,27 @@ _Not yet developed._
 - [[Mosiah 1]] — 2 footnote cross-references (from [[Mosiah 5#^mosiah-5-8|Mosiah 5:8]])
 - [[Mosiah 26]] — 2 footnote cross-references (from [[Mosiah 5#^mosiah-5-8|Mosiah 5:8]])
 - [[Mosiah 3]] — 1 parallel verse, e.g. [[Mosiah 5#^mosiah-5-5|Mosiah 5:5]] ↔ [[Mosiah 3#^mosiah-3-26|Mosiah 3:26]]
+- [[Mosiah 3]] — 0 parallel verses
 - [[Alma 46]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Covenants]]
-- [[Endurance]]
 - [[Conversion]]
 - [[Prophecy]]
+- [[Endurance]]
+- [[Jesus Christ (Gospel Topic)]]
 - [[Salvation]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Three doctrinal moves stand out. First, conversion is described not merely as belief but as a felt, describable transformation — 'a mighty change... in our hearts' (v. 2) — that removes 'disposition to do evil.' The text does not say this makes a person incapable of sin; the later warning about transgression (v. 11) argues against reading it as permanent moral immunity. Second, covenant-making is tied to a change of status and identity: the people become 'children of Christ' by spiritual rebirth (v. 7), language the chapter itself does not further explain mechanically. Third, and most emphatically, salvation is bound to a name: 'there is no other name given whereby salvation cometh' (v. 8), and retaining that name is explicitly conditional — it 'never should be blotted out, except it be through transgression' (v. 11) — making the covenant an ongoing responsibility rather than a completed transaction.
+
+Verse 15 holds good works and divine action together: the people must abound in good works, while Christ seals and saves through his own wisdom, power, justice, and mercy — resisting a simple opposition between human fidelity and [[Grace]]. See [[Covenants]], [[Conversion]], [[Salvation]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -94,22 +105,38 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The chapter repeatedly uses **name** as more than a verbal label: taking, retaining, knowing, and being called by Christ's name express identity, allegiance, recognition, and covenant standing. The image of a name written in the heart makes that identity inward, while its possible erasure (v. 11) makes it conditional. The phrase 'under this head' (v. 8) likely continues this language of belonging and authority, though its exact nuance — leadership, covenant affiliation, or both — is not defined by the text.
+
+Separately, the closing phrase 'steadfast and immovable, always abounding in good works' (v. 15) closely tracks the King James wording of 1 Corinthians 15:58 ('stedfast, unmoveable, always abounding in the work of the Lord'). This is worth noting honestly as an observation about the English text's phrasing: it may reflect the translation's use of familiar KJV idiom, a shared exhortative vocabulary, or — as critics sometimes note — an apparent anachronism in a text set generations before Paul. The parallel does not by itself resolve questions of translation method or textual origin.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The moral language near the beginning and end forms a clear thematic frame: the people report a disposition to "do good continually" in verse 2, and Benjamin commands them to be "always abounding in good works" in verse 15. The response is therefore tested by continuing action.
+
+The exclusive-saving-name statement in verse 8 closely recalls [[Mosiah 3]], especially Mosiah 3:17. This repetition ties the people's covenant response to the central christological claim of Benjamin's sermon without requiring a more elaborate literary theory.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Verbal And Thematic Parallel
+> Mosiah 5:8 closely reprises the exclusive-saving-name teaching of Mosiah 3:17. This strongly supports reading the covenant scene as a response to and continuation of Benjamin's preceding sermon, although it does not identify the history of composition.
+> — strength 0.9 · confidence 0.9 · broadly accepted · [[Internal Verbal And Thematic Parallel in Mosiah 5|full dossier]]
+
+> [!evidence] Language/Style Parallel (Kjv Phraseology) *(tentative)*
+> The closing phrase 'steadfast and immovable, always abounding in good works' (Mosiah 5:15) closely parallels the King James wording of Paul's exhortation to be 'stedfast, unmoveable, always abounding in the work of the Lord.' This is a genuine stylistic/language observation about the text's English phrasing, not a claim about the underlying ancient record.
+> — strength 0.4 · confidence 0.6 · disputed, honestly labeled
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does "with one voice" describe a literally simultaneous response, a representative acclamation, or a compressed narrative summary?
+
+- What distinction does the chapter make between receiving Christ's name in verses 7–9 and retaining it in verses 11–12?
+
+- How do good works, Christ's sealing action, justice, and mercy function together in verse 15?
+
+- What does service contribute to knowing Christ according to verses 12–14?
 <!-- SG:END questions -->
 
 ## Further Study
