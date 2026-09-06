@@ -23,7 +23,12 @@ Scripture: [[Matthew 26]] · My notes: [[Matthew 26 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Death announced and plotted (vv. 1–5):** Jesus predicts crucifixion while the leaders plan a secret arrest.
+2. **Anointing and betrayal (vv. 6–16):** the woman's costly act is set beside Judas's bargain.
+3. **Passover meal (vv. 17–30):** betrayal is disclosed, and Jesus interprets the bread and cup.
+4. **Predictions and prayer (vv. 31–46):** scattering, resurrection, and Peter's denial are foretold; Jesus prays three times while the disciples sleep.
+5. **Betrayal and arrest (vv. 47–56):** Jesus rejects armed resistance, appeals to scripture, and is deserted.
+6. **Hearing and denial (vv. 57–75):** Jesus confesses his future authority before the council while Peter progressively denies knowing him.
 <!-- SG:END structure -->
 
 ## People
@@ -50,35 +55,39 @@ _Not yet developed._
 - [[Matthew 27]] — 2 footnote cross-references (from [[Matthew 26#^matt-26-4|Matthew 26:4]])
 - [[Mosiah 3]] — 2 footnote cross-references (from [[Matthew 26#^matt-26-39|Matthew 26:39]])
 - [[Isaiah 50]] — 2 footnote cross-references (from [[Matthew 26#^matt-26-39|Matthew 26:39]])
-- [[Mark 14]] — 29 parallel verses, e.g. [[Matthew 26#^matt-26-31|Matthew 26:31]] ↔ [[Mark 14#^mark-14-27|Mark 14:27]]
-- [[Luke 22]] — 10 parallel verses, e.g. [[Matthew 26#^matt-26-75|Matthew 26:75]] ↔ [[Luke 22#^luke-22-61|Luke 22:61]]
 - [[Matthew 27]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-59|Matthew 26:59]] ↔ [[Matthew 27#^matt-27-1|Matthew 27:1]]
 - [[John 13]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-21|Matthew 26:21]] ↔ [[John 13#^john-13-21|John 13:21]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-15|Matthew 26:15]] ↔ [[3 Nephi 27#^3ne-27-2|3 Nephi 27:2]]
 - [[Luke 23]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-34|Matthew 26:34]] ↔ [[Luke 23#^luke-23-43|Luke 23:43]]
 - [[Mark 11]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-3|Matthew 26:3]] ↔ [[Mark 11#^mark-11-27|Mark 11:27]]
+- [[Mark 14]] — 0 parallel verses
+- [[Luke 22]] — 0 parallel verses
+- [[John 12]] — 0 parallel verses
+- [[John 13]] — 0 parallel verses
 - [[Exodus 24]] — 0 parallel verses
 - [[2 Nephi 7]] — 0 parallel verses
 - [[D&C 27]] — 0 parallel verses
-- [[3 Nephi 18]] — 0 parallel verses
-- [[Deuteronomy 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Passover]]
 - [[Gethsemane]]
 - [[Sacrament]]
+- [[Passover]]
+- [[Apostles]]
+- [[Prophecy]]
+- [[Crucifixion of Jesus Christ]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
-- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
-- [[Apostles]] *(keyword match — unconfirmed)*
-- [[Witnesses of the Book of Mormon]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The cup saying is the chapter's clearest interpretation of Jesus's approaching death: his blood is associated with a new covenant, many beneficiaries, and remission of sins (vv. 27–28). This makes the [[Sacrament]] inseparable from the [[Atonement of Jesus Christ]], while the promise of drinking anew in the Father's kingdom adds future hope (v. 29).
+
+The prayers in [[Gethsemane]] present obedience as willing submission amid severe anguish, not the absence of anguish. Jesus asks for the cup to pass while yielding to the Father's will (vv. 39, 42, 44). His command to watch and pray also presents [[Prayer]] as protection against temptation, especially when sincere intention is opposed by human weakness (vv. 40–41).
+
+At the arrest, Jesus refuses to make violence the means of escape. He cites both the danger of the sword and the necessity that scripture be fulfilled (vv. 52–56).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -111,25 +120,46 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several repeated expressions bind the chapter together. Forms of “betray” recur from Jesus's opening prediction through Judas's approach and the arrest. References to what “is written” or to scripture being “fulfilled” interpret the apparent success of Jesus's enemies within a scriptural frame (vv. 24, 31, 54, 56). Repetition also structures Gethsemane: Jesus prays three times while the disciples repeatedly fail to watch, anticipating Peter's three denials.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter uses contrast and irony more than detached explanation. The unnamed woman gives costly ointment, whereas Judas asks what others will give him. The disciples promise loyalty but sleep, flee, and deny. Jesus is treated as a powerless prisoner yet speaks of sitting at the right hand of power. His prophetic identity is mocked in verses 67–68, immediately before his prediction about Peter is fulfilled in verses 69–75.
+
+These patterns strongly support intentional narrative design. They do not, by themselves, decide historical questions about the origin or precise wording of each tradition.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Converging Internal Statements
+> Jesus rejects armed resistance, claims that angelic aid is available, and grounds his surrender in the fulfillment of scripture. Taken together, these statements strongly support the narrative interpretation that his arrest is accepted voluntarily rather than caused by an inability to resist.
+> — strength 0.9 · confidence 1.0 · strong narrative interpretation · [[Converging Internal Statements in Matthew 26|full dossier]]
+
+> [!evidence] Internal Narrative Pattern
+> Within the chapter, Judas's betrayal, the disciples' flight, and Peter's three denials correspond to Jesus's preceding predictions. This is strong internal evidence for a deliberately constructed prediction-fulfillment pattern and for Matthew's portrayal of Jesus as possessing foreknowledge.
+> — strength 0.9 · confidence 1.0 · broadly accepted literary observation · [[Internal Narrative Pattern in Matthew 26|full dossier]]
+
+> [!evidence] Doctrinal Interpretation *(tentative)*
+> Latter-day Saint doctrinal tradition reads Jesus's suffering in Gethsemane (Matthew 26:36-46) as itself constituting a substantial part of his atoning suffering for sin, a theological conclusion drawn primarily from other scripture (e.g., Doctrine and Covenants 19) rather than from anything Matthew's own narrative states; Matthew's text describes only prayer, sorrow, and submission to the Father's will, without characterizing the suffering as vicarious or atoning.
+> — strength 0.5 · confidence 0.8 · LDS doctrinal synthesis; not explicit in Matthew
+
+> [!evidence] Intertextual Allusion *(tentative)*
+> Jesus's answer to Caiaphas about seeing 'the Son of man sitting on the right hand of power, and coming in the clouds of heaven' combines royal/enthronement imagery paralleling Psalm 110:1 ('sit thou at my right hand') with heavenly-figure imagery paralleling Daniel 7:13 ('one like the Son of man ... came with the clouds of heaven'), which many scholars read as a deliberate double allusion identifying Jesus as both messianic king and the Danielic heavenly figure.
+> — strength 0.7 · confidence 0.8 · allusions widely recognized; theological significance debated
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does Matthew place the woman's anointing immediately before Judas's bargain?
+- What does each Gethsemane prayer add to the portrayal of Jesus's submission?
+- How does the immediate context constrain interpretations of “ye have the poor always with you”?
+- Why does Jesus reject the sword even while stating that overwhelming heavenly aid is available?
+- How do Psalm 110:1 and Daniel 7:13–14 clarify the claim made before Caiaphas?
+- What stages can be traced between Peter's confident promise in verse 35 and his bitter weeping in verse 75?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the full narrative with [[Mark 14]] and [[Luke 22]], noting both shared sequence and distinctive details. Compare the anointing with [[John 12]] without assuming that every detail is identical, and compare the betrayer scene with [[John 13]]. For scriptural background, examine Exodus 24:8 and Jeremiah 31:31 for covenant language, Zechariah 13:7 for the struck shepherd, and Psalm 110:1 with Daniel 7:13–14 for Jesus's declaration before Caiaphas. Continue into [[Matthew 27]] to follow the consequences for both Jesus and Judas.
 <!-- SG:END further-study -->
