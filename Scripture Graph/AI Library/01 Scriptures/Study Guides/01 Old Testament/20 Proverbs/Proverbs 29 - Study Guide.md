@@ -23,7 +23,14 @@ Scripture: [[Proverbs 29]] · My notes: [[Proverbs 29 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+Because the chapter is a collection of short sayings, any outline should remain provisional. A useful thematic map is:
+
+- Verses 1–4: reproof, righteous rule, family conduct, and just government.
+- Verses 5–14: traps created by flattery, transgression, scorn, folly, lies, and neglected justice; the section culminates in the king's duty toward the poor.
+- Verses 15–21: correction, family discipline, vision and law, speech, and household authority.
+- Verses 22–27: anger, [[Pride]], complicity in theft, fear, divine judgment, and the opposition between upright and wicked ways.
+
+Themes cross these boundaries, so this is a reading aid rather than a demonstrated formal division.
 <!-- SG:END structure -->
 
 ## People
@@ -45,18 +52,23 @@ _Not yet developed._
 - [[D&C 98]] — 1 footnote cross-reference (from [[Proverbs 29#^prov-29-2|Proverbs 29:2]])
 - [[Mosiah 11]] — 1 footnote cross-reference (from [[Proverbs 29#^prov-29-3|Proverbs 29:3]])
 - [[Proverbs 26]] — 1 parallel verse, e.g. [[Proverbs 29#^prov-29-20|Proverbs 29:20]] ↔ [[Proverbs 26#^prov-26-12|Proverbs 26:12]]
+- [[Proverbs 26]] — 0 parallel verses
 - [[D&C 98]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Government and Laws]]
+- [[Pride]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter's political wisdom belongs naturally with [[Government and Laws]] and [[Justice and Mercy]]. Righteous authority is measured partly by its treatment of the poor (verses 7, 14), while corruption spreads when a ruler welcomes lies (verse 12). Yet verse 26 prevents government from becoming ultimate: people may seek a ruler's favor, but judgment finally comes from the LORD.
+
+Verse 18 links vision with keeping the law. In context, the issue is not simply having an inspiring plan; the contrast concerns divine guidance and faithful response. Verse 25 likewise relocates security from human approval to trust in the LORD.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -75,12 +87,14 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Proverbs 29:18 pairs the absence of “vision” with keeping the law. That context favors a religious and moral sense—revealed or divinely given guidance—over reading the line merely as advice to create an organizational plan. The exact force of the KJV terms “vision,” “perish,” and “law” remains translation-dependent, however, so the verse should not be reduced to a single modern slogan or treated as lexically settled without consulting the Hebrew and major translations.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Antithetic parallelism drives much of the chapter: righteous and wicked rule (verse 2), justice and corrupt gain (verse 4), folly and restraint (verse 11), pride and humility (verse 23), and fear and trust (verse 25). These contrasts do more than classify individuals; they trace consequences from inward character to households, courts, cities, and the land.
+
+Images of entrapment connect several sayings. Flattery spreads a net (verse 5), transgression contains a snare (verse 6), scorners ensnare a city (verse 8), and fear of people brings a snare (verse 25). The repeated imagery portrays destructive conduct as something that eventually confines either its practitioner or the surrounding community.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
@@ -90,10 +104,14 @@ _Not yet developed._
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+1. How do verses 4, 12, and 14 distinguish just authority from merely possessing power?
+2. What does it mean in practice to “consider” the cause of the poor in verse 7?
+3. How does the pairing of vision and law in verse 18 constrain modern applications of that saying?
+4. What forms of fear of people create the snare described in verse 25?
+5. Why does the chapter repeatedly move between individual character and consequences for families or cities?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare [[Proverbs 26]], especially Proverbs 26:12, with Proverbs 29:20. Both sayings use the same rhetorical opening and the exact conclusion, “there is more hope of a fool than of him,” while applying it to different dispositions. Also compare Proverbs 29:24 with Leviticus 5:1 concerning hearing an oath or imprecation and failing to disclose knowledge; the situations are illuminatingly similar but need not be identical. For Proverbs 29:18, compare 1 Samuel 3:1 and consult modern translations or lexical resources before drawing precise conclusions about “vision” and “perish.”
 <!-- SG:END further-study -->
