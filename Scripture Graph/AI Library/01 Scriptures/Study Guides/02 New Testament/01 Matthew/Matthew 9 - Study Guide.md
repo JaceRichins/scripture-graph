@@ -17,13 +17,20 @@ Scripture: [[Matthew 9]] · My notes: [[Matthew 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Jesus forgives sins, heals a paralytic, and calls Matthew—Jesus eats with sinners, heals a woman who touches His garments, and raises Jairus’s daughter to life—He opens the eyes of the blind, casts out a devil, and preaches the gospel.
+Matthew 9 gathers a chain of miracle accounts with controversies over Jesus's authority. He forgives and heals a paralyzed man (9:1-8), calls Matthew the tax collector and eats with "publicans and sinners" (9:9-13), answers a question about [[Fasting]] with the parables of new cloth and new wine (9:14-17), heals a woman with a chronic illness on the way to raise a ruler's daughter (9:18-26), opens the eyes of two blind men (9:27-31), and casts a devil out of a mute man amid a hostile accusation from the Pharisees (9:32-34). The chapter closes with a summary of his ministry and a charge to pray for laborers in the [[Missionary Work|harvest]] (9:35-38). [[Faith]] is named explicitly in several of these episodes as bound up with the healing that follows, and the narrative repeatedly pairs a contested or invisible claim (forgiveness, identity, cause) with a visible act that onlookers are left to interpret.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Forgiveness and healing (9:1–8):** the paralytic's visible healing answers the accusation raised by Jesus' declaration of forgiveness.
+
+2. **Calling sinners and questions of practice (9:9–17):** Matthew follows Jesus; table fellowship prompts the physician and mercy sayings; a fasting question leads to the bridegroom, cloth, and wineskin images.
+
+3. **Interwoven restorations (9:18–26):** the woman's healing occurs inside the account of the ruler's daughter.
+
+4. **Sight, speech, and divided responses (9:27–34):** blind men see, a dumb man speaks, the crowds marvel, and the Pharisees accuse.
+
+5. **Compassion and harvest (9:35–38):** Jesus' teaching and healing ministry culminates in concern for shepherdless crowds and prayer for laborers.
 <!-- SG:END structure -->
 
 ## People
@@ -46,26 +53,30 @@ _Not yet developed._
 - [[Luke 7]] — 1 footnote cross-reference (from [[Matthew 9#^matt-9-2|Matthew 9:2]])
 - [[D&C 68]] — 1 footnote cross-reference (from [[Matthew 9#^matt-9-2|Matthew 9:2]])
 - [[D&C 112]] — 1 footnote cross-reference (from [[Matthew 9#^matt-9-2|Matthew 9:2]])
-- [[Mark 2]] — 10 parallel verses, e.g. [[Matthew 9#^matt-9-6|Matthew 9:6]] ↔ [[Mark 2#^mark-2-10|Mark 2:10]]
-- [[Luke 5]] — 9 parallel verses, e.g. [[Matthew 9#^matt-9-15|Matthew 9:15]] ↔ [[Luke 5#^luke-5-35|Luke 5:35]]
-- [[Matthew 4]] — 1 parallel verse, e.g. [[Matthew 9#^matt-9-35|Matthew 9:35]] ↔ [[Matthew 4#^matt-4-23|Matthew 4:23]]
-- [[Luke 8]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-22|Matthew 9:22]] ↔ [[Luke 8#^luke-8-48|Luke 8:48]]
 - [[Mark 10]] — 3 parallel verses, e.g. [[Matthew 9#^matt-9-22|Matthew 9:22]] ↔ [[Mark 10#^mark-10-52|Mark 10:52]]
-- [[Matthew 12]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-11|Matthew 9:11]] ↔ [[Matthew 12#^matt-12-2|Matthew 12:2]]
-- [[Luke 10]] — 1 parallel verse, e.g. [[Matthew 9#^matt-9-38|Matthew 9:38]] ↔ [[Luke 10#^luke-10-2|Luke 10:2]]
 - [[Luke 18]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-27|Matthew 9:27]] ↔ [[Luke 18#^luke-18-38|Luke 18:38]]
+- [[Mark 2]] — 0 parallel verses
+- [[Luke 5]] — 0 parallel verses
+- [[Mark 5]] — 0 parallel verses
+- [[Luke 8]] — 0 parallel verses
+- [[Mark 2]] — 0 parallel verses
+- [[Luke 5]] — 0 parallel verses
+- [[Matthew 4]] — 0 parallel verses
+- [[Matthew 12]] — 0 parallel verses
+- [[Luke 8]] — 0 parallel verses
+- [[Luke 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Repentance and Forgiveness]]
 - [[Faith]] *(keyword match — unconfirmed)*
-- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter closely joins [[Repentance and Forgiveness]], [[Faith]], and [[Justice and Mercy]]. Forgiveness is asserted before the paralytic's cure and then supported within the narrative by a visible act. Jesus' fellowship with sinners is framed through the physician metaphor and a call to repentance, so mercy and moral change are presented together rather than as opposites. Faith repeatedly involves trust in Jesus, but these episodes should not be converted into a universal promise that every faithful person will receive immediate physical healing.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -102,17 +113,23 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Matthew repeatedly pairs an invisible or contested claim (forgiveness, faith, identity) with a visible act that other characters must then interpret — most explicitly in 9:6, where the healing is offered "that ye may know" the Son of man's authority to forgive. The account of the woman with an issue of blood is inserted inside the account of the ruler's daughter (9:18-26), a narrative technique sometimes called intercalation or "sandwiching"; readers can weigh for themselves how far the two stories comment on each other beyond sharing this connecting device. The chapter also ends prospectively: the shortage of laborers in 9:37-38 sets up the commissioning narrated in [[Matthew 10]].
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary/Historical-Context *(tentative)*
+> Jesus's instruction 'go and learn what that meaneth' (Matthew 9:13), citing Hosea 6:6, mirrors a rabbinic pedagogical convention of sending an interlocutor back to scripture to resolve a legal dispute, which is consistent with a first-century Jewish teaching setting.
+> — strength 0.3 · confidence 0.5 · unsourced historical claim, plausible but speculative
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Whose faith is in view in "their faith" (9:2) — the men who carried the paralytic, the paralytic himself, or both?
+- Why does Matthew leave the ruler unnamed, where Mark's and Luke's parallel accounts call him Jairus?
+- How far should the new-cloth and new-wineskin sayings (9:16-17) be pressed — do they address only the immediate fasting question, or something broader?
+- What does "sleepeth" mean in 9:24, given that the ruler has already reported his daughter dead?
+- Why does Jesus command secrecy after healing the blind men (9:30) when other healings in the chapter become known openly (9:26, 9:31)?
 <!-- SG:END questions -->
 
 ## Further Study
