@@ -23,7 +23,13 @@ Scripture: [[Numbers 34]] · My notes: [[Numbers 34 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **The territorial circuit (vv. 1–12):** south, west, north, and east, ending at the Salt Sea.
+
+2. **Who will inherit this territory (vv. 13–15):** nine tribes and half of Manasseh; the remaining two and one-half tribes already possess land east of Jordan.
+
+3. **Who will administer the division (vv. 16–29):** Eleazar, Joshua, and ten tribal princes.
+
+The sequence moves from land, to recipients, to accountable administrators.
 <!-- SG:END structure -->
 
 ## People
@@ -67,12 +73,13 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Government and Laws]]
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter links divine gift with ordered human responsibility. The LORD designates the inheritance, yet the land is divided by lot through named leaders and tribal representatives (vv. 13, 17–18, 29). This provides a concrete instance of covenant blessing being administered through communal institutions. It relates naturally to the [[Abrahamic Covenant]] and [[Government and Laws]], although the chapter itself does not restate the Abrahamic promises or explain the mechanics of the lot.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -94,17 +101,33 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The boundary list forms a geographic circuit and closes with the summary, “this shall be your land with the coasts thereof round about” (v. 12). A second organizing pattern appears in the allocation roster: the groups already settled east of Jordan are named as exceptions, and the ensuing list contains representatives for those still receiving land in Canaan. The later description in [[Joshua 14]] repeats the principal administrators and the use of lots, creating strong narrative continuity.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary Coherence
+> The agreement between the eastern-land exception, the composition of the representative roster, and the later allocation led by Eleazar and Joshua is meaningful evidence of literary and administrative coherence across the wilderness and conquest narratives.
+> — strength 0.6 · confidence 0.9 · Correspondence accepted; historical implications explicitly limited · [[Internal Literary Coherence in Numbers 34|full dossier]]
+
+> [!evidence] Textual/Geographic Comparison *(tentative)*
+> The territory bounded in Numbers 34:1-12 (Dead Sea/Wadi of Egypt in the south, Mediterranean in the west, a line through Lebanon in the north, Jordan/Sea of Galilee in the east) is markedly smaller than the maximal land grant described in Genesis 15:18, which extends 'from the river of Egypt unto the great river, the river Euphrates.' This supports, but does not by itself establish, a distinction between an idealized/maximal covenant boundary and the narrower territory actually apportioned to the generation entering Canaan.
+> — strength 0.5 · confidence 0.7 · Textual difference accepted; geographic and theological interpretation disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does the prescribed boundary represent an ideal claim, an administrative program, or territory actually occupied at a particular time?
+
+- Which proposed identifications of the River of Egypt, Mount Hor, Hazar-enan, and other border sites best fit the complete itinerary?
+
+- How does distribution by lot function alongside the appointment of leaders and tribal representatives?
+
+- Why is Caleb, already prominent in [[Numbers 13]], selected as Judah’s representative?
+
+- Why is Levi absent from the territorial roster, and how do the Levitical cities prescribed in [[Numbers 35]] qualify descriptions of Levi as landless?
+
+- How should verse 18’s general phrase “one prince of every tribe” be understood alongside the ensuing list of ten representatives?
 <!-- SG:END questions -->
 
 ## Further Study
