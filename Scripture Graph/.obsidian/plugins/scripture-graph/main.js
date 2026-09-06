@@ -1,4 +1,4 @@
-/* scripture-graph v0.68.0 build a5718da3 2026-09-06T21:03:19Z */
+/* scripture-graph v0.68.1 build 96f7c87b 2026-09-06T21:15:33Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.68.0", sha: "a5718da3", at: "2026-09-06T21:03:19Z" };
+    define_SG_BUILD_default = { version: "0.68.1", sha: "96f7c87b", at: "2026-09-06T21:15:33Z" };
   }
 });
 
@@ -12633,6 +12633,19 @@ function releaseKeyboard(root = null) {
     window.setTimeout(() => window.dispatchEvent(new Event("resize")), 60);
   }
 }
+var COVER_ALIAS = {
+  "bible-dictionary": "dictionary",
+  "joseph-smith-papers": "papers",
+  "general-conference": "conference",
+  "words-of-the-prophets": "prophets",
+  "journals-and-writings": "journals",
+  "teachings-of-presidents": "teachings",
+  "revelations-in-context": "revelations"
+};
+function coverKey(name) {
+  const slug = name.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  return COVER_ALIAS[slug] ?? slug;
+}
 var INSIGHTS_PATH = "AI Library/00 System/Insights.md";
 var COVERS_PATH = "AI Library/00 System/covers";
 var QUESTIONS_PATH = "AI Library/50 Questions";
@@ -12867,7 +12880,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     } else if (opts.icon) {
       navIcon(art, opts.icon);
     }
-    const key = opts.jacket ? "scriptures" : opts.icon;
+    const key = opts.photo ?? (opts.jacket ? "scriptures" : opts.icon);
     const photo = key ? this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${key}.jpg`) : null;
     if (photo instanceof import_obsidian4.TFile) {
       const img = art.createEl("img", {
@@ -13156,23 +13169,38 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     const listing = this.host.listFolder(path);
     const yearish = listing.folders.length > 3 && listing.folders.every((f) => /^\d{4}$/.test(f.name));
     const folders = yearish ? [...listing.folders].reverse() : listing.folders;
+    if (folders.length && !yearish) {
+      this.coverSeq = 0;
+      const grid = c2.createDiv({ cls: "sg-nav-covers" });
+      for (const f of folders) {
+        this.cover(grid, {
+          icon: "folder",
+          label: f.name,
+          photo: coverKey(f.name),
+          onTap: () => this.go({ kind: "folder", path: f.path, title: f.name })
+        });
+      }
+    }
     let filter = "";
     const list = c2.createDiv({ cls: "sg-nav-list" });
     const renderRows = () => {
       list.empty();
       const q = filter.toLowerCase();
       let i = 0;
-      for (const f of folders) {
-        if (q && !f.name.toLowerCase().includes(q)) continue;
-        const row = list.createDiv({ cls: "sg-nav-row" });
-        cascade(row, i++);
-        navIcon(row, "folder");
-        row.createSpan({ cls: "sg-nav-name", text: f.name });
-        row.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
-        row.onclick = () => this.go({ kind: "folder", path: f.path, title: f.name });
+      if (yearish) {
+        for (const f of folders) {
+          if (q && !f.name.toLowerCase().includes(q)) continue;
+          const row = list.createDiv({ cls: "sg-nav-row" });
+          cascade(row, i++);
+          navIcon(row, "folder");
+          row.createSpan({ cls: "sg-nav-name", text: f.name });
+          row.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
+          row.onclick = () => this.go({ kind: "folder", path: f.path, title: f.name });
+        }
       }
       for (const fi of listing.files) {
         if (q && !fi.name.toLowerCase().includes(q)) continue;
+        if (fi.name === (this.view.kind === "folder" ? this.view.title : "")) continue;
         const row = list.createDiv({ cls: "sg-nav-row sg-nav-file" });
         cascade(row, i++);
         navIcon(row, "page");
@@ -14747,8 +14775,7 @@ var DOC_KINDS = [
   { prefix: `${LIBRARY_PREFIX}50 Questions/`, eyebrow: "Hard question", moc: "Questions.md" },
   { prefix: `${LIBRARY_PREFIX}10 General Conference/`, eyebrow: "General Conference", moc: "General Conference.md" },
   { prefix: `${LIBRARY_PREFIX}65 Secondary Sources/`, eyebrow: "Podcasts & talks", moc: "Secondary Sources.md" },
-  { prefix: `${LIBRARY_PREFIX}20 Words of the Prophets/`, eyebrow: "Words of the Prophets", moc: "Words of the Prophets.md" },
-  { prefix: `${LIBRARY_PREFIX}30 Church History/Periodicals/`, eyebrow: "Periodical", moc: "Periodicals.md" }
+  { prefix: `${LIBRARY_PREFIX}30 Church History/`, eyebrow: "Church History", moc: "Church History.md" }
 ];
 function docKindFor(path) {
   for (const k of DOC_KINDS) {

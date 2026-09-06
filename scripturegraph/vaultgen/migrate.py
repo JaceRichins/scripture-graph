@@ -18,9 +18,9 @@ from scripturegraph import gitops
 from scripturegraph.context import Ctx
 from scripturegraph.util import atomic_write_text, now_iso, read_text
 from scripturegraph.vaultgen import md as mdkit
-from scripturegraph.vaultgen.generate import (FOLDER_EVIDENCE, FOLDER_JSP, FOLDER_LIBRARY,
-                                              FOLDER_PROPHETS, FOLDER_QUESTIONS,
-                                              generate_framework, record_file)
+from scripturegraph.vaultgen.generate import (FOLDER_EVIDENCE, FOLDER_HISTORY, FOLDER_JSP,
+                                              FOLDER_LIBRARY, FOLDER_PROPHETS, FOLDER_QUESTIONS,
+                                              FOLDER_SAINTS, generate_framework, record_file)
 
 OLD_FOLDER = f"{FOLDER_LIBRARY}/40 Evidence"
 NEW_FOLDER = FOLDER_EVIDENCE            # .../40 Findings
@@ -154,4 +154,70 @@ def rename_prophets_folder(ctx: Ctx) -> dict:
     stats["commit"] = gitops.commit_all(
         ctx, "vault: 20 Joseph Smith Papers → 20 Words of the Prophets (JSP records one shelf inside)")
     ctx.log.info("vault.prophets_renamed", **{k: v for k, v in stats.items() if k != "commit"})
+    return stats
+
+
+# ------------------------------------------------------- Church History, organised
+
+def _move_tree(ctx: Ctx, old_rel: str, new_rel: str) -> int:
+    """move a managed folder and re-point the registry and the graph"""
+    db = ctx.db()
+    src, dst = ctx.vault / old_rel, ctx.vault / new_rel
+    if not src.exists() or dst.exists():
+        return 0
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    shutil.move(str(src), str(dst))
+    old_prefix, new_prefix = old_rel + "/", new_rel + "/"
+    db.execute("UPDATE file_registry SET path = ? || substr(path, ?) WHERE path LIKE ?",
+               (new_prefix, len(old_prefix) + 1, old_prefix + "%"))
+    db.execute("UPDATE nodes SET vault_path = ? || substr(vault_path, ?), updated_at=? WHERE vault_path LIKE ?",
+               (new_prefix, len(old_prefix) + 1, now_iso(), old_prefix + "%"))
+    return sum(1 for _r, _d, files in os.walk(dst) for f in files if f.endswith(".md"))
+
+
+def church_history_reorg_needed(ctx: Ctx) -> bool:
+    v = ctx.vault
+    return any((v / f"{FOLDER_HISTORY}/Saints Volume {n}").exists() for n in range(1, 5)) \
+        or (v / OLD_JSP).exists() or (v / f"{FOLDER_LIBRARY}/20 Words of the Prophets").exists()
+
+
+def reorganize_church_history(ctx: Ctx) -> dict:
+    """Saints volumes into `Saints/`; the JSP records (from either earlier
+    home) into `Church History/Words of the Prophets/Joseph Smith Papers`;
+    the MOCs regenerated. Idempotent; caller holds the lock."""
+    stats = {"saints": 0, "jsp": 0, "prophets": 0}
+    if not church_history_reorg_needed(ctx):
+        return {**stats, "skipped": "already organised"}
+    gitops.checkpoint(ctx, "before church history reorganisation")
+    try:
+        for n in range(1, 5):
+            stats["saints"] += _move_tree(ctx, f"{FOLDER_HISTORY}/Saints Volume {n}",
+                                          f"{FOLDER_SAINTS}/Saints Volume {n}")
+        stats["jsp"] += _move_tree(ctx, OLD_JSP, FOLDER_JSP)
+        old_wotp = f"{FOLDER_LIBRARY}/20 Words of the Prophets"
+        if (ctx.vault / old_wotp).exists():
+            for child in list((ctx.vault / old_wotp).iterdir()):
+                rel = f"{old_wotp}/{child.name}"
+                if child.is_dir():
+                    stats["prophets"] += _move_tree(ctx, rel, f"{FOLDER_PROPHETS}/{child.name}")
+                elif child.name.endswith(".md") and child.name != "Words of the Prophets.md":
+                    (ctx.vault / FOLDER_PROPHETS).mkdir(parents=True, exist_ok=True)
+                    shutil.move(str(child), str(ctx.vault / FOLDER_PROPHETS / child.name))
+                    ctx.db().execute("UPDATE file_registry SET path=? WHERE path=?",
+                                     (f"{FOLDER_PROPHETS}/{child.name}", rel))
+                    ctx.db().execute("UPDATE nodes SET vault_path=? WHERE vault_path=?",
+                                     (f"{FOLDER_PROPHETS}/{child.name}", rel))
+            shutil.rmtree(ctx.vault / old_wotp, ignore_errors=True)
+            ctx.db().execute("DELETE FROM file_registry WHERE path LIKE ?", (old_wotp + "/%",))
+        ctx.db().commit()
+        generate_framework(ctx)
+        ctx.db().commit()
+    except Exception as e:  # noqa: BLE001
+        gitops.hard_restore(ctx)
+        ctx.db().rollback()
+        raise RuntimeError(f"church history reorganisation failed and was rolled back: {e}") from e
+    stats["commit"] = gitops.commit_all(
+        ctx, f"vault: Church History organised — Saints/ ({stats['saints']} pages), "
+             f"Words of the Prophets/Joseph Smith Papers ({stats['jsp']})")
+    ctx.log.info("vault.church_history_reorganised", **{k: v for k, v in stats.items() if k != "commit"})
     return stats

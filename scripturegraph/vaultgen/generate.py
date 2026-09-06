@@ -47,8 +47,11 @@ FOLDER_CONFERENCE = f"{FOLDER_LIBRARY}/10 General Conference"
 # JSP reference records, historical blessings -- everything the prophets said
 # that the vault may keep (corpus/prophets.py). Renamed from "20 Joseph Smith
 # Papers" 2026-09-06; the JSP records are one shelf inside it.
-FOLDER_PROPHETS = f"{FOLDER_LIBRARY}/20 Words of the Prophets"
+# ...and it lives under Church History: one door on the shelf, tiles inside
+# (owner's direction, 2026-09-06). Saints has its own folder for its volumes.
+FOLDER_PROPHETS = f"{FOLDER_LIBRARY}/30 Church History/Words of the Prophets"
 FOLDER_JSP = f"{FOLDER_PROPHETS}/Joseph Smith Papers"
+FOLDER_SAINTS = f"{FOLDER_LIBRARY}/30 Church History/Saints"
 FOLDER_HISTORY = f"{FOLDER_LIBRARY}/30 Church History"
 # "Findings" -- what the reading found. The old name, "Evidence", carried a
 # verdict in the word (evidence is FOR or AGAINST something) and most of what
@@ -591,7 +594,15 @@ def generate_framework(ctx: Ctx) -> None:
              "in `sources/drop/jsp/`. The public-domain sources on the",
              md.wikilink("Words of the Prophets") + " shelf carry most of the same words."]),
         f"{FOLDER_HISTORY}/Church History.md": _simple_moc(
-            "Church History", ["Church history narratives, documents, and context notes."]),
+            "Church History",
+            ["- " + md.wikilink("Saints") + " — the Church's narrative history, four volumes",
+             "- " + md.wikilink("Words of the Prophets") + " — Teachings of Presidents, journals and",
+             "  writings, the Joseph Smith Papers records, historical blessings",
+             "- Periodicals — Times and Seasons, Millennial Star, Nauvoo Neighbor, The Seer …",
+             "- Revelations in Context — the story behind each section of the D&C"]),
+        f"{FOLDER_SAINTS}/Saints.md": _simple_moc(
+            "Saints", ["*Saints: The Story of the Church of Jesus Christ in the Latter Days* —",
+                       "four volumes, chapter by chapter."]),
         # The old titles stay as aliases: a [[Evidence]] link in anyone's
         # personal notes still resolves, and the engine never rewrites those.
         f"{FOLDER_EVIDENCE}/Findings.md": _simple_moc(

@@ -39,6 +39,18 @@ export function releaseKeyboard(root: HTMLElement | null = null): void {
   }
 }
 
+/** covers/<key>.jpg for a shelf name: "Revelations in Context" →
+ * revelations-in-context; a few names share art with a home cover */
+const COVER_ALIAS: Record<string, string> = {
+  "bible-dictionary": "dictionary", "joseph-smith-papers": "papers", "general-conference": "conference",
+  "words-of-the-prophets": "prophets", "journals-and-writings": "journals",
+  "teachings-of-presidents": "teachings", "revelations-in-context": "revelations",
+};
+function coverKey(name: string): string {
+  const slug = name.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  return COVER_ALIAS[slug] ?? slug;
+}
+
 /** the Did-you-notice pool (see the note's own header) */
 const INSIGHTS_PATH = "AI Library/00 System/Insights.md";
 
@@ -300,7 +312,7 @@ export class SGLibraryView extends ItemView {
 
   private cover(grid: HTMLElement, opts: {
     icon?: NavIconName; hue?: string; label: string;
-    lines?: string[]; jacket?: string; onTap: () => void;
+    lines?: string[]; jacket?: string; photo?: string; onTap: () => void;
   }): void {
     const card = grid.createDiv({ cls: "sg-nav-cover" });
     cascade(card, this.coverSeq++);
@@ -320,7 +332,7 @@ export class SGLibraryView extends ItemView {
     // a photo, when the vault has one for this shelf: lazy — the card paints
     // at once in its plain hue and the image fades in when it scrolls into
     // view. `covers/<key>.jpg` is ~40 KB at 480 px; drop your own to replace.
-    const key = opts.jacket ? "scriptures" : opts.icon;
+    const key = opts.photo ?? (opts.jacket ? "scriptures" : opts.icon);
     const photo = key ? this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${key}.jpg`) : null;
     if (photo instanceof TFile) {
       const img = art.createEl("img", { cls: "sg-nav-cover-photo",
@@ -595,23 +607,38 @@ export class SGLibraryView extends ItemView {
     const yearish = listing.folders.length > 3
       && listing.folders.every(f => /^\d{4}$/.test(f.name));
     const folders = yearish ? [...listing.folders].reverse() : listing.folders;
+    // sub-shelves are tiles, like everything else on the shelf — a photo
+    // when the vault has one for that name (covers/<slug>.jpg), the plain
+    // card otherwise. Years (a conference archive) stay a list.
+    if (folders.length && !yearish) {
+      this.coverSeq = 0;
+      const grid = c.createDiv({ cls: "sg-nav-covers" });
+      for (const f of folders) {
+        this.cover(grid, { icon: "folder", label: f.name, photo: coverKey(f.name),
+          onTap: () => this.go({ kind: "folder", path: f.path, title: f.name }) });
+      }
+    }
     let filter = "";
     const list = c.createDiv({ cls: "sg-nav-list" });
     const renderRows = () => {
       list.empty();
       const q = filter.toLowerCase();
       let i = 0;
-      for (const f of folders) {
-        if (q && !f.name.toLowerCase().includes(q)) continue;
-        const row = list.createDiv({ cls: "sg-nav-row" });
-        cascade(row, i++);
-        navIcon(row, "folder");
-        row.createSpan({ cls: "sg-nav-name", text: f.name });
-        row.createSpan({ cls: "sg-nav-chev", text: "›" });
-        row.onclick = () => this.go({ kind: "folder", path: f.path, title: f.name });
+      if (yearish) {
+        for (const f of folders) {
+          if (q && !f.name.toLowerCase().includes(q)) continue;
+          const row = list.createDiv({ cls: "sg-nav-row" });
+          cascade(row, i++);
+          navIcon(row, "folder");
+          row.createSpan({ cls: "sg-nav-name", text: f.name });
+          row.createSpan({ cls: "sg-nav-chev", text: "›" });
+          row.onclick = () => this.go({ kind: "folder", path: f.path, title: f.name });
+        }
       }
       for (const fi of listing.files) {
         if (q && !fi.name.toLowerCase().includes(q)) continue;
+        // the shelf's own index page is the shelf; it is not a row on it
+        if (fi.name === (this.view.kind === "folder" ? this.view.title : "") ) continue;
         const row = list.createDiv({ cls: "sg-nav-row sg-nav-file" });
         cascade(row, i++);
         navIcon(row, "page");

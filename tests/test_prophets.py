@@ -58,3 +58,24 @@ def test_jsp_folder_migrates_into_words_of_the_prophets(imported_ctx):
     assert (ctx.vault / FOLDER_JSP / "JSP Journals Series.md").exists()
     assert (ctx.vault / FOLDER_PROPHETS / "Words of the Prophets.md").exists()
     assert rename_prophets_folder(ctx).get("skipped")
+
+
+def test_church_history_reorganises_saints_and_jsp(imported_ctx):
+    from scripturegraph.vaultgen.generate import FOLDER_HISTORY, FOLDER_SAINTS
+    from scripturegraph.vaultgen.migrate import church_history_reorg_needed, reorganize_church_history
+    ctx = imported_ctx
+    old = ctx.vault / FOLDER_HISTORY / "Saints Volume 1"
+    old.mkdir(parents=True, exist_ok=True)
+    (old / "Chapter 1.md").write_text("# Chapter 1\n", encoding="utf-8")
+    ctx.db().execute("INSERT INTO file_registry(path,kind,managed_by,node_id,content_hash,updated_at) "
+                     "VALUES(?,?,?,?,?,?)", (f"{FOLDER_HISTORY}/Saints Volume 1/Chapter 1.md",
+                                             "source-note", "generator", None, "x", "now"))
+    ctx.db().commit()
+    assert church_history_reorg_needed(ctx)
+    stats = reorganize_church_history(ctx)
+    assert stats["saints"] == 1 and stats["commit"]
+    assert (ctx.vault / FOLDER_SAINTS / "Saints Volume 1" / "Chapter 1.md").exists()
+    assert (ctx.vault / FOLDER_SAINTS / "Saints.md").exists()
+    row = ctx.db().execute("SELECT path FROM file_registry WHERE path LIKE '%Chapter 1.md'").fetchone()
+    assert row["path"] == f"{FOLDER_SAINTS}/Saints Volume 1/Chapter 1.md"
+    assert reorganize_church_history(ctx).get("skipped")
