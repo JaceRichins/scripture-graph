@@ -27,6 +27,7 @@ import hashlib
 import json
 import re
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 from scripturegraph import gitops
 from scripturegraph.agents import schemas
@@ -134,11 +135,14 @@ def pending_subjects(ctx: Ctx, ignore_gate: bool = False) -> list[str]:
     cutoff = (datetime.now(timezone.utc) - timedelta(days=refresh_days)) \
         .strftime("%Y-%m-%dT%H:%M:%SZ")
     marks = ",".join("?" * len(types))
+    # a dossier written EARLY (before the canon was read — mode 'ai-early')
+    # is owed a second pass once the reading is complete
     rows = ctx.db().execute(
         f"SELECT n.id FROM nodes n "
         f"LEFT JOIN passes p ON p.name='dossier' AND p.target=n.id "
         f"WHERE n.node_type IN ({marks}) AND n.vault_path IS NOT NULL "
-        f"AND (p.target IS NULL OR (p.corpus_version < ? AND p.completed_at < ?)) "
+        f"AND (p.target IS NULL OR p.mode='ai-early' "
+        f"     OR (p.corpus_version < ? AND p.completed_at < ?)) "
         f"ORDER BY CASE n.node_type WHEN 'question' THEN 0 ELSE 1 END, "
         f"(SELECT COALESCE(SUM(COALESCE(e.weight, 1)), 0) FROM edges e "
         f" WHERE (e.dst = n.id OR e.src = n.id) "
@@ -302,6 +306,7 @@ def build_subject_context(ctx: Ctx, node_id: str) -> dict:
 
     # ---- the page as it stands ----
     sections: dict[str, str] = {}
+    body = ""
     path = ctx.vault / node["vault_path"]
     if path.exists():
         _, body = mdkit.parse_note(read_text(path))
@@ -310,13 +315,165 @@ def build_subject_context(ctx: Ctx, node_id: str) -> dict:
     vocab = [r["title"] for r in db.execute(
         "SELECT title FROM nodes WHERE node_type IN ('topic','person','place','event','question') "
         "ORDER BY node_type, title")]
-    return {"node_id": node_id, "kind": kind, "title": title, "aliases": aliases,
-            "meta": {k: v for k, v in meta.items() if k in ("era", "region", "keywords")},
-            "vault_path": node["vault_path"], "chapters": chapters, "verses": verses,
-            "findings": findings, "talks": talks, "moments": moments,
-            "existing_sections": sections, "prose_sections": list(PROSE[kind]),
-            "vocabulary": vocab, "topic_titles": vocab,
-            "corpus_version": ctx.corpus_version()}
+    out = {"node_id": node_id, "kind": kind, "title": title, "aliases": aliases,
+           "meta": {k: v for k, v in meta.items() if k in ("era", "region", "keywords")},
+           "vault_path": node["vault_path"], "chapters": chapters, "verses": verses,
+           "findings": findings, "talks": talks, "moments": moments,
+           "existing_sections": sections, "prose_sections": list(PROSE[kind]),
+           "vocabulary": vocab, "topic_titles": vocab,
+           "corpus_version": ctx.corpus_version()}
+    if kind == "question":
+        # a question has no edges of its own — its research lives on the
+        # pages it links to, in the calibrated evidence registry, and in the
+        # library. Gather all three, or the dossier is written from memory.
+        q = _question_context(ctx, title, body, meta)
+        out.update(q)
+        out["chapters"] = q["chapters"] or chapters
+        out["findings"] = (q["findings"] + findings)[:60]
+        out["vocabulary"] = sorted(set(vocab) | set(q["extra_vocab"]))
+        out["topic_titles"] = out["vocabulary"]
+    return out
+
+
+_STOP = set("a an the of in on to for and or is are was were do does did how why what when "
+            "which who whom whose can could should would there their its it be been being "
+            "from with by as at into than then that this these those not no about really "
+            "actually evidence question questions did does".split())
+
+
+def _question_context(ctx: Ctx, title: str, body: str, meta: dict) -> dict:
+    """Research for a hard question: (1) the pages the question links to and
+    the chapters/claims behind them, (2) calibrated evidence-registry issues
+    and evidence notes that match the question's keywords, (3) passages from
+    the library — essays, talks, histories, verses — by full-text and
+    semantic retrieval. Everything comes back with a title the writer may
+    wiki-link, so the page can cross-reference instead of gesturing."""
+    from scripturegraph.booksdata import chapter_slug, find_chapter_by_title
+    from scripturegraph.graphops import resolve_name
+    db = ctx.db()
+    # distinctive terms only: acronyms count (DNA), corpus-generic words do
+    # not — "book", "mormon", "bible" match every page in the vault
+    raw = [w.strip("?.,;:'\"()") for w in re.split(r"\s+", title)]
+    keywords = [w.lower() for w in raw
+                if (len(w) >= 3 and w.isupper()) or (len(w) > 3 and w.lower() not in _STOP)]
+    keywords = [k for k in keywords if k not in _GENERIC]
+    keywords += [str(k).lower() for k in (meta.get("keywords") or [])]
+    # ---- 1. related pages → nodes and chapters ----
+    related_nodes: list[dict] = []
+    chapter_slugs: list[str] = []
+    seen = set()
+    for m in re.findall(r"\[\[([^\]|#]+)", body):
+        name = " ".join(m.split())
+        if name in seen:
+            continue
+        seen.add(name)
+        found = find_chapter_by_title(name)
+        if found:
+            chapter_slugs.append(chapter_slug(found[0], found[1]))
+            continue
+        for n in resolve_name(ctx, name)[:1]:
+            if n["node_type"] in ("topic", "person", "place", "event", "evidence", "question"):
+                related_nodes.append({"id": n["id"], "title": n["title"], "kind": n["node_type"]})
+    for n in related_nodes[:12]:
+        rel = "discusses" if n["kind"] == "topic" else "mentions"
+        for r in db.execute(
+                "SELECT src, weight FROM edges WHERE dst=? AND rel=? AND src LIKE 'chapter:%' "
+                "AND status IN ('accepted','tentative') ORDER BY weight DESC LIMIT 6",
+                (n["id"], rel)):
+            chapter_slugs.append(r["src"].split(":", 1)[1])
+    chapters, cs = [], set()
+    for slug in chapter_slugs:
+        if slug in cs:
+            continue
+        cs.add(slug)
+        try:
+            chapters.append({"slug": slug, "title": chapter_display(slug), "weight": 0,
+                             "status": "accepted"})
+        except KeyError:
+            continue
+        if len(chapters) >= 30:
+            break
+    # ---- 2. what the reading found on those chapters, and by keyword ----
+    findings: list[dict] = []
+    tier_order = "CASE c.tier WHEN 'ACCEPT' THEN 0 WHEN 'TENTATIVE' THEN 1 ELSE 2 END"
+    if chapters:
+        ids = [f"chapter:{c['slug']}" for c in chapters]
+        marks = ",".join("?" * len(ids))
+        for r in db.execute(
+                f"SELECT c.node_id, c.text, c.tier, c.claim_type FROM claims c "
+                f"WHERE c.node_id IN ({marks}) AND c.tier IN ('ACCEPT','TENTATIVE') "
+                f"AND c.claim_type IN ('evidence','connection','interpretation') "
+                f"ORDER BY {tier_order} LIMIT 30", ids):
+            findings.append({"where": _label(ctx, r["node_id"]), "type": r["claim_type"],
+                             "tier": r["tier"], "text": truncate(r["text"], 500)})
+    kw = keywords[:8]
+    if kw:
+        where = " OR ".join("c.text LIKE ?" for _ in kw)
+        for r in db.execute(
+                f"SELECT c.node_id, c.text, c.tier, c.claim_type FROM claims c "
+                f"WHERE c.tier IN ('ACCEPT','TENTATIVE') AND ({where}) ORDER BY {tier_order} LIMIT 25",
+                [f"%{k}%" for k in kw]):
+            findings.append({"where": _label(ctx, r["node_id"]), "type": r["claim_type"],
+                             "tier": r["tier"], "text": truncate(r["text"], 500)})
+    # ---- calibrated evidence: registry issues + evidence notes ----
+    registry, ev_notes = [], []
+    if kw:
+        where = " OR ".join("(title LIKE ? OR assessment LIKE ? OR proposition LIKE ?)" for _ in kw)
+        params = [x for k in kw for x in (f"%{k}%", f"%{k}%", f"%{k}%")]
+        for r in db.execute(
+                f"SELECT issue_key, title, weight_label, evidence_strength, direction, assessment, "
+                f"notes_json FROM issues WHERE {where} LIMIT 15", params):
+            registry.append({"key": r["issue_key"], "title": r["title"], "weight": r["weight_label"],
+                             "strength": r["evidence_strength"], "direction": r["direction"],
+                             "assessment": r["assessment"],
+                             "notes": json.loads(r["notes_json"] or "[]")[:6]})
+        where = " OR ".join("title LIKE ?" for _ in kw)
+        for r in db.execute(
+                f"SELECT title, vault_path FROM nodes WHERE node_type='evidence' AND ({where}) "
+                f"LIMIT 15", [f"%{k}%" for k in kw]):
+            fm = {}
+            p = ctx.vault / (r["vault_path"] or "")
+            if r["vault_path"] and p.exists():
+                fm, _ = mdkit.parse_note(read_text(p))
+            ev_notes.append({"title": r["title"], "kind": fm.get("note_kind", ""),
+                             "weight": fm.get("weight_label", ""), "issue": fm.get("issue", "")})
+    # ---- 3. the library ----
+    library: list[dict] = []
+    try:
+        from scripturegraph.ask import retrieve
+        for d in retrieve(ctx, title + " " + " ".join(kw), k=int(ctx.c("dossier.library_passages", 14))):
+            library.append({"label": d["label"], "kind": d["owner_type"],
+                            "text": truncate((d.get("text") or "").replace("\n", " "), 520),
+                            "title": _doc_note_title(ctx, d["owner_type"], d["owner_id"])})
+    except Exception as e:  # noqa: BLE001 — retrieval is context, never a blocker
+        ctx.log.warn("dossier.retrieve_failed", error=str(e)[:200])
+    extra_vocab = [n["title"] for n in related_nodes] + [e["title"] for e in ev_notes] + \
+                  [x["title"] for x in library if x.get("title")]
+    return {"keywords": kw, "related_nodes": related_nodes, "chapters": chapters,
+            "findings": findings, "registry_hits": registry, "evidence_notes": ev_notes,
+            "library": library, "extra_vocab": extra_vocab}
+
+
+def _doc_note_title(ctx: Ctx, owner_type: str, owner_id: str) -> str | None:
+    """The vault page a retrieved passage lives on, if it has one — talks and
+    documents are nodes with a vault_path; verses belong to a chapter page."""
+    if owner_type == "verse":
+        try:
+            return chapter_display(owner_id.rsplit("-", 1)[0])
+        except (KeyError, ValueError):
+            return None
+    if owner_type == "document":
+        row = ctx.db().execute(
+            "SELECT title, vault_path FROM nodes WHERE vault_path IS NOT NULL AND "
+            "(id=? OR id=? OR id=?) LIMIT 1",
+            (f"talk:{owner_id}", f"doc:{owner_id}", f"document:{owner_id}")).fetchone()
+        if row is None:
+            row = ctx.db().execute(
+                "SELECT n.title, n.vault_path FROM documents d JOIN nodes n ON n.title=d.title "
+                "WHERE d.doc_id=? AND n.vault_path IS NOT NULL LIMIT 1", (owner_id,)).fetchone()
+        if row and row["vault_path"]:
+            return Path(row["vault_path"]).stem
+    return None
 
 
 def _year(y: int) -> str:
@@ -355,6 +512,26 @@ def subject_context_markdown(c: dict) -> str:
         for m in c["moments"]:
             span = _year(m["y0"]) if m["y0"] == m["y1"] else f"{_year(m['y0'])}–{_year(m['y1'])}"
             lines.append(f"- {span}: {m['title']} ({m['dating']})")
+    if c.get("related_nodes"):
+        lines += ["", "#### Pages this question links to (wiki-link them by these exact titles)"]
+        lines += [f"- [[{n['title']}]] ({n['kind']})" for n in c["related_nodes"]]
+    if c.get("registry_hits"):
+        lines += ["", "#### Calibrated evidence on this question — the registry's stable verdicts "
+                      "(REUSE these weights; link the evidence notes)"]
+        for r in c["registry_hits"]:
+            lines.append(f"- **{r['title']}** — {r['weight']} ({r['direction']}, {r['strength']}): "
+                         f"{r['assessment']}" + (f"  Notes: " + ", ".join(f"[[{t}]]" for t in r["notes"])
+                                                 if r["notes"] else ""))
+    if c.get("evidence_notes"):
+        lines += ["", "#### Evidence notes that bear on it (link by exact title)"]
+        lines += [f"- [[{e['title']}]]" + (f" — {e['kind']}" if e["kind"] else "")
+                  + (f", {e['weight']}" if e["weight"] else "") for e in c["evidence_notes"]]
+    if c.get("library"):
+        lines += ["", "#### From the library — essays, talks, histories, verses (cite by the "
+                      "label; wiki-link the page title where one is given)"]
+        for x in c["library"]:
+            page = f" → [[{x['title']}]]" if x.get("title") else ""
+            lines.append(f"- {x['label']}{page}: {x['text']}")
     if c["existing_sections"]:
         lines += ["", "#### Existing prose on the page (improve, don't degrade)"]
         for name, text in c["existing_sections"].items():

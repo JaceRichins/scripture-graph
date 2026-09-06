@@ -55,6 +55,13 @@ the index ties to it — and produce:
 Depth and reliability over volume. A dossier a careful student would trust
 beats a long one. Cite only sources you are confident actually exist.
 
+Cross-reference generously and precisely. Every factual claim points at
+something in the context — a chapter (`[[Alma 36]]`), an evidence note, a
+registry verdict, an essay or talk from the library — or at a named source.
+Wiki-link every page the context lists by its exact title; a reader should be
+able to walk from this page into the research behind every sentence. A
+question page with few links is a question page that has not done its work.
+
 For a hard question especially: the aim is a page a believer can trust
 *because* it hides nothing — the strongest case against at full strength,
 the strongest honest response, and an assessment that says plainly what is

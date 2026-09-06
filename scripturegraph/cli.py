@@ -170,6 +170,28 @@ def cmd_dossier(args):
         for nid in pend[:25]:
             print(f"  {nid}")
         return 0
+    from scripturegraph.waves import mark_pass
+    from scripturegraph.agents.pipeline import JobQuarantined, ProviderUnavailable
+    # a dossier written before the canon is read is 'ai-early': it is
+    # automatically owed a second pass once the reading completes
+    mode = "ai" if gate["complete"] else "ai-early"
+    if args.questions_now:
+        targets = [t for t in pending_subjects(ctx, ignore_gate=True) if t.startswith("question:")]
+        if args.limit:
+            targets = targets[:args.limit]
+        print(f"{len(targets)} question dossier(s) to write now ({mode})")
+        for t in targets:
+            try:
+                r = run_dossier_job(ctx, t)
+            except JobQuarantined as e:
+                print(f"quarantined: {e}", file=sys.stderr)
+                continue
+            except ProviderUnavailable as e:
+                print(f"provider unavailable — stopping: {e}", file=sys.stderr)
+                break
+            mark_pass(ctx, "dossier", t, mode)
+            print(json.dumps(r, indent=2, default=str))
+        return 0
     node_id = resolve_subject(ctx, args.subject)
     if node_id is None:
         print(f"not a dossier subject (person/place/topic/question): {args.subject!r}",
@@ -183,6 +205,7 @@ def cmd_dossier(args):
               f"--force to write this dossier anyway", file=sys.stderr)
         return 2
     result = run_dossier_job(ctx, node_id)
+    mark_pass(ctx, "dossier", node_id, mode)
     print(json.dumps(result, indent=2, default=str))
     return 0
 
@@ -609,6 +632,10 @@ def main(argv=None) -> int:
     sp.add_argument("--dry-run", action="store_true", help="print the research context only")
     sp.add_argument("--force", action="store_true", help="write it even though the canon "
                                                         "is not fully read yet")
+    sp.add_argument("--questions-now", action="store_true",
+                    help="write every pending hard-question dossier now; early ones are "
+                         "redone automatically once the canon is read")
+    sp.add_argument("--limit", type=int, help="with --questions-now: at most N")
     sp.set_defaults(fn=cmd_dossier)
 
     sp = sub.add_parser("health", help="alias of gardener")
