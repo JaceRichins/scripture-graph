@@ -17,13 +17,17 @@ Scripture: [[Leviticus 10]] · My notes: [[Leviticus 10 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Nadab and Abihu perform unauthorized sacrifices and are slain by a fire from the Lord—Aaron and his other sons are forbidden to mourn for them—Aaron and his sons are to abstain from wine and strong drink—They are to teach all that the Lord revealed to Moses.
+Leviticus 10 follows the successful inauguration of worship in [[Leviticus 9]] with a crisis inside Aaron's own family. Nadab and Abihu offer what the text calls “strange fire,” explained minimally as something God had not commanded, and fire from the LORD kills them (10:1-2). Moses frames the event in terms of divine holiness (10:3). The remainder of the chapter is not merely aftermath: it defines priestly mourning obligations, sobriety during sanctuary service, discernment between sacred categories, responsibility to teach Israel, and correct handling of sacrificial portions. It ends with Aaron explaining a disputed ritual decision and Moses accepting his reasoning (10:16-20).
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A useful four-part reading is:
+
+- **10:1-7 — Unauthorized approach and its aftermath.** Nadab and Abihu die; their bodies are removed; the anointed priests remain at their post while Israel mourns.
+- **10:8-11 — Priestly fitness and vocation.** Wine is prohibited during tabernacle service, and priests are charged to distinguish sacred categories and teach Israel.
+- **10:12-15 — Prescribed sacrificial portions.** Moses reaffirms what the priestly household may eat and where.
+- **10:16-20 — A disputed sin offering.** Moses identifies a departure from the ordinary rule, Aaron explains his concern about acceptability, and Moses is satisfied.
 <!-- SG:END structure -->
 
 ## People
@@ -56,11 +60,15 @@ _Not yet developed._
 - [[Leviticus 8]] — 2 parallel verses, e.g. [[Leviticus 10#^lev-10-15|Leviticus 10:15]] ↔ [[Leviticus 8#^lev-8-29|Leviticus 8:29]]
 - [[Leviticus 14]] — 2 parallel verses, e.g. [[Leviticus 10#^lev-10-15|Leviticus 10:15]] ↔ [[Leviticus 14#^lev-14-12|Leviticus 14:12]]
 - [[Deuteronomy 18]] — 1 parallel verse, e.g. [[Leviticus 10#^lev-10-12|Leviticus 10:12]] ↔ [[Deuteronomy 18#^deut-18-1|Deuteronomy 18:1]]
-- [[Numbers 3]] — 0 parallel verses
+- [[Leviticus 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Numbers 18]]
+- [[Leviticus 6]]
+- [[Leviticus 7]]
+- [[Law of Moses]]
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
@@ -68,7 +76,11 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Leviticus 10 presents holiness as carrying heightened accountability for those who approach God in an official capacity (10:1-3). Within the [[Aaronic Priesthood]], authority is joined to disciplined sanctuary service, discernment between holy and unholy and between unclean and clean, and responsibility to teach Israel (10:8-11).
+
+Leviticus 10:17 connects priestly handling of the sin offering with bearing the congregation's iniquity and making atonement. In its immediate setting, this belongs to the sacrificial system of the [[Law of Moses]]; the verse should not be detached from that context or treated as a complete statement of later theology concerning the [[Atonement of Jesus Christ]].
+
+The conclusion places a ritual rule beside Aaron's circumstance-specific concern and Moses' acceptance of his explanation (10:16-20). This may invite reflection on responsible judgment within revealed law, but the text does not state a general license to alter ordinances or record a separate divine ruling on the case.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -84,25 +96,38 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+“Strange fire” should be interpreted no more precisely than the chapter permits. The text itself adds, “which he commanded them not” (10:1), making lack of divine authorization the clearest stated defect. Proposals about an improper fire source, incorrect incense, wrong timing, or intoxication may be investigated, but none is explicitly identified here.
+
+The paired distinctions “holy and unholy” and “unclean and clean” (10:10) show that these are not identical categories. Holiness concerns consecration or relation to sacred use, while cleanness concerns fitness under the purity system; the verse charges priests to discern both axes.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The sharpest literary contrast crosses the chapter boundary. In [[Leviticus 9]], fire from before the LORD consumes the altar offering and the people respond with worship (9:24). In [[Leviticus 10]], fire from the LORD consumes Nadab and Abihu after their uncommanded offering (10:1-2). The juxtaposition strongly contrasts accepted sacrifice with a judged approach, although it does not by itself establish authorial unity, historicity, or the precise nature of the offense.
+
+Within chapter 10, Aaron first holds his peace after Moses' explanation (10:3) and later gives an explanation that satisfies Moses (10:19-20). This movement from silence to effective speech is observable, but the text does not identify Aaron's interior emotions or explicitly present the two moments as a designed psychological arc.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary Juxtaposition
+> The fire from the LORD that consumes the authorized altar offering at the close of Leviticus 9 is closely contrasted with the fire that consumes Nadab and Abihu after their unauthorized offering in Leviticus 10. The juxtaposition is strong internal evidence for a literary reversal between accepted and unacceptable approach to the sanctuary.
+> — strength 0.8 · confidence 0.9 · Strong literary observation; intent and composition remain disputed · [[Literary Juxtaposition in Leviticus 10|full dossier]]
+
+> [!evidence] Narrative-Juxtaposition Inference *(tentative)*
+> A common interpretive tradition links Nadab and Abihu's 'strange fire' to intoxication, reasoning from the immediate juxtaposition of their deaths with the wine prohibition given a few verses later; however, the biblical text never states that the brothers were drunk, so this is an inference from narrative placement rather than an explicit claim of the text.
+> — strength 0.2 · confidence 0.6 · Speculative hypothesis; reception-history labels unsupported
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What exactly made the fire 'strange' -- its source, its timing, or something else? The text does not say (10:1).
+- Why are Aaron and his remaining sons forbidden the ordinary rites of mourning (10:6), and what does it mean that the whole house of Israel mourns in their place?
+- Is the placement of the wine prohibition (10:9) right after the deaths meant to imply a cause, or is it simply the next topic in the tabernacle regulations?
+- What standard is Aaron applying when he judges that eating the sin offering that day would not have been 'accepted' (10:19), and why does this satisfy Moses?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Leviticus 6]] for the rules behind Moses' concern about the sin offering, especially the distinction created by whether its blood entered the tabernacle. Compare [[Exodus 30]] for restrictions surrounding incense, [[Numbers 3]] for the later summary of Nadab and Abihu's deaths, [[Ezekiel 22]] for an indictment of failed priestly discernment, and [[Malachi 2]] for the priest's teaching role. These passages illuminate the chapter's treatment of [[Priesthood]], [[Sacrifice]], [[Temples]], and [[Obedience]] without resolving every detail of the opening offense.
 <!-- SG:END further-study -->
