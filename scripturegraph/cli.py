@@ -175,22 +175,29 @@ def cmd_dossier(args):
     # a dossier written before the canon is read is 'ai-early': it is
     # automatically owed a second pass once the reading completes
     mode = "ai" if gate["complete"] else "ai-early"
+    from scripturegraph.lockfile import EngineBusy, engine_lock
     if args.questions_now:
         targets = [t for t in pending_subjects(ctx, ignore_gate=True) if t.startswith("question:")]
         if args.limit:
             targets = targets[:args.limit]
         print(f"{len(targets)} question dossier(s) to write now ({mode})")
-        for t in targets:
-            try:
-                r = run_dossier_job(ctx, t)
-            except JobQuarantined as e:
-                print(f"quarantined: {e}", file=sys.stderr)
-                continue
-            except ProviderUnavailable as e:
-                print(f"provider unavailable — stopping: {e}", file=sys.stderr)
-                break
-            mark_pass(ctx, "dossier", t, mode)
-            print(json.dumps(r, indent=2, default=str))
+        try:
+            # landing writes the vault and commits — never beside a study tick
+            with engine_lock(ctx):
+                for t in targets:
+                    try:
+                        r = run_dossier_job(ctx, t)
+                    except JobQuarantined as e:
+                        print(f"quarantined: {e}", file=sys.stderr)
+                        continue
+                    except ProviderUnavailable as e:
+                        print(f"provider unavailable — stopping: {e}", file=sys.stderr)
+                        break
+                    mark_pass(ctx, "dossier", t, mode)
+                    print(json.dumps(r, indent=2, default=str))
+        except EngineBusy:
+            print("Another engine run holds the lock — try again shortly.", file=sys.stderr)
+            return 3
         return 0
     node_id = resolve_subject(ctx, args.subject)
     if node_id is None:
@@ -204,8 +211,13 @@ def cmd_dossier(args):
         print(f"the canon is not read yet ({gate['done']}/{gate['total']}); "
               f"--force to write this dossier anyway", file=sys.stderr)
         return 2
-    result = run_dossier_job(ctx, node_id)
-    mark_pass(ctx, "dossier", node_id, mode)
+    try:
+        with engine_lock(ctx):
+            result = run_dossier_job(ctx, node_id)
+            mark_pass(ctx, "dossier", node_id, mode)
+    except EngineBusy:
+        print("Another engine run holds the lock — try again shortly.", file=sys.stderr)
+        return 3
     print(json.dumps(result, indent=2, default=str))
     return 0
 
