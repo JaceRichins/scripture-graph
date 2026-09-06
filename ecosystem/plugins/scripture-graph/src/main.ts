@@ -22,6 +22,7 @@ import { AiService } from "./ai/aiService";
 import { ASK_VIEW, AskView } from "./ai/askView";
 import { READER_VIEW, ReaderView } from "./reader/readerView";
 import { DOC_VIEW, DocView, docKindFor } from "./reader/docView";
+import { Dock, isPhone, obsidianInternals } from "./study/dock";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SCENES, SceneManager } from "./study/scenes";
@@ -287,6 +288,16 @@ export default class SGPlugin extends Plugin {
     };
     this.register(() => back.remove());
     this.backPillEl = back;
+    // ⌂ the dock: GL's bottom bar, on phones (device.dock = false turns it off)
+    if (isPhone() && this.state.device.dock !== false) this.mountDock();
+    this.addCommand({
+      id: "toggle-dock", name: "Toggle the bottom dock (phone)", icon: "panel-bottom",
+      callback: () => {
+        this.state.device.dock = this.state.device.dock === false;
+        void this.state.saveDevice();
+        if (this.state.device.dock !== false && isPhone()) this.mountDock(); else this.unmountDock();
+      },
+    });
     // 👉 phone: swipe left/right turns the chapter like a page
     registerSwipeNav(this, this.state, (title) => this.openMyStudy(title));
     document.body.toggleClass("sg-hide-ai-lib", !this.state.device.showAiLibrary);
@@ -655,6 +666,33 @@ export default class SGPlugin extends Plugin {
       });
   }
 
+  private dock: Dock | null = null;
+
+  private mountDock(): void {
+    if (this.dock) return;
+    const internals = obsidianInternals(this.app);
+    this.dock = new Dock(this.state, {
+      openHome: () => this.openLibraryShelf(v => v.showHome()),
+      openLibrary: () => this.openLibraryShelf(v => v.showScriptures()),
+      openSearch: () => this.openLibraryShelf(v => v.showSearch()),
+      openTabs: () => internals.mobileTabSwitcher?.show(),
+      tabsMenu: (e) => internals.mobileTabSwitcher?.showTabManagementMenu(e),
+      ribbonMenu: (e) => internals.mobileNavbar?.showRibbonMenu(e),
+      reviewFlashcards: () => void this.study.review(),
+      openPath: (p) => void this.app.workspace.openLinkText(p, ""),
+    });
+    this.dock.mount();
+    this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.dock?.refresh()));
+    this.registerEvent(this.app.workspace.on("layout-change", () => this.dock?.refresh()));
+    this.registerEvent(this.app.workspace.on("file-open", () => this.dock?.refresh()));
+    this.register(() => this.unmountDock());
+  }
+
+  private unmountDock(): void {
+    this.dock?.unmount();
+    this.dock = null;
+  }
+
   /** the shared host every navigation surface drives */
   private navigatorHost(): NavigatorHost {
     return {
@@ -696,16 +734,7 @@ export default class SGPlugin extends Plugin {
 
   /** 📖 The Library PAGE — Gospel Library's whole-screen architecture. */
   private openNavigator(): void {
-    void (async () => {
-      let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
-      if (!leaf) {
-        // replace the current page (history remembers it) — never mint a tab
-        leaf = this.app.workspace.getLeaf(false);
-        recordHistory(leaf);
-        await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
-      }
-      await this.app.workspace.revealLeaf(leaf);
-    })();
+    this.openLibraryShelf(v => v.showHome());
   }
 
   /** 🕸 The Graphs shelf — pre-filtered graph views, straight from the palette. */
@@ -714,16 +743,19 @@ export default class SGPlugin extends Plugin {
   }
 
   /** land on the Library page (reusing it if it is open) and jump to a shelf */
+  /** the Library replaces the CURRENT page with that page behind it in
+   * history — never a jump to an older Library tab (which has nothing
+   * behind it and leaves ‹ dead) */
   private openLibraryShelf(show: (v: SGLibraryView) => void): void {
     void (async () => {
-      let leaf = this.app.workspace.getLeavesOfType(LIBRARY_VIEW)[0] ?? null;
-      if (!leaf) {
-        leaf = this.app.workspace.getLeaf(false);
+      const leaf = this.app.workspace.getLeaf(false);
+      if (leaf.view.getViewType() !== LIBRARY_VIEW) {
         recordHistory(leaf);
         await leaf.setViewState({ type: LIBRARY_VIEW, active: true });
       }
       await this.app.workspace.revealLeaf(leaf);
       show(leaf.view as SGLibraryView);
+      this.dock?.refresh();
     })();
   }
 

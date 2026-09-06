@@ -2244,3 +2244,64 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
 .sg-doc-empty { font-style: italic; color: var(--text-muted); }
 .sg-doc-body > p, .sg-doc-body > ul, .sg-doc-body > blockquote { margin: 0 0 0.7em; }
 .sg-doc-body blockquote { border-left: 3px solid var(--text-accent); margin-left: 0; padding-left: 12px; color: var(--text-muted); }
+
+/* ---- ⌂ the dock: Gospel Library's bottom bar ---- */
+body.sg-dock-on .mobile-navbar { display: none !important; }
+body.sg-dock-on .sg-nav-fab, body.sg-dock-on .sg-back-pill { display: none !important; }
+body.sg-dock-on .workspace-leaf-content { padding-bottom: 0; }
+.sg-dock {
+  position: fixed; left: 0; right: 0;
+  bottom: calc(10px + env(safe-area-inset-bottom, 0px));
+  z-index: calc(var(--layer-popover, 30) - 1);
+  display: flex; align-items: center; justify-content: center; gap: 12px;
+  padding: 0 14px; pointer-events: none;
+}
+.sg-dock-bar {
+  pointer-events: auto;
+  display: flex; align-items: center;
+  height: 58px; padding: 0 10px; border-radius: 30px;
+  background: color-mix(in srgb, var(--background-primary) 82%, #000);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+  -webkit-backdrop-filter: blur(16px); backdrop-filter: blur(16px);
+}
+.sg-dock-slot {
+  position: relative; width: 62px; height: 50px; border: 0; border-radius: 16px;
+  background: none; box-shadow: none; color: var(--text-normal);
+  display: flex; align-items: center; justify-content: center;
+  transition: transform 0.08s ease, opacity 0.15s ease;
+}
+.sg-dock-slot svg { width: 28px; height: 28px; }
+.sg-dock-slot:active { transform: scale(0.9); }
+.sg-dock-on-slot { color: var(--text-accent); }
+.sg-dock-on-slot::after {
+  content: ""; position: absolute; bottom: 5px; left: 50%; width: 5px; height: 5px;
+  margin-left: -2.5px; border-radius: 50%; background: var(--text-accent);
+}
+.sg-dock-back { width: 0; overflow: hidden; opacity: 0; padding: 0; font-size: 1.7em; font-weight: 500; line-height: 1; }
+.sg-dock-back-on { width: 44px; opacity: 1; }
+.sg-dock-count {
+  position: absolute; top: 9px; right: 11px; min-width: 15px; height: 15px; padding: 0 3px;
+  border-radius: 8px; font-size: 10px; font-weight: 700; line-height: 15px; text-align: center;
+  background: var(--text-normal); color: var(--background-primary);
+}
+.sg-dock-count:empty { display: none; }
+.sg-dock-round {
+  pointer-events: auto; flex: none;
+  width: 58px; height: 58px; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.08);
+  background: color-mix(in srgb, var(--background-primary) 82%, #000); color: var(--text-normal);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+  -webkit-backdrop-filter: blur(16px); backdrop-filter: blur(16px);
+  display: flex; align-items: center; justify-content: center;
+}
+.sg-dock-round svg { width: 28px; height: 28px; }
+.sg-dock-round:active { transform: scale(0.92); }
+.sg-dock-round-off { opacity: 0.45; }
+.sg-dock-round-on { color: var(--text-accent); box-shadow: 0 0 0 2px var(--text-accent), 0 10px 30px rgba(0,0,0,0.45); }
+body.sg-selecting .sg-dock { display: none; }       /* never crowd the StudyBar */
+/* the pages clear the dock */
+body.sg-dock-on .sg-libpage, body.sg-dock-on .sg-doc, body.sg-dock-on .markdown-preview-view,
+body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc(92px + env(safe-area-inset-bottom, 0px)) !important; }
+/* the saved sheet */
+.sg-saved h2 { margin: 0 0 6px; }
+.sg-saved-ico { width: 34px; text-align: center; font-size: 1.15em; flex: none; }

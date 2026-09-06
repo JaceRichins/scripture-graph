@@ -69,6 +69,8 @@ export interface DeviceState {
   /** show the AI Library folder in the file explorer (power users only;
    * off keeps family devices from ever wandering in — links still work) */
   showAiLibrary: boolean;
+  /** the bottom dock on phones (GL's bar); false hides it */
+  dock?: boolean;
   /** ambient reading scene: "none" | "auto" | "match" | scene id */
   scene: string;
   /** the scene "match" last chose, so a relaunch on a non-chapter page

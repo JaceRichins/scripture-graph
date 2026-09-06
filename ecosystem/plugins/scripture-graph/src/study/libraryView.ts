@@ -166,6 +166,30 @@ export class SGLibraryView extends ItemView {
     else this.renderFolder(body, v.path);
   }
 
+  /** the Scriptures shelf — GL's "Library" tab is the shelf of books */
+  showScriptures(): void {
+    if (this.view.kind === "scriptures") return;
+    this.trail = [{ kind: "home" }];
+    this.view = { kind: "scriptures" };
+    this.render();
+  }
+
+  /** home, with the search box focused and the keyboard up */
+  showSearch(): void {
+    if (this.view.kind !== "home") { this.trail = []; this.view = { kind: "home" }; this.render(); }
+    const inp = this.contentEl.querySelector<HTMLInputElement>("input.sg-nav-search");
+    inp?.focus();
+    inp?.select();
+  }
+
+  /** home — the dock's ⌂ */
+  showHome(): void {
+    if (this.view.kind === "home") return;
+    this.trail = [];
+    this.view = { kind: "home" };
+    this.render();
+  }
+
   /** jump straight to the Hard Questions shelf (the palette command lands here) */
   showQuestions(): void {
     if (this.view.kind === "questions") return;
