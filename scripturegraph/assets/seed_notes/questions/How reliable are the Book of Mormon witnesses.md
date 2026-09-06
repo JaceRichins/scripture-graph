@@ -58,6 +58,12 @@ the Three's experience is textually explicit ("shown unto us by the power of
 God, and not of man").
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

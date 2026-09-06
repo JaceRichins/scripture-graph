@@ -69,6 +69,12 @@ The pastoral truth comes first: the scriptures' own heroes were not spared
 the silence.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

@@ -72,6 +72,12 @@ false. Restoration scripture is comfortable with this — the Joseph Smith
 Translation revises the Gospels freely.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

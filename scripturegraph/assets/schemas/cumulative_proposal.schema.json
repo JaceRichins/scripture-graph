@@ -1,0 +1,59 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "CumulativeAssessmentProposal",
+ "type": "object",
+ "required": ["sections", "lines", "frameworks"],
+ "properties": {
+  "lines": {
+   "type": "array",
+   "maxItems": 24,
+   "items": {
+    "type": "object",
+    "required": ["name", "issues", "independence", "direction", "band", "why"],
+    "properties": {
+     "name": {"type": "string", "maxLength": 160},
+     "issues": {"type": "array", "items": {"type": "string", "maxLength": 80}, "maxItems": 40},
+     "independence": {"type": "string", "maxLength": 900,
+                      "description": "Why these findings share one cause (one line) or are genuinely independent of the other lines."},
+     "direction": {"enum": ["supports", "challenges", "mixed", "neutral"]},
+     "band": {"enum": ["none", "weak", "moderate", "strong"]},
+     "why": {"type": "string", "maxLength": 900,
+             "description": "The judgment behind the band — never a sum of weights."}
+    }
+   }
+  },
+  "frameworks": {
+   "type": "array",
+   "maxItems": 12,
+   "items": {
+    "type": "object",
+    "required": ["name", "status", "support", "effect"],
+    "properties": {
+     "name": {"type": "string", "maxLength": 200},
+     "status": {"enum": ["possible", "plausible", "independently_supported", "ad_hoc"]},
+     "support": {"type": "string", "maxLength": 700,
+                 "description": "What supports the model: text, scholarship, external data."},
+     "text_requires": {"type": "string", "maxLength": 600,
+                       "description": "What the text itself requires here, as distinct from what readers assumed."},
+     "effect": {"type": "string", "maxLength": 700,
+                "description": "What the cumulative picture does to this model: raises, lowers, leaves untouched, and why."}
+    }
+   }
+  },
+  "set_aside": {
+   "type": "array",
+   "maxItems": 10,
+   "items": {
+    "type": "object",
+    "required": ["model", "why"],
+    "properties": {"model": {"type": "string", "maxLength": 200}, "why": {"type": "string", "maxLength": 500}}
+   }
+  },
+  "sections": {
+   "type": "object",
+   "propertyNames": {"enum": ["how-to-read", "lines", "synthesis", "frameworks", "believer", "skeptic", "would-move", "inspiration"]},
+   "additionalProperties": {"type": "string", "maxLength": 12000}
+  },
+  "uncertainties": {"type": "array", "items": {"type": "string", "maxLength": 500}, "maxItems": 12}
+ }
+}

@@ -72,6 +72,12 @@ the text has suffered losses ("plain and precious things," [[1 Nephi 13]]),
 which lowers the stakes of any particular discrepancy.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

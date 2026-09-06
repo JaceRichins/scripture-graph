@@ -70,6 +70,12 @@ York Cumorah, the Church itself says the location of the final battles is
 not known.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

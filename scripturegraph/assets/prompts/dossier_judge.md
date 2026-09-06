@@ -19,6 +19,12 @@ Judging rules:
   proposition?), study_relevance, source_quality. Set consensus_status.
 - Interpretations must not be stored as facts. Strong language requires
   strong support. Disputed things must be labeled disputed.
+- FRAMEWORKS (standard §18): on a hard question, REJECT a `frameworks`
+  section that lists only reconciling models or only critical ones — both
+  are under-investigation. Prefer the proposal that found the model the
+  other missed, in whichever direction, and that says what the text itself
+  requires. An `assessment` that contradicts the corpus assessment the
+  context marked as required reading must say why, or lose.
 - REJECT decorative links. Accept links a serious student would thank you for.
 - Outcomes: ACCEPT | ACCEPT_LOW_VISIBILITY (true but minor) | TENTATIVE
   (plausible, uncertain — will be revisited) | REJECT | QUARANTINE (malformed).

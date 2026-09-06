@@ -1,0 +1,36 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "CumulativeAssessmentJudgment",
+ "type": "object",
+ "required": ["section_approvals"],
+ "properties": {
+  "section_approvals": {
+   "type": "object",
+   "propertyNames": {"enum": ["how-to-read", "lines", "synthesis", "frameworks", "believer", "skeptic", "would-move", "inspiration"]},
+   "additionalProperties": {
+    "type": "object",
+    "required": ["use"],
+    "properties": {
+     "use": {"enum": ["a", "b", "merged", "none"]},
+     "merged_text": {"type": "string", "maxLength": 12000},
+     "rationale": {"type": "string", "maxLength": 600}
+    }
+   }
+  },
+  "line_verdicts": {
+   "type": "array",
+   "maxItems": 24,
+   "items": {
+    "type": "object",
+    "required": ["name", "verdict"],
+    "properties": {
+     "name": {"type": "string", "maxLength": 160},
+     "verdict": {"enum": ["independent", "shared_cause", "split", "unclear"]},
+     "rationale": {"type": "string", "maxLength": 600}
+    }
+   }
+  },
+  "symmetry_verdict": {"enum": ["consistent", "harsher", "softer"]},
+  "overall_notes": {"type": "string", "maxLength": 3000}
+ }
+}

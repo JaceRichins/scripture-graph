@@ -100,6 +100,23 @@ Do not soften a real difficulty and do not inflate a real strength. Where
 the current note is already right, say so and keep its weight.
 
 
+## The frameworks step (standard §18) — do this BEFORE you weigh
+
+For every `contested` note:
+- `text_requires`: what the text itself requires on this issue, as distinct
+  from what readers have assumed. Say which "difficulties" or "evidences"
+  attach to the assumption rather than the text.
+- `models`: EVERY serious model the text permits — searched, not recalled.
+  The context may include scholarship proposing frameworks; use it. Give
+  each model a `status` (possible / plausible / independently_supported /
+  ad_hoc) and its `support`. A framework the reader never considered, under
+  which the finding fits, is what this vault exists to surface — and so is
+  the critical model that fits better. Run the search in BOTH directions.
+- `set_aside`: the models you looked at and did not credit, and why.
+
+Labelled possibility is what keeps this honest: a plausible, text-supported
+model and an ad hoc rescue both go on the page; the label tells them apart.
+
 ## The demotion rule — a near-zero weight means it was the wrong kind of note
 
 `evidence_strength` measures DISCRIMINATION: how much more expected this

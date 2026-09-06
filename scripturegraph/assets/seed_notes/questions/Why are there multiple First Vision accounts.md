@@ -58,6 +58,12 @@ in repeated autobiographical narration. The full-document transparency of
 the JSP publication is itself a point in favor of good faith.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

@@ -71,6 +71,12 @@ What believers agree on: the passages cannot ground any later violence, and
 the God fully revealed in Christ is the standard by which they are read.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

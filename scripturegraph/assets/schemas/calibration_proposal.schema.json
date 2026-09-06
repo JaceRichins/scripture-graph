@@ -1,235 +1,276 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "CalibrationProposal",
-  "type": "object",
-  "required": [
-    "notes"
-  ],
-  "properties": {
-    "notes": {
-      "type": "array",
-      "maxItems": 12,
-      "items": {
-        "type": "object",
-        "required": [
-          "note_id",
-          "issue_title",
-          "observation",
-          "interpretation",
-          "historical_significance",
-          "summary",
-          "how_it_fits"
-        ],
-        "properties": {
-          "note_id": {
-            "type": "string",
-            "maxLength": 200
-          },
-          "issue_key": {
-            "type": "string",
-            "minLength": 3,
-            "maxLength": 80
-          },
-          "issue_title": {
-            "type": "string",
-            "minLength": 3,
-            "maxLength": 160
-          },
-          "proposition": {
-            "type": "string",
-            "minLength": 8,
-            "maxLength": 400
-          },
-          "model_scope": {
-            "type": "array",
-            "items": {
-              "type": "string",
-              "maxLength": 160
-            },
-            "maxItems": 8
-          },
-          "observation": {
-            "type": "string",
-            "minLength": 8,
-            "maxLength": 3000
-          },
-          "interpretation": {
-            "type": "string",
-            "minLength": 4,
-            "maxLength": 3000
-          },
-          "historical_significance": {
-            "type": "string",
-            "minLength": 4,
-            "maxLength": 3000
-          },
-          "apologetic_significance": {
-            "type": "string",
-            "minLength": 4,
-            "maxLength": 3000
-          },
-          "does_not_establish": {
-            "type": "string",
-            "minLength": 4,
-            "maxLength": 2000
-          },
-          "models": {
-            "type": "array",
-            "maxItems": 8,
-            "items": {
-              "type": "object",
-              "required": [
-                "name",
-                "predicts",
-                "fit"
-              ],
-              "properties": {
-                "name": {
-                  "type": "string",
-                  "maxLength": 160
-                },
-                "predicts": {
-                  "type": "string",
-                  "maxLength": 600
-                },
-                "fit": {
-                  "enum": [
-                    "strongly challenged",
-                    "some difficulty",
-                    "not ruled out",
-                    "consistent",
-                    "supports"
-                  ]
-                }
-              }
-            }
-          },
-          "alternatives": {
-            "type": "array",
-            "maxItems": 10,
-            "items": {
-              "type": "object",
-              "required": [
-                "explanation",
-                "status"
-              ],
-              "properties": {
-                "explanation": {
-                  "type": "string",
-                  "maxLength": 600
-                },
-                "status": {
-                  "enum": [
-                    "possible",
-                    "plausible",
-                    "independently_supported",
-                    "ad_hoc"
-                  ]
-                },
-                "why": {
-                  "type": "string",
-                  "maxLength": 600
-                }
-              }
-            }
-          },
-          "symmetry": {
-            "type": "string",
-            "minLength": 8,
-            "maxLength": 1500
-          },
-          "base_rate": {
-            "type": "string",
-            "maxLength": 1200
-          },
-          "weight": {
-            "type": "object",
-            "required": [
-              "label",
-              "direction",
-              "evidence_strength",
-              "sentence"
-            ],
-            "properties": {
-              "label": {
-                "enum": [
-                  "none",
-                  "weak",
-                  "moderate",
-                  "strong"
-                ]
-              },
-              "direction": {
-                "enum": [
-                  "supports",
-                  "challenges",
-                  "neutral"
-                ]
-              },
-              "evidence_strength": {
-                "type": "number",
-                "minimum": 0,
-                "maximum": 1
-              },
-              "claim_confidence": {
-                "type": "number",
-                "minimum": 0,
-                "maximum": 1
-              },
-              "sentence": {
-                "type": "string",
-                "minLength": 10,
-                "maxLength": 900
-              }
-            }
-          },
-          "language_fixes": {
-            "type": "array",
-            "items": {
-              "type": "string",
-              "maxLength": 400
-            },
-            "maxItems": 10
-          },
-          "summary": {
-            "type": "string",
-            "minLength": 20,
-            "maxLength": 4000
-          },
-          "inspiration": {
-            "type": "string",
-            "maxLength": 600
-          },
-          "discriminating_test": {
-            "type": "string",
-            "maxLength": 900
-          },
-          "note_kind": {
-            "type": "string",
-            "enum": [
-              "context",
-              "contested"
-            ],
-            "description": "context = illumination (the default and the majority): history, geography, language, culture, science that make the passage intelligible. Carries NO weight, NO models, NO 'does not establish'. contested = a genuinely disputed apologetic issue somebody is actually arguing about; only then does the weighing machinery apply."
-          },
-          "how_it_fits": {
-            "type": "string",
-            "description": "What is known about this world, and the possible reconstruction(s) under which the passage fits it. Offering a plausible reconstruction is the JOB -- label it a proposal, do not apologise for it, do not append a disclaimer that it is unproven."
-          },
-          "demotion_reason": {
-            "type": "string",
-            "description": "Set when a note that previously carried a weight is demoted to context: why nobody is actually arguing about it."
-          }
-        }
-      }
-    },
-    "uncertainties": {
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "CalibrationProposal",
+ "type": "object",
+ "required": [
+  "notes"
+ ],
+ "properties": {
+  "notes": {
+   "type": "array",
+   "maxItems": 12,
+   "items": {
+    "type": "object",
+    "required": [
+     "note_id",
+     "issue_title",
+     "observation",
+     "interpretation",
+     "historical_significance",
+     "summary",
+     "how_it_fits"
+    ],
+    "properties": {
+     "note_id": {
+      "type": "string",
+      "maxLength": 200
+     },
+     "issue_key": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 80
+     },
+     "issue_title": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 160
+     },
+     "proposition": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 400
+     },
+     "model_scope": {
       "type": "array",
       "items": {
-        "type": "string",
-        "maxLength": 500
+       "type": "string",
+       "maxLength": 160
       },
-      "maxItems": 12
+      "maxItems": 8
+     },
+     "observation": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 3000
+     },
+     "interpretation": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 3000
+     },
+     "historical_significance": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 3000
+     },
+     "apologetic_significance": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 3000
+     },
+     "does_not_establish": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 2000
+     },
+     "models": {
+      "type": "array",
+      "maxItems": 8,
+      "items": {
+       "type": "object",
+       "required": [
+        "name",
+        "predicts",
+        "fit"
+       ],
+       "properties": {
+        "name": {
+         "type": "string",
+         "maxLength": 160
+        },
+        "predicts": {
+         "type": "string",
+         "maxLength": 600
+        },
+        "fit": {
+         "enum": [
+          "strongly challenged",
+          "some difficulty",
+          "not ruled out",
+          "consistent",
+          "supports"
+         ]
+        },
+        "status": {
+         "enum": [
+          "possible",
+          "plausible",
+          "independently_supported",
+          "ad_hoc"
+         ],
+         "description": "How well-supported the MODEL itself is, independent of this finding."
+        },
+        "support": {
+         "type": "string",
+         "maxLength": 500,
+         "description": "What supports the model: text, scholarship, external data."
+        }
+       }
+      }
+     },
+     "alternatives": {
+      "type": "array",
+      "maxItems": 10,
+      "items": {
+       "type": "object",
+       "required": [
+        "explanation",
+        "status"
+       ],
+       "properties": {
+        "explanation": {
+         "type": "string",
+         "maxLength": 600
+        },
+        "status": {
+         "enum": [
+          "possible",
+          "plausible",
+          "independently_supported",
+          "ad_hoc"
+         ]
+        },
+        "why": {
+         "type": "string",
+         "maxLength": 600
+        }
+       }
+      }
+     },
+     "symmetry": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 1500
+     },
+     "base_rate": {
+      "type": "string",
+      "maxLength": 1200
+     },
+     "weight": {
+      "type": "object",
+      "required": [
+       "label",
+       "direction",
+       "evidence_strength",
+       "sentence"
+      ],
+      "properties": {
+       "label": {
+        "enum": [
+         "none",
+         "weak",
+         "moderate",
+         "strong"
+        ]
+       },
+       "direction": {
+        "enum": [
+         "supports",
+         "challenges",
+         "neutral"
+        ]
+       },
+       "evidence_strength": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+       },
+       "claim_confidence": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+       },
+       "sentence": {
+        "type": "string",
+        "minLength": 10,
+        "maxLength": 900
+       }
+      }
+     },
+     "language_fixes": {
+      "type": "array",
+      "items": {
+       "type": "string",
+       "maxLength": 400
+      },
+      "maxItems": 10
+     },
+     "summary": {
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 4000
+     },
+     "inspiration": {
+      "type": "string",
+      "maxLength": 600
+     },
+     "discriminating_test": {
+      "type": "string",
+      "maxLength": 900
+     },
+     "note_kind": {
+      "type": "string",
+      "enum": [
+       "context",
+       "contested"
+      ],
+      "description": "context = illumination (the default and the majority): history, geography, language, culture, science that make the passage intelligible. Carries NO weight, NO models, NO 'does not establish'. contested = a genuinely disputed apologetic issue somebody is actually arguing about; only then does the weighing machinery apply."
+     },
+     "how_it_fits": {
+      "type": "string",
+      "description": "What is known about this world, and the possible reconstruction(s) under which the passage fits it. Offering a plausible reconstruction is the JOB -- label it a proposal, do not apologise for it, do not append a disclaimer that it is unproven."
+     },
+     "demotion_reason": {
+      "type": "string",
+      "description": "Set when a note that previously carried a weight is demoted to context: why nobody is actually arguing about it."
+     },
+     "text_requires": {
+      "type": "string",
+      "maxLength": 900,
+      "description": "What the text itself requires on this issue, as distinct from what readers have assumed (standard section 18a)."
+     },
+     "set_aside": {
+      "type": "array",
+      "maxItems": 8,
+      "items": {
+       "type": "object",
+       "required": [
+        "model",
+        "why"
+       ],
+       "properties": {
+        "model": {
+         "type": "string",
+         "maxLength": 200
+        },
+        "why": {
+         "type": "string",
+         "maxLength": 400
+        }
+       }
+      },
+      "description": "Models considered and not credited, with the reason (standard section 18d)."
+     }
     }
+   }
+  },
+  "uncertainties": {
+   "type": "array",
+   "items": {
+    "type": "string",
+    "maxLength": 500
+   },
+   "maxItems": 12
   }
+ }
 }

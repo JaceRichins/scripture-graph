@@ -66,6 +66,12 @@ text and in Church usage has long been a covenant and cultural category more
 than a strictly genetic one, which is why the 2006 wording changed.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

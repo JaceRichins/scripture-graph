@@ -61,6 +61,11 @@ Judging rules:
   language; (4) the same allowances the other corpus would get, or a stated
   reason why the context differs; (5) positive and negative evidence
   scrutinised alike; (6) historicity kept distinct from inspiration.
+- FRAMEWORKS (standard §18): a contested note must say what the text
+  requires, carry every serious model with an honest status, and show what
+  was set aside. REJECT a models table that lists only reconciling models
+  or only critical ones — both are under-investigation. Prefer the proposal
+  that found the model the other missed, in whichever direction.
 - REGISTRY: if the registry already holds this issue, reuse its weight unless
   this note's evidence justifies a change — then record the change in
   `registry_changes` with the reason. Notes in this group on the same issue

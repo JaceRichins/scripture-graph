@@ -73,6 +73,12 @@ Many faithful LGBTQ members and their families are the ones doing the
 hardest and most honest work here, and their voices belong in this question.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

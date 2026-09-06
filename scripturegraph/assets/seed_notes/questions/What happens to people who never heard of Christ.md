@@ -70,6 +70,12 @@ Restoration claims to *restore* what was lost — the point is that something
 this important survives in the New Testament only in fragments.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

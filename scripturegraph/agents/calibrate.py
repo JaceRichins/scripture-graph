@@ -96,7 +96,10 @@ FM_FIELDS = ("note_kind", "evidence_strength", "claim_confidence", "weight_label
 #: nobody contests.
 ADJUDICATION_FM = ("evidence_strength", "weight_label", "direction", "issue",
                    "proposition")
-REGISTRY_NOTE = f"{FOLDER_EVIDENCE}/Evidence Assessments.md"
+# one stable assessment per contested issue; the old title is an alias
+REGISTRY_NOTE = f"{FOLDER_EVIDENCE}/Assessments.md"
+REGISTRY_FM = {"ownership": "system", "mutable": "ai", "content_type": "moc",
+               "aliases": ["Evidence Assessments"]}
 
 
 # ------------------------------------------------------------------ targets
@@ -286,21 +289,30 @@ def _sections_from(spec: dict) -> dict[str, str]:
     Which of them a note actually carries is `sections_for(note_kind)`:
     an illumination note takes the first four and stops.
     """
-    models = _bullets(spec.get("models") or [], lambda m: f"- **{m.get('name','?')}** — predicts: "
-                      f"{m.get('predicts','?')}. Fit with this evidence: *{m.get('fit','?')}*.")
+    models = _bullets(spec.get("models") or [], lambda m: f"- **{m.get('name','?')}**"
+                      + (f" (*{str(m['status']).replace('_', ' ')}*)" if m.get("status") else "")
+                      + f" — predicts: {m.get('predicts','?')}. Fit with this finding: *{m.get('fit','?')}*."
+                      + (f" Support for the model: {m['support']}" if m.get("support") else ""))
+    # the frameworks step (standard §18): what the text itself requires, every
+    # serious model it permits with its status, and what was set aside and why
+    if spec.get("text_requires"):
+        models = f"**What the text itself requires:** {spec['text_requires']}\n\n" + models
+    aside = _bullets(spec.get("set_aside") or [], lambda a: f"- {a.get('model','?')} — {a.get('why','')}")
+    if aside:
+        models += "\n\n**Considered and set aside:**\n" + aside
     alts = _bullets(spec.get("alternatives") or [], lambda a: f"- {a.get('explanation','?')} "
                     f"— *{str(a.get('status','?')).replace('_',' ')}*"
                     + (f": {a['why']}" if a.get("why") else ""))
     w = spec.get("weight") or {}
     prop = str(spec.get("proposition", "?")).strip().rstrip(".")
     weight = (f"**{str(w.get('label','?')).title()}** ({w.get('direction','?')}, "
-              f"evidence_strength {w.get('evidence_strength','?')}) for the proposition: "
+              f"discrimination {w.get('evidence_strength','?')}) for the proposition: "
               f"*{prop}.*\n\n{w.get('sentence','')}")
     if spec.get("base_rate"):
         weight += f"\n\nBase rate / look-elsewhere: {spec['base_rate']}"
     if spec.get("discriminating_test"):
         weight += f"\n\nWhat would move this: {spec['discriminating_test']}"
-    weight += (f"\n\nCanonical assessment: [[Evidence Assessments#{spec.get('issue_key','')}|"
+    weight += (f"\n\nCanonical assessment: [[Assessments#{spec.get('issue_key','')}|"
                f"{spec.get('issue_title', spec.get('issue_key',''))}]]")
     return _Sections({
         "observation": spec.get("observation", ""),
@@ -324,12 +336,15 @@ def _sections_from(spec: dict) -> dict[str, str]:
 def render_registry_note(ctx: Ctx) -> str:
     db = ctx.db()
     rows = db.execute("SELECT * FROM issues ORDER BY corpus, title").fetchall()
-    lines = ["# Evidence Assessments", "",
-             "One stable assessment per evidence issue, reused by every note that bears on it — so "
+    lines = ["# Assessments", "",
+             "One stable assessment per contested issue, reused by every finding that bears on it — so "
              "the same question does not get ten different weights from ten different runs. Weights "
-             "name the proposition they support or challenge; *possible* is not *plausible*; the "
-             "same reasoning is applied to every corpus (see the engine's EVIDENCE-STANDARD). "
-             "When an assessment changes, the notes that cite it are re-rendered.", ""]
+             "name the proposition they support or challenge and measure *discrimination* between "
+             "serious models, not certainty; *possible* is not *plausible*; the same reasoning is "
+             "applied to every corpus (see the engine's EVIDENCE-STANDARD). When an assessment "
+             "changes, the findings that cite it are re-rendered. Read these together, not one at "
+             "a time: each corpus has a cumulative page — "
+             + " · ".join(f"[[{c} Assessment]]" for c in CORPORA) + ".", ""]
     cur = None
     for r in rows:
         if r["corpus"] != cur:
@@ -337,7 +352,7 @@ def render_registry_note(ctx: Ctx) -> str:
             lines += [f"## {cur}", ""]
         lines.append(f"### {r['issue_key']}")
         lines.append(f"**{r['title']}** — *{r['weight_label']}* ({r['direction']}, "
-                     f"evidence_strength {r['evidence_strength']}) for: {r['proposition']}")
+                     f"discrimination {r['evidence_strength']}) for: {r['proposition']}")
         lines.append("")
         lines.append(r["assessment"])
         notes = json.loads(r["notes_json"] or "[]")
@@ -646,8 +661,7 @@ def run_calibration_job(ctx: Ctx, target: str, apply: bool = True) -> dict:
                      json.dumps(hist), job_id, stamp))
             db.commit()
             record_file(ctx, REGISTRY_NOTE, "moc", "librarian", None,
-                        mdkit.build_note({"ownership": "system", "mutable": "ai", "content_type": "moc"},
-                                         render_registry_note(ctx)))
+                        mdkit.build_note(dict(REGISTRY_FM), render_registry_note(ctx)))
             report = validate_changed(ctx, [*result.changed_paths, REGISTRY_NOTE])
             if report.fatal:
                 raise PatchViolation("; ".join(f"{i.check}:{i.path}" for i in report.fatal))
@@ -737,8 +751,7 @@ def tidy_context_notes(ctx: Ctx) -> dict:
                                (json.dumps(notes), r["issue_key"]))
             db.commit()
             record_file(ctx, REGISTRY_NOTE, "moc", "librarian", None,
-                        mdkit.build_note({"ownership": "system", "mutable": "ai", "content_type": "moc"},
-                                         render_registry_note(ctx)))
+                        mdkit.build_note(dict(REGISTRY_FM), render_registry_note(ctx)))
             report = validate_changed(ctx, [*result.changed_paths, REGISTRY_NOTE])
             if report.fatal:
                 raise PatchViolation("; ".join(f"{i.check}:{i.path}" for i in report.fatal))

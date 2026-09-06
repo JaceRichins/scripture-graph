@@ -70,6 +70,12 @@ given to everyone ([[Moroni 7]]) and salvation for the dead means no one
 is finally disadvantaged by the church they were born into.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

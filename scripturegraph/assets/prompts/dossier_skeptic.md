@@ -17,6 +17,12 @@ Attack surface, per claim:
   ALTERNATIVE explanation (coincidence, translation artifact, common ancient
   practice, KJV idiom, circular reasoning)?
 - Would a competent, honest critic of the tradition accept this framing?
+- FRAMEWORKS (standard §18): which serious model did the proposal fail to
+  consider — in EITHER direction? Did it say what the text itself requires,
+  or argue against an assumption the text does not make? Is a model's
+  label inflated (an ad hoc rescue called plausible) or deflated (a
+  text-supported reading called ad hoc)? Does the page dismiss one at a
+  time what the corpus assessment weighs together?
 - Are sources real, relevant, and of the claimed quality? Flag anything that
   smells invented.
 

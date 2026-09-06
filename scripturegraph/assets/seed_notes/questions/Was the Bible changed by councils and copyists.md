@@ -73,6 +73,12 @@ treats it as scripture; and that the eighth Article of Faith ("as far as
 it is translated correctly") is a modest claim, not a suspicious one.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

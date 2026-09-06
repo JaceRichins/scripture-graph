@@ -67,6 +67,12 @@ concede that leaders have sometimes taught opinion as doctrine and that the
 Church has been slow to say so.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

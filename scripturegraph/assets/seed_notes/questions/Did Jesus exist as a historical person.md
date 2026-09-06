@@ -65,6 +65,12 @@ legend — they are normal in ancient lives of real people. Mythicism has no
 foothold in university history departments, and not because of piety.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

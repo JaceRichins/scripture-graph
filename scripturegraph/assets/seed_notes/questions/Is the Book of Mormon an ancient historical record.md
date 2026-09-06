@@ -74,6 +74,12 @@ Gospel Topics materials acknowledge open questions (e.g. geography is
 officially unsettled).
 <!-- SG:END church-teaching -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

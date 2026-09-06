@@ -68,6 +68,12 @@ Church's members demonstrably are, and that being labeled non-Christian by
 other Christians has a long and unhappy history.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

@@ -71,6 +71,12 @@ statement is not "history proves it" but "history is what you would expect
 if it happened, and awkward for every alternative."
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

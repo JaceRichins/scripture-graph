@@ -54,6 +54,11 @@ Attack surface, per proposed note (use the note's `note_id` as `claim_id`):
   of every model? Did it miss a serious model?
 - SYMMETRY: would this weight and this set of allowances be granted to the
   same category in the other corpus? Name the asymmetry if there is one.
+- FRAMEWORKS (standard §18): which serious model did the proposal fail to
+  consider — in EITHER direction? Did it say what the text itself requires,
+  or weigh a finding against an assumption the text does not make? Is any
+  model's `status` inflated (an ad hoc rescue called plausible) or deflated
+  (a text-supported reading called ad hoc)? Is the set-aside list honest?
 - Is a real difficulty being explained away, or a real strength deflated
   into nothing? Is there manufactured balance where the evidence is lopsided?
 - Any proof/disproof language left in? Any superlative without a reference

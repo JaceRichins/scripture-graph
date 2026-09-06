@@ -55,7 +55,7 @@ PROSE: dict[str, tuple[str, ...]] = {
     "topic": ("definition", "doctrinal-summary", "history", "evidence", "questions",
               "objections", "scholarship", "study-pathways", "synthesis"),
     "question": ("concise-answer", "strongest-evidence", "objections", "responses",
-                 "assessment", "further-study", "related"),
+                 "frameworks", "assessment", "further-study", "related"),
 }
 ALL_PROSE = tuple(sorted({s for v in PROSE.values() for s in v}))
 
@@ -85,8 +85,23 @@ SECTION_GUIDE = {
                       "and what is not",
     "strongest-evidence": "the strongest supporting points, each one checkable",
     "responses": "how thoughtful believers answer the objections, without overreach",
+    "frameworks": "the discovery step (standard §18): what the text itself requires as "
+                  "distinct from what readers assumed; EVERY serious model the text "
+                  "permits, in both directions, each labelled possible / plausible / "
+                  "independently supported / ad hoc with what supports it; and what was "
+                  "considered and set aside, with the reason",
     "assessment": "what is established, what is open, and what is a matter of faith",
     "further-study": "where to read next: chapters, topics, primary sources",
+}
+
+
+# `## Heading` a question section gets when the page never had it (the
+# seed scaffolds predate some sections); the marker name is the key
+QUESTION_HEADINGS = {
+    "concise-answer": "Concise answer", "strongest-evidence": "Strongest supporting points",
+    "objections": "Strongest objections", "responses": "Responses",
+    "frameworks": "Frameworks — how this can fit, and how it cannot",
+    "assessment": "Honest assessment", "related": "Related", "further-study": "Further study",
 }
 
 
@@ -350,6 +365,9 @@ def build_subject_context(ctx: Ctx, node_id: str) -> dict:
         # a question has no edges of its own — its research lives on the
         # pages it links to, in the calibrated evidence registry, and in the
         # library. Gather all three, or the dossier is written from memory.
+        if path.exists():
+            fm_q, _ = mdkit.parse_note(read_text(path))
+            meta = {**meta, "scope": fm_q.get("scope") or meta.get("scope")}
         q = _question_context(ctx, title, body, meta)
         out.update(q)
         out["chapters"] = q["chapters"] or chapters
@@ -367,9 +385,10 @@ def build_subject_context(ctx: Ctx, node_id: str) -> dict:
     return out
 
 
-def _library(ctx: Ctx, terms: list[str], k: int = 14) -> list[dict]:
+def _library(ctx: Ctx, terms: list[str], k: int = 14, any_terms: bool = False) -> list[dict]:
     """Passages from the library's documents (essays, talks, histories,
-    periodicals) that match the terms, each with the vault page it lives on."""
+    periodicals) that match the terms, each with the vault page it lives on.
+    `any_terms` ORs the terms (the frameworks search casts wide)."""
     library: list[dict] = []
     if not terms:
         return library
@@ -377,7 +396,8 @@ def _library(ctx: Ctx, terms: list[str], k: int = 14) -> list[dict]:
         from scripturegraph.ask import _passage_label
         from scripturegraph.indexing.semantic import fts_search
         # exact phrases for multi-word names, so "John C. Bennett" is not "John"
-        query = " ".join(f'"{t}"' if " " in t else t for t in terms)
+        quoted = [f'"{t}"' if " " in t else t for t in terms]
+        query = (" OR ".join(quoted) if any_terms else " ".join(quoted))
         seen = set()
         for d in fts_search(ctx, query, k=k * 3, owner_types=("document",)):
             if d["owner_id"] in seen:
@@ -479,7 +499,7 @@ def _question_context(ctx: Ctx, title: str, body: str, meta: dict) -> dict:
             findings.append({"where": _label(ctx, r["node_id"]), "type": r["claim_type"],
                              "tier": r["tier"], "text": truncate(r["text"], 500)})
     # ---- calibrated evidence: registry issues + evidence notes ----
-    registry, ev_notes = [], []
+    registry, ev_notes, frameworks = [], [], []
     if kw:
         where = " OR ".join("(title LIKE ? OR assessment LIKE ? OR proposition LIKE ?)" for _ in kw)
         params = [x for k in kw for x in (f"%{k}%", f"%{k}%", f"%{k}%")]
@@ -494,12 +514,20 @@ def _question_context(ctx: Ctx, title: str, body: str, meta: dict) -> dict:
         for r in db.execute(
                 f"SELECT title, vault_path FROM nodes WHERE node_type='evidence' AND ({where}) "
                 f"LIMIT 15", [f"%{k}%" for k in kw]):
-            fm = {}
+            fm, nbody = {}, ""
             p = ctx.vault / (r["vault_path"] or "")
             if r["vault_path"] and p.exists():
-                fm, _ = mdkit.parse_note(read_text(p))
+                fm, nbody = mdkit.parse_note(read_text(p))
             ev_notes.append({"title": r["title"], "kind": fm.get("note_kind", ""),
                              "weight": fm.get("weight_label", ""), "issue": fm.get("issue", "")})
+            # the frameworks a calibrated assessment already worked out: the
+            # models table and the labelled alternatives, so the question
+            # page starts from the vault's discovery rather than from memory
+            if str(fm.get("note_kind") or "").startswith("contest") and nbody:
+                secs = mdkit.list_sections(nbody)
+                text = "\n".join(t for t in (secs.get("models"), secs.get("alternatives")) if t)
+                if text and not mdkit.section_is_empty(text):
+                    frameworks.append({"title": r["title"], "text": truncate(text, 1400)})
     # ---- 3. the library ----
     library: list[dict] = []
     if kw:
@@ -522,11 +550,48 @@ def _question_context(ctx: Ctx, title: str, body: str, meta: dict) -> dict:
                     break
         except Exception as e:  # noqa: BLE001 — retrieval is context, never a blocker
             ctx.log.warn("dossier.retrieve_failed", error=str(e)[:200])
+    # ---- 4. the frameworks search (standard §18): scholarship that PROPOSES
+    # models — geographies, source theories, reconciliations, critical
+    # reconstructions — searched with the question's terms plus the words
+    # such proposals use, in both directions ----
+    proposals = _library(ctx, kw[:5] + ["model", "theory", "hypothesis", "proposal", "framework"],
+                         k=int(ctx.c("dossier.framework_passages", 8)), any_terms=True) if kw else []
+    seen_labels = {x["label"] for x in library}
+    proposals = [x for x in proposals if x["label"] not in seen_labels]
+    # ---- 5. the corpus-level cumulative assessment, when the question sits
+    # in a corpus that has one: required reading, so no finding is dismissed
+    # one at a time against the whole picture ----
+    cumulative = _cumulative_reading(ctx, meta, keywords)
     extra_vocab = [n["title"] for n in related_nodes] + [e["title"] for e in ev_notes] + \
-                  [x["title"] for x in library if x.get("title")]
+                  [x["title"] for x in library + proposals if x.get("title")]
+    if cumulative:
+        extra_vocab.append(cumulative["title"])
     return {"keywords": kw, "related_nodes": related_nodes, "chapters": chapters,
             "findings": findings, "registry_hits": registry, "evidence_notes": ev_notes,
+            "frameworks": frameworks, "framework_sources": proposals, "cumulative": cumulative,
             "library": library, "extra_vocab": extra_vocab}
+
+
+def _cumulative_reading(ctx: Ctx, meta: dict, keywords: list[str]) -> dict | None:
+    """The corpus assessment page a question must be written against.
+
+    The question's `scope` (frontmatter: book-of-mormon / restoration /
+    christianity) picks the corpus; the Restoration and Bible pages are
+    used the same way once they exist, so the treatment stays symmetric."""
+    from scripturegraph.agents.cumulative import CORPUS_BY_SCOPE, page_path, page_title
+    scope = str(meta.get("scope") or "")
+    corpus = CORPUS_BY_SCOPE.get(scope)
+    if not corpus:
+        return None
+    p = ctx.vault / page_path(corpus)
+    if not p.exists():
+        return None
+    _, body = mdkit.parse_note(read_text(p))
+    secs = {k: v for k, v in mdkit.list_sections(body).items() if not mdkit.section_is_empty(v)}
+    if not secs:
+        return None
+    return {"title": page_title(corpus), "corpus": corpus,
+            "sections": {k: truncate(v, 2200) for k, v in secs.items() if k != "registry"}}
 
 
 def _doc_note_title(ctx: Ctx, owner_type: str, owner_id: str) -> str | None:
@@ -607,6 +672,27 @@ def subject_context_markdown(c: dict) -> str:
         for x in c["library"]:
             page = f" → [[{x['title']}]]" if x.get("title") else ""
             lines.append(f"- {x['label']}{page}: {x['text']}")
+    if c.get("frameworks"):
+        lines += ["", "#### Frameworks the vault has already worked out (from calibrated "
+                      "assessments — start the `frameworks` section here, then search further)"]
+        for f in c["frameworks"]:
+            lines.append(f"- From [[{f['title']}]]:\n{f['text']}")
+    if c.get("framework_sources"):
+        lines += ["", "#### Scholarship proposing frameworks — models, theories, reconstructions, "
+                      "in either direction (cite by the label)"]
+        for x in c["framework_sources"]:
+            page = f" → [[{x['title']}]]" if x.get("title") else ""
+            lines.append(f"- {x['label']}{page}: {x['text']}")
+    if c.get("cumulative"):
+        cu = c["cumulative"]
+        lines += ["", f"#### REQUIRED READING — the corpus-level assessment [[{cu['title']}]]",
+                  "The findings of this corpus are weighed TOGETHER on that page: independent "
+                  "lines, a judged synthesis, and the frameworks the whole picture leaves open. "
+                  "Write this question against it. Do not dismiss a finding one at a time as "
+                  "coincidence when the page has weighed it as part of a line; do not inflate one "
+                  "when the page has not. Link the page from `assessment` or `further-study`."]
+        for name, text in cu["sections"].items():
+            lines.append(f"[{name}]\n{text}")
     if c["existing_sections"]:
         lines += ["", "#### Existing prose on the page (improve, don't degrade)"]
         for name, text in c["existing_sections"].items():
@@ -658,7 +744,10 @@ def _librarian_ops(ctx: Ctx, context: dict, proposals: dict, judgment: dict) -> 
         elif use == "merged":
             text = spec.get("merged_text", "")
         if text and use != "none":
-            ops.append({"op": "set_section", "path": relpath, "section": section,
+            # ensure_section: a section the page never had is appended under
+            # its heading (the seed scaffolds predate `frameworks`)
+            ops.append({"op": "ensure_section", "path": relpath, "section": section,
+                        "heading": QUESTION_HEADINGS.get(section, section.replace("-", " ").title()),
                         "content": text.strip()})
     # the mentions ledger is software's, not the model's: every line is an
     # index edge the engine can defend
@@ -859,5 +948,8 @@ def run_dossier_job(ctx: Ctx, node_id: str) -> dict:
     ctx.log.info("dossier.applied", job=job_id, target=node_id, kind=kind, mode=mode,
                  sections=n_sections, cost_usd=round(costs["usd"], 4), **persisted["counts"])
     return {"job_id": job_id, "target": node_id, "kind": kind, "mode": mode,
+            # a dossier written before the canon is read is owed a second
+            # pass; the queue records this mode when it marks the pass
+            "pass_mode": "ai" if research_progress(ctx)["complete"] else "ai-early",
             "git_rev": rev, "sections": n_sections, **persisted["counts"],
             "cost_usd": costs["usd"]}

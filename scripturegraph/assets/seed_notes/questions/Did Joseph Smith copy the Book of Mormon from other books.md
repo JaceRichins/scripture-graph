@@ -71,6 +71,12 @@ is ambivalent about the American Republic, and its Indians are not the ten
 tribes). The KJV quotations are addressed under their own question.
 <!-- SG:END responses -->
 
+## Frameworks — how this can fit, and how it cannot
+
+<!-- SG:BEGIN frameworks -->
+_Not yet developed._
+<!-- SG:END frameworks -->
+
 ## Honest assessment
 
 <!-- SG:BEGIN assessment -->

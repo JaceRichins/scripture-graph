@@ -68,6 +68,29 @@ the strongest honest response, and an assessment that says plainly what is
 established, what is open, and what is a matter of faith. Faith-building
 through honesty, never instead of it.
 
+## The frameworks step (standard §18) — for a hard question
+
+The `frameworks` section is the discovery step, and it is where a reader
+should meet the framework they never considered. Write it BEFORE the
+assessment and let the assessment depend on it:
+- What the text itself requires on this question, as distinct from what
+  readers (believing or critical) have assumed. Say which objections and
+  which supporting points attach to the assumption rather than the text.
+- EVERY serious model the text permits, in BOTH directions — the
+  reconciling ones and the critical ones — searched in the context's
+  scholarship, not only recalled. Label each possible / plausible /
+  independently supported / ad hoc, and say what supports it. Reuse the
+  frameworks the vault's calibrated assessments already worked out where
+  the context offers them; link those pages.
+- What you considered and set aside, and why.
+Labelled possibility is the safeguard: a plausible, text-supported model and
+an ad hoc rescue both belong on the page, and the label tells them apart.
+
+When the context carries a REQUIRED READING corpus assessment, the question
+is written against it: the findings have been weighed together there, and
+this page may not dismiss one at a time what that page weighs as a line —
+nor inflate what it does not. Link it.
+
 ## Output format
 
 Respond with ONLY one JSON object (no markdown fences, no commentary) that

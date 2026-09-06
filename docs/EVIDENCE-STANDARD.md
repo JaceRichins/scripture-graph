@@ -148,6 +148,46 @@ citation and calibrated-language rules (§6, §11) and the constitution.
     up, and one that would move it down. A note that cannot name one is a
     hedged verdict, not a model-first assessment. Date the assessment.
 
+18. FRAMEWORKS — SEARCH BEFORE YOU WEIGH, IN BOTH DIRECTIONS. Before any
+    weight is set, do the discovery a good historian does for any ancient
+    text, and show it on the page:
+    (a) WHAT THE TEXT ITSELF REQUIRES, as distinct from what readers have
+        assumed. Many "difficulties" and many "evidences" are difficulties
+        or evidences for a reading the text does not demand (a hemispheric
+        Lehite ancestry; a single-author Isaiah; a young-earth Genesis).
+        Say which is which.
+    (b) EVERY SERIOUS MODEL THE TEXT PERMITS, searched proactively — in the
+        library's scholarship, believing and critical, not only in memory —
+        each labelled possible / plausible / independently_supported /
+        ad_hoc, with what supports it. A framework the reader never
+        considered, under which the finding fits, is exactly the kind of
+        thing this vault exists to surface ("I never thought of that, and
+        it works"). Not naming it is under-investigation, and a model that
+        under-investigates is biased whichever way it leans.
+    (c) THE SAME SEARCH FOR THE OTHER DIRECTION. Frameworks that make a
+        finding fit are not the only frameworks; the critical reading has
+        models too, and some of them are the best-supported ones. A page
+        that lists only reconciling models has protected the reader, not
+        informed them.
+    (d) CONSIDERED AND SET ASIDE: the models you looked at and did not
+        credit, with the reason — so the reader can see the search was done
+        and judge it.
+    Labelled possibility is the safeguard that keeps discovery honest: a
+    plausible, text-supported model and an ad hoc rescue both belong on the
+    page, and the label is what tells them apart.
+
+## VOCABULARY
+
+The library is called **Findings** — what the reading found — because
+"evidence" carries a verdict in the word (evidence is for or against
+something) and most findings make no such claim. An illumination note is a
+*finding*. A contested item is an *assessment*: a finding weighed against a
+named proposition, recorded once in the Assessments registry. The weight
+field is still named `evidence_strength` in frontmatter for schema
+stability; on the page it is shown as what it is — discrimination between
+serious models. The word "evidence" remains correct, and is used, for the
+minority of findings that actually bear on a contested proposition.
+
 A good result may be uncomfortable: "this remains a substantial difficulty";
 "this criticism is weaker than it looks"; "genuinely interesting supporting
 evidence, but not proof"; "several models remain possible and the evidence
