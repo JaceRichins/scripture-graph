@@ -7,7 +7,7 @@
  * puts above each one. The Scriptures cover is the photo's black jacket
  * with the four works gold-stamped down its front; it drills to the five
  * volume covers, then books, then the chapter grid — GL's exact rhythm. */
-import { ItemView, Platform, WorkspaceLeaf } from "obsidian";
+import { ItemView, Platform, WorkspaceLeaf, type ViewStateResult } from "obsidian";
 import { BOOKS, type BookInfo } from "@scripture-graph/core-sdk";
 import { SGState } from "../state";
 import { GRAPH_PRESETS, openGraphPreset } from "./graphPresets";
@@ -56,6 +56,36 @@ export class SGLibraryView extends ItemView {
   getViewType(): string { return LIBRARY_VIEW; }
   getDisplayText(): string { return "Library"; }
   getIcon(): string { return "library"; }
+
+  /** The drilled-down place rides the leaf state, so the tab's back arrow
+   * (and a page's ‹ Back) returns to WHERE you were in the Library — the
+   * chapter list, the questions shelf, a conference year — not to the root.
+   * Without this every history restore made a fresh view at home
+   * (user-reported). A book is stored by slug: BookInfo is not state. */
+  getState(): Record<string, unknown> {
+    const pack = (v: LibView) => v.kind === "chapters" ? { kind: "chapters", book: v.book.slug } : v;
+    return { view: pack(this.view), trail: this.trail.map(pack) };
+  }
+
+  async setState(state: unknown, result: ViewStateResult): Promise<void> {
+    await super.setState(state, result);
+    const st = state as { view?: unknown; trail?: unknown[] } | null;
+    const unpack = (v: unknown): LibView | null => {
+      if (!v || typeof v !== "object" || typeof (v as { kind?: unknown }).kind !== "string") return null;
+      const o = v as { kind: string; book?: unknown; path?: unknown; title?: unknown; volume?: unknown };
+      if (o.kind === "chapters") {
+        const b = BOOKS.find(x => x.slug === o.book);
+        return b ? { kind: "chapters", book: b } : { kind: "scriptures" };
+      }
+      return o as unknown as LibView;
+    };
+    const v = unpack(st?.view);
+    if (v) {
+      this.view = v;
+      this.trail = (st?.trail ?? []).map(unpack).filter((x): x is LibView => !!x);
+      if (this.contentEl.hasClass("sg-libpage")) this.render();
+    }
+  }
 
   async onOpen(): Promise<void> {
     this.contentEl.addClass("sg-libpage");

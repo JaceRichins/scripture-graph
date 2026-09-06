@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.4 build f0024747 2026-09-06T15:54:54Z */
+/* scripture-graph v0.65.5 build 1b62f1c8 2026-09-06T15:57:03Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.4", sha: "f0024747", at: "2026-09-06T15:54:54Z" };
+    define_SG_BUILD_default = { version: "0.65.5", sha: "1b62f1c8", at: "2026-09-06T15:57:03Z" };
   }
 });
 
@@ -12342,6 +12342,34 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   }
   getIcon() {
     return "library";
+  }
+  /** The drilled-down place rides the leaf state, so the tab's back arrow
+   * (and a page's ‹ Back) returns to WHERE you were in the Library — the
+   * chapter list, the questions shelf, a conference year — not to the root.
+   * Without this every history restore made a fresh view at home
+   * (user-reported). A book is stored by slug: BookInfo is not state. */
+  getState() {
+    const pack = (v) => v.kind === "chapters" ? { kind: "chapters", book: v.book.slug } : v;
+    return { view: pack(this.view), trail: this.trail.map(pack) };
+  }
+  async setState(state, result) {
+    await super.setState(state, result);
+    const st = state;
+    const unpack = (v2) => {
+      if (!v2 || typeof v2 !== "object" || typeof v2.kind !== "string") return null;
+      const o = v2;
+      if (o.kind === "chapters") {
+        const b = BOOKS.find((x3) => x3.slug === o.book);
+        return b ? { kind: "chapters", book: b } : { kind: "scriptures" };
+      }
+      return o;
+    };
+    const v = unpack(st?.view);
+    if (v) {
+      this.view = v;
+      this.trail = (st?.trail ?? []).map(unpack).filter((x3) => !!x3);
+      if (this.contentEl.hasClass("sg-libpage")) this.render();
+    }
   }
   async onOpen() {
     this.contentEl.addClass("sg-libpage");
