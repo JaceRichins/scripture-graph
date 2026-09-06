@@ -67,7 +67,7 @@ questions are about canon and interpretation, not copying fidelity.
 
 <!-- SG:BEGIN related -->
 [[Dead Sea Scrolls and Old Testament reliability]] · [[1 Nephi 13]] ·
-[[Articles of Faith 1]] · Evidence area: [[Bible Evidence]]
+[[Articles of Faith 1]] · Evidence area: [[Bible Findings]]
 <!-- SG:END related -->
 
 ## Further study

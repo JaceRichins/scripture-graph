@@ -88,7 +88,7 @@ vault will not pretend otherwise.
 ## Related
 
 <!-- SG:BEGIN related -->
-[[Book of Mormon Evidence]] · [[Witnesses of the Book of Mormon]] ·
+[[Book of Mormon Findings]] · [[Witnesses of the Book of Mormon]] ·
 [[1 Nephi 16]] · [[Alma 36]] · Topic: [[Book of Mormon (Gospel Topic)]]
 <!-- SG:END related -->
 

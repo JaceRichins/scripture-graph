@@ -19,9 +19,10 @@ A living, AI-maintained knowledge graph for serious scripture study.
 - [[People]] · [[Places]] · [[Events]]
 - [[Questions]] — serious questions, honestly handled
 
-## Evidence & scholarship
-- [[Evidence]] — literary, linguistic, historical, archaeological
-- [[Book of Mormon Evidence]] · [[Bible Evidence]] · [[Restoration Evidence]]
+## Findings & scholarship
+- [[Findings]] — what the reading found: literary, linguistic, historical, archaeological
+- [[Book of Mormon Findings]] · [[Bible Findings]] · [[Restoration Findings]]
+- [[Assessments]] — the contested issues, one stable assessment each
 - [[Scholarship]]
 
 ## History
