@@ -23,7 +23,12 @@ Scripture: [[Luke 1]] · My notes: [[Luke 1 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Purpose of the account (1:1–4):** traditions, eyewitnesses, orderly writing, and certainty.
+2. **John announced (1:5–25):** temple service, Gabriel's promise, Zacharias's unbelief, and Elisabeth's conception.
+3. **Jesus announced (1:26–38):** Gabriel's message to Mary, divine sonship and Davidic kingship, and Mary's assent.
+4. **Mary and Elisabeth (1:39–56):** Spirit-inspired recognition and Mary's song of covenant mercy and reversal.
+5. **John born and named (1:57–66):** communal joy, obedient naming, restored speech, and widening public expectation.
+6. **Zacharias's prophecy (1:67–80):** covenant deliverance, remission of sins, John's preparatory mission, and the coming light.
 <!-- SG:END structure -->
 
 ## People
@@ -56,30 +61,36 @@ _Not yet developed._
 - [[D&C 110]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-17|Luke 1:17]] ↔ [[D&C 110#^dc-110-15|D&C 110:15]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-17|Luke 1:17]] ↔ [[D&C 27#^dc-27-9|D&C 27:9]]
 - [[D&C 98]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-17|Luke 1:17]] ↔ [[D&C 98#^dc-98-16|D&C 98:16]]
-- [[Luke 2]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-80|Luke 1:80]] ↔ [[Luke 2#^luke-2-40|Luke 2:40]]
 - [[Psalm 107]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-79|Luke 1:79]] ↔ [[Psalm 107#^ps-107-10|Psalm 107:10]]
+- [[Luke 2]] — 0 parallel verses
+- [[1 Samuel 2]] — 0 parallel verses
+- [[Malachi 4]] — 0 parallel verses
+- [[Malachi 3]] — 0 parallel verses
+- [[2 Samuel 7]] — 0 parallel verses
 - [[2 Samuel 7]] — 0 parallel verses
 - [[Judges 13]] — 0 parallel verses
 - [[1 Samuel 2]] — 0 parallel verses
-- [[Acts 1]] — 0 parallel verses
-- [[Alma 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Angels]]
+- [[Records and Sacred Writings]]
+- [[Prophecy]]
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
-- [[Temples]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents Jesus through several mutually reinforcing titles: Son of the Highest, Son of God, David's royal heir, everlasting king, and Lord (1:32–35, 43). These make [[Jesus Christ (Gospel Topic)]] and the [[Kingdom of God]] central even before his birth.
+
+Zacharias's prophecy gives [[Salvation]] covenantal, moral, and personal dimensions. Deliverance is ordered toward serving God in holiness and righteousness (1:71–75), while John will teach salvation through remission of sins (1:76–77). The tender mercy that brings light and peace is therefore not detached from either covenant history or transformed life.
+
+The [[Gift of the Holy Ghost]] appears before the public ministries begin: John is promised the Spirit from the womb, the Spirit is active in the conception announcement, and Elisabeth and Zacharias speak after being filled. Revelation in the chapter produces praise, witness, and preparation for the Lord.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -112,25 +123,49 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The KJV's “highly favoured” (1:28) renders a Greek passive form related to grace or favor, describing Mary as one favored by God; the term alone does not settle later theological disputes about Mary. Likewise, “cousin” (1:36) translates a broader term for a female relative or kinswoman, so the precise degree of relationship between Mary and Elisabeth is not specified. “Elias” (1:17) is the New Testament Greek form of Elijah. Its conjunction with the turning of fathers' hearts clearly invokes the Elijah promise in [[Malachi 4]], although Luke adapts the second half of Malachi's wording.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The two annunciations function as companion scenes: an angel appears, the recipient is troubled, reassurance and a birth announcement follow, the child is named and described, and the recipient asks a question. Their differences are equally important. John is promised to an aged, previously barren married couple and will prepare the Lord's people; Jesus is conceived by a virgin and is identified as Son and everlasting king. Zacharias is explicitly corrected for unbelief, while Mary receives an explanation and later assents, although the wording of their questions alone does not fully explain this differing treatment.
+
+Mary's song belongs within the scriptural tradition represented by [[1 Samuel 2]]. Like Hannah, Mary rejoices in God and celebrates reversals involving the mighty, lowly, full, and hungry. This resemblance does not require verbatim dependence; both songs may draw upon broader Israelite praise traditions. Zacharias's song gathers themes of the [[Abrahamic Covenant]], Davidic kingship, prophetic promise, deliverance, forgiveness, light, and peace. Literary artistry neither proves fabrication nor independently verifies historicity.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Authorial Self-Testimony
+> Luke's prologue is a direct authorial assertion about his method and sources — that he used material from those who "were eyewitnesses" so Theophilus could "know the certainty" of his instruction — but this claim is itself unverifiable from within the text; it tells readers what Luke asserts about his sourcing, not independent proof that the underlying events are accurately reported.
+> — strength 0.4 · confidence 1.0 · Accepted observation with disputed historical implications · [[Authorial Self-Testimony in Luke 1|full dossier]]
+
+> [!evidence] Intertextual And Thematic Evidence
+> Mary's and Zacharias's speeches repeatedly name Israel, Abraham, the fathers, David, covenant, oath, mercy, prophets, and promised deliverance. This concentration is strong textual evidence that Luke frames the two births as continuation and fulfillment of Israel's covenant story rather than as isolated wonders.
+> — strength 0.9 · confidence 1.0 · Broadly accepted thematic interpretation · [[Intertextual And Thematic Evidence in Luke 1|full dossier]]
+
+> [!evidence] Literary-Structural Evidence
+> The annunciations to Zacharias and Mary follow a sustained common sequence: Gabriel appears, the recipient is troubled, reassurance is given, a conception and divinely assigned name are announced, the child's mission is described, the recipient asks a question, and Gabriel supplies a confirming consequence or sign. This is strong internal evidence that Luke presents the scenes as deliberately paired narrative panels.
+> — strength 0.9 · confidence 1.0 · Broadly accepted literary structure · [[Literary-Structural Evidence in Luke 1|full dossier]]
+
+> [!evidence] Intertextual Parallel *(tentative)*
+> Mary's Magnificat closely parallels the themes of Hannah's prayer in 1 Samuel 2 — reversal of the proud and the lowly, the powerful and the hungry — but the chapter's own verified text-overlap check found zero shared verses between Luke 1 and 1 Samuel 2, indicating the connection is thematic/structural rather than a verbatim quotation.
+> — strength 0.5 · confidence 0.8 · Thematic parallel broadly accepted
+
+> [!evidence] Literary/Form-Critical *(tentative)*
+> The paired annunciation scenes (angelic appearance, fear, reassurance, birth/name oracle, objection, confirming response) match a recognized Hebrew Bible "birth-annunciation" narrative pattern also found in Judges 13 (Manoah and his wife) and other barrenness-reversal accounts, which biblical scholars have long identified as a conventional type-scene.
+> — strength 0.5 · confidence 0.7 · Recognized pattern; dependence and intent disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What prayer is said to have been heard in 1:13: Zacharias's prayer for a child, prayer for Israel's redemption, or both?
+- Why does the narrative judge Zacharias's question as unbelief while presenting Mary's question without the same condemnation?
+- How should the political language of enemies and deliverance in 1:71–74 be held together with remission of sins in 1:77?
+- Are the reversals in Mary's song primarily present, future, social, spiritual, or deliberately comprehensive?
+- What does Luke's appeal to transmitted eyewitness testimony establish, and what does it leave unstated about his own relationship to the events?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare John's promised Elijah-like mission with [[Malachi 4]] and his preparation of the Lord's way with [[Malachi 3]]. Read Mary's song alongside [[1 Samuel 2]], and compare the two miraculous-birth narratives with [[Judges 13]]. For the Davidic promises attached to Jesus, examine [[2 Samuel 7]] and the conjunction of light and royal government in [[Isaiah 9]]. Then follow the fulfillment and expansion of Luke 1's promises in [[Luke 2]].
 <!-- SG:END further-study -->
