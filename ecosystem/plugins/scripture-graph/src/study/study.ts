@@ -43,7 +43,13 @@ export class StudyService {
   // --------------------------------------------------------- bookmarks
   async bookmarkCurrent(): Promise<void> {
     const f = this.s.app.workspace.getActiveFile();
-    if (!f) return;
+    if (!f) return void new Notice("Open a page first, then bookmark it");
+    await this.bookmarkFile(f);
+  }
+
+  /** bookmark THIS file — the page views (questions, talks, history) have no
+   * "active file" in Obsidian's sense, so they hand theirs over */
+  async bookmarkFile(f: TFile): Promise<void> {
     let anchor: string | null = null;
     if (f.path.startsWith(CANONICAL_PREFIX)) anchor = chapterIdFromTitle(f.basename);
     if (!anchor) {

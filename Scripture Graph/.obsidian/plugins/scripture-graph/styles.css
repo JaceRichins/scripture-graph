@@ -2382,3 +2382,8 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
 .sg-tl-stream { touch-action: pan-y; }
 .sg-tl-stream-zooming { overflow: hidden; }
 .sg-tl-svg.sg-tl-zooming .sg-tl-float, .sg-tl-svg.sg-tl-zooming .sg-tl-halo-breathe, .sg-tl-svg.sg-tl-zooming .sg-tl-star { animation: none; }
+.sg-saved-keep {
+  width: 100%; min-height: 44px; margin: 4px 0 14px; border-radius: 12px; font-weight: 700;
+  background: var(--interactive-accent); color: var(--text-on-accent); border: 0; box-shadow: none;
+}
+.sg-saved-keep:active { transform: scale(0.98); }

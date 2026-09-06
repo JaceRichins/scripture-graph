@@ -1,4 +1,4 @@
-/* scripture-graph v0.68.1 build 96f7c87b 2026-09-06T21:15:33Z */
+/* scripture-graph v0.68.2 build c8903e81 2026-09-06T21:41:25Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.68.1", sha: "96f7c87b", at: "2026-09-06T21:15:33Z" };
+    define_SG_BUILD_default = { version: "0.68.2", sha: "c8903e81", at: "2026-09-06T21:41:25Z" };
   }
 });
 
@@ -14872,6 +14872,8 @@ var DocView = class extends import_obsidian19.ItemView {
     };
     const askBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "\u2728 Ask AI" });
     askBtn.onclick = () => this.host.openAsk(file.basename);
+    const markBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "\u{1F516} Bookmark" });
+    markBtn.onclick = () => void this.host.bookmark(file).then(() => markBtn.setText("\u{1F516} Bookmarked"));
     if (this.host.openRaw) {
       const raw = actions.createEl("button", { cls: "sg-ask-btn", text: "\u2197" });
       raw.setAttr("aria-label", "Open the raw page");
@@ -15153,7 +15155,7 @@ var Listener = class {
     document.body.removeClass("sg-listening");
   }
 };
-var SavedModal = class extends import_obsidian20.Modal {
+var SavedModal = class _SavedModal extends import_obsidian20.Modal {
   constructor(s, host) {
     super(s.app);
     this.s = s;
@@ -15186,6 +15188,16 @@ var SavedModal = class extends import_obsidian20.Modal {
         onTap();
       };
     };
+    const here = this.host.currentPage();
+    if (here) {
+      const keep = c2.createEl("button", { cls: "sg-saved-keep", text: `\u{1F516} Bookmark \u201C${here.basename}\u201D` });
+      keep.onclick = () => {
+        void this.host.bookmark(here).then(() => {
+          this.close();
+          new _SavedModal(this.s, this.host).open();
+        });
+      };
+    }
     sect("Continue");
     const recent = this.s.device.recentChapters ?? [];
     const list0 = c2.createDiv({ cls: "sg-nav-list" });
@@ -15201,7 +15213,7 @@ var SavedModal = class extends import_obsidian20.Modal {
     }
     sect(`Bookmarks${marks.length ? ` \xB7 ${marks.length}` : ""}`);
     const list1 = c2.createDiv({ cls: "sg-nav-list" });
-    if (!marks.length) list1.createDiv({ cls: "sg-nav-empty", text: "Bookmark a page from its \u22EF menu or the command palette." });
+    if (!marks.length) list1.createDiv({ cls: "sg-nav-empty", text: "Nothing bookmarked yet \u2014 use the button above on any page." });
     for (const m2 of marks.slice(0, 40)) {
       const title = /\[\[([^\]|]+)/.exec(m2.content)?.[1] ?? m2.anchor_id;
       row(list1, "\u{1F516}", title, new Date(m2.created_at).toLocaleDateString(), () => this.host.openPath(title));
@@ -15286,7 +15298,12 @@ ${body}
   // --------------------------------------------------------- bookmarks
   async bookmarkCurrent() {
     const f = this.s.app.workspace.getActiveFile();
-    if (!f) return;
+    if (!f) return void new import_obsidian21.Notice("Open a page first, then bookmark it");
+    await this.bookmarkFile(f);
+  }
+  /** bookmark THIS file — the page views (questions, talks, history) have no
+   * "active file" in Obsidian's sense, so they hand theirs over */
+  async bookmarkFile(f) {
     let anchor = null;
     if (f.path.startsWith(CANONICAL_PREFIX)) anchor = chapterIdFromTitle(f.basename);
     if (!anchor) {
@@ -16317,6 +16334,7 @@ var SGPlugin = class extends import_obsidian24.Plugin {
     this.registerView(ASK_VIEW, (leaf) => new AskView(leaf, this.state, this.ai, this.ann));
     this.registerView(DOC_VIEW, (leaf) => new DocView(leaf, this.state, this.ann, {
       openAsk: (seed) => void this.openAsk(null, null, `About "${seed}" \u2014 `),
+      bookmark: (f) => this.study.bookmarkFile(f),
       openLibrary: () => this.openNavigator(),
       openRaw: this.state.device.showAiLibrary ? (f) => {
         void this.app.workspace.getLeaf().openFile(f);
@@ -16889,7 +16907,17 @@ var SGPlugin = class extends import_obsidian24.Plugin {
       tabsMenu: (e) => internals.mobileTabSwitcher?.showTabManagementMenu(e),
       ribbonMenu: (e) => internals.mobileNavbar?.showRibbonMenu(e),
       reviewFlashcards: () => void this.study.review(),
-      openPath: (p) => void this.app.workspace.openLinkText(p, "")
+      openPath: (p) => void this.app.workspace.openLinkText(p, ""),
+      // the page under the dock, whichever view holds it
+      currentPage: () => {
+        const f = this.app.workspace.getActiveFile();
+        if (f) return f;
+        const v = this.app.workspace.activeLeaf?.view;
+        const p = v?.getState?.()?.path;
+        const af = typeof p === "string" ? this.app.vault.getAbstractFileByPath(p) : null;
+        return af instanceof import_obsidian24.TFile ? af : null;
+      },
+      bookmark: (f) => this.study.bookmarkFile(f)
     });
     this.dock.mount();
     this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.dock?.refresh()));

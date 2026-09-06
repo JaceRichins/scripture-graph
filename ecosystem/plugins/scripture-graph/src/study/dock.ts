@@ -30,6 +30,9 @@ export interface DockHost {
   ribbonMenu: (evt: MouseEvent) => void;
   reviewFlashcards: () => void;
   openPath: (path: string) => void;
+  /** the page under the dock right now (a note, or a page view's file) */
+  currentPage: () => TFile | null;
+  bookmark: (file: TFile) => Promise<void>;
 }
 
 interface ObsidianInternals {
@@ -226,6 +229,15 @@ class SavedModal extends Modal {
       r.onclick = () => { this.close(); onTap(); };
     };
 
+    // the page you came from: one tap to keep it
+    const here = this.host.currentPage();
+    if (here) {
+      const keep = c.createEl("button", { cls: "sg-saved-keep", text: `🔖 Bookmark “${here.basename}”` });
+      keep.onclick = () => {
+        void this.host.bookmark(here).then(() => { this.close(); new SavedModal(this.s, this.host).open(); });
+      };
+    }
+
     sect("Continue");
     const recent = this.s.device.recentChapters ?? [];
     const list0 = c.createDiv({ cls: "sg-nav-list" });
@@ -237,7 +249,7 @@ class SavedModal extends Modal {
 
     sect(`Bookmarks${marks.length ? ` · ${marks.length}` : ""}`);
     const list1 = c.createDiv({ cls: "sg-nav-list" });
-    if (!marks.length) list1.createDiv({ cls: "sg-nav-empty", text: "Bookmark a page from its ⋯ menu or the command palette." });
+    if (!marks.length) list1.createDiv({ cls: "sg-nav-empty", text: "Nothing bookmarked yet — use the button above on any page." });
     for (const m of marks.slice(0, 40)) {
       const title = /\[\[([^\]|]+)/.exec(m.content)?.[1] ?? m.anchor_id;
       row(list1, "🔖", title, new Date(m.created_at).toLocaleDateString(), () => this.host.openPath(title));

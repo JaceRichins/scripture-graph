@@ -280,6 +280,9 @@ def _copy_seed_notes(ctx: Ctx) -> dict:
             text = entry.read_text(encoding="utf-8")
             fm, _body = mdkit.parse_note(text)
             rel = fm.get("sg-path") or f"{folder_of}/{entry.name}"
+            # a seed packaged before the Findings rename still names the old
+            # folder; it lands in the new one (a duplicate tree otherwise)
+            rel = rel.replace("AI Library/40 Evidence/", "AI Library/40 Findings/")
             text = re.sub(r"^sg-path: .*\n", "", text, flags=re.MULTILINE)
             title = Path(rel).stem
             node_kind = "evidence" if kind == "evidence" else "question"

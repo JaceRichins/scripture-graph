@@ -100,6 +100,7 @@ export default class SGPlugin extends Plugin {
     // hard questions and talks are pages of their own (reader/docView.ts)
     this.registerView(DOC_VIEW, leaf => new DocView(leaf, this.state, this.ann, {
       openAsk: (seed) => void this.openAsk(null, null, `About "${seed}" — `),
+      bookmark: (f) => this.study.bookmarkFile(f),
       openLibrary: () => this.openNavigator(),
       openRaw: this.state.device.showAiLibrary
         ? (f) => { void this.app.workspace.getLeaf().openFile(f); } : null,
@@ -686,6 +687,16 @@ export default class SGPlugin extends Plugin {
       ribbonMenu: (e) => internals.mobileNavbar?.showRibbonMenu(e),
       reviewFlashcards: () => void this.study.review(),
       openPath: (p) => void this.app.workspace.openLinkText(p, ""),
+      // the page under the dock, whichever view holds it
+      currentPage: () => {
+        const f = this.app.workspace.getActiveFile();
+        if (f) return f;
+        const v = this.app.workspace.activeLeaf?.view as { getState?: () => { path?: unknown } } | undefined;
+        const p = v?.getState?.()?.path;
+        const af = typeof p === "string" ? this.app.vault.getAbstractFileByPath(p) : null;
+        return af instanceof TFile ? af : null;
+      },
+      bookmark: (f) => this.study.bookmarkFile(f),
     });
     this.dock.mount();
     this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.dock?.refresh()));
