@@ -7,7 +7,7 @@
  * puts above each one. The Scriptures cover is the photo's black jacket
  * with the four works gold-stamped down its front; it drills to the five
  * volume covers, then books, then the chapter grid — GL's exact rhythm. */
-import { ItemView, Platform, WorkspaceLeaf, type ViewStateResult } from "obsidian";
+import { ItemView, Platform, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
 import { BOOKS, type BookInfo } from "@scripture-graph/core-sdk";
 import { SGState } from "../state";
 import { historyBack, recordHistory, refreshNavArrows } from "./leafNav";
@@ -28,6 +28,8 @@ type LibView =
   | { kind: "questions" }
   | { kind: "folder"; path: string; title: string };
 
+/** shelf cover photos (public-domain art; any file here can be replaced) */
+const COVERS_PATH = "AI Library/00 System/covers";
 /** where the engine keeps the question pages (the MOC lives beside them) */
 const QUESTIONS_PATH = "AI Library/50 Questions";
 /** the four original seeds predate the `scope` field; their vault copies are
@@ -194,8 +196,6 @@ export class SGLibraryView extends ItemView {
     card.style.setProperty("--ico", hue);
     const art = card.createDiv({ cls: "sg-nav-cover-art" });
     if (opts.jacket) art.addClass(opts.jacket);
-    // the motif pressed into the cloth is the section's own (styles.css)
-    art.dataset["motif"] = opts.jacket ? "jacket" : (opts.icon ?? "page");
     art.style.setProperty("--ico", hue);
     if (opts.lines) {
       const stack = art.createDiv({ cls: "sg-cover-lines" });
@@ -204,6 +204,17 @@ export class SGLibraryView extends ItemView {
       }
     } else if (opts.icon) {
       navIcon(art, opts.icon);
+    }
+    // a photo, when the vault has one for this shelf: lazy — the card paints
+    // at once in its plain hue and the image fades in when it scrolls into
+    // view. `covers/<key>.jpg` is ~40 KB at 480 px; drop your own to replace.
+    const key = opts.jacket ? "scriptures" : opts.icon;
+    const photo = key ? this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${key}.jpg`) : null;
+    if (photo instanceof TFile) {
+      const img = art.createEl("img", { cls: "sg-nav-cover-photo",
+        attr: { loading: "lazy", decoding: "async", alt: "" } });
+      img.src = this.app.vault.getResourcePath(photo);
+      img.onload = () => art.addClass("sg-has-photo");
     }
     card.createDiv({ cls: "sg-nav-cover-label", text: opts.label });
     card.onclick = opts.onTap;

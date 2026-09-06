@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.8 build 84415079 2026-09-06T16:21:49Z */
+/* scripture-graph v0.65.9 build aa48cfe6 2026-09-06T16:32:10Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.8", sha: "84415079", at: "2026-09-06T16:21:49Z" };
+    define_SG_BUILD_default = { version: "0.65.9", sha: "aa48cfe6", at: "2026-09-06T16:32:10Z" };
   }
 });
 
@@ -12336,6 +12336,7 @@ var VOLUMES = [
 
 // src/study/libraryView.ts
 var LIBRARY_VIEW = "sg-library";
+var COVERS_PATH = "AI Library/00 System/covers";
 var QUESTIONS_PATH = "AI Library/50 Questions";
 var QUESTION_SCOPE_BY_TITLE = {
   "How reliable are the Book of Mormon witnesses": "book-of-mormon",
@@ -12476,7 +12477,6 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     card.style.setProperty("--ico", hue);
     const art = card.createDiv({ cls: "sg-nav-cover-art" });
     if (opts.jacket) art.addClass(opts.jacket);
-    art.dataset["motif"] = opts.jacket ? "jacket" : opts.icon ?? "page";
     art.style.setProperty("--ico", hue);
     if (opts.lines) {
       const stack = art.createDiv({ cls: "sg-cover-lines" });
@@ -12485,6 +12485,16 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       }
     } else if (opts.icon) {
       navIcon(art, opts.icon);
+    }
+    const key = opts.jacket ? "scriptures" : opts.icon;
+    const photo = key ? this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${key}.jpg`) : null;
+    if (photo instanceof import_obsidian4.TFile) {
+      const img = art.createEl("img", {
+        cls: "sg-nav-cover-photo",
+        attr: { loading: "lazy", decoding: "async", alt: "" }
+      });
+      img.src = this.app.vault.getResourcePath(photo);
+      img.onload = () => art.addClass("sg-has-photo");
     }
     card.createDiv({ cls: "sg-nav-cover-label", text: opts.label });
     card.onclick = opts.onTap;
