@@ -13017,6 +13017,50 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-john-12-18cf290d",
+   "t": "Triumphal Entry of Jesus into Jerusalem",
+   "y0": 33,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally dated to the final Passover week of Jesus's mortal ministry, six days before Passover per John 12:1; scholarly estimates of the crucifixion year range roughly between AD 30 and AD 33.",
+   "chapters": [
+    "John 12"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-john-15-b8c89fb7",
+   "t": "Farewell Discourse spoken before Gethsemane/crucifixion",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional placement on the night before the crucifixion; exact year (AD 30 vs. AD 33) is debated among historians using different Passover/calendrical reconstructions.",
+   "chapters": [
+    "John 15"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Apostles"
+   ]
+  },
+  {
    "id": "r-josh-13-52f35af1",
    "t": "Moses' Transjordan conquest and land grant to Reuben, Gad, half-Manasseh",
    "y0": -1407,

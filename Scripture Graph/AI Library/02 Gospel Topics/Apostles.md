@@ -91,3 +91,10 @@ _Not yet developed._
 <!-- SG:BEGIN synthesis -->
 _Not yet developed._
 <!-- SG:END synthesis -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 30–AD 33** — Farewell Discourse spoken before Gethsemane/crucifixion · [[John 15]] · [[AD 1-100]] *(traditional dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->
