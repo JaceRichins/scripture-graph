@@ -186,5 +186,5 @@ Track source proximity throughout the chapter: Joseph narrates some experiences 
 
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
-- [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A
+- [[2026-08-20 Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 1 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier D
 <!-- SG:END secondary-sources -->

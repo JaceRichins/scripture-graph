@@ -160,5 +160,5 @@ Two scriptural appeals frame this reversal. Verse 19 invokes [[Isaiah 29]], whil
 
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
-- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier D
 <!-- SG:END secondary-sources -->

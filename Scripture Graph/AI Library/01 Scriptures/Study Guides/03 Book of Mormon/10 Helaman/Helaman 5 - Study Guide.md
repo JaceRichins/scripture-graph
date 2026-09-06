@@ -153,5 +153,5 @@ _Not yet developed._
 
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
-- [[2026-08-20 Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A · from 0:01 (Psalm 61: the rock higher than I)
+- [[2026-08-20 Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier D · from 0:01 (Psalm 61: the rock higher than I)
 <!-- SG:END secondary-sources -->

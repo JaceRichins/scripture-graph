@@ -150,5 +150,5 @@ Some readers additionally note that the sixth woe (v22-23) is followed one chapt
 
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
-- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier D
 <!-- SG:END secondary-sources -->

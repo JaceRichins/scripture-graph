@@ -8,6 +8,10 @@ content_type: report
 
 Every candidate the system considered, and what the rubric decided. Discovery is not admission (§21): WATCHLIST/REJECTED sources are never ingested.
 
+| Date | Source | Overall | Tier | Status |
+|---|---|---|---|---|
+| 2026-09-06 | [[Church History Matters]] | 55 | D | REJECTED |
+| 2026-09-06 | [[followHIM]] | 42 | D | REJECTED |
 
 ## Watchlist (registered, not yet evaluated)
 
@@ -35,4 +39,4 @@ Every candidate the system considered, and what the rubric decided. Discovery is
 - **The Interpreter Foundation podcast** — Curated discovery candidate — LDS apologetic scholarship. Registered for review only; nothing is ingested from a WATCHLIST source until the rubric evaluates it.
 - **Y Religion BYU** — Curated discovery candidate — BYU Religious Education research. Registered for review only; nothing is ingested from a WATCHLIST source until the rubric evaluates it.
 
-_Updated 2026-09-01. Candidate pool spans distinct expertise areas (§29); quality threshold is identical for all perspectives (§7)._
+_Updated 2026-09-06. Candidate pool spans distinct expertise areas (§29); quality threshold is identical for all perspectives (§7)._

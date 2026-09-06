@@ -145,5 +145,5 @@ Compare Isaiah 49:6 with Isaiah 42:6–7 and Acts 13:47 to trace how the light-t
 
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
-- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier A
+- [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier D
 <!-- SG:END secondary-sources -->

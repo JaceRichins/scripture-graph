@@ -11,7 +11,7 @@ novelty: 62.0
 
 # Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Baron • August 17-23
 
-[[followHIM]] · 2026-08-19 · 80 min · source tier **A** · episode quality **78**
+[[followHIM]] · 2026-08-19 · 80 min · source tier **D** · episode quality **78**
 Guests: Dr. Ross Baron (Hebrew Bible language and poetry, Old Testament literary analysis, Book of Mormo)
 
 > Dr. Ross Baron returns to Follow Him for a Thoughts to Keep in Mind episode on reading Old Testament poetry, walking Hank Smith and John Bytheway through parallelism, repetition, wordplay, and chiasmus using close readings of 2 Nephi 6:6 (quoting Isaiah 49), Isaiah 44:3, Isaiah 5:7, Psalm 23, Psalm 67, and Psalms 136, with practical study suggestions (slow down, read aloud, define unfamiliar words, identify symbols) and connections to General Conference sources including a recent Elder Renlund Liahona article and a President Nelson leadership-session address on chesed.

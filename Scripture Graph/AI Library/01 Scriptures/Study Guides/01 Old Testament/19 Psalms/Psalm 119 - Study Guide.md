@@ -132,5 +132,5 @@ Compare [[Psalm 1]] for blessedness, contrasting ways, and meditation in divine 
 
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
-- [[2026-08-20 Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier A · from 5:19 (Psalm 63: thirst, embodiment, and the argument from desire)
+- [[2026-08-20 Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me]] — followHIM · tier D · from 5:19 (Psalm 63: thirst, embodiment, and the argument from desire)
 <!-- SG:END secondary-sources -->

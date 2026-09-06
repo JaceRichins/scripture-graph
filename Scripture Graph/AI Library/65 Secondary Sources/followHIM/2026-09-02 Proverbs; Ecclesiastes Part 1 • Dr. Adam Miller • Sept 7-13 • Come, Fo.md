@@ -11,7 +11,7 @@ novelty: 72.0
 
 # Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me
 
-[[followHIM]] · 2026-09-02 · 68 min · source tier **A** · episode quality **85**
+[[followHIM]] · 2026-09-02 · 68 min · source tier **D** · episode quality **85**
 Guests: Adam Miller (Philosophy of religion, Latter-day Saint theology, biblical wisdom literature)
 
 > Philosopher Dr. Adam Miller returns to followHIM to frame Proverbs and Ecclesiastes as companion wisdom books: Proverbs offers conventional wisdom about fearing God, welcoming correction, and breaking self-deception, while Ecclesiastes serves as harsh but necessary medicine that strips away illusions about symmetry between action and consequence. Miller traces how both books, read in conversation with each other and with Christ, point toward a wisdom that culminates in the 'foolish' logic of the cross — willing sacrifice in the face of inevitable loss. The episode covers close readings (using Alter, NET, NIV, and KJV translations) of Proverbs 1, 3, 4, and 16, and previews a part 2 discussion of Ecclesiastes' harder claims.

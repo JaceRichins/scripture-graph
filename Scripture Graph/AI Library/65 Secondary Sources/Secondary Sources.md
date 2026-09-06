@@ -14,9 +14,7 @@ Perspective is labeled, not scored: faithful ≠ accurate and critical ≠ accur
 
 ## Approved
 
-- [[Church History Matters]] — tier **A** · Scott Woodward, Casey Griffiths · `lds_academic`
 - [[Unshaken Saints]] — tier **A** · Jared Halverson · `faithful_lds`
-- [[followHIM]] — tier **A** · Hank Smith, John Bytheway · `faithful_lds`
 
 ## Watchlist — under evaluation
 
@@ -44,6 +42,11 @@ Perspective is labeled, not scored: faithful ≠ accurate and critical ≠ accur
 - [[The Interpreter Foundation podcast]]
 - [[Y Religion BYU]]
 
+## Rejected
+
+- [[Church History Matters]] — tier **D** (55) · Scott Woodward, Casey Griffiths · `faithful_lds`
+- [[followHIM]] — tier **D** (42) · Hank Smith, John Bytheway · `faithful_lds`
+
 ## Recently ingested
 
 - 2026-09-02 — [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] (followHIM)
@@ -52,4 +55,4 @@ Perspective is labeled, not scored: faithful ≠ accurate and critical ≠ accur
 - 2026-08-20 — [[2026-08-20 Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me|Psalms 49–86 Part 2 • Dr. John White • August 24-30 • Come, Follow Me]] (followHIM)
 - 2026-08-19 — [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] (followHIM)
 
-_5 episodes ingested · 3 approved sources · see [[Secondary Source Discoveries|Discovery Report]]_
+_5 episodes ingested · 1 approved sources · see [[Secondary Source Discoveries|Discovery Report]]_

@@ -112,5 +112,5 @@ Compare Proverbs 17:1 with [[Proverbs 15]] on peace at a modest meal; Proverbs 1
 
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
-- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier D
 <!-- SG:END secondary-sources -->

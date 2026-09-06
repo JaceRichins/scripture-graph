@@ -11,7 +11,7 @@ novelty: 78.0
 
 # 219 - White Horse Prophecy In Depth I Religion & Politics I Church History Matters
 
-[[Church History Matters]] · 2026-08-25 · 79 min · source tier **A** · episode quality **84**
+[[Church History Matters]] · 2026-08-25 · 79 min · source tier **D** · episode quality **84**
 [Listen / watch](https://podcasters.spotify.com/pod/show/churchhistorymatters/episodes/219---White-Horse-Prophecy-In-Depth-I-Religion--Politics-I-Church-History-Matters-e3nrdvi)
 _Analyzed from show notes only — no transcript was available._
 

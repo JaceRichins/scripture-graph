@@ -3,39 +3,52 @@ ownership: system
 mutable: ai
 content_type: sec-source
 sg-id: secsource:followhim
-source-tier: A
-approval: APPROVED
+source-tier: D
+approval: REJECTED
 ---
 
 # followHIM
 
-**podcast** · Quality tier **A** · Status **APPROVED**
+**podcast** · Quality tier **D** (42/100) · Status **REJECTED**
 Hosts/creators: Hank Smith, John Bytheway
+Institution: unknown
 Homepage: https://followhim.co
 Perspective label: `faithful_lds` (tracked separately from quality — §8)
 
-> Faithful weekly scripture-study interviews with rotating scholar/teacher guests; guest interpretation distinguished from official doctrine.
+> Devotional LDS Come, Follow Me companion podcast for general lay audience
 
 ## Expertise domains
 
-- scripture study
-- Come Follow Me
-- Gospel Topics
-- scholarly interviews
-- historical context
-- language and literary insights
+- LDS religious education
+- devotional application
+- guest-dependent specialist topics
+
+## Quality profile
+
+| Dimension | Score |
+|---|---|
+| expertise | 45 |
+| source transparency | 40 |
+| historical accuracy | 50 |
+| intellectual honesty | 55 |
+| depth | 40 |
+| reputation | 50 |
+| citation quality | 30 |
+| sensationalism penalty | −10 |
 
 ## Known strengths
 
-- expert guests
-- serious scripture focus
-- points to sources
-- substantial discussion depth
+- Wide guest range bringing occasional subject-matter specialists
+- Consistent weekly companion to official CFM curriculum
+- Low sensationalism, warm and non-dogmatic tone
 
 ## Known limitations
 
-- guest quality varies by episode
-- devotional framing on some episodes
+- Hosts lack independent scholarly credentials
+- Content skews devotional/inspirational over rigorous textual or historical analysis
+- Sparse inline citation despite show notes
+
+_Last reviewed: 2026-09-06_
 
 ## Ingested episodes
 

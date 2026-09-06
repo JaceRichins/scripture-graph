@@ -144,5 +144,5 @@ Compare Alma 38:6–9 with [[Alma 36]] to identify which conversion details Alma
 
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
-- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier D
 <!-- SG:END secondary-sources -->

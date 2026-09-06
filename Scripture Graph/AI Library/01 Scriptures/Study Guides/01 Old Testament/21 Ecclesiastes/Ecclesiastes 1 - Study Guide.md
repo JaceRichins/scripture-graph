@@ -118,5 +118,5 @@ Verses 4-7 form a compact nature poem built on four images of the natural world 
 
 ## Secondary Sources
 <!-- SG:BEGIN secondary-sources -->
-- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier A
+- [[2026-09-02 Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Fo|Proverbs; Ecclesiastes Part 1 • Dr. Adam Miller • Sept 7-13 • Come, Follow Me]] — followHIM · tier D
 <!-- SG:END secondary-sources -->
