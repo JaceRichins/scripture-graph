@@ -23,7 +23,13 @@ Scripture: [[Luke 15]] · My notes: [[Luke 15 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Setting and complaint (vv. 1–3):** sinners draw near; Pharisees and scribes murmur.
+2. **Lost sheep (vv. 4–7):** the shepherd seeks one of a hundred until he finds it; the finding is explicitly tied to "joy... in heaven" over a repentant sinner.
+3. **Lost silver (vv. 8–10):** the woman diligently seeks one of ten coins; the finding is tied to "joy in the presence of the angels of God."
+4. **The younger son (vv. 11–24):** request, division of the inheritance, departure, want, self-recognition ("when he came to himself"), return, and the father's compassionate reception and feast.
+5. **The elder son (vv. 25–32):** anger, refusal to enter, his appeal to years of service, and the father's entreaty — the chapter ends without saying whether he goes in.
+
+The proportions increase across the three units (one of a hundred, one of ten, one of two), though Luke does not himself flag this as a deliberate numerical argument — it is a pattern later readers have noticed, not a device the text states.
 <!-- SG:END structure -->
 
 ## People
@@ -44,17 +50,24 @@ _Not yet developed._
 - [[Psalm 119]] — 1 footnote cross-reference (from [[Luke 15#^luke-15-17|Luke 15:17]])
 - [[Lamentations 3]] — 1 footnote cross-reference (from [[Luke 15#^luke-15-18|Luke 15:18]])
 - [[D&C 84]] — 1 footnote cross-reference (from [[Luke 15#^luke-15-31|Luke 15:31]])
+- [[Matthew 18]] — 0 parallel verses
+- [[Luke 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Parables of Jesus]]
+- [[Repentance and Forgiveness]]
+- [[Pride]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+- **[[Repentance and Forgiveness]]**: the explicit interpretive key for the first two parables (vv. 7, 10), and the implicit frame for the third.
+- **[[Justice and Mercy]]**: the elder son's appeal to years of flawless service (v. 29, his own claim, not the narrator's verdict) stands against the father's mercy toward the son who wasted his inheritance.
+- **[[Grace]]**: the father sees, has compassion, and runs to the son (v. 20) before the son's confession is even completed — his welcome (robe, ring, shoes, feast) exceeds the hired-servant status the son had planned to request (compare v. 19 with v. 21).
+- **[[Family]]**: sonship and belonging frame the whole third parable, especially the father's reminder to the elder son, "all that I have is thine" (v. 31).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -82,22 +95,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The father's declaration "was dead, and is alive again... was lost, and is found" is repeated almost verbatim to the servants (v. 24) and to the elder son (v. 32), functioning as a refrain that casts the son's return in terms stronger than simple forgiveness — closer to restoration from death. A notable contrast in address: the elder son refers to his brother only as "this thy son" (v. 30), distancing himself from the relationship, while the father answers with "this thy brother" (v. 32), reasserting the kinship the elder son will not claim.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The three units share a pattern — something valuable is lost, sought or awaited, found, and celebrated — but the third parable varies rather than repeats it: the shepherd and woman actively search, while the father instead watches for and receives a son who returns by his own decision ("when he came to himself," v. 17). The son's rehearsed request to be made "as one of thy hired servants" (v. 19) is conspicuously absent from what he actually says to his father in v. 21 — the narrative simply moves to the father's response in v. 22 without explaining why the line is dropped.
+
+The elder son (vv. 25–32) echoes the murmuring Pharisees and scribes of v. 2: both resist table fellowship with someone they consider undeserving. The chapter's open ending — the elder son's response never narrated — leaves that resistance unresolved on the page, much as the controversy in vv. 1–2 is never explicitly settled within the chapter.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary-Thematic Pattern
+> The repeated movement from loss to finding and from finding to communal joy is strong internal evidence that the three stories form a coordinated response to the opening complaint about receiving sinners.
+> — strength 0.9 · confidence 0.9 · broadly accepted, honestly scoped · [[Literary-Thematic Pattern in Luke 15|full dossier]]
+
+> [!evidence] Literary/Cultural Background *(tentative)*
+> The father's reaction to the returning son — seeing him from far off, feeling compassion, and running to him — is often read by commentators as a socially remarkable act for an elder patriarchal figure in the parable's setting, since running exposed the legs and was considered undignified for a man of standing and age; the father's willingness to do so before the son can even explain himself is used to argue that the parable emphasizes unearned, initiating grace rather than a debt repaid through the son's rehearsed confession.
+> — strength 0.5 · confidence 0.6 · disputed cultural reconstruction (Bailey)
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does Luke supply an explicit interpretive statement for the first two parables (vv. 7, 10) but not for the third?
+- What can safely be inferred from the father's actions (robe, ring, shoes, feast), and which proposed symbolic meanings go beyond what the narrator actually explains?
+- Why does the son's spoken confession (v. 21) omit the request to be made a hired servant that he had rehearsed (v. 19)?
+- In what sense might the elder son also be "lost," even though he never left home?
+- Why does the father answer the elder son's "this thy son" (v. 30) with "this thy brother" (v. 32)?
+- The chapter never says whether the elder son enters the feast — what does that open ending do for an audience that includes the murmuring Pharisees and scribes of v. 2?
 <!-- SG:END questions -->
 
 ## Further Study
