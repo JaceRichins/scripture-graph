@@ -13061,6 +13061,59 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-john-18-85d66115",
+   "t": "Arrest and dual trial (Jewish and Roman) of Jesus",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Christian dating places Jesus's arrest and trial in either AD 30 or AD 33, depending on differing reconstructions of the Passover/Friday date during Pilate's prefecture (AD 26-36); this range reflects ongoing scholarly disagreement, not a settled date.",
+   "chapters": [
+    "John 18"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Pilate",
+    "Caiaphas",
+    "Peter (apostle)"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-john-3-e25016de",
+   "t": "Jesus's early Judean ministry overlapping John the Baptist's",
+   "y0": 27,
+   "y1": 28,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "John 3:22-24 places this episode while Jesus and John were both baptizing simultaneously in Judea, explicitly noting John 'was not yet cast into prison,' which most Gospel harmonies place early in Jesus's public ministry, before the Synoptic accounts begin (which start after John's imprisonment).",
+   "chapters": [
+    "John 3"
+   ],
+   "people": [
+    "Jesus Christ",
+    "John the Baptist"
+   ],
+   "places": [
+    "Judaea",
+    "Ænon"
+   ]
+  },
+  {
    "id": "r-josh-13-52f35af1",
    "t": "Moses' Transjordan conquest and land grant to Reuben, Gad, half-Manasseh",
    "y0": -1407,

@@ -45,13 +45,13 @@ _Not yet developed._
 - **AD 30** — Pentecost — the Spirit poured out · [[Acts 2]] · [[AD 1-100]] *(traditional dating)*
 - **AD 30–AD 33** — Day of Pentecost: outpouring of the Holy Ghost at Jerusalem · [[Acts 2]] · [[AD 1-100]] *(traditional dating)*
 - **AD 30–AD 33** — Peter and John heal the lame man at the temple · [[Acts 3]] · [[AD 1-100]] *(approximate)*
+- **AD 30–AD 33** — Arrest and dual trial (Jewish and Roman) of Jesus · [[John 18]] · [[AD 1-100]] *(traditional dating)*
 - **AD 30** — The Resurrection · [[John 20]] · [[Luke 24]] · [[Matthew 28]] · [[AD 1-100]] *(traditional dating)*
 - **AD 33–AD 36** — Gamaliel's counsel before the Sanhedrin · [[Acts 5]] · [[AD 1-100]] *(approximate)*
 - **AD 40–AD 42** — Cornelius's conversion; Gentiles first receive the gospel · [[Acts 10]] · [[AD 1-100]] *(approximate)*
 - **AD 41–AD 43** — Peter's Defense and the Antioch Church's Growth · [[Acts 11]] · [[AD 1-100]] *(approximate)*
 - **AD 48–AD 50** — Jerusalem deliberation concerning Gentile believers · [[Acts 15]] · [[AD 1-100]] *(approximate)*
 - **AD 49** — The Jerusalem council · [[Acts 15]] · [[AD 1-100]] *(historical)*
-- **AD 64–AD 67** — Peter and Paul martyred under Nero · [[2 Timothy 4]] · [[2 Peter 1]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

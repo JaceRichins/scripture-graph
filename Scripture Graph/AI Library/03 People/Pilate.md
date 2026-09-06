@@ -39,6 +39,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **AD 30** — Gethsemane, the cross, the tomb · [[Luke 22]] · [[Matthew 27]] · [[John 19]] · [[AD 1-100]] *(traditional dating)*
+- **AD 30–AD 33** — Arrest and dual trial (Jewish and Roman) of Jesus · [[John 18]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
