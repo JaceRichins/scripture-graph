@@ -107,15 +107,15 @@ The setting creates a clear transition from solitude to proclamation: Nephi's vi
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Coherence
 > The tower, garden gate, highway, market, passersby, and gathering crowd form a coherent spatial and social explanation for how Nephi's prayer becomes a public sermon.
-> — strength 0.8 · confidence 0.9 · Narrative coherence affirmed; historicity inference excluded · [[Narrative Coherence in Helaman 7|full dossier]]
+> — confidence 0.9 · Narrative coherence affirmed; historicity inference excluded · [[Narrative Coherence in Helaman 7|full dossier]]
 
 > [!evidence] Explicit Comparative Reasoning
 > Helaman 7 strongly supports a principle of responsibility proportionate to received knowledge, but its comparison is contextual and does not warrant a timeless claim that every Lamanite is more righteous than every Nephite.
-> — strength 0.9 · confidence 1.0 · Strong reading with necessary guardrail · [[Explicit Comparative Reasoning in Helaman 7|full dossier]]
+> — confidence 1.0 · Strong reading with necessary guardrail · [[Explicit Comparative Reasoning in Helaman 7|full dossier]]
 
 > [!evidence] Close Textual And Thematic Evidence
 > The combination of offices, judicial outcomes, money, motives, and protected crimes is strong textual evidence that the chapter presents a system of captured government rather than merely a list of unrelated personal sins.
-> — strength 0.9 · confidence 0.9 · Strong close reading; broadly affirmed · [[Close Textual And Thematic Evidence in Helaman 7|full dossier]]
+> — confidence 0.9 · Strong close reading; broadly affirmed · [[Close Textual And Thematic Evidence in Helaman 7|full dossier]]
 
 > [!evidence] Internal Consistency / Undesigned Coincidence *(tentative)*
 > The chapter's incidental topographic specificity (tower, garden, garden gate, highway, chief market, all located in Zarahemla) is sometimes cited as an 'undesigned' realistic detail consistent with an urban setting, offered as weak circumstantial support for the text describing a real place rather than a vague or symbolic one.

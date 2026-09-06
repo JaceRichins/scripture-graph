@@ -11597,6 +11597,29 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-isa-14-0ba3642c",
+   "t": "Death of King Ahaz of Judah",
+   "y0": -715,
+   "y1": -715,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Isaiah 14:28 dates 'this burden' to the year Ahaz died; conventional regnal chronologies place Ahaz's death around 715 BC, though exact dating varies by scholarly reconstruction.",
+   "chapters": [
+    "Isaiah 14"
+   ],
+   "people": [
+    "Ahaz"
+   ],
+   "places": [
+    "Judah"
+   ]
+  },
+  {
    "id": "r-isa-19-101e4488",
    "t": "Isaiah's oracle against Egypt delivered",
    "y0": -740,

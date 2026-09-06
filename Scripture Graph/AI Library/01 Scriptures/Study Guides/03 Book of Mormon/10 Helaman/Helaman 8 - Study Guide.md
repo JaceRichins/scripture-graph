@@ -122,15 +122,15 @@ Nephi's speech can also be read as moving progressively nearer to the audience's
 <!-- SG:BEGIN evidence -->
 > [!evidence] Cumulative Scriptural Testimony
 > The catalogue of prophets creates a strong cumulative-witness argument inside Nephi's speech: rejecting his message is portrayed as rejecting a broad inherited tradition. Because these testimonies are reported together by the same text, their number does not by itself constitute multiple independent historical attestations.
-> — strength 0.4 · confidence 1.0 · Rhetorical force accepted; independent attestation denied · [[Cumulative Scriptural Testimony in Helaman 8|full dossier]]
+> — confidence 1.0 · Rhetorical force accepted; independent attestation denied · [[Cumulative Scriptural Testimony in Helaman 8|full dossier]]
 
 > [!evidence] Internal Genealogical Claim
 > Helaman 8:21 is a key internal Book of Mormon text used to identify Mulek as a surviving son of King Zedekiah and to link the Mulekite/Zarahemla population to the Davidic royal line.
-> — strength 0.2 · confidence 0.9 · Accepted as carefully bounded internal evidence · [[Internal Genealogical Claim in Helaman 8|full dossier]]
+> — strength 0.1 · confidence 0.9 · Accepted as carefully bounded internal evidence · [[Internal Genealogical Claim in Helaman 8|full dossier]]
 
 > [!evidence] Narrative Predictive Sign
 > Within the narrative, Nephi's specific announcement of a murder and its perpetrator is presented as a near-term test of his prophetic knowledge; Helaman 9 narrates the subsequent investigation. As historical evidence for supernatural foreknowledge, however, the episode depends on establishing the account's date, independence, and relationship to the narrated outcome.
-> — strength 0.4 · confidence 0.9 · Narrative function accepted; external significance disputed · [[Narrative Predictive Sign in Helaman 8|full dossier]]
+> — strength 0.8 · confidence 0.9 · Narrative function accepted; external significance disputed · [[Narrative Predictive Sign in Helaman 8|full dossier]]
 
 > [!evidence] Internal Narrative Fulfillment *(tentative)*
 > Nephi's foreknowledge of the chief judge's murder, disclosed before any human report could reach him, functions within the narrative as validation of his prophetic calling.
