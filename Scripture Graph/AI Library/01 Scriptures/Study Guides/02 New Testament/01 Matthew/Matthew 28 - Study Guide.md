@@ -23,7 +23,11 @@ Scripture: [[Matthew 28]] · My notes: [[Matthew 28 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **The tomb and the women (28:1–10):** An angel opens the tomb, announces that Jesus has risen, and sends the women to the disciples. Jesus then meets the women and repeats the direction to go to Galilee.
+
+2. **The guards and the counter-story (28:11–15):** The guards report what occurred; the priests and elders pay them to attribute the missing body to theft.
+
+3. **The mountain and the commission (28:16–20):** The eleven worship, some doubt, Jesus declares universal authority, and he commissions teaching, baptism, obedience, and worldwide discipleship.
 <!-- SG:END structure -->
 
 ## People
@@ -51,19 +55,23 @@ _Not yet developed._
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]
 - [[D&C 68]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[D&C 68#^dc-68-8|D&C 68:8]]
 - [[2 Nephi 31]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
-- [[Mark 16]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-7|Matthew 28:7]] ↔ [[Mark 16#^mark-16-7|Mark 16:7]]
+- [[3 Nephi 11]] — 0 parallel verses
+- [[D&C 20]] — 0 parallel verses
 - [[Moses 7]] — 0 parallel verses
 - [[John 20]] — 0 parallel verses
+- [[Mark 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Missionary Work]]
+- [[The Godhead]]
+- [[Apostles]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter grounds [[Missionary Work]] in the authority of [[Jesus Christ (Gospel Topic)]]. The commission includes both initiation through [[Baptism]] and sustained instruction in [[Obedience]]; it is not reduced to obtaining a momentary profession of belief. Matthew 28:19 also supplies important triadic language for studying [[The Godhead]], although the verse alone does not settle every later theological question about divine nature.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -96,25 +104,47 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+In the Greek of Matthew 28:19–20, *matheteusate* (“make disciples”) is the principal finite imperative. “Going,” “baptizing,” and “teaching” are participles, with baptizing and teaching describing how the disciple-making commission is carried out. This syntax does not make going, baptism, or continuing instruction optional or practically unimportant; the clauses together communicate a unified commission.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Matthew constructs a contrast between two messages leaving the tomb. The women run with the announcement that Jesus is risen (28:7–8), while the soldiers are paid to say that the disciples stole the body (28:11–15). The reader must evaluate not only an empty tomb but rival explanations of it. The conclusion also preserves human complexity: the eleven worship Jesus, yet 'some doubted' (28:17). Jesus responds not with a recorded argument but with a declaration of authority, a commission, and a promise of presence.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Baptismal And Triadic Language
+> Matthew 28:19 is direct textual evidence that this Gospel associates baptism with the singular 'name' of the Father, Son, and Holy Ghost.
+> — strength 0.9 · confidence 1.0 · textually verified; later theology disputed · [[Baptismal And Triadic Language in Matthew 28|full dossier]]
+
+> [!evidence] Internal Evidence Of Controversy
+> Matthew 28 provides evidence that a stolen-body explanation was known to the author or intended audience, since the narrative explicitly explains and labels that report as current in the author's day.
+> — strength 0.6 · confidence 0.9 · internal controversy evidenced; history disputed · [[Internal Evidence Of Controversy in Matthew 28|full dossier]]
+
+> [!evidence] Literary/Historical Argument *(tentative)*
+> The notice that 'some doubted' at a climactic resurrection appearance to the eleven is sometimes cited as an argument for the account's authenticity under the criterion of embarrassment (an invented triumphal scene would have little reason to include doubt), but the text does not specify who doubted or what exactly they doubted.
+> — strength 0.3 · confidence 0.6 · disputed historical criterion
+
+> [!evidence] Grammatical/Philological *(tentative)*
+> In the underlying Greek of Matthew 28:19-20, the only finite imperative verb is 'make disciples' (matheteusate); 'going,' 'baptizing,' and 'teaching' are participles subordinate to it. NT grammarians commonly cite this to argue that disciple-making, carried out through baptizing and teaching, is the Commission's central command — a nuance not fully visible in the KJV's English rendering.
+> — strength 0.6 · confidence 0.7 · morphology accepted; semantic emphasis qualified
+
+> [!evidence] Internal Apologetic Notice *(tentative)*
+> Matthew explicitly states that the 'stolen body' story was still 'commonly reported among the Jews' at the time of writing, showing the Gospel is directly answering a rival, naturalistic explanation for the empty tomb that was circulating independently of the resurrection claim.
+> — strength 0.4 · confidence 0.6 · internal report; historical inference disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does Matthew emphasize both the women's fear and their 'great joy'?
+- What is gained by placing the resurrection announcement and the stolen-body report side by side?
+- How should 'some doubted' shape expectations about [[Faith]] and discipleship?
+- In verses 19–20, why are baptism and lifelong instruction joined together?
+- How does the promise of Matthew 28:20 illuminate the Emmanuel declaration in Matthew 1:23?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the Galilee prediction in Matthew 26:32 with its fulfillment in Matthew 28:7, 10, and 16. Compare the restricted mission of Matthew 10:5–6 with the command concerning 'all nations' in Matthew 28:19. For the authority-and-nations theme, compare Daniel 7:13–14. For Restoration scripture using the Father-Son-Holy Ghost baptismal pattern, compare [[3 Nephi 11]] and [[D&C 20]].
 <!-- SG:END further-study -->
