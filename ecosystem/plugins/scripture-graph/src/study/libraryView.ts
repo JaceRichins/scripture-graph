@@ -28,6 +28,15 @@ type LibView =
   | { kind: "questions" }
   | { kind: "folder"; path: string; title: string };
 
+/** the Did-you-notice pool (see the note's own header) */
+const INSIGHTS_PATH = "AI Library/00 System/Insights.md";
+
+interface Insight {
+  id: string; title: string; hook: string;
+  refs: { label: string; chapter: string; anchor: string }[];
+  read: string;
+}
+
 /** shelf cover photos (public-domain art; any file here can be replaced) */
 const COVERS_PATH = "AI Library/00 System/covers";
 /** where the engine keeps the question pages (the MOC lives beside them) */
@@ -206,6 +215,54 @@ export class SGLibraryView extends ItemView {
     this.render();
   }
 
+  // ------------------------------------------------------- did you notice?
+
+  private insightPool: Insight[] | null = null;
+
+  private async loadInsights(): Promise<Insight[]> {
+    if (this.insightPool) return this.insightPool;
+    const f = this.app.vault.getAbstractFileByPath(INSIGHTS_PATH);
+    if (!(f instanceof TFile)) return [];
+    try {
+      const raw = await this.app.vault.cachedRead(f);
+      const m = /```json\s*([\s\S]*?)```/.exec(raw);
+      const arr = m ? (JSON.parse(m[1]!) as Insight[]) : [];
+      this.insightPool = arr.filter(i => i && i.id && i.title && i.hook);
+    } catch {
+      this.insightPool = [];
+    }
+    return this.insightPool;
+  }
+
+  /** one a day, deterministic across the family's devices (day-of-year),
+   * with "Another" stepping the device forward through the pool */
+  private async renderInsight(slot: HTMLElement): Promise<void> {
+    const pool = await this.loadInsights();
+    if (!pool.length || !slot.isConnected) return;
+    const day = Math.floor(Date.now() / 86_400_000);
+    const step = this.s.device.insightStep ?? 0;
+    const it = pool[((day + step) % pool.length + pool.length) % pool.length]!;
+    slot.empty();
+    const card = slot.createDiv({ cls: "sg-insight" });
+    card.createDiv({ cls: "sg-insight-eyebrow", text: "Did you notice?" });
+    card.createDiv({ cls: "sg-insight-title", text: it.title });
+    card.createDiv({ cls: "sg-insight-hook", text: it.hook });
+    const refs = card.createDiv({ cls: "sg-insight-refs" });
+    for (const r of it.refs ?? []) {
+      const chip = refs.createEl("button", { cls: "sg-insight-ref", text: r.label });
+      chip.onclick = () => this.host.openNote(`${r.chapter}#^${r.anchor}`);
+    }
+    const row = card.createDiv({ cls: "sg-insight-actions" });
+    const read = row.createEl("button", { cls: "sg-insight-read", text: `Read ${it.read}` });
+    read.onclick = () => this.host.openChapter(it.read);
+    const more = row.createEl("button", { cls: "sg-insight-more", text: "Another ↻" });
+    more.onclick = () => {
+      this.s.device.insightStep = step + 1;
+      void this.s.saveDevice();
+      void this.renderInsight(slot);
+    };
+  }
+
   // ------------------------------------------------------------ cover cards
 
   private coverSeq = 0;
@@ -297,6 +354,8 @@ export class SGLibraryView extends ItemView {
         pill.onclick = () => this.host.openChapter(r.title);
       }
     }
+    // ✦ Did you notice? — one deep, faith-building connection a day
+    void this.renderInsight(c.createDiv({ cls: "sg-insight-slot" }));
     // the shelf, GL's top level: Scriptures is ONE cover — the black jacket
     // with the four works stamped in gold down its front, like the photo
     const grid = c.createDiv({ cls: "sg-nav-covers" });

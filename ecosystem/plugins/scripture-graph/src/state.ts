@@ -71,6 +71,8 @@ export interface DeviceState {
   showAiLibrary: boolean;
   /** the bottom dock on phones (GL's bar); false hides it */
   dock?: boolean;
+  /** how many times "Another" has stepped the Did-you-notice card forward */
+  insightStep?: number;
   /** ambient reading scene: "none" | "auto" | "match" | scene id */
   scene: string;
   /** the scene "match" last chose, so a relaunch on a non-chapter page

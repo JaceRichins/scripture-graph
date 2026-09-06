@@ -2308,3 +2308,37 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
 /* the saved sheet */
 .sg-saved h2 { margin: 0 0 6px; }
 .sg-saved-ico { width: 34px; text-align: center; font-size: 1.15em; flex: none; }
+
+/* ---- ✦ Did you notice? — the home page's hook ---- */
+.sg-insight-slot { margin: 2px 0 18px; }
+.sg-insight {
+  position: relative; padding: 16px 18px 14px; border-radius: 18px;
+  background:
+    radial-gradient(120% 90% at 0% 0%, rgba(233, 196, 106, 0.16), transparent 60%),
+    color-mix(in srgb, var(--background-secondary) 78%, transparent);
+  border: 1px solid rgba(233, 196, 106, 0.28);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.28);
+}
+.sg-insight-eyebrow {
+  font-size: 0.68em; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase;
+  color: #e9c46a; margin-bottom: 6px;
+}
+.sg-insight-title { font-size: 1.22em; font-weight: 800; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 8px; text-wrap: balance; }
+.sg-insight-hook { font-size: 0.96em; line-height: 1.55; color: var(--text-normal); }
+.sg-insight-refs { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 0; }
+.sg-insight-ref {
+  font-size: 0.78em; font-weight: 600; padding: 3px 10px; border-radius: 999px;
+  background: rgba(233, 196, 106, 0.12); color: #e9c46a; border: 1px solid rgba(233, 196, 106, 0.35);
+  box-shadow: none;
+}
+.sg-insight-actions { display: flex; gap: 8px; margin-top: 12px; align-items: center; }
+.sg-insight-read {
+  flex: 1 1 auto; min-height: 40px; border-radius: 12px; font-weight: 700;
+  background: var(--interactive-accent); color: var(--text-on-accent); border: 0; box-shadow: none;
+}
+.sg-insight-more {
+  flex: 0 0 auto; min-height: 40px; padding: 0 14px; border-radius: 12px; font-weight: 600;
+  background: var(--background-secondary); color: var(--text-muted); box-shadow: none;
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 55%, transparent);
+}
+.sg-insight-read:active, .sg-insight-more:active, .sg-insight-ref:active { transform: scale(0.96); }

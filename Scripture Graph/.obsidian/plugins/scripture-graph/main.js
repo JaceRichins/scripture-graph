@@ -1,4 +1,4 @@
-/* scripture-graph v0.66.2 build 04c3837c 2026-09-06T18:51:33Z */
+/* scripture-graph v0.66.3 build 867158eb 2026-09-06T18:55:25Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.66.2", sha: "04c3837c", at: "2026-09-06T18:51:33Z" };
+    define_SG_BUILD_default = { version: "0.66.3", sha: "867158eb", at: "2026-09-06T18:55:25Z" };
   }
 });
 
@@ -12355,6 +12355,7 @@ var VOLUMES = [
 
 // src/study/libraryView.ts
 var LIBRARY_VIEW = "sg-library";
+var INSIGHTS_PATH = "AI Library/00 System/Insights.md";
 var COVERS_PATH = "AI Library/00 System/covers";
 var QUESTIONS_PATH = "AI Library/50 Questions";
 var QUESTION_SCOPE_BY_TITLE = {
@@ -12512,6 +12513,50 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     this.view = { kind: "graphs" };
     this.render();
   }
+  // ------------------------------------------------------- did you notice?
+  insightPool = null;
+  async loadInsights() {
+    if (this.insightPool) return this.insightPool;
+    const f = this.app.vault.getAbstractFileByPath(INSIGHTS_PATH);
+    if (!(f instanceof import_obsidian4.TFile)) return [];
+    try {
+      const raw = await this.app.vault.cachedRead(f);
+      const m2 = /```json\s*([\s\S]*?)```/.exec(raw);
+      const arr = m2 ? JSON.parse(m2[1]) : [];
+      this.insightPool = arr.filter((i) => i && i.id && i.title && i.hook);
+    } catch {
+      this.insightPool = [];
+    }
+    return this.insightPool;
+  }
+  /** one a day, deterministic across the family's devices (day-of-year),
+   * with "Another" stepping the device forward through the pool */
+  async renderInsight(slot) {
+    const pool = await this.loadInsights();
+    if (!pool.length || !slot.isConnected) return;
+    const day = Math.floor(Date.now() / 864e5);
+    const step = this.s.device.insightStep ?? 0;
+    const it = pool[((day + step) % pool.length + pool.length) % pool.length];
+    slot.empty();
+    const card = slot.createDiv({ cls: "sg-insight" });
+    card.createDiv({ cls: "sg-insight-eyebrow", text: "Did you notice?" });
+    card.createDiv({ cls: "sg-insight-title", text: it.title });
+    card.createDiv({ cls: "sg-insight-hook", text: it.hook });
+    const refs = card.createDiv({ cls: "sg-insight-refs" });
+    for (const r of it.refs ?? []) {
+      const chip = refs.createEl("button", { cls: "sg-insight-ref", text: r.label });
+      chip.onclick = () => this.host.openNote(`${r.chapter}#^${r.anchor}`);
+    }
+    const row = card.createDiv({ cls: "sg-insight-actions" });
+    const read2 = row.createEl("button", { cls: "sg-insight-read", text: `Read ${it.read}` });
+    read2.onclick = () => this.host.openChapter(it.read);
+    const more = row.createEl("button", { cls: "sg-insight-more", text: "Another \u21BB" });
+    more.onclick = () => {
+      this.s.device.insightStep = step + 1;
+      void this.s.saveDevice();
+      void this.renderInsight(slot);
+    };
+  }
   // ------------------------------------------------------------ cover cards
   coverSeq = 0;
   cover(grid, opts) {
@@ -12597,6 +12642,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
         pill.onclick = () => this.host.openChapter(r.title);
       }
     }
+    void this.renderInsight(c2.createDiv({ cls: "sg-insight-slot" }));
     const grid = c2.createDiv({ cls: "sg-nav-covers" });
     this.cover(grid, {
       label: "Scriptures",
