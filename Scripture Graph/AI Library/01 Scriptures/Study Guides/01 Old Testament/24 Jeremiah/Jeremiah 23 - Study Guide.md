@@ -23,7 +23,17 @@ Scripture: [[Jeremiah 23]] · My notes: [[Jeremiah 23 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Scattering and restored shepherding (23:1-4):** destructive shepherds scatter the flock; the Lord promises to gather it and appoint shepherds who will feed it.
+
+2. **The righteous Branch and renewed deliverance (23:5-8):** a future Davidic king rules with justice, and a gathering from the north and other countries becomes a defining act of deliverance comparable to the Exodus.
+
+3. **Corruption of prophets, priests, and land (23:9-15):** the speaker's distress introduces accusations of profanity, immorality, idolatry, and lies.
+
+4. **False assurance and the Lord's counsel (23:16-22):** self-generated visions promise peace, while faithful proclamation would turn people from evil.
+
+5. **Dreams and the Lord's word (23:23-32):** God's inescapable knowledge leads into contrasts between deceptive dreams and the divine word as wheat, fire, and hammer. Verses 30-32 contain a threefold declaration that the Lord is against the prophets.
+
+6. **Misuse of “the burden of the LORD” (23:33-40):** the prohibited expression is turned against its users, followed by threats of forsaking, expulsion, and lasting shame.
 <!-- SG:END structure -->
 
 ## People
@@ -48,11 +58,8 @@ _Not yet developed._
 - [[Isaiah 11]] — 1 footnote cross-reference (from [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]])
 - [[Isaiah 32]] — 1 footnote cross-reference (from [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]])
 - [[Jeremiah 30]] — 1 footnote cross-reference (from [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]])
-- [[Jeremiah 31]] — 6 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 31#^jer-31-27|Jeremiah 31:27]]
 - [[Jeremiah 30]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-20|Jeremiah 23:20]] ↔ [[Jeremiah 30#^jer-30-24|Jeremiah 30:24]]
-- [[Jeremiah 33]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 33#^jer-33-14|Jeremiah 33:14]]
 - [[Jeremiah 48]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 48#^jer-48-12|Jeremiah 48:12]]
-- [[Jeremiah 16]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-7|Jeremiah 23:7]] ↔ [[Jeremiah 16#^jer-16-14|Jeremiah 16:14]]
 - [[Jeremiah 49]] — 3 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 49#^jer-49-2|Jeremiah 49:2]]
 - [[Jeremiah 9]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 9#^jer-9-25|Jeremiah 9:25]]
 - [[Jeremiah 51]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Jeremiah 51#^jer-51-52|Jeremiah 51:52]]
@@ -60,16 +67,25 @@ _Not yet developed._
 - [[Jeremiah 19]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-7|Jeremiah 23:7]] ↔ [[Jeremiah 19#^jer-19-6|Jeremiah 19:6]]
 - [[Amos 9]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Amos 9#^amos-9-13|Amos 9:13]]
 - [[Amos 8]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Amos 8#^amos-8-11|Amos 8:11]]
+- [[Hebrews 8]] — 2 parallel verses, e.g. [[Jeremiah 23#^jer-23-5|Jeremiah 23:5]] ↔ [[Hebrews 8#^heb-8-8|Hebrews 8:8]]
+- [[Jeremiah 27]] — 1 parallel verse, e.g. [[Jeremiah 23#^jer-23-16|Jeremiah 23:16]] ↔ [[Jeremiah 27#^jer-27-14|Jeremiah 27:14]]
+- [[Jeremiah 32]] — 1 parallel verse, e.g. [[Jeremiah 23#^jer-23-3|Jeremiah 23:3]] ↔ [[Jeremiah 32#^jer-32-37|Jeremiah 32:37]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Scattering of Israel]]
+- [[Prophecy]]
 - [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents judgment and restoration as concurrent dimensions of covenant history. Leaders are accountable for scattering the flock, yet the Lord claims authority over the judgment and initiative in the regathering. Restoration includes security, nourishment, just government, and renewed dwelling in the land—not merely geographic movement.
+
+Jeremiah 23:5–6 supplies important scriptural material for a Christian study of [[Jesus Christ (Gospel Topic)]]: the promised figure is Davidic, royal, righteous, and saving. Intellectual care requires distinguishing that observation from the further Christian identification of the Branch with Jesus. The passage supports that identification within a broader canonical reading, but does not prove it in isolation.
+
+The critique of false [[Prophecy]] is also ethical. The false prophets reassure people who persist in evil, while verse 22 says faithful proclamation would turn them from wrongdoing. In this chapter, claimed spiritual experience is evaluated partly by authorization, fidelity to God's word, and its relation to [[Repentance]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -90,22 +106,36 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The KJV word “pastors” in 23:1-2 carries the older sense of shepherds; the precise offices included in the metaphor are not specified. Repeated words trace the chapter's movement: “scatter” and “drive” describe displacement, while “gather,” “bring,” and “dwell” describe restoration. “I have not sent” distinguishes religious activity from divine commission, and the threefold “I am against the prophets” structures verses 30-32.
+
+The closing unit repeatedly uses “burden” and turns the expression against its users: “every man's word shall be his burden” (23:36). This wordplay is visible in the KJV, although finer claims about the underlying Hebrew require separate lexical evidence. Verses 27 and 39 also produce a possible verbal reversal between causing the people to forget God's name and God's threat to forget and forsake the offenders.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Jeremiah 23 develops paired contrasts: destructive and feeding shepherds, scattering and gathering, corrupt leadership and the righteous Branch, false peace and coming judgment, and dreams and the Lord's word. Its vivid figures include drunkenness for overwhelming distress (23:9), slippery paths in darkness for judgment (23:12), chaff and wheat for unlike kinds of speech (23:28), and fire and a rock-breaking hammer for the power of God's word (23:29).
+
+The doubled “I have dreamed, I have dreamed” reproduces the false prophets' claim, although whether it is specifically mocking cannot be established from repetition alone. Verses 18 and 22 repeat language about standing in the Lord's counsel and may loosely frame the intervening argument. Verses 7-8 portray the future gathering as a defining deliverance comparable to the Exodus. Related restoration language appears in [[Jeremiah 31]], and a closely related Branch oracle appears in [[Jeremiah 33]].
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Literary-Theological
+> Jeremiah 23:5-6 is strong internal evidence that the passage anticipates an ideal future Davidic ruler and thus supports a broadly messianic reading. By itself, however, it provides only limited evidence for identifying that ruler specifically with Jesus rather than with another conception of restored Davidic kingship.
+> — strength 0.7 · confidence 0.9 · Davidic hope accepted; specific identification disputed · [[Literary-Theological in Jeremiah 23|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+How should readers relate the two explanations of the scattering—that the shepherds drove the flock away and that the Lord drove it among the countries?
+
+Why does the chapter treat the moral effect of prophecy, especially whether it turns hearers from evil, as evidence relevant to a prophet's credibility?
+
+Verse 28 permits a dreamer to report a dream. What, then, is being condemned: dreams themselves, false attribution to God, deceptive content, careless telling, or some combination of these?
+
+How much can verses 5–6 establish about the identity of the Branch without importing later Jewish or Christian interpretation?
+
+Does “in the latter days” in verse 20 refer narrowly to later recognition of the announced judgment, or more broadly to an eschatological period?
 <!-- SG:END questions -->
 
 ## Further Study
