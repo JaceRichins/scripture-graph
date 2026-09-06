@@ -74,10 +74,14 @@ export class Dock {
     this.listenBtn.onclick = () => this.toggleListen();
     this.el = el;
     document.body.addClass("sg-dock-on");
+    document.addEventListener("sg-dock-refresh", this.onRefresh);
     this.refresh();
   }
 
+  private onRefresh = () => this.refresh();
+
   unmount(): void {
+    document.removeEventListener("sg-dock-refresh", this.onRefresh);
     this.listen.stop();
     this.el?.remove();
     this.el = null;
@@ -94,7 +98,8 @@ export class Dock {
       const h = (leaf as unknown as { history?: { backHistory?: unknown[] } } | null)?.history;
       this.backBtn?.toggleClass("sg-dock-back-on", !!h?.backHistory?.length);
       const f = ws.getActiveFile();
-      const lit = type === "sg-library" ? "library"
+      const lib = leaf?.view as { dockSlot?: () => string } | undefined;
+      const lit = type === "sg-library" ? (lib?.dockSlot?.() ?? "library")
         : type === "markdown" && !!f && f.path.startsWith(PERSONAL_PREFIX) && f.basename === "Study Hub" ? "home" : "";
       for (const [k, b] of this.slots) b.toggleClass("sg-dock-on-slot", k === lit);
       let n = 0;

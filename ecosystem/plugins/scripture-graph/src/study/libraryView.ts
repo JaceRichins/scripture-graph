@@ -180,6 +180,8 @@ export class SGLibraryView extends ItemView {
     const head = c.createDiv({ cls: `sg-lp-head${v.kind !== "home" ? " sg-lp-head-indent" : ""}` });
     head.createDiv({ cls: "sg-lp-title", text: this.title() });
 
+    // the dock lights the door you are behind — home, the shelf, or search
+    window.setTimeout(() => document.dispatchEvent(new CustomEvent("sg-dock-refresh")), 0);
     const body = c.createDiv({ cls: "sg-lp-body" });
     if (v.kind === "home") this.renderHome(body);
     else if (v.kind === "scriptures") this.renderScriptures(body);
@@ -189,6 +191,12 @@ export class SGLibraryView extends ItemView {
     else if (v.kind === "timelines") this.renderTimelines(body);
     else if (v.kind === "questions") this.renderQuestions(body);
     else this.renderFolder(body, v.path);
+  }
+
+  /** which dock door this page sits behind */
+  dockSlot(): "home" | "library" | "search" {
+    if (this.view.kind !== "home") return "library";
+    return this.searchQuery.trim() ? "search" : "home";
   }
 
   /** the Scriptures shelf — GL's "Library" tab is the shelf of books */
@@ -343,6 +351,7 @@ export class SGLibraryView extends ItemView {
     };
     inp.oninput = () => {
       this.searchQuery = inp.value;
+      document.dispatchEvent(new CustomEvent("sg-dock-refresh"));
       if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
       const q = inp.value.trim();
       if (q.length < 2) { this.searchTimer = null; showHome(); return; }

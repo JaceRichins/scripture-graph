@@ -1,4 +1,4 @@
-/* scripture-graph v0.67.4 build 33c1437f 2026-09-06T20:18:43Z */
+/* scripture-graph v0.67.5 build 74873ded 2026-09-06T20:42:20Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.67.4", sha: "33c1437f", at: "2026-09-06T20:18:43Z" };
+    define_SG_BUILD_default = { version: "0.67.5", sha: "74873ded", at: "2026-09-06T20:42:20Z" };
   }
 });
 
@@ -12743,6 +12743,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     }
     const head = c2.createDiv({ cls: `sg-lp-head${v.kind !== "home" ? " sg-lp-head-indent" : ""}` });
     head.createDiv({ cls: "sg-lp-title", text: this.title() });
+    window.setTimeout(() => document.dispatchEvent(new CustomEvent("sg-dock-refresh")), 0);
     const body = c2.createDiv({ cls: "sg-lp-body" });
     if (v.kind === "home") this.renderHome(body);
     else if (v.kind === "scriptures") this.renderScriptures(body);
@@ -12752,6 +12753,11 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     else if (v.kind === "timelines") this.renderTimelines(body);
     else if (v.kind === "questions") this.renderQuestions(body);
     else this.renderFolder(body, v.path);
+  }
+  /** which dock door this page sits behind */
+  dockSlot() {
+    if (this.view.kind !== "home") return "library";
+    return this.searchQuery.trim() ? "search" : "home";
   }
   /** the Scriptures shelf — GL's "Library" tab is the shelf of books */
   showScriptures() {
@@ -12892,6 +12898,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     };
     inp.oninput = () => {
       this.searchQuery = inp.value;
+      document.dispatchEvent(new CustomEvent("sg-dock-refresh"));
       if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
       const q = inp.value.trim();
       if (q.length < 2) {
@@ -14987,9 +14994,12 @@ var Dock = class {
     this.listenBtn.onclick = () => this.toggleListen();
     this.el = el;
     document.body.addClass("sg-dock-on");
+    document.addEventListener("sg-dock-refresh", this.onRefresh);
     this.refresh();
   }
+  onRefresh = () => this.refresh();
   unmount() {
+    document.removeEventListener("sg-dock-refresh", this.onRefresh);
     this.listen.stop();
     this.el?.remove();
     this.el = null;
@@ -15005,7 +15015,8 @@ var Dock = class {
       const h = leaf?.history;
       this.backBtn?.toggleClass("sg-dock-back-on", !!h?.backHistory?.length);
       const f = ws.getActiveFile();
-      const lit = type === "sg-library" ? "library" : type === "markdown" && !!f && f.path.startsWith(PERSONAL_PREFIX) && f.basename === "Study Hub" ? "home" : "";
+      const lib = leaf?.view;
+      const lit = type === "sg-library" ? lib?.dockSlot?.() ?? "library" : type === "markdown" && !!f && f.path.startsWith(PERSONAL_PREFIX) && f.basename === "Study Hub" ? "home" : "";
       for (const [k, b] of this.slots) b.toggleClass("sg-dock-on-slot", k === lit);
       let n = 0;
       ws.iterateRootLeaves(() => {
