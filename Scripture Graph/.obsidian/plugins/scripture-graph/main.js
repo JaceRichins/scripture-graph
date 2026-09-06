@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.11 build 7800acb0 2026-09-06T16:48:39Z */
+/* scripture-graph v0.65.12 build 8f5d51d5 2026-09-06T16:54:01Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.11", sha: "7800acb0", at: "2026-09-06T16:48:39Z" };
+    define_SG_BUILD_default = { version: "0.65.12", sha: "8f5d51d5", at: "2026-09-06T16:54:01Z" };
   }
 });
 
@@ -12595,7 +12595,8 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     });
     for (const s of LIBRARY_SECTIONS) {
       const l = this.host.listFolder(s.path);
-      if (!l.folders.length && !l.files.length) continue;
+      const real = l.files.filter((f) => f.name !== s.name && f.name !== s.name.split(" &")[0]);
+      if (!l.folders.length && !real.length) continue;
       this.cover(grid, {
         icon: s.icon,
         label: s.name,

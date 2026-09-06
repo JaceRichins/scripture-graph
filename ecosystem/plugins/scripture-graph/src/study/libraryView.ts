@@ -291,7 +291,10 @@ export class SGLibraryView extends ItemView {
       onTap: () => this.go({ kind: "questions" }) });
     for (const s of LIBRARY_SECTIONS) {
       const l = this.host.listFolder(s.path);
-      if (!l.folders.length && !l.files.length) continue;
+      // a shelf whose only page is its own index (Scholarship before any
+      // paper is dropped in) is an empty shelf: no cover until it has content
+      const real = l.files.filter(f => f.name !== s.name && f.name !== s.name.split(" &")[0]);
+      if (!l.folders.length && !real.length) continue;
       this.cover(grid, { icon: s.icon, label: s.name,
         onTap: () => this.go({ kind: "folder", path: s.path, title: s.name }) });
     }
