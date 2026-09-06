@@ -117,11 +117,11 @@ The warning intensifies through successive questions: Why will the hearers die? 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Intertextual Language
 > Jacob 6 concentrates recognizable biblical formulations concerning a second recovery, outstretched hands, hearing today, hardened hearts, the narrow gate, judgment, and fire. This strongly supports reading the chapter as consciously scriptural discourse, but the parallels have limited value for determining provenance.
-> — strength 0.7 · confidence 0.9 · Pattern accepted; provenance implications disputed and limited · [[Intertextual Language in Jacob 6|full dossier]]
+> — strength 0.6 · confidence 0.9 · Pattern accepted; provenance implications disputed and limited · [[Intertextual Language in Jacob 6|full dossier]]
 
 > [!evidence] Literary Integration
 > The sustained reuse of vineyard, nourishment, fruit, pruning, casting out, and burning makes Jacob 6 a tightly integrated interpretive conclusion to Jacob 5. This is strong evidence of deliberate literary continuity between the chapters.
-> — strength 0.9 · confidence 1.0 · Strong literary evidence with properly limited significance · [[Literary Integration in Jacob 6|full dossier]]
+> — confidence 1.0 · Strong literary evidence with properly limited significance · [[Literary Integration in Jacob 6|full dossier]]
 
 > [!evidence] Textual Parallel / Translation Idiom *(tentative)*
 > The phrase 'quench the Holy Spirit' in Jacob 6:8 resembles the King James wording of 1 Thessalonians 5:19, 'Quench not the Spirit'-a New Testament epistle written centuries after Jacob's lifetime. As with the Hebrews parallel, any wording match is best treated as a feature of the English translation idiom rather than evidence of a literary relationship in either direction.

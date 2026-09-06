@@ -12113,6 +12113,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-james-2-d5569e2e",
+   "t": "Traditional composition window of the Epistle of James",
+   "y0": 45,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Many scholars date James early in the apostolic era if written by James the Just, brother of Jesus and leader of the Jerusalem church, placing composition before his reported martyrdom in Jerusalem around AD 62.",
+   "chapters": [
+    "James 2"
+   ],
+   "people": [
+    "James the Just"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-jer-11-724136e0",
    "t": "Jeremiah's covenant sermon in Judah's cities",
    "y0": -627,

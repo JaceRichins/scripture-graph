@@ -118,15 +118,15 @@ The olive-grafting complex is especially close to [[Romans 11]], and the questio
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Coherence
 > The allegory sustains changing tree states across several cycles: initial decay, successful grafting, general corruption, reciprocal regrafting, gradual recovery, and final sorting. Recurrent roots, branches, fruit, nourishment, fire, and storage remain functionally connected throughout. This supports deliberate and comparatively sophisticated literary construction.
-> — strength 0.8 · confidence 0.9 · literary coherence accepted; provenance implications rejected · [[Literary Coherence in Jacob 5|full dossier]]
+> — confidence 0.9 · literary coherence accepted; provenance implications rejected · [[Literary Coherence in Jacob 5|full dossier]]
 
 > [!evidence] Prophetic Literary Intertext
 > The master's question about what more could have been done, together with bad fruit and threatened destruction, closely echoes Isaiah's vineyard song. The echo strengthens the reading of Jacob 5 as participating in biblical prophetic vineyard tradition.
-> — strength 0.8 · confidence 1.0 · strong prophetic-literary echo; dependence disputed · [[Prophetic Literary Intertext in Jacob 5|full dossier]]
+> — strength 0.8 · confidence 0.9 · strong prophetic-literary echo; dependence disputed · [[Prophetic Literary Intertext in Jacob 5|full dossier]]
 
 > [!evidence] Textual And Conceptual Intertext
 > Jacob 5 and Romans 11 share a distinctive cluster: Israel-associated olive imagery, natural and wild branches, wild branches grafted among natural stock, dependence on the root, and the prospect of natural branches being grafted back. This is strong evidence of a meaningful intertextual relationship or shared scriptural motif.
-> — strength 0.9 · confidence 1.0 · strong intertext; direction and provenance disputed · [[Textual And Conceptual Intertext in Jacob 5|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong intertext; direction and provenance disputed · [[Textual And Conceptual Intertext in Jacob 5|full dossier]]
 
 > [!evidence] Internal Source-Critical *(tentative)*
 > Jacob 5's olive-husbandry details — grafting wild branches into a tame root system, keeping 'root and top' strength balanced (vv.65-66), and warning against removing bad branches too quickly — are sometimes cited as evidence of genuine ancient horticultural knowledge underlying the Book of Mormon text.

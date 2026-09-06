@@ -124,7 +124,7 @@ Jacob's closing question and promise to “unfold this mystery” form a clear t
 <!-- SG:BEGIN evidence -->
 > [!evidence] Biblical Intertextuality
 > The convergence of rejected-stone, sure-foundation, and cornerstone language is strong evidence of scriptural intertextuality. It supports intentional participation in a recognizable biblical tradition, while leaving the direction and historical mechanism of dependence unresolved.
-> — strength 0.9 · confidence 1.0 · strong intertext; mechanism disputed · [[Biblical Intertextuality in Jacob 4|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong intertext; mechanism disputed · [[Biblical Intertextuality in Jacob 4|full dossier]]
 
 > [!evidence] Philological/Interpretive Dispute *(tentative)*
 > The exact referent of 'looking beyond the mark' (Jacob 4:14) is disputed among commentators: some read it as a straightforward archery metaphor (overshooting or missing a target through overreach), while a minority of LDS scholars have proposed it alludes to a weaver's beam/marker based on a hypothesized underlying Hebrew idiom. Neither reading is textually certain within the Book of Mormon itself.

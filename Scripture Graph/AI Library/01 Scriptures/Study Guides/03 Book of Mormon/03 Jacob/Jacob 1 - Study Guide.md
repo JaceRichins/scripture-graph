@@ -136,11 +136,11 @@ Two biblical comparisons merit different levels of confidence. Jacob 1:7 has a s
 
 > [!evidence] Internal Narrative Coherence
 > Jacob's distinction between sacred small-plate material and fuller history coheres with earlier explanations of the two records and with the later account of preserving the small plates. This is substantial evidence of internal literary continuity across the Book of Mormon's record narrative.
-> — strength 0.5 · confidence 0.9 · internal coherence accepted; historical significance limited · [[Internal Narrative Coherence in Jacob 1|full dossier]]
+> — confidence 0.9 · internal coherence accepted; historical significance limited · [[Internal Narrative Coherence in Jacob 1|full dossier]]
 
 > [!evidence] Biblical Intertext
 > Jacob 1:7 closely invokes the scriptural complex found in Psalms 95 and Hebrews 3: provocation, temptation in the wilderness, divine wrath, and failure to enter God's rest. The clustered vocabulary and sequence make a literary relationship highly probable, while leaving its precise mechanism unresolved.
-> — strength 0.7 · confidence 0.9 · strong verbal relationship; origin disputed · [[Biblical Intertext in Jacob 1|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong verbal relationship; origin disputed · [[Biblical Intertext in Jacob 1|full dossier]]
 
 > [!evidence] Legal And Thematic Intertext *(tentative)*
 > Jacob places the multiplication of wives and concubines beside the accumulation of gold and silver under a king. These are also adjacent dangers in the law for Israelite kings in Deuteronomy 17. The pairing is meaningful evidence of engagement with biblical royal-law themes, though Jacob does not explicitly cite that law.

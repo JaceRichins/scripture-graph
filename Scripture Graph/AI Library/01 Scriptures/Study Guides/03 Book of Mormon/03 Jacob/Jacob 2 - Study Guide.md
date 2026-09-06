@@ -130,11 +130,11 @@ A second organizing movement runs from vertical distinction to common origin: co
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Literary Pattern
 > Repeated imagery of wounded, pierced, broken, and dying hearts links the opening description of the sermon audience with the concluding account of injured wives and children. This provides substantial internal evidence that the chapter's ethical focus includes the damage wrongdoing and its public exposure inflict upon vulnerable hearers.
-> — strength 0.8 · confidence 0.9 · Textual pattern accepted; intentional form remains qualified · [[Internal Literary Pattern in Jacob 2|full dossier]]
+> — confidence 0.9 · Textual pattern accepted; intentional form remains qualified · [[Internal Literary Pattern in Jacob 2|full dossier]]
 
 > [!evidence] Internal Ethical And Rhetorical Evidence
 > The chapter's concrete references to sorrow, mourning, captivity, broken hearts, lost confidence, and children's exposure to bad examples strongly support a harm-centered dimension in Jacob's marital ethic.
-> — strength 0.9 · confidence 1.0 · Strong internal evidence; limited conclusion · [[Internal Ethical And Rhetorical Evidence in Jacob 2|full dossier]]
+> — confidence 1.0 · Strong internal evidence; limited conclusion · [[Internal Ethical And Rhetorical Evidence in Jacob 2|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
