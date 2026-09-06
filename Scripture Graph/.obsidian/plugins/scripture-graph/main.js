@@ -1,4 +1,4 @@
-/* scripture-graph v0.67.2 build f3bc6bef 2026-09-06T20:09:02Z */
+/* scripture-graph v0.67.3 build cd553f89 2026-09-06T20:17:55Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.67.2", sha: "f3bc6bef", at: "2026-09-06T20:09:02Z" };
+    define_SG_BUILD_default = { version: "0.67.3", sha: "cd553f89", at: "2026-09-06T20:17:55Z" };
   }
 });
 
@@ -11699,7 +11699,11 @@ var GRAPH_PRESETS = [
       { query: `file:"Son of Man"`, hex: "#5252e0" },
       { query: "file:Savior", hex: "#b152e0" }
     ],
-    extra: { scale: 0.22 }
+    // orphans ON: most of the 250-odd pages that bear a title of Christ
+    // (talks above all) do not link to one another, and with orphans
+    // hidden the sky held eight stars (user-reported). Every page shows;
+    // the ones that link draw the lines.
+    extra: { scale: 0.22, showOrphans: true, repelStrength: 16, centerStrength: 0.6 }
   },
   {
     id: "people",

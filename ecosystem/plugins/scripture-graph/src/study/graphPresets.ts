@@ -65,7 +65,11 @@ export const GRAPH_PRESETS: GraphPreset[] = [
       { query: `file:"Son of Man"`, hex: "#5252e0" },
       { query: "file:Savior", hex: "#b152e0" },
     ],
-    extra: { scale: 0.22 },
+    // orphans ON: most of the 250-odd pages that bear a title of Christ
+    // (talks above all) do not link to one another, and with orphans
+    // hidden the sky held eight stars (user-reported). Every page shows;
+    // the ones that link draw the lines.
+    extra: { scale: 0.22, showOrphans: true, repelStrength: 16, centerStrength: 0.6 },
   },
   {
     id: "people", icon: "person", name: "People",
