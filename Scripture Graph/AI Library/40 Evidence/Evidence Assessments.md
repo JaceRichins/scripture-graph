@@ -381,6 +381,13 @@ The passage explicitly identifies its immediate hearers as the other sheep, but 
 
 Notes: [[Explicit Internal Identification in 3 Nephi 15]]
 
+### bom-helaman8-mulek-zedekiah-genealogy
+**Historical identity of Mulek as a surviving son of Zedekiah** — *none* (supports, evidence_strength 0.1) for: Helaman 8:21 preserves historically accurate information that Mulek was a son of King Zedekiah who survived Jerusalem's fall and whose descendants joined the Book of Mormon population.
+
+Helaman 8:21 clearly asserts that Mulek survived as a son of Zedekiah and left descendants, but this self-attested claim can arise under authentic-memory, later-tradition, redactional, and modern-composition models. With no independent attestation and with biblical accounts reporting the killing of Zedekiah's sons, the verse gives none-band support for the genealogy's historical accuracy.
+
+Notes: [[Internal Genealogical Claim in Helaman 8]]
+
 ### bom-3nephi2-chronological-system
 **Historical significance of the synchronized chronology in 3 Nephi 2** — *none* (supports, evidence_strength 0.13) for: The synchronized notices materially support a historically preserved Nephite chronological system.
 
