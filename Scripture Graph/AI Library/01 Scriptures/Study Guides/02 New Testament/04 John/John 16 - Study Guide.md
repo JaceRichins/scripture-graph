@@ -23,7 +23,11 @@ Scripture: [[John 16]] · My notes: [[John 16 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Forewarning of persecution (vv. 1–4):** advance warning is meant to prevent stumbling and enable remembrance.
+2. **Departure and the Comforter (vv. 5–15):** Jesus's going is linked to the Spirit's work toward the world and the disciples.
+3. **Sorrow transformed into joy (vv. 16–24):** the repeated “little while” saying is explained through the image of childbirth and the promise of renewed sight.
+4. **Plain speech, belief, and scattering (vv. 25–32):** the disciples profess understanding, but Jesus predicts their imminent desertion.
+5. **Concluding peace (v. 33):** tribulation in the world is set against peace in Christ and his victory over the world.
 <!-- SG:END structure -->
 
 ## People
@@ -46,20 +50,29 @@ _Not yet developed._
 - [[John 15]] — 1 footnote cross-reference (from [[John 16#^john-16-12|John 16:12]])
 - [[John 15]] — 3 parallel verses, e.g. [[John 16#^john-16-1|John 16:1]] ↔ [[John 15#^john-15-11|John 15:11]]
 - [[D&C 84]] — 3 parallel verses, e.g. [[John 16#^john-16-16|John 16:16]] ↔ [[D&C 84#^dc-84-119|D&C 84:119]]
-- [[John 14]] — 2 parallel verses, e.g. [[John 16#^john-16-1|John 16:1]] ↔ [[John 14#^john-14-25|John 14:25]]
 - [[3 Nephi 27]] — 1 parallel verse, e.g. [[John 16#^john-16-23|John 16:23]] ↔ [[3 Nephi 27#^3ne-27-28|3 Nephi 27:28]]
 - [[3 Nephi 18]] — 1 parallel verse, e.g. [[John 16#^john-16-23|John 16:23]] ↔ [[3 Nephi 18#^3ne-18-20|3 Nephi 18:20]]
+- [[John 14]] — 0 parallel verses
+- [[John 15]] — 0 parallel verses
 - [[D&C 50]] — 0 parallel verses
+- [[John 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[The Godhead]]
+- [[Jesus Christ (Gospel Topic)]]
+- [[Prophecy]]
 - [[Truth]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter gives a concentrated account of the [[Gift of the Holy Ghost]]. The Spirit reproves the world, guides disciples into truth, communicates what he hears, reveals things to come, and glorifies Christ (vv. 8–15). These functions are inseparable from Christ's mission and from the Father's relation to the Son, making the passage important for study of [[The Godhead]] without erasing the distinctions among Father, Son, and Spirit.
+
+Jesus also presents [[Prayer]] in his name as an approach to the Father who himself loves the disciples (vv. 23–27). This wording stresses the Father's love; it should not be overextended into a denial of Christ's mediating role, which is not the question being directly addressed here.
+
+Verse 33 joins [[Adversity]], [[Endurance]], and peace. Jesus does not promise an absence of tribulation. He locates peace “in me” and grounds courage in his overcoming of the world.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -97,20 +110,31 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Several reversals shape the discourse: persecutors imagine that they serve God but do not know God (vv. 2–3); Jesus's departure produces sorrow yet is declared advantageous (vv. 6–7); the world rejoices while the disciples grieve, but their grief becomes joy (vv. 20–22); and the disciples announce confident understanding just before Jesus predicts their scattering (vv. 29–32). These reversals expose the limitations of immediate human judgment.
+
+The childbirth comparison in verses 20–22 is especially precise. It does more than place joy after pain: one event that causes anguish also becomes the occasion of joy. Likewise, Jesus promises that the disciples' sorrow will be “turned into joy.”
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Cross-Gospel Corroboration *(tentative)*
+> Jesus predicts in John 16:32 that the disciples will be 'scattered, every man to his own,' leaving him alone; this is often read alongside the Synoptic accounts of the disciples fleeing at Jesus' arrest (Matthew 26:56; Mark 14:50), but John's own narrative never explicitly depicts or confirms this specific scattering, so the cross-Gospel link is a harmonization rather than something John itself narrates as fulfilled.
+> — strength 0.5 · confidence 0.7 · cross-Gospel association strong; framing disputed
+
+> [!evidence] Literary-Contextual *(tentative)*
+> Within the immediate narrative setting, the sequence of temporary absence, renewed sight, sorrow, and joy strongly supports reading John 16:16–22 primarily as an anticipation of Jesus's death and the disciples' post-resurrection encounter with him. The wording may carry broader theological resonance, but the chapter does not explicitly identify every element of the sequence.
+> — strength 0.7 · confidence 0.8 · strong immediate reading but disputed primacy
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does “guide you into all truth” in verse 13 describe the apostles' particular revelatory commission, a general promise to disciples, or both?
+- How should the different possible horizons of “ye shall see me” in verses 16 and 22—resurrection, presence through the Spirit, and final return—be related without forcing the phrase to mean only one of them?
+- Why does Jesus answer the disciples' confidence with “Do ye now believe?” in verse 31? What distinction does the passage make between genuine confession and tested steadfastness?
+- How does verse 33 redefine peace when tribulation is explicitly expected rather than removed?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read John 16 with [[John 14]] and [[John 15]], tracing the titles and activities assigned to the Comforter. Then compare the disciples' prediction of scattering in John 16:32 with the passion narrative. For thematic study, trace the chapter's relationships to [[Truth]], [[Revelation]], [[Prayer]], [[Resurrection]], and [[Endurance]].
 <!-- SG:END further-study -->
