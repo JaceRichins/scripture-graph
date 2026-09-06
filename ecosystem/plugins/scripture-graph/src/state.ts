@@ -73,6 +73,8 @@ export interface DeviceState {
   dock?: boolean;
   /** how many times "Another" has stepped the Did-you-notice card forward */
   insightStep?: number;
+  /** what the Home badge has already shown: the Come Follow Me week and the insight day */
+  seen?: { cfmWeek?: string; insightDay?: number };
   /** ambient reading scene: "none" | "auto" | "match" | scene id */
   scene: string;
   /** the scene "match" last chose, so a relaunch on a non-chapter page

@@ -718,6 +718,17 @@ export default class SGPlugin extends Plugin {
       },
       bookmark: (f) => this.study.bookmarkFile(f),
       unbookmark: (a) => this.study.unbookmark(a),
+      currentCfmWeek: async () => {
+        const f = this.app.vault.getAbstractFileByPath("AI Library/00 System/Come Follow Me.md");
+        if (!(f instanceof TFile)) return null;
+        try {
+          const m = /```json\s*([\s\S]*?)```/.exec(await this.app.vault.cachedRead(f));
+          const weeks = (m ? JSON.parse(m[1]!).weeks : []) as { week: string; start: string; end: string }[];
+          const today = new Date().toISOString().slice(0, 10);
+          return weeks.find(w => w.start <= today && today <= w.end)?.week ?? null;
+        } catch { return null; }
+      },
+      openNote: (l) => void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, ""),
     });
     this.dock.mount();
     this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.dock?.refresh()));

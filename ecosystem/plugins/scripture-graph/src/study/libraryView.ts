@@ -281,6 +281,8 @@ export class SGLibraryView extends ItemView {
     const today = new Date().toISOString().slice(0, 10);
     let wk = data.weeks.find(w => w.start <= today && today <= w.end)
       ?? data.weeks.find(w => w.start > today) ?? data.weeks[data.weeks.length - 1]!;
+    const seenW = (this.s.device.seen ??= {});
+    if (seenW.cfmWeek !== wk.week) { seenW.cfmWeek = wk.week; void this.s.saveDevice(); document.dispatchEvent(new CustomEvent("sg-dock-refresh")); }
     const card = slot.createDiv({ cls: "sg-cfm" });
     card.createDiv({ cls: "sg-cfm-eyebrow", text: `Come, Follow Me · ${wk.dates}` });
     card.createDiv({ cls: "sg-cfm-title", text: wk.block });
@@ -451,6 +453,9 @@ export class SGLibraryView extends ItemView {
     next.onclick = () => go(1);
     const idx = ((day + step) % pool.length + pool.length) % pool.length;
     card.createDiv({ cls: "sg-insight-count", text: `${idx + 1} of ${pool.length}` });
+    // seen: the Home badge rests until tomorrow's card
+    const seen = (this.s.device.seen ??= {});
+    if (seen.insightDay !== day) { seen.insightDay = day; void this.s.saveDevice(); document.dispatchEvent(new CustomEvent("sg-dock-refresh")); }
   }
 
   // ------------------------------------------------------------ cover cards
@@ -462,6 +467,10 @@ export class SGLibraryView extends ItemView {
     lines?: string[]; jacket?: string; photo?: string; onTap: () => void;
   }): void {
     const card = grid.createDiv({ cls: "sg-nav-cover" });
+    card.setAttr("role", "button");
+    card.setAttr("tabindex", "0");
+    card.setAttr("aria-label", opts.label);
+    card.onkeydown = (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); card.click(); } };
     cascade(card, this.coverSeq++);
     const hue = opts.hue ?? (opts.icon ? iconHue(opts.icon) : "#8fa3c8");
     card.style.setProperty("--ico", hue);

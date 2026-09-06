@@ -2470,3 +2470,27 @@ body.sg-read-wide .sg-doc-page { max-width: 100% !important; }
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
 .sg-rs-sample { margin-top: 14px; padding: 12px 14px; border-radius: 12px; background: color-mix(in srgb, var(--background-secondary) 60%, transparent); }
 .sg-rs-sample p { margin: 0; }
+
+/* ---- the Home badge: something new since you last looked ---- */
+.sg-dock .sg-dock-dot { position: absolute; top: 10px; right: 12px; width: 8px; height: 8px; border-radius: 50%;
+  background: var(--interactive-accent, #a78bfa); opacity: 0; transform: scale(0.6); transition: opacity 0.2s ease, transform 0.2s ease; }
+.sg-dock .sg-dock-dot-on { opacity: 1; transform: none; }
+/* ---- notebooks ---- */
+.sg-nb-title { margin: 0 0 2px; }
+.sg-nb-sub { color: var(--text-muted); font-size: 0.85em; margin-bottom: 10px; }
+.sg-nb-entry { padding: 10px 12px; margin: 8px 0; border-radius: 12px; border-left: 3px solid var(--text-accent);
+  background: color-mix(in srgb, var(--background-secondary) 70%, transparent); cursor: pointer; }
+.sg-nb-entry:focus-visible { outline: 2px solid var(--interactive-accent); outline-offset: 2px; }
+.sg-nb-ref { font-size: 0.78em; font-weight: 700; letter-spacing: 0.04em; color: var(--text-accent); }
+.sg-nb-verse { margin-top: 3px; font-size: 0.95em; line-height: 1.45; }
+.sg-nb-note { margin-top: 6px; padding-left: 8px; border-left: 2px solid color-mix(in srgb, var(--text-muted) 40%, transparent); color: var(--text-normal); white-space: pre-wrap; }
+.sg-nb-when { margin-top: 4px; font-size: 0.72em; color: var(--text-muted); }
+/* ---- accessibility: visible focus, honoured reduced motion ---- */
+.sg-nav-row:focus-visible, .sg-nav-cover:focus-visible, .sg-dock-slot:focus-visible, .sg-dock-round:focus-visible,
+.sg-insight-ref:focus-visible, .sg-cfm-chip:focus-visible, .sg-fn-chip:focus-visible {
+  outline: 2px solid var(--interactive-accent); outline-offset: 2px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .sg-nav-row, .sg-nav-cover, .sg-nav-book, .sg-nav-ch, .sg-tl-node, .sg-tl-float, .sg-tl-halo-breathe, .sg-tl-star,
+  .sg-nav-cover-photo, .sg-dock-slot, .sg-dock-round, .sg-tl-svg { animation: none !important; transition: none !important; }
+}

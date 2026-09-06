@@ -19,6 +19,7 @@ import { chapterIdFromTitle, parseCanonicalVerses, parseFrontmatter } from "@scr
 import type { Annotation } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, PERSONAL_PREFIX, SGState } from "../state";
 import { historyBack } from "./leafNav";
+import { NotebookModal, exportJournal, notebooks } from "./notebooks";
 import { releaseKeyboard } from "./libraryView";
 import { trace } from "./trace";
 
@@ -35,6 +36,9 @@ export interface DockHost {
   currentPage: () => TFile | null;
   bookmark: (file: TFile) => Promise<void>;
   unbookmark: (a: Annotation) => Promise<void>;
+  /** this week's Come Follow Me key, for the Home badge */
+  currentCfmWeek: () => Promise<string | null>;
+  openNote: (link: string) => void;
 }
 
 interface ObsidianInternals {
@@ -51,6 +55,7 @@ export class Dock {
   private el: HTMLElement | null = null;
   private backBtn: HTMLElement | null = null;
   private tabsCount: HTMLElement | null = null;
+  private homeBadge: HTMLElement | null = null;
   private slots = new Map<string, HTMLElement>();
   private listen = new Listener();
   private listenBtn: HTMLElement | null = null;
@@ -68,6 +73,7 @@ export class Dock {
     this.backBtn.addClass("sg-dock-back");
     const home = this.slot(bar, "home", ICON.home, "Home", () => this.host.openHome());
     longPress(home, e => this.host.ribbonMenu(e));
+    this.homeBadge = home.createSpan({ cls: "sg-dock-dot" });
     this.slot(bar, "library", ICON.library, "Library", () => this.host.openLibrary());
     this.slot(bar, "search", ICON.search, "Search", () => this.host.openSearch());
     this.slot(bar, "saved", ICON.saved, "Saved", () => new SavedModal(this.s, this.host).open());
@@ -110,6 +116,13 @@ export class Dock {
       let n = 0;
       ws.iterateRootLeaves(() => { n++; });
       if (this.tabsCount) this.tabsCount.setText(n > 1 ? String(n) : "");
+      // new since last seen: a fresh Did-you-notice day, or a new Come Follow Me week
+      const seen = (this.s.device.seen ?? {});
+      const day = Math.floor(Date.now() / 86_400_000);
+      void this.host.currentCfmWeek().then(week => {
+        const fresh = (seen.insightDay !== day) || (!!week && seen.cfmWeek !== week);
+        this.homeBadge?.toggleClass("sg-dock-dot-on", fresh && lit !== "home");
+      });
       this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing);
       this.listenBtn?.toggleClass("sg-dock-round-off", !this.listen.canRead(this.s.app, this.host.currentPage()));
     } catch (e) {
@@ -277,6 +290,9 @@ class SavedModal extends Modal {
     const row = (parent: HTMLElement, icon: string, name: string, sub: string, onTap: () => void,
       onRemove?: () => void) => {
       const r = parent.createDiv({ cls: "sg-nav-row" });
+      r.setAttr("role", "button");
+      r.setAttr("tabindex", "0");
+      r.onkeydown = (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); r.click(); } };
       r.createSpan({ cls: "sg-saved-ico", text: icon });
       const col = r.createDiv({ cls: "sg-nav-gcol" });
       col.createDiv({ cls: "sg-nav-name", text: name });
@@ -320,6 +336,23 @@ class SavedModal extends Modal {
       const title = /\[\[([^\]|]+)/.exec(m.content)?.[1] ?? m.anchor_id;
       row(list1, "🔖", title, new Date(m.created_at).toLocaleDateString(), () => this.host.openPath(title),
         () => void this.host.unbookmark(m));
+    }
+
+    const nbs = await notebooks(this.s);
+    if (nbs.length) {
+      sect("Notebooks");
+      const list4 = c.createDiv({ cls: "sg-nav-list" });
+      for (const nb of nbs) {
+        row(list4, nb.emoji, nb.title, `${nb.entries.length} entr${nb.entries.length === 1 ? "y" : "ies"}`,
+          () => new NotebookModal(this.s, nb, l => this.host.openNote(l)).open());
+      }
+      row(list4, "📤", "Export the journal", "One page in Library/ with everything, by theme", () => void (async () => {
+        const md = await exportJournal(this.s.app, this.s);
+        const path = "Library/Study Journal.md";
+        const f = this.s.app.vault.getAbstractFileByPath(path);
+        if (f instanceof TFile) await this.s.app.vault.modify(f, md); else await this.s.app.vault.create(path, md);
+        this.host.openNote("Study Journal");
+      })());
     }
 
     sect("Flashcards");
