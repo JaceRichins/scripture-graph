@@ -3,7 +3,7 @@ ownership: system
 mutable: ai
 content_type: question
 status: seeded
-scope: restoration
+scope: book-of-mormon
 sg-id: question:why-does-the-book-of-mormon-quote-isaiah-and-the-king-james-bible
 ---
 

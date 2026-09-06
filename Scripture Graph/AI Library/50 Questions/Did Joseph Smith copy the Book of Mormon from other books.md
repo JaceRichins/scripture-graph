@@ -3,7 +3,7 @@ ownership: system
 mutable: ai
 content_type: question
 status: seeded
-scope: restoration
+scope: book-of-mormon
 sg-id: question:did-joseph-smith-copy-the-book-of-mormon-from-other-books
 ---
 

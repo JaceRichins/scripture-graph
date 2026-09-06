@@ -3,7 +3,7 @@ ownership: system
 mutable: ai
 content_type: question
 status: seeded
-scope: restoration
+scope: book-of-mormon
 sg-id: question:does-dna-evidence-disprove-the-book-of-mormon
 ---
 
