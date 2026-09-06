@@ -28,6 +28,17 @@ type LibView =
   | { kind: "questions" }
   | { kind: "folder"; path: string; title: string };
 
+/** blur whatever is focused inside `root` and tell the layout the keyboard
+ * is gone — Obsidian sizes the mobile workspace from keyboard events, and a
+ * focused input that is simply removed never sends one */
+export function releaseKeyboard(root: HTMLElement | null = null): void {
+  const ae = document.activeElement;
+  if (ae instanceof HTMLElement && (!root || root.contains(ae)) && ae !== document.body) {
+    ae.blur();
+    window.setTimeout(() => window.dispatchEvent(new Event("resize")), 60);
+  }
+}
+
 /** the Did-you-notice pool (see the note's own header) */
 const INSIGHTS_PATH = "AI Library/00 System/Insights.md";
 
@@ -150,6 +161,11 @@ export class SGLibraryView extends ItemView {
 
   private render(): void {
     const c = this.contentEl;
+    // a focused search box must BLUR before the DOM under it is rebuilt:
+    // destroying a focused input skips the blur, iOS drops the keyboard
+    // silently, and Obsidian keeps the workspace at keyboard height — the
+    // page then shows in the top half only (user-reported)
+    releaseKeyboard(this.contentEl);
     c.empty();
     const v = this.view;
     // GL's top-down header: chevron circle, then the big left-aligned title

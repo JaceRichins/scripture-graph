@@ -1,4 +1,4 @@
-/* scripture-graph v0.67.3 build cd553f89 2026-09-06T20:17:55Z */
+/* scripture-graph v0.67.4 build 33c1437f 2026-09-06T20:18:43Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.67.3", sha: "cd553f89", at: "2026-09-06T20:17:55Z" };
+    define_SG_BUILD_default = { version: "0.67.4", sha: "33c1437f", at: "2026-09-06T20:18:43Z" };
   }
 });
 
@@ -12626,6 +12626,13 @@ var VOLUMES = [
 
 // src/study/libraryView.ts
 var LIBRARY_VIEW = "sg-library";
+function releaseKeyboard(root = null) {
+  const ae = document.activeElement;
+  if (ae instanceof HTMLElement && (!root || root.contains(ae)) && ae !== document.body) {
+    ae.blur();
+    window.setTimeout(() => window.dispatchEvent(new Event("resize")), 60);
+  }
+}
 var INSIGHTS_PATH = "AI Library/00 System/Insights.md";
 var COVERS_PATH = "AI Library/00 System/covers";
 var QUESTIONS_PATH = "AI Library/50 Questions";
@@ -12725,6 +12732,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   }
   render() {
     const c2 = this.contentEl;
+    releaseKeyboard(this.contentEl);
     c2.empty();
     const v = this.view;
     if (v.kind !== "home") {
@@ -15015,6 +15023,7 @@ var Dock = class {
     b.innerHTML = icon;
     b.onclick = (e) => {
       e.preventDefault();
+      releaseKeyboard();
       trace("dock.tap", { key });
       onTap();
     };

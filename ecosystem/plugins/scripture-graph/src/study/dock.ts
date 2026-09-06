@@ -18,6 +18,7 @@ import { App, Modal, Notice, Platform, TFile, TFolder } from "obsidian";
 import { chapterIdFromTitle, parseCanonicalVerses, parseFrontmatter } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, PERSONAL_PREFIX, SGState } from "../state";
 import { historyBack } from "./leafNav";
+import { releaseKeyboard } from "./libraryView";
 import { trace } from "./trace";
 
 export interface DockHost {
@@ -109,7 +110,7 @@ export class Dock {
   private slot(bar: HTMLElement, key: string, icon: string, label: string, onTap: () => void): HTMLElement {
     const b = bar.createEl("button", { cls: `sg-dock-slot sg-dock-${key}`, attr: { "aria-label": label } });
     b.innerHTML = icon;
-    b.onclick = (e) => { e.preventDefault(); trace("dock.tap", { key }); onTap(); };
+    b.onclick = (e) => { e.preventDefault(); releaseKeyboard(); trace("dock.tap", { key }); onTap(); };
     this.slots.set(key, b);
     return b;
   }
