@@ -335,25 +335,8 @@ export class SGLibraryView extends ItemView {
 
   private renderShelf(c: HTMLElement): void {
     this.coverSeq = 0;
-    const last = this.host.lastChapter();
-    if (last) {
-      const cont = c.createDiv({ cls: "sg-nav-continue" });
-      navIcon(cont, "continue").addClass("sg-nav-continue-ico");
-      const col = cont.createDiv({ cls: "sg-nav-continue-col" });
-      col.createSpan({ cls: "sg-nav-continue-tag", text: "Continue reading" });
-      col.createSpan({ cls: "sg-nav-continue-title", text: last.title });
-      cont.createSpan({ cls: "sg-nav-chev", text: "›" });
-      cont.onclick = () => this.host.openChapter(last.title);
-    }
-    const rec = this.host.recentChapters()
-      .filter(r => r.slug !== last?.slug).slice(0, 4);
-    if (rec.length) {
-      const row = c.createDiv({ cls: "sg-nav-recent" });
-      for (const r of rec) {
-        const pill = row.createEl("button", { cls: "sg-nav-recent-pill", text: r.title });
-        pill.onclick = () => this.host.openChapter(r.title);
-      }
-    }
+    // (Continue reading + recent chapters left the home page 2026-09-06 —
+    // the dock's Saved sheet carries them; the home leads with the insight)
     // ✦ Did you notice? — one deep, faith-building connection a day
     void this.renderInsight(c.createDiv({ cls: "sg-insight-slot" }));
     // the shelf, GL's top level: Scriptures is ONE cover — the black jacket

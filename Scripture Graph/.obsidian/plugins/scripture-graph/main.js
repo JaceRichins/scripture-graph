@@ -1,4 +1,4 @@
-/* scripture-graph v0.66.3 build 867158eb 2026-09-06T18:55:25Z */
+/* scripture-graph v0.66.4 build d43db4b5 2026-09-06T19:05:20Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.66.3", sha: "867158eb", at: "2026-09-06T18:55:25Z" };
+    define_SG_BUILD_default = { version: "0.66.4", sha: "d43db4b5", at: "2026-09-06T19:05:20Z" };
   }
 });
 
@@ -12624,24 +12624,6 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   }
   renderShelf(c2) {
     this.coverSeq = 0;
-    const last = this.host.lastChapter();
-    if (last) {
-      const cont = c2.createDiv({ cls: "sg-nav-continue" });
-      navIcon(cont, "continue").addClass("sg-nav-continue-ico");
-      const col = cont.createDiv({ cls: "sg-nav-continue-col" });
-      col.createSpan({ cls: "sg-nav-continue-tag", text: "Continue reading" });
-      col.createSpan({ cls: "sg-nav-continue-title", text: last.title });
-      cont.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
-      cont.onclick = () => this.host.openChapter(last.title);
-    }
-    const rec = this.host.recentChapters().filter((r) => r.slug !== last?.slug).slice(0, 4);
-    if (rec.length) {
-      const row = c2.createDiv({ cls: "sg-nav-recent" });
-      for (const r of rec) {
-        const pill = row.createEl("button", { cls: "sg-nav-recent-pill", text: r.title });
-        pill.onclick = () => this.host.openChapter(r.title);
-      }
-    }
     void this.renderInsight(c2.createDiv({ cls: "sg-insight-slot" }));
     const grid = c2.createDiv({ cls: "sg-nav-covers" });
     this.cover(grid, {
