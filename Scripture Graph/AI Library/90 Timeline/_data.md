@@ -11247,6 +11247,91 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-hel-7-45c4d5b5",
+   "t": "Nephi returns and warns Zarahemla",
+   "y0": -23,
+   "y1": -21,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The narrative places the return in the sixty-ninth year of the judges; the official chapter heading dates the chapter approximately 23–21 B.C.",
+   "chapters": [
+    "Helaman 7"
+   ],
+   "people": [
+    "Nephi (son of Helaman)"
+   ],
+   "places": [
+    "Zarahemla",
+    "land northward"
+   ],
+   "things": [
+    "garden tower",
+    "judgment-seats"
+   ]
+  },
+  {
+   "id": "r-hel-7-e97b24e6",
+   "t": "Nephi's tower prophecy in Zarahemla",
+   "y0": -23,
+   "y1": -21,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Helaman 7:1 dates Nephi's return to 'the sixty and ninth year of the reign of the judges'; the traditional chapter heading correlates this to about 23-21 BC.",
+   "chapters": [
+    "Helaman 7"
+   ],
+   "people": [
+    "Nephi (son of Helaman)",
+    "Gadianton"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "Secret Combinations"
+   ]
+  },
+  {
+   "id": "r-hel-8-eb910bcc",
+   "t": "Nephi announces the murder of the judge",
+   "y0": -23,
+   "y1": -21,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the surrounding events to about 23–21 B.C.; the chapter itself provides no more precise absolute date.",
+   "chapters": [
+    "Helaman 8"
+   ],
+   "people": [
+    "Nephi (son of Helaman)",
+    "unnamed judge",
+    "the judge's brother",
+    "Gadianton"
+   ],
+   "things": [
+    "judgment-seat",
+    "secret band"
+   ]
+  },
+  {
    "id": "r-hosea-1-863a09e5",
    "t": "Hosea's ministry across Judean and Israelite reigns",
    "y0": -755,
@@ -11461,6 +11546,30 @@ timeline module, not this file._
    "things": [
     "Assyrian campaign",
     "prophetic oracle"
+   ]
+  },
+  {
+   "id": "r-isa-11-d355ab51",
+   "t": "Isaiah's oracle of the Branch of Jesse (traditional dating)",
+   "y0": -740,
+   "y1": -700,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional attribution places Isaiah's ministry within the reigns of Uzziah through Hezekiah (Isaiah 1:1); chapters 1-11 are traditionally assigned to the earlier, Assyrian-crisis phase of that ministry.",
+   "chapters": [
+    "Isaiah 11"
+   ],
+   "people": [
+    "Isaiah",
+    "Jesse"
+   ],
+   "places": [
+    "Judah"
    ]
   },
   {

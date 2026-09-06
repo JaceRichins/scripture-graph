@@ -123,11 +123,11 @@ The chapter also reverses expected positions. The formerly disfavored people bec
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Allusion
 > The uncommon combination of buried weapons, refusal to use swords, fear of renewed sin, and willingness to be slain is strong textual evidence that Helaman 15:9 recalls the Anti-Nephi-Lehi narrative in Alma 24.
-> — strength 0.9 · confidence 1.0 · strong allusive evidence; identity qualified · [[Internal Narrative Allusion in Helaman 15|full dossier]]
+> — strength 0.8 · confidence 0.9 · strong allusive evidence; identity qualified · [[Internal Narrative Allusion in Helaman 15|full dossier]]
 
 > [!evidence] English Phraseological Intertext
 > Helaman 15:1-2 has conspicuous English phraseological parallels with two warnings in Matthew: the declaration of a house left desolate in Matthew 23:38 and the woe concerning pregnant and nursing women during flight in Matthew 24:19. The verbal correspondence is strong, while its explanation remains open.
-> — strength 0.9 · confidence 1.0 · strong English verbal parallel; cause unresolved · [[English Phraseological Intertext in Helaman 15|full dossier]]
+> — strength 0.7 · confidence 0.9 · strong English verbal parallel; cause unresolved · [[English Phraseological Intertext in Helaman 15|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

@@ -39,6 +39,8 @@ _Not yet developed._
 - **50 BC–26 BC** — Gadianton's secret combinations rise · [[Helaman 2]] · [[Helaman 6]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **49 BC–39 BC** — Migration, church growth, and Helaman's death · [[Helaman 3]] · [[100-1 BC]] *(approximate)*
 - **29 BC–23 BC** — Peace, prosperity, and Gadianton ascendancy · [[Helaman 6]] · [[100-1 BC]] *(approximate)*
+- **23 BC–21 BC** — Nephi's tower prophecy in Zarahemla · [[Helaman 7]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **23 BC–21 BC** — Nephi announces the murder of the judge · [[Helaman 8]] · [[100-1 BC]] *(approximate)*
 - **11 BC–6 BC** — Dissenters revive the Gadianton robbers (Helaman 11) · [[Helaman 11]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **AD 201–AD 321** — Fragmentation into rival churches, tribal factions, and Gadianton's return · [[4 Nephi 1]] · [[AD 201-300]] *(Book of Mormon internal dating)*
 

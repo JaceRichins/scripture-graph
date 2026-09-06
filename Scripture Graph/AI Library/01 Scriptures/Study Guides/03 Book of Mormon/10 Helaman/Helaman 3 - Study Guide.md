@@ -140,7 +140,7 @@ Verses 13-17 also expose the narrator's selectivity. The claim that not even a h
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Literary Evidence
 > Helaman 3:13-17 is strong internal evidence that the work presents itself as a selective record compiled from a much larger documentary tradition. As internal literary evidence, however, it cannot independently verify that the claimed source records existed outside the narrative.
-> — strength 0.8 · confidence 0.9 · correctly bounded internal evidence · [[Internal Literary Evidence in Helaman 3|full dossier]]
+> — strength 0.6 · confidence 0.9 · correctly bounded internal evidence · [[Internal Literary Evidence in Helaman 3|full dossier]]
 
 > [!evidence] Material-Culture Correspondence *(tentative)*
 > The claim that migrants in the land northward built extensively with cement/concrete, in a period the chapter dates to roughly the mid-first century B.C., is sometimes cited as a point in the Book of Mormon's favor because large-scale Preclassic Maya cement and lime-plaster construction (e.g., at El Mirador in Guatemala) was not known to 1830 American readers but has since been documented archaeologically in the same general region and era.

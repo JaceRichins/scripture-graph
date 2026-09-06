@@ -78,12 +78,12 @@
 .theme-dark .callout[data-callout="sg-host"] {
   --callout-color: 147, 160, 255;
 }
-.callout[data-callout="sg-mary-magdalene"] {
-  --callout-color: 180, 24, 90;
+.callout[data-callout="sg-peter"] {
+  --callout-color: 178, 82, 31;
   --callout-icon: lucide-mic;
 }
-.theme-dark .callout[data-callout="sg-mary-magdalene"] {
-  --callout-color: 255, 143, 177;
+.theme-dark .callout[data-callout="sg-peter"] {
+  --callout-color: 255, 162, 104;
 }
 .callout[data-callout="sg-scholar"] {
   --callout-color: 123, 63, 160;

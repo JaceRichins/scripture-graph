@@ -61,7 +61,6 @@ Verse 17 — where getting gain shifts from the neutral trade of verse 8 to a me
 - [[Helaman 8]] — 2 footnote cross-references (from [[Helaman 6#^hel-6-10|Helaman 6:10]])
 - [[Alma 53]] — 3 parallel verses, e.g. [[Helaman 6#^hel-6-4|Helaman 6:4]] ↔ [[Alma 53#^alma-53-10|Alma 53:10]]
 - [[Alma 62]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-4|Helaman 6:4]] ↔ [[Alma 62#^alma-62-27|Alma 62:27]]
-- [[Helaman 4]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-1|Helaman 6:1]] ↔ [[Helaman 4#^hel-4-18|Helaman 4:18]]
 - [[Alma 48]] — 2 parallel verses, e.g. [[Helaman 6#^hel-6-30|Helaman 6:30]] ↔ [[Alma 48#^alma-48-17|Alma 48:17]]
 - [[Alma 50]] — 1 parallel verse, e.g. [[Helaman 6#^hel-6-15|Helaman 6:15]] ↔ [[Alma 50#^alma-50-37|Alma 50:37]]
 - [[Alma 37]] — 0 parallel verses
@@ -124,7 +123,7 @@ Verse 10's naming of the land "Lehi" in the south and "Mulek" in the north prese
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Literary Evidence
 > The movement from peaceful prosperity in verses 7-14 to status-seeking, secret crime, and political capture in verses 15-40 is strong internal evidence for a deliberate literary contrast. The narrator's diagnosis focuses not on wealth alone but on setting hearts upon riches and seeking gain in order to rise above others.
-> — strength 0.6 · confidence 0.8 · sequence confirmed; 'deliberate' design downgraded to plausible reading · [[Internal Literary Evidence in Helaman 6|full dossier]]
+> — strength 0.7 · confidence 0.8 · sequence confirmed; 'deliberate' design downgraded to plausible reading · [[Internal Literary Evidence in Helaman 6|full dossier]]
 
 > [!evidence] Historicity / External Correlation *(tentative)*
 > The Book of Mormon's claim that a son of King Zedekiah named Mulek escaped Jerusalem's fall and was brought to the promised land creates a checkable point of contact with the biblical account, which states that Zedekiah's sons were slain at Riblah before his eyes shortly before Jerusalem's destruction.
