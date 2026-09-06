@@ -69,8 +69,11 @@ export interface DeviceState {
   /** show the AI Library folder in the file explorer (power users only;
    * off keeps family devices from ever wandering in — links still work) */
   showAiLibrary: boolean;
-  /** ambient reading scene: "none" | "auto" | scene id */
+  /** ambient reading scene: "none" | "auto" | "match" | scene id */
   scene: string;
+  /** the scene "match" last chose, so a relaunch on a non-chapter page
+   * keeps it instead of falling back to the first scene in the list */
+  lastMatchedScene?: string;
   /** timeline depth: 1 = one line per world, 2 = storylines split out */
   tlDepth: 1 | 2;
   /** timelines you built yourself — a name plus the subjects it overlaps

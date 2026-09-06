@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.2 build ab970f18 2026-09-06T15:10:04Z */
+/* scripture-graph v0.65.3 build ff80e20d 2026-09-06T15:14:48Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.2", sha: "ab970f18", at: "2026-09-06T15:10:04Z" };
+    define_SG_BUILD_default = { version: "0.65.3", sha: "ff80e20d", at: "2026-09-06T15:14:48Z" };
   }
 });
 
@@ -15907,7 +15907,12 @@ var SGPlugin = class extends import_obsidian23.Plugin {
           this.recordLastChapter(f0);
           this.updateNavFab(f0);
         }
-        this.scenes.apply(this.state.device.scene ?? "none");
+        if (this.state.device.scene === "match") {
+          this.scenes.apply(this.state.device.lastMatchedScene ?? "none");
+          if (f0) void this.matchSceneToChapter(f0);
+        } else {
+          this.scenes.apply(this.state.device.scene ?? "none");
+        }
         this.registerInterval(window.setInterval(() => {
           if (this.state.device.scene === "auto") this.scenes.apply("auto");
         }, 15 * 6e4));
@@ -16299,7 +16304,12 @@ var SGPlugin = class extends import_obsidian23.Plugin {
       const { matchScene: matchScene2 } = await Promise.resolve().then(() => (init_presence(), presence_exports));
       const slug = this.app.metadataCache.getFileCache(target)?.frontmatter?.slug;
       const text = await this.app.vault.cachedRead(target);
-      this.scenes.apply(matchScene2(text, slug));
+      const id = matchScene2(text, slug);
+      this.scenes.apply(id);
+      if (this.state.device.lastMatchedScene !== id) {
+        this.state.device.lastMatchedScene = id;
+        void this.state.saveDevice();
+      }
     } catch {
     }
   }

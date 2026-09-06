@@ -402,8 +402,15 @@ export default class SGPlugin extends Plugin {
           this.recordLastChapter(f0);
           this.updateNavFab(f0);
         }
-        // ambient scene: restore + hourly re-pick when following the clock
-        this.scenes.apply(this.state.device.scene ?? "none");
+        // ambient scene: restore + hourly re-pick when following the clock.
+        // "match" is a MODE, not a scene id — handing it to apply() picked
+        // the first scene in the list on every relaunch (user-reported)
+        if (this.state.device.scene === "match") {
+          this.scenes.apply(this.state.device.lastMatchedScene ?? "none");
+          if (f0) void this.matchSceneToChapter(f0);
+        } else {
+          this.scenes.apply(this.state.device.scene ?? "none");
+        }
         this.registerInterval(window.setInterval(() => {
           if (this.state.device.scene === "auto") this.scenes.apply("auto");
         }, 15 * 60_000));
@@ -847,7 +854,12 @@ export default class SGPlugin extends Plugin {
       const slug = (this.app.metadataCache.getFileCache(target)?.frontmatter as
         { slug?: string } | undefined)?.slug;
       const text = await this.app.vault.cachedRead(target);
-      this.scenes.apply(matchScene(text, slug));
+      const id = matchScene(text, slug);
+      this.scenes.apply(id);
+      if (this.state.device.lastMatchedScene !== id) {
+        this.state.device.lastMatchedScene = id;
+        void this.state.saveDevice();
+      }
     } catch { /* keep current scene */ }
   }
 
