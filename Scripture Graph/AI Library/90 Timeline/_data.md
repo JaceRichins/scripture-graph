@@ -12990,6 +12990,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-john-10-28ea447f",
+   "t": "Feast of Dedication confrontation, Solomon's Porch",
+   "y0": 29,
+   "y1": 30,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "John situates this discourse at the winter Feast of Dedication (Hanukkah), which most Gospel harmonies place a few months before the final Passover of the crucifixion narrated later in John.",
+   "chapters": [
+    "John 10"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Solomon's porch"
+   ]
+  },
+  {
    "id": "r-josh-13-52f35af1",
    "t": "Moses' Transjordan conquest and land grant to Reuben, Gad, half-Manasseh",
    "y0": -1407,
