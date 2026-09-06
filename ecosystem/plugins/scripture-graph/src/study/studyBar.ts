@@ -518,6 +518,10 @@ export class StudyBar {
       menu.addItem(i => i.setTitle("🕸 Connections graph").onClick(() => void this.openGraph()));
       menu.addItem(i => i.setTitle("📋 Copy verse").onClick(() => void this.doCopy()));
       menu.addItem(i => i.setTitle("📤 Share verse").onClick(() => void this.doShare()));
+      menu.addItem(i => i.setTitle("Aa Reading settings").onClick(() => {
+        (this.s.app as unknown as { commands?: { executeCommandById?: (id: string) => void } })
+          .commands?.executeCommandById?.("scripture-graph:reading-settings");
+      }));
       menu.addItem(i => i.setTitle("✨ Ask AI").onClick(() => this.doAsk()));
       menu.showAtMouseEvent(e);
     };

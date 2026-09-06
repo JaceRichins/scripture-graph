@@ -23,6 +23,7 @@ import { ASK_VIEW, AskView } from "./ai/askView";
 import { READER_VIEW, ReaderView } from "./reader/readerView";
 import { DOC_VIEW, DocView, docKindFor } from "./reader/docView";
 import { Dock, isPhone, obsidianInternals } from "./study/dock";
+import { ReadingSettingsModal, applyReading } from "./study/readingSettings";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SCENES, SceneManager } from "./study/scenes";
@@ -100,6 +101,7 @@ export default class SGPlugin extends Plugin {
     // hard questions and talks are pages of their own (reader/docView.ts)
     this.registerView(DOC_VIEW, leaf => new DocView(leaf, this.state, this.ann, {
       openAsk: (seed) => void this.openAsk(null, null, `About "${seed}" — `),
+      openReading: () => this.openReadingSettings(),
       bookmark: (f) => this.study.bookmarkFile(f),
       bookmarkId: async (f) => (await this.study.bookmarkOf(f))?.annotation_id ?? null,
       unbookmark: async (id) => {
@@ -301,6 +303,11 @@ export default class SGPlugin extends Plugin {
       if (isPhone() && this.state.device.dock !== false) {
         try { this.mountDock(); } catch (e) { console.error("scripture-graph: dock", e); }
       }
+    });
+    applyReading(this.state);
+    this.addCommand({
+      id: "reading-settings", name: "Reading settings (text size, spacing, typeface)", icon: "type",
+      callback: () => this.openReadingSettings(),
     });
     this.addCommand({
       id: "toggle-dock", name: "Toggle the bottom dock (phone)", icon: "panel-bottom",
@@ -679,6 +686,14 @@ export default class SGPlugin extends Plugin {
   }
 
   private dock: Dock | null = null;
+
+  openReadingSettings(): void {
+    new ReadingSettingsModal(this.state, () => this.pickScene(), () => {
+      this.state.device.dock = this.state.device.dock === false;
+      void this.state.saveDevice();
+      if (this.state.device.dock !== false && isPhone()) this.mountDock(); else this.unmountDock();
+    }).open();
+  }
 
   private mountDock(): void {
     if (this.dock) return;

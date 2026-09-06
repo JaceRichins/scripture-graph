@@ -41,6 +41,7 @@ const PLACEHOLDER = /^_?Not yet developed\.?_?$/i;
 
 export interface DocHost {
   openAsk: (seed: string) => void;
+  openReading: () => void;
   bookmark: (file: TFile) => Promise<void>;
   /** the live bookmark on this file → its id, or null */
   bookmarkId: (file: TFile) => Promise<string | null>;
@@ -137,6 +138,9 @@ export class DocView extends ItemView {
     const askBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "✨ Ask AI" });
     askBtn.onclick = () => this.host.openAsk(file.basename);
     // 🔖 is a toggle: bookmarked pages show it lit, and a tap removes it
+    const aa = actions.createEl("button", { cls: "sg-ask-btn", text: "Aa" });
+    aa.setAttr("aria-label", "Reading settings");
+    aa.onclick = () => this.host.openReading();
     const markBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "🔖 Bookmark" });
     let markId: string | null = null;
     const paint = () => { markBtn.setText(markId ? "🔖 Bookmarked" : "🔖 Bookmark"); markBtn.toggleClass("sg-on", !!markId); };
