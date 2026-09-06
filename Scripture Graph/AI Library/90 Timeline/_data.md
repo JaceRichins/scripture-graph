@@ -12332,6 +12332,65 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-24-a1679e11",
+   "t": "Jeremiah's vision of the two baskets of figs",
+   "y0": -597,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The chapter places the vision after Jeconiah's deportation to Babylon and while Zedekiah and a remnant still remained in Jerusalem.",
+   "chapters": [
+    "Jeremiah 24"
+   ],
+   "people": [
+    "Jeremiah",
+    "Jeconiah",
+    "Nebuchadrezzar",
+    "Zedekiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ],
+   "things": [
+    "two baskets of figs",
+    "Babylonian deportation"
+   ]
+  },
+  {
+   "id": "r-jer-24-c342b52c",
+   "t": "First Babylonian deportation of Jeconiah (597 BC)",
+   "y0": -597,
+   "y1": -597,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The vision is explicitly set after Nebuchadrezzar's deportation of Jeconiah, the princes, and craftsmen, an event independently dated by the Babylonian Chronicle to 597 BC; Zedekiah is still reigning in Jerusalem when the oracle is given.",
+   "chapters": [
+    "Jeremiah 24"
+   ],
+   "people": [
+    "Jeconiah (Jehoiachin)",
+    "Nebuchadrezzar",
+    "Zedekiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
+   ]
+  },
+  {
    "id": "r-jer-26-126fb03b",
    "t": "Micah's Zion oracle cited as precedent from Hezekiah's reign",
    "y0": -715,
@@ -12442,6 +12501,56 @@ timeline module, not this file._
    "things": [
     "yoke",
     "temple vessels"
+   ]
+  },
+  {
+   "id": "r-jer-3-cda0887e",
+   "t": "Jeremiah's oracle on Israel and Judah under King Josiah",
+   "y0": -640,
+   "y1": -609,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Jeremiah 3:6 explicitly dates this oracle to 'the days of Josiah the king'; Josiah's reign is traditionally dated c. 640-609 BC per 2 Kings 22-23.",
+   "chapters": [
+    "Jeremiah 3"
+   ],
+   "people": [
+    "Josiah",
+    "Jeremiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-jer-30-397112aa",
+   "t": "Jeremiah's Book of Comfort composed/compiled",
+   "y0": -605,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed late in Judah's monarchy before Jerusalem's fall; some oracles for 'Israel' may predate Judah's exile.",
+   "chapters": [
+    "Jeremiah 30"
+   ],
+   "people": [
+    "Jeremiah (prophet)",
+    "David (king)"
+   ],
+   "places": [
+    "Judah"
    ]
   },
   {

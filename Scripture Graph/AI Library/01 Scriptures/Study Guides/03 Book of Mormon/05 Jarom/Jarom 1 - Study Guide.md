@@ -112,11 +112,11 @@ Two contrasts help organize the chapter: stiffnecked people versus those who rec
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Evidence
 > The named inheritance from Enos, stated writing purpose, concern about plate capacity, distinction between record collections, and transfer to Omni form strong internal textual evidence that Jarom is presented as one link in an intergenerational record-keeping system.
-> — strength 0.9 · confidence 1.0 · strong evidence for internal presentation only · [[Internal Textual Evidence in Jarom 1|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong evidence for internal presentation only · [[Internal Textual Evidence in Jarom 1|full dossier]]
 
 > [!evidence] Internal Religious Depiction
 > Jarom supplies direct internal evidence that the Book of Mormon depicts this Nephite community as combining Mosaic practice with explicit expectation of a coming Messiah.
-> — strength 0.9 · confidence 1.0 · depiction explicit; historical significance disputed · [[Internal Religious Depiction in Jarom 1|full dossier]]
+> — strength 0.1 · confidence 1.0 · depiction explicit; historical significance disputed · [[Internal Religious Depiction in Jarom 1|full dossier]]
 
 > [!evidence] Metallurgy Anachronism Debate *(tentative)*
 > The mention of 'steel' (and, secondarily, iron and 'machinery') among Nephite goods around 400-360 BC is a long-standing point of contention: critics cite it as a metallurgical anachronism for the pre-Columbian Americas, while apologists propose alternative referents for the underlying term. The text itself does not resolve this dispute either way.

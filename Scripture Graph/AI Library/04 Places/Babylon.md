@@ -45,11 +45,11 @@ _Not yet developed._
 - **605 BC–562 BC** — Shadrach, Meshach, and Abed-nego cast into the furnace · [[Daniel 3]] · [[700-601 BC]] *(approximate)*
 - **597 BC** — Jehoiachin deported and Zedekiah installed · [[Ezekiel 17]] · [[600-501 BC]] *(historical)*
 - **597 BC** — Jehoiachin (Coniah) surrenders, deported to Babylon · [[Jeremiah 22]] · [[600-501 BC]] *(historical)*
+- **597 BC–586 BC** — Jeremiah's vision of the two baskets of figs · [[Jeremiah 24]] · [[600-501 BC]] *(approximate)*
+- **597 BC** — First Babylonian deportation of Jeconiah (597 BC) · [[Jeremiah 24]] · [[600-501 BC]] *(historical)*
 - **597 BC–586 BC** — Jeremiah urges submission after Jeconiah's deportation · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
 - **597 BC–593 BC** — Jeremiah's yoke sign during Zedekiah's early reign · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
 - **594 BC–593 BC** — Seraiah carries Jeremiah's Babylon oracle · [[Jeremiah 51]] · [[600-501 BC]] *(approximate)*
-- **593 BC–570 BC** — Ezekiel among the exiles · [[Ezekiel 1]] · [[Ezekiel 37]] · [[600-501 BC]] *(historical)*
-- **589 BC–586 BC** — Nebuchadrezzar's Siege of Jerusalem under Zedekiah · [[Jeremiah 21]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
