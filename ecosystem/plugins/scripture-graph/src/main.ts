@@ -315,6 +315,10 @@ export default class SGPlugin extends Plugin {
     this.registerEvent(this.app.vault.on("delete", f => this.vaultSync.noteChanged(f.path)));
     this.registerEvent(this.app.vault.on("rename", (f, old) => { this.vaultSync.noteChanged(old); this.vaultSync.noteChanged(f.path); }));
     this.addCommand({
+      id: "update-from-server", name: "Update the plugin from the family server now", icon: "download",
+      callback: () => void this.checkForUpdate(false),
+    });
+    this.addCommand({
       id: "vault-sync-now", name: "Sync the vault now", icon: "refresh-cw",
       callback: () => { new Notice("Syncing…"); void this.vaultSync.run("manual").then(() => new Notice(
         this.vaultSync.status.lastError ? `Sync: ${this.vaultSync.status.lastError}`
@@ -468,11 +472,12 @@ export default class SGPlugin extends Plugin {
           new WelcomeModal(this.state, this.ai, () => { /* noop */ }).open();
         }
         // self-update from the family server (kills sync-delivery roulette)
-        const last = (await this.state.store.get<number>("update_checked_at")) ?? 0;
-        if (Date.now() - last > 6 * 3600_000) {
-          await this.state.store.put("update_checked_at", Date.now());
-          void this.checkForUpdate(true);
-        }
+        // every launch, and again every 20 minutes while open: one small
+        // request to the LAN server; the vault sync makes Sync-delivery
+        // optional, so the server must be the reliable channel
+        await this.state.store.put("update_checked_at", Date.now());
+        void this.checkForUpdate(true);
+        this.registerInterval(window.setInterval(() => void this.checkForUpdate(true), 20 * 60_000));
         // Sync can land a build any time, from anywhere — notice it on
         // open, every few minutes, and whenever the app comes back up
         void this.checkSyncedUpdate();

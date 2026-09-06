@@ -1,4 +1,4 @@
-/* scripture-graph v0.71.0 build 5bbee616 2026-09-06T23:37:09Z */
+/* scripture-graph v0.71.1 build db7d84c3 2026-09-06T23:56:37Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.71.0", sha: "5bbee616", at: "2026-09-06T23:37:09Z" };
+    define_SG_BUILD_default = { version: "0.71.1", sha: "db7d84c3", at: "2026-09-06T23:56:37Z" };
   }
 });
 
@@ -17650,6 +17650,12 @@ var SGPlugin = class extends import_obsidian28.Plugin {
       this.vaultSync.noteChanged(f.path);
     }));
     this.addCommand({
+      id: "update-from-server",
+      name: "Update the plugin from the family server now",
+      icon: "download",
+      callback: () => void this.checkForUpdate(false)
+    });
+    this.addCommand({
       id: "vault-sync-now",
       name: "Sync the vault now",
       icon: "refresh-cw",
@@ -17781,11 +17787,9 @@ var SGPlugin = class extends import_obsidian28.Plugin {
           new WelcomeModal(this.state, this.ai, () => {
           }).open();
         }
-        const last = await this.state.store.get("update_checked_at") ?? 0;
-        if (Date.now() - last > 6 * 36e5) {
-          await this.state.store.put("update_checked_at", Date.now());
-          void this.checkForUpdate(true);
-        }
+        await this.state.store.put("update_checked_at", Date.now());
+        void this.checkForUpdate(true);
+        this.registerInterval(window.setInterval(() => void this.checkForUpdate(true), 20 * 6e4));
         void this.checkSyncedUpdate();
         this.registerInterval(window.setInterval(
           () => void this.checkSyncedUpdate(),
