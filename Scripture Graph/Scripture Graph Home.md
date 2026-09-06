@@ -27,7 +27,7 @@ A living, AI-maintained knowledge graph for serious scripture study.
 
 ## History
 - [[General Conference]]
-- [[Joseph Smith Papers]]
+- [[Words of the Prophets]]
 - [[Church History]]
 
 ## System
