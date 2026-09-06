@@ -23,7 +23,10 @@ Scripture: [[Mormon 2]] · My notes: [[Mormon 2 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Appointment and retreat (vv. 1–8):** Mormon takes command, loses fortified positions, and gathers a displaced population amid general violence.
+2. **Victory and false repentance (vv. 9–15):** A military success is followed by mourning that Mormon first welcomes and then judges spiritually fruitless.
+3. **Records and personal lament (vv. 16–19):** Near Jashon, Mormon fulfills Ammaron's instructions from [[Mormon 1]], distinguishes between two records, and voices both grief and resurrection hope.
+4. **Shem, victory, and treaty (vv. 20–29):** The Nephites stand at Shem and regain territory, yet Mormon denies that divine strength attends them; the chapter ends with political partition.
 <!-- SG:END structure -->
 
 ## People
@@ -57,21 +60,23 @@ _Not yet developed._
 - [[D&C 75]] — 2 parallel verses, e.g. [[Mormon 2#^morm-2-19|Mormon 2:19]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
 - [[Helaman 11]] — 2 parallel verses, e.g. [[Mormon 2#^morm-2-20|Mormon 2:20]] ↔ [[Helaman 11#^hel-11-3|Helaman 11:3]]
 - [[Helaman 13]] — 2 parallel verses, e.g. [[Mormon 2#^morm-2-20|Mormon 2:20]] ↔ [[Helaman 13#^hel-13-2|Helaman 13:2]]
-- [[Mormon 1]] — 1 parallel verse, e.g. [[Mormon 2#^morm-2-1|Mormon 2:1]] ↔ [[Mormon 1#^morm-1-8|Mormon 1:8]]
+- [[Mormon 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[War and Peace]]
+- [[Records and Sacred Writings]]
+- [[Mormon 1]]
+- [[Prophecy]]
 - [[The Godhead]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Book of Mormon Geography]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter's sharpest doctrinal distinction is between suffering and [[Repentance]]. Mourning becomes repentance neither automatically nor merely because it is addressed "before the Lord." Mormon looks for a transformed relationship to God: coming to Jesus with broken hearts and contrite spirits. Verses 25–26 likewise warn against treating success as proof of divine favor: the Nephites win while, in Mormon's judgment, the Spirit is absent. Mormon's hope of being lifted up at the last day places his personal sorrow within the horizon of [[Resurrection]] and [[Final Judgment]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -89,25 +94,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The repeated first-person verbs—Mormon sees, supposes, rejoices, sorrows, knows, writes, and withholds—make this an explicitly interpreted history. Statements about the absence of the Spirit and the passing of the day of grace should therefore be attributed to Mormon's narrative and theological judgment rather than treated as neutral military observations. The contrast between “the plates of Nephi” and “these plates” in verses 17–18 marks conscious selection within [[Records and Sacred Writings]].
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The narrative repeatedly frustrates an expected equation between outward improvement and inward renewal. Mourning initially appears to promise righteousness but proves to be despair over consequences. Boldness produces victory at Shem, but victory occurs without the Lord's strength. Recovery of inherited lands leads only to a treaty, not restoration. These reversals make spiritual condition—not battlefield outcome—the chapter's controlling measure.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Narrative Source Differentiation
+> The distinction between a fuller record on the plates of Nephi and a selective account on the present plates is evidence that the narrator presents his work as conscious historiographical selection rather than exhaustive reporting.
+> — strength 0.9 · confidence 1.0 · strong agreement with stated limitation · [[Narrative Source Differentiation in Mormon 2|full dossier]]
+
+> [!evidence] Intratextual Narrative Continuity
+> Mormon 2:10 explicitly interprets the inability to retain possessions as fulfillment of Samuel's warning in Helaman 13 that, because of iniquity, riches would become insecure or lost. This is strong evidence for deliberate narrative continuity between the Samuel account and Mormon's history.
+> — strength 0.9 · confidence 1.0 · strong internal textual evidence · [[Intratextual Narrative Continuity in Mormon 2|full dossier]]
+
+> [!evidence] Internal Textual Consistency *(tentative)*
+> The 'narrow passage which led into the land southward' (Mormon 2:29) uses a chokepoint concept consistent with the 'narrow neck of land' and 'narrow pass' described elsewhere in the Book of Mormon's geography (e.g., Alma 22:32; Alma 50:34), supporting a degree of internal geographic consistency across the text.
+> — strength 0.4 · confidence 0.7 · limited internal parallel; feature identity disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+Why does Mormon initially mistake lamentation for repentance, and what later evidence changes his judgment? What does the victory in verses 25–26 imply about using prosperity or military success as a measure of righteousness? Why does the narrative interrupt the war account to explain the records in verses 17–19? How might Mormon's roles as general, eyewitness, and editor shape what he preserves?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare Mormon 2:10 with Samuel's warning in [[Helaman 13]], and Mormon 2:17–18 with Ammaron's commission in [[Mormon 1]]. Compare the appeal to wives, children, and homes in Mormon 2:23 with [[Alma 43]]. The distinction between forms of sorrow can also be compared with [[2 Corinthians 7]], while preserving the difference between a conceptual parallel and demonstrated textual dependence.
 <!-- SG:END further-study -->
