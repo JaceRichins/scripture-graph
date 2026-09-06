@@ -32,7 +32,7 @@ space. Write there. Everything you write joins the graph automatically.
 
 - [[Scriptures]] — the five standard works
 - [[Gospel Topics]] · [[People]] · [[Places]] · [[Questions]]
-- [[Evidence]] — scored, honest evidence dossiers
+- [[Findings]] — what the reading found, honestly weighed where it is contested
 - [[Status]] — live corpus/coverage dashboard · [[Graph Health]]
 
 ## Documentation

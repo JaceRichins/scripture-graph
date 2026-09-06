@@ -45,7 +45,15 @@ FOLDER_DOCTRINES = f"{FOLDER_LIBRARY}/06 Doctrines"
 FOLDER_CONFERENCE = f"{FOLDER_LIBRARY}/10 General Conference"
 FOLDER_JSP = f"{FOLDER_LIBRARY}/20 Joseph Smith Papers"
 FOLDER_HISTORY = f"{FOLDER_LIBRARY}/30 Church History"
-FOLDER_EVIDENCE = f"{FOLDER_LIBRARY}/40 Evidence"
+# "Findings" -- what the reading found. The old name, "Evidence", carried a
+# verdict in the word (evidence is FOR or AGAINST something) and most of what
+# lives here is illumination that makes no such claim. The constant keeps its
+# name so nothing else has to change; the folder and its pages are Findings.
+FOLDER_EVIDENCE = f"{FOLDER_LIBRARY}/40 Findings"
+FOLDER_FINDINGS = FOLDER_EVIDENCE
+FINDINGS_MOC = "Findings"
+CORPUS_FINDINGS_MOC = {"Book of Mormon": "Book of Mormon Findings", "Bible": "Bible Findings",
+                       "Restoration": "Restoration Findings"}
 FOLDER_QUESTIONS = f"{FOLDER_LIBRARY}/50 Questions"
 FOLDER_SCHOLARSHIP = f"{FOLDER_LIBRARY}/60 Scholarship"
 FOLDER_AI_GUIDES = f"{FOLDER_LIBRARY}/70 AI Study Guides"
@@ -398,9 +406,10 @@ A living, AI-maintained knowledge graph for serious scripture study.
 - {md.wikilink('People')} · {md.wikilink('Places')} · {md.wikilink('Events')}
 - {md.wikilink('Questions')} — serious questions, honestly handled
 
-## Evidence & scholarship
-- {md.wikilink('Evidence')} — literary, linguistic, historical, archaeological
-- {md.wikilink('Book of Mormon Evidence')} · {md.wikilink('Bible Evidence')} · {md.wikilink('Restoration Evidence')}
+## Findings & scholarship
+- {md.wikilink('Findings')} — what the reading found: literary, linguistic, historical, archaeological
+- {md.wikilink('Book of Mormon Findings')} · {md.wikilink('Bible Findings')} · {md.wikilink('Restoration Findings')}
+- {md.wikilink('Assessments')} — the contested issues, one stable assessment each
 - {md.wikilink('Scholarship')}
 
 ## History
@@ -527,7 +536,7 @@ def generate_scriptures(ctx: Ctx) -> dict:
 
 
 def generate_framework(ctx: Ctx) -> None:
-    """Home note, folder MOCs, personal-notes README, evidence tree, config."""
+    """Home note, folder MOCs, personal-notes README, findings tree, config."""
     record_file(ctx, "Scripture Graph Home.md", "moc", "generator", None, render_home())
 
     mocs = {
@@ -559,25 +568,40 @@ def generate_framework(ctx: Ctx) -> None:
              "place permitted local packages in `sources/drop/jsp/`."]),
         f"{FOLDER_HISTORY}/Church History.md": _simple_moc(
             "Church History", ["Church history narratives, documents, and context notes."]),
-        f"{FOLDER_EVIDENCE}/Evidence.md": _simple_moc(
-            "Evidence",
-            [f"- {md.wikilink('Book of Mormon Evidence')}",
-             f"- {md.wikilink('Bible Evidence')}",
-             f"- {md.wikilink('Restoration Evidence')}", "",
-             "Every evidence note carries explicit scores: claim confidence, evidence",
-             "strength, study relevance, source quality, and consensus status — see",
-             md.wikilink("AI-CONSTITUTION") + "."]),
-        f"{FOLDER_EVIDENCE}/Book of Mormon/Book of Mormon Evidence.md": _simple_moc(
-            "Book of Mormon Evidence",
+        # The old titles stay as aliases: a [[Evidence]] link in anyone's
+        # personal notes still resolves, and the engine never rewrites those.
+        f"{FOLDER_EVIDENCE}/Findings.md": _simple_moc(
+            "Findings",
+            [f"- {md.wikilink('Book of Mormon Findings')}",
+             f"- {md.wikilink('Bible Findings')}",
+             f"- {md.wikilink('Restoration Findings')}", "",
+             "What the chapter-by-chapter reading found. Most findings are",
+             "*illumination* — history, geography, language, culture and science that",
+             "make a passage more intelligible — and carry no verdict. A minority bear",
+             "on a genuinely contested question; those are *assessments*, weighed",
+             "against a named proposition and recorded once, stably, in",
+             md.wikilink("Assessments") + ". Each corpus also has a cumulative page",
+             "(e.g. " + md.wikilink("Book of Mormon Assessment") + ") so that findings",
+             "are read together, never dismissed one at a time. The standard is in",
+             md.wikilink("AI-CONSTITUTION") + "."],
+            {"aliases": ["Evidence"]}),
+        f"{FOLDER_EVIDENCE}/Book of Mormon/Book of Mormon Findings.md": _simple_moc(
+            "Book of Mormon Findings",
             ["Chiasmus · Hebraisms · Literary · Names · Geography · Archaeology ·",
-             "Ancient Culture · Translation"]),
-        f"{FOLDER_EVIDENCE}/Bible/Bible Evidence.md": _simple_moc(
-            "Bible Evidence",
+             "Ancient Culture · Translation", "",
+             "Cumulative view: " + md.wikilink("Book of Mormon Assessment")],
+            {"aliases": ["Book of Mormon Evidence"]}),
+        f"{FOLDER_EVIDENCE}/Bible/Bible Findings.md": _simple_moc(
+            "Bible Findings",
             ["Manuscripts · Textual Criticism · Languages · Archaeology ·",
-             "Historical Context · Literary"]),
-        f"{FOLDER_EVIDENCE}/Restoration/Restoration Evidence.md": _simple_moc(
-            "Restoration Evidence",
-            ["Witnesses, documents, and historical evidence bearing on the Restoration."]),
+             "Historical Context · Literary", "",
+             "Cumulative view: " + md.wikilink("Bible Assessment")],
+            {"aliases": ["Bible Evidence"]}),
+        f"{FOLDER_EVIDENCE}/Restoration/Restoration Findings.md": _simple_moc(
+            "Restoration Findings",
+            ["Witnesses, documents, and historical findings bearing on the Restoration.", "",
+             "Cumulative view: " + md.wikilink("Restoration Assessment")],
+            {"aliases": ["Restoration Evidence"]}),
         f"{FOLDER_QUESTIONS}/Questions.md": _simple_moc(
             "Questions",
             ["Serious questions deserve serious, sourced answers — strongest evidence",
@@ -623,7 +647,7 @@ Your doorway to everything — this page is yours to rearrange.
 - {md.wikilink('Gospel Topics')} — canonical dossiers
   (+ `Essays/`, `Reference/`, `True to the Faith/`, `Bible Dictionary/`, `Topical Guide/`)
 - {md.wikilink('People')} · {md.wikilink('Places')} · {md.wikilink('Events')} · {md.wikilink('Doctrines')}
-- {md.wikilink('Evidence')} — scored, honest evidence dossiers
+- {md.wikilink('Findings')} — what the reading found, honestly weighed where it is contested
 - {md.wikilink('Questions')} — hard questions, both sides sourced
 
 ## Words of the prophets & history
