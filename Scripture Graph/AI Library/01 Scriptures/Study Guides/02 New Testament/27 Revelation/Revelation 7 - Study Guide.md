@@ -23,7 +23,12 @@ Scripture: [[Revelation 7]] · My notes: [[Revelation 7 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter has two principal visions:
+
+1. **The sealed servants (verses 1–8):** Four winds are restrained, an angel commands a delay of harm, and 144,000 are enumerated as twelve thousand from each of twelve tribal groups.
+2. **The multitude before the throne (verses 9–17):** An international multitude worships God and the Lamb. An elder identifies them as those who came from great tribulation, after which their promised life before God is described.
+
+The transition from “I heard the number” (verse 4) to “I beheld” (verse 9) is important but inconclusive. It permits the numbered company and visible multitude to be read either as distinct groups or as complementary portrayals of the redeemed.
 <!-- SG:END structure -->
 
 ## People
@@ -46,20 +51,31 @@ _Not yet developed._
 - [[Revelation 22]] — 1 footnote cross-reference (from [[Revelation 7#^rev-7-3|Revelation 7:3]])
 - [[Ezekiel 48]] — 1 footnote cross-reference (from [[Revelation 7#^rev-7-5|Revelation 7:5]])
 - [[D&C 77]] — 2 parallel verses, e.g. [[Revelation 7#^rev-7-3|Revelation 7:3]] ↔ [[D&C 77#^dc-77-9|D&C 77:9]]
-- [[Revelation 21]] — 1 parallel verse, e.g. [[Revelation 7#^rev-7-17|Revelation 7:17]] ↔ [[Revelation 21#^rev-21-4|Revelation 21:4]]
+- [[Revelation 14]] — 0 parallel verses
+- [[Revelation 21]] — 0 parallel verses
+- [[Ezekiel 9]] — 0 parallel verses
+- [[Isaiah 49]] — 0 parallel verses
+- [[Isaiah 25]] — 0 parallel verses
 - [[1 Nephi 12]] — 0 parallel verses
 - [[1 Nephi 21]] — 0 parallel verses
+- [[Revelation 21]] — 0 parallel verses
+- [[Revelation 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[D&C 77]]
+- [[Jesus Christ (Gospel Topic)]]
 - [[Eternal Marriage]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
+- [[Endurance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter presents sealing as a sign of belonging to God before threatened judgment (verses 1-3). In [[D&C 77]], the 144,000 are interpreted as ordained ministers drawn from the nations and tribes to administer the everlasting gospel; this Restoration interpretation should be distinguished from claims about Revelation's first-century audience.
+
+The robes made white in the Lamb's blood portray cleansing through the [[Atonement of Jesus Christ]]. Yet the multitude has also come through great tribulation, so divine belonging is associated with final vindication rather than necessarily with exemption from suffering. Verses 15-17 portray salvation through [[Temples|temple]] service, God's presence, freedom from deprivation, the Lamb's guidance, and the removal of tears.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -84,25 +100,41 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The chapter builds meaning through contrasts: four destructive winds are held back while servants are sealed; a precisely numbered Israelite body is followed by a multitude no one can number; robes are made white through blood; and the Lamb becomes the one who feeds and leads. The repeated universal formula “nations, and kindreds, and people, and tongues” prevents the vision of Israel from being reduced to a narrowly ethnic account of final salvation.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter reuses earlier prophetic imagery. The forehead seal recalls the protective marking before judgment in [[Ezekiel 9]]. Freedom from hunger, thirst, sun, and heat and guidance to water closely parallel [[Isaiah 49]], while God's removal of tears recalls [[Isaiah 25]]. These promises recur in expanded form in [[Revelation 21]]. Together they frame the multitude through Israel's language of restoration and deliverance, without determining a single fulfillment chronology.
+
+The tribal list is also unusual: Levi is included, Dan is absent, Ephraim is absent by name, and Joseph and Manasses are both listed. Biblical tribal lists vary according to context, and Revelation gives no explicit reason for this arrangement.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Scriptural Intertextuality
+> The clustered correspondences with Isaiah—no hunger, no thirst, protection from heat, guidance to water, and the removal of tears—provide strong evidence that Revelation 7 frames final salvation through Israel's prophetic restoration language.
+> — strength 0.8 · confidence 1.0 · broadly accepted intertextual evidence · [[Scriptural Intertextuality in Revelation 7|full dossier]]
+
+> [!evidence] Literary-Numerical Pattern
+> The repeated allocation of exactly twelve thousand to each of twelve named tribal groups is strong evidence of deliberate numerical design and moderate evidence that the total carries symbolic significance.
+> — strength 0.7 · confidence 1.0 · accepted design; symbolic force remains interpretive · [[Literary-Numerical Pattern in Revelation 7|full dossier]]
+
+> [!evidence] Text-Critical / Patristic Reception History *(tentative)*
+> The absence of Dan from the list of sealed tribes has attracted scholarly attention, most often explained by later patristic tradition (e.g., Irenaeus) that associated the tribe of Dan with the Antichrist, drawing on Genesis 49:17 and Jeremiah 8:16.
+> — strength 0.2 · confidence 0.5 · disputed reception-history explanation
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Are the 144,000 and the innumerable multitude two groups, or two perspectives on one redeemed people? What textual features favor each reading?
+- What does sealing protect the servants from: physical harm, spiritual apostasy, final condemnation, or some combination?
+- Why does the tribal list include Levi and omit Dan, and why are Joseph and Manasses both named while Ephraim is not named?
+- How does the Lamb's double role as sacrifice and shepherd deepen the chapter's portrayal of salvation?
+- Why does the vision describe the redeemed primarily through worship, service, divine presence, and relief from suffering?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the sealing vision with [[Ezekiel 9]] and the 144,000 with [[Revelation 14]]. Read the closing promises alongside [[Isaiah 49]], [[Isaiah 25]], and [[Revelation 21]]. [[D&C 77]] offers a distinct Restoration interpretation of the angels, sealing, tribes, priesthood calling, and administration of the everlasting gospel.
 <!-- SG:END further-study -->
