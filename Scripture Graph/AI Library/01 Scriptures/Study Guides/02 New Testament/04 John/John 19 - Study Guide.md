@@ -23,7 +23,12 @@ Scripture: [[John 19]] · My notes: [[John 19 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Scourging and royal mockery (19:1–5):** Jesus receives a crown, purple robe, and mocking acclamation.
+2. **Final dispute before Pilate (19:6–16):** the accusations move from Son of God language to political pressure involving Caesar.
+3. **Crucifixion and royal inscription (19:17–24):** Jesus is crucified, publicly titled king, and his garments are divided.
+4. **Relationships and completion at the cross (19:25–30):** Jesus provides for his mother and declares, "It is finished."
+5. **Piercing, witness, and fulfillment (19:31–37):** his legs remain unbroken, his side is pierced, and the narrator invokes scripture and testimony.
+6. **Burial (19:38–42):** Joseph and Nicodemus prepare the body and place it in a new nearby tomb.
 <!-- SG:END structure -->
 
 ## People
@@ -49,19 +54,30 @@ _Not yet developed._
 - [[D&C 45]] — 2 footnote cross-references (from [[John 19#^john-19-3|John 19:3]])
 - [[Mosiah 14]] — 2 footnote cross-references (from [[John 19#^john-19-4|John 19:4]])
 - [[John 1]] — 2 footnote cross-references (from [[John 19#^john-19-35|John 19:35]])
+- [[Matthew 27]] — 0 parallel verses
+- [[Mark 15]] — 0 parallel verses
+- [[Luke 23]] — 0 parallel verses
 - [[Exodus 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Crucifixion of Jesus Christ]]
+- [[Government and Laws]]
+- [[John 3]]
+- [[Passover]]
+- [[Prophecy]]
+- [[Jesus Christ (Gospel Topic)]]
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+John 19:11 resists two opposite simplifications. Pilate's power is neither autonomous nor morally neutral: it is permitted "from above," yet Jesus still speaks of comparative sin. Divine sovereignty therefore does not erase human agency or accountability.
+
+The words "all things were now accomplished" and "It is finished" present the death of Jesus as completion. Read with the chapter's repeated fulfillment formulas, the crucifixion belongs to a larger scriptural purpose. This supports study of [[Atonement of Jesus Christ]] and [[Crucifixion of Jesus Christ]], while the chapter itself does not spell out a complete theory of how the Atonement operates.
+
+Jesus' words to his mother and the beloved disciple make practical care for another person part of the cross scene. The passage is directly relevant to [[Family]] and [[Service]], even though broader claims that it formally institutes a universal spiritual motherhood go beyond what the verses explicitly say.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -91,25 +107,57 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The designation "the Jews" should be read with attention to the immediate actors. John 19 repeatedly specifies chief priests and officers, and the decisive declaration "We have no king but Cæsar" is attributed to the chief priests. The narrative should not be generalized into collective guilt for Jewish people across places and generations; Jesus, his mother, his disciples, and the earliest Christian witnesses are themselves Jewish.
+
+"From above" in 19:11 echoes John's characteristic contrast between heavenly source and earthly pretension. In context, it limits Pilate's boast without absolving him.
+
+The Greek, Latin, and Hebrew forms of the inscription underscore the public setting of the execution. The text explicitly reports the languages; further claims that they symbolize a mission to every nation are possible interpretations rather than stated explanations.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Royal irony organizes much of the chapter. The soldiers' crown, robe, and greeting intend humiliation, while Pilate's presentations—"Behold the man" and "Behold your King"—and the unaltered inscription repeatedly announce Jesus' identity. The chief priests' confession of Caesar as their only king intensifies the irony.
+
+Fulfillment formulas bind ordinary actions to Israel's scriptures: soldiers divide garments ([[Psalm 22]]), Jesus' bones remain unbroken, and his side is pierced ([[Zechariah 12]]). The unbroken-bones formula may combine Passover legislation with [[Psalm 34]], so its scriptural background should not be reduced with certainty to only one text.
+
+The sequence from "accomplished" to "fulfilled" to "finished" gives the death scene a strong sense of narrative completion. John 19:35 then pauses the action to address the reliability and intended effect of testimony: "that ye might believe."
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Chronological Consistency
+> John 19:14 places Jesus still before Pilate, not yet crucified, 'about the sixth hour' on the day of preparation, whereas Mark 15:25 states Jesus was crucified at 'the third hour.' This three-hour discrepancy between the two Gospels' internal clocks is a long-recognized harmonization problem with no settled scholarly resolution.
+> — strength 0.5 · confidence 0.9 · accepted textual tension; proposed resolutions disputed · [[Internal Chronological Consistency in John 19|full dossier]]
+
+> [!evidence] Parallel-Narrative Chronology
+> John places Pilate's presentation of Jesus at about the sixth hour, whereas Mark 15:25 assigns the crucifixion to the third hour. The surface difference is a genuine chronological difficulty, although approximate expressions, different timekeeping conventions, or different events being timed may affect the comparison.
+> — strength 0.5 · confidence 1.0 · accepted textual difficulty; resolution disputed · [[Parallel-Narrative Chronology in John 19|full dossier]]
+
+> [!evidence] Internal Eyewitness Attestation
+> John 19:35 contains an explicit internal claim that an eyewitness truthfully testified about the pierced side so that readers might believe. This is meaningful evidence that the narrative presents the report as grounded in testimony, but internal self-attestation alone cannot identify the witness or independently verify the event.
+> — strength 0.5 · confidence 1.0 · internal attestation accepted; external verification unresolved · [[Internal Eyewitness Attestation in John 19|full dossier]]
+
+> [!evidence] Scriptural And Narrative Convergence
+> John's repeated Passover-preparation setting and his fulfillment statement about unbroken bones strongly support reading the death scene through Passover imagery. This is a substantial literary-theological connection, though the precise scriptural source of John 19:36 and the intended extent of the lamb typology remain debated.
+> — strength 0.7 · confidence 0.9 · substantial theological pattern; extent disputed · [[Scriptural And Narrative Convergence in John 19|full dossier]]
+
+> [!evidence] Historical Verisimilitude *(tentative)*
+> John notes the placard over the cross was written in Hebrew, Greek, and Latin (19:20), a detail consistent with the known multilingual administrative environment of Roman Judea; this is sometimes cited as evidence of close, possibly eyewitness, familiarity with the scene, though that inference is weak on its own.
+> — strength 0.2 · confidence 0.7 · textual detail certain; historical inference weak
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+1. Why does the threat that Pilate may not be "Cæsar's friend" succeed after his repeated declarations that Jesus is faultless?
+2. How do the mock royal symbols change when read beside the title Pilate refuses to alter?
+3. Who is "he that delivered me unto thee" in 19:11, and why does that person bear the "greater sin"?
+4. Does the unbroken-bones citation chiefly evoke the Passover lamb, the righteous sufferer of Psalm 34, or both?
+5. What can John 19:35 establish about testimony, and what remains unknown about the witness's identity?
+6. How should John's "about the sixth hour" be compared with the third-hour statement in [[Mark 15]]?
+7. Does 19:25 list three women or four, and how does the punctuation or identification of the mother's sister affect the reading?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the developing trial in [[John 18]] with the political climax in [[John 19]]. Then compare the passion parallels in [[Matthew 27]], [[Mark 15]], and [[Luke 23]], noting both shared events and differences in timing, sayings from the cross, and burial details. For scriptural background, examine [[Psalm 22]], [[Psalm 34]], [[Exodus 12]], and [[Zechariah 12]]. Follow the garden tomb into [[John 20]], where the burial setting becomes essential to the resurrection account and the doctrine of [[Resurrection]].
 <!-- SG:END further-study -->
