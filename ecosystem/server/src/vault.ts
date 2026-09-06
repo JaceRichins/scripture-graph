@@ -37,7 +37,7 @@ function walk(root: string, rel: string, out: ManifestEntry[]): void {
   for (const name of names) {
     const r = rel ? posix.join(rel, name) : name;
     if (!rel && EXCLUDED_TOP.has(name)) continue;
-    if (r === ".obsidian" || (r.startsWith(".obsidian/") && !(r + "/").startsWith(OBSIDIAN_ALLOWED) && !OBSIDIAN_ALLOWED.startsWith(r + "/"))) continue;
+    if (r.startsWith(".obsidian/") && !(r + "/").startsWith(OBSIDIAN_ALLOWED) && !OBSIDIAN_ALLOWED.startsWith(r + "/")) continue;
     let st;
     try { st = statSync(join(root, r)); } catch { continue; }
     if (st.isDirectory()) { walk(root, r, out); continue; }
