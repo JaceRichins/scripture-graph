@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **740 BC–700 BC** — Isaiah's oracle against Egypt delivered · [[Isaiah 19]] · [[800-701 BC]] *(traditional dating)*
+- **705 BC–701 BC** — Judah's Egypt Alliance and the Assyrian Crisis under Hezekiah · [[Isaiah 30]] · [[800-701 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

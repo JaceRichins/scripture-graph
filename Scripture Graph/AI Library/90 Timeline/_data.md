@@ -11666,6 +11666,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-isa-30-d674449a",
+   "t": "Judah's Egypt Alliance and the Assyrian Crisis under Hezekiah",
+   "y0": -705,
+   "y1": -701,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Traditional dating tied to Hezekiah's reign and the Assyrian threat from Sennacherib, correlated with 2 Kings 18-19 and Isaiah's parallel oracles against alliance with Egypt (Isaiah 30-31).",
+   "chapters": [
+    "Isaiah 30"
+   ],
+   "people": [
+    "Isaiah",
+    "Hezekiah",
+    "Pharaoh"
+   ],
+   "places": [
+    "Jerusalem",
+    "Egypt"
+   ]
+  },
+  {
    "id": "r-isa-37-3b639de5",
    "t": "Assassination of Sennacherib at Nineveh",
    "y0": -681,
@@ -11715,6 +11742,53 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-isa-40-1fd46f98",
+   "t": "Deutero-Isaiah composed near end of Babylonian exile (critical view)",
+   "y0": -550,
+   "y1": -539,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Mainstream critical scholarship: text addresses an audience already in exile, prior to Cyrus's 539 BCE decree; disputed by traditional single-authorship readings.",
+   "chapters": [
+    "Isaiah 40"
+   ],
+   "people": [
+    "Isaiah (disputed sole authorship)"
+   ],
+   "places": [
+    "Babylon",
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-isa-40-911fee53",
+   "t": "Isaiah of Jerusalem, single prophetic authorship (traditional view)",
+   "y0": -740,
+   "y1": -700,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional and Latter-day Saint view: Isaiah son of Amoz, active in 8th-century Jerusalem, authored the entire book including ch. 40 as predictive prophecy.",
+   "chapters": [
+    "Isaiah 40"
+   ],
+   "people": [
+    "Isaiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-isa-42-41e3c751",
    "t": "Proposed exilic setting for Isaiah 40-55",
    "y0": -550,
@@ -11730,6 +11804,31 @@ timeline module, not this file._
    "note": "Many historical-critical scholars attribute chapters 40-55 to an anonymous exilic-era prophetic voice addressing Judean captives shortly before Cyrus's decree ending the Babylonian exile.",
    "chapters": [
     "Isaiah 42"
+   ]
+  },
+  {
+   "id": "r-isa-44-579a6c5a",
+   "t": "Cyrus the Great's decree ending the Babylonian exile",
+   "y0": -539,
+   "y1": -538,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Cyrus's conquest of Babylon (539 BC) and subsequent decree permitting exiles to return and rebuild the temple are attested in 2 Chronicles 36:22-23 and Ezra 1:1-4, and corroborated by the Cyrus Cylinder.",
+   "chapters": [
+    "Isaiah 44"
+   ],
+   "people": [
+    "Cyrus"
+   ],
+   "places": [
+    "Jerusalem",
+    "Babylon"
    ]
   },
   {
