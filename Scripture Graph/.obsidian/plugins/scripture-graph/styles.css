@@ -884,7 +884,7 @@ body.sg-selecting .sg-nav-fab { display: none; } /* never crowd the StudyBar */
   -webkit-user-select: none; user-select: none;
 }
 body.sg-back-on .sg-back-pill { display: block; line-height: 42px; }
-body.sg-selecting .sg-back-pill { display: none; }
+body.sg-selecting .sg-back-pill, body.sg-lib-open .sg-back-pill { display: none; }
 .sg-back-pill:active { transform: scale(0.95); }
 
 /* ---------- 📖 the Navigator, restyled: Robinhood meets Obsidian ----------
@@ -1142,38 +1142,176 @@ body.sg-selecting .sg-back-pill { display: none; }
 .sg-nav-cover { cursor: pointer; min-width: 0; }
 .sg-nav-cover-art {
   position: relative; aspect-ratio: 5 / 7;
-  border-radius: 12px; overflow: hidden;
+  border-radius: 10px 12px 12px 10px; overflow: hidden;
   display: grid; place-items: center;
+  /* cloth: the section's hue deepening toward the foot; a spine crease down
+   * the left edge; a sheen across the face; a fine diagonal weave */
   background:
+    linear-gradient(90deg, rgba(255,255,255,0.16) 0, rgba(255,255,255,0) 7%,
+      rgba(0,0,0,0.30) 8%, rgba(0,0,0,0) 13%),
+    linear-gradient(112deg, rgba(255,255,255,0.10) 0%, rgba(255,255,255,0.03) 28%, transparent 46%),
+    repeating-linear-gradient(45deg, rgba(255,255,255,0.028) 0 1.5px, transparent 1.5px 4px),
     radial-gradient(90% 60% at 50% 0%,
-      color-mix(in srgb, var(--ico, #888) 26%, transparent), transparent 70%),
-    linear-gradient(165deg,
-      color-mix(in srgb, var(--ico, #888) 30%, #14141f),
-      color-mix(in srgb, var(--ico, #888) 10%, #0d0d16) 55%,
-      #0a0a12);
-  border: 1px solid color-mix(in srgb, var(--ico, #888) 30%, transparent);
+      color-mix(in srgb, var(--ico, #888) 34%, transparent), transparent 72%),
+    linear-gradient(168deg,
+      color-mix(in srgb, var(--ico, #888) 44%, #1a1a2c),
+      color-mix(in srgb, var(--ico, #888) 22%, #12121f) 52%,
+      color-mix(in srgb, var(--ico, #888) 10%, #0b0b14));
+  border: 1px solid color-mix(in srgb, var(--ico, #888) 42%, rgba(255,255,255,0.08));
+  /* the gilt frame stamped a few px inside the edge */
+  outline: 1px solid color-mix(in srgb, var(--ico, #888) 52%, rgba(255,255,255,0.10));
+  outline-offset: -7px;
   box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.1),
-    0 8px 22px rgba(0, 0, 0, 0.35);
+    inset 0 1px 0 rgba(255, 255, 255, 0.14),
+    inset 0 -14px 24px rgba(0, 0, 0, 0.35),
+    0 10px 24px rgba(0, 0, 0, 0.42),
+    0 2px 0 -1px color-mix(in srgb, var(--ico, #888) 22%, rgba(0,0,0,0.6));
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
+/* the motif pressed into the cloth, faint, behind the emblem */
+.sg-nav-cover-art::after {
+  content: ""; position: absolute; inset: 7px; border-radius: 6px;
+  pointer-events: none; opacity: 0.55;
+  --m: color-mix(in srgb, var(--ico, #888) 55%, transparent);
+  --m2: color-mix(in srgb, var(--ico, #888) 22%, transparent);
+  mask-image: linear-gradient(180deg, rgba(0,0,0,0.9), rgba(0,0,0,0.35));
+  -webkit-mask-image: linear-gradient(180deg, rgba(0,0,0,0.9), rgba(0,0,0,0.35));
+}
+.sg-nav-cover-art[data-motif="timeline"]::after {
+  background:
+    repeating-linear-gradient(180deg, var(--m2) 0 1px, transparent 1px 14px),
+    radial-gradient(circle at 50% 22%, var(--m) 2px, transparent 3px),
+    radial-gradient(circle at 50% 50%, var(--m) 2px, transparent 3px),
+    radial-gradient(circle at 50% 78%, var(--m) 2px, transparent 3px),
+    linear-gradient(90deg, transparent 49%, var(--m2) 49% 51%, transparent 51%);
+}
+.sg-nav-cover-art[data-motif="graph"]::after {
+  background:
+    radial-gradient(circle at 22% 24%, var(--m) 1.6px, transparent 2.6px),
+    radial-gradient(circle at 74% 18%, var(--m) 1.3px, transparent 2.3px),
+    radial-gradient(circle at 82% 62%, var(--m) 1.8px, transparent 2.8px),
+    radial-gradient(circle at 30% 70%, var(--m) 1.3px, transparent 2.3px),
+    radial-gradient(circle at 58% 86%, var(--m) 1.5px, transparent 2.5px),
+    radial-gradient(circle at 50% 44%, var(--m) 1.2px, transparent 2.2px),
+    linear-gradient(28deg, transparent 47%, var(--m2) 47% 48%, transparent 48%),
+    linear-gradient(-40deg, transparent 58%, var(--m2) 58% 59%, transparent 59%),
+    linear-gradient(70deg, transparent 30%, var(--m2) 30% 31%, transparent 31%);
+}
+.sg-nav-cover-art[data-motif="hub"]::after {
+  background:
+    repeating-linear-gradient(90deg, rgba(255,255,255,0.05) 0 1px, transparent 1px 6px),
+    radial-gradient(70% 40% at 50% 100%, var(--m2), transparent 70%);
+}
+.sg-nav-cover-art[data-motif="question"]::after {
+  background:
+    radial-gradient(circle at 50% 38%, transparent 26%, var(--m2) 27% 29%, transparent 30%),
+    radial-gradient(circle at 50% 38%, transparent 34%, var(--m2) 35% 36%, transparent 37%),
+    repeating-radial-gradient(circle at 50% 120%, var(--m2) 0 1px, transparent 1px 12px);
+}
+.sg-nav-cover-art[data-motif="conference"]::after {
+  background:
+    repeating-radial-gradient(circle at 50% 52%, var(--m2) 0 1px, transparent 1px 9px),
+    radial-gradient(circle at 50% 52%, var(--m) 0 3px, transparent 4px);
+}
+.sg-nav-cover-art[data-motif="dictionary"]::after {
+  background:
+    repeating-linear-gradient(180deg, var(--m2) 0 1px, transparent 1px 7px),
+    linear-gradient(90deg, transparent 18%, var(--m) 18% 19%, transparent 19%);
+}
+.sg-nav-cover-art[data-motif="topics"]::after {
+  background:
+    repeating-linear-gradient(45deg, var(--m2) 0 1px, transparent 1px 11px),
+    repeating-linear-gradient(-45deg, var(--m2) 0 1px, transparent 1px 11px);
+}
+.sg-nav-cover-art[data-motif="person"]::after {
+  background:
+    radial-gradient(circle at 50% 30%, var(--m2) 0 12%, transparent 13%),
+    radial-gradient(ellipse 40% 26% at 50% 66%, var(--m2) 0 98%, transparent 100%),
+    repeating-linear-gradient(90deg, rgba(255,255,255,0.03) 0 1px, transparent 1px 5px);
+}
+.sg-nav-cover-art[data-motif="place"]::after {
+  background:
+    repeating-radial-gradient(ellipse 60% 40% at 38% 58%, var(--m2) 0 1px, transparent 1px 9px),
+    repeating-radial-gradient(ellipse 50% 34% at 72% 30%, var(--m2) 0 1px, transparent 1px 8px);
+}
+.sg-nav-cover-art[data-motif="event"]::after {
+  background:
+    repeating-conic-gradient(from 0deg at 50% 46%, var(--m2) 0 2deg, transparent 2deg 15deg),
+    radial-gradient(circle at 50% 46%, var(--m) 0 4px, transparent 5px);
+}
+.sg-nav-cover-art[data-motif="doctrines"]::after {
+  background:
+    linear-gradient(90deg, transparent 49%, var(--m2) 49% 51%, transparent 51%),
+    linear-gradient(180deg, transparent 38%, var(--m2) 38% 40%, transparent 40%),
+    repeating-linear-gradient(180deg, rgba(255,255,255,0.03) 0 1px, transparent 1px 6px);
+}
+.sg-nav-cover-art[data-motif="papers"]::after {
+  background:
+    repeating-linear-gradient(178deg, var(--m2) 0 1px, transparent 1px 9px),
+    linear-gradient(90deg, transparent 22%, var(--m) 22% 22.6%, transparent 22.6%);
+  mask-image: linear-gradient(180deg, transparent 12%, rgba(0,0,0,0.9) 30%, rgba(0,0,0,0.5) 90%);
+  -webkit-mask-image: linear-gradient(180deg, transparent 12%, rgba(0,0,0,0.9) 30%, rgba(0,0,0,0.5) 90%);
+}
+.sg-nav-cover-art[data-motif="history"]::after {
+  background:
+    repeating-linear-gradient(-30deg, var(--m2) 0 1px, transparent 1px 10px),
+    radial-gradient(60% 50% at 50% 100%, var(--m2), transparent 70%);
+}
+.sg-nav-cover-art[data-motif="evidence"]::after {
+  background:
+    radial-gradient(circle at 50% 46%, transparent 28%, var(--m) 29% 30%, transparent 31%),
+    radial-gradient(circle at 12% 12%, var(--m2) 0.8px, transparent 1.6px) 0 0 / 12px 12px;
+}
+.sg-nav-cover-art[data-motif="scholarship"]::after {
+  background:
+    repeating-linear-gradient(60deg, var(--m2) 0 1px, transparent 1px 12px),
+    repeating-linear-gradient(-60deg, var(--m2) 0 1px, transparent 1px 12px);
+}
+.sg-nav-cover-art[data-motif="podcast"]::after {
+  background:
+    linear-gradient(180deg, transparent 40%, var(--m) 40% 60%, transparent 60%) 10% 0 / 6% 100% no-repeat,
+    linear-gradient(180deg, transparent 30%, var(--m) 30% 70%, transparent 70%) 22% 0 / 6% 100% no-repeat,
+    linear-gradient(180deg, transparent 22%, var(--m) 22% 78%, transparent 78%) 34% 0 / 6% 100% no-repeat,
+    linear-gradient(180deg, transparent 36%, var(--m) 36% 64%, transparent 64%) 46% 0 / 6% 100% no-repeat,
+    linear-gradient(180deg, transparent 18%, var(--m) 18% 82%, transparent 82%) 58% 0 / 6% 100% no-repeat,
+    linear-gradient(180deg, transparent 32%, var(--m) 32% 68%, transparent 68%) 70% 0 / 6% 100% no-repeat,
+    linear-gradient(180deg, transparent 42%, var(--m) 42% 58%, transparent 58%) 82% 0 / 6% 100% no-repeat;
+  opacity: 0.35;
+}
+.sg-nav-cover-art[data-motif="page"]::after,
+.sg-nav-cover-art[data-motif="folder"]::after {
+  background: repeating-linear-gradient(180deg, var(--m2) 0 1px, transparent 1px 8px);
+}
+.sg-nav-cover-art[data-motif="jacket"]::after { display: none; }
 .sg-nav-cover:hover .sg-nav-cover-art {
   transform: translateY(-3px);
   box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.14),
-    0 12px 30px rgba(0, 0, 0, 0.45),
-    0 0 26px color-mix(in srgb, var(--ico, #888) 26%, transparent);
+    inset 0 1px 0 rgba(255, 255, 255, 0.16),
+    inset 0 -14px 24px rgba(0, 0, 0, 0.35),
+    0 14px 32px rgba(0, 0, 0, 0.5),
+    0 0 28px color-mix(in srgb, var(--ico, #888) 30%, transparent);
 }
 .sg-nav-cover:active .sg-nav-cover-art { transform: scale(0.965); }
-/* the emblem: big, luminous, backlit on the jacket */
+/* the emblem: a foil medallion — ring, dished ground, the glyph glowing */
 .sg-nav-cover-art .sg-nav-ico {
-  width: 100%; height: 100%; flex: none;
+  width: 100%; height: 100%; flex: none; position: relative; z-index: 1;
   background: transparent; box-shadow: none;
 }
 .sg-nav-cover-art .sg-nav-ico svg {
-  width: 42%; height: 42%;
-  filter: drop-shadow(0 0 14px color-mix(in srgb, var(--ico, #888) 60%, transparent));
+  width: 40%; height: 40%; padding: 9%; box-sizing: content-box;
+  border-radius: 50%;
+  background:
+    radial-gradient(circle at 50% 40%, color-mix(in srgb, var(--ico, #888) 26%, transparent), transparent 72%),
+    radial-gradient(circle at 50% 50%, rgba(0,0,0,0.28), rgba(0,0,0,0.08) 70%, transparent 71%);
+  border: 1px solid color-mix(in srgb, var(--ico, #888) 62%, rgba(255,255,255,0.14));
+  box-shadow:
+    0 0 0 3px color-mix(in srgb, var(--ico, #888) 14%, transparent),
+    inset 0 1px 0 rgba(255,255,255,0.18),
+    0 6px 14px rgba(0,0,0,0.35);
+  filter: drop-shadow(0 0 12px color-mix(in srgb, var(--ico, #888) 70%, transparent));
 }
+.sg-cover-jacket { outline: 1px solid rgba(217, 192, 122, 0.45); outline-offset: -7px; }
+.sg-cover-jacket::after { display: none; }
 .sg-nav-cover-label {
   margin-top: 7px; text-align: center;
   font-size: 0.78em; font-weight: 600; line-height: 1.25;

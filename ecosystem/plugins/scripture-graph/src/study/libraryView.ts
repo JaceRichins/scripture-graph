@@ -90,11 +90,14 @@ export class SGLibraryView extends ItemView {
 
   async onOpen(): Promise<void> {
     this.contentEl.addClass("sg-libpage");
+    // the "‹ <chapter>" pill has a Continue card here already; off the title
+    document.body.addClass("sg-lib-open");
     this.render();
   }
 
   async onClose(): Promise<void> {
     if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
+    document.body.removeClass("sg-lib-open");
     this.contentEl.empty();
   }
 
@@ -191,6 +194,8 @@ export class SGLibraryView extends ItemView {
     card.style.setProperty("--ico", hue);
     const art = card.createDiv({ cls: "sg-nav-cover-art" });
     if (opts.jacket) art.addClass(opts.jacket);
+    // the motif pressed into the cloth is the section's own (styles.css)
+    art.dataset["motif"] = opts.jacket ? "jacket" : (opts.icon ?? "page");
     art.style.setProperty("--ico", hue);
     if (opts.lines) {
       const stack = art.createDiv({ cls: "sg-cover-lines" });

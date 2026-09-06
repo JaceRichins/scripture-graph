@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.7 build e43f9532 2026-09-06T16:15:11Z */
+/* scripture-graph v0.65.8 build 84415079 2026-09-06T16:21:49Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.7", sha: "e43f9532", at: "2026-09-06T16:15:11Z" };
+    define_SG_BUILD_default = { version: "0.65.8", sha: "84415079", at: "2026-09-06T16:21:49Z" };
   }
 });
 
@@ -12395,10 +12395,12 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   }
   async onOpen() {
     this.contentEl.addClass("sg-libpage");
+    document.body.addClass("sg-lib-open");
     this.render();
   }
   async onClose() {
     if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
+    document.body.removeClass("sg-lib-open");
     this.contentEl.empty();
   }
   /** every drill-down is a history step: the tab's own back stack gets the
@@ -12474,6 +12476,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     card.style.setProperty("--ico", hue);
     const art = card.createDiv({ cls: "sg-nav-cover-art" });
     if (opts.jacket) art.addClass(opts.jacket);
+    art.dataset["motif"] = opts.jacket ? "jacket" : opts.icon ?? "page";
     art.style.setProperty("--ico", hue);
     if (opts.lines) {
       const stack = art.createDiv({ cls: "sg-cover-lines" });
