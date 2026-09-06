@@ -1,5 +1,40 @@
 # Engineering Decisions Log
 
+## 2026-09-06 -- What Gospel Library does that we did not (closed in one pass)
+
+Ranked by payoff over difficulty (languages scored zero by the owner's
+call), and everything under difficulty seven built the same day, plugin
+v0.69.0-0.70.1:
+
+- **Footnotes on the verse.** `vaultgen/footnotes.py` writes one note per
+  chapter from `chapter_apparatus` (already fetched for all 1,584); the
+  reader shows a superscript chip; the sheet peeks each reference.
+- **Share a verse** through the phone's share sheet.
+- **Hymns.** `corpus/hymns.py` indexes the 341 hymns from the Gospel Library
+  API -- titles, numbers, the Church's own recordings on its public assets
+  host -- into one note; the shelf streams the recording and links Spotify,
+  Apple Music, YouTube and the hymn's page. No lyrics or music stored.
+- **Come, Follow Me.** The year's manual is a glib collection
+  (`cfm-<year>`); `corpus/cfm.py` writes the week index; the home page shows
+  this week with its chapters and the lesson.
+- **Reading settings** as one sheet (size, spacing, typeface, width, scene,
+  dock), CSS variables on the body.
+- **Library search on the phone.** The family server opens the engine
+  database read-only (`SG_ENGINE_DB`) and answers `/search` from
+  `chunks_fts` (358k passages); the Library search shows passages with
+  snippets beneath the local results. Home Wi-Fi (or remote access) only,
+  by design -- the phone never carries the index.
+- **Real audio.** Listen on a talk, Teachings chapter or lesson plays the
+  Church's recording (the API's `audio.mediaUrl`); scripture keeps the
+  phone's voice.
+- **Notebooks** are the study themes read as a journal, plus Notes and
+  Highlights, with an export to `Library/Study Journal.md`.
+- **A Home badge** for a new insight day or Come Follow Me week;
+  keyboard/screen-reader roles on rows and covers; reduced motion honoured.
+
+Not built, by decision: languages (payoff 0), Church-account sync (ours is
+the family server), hymn lyrics/music (copyright), push notifications.
+
 ## 2026-09-06 -- Words of the Prophets
 
 **The shelf is "Words of the Prophets", not "Joseph Smith Papers".** The
