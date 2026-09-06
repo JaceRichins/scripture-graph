@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.13 build c2e9780c 2026-09-06T16:58:17Z */
+/* scripture-graph v0.65.14 build e3fdcb44 2026-09-06T16:58:39Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.13", sha: "c2e9780c", at: "2026-09-06T16:58:17Z" };
+    define_SG_BUILD_default = { version: "0.65.14", sha: "e3fdcb44", at: "2026-09-06T16:58:39Z" };
   }
 });
 
@@ -8452,7 +8452,7 @@ var init_timelineView = __esm({
                 if (d !== 3) return;
                 this.depth = this.depthBefore;
               } else {
-                if (d === 3) this.depthBefore = this.depth;
+                if (d === 3) this.depthBefore = this.depth === 3 ? 2 : this.depth;
                 this.depth = d;
               }
               this.saveDepth();

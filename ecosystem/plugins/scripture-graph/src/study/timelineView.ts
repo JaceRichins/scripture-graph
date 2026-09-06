@@ -468,7 +468,7 @@ export class TimelineView extends ItemView {
             if (d !== 3) return;
             this.depth = this.depthBefore;
           } else {
-            if (d === 3) this.depthBefore = this.depth;
+            if (d === 3) this.depthBefore = this.depth === 3 ? 2 : this.depth;
             this.depth = d;
           }
           this.saveDepth();
