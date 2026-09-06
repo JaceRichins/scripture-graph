@@ -23,7 +23,14 @@ Scripture: [[Luke 12]] · My notes: [[Luke 12 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+The chapter can be read as five thematically linked units — topical groupings rather than explicit textual headings; whether Jesus moved between them in one setting or Luke gathered originally separate sayings is not settled by the text itself:
+- **vv1-12** — Warning against hypocrisy; fear God rather than man; confessing Christ; the unpardonable nature of blasphemy against the Holy Ghost; the promise that the Holy Ghost will teach disciples what to say under persecution (shares substantial material with [[Matthew 10]]; cf. [[Matthew 12]], D&C 84).
+- **vv13-21** — An inheritance dispute prompts a warning against covetousness and the Parable of the Rich Fool.
+- **vv22-34** — Anxiety about provision answered by trust in providence (ravens, lilies) and the call to seek the kingdom first (close parallel to [[Matthew 6]] and 3 Nephi 13).
+- **vv35-48** — Parables of watchfulness (waiting servants, the thief in the night) and Peter's question, answered with the parable of the faithful and evil steward (parallels [[Matthew 24]] and Joseph Smith—Matthew 1).
+- **vv49-59** — Jesus's coming suffering ('baptism'), the division his mission brings (echoing the family-conflict imagery of Micah 7:6), and closing calls to discern the times and settle disputes quickly.
+
+The repetition of 'hypocrite(s)' near the opening (v1) and again near the close (v56) is a notable verbal echo, though 'hypocrite' is common vocabulary across the Synoptics and the echo may be coincidental rather than a deliberately designed bracket.
 <!-- SG:END structure -->
 
 ## People
@@ -45,28 +52,37 @@ _Not yet developed._
 - [[2 Nephi 9]] — 2 footnote cross-references (from [[Luke 12#^luke-12-34|Luke 12:34]])
 - [[Proverbs 28]] — 1 footnote cross-reference (from [[Luke 12#^luke-12-2|Luke 12:2]])
 - [[D&C 1]] — 1 footnote cross-reference (from [[Luke 12#^luke-12-3|Luke 12:3]])
-- [[Matthew 6]] — 7 parallel verses, e.g. [[Luke 12#^luke-12-22|Luke 12:22]] ↔ [[Matthew 6#^matt-6-25|Matthew 6:25]]
 - [[3 Nephi 13]] — 6 parallel verses, e.g. [[Luke 12#^luke-12-22|Luke 12:22]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
-- [[Matthew 24]] — 5 parallel verses, e.g. [[Luke 12#^luke-12-39|Luke 12:39]] ↔ [[Matthew 24#^matt-24-43|Matthew 24:43]]
 - [[Joseph Smith—Matthew 1]] — 5 parallel verses, e.g. [[Luke 12#^luke-12-43|Luke 12:43]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-50|Joseph Smith—Matthew 1:50]]
-- [[Matthew 10]] — 4 parallel verses, e.g. [[Luke 12#^luke-12-2|Luke 12:2]] ↔ [[Matthew 10#^matt-10-26|Matthew 10:26]]
-- [[Matthew 12]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-10|Luke 12:10]] ↔ [[Matthew 12#^matt-12-32|Matthew 12:32]]
-- [[Matthew 16]] — 3 parallel verses, e.g. [[Luke 12#^luke-12-56|Luke 12:56]] ↔ [[Matthew 16#^matt-16-3|Matthew 16:3]]
-- [[Matthew 5]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-58|Luke 12:58]] ↔ [[Matthew 5#^matt-5-25|Matthew 5:25]]
 - [[D&C 84]] — 2 parallel verses, e.g. [[Luke 12#^luke-12-29|Luke 12:29]] ↔ [[D&C 84#^dc-84-81|D&C 84:81]]
-- [[Micah 7]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-53|Luke 12:53]] ↔ [[Micah 7#^micah-7-6|Micah 7:6]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-29|Luke 12:29]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
-- [[D&C 35]] — 0 parallel verses
+- [[Matthew 12]] — 0 parallel verses
+- [[Matthew 6]] — 0 parallel verses
+- [[Micah 7]] — 0 parallel verses
+- [[Matthew 10]] — 0 parallel verses
+- [[Matthew 5]] — 0 parallel verses
+- [[Matthew 24]] — 0 parallel verses
+- [[3 Nephi 13]] — 0 parallel verses
+- [[Matthew 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Parables of Jesus]]
+- [[Kingdom of God]]
+- [[Final Judgment]]
 - [[Second Coming of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Signs of the Times]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+- **Divine providence and freedom from anxiety** (12:6-7, 22-31): God's care extends to sparrows and to the hairs of one's head; disciples are told to prioritize the kingdom of God over anxious striving for material needs.
+- **Confession and denial of Christ** (12:8-9): a reciprocal principle — as a disciple treats Christ before others, so Christ will treat that disciple before the angels of God.
+- **Blasphemy against the Holy Ghost** (12:10): set apart as unforgivable in a way that speaking against the Son of Man is not, though the chapter does not itself define what conduct constitutes that offense.
+- **Stewardship and proportional accountability** (12:42-48): those entrusted with more will be held to a stricter accounting — 'unto whomsoever much is given, of him shall be much required' — while ignorance mitigates but does not eliminate consequences (v48).
+- **The disruptive cost of discipleship** (12:49-53): responses to Jesus's mission are shown to divide even households, rather than only bringing comfort.
+- **Watchfulness for the Second Coming** (12:35-40): readiness, expressed through vigilance and faithful service, is the repeated counsel rather than calculation of the exact hour.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -97,17 +113,29 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Several contrasts organize the chapter: hidden/light, killing the body/divine judgment, earthly abundance/life, barns/heavenly treasure, anxiety/the Father's knowledge, sleeping readiness/watchfulness, faithful care/abuse, and weather discernment/spiritual failure. The rich man speaks only to himself and about his own goods and ease (vv. 17–19), a concentration of self-reference that fits the concluding description of treasure laid up “for himself” (v. 21). The readiness section reverses ordinary status expectations when the returning lord serves the vigilant servants (v. 37).
+
+The parallels in [[Matthew 6]], [[Matthew 10]], and [[Matthew 24]] are extensive, but their teachings appear in different literary settings. Comparison can clarify each evangelist's arrangement without, by itself, settling which form is earliest.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual Parallel
+> Luke 12:22–34 has a substantial verbal and thematic parallel in Matthew 6:19–34 and 3 Nephi 13:19–34, including heavenly treasure, anxiety about food and clothing, birds, lilies, and seeking God's kingdom.
+> — strength 0.9 · confidence 1.0 · strong, index-verified parallel · [[Textual Parallel in Luke 12|full dossier]]
+
+> [!evidence] Literary/Compositional *(tentative)*
+> Luke 12 reads as a topical anthology of originally distinct sayings and parables (hypocrisy, fear, inheritance dispute, rich fool, providence, watchfulness, division, discernment, legal settlement) loosely strung together by catchwords and thematic proximity rather than as a single continuous sermon delivered on one occasion.
+> — strength 0.5 · confidence 0.6 · disputed compositional theory, no critical sources cited
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Does “him” in Luke 12:5 refer to God, the devil, or another agent? What features of the immediate argument favor one reading?
+- Is the command to sell possessions in verse 33 directed specifically to the disciples present, to Luke's “little flock,” or to all disciples without qualification?
+- How should the severe servant punishments in verses 46–48 be interpreted without turning parabolic imagery into an overly precise map of the afterlife?
+- What does “this time” in verse 56 denote: Jesus' ministry, an approaching historical crisis, eschatological judgment, or overlapping realities?
+- How do the promise of the Father's kingdom in verse 32 and the warnings of judgment elsewhere in the chapter function together?
 <!-- SG:END questions -->
 
 ## Further Study
