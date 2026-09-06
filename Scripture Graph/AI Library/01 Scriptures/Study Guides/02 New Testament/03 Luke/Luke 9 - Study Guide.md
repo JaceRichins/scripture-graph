@@ -17,13 +17,20 @@ Scripture: [[Luke 9]] · My notes: [[Luke 9 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> The Twelve are sent out—Jesus feeds the five thousand—Peter testifies of Christ—Jesus foretells His death and resurrection—He is transfigured on the mount—He heals and teaches.
+Luke 9 moves from delegated ministry to a sustained examination of Jesus' identity and the meaning of following him. The Twelve preach and heal; Jesus feeds a multitude; Peter confesses him as the Christ; and Jesus immediately interprets his mission through rejection, death, resurrection, and the cross-bearing demanded of disciples. The transfiguration reveals his glory, but the scenes that follow expose the disciples' continuing weakness and need for correction. Verse 51 then turns the narrative toward Jerusalem, where the destiny discussed on the mountain will be accomplished.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A useful narrative outline is:
+
+1. **Authority, mission, and provision (9:1-17):** the Twelve are sent, Herod asks who Jesus is, and the multitude is fed.
+2. **Identity, suffering, and discipleship (9:18-27):** Peter confesses the Christ; Jesus predicts his passion and teaches daily cross-bearing.
+3. **Glory revealed (9:28-36):** Moses and Elias speak with Jesus, and the heavenly voice commands, "hear him."
+4. **Disciples corrected (9:37-50):** inability to heal, failure to understand, rivalry, and attempted exclusion contrast with Jesus' power and teaching.
+5. **The Jerusalem journey begins (9:51-62):** Jesus rejects retaliatory violence and states the urgency and cost of following him.
+
+This is a narrative reading rather than an explicit outline supplied by the text, but the transition at 9:51 is especially clear.
 <!-- SG:END structure -->
 
 ## People
@@ -48,29 +55,31 @@ _Not yet developed._
 - [[Mark 6]] — 2 footnote cross-references (from [[Luke 9#^luke-9-7|Luke 9:7]])
 - [[Mark 8]] — 2 footnote cross-references (from [[Luke 9#^luke-9-21|Luke 9:21]])
 - [[D&C 60]] — 1 footnote cross-reference (from [[Luke 9#^luke-9-5|Luke 9:5]])
-- [[Mark 9]] — 8 parallel verses, e.g. [[Luke 9#^luke-9-33|Luke 9:33]] ↔ [[Mark 9#^mark-9-5|Mark 9:5]]
-- [[Mark 8]] — 6 parallel verses, e.g. [[Luke 9#^luke-9-22|Luke 9:22]] ↔ [[Mark 8#^mark-8-31|Mark 8:31]]
-- [[Matthew 16]] — 6 parallel verses, e.g. [[Luke 9#^luke-9-23|Luke 9:23]] ↔ [[Matthew 16#^matt-16-24|Matthew 16:24]]
-- [[Matthew 17]] — 4 parallel verses, e.g. [[Luke 9#^luke-9-33|Luke 9:33]] ↔ [[Matthew 17#^matt-17-4|Matthew 17:4]]
-- [[Matthew 8]] — 3 parallel verses, e.g. [[Luke 9#^luke-9-58|Luke 9:58]] ↔ [[Matthew 8#^matt-8-20|Matthew 8:20]]
-- [[Matthew 14]] — 2 parallel verses, e.g. [[Luke 9#^luke-9-16|Luke 9:16]] ↔ [[Matthew 14#^matt-14-19|Matthew 14:19]]
-- [[Mark 6]] — 4 parallel verses, e.g. [[Luke 9#^luke-9-13|Luke 9:13]] ↔ [[Mark 6#^mark-6-37|Mark 6:37]]
-- [[Luke 17]] — 2 parallel verses, e.g. [[Luke 9#^luke-9-57|Luke 9:57]] ↔ [[Luke 17#^luke-17-14|Luke 17:14]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[Luke 9#^luke-9-35|Luke 9:35]] ↔ [[D&C 93#^dc-93-15|D&C 93:15]]
+- [[Matthew 17]] — 0 parallel verses
+- [[Mark 9]] — 0 parallel verses
+- [[Matthew 14]] — 0 parallel verses
+- [[Mark 6]] — 0 parallel verses
+- [[Matthew 8]] — 0 parallel verses
+- [[Mark 8]] — 0 parallel verses
+- [[Matthew 16]] — 0 parallel verses
 - [[2 Kings 1]] — 0 parallel verses
 - [[D&C 24]] — 0 parallel verses
 - [[2 Kings 4]] — 0 parallel verses
+- [[Luke 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Kingdom of God]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]]
+- [[Crucifixion of Jesus Christ]]
+- [[Prophecy]]
 - [[Priesthood Restoration]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter joins [[Jesus Christ (Gospel Topic)]], [[Atonement of Jesus Christ]], and discipleship rather than treating them separately. The Christ must suffer and rise (9:20-22), while followers must take up the cross daily (9:23-24). The chapter also presents authority as delegated by Jesus (9:1-2), [[Prayer]] as a setting for revelation (9:18, 28-29), and greatness as humble reception of the least (9:46-48). Its contribution to [[Priesthood]] is direct at the level of delegated authority, but its connection to [[Priesthood Restoration]] is contextual rather than demonstrative.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -102,25 +111,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The word rendered "decease" in 9:31 is the Greek *exodos*, meaning a departure and, in context, Jesus' approaching death. Because Moses is present and Jerusalem becomes the destination of Jesus' journey, the word can carry an Exodus resonance. That resonance is meaningful, but the lexical fact alone does not prove that every feature of the scene belongs to a developed new-Exodus scheme.
+
+Luke uniquely emphasizes taking up the cross "daily" in 9:23. The adverb turns cross-bearing from a single dramatic gesture into an ongoing description of discipleship.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Several contrasts organize the chapter: public speculation versus Peter's confession; miraculous glory versus disciples who still misunderstand; argument over greatness versus a child placed beside Jesus; group boundary-policing versus an outsider acting in Jesus' name; and Elijah-like destructive zeal versus Jesus' rebuke. These contrasts prevent the transfiguration from functioning as an isolated spectacle. The command to "hear him" is tested immediately in the disciples' response to Jesus' teaching.
+
+The repeated question is not only who Jesus is, but what recognition of him requires. Herod wants to see him (9:9), Peter names him (9:20), three disciples see his glory (9:32), and the crowds marvel at his power (9:43); nevertheless, genuine following is defined by hearing, humility, mercy, and steadfast commitment.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Doctrinal Textual Evidence
+> Luke 9 provides strong textual evidence for the narrower proposition that Jesus delegated religious authority to the Twelve for a particular mission. It does not by itself identify later priesthood offices, rules of succession, or a modern restoration of authority.
+> — strength 0.9 · confidence 1.0 · strong for limited delegation only · [[Doctrinal Textual Evidence in Luke 9|full dossier]]
+
+> [!evidence] Narrative-Sequence Evidence *(tentative)*
+> The placement of the transfiguration about eight days after the promise that some would see the kingdom of God, together with the disciples' sight of Jesus' glory, provides strong narrative evidence that the transfiguration is at least a proximate fulfillment or preview of that promise.
+> — strength 0.6 · confidence 0.8 · common interpretation with substantial alternatives
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+Why does Luke place the passion prediction immediately after Peter's confession? In what sense might the transfiguration answer the promise of 9:27 without exhausting its meaning? Why does the voice say "hear him" just before a sequence of disciple failures? How do 9:49-50 and 9:52-56 correct different forms of group-centered zeal? Should the sayings in 9:57-62 be read as universal literal procedures, prophetic hyperbole, or searching tests tailored to particular hearers?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare [[Mark 6]] for the mission and feeding narratives, [[Mark 8]] for Peter's confession and cross-bearing, and [[Mark 9]] for the transfiguration and subsequent disciple failures. Compare 2 Kings 1:10-12 with the proposed Samaritan judgment, and 1 Kings 19:19-21 with the plough-and-farewell saying. Exodus 24:15-18 offers useful background for the mountain, cloud, and glory imagery. These parallels clarify Luke's presentation, but resemblance alone should not be treated as proof of a direct literary allusion.
 <!-- SG:END further-study -->
