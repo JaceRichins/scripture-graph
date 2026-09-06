@@ -268,11 +268,11 @@ export class TimelineView extends ItemView {
   constructor(leaf: WorkspaceLeaf, private s: SGState) {
     super(leaf);
     this.navigation = true;   // a page: replaceable in-place, back-arrow aware
-    const dev = (s as unknown as { device?: { tlDepth?: 1 | 2 | 3 } }).device;
+    const dev = (s as unknown as { device?: { tlDepth?: 1 | 2 | 3; tlZoom?: number } }).device;
     if (dev?.tlDepth === 1 || dev?.tlDepth === 2 || dev?.tlDepth === 3) {
       this.depth = dev.tlDepth;
-      if (typeof dev.tlZoom === "number" && ZOOM_STOPS.includes(dev.tlZoom)) this.zoom = dev.tlZoom;
     }
+    if (typeof dev?.tlZoom === "number" && ZOOM_STOPS.includes(dev.tlZoom)) this.zoom = dev.tlZoom;
   }
 
   private saveDepth(): void {

@@ -1,4 +1,4 @@
-/* scripture-graph v0.67.0 build 13d711bf 2026-09-06T20:00:59Z */
+/* scripture-graph v0.67.1 build 00ad5b42 2026-09-06T20:01:29Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.67.0", sha: "13d711bf", at: "2026-09-06T20:00:59Z" };
+    define_SG_BUILD_default = { version: "0.67.1", sha: "00ad5b42", at: "2026-09-06T20:01:29Z" };
   }
 });
 
@@ -8185,8 +8185,8 @@ var init_timelineView = __esm({
         const dev = s.device;
         if (dev?.tlDepth === 1 || dev?.tlDepth === 2 || dev?.tlDepth === 3) {
           this.depth = dev.tlDepth;
-          if (typeof dev.tlZoom === "number" && ZOOM_STOPS.includes(dev.tlZoom)) this.zoom = dev.tlZoom;
         }
+        if (typeof dev?.tlZoom === "number" && ZOOM_STOPS.includes(dev.tlZoom)) this.zoom = dev.tlZoom;
       }
       data = null;
       lanes = /* @__PURE__ */ new Set(["ow", "nw", "rs"]);
