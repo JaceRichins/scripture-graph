@@ -94,6 +94,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **3300 BC–3000 BC** — Enoch's city of Zion · [[Moses 7]] · [[3300-3201 BC]] *(traditional dating)*
+- **740 BC–400 BC** — Isaiah 59: traditional 8th c. BCE vs. later post-exilic dating · [[Isaiah 59]] · [[800-701 BC]] *(historical)*
 - **587 BC–586 BC** — Fall of Jerusalem and devastation of its sanctuary · [[Lamentations 2]] · [[600-501 BC]] *(approximate)*
 - **AD 34** — Jesus gives the sign of Israel's future gathering · [[3 Nephi 21]] · [[AD 1-100]] *(approximate)*
 - **AD 1831** — D&C 68 given at a conference of elders, Hiram, Ohio · [[D&C 68]] · [[AD 1801-1900]] *(historical)*

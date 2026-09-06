@@ -11927,6 +11927,47 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-isa-58-25b2b1aa",
+   "t": "Proposed post-exilic ('Trito-Isaiah') setting (critical-scholarship view)",
+   "y0": -539,
+   "y1": -500,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Many critical scholars place Isaiah 56-66 after the Babylonian exile, citing internal cues such as the call to 'build the old waste places' (58:12) as fitting a community newly returned to a ruined Jerusalem.",
+   "chapters": [
+    "Isaiah 58"
+   ]
+  },
+  {
+   "id": "r-isa-59-030e984a",
+   "t": "Isaiah 59: traditional 8th c. BCE vs. later post-exilic dating",
+   "y0": -740,
+   "y1": -400,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Tradition places Isaiah ben Amoz in the 8th c. BCE, but many scholars date Isaiah 56-66 ('Trito-Isaiah') to the post-exilic period due to shifts in audience, style, and concerns.",
+   "chapters": [
+    "Isaiah 59"
+   ],
+   "people": [
+    "Isaiah"
+   ],
+   "places": [
+    "Zion"
+   ]
+  },
+  {
    "id": "r-isa-62-750ea7b5",
    "t": "Isaiah's oracle of Zion's restoration and renaming",
    "y0": -700,
