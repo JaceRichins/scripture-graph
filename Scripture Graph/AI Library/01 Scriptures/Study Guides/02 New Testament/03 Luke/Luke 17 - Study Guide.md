@@ -23,7 +23,13 @@ Scripture: [[Luke 17]] · My notes: [[Luke 17 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Community responsibility (vv. 1-4):** offenses, vigilance, rebuke, repentance, and forgiveness.
+
+2. **Faithful duty (vv. 5-10):** mustard-seed faith and the servant illustration.
+
+3. **Mercy recognized by an outsider (vv. 11-19):** ten are cleansed, but one Samaritan returns.
+
+4. **The kingdom and the Son of man (vv. 20-37):** the kingdom cannot be located by ordinary observation; suffering precedes revelation; Noah and Lot illustrate sudden judgment; disciples must not turn back.
 <!-- SG:END structure -->
 
 ## People
@@ -47,25 +53,28 @@ _Not yet developed._
 - [[Romans 3]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-10|Luke 17:10]])
 - [[Mosiah 2]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-10|Luke 17:10]])
 - [[Leviticus 13]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-14|Luke 17:14]])
-- [[Matthew 24]] — 7 parallel verses, e.g. [[Luke 17#^luke-17-36|Luke 17:36]] ↔ [[Matthew 24#^matt-24-40|Matthew 24:40]]
 - [[Joseph Smith—Matthew 1]] — 8 parallel verses, e.g. [[Luke 17#^luke-17-36|Luke 17:36]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-44|Joseph Smith—Matthew 1:44]]
-- [[Matthew 18]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-2|Luke 17:2]] ↔ [[Matthew 18#^matt-18-6|Matthew 18:6]]
-- [[Mark 9]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-2|Luke 17:2]] ↔ [[Mark 9#^mark-9-42|Mark 9:42]]
-- [[Luke 9]] — 2 parallel verses, e.g. [[Luke 17#^luke-17-14|Luke 17:14]] ↔ [[Luke 9#^luke-9-57|Luke 9:57]]
-- [[Mark 8]] — 2 parallel verses, e.g. [[Luke 17#^luke-17-33|Luke 17:33]] ↔ [[Mark 8#^mark-8-35|Mark 8:35]]
 - [[Mark 10]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-19|Luke 17:19]] ↔ [[Mark 10#^mark-10-52|Mark 10:52]]
+- [[Luke 9]] — 0 parallel verses
+- [[Matthew 24]] — 0 parallel verses
+- [[Matthew 18]] — 0 parallel verses
+- [[Mark 9]] — 0 parallel verses
+- [[Joseph Smith—Matthew 1]] — 0 parallel verses
+- [[Genesis 19]] — 0 parallel verses
+- [[Genesis 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Gratitude]]
+- [[Kingdom of God]]
+- [[Repentance and Forgiveness]]
 - [[Faith]] *(keyword match — unconfirmed)*
-- [[Kingdom of God]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter keeps several truths in productive tension. Offenses are inevitable, yet offenders remain accountable. Forgiveness is repeatedly required, yet trespass is still named and rebuked. Obedience matters, yet it creates no claim of entitlement before God. Ten receive cleansing, yet only one returns in worshipful gratitude. The [[Kingdom of God]] is spoken of as already present in some sense, while the day of the Son of man remains future. These tensions connect [[Repentance and Forgiveness]], [[Faith]], [[Humility]], and readiness for the [[Second Coming of Jesus Christ]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -98,20 +107,38 @@ _Not yet developed._
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Repeated contrasts organize the chapter: offender and little one; trespass and forgiveness; command and duty; ten cleansed and one returning; insider expectations and a grateful Samaritan; localized reports and sky-spanning lightning; ordinary life and sudden destruction; saving life and losing it; one taken and one left. The Noah and Lot panels are especially parallel: routine activity continues until a decisive day arrives. Comparison with [[Matthew 24]] shows that several final sayings circulated in closely related forms, though Luke's arrangement gives them a distinctive setting after the kingdom question.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Cumulative Literary Context
+> The flood, the destruction of Sodom, urgent flight, paired persons being separated, and the body-and-eagles saying collectively support a sudden-judgment reading of Luke 17:26-37. They do not unambiguously identify whether the person “taken” or the person “left” is delivered.
+> — strength 0.8 · confidence 0.9 · Sudden-judgment reading strong; taken/left unresolved · [[Cumulative Literary Context in Luke 17|full dossier]]
+
+> [!evidence] Internal Textual Juxtaposition
+> Luke 17 supplies strong internal evidence for a kingdom discourse containing both present and future dimensions: the kingdom cannot be located by ordinary public observation and is described as “within you,” while the Son of man will later be revealed in an unmistakable day.
+> — strength 0.8 · confidence 0.9 · Textual juxtaposition accepted; formulation disputed · [[Internal Textual Juxtaposition in Luke 17|full dossier]]
+
+> [!evidence] Textual-Criticism *(tentative)*
+> Luke 17:36 ('Two men shall be in the field; the one shall be taken, and the other left') is commonly noted in textual-critical literature as absent from the earliest extant Greek manuscripts and treated by critical editions as a harmonizing addition imported from the parallel in Matthew 24:40; it is present in the Textus Receptus tradition underlying the KJV.
+> — strength 0.4 · confidence 0.6 · Likely textual-critical conclusion; apparatus unchecked
+
+> [!evidence] Source-Critical *(tentative)*
+> The unprofitable-servants parable (17:7-10), the ten-lepers narrative (17:12-19), and the 'kingdom of God is within you' saying (17:20-21) have no chapters listed among this chapter's verified text-overlap parallels (Matthew 24, Joseph Smith-Matthew 1, Matthew 18, Mark 9, Luke 9, Mark 8, Mark 10), consistent with the common designation of this material as material unique to Luke.
+> — strength 0.4 · confidence 0.5 · Index observation secure; source-critical inference unverified
+
+> [!evidence] Translation/Interpretive *(tentative)*
+> Luke 17:20-21's statement that 'the kingdom of God is within you' is addressed to Pharisees, whom Luke elsewhere presents as spiritually opposed to Jesus (Luke 16:14), which is one reason many interpreters/translations prefer rendering the underlying Greek entos hymon as 'among you' or 'in your midst' rather than 'within you' as an inner personal possession.
+> — strength 0.6 · confidence 0.7 · Recognized translation dispute; external support incomplete
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+Why does the request to increase faith immediately follow the command to forgive repeatedly? Does “within you” in verse 21 emphasize inward rule, the kingdom among the hearers, or another sense? What distinction, if any, does the narrative intend among being cleansed, healed, and made whole? The nine are questioned for failing to return, but does the text pronounce any further judgment on them? In verses 34-36, is the person taken delivered or judged, or is the primary point simply sudden separation? What does the body-and-eagles saying contribute to Jesus' answer to “Where?”
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the forgiveness teaching with [[Matthew 18]], the priestly cleansing setting with [[Leviticus 14]], and the Samaritan's exemplary response with [[Luke 10]]. Read the final discourse alongside [[Matthew 24]] and [[Joseph Smith—Matthew 1]], carefully noting both parallels and differences in sequence. The Noah and Lot comparisons are best studied against [[Genesis 7]] and [[Genesis 19]].
 <!-- SG:END further-study -->
