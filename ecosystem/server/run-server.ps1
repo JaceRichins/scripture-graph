@@ -8,6 +8,8 @@ Set-Location $here
 $env:SG_HOST = "0.0.0.0"
 $env:SG_PORT = "8930"
 # DB defaults to data\scripturegraph-social.sqlite3 (gitignored)
+# the engine's index, read-only, for /search (the phone's library search)
+$env:SG_ENGINE_DB = "C:\Users\jacer\repos\SCRIPTURE GRAPH\Scripture Graph\.scripture-engine\database\scripturegraph.sqlite3"
 
 $log = Join-Path $here "data\server.log"
 New-Item -ItemType Directory -Force (Join-Path $here "data") | Out-Null

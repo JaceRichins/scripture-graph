@@ -84,6 +84,11 @@ export class ApiClient {
     return this.req<{ annotations: Annotation[]; next_cursor: string }>(
       "GET", `/sync/pull?cursor=${encodeURIComponent(cursor ?? "")}`);
   }
+  /** the family server's full-text search over the engine's index */
+  search(q: string) {
+    return this.req<{ results: { title: string; path: string | null; snippet: string; kind: string }[] }>(
+      "GET", `/search?q=${encodeURIComponent(q)}`);
+  }
   annotationsFor(anchorIds: string[]) {
     return this.req<{ annotations: (Annotation & { author_name: string })[] }>(
       "POST", "/annotations/query", { anchor_ids: anchorIds });

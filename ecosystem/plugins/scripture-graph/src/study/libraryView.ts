@@ -837,7 +837,46 @@ export class SGLibraryView extends ItemView {
     buildSearchIndex(this.app).then(index => {
       if (seq !== this.searchSeq || this.view.kind !== "home") return;
       this.renderResults(smartSearch(q, index), body);
+      void this.renderLibraryHits(q, body, seq);
     }).catch(fail);
+  }
+
+  /** the whole library — talks, teachings, periodicals, questions, every
+   * indexed passage — answered by the family server from the engine's
+   * index. Shown beneath the local results; quiet when unreachable. */
+  private async renderLibraryHits(q: string, body: HTMLElement, seq: number): Promise<void> {
+    if (q.length < 3 || !this.s.device.deviceToken) return;
+    const holder = body.createDiv({ cls: "sg-nav-lib-hits" });
+    holder.createDiv({ cls: "sg-nav-sect", text: "From the library" });
+    const prog = holder.createDiv({ cls: "sg-nav-progress", text: "Searching every passage…" });
+    try {
+      const { results } = await this.s.api.search(q);
+      if (seq !== this.searchSeq || !holder.isConnected) return;
+      prog.remove();
+      if (!results.length) { holder.createDiv({ cls: "sg-nav-empty", text: "No passages match." }); return; }
+      const list = holder.createDiv({ cls: "sg-nav-list" });
+      let i = 0;
+      for (const r of results) {
+        const row = list.createDiv({ cls: "sg-nav-row sg-nav-hit" });
+        cascade(row, i++);
+        navIcon(row, r.kind === "scripture" ? "verse" : "page");
+        const col = row.createDiv({ cls: "sg-nav-gcol" });
+        col.createDiv({ cls: "sg-nav-name", text: r.title });
+        const snip = col.createDiv({ cls: "sg-nav-snip" });
+        // «term» marks from the index become emphasis
+        for (const part of r.snippet.split(/(«[^»]*»)/)) {
+          if (part.startsWith("«")) snip.createEl("mark", { cls: "sg-nav-hl", text: part.slice(1, -1) });
+          else snip.appendText(part);
+        }
+        row.onclick = () => {
+          if (r.path) this.host.openPath(r.path.replace(/\.md$/, ""));
+          else this.host.openNote(r.title);
+        };
+      }
+    } catch {
+      if (!holder.isConnected) return;
+      prog.setText("Library search needs the family server (home Wi-Fi).");
+    }
   }
 
   private renderResults(res: SearchResults, body: HTMLElement): void {

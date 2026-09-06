@@ -10,6 +10,7 @@ import { z } from "zod";
 import { Annotation, SyncOp } from "@scripture-graph/core-sdk";
 import { audit, authenticate, consumeInvite, createDevice, createInvite, createUser, now, type AuthedDevice } from "./auth";
 import type { DB } from "./db";
+import Database from "better-sqlite3";
 
 const MAX_OPS_PER_PUSH = 200;
 const PULL_LIMIT = 500;
@@ -399,6 +400,65 @@ export function buildApp({ db }: BuildOpts): FastifyInstance {
     "main.js": "application/javascript",
     "styles.css": "text/css",
   };
+  // ------------------------------------------------------------ search
+  // The engine's full-text index (chunks_fts over every indexed passage:
+  // scripture, talks, teachings, periodicals, questions) answered for the
+  // phone, which cannot open the engine database itself. Read-only; the
+  // engine keeps writing underneath. SG_ENGINE_DB names the file.
+  let engine: Database.Database | null = null;
+  const engineDb = (): Database.Database | null => {
+    if (engine) return engine;
+    const p = process.env["SG_ENGINE_DB"];
+    if (!p || !existsSync(p)) return null;
+    try {
+      engine = new Database(p, { readonly: true, fileMustExist: true });
+      engine.pragma("query_only = 1");
+      return engine;
+    } catch { return null; }
+  };
+  app.get("/search", async (req, reply) => {
+    const who = authed(req, reply); if (!who) return;
+    const q = String((req.query as { q?: string }).q ?? "").trim();
+    if (q.length < 2) return { results: [] };
+    const db2 = engineDb();
+    if (!db2) return reply.code(503).send({ error: "library index not available on this server" });
+    const terms = q.replace(/["*()]/g, " ").split(/\s+/).filter(t => t.length > 1).slice(0, 8);
+    if (!terms.length) return { results: [] };
+    const quoted = terms.map(t => `"${t}"`);
+    const run = (match: string) => db2.prepare(`
+      SELECT c.owner_type AS kind, c.owner_id AS owner,
+             snippet(chunks_fts, 0, '\u00ab', '\u00bb', ' \u2026 ', 14) AS snippet,
+             bm25(chunks_fts) AS rank
+      FROM chunks_fts JOIN chunks c ON c.id = chunks_fts.rowid
+      WHERE chunks_fts MATCH ? ORDER BY rank LIMIT 24`).all(match) as
+      { kind: string; owner: string; snippet: string; rank: number }[];
+    let rows: { kind: string; owner: string; snippet: string; rank: number }[] = [];
+    try { rows = run(quoted.join(" AND ")); } catch { rows = []; }
+    if (rows.length < 6) { try { rows = rows.concat(run(quoted.join(" OR ")).filter(r => !rows.some(x => x.owner === r.owner))); } catch { /* keep */ } }
+    const title = db2.prepare("SELECT title, vault_path FROM nodes WHERE id=? OR id=? OR id=? LIMIT 1");
+    const chapter = db2.prepare("SELECT c.slug, n.title, n.vault_path FROM chapters c JOIN nodes n ON n.id = 'chapter:' || c.slug WHERE c.slug=?");
+    const seen = new Set<string>();
+    const results: { title: string; path: string | null; snippet: string; kind: string }[] = [];
+    for (const r of rows) {
+      let t: { title: string; vault_path: string | null } | undefined;
+      let kind = r.kind;
+      if (r.kind === "verse") {
+        const cs = r.owner.replace(/-\d+$/, "");
+        t = chapter.get(cs) as { title: string; vault_path: string | null } | undefined;
+        kind = "scripture";
+      } else {
+        t = title.get(r.owner, `doc:${r.owner}`, `talk:${r.owner}`) as { title: string; vault_path: string | null } | undefined;
+      }
+      if (!t) continue;
+      const key = `${t.title}|${r.snippet.slice(0, 40)}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      results.push({ title: t.title, path: t.vault_path, snippet: r.snippet, kind });
+      if (results.length >= 20) break;
+    }
+    return { results };
+  });
+
   app.get("/plugin/:file", async (req, reply) => {
     if (!limiter.allow(`ip:${req.ip}:plugin`, 60, 60_000)) {
       return reply.code(429).send({ error: "rate limited" });
