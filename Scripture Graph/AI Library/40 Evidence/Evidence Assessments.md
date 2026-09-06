@@ -493,6 +493,13 @@ The twofold near-verbatim repetition, explicit identification, and explanation o
 
 Notes: [[Scriptural Intertextuality in 3 Nephi 15]]
 
+### bom-jacob5-isaiah5-vineyard-intertext
+**Isaiah 5 vineyard-song intertextuality in Jacob 5** — *strong* (supports, evidence_strength 0.75) for: Jacob 5 deliberately participates in or is textually mediated through the prophetic vineyard tradition represented by Isaiah 5:1-7, particularly the repeated 'what could I have done more' rhetorical question.
+
+Jacob 5:41,47,49's repeated 'What could I have done more for my vineyard?' closely matches Isaiah 5:4's near-identical question, set within a shared cultivation/bad-fruit/threatened-destruction frame (Isaiah 5:2-7). This strongly supports a literary or translation-level relationship with the Isaiah 5 vineyard tradition. It does not establish which text is prior, that Zenos was historical, or the stage (composition, translation, or editing) at which the echo arose. Because vineyard-as-Israel is independently attested before Isaiah (e.g., Psalm 80), the weight rests on the distinctive repeated question and frame, not the generic motif, and should not be summed as independent weight alongside the corpus's broader Isaiah/KJV-mediation finding (bom-isaiah-textual-dependence, 0.84).
+
+Notes: [[Prophetic Literary Intertext in Jacob 5]]
+
 ### bom-2nephi1-isaiah52-intertext
 **Isaiah 52 Reuse in 2 Nephi 1** — *strong* (supports, evidence_strength 0.65) for: The final English text of 2 Nephi 1 deliberately reuses the awakening, rising-from-dust, bonds, and captivity language of Isaiah 52:1–2.
 
@@ -534,6 +541,13 @@ Notes: [[Textual Interrelationship in 3 Nephi 9]] · [[TextualLiterary in 3 Neph
 The matched good-and-evil contrast, paired resurrection outcomes, distinctive damnation wording, and preserved order strongly support a relationship between 3 Nephi 26:4-5 and John 5:28-29. Historical repetition, shared tradition, translation-level harmonization, revelatory expression, and modern adaptation remain viable mechanisms.
 
 Notes: [[Scriptural Intertextuality in 3 Nephi 26]] · [[TextualLinguistic Parallel in 3 Nephi 26]]
+
+### bom-jacob6-biblical-intertextuality
+**KJV-shaped biblical intertextuality in Jacob 6** — *strong* (supports, evidence_strength 0.62) for: Jacob 6 deliberately uses or is mediated through identifiable biblical formulations (Isaiah 11:11, Romans 10:21/Isaiah 65:2, Psalm 95:7-8, Matthew 7:13) in its final English form, rather than merely independent conventional religious idiom.
+
+Jacob 6:2 closely matches Isaiah 11:11's distinctive 'set his hand again...the second time to recover.' Jacob 6:6 matches Psalm 95:7-8's 'today...harden not your hearts.' Jacob 6:4's 'stretches forth his hands...all the day long...gainsaying people' is a near-verbatim match to Romans 10:21, not Isaiah 65:2 as originally cited, though Romans 10:21 is itself Paul's quotation of Isaiah 65:2, so the underlying mediation point stands. The v.11 strait-gate/narrow-way formula (Matthew 7:13) recurs elsewhere in the corpus's registered KJV-mediation pattern and is discounted here as non-independent. Together this strongly supports deliberate KJV-shaped mediation in the chapter's final English form, without indicating whether the shaping occurred at ancient-source translation, editorial harmonization, or nineteenth-century composition.
+
+Notes: [[Intertextual Language in Jacob 6]]
 
 ### pgp-abraham1-genesis12-intertextuality
 **Literary relationship between Abraham 1 and the Genesis 12 call narrative** — *moderate* (supports, evidence_strength 0.58) for: Abraham 1:16 and 1:19 deliberately participate in the Genesis 12 call tradition in the received English text.
@@ -772,6 +786,13 @@ Notes: [[Embedded Secondhand Testimony in Joseph Smith—History 1]]
 The concentrated whore, sitting, and many-waters cluster gives moderate support to a deliberate Revelation-linked echo in the final text. Older Babylon imagery and pervasive KJV mediation leave direct adaptation, shared apocalyptic tradition, and translation-level harmonization viable, and the parallel independently establishes neither antiquity nor inspiration.
 
 Notes: [[Intertextual Literary Parallel in 1 Nephi 14]] · [[Literary Intertextuality in 1 Nephi 14]]
+
+### bom-jacob5-romans11-olive-intertext
+**Romans 11 olive-tree intertextuality in Jacob 5** — *strong* (supports, evidence_strength 0.84) for: Jacob 5 and Romans 11 stand in a meaningful literary, traditional, or translation-level relationship beyond merely sharing generic tree imagery.
+
+Jacob 5 and Romans 11 share a concentrated cluster: Israel-as-olive-tree imagery, natural and wild branches, wild branches grafted into cultivated stock, dependence of grafted branches on a shared root, and the later regrafting of natural branches. Jacob 5 narrates the unusual wild-into-tame graft; Romans 11:24 explicitly calls its analogous graft 'contrary to nature' -- only Romans states the reversal outright. This strongly supports a meaningful literary, traditional, or translation-level relationship beyond generic tree symbolism. It does not establish Zenos's historicity, priority over Romans, ancient Book of Mormon authorship, or nineteenth-century borrowing. The weight is capped at 0.84 (strong, not very-strong) because no independently dated non-Pauline witness attests the proposed shared tradition, per the registry's threshold requiring external attestation above 0.85.
+
+Notes: [[Textual And Conceptual Intertext in Jacob 5]]
 
 ### bom-helaman13-400year-destruction-fulfillment
 **Samuel's four-hundred-year destruction ceiling and its fulfillment in Mormon 6** — *moderate* (supports, evidence_strength 0.57) for: The Nephite destruction narrated in Mormon 6, falling within Samuel's four-hundred-year ceiling (Helaman 13:5,9-10), reflects deliberate final-form chronological coordination.
