@@ -11,7 +11,9 @@ interface LeafInternals {
   getHistoryState?: () => unknown;
   updateHeader?: () => void;
   getViewState?: () => unknown;
-  history?: { backHistory: unknown[]; forwardHistory: unknown[]; back?: () => void };
+  history?: { backHistory: unknown[]; forwardHistory: unknown[]; back?: () => void;
+              pushState?: (entry: unknown) => void };
+  trigger?: (name: string) => void;
   view?: { getViewType?: () => string; getEphemeralState?: () => unknown };
 }
 
@@ -27,8 +29,13 @@ export function recordHistory(leaf: unknown): void {
   // native entry shape when available; hand-built twin otherwise
   const hs = l.getHistoryState?.()
     ?? { state: l.getViewState?.() ?? {}, eState: l.view?.getEphemeralState?.() ?? {} };
+  // Obsidian's own pushState: it caps the stack, clears the forward
+  // history AND fires "history-change" on the leaf — the event the mobile
+  // navbar's ‹ › listen for. A raw push left the arrows grey (user-reported).
+  if (typeof h.pushState === "function") { h.pushState(hs); return; }
   h.backHistory.push(hs);
   h.forwardHistory.length = 0;               // a new road forks the future off
+  try { l.trigger?.("history-change"); } catch { /* internals */ }
 }
 
 
@@ -43,6 +50,7 @@ export function historyBack(leaf: unknown): boolean {
 /** the mobile navbar greys its ‹ › from the leaf's history; after a
  * hand-pushed entry nothing tells it to look again — so ask */
 export function refreshNavArrows(app: unknown, leaf: unknown): void {
+  try { (leaf as LeafInternals).trigger?.("history-change"); } catch { /* internals */ }
   try { (leaf as LeafInternals).updateHeader?.(); } catch { /* internals */ }
   try {
     const nav = (app as { mobileNavbar?: { updateUI?: () => void; update?: () => void } }).mobileNavbar;

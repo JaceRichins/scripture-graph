@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.10 build d63fc056 2026-09-06T16:35:17Z */
+/* scripture-graph v0.65.11 build 7800acb0 2026-09-06T16:48:39Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.10", sha: "d63fc056", at: "2026-09-06T16:35:17Z" };
+    define_SG_BUILD_default = { version: "0.65.11", sha: "7800acb0", at: "2026-09-06T16:48:39Z" };
   }
 });
 
@@ -6055,8 +6055,16 @@ function recordHistory(leaf) {
   const type = l.view?.getViewType?.() ?? "empty";
   if (type === "empty") return;
   const hs = l.getHistoryState?.() ?? { state: l.getViewState?.() ?? {}, eState: l.view?.getEphemeralState?.() ?? {} };
+  if (typeof h.pushState === "function") {
+    h.pushState(hs);
+    return;
+  }
   h.backHistory.push(hs);
   h.forwardHistory.length = 0;
+  try {
+    l.trigger?.("history-change");
+  } catch {
+  }
 }
 function historyBack(leaf) {
   const h = leaf.history;
@@ -6065,6 +6073,10 @@ function historyBack(leaf) {
   return true;
 }
 function refreshNavArrows(app, leaf) {
+  try {
+    leaf.trigger?.("history-change");
+  } catch {
+  }
   try {
     leaf.updateHeader?.();
   } catch {
