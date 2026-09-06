@@ -1,4 +1,4 @@
-/* scripture-graph v0.67.5 build 74873ded 2026-09-06T20:42:20Z */
+/* scripture-graph v0.68.0 build a5718da3 2026-09-06T21:03:19Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.67.5", sha: "74873ded", at: "2026-09-06T20:42:20Z" };
+    define_SG_BUILD_default = { version: "0.68.0", sha: "a5718da3", at: "2026-09-06T21:03:19Z" };
   }
 });
 
@@ -12604,7 +12604,7 @@ var LIBRARY_SECTIONS = [
   { icon: "place", name: "Places", path: "AI Library/04 Places" },
   { icon: "event", name: "Events", path: "AI Library/05 Events" },
   { icon: "doctrines", name: "Doctrines", path: "AI Library/06 Doctrines" },
-  { icon: "papers", name: "Joseph Smith Papers", path: "AI Library/20 Joseph Smith Papers" },
+  { icon: "papers", name: "Words of the Prophets", path: "AI Library/20 Words of the Prophets" },
   { icon: "history", name: "Church History", path: "AI Library/30 Church History" },
   { icon: "evidence", name: "Findings", path: "AI Library/40 Findings" },
   // Hard Questions is a first-class shelf (see libraryView), not a folder here
@@ -14746,7 +14746,9 @@ var DOC_VIEW = "scripture-graph-doc";
 var DOC_KINDS = [
   { prefix: `${LIBRARY_PREFIX}50 Questions/`, eyebrow: "Hard question", moc: "Questions.md" },
   { prefix: `${LIBRARY_PREFIX}10 General Conference/`, eyebrow: "General Conference", moc: "General Conference.md" },
-  { prefix: `${LIBRARY_PREFIX}65 Secondary Sources/`, eyebrow: "Podcasts & talks", moc: "Secondary Sources.md" }
+  { prefix: `${LIBRARY_PREFIX}65 Secondary Sources/`, eyebrow: "Podcasts & talks", moc: "Secondary Sources.md" },
+  { prefix: `${LIBRARY_PREFIX}20 Words of the Prophets/`, eyebrow: "Words of the Prophets", moc: "Words of the Prophets.md" },
+  { prefix: `${LIBRARY_PREFIX}30 Church History/Periodicals/`, eyebrow: "Periodical", moc: "Periodicals.md" }
 ];
 function docKindFor(path) {
   for (const k of DOC_KINDS) {
