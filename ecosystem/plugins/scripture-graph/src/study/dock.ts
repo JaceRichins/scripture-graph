@@ -215,8 +215,9 @@ class Listener {
         }
         this.audio?.pause();
         this.audio = new Audio(url);
-        this.audio.onended = () => { this.playing = false; this.audio = null; document.body.removeClass("sg-listening"); };
-        this.audio.onerror = this.audio.onended;
+        const done = () => { this.playing = false; this.audio = null; document.body.removeClass("sg-listening"); };
+        this.audio.onended = done;
+        this.audio.onerror = () => done();
         void this.audio.play();
         trace("listen.recording", { page: page.basename });
       });

@@ -1,4 +1,4 @@
-/* scripture-graph v0.69.4 build bafab115 2026-09-06T23:01:36Z */
+/* scripture-graph v0.69.5 build 57474bb7 2026-09-06T23:02:03Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.69.4", sha: "bafab115", at: "2026-09-06T23:01:36Z" };
+    define_SG_BUILD_default = { version: "0.69.5", sha: "57474bb7", at: "2026-09-06T23:02:03Z" };
   }
 });
 
@@ -15501,12 +15501,13 @@ var Listener = class {
         }
         this.audio?.pause();
         this.audio = new Audio(url);
-        this.audio.onended = () => {
+        const done = () => {
           this.playing = false;
           this.audio = null;
           document.body.removeClass("sg-listening");
         };
-        this.audio.onerror = this.audio.onended;
+        this.audio.onended = done;
+        this.audio.onerror = () => done();
         void this.audio.play();
         trace("listen.recording", { page: page.basename });
       });
