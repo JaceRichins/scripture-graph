@@ -23,7 +23,7 @@ Scripture: [[Mark 1]] · My notes: [[Mark 1 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+A useful outline is: (1) prophetic preparation and John's ministry, verses 1–8; (2) baptism and wilderness testing, verses 9–13; (3) kingdom proclamation and calls to discipleship, verses 14–20; (4) a sabbath in Capernaum, verses 21–34; (5) prayer and expansion through Galilee, verses 35–39; and (6) cleansing of a leper and the consequences of unwanted publicity, verses 40–45. The repeated straightway/immediately language binds these episodes into a rapid succession.
 <!-- SG:END structure -->
 
 ## People
@@ -51,29 +51,33 @@ _Not yet developed._
 - [[Luke 3]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-3|Mark 1:3]])
 - [[John 1]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-3|Mark 1:3]])
 - [[2 Kings 1]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-6|Mark 1:6]])
-- [[Luke 4]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-24|Mark 1:24]] ↔ [[Luke 4#^luke-4-34|Luke 4:34]]
-- [[Luke 3]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Luke 3#^luke-3-4|Luke 3:4]]
-- [[Matthew 3]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
-- [[Matthew 8]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-44|Mark 1:44]] ↔ [[Matthew 8#^matt-8-4|Matthew 8:4]]
-- [[Luke 5]] — 3 parallel verses, e.g. [[Mark 1#^mark-1-44|Mark 1:44]] ↔ [[Luke 5#^luke-5-14|Luke 5:14]]
-- [[Matthew 4]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-16|Mark 1:16]] ↔ [[Matthew 4#^matt-4-18|Matthew 4:18]]
 - [[Matthew 11]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-2|Mark 1:2]] ↔ [[Matthew 11#^matt-11-10|Matthew 11:10]]
 - [[Luke 7]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-2|Mark 1:2]] ↔ [[Luke 7#^luke-7-27|Luke 7:27]]
 - [[D&C 65]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Isaiah 40#^isa-40-3|Isaiah 40:3]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
 - [[Luke 6]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-9|Mark 1:9]] ↔ [[Luke 6#^luke-6-12|Luke 6:12]]
+- [[Luke 8]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-38|Mark 1:38]] ↔ [[Luke 8#^luke-8-22|Luke 8:22]]
+- [[Matthew 17]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-11|Mark 1:11]] ↔ [[Matthew 17#^matt-17-5|Matthew 17:5]]
+- [[Matthew 10]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-19|Mark 1:19]] ↔ [[Matthew 10#^matt-10-2|Matthew 10:2]]
+- [[John 1]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[John 1#^john-1-23|John 1:23]]
+- [[2 Peter 1]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-11|Mark 1:11]] ↔ [[2 Peter 1#^2pet-1-17|2 Peter 1:17]]
+- [[3 Nephi 11]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-11|Mark 1:11]] ↔ [[3 Nephi 11#^3ne-11-7|3 Nephi 11:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Gospel of Jesus Christ]]
+- [[Law of Moses]]
+- [[Satan and Temptation]]
+- [[Kingdom of God]]
+- [[Apostles]]
 - [[Baptism]] *(keyword match — unconfirmed)*
-- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+John joins [[Repentance]] and [[Baptism]] with confession and remission of sins (Mark 1:4–5), but distinguishes his water baptism from the coming baptism with the Holy Ghost (Mark 1:8). Jesus' own proclamation similarly joins divine initiative and human response: the time is fulfilled and God's kingdom is near, therefore people should repent and believe (Mark 1:15). Discipleship then gives that response a concrete form as the fishermen leave established work and relationships to follow him (Mark 1:16–20).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -104,25 +108,27 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The language of way and wilderness in Mark 1:2–4 connects the beginning of the gospel with [[Isaiah 40]] and [[Malachi 3]]. Mark repeatedly uses urgent transition terms rendered straightway, immediately, and forthwith. Another repeated vocabulary cluster concerns authority and command: Jesus teaches with authority, rebukes spirits, commands silence, and speaks cleansing. These verbal patterns make his ministry appear both urgent and effective.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Several tensions organize the chapter. Jesus is declared God’s Son, and unclean spirits correctly recognize him, yet he silences their testimony (Mark 1:11, 24–25, 34). He separately commands the cleansed man not to publicize the healing before presenting himself to the priest (Mark 1:43–44). These commands may form part of a broader disclosure motif, but they may also serve different purposes: rejecting demonic testimony, completing priestly verification, and limiting disruptive crowds. Jesus’ fame spreads, yet he withdraws to pray and carries his preaching elsewhere (Mark 1:28, 35–39). Finally, the healed man circulates publicly while Jesus is forced to remain outside populated places (Mark 1:45), a practical narrative reversal caused by the man’s publicity.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Cumulative Internal Literary Evidence
+> The convergence of the narrator's title, the heavenly voice, the unclean spirit's recognition, authoritative teaching, exorcisms, and healings is strong internal literary evidence that Mark 1 deliberately presents Jesus' identity through both testimony and enacted authority.
+> — strength 0.7 · confidence 0.9 · Strong evidence for literary presentation only · [[Cumulative Internal Literary Evidence in Mark 1|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+Why does the Spirit drive Jesus toward testing immediately after the heavenly declaration of sonship? Why does Jesus silence accurate supernatural testimony? How do the commands to repent, believe, and follow relate to one another? What does the contrast between the disciples' prompt obedience and the cleansed man's disobedient publicity contribute to the chapter? Why does Jesus answer intense local demand by moving elsewhere?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the prophetic introduction with [[Isaiah 40]] and [[Malachi 3]], and John's clothing with [[2 Kings 1]]. Compare the baptism accounts in [[Matthew 3]] and the temptation and call narratives in [[Matthew 4]] and [[Luke 4]]. The priestly procedure behind Mark 1:44 can be studied in [[Leviticus 14]]. These comparisons clarify Mark's compressed presentation without, by themselves, settling questions of literary dependence or historicity.
 <!-- SG:END further-study -->
