@@ -23,7 +23,11 @@ Scripture: [[Mosiah 7]] · My notes: [[Mosiah 7 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Search and wandering (vv. 1–6):** Mosiah sends sixteen men under Ammon, who reaches a hill north of Shilom after forty days.
+2. **Capture and recognition (vv. 7–16):** Limhi's guards imprison Ammon and his companions; Ammon's identity reverses suspicion into welcome and rejoicing.
+3. **Call to hope (vv. 17–20):** At the temple, Limhi invokes the exodus and God's preservation of their fathers.
+4. **Diagnosis of bondage (vv. 21–28):** He joins political misjudgment and Lamanite exploitation with internal transgression, contention, and rejection of a prophet.
+5. **Warning and conditional promise (vv. 29–33):** Images of obstructed paths and corrupt harvests culminate in a call to wholehearted turning, trust, and diligent service.
 <!-- SG:END structure -->
 
 ## People
@@ -72,15 +76,19 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Government and Laws]]
+- [[Freedom and Liberty]]
+- [[Exodus and Deliverance]]
+- [[The Godhead]]
+- [[Condescension of God]]
 - [[Sin]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Limhi's appeal follows an [[Exodus and Deliverance]] pattern but does not treat rescue as automatic. The same God who delivered Israel can deliver Limhi's people, yet verse 33 attaches conditions: turning with full purpose of heart, trust, and diligent service. Even then, deliverance occurs according to God's will and pleasure.
+
+The report of the slain prophet emphasizes the [[Condescension of God]]: Christ would come among humanity, take flesh and blood, and live upon the earth. Because the language "Father of all things" is condensed and reported indirectly, it is best read alongside the fuller discourse in [[Mosiah 15]] rather than used alone to settle every question about [[The Godhead]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -102,25 +110,43 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Repeated imperatives trace an emotional and moral movement: "lift up your heads," "be comforted," "rejoice," "put your trust in God," and finally "turn to the Lord." The repeated agricultural verb pair "sow" and "reap" makes judgment consequential: conduct produces a harvest, but the expected harvest becomes chaff, poison, or destructive wind.
+
+The word "preserved" also acquires an ironic turn. Limhi says he preserved the strangers so they could be questioned; Ammon thanks God that he remains alive. Human custody and divine preservation are placed in the same scene without being explicitly equated.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter's strongest literary feature is reversal. Silence between separated communities gives way to recognition; prisoners become honored guests; mourning becomes rejoicing; and apparently futile struggles are reframed as the possibility of an "effectual struggle." Limhi's speech does not erase suffering: it repeatedly names tribute, death, mourning, and affliction before offering hope.
+
+The speech also serves as a compact narrative preview. Zeniff's settlement, King Laman's deception, the tribute, internal violence, the prophetic testimony, and the prophet's death are subsequently expanded in [[Mosiah 9]]–[[Mosiah 19]]. This is strong evidence of final-form narrative organization, though it does not by itself determine authorship or historicity.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Narrative And Editorial Coherence
+> Mosiah 7 functions coherently as a narrative frame for the ensuing retrospective history: its compressed references to Zeniff's settlement, Lamanite deception, the half tribute, prophetic preaching, and the prophet's death correspond to episodes narrated in Mosiah 9–17 and Mosiah 19.
+> — strength 0.6 · confidence 1.0 · final-form coherence accepted; provenance disputed · [[Narrative And Editorial Coherence in Mosiah 7|full dossier]]
+
+> [!evidence] Possible Literary Allusion *(tentative)*
+> Ammon's company wanders in the wilderness for forty days, and Limhi later invokes Israel's wilderness deliverance. The juxtaposition permits a possible biblical wilderness echo, but the chapter does not explicitly interpret the forty days symbolically.
+> — strength 0.1 · confidence 0.3 · speculative and weakly signaled
+
+> [!evidence] Intertextual/Literary Echo *(tentative)*
+> Limhi's prophetic sayings that sowing filthiness yields a harvest of whirlwind or 'east wind' (Mosiah 7:29-31) echo the sow/reap idiom of Hosea 8:7 ('they have sown the wind, and they shall reap the whirlwind'), though the wording is not identical and the Book of Mormon version adds distinct agricultural imagery ('chaff... in the whirlwind', 'east wind, which bringeth immediate destruction').
+> — strength 0.3 · confidence 0.5 · disputed intertextual echo
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does Limhi begin his case for hope with Israel's exodus before recounting his own people's failures?
+- What is gained by placing the political explanation for bondage beside the moral explanation rather than choosing only one?
+- How does the qualification "according to his own will and pleasure" discipline expectations about the timing and form of deliverance?
+- Why might the narrator delay the colony's full backstory until after readers first encounter its consequences under Limhi?
+- How does Limhi's willingness to exchange one form of servitude for another reveal the severity of the tribute system?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Mosiah 9]] for Zeniff's settlement and King Laman's strategy; [[Mosiah 11]]–[[Mosiah 17]] for Abinadi's warning, Christological teaching, and death; [[Mosiah 19]] for the imposition of the half tribute; and [[Mosiah 22]] for the eventual escape. Comparing these chapters with Mosiah 7 distinguishes Limhi's retrospective interpretation from the fuller narrated events.
 <!-- SG:END further-study -->
