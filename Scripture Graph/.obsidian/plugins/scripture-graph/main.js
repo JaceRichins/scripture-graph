@@ -1,4 +1,4 @@
-/* scripture-graph v0.67.1 build 00ad5b42 2026-09-06T20:01:29Z */
+/* scripture-graph v0.67.2 build f3bc6bef 2026-09-06T20:09:02Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.67.1", sha: "00ad5b42", at: "2026-09-06T20:01:29Z" };
+    define_SG_BUILD_default = { version: "0.67.2", sha: "f3bc6bef", at: "2026-09-06T20:09:02Z" };
   }
 });
 
@@ -8063,7 +8063,8 @@ __export(timelineView_exports, {
   SubjectPickerModal: () => SubjectPickerModal,
   TIMELINE_VIEW: () => TIMELINE_VIEW,
   TimelineView: () => TimelineView,
-  ZOOM_STOPS: () => ZOOM_STOPS,
+  ZOOM_MAX: () => ZOOM_MAX,
+  ZOOM_MIN: () => ZOOM_MIN,
   loadTimelineData: () => loadTimelineData,
   openTimelinePicker: () => openTimelinePicker
 });
@@ -8092,7 +8093,7 @@ async function loadTimelineData(app) {
 function openTimelinePicker(s, existingNames, onSave) {
   new TimelineComposerModal(s, existingNames, onSave).open();
 }
-var import_obsidian9, TIMELINE_VIEW, ZOOM_STOPS, SUBJECT_META, DATA_PATH, ERAS, ERA_TINT, CATS, DATING_SHORT, NARRATIVE_LINKS, LANE_COLOR, LANE_NAME, LANE_F, LANE_DIR, THREAD_F, FOCUS_ACCENTS, TimelineView, SubjectPickerModal, TimelineComposerModal;
+var import_obsidian9, TIMELINE_VIEW, ZOOM_MIN, ZOOM_MAX, clampZoom, SUBJECT_META, DATA_PATH, ERAS, ERA_TINT, CATS, DATING_SHORT, NARRATIVE_LINKS, LANE_COLOR, LANE_NAME, LANE_F, LANE_DIR, THREAD_F, FOCUS_ACCENTS, TimelineView, SubjectPickerModal, TimelineComposerModal;
 var init_timelineView = __esm({
   "src/study/timelineView.ts"() {
     "use strict";
@@ -8101,7 +8102,9 @@ var init_timelineView = __esm({
     init_sheetRegistry();
     init_timeGraph();
     TIMELINE_VIEW = "sg-timeline";
-    ZOOM_STOPS = [0.55, 0.75, 1, 1.35, 1.8];
+    ZOOM_MIN = 0.5;
+    ZOOM_MAX = 2.2;
+    clampZoom = (z) => Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, z));
     SUBJECT_META = {
       people: { emoji: "\u{1F9D1}", label: "People" },
       places: { emoji: "\u{1F5FA}", label: "Places" },
@@ -8186,7 +8189,7 @@ var init_timelineView = __esm({
         if (dev?.tlDepth === 1 || dev?.tlDepth === 2 || dev?.tlDepth === 3) {
           this.depth = dev.tlDepth;
         }
-        if (typeof dev?.tlZoom === "number" && ZOOM_STOPS.includes(dev.tlZoom)) this.zoom = dev.tlZoom;
+        if (typeof dev?.tlZoom === "number" && isFinite(dev.tlZoom)) this.zoom = clampZoom(dev.tlZoom);
       }
       data = null;
       lanes = /* @__PURE__ */ new Set(["ow", "nw", "rs"]);
@@ -8480,15 +8483,14 @@ var init_timelineView = __esm({
         };
         if (this.depth !== 3) {
           const zseg = row.createDiv({ cls: "sg-tl-seg sg-tl-zoom" });
-          const zi = ZOOM_STOPS.indexOf(this.zoom);
           const minus = zseg.createEl("button", { cls: "sg-tl-seg-btn", text: "\u2212" });
           minus.setAttr("aria-label", "Zoom out");
-          minus.toggleClass("sg-tl-seg-off", zi <= 0);
-          minus.onclick = () => this.stepZoom(-1);
+          minus.toggleClass("sg-tl-seg-off", this.zoom <= ZOOM_MIN + 0.01);
+          minus.onclick = () => this.glideZoom(1 / 1.25);
           const plus = zseg.createEl("button", { cls: "sg-tl-seg-btn", text: "+" });
           plus.setAttr("aria-label", "Zoom in");
-          plus.toggleClass("sg-tl-seg-off", zi >= ZOOM_STOPS.length - 1);
-          plus.onclick = () => this.stepZoom(1);
+          plus.toggleClass("sg-tl-seg-off", this.zoom >= ZOOM_MAX - 0.01);
+          plus.onclick = () => this.glideZoom(1.25);
         }
         tool("Jump to \u25BE", "Scroll to an era", false, (ev) => {
           const m2 = new import_obsidian9.Menu();
@@ -8575,70 +8577,139 @@ var init_timelineView = __esm({
         this.renderStream();
       }
       // ---- zoom ---------------------------------------------------------------
-      /** the year under the middle of the viewport — the anchor a zoom keeps */
-      centerYear() {
+      // Continuous, the way a map zooms: while the fingers move the SVG scales
+      // live (one GPU transform, no layout), anchored at the pinch point; on
+      // release the layout is rebuilt at exactly that scale and scrolled so the
+      // moment under the fingers has not moved. −/+ and ctrl+wheel glide through
+      // the same path. Nothing steps, nothing jumps.
+      svgEl = null;
+      pinch = null;
+      /** the event nearest a content y — the thing the zoom keeps still */
+      anchorAt(contentY) {
+        let best = null;
+        for (const [id, y3] of this.yById) {
+          if (!best || Math.abs(y3 - contentY) < Math.abs(best.y - contentY)) best = { id, y: y3 };
+        }
+        return best;
+      }
+      /** live preview: scale the drawn page about a content point */
+      previewZoom(scale, fx, fy) {
+        const svg = this.svgEl;
+        if (!svg) return;
+        svg.style.transformOrigin = `${fx}px ${fy}px`;
+        svg.style.transform = `scale(${scale})`;
+        svg.classList.add("sg-tl-zooming");
+        this.streamEl?.classList.add("sg-tl-stream-zooming");
+      }
+      /** settle: rebuild at the new zoom, keep the anchor under the same screen y */
+      commitZoom(z, anchorId, screenY) {
         const stream = this.streamEl;
-        if (!stream || !this.yByYear.length) return null;
-        const mid = stream.scrollTop + stream.clientHeight * 0.4;
-        let best = this.yByYear[0];
-        for (const pair of this.yByYear) if (pair[1] <= mid) best = pair;
-        return best[0];
-      }
-      stepZoom(delta) {
-        const i = ZOOM_STOPS.indexOf(this.zoom);
-        const j = Math.min(ZOOM_STOPS.length - 1, Math.max(0, (i < 0 ? 2 : i) + delta));
-        this.setZoom(ZOOM_STOPS[j]);
-      }
-      setZoom(z) {
-        if (z === this.zoom || this.depth === 3) return;
-        const anchor = this.centerYear();
+        z = clampZoom(z);
+        const changed = Math.abs(z - this.zoom) > 2e-3;
         this.zoom = z;
         const dev = this.s.device;
-        dev.tlZoom = z;
+        dev.tlZoom = Math.round(z * 100) / 100;
         void this.s.saveDevice?.();
-        this.render();
-        if (anchor != null) {
-          const stream = this.streamEl;
-          const hit = this.yByYear.find(([yr]) => yr >= anchor);
-          if (stream && hit) stream.scrollTop = Math.max(0, hit[1] - stream.clientHeight * 0.4);
+        if (!changed) {
+          if (this.svgEl) {
+            this.svgEl.style.transform = "";
+            this.svgEl.classList.remove("sg-tl-zooming");
+          }
+          stream?.classList.remove("sg-tl-stream-zooming");
+          return;
         }
+        this.render();
+        const st = this.streamEl;
+        if (st && anchorId) {
+          const y3 = this.yById.get(anchorId);
+          if (y3 != null) st.scrollTop = Math.max(0, y3 - screenY);
+        }
+      }
+      /** −/+: a short glide about the middle of the screen, then settle */
+      glideZoom(factor) {
+        const stream = this.streamEl, svg = this.svgEl;
+        if (!stream || !svg || this.depth === 3) return;
+        const target = clampZoom(this.zoom * factor);
+        const ratio = target / this.zoom;
+        if (Math.abs(ratio - 1) < 1e-3) return;
+        const screenY = stream.clientHeight * 0.42;
+        const fy = stream.scrollTop + screenY;
+        const fx = stream.clientWidth / 2;
+        const anchor = this.anchorAt(fy);
+        svg.style.transition = "transform 0.16s ease-out";
+        this.previewZoom(ratio, fx, fy);
+        window.setTimeout(() => {
+          svg.style.transition = "";
+          this.commitZoom(target, anchor?.id ?? null, anchor ? screenY + (anchor.y - fy) * ratio : screenY);
+        }, 170);
       }
       /** pinch on touch, ctrl+wheel on desktop, and the century readout that
        * follows the scroll — attached once per stream element */
       attachZoomGestures(stream) {
-        let d0 = 0;
-        let stepped = false;
+        const dist = (e) => Math.hypot(
+          e.touches[0].clientX - e.touches[1].clientX,
+          e.touches[0].clientY - e.touches[1].clientY
+        );
         stream.addEventListener("touchstart", (e) => {
-          if (e.touches.length === 2) {
-            d0 = Math.hypot(
-              e.touches[0].clientX - e.touches[1].clientX,
-              e.touches[0].clientY - e.touches[1].clientY
-            );
-            stepped = false;
-          }
+          if (e.touches.length !== 2 || this.depth === 3) return;
+          const rc = stream.getBoundingClientRect();
+          const midY = (e.touches[0].clientY + e.touches[1].clientY) / 2;
+          const midX = (e.touches[0].clientX + e.touches[1].clientX) / 2;
+          this.pinch = {
+            d0: dist(e),
+            z0: this.zoom,
+            fx: midX - rc.left,
+            fy: stream.scrollTop + (midY - rc.top),
+            clientY: midY - rc.top,
+            scale: 1
+          };
         }, { passive: true });
         stream.addEventListener("touchmove", (e) => {
-          if (e.touches.length !== 2 || !d0 || stepped) return;
-          const d = Math.hypot(
-            e.touches[0].clientX - e.touches[1].clientX,
-            e.touches[0].clientY - e.touches[1].clientY
-          );
-          const ratio = d / d0;
-          if (ratio > 1.28) {
-            stepped = true;
-            this.stepZoom(1);
-          } else if (ratio < 0.78) {
-            stepped = true;
-            this.stepZoom(-1);
-          }
-        }, { passive: true });
-        stream.addEventListener("touchend", () => {
-          d0 = 0;
-        }, { passive: true });
-        stream.addEventListener("wheel", (e) => {
-          if (!e.ctrlKey && !e.metaKey) return;
+          const p = this.pinch;
+          if (!p || e.touches.length !== 2) return;
           e.preventDefault();
-          this.stepZoom(e.deltaY < 0 ? 1 : -1);
+          const raw = dist(e) / p.d0;
+          p.scale = clampZoom(p.z0 * raw) / p.z0;
+          this.previewZoom(p.scale, p.fx, p.fy);
+        }, { passive: false });
+        const end = () => {
+          const p = this.pinch;
+          if (!p) return;
+          this.pinch = null;
+          const anchor = this.anchorAt(p.fy);
+          const screenY = anchor ? p.clientY + (anchor.y - p.fy) * p.scale : p.clientY;
+          this.commitZoom(p.z0 * p.scale, anchor?.id ?? null, screenY);
+        };
+        stream.addEventListener("touchend", end, { passive: true });
+        stream.addEventListener("touchcancel", end, { passive: true });
+        let wheelTimer = null;
+        let wheel = null;
+        stream.addEventListener("wheel", (e) => {
+          if (!e.ctrlKey && !e.metaKey || this.depth === 3) return;
+          e.preventDefault();
+          const rc = stream.getBoundingClientRect();
+          if (!wheel) {
+            wheel = {
+              z0: this.zoom,
+              scale: 1,
+              fx: e.clientX - rc.left,
+              fy: stream.scrollTop + (e.clientY - rc.top),
+              clientY: e.clientY - rc.top
+            };
+          }
+          wheel.scale = clampZoom(wheel.z0 * wheel.scale * Math.pow(1.0015, -e.deltaY)) / wheel.z0;
+          this.previewZoom(wheel.scale, wheel.fx, wheel.fy);
+          if (wheelTimer) window.clearTimeout(wheelTimer);
+          wheelTimer = window.setTimeout(() => {
+            const w = wheel;
+            wheel = null;
+            const anchor = this.anchorAt(w.fy);
+            this.commitZoom(
+              w.z0 * w.scale,
+              anchor?.id ?? null,
+              anchor ? w.clientY + (anchor.y - w.fy) * w.scale : w.clientY
+            );
+          }, 140);
         }, { passive: false });
         let raf = 0;
         stream.addEventListener("scroll", () => {
@@ -9095,7 +9166,7 @@ var init_timelineView = __esm({
             mt.textContent = label;
             g.onclick = () => {
               this.pendingYear = c2.year;
-              this.setZoom(1);
+              this.commitZoom(1, null, 0);
             };
           }
         }
@@ -9205,6 +9276,7 @@ var init_timelineView = __esm({
           outer.onclick = () => this.selectNode(e, outer);
         }
         stream.appendChild(svg);
+        this.svgEl = svg;
         this.nowEl = stream.createDiv({ cls: "sg-tl-now" });
         stream.prepend(this.nowEl);
         this.updateNow();

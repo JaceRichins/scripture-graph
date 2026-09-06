@@ -2376,3 +2376,9 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
 }
 .sg-tl-now-on { opacity: 1; transform: none; }
 .sg-tl-now:empty { display: none; }
+
+/* continuous zoom: the drawn page scales live under the fingers */
+.sg-tl-svg { will-change: transform; transform-origin: 50% 0; }
+.sg-tl-stream { touch-action: pan-y; }
+.sg-tl-stream-zooming { overflow: hidden; }
+.sg-tl-svg.sg-tl-zooming .sg-tl-float, .sg-tl-svg.sg-tl-zooming .sg-tl-halo-breathe, .sg-tl-svg.sg-tl-zooming .sg-tl-star { animation: none; }
