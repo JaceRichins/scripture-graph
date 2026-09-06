@@ -116,6 +116,7 @@ Scripture: [[Alma 30]] · My notes: [[Alma 30 - My Notes]]
 - **Signs** (reference-entry) *(explicit citation)*
 - **Antichrist** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

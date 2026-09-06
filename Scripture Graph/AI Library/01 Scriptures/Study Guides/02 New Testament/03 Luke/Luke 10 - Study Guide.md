@@ -96,13 +96,13 @@ Several teachings stand out: (1) response to Jesus's authorized messengers is tr
 - **Racial and Cultural Prejudice** (reference-entry) *(explicit citation)*
 - **19 Stewards over This Ministry** (history) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Relief Society** (reference-entry) *(explicit citation)*
 - **Mercy** (reference-entry) *(explicit citation)*
 - **Service** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
-- **Anoint** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

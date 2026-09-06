@@ -68,6 +68,7 @@ _Not yet developed._
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

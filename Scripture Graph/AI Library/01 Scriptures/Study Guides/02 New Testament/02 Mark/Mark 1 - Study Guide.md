@@ -96,6 +96,7 @@ John joins [[Repentance]] and [[Baptism]] with confession and remission of sins 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Capernaum** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
@@ -104,6 +105,7 @@ John joins [[Repentance]] and [[Baptism]] with confession and remission of sins 
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
 - **Fish** (reference-entry) *(explicit citation)*
+- **Chapter 6: The Mission of John the Baptist** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

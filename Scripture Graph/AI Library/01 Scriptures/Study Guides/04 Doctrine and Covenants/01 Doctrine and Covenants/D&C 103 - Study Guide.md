@@ -100,6 +100,10 @@ Calling the Saints "saviors of men" is best read within the accompanying light-a
 - **The Acceptable Offering of Zion’s Camp** (history) *(explicit citation)*
 - **18 The Camp of Israel** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

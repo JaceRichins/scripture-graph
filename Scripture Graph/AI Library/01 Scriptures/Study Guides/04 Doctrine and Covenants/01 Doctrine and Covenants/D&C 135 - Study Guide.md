@@ -84,15 +84,15 @@ The chapter presents sacred witness as something that may carry mortal cost. Its
 ## Church History
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
+- **Chapter 46: The Martyrdom: The Prophet Seals His Testimony with His Blood** (teachings) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Remembering the Martyrdom** (history) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **44 A Lamb to the Slaughter** (history) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
+- **Chapter 47: President Brigham Young’s Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Mormonism** (reference-entry) *(explicit citation)*
-- **Joseph Smith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

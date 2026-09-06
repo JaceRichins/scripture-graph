@@ -66,6 +66,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Foreordination** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
@@ -73,6 +74,7 @@ _Not yet developed._
 - **Book of life** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
 - **Dragon** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

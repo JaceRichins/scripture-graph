@@ -109,6 +109,7 @@ The [[Gift of the Holy Ghost]] appears before the public ministries begin: John 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Addiction** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
@@ -118,7 +119,6 @@ The [[Gift of the Holy Ghost]] appears before the public ministries begin: John 
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
-- **Circumcision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

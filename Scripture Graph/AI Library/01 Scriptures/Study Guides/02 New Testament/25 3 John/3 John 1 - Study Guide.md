@@ -65,6 +65,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Parenting** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -4017,6 +4017,32 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1ne-9-0ba593eb",
+   "t": "Nephi explains the two sets of plates",
+   "y0": -600,
+   "y1": -592,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the chapter approximately 600–592 B.C.; the text itself supplies no narrower date.",
+   "chapters": [
+    "1 Nephi 9"
+   ],
+   "people": [
+    "Nephi"
+   ],
+   "places": [
+    "Valley of Lemuel"
+   ],
+   "things": [
+    "Plates of Nephi"
+   ]
+  },
+  {
    "id": "r-1sam-12-8fac2c25",
    "t": "Samuel's Farewell Address at Saul's Coronation",
    "y0": -1050,
@@ -5398,6 +5424,33 @@ timeline module, not this file._
    "people": [
     "Peter (apostle)",
     "Paul (apostle)"
+   ]
+  },
+  {
+   "id": "r-2sam-11-a5ec7ef1",
+   "t": "Ammonite War (Siege of Rabbah) and the Bathsheba affair",
+   "y0": -995,
+   "y1": -990,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Conventional biblical chronology places David's reign c. 1010-970 BC; this episode falls in his mid-reign, prior to Absalom's revolt (2 Samuel 15-18).",
+   "chapters": [
+    "2 Samuel 11"
+   ],
+   "people": [
+    "David",
+    "Uriah the Hittite",
+    "Joab"
+   ],
+   "places": [
+    "Rabbah",
+    "Jerusalem"
    ]
   },
   {
@@ -11125,6 +11178,58 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-hel-16-a0c4ec6a",
+   "t": "Samuel's departure and the beginning of the birth signs",
+   "y0": -6,
+   "y1": -1,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the chapter to about 6–1 B.C.; the internal narrative spans the eighty-sixth through ninetieth years of the judges.",
+   "chapters": [
+    "Helaman 16"
+   ],
+   "people": [
+    "Samuel",
+    "Nephi",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "signs and wonders",
+    "record of Helaman"
+   ]
+  },
+  {
+   "id": "r-hel-16-da02c2b7",
+   "t": "Signs and angelic appearances mark 90th year of the judges",
+   "y0": -2,
+   "y1": -1,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Helaman 16:13-14 places 'great signs...and wonders' and angelic appearances in the ninetieth year of the reign of the judges; the chapter heading correlates the chapter to about 6-1 B.C.",
+   "chapters": [
+    "Helaman 16"
+   ],
+   "people": [
+    "Nephi (son of Lehi)",
+    "Samuel the Lamanite"
+   ]
+  },
+  {
    "id": "r-hel-3-d309b1dc",
    "t": "Migration, church growth, and Helaman's death",
    "y0": -49,
@@ -11856,6 +11961,54 @@ timeline module, not this file._
    ],
    "things": [
     "Cyrus Cylinder"
+   ]
+  },
+  {
+   "id": "r-isa-46-8a0c2514",
+   "t": "Nabonidus gathers provincial cult idols into Babylon",
+   "y0": -545,
+   "y1": -539,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Attested in Babylonian sources (e.g., the Nabonidus Chronicle) describing the king's unpopular concentration of city-gods' statues in Babylon before its fall.",
+   "chapters": [
+    "Isaiah 46"
+   ],
+   "people": [
+    "Nabonidus"
+   ],
+   "places": [
+    "Babylon"
+   ]
+  },
+  {
+   "id": "r-isa-46-d0846183",
+   "t": "Cyrus conquers Babylon and issues the Cyrus Cylinder",
+   "y0": -539,
+   "y1": -538,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Well-documented in the Cyrus Cylinder and classical sources; Cyrus claims to have restored displaced cult idols to their home sanctuaries.",
+   "chapters": [
+    "Isaiah 46"
+   ],
+   "people": [
+    "Cyrus"
+   ],
+   "places": [
+    "Babylon"
    ]
   },
   {
@@ -13512,6 +13665,29 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-lam-3-be10aa2a",
+   "t": "Babylonian destruction of Jerusalem and composition of Lamentations",
+   "y0": -587,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Lamentations is traditionally dated to shortly after the Babylonian destruction of Jerusalem and Solomon's Temple, with Jeremiah traditionally identified as author/eyewitness, though the book itself is anonymous.",
+   "chapters": [
+    "Lamentations 3"
+   ],
+   "people": [
+    "Jeremiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-lam-4-e068b56a",
    "t": "Babylonian siege and destruction of Jerusalem",
    "y0": -588,
@@ -13540,6 +13716,62 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-lev-10-937b7a8b",
+   "t": "Death of Nadab and Abihu near the newly dedicated tabernacle",
+   "y0": -1446,
+   "y1": -1446,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional biblical chronology places the Exodus circa 1446 BC, with Leviticus events, including the tabernacle's dedication in Leviticus 8-9, occurring shortly afterward in the wilderness at Sinai.",
+   "chapters": [
+    "Leviticus 10"
+   ],
+   "people": [
+    "Aaron",
+    "Moses",
+    "Nadab",
+    "Abihu"
+   ],
+   "places": [
+    "Tabernacle at Sinai"
+   ]
+  },
+  {
+   "id": "r-lev-16-19dc80d0",
+   "t": "Institution of the Day of Atonement at Sinai",
+   "y0": -1445,
+   "y1": -1445,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Leviticus is set during Israel's encampment at Sinai in the first year after the Exodus, dated traditionally to c. 1446/1445 BC on an early-Exodus chronology; this law follows the deaths of Nadab and Abihu narrated in Leviticus 10.",
+   "chapters": [
+    "Leviticus 16"
+   ],
+   "people": [
+    "Aaron",
+    "Moses"
+   ],
+   "places": [
+    "Sinai wilderness"
+   ],
+   "things": [
+    "Tabernacle",
+    "Ark of the Covenant"
+   ]
+  },
+  {
    "id": "r-lev-9-18d9c275",
    "t": "Aaron's Inaugural Sacrifices at the Wilderness Tabernacle",
    "y0": -1445,
@@ -13562,6 +13794,1054 @@ timeline module, not this file._
    "things": [
     "Tabernacle",
     "Altar"
+   ]
+  },
+  {
+   "id": "r-luke-1-551a6073",
+   "t": "Annunciations and infancy events under Herod the Great",
+   "y0": -6,
+   "y1": -4,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "visions"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Luke 1:5 sets the events 'in the days of Herod, the king of Judaea'; Herod the Great's death is conventionally dated c. 4 BC, placing this chapter's events in his final years.",
+   "chapters": [
+    "Luke 1"
+   ],
+   "people": [
+    "Zacharias",
+    "Elisabeth",
+    "Mary (mother of Jesus)",
+    "Gabriel"
+   ],
+   "places": [
+    "Judaea",
+    "Nazareth"
+   ]
+  },
+  {
+   "id": "r-luke-13-beb98dc6",
+   "t": "Jesus's final journey toward Jerusalem (Luke's travel narrative)",
+   "y0": 32,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Luke 13:22 situates this teaching explicitly within Jesus's extended journey toward Jerusalem that culminates in the Passion; absolute year is the conventional approximate dating of Jesus's final year of ministry.",
+   "chapters": [
+    "Luke 13"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Herod Antipas",
+    "Pharisees"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-luke-14-19d2c810",
+   "t": "Luke 14 within Jesus's journey narrative toward Jerusalem",
+   "y0": 32,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Luke situates this teaching within the extended travel section beginning at Luke 9:51 ('he stedfastly set his face to go to Jerusalem') and running through Luke 19, commonly dated to the final months before the crucifixion.",
+   "chapters": [
+    "Luke 14"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-luke-18-be78427d",
+   "t": "Jesus' final journey toward Jerusalem before the Passion",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Positioned by Luke shortly before the final Passover, based on the explicit third Passion prediction naming Jerusalem as the destination (18:31-33); the exact calendar year of the crucifixion is disputed among scholars between roughly AD 30 and AD 33.",
+   "chapters": [
+    "Luke 18"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Peter (apostle)"
+   ],
+   "places": [
+    "Jerusalem",
+    "Jericho"
+   ]
+  },
+  {
+   "id": "r-luke-19-c5bb9652",
+   "t": "Triumphal Entry and Temple Cleansing (Passion Week begins)",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "temples"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Scholarly estimates for the crucifixion (and hence the preceding Passion week events) generally fall in the range AD 30-33, based on Passover dating and the tenure of Pontius Pilate (AD 26-36).",
+   "chapters": [
+    "Luke 19"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Second Temple"
+   ]
+  },
+  {
+   "id": "r-luke-21-8fbdcb73",
+   "t": "Roman destruction of Jerusalem and its temple",
+   "y0": 70,
+   "y1": 70,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "The Roman army under Titus destroyed Jerusalem and the temple in AD 70, an event widely understood as fulfilling the prediction that not one stone would be left upon another.",
+   "chapters": [
+    "Luke 21"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-luke-21-f90bca91",
+   "t": "Olivet Discourse delivered at the Jerusalem temple",
+   "y0": 33,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally placed during Jesus' final week before the crucifixion, prompted by disciples' admiration of the temple and delivered partly on the Mount of Olives.",
+   "chapters": [
+    "Luke 21"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Mount of Olives"
+   ]
+  },
+  {
+   "id": "r-luke-23-5bb19f95",
+   "t": "Trial, crucifixion, and burial of Jesus",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Common historical estimates place Jesus's crucifixion during the prefecture of Pontius Pilate, but the precise year remains debated.",
+   "chapters": [
+    "Luke 23"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Pilate",
+    "Herod",
+    "Joseph of Arimathæa"
+   ],
+   "places": [
+    "Jerusalem",
+    "Calvary"
+   ],
+   "things": [
+    "cross",
+    "sepulchre"
+   ]
+  },
+  {
+   "id": "r-luke-3-87878822",
+   "t": "Fifteenth year of Tiberius — John's ministry begins",
+   "y0": 28,
+   "y1": 29,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Tiberius's reign is conventionally dated from AD 14; Luke's 'fifteenth year' (3:1) yields c. AD 28-29, though ancient regnal-year reckoning conventions leave some range.",
+   "chapters": [
+    "Luke 3"
+   ],
+   "people": [
+    "John the Baptist",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Judaea"
+   ]
+  },
+  {
+   "id": "r-luke-5-4a6a81c3",
+   "t": "Galilean ministry: call of first disciples and early healings",
+   "y0": 28,
+   "y1": 30,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Gospel harmonizations place these episodes early in Jesus' Galilean ministry, shortly after his teaching and rejection at Nazareth described in Luke 4.",
+   "chapters": [
+    "Luke 5"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Peter (apostle)"
+   ],
+   "places": [
+    "Galilee"
+   ]
+  },
+  {
+   "id": "r-mal-3-9deabd18",
+   "t": "Malachi's prophetic ministry (post-exilic Judah)",
+   "y0": -460,
+   "y1": -430,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "temples"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Internal evidence of a functioning Second Temple and priesthood, and concerns paralleling Ezra-Nehemiah reforms; no date is stated in the text.",
+   "chapters": [
+    "Malachi 3"
+   ],
+   "people": [
+    "Malachi"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-mark-10-dc6964ce",
+   "t": "Jesus' final journey from Galilee/Perea to Jerusalem",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Internal Gospel sequencing places this journey shortly before the final Passover and crucifixion; exact year depends on disputed crucifixion chronology (commonly AD 30 or AD 33).",
+   "chapters": [
+    "Mark 10"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Peter (apostle)",
+    "James (apostle)",
+    "John (apostle)"
+   ],
+   "places": [
+    "Jerusalem",
+    "Jericho"
+   ]
+  },
+  {
+   "id": "r-mark-12-57052373",
+   "t": "Temple controversies during Jesus's final week in Jerusalem",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Mark places this sequence of temple debates within the final week before the crucifixion; the exact year of the crucifixion (commonly given as AD 30 or AD 33) remains debated among scholars.",
+   "chapters": [
+    "Mark 12"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Pharisees",
+    "Sadducees",
+    "scribes"
+   ],
+   "places": [
+    "Jerusalem temple"
+   ]
+  },
+  {
+   "id": "r-mark-13-c4d2d635",
+   "t": "Olivet Discourse given; Jerusalem temple later destroyed",
+   "y0": 30,
+   "y1": 70,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "prophets"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Narrative places the discourse during Passion week, traditionally dated c. AD 30; the predicted temple destruction was fulfilled when Roman forces under Titus destroyed Jerusalem and its temple in AD 70.",
+   "chapters": [
+    "Mark 13"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Peter (apostle)"
+   ],
+   "places": [
+    "Jerusalem",
+    "Mount of Olives"
+   ],
+   "things": [
+    "Herod's Temple"
+   ]
+  },
+  {
+   "id": "r-mark-14-2fa1e0d2",
+   "t": "Last Supper, Gethsemane, and arrest of Jesus",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Christian chronology places these events at Passover in either AD 30 or AD 33, depending on differing reconstructions of the length of Jesus's ministry and Pilate's tenure; scholars are not agreed on the exact year.",
+   "chapters": [
+    "Mark 14"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Peter (apostle)",
+    "Judas Iscariot"
+   ],
+   "places": [
+    "Gethsemane",
+    "Bethany"
+   ],
+   "things": [
+    "Passover",
+    "Sacrament"
+   ]
+  },
+  {
+   "id": "r-mark-2-c465132d",
+   "t": "Jesus' early Galilean ministry based in Capernaum",
+   "y0": 28,
+   "y1": 30,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional placement of Jesus' Galilean ministry, of which the Capernaum house-healing and calling of Levi are early episodes, within the commonly cited ~AD 28-30 window.",
+   "chapters": [
+    "Mark 2"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Levi (Matthew)"
+   ],
+   "places": [
+    "Capernaum"
+   ]
+  },
+  {
+   "id": "r-mark-8-020df6a9",
+   "t": "Peter's confession and first Passion prediction at Caesarea Philippi",
+   "y0": 32,
+   "y1": 32,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Gospel harmonies place this episode roughly a year before the crucifixion, during Jesus' final withdrawal north before the journey toward Jerusalem; the exact year is not stated in the text and depends on broader chronological reconstructions.",
+   "chapters": [
+    "Mark 8"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Peter (apostle)"
+   ],
+   "places": [
+    "Caesarea Philippi"
+   ]
+  },
+  {
+   "id": "r-matt-10-4bbf7f8a",
+   "t": "Jesus commissions and sends out the Twelve on the Limited Commission",
+   "y0": 28,
+   "y1": 30,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed within Jesus's Galilean ministry prior to the Passion; exact year depends on broader, disputed New Testament chronology.",
+   "chapters": [
+    "Matthew 10"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Peter",
+    "Judas Iscariot"
+   ],
+   "places": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "r-matt-11-673b7003",
+   "t": "John the Baptist's imprisonment during Jesus's Galilean ministry",
+   "y0": 29,
+   "y1": 30,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Conventional Synoptic chronology places John's imprisonment by Herod Antipas during the early-to-middle period of Jesus's Galilean ministry, prior to John's execution narrated later in the Gospels.",
+   "chapters": [
+    "Matthew 11"
+   ],
+   "people": [
+    "Jesus Christ",
+    "John the Baptist"
+   ],
+   "places": [
+    "Capernaum"
+   ]
+  },
+  {
+   "id": "r-matt-15-82e20dd7",
+   "t": "Journey to Tyre and Sidon; feeding of the four thousand",
+   "y0": 28,
+   "y1": 29,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Gospel harmonies place this episode within Jesus's later Galilean/border ministry, after the feeding of the five thousand and before the final journey to Jerusalem; the exact year is not stated in the text itself.",
+   "chapters": [
+    "Matthew 15"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Peter (apostle)"
+   ],
+   "places": [
+    "Tyre",
+    "Sidon"
+   ]
+  },
+  {
+   "id": "r-matt-17-259ab384",
+   "t": "Transfiguration of Jesus on the mountain",
+   "y0": 30,
+   "y1": 30,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "visions"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally placed within the final months of Jesus's Galilean ministry based on internal Gospel sequencing ('after six days' following Peter's confession), roughly six months before the Crucifixion.",
+   "chapters": [
+    "Matthew 17"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Peter (apostle)",
+    "Moses (prophet)"
+   ],
+   "places": [
+    "Galilee"
+   ]
+  },
+  {
+   "id": "r-matt-19-46457481",
+   "t": "Jesus's Judean/Perean ministry before the final Passover",
+   "y0": 29,
+   "y1": 30,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Positioned in Matthew's narrative after the Galilean ministry (Matthew 18) and before the journey to Jerusalem for the final Passover (Matthew 20-21); absolute dating follows conventional harmonization of the Gospels, which itself is not precisely fixed.",
+   "chapters": [
+    "Matthew 19"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Peter (apostle)"
+   ],
+   "places": [
+    "Judaea",
+    "Jordan River"
+   ]
+  },
+  {
+   "id": "r-matt-21-796eac5d",
+   "t": "Triumphal Entry opens Passion Week in Jerusalem",
+   "y0": 30,
+   "y1": 30,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "temples"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Conventional dating places the crucifixion around AD 30; the triumphal entry, temple cleansing, and ensuing conflict narratives in this chapter mark the opening days of that final Passover week.",
+   "chapters": [
+    "Matthew 21"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-matt-22-95328bca",
+   "t": "Jesus's temple controversies during Passion Week",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Gospel harmonies conventionally place these Jerusalem temple debates (following Matthew 21) during the final week before the crucifixion, often reckoned to Tuesday of Holy Week; the exact year of the crucifixion is itself disputed among historians.",
+   "chapters": [
+    "Matthew 22"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Pharisees",
+    "Sadducees",
+    "Herodians"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-matt-24-ce739514",
+   "t": "Olivet Discourse delivered during Passion Week",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed by the Synoptic narrative sequence in the days just before the Crucifixion, following Jesus's departure from the temple.",
+   "chapters": [
+    "Matthew 24"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Mount of Olives",
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-matt-26-ddcb7687",
+   "t": "The Last Supper, Gethsemane, and arrest of Jesus",
+   "y0": 30,
+   "y1": 33,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Conventional Gospel chronology places Jesus's final Passover and arrest in Jerusalem in either AD 30 or AD 33, depending on disputed reconstructions of the Passion-week calendar.",
+   "chapters": [
+    "Matthew 26"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Judas Iscariot",
+    "Caiaphas",
+    "Peter (apostle)"
+   ],
+   "places": [
+    "Gethsemane",
+    "Bethany"
+   ],
+   "things": [
+    "Thirty pieces of silver"
+   ]
+  },
+  {
+   "id": "r-matt-3-5a42feaf",
+   "t": "John the Baptist's ministry and Jesus's baptism",
+   "y0": 26,
+   "y1": 27,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Christian chronology places the start of John's public ministry around AD 26-27, based on Luke 3:1's dating to the fifteenth year of Tiberius Caesar; exact year is disputed among scholars.",
+   "chapters": [
+    "Matthew 3"
+   ],
+   "people": [
+    "Jesus Christ",
+    "John the Baptist"
+   ],
+   "places": [
+    "Jordan River"
+   ]
+  },
+  {
+   "id": "r-matt-4-2b2472d2",
+   "t": "Temptation of Jesus and Start of Galilean Ministry",
+   "y0": 27,
+   "y1": 27,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Gospel chronologies place this shortly after Jesus' baptism, itself reckoned from Luke's dating of John the Baptist's ministry to the fifteenth year of Tiberius; exact year is disputed among scholars.",
+   "chapters": [
+    "Matthew 4"
+   ],
+   "people": [
+    "Jesus Christ",
+    "Satan",
+    "Peter (apostle)",
+    "Andrew (apostle)"
+   ],
+   "places": [
+    "Galilee",
+    "Capernaum"
+   ]
+  },
+  {
+   "id": "r-micah-4-5275cc5e",
+   "t": "Babylonian exile of Judah named in Micah 4:10",
+   "y0": -597,
+   "y1": -538,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Micah 4:10 names Babylon as Zion's place of exile and redemption; this matches the historical Babylonian captivity of Judah, which postdates Micah's eighth-century ministry by over a century, a gap central to the disputed dating of this verse.",
+   "chapters": [
+    "Micah 4"
+   ],
+   "places": [
+    "Babylon"
+   ]
+  },
+  {
+   "id": "r-micah-4-deaf3dc1",
+   "t": "Micah's prophetic ministry in Judah",
+   "y0": -750,
+   "y1": -686,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Micah 1:1's superscription dates his oracles to the reigns of Jotham, Ahaz, and Hezekiah, kings of Judah, an eighth-century BC window during Assyria's ascendancy.",
+   "chapters": [
+    "Micah 4"
+   ],
+   "people": [
+    "Micah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-micah-5-b33b97a8",
+   "t": "Traditional dating of Micah's prophetic ministry",
+   "y0": -750,
+   "y1": -686,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Micah's superscription (Micah 1:1, outside this chapter) places his ministry in the reigns of Jotham, Ahaz, and Hezekiah of Judah, roughly contemporary with Isaiah; included here only as general background for chapter 5's Assyrian setting.",
+   "chapters": [
+    "Micah 5"
+   ],
+   "places": [
+    "Judah"
+   ]
+  },
+  {
+   "id": "r-morm-1-0ad468c2",
+   "t": "Mormon's childhood commission and early societal collapse",
+   "y0": 321,
+   "y1": 326,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The chapter heading assigns approximately A.D. 321–26; the narrative follows Mormon from about age ten through age fifteen and includes an intervening four-year peace.",
+   "chapters": [
+    "Mormon 1"
+   ],
+   "people": [
+    "Mormon",
+    "Ammaron",
+    "Jesus Christ"
+   ],
+   "places": [
+    "Zarahemla",
+    "hill Shim"
+   ],
+   "things": [
+    "plates of Nephi",
+    "sacred engravings"
+   ]
+  },
+  {
+   "id": "r-morm-2-01d7a96f",
+   "t": "Mormon's early command and Nephite retreat, AD 326-350",
+   "y0": 326,
+   "y1": 350,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "records"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Derived from the chapter's own repeated year-count markers (verses 2, 9, 15, 16, 22, 28), which are internal to the Nephite record rather than externally corroborated.",
+   "chapters": [
+    "Mormon 2"
+   ],
+   "people": [
+    "Mormon",
+    "Aaron (Lamanite king)"
+   ],
+   "places": [
+    "Angola",
+    "Shem"
+   ]
+  },
+  {
+   "id": "r-morm-2-39288c48",
+   "t": "Mormon's early command, record retrieval, and territorial treaty",
+   "y0": 326,
+   "y1": 350,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "records"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "The chapter dates Mormon's first campaign to the 326th year and the territorial treaty to the 350th year; these are the narrative's own chronological notices.",
+   "chapters": [
+    "Mormon 2"
+   ],
+   "people": [
+    "Mormon",
+    "Ammaron",
+    "Aaron"
+   ],
+   "places": [
+    "Jashon",
+    "Shem"
+   ],
+   "things": [
+    "plates of Nephi",
+    "territorial treaty"
+   ]
+  },
+  {
+   "id": "r-morm-3-51ea1b76",
+   "t": "Nephite stand at Desolation and Mormon's refusal to lead",
+   "y0": 350,
+   "y1": 362,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Text gives explicit internal year counts: ten years of peace (v1), then 'three hundred and sixty years from the coming of Christ' (v4), with battles in the 361st and 362nd years (vv7-8).",
+   "chapters": [
+    "Mormon 3"
+   ],
+   "people": [
+    "Mormon",
+    "king of the Lamanites (unnamed)"
+   ],
+   "places": [
+    "Desolation"
+   ]
+  },
+  {
+   "id": "r-morm-3-a9530e03",
+   "t": "Preparation and battles at Desolation",
+   "y0": 360,
+   "y1": 362,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Mormon numbers the end of the ten-year interval as year 360 and dates the two battles to years 361 and 362.",
+   "chapters": [
+    "Mormon 3"
+   ],
+   "people": [
+    "Mormon",
+    "Nephites",
+    "Lamanites"
+   ],
+   "places": [
+    "Desolation"
+   ],
+   "things": [
+    "fortifications",
+    "epistle"
+   ]
+  },
+  {
+   "id": "r-morm-4-4927cc36",
+   "t": "Mormon retrieves Ammaron's records from Shim",
+   "y0": 375,
+   "y1": 375,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "journeys"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "The retrieval follows the chapter's year-375 campaign and Mormon's recognition that the land was about to be overthrown.",
+   "chapters": [
+    "Mormon 4"
+   ],
+   "people": [
+    "Mormon",
+    "Ammaron"
+   ],
+   "places": [
+    "hill Shim"
+   ],
+   "things": [
+    "Ammaron's records"
+   ]
+  },
+  {
+   "id": "r-morm-4-6493ef97",
+   "t": "Nephite-Lamanite war and final military collapse",
+   "y0": 363,
+   "y1": 375,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "The narrative explicitly marks years 363, 364, 366, 367, and 375 within its own chronological system.",
+   "chapters": [
+    "Mormon 4"
+   ],
+   "people": [
+    "Mormon",
+    "Nephites",
+    "Lamanites"
+   ],
+   "places": [
+    "Desolation",
+    "Teancum"
+   ]
+  },
+  {
+   "id": "r-morm-6-89860589",
+   "t": "Final gathering and destruction at Cumorah",
+   "y0": 384,
+   "y1": 385,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Mormon 6:5 places the gathering after 384 years had passed; the official chapter heading dates the final destruction to about A.D. 385.",
+   "chapters": [
+    "Mormon 6"
+   ],
+   "people": [
+    "Mormon",
+    "Moroni",
+    "king of the Lamanites"
+   ],
+   "places": [
+    "Cumorah"
+   ],
+   "things": [
+    "sacred records",
+    "plates of Nephi"
+   ]
+  },
+  {
+   "id": "r-morm-8-213797f4",
+   "t": "Moroni records the aftermath of Nephite destruction",
+   "y0": 400,
+   "y1": 400,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "wars"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Mormon 8:6 states that four hundred years had passed since the coming of the Lord and Savior.",
+   "chapters": [
+    "Mormon 8"
+   ],
+   "people": [
+    "Moroni",
+    "Mormon"
+   ],
+   "places": [
+    "Cumorah"
+   ],
+   "things": [
+    "Nephite record"
    ]
   },
   {
@@ -13618,6 +14898,290 @@ timeline module, not this file._
    "things": [
     "taxation",
     "temple"
+   ]
+  },
+  {
+   "id": "r-mosiah-17-e91362a6",
+   "t": "Abinadi executed and Alma preserves his words",
+   "y0": -148,
+   "y1": -148,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading places these events at approximately 148 B.C.; the chapter itself supplies no absolute date.",
+   "chapters": [
+    "Mosiah 17"
+   ],
+   "people": [
+    "Abinadi",
+    "Alma",
+    "King Noah"
+   ],
+   "things": [
+    "Alma's written record"
+   ]
+  },
+  {
+   "id": "r-mosiah-2-f65f2e3c",
+   "t": "Benjamin addresses the people and announces Mosiah's reign",
+   "y0": -124,
+   "y1": -124,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the address to about 124 B.C.; the chapter itself narrates Benjamin's announcement that Mosiah is king.",
+   "chapters": [
+    "Mosiah 2"
+   ],
+   "people": [
+    "King Benjamin",
+    "Mosiah"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "temple",
+    "written speech"
+   ]
+  },
+  {
+   "id": "r-mosiah-25-65892dde",
+   "t": "Reunification and church organization at Zarahemla",
+   "y0": -120,
+   "y1": -120,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading supplied with the text dates the events about 120 B.C.; the verses themselves do not state a year.",
+   "chapters": [
+    "Mosiah 25"
+   ],
+   "people": [
+    "Mosiah",
+    "Alma",
+    "Limhi"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "records",
+    "churches"
+   ]
+  },
+  {
+   "id": "r-mosiah-26-78b0df47",
+   "t": "Alma establishes church discipline under Mosiah",
+   "y0": -120,
+   "y1": -100,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns the narrated events broadly to about 120–100 B.C.; the chapter itself only locates them in Mosiah's reign.",
+   "chapters": [
+    "Mosiah 26"
+   ],
+   "people": [
+    "Alma",
+    "King Mosiah",
+    "Abinadi"
+   ],
+   "places": [
+    "Land of Zarahemla"
+   ],
+   "things": [
+    "Church records",
+    "Church discipline"
+   ]
+  },
+  {
+   "id": "r-mosiah-27-01a8b6bf",
+   "t": "Conversion and early ministry of Alma and the sons of Mosiah",
+   "y0": -100,
+   "y1": -92,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "visions",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns Mosiah 27 approximately to 100–92 B.C.; the chapter itself provides no narrower absolute date.",
+   "chapters": [
+    "Mosiah 27"
+   ],
+   "people": [
+    "Alma the Younger",
+    "Alma the Elder",
+    "Mosiah",
+    "sons of Mosiah"
+   ],
+   "places": [
+    "Zarahemla"
+   ],
+   "things": [
+    "angelic appearance"
+   ]
+  },
+  {
+   "id": "r-mosiah-28-c6145e19",
+   "t": "Mosiah transfers the sacred records and interpreters to Alma",
+   "y0": -92,
+   "y1": -92,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The transfer follows Mosiah's translation in the chapter's narrative and falls under the heading's approximate 92 B.C. date.",
+   "chapters": [
+    "Mosiah 28"
+   ],
+   "people": [
+    "Mosiah",
+    "Alma son of Alma"
+   ],
+   "things": [
+    "sacred records",
+    "interpreters"
+   ]
+  },
+  {
+   "id": "r-mosiah-4-61feaaa5",
+   "t": "King Benjamin teaches the converted multitude",
+   "y0": -124,
+   "y1": -124,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading places King Benjamin's continuing address at about 124 B.C.",
+   "chapters": [
+    "Mosiah 4"
+   ],
+   "people": [
+    "King Benjamin",
+    "Jesus Christ"
+   ],
+   "things": [
+    "remission of sins",
+    "care for the poor"
+   ]
+  },
+  {
+   "id": "r-mosiah-5-438f05ff",
+   "t": "Benjamin's people enter a covenant",
+   "y0": -124,
+   "y1": -124,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The supplied official chapter heading dates the episode to about 124 B.C.",
+   "chapters": [
+    "Mosiah 5"
+   ],
+   "people": [
+    "King Benjamin",
+    "Jesus Christ"
+   ],
+   "things": [
+    "covenant",
+    "name of Christ"
+   ]
+  },
+  {
+   "id": "r-mosiah-7-8ce680c8",
+   "t": "Ammon reaches Limhi and announces contact with Zarahemla",
+   "y0": -121,
+   "y1": -121,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the expedition, recognition scene, and Limhi's assembly to about 121 B.C.",
+   "chapters": [
+    "Mosiah 7"
+   ],
+   "people": [
+    "Ammon",
+    "Limhi",
+    "Zeniff"
+   ],
+   "places": [
+    "Zarahemla",
+    "Land of Nephi"
+   ],
+   "things": [
+    "Lamanite tribute",
+    "temple assembly"
+   ]
+  },
+  {
+   "id": "r-mosiah-9-63e457c0",
+   "t": "Zeniff's migration, settlement, and first reported war",
+   "y0": -200,
+   "y1": -187,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns the narrative approximately 200–187 B.C.; internally, Mosiah 9:11 and 9:14 mark twelve years of settlement followed by war in the thirteenth year of Zeniff's reign.",
+   "chapters": [
+    "Mosiah 9"
+   ],
+   "people": [
+    "Zeniff",
+    "King Laman"
+   ],
+   "places": [
+    "Land of Lehi-Nephi",
+    "Land of Shilom"
+   ],
+   "things": [
+    "treaty",
+    "settlement"
    ]
   },
   {
@@ -13697,6 +15261,90 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-neh-8-1048fe6c",
+   "t": "Ezra's Public Reading of the Law and Feast of Tabernacles",
+   "y0": -445,
+   "y1": -445,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally placed shortly after completion of Jerusalem's wall in Nehemiah's twentieth year under Artaxerxes I, commonly dated to 445 BC; the exact regnal correlation is debated among scholars.",
+   "chapters": [
+    "Nehemiah 8"
+   ],
+   "people": [
+    "Ezra",
+    "Nehemiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "Book of the Law"
+   ]
+  },
+  {
+   "id": "r-neh-9-2cfc6397",
+   "t": "Covenant renewal prayer and fast under Nehemiah",
+   "y0": -445,
+   "y1": -445,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Placed in Nehemiah's governorship, conventionally dated to the 20th year of Artaxerxes I (c. 445 BC); the fast follows shortly after the Feast of Tabernacles described in Nehemiah 8.",
+   "chapters": [
+    "Nehemiah 9"
+   ],
+   "people": [
+    "Ezra (implied context, not named in this chapter)"
+   ],
+   "places": [
+    "Jerusalem (implied setting, not named in this chapter)"
+   ]
+  },
+  {
+   "id": "r-num-11-42497e91",
+   "t": "Complaints and quail at Kibroth-hattaavah in the wilderness",
+   "y0": -1451,
+   "y1": -1450,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed in the second year after the Exodus, during Israel's departure from Sinai toward Kadesh, per traditional biblical wilderness chronology.",
+   "chapters": [
+    "Numbers 11"
+   ],
+   "people": [
+    "Moses",
+    "Joshua",
+    "Eldad",
+    "Medad"
+   ],
+   "places": [
+    "Taberah",
+    "Kibroth-hattaavah"
+   ],
+   "things": [
+    "Manna",
+    "Quail"
+   ]
+  },
+  {
    "id": "r-num-13-48fc43cf",
    "t": "Twelve spies sent from Paran to scout Canaan",
    "y0": -1450,
@@ -13727,6 +15375,89 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-num-21-3a423800",
+   "t": "Israel's conquest of Sihon and Og in Transjordan",
+   "y0": -1407,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Internal Torah chronology places this near the end of the 40 years of wilderness wandering, shortly before Moses' death (cf. Deuteronomy 1:3-4; 2:14); absolute dating is disputed among historians.",
+   "chapters": [
+    "Numbers 21"
+   ],
+   "people": [
+    "Moses",
+    "Sihon king of the Amorites",
+    "Og king of Bashan"
+   ],
+   "places": [
+    "Heshbon",
+    "Edrei"
+   ],
+   "things": [
+    "brass serpent"
+   ]
+  },
+  {
+   "id": "r-num-25-c5c28894",
+   "t": "Apostasy and plague at Shittim (Baal-peor)",
+   "y0": -1406,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Positioned late in the wilderness wandering, after the Balaam narrative (Numbers 22-24) and shortly before the Numbers 26 census and Israel's entry into Canaan under Joshua.",
+   "chapters": [
+    "Numbers 25"
+   ],
+   "people": [
+    "Moses",
+    "Aaron",
+    "Phinehas",
+    "Eleazar"
+   ],
+   "places": [
+    "Shittim",
+    "Moab"
+   ]
+  },
+  {
+   "id": "r-num-27-af6ac87e",
+   "t": "Zelophehad's daughters' petition and Joshua's commissioning",
+   "y0": -1406,
+   "y1": -1406,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Placed in the plains of Moab after the second census (Numbers 26), in the fortieth year of the wilderness period per traditional Exodus chronology; not independently dated within the text itself.",
+   "chapters": [
+    "Numbers 27"
+   ],
+   "people": [
+    "Moses",
+    "Joshua",
+    "Eleazar"
+   ],
+   "places": [
+    "Plains of Moab"
+   ]
+  },
+  {
    "id": "r-num-8-4cd03cd6",
    "t": "Consecration of the Levites for tabernacle service",
    "y0": -1445,
@@ -13748,6 +15479,163 @@ timeline module, not this file._
    ],
    "places": [
     "Egypt"
+   ]
+  },
+  {
+   "id": "r-obad-1-d1d05fb9",
+   "t": "Proposed setting: fall of Jerusalem and Edom's complicity",
+   "y0": -586,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Most commonly connected to Babylon's destruction of Jerusalem, when related texts describe Edom profiting from or gloating over Judah's fall (cf. Psalms 137:7; Lamentations 4:21); Obadiah itself names no date or foreign power, and a minority view argues for an earlier setting.",
+   "chapters": [
+    "Obadiah 1"
+   ],
+   "people": [
+    "Esau/Edom (personified)",
+    "Jacob/Israel (personified)"
+   ],
+   "places": [
+    "Jerusalem",
+    "Edom"
+   ]
+  },
+  {
+   "id": "r-omni-1-e1d80ec9",
+   "t": "Small-plate record from Omni to Amaleki",
+   "y0": -323,
+   "y1": -130,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading places the material at approximately 323–130 B.C.; internal elapsed-year notices occur in verses 3 and 5.",
+   "chapters": [
+    "Omni 1"
+   ],
+   "people": [
+    "Omni",
+    "Amaleki",
+    "Mosiah",
+    "King Benjamin"
+   ],
+   "places": [
+    "Land of Nephi",
+    "Land of Zarahemla"
+   ],
+   "things": [
+    "Small plates",
+    "Plates of brass"
+   ]
+  },
+  {
+   "id": "r-philip-2-109db17a",
+   "t": "Paul writes Philippians from imprisonment",
+   "y0": 54,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditionally dated to Paul's Roman imprisonment (c. AD 60-62); some scholars instead propose an earlier Ephesian imprisonment (c. AD 53-55). The chapter itself gives no date, only Paul's anticipation of a verdict (2:23-24).",
+   "chapters": [
+    "Philippians 2"
+   ],
+   "people": [
+    "Paul the Apostle",
+    "Timothy (companion of Paul)",
+    "Epaphroditus"
+   ],
+   "places": [
+    "Philippi"
+   ]
+  },
+  {
+   "id": "r-philip-4-4e9cb395",
+   "t": "Paul writes Philippians during an imprisonment (traditionally Rome)",
+   "y0": 60,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "journeys"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional dating places composition during Paul's Roman imprisonment (cf. Acts 28); the reference to 'Caesar's household' (4:22) is consistent with, though not conclusive proof of, this setting.",
+   "chapters": [
+    "Philippians 4"
+   ],
+   "people": [
+    "Paul",
+    "Epaphroditus"
+   ],
+   "places": [
+    "Rome",
+    "Philippi"
+   ]
+  },
+  {
+   "id": "r-prov-10-00b5959c",
+   "t": "Solomon's Proverbs (10:1-22:16), traditional dating",
+   "y0": -970,
+   "y1": -931,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Superscription 'the proverbs of Solomon' (10:1) traditionally assigns this collection to Solomon's reign; many scholars see later compiling/editing, so the heading marks attribution more firmly than an exact date.",
+   "chapters": [
+    "Proverbs 10"
+   ],
+   "people": [
+    "Solomon"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-prov-14-4cd2f2ec",
+   "t": "Solomon's proverbs (traditional authorship and reign)",
+   "y0": -970,
+   "y1": -931,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Proverbs 10:1 attributes this section ('The Proverbs of Solomon') to Solomon; dating follows his traditional reign, though the collection's final compilation/editing (cf. Proverbs 25:1, attributing later copying to 'the men of Hezekiah') may postdate Solomon considerably.",
+   "chapters": [
+    "Proverbs 14"
+   ],
+   "people": [
+    "Solomon"
+   ],
+   "places": [
+    "Jerusalem"
    ]
   },
   {
@@ -13799,6 +15687,80 @@ timeline module, not this file._
    ],
    "places": [
     "Judah"
+   ]
+  },
+  {
+   "id": "r-prov-28-c76fb763",
+   "t": "Proverbs 28 copied within Hezekiah's Solomonic collection",
+   "y0": -715,
+   "y1": -686,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Proverbs 25:1 states 'the men of Hezekiah king of Judah copied out' this block of proverbs (chs. 25-29); dating follows Hezekiah's traditional regnal range.",
+   "chapters": [
+    "Proverbs 28"
+   ],
+   "people": [
+    "Hezekiah",
+    "Solomon"
+   ],
+   "places": [
+    "Judah"
+   ]
+  },
+  {
+   "id": "r-prov-29-369e158e",
+   "t": "Compilation of Solomon's proverbs (chs. 25-29) under Hezekiah's scribes",
+   "y0": -715,
+   "y1": -686,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "rulers"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Proverbs 25:1 states these proverbs were 'copied out' by 'the men of Hezekiah king of Judah,' dating the compilation (not necessarily the original composition) to Hezekiah's reign per traditional chronology.",
+   "chapters": [
+    "Proverbs 29"
+   ],
+   "people": [
+    "Solomon",
+    "Hezekiah"
+   ],
+   "places": [
+    "Judah"
+   ]
+  },
+  {
+   "id": "r-prov-3-bb8434ff",
+   "t": "Traditional Solomonic authorship of Proverbs",
+   "y0": -970,
+   "y1": -930,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Proverbs 1:1 attributes core collections to Solomon during his reign; internal notices like Proverbs 25:1 indicate later royal-scribal compilation, so final dating and authorship of individual chapters remain disputed among scholars.",
+   "chapters": [
+    "Proverbs 3"
+   ],
+   "people": [
+    "Solomon"
+   ],
+   "places": [
+    "Jerusalem"
    ]
   },
   {
@@ -13866,6 +15828,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-ps-68-14fb1501",
+   "t": "Psalm 68 attributed to David in chapter heading",
+   "y0": -1010,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "The chapter heading attributes the psalm to David; actual composition date is disputed among scholars, ranging from an archaic pre-monarchic hymn to a later composite text, so this dating reflects only the traditional attribution.",
+   "chapters": [
+    "Psalm 68"
+   ],
+   "people": [
+    "David"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-ps-69-6f4bef01",
    "t": "Traditional Davidic authorship of Psalm 69",
    "y0": -1010,
@@ -13887,6 +15873,399 @@ timeline module, not this file._
    ],
    "places": [
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-rev-12-6ef275e3",
+   "t": "Traditional composition of the Book of Revelation",
+   "y0": 90,
+   "y1": 96,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Patristic tradition (Irenaeus, Against Heresies 5.30.3) places John's Patmos vision near the end of Domitian's reign; a minority of scholars argue for an earlier Neronic date (mid-60s AD).",
+   "chapters": [
+    "Revelation 12"
+   ],
+   "people": [
+    "John"
+   ],
+   "places": [
+    "Patmos"
+   ]
+  },
+  {
+   "id": "r-rev-18-625ebbb9",
+   "t": "Traditional dating of Revelation's composition",
+   "y0": 90,
+   "y1": 96,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "visions"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Early Christian tradition (Irenaeus, ca. AD 180) places John's Patmos vision near the end of Domitian's reign; some scholars instead argue for an earlier Neronian date (mid-60s AD), so the dating is disputed.",
+   "chapters": [
+    "Revelation 18"
+   ],
+   "people": [
+    "John (Revelation)"
+   ],
+   "places": [
+    "Patmos"
+   ]
+  },
+  {
+   "id": "r-rev-22-bd31485c",
+   "t": "Traditional composition of Revelation under Domitian",
+   "y0": 90,
+   "y1": 96,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "visions"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Early Christian tradition (Irenaeus) dates John's Patmos vision to the reign of Domitian, near the end of the first century AD.",
+   "chapters": [
+    "Revelation 22"
+   ],
+   "people": [
+    "Jesus Christ"
+   ],
+   "places": [
+    "Patmos"
+   ]
+  },
+  {
+   "id": "r-rev-3-71975c5c",
+   "t": "Letters to Sardis, Philadelphia, and Laodicea composed",
+   "y0": 90,
+   "y1": 96,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional patristic dating (Irenaeus) places John's Revelation near the end of Domitian's reign, c. AD 95-96; a minority scholarly view instead dates the book to the Neronian period, c. AD 68, so the range given reflects the majority tradition, not a settled consensus.",
+   "chapters": [
+    "Revelation 3"
+   ],
+   "places": [
+    "Laodicea",
+    "Sardis"
+   ]
+  },
+  {
+   "id": "r-rev-6-3c98124e",
+   "t": "Traditional Domitianic dating of Revelation's composition",
+   "y0": 92,
+   "y1": 96,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Patristic testimony (Irenaeus, Against Heresies 5.30.3) places John's Patmos vision near the end of Domitian's reign; a minority scholarly view instead favors a Neronic date around AD 68, which bears on how the third seal's economic imagery is read.",
+   "chapters": [
+    "Revelation 6"
+   ],
+   "people": [
+    "John the Revelator",
+    "Domitian"
+   ],
+   "places": [
+    "Patmos"
+   ]
+  },
+  {
+   "id": "r-rom-1-b976177a",
+   "t": "Paul writes Romans from Corinth",
+   "y0": 57,
+   "y1": 58,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Scholarly consensus dates Romans near the end of Paul's third missionary journey, based on travel plans and collection references later in the letter.",
+   "chapters": [
+    "Romans 1"
+   ],
+   "people": [
+    "Paul (apostle)"
+   ],
+   "places": [
+    "Rome"
+   ]
+  },
+  {
+   "id": "r-rom-10-e16ba30f",
+   "t": "Paul writes the Epistle to the Romans from Corinth",
+   "y0": 56,
+   "y1": 58,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Widely dated by scholars from Paul's stated travel plans and the collection for Jerusalem saints mentioned later in the letter (Romans 15:25-26), placing composition near the end of his third missionary journey.",
+   "chapters": [
+    "Romans 10"
+   ],
+   "people": [
+    "Paul (apostle)"
+   ],
+   "places": [
+    "Corinth"
+   ],
+   "things": [
+    "Epistle to the Romans"
+   ]
+  },
+  {
+   "id": "r-rom-11-c01e5523",
+   "t": "Paul writes Romans, addressing Israel's future salvation",
+   "y0": 55,
+   "y1": 58,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Broad scholarly consensus places Romans in the mid-to-late 50s AD, written near the end of Paul's third missionary journey, likely from Corinth, shortly before his final trip to Jerusalem (cf. Romans 15:25-26).",
+   "chapters": [
+    "Romans 11"
+   ],
+   "people": [
+    "Paul the Apostle"
+   ],
+   "places": [
+    "Corinth"
+   ]
+  },
+  {
+   "id": "r-rom-12-6befe420",
+   "t": "Paul writes the Epistle to the Romans",
+   "y0": 56,
+   "y1": 58,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Commonly placed near the end of Paul's third missionary journey, likely written from Corinth before his final journey to Jerusalem and Rome; based on Pauline itinerary reconstruction, not an internal date statement.",
+   "chapters": [
+    "Romans 12"
+   ],
+   "people": [
+    "Paul"
+   ],
+   "places": [
+    "Corinth"
+   ]
+  },
+  {
+   "id": "r-rom-13-8aa66b6c",
+   "t": "Paul's Epistle to the Romans composed near end of third journey",
+   "y0": 55,
+   "y1": 58,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Broadly dated by scholarly consensus to Paul's stay in Corinth late in his third missionary journey, based on Acts 20:2-3 and the collection-for-Jerusalem references in Romans 15:25-28; the exact year within this range is debated.",
+   "chapters": [
+    "Romans 13"
+   ],
+   "people": [
+    "Paul"
+   ],
+   "places": [
+    "Corinth",
+    "Rome"
+   ]
+  },
+  {
+   "id": "r-rom-14-6befe420",
+   "t": "Paul writes the Epistle to the Romans",
+   "y0": 56,
+   "y1": 58,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Widely dated by scholars to Paul's third missionary journey, likely written from Corinth shortly before he carried the Jerusalem collection, based on internal references elsewhere in the letter (e.g. Romans 15:25-26).",
+   "chapters": [
+    "Romans 14"
+   ],
+   "people": [
+    "Paul"
+   ],
+   "places": [
+    "Rome"
+   ]
+  },
+  {
+   "id": "r-rom-16-4fa18b6c",
+   "t": "Paul writes Romans from Corinth via Phebe of Cenchrea",
+   "y0": 56,
+   "y1": 58,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Phebe's home church at Cenchrea (Corinth's eastern port) and the presence of Corinthian figures Gaius and Erastus in the closing greetings support the traditional view that Paul dictated Romans while wintering in or near Corinth toward the end of his third missionary journey.",
+   "chapters": [
+    "Romans 16"
+   ],
+   "people": [
+    "Paul",
+    "Phebe",
+    "Gaius",
+    "Erastus"
+   ],
+   "places": [
+    "Corinth",
+    "Cenchrea"
+   ]
+  },
+  {
+   "id": "r-rom-9-61c4c053",
+   "t": "Paul writes his Epistle to the Romans",
+   "y0": 55,
+   "y1": 58,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Most scholars date Romans to Paul's third missionary journey, written from Corinth shortly before he carried the collection for the poor to Jerusalem (cf. Romans 15:25-26).",
+   "chapters": [
+    "Romans 9"
+   ],
+   "people": [
+    "Paul the Apostle"
+   ],
+   "places": [
+    "Corinth",
+    "Rome"
+   ],
+   "things": [
+    "Epistle to the Romans"
+   ]
+  },
+  {
+   "id": "r-titus-1-7a9f9d6e",
+   "t": "Paul's letter to Titus (Pastoral Epistles period)",
+   "y0": 63,
+   "y1": 67,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "journeys",
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional Christian chronology places Titus among the Pastoral Epistles, written during Paul's later ministry after a first Roman imprisonment; both the precise date and Pauline authorship are disputed in critical scholarship.",
+   "chapters": [
+    "Titus 1"
+   ],
+   "people": [
+    "Paul (apostle)",
+    "Titus (companion of Paul)"
+   ],
+   "places": [
+    "Crete"
+   ]
+  },
+  {
+   "id": "r-wofm-1-8f43bf0f",
+   "t": "King Benjamin repels Lamanite invasion and restores peace",
+   "y0": -160,
+   "y1": -124,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Traditional Book of Mormon chronology places Benjamin's reign roughly in this range; Words of Mormon 1:12-18 describes wars and unrest occurring during that reign, prior to his final address recorded in Mosiah 2-6.",
+   "chapters": [
+    "Words of Mormon 1"
+   ],
+   "people": [
+    "King Benjamin"
+   ],
+   "places": [
+    "Land of Nephi"
+   ]
+  },
+  {
+   "id": "r-wofm-1-a052baea",
+   "t": "Mormon prepares the record for Moroni",
+   "y0": 385,
+   "y1": 385,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the chapter to about A.D. 385, while verses 1–2 describe Mormon preparing to deliver the records to Moroni.",
+   "chapters": [
+    "Words of Mormon 1"
+   ],
+   "people": [
+    "Mormon",
+    "Moroni"
+   ],
+   "things": [
+    "Nephite records"
    ]
   },
   {
@@ -13933,6 +16312,79 @@ timeline module, not this file._
     "Zechariah"
    ],
    "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-zech-9-f23b5f63",
+   "t": "Zechariah's ministry begins under Darius I (traditional book setting)",
+   "y0": -520,
+   "y1": -480,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Zechariah 1:1 dates the prophet's call to the second year of Darius I (c. 520 BC); chapters 9-14, including this chapter, are traditionally attributed to the same prophet, though many critical scholars propose a later, Hellenistic-era date for these chapters.",
+   "chapters": [
+    "Zechariah 9"
+   ],
+   "people": [
+    "Zechariah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-zeph-1-0101e8df",
+   "t": "Zephaniah's ministry under King Josiah of Judah",
+   "y0": -640,
+   "y1": -609,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "The superscription (1:1) explicitly dates the oracle to the reign of Josiah; the chapter's assumption that Baal, host-of-heaven, and Malcham worship still flourish suggests a setting before or early in Josiah's reforms, but internal evidence does not fix a narrower date.",
+   "chapters": [
+    "Zephaniah 1"
+   ],
+   "people": [
+    "Zephaniah",
+    "Josiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-zeph-1-085f898f",
+   "t": "Zephaniah prophesies during Josiah's reign",
+   "y0": -640,
+   "y1": -609,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "rulers"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Zephaniah 1:1 internally places the prophetic word in the days of Josiah; the years are the conventional historical dates assigned to Josiah's reign.",
+   "chapters": [
+    "Zephaniah 1"
+   ],
+   "people": [
+    "Zephaniah",
+    "Josiah"
+   ],
+   "places": [
+    "Judah",
     "Jerusalem"
    ]
   },

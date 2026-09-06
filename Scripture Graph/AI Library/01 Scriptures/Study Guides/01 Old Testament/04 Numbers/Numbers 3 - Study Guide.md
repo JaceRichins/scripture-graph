@@ -93,6 +93,7 @@ The substitution is corporate and cultic. Numbers 3 does not itself present a ge
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Firstborn** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

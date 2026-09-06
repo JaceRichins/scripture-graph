@@ -94,6 +94,8 @@ Its teaching on [[Marriage]] should retain both parts of the text. Wives receive
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 20: A Heart Full of Love and Faith: The Prophet’s Letters to His Family** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

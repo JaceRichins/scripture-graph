@@ -78,6 +78,9 @@ _Not yet developed._
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
 - **Amen** (reference-entry) *(explicit citation)*
 - **Barbarian** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
+- **Chapter 33: The Spiritual Gifts of Healing, Tongues, Prophecy, and Discerning of Spirits** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

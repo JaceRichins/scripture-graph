@@ -89,7 +89,8 @@ The sealing and loosing language makes the passage relevant to later discussions
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
+- **Chapter 8: Faith in the Lord Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

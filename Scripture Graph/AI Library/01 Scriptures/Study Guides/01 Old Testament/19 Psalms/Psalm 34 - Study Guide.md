@@ -84,6 +84,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Abimelech** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

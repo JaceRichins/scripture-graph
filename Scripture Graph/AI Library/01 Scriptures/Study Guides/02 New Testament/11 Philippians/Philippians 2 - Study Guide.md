@@ -85,6 +85,7 @@ Verses 6–11 connect the [[Condescension of God]], [[Crucifixion of Jesus Chris
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 - **Confession** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

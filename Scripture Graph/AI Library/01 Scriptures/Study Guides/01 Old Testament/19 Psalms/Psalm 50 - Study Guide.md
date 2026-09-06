@@ -79,7 +79,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **Chapter 31: ‘God Shall Be with You Forever and Ever’: The Prophet in Liberty Jail** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

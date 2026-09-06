@@ -96,12 +96,12 @@ Peter's words to Æneas keep the agent of the healing clear: "Jesus Christ maket
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Ananias** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Caesarea** (reference-entry) *(explicit citation)*
-- **Cilicia** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

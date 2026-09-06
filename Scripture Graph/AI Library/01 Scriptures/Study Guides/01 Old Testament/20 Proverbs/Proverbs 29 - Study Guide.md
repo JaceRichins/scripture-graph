@@ -82,7 +82,10 @@ Verse 18 links vision with keeping the law. In context, the issue is not simply 
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 16: Revelation and the Living Prophet** (teachings) *(explicit citation)*
+- **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
+- **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

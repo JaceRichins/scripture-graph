@@ -73,6 +73,7 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Adam** (reference-entry) *(explicit citation)*
 - **Eve** (reference-entry) *(explicit citation)*
+- **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

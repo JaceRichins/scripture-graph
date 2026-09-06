@@ -94,6 +94,7 @@ Verse 9 joins the [[Atonement of Jesus Christ]], [[Resurrection]], and [[Final J
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

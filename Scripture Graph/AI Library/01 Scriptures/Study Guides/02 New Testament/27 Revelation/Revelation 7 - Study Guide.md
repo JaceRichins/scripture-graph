@@ -94,6 +94,8 @@ The robes made white in the Lamb's blood portray cleansing through the [[Atoneme
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 19: Stand Fast through the Storms of Life** (teachings) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-01-01 (Vol. 3 No. 4)** (periodical, 1837-01-01) *(explicit citation)*
 - **Dan** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

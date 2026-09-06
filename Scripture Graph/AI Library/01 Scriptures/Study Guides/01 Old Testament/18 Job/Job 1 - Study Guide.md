@@ -84,6 +84,7 @@ The chapter is a forceful warning against assuming that prosperity proves righte
 <!-- SG:BEGIN history -->
 - **Journal of Discourses, Volume 22** (history, ~1875) *(explicit citation)*
 - **Camel** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

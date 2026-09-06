@@ -88,9 +88,11 @@ The vision also associates [[Final Judgment]] with the collapse of corrupt power
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Times and Seasons 1843-04-15 (Vol. 4 No. 11)** (periodical, 1843-04-15) *(explicit citation)*
 - **Babylon or Babel** (reference-entry) *(explicit citation)*
 - **Book of life** (reference-entry) *(explicit citation)*
+- **Nauvoo Neighbor 1843-05-03 (Vol. 1 No. 1)** (history, 1843-05-03) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

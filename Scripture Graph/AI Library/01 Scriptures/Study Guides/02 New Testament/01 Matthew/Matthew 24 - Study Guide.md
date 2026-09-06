@@ -109,14 +109,14 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **15 Holy Places** (history) *(explicit citation)*
 - **36 Incline Them to Gather** (history) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Abomination of desolation** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
-- **Prophets** (reference-entry) *(explicit citation)*
-- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

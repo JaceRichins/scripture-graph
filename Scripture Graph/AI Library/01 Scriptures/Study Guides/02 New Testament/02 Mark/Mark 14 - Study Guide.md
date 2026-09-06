@@ -112,6 +112,7 @@ The disciples' conduct warns against confidence unsupported by watchfulness. Pet
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Abba** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -88,7 +88,7 @@ Isaac's marriage continues the family line associated with the [[Abrahamic Coven
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 23: Understanding the New and Everlasting Covenant of Marriage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

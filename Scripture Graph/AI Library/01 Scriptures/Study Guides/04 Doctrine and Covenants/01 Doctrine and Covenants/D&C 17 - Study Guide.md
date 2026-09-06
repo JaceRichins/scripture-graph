@@ -97,6 +97,7 @@ Verse 8 joins [[Obedience]] and [[Grace]] without making them identical: obedien
 - **Index by Section Number** (history) *(explicit citation)*
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
 - **Breastplate** (reference-entry) *(explicit citation)*
+- **Chapter 10: Prayer and Personal Revelation** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

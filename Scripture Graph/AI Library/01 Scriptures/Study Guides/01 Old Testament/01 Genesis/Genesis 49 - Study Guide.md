@@ -83,6 +83,7 @@ Several sayings tie conduct to lasting consequence: Reuben's diminished status i
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Asher** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Dan** (reference-entry) *(explicit citation)*

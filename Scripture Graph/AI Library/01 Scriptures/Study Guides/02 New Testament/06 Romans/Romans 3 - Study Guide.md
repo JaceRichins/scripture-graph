@@ -91,14 +91,14 @@ Paul also blocks two distortions. Grace is not permission to do evil, since he c
 <!-- SG:BEGIN history -->
 - **Death, Spiritual** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Latter-day Saints' Southern Star 1898-12-10 (Vol. 1 No. 2)** (history, 1898-12-10) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Death, Spiritual** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
 - **Sin** (reference-entry) *(explicit citation)*
-- **Christ, names of** (reference-entry) *(explicit citation)*
-- **Circumcision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

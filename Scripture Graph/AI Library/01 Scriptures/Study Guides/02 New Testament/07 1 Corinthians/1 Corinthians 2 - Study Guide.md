@@ -91,6 +91,9 @@ The chapter teaches that faith is meant to rest 'in the power of God' rather tha
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Testimony** (reference-entry) *(explicit citation)*
+- **Chapter 33: The Spiritual Gifts of Healing, Tongues, Prophecy, and Discerning of Spirits** (teachings) *(explicit citation)*
+- **Chapter 2: The Gospel Defined** (teachings) *(explicit citation)*
+- **Chapter 6: The Communication between God and Man** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

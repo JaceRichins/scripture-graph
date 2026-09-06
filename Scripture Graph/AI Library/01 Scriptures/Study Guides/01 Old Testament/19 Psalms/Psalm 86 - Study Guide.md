@@ -78,7 +78,8 @@ Verses 8-10 combine an assertion of God's unrivaled supremacy ('among the gods t
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

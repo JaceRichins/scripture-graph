@@ -70,6 +70,8 @@ _Not yet developed._
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
+- **Chapter 24: Teaching the Family** (teachings) *(explicit citation)*
+- **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

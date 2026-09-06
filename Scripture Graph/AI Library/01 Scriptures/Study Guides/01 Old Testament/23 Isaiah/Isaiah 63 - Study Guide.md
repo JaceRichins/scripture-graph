@@ -84,7 +84,7 @@ References to the holy Spirit are substantial but should not be overread. The Sp
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

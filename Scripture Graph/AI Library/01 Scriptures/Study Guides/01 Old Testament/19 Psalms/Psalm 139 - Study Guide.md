@@ -64,7 +64,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

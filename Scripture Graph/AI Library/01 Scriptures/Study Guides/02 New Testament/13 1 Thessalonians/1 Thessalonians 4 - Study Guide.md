@@ -90,6 +90,7 @@ The passage supplies a limited sequence but does not establish the date of the L
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
+- **Chapter 19: Stand Fast through the Storms of Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

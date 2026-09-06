@@ -102,7 +102,8 @@ Lehi's treatment of [[Freedom and Liberty]] also reaches beyond government. Iniq
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
+- **Chapter 28: Exercising Self-Control** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

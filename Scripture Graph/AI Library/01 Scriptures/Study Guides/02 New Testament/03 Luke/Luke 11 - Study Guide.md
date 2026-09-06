@@ -105,9 +105,12 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Commandments** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Beelzebub** (reference-entry) *(explicit citation)*
 - **Burial** (reference-entry) *(explicit citation)*
+- **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -76,6 +76,7 @@ The chapter holds divine recompense and salvation together rather than as unrela
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
 - **Dragon** (reference-entry) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

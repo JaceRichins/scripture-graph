@@ -93,6 +93,7 @@ The circumcision account plausibly concerns [[Covenants]] and [[Obedience]], but
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

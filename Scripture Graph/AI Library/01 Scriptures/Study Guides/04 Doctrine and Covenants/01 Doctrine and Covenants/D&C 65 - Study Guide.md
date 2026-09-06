@@ -90,6 +90,7 @@ The chapter speaks of 'the keys of the kingdom of God' being 'committed unto man
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

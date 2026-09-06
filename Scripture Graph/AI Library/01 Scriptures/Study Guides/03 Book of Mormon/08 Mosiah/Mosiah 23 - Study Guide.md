@@ -102,6 +102,7 @@ Alma also describes freedom in both civic and moral terms. His people had been s
 <!-- SG:BEGIN history -->
 - **Adversity** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
+- **Chapter 31: ‘God Shall Be with You Forever and Ever’: The Prophet in Liberty Jail** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

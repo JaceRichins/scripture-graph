@@ -100,11 +100,14 @@ Readiness for the [[Second Coming of Jesus Christ]] is presented primarily as a 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-05-01 (Vol. 1 No. 7)** (periodical, 1840-05-01) *(explicit citation)*
 - **By and by** (reference-entry) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

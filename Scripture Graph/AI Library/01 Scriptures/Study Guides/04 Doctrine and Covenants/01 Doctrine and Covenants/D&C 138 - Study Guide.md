@@ -122,12 +122,12 @@ Verses 55–57 connect [[Premortal Life]], mortal vocation, and postmortal servi
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Death, Physical** (reference-entry) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 - **Hell** (reference-entry) *(explicit citation)*
 - **Paradise** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
-- **Revelation** (reference-entry) *(explicit citation)*
-- **Death, Physical** (reference-entry) *(explicit citation)*
+- **Chapter 38: The Spirit World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

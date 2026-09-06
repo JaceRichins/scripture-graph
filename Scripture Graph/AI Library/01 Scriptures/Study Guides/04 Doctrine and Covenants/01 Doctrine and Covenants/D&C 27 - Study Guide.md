@@ -106,11 +106,11 @@ The chapter presents the [[Sacrament]] as an act directed to the Father's glory 
 - **08 The Rise of the Church of Christ** (history) *(explicit citation)*
 - **26 A Holy and Consecrated Land** (history) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Chapter 44: The Restoration of All Things: The Dispensation of the Fulness of Times** (teachings) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
-- **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

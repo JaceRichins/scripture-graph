@@ -123,6 +123,7 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 <!-- SG:BEGIN history -->
 - **02 Hear Him** (history) *(explicit citation)*
 - **03 Plates of Gold** (history) *(explicit citation)*
+- **Chapter 1: The First Vision: The Father and the Son Appear to Joseph Smith** (teachings) *(explicit citation)*
 - **01 Ask in Faith** (history) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
@@ -130,7 +131,6 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 - **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
-- **First Vision Accounts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

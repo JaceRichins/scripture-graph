@@ -42,14 +42,14 @@ _Not yet developed._
 - **1010 BC–970 BC** — David reigns; Jerusalem the capital · [[2 Samuel 5]] · [[Psalm 23]] · [[1100-1001 BC]] *(approximate)*
 - **1010 BC–970 BC** — David's reign over all Israel (Hebron and Jerusalem) · [[1 Chronicles 29]] · [[1100-1001 BC]] *(traditional dating)*
 - **1010 BC–970 BC** — David's forty-year reign, Hebron then Jerusalem · [[1 Chronicles 3]] · [[1100-1001 BC]] *(traditional dating)*
+- **1010 BC–970 BC** — Psalm 68 attributed to David in chapter heading · [[Psalm 68]] · [[1100-1001 BC]] *(traditional dating)*
 - **1010 BC–970 BC** — Traditional Davidic authorship of Psalm 69 · [[Psalm 69]] · [[1100-1001 BC]] *(traditional dating)*
 - **1003 BC–1000 BC** — Ark brought to Jerusalem; Levitical worship organized · [[1 Chronicles 16]] · [[1100-1001 BC]] *(traditional dating)*
 - **1000 BC** — David brings the Ark of the Covenant to Jerusalem · [[2 Samuel 6]] · [[1000-901 BC]] *(traditional dating)*
+- **995 BC–990 BC** — Ammonite War (Siege of Rabbah) and the Bathsheba affair · [[2 Samuel 11]] · [[1000-901 BC]] *(approximate)*
 - **995 BC–990 BC** — Death of Bathsheba's first child and birth of Solomon · [[2 Samuel 12]] · [[1000-901 BC]] *(approximate)*
 - **975 BC–970 BC** — David's Census, Plague, and Purchase of Ornan's Threshingfloor · [[1 Chronicles 21]] · [[1000-901 BC]] *(traditional dating)*
 - **972 BC–970 BC** — David's material preparation and charge to Solomon for the temple · [[1 Chronicles 22]] · [[1000-901 BC]] *(traditional dating)*
-- **972 BC–970 BC** — Sheba's Revolt and Murder of Amasa · [[2 Samuel 20]] · [[1000-901 BC]] *(approximate)*
-- **971 BC** — David commissions Solomon and delivers the temple pattern · [[1 Chronicles 28]] · [[1000-901 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

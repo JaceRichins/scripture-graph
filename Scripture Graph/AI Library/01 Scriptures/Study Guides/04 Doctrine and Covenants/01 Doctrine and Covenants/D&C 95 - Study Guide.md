@@ -99,6 +99,8 @@ Obedience is directly connected with power to build, while disobedience is conne
 - **18 The Camp of Israel** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
+- **Chapter 23: ‘How Good and How Pleasant It Is … to Dwell Together in Unity’** (teachings) *(explicit citation)*
+- **Chapter 20: Church Organization and Government** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

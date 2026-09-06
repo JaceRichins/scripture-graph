@@ -103,6 +103,7 @@ Verses 3, 9, and 18 connect ordinary labor, specialized calling, and church supp
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
+- **Chapter 43: ‘He Was a Prophet of God’: Contemporaries of Joseph Smith Testify of His Prophetic Mission** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

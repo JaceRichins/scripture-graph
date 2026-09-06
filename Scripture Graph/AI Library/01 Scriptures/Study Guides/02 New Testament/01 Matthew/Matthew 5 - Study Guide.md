@@ -102,14 +102,14 @@ The closing appeal to the Father's conduct places love of enemies within the imi
 <!-- SG:BEGIN history -->
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
 - **Peace and Violence among 19th-Century Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
+- **Chapter 30: Developing Christlike Attitudes toward Others** (teachings) *(explicit citation)*
 - **Clothing** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Eternal Life** (reference-entry) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
-- **God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

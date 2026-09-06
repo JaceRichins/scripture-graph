@@ -63,7 +63,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Latter-day Saints' Millennial Star 1840-07 (Vol. 1 No. 3)** (history, 1840-07) *(explicit citation)*
+- **Zion's Watchman 1855-06-15 (Vol. 2 No. 2)** (history, 1855-06-15) *(explicit citation)*
+- **Chapter 27: Learning by Study and by Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

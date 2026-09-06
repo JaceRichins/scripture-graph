@@ -88,6 +88,7 @@ The narrator attributes the withdrawal of miracles, healing, spiritual gifts, an
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Journal of Discourses, Volume 1** (history, ~1854) *(explicit citation)*
 - **Journal of Discourses, Volume 2** (history, ~1855) *(explicit citation)*
 - **Journal of Discourses, Volume 10** (history, ~1863) *(explicit citation)*

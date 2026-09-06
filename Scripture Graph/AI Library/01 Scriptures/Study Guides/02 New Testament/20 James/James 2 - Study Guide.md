@@ -93,11 +93,13 @@ James also makes mercy an issue of accountability: those who show no mercy face 
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Journal of Discourses, Volume 10** (history, ~1863) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Death** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
+- **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

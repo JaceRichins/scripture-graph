@@ -105,6 +105,7 @@ Later Christian scripture connects Passover with Christ in [[1 Corinthians 5]] a
 - **Atonement** (reference-entry) *(explicit citation)*
 - **Calendar** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

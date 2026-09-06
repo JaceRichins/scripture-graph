@@ -68,6 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Transgression** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
 <!-- SG:END history -->

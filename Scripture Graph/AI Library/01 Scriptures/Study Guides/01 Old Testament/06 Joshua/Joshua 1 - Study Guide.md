@@ -98,6 +98,7 @@ Scripture: [[Joshua 1]] · My notes: [[Joshua 1 - My Notes]]
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Euphrates** (reference-entry) *(explicit citation)*
 - **Gad** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -93,6 +93,11 @@ Its central principle of justice is reciprocal: conduct returns upon the offende
 ## Church History
 <!-- SG:BEGIN history -->
 - **Family History Work and Genealogy** (reference-entry) *(explicit citation)*
+- **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
+- **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
+- **Chapter 33: Missionary Work** (teachings) *(explicit citation)*
+- **Chapter 42: Temple Service** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

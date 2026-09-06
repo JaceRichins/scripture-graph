@@ -91,6 +91,7 @@ _Not yet developed._
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
+- **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

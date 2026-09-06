@@ -93,6 +93,7 @@ The prayer holds [[Justice and Mercy]] together without collapsing either side: 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

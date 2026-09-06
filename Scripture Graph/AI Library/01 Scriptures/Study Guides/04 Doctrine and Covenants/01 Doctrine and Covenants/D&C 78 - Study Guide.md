@@ -104,6 +104,7 @@ The closing verses (17-22) hold gift and responsibility together: the Saints are
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Gratitude** (reference-entry) *(explicit citation)*
+- **Chapter 31: Thrift, Industry, and Self-Reliance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

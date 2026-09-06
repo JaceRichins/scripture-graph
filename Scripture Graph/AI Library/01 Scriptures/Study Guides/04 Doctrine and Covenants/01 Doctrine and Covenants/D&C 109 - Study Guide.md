@@ -106,14 +106,14 @@ The prayer does not resolve the tension between [[Justice and Mercy]] by removin
 <!-- SG:BEGIN history -->
 - **21 The Spirit of God** (history) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
+- **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
+- **Chapter 36: Receiving the Ordinances and Blessings of the Temple** (teachings) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **37 We Will Prove Them** (history) *(explicit citation)*
+- **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Food Storage** (reference-entry) *(explicit citation)*
-- **Stake** (reference-entry) *(explicit citation)*
-- **Temples** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

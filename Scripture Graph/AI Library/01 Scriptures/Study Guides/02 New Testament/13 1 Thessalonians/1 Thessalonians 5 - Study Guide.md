@@ -92,6 +92,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **09 Come Life or Come Death** (history) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Breastplate** (reference-entry) *(explicit citation)*

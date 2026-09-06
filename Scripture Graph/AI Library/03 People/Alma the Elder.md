@@ -40,6 +40,7 @@ _Not yet developed._
 - **147 BC–145 BC** — Alma baptizes at the waters of Mormon · [[Mosiah 18]] · [[200-101 BC]] *(Book of Mormon internal dating)*
 - **145 BC–121 BC** — Alma's people in bondage; burdens made light · [[Mosiah 23]] · [[Mosiah 24]] · [[200-101 BC]] *(Book of Mormon internal dating)*
 - **120 BC** — Alma's people delivered to Zarahemla · [[Mosiah 24]] · [[200-101 BC]] *(Book of Mormon internal dating)*
+- **100 BC–92 BC** — Conversion and early ministry of Alma and the sons of Mosiah · [[Mosiah 27]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

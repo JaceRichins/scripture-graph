@@ -88,6 +88,7 @@ Key doctrinal threads: (1) hope of a future, immortal embodiment described throu
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Earnest** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
+- **Chapter 34: Strengthening the Saints through the Gifts of the Spirit** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

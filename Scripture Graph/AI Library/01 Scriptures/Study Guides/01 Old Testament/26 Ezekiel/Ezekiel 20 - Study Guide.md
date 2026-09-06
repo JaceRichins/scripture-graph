@@ -89,6 +89,7 @@ The chapter presents the [[Sabbath Day]] as a sign of belonging to and being san
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1841-01-15 (Vol. 2 No. 6)** (periodical, 1841-01-15) *(explicit citation)*
 - **Times and Seasons 1841-11-15 (Vol. 3 No. 2)** (periodical, 1841-11-15) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -99,6 +99,7 @@ Verse 4 functions as a hinge, looking backward to the covenant given at Horeb be
 <!-- SG:BEGIN history -->
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
+- **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

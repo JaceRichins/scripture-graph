@@ -101,7 +101,7 @@ The barge episode also connects [[Revelation]], [[Agency]], and [[Work and Self-
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

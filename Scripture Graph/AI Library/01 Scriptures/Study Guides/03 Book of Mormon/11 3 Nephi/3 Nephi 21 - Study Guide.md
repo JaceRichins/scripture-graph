@@ -103,6 +103,7 @@ The chapter joins conversion to gathering. Coming to Christ, baptism, entering t
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 47: ‘Praise to the Man’: Latter-day Prophets Bear Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

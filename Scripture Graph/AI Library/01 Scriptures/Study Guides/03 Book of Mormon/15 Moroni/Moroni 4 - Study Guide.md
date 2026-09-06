@@ -76,6 +76,8 @@ _Not yet developed._
 - **Sacrament** (reference-entry) *(explicit citation)*
 - **Communion** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 21: Honoring the Sabbath and the Sacrament** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

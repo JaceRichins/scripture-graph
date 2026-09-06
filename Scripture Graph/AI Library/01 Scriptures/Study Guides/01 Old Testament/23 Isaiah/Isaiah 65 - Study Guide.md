@@ -84,7 +84,7 @@ The new creation is embodied and communal as well as cosmic. People inhabit what
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

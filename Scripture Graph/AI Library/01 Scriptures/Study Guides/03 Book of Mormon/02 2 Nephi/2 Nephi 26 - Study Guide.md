@@ -113,6 +113,7 @@ _Not yet developed._
 - **Charity** (reference-entry) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
+- **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

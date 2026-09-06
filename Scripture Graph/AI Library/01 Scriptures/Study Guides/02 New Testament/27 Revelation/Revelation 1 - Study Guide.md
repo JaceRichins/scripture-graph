@@ -91,12 +91,14 @@ The chapter grounds Christian hope in Christ's death and continuing life: he "wa
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **43 A Public Nuisance** (history) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

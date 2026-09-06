@@ -74,6 +74,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
+- **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

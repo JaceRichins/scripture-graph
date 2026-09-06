@@ -104,9 +104,9 @@ Doctrinal use of Mark 16:9–20 should acknowledge its textual history. Its unce
 - **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 7: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
-- **Miracles** (reference-entry) *(explicit citation)*
-- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

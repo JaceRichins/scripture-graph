@@ -96,11 +96,11 @@ The chapter also treats discipleship as a question of allegiance. Treasure direc
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Heavenly Parents** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Worship God the Father** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
-- **Fasting** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

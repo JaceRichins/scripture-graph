@@ -116,6 +116,7 @@ John's warning concerning Abraham challenges reliance on covenant ancestry witho
 ## Church History
 <!-- SG:BEGIN history -->
 - **Adoption** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Genealogy** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*

@@ -46,6 +46,7 @@ _Not yet developed._
 - **AD 50–AD 51** — Paul writes 1 Thessalonians, likely from Corinth · [[1 Thessalonians 4]] · [[AD 1-100]] *(approximate)*
 - **AD 50–AD 51** — Paul's First Epistle to the Thessalonians written from Corinth · [[1 Thessalonians 5]] · [[AD 1-100]] *(traditional dating)*
 - **AD 51–AD 52** — Paul's Corinth ministry anchored by the Gallio inscription · [[1 Thessalonians 3]] · [[AD 1-100]] *(historical)*
+- **AD 54–AD 62** — Paul writes Philippians from imprisonment · [[Philippians 2]] · [[AD 1-100]] *(traditional dating)*
 - **AD 56–AD 58** — Paul's farewell to the Ephesian elders at Miletus · [[Acts 20]] · [[AD 1-100]] *(approximate)*
 - **AD 60–AD 62** — Paul writes his epistle to the church at Colosse · [[Colossians 1]] · [[AD 1-100]] *(traditional dating)*
 

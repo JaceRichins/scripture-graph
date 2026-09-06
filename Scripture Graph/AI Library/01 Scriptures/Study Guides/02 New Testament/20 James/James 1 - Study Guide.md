@@ -95,14 +95,14 @@ Within Latter-day Saint reception, James 1:5 is directly connected with the [[Fi
 <!-- SG:BEGIN history -->
 - **01 Ask in Faith** (history) *(explicit citation)*
 - **Spiritual Experiences** (reference-entry) *(explicit citation)*
+- **Latter-day Saint Biographical Encyclopedia, Volume 1** (history, 1901) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Gifts of the Spirit** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
-- **Joseph Smith** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

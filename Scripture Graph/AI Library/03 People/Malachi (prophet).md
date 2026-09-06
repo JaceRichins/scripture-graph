@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **460 BC–430 BC** — Malachi's prophetic ministry (post-exilic Judah) · [[Malachi 3]] · [[500-401 BC]] *(approximate)*
 - **430 BC** — Malachi — the Old Testament closes · [[Malachi 3]] · [[Malachi 4]] · [[500-401 BC]] *(approximate)*
 - **AD 34** — Resurrected Christ quotes Malachi 4 to the Nephites at Bountiful · [[3 Nephi 25]] · [[AD 1-100]] *(Book of Mormon internal dating)*
 

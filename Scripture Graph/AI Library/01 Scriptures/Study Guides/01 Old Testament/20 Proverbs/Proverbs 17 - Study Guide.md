@@ -71,7 +71,7 @@ The chapter grounds conduct in divine and creational accountability: the LORD te
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

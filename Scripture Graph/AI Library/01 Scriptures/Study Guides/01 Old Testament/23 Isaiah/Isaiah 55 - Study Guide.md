@@ -90,6 +90,8 @@ _Not yet developed._
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 10: The Influence of the Holy Ghost** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

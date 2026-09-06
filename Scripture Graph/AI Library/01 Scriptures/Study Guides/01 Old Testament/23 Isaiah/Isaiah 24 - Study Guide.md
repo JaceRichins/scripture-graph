@@ -84,11 +84,16 @@ The chapter binds [[Sin]] to accountability: the world's disorder is not portray
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1836-07-01 (Vol. 2 No. 10)** (periodical, 1836-07-01) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
+- **Chapter 17: The Scriptures** (teachings) *(explicit citation)*
+- **Chapter 41: Temple Ordinances** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -67,6 +67,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Prayer** (reference-entry) *(explicit citation)*
+- **Chapter 19: Stand Fast through the Storms of Life** (teachings) *(explicit citation)*
+- **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

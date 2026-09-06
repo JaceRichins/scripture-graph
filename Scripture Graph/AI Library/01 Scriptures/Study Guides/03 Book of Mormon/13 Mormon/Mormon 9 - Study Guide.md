@@ -101,6 +101,7 @@ The prayer texts should be read together. Verses 21 and 25 speak expansively of 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
@@ -110,7 +111,6 @@ The prayer texts should be read together. Verses 21 and 25 speak expansively of 
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Fall** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

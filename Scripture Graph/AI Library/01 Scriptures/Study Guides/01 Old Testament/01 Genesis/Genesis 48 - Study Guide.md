@@ -83,6 +83,7 @@ Scripture: [[Genesis 48]] · My notes: [[Genesis 48 - My Notes]]
 <!-- SG:BEGIN history -->
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*

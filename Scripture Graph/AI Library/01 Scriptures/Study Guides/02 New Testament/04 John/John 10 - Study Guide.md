@@ -100,10 +100,12 @@ The other-sheep promise is left geographically undefined in John. [[3 Nephi 15]]
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **07 Fellow Servants** (history) *(explicit citation)*
 - **Blasphemy** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
+- **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -109,9 +109,9 @@ _Not yet developed._
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **Chapter 17: The Great Plan of Salvation** (teachings) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
-- **Bible, Inerrancy of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

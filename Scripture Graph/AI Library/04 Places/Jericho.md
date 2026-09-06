@@ -38,6 +38,8 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **1406 BC** — Jericho falls · [[Joshua 6]] · [[1500-1401 BC]] *(traditional dating)*
 - **1406 BC–1400 BC** — Conquest and destruction of Jericho under Joshua · [[Joshua 6]] · [[1500-1401 BC]] *(traditional dating)*
+- **AD 30–AD 33** — Jesus' final journey toward Jerusalem before the Passion · [[Luke 18]] · [[AD 1-100]] *(approximate)*
+- **AD 30–AD 33** — Jesus' final journey from Galilee/Perea to Jerusalem · [[Mark 10]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

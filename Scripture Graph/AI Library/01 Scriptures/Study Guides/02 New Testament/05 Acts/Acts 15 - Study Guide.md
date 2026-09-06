@@ -88,6 +88,7 @@ The chapter portrays discernment through debate, testimony about divine action, 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Antioch** (reference-entry) *(explicit citation)*
 - **Barnabas** (reference-entry) *(explicit citation)*
@@ -96,7 +97,6 @@ The chapter portrays discernment through debate, testimony about divine action, 
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Cyprus** (reference-entry) *(explicit citation)*
-- **Epistles** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

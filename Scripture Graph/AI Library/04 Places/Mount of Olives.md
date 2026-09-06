@@ -39,7 +39,10 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **AD 29** — Jesus teaches in the Jerusalem temple after the Feast of Tabernacles · [[John 8]] · [[AD 1-100]] *(approximate)*
+- **AD 30–AD 70** — Olivet Discourse given; Jerusalem temple later destroyed · [[Mark 13]] · [[AD 1-100]] *(historical)*
+- **AD 30–AD 33** — Olivet Discourse delivered during Passion Week · [[Matthew 24]] · [[AD 1-100]] *(traditional dating)*
 - **AD 33** — Olivet Discourse delivered near the Jerusalem temple · [[Joseph Smith—Matthew 1]] · [[AD 1-100]] *(traditional dating)*
+- **AD 33** — Olivet Discourse delivered at the Jerusalem temple · [[Luke 21]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

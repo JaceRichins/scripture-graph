@@ -112,16 +112,16 @@ The chapter treats authorized earthly action as capable of heavenly recognition.
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
 - **Letters on Baptism for the Dead** (history) *(explicit citation)*
+- **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
+- **Chapter 30: Valiant in the Cause of Christ** (teachings) *(explicit citation)*
+- **Chapter 44: The Restoration of All Things: The Dispensation of the Fulness of Times** (teachings) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Susa Young Gates and the Vision of the Redemption of the Dead** (history) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **Restoration of the Priesthood** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
-- **21 The Spirit of God** (history) *(explicit citation)*
-- **39 The Seventh Trouble** (history) *(explicit citation)*
-- **46 Endowed with Power** (history) *(explicit citation)*
-- **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

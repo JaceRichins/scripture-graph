@@ -97,12 +97,14 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Colosse** (reference-entry) *(explicit citation)*
 - **Firstborn** (reference-entry) *(explicit citation)*
+- **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -106,6 +106,9 @@ The chapter joins [[Resurrection]], [[Final Judgment]], [[Agency]], and [[Repent
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Happiness** (reference-entry) *(explicit citation)*
 - **Judging Others** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 18: Beyond the Veil: Life in the Eternities** (teachings) *(explicit citation)*
+- **Chapter 39: Eternal Judgment** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

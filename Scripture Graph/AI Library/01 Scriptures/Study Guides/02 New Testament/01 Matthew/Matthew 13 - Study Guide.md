@@ -104,6 +104,7 @@ The mustard seed and leaven most naturally portray inconspicuous beginnings foll
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 25: Truths from the Savior’s Parables in Matthew 13** (teachings) *(explicit citation)*
 - **James Covel and the ‘Cares of the World’** (history) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Brethren of the Lord** (reference-entry) *(explicit citation)*
@@ -113,7 +114,6 @@ The mustard seed and leaven most naturally portray inconspicuous beginnings foll
 - **By and by** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
-- **Fish** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

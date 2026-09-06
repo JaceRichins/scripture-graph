@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **551 BC** — Daniel's vision at Shushan, third year of Belshazzar · [[Daniel 8]] · [[600-501 BC]] *(traditional dating)*
+- **6 BC–4 BC** — Annunciations and infancy events under Herod the Great · [[Luke 1]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

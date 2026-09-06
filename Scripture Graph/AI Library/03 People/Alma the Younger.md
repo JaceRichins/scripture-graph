@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **100 BC** — The angel stops Alma the Younger · [[Mosiah 27]] · [[Alma 36]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **100 BC–92 BC** — Conversion and early ministry of Alma and the sons of Mosiah · [[Mosiah 27]] · [[100-1 BC]] *(approximate)*
 - **91 BC** — The reign of the judges begins · [[Mosiah 29]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **85 BC–83 BC** — Nephite church prosperity turns to pride and internal strife · [[Alma 4]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **83 BC** — Alma separates the judgment-seat from the high priesthood · [[Alma 4]] · [[100-1 BC]] *(Book of Mormon internal dating)*

@@ -100,12 +100,12 @@ Sanctification is joined to [[Truth]], the Father's word, Jesus' self-consecrati
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Unity** (reference-entry) *(explicit citation)*
+- **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
+- **Chapter 48: A Call for Unity, a Testimony, and a Blessing** (teachings) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
-- **Worship God the Father** (reference-entry) *(explicit citation)*
-- **Eternal Life** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

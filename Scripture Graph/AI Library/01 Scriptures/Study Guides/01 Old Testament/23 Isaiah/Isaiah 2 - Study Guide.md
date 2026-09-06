@@ -92,12 +92,13 @@ Readings involving the [[Gathering of Israel]], [[Second Coming of Jesus Christ]
 - **Temples of The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
 - **14 Visions and Nightmares** (history) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
-- **Agriculture** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

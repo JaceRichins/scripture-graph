@@ -112,6 +112,7 @@ Alma’s testimony joins received witness with personally sought [[Revelation]].
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
@@ -121,7 +122,6 @@ Alma’s testimony joins received witness with personally sought [[Revelation]].
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
-- **First Vision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

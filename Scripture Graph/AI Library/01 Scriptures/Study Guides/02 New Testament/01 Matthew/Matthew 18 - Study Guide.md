@@ -95,13 +95,13 @@ Two cautions are worth stating plainly rather than smoothing over. First, the ch
 - **Abuse** (reference-entry) *(explicit citation)*
 - **Adoption** (reference-entry) *(explicit citation)*
 - **Witness** (reference-entry) *(explicit citation)*
+- **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Abuse** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -80,6 +80,9 @@ Genesis 18:19 also makes family instruction part of covenant life. Abraham is to
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
+- **The Frontier Guardian 1849-03-07 (Vol. 1 No. 3)** (history, 1849-03-07) *(explicit citation)*
+- **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

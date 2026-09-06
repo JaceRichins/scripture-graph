@@ -65,6 +65,7 @@ _Not yet developed._
 - **Index by Section Number** (history) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
+- **Chapter 22: Tithing and Consecration** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

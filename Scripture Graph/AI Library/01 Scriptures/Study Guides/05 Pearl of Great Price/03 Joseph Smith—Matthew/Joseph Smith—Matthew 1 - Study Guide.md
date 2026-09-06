@@ -112,6 +112,7 @@ Verse 31 connects [[Missionary Work]] with the end: the gospel is to be preached
 - **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Abomination of desolation** (reference-entry) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Fig tree** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

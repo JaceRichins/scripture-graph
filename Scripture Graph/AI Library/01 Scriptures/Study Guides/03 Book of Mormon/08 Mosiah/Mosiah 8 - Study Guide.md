@@ -82,6 +82,7 @@ Mosiah 8 gives the Book of Mormon's fullest description of a seer: one "commande
 - **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **03 Plates of Gold** (history) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

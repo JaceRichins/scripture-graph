@@ -95,6 +95,7 @@ Jacob does not treat the [[Law of Moses]] and faith in Christ as competing syste
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
@@ -104,7 +105,6 @@ Jacob does not treat the [[Law of Moses]] and faith in Christ as competing syste
 - **Truth** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
-- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

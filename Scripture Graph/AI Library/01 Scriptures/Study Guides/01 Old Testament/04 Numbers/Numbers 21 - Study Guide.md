@@ -100,6 +100,7 @@ The serpent account depicts a compact movement from [[Sin]] to [[Repentance]], [
 - **Edom** (reference-entry) *(explicit citation)*
 - **Edrei** (reference-entry) *(explicit citation)*
 - **Fiery serpents** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

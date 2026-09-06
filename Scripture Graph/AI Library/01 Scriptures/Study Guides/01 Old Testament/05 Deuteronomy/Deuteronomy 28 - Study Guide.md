@@ -99,7 +99,8 @@ Because the chapter's promises and warnings are framed in corporate, territorial
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

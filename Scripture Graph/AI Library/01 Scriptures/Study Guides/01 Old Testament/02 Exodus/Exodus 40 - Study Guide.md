@@ -93,6 +93,7 @@ The glory arrives only after the work is finished, making divine presence the na
 - **Altar** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -101,6 +101,9 @@ The chapter contributes several qualified doctrinal ideas. [[Revelation]] belong
 - **07 Fellow Servants** (history) *(explicit citation)*
 - **05 All Is Lost** (history) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
+- **Chapter 4: The Book of Mormon: Keystone of Our Religion** (teachings) *(explicit citation)*
+- **Chapter 47: ‘Praise to the Man’: Latter-day Prophets Bear Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 34: Strengthening the Saints through the Gifts of the Spirit** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

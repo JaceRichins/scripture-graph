@@ -64,6 +64,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Temples** (reference-entry) *(explicit citation)*
+- **Chapter 10: Prayer and Personal Revelation** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

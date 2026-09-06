@@ -107,6 +107,7 @@ The phrase "that it may be well with thee" recurs at v.3 and v.18; whether this 
 - **Love** (reference-entry) *(explicit citation)*
 - **Ten Commandments** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
+- **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

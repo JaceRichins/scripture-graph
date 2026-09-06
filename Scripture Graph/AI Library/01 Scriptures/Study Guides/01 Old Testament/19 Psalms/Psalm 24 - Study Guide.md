@@ -88,6 +88,8 @@ The opening strongly supports [[Creation]] and divine ownership: earth, abundanc
 - **Temples** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Daily service** (reference-entry) *(explicit citation)*
+- **Chapter 36: Receiving the Ordinances and Blessings of the Temple** (teachings) *(explicit citation)*
+- **Chapter 33: Missionary Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

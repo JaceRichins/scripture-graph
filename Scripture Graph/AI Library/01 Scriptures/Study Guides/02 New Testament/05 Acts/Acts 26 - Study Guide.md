@@ -104,6 +104,8 @@ Acts 26:18 also gives a compact account of deliverance: darkness gives way to li
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -83,6 +83,7 @@ The clearest treatment of [[Faith]] occurs in verses 17–18. The men trust God'
 ## Church History
 <!-- SG:BEGIN history -->
 - **Daniel, book of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

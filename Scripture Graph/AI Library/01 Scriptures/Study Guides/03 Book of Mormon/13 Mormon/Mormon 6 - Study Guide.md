@@ -89,7 +89,7 @@ Verse 21 teaches bodily [[Resurrection]] through the paired transformations of m
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

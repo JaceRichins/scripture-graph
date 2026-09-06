@@ -85,6 +85,7 @@ Genesis 16 should not be treated as an uncomplicated endorsement of every human 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 - **36 Incline Them to Gather** (history) *(explicit citation)*

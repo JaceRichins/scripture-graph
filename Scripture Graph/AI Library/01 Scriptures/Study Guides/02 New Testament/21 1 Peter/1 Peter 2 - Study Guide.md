@@ -101,6 +101,7 @@ Its language of a holy and royal [[Priesthood]] is corporate and vocational: the
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -67,6 +67,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
+- **Chapter 23: Understanding the New and Everlasting Covenant of Marriage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

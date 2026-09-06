@@ -90,6 +90,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Spirit (or Soul)** (reference-entry) *(explicit citation)*
@@ -99,7 +100,6 @@ _Not yet developed._
 - **Truth** (reference-entry) *(explicit citation)*
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Fall** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

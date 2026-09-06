@@ -104,10 +104,10 @@ The repeated promise of entering God's rest can include present reconciliation w
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **High Priest** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
-- **Hope** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

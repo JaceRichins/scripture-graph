@@ -98,6 +98,8 @@ Romans 11:30–32 places both Gentiles and Israel under unbelief and in need of 
 - **Benjamin** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Gentile** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Latter-day Saints' Millennial Star 1840-09 (Vol. 1 No. 5)** (history, 1840-09) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

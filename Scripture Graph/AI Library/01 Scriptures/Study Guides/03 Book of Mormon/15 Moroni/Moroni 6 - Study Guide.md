@@ -101,6 +101,7 @@ Discipline is bounded by mercy. Verse 7 treats unresolved iniquity seriously; ve
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Ministering** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
@@ -110,7 +111,6 @@ Discipline is bounded by mercy. Verse 7 treats unresolved iniquity seriously; ve
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Worship God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -104,6 +104,7 @@ The chapter closely joins [[Repentance and Forgiveness]], [[Faith]], and [[Justi
 - **Burial** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **Chapter 34: Strengthening the Saints through the Gifts of the Spirit** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

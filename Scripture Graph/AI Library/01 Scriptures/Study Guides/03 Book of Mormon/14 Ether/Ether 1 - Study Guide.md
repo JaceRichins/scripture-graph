@@ -100,6 +100,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Babylon or Babel** (reference-entry) *(explicit citation)*
 - **Genesis** (reference-entry) *(explicit citation)*

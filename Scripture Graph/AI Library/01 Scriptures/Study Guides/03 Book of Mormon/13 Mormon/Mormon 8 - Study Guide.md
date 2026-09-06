@@ -102,6 +102,7 @@ Mormon 8 shifts the record into Moroni's own voice. Writing after Cumorah, with 
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -106,6 +106,7 @@ Acts 3:21 is important to [[Restoration of the Gospel]], but careful study shoul
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
@@ -115,7 +116,6 @@ Acts 3:21 is important to [[Restoration of the Gospel]], but careful study shoul
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
-- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

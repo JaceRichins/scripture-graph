@@ -98,6 +98,7 @@ The chapter presents divine peace as related to prayerful trust and faithful pra
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Book of life** (reference-entry) *(explicit citation)*
 - **Caesar** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

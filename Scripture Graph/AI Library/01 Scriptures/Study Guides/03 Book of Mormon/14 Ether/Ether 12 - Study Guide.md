@@ -109,10 +109,10 @@ The chapter does not present faith as mere assent. Its exemplary faith acts, end
 - **Grace** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 46: The Martyrdom: The Prophet Seals His Testimony with His Blood** (teachings) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
-- **Gifts of the Spirit** (reference-entry) *(explicit citation)*
-- **Priesthood Blessing** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

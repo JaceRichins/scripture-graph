@@ -94,6 +94,8 @@ The chapter also portrays [[Faith]] and [[Testimony]] as developing without eras
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

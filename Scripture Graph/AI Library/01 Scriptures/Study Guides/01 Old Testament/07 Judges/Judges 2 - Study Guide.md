@@ -86,7 +86,7 @@ The test in verses 22–23 concerns whether Israel will walk in the LORD's way. 
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

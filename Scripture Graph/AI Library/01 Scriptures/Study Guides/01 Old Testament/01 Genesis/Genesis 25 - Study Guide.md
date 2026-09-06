@@ -103,6 +103,7 @@ The chapter also associates [[Prayer]] and [[Revelation]] with different members
 - **Birthright** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
 - **Esau** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

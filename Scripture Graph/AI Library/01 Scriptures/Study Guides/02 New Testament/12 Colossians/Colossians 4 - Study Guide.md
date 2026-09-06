@@ -82,6 +82,7 @@ Ministry is collaborative. Tychicus communicates and comforts, Onesimus accompan
 <!-- SG:BEGIN history -->
 - **Barnabas** (reference-entry) *(explicit citation)*
 - **Colosse** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

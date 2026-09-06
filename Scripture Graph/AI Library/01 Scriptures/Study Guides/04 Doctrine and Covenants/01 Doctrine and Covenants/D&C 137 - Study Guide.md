@@ -87,15 +87,15 @@ Although Alvin's lack of baptism prompts the revelation, the chapter itself does
 ## Church History
 <!-- SG:BEGIN history -->
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **Chapter 7: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
 - **21 The Spirit of God** (history) *(explicit citation)*
 - **35 A Beautiful Place** (history) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Covenants and Ordinances** (reference-entry) *(explicit citation)*
-- **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

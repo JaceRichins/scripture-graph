@@ -114,10 +114,10 @@ The final verses assert continuity of the [[Gospel of Jesus Christ]] from the be
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
-- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

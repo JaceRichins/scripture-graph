@@ -107,6 +107,7 @@ The chapter joins [[Jesus Christ (Gospel Topic)]], [[Atonement of Jesus Christ]]
 - **Bethsaida** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Elijah** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -105,6 +105,7 @@ Verse 9 refers to an endowment already received in the house but does not descri
 ## Church History
 <!-- SG:BEGIN history -->
 - **21 The Spirit of God** (history) *(explicit citation)*
+- **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
@@ -113,7 +114,6 @@ Verse 9 refers to an endowment already received in the house but does not descri
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
-- **Priesthood Keys** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

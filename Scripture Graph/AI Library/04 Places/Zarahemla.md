@@ -41,13 +41,13 @@ _Not yet developed._
 - **450 BC–250 BC** — Generations at Zarahemla, without records · [[Omni 1]] · [[Mosiah 25]] · [[500-401 BC]] *(Book of Mormon internal dating)*
 - **200 BC** — Mosiah discovers Zarahemla · [[Omni 1]] · [[200-101 BC]] *(Book of Mormon internal dating)*
 - **124 BC** — King Benjamin's address from the tower · [[Mosiah 2]] · [[Mosiah 3]] · [[Mosiah 4]] · [[200-101 BC]] *(Book of Mormon internal dating)*
+- **124 BC** — Benjamin addresses the people and announces Mosiah's reign · [[Mosiah 2]] · [[200-101 BC]] *(approximate)*
 - **121 BC** — Limhi's people escape to Zarahemla · [[Mosiah 22]] · [[200-101 BC]] *(Book of Mormon internal dating)*
+- **121 BC** — Ammon reaches Limhi and announces contact with Zarahemla · [[Mosiah 7]] · [[200-101 BC]] *(approximate)*
 - **120 BC** — Alma's people delivered to Zarahemla · [[Mosiah 24]] · [[200-101 BC]] *(Book of Mormon internal dating)*
+- **120 BC** — Reunification and church organization at Zarahemla · [[Mosiah 25]] · [[200-101 BC]] *(approximate)*
+- **100 BC–92 BC** — Conversion and early ministry of Alma and the sons of Mosiah · [[Mosiah 27]] · [[100-1 BC]] *(approximate)*
 - **91 BC** — The reign of the judges begins · [[Mosiah 29]] · [[100-1 BC]] *(Book of Mormon internal dating)*
-- **90 BC–77 BC** — Mission among the Lamanites recalled by Ammon · [[Alma 26]] · [[100-1 BC]] *(approximate)*
-- **87 BC** — Amlicite rebellion and battles near Zarahemla · [[Alma 2]] · [[100-1 BC]] *(approximate)*
-- **87 BC** — Amlicite rebellion and Nephite-Lamanite war (Alma 2) · [[Alma 2]] · [[100-1 BC]] *(Book of Mormon internal dating)*
-- **87 BC–86 BC** — Aftermath of the Amlicite war and second Lamanite incursion · [[Alma 3]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

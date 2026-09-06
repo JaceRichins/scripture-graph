@@ -75,6 +75,10 @@ Verses 3 and 11 portray the LORD’s knowledge as extending to every place and t
 ## Church History
 <!-- SG:BEGIN history -->
 - **Family** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 37: Charity, the Pure Love of Christ** (teachings) *(explicit citation)*
+- **Chapter 24: Teaching the Family** (teachings) *(explicit citation)*
+- **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

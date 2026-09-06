@@ -102,10 +102,10 @@ The closing image is corporate: believers are being built together as God’s ha
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
-- **Unwed Pregnancy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

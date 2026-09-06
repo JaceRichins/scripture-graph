@@ -84,6 +84,7 @@ Verse 17 places [[Agency]] and [[Faith]] in sequence: people are to act cheerful
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
 - **33 O God, Where Art Thou?** (history) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
@@ -91,6 +92,7 @@ Verse 17 places [[Agency]] and [[Faith]] in sequence: people are to act cheerful
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
+- **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

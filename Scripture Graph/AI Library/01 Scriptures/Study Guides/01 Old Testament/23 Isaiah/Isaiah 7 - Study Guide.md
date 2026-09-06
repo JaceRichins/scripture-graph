@@ -97,6 +97,7 @@ Scripture: [[Isaiah 7]] · My notes: [[Isaiah 7 - My Notes]]
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
 - **Fullers** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

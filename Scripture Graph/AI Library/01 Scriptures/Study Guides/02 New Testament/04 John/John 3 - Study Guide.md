@@ -88,16 +88,16 @@ This chapter is foundational for [[Conversion]], [[Baptism]], [[Faith]], [[Salva
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Baptisms for the Dead** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Christmas** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Temples of The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Chapter 7: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
-- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
-- **God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

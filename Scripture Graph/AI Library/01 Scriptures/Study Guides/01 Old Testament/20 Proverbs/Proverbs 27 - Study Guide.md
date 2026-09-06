@@ -82,6 +82,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Agriculture** (reference-entry) *(explicit citation)*
+- **Chapter 24: Teaching the Family** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

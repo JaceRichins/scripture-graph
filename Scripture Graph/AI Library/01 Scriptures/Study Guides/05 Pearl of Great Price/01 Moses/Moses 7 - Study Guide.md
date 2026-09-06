@@ -116,13 +116,13 @@ Moses 7 records a single extended theophany granted to Enoch. Called from 'the p
 - **10 Gathered In** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
+- **Chapter 16: Building Zion** (teachings) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Consecration** (reference-entry) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

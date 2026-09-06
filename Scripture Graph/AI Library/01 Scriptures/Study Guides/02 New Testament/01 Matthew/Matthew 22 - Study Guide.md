@@ -106,15 +106,15 @@ Love of God and love of neighbor are presented as the two commandments on which 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
 - **Of Governments and Laws** (history) *(explicit citation)*
 - **Mercy Thompson and the Revelation on Marriage** (history) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
-- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Judgment** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -93,6 +93,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Movies and Television** (reference-entry) *(explicit citation)*
+- **The Seer 1853-01 (Vol. 1 No. 1)** (history, 1853-01) *(explicit citation)*
+- **Chapter 44: The Kingdom of God and the Gathering of Israel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

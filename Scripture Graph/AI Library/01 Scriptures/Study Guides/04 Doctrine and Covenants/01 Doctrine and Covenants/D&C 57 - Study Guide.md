@@ -92,7 +92,7 @@ _Not yet developed._
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
-- **Within the Walls of Liberty Jail** (history) *(explicit citation)*
+- **Chapter 16: Building Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

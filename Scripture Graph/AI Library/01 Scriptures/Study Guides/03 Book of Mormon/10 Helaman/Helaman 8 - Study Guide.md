@@ -106,6 +106,7 @@ Scripture: [[Helaman 8]] · My notes: [[Helaman 8 - My Notes]]
 ## Church History
 <!-- SG:BEGIN history -->
 - **Salvation** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

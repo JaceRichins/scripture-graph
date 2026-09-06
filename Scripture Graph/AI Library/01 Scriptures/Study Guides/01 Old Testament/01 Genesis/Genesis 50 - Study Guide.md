@@ -79,6 +79,7 @@ Joseph's final command is rooted in the [[Abrahamic Covenant]]. His confidence t
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 47: ‘Praise to the Man’: Latter-day Prophets Bear Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 - **Embalming** (reference-entry) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*

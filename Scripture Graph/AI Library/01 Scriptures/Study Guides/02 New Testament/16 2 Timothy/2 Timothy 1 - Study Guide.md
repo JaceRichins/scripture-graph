@@ -93,6 +93,10 @@ Scripture: [[2 Timothy 1]] · My notes: [[2 Timothy 1 - My Notes]]
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Ephesus** (reference-entry) *(explicit citation)*
+- **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
+- **Chapter 7: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 30: Valiant in the Cause of Christ** (teachings) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

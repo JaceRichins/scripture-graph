@@ -91,6 +91,7 @@ _Not yet developed._
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
+- **Chapter 1: The First Vision: The Father and the Son Appear to Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

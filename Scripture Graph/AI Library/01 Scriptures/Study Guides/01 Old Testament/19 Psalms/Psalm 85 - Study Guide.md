@@ -63,7 +63,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-01-01 (Vol. 3 No. 4)** (periodical, 1837-01-01) *(explicit citation)*
+- **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
+- **Chapter 25: Truths from the Savior’s Parables in Matthew 13** (teachings) *(explicit citation)*
+- **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

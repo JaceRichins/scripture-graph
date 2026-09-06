@@ -92,6 +92,7 @@ The warning in Genesis 4:6-7 places [[Agency]] beside [[Sin]]: Cain's anger is a
 - **Agriculture** (reference-entry) *(explicit citation)*
 - **Eve** (reference-entry) *(explicit citation)*
 - **Genesis** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

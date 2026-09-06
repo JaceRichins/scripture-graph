@@ -86,6 +86,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Calves, golden, worship of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

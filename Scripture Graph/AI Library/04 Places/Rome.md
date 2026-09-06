@@ -36,10 +36,15 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 55–AD 58** — Paul's Epistle to the Romans composed near end of third journey · [[Romans 13]] · [[AD 1-100]] *(approximate)*
+- **AD 55–AD 58** — Paul writes his Epistle to the Romans · [[Romans 9]] · [[AD 1-100]] *(approximate)*
+- **AD 56–AD 58** — Paul writes the Epistle to the Romans · [[Romans 14]] · [[AD 1-100]] *(approximate)*
+- **AD 57–AD 58** — Paul writes Romans from Corinth · [[Romans 1]] · [[AD 1-100]] *(approximate)*
 - **AD 59–AD 62** — Paul's voyage and Roman imprisonment · [[Acts 27]] · [[Acts 28]] · [[AD 1-100]] *(historical)*
 - **AD 60–AD 62** — Paul reaches Rome and teaches there for two years · [[Acts 28]] · [[AD 1-100]] *(approximate)*
 - **AD 60–AD 62** — Composition of the Epistle to the Ephesians · [[Ephesians 2]] · [[AD 1-100]] *(traditional dating)*
 - **AD 60–AD 62** — Ephesians composed during a Roman imprisonment (traditional) · [[Ephesians 6]] · [[AD 1-100]] *(traditional dating)*
+- **AD 60–AD 62** — Paul writes Philippians during an imprisonment (traditionally Rome) · [[Philippians 4]] · [[AD 1-100]] *(traditional dating)*
 - **AD 64–AD 67** — Peter and Paul martyred under Nero · [[2 Timothy 4]] · [[2 Peter 1]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

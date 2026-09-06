@@ -83,6 +83,7 @@ Verses 22–23 make a more explicit social provision: resident strangers who hav
 <!-- SG:BEGIN history -->
 - **Damascus** (reference-entry) *(explicit citation)*
 - **Ezekiel** (reference-entry) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

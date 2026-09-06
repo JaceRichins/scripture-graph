@@ -100,6 +100,7 @@ _Not yet developed._
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
+- **Latter-day Saints' Southern Star 1898-12-10 (Vol. 1 No. 2)** (history, 1898-12-10) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -80,8 +80,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Brethren of the Lord** (reference-entry) *(explicit citation)*
+- **Latter-day Saint Biographical Encyclopedia, Volume 1** (history, 1901) *(explicit citation)*
+- **Chapter 34: Strengthening the Saints through the Gifts of the Spirit** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

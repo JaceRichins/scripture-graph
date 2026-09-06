@@ -90,6 +90,7 @@ Verse 7 identifies God with Christ and makes creation dependent upon divine exis
 - **Grace** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
+- **Chapter 10: Prayer and Personal Revelation** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -89,6 +89,8 @@ Scripture: [[Numbers 9]] · My notes: [[Numbers 9 - My Notes]]
 <!-- SG:BEGIN history -->
 - **Feasts** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
+- **Autobiography of Parley P. Pratt** (history, 1874) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

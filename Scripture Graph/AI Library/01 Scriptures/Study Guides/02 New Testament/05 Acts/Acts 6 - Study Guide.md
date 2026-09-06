@@ -76,6 +76,7 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Cilicia** (reference-entry) *(explicit citation)*
 - **Dispersion** (reference-entry) *(explicit citation)*
+- **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

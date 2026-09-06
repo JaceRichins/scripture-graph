@@ -90,6 +90,8 @@ The chapter depicts the risen [[Jesus Christ (Gospel Topic)]] as present, author
 <!-- SG:BEGIN history -->
 - **Clothing** (reference-entry) *(explicit citation)*
 - **Fish** (reference-entry) *(explicit citation)*
+- **Chapter 39: Relief Society: Divine Organization of Women** (teachings) *(explicit citation)*
+- **Chapter 17: The Scriptures** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -94,6 +94,7 @@ Love for one's brother is not an optional supplement to professed love for God. 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Chapter 33: The Spiritual Gifts of Healing, Tongues, Prophecy, and Discerning of Spirits** (teachings) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*

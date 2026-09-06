@@ -82,12 +82,15 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1841-06-01 (Vol. 2 No. 15)** (periodical, 1841-06-01) *(explicit citation)*
 - **Times and Seasons 1841-09-01 (Vol. 2 No. 21)** (periodical, 1841-09-01) *(explicit citation)*
 - **Times and Seasons 1845-07-01 (Vol. 6 No. 12)** (periodical, 1845-07-01) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
+- **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

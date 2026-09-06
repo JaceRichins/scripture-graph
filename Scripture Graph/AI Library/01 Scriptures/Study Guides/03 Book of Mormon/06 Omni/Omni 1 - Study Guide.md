@@ -107,6 +107,7 @@ Amaleki's conclusion turns to personal discipleship: come to Christ, partake of 
 ## Church History
 <!-- SG:BEGIN history -->
 - **06 The Gift and Power of God** (history) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*

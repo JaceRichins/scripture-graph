@@ -102,9 +102,11 @@ Jesus presents his coming suffering, death, and resurrection as the accomplishme
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Adultery** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **Chapter 32: Temporal Wealth and the Kingdom of God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

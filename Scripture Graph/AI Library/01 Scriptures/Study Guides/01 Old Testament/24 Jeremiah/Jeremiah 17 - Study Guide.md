@@ -93,6 +93,7 @@ These changes of voice, genre, and subject may reflect the arrangement of distin
 ## Church History
 <!-- SG:BEGIN history -->
 - **Hope** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

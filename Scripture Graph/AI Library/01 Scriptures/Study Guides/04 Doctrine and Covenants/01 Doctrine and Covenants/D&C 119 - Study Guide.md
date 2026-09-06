@@ -72,9 +72,11 @@ _Not yet developed._
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
+- **Chapter 22: Tithing and Consecration** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
+- **Introduction** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

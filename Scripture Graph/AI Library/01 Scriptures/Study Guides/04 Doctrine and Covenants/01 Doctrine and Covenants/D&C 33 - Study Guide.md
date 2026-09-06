@@ -101,6 +101,7 @@ Verse 16 joins the Book of Mormon and other scriptures with the quickening power
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
+- **Chapter 40: Salvation through Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

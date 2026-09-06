@@ -98,6 +98,7 @@ The text should not be forced into only one later theory of atonement. It includ
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
+- **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

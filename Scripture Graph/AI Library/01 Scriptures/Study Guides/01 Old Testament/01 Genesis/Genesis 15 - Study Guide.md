@@ -82,11 +82,14 @@ In the covenant ceremony, only the theophanic 'smoking furnace' and 'burning lam
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Blood** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
 - **Euphrates** (reference-entry) *(explicit citation)*
+- **The Evening and the Morning Star 1832-08 (Vol. 1 No. 3)** (history, 1832-08) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

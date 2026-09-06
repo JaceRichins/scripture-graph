@@ -100,6 +100,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
@@ -108,8 +109,7 @@ _Not yet developed._
 - **Same-Sex Attraction** (reference-entry) *(explicit citation)*
 - **18 The Camp of Israel** (history) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
-- **Children of God** (reference-entry) *(explicit citation)*
-- **Creation** (reference-entry) *(explicit citation)*
+- **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

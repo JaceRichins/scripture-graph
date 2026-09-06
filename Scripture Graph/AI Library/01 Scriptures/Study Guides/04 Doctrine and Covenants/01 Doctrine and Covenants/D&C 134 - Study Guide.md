@@ -83,8 +83,11 @@ These propositions connect naturally with [[Government and Laws]], [[Freedom and
 - **Of Governments and Laws** (history) *(explicit citation)*
 - **Religious Freedom** (reference-entry) *(explicit citation)*
 - **36 Incline Them to Gather** (history) *(explicit citation)*
+- **Chapter 36: Earthly Governments and the Kingdom of God** (teachings) *(explicit citation)*
 - **Civil Government and Law** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Chapter 29: Living with Others in Peace and Harmony** (teachings) *(explicit citation)*
+- **Chapter 20: Church Organization and Government** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

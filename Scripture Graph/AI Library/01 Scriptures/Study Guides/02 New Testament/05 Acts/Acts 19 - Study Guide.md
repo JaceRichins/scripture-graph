@@ -76,6 +76,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Ephesus** (reference-entry) *(explicit citation)*
+- **Latter-day Saints' Southern Star 1898-12-10 (Vol. 1 No. 2)** (history, 1898-12-10) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1844-12-01 (Vol. 5 No. 22)** (periodical, 1844-12-01) *(explicit citation)*
@@ -84,7 +85,6 @@ _Not yet developed._
 - **Confirmation** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
 - **Diana** (reference-entry) *(explicit citation)*
-- **Dispersion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

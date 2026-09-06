@@ -87,14 +87,14 @@ Verses 27-28 place the [[Final Judgment]] and the [[Second Coming of Jesus Chris
 <!-- SG:BEGIN history -->
 - **Blood** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 46: The Martyrdom: The Prophet Seals His Testimony with His Blood** (teachings) *(explicit citation)*
 - **Times and Seasons 1841-02-01 (Vol. 2 No. 7)** (periodical, 1841-02-01) *(explicit citation)*
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Times and Seasons 1845-07-01 (Vol. 6 No. 12)** (periodical, 1845-07-01) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
 - **Atonement** (reference-entry) *(explicit citation)*
 - **Cherubim** (reference-entry) *(explicit citation)*
-- **Conscience** (reference-entry) *(explicit citation)*
-- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

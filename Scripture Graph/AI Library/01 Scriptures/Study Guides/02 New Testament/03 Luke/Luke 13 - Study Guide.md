@@ -100,6 +100,7 @@ The answer to the question about [[Salvation]] shifts attention from calculating
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

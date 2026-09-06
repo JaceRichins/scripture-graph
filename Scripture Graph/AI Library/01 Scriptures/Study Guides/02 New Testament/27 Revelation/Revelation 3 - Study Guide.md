@@ -95,11 +95,15 @@ Each of the three letters follows a shared pattern also used for the four church
 ## Church History
 <!-- SG:BEGIN history -->
 - **Becoming Like God** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Amen** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
 - **Book of life** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
+- **Chapter 42: Temple Service** (teachings) *(explicit citation)*
+- **Chapter 45: The Last Days** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

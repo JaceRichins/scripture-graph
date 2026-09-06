@@ -92,13 +92,13 @@ The chapter supplies the biblical narrative foundation for the [[Fall of Adam an
 - **37 We Will Prove Them** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Eve** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Transgression** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
 - **Welfare** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1846-01-15 (Vol. 6 No. 21)** (periodical, 1846-01-15) *(explicit citation)*
 - **Bible, English** (reference-entry) *(explicit citation)*
-- **Cherubim** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

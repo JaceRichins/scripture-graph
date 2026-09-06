@@ -75,6 +75,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
+- **Chapter 31: ‘God Shall Be with You Forever and Ever’: The Prophet in Liberty Jail** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

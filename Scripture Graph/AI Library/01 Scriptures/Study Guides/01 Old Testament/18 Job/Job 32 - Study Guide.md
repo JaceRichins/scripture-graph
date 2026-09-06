@@ -61,6 +61,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Bottles** (reference-entry) *(explicit citation)*
 - **Elihu** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

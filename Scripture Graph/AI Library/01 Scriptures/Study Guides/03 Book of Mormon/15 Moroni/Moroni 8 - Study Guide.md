@@ -101,13 +101,13 @@ Verse 22 extends the reasoning to those "without the law," but the chapter does 
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 9: Repentance and Baptism** (teachings) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
-- **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
-- **Hope** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

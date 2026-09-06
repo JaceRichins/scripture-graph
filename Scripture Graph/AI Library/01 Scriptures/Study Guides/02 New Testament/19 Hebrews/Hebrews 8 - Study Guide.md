@@ -85,6 +85,7 @@ The promise is expressly addressed to Israel and Judah (8:8), so the passage sho
 ## Church History
 <!-- SG:BEGIN history -->
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

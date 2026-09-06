@@ -74,6 +74,7 @@ _Not yet developed._
 - **Index by Section Number** (history) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
+- **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

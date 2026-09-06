@@ -97,13 +97,13 @@ Verse 2 preserves an important qualification: security in the promised land is c
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **07 Fellow Servants** (history) *(explicit citation)*
+- **Chapter 47: ‘Praise to the Man’: Latter-day Prophets Bear Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
-- **Ephraim, stick of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

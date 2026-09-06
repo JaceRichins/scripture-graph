@@ -90,6 +90,7 @@ D&C 2 directly links four elements: Elijah, [[Priesthood Restoration]], the plan
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
+- **Chapter 42: Temple Service** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

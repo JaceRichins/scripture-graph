@@ -93,6 +93,7 @@ The chapter connects to [[Repentance and Forgiveness]], [[Faith]], [[Miracles]],
 - **Abiathar** (reference-entry) *(explicit citation)*
 - **Bottles** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

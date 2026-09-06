@@ -66,6 +66,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1837-09-01 (Vol. 3 No. 12)** (periodical, 1837-09-01) *(explicit citation)*
+- **Chapter 16: Building Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

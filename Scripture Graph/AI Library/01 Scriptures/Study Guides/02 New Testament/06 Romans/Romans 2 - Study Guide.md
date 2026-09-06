@@ -92,6 +92,7 @@ Conscience in verses 14-15 is morally significant but not described as infallibl
 <!-- SG:BEGIN history -->
 - **Race and the Priesthood** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

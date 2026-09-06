@@ -107,6 +107,7 @@ The chapter holds this assurance together with a sober warning (vv.26-31): the s
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -107,6 +107,7 @@ Three threads stand out:
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

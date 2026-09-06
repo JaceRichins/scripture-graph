@@ -45,11 +45,11 @@ _Not yet developed._
 - **1491 BC–1490 BC** — Sinai covenant renewal after the golden calf · [[Exodus 33]] · [[1500-1401 BC]] *(traditional dating)*
 - **1491 BC** — Second tablets and covenant renewal at Mount Sinai · [[Exodus 34]] · [[1500-1401 BC]] *(traditional dating)*
 - **1451 BC** — Moses blesses the tribes of Israel before his death · [[Deuteronomy 33]] · [[1500-1401 BC]] *(traditional dating)*
+- **1451 BC–1450 BC** — Complaints and quail at Kibroth-hattaavah in the wilderness · [[Numbers 11]] · [[1500-1401 BC]] *(traditional dating)*
 - **1450 BC–1449 BC** — Twelve spies sent from Paran to scout Canaan · [[Numbers 13]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The burning bush at Horeb · [[Exodus 3]] · [[Moses 1]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The Exodus from Egypt; the Red Sea · [[Exodus 12]] · [[Exodus 14]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1445 BC** — Israel's departure from Egypt and early wilderness journey · [[Exodus 13]] · [[1500-1401 BC]] *(traditional dating)*
-- **1446 BC–1250 BC** — Israel's arrival at Sinai and the covenant theophany · [[Exodus 19]] · [[1500-1401 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

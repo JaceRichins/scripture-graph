@@ -98,12 +98,12 @@ Through [[2 Nephi 27]], Latter-day Saint interpretation connects the sealed book
 - **05 All Is Lost** (history) *(explicit citation)*
 - **13 The Gift Has Returned** (history) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

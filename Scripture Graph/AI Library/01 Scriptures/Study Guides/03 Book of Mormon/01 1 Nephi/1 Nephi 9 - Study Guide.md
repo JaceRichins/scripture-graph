@@ -76,6 +76,7 @@ Verses 5–6 can be read as depicting [[Obedience]] before full understanding. N
 ## Church History
 <!-- SG:BEGIN history -->
 - **06 The Gift and Power of God** (history) *(explicit citation)*
+- **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

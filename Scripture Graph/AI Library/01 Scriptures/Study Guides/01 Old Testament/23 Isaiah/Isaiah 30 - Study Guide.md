@@ -86,6 +86,7 @@ The chapter ties [[Repentance and Forgiveness]] to returning and resting in God 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Egypt** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -122,7 +122,7 @@ Plural marriage is justified through claimed divine command and an Abrahamic com
 - **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
-- **Becoming Like God** (reference-entry) *(explicit citation)*
+- **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

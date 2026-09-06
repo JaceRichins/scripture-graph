@@ -93,6 +93,7 @@ The prohibition on eating blood 'which is the life thereof' (v.4) treats blood a
 - **Blood** (reference-entry) *(explicit citation)*
 - **Canaan** (reference-entry) *(explicit citation)*
 - **Clean and unclean** (reference-entry) *(explicit citation)*
+- **The Seer 1853-05 (Vol. 1 No. 5)** (history, 1853-05) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

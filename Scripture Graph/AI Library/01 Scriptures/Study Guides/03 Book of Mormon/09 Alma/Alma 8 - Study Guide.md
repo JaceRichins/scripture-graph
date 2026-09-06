@@ -104,7 +104,7 @@ The central reversal occurs between expulsion and speedy return. Alma's circumst
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

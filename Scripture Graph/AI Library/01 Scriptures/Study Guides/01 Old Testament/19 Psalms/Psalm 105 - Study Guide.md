@@ -90,7 +90,7 @@ The treatment of Joseph also offers a careful theology of providence. Calling Jo
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

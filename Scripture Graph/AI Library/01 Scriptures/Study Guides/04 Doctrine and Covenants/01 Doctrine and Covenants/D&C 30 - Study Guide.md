@@ -81,6 +81,7 @@ Peter's instructions connect shared adversity with [[Prayer]], [[Faith]], and [[
 - **09 Come Life or Come Death** (history) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

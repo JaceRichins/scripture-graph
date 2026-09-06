@@ -104,6 +104,7 @@ Scripture: [[Luke 19]] · My notes: [[Luke 19 - My Notes]]
 - **Bethphage** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Fig tree** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

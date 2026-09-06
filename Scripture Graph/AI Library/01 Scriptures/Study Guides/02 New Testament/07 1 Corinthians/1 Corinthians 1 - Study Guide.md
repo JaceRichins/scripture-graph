@@ -105,6 +105,9 @@ Verses 18-25 place the [[Crucifixion of Jesus Christ]] at the center of the gosp
 - **Apostle** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Church** (reference-entry) *(explicit citation)*
+- **Chapter 23: ‘How Good and How Pleasant It Is … to Dwell Together in Unity’** (teachings) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
+- **Chapter 47: President Brigham Young’s Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

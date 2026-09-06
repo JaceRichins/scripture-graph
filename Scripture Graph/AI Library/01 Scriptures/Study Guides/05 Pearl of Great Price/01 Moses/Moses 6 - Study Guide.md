@@ -112,6 +112,7 @@ The passage calls this teaching the [[Plan of Salvation]] and grounds it in the 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Death, Physical** (reference-entry) *(explicit citation)*
 - **Death, Spiritual** (reference-entry) *(explicit citation)*
@@ -120,7 +121,6 @@ The passage calls this teaching the [[Plan of Salvation]] and grounds it in the 
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **Adam** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
-- **Fall** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

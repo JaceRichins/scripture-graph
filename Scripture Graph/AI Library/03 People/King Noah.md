@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **160 BC–150 BC** — Noah's reign and Abinadi's first warning · [[Mosiah 11]] · [[200-101 BC]] *(approximate)*
+- **148 BC** — Abinadi executed and Alma preserves his words · [[Mosiah 17]] · [[200-101 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

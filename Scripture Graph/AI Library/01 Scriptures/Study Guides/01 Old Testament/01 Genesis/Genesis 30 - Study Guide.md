@@ -69,6 +69,7 @@ _Not yet developed._
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 - **Asher** (reference-entry) *(explicit citation)*
 - **Gad** (reference-entry) *(explicit citation)*
+- **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

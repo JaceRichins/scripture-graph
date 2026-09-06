@@ -100,10 +100,10 @@ The divine voice centers discipleship on hearing the beloved Son (v. 5). The cha
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Elias** (reference-entry) *(explicit citation)*
 - **Elijah** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
-- **Godhead** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -83,6 +83,8 @@ Galatians 2 presents [[Justification and Sanctification]] as centered in Jesus C
 - **Antioch** (reference-entry) *(explicit citation)*
 - **Barnabas** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Latter-day Saints' Southern Star 1898-12-10 (Vol. 1 No. 2)** (history, 1898-12-10) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

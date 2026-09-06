@@ -90,6 +90,7 @@ The blessings in verses 12-15 are conditional, corporate covenant promises invol
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Gentile** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

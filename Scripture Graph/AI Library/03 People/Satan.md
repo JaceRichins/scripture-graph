@@ -40,6 +40,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **AD 26–AD 30** — Postwar restoration and descent into conspiracy · [[3 Nephi 6]] · [[AD 1-100]] *(Book of Mormon internal dating)*
+- **AD 27** — Temptation of Jesus and Start of Galilean Ministry · [[Matthew 4]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

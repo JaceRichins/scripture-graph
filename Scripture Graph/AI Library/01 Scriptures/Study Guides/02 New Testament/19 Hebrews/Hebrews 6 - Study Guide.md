@@ -74,11 +74,15 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-02-01 (Vol. 1 No. 4)** (periodical, 1840-02-01) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Life of Heber C. Kimball** (history, 1888) *(explicit citation)*
+- **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
+- **Chapter 17: The Great Plan of Salvation** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

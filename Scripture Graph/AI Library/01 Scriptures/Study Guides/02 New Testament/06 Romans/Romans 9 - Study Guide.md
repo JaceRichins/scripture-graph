@@ -93,10 +93,12 @@ A caution on "election": the chapter uses that idea across several different reg
 ## Church History
 <!-- SG:BEGIN history -->
 - **Conscience** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Election** (reference-entry) *(explicit citation)*
 - **Genesis** (reference-entry) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

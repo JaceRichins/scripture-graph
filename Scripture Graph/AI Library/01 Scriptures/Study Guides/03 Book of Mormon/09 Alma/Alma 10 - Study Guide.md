@@ -102,6 +102,7 @@ The chapter's treatment of [[Government and Laws]] distinguishes a legal system 
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

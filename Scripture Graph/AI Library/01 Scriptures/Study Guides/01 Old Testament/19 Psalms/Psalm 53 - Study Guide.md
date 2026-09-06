@@ -62,7 +62,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

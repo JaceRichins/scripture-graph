@@ -100,6 +100,7 @@ _Not yet developed._
 - **Membership Councils** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
+- **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

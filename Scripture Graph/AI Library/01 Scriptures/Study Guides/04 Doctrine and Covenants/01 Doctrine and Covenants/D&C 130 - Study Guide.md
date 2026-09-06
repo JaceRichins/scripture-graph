@@ -103,12 +103,12 @@ D&C 130 teaches that the Father and the Son each have 'a body of flesh and bones
 <!-- SG:BEGIN history -->
 - **40 United in an Everlasting Covenant** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
+- **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
-- **Godhead** (reference-entry) *(explicit citation)*
-- **God the Father** (reference-entry) *(explicit citation)*
-- **Obedience** (reference-entry) *(explicit citation)*
-- **Spirit (or Soul)** (reference-entry) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

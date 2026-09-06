@@ -101,14 +101,14 @@ Verse 10's purpose to 'gather together in one all things in Christ' 'in the disp
 <!-- SG:BEGIN history -->
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
+- **Chapter 44: The Restoration of All Things: The Dispensation of the Fulness of Times** (teachings) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
-- **Jesus Christ** (reference-entry) *(explicit citation)*
-- **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

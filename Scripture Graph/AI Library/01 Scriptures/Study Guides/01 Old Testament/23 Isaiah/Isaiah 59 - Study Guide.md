@@ -86,6 +86,7 @@ Verse 21 presents [[Covenants]] as involving both the Spirit and preserved divin
 <!-- SG:BEGIN history -->
 - **Breastplate** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

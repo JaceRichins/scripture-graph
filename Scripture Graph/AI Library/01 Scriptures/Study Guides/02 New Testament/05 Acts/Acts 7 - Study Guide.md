@@ -109,6 +109,8 @@ A rejection-then-recognition pattern runs through the history — both Joseph an
 - **Blasphemy** (reference-entry) *(explicit citation)*
 - **Burning bush** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 25: Truths from the Savior’s Parables in Matthew 13** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

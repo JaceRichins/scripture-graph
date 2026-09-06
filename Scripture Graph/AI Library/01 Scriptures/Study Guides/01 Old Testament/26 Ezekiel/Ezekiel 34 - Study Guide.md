@@ -94,6 +94,7 @@ Verses 23–24 distinguish the LORD, who remains Israel's God, from the appointe
 ## Church History
 <!-- SG:BEGIN history -->
 - **David** (reference-entry) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

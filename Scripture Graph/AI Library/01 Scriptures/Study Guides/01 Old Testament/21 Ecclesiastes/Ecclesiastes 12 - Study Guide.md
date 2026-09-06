@@ -81,6 +81,8 @@ Verse 7 is the chapter's clearest doctrinal statement: at death "the dust shall 
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Ecclesiastes** (reference-entry) *(explicit citation)*
 - **Fear** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 11: Choosing to Walk in Obedience** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

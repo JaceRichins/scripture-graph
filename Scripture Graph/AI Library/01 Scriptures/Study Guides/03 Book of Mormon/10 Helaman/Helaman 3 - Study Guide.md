@@ -110,6 +110,7 @@ Verse 35 presents sanctification as transformation of the heart. Under persecuti
 <!-- SG:BEGIN history -->
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
@@ -117,7 +118,6 @@ Verse 35 presents sanctification as transformation of the heart. Under persecuti
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
-- **Humility** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

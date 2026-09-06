@@ -93,11 +93,13 @@ The chapter's criticism of regulations is contextual. It targets judgment, human
 ## Church History
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1844-04-15 (Vol. 5 No. 8)** (periodical, 1844-04-15) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
+- **Chapter 7: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

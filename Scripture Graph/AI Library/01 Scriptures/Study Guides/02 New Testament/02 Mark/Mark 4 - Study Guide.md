@@ -92,6 +92,8 @@ The storm narrative connects [[Faith]] with Jesus' identity. The disciples' fear
 <!-- SG:BEGIN history -->
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Furniture** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

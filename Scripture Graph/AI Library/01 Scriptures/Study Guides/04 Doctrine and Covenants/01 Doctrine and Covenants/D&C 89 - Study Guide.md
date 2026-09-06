@@ -97,8 +97,8 @@ The chapter's theology is strongly embodied: divine instruction addresses food, 
 - **Word of Wisdom** (reference-entry) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
+- **Chapter 29: Living the Word of Wisdom** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Creation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

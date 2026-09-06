@@ -91,6 +91,7 @@ _Not yet developed._
 - **Centurion** (reference-entry) *(explicit citation)*
 - **Eli** (reference-entry) *(explicit citation)*
 - **Elijah** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

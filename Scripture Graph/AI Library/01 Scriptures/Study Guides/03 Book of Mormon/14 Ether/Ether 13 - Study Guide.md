@@ -92,8 +92,10 @@ Ether 13 divides at verse 13:
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
 - **09 Come Life or Come Death** (history) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

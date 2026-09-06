@@ -88,6 +88,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 30–AD 33** — Last Supper, Gethsemane, and arrest of Jesus · [[Mark 14]] · [[AD 1-100]] *(traditional dating)*
 - **AD 1831** — Elders' return journey from Zion to Kirtland (Aug. 1831) · [[D&C 62]] · [[AD 1801-1900]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

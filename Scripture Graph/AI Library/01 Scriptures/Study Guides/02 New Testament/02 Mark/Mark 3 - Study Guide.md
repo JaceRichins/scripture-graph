@@ -79,6 +79,8 @@ _Not yet developed._
 - **Canaanite** (reference-entry) *(explicit citation)*
 - **Damnation** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

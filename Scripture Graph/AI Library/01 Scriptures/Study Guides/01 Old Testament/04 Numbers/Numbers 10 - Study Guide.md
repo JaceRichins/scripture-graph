@@ -91,6 +91,7 @@ _Not yet developed._
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

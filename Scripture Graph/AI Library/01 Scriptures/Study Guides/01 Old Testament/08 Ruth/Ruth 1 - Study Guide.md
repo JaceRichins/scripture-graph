@@ -67,6 +67,7 @@ _Not yet developed._
 - **28 Tried Long Enough** (history) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Barley** (reference-entry) *(explicit citation)*
+- **Chapter 48: A Call for Unity, a Testimony, and a Blessing** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

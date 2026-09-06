@@ -112,12 +112,12 @@ Scripture: [[Matthew 16]] · My notes: [[Matthew 16 - My Notes]]
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
-- **Revelation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

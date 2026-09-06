@@ -97,6 +97,7 @@ Verses 15–19 connect [[Missionary Work]] with the [[Atonement of Jesus Christ]
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chastity** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Pornography** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

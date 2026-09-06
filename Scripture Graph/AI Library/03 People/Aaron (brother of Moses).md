@@ -43,13 +43,13 @@ _Not yet developed._
 - **1491 BC** — Second tablets and covenant renewal at Mount Sinai · [[Exodus 34]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC** — The Exodus from Egypt; the Red Sea · [[Exodus 12]] · [[Exodus 14]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1250 BC** — Israel's arrival at Sinai and the covenant theophany · [[Exodus 19]] · [[1500-1401 BC]] *(approximate)*
+- **1446 BC** — Death of Nadab and Abihu near the newly dedicated tabernacle · [[Leviticus 10]] · [[1500-1401 BC]] *(traditional dating)*
 - **1446 BC–1406 BC** — Exodus and wilderness rebellions recalled in Psalm 106 · [[Psalm 106]] · [[1500-1401 BC]] *(traditional dating)*
+- **1445 BC** — Institution of the Day of Atonement at Sinai · [[Leviticus 16]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC–1444 BC** — Aaron's Inaugural Sacrifices at the Wilderness Tabernacle · [[Leviticus 9]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC–1444 BC** — Consecration of the Levites for tabernacle service · [[Numbers 8]] · [[1500-1401 BC]] *(traditional dating)*
 - **1445 BC** — The tabernacle raised · [[Exodus 40]] · [[Leviticus 9]] · [[1500-1401 BC]] *(traditional dating)*
 - **1410 BC–1400 BC** — Moses delivers the Song of Moses on the plains of Moab · [[Deuteronomy 32]] · [[1500-1401 BC]] *(traditional dating)*
-- **715 BC–686 BC** — Hezekiah's reign and first-month temple reform · [[2 Chronicles 29]] · [[800-701 BC]] *(historical)*
-- **90 BC–77 BC** — Mission among the Lamanites recalled by Ammon · [[Alma 26]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

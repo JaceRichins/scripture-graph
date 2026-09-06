@@ -103,7 +103,7 @@ The chapter's openness is disciplined rather than credulous. Gifts come from God
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
+- **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

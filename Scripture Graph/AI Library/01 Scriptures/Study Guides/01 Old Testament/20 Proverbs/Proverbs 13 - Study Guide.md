@@ -78,6 +78,7 @@ Proverbs 13:24 connects parental love with timely correction. Read alongside the
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1836-09-01 (Vol. 2 No. 12)** (periodical, 1836-09-01) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
+- **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

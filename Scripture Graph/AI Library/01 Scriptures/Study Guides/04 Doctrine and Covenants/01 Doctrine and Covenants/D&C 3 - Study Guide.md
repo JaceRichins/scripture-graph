@@ -103,6 +103,8 @@ Verse 20 presents an intended salvation sequence: recipients are to learn the pr
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
+- **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 5: Repentance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

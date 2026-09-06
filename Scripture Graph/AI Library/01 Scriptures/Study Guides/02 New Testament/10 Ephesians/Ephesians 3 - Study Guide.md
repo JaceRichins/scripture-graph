@@ -72,6 +72,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -115,6 +115,7 @@ These features clearly form a covenant-renewal sequence. Comparisons with ancien
 - **Balaam** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
 - **Eleazar** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

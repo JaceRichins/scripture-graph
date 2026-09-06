@@ -101,6 +101,9 @@ _Not yet developed._
 - **David** (reference-entry) *(explicit citation)*
 - **Ephraim, stick of** (reference-entry) *(explicit citation)*
 - **Ezekiel** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 4: The Book of Mormon: Keystone of Our Religion** (teachings) *(explicit citation)*
+- **Chapter 17: The Scriptures** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

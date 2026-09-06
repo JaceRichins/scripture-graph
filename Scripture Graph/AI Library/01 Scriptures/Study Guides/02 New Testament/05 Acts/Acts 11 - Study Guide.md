@@ -95,6 +95,7 @@ Luke lets the reader hear the Gentile-inclusion argument twice — once as narra
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Antioch** (reference-entry) *(explicit citation)*
 - **Caesar** (reference-entry) *(explicit citation)*

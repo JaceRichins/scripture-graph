@@ -89,6 +89,7 @@ Moses and Aaron also complicate any picture of authority as mere domination. Bot
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **History of the Church, Volume 1** (history, 1902-1912) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

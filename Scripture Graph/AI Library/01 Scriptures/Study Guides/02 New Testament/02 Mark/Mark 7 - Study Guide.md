@@ -87,6 +87,7 @@ _Not yet developed._
 - **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Corban** (reference-entry) *(explicit citation)*
 - **Dog** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

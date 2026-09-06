@@ -98,6 +98,7 @@ John 7:16–18 grounds Jesus's teaching in the one who sent him rather than in s
 - **Brethren of the Lord** (reference-entry) *(explicit citation)*
 - **Diaspora** (reference-entry) *(explicit citation)*
 - **Dispersion** (reference-entry) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

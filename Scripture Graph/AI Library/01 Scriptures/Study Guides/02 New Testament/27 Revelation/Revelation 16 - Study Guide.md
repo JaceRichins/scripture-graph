@@ -77,6 +77,9 @@ _Not yet developed._
 - **Babylon or Babel** (reference-entry) *(explicit citation)*
 - **Dragon** (reference-entry) *(explicit citation)*
 - **Esdraelon** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -96,12 +96,14 @@ The danger to Sarai also makes [[Marriage]] central to the episode. The text rep
 ## Church History
 <!-- SG:BEGIN history -->
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Bethel** (reference-entry) *(explicit citation)*
 - **Canaanite** (reference-entry) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

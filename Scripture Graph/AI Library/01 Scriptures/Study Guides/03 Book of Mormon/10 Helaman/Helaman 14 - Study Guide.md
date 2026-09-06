@@ -106,6 +106,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Death, Spiritual** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Death, Spiritual** (reference-entry) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
@@ -113,7 +114,6 @@ _Not yet developed._
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
-- **Obedience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

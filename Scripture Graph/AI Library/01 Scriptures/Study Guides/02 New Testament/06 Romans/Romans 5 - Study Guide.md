@@ -93,6 +93,8 @@ The Adam–Christ comparison connects the [[Fall of Adam and Eve]] with Christ's
 - **Grace** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-11-01 (Vol. 2 No. 2)** (periodical, 1835-11-01) *(explicit citation)*
 - **Adam** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Seer 1853-03 (Vol. 1 No. 3)** (history, 1853-03) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

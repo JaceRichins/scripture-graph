@@ -83,6 +83,7 @@ Verse 5 portrays sinfulness as reaching back to life's beginning, but it does no
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*
+- **Chapter 7: The Plan of Salvation** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

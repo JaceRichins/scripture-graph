@@ -81,8 +81,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

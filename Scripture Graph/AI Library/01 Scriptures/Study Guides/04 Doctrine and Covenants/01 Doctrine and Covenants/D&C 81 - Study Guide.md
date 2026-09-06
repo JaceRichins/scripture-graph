@@ -92,6 +92,7 @@ Faithfulness is expressed through counsel, [[Prayer]], gospel ministry, and care
 - **First Presidency** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
+- **Chapter 13: Preparing for Eternal Progression** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

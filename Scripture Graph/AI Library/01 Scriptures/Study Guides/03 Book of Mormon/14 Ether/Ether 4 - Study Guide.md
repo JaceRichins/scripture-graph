@@ -97,8 +97,10 @@ The titles applied to Christ in verses 7 and 12 are relevant to [[The Godhead]].
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **The Evening and the Morning Star 1832-08 (Vol. 1 No. 3)** (history, 1832-08) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

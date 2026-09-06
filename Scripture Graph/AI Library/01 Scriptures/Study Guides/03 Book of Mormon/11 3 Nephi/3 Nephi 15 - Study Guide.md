@@ -106,6 +106,7 @@ The second half joins [[Scattering of Israel]] and [[Gathering of Israel]]. Sepa
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
+- **Chapter 13: Preparing for Eternal Progression** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

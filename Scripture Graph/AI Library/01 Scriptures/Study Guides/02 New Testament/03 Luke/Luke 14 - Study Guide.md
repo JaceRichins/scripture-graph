@@ -96,6 +96,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 6** (history, 1902-1912) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

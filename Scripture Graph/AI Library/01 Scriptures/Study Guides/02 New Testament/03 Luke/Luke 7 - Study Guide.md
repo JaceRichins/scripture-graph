@@ -86,6 +86,7 @@ The chapter links [[Faith]] with confidence in Jesus' effective authority (7:7â€
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 6: The Mission of John the Baptist** (teachings) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
@@ -95,7 +96,6 @@ The chapter links [[Faith]] with confidence in Jesus' effective authority (7:7â€
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Camelâ€™s hair** (reference-entry) *(explicit citation)*
-- **Capernaum** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

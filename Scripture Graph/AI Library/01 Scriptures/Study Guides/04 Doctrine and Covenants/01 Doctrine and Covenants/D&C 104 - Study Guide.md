@@ -115,9 +115,9 @@ The debt instructions join [[Humility]] and [[Prayer]] with diligence, correspon
 - **Self-Reliance** (reference-entry) *(explicit citation)*
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
+- **Chapter 22: Tithing and Consecration** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Consecration** (reference-entry) *(explicit citation)*
-- **Debt** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

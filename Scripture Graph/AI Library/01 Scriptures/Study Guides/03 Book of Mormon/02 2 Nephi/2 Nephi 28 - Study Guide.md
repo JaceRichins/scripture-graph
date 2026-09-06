@@ -112,6 +112,7 @@ The repeated criticism of fine sanctuaries and clothing is tied to robbing and p
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
+- **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

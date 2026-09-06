@@ -70,6 +70,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Elders** (reference-entry) *(explicit citation)*
+- **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

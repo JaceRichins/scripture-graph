@@ -99,7 +99,7 @@ Moses' action in verse 23 illustrates mediation: he stands "in the breach" and t
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

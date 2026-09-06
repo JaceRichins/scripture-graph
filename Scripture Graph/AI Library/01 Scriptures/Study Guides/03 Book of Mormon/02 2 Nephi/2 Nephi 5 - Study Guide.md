@@ -109,6 +109,7 @@ Verse 20 explicitly defines the rebellious brothers' condition as being 'cut off
 - **Book of Mormon and DNA Studies** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **Happiness** (reference-entry) *(explicit citation)*
+- **Chapter 31: Thrift, Industry, and Self-Reliance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

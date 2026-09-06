@@ -94,6 +94,7 @@ Maturity is measured by relation to Christ and by the health of the whole body. 
 <!-- SG:BEGIN history -->
 - **Endowment** (reference-entry) *(explicit citation)*
 - **Unity** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Church** (reference-entry) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
@@ -101,7 +102,6 @@ Maturity is measured by relation to Christ and by the health of the whole body. 
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
-- **Teacher (Aaronic Priesthood)** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

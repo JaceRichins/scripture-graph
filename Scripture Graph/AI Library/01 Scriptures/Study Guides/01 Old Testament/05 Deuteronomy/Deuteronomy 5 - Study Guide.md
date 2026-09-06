@@ -95,6 +95,7 @@ The chapter places public revelation and prophetic mediation together. Israel he
 <!-- SG:BEGIN history -->
 - **Deuteronomy** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -77,6 +77,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Clean and unclean** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

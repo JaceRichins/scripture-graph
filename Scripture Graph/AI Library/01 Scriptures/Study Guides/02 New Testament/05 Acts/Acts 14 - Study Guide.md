@@ -94,6 +94,7 @@ The Antioch in verse 21 is Pisidian Antioch; the Antioch in verses 26–28 is th
 - **Dispersion** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

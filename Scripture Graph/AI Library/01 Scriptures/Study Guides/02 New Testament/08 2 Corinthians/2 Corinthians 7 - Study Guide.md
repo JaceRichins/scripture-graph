@@ -72,6 +72,7 @@ _Not yet developed._
 - **Abortion** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
+- **Chapter 5: Repentance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -108,9 +108,11 @@ Jacob 1:19 makes ministerial accountability conditional on fulfilling the duty t
 - **Book of Mormon and DNA Studies** (reference-entry) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Journal of Discourses, Volume 22** (history, ~1875) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Stewardship** (reference-entry) *(explicit citation)*
+- **Chapter 45: Joseph Smith’s Feelings about His Prophetic Mission** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

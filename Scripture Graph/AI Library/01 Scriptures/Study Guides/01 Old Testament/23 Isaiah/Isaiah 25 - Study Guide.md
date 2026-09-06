@@ -68,6 +68,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Death, Physical** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

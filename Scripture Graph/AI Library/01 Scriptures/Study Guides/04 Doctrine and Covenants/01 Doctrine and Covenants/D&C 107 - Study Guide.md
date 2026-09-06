@@ -114,6 +114,7 @@ Governance is joined to procedure and moral accountability. Decisions involve qu
 <!-- SG:BEGIN history -->
 - **The Role of Prophets** (reference-entry) *(explicit citation)*
 - **Quorum** (reference-entry) *(explicit citation)*
+- **Chapter 20: Church Organization and Government** (teachings) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
@@ -121,7 +122,6 @@ Governance is joined to procedure and moral accountability. Decisions involve qu
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Deacon** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
-- **Church Administration** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

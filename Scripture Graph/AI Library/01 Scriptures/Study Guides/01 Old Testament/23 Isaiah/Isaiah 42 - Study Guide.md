@@ -81,6 +81,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Blindness** (reference-entry) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

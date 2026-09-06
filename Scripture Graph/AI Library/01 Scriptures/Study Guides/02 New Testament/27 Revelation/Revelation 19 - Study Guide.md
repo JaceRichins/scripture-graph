@@ -97,9 +97,13 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
+- **Chapter 33: The Spiritual Gifts of Healing, Tongues, Prophecy, and Discerning of Spirits** (teachings) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
+- **The Seer 1853-03 (Vol. 1 No. 3)** (history, 1853-03) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
+- **Chapter 16: Revelation and the Living Prophet** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

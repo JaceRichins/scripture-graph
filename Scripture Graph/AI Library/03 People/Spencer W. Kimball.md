@@ -32,3 +32,10 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 1978** — Priesthood extended to all — Official Declaration 2 · [[Official Declaration 2]] · [[AD 1901-2000]] *(historical)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

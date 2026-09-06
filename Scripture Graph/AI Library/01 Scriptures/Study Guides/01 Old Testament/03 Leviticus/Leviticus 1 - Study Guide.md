@@ -85,6 +85,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Dove, or turtle-dove** (reference-entry) *(explicit citation)*
+- **Latter-day Saint Biographical Encyclopedia, Volume 1** (history, 1901) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

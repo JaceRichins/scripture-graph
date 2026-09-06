@@ -95,6 +95,7 @@ Divine help and human mediation appear in sequence. Nephi prays before his bonds
 <!-- SG:BEGIN history -->
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
+- **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

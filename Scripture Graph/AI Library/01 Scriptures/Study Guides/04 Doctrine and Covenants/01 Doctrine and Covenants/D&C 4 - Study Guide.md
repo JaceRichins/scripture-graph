@@ -101,6 +101,7 @@ Verse 3 makes desire spiritually consequential, but it does not define a formal 
 - **Love** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
+- **Chapter 28: Missionary Service: A Holy Calling, a Glorious Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

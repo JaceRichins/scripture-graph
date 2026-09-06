@@ -83,11 +83,14 @@ The chapter contrasts two figures in the heavenly court: the fiery-throned 'Anci
 ## Church History
 <!-- SG:BEGIN history -->
 - **Daniel, book of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*
 - **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
 - **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Adam** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

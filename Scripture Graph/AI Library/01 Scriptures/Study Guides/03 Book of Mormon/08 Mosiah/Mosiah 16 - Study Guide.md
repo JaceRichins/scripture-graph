@@ -105,6 +105,8 @@ The title “very Eternal Father” should be studied with [[Mosiah 15]] and [[T
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Death, Physical** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **Chapter 14: Words of Hope and Consolation at the Time of Death** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

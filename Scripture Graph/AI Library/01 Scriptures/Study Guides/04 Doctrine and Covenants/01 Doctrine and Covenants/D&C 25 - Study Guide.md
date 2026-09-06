@@ -97,7 +97,7 @@ The chapter joins grace and covenant responsibility without reducing either one 
 - **20 Do Not Cast Me Off** (history) *(explicit citation)*
 - **37 We Will Prove Them** (history) *(explicit citation)*
 - **41 God Must Be the Judge** (history) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
+- **Chapter 39: Relief Society: Divine Organization of Women** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

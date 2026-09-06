@@ -74,6 +74,7 @@ _Not yet developed._
 - **Latter Day Saints' Messenger and Advocate 1836-07-01 (Vol. 2 No. 10)** (periodical, 1836-07-01) *(explicit citation)*
 - **Antichrist** (reference-entry) *(explicit citation)*
 - **Church** (reference-entry) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

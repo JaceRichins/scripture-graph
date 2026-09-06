@@ -100,6 +100,7 @@ The chapter presents [[Revelation]] as disclosure for a mission: God reveals who
 <!-- SG:BEGIN history -->
 - **Bible** (reference-entry) *(explicit citation)*
 - **Burning bush** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -95,6 +95,7 @@ The chapter portrays the Father as one who sees hidden devotion (3 Nephi 13:4, 6
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
+- **Chapter 43: Our Search for Truth and Personal Testimony** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

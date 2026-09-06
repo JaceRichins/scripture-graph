@@ -91,6 +91,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Blood** (reference-entry) *(explicit citation)*
 - **Clean and unclean** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

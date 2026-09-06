@@ -94,6 +94,7 @@ The wording about appointing another in Joseph's stead is relevant to [[Prophets
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
+- **Historical Summary** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

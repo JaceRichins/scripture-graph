@@ -87,14 +87,14 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **‘Our Hearts Rejoiced to Hear Him Speak’** (history) *(explicit citation)*
+- **Chapter 18: Beyond the Veil: Life in the Eternities** (teachings) *(explicit citation)*
+- **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Spirit (or Soul)** (reference-entry) *(explicit citation)*
 - **40 United in an Everlasting Covenant** (history) *(explicit citation)*
-- **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -83,6 +83,7 @@ Doctrine and Covenants 76:25-27 identifies a rebellious premortal angel as Lucif
 - **Satan** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->

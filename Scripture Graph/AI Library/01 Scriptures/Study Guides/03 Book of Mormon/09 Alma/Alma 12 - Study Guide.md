@@ -107,10 +107,10 @@ Alma's discourse makes three central doctrinal contributions. First, revelation 
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Death** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Mortality** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
-- **Truth** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

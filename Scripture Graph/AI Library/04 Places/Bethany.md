@@ -33,3 +33,11 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 30–AD 33** — Last Supper, Gethsemane, and arrest of Jesus · [[Mark 14]] · [[AD 1-100]] *(traditional dating)*
+- **AD 30–AD 33** — The Last Supper, Gethsemane, and arrest of Jesus · [[Matthew 26]] · [[AD 1-100]] *(approximate)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

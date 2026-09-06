@@ -102,11 +102,11 @@ The chapter treats aloneness as “not good” and presents the woman as the cor
 - **Same-Sex Marriage** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Sex Education and Behavior** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
-- **Eden, Garden of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

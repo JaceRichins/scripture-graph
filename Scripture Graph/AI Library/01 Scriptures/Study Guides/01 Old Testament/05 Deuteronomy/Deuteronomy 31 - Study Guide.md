@@ -91,6 +91,7 @@ The chapter joins divine presence with human covenant responsibility. Israel and
 - **Abortion** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
+- **Chapter 30: Valiant in the Cause of Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -97,6 +97,7 @@ _Not yet developed._
 - **Grace** (reference-entry) *(explicit citation)*
 - **Paradise** (reference-entry) *(explicit citation)*
 - **Degrees of glory** (reference-entry) *(explicit citation)*
+- **Chapter 18: Beyond the Veil: Life in the Eternities** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

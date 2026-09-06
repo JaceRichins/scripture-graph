@@ -103,6 +103,7 @@ Revelation also appears in more than one descriptive form. A voice comes to Enos
 ## Church History
 <!-- SG:BEGIN history -->
 - **Conversion** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
@@ -111,7 +112,6 @@ Revelation also appears in more than one descriptive form. A voice comes to Enos
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

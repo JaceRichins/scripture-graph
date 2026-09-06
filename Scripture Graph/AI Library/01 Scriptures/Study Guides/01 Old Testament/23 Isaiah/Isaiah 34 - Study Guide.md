@@ -78,6 +78,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Dragon** (reference-entry) *(explicit citation)*
+- **Chapter 44: The Kingdom of God and the Gathering of Israel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

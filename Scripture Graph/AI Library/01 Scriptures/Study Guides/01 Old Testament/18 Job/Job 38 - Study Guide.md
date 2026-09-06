@@ -75,6 +75,10 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Jesus Christ Chosen as Savior** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
+- **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
+- **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*
+- **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

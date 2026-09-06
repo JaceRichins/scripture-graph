@@ -56,13 +56,13 @@ _Not yet developed._
 - **559 BC–545 BC** — Jacob continues his covenant sermon · [[2 Nephi 10]] · [[600-501 BC]] *(approximate)*
 - **559 BC–545 BC** — Nephi introduces his Isaiah quotations · [[2 Nephi 11]] · [[600-501 BC]] *(approximate)*
 - **559 BC–545 BC** — Nephi explains Isaiah and prophesies plainly · [[2 Nephi 25]] · [[600-501 BC]] *(approximate)*
+- **124 BC** — King Benjamin teaches the converted multitude · [[Mosiah 4]] · [[200-101 BC]] *(approximate)*
+- **124 BC** — Benjamin's people enter a covenant · [[Mosiah 5]] · [[200-101 BC]] *(approximate)*
 - **83 BC** — Alma preaches repentance at Zarahemla · [[Alma 5]] · [[100-1 BC]] *(approximate)*
 - **83 BC** — Alma orders the Zarahemla church and travels to Gideon · [[Alma 6]] · [[100-1 BC]] *(approximate)*
 - **82 BC** — Alma teaches concerning the holy order and repentance · [[Alma 13]] · [[100-1 BC]] *(approximate)*
 - **74 BC** — Alma counsels Shiblon · [[Alma 38]] · [[100-1 BC]] *(approximate)*
-- **4 BC** — The birth of Jesus Christ · [[Luke 2]] · [[Matthew 2]] · [[3 Nephi 1]] · [[100-1 BC]] *(traditional dating)*
-- **AD 1** — Birth sign and threatened believers · [[3 Nephi 1]] · [[AD 1-100]] *(approximate)*
-- **AD 5–AD 16** — Forgetting the sign and escalation of Gadianton war · [[3 Nephi 2]] · [[AD 1-100]] *(approximate)*
+- **6 BC–1 BC** — Samuel's departure and the beginning of the birth signs · [[Helaman 16]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

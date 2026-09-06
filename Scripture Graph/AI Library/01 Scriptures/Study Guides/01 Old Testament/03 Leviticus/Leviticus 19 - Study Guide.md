@@ -101,6 +101,7 @@ Verses 21–22 connect a trespass offering, priestly atonement, and forgiveness 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Love** (reference-entry) *(explicit citation)*
 - **Profanity** (reference-entry) *(explicit citation)*
@@ -110,7 +111,6 @@ Verses 21–22 connect a trespass offering, priestly atonement, and forgiveness 
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
 - **Commerce** (reference-entry) *(explicit citation)*
 - **Firstfruits** (reference-entry) *(explicit citation)*
-- **Gentile** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

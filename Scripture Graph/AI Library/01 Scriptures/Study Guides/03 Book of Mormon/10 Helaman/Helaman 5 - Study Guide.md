@@ -112,6 +112,7 @@ The repeated command to remember also joins [[Family]], [[Records and Sacred Wri
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
@@ -121,7 +122,6 @@ The repeated command to remember also joins [[Family]], [[Records and Sacred Wri
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
-- **Holy Ghost** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

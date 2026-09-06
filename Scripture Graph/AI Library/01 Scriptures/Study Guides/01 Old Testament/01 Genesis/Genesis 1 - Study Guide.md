@@ -92,6 +92,7 @@ Genesis 1 introduces ideas developed at length elsewhere in scripture: humankind
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
@@ -101,7 +102,6 @@ Genesis 1 introduces ideas developed at length elsewhere in scripture: humankind
 - **Family** (reference-entry) *(explicit citation)*
 - **Religion and Science** (reference-entry) *(explicit citation)*
 - **Same-Sex Marriage** (reference-entry) *(explicit citation)*
-- **Sex Education and Behavior** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

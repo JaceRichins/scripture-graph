@@ -86,6 +86,7 @@ _Not yet developed._
 - **Humility** (reference-entry) *(explicit citation)*
 - **Love** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

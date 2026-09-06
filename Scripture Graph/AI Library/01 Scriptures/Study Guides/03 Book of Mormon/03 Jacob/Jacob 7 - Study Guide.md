@@ -100,6 +100,7 @@ When Sherem demands a sign, Jacob objects to tempting God, conditionally identif
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Antichrist** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

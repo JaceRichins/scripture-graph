@@ -75,6 +75,7 @@ _Not yet developed._
 - **12 After Much Tribulation** (history) *(explicit citation)*
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **Welfare** (reference-entry) *(explicit citation)*
+- **Chapter 16: Building Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

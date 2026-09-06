@@ -109,6 +109,7 @@ Verse 25 separately affirms, without qualification in this chapter, that little 
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Humility** (reference-entry) *(explicit citation)*
 - **Justice** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

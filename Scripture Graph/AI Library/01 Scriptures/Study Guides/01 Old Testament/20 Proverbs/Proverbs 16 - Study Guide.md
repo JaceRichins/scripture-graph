@@ -83,7 +83,8 @@ Verse 32 gives self-government exceptional dignity. Mastering anger and ruling o
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

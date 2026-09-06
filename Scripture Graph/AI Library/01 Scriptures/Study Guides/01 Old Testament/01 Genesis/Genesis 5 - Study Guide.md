@@ -94,6 +94,7 @@ Lamech's hope concerning Noah connects [[Family]], labor, and the cursed ground 
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **Enoch** (reference-entry) *(explicit citation)*
 - **Genealogy** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

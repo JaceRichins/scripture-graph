@@ -97,6 +97,8 @@ Scripture: [[John 4]] · My notes: [[John 4 - My Notes]]
 - **Worship God the Father** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1840-03-01 (Vol. 1 No. 5)** (periodical, 1840-03-01) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

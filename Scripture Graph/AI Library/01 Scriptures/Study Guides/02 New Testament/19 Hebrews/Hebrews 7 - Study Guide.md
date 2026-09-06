@@ -87,7 +87,9 @@ The chapter presents Christ's priesthood, after the order of [[Melchizedek Pries
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*

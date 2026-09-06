@@ -96,12 +96,12 @@ Verse 13 restricts Joseph Smith, Sidney Rigdon, and Hyrum Smith from incurring a
 - **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
 - **26 A Holy and Consecrated Land** (history) *(explicit citation)*
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
+- **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Mormon Church** (reference-entry) *(explicit citation)*
 - **Mormonism** (reference-entry) *(explicit citation)*
 - **Mormons** (reference-entry) *(explicit citation)*
-- **Stake** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

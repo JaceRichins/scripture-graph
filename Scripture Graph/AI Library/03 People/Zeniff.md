@@ -36,8 +36,10 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **200 BC–187 BC** — Zeniff's migration, settlement, and first reported war · [[Mosiah 9]] · [[200-101 BC]] *(approximate)*
 - **200 BC–160 BC** — Zeniff's people return to the land of Nephi · [[Mosiah 9]] · [[200-101 BC]] *(Book of Mormon internal dating)*
 - **160 BC–150 BC** — Noah's reign and Abinadi's first warning · [[Mosiah 11]] · [[200-101 BC]] *(approximate)*
+- **121 BC** — Ammon reaches Limhi and announces contact with Zarahemla · [[Mosiah 7]] · [[200-101 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

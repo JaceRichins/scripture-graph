@@ -85,6 +85,7 @@ God's word is portrayed as life-giving, guiding, and true (Psalm 119:25, 105, 14
 ## Church History
 <!-- SG:BEGIN history -->
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -69,6 +69,7 @@ _Not yet developed._
 - **Index by Section Number** (history) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

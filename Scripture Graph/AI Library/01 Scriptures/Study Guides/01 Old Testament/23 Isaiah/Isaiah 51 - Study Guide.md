@@ -94,6 +94,7 @@ Hope for Zion is grounded in the [[Abrahamic Covenant]]: the God who called Abra
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Dragon** (reference-entry) *(explicit citation)*
 - **Eden, Garden of** (reference-entry) *(explicit citation)*
+- **Chapter 16: Building Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

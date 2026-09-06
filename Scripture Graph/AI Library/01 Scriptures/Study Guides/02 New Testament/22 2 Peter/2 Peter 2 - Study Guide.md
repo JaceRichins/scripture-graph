@@ -90,6 +90,7 @@ Scripture: [[2 Peter 2]] · My notes: [[2 Peter 2 - My Notes]]
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
+- **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

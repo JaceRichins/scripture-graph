@@ -86,6 +86,8 @@ _Not yet developed._
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 23: ‘How Good and How Pleasant It Is … to Dwell Together in Unity’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

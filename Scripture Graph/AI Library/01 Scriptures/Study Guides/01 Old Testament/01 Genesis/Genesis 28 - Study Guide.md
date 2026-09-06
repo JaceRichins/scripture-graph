@@ -84,12 +84,14 @@ This chapter carries the [[Abrahamic Covenant]] forward to Jacob, the third-gene
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 23: Understanding the New and Everlasting Covenant of Marriage** (teachings) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Bethel** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

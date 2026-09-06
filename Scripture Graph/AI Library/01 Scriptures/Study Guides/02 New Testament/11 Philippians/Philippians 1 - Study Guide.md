@@ -76,6 +76,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Suicide** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

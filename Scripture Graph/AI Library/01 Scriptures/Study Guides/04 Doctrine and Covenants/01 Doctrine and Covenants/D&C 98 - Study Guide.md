@@ -112,9 +112,9 @@ The chapter also depicts [[Covenants]] as tested commitments. Receiving truth 'l
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **17 Though the Mob Kill Us** (history) *(explicit citation)*
 - **36 Incline Them to Gather** (history) *(explicit citation)*
+- **Chapter 3: Living the Gospel** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
-- **Adversity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -96,9 +96,9 @@ The definition of [[Zion]] as “the pure in heart” adds a moral identity to t
 - **Zion** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **Chapter 16: Building Zion** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
-- **Tithing** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

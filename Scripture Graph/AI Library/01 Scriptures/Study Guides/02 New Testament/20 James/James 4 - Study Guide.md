@@ -97,6 +97,7 @@ _Not yet developed._
 - **Humility** (reference-entry) *(explicit citation)*
 - **Sin** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
+- **Chapter 9: Repentance and Baptism** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

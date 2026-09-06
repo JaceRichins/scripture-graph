@@ -110,6 +110,8 @@ The disciples pray directly to Jesus, calling him "their Lord and their God" (v.
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
+- **Chapter 6: The Communication between God and Man** (teachings) *(explicit citation)*
+- **Chapter 48: A Call for Unity, a Testimony, and a Blessing** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -97,6 +97,7 @@ The chapter grounds [[Revelation]] and [[Prophecy]] in God's sovereignty over hi
 <!-- SG:BEGIN history -->
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Mormonism** (reference-entry) *(explicit citation)*
@@ -104,7 +105,6 @@ The chapter grounds [[Revelation]] and [[Prophecy]] in God's sovereignty over hi
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
 - **History of the Church, Volume 6** (history, 1902-1912) *(explicit citation)*
-- **Aramaic** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

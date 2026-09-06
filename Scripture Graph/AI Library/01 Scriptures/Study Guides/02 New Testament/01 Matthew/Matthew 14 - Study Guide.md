@@ -93,6 +93,7 @@ The chapter joins [[Faith]] to dependence upon Jesus rather than to confidence i
 - **Calendar** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Gennesaret(h), Land of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -106,10 +106,10 @@ The chapter also places several formulations about deity together. Amulek affirm
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Spirit (or Soul)** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

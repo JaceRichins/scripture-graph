@@ -110,6 +110,7 @@ Verses 44–50 strongly unite Jesus's mission with the Father's authority while 
 - **Confession** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -106,6 +106,7 @@ Repentance has outward consequences. Alma and his companions confess, teach what
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
+- **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

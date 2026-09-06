@@ -81,9 +81,11 @@ Verses 15–16 refuse to separate doctrine from moral life. Purity is connected 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Bishop** (reference-entry) *(explicit citation)*
 - **Bishop** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

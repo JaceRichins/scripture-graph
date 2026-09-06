@@ -102,6 +102,7 @@ _Not yet developed._
 - **Agency and Accountability** (reference-entry) *(explicit citation)*
 - **Book of life** (reference-entry) *(explicit citation)*
 - **Dog** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

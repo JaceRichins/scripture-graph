@@ -84,8 +84,10 @@ The chapter also complicates simplistic accounts of divine provision. Receiving 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Suicide** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Eldad and Medad** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
+- **Chapter 6: The Communication between God and Man** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

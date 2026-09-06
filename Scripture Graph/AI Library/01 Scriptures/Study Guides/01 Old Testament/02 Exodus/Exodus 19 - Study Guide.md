@@ -95,6 +95,7 @@ The encounter also presents holiness as ordered approach. Washing, temporary abs
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
 - **Exodus, book of** (reference-entry) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

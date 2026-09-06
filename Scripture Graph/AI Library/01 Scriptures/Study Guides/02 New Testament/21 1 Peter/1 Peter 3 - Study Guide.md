@@ -96,6 +96,7 @@ Verse 21 denies that baptism's saving power lies in physical washing ("not the p
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

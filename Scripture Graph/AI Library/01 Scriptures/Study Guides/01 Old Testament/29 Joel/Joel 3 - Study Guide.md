@@ -89,6 +89,7 @@ The chapter presents divine judgment as a response to identifiable social and po
 - **Times and Seasons 1842-09-15 (Vol. 3 No. 22)** (periodical, 1842-09-15) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-09-01 (Vol. 3 No. 12)** (periodical, 1837-09-01) *(explicit citation)*
 - **Agriculture** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

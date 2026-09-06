@@ -100,12 +100,12 @@ Alma defines [[Faith]] as less than perfect knowledge but more specific than hop
 - **The Role of Prophets** (reference-entry) *(explicit citation)*
 - **Testimony** (reference-entry) *(explicit citation)*
 - **Worship** (reference-entry) *(explicit citation)*
+- **Chapter 8: Faith in the Lord Jesus Christ** (teachings) *(explicit citation)*
 - **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Worship God the Father** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
-- **Testimony** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

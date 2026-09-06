@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **6 BC–4 BC** — Annunciations and infancy events under Herod the Great · [[Luke 1]] · [[100-1 BC]] *(approximate)*
 - **4 BC** — The birth of Jesus Christ · [[Luke 2]] · [[Matthew 2]] · [[3 Nephi 1]] · [[100-1 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

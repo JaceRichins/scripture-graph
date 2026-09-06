@@ -89,6 +89,7 @@ The chapter joins [[Repentance]] with patient [[Endurance]]. Ephesus and Pergamo
 - **Times and Seasons 1841-02-01 (Vol. 2 No. 7)** (periodical, 1841-02-01) *(explicit citation)*
 - **Balaam** (reference-entry) *(explicit citation)*
 - **Candlestick** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

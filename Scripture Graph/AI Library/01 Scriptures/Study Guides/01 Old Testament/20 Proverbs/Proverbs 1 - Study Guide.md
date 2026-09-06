@@ -75,6 +75,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Education** (reference-entry) *(explicit citation)*
+- **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

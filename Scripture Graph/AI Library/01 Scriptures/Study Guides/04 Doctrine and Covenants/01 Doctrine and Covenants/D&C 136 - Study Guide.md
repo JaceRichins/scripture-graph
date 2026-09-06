@@ -116,6 +116,7 @@ Joy is directed toward [[Gratitude]] through praise and thanksgiving, while sorr
 - **Zion** (reference-entry) *(explicit citation)*
 - **Blood** (reference-entry) *(explicit citation)*
 - **Dispensations** (reference-entry) *(explicit citation)*
+- **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

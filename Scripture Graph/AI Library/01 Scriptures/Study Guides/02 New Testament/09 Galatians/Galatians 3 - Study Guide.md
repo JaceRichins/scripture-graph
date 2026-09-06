@@ -95,6 +95,7 @@ Galatians 3:28 places Jew and Greek, bond and free, and male and female within o
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Race and the Priesthood** (reference-entry) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
@@ -104,7 +105,6 @@ Galatians 3:28 places Jew and Greek, bond and free, and male and female within o
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
-- **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -97,9 +97,13 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Center Place** (history) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Book of life** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
+- **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
+- **Chapter 18: Beyond the Veil: Life in the Eternities** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -66,6 +66,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Chapter 20: Church Organization and Government** (teachings) *(explicit citation)*
 - **Bishop** (reference-entry) *(explicit citation)*
 - **Deacon** (reference-entry) *(explicit citation)*
 - **Bishop** (reference-entry) *(explicit citation)*

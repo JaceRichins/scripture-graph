@@ -101,6 +101,7 @@ Central threads include: delegated [[Priesthood|authority]] granted to the Twelv
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Waiting for the Word of the Lord** (history) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
@@ -110,7 +111,6 @@ Central threads include: delegated [[Priesthood|authority]] granted to the Twelv
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Quorum of the Twelve Apostles** (reference-entry) *(explicit citation)*
-- **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

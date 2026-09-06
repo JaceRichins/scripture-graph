@@ -106,11 +106,11 @@ Mormon also joins moral discernment to discipleship. The test is directional and
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Spiritual Experiences** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
-- **Charity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

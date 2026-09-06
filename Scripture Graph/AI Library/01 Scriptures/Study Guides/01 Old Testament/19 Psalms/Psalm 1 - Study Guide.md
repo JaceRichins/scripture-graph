@@ -67,6 +67,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **History of the Church, Volume 1** (history, 1902-1912) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -66,6 +66,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

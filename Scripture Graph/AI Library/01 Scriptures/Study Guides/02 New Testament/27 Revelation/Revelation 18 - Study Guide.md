@@ -91,10 +91,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **Adultery** (reference-entry) *(explicit citation)*
 - **Babylon or Babel** (reference-entry) *(explicit citation)*
 - **Commerce** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

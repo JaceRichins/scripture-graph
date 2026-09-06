@@ -91,7 +91,7 @@ Verse 13 also links [[Humility]], [[Repentance]], and [[Endurance]]: some believ
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

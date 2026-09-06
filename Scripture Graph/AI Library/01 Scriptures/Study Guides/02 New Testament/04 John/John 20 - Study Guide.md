@@ -102,13 +102,14 @@ Thomas directly addresses Jesus as “My Lord and my God” (John 20:28), while 
 <!-- SG:BEGIN history -->
 - **Peace** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Peace** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
-- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

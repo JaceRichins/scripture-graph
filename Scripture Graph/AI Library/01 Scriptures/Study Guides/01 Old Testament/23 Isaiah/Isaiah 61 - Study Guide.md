@@ -91,6 +91,9 @@ Verse 6 calls the restored community "Priests of the LORD" and "Ministers of our
 <!-- SG:BEGIN history -->
 - **Anointed One** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

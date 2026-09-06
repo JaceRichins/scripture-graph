@@ -98,6 +98,7 @@ The promised ruler bears government rather than the people's oppressive burden a
 - **Darkness** (reference-entry) *(explicit citation)*
 - **Fig tree** (reference-entry) *(explicit citation)*
 - **Galilee** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

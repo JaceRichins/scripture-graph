@@ -106,6 +106,7 @@ Scripture: [[Alma 7]] · My notes: [[Alma 7 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Abuse** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
@@ -115,7 +116,6 @@ Scripture: [[Alma 7]] · My notes: [[Alma 7 - My Notes]]
 - **Suicide** (reference-entry) *(explicit citation)*
 - **33 O God, Where Art Thou?** (history) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

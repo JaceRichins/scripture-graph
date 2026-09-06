@@ -77,6 +77,7 @@ _Not yet developed._
 - **Benhadad** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
+- **Chapter 38: The Spirit World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

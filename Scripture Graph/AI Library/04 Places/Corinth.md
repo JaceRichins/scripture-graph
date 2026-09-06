@@ -45,6 +45,9 @@ _Not yet developed._
 - **AD 53–AD 55** — Paul writes First Corinthians from Ephesus · [[1 Corinthians 11]] · [[AD 1-100]] *(traditional dating)*
 - **AD 53–AD 55** — Paul writes First Corinthians from Ephesus · [[1 Corinthians 12]] · [[AD 1-100]] *(historical)*
 - **AD 53–AD 57** — Paul writes 1 Corinthians from Ephesus · [[1 Corinthians 13]] · [[AD 1-100]] *(traditional dating)*
+- **AD 55–AD 58** — Paul writes Romans, addressing Israel's future salvation · [[Romans 11]] · [[AD 1-100]] *(approximate)*
+- **AD 55–AD 58** — Paul's Epistle to the Romans composed near end of third journey · [[Romans 13]] · [[AD 1-100]] *(approximate)*
+- **AD 55–AD 58** — Paul writes his Epistle to the Romans · [[Romans 9]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

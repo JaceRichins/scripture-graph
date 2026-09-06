@@ -97,6 +97,7 @@ The closing promise joins [[Endurance]] with divine presence. Jeremiah will face
 ## Church History
 <!-- SG:BEGIN history -->
 - **Foreordination** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*

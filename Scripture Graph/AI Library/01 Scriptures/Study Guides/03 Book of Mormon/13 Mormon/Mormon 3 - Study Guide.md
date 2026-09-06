@@ -99,6 +99,7 @@ Verses 16–17 form the hinge from autobiographical war narrative to direct audi
 ## Church History
 <!-- SG:BEGIN history -->
 - **Judgment** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

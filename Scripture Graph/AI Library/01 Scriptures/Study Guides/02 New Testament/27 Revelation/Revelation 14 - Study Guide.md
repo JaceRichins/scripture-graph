@@ -95,6 +95,7 @@ The Father's name and the beast's mark create a strong local contrast of identit
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
@@ -104,7 +105,6 @@ The Father's name and the beast's mark create a strong local contrast of identit
 - **Times and Seasons 1842-07-15 (Vol. 3 No. 18)** (periodical, 1842-07-15) *(explicit citation)*
 - **Times and Seasons 1845-02-15 (Vol. 6 No. 3)** (periodical, 1845-02-15) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-01-01 (Vol. 3 No. 4)** (periodical, 1837-01-01) *(explicit citation)*
-- **Babylon or Babel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

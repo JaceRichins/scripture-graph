@@ -85,6 +85,7 @@ _Not yet developed._
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Bethel** (reference-entry) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

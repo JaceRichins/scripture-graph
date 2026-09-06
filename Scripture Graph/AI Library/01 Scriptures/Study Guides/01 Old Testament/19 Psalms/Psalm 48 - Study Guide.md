@@ -67,6 +67,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
+- **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

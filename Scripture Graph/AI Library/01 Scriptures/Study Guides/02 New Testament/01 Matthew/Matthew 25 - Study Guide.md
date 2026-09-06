@@ -103,9 +103,9 @@ Matthew 25:46 names the opposed outcomes as everlasting punishment and [[Eternal
 - **Ministering** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Agency** (reference-entry) *(explicit citation)*
-- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
-- **Fasting** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 30: Valiant in the Cause of Christ** (teachings) *(explicit citation)*
+- **Chapter 25: Cultivating Gratitude, Humility, and Honesty** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

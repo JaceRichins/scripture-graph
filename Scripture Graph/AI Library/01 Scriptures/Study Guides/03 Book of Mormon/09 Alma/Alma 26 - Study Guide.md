@@ -105,6 +105,8 @@ The final claim that God remembers every people gives the chapter a geographical
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
+- **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
+- **Chapter 28: Missionary Service: A Holy Calling, a Glorious Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

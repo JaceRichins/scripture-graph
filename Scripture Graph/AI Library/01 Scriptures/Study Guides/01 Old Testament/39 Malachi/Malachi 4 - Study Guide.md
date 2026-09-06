@@ -97,10 +97,12 @@ Later scriptures interpret Elijah's mission in distinct ways. [[Luke 1]] applies
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **21 The Spirit of God** (history) *(explicit citation)*
 - **Elijah** (reference-entry) *(explicit citation)*
+- **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Family History Work and Genealogy** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*

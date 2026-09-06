@@ -94,6 +94,8 @@ _Not yet developed._
 - **Angels** (reference-entry) *(explicit citation)*
 - **Book of life** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

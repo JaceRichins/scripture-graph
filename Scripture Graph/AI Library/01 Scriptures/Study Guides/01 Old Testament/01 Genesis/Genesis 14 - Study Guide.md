@@ -79,6 +79,7 @@ Genesis 14:18 calls Melchizedek, king of Salem, "priest of the most high God"—
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Dead Sea** (reference-entry) *(explicit citation)*

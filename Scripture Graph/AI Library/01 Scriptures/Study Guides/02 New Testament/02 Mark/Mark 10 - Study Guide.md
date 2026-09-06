@@ -103,10 +103,12 @@ The chapter unfolds in four movements connected by Jesus's journey "in the way" 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Divorce** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
+- **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

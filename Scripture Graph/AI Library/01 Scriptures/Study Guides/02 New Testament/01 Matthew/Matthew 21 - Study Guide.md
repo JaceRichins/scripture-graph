@@ -101,6 +101,7 @@ Matthew 21 joins Christology with discipleship. Jesus is acclaimed as Son of Dav
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Bethphage** (reference-entry) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

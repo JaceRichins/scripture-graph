@@ -93,6 +93,8 @@ The chapter links [[Zion]] with [[Consecration]], [[Obedience]], unity, care for
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **22 Try the Lord** (history) *(explicit citation)*
 - **26 A Holy and Consecrated Land** (history) *(explicit citation)*
+- **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
+- **Chapter 16: Building Zion** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Adversity** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*

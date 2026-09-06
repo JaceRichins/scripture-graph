@@ -103,6 +103,8 @@ Within the narrative, effective [[Prayer]] does not depend upon audible speech: 
 - **Grace** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
+- **Chapter 35: The Blessings of Trials, Chastening, and Persecution** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

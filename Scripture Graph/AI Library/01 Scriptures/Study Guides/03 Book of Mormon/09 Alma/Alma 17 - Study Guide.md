@@ -111,6 +111,7 @@ The commission in 17:11 joins divine instrumentality with human conduct: the mis
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Teaching the Gospel** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

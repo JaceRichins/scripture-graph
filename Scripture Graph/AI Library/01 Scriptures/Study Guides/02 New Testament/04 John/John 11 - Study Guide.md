@@ -103,6 +103,9 @@ Jesus's public [[Prayer]] presents the sign as testimony concerning his relation
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **Latter-day Saint Biographical Encyclopedia, Volume 1** (history, 1901) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

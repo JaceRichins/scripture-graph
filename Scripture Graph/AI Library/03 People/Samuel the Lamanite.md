@@ -37,6 +37,7 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **6 BC** — Samuel the Lamanite on the wall · [[Helaman 13]] · [[Helaman 14]] · [[Helaman 16]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **2 BC–1 BC** — Signs and angelic appearances mark 90th year of the judges · [[Helaman 16]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **AD 1** — Birth sign and threatened believers · [[3 Nephi 1]] · [[AD 1-100]] *(approximate)*
 - **AD 34** — Destruction at the opening of the thirty-fourth year · [[3 Nephi 8]] · [[AD 1-100]] *(Book of Mormon internal dating)*
 

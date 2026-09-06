@@ -86,6 +86,7 @@ The chapter grounds saving power in the LORD's identity as sole Creator (vv.7, 1
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-09-01 (Vol. 1 No. 12)** (periodical, 1835-09-01) *(explicit citation)*
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 - **Cyrus** (reference-entry) *(explicit citation)*

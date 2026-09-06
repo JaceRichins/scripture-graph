@@ -72,6 +72,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Conversation** (reference-entry) *(explicit citation)*
 - **Gehenna** (reference-entry) *(explicit citation)*
+- **Chapter 28: Exercising Self-Control** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

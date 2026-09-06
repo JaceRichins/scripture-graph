@@ -87,6 +87,7 @@ Verse 8 adds a vital moral dimension to [[Jews and Gentiles]]: belief in Israel'
 ## Church History
 <!-- SG:BEGIN history -->
 - **Miracles** (reference-entry) *(explicit citation)*
+- **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

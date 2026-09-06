@@ -59,6 +59,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 23: ‘How Good and How Pleasant It Is … to Dwell Together in Unity’** (teachings) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

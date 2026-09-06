@@ -98,6 +98,8 @@ Jude weaves together warning and reassurance rather than offering only one or th
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
 - **Enoch** (reference-entry) *(explicit citation)*
+- **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
+- **Chapter 23: ‘How Good and How Pleasant It Is … to Dwell Together in Unity’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

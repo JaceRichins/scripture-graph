@@ -98,6 +98,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Elam** (reference-entry) *(explicit citation)*
 - **Ezra** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

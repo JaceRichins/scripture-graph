@@ -97,6 +97,7 @@ Latter-day Saint and New Testament writers later read Abraham's willingness to o
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
@@ -105,6 +106,7 @@ Latter-day Saint and New Testament writers later read Abraham's willingness to o
 - **Altar** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Aram, Arameans** (reference-entry) *(explicit citation)*
+- **Chapter 44: The Kingdom of God and the Gathering of Israel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

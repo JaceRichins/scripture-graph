@@ -107,9 +107,9 @@ The chapter also joins [[Premortal Life]], [[Agency]], and embodiment. The audie
 - **Education** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Parenting** (reference-entry) *(explicit citation)*
+- **Chapter 7: The Plan of Salvation** (teachings) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
-- **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -69,6 +69,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Salvation** (reference-entry) *(explicit citation)*
+- **Chapter 17: The Great Plan of Salvation** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

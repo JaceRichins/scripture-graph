@@ -102,6 +102,8 @@ Lehi's treatment of Laman and Lemuel is especially important. Although the visio
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
+- **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
+- **Chapter 27: Beware the Bitter Fruits of Apostasy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

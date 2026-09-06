@@ -65,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Seer 1853-03 (Vol. 1 No. 3)** (history, 1853-03) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

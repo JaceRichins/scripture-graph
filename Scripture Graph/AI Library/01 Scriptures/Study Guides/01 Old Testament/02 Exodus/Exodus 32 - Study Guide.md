@@ -94,6 +94,7 @@ Scripture: [[Exodus 32]] · My notes: [[Exodus 32 - My Notes]]
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Calves, golden, worship of** (reference-entry) *(explicit citation)*
 - **Engraving** (reference-entry) *(explicit citation)*
+- **Chapter 27: Beware the Bitter Fruits of Apostasy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

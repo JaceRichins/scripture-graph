@@ -103,6 +103,9 @@ _Not yet developed._
 - **Birthright** (reference-entry) *(explicit citation)*
 - **Ephraim** (reference-entry) *(explicit citation)*
 - **Firstborn** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Zion's Watchman 1855-10-27 (Vol. 2 No. 4)** (history, 1855-10-27) *(explicit citation)*
+- **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

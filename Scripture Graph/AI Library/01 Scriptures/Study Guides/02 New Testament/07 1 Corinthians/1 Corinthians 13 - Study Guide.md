@@ -80,6 +80,8 @@ _Not yet developed._
 - **Relief Society** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
+- **Chapter 37: Charity, the Pure Love of Christ** (teachings) *(explicit citation)*
+- **Chapter 39: Relief Society: Divine Organization of Women** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -99,6 +99,7 @@ The treatment of wealth is similarly qualified. Abundance is praised only alongs
 - **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Teaching the Gospel** (reference-entry) *(explicit citation)*
 - **Antichrist** (reference-entry) *(explicit citation)*
+- **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

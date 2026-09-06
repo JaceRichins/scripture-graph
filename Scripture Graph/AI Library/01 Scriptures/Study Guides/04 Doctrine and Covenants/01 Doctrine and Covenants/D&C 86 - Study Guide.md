@@ -79,8 +79,11 @@ The chapter's clearest teaching about judgment is restraint: removing evil prema
 ## Church History
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **Chapter 25: Truths from the Savior’s Parables in Matthew 13** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **Chapter 17: The Scriptures** (teachings) *(explicit citation)*
+- **Chapter 25: Cultivating Gratitude, Humility, and Honesty** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

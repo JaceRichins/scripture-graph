@@ -69,6 +69,9 @@ _Not yet developed._
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **James Covel and the ‘Cares of the World’** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Historical Summary** (teachings) *(explicit citation)*
+- **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

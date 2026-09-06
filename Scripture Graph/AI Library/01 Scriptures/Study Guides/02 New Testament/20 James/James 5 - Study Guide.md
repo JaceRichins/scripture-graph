@@ -85,12 +85,12 @@ The [[Second Coming of Jesus Christ]] is presented as an ethical reality. Becaus
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Chapter 33: The Spiritual Gifts of Healing, Tongues, Prophecy, and Discerning of Spirits** (teachings) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
-- **Elias** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

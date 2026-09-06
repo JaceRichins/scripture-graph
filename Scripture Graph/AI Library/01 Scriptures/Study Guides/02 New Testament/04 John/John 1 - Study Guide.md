@@ -106,7 +106,9 @@ Scripture: [[John 1]] · My notes: [[John 1 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Latter-day Saint Biographical Encyclopedia, Volume 1** (history, 1901) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
@@ -114,8 +116,6 @@ Scripture: [[John 1]] · My notes: [[John 1 - My Notes]]
 - **Elias** (reference-entry) *(explicit citation)*
 - **Journal of Discourses, Volume 8** (history, ~1861) *(explicit citation)*
 - **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
-- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
-- **Bible** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

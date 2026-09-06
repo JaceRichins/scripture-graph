@@ -120,10 +120,10 @@ Verse 26 gives the Moses narrative an explicitly christological interpretation. 
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-06-01 (Vol. 3 No. 9)** (periodical, 1837-06-01) *(explicit citation)*
 - **Abel** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Gifts of the Spirit** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
-- **Cain** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

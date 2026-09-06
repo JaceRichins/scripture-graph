@@ -103,6 +103,7 @@ _Not yet developed._
 - **Fall** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Election** (reference-entry) *(explicit citation)*
+- **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

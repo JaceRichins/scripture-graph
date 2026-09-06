@@ -63,7 +63,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 32: Temporal Wealth and the Kingdom of God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

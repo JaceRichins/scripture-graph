@@ -94,12 +94,12 @@ The chapter grounds [[Missionary Work]] in the authority of [[Jesus Christ (Gosp
 - **Race and the Priesthood** (reference-entry) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1836-02-01 (Vol. 2 No. 5)** (periodical, 1836-02-01) *(explicit citation)*
-- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

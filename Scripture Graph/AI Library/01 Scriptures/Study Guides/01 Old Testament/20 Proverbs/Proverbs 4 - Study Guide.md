@@ -67,6 +67,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Education** (reference-entry) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
+- **Chapter 37: Charity, the Pure Love of Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

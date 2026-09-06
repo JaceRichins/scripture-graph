@@ -96,6 +96,8 @@ Waiting upon the LORD is presented as the condition of renewed strength, but the
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Seer 1853-01 (Vol. 1 No. 1)** (history, 1853-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

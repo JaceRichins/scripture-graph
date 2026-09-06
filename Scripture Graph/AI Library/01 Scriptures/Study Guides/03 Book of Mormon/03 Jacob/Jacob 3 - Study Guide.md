@@ -94,6 +94,7 @@ Family conduct is spiritually consequential. Love between spouses and toward chi
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

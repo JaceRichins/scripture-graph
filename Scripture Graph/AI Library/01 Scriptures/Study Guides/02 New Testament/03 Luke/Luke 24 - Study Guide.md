@@ -106,11 +106,11 @@ Scripture: [[Luke 24]] · My notes: [[Luke 24 - My Notes]]
 - **A School and an Endowment** (history) *(explicit citation)*
 - **Easter** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
-- **Resurrection** (reference-entry) *(explicit citation)*
-- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

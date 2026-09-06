@@ -106,6 +106,7 @@ The ruler's justice gives priority to righteousness and equity rather than appea
 - **Elam** (reference-entry) *(explicit citation)*
 - **Ephraim** (reference-entry) *(explicit citation)*
 - **Fear** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -105,6 +105,7 @@ In verses 16-17 the Corinthian community is addressed collectively as God's holy
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
+- **Chapter 29: Living the Word of Wisdom** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

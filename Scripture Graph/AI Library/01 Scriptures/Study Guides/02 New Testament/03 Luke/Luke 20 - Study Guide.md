@@ -97,6 +97,7 @@ In the discussion of [[Resurrection]], Jesus teaches that resurrected life is no
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Burning bush** (reference-entry) *(explicit citation)*
 - **Caesar** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*

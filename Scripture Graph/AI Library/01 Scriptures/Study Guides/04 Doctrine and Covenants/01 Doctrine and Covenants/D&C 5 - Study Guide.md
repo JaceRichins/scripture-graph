@@ -102,6 +102,9 @@ The chapter places material viewing, transmitted words, commissioned testimony, 
 - **Index by Section Number** (history) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Ezra** (reference-entry) *(explicit citation)*
+- **Chapter 6: The Mission of John the Baptist** (teachings) *(explicit citation)*
+- **Chapter 46: The Martyrdom: The Prophet Seals His Testimony with His Blood** (teachings) *(explicit citation)*
+- **Chapter 47: ‘Praise to the Man’: Latter-day Prophets Bear Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

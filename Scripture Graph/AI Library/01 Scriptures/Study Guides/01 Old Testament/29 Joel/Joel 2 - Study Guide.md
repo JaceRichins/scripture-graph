@@ -92,12 +92,15 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **The Word of Wisdom** (history) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1841-10-01 (Vol. 2 No. 23)** (periodical, 1841-10-01) *(explicit citation)*
 - **Times and Seasons 1844-11-15 (Vol. 5 No. 21)** (periodical, 1844-11-15) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **Chapter 1: The First Vision: The Father and the Son Appear to Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

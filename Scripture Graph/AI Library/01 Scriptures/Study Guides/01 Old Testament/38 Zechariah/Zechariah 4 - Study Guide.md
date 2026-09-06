@@ -68,7 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 28: Missionary Service: A Holy Calling, a Glorious Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

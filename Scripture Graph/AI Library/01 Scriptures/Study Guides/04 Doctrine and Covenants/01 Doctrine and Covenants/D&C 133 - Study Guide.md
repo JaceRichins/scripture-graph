@@ -121,13 +121,13 @@ The winepress scene should be read with precision. In its immediate explanation,
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 16: Building Zion** (teachings) *(explicit citation)*
 - **William McLellin’s Five Questions** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Stake** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

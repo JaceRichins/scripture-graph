@@ -91,3 +91,10 @@ _Not yet developed._
 <!-- SG:BEGIN secondary-sources -->
 - [[2026-08-19 Thoughts to Keep in Mind 7 • Reading Poetry in the Old Testament • Dr.|Thoughts to Keep in Mind #7 • Reading Poetry in the Old Testament • Dr. Ross Bar]] — followHIM · tier D
 <!-- SG:END secondary-sources -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 30–AD 33** — Last Supper, Gethsemane, and arrest of Jesus · [[Mark 14]] · [[AD 1-100]] *(traditional dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

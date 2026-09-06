@@ -66,6 +66,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Education** (reference-entry) *(explicit citation)*
+- **Chapter 39: Relief Society: Divine Organization of Women** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

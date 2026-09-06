@@ -88,6 +88,7 @@ Grace and deliverance precede the accusation. The LORD first brought Israel from
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1843-02-01 (Vol. 4 No. 6)** (periodical, 1843-02-01) *(explicit citation)*
 - **Fullers** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

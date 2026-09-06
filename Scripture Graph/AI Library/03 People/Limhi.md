@@ -38,6 +38,8 @@ _Not yet developed._
 <!-- SG:BEGIN timeline -->
 - **122 BC** — Limhi's men find twenty-four gold plates · [[Mosiah 8]] · [[Mosiah 21]] · [[200-101 BC]] *(Book of Mormon internal dating)*
 - **121 BC** — Limhi's people escape to Zarahemla · [[Mosiah 22]] · [[200-101 BC]] *(Book of Mormon internal dating)*
+- **121 BC** — Ammon reaches Limhi and announces contact with Zarahemla · [[Mosiah 7]] · [[200-101 BC]] *(approximate)*
+- **120 BC** — Reunification and church organization at Zarahemla · [[Mosiah 25]] · [[200-101 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

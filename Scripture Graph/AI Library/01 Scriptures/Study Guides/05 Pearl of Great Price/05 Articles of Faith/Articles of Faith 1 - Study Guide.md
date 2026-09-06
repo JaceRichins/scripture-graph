@@ -85,13 +85,13 @@ _Not yet developed._
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
-- **Articles of Faith** (reference-entry) *(explicit citation)*
-- **Bible** (reference-entry) *(explicit citation)*
-- **Death, Spiritual** (reference-entry) *(explicit citation)*
-- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
-- **Eternal Life** (reference-entry) *(explicit citation)*
-- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
-- **Godhead** (reference-entry) *(explicit citation)*
+- **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
+- **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
+- **Chapter 4: The Book of Mormon: Keystone of Our Religion** (teachings) *(explicit citation)*
+- **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*
+- **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
+- **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

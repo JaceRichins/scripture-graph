@@ -39,8 +39,11 @@ _Not yet developed._
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **588 BC–570 BC** — Nephites and Lamanites divide · [[2 Nephi 5]] · [[600-501 BC]] *(Book of Mormon internal dating)*
+- **323 BC–130 BC** — Small-plate record from Omni to Amaleki · [[Omni 1]] · [[400-301 BC]] *(approximate)*
 - **200 BC–160 BC** — Zeniff's people return to the land of Nephi · [[Mosiah 9]] · [[200-101 BC]] *(Book of Mormon internal dating)*
+- **160 BC–124 BC** — King Benjamin repels Lamanite invasion and restores peace · [[Words of Mormon 1]] · [[200-101 BC]] *(approximate)*
 - **148 BC** — Abinadi before King Noah's court · [[Mosiah 12]] · [[Mosiah 13]] · [[Mosiah 17]] · [[200-101 BC]] *(Book of Mormon internal dating)*
+- **121 BC** — Ammon reaches Limhi and announces contact with Zarahemla · [[Mosiah 7]] · [[200-101 BC]] *(approximate)*
 - **90 BC–77 BC** — The sons of Mosiah among the Lamanites · [[Alma 17]] · [[Alma 18]] · [[Alma 24]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **30 BC** — Nephi and Lehi encircled by fire in prison · [[Helaman 5]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 

@@ -76,6 +76,7 @@ The vision insists, through its repeated hedging language ("likeness," "appearan
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Ezekiel** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

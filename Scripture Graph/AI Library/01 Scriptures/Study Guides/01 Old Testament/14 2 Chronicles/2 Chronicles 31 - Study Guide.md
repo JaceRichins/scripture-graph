@@ -80,6 +80,7 @@ _Not yet developed._
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Asahel** (reference-entry) *(explicit citation)*
 - **Firstfruits** (reference-entry) *(explicit citation)*
+- **Chapter 22: Tithing and Consecration** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

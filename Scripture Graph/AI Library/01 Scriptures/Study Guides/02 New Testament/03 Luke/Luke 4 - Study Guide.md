@@ -105,12 +105,12 @@ Jesus resists the Capernaum crowd's wish to keep him in one place, framing his c
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Introduction** (reference-entry) *(explicit citation)*
 - **Anointed One** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
-- **Capernaum** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

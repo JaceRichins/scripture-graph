@@ -74,6 +74,8 @@ _Not yet developed._
 - **The Role of Prophets** (reference-entry) *(explicit citation)*
 - **The Messenger and the Manifesto** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Introduction** (teachings) *(explicit citation)*
+- **Chapter 20: Church Organization and Government** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

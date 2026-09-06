@@ -104,6 +104,7 @@ The chapter joins several teachings without collapsing them into one another. Th
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Teaching the Gospel** (reference-entry) *(explicit citation)*
+- **Introduction** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

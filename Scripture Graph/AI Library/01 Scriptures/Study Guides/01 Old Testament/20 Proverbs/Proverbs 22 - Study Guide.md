@@ -93,6 +93,8 @@ Verses 17-21 portray [[Education and Learning]] as attentive hearing, inward ret
 <!-- SG:BEGIN history -->
 - **Family** (reference-entry) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
+- **Chapter 2: The Gospel Defined** (teachings) *(explicit citation)*
+- **Chapter 24: Teaching the Family** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -90,6 +90,7 @@ Joshua's opening charge presents [[Obedience]] as wholehearted attachment to God
 ## Church History
 <!-- SG:BEGIN history -->
 - **Gad** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

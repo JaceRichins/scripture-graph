@@ -70,8 +70,12 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Easter** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
+- **Chapter 43: ‘He Was a Prophet of God’: Contemporaries of Joseph Smith Testify of His Prophetic Mission** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

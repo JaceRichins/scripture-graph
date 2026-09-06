@@ -87,6 +87,9 @@ _Not yet developed._
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 29: Living with Others in Peace and Harmony** (teachings) *(explicit citation)*
+- **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

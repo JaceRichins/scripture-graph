@@ -94,6 +94,8 @@ The chapter connects [[Repentance]] with fruit—that is, with consequences visi
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 6: The Mission of John the Baptist** (teachings) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Baptisms for the Dead** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Adoption** (reference-entry) *(explicit citation)*
@@ -102,8 +104,6 @@ The chapter connects [[Repentance]] with fruit—that is, with consequences visi
 - **Bible** (reference-entry) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Baptism** (reference-entry) *(explicit citation)*
-- **Godhead** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

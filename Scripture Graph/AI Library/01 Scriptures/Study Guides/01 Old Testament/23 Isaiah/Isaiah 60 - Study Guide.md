@@ -78,7 +78,9 @@ The chapter grounds restoration in the LORD's mercy rather than Zion's independe
 ## Church History
 <!-- SG:BEGIN history -->
 - **23 Every Snare** (history) *(explicit citation)*
+- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

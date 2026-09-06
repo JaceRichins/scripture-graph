@@ -81,6 +81,7 @@ The chapter is also morally descriptive rather than automatically prescriptive. 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

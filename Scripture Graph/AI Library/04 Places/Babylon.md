@@ -49,7 +49,7 @@ _Not yet developed._
 - **597 BC** — First Babylonian deportation of Jeconiah (597 BC) · [[Jeremiah 24]] · [[600-501 BC]] *(historical)*
 - **597 BC–586 BC** — Jeremiah urges submission after Jeconiah's deportation · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
 - **597 BC–593 BC** — Jeremiah's yoke sign during Zedekiah's early reign · [[Jeremiah 27]] · [[600-501 BC]] *(approximate)*
-- **594 BC–593 BC** — Seraiah carries Jeremiah's Babylon oracle · [[Jeremiah 51]] · [[600-501 BC]] *(approximate)*
+- **597 BC–538 BC** — Babylonian exile of Judah named in Micah 4:10 · [[Micah 4]] · [[600-501 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

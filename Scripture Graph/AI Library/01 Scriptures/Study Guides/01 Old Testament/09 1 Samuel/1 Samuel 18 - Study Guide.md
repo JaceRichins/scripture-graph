@@ -93,6 +93,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **David** (reference-entry) *(explicit citation)*
+- **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

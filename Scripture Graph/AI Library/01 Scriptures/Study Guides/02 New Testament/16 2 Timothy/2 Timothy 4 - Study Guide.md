@@ -79,6 +79,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Alexander** (reference-entry) *(explicit citation)*

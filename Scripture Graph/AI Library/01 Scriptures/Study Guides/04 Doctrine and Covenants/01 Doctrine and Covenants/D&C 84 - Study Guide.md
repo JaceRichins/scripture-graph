@@ -126,8 +126,8 @@ Faithful recipients are said to become sons of Moses and Aaron and Abraham's see
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
-- **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

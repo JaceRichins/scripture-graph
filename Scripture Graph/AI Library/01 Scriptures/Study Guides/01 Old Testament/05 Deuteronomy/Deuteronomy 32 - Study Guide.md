@@ -98,6 +98,7 @@ The closing charge (vv.44-47) ties [[Obedience]] to Israel's life and continued 
 - **Times and Seasons 1841-02-01 (Vol. 2 No. 7)** (periodical, 1841-02-01) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
 - **Dragon** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

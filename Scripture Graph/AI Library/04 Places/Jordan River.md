@@ -42,7 +42,9 @@ _Not yet developed._
 - **1406 BC** — Moses' covenant-renewal address on the plains of Moab · [[Deuteronomy 30]] · [[1500-1401 BC]] *(traditional dating)*
 - **1406 BC–1400 BC** — Joshua commissioned to lead Israel into Canaan · [[Joshua 1]] · [[1500-1401 BC]] *(traditional dating)*
 - **852 BC–841 BC** — Naaman healed of leprosy by Elisha · [[2 Kings 5]] · [[900-801 BC]] *(approximate)*
+- **AD 26–AD 27** — John the Baptist's ministry and Jesus's baptism · [[Matthew 3]] · [[AD 1-100]] *(traditional dating)*
 - **AD 27** — Jesus baptized in the Jordan · [[Matthew 3]] · [[Mark 1]] · [[AD 1-100]] *(approximate)*
+- **AD 29–AD 30** — Jesus's Judean/Perean ministry before the final Passover · [[Matthew 19]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

@@ -87,7 +87,7 @@ The repentance clause in Alma 3:14 is essential to the passage's theology. Separ
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

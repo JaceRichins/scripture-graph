@@ -110,7 +110,7 @@ _Not yet developed._
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Peace** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
-- **Godhead** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

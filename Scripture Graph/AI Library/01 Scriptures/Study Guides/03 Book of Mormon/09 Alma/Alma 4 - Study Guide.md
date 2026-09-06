@@ -102,6 +102,7 @@ Scripture: [[Alma 4]] · My notes: [[Alma 4 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

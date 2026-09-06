@@ -90,6 +90,7 @@ The opening resists a simplistic equation between obedience and immediate ease: 
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Amalek, Amalekites** (reference-entry) *(explicit citation)*
+- **Chapter 16: Revelation and the Living Prophet** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

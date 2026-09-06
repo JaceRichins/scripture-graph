@@ -102,6 +102,7 @@ Verses 10–11 contribute to [[The Godhead]] by affirming the Father's and Son's
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
+- **Chapter 16: Revelation and the Living Prophet** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

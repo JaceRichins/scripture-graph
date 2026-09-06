@@ -98,9 +98,9 @@ The chapter also resists ranking human worth by visibility. Members that seem fe
 - **Education** (reference-entry) *(explicit citation)*
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **15 Holy Places** (history) *(explicit citation)*
+- **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Religious Enthusiasm among Early Ohio Converts** (history) *(explicit citation)*
-- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Chapter 33: The Spiritual Gifts of Healing, Tongues, Prophecy, and Discerning of Spirits** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

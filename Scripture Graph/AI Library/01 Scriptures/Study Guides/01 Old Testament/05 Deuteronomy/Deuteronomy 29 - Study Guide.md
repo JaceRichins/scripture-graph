@@ -99,6 +99,7 @@ The oath to Abraham, Isaac, and Jacob connects the chapter with the [[Abrahamic 
 <!-- SG:BEGIN history -->
 - **Dead Sea** (reference-entry) *(explicit citation)*
 - **Gad** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

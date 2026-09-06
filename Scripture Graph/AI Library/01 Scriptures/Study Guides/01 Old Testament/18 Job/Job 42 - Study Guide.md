@@ -69,7 +69,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Zion's Watchman 1855-06-15 (Vol. 2 No. 2)** (history, 1855-06-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

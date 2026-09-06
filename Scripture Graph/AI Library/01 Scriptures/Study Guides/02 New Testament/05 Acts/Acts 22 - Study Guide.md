@@ -93,6 +93,8 @@ The chapter models [[Testimony]] as personal, experiential, and grounded in what
 - **Latter Day Saints' Messenger and Advocate 1835-09-01 (Vol. 1 No. 12)** (periodical, 1835-09-01) *(explicit citation)*
 - **Ananias** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

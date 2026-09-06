@@ -85,6 +85,7 @@ The chapter's most quoted teaching is that obedience to revealed command outweig
 <!-- SG:BEGIN history -->
 - **Amalek, Amalekites** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
+- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

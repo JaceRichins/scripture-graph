@@ -101,6 +101,7 @@ Verse 10 places baptism with water before baptism with fire and the Holy Ghost. 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*

@@ -78,9 +78,14 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
+- **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
 - **Times and Seasons 1841-07-01 (Vol. 2 No. 17)** (periodical, 1841-07-01) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
+- **The Seer 1853-05 (Vol. 1 No. 5)** (history, 1853-05) *(explicit citation)*
+- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
+- **Chapter 37: Charity, the Pure Love of Christ** (teachings) *(explicit citation)*
+- **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

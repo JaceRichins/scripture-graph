@@ -107,6 +107,7 @@ The phrase 'greater than' recurs three times (v6, v41, v42), applied to the temp
 ## Church History
 <!-- SG:BEGIN history -->
 - **Sabbath Day** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Journal of Discourses, Volume 18** (history, ~1871) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Signs** (reference-entry) *(explicit citation)*
@@ -115,7 +116,6 @@ The phrase 'greater than' recurs three times (v6, v41, v42), applied to the temp
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Brethren of the Lord** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
-- **Devil** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

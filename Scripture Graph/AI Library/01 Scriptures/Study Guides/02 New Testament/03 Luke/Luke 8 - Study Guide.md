@@ -109,6 +109,7 @@ The last two miracles are intercalated: the journey to Jairus's dying daughter i
 - **Devil** (reference-entry) *(explicit citation)*
 - **Gadara** (reference-entry) *(explicit citation)*
 - **Galilee, Sea of** (reference-entry) *(explicit citation)*
+- **Chapter 25: Truths from the Savior’s Parables in Matthew 13** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

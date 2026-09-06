@@ -35,3 +35,10 @@ _Not yet developed._
 <!-- SG:BEGIN related -->
 _Not yet developed._
 <!-- SG:END related -->
+
+## ⏳ In the Timeline
+<!-- SG:BEGIN timeline -->
+- **AD 63–AD 67** — Paul's letter to Titus (Pastoral Epistles period) · [[Titus 1]] · [[AD 1-100]] *(traditional dating)*
+
+*Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
+<!-- SG:END timeline -->

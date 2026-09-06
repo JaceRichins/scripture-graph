@@ -89,6 +89,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Firstfruits** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

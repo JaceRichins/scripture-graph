@@ -86,6 +86,7 @@ Shared responsibility does not remove Moses' distinctive duties. He continues to
 ## Church History
 <!-- SG:BEGIN history -->
 - **Aaron** (reference-entry) *(explicit citation)*
+- **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

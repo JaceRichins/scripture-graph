@@ -99,6 +99,7 @@ Verses 28 and 32 also contain unresolved language about “one God or many gods�
 <!-- SG:BEGIN history -->
 - **33 O God, Where Art Thou?** (history) *(explicit citation)*
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
+- **Chapter 31: ‘God Shall Be with You Forever and Ever’: The Prophet in Liberty Jail** (teachings) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Peace and Violence among 19th-Century Latter-day Saints** (reference-entry) *(explicit citation)*
@@ -106,7 +107,6 @@ Verses 28 and 32 also contain unresolved language about “one God or many gods�
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Family Councils** (reference-entry) *(explicit citation)*
 - **Pornography** (reference-entry) *(explicit citation)*
-- **Virtue** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

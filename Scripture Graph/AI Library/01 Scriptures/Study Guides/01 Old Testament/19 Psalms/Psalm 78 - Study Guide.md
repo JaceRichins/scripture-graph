@@ -93,7 +93,7 @@ The verb 'tempted'/tested God recurs at vv.18, 41, and 56, marking renewed provo
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

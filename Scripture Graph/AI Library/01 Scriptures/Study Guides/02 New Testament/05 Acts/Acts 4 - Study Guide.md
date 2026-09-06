@@ -99,13 +99,13 @@ Acts 4:10-12 ties healing, [[Resurrection]], and [[Salvation]] to Jesus Christ r
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Witness** (reference-entry) *(explicit citation)*
 - **10 Gathered In** (history) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Consecration** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
-- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

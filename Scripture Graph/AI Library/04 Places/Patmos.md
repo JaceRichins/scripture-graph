@@ -36,6 +36,10 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 90–AD 96** — Traditional composition of the Book of Revelation · [[Revelation 12]] · [[AD 1-100]] *(traditional dating)*
+- **AD 90–AD 96** — Traditional dating of Revelation's composition · [[Revelation 18]] · [[AD 1-100]] *(traditional dating)*
+- **AD 90–AD 96** — Traditional composition of Revelation under Domitian · [[Revelation 22]] · [[AD 1-100]] *(traditional dating)*
+- **AD 92–AD 96** — Traditional Domitianic dating of Revelation's composition · [[Revelation 6]] · [[AD 1-100]] *(traditional dating)*
 - **AD 95** — John's Revelation on Patmos · [[Revelation 1]] · [[Revelation 21]] · [[AD 1-100]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

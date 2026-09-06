@@ -65,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -91,6 +91,7 @@ The narrative does not teach unconditional national protection. It instead prese
 ## Church History
 <!-- SG:BEGIN history -->
 - **Holy Ghost** (reference-entry) *(explicit citation)*
+- **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

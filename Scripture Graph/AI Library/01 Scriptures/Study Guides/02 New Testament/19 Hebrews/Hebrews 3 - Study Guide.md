@@ -81,6 +81,7 @@ The chapter presents [[Jesus Christ (Gospel Topic)]] as the faithful Son over Go
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

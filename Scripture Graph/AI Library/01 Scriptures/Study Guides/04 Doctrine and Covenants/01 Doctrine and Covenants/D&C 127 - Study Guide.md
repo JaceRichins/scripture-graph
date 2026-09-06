@@ -87,6 +87,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 19: Stand Fast through the Storms of Life** (teachings) *(explicit citation)*
 - **39 The Seventh Trouble** (history) *(explicit citation)*
 - **Letters on Baptism for the Dead** (history) *(explicit citation)*
 - **Organizing the Church in Nauvoo** (history) *(explicit citation)*
@@ -94,6 +95,7 @@ _Not yet developed._
 - **Grief** (reference-entry) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
 - **Genealogy** (reference-entry) *(explicit citation)*
+- **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

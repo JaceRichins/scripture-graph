@@ -94,15 +94,15 @@ Philip's encounter with the Ethiopian joins [[Scripture Study]] with [[Jesus Chr
 ## Church History
 <!-- SG:BEGIN history -->
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
-- **Latter Day Saints' Messenger and Advocate 1835-09-01 (Vol. 1 No. 12)** (periodical, 1835-09-01) *(explicit citation)*
-- **Caesarea** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

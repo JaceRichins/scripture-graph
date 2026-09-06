@@ -102,6 +102,7 @@ Jesus directs the cleansed man to complete the procedure commanded by Moses, con
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Capernaum** (reference-entry) *(explicit citation)*
@@ -109,6 +110,7 @@ Jesus directs the cleansed man to complete the procedure commanded by Moses, con
 - **Darkness** (reference-entry) *(explicit citation)*
 - **Gadara** (reference-entry) *(explicit citation)*
 - **Gergesenes** (reference-entry) *(explicit citation)*
+- **Life of Heber C. Kimball** (history, 1888) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -84,6 +84,8 @@ Read together, the seals resist a simple picture of either unchecked evil or ins
 - **Times and Seasons 1845-05-15 (Vol. 6 No. 9)** (periodical, 1845-05-15) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Blood** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

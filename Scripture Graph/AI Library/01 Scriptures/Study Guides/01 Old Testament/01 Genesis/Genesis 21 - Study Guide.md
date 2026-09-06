@@ -83,6 +83,7 @@ Human [[Covenants]] also matter. Abraham and Abimelech address mistrust through 
 <!-- SG:BEGIN history -->
 - **Beersheba** (reference-entry) *(explicit citation)*
 - **Genesis** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

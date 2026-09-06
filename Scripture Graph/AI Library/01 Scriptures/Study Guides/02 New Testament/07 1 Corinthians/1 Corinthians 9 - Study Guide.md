@@ -101,6 +101,7 @@ The final warning connects [[Endurance]] with self-discipline. Paul applies the 
 - **Corinth** (reference-entry) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
 - **Games** (reference-entry) *(explicit citation)*
+- **Chapter 28: Missionary Service: A Holy Calling, a Glorious Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

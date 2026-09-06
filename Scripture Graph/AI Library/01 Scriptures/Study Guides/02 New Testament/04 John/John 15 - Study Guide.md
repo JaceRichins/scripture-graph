@@ -94,6 +94,7 @@ The closing promise contributes to study of [[The Godhead]] and the [[Gift of th
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
@@ -103,7 +104,6 @@ The closing promise contributes to study of [[The Godhead]] and the [[Gift of th
 - **Grace** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

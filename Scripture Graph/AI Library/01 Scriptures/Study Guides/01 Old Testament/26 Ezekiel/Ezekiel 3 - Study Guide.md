@@ -92,6 +92,7 @@ The four cases also show that prior moral status does not make later conduct irr
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Ezekiel** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

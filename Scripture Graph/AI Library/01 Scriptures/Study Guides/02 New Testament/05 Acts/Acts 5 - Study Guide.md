@@ -101,12 +101,14 @@ The chapter alternates between an internal crisis (deception judged) and an exte
 <!-- SG:BEGIN history -->
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Acts of the Apostles** (reference-entry) *(explicit citation)*
 - **Ananias** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Covenant** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **Chapter 43: Our Search for Truth and Personal Testimony** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

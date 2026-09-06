@@ -94,6 +94,7 @@ Scripture: [[Matthew 20]] · My notes: [[Matthew 20 - My Notes]]
 <!-- SG:BEGIN history -->
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
+- **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

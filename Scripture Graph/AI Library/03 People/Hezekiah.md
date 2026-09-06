@@ -42,12 +42,12 @@ _Not yet developed._
 - **715 BC–686 BC** — Hezekiah's reign and first-month temple reform · [[2 Chronicles 29]] · [[800-701 BC]] *(historical)*
 - **715 BC–686 BC** — Micah's Zion oracle cited as precedent from Hezekiah's reign · [[Jeremiah 26]] · [[800-701 BC]] *(historical)*
 - **715 BC–686 BC** — Hezekiah's Scribes Compile Solomon's Proverbs · [[Proverbs 25]] · [[800-701 BC]] *(traditional dating)*
+- **715 BC–686 BC** — Proverbs 28 copied within Hezekiah's Solomonic collection · [[Proverbs 28]] · [[800-701 BC]] *(traditional dating)*
+- **715 BC–686 BC** — Compilation of Solomon's proverbs (chs. 25-29) under Hezekiah's scribes · [[Proverbs 29]] · [[800-701 BC]] *(traditional dating)*
 - **705 BC–701 BC** — Judah's Egypt Alliance and the Assyrian Crisis under Hezekiah · [[Isaiah 30]] · [[800-701 BC]] *(historical)*
 - **703 BC–700 BC** — Hezekiah's illness, sign, and the Babylonian embassy · [[2 Kings 20]] · [[800-701 BC]] *(approximate)*
 - **701 BC** — Jerusalem spared from Sennacherib · [[2 Kings 19]] · [[Isaiah 37]] · [[800-701 BC]] *(historical)*
 - **701 BC** — Sennacherib's invasion of Judah and siege of Jerusalem · [[2 Chronicles 32]] · [[800-701 BC]] *(historical)*
-- **701 BC** — Sennacherib's campaign against Jerusalem · [[Isaiah 37]] · [[800-701 BC]] *(historical)*
-- **697 BC–642 BC** — Manasseh's 55-year reign over Judah · [[2 Kings 21]] · [[700-601 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

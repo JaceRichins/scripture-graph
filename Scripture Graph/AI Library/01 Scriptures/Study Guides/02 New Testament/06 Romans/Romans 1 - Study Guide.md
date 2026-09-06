@@ -94,6 +94,7 @@ Verses 3-4 hold together two descriptions of Christ — descended 'of the seed o
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Gospel** (reference-entry) *(explicit citation)*
@@ -103,7 +104,6 @@ Verses 3-4 hold together two descriptions of Christ — descended 'of the seed o
 - **Latter Day Saints' Messenger and Advocate 1834-11-01 (Vol. 1 No. 2)** (periodical, 1834-11-01) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
 - **Barbarian** (reference-entry) *(explicit citation)*
-- **Bible** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

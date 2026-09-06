@@ -88,6 +88,8 @@ The closing commands define [[Charity]] through action: honoring others, sharing
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Church** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

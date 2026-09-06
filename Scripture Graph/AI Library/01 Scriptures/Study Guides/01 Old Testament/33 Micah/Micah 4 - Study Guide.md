@@ -76,7 +76,8 @@ The chapter supports [[Millennium]] (universal instruction, disarmament, cessati
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

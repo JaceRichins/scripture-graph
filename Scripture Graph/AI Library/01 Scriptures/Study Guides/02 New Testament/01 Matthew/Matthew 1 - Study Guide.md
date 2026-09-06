@@ -95,6 +95,7 @@ Matthew joins identity and mission. “Jesus” is associated with deliverance f
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Genealogy** (reference-entry) *(explicit citation)*

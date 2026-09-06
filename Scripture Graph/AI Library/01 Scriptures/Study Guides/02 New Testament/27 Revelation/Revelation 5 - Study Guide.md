@@ -70,10 +70,13 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
 - **37 We Will Prove Them** (history) *(explicit citation)*
+- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Journal of Discourses, Volume 26** (history, ~1879) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Blood** (reference-entry) *(explicit citation)*
+- **The Seer 1853-03 (Vol. 1 No. 3)** (history, 1853-03) *(explicit citation)*
+- **Chapter 45: The Last Days** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

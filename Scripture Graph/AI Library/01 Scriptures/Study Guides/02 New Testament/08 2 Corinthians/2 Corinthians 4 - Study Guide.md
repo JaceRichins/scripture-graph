@@ -85,6 +85,7 @@ Human weakness is not presented as the source of divine power. The “earthen ve
 <!-- SG:BEGIN history -->
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **Chapter 31: ‘God Shall Be with You Forever and Ever’: The Prophet in Liberty Jail** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

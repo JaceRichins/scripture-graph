@@ -118,6 +118,7 @@ The sons of perdition should not be equated casually with ordinary sinners. The 
 <!-- SG:BEGIN history -->
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
 - **14 Visions and Nightmares** (history) *(explicit citation)*
+- **Chapter 18: Beyond the Veil: Life in the Eternities** (teachings) *(explicit citation)*
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
 - **‘The Vision’** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
@@ -125,7 +126,6 @@ The sons of perdition should not be equated casually with ordinary sinners. The 
 - **Postmortality** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
 - **Testimony** (reference-entry) *(explicit citation)*
-- **Devil** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text
