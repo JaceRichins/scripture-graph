@@ -23,7 +23,13 @@ Scripture: [[Mosiah 12]] · My notes: [[Mosiah 12 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Renewed prophetic warning (vv. 1–8):** Abinadi announces covenantal judgment but preserves the possibility of repentance.
+
+2. **Arrest and competing verdicts (vv. 9–16):** His captors report the prophecy, declare themselves and Noah guiltless, and appeal to national strength and prosperity.
+
+3. **Failed attempt to entrap Abinadi (vv. 17–24):** The priests question him and cite [[Isaiah 52]] on good tidings, Zion, redemption, and salvation.
+
+4. **Abinadi's counter-examination (vv. 25–37):** He challenges their understanding and conduct, asks what they teach about [[Salvation]], and begins testing them by the [[Ten Commandments]].
 <!-- SG:END structure -->
 
 ## People
@@ -65,18 +71,18 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Ten Commandments]]
+- [[Law of Moses]]
+- [[Mosiah 13]]
+- [[Prophecy]]
+- [[Scripture Study]]
+- [[Records and Sacred Writings]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
-- [[Law of Moses]] *(keyword match — unconfirmed)*
-- [[Salvation]] *(keyword match — unconfirmed)*
-- [[Repentance]] *(keyword match — unconfirmed)*
-- [[Sin]] *(keyword match — unconfirmed)*
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter does not treat judgment as simple fatalism: destruction is threatened "except they repent" (v. 8), making [[Repentance]] consequential. It also begins a careful distinction between claiming to teach the [[Law of Moses]], actually keeping God's commandments, and explaining how salvation comes. Because Abinadi's argument continues through [[Mosiah 13]] and [[Mosiah 15]], verse 33 should not be isolated as his complete account of [[Salvation]].
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -99,25 +105,47 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Two verbal reversals sharpen the conflict. First, Abinadi predicts bondage, while his hearers insist, "we shall not come into bondage" (vv. 2, 15). Second, the captors say Abinadi "pretendeth" that God spoke, but Abinadi answers that the priests "pretend" to teach and understand prophecy (vv. 12, 25). The dispute is therefore as much about who possesses legitimate religious authority and understanding as it is about the predicted disasters.
+
+The phrase "applied your hearts to understanding" (v. 27) makes understanding an inward and ethical activity. In context, the priests' ability to quote scripture does not compensate for alleged failures in conduct or teaching.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The interrogation reverses direction. The priests seek material with which to accuse Abinadi, but he withstands their questions and begins asking the controlling questions: What do they teach? Why do they not keep it? What do they understand about the law and salvation?
+
+A reader may also perceive irony in their choice of [[Isaiah 52]], a passage about good tidings and salvation, during a proceeding intended to accuse a prophetic messenger. The priests' reason for choosing this passage is not stated, however; it may simply have served as a difficult traditional text with which to test him.
+
+The opening of the Decalogue supplies another contrast. God identifies himself as the one who delivered Israel from Egypt's “house of bondage” (v. 34), shortly after Abinadi warns that Noah's people will enter bondage (vv. 2, 5). This juxtaposes remembered [[Exodus and Deliverance]] with threatened oppression. Verse 37 ends with an emphatic repeated response—“Nay, ye have not”—rather than a formal inclusio.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Narrative Fulfillment
+> Later portions of Mosiah narratively correspond to two prominent warnings in this chapter: Noah is put to death by fire, and his people are subjected to heavy burdens. Mosiah 21 explicitly presents the oppression as fulfillment of the Lord's word. These are strong internal narrative correspondences.
+> — strength 0.7 · confidence 1.0 · internal correspondence accepted; external significance limited · [[Internal Narrative Fulfillment in Mosiah 12|full dossier]]
+
+> [!evidence] Textual Intertextuality
+> Mosiah 12:21–24 reproduces Isaiah 52:7–10 in closely corresponding sequence and wording. This is strong evidence of a deliberate textual relationship and makes Isaiah's proclamation of peace, Zion's restoration, and God's salvation central to the ensuing dispute.
+> — strength 1.0 · confidence 1.0 · textual relationship broadly accepted · [[Textual Intertextuality in Mosiah 12|full dossier]]
+
+> [!evidence] Textual/Source Criticism *(tentative)*
+> The priests' quoted passage (vv. 21-24) is verbally very close to the King James Version of Isaiah 52:7-10. This close match is sometimes cited as consistent with the Nephites possessing an ancient Isaiah text on the brass plates, but the same match is equally explainable as literary dependence on the KJV during the Book of Mormon's production, so the parallel alone cannot adjudicate between an ancient-source and a translation-era-composition explanation.
+> — strength 0.3 · confidence 0.9 · KJV likeness accepted; historical significance disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why do the people treat strength and prosperity as sufficient answers to a moral accusation?
+
+- What is the difference between knowing the wording of scripture and applying one's heart to understand it?
+
+- Why might the priests choose [[Isaiah 52]] as their test passage, and how does Abinadi's later explanation in [[Mosiah 15]] answer their question?
+
+- How does the explicit condition of repentance affect the way Abinadi's severe predictions should be read?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Mosiah 11]] for Abinadi's first warning and the origin of the two-year interval. Compare Mosiah 12:21–24 directly with [[Isaiah 52]], then follow Abinadi's explanation through [[Mosiah 15]]. Read [[Mosiah 13]] for the completion of the Decalogue and the qualification of the priests' claim about salvation by the law. Finally, compare Mosiah 12:3 and 12:5 with the later narrative correspondences in [[Mosiah 19]] and [[Mosiah 21]], while distinguishing internal literary fulfillment from independent historical verification.
 <!-- SG:END further-study -->
