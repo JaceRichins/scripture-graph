@@ -245,6 +245,15 @@ def run_nightly(ctx: Ctx) -> dict:
                     ctx, int(ctx.c("acquisition.pages_per_night", 350)))
             except Exception as e:  # noqa: BLE001
                 ctx.log.warn("nightly.glib_failed", error=str(e)[:200])
+        if ctx.c("acquisition.prophets", True):
+            # Words of the Prophets: public-domain books once, a night's worth
+            # of periodical issues, the historical blessings page
+            from scripturegraph.corpus import prophets
+            try:
+                stats["prophets"] = prophets.nightly(
+                    ctx, int(ctx.c("acquisition.periodicals_per_night", 40)))
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("nightly.prophets_failed", error=str(e)[:200])
         # refresh every stale deterministic pass (no-ops when current):
         # corpus growth re-opens them via corpus versioning, nightly closes them
         for det in ("parallels", "embed", "semantic", "entities", "citations",

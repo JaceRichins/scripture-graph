@@ -18,7 +18,8 @@ from scripturegraph import gitops
 from scripturegraph.context import Ctx
 from scripturegraph.util import atomic_write_text, now_iso, read_text
 from scripturegraph.vaultgen import md as mdkit
-from scripturegraph.vaultgen.generate import (FOLDER_EVIDENCE, FOLDER_LIBRARY, FOLDER_QUESTIONS,
+from scripturegraph.vaultgen.generate import (FOLDER_EVIDENCE, FOLDER_JSP, FOLDER_LIBRARY,
+                                              FOLDER_PROPHETS, FOLDER_QUESTIONS,
                                               generate_framework, record_file)
 
 OLD_FOLDER = f"{FOLDER_LIBRARY}/40 Evidence"
@@ -109,4 +110,48 @@ def rename_findings_folder(ctx: Ctx) -> dict:
     stats["commit"] = gitops.commit_all(
         ctx, f"vault: 40 Evidence → 40 Findings ({stats['moved']} notes; old titles kept as aliases)")
     ctx.log.info("vault.findings_renamed", **{k: v for k, v in stats.items() if k != "commit"})
+    return stats
+
+
+# ---------------------------------------------- Joseph Smith Papers -> Words of the Prophets
+
+OLD_JSP = f"{FOLDER_LIBRARY}/20 Joseph Smith Papers"
+
+
+def prophets_rename_needed(ctx: Ctx) -> bool:
+    return (ctx.vault / OLD_JSP).exists() and not (ctx.vault / FOLDER_PROPHETS).exists()
+
+
+def rename_prophets_folder(ctx: Ctx) -> dict:
+    """`20 Joseph Smith Papers` becomes one shelf inside `20 Words of the
+    Prophets`. The eight reference records move; the registry and the graph
+    follow; the new MOC is generated. Idempotent; caller holds the lock."""
+    db = ctx.db()
+    stats = {"moved": 0, "registry": 0, "nodes": 0}
+    if not prophets_rename_needed(ctx):
+        return {**stats, "skipped": "already on the new name" if (ctx.vault / FOLDER_PROPHETS).exists()
+                else "no JSP folder"}
+    gitops.checkpoint(ctx, "before words-of-the-prophets rename")
+    try:
+        dst = ctx.vault / FOLDER_JSP
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.move(str(ctx.vault / OLD_JSP), str(dst))
+        stats["moved"] = sum(1 for _r, _d, files in os.walk(dst) for f in files if f.endswith(".md"))
+        old_prefix, new_prefix = OLD_JSP + "/", FOLDER_JSP + "/"
+        stats["registry"] = db.execute(
+            "UPDATE file_registry SET path = ? || substr(path, ?) WHERE path LIKE ?",
+            (new_prefix, len(old_prefix) + 1, old_prefix + "%")).rowcount
+        stats["nodes"] = db.execute(
+            "UPDATE nodes SET vault_path = ? || substr(vault_path, ?), updated_at=? WHERE vault_path LIKE ?",
+            (new_prefix, len(old_prefix) + 1, now_iso(), old_prefix + "%")).rowcount
+        db.commit()
+        generate_framework(ctx)
+        db.commit()
+    except Exception as e:  # noqa: BLE001
+        gitops.hard_restore(ctx)
+        db.rollback()
+        raise RuntimeError(f"prophets rename failed and was rolled back: {e}") from e
+    stats["commit"] = gitops.commit_all(
+        ctx, "vault: 20 Joseph Smith Papers → 20 Words of the Prophets (JSP records one shelf inside)")
+    ctx.log.info("vault.prophets_renamed", **{k: v for k, v in stats.items() if k != "commit"})
     return stats

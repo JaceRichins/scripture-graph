@@ -245,6 +245,7 @@ def fetch_all_apparatus(ctx: Ctx, limit: int | None = None) -> dict:
 # ------------------------------------------------------------- collections
 
 from scripturegraph.vaultgen.generate import (FOLDER_HISTORY as _FH,
+                                              FOLDER_PROPHETS as _FP,
                                               FOLDER_SCRIPTURES as _FS,
                                               FOLDER_TOPICS as _FT)
 
@@ -290,6 +291,34 @@ COLLECTIONS: dict[str, dict] = {
                       "folder": f"{_FT}/Topical Guide",
                       "suffix": " (TG)"},
 }
+
+# Teachings of Presidents of the Church -- the Church's own curated volumes,
+# one per president, chapter by chapter. The API serves them under two URI
+# shapes (the later volumes carry the long prefix). Priority 2: behind the
+# essays and Revelations in Context, ahead of the Topical Guide.
+_TEACHINGS = [
+    ("joseph-smith", "Joseph Smith", "teachings-joseph-smith"),
+    ("brigham-young", "Brigham Young", "teachings-brigham-young"),
+    ("john-taylor", "John Taylor", "teachings-john-taylor"),
+    ("wilford-woodruff", "Wilford Woodruff", "teachings-wilford-woodruff"),
+    ("lorenzo-snow", "Lorenzo Snow", "teachings-of-presidents-of-the-church-lorenzo-snow"),
+    ("joseph-f-smith", "Joseph F. Smith", "teachings-joseph-f-smith"),
+    ("heber-j-grant", "Heber J. Grant", "teachings-heber-j-grant"),
+    ("george-albert-smith", "George Albert Smith", "teachings-george-albert-smith"),
+    ("david-o-mckay", "David O. McKay", "teachings-david-o-mckay"),
+    ("joseph-fielding-smith", "Joseph Fielding Smith", "teachings-of-presidents-of-the-church-joseph-fielding-smith"),
+    ("harold-b-lee", "Harold B. Lee", "teachings-harold-b-lee"),
+    ("spencer-w-kimball", "Spencer W. Kimball", "teachings-spencer-w-kimball"),
+    ("ezra-taft-benson", "Ezra Taft Benson", "teachings-of-presidents-of-the-church-ezra-taft-benson"),
+    ("howard-w-hunter", "Howard W. Hunter", "teachings-of-presidents-of-the-church-howard-w-hunter"),
+    ("gordon-b-hinckley", "Gordon B. Hinckley", "teachings-of-presidents-of-the-church-gordon-b-hinckley"),
+]
+for _key, _name, _slug in _TEACHINGS:
+    COLLECTIONS[f"teachings-{_key}"] = {
+        "uri": f"/manual/{_slug}", "source": "teachings-of-presidents", "doc_type": "teachings",
+        "max_pages": 70, "priority": 2,
+        "folder": f"{_FP}/Teachings of Presidents/{_name}", "suffix": "",
+    }
 
 
 def _toc_child_uris(body: str, base_uri: str) -> list[str]:

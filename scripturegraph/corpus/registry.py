@@ -42,6 +42,21 @@ SEED_SOURCES = [
     ("scholarship", "Academic scholarship & journals", "scholarship", 6,
      "drop-folder", "manual_download_required", "",
      "Drop legally obtained PDFs/HTML into sources/drop/scholarship/."),
+    ("teachings-of-presidents", "Teachings of Presidents of the Church", "teachings", 2,
+     "api", "available", "https://www.churchofjesuschrist.org/study/manual",
+     "The Church's curated volumes, Joseph Smith through Gordon B. Hinckley, via the "
+     "Gospel Library API (corpus/glib.py). Copyrighted: private index + private vault."),
+    ("prophet-writings", "Journals and writings of the prophets (public domain)", "history", 4,
+     "download", "available", "https://archive.org",
+     "Discourses of Brigham Young, Gospel Doctrine, Mediation and Atonement, Leaves from My "
+     "Journal, Pratt's autobiography and more (corpus/prophets.py)."),
+    ("lds-periodicals", "Church periodicals 1832-1929 (public domain)", "history", 4,
+     "download", "available", "https://archive.org/details/utah-and-the-mormons",
+     "Millennial Star, Nauvoo Neighbor, The Seer, Zion's Watchman, Evening and Morning Star "
+     "and more, budgeted nightly (corpus/prophets.py)."),
+    ("prophets-drop", "Words of the Prophets (your own permitted material)", "history", 4,
+     "drop-folder", "manual_download_required", "",
+     "Drop legally obtained volumes, journals or family documents into sources/drop/prophets/."),
 ]
 
 DROP_CATEGORIES = {
@@ -50,6 +65,7 @@ DROP_CATEGORIES = {
     "history": ("church-history", "history"),
     "reference": ("gospel-topics", "reference-entry"),
     "scholarship": ("scholarship", "article"),
+    "prophets": ("prophets-drop", "history"),
 }
 
 

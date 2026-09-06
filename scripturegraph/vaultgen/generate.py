@@ -43,7 +43,12 @@ FOLDER_PLACES = f"{FOLDER_LIBRARY}/04 Places"
 FOLDER_EVENTS = f"{FOLDER_LIBRARY}/05 Events"
 FOLDER_DOCTRINES = f"{FOLDER_LIBRARY}/06 Doctrines"
 FOLDER_CONFERENCE = f"{FOLDER_LIBRARY}/10 General Conference"
-FOLDER_JSP = f"{FOLDER_LIBRARY}/20 Joseph Smith Papers"
+# Words of the Prophets: teachings, journals and writings, periodicals, the
+# JSP reference records, historical blessings -- everything the prophets said
+# that the vault may keep (corpus/prophets.py). Renamed from "20 Joseph Smith
+# Papers" 2026-09-06; the JSP records are one shelf inside it.
+FOLDER_PROPHETS = f"{FOLDER_LIBRARY}/20 Words of the Prophets"
+FOLDER_JSP = f"{FOLDER_PROPHETS}/Joseph Smith Papers"
 FOLDER_HISTORY = f"{FOLDER_LIBRARY}/30 Church History"
 # "Findings" -- what the reading found. The old name, "Evidence", carried a
 # verdict in the word (evidence is FOR or AGAINST something) and most of what
@@ -414,7 +419,7 @@ A living, AI-maintained knowledge graph for serious scripture study.
 
 ## History
 - {md.wikilink('General Conference')}
-- {md.wikilink('Joseph Smith Papers')}
+- {md.wikilink('Words of the Prophets')}
 - {md.wikilink('Church History')}
 
 ## System
@@ -561,11 +566,30 @@ def generate_framework(ctx: Ctx) -> None:
              "", "> [!info] Corpus status", "> See " + md.wikilink("Status") +
              " — drop official EPUB/HTML conference files into `sources/drop/conference/` "
              "and run `scripturegraph ingest`."]),
+        f"{FOLDER_PROPHETS}/Words of the Prophets.md": _simple_moc(
+            "Words of the Prophets",
+            ["What the prophets said and wrote, from every source this vault may keep:", "",
+             "- **Teachings of Presidents of the Church** — the Church's own volumes, Joseph Smith",
+             "  through Gordon B. Hinckley, chapter by chapter (`Teachings of Presidents/`).",
+             "- **Journals and Writings** — public-domain books by the prophets and their",
+             "  contemporaries: Discourses of Brigham Young, Gospel Doctrine, Mediation and",
+             "  Atonement, Leaves from My Journal, Parley P. Pratt's autobiography, and more.",
+             "- **Periodicals** — the Church's own papers, 1832–1929, under",
+             "  " + md.wikilink("Church History") + " → Periodicals (Times and Seasons, Millennial Star,",
+             "  Nauvoo Neighbor, The Seer, Evening and Morning Star …).",
+             "- " + md.wikilink("Joseph Smith Papers") + " — reference records for the JSP series;",
+             "  their edited transcripts stay on their site by its terms.",
+             "- " + md.wikilink("Patriarchal Blessings (historical)") + " — blessing texts found inside the",
+             "  public-domain sources above, and nowhere else.", "",
+             "Anything you have the right to keep — a purchased volume, a family document —",
+             "goes in `sources/drop/prophets/` and is imported nightly."],
+            {"aliases": ["Modern Prophets"]}),
         f"{FOLDER_JSP}/Joseph Smith Papers.md": _simple_moc(
             "Joseph Smith Papers",
-            ["Reference records and (where legitimately available) documents related to",
-             "the Joseph Smith Papers. Respecting site terms, bulk scraping is not used;",
-             "place permitted local packages in `sources/drop/jsp/`."]),
+            ["Reference records for the Joseph Smith Papers series. Respecting the site's",
+             "terms, its edited transcripts are not copied; place permitted local packages",
+             "in `sources/drop/jsp/`. The public-domain sources on the",
+             md.wikilink("Words of the Prophets") + " shelf carry most of the same words."]),
         f"{FOLDER_HISTORY}/Church History.md": _simple_moc(
             "Church History", ["Church history narratives, documents, and context notes."]),
         # The old titles stay as aliases: a [[Evidence]] link in anyone's
@@ -654,7 +678,7 @@ Your doorway to everything — this page is yours to rearrange.
 - {md.wikilink('General Conference')} — full talks, 2015→today (backfilling to 1971 nightly)
 - {md.wikilink('Church History')} — Revelations in Context · Saints · Journal of Discourses ·
   History of the Church · Conference Reports 1897-1930
-- {md.wikilink('Joseph Smith Papers')} — series guides & links
+- {md.wikilink('Words of the Prophets')} — teachings, journals, periodicals, the JSP
 
 ## System
 - {md.wikilink('STUDY-TOOLS', 'Study Tools')} — how highlighting & verse notes work

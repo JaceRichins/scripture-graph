@@ -485,6 +485,15 @@ def _cmd_fetch_locked(ctx, args, fetchers, glib, ensure_registry):
     if args.what in ("jsp", "all"):
         from scripturegraph.corpus.jsp_refs import write_jsp_reference_notes
         out["jsp_reference_notes"] = write_jsp_reference_notes(ctx)
+    if args.what in ("prophets", "all"):
+        from scripturegraph.corpus import prophets
+        out["prophets_books"] = prophets.fetch_books(ctx, limit=args.limit)
+        out["prophets_periodicals"] = prophets.fetch_periodicals(ctx, args.limit or 40)
+        out["prophets_blessings"] = prophets.write_blessings_note(ctx)
+        if out["prophets_books"]["fetched"] or out["prophets_periodicals"]["fetched"]:
+            ctx.bump_corpus_version("words of the prophets")
+            from scripturegraph.corpus.registry import _enqueue_affected
+            _enqueue_affected(ctx, {"history"})
     if args.what in ("od", "gospel-library", "all"):
         out["official_declarations"] = glib.fetch_official_declarations(ctx)
     if args.what in ("apparatus", "gospel-library", "all"):
@@ -729,7 +738,7 @@ def main(argv=None) -> int:
 
     sp = sub.add_parser("fetch", help="acquire corpora (conference API / Gospel Library / "
                                       "public-domain history / JSP records)")
-    sp.add_argument("what", choices=["conference", "history", "jsp", "od", "apparatus",
+    sp.add_argument("what", choices=["conference", "history", "jsp", "prophets", "od", "apparatus",
                                      "collections", "gospel-library", "all"])
     sp.add_argument("--from-year", type=int, default=2015)
     sp.add_argument("--to-year", type=int, default=2026)
