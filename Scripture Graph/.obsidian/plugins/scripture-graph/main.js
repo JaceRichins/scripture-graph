@@ -1,4 +1,4 @@
-/* scripture-graph v0.66.0 build 2ba38aab 2026-09-06T17:20:56Z */
+/* scripture-graph v0.66.1 build bd15779b 2026-09-06T18:44:05Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.66.0", sha: "2ba38aab", at: "2026-09-06T17:20:56Z" };
+    define_SG_BUILD_default = { version: "0.66.1", sha: "bd15779b", at: "2026-09-06T18:44:05Z" };
   }
 });
 
@@ -14656,8 +14656,8 @@ var Dock = class {
     const el = document.body.createDiv({ cls: "sg-dock" });
     const bar = el.createDiv({ cls: "sg-dock-bar" });
     this.backBtn = this.slot(bar, "back", "\u2039", "Back", () => {
-      const leaf = this.s.app.workspace.getLeaf(false);
-      if (!historyBack(leaf)) this.host.openHome();
+      const leaf = this.s.app.workspace.activeLeaf;
+      if (!leaf || !historyBack(leaf)) this.host.openHome();
     });
     this.backBtn.addClass("sg-dock-back");
     const home = this.slot(bar, "home", ICON.home, "Home", () => this.host.openHome());
@@ -14684,21 +14684,25 @@ var Dock = class {
   /** what is lit, whether ‹ has anywhere to go, how many tabs */
   refresh() {
     if (!this.el) return;
-    const ws = this.s.app.workspace;
-    const leaf = ws.activeLeaf ?? ws.getLeaf(false);
-    const type = leaf?.view?.getViewType() ?? "";
-    const h = leaf.history;
-    this.backBtn?.toggleClass("sg-dock-back-on", !!h?.backHistory?.length);
-    const f = ws.getActiveFile();
-    const lit = type === "sg-library" ? "library" : type === "markdown" && f?.path.startsWith(PERSONAL_PREFIX) && f.basename === "Study Hub" ? "home" : "";
-    for (const [k, b] of this.slots) b.toggleClass("sg-dock-on-slot", k === lit);
-    let n = 0;
-    ws.iterateRootLeaves(() => {
-      n++;
-    });
-    if (this.tabsCount) this.tabsCount.setText(n > 1 ? String(n) : "");
-    this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing);
-    this.listenBtn?.toggleClass("sg-dock-round-off", !this.listen.canRead(this.s.app));
+    try {
+      const ws = this.s.app.workspace;
+      const leaf = ws.activeLeaf;
+      const type = leaf?.view?.getViewType?.() ?? "";
+      const h = leaf?.history;
+      this.backBtn?.toggleClass("sg-dock-back-on", !!h?.backHistory?.length);
+      const f = ws.getActiveFile();
+      const lit = type === "sg-library" ? "library" : type === "markdown" && !!f && f.path.startsWith(PERSONAL_PREFIX) && f.basename === "Study Hub" ? "home" : "";
+      for (const [k, b] of this.slots) b.toggleClass("sg-dock-on-slot", k === lit);
+      let n = 0;
+      ws.iterateRootLeaves(() => {
+        n++;
+      });
+      if (this.tabsCount) this.tabsCount.setText(n > 1 ? String(n) : "");
+      this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing);
+      this.listenBtn?.toggleClass("sg-dock-round-off", !this.listen.canRead(this.s.app));
+    } catch (e) {
+      console.warn("scripture-graph: dock refresh", e);
+    }
   }
   slot(bar, key, icon, label, onTap) {
     const b = bar.createEl("button", { cls: `sg-dock-slot sg-dock-${key}`, attr: { "aria-label": label } });
@@ -16190,7 +16194,15 @@ var SGPlugin = class extends import_obsidian24.Plugin {
     };
     this.register(() => back.remove());
     this.backPillEl = back;
-    if (isPhone() && this.state.device.dock !== false) this.mountDock();
+    this.app.workspace.onLayoutReady(() => {
+      if (isPhone() && this.state.device.dock !== false) {
+        try {
+          this.mountDock();
+        } catch (e) {
+          console.error("scripture-graph: dock", e);
+        }
+      }
+    });
     this.addCommand({
       id: "toggle-dock",
       name: "Toggle the bottom dock (phone)",

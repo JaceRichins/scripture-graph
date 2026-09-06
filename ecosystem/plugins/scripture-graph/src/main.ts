@@ -288,8 +288,14 @@ export default class SGPlugin extends Plugin {
     };
     this.register(() => back.remove());
     this.backPillEl = back;
-    // ⌂ the dock: GL's bottom bar, on phones (device.dock = false turns it off)
-    if (isPhone() && this.state.device.dock !== false) this.mountDock();
+    // ⌂ the dock: GL's bottom bar, on phones (device.dock = false turns it
+    // off). Mounted once the workspace exists — asking it for a leaf during
+    // onload throws and takes the plugin down with it (user-reported "Failed")
+    this.app.workspace.onLayoutReady(() => {
+      if (isPhone() && this.state.device.dock !== false) {
+        try { this.mountDock(); } catch (e) { console.error("scripture-graph: dock", e); }
+      }
+    });
     this.addCommand({
       id: "toggle-dock", name: "Toggle the bottom dock (phone)", icon: "panel-bottom",
       callback: () => {

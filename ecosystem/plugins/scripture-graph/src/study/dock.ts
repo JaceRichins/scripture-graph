@@ -56,8 +56,8 @@ export class Dock {
     const el = document.body.createDiv({ cls: "sg-dock" });
     const bar = el.createDiv({ cls: "sg-dock-bar" });
     this.backBtn = this.slot(bar, "back", "‹", "Back", () => {
-      const leaf = this.s.app.workspace.getLeaf(false);
-      if (!historyBack(leaf)) this.host.openHome();
+      const leaf = this.s.app.workspace.activeLeaf;
+      if (!leaf || !historyBack(leaf)) this.host.openHome();
     });
     this.backBtn.addClass("sg-dock-back");
     const home = this.slot(bar, "home", ICON.home, "Home", () => this.host.openHome());
@@ -86,19 +86,24 @@ export class Dock {
   /** what is lit, whether ‹ has anywhere to go, how many tabs */
   refresh(): void {
     if (!this.el) return;
-    const ws = this.s.app.workspace;
-    const leaf = ws.activeLeaf ?? ws.getLeaf(false);
-    const type = leaf?.view?.getViewType() ?? "";
-    const h = (leaf as unknown as { history?: { backHistory: unknown[] } }).history;
-    this.backBtn?.toggleClass("sg-dock-back-on", !!h?.backHistory?.length);
-    const f = ws.getActiveFile();
-    const lit = type === "sg-library" ? "library" : type === "markdown" && f?.path.startsWith(PERSONAL_PREFIX) && f.basename === "Study Hub" ? "home" : "";
-    for (const [k, b] of this.slots) b.toggleClass("sg-dock-on-slot", k === lit);
-    let n = 0;
-    ws.iterateRootLeaves(() => { n++; });
-    if (this.tabsCount) this.tabsCount.setText(n > 1 ? String(n) : "");
-    this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing);
-    this.listenBtn?.toggleClass("sg-dock-round-off", !this.listen.canRead(this.s.app));
+    try {
+      const ws = this.s.app.workspace;
+      const leaf = ws.activeLeaf;           // may be null before the first page
+      const type = leaf?.view?.getViewType?.() ?? "";
+      const h = (leaf as unknown as { history?: { backHistory?: unknown[] } } | null)?.history;
+      this.backBtn?.toggleClass("sg-dock-back-on", !!h?.backHistory?.length);
+      const f = ws.getActiveFile();
+      const lit = type === "sg-library" ? "library"
+        : type === "markdown" && !!f && f.path.startsWith(PERSONAL_PREFIX) && f.basename === "Study Hub" ? "home" : "";
+      for (const [k, b] of this.slots) b.toggleClass("sg-dock-on-slot", k === lit);
+      let n = 0;
+      ws.iterateRootLeaves(() => { n++; });
+      if (this.tabsCount) this.tabsCount.setText(n > 1 ? String(n) : "");
+      this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing);
+      this.listenBtn?.toggleClass("sg-dock-round-off", !this.listen.canRead(this.s.app));
+    } catch (e) {
+      console.warn("scripture-graph: dock refresh", e);
+    }
   }
 
   private slot(bar: HTMLElement, key: string, icon: string, label: string, onTap: () => void): HTMLElement {
