@@ -139,12 +139,15 @@ export class SGLibraryView extends ItemView {
     c.empty();
     const v = this.view;
     // GL's top-down header: chevron circle, then the big left-aligned title
-    const head = c.createDiv({ cls: "sg-lp-head" });
+    // the ‹ hangs from a zero-height sticky rail, so it stays reachable as
+    // the shelf scrolls without dragging a bar across the scene
     if (v.kind !== "home") {
-      const back = head.createEl("button", { cls: "sg-nav-btn sg-lp-back", text: "‹" });
+      const rail = c.createDiv({ cls: "sg-lp-stick" });
+      const back = rail.createEl("button", { cls: "sg-nav-btn sg-lp-back", text: "‹" });
       back.setAttr("aria-label", "Back");
       back.onclick = () => this.back();
     }
+    const head = c.createDiv({ cls: `sg-lp-head${v.kind !== "home" ? " sg-lp-head-indent" : ""}` });
     head.createDiv({ cls: "sg-lp-title", text: this.title() });
 
     const body = c.createDiv({ cls: "sg-lp-body" });

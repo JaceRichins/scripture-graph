@@ -1083,11 +1083,16 @@ body.sg-selecting .sg-back-pill { display: none; }
 .sg-libpage > * { max-width: 640px; margin-left: auto; margin-right: auto; }
 .sg-lp-head {
   display: flex; align-items: center; gap: 10px;
-  margin: 0 0 10px; padding: 6px 0 8px;
-  /* stuck: the ‹ stays reachable however far the shelf scrolls */
-  position: sticky; top: 0; z-index: 6;
-  background: color-mix(in srgb, var(--background-primary) 78%, transparent);
-  -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
+  margin: 4px 0 14px;
+}
+.sg-lp-head-indent { padding-left: 50px; }
+/* the ‹ rides a zero-height sticky rail: it stays put while the shelf
+ * scrolls under it, and nothing else is pinned — no bar over the scene */
+.sg-lp-stick { position: sticky; top: 0; height: 0; z-index: 6; overflow: visible; }
+.sg-lp-stick .sg-lp-back {
+  position: absolute; top: 4px; left: 0;
+  background: color-mix(in srgb, var(--background-primary) 55%, transparent);
+  -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
 }
 .sg-lp-title {
   font-size: 1.7em; font-weight: 800; letter-spacing: -0.01em;

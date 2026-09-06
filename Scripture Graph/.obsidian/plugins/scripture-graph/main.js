@@ -1,4 +1,4 @@
-/* scripture-graph v0.65.6 build f037d852 2026-09-06T16:12:20Z */
+/* scripture-graph v0.65.7 build e43f9532 2026-09-06T16:15:11Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.65.6", sha: "f037d852", at: "2026-09-06T16:12:20Z" };
+    define_SG_BUILD_default = { version: "0.65.7", sha: "e43f9532", at: "2026-09-06T16:15:11Z" };
   }
 });
 
@@ -12433,12 +12433,13 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     const c2 = this.contentEl;
     c2.empty();
     const v = this.view;
-    const head = c2.createDiv({ cls: "sg-lp-head" });
     if (v.kind !== "home") {
-      const back = head.createEl("button", { cls: "sg-nav-btn sg-lp-back", text: "\u2039" });
+      const rail = c2.createDiv({ cls: "sg-lp-stick" });
+      const back = rail.createEl("button", { cls: "sg-nav-btn sg-lp-back", text: "\u2039" });
       back.setAttr("aria-label", "Back");
       back.onclick = () => this.back();
     }
+    const head = c2.createDiv({ cls: `sg-lp-head${v.kind !== "home" ? " sg-lp-head-indent" : ""}` });
     head.createDiv({ cls: "sg-lp-title", text: this.title() });
     const body = c2.createDiv({ cls: "sg-lp-body" });
     if (v.kind === "home") this.renderHome(body);
