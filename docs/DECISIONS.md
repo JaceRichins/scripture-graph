@@ -1,5 +1,43 @@
 # Engineering Decisions Log
 
+## 2026-09-06 -- The plugin syncs the vault; Obsidian Sync is not needed
+
+**Why.** Four dollars a month bought a copy service the family server can
+run itself, and running it ourselves lets each device choose what it
+carries. `ecosystem/server/src/vault.ts` + `/vault/*` routes; plugin
+`src/sync/vaultSync.ts`; SDK `vaultVersion/vaultManifest/vaultBatch/
+personal*`. Plugin v0.71.0.
+
+**Shared tree** (read-only on devices): everything under the vault except
+`.git`, `.scripture-engine`, `.trash`, `sources`, `Library/`, and
+`.obsidian` other than the plugin's own folder. The server keeps a manifest
+(path, 24-hex sha256, size, mtime) with hashes cached per (path, size,
+mtime): cold 1.0 s for 95 MB / 13,385 files, warm 1 ms; the manifest is
+2.1 MB of JSON in 19 ms; a batch of 120 files (4.9 MB) 58 ms on the LAN.
+A device checks `/vault/version`, diffs the manifest against its own index
+(kept in the plugin's local store, never in the vault), fetches only what
+changed in batches of 120 with four in flight, and deletes what the
+manifest no longer lists. Shelves are per device (Scriptures and the
+topic/people/places pages always come).
+
+**Personal tree** (`Library/`, per user, two-way): a push carries the hash
+the file was edited from; the server accepts when nothing moved underneath
+and returns its copy when something did -- the device keeps both, the
+server's as "<name> (conflict from another device).md". The owner's files
+mirror to the vault on disk (`SG_OWNER_MIRROR`) so the engine keeps
+reading them; the owner's laptop is the *source* device (it detects the
+engine config) and only pushes/pulls personal notes.
+
+**Reach.** Wherever the phone can reach the server: home Wi-Fi now, anywhere
+once the server is exposed (Tailscale or a port-forward). That is the one
+thing Obsidian Sync gave that this does not, and it is a networking choice,
+not a plugin one.
+
+**Bootstrapping a new device** still needs the plugin's three files once
+(`main.js`, `manifest.json`, `styles.css` from `http://<server>:8930/plugin/`)
+in `.obsidian/plugins/scripture-graph/`; after that the plugin updates
+itself through the same sync.
+
 ## 2026-09-06 -- What Gospel Library does that we did not (closed in one pass)
 
 Ranked by payoff over difficulty (languages scored zero by the owner's
