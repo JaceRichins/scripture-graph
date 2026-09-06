@@ -23,7 +23,11 @@ Scripture: [[Moroni 8]] · My notes: [[Moroni 8 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Epistolary opening (vv. 1–3):** Mormon rejoices in Moroni's ministry and prays for his endurance.
+2. **Dispute and revealed answer (vv. 4–9):** Mormon identifies the controversy, reports inquiring of the Lord, and presents words attributed to Christ through the Holy Ghost.
+3. **Argument concerning children (vv. 10–24):** accountability, Christ's mercy, divine impartiality, and baptism's relationship to repentance are developed together; the reasoning extends to those "without the law."
+4. **Positive spiritual sequence (vv. 25–26):** repentance, baptism through faith, remission, humility, the [[Gift of the Holy Ghost]], hope, perfect love, prayer, endurance, and dwelling with God.
+5. **National crisis and farewell (vv. 27–30):** Mormon turns to anticipated conflict and Nephite destruction.
 <!-- SG:END structure -->
 
 ## People
@@ -53,26 +57,29 @@ _Not yet developed._
 - [[Alma 41]] — 1 parallel verse, e.g. [[Moroni 8#^moro-8-14|Moroni 8:14]] ↔ [[Alma 41#^alma-41-11|Alma 41:11]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
 - [[Moroni 6]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
-- [[Moroni 7]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
 - [[D&C 20]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[D&C 20#^dc-20-60|D&C 20:60]]
 - [[Luke 5]] — 1 parallel verse, e.g. [[Moroni 8#^moro-8-8|Moroni 8:8]] ↔ [[Luke 5#^luke-5-32|Luke 5:32]]
+- [[2 Nephi 31]] — 0 parallel verses
+- [[Mosiah 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Infant Baptism (rejected doctrine)]]
+- [[Gospel of Jesus Christ]]
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
-- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter assigns [[Baptism]] to accountable persons capable of sin and repentance and relates the ordinance to commandments and remission of sins (vv. 8, 10–11, 19, 24–25). Its claim is not that children stand outside Christ's work: they are "alive in Christ," and their freedom from condemnation is grounded in his mercy, atonement, and redemption (vv. 8, 12, 19–22).
+
+Verse 22 extends the reasoning to those "without the law," but the chapter does not define the full scope of that category. Verses 25–26 then describe a cumulative movement through repentance, baptism, remission, [[Humility]], the [[Gift of the Holy Ghost]], [[Hope]], perfect love, diligent [[Prayer]], endurance, and finally dwelling with God. The passage need not be read as an exhaustive timetable in which every clause is a rigid temporal stage.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -105,25 +112,46 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Mormon uses forceful language: the practice is called a "gross error" (v. 6), "solemn mockery before God" (v. 9), and "awful wickedness" (vv. 15, 19). This establishes the represented urgency and severity of his judgment, but not how widespread or historically recoverable the practice was.
+
+Moroni 8:8 closely parallels the physician-and-sinners saying in [[Mark 2]], and verse 16 parallels 1 John 4:18 concerning perfect love casting out fear. These are secure observations about the English wording. They do not determine whether the relationship arose through shared ancient tradition, revelation, translation into familiar biblical diction, or modern biblical reuse. Repeated terms such as "capable," "law," "condemnation," and "cannot repent" emphasize the argument's legal and moral-accountability framework.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+The chapter contains nested discourse: Moroni preserves an epistle attributed to Mormon, and Mormon reports and presents words received through the Holy Ghost in verses 7–9. The text does not establish that the entire original letter has been reproduced.
+
+Verses 12–18 employ an argument from divine impartiality: if unbaptized children necessarily perished, unequal access to the ordinance would make God partial or changeable. Verses 14–17 also juxtapose severe warning, fearless boldness, charity, and perfect love. The letter presents correction and protective love as compatible, while leaving readers free to evaluate the severity of its rhetoric.
+
+Verses 25–26 form a cumulative chain in which one spiritual result leads to another, turning the discussion from a prohibition into a positive account of Christian formation. That coherence is significant as literary observation but weak evidence for any particular theory of authorship or origin.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual Intertextuality
+> The close verbal correspondence with Mark 2:17 and 1 John 4:18 is strong evidence that the English text of Moroni 8 participates in recognizable New Testament intertextuality. It does not, by itself, identify whether that relationship arose through ancient transmission, revealed restatement, translation vocabulary, or modern composition.
+> — strength 0.7 · confidence 1.0 · textual relationship accepted; provenance disputed · [[Textual Intertextuality in Moroni 8|full dossier]]
+
+> [!evidence] Literary And Theological Coherence
+> The sustained progression from accountability to repentance, baptism, remission, the Holy Ghost, hope, love, endurance, and salvation is evidence of a carefully integrated theological argument rather than a bare prohibition of infant baptism. This is meaningful literary evidence of coherence but weak evidence for any particular theory of origin.
+> — strength 0.4 · confidence 0.9 · coherence accepted; origin implications weak · [[Literary And Theological Coherence in Moroni 8|full dossier]]
+
+> [!evidence] Internal Textual Claim About Ancient Practice
+> The chapter asserts, as an internal historical claim, that a real doctrinal dispute over infant baptism existed among Mormon's people; this is an in-text assertion only and is not independently corroborated by any external record of ancient American religious practice.
+> — strength 0.2 · confidence 0.9 · internal narrative claim accepted; historicity uncorroborated · [[Internal Textual Claim About Ancient Practice in Moroni 8|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Whom does "all they that are without the law" include in verse 22, and what can the phrase establish without importing definitions from later texts?
+- Why does the argument ground children's condition in both incapacity to sin and Christ's redemption?
+- How should Mormon's severe warnings in verses 14–21 be read alongside his claim to charity and perfect love?
+- Does the sequence in verses 25–26 prescribe a fixed chronology, or describe closely related and mutually reinforcing aspects of conversion?
+- What prompted the dispute over baptizing children, and can its historical setting be recovered beyond the narrative's own assertion?
+- How does the national crisis in verses 27–29 affect the way the earlier doctrinal controversy is framed?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the teaching about children, Adam, and Christ with [[Mosiah 3]]; the relationship among law, sin, and repentance with [[Alma 42]]; baptismal qualifications with [[Moroni 6]]; and the faith-repentance-baptism-Holy Ghost-endurance sequence with [[2 Nephi 31]]. Read Mormon's language about charity and enduring love beside [[Moroni 7]]. Compare the English wording of Moroni 8:8 and 16 with [[Mark 2]] and [[1 John 4]], while keeping questions of source and transmission open. Finally, compare the anticipated future communication and national crisis with the second epistle in [[Moroni 9]].
 <!-- SG:END further-study -->
