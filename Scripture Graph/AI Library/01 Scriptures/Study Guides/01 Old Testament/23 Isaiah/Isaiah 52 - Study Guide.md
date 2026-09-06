@@ -23,7 +23,13 @@ Scripture: [[Isaiah 52]] · My notes: [[Isaiah 52 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Call to awaken** (vv.1-2) — Zion/Jerusalem summoned to exchange dust and bondage for strength and beauty.
+2. **Rationale from history** (vv.3-6) — sojourn in Egypt, oppression by Assyria, and the promise that Israel will know God's name.
+3. **Proclamation of reign** (vv.7-10) — a herald's good tidings, watchmen who "see eye to eye," and God's arm made bare before all nations.
+4. **Purity and departure** (vv.11-12) — go out clean and unhurried, guarded before and behind by the LORD.
+5. **The servant introduced** (vv.13-15) — exaltation and marring held in tension, continuing into [[Isaiah 53]] without a natural break.
+
+This is an editorial outline rather than a set of formally marked divisions in the underlying text.
 <!-- SG:END structure -->
 
 ## People
@@ -52,21 +58,22 @@ _Not yet developed._
 - [[2 Nephi 8]] — 2 parallel verses, e.g. [[Isaiah 52#^isa-52-1|Isaiah 52:1]] ↔ [[2 Nephi 8#^2ne-8-24|2 Nephi 8:24]]
 - [[D&C 133]] — 2 parallel verses, e.g. [[Isaiah 52#^isa-52-10|Isaiah 52:10]] ↔ [[D&C 133#^dc-133-3|D&C 133:3]]
 - [[3 Nephi 21]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-15|Isaiah 52:15]] ↔ [[3 Nephi 21#^3ne-21-8|3 Nephi 21:8]]
-- [[Nahum 1]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-7|Isaiah 52:7]] ↔ [[Nahum 1#^nahum-1-15|Nahum 1:15]]
 - [[D&C 38]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-11|Isaiah 52:11]] ↔ [[D&C 38#^dc-38-42|D&C 38:42]]
 - [[D&C 128]] — 1 parallel verse, e.g. [[Isaiah 52#^isa-52-7|Isaiah 52:7]] ↔ [[D&C 128#^dc-128-19|D&C 128:19]]
+- [[Nahum 1]] — 0 parallel verses
+- [[Isaiah 53]] — 0 parallel verses
 - [[Alma 5]] — 0 parallel verses
-- [[2 Nephi 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Exodus and Deliverance]]
 - [[Zion]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Redemption here is explicitly non-commercial: the people were "sold...for nought" and will be "redeemed without money" (vv.3, 5), stressing God's power to reclaim Israel from captors who paid nothing for it. Zion's restoration is public rather than private — "all the ends of the earth shall see the salvation of our God" (v.10) — connecting [[Zion]] and the [[Gathering of Israel]] to a universal witness. Departure imagery joins [[Exodus and Deliverance]] to holiness: those who "bear the vessels of the LORD" must be clean (v.11). The final verses introduce the servant central to later Christian and Latter-day Saint readings of the [[Atonement of Jesus Christ]], but the chapter itself does not name or identify him; that identification depends on [[Isaiah 53]] and later interpretation.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -88,25 +95,34 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Verses 1 and 11 use ritual-purity vocabulary — "the uncircumcised and the unclean" and "touch no unclean thing... be ye clean" — casting the surrounding material (vv.1-12) in cultic terms, though this language does not extend to vv.13-15. Verse 8's "see eye to eye" describes watchmen sharing a direct, unmediated view of the LORD's return to Zion; whether this phrase is the historical source of the modern English idiom of the same wording is a claim about translation history, not something the passage itself establishes.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Verses 1-2 continue the "Awake, awake" pattern begun in [[Isaiah 51]] (51:9, 51:17), forming a repeated exhortation across the two chapters. The chapter also repeatedly reverses humiliation into restoration: dust becomes garments, bondage becomes freedom, howling becomes singing, and ruins become witnesses of comfort — culminating in the paradox of a servant "exalted...and very high" yet "marred more than any man" (vv.13-14), a tension the chapter leaves open, driving the reader into [[Isaiah 53]].
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual Quotation And Reception
+> Third Nephi 20 deliberately reuses a long sequence from Isaiah 52, including the watchmen, Jerusalem's rejoicing, the revealed holy arm, Zion's awakening, departure under divine protection, and the servant's exaltation and suffering. This is strong evidence of intentional canonical reuse of Isaiah 52 in the Book of Mormon discourse.
+> — strength 0.9 · confidence 0.9 · verse range matches verified 13-verse overlap · [[Textual Quotation And Reception in Isaiah 52|full dossier]]
+
+> [!evidence] Intertextual/Theological Application *(tentative)*
+> The Book of Mormon applies the servant introduced in Isaiah 52:13-15 to Jesus Christ: Abinadi quotes Isaiah 53 (the continuation of this same servant song) at length in Mosiah 14 and offers an explicitly Christological reading in Mosiah 15. This constitutes a documented ancient/scriptural interpretive tradition identifying the servant as the Messiah, though it is one reading among several found in the wider history of interpretation.
+> — strength 0.5 · confidence 0.7 · documents LDS reading, not settled scholarly question
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Who is "my servant" in verses 13-15 as this chapter alone presents him, prior to [[Isaiah 53]] or later interpretive tradition?
+- What or where is the unnamed place indicated by "thence" and "her" in verse 11?
+- Does the promise of return "not with haste" (v.12) deliberately contrast with the hurried Exodus from Egypt (v.4), or is it conventional language for an orderly, protected return?
+- Is the chapter's proclamation of God's universal, visible reign (v.10) about the return from exile, a latter-day event, or both?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare Abinadi's use of this chapter in [[Mosiah 12]] and [[Mosiah 15]]; the resurrected Christ's extended quotation in [[3 Nephi 20]]; the reuse of purity/departure language in [[D&C 133]] and [[D&C 38]]; the herald imagery echoed in [[D&C 128]]; the near-identical proclamation formula in [[Nahum 1]]; and Paul's application of verse 7 to gospel preachers in Romans 10.
 <!-- SG:END further-study -->
