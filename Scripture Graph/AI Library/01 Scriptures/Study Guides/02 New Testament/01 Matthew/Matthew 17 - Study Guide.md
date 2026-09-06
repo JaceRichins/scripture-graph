@@ -23,7 +23,11 @@ Scripture: [[Matthew 17]] · My notes: [[Matthew 17 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **The mountain revelation (vv. 1–8):** Jesus is transfigured; Moses and Elias appear; the heavenly voice commands the disciples to hear Jesus.
+2. **Descent and interpretation (vv. 9–13):** disclosure is delayed until the resurrection, and John the Baptist is identified with the expected Elias role.
+3. **Failure and healing below (vv. 14–21):** the disciples fail to cure a child; Jesus heals him and teaches about [[Faith]]. Verse 21 has a significant textual variant.
+4. **Death and resurrection foretold (vv. 22–23):** glory is explicitly joined to suffering.
+5. **The temple payment (vv. 24–27):** Jesus claims filial freedom but acts to avoid offense.
 <!-- SG:END structure -->
 
 ## People
@@ -49,25 +53,29 @@ _Not yet developed._
 - [[Luke 9]] — 1 footnote cross-reference (from [[Matthew 17#^matt-17-2|Matthew 17:2]])
 - [[John 1]] — 1 footnote cross-reference (from [[Matthew 17#^matt-17-2|Matthew 17:2]])
 - [[2 Peter 1]] — 1 footnote cross-reference (from [[Matthew 17#^matt-17-2|Matthew 17:2]])
-- [[Mark 9]] — 9 parallel verses, e.g. [[Matthew 17#^matt-17-4|Matthew 17:4]] ↔ [[Mark 9#^mark-9-5|Mark 9:5]]
-- [[Luke 9]] — 4 parallel verses, e.g. [[Matthew 17#^matt-17-4|Matthew 17:4]] ↔ [[Luke 9#^luke-9-33|Luke 9:33]]
-- [[Matthew 21]] — 3 parallel verses, e.g. [[Matthew 17#^matt-17-20|Matthew 17:20]] ↔ [[Matthew 21#^matt-21-21|Matthew 21:21]]
 - [[Mark 10]] — 2 parallel verses, e.g. [[Matthew 17#^matt-17-23|Matthew 17:23]] ↔ [[Mark 10#^mark-10-34|Mark 10:34]]
-- [[Matthew 3]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[Matthew 3#^matt-3-17|Matthew 3:17]]
 - [[2 Peter 1]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[2 Peter 1#^2pet-1-17|2 Peter 1:17]]
-- [[Matthew 20]] — 2 parallel verses, e.g. [[Matthew 17#^matt-17-22|Matthew 17:22]] ↔ [[Matthew 20#^matt-20-18|Matthew 20:18]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[Mark 1#^mark-1-11|Mark 1:11]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[Matthew 17#^matt-17-5|Matthew 17:5]] ↔ [[3 Nephi 11#^3ne-11-7|3 Nephi 11:7]]
+- [[Matthew 21]] — 0 parallel verses
+- [[Matthew 3]] — 0 parallel verses
+- [[Matthew 20]] — 0 parallel verses
+- [[2 Peter 1]] — 0 parallel verses
+- [[Matthew 16]] — 0 parallel verses
+- [[Mark 9]] — 0 parallel verses
+- [[Luke 9]] — 0 parallel verses
+- [[Mark 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Jesus Christ (Gospel Topic)]]
 - [[Priesthood Restoration]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The divine voice centers discipleship on hearing the beloved Son (v. 5). The chapter does not present revealed glory as an escape from suffering: Jesus immediately speaks of rejection, death, and [[Resurrection]] (vv. 9–12, 22–23). In the healing narrative, [[Faith]] is directed toward service amid human need rather than toward display. The tax episode illustrates freedom exercised with restraint: Jesus asserts that the children are free but chooses payment to avoid offense (vv. 25–27).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -100,25 +108,63 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+“Elias” is the Greek-form name used in the King James Version for Elijah. In verses 11–13, Matthew presents John the Baptist as fulfilling the expected Elias role; this need not assert literal personal identity.
+
+“Lunatic” in verse 15 reflects an older association with the moon. The narrative describes the child’s symptoms and attributes the affliction to a devil, but the brief account does not permit a confident modern medical diagnosis.
+
+The “tribute” in verses 24–27 is most plausibly the Jewish temple assessment rather than a Roman civil tax. Verse 21 is present in the supplied canonical text and the textual tradition behind the King James Version, but important early Greek witnesses omit the entire verse; modern critical editions commonly omit or footnote it.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Matthew’s imagery plausibly evokes Sinai: the six-day notice, mountain, Moses, cloud, voice, and radiance recall [[Exodus 24]] and [[Exodus 34]], while “hear ye him” may resonate with [[Deuteronomy 18]]. These are meaningful literary correspondences, not proof that every detail was deliberately constructed as a Moses parallel. Luke’s different day count and the distinction between Jesus’ shining appearance and Moses’ received radiance counsel restraint.
+
+The movement from the mountain to the multitude juxtaposes revealed glory with suffering, human need, and failed discipleship. The chapter then returns to Jesus’ coming rejection, death, and [[Resurrection]], keeping his glory and suffering together.
+
+Peter, James, and John also accompany Jesus in [[Matthew 26]]. The contrast between the Transfiguration and Gethsemane is illuminating, though their recurrence does not by itself establish a formal literary bracket. The expression “faithless and perverse generation” may echo [[Deuteronomy 32]], but shared scriptural idiom remains an equally plausible explanation.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Historical And Lexical Context
+> The tribute collected at Capernaum is widely identified as the Jewish temple tax rather than a Roman civil tax. The underlying amount is associated with the half-shekel contribution prescribed for sanctuary service, while the coin Jesus describes can cover the payment for both Jesus and Peter.
+> — strength 0.9 · confidence 1.0 · Broadly accepted historical and lexical identification · [[Historical And Lexical Context in Matthew 17|full dossier]]
+
+> [!evidence] Early Literary Attestation
+> The transfiguration appears in all three Synoptic Gospels, and 2 Peter independently presents itself as eyewitness testimony to the majestic glory and heavenly voice. This demonstrates early and multiple New Testament transmission of the tradition, although literary dependence limits how many fully independent witnesses can be claimed.
+> — strength 0.7 · confidence 0.9 · Transmission established; historical significance disputed · [[Early Literary Attestation in Matthew 17|full dossier]]
+
+> [!evidence] Textual Criticism
+> Matthew 17:21, which attributes the expulsion of this kind to prayer and fasting, is present in the supplied canonical text and in the textual tradition underlying the King James Version, but it is absent from important early Greek witnesses and is omitted or footnoted in many modern critical editions. Its wording may have entered Matthew through harmonization with Mark 9:29 or through an expanded ascetic tradition.
+> — strength 0.9 · confidence 1.0 · Broad textual-critical consensus
+
+> [!evidence] Textual Criticism
+> Matthew 17:21 ('Howbeit this kind goeth not out but by prayer and fasting') is widely treated by textual critics as absent from the earliest extant Greek manuscript tradition of Matthew, likely a scribal harmonization drawn from the near-identical statement at Mark 9:29; many modern critical editions and translations bracket, footnote, or omit the verse.
+> — strength 0.9 · confidence 1.0 · Broad textual-critical consensus · [[Textual Criticism in Matthew 17|full dossier]]
+
+> [!evidence] Literary Intertextuality *(tentative)*
+> The sequence of six days, ascent of a mountain, Moses, an overshadowing cloud, a divine voice, and a shining face creates substantial literary correspondence with Sinai traditions. This makes a deliberate Sinai or new-Moses presentation plausible, especially when the command to hear Jesus is compared with the promised prophet in Deuteronomy.
+> — strength 0.7 · confidence 0.8 · Broadly recognized reading; cumulative force debated
+
+> [!evidence] Intertextual Allusion *(tentative)*
+> Jesus's rebuke 'O faithless and perverse generation' (17:17) shares distinctive vocabulary with Deuteronomy 32:5's description of unfaithful Israel as 'a perverse and crooked generation,' which may reflect an intentional echo of the Song of Moses, though the phrase could also be a stock idiom independently applied.
+> — strength 0.3 · confidence 0.5 · Recognized possible allusion; intentionally uncertain
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does Jesus connect permission to report the vision with his resurrection?
+- Does Peter's proposal of three tabernacles misunderstand the relative status of Jesus, Moses, and Elias, or is it simply an attempt to honor all three?
+- How does the command to hear Jesus govern the interpretation of the dazzling signs surrounding him?
+- What does the movement from the mountain to the afflicted child suggest about the purpose of spiritual experience?
+- Where is the line between avoiding needless offense and surrendering a legitimate freedom?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the Transfiguration and healing accounts in [[Mark 9]] and [[Luke 9]], noting differences in chronology, wording, and detail. Compare the heavenly voice with [[Matthew 3]] and the recollection in [[2 Peter 1]], while remembering that the authorship and date of 2 Peter are disputed.
+
+For the Elias expectation, read [[Malachi 4]], [[Matthew 11]], and [[John 1]]. These passages help distinguish fulfillment of an Elijah-like role from literal personal identity. For the temple assessment, examine [[Exodus 30]].
+
+Text-critical study of Matthew 17:21 should distinguish the verse’s place in the supplied King James text from the historical question of Matthew’s earliest recoverable wording, and should also distinguish Matthew’s whole-verse variant from the separate “and fasting” variant in [[Mark 9]]. Matthew never names the high mountain; proposed identifications such as Tabor and Hermon remain uncertain.
 <!-- SG:END further-study -->

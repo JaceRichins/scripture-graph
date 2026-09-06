@@ -88,6 +88,11 @@ def _dispatch_calibrate(ctx: Ctx, target: str) -> dict:
     return run_calibration_job(ctx, target, apply=True)
 
 
+def _dispatch_cumulative(ctx: Ctx, target: str) -> dict:
+    from scripturegraph.agents.cumulative import run_cumulative_job
+    return run_cumulative_job(ctx, target, apply=True)
+
+
 PASS_DEFS: dict[str, dict] = {
     "entities":   {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_entities},
     "citations":  {"scope": "chapter", "mode": "deterministic", "fn": _dispatch_citations},
@@ -109,6 +114,9 @@ PASS_DEFS: dict[str, dict] = {
     # evidence recalibration: groups of existing evidence notes re-assessed to
     # the evidence standard by two independent calibrators and a judge
     "calibrate":  {"scope": "calibration", "mode": "ai", "fn": _dispatch_calibrate},
+    # the corpus-level page where contested findings are weighed together;
+    # redone when the registry has moved enough (agents/cumulative.py)
+    "cumulative": {"scope": "corpus", "mode": "ai", "fn": _dispatch_cumulative},
 }
 
 
@@ -136,6 +144,9 @@ def pending_targets(ctx: Ctx, name: str, by_priority: bool = False) -> list[str]
     if spec["scope"] == "calibration":
         from scripturegraph.agents.calibrate import pending_groups
         return pending_groups(ctx)
+    if spec["scope"] == "corpus":
+        from scripturegraph.agents.cumulative import pending_corpora
+        return pending_corpora(ctx)
     if spec["scope"] == "topic":
         rows = db.execute(
             "SELECT n.id FROM nodes n LEFT JOIN passes p ON p.name=? AND p.target=n.id "
@@ -379,6 +390,11 @@ def waves_status(ctx: Ctx) -> dict:
                 done += sum(1 for n in notes if n["calibrated"])
             out[name] = {"scope": "calibration", "corpora": corpora, "notes_done": done,
                          "notes_total": total}
+        elif spec["scope"] == "corpus":
+            from scripturegraph.agents.cumulative import pending_corpora
+            done = [r["target"] for r in ctx.db().execute(
+                "SELECT target FROM passes WHERE name=?", (name,))]
+            out[name] = {"scope": "corpus", "done": done, "pending": pending_corpora(ctx)}
         elif spec["scope"] == "subject":
             from scripturegraph.agents.dossier import SUBJECT_TYPES, research_progress
             marks = ",".join("?" * len(SUBJECT_TYPES))
