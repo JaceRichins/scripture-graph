@@ -128,6 +128,42 @@ def _ai_budget(ctx: Ctx, key: str) -> int:
     return int(ctx.budget(key) or 0)
 
 
+def backend_watchdog(ctx: Ctx, probe=None, start=None) -> dict:
+    """The family server (the LAN update channel and the phone's API) is a
+    logon-triggered scheduled task that has died silently twice with
+    0xC000013A and stayed down for a day each time — nobody is told, the
+    phones just stop updating. Every study tick and frequent run now checks
+    its health and starts the task again when it fails. `probe` and `start`
+    are injectable for tests."""
+    import subprocess
+    import urllib.request
+    url = str(ctx.c("backend.health_url", "http://127.0.0.1:8930/health"))
+    task = str(ctx.c("backend.task_name", "ScriptureGraph Backend"))
+    if not ctx.c("backend.watchdog", True):
+        return {"skipped": "disabled"}
+
+    def _probe() -> bool:
+        try:
+            with urllib.request.urlopen(url, timeout=5) as r:  # noqa: S310 — local URL from config
+                return r.status == 200
+        except Exception:  # noqa: BLE001
+            return False
+
+    def _start() -> bool:
+        try:
+            cp = subprocess.run(["schtasks", "/Run", "/TN", task], capture_output=True, text=True,
+                                timeout=30)
+            return cp.returncode == 0
+        except Exception:  # noqa: BLE001
+            return False
+
+    if (probe or _probe)():
+        return {"ok": True}
+    started = (start or _start)()
+    ctx.log.warn("backend.watchdog", url=url, task=task, restarted=started)
+    return {"ok": False, "restarted": started}
+
+
 @_locked
 def run_frequent(ctx: Ctx) -> dict:
     """Light: detect/import new sources, refresh indexes, work the queue
@@ -139,6 +175,7 @@ def run_frequent(ctx: Ctx) -> dict:
     try:
         from scripturegraph.corpus.registry import scan_drop
         from scripturegraph.personal import index_personal_notes
+        stats["backend"] = backend_watchdog(ctx)
         stats["drop"] = scan_drop(ctx)
         stats["personal"] = index_personal_notes(ctx)
         # curated pages shipped with the package (hard questions, exemplar
@@ -267,6 +304,7 @@ def run_study(ctx: Ctx) -> dict:
         # 0. canonical self-heal: any user edit/deletion of scripture files is
         # detected and restored EVERY tick (≤30-minute damage window)
         from scripturegraph.validation import Report, check_canonical
+        stats["backend"] = backend_watchdog(ctx)
         report = Report()
         check_canonical(ctx, report, repair=True)
         if report.stats.get("canonical_restored"):
