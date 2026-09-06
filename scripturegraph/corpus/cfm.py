@@ -34,7 +34,7 @@ MANUALS = {
 _MONTHS = {m: i for i, m in enumerate(
     ["January", "February", "March", "April", "May", "June", "July", "August", "September",
      "October", "November", "December"], 1)}
-_ENTRY = re.compile(r'href="(?:/study)?(?P<uri>%s/(?P<key>[a-z0-9][a-z0-9-]*))(?:\?lang=eng)?"[^>]*>(?P<label>.*?)</a>', re.S)
+_ENTRY_TPL = r'href="(?:/study)?(?P<uri>%s/(?P<key>[a-z0-9][a-z0-9-]*))(?:\?lang=eng)?"[^>]*>(?P<label>.*?)</a>'
 _DATES = re.compile(r"^(?P<m1>[A-Z][a-z]+) (?P<d1>\d{1,2})\s*[–-]\s*(?:(?P<m2>[A-Z][a-z]+) )?(?P<d2>\d{1,2})\s+(?P<rest>.+)$")
 _RANGE = re.compile(r"([1-4]?\s?[A-Z][A-Za-z&. ]+?)\s+(\d+)(?:\s*[–-]\s*(\d+))?")
 
@@ -43,7 +43,8 @@ def parse_weeks(year: int, body: str, uri: str) -> list[dict]:
     """The manual's TOC → the weeks: dates, block, chapters, page key."""
     weeks: list[dict] = []
     seen: set[str] = set()
-    for m in _ENTRY.finditer(body.replace("\n", " ")):
+    entry = re.compile(_ENTRY_TPL % re.escape(uri), re.S)
+    for m in entry.finditer(body.replace("\n", " ")):
         if m.group("uri") in seen or "/" + uri.strip("/") + "/" not in m.group("uri") + "/":
             continue
         seen.add(m.group("uri"))
