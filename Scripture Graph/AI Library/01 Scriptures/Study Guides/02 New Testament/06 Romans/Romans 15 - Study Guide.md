@@ -23,7 +23,13 @@ Scripture: [[Romans 15]] · My notes: [[Romans 15 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Bearing and receiving one another (15:1-7).** The strong must seek the weak person's good, following Christ's self-denial. The desired result is united praise.
+
+2. **Christ and the Gentiles (15:8-13).** Christ confirms the promises to the fathers and brings Gentiles to glorify God. Four citations establish the scriptural scope of that hope.
+
+3. **Paul's Gentile ministry (15:14-21).** Paul describes the Gentiles as an offering sanctified by the Holy Ghost, attributes his work to Christ, and explains his pioneer strategy.
+
+4. **Jerusalem, Rome, and Spain (15:22-33).** Paul plans to deliver the collection, visit the Romans, and continue to Spain. He closes by requesting prayer for both safety and acceptance.
 <!-- SG:END structure -->
 
 ## People
@@ -45,18 +51,24 @@ _Not yet developed._
 - [[1 Corinthians 1]] — 1 footnote cross-reference (from [[Romans 15#^rom-15-5|Romans 15:5]])
 - [[1 Thessalonians 5]] — 1 footnote cross-reference (from [[Romans 15#^rom-15-5|Romans 15:5]])
 - [[2 Corinthians 1]] — 1 parallel verse, e.g. [[Romans 15#^rom-15-6|Romans 15:6]] ↔ [[2 Corinthians 1#^2cor-1-3|2 Corinthians 1:3]]
+- [[1 Corinthians 16]] — 0 parallel verses
+- [[2 Corinthians 8]] — 0 parallel verses
+- [[2 Corinthians 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
-- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]]
+- [[Gospel of Jesus Christ]]
+- [[Scripture Study]]
 - [[Hope]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Christ's reception of believers grounds their duty to receive one another (Romans 15:7). Paul also connects God's faithfulness to promises made to the fathers with Gentile mercy, praise, and hope (Romans 15:8-13). This is Paul's scriptural argument for Gentile inclusion; the quotation chain does not by itself prove that every cited passage originally referred exclusively to the later Christian mission.
+
+[[Hope]] is nourished through scripture, believing, and the power of the Holy Ghost (Romans 15:4, 13). In Romans 15:16 Paul portrays the Gentiles as an acceptable offering sanctified by the Holy Ghost, using priestly and sacrificial imagery for his ministry. The Jerusalem contribution gives material expression to [[Jews and Gentiles]] reciprocity: Gentiles who shared in spiritual things had a duty to minister material things to the poor saints (Romans 15:25-27). This is an argument about communal obligation, not the purchase of grace.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -84,25 +96,39 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+The KJV repeats forms of “minister” across the chapter: Christ ministers to the circumcision (15:8), Paul ministers the gospel and presents the Gentiles as an offering (15:16), and he and the Gentile churches minister materially to Jerusalem (15:25, 27). The underlying Greek vocabulary is related to service but is not identical in every verse; verse 16 is especially priestly in imagery. The repetition nevertheless creates an English-language thread joining Christ's service, missionary service, and relief for the poor.
+
+Paul also calls God the God of “patience and consolation,” the “God of hope,” and the “God of peace” (15:5, 13, 33). These are not abstract labels: each title answers a need in the surrounding paragraph.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Six appeals to earlier scripture punctuate the argument (15:3, 9-12, 21). The four-text chain in 15:9-12 moves across several parts of Israel's scriptures and repeatedly foregrounds the Gentiles. It may also form a rhetorical expansion from praise among the Gentiles to all Gentiles hoping in Jesse's root. That escalation is a plausible reading of the arrangement, not proof that every stage was consciously designed as a formal pattern.
+
+There is also a notable movement from “one mind and one mouth” (15:6) to multiple peoples jointly praising God (15:9-12). The chapter thus connects local congregational unity with the larger scriptural story of Jew-Gentile inclusion.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Intertextual Historical Coherence
+> Romans' report that Macedonia and Achaia contributed for poor saints at Jerusalem coheres closely with Paul's discussions elsewhere of a Jerusalem collection, Macedonian generosity, and Achaian readiness. This is substantial evidence of a shared concrete setting across the letters.
+> — strength 0.7 · confidence 0.9 · Broadly accepted intertextual coherence · [[Intertextual Historical Coherence in Romans 15|full dossier]]
+
+> [!evidence] Internal/External Corroboration *(tentative)*
+> Paul's statement that he has 'fully preached the gospel of Christ' in the arc from Jerusalem to Illyricum, combined with his stated plan to visit Rome en route to Spain after delivering the Jerusalem collection, corresponds to the itinerary independently described in Acts 19:21 and Acts 20:1-3, 22, providing external corroboration of Paul's travel plans at the time Romans was written.
+> — strength 0.4 · confidence 0.6 · Partial compatibility accepted; independence disputed
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+How does “please his neighbour” in 15:2 differ from indiscriminate people-pleasing? Paul's own qualification—“for his good to edification”—sets the boundary.
+
+Why is Paul uncertain that the Jerusalem saints will accept his service (15:31)? The text does not explain, but the concern may illuminate the sensitivity of Jew-Gentile relations and of a Gentile-funded contribution.
+
+Does “no more place in these parts” (15:23) mean every person had heard the gospel? In light of Paul's stated foundation-laying ambition (15:20), it more likely means that he regarded his distinctive pioneer assignment in that region as substantially complete.
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Romans 14]] with Romans 15:1-7 to trace the full strong-and-weak argument. Compare the collection notices in [[1 Corinthians 16]], [[2 Corinthians 8]], [[2 Corinthians 9]], and [[Galatians 2]]. Compare the travel sequence with [[Acts 19]] and Paul's later reference to alms in [[Acts 24]]. For thematic study, follow [[Jews and Gentiles]], [[Missionary Work]], [[Service]], [[Hope]], [[Prayer]], and [[Scripture Study]].
 <!-- SG:END further-study -->
