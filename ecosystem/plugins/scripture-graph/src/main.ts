@@ -27,6 +27,7 @@ import { ReadingSettingsModal, applyReading } from "./study/readingSettings";
 import { VaultSync } from "./sync/vaultSync";
 import { runSetupLink } from "./social/setupLink";
 import { LiveLink } from "./live";
+import { MusicPlayer } from "./study/music";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SCENES, SceneManager } from "./study/scenes";
@@ -117,6 +118,14 @@ export default class SGPlugin extends Plugin {
     }));
     this.registerView(READER_VIEW, leaf =>
       new ReaderView(leaf, this.state, this.ann, (c, v, seed) => void this.openAsk(c, v, seed)));
+
+    // ---- 🎵 the music player: one queue, one bar above the dock ----------
+    this.music = new MusicPlayer(this.app, {
+      get: () => this.state.device.musicService ?? null,
+      set: async (sv) => { this.state.device.musicService = sv; await this.state.saveDevice(); },
+    });
+    this.app.workspace.onLayoutReady(() => this.music.mount());
+    this.register(() => this.music.destroy());
 
     // ---- one-tap family setup (obsidian://scripture-graph-setup?server=…&invite=…)
     this.registerObsidianProtocolHandler("scripture-graph-setup", params => {
@@ -720,6 +729,7 @@ export default class SGPlugin extends Plugin {
   private dock: Dock | null = null;
   vaultSync!: VaultSync;
   live: LiveLink | null = null;
+  music!: MusicPlayer;
 
   openReadingSettings(): void {
     new ReadingSettingsModal(this.state, () => this.pickScene(), () => {
@@ -809,6 +819,7 @@ export default class SGPlugin extends Plugin {
         // through the wrapper: AI pages float as a sheet, scripture navigates
         void this.app.workspace.openLinkText(path, "");
       },
+      music: this.music,
       openTimeline: () => void this.openTimeline(null),
       openTimelinePreset: (p) => void this.openTimelinePreset(p),
       newTimeline: (onDone) => this.newTimeline(onDone),

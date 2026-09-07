@@ -77,6 +77,8 @@ export interface DeviceState {
   seen?: { cfmWeek?: string; insightDay?: number };
   /** every address the server has said it is reachable at (learned) */
   serverUrls?: string[];
+  /** where songs the Church does not record open (asked once) */
+  musicService?: "spotify" | "apple" | "youtube" | null;
   /** vault sync: on/off, which shelves this device carries, how often */
   sync?: { enabled?: boolean; sections?: Record<string, boolean>; intervalMin?: number };
   /** ambient reading scene: "none" | "auto" | "match" | scene id */

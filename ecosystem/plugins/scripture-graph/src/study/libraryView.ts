@@ -10,6 +10,7 @@
 import { ItemView, Menu, Notice, Platform, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
 import { BOOKS, type BookInfo } from "@scripture-graph/core-sdk";
 import { LIBRARY_PREFIX, SGState } from "../state";
+import { type MusicPlayer, type PlayItem } from "./music";
 import { historyBack, recordHistory, refreshNavArrows } from "./leafNav";
 import { GRAPH_PRESETS, openGraphPreset } from "./graphPresets";
 import { cascade, iconHue, navIcon, type NavIconName } from "./navIcons";
@@ -26,7 +27,7 @@ type LibView =
   | { kind: "graphs" }
   | { kind: "timelines" }
   | { kind: "questions" }
-  | { kind: "hymns" }
+  | { kind: "hymns"; book?: string }
   | { kind: "music" }
   | { kind: "playlist"; key: string; title: string }
   | { kind: "folder"; path: string; title: string };
@@ -71,7 +72,7 @@ const CFM_FOLDER = `${LIBRARY_PREFIX}07 Come Follow Me`;
 
 /** the hymnbook index the engine writes (titles, numbers, the Church's recordings) */
 const HYMNS_PATH = "AI Library/00 System/Hymns.md";
-interface Hymn { uri: string; title: string; n: number | null; url: string;
+interface Hymn { uri: string; title: string; n: number | null; url: string; book?: string;
   audio?: { vocal?: string; accompaniment?: string; other?: string } }
 
 /** the Music shelf's playlists (see the note's own header) */
@@ -163,7 +164,7 @@ export class SGLibraryView extends ItemView {
   }
 
   async onClose(): Promise<void> {
-    this.hymnAudio?.pause();
+    for (const u of this.unsubs) u();          // the music keeps playing; only the rows stop listening
     if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
     document.body.removeClass("sg-lib-open");
     this.contentEl.empty();
@@ -196,7 +197,7 @@ export class SGLibraryView extends ItemView {
   dockSlotHymns(): boolean { return this.view.kind === "hymns" || this.view.kind === "playlist"; }
 
   private title(): string {
-    if (this.view.kind === "hymns") return "Hymns";
+    if (this.view.kind === "hymns") return this.view.book === "Children's Songbook" ? "Children's Songs" : "Hymns";
     if (this.view.kind === "music") return "Music";
     if (this.view.kind === "playlist") return this.view.title;
     const v = this.view;
@@ -210,7 +211,11 @@ export class SGLibraryView extends ItemView {
                   : v.title;
   }
 
+  private unsubs: (() => void)[] = [];
+
   private render(): void {
+    for (const u of this.unsubs) u();
+    this.unsubs = [];
     const c = this.contentEl;
     // a focused search box must BLUR before the DOM under it is rebuilt:
     // destroying a focused input skips the blur, iOS drops the keyboard
@@ -241,7 +246,7 @@ export class SGLibraryView extends ItemView {
     else if (v.kind === "graphs") this.renderGraphs(body);
     else if (v.kind === "timelines") this.renderTimelines(body);
     else if (v.kind === "questions") this.renderQuestions(body);
-    else if (v.kind === "hymns") void this.renderHymns(body);
+    else if (v.kind === "hymns") void this.renderHymns(body, v.book);
     else if (v.kind === "music") void this.renderMusic(body);
     else if (v.kind === "playlist") void this.renderPlaylist(body, v.key);
     else this.renderFolder(body, v.path);
@@ -365,100 +370,7 @@ export class SGLibraryView extends ItemView {
     next.onclick = () => show(idx + 1);
   }
 
-  // ----------------------------------------------------------------- hymns
-
-  private hymnAudio: HTMLAudioElement | null = null;
-  private hymnPlaying: string | null = null;
-
-  private async renderHymns(c: HTMLElement): Promise<void> {
-    const f = this.app.vault.getAbstractFileByPath(HYMNS_PATH);
-    let hymns: Hymn[] = [];
-    if (f instanceof TFile) {
-      try {
-        const m = /```json\s*([\s\S]*?)```/.exec(await this.app.vault.cachedRead(f));
-        hymns = m ? (JSON.parse(m[1]!) as Hymn[]) : [];
-      } catch { hymns = []; }
-    }
-    if (!c.isConnected) return;
-    hymns.sort((a, b) => (a.n ?? 9999) - (b.n ?? 9999) || a.title.localeCompare(b.title));
-    c.createDiv({ cls: "sg-nav-intro", text: "Tap a hymn to hear the Church's recording." });
-    const inp = c.createEl("input", { cls: "sg-nav-filter", attr: { type: "search", placeholder: "Name or number…" } });
-    const now = c.createDiv({ cls: "sg-hymn-now" });
-    const list = c.createDiv({ cls: "sg-nav-list" });
-    let open: string | null = null;
-    const render = () => {
-      list.empty();
-      const q = inp.value.trim().toLowerCase();
-      let i = 0;
-      for (const h of hymns) {
-        if (q && !(h.title.toLowerCase().includes(q) || String(h.n ?? "").startsWith(q))) continue;
-        const playing = this.hymnPlaying === h.uri;
-        const row = list.createDiv({ cls: "sg-nav-row sg-hymn-row" });
-        cascade(row, i++);
-        row.createSpan({ cls: "sg-hymn-n", text: h.n ? String(h.n) : "" });
-        row.createDiv({ cls: "sg-nav-name", text: h.title });
-        if (playing) row.createSpan({ cls: "sg-hymn-eq", text: "▶" });
-        row.toggleClass("sg-hymn-on", playing);
-        row.toggleClass("sg-hymn-open", open === h.uri);
-        row.onclick = () => { open = open === h.uri ? null : h.uri; render(); };
-        if (open === h.uri) {
-          const strip = list.createDiv({ cls: "sg-hymn-strip" });
-          const btn = (label: string, main: boolean, fn: () => void) => {
-            const b = strip.createEl("button", { cls: `sg-hymn-door${main ? " sg-hymn-door-main" : ""}`, text: label });
-            b.onclick = (e) => { e.stopPropagation(); fn(); };
-          };
-          const a = h.audio ?? {};
-          if (playing) btn("■ Stop", true, () => this.stopHymn(render));
-          else if (a.vocal || a.accompaniment) {
-            if (a.vocal) btn("▶ Sing along", true, () => this.startHymn(h, a.vocal!, render));
-            if (a.accompaniment) btn("🎹 Accompaniment", !a.vocal, () => this.startHymn(h, a.accompaniment!, render));
-          } else if (a.other) btn("▶ Play", true, () => this.startHymn(h, a.other!, render));
-          btn("Listen elsewhere ⋯", false, () => this.hymnMenu(h));
-          btn("Words ↗", false, () => window.open(h.url, "_blank"));
-        }
-        if (i > 400) break;
-      }
-      if (!list.childElementCount) list.createDiv({ cls: "sg-nav-empty", text: hymns.length ? "No hymn matches." : "The hymn index has not synced yet." });
-      now.empty();
-      const cur = this.hymnPlaying ? hymns.find(x => x.uri === this.hymnPlaying) : null;
-      if (cur) {
-        now.createSpan({ cls: "sg-hymn-now-t", text: `▶ ${cur.n ? cur.n + " · " : ""}${cur.title}` });
-        const st = now.createEl("button", { cls: "sg-hymn-door", text: "■ Stop" });
-        st.onclick = () => this.stopHymn(render);
-      }
-    };
-    inp.oninput = render;
-    render();
-  }
-
-  private startHymn(h: Hymn, url: string, rerender: () => void): void {
-    this.hymnAudio?.pause();
-    this.hymnAudio = new Audio(url);
-    this.hymnAudio.onended = () => { this.hymnPlaying = null; rerender(); };
-    this.hymnAudio.onerror = () => { this.hymnPlaying = null; new Notice("That recording would not play — try Listen elsewhere."); rerender(); };
-    void this.hymnAudio.play();
-    this.hymnPlaying = h.uri;
-    rerender();
-  }
-
-  private stopHymn(rerender: () => void): void {
-    this.hymnAudio?.pause();
-    this.hymnAudio = null;
-    this.hymnPlaying = null;
-    rerender();
-  }
-
-  private hymnMenu(h: Hymn): void {
-    const q = encodeURIComponent(`${h.title} hymn`);
-    const m = new Menu();
-    m.addItem(i => i.setTitle("Spotify").setIcon("music").onClick(() => window.open(`https://open.spotify.com/search/${q}`, "_blank")));
-    m.addItem(i => i.setTitle("Apple Music").setIcon("music").onClick(() => window.open(`https://music.apple.com/us/search?term=${q}`, "_blank")));
-    m.addItem(i => i.setTitle("YouTube").setIcon("play").onClick(() => window.open(`https://www.youtube.com/results?search_query=${q}`, "_blank")));
-    m.showAtMouseEvent(new MouseEvent("click", { clientX: window.innerWidth / 2, clientY: window.innerHeight / 2 }));
-  }
-
-
-  // ------------------------------------------------------------------ music
+  // ----------------------------------------------------------------- music
 
   private async loadHymns(): Promise<Hymn[]> {
     const f = this.app.vault.getAbstractFileByPath(HYMNS_PATH);
@@ -478,13 +390,64 @@ export class SGLibraryView extends ItemView {
     } catch { return []; }
   }
 
-  /** the shelf: Hymns first, then the playlists, as covers */
+  /** cover art as a resource url, when the vault has it */
+  private art(key: string): string | undefined {
+    const f = this.app.vault.getAbstractFileByPath(`AI Library/00 System/covers/${key}.jpg`);
+    return f instanceof TFile ? this.app.vault.getResourcePath(f) : undefined;
+  }
+
+  private bookShort(h: Hymn): string {
+    return h.book === "Children's Songbook" ? "Children's Songbook"
+      : h.book === "Hymns—For Home and Church" ? "Hymn (new)" : `Hymn${h.n ? " " + h.n : ""}`;
+  }
+
+  /** a hymnbook entry → something the player can play */
+  private hymnItem(h: Hymn, art?: string, open?: () => void): PlayItem {
+    const a = h.audio ?? {};
+    const url = a.vocal ?? a.other ?? a.accompaniment;
+    const alt: { label: string; url: string }[] = [];
+    if (a.accompaniment && url !== a.accompaniment) alt.push({ label: "Accompaniment only", url: a.accompaniment });
+    if (a.vocal && url !== a.vocal) alt.push({ label: "With voices", url: a.vocal });
+    return { id: h.uri, title: h.title, sub: `${this.bookShort(h)} · Church recording`, url, alt,
+      searchQuery: `${h.title} hymn`, wordsUrl: h.url, art, open };
+  }
+
+  /** a playlist track → the hymnbook entry when the Church records it, else elsewhere */
+  private trackItem(tr: Track, byTitle: Map<string, Hymn>, key: string, i: number, art?: string, open?: () => void): PlayItem {
+    const inBook = tr.a === "Hymn" || tr.a === "Primary";
+    const h = inBook ? byTitle.get(normTitle(tr.t)) : undefined;
+    if (h) return this.hymnItem(h, art, open);
+    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a}${inBook ? "" : " · opens in your music app"}`,
+      searchQuery: `${tr.t} ${inBook ? "hymn" : tr.a}`, art, open };
+  }
+
+  /** one row: number, title, who — tap plays; ⋯ for the rest */
+  private trackRow(list: HTMLElement, items: PlayItem[], i: number, num: string): void {
+    const it = items[i]!;
+    const music = this.host.music;
+    const row = list.createDiv({ cls: "sg-tr" });
+    cascade(row, i);
+    const cur = music.isCurrent(it.id);
+    row.toggleClass("sg-tr-on", cur);
+    row.createSpan({ cls: "sg-tr-n", text: cur ? (music.playing ? "♪" : "▮▮") : num });
+    const col = row.createDiv({ cls: "sg-tr-col" });
+    col.createDiv({ cls: "sg-tr-title", text: it.title });
+    col.createDiv({ cls: "sg-tr-sub", text: it.sub });
+    if (!it.url) row.createSpan({ cls: "sg-tr-ext", text: "↗" });
+    const more = row.createEl("button", { cls: "sg-tr-more", text: "⋯" });
+    more.setAttr("aria-label", "More");
+    more.onclick = (e) => { e.stopPropagation(); music.menu(it, e); };
+    row.onclick = () => { if (cur && it.url) music.toggle(); else music.play(items, i); };
+  }
+
+  /** the shelf: Hymns, Children's songs, then the playlists, as covers */
   private async renderMusic(c: HTMLElement): Promise<void> {
     const lists = await this.loadPlaylists();
     if (!c.isConnected) return;
     this.coverSeq = 0;
     const grid = c.createDiv({ cls: "sg-nav-covers" });
     this.cover(grid, { icon: "podcast", label: "Hymns", photo: "hymnbook", onTap: () => this.go({ kind: "hymns" }) });
+    this.cover(grid, { icon: "podcast", label: "Children's Songs", photo: "music-family", onTap: () => this.go({ kind: "hymns", book: "Children's Songbook" }) });
     for (const pl of lists) {
       this.cover(grid, { icon: "podcast", label: pl.title, photo: pl.cover ?? `music-${pl.key}`,
         onTap: () => this.go({ kind: "playlist", key: pl.key, title: pl.title }) });
@@ -492,8 +455,51 @@ export class SGLibraryView extends ItemView {
     if (!lists.length) c.createDiv({ cls: "sg-nav-empty", text: "The playlists have not synced yet." });
   }
 
-  /** one playlist: numbered rows; tap → play the Church recording (hymns)
-   * or open the song on a streaming service; titles only, never words */
+  /** the hymnbook (or the Children's Songbook): search, tap to play */
+  private async renderHymns(c: HTMLElement, book?: string): Promise<void> {
+    const all = await this.loadHymns();
+    if (!c.isConnected) return;
+    const isChildren = book === "Children's Songbook";
+    const hymns = all.filter(h => isChildren ? h.book === "Children's Songbook" : h.book !== "Children's Songbook");
+    hymns.sort((a, b) => (a.n ?? 9999) - (b.n ?? 9999) || a.title.localeCompare(b.title));
+    const art = this.art(isChildren ? "music-family" : "hymnbook");
+    const open = () => this.go({ kind: "hymns", book });
+    const head = c.createDiv({ cls: "sg-pl-head" });
+    if (art) { const img = head.createEl("img", { cls: "sg-pl-art" }); img.src = art; }
+    const meta = head.createDiv({ cls: "sg-pl-meta" });
+    meta.createDiv({ cls: "sg-pl-title", text: isChildren ? "Children's Songbook" : "Hymns" });
+    meta.createDiv({ cls: "sg-pl-blurb", text: isChildren ? "Every Primary song, in the Church's recordings." : "Both hymnbooks, in the Church's recordings. Tap to play." });
+    meta.createDiv({ cls: "sg-pl-count", text: `${hymns.length} songs` });
+    const inp = c.createEl("input", { cls: "sg-nav-filter", attr: { type: "search", placeholder: isChildren ? "Find a song…" : "Name or number…" } });
+    let only: "all" | "old" | "new" = "all";
+    if (!isChildren) {
+      const chips = c.createDiv({ cls: "sg-pl-chips" });
+      const mk = (label: string, v: typeof only) => {
+        const b = chips.createEl("button", { cls: "sg-pl-chip", text: label });
+        b.onclick = () => { only = v; render(); };
+        return b;
+      };
+      mk("All", "all"); mk("1985 hymnal", "old"); mk("New hymns", "new");
+    }
+    const list = c.createDiv({ cls: "sg-tr-list" });
+    const render = () => {
+      list.empty();
+      for (const b of Array.from(c.querySelectorAll(".sg-pl-chip"))) {
+        b.toggleClass("sg-pl-chip-on", (b.textContent === "All" && only === "all") || (b.textContent === "1985 hymnal" && only === "old") || (b.textContent === "New hymns" && only === "new"));
+      }
+      const q = inp.value.trim().toLowerCase();
+      const shown = hymns.filter(h => (only === "all" || (only === "old" ? h.book === "Hymns" : h.book === "Hymns—For Home and Church"))
+        && (!q || h.title.toLowerCase().includes(q) || String(h.n ?? "").startsWith(q))).slice(0, 500);
+      const items = shown.map(h => this.hymnItem(h, art, open));
+      shown.forEach((h, i) => this.trackRow(list, items, i, h.n ? String(h.n) : String(i + 1)));
+      if (!shown.length) list.createDiv({ cls: "sg-nav-empty", text: all.length ? "No song matches." : "The hymn index has not synced yet." });
+    };
+    inp.oninput = render;
+    render();
+    this.unsubs.push(this.host.music.on(() => { if (list.isConnected) render(); }));
+  }
+
+  /** one playlist: cover, Play, rows */
   private async renderPlaylist(c: HTMLElement, key: string): Promise<void> {
     const [lists, hymns] = await Promise.all([this.loadPlaylists(), this.loadHymns()]);
     if (!c.isConnected) return;
@@ -501,54 +507,25 @@ export class SGLibraryView extends ItemView {
     if (!pl) { c.createDiv({ cls: "sg-nav-empty", text: "That playlist is gone." }); return; }
     const byTitle = new Map<string, Hymn>();
     for (const h of hymns) byTitle.set(normTitle(h.title), h);
-    if (pl.blurb) c.createDiv({ cls: "sg-nav-intro", text: pl.blurb });
-    const now = c.createDiv({ cls: "sg-hymn-now" });
-    const list = c.createDiv({ cls: "sg-nav-list" });
-    let open: number | null = null;
-    const render = () => {
-      list.empty();
-      pl.tracks.forEach((tr, i) => {
-        const hymn = tr.a === "Hymn" ? byTitle.get(normTitle(tr.t)) ?? null : null;
-        const uri = hymn?.uri ?? `track:${key}:${i}`;
-        const playing = this.hymnPlaying === uri;
-        const row = list.createDiv({ cls: "sg-nav-row sg-hymn-row" });
-        cascade(row, i);
-        row.createSpan({ cls: "sg-hymn-n", text: String(i + 1) });
-        const col = row.createDiv({ cls: "sg-nav-gcol" });
-        col.createDiv({ cls: "sg-nav-name", text: tr.t });
-        col.createDiv({ cls: "sg-nav-gsub", text: hymn ? `Hymn${hymn.n ? " " + hymn.n : ""} · Church recording` : tr.a });
-        if (playing) row.createSpan({ cls: "sg-hymn-eq", text: "▶" });
-        row.toggleClass("sg-hymn-on", playing);
-        row.toggleClass("sg-hymn-open", open === i);
-        row.onclick = () => { open = open === i ? null : i; render(); };
-        if (open === i) {
-          const strip = list.createDiv({ cls: "sg-hymn-strip" });
-          const btn = (label: string, main: boolean, fn: () => void) => {
-            const b = strip.createEl("button", { cls: `sg-hymn-door${main ? " sg-hymn-door-main" : ""}`, text: label });
-            b.onclick = (e) => { e.stopPropagation(); fn(); };
-          };
-          const a = hymn?.audio ?? {};
-          if (playing) btn("■ Stop", true, () => this.stopHymn(render));
-          else if (hymn && (a.vocal || a.accompaniment)) {
-            if (a.vocal) btn("▶ Sing along", true, () => this.startHymn(hymn, a.vocal!, render));
-            if (a.accompaniment) btn("🎹 Accompaniment", !a.vocal, () => this.startHymn(hymn, a.accompaniment!, render));
-          }
-          const q = encodeURIComponent(`${tr.t} ${tr.a === "Hymn" ? "hymn" : tr.a}`);
-          btn("Spotify", !hymn, () => window.open(`https://open.spotify.com/search/${q}`, "_blank"));
-          btn("Apple Music", false, () => window.open(`https://music.apple.com/us/search?term=${q}`, "_blank"));
-          btn("YouTube", false, () => window.open(`https://www.youtube.com/results?search_query=${q}`, "_blank"));
-          if (hymn) btn("Words ↗", false, () => window.open(hymn.url, "_blank"));
-        }
-      });
-      now.empty();
-      const cur = this.hymnPlaying ? hymns.find(x => x.uri === this.hymnPlaying) : null;
-      if (cur) {
-        now.createSpan({ cls: "sg-hymn-now-t", text: `▶ ${cur.n ? cur.n + " · " : ""}${cur.title}` });
-        const st = now.createEl("button", { cls: "sg-hymn-door", text: "■ Stop" });
-        st.onclick = () => this.stopHymn(render);
-      }
-    };
+    const art = this.art(pl.cover ?? `music-${pl.key}`);
+    const open = () => this.go({ kind: "playlist", key: pl.key, title: pl.title });
+    const items = pl.tracks.map((tr, i) => this.trackItem(tr, byTitle, key, i, art, open));
+    const here = items.filter(i => i.url).length;
+    const head = c.createDiv({ cls: "sg-pl-head" });
+    if (art) { const img = head.createEl("img", { cls: "sg-pl-art" }); img.src = art; }
+    const meta = head.createDiv({ cls: "sg-pl-meta" });
+    meta.createDiv({ cls: "sg-pl-title", text: pl.title });
+    if (pl.blurb) meta.createDiv({ cls: "sg-pl-blurb", text: pl.blurb });
+    meta.createDiv({ cls: "sg-pl-count", text: `${items.length} songs · ${here} play here` });
+    const acts = c.createDiv({ cls: "sg-pl-actions" });
+    const play = acts.createEl("button", { cls: "sg-pl-play", text: "▶  Play" });
+    play.onclick = () => this.host.music.playAll(items);
+    const shuf = acts.createEl("button", { cls: "sg-pl-shuffle", text: "⇄  Shuffle" });
+    shuf.onclick = () => this.host.music.playAll(items, true);
+    const list = c.createDiv({ cls: "sg-tr-list" });
+    const render = () => { list.empty(); items.forEach((_, i) => this.trackRow(list, items, i, String(i + 1))); };
     render();
+    this.unsubs.push(this.host.music.on(() => { if (list.isConnected) render(); }));
   }
 
   // ------------------------------------------------------- did you notice?

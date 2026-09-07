@@ -1,3 +1,4 @@
+import type { MusicPlayer } from "./music";
 /** 📖 The Navigator — Gospel-Library-style volume → book → chapter jumping.
  *
  * Three taps from anywhere to any chapter; opening it while reading resumes
@@ -30,6 +31,8 @@ export interface NavigatorHost {
   groupActivity(): Promise<GroupActivityRow[]>;
   listFolder(path: string): FolderListing;
   openPath(path: string): void;
+  /** the app-wide music player (queue + mini bar) */
+  music: MusicPlayer;
   openTimeline(): void;
   openTimelinePreset(p: TimelinePreset): void;
   newTimeline(onDone: () => void): void;
