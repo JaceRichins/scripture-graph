@@ -150,6 +150,134 @@ a search in the music app. `cover` names a file in `covers/`.
       ]
     },
     {
+      "key": "wonder",
+      "title": "Wonder",
+      "blurb": "Awe: the heavens, the deep, and the God who made them.",
+      "cover": "music-wonder",
+      "tracks": [
+        {
+          "t": "If You Could Hie to Kolob",
+          "a": "Hymn"
+        },
+        {
+          "t": "His Voice as the Sound of the Dulcimer",
+          "a": "American folk hymn, arr. Mack Wilberg"
+        },
+        {
+          "t": "Deep River",
+          "a": "Spiritual"
+        },
+        {
+          "t": "How Great Thou Art",
+          "a": "Hymn"
+        },
+        {
+          "t": "O My Father",
+          "a": "Hymn"
+        },
+        {
+          "t": "Oh Say, What Is Truth?",
+          "a": "Hymn"
+        },
+        {
+          "t": "The Morning Breaks",
+          "a": "Hymn"
+        },
+        {
+          "t": "God of Our Fathers, Whose Almighty Hand",
+          "a": "Hymn"
+        },
+        {
+          "t": "Adam-ondi-Ahman",
+          "a": "Hymn"
+        },
+        {
+          "t": "Beautiful Savior (Crusader's Hymn)",
+          "a": "Primary"
+        },
+        {
+          "t": "My Heavenly Father Loves Me",
+          "a": "Primary"
+        },
+        {
+          "t": "I Wonder When He Comes Again",
+          "a": "Primary"
+        },
+        {
+          "t": "Come, Thou Fount of Every Blessing",
+          "a": "Hymn"
+        },
+        {
+          "t": "Stars",
+          "a": "Ēriks Ešenvalds"
+        },
+        {
+          "t": "Northern Lights",
+          "a": "Ola Gjeilo"
+        },
+        {
+          "t": "O Magnum Mysterium",
+          "a": "Morten Lauridsen"
+        },
+        {
+          "t": "O Nata Lux",
+          "a": "Morten Lauridsen"
+        },
+        {
+          "t": "Lux aurumque",
+          "a": "Eric Whitacre"
+        },
+        {
+          "t": "Water Night",
+          "a": "Eric Whitacre"
+        },
+        {
+          "t": "Sure on This Shining Night",
+          "a": "Morten Lauridsen"
+        },
+        {
+          "t": "The Heavens Are Telling (The Creation)",
+          "a": "Joseph Haydn"
+        },
+        {
+          "t": "Earth Song",
+          "a": "Frank Ticheli"
+        },
+        {
+          "t": "Shenandoah",
+          "a": "American folk song"
+        },
+        {
+          "t": "Wayfaring Stranger",
+          "a": "American folk song"
+        },
+        {
+          "t": "Ave Maria",
+          "a": "Franz Biebl"
+        },
+        {
+          "t": "Spem in alium",
+          "a": "Thomas Tallis"
+        },
+        {
+          "t": "Sicut cervus",
+          "a": "G. P. da Palestrina"
+        },
+        {
+          "t": "The Lord Is My Shepherd",
+          "a": "John Rutter"
+        },
+        {
+          "t": "O Divine Redeemer",
+          "a": "Charles Gounod"
+        },
+        {
+          "t": "Homeward Bound",
+          "a": "Marta Keen"
+        }
+      ]
+    },
+    {
       "key": "peace",
       "title": "Peace & Comfort",
       "blurb": "Quiet music for grief, worry and late nights.",
@@ -644,15 +772,11 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Holy, Holy, Holy",
           "a": "Reginald Heber",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2f/Byrd_4-Part_Mass_-_Sanctus.ogg/Byrd_4-Part_Mass_-_Sanctus.ogg.mp3",
-          "credit": "Byrd 4-Part Mass - Sanctus.ogg (cc by 3.0)",
           "yt": "2qCmtUhiKcA"
         },
         {
           "t": "Gloria (Vivaldi)",
           "a": "Antonio Vivaldi",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Vivaldi_Gloriapatri_DixitDominus_RV807_Esmuc.ogg/Vivaldi_Gloriapatri_DixitDominus_RV807_Esmuc.ogg.mp3",
-          "credit": "Vivaldi Gloriapatri DixitDominus RV807 Esmuc.ogg (cc by-sa 4.0)",
           "yt": "8ztlrVUMH3A"
         },
         {
@@ -762,8 +886,6 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "The Holy City",
           "a": "Stephen Adams",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/The_Blue_Alsatian_Mountains_by_Michael_Maybrick.ogg/The_Blue_Alsatian_Mountains_by_Michael_Maybrick.ogg.mp3",
-          "credit": "The Blue Alsatian Mountains by Michael Maybrick.ogg (public domain)",
           "yt": "5PAc3krFyQA"
         },
         {
@@ -890,8 +1012,6 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Ave Maria",
           "a": "Franz Schubert",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/Franz_Schubert_-_Ellens_dritter_Gesang.oga/Franz_Schubert_-_Ellens_dritter_Gesang.oga.mp3",
-          "credit": "Franz Schubert - Ellens dritter Gesang.oga (cc by 3.0)",
           "yt": "fi3n-6TRosw"
         },
         {
@@ -1356,8 +1476,6 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Gymnopédie No. 1",
           "a": "Erik Satie",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/90/Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg/Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg.mp3",
-          "credit": "Erik Satie - gymnopedies - la 1 ere. lent et douloureux.ogg (public domain)",
           "yt": "m4oZZhpMXP4"
         },
         {
@@ -2348,8 +2466,6 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Were You There?",
           "a": "Spiritual",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/01._Patrick_Kilpatrick_-_Did_you_jump_or_were_you_dropped.ogg/01._Patrick_Kilpatrick_-_Did_you_jump_or_were_you_dropped.ogg.mp3",
-          "credit": "01. Patrick Kilpatrick - Did you jump or were you dropped.ogg (cc0)",
           "yt": "kN3tYsZb-t0"
         },
         {
