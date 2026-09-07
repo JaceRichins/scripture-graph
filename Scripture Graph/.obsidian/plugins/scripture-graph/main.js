@@ -1,4 +1,4 @@
-/* scripture-graph v0.71.1 build db7d84c3 2026-09-06T23:56:37Z */
+/* scripture-graph v0.71.2 build b43dcefc 2026-09-07T01:02:16Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.71.1", sha: "db7d84c3", at: "2026-09-06T23:56:37Z" };
+    define_SG_BUILD_default = { version: "0.71.2", sha: "b43dcefc", at: "2026-09-07T01:02:16Z" };
   }
 });
 
@@ -5451,10 +5451,40 @@ var init_api = __esm({
       setToken(t) {
         this.token = t;
       }
+      /** other addresses the server has advertised; tried in turn when the
+       * current one cannot be reached (home Wi-Fi → tunnel → funnel …) */
+      candidates = [];
+      /** called with the address that answered, when it differs from baseUrl */
+      onSwitched = null;
+      /** called with the list the server advertised in a response */
+      onAdvertised = null;
+      setCandidates(urls) {
+        this.candidates = urls.filter((u) => u && u !== this.baseUrl);
+      }
+      async fetchWithFallback(path, init) {
+        const tried = [this.baseUrl, ...this.candidates];
+        let lastErr = null;
+        for (const base of tried) {
+          try {
+            const ctl = typeof AbortController !== "undefined" ? new AbortController() : null;
+            const timer2 = ctl ? setTimeout(() => ctl.abort(), base === this.baseUrl ? 6e3 : 8e3) : null;
+            const res = await this.fetchFn(base.replace(/\/$/, "") + path, ctl ? { ...init, signal: ctl.signal } : init);
+            if (timer2) clearTimeout(timer2);
+            if (base !== this.baseUrl) {
+              this.baseUrl = base;
+              this.onSwitched?.(base);
+            }
+            return res;
+          } catch (e) {
+            lastErr = e;
+          }
+        }
+        throw lastErr instanceof Error ? lastErr : new Error("server unreachable");
+      }
       async req(method, path, body) {
         const headers = { "content-type": "application/json" };
         if (this.token) headers["authorization"] = `Bearer ${this.token}`;
-        const res = await this.fetchFn(this.baseUrl.replace(/\/$/, "") + path, {
+        const res = await this.fetchWithFallback(path, {
           method,
           headers,
           body: body === void 0 ? void 0 : JSON.stringify(body)
@@ -5463,7 +5493,13 @@ var init_api = __esm({
         if (res.status >= 400) {
           throw new ApiError(res.status, String(data.error ?? `HTTP ${res.status}`));
         }
+        const urls = data.urls;
+        if (Array.isArray(urls) && urls.every((u) => typeof u === "string")) this.onAdvertised?.(urls);
         return data;
+      }
+      /** ask an address where else the server lives (no login needed) */
+      where() {
+        return this.req("GET", "/where");
       }
       // auth
       claim(invite_code, display_name, device_name) {
@@ -11674,6 +11710,19 @@ var SGState = class {
       };
     };
     this.api = new ApiClient(DEFAULT_SHARED.serverUrl, fetchLike, null);
+    this.api.setCandidates(this.device.serverUrls ?? []);
+    this.api.onAdvertised = (urls) => {
+      const known = new Set(this.device.serverUrls ?? []);
+      const fresh = urls.filter((u) => !known.has(u));
+      if (!fresh.length) return;
+      this.device.serverUrls = [...this.device.serverUrls ?? [], ...fresh].slice(-8);
+      this.api.setCandidates(this.device.serverUrls);
+      void this.saveDevice();
+    };
+    this.api.onSwitched = (url) => {
+      this.notify();
+      console.info("scripture-graph: reached the server at", url);
+    };
   }
   settings = { ...DEFAULT_SHARED };
   device = { ...DEFAULT_DEVICE };
@@ -16997,6 +17046,8 @@ var SGSettingsTab = class extends import_obsidian26.PluginSettingTab {
       if (v) vs.start();
       else vs.stop();
     }));
+    const known = [s.settings.serverUrl, ...s.device.serverUrls ?? []].filter((u, i, a2) => u && a2.indexOf(u) === i);
+    el.createDiv({ cls: "setting-item-description", text: `Reachable at: ${known.join("  \xB7  ")}` });
     new import_obsidian26.Setting(el).setName("Sync now").addButton((b) => b.setButtonText("Sync").onClick(async () => {
       await vs.run("manual");
       paint();
