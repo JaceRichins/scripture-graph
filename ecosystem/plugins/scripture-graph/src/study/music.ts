@@ -37,6 +37,8 @@ export interface PlayItem {
   credit?: string;
   art?: string;
   open?: () => void;
+  /** playlists: a performance (Spotify, the Choir on YouTube) beats the plain recording */
+  preferVideo?: boolean;
 }
 
 type Mode = "audio" | "spotify" | "youtube";
@@ -71,6 +73,11 @@ export class MusicPlayer {
 
   /** how this item would play, if tapped */
   engineFor(it: PlayItem): Mode | null {
+    if (it.preferVideo) {
+      if (this.spotify.connected) return "spotify";
+      if (it.yt) return "youtube";
+      return it.url ? "audio" : null;
+    }
     if (it.url) return "audio";
     if (this.spotify.connected) return "spotify";
     if (it.yt) return "youtube";

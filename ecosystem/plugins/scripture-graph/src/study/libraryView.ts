@@ -416,12 +416,19 @@ export class SGLibraryView extends ItemView {
   private trackItem(tr: Track, byTitle: Map<string, Hymn>, key: string, i: number, art?: string, open?: () => void): PlayItem {
     const inBook = tr.a === "Hymn" || tr.a === "Primary";
     const h = inBook ? byTitle.get(normTitle(tr.t)) : undefined;
-    if (h) return this.hymnItem(h, art, open);
+    if (h) {
+      // in a playlist the Choir's performance leads; the plain recording is the fallback
+      const base = this.hymnItem(h, art, open);
+      const yt = tr.yt || undefined;
+      const how = this.host.music.spotify.connected ? "Spotify" : yt ? "Tabernacle Choir · YouTube" : "Church recording";
+      return { ...base, yt, preferVideo: true, sub: `${this.bookShort(h)} · ${how}`,
+        searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
+    }
     const url = tr.url || undefined;
     const yt = tr.yt || undefined;
-    const how = url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : "opens in your music app";
-    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a}${inBook ? "" : " · " + how}`, url, yt, credit: tr.credit,
-      searchQuery: `${tr.t} ${inBook ? "hymn" : tr.a}`, art, open };
+    const how = this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : url ? "free recording" : "opens in your music app";
+    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url, yt, credit: tr.credit, preferVideo: true,
+      searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`, art, open };
   }
 
   /** one row: number, title, who — tap plays; ⋯ for the rest */

@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.11 build eece25ce 2026-09-07T23:16:36Z */
+/* scripture-graph v0.72.12 build 337694e2 2026-09-07T23:19:40Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.11", sha: "eece25ce", at: "2026-09-07T23:16:36Z" };
+    define_SG_BUILD_default = { version: "0.72.12", sha: "337694e2", at: "2026-09-07T23:19:40Z" };
   }
 });
 
@@ -13101,18 +13101,30 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   trackItem(tr, byTitle, key, i, art, open2) {
     const inBook = tr.a === "Hymn" || tr.a === "Primary";
     const h = inBook ? byTitle.get(normTitle(tr.t)) : void 0;
-    if (h) return this.hymnItem(h, art, open2);
+    if (h) {
+      const base = this.hymnItem(h, art, open2);
+      const yt2 = tr.yt || void 0;
+      const how2 = this.host.music.spotify.connected ? "Spotify" : yt2 ? "Tabernacle Choir \xB7 YouTube" : "Church recording";
+      return {
+        ...base,
+        yt: yt2,
+        preferVideo: true,
+        sub: `${this.bookShort(h)} \xB7 ${how2}`,
+        searchQuery: `${tr.t} The Tabernacle Choir at Temple Square`
+      };
+    }
     const url = tr.url || void 0;
     const yt = tr.yt || void 0;
-    const how = url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : "opens in your music app";
+    const how = this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : url ? "free recording" : "opens in your music app";
     return {
       id: `track:${key}:${i}`,
       title: tr.t,
-      sub: `${tr.a}${inBook ? "" : " \xB7 " + how}`,
+      sub: `${tr.a} \xB7 ${how}`,
       url,
       yt,
       credit: tr.credit,
-      searchQuery: `${tr.t} ${inBook ? "hymn" : tr.a}`,
+      preferVideo: true,
+      searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`,
       art,
       open: open2
     };
@@ -16725,6 +16737,11 @@ var MusicPlayer = class {
   }
   /** how this item would play, if tapped */
   engineFor(it) {
+    if (it.preferVideo) {
+      if (this.spotify.connected) return "spotify";
+      if (it.yt) return "youtube";
+      return it.url ? "audio" : null;
+    }
     if (it.url) return "audio";
     if (this.spotify.connected) return "spotify";
     if (it.yt) return "youtube";
