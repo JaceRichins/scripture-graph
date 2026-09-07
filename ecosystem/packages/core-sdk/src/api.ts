@@ -21,18 +21,51 @@ export class ApiClient {
 
   setToken(t: string | null) { this.token = t; }
 
+  /** other addresses the server has advertised; tried in turn when the
+   * current one cannot be reached (home Wi-Fi → tunnel → funnel …) */
+  candidates: string[] = [];
+  /** called with the address that answered, when it differs from baseUrl */
+  onSwitched: ((url: string) => void) | null = null;
+  /** called with the list the server advertised in a response */
+  onAdvertised: ((urls: string[]) => void) | null = null;
+
+  setCandidates(urls: string[]) { this.candidates = urls.filter(u => u && u !== this.baseUrl); }
+
+  private async fetchWithFallback(path: string, init: RequestInit): Promise<Response> {
+    const tried = [this.baseUrl, ...this.candidates];
+    let lastErr: unknown = null;
+    for (const base of tried) {
+      try {
+        const ctl = typeof AbortController !== "undefined" ? new AbortController() : null;
+        const timer = ctl ? setTimeout(() => ctl.abort(), base === this.baseUrl ? 6000 : 8000) : null;
+        const res = await this.fetchFn(base.replace(/\/$/, "") + path, ctl ? { ...init, signal: ctl.signal } : init);
+        if (timer) clearTimeout(timer);
+        if (base !== this.baseUrl) { this.baseUrl = base; this.onSwitched?.(base); }
+        return res;
+      } catch (e) {
+        lastErr = e;                                   // unreachable: try the next address
+      }
+    }
+    throw lastErr instanceof Error ? lastErr : new Error("server unreachable");
+  }
+
   private async req<T>(method: string, path: string, body?: unknown): Promise<T> {
     const headers: Record<string, string> = { "content-type": "application/json" };
     if (this.token) headers["authorization"] = `Bearer ${this.token}`;
-    const res = await this.fetchFn(this.baseUrl.replace(/\/$/, "") + path, {
+    const res = await this.fetchWithFallback(path, {
       method, headers, body: body === undefined ? undefined : JSON.stringify(body),
     });
     const data = (await res.json().catch(() => ({}))) as Record<string, unknown>;
     if (res.status >= 400) {
       throw new ApiError(res.status, String((data as { error?: string }).error ?? `HTTP ${res.status}`));
     }
+    const urls = (data as { urls?: unknown }).urls;
+    if (Array.isArray(urls) && urls.every(u => typeof u === "string")) this.onAdvertised?.(urls as string[]);
     return data as T;
   }
+
+  /** ask an address where else the server lives (no login needed) */
+  where() { return this.req<{ urls: string[] }>("GET", "/where"); }
 
   // auth
   claim(invite_code: string, display_name: string, device_name: string) {

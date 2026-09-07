@@ -156,7 +156,7 @@ export function buildApp({ db, trustProxy }: BuildOpts): FastifyInstance {
       WHERE gm.user_id=? AND g.deleted_at IS NULL`).all(who.user_id);
     const user = db.prepare("SELECT user_id, display_name, role, created_at FROM users WHERE user_id=?")
       .get(who.user_id);
-    return { user, groups, device_id: who.device_id };
+    return { user, groups, device_id: who.device_id, urls: publicUrls() };
   });
 
   // ---------------------------------------------------------------- groups
@@ -407,6 +407,29 @@ export function buildApp({ db, trustProxy }: BuildOpts): FastifyInstance {
     "main.js": "application/javascript",
     "styles.css": "text/css",
   };
+  // ------------------------------------------------------ public addresses
+  // Every address this server can be reached at: the LAN one, a Cloudflare
+  // quick tunnel (data/public-url.txt, rewritten whenever the tunnel comes
+  // up), a permanent Tailscale Funnel or any other (SG_PUBLIC_URL, comma-
+  // separated). Devices learn the list from any successful call and fall
+  // back through it, so a moved address never strands a phone.
+  const publicUrls = (): string[] => {
+    const out = new Set<string>();
+    for (const u of (process.env["SG_PUBLIC_URL"] ?? "").split(",")) if (u.trim()) out.add(u.trim());
+    try {
+      const f = join(process.env["SG_DATA_DIR"] ?? "data", "public-url.txt");
+      if (existsSync(f)) { const u = readFileSync(f, "utf8").trim(); if (u) out.add(u); }
+    } catch { /* no tunnel */ }
+    for (const u of (process.env["SG_LAN_URL"] ?? "http://192.168.1.59:8930").split(",")) if (u.trim()) out.add(u.trim());
+    return [...out];
+  };
+  // unauthenticated on purpose: a device that only knows one address must be
+  // able to ask "where else are you?" before it can log in
+  app.get("/where", async (req, reply) => {
+    if (!limiter.allow(`ip:${req.ip}:where`, 60, 60_000)) return reply.code(429).send({ error: "rate limited" });
+    return { urls: publicUrls() };
+  });
+
   // ------------------------------------------------------------- vault sync
   // The shared tree, read-only, for every device; each person's Library/
   // two-way. SG_VAULT names the vault folder on this machine.
@@ -420,7 +443,7 @@ export function buildApp({ db, trustProxy }: BuildOpts): FastifyInstance {
     const who = authed(req, reply); if (!who) return;
     if (!haveVault()) return reply.code(503).send({ error: "no vault on this server" });
     const m = manifest(vaultRoot);
-    return { version: m.version, count: m.count, bytes: m.bytes };
+    return { version: m.version, count: m.count, bytes: m.bytes, urls: publicUrls() };
   });
   app.get("/vault/manifest", async (req, reply) => {
     const who = authed(req, reply); if (!who) return;
