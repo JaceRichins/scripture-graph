@@ -7,7 +7,9 @@ Three kinds of link, in the order the player prefers them:
            Creative Commons performance from Wikimedia Commons for the
            classical pieces. Ad-free, no account.
 * `yt`   — a YouTube video id, played in the app's embedded YouTube player
-           (YouTube's own player, visible, as its terms require).
+           (YouTube's own player, visible, as its terms require). Hymns and
+           classics look for The Tabernacle Choir at Temple Square's own
+           upload first; in playlists that beats the plain Church recording.
            Found with the YouTube Data API (key: YOUTUBE_API_KEY in
            .scripture-engine/config/.env, or music.youtube_api_key).
 * nothing — the player searches the listener's own music app.
@@ -81,19 +83,47 @@ def save(ctx: Ctx, raw: str, data: dict) -> None:
 
 # ------------------------------------------------------------ resolvers
 
-def youtube_id(api_key: str, title: str, artist: str) -> str | None:
-    """the best music video for 'title artist' — one Data API search (100 units)"""
-    q = urllib.parse.urlencode({"part": "snippet", "type": "video", "videoCategoryId": "10",
-                                "maxResults": 3, "q": f"{title} {artist}", "key": api_key,
-                                "safeSearch": "strict", "videoEmbeddable": "true"})
+CHOIR = "The Tabernacle Choir at Temple Square"
+_choir_channel: str | None = None
+
+
+def choir_channel(api_key: str) -> str | None:
+    """the Choir's channel id, looked up once per run"""
+    global _choir_channel
+    if _choir_channel:
+        return _choir_channel
+    q = urllib.parse.urlencode({"part": "snippet", "type": "channel", "maxResults": 3, "q": CHOIR, "key": api_key})
     d = _get_json(f"https://www.googleapis.com/youtube/v3/search?{q}")
-    if not d:
+    for it in (d or {}).get("items") or []:
+        title = ((it.get("snippet") or {}).get("channelTitle") or "").lower()
+        if "tabernacle choir" in title:
+            _choir_channel = (it.get("id") or {}).get("channelId")
+            break
+    return _choir_channel
+
+
+def youtube_id(api_key: str, title: str, artist: str, prefer_choir: bool = False) -> str | None:
+    """the best video for the track — the Choir's own upload when it has one
+    (one search on their channel), else the open search (one more)."""
+    def search(q: str, channel: str | None) -> str | None:
+        params = {"part": "snippet", "type": "video", "videoCategoryId": "10", "maxResults": 3, "q": q,
+                  "key": api_key, "safeSearch": "strict", "videoEmbeddable": "true"}
+        if channel:
+            params["channelId"] = channel
+        d = _get_json(f"https://www.googleapis.com/youtube/v3/search?{urllib.parse.urlencode(params)}")
+        for it in (d or {}).get("items") or []:
+            vid = (it.get("id") or {}).get("videoId")
+            if vid:
+                return vid
         return None
-    for it in d.get("items") or []:
-        vid = (it.get("id") or {}).get("videoId")
-        if vid:
-            return vid
-    return None
+    if prefer_choir:
+        ch = choir_channel(api_key)
+        if ch:
+            vid = search(title, ch)
+            if vid:
+                return vid
+        return search(f"{title} {CHOIR}", None)
+    return search(f"{title} {artist}", None)
 
 
 def commons_audio(title: str, artist: str) -> dict | None:
@@ -147,10 +177,9 @@ def resolve(ctx: Ctx, budget: int = 90) -> dict:
     changed = False
     for pl in data.get("playlists") or []:
         for tr in pl.get("tracks") or []:
-            if tr.get("a") in ("Hymn", "Primary"):
-                continue                                   # the Church's recording, from the hymn index
             title, artist = tr.get("t", ""), tr.get("a", "")
-            if "url" not in tr and _CLASSICAL.search(artist):
+            in_book = tr.get("a") in ("Hymn", "Primary")   # the plain Church recording is the fallback
+            if "url" not in tr and not in_book and _CLASSICAL.search(artist):
                 hit = commons_audio(title, artist)
                 tr["url"] = hit["url"] if hit else ""    # "" = looked, nothing free
                 if hit:
@@ -164,8 +193,9 @@ def resolve(ctx: Ctx, budget: int = 90) -> dict:
                 if yt_used >= budget:
                     stats["pending"] += 1
                     continue
-                vid = youtube_id(key, title, artist)
-                yt_used += 1
+                choir = in_book or bool(_CLASSICAL.search(artist))
+                vid = youtube_id(key, title, artist, prefer_choir=choir)
+                yt_used += 2 if choir else 1
                 tr["yt"] = vid or ""
                 if vid:
                     stats["youtube"] += 1
