@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "type": "module",
   "scripts": {
-    "build": "node esbuild.config.mjs",
+    "build": "tsc --noEmit && node esbuild.config.mjs",
     "typecheck": "tsc --noEmit",
     "release:github": "node scripts/gh-release.mjs"
   },
