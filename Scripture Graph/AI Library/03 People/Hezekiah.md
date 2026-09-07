@@ -5,6 +5,7 @@ content_type: person
 cssclasses:
 - sg-person
 sg-id: person:hezekiah
+corpus_version_reviewed: 15
 ---
 
 # Hezekiah
@@ -21,7 +22,31 @@ _Not yet developed._
 
 ## Mentioned In
 <!-- SG:BEGIN mentions -->
-_Not yet developed._
+- [[2 Chronicles 32]] — 20 mentions
+- [[2 Kings 18]] — 17 mentions
+- [[2 Kings 20]] — 16 mentions
+- [[2 Kings 19]] — 9 mentions
+- [[Isaiah 36]] — 9 mentions
+- [[Isaiah 37]] — 9 mentions
+- [[Isaiah 39]] — 8 mentions
+- [[2 Chronicles 29]] — 7 mentions
+- [[2 Chronicles 31]] — 6 mentions
+- [[Isaiah 38]] — 6 mentions
+- [[2 Chronicles 30]] — 5 mentions
+- [[1 Chronicles 3]] — 2 mentions
+- [[Jeremiah 26]] — 2 mentions
+- [[2 Kings 16]] — 1 mention
+- [[2 Kings 21]] — 1 mention
+- [[1 Chronicles 4]] — 1 mention
+- [[2 Chronicles 28]] — 1 mention
+- [[2 Chronicles 33]] — 1 mention
+- [[Ezra 2]] — 1 mention
+- [[Nehemiah 7]] — 1 mention
+- [[Proverbs 25]] — 1 mention
+- [[Isaiah 1]] — 1 mention
+- [[Jeremiah 15]] — 1 mention
+- [[Hosea 1]] — 1 mention
+- [[Micah 1]] — 1 mention
 <!-- SG:END mentions -->
 
 ## Teachings & Conference
