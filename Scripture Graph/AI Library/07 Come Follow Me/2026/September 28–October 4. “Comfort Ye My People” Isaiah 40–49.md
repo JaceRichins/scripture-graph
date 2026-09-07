@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/40
 
 # September 28–October 4. “Comfort Ye My People”: Isaiah 40–49
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/40?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/40?lang=eng)
 
 “September 28–October 4. ‘Comfort Ye My People’: Isaiah 40–49,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

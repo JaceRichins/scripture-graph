@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # January 6–12: “Hearken, O Ye People”: Doctrine and Covenants 1
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/02-doctrine-and-covenants-1?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/02-doctrine-and-covenants-1?lang=eng)
 
 “January 6–12: ‘Hearken, O Ye People’: Doctrine and Covenants 1,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # October 13–19: “His Sacrifice Shall Be More Sacred unto Me Than His Increase”: Doctrine and Covenants 115–120
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/42-doctrine-and-covenants-115-120?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/42-doctrine-and-covenants-115-120?lang=eng)
 
 “October 13–19: ‘His Sacrifice Shall Be More Sacred unto Me Than His Increase’: Doctrine and Covenants 115–120,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/51
 
 # December 14–20. “I Have Loved You, Saith the Lord”: Malachi
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/51?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/51?lang=eng)
 
 “December 14–20. ‘I Have Loved You, Saith the Lord’: Malachi,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

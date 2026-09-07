@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/42
 
 # October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/42?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/42?lang=eng)
 
 “October 12–18. ‘The Redeemer Shall Come to Zion’: Isaiah 58–66,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

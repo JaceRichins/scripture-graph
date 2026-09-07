@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # Voices of the Restoration: Liberty Jail
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43a-voices-of-the-restoration-liberty-jail?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43a-voices-of-the-restoration-liberty-jail?lang=eng)
 
 “Voices of the Restoration: Liberty Jail,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

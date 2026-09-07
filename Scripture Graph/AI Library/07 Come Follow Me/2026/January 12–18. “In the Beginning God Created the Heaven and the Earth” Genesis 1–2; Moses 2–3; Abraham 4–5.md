@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/03
 
 # January 12–18. “In the Beginning God Created the Heaven and the Earth”: Genesis 1–2; Moses 2–3; Abraham 4–5
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/03?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/03?lang=eng)
 
 “January 12–18. ‘In the Beginning God Created the Heaven and the Earth’: Genesis 1–2; Moses 2–3; Abraham 4–5,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

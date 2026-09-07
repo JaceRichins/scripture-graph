@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/55-ap
 
 # Appendix C: For Primary—Instructions for Singing Time and the Children’s Sacrament Meeting Presentation
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/55-appendix-c?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/55-appendix-c?lang=eng)
 
 “Appendix C: For Primary—Instructions for Singing Time and the Children’s Sacrament Meeting Presentation,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

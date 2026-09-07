@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # Voices of the Restoration: Zion’s Camp
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/38a-voices-of-the-restoration-zions-camp?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/38a-voices-of-the-restoration-zions-camp?lang=eng)
 
 “Voices of the Restoration: Zion’s Camp,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

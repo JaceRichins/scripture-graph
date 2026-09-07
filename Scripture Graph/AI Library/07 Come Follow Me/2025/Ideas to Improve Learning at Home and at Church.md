@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # Ideas to Improve Learning at Home and at Church
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/003-ideas-to-improve-learning-at-home-and-at-church?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/003-ideas-to-improve-learning-at-home-and-at-church?lang=eng)
 
 “Ideas to Improve Learning at Home and at Church,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

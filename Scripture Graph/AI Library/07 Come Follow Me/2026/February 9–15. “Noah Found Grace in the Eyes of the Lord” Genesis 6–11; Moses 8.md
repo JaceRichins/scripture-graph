@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/07
 
 # February 9–15. “Noah Found Grace in the Eyes of the Lord”: Genesis 6–11; Moses 8
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/07?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/07?lang=eng)
 
 “February 9–15. ‘Noah Found Grace in the Eyes of the Lord’: Genesis 6–11; Moses 8,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

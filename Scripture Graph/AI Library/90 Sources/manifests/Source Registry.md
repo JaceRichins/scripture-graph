@@ -37,7 +37,7 @@ content_type: manifest
 - **General Conference talks** — Copyrighted; bulk scraping not used. Drop official EPUB/HTML/JSON files into sources/drop/conference/. Vault notes store metadata + citations + brief excerpts; full text stays in the local index only.
 - **Church history materials (e.g. Saints, JS histories)** — Drop EPUB/PDF/HTML into sources/drop/history/. Public-domain 19th-century sources welcome.
 - **The Evening and the Morning Star (1832-1834)** — The Church's first newspaper; earliest printings of many revelations later canonized in the Doctrine and Covenants.
-- **History of the Church (B. H. Roberts ed.)** — Public domain (1902-1912). Documentary history compiled from Joseph Smith's papers; edited by later hands, so treat wording as the 1902 edition's, not necessarily Joseph Smith's.
+- **History of the Church (B. H. Roberts ed.)** — Public domain (1902-1912). Compiled/edited narrative; use with documentary care.
 - **Joseph Smith Papers** — Site terms prohibit bulk copying. Drop permitted local packages/notes into sources/drop/jsp/. Reference records (title/date/URL) are always allowed.
 - **Journal of Discourses (1854-1886)** — Public domain. 26 volumes of reported sermons; reporter accuracy varies — treat as contemporaneous reports, not verbatim transcripts.
 - **Church periodicals 1832-1929 (public domain)** — Millennial Star, Nauvoo Neighbor, The Seer, Zion's Watchman, Evening and Morning Star and more, budgeted nightly (corpus/prophets.py).

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/41
 
 # October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/41?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/41?lang=eng)
 
 “October 5–11. ‘He Hath Borne Our Griefs, and Carried Our Sorrows’: Isaiah 50–57,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

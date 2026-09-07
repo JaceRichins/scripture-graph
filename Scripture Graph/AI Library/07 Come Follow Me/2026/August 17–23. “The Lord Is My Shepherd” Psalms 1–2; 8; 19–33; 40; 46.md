@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/34
 
 # August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/34?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/34?lang=eng)
 
 “August 17–23. ‘The Lord Is My Shepherd’: Psalms 1–2; 8; 19–33; 40; 46,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/24
 
 # June 8–14. “The Lord Looketh on the Heart”: 1 Samuel 8–10; 13; 15–16
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/24?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/24?lang=eng)
 
 “June 8–14. ‘The Lord Looketh on the Heart’: 1 Samuel 8–10; 13; 15–16,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

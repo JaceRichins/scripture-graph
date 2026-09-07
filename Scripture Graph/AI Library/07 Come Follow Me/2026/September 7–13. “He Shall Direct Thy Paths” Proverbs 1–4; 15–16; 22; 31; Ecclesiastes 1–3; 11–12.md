@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/37
 
 # September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/37?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/37?lang=eng)
 
 “September 7–13. ‘He Shall Direct Thy Paths’: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

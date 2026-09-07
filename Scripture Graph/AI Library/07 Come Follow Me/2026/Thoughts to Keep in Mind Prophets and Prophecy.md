@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/37-th
 
 # Thoughts to Keep in Mind: Prophets and Prophecy
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/37-thoughts?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/37-thoughts?lang=eng)
 
 “Thoughts to Keep in Mind: Prophets and Prophecy,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

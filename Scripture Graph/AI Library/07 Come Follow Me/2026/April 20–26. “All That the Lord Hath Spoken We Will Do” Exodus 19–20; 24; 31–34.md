@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/17
 
 # April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/17?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/17?lang=eng)
 
 “April 20–26. ‘All That the Lord Hath Spoken We Will Do’: Exodus 19–20; 24; 31–34,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # December 8–14: “We Believe”: Articles of Faith and Official Declarations 1 and 2
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/50-articles-of-faith-and-official-declarations-1-2?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/50-articles-of-faith-and-official-declarations-1-2?lang=eng)
 
 “December 8–14: ‘We Believe’: Articles of Faith and Official Declarations 1 and 2,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

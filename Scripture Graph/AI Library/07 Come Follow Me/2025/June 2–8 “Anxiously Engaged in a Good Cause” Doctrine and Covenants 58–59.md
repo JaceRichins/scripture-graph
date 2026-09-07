@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # June 2–8: “Anxiously Engaged in a Good Cause”: Doctrine and Covenants 58–59
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/23-doctrine-and-covenants-58-59?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/23-doctrine-and-covenants-58-59?lang=eng)
 
 “June 2–8: ‘Anxiously Engaged in a Good Cause’: Doctrine and Covenants 58–59,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

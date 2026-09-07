@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # September 8–14: “Be Still and Know That I Am God”: Doctrine and Covenants 98–101
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/37-doctrine-and-covenants-98-101?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/37-doctrine-and-covenants-98-101?lang=eng)
 
 “September 8–14: ‘Be Still and Know That I Am God’: Doctrine and Covenants 98–101,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

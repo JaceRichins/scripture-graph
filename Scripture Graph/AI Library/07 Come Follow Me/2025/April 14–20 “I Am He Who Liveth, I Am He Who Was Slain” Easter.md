@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # April 14–20: “I Am He Who Liveth, I Am He Who Was Slain”: Easter
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=eng)
 
 “April 14–20: ‘I Am He Who Liveth, I Am He Who Was Slain’: Easter,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

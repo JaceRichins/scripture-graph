@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/33
 
 # August 10–16. “Yet Will I Trust in Him”: Job 1–3; 12–14; 19; 21–24; 38–40; 42
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/33?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/33?lang=eng)
 
 “August 10–16. ‘Yet Will I Trust in Him’: Job 1–3; 12–14; 19; 21–24; 38–40; 42,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

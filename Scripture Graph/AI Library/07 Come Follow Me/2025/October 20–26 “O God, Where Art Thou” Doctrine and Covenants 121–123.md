@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # October 20–26: “O God, Where Art Thou?”: Doctrine and Covenants 121–123
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43-doctrine-and-covenants-121-123?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/43-doctrine-and-covenants-121-123?lang=eng)
 
 “October 20–26: ‘O God, Where Art Thou?’: Doctrine and Covenants 121–123,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

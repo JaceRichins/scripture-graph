@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/14
 
 # March 30–April 5. “He Will Swallow Up Death in Victory”: Easter
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/14?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/14?lang=eng)
 
 “March 30–April 5. ‘He Will Swallow Up Death in Victory’: Easter,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

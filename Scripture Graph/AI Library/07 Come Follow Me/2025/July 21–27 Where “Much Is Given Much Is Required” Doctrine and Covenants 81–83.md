@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # July 21–27: Where “Much Is Given Much Is Required”: Doctrine and Covenants 81–83
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/30-doctrine-and-covenants-81-83?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/30-doctrine-and-covenants-81-83?lang=eng)
 
 “July 21–27: Where ‘Much Is Given Much Is Required’: Doctrine and Covenants 81–83,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

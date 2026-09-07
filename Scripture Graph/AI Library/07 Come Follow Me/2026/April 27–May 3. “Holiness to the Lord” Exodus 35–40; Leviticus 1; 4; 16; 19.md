@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/18
 
 # April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/18?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/18?lang=eng)
 
 “April 27–May 3. ‘Holiness to the Lord: Exodus 35–40; Leviticus 1; 4; 16; 19,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

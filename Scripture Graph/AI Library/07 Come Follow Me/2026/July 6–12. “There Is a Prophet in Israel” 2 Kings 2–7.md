@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/28
 
 # July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/28?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/28?lang=eng)
 
 “July 6–12. ‘There Is a Prophet in Israel’: 2 Kings 2–7,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

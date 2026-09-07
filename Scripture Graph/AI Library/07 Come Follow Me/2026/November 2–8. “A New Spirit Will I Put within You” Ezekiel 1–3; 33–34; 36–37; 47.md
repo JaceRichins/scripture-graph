@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/45
 
 # November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/45?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/45?lang=eng)
 
 “November 2–8. ‘A New Spirit Will I Put within You’: Ezekiel 1–3; 33–34; 36–37; 47,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

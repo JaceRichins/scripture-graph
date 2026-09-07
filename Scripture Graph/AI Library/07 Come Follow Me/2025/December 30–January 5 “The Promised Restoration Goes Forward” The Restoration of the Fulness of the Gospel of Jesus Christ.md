@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # December 30–January 5: “The Promised Restoration Goes Forward”: The Restoration of the Fulness of the Gospel of Jesus Christ
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/01-the-restoration?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/01-the-restoration?lang=eng)
 
 “December 30–January 5: ‘The Promised Restoration Goes Forward’: The Restoration of the Fulness of the Gospel of Jesus Christ,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

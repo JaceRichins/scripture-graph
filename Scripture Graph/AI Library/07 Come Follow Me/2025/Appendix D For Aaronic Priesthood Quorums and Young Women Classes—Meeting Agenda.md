@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # Appendix D: For Aaronic Priesthood Quorums and Young Women Classes—Meeting Agenda
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/56-appendix-d-for-aaronic-priesthood-quorums-and-young-women-classes-meeting-agenda?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/56-appendix-d-for-aaronic-priesthood-quorums-and-young-women-classes-meeting-agenda?lang=eng)
 
 “Appendix D: For Aaronic Priesthood Quorums and Young Women Classes—Meeting Agenda,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

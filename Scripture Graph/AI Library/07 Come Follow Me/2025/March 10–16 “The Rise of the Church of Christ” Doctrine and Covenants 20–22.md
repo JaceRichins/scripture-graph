@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # March 10–16: “The Rise of the Church of Christ”: Doctrine and Covenants 20–22
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/11-doctrine-and-covenants-20-22?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/11-doctrine-and-covenants-20-22?lang=eng)
 
 “March 10–16, ‘The Rise of the Church of Christ’: Doctrine and Covenants 20–22,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

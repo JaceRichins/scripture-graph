@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/01
 
 # December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/01?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/01?lang=eng)
 
 “December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/11
 
 # March 9–15. “The Lord Was with Joseph”: Genesis 37–41
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/11?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/11?lang=eng)
 
 “March 9–15. ‘The Lord Was with Joseph’: Genesis 37–41,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

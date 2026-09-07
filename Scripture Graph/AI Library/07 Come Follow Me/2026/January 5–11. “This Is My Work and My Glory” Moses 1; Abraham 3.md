@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/02
 
 # January 5–11. “This Is My Work and My Glory”: Moses 1; Abraham 3
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/02?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/02?lang=eng)
 
 “January 5–11. ‘This Is My Work and My Glory’: Moses 1; Abraham 3,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

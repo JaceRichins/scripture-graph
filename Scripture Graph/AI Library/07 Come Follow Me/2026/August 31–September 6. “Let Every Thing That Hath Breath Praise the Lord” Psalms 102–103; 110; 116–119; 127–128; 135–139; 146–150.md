@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/36
 
 # August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/36?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/36?lang=eng)
 
 “August 31–September 6. ‘Let Every Thing That Hath Breath Praise the Lord’”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

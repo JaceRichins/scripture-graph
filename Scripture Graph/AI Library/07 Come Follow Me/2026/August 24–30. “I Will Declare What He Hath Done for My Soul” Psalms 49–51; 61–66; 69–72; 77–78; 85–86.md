@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/35
 
 # August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/35?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/35?lang=eng)
 
 “August 24–30. ‘I Will Declare What He Hath Done for My Soul’: Psalms 49–51; 61–66; 69–72; 77–78; 85–86,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

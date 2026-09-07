@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/08
 
 # February 16–22. “To Be a Greater Follower of Righteousness”: Genesis 12–17; Abraham 1–2
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/08?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/08?lang=eng)
 
 “February 16–22. ‘To Be a Greater Follower of Righteousness’: Genesis 12–17; Abraham 1–2,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

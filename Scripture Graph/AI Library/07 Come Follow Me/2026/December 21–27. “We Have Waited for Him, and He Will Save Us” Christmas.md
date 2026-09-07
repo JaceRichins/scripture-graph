@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/52
 
 # December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/52?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/52?lang=eng)
 
 “December 21–27. ‘We Have Waited for Him, and He Will Save Us’: Christmas,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

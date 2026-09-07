@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/17-th
 
 # Thoughts to Keep in Mind: The Tabernacle and Sacrifice
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/17-thoughts?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/17-thoughts?lang=eng)
 
 “Thoughts to Keep in Mind: The Tabernacle and Sacrifice,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

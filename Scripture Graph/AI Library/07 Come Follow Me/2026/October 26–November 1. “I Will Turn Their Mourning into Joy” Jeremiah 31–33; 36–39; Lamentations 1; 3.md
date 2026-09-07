@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/44
 
 # October 26–November 1. “I Will Turn Their Mourning into Joy”: Jeremiah 31–33; 36–39; Lamentations 1; 3
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/44?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/44?lang=eng)
 
 “October 26–November 1. ‘I Will Turn Their Mourning into Joy’: Jeremiah 31–33; 36–39; Lamentations 1; 3” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

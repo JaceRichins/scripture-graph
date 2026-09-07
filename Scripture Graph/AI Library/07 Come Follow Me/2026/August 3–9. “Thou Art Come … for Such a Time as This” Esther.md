@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/32
 
 # August 3–9. “Thou Art Come … for Such a Time as This”: Esther
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/32?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/32?lang=eng)
 
 “August 3–9. ‘Thou Art Come … for Such a Time as This’: Esther,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

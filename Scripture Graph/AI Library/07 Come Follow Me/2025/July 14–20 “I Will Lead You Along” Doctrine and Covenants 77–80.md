@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # July 14–20: “I Will Lead You Along”: Doctrine and Covenants 77–80
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/29-doctrine-and-covenants-77-80?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/29-doctrine-and-covenants-77-80?lang=eng)
 
 “July 14–20: ‘I Will Lead You Along’: Doctrine and Covenants 77–80,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

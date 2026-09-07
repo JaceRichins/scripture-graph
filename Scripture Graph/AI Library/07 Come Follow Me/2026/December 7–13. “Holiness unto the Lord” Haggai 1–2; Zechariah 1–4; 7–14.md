@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/50
 
 # December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/50?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/50?lang=eng)
 
 “December 7–13. ‘Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14,’ Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

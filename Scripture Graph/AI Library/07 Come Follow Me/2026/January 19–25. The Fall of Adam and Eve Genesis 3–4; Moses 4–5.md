@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/04
 
 # January 19–25. The Fall of Adam and Eve: Genesis 3–4; Moses 4–5
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/04?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/04?lang=eng)
 
 “January 19–25. The Fall of Adam and Eve: Genesis 3–4; Moses 4–5,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

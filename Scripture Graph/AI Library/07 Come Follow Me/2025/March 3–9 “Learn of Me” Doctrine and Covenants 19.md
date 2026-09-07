@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # March 3–9: “Learn of Me”: Doctrine and Covenants 19
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/10-doctrine-and-covenants-19?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/10-doctrine-and-covenants-19?lang=eng)
 
 “March 3–9, ‘Learn of Me,’ Doctrine and Covenants 19,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

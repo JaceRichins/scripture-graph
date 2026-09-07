@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # November 3–9: “A Voice of Gladness for the Living and the Dead”: Doctrine and Covenants 125–128
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/45-doctrine-and-covenants-125-128?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/45-doctrine-and-covenants-125-128?lang=eng)
 
 “November 3–9: ‘A Voice of Gladness for the Living and the Dead: Doctrine and Covenants 125–128,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

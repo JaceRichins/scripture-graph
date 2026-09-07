@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # November 10–16: “I Have Seen Your Sacrifices in Obedience”: Doctrine and Covenants 129–132
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/46-doctrine-and-covenants-129-132?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/46-doctrine-and-covenants-129-132?lang=eng)
 
 “November 10–16: ‘I Have Seen Your Sacrifices in Obedience’: Doctrine and Covenants 129–132,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

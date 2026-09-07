@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/46
 
 # November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/46?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/46?lang=eng)
 
 “November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/53-ap
 
 # Appendix A: For Parents—Preparing Your Children for a Lifetime on God’s Covenant Path
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/53-appendix-a?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/53-appendix-a?lang=eng)
 
 “Appendix A: For Parents—Preparing Your Children for a Lifetime on God’s Covenant Path,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/08-doctrine-and-covenants-12-17?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/08-doctrine-and-covenants-12-17?lang=eng)
 
 “February 17–23: ‘Upon You My Fellow Servants’: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

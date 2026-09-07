@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # August 25–31: “Receive of His Fulness”: Doctrine and Covenants 93
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/35-doctrine-and-covenants-93?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/35-doctrine-and-covenants-93?lang=eng)
 
 “August 25–31: ‘Receive of His Fulness’: Doctrine and Covenants 93,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/07-th
 
 # Thoughts to Keep in Mind: The Covenant
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/07-thoughts?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/07-thoughts?lang=eng)
 
 “Thoughts to Keep in Mind: The Covenant,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

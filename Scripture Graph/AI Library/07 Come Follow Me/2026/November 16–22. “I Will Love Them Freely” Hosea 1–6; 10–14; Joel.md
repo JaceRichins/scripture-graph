@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/47
 
 # November 16–22. “I Will Love Them Freely”: Hosea 1–6; 10–14; Joel
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/47?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/47?lang=eng)
 
 “November 16–22. ‘I Will Love Them Freely’: Hosea 1–6; 10–14; Joel,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/54-appendix-b-for-primary?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/54-appendix-b-for-primary?lang=eng)
 
 “Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/09
 
 # February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/09?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/09?lang=eng)
 
 “February 23–March 1. ‘Is Any Thing Too Hard for the Lord?’: Genesis 18–23,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

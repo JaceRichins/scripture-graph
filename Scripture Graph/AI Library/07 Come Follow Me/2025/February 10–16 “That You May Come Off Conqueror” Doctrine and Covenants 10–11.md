@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # February 10–16: “That You May Come Off Conqueror”: Doctrine and Covenants 10–11
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/07-doctrine-and-covenants-10-11?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/07-doctrine-and-covenants-10-11?lang=eng)
 
 “February 10–16: ‘That You May Come Off Conqueror’: Doctrine and Covenants 10–11,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

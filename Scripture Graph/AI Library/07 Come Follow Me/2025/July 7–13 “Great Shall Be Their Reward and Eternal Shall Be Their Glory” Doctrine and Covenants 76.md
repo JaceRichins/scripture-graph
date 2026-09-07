@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # July 7–13: “Great Shall Be Their Reward and Eternal Shall Be Their Glory”: Doctrine and Covenants 76
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/28-doctrine-and-covenants-76?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/28-doctrine-and-covenants-76?lang=eng)
 
 “July 7–13: ‘Great Shall Be Their Reward and Eternal Shall Be Their Glory’: Doctrine and Covenants 76,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

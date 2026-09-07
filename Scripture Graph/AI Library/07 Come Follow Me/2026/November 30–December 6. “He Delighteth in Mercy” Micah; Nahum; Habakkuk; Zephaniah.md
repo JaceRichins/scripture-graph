@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/49
 
 # November 30–December 6. “He Delighteth in Mercy”: Micah; Nahum; Habakkuk; Zephaniah
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/49?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/49?lang=eng)
 
 “November 30–December 6. ‘He Delighteth in Mercy’: Micah; Nahum; Habakkuk; Zephaniah,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

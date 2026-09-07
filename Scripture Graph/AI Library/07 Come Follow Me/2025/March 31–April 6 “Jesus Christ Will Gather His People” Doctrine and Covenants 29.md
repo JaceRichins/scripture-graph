@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # March 31–April 6: “Jesus Christ Will Gather His People”: Doctrine and Covenants 29
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/14-doctrine-and-covenants-29?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/14-doctrine-and-covenants-29?lang=eng)
 
 “March 31–April 6: ‘Jesus Christ Will Gather His People’: Doctrine and Covenants 29,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

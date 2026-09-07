@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/39
 
 # September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/39?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/39?lang=eng)
 
 “September 21–27. ‘A Marvellous Work and a Wonder’: Isaiah 13–14; 22; 24–30; 35,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

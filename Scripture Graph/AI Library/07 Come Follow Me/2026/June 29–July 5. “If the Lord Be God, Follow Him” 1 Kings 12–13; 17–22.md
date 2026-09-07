@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/27
 
 # June 29–July 5. “If the Lord Be God, Follow Him”: 1 Kings 12–13; 17–22
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/27?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/27?lang=eng)
 
 “June 29–July 5. ‘If the Lord Be God, Follow Him’: 1 Kings 12–13; 17–22,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

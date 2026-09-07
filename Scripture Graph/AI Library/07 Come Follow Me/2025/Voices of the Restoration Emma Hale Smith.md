@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # Voices of the Restoration: Emma Hale Smith
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/12a-voices-of-the-restoration-emma-hale-smith?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/12a-voices-of-the-restoration-emma-hale-smith?lang=eng)
 
 “Voices of the Restoration: Emma Hale Smith,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

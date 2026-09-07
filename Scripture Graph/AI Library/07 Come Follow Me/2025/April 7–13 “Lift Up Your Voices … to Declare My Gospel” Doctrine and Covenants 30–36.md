@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # April 7–13: “Lift Up Your Voices … to Declare My Gospel”: Doctrine and Covenants 30–36
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/15-doctrine-and-covenants-30-36?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/15-doctrine-and-covenants-30-36?lang=eng)
 
 “April 7–13: ‘Lift Up Your Voices…to Declare My Gospel’: Doctrine and Covenants 30–36,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

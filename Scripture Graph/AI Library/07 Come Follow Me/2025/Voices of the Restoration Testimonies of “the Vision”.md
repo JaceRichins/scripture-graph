@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # Voices of the Restoration: Testimonies of “the Vision”
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/28a-voices-of-the-restoration-testimonies-of-the-vision?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/28a-voices-of-the-restoration-testimonies-of-the-vision?lang=eng)
 
 “Voices of the Restoration: Testimonies of ‘the Vision’,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/002-u
 
 # Using Come, Follow Me—For Home and Church
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/002-using?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/002-using?lang=eng)
 
 “Using Come, Follow Me—For Home and Church,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

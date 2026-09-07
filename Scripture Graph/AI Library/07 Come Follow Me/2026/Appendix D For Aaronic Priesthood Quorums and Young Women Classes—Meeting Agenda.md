@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/56-ap
 
 # Appendix D: For Aaronic Priesthood Quorums and Young Women Classes—Meeting Agenda
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/56-appendix-d?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/56-appendix-d?lang=eng)
 
 “Appendix D: For Aaronic Priesthood Quorums and Young Women Classes—Meeting Agenda,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

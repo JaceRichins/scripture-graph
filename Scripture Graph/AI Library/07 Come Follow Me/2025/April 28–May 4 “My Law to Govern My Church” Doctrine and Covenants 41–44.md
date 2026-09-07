@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # April 28–May 4: “My Law to Govern My Church”: Doctrine and Covenants 41–44
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/18-doctrine-and-covenants-41-44?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/18-doctrine-and-covenants-41-44?lang=eng)
 
 “April 28–May 4: ‘My Law to Govern My Church’: Doctrine and Covenants 41–44,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

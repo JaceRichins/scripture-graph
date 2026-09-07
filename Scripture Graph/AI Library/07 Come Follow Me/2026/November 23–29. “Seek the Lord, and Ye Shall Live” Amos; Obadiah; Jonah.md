@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/48
 
 # November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/48?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/48?lang=eng)
 
 “November 23–29. ‘Seek the Lord, and Ye Shall Live’: Amos; Obadiah; Jonah,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

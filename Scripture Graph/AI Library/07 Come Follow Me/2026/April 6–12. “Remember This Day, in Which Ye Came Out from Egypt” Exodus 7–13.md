@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/15
 
 # April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/15?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/15?lang=eng)
 
 “April 6–12. ‘Remember This Day, in Which Ye Came Out from Egypt’: Exodus 7–13,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

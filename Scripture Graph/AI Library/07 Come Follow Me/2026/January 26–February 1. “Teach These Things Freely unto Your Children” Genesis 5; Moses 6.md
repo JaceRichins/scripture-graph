@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/05
 
 # January 26–February 1. “Teach These Things Freely unto Your Children”: Genesis 5; Moses 6
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/05?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/05?lang=eng)
 
 “January 26–February 1. ‘Teach These Things Freely unto Your Children’: Genesis 5; Moses 6,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 

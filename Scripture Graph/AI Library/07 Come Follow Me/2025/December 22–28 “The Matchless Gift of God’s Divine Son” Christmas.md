@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # December 22–28: “The Matchless Gift of God’s Divine Son”: Christmas
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/52-christmas?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/52-christmas?lang=eng)
 
 “December 22–28: ‘The Matchless Gift of God’s Divine Son,’” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

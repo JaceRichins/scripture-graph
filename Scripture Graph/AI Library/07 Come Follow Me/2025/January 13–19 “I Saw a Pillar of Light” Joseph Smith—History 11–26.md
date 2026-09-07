@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # January 13–19: “I Saw a Pillar of Light”: Joseph Smith—History 1:1–26
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/03-joseph-smith-history-01?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/03-joseph-smith-history-01?lang=eng)
 
 “January 13–19: ‘I Saw a Pillar of Light’: Joseph Smith—History 1:1–26,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2
 
 # October 6–12: “I Will Order All Things for Your Good”: Doctrine and Covenants 111–114
 
-*Cfm 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/41-doctrine-and-covenants-111-114?lang=eng)
+*Come, Follow Me 2025* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/41-doctrine-and-covenants-111-114?lang=eng)
 
 “October 6–12: ‘I Will Order All Things for Your Good’: Doctrine and Covenants 111–114,” Come, Follow Me—For Home and Church: Doctrine and Covenants 2025 (2025)
 

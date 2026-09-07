@@ -9,7 +9,7 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/31
 
 # July 27–August 2. “I Am Doing a Great Work”: Ezra 1; 3–7; Nehemiah 2; 4–6; 8
 
-*Cfm 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/31?lang=eng)
+*Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/31?lang=eng)
 
 “July 27–August 2. ‘I Am Doing a Great Work’: Ezra 1; 3–7; Nehemiah 2; 4–6; 8,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
 
