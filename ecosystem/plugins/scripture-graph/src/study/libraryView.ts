@@ -27,6 +27,8 @@ type LibView =
   | { kind: "timelines" }
   | { kind: "questions" }
   | { kind: "hymns" }
+  | { kind: "music" }
+  | { kind: "playlist"; key: string; title: string }
   | { kind: "folder"; path: string; title: string };
 
 /** blur whatever is focused inside `root` and tell the layout the keyboard
@@ -52,7 +54,7 @@ const COVER_ALIAS: Record<string, string> = {
   "scriptures": "bible", "secondary-sources": "podcast", "reference": "dictionary", "topical-guide": "dictionary",
   "essays": "scholarship", "true-to-the-faith": "doctrine", "ai-study-guides": "hub",
   "sources": "papers", "manifests": "papers", "source-notes": "papers", "periodicals": "periodicals",
-  "harold-b-lee": "teachings",
+  "harold-b-lee": "teachings", "music": "hymns",
 };
 function coverKey(name: string): string {
   const slug = name.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -71,6 +73,16 @@ const CFM_FOLDER = `${LIBRARY_PREFIX}07 Come Follow Me`;
 const HYMNS_PATH = "AI Library/00 System/Hymns.md";
 interface Hymn { uri: string; title: string; n: number | null; url: string;
   audio?: { vocal?: string; accompaniment?: string; other?: string } }
+
+/** the Music shelf's playlists (see the note's own header) */
+const MUSIC_PATH = "AI Library/00 System/Music.md";
+interface Track { t: string; a: string }
+interface Playlist { key: string; title: string; blurb?: string; cover?: string; tracks: Track[] }
+
+/** loose title match: "Abide with Me!" ~ "abide with me" */
+function normTitle(t: string): string {
+  return t.toLowerCase().replace(/’/g, "'").replace(/[^a-z0-9]+/g, " ").trim();
+}
 
 /** the Did-you-notice pool (see the note's own header) */
 const INSIGHTS_PATH = "AI Library/00 System/Insights.md";
@@ -181,10 +193,12 @@ export class SGLibraryView extends ItemView {
     this.render();
   }
 
-  dockSlotHymns(): boolean { return this.view.kind === "hymns"; }
+  dockSlotHymns(): boolean { return this.view.kind === "hymns" || this.view.kind === "playlist"; }
 
   private title(): string {
     if (this.view.kind === "hymns") return "Hymns";
+    if (this.view.kind === "music") return "Music";
+    if (this.view.kind === "playlist") return this.view.title;
     const v = this.view;
     return v.kind === "home" ? "Library"
       : v.kind === "scriptures" ? "Scriptures"
@@ -228,6 +242,8 @@ export class SGLibraryView extends ItemView {
     else if (v.kind === "timelines") this.renderTimelines(body);
     else if (v.kind === "questions") this.renderQuestions(body);
     else if (v.kind === "hymns") void this.renderHymns(body);
+    else if (v.kind === "music") void this.renderMusic(body);
+    else if (v.kind === "playlist") void this.renderPlaylist(body, v.key);
     else this.renderFolder(body, v.path);
   }
 
@@ -441,6 +457,100 @@ export class SGLibraryView extends ItemView {
     m.showAtMouseEvent(new MouseEvent("click", { clientX: window.innerWidth / 2, clientY: window.innerHeight / 2 }));
   }
 
+
+  // ------------------------------------------------------------------ music
+
+  private async loadHymns(): Promise<Hymn[]> {
+    const f = this.app.vault.getAbstractFileByPath(HYMNS_PATH);
+    if (!(f instanceof TFile)) return [];
+    try {
+      const m = /```json\s*([\s\S]*?)```/.exec(await this.app.vault.cachedRead(f));
+      return m ? (JSON.parse(m[1]!) as Hymn[]) : [];
+    } catch { return []; }
+  }
+
+  private async loadPlaylists(): Promise<Playlist[]> {
+    const f = this.app.vault.getAbstractFileByPath(MUSIC_PATH);
+    if (!(f instanceof TFile)) return [];
+    try {
+      const m = /```json\s*([\s\S]*?)```/.exec(await this.app.vault.cachedRead(f));
+      return m ? ((JSON.parse(m[1]!) as { playlists?: Playlist[] }).playlists ?? []) : [];
+    } catch { return []; }
+  }
+
+  /** the shelf: Hymns first, then the playlists, as covers */
+  private async renderMusic(c: HTMLElement): Promise<void> {
+    const lists = await this.loadPlaylists();
+    if (!c.isConnected) return;
+    this.coverSeq = 0;
+    const grid = c.createDiv({ cls: "sg-nav-covers" });
+    this.cover(grid, { icon: "podcast", label: "Hymns", photo: "hymnbook", onTap: () => this.go({ kind: "hymns" }) });
+    for (const pl of lists) {
+      this.cover(grid, { icon: "podcast", label: pl.title, photo: pl.cover ?? `music-${pl.key}`,
+        onTap: () => this.go({ kind: "playlist", key: pl.key, title: pl.title }) });
+    }
+    if (!lists.length) c.createDiv({ cls: "sg-nav-empty", text: "The playlists have not synced yet." });
+  }
+
+  /** one playlist: numbered rows; tap → play the Church recording (hymns)
+   * or open the song on a streaming service; titles only, never words */
+  private async renderPlaylist(c: HTMLElement, key: string): Promise<void> {
+    const [lists, hymns] = await Promise.all([this.loadPlaylists(), this.loadHymns()]);
+    if (!c.isConnected) return;
+    const pl = lists.find(l => l.key === key);
+    if (!pl) { c.createDiv({ cls: "sg-nav-empty", text: "That playlist is gone." }); return; }
+    const byTitle = new Map<string, Hymn>();
+    for (const h of hymns) byTitle.set(normTitle(h.title), h);
+    if (pl.blurb) c.createDiv({ cls: "sg-nav-intro", text: pl.blurb });
+    const now = c.createDiv({ cls: "sg-hymn-now" });
+    const list = c.createDiv({ cls: "sg-nav-list" });
+    let open: number | null = null;
+    const render = () => {
+      list.empty();
+      pl.tracks.forEach((tr, i) => {
+        const hymn = tr.a === "Hymn" ? byTitle.get(normTitle(tr.t)) ?? null : null;
+        const uri = hymn?.uri ?? `track:${key}:${i}`;
+        const playing = this.hymnPlaying === uri;
+        const row = list.createDiv({ cls: "sg-nav-row sg-hymn-row" });
+        cascade(row, i);
+        row.createSpan({ cls: "sg-hymn-n", text: String(i + 1) });
+        const col = row.createDiv({ cls: "sg-nav-gcol" });
+        col.createDiv({ cls: "sg-nav-name", text: tr.t });
+        col.createDiv({ cls: "sg-nav-gsub", text: hymn ? `Hymn${hymn.n ? " " + hymn.n : ""} · Church recording` : tr.a });
+        if (playing) row.createSpan({ cls: "sg-hymn-eq", text: "▶" });
+        row.toggleClass("sg-hymn-on", playing);
+        row.toggleClass("sg-hymn-open", open === i);
+        row.onclick = () => { open = open === i ? null : i; render(); };
+        if (open === i) {
+          const strip = list.createDiv({ cls: "sg-hymn-strip" });
+          const btn = (label: string, main: boolean, fn: () => void) => {
+            const b = strip.createEl("button", { cls: `sg-hymn-door${main ? " sg-hymn-door-main" : ""}`, text: label });
+            b.onclick = (e) => { e.stopPropagation(); fn(); };
+          };
+          const a = hymn?.audio ?? {};
+          if (playing) btn("■ Stop", true, () => this.stopHymn(render));
+          else if (hymn && (a.vocal || a.accompaniment)) {
+            if (a.vocal) btn("▶ Sing along", true, () => this.startHymn(hymn, a.vocal!, render));
+            if (a.accompaniment) btn("🎹 Accompaniment", !a.vocal, () => this.startHymn(hymn, a.accompaniment!, render));
+          }
+          const q = encodeURIComponent(`${tr.t} ${tr.a === "Hymn" ? "hymn" : tr.a}`);
+          btn("Spotify", !hymn, () => window.open(`https://open.spotify.com/search/${q}`, "_blank"));
+          btn("Apple Music", false, () => window.open(`https://music.apple.com/us/search?term=${q}`, "_blank"));
+          btn("YouTube", false, () => window.open(`https://www.youtube.com/results?search_query=${q}`, "_blank"));
+          if (hymn) btn("Words ↗", false, () => window.open(hymn.url, "_blank"));
+        }
+      });
+      now.empty();
+      const cur = this.hymnPlaying ? hymns.find(x => x.uri === this.hymnPlaying) : null;
+      if (cur) {
+        now.createSpan({ cls: "sg-hymn-now-t", text: `▶ ${cur.n ? cur.n + " · " : ""}${cur.title}` });
+        const st = now.createEl("button", { cls: "sg-hymn-door", text: "■ Stop" });
+        st.onclick = () => this.stopHymn(render);
+      }
+    };
+    render();
+  }
+
   // ------------------------------------------------------- did you notice?
 
   private insightPool: Insight[] | null = null;
@@ -599,8 +709,8 @@ export class SGLibraryView extends ItemView {
     this.cover(grid, { icon: "question", label: "Hard Questions",
       onTap: () => this.go({ kind: "questions" }) });
     if (this.app.vault.getAbstractFileByPath(HYMNS_PATH)) {
-      this.cover(grid, { icon: "podcast", label: "Hymns", photo: "hymns",
-        onTap: () => this.go({ kind: "hymns" }) });
+      this.cover(grid, { icon: "podcast", label: "Music", photo: "hymns",
+        onTap: () => this.go({ kind: "music" }) });
     }
     for (const s of LIBRARY_SECTIONS) {
       const l = this.host.listFolder(s.path);

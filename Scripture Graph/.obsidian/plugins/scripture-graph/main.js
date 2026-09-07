@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.7 build 3b3d26a0 2026-09-07T21:06:20Z */
+/* scripture-graph v0.72.8 build ebc18f01 2026-09-07T21:14:47Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.7", sha: "3b3d26a0", at: "2026-09-07T21:06:20Z" };
+    define_SG_BUILD_default = { version: "0.72.8", sha: "ebc18f01", at: "2026-09-07T21:14:47Z" };
   }
 });
 
@@ -12778,7 +12778,8 @@ var COVER_ALIAS = {
   "manifests": "papers",
   "source-notes": "papers",
   "periodicals": "periodicals",
-  "harold-b-lee": "teachings"
+  "harold-b-lee": "teachings",
+  "music": "hymns"
 };
 function coverKey(name) {
   const slug = name.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -12787,6 +12788,10 @@ function coverKey(name) {
 var CFM_PATH = "AI Library/00 System/Come Follow Me.md";
 var CFM_FOLDER = `${LIBRARY_PREFIX}07 Come Follow Me`;
 var HYMNS_PATH = "AI Library/00 System/Hymns.md";
+var MUSIC_PATH = "AI Library/00 System/Music.md";
+function normTitle(t) {
+  return t.toLowerCase().replace(/’/g, "'").replace(/[^a-z0-9]+/g, " ").trim();
+}
 var INSIGHTS_PATH = "AI Library/00 System/Insights.md";
 var COVERS_PATH = "AI Library/00 System/covers";
 var QUESTIONS_PATH = "AI Library/50 Questions";
@@ -12882,10 +12887,12 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     this.render();
   }
   dockSlotHymns() {
-    return this.view.kind === "hymns";
+    return this.view.kind === "hymns" || this.view.kind === "playlist";
   }
   title() {
     if (this.view.kind === "hymns") return "Hymns";
+    if (this.view.kind === "music") return "Music";
+    if (this.view.kind === "playlist") return this.view.title;
     const v = this.view;
     return v.kind === "home" ? "Library" : v.kind === "scriptures" ? "Scriptures" : v.kind === "books" ? v.volume : v.kind === "chapters" ? v.book.name : v.kind === "graphs" ? "Graphs" : v.kind === "timelines" ? "Timelines" : v.kind === "questions" ? "Hard Questions" : v.title;
   }
@@ -12912,6 +12919,8 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     else if (v.kind === "timelines") this.renderTimelines(body);
     else if (v.kind === "questions") this.renderQuestions(body);
     else if (v.kind === "hymns") void this.renderHymns(body);
+    else if (v.kind === "music") void this.renderMusic(body);
+    else if (v.kind === "playlist") void this.renderPlaylist(body, v.key);
     else this.renderFolder(body, v.path);
   }
   /** which dock door this page sits behind */
@@ -13137,6 +13146,111 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     m2.addItem((i) => i.setTitle("YouTube").setIcon("play").onClick(() => window.open(`https://www.youtube.com/results?search_query=${q}`, "_blank")));
     m2.showAtMouseEvent(new MouseEvent("click", { clientX: window.innerWidth / 2, clientY: window.innerHeight / 2 }));
   }
+  // ------------------------------------------------------------------ music
+  async loadHymns() {
+    const f = this.app.vault.getAbstractFileByPath(HYMNS_PATH);
+    if (!(f instanceof import_obsidian4.TFile)) return [];
+    try {
+      const m2 = /```json\s*([\s\S]*?)```/.exec(await this.app.vault.cachedRead(f));
+      return m2 ? JSON.parse(m2[1]) : [];
+    } catch {
+      return [];
+    }
+  }
+  async loadPlaylists() {
+    const f = this.app.vault.getAbstractFileByPath(MUSIC_PATH);
+    if (!(f instanceof import_obsidian4.TFile)) return [];
+    try {
+      const m2 = /```json\s*([\s\S]*?)```/.exec(await this.app.vault.cachedRead(f));
+      return m2 ? JSON.parse(m2[1]).playlists ?? [] : [];
+    } catch {
+      return [];
+    }
+  }
+  /** the shelf: Hymns first, then the playlists, as covers */
+  async renderMusic(c2) {
+    const lists = await this.loadPlaylists();
+    if (!c2.isConnected) return;
+    this.coverSeq = 0;
+    const grid = c2.createDiv({ cls: "sg-nav-covers" });
+    this.cover(grid, { icon: "podcast", label: "Hymns", photo: "hymnbook", onTap: () => this.go({ kind: "hymns" }) });
+    for (const pl of lists) {
+      this.cover(grid, {
+        icon: "podcast",
+        label: pl.title,
+        photo: pl.cover ?? `music-${pl.key}`,
+        onTap: () => this.go({ kind: "playlist", key: pl.key, title: pl.title })
+      });
+    }
+    if (!lists.length) c2.createDiv({ cls: "sg-nav-empty", text: "The playlists have not synced yet." });
+  }
+  /** one playlist: numbered rows; tap → play the Church recording (hymns)
+   * or open the song on a streaming service; titles only, never words */
+  async renderPlaylist(c2, key) {
+    const [lists, hymns] = await Promise.all([this.loadPlaylists(), this.loadHymns()]);
+    if (!c2.isConnected) return;
+    const pl = lists.find((l) => l.key === key);
+    if (!pl) {
+      c2.createDiv({ cls: "sg-nav-empty", text: "That playlist is gone." });
+      return;
+    }
+    const byTitle = /* @__PURE__ */ new Map();
+    for (const h of hymns) byTitle.set(normTitle(h.title), h);
+    if (pl.blurb) c2.createDiv({ cls: "sg-nav-intro", text: pl.blurb });
+    const now2 = c2.createDiv({ cls: "sg-hymn-now" });
+    const list = c2.createDiv({ cls: "sg-nav-list" });
+    let open2 = null;
+    const render = () => {
+      list.empty();
+      pl.tracks.forEach((tr, i) => {
+        const hymn = tr.a === "Hymn" ? byTitle.get(normTitle(tr.t)) ?? null : null;
+        const uri = hymn?.uri ?? `track:${key}:${i}`;
+        const playing = this.hymnPlaying === uri;
+        const row = list.createDiv({ cls: "sg-nav-row sg-hymn-row" });
+        cascade(row, i);
+        row.createSpan({ cls: "sg-hymn-n", text: String(i + 1) });
+        const col = row.createDiv({ cls: "sg-nav-gcol" });
+        col.createDiv({ cls: "sg-nav-name", text: tr.t });
+        col.createDiv({ cls: "sg-nav-gsub", text: hymn ? `Hymn${hymn.n ? " " + hymn.n : ""} \xB7 Church recording` : tr.a });
+        if (playing) row.createSpan({ cls: "sg-hymn-eq", text: "\u25B6" });
+        row.toggleClass("sg-hymn-on", playing);
+        row.toggleClass("sg-hymn-open", open2 === i);
+        row.onclick = () => {
+          open2 = open2 === i ? null : i;
+          render();
+        };
+        if (open2 === i) {
+          const strip = list.createDiv({ cls: "sg-hymn-strip" });
+          const btn = (label, main, fn) => {
+            const b = strip.createEl("button", { cls: `sg-hymn-door${main ? " sg-hymn-door-main" : ""}`, text: label });
+            b.onclick = (e) => {
+              e.stopPropagation();
+              fn();
+            };
+          };
+          const a2 = hymn?.audio ?? {};
+          if (playing) btn("\u25A0 Stop", true, () => this.stopHymn(render));
+          else if (hymn && (a2.vocal || a2.accompaniment)) {
+            if (a2.vocal) btn("\u25B6 Sing along", true, () => this.startHymn(hymn, a2.vocal, render));
+            if (a2.accompaniment) btn("\u{1F3B9} Accompaniment", !a2.vocal, () => this.startHymn(hymn, a2.accompaniment, render));
+          }
+          const q = encodeURIComponent(`${tr.t} ${tr.a === "Hymn" ? "hymn" : tr.a}`);
+          btn("Spotify", !hymn, () => window.open(`https://open.spotify.com/search/${q}`, "_blank"));
+          btn("Apple Music", false, () => window.open(`https://music.apple.com/us/search?term=${q}`, "_blank"));
+          btn("YouTube", false, () => window.open(`https://www.youtube.com/results?search_query=${q}`, "_blank"));
+          if (hymn) btn("Words \u2197", false, () => window.open(hymn.url, "_blank"));
+        }
+      });
+      now2.empty();
+      const cur = this.hymnPlaying ? hymns.find((x3) => x3.uri === this.hymnPlaying) : null;
+      if (cur) {
+        now2.createSpan({ cls: "sg-hymn-now-t", text: `\u25B6 ${cur.n ? cur.n + " \xB7 " : ""}${cur.title}` });
+        const st = now2.createEl("button", { cls: "sg-hymn-door", text: "\u25A0 Stop" });
+        st.onclick = () => this.stopHymn(render);
+      }
+    };
+    render();
+  }
   // ------------------------------------------------------- did you notice?
   insightPool = null;
   async loadInsights() {
@@ -13304,9 +13418,9 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     if (this.app.vault.getAbstractFileByPath(HYMNS_PATH)) {
       this.cover(grid, {
         icon: "podcast",
-        label: "Hymns",
+        label: "Music",
         photo: "hymns",
-        onTap: () => this.go({ kind: "hymns" })
+        onTap: () => this.go({ kind: "music" })
       });
     }
     for (const s of LIBRARY_SECTIONS) {
