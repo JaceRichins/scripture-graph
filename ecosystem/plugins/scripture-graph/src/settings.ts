@@ -36,6 +36,8 @@ export class SGSettingsTab extends PluginSettingTab {
         await s.saveDevice();
         if (v) vs.start(); else vs.stop();
       }));
+    const known = [s.settings.serverUrl, ...(s.device.serverUrls ?? [])].filter((u, i, a) => u && a.indexOf(u) === i);
+    el.createDiv({ cls: "setting-item-description", text: `Reachable at: ${known.join("  ·  ")}` });
     new Setting(el).setName("Sync now").addButton(b => b.setButtonText("Sync").onClick(async () => {
       await vs.run("manual"); paint();
     }));

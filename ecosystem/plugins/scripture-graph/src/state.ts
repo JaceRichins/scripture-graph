@@ -75,6 +75,8 @@ export interface DeviceState {
   insightStep?: number;
   /** what the Home badge has already shown: the Come Follow Me week and the insight day */
   seen?: { cfmWeek?: string; insightDay?: number };
+  /** every address the server has said it is reachable at (learned) */
+  serverUrls?: string[];
   /** vault sync: on/off, which shelves this device carries, how often */
   sync?: { enabled?: boolean; sections?: Record<string, boolean>; intervalMin?: number };
   /** ambient reading scene: "none" | "auto" | "match" | scene id */
@@ -149,6 +151,18 @@ export class SGState {
       };
     };
     this.api = new ApiClient(DEFAULT_SHARED.serverUrl, fetchLike, null);
+    // addresses the server advertises (tunnel, funnel, LAN) — learned, kept,
+    // and tried in turn when the current one cannot be reached
+    this.api.setCandidates(this.device.serverUrls ?? []);
+    this.api.onAdvertised = (urls) => {
+      const known = new Set(this.device.serverUrls ?? []);
+      const fresh = urls.filter(u => !known.has(u));
+      if (!fresh.length) return;
+      this.device.serverUrls = [...(this.device.serverUrls ?? []), ...fresh].slice(-8);
+      this.api.setCandidates(this.device.serverUrls);
+      void this.saveDevice();
+    };
+    this.api.onSwitched = (url) => { this.notify(); console.info("scripture-graph: reached the server at", url); };
   }
 
   async loadDevice(): Promise<void> {
