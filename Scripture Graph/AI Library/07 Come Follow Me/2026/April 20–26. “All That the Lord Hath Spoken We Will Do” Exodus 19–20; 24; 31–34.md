@@ -77,6 +77,10 @@ President Russell M. Nelson explained: “In my much younger years, I studied th
 
 When Moses came down from the mountain, he brought the law written on stone tables. After finding that the Israelites had broken their covenant, Moses broke the tables (see [[Exodus 31#^ex-31-18|Exodus 31:18]]; [[Exodus 32#^ex-32-19|32:19]]). Later, God commanded Moses to make another set of stone tables and take them back to the mountain (see [[Exodus 34#^ex-34-1|Exodus 34:1–4]]). The [Joseph Smith Translation of Exodus 34:1–2](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-ex/34?lang=eng) (in the Bible appendix) clarifies that the first set of stone tables included the ordinances of God’s “holy order,” or the Melchizedek Priesthood. The second set included “the law of a carnal commandment.” This was a lesser law administered by the “lesser priesthood” (see [[D&C 84#^dc-84-17|Doctrine and Covenants 84:17–27]]), which was meant to prepare the Israelites for the higher law and higher priesthood so they could enter into God’s presence.
 
+> For teachers
+
+> For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+
 ### Scripture Helps
 
 [What was significant about the Israelites’ unwillingness to have God speak directly to them?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/15-exodus-19-20-24-31-34?lang=eng)
@@ -116,3 +120,7 @@ Your children might enjoy looking at examples of signs—such as road signs or s
 Consider using “[Moses on Mount Sinai](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/moses-on-mount-sinai?lang=eng)” (in *Old Testament Stories*, 77–82) to help your children learn the story in [[Exodus 32#^ex-32-1|Exodus 32:1–8, 19–24]]. Why was it wrong for the Israelites to worship a statue instead of God?
 
 It might be fun to create a path on the floor (or find one near your home) to illustrate these words from [[Exodus 32#^ex-32-8|Exodus 32:8]]: “They have turned aside quickly out of the way.” While walking on the path, your children could talk about temptations we face to turn away from God. What helps us remain on God’s path—and return to it if we have strayed? (see [[Exodus 34#^ex-34-6|Exodus 34:6–7]]).
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

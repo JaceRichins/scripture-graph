@@ -159,6 +159,10 @@ See also Reyna I. Aburto, “[[AI Library/10 General Conference/2021/April/The G
 
 What do you learn from the following verses about the price Jesus Christ paid for your salvation: [[Isaiah 53#^isa-53-3|Isaiah 53:3–5]]; [[Mosiah 3#^mosiah-3-7|Mosiah 3:7]]; [[D&C 19#^dc-19-16|Doctrine and Covenants 19:16–19]]? What price did Heavenly Father pay? (see [[John 3#^john-3-16|John 3:16]]).
 
+> For teachers
+
+> For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+
 ## Ideas for Teaching Children
 
 ### Jesus Christ suffered and died for me.
@@ -173,8 +177,16 @@ You could use this week’s activity page or other pictures in this outline to t
 
 Consider how you will help your children find joy in Christ this Easter. For example, you could sing together a favorite Easter hymn, such as “[Christ the Lord Is Risen Today](https://www.churchofjesuschrist.org/study/manual/hymns/christ-the-lord-is-risen-today?lang=eng)” (*Hymns*, no. 200) or “Gethsemane” (Gospel Library). To find other songs about the Resurrection, you could look in the topical index of [Hymns](https://www.churchofjesuschrist.org/study/manual/hymns/topics?lang=eng) and [Children’s Songbook](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/topics?lang=eng). You and your children could share with each other why you like these songs and how you feel when you sing them. What do these songs teach us about Heavenly Father and Jesus Christ?
 
+> For teachers
+
+> Children can feel the Spirit but may need help recognizing His influence. “Teach children about the different ways the Spirit communicates with us. Help them recognize His voice as He speaks to them. This will help them develop a habit of seeking and acting on personal revelation throughout their lives” (*Teaching in the Savior’s Way*, [32](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/13-suggestions-for-a-variety-of-teaching?lang=eng)). For example, as you sing songs about the Savior with your children, look at pictures of Him, or read stories about Him, share with each other the spiritual feelings you have.
+
 Gospel Library has a collection of [Easter videos](https://www.churchofjesuschrist.org/study/video/easter-videos) that your children might enjoy. Maybe you could let them pick one to watch. Ask them what they learn about Jesus Christ from the video. You might also ask them to summarize the message of the video in one sentence.
 
 ### Prophets testify of Jesus Christ and His Atonement.
 
 As you and your children watch general conference together this Easter weekend, help them notice when the Savior’s special witnesses bear testimony of the Resurrection. Perhaps you could make a game of it—invite them to stand every time they hear words like *Easter* or *Atonement* or *Resurrection*. Share with each other why you’re grateful for the living prophets’ testimonies of the Savior.
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

@@ -91,6 +91,10 @@ To help your children understand [[Amos 3#^amos-3-7|Amos 3:7]], you could whispe
 
 To learn more about what prophets do, you and your children could review [recent messages from the current President of the Church](https://www.churchofjesuschrist.org/study/books-and-lessons/teachings-of-presidents). You could also sing a song like “[Follow the Prophet](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/follow-the-prophet?lang=eng)” (*Children’s Songbook*, 110–11). Share with each other why you choose to follow God’s prophet.
 
+> For teachers
+
+> Help children memorize scriptures. Elder Richard G. Scott shared: “To memorize a scripture is to forge a new friendship. It is like discovering a new individual who can help in time of need, give inspiration and comfort, and be a source of motivation for needed change” (“[[AI Library/10 General Conference/2011/October/The Power of Scripture (Elder Richard G. Scott, October 2011)|The Power of Scripture]],” *Ensign*, Nov. 2011, 6). To help your children memorize all or part of [[Amos 3#^amos-3-7|Amos 3:7]], you could write it down and repeat it together. Then you could erase or cover a few words at a time until your children can repeat the entire verse from memory.
+
 *[[Amos 8#^amos-8-11|Amos 8:11–12]]*
 
 ### The Restoration of the gospel ended the famine of apostasy.
@@ -120,3 +124,7 @@ Your children might enjoy retelling the story of Jonah or acting it out. Share w
 Maybe your children could pretend they are interviewing Jonah about his experience. What questions would they ask him? Encourage them to ask questions to find out what Jonah learned about the Lord. What might Jonah say, for example, about the Lord’s mercy? (see, for example, [[Jonah 2#^jonah-2-7|Jonah 2:7–10]]; [[Jonah 3#^jonah-3-10|3:10]]; [[Jonah 4#^jonah-4-2|4:2]]).
 
 Help your children think of examples when the Savior showed mercy to others, such as [[Mark 2#^mark-2-3|Mark 2:3–12]]; [[Luke 23#^luke-23-33|Luke 23:33–34]]; and [[John 8#^john-8-1|John 8:1–11]]. You and your children could search for pictures of these examples. What opportunities do we have to be merciful to others?
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

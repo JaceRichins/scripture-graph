@@ -77,6 +77,10 @@ Here are some other hymns inspired by the Psalms:
 
 [[Psalm 148|Psalm 148]]: “[All Creatures of Our God and King](https://www.churchofjesuschrist.org/study/manual/hymns/all-creatures-of-our-god-and-king?lang=eng)” (*Hymns*, no. 62)
 
+> For teachers
+
+> Use music. President Dallin H. Oaks said: “The singing of hymns is one of the best ways to put ourselves in tune with the Spirit of the Lord. … Sacred music has a unique capacity to communicate our feelings of love for the Lord. This kind of communication is a wonderful aid to our worship. … Our hymns contain matchless doctrinal sermons, surpassed only by the scriptures in their truth and poetic impact” (“[Worship through Music](https://www.churchofjesuschrist.org/study/general-conference/1994/10/worship-through-music?lang=eng),” *Ensign*, Nov. 1994, 10, 11; see also Tracy Y. Browning, “[[AI Library/10 General Conference/2025/October/Tune Your Heart to Jesus Christ The Sacred Gift of Primary Music (Sister Tracy Y. Browning, October 2025)|Tune Your Heart to Jesus Christ: The Sacred Gift of Primary Music]],” *Liahona*, Nov. 2025, 9–11). What hymns related to the Psalms could you listen to or sing to enhance your worship this week?
+
 *[[Psalm 19#^ps-19-7|Psalms 19:7–11]]; [[Psalm 29|29]]*
 
 ### The word of the Lord is powerful, “rejoicing the heart.”
@@ -92,6 +96,10 @@ Because the temple at Jerusalem was built on a hill, the phrase “hill of the L
 At times, we might be discouraged to hear that we need to be pure to enter the presence of God. After all, we all struggle, and none of us are perfect. What hope do you find in Elder David A. Bednar’s message “[[AI Library/10 General Conference/2007/October/Clean Hands and a Pure Heart (Elder David A. Bednar, October 2007)|Clean Hands and a Pure Heart]]”? (*Ensign* or *Liahona*, Nov. 2007, 80–83). How could you use his message to help someone who feels overwhelmed with wanting to be perfect? Consider how you can receive the Savior’s help in your efforts to have “clean hands, and a pure heart.”
 
 See also Bradley R. Wilcox, “[[AI Library/10 General Conference/2021/October/Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]],” *Liahona*, Nov. 2021, 61–67.
+
+> For teachers
+
+> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -132,3 +140,7 @@ Show a picture of the Savior, and tell your children what He has done for you th
 ### “Be still, and know that I am God.”
 
 Help your children memorize the first line from [[Psalm 46#^ps-46-10|Psalm 46:10]]: “Be still, and know that I am God.” What could it mean to “be still”? Maybe you could spend some time practicing being still. You could also share with each other experiences when being “still” strengthened your relationship with God. Help your children think of times during the day when they can “be still” to feel close to Heavenly Father.
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

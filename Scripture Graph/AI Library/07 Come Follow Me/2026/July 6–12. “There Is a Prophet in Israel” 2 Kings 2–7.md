@@ -53,6 +53,10 @@ Note how Naaman’s experience affected his faith in the God of Israel (see [[2 
 
 See also [[Luke 4#^luke-4-27|Luke 4:27]]; [[1 Peter 5#^1pet-5-5|1 Peter 5:5–7]]; [[Alma 37#^alma-37-3|Alma 37:3–7]]; [[Ether 12#^ether-12-27|Ether 12:27]]; L. Whitney Clayton, “[[AI Library/10 General Conference/2017/April/Whatsoever He Saith unto You, Do It (Elder L. Whitney Clayton, April 2017)|Whatsoever He Saith unto You, Do It]],” *Ensign* or *Liahona*, May 2017, 97–99; “Naaman and Elisha” (video), Gospel Library.
 
+> For teachers
+
+> Compare the scriptures to your life. Sometimes it’s easier to find personal meaning in the scriptures when you compare physical things in a story with spiritual things in your life. For example, while you study [[2 Kings 2|2 Kings 2–7]], you could compare situations in your life to things like leprosy, a borrowed ax, the Jordan River, or a large invading army. What lessons might the Lord have for you in these accounts?
+
 *[[2 Kings 6#^2kgs-6-8|2 Kings 6:8–23]]*
 
 ### “They that be with us are more than they that be with them.”
@@ -70,6 +74,10 @@ You might also study Sister Michelle D. Craig’s message “[[AI Library/10 Gen
 Referring to the story in [[2 Kings 6#^2kgs-6-8|2 Kings 6:8–23]], Elder Ronald A. Rasband said: “We may or may not have chariots of fire sent to dispel our fears and conquer our demons, but the lesson is clear. The Lord is with us, mindful of us and blessing us in ways only He can do. Prayer can call down the strength and the revelation that we need to center our thoughts on Jesus Christ and His atoning sacrifice. The Lord knew that at times we would feel fear. I have been there and so have you. … In this Church we may be few in number by the way the world counts influence, but when we open our spiritual eyes, ‘they that be with us are more than they that be with them’ [[[2 Kings 6#^2kgs-6-16|2 Kings 6:16]]]” (“[[AI Library/10 General Conference/2018/October/Be Not Troubled (Elder Ronald A. Rasband, October 2018)|Be Not Troubled]],” *Ensign* or *Liahona*, Nov. 2018, 18, 19). How would you use these words to help someone who feels anxious or afraid?
 
 See also “[Dearest Children, God Is Near You](https://www.churchofjesuschrist.org/study/manual/hymns/dearest-children-god-is-near-you?lang=eng),” *Hymns*, no. 96.
+
+> For teachers
+
+> For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -104,3 +112,7 @@ You might also emphasize [[2 Kings 5#^2kgs-5-13|2 Kings 5:13]], where Naaman’s
 ### I am not alone.
 
 You and your children could imagine you are surrounded by an army with swords, horses, and chariots. How would you feel? What would you do? Your children could then close their eyes while you read [[2 Kings 6#^2kgs-6-16|2 Kings 6:16–17]] to them. (See also “[Elisha and the Lord’s Army](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/elisha-and-the-lords-army?lang=eng),” in *Old Testament Stories*, 138–39, or the picture at the end of this outline.) When you get to the words “open his eyes” ([[2 Kings 6#^2kgs-6-17|verse 17]]), ask the children to open their eyes. Talk about what the servant saw. Share with your children ways you have felt that the Lord was with you during your challenges, even when it seemed like you were alone.
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

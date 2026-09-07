@@ -33,6 +33,16 @@ These are just a few things to keep in mind as you read the Old Testament this y
 
 Nephi said, “My soul delighteth in the scriptures” ([[2 Nephi 4#^2ne-4-15|2 Nephi 4:15]]). Maybe you’ll feel the same way as you read many of the same words Nephi read—what we now call the Old Testament.
 
+> For teachers
+
+> Books in the Old Testament
+
+> In most Christian versions of the Old Testament, the books are organized differently from how they were arranged when they were first compiled into one collection. So while the Hebrew Bible groups the books into three categories—the law, prophets, and writings—most Christian Bibles arrange the books into four categories: law (Genesis–Deuteronomy), history (Joshua–Esther), poetic books (Job–Song of Solomon), and prophets (Isaiah–Malachi).
+
+> Why are these categories important? Because knowing what *kind* of book you are studying can help you understand *how* to study it.
+
+> Here’s something to keep in mind as you begin reading “the law,” or the first five books of the Old Testament. These books, which are traditionally attributed to Moses, probably passed through the hands of numerous scribes and compilers over time. And we know that, over the centuries, “many parts which are plain and most precious” were taken away from the Bible (see [[1 Nephi 13#^1ne-13-23|1 Nephi 13:23–26]]). Still, the books of Moses are the inspired word of God, even though they are—like any work of God transmitted through mortals—subject to human imperfections (see [[Moses 1#^moses-1-41|Moses 1:41]]; [[Articles of Faith 1#^aoff-1-8|Articles of Faith 1:8]]). The words of Moroni, referring to the sacred Book of Mormon record that he helped compile, are helpful here: “If there are faults they are the mistakes of men; wherefore, condemn not the things of God” ([title page of the Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm/bofm-title?lang=eng)). In other words, a book of scripture doesn’t need to be free from human error to be the word of God.
+
 Notes
 
 See [[1 Nephi 4#^1ne-4-2|1 Nephi 4:2–3]]; [[1 Nephi 17#^1ne-17-23|17:23–43]]; [[1 Nephi 19#^1ne-19-22|19:22–23]].

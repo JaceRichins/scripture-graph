@@ -45,6 +45,10 @@ See also David A. Bednar, “[[AI Library/10 General Conference/2023/April/“Ab
 
 Because we have the book of Moses, we know that God has been teaching His children how to find redemption ever since Adam and Eve. As you study [[Moses 6#^moses-6-48|Moses 6:48–68]], search for what we must know and do to be redeemed. Notice Adam’s question in [[Moses 6#^moses-6-53|verse 53]]. Have you ever wondered that? What do you learn from the Lord’s answer in [[Moses 6#^moses-6-48|verses 53–65]]? You might think of these verses as the Lord’s message at Adam’s baptismal service. What do you learn about baptism from His message? Why do you think He compared baptism to being “born again”? ([[Moses 6#^moses-6-59|verse 59]]). What can you do to continue to be “born again” throughout your life?
 
+> For teachers
+
+> Look for symbols. In the scriptures, objects or events can often represent or symbolize spiritual truths, especially truths about the Savior (see *Teaching in the Savior’s Way*, [7](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=eng)). These symbols can enrich your understanding of Him and His doctrine. For instance, what do you learn from the symbols of hearts and ears in [[Moses 6#^moses-6-27|Moses 6:27]], eyes and clay in [[Moses 6#^moses-6-35|Moses 6:35]], or water in [[Moses 6#^moses-6-59|Moses 6:59–60]]?
+
 *[[Moses 6#^moses-6-51|Moses 6:51–62]]*
 
 ### “Teach these things freely unto your children.”
@@ -54,6 +58,10 @@ After teaching Adam truths of the gospel of Jesus Christ, in [[Moses 6#^moses-6-
 Reading about the “book of remembrance” that Adam and Eve’s family kept may inspire you or your family to make your own book of remembrance. What do you feel the Lord would want you to include? Consider saving information from your book of remembrance on [FamilySearch.org](https://www.familysearch.org).
 
 See also Dieter F. Uchtdorf, “[[AI Library/10 General Conference/2023/April/Jesus Christ Is the Strength of Parents (Elder Dieter F. Uchtdorf, April 2023)|Jesus Christ Is the Strength of Parents]],” *Liahona*, May 2023, 55–59.
+
+> For teachers
+
+> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -88,3 +96,7 @@ Your children might enjoy singing songs that teach the principles in [[Moses 6#^
 ### Heavenly Father wants parents to teach their children.
 
 To encourage your children to support their parents in their role as gospel teachers, consider asking a child to read [[Moses 6#^moses-6-58|Moses 6:58]] and identify the commandment God gave to parents. Then you could show a picture of Adam and Eve teaching their children (like the one at the end of this outline) and let your children talk about what they see in the picture. Your children could draw pictures of their families reading the scriptures together, praying together, or playing together.
+
+> For teachers
+
+> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

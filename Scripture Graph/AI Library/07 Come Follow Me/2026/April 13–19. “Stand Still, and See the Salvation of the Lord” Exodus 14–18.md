@@ -61,6 +61,10 @@ See also Dieter F. Uchtdorf, “[[AI Library/10 General Conference/2021/October/
 
 Think about the Savior as you read [[Exodus 17#^ex-17-1|Exodus 17:1–7]]. How is Jesus Christ like a rock to you? (see [[Psalm 62#^ps-62-6|Psalm 62:6–7]]; [[Helaman 5#^hel-5-12|Helaman 5:12]]). How is He like water? (see [[John 4#^john-4-10|John 4:10–14]]; [[1 Corinthians 10#^1cor-10-1|1 Corinthians 10:1–4]]; [[1 Nephi 11#^1ne-11-25|1 Nephi 11:25]]).
 
+> For teachers
+
+> Look for physical objects that testify of Christ. Whenever the scriptures describe things that could be symbols of Jesus Christ, like [[Exodus 17#^ex-17-1|Exodus 17:1–7]] does, it might be an opportunity for an object lesson. Looking at or touching a rock or water can make it easier to understand how these objects are like Jesus Christ. If you can involve multiple senses in learning, it will be more memorable and impactful.
+
 *[[Exodus 17#^ex-17-8|Exodus 17:8–16]]; [[Exodus 18#^ex-18-13|18:13–26]]*
 
 ### Disciples help each other “bear the burden” of doing the Lord’s work.
@@ -68,6 +72,10 @@ Think about the Savior as you read [[Exodus 17#^ex-17-1|Exodus 17:1–7]]. How i
 There may be times in your life when you can relate to Moses—when others are depending on you, but your “hands [feel] heavy” ([[Exodus 17#^ex-17-12|Exodus 17:12]]). Other times, you might be more like Aaron, Hur, and Jethro, who supported Moses. Put yourself in the position of each of these people as you read [[Exodus 17#^ex-17-8|Exodus 17:8–16]]; [[Exodus 18#^ex-18-13|18:13–26]], and see what the Lord teaches you about His work.
 
 See also [[Mosiah 4#^mosiah-4-27|Mosiah 4:27]]; [[Mosiah 18#^mosiah-18-8|18:8–9]].
+
+> For teachers
+
+> For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -106,3 +114,7 @@ As you and your children read [[Exodus 15#^ex-15-23|Exodus 15:23–25]]; [[Exodu
 ### I can help “bear the burden” of doing the Lord’s work.
 
 As you read [[Exodus 17#^ex-17-8|Exodus 17:8–16]], you could invite a child to hold their hands high in the air. When the child gets tired, other children could help, the way Aaron and Hur helped Moses. What does this story teach about how we can help God’s kingdom be successful? You could also read [[Exodus 18#^ex-18-13|Exodus 18:13–26]] and talk about the heavy responsibilities of people who serve in your ward. What can we do today to help our Church leaders, just as Aaron and Hur helped the prophet Moses?
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

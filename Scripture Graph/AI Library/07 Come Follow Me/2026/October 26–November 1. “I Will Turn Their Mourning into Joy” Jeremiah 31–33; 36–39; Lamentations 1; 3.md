@@ -89,6 +89,10 @@ President M. Russell Ballard mentioned several situations that may cause some to
 
 See also “[Come, Ye Disconsolate](https://www.churchofjesuschrist.org/study/manual/hymns/come-ye-disconsolate?lang=eng),” *Hymns*, no. 115.
 
+> For teachers
+
+> Help others take responsibility for their own learning. Sometimes it seems like the easiest way to teach is to just tell learners what we think they should know. However, the easiest way is not always the best way. Elder David A. Bednar taught: “Our intent ought not to be ‘What do I tell them?’ Instead, the questions to ask ourselves are ‘What can I invite them to do? What inspired questions can I ask that, if they are willing to respond, will begin to invite the Holy Ghost into their lives?’” ([evening with a General Authority](https://www.churchofjesuschrist.org/study/broadcasts/an-evening-with-the-general-authorities/2020/02/bednar-full?lang=eng), Feb. 7, 2020, broadcasts.ChurchofJesusChrist.org; see also *Teaching in the Savior’s Way*, [25](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=eng)). There are many ways to help learners take responsibility for their learning. For example, in this outline learners are invited to search, ponder, make lists, look at pictures, participate in object lessons, draw, and share and apply what they learn.
+
 ### Scripture Helps
 
 [Who was Baruch?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/42-jeremiah-31-33-36-38-lamentations-1-3?lang=eng)
@@ -134,3 +138,7 @@ You could use the picture at the end of the outline to help your children visual
 To introduce Lamentations, you may want to explain to your children that because the Israelites had not repented, Jerusalem and the temple were destroyed. You could share with each other how you might have felt if you were living there at that time (see [[Lamentations 1#^lam-1-1|Lamentations 1:1–2, 16]]). How might the message in [[Lamentations 3#^lam-3-22|Lamentations 3:22–26]] have given you hope?
 
 You could also tell each other about times you felt sad about a bad choice you made. What do we find in [[Lamentations 3#^lam-3-22|Lamentations 3:22–26]] that helps us understand the forgiveness Jesus Christ offers?
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

@@ -90,3 +90,7 @@ After reading a story, invite family or class members to act it out. Afterward, 
 ## Be flexible at home
 
 If you have family members who aren’t willing to participate in family scripture study, look for other ways to connect with them. For example, could you share eternal truth naturally in your conversations or share a meaningful scripture in a way that doesn’t seem preachy or overbearing? Scripture study doesn’t have to look the same in every family. Some children may respond better to studying the scriptures one on one. Be prayerful and follow the promptings of the Spirit.
+
+> For teachers
+
+> Teacher council meetings for parents. If you would like additional help in your efforts to teach your children, find out if your ward is holding teacher council meetings for parents (see *General Handbook*, [17.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/17-teaching-the-gospel?lang=eng)). These meetings are an opportunity for parents to counsel and learn together about how to improve their teaching. They can discuss the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng), the ideas on these pages for improving family scripture study, and the learning and teaching suggestions found throughout *Come, Follow Me*.

@@ -55,6 +55,10 @@ Esther’s courage led to “a day of gladness” (see [[Esther 9#^esth-9-17|Est
 
 See also “Courage,” “Dare to Stand Alone” (videos), Gospel Library; “[True to the Faith](https://www.churchofjesuschrist.org/study/manual/hymns/true-to-the-faith?lang=eng),” *Hymns*, no. 254.
 
+> For teachers
+
+> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+
 ### Scripture Helps
 
 [Where was Shushan?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/30-esther?lang=eng)
@@ -96,3 +100,7 @@ Encourage your children to think of something they might need the Lord’s help 
 Help your children understand that when Esther was afraid, Mordecai encouraged her by explaining that the Lord had helped her become the queen “for such a time as this” ([[Esther 4#^esth-4-14|Esther 4:14]]). What did Mordecai mean by this? Talk with each other about how Esther was an instrument for the Lord. How can we be instruments for the Lord?
 
 How could you help your children understand what an instrument is? Maybe you could invite someone to play a song on a musical instrument or show a picture of someone using a tool. You could then talk about what it means to be an instrument in God’s hands.
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

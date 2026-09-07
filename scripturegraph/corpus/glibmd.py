@@ -121,11 +121,16 @@ class _MdBuilder(HTMLParser):
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
         cls = a.get("class", "")
-        if self.skip or tag in _SKIP_TAGS or any(c in cls.split() for c in _SKIP_CLASSES):
+        teacher = "for-teacher" in cls.split()          # the boxed teaching tip (a <figure>)
+        if self.skip or (tag in _SKIP_TAGS and not teacher) or any(c in cls.split() for c in _SKIP_CLASSES):
             self.skip += 1
             self.stack.append((tag, 1))
             return
-        self.stack.append((tag, 0))
+        self.stack.append((tag, 2 if teacher else 0))
+        if teacher:
+            self._flush(); self.quote += 1
+            self.blocks.append("> **For teachers**")
+            return
         if tag in ("p", "h1", "h2", "h3", "h4", "h5", "li"):
             self._flush()
             if tag == "h1":
@@ -139,9 +144,6 @@ class _MdBuilder(HTMLParser):
                 self.block_kind = tag
         elif tag in ("ul", "ol"):
             self._flush(); self.list_depth += 1
-        elif tag in ("section", "div", "header") and "for-teacher" in cls:
-            self._flush(); self.quote += 1
-            self.blocks.append("> **For teachers**")
         elif tag == "a" and a.get("href"):
             self.href = a["href"]; self.link_text = []
         elif tag in ("strong", "b"):
@@ -153,15 +155,21 @@ class _MdBuilder(HTMLParser):
 
     def handle_endtag(self, tag):
         # pop to the matching open tag
+        teacher_closed = False
         while self.stack:
             t, sk = self.stack.pop()
-            if sk:
+            if sk == 1:
                 self.skip -= 1
+            elif sk == 2:
+                teacher_closed = True
             if t == tag:
                 break
         else:
             return
         if self.skip:
+            return
+        if teacher_closed:
+            self._flush(); self.quote = max(0, self.quote - 1)
             return
         if tag in ("p", "h1", "h2", "h3", "h4", "h5", "li"):
             if self.block_kind == "skip-h1":
@@ -170,8 +178,6 @@ class _MdBuilder(HTMLParser):
                 self._flush()
         elif tag in ("ul", "ol"):
             self._flush(); self.list_depth = max(0, self.list_depth - 1)
-        elif tag in ("section", "div", "header") and self.quote and self._closing_teacher():
-            self._flush(); self.quote -= 1
         elif tag == "a" and self.href is not None:
             text = _clean("".join(self.link_text))
             self.buf.append(self.r.link(self.href, text) if text else "")
@@ -180,11 +186,6 @@ class _MdBuilder(HTMLParser):
             self.buf.append("**")
         elif tag in ("em", "i", "cite"):
             self.buf.append("*")
-
-    def _closing_teacher(self) -> bool:
-        # a for-teacher box closes when no for-teacher container remains open —
-        # approximated by depth: the box is one container deep in practice
-        return True
 
     def handle_data(self, data):
         if self.skip:

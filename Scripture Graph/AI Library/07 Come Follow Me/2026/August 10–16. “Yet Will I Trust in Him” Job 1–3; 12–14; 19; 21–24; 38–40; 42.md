@@ -69,6 +69,14 @@ You’ll notice that the Lord spoke to Job about some of His creations and other
 
 Here are two general conference messages that can help change our perspective: Tamara W. Runia, “[[AI Library/10 General Conference/2023/October/Seeing God’s Family through the Overview Lens (Sister Tamara W. Runia, October 2023)|Seeing God’s Family through the Overview Lens]]” (*Liahona*, Nov. 2023, 62–69); Russell M. Nelson, “[[AI Library/10 General Conference/2023/October/Think Celestial! (President Russell M. Nelson, October 2023)|Think Celestial!]]” (*Liahona*, Nov. 2023, 117–20). In either message, look for something that you’ll want to remember the next time your trials seem overwhelming. How will you remind yourself of what you learned?
 
+> For teachers
+
+> Be creative. Learning doesn’t have to consist only of reading, thinking, and talking. Sometimes the most memorable learning comes in physically active ways. For example, when you read about how the Lord changed Job’s perspective in [[Job 38|Job 38–40]], you might take a walk and look at some of the Lord’s creations, large and small. Or you might look at an object from different perspectives—from above, below, up close, far away, and so on.
+
+> For teachers
+
+> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+
 ### Scripture Helps
 
 [What might Job have meant when he said, “I know that my redeemer liveth”?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/31-job-1-3-12-14-19-21-24-38-40-42?lang=eng)
@@ -110,3 +118,7 @@ Consider asking your children to list some qualities of a good friend and to nam
 After reading [[Job 19#^job-19-23|Job 19:23–27]], you and your children could talk about how you know that our Redeemer lives. You might work together to put your testimony (or drawings of the Savior) in a book (see [[Job 19#^job-19-23|verse 23]]).
 
 You could also sing a song that testifies of the Savior, such as “[I Know That My Redeemer Lives](https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng)” (*Hymns*, no. 136). Share phrases from the hymn that strengthen your faith in Him. Why is it important to know that Jesus Christ lives?
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

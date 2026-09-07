@@ -53,6 +53,10 @@ At times, you may feel like Samuel, who heard the voice of the Lord but did not 
 
 Other times, you may feel that the heavens are shut and that God does not want to communicate with you. President Russell M. Nelson said, “Does God really *want* to speak to you? Yes!” (“[[AI Library/10 General Conference/2018/April/Revelation for the Church, Revelation for Our Lives (President Russell M. Nelson, April 2018)|Revelation for the Church, Revelation for Our Lives]],” *Ensign* or *Liahona*, May 2018, 93–96). As you study President Nelson’s message, what do you find that inspires you to hear and obey the voice of the Lord? What does President Nelson invite you to do, and what blessings does he promise? You can also find invitations and promised blessings about revelation in “Walk in God’s light” (*For the Strength of Youth: A Guide for Making Choices*, 16–20). Consider choosing one thing you can do to “increase your spiritual capacity to receive revelation.”
 
+> For teachers
+
+> For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+
 ### Scripture Helps
 
 [What did it mean to glean a field?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/21-ruth-1-samuel-1-7?lang=eng)
@@ -90,3 +94,7 @@ To learn about Hannah, your children could read [[1 Samuel 1#^1sam-1-1|1 Samuel 
 Perhaps a simple role-play could help your children learn from Samuel’s experience with revelation. One child could pretend to be Samuel, and another could pretend to be Eli as you read [[1 Samuel 3#^1sam-3-1|1 Samuel 3:1–10]] (see also “[Samuel the Prophet](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/samuel-the-prophet?lang=eng)” in *Old Testament Stories*, 106–9, or the video “Samuel and Eli,” Gospel Library). What do we learn from Samuel about how to hear the voice of the Lord? How do we show that we are willing to hear when the Lord speaks to us?
 
 Ask your children how they would explain to someone how the Lord speaks to them. You could help them look for answers in [[D&C 6#^dc-6-22|Doctrine and Covenants 6:22–23]]; [[D&C 8#^dc-8-2|8:2–3]]; [[D&C 9#^dc-9-7|9:7–9]].
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

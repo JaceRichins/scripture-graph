@@ -54,3 +54,9 @@ So when you read a passage from Isaiah, for example, consider it your first intr
 Poems can be wonderful friends because they help us understand our feelings and experiences. Old Testament poems are especially precious because they help us understand our most important feelings and experiences—the ones connected to our relationship with God.
 
 As you study the poetry in the Old Testament, remember that scripture study is most valuable when it leads us to Jesus Christ. Look for symbols, imagery, and truths that build your faith in Him. Listen for inspiration from the Holy Ghost as you study.
+
+> For teachers
+
+> Wisdom Literature
+
+> One category of Old Testament poetry is what scholars call “wisdom literature.” Job, Proverbs, and Ecclesiastes fall into this category. While psalms express feelings of praise, mourning, and worship, wisdom literature focuses on timeless advice or deep, philosophical questions. The book of Job, for example, explores the justice of God and the reasons behind human suffering. Proverbs offer counsel on how to live well, including wise sayings collected and passed down from earlier generations. And Ecclesiastes calls into question the purpose of life itself—when everything seems fleeting and random, where do we find true meaning? You might think of wisdom literature as thoughtful conversations with inspired mentors who want to share observations about God and the world He created—and maybe help you understand these things a little better than before.

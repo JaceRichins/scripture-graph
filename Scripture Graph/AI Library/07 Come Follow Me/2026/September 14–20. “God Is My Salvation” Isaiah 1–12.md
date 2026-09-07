@@ -27,6 +27,18 @@ The Savior taught that “all things that [Isaiah] spake have been and shall be,
 
 President Dallin H. Oaks taught: “The book of Isaiah contains numerous prophecies that seem to have multiple fulfillments. One seems to involve the people of Isaiah’s day or the circumstances of the next generation. Another meaning, often symbolic, seems to refer to events in the meridian of time, when Jerusalem was destroyed and her people scattered after the crucifixion of the Son of God. Still another meaning or fulfillment of the same prophecy seems to relate to the events attending the Second Coming of the Savior. The fact that many of these prophecies can have multiple meanings underscores the importance of our seeking revelation from the Holy Ghost to help us interpret them” (“[Scripture Reading and Revelation](https://www.churchofjesuschrist.org/study/ensign/1995/01/scripture-reading-and-revelation?lang=eng),” *Ensign*, Jan. 1995, 8).
 
+> For teachers
+
+> Understanding Isaiah. The Savior said, “Search these things diligently; for great are the words of Isaiah” ([[3 Nephi 23#^3ne-23-1|3 Nephi 23:1]]; see also [[3 Nephi 23#^3ne-23-2|verses 2–3]]). Yet to many, Isaiah can be difficult to understand. The following ideas might help:
+
+> Ponder the symbols and metaphors Isaiah used.
+
+> Ask yourself, “What am I learning about Jesus Christ?” (see [[1 Nephi 19#^1ne-19-23|1 Nephi 19:23]]).
+
+> Look for topics that feel relevant to our time.
+
+> Use study helps, such as a dictionary, the footnotes, chapter headings, and the [Guide to the Scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs?lang=eng).
+
 *[[Isaiah 1|Isaiah 1]]; [[Isaiah 3|3–5]]*
 
 ### Prophets warn about sin and promise hope through repentance.
@@ -60,6 +72,10 @@ In [[Isaiah 6|Isaiah 6]], Isaiah recounted his call to be a prophet. As you read
 During Isaiah’s ministry, Israel formed an alliance with Syria to defend itself against Assyria. Israel and Syria wanted to force Ahaz, the king of Judah, to join them. But Isaiah prophesied that the alliance would fail and counseled Ahaz to trust in the Lord ([[Isaiah 7#^isa-7-7|Isaiah 7:7–9]]; [[Isaiah 8#^isa-8-12|8:12–13]]).
 
 While Isaiah counseled Ahaz, he made several well-known prophecies, such as those found in [[Isaiah 7#^isa-7-14|Isaiah 7:14]]; [[Isaiah 8#^isa-8-13|8:13–14]]; [[Isaiah 9#^isa-9-2|9:2, 6–7]]. Whatever these prophecies meant to Ahaz, they clearly apply to Jesus Christ (see also [[Matthew 1#^matt-1-21|Matthew 1:21–23]]; [[Matthew 4#^matt-4-16|4:16]]; [[Matthew 21#^matt-21-44|21:44]]; [[Luke 1#^luke-1-31|Luke 1:31–33]]). Why is “Immanuel” a good title for the Savior? (see [[Matthew 1#^matt-1-23|Matthew 1:23]]). How has He been a “Counsellor” or “Prince of Peace” to you? ([[Isaiah 9#^isa-9-7|Isaiah 9:7]]). What else do you learn about the Savior from these verses?
+
+> For teachers
+
+> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -96,3 +112,7 @@ You could also read [[Isaiah 2#^isa-2-2|Isaiah 2:2–3]] together and identify s
 To introduce Isaiah’s prophecies of Christ, you and your children could talk about titles of people, like president, bishop, or teacher. What do these titles tell us about these people? Help your children find titles of Jesus Christ in [[Isaiah 7#^isa-7-14|Isaiah 7:14]] and [[Isaiah 9#^isa-9-6|9:6–7]] (see also this week’s activity page). What do each of these titles teach about Him? What else do we learn about Jesus Christ from these verses?
 
 You could also share with your children “[Isaiah the Prophet](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/isaiah-the-prophet?lang=eng)” (in *Old Testament Stories*, 150–51). Pause periodically to ask what Isaiah knew about Jesus Christ many years before He was born. You can then use [[Matthew 1#^matt-1-21|Matthew 1:21–23]]; [[Luke 1#^luke-1-31|Luke 1:31–33]] to talk about how Isaiah’s prophecies in [[Isaiah 7#^isa-7-14|Isaiah 7:14]]; [[Isaiah 9#^isa-9-6|9:6–7]] were fulfilled.
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

@@ -69,6 +69,10 @@ In your opinion, why are “marvellous” and “wonder” ([[Isaiah 29#^isa-29-
 
 See also “[The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng)” (Gospel Library); “[The Morning Breaks](https://www.churchofjesuschrist.org/study/manual/hymns/the-morning-breaks?lang=eng),” *Hymns*, no 1.
 
+> For teachers
+
+> For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+
 ### Scripture Helps
 
 [What is the “burden of Babylon”?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/37-isaiah-13-14-22-24-30-35?lang=eng)
@@ -104,3 +108,7 @@ Have you and your children ever experienced the blessing of safe shelter during 
 As you and your children read [[Isaiah 29#^isa-29-14|Isaiah 29:14]], share with them other words that mean the same thing as “marvellous” and “wonder.” Let them help you find objects or pictures that represent some of the Lord’s marvelous works during the latter days. These might include a copy of the Book of Mormon, a picture of a temple, or a picture of the First Vision (there’s one at the beginning of this outline). Then your children could choose an item and share why it is marvelous to them.
 
 A song about the Restoration of the gospel could go well with [[Isaiah 29|Isaiah 29]], such as “[On a Golden Springtime](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/on-a-golden-springtime?lang=eng)” (*Children’s Songbook*, 88). And perhaps a personal experience could help the children understand what *restoration* means. For example, you and your children could talk about something that you lost and how you found it. Help your children compare this to the Restoration of the gospel. According to [[Isaiah 29#^isa-29-13|Isaiah 29:13–15]], why do we need the Restoration? What marvelous works is the Lord doing to restore His gospel? (see this week’s activity page).
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

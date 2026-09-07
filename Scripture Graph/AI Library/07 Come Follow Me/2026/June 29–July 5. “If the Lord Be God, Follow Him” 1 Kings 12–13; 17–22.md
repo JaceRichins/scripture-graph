@@ -57,6 +57,14 @@ Ponder times when you feel the Lord has spoken to you. How would you describe th
 
 See also [[Psalm 46#^ps-46-10|Psalm 46:10]].
 
+> For teachers
+
+> Use multiple senses to enhance learning. We all learn about the world through our five senses. Using those senses can also enhance gospel learning. For example, think of images or sounds you could use to illustrate the words “still” and “small” as you learn or teach about the Lord’s voice in [[1 Kings 19|1 Kings 19]].
+
+> For teachers
+
+> For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+
 ### Scripture Helps
 
 [What happened to the kingdom during the reign of Rehoboam?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/25-1-kings-12-13-17-22?lang=eng)
@@ -98,3 +106,7 @@ Help your children think of situations when they might need to decide whether or
 As you summarize [[1 Kings 19#^1kgs-19-9|1 Kings 19:9–12]], invite your children to do actions to represent the strong wind, the earthquake, and the fire. Then invite them to sit still as you say together, in a quiet voice, “after the fire a still small voice” ([[1 Kings 19#^1kgs-19-12|verse 12]]). (See also “[The Lord Speaks to Elijah](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/the-lord-speaks-to-elijah?lang=eng),” in *Old Testament Stories*, 129–31.) Tell your children about times when you have experienced the still, small voice of the Holy Ghost.
 
 Quietly sing a song about the Spirit, such as “[The Still Small Voice](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/the-still-small-voice?lang=eng)” (*Children’s Songbook*, 106–7) or “[Elijah and the Still, Small Voice](https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/elijah-and-the-still-small-voice?lang=eng)” (*Hymns for Home and Church*, Gospel Library). What can distract us from recognizing the Spirit? What can help us hear Him?
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

@@ -55,6 +55,10 @@ Several psalms describe what it’s like to feel distant from God and desperatel
 
 When you are distressed, how does it help you to “remember the works of the Lord” and His “wonders of old”? ([[Psalm 77#^ps-77-11|Psalm 77:11]]). Some of those wonders are described in [[Psalm 78|Psalm 78]]. As you read about them, ponder what helps you “set [your] hope in God” ([[Psalm 78#^ps-78-7|verse 7]]).
 
+> For teachers
+
+> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+
 ### Scripture Helps
 
 [Does the phrase “in sin did my mother conceive me” refer to the concept of original sin?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/33-psalms-49-51-61-66-69-72-77-78-85-86?lang=eng)
@@ -101,6 +105,10 @@ After reading [[Psalm 71#^ps-71-8|Psalm 71:8]] with your children, invite them t
 
 You could pass around a picture of Jesus Christ. The person holding the picture could say one thing they know about Him. How can we help other people know these things?
 
+> For teachers
+
+> Children have much to share. “When children learn something new, they naturally want to share it with others. Encourage this desire by giving children opportunities to teach gospel principles to each other, their family members, and their friends. Also ask them to share with you their thoughts, feelings, and experiences related to the principles you are teaching. You will find that they have insights that are simple, pure, and powerful” (*Teaching in the Savior’s Way*, [32](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/13-suggestions-for-a-variety-of-teaching?lang=eng)).
+
 *[[Psalm 86#^ps-86-7|Psalm 86:7]]*
 
 ### Heavenly Father hears and answers my prayers.
@@ -108,3 +116,7 @@ You could pass around a picture of Jesus Christ. The person holding the picture 
 Many of the psalms are like prayers to God. As you read Psalms with your children, you might show them things we can use to communicate with people who are far away, such as a phone or a letter. Then read [[Psalm 86#^ps-86-7|Psalm 86:7]]. How do we “call upon” Heavenly Father? How does He answer us?
 
 You could sing together a song about prayer, such as “[A Child’s Prayer](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/a-childs-prayer?lang=eng)” (*Children’s Songbook*, 12–13; see also Susan H. Porter, “[[AI Library/10 General Conference/2024/April/Pray, He Is There (President Susan H. Porter, April 2024)|Pray, He Is There]],” *Liahona*, May 2024, 77–79). Tell each other about times when God answered your prayers.
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

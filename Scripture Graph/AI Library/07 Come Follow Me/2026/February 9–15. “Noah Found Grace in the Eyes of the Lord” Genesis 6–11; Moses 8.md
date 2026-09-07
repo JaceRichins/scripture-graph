@@ -49,6 +49,14 @@ See also Gerrit W. Gong, “[[AI Library/10 General Conference/2016/April/Always
 
 The account of the people of Babel building a tower provides an interesting contrast to the account of Enoch and his people building Zion, which you studied last week. Both groups of people were trying to reach heaven but in different ways. How did the people of Zion obtain heaven? (see [[Moses 7#^moses-7-18|Moses 7:18–19, 53, 62–63, 69]]). What do you learn from [[Genesis 11#^gen-11-1|Genesis 11:1–9]] and [[Helaman 6#^hel-6-26|Helaman 6:26–28]] about the people of Babel? What does this teach us about our own efforts to return to God’s presence? What has God provided to help us “reach unto heaven”? ([[Genesis 11#^gen-11-4|Genesis 11:4]]; see also [[John 3#^john-3-16|John 3:16]]).
 
+> For teachers
+
+> Learn actively. Learning can involve more than just reading or listening. For example, when learning about the Tower of Babel, you and your family or class could write, on slips of paper, things that take us away from God. Then, on other slips of paper, you could write things that bring us nearer to God. Arrange the first group of papers in the shape of a tower and the second group in the shape of a temple.
+
+> For teachers
+
+> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+
 ### Scripture Helps
 
 [Why did Noah curse Canaan?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/06-moses-6-11-moses-8?lang=eng)
@@ -84,3 +92,7 @@ You could also show your children something you have that reminds you of somethi
 It could be fun to build a tower out of blocks or other objects with your children. As you do so, explain that the people of Babel thought they could get to heaven by building a tall tower. You could then look together at a picture of the Savior and ask your children how He helps us get to heaven. Then you could talk with each other about things you can do to follow the Savior.
 
 In addition to reading the story of the tower of Babel in [[Genesis 11#^gen-11-1|Genesis 11:1–9]], you and your children could read [[Helaman 6#^hel-6-28|Helaman 6:28]]. According to this verse, why did the people of Babel build the tower? Why was building this tower the wrong way to reach heaven? Then you could search [[2 Nephi 31#^2ne-31-20|2 Nephi 31:20–21]] and [[Helaman 3#^hel-3-28|Helaman 3:28]] to find the right way to reach heaven. What advice would we give to the people of Babel?
+
+> For teachers
+
+> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

@@ -142,3 +142,7 @@ What holy places do we have today that help us feel closer to Jesus Christ? As p
 The animal sacrifices described in the Old Testament were meant to teach the children of Israel about forgiveness through Jesus Christ. Consider how reading about these sacrifices could do the same for your children. You could show pictures of Jesus Christ in Gethsemane and on the cross (see *Gospel Art Book*, [nos. 56](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/new-testament?lang=eng), [57](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/new-testament?lang=eng)) as you read with the children [[Leviticus 1#^lev-1-1|Leviticus 1:1–4]]. Help them find words or phrases that remind them of the sacrifice of Jesus Christ.
 
 You might also read together [[3 Nephi 9#^3ne-9-19|3 Nephi 9:19–20]] to find out what we are commanded to sacrifice instead of animals. What does it mean to offer a broken heart and contrite spirit to the Lord? See Guide to the Scriptures, “[Broken Heart](https://www.churchofjesuschrist.org/study/scriptures/gs/broken-heart?lang=eng)” (Gospel Library) for help answering this question.
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

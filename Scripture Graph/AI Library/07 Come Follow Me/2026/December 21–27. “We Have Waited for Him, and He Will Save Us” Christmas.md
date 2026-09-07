@@ -53,6 +53,10 @@ Consider choosing a title or role of the Savior that will help you remember Him 
 
 See also Quentin L. Cook, “[[AI Library/10 General Conference/2021/October/Personal Peace in Challenging Times (Elder Quentin L. Cook, October 2021)|Personal Peace in Challenging Times]],” *Liahona*, Nov. 2021, 89–92; “[Hark! The Herald Angels Sing](https://www.churchofjesuschrist.org/study/manual/hymns/hark-the-herald-angels-sing?lang=eng),” *Hymns*, no. 209.
 
+> For teachers
+
+> For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+
 ## Ideas for Teaching Children
 
 ### The Old Testament teaches me about Jesus.
@@ -67,6 +71,10 @@ As you prepare to study the life of Jesus Christ in the New Testament next year,
 
 Israelite families had traditions, such as the Passover and other feasts, that were meant to point their hearts and minds to the Lord (see [[Exodus 12|Exodus 12]]). What traditions do you and your children have at Christmastime that help you focus on Jesus Christ? What traditions do you know about from your family history? You might consider discussing with your children some traditions you want to start. Some ideas might include serving someone in need, choosing something you will offer as a “gift” to the Savior, inviting a friend to watch the First Presidency’s Christmas devotional with you ([broadcasts.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/media/broadcasts)), writing your own Christmas song, or finding a creative way to share the message of Christ’s birth.
 
+> For teachers
+
+> In the home, learning and living are inseparable. “The gospel takes on immediate relevance in the home. There the people with whom you are learning the gospel are the people with whom you will live it—every day. In fact, much of the time, living the gospel is *how* we learn the gospel. So as you learn and teach the gospel at home, look for ways to connect what you are learning with what you are doing. In your home, let the gospel be something you strive to live by, not just something you talk about” (*Teaching in the Savior’s Way*, [31](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/13-suggestions-for-a-variety-of-teaching?lang=eng)).
+
 ### Heavenly Father gave me the gift of His Son to be my Savior.
 
 How can you help your children feel the reverence and joy of Christ’s birth? You might watch the video “The Christ Child” (Gospel Library) or read together [[Matthew 1#^matt-1-18|Matthew 1:18–25]]; [[Matthew 2#^matt-2-1|2:1–12]]; [[Luke 1#^luke-1-26|Luke 1:26–38]]; [[Luke 2#^luke-2-1|2:1–20]]. Each child could choose a person from the video or scripture account and share how that person felt about the Savior. Then you could share with each other your own feelings about Him.
@@ -74,3 +82,7 @@ How can you help your children feel the reverence and joy of Christ’s birth? Y
 Perhaps you and your children could talk about gifts you’ve given or received over the years that have brought joy. Then you could read [[Isaiah 25#^isa-25-9|Isaiah 25:9]] together and talk about why you rejoice that Heavenly Father sent us a Savior. To help your children better understand Jesus Christ’s role as our Savior, invite them to read [[Isaiah 25#^isa-25-8|Isaiah 25:8–9]]; [[Isaiah 53#^isa-53-3|53:3–5]]; and [[Hosea 13#^hosea-13-14|Hosea 13:14]]. What do these scriptures teach us about how the Lord saves us?
 
 You could also sing a Christmas song together, such as “[Away in a Manger](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/away-in-a-manger?lang=eng)” (*Children’s Songbook*, 42–43) or “[O Little Town of Bethlehem](https://www.churchofjesuschrist.org/study/manual/hymns/o-little-town-of-bethlehem?lang=eng)” (*Hymns*, no. 208). Help your children find phrases in the song that help them know that Heavenly Father and Jesus Christ love them.
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

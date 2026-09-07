@@ -83,6 +83,14 @@ If you want to study more about the sacrifice of our Savior, consider reading Pr
 
 See also “Akedah (The Binding)” (video), Gospel Library.
 
+> For teachers
+
+> Use visuals to teach. To add variety in teaching and learning, you might use one or more of the pictures in this outline as you study the stories in [[Genesis 18|Genesis 18–23]]. For example, you and your family or class could note details in the pictures of Abraham and Isaac. Talk about why these details are important to the story, and find these details in the scriptures. How do they highlight the story’s symbolism of the sacrifice of the Son of God?
+
+> For teachers
+
+> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+
 ### Scripture Helps
 
 [Did Lot offer his daughters to the abuses of a mob?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/08-genesis-18-23?lang=eng)
@@ -114,3 +122,7 @@ Ask your children about situations in which someone might invite them to do some
 Using pictures of Abraham and Isaac and of the Crucifixion (see *Gospel Art Book,* [nos. 9](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/old-testament?lang=eng), [57](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/new-testament?lang=eng)) can help your children compare the story in [[Genesis 22|Genesis 22]] with the Savior’s sacrifice (see [[Matthew 27#^matt-27-26|Matthew 27:26–37]]). What can we learn about Heavenly Father and Jesus Christ from the accounts of Abraham and Isaac and of the Crucifixion? (See also “[Abraham and Isaac](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/abraham-and-isaac?lang=eng),” in *Old Testament Stories*, 34–37.)
 
 Can you think of a simple game to play with your children that requires them to follow directions? Maybe the directions could lead to a hidden picture of the Savior. The game could prompt a conversation about things Heavenly Father has commanded us to do so we can live with Him and Jesus Christ again. Consider singing a song such as “[Keep the Commandments](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/keep-the-commandments?lang=eng)” (*Children’s Songbook*, 146–47). This week’s activity page could help as well.
+
+> For teachers
+
+> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

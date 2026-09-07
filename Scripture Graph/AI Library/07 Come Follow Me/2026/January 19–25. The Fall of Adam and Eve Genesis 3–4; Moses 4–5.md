@@ -55,6 +55,10 @@ Consider also reading what Lehi taught about agency in [[2 Nephi 2#^2ne-2-11|2 N
 
 See also Dallin H. Oaks, “[[AI Library/10 General Conference/2016/April/Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]],” *Ensign* or *Liahona*, May 2016, 114–17; Topics and Questions, “[[AI Library/02 Gospel Topics/Reference/Agency (Gospel Topics)|Agency]],” Gospel Library; “[Choose the Right](https://www.churchofjesuschrist.org/media/music/songs/choose-the-right),” *Hymns*, no. 239.
 
+> For teachers
+
+> Increase participation. Many learning activities can be done as an individual, family, or class; in small groups; or in pairs. Use a variety of methods to allow people to participate who might not otherwise have a chance. For this activity, you could invite one person or group to read [[Moses 4|Moses 4]] and the [For the Strength of Youth](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng) guide while another group studies the verses in [[2 Nephi 2|2 Nephi 2]]. They could then teach each other what they learned in their respective section.
+
 *[[Moses 4#^moses-4-4|Moses 4:4–12]]; [[Moses 5#^moses-5-13|5:13–33]]*
 
 ### Satan seeks “to deceive and to blind” me.
@@ -80,6 +84,10 @@ See also “Sacred Temple Clothing” (video), Gospel Library.
 As you study [[Moses 5#^moses-5-4|Moses 5:4–9, 16–26]], consider the attitudes of Adam and Eve and their sons Cain and Abel toward sacrifice. Why did the Lord accept Abel’s sacrifice but not Cain’s?
 
 What does the Lord ask you to sacrifice? Is there anything in these verses that shapes the way you think about those sacrifices?
+
+> For teachers
+
+> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -114,3 +122,7 @@ Help your children think of and draw pictures of good choices they can make to f
 ### I can pray to Heavenly Father.
 
 When Adam and Eve had to leave the Garden of Eden, they couldn’t be with Heavenly Father anymore. Read [[Moses 5#^moses-5-4|Moses 5:4, 8]] with your children, and help them find what Adam and Eve did to feel near to Him and hear Him. What are some things we can say to Heavenly Father in our prayers?
+
+> For teachers
+
+> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

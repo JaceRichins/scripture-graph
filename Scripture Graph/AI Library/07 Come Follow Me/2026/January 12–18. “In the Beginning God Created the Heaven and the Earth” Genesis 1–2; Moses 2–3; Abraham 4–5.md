@@ -65,6 +65,10 @@ God *made* the Sabbath day holy, and He asks us to *keep* it holy. As you read [
 
 See also [[D&C 59#^dc-59-9|Doctrine and Covenants 59:9–13]]; “The Sabbath Is a Delight” (video), Gospel Library.
 
+> For teachers
+
+> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+
 ### Scripture Helps
 
 [How long did the Creation take?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/02-genesis-1-2-moses-2-3-abraham-4-5?lang=eng)
@@ -85,6 +89,10 @@ How will you make learning about the Creation fun for your children? You could t
 
 Consider singing a song together about our beautiful world, such as “[My Heavenly Father Loves Me](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/my-heavenly-father-loves-me?lang=eng)” (*Children’s Songbook*, 228–29). Maybe your children could add to the song other things God has created that help them feel His love.
 
+> For teachers
+
+> Help children express their creativity. “When you invite children to draw, build, color, or write something related to a gospel principle, you help them better understand the principle and you give them a tangible reminder of what they have learned” (*Teaching in the Savior’s Way*, [32](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/13-suggestions-for-a-variety-of-teaching?lang=eng)).
+
 *[[Genesis 1#^gen-1-26|Genesis 1:26–27]]; [[Moses 2#^moses-2-26|Moses 2:26–27]]; [[Abraham 4#^abr-4-26|Abraham 4:26–27]]*
 
 ### I was created in God’s image.
@@ -100,3 +108,7 @@ You and your children might enjoy drawing a human body and cutting the drawings 
 As you read [[Moses 3#^moses-3-2|Moses 3:2–3]], ask your children to listen for what God did on the seventh day. Help your children find or draw pictures of things they can do on Sunday to make it a holy day and different from other days. Share with each other why it is important to you to keep the Sabbath day holy.
 
 Help your children role-play explaining to a friend why they choose to do things on Sunday that honor Heavenly Father and Jesus. Suggest that they use [[Genesis 2#^gen-2-2|Genesis 2:2–3]] in their explanations. How does keeping the Sabbath day holy show our love for Heavenly Father and Jesus Christ?
+
+> For teachers
+
+> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

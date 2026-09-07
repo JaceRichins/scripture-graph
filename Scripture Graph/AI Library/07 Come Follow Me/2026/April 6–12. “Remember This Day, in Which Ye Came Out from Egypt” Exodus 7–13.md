@@ -101,6 +101,10 @@ See [[2 Nephi 2#^2ne-2-26|2 Nephi 2:26]]; [[D&C 138#^dc-138-15|Doctrine and Cove
 
 What else do you find in the instructions and symbols of the Passover that reminds you of Jesus Christ and His Atonement? What do these symbols suggest to you about how to receive the blessings of His Atonement?
 
+> For teachers
+
+> Come unto Christ by identifying symbols that testify of Him. “All things,” the Lord declared, “are created and made to bear record of me” ([[Moses 6#^moses-6-63|Moses 6:63]]; see also [[2 Nephi 11#^2ne-11-4|2 Nephi 11:4]]). In [[Exodus 12|Exodus 12]], symbols like a lamb, blood, unleavened bread, miracles, and deliverance all point to Christ. “Once we understand how these objects relate to the Savior, they can teach us of His power and attributes” (*Teaching in the Savior’s Way*, [7](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=eng)).
+
 *[[Exodus 12#^ex-12-14|Exodus 12:14–17, 24–27]]; [[Exodus 13#^ex-13-1|13:1–16]]*
 
 ### The sacrament helps me remember my deliverance through Jesus Christ.
@@ -112,6 +116,10 @@ What similarities do you see between the feast of the Passover and the sacrament
 You might also ponder other things the Lord wants you to remember; see, for example, [[Helaman 5#^hel-5-6|Helaman 5:6–12]]; [[Moroni 10#^moro-10-3|Moroni 10:3]]; [[D&C 3#^dc-3-3|Doctrine and Covenants 3:3–5, 10]]; [[D&C 18#^dc-18-10|18:10]]; [[D&C 52#^dc-52-40|52:40]].
 
 See also Kevin W. Pearson, “[[AI Library/10 General Conference/2022/October/Are You Still Willing (Elder Kevin W. Pearson, October 2022)|Are You Still Willing?]],” *Liahona*, Nov. 2022, 67–69; “Always Remember Him” (video), Gospel Library; “[In Memory of the Crucified](https://www.churchofjesuschrist.org/study/manual/hymns/in-memory-of-the-crucified?lang=eng),” *Hymns*, no. 190.
+
+> For teachers
+
+> For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -146,3 +154,7 @@ You and your children could make a list of some actions that might show when we 
 The Passover taught the Israelites to look forward to the Savior and His sacrifice for us. As you explore [[Exodus 12#^ex-12-1|Exodus 12:1–13]] together, help your children see connections between the details of the Passover and Jesus Christ’s Atonement (see also “[The Passover](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/the-passover?lang=eng)” in *Old Testament Stories*, 70–74). For example, how is Jesus like the lamb described in [[Exodus 12#^ex-12-5|verse 5]]?
 
 Today, we take the sacrament to remember Jesus’s sacrifice. You could show your children a picture of the sacrament and talk about how this ordinance helps us remember Jesus Christ. You might help your children find the word “remember” in the sacrament prayers (see [[Moroni 4|Moroni 4–5]]). Or sing together a favorite hymn about the sacrament, and help your children notice the peaceful feeling they have when they think about the Savior. How can we seek that feeling when we take the sacrament?
+
+> For teachers
+
+> For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.
