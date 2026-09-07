@@ -3,6 +3,7 @@
  * to their author, group rows only to members, tombstones included so
  * clients converge. Nothing relies on UI hiding (§41). */
 import { setupHtml } from "./setupPage";
+import { Live } from "./live";
 import Fastify, { type FastifyInstance, type FastifyReply, type FastifyRequest } from "fastify";
 import { randomUUID } from "node:crypto";
 import { existsSync, readFileSync } from "node:fs";
@@ -424,6 +425,20 @@ export function buildApp({ db, trustProxy }: BuildOpts): FastifyInstance {
     for (const u of (process.env["SG_LAN_URL"] ?? "http://192.168.1.59:8930").split(",")) if (u.trim()) out.add(u.trim());
     return [...out];
   };
+  // ------------------------------------------------------------ live channel
+  // one held request per device; answered the instant a new plugin build
+  // or a vault change lands (fs.watch), or after `wait` seconds
+  const live = new Live(process.env["SG_PLUGIN_DIR"] ?? "plugin-release", process.env["SG_VAULT"] ?? "");
+  app.addHook("onClose", async () => live.close());
+  app.get("/live", async (req, reply) => {
+    if (!limiter.allow(`ip:${req.ip}:live`, 240, 60_000)) return reply.code(429).send({ error: "rate limited" });
+    const q = req.query as { plugin?: string; vault?: string; wait?: string };
+    const wait = Math.min(25, Math.max(0, Number(q.wait ?? 20) || 0));
+    const cur = await live.wait(q.plugin ?? "", q.vault ?? "", wait * 1000);
+    reply.header("cache-control", "no-store");
+    return { ...cur, urls: publicUrls() };
+  });
+
   // the family setup page (invite rides in the query string, read client-side)
   app.get("/setup", async (req, reply) => {
     if (!limiter.allow(`ip:${req.ip}:setup`, 60, 60_000)) return reply.code(429).send({ error: "rate limited" });

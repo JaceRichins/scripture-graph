@@ -56,6 +56,9 @@ function walk(root: string, rel: string, out: ManifestEntry[]): void {
 
 let manifestCache: { at: number; m: Manifest } | null = null;
 
+/** the live channel saw the tree change: the next manifest walks again */
+export function invalidateManifest(): void { manifestCache = null; }
+
 /** the shared tree's manifest (cached for a few seconds under load) */
 export function manifest(root: string): Manifest {
   const now = Date.now();
