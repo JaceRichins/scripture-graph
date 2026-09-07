@@ -157,6 +157,22 @@ def youtube_id_page(title: str, artist: str, prefer_choir: bool = False) -> str 
     return hits[0][0]
 
 
+_STOP = {"the", "a", "an", "of", "and", "in", "on", "to", "my", "o", "oh", "is", "for", "with", "thee", "thou", "thy", "no"}
+
+
+def _words(t: str) -> set[str]:
+    return {w for w in re.findall(r"[a-z]+", t.lower()) if len(w) > 2 and w not in _STOP}
+
+
+def title_matches(track_title: str, file_title: str) -> bool:
+    """most of the track's real words appear in the file's name"""
+    want = _words(re.sub(r"\(.*?\)", "", track_title))
+    if not want:
+        return False
+    have = _words(file_title)
+    return len(want & have) >= max(1, round(len(want) * 0.6))
+
+
 def commons_audio(title: str, artist: str) -> dict | None:
     """a public-domain / CC recording on Wikimedia Commons, as an mp3 url"""
     api = "https://commons.wikimedia.org/w/api.php"
@@ -170,6 +186,8 @@ def commons_audio(title: str, artist: str) -> dict | None:
         t = hit["title"]
         if not t.lower().endswith((".ogg", ".oga", ".mp3", ".flac", ".wav", ".opus")):
             continue
+        if not title_matches(title, t):
+            continue                                  # a different piece that shares a word
         q2 = urllib.parse.urlencode({"action": "query", "titles": t, "prop": "videoinfo|imageinfo",
                                      "viprop": "derivatives|url", "iiprop": "extmetadata",
                                      "iiextmetadatafilter": "LicenseShortName|Artist", "format": "json"})
@@ -185,10 +203,11 @@ def commons_audio(title: str, artist: str) -> dict | None:
             if "nc" in lic or "nd" in lic:          # keep it to licences that allow plain playback anywhere
                 pass
             vi = (page.get("videoinfo") or [{}])[0]
-            mp3 = next((dv["src"] for dv in vi.get("derivatives") or [] if dv.get("type", "").startswith("audio/mpeg")), None)
-            src = mp3 or vi.get("url")
+            mp3 = next((dv["src"] for dv in vi.get("derivatives") or []
+                        if "mpeg" in dv.get("type", "") or dv.get("src", "").endswith(".mp3")), None)
+            src = mp3 or (vi.get("url") if t.lower().endswith(".mp3") else None)
             if not src:
-                continue
+                continue                              # phones play mp3; Ogg/FLAC stay on the shelf
             return {"url": src, "credit": f"{t[5:]} ({lic})", "page": f"https://commons.wikimedia.org/wiki/{urllib.parse.quote(t)}"}
     return None
 
