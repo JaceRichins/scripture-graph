@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 16
 slug: dc-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75** (lesson) *(explicit citation)*
 - **The Knight and Whitmer Families** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

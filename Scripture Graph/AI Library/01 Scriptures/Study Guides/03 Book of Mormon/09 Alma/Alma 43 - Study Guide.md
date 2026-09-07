@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 43
 slug: alma-43
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,7 @@ The people of Ammon embody a different obligation. Their [[Covenants]] prevent t
 - [[Burying Our Weapons of Rebellion (Elder D. Todd Christofferson, October 2024)|Burying Our Weapons of Rebellion]] — Elder D. Todd Christofferson, 2024-October *(explicit citation)*
 - [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
 - [[Courageous Parenting (Elder Larry R. Lawrence, October 2010)|Courageous Parenting]] — Elder Larry R. Lawrence, 2010-October *(explicit citation)*
+- [[The Book of Mormon Another Testament of Jesus Christ—Plain and Precious Things (President Boyd K. Packer, April 2005)|The Book of Mormon: Another Testament of Jesus Christ—Plain and Precious Things]] — President Boyd K. Packer, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

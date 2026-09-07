@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 34
 slug: dc-34
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,8 @@ The chapter connects Christ’s self-giving, belief, service, repentance, and th
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
+- **Chapter 40: The Father and the Son** (teachings) *(explicit citation)*
+- **Chapter 2: Our Savior, Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

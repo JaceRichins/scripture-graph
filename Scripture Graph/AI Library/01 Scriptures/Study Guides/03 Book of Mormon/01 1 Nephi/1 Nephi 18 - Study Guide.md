@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 18
 slug: 1ne-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,8 +94,8 @@ The operation of the [[Liahona (compass)]] is narrated in moral and relational c
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
-- [[The Tongue of Angels (Elder Jeffrey R. Holland, April 2007)|The Tongue of Angels]] — Elder Jeffrey R. Holland, 2007-April *(explicit citation)*
-- [[The Spirit of Revelation (Elder David A. Bednar, April 2011)|The Spirit of Revelation]] — Elder David A. Bednar, 2011-April *(explicit citation)*
+- [[To Grow Up unto the Lord (Anne C. Pingree, April 2006)|To Grow Up unto the Lord]] — Anne C. Pingree, 2006-April *(explicit citation)*
+- [[That They Might Know Thee (Elder Keith R. Edwards, October 2006)|That They Might Know Thee]] — Elder Keith R. Edwards, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

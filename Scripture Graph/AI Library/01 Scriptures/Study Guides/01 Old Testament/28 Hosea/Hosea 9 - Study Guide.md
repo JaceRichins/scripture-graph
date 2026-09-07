@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 9
 slug: hosea-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Daniel 1]] — 1 footnote cross-reference (from [[Hosea 9#^hosea-9-3|Hosea 9:3]])
 - [[Hosea 11]] — 0 parallel verses
 - [[Hosea 10]] — 0 parallel verses
+- [[Numbers 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,6 +71,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Baal** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

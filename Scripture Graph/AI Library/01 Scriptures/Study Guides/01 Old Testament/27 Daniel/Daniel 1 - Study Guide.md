@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 1
 slug: dan-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,8 +70,8 @@ The repeated movement from royal action to divine action keeps earthly power sub
 - [[Word of Wisdom]]
 - [[Prophecy]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -85,15 +85,18 @@ A connection with the [[Word of Wisdom]] may be devotionally useful, but it must
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Zion in the Midst of Babylon (Elder David R. Stone, April 2006)|Zion in the Midst of Babylon]] — Elder David R. Stone, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7** (lesson) *(explicit citation)*
 - **Word of Wisdom** (reference-entry) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **Cyrus** (reference-entry) *(explicit citation)*
 - **Daniel** (reference-entry) *(explicit citation)*
+- **Chapter 19: Temporal and Spiritual Blessings from the Word of Wisdom** (teachings) *(explicit citation)*
+- **Chapter 11: Living the Word of Wisdom** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

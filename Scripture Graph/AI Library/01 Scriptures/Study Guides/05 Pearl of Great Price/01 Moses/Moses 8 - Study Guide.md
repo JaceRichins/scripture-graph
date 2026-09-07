@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 8
 slug: moses-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,11 +82,16 @@ Judgment is paired with warning and moral agency. The people are told what will 
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
 - [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
+- [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 9–15. “Noah Found Grace in the Eyes of the Lord”: Genesis 6–11; Moses 8** (lesson) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
+- **Chapter 2: The Everlasting Gospel** (teachings) *(explicit citation)*
+- **Chapter 6: Sustaining Those Whom the Lord Sustains** (teachings) *(explicit citation)*
+- **Chapter 17: A Testimony of the Truth** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

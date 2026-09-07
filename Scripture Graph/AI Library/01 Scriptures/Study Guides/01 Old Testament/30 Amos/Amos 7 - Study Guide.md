@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 7
 slug: amos-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
 - **Times and Seasons 1845-06-01 (Vol. 6 No. 10)** (periodical, 1845-06-01) *(explicit citation)*
 - **Amos** (reference-entry) *(explicit citation)*
 - **Bethel** (reference-entry) *(explicit citation)*

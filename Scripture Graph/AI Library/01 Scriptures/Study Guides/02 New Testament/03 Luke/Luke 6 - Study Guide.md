@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 6
 slug: luke-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,22 +56,23 @@ Scripture: [[Luke 6]] · My notes: [[Luke 6 - My Notes]]
 - [[Leviticus 24]] — 1 footnote cross-reference (from [[Luke 6#^luke-6-4|Luke 6:4]])
 - [[1 Samuel 21]] — 1 footnote cross-reference (from [[Luke 6#^luke-6-4|Luke 6:4]])
 - [[John 2]] — 1 footnote cross-reference (from [[Luke 6#^luke-6-8|Luke 6:8]])
+- [[Matthew 7]] — 8 parallel verses, e.g. [[Luke 6#^luke-6-41|Luke 6:41]] ↔ [[Matthew 7#^matt-7-3|Matthew 7:3]]
 - [[3 Nephi 14]] — 8 parallel verses, e.g. [[Luke 6#^luke-6-41|Luke 6:41]] ↔ [[3 Nephi 14#^3ne-14-3|3 Nephi 14:3]]
+- [[Mark 2]] — 3 parallel verses, e.g. [[Luke 6#^luke-6-4|Luke 6:4]] ↔ [[Mark 2#^mark-2-26|Mark 2:26]]
+- [[Mark 3]] — 4 parallel verses, e.g. [[Luke 6#^luke-6-10|Luke 6:10]] ↔ [[Mark 3#^mark-3-5|Mark 3:5]]
+- [[Matthew 12]] — 3 parallel verses, e.g. [[Luke 6#^luke-6-45|Luke 6:45]] ↔ [[Matthew 12#^matt-12-35|Matthew 12:35]]
+- [[Matthew 5]] — 2 parallel verses, e.g. [[Luke 6#^luke-6-28|Luke 6:28]] ↔ [[Matthew 5#^matt-5-44|Matthew 5:44]]
 - [[Mark 1]] — 2 parallel verses, e.g. [[Luke 6#^luke-6-12|Luke 6:12]] ↔ [[Mark 1#^mark-1-9|Mark 1:9]]
 - [[Acts 5]] — 1 parallel verse, e.g. [[Luke 6#^luke-6-18|Luke 6:18]] ↔ [[Acts 5#^acts-5-16|Acts 5:16]]
-- [[Matthew 12]] — 0 parallel verses
-- [[Mark 2]] — 0 parallel verses
-- [[Matthew 5]] — 0 parallel verses
-- [[Matthew 7]] — 0 parallel verses
-- [[Mark 3]] — 0 parallel verses
 - [[3 Nephi 14]] — 0 parallel verses
 - [[1 Samuel 21]] — 0 parallel verses
+- [[Matthew 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Beatitudes]]
 - [[Apostles]]
+- [[Beatitudes]]
 - [[Parables of Jesus]]
 - [[Repentance and Forgiveness]]
 - [[Sabbath Day]] *(keyword match — unconfirmed)*

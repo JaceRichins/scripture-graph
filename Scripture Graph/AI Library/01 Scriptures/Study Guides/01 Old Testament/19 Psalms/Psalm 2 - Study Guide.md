@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 2
 slug: ps-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Acts 4]] — 2 parallel verses, e.g. [[Psalm 2#^ps-2-2|Psalm 2:2]] ↔ [[Acts 4#^acts-4-26|Acts 4:26]]
 - [[Acts 13]] — 1 parallel verse, e.g. [[Psalm 2#^ps-2-7|Psalm 2:7]] ↔ [[Acts 13#^acts-13-33|Acts 13:33]]
 - [[Hebrews 1]] — 1 parallel verse, e.g. [[Psalm 2#^ps-2-7|Psalm 2:7]] ↔ [[Hebrews 1#^heb-1-5|Hebrews 1:5]]
+- [[Revelation 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,6 +67,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 - **Anointed One** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

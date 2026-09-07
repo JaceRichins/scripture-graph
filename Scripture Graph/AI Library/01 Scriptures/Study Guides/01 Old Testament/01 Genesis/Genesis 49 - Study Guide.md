@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 49
 slug: gen-49
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ Several sayings tie conduct to lasting consequence: Reuben's diminished status i
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
 - **Asher** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Dan** (reference-entry) *(explicit citation)*

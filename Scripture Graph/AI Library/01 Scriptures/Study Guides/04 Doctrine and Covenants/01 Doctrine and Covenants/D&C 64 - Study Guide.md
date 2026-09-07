@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 64
 slug: dc-64
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,16 +101,16 @@ The chapter resists reducing forgiveness to a simple rule: disciples are require
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 16–22: “The Lord Requireth the Heart and a Willing Mind”: Doctrine and Covenants 64–66** (lesson) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **13 The Gift Has Returned** (history) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
+- **Chapter 29: Bear No Malice toward Anyone** (teachings) *(explicit citation)*
+- **Chapter 16: Forgiving Others** (teachings) *(explicit citation)*
+- **Chapter 23: Developing a Christlike Character** (teachings) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
-- **Obedience** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

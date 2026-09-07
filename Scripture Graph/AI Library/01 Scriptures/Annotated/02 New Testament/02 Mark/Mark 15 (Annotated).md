@@ -19,7 +19,7 @@ cssclasses:
 ![[Mark 15#^mark-15-1]]
 
 ![[Mark 15#^mark-15-2]]
-> [[Matthew 27#^matt-27-11|≈ Matthew 27:11]] · [[John 18#^john-18-33|≈ John 18:33]] · [[Luke 23#^luke-23-3|≈ Luke 23:3]]
+> [[Matthew 27#^matt-27-11|≈ Matthew 27:11]] · [[Luke 23#^luke-23-3|≈ Luke 23:3]] · [[John 18#^john-18-33|≈ John 18:33]]
 
 ![[Mark 15#^mark-15-3]]
 > [[Isaiah 53#^isa-53-7|Isa. 53:7 (7–8)]] · [[Mosiah 14#^mosiah-14-6|Mosiah 14:7 (6–8)]]

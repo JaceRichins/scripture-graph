@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 14
 slug: ex-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,8 +88,12 @@ Divine hardening in verses 4, 8, and 17 raises a serious question for [[Agency]]
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
 - **Chariot** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
+- **Chapter 20: The Kingdom of God Moves Forward** (teachings) *(explicit citation)*
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
+- **Chapter 24: Righteous Living in Perilous Times** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

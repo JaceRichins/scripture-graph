@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 13
 slug: acts-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,7 @@ The turn toward Gentile hearers belongs to the chapter's treatment of [[Jews and
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[“There Can Be Nothing So Exquisite and Sweet as Was My Joy” (Elder Craig C. Christensen, April 2023)|“There Can Be Nothing So Exquisite and Sweet as Was My Joy”]] — Elder Craig C. Christensen, 2023-April *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

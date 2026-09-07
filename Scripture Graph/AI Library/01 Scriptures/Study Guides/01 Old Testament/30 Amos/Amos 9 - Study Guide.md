@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 9
 slug: amos-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,11 +83,12 @@ Amos 9:8–10 presents a severe conjunction of [[Justice and Mercy]]: sinners fa
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

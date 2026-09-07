@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 11
 slug: dc-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,8 @@ _Not yet developed._
 - [[D&C 33]] — 4 parallel verses, e.g. [[D&C 11#^dc-11-2|D&C 11:2]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
 - [[D&C 10]] — 3 parallel verses, e.g. [[D&C 11#^dc-11-28|D&C 11:28]] ↔ [[D&C 10#^dc-10-57|D&C 10:57]]
 - [[D&C 4]] — 2 parallel verses, e.g. [[D&C 11#^dc-11-1|D&C 11:1]] ↔ [[D&C 4#^dc-4-1|D&C 4:1]]
-- [[John 1]] — 1 parallel verse, e.g. [[D&C 11#^dc-11-30|D&C 11:30]] ↔ [[John 1#^john-1-12|John 1:12]]
 - [[D&C 8]] — 2 parallel verses, e.g. [[D&C 11#^dc-11-17|D&C 11:17]] ↔ [[D&C 8#^dc-8-11|D&C 8:11]]
+- [[John 1]] — 1 parallel verse, e.g. [[D&C 11#^dc-11-30|D&C 11:30]] ↔ [[John 1#^john-1-12|John 1:12]]
 - [[D&C 45]] — 1 parallel verse, e.g. [[D&C 11#^dc-11-29|D&C 11:29]] ↔ [[D&C 45#^dc-45-8|D&C 45:8]]
 - [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 11#^dc-11-28|D&C 11:28]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[D&C 52]] — 1 parallel verse, e.g. [[D&C 11#^dc-11-28|D&C 11:28]] ↔ [[D&C 52#^dc-52-44|D&C 52:44]]
@@ -71,9 +71,9 @@ _Not yet developed._
 - [[Scripture Study]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Faith]] *(keyword match — unconfirmed)*
-- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Kingdom of God]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -102,16 +102,16 @@ Verse 7 contrasts material riches with wisdom and identifies [[Eternal Life]] as
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 10–16: “That You May Come Off Conqueror”: Doctrine and Covenants 10–11** (lesson) *(explicit citation)*
 - **Joseph Smith’s Support at Home** (history) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
+- **August 4–10: “Stand Ye in Holy Places”: Doctrine and Covenants 85–87** (lesson) *(explicit citation)*
+- **Chapter 23: The Progress and Destiny of The Church of Jesus Christ of Latter-day Saints** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Judging Others** (reference-entry) *(explicit citation)*
-- **Obedience** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
-- **Revelation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 17
 slug: 3ne-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -103,11 +103,14 @@ Jesus's reference to Israelite groups known to the Father but lost from human vi
 <!-- SG:BEGIN history -->
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Happiness** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
+- **November 30–December 6. “He Delighteth in Mercy”: Micah; Nahum; Habakkuk; Zephaniah** (lesson) *(explicit citation)*
+- **Chapter 28: The Wrongful Road of Abuse** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

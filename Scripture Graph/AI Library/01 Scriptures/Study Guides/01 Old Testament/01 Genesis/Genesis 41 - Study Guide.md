@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 41
 slug: gen-41
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ Scripture: [[Genesis 41]] · My notes: [[Genesis 41 - My Notes]]
 - [[Judges 11]] — 1 parallel verse, e.g. [[Genesis 41#^gen-41-1|Genesis 41:1]] ↔ [[Judges 11#^judg-11-39|Judges 11:39]]
 - [[Genesis 40]] — 0 parallel verses
 - [[Daniel 1]] — 0 parallel verses
+- [[Genesis 39]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -74,14 +75,17 @@ Joseph's statement in verse 16 models [[Humility]] by refusing to claim independ
 - [[There Was Bread (Bishop W. Christopher Waddell, October 2020)|There Was Bread]] — Bishop W. Christopher Waddell, 2020-October *(explicit citation)*
 - [[God Will Do Something Unimaginable (Elder Dieter F. Uchtdorf, October 2020)|God Will Do Something Unimaginable]] — Elder Dieter F. Uchtdorf, 2020-October *(explicit citation)*
 - [[“Hope Ya Know, We Had a Hard Time” (Elder Quentin L. Cook, October 2008)|“Hope Ya Know, We Had a Hard Time”]] — Elder Quentin L. Cook, 2008-October *(explicit citation)*
+- [[If Ye Are Prepared Ye Shall Not Fear (President Gordon B. Hinckley, October 2005)|If Ye Are Prepared Ye Shall Not Fear]] — President Gordon B. Hinckley, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 9–15. “The Lord Was with Joseph”: Genesis 37–41** (lesson) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Commerce** (reference-entry) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **Ephraim** (reference-entry) *(explicit citation)*
+- **Chapter 20: Temporal Salvation for Ourselves and Others** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

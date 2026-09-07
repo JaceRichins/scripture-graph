@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 20
 slug: luke-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,10 @@ _Not yet developed._
 - [[D&C 132]] — 2 footnote cross-references (from [[Luke 20#^luke-20-35|Luke 20:35]])
 - [[Matthew 11]] — 1 footnote cross-reference (from [[Luke 20#^luke-20-6|Luke 20:6]])
 - [[Matthew 14]] — 1 footnote cross-reference (from [[Luke 20#^luke-20-6|Luke 20:6]])
+- [[Mark 12]] — 15 parallel verses, e.g. [[Luke 20#^luke-20-28|Luke 20:28]] ↔ [[Mark 12#^mark-12-19|Mark 12:19]]
+- [[Matthew 21]] — 10 parallel verses, e.g. [[Luke 20#^luke-20-18|Luke 20:18]] ↔ [[Matthew 21#^matt-21-44|Matthew 21:44]]
+- [[Matthew 22]] — 9 parallel verses, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
+- [[Mark 11]] — 6 parallel verses, e.g. [[Luke 20#^luke-20-5|Luke 20:5]] ↔ [[Mark 11#^mark-11-31|Mark 11:31]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
 - [[1 Nephi 6]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[1 Nephi 6#^1ne-6-4|1 Nephi 6:4]]
@@ -66,10 +70,6 @@ _Not yet developed._
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Acts 2]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-42|Luke 20:42]] ↔ [[Acts 2#^acts-2-34|Acts 2:34]]
 - [[Mark 14]] — 2 parallel verses, e.g. [[Luke 20#^luke-20-3|Luke 20:3]] ↔ [[Mark 14#^mark-14-20|Mark 14:20]]
-- [[Luke 22]] — 2 parallel verses, e.g. [[Luke 20#^luke-20-1|Luke 20:1]] ↔ [[Luke 22#^luke-22-66|Luke 22:66]]
-- [[Exodus 4]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Exodus 4#^ex-4-5|Exodus 4:5]]
-- [[Alma 29]] — 1 parallel verse, e.g. [[Luke 20#^luke-20-37|Luke 20:37]] ↔ [[Alma 29#^alma-29-11|Alma 29:11]]
-- [[Mark 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

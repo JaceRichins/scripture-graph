@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 58
 slug: isa-58
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -60,8 +60,8 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Sabbath Day]]
-- [[Fasting and Prayer for the Poor]]
 - [[Fasting]]
+- [[Fasting and Prayer for the Poor]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -87,13 +87,16 @@ The promised blessings should be read with care. They express a strong covenanta
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66** (lesson) *(explicit citation)*
 - **Family Finances** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **Chapter 19: Take Time to Be Holy** (teachings) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
+- **August 3–9. “Thou Art Come … for Such a Time as This”: Esther** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

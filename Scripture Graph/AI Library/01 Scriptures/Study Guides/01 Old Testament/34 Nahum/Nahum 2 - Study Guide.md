@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nahum
 chapter: 2
 slug: nahum-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 5
 slug: 2cor-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,8 @@ _Not yet developed._
 - [[Romans 8]] — 0 parallel verses
 - [[1 Corinthians 15]] — 0 parallel verses
 - [[Galatians 6]] — 0 parallel verses
+- [[Romans 2]] — 0 parallel verses
+- [[Romans 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

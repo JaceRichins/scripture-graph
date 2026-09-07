@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 1
 slug: 3ne-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ The chapter treats the [[Law of Moses]] as still binding until it is fulfilled '
 <!-- SG:BEGIN history -->
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Signs** (reference-entry) *(explicit citation)*
+- **August 4–10: “Stand Ye in Holy Places”: Doctrine and Covenants 85–87** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

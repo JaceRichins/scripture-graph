@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 16
 slug: 1ne-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,15 +91,15 @@ The chapter also complicates simplistic views of prophetic leadership. Lehi murm
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Eternal Principle of Love (Elder Hugo Montoya, October 2022)|The Eternal Principle of Love]] — Elder Hugo Montoya, 2022-October *(explicit citation)*
+- [[Compass of the Lord (Elder Lowell M. Snow, October 2005)|Compass of the Lord]] — Elder Lowell M. Snow, 2005-October *(explicit citation)*
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 - [[Jesus Christ Is the Strength of Parents (Elder Dieter F. Uchtdorf, April 2023)|Jesus Christ Is the Strength of Parents]] — Elder Dieter F. Uchtdorf, 2023-April *(explicit citation)*
 - [[Pray, He Is There (President Susan H. Porter, April 2024)|Pray, He Is There]] — President Susan H. Porter, 2024-April *(explicit citation)*
 - [[Trust in the Lord (Elder Paul B. Pieper, April 2024)|Trust in the Lord]] — Elder Paul B. Pieper, 2024-April *(explicit citation)*
 - [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
-- [[Wholehearted (Sister Michelle D. Craig, October 2022)|Wholehearted]] — Sister Michelle D. Craig, 2022-October *(explicit citation)*
-- [[Small and Simple Things (President Dallin H. Oaks, April 2018)|Small and Simple Things]] — President Dallin H. Oaks, 2018-April *(explicit citation)*
-- [[Deepening Our Conversion to Jesus Christ (Elder Arnulfo Valenzuela, October 2021)|Deepening Our Conversion to Jesus Christ]] — Elder Arnulfo Valenzuela, 2021-October *(explicit citation)*
+- [[Instruments of the Lord’s Peace (Elder Robert S. Wood, April 2006)|Instruments of the Lord’s Peace]] — Elder Robert S. Wood, 2006-April *(explicit citation)*
+- [[That We May Always Have His Spirit to Be with Us (Elder David A. Bednar, April 2006)|That We May Always Have His Spirit to Be with Us]] — Elder David A. Bednar, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

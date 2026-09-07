@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 52
 slug: isa-52
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,15 +85,18 @@ Redemption here is explicitly non-commercial: the people were "sold...for nought
 - [[Missionaries Are a Treasure of the Church (Elder Kazuhiko Yamashita, October 2011)|Missionaries Are a Treasure of the Church]] — Elder Kazuhiko Yamashita, 2011-October *(explicit citation)*
 - [[Be Your Best Self (President Thomas S. Monson, April 2009)|Be Your Best Self]] — President Thomas S. Monson, 2009-April *(explicit citation)*
 - [[The Three Rs of Choice (President Thomas S. Monson, October 2010)|The Three Rs of Choice]] — President Thomas S. Monson, 2010-October *(explicit citation)*
+- [[Nurturing Marriage (Elder Russell M. Nelson, April 2006)|Nurturing Marriage]] — Elder Russell M. Nelson, 2006-April *(explicit citation)*
 - [[Hastening the Lord’s Game Plan! (Elder S. Gifford Nielsen, October 2013)|Hastening the Lord’s Game Plan!]] — Elder S. Gifford Nielsen, 2013-October *(explicit citation)*
 - [[Live by Faith and Not by Fear (Elder Quentin L. Cook, October 2007)|Live by Faith and Not by Fear]] — Elder Quentin L. Cook, 2007-October *(explicit citation)*
-- [[Come to Zion (Elder D. Todd Christofferson, October 2008)|Come to Zion]] — Elder D. Todd Christofferson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: Reading Poetry in the Old Testament** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **Chapter 14: The Responsibilities and Order of the Priesthood** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

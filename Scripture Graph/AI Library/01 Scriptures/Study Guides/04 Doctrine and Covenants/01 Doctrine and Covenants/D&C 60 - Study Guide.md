@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 60
 slug: dc-60
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,10 +82,14 @@ Verses 2–3 tie [[Missionary Work]] to personal stewardship: hiding one's commi
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 9–15: “I Am with the Faithful Always”: Doctrine and Covenants 60–63** (lesson) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Movies and Television** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
+- **Chapter 9: Proclaiming the Gospel** (teachings) *(explicit citation)*
+- **Chapter 12: Work and Self-Reliance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

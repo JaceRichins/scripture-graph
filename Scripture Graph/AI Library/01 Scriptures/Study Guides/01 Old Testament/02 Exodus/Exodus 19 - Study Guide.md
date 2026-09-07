@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 19
 slug: ex-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,17 +85,21 @@ The encounter also presents holiness as ordered approach. Washing, temporary abs
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
+- [[A Pattern for All (Elder Merrill J. Bateman, October 2005)|A Pattern for All]] — Elder Merrill J. Bateman, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1836-06-01 (Vol. 2 No. 9)** (periodical, 1836-06-01) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
 - **Exodus, book of** (reference-entry) *(explicit citation)*
 - **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
+- **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

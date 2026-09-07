@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 7
 slug: alma-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -115,7 +115,7 @@ Scripture: [[Alma 7]] · My notes: [[Alma 7 - My Notes]]
 - **Same-Sex Attraction** (reference-entry) *(explicit citation)*
 - **Suicide** (reference-entry) *(explicit citation)*
 - **33 O God, Where Art Thou?** (history) *(explicit citation)*
-- **Hope** (reference-entry) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

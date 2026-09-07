@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 24
 slug: acts-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[The Correct Name of the Church (President Russell M. Nelson, October 2018)|The Correct Name of the Church]] — President Russell M. Nelson, 2018-October *(explicit citation)*
 - [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
+- [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -73,6 +74,7 @@ _Not yet developed._
 - **Drusilla** (reference-entry) *(explicit citation)*
 - **Felix** (reference-entry) *(explicit citation)*
 - **Festus** (reference-entry) *(explicit citation)*
+- **Chapter 3: The Plan of Salvation** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

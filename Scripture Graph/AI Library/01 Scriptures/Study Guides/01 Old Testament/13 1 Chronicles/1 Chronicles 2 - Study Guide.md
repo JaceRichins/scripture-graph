@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 2
 slug: 1chr-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -41,6 +41,7 @@ The repeated Caleb headings (vv.18, 42, 50) resist reduction to one simple linea
 - [[Joseph (of Egypt)]] — 1 mention
 - [[King Benjamin]] — 1 mention
 - [[David (king)]] — 1 mention
+- [[Mesha (king of Moab)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places

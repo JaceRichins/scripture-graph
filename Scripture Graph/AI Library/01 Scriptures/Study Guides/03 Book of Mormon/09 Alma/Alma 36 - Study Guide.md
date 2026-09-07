@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 36
 slug: alma-36
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,10 +101,10 @@ Trust does not eliminate [[Adversity]]. Alma reports trials, prison, bonds, and 
 - [[The Exquisite Gift of the Son (Elder Matthew S. Holland, October 2020)|The Exquisite Gift of the Son]] — Elder Matthew S. Holland, 2020-October *(explicit citation)*
 - [[The Atonement of Jesus Christ (Tad R. Callister, April 2019)|The Atonement of Jesus Christ]] — Tad R. Callister, 2019-April *(explicit citation)*
 - [[Focus on Jesus Christ and His Gospel (Elder I. Raymond Egbo, October 2024)|Focus on Jesus Christ and His Gospel]] — Elder I. Raymond Egbo, 2024-October *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[A Pattern for Peace (Bishop W. Christopher Waddell, April 2016)|A Pattern for Peace]] — Bishop W. Christopher Waddell, 2016-April *(explicit citation)*
 - [[Be Ambitious for Christ (Elder Kazuhiko Yamashita, October 2016)|Be Ambitious for Christ]] — Elder Kazuhiko Yamashita, 2016-October *(explicit citation)*
-- [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

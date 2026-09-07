@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 31
 slug: ex-31
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,10 +87,12 @@ Scripture: [[Exodus 31]] · My notes: [[Exodus 31 - My Notes]]
 - [[Make Time for the Lord (President Russell M. Nelson, October 2021)|Make Time for the Lord]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 - [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
 - [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
+- [[A Pattern for All (Elder Merrill J. Bateman, October 2005)|A Pattern for All]] — Elder Merrill J. Bateman, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Sabbath** (reference-entry) *(explicit citation)*

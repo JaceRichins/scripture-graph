@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 10
 slug: gen-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -35,6 +35,7 @@ Scripture: [[Genesis 10]] · My notes: [[Genesis 10 - My Notes]]
 ## People
 <!-- SG:BEGIN people -->
 - [[Noah (patriarch)]] — 2 mentions
+- [[Mesha (king of Moab)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places

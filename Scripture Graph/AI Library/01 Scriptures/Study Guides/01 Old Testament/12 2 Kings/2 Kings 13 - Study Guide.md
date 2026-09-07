@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 13
 slug: 2kgs-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

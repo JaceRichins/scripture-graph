@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 11
 slug: 2ne-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ Verse 7 identifies God with Christ and makes creation dependent upon divine exis
 - [[Keeping Covenants Protects Us, Prepares Us, and Empowers Us (Rosemary M. Wixom, April 2014)|Keeping Covenants Protects Us, Prepares Us, and Empowers Us]] — Rosemary M. Wixom, 2014-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[My Soul Delighteth in the Things of the Lord (Susan W. Tanner, April 2008)|My Soul Delighteth in the Things of the Lord]] — Susan W. Tanner, 2008-April *(explicit citation)*
+- [[The Book of Mormon Another Testament of Jesus Christ—Plain and Precious Things (President Boyd K. Packer, April 2005)|The Book of Mormon: Another Testament of Jesus Christ—Plain and Precious Things]] — President Boyd K. Packer, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -91,6 +92,10 @@ Verse 7 identifies God with Christ and makes creation dependent upon divine exis
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Chapter 10: Prayer and Personal Revelation** (teachings) *(explicit citation)*
+- **Ideas to Improve Learning at Home and at Church** (lesson) *(explicit citation)*
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Ideas to Improve Learning at Home and at Church** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

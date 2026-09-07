@@ -28,7 +28,7 @@ cssclasses:
 > [[D&C 105#^dc-105-26|D&amp;C 105:26]] · [[Exodus 3#^ex-3-10|≈ Exodus 3:10]] · [[Exodus 6#^ex-6-13|≈ Exodus 6:13]] · [[Exodus 12#^ex-12-51|≈ Exodus 12:51]]
 
 ![[Exodus 7#^ex-7-5]]
-> [[Exodus 14#^ex-14-4|Ex. 14:4]] · [[Nehemiah 9#^neh-9-6|Neh. 9:10 (6–10)]] · [[Exodus 8#^ex-8-10|Ex. 8:10]] · [[Exodus 14#^ex-14-18|≈ Exodus 14:18]] · [[Exodus 6#^ex-6-26|≈ Exodus 6:26]] · [[Exodus 6#^ex-6-27|≈ Exodus 6:27]]
+> [[Exodus 14#^ex-14-4|Ex. 14:4]] · [[Nehemiah 9#^neh-9-6|Neh. 9:10 (6–10)]] · [[Exodus 8#^ex-8-10|Ex. 8:10]] · [[Exodus 6#^ex-6-26|≈ Exodus 6:26]] · [[Exodus 6#^ex-6-27|≈ Exodus 6:27]] · [[Exodus 14#^ex-14-18|≈ Exodus 14:18]]
 
 ![[Exodus 7#^ex-7-6]]
 

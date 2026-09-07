@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 18
 slug: 1sam-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,8 +92,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*
 - **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
+- **Chapter 16: ‘That We May Become One’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

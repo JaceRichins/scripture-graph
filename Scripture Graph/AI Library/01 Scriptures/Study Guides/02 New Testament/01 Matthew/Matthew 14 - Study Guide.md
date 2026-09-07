@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 14
 slug: matt-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,7 +50,9 @@ _Not yet developed._
 - [[Matthew 11]] — 1 footnote cross-reference (from [[Matthew 14#^matt-14-5|Matthew 14:5]])
 - [[Matthew 21]] — 1 footnote cross-reference (from [[Matthew 14#^matt-14-5|Matthew 14:5]])
 - [[Luke 20]] — 1 footnote cross-reference (from [[Matthew 14#^matt-14-5|Matthew 14:5]])
+- [[Mark 6]] — 10 parallel verses, e.g. [[Matthew 14#^matt-14-2|Matthew 14:2]] ↔ [[Mark 6#^mark-6-14|Mark 6:14]]
 - [[Matthew 15]] — 3 parallel verses, e.g. [[Matthew 14#^matt-14-20|Matthew 14:20]] ↔ [[Matthew 15#^matt-15-37|Matthew 15:37]]
+- [[Luke 9]] — 2 parallel verses, e.g. [[Matthew 14#^matt-14-19|Matthew 14:19]] ↔ [[Luke 9#^luke-9-16|Luke 9:16]]
 - [[Mark 8]] — 2 parallel verses, e.g. [[Matthew 14#^matt-14-20|Matthew 14:20]] ↔ [[Mark 8#^mark-8-8|Mark 8:8]]
 - [[Mark 6]] — 0 parallel verses
 - [[Matthew 9]] — 0 parallel verses
@@ -58,8 +60,7 @@ _Not yet developed._
 - [[John 6]] — 0 parallel verses
 - [[Matthew 8]] — 0 parallel verses
 - [[John 6]] — 0 parallel verses
-- [[Mark 6]] — 0 parallel verses
-- [[Luke 9]] — 0 parallel verses
+- [[Matthew 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -94,6 +95,8 @@ The chapter joins [[Faith]] to dependence upon Jesus rather than to confidence i
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Gennesaret(h), Land of** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
+- **Chapter 4: Elements of Worship** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

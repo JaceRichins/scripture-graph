@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 4
 slug: morm-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,20 +51,21 @@ The chapter falls into four movements:
 - [[2 Peter 2]] — 1 footnote cross-reference (from [[Mormon 4#^morm-4-5|Mormon 4:5]])
 - [[Mormon 3]] — 6 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 3#^morm-3-7|Mormon 3:7]]
 - [[Mormon 2]] — 6 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 2#^morm-2-3|Mormon 2:3]]
+- [[Mormon 5]] — 3 parallel verses, e.g. [[Mormon 4#^morm-4-1|Mormon 4:1]] ↔ [[Mormon 5#^morm-5-6|Mormon 5:6]]
 - [[3 Nephi 4]] — 2 parallel verses, e.g. [[Mormon 4#^morm-4-2|Mormon 4:2]] ↔ [[3 Nephi 4#^3ne-4-8|3 Nephi 4:8]]
 - [[Alma 3]] — 1 parallel verse, e.g. [[Mormon 4#^morm-4-17|Mormon 4:17]] ↔ [[Alma 3#^alma-3-1|Alma 3:1]]
 - [[Alma 58]] — 2 parallel verses, e.g. [[Mormon 4#^morm-4-2|Mormon 4:2]] ↔ [[Alma 58#^alma-58-30|Alma 58:30]]
 - [[Alma 30]] — 1 parallel verse, e.g. [[Mormon 4#^morm-4-17|Mormon 4:17]] ↔ [[Alma 30#^alma-30-2|Alma 30:2]]
-- [[Mormon 5]] — 0 parallel verses
 - [[Mormon 2]] — 0 parallel verses
 - [[Mormon 3]] — 0 parallel verses
+- [[Mormon 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Pride]]
 - [[Records and Sacred Writings]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

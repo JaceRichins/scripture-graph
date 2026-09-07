@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 7
 slug: ezek-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Ezekiel 28]] — 2 parallel verses, e.g. [[Ezekiel 7#^ezek-7-27|Ezekiel 7:27]] ↔ [[Ezekiel 28#^ezek-28-24|Ezekiel 28:24]]
 - [[Ezekiel 21]] — 1 parallel verse, e.g. [[Ezekiel 7#^ezek-7-17|Ezekiel 7:17]] ↔ [[Ezekiel 21#^ezek-21-7|Ezekiel 21:7]]
 - [[Ezekiel 21]] — 0 parallel verses
+- [[Zephaniah 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

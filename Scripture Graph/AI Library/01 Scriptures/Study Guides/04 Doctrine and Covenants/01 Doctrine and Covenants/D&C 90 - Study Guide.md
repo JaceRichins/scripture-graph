@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 90
 slug: dc-90
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ The chapter treats [[Priesthood]] keys and [[Revelation]] as inseparable from ac
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 18–24: “A Principle with Promise”: Doctrine and Covenants 89–92** (lesson) *(explicit citation)*
 - **16 Only a Prelude** (history) *(explicit citation)*
 - **19 Stewards over This Ministry** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
@@ -104,7 +105,6 @@ The chapter treats [[Priesthood]] keys and [[Revelation]] as inseparable from ac
 - **First Presidency** (reference-entry) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
 - **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
-- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 24
 slug: ps-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,12 +84,16 @@ The opening strongly supports [[Creation]] and divine ownership: earth, abundanc
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Daily service** (reference-entry) *(explicit citation)*
 - **Chapter 36: Receiving the Ordinances and Blessings of the Temple** (teachings) *(explicit citation)*
 - **Chapter 33: Missionary Work** (teachings) *(explicit citation)*
+- **Chapter 24: The Kingdom of God** (teachings) *(explicit citation)*
+- **Chapter 17: Temple Work: Turning Our Hearts to Our Families and to the Lord** (teachings) *(explicit citation)*
+- **Chapter 8: ‘Search Me, O God, and Know My Heart’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

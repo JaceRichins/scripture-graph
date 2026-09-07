@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 3
 slug: 1sam-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -73,9 +73,12 @@ The chapter contributes to [[Revelation]] and [[Prophets]] by depicting a call i
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 1–7. “My Heart Rejoiceth in the Lord”: Ruth; 1 Samuel 1–7** (lesson) *(explicit citation)*
+- **Chapter 6: To Hear the Voice of the Lord** (teachings) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
 - **Beersheba** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
+- **Chapter 30: Yield to the Promptings of the Spirit** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

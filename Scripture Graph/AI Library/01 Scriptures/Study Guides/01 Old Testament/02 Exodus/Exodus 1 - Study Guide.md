@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 1
 slug: ex-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,8 +80,10 @@ Israel's multiplication fits naturally within the [[Abrahamic Covenant]], especi
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 23–29. “I Have Remembered My Covenant”: Exodus 1–6** (lesson) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Exodus, book of** (reference-entry) *(explicit citation)*
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

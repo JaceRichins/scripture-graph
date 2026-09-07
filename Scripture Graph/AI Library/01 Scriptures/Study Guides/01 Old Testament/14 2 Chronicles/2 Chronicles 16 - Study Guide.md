@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 16
 slug: 2chr-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ _Not yet developed._
 - **Damascus** (reference-entry) *(explicit citation)*
 - **Dan** (reference-entry) *(explicit citation)*
 - **Embalming** (reference-entry) *(explicit citation)*
+- **July 20–26. “Our Eyes Are upon Thee”: 2 Chronicles 14–20; 26; 30** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

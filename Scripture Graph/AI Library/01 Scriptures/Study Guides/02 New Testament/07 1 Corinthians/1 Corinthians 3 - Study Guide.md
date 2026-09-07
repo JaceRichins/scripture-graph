@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 3
 slug: 1cor-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,7 +93,7 @@ In verses 16-17 the Corinthian community is addressed collectively as God's holy
 - [[Be an Example of the Believers (Mary N. Cook, October 2010)|Be an Example of the Believers]] — Mary N. Cook, 2010-October *(explicit citation)*
 - [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
 - [[A Return to Virtue (Elaine S. Dalton, October 2008)|A Return to Virtue]] — Elaine S. Dalton, 2008-October *(explicit citation)*
-- [[The Plan and the Proclamation (Elder Dallin H. Oaks, October 2017)|The Plan and the Proclamation]] — Elder Dallin H. Oaks, 2017-October *(explicit citation)*
+- [[Be Thou an Example (President Thomas S. Monson, April 2005)|Be Thou an Example]] — President Thomas S. Monson, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -106,6 +106,8 @@ In verses 16-17 the Corinthian community is addressed collectively as God's holy
 - **Fire** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
 - **Chapter 29: Living the Word of Wisdom** (teachings) *(explicit citation)*
+- **Chapter 11: Living the Word of Wisdom** (teachings) *(explicit citation)*
+- **Chapter 13: Teaching the Gospel in the Home** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

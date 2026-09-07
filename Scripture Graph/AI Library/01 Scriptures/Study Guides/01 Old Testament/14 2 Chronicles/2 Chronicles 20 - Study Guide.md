@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 20
 slug: 2chr-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ The prayer also joins [[Temples]], covenant memory, and present need. Jehoshapha
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 20–26. “Our Eyes Are upon Thee”: 2 Chronicles 14–20; 26; 30** (lesson) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Ahaziah** (reference-entry) *(explicit citation)*

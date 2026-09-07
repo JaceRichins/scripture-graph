@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 15
 slug: josh-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -42,6 +42,7 @@ Scripture: [[Joshua 15]] · My notes: [[Joshua 15 - My Notes]]
 - [[Egypt]] — 2 mentions
 - [[Jordan River]] — 2 mentions
 - [[Hebron]] — 2 mentions
+- [[Lachish]] — 1 mention
 - [[Gaza]] — 1 mention
 - [[Mount Carmel]] — 1 mention
 <!-- SG:END places -->

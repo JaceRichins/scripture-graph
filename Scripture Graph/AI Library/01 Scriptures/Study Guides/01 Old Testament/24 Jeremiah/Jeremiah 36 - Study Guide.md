@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 36
 slug: jer-36
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 26–November 1. “I Will Turn Their Mourning into Joy”: Jeremiah 31–33; 36–39; Lamentations 1; 3** (lesson) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Canon** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*

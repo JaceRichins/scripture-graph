@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 15
 slug: rom-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -58,9 +58,9 @@ Scripture: [[Romans 15]] · My notes: [[Romans 15 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
-- [[Gospel of Jesus Christ]]
 - [[Scripture Study]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
 - [[Hope]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -78,6 +78,7 @@ Christ's reception of believers grounds their duty to receive one another (Roman
 - [[The Holy Ghost (Elder Robert D. Hales, April 2016)|The Holy Ghost]] — Elder Robert D. Hales, 2016-April *(explicit citation)*
 - [[Temples, Houses of the Lord Dotting the Earth (Elder Neil L. Andersen, April 2024)|Temples, Houses of the Lord Dotting the Earth]] — Elder Neil L. Andersen, 2024-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[Christlike Attributes—the Wind beneath Our Wings (Elder Dieter F. Uchtdorf, October 2005)|Christlike Attributes—the Wind beneath Our Wings]] — Elder Dieter F. Uchtdorf, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

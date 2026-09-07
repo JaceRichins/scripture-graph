@@ -6,7 +6,7 @@ volume: Old Testament
 book: Habakkuk
 chapter: 1
 slug: hab-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **November 30–December 6. “He Delighteth in Mercy”: Micah; Nahum; Habakkuk; Zephaniah** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

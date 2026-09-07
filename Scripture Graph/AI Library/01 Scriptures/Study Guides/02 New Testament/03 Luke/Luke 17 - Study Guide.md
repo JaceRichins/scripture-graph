@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 17
 slug: luke-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,22 +53,24 @@ Scripture: [[Luke 17]] · My notes: [[Luke 17 - My Notes]]
 - [[Romans 3]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-10|Luke 17:10]])
 - [[Mosiah 2]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-10|Luke 17:10]])
 - [[Leviticus 13]] — 1 footnote cross-reference (from [[Luke 17#^luke-17-14|Luke 17:14]])
+- [[Matthew 24]] — 7 parallel verses, e.g. [[Luke 17#^luke-17-36|Luke 17:36]] ↔ [[Matthew 24#^matt-24-40|Matthew 24:40]]
 - [[Joseph Smith—Matthew 1]] — 8 parallel verses, e.g. [[Luke 17#^luke-17-36|Luke 17:36]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-44|Joseph Smith—Matthew 1:44]]
+- [[Matthew 18]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-2|Luke 17:2]] ↔ [[Matthew 18#^matt-18-6|Matthew 18:6]]
+- [[Mark 9]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-2|Luke 17:2]] ↔ [[Mark 9#^mark-9-42|Mark 9:42]]
+- [[Luke 9]] — 2 parallel verses, e.g. [[Luke 17#^luke-17-14|Luke 17:14]] ↔ [[Luke 9#^luke-9-57|Luke 9:57]]
+- [[Mark 8]] — 2 parallel verses, e.g. [[Luke 17#^luke-17-33|Luke 17:33]] ↔ [[Mark 8#^mark-8-35|Mark 8:35]]
 - [[Mark 10]] — 1 parallel verse, e.g. [[Luke 17#^luke-17-19|Luke 17:19]] ↔ [[Mark 10#^mark-10-52|Mark 10:52]]
-- [[Luke 9]] — 0 parallel verses
-- [[Matthew 24]] — 0 parallel verses
-- [[Matthew 18]] — 0 parallel verses
-- [[Mark 9]] — 0 parallel verses
 - [[Joseph Smith—Matthew 1]] — 0 parallel verses
 - [[Genesis 19]] — 0 parallel verses
 - [[Genesis 7]] — 0 parallel verses
+- [[Matthew 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Gratitude]]
-- [[Kingdom of God]]
 - [[Repentance and Forgiveness]]
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -98,6 +100,11 @@ The chapter keeps several truths in productive tension. Offenses are inevitable,
 - **Gratitude** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 6** (history, 1902-1912) *(explicit citation)*
 - **By and by** (reference-entry) *(explicit citation)*
+- **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
+- **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
+- **July 14–20: “I Will Lead You Along”: Doctrine and Covenants 77–80** (lesson) *(explicit citation)*
+- **Chapter 3: The Purpose of the Church** (teachings) *(explicit citation)*
+- **Chapter 5: Walking in the Light of Testimony** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

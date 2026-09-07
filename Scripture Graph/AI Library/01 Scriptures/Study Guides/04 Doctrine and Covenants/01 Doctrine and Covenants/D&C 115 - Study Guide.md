@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 115
 slug: dc-115
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,16 +92,16 @@ Verse 13 restricts Joseph Smith, Sidney Rigdon, and Hyrum Smith from incurring a
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 13–19: “His Sacrifice Shall Be More Sacred unto Me Than His Increase”: Doctrine and Covenants 115–120** (lesson) *(explicit citation)*
 - **‘The Tithing of My People’** (history) *(explicit citation)*
 - **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
 - **26 A Holy and Consecrated Land** (history) *(explicit citation)*
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
 - **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 14: Remembering Our Spiritual Heritage** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Mormon Church** (reference-entry) *(explicit citation)*
-- **Mormonism** (reference-entry) *(explicit citation)*
-- **Mormons** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

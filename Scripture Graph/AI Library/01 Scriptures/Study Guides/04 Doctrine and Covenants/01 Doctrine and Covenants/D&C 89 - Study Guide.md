@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 89
 slug: dc-89
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,12 +93,12 @@ The chapter's theology is strongly embodied: divine instruction addresses food, 
 - **Word of Wisdom** (reference-entry) *(explicit citation)*
 - **15 Holy Places** (history) *(explicit citation)*
 - **Peace and War** (history) *(explicit citation)*
+- **Chapter 21: Observing the Word of Wisdom** (teachings) *(explicit citation)*
+- **August 18–24: “A Principle with Promise”: Doctrine and Covenants 89–92** (lesson) *(explicit citation)*
 - **Word of Wisdom** (reference-entry) *(explicit citation)*
 - **Word of Wisdom** (reference-entry) *(explicit citation)*
-- **A School and an Endowment** (history) *(explicit citation)*
-- **Spiritual Gifts** (reference-entry) *(explicit citation)*
-- **Chapter 29: Living the Word of Wisdom** (teachings) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
+- **Chapter 11: Living the Word of Wisdom** (teachings) *(explicit citation)*
+- **Chapter 36: The Word of Wisdom: A Law for the Physical and Spiritual Health of the Saints** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

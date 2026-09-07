@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 9
 slug: ps-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Prayers for Peace (President Henry B. Eyring, April 2026)|Prayers for Peace]] — President Henry B. Eyring, 2026-April *(explicit citation)*
+- [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 1
 slug: job-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -78,13 +78,20 @@ The chapter is a forceful warning against assuming that prosperity proves righte
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[Faith in Adversity (Elder Rafael E. Pino, April 2009)|Faith in Adversity]] — Elder Rafael E. Pino, 2009-April *(explicit citation)*
 - [[Enduring Together (Bishop Richard C. Edgley, October 2007)|Enduring Together]] — Bishop Richard C. Edgley, 2007-October *(explicit citation)*
+- [[The Power of Patience (Elder Robert C. Oaks, October 2006)|The Power of Patience]] — Elder Robert C. Oaks, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 10–16. “Yet Will I Trust in Him”: Job 1–3; 12–14; 19; 21–24; 38–40; 42** (lesson) *(explicit citation)*
+- **Chapter 47: Integrity: Living Our Religion with All Our Hearts** (teachings) *(explicit citation)*
 - **Journal of Discourses, Volume 22** (history, ~1875) *(explicit citation)*
 - **Camel** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 8: Understanding Death and Resurrection** (teachings) *(explicit citation)*
+- **Chapter 22: Temporal and Spiritual Labor, ‘Hand in Hand Together’** (teachings) *(explicit citation)*
+- **Chapter 15: The Salvation of Little Children** (teachings) *(explicit citation)*
+- **Chapter 15: Eternal Marriage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 55
 slug: ps-55
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[Trust Again (Elder Gerrit W. Gong, October 2021)|Trust Again]] — Elder Gerrit W. Gong, 2021-October *(explicit citation)*
 - [[Motions of a Hidden Fire (President Jeffrey R. Holland, April 2024)|Motions of a Hidden Fire]] — President Jeffrey R. Holland, 2024-April *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -69,6 +70,7 @@ _Not yet developed._
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Chapter 19: Stand Fast through the Storms of Life** (teachings) *(explicit citation)*
 - **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
+- **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

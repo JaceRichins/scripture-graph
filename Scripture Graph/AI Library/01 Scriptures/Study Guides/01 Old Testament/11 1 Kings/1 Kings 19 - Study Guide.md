@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 19
 slug: 1kgs-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ The chapter is a key text on [[Revelation]]: divine communication is not confine
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 29–July 5. “If the Lord Be God, Follow Him”: 1 Kings 12–13; 17–22** (lesson) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Suicide** (reference-entry) *(explicit citation)*
@@ -96,7 +97,6 @@ The chapter is a key text on [[Revelation]]: divine communication is not confine
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
-- **Revelation** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

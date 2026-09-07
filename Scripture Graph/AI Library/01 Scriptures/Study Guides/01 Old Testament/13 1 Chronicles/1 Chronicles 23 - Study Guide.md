@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 23
 slug: 1chr-23
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 15
 slug: ether-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

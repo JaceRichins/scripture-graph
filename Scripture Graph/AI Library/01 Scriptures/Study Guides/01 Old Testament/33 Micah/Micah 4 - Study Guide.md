@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 4
 slug: micah-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,9 @@ The chapter supports [[Millennium]] (universal instruction, disarmament, cessati
 <!-- SG:BEGIN history -->
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 17: Temple Work: Turning Our Hearts to Our Families and to the Lord** (teachings) *(explicit citation)*
+- **Chapter 16: Uniting to Save Souls** (teachings) *(explicit citation)*
+- **Latter-day Saints' Southern Star 1899-02-04 (Vol. 1 No. 10)** (history, 1899-02-04) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

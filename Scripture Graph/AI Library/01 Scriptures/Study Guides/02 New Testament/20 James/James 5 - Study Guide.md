@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 5
 slug: james-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ The [[Second Coming of Jesus Christ]] is presented as an ethical reality. Becaus
 - [[“I Have Given You an Example” (Elder Richard G. Scott, April 2014)|“I Have Given You an Example”]] — Elder Richard G. Scott, 2014-April *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 - [[God Loves and Helps All of His Children (Bishop Keith B. McMullin, October 2008)|God Loves and Helps All of His Children]] — Bishop Keith B. McMullin, 2008-October *(explicit citation)*
+- [[Strengthen Thy Brethren (Elder Robert J. Whetten, April 2005)|Strengthen Thy Brethren]] — Elder Robert J. Whetten, 2005-April *(explicit citation)*
 - [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 - [[The Things of Which I Know (President Gordon B. Hinckley, April 2007)|The Things of Which I Know]] — President Gordon B. Hinckley, 2007-April *(explicit citation)*
 <!-- SG:END conference -->

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 3
 slug: rom-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,14 +54,15 @@ _Not yet developed._
 - [[Ephesians 2]] — 0 parallel verses
 - [[Galatians 3]] — 0 parallel verses
 - [[Isaiah 59]] — 0 parallel verses
+- [[Galatians 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Justification and Sanctification]]
-- [[Jews and Gentiles]]
 - [[Law of Moses]]
 - [[Faith]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Honesty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

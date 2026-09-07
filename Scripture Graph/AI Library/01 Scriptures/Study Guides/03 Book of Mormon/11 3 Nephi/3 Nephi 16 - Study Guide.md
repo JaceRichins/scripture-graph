@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 16
 slug: 3ne-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -79,12 +79,13 @@ The chapter ties covenant standing to response rather than fixed status: Gentile
 <!-- SG:BEGIN conference -->
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[All Men Everywhere (Elder Dallin H. Oaks, April 2006)|All Men Everywhere]] — Elder Dallin H. Oaks, 2006-April *(explicit citation)*
 - [[Come unto Him (Elder Neil L. Andersen, April 2009)|Come unto Him]] — Elder Neil L. Andersen, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

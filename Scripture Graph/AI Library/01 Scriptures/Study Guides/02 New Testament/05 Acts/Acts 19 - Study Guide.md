@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 19
 slug: acts-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 - [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*
 - [[Receive the Holy Ghost (Elder David A. Bednar, October 2010)|Receive the Holy Ghost]] — Elder David A. Bednar, 2010-October *(explicit citation)*
 - [[Born Again (Elder D. Todd Christofferson, April 2008)|Born Again]] — Elder D. Todd Christofferson, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -77,6 +78,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Ephesus** (reference-entry) *(explicit citation)*
 - **Latter-day Saints' Southern Star 1898-12-10 (Vol. 1 No. 2)** (history, 1898-12-10) *(explicit citation)*
+- **Chapter 14: The Gift of the Holy Ghost** (teachings) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1844-12-01 (Vol. 5 No. 22)** (periodical, 1844-12-01) *(explicit citation)*
@@ -84,7 +86,6 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Confirmation** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
-- **Diana** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

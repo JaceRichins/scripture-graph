@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 9
 slug: ezra-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[D&C 3]] — 1 footnote cross-reference (from [[Ezra 9#^ezra-9-1|Ezra 9:1]])
 - [[Deuteronomy 7]] — 1 footnote cross-reference (from [[Ezra 9#^ezra-9-2|Ezra 9:2]])
 - [[Job 1]] — 1 footnote cross-reference (from [[Ezra 9#^ezra-9-3|Ezra 9:3]])
+- [[Malachi 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

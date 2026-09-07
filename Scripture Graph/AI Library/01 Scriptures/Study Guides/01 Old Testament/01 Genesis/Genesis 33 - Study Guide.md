@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 33
 slug: gen-33
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 2–8. “Let God Prevail”: Genesis 24–33** (lesson) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

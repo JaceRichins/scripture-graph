@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 14
 slug: rom-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[1 Corinthians 8]] — 0 parallel verses
 - [[Isaiah 45]] — 0 parallel verses
 - [[Philippians 2]] — 0 parallel verses
+- [[1 Timothy 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,6 +80,7 @@ _Not yet developed._
 - [[An Ensign to the Nations (Elder Jeffrey R. Holland, April 2011)|An Ensign to the Nations]] — Elder Jeffrey R. Holland, 2011-April *(explicit citation)*
 - [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
 - [[Loving Others and Living with Differences (Elder Dallin H. Oaks, October 2014)|Loving Others and Living with Differences]] — Elder Dallin H. Oaks, 2014-October *(explicit citation)*
+- [[If Ye Are Prepared Ye Shall Not Fear (President Gordon B. Hinckley, October 2005)|If Ye Are Prepared Ye Shall Not Fear]] — President Gordon B. Hinckley, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -90,6 +92,8 @@ _Not yet developed._
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 29: Living with Others in Peace and Harmony** (teachings) *(explicit citation)*
 - **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
+- **Chapter 4: Strengthened by the Power of the Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 24: Jesus Christ, the Son of the Living God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

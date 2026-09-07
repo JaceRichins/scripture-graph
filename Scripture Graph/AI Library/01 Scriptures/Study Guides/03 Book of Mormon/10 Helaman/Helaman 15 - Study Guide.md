@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 15
 slug: hel-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -103,6 +103,8 @@ The restoration promise belongs to the paired themes of [[Scattering of Israel]]
 - **Godhead** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **March 24–30: “All Things Must Be Done in Order”: Doctrine and Covenants 27–28** (lesson) *(explicit citation)*
+- **Chapter 15: Living by Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

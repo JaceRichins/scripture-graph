@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 45
 slug: dc-45
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,16 +101,16 @@ This outline tracks clear shifts in topic and speaker focus but should not be re
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 5–11: “The Promises … Shall Be Fulfilled”: Doctrine and Covenants 45** (lesson) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Peace and War** (history) *(explicit citation)*
 - **15 Holy Places** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 26: Preparing for the Coming of Our Lord** (teachings) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
 - **Millennium** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
-- **Zion** (reference-entry) *(explicit citation)*
-- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

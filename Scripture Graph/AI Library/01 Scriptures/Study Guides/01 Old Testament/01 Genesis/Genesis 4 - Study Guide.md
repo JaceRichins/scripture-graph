@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 4
 slug: gen-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ Genesis 4 narrates the first birth, the first murder, and the divergence of two 
 - [[Alma 20]] — 0 parallel verses
 - [[Ether 8]] — 0 parallel verses
 - [[Hebrews 12]] — 0 parallel verses
+- [[Matthew 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,6 +82,7 @@ The warning in Genesis 4:6-7 places [[Agency]] beside [[Sin]]: Cain's anger is a
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Out of Small Things (Elder Michael J. Teh, October 2007)|Out of Small Things]] — Elder Michael J. Teh, 2007-October *(explicit citation)*
+- [[To Act for Ourselves The Gift and Blessings of Agency (Elder Robert D. Hales, April 2006)|To Act for Ourselves: The Gift and Blessings of Agency]] — Elder Robert D. Hales, 2006-April *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -88,11 +90,15 @@ The warning in Genesis 4:6-7 places [[Agency]] beside [[Sin]]: Cain's anger is a
 ## Church History
 <!-- SG:BEGIN history -->
 - **Cain** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **Abel** (reference-entry) *(explicit citation)*
 - **Agriculture** (reference-entry) *(explicit citation)*
 - **Eve** (reference-entry) *(explicit citation)*
 - **Genesis** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 2: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 11: Jesus Christ Redeems the Repentant from Spiritual Death** (teachings) *(explicit citation)*
+- **Chapter 32: Liberty through Obedience** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

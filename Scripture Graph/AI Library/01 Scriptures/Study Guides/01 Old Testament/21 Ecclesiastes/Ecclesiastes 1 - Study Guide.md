@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 1
 slug: eccl-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,7 +72,7 @@ God is explicitly named in verse 13 as the giver of humanity's difficult task. T
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

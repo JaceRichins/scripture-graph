@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 2
 slug: rev-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -45,7 +45,8 @@ Each message has a recognizable sequence: address, a title of Christ, an assessm
 - [[D&C 64]] — 1 footnote cross-reference (from [[Revelation 2#^rev-2-2|Revelation 2:2]])
 - [[D&C 4]] — 1 footnote cross-reference (from [[Revelation 2#^rev-2-4|Revelation 2:4]])
 - [[1 John 5]] — 1 footnote cross-reference (from [[Revelation 2#^rev-2-7|Revelation 2:7]])
-- [[Revelation 3]] — 0 parallel verses
+- [[Revelation 3]] — 22 parallel verses, e.g. [[Revelation 2#^rev-2-7|Revelation 2:7]] ↔ [[Revelation 3#^rev-3-6|Revelation 3:6]]
+- [[Revelation 19]] — 1 parallel verse, e.g. [[Revelation 2#^rev-2-27|Revelation 2:27]] ↔ [[Revelation 19#^rev-19-15|Revelation 19:15]]
 - [[Revelation 1]] — 0 parallel verses
 - [[Revelation 22]] — 0 parallel verses
 - [[Revelation 20]] — 0 parallel verses
@@ -54,7 +55,7 @@ Each message has a recognizable sequence: address, a title of Christ, an assessm
 - [[Jeremiah 17]] — 0 parallel verses
 - [[D&C 66]] — 0 parallel verses
 - [[Jeremiah 17]] — 0 parallel verses
-- [[Revelation 19]] — 0 parallel verses
+- [[Revelation 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,7 +67,7 @@ Each message has a recognizable sequence: address, a title of Christ, an assessm
 - [[Final Judgment]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
-- [[Chastity]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

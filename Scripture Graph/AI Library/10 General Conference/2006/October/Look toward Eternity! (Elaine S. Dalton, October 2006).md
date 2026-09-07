@@ -1,0 +1,121 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elaine S. Dalton
+year: '2006'
+month: October
+url: https://www.churchofjesuschrist.org/general-conference/2006/10/look-toward-eternity?lang=eng
+doc_id: talk:2006-october-look-toward-eternity
+full_text: true
+---
+
+# Look toward Eternity!
+
+**Speaker:** Elaine S. Dalton · **Conference:** October 2006 · [source](https://www.churchofjesuschrist.org/general-conference/2006/10/look-toward-eternity?lang=eng)
+
+Look toward Eternity!
+
+By Elaine S. Dalton
+
+Second Counselor in the Young Women General Presidency
+
+Do you understand why it is so important to remain clean and pure?
+
+When our first grandson was born, the entire family rushed to the hospital. It was an amazing experience for me to see our oldest son, Matthew, holding this precious new baby boy. While standing at the nursery window with our youngest son, Chad, we gazed into the eyes of this new little spirit—so clean, so pure, so recently from heaven. It seemed that all time stood still, and for an instant, we could see the great eternal plan. The sacredness of life was crystal clear, and I whispered to Chad, “Do you understand why it is so important to remain clean and pure?” He responded reverently, “Oh yes, Mom, I get it.”
+
+That moment was so powerful that I desire for every young man and woman, every young adult, and indeed each one of us to feel and know the importance of living a worthy and pure life. It is our personal worthiness that will qualify us to fulfill our individual earthly missions.
+
+Our personal mission began long before we arrived on the earth. In the premortal life, we were “called and prepared” to live on the earth at a time when temptations and challenges would be the greatest. This was “on account of [our] exceeding faith and good works” and because of our “having chosen good.” We understood our Father’s plan and knew that it was good. We not only chose it, but we defended it. We knew that our earthly missions would be fraught with temptation, challenges, and hardship, but we also knew that we would be blessed by the fulness of the gospel, living prophets, and the guidance of the Holy Ghost. We knew and understood that our success on this earth would be determined by our worthiness and purity.
+
+What does it mean to be worthy? In the Book of Mormon, Lamoni’s father implored, “What shall I do that I may have this eternal life of which thou hast spoken?” Then the king made a commitment to the Lord by saying, “I will give away all my sins to know thee.” Once Lamoni’s father understood who he was and the great plan of which he was a part, worthiness became his heart’s desire.
+
+To become worthy, we make choices that will enable us to return to our Heavenly Father’s presence. We do those things which will qualify us to claim all the blessings that He has in store for us. This is the reason we are here on the earth—“to see if [we] will do all things whatsoever the Lord … shall command.” It is through our faith in the Lord Jesus Christ that we can resist temptation. Our faith will enable us to shun evil. It will be repulsive to us because “light cleaveth unto light” and “virtue loveth virtue.”
+
+To become unspotted from the world requires not only faith but repentance and obedience. We must live the standards and do those things which will entitle us to the constant companionship and guidance of the Holy Ghost—for the Spirit cannot dwell in unholy temples.
+
+One young man I know said: “It’s just too hard. Living the standards in my world is not realistic. It’s just too hard.” Yet knowing that we are sons and daughters of God, we must strive for worthiness. Another group of youth adopted the motto “I Can Do Hard Things.” They understand their identity, their mission, their source of guidance, and they receive strength through keeping their covenants. They also understand that when they make a mistake, they can change! Satan wants all of us to think that repentance is not possible. This is absolutely not true. The Savior has promised forgiveness. Each week, worthily partaking of the sacrament makes it possible for each of us to become clean and pure as we covenant to “always remember [the Savior], and keep his commandments.” The gospel of Jesus Christ is one of simplicity, and we are given the tools that make the pathway straight and narrow. The way is clear: “For my yoke is easy, and my burden is light.”
+
+Thirty-eight years ago my husband and I were married in the Salt Lake Temple by President Gordon B. Hinckley. The counsel and direction he gave us that day have become a beacon for our lives. When we left the temple as husband and wife, we went to a park near the temple grounds and recorded in a journal the words of wisdom we had received. He counseled us to always remember our prayers night and morning, to pray as a couple and as a family. He counseled us to always pay a full and honest tithing. He counseled us to read the scriptures daily and to apply the principles in our lives. And he counseled us to remain worthy. He said, “Always live in such a way that when you need the Lord’s blessings, you can call upon Him and receive them because you are worthy.” He said: “There will come times in your life when you will need immediate blessings. You will need to live in such a way that they will be granted—not out of mercy but because you are worthy.” I didn’t comprehend then what that meant, but in the 38 years that have followed, we have called upon our Father in Heaven for many “immediate blessings.” Daily, these holy habits and righteous routines have helped steady us on the path that leads back into our Father’s presence. And today I say, “We thank thee, O God, for a prophet to guide us in these latter days.”
+
+Personal worthiness is essential to enter His holy temples and to ultimately become heirs to “all [the] Father hath.” The Lord has said, “Let virtue garnish thy thoughts unceasingly; then shall thy confidence wax strong in the presence of God.” When we do this, we can confidently enter the holy temples of God with a knowledge that we are worthy to go where the Lord Himself goes. When we are worthy, we can not only enter the temple, the temple can enter us. The Lord’s promises of salvation and happiness become ours—and our earthly mission becomes His.
+
+Just last month our youngest son, Chad, went to the temple with a beautiful, worthy young woman to be married for time and all eternity. As he took her hand and knelt at the altar, I looked into the mirrors on either side, and again I wanted to whisper, “Do you understand why it is so important to be clean and pure?” But this time I didn’t have to remind him, because the Spirit did the whispering.
+
+To the youth of the noble birthright, look into the windows of eternity! See yourselves in the Lord’s holy temples. See yourselves living worthy and pure lives. Generations are depending on you! I testify that worthiness is possible because of the redeeming and enabling power of the Atonement of Jesus Christ. I pray that it may be said of each one of us, “They shall walk with me in white: for they are worthy.” In the name of Jesus Christ, amen.
+
+Notes
+
+See Alma 13:3.
+
+Alma 22:15.
+
+Alma 22:18.
+
+Abraham 3:25.
+
+See Alma 37:33; 3 Nephi 7:18.
+
+See D&C 88:40.
+
+See Helaman 4:24.
+
+See For the Strength of Youth (2001), 30.
+
+Moroni 4:3.
+
+Matthew 11:30.
+
+“We Thank Thee, O God, for a Prophet,” Hymns, no. 19.
+
+D&C 84:38; see also vv. 35–37.
+
+D&C 121:45.
+
+Revelation 3:4; see also v. 5.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28833800", "context": "", "text": "
+See Alma 13:3.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/13?lang=eng&id=p3#p3", "text": "Alma 13:3"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28833801", "context": "", "text": "
+Alma 22:15.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/22?lang=eng&id=p15#p15", "text": "Alma 22:15"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28833801", "context": "", "text": "
+Alma 22:18.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/22?lang=eng&id=p18#p18", "text": "Alma 22:18"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28833802", "context": "", "text": "
+Abraham 3:25.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/abr/3?lang=eng&id=p25#p25", "text": "Abraham 3:25"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "28833802", "context": "", "text": "
+See Alma 37:33; 3 Nephi 7:18.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/37?lang=eng&id=p33#p33", "text": "Alma 37:33"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/3-ne/7?lang=eng&id=p18#p18", "text": "3 Nephi 7:18"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28833802", "context": "", "text": "
+See D&C 88:40.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/88?lang=eng&id=p40#p40", "text": "D&C 88:40"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28833803", "context": "", "text": "
+See Helaman 4:24.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/4?lang=eng&id=p24#p24", "text": "Helaman 4:24"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28833804", "context": "", "text": "
+See For the Strength of Youth (2001), 30.
+"}, "note9": {"id": "note9", "marker": "9.", "pid": "28833804", "context": "", "text": "
+Moroni 4:3.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/4?lang=eng&id=p3#p3", "text": "Moroni 4:3"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "28833804", "context": "", "text": "
+Matthew 11:30.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/11?lang=eng&id=p30#p30", "text": "Matthew 11:30"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "28833805", "context": "", "text": "
+“We Thank Thee, O God, for a Prophet,” Hymns, no. 19.
+"}, "note12": {"id": "note12", "marker": "12.", "pid": "28833806", "context": "", "text": "
+D&C 84:38; see also vv. 35–37.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/84?lang=eng&id=p38#p38", "text": "D&C 84:38"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/84?lang=eng&id=p35-p37#p35", "text": "vv. 35–37"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "28833806", "context": "", "text": "
+D&C 121:45.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/121?lang=eng&id=p45#p45", "text": "D&C 121:45"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "28833808", "context": "", "text": "
+Revelation 3:4; see also v. 5.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/rev/3?lang=eng&id=p4#p4", "text": "Revelation 3:4"}, {"type": "scripture-ref", "href": "/study/scriptures/nt/rev/3?lang=eng&id=p5#p5", "text": "v. 5"}]}}
+
+## Scripture citations in this talk
+
+- [[Alma 22]] (6×)
+- [[Alma 13]] (3×)
+- [[Abraham 3]] (3×)
+- [[Alma 37]] (3×)
+- [[3 Nephi 7]] (3×)
+- [[D&C 88]] (3×)
+- [[Helaman 4]] (3×)
+- [[Moroni 4]] (3×)
+- [[Matthew 11]] (3×)
+- [[D&C 84]] (3×)
+- [[D&C 121]] (3×)
+- [[Revelation 3]] (3×)

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 4
 slug: ezra-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -68,9 +68,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 27–August 2. “I Am Doing a Great Work”: Ezra 1; 3–7; Nehemiah 2; 4–6; 8** (lesson) *(explicit citation)*
 - **Aramaic** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Darius** (reference-entry) *(explicit citation)*
+- **December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

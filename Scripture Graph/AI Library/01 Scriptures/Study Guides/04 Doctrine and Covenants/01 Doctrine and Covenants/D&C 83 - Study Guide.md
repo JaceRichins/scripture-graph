@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 83
 slug: dc-83
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 - [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Fathers (Elder D. Todd Christofferson, April 2016)|Fathers]] — Elder D. Todd Christofferson, 2016-April *(explicit citation)*
 - [[Do We Trust Him Hard Is Good (Elder Stanley G. Ellis, October 2017)|Do We Trust Him? Hard Is Good]] — Elder Stanley G. Ellis, 2017-October *(explicit citation)*
+- [[The Need for Greater Kindness (President Gordon B. Hinckley, April 2006)|The Need for Greater Kindness]] — President Gordon B. Hinckley, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -68,6 +69,7 @@ _Not yet developed._
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Chapter 23: Understanding the New and Everlasting Covenant of Marriage** (teachings) *(explicit citation)*
+- **July 21–27: Where “Much Is Given Much Is Required”: Doctrine and Covenants 81–83** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

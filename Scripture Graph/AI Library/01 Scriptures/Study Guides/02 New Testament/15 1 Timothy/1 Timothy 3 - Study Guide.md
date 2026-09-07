@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 3
 slug: 1tim-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[2 Peter 2]] — 1 footnote cross-reference (from [[1 Timothy 3#^1tim-3-6|1 Timothy 3:6]])
 - [[Acts 6]] — 1 footnote cross-reference (from [[1 Timothy 3#^1tim-3-7|1 Timothy 3:7]])
 - [[Titus 1]] — 2 parallel verses, e.g. [[1 Timothy 3#^1tim-3-2|1 Timothy 3:2]] ↔ [[Titus 1#^titus-1-6|Titus 1:6]]
+- [[Titus 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 5
 slug: rom-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[Justification and Sanctification]]
 - [[Law of Moses]]
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Grace]] *(keyword match — unconfirmed)*
 - [[Hope]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*

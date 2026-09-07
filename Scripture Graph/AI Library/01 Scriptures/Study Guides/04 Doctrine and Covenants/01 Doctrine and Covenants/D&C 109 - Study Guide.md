@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 109
 slug: dc-109
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -105,6 +105,7 @@ The prayer does not resolve the tension between [[Justice and Mercy]] by removin
 ## Church History
 <!-- SG:BEGIN history -->
 - **21 The Spirit of God** (history) *(explicit citation)*
+- **September 29–October 5: “It Is Thy House, a Place of Thy Holiness”: Doctrine and Covenants 109–110** (lesson) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
 - **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
 - **Chapter 36: Receiving the Ordinances and Blessings of the Temple** (teachings) *(explicit citation)*
@@ -113,7 +114,6 @@ The prayer does not resolve the tension between [[Justice and Mercy]] by removin
 - **37 We Will Prove Them** (history) *(explicit citation)*
 - **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

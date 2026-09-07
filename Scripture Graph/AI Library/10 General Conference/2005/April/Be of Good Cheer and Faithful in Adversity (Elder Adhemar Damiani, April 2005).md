@@ -1,0 +1,204 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elder Adhemar Damiani
+year: '2005'
+month: April
+url: https://www.churchofjesuschrist.org/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity?lang=eng
+doc_id: talk:2005-april-be-of-good-cheer-and-faithful-in-adversity
+full_text: true
+---
+
+# Be of Good Cheer and Faithful in Adversity
+
+**Speaker:** Elder Adhemar Damiani · **Conference:** April 2005 · [source](https://www.churchofjesuschrist.org/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity?lang=eng)
+
+Be of Good Cheer and Faithful in Adversity
+
+By Elder Adhemar Damiani
+
+Of the Seventy
+
+The gospel of Jesus Christ gives us the strength and the eternal perspective to face what is coming with good cheer.
+
+How can we find peace in this world? How can we endure to the end? How can we overcome the difficulties and trials we are facing?
+
+The Savior Jesus Christ said: “These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.”
+
+As part of our mortal probation, we pass through affliction, pain, and disappointment. Only in Jesus Christ can we find peace. He can help us to be of good cheer and to overcome all the challenges of this life.
+
+What does it mean to be of good cheer? It means having hope, not getting discouraged, not losing faith, and living life joyfully. “Men are, that they might have joy.” It means facing life with confidence.
+
+The gospel of Jesus Christ gives us the strength and the eternal perspective to face what is coming with good cheer. We must, however, not underestimate the difficulties that are prophesied for our day.
+
+What are some of these difficulties? How can we face them?
+
+Some of these difficulties are lack of hope, lack of love, and lack of peace.
+
+The prophet Moroni taught, “If ye have no hope ye must needs be in despair; and despair cometh because of iniquity.” For many, the coming years may be years of despair. The greater the iniquity, the greater the despair will be.
+
+The Savior said, “Because iniquity shall abound, the love of many shall wax cold.” As iniquity increases, true love disappears. As a result, fear, insecurity, and despair grow!
+
+To the Prophet Joseph Smith, the Lord said: “I … will that all men shall know that the day speedily cometh … when peace shall be taken from the earth, and the devil shall have power over his own dominion. And also the Lord shall have power over his saints, and shall reign in their midst.” We live in a time when peace has been taken from the earth.
+
+On the other hand, we live in a glorious time, a time when the Lord has restored His priesthood. The true gospel has been restored. The Church of Jesus Christ of Latter-day Saints is the kingdom of God on earth! We are helping to prepare the earth for the time when the Lord Jesus Christ will come and personally reign.
+
+Why must we pass through trials in this life?
+
+The Lord makes no secret that He will test our faith and our obedience. “We will prove them herewith,” He said, “to see if they will do all things whatsoever the Lord their God shall command them.”
+
+We learn from the book of Ecclesiastes: “All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; … as is the good, so is the sinner. … There is one event unto all.” Tempests may occur in the life of the man who built his life upon the rock of the gospel, as well as in the life of the foolish who built his life upon the things of this world.
+
+How should we react to these trials?
+
+The Lord has said, “If any man will come after me, let him deny himself, and take up his cross daily, and follow me.” Each day we must take up our cross and press forward—and not just linger on the sidelines of our eternal journey.
+
+How can we know whether we are being tried or whether the Lord is punishing us?
+
+Trials are opportunities for our growth. The Lord said, “My people must be tried in all things, that they may be prepared to receive the glory that I have for them, even the glory of Zion; and he that will not bear chastisement is not worthy of my kingdom.”
+
+When we are being tried, we should ponder and ask, “What does the Lord want me to do in this situation?”
+
+The Lord spoke these comforting words to the Prophet Joseph Smith: “Know thou, my son, that all these things shall give thee experience, and shall be for thy good. The Son of Man hath descended below them all. Art thou greater than he?” We need to view each trial as an opportunity for growth. Someday we will understand the why.
+
+The Lord has said, “Whom I love I also chasten that their sins may be forgiven, for with the chastisement I prepare a way for their deliverance.” The Lord loves each one of us. He wants us to be happy. This happiness comes by our faith in Jesus Christ, by our sincere and true repentance, by our obedience to His commandments, and by our endurance to the end.
+
+Sometimes we might think that the Lord does not hear or answer our prayers. At such times we need to stop and ponder what we have done throughout our lives. If necessary we must put our lives in harmony with the gospel of Jesus Christ. Through the Prophet Joseph Smith, the Lord revealed:
+
+“I, the Lord, have suffered the affliction to come upon them, wherewith they have been afflicted, in consequence of their transgressions. …
+
+“They were slow to hearken unto the voice of the Lord their God; therefore, the Lord their God is slow to hearken unto their prayers, to answer them in the day of their trouble.
+
+“In the day of their peace they esteemed lightly my counsel; but, in the day of their trouble, of necessity they feel after me.”
+
+When we have the sincere desire to put our lives in harmony with the will of the Lord, He will always be ready to help ease our burdens.
+
+What destroys our good cheer and our hope?
+
+Jesus Christ told the Twelve Apostles some of the things that can destroy our hope and make us give up: allowing ourselves to fall into temptation; not enduring affliction, tribulation, and persecution; fearing “the cares” of the world; seeking wealth first; giving up instead of enduring to the end; and allowing false prophets to deceive us.
+
+What gives us courage and hope?
+
+The Lord’s invitation to each of us is “come unto me, all ye that labour and are heavy laden, and I will give you rest.” Jesus Christ has the power to give us rest from our pain and suffering.
+
+The prophet Mormon taught:
+
+“Wherefore, if a man have faith he must needs have hope; for without faith there cannot be any hope. …
+
+“… And if a man be meek and lowly in heart, and confesses by the power of the Holy Ghost that Jesus is the Christ, he must needs have charity.”
+
+If we daily exercise faith, meekness, charity, and lowliness in heart, confessing that Jesus is the Christ, and accepting His Atonement, we will be blessed with the strength and hope to face and overcome the trials and pains of this life.
+
+What are some of the Lord’s promises to each one of us?
+
+“Be of good cheer, little children; for I am in your midst, and I have not forsaken you.”
+
+“Be of good cheer, for I will lead you along. The kingdom is yours and the blessings thereof are yours, and the riches of eternity are yours.”
+
+Quoting the words of the prophet Ether: “Wherefore, whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith, maketh an anchor to the souls of men.”
+
+God is our Father. We are His children. He loves us. He desires our happiness here in this life and for all eternity. We are led by a true prophet of God today. Jesus is the Christ. Through Him we can find peace in this world. In the name of Jesus Christ, amen.
+
+Notes
+
+John 16:33.
+
+2 Nephi 2:25.
+
+Moroni 10:22.
+
+Matthew 24:12.
+
+D&C 1:35–36.
+
+Abraham 3:25.
+
+Ecclesiastes 9:2–3.
+
+See Matthew 7:24–27.
+
+Luke 9:23.
+
+D&C 136:31.
+
+D&C 122:7–8.
+
+D&C 95:1.
+
+D&C 101:2, 7–8.
+
+See Matthew 13:19–23.
+
+Matthew 11:28.
+
+Moroni 7:42, 44.
+
+D&C 61:36.
+
+D&C 78:18.
+
+Ether 12:4.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28828336", "context": "", "text": "
+John 16:33.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/16?lang=eng&id=p33#p33", "text": "John 16:33"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28828338", "context": "", "text": "
+2 Nephi 2:25.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/2?lang=eng&id=p25#p25", "text": "2 Nephi 2:25"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28828342", "context": "", "text": "
+Moroni 10:22.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/10?lang=eng&id=p22#p22", "text": "Moroni 10:22"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28828343", "context": "", "text": "
+Matthew 24:12.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/24?lang=eng&id=p12#p12", "text": "Matthew 24:12"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "28828344", "context": "", "text": "
+D&C 1:35–36.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/1?lang=eng&id=p35-p36#p35", "text": "D&C 1:35–36"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28828347", "context": "", "text": "
+Abraham 3:25.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/abr/3?lang=eng&id=p25#p25", "text": "Abraham 3:25"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28828348", "context": "", "text": "
+Ecclesiastes 9:2–3.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/eccl/9?lang=eng&id=p2-p3#p2", "text": "Ecclesiastes 9:2–3"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28828348", "context": "", "text": "
+See Matthew 7:24–27.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/7?lang=eng&id=p24-p27#p24", "text": "Matthew 7:24–27"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "28828350", "context": "", "text": "
+Luke 9:23.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/luke/9?lang=eng&id=p23#p23", "text": "Luke 9:23"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "28828352", "context": "", "text": "
+D&C 136:31.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/136?lang=eng&id=p31#p31", "text": "D&C 136:31"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "28828354", "context": "", "text": "
+D&C 122:7–8.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/122?lang=eng&id=p7-p8#p7", "text": "D&C 122:7–8"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "28828355", "context": "", "text": "
+D&C 95:1.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/95?lang=eng&id=p1#p1", "text": "D&C 95:1"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "28828359", "context": "", "text": "
+D&C 101:2, 7–8.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/101?lang=eng&id=p2%2Cp7-p8#p2", "text": "D&C 101:2, 7–8"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "28828362", "context": "", "text": "
+See Matthew 13:19–23.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/13?lang=eng&id=p19-p23#p19", "text": "Matthew 13:19–23"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "28828364", "context": "", "text": "
+Matthew 11:28.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/11?lang=eng&id=p28#p28", "text": "Matthew 11:28"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "28828367", "context": "", "text": "
+Moroni 7:42, 44.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/moro/7?lang=eng&id=p42%2Cp44#p42", "text": "Moroni 7:42, 44"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "28828370", "context": "", "text": "
+D&C 61:36.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/61?lang=eng&id=p36#p36", "text": "D&C 61:36"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "28828371", "context": "", "text": "
+D&C 78:18.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/78?lang=eng&id=p18#p18", "text": "D&C 78:18"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "28828372", "context": "", "text": "
+Ether 12:4.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/ether/12?lang=eng&id=p4#p4", "text": "Ether 12:4"}]}}
+
+## Scripture citations in this talk
+
+- [[John 16]] (3×)
+- [[2 Nephi 2]] (3×)
+- [[Moroni 10]] (3×)
+- [[Matthew 24]] (3×)
+- [[D&C 1]] (3×)
+- [[Abraham 3]] (3×)
+- [[Ecclesiastes 9]] (3×)
+- [[Matthew 7]] (3×)
+- [[Luke 9]] (3×)
+- [[D&C 136]] (3×)
+- [[D&C 122]] (3×)
+- [[D&C 95]] (3×)
+- [[D&C 101]] (3×)
+- [[Matthew 13]] (3×)
+- [[Matthew 11]] (3×)
+- [[Moroni 7]] (3×)
+- [[D&C 61]] (3×)
+- [[D&C 78]] (3×)
+- [[Ether 12]] (3×)

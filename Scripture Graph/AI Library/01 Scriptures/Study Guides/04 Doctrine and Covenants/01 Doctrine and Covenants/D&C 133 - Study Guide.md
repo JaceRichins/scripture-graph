@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 133
 slug: dc-133
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -106,6 +106,7 @@ The winepress scene should be read with precision. In its immediate explanation,
 <!-- SG:BEGIN conference -->
 - [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[“Hope Ya Know, We Had a Hard Time” (Elder Quentin L. Cook, October 2008)|“Hope Ya Know, We Had a Hard Time”]] — Elder Quentin L. Cook, 2008-October *(explicit citation)*
 - [[Behold Thy Mother (Elder Jeffrey R. Holland, October 2015)|Behold Thy Mother]] — Elder Jeffrey R. Holland, 2015-October *(explicit citation)*
@@ -113,21 +114,20 @@ The winepress scene should be read with precision. In its immediate explanation,
 - [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 - [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
-- [[Hope in Christ (President M. Russell Ballard, April 2021)|Hope in Christ]] — President M. Russell Ballard, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 17–23: “Prepare Ye for the Coming of the Bridegroom”: Doctrine and Covenants 133–134** (lesson) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Chapter 16: Building Zion** (teachings) *(explicit citation)*
+- **Chapter 26: Preparing for the Coming of Our Lord** (teachings) *(explicit citation)*
 - **William McLellin’s Five Questions** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
-- **Jesus Christ** (reference-entry) *(explicit citation)*
-- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

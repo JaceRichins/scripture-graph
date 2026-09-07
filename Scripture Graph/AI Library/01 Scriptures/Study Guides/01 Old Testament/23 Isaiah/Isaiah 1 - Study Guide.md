@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 1
 slug: isa-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ These movements cohere in the received chapter, although coherence does not prov
 - [[1 Nephi 19]] — 1 footnote cross-reference (from [[Isaiah 1#^isa-1-1|Isaiah 1:1]])
 - [[3 Nephi 23]] — 1 footnote cross-reference (from [[Isaiah 1#^isa-1-1|Isaiah 1:1]])
 - [[Hosea 1]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-1|Isaiah 1:1]] ↔ [[Hosea 1#^hosea-1-1|Hosea 1:1]]
-- [[Isaiah 58]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-20|Isaiah 1:20]] ↔ [[Isaiah 58#^isa-58-14|Isaiah 58:14]]
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-20|Isaiah 1:20]] ↔ [[Isaiah 40#^isa-40-5|Isaiah 40:5]]
+- [[Isaiah 58]] — 1 parallel verse, e.g. [[Isaiah 1#^isa-1-20|Isaiah 1:20]] ↔ [[Isaiah 58#^isa-58-14|Isaiah 58:14]]
 - [[Deuteronomy 32]] — 0 parallel verses
 - [[Amos 5]] — 0 parallel verses
 - [[Romans 9]] — 0 parallel verses
@@ -64,6 +64,7 @@ These movements cohere in the received chapter, although coherence does not prov
 - [[Psalm 50]] — 0 parallel verses
 - [[D&C 50]] — 0 parallel verses
 - [[Isaiah 58]] — 0 parallel verses
+- [[Proverbs 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -99,6 +100,7 @@ Judgment and mercy are also intertwined. God's hand removes dross and restores j
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
@@ -108,7 +110,6 @@ Judgment and mercy are also intertwined. God's hand removes dross and restores j
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

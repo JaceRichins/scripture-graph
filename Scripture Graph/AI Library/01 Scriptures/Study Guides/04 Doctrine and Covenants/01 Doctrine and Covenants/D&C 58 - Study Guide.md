@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 58
 slug: dc-58
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -60,9 +60,9 @@ This outline describes shifts in subject matter; it does not demonstrate an elab
 - [[D&C 42]] — 3 footnote cross-references (from [[D&C 58#^dc-58-23|D&C 58:23]])
 - [[D&C 57]] — 3 parallel verses, e.g. [[D&C 58#^dc-58-40|D&C 58:40]] ↔ [[D&C 57#^dc-57-7|D&C 57:7]]
 - [[D&C 50]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-1|D&C 58:1]] ↔ [[D&C 50#^dc-50-1|D&C 50:1]]
-- [[D&C 1]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-4|D&C 58:4]] ↔ [[D&C 1#^dc-1-35|D&C 1:35]]
 - [[D&C 119]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-51|D&C 58:51]] ↔ [[D&C 119#^dc-119-1|D&C 119:1]]
 - [[D&C 41]] — 2 parallel verses, e.g. [[D&C 58#^dc-58-49|D&C 58:49]] ↔ [[D&C 41#^dc-41-9|D&C 41:9]]
+- [[D&C 1]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-4|D&C 58:4]] ↔ [[D&C 1#^dc-1-35|D&C 1:35]]
 - [[D&C 63]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-40|D&C 58:40]] ↔ [[D&C 63#^dc-63-56|D&C 63:56]]
 - [[D&C 43]] — 1 parallel verse, e.g. [[D&C 58#^dc-58-1|D&C 58:1]] ↔ [[D&C 43#^dc-43-1|D&C 43:1]]
 - [[Revelation 19]] — 0 parallel verses
@@ -106,6 +106,7 @@ The land instructions also connect [[Consecration]] with practical administratio
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **June 2–8: “Anxiously Engaged in a Good Cause”: Doctrine and Covenants 58–59** (lesson) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Employment** (reference-entry) *(explicit citation)*
@@ -114,7 +115,6 @@ The land instructions also connect [[Consecration]] with practical administratio
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **26 A Holy and Consecrated Land** (history) *(explicit citation)*
-- **Waiting for the Word of the Lord** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 9
 slug: morm-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ The prayer texts should be read together. Verses 21 and 25 speak expansively of 
 <!-- SG:BEGIN conference -->
 - [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
 - [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[The Power of Spiritual Momentum (President Russell M. Nelson, April 2022)|The Power of Spiritual Momentum]] — President Russell M. Nelson, 2022-April *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
@@ -96,7 +97,6 @@ The prayer texts should be read together. Verses 21 and 25 speak expansively of 
 - [[Always Retain a Remission of Your Sins (Elder David A. Bednar, April 2016)|Always Retain a Remission of Your Sins]] — Elder David A. Bednar, 2016-April *(explicit citation)*
 - [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
-- [[The Soul’s Sincere Desire (Carol F. McConkie, October 2016)|The Soul’s Sincere Desire]] — Carol F. McConkie, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

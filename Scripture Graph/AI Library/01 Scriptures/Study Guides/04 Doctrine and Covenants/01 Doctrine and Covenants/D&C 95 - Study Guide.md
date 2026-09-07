@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 95
 slug: dc-95
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,13 +87,16 @@ Obedience is directly connected with power to build, while disobedience is conne
 - [[Rejoice in the Gift of Priesthood Keys (President Russell M. Nelson, April 2024)|Rejoice in the Gift of Priesthood Keys]] — President Russell M. Nelson, 2024-April *(explicit citation)*
 - [[Coming to Ourselves The Sacrament, the Temple, and Sacrifice in Service (Elder Robert D. Hales, April 2012)|Coming to Ourselves: The Sacrament, the Temple, and Sacrifice in Service]] — Elder Robert D. Hales, 2012-April *(explicit citation)*
 - [[Love and Law (Elder Dallin H. Oaks, October 2009)|Love and Law]] — Elder Dallin H. Oaks, 2009-October *(explicit citation)*
-- [[God Loves His Children (Elder Taniela B. Wakolo, April 2021)|God Loves His Children]] — Elder Taniela B. Wakolo, 2021-April *(explicit citation)*
+- [[Be of Good Cheer and Faithful in Adversity (Elder Adhemar Damiani, April 2005)|Be of Good Cheer and Faithful in Adversity]] — Elder Adhemar Damiani, 2005-April *(explicit citation)*
+- [[An Outpouring of Blessings (Julie B. Beck, April 2006)|An Outpouring of Blessings]] — Julie B. Beck, 2006-April *(explicit citation)*
+- [[To Act for Ourselves The Gift and Blessings of Agency (Elder Robert D. Hales, April 2006)|To Act for Ourselves: The Gift and Blessings of Agency]] — Elder Robert D. Hales, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘A House for Our God’** (history) *(explicit citation)*
 - **15 Holy Places** (history) *(explicit citation)*
+- **September 1–7: “For the Salvation of Zion”: Doctrine and Covenants 94–97** (lesson) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **18 The Camp of Israel** (history) *(explicit citation)*

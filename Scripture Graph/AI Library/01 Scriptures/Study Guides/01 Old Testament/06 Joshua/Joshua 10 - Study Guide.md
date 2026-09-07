@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 10
 slug: josh-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -39,6 +39,7 @@ Note: verses 15 and 43 both report Joshua's return to Gilgal in nearly identical
 
 ## Places
 <!-- SG:BEGIN places -->
+- [[Lachish]] — 8 mentions
 - [[Hebron]] — 5 mentions
 - [[Jerusalem]] — 4 mentions
 - [[Jericho]] — 3 mentions

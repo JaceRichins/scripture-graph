@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 36
 slug: ezek-36
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,8 +95,11 @@ The covenant formula in 36:28—Israel will be God's people and he will be Israe
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
 - **Times and Seasons 1841-11-15 (Vol. 3 No. 2)** (periodical, 1841-11-15) *(explicit citation)*
 - **Captivities of the Israelites** (reference-entry) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

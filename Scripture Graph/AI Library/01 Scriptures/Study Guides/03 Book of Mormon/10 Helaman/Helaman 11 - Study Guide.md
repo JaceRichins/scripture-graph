@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 11
 slug: hel-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

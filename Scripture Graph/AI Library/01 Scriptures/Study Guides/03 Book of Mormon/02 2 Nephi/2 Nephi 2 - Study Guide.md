@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 2
 slug: 2ne-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,16 +94,16 @@ The exact phrase "a broken heart and a contrite spirit" (2 Nephi 2:7) also recur
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[To Act for Ourselves The Gift and Blessings of Agency (Elder Robert D. Hales, April 2006)|To Act for Ourselves: The Gift and Blessings of Agency]] — Elder Robert D. Hales, 2006-April *(explicit citation)*
 - [[Opposition in All Things (Elder Mathias Held, April 2024)|Opposition in All Things]] — Elder Mathias Held, 2024-April *(explicit citation)*
 - [[Choose You This Day (Elder Dale G. Renlund, October 2018)|Choose You This Day]] — Elder Dale G. Renlund, 2018-October *(explicit citation)*
 - [[Agency Essential to the Plan of Life (Elder Robert D. Hales, October 2010)|Agency: Essential to the Plan of Life]] — Elder Robert D. Hales, 2010-October *(explicit citation)*
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[Beware of the Evil behind the Smiling Eyes (Elder Neil L. Andersen, April 2005)|Beware of the Evil behind the Smiling Eyes]] — Elder Neil L. Andersen, 2005-April *(explicit citation)*
 - [[Where Justice, Love, and Mercy Meet (Elder Jeffrey R. Holland, April 2015)|Where Justice, Love, and Mercy Meet]] — Elder Jeffrey R. Holland, 2015-April *(explicit citation)*
 - [[Repentance A Joyful Choice (Elder Dale G. Renlund, October 2016)|Repentance: A Joyful Choice]] — Elder Dale G. Renlund, 2016-October *(explicit citation)*
 - [[Personal Peace in Challenging Times (Elder Quentin L. Cook, October 2021)|Personal Peace in Challenging Times]] — Elder Quentin L. Cook, 2021-October *(explicit citation)*
-- [[Be One with Christ (Elder Quentin L. Cook, April 2024)|Be One with Christ]] — Elder Quentin L. Cook, 2024-April *(explicit citation)*
-- [[A Higher Joy (Elder Dieter F. Uchtdorf, April 2024)|A Higher Joy]] — Elder Dieter F. Uchtdorf, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -114,10 +114,10 @@ The exact phrase "a broken heart and a contrite spirit" (2 Nephi 2:7) also recur
 - **Happiness** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
+- **January 19–25. The Fall of Adam and Eve: Genesis 3–4; Moses 4–5** (lesson) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
 - **Death, Spiritual** (reference-entry) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
-- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

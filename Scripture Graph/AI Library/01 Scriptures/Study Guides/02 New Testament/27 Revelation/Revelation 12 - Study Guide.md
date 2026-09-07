@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 12
 slug: rev-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 - [[Daniel 12]] — 0 parallel verses
 - [[Revelation 11]] — 0 parallel verses
 - [[Revelation 11]] — 0 parallel verses
+- [[Revelation 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

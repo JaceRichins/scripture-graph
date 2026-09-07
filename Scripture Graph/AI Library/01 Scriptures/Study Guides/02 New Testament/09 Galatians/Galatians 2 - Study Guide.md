@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 2
 slug: gal-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,12 +57,12 @@ Scripture: [[Galatians 2]] · My notes: [[Galatians 2 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
-- [[Gospel of Jesus Christ]]
-- [[Justification and Sanctification]]
 - [[Law of Moses]]
 - [[Crucifixion of Jesus Christ]]
 - [[Freedom and Liberty]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

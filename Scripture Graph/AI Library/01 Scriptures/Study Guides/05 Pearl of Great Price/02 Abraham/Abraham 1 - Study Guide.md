@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 1
 slug: abr-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,20 +87,22 @@ Verse 30 likewise requires precision about [[Repentance]]: it says Abraham's fat
 - [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
 - [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
+- [[He Knows You by Name (Elaine S. Dalton, April 2005)|He Knows You by Name]] — Elaine S. Dalton, 2005-April *(explicit citation)*
+- [[You Have a Noble Birthright (Julie B. Beck, April 2006)|You Have a Noble Birthright]] — Julie B. Beck, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Abraham, Book of** (reference-entry) *(explicit citation)*
+- **February 16–22. “To Be a Greater Follower of Righteousness”: Genesis 12–17; Abraham 1–2** (lesson) *(explicit citation)*
 - **20 Do Not Cast Me Off** (history) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Covenant** (lesson) *(explicit citation)*
 - **Journal of Discourses, Volume 22** (history, ~1875) *(explicit citation)*
 - **Journal of Discourses, Volume 24** (history, ~1877) *(explicit citation)*
 - **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
-- **Abrahamic Covenant** (reference-entry) *(explicit citation)*
-- **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 39
 slug: alma-39
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ Verses 15–19 connect [[Missionary Work]] with the [[Atonement of Jesus Christ]
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[“I Will Remember Your Sins No More” (President Boyd K. Packer, April 2006)|“I Will Remember Your Sins No More”]] — President Boyd K. Packer, 2006-April *(explicit citation)*
 - [[Be True to God and His Work (Elder Quentin L. Cook, October 2022)|Be True to God and His Work]] — Elder Quentin L. Cook, 2022-October *(explicit citation)*
 - [[Can Ye Feel So Now (Elder Quentin L. Cook, October 2012)|Can Ye Feel So Now?]] — Elder Quentin L. Cook, 2012-October *(explicit citation)*
 - [[Truly Good and without Guile (Elder Michael T. Ringwood, April 2015)|Truly Good and without Guile]] — Elder Michael T. Ringwood, 2015-April *(explicit citation)*
@@ -91,7 +92,6 @@ Verses 15–19 connect [[Missionary Work]] with the [[Atonement of Jesus Christ]
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[Power in the Priesthood (Elder Neil L. Andersen, October 2013)|Power in the Priesthood]] — Elder Neil L. Andersen, 2013-October *(explicit citation)*
-- [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -100,6 +100,10 @@ Verses 15–19 connect [[Missionary Work]] with the [[Atonement of Jesus Christ]
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Pornography** (reference-entry) *(explicit citation)*
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
+- **June 2–8: “Anxiously Engaged in a Good Cause”: Doctrine and Covenants 58–59** (lesson) *(explicit citation)*
+- **Chapter 18: Chastity and Purity** (teachings) *(explicit citation)*
+- **Chapter 14: Preparing for an Eternal Marriage and Family** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

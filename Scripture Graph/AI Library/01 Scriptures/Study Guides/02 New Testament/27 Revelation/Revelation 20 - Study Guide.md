@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 20
 slug: rev-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

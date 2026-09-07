@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 91
 slug: dc-91
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **August 18–24: “A Principle with Promise”: Doctrine and Covenants 89–92** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Apocrypha** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 3
 slug: isa-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,7 +81,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
+- **Chapter 19: In the World but Not of the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

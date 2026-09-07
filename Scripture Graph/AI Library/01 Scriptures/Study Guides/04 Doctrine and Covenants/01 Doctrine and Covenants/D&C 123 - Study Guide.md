@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 123
 slug: dc-123
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ Verse 17 places [[Agency]] and [[Faith]] in sequence: people are to act cheerful
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 20–26: “O God, Where Art Thou?”: Doctrine and Covenants 121–123** (lesson) *(explicit citation)*
 - **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
 - **33 O God, Where Art Thou?** (history) *(explicit citation)*

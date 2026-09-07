@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 23
 slug: dc-23
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,12 +65,14 @@ _Not yet developed._
 - [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
+- [[Nurturing Marriage (Elder Russell M. Nelson, April 2006)|Nurturing Marriage]] — Elder Russell M. Nelson, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Support at Home** (history) *(explicit citation)*
 - **09 Come Life or Come Death** (history) *(explicit citation)*
+- **March 17–23: “Seek for the Things of a Better World”: Doctrine and Covenants 23–26** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

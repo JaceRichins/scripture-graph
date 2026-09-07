@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 16
 slug: john-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ Verse 33 joins [[Adversity]], [[Endurance]], and peace. Jesus does not promise a
 <!-- SG:BEGIN history -->
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Peace** (reference-entry) *(explicit citation)*
+- **Chapter 8: The Holy Ghost** (teachings) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
@@ -100,7 +101,6 @@ Verse 33 joins [[Adversity]], [[Endurance]], and peace. Jesus does not promise a
 - **Abuse** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
-- **Holy Ghost** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

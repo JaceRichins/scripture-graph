@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 1
 slug: jacob-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ Jacob 1:19 makes ministerial accountability conditional on fulfilling the duty t
 - [[The Cost—and Blessings—of Discipleship (Elder Jeffrey R. Holland, April 2014)|The Cost—and Blessings—of Discipleship]] — Elder Jeffrey R. Holland, 2014-April *(explicit citation)*
 - [[What Shall a Man Give in Exchange for His Soul (Elder Robert C. Gay, October 2012)|What Shall a Man Give in Exchange for His Soul?]] — Elder Robert C. Gay, 2012-October *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[The Powers of the Priesthood (President Dallin H. Oaks, April 2018)|The Powers of the Priesthood]] — President Dallin H. Oaks, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -113,6 +114,8 @@ Jacob 1:19 makes ministerial accountability conditional on fulfilling the duty t
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Stewardship** (reference-entry) *(explicit citation)*
 - **Chapter 45: Joseph Smith’s Feelings about His Prophetic Mission** (teachings) *(explicit citation)*
+- **Chapter 13: Priesthood, the Government and Power of God** (teachings) *(explicit citation)*
+- **Chapter 15: Faithful, Energetic Service in the Kingdom of God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

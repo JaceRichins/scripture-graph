@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 2
 slug: moses-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ The food provisions given to humans and animals (2:29-30) are exclusively seed-b
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 12–18. “In the Beginning God Created the Heaven and the Earth”: Genesis 1–2; Moses 2–3; Abraham 4–5** (lesson) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
@@ -106,7 +107,6 @@ The food provisions given to humans and animals (2:29-30) are exclusively seed-b
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Mortality** (reference-entry) *(explicit citation)*
-- **Word of Wisdom** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

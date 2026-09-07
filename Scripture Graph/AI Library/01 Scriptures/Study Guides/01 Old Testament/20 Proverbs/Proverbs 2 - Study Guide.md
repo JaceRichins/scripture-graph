@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 2
 slug: prov-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Psalm 91]] — 1 footnote cross-reference (from [[Proverbs 2#^prov-2-7|Proverbs 2:7]])
 - [[2 Nephi 28]] — 1 footnote cross-reference (from [[Proverbs 2#^prov-2-9|Proverbs 2:9]])
 - [[Proverbs 7]] — 1 parallel verse, e.g. [[Proverbs 2#^prov-2-16|Proverbs 2:16]] ↔ [[Proverbs 7#^prov-7-5|Proverbs 7:5]]
+- [[Proverbs 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 4
 slug: mosiah-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -108,9 +108,9 @@ Benjamin's treatment of poverty is also morally precise. The rich may not condem
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
+- **Chapter 6: The Power of the Atonement for Us Personally** (teachings) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Consecration** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

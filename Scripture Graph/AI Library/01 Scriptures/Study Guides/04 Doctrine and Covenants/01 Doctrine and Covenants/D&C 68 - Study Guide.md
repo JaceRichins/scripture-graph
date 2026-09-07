@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 68
 slug: dc-68
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -104,15 +104,15 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **William McLellin’s Five Questions** (history) *(explicit citation)*
+- **June 23–29: “Worth … the Riches of the Whole Earth”: Doctrine and Covenants 67–70** (lesson) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Parenting** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **Chapter 13: Teaching the Gospel in the Home** (teachings) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
-- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
-- **Family** (reference-entry) *(explicit citation)*
-- **Holy Ghost** (reference-entry) *(explicit citation)*
-- **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Chapter 33: Children: The Richest of All Earthly Joys** (teachings) *(explicit citation)*
+- **Chapter 39: Strengthening Families in Family Home Evenings** (teachings) *(explicit citation)*
+- **Chapter 22: Teaching Children in the Nurture and Admonition of the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

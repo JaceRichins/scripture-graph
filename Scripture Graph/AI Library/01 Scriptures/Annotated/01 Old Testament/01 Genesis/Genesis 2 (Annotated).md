@@ -74,7 +74,7 @@ cssclasses:
 > [[Moses 1#^moses-1-34|Moses 1:34]] · [[Moses 3#^moses-3-19|3:19]] · [[Abraham 1#^abr-1-3|Abr. 1:3]] · [[Abraham 5#^abr-5-20|5:20]] · [[Moses 3#^moses-3-19|≈ Moses 3:19]] · [[Abraham 5#^abr-5-20|≈ Abraham 5:20]]
 
 ![[Genesis 2#^gen-2-20]]
-> [[Moses 3#^moses-3-20|≈ Moses 3:20]] · [[Genesis 1#^gen-1-30|≈ Genesis 1:30]] · [[Abraham 5#^abr-5-21|≈ Abraham 5:21]] · [[Abraham 4#^abr-4-30|≈ Abraham 4:30]]
+> [[Moses 3#^moses-3-20|≈ Moses 3:20]] · [[Abraham 5#^abr-5-21|≈ Abraham 5:21]] · [[Genesis 1#^gen-1-30|≈ Genesis 1:30]] · [[Abraham 4#^abr-4-30|≈ Abraham 4:30]]
 
 ![[Genesis 2#^gen-2-21]]
 > [[Moses 3#^moses-3-21|≈ Moses 3:21]] · [[Abraham 5#^abr-5-15|≈ Abraham 5:15]]

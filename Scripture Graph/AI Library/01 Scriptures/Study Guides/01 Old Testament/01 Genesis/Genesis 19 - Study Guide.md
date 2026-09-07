@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 19
 slug: gen-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ Scripture: [[Genesis 19]] · My notes: [[Genesis 19 - My Notes]]
 - [[3 Nephi 26]] — 1 parallel verse, e.g. [[Genesis 19#^gen-19-34|Genesis 19:34]] ↔ [[3 Nephi 26#^3ne-26-16|3 Nephi 26:16]]
 - [[Judges 19]] — 0 parallel verses
 - [[Amos 4]] — 0 parallel verses
+- [[Luke 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,12 +90,14 @@ The account also treats warning as urgent but not coercively self-executing. The
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
 - **Times and Seasons 1841-10-01 (Vol. 2 No. 23)** (periodical, 1841-10-01) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Dead Sea** (reference-entry) *(explicit citation)*
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

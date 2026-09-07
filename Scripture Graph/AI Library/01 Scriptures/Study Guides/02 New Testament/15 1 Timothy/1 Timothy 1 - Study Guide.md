@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 1
 slug: 1tim-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ The charge language near the beginning and end may frame the intervening discuss
 - [[Acts 22]] — 0 parallel verses
 - [[Acts 26]] — 0 parallel verses
 - [[Galatians 1]] — 0 parallel verses
+- [[1 Timothy 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

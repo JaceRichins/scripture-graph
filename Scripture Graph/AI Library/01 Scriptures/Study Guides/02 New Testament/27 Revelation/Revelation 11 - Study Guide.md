@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 11
 slug: rev-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ Temple scenes therefore bookend the canonical chapter, although whether this con
 - [[Luke 21]] — 0 parallel verses
 - [[Revelation 12]] — 0 parallel verses
 - [[D&C 77]] — 0 parallel verses
+- [[Revelation 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +84,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 24: The Kingdom of God** (teachings) *(explicit citation)*
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*

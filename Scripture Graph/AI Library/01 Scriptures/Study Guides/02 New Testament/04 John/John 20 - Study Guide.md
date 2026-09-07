@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 20
 slug: john-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ Thomas directly addresses Jesus as “My Lord and my God” (John 20:28), while 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 1: I Know That My Redeemer Lives** (teachings) *(explicit citation)*
 - **Peace** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
@@ -109,7 +110,6 @@ Thomas directly addresses Jesus as “My Lord and my God” (John 20:28), while 
 - **Bible** (reference-entry) *(explicit citation)*
 - **Peace** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
-- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 3
 slug: col-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,8 @@ _Not yet developed._
 - **Family** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 20: Agency: Choosing Life or Death** (teachings) *(explicit citation)*
+- **Chapter 16: The Noble Calling of Parents** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

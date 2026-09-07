@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 2
 slug: 1thes-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,7 +71,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[To Grow Up unto the Lord (Anne C. Pingree, April 2006)|To Grow Up unto the Lord]] — Anne C. Pingree, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

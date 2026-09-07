@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 14
 slug: 2chr-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 20–26. “Our Eyes Are upon Thee”: 2 Chronicles 14–20; 26; 30** (lesson) *(explicit citation)*
 - **Asa** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 7
 slug: 2cor-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 - [[Cherishing Life (Elder Neil L. Andersen, April 2025)|Cherishing Life]] — Elder Neil L. Andersen, 2025-April *(explicit citation)*
 - [[The Atoning Love of Jesus Christ (Elder Neil L. Andersen, October 2025)|The Atoning Love of Jesus Christ]] — Elder Neil L. Andersen, 2025-October *(explicit citation)*
 - [[You Can Do It Now! (President Dieter F. Uchtdorf, October 2013)|You Can Do It Now!]] — President Dieter F. Uchtdorf, 2013-October *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 - [[A Broken Heart and a Contrite Spirit (Elder Bruce D. Porter, October 2007)|A Broken Heart and a Contrite Spirit]] — Elder Bruce D. Porter, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 

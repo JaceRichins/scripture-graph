@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 29
 slug: dc-29
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ The chapter holds mercy and accountability together: Christ appears as Redeemer 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 31–April 6: “Jesus Christ Will Gather His People”: Doctrine and Covenants 29** (lesson) *(explicit citation)*
 - **Peace and War** (history) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
@@ -110,7 +111,6 @@ The chapter holds mercy and accountability together: Christ appears as Redeemer 
 - **Council in Heaven** (reference-entry) *(explicit citation)*
 - **Millennium** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
-- **War in Heaven** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 51
 slug: dc-51
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,8 +82,11 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
+- **May 26–June 1: “A Faithful, a Just, and a Wise Steward”: Doctrine and Covenants 51–57** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Stewardship** (reference-entry) *(explicit citation)*
+- **December 30–January 5: “The Promised Restoration Goes Forward”: The Restoration of the Fulness of the Gospel of Jesus Christ** (lesson) *(explicit citation)*
+- **Chapter 16: ‘That We May Become One’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

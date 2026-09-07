@@ -36,7 +36,7 @@ cssclasses:
 ![[Mosiah 11#^mosiah-11-7]]
 
 ![[Mosiah 11#^mosiah-11-8]]
-> [[Esther 1#^esth-1-4|Esth. 1:4]] · [[Helaman 6#^hel-6-9|≈ Helaman 6:9]] · [[Ether 10#^ether-10-23|≈ Ether 10:23]] · [[2 Nephi 5#^2ne-5-15|≈ 2 Nephi 5:15]] · [[Alma 1#^alma-1-29|≈ Alma 1:29]]
+> [[Esther 1#^esth-1-4|Esth. 1:4]] · [[2 Nephi 5#^2ne-5-15|≈ 2 Nephi 5:15]] · [[Alma 1#^alma-1-29|≈ Alma 1:29]] · [[Helaman 6#^hel-6-9|≈ Helaman 6:9]] · [[Ether 10#^ether-10-23|≈ Ether 10:23]]
 
 ![[Mosiah 11#^mosiah-11-9]]
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 12
 slug: dan-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,8 @@ _Not yet developed._
 - [[Matthew 13]] — 0 parallel verses
 - [[Daniel 11]] — 0 parallel verses
 - [[Daniel 8]] — 0 parallel verses
+- [[Revelation 12]] — 0 parallel verses
+- [[Revelation 22]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -96,6 +98,7 @@ _Not yet developed._
 - **Conversion** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

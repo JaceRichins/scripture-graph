@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 23
 slug: josh-23
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,7 +84,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

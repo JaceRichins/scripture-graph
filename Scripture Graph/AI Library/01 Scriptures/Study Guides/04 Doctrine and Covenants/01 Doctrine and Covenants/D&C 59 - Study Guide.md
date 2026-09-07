@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 59
 slug: dc-59
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,15 +95,15 @@ The creation teaching is similarly balanced. Material and sensory goods are affi
 ## Church History
 <!-- SG:BEGIN history -->
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
+- **June 2–8: “Anxiously Engaged in a Good Cause”: Doctrine and Covenants 58–59** (lesson) *(explicit citation)*
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **Worship** (reference-entry) *(explicit citation)*
 - **Chapter 21: Honoring the Sabbath and the Sacrament** (teachings) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
+- **Chapter 26: Observing the Sabbath: That Your Joy May Be Full** (teachings) *(explicit citation)*
 - **Abortion** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
-- **Sabbath Day** (reference-entry) *(explicit citation)*
-- **Ten Commandments** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

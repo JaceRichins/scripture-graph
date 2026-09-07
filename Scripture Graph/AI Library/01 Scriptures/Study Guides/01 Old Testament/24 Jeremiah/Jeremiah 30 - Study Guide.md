@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 30
 slug: jer-30
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,8 +70,8 @@ _Not yet developed._
 <!-- SG:BEGIN topics -->
 - [[Scattering of Israel]]
 - [[Records and Sacred Writings]]
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Jesus Christ (Gospel Topic)]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

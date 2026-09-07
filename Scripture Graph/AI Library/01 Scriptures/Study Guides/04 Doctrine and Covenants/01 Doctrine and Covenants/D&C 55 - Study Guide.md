@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 55
 slug: dc-55
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,11 +83,13 @@ The chapter also assigns religious significance to [[Education and Learning]]. W
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Called and Chosen (President James E. Faust, October 2005)|Called and Chosen]] — President James E. Faust, 2005-October *(explicit citation)*
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 26–June 1: “A Faithful, a Just, and a Wise Steward”: Doctrine and Covenants 51–57** (lesson) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

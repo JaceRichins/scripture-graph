@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 10
 slug: dan-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Daniel 8]] — 2 parallel verses, e.g. [[Daniel 10#^dan-10-9|Daniel 10:9]] ↔ [[Daniel 8#^dan-8-18|Daniel 8:18]]
 - [[Revelation 1]] — 0 parallel verses
 - [[Daniel 12]] — 0 parallel verses
+- [[Revelation 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -84,6 +85,7 @@ _Not yet developed._
 - **Cyrus** (reference-entry) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
+- **Chapter 6: To Hear the Voice of the Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

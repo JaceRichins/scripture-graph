@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 10
 slug: hel-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,8 @@ The sealing and loosing language makes the passage relevant to later discussions
 <!-- SG:BEGIN history -->
 - **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
 - **Chapter 8: Faith in the Lord Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 11: ‘I Seek Not Mine Own Will, but the Will of the Father’** (teachings) *(explicit citation)*
+- **Chapter 3: True, Faithful, Earnest Prayer** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

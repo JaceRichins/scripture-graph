@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 1
 slug: col-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ _Not yet developed._
 - [[“Be Still, and Know That I Am God” (Elder David A. Bednar, April 2024)|“Be Still, and Know That I Am God”]] — Elder David A. Bednar, 2024-April *(explicit citation)*
 - [[The Father and the Son (Elder Christoffel Golden Jr., April 2013)|The Father and the Son]] — Elder Christoffel Golden Jr., 2013-April *(explicit citation)*
 - [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
+- [[Faith, Service, Constancy (Elder David S. Baxter, October 2006)|Faith, Service, Constancy]] — Elder David S. Baxter, 2006-October *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -105,6 +106,8 @@ _Not yet developed._
 - **Colosse** (reference-entry) *(explicit citation)*
 - **Firstborn** (reference-entry) *(explicit citation)*
 - **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
+- **Chapter 7: The Atonement of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 9: Heeding the True Messenger of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 47
 slug: isa-47
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[D&C 29]] — 1 footnote cross-reference (from [[Isaiah 47#^isa-47-11|Isaiah 47:11]])
 - [[D&C 63]] — 1 footnote cross-reference (from [[Isaiah 47#^isa-47-11|Isaiah 47:11]])
 - [[Zephaniah 2]] — 0 parallel verses
+- [[Revelation 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +66,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Agriculture** (reference-entry) *(explicit citation)*
+- **September 28–October 4. “Comfort Ye My People”: Isaiah 40–49** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 69
 slug: dc-69
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **Preface** (history) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
+- **June 23–29: “Worth … the Riches of the Whole Earth”: Doctrine and Covenants 67–70** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 

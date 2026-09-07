@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 37
 slug: dc-37
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -33,7 +33,7 @@ _Not yet developed._
 
 ## Places
 <!-- SG:BEGIN places -->
-_Not yet developed._
+- [[Colesville]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
@@ -64,6 +64,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 21–27: “If Ye Are Not One Ye Are Not Mine”: Doctrine and Covenants 37–40** (lesson) *(explicit citation)*
 - **‘Go to the Ohio’** (history) *(explicit citation)*
 - **10 Gathered In** (history) *(explicit citation)*
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*

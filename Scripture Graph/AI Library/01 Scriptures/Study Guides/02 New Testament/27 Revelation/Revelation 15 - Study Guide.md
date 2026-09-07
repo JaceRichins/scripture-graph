@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 15
 slug: rev-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Gospel Reflector 1841-05-01 (Vol. 1 No. 9)** (history, 1841-05-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

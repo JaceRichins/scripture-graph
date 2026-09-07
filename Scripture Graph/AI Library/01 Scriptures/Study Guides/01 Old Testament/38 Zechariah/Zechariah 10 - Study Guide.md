@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 10
 slug: zech-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,7 +72,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 24
 slug: alma-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -113,6 +113,7 @@ Verse 30's closing principle — that falling away after enlightenment leaves a 
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

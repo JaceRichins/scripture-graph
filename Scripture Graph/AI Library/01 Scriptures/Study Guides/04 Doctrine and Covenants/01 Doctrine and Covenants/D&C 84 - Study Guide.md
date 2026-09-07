@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 84
 slug: dc-84
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -118,6 +118,7 @@ Faithful recipients are said to become sons of Moses and Aaron and Abraham's see
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 28–August 3: “The Power of Godliness”: Doctrine and Covenants 84** (lesson) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **15 Holy Places** (history) *(explicit citation)*
@@ -127,7 +128,6 @@ Faithful recipients are said to become sons of Moses and Aaron and Abraham's see
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
-- **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

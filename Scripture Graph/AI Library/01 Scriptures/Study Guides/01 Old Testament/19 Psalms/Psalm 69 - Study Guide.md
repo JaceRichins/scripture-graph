@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 69
 slug: ps-69
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -75,7 +75,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
+- **August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

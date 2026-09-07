@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 22
 slug: dc-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **‘Build Up My Church’** (history) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Covenant** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*

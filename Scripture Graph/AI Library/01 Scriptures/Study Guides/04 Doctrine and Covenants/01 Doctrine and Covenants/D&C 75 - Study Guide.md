@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 75
 slug: dc-75
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -33,10 +33,10 @@ The three "Even so. Amen." markers (vv. 12, 22, 36) are the clearest textual sig
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Samuel (prophet)]] — 1 mention
+- [[Samuel H. Smith]] — 1 mention
 - [[Orson Pratt]] — 1 mention
 - [[Ezra (scribe)]] — 1 mention
-- [[Thomas (apostle)]] — 1 mention
+- [[Thomas B. Marsh]] — 1 mention
 - [[Hyrum Smith]] — 1 mention
 - [[Daniel (prophet)]] — 1 mention
 - [[Gideon (judge)]] — 1 mention
@@ -92,6 +92,7 @@ The three "Even so. Amen." markers (vv. 12, 22, 36) are the clearest textual sig
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Don’t Leave for Tomorrow What You Can Do Today (Elder Claudio R. M. Costa, October 2007)|Don’t Leave for Tomorrow What You Can Do Today]] — Elder Claudio R. M. Costa, 2007-October *(explicit citation)*
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
@@ -101,10 +102,15 @@ The three "Even so. Amen." markers (vv. 12, 22, 36) are the clearest textual sig
 ## Church History
 <!-- SG:BEGIN history -->
 - **14 Visions and Nightmares** (history) *(explicit citation)*
+- **June 30–July 6: “No Weapon That Is Formed against You Shall Prosper”: Doctrine and Covenants 71–75** (lesson) *(explicit citation)*
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
+- **Chapter 8: Our Missionary Duty** (teachings) *(explicit citation)*
+- **Chapter 12: Work and Self-Reliance** (teachings) *(explicit citation)*
+- **Chapter 6: ‘Every Member a Missionary’** (teachings) *(explicit citation)*
+- **Chapter 23: Individual Responsibility** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

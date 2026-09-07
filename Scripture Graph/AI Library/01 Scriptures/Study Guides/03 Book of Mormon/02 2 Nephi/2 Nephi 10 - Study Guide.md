@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 10
 slug: 2ne-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,9 @@ The chapter integrates several doctrines rather than treating them separately. [
 - **Grace** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Chapter 11: ‘I Seek Not Mine Own Will, but the Will of the Father’** (teachings) *(explicit citation)*
+- **Chapter 14: ‘With God All Things Are Possible’** (teachings) *(explicit citation)*
+- **Chapter 22: Agency and Responsibility** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

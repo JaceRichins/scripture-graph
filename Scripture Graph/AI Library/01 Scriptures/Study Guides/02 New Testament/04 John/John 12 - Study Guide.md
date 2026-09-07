@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 12
 slug: john-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ Scripture: [[John 12]] · My notes: [[John 12 - My Notes]]
 - [[John 17]] — 0 parallel verses
 - [[John 3]] — 0 parallel verses
 - [[John 8]] — 0 parallel verses
+- [[Matthew 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -111,6 +112,8 @@ Verses 44–50 strongly unite Jesus's mission with the Father's authority while 
 - **Darkness** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
 - **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
+- **June 9–15: “I Am with the Faithful Always”: Doctrine and Covenants 60–63** (lesson) *(explicit citation)*
+- **The Life and Ministry of Joseph Fielding Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

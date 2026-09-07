@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 145
 slug: ps-145
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Cheering Each Other On (Sister J. Anette Dennis, October 2025)|Cheering Each Other On]] — Sister J. Anette Dennis, 2025-October *(explicit citation)*
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
+- [[The Tender Mercies of the Lord (Elder David A. Bednar, April 2005)|The Tender Mercies of the Lord]] — Elder David A. Bednar, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

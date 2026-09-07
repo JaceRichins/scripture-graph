@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 78
 slug: ps-78
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ The verb 'tempted'/tested God recurs at vv.18, 41, and 56, marking renewed provo
 - [[Exodus 9]] — 0 parallel verses
 - [[Psalm 106]] — 0 parallel verses
 - [[1 Samuel 16]] — 0 parallel verses
+- [[Numbers 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -93,6 +94,7 @@ The verb 'tempted'/tested God recurs at vv.18, 41, and 56, marking renewed provo
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 

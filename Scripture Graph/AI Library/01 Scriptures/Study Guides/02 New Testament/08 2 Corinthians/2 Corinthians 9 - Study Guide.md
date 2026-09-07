@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 9
 slug: 2cor-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Jacob 2]] — 1 footnote cross-reference (from [[2 Corinthians 9#^2cor-9-8|2 Corinthians 9:8]])
 - [[Hebrews 13]] — 1 footnote cross-reference (from [[2 Corinthians 9#^2cor-9-12|2 Corinthians 9:12]])
 - [[James 1]] — 1 footnote cross-reference (from [[2 Corinthians 9#^2cor-9-15|2 Corinthians 9:15]])
+- [[Romans 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

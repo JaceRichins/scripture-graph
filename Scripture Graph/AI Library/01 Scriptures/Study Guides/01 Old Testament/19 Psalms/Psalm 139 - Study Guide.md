@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 139
 slug: ps-139
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,7 +64,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
 - **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
+- **Chapter 16: Strengthening Our Relationship with God** (teachings) *(explicit citation)*
+- **Chapter 8: ‘Search Me, O God, and Know My Heart’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

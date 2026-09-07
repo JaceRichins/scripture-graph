@@ -6,7 +6,7 @@ volume: Old Testament
 book: Lamentations
 chapter: 4
 slug: lam-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[Psalm 137]] — 0 parallel verses
 - [[Obadiah 1]] — 0 parallel verses
 - [[Ezekiel 25]] — 0 parallel verses
+- [[Obadiah 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,7 +74,7 @@ Caution is necessary when applying this teaching. The chapter interprets a parti
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[A Royal Priesthood (President James E. Faust, April 2006)|A Royal Priesthood]] — President James E. Faust, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

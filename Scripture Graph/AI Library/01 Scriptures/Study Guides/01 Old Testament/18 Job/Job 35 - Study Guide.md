@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 35
 slug: job-35
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

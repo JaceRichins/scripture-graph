@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 3
 slug: josh-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ The chapter ties personal sanctification to participation in a divine act (3:5),
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*

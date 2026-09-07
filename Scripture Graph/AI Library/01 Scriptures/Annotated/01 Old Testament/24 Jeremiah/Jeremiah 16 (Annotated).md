@@ -36,7 +36,7 @@ cssclasses:
 ![[Jeremiah 16#^jer-16-8]]
 
 ![[Jeremiah 16#^jer-16-9]]
-> [[Jeremiah 7#^jer-7-34|Jer. 7:34]] · [[Jeremiah 25#^jer-25-10|25:10]] · [[Jeremiah 7#^jer-7-34|≈ Jeremiah 7:34]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 33#^jer-33-11|≈ Jeremiah 33:11]] · [[Jeremiah 25#^jer-25-10|≈ Jeremiah 25:10]] · [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]]
+> [[Jeremiah 7#^jer-7-34|Jer. 7:34]] · [[Jeremiah 25#^jer-25-10|25:10]] · [[Jeremiah 7#^jer-7-34|≈ Jeremiah 7:34]] · [[Jeremiah 7#^jer-7-3|≈ Jeremiah 7:3]] · [[Jeremiah 7#^jer-7-21|≈ Jeremiah 7:21]] · [[Jeremiah 25#^jer-25-10|≈ Jeremiah 25:10]] · [[Jeremiah 25#^jer-25-27|≈ Jeremiah 25:27]] · [[Jeremiah 33#^jer-33-11|≈ Jeremiah 33:11]]
 
 ![[Jeremiah 16#^jer-16-10]]
 > [[Deuteronomy 29#^deut-29-24|Deut. 29:24]]

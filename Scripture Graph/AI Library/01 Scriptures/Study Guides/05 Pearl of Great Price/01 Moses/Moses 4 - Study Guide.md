@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 4
 slug: moses-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,25 +91,25 @@ The chapter moves through six sections:
 - [[Preserving Agency, Protecting Religious Freedom (Elder Robert D. Hales, April 2015)|Preserving Agency, Protecting Religious Freedom]] — Elder Robert D. Hales, 2015-April *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
+- [[To Act for Ourselves The Gift and Blessings of Agency (Elder Robert D. Hales, April 2006)|To Act for Ourselves: The Gift and Blessings of Agency]] — Elder Robert D. Hales, 2006-April *(explicit citation)*
 - [[Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]] — Elder Dallin H. Oaks, 2016-April *(explicit citation)*
 - [[Divine Helps for Mortality (President Dallin H. Oaks, April 2025)|Divine Helps for Mortality]] — President Dallin H. Oaks, 2025-April *(explicit citation)*
 - [[Keep the Commandments (President Thomas S. Monson, October 2015)|Keep the Commandments]] — President Thomas S. Monson, 2015-October *(explicit citation)*
 - [[Remembering in Whom We Have Trusted (Elder Allen D. Haynie, October 2015)|Remembering in Whom We Have Trusted]] — Elder Allen D. Haynie, 2015-October *(explicit citation)*
-- [[Am I Good Enough Will I Make It (Elder J. Devn Cornish, October 2016)|Am I Good Enough? Will I Make It?]] — Elder J. Devn Cornish, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 19–25. The Fall of Adam and Eve: Genesis 3–4; Moses 4–5** (lesson) *(explicit citation)*
 - **Jesus Christ Chosen as Savior** (reference-entry) *(explicit citation)*
 - **Premortality** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Chapter 5: The Infinite Atonement of Jesus Christ** (teachings) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
-- **Godhead** (reference-entry) *(explicit citation)*
-- **Premortal Life** (reference-entry) *(explicit citation)*
+- **Chapter 15: Agency and Accountability** (teachings) *(explicit citation)*
+- **Chapter 22: Agency and Responsibility** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

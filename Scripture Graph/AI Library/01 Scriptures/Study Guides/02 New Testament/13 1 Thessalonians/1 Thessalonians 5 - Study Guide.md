@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 5
 slug: 1thes-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,8 @@ _Not yet developed._
 - [[D&C 98]] — 0 parallel verses
 - [[2 Peter 3]] — 0 parallel verses
 - [[Ephesians 6]] — 0 parallel verses
+- [[Philippians 4]] — 0 parallel verses
+- [[Romans 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -97,6 +99,9 @@ _Not yet developed._
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Breastplate** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
+- **Chapter 23: Eternal Truth** (teachings) *(explicit citation)*
+- **Chapter 19: Following the Living Prophet** (teachings) *(explicit citation)*
+- **Chapter 22: Prayer—A Commandment and a Blessing** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

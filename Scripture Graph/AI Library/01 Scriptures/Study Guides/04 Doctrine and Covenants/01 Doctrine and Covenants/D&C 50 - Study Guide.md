@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 50
 slug: dc-50
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,16 +95,17 @@ The final reassurance does not erase the need for growth. The hearers are Christ
 - [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
 - [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
 - [[Teaching after the Manner of the Spirit (Matthew O. Richardson, October 2011)|Teaching after the Manner of the Spirit]] — Matthew O. Richardson, 2011-October *(explicit citation)*
+- [[Strengthen Thy Brethren (Elder Robert J. Whetten, April 2005)|Strengthen Thy Brethren]] — Elder Robert J. Whetten, 2005-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Nourished by the Good Word of God (Daniel K Judd, October 2007)|Nourished by the Good Word of God]] — Daniel K Judd, 2007-October *(explicit citation)*
 - [[Be Not Afraid, Only Believe (President Dieter F. Uchtdorf, October 2015)|Be Not Afraid, Only Believe]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[Choose the Light (Elder Vern P. Stanfill, October 2015)|Choose the Light]] — Elder Vern P. Stanfill, 2015-October *(explicit citation)*
 - [[Your Next Step (Elder Randall K. Bennett, October 2015)|Your Next Step]] — Elder Randall K. Bennett, 2015-October *(explicit citation)*
-- [[Always Retain a Remission of Your Sins (Elder David A. Bednar, April 2016)|Always Retain a Remission of Your Sins]] — Elder David A. Bednar, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 19–25: “That Which Is of God Is Light”: Doctrine and Covenants 49–50** (lesson) *(explicit citation)*
 - **Religious Enthusiasm among Early Ohio Converts** (history) *(explicit citation)*
 - **08 The Rise of the Church of Christ** (history) *(explicit citation)*
 - **11 Ye Shall Receive My Law** (history) *(explicit citation)*
@@ -114,7 +115,6 @@ The final reassurance does not erase the need for growth. The hearers are Christ
 - **Truth** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
 - **Introduction** (teachings) *(explicit citation)*
-- **Chapter 16: Revelation and the Living Prophet** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

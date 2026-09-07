@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 30
 slug: dc-30
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -73,10 +73,12 @@ Peter's instructions connect shared adversity with [[Prayer]], [[Faith]], and [[
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
 - [[Unselfish Service (Elder Dallin H. Oaks, April 2009)|Unselfish Service]] — Elder Dallin H. Oaks, 2009-April *(explicit citation)*
+- [[A Work for Me to Do (Julie B. Beck, April 2005)|A Work for Me to Do]] — Julie B. Beck, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 7–13: “Lift Up Your Voices … to Declare My Gospel”: Doctrine and Covenants 30–36** (lesson) *(explicit citation)*
 - **A Mission to the Lamanites** (history) *(explicit citation)*
 - **09 Come Life or Come Death** (history) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*

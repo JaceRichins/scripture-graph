@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 19
 slug: matt-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,9 @@ Scripture: [[Matthew 19]] · My notes: [[Matthew 19 - My Notes]]
 - [[1 Nephi 22]] — 1 footnote cross-reference (from [[Matthew 19#^matt-19-17|Matthew 19:17]])
 - [[Proverbs 25]] — 1 footnote cross-reference (from [[Matthew 19#^matt-19-18|Matthew 19:18]])
 - [[Alma 22]] — 1 footnote cross-reference (from [[Matthew 19#^matt-19-21|Matthew 19:21]])
+- [[Mark 10]] — 14 parallel verses, e.g. [[Matthew 19#^matt-19-24|Matthew 19:24]] ↔ [[Mark 10#^mark-10-25|Mark 10:25]]
+- [[Luke 18]] — 6 parallel verses, e.g. [[Matthew 19#^matt-19-24|Matthew 19:24]] ↔ [[Luke 18#^luke-18-25|Luke 18:25]]
+- [[Romans 13]] — 2 parallel verses, e.g. [[Matthew 19#^matt-19-18|Matthew 19:18]] ↔ [[Romans 13#^rom-13-9|Romans 13:9]]
 - [[Matthew 12]] — 2 parallel verses, e.g. [[Matthew 19#^matt-19-2|Matthew 19:2]] ↔ [[Matthew 12#^matt-12-15|Matthew 12:15]]
 - [[Mark 9]] — 2 parallel verses, e.g. [[Matthew 19#^matt-19-24|Matthew 19:24]] ↔ [[Mark 9#^mark-9-47|Mark 9:47]]
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Matthew 19#^matt-19-18|Matthew 19:18]] ↔ [[Mosiah 13#^mosiah-13-22|Mosiah 13:22]]
@@ -64,8 +67,6 @@ Scripture: [[Matthew 19]] · My notes: [[Matthew 19 - My Notes]]
 - [[Matthew 20]] — 0 parallel verses
 - [[1 Nephi 12]] — 0 parallel verses
 - [[Genesis 2]] — 0 parallel verses
-- [[Mark 10]] — 0 parallel verses
-- [[Luke 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -95,17 +96,18 @@ The promise to the Twelve joins [[Apostles]] with Israel's future judgment, whil
 - [[What Lack I Yet (Elder Larry R. Lawrence, October 2015)|What Lack I Yet?]] — Elder Larry R. Lawrence, 2015-October *(explicit citation)*
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
 - [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
+- [[Nurturing Marriage (Elder Russell M. Nelson, April 2006)|Nurturing Marriage]] — Elder Russell M. Nelson, 2006-April *(explicit citation)*
 - [[“Whoso Receiveth Them, Receiveth Me” (Elder Neil L. Andersen, April 2016)|“Whoso Receiveth Them, Receiveth Me”]] — Elder Neil L. Andersen, 2016-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 - [[And This Is Life Eternal (Elder C. Scott Grow, April 2017)|And This Is Life Eternal]] — Elder C. Scott Grow, 2017-April *(explicit citation)*
 - [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
-- [[The Finest Homes (Elder L. Whitney Clayton, April 2020)|The Finest Homes]] — Elder L. Whitney Clayton, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Divorce** (reference-entry) *(explicit citation)*
+- **Chapter 14: ‘With God All Things Are Possible’** (teachings) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Divorce** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
@@ -114,7 +116,6 @@ The promise to the Twelve joins [[Apostles]] with Israel's future judgment, whil
 - **Ten Commandments** (reference-entry) *(explicit citation)*
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
-- **Camel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

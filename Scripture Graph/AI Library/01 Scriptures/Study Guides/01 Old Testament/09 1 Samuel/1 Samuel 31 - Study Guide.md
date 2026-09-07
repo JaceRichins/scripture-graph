@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 31
 slug: 1sam-31
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Beth-shan or Beth-shean** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Historical Books in the Old Testament** (lesson) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Esdraelon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

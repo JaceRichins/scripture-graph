@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 19
 slug: 1ne-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ Verses 1-6 also present sacred recordkeeping as selective and purpose-driven whi
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[That They Might Know Thee (Elder Keith R. Edwards, October 2006)|That They Might Know Thee]] — Elder Keith R. Edwards, 2006-October *(explicit citation)*
 - [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
 - [[Lift Up Your Head and Rejoice (M. Joseph Brough, October 2018)|Lift Up Your Head and Rejoice]] — M. Joseph Brough, 2018-October *(explicit citation)*
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
@@ -102,7 +103,6 @@ Verses 1-6 also present sacred recordkeeping as selective and purpose-driven whi
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[Love All; Love Each (Elder Gérald Caussé, April 2026)|Love All; Love Each]] — Elder Gérald Caussé, 2026-April *(explicit citation)*
-- [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -111,11 +111,11 @@ Verses 1-6 also present sacred recordkeeping as selective and purpose-driven whi
 - **The Role of Prophets** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: Reading the Old Testament** (lesson) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Scriptures** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

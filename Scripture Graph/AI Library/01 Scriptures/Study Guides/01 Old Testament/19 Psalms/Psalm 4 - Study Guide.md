@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 4
 slug: ps-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,7 +71,7 @@ The psalm portrays [[Faith]] as trust expressed amid unresolved pressure, not on
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Seer 1853-07 (Vol. 1 No. 7)** (history, 1853-07) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

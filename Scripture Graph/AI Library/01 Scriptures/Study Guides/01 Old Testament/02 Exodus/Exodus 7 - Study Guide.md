@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 7
 slug: ex-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The signs also serve more than spectacle: they accompany the demand for Israel's
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Oliver Cowdery’s Gift** (history) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*

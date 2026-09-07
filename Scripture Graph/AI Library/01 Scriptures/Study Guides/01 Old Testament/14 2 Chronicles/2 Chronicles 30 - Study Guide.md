@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 30
 slug: 2chr-30
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ Scripture: [[2 Chronicles 30]] · My notes: [[2 Chronicles 30 - My Notes]]
 - [[Proverbs 1]] — 1 parallel verse, e.g. [[2 Chronicles 30#^2chr-30-26|2 Chronicles 30:26]] ↔ [[Proverbs 1#^prov-1-1|Proverbs 1:1]]
 - [[2 Chronicles 35]] — 0 parallel verses
 - [[Ezra 6]] — 0 parallel verses
+- [[Numbers 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -87,6 +88,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 20–26. “Our Eyes Are upon Thee”: 2 Chronicles 14–20; 26; 30** (lesson) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
 - **Asher** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

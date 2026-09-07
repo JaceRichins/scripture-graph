@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 4
 slug: mal-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,8 +56,8 @@ The Moses-Elijah sequence gives the ending a backward-and-forward orientation: r
 - [[D&C 133]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[D&C 133#^dc-133-64|D&C 133:64]]
 - [[Joseph Smith—History 1]] — 2 parallel verses, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[Joseph Smith—History 1#^jsh-1-37|Joseph Smith—History 1:37]]
 - [[D&C 110]] — 3 parallel verses, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 110#^dc-110-14|D&C 110:14]]
-- [[D&C 2]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 2#^dc-2-1|D&C 2:1]]
 - [[2 Nephi 26]] — 2 parallel verses, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[2 Nephi 26#^2ne-26-4|2 Nephi 26:4]]
+- [[D&C 2]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 2#^dc-2-1|D&C 2:1]]
 - [[D&C 29]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-1|Malachi 4:1]] ↔ [[D&C 29#^dc-29-9|D&C 29:9]]
 - [[D&C 138]] — 1 parallel verse, e.g. [[Malachi 4#^mal-4-5|Malachi 4:5]] ↔ [[D&C 138#^dc-138-46|D&C 138:46]]
 - [[3 Nephi 25]] — 0 parallel verses
@@ -97,16 +97,16 @@ Later scriptures interpret Elijah's mission in distinct ways. [[Luke 1]] applies
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **December 14–20. “I Have Loved You, Saith the Lord”: Malachi** (lesson) *(explicit citation)*
 - **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **21 The Spirit of God** (history) *(explicit citation)*
 - **Elijah** (reference-entry) *(explicit citation)*
 - **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
+- **Chapter 17: Temple Work: Turning Our Hearts to Our Families and to the Lord** (teachings) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Family History Work and Genealogy** (reference-entry) *(explicit citation)*
-- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 7
 slug: mark-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Mark 9]] — 1 parallel verse, e.g. [[Mark 7#^mark-7-36|Mark 7:36]] ↔ [[Mark 9#^mark-9-9|Mark 9:9]]
 - [[Luke 8]] — 1 parallel verse, e.g. [[Mark 7#^mark-7-36|Mark 7:36]] ↔ [[Luke 8#^luke-8-56|Luke 8:56]]
 - [[D&C 35]] — 1 parallel verse, e.g. [[Mark 7#^mark-7-37|Mark 7:37]] ↔ [[D&C 35#^dc-35-9|D&C 35:9]]
+- [[Matthew 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,6 +74,7 @@ _Not yet developed._
 - [[Choose Wisely (Elder Quentin L. Cook, October 2014)|Choose Wisely]] — Elder Quentin L. Cook, 2014-October *(explicit citation)*
 - [[Stewardship—a Sacred Trust (Elder Quentin L. Cook, October 2009)|Stewardship—a Sacred Trust]] — Elder Quentin L. Cook, 2009-October *(explicit citation)*
 - [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
+- [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
 - [[The Joy of a Covenant Relationship with God (Elder Thierry K. Mutombo, April 2026)|The Joy of a Covenant Relationship with God]] — Elder Thierry K. Mutombo, 2026-April *(explicit citation)*
 - [[Followers of Christ (Elder Dallin H. Oaks, April 2013)|Followers of Christ]] — Elder Dallin H. Oaks, 2013-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*

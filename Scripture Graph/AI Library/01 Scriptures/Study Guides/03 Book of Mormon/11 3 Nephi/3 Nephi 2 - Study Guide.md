@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 2
 slug: 3ne-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ Verses 11–12 frame armed resistance as defense of lives, families, worship, [[
 - [[Faith Is Not by Chance, but by Choice (Elder Neil L. Andersen, October 2015)|Faith Is Not by Chance, but by Choice]] — Elder Neil L. Andersen, 2015-October *(explicit citation)*
 - [[In Awe of Christ and His Gospel (Elder Ulisses Soares, April 2022)|In Awe of Christ and His Gospel]] — Elder Ulisses Soares, 2022-April *(explicit citation)*
 - [[To Hold Sacred (Elder Paul B. Pieper, April 2012)|To Hold Sacred]] — Elder Paul B. Pieper, 2012-April *(explicit citation)*
+- [[The Book of Mormon Another Testament of Jesus Christ—Plain and Precious Things (President Boyd K. Packer, April 2005)|The Book of Mormon: Another Testament of Jesus Christ—Plain and Precious Things]] — President Boyd K. Packer, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

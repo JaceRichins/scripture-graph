@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 19
 slug: dc-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,15 +92,15 @@ Christ's suffering (vv. 18–19) — trembling, bleeding, and suffering "both bo
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 3–9: “Learn of Me”: Doctrine and Covenants 19** (lesson) *(explicit citation)*
 - **08 The Rise of the Church of Christ** (history) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 20
 slug: deut-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Gentile** (reference-entry) *(explicit citation)*
+- **The Seer 1853-06 (Vol. 1 No. 6)** (history, 1853-06) *(explicit citation)*
+- **The Seer 1853-07 (Vol. 1 No. 7)** (history, 1853-07) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

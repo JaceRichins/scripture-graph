@@ -4,7 +4,7 @@ mutable: ai
 content_type: hymns
 hymns: 341
 with_audio: 336
-updated_at: '2026-09-06T23:35:01Z'
+updated_at: '2026-09-07T09:10:22Z'
 ---
 
 # Hymns

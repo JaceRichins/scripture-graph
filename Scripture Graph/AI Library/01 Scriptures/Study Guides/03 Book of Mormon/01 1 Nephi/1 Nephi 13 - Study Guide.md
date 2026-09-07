@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 13
 slug: 1ne-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -110,8 +110,8 @@ _Not yet developed._
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Chapter 17: The Great Plan of Salvation** (teachings) *(explicit citation)*
+- **Chapter 21: Proclaiming the Gospel to the World** (teachings) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
-- **Bible** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

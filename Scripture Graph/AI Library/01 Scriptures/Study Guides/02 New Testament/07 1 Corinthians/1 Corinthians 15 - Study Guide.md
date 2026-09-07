@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 15
 slug: 1cor-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ The sun, moon, stars, and celestial and terrestrial bodies invite comparison wit
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Kingdoms of Glory (President Dallin H. Oaks, October 2023)|Kingdoms of Glory]] — President Dallin H. Oaks, 2023-October *(explicit citation)*
+- [[Sunday Will Come (Elder Joseph B. Wirthlin, October 2006)|Sunday Will Come]] — Elder Joseph B. Wirthlin, 2006-October *(explicit citation)*
 - [[Where Justice, Love, and Mercy Meet (Elder Jeffrey R. Holland, April 2015)|Where Justice, Love, and Mercy Meet]] — Elder Jeffrey R. Holland, 2015-April *(explicit citation)*
 - [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
 - [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
@@ -98,8 +99,7 @@ The sun, moon, stars, and celestial and terrestrial bodies invite comparison wit
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 - [[The Resurrection of Jesus Christ (Elder D. Todd Christofferson, April 2014)|The Resurrection of Jesus Christ]] — Elder D. Todd Christofferson, 2014-April *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
-- [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
-- [[What Has Our Savior Done for Us (President Dallin H. Oaks, April 2021)|What Has Our Savior Done for Us?]] — President Dallin H. Oaks, 2021-April *(explicit citation)*
+- [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

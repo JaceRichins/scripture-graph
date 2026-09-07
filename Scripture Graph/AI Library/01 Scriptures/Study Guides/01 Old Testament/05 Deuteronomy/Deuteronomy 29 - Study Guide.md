@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 29
 slug: deut-29
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -97,9 +97,11 @@ The oath to Abraham, Isaac, and Jacob connects the chapter with the [[Abrahamic 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 11–17. “Beware Lest Thou Forget the Lord”: Deuteronomy 6–8; 15; 18; 29–30; 34** (lesson) *(explicit citation)*
 - **Dead Sea** (reference-entry) *(explicit citation)*
 - **Gad** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **December 14–20. “I Have Loved You, Saith the Lord”: Malachi** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

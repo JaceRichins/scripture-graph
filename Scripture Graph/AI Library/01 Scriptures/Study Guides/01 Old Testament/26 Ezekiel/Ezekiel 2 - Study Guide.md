@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 2
 slug: ezek-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,7 +70,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[A Pattern for All (Elder Merrill J. Bateman, October 2005)|A Pattern for All]] — Elder Merrill J. Bateman, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

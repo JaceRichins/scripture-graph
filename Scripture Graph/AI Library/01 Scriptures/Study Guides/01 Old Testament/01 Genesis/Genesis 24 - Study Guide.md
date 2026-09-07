@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 24
 slug: gen-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ Isaac's marriage continues the family line associated with the [[Abrahamic Coven
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 2–8. “Let God Prevail”: Genesis 24–33** (lesson) *(explicit citation)*
 - **Chapter 23: Understanding the New and Everlasting Covenant of Marriage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 

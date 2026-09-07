@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 2
 slug: abr-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ Verses 9-11 present the [[Abrahamic Covenant]] as both blessing and ministry: Ab
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
 - [[When to Receive Your Patriarchal Blessing (Elder Kazuhiko Yamashita, April 2023)|When to Receive Your Patriarchal Blessing]] — Elder Kazuhiko Yamashita, 2023-April *(explicit citation)*
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
@@ -93,11 +94,11 @@ Verses 9-11 present the [[Abrahamic Covenant]] as both blessing and ministry: Ab
 - [[By Divine Design (Elder Ronald A. Rasband, October 2017)|By Divine Design]] — Elder Ronald A. Rasband, 2017-October *(explicit citation)*
 - [[The Role of the Book of Mormon in Conversion (Elder Shayne M. Bowen, October 2018)|The Role of the Book of Mormon in Conversion]] — Elder Shayne M. Bowen, 2018-October *(explicit citation)*
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
-- [[Found through the Power of the Book of Mormon (Elder Rubén V. Alliaud, October 2019)|Found through the Power of the Book of Mormon]] — Elder Rubén V. Alliaud, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 16–22. “To Be a Greater Follower of Righteousness”: Genesis 12–17; Abraham 1–2** (lesson) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Abraham, covenant of** (reference-entry) *(explicit citation)*
@@ -107,7 +108,6 @@ Verses 9-11 present the [[Abrahamic Covenant]] as both blessing and ministry: Ab
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
-- **Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 8
 slug: hel-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ Scripture: [[Helaman 8]] · My notes: [[Helaman 8 - My Notes]]
 - [[Alma 33]] — 0 parallel verses
 - [[Alma 37]] — 0 parallel verses
 - [[John 3]] — 0 parallel verses
+- [[Numbers 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,9 +78,9 @@ Scripture: [[Helaman 8]] · My notes: [[Helaman 8 - My Notes]]
 - [[Government and Laws]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Prophets]] *(keyword match — unconfirmed)*
-- [[Final Judgment]] *(keyword match — unconfirmed)*
-- [[Secret Combinations]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
+- [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -105,6 +106,7 @@ Scripture: [[Helaman 8]] · My notes: [[Helaman 8 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 18
 slug: ex-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,8 +85,10 @@ Shared responsibility does not remove Moses' distinctive duties. He continues to
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

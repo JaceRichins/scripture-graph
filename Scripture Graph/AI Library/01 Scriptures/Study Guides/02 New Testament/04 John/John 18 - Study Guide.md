@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 18
 slug: john-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ The alternation in verses 15–27 places Jesus' open testimony beside Peter's de
 - [[Matthew 26]] — 0 parallel verses
 - [[Luke 22]] — 0 parallel verses
 - [[John 21]] — 0 parallel verses
+- [[Mark 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -99,6 +100,8 @@ Jesus also identifies witness to [[Truth]] as central to his mission. Pilate's i
 - **Council in Heaven** (reference-entry) *(explicit citation)*
 - **Annas** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
+- **Chapter 18: Courage to Live Righteously** (teachings) *(explicit citation)*
 - **Clean and unclean** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 19
 slug: 2kgs-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -33,6 +33,7 @@ The chapter moves from threat to prayer, prophetic response, and reported delive
 <!-- SG:BEGIN people -->
 - [[Hezekiah]] — 9 mentions
 - [[Isaiah (prophet)]] — 4 mentions
+- [[Sennacherib]] — 3 mentions
 - [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
@@ -40,6 +41,7 @@ The chapter moves from threat to prayer, prophetic response, and reported delive
 <!-- SG:BEGIN places -->
 - [[Assyria]] — 10 mentions
 - [[Jerusalem]] — 3 mentions
+- [[Lachish]] — 1 mention
 - [[Haran]] — 1 mention
 - [[Garden of Eden]] — 1 mention
 - [[Mount Carmel]] — 1 mention
@@ -90,10 +92,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 13–19. “He Trusted in the Lord God of Israel”: 2 Kings 16–25** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Chariot** (reference-entry) *(explicit citation)*
 - **Ethiopia or Cush** (reference-entry) *(explicit citation)*
+- **Chapter 24: Righteous Living in Perilous Times** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

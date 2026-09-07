@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 19
 slug: ps-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,8 +65,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
+- **Chapter 18: Service in the Church** (teachings) *(explicit citation)*
+- **Chapter 5: Walking in the Light of Testimony** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

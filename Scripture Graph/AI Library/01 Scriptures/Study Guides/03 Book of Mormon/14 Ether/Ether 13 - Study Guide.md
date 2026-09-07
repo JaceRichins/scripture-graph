@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 13
 slug: ether-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ Ether 13 divides at verse 13:
 - [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
 - [[The Lord Jesus Christ Will Come Again (President Russell M. Nelson, October 2024)|The Lord Jesus Christ Will Come Again]] — President Russell M. Nelson, 2024-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -96,6 +97,7 @@ Ether 13 divides at verse 13:
 - **The Center Place** (history) *(explicit citation)*
 - **09 Come Life or Come Death** (history) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **May 5–11: “The Promises … Shall Be Fulfilled”: Doctrine and Covenants 45** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

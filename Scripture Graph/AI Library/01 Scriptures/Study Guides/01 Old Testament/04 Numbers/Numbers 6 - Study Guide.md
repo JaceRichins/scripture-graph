@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 6
 slug: num-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Dove, or turtle-dove** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **May 25–31. “The Lord Raised Up a Deliverer”: Judges 2–4; 6–8; 13–16** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

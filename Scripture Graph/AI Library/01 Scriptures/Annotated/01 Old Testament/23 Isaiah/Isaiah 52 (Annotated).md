@@ -34,7 +34,7 @@ cssclasses:
 > [[Isaiah 2#^isa-2-11|Isa. 2:11]] · [[Hosea 2#^hosea-2-14|Hosea 2:16 (14–23)]] · [[Zechariah 9#^zech-9-16|Zech. 9:16]] · [[3 Nephi 20#^3ne-20-39|≈ 3 Nephi 20:39]]
 
 ![[Isaiah 52#^isa-52-7]]
-> [[Isaiah 40#^isa-40-9|Isa. 40:9]] · [[Mosiah 15#^mosiah-15-13|Mosiah 15:14 (13–18)]] · [[D&C 128#^dc-128-19|D&amp;C 128:19]] · [[Nahum 1#^nahum-1-15|≈ Nahum 1:15]] · [[Mosiah 12#^mosiah-12-21|≈ Mosiah 12:21]] · [[Mosiah 15#^mosiah-15-18|≈ Mosiah 15:18]] · [[Mosiah 15#^mosiah-15-16|≈ Mosiah 15:16]] · [[Mosiah 15#^mosiah-15-17|≈ Mosiah 15:17]] · [[3 Nephi 20#^3ne-20-40|≈ 3 Nephi 20:40]]
+> [[Isaiah 40#^isa-40-9|Isa. 40:9]] · [[Mosiah 15#^mosiah-15-13|Mosiah 15:14 (13–18)]] · [[D&C 128#^dc-128-19|D&amp;C 128:19]] · [[Mosiah 12#^mosiah-12-21|≈ Mosiah 12:21]] · [[Mosiah 15#^mosiah-15-18|≈ Mosiah 15:18]] · [[Mosiah 15#^mosiah-15-16|≈ Mosiah 15:16]] · [[Mosiah 15#^mosiah-15-17|≈ Mosiah 15:17]] · [[Nahum 1#^nahum-1-15|≈ Nahum 1:15]] · [[3 Nephi 20#^3ne-20-40|≈ 3 Nephi 20:40]]
 
 ![[Isaiah 52#^isa-52-8]]
 > [[D&C 84#^dc-84-98|D&amp;C 84:98]] · [[D&C 12#^dc-12-6|D&amp;C 12:6]] · [[D&C 39#^dc-39-13|39:13]] · [[Mosiah 12#^mosiah-12-22|≈ Mosiah 12:22]] · [[Mosiah 15#^mosiah-15-29|≈ Mosiah 15:29]] · [[3 Nephi 16#^3ne-16-18|≈ 3 Nephi 16:18]] · [[3 Nephi 20#^3ne-20-32|≈ 3 Nephi 20:32]]

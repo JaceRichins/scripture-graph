@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 6
 slug: john-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -105,13 +105,13 @@ John 6:51–58 has an important relationship to the [[Sacrament]], but it should
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
-- **Latter Day Saints' Messenger and Advocate 1835-05-01 (Vol. 1 No. 8)** (periodical, 1835-05-01) *(explicit citation)*
-- **Ascension** (reference-entry) *(explicit citation)*
-- **Barley** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 12
 slug: dc-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,17 +76,21 @@ _Not yet developed._
 - [[The Joy of the Priesthood (President Dieter F. Uchtdorf, October 2012)|The Joy of the Priesthood]] — President Dieter F. Uchtdorf, 2012-October *(explicit citation)*
 - [[And of Some Have Compassion, Making a Difference (Barbara Thompson, October 2010)|And of Some Have Compassion, Making a Difference]] — Barbara Thompson, 2010-October *(explicit citation)*
 - [[Pride and the Priesthood (President Dieter F. Uchtdorf, October 2010)|Pride and the Priesthood]] — President Dieter F. Uchtdorf, 2010-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Knight and Whitmer Families** (history) *(explicit citation)*
+- **February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Humility** (reference-entry) *(explicit citation)*
 - **Love** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
+- **Chapter 19: Missionary Work: ‘To Reach Every Human Heart’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

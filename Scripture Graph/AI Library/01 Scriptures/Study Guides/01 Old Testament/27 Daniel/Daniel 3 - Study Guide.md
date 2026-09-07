@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 3
 slug: dan-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,8 +62,8 @@ Scripture: [[Daniel 3]] · My notes: [[Daniel 3 - My Notes]]
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -82,8 +82,11 @@ The clearest treatment of [[Faith]] occurs in verses 17–18. The men trust God'
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7** (lesson) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
+- **Chapter 24: Righteous Living in Perilous Times** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

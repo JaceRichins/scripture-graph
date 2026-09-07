@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 3
 slug: 1pet-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Genesis 7]] — 0 parallel verses
 - [[1 Peter 2]] — 0 parallel verses
 - [[Ephesians 5]] — 0 parallel verses
+- [[Psalm 34]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,12 +92,12 @@ Verse 21 denies that baptism's saving power lies in physical washing ("not the p
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14** (lesson) *(explicit citation)*
+- **Chapter 46: Redeeming Our Dead through Temple Service** (teachings) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
-- **Family** (reference-entry) *(explicit citation)*
-- **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

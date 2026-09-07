@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 37
 slug: ezek-37
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,8 +53,8 @@ _Not yet developed._
 - [[Jeremiah 25]] — 6 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 - [[Ezekiel 24]] — 5 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Ezekiel 24#^ezek-24-3|Ezekiel 24:3]]
 - [[Ezekiel 23]] — 5 parallel verses, e.g. [[Ezekiel 37#^ezek-37-15|Ezekiel 37:15]] ↔ [[Ezekiel 23#^ezek-23-1|Ezekiel 23:1]]
-- [[Ezekiel 34]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]]
 - [[Ezekiel 33]] — 5 parallel verses, e.g. [[Ezekiel 37#^ezek-37-1|Ezekiel 37:1]] ↔ [[Ezekiel 33#^ezek-33-22|Ezekiel 33:22]]
+- [[Ezekiel 34]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]] ↔ [[Ezekiel 34#^ezek-34-2|Ezekiel 34:2]]
 - [[Ezekiel 36]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-28|Ezekiel 37:28]] ↔ [[Ezekiel 36#^ezek-36-23|Ezekiel 36:23]]
 - [[Ezekiel 43]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-3|Ezekiel 37:3]] ↔ [[Ezekiel 43#^ezek-43-7|Ezekiel 43:7]]
 - [[Ezekiel 29]] — 4 parallel verses, e.g. [[Ezekiel 37#^ezek-37-19|Ezekiel 37:19]] ↔ [[Ezekiel 29#^ezek-29-8|Ezekiel 29:8]]
@@ -92,18 +92,22 @@ _Not yet developed._
 - [[Sacred Scriptures—the Foundations of Faith (Elder Quentin L. Cook, October 2024)|Sacred Scriptures—the Foundations of Faith]] — Elder Quentin L. Cook, 2024-October *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*
 - **Ephraim, stick of** (reference-entry) *(explicit citation)*
 - **Ezekiel** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 4: The Book of Mormon: Keystone of Our Religion** (teachings) *(explicit citation)*
 - **Chapter 17: The Scriptures** (teachings) *(explicit citation)*
+- **Chapter 6: The Power of the Atonement for Us Personally** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

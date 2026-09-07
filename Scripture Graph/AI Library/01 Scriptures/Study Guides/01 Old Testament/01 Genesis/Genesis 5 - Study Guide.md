@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 5
 slug: gen-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ Lamech's hope concerning Noah connects [[Family]], labor, and the cursed ground 
 ## Church History
 <!-- SG:BEGIN history -->
 - **10 Gathered In** (history) *(explicit citation)*
+- **January 26–February 1. “Teach These Things Freely unto Your Children”: Genesis 5; Moses 6** (lesson) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*

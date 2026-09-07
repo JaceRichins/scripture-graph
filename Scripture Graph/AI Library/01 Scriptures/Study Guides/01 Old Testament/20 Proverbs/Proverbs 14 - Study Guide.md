@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 14
 slug: prov-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,18 +53,19 @@ _Not yet developed._
 - [[Proverbs 8]] — 1 footnote cross-reference (from [[Proverbs 14#^prov-14-6|Proverbs 14:6]])
 - [[2 Nephi 9]] — 1 footnote cross-reference (from [[Proverbs 14#^prov-14-6|Proverbs 14:6]])
 - [[2 Nephi 28]] — 1 footnote cross-reference (from [[Proverbs 14#^prov-14-8|Proverbs 14:8]])
+- [[Proverbs 16]] — 1 parallel verse, e.g. [[Proverbs 14#^prov-14-12|Proverbs 14:12]] ↔ [[Proverbs 16#^prov-16-25|Proverbs 16:25]]
 - [[Proverbs 28]] — 2 parallel verses, e.g. [[Proverbs 14#^prov-14-2|Proverbs 14:2]] ↔ [[Proverbs 28#^prov-28-6|Proverbs 28:6]]
-- [[Proverbs 16]] — 0 parallel verses
+- [[Proverbs 13]] — 1 parallel verse, e.g. [[Proverbs 14#^prov-14-27|Proverbs 14:27]] ↔ [[Proverbs 13#^prov-13-14|Proverbs 13:14]]
 - [[Proverbs 13]] — 0 parallel verses
 - [[Proverbs 17]] — 0 parallel verses
-- [[Proverbs 13]] — 0 parallel verses
+- [[Proverbs 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Government and Laws]]
 - [[Work and Self-Reliance]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*

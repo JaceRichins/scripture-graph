@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 29
 slug: isa-29
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ Through [[2 Nephi 27]], Latter-day Saint interpretation connects the sealed book
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **05 All Is Lost** (history) *(explicit citation)*
 - **13 The Gift Has Returned** (history) *(explicit citation)*
@@ -103,7 +104,6 @@ Through [[2 Nephi 27]], Latter-day Saint interpretation connects the sealed book
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
-- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

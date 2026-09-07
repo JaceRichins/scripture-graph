@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 68
 slug: ps-68
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,7 +86,7 @@ The graphic judgment language belongs honestly within the chapter's theology. Ve
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 2: Our Savior, Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

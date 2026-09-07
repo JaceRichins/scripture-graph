@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 2
 slug: dc-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[D&C 128]] — 1 parallel verse, e.g. [[D&C 2#^dc-2-1|D&C 2:1]] ↔ [[D&C 128#^dc-128-17|D&C 128:17]]
 - [[D&C 110]] — 2 parallel verses, e.g. [[D&C 2#^dc-2-1|D&C 2:1]] ↔ [[D&C 110#^dc-110-14|D&C 110:14]]
 - [[3 Nephi 25]] — 0 parallel verses
+- [[Malachi 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,12 +86,16 @@ D&C 2 directly links four elements: Elijah, [[Priesthood Restoration]], the plan
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 20–26: “The Hearts of the Children Shall Turn to Their Fathers”: Doctrine and Covenants 2; Joseph Smith—History 1:27–65** (lesson) *(explicit citation)*
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
 - **Chapter 42: Temple Service** (teachings) *(explicit citation)*
+- **Chapter 17: Temple Work: Turning Our Hearts to Our Families and to the Lord** (teachings) *(explicit citation)*
+- **Chapter 46: Redeeming Our Dead through Temple Service** (teachings) *(explicit citation)*
+- **Chapter 17: Sealing Power and Temple Blessings** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

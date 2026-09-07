@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 25
 slug: 3ne-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ Verse 4 functions as a hinge, looking backward to the covenant given at Horeb be
 - [[D&C 138]] — 1 parallel verse, e.g. [[3 Nephi 25#^3ne-25-5|3 Nephi 25:5]] ↔ [[D&C 138#^dc-138-46|D&C 138:46]]
 - [[D&C 110]] — 0 parallel verses
 - [[D&C 2]] — 0 parallel verses
+- [[Malachi 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,8 +92,8 @@ Verse 4 functions as a hinge, looking backward to the covenant given at Horeb be
 - [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
 - [[Learning with Our Hearts (Elder Walter F. González, October 2012)|Learning with Our Hearts]] — Elder Walter F. González, 2012-October *(explicit citation)*
 - [[Be Thou an Example of the Believers (Elder Russell M. Nelson, October 2010)|Be Thou an Example of the Believers]] — Elder Russell M. Nelson, 2010-October *(explicit citation)*
-- [[Gathering the Family of God (President Henry B. Eyring, April 2017)|Gathering the Family of God]] — President Henry B. Eyring, 2017-April *(explicit citation)*
-- [[He Lives! All Glory to His Name! (Elder Richard G. Scott, April 2010)|He Lives! All Glory to His Name!]] — Elder Richard G. Scott, 2010-April *(explicit citation)*
+- [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
+- [[To Look, Reach, and Come unto Christ (Anne C. Pingree, October 2006)|To Look, Reach, and Come unto Christ]] — Anne C. Pingree, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

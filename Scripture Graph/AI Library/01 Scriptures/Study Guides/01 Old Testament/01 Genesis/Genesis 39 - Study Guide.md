@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 39
 slug: gen-39
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -73,11 +73,14 @@ Joseph's question—how he could commit this wickedness and sin against God—pr
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Place No More for the Enemy of My Soul (Elder Jeffrey R. Holland, April 2010)|Place No More for the Enemy of My Soul]] — Elder Jeffrey R. Holland, 2010-April *(explicit citation)*
 - [[Today Is the Time (Elder Walter F. González, October 2007)|Today Is the Time]] — Elder Walter F. González, 2007-October *(explicit citation)*
+- [[Pornography (Elder Dallin H. Oaks, April 2005)|Pornography]] — Elder Dallin H. Oaks, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 9–15. “The Lord Was with Joseph”: Genesis 37–41** (lesson) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

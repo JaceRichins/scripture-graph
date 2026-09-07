@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 3
 slug: judg-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 25–31. “The Lord Raised Up a Deliverer”: Judges 2–4; 6–8; 13–16** (lesson) *(explicit citation)*
 - **Caleb** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

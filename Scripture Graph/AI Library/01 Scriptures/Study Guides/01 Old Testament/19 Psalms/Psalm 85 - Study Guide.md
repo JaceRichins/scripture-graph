@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 85
 slug: ps-85
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,8 @@ _Not yet developed._
 - **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
 - **Chapter 25: Truths from the Savior’s Parables in Matthew 13** (teachings) *(explicit citation)*
 - **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
+- **August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86** (lesson) *(explicit citation)*
+- **Chapter 5: The Infinite Atonement of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

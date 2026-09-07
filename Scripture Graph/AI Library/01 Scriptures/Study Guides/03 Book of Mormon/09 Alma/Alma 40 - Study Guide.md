@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 40
 slug: alma-40
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ The chapter distinguishes [[Death and the Spirit World]] from both [[Resurrectio
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[“I Will Remember Your Sins No More” (President Boyd K. Packer, April 2006)|“I Will Remember Your Sins No More”]] — President Boyd K. Packer, 2006-April *(explicit citation)*
 - [[Our Father’s Glorious Plan (Elder Weatherford T. Clayton, April 2017)|Our Father’s Glorious Plan]] — Elder Weatherford T. Clayton, 2017-April *(explicit citation)*
 - [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
 - [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
@@ -87,7 +88,6 @@ The chapter distinguishes [[Death and the Spirit World]] from both [[Resurrectio
 - [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
 - [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
 - [[The Eternal Everyday (Elder Quentin L. Cook, October 2017)|The Eternal Everyday]] — Elder Quentin L. Cook, 2017-October *(explicit citation)*
-- [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

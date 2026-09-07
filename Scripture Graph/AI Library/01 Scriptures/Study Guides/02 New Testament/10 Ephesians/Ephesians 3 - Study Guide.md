@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 3
 slug: eph-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ _Not yet developed._
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
+- **Chapter 4: Strengthening and Preserving the Family** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

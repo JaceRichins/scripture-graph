@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 6
 slug: eph-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,8 @@ The armor passage portrays resistance to evil through [[Truth]], righteousness, 
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 - **Chapter 42: Family: The Sweetest Union for Time and for Eternity** (teachings) *(explicit citation)*
+- **March 24–30: “All Things Must Be Done in Order”: Doctrine and Covenants 27–28** (lesson) *(explicit citation)*
+- **Chapter 16: Marriage and Parenthood: Preparing Our Families for Eternal Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 3
 slug: abr-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,12 +88,13 @@ Meaningful choices and consequences permeate Abraham 3:25–28, making [[Agency]
 - [[Be Peaceable Followers of Christ (Elder Quentin L. Cook, October 2023)|Be Peaceable Followers of Christ]] — Elder Quentin L. Cook, 2023-October *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[Tell Me the Stories of Jesus (Elder Neil L. Andersen, April 2010)|Tell Me the Stories of Jesus]] — Elder Neil L. Andersen, 2010-April *(explicit citation)*
-- [[We Will Prove Them Herewith (Elder David A. Bednar, October 2020)|We Will Prove Them Herewith]] — Elder David A. Bednar, 2020-October *(explicit citation)*
+- [[To Act for Ourselves The Gift and Blessings of Agency (Elder Robert D. Hales, April 2006)|To Act for Ourselves: The Gift and Blessings of Agency]] — Elder Robert D. Hales, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
+- **January 5–11. “This Is My Work and My Glory”: Moses 1; Abraham 3** (lesson) *(explicit citation)*
 - **Jesus Christ Chosen as Savior** (reference-entry) *(explicit citation)*
 - **Premortality** (reference-entry) *(explicit citation)*
 - **37 We Will Prove Them** (history) *(explicit citation)*
@@ -102,7 +103,6 @@ Meaningful choices and consequences permeate Abraham 3:25–28, making [[Agency]
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Council in Heaven** (reference-entry) *(explicit citation)*
-- **Foreordination** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

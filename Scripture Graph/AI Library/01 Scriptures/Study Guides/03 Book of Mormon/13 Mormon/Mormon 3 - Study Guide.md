@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 3
 slug: morm-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,12 +69,12 @@ Verses 16–17 form the hinge from autobiographical war narrative to direct audi
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Pride]]
 - [[Final Judgment]]
 - [[Jews and Gentiles]]
 - [[Gospel of Jesus Christ]]
 - [[Records and Sacred Writings]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

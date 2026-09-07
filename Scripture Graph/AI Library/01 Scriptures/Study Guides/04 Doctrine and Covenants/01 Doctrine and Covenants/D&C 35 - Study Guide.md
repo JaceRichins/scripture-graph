@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 35
 slug: dc-35
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,7 @@ The chapter associates believing in Christ with becoming sons of God and enterin
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **‘Go to the Ohio’** (history) *(explicit citation)*
+- **April 7–13: “Lift Up Your Voices … to Declare My Gospel”: Doctrine and Covenants 30–36** (lesson) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **10 Gathered In** (history) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
@@ -111,7 +112,6 @@ The chapter associates believing in Christ with becoming sons of God and enterin
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
-- **Priesthood Keys** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

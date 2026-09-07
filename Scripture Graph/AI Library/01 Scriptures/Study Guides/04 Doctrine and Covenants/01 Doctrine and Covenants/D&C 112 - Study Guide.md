@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 112
 slug: dc-112
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,7 @@ D&C 112:29 joins belief and [[Baptism]] with [[Salvation]], closely paralleling 
 ## Church History
 <!-- SG:BEGIN history -->
 - **24 Truth Shall Prevail** (history) *(explicit citation)*
+- **October 6–12: “I Will Order All Things for Your Good”: Doctrine and Covenants 111–114** (lesson) *(explicit citation)*
 - **The Faith and Fall of Thomas Marsh** (history) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
@@ -112,7 +113,6 @@ D&C 112:29 joins belief and [[Baptism]] with [[Salvation]], closely paralleling 
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
-- **Prophets** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 2
 slug: isa-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ Verse 5 is especially important: it can be read both as the response demanded by
 - [[Isaiah 31]] — 1 parallel verse, e.g. [[Isaiah 2#^isa-2-20|Isaiah 2:20]] ↔ [[Isaiah 31#^isa-31-7|Isaiah 31:7]]
 - [[2 Nephi 12]] — 0 parallel verses
 - [[Joel 3]] — 0 parallel verses
+- [[Micah 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,6 +90,7 @@ Readings involving the [[Gathering of Israel]], [[Second Coming of Jesus Christ]
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
 - **Temples of The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
 - **14 Visions and Nightmares** (history) *(explicit citation)*
@@ -98,7 +100,6 @@ Readings involving the [[Gathering of Israel]], [[Second Coming of Jesus Christ]
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
-- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

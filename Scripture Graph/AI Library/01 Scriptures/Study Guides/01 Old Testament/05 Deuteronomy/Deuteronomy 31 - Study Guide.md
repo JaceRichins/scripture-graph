@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 31
 slug: deut-31
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ The chapter joins divine presence with human covenant responsibility. Israel and
 - **Cloud** (reference-entry) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
 - **Chapter 30: Valiant in the Cause of Christ** (teachings) *(explicit citation)*
+- **Chapter 18: Courage to Live Righteously** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

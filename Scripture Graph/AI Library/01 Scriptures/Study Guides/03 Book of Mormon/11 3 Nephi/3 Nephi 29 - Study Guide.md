@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 29
 slug: 3ne-29
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,12 +49,12 @@ _Not yet developed._
 - [[Mormon 3]] — 1 footnote cross-reference (from [[3 Nephi 29#^3ne-29-1|3 Nephi 29:1]])
 - [[Ezekiel 20]] — 1 footnote cross-reference (from [[3 Nephi 29#^3ne-29-1|3 Nephi 29:1]])
 - [[3 Nephi 21]] — 2 parallel verses, e.g. [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]] ↔ [[3 Nephi 21#^3ne-21-7|3 Nephi 21:7]]
+- [[Mormon 8]] — 2 parallel verses, e.g. [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]] ↔ [[Mormon 8#^morm-8-21|Mormon 8:21]]
+- [[Moroni 10]] — 3 parallel verses, e.g. [[3 Nephi 29#^3ne-29-6|3 Nephi 29:6]] ↔ [[Moroni 10#^moro-10-4|Moroni 10:4]]
 - [[1 Nephi 13]] — 2 parallel verses, e.g. [[3 Nephi 29#^3ne-29-9|3 Nephi 29:9]] ↔ [[1 Nephi 13#^1ne-13-23|1 Nephi 13:23]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[3 Nephi 29#^3ne-29-1|3 Nephi 29:1]] ↔ [[3 Nephi 20#^3ne-20-12|3 Nephi 20:12]]
 - [[Moroni 6]] — 2 parallel verses, e.g. [[3 Nephi 29#^3ne-29-6|3 Nephi 29:6]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[3 Nephi 29#^3ne-29-6|3 Nephi 29:6]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
-- [[Mormon 8]] — 0 parallel verses
-- [[Moroni 10]] — 0 parallel verses
 - [[3 Nephi 21]] — 0 parallel verses
 - [[3 Nephi 20]] — 0 parallel verses
 - [[Mormon 9]] — 0 parallel verses
@@ -82,12 +82,15 @@ Verse 8 adds a vital moral dimension to [[Jews and Gentiles]]: belief in Israel'
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
+- **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
+- **Chapter 15: Advancing the Work of the Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

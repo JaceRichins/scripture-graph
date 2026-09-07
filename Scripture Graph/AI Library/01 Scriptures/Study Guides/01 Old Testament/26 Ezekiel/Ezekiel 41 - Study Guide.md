@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 41
 slug: ezek-41
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

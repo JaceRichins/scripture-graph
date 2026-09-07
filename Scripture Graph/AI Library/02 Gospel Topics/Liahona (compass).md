@@ -36,6 +36,7 @@ _Not yet developed._
 - [[1 Nephi 16]]
 - [[D&C 17]]
 - [[1 Nephi 18]]
+- [[Mosiah 1]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

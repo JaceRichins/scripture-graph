@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 76
 slug: dc-76
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -117,6 +117,7 @@ The sons of perdition should not be equated casually with ordinary sinners. The 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
+- **July 7–13: “Great Shall Be Their Reward and Eternal Shall Be Their Glory”: Doctrine and Covenants 76** (lesson) *(explicit citation)*
 - **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Chapter 18: Beyond the Veil: Life in the Eternities** (teachings) *(explicit citation)*
 - **Kingdoms of Glory** (reference-entry) *(explicit citation)*
@@ -125,7 +126,6 @@ The sons of perdition should not be equated casually with ordinary sinners. The 
 - **Hell** (reference-entry) *(explicit citation)*
 - **Postmortality** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
-- **Testimony** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

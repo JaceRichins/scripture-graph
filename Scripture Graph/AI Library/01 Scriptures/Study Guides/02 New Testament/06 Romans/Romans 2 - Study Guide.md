@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 2
 slug: rom-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -58,10 +58,10 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Final Judgment]]
 - [[Jews and Gentiles]]
 - [[Law of Moses]]
 - [[Justification and Sanctification]]
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Truth]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

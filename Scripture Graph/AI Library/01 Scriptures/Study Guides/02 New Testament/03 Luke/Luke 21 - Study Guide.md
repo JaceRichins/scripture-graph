@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 21
 slug: luke-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,15 +54,18 @@ Scripture: [[Luke 21]] · My notes: [[Luke 21 - My Notes]]
 - [[D&C 35]] — 2 footnote cross-references (from [[Luke 21#^luke-21-28|Luke 21:28]])
 - [[Mosiah 4]] — 1 footnote cross-reference (from [[Luke 21#^luke-21-1|Luke 21:1]])
 - [[D&C 56]] — 1 footnote cross-reference (from [[Luke 21#^luke-21-1|Luke 21:1]])
+- [[Mark 13]] — 10 parallel verses, e.g. [[Luke 21#^luke-21-6|Luke 21:6]] ↔ [[Mark 13#^mark-13-2|Mark 13:2]]
+- [[Matthew 24]] — 10 parallel verses, e.g. [[Luke 21#^luke-21-23|Luke 21:23]] ↔ [[Matthew 24#^matt-24-19|Matthew 24:19]]
 - [[Joseph Smith—Matthew 1]] — 9 parallel verses, e.g. [[Luke 21#^luke-21-8|Luke 21:8]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-6|Joseph Smith—Matthew 1:6]]
 - [[D&C 45]] — 4 parallel verses, e.g. [[Luke 21#^luke-21-6|Luke 21:6]] ↔ [[D&C 45#^dc-45-20|D&C 45:20]]
-- [[Matthew 24]] — 0 parallel verses
-- [[Mark 13]] — 0 parallel verses
-- [[Mark 12]] — 0 parallel verses
+- [[Matthew 10]] — 1 parallel verse, e.g. [[Luke 21#^luke-21-17|Luke 21:17]] ↔ [[Matthew 10#^matt-10-22|Matthew 10:22]]
+- [[Mark 12]] — 1 parallel verse, e.g. [[Luke 21#^luke-21-3|Luke 21:3]] ↔ [[Mark 12#^mark-12-43|Mark 12:43]]
 - [[Joseph Smith—Matthew 1]] — 0 parallel verses
 - [[D&C 45]] — 0 parallel verses
 - [[Revelation 11]] — 0 parallel verses
 - [[Luke 19]] — 0 parallel verses
+- [[Luke 23]] — 0 parallel verses
+- [[Matthew 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -108,6 +111,7 @@ Readiness for the [[Second Coming of Jesus Christ]] is presented primarily as a 
 - **By and by** (reference-entry) *(explicit citation)*
 - **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **Chapter 8: Our Missionary Duty** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

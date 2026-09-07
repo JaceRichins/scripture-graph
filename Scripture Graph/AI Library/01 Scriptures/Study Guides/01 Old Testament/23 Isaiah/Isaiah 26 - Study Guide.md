@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 26
 slug: isa-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*

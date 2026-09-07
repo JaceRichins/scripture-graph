@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 30
 slug: isa-30
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,12 +81,16 @@ The chapter ties [[Repentance and Forgiveness]] to returning and resting in God 
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[The Cost—and Blessings—of Discipleship (Elder Jeffrey R. Holland, April 2014)|The Cost—and Blessings—of Discipleship]] — Elder Jeffrey R. Holland, 2014-April *(explicit citation)*
 - [[Believe, Obey, and Endure (President Thomas S. Monson, April 2012)|Believe, Obey, and Endure]] — President Thomas S. Monson, 2012-April *(explicit citation)*
+- [[Be Thou an Example (President Thomas S. Monson, April 2005)|Be Thou an Example]] — President Thomas S. Monson, 2005-April *(explicit citation)*
+- [[Holy Scriptures The Power of God unto Our Salvation (Elder Robert D. Hales, October 2006)|Holy Scriptures: The Power of God unto Our Salvation]] — Elder Robert D. Hales, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
 - **Egypt** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 9: Heeding the True Messenger of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

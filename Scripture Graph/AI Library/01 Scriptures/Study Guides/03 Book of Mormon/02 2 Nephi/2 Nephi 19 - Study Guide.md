@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 19
 slug: 2ne-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,7 +87,7 @@ The child's titles in verse 6, especially "The Mighty God" and "The Everlasting 
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 40: The Father and the Son** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 11
 slug: hosea-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 1
 slug: dc-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,9 +53,9 @@ A useful five-part reading is:
 - [[D&C 133]] — 3 parallel verses, e.g. [[D&C 1#^dc-1-1|D&C 1:1]] ↔ [[D&C 133#^dc-133-1|D&C 133:1]]
 - [[1 Nephi 22]] — 3 parallel verses, e.g. [[D&C 1#^dc-1-9|D&C 1:9]] ↔ [[1 Nephi 22#^1ne-22-16|1 Nephi 22:16]]
 - [[Alma 45]] — 1 parallel verse, e.g. [[D&C 1#^dc-1-31|D&C 1:31]] ↔ [[Alma 45#^alma-45-16|Alma 45:16]]
+- [[Matthew 2]] — 2 parallel verses, e.g. [[D&C 1#^dc-1-18|D&C 1:18]] ↔ [[Matthew 2#^matt-2-15|Matthew 2:15]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 1#^dc-1-1|D&C 1:1]] ↔ [[D&C 45#^dc-45-1|D&C 45:1]]
 - [[D&C 58]] — 1 parallel verse, e.g. [[D&C 1#^dc-1-35|D&C 1:35]] ↔ [[D&C 58#^dc-58-4|D&C 58:4]]
-- [[Matthew 2]] — 2 parallel verses, e.g. [[D&C 1#^dc-1-18|D&C 1:18]] ↔ [[Matthew 2#^matt-2-15|Matthew 2:15]]
 - [[Isaiah 34]] — 0 parallel verses
 - [[Luke 12]] — 0 parallel verses
 - [[Matthew 24]] — 0 parallel verses
@@ -99,6 +99,7 @@ The qualification in verse 30 is also important: the Lord's approval is directed
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 6–12: “Hearken, O Ye People”: Doctrine and Covenants 1** (lesson) *(explicit citation)*
 - **13 The Gift Has Returned** (history) *(explicit citation)*
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Peace and War** (history) *(explicit citation)*
@@ -108,7 +109,6 @@ The qualification in verse 30 is also important: the Lord's approval is directed
 - **Abraham, Book of** (reference-entry) *(explicit citation)*
 - **Doctrine and Covenants** (reference-entry) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
-- **Sin** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

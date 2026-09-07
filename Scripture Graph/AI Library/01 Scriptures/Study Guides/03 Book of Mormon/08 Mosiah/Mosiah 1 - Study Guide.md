@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 1
 slug: mosiah-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ Movements 1 and 3 both concern records, which invites reading the chapter as bra
 - [[Mosiah 2]] — 3 footnote cross-references (from [[Mosiah 1#^mosiah-1-7|Mosiah 1:7]])
 - [[Mormon 9]] — 2 footnote cross-references (from [[Mosiah 1#^mosiah-1-2|Mosiah 1:2]])
 - [[1 Nephi 3]] — 2 footnote cross-references (from [[Mosiah 1#^mosiah-1-3|Mosiah 1:3]])
+- [[Mosiah 28]] — 3 parallel verses, e.g. [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]] ↔ [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]]
 - [[Mosiah 2]] — 3 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Mosiah 2#^mosiah-2-1|Mosiah 2:1]]
 - [[Mosiah 7]] — 3 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Mosiah 7#^mosiah-7-17|Mosiah 7:17]]
 - [[Helaman 5]] — 4 parallel verses, e.g. [[Mosiah 1#^mosiah-1-10|Mosiah 1:10]] ↔ [[Helaman 5#^hel-5-5|Helaman 5:5]]
@@ -64,16 +65,15 @@ Movements 1 and 3 both concern records, which invites reading the chapter as bra
 - [[Alma 50]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-18|Mosiah 1:18]] ↔ [[Alma 50#^alma-50-9|Alma 50:9]]
 - [[Alma 56]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-10|Mosiah 1:10]] ↔ [[Alma 56#^alma-56-2|Alma 56:2]]
 - [[2 Nephi 1]] — 2 parallel verses, e.g. [[Mosiah 1#^mosiah-1-9|Mosiah 1:9]] ↔ [[2 Nephi 1#^2ne-1-14|2 Nephi 1:14]]
-- [[Alma 4]] — 1 parallel verse, e.g. [[Mosiah 1#^mosiah-1-17|Mosiah 1:17]] ↔ [[Alma 4#^alma-4-19|Alma 4:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Records and Sacred Writings]]
-- [[Government and Laws]]
 - [[Liahona (compass)]]
 - [[Education and Learning]]
 - [[Scripture Study]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Mosiah 29]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -99,6 +99,9 @@ Second, **conditional covenant identity**: the new name Benjamin will give the p
 - **The Role of Prophets** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
+- **Chapter 13: Journals: ‘Of Far More Worth than Gold’** (teachings) *(explicit citation)*
+- **Chapter 16: Bringing Up Children in Light and Truth** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

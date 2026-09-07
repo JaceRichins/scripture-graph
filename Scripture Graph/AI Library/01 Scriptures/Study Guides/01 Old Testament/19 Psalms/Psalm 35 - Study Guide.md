@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 35
 slug: ps-35
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Happiness** (reference-entry) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

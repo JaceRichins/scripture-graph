@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 7
 slug: luke-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,18 +49,19 @@ Scripture: [[Luke 7]] · My notes: [[Luke 7 - My Notes]]
 - [[Exodus 3]] — 1 footnote cross-reference (from [[Luke 7#^luke-7-16|Luke 7:16]])
 - [[Luke 1]] — 1 footnote cross-reference (from [[Luke 7#^luke-7-16|Luke 7:16]])
 - [[D&C 110]] — 1 footnote cross-reference (from [[Luke 7#^luke-7-16|Luke 7:16]])
+- [[Matthew 11]] — 13 parallel verses, e.g. [[Luke 7#^luke-7-27|Luke 7:27]] ↔ [[Matthew 11#^matt-11-10|Matthew 11:10]]
+- [[Matthew 8]] — 3 parallel verses, e.g. [[Luke 7#^luke-7-8|Luke 7:8]] ↔ [[Matthew 8#^matt-8-9|Matthew 8:9]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[Luke 7#^luke-7-27|Luke 7:27]] ↔ [[Mark 1#^mark-1-2|Mark 1:2]]
-- [[Matthew 11]] — 0 parallel verses
-- [[Matthew 8]] — 0 parallel verses
 - [[1 Kings 17]] — 0 parallel verses
+- [[Matthew 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Repentance and Forgiveness]]
 - [[Jews and Gentiles]]
 - [[Parables of Jesus]]
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -74,6 +75,7 @@ The chapter links [[Faith]] with confidence in Jesus' effective authority (7:7�
 <!-- SG:BEGIN conference -->
 - [[The Savior’s Abiding Compassion (Elder Ulisses Soares, October 2021)|The Savior’s Abiding Compassion]] — Elder Ulisses Soares, 2021-October *(explicit citation)*
 - [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
+- [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
 - [[God Will Do Something Unimaginable (Elder Dieter F. Uchtdorf, October 2020)|God Will Do Something Unimaginable]] — Elder Dieter F. Uchtdorf, 2020-October *(explicit citation)*
@@ -81,7 +83,6 @@ The chapter links [[Faith]] with confidence in Jesus' effective authority (7:7�
 - [[The Joy of Our Redemption (Sister Kristin M. Yee, October 2024)|The Joy of Our Redemption]] — Sister Kristin M. Yee, 2024-October *(explicit citation)*
 - [[Jesus Christ and Your New Beginning (Elder Patrick Kearon, October 2025)|Jesus Christ and Your New Beginning]] — Elder Patrick Kearon, 2025-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
-- [[Christ the Redeemer (Elder Carlos H. Amado, April 2014)|Christ the Redeemer]] — Elder Carlos H. Amado, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

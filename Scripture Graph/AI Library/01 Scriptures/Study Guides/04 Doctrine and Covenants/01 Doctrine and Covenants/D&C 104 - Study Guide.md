@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 104
 slug: dc-104
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -111,13 +111,13 @@ The debt instructions join [[Humility]] and [[Prayer]] with diligence, correspon
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
 - **Newel K. Whitney and the United Firm** (history) *(explicit citation)*
+- **September 15–21: “After Much Tribulation … Cometh the Blessing”: Doctrine and Covenants 102–105** (lesson) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Self-Reliance** (reference-entry) *(explicit citation)*
+- **Chapter 18: Providing in the Lord’s Way** (teachings) *(explicit citation)*
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Chapter 22: Tithing and Consecration** (teachings) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
-- **Consecration** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

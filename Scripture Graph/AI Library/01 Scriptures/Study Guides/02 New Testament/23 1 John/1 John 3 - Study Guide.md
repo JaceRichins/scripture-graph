@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 3
 slug: 1jn-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[1 John 4]] — 0 parallel verses
 - [[1 John 5]] — 0 parallel verses
 - [[John 15]] — 0 parallel verses
+- [[Moroni 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -96,6 +97,7 @@ Verse 23 joins belief in Jesus Christ with love for one another under one comman
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 5: The Grand Destiny of the Faithful** (teachings) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
@@ -105,7 +107,6 @@ Verse 23 joins belief in Jesus Christ with love for one another under one comman
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Atonement** (reference-entry) *(explicit citation)*
-- **Cain** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

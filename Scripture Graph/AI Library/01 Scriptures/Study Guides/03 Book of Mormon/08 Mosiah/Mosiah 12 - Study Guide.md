@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 12
 slug: mosiah-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,13 +71,13 @@ Scripture: [[Mosiah 12]] · My notes: [[Mosiah 12 - My Notes]]
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Ten Commandments]]
-- [[Law of Moses]]
 - [[Mosiah 13]]
 - [[Prophecy]]
 - [[Scripture Study]]
 - [[Records and Sacred Writings]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Law of Moses]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -101,6 +101,7 @@ The chapter does not treat judgment as simple fatalism: destruction is threatene
 - **Truth** (reference-entry) *(explicit citation)*
 - **Ten Commandments** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

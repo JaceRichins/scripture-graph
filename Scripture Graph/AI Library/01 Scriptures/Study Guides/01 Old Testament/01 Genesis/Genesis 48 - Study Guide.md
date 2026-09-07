@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 48
 slug: gen-48
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ Scripture: [[Genesis 48]] · My notes: [[Genesis 48 - My Notes]]
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -84,13 +85,13 @@ Scripture: [[Genesis 48]] · My notes: [[Genesis 48 - My Notes]]
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
-- **Firstborn** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

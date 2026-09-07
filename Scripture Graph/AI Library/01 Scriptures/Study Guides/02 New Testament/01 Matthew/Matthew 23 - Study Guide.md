@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 23
 slug: matt-23
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,7 +49,10 @@ Scripture: [[Matthew 23]] · My notes: [[Matthew 23 - My Notes]]
 - [[Deuteronomy 6]] — 1 footnote cross-reference (from [[Matthew 23#^matt-23-5|Matthew 23:5]])
 - [[Numbers 15]] — 1 footnote cross-reference (from [[Matthew 23#^matt-23-5|Matthew 23:5]])
 - [[Luke 14]] — 1 footnote cross-reference (from [[Matthew 23#^matt-23-6|Matthew 23:6]])
+- [[Luke 11]] — 9 parallel verses, e.g. [[Matthew 23#^matt-23-23|Matthew 23:23]] ↔ [[Luke 11#^luke-11-42|Luke 11:42]]
+- [[Luke 13]] — 3 parallel verses, e.g. [[Matthew 23#^matt-23-37|Matthew 23:37]] ↔ [[Luke 13#^luke-13-34|Luke 13:34]]
 - [[3 Nephi 10]] — 3 parallel verses, e.g. [[Matthew 23#^matt-23-37|Matthew 23:37]] ↔ [[3 Nephi 10#^3ne-10-4|3 Nephi 10:4]]
+- [[Mark 12]] — 2 parallel verses, e.g. [[Matthew 23#^matt-23-14|Matthew 23:14]] ↔ [[Mark 12#^mark-12-40|Mark 12:40]]
 - [[D&C 43]] — 1 parallel verse, e.g. [[Matthew 23#^matt-23-37|Matthew 23:37]] ↔ [[D&C 43#^dc-43-24|D&C 43:24]]
 - [[Joseph Smith—Matthew 1]] — 1 parallel verse, e.g. [[Matthew 23#^matt-23-39|Matthew 23:39]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-1|Joseph Smith—Matthew 1:1]]
 - [[D&C 29]] — 1 parallel verse, e.g. [[Matthew 23#^matt-23-37|Matthew 23:37]] ↔ [[D&C 29#^dc-29-2|D&C 29:2]]
@@ -58,9 +61,6 @@ Scripture: [[Matthew 23]] · My notes: [[Matthew 23 - My Notes]]
 - [[D&C 10]] — 1 parallel verse, e.g. [[Matthew 23#^matt-23-37|Matthew 23:37]] ↔ [[D&C 10#^dc-10-65|D&C 10:65]]
 - [[3 Nephi 10]] — 0 parallel verses
 - [[Matthew 21]] — 0 parallel verses
-- [[Matthew 20]] — 0 parallel verses
-- [[D&C 121]] — 0 parallel verses
-- [[D&C 117]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

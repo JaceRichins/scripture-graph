@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 138
 slug: dc-138
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -112,22 +112,22 @@ Verses 55–57 connect [[Premortal Life]], mortal vocation, and postmortal servi
 - [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[Power to Overcome the Adversary (Elder Peter M. Johnson, October 2019)|Power to Overcome the Adversary]] — Elder Peter M. Johnson, 2019-October *(explicit citation)*
 - [[Because of Jesus Christ (Elder Dale G. Renlund, April 2026)|Because of Jesus Christ]] — Elder Dale G. Renlund, 2026-April *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 - [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
-- [[Here to Serve a Righteous Cause (Carol F. McConkie, October 2015)|Here to Serve a Righteous Cause]] — Carol F. McConkie, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **December 1–7: “The Vision of the Redemption of the Dead”: Doctrine and Covenants 137–138** (lesson) *(explicit citation)*
+- **Chapter 46: Redeeming Our Dead through Temple Service** (teachings) *(explicit citation)*
 - **Susa Young Gates and the Vision of the Redemption of the Dead** (history) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Death, Physical** (reference-entry) *(explicit citation)*
 - **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
+- **The Ministry of Joseph F. Smith** (teachings) *(explicit citation)*
 - **Hell** (reference-entry) *(explicit citation)*
 - **Paradise** (reference-entry) *(explicit citation)*
-- **Plan of Salvation** (reference-entry) *(explicit citation)*
-- **Premortal Life** (reference-entry) *(explicit citation)*
-- **Chapter 38: The Spirit World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

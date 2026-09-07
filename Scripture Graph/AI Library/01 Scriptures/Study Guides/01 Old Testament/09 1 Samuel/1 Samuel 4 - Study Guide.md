@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 4
 slug: 1sam-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
 - **Ebenezer** (reference-entry) *(explicit citation)*
+- **June 1–7. “My Heart Rejoiceth in the Lord”: Ruth; 1 Samuel 1–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

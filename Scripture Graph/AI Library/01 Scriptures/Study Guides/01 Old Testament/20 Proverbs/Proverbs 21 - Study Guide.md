@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 21
 slug: prov-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Proverbs 24]] — 1 footnote cross-reference (from [[Proverbs 21#^prov-21-2|Proverbs 21:2]])
 - [[Proverbs 25]] — 2 parallel verses, e.g. [[Proverbs 21#^prov-21-9|Proverbs 21:9]] ↔ [[Proverbs 25#^prov-25-24|Proverbs 25:24]]
 - [[Proverbs 10]] — 1 parallel verse, e.g. [[Proverbs 21#^prov-21-15|Proverbs 21:15]] ↔ [[Proverbs 10#^prov-10-29|Proverbs 10:29]]
+- [[Psalm 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 16
 slug: ps-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

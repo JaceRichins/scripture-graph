@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 11
 slug: 1cor-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Mark 14]] — 2 parallel verses, e.g. [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]] ↔ [[Mark 14#^mark-14-22|Mark 14:22]]
 - [[1 Corinthians 14]] — 0 parallel verses
 - [[3 Nephi 18]] — 0 parallel verses
+- [[Luke 22]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -70,7 +71,7 @@ Key doctrinal threads: a headship structure culminating in God as head of Christ
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
-- [[The Pleasing Word of God (Elder Francisco J. Viñas, October 2015)|The Pleasing Word of God]] — Elder Francisco J. Viñas, 2015-October *(explicit citation)*
+- [[Nurturing Marriage (Elder Russell M. Nelson, April 2006)|Nurturing Marriage]] — Elder Russell M. Nelson, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 93
 slug: dc-93
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ The chapter also joins [[Premortal Life]], [[Agency]], and embodiment. The audie
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘Man Was Also in the Beginning with God’** (history) *(explicit citation)*
+- **August 25–31: “Receive of His Fulness”: Doctrine and Covenants 93** (lesson) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
@@ -108,8 +109,7 @@ The chapter also joins [[Premortal Life]], [[Agency]], and embodiment. The audie
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Parenting** (reference-entry) *(explicit citation)*
 - **Chapter 7: The Plan of Salvation** (teachings) *(explicit citation)*
-- **Grace** (reference-entry) *(explicit citation)*
-- **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
+- **Chapter 17: The Great Plan of Life and Salvation** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

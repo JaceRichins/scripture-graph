@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 42
 slug: dc-42
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -109,6 +109,7 @@ Repentance can lead to forgiveness and reconciliation, while unrepentant or repe
 <!-- SG:BEGIN history -->
 - **The Law** (history) *(explicit citation)*
 - **‘The Tithing of My People’** (history) *(explicit citation)*
+- **April 28–May 4: “My Law to Govern My Church”: Doctrine and Covenants 41–44** (lesson) *(explicit citation)*
 - **11 Ye Shall Receive My Law** (history) *(explicit citation)*
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
@@ -116,7 +117,6 @@ Repentance can lead to forgiveness and reconciliation, while unrepentant or repe
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
-- **Church Financial Administration** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

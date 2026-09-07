@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 30
 slug: 2ne-30
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,12 +92,16 @@ The closing vision links righteous rule, peace, knowledge, and the exposure of d
 - [[The Gospel Light of Truth and Love (Elder Alan R. Walker, April 2021)|The Gospel Light of Truth and Love]] — Elder Alan R. Walker, 2021-April *(explicit citation)*
 - [[Trusting the Doctrine of Christ (Elder Evan A. Schmutz, April 2023)|Trusting the Doctrine of Christ]] — Elder Evan A. Schmutz, 2023-April *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
+- [[All Men Everywhere (Elder Dallin H. Oaks, April 2006)|All Men Everywhere]] — Elder Dallin H. Oaks, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
+- **Chapter 15: Advancing the Work of the Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

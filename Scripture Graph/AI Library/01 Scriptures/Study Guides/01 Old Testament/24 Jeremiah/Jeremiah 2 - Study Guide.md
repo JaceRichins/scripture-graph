@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 2
 slug: jer-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,9 +86,11 @@ Grace and deliverance precede the accusation. The LORD first brought Israel from
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 19–25. “Before I Formed Thee in the Belly I Knew Thee”: Jeremiah 1–3; 7; 16–18; 20** (lesson) *(explicit citation)*
 - **Times and Seasons 1843-02-01 (Vol. 4 No. 6)** (periodical, 1843-02-01) *(explicit citation)*
 - **Fullers** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

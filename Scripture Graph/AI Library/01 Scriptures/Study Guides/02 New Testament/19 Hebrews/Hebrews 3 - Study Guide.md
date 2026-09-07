@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 3
 slug: heb-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The chapter presents [[Jesus Christ (Gospel Topic)]] as the faithful Son over Go
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
+- **The Seer 1853-10 (Vol. 1 No. 10)** (history, 1853-10) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

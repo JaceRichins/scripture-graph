@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 102
 slug: ps-102
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,8 +65,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-09-01 (Vol. 3 No. 12)** (periodical, 1837-09-01) *(explicit citation)*
 - **Chapter 16: Building Zion** (teachings) *(explicit citation)*
+- **Chapter 26: Preparing for the Coming of Our Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

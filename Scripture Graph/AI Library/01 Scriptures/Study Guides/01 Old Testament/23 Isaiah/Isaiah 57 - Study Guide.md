@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 57
 slug: isa-57
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,8 @@ _Not yet developed._
 - [[Psalm 51]] — 0 parallel verses
 - [[Jeremiah 7]] — 0 parallel verses
 - [[Ephesians 2]] — 0 parallel verses
+- [[Psalm 34]] — 0 parallel verses
+- [[Isaiah 48]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -86,7 +88,7 @@ Verse 13 is also relevant to [[Faith]]: competing sources of deliverance are swe
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

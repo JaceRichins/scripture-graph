@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 11
 slug: 3ne-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -105,13 +105,13 @@ Verses 28–30 forbid disputation, especially disputation "concerning the points
 - **07 Fellow Servants** (history) *(explicit citation)*
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
-- **First Vision** (reference-entry) *(explicit citation)*
-- **Godhead** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

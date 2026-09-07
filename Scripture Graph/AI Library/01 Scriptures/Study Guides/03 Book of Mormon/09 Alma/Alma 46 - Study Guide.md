@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 46
 slug: alma-46
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -100,7 +100,8 @@ The closing verses distinguish confidence from direct description. Some die beli
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **June 16–22: “The Lord Requireth the Heart and a Willing Mind”: Doctrine and Covenants 64–66** (lesson) *(explicit citation)*
+- **Chapter 32: Liberty through Obedience** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

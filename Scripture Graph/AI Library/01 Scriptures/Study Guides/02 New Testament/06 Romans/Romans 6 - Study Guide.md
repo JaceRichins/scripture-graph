@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 6
 slug: rom-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,14 +50,15 @@ _Not yet developed._
 - [[2 Timothy 2]] — 1 footnote cross-reference (from [[Romans 6#^rom-6-5|Romans 6:5]])
 - [[Colossians 2]] — 0 parallel verses
 - [[Colossians 2]] — 0 parallel verses
+- [[2 Timothy 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Freedom and Liberty]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Grace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

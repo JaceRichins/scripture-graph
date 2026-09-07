@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 7
 slug: moses-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ Moses 7 records a single extended theophany granted to Enoch. Called from 'the p
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[Instruments of the Lord’s Peace (Elder Robert S. Wood, April 2006)|Instruments of the Lord’s Peace]] — Elder Robert S. Wood, 2006-April *(explicit citation)*
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 - [[The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives (Elder Quentin L. Cook, April 2020)|The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives]] — Elder Quentin L. Cook, 2020-April *(explicit citation)*
 - [[Sustainable Societies (Elder D. Todd Christofferson, October 2020)|Sustainable Societies]] — Elder D. Todd Christofferson, 2020-October *(explicit citation)*
@@ -108,21 +109,20 @@ Moses 7 records a single extended theophany granted to Enoch. Called from 'the p
 - [[“Come, Follow Me” (President Russell M. Nelson, April 2019)|“Come, Follow Me”]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 - [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
 - [[The Peace of Christ Abolishes Enmity (Elder Dale G. Renlund, October 2021)|The Peace of Christ Abolishes Enmity]] — Elder Dale G. Renlund, 2021-October *(explicit citation)*
-- [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 2–8. “The Lord Called His People Zion”: Moses 7** (lesson) *(explicit citation)*
 - **10 Gathered In** (history) *(explicit citation)*
+- **Chapter 1: Our Father in Heaven** (teachings) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Zion** (reference-entry) *(explicit citation)*
 - **Chapter 16: Building Zion** (teachings) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **January 26–February 1. “Teach These Things Freely unto Your Children”: Genesis 5; Moses 6** (lesson) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
-- **Consecration** (reference-entry) *(explicit citation)*
-- **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Religion vs. Violence** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

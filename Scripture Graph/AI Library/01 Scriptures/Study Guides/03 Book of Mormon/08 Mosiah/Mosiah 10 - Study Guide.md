@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 10
 slug: mosiah-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,13 +51,13 @@ Scripture: [[Mosiah 10]] · My notes: [[Mosiah 10 - My Notes]]
 - [[Alma 1]] — 1 footnote cross-reference (from [[Mosiah 10#^mosiah-10-5|Mosiah 10:5]])
 - [[Helaman 6]] — 1 footnote cross-reference (from [[Mosiah 10#^mosiah-10-5|Mosiah 10:5]])
 - [[Mosiah 1]] — 2 parallel verses, e.g. [[Mosiah 10#^mosiah-10-16|Mosiah 10:16]] ↔ [[Mosiah 1#^mosiah-1-3|Mosiah 1:3]]
+- [[Mosiah 9]] — 3 parallel verses, e.g. [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]] ↔ [[Mosiah 9#^mosiah-9-16|Mosiah 9:16]]
 - [[Alma 2]] — 1 parallel verse, e.g. [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]] ↔ [[Alma 2#^alma-2-12|Alma 2:12]]
 - [[Mosiah 28]] — 1 parallel verse, e.g. [[Mosiah 10#^mosiah-10-16|Mosiah 10:16]] ↔ [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]]
 - [[Enos 1]] — 2 parallel verses, e.g. [[Mosiah 10#^mosiah-10-12|Mosiah 10:12]] ↔ [[Enos 1#^enos-1-20|Enos 1:20]]
 - [[Omni 1]] — 2 parallel verses, e.g. [[Mosiah 10#^mosiah-10-16|Mosiah 10:16]] ↔ [[Omni 1#^omni-1-13|Omni 1:13]]
 - [[1 Nephi 4]] — 2 parallel verses, e.g. [[Mosiah 10#^mosiah-10-13|Mosiah 10:13]] ↔ [[1 Nephi 4#^1ne-4-1|1 Nephi 4:1]]
 - [[Helaman 1]] — 1 parallel verse, e.g. [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]] ↔ [[Helaman 1#^hel-1-14|Helaman 1:14]]
-- [[Mosiah 9]] — 0 parallel verses
 - [[2 Nephi 5]] — 0 parallel verses
 - [[Enos 1]] — 0 parallel verses
 - [[1 Nephi 4]] — 0 parallel verses

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 6
 slug: hosea-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 16–22. “I Will Love Them Freely”: Hosea 1–6; 10–14; Joel** (lesson) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

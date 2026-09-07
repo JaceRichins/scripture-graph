@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 10
 slug: 2sam-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: The Historical Books in the Old Testament** (lesson) *(explicit citation)*
 - **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 - **Aram, Arameans** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

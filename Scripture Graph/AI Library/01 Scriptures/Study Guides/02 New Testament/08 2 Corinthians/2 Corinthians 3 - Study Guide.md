@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 3
 slug: 2cor-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,9 @@ The final verses connect [[Freedom and Liberty]] with the Spirit's presence and 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Epistles** (reference-entry) *(explicit citation)*
+- **December 30–January 5: “The Promised Restoration Goes Forward”: The Restoration of the Fulness of the Gospel of Jesus Christ** (lesson) *(explicit citation)*
+- **Chapter 42: Let Us Conquer Ourselves** (teachings) *(explicit citation)*
+- **Chapter 1: Learning and Teaching the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

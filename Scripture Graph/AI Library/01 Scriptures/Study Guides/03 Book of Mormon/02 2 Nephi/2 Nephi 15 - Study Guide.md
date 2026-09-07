@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 15
 slug: 2ne-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ The chapter connects holiness with righteousness and judgment rather than treati
 - [[Shipshape and Bristol Fashion Be Temple Worthy—in Good Times and Bad Times (Elder Quentin L. Cook, October 2015)|Shipshape and Bristol Fashion: Be Temple Worthy—in Good Times and Bad Times]] — Elder Quentin L. Cook, 2015-October *(explicit citation)*
 - [[Hear Him (President Russell M. Nelson, April 2020)|Hear Him]] — President Russell M. Nelson, 2020-April *(explicit citation)*
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[True to the Faith (President Thomas S. Monson, April 2006)|True to the Faith]] — President Thomas S. Monson, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

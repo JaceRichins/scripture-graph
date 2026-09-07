@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 30
 slug: deut-30
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ A refrain, "with all thine heart, and with all thy soul," recurs in verses 2, 6,
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 11–17. “Beware Lest Thou Forget the Lord”: Deuteronomy 6–8; 15; 18; 29–30; 34** (lesson) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*

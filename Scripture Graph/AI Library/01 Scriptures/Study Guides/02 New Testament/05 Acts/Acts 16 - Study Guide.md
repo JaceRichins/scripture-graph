@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 16
 slug: acts-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

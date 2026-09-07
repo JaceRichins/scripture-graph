@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 19
 slug: john-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,8 @@ Scripture: [[John 19]] · My notes: [[John 19 - My Notes]]
 - [[Luke 23]] — 0 parallel verses
 - [[Exodus 12]] — 0 parallel verses
 - [[John 3]] — 0 parallel verses
+- [[Luke 23]] — 0 parallel verses
+- [[Matthew 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -98,6 +100,7 @@ Jesus' words to his mother and the beloved disciple make practical care for anot
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-03-01 (Vol. 1 No. 5)** (periodical, 1840-03-01) *(explicit citation)*
 - **Arimathea** (reference-entry) *(explicit citation)*
@@ -105,6 +108,7 @@ Jesus' words to his mother and the beloved disciple make practical care for anot
 - **Caesar** (reference-entry) *(explicit citation)*
 - **Clothing** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
+- **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

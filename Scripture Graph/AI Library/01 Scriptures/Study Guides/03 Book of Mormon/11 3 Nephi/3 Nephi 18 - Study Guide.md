@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 18
 slug: 3ne-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -103,6 +103,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Prayer** (reference-entry) *(explicit citation)*
+- **March 24–30: “All Things Must Be Done in Order”: Doctrine and Covenants 27–28** (lesson) *(explicit citation)*
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Heavenly Parents** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
@@ -111,7 +112,6 @@ _Not yet developed._
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
-- **Abortion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -1,0 +1,41 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Presented by Robert W. Cantwell
+year: '2005'
+month: April
+url: https://www.churchofjesuschrist.org/general-conference/2005/04/church-auditing-department-report-2004?lang=eng
+doc_id: talk:2005-april-church-auditing-department-report-2004
+full_text: true
+---
+
+# Church Auditing Department Report, 2004
+
+**Speaker:** Presented by Robert W. Cantwell · **Conference:** April 2005 · [source](https://www.churchofjesuschrist.org/general-conference/2005/04/church-auditing-department-report-2004?lang=eng)
+
+Church Auditing Department Report, 2004
+
+Presented by Robert W. Cantwell
+
+Managing Director, Church Auditing Department
+
+To the First Presidency of The Church of Jesus Christ of Latter-day Saints
+
+Dear Brethren: The Auditing Department of the Church is independent of all other Church departments and operations and has been granted access to all records and systems necessary to evaluate the adequacy of controls over receipts and expenditures of funds and the safeguarding of Church assets. The auditing staff consists of certified public accountants, certified internal auditors, certified information systems auditors, and other credentialed professionals.
+
+As prescribed by revelation in section 120 of the Doctrine and Covenants, the Council on the Disposition of the Tithes authorizes the expenditure of Church funds. This council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric. After receiving authorization to expend Church funds, Church departments administer approved budgets and expend funds in accordance with Church policies and procedures.
+
+Based upon audits performed, the Church Auditing Department is of the opinion that, in all material respects, contributions received, expenditures made, and assets of the Church for the year 2004 have been administered and recorded in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures.
+
+Respectfully submitted,
+
+Church Auditing Department
+
+Robert W. Cantwell
+
+Managing Director
+
+## Scripture citations in this talk
+
+*None detected.*

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 9
 slug: ex-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 - **Barley** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 13
 slug: 2cor-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,12 +69,17 @@ _Not yet developed._
 - [[Teachings of Jesus (Elder Dallin H. Oaks, October 2011)|Teachings of Jesus]] — Elder Dallin H. Oaks, 2011-October *(explicit citation)*
 - [[The Book of Mormon—a Book from God (Elder Tad R. Callister, October 2011)|The Book of Mormon—a Book from God]] — Elder Tad R. Callister, 2011-October *(explicit citation)*
 - [[The Stone Cut Out of the Mountain (President Gordon B. Hinckley, October 2007)|The Stone Cut Out of the Mountain]] — President Gordon B. Hinckley, 2007-October *(explicit citation)*
+- [[The Great Things Which God Has Revealed (President Gordon B. Hinckley, April 2005)|The Great Things Which God Has Revealed]] — President Gordon B. Hinckley, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Communion** (reference-entry) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
+- **January 27–February 2: “My Work Shall Go Forth”: Doctrine and Covenants 3–5** (lesson) *(explicit citation)*
+- **February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75** (lesson) *(explicit citation)*
+- **Chapter 7: Joseph and Hyrum Smith, Witnesses for Christ** (teachings) *(explicit citation)*
+- **Chapter 9: Witnesses of the Book of Mormon** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

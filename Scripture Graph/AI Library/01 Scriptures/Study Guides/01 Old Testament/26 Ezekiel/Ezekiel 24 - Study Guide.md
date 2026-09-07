@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 24
 slug: ezek-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

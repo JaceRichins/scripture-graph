@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 16
 slug: rom-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[3 Nephi 11]] — 1 footnote cross-reference (from [[Romans 16#^rom-16-17|Romans 16:17]])
 - [[1 Corinthians 5]] — 1 footnote cross-reference (from [[Romans 16#^rom-16-17|Romans 16:17]])
 - [[1 Corinthians 16]] — 3 parallel verses, e.g. [[Romans 16#^rom-16-20|Romans 16:20]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
+- [[Philippians 4]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-24|Romans 16:24]] ↔ [[Philippians 4#^philip-4-23|Philippians 4:23]]
 - [[2 Thessalonians 3]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-24|Romans 16:24]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
 - [[Revelation 22]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-24|Romans 16:24]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
 - [[1 Thessalonians 5]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-20|Romans 16:20]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
@@ -61,7 +62,6 @@ _Not yet developed._
 - [[2 Corinthians 8]] — 2 parallel verses, e.g. [[Romans 16#^rom-16-20|Romans 16:20]] ↔ [[2 Corinthians 8#^2cor-8-9|2 Corinthians 8:9]]
 - [[1 Corinthians 16]] — 0 parallel verses
 - [[Genesis 3]] — 0 parallel verses
-- [[Philippians 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

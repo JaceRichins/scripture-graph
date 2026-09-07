@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 26
 slug: alma-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -90,9 +90,9 @@ The final claim that God remembers every people gives the chapter a geographical
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[Seeking Answers to Spiritual Questions (Sister Tracy Y. Browning, October 2024)|Seeking Answers to Spiritual Questions]] — Sister Tracy Y. Browning, 2024-October *(explicit citation)*
 - [[We Have Great Reason to Rejoice (Carole M. Stephens, October 2013)|We Have Great Reason to Rejoice]] — Carole M. Stephens, 2013-October *(explicit citation)*
+- [[Knowing the Lord’s Will for You (Anne C. Pingree, October 2005)|Knowing the Lord’s Will for You]] — Anne C. Pingree, 2005-October *(explicit citation)*
+- [[That We May All Sit Down in Heaven Together (Kathleen H. Hughes, October 2005)|That We May All Sit Down in Heaven Together]] — Kathleen H. Hughes, 2005-October *(explicit citation)*
 - [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
-- [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
-- [[Here to Serve a Righteous Cause (Carol F. McConkie, October 2015)|Here to Serve a Righteous Cause]] — Carol F. McConkie, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -100,13 +100,13 @@ The final claim that God remembers every people gives the chapter a geographical
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Membership Councils** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The House of Israel** (lesson) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
-- **Chapter 28: Missionary Service: A Holy Calling, a Glorious Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

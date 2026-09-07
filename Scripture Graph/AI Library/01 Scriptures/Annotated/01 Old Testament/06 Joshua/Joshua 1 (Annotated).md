@@ -45,7 +45,7 @@ cssclasses:
 ![[Joshua 1#^josh-1-10]]
 
 ![[Joshua 1#^josh-1-11]]
-> [[Judges 7#^judg-7-8|Judg. 7:8]] · [[Judges 20#^judg-20-10|20:10]] · [[Deuteronomy 12#^deut-12-10|Deut. 12:10 (10–19)]] · [[Joshua 18#^josh-18-3|≈ Joshua 18:3]] · [[Deuteronomy 11#^deut-11-31|≈ Deuteronomy 11:31]] · [[Deuteronomy 12#^deut-12-10|≈ Deuteronomy 12:10]] · [[Deuteronomy 12#^deut-12-9|≈ Deuteronomy 12:9]] · [[Deuteronomy 3#^deut-3-20|≈ Deuteronomy 3:20]]
+> [[Judges 7#^judg-7-8|Judg. 7:8]] · [[Judges 20#^judg-20-10|20:10]] · [[Deuteronomy 12#^deut-12-10|Deut. 12:10 (10–19)]] · [[Joshua 18#^josh-18-3|≈ Joshua 18:3]] · [[Deuteronomy 3#^deut-3-20|≈ Deuteronomy 3:20]] · [[Deuteronomy 11#^deut-11-31|≈ Deuteronomy 11:31]] · [[Deuteronomy 12#^deut-12-10|≈ Deuteronomy 12:10]] · [[Deuteronomy 12#^deut-12-9|≈ Deuteronomy 12:9]]
 
 ![[Joshua 1#^josh-1-12]]
 
@@ -55,7 +55,7 @@ cssclasses:
 ![[Joshua 1#^josh-1-14]]
 
 ![[Joshua 1#^josh-1-15]]
-> [[Deuteronomy 11#^deut-11-31|≈ Deuteronomy 11:31]] · [[Deuteronomy 12#^deut-12-10|≈ Deuteronomy 12:10]] · [[Deuteronomy 3#^deut-3-20|≈ Deuteronomy 3:20]] · [[Deuteronomy 4#^deut-4-41|≈ Deuteronomy 4:41]] · [[Deuteronomy 4#^deut-4-47|≈ Deuteronomy 4:47]]
+> [[Deuteronomy 3#^deut-3-20|≈ Deuteronomy 3:20]] · [[Deuteronomy 11#^deut-11-31|≈ Deuteronomy 11:31]] · [[Deuteronomy 12#^deut-12-10|≈ Deuteronomy 12:10]] · [[Deuteronomy 4#^deut-4-41|≈ Deuteronomy 4:41]] · [[Deuteronomy 4#^deut-4-47|≈ Deuteronomy 4:47]]
 
 ![[Joshua 1#^josh-1-16]]
 

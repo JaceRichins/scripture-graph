@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 11
 slug: gen-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[1 Nephi 14]] — 2 parallel verses, e.g. [[Genesis 11#^gen-11-8|Genesis 11:8]] ↔ [[1 Nephi 14#^1ne-14-13|1 Nephi 14:13]]
 - [[Ether 1]] — 0 parallel verses
 - [[Genesis 5]] — 0 parallel verses
+- [[Mosiah 28]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -78,8 +79,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 9–15. “Noah Found Grace in the Eyes of the Lord”: Genesis 6–11; Moses 8** (lesson) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **11 Ye Shall Receive My Law** (history) *(explicit citation)*
+- **The Latter-day Saints' Millennial Star 1840-10 (Vol. 1 No. 6)** (history, 1840-10) *(explicit citation)*
 - **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 - **Genealogy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

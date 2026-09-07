@@ -31,7 +31,7 @@ cssclasses:
 ![[Judges 3#^judg-3-6]]
 
 ![[Judges 3#^judg-3-7]]
-> [[Judges 4#^judg-4-1|Judg. 4:1]] · [[Hosea 2#^hosea-2-13|Hosea 2:13]] · [[Judges 6#^judg-6-1|≈ Judges 6:1]] · [[Judges 2#^judg-2-11|≈ Judges 2:11]] · [[Judges 13#^judg-13-1|≈ Judges 13:1]] · [[Judges 10#^judg-10-6|≈ Judges 10:6]]
+> [[Judges 4#^judg-4-1|Judg. 4:1]] · [[Hosea 2#^hosea-2-13|Hosea 2:13]] · [[Judges 6#^judg-6-1|≈ Judges 6:1]] · [[Judges 13#^judg-13-1|≈ Judges 13:1]] · [[Judges 2#^judg-2-11|≈ Judges 2:11]] · [[Judges 10#^judg-10-6|≈ Judges 10:6]]
 
 ![[Judges 3#^judg-3-8]]
 > [[Judges 2#^judg-2-14|≈ Judges 2:14]] · [[Judges 2#^judg-2-20|≈ Judges 2:20]] · [[Judges 10#^judg-10-7|≈ Judges 10:7]]
@@ -45,7 +45,7 @@ cssclasses:
 ![[Judges 3#^judg-3-11]]
 
 ![[Judges 3#^judg-3-12]]
-> [[Judges 6#^judg-6-1|≈ Judges 6:1]] · [[Judges 2#^judg-2-11|≈ Judges 2:11]] · [[Judges 13#^judg-13-1|≈ Judges 13:1]] · [[Judges 10#^judg-10-6|≈ Judges 10:6]]
+> [[Judges 6#^judg-6-1|≈ Judges 6:1]] · [[Judges 13#^judg-13-1|≈ Judges 13:1]] · [[Judges 2#^judg-2-11|≈ Judges 2:11]] · [[Judges 10#^judg-10-6|≈ Judges 10:6]]
 
 ![[Judges 3#^judg-3-13]]
 

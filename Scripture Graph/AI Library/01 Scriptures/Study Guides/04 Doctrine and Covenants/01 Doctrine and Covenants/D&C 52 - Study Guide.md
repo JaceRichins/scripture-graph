@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 52
 slug: dc-52
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -35,19 +35,19 @@ The chapter moves through five main units:
 <!-- SG:BEGIN people -->
 - [[Joseph Smith Jr]] — 3 mentions
 - [[Sidney Rigdon]] — 3 mentions
+- [[Lyman Wight]] — 2 mentions
 - [[Satan]] — 2 mentions
 - [[Ezra (scribe)]] — 2 mentions
 - [[Edward Partridge]] — 2 mentions
 - [[Solomon]] — 2 mentions
 - [[Jesus Christ]] — 2 mentions
 - [[Hyrum Smith]] — 1 mention
-- [[Thomas (apostle)]] — 1 mention
+- [[Thomas B. Marsh]] — 1 mention
 - [[Isaac]] — 1 mention
 - [[Martin Harris]] — 1 mention
 - [[David Whitmer]] — 1 mention
 - [[Parley P. Pratt]] — 1 mention
 - [[Orson Pratt]] — 1 mention
-- [[Samuel (prophet)]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -109,6 +109,7 @@ The promises also remain conditional. Further direction, preservation, fruitful 
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
+- **May 26–June 1: “A Faithful, a Just, and a Wise Steward”: Doctrine and Covenants 51–57** (lesson) *(explicit citation)*
 - **12 After Much Tribulation** (history) *(explicit citation)*
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
@@ -117,7 +118,6 @@ The promises also remain conditional. Further direction, preservation, fruitful 
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Caring for Those in Need** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

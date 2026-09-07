@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 7
 slug: heb-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,14 +82,17 @@ The chapter presents Christ's priesthood, after the order of [[Melchizedek Pries
 - [[Live Up to Your Privileges (President Emily Belle Freeman, October 2024)|Live Up to Your Privileges]] — President Emily Belle Freeman, 2024-October *(explicit citation)*
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
 - [[The Power of the Priesthood (President Boyd K. Packer, April 2010)|The Power of the Priesthood]] — President Boyd K. Packer, 2010-April *(explicit citation)*
+- [[Moving Closer to Him (Elder Craig A. Cardon, October 2006)|Moving Closer to Him]] — Elder Craig A. Cardon, 2006-October *(explicit citation)*
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Seer 1853-10 (Vol. 1 No. 10)** (history, 1853-10) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*
+- **Chapter 12: The Oath and Covenant of the Priesthood** (teachings) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*

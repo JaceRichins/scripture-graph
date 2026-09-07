@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 12
 slug: hel-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,12 +92,13 @@ _Not yet developed._
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[O Remember, Remember (President Henry B. Eyring, October 2007)|O Remember, Remember]] — President Henry B. Eyring, 2007-October *(explicit citation)*
 - [[Opening Our Hearts (Elder Gerald N. Lund, April 2008)|Opening Our Hearts]] — Elder Gerald N. Lund, 2008-April *(explicit citation)*
-- [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
+- [[Journey to Higher Ground (Elder Joseph B. Wirthlin, October 2005)|Journey to Higher Ground]] — Elder Joseph B. Wirthlin, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chapter 8: Faith in the Lord Jesus Christ** (teachings) *(explicit citation)*
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

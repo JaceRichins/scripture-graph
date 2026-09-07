@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 47
 slug: ps-47
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Zechariah 14]] — 1 footnote cross-reference (from [[Psalm 47#^ps-47-7|Psalm 47:7]])
 - [[Revelation 7]] — 1 footnote cross-reference (from [[Psalm 47#^ps-47-8|Psalm 47:8]])
 - [[D&C 88]] — 1 footnote cross-reference (from [[Psalm 47#^ps-47-8|Psalm 47:8]])
+- [[Psalm 68]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

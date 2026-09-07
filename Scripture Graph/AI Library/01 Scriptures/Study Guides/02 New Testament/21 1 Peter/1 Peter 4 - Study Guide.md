@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 4
 slug: 1pet-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,8 +70,8 @@ _Not yet developed._
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
 - [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
 - [[Remember Thy Suffering Saints, O Our God (Elder Anthony D. Perkins, October 2021)|Remember Thy Suffering Saints, O Our God]] — Elder Anthony D. Perkins, 2021-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[Missionary Work Sharing What Is in Your Heart (Elder Dieter F. Uchtdorf, April 2019)|Missionary Work: Sharing What Is in Your Heart]] — Elder Dieter F. Uchtdorf, 2019-April *(explicit citation)*
-- [[Trust in the Lord (President Dallin H. Oaks, October 2019)|Trust in the Lord]] — President Dallin H. Oaks, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -79,13 +79,13 @@ _Not yet developed._
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
+- **Chapter 22: Being Perfected through Trials** (teachings) *(explicit citation)*
+- **Chapter 46: Redeeming Our Dead through Temple Service** (teachings) *(explicit citation)*
 - **Times and Seasons 1841-07-01 (Vol. 2 No. 17)** (periodical, 1841-07-01) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
 - **The Seer 1853-05 (Vol. 1 No. 5)** (history, 1853-05) *(explicit citation)*
 - **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
-- **Chapter 37: Charity, the Pure Love of Christ** (teachings) *(explicit citation)*
-- **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

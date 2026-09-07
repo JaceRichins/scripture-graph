@@ -125,7 +125,7 @@ cssclasses:
 > [[Isaiah 5#^isa-5-4|Isa. 5:4]] · [[2 Nephi 2#^2ne-2-27|2 Ne. 2:27]] · [[2 Nephi 26#^2ne-26-24|26:24]] · [[Alma 26#^alma-26-37|Alma 26:37]]
 
 ![[Jacob 5#^jacob-5-42]]
-> [[Matthew 3#^matt-3-10|Matt. 3:10]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 6#^jacob-6-7|≈ Jacob 6:7]] · [[Mormon 8#^morm-8-21|≈ Mormon 8:21]] · [[Helaman 14#^hel-14-18|≈ Helaman 14:18]]
+> [[Matthew 3#^matt-3-10|Matt. 3:10]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 6#^jacob-6-7|≈ Jacob 6:7]] · [[Mormon 8#^morm-8-21|≈ Mormon 8:21]] · [[Alma 5#^alma-5-35|≈ Alma 5:35]]
 
 ![[Jacob 5#^jacob-5-43]]
 > [[Ezekiel 17#^ezek-17-8|Ezek. 17:8]]
@@ -137,7 +137,7 @@ cssclasses:
 > [[1 Nephi 15#^1ne-15-12|1 Ne. 15:12 (12–17)]] · [[2 Nephi 3#^2ne-3-5|2 Ne. 3:5]] · [[2 Nephi 10#^2ne-10-1|10:1]] · [[Alma 46#^alma-46-24|Alma 46:24 (24–25)]]
 
 ![[Jacob 5#^jacob-5-46]]
-> [[Luke 3#^luke-3-9|Luke 3:9]] · [[Alma 5#^alma-5-52|Alma 5:52]] · [[3 Nephi 27#^3ne-27-11|3 Ne. 27:11]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 6#^jacob-6-7|≈ Jacob 6:7]] · [[Mormon 8#^morm-8-21|≈ Mormon 8:21]] · [[Helaman 14#^hel-14-18|≈ Helaman 14:18]]
+> [[Luke 3#^luke-3-9|Luke 3:9]] · [[Alma 5#^alma-5-52|Alma 5:52]] · [[3 Nephi 27#^3ne-27-11|3 Ne. 27:11]] · [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 6#^jacob-6-7|≈ Jacob 6:7]] · [[Mormon 8#^morm-8-21|≈ Mormon 8:21]] · [[Alma 5#^alma-5-35|≈ Alma 5:35]]
 
 ![[Jacob 5#^jacob-5-47]]
 > [[Isaiah 9#^isa-9-12|Isa. 9:12 (12, 17, 21)]] · [[2 Nephi 19#^2ne-19-17|2 Ne. 19:17 (17–21)]] · [[2 Nephi 28#^2ne-28-32|28:32]] · [[Jacob 6#^jacob-6-4|Jacob 6:4]]
@@ -191,7 +191,7 @@ cssclasses:
 > [[D&C 86#^dc-86-6|D&amp;C 86:6 (6–7)]]
 
 ![[Jacob 5#^jacob-5-66]]
-> [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 6#^jacob-6-7|≈ Jacob 6:7]] · [[Mormon 8#^morm-8-21|≈ Mormon 8:21]] · [[Helaman 14#^hel-14-18|≈ Helaman 14:18]]
+> [[Matthew 3#^matt-3-10|≈ Matthew 3:10]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 6#^jacob-6-7|≈ Jacob 6:7]] · [[Mormon 8#^morm-8-21|≈ Mormon 8:21]] · [[Alma 5#^alma-5-35|≈ Alma 5:35]]
 
 ![[Jacob 5#^jacob-5-67]]
 

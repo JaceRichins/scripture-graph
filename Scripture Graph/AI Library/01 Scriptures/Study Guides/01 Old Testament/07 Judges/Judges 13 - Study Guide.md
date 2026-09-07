@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 13
 slug: judg-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ The promise that Samson will only "begin" Israel's deliverance (13:5) sets a res
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 25–31. “The Lord Raised Up a Deliverer”: Judges 2–4; 6–8; 13–16** (lesson) *(explicit citation)*
 - **Dan** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

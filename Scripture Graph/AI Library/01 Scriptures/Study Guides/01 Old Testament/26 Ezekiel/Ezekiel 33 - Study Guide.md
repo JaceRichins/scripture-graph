@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 33
 slug: ezek-33
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -58,9 +58,9 @@ Ezekiel 33 joins prophetic responsibility, personal turning, Jerusalem's fall, a
 - [[Ezekiel 14]] — 4 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Ezekiel 14#^ezek-14-4|Ezekiel 14:4]]
 - [[Ezekiel 34]] — 3 parallel verses, e.g. [[Ezekiel 33#^ezek-33-29|Ezekiel 33:29]] ↔ [[Ezekiel 34#^ezek-34-27|Ezekiel 34:27]]
 - [[Ezekiel 35]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-11|Ezekiel 33:11]] ↔ [[Ezekiel 35#^ezek-35-6|Ezekiel 35:6]]
-- [[Ezekiel 1]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]] ↔ [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]]
 - [[Ezekiel 30]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-28|Ezekiel 33:28]] ↔ [[Ezekiel 30#^ezek-30-18|Ezekiel 30:18]]
 - [[Ezekiel 17]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-27|Ezekiel 33:27]] ↔ [[Ezekiel 17#^ezek-17-19|Ezekiel 17:19]]
+- [[Ezekiel 1]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-21|Ezekiel 33:21]] ↔ [[Ezekiel 1#^ezek-1-1|Ezekiel 1:1]]
 - [[Jeremiah 25]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Jeremiah 25#^jer-25-27|Jeremiah 25:27]]
 - [[Ezekiel 24]] — 2 parallel verses, e.g. [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]] ↔ [[Ezekiel 24#^ezek-24-3|Ezekiel 24:3]]
 <!-- SG:END related-scriptures -->
@@ -97,6 +97,7 @@ The watchman passage also clarifies prophetic accountability. Ezekiel is respons
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1839-12-01 (Vol. 1 No. 2)** (periodical, 1839-12-01) *(explicit citation)*

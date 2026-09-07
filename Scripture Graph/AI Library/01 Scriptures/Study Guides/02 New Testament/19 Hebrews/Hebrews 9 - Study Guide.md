@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 9
 slug: heb-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

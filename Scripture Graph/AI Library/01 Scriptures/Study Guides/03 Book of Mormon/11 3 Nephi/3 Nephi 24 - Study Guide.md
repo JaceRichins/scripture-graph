@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 24
 slug: 3ne-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ Jesus commands that Malachi's words be written and then expounds them (v.1). The
 - [[3 Nephi 21]] — 1 footnote cross-reference (from [[3 Nephi 24#^3ne-24-1|3 Nephi 24:1]])
 - [[Malachi 3]] — 18 parallel verses, e.g. [[3 Nephi 24#^3ne-24-5|3 Nephi 24:5]] ↔ [[Malachi 3#^mal-3-5|Malachi 3:5]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[3 Nephi 24#^3ne-24-3|3 Nephi 24:3]] ↔ [[D&C 128#^dc-128-24|D&C 128:24]]
+- [[Malachi 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,8 +70,10 @@ The refining imagery connects divine presence with purification. The purpose is 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Tithing Opening the Windows of Heaven (Elder Neil L. Andersen, October 2023)|Tithing: Opening the Windows of Heaven]] — Elder Neil L. Andersen, 2023-October *(explicit citation)*
+- [[The Law of Tithing (Elder Daniel L. Johnson, October 2006)|The Law of Tithing]] — Elder Daniel L. Johnson, 2006-October *(explicit citation)*
 - [[Will a Man Rob God (Elder Yoshihiko Kikuchi, April 2007)|Will a Man Rob God?]] — Elder Yoshihiko Kikuchi, 2007-April *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

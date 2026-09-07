@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 3
 slug: hel-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,8 +63,8 @@ The editorial interruption in verses 13-17 is explicit: verse 17 announces the r
 - [[Ether 10]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-20|Helaman 3:20]] ↔ [[Ether 10#^ether-10-5|Ether 10:5]]
 - [[Alma 46]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-31|Helaman 3:31]] ↔ [[Alma 46#^alma-46-36|Alma 46:36]]
 - [[2 Kings 15]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-20|Helaman 3:20]] ↔ [[2 Kings 15#^2kgs-15-3|2 Kings 15:3]]
-- [[Helaman 11]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-8|Helaman 3:8]] ↔ [[Helaman 11#^hel-11-20|Helaman 11:20]]
 - [[Alma 48]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-31|Helaman 3:31]] ↔ [[Alma 48#^alma-48-9|Alma 48:9]]
+- [[Helaman 11]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-8|Helaman 3:8]] ↔ [[Helaman 11#^hel-11-20|Helaman 11:20]]
 - [[Mosiah 11]] — 1 parallel verse, e.g. [[Helaman 3#^hel-3-37|Helaman 3:37]] ↔ [[Mosiah 11#^mosiah-11-1|Mosiah 11:1]]
 - [[Alma 19]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-12|Helaman 3:12]] ↔ [[Alma 19#^alma-19-25|Alma 19:25]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Helaman 3#^hel-3-16|Helaman 3:16]] ↔ [[Alma 37#^alma-37-4|Alma 37:4]]
@@ -111,13 +111,13 @@ Verse 35 presents sanctification as transformation of the heart. Under persecuti
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
-- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

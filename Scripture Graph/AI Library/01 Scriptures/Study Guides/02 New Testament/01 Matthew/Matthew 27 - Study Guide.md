@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 27
 slug: matt-27
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,8 @@ Scripture: [[Matthew 27]] · My notes: [[Matthew 27 - My Notes]]
 - [[1 Nephi 19]] — 2 footnote cross-references (from [[Matthew 27#^matt-27-30|Matthew 27:30]])
 - [[John 2]] — 2 footnote cross-references (from [[Matthew 27#^matt-27-40|Matthew 27:40]])
 - [[Mark 15]] — 14 parallel verses, e.g. [[Matthew 27#^matt-27-46|Matthew 27:46]] ↔ [[Mark 15#^mark-15-34|Mark 15:34]]
+- [[Matthew 2]] — 3 parallel verses, e.g. [[Matthew 27#^matt-27-9|Matthew 27:9]] ↔ [[Matthew 2#^matt-2-17|Matthew 2:17]]
+- [[Luke 23]] — 3 parallel verses, e.g. [[Matthew 27#^matt-27-11|Matthew 27:11]] ↔ [[Luke 23#^luke-23-3|Luke 23:3]]
 - [[Matthew 4]] — 3 parallel verses, e.g. [[Matthew 27#^matt-27-35|Matthew 27:35]] ↔ [[Matthew 4#^matt-4-14|Matthew 4:14]]
 - [[Matthew 26]] — 2 parallel verses, e.g. [[Matthew 27#^matt-27-1|Matthew 27:1]] ↔ [[Matthew 26#^matt-26-59|Matthew 26:59]]
 - [[Matthew 13]] — 1 parallel verse, e.g. [[Matthew 27#^matt-27-35|Matthew 27:35]] ↔ [[Matthew 13#^matt-13-35|Matthew 13:35]]
@@ -64,18 +66,16 @@ Scripture: [[Matthew 27]] · My notes: [[Matthew 27 - My Notes]]
 - [[Matthew 8]] — 1 parallel verse, e.g. [[Matthew 27#^matt-27-35|Matthew 27:35]] ↔ [[Matthew 8#^matt-8-17|Matthew 8:17]]
 - [[Matthew 12]] — 1 parallel verse, e.g. [[Matthew 27#^matt-27-35|Matthew 27:35]] ↔ [[Matthew 12#^matt-12-17|Matthew 12:17]]
 - [[Mark 16]] — 1 parallel verse, e.g. [[Matthew 27#^matt-27-56|Matthew 27:56]] ↔ [[Mark 16#^mark-16-1|Mark 16:1]]
-- [[Mark 15]] — 0 parallel verses
-- [[Luke 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Crucifixion of Jesus Christ]]
-- [[Government and Laws]]
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -101,6 +101,8 @@ The torn temple veil can be read as a sign that Jesus' death changes access to G
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
@@ -109,8 +111,6 @@ The torn temple veil can be read as a sign that Jesus' death changes access to G
 - **Arimathea** (reference-entry) *(explicit citation)*
 - **Blasphemy** (reference-entry) *(explicit citation)*
 - **Centurion** (reference-entry) *(explicit citation)*
-- **Conscience** (reference-entry) *(explicit citation)*
-- **Cyrene** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

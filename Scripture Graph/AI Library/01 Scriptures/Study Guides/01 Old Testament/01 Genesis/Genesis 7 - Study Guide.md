@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 7
 slug: gen-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[1 Peter 3]] — 0 parallel verses
 - [[Matthew 24]] — 0 parallel verses
 - [[Genesis 8]] — 0 parallel verses
+- [[Luke 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,11 +77,12 @@ The juxtaposition of destruction and preservation can inform reflection on [[Jus
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
+- [[Gospel Covenants Bring Promised Blessings (Elder Paul E. Koelliker, October 2005)|Gospel Covenants Bring Promised Blessings]] — Elder Paul E. Koelliker, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

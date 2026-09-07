@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 17
 slug: jer-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ These changes of voice, genre, and subject may reflect the arrangement of distin
 <!-- SG:BEGIN history -->
 - **Hope** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 7: Integrity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

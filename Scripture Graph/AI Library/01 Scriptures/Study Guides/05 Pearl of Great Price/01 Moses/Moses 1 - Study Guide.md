@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 1
 slug: moses-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,9 @@ The text should not be made to say more than it does. It coordinates "immortalit
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 5–11. “This Is My Work and My Glory”: Moses 1; Abraham 3** (lesson) *(explicit citation)*
+- **Chapter 1: Our Father in Heaven** (teachings) *(explicit citation)*
+- **Chapter 16: Uniting to Save Souls** (teachings) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Abraham, Book of** (reference-entry) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
@@ -106,9 +109,6 @@ The text should not be made to say more than it does. It coordinates "immortalit
 - **Creation** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
-- **Eternal Life** (reference-entry) *(explicit citation)*
-- **God the Father** (reference-entry) *(explicit citation)*
-- **Priesthood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 27
 slug: num-27
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Articles of Faith 1]] — 1 footnote cross-reference (from [[Numbers 27#^num-27-16|Numbers 27:16]])
 - [[Deuteronomy 3]] — 1 footnote cross-reference (from [[Numbers 27#^num-27-18|Numbers 27:18]])
 - [[Joshua 17]] — 1 parallel verse, e.g. [[Numbers 27#^num-27-1|Numbers 27:1]] ↔ [[Joshua 17#^josh-17-3|Joshua 17:3]]
+- [[Numbers 36]] — 3 parallel verses, e.g. [[Numbers 27#^num-27-1|Numbers 27:1]] ↔ [[Numbers 36#^num-36-1|Numbers 36:1]]
 - [[Leviticus 8]] — 2 parallel verses, e.g. [[Numbers 27#^num-27-22|Numbers 27:22]] ↔ [[Leviticus 8#^lev-8-4|Leviticus 8:4]]
 - [[Numbers 20]] — 2 parallel verses, e.g. [[Numbers 27#^num-27-12|Numbers 27:12]] ↔ [[Numbers 20#^num-20-24|Numbers 20:24]]
 - [[Exodus 35]] — 3 parallel verses, e.g. [[Numbers 27#^num-27-20|Numbers 27:20]] ↔ [[Exodus 35#^ex-35-1|Exodus 35:1]]
@@ -62,7 +63,6 @@ _Not yet developed._
 - [[1 Chronicles 7]] — 1 parallel verse, e.g. [[Numbers 27#^num-27-1|Numbers 27:1]] ↔ [[1 Chronicles 7#^1chr-7-17|1 Chronicles 7:17]]
 - [[Exodus 16]] — 2 parallel verses, e.g. [[Numbers 27#^num-27-20|Numbers 27:20]] ↔ [[Exodus 16#^ex-16-1|Exodus 16:1]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Numbers 27#^num-27-20|Numbers 27:20]] ↔ [[Numbers 15#^num-15-25|Numbers 15:25]]
-- [[Deuteronomy 32]] — 1 parallel verse, e.g. [[Numbers 27#^num-27-13|Numbers 27:13]] ↔ [[Deuteronomy 32#^deut-32-50|Deuteronomy 32:50]]
 - [[Exodus 30]] — 1 parallel verse, e.g. [[Numbers 27#^num-27-8|Numbers 27:8]] ↔ [[Exodus 30#^ex-30-31|Exodus 30:31]]
 - [[Leviticus 24]] — 1 parallel verse, e.g. [[Numbers 27#^num-27-8|Numbers 27:8]] ↔ [[Leviticus 24#^lev-24-15|Leviticus 24:15]]
 <!-- SG:END related-scriptures -->

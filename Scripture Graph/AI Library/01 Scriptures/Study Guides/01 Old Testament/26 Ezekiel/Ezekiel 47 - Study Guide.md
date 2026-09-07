@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 47
 slug: ezek-47
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,9 +81,11 @@ Verses 22–23 make a more explicit social provision: resident strangers who hav
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
 - **Ezekiel** (reference-entry) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

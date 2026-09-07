@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 102
 slug: dc-102
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -39,7 +39,7 @@ Scripture: [[D&C 102]] · My notes: [[D&C 102 - My Notes]]
 - [[Martin Harris]] — 2 mentions
 - [[Jared (Jaredite)]] — 2 mentions
 - [[Oliver Cowdery]] — 2 mentions
-- [[Samuel (prophet)]] — 2 mentions
+- [[Samuel H. Smith]] — 2 mentions
 - [[Sidney Rigdon]] — 1 mention
 <!-- SG:END people -->
 
@@ -80,6 +80,7 @@ The chapter presents [[Priesthood]] governance as ordered by both authority and 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 15–21: “After Much Tribulation … Cometh the Blessing”: Doctrine and Covenants 102–105** (lesson) *(explicit citation)*
 - **19 Stewards over This Ministry** (history) *(explicit citation)*
 - **Restoring the Ancient Order** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*

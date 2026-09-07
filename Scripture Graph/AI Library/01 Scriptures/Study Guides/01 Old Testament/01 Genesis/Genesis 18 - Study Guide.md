@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 18
 slug: gen-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ Genesis 18:19 also makes family instruction part of covenant life. Abraham is to
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*

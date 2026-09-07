@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 8
 slug: ps-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,12 +63,16 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Love All; Love Each (Elder Gérald Caussé, April 2026)|Love All; Love Each]] — Elder Gérald Caussé, 2026-April *(explicit citation)*
 - [[Forget Me Not (President Dieter F. Uchtdorf, October 2011)|Forget Me Not]] — President Dieter F. Uchtdorf, 2011-October *(explicit citation)*
+- [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 1: The Origin and Destiny of Mankind** (teachings) *(explicit citation)*
+- **Chapter 2: The Dual Nature of Man** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

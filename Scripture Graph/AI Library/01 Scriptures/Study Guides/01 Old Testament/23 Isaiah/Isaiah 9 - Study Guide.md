@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 9
 slug: isa-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,9 @@ The promised ruler bears government rather than the people's oppressive burden a
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1836-02-01 (Vol. 2 No. 5)** (periodical, 1836-02-01) *(explicit citation)*
@@ -97,8 +100,6 @@ The promised ruler bears government rather than the people's oppressive burden a
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
 - **Fig tree** (reference-entry) *(explicit citation)*
-- **Galilee** (reference-entry) *(explicit citation)*
-- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

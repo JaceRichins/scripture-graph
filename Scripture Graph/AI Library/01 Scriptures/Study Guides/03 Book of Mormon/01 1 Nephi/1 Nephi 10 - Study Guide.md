@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 10
 slug: 1ne-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ Key doctrinal threads include the universal need for a Redeemer given humanity's
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Your Next Step (Elder Randall K. Bennett, October 2015)|Your Next Step]] — Elder Randall K. Bennett, 2015-October *(explicit citation)*
 - [[Always Retain a Remission of Your Sins (Elder David A. Bednar, April 2016)|Always Retain a Remission of Your Sins]] — Elder David A. Bednar, 2016-April *(explicit citation)*
@@ -89,21 +90,20 @@ Key doctrinal threads include the universal need for a Redeemer given humanity's
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 - [[In the Path of Their Duty (Elder David A. Bednar, October 2023)|In the Path of Their Duty]] — Elder David A. Bednar, 2023-October *(explicit citation)*
-- [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
 - **Justice and Mercy** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Sin** (reference-entry) *(explicit citation)*
+- **Chapter 2: The Everlasting Gospel** (teachings) *(explicit citation)*
 - **Preface** (history) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
-- **First Vision** (reference-entry) *(explicit citation)*
-- **Repentance** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

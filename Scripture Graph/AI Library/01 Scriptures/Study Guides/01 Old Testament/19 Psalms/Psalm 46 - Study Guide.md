@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 46
 slug: ps-46
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -74,8 +74,14 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Prayer** (reference-entry) *(explicit citation)*
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Chapter 31: ‘God Shall Be with You Forever and Ever’: The Prophet in Liberty Jail** (teachings) *(explicit citation)*
+- **June 29–July 5. “If the Lord Be God, Follow Him”: 1 Kings 12–13; 17–22** (lesson) *(explicit citation)*
+- **Chapter 2: The Everlasting Gospel** (teachings) *(explicit citation)*
+- **Chapter 15: Agency and Accountability** (teachings) *(explicit citation)*
+- **Chapter 7: Faithfulness in Times of Trial: ‘From the Shadows into the Glorious Sunshine’** (teachings) *(explicit citation)*
+- **Chapter 6: To Hear the Voice of the Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

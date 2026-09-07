@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 2
 slug: ezra-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

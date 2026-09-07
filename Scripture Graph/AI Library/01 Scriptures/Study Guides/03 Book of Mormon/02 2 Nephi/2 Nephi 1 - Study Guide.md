@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 1
 slug: 2ne-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ Lehi's treatment of [[Freedom and Liberty]] also reaches beyond government. Iniq
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[To Act for Ourselves The Gift and Blessings of Agency (Elder Robert D. Hales, April 2006)|To Act for Ourselves: The Gift and Blessings of Agency]] — Elder Robert D. Hales, 2006-April *(explicit citation)*
 - [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
 - [[All Must Take upon Them the Name Given of the Father (Elder Paul B. Pieper, October 2018)|All Must Take upon Them the Name Given of the Father]] — Elder Paul B. Pieper, 2018-October *(explicit citation)*
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
@@ -97,11 +98,11 @@ Lehi's treatment of [[Freedom and Liberty]] also reaches beyond government. Iniq
 - [[Just Keep Going—with Faith (Elder Carl B. Cook, April 2023)|Just Keep Going—with Faith]] — Elder Carl B. Cook, 2023-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Words Matter (Elder Ronald A. Rasband, April 2024)|Words Matter]] — Elder Ronald A. Rasband, 2024-April *(explicit citation)*
-- [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
 - **Chapter 28: Exercising Self-Control** (teachings) *(explicit citation)*
 <!-- SG:END history -->

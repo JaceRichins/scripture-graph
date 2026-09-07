@@ -41,7 +41,7 @@ cssclasses:
 > [[Luke 3#^luke-3-8|≈ Luke 3:8]]
 
 ![[Matthew 3#^matt-3-10]]
-> [[Alma 5#^alma-5-36|Alma 5:36 (36–41)]] · [[3 Nephi 14#^3ne-14-19|3 Ne. 14:19]] · [[D&C 52#^dc-52-18|D&amp;C 52:18]] · [[D&C 97#^dc-97-7|97:7]] · [[Luke 13#^luke-13-7|Luke 13:7]] · [[Jacob 5#^jacob-5-42|Jacob 5:42 (42–66)]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]] · [[Jacob 5#^jacob-5-66|≈ Jacob 5:66]]
+> [[Alma 5#^alma-5-36|Alma 5:36 (36–41)]] · [[3 Nephi 14#^3ne-14-19|3 Ne. 14:19]] · [[D&C 52#^dc-52-18|D&amp;C 52:18]] · [[D&C 97#^dc-97-7|97:7]] · [[Luke 13#^luke-13-7|Luke 13:7]] · [[Jacob 5#^jacob-5-42|Jacob 5:42 (42–66)]] · [[Matthew 7#^matt-7-19|≈ Matthew 7:19]] · [[Luke 3#^luke-3-9|≈ Luke 3:9]] · [[Jacob 5#^jacob-5-42|≈ Jacob 5:42]] · [[Jacob 5#^jacob-5-46|≈ Jacob 5:46]]
 
 ![[Matthew 3#^matt-3-11]]
 > [[Acts 19#^acts-19-1|Acts 19:3 (1–7)]] · [[2 Nephi 31#^2ne-31-5|2 Ne. 31:5 (5–10)]] · [[D&C 19#^dc-19-31|D&amp;C 19:31]] · [[Mark 1#^mark-1-8|≈ Mark 1:8]] · [[Mark 1#^mark-1-7|≈ Mark 1:7]] · [[Luke 3#^luke-3-16|≈ Luke 3:16]]

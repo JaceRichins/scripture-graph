@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 3
 slug: gen-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,8 @@ Scripture: [[Genesis 3]] · My notes: [[Genesis 3 - My Notes]]
 - [[Genesis 2]] — 0 parallel verses
 - [[Moses 4]] — 0 parallel verses
 - [[Ecclesiastes 12]] — 0 parallel verses
+- [[Revelation 12]] — 0 parallel verses
+- [[Romans 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,6 +91,7 @@ The chapter supplies the biblical narrative foundation for the [[Fall of Adam an
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 19–25. The Fall of Adam and Eve: Genesis 3–4; Moses 4–5** (lesson) *(explicit citation)*
 - **37 We Will Prove Them** (history) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Eve** (reference-entry) *(explicit citation)*
@@ -98,7 +101,6 @@ The chapter supplies the biblical narrative foundation for the [[Fall of Adam an
 - **Welfare** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1846-01-15 (Vol. 6 No. 21)** (periodical, 1846-01-15) *(explicit citation)*
-- **Bible, English** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -19,7 +19,7 @@ cssclasses:
 ![[Numbers 3#^num-3-1]]
 
 ![[Numbers 3#^num-3-2]]
-> [[1 Chronicles 23#^1chr-23-24|1 Chr. 23:24 (24–32)]] · [[Genesis 46#^gen-46-8|≈ Genesis 46:8]] · [[Exodus 6#^ex-6-16|≈ Exodus 6:16]] · [[Genesis 25#^gen-25-13|≈ Genesis 25:13]] · [[Genesis 36#^gen-36-40|≈ Genesis 36:40]] · [[Numbers 1#^num-1-5|≈ Numbers 1:5]] · [[Alma 23#^alma-23-13|≈ Alma 23:13]]
+> [[1 Chronicles 23#^1chr-23-24|1 Chr. 23:24 (24–32)]] · [[Exodus 6#^ex-6-16|≈ Exodus 6:16]] · [[Genesis 25#^gen-25-13|≈ Genesis 25:13]] · [[Genesis 36#^gen-36-40|≈ Genesis 36:40]] · [[Genesis 46#^gen-46-8|≈ Genesis 46:8]] · [[Numbers 1#^num-1-5|≈ Numbers 1:5]] · [[Alma 23#^alma-23-13|≈ Alma 23:13]]
 
 ![[Numbers 3#^num-3-3]]
 > [[Exodus 6#^ex-6-16|≈ Exodus 6:16]] · [[Genesis 25#^gen-25-13|≈ Genesis 25:13]] · [[Exodus 35#^ex-35-19|≈ Exodus 35:19]] · [[2 Chronicles 31#^2chr-31-19|≈ 2 Chronicles 31:19]]
@@ -64,7 +64,7 @@ cssclasses:
 > [[Exodus 6#^ex-6-16|Ex. 6:16 (16, 18)]] · [[Numbers 4#^num-4-4|Num. 4:4 (4–15)]]
 
 ![[Numbers 3#^num-3-18]]
-> [[Genesis 46#^gen-46-8|≈ Genesis 46:8]] · [[Exodus 6#^ex-6-16|≈ Exodus 6:16]] · [[Genesis 25#^gen-25-13|≈ Genesis 25:13]] · [[Genesis 36#^gen-36-40|≈ Genesis 36:40]] · [[Numbers 1#^num-1-5|≈ Numbers 1:5]] · [[Alma 23#^alma-23-13|≈ Alma 23:13]]
+> [[Exodus 6#^ex-6-16|≈ Exodus 6:16]] · [[Genesis 25#^gen-25-13|≈ Genesis 25:13]] · [[Genesis 36#^gen-36-40|≈ Genesis 36:40]] · [[Genesis 46#^gen-46-8|≈ Genesis 46:8]] · [[Numbers 1#^num-1-5|≈ Numbers 1:5]] · [[Alma 23#^alma-23-13|≈ Alma 23:13]]
 
 ![[Numbers 3#^num-3-19]]
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 6
 slug: 1cor-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -98,6 +98,7 @@ Paul presents the body as belonging within God’s enduring purposes: it is “f
 - **Modesty** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1842-02-15 (Vol. 3 No. 8)** (periodical, 1842-02-15) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **August 18–24: “A Principle with Promise”: Doctrine and Covenants 89–92** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

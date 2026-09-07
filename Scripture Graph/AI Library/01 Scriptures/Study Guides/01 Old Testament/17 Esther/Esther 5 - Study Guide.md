@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 5
 slug: esth-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **August 3–9. “Thou Art Come … for Such a Time as This”: Esther** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

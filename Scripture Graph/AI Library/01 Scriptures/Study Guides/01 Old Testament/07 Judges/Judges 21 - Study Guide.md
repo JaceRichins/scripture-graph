@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 21
 slug: judg-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

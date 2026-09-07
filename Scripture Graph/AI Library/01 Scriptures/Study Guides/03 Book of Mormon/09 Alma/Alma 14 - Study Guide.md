@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 14
 slug: alma-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,11 +84,13 @@ The narrative also qualifies simplistic readings of [[Faith]]. The believers who
 - [[Foundations of Faith (Elder Quentin L. Cook, April 2017)|Foundations of Faith]] — Elder Quentin L. Cook, 2017-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Conference Report, October 1923 (General Conference (full report), October 1923)|Conference Report, October 1923]] — General Conference (full report), 1923-October *(explicit citation)*
+- [[Sacrifice Is a Joy and a Blessing (Elder Won Yong Ko, October 2005)|Sacrifice Is a Joy and a Blessing]] — Elder Won Yong Ko, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

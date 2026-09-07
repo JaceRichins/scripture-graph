@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 5
 slug: hel-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -118,10 +118,10 @@ The repeated command to remember also joins [[Family]], [[Records and Sacred Wri
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
-- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

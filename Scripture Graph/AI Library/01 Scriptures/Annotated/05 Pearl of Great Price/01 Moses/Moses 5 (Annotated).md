@@ -134,7 +134,7 @@ cssclasses:
 > [[Moses 6#^moses-6-49|Moses 6:49]] · [[Genesis 4#^gen-4-16|≈ Genesis 4:16]]
 
 ![[Moses 5#^moses-5-42]]
-> [[Genesis 26#^gen-26-20|≈ Genesis 26:20]] · [[Genesis 4#^gen-4-17|≈ Genesis 4:17]] · [[Genesis 4#^gen-4-1|≈ Genesis 4:1]]
+> [[Genesis 4#^gen-4-17|≈ Genesis 4:17]] · [[Genesis 4#^gen-4-1|≈ Genesis 4:1]] · [[Genesis 26#^gen-26-20|≈ Genesis 26:20]]
 
 ![[Moses 5#^moses-5-43]]
 > [[Genesis 4#^gen-4-18|≈ Genesis 4:18]]

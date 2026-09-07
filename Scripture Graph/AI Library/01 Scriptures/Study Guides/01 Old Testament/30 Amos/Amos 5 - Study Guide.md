@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 5
 slug: amos-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,7 +92,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

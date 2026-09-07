@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 17
 slug: john-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,11 +101,11 @@ Sanctification is joined to [[Truth]], the Father's word, Jesus' self-consecrati
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Unity** (reference-entry) *(explicit citation)*
 - **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
+- **Chapter 40: The Father and the Son** (teachings) *(explicit citation)*
 - **Chapter 48: A Call for Unity, a Testimony, and a Blessing** (teachings) *(explicit citation)*
+- **Chapter 5: The Blessings of Unity** (teachings) *(explicit citation)*
+- **Chapter 5: Walking in the Light of Testimony** (teachings) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
-- **God the Father** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
-- **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 27
 slug: mosiah-27
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ Scripture: [[Mosiah 27]] · My notes: [[Mosiah 27 - My Notes]]
 - [[Daniel 10]] — 2 footnote cross-references (from [[Mosiah 27#^mosiah-27-14|Mosiah 27:14]])
 - [[Alma 17]] — 3 parallel verses, e.g. [[Mosiah 27#^mosiah-27-36|Mosiah 27:36]] ↔ [[Alma 17#^alma-17-4|Alma 17:4]]
 - [[Alma 18]] — 3 parallel verses, e.g. [[Mosiah 27#^mosiah-27-23|Mosiah 27:23]] ↔ [[Alma 18#^alma-18-43|Alma 18:43]]
+- [[Mosiah 18]] — 3 parallel verses, e.g. [[Mosiah 27#^mosiah-27-5|Mosiah 27:5]] ↔ [[Mosiah 18#^mosiah-18-24|Mosiah 18:24]]
 - [[Alma 19]] — 2 parallel verses, e.g. [[Mosiah 27#^mosiah-27-23|Mosiah 27:23]] ↔ [[Alma 19#^alma-19-5|Alma 19:5]]
 - [[Alma 36]] — 1 parallel verse, e.g. [[Mosiah 27#^mosiah-27-10|Mosiah 27:10]] ↔ [[Alma 36#^alma-36-6|Alma 36:6]]
 - [[Helaman 5]] — 2 parallel verses, e.g. [[Mosiah 27#^mosiah-27-32|Mosiah 27:32]] ↔ [[Helaman 5#^hel-5-50|Helaman 5:50]]
@@ -65,13 +66,13 @@ Scripture: [[Mosiah 27]] · My notes: [[Mosiah 27 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Conversion]]
 - [[Work and Self-Reliance]]
-- [[Government and Laws]]
+- [[Conversion]]
 - [[Repentance and Forgiveness]]
 - [[Pride]]
 - [[Final Judgment]]
 - [[Angels]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -109,6 +110,7 @@ Repentance has outward consequences. Alma and his companions confess, teach what
 - **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
+- **June 2–8: “Anxiously Engaged in a Good Cause”: Doctrine and Covenants 58–59** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

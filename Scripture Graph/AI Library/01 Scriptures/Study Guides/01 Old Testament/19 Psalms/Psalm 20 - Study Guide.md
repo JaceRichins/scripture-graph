@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 20
 slug: ps-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

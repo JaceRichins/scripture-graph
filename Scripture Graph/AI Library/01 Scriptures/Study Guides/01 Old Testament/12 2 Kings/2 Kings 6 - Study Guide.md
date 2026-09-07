@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 6
 slug: 2kgs-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -74,10 +74,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
+- **Chapter 21: Faithfully Enduring Trials and Opposition** (teachings) *(explicit citation)*
 - **Benhadad** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
 - **Chapter 38: The Spirit World** (teachings) *(explicit citation)*
+- **Chapter 18: Courage to Live Righteously** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

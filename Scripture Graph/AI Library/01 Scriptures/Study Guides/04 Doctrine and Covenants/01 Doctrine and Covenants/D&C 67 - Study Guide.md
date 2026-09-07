@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 67
 slug: dc-67
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -77,9 +77,11 @@ Two threads run through the chapter. First, the elders' doubt centered on Joseph
 <!-- SG:BEGIN history -->
 - **13 The Gift Has Returned** (history) *(explicit citation)*
 - **William McLellin’s Five Questions** (history) *(explicit citation)*
+- **June 23–29: “Worth … the Riches of the Whole Earth”: Doctrine and Covenants 67–70** (lesson) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Humility** (reference-entry) *(explicit citation)*
+- **Chapter 6: Becoming Perfect before the Lord: ‘A Little Better Day by Day’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

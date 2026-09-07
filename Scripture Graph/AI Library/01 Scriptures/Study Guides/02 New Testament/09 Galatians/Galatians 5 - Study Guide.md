@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 5
 slug: gal-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,10 @@ _Not yet developed._
 - [[1 Corinthians 5]] — 0 parallel verses
 - [[Galatians 2]] — 0 parallel verses
 - [[Galatians 6]] — 0 parallel verses
+- [[Mosiah 23]] — 0 parallel verses
+- [[Romans 13]] — 0 parallel verses
+- [[Romans 8]] — 0 parallel verses
+- [[1 Corinthians 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -100,6 +104,9 @@ The chapter also relates divine action and human response without making them id
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Service** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
+- **Chapter 4: Strengthened by the Power of the Holy Ghost** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

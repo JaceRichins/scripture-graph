@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 26
 slug: acts-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,7 +93,7 @@ Acts 26:18 also gives a compact account of deliverance: darkness gives way to li
 - [[See Others as They May Become (President Thomas S. Monson, October 2012)|See Others as They May Become]] — President Thomas S. Monson, 2012-October *(explicit citation)*
 - [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
 - [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
-- [[Conference Report, April 1929 (General Conference (full report), April 1929)|Conference Report, April 1929]] — General Conference (full report), 1929-April *(explicit citation)*
+- [[The Fruits of the First Vision (Elder Dieter F. Uchtdorf, April 2005)|The Fruits of the First Vision]] — Elder Dieter F. Uchtdorf, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -106,6 +106,8 @@ Acts 26:18 also gives a compact account of deliverance: darkness gives way to li
 - **Damascus** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 8: The Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 10: The Divine Calling of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

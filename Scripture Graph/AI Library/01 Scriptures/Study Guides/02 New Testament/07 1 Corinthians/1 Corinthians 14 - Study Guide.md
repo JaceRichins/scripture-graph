@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 14
 slug: 1cor-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,8 @@ _Not yet developed._
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
 - **Chapter 33: The Spiritual Gifts of Healing, Tongues, Prophecy, and Discerning of Spirits** (teachings) *(explicit citation)*
+- **May 19–25: “That Which Is of God Is Light”: Doctrine and Covenants 49–50** (lesson) *(explicit citation)*
+- **The Ministry of Harold B. Lee** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

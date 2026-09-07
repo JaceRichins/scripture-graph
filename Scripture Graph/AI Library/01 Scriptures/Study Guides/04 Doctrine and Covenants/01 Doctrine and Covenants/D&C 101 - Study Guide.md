@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 101
 slug: dc-101
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -105,6 +105,7 @@ Verses 23-34 associate the [[Second Coming of Jesus Christ]] and [[Millennium]] 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 8–14: “Be Still and Know That I Am God”: Doctrine and Covenants 98–101** (lesson) *(explicit citation)*
 - **Waiting for the Word of the Lord** (history) *(explicit citation)*
 - **18 The Camp of Israel** (history) *(explicit citation)*
 - **19 Stewards over This Ministry** (history) *(explicit citation)*
@@ -114,7 +115,6 @@ Verses 23-34 associate the [[Second Coming of Jesus Christ]] and [[Millennium]] 
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Religion and Science** (reference-entry) *(explicit citation)*
 - **Religious Freedom** (reference-entry) *(explicit citation)*
-- **25 Move On to the West** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

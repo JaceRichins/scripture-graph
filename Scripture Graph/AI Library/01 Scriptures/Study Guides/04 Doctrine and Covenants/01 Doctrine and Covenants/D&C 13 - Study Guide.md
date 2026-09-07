@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 13
 slug: dc-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ The verse ties [[Aaronic Priesthood]] authority to three specific keys: the mini
 ## Church History
 <!-- SG:BEGIN history -->
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75** (lesson) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Oliver Cowdery’s Gift** (history) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
@@ -89,7 +90,6 @@ The verse ties [[Aaronic Priesthood]] authority to three specific keys: the mini
 - **07 Fellow Servants** (history) *(explicit citation)*
 - **Restoration of the Priesthood** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Chastity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

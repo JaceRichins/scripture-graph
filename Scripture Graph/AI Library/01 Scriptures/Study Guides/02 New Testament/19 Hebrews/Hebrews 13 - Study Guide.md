@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 13
 slug: heb-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Leviticus 16]] — 0 parallel verses
 - [[Hebrews 11]] — 0 parallel verses
 - [[Hebrews 12]] — 0 parallel verses
+- [[Leviticus 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -92,6 +93,7 @@ Hebrews 13:11-13 also gives a concentrated account of [[Atonement of Jesus Chris
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
+- **Chapter 18: Chastity and Purity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

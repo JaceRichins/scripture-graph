@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 13
 slug: 1kgs-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,7 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Journey to Higher Ground (Elder Joseph B. Wirthlin, October 2005)|Journey to Higher Ground]] — Elder Joseph B. Wirthlin, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

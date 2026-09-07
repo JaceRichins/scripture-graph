@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezra
 chapter: 7
 slug: ezra-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Ezra** (reference-entry) *(explicit citation)*
+- **July 27–August 2. “I Am Doing a Great Work”: Ezra 1; 3–7; Nehemiah 2; 4–6; 8** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

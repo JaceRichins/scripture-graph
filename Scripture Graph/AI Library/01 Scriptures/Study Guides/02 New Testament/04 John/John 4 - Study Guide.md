@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 4
 slug: john-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,12 +93,15 @@ Scripture: [[John 4]] · My notes: [[John 4 - My Notes]]
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
 - **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
 - **Worship God the Father** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1840-03-01 (Vol. 1 No. 5)** (periodical, 1840-03-01) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
+- **June 8–14. “The Lord Looketh on the Heart”: 1 Samuel 8–10; 13; 15–16** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

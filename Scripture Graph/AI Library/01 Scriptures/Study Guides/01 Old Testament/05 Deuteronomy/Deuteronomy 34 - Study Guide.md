@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 34
 slug: deut-34
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ Deuteronomy 34 concludes Moses' life without narrating Israel's entry into the l
 - [[Numbers 32]] — 1 parallel verse, e.g. [[Deuteronomy 34#^deut-34-4|Deuteronomy 34:4]] ↔ [[Numbers 32#^num-32-11|Numbers 32:11]]
 - [[Numbers 27]] — 0 parallel verses
 - [[Exodus 33]] — 0 parallel verses
+- [[Numbers 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -77,6 +78,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
+- **May 11–17. “Beware Lest Thou Forget the Lord”: Deuteronomy 6–8; 15; 18; 29–30; 34** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

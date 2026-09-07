@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 129
 slug: dc-129
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[D&C 76]] — 1 footnote cross-reference (from [[D&C 129#^dc-129-3|D&C 129:3]])
 - [[2 Corinthians 11]] — 1 footnote cross-reference (from [[D&C 129#^dc-129-8|D&C 129:8]])
 - [[Luke 24]] — 1 parallel verse, e.g. [[D&C 129#^dc-129-2|D&C 129:2]] ↔ [[Luke 24#^luke-24-39|Luke 24:39]]
+- [[Luke 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +66,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 10–16: “I Have Seen Your Sacrifices in Obedience”: Doctrine and Covenants 129–132** (lesson) *(explicit citation)*
 - **‘Our Hearts Rejoiced to Hear Him Speak’** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*

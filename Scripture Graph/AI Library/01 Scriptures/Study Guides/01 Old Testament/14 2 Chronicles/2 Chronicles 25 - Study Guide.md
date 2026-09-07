@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 25
 slug: 2chr-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -41,6 +41,7 @@ Scripture: [[2 Chronicles 25]] · My notes: [[2 Chronicles 25 - My Notes]]
 <!-- SG:BEGIN places -->
 - [[Jerusalem]] — 5 mentions
 - [[Samaria]] — 2 mentions
+- [[Lachish]] — 2 mentions
 <!-- SG:END places -->
 
 ## Related Scriptures

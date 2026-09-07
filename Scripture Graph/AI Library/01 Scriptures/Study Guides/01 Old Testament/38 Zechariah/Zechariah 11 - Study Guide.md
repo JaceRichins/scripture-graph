@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 11
 slug: zech-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,7 +62,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14** (lesson) *(explicit citation)*
 - **Armageddon** (reference-entry) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

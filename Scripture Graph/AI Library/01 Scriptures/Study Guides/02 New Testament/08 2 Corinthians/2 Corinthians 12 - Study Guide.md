@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 12
 slug: 2cor-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -98,6 +98,7 @@ _Not yet developed._
 - **Paradise** (reference-entry) *(explicit citation)*
 - **Degrees of glory** (reference-entry) *(explicit citation)*
 - **Chapter 18: Beyond the Veil: Life in the Eternities** (teachings) *(explicit citation)*
+- **Chapter 5: The Grand Destiny of the Faithful** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

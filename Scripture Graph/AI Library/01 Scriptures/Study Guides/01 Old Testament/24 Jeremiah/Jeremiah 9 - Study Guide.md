@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 9
 slug: jer-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,7 +86,7 @@ The shifts at verses 23 and 25 are abrupt enough that this outline should not be
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

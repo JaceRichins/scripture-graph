@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 100
 slug: ps-100
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Gratitude** (reference-entry) *(explicit citation)*
+- **Chapter 15: Faithful, Energetic Service in the Kingdom of God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

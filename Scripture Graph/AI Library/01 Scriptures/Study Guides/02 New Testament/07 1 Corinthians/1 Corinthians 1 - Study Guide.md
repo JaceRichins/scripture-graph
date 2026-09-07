@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 1
 slug: 1cor-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -108,6 +108,7 @@ Verses 18-25 place the [[Crucifixion of Jesus Christ]] at the center of the gosp
 - **Chapter 23: ‘How Good and How Pleasant It Is … to Dwell Together in Unity’** (teachings) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 - **Chapter 47: President Brigham Young’s Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 9: Joseph Smith, the Prophet of the Restoration** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

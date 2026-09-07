@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 2
 slug: philip-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Isaiah 45]] — 0 parallel verses
 - [[Romans 14]] — 0 parallel verses
 - [[Isaiah 45]] — 0 parallel verses
+- [[Philippians 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -87,6 +88,14 @@ Verses 6–11 connect the [[Condescension of God]], [[Crucifixion of Jesus Chris
 <!-- SG:BEGIN history -->
 - **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 - **Confession** (reference-entry) *(explicit citation)*
+- **February 2–8. “The Lord Called His People Zion”: Moses 7** (lesson) *(explicit citation)*
+- **Chapter 7: Integrity** (teachings) *(explicit citation)*
+- **Chapter 5: The Grand Destiny of the Faithful** (teachings) *(explicit citation)*
+- **Chapter 6: Becoming Perfect before the Lord: ‘A Little Better Day by Day’** (teachings) *(explicit citation)*
+- **Chapter 2: Our Savior, Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 5: Faith and Repentance** (teachings) *(explicit citation)*
+- **Chapter 8: The Church and Kingdom of God** (teachings) *(explicit citation)*
+- **Chapter 10: Our Search for Truth** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

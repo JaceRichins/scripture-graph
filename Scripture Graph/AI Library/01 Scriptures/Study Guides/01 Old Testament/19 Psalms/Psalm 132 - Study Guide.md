@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 132
 slug: ps-132
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Galatians 3]] — 1 footnote cross-reference (from [[Psalm 132#^ps-132-11|Psalm 132:11]])
 - [[1 Kings 2]] — 1 footnote cross-reference (from [[Psalm 132#^ps-132-12|Psalm 132:12]])
 - [[2 Chronicles 6]] — 2 parallel verses, e.g. [[Psalm 132#^ps-132-10|Psalm 132:10]] ↔ [[2 Chronicles 6#^2chr-6-42|2 Chronicles 6:42]]
+- [[Psalm 89]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 16: Bringing Up Children in Light and Truth** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

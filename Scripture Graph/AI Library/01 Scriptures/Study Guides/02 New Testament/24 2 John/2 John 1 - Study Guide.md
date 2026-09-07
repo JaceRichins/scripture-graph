@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 John
 chapter: 1
 slug: 2jn-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 - **‘Thou Art an Elect Lady’** (history) *(explicit citation)*
 - **Antichrist** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
+- **Voices of the Restoration: The Relief Society** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

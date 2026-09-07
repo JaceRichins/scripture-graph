@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 42
 slug: gen-42
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
 - **Benjamin** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

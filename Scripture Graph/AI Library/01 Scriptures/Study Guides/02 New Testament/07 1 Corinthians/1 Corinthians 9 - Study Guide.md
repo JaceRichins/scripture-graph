@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 9
 slug: 1cor-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -102,6 +102,7 @@ The final warning connects [[Endurance]] with self-discipline. Paul applies the 
 - **Deuteronomy** (reference-entry) *(explicit citation)*
 - **Games** (reference-entry) *(explicit citation)*
 - **Chapter 28: Missionary Service: A Holy Calling, a Glorious Work** (teachings) *(explicit citation)*
+- **Chapter 9: Proclaiming the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

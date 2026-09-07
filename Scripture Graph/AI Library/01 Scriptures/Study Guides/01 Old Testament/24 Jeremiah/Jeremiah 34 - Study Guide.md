@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 34
 slug: jer-34
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -39,6 +39,7 @@ Jeremiah 34 joins two oracles from Jerusalem's final crisis. The first announces
 <!-- SG:BEGIN places -->
 - [[Babylon]] — 6 mentions
 - [[Jerusalem]] — 5 mentions
+- [[Lachish]] — 1 mention
 - [[Egypt]] — 1 mention
 <!-- SG:END places -->
 

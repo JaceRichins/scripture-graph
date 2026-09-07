@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 117
 slug: dc-117
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -36,6 +36,7 @@ Repeated movement commands—settle, journey, arise, go, come up, and not tarry�
 
 ## People
 <!-- SG:BEGIN people -->
+- [[William Marks]] — 2 mentions
 - [[Newel K. Whitney]] — 2 mentions
 - [[Oliver Cowdery]] — 2 mentions
 - [[Adam]] — 1 mention
@@ -81,10 +82,12 @@ Leadership is likewise measured by action. Whitney must be a bishop "not in name
 - [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
 - [[Our Heartfelt All (Elder Dieter F. Uchtdorf, April 2022)|Our Heartfelt All]] — Elder Dieter F. Uchtdorf, 2022-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[Let Us Be Men (Elder D. Todd Christofferson, October 2006)|Let Us Be Men]] — Elder D. Todd Christofferson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 13–19: “His Sacrifice Shall Be More Sacred unto Me Than His Increase”: Doctrine and Covenants 115–120** (lesson) *(explicit citation)*
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
 - **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*

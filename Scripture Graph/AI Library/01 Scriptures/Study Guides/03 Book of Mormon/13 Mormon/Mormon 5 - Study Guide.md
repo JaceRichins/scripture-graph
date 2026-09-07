@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 5
 slug: morm-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ The chapter divides into three movements:
 - [[Enos 1]] — 2 footnote cross-references (from [[Mormon 5#^morm-5-12|Mormon 5:12]])
 - [[Mormon 7]] — 2 footnote cross-references (from [[Mormon 5#^morm-5-12|Mormon 5:12]])
 - [[2 Nephi 25]] — 2 footnote cross-references (from [[Mormon 5#^morm-5-12|Mormon 5:12]])
+- [[Mormon 4]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Mormon 4#^morm-4-1|Mormon 4:1]]
 - [[Mormon 2]] — 2 parallel verses, e.g. [[Mormon 5#^morm-5-6|Mormon 5:6]] ↔ [[Mormon 2#^morm-2-3|Mormon 2:3]]
 - [[Numbers 4]] — 3 parallel verses, e.g. [[Mormon 5#^morm-5-13|Mormon 5:13]] ↔ [[Numbers 4#^num-4-37|Numbers 4:37]]
 - [[Mormon 9]] — 2 parallel verses, e.g. [[Mormon 5#^morm-5-23|Mormon 5:23]] ↔ [[Mormon 9#^morm-9-2|Mormon 9:2]]
@@ -63,18 +64,17 @@ The chapter divides into three movements:
 - [[Micah 5]] — 0 parallel verses
 - [[3 Nephi 20]] — 0 parallel verses
 - [[Ephesians 2]] — 0 parallel verses
-- [[Mormon 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Jews and Gentiles]]
-- [[Scattering of Israel]]
 - [[Mormon 8]]
 - [[Records and Sacred Writings]]
 - [[War and Peace]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Gathering of Israel]] *(keyword match — unconfirmed)*
+- [[Scattering of Israel]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 27
 slug: ps-27
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 27#^ps-27-4|Psalm 27:4]])
 - [[Moses 6]] — 1 footnote cross-reference (from [[Psalm 27#^ps-27-4|Psalm 27:4]])
 - [[Psalm 65]] — 1 footnote cross-reference (from [[Psalm 27#^ps-27-4|Psalm 27:4]])
+- [[Psalm 31]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -68,7 +69,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

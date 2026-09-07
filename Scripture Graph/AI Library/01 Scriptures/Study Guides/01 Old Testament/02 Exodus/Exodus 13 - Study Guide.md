@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 13
 slug: ex-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ The chapter portrays redemption as creating both belonging and responsibility. T
 <!-- SG:BEGIN history -->
 - **Firstborn** (reference-entry) *(explicit citation)*
 - **Frontlets or phylacteries** (reference-entry) *(explicit citation)*
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **Birthright** (reference-entry) *(explicit citation)*
 - **Calendar** (reference-entry) *(explicit citation)*

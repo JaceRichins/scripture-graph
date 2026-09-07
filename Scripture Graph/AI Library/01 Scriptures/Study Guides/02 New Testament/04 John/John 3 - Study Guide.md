@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 3
 slug: john-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,9 +95,9 @@ This chapter is foundational for [[Conversion]], [[Baptism]], [[Faith]], [[Salva
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Temples of The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Chapter 7: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 2: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 21: The First Principles and Ordinances of the Gospel** (teachings) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
-- **Christ, names of** (reference-entry) *(explicit citation)*
-- **Eternal Life** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

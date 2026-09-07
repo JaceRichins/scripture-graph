@@ -104,7 +104,7 @@ cssclasses:
 > [[Moses 2#^moses-2-29|Moses 2:29 (29–30)]] · [[Abraham 4#^abr-4-29|Abr. 4:29 (29–30)]] · [[Moses 2#^moses-2-29|≈ Moses 2:29]] · [[Genesis 7#^gen-7-3|≈ Genesis 7:3]] · [[Genesis 11#^gen-11-8|≈ Genesis 11:8]] · [[Genesis 11#^gen-11-9|≈ Genesis 11:9]] · [[Abraham 4#^abr-4-29|≈ Abraham 4:29]]
 
 ![[Genesis 1#^gen-1-30]]
-> [[Moses 2#^moses-2-30|≈ Moses 2:30]] · [[Moses 2#^moses-2-26|≈ Moses 2:26]] · [[Genesis 9#^gen-9-2|≈ Genesis 9:2]] · [[Genesis 2#^gen-2-20|≈ Genesis 2:20]] · [[Genesis 7#^gen-7-8|≈ Genesis 7:8]] · [[Moses 3#^moses-3-20|≈ Moses 3:20]]
+> [[Moses 2#^moses-2-30|≈ Moses 2:30]] · [[Moses 2#^moses-2-26|≈ Moses 2:26]] · [[Genesis 7#^gen-7-8|≈ Genesis 7:8]] · [[Genesis 9#^gen-9-2|≈ Genesis 9:2]] · [[Genesis 2#^gen-2-20|≈ Genesis 2:20]] · [[Moses 3#^moses-3-20|≈ Moses 3:20]]
 
 ![[Genesis 1#^gen-1-31]]
 > [[1 Timothy 4#^1tim-4-4|1 Tim. 4:4]] · [[Moroni 7#^moro-7-12|Moro. 7:12]] · [[D&C 59#^dc-59-16|D&amp;C 59:17 (16–20)]] · [[Moses 2#^moses-2-31|Moses 2:31]] · [[Exodus 31#^ex-31-17|Ex. 31:17]] · [[Mosiah 13#^mosiah-13-19|Mosiah 13:19]] · [[Abraham 4#^abr-4-31|Abr. 4:31]] · [[Moses 2#^moses-2-31|≈ Moses 2:31]] · [[Moses 2#^moses-2-5|≈ Moses 2:5]] · [[Moses 2#^moses-2-8|≈ Moses 2:8]]

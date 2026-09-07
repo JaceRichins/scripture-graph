@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 10
 slug: acts-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -105,7 +105,7 @@ The Gentiles receive the [[Gift of the Holy Ghost]] before [[Baptism]] (Acts 10:
 - **01 Ask in Faith** (history) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Clean and unclean** (reference-entry) *(explicit citation)*
-- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Chapter 14: The Gift of the Holy Ghost** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

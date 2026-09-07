@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jarom
 chapter: 1
 slug: jarom-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,7 +95,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **September 22–28: “The Order of the Son of God”: Doctrine and Covenants 106–108** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Official Declarations
 chapter: 1
 slug: od-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -29,6 +29,7 @@ _Not yet developed._
 ## People
 <!-- SG:BEGIN people -->
 - [[Jesus Christ]] — 5 mentions
+- [[Lorenzo Snow]] — 1 mention
 - [[Wilford Woodruff]] — 1 mention
 <!-- SG:END people -->
 
@@ -67,7 +68,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **December 8–14: “We Believe”: Articles of Faith and Official Declarations 1 and 2** (lesson) *(explicit citation)*
 - **Plural Marriage** (reference-entry) *(explicit citation)*
+- **The Life and Ministry of Wilford Woodruff** (teachings) *(explicit citation)*
 - **The Manifesto and the End of Plural Marriage** (reference-entry) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
@@ -75,7 +78,6 @@ _Not yet developed._
 - **The Messenger and the Manifesto** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Introduction** (teachings) *(explicit citation)*
-- **Chapter 20: Church Organization and Government** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

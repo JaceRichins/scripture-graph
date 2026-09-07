@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 34
 slug: ezek-34
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,8 +93,10 @@ Verses 23–24 distinguish the LORD, who remains Israel's God, from the appointe
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

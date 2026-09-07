@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 29
 slug: gen-29
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ The chapter is also morally descriptive rather than automatically prescriptive. 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 2–8. “Let God Prevail”: Genesis 24–33** (lesson) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 113
 slug: dc-113
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,7 +71,9 @@ The chapter links latter-day gathering with priesthood authority and kingdom key
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 6–12: “I Will Order All Things for Your Good”: Doctrine and Covenants 111–114** (lesson) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 5
 slug: 2kgs-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,9 +89,12 @@ Naaman's confession and promised sacrifice are substantial signs of [[Conversion
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
+- **Chapter 2: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

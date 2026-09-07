@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 50
 slug: isa-50
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,7 +72,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

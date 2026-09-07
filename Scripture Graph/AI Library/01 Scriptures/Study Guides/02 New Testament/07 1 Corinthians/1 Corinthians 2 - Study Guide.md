@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 2
 slug: 1cor-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Isaiah 40]] — 0 parallel verses
 - [[1 Corinthians 1]] — 0 parallel verses
 - [[3 Nephi 17]] — 0 parallel verses
+- [[Romans 11]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

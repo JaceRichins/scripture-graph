@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 17
 slug: gen-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,8 @@ Sarah's role is explicit: she is renamed, blessed, and designated as the mother 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
+- **February 16–22. “To Be a Greater Follower of Righteousness”: Genesis 12–17; Abraham 1–2** (lesson) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **11 Ye Shall Receive My Law** (history) *(explicit citation)*
@@ -100,8 +102,6 @@ Sarah's role is explicit: she is renamed, blessed, and designated as the mother 
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
-- **Baptism** (reference-entry) *(explicit citation)*
-- **Abel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

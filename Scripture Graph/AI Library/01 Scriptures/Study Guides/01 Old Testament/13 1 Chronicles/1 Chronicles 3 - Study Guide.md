@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 3
 slug: 1chr-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ Scripture: [[1 Chronicles 3]] · My notes: [[1 Chronicles 3 - My Notes]]
 - [[1 Chronicles 14]] — 0 parallel verses
 - [[Matthew 1]] — 0 parallel verses
 - [[2 Samuel 3]] — 0 parallel verses
+- [[Matthew 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

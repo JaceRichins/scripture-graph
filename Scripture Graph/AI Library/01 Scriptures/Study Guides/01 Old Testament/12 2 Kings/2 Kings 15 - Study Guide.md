@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 15
 slug: 2kgs-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ _Not yet developed._
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 - **Captivities of the Israelites** (reference-entry) *(explicit citation)*
 - **Dan** (reference-entry) *(explicit citation)*
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

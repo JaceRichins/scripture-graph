@@ -4,7 +4,7 @@ mutable: ai
 content_type: come-follow-me
 year: 2026
 weeks: 52
-updated_at: '2026-09-06T23:26:21Z'
+updated_at: '2026-09-07T09:10:13Z'
 ---
 
 # Come, Follow Me — 2026

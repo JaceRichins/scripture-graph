@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 27
 slug: 2ne-27
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,9 @@ The chapter contributes several qualified doctrinal ideas. [[Revelation]] belong
 - **Chapter 4: The Book of Mormon: Keystone of Our Religion** (teachings) *(explicit citation)*
 - **Chapter 47: ‘Praise to the Man’: Latter-day Prophets Bear Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 - **Chapter 34: Strengthening the Saints through the Gifts of the Spirit** (teachings) *(explicit citation)*
+- **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
+- **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
+- **Chapter 9: Witnesses of the Book of Mormon** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

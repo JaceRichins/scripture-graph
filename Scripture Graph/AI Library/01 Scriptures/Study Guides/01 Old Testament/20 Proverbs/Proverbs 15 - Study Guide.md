@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 15
 slug: prov-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Proverbs 17]] — 2 footnote cross-references (from [[Proverbs 15#^prov-15-13|Proverbs 15:13]])
 - [[Genesis 26]] — 1 footnote cross-reference (from [[Proverbs 15#^prov-15-1|Proverbs 15:1]])
 - [[D&C 68]] — 1 footnote cross-reference (from [[Proverbs 15#^prov-15-5|Proverbs 15:5]])
+- [[Proverbs 10]] — 1 parallel verse, e.g. [[Proverbs 15#^prov-15-20|Proverbs 15:20]] ↔ [[Proverbs 10#^prov-10-1|Proverbs 10:1]]
 - [[Proverbs 10]] — 0 parallel verses
 - [[Proverbs 16]] — 0 parallel verses
 - [[Proverbs 17]] — 0 parallel verses
@@ -54,8 +55,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Pride]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -74,11 +75,14 @@ Verses 3 and 11 portray the LORD’s knowledge as extending to every place and t
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: Reading Poetry in the Old Testament** (lesson) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 37: Charity, the Pure Love of Christ** (teachings) *(explicit citation)*
 - **Chapter 24: Teaching the Family** (teachings) *(explicit citation)*
 - **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
+- **Chapter 21: The Power of Kindness** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 56
 slug: alma-56
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -99,7 +99,10 @@ The chapter treats fidelity to [[Covenants]] as consequential even during an eme
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 45: The Gospel Brings Peace to the World in Troubled Times** (teachings) *(explicit citation)*
+- **Chapter 16: Marriage and Parenthood: Preparing Our Families for Eternal Life** (teachings) *(explicit citation)*
+- **Chapter 22: Bringing Up Children in Light and Truth** (teachings) *(explicit citation)*
+- **Chapter 16: The Noble Calling of Parents** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

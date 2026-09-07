@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 5
 slug: isa-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
 - **Movies and Television** (reference-entry) *(explicit citation)*
 - **The Seer 1853-01 (Vol. 1 No. 1)** (history, 1853-01) *(explicit citation)*
 - **Chapter 44: The Kingdom of God and the Gathering of Israel** (teachings) *(explicit citation)*

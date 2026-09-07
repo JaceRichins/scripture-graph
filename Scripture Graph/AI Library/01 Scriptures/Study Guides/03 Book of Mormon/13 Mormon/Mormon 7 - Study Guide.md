@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 7
 slug: morm-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -67,13 +67,13 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[War and Peace]]
-- [[Jews and Gentiles]]
-- [[Final Judgment]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[The Godhead]]
 - [[Records and Sacred Writings]]
 - [[Crucifixion of Jesus Christ]]
 - [[Book of Mormon (Gospel Topic)]]
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

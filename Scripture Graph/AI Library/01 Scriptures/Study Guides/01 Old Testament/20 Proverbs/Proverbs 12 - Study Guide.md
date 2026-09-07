@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 12
 slug: prov-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[3 Nephi 14]] — 1 footnote cross-reference (from [[Proverbs 12#^prov-12-7|Proverbs 12:7]])
 - [[Proverbs 26]] — 1 footnote cross-reference (from [[Proverbs 12#^prov-12-9|Proverbs 12:9]])
 - [[Genesis 1]] — 1 footnote cross-reference (from [[Proverbs 12#^prov-12-10|Proverbs 12:10]])
+- [[Proverbs 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -59,7 +60,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Three Towels and a 25-Cent Newspaper (Bishop Richard C. Edgley, October 2006)|Three Towels and a 25-Cent Newspaper]] — Bishop Richard C. Edgley, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

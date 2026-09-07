@@ -102,7 +102,7 @@ cssclasses:
 > [[3 Nephi 15#^3ne-15-24|3 Ne. 15:24]] · [[D&C 27#^dc-27-14|D&amp;C 27:14]] · [[D&C 50#^dc-50-41|50:41 (41–42)]] · [[D&C 84#^dc-84-63|84:63]] · [[John 17#^john-17-2|John 17:2]]
 
 ![[John 6#^john-6-38]]
-> [[John 5#^john-5-30|≈ John 5:30]] · [[John 4#^john-4-34|≈ John 4:34]]
+> [[John 4#^john-4-34|≈ John 4:34]] · [[John 5#^john-5-30|≈ John 5:30]]
 
 ![[John 6#^john-6-39]]
 > [[Luke 2#^luke-2-49|Luke 2:49]] · [[3 Nephi 27#^3ne-27-13|3 Ne. 27:13 (13–16)]] · [[John 17#^john-17-12|John 17:12]] · [[John 18#^john-18-9|18:9]] · [[3 Nephi 15#^3ne-15-1|3 Ne. 15:1]] · [[D&C 5#^dc-5-35|D&amp;C 5:35]]

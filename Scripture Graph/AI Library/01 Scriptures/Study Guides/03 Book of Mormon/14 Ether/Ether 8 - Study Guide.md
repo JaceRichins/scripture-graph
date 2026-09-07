@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 8
 slug: ether-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,9 +72,9 @@ _Not yet developed._
 - [[Satan and Temptation]]
 - [[Records and Sacred Writings]]
 - [[Pride]]
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Honesty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

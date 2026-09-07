@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 71
 slug: ps-71
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,7 +64,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

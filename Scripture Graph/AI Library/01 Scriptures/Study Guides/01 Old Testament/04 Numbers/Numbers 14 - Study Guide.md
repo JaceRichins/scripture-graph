@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 14
 slug: num-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,9 +57,9 @@ Numbers 14 is the crisis produced by the reconnaissance of [[Numbers 13]]. The c
 - [[Deuteronomy 31]] — 5 parallel verses, e.g. [[Numbers 14#^num-14-23|Numbers 14:23]] ↔ [[Deuteronomy 31#^deut-31-20|Deuteronomy 31:20]]
 - [[Numbers 32]] — 4 parallel verses, e.g. [[Numbers 14#^num-14-30|Numbers 14:30]] ↔ [[Numbers 32#^num-32-12|Numbers 32:12]]
 - [[Exodus 34]] — 2 parallel verses, e.g. [[Numbers 14#^num-14-18|Numbers 14:18]] ↔ [[Exodus 34#^ex-34-7|Exodus 34:7]]
-- [[Deuteronomy 1]] — 2 parallel verses, e.g. [[Numbers 14#^num-14-25|Numbers 14:25]] ↔ [[Deuteronomy 1#^deut-1-40|Deuteronomy 1:40]]
 - [[Exodus 16]] — 3 parallel verses, e.g. [[Numbers 14#^num-14-27|Numbers 14:27]] ↔ [[Exodus 16#^ex-16-12|Exodus 16:12]]
 - [[1 Chronicles 15]] — 4 parallel verses, e.g. [[Numbers 14#^num-14-44|Numbers 14:44]] ↔ [[1 Chronicles 15#^1chr-15-25|1 Chronicles 15:25]]
+- [[Deuteronomy 1]] — 2 parallel verses, e.g. [[Numbers 14#^num-14-25|Numbers 14:25]] ↔ [[Deuteronomy 1#^deut-1-40|Deuteronomy 1:40]]
 - [[Numbers 26]] — 2 parallel verses, e.g. [[Numbers 14#^num-14-30|Numbers 14:30]] ↔ [[Numbers 26#^num-26-65|Numbers 26:65]]
 - [[Exodus 20]] — 1 parallel verse, e.g. [[Numbers 14#^num-14-18|Numbers 14:18]] ↔ [[Exodus 20#^ex-20-5|Exodus 20:5]]
 - [[Deuteronomy 5]] — 1 parallel verse, e.g. [[Numbers 14#^num-14-18|Numbers 14:18]] ↔ [[Deuteronomy 5#^deut-5-9|Deuteronomy 5:9]]
@@ -93,6 +93,7 @@ Joshua and Caleb illustrate [[Faith]] as confidence grounded in the Lord's prese
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 - **Caleb** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

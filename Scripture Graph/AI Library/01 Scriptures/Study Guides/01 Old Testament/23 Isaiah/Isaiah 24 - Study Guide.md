@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 24
 slug: isa-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ The chapter binds [[Sin]] to accountability: the world's disorder is not portray
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
@@ -93,7 +94,6 @@ The chapter binds [[Sin]] to accountability: the world's disorder is not portray
 - **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 - **Chapter 17: The Scriptures** (teachings) *(explicit citation)*
-- **Chapter 41: Temple Ordinances** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

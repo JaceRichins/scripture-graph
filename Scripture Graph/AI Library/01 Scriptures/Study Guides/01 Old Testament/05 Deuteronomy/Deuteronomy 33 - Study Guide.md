@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 33
 slug: deut-33
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ Deuteronomy 33 records Moses' final act as Israel's prophet-lawgiver: a poetic b
 - [[Genesis 49]] — 0 parallel verses
 - [[Deuteronomy 32]] — 0 parallel verses
 - [[Genesis 49]] — 0 parallel verses
+- [[Malachi 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,6 +83,7 @@ The chapter models the pattern of an individualized, prophetic blessing pronounc
 - **Dew** (reference-entry) *(explicit citation)*
 - **Ephraim** (reference-entry) *(explicit citation)*
 - **Gad** (reference-entry) *(explicit citation)*
+- **Chapter 17: Priesthood—‘for the Salvation of the Human Family’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 22
 slug: 1chr-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
+- **Chapter 12: Work and Self-Reliance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

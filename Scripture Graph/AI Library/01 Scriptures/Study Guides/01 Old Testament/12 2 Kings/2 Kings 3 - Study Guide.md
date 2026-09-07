@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 3
 slug: 2kgs-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -34,6 +34,7 @@ Water arrives as predicted, and Moab's misreading of it as blood turns relief fo
 ## People
 <!-- SG:BEGIN people -->
 - [[Elisha]] — 3 mentions
+- [[Mesha (king of Moab)]] — 1 mention
 - [[Elijah]] — 1 mention
 <!-- SG:END people -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 18
 slug: lev-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,12 +51,15 @@ Scripture: [[Leviticus 18]] · My notes: [[Leviticus 18 - My Notes]]
 - [[Ezekiel 33]] — 1 footnote cross-reference (from [[Leviticus 18#^lev-18-5|Leviticus 18:5]])
 - [[Luke 10]] — 1 footnote cross-reference (from [[Leviticus 18#^lev-18-5|Leviticus 18:5]])
 - [[3 Nephi 15]] — 1 footnote cross-reference (from [[Leviticus 18#^lev-18-5|Leviticus 18:5]])
+- [[Leviticus 20]] — 7 parallel verses, e.g. [[Leviticus 18#^lev-18-13|Leviticus 18:13]] ↔ [[Leviticus 20#^lev-20-19|Leviticus 20:19]]
+- [[Leviticus 19]] — 3 parallel verses, e.g. [[Leviticus 18#^lev-18-21|Leviticus 18:21]] ↔ [[Leviticus 19#^lev-19-12|Leviticus 19:12]]
 - [[Ezekiel 20]] — 3 parallel verses, e.g. [[Leviticus 18#^lev-18-5|Leviticus 18:5]] ↔ [[Ezekiel 20#^ezek-20-11|Ezekiel 20:11]]
 - [[Leviticus 23]] — 2 parallel verses, e.g. [[Leviticus 18#^lev-18-2|Leviticus 18:2]] ↔ [[Leviticus 23#^lev-23-2|Leviticus 23:2]]
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Leviticus 18#^lev-18-2|Leviticus 18:2]] ↔ [[Numbers 15#^num-15-2|Numbers 15:2]]
-- [[Leviticus 20]] — 0 parallel verses
+- [[Nehemiah 9]] — 1 parallel verse, e.g. [[Leviticus 18#^lev-18-5|Leviticus 18:5]] ↔ [[Nehemiah 9#^neh-9-29|Nehemiah 9:29]]
 - [[1 Corinthians 5]] — 0 parallel verses
 - [[Leviticus 20]] — 0 parallel verses
+- [[1 Corinthians 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

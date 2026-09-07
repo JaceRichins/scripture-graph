@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 8
 slug: moro-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,10 +57,10 @@ _Not yet developed._
 - [[Alma 41]] — 1 parallel verse, e.g. [[Moroni 8#^moro-8-14|Moroni 8:14]] ↔ [[Alma 41#^alma-41-11|Alma 41:11]]
 - [[1 Nephi 10]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
 - [[Moroni 6]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Moroni 6#^moro-6-4|Moroni 6:4]]
+- [[Moroni 7]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
 - [[D&C 20]] — 2 parallel verses, e.g. [[Moroni 8#^moro-8-7|Moroni 8:7]] ↔ [[D&C 20#^dc-20-60|D&C 20:60]]
 - [[Luke 5]] — 1 parallel verse, e.g. [[Moroni 8#^moro-8-8|Moroni 8:8]] ↔ [[Luke 5#^luke-5-32|Luke 5:32]]
 - [[2 Nephi 31]] — 0 parallel verses
-- [[Mosiah 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -106,8 +106,8 @@ Verse 22 extends the reasoning to those "without the law," but the chapter does 
 - **Charity** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
+- **Chapter 13: Baptism** (teachings) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
-- **Grace** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

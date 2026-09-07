@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 29
 slug: ex-29
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ Christian readers may study this material alongside [[Atonement of Jesus Christ]
 <!-- SG:BEGIN history -->
 - **21 The Spirit of God** (history) *(explicit citation)*
 - **Daily service** (reference-entry) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

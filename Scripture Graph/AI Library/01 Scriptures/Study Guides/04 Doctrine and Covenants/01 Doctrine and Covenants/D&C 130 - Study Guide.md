@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 130
 slug: dc-130
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ D&C 130 teaches that the Father and the Son each have 'a body of flesh and bones
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[Sons and Daughters of God (Elder Rubén V. Alliaud, October 2024)|Sons and Daughters of God]] — Elder Rubén V. Alliaud, 2024-October *(explicit citation)*
@@ -96,12 +97,12 @@ D&C 130 teaches that the Father and the Son each have 'a body of flesh and bones
 - [[How Can I Understand (Elder Ulisses Soares, April 2019)|How Can I Understand?]] — Elder Ulisses Soares, 2019-April *(explicit citation)*
 - [[“If Ye Love Me, Keep My Commandments” (Carole M. Stephens, October 2015)|“If Ye Love Me, Keep My Commandments”]] — Carole M. Stephens, 2015-October *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
-- [[Don’t Look Around, Look Up! (Elder Yoon Hwan Choi, April 2017)|Don’t Look Around, Look Up!]] — Elder Yoon Hwan Choi, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **40 United in an Everlasting Covenant** (history) *(explicit citation)*
+- **November 10–16: “I Have Seen Your Sacrifices in Obedience”: Doctrine and Covenants 129–132** (lesson) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 - **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
@@ -110,7 +111,6 @@ D&C 130 teaches that the Father and the Son each have 'a body of flesh and bones
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
-- **God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

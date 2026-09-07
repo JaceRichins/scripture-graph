@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 6
 slug: acts-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
 - [[Ministering with the Power and Authority of God (President Russell M. Nelson, April 2018)|Ministering with the Power and Authority of God]] — President Russell M. Nelson, 2018-April *(explicit citation)*
+- [[Discipleship (President James E. Faust, October 2006)|Discipleship]] — President James E. Faust, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

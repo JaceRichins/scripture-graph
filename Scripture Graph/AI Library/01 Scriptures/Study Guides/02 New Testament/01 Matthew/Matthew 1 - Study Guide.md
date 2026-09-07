@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 1
 slug: matt-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ The movement from Abraham to David, through exile, and finally to Christ makes t
 - [[1 Chronicles 3]] — 0 parallel verses
 - [[Luke 12]] — 0 parallel verses
 - [[Luke 3]] — 0 parallel verses
+- [[Matthew 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -96,9 +97,12 @@ Matthew joins identity and mission. “Jesus” is associated with deliverance f
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Genealogy** (reference-entry) *(explicit citation)*
+- **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

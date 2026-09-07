@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 17
 slug: 1ne-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,11 +94,11 @@ The chapter's teaching on [[Obedience]] includes both grace and effort. God prep
 - [[Humble to Accept and Follow (Elder Joni L. Koch, October 2023)|Humble to Accept and Follow]] — Elder Joni L. Koch, 2023-October *(explicit citation)*
 - [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
 - [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
+- [[To Grow Up unto the Lord (Anne C. Pingree, April 2006)|To Grow Up unto the Lord]] — Anne C. Pingree, 2006-April *(explicit citation)*
 - [[The Joy of Living a Christ-Centered Life (Elder Richard J. Maynes, October 2015)|The Joy of Living a Christ-Centered Life]] — Elder Richard J. Maynes, 2015-October *(explicit citation)*
 - [[“That I Might Draw All Men unto Me” (Elder Dale G. Renlund, April 2016)|“That I Might Draw All Men unto Me”]] — Elder Dale G. Renlund, 2016-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 - [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
-- [[Turn to the Lord (Bishop W. Christopher Waddell, October 2017)|Turn to the Lord]] — Bishop W. Christopher Waddell, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -107,12 +107,12 @@ The chapter's teaching on [[Obedience]] includes both grace and effort. God prep
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **Thoughts to Keep in Mind: Reading the Old Testament** (lesson) *(explicit citation)*
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
+- **Chapter 5: Faith and Repentance** (teachings) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
-- **Revelation** (reference-entry) *(explicit citation)*
-- **Creation** (reference-entry) *(explicit citation)*
-- **Fiery serpents** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

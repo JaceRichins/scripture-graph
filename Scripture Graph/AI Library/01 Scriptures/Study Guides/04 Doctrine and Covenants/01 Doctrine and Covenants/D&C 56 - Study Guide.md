@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 56
 slug: dc-56
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -31,8 +31,9 @@ D&C 56 joins specific administrative directions to a broader moral warning. Vers
 
 ## People
 <!-- SG:BEGIN people -->
-- [[Thomas (apostle)]] — 2 mentions
 - [[Ezra (scribe)]] — 2 mentions
+- [[Thomas B. Marsh]] — 1 mention
+- [[Thomas (apostle)]] — 1 mention
 - [[Joseph Smith Jr]] — 1 mention
 <!-- SG:END people -->
 
@@ -78,8 +79,10 @@ The chapter treats [[Obedience]] as continued responsiveness rather than mere at
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 20: Temporal Salvation for Ourselves and Others** (teachings) *(explicit citation)*
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **May 26–June 1: “A Faithful, a Just, and a Wise Steward”: Doctrine and Covenants 51–57** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

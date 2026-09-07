@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 4
 slug: hel-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,10 +80,12 @@ The narrative does not teach unconditional national protection. It instead prese
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
+- [[Journey to Higher Ground (Elder Joseph B. Wirthlin, October 2005)|Journey to Higher Ground]] — Elder Joseph B. Wirthlin, 2005-October *(explicit citation)*
 - [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
 - [[By Divine Design (Elder Ronald A. Rasband, October 2017)|By Divine Design]] — Elder Ronald A. Rasband, 2017-October *(explicit citation)*
 - [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
 - [[Helping Others Recognize the Whisperings of the Spirit (Vicki F. Matsumori, October 2009)|Helping Others Recognize the Whisperings of the Spirit]] — Vicki F. Matsumori, 2009-October *(explicit citation)*
+- [[Look toward Eternity! (Elaine S. Dalton, October 2006)|Look toward Eternity!]] — Elaine S. Dalton, 2006-October *(explicit citation)*
 - [[Be Thou Clean (Elder D. Martin Goury, October 2024)|Be Thou Clean]] — Elder D. Martin Goury, 2024-October *(explicit citation)*
 - [[To Hold Sacred (Elder Paul B. Pieper, April 2012)|To Hold Sacred]] — Elder Paul B. Pieper, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -92,6 +94,7 @@ The narrative does not teach unconditional national protection. It instead prese
 <!-- SG:BEGIN history -->
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
+- **Chapter 17: A Testimony of the Truth** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

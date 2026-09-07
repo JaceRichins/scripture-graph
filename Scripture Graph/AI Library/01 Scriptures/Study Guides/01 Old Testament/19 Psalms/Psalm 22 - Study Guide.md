@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 22
 slug: ps-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Hebrews 2]] — 1 parallel verse, e.g. [[Psalm 22#^ps-22-22|Psalm 22:22]] ↔ [[Hebrews 2#^heb-2-12|Hebrews 2:12]]
 - [[Matthew 27]] — 1 parallel verse, e.g. [[Psalm 22#^ps-22-1|Psalm 22:1]] ↔ [[Matthew 27#^matt-27-46|Matthew 27:46]]
 - [[Mark 15]] — 1 parallel verse, e.g. [[Psalm 22#^ps-22-1|Psalm 22:1]] ↔ [[Mark 15#^mark-15-34|Mark 15:34]]
+- [[Luke 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,7 +67,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

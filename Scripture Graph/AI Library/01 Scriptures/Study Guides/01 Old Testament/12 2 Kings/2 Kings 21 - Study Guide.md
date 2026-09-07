@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 21
 slug: 2kgs-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -99,7 +99,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **July 13–19. “He Trusted in the Lord God of Israel”: 2 Kings 16–25** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

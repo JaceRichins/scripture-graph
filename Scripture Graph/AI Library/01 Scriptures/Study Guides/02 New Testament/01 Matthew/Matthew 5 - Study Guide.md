@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 5
 slug: matt-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,16 +52,16 @@ _Not yet developed._
 - [[D&C 56]] — 1 footnote cross-reference (from [[Matthew 5#^matt-5-3|Matthew 5:3]])
 - [[3 Nephi 12]] — 43 parallel verses, e.g. [[Matthew 5#^matt-5-22|Matthew 5:22]] ↔ [[3 Nephi 12#^3ne-12-22|3 Nephi 12:22]]
 - [[3 Nephi 16]] — 1 parallel verse, e.g. [[Matthew 5#^matt-5-13|Matthew 5:13]] ↔ [[3 Nephi 16#^3ne-16-15|3 Nephi 16:15]]
+- [[Luke 6]] — 2 parallel verses, e.g. [[Matthew 5#^matt-5-44|Matthew 5:44]] ↔ [[Luke 6#^luke-6-28|Luke 6:28]]
+- [[Matthew 18]] — 2 parallel verses, e.g. [[Matthew 5#^matt-5-29|Matthew 5:29]] ↔ [[Matthew 18#^matt-18-9|Matthew 18:9]]
+- [[Luke 12]] — 1 parallel verse, e.g. [[Matthew 5#^matt-5-25|Matthew 5:25]] ↔ [[Luke 12#^luke-12-58|Luke 12:58]]
 - [[D&C 103]] — 1 parallel verse, e.g. [[Matthew 5#^matt-5-13|Matthew 5:13]] ↔ [[D&C 103#^dc-103-10|D&C 103:10]]
+- [[Luke 14]] — 1 parallel verse, e.g. [[Matthew 5#^matt-5-13|Matthew 5:13]] ↔ [[Luke 14#^luke-14-34|Luke 14:34]]
 - [[3 Nephi 12]] — 0 parallel verses
 - [[Psalm 37]] — 0 parallel verses
 - [[D&C 101]] — 0 parallel verses
 - [[D&C 63]] — 0 parallel verses
 - [[3 Nephi 18]] — 0 parallel verses
-- [[James 5]] — 0 parallel verses
-- [[Luke 14]] — 0 parallel verses
-- [[Matthew 18]] — 0 parallel verses
-- [[Luke 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,8 +69,8 @@ _Not yet developed._
 - [[Beatitudes]]
 - [[Chastity]]
 - [[Humility]]
-- [[Kingdom of God]]
 - [[Law of Moses]]
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Ten Commandments]] *(keyword match — unconfirmed)*
 - [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -102,14 +102,14 @@ The closing appeal to the Father's conduct places love of enemies within the imi
 <!-- SG:BEGIN history -->
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Chapter 1: I Know That My Redeemer Lives** (teachings) *(explicit citation)*
 - **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
 - **Peace and Violence among 19th-Century Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
 - **Chapter 30: Developing Christlike Attitudes toward Others** (teachings) *(explicit citation)*
-- **Clothing** (reference-entry) *(explicit citation)*
-- **Gospel Doctrine** (history, 1919) *(explicit citation)*
-- **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
+- **Chapter 24: ‘Let Your Light So Shine’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 1
 slug: hosea-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,7 +84,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **November 16–22. “I Will Love Them Freely”: Hosea 1–6; 10–14; Joel** (lesson) *(explicit citation)*
+- **The Seer 1853-09 (Vol. 1 No. 9)** (history, 1853-09) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

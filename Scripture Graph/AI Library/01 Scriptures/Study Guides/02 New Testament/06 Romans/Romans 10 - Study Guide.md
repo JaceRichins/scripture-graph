@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 10
 slug: rom-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Romans 9]] — 0 parallel verses
 - [[Isaiah 65]] — 0 parallel verses
 - [[Joel 2]] — 0 parallel verses
+- [[Romans 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

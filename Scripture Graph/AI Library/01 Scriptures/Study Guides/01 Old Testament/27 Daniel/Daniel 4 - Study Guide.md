@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 4
 slug: dan-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 16
 slug: num-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ Moses and Aaron also complicate any picture of authority as mere domination. Bot
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **History of the Church, Volume 1** (history, 1902-1912) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
+- **Chapter 2: Who Am I?** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

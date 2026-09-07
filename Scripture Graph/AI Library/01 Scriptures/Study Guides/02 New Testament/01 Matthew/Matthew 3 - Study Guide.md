@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 3
 slug: matt-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,18 +51,18 @@ Scripture: [[Matthew 3]] · My notes: [[Matthew 3 - My Notes]]
 - [[D&C 65]] — 2 footnote cross-references (from [[Matthew 3#^matt-3-3|Matthew 3:3]])
 - [[Helaman 5]] — 1 footnote cross-reference (from [[Matthew 3#^matt-3-2|Matthew 3:2]])
 - [[D&C 33]] — 1 footnote cross-reference (from [[Matthew 3#^matt-3-2|Matthew 3:2]])
+- [[Luke 3]] — 6 parallel verses, e.g. [[Matthew 3#^matt-3-9|Matthew 3:9]] ↔ [[Luke 3#^luke-3-8|Luke 3:8]]
+- [[Mark 1]] — 4 parallel verses, e.g. [[Matthew 3#^matt-3-3|Matthew 3:3]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
 - [[D&C 65]] — 2 parallel verses, e.g. [[Matthew 3#^matt-3-3|Matthew 3:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
 - [[Alma 5]] — 3 parallel verses, e.g. [[Matthew 3#^matt-3-10|Matthew 3:10]] ↔ [[Alma 5#^alma-5-52|Alma 5:52]]
+- [[Matthew 7]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-10|Matthew 3:10]] ↔ [[Matthew 7#^matt-7-19|Matthew 7:19]]
 - [[Jacob 5]] — 3 parallel verses, e.g. [[Matthew 3#^matt-3-10|Matthew 3:10]] ↔ [[Jacob 5#^jacob-5-42|Jacob 5:42]]
 - [[3 Nephi 14]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-10|Matthew 3:10]] ↔ [[3 Nephi 14#^3ne-14-19|3 Nephi 14:19]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Matthew 3#^matt-3-2|Matthew 3:2]] ↔ [[Alma 9#^alma-9-25|Alma 9:25]]
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-3|Matthew 3:3]] ↔ [[Isaiah 40#^isa-40-3|Isaiah 40:3]]
 - [[D&C 33]] — 2 parallel verses, e.g. [[Matthew 3#^matt-3-2|Matthew 3:2]] ↔ [[D&C 33#^dc-33-10|D&C 33:10]]
+- [[Matthew 17]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-17|Matthew 3:17]] ↔ [[Matthew 17#^matt-17-5|Matthew 17:5]]
 - [[2 Peter 1]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-17|Matthew 3:17]] ↔ [[2 Peter 1#^2pet-1-17|2 Peter 1:17]]
-- [[1 Nephi 10]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-3|Matthew 3:3]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
-- [[Helaman 5]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-2|Matthew 3:2]] ↔ [[Helaman 5#^hel-5-32|Helaman 5:32]]
-- [[D&C 42]] — 1 parallel verse, e.g. [[Matthew 3#^matt-3-2|Matthew 3:2]] ↔ [[D&C 42#^dc-42-7|D&C 42:7]]
-- [[3 Nephi 27]] — 2 parallel verses, e.g. [[Matthew 3#^matt-3-10|Matthew 3:10]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -98,12 +98,12 @@ The chapter connects [[Repentance]] with fruit—that is, with consequences visi
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Baptisms for the Dead** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
+- **February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75** (lesson) *(explicit citation)*
 - **Adoption** (reference-entry) *(explicit citation)*
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
-- **Bible** (reference-entry) *(explicit citation)*
-- **Godhead** (reference-entry) *(explicit citation)*
-- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

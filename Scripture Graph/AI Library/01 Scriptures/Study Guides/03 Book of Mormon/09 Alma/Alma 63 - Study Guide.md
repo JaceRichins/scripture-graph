@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 63
 slug: alma-63
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ Alma 63:12-13 places broad circulation, commanded restriction, sacred preservati
 <!-- SG:BEGIN conference -->
 - [[Truly Good and without Guile (Elder Michael T. Ringwood, April 2015)|Truly Good and without Guile]] — Elder Michael T. Ringwood, 2015-April *(explicit citation)*
 - [[“Come unto Me, O Ye House of Israel” (Elder Larry Echo Hawk, October 2012)|“Come unto Me, O Ye House of Israel”]] — Elder Larry Echo Hawk, 2012-October *(explicit citation)*
+- [[“I Will Remember Your Sins No More” (President Boyd K. Packer, April 2006)|“I Will Remember Your Sins No More”]] — President Boyd K. Packer, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

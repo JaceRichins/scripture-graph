@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 12
 slug: 2sam-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,10 +88,12 @@ David's own explanation of his fasting (vv. 22-23) presents [[Fasting]] and [[Pr
 ## Church History
 <!-- SG:BEGIN history -->
 - **Plural Marriage** (reference-entry) *(explicit citation)*
+- **June 22–28. “Hear Thou in Heaven Their Prayer”: 2 Samuel 11–12; 1 Kings 3; 6–9; 11** (lesson) *(explicit citation)*
 - **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **The Seer 1853-07 (Vol. 1 No. 7)** (history, 1853-07) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

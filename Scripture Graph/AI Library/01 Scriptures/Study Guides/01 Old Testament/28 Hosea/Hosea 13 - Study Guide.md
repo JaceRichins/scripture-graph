@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 13
 slug: hosea-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,8 +88,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
+- **November 16–22. “I Will Love Them Freely”: Hosea 1–6; 10–14; Joel** (lesson) *(explicit citation)*
 - **Calves, golden, worship of** (reference-entry) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

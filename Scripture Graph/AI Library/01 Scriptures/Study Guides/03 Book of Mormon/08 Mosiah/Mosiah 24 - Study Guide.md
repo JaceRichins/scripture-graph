@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 24
 slug: mosiah-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,19 +61,19 @@ Mosiah 24 continues directly from [[Mosiah 23]]: Amulon, a former priest of king
 - [[Mosiah 22]] — 2 parallel verses, e.g. [[Mosiah 24#^mosiah-24-25|Mosiah 24:25]] ↔ [[Mosiah 22#^mosiah-22-13|Mosiah 22:13]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[Mosiah 24#^mosiah-24-7|Mosiah 24:7]] ↔ [[Alma 2#^alma-2-1|Alma 2:1]]
 - [[Alma 20]] — 1 parallel verse, e.g. [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]] ↔ [[Alma 20#^alma-20-28|Alma 20:28]]
+- [[Mosiah 23]] — 1 parallel verse, e.g. [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]] ↔ [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]]
 - [[Alma 21]] — 1 parallel verse, e.g. [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]] ↔ [[Alma 21#^alma-21-21|Alma 21:21]]
 - [[Mosiah 23]] — 0 parallel verses
 - [[Mosiah 22]] — 0 parallel verses
-- [[Mosiah 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Exodus and Deliverance]]
-- [[Government and Laws]]
-- [[Freedom and Liberty]]
 - [[Endurance]]
 - [[Education and Learning]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Adversity]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -105,6 +105,10 @@ Within the narrative, effective [[Prayer]] does not depend upon audible speech: 
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
 - **Chapter 35: The Blessings of Trials, Chastening, and Persecution** (teachings) *(explicit citation)*
+- **August 10–16. “Yet Will I Trust in Him”: Job 1–3; 12–14; 19; 21–24; 38–40; 42** (lesson) *(explicit citation)*
+- **March 17–23: “Seek for the Things of a Better World”: Doctrine and Covenants 23–26** (lesson) *(explicit citation)*
+- **Chapter 21: Faithfully Enduring Trials and Opposition** (teachings) *(explicit citation)*
+- **Chapter 7: Faithfulness in Times of Trial: ‘From the Shadows into the Glorious Sunshine’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 28
 slug: gen-28
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,8 @@ This chapter carries the [[Abrahamic Covenant]] forward to Jacob, the third-gene
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 2–8. “Let God Prevail”: Genesis 24–33** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Covenant** (lesson) *(explicit citation)*
 - **Chapter 23: Understanding the New and Everlasting Covenant of Marriage** (teachings) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*

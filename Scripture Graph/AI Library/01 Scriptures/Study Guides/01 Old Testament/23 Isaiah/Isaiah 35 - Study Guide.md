@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 35
 slug: isa-35
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,10 @@ The chapter holds divine recompense and salvation together rather than as unrela
 - **Carmel** (reference-entry) *(explicit citation)*
 - **Dragon** (reference-entry) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
+- **Chapter 14: Remembering Our Spiritual Heritage** (teachings) *(explicit citation)*
+- **Chapter 2: The Mission of the Prophet Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 4: The Prophet Joseph Smith, God’s Instrument in Restoring the Truth** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

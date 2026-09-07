@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 7
 slug: 1ne-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,7 +88,7 @@ Divine help and human mediation appear in sequence. Nephi prays before his bonds
 - [[Faithful to the End (Sister Andrea Muñoz Spannaus, April 2024)|Faithful to the End]] — Sister Andrea Muñoz Spannaus, 2024-April *(explicit citation)*
 - [[Harden Not Your Heart (Elder Christopher H. Kim, April 2025)|Harden Not Your Heart]] — Elder Christopher H. Kim, 2025-April *(explicit citation)*
 - [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
-- [[Lamentations of Jeremiah Beware of Bondage (Elder Quentin L. Cook, October 2013)|Lamentations of Jeremiah: Beware of Bondage]] — Elder Quentin L. Cook, 2013-October *(explicit citation)*
+- [[A Royal Priesthood (President James E. Faust, April 2006)|A Royal Priesthood]] — President James E. Faust, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -96,6 +96,7 @@ Divine help and human mediation appear in sequence. Nephi prays before his bonds
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
+- **Chapter 23: ‘Of You It Is Required to Forgive’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

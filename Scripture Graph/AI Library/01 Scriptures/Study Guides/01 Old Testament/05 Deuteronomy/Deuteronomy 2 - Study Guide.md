@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 2
 slug: deut-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ Scripture: [[Deuteronomy 2]] · My notes: [[Deuteronomy 2 - My Notes]]
 - [[2 Samuel 2]] — 2 parallel verses, e.g. [[Deuteronomy 2#^deut-2-8|Deuteronomy 2:8]] ↔ [[2 Samuel 2#^2sam-2-24|2 Samuel 2:24]]
 - [[Deuteronomy 3]] — 0 parallel verses
 - [[Judges 11]] — 0 parallel verses
+- [[Numbers 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

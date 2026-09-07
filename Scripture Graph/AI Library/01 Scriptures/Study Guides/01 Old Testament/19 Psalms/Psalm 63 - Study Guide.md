@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 63
 slug: ps-63
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86** (lesson) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

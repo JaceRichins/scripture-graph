@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 65
 slug: isa-65
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,7 +84,9 @@ The new creation is embodied and communal as well as cosmic. People inhabit what
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

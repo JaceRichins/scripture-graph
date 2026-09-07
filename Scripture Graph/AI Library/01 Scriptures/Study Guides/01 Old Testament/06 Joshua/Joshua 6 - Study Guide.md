@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 6
 slug: josh-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
+- **Chapter 2: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

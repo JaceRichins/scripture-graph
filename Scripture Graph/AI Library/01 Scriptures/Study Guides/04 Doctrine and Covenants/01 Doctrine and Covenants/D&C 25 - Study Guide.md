@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 25
 slug: dc-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ The chapter joins grace and covenant responsibility without reducing either one 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 17–23: “Seek for the Things of a Better World”: Doctrine and Covenants 23–26** (lesson) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **‘Thou Art an Elect Lady’** (history) *(explicit citation)*
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
@@ -97,7 +98,6 @@ The chapter joins grace and covenant responsibility without reducing either one 
 - **20 Do Not Cast Me Off** (history) *(explicit citation)*
 - **37 We Will Prove Them** (history) *(explicit citation)*
 - **41 God Must Be the Judge** (history) *(explicit citation)*
-- **Chapter 39: Relief Society: Divine Organization of Women** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

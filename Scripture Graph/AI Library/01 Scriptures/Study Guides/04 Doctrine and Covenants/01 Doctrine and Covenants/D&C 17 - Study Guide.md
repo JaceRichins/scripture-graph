@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 17
 slug: dc-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -68,8 +68,8 @@ The repeated “righteous purposes” clause links verse 4 with the conclusion i
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Witnesses of the Book of Mormon]]
 - [[Liahona (compass)]]
+- [[Witnesses of the Book of Mormon]]
 - [[Records and Sacred Writings]]
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -86,11 +86,13 @@ Verse 8 joins [[Obedience]] and [[Grace]] without making them identical: obedien
 - [[Look to the Book, Look to the Lord (Elder Gary E. Stevenson, October 2016)|Look to the Book, Look to the Lord]] — Elder Gary E. Stevenson, 2016-October *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Watching with All Perseverance (Elder David A. Bednar, April 2010)|Watching with All Perseverance]] — Elder David A. Bednar, 2010-April *(explicit citation)*
+- [[That We May Always Have His Spirit to Be with Us (Elder David A. Bednar, April 2006)|That We May Always Have His Spirit to Be with Us]] — Elder David A. Bednar, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Experience of the Three Witnesses** (history) *(explicit citation)*
+- **February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75** (lesson) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **07 Fellow Servants** (history) *(explicit citation)*
@@ -98,6 +100,7 @@ Verse 8 joins [[Obedience]] and [[Grace]] without making them identical: obedien
 - **Urim and Thummim** (reference-entry) *(explicit citation)*
 - **Breastplate** (reference-entry) *(explicit citation)*
 - **Chapter 10: Prayer and Personal Revelation** (teachings) *(explicit citation)*
+- **Chapter 9: Witnesses of the Book of Mormon** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 16
 slug: 2kgs-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 13–19. “He Trusted in the Lord God of Israel”: 2 Kings 16–25** (lesson) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

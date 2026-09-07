@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 107
 slug: dc-107
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,27 +101,27 @@ Governance is joined to procedure and moral accountability. Decisions involve qu
 - [[The Twelve (President Boyd K. Packer, April 2008)|The Twelve]] — President Boyd K. Packer, 2008-April *(explicit citation)*
 - [[Live Up to Your Privileges (President Emily Belle Freeman, October 2024)|Live Up to Your Privileges]] — President Emily Belle Freeman, 2024-October *(explicit citation)*
 - [[The Book (Elder Allan F. Packer, October 2014)|The Book]] — Elder Allan F. Packer, 2014-October *(explicit citation)*
+- [[A Priesthood Quorum (Elder Henry B. Eyring, October 2006)|A Priesthood Quorum]] — Elder Henry B. Eyring, 2006-October *(explicit citation)*
 - [[Miracles, Angels, and Priesthood Power (Elder Shayne M. Bowen, April 2024)|Miracles, Angels, and Priesthood Power]] — Elder Shayne M. Bowen, 2024-April *(explicit citation)*
 - [[Learning in the Priesthood (President Henry B. Eyring, April 2011)|Learning in the Priesthood]] — President Henry B. Eyring, 2011-April *(explicit citation)*
 - [[The Power of the Aaronic Priesthood (Bishop Keith B. McMullin, October 2011)|The Power of the Aaronic Priesthood]] — Bishop Keith B. McMullin, 2011-October *(explicit citation)*
 - [[Be Your Best Self (President Thomas S. Monson, April 2009)|Be Your Best Self]] — President Thomas S. Monson, 2009-April *(explicit citation)*
 - [[Act in All Diligence (President Henry B. Eyring, April 2010)|Act in All Diligence]] — President Henry B. Eyring, 2010-April *(explicit citation)*
 - [[The Power of the Priesthood (President Boyd K. Packer, April 2010)|The Power of the Priesthood]] — President Boyd K. Packer, 2010-April *(explicit citation)*
-- [[That He May Become Strong Also (President Henry B. Eyring, October 2016)|That He May Become Strong Also]] — President Henry B. Eyring, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Role of Prophets** (reference-entry) *(explicit citation)*
+- **September 22–28: “The Order of the Son of God”: Doctrine and Covenants 106–108** (lesson) *(explicit citation)*
 - **Quorum** (reference-entry) *(explicit citation)*
 - **Chapter 20: Church Organization and Government** (teachings) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Chapter 14: The Responsibilities and Order of the Priesthood** (teachings) *(explicit citation)*
 - **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
-- **Deacon** (reference-entry) *(explicit citation)*
-- **Prophets** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

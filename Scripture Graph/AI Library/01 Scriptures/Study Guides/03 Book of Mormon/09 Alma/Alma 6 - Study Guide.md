@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 6
 slug: alma-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ The chapter functions as a hinge: it completes the Zarahemla narrative from [[Al
 - [[Alma 10]] — 1 parallel verse, e.g. [[Alma 6#^alma-6-8|Alma 6:8]] ↔ [[Alma 10#^alma-10-12|Alma 10:12]]
 - [[Alma 13]] — 1 parallel verse, e.g. [[Alma 6#^alma-6-8|Alma 6:8]] ↔ [[Alma 13#^alma-13-26|Alma 13:26]]
 - [[Alma 5]] — 0 parallel verses
+- [[Mosiah 26]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -88,6 +89,7 @@ The chapter functions as a hinge: it completes the Zarahemla narrative from [[Al
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
+- [[Creating a Gospel-Sharing Home (Elder M. Russell Ballard, April 2006)|Creating a Gospel-Sharing Home]] — Elder M. Russell Ballard, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

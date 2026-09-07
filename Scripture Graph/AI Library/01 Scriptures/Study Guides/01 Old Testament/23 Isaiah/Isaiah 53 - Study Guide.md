@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 53
 slug: isa-53
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,12 +93,16 @@ The text should not be forced into only one later theory of atonement. It includ
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Grief** (reference-entry) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
+- **Using Come, Follow Me—For Home and Church** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

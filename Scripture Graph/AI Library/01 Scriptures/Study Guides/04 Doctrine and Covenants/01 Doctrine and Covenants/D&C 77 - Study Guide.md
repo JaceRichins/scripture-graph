@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 77
 slug: dc-77
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -77,16 +77,20 @@ The chapter portrays salvation on a cosmic scale. The earth is destined for a sa
 <!-- SG:BEGIN conference -->
 - [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
+- [[On Zion’s Hill (President Boyd K. Packer, October 2005)|On Zion’s Hill]] — President Boyd K. Packer, 2005-October *(explicit citation)*
+- [[A Pattern for All (Elder Merrill J. Bateman, October 2005)|A Pattern for All]] — Elder Merrill J. Bateman, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 14–20: “I Will Lead You Along”: Doctrine and Covenants 77–80** (lesson) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 - **Spirit (or Soul)** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Spirit** (reference-entry) *(explicit citation)*
 - **Elias** (reference-entry) *(explicit citation)*
+- **Chapter 2: Who Am I?** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

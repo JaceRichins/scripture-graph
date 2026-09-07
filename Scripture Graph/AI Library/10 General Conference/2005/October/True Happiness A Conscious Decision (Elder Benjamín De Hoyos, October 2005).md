@@ -1,0 +1,109 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elder Benjamín De Hoyos
+year: '2005'
+month: October
+url: https://www.churchofjesuschrist.org/general-conference/2005/10/true-happiness-a-conscious-decision?lang=eng
+doc_id: talk:2005-october-true-happiness-a-conscious-decision
+full_text: true
+---
+
+# True Happiness: A Conscious Decision
+
+**Speaker:** Elder Benjamín De Hoyos · **Conference:** October 2005 · [source](https://www.churchofjesuschrist.org/general-conference/2005/10/true-happiness-a-conscious-decision?lang=eng)
+
+True Happiness: A Conscious Decision
+
+By Elder Benjamín De Hoyos
+
+Of the Seventy
+
+Happiness is a condition of the soul. This joyous state comes as a result of righteous living.
+
+“Life is good, if we live in such a way to make it so.” This was a part of an inspirational message I read many years ago. What the message calls “a good life” comes as a result of the way we do things, of the words we choose to say, and even of the kind of thoughts we choose to have.
+
+No one needs to feel alone on the road of life, for we are all invited to come unto Christ and be perfected in Him. Happiness is the purpose of the gospel and the purpose of the redeeming Atonement for all men.
+
+The account in the book of Helaman expressed it in a concise way: “Thus we may see that the Lord is merciful unto all who will, in the sincerity of their hearts, call upon his holy name.
+
+“Yea, thus we see that the gate of heaven is open unto all, even to those who will believe on the name of Jesus Christ, who is the Son of God.
+
+“Yea, we see that whosoever will may lay hold upon the word of God, which is quick and powerful, which shall … lead the man of Christ in a strait and narrow course …
+
+“And land their souls, yea, their immortal souls, at the right hand of God in the kingdom of heaven.”
+
+My beloved brothers and sisters, we need to recognize that “wanting to” is the determining factor which leads us to lay hold upon the word of God and be happy. Perseverance in making correct decisions is what leads us to happiness.
+
+Happiness comes as a result of our obedience and our courage in always doing the will of God, even in the most difficult circumstances. When the prophet Lehi warned the inhabitants of Jerusalem, they mocked him, and, as with other ancient prophets, they sought to take away his life. I quote the prophet Nephi: “I … will show unto you that the tender mercies of the Lord are over all those whom he hath chosen, because of their faith, to make them mighty even unto the power of deliverance.”
+
+When I was serving as a missionary in northern Mexico, a few days after the baptismal service of the Valdez family we received a telephone call from Brother Valdez asking us to come to his house. He had an important question for us. Now that he knew the will of the Lord regarding the Word of Wisdom, and even though it would be difficult to find a new job, he wondered if he should continue to work for the cigarette company where he had worked for many years. Only a few days later Brother Valdez again asked us to come by and visit him. He had decided to quit his job because he was not willing to go against his convictions. Then with a smile and emotion in his voice, he told us that the very day he quit his old job, another company had called to offer him a much better position.
+
+Yes, we find happiness in the midst of the trial of our faith. The Lord manifests Himself to us through His tender mercies, which we find along the road of happiness. We see with increased clarity His hand in our lives.
+
+Happiness is a condition of the soul. This joyous state comes as a result of righteous living.
+
+Some years ago while I was serving as a mission president, my wife, Evelia, witnessed a touching scene of happiness when she saw a faithful family enter the chapel. This mother and her two small children had walked from their humble home under oppressive heat to church that day. They never imagined they would find Elder Cruz, the dedicated missionary who, the year before, had shared the message of the restored gospel with them. This wonderful surprise was key in their recognizing the great happiness the gospel had brought into their lives. The children ran to embrace him, and while tears of joy ran down the cheeks of Elder Cruz, the mother clasped his hands in hers and profoundly thanked him for all he had done to bless their family. Surely they found that happiness which is prepared and reserved for the Saints.
+
+The Prophet Joseph stated, “Happiness is the object and design of our existence; and will be the end thereof, if we pursue the path that leads to it; and this path is virtue, uprightness, faithfulness, holiness, and keeping all the commandments of God.”
+
+After the struggles of the long journey to the promised land and after 30 years of faithful efforts to keep the commandments of God, the untiring prophet Nephi of the Book of Mormon summarized the history of his people by saying, “And it came to pass that we lived after the manner of happiness.”
+
+Happiness is defined in the Book of Mormon by the prophet-king Benjamin as “the blessed and happy state of those [who] keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual.”
+
+Yes, my beloved brothers and sisters, life is good if we live in such a way to make it so. Believing, desiring, deciding, and choosing correctly are the simple actions that define an increase in happiness and an increase in the inner assurance that transcends this life.
+
+Let us remember that the Lord Himself still calls to us saying, “Come unto me, all ye that labour and are heavy laden, and I will give you rest.” I know that He lives and that He continually calls at our door. He has restored His Church and the fulness of the gospel through the Prophet Joseph Smith and the coming forth of the Book of Mormon. Even today He directs His Church and kingdom through our beloved prophet, President Gordon B. Hinckley.
+
+I leave with you my love and my humble testimony, in the name of the Lord Jesus Christ, amen.
+
+Notes
+
+Helaman 3:27–30; emphasis added.
+
+1 Nephi 1:20; emphasis added.
+
+See Guide to the Scriptures, “Joy,” 137.
+
+See 2 Nephi 9:43.
+
+History of the Church, 5:134–35.
+
+See 2 Nephi 5:10.
+
+2 Nephi 5:27.
+
+Mosiah 2:41.
+
+Matthew 11:28.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28831390", "context": "", "text": "
+Helaman 3:27–30; emphasis added.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/hel/3?lang=eng&id=p27-p30#p27", "text": "Helaman 3:27–30"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28831392", "context": "", "text": "
+1 Nephi 1:20; emphasis added.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/1?lang=eng&id=p20#p20", "text": "1 Nephi 1:20"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28831395", "context": "", "text": "
+See Guide to the Scriptures, “Joy,” 137.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/gs/joy?lang=eng&id=p1#p1", "text": "Joy"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28831396", "context": "", "text": "
+See 2 Nephi 9:43.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/9?lang=eng&id=p43#p43", "text": "2 Nephi 9:43"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "28831397", "context": "", "text": "
+History of the Church, 5:134–35.
+"}, "note6": {"id": "note6", "marker": "6.", "pid": "28831398", "context": "", "text": "
+See 2 Nephi 5:10.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/5?lang=eng&id=p10#p10", "text": "2 Nephi 5:10"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28831398", "context": "", "text": "
+2 Nephi 5:27.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/2-ne/5?lang=eng&id=p27#p27", "text": "2 Nephi 5:27"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "28831399", "context": "", "text": "
+Mosiah 2:41.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/mosiah/2?lang=eng&id=p41#p41", "text": "Mosiah 2:41"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "28831401", "context": "", "text": "
+Matthew 11:28.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/11?lang=eng&id=p28#p28", "text": "Matthew 11:28"}]}}
+
+## Scripture citations in this talk
+
+- [[2 Nephi 5]] (6×)
+- [[Helaman 3]] (3×)
+- [[1 Nephi 1]] (3×)
+- [[2 Nephi 9]] (3×)
+- [[Mosiah 2]] (3×)
+- [[Matthew 11]] (3×)

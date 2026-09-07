@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 1
 slug: mal-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Leviticus 22]] — 0 parallel verses
 - [[Deuteronomy 15]] — 0 parallel verses
 - [[Romans 9]] — 0 parallel verses
+- [[Malachi 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,6 +76,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **December 14–20. “I Have Loved You, Saith the Lord”: Malachi** (lesson) *(explicit citation)*
 - **Dragon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

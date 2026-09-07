@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 5
 slug: moses-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,13 +101,14 @@ The final verses assert continuity of the [[Gospel of Jesus Christ]] from the be
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[The Ministry of Angels (Elder Jeffrey R. Holland, October 2008)|The Ministry of Angels]] — Elder Jeffrey R. Holland, 2008-October *(explicit citation)*
+- [[The Great Plan of Happiness (Elder Earl C. Tingey, April 2006)|The Great Plan of Happiness]] — Elder Earl C. Tingey, 2006-April *(explicit citation)*
 - [[Seeking Answers to Spiritual Questions (Sister Tracy Y. Browning, October 2024)|Seeking Answers to Spiritual Questions]] — Sister Tracy Y. Browning, 2024-October *(explicit citation)*
 - [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
-- [[Where Justice, Love, and Mercy Meet (Elder Jeffrey R. Holland, April 2015)|Where Justice, Love, and Mercy Meet]] — Elder Jeffrey R. Holland, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 19–25. The Fall of Adam and Eve: Genesis 3–4; Moses 4–5** (lesson) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Cain** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
@@ -115,9 +116,8 @@ The final verses assert continuity of the [[Gospel of Jesus Christ]] from the be
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
-- **Commandments** (reference-entry) *(explicit citation)*
-- **Creation** (reference-entry) *(explicit citation)*
-- **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
+- **Chapter 6: The Power of the Atonement for Us Personally** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 17
 slug: mosiah-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,15 +53,17 @@ _Not yet developed._
 - [[Alma 14]] — 2 footnote cross-references (from [[Mosiah 17#^mosiah-17-10|Mosiah 17:10]])
 - [[Mosiah 13]] — 1 parallel verse, e.g. [[Mosiah 17#^mosiah-17-8|Mosiah 17:8]] ↔ [[Mosiah 13#^mosiah-13-34|Mosiah 13:34]]
 - [[Alma 39]] — 1 parallel verse, e.g. [[Mosiah 17#^mosiah-17-10|Mosiah 17:10]] ↔ [[Alma 39#^alma-39-8|Alma 39:8]]
+- [[Mosiah 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Condescension of God]]
 - [[Final Judgment]]
 - [[Endurance]]
 - [[Records and Sacred Writings]]
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Mosiah 29]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -81,6 +83,7 @@ The chapter connects several doctrinal threads. [[Testimony]] is borne at ultima
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
 - [[Having the Vision to Do (Elder O. Vincent Haleck, April 2012)|Having the Vision to Do]] — Elder O. Vincent Haleck, 2012-April *(explicit citation)*
+- [[“I Will Remember Your Sins No More” (President Boyd K. Packer, April 2006)|“I Will Remember Your Sins No More”]] — President Boyd K. Packer, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

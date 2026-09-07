@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 11
 slug: matt-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,18 +50,18 @@ Matthew 11 shifts from Jesus's charge to the Twelve ([[Matthew 10]]) to how his 
 - [[D&C 45]] — 2 footnote cross-references (from [[Matthew 11#^matt-11-10|Matthew 11:10]])
 - [[2 Nephi 9]] — 2 footnote cross-references (from [[Matthew 11#^matt-11-15|Matthew 11:15]])
 - [[Luke 10]] — 2 footnote cross-references (from [[Matthew 11#^matt-11-25|Matthew 11:25]])
+- [[Luke 7]] — 13 parallel verses, e.g. [[Matthew 11#^matt-11-10|Matthew 11:10]] ↔ [[Luke 7#^luke-7-27|Luke 7:27]]
+- [[Luke 10]] — 6 parallel verses, e.g. [[Matthew 11#^matt-11-25|Matthew 11:25]] ↔ [[Luke 10#^luke-10-21|Luke 10:21]]
+- [[Matthew 10]] — 2 parallel verses, e.g. [[Matthew 11#^matt-11-24|Matthew 11:24]] ↔ [[Matthew 10#^matt-10-15|Matthew 10:15]]
 - [[Alma 9]] — 2 parallel verses, e.g. [[Matthew 11#^matt-11-24|Matthew 11:24]] ↔ [[Alma 9#^alma-9-15|Alma 9:15]]
 - [[Mark 6]] — 2 parallel verses, e.g. [[Matthew 11#^matt-11-22|Matthew 11:22]] ↔ [[Mark 6#^mark-6-11|Mark 6:11]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[Matthew 11#^matt-11-10|Matthew 11:10]] ↔ [[Mark 1#^mark-1-2|Mark 1:2]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[Matthew 11#^matt-11-24|Matthew 11:24]] ↔ [[D&C 75#^dc-75-22|D&C 75:22]]
+- [[Matthew 13]] — 2 parallel verses, e.g. [[Matthew 11#^matt-11-15|Matthew 11:15]] ↔ [[Matthew 13#^matt-13-9|Matthew 13:9]]
 - [[Mark 4]] — 1 parallel verse, e.g. [[Matthew 11#^matt-11-15|Matthew 11:15]] ↔ [[Mark 4#^mark-4-9|Mark 4:9]]
 - [[Luke 8]] — 1 parallel verse, e.g. [[Matthew 11#^matt-11-15|Matthew 11:15]] ↔ [[Luke 8#^luke-8-8|Luke 8:8]]
-- [[Matthew 13]] — 0 parallel verses
+- [[Luke 14]] — 1 parallel verse, e.g. [[Matthew 11#^matt-11-15|Matthew 11:15]] ↔ [[Luke 14#^luke-14-35|Luke 14:35]]
 - [[Matthew 10]] — 0 parallel verses
-- [[Mark 6]] — 0 parallel verses
-- [[Mark 1]] — 0 parallel verses
-- [[Alma 9]] — 0 parallel verses
-- [[D&C 75]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -100,15 +100,15 @@ Matthew 11 shifts from Jesus's charge to the Twelve ([[Matthew 10]]) to how his 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Forgiveness** (reference-entry) *(explicit citation)*
+- **Chapter 4: Obedience, a Sacred Duty** (teachings) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 48: Finding Rest in Christ** (teachings) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Diversity and Unity in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Divorce** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
-- **Bethsaida** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

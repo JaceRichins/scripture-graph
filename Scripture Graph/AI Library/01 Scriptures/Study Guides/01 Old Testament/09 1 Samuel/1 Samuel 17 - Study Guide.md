@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 17
 slug: 1sam-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ The chapter also belongs under [[War and Peace]], but its violence should not be
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
 - **Abner** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
 - **Dog** (reference-entry) *(explicit citation)*

@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 3
 slug: mark-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[Matthew 12]] — 1 footnote cross-reference (from [[Mark 3#^mark-3-35|Mark 3:35]])
 - [[Matthew 12]] — 7 parallel verses, e.g. [[Mark 3#^mark-3-27|Mark 3:27]] ↔ [[Matthew 12#^matt-12-29|Matthew 12:29]]
 - [[Luke 6]] — 4 parallel verses, e.g. [[Mark 3#^mark-3-5|Mark 3:5]] ↔ [[Luke 6#^luke-6-10|Luke 6:10]]
+- [[Matthew 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -71,6 +72,7 @@ _Not yet developed._
 - [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
 - [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
 - [[Followers of Christ (Elder Dallin H. Oaks, April 2013)|Followers of Christ]] — Elder Dallin H. Oaks, 2013-April *(explicit citation)*
+- [[He Heals the Heavy Laden (Elder Dallin H. Oaks, October 2006)|He Heals the Heavy Laden]] — Elder Dallin H. Oaks, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -81,6 +83,8 @@ _Not yet developed._
 - **Devil** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

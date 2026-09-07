@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 98
 slug: dc-98
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ The chapter also depicts [[Covenants]] as tested commitments. Receiving truth 'l
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 - [[Face the Future with Faith (Elder Russell M. Nelson, April 2011)|Face the Future with Faith]] — Elder Russell M. Nelson, 2011-April *(explicit citation)*
 - [[“Come, Follow Me” by Practicing Christian Love and Service (Elder Robert D. Hales, October 2016)|“Come, Follow Me” by Practicing Christian Love and Service]] — Elder Robert D. Hales, 2016-October *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
@@ -100,11 +101,11 @@ The chapter also depicts [[Covenants]] as tested commitments. Receiving truth 'l
 - [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
 - [[Defending Our Divinely Inspired Constitution (President Dallin H. Oaks, April 2021)|Defending Our Divinely Inspired Constitution]] — President Dallin H. Oaks, 2021-April *(explicit citation)*
 - [[Facing Our Spiritual Hurricanes by Believing in Christ (Elder Sean Douglas, October 2021)|Facing Our Spiritual Hurricanes by Believing in Christ]] — Elder Sean Douglas, 2021-October *(explicit citation)*
-- [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 8–14: “Be Still and Know That I Am God”: Doctrine and Covenants 98–101** (lesson) *(explicit citation)*
 - **Waiting for the Word of the Lord** (history) *(explicit citation)*
 - **Peace and Violence among 19th-Century Latter-day Saints** (reference-entry) *(explicit citation)*
 - **The Manifesto and the End of Plural Marriage** (reference-entry) *(explicit citation)*
@@ -113,8 +114,7 @@ The chapter also depicts [[Covenants]] as tested commitments. Receiving truth 'l
 - **17 Though the Mob Kill Us** (history) *(explicit citation)*
 - **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Chapter 3: Living the Gospel** (teachings) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
-- **Obedience** (reference-entry) *(explicit citation)*
+- **Chapter 23: ‘Of You It Is Required to Forgive’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

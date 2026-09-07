@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 62
 slug: isa-62
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **23 Every Snare** (history) *(explicit citation)*
+- **October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

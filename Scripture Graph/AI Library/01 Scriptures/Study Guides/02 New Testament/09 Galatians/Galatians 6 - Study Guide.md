@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 6
 slug: gal-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -98,6 +98,8 @@ _Not yet developed._
 - **Agency and Accountability** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
+- **Chapter 15: Agency and Accountability** (teachings) *(explicit citation)*
+- **Chapter 20: Agency: Choosing Life or Death** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

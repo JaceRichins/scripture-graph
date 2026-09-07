@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 16
 slug: jer-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,11 +87,14 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[Conference Report, October 1903 (General Conference (full report), October 1903)|Conference Report, October 1903]] — General Conference (full report), 1903-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 19–25. “Before I Formed Thee in the Belly I Knew Thee”: Jeremiah 1–3; 7; 16–18; 20** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
 <!-- SG:END history -->

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 134
 slug: dc-134
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,9 +82,11 @@ These propositions connect naturally with [[Government and Laws]], [[Freedom and
 <!-- SG:BEGIN history -->
 - **Of Governments and Laws** (history) *(explicit citation)*
 - **Religious Freedom** (reference-entry) *(explicit citation)*
+- **November 17–23: “Prepare Ye for the Coming of the Bridegroom”: Doctrine and Covenants 133–134** (lesson) *(explicit citation)*
 - **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Chapter 36: Earthly Governments and the Kingdom of God** (teachings) *(explicit citation)*
 - **Civil Government and Law** (reference-entry) *(explicit citation)*
+- **Chapter 14: Being Loyal Citizens** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Chapter 29: Living with Others in Peace and Harmony** (teachings) *(explicit citation)*
 - **Chapter 20: Church Organization and Government** (teachings) *(explicit citation)*

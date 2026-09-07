@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 25
 slug: isa-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,8 @@ _Not yet developed._
 - [[John 20]] — 1 footnote cross-reference (from [[Isaiah 25#^isa-25-8|Isaiah 25:8]])
 - [[1 Corinthians 15]] — 1 footnote cross-reference (from [[Isaiah 25#^isa-25-8|Isaiah 25:8]])
 - [[1 Nephi 22]] — 1 footnote cross-reference (from [[Isaiah 25#^isa-25-12|Isaiah 25:12]])
+- [[Mormon 7]] — 0 parallel verses
+- [[Revelation 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,9 +68,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 - **Death, Physical** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

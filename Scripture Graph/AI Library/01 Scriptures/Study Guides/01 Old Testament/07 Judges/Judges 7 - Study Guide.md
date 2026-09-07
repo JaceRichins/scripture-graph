@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 7
 slug: judg-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 25–31. “The Lord Raised Up a Deliverer”: Judges 2–4; 6–8; 13–16** (lesson) *(explicit citation)*
 - **Calendar** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->

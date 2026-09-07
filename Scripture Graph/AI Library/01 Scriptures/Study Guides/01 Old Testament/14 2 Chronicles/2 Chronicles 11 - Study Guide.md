@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 11
 slug: 2chr-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -36,6 +36,7 @@ _Not yet developed._
 ## Places
 <!-- SG:BEGIN places -->
 - [[Jerusalem]] — 4 mentions
+- [[Lachish]] — 1 mention
 - [[Hebron]] — 1 mention
 <!-- SG:END places -->
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Omni
 chapter: 1
 slug: omni-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -74,13 +74,13 @@ Scripture: [[Omni 1]] · My notes: [[Omni 1 - My Notes]]
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Sacrifice]]
-- [[Records and Sacred Writings]]
-- [[Government and Laws]]
-- [[War and Peace]]
-- [[Exodus and Deliverance]]
 - [[Prophecy]]
 - [[Education and Learning]]
 - [[Endurance]]
+- [[Jesus Christ (Gospel Topic)]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -108,11 +108,14 @@ Amaleki's conclusion turns to personal discipleship: come to Christ, partake of 
 <!-- SG:BEGIN history -->
 - **06 The Gift and Power of God** (history) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Chapter 13: Journals: ‘Of Far More Worth than Gold’** (teachings) *(explicit citation)*
+- **Chapter 18: Living by Every Word that Proceeds from the Mouth of God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 60
 slug: alma-60
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,8 @@ Scripture: [[Alma 60]] · My notes: [[Alma 60 - My Notes]]
 - [[What Shall a Man Give in Exchange for His Soul (Elder Robert C. Gay, October 2012)|What Shall a Man Give in Exchange for His Soul?]] — Elder Robert C. Gay, 2012-October *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
 - [[Desire (Elder Dallin H. Oaks, April 2011)|Desire]] — Elder Dallin H. Oaks, 2011-April *(explicit citation)*
+- [[Pornography (Elder Dallin H. Oaks, April 2005)|Pornography]] — Elder Dallin H. Oaks, 2005-April *(explicit citation)*
+- [[And Nothing Shall Offend Them (Elder David A. Bednar, October 2006)|And Nothing Shall Offend Them]] — Elder David A. Bednar, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

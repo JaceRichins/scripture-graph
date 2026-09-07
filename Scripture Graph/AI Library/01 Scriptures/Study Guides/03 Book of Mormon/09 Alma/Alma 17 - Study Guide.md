@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 17
 slug: alma-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ Several tensions deserve attention: spiritual power does not remove [[Adversity]
 - [[Alma 29]] — 1 parallel verse, e.g. [[Alma 17#^alma-17-9|Alma 17:9]] ↔ [[Alma 29#^alma-29-9|Alma 29:9]]
 - [[Alma 21]] — 0 parallel verses
 - [[Alma 29]] — 0 parallel verses
+- [[Mosiah 28]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -104,6 +105,7 @@ The commission in 17:11 joins divine instrumentality with human conduct: the mis
 <!-- SG:BEGIN history -->
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
+- **Chapter 17: Sharing the Gospel** (teachings) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
@@ -111,7 +113,6 @@ The commission in 17:11 joins divine instrumentality with human conduct: the mis
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Teaching the Gospel** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
-- **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

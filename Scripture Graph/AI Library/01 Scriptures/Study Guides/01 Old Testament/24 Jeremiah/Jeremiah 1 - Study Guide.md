@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 1
 slug: jer-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -96,12 +96,16 @@ The closing promise joins [[Endurance]] with divine presence. Jeremiah will face
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 19–25. “Before I Formed Thee in the Belly I Knew Thee”: Jeremiah 1–3; 7; 16–18; 20** (lesson) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **October 26–November 1. “I Will Turn Their Mourning into Joy”: Jeremiah 31–33; 36–39; Lamentations 1; 3** (lesson) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1844-12-15 (Vol. 5 No. 23)** (periodical, 1844-12-15) *(explicit citation)*
+- **January 26–February 1. “Teach These Things Freely unto Your Children”: Genesis 5; Moses 6** (lesson) *(explicit citation)*
+- **August 25–31: “Receive of His Fulness”: Doctrine and Covenants 93** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

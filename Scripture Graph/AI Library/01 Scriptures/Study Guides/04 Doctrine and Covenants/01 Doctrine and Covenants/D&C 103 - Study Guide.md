@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 103
 slug: dc-103
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -38,6 +38,7 @@ The promised redemption of [[Zion]] is concrete: return, restoration to inherita
 - [[Joseph Smith Jr]] — 5 mentions
 - [[Sidney Rigdon]] — 2 mentions
 - [[Parley P. Pratt]] — 2 mentions
+- [[Lyman Wight]] — 2 mentions
 - [[Moses (prophet)]] — 1 mention
 - [[Abraham (patriarch)]] — 1 mention
 - [[Hyrum Smith]] — 1 mention
@@ -93,10 +94,12 @@ Calling the Saints "saviors of men" is best read within the accompanying light-a
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Now Is the Time to Arise and Shine! (Elaine S. Dalton, April 2012)|Now Is the Time to Arise and Shine!]] — Elaine S. Dalton, 2012-April *(explicit citation)*
+- [[Discipleship (President James E. Faust, October 2006)|Discipleship]] — President James E. Faust, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 15–21: “After Much Tribulation … Cometh the Blessing”: Doctrine and Covenants 102–105** (lesson) *(explicit citation)*
 - **The Acceptable Offering of Zion’s Camp** (history) *(explicit citation)*
 - **18 The Camp of Israel** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
@@ -104,6 +107,8 @@ Calling the Saints "saviors of men" is best read within the accompanying light-a
 - **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 - **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
+- **Chapter 14: Remembering Our Spiritual Heritage** (teachings) *(explicit citation)*
+- **Chapter 44: Preparing for the Second Coming of Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

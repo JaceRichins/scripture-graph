@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 10
 slug: mark-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,24 +54,26 @@ The chapter unfolds in four movements connected by Jesus's journey "in the way" 
 - [[D&C 66]] — 1 footnote cross-reference (from [[Mark 10#^mark-10-19|Mark 10:19]])
 - [[Jacob 2]] — 1 footnote cross-reference (from [[Mark 10#^mark-10-24|Mark 10:24]])
 - [[Jacob 5]] — 1 footnote cross-reference (from [[Mark 10#^mark-10-31|Mark 10:31]])
+- [[Luke 18]] — 16 parallel verses, e.g. [[Mark 10#^mark-10-19|Mark 10:19]] ↔ [[Luke 18#^luke-18-20|Luke 18:20]]
+- [[Matthew 20]] — 12 parallel verses, e.g. [[Mark 10#^mark-10-33|Mark 10:33]] ↔ [[Matthew 20#^matt-20-18|Matthew 20:18]]
+- [[Matthew 19]] — 14 parallel verses, e.g. [[Mark 10#^mark-10-25|Mark 10:25]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]
 - [[Alma 18]] — 2 parallel verses, e.g. [[Mark 10#^mark-10-51|Mark 10:51]] ↔ [[Alma 18#^alma-18-14|Alma 18:14]]
 - [[Matthew 9]] — 3 parallel verses, e.g. [[Mark 10#^mark-10-52|Mark 10:52]] ↔ [[Matthew 9#^matt-9-22|Matthew 9:22]]
 - [[Matthew 17]] — 2 parallel verses, e.g. [[Mark 10#^mark-10-34|Mark 10:34]] ↔ [[Matthew 17#^matt-17-23|Matthew 17:23]]
 - [[Ephesians 5]] — 1 parallel verse, e.g. [[Mark 10#^mark-10-7|Mark 10:7]] ↔ [[Ephesians 5#^eph-5-31|Ephesians 5:31]]
 - [[Mark 14]] — 2 parallel verses, e.g. [[Mark 10#^mark-10-3|Mark 10:3]] ↔ [[Mark 14#^mark-14-20|Mark 14:20]]
+- [[Mark 9]] — 2 parallel verses, e.g. [[Mark 10#^mark-10-24|Mark 10:24]] ↔ [[Mark 9#^mark-9-47|Mark 9:47]]
 - [[Luke 17]] — 1 parallel verse, e.g. [[Mark 10#^mark-10-52|Mark 10:52]] ↔ [[Luke 17#^luke-17-19|Luke 17:19]]
-- [[Matthew 19]] — 0 parallel verses
-- [[Matthew 20]] — 0 parallel verses
 - [[Genesis 2]] — 0 parallel verses
-- [[Luke 18]] — 0 parallel verses
+- [[Mark 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Kingdom of God]]
 - [[Crucifixion of Jesus Christ]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 - [[Chastity]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -109,6 +111,9 @@ The chapter unfolds in four movements connected by Jesus's journey "in the way" 
 - **Divorce** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
+- **November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7** (lesson) *(explicit citation)*
+- **Chapter 14: ‘With God All Things Are Possible’** (teachings) *(explicit citation)*
+- **Chapter 18: Church Leadership and Selfless Service** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

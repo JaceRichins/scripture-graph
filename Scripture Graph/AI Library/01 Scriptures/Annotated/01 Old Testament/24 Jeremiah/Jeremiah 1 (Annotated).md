@@ -23,7 +23,7 @@ cssclasses:
 > [[Jeremiah 25#^jer-25-3|Jer. 25:3]] · [[Jeremiah 36#^jer-36-2|36:2]] · [[Jeremiah 25#^jer-25-3|≈ Jeremiah 25:3]] · [[Zephaniah 1#^zeph-1-1|≈ Zephaniah 1:1]]
 
 ![[Jeremiah 1#^jer-1-3]]
-> [[Jeremiah 52#^jer-52-15|Jer. 52:15]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 36#^jer-36-1|≈ Jeremiah 36:1]] · [[Jeremiah 36#^jer-36-9|≈ Jeremiah 36:9]] · [[Jeremiah 22#^jer-22-18|≈ Jeremiah 22:18]] · [[Jeremiah 22#^jer-22-11|≈ Jeremiah 22:11]] · [[Jeremiah 26#^jer-26-1|≈ Jeremiah 26:1]]
+> [[Jeremiah 52#^jer-52-15|Jer. 52:15]] · [[Jeremiah 25#^jer-25-1|≈ Jeremiah 25:1]] · [[Jeremiah 22#^jer-22-18|≈ Jeremiah 22:18]] · [[Jeremiah 22#^jer-22-11|≈ Jeremiah 22:11]] · [[Jeremiah 26#^jer-26-1|≈ Jeremiah 26:1]] · [[Jeremiah 27#^jer-27-1|≈ Jeremiah 27:1]] · [[Jeremiah 35#^jer-35-1|≈ Jeremiah 35:1]]
 
 ![[Jeremiah 1#^jer-1-4]]
 

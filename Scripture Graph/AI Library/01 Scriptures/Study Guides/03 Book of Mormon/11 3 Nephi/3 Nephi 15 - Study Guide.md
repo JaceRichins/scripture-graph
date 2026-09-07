@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 15
 slug: 3ne-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -98,6 +98,7 @@ The second half joins [[Scattering of Israel]] and [[Gathering of Israel]]. Sepa
 - [[His Servants, the Prophets (Elder F. Michael Watson, April 2009)|His Servants, the Prophets]] — Elder F. Michael Watson, 2009-April *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[Salvation and Exaltation (Elder Russell M. Nelson, April 2008)|Salvation and Exaltation]] — Elder Russell M. Nelson, 2008-April *(explicit citation)*
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -107,6 +108,7 @@ The second half joins [[Scattering of Israel]] and [[Gathering of Israel]]. Sepa
 - **Eternal Life** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Chapter 13: Preparing for Eternal Progression** (teachings) *(explicit citation)*
+- **August 11–17: “Establish … a House of God”: Doctrine and Covenants 88** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

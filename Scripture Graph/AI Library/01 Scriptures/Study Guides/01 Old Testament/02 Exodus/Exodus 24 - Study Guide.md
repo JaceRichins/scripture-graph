@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 24
 slug: ex-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,10 +81,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Blood** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
+- **March 23–29. “I Have Remembered My Covenant”: Exodus 1–6** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

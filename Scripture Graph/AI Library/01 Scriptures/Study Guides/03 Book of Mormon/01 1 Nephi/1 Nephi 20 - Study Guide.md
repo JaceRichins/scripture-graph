@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 20
 slug: 1ne-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ Scripture: [[1 Nephi 20]] · My notes: [[1 Nephi 20 - My Notes]]
 - [[Deuteronomy 6]] — 1 footnote cross-reference (from [[1 Nephi 20#^1ne-20-1|1 Nephi 20:1]])
 - [[Isaiah 48]] — 22 parallel verses, e.g. [[1 Nephi 20#^1ne-20-20|1 Nephi 20:20]] ↔ [[Isaiah 48#^isa-48-20|Isaiah 48:20]]
 - [[Exodus 17]] — 0 parallel verses
+- [[Isaiah 48]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -76,6 +77,7 @@ Verses 20–21 connect release from Babylon with [[Exodus and Deliverance]] thro
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[More Than Conquerors through Him That Loved Us (Elder Paul V. Johnson, April 2011)|More Than Conquerors through Him That Loved Us]] — Elder Paul V. Johnson, 2011-April *(explicit citation)*
+- [[Rise Up, O Men of God (President Gordon B. Hinckley, October 2006)|Rise Up, O Men of God]] — President Gordon B. Hinckley, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

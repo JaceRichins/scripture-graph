@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 44
 slug: isa-44
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ The central contrast is between the LORD who forms Israel and makes all things, 
 - [[Jeremiah 10]] — 0 parallel verses
 - [[Isaiah 41]] — 0 parallel verses
 - [[Isaiah 45]] — 0 parallel verses
+- [[Isaiah 46]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -80,7 +81,10 @@ The polemic in verses 9–20 relates directly to [[Ten Commandments]]. Its centr
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 28–October 4. “Comfort Ye My People”: Isaiah 40–49** (lesson) *(explicit citation)*
 - **Cyrus** (reference-entry) *(explicit citation)*
+- **July 27–August 2. “I Am Doing a Great Work”: Ezra 1; 3–7; Nehemiah 2; 4–6; 8** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

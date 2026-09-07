@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 37
 slug: job-37
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

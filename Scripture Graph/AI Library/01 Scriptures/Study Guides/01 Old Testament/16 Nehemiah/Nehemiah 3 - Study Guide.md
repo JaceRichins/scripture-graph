@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 3
 slug: neh-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

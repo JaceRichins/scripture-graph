@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 14
 slug: john-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ _Not yet developed._
 - [[3 Nephi 9]] — 2 parallel verses, e.g. [[John 14#^john-14-10|John 14:10]] ↔ [[3 Nephi 9#^3ne-9-15|3 Nephi 9:15]]
 - [[3 Nephi 11]] — 2 parallel verses, e.g. [[John 14#^john-14-10|John 14:10]] ↔ [[3 Nephi 11#^3ne-11-27|3 Nephi 11:27]]
 - [[D&C 50]] — 2 parallel verses, e.g. [[John 14#^john-14-10|John 14:10]] ↔ [[D&C 50#^dc-50-43|D&C 50:43]]
-- [[John 8]] — 1 parallel verse, e.g. [[John 14#^john-14-7|John 14:7]] ↔ [[John 8#^john-8-19|John 8:19]]
 - [[John 6]] — 2 parallel verses, e.g. [[John 14#^john-14-12|John 14:12]] ↔ [[John 6#^john-6-47|John 6:47]]
+- [[John 8]] — 1 parallel verse, e.g. [[John 14#^john-14-7|John 14:7]] ↔ [[John 8#^john-8-19|John 8:19]]
 - [[John 16]] — 2 parallel verses, e.g. [[John 14#^john-14-25|John 14:25]] ↔ [[John 16#^john-16-1|John 16:1]]
 - [[John 13]] — 0 parallel verses
 - [[John 15]] — 0 parallel verses

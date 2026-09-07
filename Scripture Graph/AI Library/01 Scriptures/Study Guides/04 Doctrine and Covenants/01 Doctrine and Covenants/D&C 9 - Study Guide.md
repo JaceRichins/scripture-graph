@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 9
 slug: dc-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ The chapter also separates discipline from final rejection. A privilege is withd
 <!-- SG:BEGIN history -->
 - **Abraham, Book of** (reference-entry) *(explicit citation)*
 - **Oliver Cowdery’s Gift** (history) *(explicit citation)*
+- **February 3–9: “This Is the Spirit of Revelation”: Doctrine and Covenants 6–9** (lesson) *(explicit citation)*
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **Adoption** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
@@ -95,7 +96,6 @@ The chapter also separates discipline from final rejection. A privilege is withd
 - **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 3
 slug: amos-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 16: Revelation and the Living Prophet** (teachings) *(explicit citation)*
@@ -102,7 +103,6 @@ _Not yet developed._
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
-- **Times and Seasons 1843-06-15 (Vol. 4 No. 15)** (periodical, 1843-06-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

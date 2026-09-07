@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 36
 slug: isa-36
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -29,6 +29,7 @@ _Not yet developed._
 ## People
 <!-- SG:BEGIN people -->
 - [[Hezekiah]] — 9 mentions
+- [[Sennacherib]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -36,6 +37,7 @@ _Not yet developed._
 - [[Assyria]] — 8 mentions
 - [[Jerusalem]] — 3 mentions
 - [[Egypt]] — 3 mentions
+- [[Lachish]] — 1 mention
 - [[Samaria]] — 1 mention
 <!-- SG:END places -->
 

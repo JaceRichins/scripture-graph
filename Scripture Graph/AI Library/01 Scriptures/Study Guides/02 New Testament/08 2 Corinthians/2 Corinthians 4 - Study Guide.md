@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 4
 slug: 2cor-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ Human weakness is not presented as the source of divine power. The “earthen ve
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Brighter and Brighter until the Perfect Day (Elder Mark A. Bragg, April 2017)|Brighter and Brighter until the Perfect Day]] — Elder Mark A. Bragg, 2017-April *(explicit citation)*
+- [[Faith, Service, Constancy (Elder David S. Baxter, October 2006)|Faith, Service, Constancy]] — Elder David S. Baxter, 2006-October *(explicit citation)*
 - [[God Shall Wipe Away All Tears (Elder Evan A. Schmutz, October 2016)|God Shall Wipe Away All Tears]] — Elder Evan A. Schmutz, 2016-October *(explicit citation)*
 - [[Wounded (Elder Neil L. Andersen, October 2018)|Wounded]] — Elder Neil L. Andersen, 2018-October *(explicit citation)*
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
@@ -78,7 +79,6 @@ Human weakness is not presented as the source of divine power. The “earthen ve
 - [[“Be Still, and Know That I Am God” (Elder David A. Bednar, April 2024)|“Be Still, and Know That I Am God”]] — Elder David A. Bednar, 2024-April *(explicit citation)*
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[Spiritual Whirlwinds (Elder Neil L. Andersen, April 2014)|Spiritual Whirlwinds]] — Elder Neil L. Andersen, 2014-April *(explicit citation)*
-- [[“Lord, Is It I” (President Dieter F. Uchtdorf, October 2014)|“Lord, Is It I?”]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -86,6 +86,8 @@ Human weakness is not presented as the source of divine power. The “earthen ve
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Chapter 31: ‘God Shall Be with You Forever and Ever’: The Prophet in Liberty Jail** (teachings) *(explicit citation)*
+- **Chapter 22: Being Perfected through Trials** (teachings) *(explicit citation)*
+- **Chapter 7: Faithfulness in Times of Trial: ‘From the Shadows into the Glorious Sunshine’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

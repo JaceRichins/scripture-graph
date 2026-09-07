@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 2
 slug: ether-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,8 +70,8 @@ _Not yet developed._
 - [[Repentance and Forgiveness]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Crucifixion of Jesus Christ]] *(keyword match — unconfirmed)*
 - [[Work and Self-Reliance]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
@@ -102,6 +102,7 @@ The barge episode also connects [[Revelation]], [[Agency]], and [[Work and Self-
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **June 9–15: “I Am with the Faithful Always”: Doctrine and Covenants 60–63** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

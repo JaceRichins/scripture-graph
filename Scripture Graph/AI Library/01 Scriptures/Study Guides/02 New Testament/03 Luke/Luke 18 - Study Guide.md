@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 18
 slug: luke-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,24 +54,28 @@ Possible links among these units—humble dependence, persistent petition, and t
 - [[Numbers 31]] — 1 footnote cross-reference (from [[Luke 18#^luke-18-7|Luke 18:7]])
 - [[D&C 121]] — 1 footnote cross-reference (from [[Luke 18#^luke-18-7|Luke 18:7]])
 - [[John 5]] — 1 footnote cross-reference (from [[Luke 18#^luke-18-9|Luke 18:9]])
+- [[Mark 10]] — 16 parallel verses, e.g. [[Luke 18#^luke-18-20|Luke 18:20]] ↔ [[Mark 10#^mark-10-19|Mark 10:19]]
 - [[D&C 101]] — 6 parallel verses, e.g. [[Luke 18#^luke-18-4|Luke 18:4]] ↔ [[D&C 101#^dc-101-84|D&C 101:84]]
+- [[Matthew 19]] — 6 parallel verses, e.g. [[Luke 18#^luke-18-25|Luke 18:25]] ↔ [[Matthew 19#^matt-19-24|Matthew 19:24]]
+- [[Matthew 20]] — 3 parallel verses, e.g. [[Luke 18#^luke-18-31|Luke 18:31]] ↔ [[Matthew 20#^matt-20-18|Matthew 20:18]]
+- [[Luke 14]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-14|Luke 18:14]] ↔ [[Luke 14#^luke-14-11|Luke 14:11]]
 - [[Mark 9]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-29|Luke 18:29]] ↔ [[Mark 9#^mark-9-1|Mark 9:1]]
 - [[Matthew 9]] — 2 parallel verses, e.g. [[Luke 18#^luke-18-38|Luke 18:38]] ↔ [[Matthew 9#^matt-9-27|Matthew 9:27]]
-- [[Mark 10]] — 0 parallel verses
+- [[Luke 10]] — 1 parallel verse, e.g. [[Luke 18#^luke-18-18|Luke 18:18]] ↔ [[Luke 10#^luke-10-25|Luke 10:25]]
+- [[2 Nephi 32]] — 0 parallel verses
+- [[Luke 24]] — 0 parallel verses
 - [[Matthew 19]] — 0 parallel verses
 - [[Matthew 20]] — 0 parallel verses
-- [[2 Nephi 32]] — 0 parallel verses
-- [[Luke 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Kingdom of God]]
 - [[Parables of Jesus]]
 - [[Pride]]
 - [[Justification and Sanctification]]
 - [[Crucifixion of Jesus Christ]]
 - [[Prophecy]]
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -107,6 +111,10 @@ Jesus presents his coming suffering, death, and resurrection as the accomplishme
 - **Adultery** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
 - **Chapter 32: Temporal Wealth and the Kingdom of God** (teachings) *(explicit citation)*
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
+- **Chapter 6: The Power of the Atonement for Us Personally** (teachings) *(explicit citation)*
+- **Chapter 10: Humble Reliance on God** (teachings) *(explicit citation)*
+- **Chapter 11: Praying to Receive the Blessings of Heaven** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

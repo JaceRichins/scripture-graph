@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 13
 slug: gen-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,11 +81,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 16–22. “To Be a Greater Follower of Righteousness”: Genesis 12–17; Abraham 1–2** (lesson) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Bethel** (reference-entry) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
+- **Chapter 6: Becoming Perfect before the Lord: ‘A Little Better Day by Day’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

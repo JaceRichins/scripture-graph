@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 11
 slug: deut-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,9 +54,9 @@ _Not yet developed._
 - [[Deuteronomy 4]] — 5 parallel verses, e.g. [[Deuteronomy 11#^deut-11-27|Deuteronomy 11:27]] ↔ [[Deuteronomy 4#^deut-4-2|Deuteronomy 4:2]]
 - [[Joshua 22]] — 2 parallel verses, e.g. [[Deuteronomy 11#^deut-11-13|Deuteronomy 11:13]] ↔ [[Joshua 22#^josh-22-5|Joshua 22:5]]
 - [[Deuteronomy 28]] — 4 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 28#^deut-28-11|Deuteronomy 28:11]]
+- [[Deuteronomy 8]] — 3 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 8#^deut-8-1|Deuteronomy 8:1]]
 - [[Deuteronomy 30]] — 4 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 30#^deut-30-20|Deuteronomy 30:20]]
 - [[Joshua 1]] — 2 parallel verses, e.g. [[Deuteronomy 11#^deut-11-31|Deuteronomy 11:31]] ↔ [[Joshua 1#^josh-1-11|Joshua 1:11]]
-- [[Deuteronomy 8]] — 3 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 8#^deut-8-1|Deuteronomy 8:1]]
 - [[Deuteronomy 27]] — 3 parallel verses, e.g. [[Deuteronomy 11#^deut-11-8|Deuteronomy 11:8]] ↔ [[Deuteronomy 27#^deut-27-1|Deuteronomy 27:1]]
 - [[Deuteronomy 7]] — 3 parallel verses, e.g. [[Deuteronomy 11#^deut-11-29|Deuteronomy 11:29]] ↔ [[Deuteronomy 7#^deut-7-1|Deuteronomy 7:1]]
 - [[Deuteronomy 1]] — 2 parallel verses, e.g. [[Deuteronomy 11#^deut-11-9|Deuteronomy 11:9]] ↔ [[Deuteronomy 1#^deut-1-8|Deuteronomy 1:8]]
@@ -93,6 +93,7 @@ The promises of rain and harvest belong to this address to covenant Israel in it
 - **Family** (reference-entry) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Ebal, Mount** (reference-entry) *(explicit citation)*
+- **May 11–17. “Beware Lest Thou Forget the Lord”: Deuteronomy 6–8; 15; 18; 29–30; 34** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

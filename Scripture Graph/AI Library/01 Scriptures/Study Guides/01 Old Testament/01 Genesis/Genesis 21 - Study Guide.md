@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 21
 slug: gen-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ The last two movements are joined by water and divine-presence language: a well 
 - [[Genesis 22]] — 1 parallel verse, e.g. [[Genesis 21#^gen-21-14|Genesis 21:14]] ↔ [[Genesis 22#^gen-22-3|Genesis 22:3]]
 - [[Genesis 16]] — 0 parallel verses
 - [[Genesis 26]] — 0 parallel verses
+- [[Genesis 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,6 +82,7 @@ Human [[Covenants]] also matter. Abraham and Abimelech address mistrust through 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
 - **Beersheba** (reference-entry) *(explicit citation)*
 - **Genesis** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*

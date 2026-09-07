@@ -86,7 +86,7 @@ cssclasses:
 > [[Psalm 68#^ps-68-9|Ps. 68:9]] · [[Ezekiel 22#^ezek-22-24|Ezek. 22:24]]
 
 ![[Ezekiel 34#^ezek-34-27]]
-> [[Psalm 119#^ps-119-117|Ps. 119:117]] · [[Ezekiel 37#^ezek-37-13|≈ Ezekiel 37:13]] · [[Judges 2#^judg-2-16|≈ Judges 2:16]] · [[Judges 2#^judg-2-18|≈ Judges 2:18]] · [[Ezekiel 20#^ezek-20-44|≈ Ezekiel 20:44]] · [[Ezekiel 30#^ezek-30-8|≈ Ezekiel 30:8]] · [[Ezekiel 33#^ezek-33-29|≈ Ezekiel 33:29]]
+> [[Psalm 119#^ps-119-117|Ps. 119:117]] · [[Judges 2#^judg-2-16|≈ Judges 2:16]] · [[Judges 2#^judg-2-18|≈ Judges 2:18]] · [[Ezekiel 37#^ezek-37-13|≈ Ezekiel 37:13]] · [[Ezekiel 20#^ezek-20-44|≈ Ezekiel 20:44]] · [[Ezekiel 30#^ezek-30-8|≈ Ezekiel 30:8]] · [[Ezekiel 33#^ezek-33-29|≈ Ezekiel 33:29]]
 
 ![[Ezekiel 34#^ezek-34-28]]
 > [[Ezekiel 28#^ezek-28-26|Ezek. 28:26]]

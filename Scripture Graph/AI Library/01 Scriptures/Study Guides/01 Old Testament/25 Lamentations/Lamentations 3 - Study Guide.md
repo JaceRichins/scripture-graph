@@ -6,7 +6,7 @@ volume: Old Testament
 book: Lamentations
 chapter: 3
 slug: lam-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ Verses 40–42 join self-examination, return, prayer, and confession. Yet confes
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 26–November 1. “I Will Turn Their Mourning into Joy”: Jeremiah 31–33; 36–39; Lamentations 1; 3** (lesson) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

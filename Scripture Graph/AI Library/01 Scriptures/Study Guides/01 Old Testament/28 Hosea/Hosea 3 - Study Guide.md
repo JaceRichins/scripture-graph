@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 3
 slug: hosea-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,7 +63,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Seer 1853-09 (Vol. 1 No. 9)** (history, 1853-09) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

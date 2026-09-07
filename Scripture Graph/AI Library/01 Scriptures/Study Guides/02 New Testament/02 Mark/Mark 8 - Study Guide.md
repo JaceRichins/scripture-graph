@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 8
 slug: mark-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,14 +53,18 @@ _Not yet developed._
 - [[D&C 63]] — 1 footnote cross-reference (from [[Mark 8#^mark-8-11|Mark 8:11]])
 - [[Matthew 16]] — 1 footnote cross-reference (from [[Mark 8#^mark-8-12|Mark 8:12]])
 - [[Alma 12]] — 1 footnote cross-reference (from [[Mark 8#^mark-8-33|Mark 8:33]])
+- [[Matthew 16]] — 16 parallel verses, e.g. [[Mark 8#^mark-8-34|Mark 8:34]] ↔ [[Matthew 16#^matt-16-24|Matthew 16:24]]
+- [[Luke 9]] — 6 parallel verses, e.g. [[Mark 8#^mark-8-31|Mark 8:31]] ↔ [[Luke 9#^luke-9-22|Luke 9:22]]
+- [[Matthew 15]] — 5 parallel verses, e.g. [[Mark 8#^mark-8-8|Mark 8:8]] ↔ [[Matthew 15#^matt-15-37|Matthew 15:37]]
 - [[Matthew 14]] — 2 parallel verses, e.g. [[Mark 8#^mark-8-8|Mark 8:8]] ↔ [[Matthew 14#^matt-14-20|Matthew 14:20]]
 - [[Luke 8]] — 2 parallel verses, e.g. [[Mark 8#^mark-8-30|Mark 8:30]] ↔ [[Luke 8#^luke-8-56|Luke 8:56]]
 - [[1 Nephi 15]] — 1 parallel verse, e.g. [[Mark 8#^mark-8-21|Mark 8:21]] ↔ [[1 Nephi 15#^1ne-15-10|1 Nephi 15:10]]
 - [[Mark 7]] — 1 parallel verse, e.g. [[Mark 8#^mark-8-30|Mark 8:30]] ↔ [[Mark 7#^mark-7-36|Mark 7:36]]
+- [[Luke 17]] — 2 parallel verses, e.g. [[Mark 8#^mark-8-35|Mark 8:35]] ↔ [[Luke 17#^luke-17-33|Luke 17:33]]
 - [[Mark 9]] — 1 parallel verse, e.g. [[Mark 8#^mark-8-30|Mark 8:30]] ↔ [[Mark 9#^mark-9-9|Mark 9:9]]
 - [[Luke 2]] — 1 parallel verse, e.g. [[Mark 8#^mark-8-21|Mark 8:21]] ↔ [[Luke 2#^luke-2-49|Luke 2:49]]
+- [[Mark 9]] — 0 parallel verses
 - [[Matthew 15]] — 0 parallel verses
-- [[Luke 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -98,6 +102,10 @@ _Not yet developed._
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Caesarea Philippi** (reference-entry) *(explicit citation)*
 - **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
+- **Chapter 22: Temporal and Spiritual Labor, ‘Hand in Hand Together’** (teachings) *(explicit citation)*
+- **Chapter 34: Sacred Temples of the Lord** (teachings) *(explicit citation)*
+- **Chapter 7: The Immortality of the Soul** (teachings) *(explicit citation)*
+- **Chapter 19: The Divine Nature of Service** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

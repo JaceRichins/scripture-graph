@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 4
 slug: mark-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,20 +51,24 @@ _Not yet developed._
 - [[D&C 86]] — 1 footnote cross-reference (from [[Mark 4#^mark-4-3|Mark 4:3]])
 - [[D&C 40]] — 1 footnote cross-reference (from [[Mark 4#^mark-4-16|Mark 4:16]])
 - [[1 Nephi 8]] — 1 footnote cross-reference (from [[Mark 4#^mark-4-17|Mark 4:17]])
+- [[Luke 8]] — 8 parallel verses, e.g. [[Mark 4#^mark-4-25|Mark 4:25]] ↔ [[Luke 8#^luke-8-18|Luke 8:18]]
+- [[Matthew 13]] — 7 parallel verses, e.g. [[Mark 4#^mark-4-25|Mark 4:25]] ↔ [[Matthew 13#^matt-13-12|Matthew 13:12]]
+- [[Matthew 8]] — 2 parallel verses, e.g. [[Mark 4#^mark-4-41|Mark 4:41]] ↔ [[Matthew 8#^matt-8-27|Matthew 8:27]]
+- [[Matthew 7]] — 1 parallel verse, e.g. [[Mark 4#^mark-4-24|Mark 4:24]] ↔ [[Matthew 7#^matt-7-2|Matthew 7:2]]
 - [[3 Nephi 14]] — 1 parallel verse, e.g. [[Mark 4#^mark-4-24|Mark 4:24]] ↔ [[3 Nephi 14#^3ne-14-2|3 Nephi 14:2]]
+- [[Mark 7]] — 1 parallel verse, e.g. [[Mark 4#^mark-4-23|Mark 4:23]] ↔ [[Mark 7#^mark-7-16|Mark 7:16]]
 - [[Matthew 11]] — 1 parallel verse, e.g. [[Mark 4#^mark-4-9|Mark 4:9]] ↔ [[Matthew 11#^matt-11-15|Matthew 11:15]]
+- [[Luke 14]] — 1 parallel verse, e.g. [[Mark 4#^mark-4-9|Mark 4:9]] ↔ [[Luke 14#^luke-14-35|Luke 14:35]]
+- [[Luke 13]] — 1 parallel verse, e.g. [[Mark 4#^mark-4-31|Mark 4:31]] ↔ [[Luke 13#^luke-13-19|Luke 13:19]]
+- [[D&C 40]] — 0 parallel verses
 - [[Matthew 13]] — 0 parallel verses
 - [[Matthew 8]] — 0 parallel verses
-- [[D&C 40]] — 0 parallel verses
-- [[Luke 8]] — 0 parallel verses
-- [[Luke 14]] — 0 parallel verses
-- [[Luke 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Parables of Jesus]]
-- [[Kingdom of God]]
+- [[Parables of Jesus]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -90,10 +94,12 @@ The storm narrative connects [[Faith]] with Jesus' identity. The disciples' fear
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 30–December 6. “He Delighteth in Mercy”: Micah; Nahum; Habakkuk; Zephaniah** (lesson) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Furniture** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*
+- **Chapter 20: Teaching, a Noble Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

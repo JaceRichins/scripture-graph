@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 16
 slug: prov-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,17 +52,18 @@ _Not yet developed._
 - [[Proverbs 30]] — 1 footnote cross-reference (from [[Proverbs 16#^prov-16-2|Proverbs 16:2]])
 - [[Judges 17]] — 1 footnote cross-reference (from [[Proverbs 16#^prov-16-2|Proverbs 16:2]])
 - [[Proverbs 21]] — 1 footnote cross-reference (from [[Proverbs 16#^prov-16-2|Proverbs 16:2]])
+- [[Proverbs 14]] — 1 parallel verse, e.g. [[Proverbs 16#^prov-16-25|Proverbs 16:25]] ↔ [[Proverbs 14#^prov-14-12|Proverbs 14:12]]
 - [[Proverbs 14]] — 0 parallel verses
 - [[Leviticus 19]] — 0 parallel verses
 - [[Proverbs 18]] — 0 parallel verses
-- [[Proverbs 14]] — 0 parallel verses
+- [[Proverbs 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Pride]]
-- [[Government and Laws]]
-- [[Education and Learning]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -83,8 +84,12 @@ Verse 32 gives self-government exceptional dignity. Mastering anger and ruling o
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **August 3–9. “Thou Art Come … for Such a Time as This”: Esther** (lesson) *(explicit citation)*
+- **Chapter 9: Our Missionary Duty** (teachings) *(explicit citation)*
+- **Chapter 13: Stand by the Truth Lest You Be Deceived** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

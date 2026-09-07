@@ -17,7 +17,7 @@ cssclasses:
 > Moses exhorts the children of Israel to keep the commandments, to teach them to their children, and to be exemplary before all nations—They are forbidden to make graven images or worship other gods—They are to witness that they have heard the voice of God—They will be scattered among all nations when they worship other gods—They will be gathered again in the latter days when they seek the Lord their God—Moses extols the mercy and goodness of God to Israel.
 
 ![[Deuteronomy 4#^deut-4-1]]
-> [[Hosea 8#^hosea-8-11|Hosea 8:12 (11–12)]] · [[Joshua 18#^josh-18-3|≈ Joshua 18:3]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 11#^deut-11-8|≈ Deuteronomy 11:8]] · [[Deuteronomy 1#^deut-1-8|≈ Deuteronomy 1:8]] · [[Deuteronomy 12#^deut-12-1|≈ Deuteronomy 12:1]] · [[Deuteronomy 10#^deut-10-11|≈ Deuteronomy 10:11]]
+> [[Hosea 8#^hosea-8-11|Hosea 8:12 (11–12)]] · [[Joshua 18#^josh-18-3|≈ Joshua 18:3]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 10#^deut-10-11|≈ Deuteronomy 10:11]] · [[Deuteronomy 11#^deut-11-8|≈ Deuteronomy 11:8]] · [[Deuteronomy 1#^deut-1-8|≈ Deuteronomy 1:8]] · [[Deuteronomy 12#^deut-12-1|≈ Deuteronomy 12:1]]
 
 ![[Deuteronomy 4#^deut-4-2]]
 > [[Revelation 22#^rev-22-18|Rev. 22:18 (18–20)]] · [[Deuteronomy 6#^deut-6-17|≈ Deuteronomy 6:17]] · [[Deuteronomy 11#^deut-11-27|≈ Deuteronomy 11:27]]

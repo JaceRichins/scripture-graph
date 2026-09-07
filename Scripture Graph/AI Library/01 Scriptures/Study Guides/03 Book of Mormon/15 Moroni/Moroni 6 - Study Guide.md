@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 6
 slug: moro-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[Moroni 10]] — 6 parallel verses, e.g. [[Moroni 6#^moro-6-9|Moroni 6:9]] ↔ [[Moroni 10#^moro-10-5|Moroni 10:5]]
 - [[D&C 20]] — 4 parallel verses, e.g. [[Moroni 6#^moro-6-3|Moroni 6:3]] ↔ [[D&C 20#^dc-20-37|D&C 20:37]]
 - [[1 Nephi 10]] — 4 parallel verses, e.g. [[Moroni 6#^moro-6-4|Moroni 6:4]] ↔ [[1 Nephi 10#^1ne-10-17|1 Nephi 10:17]]
+- [[Mosiah 26]] — 2 parallel verses, e.g. [[Moroni 6#^moro-6-7|Moroni 6:7]] ↔ [[Mosiah 26#^mosiah-26-36|Mosiah 26:36]]
 - [[3 Nephi 21]] — 2 parallel verses, e.g. [[Moroni 6#^moro-6-9|Moroni 6:9]] ↔ [[3 Nephi 21#^3ne-21-2|3 Nephi 21:2]]
 - [[D&C 124]] — 2 parallel verses, e.g. [[Moroni 6#^moro-6-9|Moroni 6:9]] ↔ [[D&C 124#^dc-124-4|D&C 124:4]]
 - [[Moroni 7]] — 2 parallel verses, e.g. [[Moroni 6#^moro-6-4|Moroni 6:4]] ↔ [[Moroni 7#^moro-7-44|Moroni 7:44]]
@@ -63,7 +64,6 @@ _Not yet developed._
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Moroni 6#^moro-6-4|Moroni 6:4]] ↔ [[2 Nephi 28#^2ne-28-31|2 Nephi 28:31]]
 - [[2 Nephi 32]] — 2 parallel verses, e.g. [[Moroni 6#^moro-6-4|Moroni 6:4]] ↔ [[2 Nephi 32#^2ne-32-3|2 Nephi 32:3]]
 - [[2 Nephi 33]] — 2 parallel verses, e.g. [[Moroni 6#^moro-6-4|Moroni 6:4]] ↔ [[2 Nephi 33#^2ne-33-1|2 Nephi 33:1]]
-- [[Jacob 7]] — 2 parallel verses, e.g. [[Moroni 6#^moro-6-4|Moroni 6:4]] ↔ [[Jacob 7#^jacob-7-12|Jacob 7:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

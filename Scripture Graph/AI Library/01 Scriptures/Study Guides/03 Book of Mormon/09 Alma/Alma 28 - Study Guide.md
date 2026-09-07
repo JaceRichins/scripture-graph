@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 28
 slug: alma-28
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ Verse 14 answers this inequality with "the great call of diligence of men to lab
 - [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 - [[Things Pertaining to Righteousness (Elder Francisco J. Viñas, April 2010)|Things Pertaining to Righteousness]] — Elder Francisco J. Viñas, 2010-April *(explicit citation)*
+- [[The Book of Mormon Another Testament of Jesus Christ—Plain and Precious Things (President Boyd K. Packer, April 2005)|The Book of Mormon: Another Testament of Jesus Christ—Plain and Precious Things]] — President Boyd K. Packer, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -97,6 +98,8 @@ Verse 14 answers this inequality with "the great call of diligence of men to lab
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **Chapter 8: Understanding Death and Resurrection** (teachings) *(explicit citation)*
+- **Chapter 7: The Immortality of the Soul** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

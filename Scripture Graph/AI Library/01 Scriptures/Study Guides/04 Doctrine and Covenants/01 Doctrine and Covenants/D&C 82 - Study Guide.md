@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 82
 slug: dc-82
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,7 @@ The chapter joins [[Repentance and Forgiveness]] with ongoing accountability: fo
 <!-- SG:BEGIN history -->
 - **Newel K. Whitney and the United Firm** (history) *(explicit citation)*
 - **14 Visions and Nightmares** (history) *(explicit citation)*
+- **July 21–27: Where “Much Is Given Much Is Required”: Doctrine and Covenants 81–83** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
@@ -106,7 +107,6 @@ The chapter joins [[Repentance and Forgiveness]] with ongoing accountability: fo
 - **Ten Commandments** (reference-entry) *(explicit citation)*
 - **Covenant** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
-- **Sin** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

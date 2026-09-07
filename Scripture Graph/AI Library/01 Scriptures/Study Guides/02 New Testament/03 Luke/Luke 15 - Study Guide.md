@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 15
 slug: luke-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ _Not yet developed._
 - [[D&C 84]] — 1 footnote cross-reference (from [[Luke 15#^luke-15-31|Luke 15:31]])
 - [[Matthew 18]] — 0 parallel verses
 - [[Luke 19]] — 0 parallel verses
+- [[Matthew 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -92,6 +93,9 @@ _Not yet developed._
 - **Angels** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **February 24–March 2: “The Worth of Souls Is Great”: Doctrine and Covenants 18** (lesson) *(explicit citation)*
+- **Chapter 1: The Way to Eternal Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

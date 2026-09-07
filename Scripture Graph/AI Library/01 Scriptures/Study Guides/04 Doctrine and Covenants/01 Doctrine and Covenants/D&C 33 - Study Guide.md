@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 33
 slug: dc-33
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,7 +93,9 @@ Verse 16 joins the Book of Mormon and other scriptures with the quickening power
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 7–13: “Lift Up Your Voices … to Declare My Gospel”: Doctrine and Covenants 30–36** (lesson) *(explicit citation)*
 - **Ezra Thayer: From Skeptic to Believer** (history) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
@@ -101,7 +103,6 @@ Verse 16 joins the Book of Mormon and other scriptures with the quickening power
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
-- **Chapter 40: Salvation through Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

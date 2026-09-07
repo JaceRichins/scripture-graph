@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 30
 slug: ex-30
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ The equal half-shekel assessment gives rich and poor equal standing within this 
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 - **Anoint** (reference-entry) *(explicit citation)*
 - **Cassia** (reference-entry) *(explicit citation)*
 - **Daily service** (reference-entry) *(explicit citation)*

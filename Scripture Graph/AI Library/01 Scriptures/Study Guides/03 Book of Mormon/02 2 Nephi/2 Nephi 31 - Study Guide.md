@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 31
 slug: 2ne-31
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -97,14 +97,14 @@ Nephi sets out an ordered process — [[Repentance]], [[Baptism]] by water, the 
 <!-- SG:BEGIN history -->
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Endowment** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
-- **Truth** (reference-entry) *(explicit citation)*
-- **Baptism** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

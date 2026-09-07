@@ -81,7 +81,7 @@ cssclasses:
 > [[Proverbs 24#^prov-24-28|Prov. 24:28]] · [[Exodus 20#^ex-20-16|≈ Exodus 20:16]]
 
 ![[Mosiah 13#^mosiah-13-24]]
-> [[D&C 19#^dc-19-25|≈ D&C 19:25]] · [[Exodus 20#^ex-20-17|≈ Exodus 20:17]]
+> [[Exodus 20#^ex-20-17|≈ Exodus 20:17]] · [[D&C 19#^dc-19-25|≈ D&C 19:25]]
 
 ![[Mosiah 13#^mosiah-13-25]]
 > [[Mosiah 12#^mosiah-12-37|Mosiah 12:37]] · [[Mosiah 12#^mosiah-12-37|≈ Mosiah 12:37]]

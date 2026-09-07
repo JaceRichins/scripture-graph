@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 1
 slug: josh-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ Scripture: [[Joshua 1]] · My notes: [[Joshua 1 - My Notes]]
 - [[Exodus 23]] — 1 footnote cross-reference (from [[Joshua 1#^josh-1-4|Joshua 1:4]])
 - [[Deuteronomy 31]] — 11 parallel verses, e.g. [[Joshua 1#^josh-1-6|Joshua 1:6]] ↔ [[Deuteronomy 31#^deut-31-23|Deuteronomy 31:23]]
 - [[Deuteronomy 11]] — 2 parallel verses, e.g. [[Joshua 1#^josh-1-11|Joshua 1:11]] ↔ [[Deuteronomy 11#^deut-11-31|Deuteronomy 11:31]]
-- [[Deuteronomy 12]] — 3 parallel verses, e.g. [[Joshua 1#^josh-1-11|Joshua 1:11]] ↔ [[Deuteronomy 12#^deut-12-10|Deuteronomy 12:10]]
 - [[Deuteronomy 3]] — 3 parallel verses, e.g. [[Joshua 1#^josh-1-13|Joshua 1:13]] ↔ [[Deuteronomy 3#^deut-3-18|Deuteronomy 3:18]]
+- [[Deuteronomy 12]] — 3 parallel verses, e.g. [[Joshua 1#^josh-1-11|Joshua 1:11]] ↔ [[Deuteronomy 12#^deut-12-10|Deuteronomy 12:10]]
 - [[Joshua 22]] — 3 parallel verses, e.g. [[Joshua 1#^josh-1-13|Joshua 1:13]] ↔ [[Joshua 22#^josh-22-4|Joshua 22:4]]
 - [[Joshua 23]] — 3 parallel verses, e.g. [[Joshua 1#^josh-1-7|Joshua 1:7]] ↔ [[Joshua 23#^josh-23-6|Joshua 23:6]]
 - [[Joshua 3]] — 1 parallel verse, e.g. [[Joshua 1#^josh-1-5|Joshua 1:5]] ↔ [[Joshua 3#^josh-3-7|Joshua 3:7]]
@@ -93,12 +93,14 @@ Scripture: [[Joshua 1]] · My notes: [[Joshua 1 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
 - **Abortion** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Euphrates** (reference-entry) *(explicit citation)*
 - **Gad** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 10: The Scriptures, the Most Valuable Library in the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 18
 slug: rev-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,8 @@ _Not yet developed._
 - [[D&C 35]] — 1 footnote cross-reference (from [[Revelation 18#^rev-18-3|Revelation 18:3]])
 - [[Isaiah 23]] — 1 footnote cross-reference (from [[Revelation 18#^rev-18-3|Revelation 18:3]])
 - [[D&C 88]] — 2 parallel verses, e.g. [[Revelation 18#^rev-18-3|Revelation 18:3]] ↔ [[D&C 88#^dc-88-94|D&C 88:94]]
+- [[Revelation 17]] — 2 parallel verses, e.g. [[Revelation 18#^rev-18-16|Revelation 18:16]] ↔ [[Revelation 17#^rev-17-4|Revelation 17:4]]
+- [[Revelation 14]] — 2 parallel verses, e.g. [[Revelation 18#^rev-18-3|Revelation 18:3]] ↔ [[Revelation 14#^rev-14-8|Revelation 14:8]]
 - [[D&C 35]] — 1 parallel verse, e.g. [[Revelation 18#^rev-18-3|Revelation 18:3]] ↔ [[D&C 35#^dc-35-11|D&C 35:11]]
 - [[Revelation 17]] — 0 parallel verses
 - [[Revelation 14]] — 0 parallel verses
@@ -62,8 +64,6 @@ _Not yet developed._
 - [[Jeremiah 25]] — 0 parallel verses
 - [[Ezekiel 27]] — 0 parallel verses
 - [[Isaiah 47]] — 0 parallel verses
-- [[Jeremiah 25]] — 0 parallel verses
-- [[Jeremiah 51]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -98,6 +98,7 @@ _Not yet developed._
 - **Commerce** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 44: Preparing for the Second Coming of Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

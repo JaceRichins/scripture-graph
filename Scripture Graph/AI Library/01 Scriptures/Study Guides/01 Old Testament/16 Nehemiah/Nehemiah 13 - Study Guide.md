@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 13
 slug: neh-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Nehemiah 10]] — 2 parallel verses, e.g. [[Nehemiah 13#^neh-13-12|Nehemiah 13:12]] ↔ [[Nehemiah 10#^neh-10-39|Nehemiah 10:39]]
 - [[Ezra 7]] — 1 parallel verse, e.g. [[Nehemiah 13#^neh-13-5|Nehemiah 13:5]] ↔ [[Ezra 7#^ezra-7-7|Ezra 7:7]]
 - [[Jeremiah 17]] — 0 parallel verses
+- [[Malachi 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

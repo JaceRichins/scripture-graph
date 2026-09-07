@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 3
 slug: moses-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ The chapter joins several themes without collapsing them into one another. [[Cre
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 12–18. “In the Beginning God Created the Heaven and the Earth”: Genesis 1–2; Moses 2–3; Abraham 4–5** (lesson) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
@@ -98,7 +99,6 @@ The chapter joins several themes without collapsing them into one another. [[Cre
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
-- **Fall** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

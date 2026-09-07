@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 2
 slug: john-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ _Not yet developed._
 - [[After the Fourth Day (Elder W. Mark Bassett, April 2023)|After the Fourth Day]] — Elder W. Mark Bassett, 2023-April *(explicit citation)*
 - [[Conference Report, April 1925 (General Conference (full report), April 1925)|Conference Report, April 1925]] — General Conference (full report), 1925-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
+- [[The Sanctity of the Body (Susan W. Tanner, October 2005)|The Sanctity of the Body]] — Susan W. Tanner, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 12
 slug: rom-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,8 @@ The closing commands define [[Charity]] through action: honoring others, sharing
 - **Church** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
+- **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
+- **Chapter 16: ‘That We May Become One’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

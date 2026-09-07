@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 1
 slug: ether-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,8 @@ _Not yet developed._
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Babylon or Babel** (reference-entry) *(explicit citation)*
 - **Genesis** (reference-entry) *(explicit citation)*
+- **February 9–15. “Noah Found Grace in the Eyes of the Lord”: Genesis 6–11; Moses 8** (lesson) *(explicit citation)*
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 27
 slug: ezek-27
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Isaiah 23]] — 0 parallel verses
 - [[Revelation 18]] — 0 parallel verses
 - [[Ezekiel 28]] — 0 parallel verses
+- [[Revelation 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

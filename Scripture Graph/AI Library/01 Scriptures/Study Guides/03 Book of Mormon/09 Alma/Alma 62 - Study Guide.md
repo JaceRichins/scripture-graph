@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 62
 slug: alma-62
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -100,7 +100,7 @@ Verses 44–47 connect social recovery with [[Repentance]], [[Baptism]], preachi
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

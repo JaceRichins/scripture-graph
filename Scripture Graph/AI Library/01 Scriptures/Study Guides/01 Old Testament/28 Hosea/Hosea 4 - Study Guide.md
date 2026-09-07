@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 4
 slug: hosea-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Isaiah 44]] — 1 footnote cross-reference (from [[Hosea 4#^hosea-4-12|Hosea 4:12]])
 - [[Romans 1]] — 1 footnote cross-reference (from [[Hosea 4#^hosea-4-12|Hosea 4:12]])
 - [[Hosea 2]] — 1 parallel verse, e.g. [[Hosea 4#^hosea-4-3|Hosea 4:3]] ↔ [[Hosea 2#^hosea-2-18|Hosea 2:18]]
+- [[Malachi 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

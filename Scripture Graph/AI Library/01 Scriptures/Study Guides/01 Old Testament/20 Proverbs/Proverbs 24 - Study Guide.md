@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 24
 slug: prov-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,15 +52,16 @@ _Not yet developed._
 - [[Ecclesiastes 7]] — 1 footnote cross-reference (from [[Proverbs 24#^prov-24-5|Proverbs 24:5]])
 - [[Proverbs 20]] — 1 footnote cross-reference (from [[Proverbs 24#^prov-24-6|Proverbs 24:6]])
 - [[Proverbs 11]] — 1 footnote cross-reference (from [[Proverbs 24#^prov-24-6|Proverbs 24:6]])
-- [[Proverbs 6]] — 0 parallel verses
+- [[Proverbs 6]] — 2 parallel verses, e.g. [[Proverbs 24#^prov-24-34|Proverbs 24:34]] ↔ [[Proverbs 6#^prov-6-11|Proverbs 6:11]]
 - [[Proverbs 17]] — 0 parallel verses
+- [[Psalm 37]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Final Judgment]]
 - [[Work and Self-Reliance]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

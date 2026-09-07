@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 48
 slug: dc-48
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
+- **May 12–18: “Seek Ye Earnestly the Best Gifts”: Doctrine and Covenants 46–48** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

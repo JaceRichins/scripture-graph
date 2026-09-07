@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 4
 slug: 2chr-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Altar** (reference-entry) *(explicit citation)*
 - **Candlestick** (reference-entry) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

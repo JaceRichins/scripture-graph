@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 32
 slug: 2chr-32
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -34,6 +34,7 @@ Scripture: [[2 Chronicles 32]] · My notes: [[2 Chronicles 32 - My Notes]]
 ## People
 <!-- SG:BEGIN people -->
 - [[Hezekiah]] — 20 mentions
+- [[Sennacherib]] — 5 mentions
 - [[David (king)]] — 3 mentions
 - [[Isaiah (prophet)]] — 2 mentions
 <!-- SG:END people -->
@@ -42,6 +43,7 @@ Scripture: [[2 Chronicles 32]] · My notes: [[2 Chronicles 32 - My Notes]]
 <!-- SG:BEGIN places -->
 - [[Jerusalem]] — 12 mentions
 - [[Assyria]] — 8 mentions
+- [[Lachish]] — 1 mention
 - [[Babylon]] — 1 mention
 <!-- SG:END places -->
 

@@ -53,7 +53,7 @@ cssclasses:
 ![[Deuteronomy 12#^deut-12-13]]
 
 ![[Deuteronomy 12#^deut-12-14]]
-> [[Leviticus 17#^lev-17-1|Lev. 17:4 (1–7)]] · [[Deuteronomy 16#^deut-16-2|≈ Deuteronomy 16:2]] · [[Deuteronomy 16#^deut-16-15|≈ Deuteronomy 16:15]] · [[Deuteronomy 18#^deut-18-6|≈ Deuteronomy 18:6]] · [[Deuteronomy 15#^deut-15-20|≈ Deuteronomy 15:20]]
+> [[Leviticus 17#^lev-17-1|Lev. 17:4 (1–7)]] · [[Deuteronomy 16#^deut-16-2|≈ Deuteronomy 16:2]] · [[Deuteronomy 16#^deut-16-15|≈ Deuteronomy 16:15]] · [[Deuteronomy 15#^deut-15-20|≈ Deuteronomy 15:20]] · [[Deuteronomy 18#^deut-18-6|≈ Deuteronomy 18:6]]
 
 ![[Deuteronomy 12#^deut-12-15]]
 > [[Deuteronomy 15#^deut-15-22|Deut. 15:22]] · [[Deuteronomy 16#^deut-16-17|≈ Deuteronomy 16:17]]
@@ -83,7 +83,7 @@ cssclasses:
 > [[Deuteronomy 11#^deut-11-26|Deut. 11:27 (26–28)]] · [[Deuteronomy 4#^deut-4-40|≈ Deuteronomy 4:40]] · [[Deuteronomy 21#^deut-21-9|≈ Deuteronomy 21:9]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 19#^deut-19-13|≈ Deuteronomy 19:13]]
 
 ![[Deuteronomy 12#^deut-12-26]]
-> [[Deuteronomy 16#^deut-16-2|≈ Deuteronomy 16:2]] · [[Deuteronomy 16#^deut-16-15|≈ Deuteronomy 16:15]] · [[Deuteronomy 14#^deut-14-25|≈ Deuteronomy 14:25]] · [[Deuteronomy 18#^deut-18-6|≈ Deuteronomy 18:6]] · [[Deuteronomy 15#^deut-15-20|≈ Deuteronomy 15:20]] · [[Deuteronomy 26#^deut-26-2|≈ Deuteronomy 26:2]]
+> [[Deuteronomy 16#^deut-16-2|≈ Deuteronomy 16:2]] · [[Deuteronomy 16#^deut-16-15|≈ Deuteronomy 16:15]] · [[Deuteronomy 14#^deut-14-25|≈ Deuteronomy 14:25]] · [[Deuteronomy 15#^deut-15-20|≈ Deuteronomy 15:20]] · [[Deuteronomy 18#^deut-18-6|≈ Deuteronomy 18:6]] · [[Deuteronomy 26#^deut-26-2|≈ Deuteronomy 26:2]]
 
 ![[Deuteronomy 12#^deut-12-27]]
 > [[Leviticus 1#^lev-1-11|Lev. 1:13 (11, 13)]] · [[Deuteronomy 14#^deut-14-26|≈ Deuteronomy 14:26]]

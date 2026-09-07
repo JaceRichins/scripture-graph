@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 136
 slug: dc-136
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -108,6 +108,7 @@ Joy is directed toward [[Gratitude]] through praise and thanksgiving, while sorr
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
+- **November 24–30: “He ‘Has Sealed His Mission and His Works with His Own Blood’”: Doctrine and Covenants 135–136** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
@@ -116,7 +117,6 @@ Joy is directed toward [[Gratitude]] through praise and thanksgiving, while sorr
 - **Zion** (reference-entry) *(explicit citation)*
 - **Blood** (reference-entry) *(explicit citation)*
 - **Dispensations** (reference-entry) *(explicit citation)*
-- **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

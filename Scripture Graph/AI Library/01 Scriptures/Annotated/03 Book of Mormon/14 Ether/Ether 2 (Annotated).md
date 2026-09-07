@@ -44,7 +44,7 @@ cssclasses:
 > [[2 Nephi 6#^2ne-6-15|2 Ne. 6:15]] · [[Genesis 15#^gen-15-16|Gen. 15:16]] · [[1 Nephi 14#^1ne-14-6|1 Ne. 14:6]]
 
 ![[Ether 2#^ether-2-10]]
-> [[Jarom 1#^jarom-1-12|Jarom 1:12]] · [[2 Nephi 28#^2ne-28-16|2 Ne. 28:16]] · [[1 Nephi 17#^1ne-17-37|1 Ne. 17:37]] · [[Ether 1#^ether-1-38|≈ Ether 1:38]] · [[Ether 1#^ether-1-42|≈ Ether 1:42]] · [[1 Nephi 2#^1ne-2-20|≈ 1 Nephi 2:20]] · [[2 Nephi 1#^2ne-1-5|≈ 2 Nephi 1:5]]
+> [[Jarom 1#^jarom-1-12|Jarom 1:12]] · [[2 Nephi 28#^2ne-28-16|2 Ne. 28:16]] · [[1 Nephi 17#^1ne-17-37|1 Ne. 17:37]] · [[1 Nephi 2#^1ne-2-20|≈ 1 Nephi 2:20]] · [[2 Nephi 1#^2ne-1-5|≈ 2 Nephi 1:5]] · [[Ether 1#^ether-1-38|≈ Ether 1:38]] · [[Ether 1#^ether-1-42|≈ Ether 1:42]]
 
 ![[Ether 2#^ether-2-11]]
 > [[1 Nephi 14#^1ne-14-6|1 Ne. 14:6]] · [[2 Nephi 28#^2ne-28-32|2 Ne. 28:32]] · [[Alma 45#^alma-45-10|Alma 45:16 (10–14, 16)]] · [[Mormon 1#^morm-1-17|Morm. 1:17]]

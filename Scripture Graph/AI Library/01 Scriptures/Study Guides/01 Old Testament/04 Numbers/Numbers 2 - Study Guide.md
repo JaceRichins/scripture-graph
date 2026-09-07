@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 2
 slug: num-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Journal of Discourses, Volume 12** (history, ~1865) *(explicit citation)*
+- **September 1–7: “For the Salvation of Zion”: Doctrine and Covenants 94–97** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

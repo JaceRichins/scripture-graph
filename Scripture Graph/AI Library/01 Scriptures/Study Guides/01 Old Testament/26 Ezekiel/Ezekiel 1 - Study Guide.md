@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 1
 slug: ezek-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ The vision insists, through its repeated hedging language ("likeness," "appearan
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Ezekiel** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*

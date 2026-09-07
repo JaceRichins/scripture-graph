@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 5
 slug: 1tim-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,9 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
 - [[Lay Up in Store (Bishop Keith B. McMullin, April 2007)|Lay Up in Store]] — Bishop Keith B. McMullin, 2007-April *(explicit citation)*
+- [[Instruments in the Hands of God (President James E. Faust, October 2005)|Instruments in the Hands of God]] — President James E. Faust, 2005-October *(explicit citation)*
+- [[The Need for Greater Kindness (President Gordon B. Hinckley, April 2006)|The Need for Greater Kindness]] — President Gordon B. Hinckley, 2006-April *(explicit citation)*
+- [[Let Us Be Men (Elder D. Todd Christofferson, October 2006)|Let Us Be Men]] — Elder D. Todd Christofferson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

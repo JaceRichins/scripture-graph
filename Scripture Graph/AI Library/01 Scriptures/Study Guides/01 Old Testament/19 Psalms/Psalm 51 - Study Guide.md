@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 51
 slug: ps-51
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 - [[3 Nephi 9]] — 0 parallel verses
 - [[D&C 59]] — 0 parallel verses
 - [[Isaiah 57]] — 0 parallel verses
+- [[Psalm 34]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -80,10 +81,13 @@ Verse 5 portrays sinfulness as reaching back to life's beginning, but it does no
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86** (lesson) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*
 - **Chapter 7: The Plan of Salvation** (teachings) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
+- **Chapter 7: Integrity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

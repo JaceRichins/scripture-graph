@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 48
 slug: ezek-48
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Asher** (reference-entry) *(explicit citation)*
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

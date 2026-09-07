@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 4
 slug: heb-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ The conclusion centers confidence on [[Jesus Christ (Gospel Topic)]], the sympat
 <!-- SG:BEGIN history -->
 - **Pornography** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 22: Being Perfected through Trials** (teachings) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
@@ -103,7 +104,6 @@ The conclusion centers confidence on [[Jesus Christ (Gospel Topic)]], the sympat
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Mortality** (reference-entry) *(explicit citation)*
 - **Adversity** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

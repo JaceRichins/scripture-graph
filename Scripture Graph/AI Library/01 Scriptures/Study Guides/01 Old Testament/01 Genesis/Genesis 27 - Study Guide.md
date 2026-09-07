@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 27
 slug: gen-27
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The chapter also requires a distinction between covenantal succession and moral 
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
 - **Esau** (reference-entry) *(explicit citation)*
+- **March 2–8. “Let God Prevail”: Genesis 24–33** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

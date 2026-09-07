@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 31
 slug: prov-31
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
 - **Chapter 39: Relief Society: Divine Organization of Women** (teachings) *(explicit citation)*
 <!-- SG:END history -->

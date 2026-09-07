@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 14
 slug: luke-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,15 +51,16 @@ _Not yet developed._
 - [[D&C 101]] — 1 footnote cross-reference (from [[Luke 14#^luke-14-11|Luke 14:11]])
 - [[D&C 104]] — 1 footnote cross-reference (from [[Luke 14#^luke-14-11|Luke 14:11]])
 - [[Matthew 6]] — 1 footnote cross-reference (from [[Luke 14#^luke-14-14|Luke 14:14]])
-- [[Matthew 5]] — 0 parallel verses
-- [[Mark 9]] — 0 parallel verses
-- [[Matthew 11]] — 0 parallel verses
-- [[Matthew 13]] — 0 parallel verses
-- [[Mark 4]] — 0 parallel verses
-- [[Luke 8]] — 0 parallel verses
-- [[Matthew 12]] — 0 parallel verses
-- [[Luke 18]] — 0 parallel verses
+- [[Luke 18]] — 2 parallel verses, e.g. [[Luke 14#^luke-14-11|Luke 14:11]] ↔ [[Luke 18#^luke-18-14|Luke 18:14]]
+- [[Matthew 5]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-34|Luke 14:34]] ↔ [[Matthew 5#^matt-5-13|Matthew 5:13]]
+- [[Mark 9]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-34|Luke 14:34]] ↔ [[Mark 9#^mark-9-50|Mark 9:50]]
+- [[Matthew 13]] — 2 parallel verses, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Matthew 13#^matt-13-9|Matthew 13:9]]
+- [[Matthew 11]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Matthew 11#^matt-11-15|Matthew 11:15]]
+- [[Mark 4]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Mark 4#^mark-4-9|Mark 4:9]]
+- [[Luke 8]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-35|Luke 14:35]] ↔ [[Luke 8#^luke-8-8|Luke 8:8]]
+- [[Matthew 12]] — 1 parallel verse, e.g. [[Luke 14#^luke-14-3|Luke 14:3]] ↔ [[Matthew 12#^matt-12-10|Matthew 12:10]]
 - [[Proverbs 25]] — 0 parallel verses
+- [[Matthew 22]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -88,6 +89,7 @@ _Not yet developed._
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
 - [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
 - [[You Know Enough (Elder Neil L. Andersen, October 2008)|You Know Enough]] — Elder Neil L. Andersen, 2008-October *(explicit citation)*
+- [[Discipleship (President James E. Faust, October 2006)|Discipleship]] — President James E. Faust, 2006-October *(explicit citation)*
 - [[Cheering Each Other On (Sister J. Anette Dennis, October 2025)|Cheering Each Other On]] — Sister J. Anette Dennis, 2025-October *(explicit citation)*
 - [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -98,6 +100,7 @@ _Not yet developed._
 - **History of the Church, Volume 6** (history, 1902-1912) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
+- **Chapter 12: The Sabbath Is a Holy Day** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

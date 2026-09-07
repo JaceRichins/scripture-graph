@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 2
 slug: 1sam-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,8 @@ The alternation between the sons' corruption and Samuel's growth makes the contr
 - [[Luke 1]] — 0 parallel verses
 - [[Luke 2]] — 0 parallel verses
 - [[1 Samuel 1]] — 0 parallel verses
+- [[Luke 1]] — 0 parallel verses
+- [[Luke 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,11 +83,15 @@ Hannah's prayer also rejects confidence in unaided strength: the LORD weighs act
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)|Adorned with the Virtue of Temperance]] — Elder Ulisses Soares, 2025-October *(explicit citation)*
 - [[Give Heed unto the Prophets’ Words (Elder Quentin L. Cook, April 2008)|Give Heed unto the Prophets’ Words]] — Elder Quentin L. Cook, 2008-April *(explicit citation)*
+- [[True to the Faith (President Thomas S. Monson, April 2006)|True to the Faith]] — President Thomas S. Monson, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 1–7. “My Heart Rejoiceth in the Lord”: Ruth; 1 Samuel 1–7** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
 - **Ephod** (reference-entry) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

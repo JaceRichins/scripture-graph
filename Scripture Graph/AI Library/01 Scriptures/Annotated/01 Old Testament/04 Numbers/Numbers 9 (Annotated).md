@@ -27,7 +27,7 @@ cssclasses:
 ![[Numbers 9#^num-9-4]]
 
 ![[Numbers 9#^num-9-5]]
-> [[Joshua 5#^josh-5-10|≈ Joshua 5:10]] · [[Exodus 39#^ex-39-32|≈ Exodus 39:32]] · [[Exodus 39#^ex-39-42|≈ Exodus 39:42]] · [[Exodus 40#^ex-40-16|≈ Exodus 40:16]] · [[Numbers 1#^num-1-54|≈ Numbers 1:54]] · [[Numbers 2#^num-2-34|≈ Numbers 2:34]]
+> [[Exodus 39#^ex-39-32|≈ Exodus 39:32]] · [[Exodus 39#^ex-39-42|≈ Exodus 39:42]] · [[Exodus 40#^ex-40-16|≈ Exodus 40:16]] · [[Numbers 1#^num-1-54|≈ Numbers 1:54]] · [[Numbers 2#^num-2-34|≈ Numbers 2:34]] · [[Leviticus 23#^lev-23-5|≈ Leviticus 23:5]]
 
 ![[Numbers 9#^num-9-6]]
 > [[Numbers 5#^num-5-1|Num. 5:2 (1–4)]]

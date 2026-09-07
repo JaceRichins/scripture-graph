@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 58
 slug: alma-58
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,7 +101,7 @@ The sons' preservation does not mean immunity from suffering: Helaman reports no
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

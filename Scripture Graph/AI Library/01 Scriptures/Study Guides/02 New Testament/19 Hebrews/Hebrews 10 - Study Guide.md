@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 10
 slug: heb-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,8 +72,8 @@ _Not yet developed._
 - [[Final Judgment]]
 - [[Sacrifice]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
-- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
+- [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -99,6 +99,7 @@ The chapter holds this assurance together with a sober warning (vv.26-31): the s
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Atonement** (reference-entry) *(explicit citation)*

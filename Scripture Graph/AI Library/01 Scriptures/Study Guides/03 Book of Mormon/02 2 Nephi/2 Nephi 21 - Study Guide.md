@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 21
 slug: 2ne-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,11 +87,12 @@ The ruler's justice is measured by righteousness and equity rather than surface 
 <!-- SG:BEGIN conference -->
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 - [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
+- [[A Defense and a Refuge (President Boyd K. Packer, October 2006)|A Defense and a Refuge]] — President Boyd K. Packer, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **October 6–12: “I Will Order All Things for Your Good”: Doctrine and Covenants 111–114** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

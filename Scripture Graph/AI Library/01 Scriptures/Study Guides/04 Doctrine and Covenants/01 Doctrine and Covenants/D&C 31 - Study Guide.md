@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 31
 slug: dc-31
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,20 +81,23 @@ _Not yet developed._
 - [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
 - [[Being Temperate in All Things (Elder Kent D. Watson, October 2009)|Being Temperate in All Things]] — Elder Kent D. Watson, 2009-October *(explicit citation)*
 - [[Two Principles for Any Economy (President Dieter F. Uchtdorf, October 2009)|Two Principles for Any Economy]] — President Dieter F. Uchtdorf, 2009-October *(explicit citation)*
+- [[Couple Missionaries Blessings from Sacrifice and Service (Elder Robert D. Hales, April 2005)|Couple Missionaries: Blessings from Sacrifice and Service]] — Elder Robert D. Hales, 2005-April *(explicit citation)*
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[We Never Walk Alone (President Thomas S. Monson, October 2013)|We Never Walk Alone]] — President Thomas S. Monson, 2013-October *(explicit citation)*
 - [[Lift Up Your Heart and Rejoice (Elder Marcos A. Aidukaitis, April 2022)|Lift Up Your Heart and Rejoice]] — Elder Marcos A. Aidukaitis, 2022-April *(explicit citation)*
 - [[Converted to His Gospel through His Church (Elder Donald L. Hallstrom, April 2012)|Converted to His Gospel through His Church]] — Elder Donald L. Hallstrom, 2012-April *(explicit citation)*
-- [[Pray Always (Elder David A. Bednar, October 2008)|Pray Always]] — Elder David A. Bednar, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Faith and Fall of Thomas Marsh** (history) *(explicit citation)*
+- **April 7–13: “Lift Up Your Voices … to Declare My Gospel”: Doctrine and Covenants 30–36** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Chapter 28: Missionary Service: A Holy Calling, a Glorious Work** (teachings) *(explicit citation)*
+- **Voices of the Restoration: Early Converts** (lesson) *(explicit citation)*
+- **Chapter 13: Doing Our Part to Share the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

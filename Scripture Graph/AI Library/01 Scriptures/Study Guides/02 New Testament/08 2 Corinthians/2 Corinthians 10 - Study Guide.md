@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 10
 slug: 2cor-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

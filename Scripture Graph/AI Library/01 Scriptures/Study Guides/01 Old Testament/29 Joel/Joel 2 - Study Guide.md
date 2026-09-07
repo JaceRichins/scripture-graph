@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 2
 slug: joel-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,8 @@ _Not yet developed._
 - [[Exodus 34]] — 0 parallel verses
 - [[D&C 34]] — 0 parallel verses
 - [[Joel 3]] — 0 parallel verses
+- [[Nehemiah 9]] — 0 parallel verses
+- [[Zephaniah 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,6 +93,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 16–22. “I Will Love Them Freely”: Hosea 1–6; 10–14; Joel** (lesson) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **The Word of Wisdom** (history) *(explicit citation)*
@@ -100,7 +103,6 @@ _Not yet developed._
 - **Times and Seasons 1844-11-15 (Vol. 5 No. 21)** (periodical, 1844-11-15) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
 - **Chapter 1: The First Vision: The Father and the Son Appear to Joseph Smith** (teachings) *(explicit citation)*
-- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 61
 slug: dc-61
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -31,7 +31,7 @@ A useful outline is: (1) divine identity, forgiveness, and chastening (vv. 1-8);
 - [[W. W. Phelps]] — 2 mentions
 - [[Joseph Smith Jr]] — 2 mentions
 - [[Oliver Cowdery]] — 2 mentions
-- [[Samuel (prophet)]] — 1 mention
+- [[Samuel H. Smith]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -83,15 +83,16 @@ The conclusion joins watchfulness, sobriety, and [[Prayer]] with readiness for t
 - [[Building a Life Resistant to the Adversary (Elder Jorge F. Zeballos, October 2022)|Building a Life Resistant to the Adversary]] — Elder Jorge F. Zeballos, 2022-October *(explicit citation)*
 - [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
 - [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[Be of Good Cheer and Faithful in Adversity (Elder Adhemar Damiani, April 2005)|Be of Good Cheer and Faithful in Adversity]] — Elder Adhemar Damiani, 2005-April *(explicit citation)*
 - [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
 - [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
 - [[Watch Ye Therefore, and Pray Always (President M. Russell Ballard, October 2020)|Watch Ye Therefore, and Pray Always]] — President M. Russell Ballard, 2020-October *(explicit citation)*
 - [[We Never Walk Alone (President Thomas S. Monson, October 2013)|We Never Walk Alone]] — President Thomas S. Monson, 2013-October *(explicit citation)*
-- [[Be of Good Cheer (President Dallin H. Oaks, October 2020)|Be of Good Cheer]] — President Dallin H. Oaks, 2020-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 9–15: “I Am with the Faithful Always”: Doctrine and Covenants 60–63** (lesson) *(explicit citation)*
 - **12 After Much Tribulation** (history) *(explicit citation)*
 - **13 The Gift Has Returned** (history) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*

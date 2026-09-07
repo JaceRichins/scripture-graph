@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 33
 slug: ps-33
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ The chapter connects [[Creation]] with continuing providence: the God whose word
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

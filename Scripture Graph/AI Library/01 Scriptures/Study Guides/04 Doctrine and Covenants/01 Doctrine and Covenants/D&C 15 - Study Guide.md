@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 15
 slug: dc-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,10 +62,12 @@ _Not yet developed._
 - [[The Divine Call of a Missionary (Elder Ronald A. Rasband, April 2010)|The Divine Call of a Missionary]] — Elder Ronald A. Rasband, 2010-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Participate to Prepare for Christ’s Return (Elder Steven D. Shumway, April 2025)|Participate to Prepare for Christ’s Return]] — Elder Steven D. Shumway, 2025-April *(explicit citation)*
+- [[Your Mission Will Change Everything (Elder David F. Evans, April 2006)|Your Mission Will Change Everything]] — Elder David F. Evans, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75** (lesson) *(explicit citation)*
 - **The Knight and Whitmer Families** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

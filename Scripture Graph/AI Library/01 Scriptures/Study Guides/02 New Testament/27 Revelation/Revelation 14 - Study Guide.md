@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 14
 slug: rev-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ The Father's name and the beast's mark create a strong local contrast of identit
 - [[D&C 88]] — 5 parallel verses, e.g. [[Revelation 14#^rev-14-8|Revelation 14:8]] ↔ [[D&C 88#^dc-88-94|D&C 88:94]]
 - [[D&C 35]] — 2 parallel verses, e.g. [[Revelation 14#^rev-14-8|Revelation 14:8]] ↔ [[D&C 35#^dc-35-11|D&C 35:11]]
 - [[Revelation 10]] — 2 parallel verses, e.g. [[Revelation 14#^rev-14-13|Revelation 14:13]] ↔ [[Revelation 10#^rev-10-4|Revelation 10:4]]
-- [[Revelation 19]] — 0 parallel verses
-- [[Revelation 18]] — 0 parallel verses
+- [[Revelation 19]] — 1 parallel verse, e.g. [[Revelation 14#^rev-14-2|Revelation 14:2]] ↔ [[Revelation 19#^rev-19-6|Revelation 19:6]]
+- [[Revelation 18]] — 2 parallel verses, e.g. [[Revelation 14#^rev-14-8|Revelation 14:8]] ↔ [[Revelation 18#^rev-18-3|Revelation 18:3]]
 - [[Daniel 7]] — 0 parallel verses
 - [[Revelation 7]] — 0 parallel verses
 - [[Revelation 13]] — 0 parallel verses

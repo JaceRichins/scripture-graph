@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 4
 slug: abr-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,12 +89,14 @@ Several conclusions require restraint. The plural grammar and explicit counsel a
 - [[Has the Day of Miracles Ceased (Elder Donald L. Hallstrom, October 2017)|Has the Day of Miracles Ceased?]] — Elder Donald L. Hallstrom, 2017-October *(explicit citation)*
 - [[Counsel to Young Men (President Boyd K. Packer, April 2009)|Counsel to Young Men]] — President Boyd K. Packer, 2009-April *(explicit citation)*
 - [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 - [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
 - [[The Plan of Happiness (President Boyd K. Packer, April 2015)|The Plan of Happiness]] — President Boyd K. Packer, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 12–18. “In the Beginning God Created the Heaven and the Earth”: Genesis 1–2; Moses 2–3; Abraham 4–5** (lesson) *(explicit citation)*
 - **Family Councils** (reference-entry) *(explicit citation)*
 - **Religion and Science** (reference-entry) *(explicit citation)*
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*

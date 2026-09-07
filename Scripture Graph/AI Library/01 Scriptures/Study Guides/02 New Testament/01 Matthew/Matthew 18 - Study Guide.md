@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 18
 slug: matt-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,28 +44,28 @@ _Not yet developed._
 - [[Mosiah 3]] — 1 footnote cross-reference (from [[Matthew 18#^matt-18-3|Matthew 18:3]])
 - [[D&C 121]] — 1 footnote cross-reference (from [[Matthew 18#^matt-18-6|Matthew 18:6]])
 - [[Mosiah 28]] — 1 footnote cross-reference (from [[Matthew 18#^matt-18-14|Matthew 18:14]])
+- [[Mark 9]] — 8 parallel verses, e.g. [[Matthew 18#^matt-18-9|Matthew 18:9]] ↔ [[Mark 9#^mark-9-47|Mark 9:47]]
 - [[D&C 128]] — 3 parallel verses, e.g. [[Matthew 18#^matt-18-18|Matthew 18:18]] ↔ [[D&C 128#^dc-128-8|D&C 128:8]]
 - [[D&C 6]] — 2 parallel verses, e.g. [[Matthew 18#^matt-18-20|Matthew 18:20]] ↔ [[D&C 6#^dc-6-32|D&C 6:32]]
+- [[Luke 17]] — 1 parallel verse, e.g. [[Matthew 18#^matt-18-6|Matthew 18:6]] ↔ [[Luke 17#^luke-17-2|Luke 17:2]]
 - [[D&C 124]] — 1 parallel verse, e.g. [[Matthew 18#^matt-18-18|Matthew 18:18]] ↔ [[D&C 124#^dc-124-93|D&C 124:93]]
+- [[Matthew 5]] — 2 parallel verses, e.g. [[Matthew 18#^matt-18-9|Matthew 18:9]] ↔ [[Matthew 5#^matt-5-29|Matthew 5:29]]
+- [[Matthew 16]] — 1 parallel verse, e.g. [[Matthew 18#^matt-18-18|Matthew 18:18]] ↔ [[Matthew 16#^matt-16-19|Matthew 16:19]]
 - [[Helaman 10]] — 1 parallel verse, e.g. [[Matthew 18#^matt-18-18|Matthew 18:18]] ↔ [[Helaman 10#^hel-10-7|Helaman 10:7]]
 - [[Matthew 7]] — 2 parallel verses, e.g. [[Matthew 18#^matt-18-10|Matthew 18:10]] ↔ [[Matthew 7#^matt-7-21|Matthew 7:21]]
 - [[Matthew 12]] — 2 parallel verses, e.g. [[Matthew 18#^matt-18-10|Matthew 18:10]] ↔ [[Matthew 12#^matt-12-50|Matthew 12:50]]
 - [[Luke 19]] — 1 parallel verse, e.g. [[Matthew 18#^matt-18-11|Matthew 18:11]] ↔ [[Luke 19#^luke-19-10|Luke 19:10]]
-- [[Matthew 5]] — 0 parallel verses
 - [[Matthew 16]] — 0 parallel verses
-- [[Genesis 4]] — 0 parallel verses
-- [[Luke 19]] — 0 parallel verses
-- [[D&C 64]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Repentance and Forgiveness]]
-- [[Kingdom of God]]
 - [[D&C 6]]
 - [[D&C 98]]
 - [[D&C 128]]
 - [[Parables of Jesus]]
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -95,13 +95,13 @@ Two cautions are worth stating plainly rather than smoothing over. First, the ch
 - **Abuse** (reference-entry) *(explicit citation)*
 - **Adoption** (reference-entry) *(explicit citation)*
 - **Witness** (reference-entry) *(explicit citation)*
+- **Chapter 23: ‘Of You It Is Required to Forgive’** (teachings) *(explicit citation)*
 - **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Abuse** (reference-entry) *(explicit citation)*
-- **Conversion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

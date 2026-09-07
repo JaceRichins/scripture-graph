@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 2
 slug: 2kgs-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,10 +92,13 @@ The prophetic communities possess genuine advance knowledge yet misunderstand wh
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
 - **Elijah** (reference-entry) *(explicit citation)*
 - **Elisha** (reference-entry) *(explicit citation)*
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
+- **Chapter 15: Living by Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 4
 slug: 1ne-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ Scripture: [[1 Nephi 4]] · My notes: [[1 Nephi 4 - My Notes]]
 - [[1 Nephi 17]] — 0 parallel verses
 - [[Exodus 14]] — 0 parallel verses
 - [[2 Nephi 5]] — 0 parallel verses
+- [[Mosiah 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -98,10 +99,13 @@ The chapter's theological logic is specific rather than abstract: the Lord's com
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: Reading the Old Testament** (lesson) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Canon** (reference-entry) *(explicit citation)*
 - **Church** (reference-entry) *(explicit citation)*
+- **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
+- **Chapter 7: The Scriptures, ‘Great Reservoirs of Spiritual Water’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

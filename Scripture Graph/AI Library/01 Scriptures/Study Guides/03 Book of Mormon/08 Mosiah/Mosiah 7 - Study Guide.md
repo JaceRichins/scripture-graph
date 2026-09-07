@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 7
 slug: mosiah-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,11 +76,11 @@ Scripture: [[Mosiah 7]] · My notes: [[Mosiah 7 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Freedom and Liberty]]
-- [[Exodus and Deliverance]]
 - [[The Godhead]]
 - [[Condescension of God]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -106,6 +106,7 @@ The report of the slain prophet emphasizes the [[Condescension of God]]: Christ 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Prayer** (reference-entry) *(explicit citation)*
+- **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 23
 slug: jer-23
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -103,6 +103,8 @@ The critique of false [[Prophecy]] is also ethical. The false prophets reassure 
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Times and Seasons 1841-01-15 (Vol. 2 No. 6)** (periodical, 1841-01-15) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*
+- **June 8–14. “The Lord Looketh on the Heart”: 1 Samuel 8–10; 13; 15–16** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

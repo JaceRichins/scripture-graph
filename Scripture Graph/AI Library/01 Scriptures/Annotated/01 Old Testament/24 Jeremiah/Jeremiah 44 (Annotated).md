@@ -35,7 +35,7 @@ cssclasses:
 > [[Jeremiah 7#^jer-7-17|≈ Jeremiah 7:17]] · [[Jeremiah 32#^jer-32-44|≈ Jeremiah 32:44]] · [[Jeremiah 33#^jer-33-10|≈ Jeremiah 33:10]] · [[Jeremiah 11#^jer-11-6|≈ Jeremiah 11:6]] · [[2 Kings 23#^2kgs-23-5|≈ 2 Kings 23:5]]
 
 ![[Jeremiah 44#^jer-44-7]]
-> [[Numbers 16#^num-16-38|Num. 16:38]] · [[Jeremiah 24#^jer-24-5|≈ Jeremiah 24:5]] · [[1 Kings 11#^1kgs-11-31|≈ 1 Kings 11:31]] · [[Isaiah 38#^isa-38-5|≈ Isaiah 38:5]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 33#^jer-33-4|≈ Jeremiah 33:4]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]]
+> [[Numbers 16#^num-16-38|Num. 16:38]] · [[1 Kings 11#^1kgs-11-31|≈ 1 Kings 11:31]] · [[Isaiah 38#^isa-38-5|≈ Isaiah 38:5]] · [[Jeremiah 24#^jer-24-5|≈ Jeremiah 24:5]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 33#^jer-33-4|≈ Jeremiah 33:4]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]]
 
 ![[Jeremiah 44#^jer-44-8]]
 > [[2 Kings 22#^2kgs-22-17|2 Kgs. 22:17]] · [[Acts 17#^acts-17-29|Acts 17:29]] · [[3 Nephi 21#^3ne-21-20|3 Ne. 21:20 (20–21)]] · [[Jeremiah 29#^jer-29-18|≈ Jeremiah 29:18]]

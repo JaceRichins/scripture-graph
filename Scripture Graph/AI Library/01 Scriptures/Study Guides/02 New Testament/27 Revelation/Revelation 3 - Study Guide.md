@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 3
 slug: rev-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,11 +51,11 @@ Each of the three letters follows a shared pattern also used for the four church
 - [[D&C 39]] — 1 footnote cross-reference (from [[Revelation 3#^rev-3-3|Revelation 3:3]])
 - [[Luke 21]] — 1 footnote cross-reference (from [[Revelation 3#^rev-3-3|Revelation 3:3]])
 - [[Revelation 16]] — 1 footnote cross-reference (from [[Revelation 3#^rev-3-3|Revelation 3:3]])
+- [[Revelation 2]] — 22 parallel verses, e.g. [[Revelation 3#^rev-3-6|Revelation 3:6]] ↔ [[Revelation 2#^rev-2-7|Revelation 2:7]]
 - [[Revelation 2]] — 0 parallel verses
 - [[Isaiah 22]] — 0 parallel verses
 - [[Revelation 21]] — 0 parallel verses
 - [[Revelation 16]] — 0 parallel verses
-- [[Revelation 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

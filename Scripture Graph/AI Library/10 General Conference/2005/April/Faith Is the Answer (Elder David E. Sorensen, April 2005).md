@@ -1,0 +1,116 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Elder David E. Sorensen
+year: '2005'
+month: April
+url: https://www.churchofjesuschrist.org/general-conference/2005/04/faith-is-the-answer?lang=eng
+doc_id: talk:2005-april-faith-is-the-answer
+full_text: true
+---
+
+# Faith Is the Answer
+
+**Speaker:** Elder David E. Sorensen · **Conference:** April 2005 · [source](https://www.churchofjesuschrist.org/general-conference/2005/04/faith-is-the-answer?lang=eng)
+
+Faith Is the Answer
+
+By Elder David E. Sorensen
+
+Of the Presidency of the Seventy
+
+Remember that faith and obedience are still the answers—even when things go wrong, perhaps especially when things go wrong.
+
+In the early 1950s the United States was at war on the Korean peninsula. Because of the draft policy of the government at that time, young men were not allowed to serve missions but instead were required to join the military. Knowing this, I enrolled in the Army Reserve Officers’ Training Corps when I went to college. My goal was to become an officer like my oldest brother. However, when I made a visit home for the Christmas holiday, my home-ward bishop, Vern Freeman, invited me into his office. He advised me that a young Church leader by the name of Brother Gordon B. Hinckley had negotiated an agreement with the U.S. government permitting each ward in the Church in the United States to call one young man to serve a mission. This young man would receive an automatic deferment from the military during his mission.
+
+Bishop Freeman said he had been praying about it and felt he should recommend me to serve as a full-time missionary representing our ward. I explained to him that I had already made other plans—I had enrolled in the Army ROTC and expected to become an officer! My bishop gently reminded me that he had been prompted to recommend me to serve a mission at that particular time. He said, “Go home and talk to your parents and come back this evening with your answer.”
+
+I went home and told my father and mother what had happened. They said the bishop was inspired, and I should happily accept the Lord’s invitation to serve. My mother could see how disappointed I was at the prospect of not becoming an army officer right away. She quoted:
+
+“Trust in the Lord with all thine heart; and lean not unto thine own understanding.
+
+“In all thy ways acknowledge him, and he shall direct thy paths.”
+
+That night I went back to the bishop’s office and accepted his invitation. He told me to go to the Selective Service Office and advise them of my decision.
+
+When I did so, to my surprise the lady who was chairman of the Selective Service Office told me, “If you accept a mission call, you will receive your draft notice before you can reenter Army ROTC. You will serve as an enlisted man, not as an officer.”
+
+Despite this unexpected change, my mission was wonderful. It changed the course of my life as it does for those who serve. But true to their word, the government sent an induction letter drafting me into the U.S. Army about one month before my mission release.
+
+After boot camp and military police school, I found myself assigned to an army base to work as a military policeman. One night I was given an all-night assignment to escort a convoy of prisoners from one camp to another.
+
+During the night the convoy stopped at a halfway point for a rest. The commanding officer instructed us to go into the restaurant and drink coffee so we could stay awake the rest of the night. Right away he noticed that I declined. He said, “Soldier, you need to drink some coffee to stay awake the rest of this trip. I do not want any prisoners escaping or causing trouble on my watch.”
+
+I said, “Sir, I respectfully decline. I am a Mormon, and I don’t drink coffee.”
+
+He didn’t care for my answer, and he again admonished me to drink the coffee.
+
+Again, I politely refused. I took my place at the rear of the bus, my weapon in hand, praying in my heart that I would stay awake and never have to use it. The trip ended uneventfully.
+
+A few days later the same commanding officer invited me into his office for a private interview. He told me that even though he had worried that I would not be able to stay awake during the all-night trip, he appreciated that I had stood by my convictions. Then to my amazement he said his assistant was being transferred and he was recommending me to be his new assistant!
+
+For most of the next two years I had many opportunities for leadership and managerial assignments. As it turned out, the positive experiences during my military service were more than I had ever dreamed possible.
+
+From this simple story—and many more like it over the course of my life—I have learned that faith and obedience are the answers to our concerns, cares, and suffering. Faith in the Lord Jesus Christ is truly the power that can change our lives and lead us to salvation.
+
+How can we build this faith? Through our actions. We must “go and do the things which the Lord hath commanded,” just as Nephi counseled. We must trust in the Lord with all our hearts, as my mother so lovingly taught me. Gratefully, many times when we exercise faith to do the Lord’s will, we find that we are richly blessed for our obedience.
+
+Sometimes, though, we find that even when we do our best to serve the Lord, we still suffer. You may know someone who faces these most challenging of circumstances. Consider the parent whose child becomes ill, for whom everyone prays and fasts with all their heart and soul, but who ultimately dies; or the missionary who sacrifices to go on a mission, then develops a terrible illness that leaves him or her severely disabled or in chronic pain; or the woman who lives her life as faithfully and obediently as she can but is never able to have the children she hopes for; or the wife who does her very best making a good home for her family and raising her children but whose husband leaves her. The scriptures have many examples of people who were saved after showing great faith, such as Shadrach, Meshach, and Abed-nego in the fiery furnace. But the scriptures also have many examples of devout people who did not get divine intervention during a crisis. Abinadi was burned at the stake; John the Baptist was beheaded; Alma and Amulek’s followers were cast into the flames. To do well does not mean everything will always turn out well. The key is to remember that faith and obedience are still the answers—even when things go wrong, perhaps especially when things go wrong.
+
+Remember the Lord has promised that He will help us as we face adversity. He has particular compassion for those who suffer. It was He who said, “Blessed are they that mourn: for they shall be comforted.”
+
+As part of the Atonement, our Savior suffered all things. He knows physical and emotional pain; He knows the sorrow of loss and betrayal. But He showed us that ultimately love, patience, humility, and obedience are the path to true peace and happiness. Jesus said, “Peace I leave with you, my peace I give unto you.” But then, to warn us to look for more than just worldly comfort, Jesus added, “Not as the world giveth, give I unto you.” The world sees peace as the absence of conflict or pain, but Jesus offers us solace despite our suffering. His life was not free of conflict or pain, but it was free of fear and full of meaning. The Apostle Peter wrote, “If, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God.
+
+“For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps: …
+
+“Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously.”
+
+We who have accepted Jesus Christ as our Savior must rely wholly on the merits of Christ. He will save us after all we can do. When we courageously exercise our faith and when we go forward relying on the merits of Christ, He will bless us and guide us in all of our efforts. He will strengthen us and bring us peace in the time of our trials. “For we walk by faith, not by sight.” I pray that each of us can better learn to put our trust in the Lord and to increase our faith in Him.
+
+Now, brothers and sisters, in closing I wish to mention one other topic. Over the past years I have been blessed to be able to observe President Hinckley closely, and I want to remind you that President Hinckley is not only a living prophet but also a living seer. He sees things that others do not see. He has the gift of discernment; he is an optimist and a realist. I wish to express my gratitude to the Lord for preserving President Hinckley’s life and permitting him and his noble counselors to lead the Church for these past 10 years. Through President Hinckley’s divine guidance, the Church has received many far-reaching blessings, many that are not obvious. I strongly encourage each of you to more closely follow his counsel and guidance, for truly “a seer hath the Lord raised up unto his people.”
+
+Jesus is the Christ. Joseph Smith is the prophet of the Restoration. President Gordon B. Hinckley is our living prophet. In the name of Jesus Christ, amen.
+
+Notes
+
+Proverbs 3:5–6.
+
+1 Nephi 3:7.
+
+Matthew 5:4.
+
+John 14:27.
+
+1 Peter 2:20–21, 23.
+
+2 Corinthians 5:7.
+
+Moses 6:36.
+
+Notes
+{"note1": {"id": "note1", "marker": "1.", "pid": "28828658", "context": "", "text": "
+Proverbs 3:5–6.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/ot/prov/3?lang=eng&id=p5-p6#p5", "text": "Proverbs 3:5–6"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "28828670", "context": "", "text": "
+1 Nephi 3:7.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/bofm/1-ne/3?lang=eng&id=p7#p7", "text": "1 Nephi 3:7"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "28828672", "context": "", "text": "
+Matthew 5:4.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/matt/5?lang=eng&id=p4#p4", "text": "Matthew 5:4"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "28828673", "context": "", "text": "
+John 14:27.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/john/14?lang=eng&id=p27#p27", "text": "John 14:27"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "28828675", "context": "", "text": "
+1 Peter 2:20–21, 23.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/1-pet/2?lang=eng&id=p20-p21%2Cp23#p20", "text": "1 Peter 2:20–21, 23"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "28828676", "context": "", "text": "
+2 Corinthians 5:7.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/nt/2-cor/5?lang=eng&id=p7#p7", "text": "2 Corinthians 5:7"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "28828677", "context": "", "text": "
+Moses 6:36.
+", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/pgp/moses/6?lang=eng&id=p36#p36", "text": "Moses 6:36"}]}}
+
+## Scripture citations in this talk
+
+- [[Proverbs 3]] (3×)
+- [[1 Nephi 3]] (3×)
+- [[Matthew 5]] (3×)
+- [[John 14]] (3×)
+- [[1 Peter 2]] (3×)
+- [[2 Corinthians 5]] (3×)
+- [[Moses 6]] (3×)

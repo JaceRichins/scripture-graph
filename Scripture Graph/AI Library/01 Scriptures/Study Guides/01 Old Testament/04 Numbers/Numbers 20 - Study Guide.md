@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 20
 slug: num-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ The chapter has a loose envelope shape: Miriam's death (v.1) and Aaron's death (
 - [[Exodus 17]] — 0 parallel verses
 - [[Judges 11]] — 0 parallel verses
 - [[Exodus 17]] — 0 parallel verses
+- [[Numbers 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

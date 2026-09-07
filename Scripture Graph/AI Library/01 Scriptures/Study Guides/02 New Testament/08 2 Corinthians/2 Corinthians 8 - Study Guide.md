@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 8
 slug: 2cor-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Exodus 25]] — 1 footnote cross-reference (from [[2 Corinthians 8#^2cor-8-12|2 Corinthians 8:12]])
 - [[Romans 16]] — 2 parallel verses, e.g. [[2 Corinthians 8#^2cor-8-9|2 Corinthians 8:9]] ↔ [[Romans 16#^rom-16-20|Romans 16:20]]
 - [[Exodus 16]] — 1 parallel verse, e.g. [[2 Corinthians 8#^2cor-8-15|2 Corinthians 8:15]] ↔ [[Exodus 16#^ex-16-18|Exodus 16:18]]
+- [[Romans 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -67,6 +68,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Almsgiving** (reference-entry) *(explicit citation)*
+- **Chapter 24: Reflections on the Mission of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

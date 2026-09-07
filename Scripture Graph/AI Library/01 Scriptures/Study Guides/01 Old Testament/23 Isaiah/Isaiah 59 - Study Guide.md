@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 59
 slug: isa-59
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,9 +84,11 @@ Verse 21 presents [[Covenants]] as involving both the Spirit and preserved divin
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66** (lesson) *(explicit citation)*
 - **Breastplate** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
+- **Chapter 1: The Restoration of the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

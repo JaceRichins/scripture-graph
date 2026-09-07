@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 15
 slug: ps-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -43,6 +43,7 @@ _Not yet developed._
 - [[Mosiah 15]] — 1 footnote cross-reference (from [[Psalm 15#^ps-15-1|Psalm 15:1]])
 - [[D&C 76]] — 1 footnote cross-reference (from [[Psalm 15#^ps-15-1|Psalm 15:1]])
 - [[Moses 6]] — 1 footnote cross-reference (from [[Psalm 15#^ps-15-1|Psalm 15:1]])
+- [[Psalm 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -62,7 +63,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 7: Integrity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

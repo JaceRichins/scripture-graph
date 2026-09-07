@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 12
 slug: alma-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,11 +92,11 @@ Alma's discourse makes three central doctrinal contributions. First, revelation 
 - [[Choose You This Day (Elder Dale G. Renlund, October 2018)|Choose You This Day]] — Elder Dale G. Renlund, 2018-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
+- [[The Great Plan of Happiness (Elder Earl C. Tingey, April 2006)|The Great Plan of Happiness]] — Elder Earl C. Tingey, 2006-April *(explicit citation)*
 - [[The Eternal Perspective of the Gospel (Elder Rafael E. Pino, April 2015)|The Eternal Perspective of the Gospel]] — Elder Rafael E. Pino, 2015-April *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
-- [[Spiritually Defining Memories (Elder Neil L. Andersen, April 2020)|Spiritually Defining Memories]] — Elder Neil L. Andersen, 2020-April *(explicit citation)*
-- [[A Living Witness of the Living Christ (Bishop Gérald Caussé, April 2020)|A Living Witness of the Living Christ]] — Bishop Gérald Caussé, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

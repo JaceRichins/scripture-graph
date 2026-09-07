@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 9
 slug: 3ne-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -113,9 +113,9 @@ Scripture: [[3 Nephi 9]] · My notes: [[3 Nephi 9 - My Notes]]
 - **07 Fellow Servants** (history) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 - **Abortion** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
-- **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

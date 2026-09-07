@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 15
 slug: matt-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ Scripture: [[Matthew 15]] · My notes: [[Matthew 15 - My Notes]]
 - [[Jeremiah 12]] — 1 footnote cross-reference (from [[Matthew 15#^matt-15-8|Matthew 15:8]])
 - [[Isaiah 29]] — 1 footnote cross-reference (from [[Matthew 15#^matt-15-8|Matthew 15:8]])
 - [[Mark 7]] — 5 parallel verses, e.g. [[Matthew 15#^matt-15-26|Matthew 15:26]] ↔ [[Mark 7#^mark-7-27|Mark 7:27]]
+- [[Mark 8]] — 5 parallel verses, e.g. [[Matthew 15#^matt-15-37|Matthew 15:37]] ↔ [[Mark 8#^mark-8-8|Mark 8:8]]
 - [[Matthew 14]] — 3 parallel verses, e.g. [[Matthew 15#^matt-15-37|Matthew 15:37]] ↔ [[Matthew 14#^matt-14-20|Matthew 14:20]]
 - [[2 Kings 2]] — 2 parallel verses, e.g. [[Matthew 15#^matt-15-12|Matthew 15:12]] ↔ [[2 Kings 2#^2kgs-2-3|2 Kings 2:3]]
 - [[Mark 6]] — 2 parallel verses, e.g. [[Matthew 15#^matt-15-37|Matthew 15:37]] ↔ [[Mark 6#^mark-6-42|Mark 6:42]]
@@ -63,7 +64,6 @@ Scripture: [[Matthew 15]] · My notes: [[Matthew 15 - My Notes]]
 - [[Mark 8]] — 0 parallel verses
 - [[Matthew 14]] — 0 parallel verses
 - [[3 Nephi 17]] — 0 parallel verses
-- [[Mark 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -89,8 +89,8 @@ The Canaanite narrative contributes to [[Jews and Gentiles]] without removing th
 - [[What Thinks Christ of Me (Elder Neil L. Andersen, April 2012)|What Thinks Christ of Me?]] — Elder Neil L. Andersen, 2012-April *(explicit citation)*
 - [[The Divine Gift of Gratitude (President Thomas S. Monson, October 2010)|The Divine Gift of Gratitude]] — President Thomas S. Monson, 2010-October *(explicit citation)*
 - [[The Tongue of Angels (Elder Jeffrey R. Holland, April 2007)|The Tongue of Angels]] — Elder Jeffrey R. Holland, 2007-April *(explicit citation)*
+- [[Discipleship (President James E. Faust, October 2006)|Discipleship]] — President James E. Faust, 2006-October *(explicit citation)*
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
-- [[To Heal the World (Elder Ronald A. Rasband, April 2022)|To Heal the World]] — Elder Ronald A. Rasband, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -99,6 +99,8 @@ The Canaanite narrative contributes to [[Jews and Gentiles]] without removing th
 - **Corban** (reference-entry) *(explicit citation)*
 - **Dog** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
+- **August 4–10: “Stand Ye in Holy Places”: Doctrine and Covenants 85–87** (lesson) *(explicit citation)*
+- **Chapter 2: The Mission of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 89
 slug: ps-89
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Reverence** (reference-entry) *(explicit citation)*
+- **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
+- **Chapter 4: Elements of Worship** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

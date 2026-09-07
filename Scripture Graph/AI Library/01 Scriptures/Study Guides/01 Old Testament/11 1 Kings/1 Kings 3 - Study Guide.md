@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 3
 slug: 1kgs-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,7 +85,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 22–28. “Hear Thou in Heaven Their Prayer”: 2 Samuel 11–12; 1 Kings 3; 6–9; 11** (lesson) *(explicit citation)*
 - **Egypt** (reference-entry) *(explicit citation)*
+- **May 12–18: “Seek Ye Earnestly the Best Gifts”: Doctrine and Covenants 46–48** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

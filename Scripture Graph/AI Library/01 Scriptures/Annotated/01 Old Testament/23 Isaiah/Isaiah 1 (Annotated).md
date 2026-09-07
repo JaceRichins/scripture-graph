@@ -66,7 +66,7 @@ cssclasses:
 ![[Isaiah 1#^isa-1-19]]
 
 ![[Isaiah 1#^isa-1-20]]
-> [[Isaiah 58#^isa-58-14|≈ Isaiah 58:14]] · [[Isaiah 40#^isa-40-5|≈ Isaiah 40:5]]
+> [[Isaiah 40#^isa-40-5|≈ Isaiah 40:5]] · [[Isaiah 58#^isa-58-14|≈ Isaiah 58:14]]
 
 ![[Isaiah 1#^isa-1-21]]
 

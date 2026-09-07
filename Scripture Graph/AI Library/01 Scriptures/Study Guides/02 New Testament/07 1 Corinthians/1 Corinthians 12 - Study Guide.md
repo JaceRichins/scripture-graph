@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 12
 slug: 1cor-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Moroni 10]] — 0 parallel verses
 - [[D&C 46]] — 0 parallel verses
 - [[Ephesians 4]] — 0 parallel verses
+- [[Romans 12]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -99,8 +100,8 @@ The chapter also resists ranking human worth by visibility. Members that seem fe
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **15 Holy Places** (history) *(explicit citation)*
 - **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
+- **Chapter 4: Strengthened by the Power of the Holy Ghost** (teachings) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Chapter 33: The Spiritual Gifts of Healing, Tongues, Prophecy, and Discerning of Spirits** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

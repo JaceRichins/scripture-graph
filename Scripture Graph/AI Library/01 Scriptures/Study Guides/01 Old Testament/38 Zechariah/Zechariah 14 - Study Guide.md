@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 14
 slug: zech-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,9 +62,9 @@ Scripture: [[Zechariah 14]] · My notes: [[Zechariah 14 - My Notes]]
 - [[2 Nephi 21]] — 3 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[2 Nephi 21#^2ne-21-11|2 Nephi 21:11]]
 - [[Isaiah 24]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Isaiah 24#^isa-24-21|Isaiah 24:21]]
 - [[Joel 3]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Joel 3#^joel-3-18|Joel 3:18]]
+- [[Zechariah 13]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Zechariah 13#^zech-13-4|Zechariah 13:4]]
 - [[2 Nephi 17]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[2 Nephi 17#^2ne-17-18|2 Nephi 17:18]]
 - [[2 Nephi 28]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[2 Nephi 28#^2ne-28-3|2 Nephi 28:3]]
-- [[Isaiah 22]] — 2 parallel verses, e.g. [[Zechariah 14#^zech-14-6|Zechariah 14:6]] ↔ [[Isaiah 22#^isa-22-20|Isaiah 22:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,15 +85,18 @@ The official heading and later Latter-day Saint scripture connect the Mount of O
 <!-- SG:BEGIN conference -->
 - [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
 - [[The Lord Jesus Christ Will Come Again (President Russell M. Nelson, October 2024)|The Lord Jesus Christ Will Come Again]] — President Russell M. Nelson, 2024-October *(explicit citation)*
+- [[Standing in Holy Places (President James E. Faust, April 2005)|Standing in Holy Places]] — President James E. Faust, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Times and Seasons 1841-11-15 (Vol. 3 No. 2)** (periodical, 1841-11-15) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

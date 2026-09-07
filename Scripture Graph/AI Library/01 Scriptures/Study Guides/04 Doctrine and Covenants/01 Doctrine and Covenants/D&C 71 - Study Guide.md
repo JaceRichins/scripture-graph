@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 71
 slug: dc-71
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ The assurances in verses 7–10 are paired with [[Obedience]] and divine timing.
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 30–July 6: “No Weapon That Is Formed against You Shall Prosper”: Doctrine and Covenants 71–75** (lesson) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

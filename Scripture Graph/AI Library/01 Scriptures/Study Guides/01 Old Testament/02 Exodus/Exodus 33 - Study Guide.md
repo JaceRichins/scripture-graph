@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 33
 slug: ex-33
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -79,8 +79,11 @@ The chapter also stages a real tension between divine holiness and human sin: Go
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Cloud** (reference-entry) *(explicit citation)*
+- **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
+- **The Seer 1853-07 (Vol. 1 No. 7)** (history, 1853-07) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

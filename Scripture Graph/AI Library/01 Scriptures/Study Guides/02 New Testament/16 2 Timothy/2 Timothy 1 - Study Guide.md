@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 1
 slug: 2tim-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ Scripture: [[2 Timothy 1]] · My notes: [[2 Timothy 1 - My Notes]]
 - [[Titus 1]] — 1 parallel verse, e.g. [[2 Timothy 1#^2tim-1-2|2 Timothy 1:2]] ↔ [[Titus 1#^titus-1-4|Titus 1:4]]
 - [[1 Timothy 4]] — 0 parallel verses
 - [[2 Timothy 3]] — 0 parallel verses
+- [[1 Timothy 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -91,12 +92,16 @@ Scripture: [[2 Timothy 1]] · My notes: [[2 Timothy 1 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 2: The Everlasting Gospel** (teachings) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Ephesus** (reference-entry) *(explicit citation)*
 - **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
 - **Chapter 7: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
 - **Chapter 30: Valiant in the Cause of Christ** (teachings) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
+- **Chapter 23: Eternal Truth** (teachings) *(explicit citation)*
+- **Chapter 8: Understanding Death and Resurrection** (teachings) *(explicit citation)*
+- **Chapter 14: How to Share the Gospel Effectively** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

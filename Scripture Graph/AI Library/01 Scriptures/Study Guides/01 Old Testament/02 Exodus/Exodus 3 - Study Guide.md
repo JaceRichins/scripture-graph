@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 3
 slug: ex-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -98,9 +98,13 @@ The chapter presents [[Revelation]] as disclosure for a mission: God reveals who
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 23–29. “I Have Remembered My Covenant”: Exodus 1–6** (lesson) *(explicit citation)*
+- **May 11–17. “Beware Lest Thou Forget the Lord”: Deuteronomy 6–8; 15; 18; 29–30; 34** (lesson) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Burning bush** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
+- **Chapter 11: ‘I Seek Not Mine Own Will, but the Will of the Father’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

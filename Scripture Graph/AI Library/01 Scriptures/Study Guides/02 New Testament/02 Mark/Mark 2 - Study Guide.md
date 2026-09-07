@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 2
 slug: mark-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -48,19 +48,21 @@ Scripture: [[Mark 2]] · My notes: [[Mark 2 - My Notes]]
 - [[Alma 15]] — 1 footnote cross-reference (from [[Mark 2#^mark-2-11|Mark 2:11]])
 - [[3 Nephi 9]] — 1 footnote cross-reference (from [[Mark 2#^mark-2-11|Mark 2:11]])
 - [[3 Nephi 7]] — 1 footnote cross-reference (from [[Mark 2#^mark-2-11|Mark 2:11]])
+- [[Luke 5]] — 13 parallel verses, e.g. [[Mark 2#^mark-2-20|Mark 2:20]] ↔ [[Luke 5#^luke-5-35|Luke 5:35]]
+- [[Matthew 9]] — 10 parallel verses, e.g. [[Mark 2#^mark-2-10|Mark 2:10]] ↔ [[Matthew 9#^matt-9-6|Matthew 9:6]]
+- [[Luke 6]] — 3 parallel verses, e.g. [[Mark 2#^mark-2-26|Mark 2:26]] ↔ [[Luke 6#^luke-6-4|Luke 6:4]]
+- [[Matthew 12]] — 2 parallel verses, e.g. [[Mark 2#^mark-2-25|Mark 2:25]] ↔ [[Matthew 12#^matt-12-3|Matthew 12:3]]
 - [[Moroni 8]] — 1 parallel verse, e.g. [[Mark 2#^mark-2-17|Mark 2:17]] ↔ [[Moroni 8#^moro-8-8|Moroni 8:8]]
-- [[Matthew 12]] — 0 parallel verses
 - [[Matthew 9]] — 0 parallel verses
-- [[Luke 5]] — 0 parallel verses
-- [[Luke 6]] — 0 parallel verses
+- [[Moroni 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Sabbath Day]]
-- [[Repentance and Forgiveness]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Law of Moses]]
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -94,6 +96,7 @@ The chapter connects to [[Repentance and Forgiveness]], [[Faith]], [[Miracles]],
 - **Bottles** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

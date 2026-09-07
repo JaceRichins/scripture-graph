@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 22
 slug: isa-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
 - **Chariot** (reference-entry) *(explicit citation)*
 - **Elam** (reference-entry) *(explicit citation)*

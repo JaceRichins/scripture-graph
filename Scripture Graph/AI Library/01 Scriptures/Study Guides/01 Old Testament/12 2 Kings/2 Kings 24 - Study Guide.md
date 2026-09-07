@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 24
 slug: 2kgs-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,8 +94,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 - **Captivities of the Israelites** (reference-entry) *(explicit citation)*
+- **November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

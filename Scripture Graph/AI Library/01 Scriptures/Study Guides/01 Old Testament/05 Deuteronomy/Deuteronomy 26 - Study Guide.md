@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 26
 slug: deut-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -78,12 +78,15 @@ Covenant identity is likewise paired with covenant conduct. Verses 17–19 combi
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
+- [[You Have a Noble Birthright (Julie B. Beck, April 2006)|You Have a Noble Birthright]] — Julie B. Beck, 2006-April *(explicit citation)*
 - [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
+- [[Tithing—a Commandment Even for the Destitute (Elder Lynn G. Robbins, April 2005)|Tithing—a Commandment Even for the Destitute]] — Elder Lynn G. Robbins, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Firstfruits** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Covenant** (lesson) *(explicit citation)*
 - **Times and Seasons 1843-06-15 (Vol. 4 No. 15)** (periodical, 1843-06-15) *(explicit citation)*
 <!-- SG:END history -->
 

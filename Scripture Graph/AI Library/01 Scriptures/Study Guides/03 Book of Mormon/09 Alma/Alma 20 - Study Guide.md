@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 20
 slug: alma-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,7 +91,8 @@ The chapter presents [[Revelation]] as guidance that changes an intended journey
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 14: How to Share the Gospel Effectively** (teachings) *(explicit citation)*
+- **Chapter 21: The Power of Kindness** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

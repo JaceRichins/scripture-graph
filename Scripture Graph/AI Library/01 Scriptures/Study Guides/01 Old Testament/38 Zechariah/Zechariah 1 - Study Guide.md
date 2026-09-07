@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 1
 slug: zech-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14** (lesson) *(explicit citation)*
 - **Darius** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->

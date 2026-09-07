@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 10
 slug: matt-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,18 +56,18 @@ A cautious outline is:
 - [[D&C 24]] — 3 footnote cross-references (from [[Matthew 10#^matt-10-9|Matthew 10:9]])
 - [[Mark 13]] — 2 footnote cross-references (from [[Matthew 10#^matt-10-19|Matthew 10:19]])
 - [[Luke 21]] — 2 footnote cross-references (from [[Matthew 10#^matt-10-19|Matthew 10:19]])
+- [[Mark 13]] — 5 parallel verses, e.g. [[Matthew 10#^matt-10-22|Matthew 10:22]] ↔ [[Mark 13#^mark-13-13|Mark 13:13]]
+- [[Luke 12]] — 4 parallel verses, e.g. [[Matthew 10#^matt-10-26|Matthew 10:26]] ↔ [[Luke 12#^luke-12-2|Luke 12:2]]
+- [[Mark 6]] — 2 parallel verses, e.g. [[Matthew 10#^matt-10-15|Matthew 10:15]] ↔ [[Mark 6#^mark-6-11|Mark 6:11]]
+- [[Matthew 11]] — 2 parallel verses, e.g. [[Matthew 10#^matt-10-15|Matthew 10:15]] ↔ [[Matthew 11#^matt-11-24|Matthew 11:24]]
+- [[Matthew 4]] — 3 parallel verses, e.g. [[Matthew 10#^matt-10-2|Matthew 10:2]] ↔ [[Matthew 4#^matt-4-21|Matthew 4:21]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[Matthew 10#^matt-10-15|Matthew 10:15]] ↔ [[D&C 75#^dc-75-22|D&C 75:22]]
+- [[Luke 21]] — 1 parallel verse, e.g. [[Matthew 10#^matt-10-22|Matthew 10:22]] ↔ [[Luke 21#^luke-21-17|Luke 21:17]]
 - [[John 13]] — 1 parallel verse, e.g. [[Matthew 10#^matt-10-40|Matthew 10:40]] ↔ [[John 13#^john-13-20|John 13:20]]
+- [[Matthew 16]] — 1 parallel verse, e.g. [[Matthew 10#^matt-10-39|Matthew 10:39]] ↔ [[Matthew 16#^matt-16-25|Matthew 16:25]]
+- [[Micah 7]] — 1 parallel verse, e.g. [[Matthew 10#^matt-10-35|Matthew 10:35]] ↔ [[Micah 7#^micah-7-6|Micah 7:6]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[Matthew 10#^matt-10-2|Matthew 10:2]] ↔ [[Mark 1#^mark-1-19|Mark 1:19]]
 - [[Alma 9]] — 1 parallel verse, e.g. [[Matthew 10#^matt-10-15|Matthew 10:15]] ↔ [[Alma 9#^alma-9-15|Alma 9:15]]
-- [[Micah 7]] — 0 parallel verses
-- [[Matthew 4]] — 0 parallel verses
-- [[Matthew 11]] — 0 parallel verses
-- [[Matthew 16]] — 0 parallel verses
-- [[John 13]] — 0 parallel verses
-- [[D&C 100]] — 0 parallel verses
-- [[D&C 103]] — 0 parallel verses
-- [[D&C 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

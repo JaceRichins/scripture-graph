@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 32
 slug: gen-32
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,8 @@ The chapter also resists a simplistic equation of blessing with ease. Jacob emer
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 2–8. “Let God Prevail”: Genesis 24–33** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: The House of Israel** (lesson) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*

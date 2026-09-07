@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 7
 slug: 1sam-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ Samuel's intercession is central, but the text does not depict it as a technique
 - **Ebenezer** (reference-entry) *(explicit citation)*
 - **Eleazar** (reference-entry) *(explicit citation)*
 - **Gath** (reference-entry) *(explicit citation)*
+- **June 1–7. “My Heart Rejoiceth in the Lord”: Ruth; 1 Samuel 1–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

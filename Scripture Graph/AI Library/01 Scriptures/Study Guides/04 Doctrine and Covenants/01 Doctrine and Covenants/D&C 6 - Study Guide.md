@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 6
 slug: dc-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,8 +61,8 @@ _Not yet developed._
 - [[Matthew 18]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-32|D&C 6:32]] ↔ [[Matthew 18#^matt-18-20|Matthew 18:20]]
 - [[D&C 39]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 39#^dc-39-2|D&C 39:2]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 45#^dc-45-8|D&C 45:8]]
-- [[D&C 4]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 4#^dc-4-4|D&C 4:4]]
 - [[2 Corinthians 13]] — 1 parallel verse, e.g. [[D&C 6#^dc-6-28|D&C 6:28]] ↔ [[2 Corinthians 13#^2cor-13-1|2 Corinthians 13:1]]
+- [[D&C 4]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-3|D&C 6:3]] ↔ [[D&C 4#^dc-4-4|D&C 4:4]]
 - [[D&C 34]] — 1 parallel verse, e.g. [[D&C 6#^dc-6-21|D&C 6:21]] ↔ [[D&C 34#^dc-34-2|D&C 34:2]]
 - [[Moroni 10]] — 2 parallel verses, e.g. [[D&C 6#^dc-6-13|D&C 6:13]] ↔ [[Moroni 10#^moro-10-21|Moroni 10:21]]
 <!-- SG:END related-scriptures -->
@@ -105,6 +105,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 3–9: “This Is the Spirit of Revelation”: Doctrine and Covenants 6–9** (lesson) *(explicit citation)*
 - **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Oliver Cowdery’s Gift** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
@@ -113,8 +114,7 @@ _Not yet developed._
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Witness** (reference-entry) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
-- **Holy Ghost** (reference-entry) *(explicit citation)*
+- **June 1–7. “My Heart Rejoiceth in the Lord”: Ruth; 1 Samuel 1–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

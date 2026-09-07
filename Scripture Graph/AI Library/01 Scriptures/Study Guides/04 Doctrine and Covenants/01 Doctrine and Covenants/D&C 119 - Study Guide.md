@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 119
 slug: dc-119
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 - [[Tithing Opening the Windows of Heaven (Elder Neil L. Andersen, October 2023)|Tithing: Opening the Windows of Heaven]] — Elder Neil L. Andersen, 2023-October *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 - [[Will a Man Rob God (Elder Yoshihiko Kikuchi, April 2007)|Will a Man Rob God?]] — Elder Yoshihiko Kikuchi, 2007-April *(explicit citation)*
+- [[The Law of Tithing (Elder Daniel L. Johnson, October 2006)|The Law of Tithing]] — Elder Daniel L. Johnson, 2006-October *(explicit citation)*
 - [[Becoming Provident Providers Temporally and Spiritually (Elder Robert D. Hales, April 2009)|Becoming Provident Providers Temporally and Spiritually]] — Elder Robert D. Hales, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -72,11 +73,12 @@ _Not yet developed._
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
+- **October 13–19: “His Sacrifice Shall Be More Sacred unto Me Than His Increase”: Doctrine and Covenants 115–120** (lesson) *(explicit citation)*
+- **Chapter 19: Temporal Blessings and the Law of Tithing** (teachings) *(explicit citation)*
 - **Chapter 22: Tithing and Consecration** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
-- **Introduction** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 15
 slug: mark-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,11 +51,13 @@ _Not yet developed._
 - [[Psalm 22]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-24|Mark 15:24]])
 - [[Psalm 69]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-36|Mark 15:36]])
 - [[Matthew 27]] — 14 parallel verses, e.g. [[Mark 15#^mark-15-34|Mark 15:34]] ↔ [[Matthew 27#^matt-27-46|Matthew 27:46]]
-- [[John 18]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-9|Mark 15:9]] ↔ [[John 18#^john-18-39|John 18:39]]
 - [[Luke 23]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-38|Mark 15:38]] ↔ [[Luke 23#^luke-23-45|Luke 23:45]]
+- [[John 18]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-9|Mark 15:9]] ↔ [[John 18#^john-18-39|John 18:39]]
 - [[Mark 16]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-40|Mark 15:40]] ↔ [[Mark 16#^mark-16-1|Mark 16:1]]
 - [[Psalm 22]] — 1 parallel verse, e.g. [[Mark 15#^mark-15-34|Mark 15:34]] ↔ [[Psalm 22#^ps-22-1|Psalm 22:1]]
 - [[John 19]] — 0 parallel verses
+- [[Mark 16]] — 0 parallel verses
+- [[Matthew 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -92,6 +94,8 @@ _Not yet developed._
 - **Eli** (reference-entry) *(explicit citation)*
 - **Elijah** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
+- **November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

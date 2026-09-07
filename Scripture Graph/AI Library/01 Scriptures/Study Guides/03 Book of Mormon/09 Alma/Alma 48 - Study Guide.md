@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 48
 slug: alma-48
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,9 +93,9 @@ Helaman and his brethren's preaching and baptism 'unto repentance' are explicitl
 - [[Faith A Bond of Trust and Loyalty (Elder Sandino Roman, April 2025)|Faith: A Bond of Trust and Loyalty]] — Elder Sandino Roman, 2025-April *(explicit citation)*
 - [[Love Her Mother (Elaine S. Dalton, October 2011)|Love Her Mother]] — Elaine S. Dalton, 2011-October *(explicit citation)*
 - [[Finding Strength in Challenging Times! (Elder Allan F. Packer, April 2009)|Finding Strength in Challenging Times!]] — Elder Allan F. Packer, 2009-April *(explicit citation)*
+- [[Instruments of the Lord’s Peace (Elder Robert S. Wood, April 2006)|Instruments of the Lord’s Peace]] — Elder Robert S. Wood, 2006-April *(explicit citation)*
 - [[In the Path of Their Duty (Elder David A. Bednar, October 2023)|In the Path of Their Duty]] — Elder David A. Bednar, 2023-October *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
-- [[Truly Good and without Guile (Elder Michael T. Ringwood, April 2015)|Truly Good and without Guile]] — Elder Michael T. Ringwood, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -103,6 +103,7 @@ Helaman and his brethren's preaching and baptism 'unto repentance' are explicitl
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
+- **Chapter 8: ‘Search Me, O God, and Know My Heart’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

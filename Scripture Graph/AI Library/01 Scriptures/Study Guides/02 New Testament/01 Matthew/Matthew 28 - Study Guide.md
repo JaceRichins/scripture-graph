@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 28
 slug: matt-28
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,11 +55,12 @@ Scripture: [[Matthew 28]] · My notes: [[Matthew 28 - My Notes]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[3 Nephi 11#^3ne-11-25|3 Nephi 11:25]]
 - [[D&C 68]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[D&C 68#^dc-68-8|D&C 68:8]]
 - [[2 Nephi 31]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-19|Matthew 28:19]] ↔ [[2 Nephi 31#^2ne-31-21|2 Nephi 31:21]]
+- [[Mark 16]] — 1 parallel verse, e.g. [[Matthew 28#^matt-28-7|Matthew 28:7]] ↔ [[Mark 16#^mark-16-7|Mark 16:7]]
 - [[3 Nephi 11]] — 0 parallel verses
 - [[D&C 20]] — 0 parallel verses
 - [[Moses 7]] — 0 parallel verses
 - [[John 20]] — 0 parallel verses
-- [[Mark 16]] — 0 parallel verses
+- [[Matthew 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

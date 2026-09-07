@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 22
 slug: 3ne-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ The security promised in vv.15-17 is often overread as guaranteeing personal phy
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[All Thy Children Shall Be Taught (Coleen K. Menlove, April 2005)|All Thy Children Shall Be Taught]] — Coleen K. Menlove, 2005-April *(explicit citation)*
 - [[Behold Thy Mother (Elder Jeffrey R. Holland, October 2015)|Behold Thy Mother]] — Elder Jeffrey R. Holland, 2015-October *(explicit citation)*
 - [[Not as the World Giveth (Elder Jeffrey R. Holland, April 2021)|Not as the World Giveth]] — Elder Jeffrey R. Holland, 2021-April *(explicit citation)*
 - [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
@@ -84,7 +85,6 @@ The security promised in vv.15-17 is often overread as guaranteeing personal phy
 - [[Nourish the Roots, and the Branches Will Grow (Elder Dieter F. Uchtdorf, October 2024)|Nourish the Roots, and the Branches Will Grow]] — Elder Dieter F. Uchtdorf, 2024-October *(explicit citation)*
 - [[Adorned with the Virtue of Temperance (Elder Ulisses Soares, October 2025)|Adorned with the Virtue of Temperance]] — Elder Ulisses Soares, 2025-October *(explicit citation)*
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
-- [[Being Temperate in All Things (Elder Kent D. Watson, October 2009)|Being Temperate in All Things]] — Elder Kent D. Watson, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

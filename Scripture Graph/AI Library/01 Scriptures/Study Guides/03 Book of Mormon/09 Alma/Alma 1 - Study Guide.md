@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 1
 slug: alma-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ The treatment of wealth is similarly qualified. Abundance is praised only alongs
 - **Teaching the Gospel** (reference-entry) *(explicit citation)*
 - **Antichrist** (reference-entry) *(explicit citation)*
 - **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
+- **Chapter 13: Relief Society: True Charity and Pure Religion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

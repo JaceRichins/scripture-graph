@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 12
 slug: heb-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,8 @@ Scripture: [[Hebrews 12]] · My notes: [[Hebrews 12 - My Notes]]
 - [[Genesis 4]] — 0 parallel verses
 - [[Hebrews 13]] — 0 parallel verses
 - [[Isaiah 35]] — 0 parallel verses
+- [[Proverbs 3]] — 0 parallel verses
+- [[Moroni 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -87,13 +89,13 @@ Verses 22-24 portray a heavenly assembly that includes angels, the church of the
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
 - [[The Race of Life (President Thomas S. Monson, April 2012)|The Race of Life]] — President Thomas S. Monson, 2012-April *(explicit citation)*
+- [[To Look, Reach, and Come unto Christ (Anne C. Pingree, October 2006)|To Look, Reach, and Come unto Christ]] — Anne C. Pingree, 2006-October *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
 - [[Hold on Thy Way (Elder Koichi Aoyagi, October 2015)|Hold on Thy Way]] — Elder Koichi Aoyagi, 2015-October *(explicit citation)*
 - [[A Child’s Guiding Gift (Mary R. Durham, April 2016)|A Child’s Guiding Gift]] — Mary R. Durham, 2016-April *(explicit citation)*
 - [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
 - [[Fathers (Elder D. Todd Christofferson, April 2016)|Fathers]] — Elder D. Todd Christofferson, 2016-April *(explicit citation)*
-- [[Then Jesus Beholding Him Loved Him (Elder S. Mark Palmer, April 2017)|Then Jesus Beholding Him Loved Him]] — Elder S. Mark Palmer, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

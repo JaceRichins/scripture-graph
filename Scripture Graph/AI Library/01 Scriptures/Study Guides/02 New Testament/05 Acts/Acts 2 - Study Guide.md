@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 2
 slug: acts-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -107,10 +107,10 @@ Verses 42-47 associate conversion with continuing in apostolic teaching, fellows
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
 - **Chapter 7: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
-- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Premortal Life** (reference-entry) *(explicit citation)*
-- **Salvation** (reference-entry) *(explicit citation)*
+- **Chapter 17: Revelation through the Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 7: The Atonement of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 2: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 13: The Sacred Importance of Temples** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

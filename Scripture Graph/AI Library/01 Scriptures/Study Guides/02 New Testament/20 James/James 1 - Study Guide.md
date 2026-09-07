@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 1
 slug: james-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,13 +82,13 @@ Within Latter-day Saint reception, James 1:5 is directly connected with the [[Fi
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
+- [[Strengthen Thy Brethren (Elder Robert J. Whetten, April 2005)|Strengthen Thy Brethren]] — Elder Robert J. Whetten, 2005-April *(explicit citation)*
 - [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
 - [[Firm and Steadfast in the Faith of Christ (Elder D. Todd Christofferson, October 2018)|Firm and Steadfast in the Faith of Christ]] — Elder D. Todd Christofferson, 2018-October *(explicit citation)*
 - [[If Ye Lack Wisdom (Elder Marcos A. Aidukaitis, April 2014)|If Ye Lack Wisdom]] — Elder Marcos A. Aidukaitis, 2014-April *(explicit citation)*
 - [[The Prophet Joseph Smith (Elder Lawrence E. Corbridge, April 2014)|The Prophet Joseph Smith]] — Elder Lawrence E. Corbridge, 2014-April *(explicit citation)*
 - [[Refuge from the Storm (Elder Patrick Kearon, April 2016)|Refuge from the Storm]] — Elder Patrick Kearon, 2016-April *(explicit citation)*
 - [[“A Choice Seer Will I Raise Up” (Elder Craig C. Christensen, October 2016)|“A Choice Seer Will I Raise Up”]] — Elder Craig C. Christensen, 2016-October *(explicit citation)*
-- [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 87
 slug: ps-87
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

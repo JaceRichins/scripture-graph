@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 146
 slug: ps-146
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

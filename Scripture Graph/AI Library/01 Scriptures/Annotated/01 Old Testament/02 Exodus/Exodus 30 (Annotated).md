@@ -65,7 +65,7 @@ cssclasses:
 ![[Exodus 30#^ex-30-17]]
 
 ![[Exodus 30#^ex-30-18]]
-> [[Leviticus 16#^lev-16-20|≈ Leviticus 16:20]] · [[Exodus 40#^ex-40-7|≈ Exodus 40:7]] · [[Exodus 40#^ex-40-30|≈ Exodus 40:30]] · [[Exodus 29#^ex-29-44|≈ Exodus 29:44]]
+> [[Exodus 40#^ex-40-7|≈ Exodus 40:7]] · [[Exodus 40#^ex-40-30|≈ Exodus 40:30]] · [[Leviticus 16#^lev-16-20|≈ Leviticus 16:20]] · [[Exodus 29#^ex-29-44|≈ Exodus 29:44]]
 
 ![[Exodus 30#^ex-30-19]]
 
@@ -81,7 +81,7 @@ cssclasses:
 > [[Exodus 35#^ex-35-28|Ex. 35:28]]
 
 ![[Exodus 30#^ex-30-24]]
-> [[Exodus 38#^ex-38-24|≈ Exodus 38:24]] · [[Exodus 38#^ex-38-25|≈ Exodus 38:25]] · [[Numbers 18#^num-18-16|≈ Numbers 18:16]] · [[Numbers 7#^num-7-85|≈ Numbers 7:85]] · [[Numbers 7#^num-7-13|≈ Numbers 7:13]] · [[Numbers 7#^num-7-19|≈ Numbers 7:19]]
+> [[Numbers 18#^num-18-16|≈ Numbers 18:16]] · [[Exodus 38#^ex-38-24|≈ Exodus 38:24]] · [[Exodus 38#^ex-38-25|≈ Exodus 38:25]] · [[Numbers 7#^num-7-85|≈ Numbers 7:85]] · [[Numbers 7#^num-7-13|≈ Numbers 7:13]] · [[Numbers 7#^num-7-19|≈ Numbers 7:19]]
 
 ![[Exodus 30#^ex-30-25]]
 > [[Exodus 31#^ex-31-11|Ex. 31:11]] · [[Exodus 35#^ex-35-15|35:15]] · [[1 Kings 1#^1kgs-1-39|1 Kgs. 1:39]]

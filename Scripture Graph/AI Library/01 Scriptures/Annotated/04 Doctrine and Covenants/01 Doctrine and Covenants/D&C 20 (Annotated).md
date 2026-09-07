@@ -97,7 +97,7 @@ cssclasses:
 > [[John 17#^john-17-20|John 17:20–22]] · [[Alma 11#^alma-11-44|Alma 11:44]] · [[3 Nephi 11#^3ne-11-27|3 Ne. 11:27 (27–28, 36)]] · [[3 Nephi 28#^3ne-28-10|28:10]] · [[Mormon 7#^morm-7-7|Morm. 7:7]]
 
 ![[D&C 20#^dc-20-29]]
-> [[1 John 3#^1jn-3-19|1 Jn. 3:23 (19–24)]] · [[Moroni 3#^moro-3-3|≈ Moroni 3:3]] · [[Moroni 8#^moro-8-3|≈ Moroni 8:3]] · [[Moroni 10#^moro-10-26|≈ Moroni 10:26]] · [[Moroni 10#^moro-10-21|≈ Moroni 10:21]] · [[D&C 18#^dc-18-46|≈ D&C 18:46]] · [[2 Nephi 28#^2ne-28-8|≈ 2 Nephi 28:8]]
+> [[1 John 3#^1jn-3-19|1 Jn. 3:23 (19–24)]] · [[Moroni 3#^moro-3-3|≈ Moroni 3:3]] · [[Moroni 8#^moro-8-3|≈ Moroni 8:3]] · [[Moroni 10#^moro-10-26|≈ Moroni 10:26]] · [[Moroni 10#^moro-10-21|≈ Moroni 10:21]] · [[2 Nephi 28#^2ne-28-8|≈ 2 Nephi 28:8]] · [[D&C 18#^dc-18-46|≈ D&C 18:46]]
 
 ![[D&C 20#^dc-20-30]]
 > [[Romans 3#^rom-3-24|Rom. 3:24]] · [[Ephesians 2#^eph-2-8|Eph. 2:8 (8–9)]] · [[D&C 138#^dc-138-60|≈ D&C 138:60]]

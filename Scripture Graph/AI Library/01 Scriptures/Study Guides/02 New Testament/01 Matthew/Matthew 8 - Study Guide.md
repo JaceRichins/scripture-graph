@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 8
 slug: matt-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,18 +57,18 @@ Repeated commands and responses make authority a useful organizing theme, while 
 - [[Acts 10]] — 1 footnote cross-reference (from [[Matthew 8#^matt-8-11|Matthew 8:11]])
 - [[2 Nephi 10]] — 1 footnote cross-reference (from [[Matthew 8#^matt-8-11|Matthew 8:11]])
 - [[D&C 45]] — 1 footnote cross-reference (from [[Matthew 8#^matt-8-11|Matthew 8:11]])
+- [[Luke 7]] — 3 parallel verses, e.g. [[Matthew 8#^matt-8-9|Matthew 8:9]] ↔ [[Luke 7#^luke-7-8|Luke 7:8]]
+- [[Luke 5]] — 3 parallel verses, e.g. [[Matthew 8#^matt-8-3|Matthew 8:3]] ↔ [[Luke 5#^luke-5-13|Luke 5:13]]
+- [[Mark 1]] — 4 parallel verses, e.g. [[Matthew 8#^matt-8-4|Matthew 8:4]] ↔ [[Mark 1#^mark-1-44|Mark 1:44]]
+- [[Luke 9]] — 3 parallel verses, e.g. [[Matthew 8#^matt-8-20|Matthew 8:20]] ↔ [[Luke 9#^luke-9-58|Luke 9:58]]
+- [[Luke 8]] — 3 parallel verses, e.g. [[Matthew 8#^matt-8-29|Matthew 8:29]] ↔ [[Luke 8#^luke-8-28|Luke 8:28]]
+- [[Mark 4]] — 2 parallel verses, e.g. [[Matthew 8#^matt-8-27|Matthew 8:27]] ↔ [[Mark 4#^mark-4-41|Mark 4:41]]
+- [[Matthew 2]] — 2 parallel verses, e.g. [[Matthew 8#^matt-8-17|Matthew 8:17]] ↔ [[Matthew 2#^matt-2-23|Matthew 2:23]]
 - [[Matthew 4]] — 1 parallel verse, e.g. [[Matthew 8#^matt-8-17|Matthew 8:17]] ↔ [[Matthew 4#^matt-4-14|Matthew 4:14]]
 - [[Matthew 12]] — 1 parallel verse, e.g. [[Matthew 8#^matt-8-17|Matthew 8:17]] ↔ [[Matthew 12#^matt-12-17|Matthew 12:17]]
+- [[Mark 5]] — 2 parallel verses, e.g. [[Matthew 8#^matt-8-32|Matthew 8:32]] ↔ [[Mark 5#^mark-5-13|Mark 5:13]]
 - [[Alma 40]] — 1 parallel verse, e.g. [[Matthew 8#^matt-8-12|Matthew 8:12]] ↔ [[Alma 40#^alma-40-13|Alma 40:13]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Matthew 8#^matt-8-12|Matthew 8:12]] ↔ [[Matthew 22#^matt-22-13|Matthew 22:13]]
-- [[Matthew 13]] — 1 parallel verse, e.g. [[Matthew 8#^matt-8-17|Matthew 8:17]] ↔ [[Matthew 13#^matt-13-35|Matthew 13:35]]
-- [[Matthew 21]] — 1 parallel verse, e.g. [[Matthew 8#^matt-8-17|Matthew 8:17]] ↔ [[Matthew 21#^matt-21-4|Matthew 21:4]]
-- [[Matthew 27]] — 1 parallel verse, e.g. [[Matthew 8#^matt-8-17|Matthew 8:17]] ↔ [[Matthew 27#^matt-27-35|Matthew 27:35]]
-- [[Mark 5]] — 0 parallel verses
-- [[Mark 1]] — 0 parallel verses
-- [[Luke 7]] — 0 parallel verses
-- [[Luke 9]] — 0 parallel verses
-- [[Mark 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -111,6 +111,7 @@ Jesus directs the cleansed man to complete the procedure commanded by Moses, con
 - **Gadara** (reference-entry) *(explicit citation)*
 - **Gergesenes** (reference-entry) *(explicit citation)*
 - **Life of Heber C. Kimball** (history, 1888) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

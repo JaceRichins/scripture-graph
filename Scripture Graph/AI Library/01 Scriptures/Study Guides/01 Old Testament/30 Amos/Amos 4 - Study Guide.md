@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 4
 slug: amos-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,7 +83,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Thoughts to Keep in Mind: Reading Poetry in the Old Testament** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

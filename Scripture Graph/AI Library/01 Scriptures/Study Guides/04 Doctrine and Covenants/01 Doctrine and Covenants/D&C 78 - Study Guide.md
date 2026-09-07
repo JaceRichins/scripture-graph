@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 78
 slug: dc-78
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ The closing verses (17-22) hold gift and responsibility together: the Saints are
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 14–20: “I Will Lead You Along”: Doctrine and Covenants 77–80** (lesson) *(explicit citation)*
 - **Newel K. Whitney and the United Firm** (history) *(explicit citation)*
 - **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
@@ -104,7 +105,6 @@ The closing verses (17-22) hold gift and responsibility together: the Saints are
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Gratitude** (reference-entry) *(explicit citation)*
-- **Chapter 31: Thrift, Industry, and Self-Reliance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

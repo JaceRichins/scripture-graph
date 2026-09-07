@@ -96,7 +96,7 @@ cssclasses:
 ![[Jeremiah 32#^jer-32-31]]
 
 ![[Jeremiah 32#^jer-32-32]]
-> [[Jeremiah 35#^jer-35-13|≈ Jeremiah 35:13]] · [[Jeremiah 17#^jer-17-25|≈ Jeremiah 17:25]] · [[Jeremiah 11#^jer-11-17|≈ Jeremiah 11:17]] · [[2 Chronicles 34#^2chr-34-30|≈ 2 Chronicles 34:30]]
+> [[Jeremiah 35#^jer-35-13|≈ Jeremiah 35:13]] · [[Jeremiah 11#^jer-11-17|≈ Jeremiah 11:17]] · [[2 Chronicles 34#^2chr-34-30|≈ 2 Chronicles 34:30]] · [[Jeremiah 17#^jer-17-25|≈ Jeremiah 17:25]]
 
 ![[Jeremiah 32#^jer-32-33]]
 > [[Jeremiah 2#^jer-2-27|Jer. 2:27]] · [[Ezekiel 8#^ezek-8-16|Ezek. 8:16]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 12
 slug: matt-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,27 +55,27 @@ The phrase 'greater than' recurs three times (v6, v41, v42), applied to the temp
 - [[1 Samuel 21]] — 1 footnote cross-reference (from [[Matthew 12#^matt-12-3|Matthew 12:3]])
 - [[Numbers 28]] — 1 footnote cross-reference (from [[Matthew 12#^matt-12-5|Matthew 12:5]])
 - [[Hosea 6]] — 1 footnote cross-reference (from [[Matthew 12#^matt-12-7|Matthew 12:7]])
+- [[Luke 11]] — 9 parallel verses, e.g. [[Matthew 12#^matt-12-42|Matthew 12:42]] ↔ [[Luke 11#^luke-11-31|Luke 11:31]]
 - [[Mark 3]] — 7 parallel verses, e.g. [[Matthew 12#^matt-12-29|Matthew 12:29]] ↔ [[Mark 3#^mark-3-27|Mark 3:27]]
+- [[Luke 6]] — 3 parallel verses, e.g. [[Matthew 12#^matt-12-35|Matthew 12:35]] ↔ [[Luke 6#^luke-6-45|Luke 6:45]]
+- [[Matthew 16]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-39|Matthew 12:39]] ↔ [[Matthew 16#^matt-16-4|Matthew 16:4]]
+- [[Luke 12]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-32|Matthew 12:32]] ↔ [[Luke 12#^luke-12-10|Luke 12:10]]
+- [[Mark 2]] — 2 parallel verses, e.g. [[Matthew 12#^matt-12-3|Matthew 12:3]] ↔ [[Mark 2#^mark-2-25|Mark 2:25]]
 - [[Matthew 2]] — 2 parallel verses, e.g. [[Matthew 12#^matt-12-17|Matthew 12:17]] ↔ [[Matthew 2#^matt-2-23|Matthew 2:23]]
 - [[Matthew 4]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-17|Matthew 12:17]] ↔ [[Matthew 4#^matt-4-14|Matthew 4:14]]
 - [[Matthew 8]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-17|Matthew 12:17]] ↔ [[Matthew 8#^matt-8-17|Matthew 8:17]]
 - [[Matthew 19]] — 2 parallel verses, e.g. [[Matthew 12#^matt-12-15|Matthew 12:15]] ↔ [[Matthew 19#^matt-19-2|Matthew 19:2]]
+- [[Matthew 9]] — 2 parallel verses, e.g. [[Matthew 12#^matt-12-2|Matthew 12:2]] ↔ [[Matthew 9#^matt-9-11|Matthew 9:11]]
 - [[Matthew 18]] — 2 parallel verses, e.g. [[Matthew 12#^matt-12-50|Matthew 12:50]] ↔ [[Matthew 18#^matt-18-10|Matthew 18:10]]
-- [[Isaiah 42]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-20|Matthew 12:20]] ↔ [[Isaiah 42#^isa-42-3|Isaiah 42:3]]
-- [[Matthew 13]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-17|Matthew 12:17]] ↔ [[Matthew 13#^matt-13-35|Matthew 13:35]]
-- [[Matthew 21]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-17|Matthew 12:17]] ↔ [[Matthew 21#^matt-21-4|Matthew 21:4]]
-- [[Matthew 27]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-17|Matthew 12:17]] ↔ [[Matthew 27#^matt-27-35|Matthew 27:35]]
-- [[Matthew 7]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-50|Matthew 12:50]] ↔ [[Matthew 7#^matt-7-21|Matthew 7:21]]
-- [[Luke 8]] — 1 parallel verse, e.g. [[Matthew 12#^matt-12-47|Matthew 12:47]] ↔ [[Luke 8#^luke-8-20|Luke 8:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Final Judgment]]
-- [[Repentance and Forgiveness]]
 - [[Kingdom of God]]
 - [[Satan and Temptation]]
 - [[Sabbath Day]] *(keyword match — unconfirmed)*
+- [[Final Judgment]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[The Godhead]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -99,9 +99,9 @@ The phrase 'greater than' recurs three times (v6, v41, v42), applied to the temp
 - [[Forsake Not Your Own Mercy (Elder Matthew S. Holland, October 2025)|Forsake Not Your Own Mercy]] — Elder Matthew S. Holland, 2025-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[Spiritual Nutrients (President James E. Faust, October 2006)|Spiritual Nutrients]] — President James E. Faust, 2006-October *(explicit citation)*
 - [[Giving Holiness to the Lord (Bishop L. Todd Budge, October 2021)|Giving Holiness to the Lord]] — Bishop L. Todd Budge, 2021-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
-- [[The Book of Mormon—a Book from God (Elder Tad R. Callister, October 2011)|The Book of Mormon—a Book from God]] — Elder Tad R. Callister, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

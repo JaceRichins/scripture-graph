@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 128
 slug: dc-128
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,7 @@ A restrained outline follows the chapter's major transitions:
 - [[Mount Carmel]] — 1 mention
 - [[Cumorah]] — 1 mention
 - [[Harmony (Pennsylvania)]] — 1 mention
+- [[Colesville]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures
@@ -112,6 +113,7 @@ The chapter treats authorized earthly action as capable of heavenly recognition.
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 3–9: “A Voice of Gladness for the Living and the Dead”: Doctrine and Covenants 125–128** (lesson) *(explicit citation)*
 - **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
 - **Letters on Baptism for the Dead** (history) *(explicit citation)*
 - **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
@@ -121,7 +123,6 @@ The chapter treats authorized earthly action as capable of heavenly recognition.
 - **Susa Young Gates and the Vision of the Redemption of the Dead** (history) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **Restoration of the Priesthood** (reference-entry) *(explicit citation)*
-- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

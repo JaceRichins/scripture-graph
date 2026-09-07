@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 7
 slug: dan-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,8 @@ Scripture: [[Daniel 7]] · My notes: [[Daniel 7 - My Notes]]
 - [[Daniel 8]] — 0 parallel verses
 - [[Revelation 11]] — 0 parallel verses
 - [[Daniel 2]] — 0 parallel verses
+- [[Revelation 14]] — 0 parallel verses
+- [[Revelation 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,6 +84,7 @@ The chapter contrasts two figures in the heavenly court: the fiery-throned 'Anci
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7** (lesson) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*

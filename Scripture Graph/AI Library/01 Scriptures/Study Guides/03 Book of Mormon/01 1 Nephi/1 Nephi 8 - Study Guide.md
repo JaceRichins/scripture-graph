@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 8
 slug: 1ne-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,9 @@ Lehi's treatment of Laman and Lemuel is especially important. Although the visio
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
 - **Chapter 27: Beware the Bitter Fruits of Apostasy** (teachings) *(explicit citation)*
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
+- **Chapter 9: Sacred Family Relationships** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

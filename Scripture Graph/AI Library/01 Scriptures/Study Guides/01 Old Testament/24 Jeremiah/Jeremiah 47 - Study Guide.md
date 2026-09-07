@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 47
 slug: jer-47
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

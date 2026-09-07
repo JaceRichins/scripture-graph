@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 10
 slug: alma-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ The chapter's treatment of [[Government and Laws]] distinguishes a legal system 
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
 - [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
 - [[“Return unto Me … That I May Heal You” (Elder S. Mark Palmer, April 2025)|“Return unto Me … That I May Heal You”]] — Elder S. Mark Palmer, 2025-April *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 - [[Prayer and Promptings (President Boyd K. Packer, October 2009)|Prayer and Promptings]] — President Boyd K. Packer, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 

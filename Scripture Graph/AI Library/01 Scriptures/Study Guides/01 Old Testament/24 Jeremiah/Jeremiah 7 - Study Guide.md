@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 7
 slug: jer-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 19–25. “Before I Formed Thee in the Belly I Knew Thee”: Jeremiah 1–3; 7; 16–18; 20** (lesson) *(explicit citation)*
 - **Gehenna** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

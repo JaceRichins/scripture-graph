@@ -38,6 +38,8 @@ _Not yet developed._
 - [[Genesis 2]]
 - [[Alma 32]]
 - [[Alma 5]]
+- [[Proverbs 3]]
+- [[Revelation 2]]
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

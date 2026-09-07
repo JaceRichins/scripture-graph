@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 27
 slug: ex-27
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Altar** (reference-entry) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

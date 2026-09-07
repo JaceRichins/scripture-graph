@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 7
 slug: 2kgs-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -60,7 +60,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

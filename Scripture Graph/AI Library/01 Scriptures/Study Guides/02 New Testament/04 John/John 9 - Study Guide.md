@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 9
 slug: john-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ The chapter also portrays [[Faith]] and [[Testimony]] as developing without eras
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
+- **Chapter 2: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

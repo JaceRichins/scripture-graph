@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 40
 slug: gen-40
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 9–15. “The Lord Was with Joseph”: Genesis 37–41** (lesson) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

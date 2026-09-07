@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 13
 slug: 3ne-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,10 @@ The chapter portrays the Father as one who sees hidden devotion (3 Nephi 13:4, 6
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Chapter 43: Our Search for Truth and Personal Testimony** (teachings) *(explicit citation)*
+- **Chapter 11: Praying to Receive the Blessings of Heaven** (teachings) *(explicit citation)*
+- **Chapter 11: ‘I Seek Not Mine Own Will, but the Will of the Father’** (teachings) *(explicit citation)*
+- **Chapter 21: Loving God More Than We Love the World** (teachings) *(explicit citation)*
+- **Chapter 24: The Work of Latter-day Saint Women: ‘Unselfish Devotion to This Glorious Cause’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

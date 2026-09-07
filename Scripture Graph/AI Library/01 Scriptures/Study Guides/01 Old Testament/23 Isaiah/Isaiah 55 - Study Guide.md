@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 55
 slug: isa-55
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
@@ -92,6 +93,8 @@ _Not yet developed._
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 10: The Influence of the Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 6: The Power of the Atonement for Us Personally** (teachings) *(explicit citation)*
+- **Chapter 7: Joseph and Hyrum Smith, Witnesses for Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

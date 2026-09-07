@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 8
 slug: gen-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ Noah's altar and burnt offerings make [[Sacrifice]] central to the chapter's con
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
+- [[Gospel Covenants Bring Promised Blessings (Elder Paul E. Koelliker, October 2005)|Gospel Covenants Bring Promised Blessings]] — Elder Paul E. Koelliker, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -79,6 +80,7 @@ Noah's altar and burnt offerings make [[Sacrifice]] central to the chapter's con
 - **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Dove, or turtle-dove** (reference-entry) *(explicit citation)*
+- **August 11–17: “Establish … a House of God”: Doctrine and Covenants 88** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 62
 slug: dc-62
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,16 +76,19 @@ The chapter joins divine help with continuing duty. Christ's knowledge of weakne
 - [[And They Sought to See Jesus Who He Was (Elder James W. McConkie III, October 2022)|And They Sought to See Jesus Who He Was]] — Elder James W. McConkie III, 2022-October *(explicit citation)*
 - [[Following Up (Elder M. Russell Ballard, April 2014)|Following Up]] — Elder M. Russell Ballard, 2014-April *(explicit citation)*
 - [[Help Them Aim High (President Henry B. Eyring, October 2012)|Help Them Aim High]] — President Henry B. Eyring, 2012-October *(explicit citation)*
+- [[As a Child (Elder Henry B. Eyring, April 2006)|As a Child]] — Elder Henry B. Eyring, 2006-April *(explicit citation)*
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 9–15: “I Am with the Faithful Always”: Doctrine and Covenants 60–63** (lesson) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Same-Sex Attraction** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Testimony** (reference-entry) *(explicit citation)*
+- **May 5–11: “The Promises … Shall Be Fulfilled”: Doctrine and Covenants 45** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

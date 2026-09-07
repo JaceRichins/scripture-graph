@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 20
 slug: jer-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Suicide** (reference-entry) *(explicit citation)*
+- **October 19–25. “Before I Formed Thee in the Belly I Knew Thee”: Jeremiah 1–3; 7; 16–18; 20** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

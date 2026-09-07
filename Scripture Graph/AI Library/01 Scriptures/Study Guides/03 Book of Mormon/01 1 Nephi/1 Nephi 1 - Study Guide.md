@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 1
 slug: 1ne-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -100,12 +100,16 @@ The reference to a Messiah and "the redemption of the world" makes redemption ce
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **Heaven** (reference-entry) *(explicit citation)*
 - **Heaven** (reference-entry) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
+- **October 26–November 1. “I Will Turn Their Mourning into Joy”: Jeremiah 31–33; 36–39; Lamentations 1; 3** (lesson) *(explicit citation)*
+- **Chapter 13: Journals: ‘Of Far More Worth than Gold’** (teachings) *(explicit citation)*
+- **Chapter 16: The Noble Calling of Parents** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

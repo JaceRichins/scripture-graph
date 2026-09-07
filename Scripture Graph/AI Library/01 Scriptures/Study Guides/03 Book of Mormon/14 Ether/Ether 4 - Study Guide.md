@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 4
 slug: ether-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ The titles applied to Christ in verses 7 and 12 are relevant to [[The Godhead]].
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **The Evening and the Morning Star 1832-08 (Vol. 1 No. 3)** (history, 1832-08) *(explicit citation)*
+- **Chapter 40: The Father and the Son** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

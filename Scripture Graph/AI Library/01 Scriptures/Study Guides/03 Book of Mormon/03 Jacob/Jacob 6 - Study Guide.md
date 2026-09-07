@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 6
 slug: jacob-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,19 +83,20 @@ Verse 9 joins the [[Atonement of Jesus Christ]], [[Resurrection]], and [[Final J
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
+- [[O Be Wise (Elder M. Russell Ballard, October 2006)|O Be Wise]] — Elder M. Russell Ballard, 2006-October *(explicit citation)*
 - [[“Come, Follow Me” by Practicing Christian Love and Service (Elder Robert D. Hales, October 2016)|“Come, Follow Me” by Practicing Christian Love and Service]] — Elder Robert D. Hales, 2016-October *(explicit citation)*
 - [[Repentance Is Always Positive (Stephen W. Owen, October 2017)|Repentance Is Always Positive]] — Stephen W. Owen, 2017-October *(explicit citation)*
 - [[Take the Holy Spirit as Your Guide (Elder Larry Y. Wilson, April 2018)|Take the Holy Spirit as Your Guide]] — Elder Larry Y. Wilson, 2018-April *(explicit citation)*
 - [[Giving Our Spirits Control over Our Bodies (President M. Russell Ballard, October 2019)|Giving Our Spirits Control over Our Bodies]] — President M. Russell Ballard, 2019-October *(explicit citation)*
 - [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
-- [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
+- **Chapter 7: The Atonement of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

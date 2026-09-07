@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 23
 slug: num-23
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 - **Times and Seasons 1840-08-01 (Vol. 1 No. 10)** (periodical, 1840-08-01) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

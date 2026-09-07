@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 16
 slug: matt-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,18 +55,18 @@ Scripture: [[Matthew 16]] · My notes: [[Matthew 16 - My Notes]]
 - [[Esther 1]] — 1 footnote cross-reference (from [[Matthew 16#^matt-16-3|Matthew 16:3]])
 - [[Mark 8]] — 1 footnote cross-reference (from [[Matthew 16#^matt-16-4|Matthew 16:4]])
 - [[Jonah 1]] — 1 footnote cross-reference (from [[Matthew 16#^matt-16-4|Matthew 16:4]])
+- [[Mark 8]] — 16 parallel verses, e.g. [[Matthew 16#^matt-16-24|Matthew 16:24]] ↔ [[Mark 8#^mark-8-34|Mark 8:34]]
 - [[D&C 128]] — 3 parallel verses, e.g. [[Matthew 16#^matt-16-19|Matthew 16:19]] ↔ [[D&C 128#^dc-128-10|D&C 128:10]]
+- [[Luke 9]] — 6 parallel verses, e.g. [[Matthew 16#^matt-16-24|Matthew 16:24]] ↔ [[Luke 9#^luke-9-23|Luke 9:23]]
+- [[Matthew 12]] — 1 parallel verse, e.g. [[Matthew 16#^matt-16-4|Matthew 16:4]] ↔ [[Matthew 12#^matt-12-39|Matthew 12:39]]
+- [[Luke 12]] — 3 parallel verses, e.g. [[Matthew 16#^matt-16-3|Matthew 16:3]] ↔ [[Luke 12#^luke-12-56|Luke 12:56]]
+- [[Matthew 18]] — 1 parallel verse, e.g. [[Matthew 16#^matt-16-19|Matthew 16:19]] ↔ [[Matthew 18#^matt-18-18|Matthew 18:18]]
 - [[D&C 124]] — 1 parallel verse, e.g. [[Matthew 16#^matt-16-19|Matthew 16:19]] ↔ [[D&C 124#^dc-124-93|D&C 124:93]]
 - [[D&C 33]] — 1 parallel verse, e.g. [[Matthew 16#^matt-16-18|Matthew 16:18]] ↔ [[D&C 33#^dc-33-13|D&C 33:13]]
+- [[Matthew 10]] — 1 parallel verse, e.g. [[Matthew 16#^matt-16-25|Matthew 16:25]] ↔ [[Matthew 10#^matt-10-39|Matthew 10:39]]
 - [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[Matthew 16#^matt-16-27|Matthew 16:27]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-37|Joseph Smith—Matthew 1:37]]
 - [[Luke 11]] — 1 parallel verse, e.g. [[Matthew 16#^matt-16-4|Matthew 16:4]] ↔ [[Luke 11#^luke-11-29|Luke 11:29]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[Matthew 16#^matt-16-18|Matthew 16:18]] ↔ [[3 Nephi 11#^3ne-11-39|3 Nephi 11:39]]
-- [[D&C 10]] — 1 parallel verse, e.g. [[Matthew 16#^matt-16-18|Matthew 16:18]] ↔ [[D&C 10#^dc-10-69|D&C 10:69]]
-- [[D&C 98]] — 1 parallel verse, e.g. [[Matthew 16#^matt-16-18|Matthew 16:18]] ↔ [[D&C 98#^dc-98-22|D&C 98:22]]
-- [[Mark 9]] — 1 parallel verse, e.g. [[Matthew 16#^matt-16-28|Matthew 16:28]] ↔ [[Mark 9#^mark-9-1|Mark 9:1]]
-- [[Matthew 18]] — 0 parallel verses
-- [[D&C 10]] — 0 parallel verses
-- [[D&C 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -113,11 +113,11 @@ Scripture: [[Matthew 16]] · My notes: [[Matthew 16 - My Notes]]
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
+- **Chapter 19: The Divine Nature of Service** (teachings) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
-- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

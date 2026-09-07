@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 10
 slug: hosea-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ _Not yet developed._
 - [[Jeremiah 4]] — 0 parallel verses
 - [[Hosea 8]] — 0 parallel verses
 - [[Jeremiah 4]] — 0 parallel verses
+- [[Revelation 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,7 +80,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **November 16–22. “I Will Love Them Freely”: Hosea 1–6; 10–14; Joel** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

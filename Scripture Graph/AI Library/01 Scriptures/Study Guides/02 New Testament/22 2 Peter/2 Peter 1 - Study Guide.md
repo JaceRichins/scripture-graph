@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 1
 slug: 2pet-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,8 @@ _Not yet developed._
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[2 Peter 1#^2pet-1-17|2 Peter 1:17]] ↔ [[3 Nephi 11#^3ne-11-7|3 Nephi 11:7]]
 - [[D&C 107]] — 0 parallel verses
 - [[D&C 4]] — 0 parallel verses
+- [[Matthew 17]] — 0 parallel verses
+- [[Matthew 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -97,13 +99,13 @@ _Not yet developed._
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **Chapter 10: The Divine Calling of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Election** (reference-entry) *(explicit citation)*
-- **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

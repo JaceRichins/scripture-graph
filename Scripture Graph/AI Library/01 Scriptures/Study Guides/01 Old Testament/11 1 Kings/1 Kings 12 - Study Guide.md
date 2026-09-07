@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 12
 slug: 1kgs-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -79,10 +79,12 @@ Jeroboam's fear of losing political allegiance leads directly to religious chang
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[When the Lord Commands (Elder Bruce A. Carlson, April 2010)|When the Lord Commands]] — Elder Bruce A. Carlson, 2010-April *(explicit citation)*
+- [[Journey to Higher Ground (Elder Joseph B. Wirthlin, October 2005)|Journey to Higher Ground]] — Elder Joseph B. Wirthlin, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 29–July 5. “If the Lord Be God, Follow Him”: 1 Kings 12–13; 17–22** (lesson) *(explicit citation)*
 - **Adoniram** (reference-entry) *(explicit citation)*
 - **Benjamin** (reference-entry) *(explicit citation)*
 - **Bethel** (reference-entry) *(explicit citation)*

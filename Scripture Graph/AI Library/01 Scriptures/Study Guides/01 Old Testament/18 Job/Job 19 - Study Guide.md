@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 19
 slug: job-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 10–16. “Yet Will I Trust in Him”: Job 1–3; 12–14; 19; 21–24; 38–40; 42** (lesson) *(explicit citation)*
 - **Easter** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
@@ -76,6 +77,8 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
 - **Chapter 43: ‘He Was a Prophet of God’: Contemporaries of Joseph Smith Testify of His Prophetic Mission** (teachings) *(explicit citation)*
+- **Chapter 7: The Atonement of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 7: Faithfulness in Times of Trial: ‘From the Shadows into the Glorious Sunshine’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

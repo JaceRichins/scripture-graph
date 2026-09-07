@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 111
 slug: dc-111
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **More Treasures Than One** (history) *(explicit citation)*
+- **October 6–12: “I Will Order All Things for Your Good”: Doctrine and Covenants 111–114** (lesson) *(explicit citation)*
 - **22 Try the Lord** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*

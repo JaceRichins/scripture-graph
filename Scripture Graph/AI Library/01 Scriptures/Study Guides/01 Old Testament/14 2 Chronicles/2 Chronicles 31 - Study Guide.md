@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 31
 slug: 2chr-31
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ _Not yet developed._
 - **Asahel** (reference-entry) *(explicit citation)*
 - **Firstfruits** (reference-entry) *(explicit citation)*
 - **Chapter 22: Tithing and Consecration** (teachings) *(explicit citation)*
+- **July 13–19. “He Trusted in the Lord God of Israel”: 2 Kings 16–25** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

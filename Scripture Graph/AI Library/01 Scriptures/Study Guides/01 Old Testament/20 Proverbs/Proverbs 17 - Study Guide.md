@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 17
 slug: prov-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Proverbs 14]] — 0 parallel verses
 - [[Proverbs 24]] — 0 parallel verses
 - [[Proverbs 10]] — 0 parallel verses
+- [[Proverbs 15]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

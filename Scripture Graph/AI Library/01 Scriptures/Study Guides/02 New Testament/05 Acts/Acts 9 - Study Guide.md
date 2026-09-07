@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 9
 slug: acts-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -97,11 +97,11 @@ Peter's words to Æneas keep the agent of the healing clear: "Jesus Christ maket
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 6: To Hear the Voice of the Lord** (teachings) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Ananias** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
-- **Caesarea** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

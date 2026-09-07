@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 26
 slug: num-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Caleb** (reference-entry) *(explicit citation)*
 - **Genealogy** (reference-entry) *(explicit citation)*
+- **March 23–29. “I Have Remembered My Covenant”: Exodus 1–6** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

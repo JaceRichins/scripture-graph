@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 13
 slug: prov-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,11 +44,12 @@ _Not yet developed._
 - [[D&C 6]] — 1 footnote cross-reference (from [[Proverbs 13#^prov-13-7|Proverbs 13:7]])
 - [[Job 18]] — 1 footnote cross-reference (from [[Proverbs 13#^prov-13-9|Proverbs 13:9]])
 - [[Proverbs 24]] — 1 footnote cross-reference (from [[Proverbs 13#^prov-13-9|Proverbs 13:9]])
-- [[Proverbs 14]] — 0 parallel verses
+- [[Proverbs 14]] — 1 parallel verse, e.g. [[Proverbs 13#^prov-13-14|Proverbs 13:14]] ↔ [[Proverbs 14#^prov-14-27|Proverbs 14:27]]
 - [[Proverbs 12]] — 0 parallel verses
 - [[Proverbs 15]] — 0 parallel verses
 - [[Proverbs 22]] — 0 parallel verses
 - [[Proverbs 11]] — 0 parallel verses
+- [[Proverbs 14]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

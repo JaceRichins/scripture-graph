@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 26
 slug: 3ne-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
+- **Chapter 2: The Everlasting Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

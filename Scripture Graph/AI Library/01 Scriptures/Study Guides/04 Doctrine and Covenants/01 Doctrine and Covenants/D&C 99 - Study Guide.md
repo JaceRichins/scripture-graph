@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 99
 slug: dc-99
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **September 8–14: “Be Still and Know That I Am God”: Doctrine and Covenants 98–101** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 3
 slug: zech-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14** (lesson) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

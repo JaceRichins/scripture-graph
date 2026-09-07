@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 81
 slug: dc-81
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ Faithfulness is expressed through counsel, [[Prayer]], gospel ministry, and care
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 21–27: Where “Much Is Given Much Is Required”: Doctrine and Covenants 81–83** (lesson) *(explicit citation)*
 - **Jesse Gause: Counselor to the Prophet** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
@@ -93,6 +94,7 @@ Faithfulness is expressed through counsel, [[Prayer]], gospel ministry, and care
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **Chapter 13: Preparing for Eternal Progression** (teachings) *(explicit citation)*
+- **Chapter 22: Doing Good to Others** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

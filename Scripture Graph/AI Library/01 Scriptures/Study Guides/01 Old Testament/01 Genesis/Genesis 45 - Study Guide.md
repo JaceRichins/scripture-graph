@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 45
 slug: gen-45
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[Acts 7]] — 2 footnote cross-references (from [[Genesis 45#^gen-45-3|Genesis 45:3]])
 - [[Genesis 50]] — 2 footnote cross-references (from [[Genesis 45#^gen-45-5|Genesis 45:5]])
 - [[1 Nephi 5]] — 0 parallel verses
+- [[Psalm 105]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,7 +70,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: Reading the Old Testament** (lesson) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
+- **December 14–20. “I Have Loved You, Saith the Lord”: Malachi** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

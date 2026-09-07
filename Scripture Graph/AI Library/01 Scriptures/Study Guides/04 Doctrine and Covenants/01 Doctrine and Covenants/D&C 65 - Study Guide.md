@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 65
 slug: dc-65
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,9 @@ The chapter speaks of 'the keys of the kingdom of God' being 'committed unto man
 ## Church History
 <!-- SG:BEGIN history -->
 - **William McLellin’s Five Questions** (history) *(explicit citation)*
+- **June 16–22: “The Lord Requireth the Heart and a Willing Mind”: Doctrine and Covenants 64–66** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
+- **Chapter 23: The Progress and Destiny of The Church of Jesus Christ of Latter-day Saints** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 5
 slug: eccl-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

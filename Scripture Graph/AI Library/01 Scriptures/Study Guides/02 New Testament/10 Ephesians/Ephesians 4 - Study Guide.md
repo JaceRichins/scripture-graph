@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 4
 slug: eph-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 - [[1 Corinthians 12]] — 0 parallel verses
 - [[Colossians 2]] — 0 parallel verses
 - [[Ephesians 2]] — 0 parallel verses
+- [[Psalm 68]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -95,13 +96,13 @@ Maturity is measured by relation to Christ and by the health of the whole body. 
 - **Endowment** (reference-entry) *(explicit citation)*
 - **Unity** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 14: The Responsibilities and Order of the Priesthood** (teachings) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Church** (reference-entry) *(explicit citation)*
+- **Chapter 3: The Purpose of the Church** (teachings) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
-- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
-- **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 10
 slug: 3ne-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ The survivors are called the “more righteous part,” not a sinless group. Ver
 - [[A Priceless Heritage of Hope (President Henry B. Eyring, April 2014)|A Priceless Heritage of Hope]] — President Henry B. Eyring, 2014-April *(explicit citation)*
 - [[Our Perfect Example (President Henry B. Eyring, October 2009)|Our Perfect Example]] — President Henry B. Eyring, 2009-October *(explicit citation)*
 - [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[To Look, Reach, and Come unto Christ (Anne C. Pingree, October 2006)|To Look, Reach, and Come unto Christ]] — Anne C. Pingree, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

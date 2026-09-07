@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 11
 slug: john-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ Jesus's public [[Prayer]] presents the sign as testimony concerning his relation
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 7: The Significance of the Resurrection** (teachings) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*

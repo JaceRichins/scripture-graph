@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 4
 slug: jacob-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ Jacob does not treat the [[Law of Moses]] and faith in Christ as competing syste
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
@@ -104,7 +105,6 @@ Jacob does not treat the [[Law of Moses]] and faith in Christ as competing syste
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
-- **Hope** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

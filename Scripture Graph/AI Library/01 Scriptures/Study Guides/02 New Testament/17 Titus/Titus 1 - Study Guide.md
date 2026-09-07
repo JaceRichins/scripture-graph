@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 1
 slug: titus-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

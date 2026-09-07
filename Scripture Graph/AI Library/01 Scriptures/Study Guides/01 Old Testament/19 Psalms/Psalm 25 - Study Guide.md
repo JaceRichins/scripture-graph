@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 25
 slug: ps-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Psalm 86]] — 2 parallel verses, e.g. [[Psalm 25#^ps-25-1|Psalm 25:1]] ↔ [[Psalm 86#^ps-86-4|Psalm 86:4]]
 - [[Psalm 31]] — 0 parallel verses
 - [[Psalm 143]] — 0 parallel verses
+- [[Psalm 86]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,6 +70,7 @@ The psalm joins [[Prayer]], [[Repentance and Forgiveness]], and [[Covenants]]. G
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Receiving a Testimony of Light and Truth (President Dieter F. Uchtdorf, October 2014)|Receiving a Testimony of Light and Truth]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

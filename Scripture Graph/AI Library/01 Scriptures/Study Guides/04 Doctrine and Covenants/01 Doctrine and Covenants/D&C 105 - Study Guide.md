@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 105
 slug: dc-105
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ The chapter links [[Zion]] with [[Consecration]], [[Obedience]], unity, care for
 ## Church History
 <!-- SG:BEGIN history -->
 - **18 The Camp of Israel** (history) *(explicit citation)*
+- **September 15–21: “After Much Tribulation … Cometh the Blessing”: Doctrine and Covenants 102–105** (lesson) *(explicit citation)*
 - **The Acceptable Offering of Zion’s Camp** (history) *(explicit citation)*
 - **‘This Shall Be Our Covenant’** (history) *(explicit citation)*
 - **22 Try the Lord** (history) *(explicit citation)*
@@ -97,7 +98,6 @@ The chapter links [[Zion]] with [[Consecration]], [[Obedience]], unity, care for
 - **Chapter 16: Building Zion** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Adversity** (reference-entry) *(explicit citation)*
-- **Zion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

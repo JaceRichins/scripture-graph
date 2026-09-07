@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 4
 slug: 1kgs-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ The chapter presents Solomon's kingdom through four connected portraits: central
 - [[1 Chronicles 18]] — 0 parallel verses
 - [[1 Kings 10]] — 0 parallel verses
 - [[2 Chronicles 9]] — 0 parallel verses
+- [[Micah 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

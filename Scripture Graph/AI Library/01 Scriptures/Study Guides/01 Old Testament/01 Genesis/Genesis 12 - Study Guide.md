@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 12
 slug: gen-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,15 +86,18 @@ The danger to Sarai also makes [[Marriage]] central to the episode. The text rep
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Aligning Our Will with His (Elder Ulisses Soares, October 2024)|Aligning Our Will with His]] — Elder Ulisses Soares, 2024-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
 - [[The Sacred Place of Restoration (Elder Jairo Mazzagardi, April 2016)|The Sacred Place of Restoration]] — Elder Jairo Mazzagardi, 2016-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
 - [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
+- [[All Men Everywhere (Elder Dallin H. Oaks, April 2006)|All Men Everywhere]] — Elder Dallin H. Oaks, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 16–22. “To Be a Greater Follower of Righteousness”: Genesis 12–17; Abraham 1–2** (lesson) *(explicit citation)*
 - **Translation and Historicity of the Book of Abraham** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*

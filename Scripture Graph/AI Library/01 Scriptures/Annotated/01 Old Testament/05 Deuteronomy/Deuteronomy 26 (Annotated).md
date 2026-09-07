@@ -37,10 +37,10 @@ cssclasses:
 > [[Exodus 2#^ex-2-23|Ex. 2:23 (23–25)]] · [[Alma 9#^alma-9-26|Alma 9:26]]
 
 ![[Deuteronomy 26#^deut-26-8]]
-> [[Exodus 12#^ex-12-37|Ex. 12:37, 51]] · [[Alma 36#^alma-36-2|Alma 36:2]] · [[Mosiah 3#^mosiah-3-14|Mosiah 3:15 (14–15)]] · [[Deuteronomy 6#^deut-6-21|≈ Deuteronomy 6:21]] · [[Deuteronomy 9#^deut-9-26|≈ Deuteronomy 9:26]]
+> [[Exodus 12#^ex-12-37|Ex. 12:37, 51]] · [[Alma 36#^alma-36-2|Alma 36:2]] · [[Mosiah 3#^mosiah-3-14|Mosiah 3:15 (14–15)]] · [[Deuteronomy 9#^deut-9-26|≈ Deuteronomy 9:26]] · [[Deuteronomy 6#^deut-6-21|≈ Deuteronomy 6:21]]
 
 ![[Deuteronomy 26#^deut-26-9]]
-> [[1 Nephi 2#^1ne-2-20|1 Ne. 2:20]] · [[Deuteronomy 6#^deut-6-3|≈ Deuteronomy 6:3]] · [[Deuteronomy 27#^deut-27-3|≈ Deuteronomy 27:3]] · [[Leviticus 20#^lev-20-24|≈ Leviticus 20:24]] · [[Numbers 16#^num-16-13|≈ Numbers 16:13]] · [[Numbers 16#^num-16-14|≈ Numbers 16:14]] · [[Joshua 5#^josh-5-6|≈ Joshua 5:6]]
+> [[1 Nephi 2#^1ne-2-20|1 Ne. 2:20]] · [[Deuteronomy 27#^deut-27-3|≈ Deuteronomy 27:3]] · [[Leviticus 20#^lev-20-24|≈ Leviticus 20:24]] · [[Numbers 16#^num-16-13|≈ Numbers 16:13]] · [[Numbers 16#^num-16-14|≈ Numbers 16:14]] · [[Deuteronomy 6#^deut-6-3|≈ Deuteronomy 6:3]] · [[Joshua 5#^josh-5-6|≈ Joshua 5:6]]
 
 ![[Deuteronomy 26#^deut-26-10]]
 
@@ -56,10 +56,10 @@ cssclasses:
 > [[Deuteronomy 18#^deut-18-16|≈ Deuteronomy 18:16]]
 
 ![[Deuteronomy 26#^deut-26-15]]
-> [[Isaiah 63#^isa-63-15|Isa. 63:15]] · [[Deuteronomy 6#^deut-6-3|≈ Deuteronomy 6:3]] · [[Deuteronomy 27#^deut-27-3|≈ Deuteronomy 27:3]] · [[Leviticus 20#^lev-20-24|≈ Leviticus 20:24]] · [[Numbers 16#^num-16-13|≈ Numbers 16:13]] · [[Numbers 16#^num-16-14|≈ Numbers 16:14]] · [[Joshua 5#^josh-5-6|≈ Joshua 5:6]]
+> [[Isaiah 63#^isa-63-15|Isa. 63:15]] · [[Deuteronomy 27#^deut-27-3|≈ Deuteronomy 27:3]] · [[Leviticus 20#^lev-20-24|≈ Leviticus 20:24]] · [[Numbers 16#^num-16-13|≈ Numbers 16:13]] · [[Numbers 16#^num-16-14|≈ Numbers 16:14]] · [[Deuteronomy 6#^deut-6-3|≈ Deuteronomy 6:3]] · [[Joshua 5#^josh-5-6|≈ Joshua 5:6]]
 
 ![[Deuteronomy 26#^deut-26-16]]
-> [[Deuteronomy 6#^deut-6-5|≈ Deuteronomy 6:5]] · [[Deuteronomy 5#^deut-5-12|≈ Deuteronomy 5:12]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 30#^deut-30-2|≈ Deuteronomy 30:2]] · [[Deuteronomy 30#^deut-30-6|≈ Deuteronomy 30:6]] · [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]]
+> [[Deuteronomy 5#^deut-5-12|≈ Deuteronomy 5:12]] · [[Deuteronomy 5#^deut-5-16|≈ Deuteronomy 5:16]] · [[Deuteronomy 6#^deut-6-5|≈ Deuteronomy 6:5]] · [[Deuteronomy 30#^deut-30-2|≈ Deuteronomy 30:2]] · [[Deuteronomy 30#^deut-30-6|≈ Deuteronomy 30:6]] · [[Deuteronomy 30#^deut-30-10|≈ Deuteronomy 30:10]]
 
 ![[Deuteronomy 26#^deut-26-17]]
 > [[Exodus 19#^ex-19-8|Ex. 19:8]] · [[Genesis 28#^gen-28-21|Gen. 28:21]] · [[Deuteronomy 30#^deut-30-16|≈ Deuteronomy 30:16]] · [[1 Kings 2#^1kgs-2-3|≈ 1 Kings 2:3]]

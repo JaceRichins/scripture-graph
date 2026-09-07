@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 17
 slug: 1kgs-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ The movements intensify from sustaining one prophet, to sustaining a household, 
 - [[2 Kings 4]] — 0 parallel verses
 - [[Revelation 11]] — 0 parallel verses
 - [[2 Kings 4]] — 0 parallel verses
+- [[Luke 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,10 +86,12 @@ The widow's accusation associates tragedy with remembered [[Sin]], but the narra
 - [[A Higher Joy (Elder Dieter F. Uchtdorf, April 2024)|A Higher Joy]] — Elder Dieter F. Uchtdorf, 2024-April *(explicit citation)*
 - [[Lay Up in Store (Bishop Keith B. McMullin, April 2007)|Lay Up in Store]] — Bishop Keith B. McMullin, 2007-April *(explicit citation)*
 - [[The Hearts of the Children Shall Turn (Elder David A. Bednar, October 2011)|The Hearts of the Children Shall Turn]] — Elder David A. Bednar, 2011-October *(explicit citation)*
+- [[Tithing—a Commandment Even for the Destitute (Elder Lynn G. Robbins, April 2005)|Tithing—a Commandment Even for the Destitute]] — Elder Lynn G. Robbins, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 29–July 5. “If the Lord Be God, Follow Him”: 1 Kings 12–13; 17–22** (lesson) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*

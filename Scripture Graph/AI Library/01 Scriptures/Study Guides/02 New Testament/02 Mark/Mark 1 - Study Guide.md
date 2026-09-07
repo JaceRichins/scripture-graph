@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 1
 slug: mark-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,28 +51,28 @@ A useful outline is: (1) prophetic preparation and John's ministry, verses 1–8
 - [[Luke 3]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-3|Mark 1:3]])
 - [[John 1]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-3|Mark 1:3]])
 - [[2 Kings 1]] — 1 footnote cross-reference (from [[Mark 1#^mark-1-6|Mark 1:6]])
+- [[Luke 4]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-24|Mark 1:24]] ↔ [[Luke 4#^luke-4-34|Luke 4:34]]
+- [[Luke 3]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Luke 3#^luke-3-4|Luke 3:4]]
+- [[Matthew 3]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
+- [[Matthew 8]] — 4 parallel verses, e.g. [[Mark 1#^mark-1-44|Mark 1:44]] ↔ [[Matthew 8#^matt-8-4|Matthew 8:4]]
+- [[Luke 5]] — 3 parallel verses, e.g. [[Mark 1#^mark-1-44|Mark 1:44]] ↔ [[Luke 5#^luke-5-14|Luke 5:14]]
+- [[Matthew 4]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-16|Mark 1:16]] ↔ [[Matthew 4#^matt-4-18|Matthew 4:18]]
 - [[Matthew 11]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-2|Mark 1:2]] ↔ [[Matthew 11#^matt-11-10|Matthew 11:10]]
 - [[Luke 7]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-2|Mark 1:2]] ↔ [[Luke 7#^luke-7-27|Luke 7:27]]
 - [[D&C 65]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
 - [[Isaiah 40]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[Isaiah 40#^isa-40-3|Isaiah 40:3]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
 - [[Luke 6]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-9|Mark 1:9]] ↔ [[Luke 6#^luke-6-12|Luke 6:12]]
-- [[Luke 8]] — 2 parallel verses, e.g. [[Mark 1#^mark-1-38|Mark 1:38]] ↔ [[Luke 8#^luke-8-22|Luke 8:22]]
-- [[Matthew 17]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-11|Mark 1:11]] ↔ [[Matthew 17#^matt-17-5|Matthew 17:5]]
-- [[Matthew 10]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-19|Mark 1:19]] ↔ [[Matthew 10#^matt-10-2|Matthew 10:2]]
-- [[John 1]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-3|Mark 1:3]] ↔ [[John 1#^john-1-23|John 1:23]]
-- [[2 Peter 1]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-11|Mark 1:11]] ↔ [[2 Peter 1#^2pet-1-17|2 Peter 1:17]]
-- [[3 Nephi 11]] — 1 parallel verse, e.g. [[Mark 1#^mark-1-11|Mark 1:11]] ↔ [[3 Nephi 11#^3ne-11-7|3 Nephi 11:7]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Gospel of Jesus Christ]]
 - [[Law of Moses]]
 - [[Satan and Temptation]]
 - [[Kingdom of God]]
 - [[Apostles]]
 - [[Baptism]] *(keyword match — unconfirmed)*
+- [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -97,6 +97,7 @@ John joins [[Repentance]] and [[Baptism]] with confession and remission of sins 
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
 - **Capernaum** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
@@ -105,7 +106,6 @@ John joins [[Repentance]] and [[Baptism]] with confession and remission of sins 
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
 - **Fish** (reference-entry) *(explicit citation)*
-- **Chapter 6: The Mission of John the Baptist** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

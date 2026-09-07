@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 41
 slug: dc-41
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ The chapter connects [[Revelation]], [[Prayer]], [[Obedience]], and [[Government
 - [[The Elders Quorum (Elder D. Todd Christofferson, April 2018)|The Elders Quorum]] — Elder D. Todd Christofferson, 2018-April *(explicit citation)*
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[The Law of Tithing (Elder Daniel L. Johnson, October 2006)|The Law of Tithing]] — Elder Daniel L. Johnson, 2006-October *(explicit citation)*
 - [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
 - [[Do It Now (Elder Donald L. Hallstrom, October 2007)|Do It Now]] — Elder Donald L. Hallstrom, 2007-October *(explicit citation)*
 - [[Christian Courage The Price of Discipleship (Elder Robert D. Hales, October 2008)|Christian Courage: The Price of Discipleship]] — Elder Robert D. Hales, 2008-October *(explicit citation)*
@@ -88,10 +89,12 @@ The chapter connects [[Revelation]], [[Prayer]], [[Obedience]], and [[Government
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **April 28–May 4: “My Law to Govern My Church”: Doctrine and Covenants 41–44** (lesson) *(explicit citation)*
 - **11 Ye Shall Receive My Law** (history) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Chapter 1: Living What We Believe** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

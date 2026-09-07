@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 4
 slug: philip-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,13 +51,13 @@ _Not yet developed._
 - [[1 Corinthians 16]] — 1 footnote cross-reference (from [[Philippians 4#^philip-4-1|Philippians 4:1]])
 - [[Galatians 5]] — 1 footnote cross-reference (from [[Philippians 4#^philip-4-1|Philippians 4:1]])
 - [[D&C 87]] — 1 footnote cross-reference (from [[Philippians 4#^philip-4-1|Philippians 4:1]])
+- [[Romans 16]] — 2 parallel verses, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Romans 16#^rom-16-24|Romans 16:24]]
+- [[Revelation 22]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Revelation 22#^rev-22-21|Revelation 22:21]]
 - [[2 Thessalonians 3]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[2 Thessalonians 3#^2thes-3-18|2 Thessalonians 3:18]]
 - [[1 Corinthians 16]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]]
 - [[1 Thessalonians 5]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[1 Thessalonians 5#^1thes-5-28|1 Thessalonians 5:28]]
 - [[Galatians 6]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Galatians 6#^gal-6-18|Galatians 6:18]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[Philippians 4#^philip-4-23|Philippians 4:23]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
-- [[Romans 16]] — 0 parallel verses
-- [[Revelation 22]] — 0 parallel verses
 - [[1 Thessalonians 5]] — 0 parallel verses
 - [[Philippians 1]] — 0 parallel verses
 - [[Philippians 2]] — 0 parallel verses
@@ -99,6 +99,7 @@ The chapter presents divine peace as related to prayerful trust and faithful pra
 - **Book of life** (reference-entry) *(explicit citation)*
 - **Caesar** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **July 14–20: “I Will Lead You Along”: Doctrine and Covenants 77–80** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

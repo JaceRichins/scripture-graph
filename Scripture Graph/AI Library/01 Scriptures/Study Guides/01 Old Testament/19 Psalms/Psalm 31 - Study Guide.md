@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 31
 slug: ps-31
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,8 +52,8 @@ _Not yet developed._
 - [[Psalm 9]] — 1 footnote cross-reference (from [[Psalm 31#^ps-31-4|Psalm 31:4]])
 - [[Psalm 25]] — 1 footnote cross-reference (from [[Psalm 31#^ps-31-4|Psalm 31:4]])
 - [[Luke 23]] — 1 footnote cross-reference (from [[Psalm 31#^ps-31-5|Psalm 31:5]])
+- [[Psalm 71]] — 2 parallel verses, e.g. [[Psalm 31#^ps-31-1|Psalm 31:1]] ↔ [[Psalm 71#^ps-71-1|Psalm 71:1]]
 - [[Psalm 6]] — 1 parallel verse, e.g. [[Psalm 31#^ps-31-9|Psalm 31:9]] ↔ [[Psalm 6#^ps-6-2|Psalm 6:2]]
-- [[Psalm 71]] — 0 parallel verses
 - [[Psalm 27]] — 0 parallel verses
 - [[Psalm 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -78,7 +78,8 @@ Verses 17-18 also ask God to shame 'the wicked' and put 'lying lips' to silence 
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
+- **Chapter 18: Courage to Live Righteously** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

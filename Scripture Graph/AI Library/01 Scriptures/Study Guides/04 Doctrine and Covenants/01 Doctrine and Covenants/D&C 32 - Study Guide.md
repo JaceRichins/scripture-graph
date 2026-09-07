@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 32
 slug: dc-32
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -73,10 +73,12 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Mission to the Lamanites** (history) *(explicit citation)*
+- **April 7–13: “Lift Up Your Voices … to Declare My Gospel”: Doctrine and Covenants 30–36** (lesson) *(explicit citation)*
 - **09 Come Life or Come Death** (history) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
+- **Voices of the Restoration: Early Converts** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

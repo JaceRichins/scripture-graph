@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 5
 slug: num-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Numbers 15]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-12|Numbers 5:12]] ↔ [[Numbers 15#^num-15-2|Numbers 15:2]]
 - [[Numbers 35]] — 2 parallel verses, e.g. [[Numbers 5#^num-5-12|Numbers 5:12]] ↔ [[Numbers 35#^num-35-10|Numbers 35:10]]
 - [[Leviticus 1]] — 1 parallel verse, e.g. [[Numbers 5#^num-5-12|Numbers 5:12]] ↔ [[Leviticus 1#^lev-1-2|Leviticus 1:2]]
+- [[Leviticus 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

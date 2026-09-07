@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 4
 slug: moro-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -73,11 +73,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
 - **Communion** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 21: Honoring the Sabbath and the Sacrament** (teachings) *(explicit citation)*
+- **August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86** (lesson) *(explicit citation)*
+- **March 10–16: “The Rise of the Church of Christ”: Doctrine and Covenants 20–22** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

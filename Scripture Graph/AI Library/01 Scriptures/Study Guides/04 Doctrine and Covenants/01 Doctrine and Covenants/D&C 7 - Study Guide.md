@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 7
 slug: dc-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 - **Index by Section Number** (history) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **February 3–9: “This Is the Spirit of Revelation”: Doctrine and Covenants 6–9** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

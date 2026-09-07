@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 15
 slug: mosiah-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,9 +59,9 @@ Scripture: [[Mosiah 15]] · My notes: [[Mosiah 15 - My Notes]]
 - [[Mosiah 13]] — 3 parallel verses, e.g. [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]] ↔ [[Mosiah 13#^mosiah-13-27|Mosiah 13:27]]
 - [[Mosiah 14]] — 2 parallel verses, e.g. [[Mosiah 15#^mosiah-15-10|Mosiah 15:10]] ↔ [[Mosiah 14#^mosiah-14-10|Mosiah 14:10]]
 - [[Mosiah 4]] — 2 parallel verses, e.g. [[Mosiah 15#^mosiah-15-19|Mosiah 15:19]] ↔ [[Mosiah 4#^mosiah-4-7|Mosiah 4:7]]
+- [[Mosiah 3]] — 1 parallel verse, e.g. [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]] ↔ [[Mosiah 3#^mosiah-3-20|Mosiah 3:20]]
 - [[1 Nephi 19]] — 2 parallel verses, e.g. [[Mosiah 15#^mosiah-15-28|Mosiah 15:28]] ↔ [[1 Nephi 19#^1ne-19-17|1 Nephi 19:17]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[Mosiah 15#^mosiah-15-31|Mosiah 15:31]] ↔ [[D&C 45#^dc-45-49|D&C 45:49]]
-- [[D&C 132]] — 2 parallel verses, e.g. [[Mosiah 15#^mosiah-15-22|Mosiah 15:22]] ↔ [[D&C 132#^dc-132-19|D&C 132:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -72,8 +72,8 @@ Scripture: [[Mosiah 15]] · My notes: [[Mosiah 15 - My Notes]]
 - [[Resurrection]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
-- [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -102,14 +102,15 @@ Verse 25 separately affirms, without qualification in this chapter, that little 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Race and the Priesthood** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 40: The Father and the Son** (teachings) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Humility** (reference-entry) *(explicit citation)*
 - **Justice** (reference-entry) *(explicit citation)*
-- **Gospel Doctrine** (history, 1919) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

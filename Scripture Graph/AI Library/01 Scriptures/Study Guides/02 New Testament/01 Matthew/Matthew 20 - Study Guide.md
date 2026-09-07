@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 20
 slug: matt-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,14 +49,15 @@ Scripture: [[Matthew 20]] · My notes: [[Matthew 20 - My Notes]]
 - [[Jacob 5]] — 1 footnote cross-reference (from [[Matthew 20#^matt-20-16|Matthew 20:16]])
 - [[Moses 6]] — 1 footnote cross-reference (from [[Matthew 20#^matt-20-28|Matthew 20:28]])
 - [[D&C 138]] — 1 footnote cross-reference (from [[Matthew 20#^matt-20-28|Matthew 20:28]])
+- [[Mark 10]] — 12 parallel verses, e.g. [[Matthew 20#^matt-20-18|Matthew 20:18]] ↔ [[Mark 10#^mark-10-33|Mark 10:33]]
 - [[Matthew 13]] — 5 parallel verses, e.g. [[Matthew 20#^matt-20-1|Matthew 20:1]] ↔ [[Matthew 13#^matt-13-52|Matthew 13:52]]
+- [[Luke 18]] — 3 parallel verses, e.g. [[Matthew 20#^matt-20-18|Matthew 20:18]] ↔ [[Luke 18#^luke-18-31|Luke 18:31]]
+- [[Matthew 17]] — 2 parallel verses, e.g. [[Matthew 20#^matt-20-18|Matthew 20:18]] ↔ [[Matthew 17#^matt-17-22|Matthew 17:22]]
 - [[Mark 10]] — 0 parallel verses
 - [[Luke 18]] — 0 parallel verses
 - [[Matthew 19]] — 0 parallel verses
-- [[Mark 10]] — 0 parallel verses
-- [[Matthew 17]] — 0 parallel verses
-- [[Luke 18]] — 0 parallel verses
 - [[Matthew 19]] — 0 parallel verses
+- [[Matthew 23]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -95,6 +96,9 @@ Scripture: [[Matthew 20]] · My notes: [[Matthew 20 - My Notes]]
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
+- **June 29–July 5. “If the Lord Be God, Follow Him”: 1 Kings 12–13; 17–22** (lesson) *(explicit citation)*
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
+- **Chapter 18: Church Leadership and Selfless Service** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

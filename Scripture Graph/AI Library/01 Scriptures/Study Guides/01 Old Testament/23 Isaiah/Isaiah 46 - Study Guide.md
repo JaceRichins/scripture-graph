@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 46
 slug: isa-46
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,7 +76,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **September 28–October 4. “Comfort Ye My People”: Isaiah 40–49** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

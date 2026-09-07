@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 3
 slug: ezek-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,10 +89,13 @@ The four cases also show that prior moral status does not make later conduct irr
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Ezekiel** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
+- **Chapter 24: Sustaining Those Who Are Called to Preside** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

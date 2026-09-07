@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 3
 slug: jer-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -73,16 +73,19 @@ The chapter holds accountability and mercy together without resolving the tensio
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Fulfillment of Prophecy (Elder Ronald A. Rasband, April 2020)|Fulfillment of Prophecy]] — Elder Ronald A. Rasband, 2020-April *(explicit citation)*
+- [[Repentance, a Blessing of Membership (Elder Richard G. Hinckley, April 2006)|Repentance, a Blessing of Membership]] — Elder Richard G. Hinckley, 2006-April *(explicit citation)*
 - [[Conference Report, October 1903 (General Conference (full report), October 1903)|Conference Report, October 1903]] — General Conference (full report), 1903-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 19–25. “Before I Formed Thee in the Belly I Knew Thee”: Jeremiah 1–3; 7; 16–18; 20** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1836-12-01 (Vol. 3 No. 3)** (periodical, 1836-12-01) *(explicit citation)*
 - **Adultery** (reference-entry) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

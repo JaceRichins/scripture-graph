@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 25
 slug: ex-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,10 +86,14 @@ The chapter portrays sacred space as a gift-enabled meeting place between God an
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
 - **Candlestick** (reference-entry) *(explicit citation)*
 - **Cherubim** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
+- **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
+- **September 1–7: “For the Salvation of Zion”: Doctrine and Covenants 94–97** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

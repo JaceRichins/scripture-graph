@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 21
 slug: dc-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -79,26 +79,26 @@ Verse 9 connects [[Atonement of Jesus Christ]] with [[Repentance and Forgiveness
 - [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
+- [[The Blessings of General Conference (Elder Paul V. Johnson, October 2005)|The Blessings of General Conference]] — Elder Paul V. Johnson, 2005-October *(explicit citation)*
 - [[Stand Up Inside and Be All In (Elder Gary B. Sabin, April 2017)|Stand Up Inside and Be All In]] — Elder Gary B. Sabin, 2017-April *(explicit citation)*
 - [[The Truth of All Things (Elder David F. Evans, October 2017)|The Truth of All Things]] — Elder David F. Evans, 2017-October *(explicit citation)*
 - [[Precious Gifts from God (President M. Russell Ballard, April 2018)|Precious Gifts from God]] — President M. Russell Ballard, 2018-April *(explicit citation)*
 - [[The Prophet of God (Elder Neil L. Andersen, April 2018)|The Prophet of God]] — Elder Neil L. Andersen, 2018-April *(explicit citation)*
 - [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
-- [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘Build Up My Church’** (history) *(explicit citation)*
 - **The Role of Prophets** (reference-entry) *(explicit citation)*
+- **March 10–16: “The Rise of the Church of Christ”: Doctrine and Covenants 20–22** (lesson) *(explicit citation)*
 - **The Book of John Whitmer** (history) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **08 The Rise of the Church of Christ** (history) *(explicit citation)*
+- **Chapter 9: Heeding the True Messenger of Jesus Christ** (teachings) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Joseph Smith** (reference-entry) *(explicit citation)*
-- **Priesthood Keys** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 21
 slug: mosiah-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,24 +55,26 @@ The official heading summarizes the people as converted, but the narrative depic
 - [[Mosiah 20]] — 3 footnote cross-references (from [[Mosiah 21#^mosiah-21-3|Mosiah 21:3]])
 - [[Mosiah 12]] — 3 footnote cross-references (from [[Mosiah 21#^mosiah-21-3|Mosiah 21:3]])
 - [[Mosiah 18]] — 3 footnote cross-references (from [[Mosiah 21#^mosiah-21-30|Mosiah 21:30]])
+- [[Mosiah 8]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]] ↔ [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]]
+- [[Mosiah 23]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-15|Mosiah 21:15]] ↔ [[Mosiah 23#^mosiah-23-28|Mosiah 23:28]]
 - [[4 Nephi 1]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-22|Mosiah 21:22]] ↔ [[4 Nephi 1#^4ne-1-13|4 Nephi 1:13]]
 - [[Mosiah 18]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]] ↔ [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]]
 - [[Alma 3]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-7|Mosiah 21:7]] ↔ [[Alma 3#^alma-3-21|Alma 3:21]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-19|Mosiah 21:19]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
 - [[3 Nephi 3]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-30|Mosiah 21:30]] ↔ [[3 Nephi 3#^3ne-3-25|3 Nephi 3:25]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[Mosiah 21#^mosiah-21-14|Mosiah 21:14]] ↔ [[Alma 2#^alma-2-28|Alma 2:28]]
-- [[Mosiah 8]] — 0 parallel verses
 - [[Mosiah 24]] — 0 parallel verses
 - [[Mosiah 18]] — 0 parallel verses
 - [[Mosiah 23]] — 0 parallel verses
+- [[Mosiah 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[Exodus and Deliverance]]
-- [[Records and Sacred Writings]]
 - [[War and Peace]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Humility]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*

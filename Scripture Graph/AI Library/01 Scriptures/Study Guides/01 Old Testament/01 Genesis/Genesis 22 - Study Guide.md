@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 22
 slug: gen-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,13 +91,17 @@ Latter-day Saint and New Testament writers later read Abraham's willingness to o
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[Joseph Smith—Prophet of the Restoration (Elder Tad R. Callister, October 2009)|Joseph Smith—Prophet of the Restoration]] — Elder Tad R. Callister, 2009-October *(explicit citation)*
 - [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
+- [[Becoming a Missionary (Elder David A. Bednar, October 2005)|Becoming a Missionary]] — Elder David A. Bednar, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
@@ -105,8 +109,6 @@ Latter-day Saint and New Testament writers later read Abraham's willingness to o
 - **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
-- **Aram, Arameans** (reference-entry) *(explicit citation)*
-- **Chapter 44: The Kingdom of God and the Gathering of Israel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

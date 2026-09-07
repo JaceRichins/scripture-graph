@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 10
 slug: judg-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 6
 slug: ex-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -90,10 +90,14 @@ The chapter presents [[Exodus and Deliverance]] as more than escape from forced 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
+- [[A Pattern for All (Elder Merrill J. Bateman, October 2005)|A Pattern for All]] — Elder Merrill J. Bateman, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: The Covenant** (lesson) *(explicit citation)*
+- **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
+- **March 23–29. “I Have Remembered My Covenant”: Exodus 1–6** (lesson) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Eleazar** (reference-entry) *(explicit citation)*

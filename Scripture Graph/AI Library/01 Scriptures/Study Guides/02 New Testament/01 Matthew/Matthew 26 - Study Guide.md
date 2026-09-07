@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 26
 slug: matt-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,9 +55,11 @@ Scripture: [[Matthew 26]] · My notes: [[Matthew 26 - My Notes]]
 - [[Matthew 27]] — 2 footnote cross-references (from [[Matthew 26#^matt-26-4|Matthew 26:4]])
 - [[Mosiah 3]] — 2 footnote cross-references (from [[Matthew 26#^matt-26-39|Matthew 26:39]])
 - [[Isaiah 50]] — 2 footnote cross-references (from [[Matthew 26#^matt-26-39|Matthew 26:39]])
+- [[Mark 14]] — 29 parallel verses, e.g. [[Matthew 26#^matt-26-31|Matthew 26:31]] ↔ [[Mark 14#^mark-14-27|Mark 14:27]]
+- [[Luke 22]] — 10 parallel verses, e.g. [[Matthew 26#^matt-26-75|Matthew 26:75]] ↔ [[Luke 22#^luke-22-61|Luke 22:61]]
 - [[Matthew 27]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-59|Matthew 26:59]] ↔ [[Matthew 27#^matt-27-1|Matthew 27:1]]
-- [[John 13]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-21|Matthew 26:21]] ↔ [[John 13#^john-13-21|John 13:21]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Matthew 26#^matt-26-15|Matthew 26:15]] ↔ [[3 Nephi 27#^3ne-27-2|3 Nephi 27:2]]
+- [[John 13]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-21|Matthew 26:21]] ↔ [[John 13#^john-13-21|John 13:21]]
 - [[Luke 23]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-34|Matthew 26:34]] ↔ [[Luke 23#^luke-23-43|Luke 23:43]]
 - [[Mark 11]] — 1 parallel verse, e.g. [[Matthew 26#^matt-26-3|Matthew 26:3]] ↔ [[Mark 11#^mark-11-27|Mark 11:27]]
 - [[Mark 14]] — 0 parallel verses
@@ -65,20 +67,18 @@ Scripture: [[Matthew 26]] · My notes: [[Matthew 26 - My Notes]]
 - [[John 12]] — 0 parallel verses
 - [[John 13]] — 0 parallel verses
 - [[Exodus 24]] — 0 parallel verses
-- [[2 Nephi 7]] — 0 parallel verses
-- [[D&C 27]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Passover]]
 - [[Gethsemane]]
 - [[Sacrament]]
-- [[Passover]]
-- [[Apostles]]
 - [[Prophecy]]
 - [[Crucifixion of Jesus Christ]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -106,16 +106,16 @@ At the arrest, Jesus refuses to make violence the means of escape. He cites both
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14** (lesson) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
 - **Blasphemy** (reference-entry) *(explicit citation)*
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
+- **Chapter 6: The Power of the Atonement for Us Personally** (teachings) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Humility** (reference-entry) *(explicit citation)*
-- **Sacrament** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

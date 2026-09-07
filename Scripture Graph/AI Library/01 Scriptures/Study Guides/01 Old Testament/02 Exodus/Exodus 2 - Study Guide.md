@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 2
 slug: ex-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,7 +86,7 @@ The killing in 2:12 deserves moral care. Moses's opposition to oppression does n
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **March 23–29. “I Have Remembered My Covenant”: Exodus 1–6** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

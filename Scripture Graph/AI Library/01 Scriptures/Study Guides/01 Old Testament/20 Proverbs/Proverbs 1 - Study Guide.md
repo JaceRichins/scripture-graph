@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 1
 slug: prov-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -47,15 +47,15 @@ _Not yet developed._
 - [[Proverbs 8]] — 1 footnote cross-reference (from [[Proverbs 1#^prov-1-4|Proverbs 1:4]])
 - [[Proverbs 3]] — 1 footnote cross-reference (from [[Proverbs 1#^prov-1-9|Proverbs 1:9]])
 - [[Psalm 1]] — 1 footnote cross-reference (from [[Proverbs 1#^prov-1-10|Proverbs 1:10]])
+- [[Psalm 111]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-7|Proverbs 1:7]] ↔ [[Psalm 111#^ps-111-10|Psalm 111:10]]
+- [[Proverbs 9]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-7|Proverbs 1:7]] ↔ [[Proverbs 9#^prov-9-10|Proverbs 9:10]]
 - [[2 Chronicles 30]] — 1 parallel verse, e.g. [[Proverbs 1#^prov-1-1|Proverbs 1:1]] ↔ [[2 Chronicles 30#^2chr-30-26|2 Chronicles 30:26]]
-- [[Psalm 111]] — 0 parallel verses
-- [[Proverbs 9]] — 0 parallel verses
 - [[Proverbs 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -74,6 +74,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
 - **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 <!-- SG:END history -->

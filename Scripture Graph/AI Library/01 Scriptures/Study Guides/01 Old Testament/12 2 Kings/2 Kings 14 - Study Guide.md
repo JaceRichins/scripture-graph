@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 14
 slug: 2kgs-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ The chapter surveys portions of three reigns but develops two especially clear c
 <!-- SG:BEGIN places -->
 - [[Jerusalem]] — 6 mentions
 - [[Samaria]] — 3 mentions
+- [[Lachish]] — 2 mentions
 - [[Damascus]] — 1 mention
 <!-- SG:END places -->
 

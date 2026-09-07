@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 32
 slug: num-32
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,9 +71,9 @@ Scripture: [[Numbers 32]] · My notes: [[Numbers 32 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
 - [[Joshua 13]]
 - [[Family]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

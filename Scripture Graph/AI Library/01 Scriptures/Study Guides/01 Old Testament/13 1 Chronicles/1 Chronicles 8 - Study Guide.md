@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 8
 slug: 1chr-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -31,6 +31,7 @@ _Not yet developed._
 - [[King Benjamin]] — 2 mentions
 - [[Saul (king)]] — 2 mentions
 - [[Jonathan (son of Saul)]] — 2 mentions
+- [[Mesha (king of Moab)]] — 1 mention
 - [[Adam]] — 1 mention
 - [[Ishmael (father-in-law of Nephi)]] — 1 mention
 <!-- SG:END people -->

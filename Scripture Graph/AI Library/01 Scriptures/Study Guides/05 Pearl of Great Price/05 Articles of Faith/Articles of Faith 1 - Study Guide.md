@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Articles of Faith
 chapter: 1
 slug: aoff-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
+- **December 8–14: “We Believe”: Articles of Faith and Official Declarations 1 and 2** (lesson) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
 - **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
@@ -91,7 +92,6 @@ _Not yet developed._
 - **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*
 - **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
 - **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
-- **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 12
 slug: isa-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -67,7 +67,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Chapter 11: Finding Joy in Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

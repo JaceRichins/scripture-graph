@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 26
 slug: mosiah-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,23 +52,23 @@ _Not yet developed._
 - [[Alma 4]] — 1 footnote cross-reference (from [[Mosiah 26#^mosiah-26-4|Mosiah 26:4]])
 - [[Alma 4]] — 2 parallel verses, e.g. [[Mosiah 26#^mosiah-26-38|Mosiah 26:38]] ↔ [[Alma 4#^alma-4-9|Alma 4:9]]
 - [[Alma 46]] — 2 parallel verses, e.g. [[Mosiah 26#^mosiah-26-38|Mosiah 26:38]] ↔ [[Alma 46#^alma-46-14|Alma 46:14]]
+- [[Moroni 6]] — 2 parallel verses, e.g. [[Mosiah 26#^mosiah-26-36|Mosiah 26:36]] ↔ [[Moroni 6#^moro-6-7|Moroni 6:7]]
 - [[Alma 19]] — 2 parallel verses, e.g. [[Mosiah 26#^mosiah-26-1|Mosiah 26:1]] ↔ [[Alma 19#^alma-19-25|Alma 19:25]]
 - [[Matthew 25]] — 1 parallel verse, e.g. [[Mosiah 26#^mosiah-26-27|Mosiah 26:27]] ↔ [[Matthew 25#^matt-25-41|Matthew 25:41]]
 - [[D&C 29]] — 1 parallel verse, e.g. [[Mosiah 26#^mosiah-26-27|Mosiah 26:27]] ↔ [[D&C 29#^dc-29-28|D&C 29:28]]
 - [[Helaman 3]] — 1 parallel verse, e.g. [[Mosiah 26#^mosiah-26-1|Mosiah 26:1]] ↔ [[Helaman 3#^hel-3-12|Helaman 3:12]]
 - [[Ezekiel 39]] — 1 parallel verse, e.g. [[Mosiah 26#^mosiah-26-26|Mosiah 26:26]] ↔ [[Ezekiel 39#^ezek-39-28|Ezekiel 39:28]]
 - [[Alma 6]] — 0 parallel verses
-- [[Moroni 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Repentance and Forgiveness]]
-- [[Government and Laws]]
 - [[Final Judgment]]
 - [[Records and Sacred Writings]]
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

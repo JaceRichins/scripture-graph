@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 3
 slug: acts-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,13 +95,13 @@ Acts 3:21 is important to [[Restoration of the Gospel]], but careful study shoul
 - [[The Power of Ministering to the One (Elder Peter M. Johnson, October 2025)|The Power of Ministering to the One]] — Elder Peter M. Johnson, 2025-October *(explicit citation)*
 - [[Christ Heals That Which Is Broken (Amy A. Wright, April 2022)|Christ Heals That Which Is Broken]] — Amy A. Wright, 2022-April *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
 - [[Essential Truths—Our Need to Act (Elder Adilson de Paula Parrella, October 2017)|Essential Truths—Our Need to Act]] — Elder Adilson de Paula Parrella, 2017-October *(explicit citation)*
 - [[Ministering as the Savior Does (Jean B. Bingham, April 2018)|Ministering as the Savior Does]] — Jean B. Bingham, 2018-April *(explicit citation)*
 - [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
 - [[Closing Remarks (President Russell M. Nelson, October 2019)|Closing Remarks]] — President Russell M. Nelson, 2019-October *(explicit citation)*
-- [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -109,12 +109,12 @@ Acts 3:21 is important to [[Restoration of the Gospel]], but careful study shoul
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 10: Loving, Faithful Priesthood Service** (teachings) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **The Word of Wisdom** (history) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
-- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 28
 slug: isa-28
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ The closing agricultural discourse may also be read in relation to [[Justice and
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **The Manifesto and the End of Plural Marriage** (reference-entry) *(explicit citation)*
 - **Chapter 3: Living the Gospel** (teachings) *(explicit citation)*
@@ -99,6 +100,8 @@ The closing agricultural discourse may also be read in relation to [[Justice and
 - **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 - **Chapter 30: Developing Christlike Attitudes toward Others** (teachings) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Chapter 10: Our Search for Truth** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

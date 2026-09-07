@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 24
 slug: dc-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -43,6 +43,7 @@ This organization reflects observable pronoun and subject changes without requir
 
 ## Places
 <!-- SG:BEGIN places -->
+- [[Colesville]] — 1 mention
 - [[Fayette]] — 1 mention
 <!-- SG:END places -->
 
@@ -99,11 +100,15 @@ Verses 3, 9, and 18 connect ordinary labor, specialized calling, and church supp
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘Thou Art an Elect Lady’** (history) *(explicit citation)*
+- **March 17–23: “Seek for the Things of a Better World”: Doctrine and Covenants 23–26** (lesson) *(explicit citation)*
 - **09 Come Life or Come Death** (history) *(explicit citation)*
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
 - **Chapter 43: ‘He Was a Prophet of God’: Contemporaries of Joseph Smith Testify of His Prophetic Mission** (teachings) *(explicit citation)*
+- **Chapter 18: Service in the Church** (teachings) *(explicit citation)*
+- **Chapter 1: The Restoration of the Gospel** (teachings) *(explicit citation)*
+- **Chapter 15: Living by Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 9
 slug: 2ne-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ The chapter sharply distinguishes universal [[Resurrection]] from salvation in t
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 - [[A Living Witness of the Living Christ (Bishop Gérald Caussé, April 2020)|A Living Witness of the Living Christ]] — Bishop Gérald Caussé, 2020-April *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
@@ -86,7 +87,6 @@ The chapter sharply distinguishes universal [[Resurrection]] from salvation in t
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[Think Celestial! (President Russell M. Nelson, October 2023)|Think Celestial!]] — President Russell M. Nelson, 2023-October *(explicit citation)*
 - [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
-- [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -100,7 +100,7 @@ The chapter sharply distinguishes universal [[Resurrection]] from salvation in t
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Death, Physical** (reference-entry) *(explicit citation)*
-- **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 5: The Infinite Atonement of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

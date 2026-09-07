@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 5
 slug: dc-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,16 +95,16 @@ The chapter places material viewing, transmitted words, commissioned testimony, 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 27–February 2: “My Work Shall Go Forth”: Doctrine and Covenants 3–5** (lesson) *(explicit citation)*
 - **06 The Gift and Power of God** (history) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **Doctrine and Covenants** (reference-entry) *(explicit citation)*
 - **07 Fellow Servants** (history) *(explicit citation)*
+- **Chapter 7: Joseph and Hyrum Smith, Witnesses for Christ** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Ezra** (reference-entry) *(explicit citation)*
 - **Chapter 6: The Mission of John the Baptist** (teachings) *(explicit citation)*
-- **Chapter 46: The Martyrdom: The Prophet Seals His Testimony with His Blood** (teachings) *(explicit citation)*
-- **Chapter 47: ‘Praise to the Man’: Latter-day Prophets Bear Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

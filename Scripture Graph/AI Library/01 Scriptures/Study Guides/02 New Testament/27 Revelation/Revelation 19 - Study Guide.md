@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 19
 slug: rev-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,10 +51,11 @@ _Not yet developed._
 - [[D&C 29]] — 1 footnote cross-reference (from [[Revelation 19#^rev-19-2|Revelation 19:2]])
 - [[Genesis 19]] — 1 footnote cross-reference (from [[Revelation 19#^rev-19-3|Revelation 19:3]])
 - [[Daniel 2]] — 1 footnote cross-reference (from [[Revelation 19#^rev-19-6|Revelation 19:6]])
+- [[Revelation 6]] — 3 parallel verses, e.g. [[Revelation 19#^rev-19-11|Revelation 19:11]] ↔ [[Revelation 6#^rev-6-2|Revelation 6:2]]
+- [[Revelation 14]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-6|Revelation 19:6]] ↔ [[Revelation 14#^rev-14-2|Revelation 14:2]]
 - [[D&C 133]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-6|Revelation 19:6]] ↔ [[D&C 133#^dc-133-22|D&C 133:22]]
-- [[Revelation 6]] — 0 parallel verses
-- [[Revelation 2]] — 0 parallel verses
-- [[Revelation 22]] — 0 parallel verses
+- [[Revelation 22]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-10|Revelation 19:10]] ↔ [[Revelation 22#^rev-22-9|Revelation 22:9]]
+- [[Revelation 2]] — 1 parallel verse, e.g. [[Revelation 19#^rev-19-15|Revelation 19:15]] ↔ [[Revelation 2#^rev-2-27|Revelation 2:27]]
 - [[Revelation 17]] — 0 parallel verses
 - [[D&C 133]] — 0 parallel verses
 - [[Ezekiel 39]] — 0 parallel verses
@@ -62,15 +63,14 @@ _Not yet developed._
 - [[Ezekiel 39]] — 0 parallel verses
 - [[D&C 58]] — 0 parallel verses
 - [[D&C 65]] — 0 parallel verses
-- [[Isaiah 63]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prophecy]]
-- [[War and Peace]]
 - [[Final Judgment]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -92,6 +92,7 @@ _Not yet developed._
 - [[The Lord Jesus Christ Will Come Again (President Russell M. Nelson, October 2024)|The Lord Jesus Christ Will Come Again]] — President Russell M. Nelson, 2024-October *(explicit citation)*
 - [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
+- [[The Power of a Personal Testimony (Elder Dieter F. Uchtdorf, October 2006)|The Power of a Personal Testimony]] — Elder Dieter F. Uchtdorf, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -104,6 +105,8 @@ _Not yet developed._
 - **The Seer 1853-03 (Vol. 1 No. 3)** (history, 1853-03) *(explicit citation)*
 - **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 - **Chapter 16: Revelation and the Living Prophet** (teachings) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
+- **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

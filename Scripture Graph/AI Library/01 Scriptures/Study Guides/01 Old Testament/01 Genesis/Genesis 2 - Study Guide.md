@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 2
 slug: gen-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -97,16 +97,16 @@ The chapter treats aloneness as “not good” and presents the woman as the cor
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 12–18. “In the Beginning God Created the Heaven and the Earth”: Genesis 1–2; Moses 2–3; Abraham 4–5** (lesson) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Same-Sex Marriage** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Sex Education and Behavior** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Seer 1853-06 (Vol. 1 No. 6)** (history, 1853-06) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
-- **Marriage** (reference-entry) *(explicit citation)*
-- **Animals** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

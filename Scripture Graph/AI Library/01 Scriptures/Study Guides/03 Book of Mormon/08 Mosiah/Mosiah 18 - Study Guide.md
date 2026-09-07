@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 18
 slug: mosiah-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ Scripture: [[Mosiah 18]] · My notes: [[Mosiah 18 - My Notes]]
 - [[Nehemiah 10]] — 2 footnote cross-references (from [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]])
 - [[Mosiah 4]] — 2 footnote cross-references (from [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]])
 - [[3 Nephi 20]] — 4 parallel verses, e.g. [[Mosiah 18#^mosiah-18-19|Mosiah 18:19]] ↔ [[3 Nephi 20#^3ne-20-1|3 Nephi 20:1]]
+- [[Mosiah 27]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-24|Mosiah 18:24]] ↔ [[Mosiah 27#^mosiah-27-5|Mosiah 27:5]]
 - [[Alma 62]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-4|Mosiah 18:4]] ↔ [[Alma 62#^alma-62-28|Alma 62:28]]
 - [[3 Nephi 17]] — 3 parallel verses, e.g. [[Mosiah 18#^mosiah-18-13|Mosiah 18:13]] ↔ [[3 Nephi 17#^3ne-17-15|3 Nephi 17:15]]
 - [[Mosiah 21]] — 2 parallel verses, e.g. [[Mosiah 18#^mosiah-18-10|Mosiah 18:10]] ↔ [[Mosiah 21#^mosiah-21-31|Mosiah 21:31]]
@@ -72,9 +73,9 @@ Scripture: [[Mosiah 18]] · My notes: [[Mosiah 18 - My Notes]]
 - [[Covenants]]
 - [[Kingdom of God]]
 - [[Work and Self-Reliance]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Priesthood]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
-- [[Faith]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -102,6 +103,8 @@ Alma's preaching is explicitly centered on the [[Atonement of Jesus Christ]] and
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
@@ -110,8 +113,6 @@ Alma's preaching is explicitly centered on the [[Atonement of Jesus Christ]] and
 - **Service** (reference-entry) *(explicit citation)*
 - **Unity** (reference-entry) *(explicit citation)*
 - **Witness** (reference-entry) *(explicit citation)*
-- **Caring for Those in Need** (reference-entry) *(explicit citation)*
-- **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

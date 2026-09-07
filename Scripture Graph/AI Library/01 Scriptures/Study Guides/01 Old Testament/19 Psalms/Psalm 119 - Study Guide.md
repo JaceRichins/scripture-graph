@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 119
 slug: ps-119
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,12 +80,16 @@ God's word is portrayed as life-giving, guiding, and true (Psalm 119:25, 105, 14
 - [[Yes, Lord, I Will Follow Thee (Elder Eduardo Gavarret, October 2014)|Yes, Lord, I Will Follow Thee]] — Elder Eduardo Gavarret, 2014-October *(explicit citation)*
 - [[Conference Report, October 1925 (General Conference (full report), October 1925)|Conference Report, October 1925]] — General Conference (full report), 1925-October *(explicit citation)*
 - [[Teaching Our Children to Understand (Cheryl A. Esplin, April 2012)|Teaching Our Children to Understand]] — Cheryl A. Esplin, 2012-April *(explicit citation)*
+- [[And Nothing Shall Offend Them (Elder David A. Bednar, October 2006)|And Nothing Shall Offend Them]] — Elder David A. Bednar, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
+- **Chapter 10: Our Search for Truth** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

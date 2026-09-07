@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 19
 slug: 1chr-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,7 +69,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Thoughts to Keep in Mind: The Historical Books in the Old Testament** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

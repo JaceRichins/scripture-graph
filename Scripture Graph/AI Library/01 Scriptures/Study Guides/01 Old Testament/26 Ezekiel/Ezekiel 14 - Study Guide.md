@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 14
 slug: ezek-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -58,8 +58,8 @@ Ezekiel 14 contains two related oracles. Verses 1–11 confront people who seek 
 - [[Leviticus 20]] — 2 parallel verses, e.g. [[Ezekiel 14#^ezek-14-8|Ezekiel 14:8]] ↔ [[Leviticus 20#^lev-20-3|Leviticus 20:3]]
 - [[Ezekiel 33]] — 4 parallel verses, e.g. [[Ezekiel 14#^ezek-14-4|Ezekiel 14:4]] ↔ [[Ezekiel 33#^ezek-33-25|Ezekiel 33:25]]
 - [[Ezekiel 37]] — 3 parallel verses, e.g. [[Ezekiel 14#^ezek-14-4|Ezekiel 14:4]] ↔ [[Ezekiel 37#^ezek-37-12|Ezekiel 37:12]]
-- [[Ezekiel 5]] — 3 parallel verses, e.g. [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]] ↔ [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]]
 - [[Ezekiel 24]] — 2 parallel verses, e.g. [[Ezekiel 14#^ezek-14-6|Ezekiel 14:6]] ↔ [[Ezekiel 24#^ezek-24-21|Ezekiel 24:21]]
+- [[Ezekiel 5]] — 3 parallel verses, e.g. [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]] ↔ [[Ezekiel 5#^ezek-5-11|Ezekiel 5:11]]
 - [[Ezekiel 16]] — 3 parallel verses, e.g. [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]] ↔ [[Ezekiel 16#^ezek-16-48|Ezekiel 16:48]]
 - [[Ezekiel 17]] — 3 parallel verses, e.g. [[Ezekiel 14#^ezek-14-16|Ezekiel 14:16]] ↔ [[Ezekiel 17#^ezek-17-16|Ezekiel 17:16]]
 - [[Ezekiel 25]] — 2 parallel verses, e.g. [[Ezekiel 14#^ezek-14-13|Ezekiel 14:13]] ↔ [[Ezekiel 25#^ezek-25-13|Ezekiel 25:13]]

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 2
 slug: 2pet-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ Scripture: [[2 Peter 2]] · My notes: [[2 Peter 2 - My Notes]]
 - **Conversation** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
 - **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
+- **Chapter 9: Overcoming Temptation** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

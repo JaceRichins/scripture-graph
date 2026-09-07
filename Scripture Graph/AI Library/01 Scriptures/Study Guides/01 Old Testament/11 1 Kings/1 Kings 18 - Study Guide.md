@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 18
 slug: 1kgs-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,10 +83,12 @@ The chapter bears on [[Prophets]], [[Sacrifice]], [[Miracles]], and [[Prayer]]. 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 29–July 5. “If the Lord Be God, Follow Him”: 1 Kings 12–13; 17–22** (lesson) *(explicit citation)*
 - **Ahab** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
 - **Elijah** (reference-entry) *(explicit citation)*
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

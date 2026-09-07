@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 118
 slug: dc-118
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -31,6 +31,7 @@ _Not yet developed._
 - [[Thomas (apostle)]] — 1 mention
 - [[John Taylor]] — 1 mention
 - [[Wilford Woodruff]] — 1 mention
+- [[Willard Richards]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -59,6 +60,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Couple Missionaries Blessings from Sacrifice and Service (Elder Robert D. Hales, April 2005)|Couple Missionaries: Blessings from Sacrifice and Service]] — Elder Robert D. Hales, 2005-April *(explicit citation)*
 - [[Brethren, We Have Work to Do (Elder D. Todd Christofferson, October 2012)|Brethren, We Have Work to Do]] — Elder D. Todd Christofferson, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -67,7 +69,9 @@ _Not yet developed._
 - **‘Take Special Care of Your Family’** (history) *(explicit citation)*
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
 - **33 O God, Where Art Thou?** (history) *(explicit citation)*
+- **Chapter 14: Remembering Our Spiritual Heritage** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Historical Summary** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

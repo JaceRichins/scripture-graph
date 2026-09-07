@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 2
 slug: james-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Joshua 6]] — 0 parallel verses
 - [[1 John 3]] — 0 parallel verses
 - [[Genesis 22]] — 0 parallel verses
+- [[Romans 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -63,8 +64,8 @@ _Not yet developed._
 - [[Joshua 2]]
 - [[Final Judgment]] *(keyword match — unconfirmed)*
 - [[Justification and Sanctification]] *(keyword match — unconfirmed)*
-- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 - [[Justice and Mercy]] *(keyword match — unconfirmed)*
+- [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -77,6 +78,7 @@ James also makes mercy an issue of accountability: those who show no mercy face 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[In Praise of Those Who Save (President Dieter F. Uchtdorf, April 2016)|In Praise of Those Who Save]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
+- [[Strengthen Thy Brethren (Elder Robert J. Whetten, April 2005)|Strengthen Thy Brethren]] — Elder Robert J. Whetten, 2005-April *(explicit citation)*
 - [[He Will Place You on His Shoulders and Carry You Home (President Dieter F. Uchtdorf, April 2016)|He Will Place You on His Shoulders and Carry You Home]] — President Dieter F. Uchtdorf, 2016-April *(explicit citation)*
 - [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
@@ -85,13 +87,13 @@ James also makes mercy an issue of accountability: those who show no mercy face 
 - [[God Knows and Loves You (Elder Alan T. Phillips, October 2023)|God Knows and Loves You]] — Elder Alan T. Phillips, 2023-October *(explicit citation)*
 - [[The Lord Is Hastening His Work (Elder Quentin L. Cook, October 2025)|The Lord Is Hastening His Work]] — Elder Quentin L. Cook, 2025-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
-- [[If Ye Lack Wisdom (Elder Marcos A. Aidukaitis, April 2014)|If Ye Lack Wisdom]] — Elder Marcos A. Aidukaitis, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
+- **Chapter 5: Faith and Repentance** (teachings) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Journal of Discourses, Volume 10** (history, ~1863) *(explicit citation)*
@@ -99,7 +101,6 @@ James also makes mercy an issue of accountability: those who show no mercy face 
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Death** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
-- **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

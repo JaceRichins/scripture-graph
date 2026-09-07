@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 8
 slug: amos-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,16 +82,21 @@ _Not yet developed._
 - [[The Virtue of the Word (Elder Mark D. Eddy, October 2022)|The Virtue of the Word]] — Elder Mark D. Eddy, 2022-October *(explicit citation)*
 - [[It’s a Miracle (Elder Neil L. Andersen, April 2013)|It’s a Miracle]] — Elder Neil L. Andersen, 2013-April *(explicit citation)*
 - [[Can Ye Feel So Now (Elder Quentin L. Cook, October 2012)|Can Ye Feel So Now?]] — Elder Quentin L. Cook, 2012-October *(explicit citation)*
+- [[The Light in Their Eyes (President James E. Faust, October 2005)|The Light in Their Eyes]] — President James E. Faust, 2005-October *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
 - **Chapter 1: The First Vision: The Father and the Son Appear to Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 1: The Restoration of the Gospel** (teachings) *(explicit citation)*
+- **Chapter 4: The Prophet Joseph Smith, God’s Instrument in Restoring the Truth** (teachings) *(explicit citation)*
+- **Chapter 12: An Enthusiastic Desire to Share the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

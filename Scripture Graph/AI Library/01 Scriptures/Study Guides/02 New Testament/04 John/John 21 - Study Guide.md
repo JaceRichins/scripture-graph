@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 21
 slug: john-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,17 +81,22 @@ The chapter depicts the risen [[Jesus Christ (Gospel Topic)]] as present, author
 - [[I Pray He’ll Use Us (Sharon Eubank, October 2021)|I Pray He’ll Use Us]] — Sharon Eubank, 2021-October *(explicit citation)*
 - [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
 - [[“Lovest Thou Me” (Elder Steven C. Barlow, October 2025)|“Lovest Thou Me?”]] — Elder Steven C. Barlow, 2025-October *(explicit citation)*
+- [[Strengthen Thy Brethren (Elder Robert J. Whetten, April 2005)|Strengthen Thy Brethren]] — Elder Robert J. Whetten, 2005-April *(explicit citation)*
 - [[God’s Favourite (Elder Karl D. Hirst, October 2024)|God’s Favourite]] — Elder Karl D. Hirst, 2024-October *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
-- [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 20: Teaching, a Noble Work** (teachings) *(explicit citation)*
 - **Clothing** (reference-entry) *(explicit citation)*
 - **Fish** (reference-entry) *(explicit citation)*
 - **Chapter 39: Relief Society: Divine Organization of Women** (teachings) *(explicit citation)*
 - **Chapter 17: The Scriptures** (teachings) *(explicit citation)*
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
+- **Chapter 13: Priesthood, the Government and Power of God** (teachings) *(explicit citation)*
+- **Chapter 18: Church Leadership and Selfless Service** (teachings) *(explicit citation)*
+- **Chapter 22: Charity in Our Souls** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

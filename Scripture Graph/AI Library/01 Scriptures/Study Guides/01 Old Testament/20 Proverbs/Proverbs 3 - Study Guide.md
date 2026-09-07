@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 3
 slug: prov-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,9 +59,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Tree of Life]]
 - [[Pride]]
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -92,10 +92,16 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
+- **December 8–14: “We Believe”: Articles of Faith and Official Declarations 1 and 2** (lesson) *(explicit citation)*
+- **Chapter 16: Strengthening Our Relationship with God** (teachings) *(explicit citation)*
+- **Chapter 18: Service in the Church** (teachings) *(explicit citation)*
+- **Chapter 21: Strengthening Families** (teachings) *(explicit citation)*
+- **Chapter 10: Humble Reliance on God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

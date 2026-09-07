@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 2
 slug: moro-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
+- **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

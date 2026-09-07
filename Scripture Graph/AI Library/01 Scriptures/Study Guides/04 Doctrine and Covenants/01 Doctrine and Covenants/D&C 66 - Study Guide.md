@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 66
 slug: dc-66
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -35,7 +35,7 @@ This organization is interpretive, but it follows the chapter's changes in subje
 ## People
 <!-- SG:BEGIN people -->
 - [[Jesus Christ]] — 3 mentions
-- [[Samuel (prophet)]] — 1 mention
+- [[Samuel H. Smith]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -53,8 +53,8 @@ _Not yet developed._
 - [[D&C 90]] — 1 footnote cross-reference (from [[D&C 66#^dc-66-1|D&C 66:1]])
 - [[D&C 75]] — 2 parallel verses, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 75#^dc-75-3|D&C 75:3]]
 - [[D&C 88]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 88#^dc-88-63|D&C 88:63]]
-- [[D&C 4]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 4#^dc-4-7|D&C 4:7]]
 - [[3 Nephi 27]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[3 Nephi 27#^3ne-27-29|3 Nephi 27:29]]
+- [[D&C 4]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 4#^dc-4-7|D&C 4:7]]
 - [[D&C 49]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-9|D&C 66:9]] ↔ [[D&C 49#^dc-49-26|D&C 49:26]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 93#^dc-93-53|D&C 93:53]]
 - [[D&C 79]] — 1 parallel verse, e.g. [[D&C 66#^dc-66-5|D&C 66:5]] ↔ [[D&C 79#^dc-79-1|D&C 79:1]]
@@ -95,12 +95,14 @@ The concluding promise connects continued faithfulness with [[Eternal Life]] (D&
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 16–22: “The Lord Requireth the Heart and a Willing Mind”: Doctrine and Covenants 64–66** (lesson) *(explicit citation)*
 - **13 The Gift Has Returned** (history) *(explicit citation)*
 - **William McLellin’s Five Questions** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
+- **December 22–28: “The Matchless Gift of God’s Divine Son”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

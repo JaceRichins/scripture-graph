@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 5
 slug: abr-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,9 +80,11 @@ The chapter contributes directly to several doctrinal themes. Rest and sanctific
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 12–18. “In the Beginning God Created the Heaven and the Earth”: Genesis 1–2; Moses 2–3; Abraham 4–5** (lesson) *(explicit citation)*
 - **Spirit (or Soul)** (reference-entry) *(explicit citation)*
 - **Family Councils** (reference-entry) *(explicit citation)*
 - **Eden, Garden of** (reference-entry) *(explicit citation)*
+- **Chapter 2: The Dual Nature of Man** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

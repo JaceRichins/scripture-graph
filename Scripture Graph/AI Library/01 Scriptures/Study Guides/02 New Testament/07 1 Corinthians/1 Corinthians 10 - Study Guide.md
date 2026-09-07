@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 10
 slug: 1cor-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 - [[1 Corinthians 6]] — 0 parallel verses
 - [[Exodus 14]] — 0 parallel verses
 - [[Hebrews 3]] — 0 parallel verses
+- [[Numbers 25]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -87,6 +88,7 @@ _Not yet developed._
 - [[Preparation Brings Blessings (President Thomas S. Monson, April 2010)|Preparation Brings Blessings]] — President Thomas S. Monson, 2010-April *(explicit citation)*
 - [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
 - [[The Three Rs of Choice (President Thomas S. Monson, October 2010)|The Three Rs of Choice]] — President Thomas S. Monson, 2010-October *(explicit citation)*
+- [[True to the Faith (President Thomas S. Monson, April 2006)|True to the Faith]] — President Thomas S. Monson, 2006-April *(explicit citation)*
 - [[Courage to Proclaim the Truth (Elder Denelson Silva, October 2022)|Courage to Proclaim the Truth]] — Elder Denelson Silva, 2022-October *(explicit citation)*
 - [[Becoming Provident Providers Temporally and Spiritually (Elder Robert D. Hales, April 2009)|Becoming Provident Providers Temporally and Spiritually]] — Elder Robert D. Hales, 2009-April *(explicit citation)*
 - [[Prayer and Promptings (President Boyd K. Packer, October 2009)|Prayer and Promptings]] — President Boyd K. Packer, 2009-October *(explicit citation)*
@@ -103,6 +105,7 @@ _Not yet developed._
 - **Communion** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
+- **March 9–15. “The Lord Was with Joseph”: Genesis 37–41** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

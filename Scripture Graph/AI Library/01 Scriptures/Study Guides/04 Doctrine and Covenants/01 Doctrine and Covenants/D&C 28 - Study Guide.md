@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 28
 slug: dc-28
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -37,6 +37,7 @@ The chapter moves through four connected matters:
 - [[Moses (prophet)]] — 1 mention
 - [[Aaron (brother of Moses)]] — 1 mention
 - [[Joseph (of Egypt)]] — 1 mention
+- [[Hiram Page]] — 1 mention
 - [[Satan]] — 1 mention
 <!-- SG:END people -->
 
@@ -86,6 +87,7 @@ The wording about appointing another in Joseph's stead is relevant to [[Prophets
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘All Things Must Be Done in Order’** (history) *(explicit citation)*
+- **March 24–30: “All Things Must Be Done in Order”: Doctrine and Covenants 27–28** (lesson) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
 - **A Mission to the Lamanites** (history) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
@@ -94,7 +96,6 @@ The wording about appointing another in Joseph's stead is relevant to [[Prophets
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
-- **Historical Summary** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

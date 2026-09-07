@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 23
 slug: prov-23
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[2 Nephi 9]] — 1 footnote cross-reference (from [[Proverbs 23#^prov-23-4|Proverbs 23:4]])
 - [[Matthew 7]] — 1 footnote cross-reference (from [[Proverbs 23#^prov-23-9|Proverbs 23:9]])
 - [[Matthew 15]] — 1 footnote cross-reference (from [[Proverbs 23#^prov-23-9|Proverbs 23:9]])
+- [[Proverbs 22]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -61,11 +62,14 @@ _Not yet developed._
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[A Royal Priesthood (President Thomas S. Monson, October 2007)|A Royal Priesthood]] — President Thomas S. Monson, 2007-October *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
+- [[My Soul Delighteth in the Scriptures (Cheryl C. Lant, October 2005)|My Soul Delighteth in the Scriptures]] — Cheryl C. Lant, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Abuse** (reference-entry) *(explicit citation)*
+- **Chapter 23: Developing a Christlike Character** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

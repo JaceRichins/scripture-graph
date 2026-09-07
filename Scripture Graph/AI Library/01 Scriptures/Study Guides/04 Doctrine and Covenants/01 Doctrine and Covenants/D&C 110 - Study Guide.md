@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 110
 slug: dc-110
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -97,13 +97,14 @@ Verse 9 refers to an endowment already received in the house but does not descri
 - [[He Goes before Us (President Henry B. Eyring, April 2020)|He Goes before Us]] — President Henry B. Eyring, 2020-April *(explicit citation)*
 - [[The Sealing Power (Elder D. Todd Christofferson, October 2023)|The Sealing Power]] — Elder D. Todd Christofferson, 2023-October *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[“Let This House Be Built unto My Name” (Elder David A. Bednar, April 2020)|“Let This House Be Built unto My Name”]] — Elder David A. Bednar, 2020-April *(explicit citation)*
 - [[Conversion to the Will of God (Elder Quentin L. Cook, April 2022)|Conversion to the Will of God]] — Elder Quentin L. Cook, 2022-April *(explicit citation)*
-- [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 29–October 5: “It Is Thy House, a Place of Thy Holiness”: Doctrine and Covenants 109–110** (lesson) *(explicit citation)*
 - **21 The Spirit of God** (history) *(explicit citation)*
 - **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
@@ -112,8 +113,7 @@ Verse 9 refers to an endowment already received in the house but does not descri
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **Restoration of the Priesthood** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
-- **A School and an Endowment** (history) *(explicit citation)*
-- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Covenant** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

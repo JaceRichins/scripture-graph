@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 1
 slug: acts-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ Acts 1:8's geography (Jerusalem, Judæa, Samaria, uttermost part of the earth) f
 - [[Matthew 27]] — 0 parallel verses
 - [[3 Nephi 18]] — 0 parallel verses
 - [[Acts 13]] — 0 parallel verses
+- [[Luke 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -95,6 +96,7 @@ Acts 1:8's geography (Jerusalem, Judæa, Samaria, uttermost part of the earth) f
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[Guided by the Holy Spirit (President Boyd K. Packer, April 2011)|Guided by the Holy Spirit]] — President Boyd K. Packer, 2011-April *(explicit citation)*
 - [[The Twelve (President Boyd K. Packer, April 2008)|The Twelve]] — President Boyd K. Packer, 2008-April *(explicit citation)*
+- [[Prophets in the Land Again (Elder Jeffrey R. Holland, October 2006)|Prophets in the Land Again]] — Elder Jeffrey R. Holland, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

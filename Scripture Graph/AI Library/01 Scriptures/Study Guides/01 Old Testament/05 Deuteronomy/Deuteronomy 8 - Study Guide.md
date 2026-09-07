@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 8
 slug: deut-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,10 +94,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 11–17. “Beware Lest Thou Forget the Lord”: Deuteronomy 6–8; 15; 18; 29–30; 34** (lesson) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1841-09-15 (Vol. 2 No. 22)** (periodical, 1841-09-15) *(explicit citation)*
 - **Barley** (reference-entry) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
+- **Chapter 18: Living by Every Word that Proceeds from the Mouth of God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

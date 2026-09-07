@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 12
 slug: 2kgs-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

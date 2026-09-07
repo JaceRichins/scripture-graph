@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 13
 slug: hel-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,7 +101,7 @@ Verse 38 describes a point at which probation is past, while verse 39 renews the
 - [[Harden Not Your Heart (Elder Christopher H. Kim, April 2025)|Harden Not Your Heart]] — Elder Christopher H. Kim, 2025-April *(explicit citation)*
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
-- [[The Blessing of Scripture (Elder D. Todd Christofferson, April 2010)|The Blessing of Scripture]] — Elder D. Todd Christofferson, 2010-April *(explicit citation)*
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

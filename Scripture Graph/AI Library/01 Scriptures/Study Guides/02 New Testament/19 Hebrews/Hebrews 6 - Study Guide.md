@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 6
 slug: heb-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 - **Life of Heber C. Kimball** (history, 1888) *(explicit citation)*
 - **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 - **Chapter 17: The Great Plan of Salvation** (teachings) *(explicit citation)*
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

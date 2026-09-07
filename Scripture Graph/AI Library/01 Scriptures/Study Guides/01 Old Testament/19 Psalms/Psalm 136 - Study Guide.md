@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 136
 slug: ps-136
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[“Repent … That I May Heal You” (Elder Neil L. Andersen, October 2009)|“Repent … That I May Heal You”]] — Elder Neil L. Andersen, 2009-October *(explicit citation)*
+- [[Prophets in the Land Again (Elder Jeffrey R. Holland, October 2006)|Prophets in the Land Again]] — Elder Jeffrey R. Holland, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

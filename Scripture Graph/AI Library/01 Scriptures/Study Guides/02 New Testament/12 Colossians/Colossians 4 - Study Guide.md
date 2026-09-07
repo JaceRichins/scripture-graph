@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 4
 slug: col-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ Ministry is collaborative. Tychicus communicates and comforts, Onesimus accompan
 - **Barnabas** (reference-entry) *(explicit citation)*
 - **Colosse** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 7: The Significance of the Resurrection** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

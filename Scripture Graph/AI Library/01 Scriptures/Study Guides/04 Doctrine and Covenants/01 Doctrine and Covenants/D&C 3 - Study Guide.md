@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 3
 slug: dc-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ Verse 20 presents an intended salvation sequence: recipients are to learn the pr
 ## Church History
 <!-- SG:BEGIN history -->
 - **06 The Gift and Power of God** (history) *(explicit citation)*
+- **January 27–February 2: “My Work Shall Go Forth”: Doctrine and Covenants 3–5** (lesson) *(explicit citation)*
 - **A Mission to the Lamanites** (history) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **The Experience of the Three Witnesses** (history) *(explicit citation)*
@@ -104,7 +105,6 @@ Verse 20 presents an intended salvation sequence: recipients are to learn the pr
 - **Index by Section Number** (history) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
 - **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
-- **Chapter 5: Repentance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

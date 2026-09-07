@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 86
 slug: dc-86
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -79,11 +79,13 @@ The chapter's clearest teaching about judgment is restraint: removing evil prema
 ## Church History
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
+- **August 4–10: “Stand Ye in Holy Places”: Doctrine and Covenants 85–87** (lesson) *(explicit citation)*
 - **Chapter 25: Truths from the Savior’s Parables in Matthew 13** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Chapter 17: The Scriptures** (teachings) *(explicit citation)*
 - **Chapter 25: Cultivating Gratitude, Humility, and Honesty** (teachings) *(explicit citation)*
+- **Chapter 26: Preparing for the Coming of Our Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

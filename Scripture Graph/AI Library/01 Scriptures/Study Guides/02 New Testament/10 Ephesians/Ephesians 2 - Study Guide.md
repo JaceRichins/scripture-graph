@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 2
 slug: eph-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -60,13 +60,14 @@ _Not yet developed._
 - [[1 Corinthians 3]] — 0 parallel verses
 - [[Colossians 2]] — 0 parallel verses
 - [[Isaiah 57]] — 0 parallel verses
+- [[Mormon 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Grace]]
-- [[Apostles]]
 - [[Prophets]]
+- [[Apostles]]
 - [[Jews and Gentiles]]
 - [[Justification and Sanctification]]
 <!-- SG:END topics -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 9
 slug: 1kgs-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,12 +82,14 @@ Some readers see in verse 3 ("to put my name there for ever... mine eyes and min
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Earning the Trust of the Lord and Your Family (Elder Richard J. Maynes, October 2017)|Earning the Trust of the Lord and Your Family]] — Elder Richard J. Maynes, 2017-October *(explicit citation)*
+- [[Journey to Higher Ground (Elder Joseph B. Wirthlin, October 2005)|Journey to Higher Ground]] — Elder Joseph B. Wirthlin, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Egypt** (reference-entry) *(explicit citation)*
 - **Galilee** (reference-entry) *(explicit citation)*
+- **June 22–28. “Hear Thou in Heaven Their Prayer”: 2 Samuel 11–12; 1 Kings 3; 6–9; 11** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

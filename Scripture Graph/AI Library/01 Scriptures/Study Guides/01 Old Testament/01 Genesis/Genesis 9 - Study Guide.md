@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 9
 slug: gen-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,10 +83,12 @@ The prohibition on eating blood 'which is the life thereof' (v.4) treats blood a
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
+- [[Gospel Covenants Bring Promised Blessings (Elder Paul E. Koelliker, October 2005)|Gospel Covenants Bring Promised Blessings]] — Elder Paul E. Koelliker, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 9–15. “Noah Found Grace in the Eyes of the Lord”: Genesis 6–11; Moses 8** (lesson) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1846-01-15 (Vol. 6 No. 21)** (periodical, 1846-01-15) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*

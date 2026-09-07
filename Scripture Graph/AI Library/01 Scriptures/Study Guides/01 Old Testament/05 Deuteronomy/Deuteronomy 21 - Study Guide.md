@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 21
 slug: deut-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ _Not yet developed._
 - **Deuteronomy** (reference-entry) *(explicit citation)*
 - **Firstborn** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Seer 1853-09 (Vol. 1 No. 9)** (history, 1853-09) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

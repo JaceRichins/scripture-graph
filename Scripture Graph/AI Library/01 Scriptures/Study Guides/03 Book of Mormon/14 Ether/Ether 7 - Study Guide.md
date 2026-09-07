@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 7
 slug: ether-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
 - [[Taking on the Name of Jesus Christ (Elder Dale G. Renlund, October 2025)|Taking on the Name of Jesus Christ]] — Elder Dale G. Renlund, 2025-October *(explicit citation)*
+- [[Prophets in the Land Again (Elder Jeffrey R. Holland, October 2006)|Prophets in the Land Again]] — Elder Jeffrey R. Holland, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

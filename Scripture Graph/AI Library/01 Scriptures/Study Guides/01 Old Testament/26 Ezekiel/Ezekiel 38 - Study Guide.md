@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 38
 slug: ezek-38
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 - [[Ezekiel 26]] — 1 parallel verse, e.g. [[Ezekiel 38#^ezek-38-3|Ezekiel 38:3]] ↔ [[Ezekiel 26#^ezek-26-3|Ezekiel 26:3]]
 - [[Revelation 20]] — 0 parallel verses
 - [[Ezekiel 39]] — 0 parallel verses
+- [[Revelation 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

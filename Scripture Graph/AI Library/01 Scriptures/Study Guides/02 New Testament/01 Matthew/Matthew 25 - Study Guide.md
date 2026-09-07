@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 25
 slug: matt-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,21 +53,21 @@ _Not yet developed._
 - [[D&C 133]] — 2 parallel verses, e.g. [[Matthew 25#^matt-25-13|Matthew 25:13]] ↔ [[D&C 133#^dc-133-11|D&C 133:11]]
 - [[D&C 29]] — 1 parallel verse, e.g. [[Matthew 25#^matt-25-41|Matthew 25:41]] ↔ [[D&C 29#^dc-29-28|D&C 29:28]]
 - [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[Matthew 25#^matt-25-30|Matthew 25:30]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-54|Joseph Smith—Matthew 1:54]]
+- [[Matthew 8]] — 1 parallel verse, e.g. [[Matthew 25#^matt-25-30|Matthew 25:30]] ↔ [[Matthew 8#^matt-8-12|Matthew 8:12]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Matthew 25#^matt-25-30|Matthew 25:30]] ↔ [[Matthew 22#^matt-22-13|Matthew 22:13]]
+- [[Luke 13]] — 2 parallel verses, e.g. [[Matthew 25#^matt-25-30|Matthew 25:30]] ↔ [[Luke 13#^luke-13-28|Luke 13:28]]
 - [[Mosiah 26]] — 1 parallel verse, e.g. [[Matthew 25#^matt-25-41|Matthew 25:41]] ↔ [[Mosiah 26#^mosiah-26-27|Mosiah 26:27]]
 - [[Matthew 13]] — 1 parallel verse, e.g. [[Matthew 25#^matt-25-29|Matthew 25:29]] ↔ [[Matthew 13#^matt-13-12|Matthew 13:12]]
 - [[D&C 88]] — 1 parallel verse, e.g. [[Matthew 25#^matt-25-6|Matthew 25:6]] ↔ [[D&C 88#^dc-88-92|D&C 88:92]]
-- [[Matthew 8]] — 0 parallel verses
 - [[D&C 33]] — 0 parallel verses
 - [[D&C 63]] — 0 parallel verses
 - [[D&C 117]] — 0 parallel verses
-- [[D&C 51]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Service]]
 - [[Parables of Jesus]]
+- [[Service]]
 - [[Final Judgment]]
 - [[Kingdom of God]]
 - [[Work and Self-Reliance]] *(keyword match — unconfirmed)*

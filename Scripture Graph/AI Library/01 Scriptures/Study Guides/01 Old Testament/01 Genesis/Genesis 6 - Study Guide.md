@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 6
 slug: gen-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,15 +76,24 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
+- [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
 - [[Obedience to the Prophets (Elder Claudio R. M. Costa, October 2010)|Obedience to the Prophets]] — Elder Claudio R. M. Costa, 2010-October *(explicit citation)*
+- [[Gospel Covenants Bring Promised Blessings (Elder Paul E. Koelliker, October 2005)|Gospel Covenants Bring Promised Blessings]] — Elder Paul E. Koelliker, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 9–15. “Noah Found Grace in the Eyes of the Lord”: Genesis 6–11; Moses 8** (lesson) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Animals** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 2: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
+- **Chapter 13: The Sacred Importance of Temples** (teachings) *(explicit citation)*
+- **Chapter 17: A Testimony of the Truth** (teachings) *(explicit citation)*
+- **The Latter-day Saints' Millennial Star 1840-10 (Vol. 1 No. 6)** (history, 1840-10) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

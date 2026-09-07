@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 11
 slug: heb-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -116,14 +116,14 @@ Verse 26 gives the Moses narrative an explicitly christological interpretation. 
 <!-- SG:BEGIN history -->
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: Reading the Old Testament** (lesson) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 4** (history, 1902-1912) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1837-06-01 (Vol. 3 No. 9)** (periodical, 1837-06-01) *(explicit citation)*
 - **Abel** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
-- **Gifts of the Spirit** (reference-entry) *(explicit citation)*
-- **Sacrifice** (reference-entry) *(explicit citation)*
-- **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
+- **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
+- **Chapter 15: Living by Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

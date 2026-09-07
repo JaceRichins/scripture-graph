@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 4
 slug: 2tim-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

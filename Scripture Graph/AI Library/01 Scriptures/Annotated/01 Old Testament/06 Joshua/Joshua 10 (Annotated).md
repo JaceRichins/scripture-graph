@@ -81,18 +81,18 @@ cssclasses:
 > [[1 Kings 18#^1kgs-18-36|≈ 1 Kings 18:36]]
 
 ![[Joshua 10#^josh-10-28]]
-> [[Joshua 12#^josh-12-16|Josh. 12:16]] · [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]]
+> [[Joshua 12#^josh-12-16|Josh. 12:16]] · [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]]
 
 ![[Joshua 10#^josh-10-29]]
 > [[Joshua 12#^josh-12-15|Josh. 12:15]]
 
 ![[Joshua 10#^josh-10-30]]
-> [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]]
+> [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]]
 
 ![[Joshua 10#^josh-10-31]]
 
 ![[Joshua 10#^josh-10-32]]
-> [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]]
+> [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]]
 
 ![[Joshua 10#^josh-10-33]]
 > [[Joshua 12#^josh-12-12|Josh. 12:12]]
@@ -100,18 +100,18 @@ cssclasses:
 ![[Joshua 10#^josh-10-34]]
 
 ![[Joshua 10#^josh-10-35]]
-> [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]]
+> [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]]
 
 ![[Joshua 10#^josh-10-36]]
 
 ![[Joshua 10#^josh-10-37]]
-> [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]]
+> [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 8#^josh-8-24|≈ Joshua 8:24]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]]
 
 ![[Joshua 10#^josh-10-38]]
 > [[Joshua 12#^josh-12-13|Josh. 12:13]]
 
 ![[Joshua 10#^josh-10-39]]
-> [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]] · [[Judges 18#^judg-18-27|≈ Judges 18:27]]
+> [[Numbers 21#^num-21-24|≈ Numbers 21:24]] · [[Joshua 11#^josh-11-12|≈ Joshua 11:12]] · [[Joshua 11#^josh-11-11|≈ Joshua 11:11]] · [[Joshua 19#^josh-19-47|≈ Joshua 19:47]] · [[Judges 1#^judg-1-8|≈ Judges 1:8]] · [[Judges 18#^judg-18-27|≈ Judges 18:27]]
 
 ![[Joshua 10#^josh-10-40]]
 > [[Deuteronomy 20#^deut-20-17|Deut. 20:17 (17–18)]]

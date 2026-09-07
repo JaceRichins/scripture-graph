@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 11
 slug: neh-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -35,6 +35,7 @@ _Not yet developed._
 ## Places
 <!-- SG:BEGIN places -->
 - [[Jerusalem]] — 7 mentions
+- [[Lachish]] — 1 mention
 - [[Cumorah]] — 1 mention
 <!-- SG:END places -->
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 7
 slug: acts-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,11 +94,13 @@ A rejection-then-recognition pattern runs through the history — both Joseph an
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Discipleship (President James E. Faust, October 2006)|Discipleship]] — President James E. Faust, 2006-October *(explicit citation)*
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
 - [[The Father and the Son (Elder Christoffel Golden Jr., April 2013)|The Father and the Son]] — Elder Christoffel Golden Jr., 2013-April *(explicit citation)*
 - [[Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ (Elder Robert D. Hales, October 2009)|Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ]] — Elder Robert D. Hales, 2009-October *(explicit citation)*
 - [[I Know That My Redeemer Lives! (President Thomas S. Monson, April 2007)|I Know That My Redeemer Lives!]] — President Thomas S. Monson, 2007-April *(explicit citation)*
 - [[“Mom, Are We Christians” (Elder Gary J. Coleman, April 2007)|“Mom, Are We Christians?”]] — Elder Gary J. Coleman, 2007-April *(explicit citation)*
+- [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -111,6 +113,8 @@ A rejection-then-recognition pattern runs through the history — both Joseph an
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 25: Truths from the Savior’s Parables in Matthew 13** (teachings) *(explicit citation)*
+- **Chapter 23: Eternal Truth** (teachings) *(explicit citation)*
+- **Chapter 4: The Prophet Joseph Smith, God’s Instrument in Restoring the Truth** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

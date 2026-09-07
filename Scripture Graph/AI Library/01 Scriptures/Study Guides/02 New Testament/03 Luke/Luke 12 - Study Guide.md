@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 12
 slug: luke-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,18 +52,18 @@ _Not yet developed._
 - [[2 Nephi 9]] — 2 footnote cross-references (from [[Luke 12#^luke-12-34|Luke 12:34]])
 - [[Proverbs 28]] — 1 footnote cross-reference (from [[Luke 12#^luke-12-2|Luke 12:2]])
 - [[D&C 1]] — 1 footnote cross-reference (from [[Luke 12#^luke-12-3|Luke 12:3]])
+- [[Matthew 6]] — 7 parallel verses, e.g. [[Luke 12#^luke-12-22|Luke 12:22]] ↔ [[Matthew 6#^matt-6-25|Matthew 6:25]]
 - [[3 Nephi 13]] — 6 parallel verses, e.g. [[Luke 12#^luke-12-22|Luke 12:22]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
+- [[Matthew 24]] — 5 parallel verses, e.g. [[Luke 12#^luke-12-39|Luke 12:39]] ↔ [[Matthew 24#^matt-24-43|Matthew 24:43]]
 - [[Joseph Smith—Matthew 1]] — 5 parallel verses, e.g. [[Luke 12#^luke-12-43|Luke 12:43]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-50|Joseph Smith—Matthew 1:50]]
+- [[Matthew 10]] — 4 parallel verses, e.g. [[Luke 12#^luke-12-2|Luke 12:2]] ↔ [[Matthew 10#^matt-10-26|Matthew 10:26]]
+- [[Matthew 12]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-10|Luke 12:10]] ↔ [[Matthew 12#^matt-12-32|Matthew 12:32]]
+- [[Matthew 16]] — 3 parallel verses, e.g. [[Luke 12#^luke-12-56|Luke 12:56]] ↔ [[Matthew 16#^matt-16-3|Matthew 16:3]]
+- [[Matthew 5]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-58|Luke 12:58]] ↔ [[Matthew 5#^matt-5-25|Matthew 5:25]]
 - [[D&C 84]] — 2 parallel verses, e.g. [[Luke 12#^luke-12-29|Luke 12:29]] ↔ [[D&C 84#^dc-84-81|D&C 84:81]]
+- [[Micah 7]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-53|Luke 12:53]] ↔ [[Micah 7#^micah-7-6|Micah 7:6]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Luke 12#^luke-12-29|Luke 12:29]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
-- [[Matthew 12]] — 0 parallel verses
-- [[Matthew 6]] — 0 parallel verses
-- [[Micah 7]] — 0 parallel verses
-- [[Matthew 10]] — 0 parallel verses
-- [[Matthew 5]] — 0 parallel verses
-- [[Matthew 24]] — 0 parallel verses
 - [[3 Nephi 13]] — 0 parallel verses
-- [[Matthew 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -105,6 +105,10 @@ _Not yet developed._
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Gehenna** (reference-entry) *(explicit citation)*
+- **Chapter 12: The Sabbath Is a Holy Day** (teachings) *(explicit citation)*
+- **Chapter 4: Strengthened by the Power of the Holy Ghost** (teachings) *(explicit citation)*
+- **Chapter 24: Reflections on the Mission of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 6: ‘Every Member a Missionary’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

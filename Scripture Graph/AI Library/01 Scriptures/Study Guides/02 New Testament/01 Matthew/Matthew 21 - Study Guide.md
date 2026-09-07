@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 21
 slug: matt-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,10 @@ The word 'fruit'/'fruits' recurs across the fig tree (v.19) and both halves of t
 - [[Psalm 118]] — 1 footnote cross-reference (from [[Matthew 21#^matt-21-9|Matthew 21:9]])
 - [[Psalm 27]] — 1 footnote cross-reference (from [[Matthew 21#^matt-21-13|Matthew 21:13]])
 - [[Mark 11]] — 16 parallel verses, e.g. [[Matthew 21#^matt-21-12|Matthew 21:12]] ↔ [[Mark 11#^mark-11-15|Mark 11:15]]
+- [[Luke 20]] — 10 parallel verses, e.g. [[Matthew 21#^matt-21-44|Matthew 21:44]] ↔ [[Luke 20#^luke-20-18|Luke 20:18]]
+- [[Mark 12]] — 6 parallel verses, e.g. [[Matthew 21#^matt-21-33|Matthew 21:33]] ↔ [[Mark 12#^mark-12-1|Mark 12:1]]
+- [[Matthew 17]] — 3 parallel verses, e.g. [[Matthew 21#^matt-21-21|Matthew 21:21]] ↔ [[Matthew 17#^matt-17-20|Matthew 17:20]]
+- [[Luke 19]] — 1 parallel verse, e.g. [[Matthew 21#^matt-21-13|Matthew 21:13]] ↔ [[Luke 19#^luke-19-46|Luke 19:46]]
 - [[Matthew 2]] — 2 parallel verses, e.g. [[Matthew 21#^matt-21-4|Matthew 21:4]] ↔ [[Matthew 2#^matt-2-23|Matthew 2:23]]
 - [[Matthew 1]] — 1 parallel verse, e.g. [[Matthew 21#^matt-21-4|Matthew 21:4]] ↔ [[Matthew 1#^matt-1-22|Matthew 1:22]]
 - [[Matthew 13]] — 1 parallel verse, e.g. [[Matthew 21#^matt-21-4|Matthew 21:4]] ↔ [[Matthew 13#^matt-13-35|Matthew 13:35]]
@@ -62,10 +66,6 @@ The word 'fruit'/'fruits' recurs across the fig tree (v.19) and both halves of t
 - [[Matthew 27]] — 1 parallel verse, e.g. [[Matthew 21#^matt-21-4|Matthew 21:4]] ↔ [[Matthew 27#^matt-27-35|Matthew 27:35]]
 - [[Mark 9]] — 2 parallel verses, e.g. [[Matthew 21#^matt-21-23|Matthew 21:23]] ↔ [[Mark 9#^mark-9-28|Mark 9:28]]
 - [[Matthew 23]] — 1 parallel verse, e.g. [[Matthew 21#^matt-21-9|Matthew 21:9]] ↔ [[Matthew 23#^matt-23-39|Matthew 23:39]]
-- [[Zechariah 9]] — 1 parallel verse, e.g. [[Matthew 21#^matt-21-5|Matthew 21:5]] ↔ [[Zechariah 9#^zech-9-9|Zechariah 9:9]]
-- [[Matthew 4]] — 1 parallel verse, e.g. [[Matthew 21#^matt-21-4|Matthew 21:4]] ↔ [[Matthew 4#^matt-4-14|Matthew 4:14]]
-- [[Matthew 8]] — 1 parallel verse, e.g. [[Matthew 21#^matt-21-4|Matthew 21:4]] ↔ [[Matthew 8#^matt-8-17|Matthew 8:17]]
-- [[Helaman 10]] — 1 parallel verse, e.g. [[Matthew 21#^matt-21-21|Matthew 21:21]] ↔ [[Helaman 10#^hel-10-9|Helaman 10:9]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -100,8 +100,15 @@ Matthew 21 joins Christology with discipleship. Jesus is acclaimed as Son of Dav
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
+- **December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14** (lesson) *(explicit citation)*
 - **Bethphage** (reference-entry) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
+- **Chapter 8: The Power of Prayer** (teachings) *(explicit citation)*
+- **Chapter 18: Courage to Live Righteously** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

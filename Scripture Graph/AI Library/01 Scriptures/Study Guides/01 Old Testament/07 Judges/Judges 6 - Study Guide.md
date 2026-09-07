@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 6
 slug: judg-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ Notably, the chapter stacks two separate messenger scenes — a human prophet (v
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 25–31. “The Lord Raised Up a Deliverer”: Judges 2–4; 6–8; 13–16** (lesson) *(explicit citation)*
 - **Gaza** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->

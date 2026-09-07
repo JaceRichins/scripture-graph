@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 6
 slug: 1kgs-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ Verse 19 says that the inner sanctuary was prepared to receive the ark. The chap
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 22–28. “Hear Thou in Heaven Their Prayer”: 2 Samuel 11–12; 1 Kings 3; 6–9; 11** (lesson) *(explicit citation)*
 - **Calendar** (reference-entry) *(explicit citation)*
 - **Cherubim** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

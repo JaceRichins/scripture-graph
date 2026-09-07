@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 13
 slug: 1sam-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 8–14. “The Lord Looketh on the Heart”: 1 Samuel 8–10; 13; 15–16** (lesson) *(explicit citation)*
 - **Beth-horon** (reference-entry) *(explicit citation)*
 - **Chariot** (reference-entry) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*

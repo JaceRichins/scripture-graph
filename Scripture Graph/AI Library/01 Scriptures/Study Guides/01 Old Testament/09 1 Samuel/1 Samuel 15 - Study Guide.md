@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 15
 slug: 1sam-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The chapter's most quoted teaching is that obedience to revealed command outweig
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 8–14. “The Lord Looketh on the Heart”: 1 Samuel 8–10; 13; 15–16** (lesson) *(explicit citation)*
 - **Amalek, Amalekites** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
 - **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*

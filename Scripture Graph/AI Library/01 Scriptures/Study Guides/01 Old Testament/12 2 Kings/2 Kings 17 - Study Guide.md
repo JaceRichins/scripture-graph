@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 17
 slug: 2kgs-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,9 +89,11 @@ The chapter connects remembered deliverance with covenant obligation: the LORD w
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Captivities of the Israelites** (reference-entry) *(explicit citation)*
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
+- **July 13–19. “He Trusted in the Lord God of Israel”: 2 Kings 16–25** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

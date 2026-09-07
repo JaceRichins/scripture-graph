@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 2
 slug: 1jn-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,6 +56,7 @@ _Not yet developed._
 - [[John 5]] — 0 parallel verses
 - [[1 John 1]] — 0 parallel verses
 - [[John 13]] — 0 parallel verses
+- [[Titus 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -106,6 +107,11 @@ _Not yet developed._
 - **Antichrist** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
+- **Chapter 22: Being Perfected through Trials** (teachings) *(explicit citation)*
+- **Chapter 7: The Atonement of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 21: Loving God More Than We Love the World** (teachings) *(explicit citation)*
+- **Chapter 40: The Father and the Son** (teachings) *(explicit citation)*
+- **Chapter 1: Living What We Believe** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

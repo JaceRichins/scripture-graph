@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 64
 slug: isa-64
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,7 +76,9 @@ Verse 6 should be read within this communal lament. Its comparison of "all our r
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66** (lesson) *(explicit citation)*
+- **October 19–25. “Before I Formed Thee in the Belly I Knew Thee”: Jeremiah 1–3; 7; 16–18; 20** (lesson) *(explicit citation)*
+- **Chapter 20: Agency: Choosing Life or Death** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

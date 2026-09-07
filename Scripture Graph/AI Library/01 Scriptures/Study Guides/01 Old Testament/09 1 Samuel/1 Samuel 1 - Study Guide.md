@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 1
 slug: 1sam-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,10 +81,13 @@ The story also places private anguish inside communal worship at Shiloh. Its use
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 1–7. “My Heart Rejoiceth in the Lord”: Ruth; 1 Samuel 1–7** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
 - **Arimathea** (reference-entry) *(explicit citation)*
 - **Eli** (reference-entry) *(explicit citation)*
 - **Elihu** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
+- **The Life and Ministry of Joseph Fielding Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

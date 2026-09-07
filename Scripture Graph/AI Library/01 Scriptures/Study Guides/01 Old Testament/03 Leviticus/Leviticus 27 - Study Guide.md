@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 27
 slug: lev-27
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Firstborn** (reference-entry) *(explicit citation)*
+- **Chapter 19: Temporal Blessings and the Law of Tithing** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

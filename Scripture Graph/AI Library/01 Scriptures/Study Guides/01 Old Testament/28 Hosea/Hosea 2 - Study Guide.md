@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 2
 slug: hosea-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Hosea 4]] — 1 parallel verse, e.g. [[Hosea 2#^hosea-2-18|Hosea 2:18]] ↔ [[Hosea 4#^hosea-4-3|Hosea 4:3]]
 - [[Hosea 1]] — 0 parallel verses
 - [[1 Peter 2]] — 0 parallel verses
+- [[Zechariah 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -79,7 +80,7 @@ The marriage imagery also distinguishes divine faithfulness from human infidelit
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **November 16–22. “I Will Love Them Freely”: Hosea 1–6; 10–14; Joel** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 21
 slug: 1sam-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Matthew 12]] — 1 footnote cross-reference (from [[1 Samuel 21#^1sam-21-6|1 Samuel 21:6]])
 - [[Luke 6]] — 1 footnote cross-reference (from [[1 Samuel 21#^1sam-21-6|1 Samuel 21:6]])
 - [[1 Samuel 18]] — 1 parallel verse, e.g. [[1 Samuel 21#^1sam-21-11|1 Samuel 21:11]] ↔ [[1 Samuel 18#^1sam-18-7|1 Samuel 18:7]]
+- [[Luke 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

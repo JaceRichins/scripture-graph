@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—History
 chapter: 1
 slug: jsh-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,9 +50,9 @@ A useful outline is:
 - [[Malachi (prophet)]] — 1 mention
 - [[Elijah]] — 1 mention
 - [[Isaiah (prophet)]] — 1 mention
-- [[Josiah]] — 1 mention
-- [[Isaac]] — 1 mention
-- [[Aaron (brother of Moses)]] — 1 mention
+- [[Josiah Stowell]] — 1 mention
+- [[Isaac Hale]] — 1 mention
+- [[Charles Anthon]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -109,6 +109,7 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 <!-- SG:BEGIN conference -->
 - [[Shall We Not Go On in So Great a Cause (President M. Russell Ballard, April 2020)|Shall We Not Go On in So Great a Cause?]] — President M. Russell Ballard, 2020-April *(explicit citation)*
 - [[Gospel Teaching—Our Most Important Calling (William D. Oswald, October 2008)|Gospel Teaching—Our Most Important Calling]] — William D. Oswald, 2008-October *(explicit citation)*
+- [[He Knows You by Name (Elaine S. Dalton, April 2005)|He Knows You by Name]] — Elaine S. Dalton, 2005-April *(explicit citation)*
 - [[“A Choice Seer Will I Raise Up” (Elder Craig C. Christensen, October 2016)|“A Choice Seer Will I Raise Up”]] — Elder Craig C. Christensen, 2016-October *(explicit citation)*
 - [[Knowing, Loving, and Growing (Elder Hans T. Boom, October 2019)|Knowing, Loving, and Growing]] — Elder Hans T. Boom, 2019-October *(explicit citation)*
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
@@ -116,21 +117,20 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 - [[Joseph Smith (Elder Neil L. Andersen, October 2014)|Joseph Smith]] — Elder Neil L. Andersen, 2014-October *(explicit citation)*
 - [[Pillars and Rays (Elder Alexander Dushku, April 2024)|Pillars and Rays]] — Elder Alexander Dushku, 2024-April *(explicit citation)*
 - [[The Man Who Communed with Jehovah (Elder Kyle S. McKay, October 2024)|The Man Who Communed with Jehovah]] — Elder Kyle S. McKay, 2024-October *(explicit citation)*
-- [[With the Power of God in Great Glory (Elder David A. Bednar, October 2021)|With the Power of God in Great Glory]] — Elder David A. Bednar, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **02 Hear Him** (history) *(explicit citation)*
 - **03 Plates of Gold** (history) *(explicit citation)*
+- **January 13–19: “I Saw a Pillar of Light”: Joseph Smith—History 1:1–26** (lesson) *(explicit citation)*
 - **Chapter 1: The First Vision: The Father and the Son Appear to Joseph Smith** (teachings) *(explicit citation)*
 - **01 Ask in Faith** (history) *(explicit citation)*
+- **January 20–26: “The Hearts of the Children Shall Turn to Their Fathers”: Doctrine and Covenants 2; Joseph Smith—History 1:27–65** (lesson) *(explicit citation)*
 - **First Vision Accounts** (reference-entry) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
-- **First Vision** (reference-entry) *(explicit citation)*
-- **First Vision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

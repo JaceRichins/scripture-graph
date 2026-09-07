@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 2
 slug: mosiah-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -73,9 +73,9 @@ Mosiah 2 presents a temple assembly that joins worship, public instruction, roya
 - [[Service]]
 - [[Obedience]]
 - [[Gratitude]]
-- [[Government and Laws]]
 - [[Records and Sacred Writings]]
 - [[Final Judgment]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 15
 slug: deut-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ The command reaches motives as well as transactions. A shut hand, hardened heart
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 11–17. “Beware Lest Thou Forget the Lord”: Deuteronomy 6–8; 15; 18; 29–30; 34** (lesson) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Blood** (reference-entry) *(explicit citation)*

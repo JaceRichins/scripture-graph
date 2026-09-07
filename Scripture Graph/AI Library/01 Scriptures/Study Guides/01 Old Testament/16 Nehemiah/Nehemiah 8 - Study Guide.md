@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 8
 slug: neh-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The authority of the [[Law of Moses]] is traced to the Lord's command through Mo
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 27–August 2. “I Am Doing a Great Work”: Ezra 1; 3–7; Nehemiah 2; 4–6; 8** (lesson) *(explicit citation)*
 - **Ezra** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
 - **Amen** (reference-entry) *(explicit citation)*

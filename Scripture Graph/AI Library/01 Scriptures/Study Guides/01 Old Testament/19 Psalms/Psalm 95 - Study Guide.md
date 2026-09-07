@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 95
 slug: ps-95
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Worship** (reference-entry) *(explicit citation)*
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

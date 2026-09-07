@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 5
 slug: luke-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,19 +51,20 @@ Scripture: [[Luke 5]] · My notes: [[Luke 5 - My Notes]]
 - [[Luke 4]] — 1 footnote cross-reference (from [[Luke 5#^luke-5-16|Luke 5:16]])
 - [[Luke 6]] — 1 footnote cross-reference (from [[Luke 5#^luke-5-16|Luke 5:16]])
 - [[D&C 64]] — 1 footnote cross-reference (from [[Luke 5#^luke-5-21|Luke 5:21]])
+- [[Mark 2]] — 13 parallel verses, e.g. [[Luke 5#^luke-5-35|Luke 5:35]] ↔ [[Mark 2#^mark-2-20|Mark 2:20]]
+- [[Matthew 9]] — 9 parallel verses, e.g. [[Luke 5#^luke-5-35|Luke 5:35]] ↔ [[Matthew 9#^matt-9-15|Matthew 9:15]]
+- [[Matthew 8]] — 3 parallel verses, e.g. [[Luke 5#^luke-5-13|Luke 5:13]] ↔ [[Matthew 8#^matt-8-3|Matthew 8:3]]
+- [[Mark 1]] — 3 parallel verses, e.g. [[Luke 5#^luke-5-14|Luke 5:14]] ↔ [[Mark 1#^mark-1-44|Mark 1:44]]
 - [[Moroni 8]] — 1 parallel verse, e.g. [[Luke 5#^luke-5-32|Luke 5:32]] ↔ [[Moroni 8#^moro-8-8|Moroni 8:8]]
-- [[Matthew 8]] — 0 parallel verses
-- [[Mark 1]] — 0 parallel verses
-- [[Matthew 9]] — 0 parallel verses
-- [[Mark 2]] — 0 parallel verses
 - [[John 21]] — 0 parallel verses
+- [[Matthew 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Repentance and Forgiveness]]
 - [[Law of Moses]]
 - [[Parables of Jesus]]
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -83,7 +84,7 @@ The chapter joins forgiveness and healing without saying that the paralytic's il
 - [[Jesus Christ Is the Strength of Youth (Elder Dieter F. Uchtdorf, October 2022)|Jesus Christ Is the Strength of Youth]] — Elder Dieter F. Uchtdorf, 2022-October *(explicit citation)*
 - [[And They Sought to See Jesus Who He Was (Elder James W. McConkie III, October 2022)|And They Sought to See Jesus Who He Was]] — Elder James W. McConkie III, 2022-October *(explicit citation)*
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
-- [[Strengthened by the Atonement of Jesus Christ (Elder Dallin H. Oaks, October 2015)|Strengthened by the Atonement of Jesus Christ]] — Elder Dallin H. Oaks, 2015-October *(explicit citation)*
+- [[Discipleship (President James E. Faust, October 2006)|Discipleship]] — President James E. Faust, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -94,6 +95,7 @@ The chapter joins forgiveness and healing without saying that the paralytic's il
 - **Capernaum** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
 - **Fish** (reference-entry) *(explicit citation)*
+- **June 8–14. “The Lord Looketh on the Heart”: 1 Samuel 8–10; 13; 15–16** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

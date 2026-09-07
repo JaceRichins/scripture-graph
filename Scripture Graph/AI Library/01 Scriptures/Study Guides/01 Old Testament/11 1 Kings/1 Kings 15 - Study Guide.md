@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 15
 slug: 1kgs-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,7 +91,7 @@ Baasha's destruction of Jeroboam's house fulfills the announced judgment, yet Ba
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Journey to Higher Ground (Elder Joseph B. Wirthlin, October 2005)|Journey to Higher Ground]] — Elder Joseph B. Wirthlin, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

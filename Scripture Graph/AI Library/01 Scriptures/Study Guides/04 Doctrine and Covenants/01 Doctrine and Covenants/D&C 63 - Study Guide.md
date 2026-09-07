@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 63
 slug: dc-63
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -106,16 +106,16 @@ The chapter's theology of signs is carefully ordered: [[Faith]] does not arise f
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 9–15: “I Am with the Faithful Always”: Doctrine and Covenants 60–63** (lesson) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Pornography** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Signs** (reference-entry) *(explicit citation)*
+- **April 14–20: “I Am He Who Liveth, I Am He Who Was Slain”: Easter** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Ten Commandments** (reference-entry) *(explicit citation)*
-- **Chastity** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

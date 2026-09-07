@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 6
 slug: rev-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,12 +50,12 @@ _Not yet developed._
 - [[Moses 8]] — 1 footnote cross-reference (from [[Revelation 6#^rev-6-3|Revelation 6:3]])
 - [[D&C 1]] — 1 footnote cross-reference (from [[Revelation 6#^rev-6-4|Revelation 6:4]])
 - [[Ezekiel 5]] — 1 footnote cross-reference (from [[Revelation 6#^rev-6-8|Revelation 6:8]])
+- [[Revelation 19]] — 3 parallel verses, e.g. [[Revelation 6#^rev-6-2|Revelation 6:2]] ↔ [[Revelation 19#^rev-19-11|Revelation 19:11]]
 - [[Revelation 1]] — 1 parallel verse, e.g. [[Revelation 6#^rev-6-9|Revelation 6:9]] ↔ [[Revelation 1#^rev-1-9|Revelation 1:9]]
 - [[Hosea 10]] — 0 parallel verses
 - [[Luke 23]] — 0 parallel verses
 - [[Isaiah 34]] — 0 parallel verses
 - [[D&C 87]] — 0 parallel verses
-- [[Revelation 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

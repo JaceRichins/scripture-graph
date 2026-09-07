@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 39
 slug: dc-39
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ Verse 6 gives one of the more compact scriptural definitions of the [[Gospel of 
 ## Church History
 <!-- SG:BEGIN history -->
 - **James Covel and the ‘Cares of the World’** (history) *(explicit citation)*
+- **April 21–27: “If Ye Are Not One Ye Are Not Mine”: Doctrine and Covenants 37–40** (lesson) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*

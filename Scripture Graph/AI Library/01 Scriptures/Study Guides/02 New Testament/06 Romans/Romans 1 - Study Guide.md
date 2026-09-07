@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 1
 slug: rom-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ The chapter break should not obscure the turn in [[Romans 2]] toward the one who
 - [[Galatians 3]] — 0 parallel verses
 - [[Acts 17]] — 0 parallel verses
 - [[Galatians 3]] — 0 parallel verses
+- [[2 Timothy 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 8
 slug: dc-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,14 +93,14 @@ Communication “in your mind and in your heart” describes the mode promised h
 <!-- SG:BEGIN history -->
 - **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Oliver Cowdery’s Gift** (history) *(explicit citation)*
+- **February 3–9: “This Is the Spirit of Revelation”: Doctrine and Covenants 6–9** (lesson) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Temples of The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
+- **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
+- **June 1–7. “My Heart Rejoiceth in the Lord”: Ruth; 1 Samuel 1–7** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Joseph Smith** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
-- **Revelation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

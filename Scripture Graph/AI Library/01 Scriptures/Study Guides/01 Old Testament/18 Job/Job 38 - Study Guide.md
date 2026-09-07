@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 38
 slug: job-38
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -73,7 +73,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 10–16. “Yet Will I Trust in Him”: Job 1–3; 12–14; 19; 21–24; 38–40; 42** (lesson) *(explicit citation)*
 - **Jesus Christ Chosen as Savior** (reference-entry) *(explicit citation)*
+- **Chapter 5: The Infinite Atonement of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 3: The Plan of Salvation** (teachings) *(explicit citation)*
 - **Times and Seasons 1843-06-01 (Vol. 4 No. 14)** (periodical, 1843-06-01) *(explicit citation)*
 - **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
 - **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*

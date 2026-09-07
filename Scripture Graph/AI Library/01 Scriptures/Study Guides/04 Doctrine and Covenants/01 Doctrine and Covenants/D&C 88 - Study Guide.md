@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 88
 slug: dc-88
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -102,6 +102,7 @@ Central doctrines include: (1) the [[Light of Christ]], described as present in 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 11–17: “Establish … a House of God”: Doctrine and Covenants 88** (lesson) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
@@ -111,7 +112,6 @@ Central doctrines include: (1) the [[Light of Christ]], described as present in 
 - **Education** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Millennium** (reference-entry) *(explicit citation)*
-- **Religion and Science** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

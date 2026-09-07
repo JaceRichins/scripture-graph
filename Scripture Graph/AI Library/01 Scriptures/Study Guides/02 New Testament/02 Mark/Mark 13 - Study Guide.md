@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 13
 slug: mark-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,15 +52,16 @@ _Not yet developed._
 - [[Matthew 24]] — 1 footnote cross-reference (from [[Mark 13#^mark-13-6|Mark 13:6]])
 - [[1 Nephi 14]] — 1 footnote cross-reference (from [[Mark 13#^mark-13-8|Mark 13:8]])
 - [[D&C 87]] — 1 footnote cross-reference (from [[Mark 13#^mark-13-8|Mark 13:8]])
+- [[Matthew 24]] — 21 parallel verses, e.g. [[Mark 13#^mark-13-28|Mark 13:28]] ↔ [[Matthew 24#^matt-24-32|Matthew 24:32]]
 - [[Joseph Smith—Matthew 1]] — 17 parallel verses, e.g. [[Mark 13#^mark-13-6|Mark 13:6]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-6|Joseph Smith—Matthew 1:6]]
+- [[Luke 21]] — 10 parallel verses, e.g. [[Mark 13#^mark-13-2|Mark 13:2]] ↔ [[Luke 21#^luke-21-6|Luke 21:6]]
+- [[Matthew 10]] — 5 parallel verses, e.g. [[Mark 13#^mark-13-13|Mark 13:13]] ↔ [[Matthew 10#^matt-10-22|Matthew 10:22]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[Mark 13#^mark-13-2|Mark 13:2]] ↔ [[D&C 45#^dc-45-20|D&C 45:20]]
 - [[D&C 29]] — 1 parallel verse, e.g. [[Mark 13#^mark-13-24|Mark 13:24]] ↔ [[D&C 29#^dc-29-14|D&C 29:14]]
 - [[D&C 112]] — 1 parallel verse, e.g. [[Mark 13#^mark-13-37|Mark 13:37]] ↔ [[D&C 112#^dc-112-14|D&C 112:14]]
-- [[Matthew 10]] — 0 parallel verses
-- [[Matthew 24]] — 0 parallel verses
 - [[Joseph Smith—Matthew 1]] — 0 parallel verses
 - [[Daniel 11]] — 0 parallel verses
-- [[Luke 21]] — 0 parallel verses
+- [[Matthew 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

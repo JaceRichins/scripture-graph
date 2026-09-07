@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 25
 slug: 2kgs-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -94,9 +94,11 @@ The distinction between deportees and those left to cultivate the land is also i
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 - **Captivities of the Israelites** (reference-entry) *(explicit citation)*
+- **July 27–August 2. “I Am Doing a Great Work”: Ezra 1; 3–7; Nehemiah 2; 4–6; 8** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

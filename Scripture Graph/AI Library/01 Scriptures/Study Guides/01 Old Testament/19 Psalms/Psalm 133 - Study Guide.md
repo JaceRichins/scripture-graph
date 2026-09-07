@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 133
 slug: ps-133
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Chapter 23: ‘How Good and How Pleasant It Is … to Dwell Together in Unity’** (teachings) *(explicit citation)*
 - **Dew** (reference-entry) *(explicit citation)*
+- **Chapter 23: ‘Of One Heart and Mind’** (teachings) *(explicit citation)*
+- **Chapter 16: ‘That We May Become One’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 31
 slug: num-31
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,6 +50,8 @@ _Not yet developed._
 - [[Numbers 19]] — 3 parallel verses, e.g. [[Numbers 31#^num-31-21|Numbers 31:21]] ↔ [[Numbers 19#^num-19-2|Numbers 19:2]]
 - [[Joshua 22]] — 3 parallel verses, e.g. [[Numbers 31#^num-31-6|Numbers 31:6]] ↔ [[Joshua 22#^josh-22-31|Joshua 22:31]]
 - [[Joshua 13]] — 1 parallel verse, e.g. [[Numbers 31#^num-31-8|Numbers 31:8]] ↔ [[Joshua 13#^josh-13-21|Joshua 13:21]]
+- [[Numbers 25]] — 0 parallel verses
+- [[Revelation 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -73,6 +75,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Balaam** (reference-entry) *(explicit citation)*
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

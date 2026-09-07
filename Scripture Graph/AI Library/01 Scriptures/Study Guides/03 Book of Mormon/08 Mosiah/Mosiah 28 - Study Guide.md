@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 28
 slug: mosiah-28
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ Verses 11–20 contain recapitulation rather than a completely linear sequence: 
 - [[Mosiah 8]] — 3 footnote cross-references (from [[Mosiah 28#^mosiah-28-12|Mosiah 28:12]])
 - [[Mosiah 27]] — 2 footnote cross-references (from [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]])
 - [[Mosiah 1]] — 2 footnote cross-references (from [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]])
+- [[Mosiah 1]] — 3 parallel verses, e.g. [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]] ↔ [[Mosiah 1#^mosiah-1-16|Mosiah 1:16]]
 - [[Ether 1]] — 2 parallel verses, e.g. [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]] ↔ [[Ether 1#^ether-1-33|Ether 1:33]]
 - [[Alma 37]] — 2 parallel verses, e.g. [[Mosiah 28#^mosiah-28-2|Mosiah 28:2]] ↔ [[Alma 37#^alma-37-9|Alma 37:9]]
 - [[Omni 1]] — 1 parallel verse, e.g. [[Mosiah 28#^mosiah-28-17|Mosiah 28:17]] ↔ [[Omni 1#^omni-1-22|Omni 1:22]]
@@ -63,14 +64,13 @@ Verses 11–20 contain recapitulation rather than a completely linear sequence: 
 - [[Mosiah 10]] — 1 parallel verse, e.g. [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]] ↔ [[Mosiah 10#^mosiah-10-16|Mosiah 10:16]]
 - [[Mosiah 7]] — 2 parallel verses, e.g. [[Mosiah 28#^mosiah-28-7|Mosiah 28:7]] ↔ [[Mosiah 7#^mosiah-7-15|Mosiah 7:15]]
 - [[Alma 20]] — 2 parallel verses, e.g. [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]] ↔ [[Alma 20#^alma-20-2|Alma 20:2]]
-- [[Alma 26]] — 2 parallel verses, e.g. [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]] ↔ [[Alma 26#^alma-26-23|Alma 26:23]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Missionary Work]]
-- [[Records and Sacred Writings]]
-- [[Government and Laws]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -95,6 +95,8 @@ Verses 14–16 present the interpreters as providentially preserved for interpre
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **06 The Gift and Power of God** (history) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
+- **Chapter 12: An Enthusiastic Desire to Share the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

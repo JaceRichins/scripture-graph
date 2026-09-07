@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 8
 slug: prov-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Mosiah 12]] — 1 footnote cross-reference (from [[Proverbs 8#^prov-8-5|Proverbs 8:5]])
 - [[3 Nephi 19]] — 1 footnote cross-reference (from [[Proverbs 8#^prov-8-5|Proverbs 8:5]])
 - [[2 Nephi 32]] — 1 footnote cross-reference (from [[Proverbs 8#^prov-8-9|Proverbs 8:9]])
+- [[Proverbs 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -64,6 +65,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—Matthew
 chapter: 1
 slug: jsm-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -113,8 +113,12 @@ Verse 31 connects [[Missionary Work]] with the end: the gospel is to be preached
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Abomination of desolation** (reference-entry) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **Chapter 24: Preparing for the Second Coming of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 24: Righteous Living in Perilous Times** (teachings) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Fig tree** (reference-entry) *(explicit citation)*
+- **February 9–15. “Noah Found Grace in the Eyes of the Lord”: Genesis 6–11; Moses 8** (lesson) *(explicit citation)*
+- **Chapter 15: Advancing the Work of the Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

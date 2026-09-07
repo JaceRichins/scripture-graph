@@ -66,7 +66,7 @@ cssclasses:
 ![[Matthew 21#^matt-21-20]]
 
 ![[Matthew 21#^matt-21-21]]
-> [[Helaman 10#^hel-10-9|≈ Helaman 10:9]] · [[Mark 11#^mark-11-23|≈ Mark 11:23]] · [[Matthew 17#^matt-17-20|≈ Matthew 17:20]] · [[Mark 9#^mark-9-1|≈ Mark 9:1]]
+> [[Mark 11#^mark-11-23|≈ Mark 11:23]] · [[Matthew 17#^matt-17-20|≈ Matthew 17:20]] · [[Mark 9#^mark-9-1|≈ Mark 9:1]] · [[Helaman 10#^hel-10-9|≈ Helaman 10:9]]
 
 ![[Matthew 21#^matt-21-22]]
 > [[3 Nephi 18#^3ne-18-20|3 Ne. 18:20]] · [[Mormon 9#^morm-9-21|Morm. 9:21]]

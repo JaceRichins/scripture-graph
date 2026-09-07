@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 9
 slug: eccl-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Race of Life (President Thomas S. Monson, April 2012)|The Race of Life]] — President Thomas S. Monson, 2012-April *(explicit citation)*
+- [[Be of Good Cheer and Faithful in Adversity (Elder Adhemar Damiani, April 2005)|Be of Good Cheer and Faithful in Adversity]] — Elder Adhemar Damiani, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 2
 slug: dan-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,16 +95,16 @@ The chapter grounds [[Revelation]] and [[Prophecy]] in God's sovereignty over hi
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7** (lesson) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 15: Advancing the Work of the Lord** (teachings) *(explicit citation)*
 - **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Mormonism** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
-- **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
-- **History of the Church, Volume 6** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

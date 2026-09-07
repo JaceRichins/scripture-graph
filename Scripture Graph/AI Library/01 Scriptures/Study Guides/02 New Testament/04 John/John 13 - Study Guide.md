@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 13
 slug: john-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 - [[John 14]] — 0 parallel verses
 - [[John 15]] — 0 parallel verses
 - [[John 6]] — 0 parallel verses
+- [[Matthew 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -104,12 +105,12 @@ _Not yet developed._
 - **Ministering** (reference-entry) *(explicit citation)*
 - **Racial and Cultural Prejudice** (reference-entry) *(explicit citation)*
 - **Service** (reference-entry) *(explicit citation)*
+- **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
+- **Chapter 19: The Divine Nature of Service** (teachings) *(explicit citation)*
 - **A School and an Endowment** (history) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
-- **Love** (reference-entry) *(explicit citation)*
-- **Service** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

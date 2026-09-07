@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 4
 slug: james-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,8 @@ _Not yet developed._
 - [[Matthew 23]] — 0 parallel verses
 - [[Proverbs 27]] — 0 parallel verses
 - [[D&C 46]] — 0 parallel verses
+- [[Proverbs 3]] — 0 parallel verses
+- [[Psalm 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -98,6 +100,8 @@ _Not yet developed._
 - **Sin** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Chapter 9: Repentance and Baptism** (teachings) *(explicit citation)*
+- **October 26–November 1. “I Will Turn Their Mourning into Joy”: Jeremiah 31–33; 36–39; Lamentations 1; 3** (lesson) *(explicit citation)*
+- **Chapter 23: Receiving a Testimony of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

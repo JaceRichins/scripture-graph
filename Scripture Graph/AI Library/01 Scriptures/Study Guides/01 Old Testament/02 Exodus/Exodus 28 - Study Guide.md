@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 28
 slug: ex-28
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ Care is needed applying these themes beyond the chapter. Exodus 28 concerns a pa
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Garments** (reference-entry) *(explicit citation)*
@@ -97,7 +98,6 @@ Care is needed applying these themes beyond the chapter. Exodus 28 concerns a pa
 - **Breastplate** (reference-entry) *(explicit citation)*
 - **Eleazar** (reference-entry) *(explicit citation)*
 - **Embroidery** (reference-entry) *(explicit citation)*
-- **Engraving** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 6
 slug: 1tim-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,8 @@ Timothy's charge also joins human perseverance with divine calling. He must purs
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Confession** (reference-entry) *(explicit citation)*
 - **Games** (reference-entry) *(explicit citation)*
+- **Chapter 7: Integrity** (teachings) *(explicit citation)*
+- **Chapter 19: Thrift, the Foundation of Prosperity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

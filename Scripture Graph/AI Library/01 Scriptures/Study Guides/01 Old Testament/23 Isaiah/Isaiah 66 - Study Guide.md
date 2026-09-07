@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 66
 slug: isa-66
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,7 +76,7 @@ Verse 21 does not make the antecedent of “them” sufficiently explicit to est
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[He Knows You by Name (Elaine S. Dalton, April 2005)|He Knows You by Name]] — Elaine S. Dalton, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 3
 slug: gal-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,8 @@ _Not yet developed._
 - [[1 Corinthians 12]] — 0 parallel verses
 - [[Colossians 3]] — 0 parallel verses
 - [[Galatians 4]] — 0 parallel verses
+- [[Romans 1]] — 0 parallel verses
+- [[Romans 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -100,11 +102,11 @@ Galatians 3:28 places Jew and Greek, bond and free, and male and female within o
 - **Abrahamic Covenant** (reference-entry) *(explicit citation)*
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Covenant** (lesson) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
-- **Gathering of Israel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

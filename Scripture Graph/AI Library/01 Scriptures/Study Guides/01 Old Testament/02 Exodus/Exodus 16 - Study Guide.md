@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 16
 slug: ex-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,8 +92,13 @@ Exodus 16:18 reports that those who gathered much had no excess and those who ga
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
+- **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
+- **December 14–20. “I Have Loved You, Saith the Lord”: Malachi** (lesson) *(explicit citation)*
+- **Chapter 4: Obedience, a Sacred Duty** (teachings) *(explicit citation)*
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

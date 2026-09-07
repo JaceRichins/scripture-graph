@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 100
 slug: dc-100
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,9 @@ Verse 15 places "good" beside the sanctification of the church. Since Zion is ex
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
+- **Chapter 6: Teaching and Learning by the Spirit** (teachings) *(explicit citation)*
+- **Chapter 9: Our Missionary Duty** (teachings) *(explicit citation)*
+- **Chapter 1: Learning and Teaching the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

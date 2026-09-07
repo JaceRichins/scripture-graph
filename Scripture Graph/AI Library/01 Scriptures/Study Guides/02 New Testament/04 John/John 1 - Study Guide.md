@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 1
 slug: john-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,10 +76,10 @@ Scripture: [[John 1]] · My notes: [[John 1 - My Notes]]
 - [[The Godhead]]
 - [[Condescension of God]]
 - [[Law of Moses]]
-- [[Jesus Christ (Gospel Topic)]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Grace]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[Jesus Christ (Gospel Topic)]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -112,10 +112,10 @@ Scripture: [[John 1]] · My notes: [[John 1 - My Notes]]
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **Bethabara** (reference-entry) *(explicit citation)*
 - **Elias** (reference-entry) *(explicit citation)*
-- **Journal of Discourses, Volume 8** (history, ~1861) *(explicit citation)*
-- **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
+- **Chapter 7: The Atonement of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 61
 slug: alma-61
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
+- [[And Nothing Shall Offend Them (Elder David A. Bednar, October 2006)|And Nothing Shall Offend Them]] — Elder David A. Bednar, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

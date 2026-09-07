@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 63
 slug: isa-63
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,11 +80,14 @@ References to the holy Spirit are substantial but should not be overread. The Sp
 <!-- SG:BEGIN conference -->
 - [[Behold Thy Mother (Elder Jeffrey R. Holland, October 2015)|Behold Thy Mother]] — Elder Jeffrey R. Holland, 2015-October *(explicit citation)*
 - [[None Were with Him (Elder Jeffrey R. Holland, April 2009)|None Were with Him]] — Elder Jeffrey R. Holland, 2009-April *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

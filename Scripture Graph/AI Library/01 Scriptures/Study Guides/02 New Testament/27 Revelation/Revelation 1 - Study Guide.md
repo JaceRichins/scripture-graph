@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 1
 slug: rev-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,18 +49,18 @@ Scripture: [[Revelation 1]] · My notes: [[Revelation 1 - My Notes]]
 - [[Revelation 3]] — 2 footnote cross-references (from [[Revelation 1#^rev-1-4|Revelation 1:4]])
 - [[1 Nephi 14]] — 1 footnote cross-reference (from [[Revelation 1#^rev-1-1|Revelation 1:1]])
 - [[D&C 88]] — 1 footnote cross-reference (from [[Revelation 1#^rev-1-1|Revelation 1:1]])
+- [[Revelation 22]] — 2 parallel verses, e.g. [[Revelation 1#^rev-1-8|Revelation 1:8]] ↔ [[Revelation 22#^rev-22-13|Revelation 22:13]]
 - [[D&C 110]] — 2 parallel verses, e.g. [[Revelation 1#^rev-1-14|Revelation 1:14]] ↔ [[D&C 110#^dc-110-3|D&C 110:3]]
 - [[1 Peter 5]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-6|Revelation 1:6]] ↔ [[1 Peter 5#^1pet-5-11|1 Peter 5:11]]
 - [[Revelation 6]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-9|Revelation 1:9]] ↔ [[Revelation 6#^rev-6-9|Revelation 6:9]]
+- [[Revelation 21]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-8|Revelation 1:8]] ↔ [[Revelation 21#^rev-21-6|Revelation 21:6]]
 - [[3 Nephi 9]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-8|Revelation 1:8]] ↔ [[3 Nephi 9#^3ne-9-18|3 Nephi 9:18]]
 - [[D&C 38]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-8|Revelation 1:8]] ↔ [[D&C 38#^dc-38-1|D&C 38:1]]
 - [[D&C 45]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-8|Revelation 1:8]] ↔ [[D&C 45#^dc-45-7|D&C 45:7]]
 - [[D&C 84]] — 1 parallel verse, e.g. [[Revelation 1#^rev-1-8|Revelation 1:8]] ↔ [[D&C 84#^dc-84-120|D&C 84:120]]
-- [[Revelation 22]] — 0 parallel verses
 - [[Daniel 10]] — 0 parallel verses
 - [[Daniel 7]] — 0 parallel verses
 - [[Zechariah 12]] — 0 parallel verses
-- [[Daniel 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -99,6 +99,8 @@ The chapter grounds Christian hope in Christ's death and continuing life: he "wa
 - **Cloud** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14** (lesson) *(explicit citation)*
+- **Chapter 7: The Atonement of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

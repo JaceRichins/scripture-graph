@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 32
 slug: 2ne-32
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,7 +88,7 @@ Verse 9 adds a significant purpose for [[Prayer]]. Prayer does not merely reques
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives (Elder Quentin L. Cook, April 2020)|The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives]] — Elder Quentin L. Cook, 2020-April *(explicit citation)*
 - [[Trusting the Doctrine of Christ (Elder Evan A. Schmutz, April 2023)|Trusting the Doctrine of Christ]] — Elder Evan A. Schmutz, 2023-April *(explicit citation)*
-- [[It’s Never Too Early and It’s Never Too Late (Elder Bradley D. Foster, October 2015)|It’s Never Too Early and It’s Never Too Late]] — Elder Bradley D. Foster, 2015-October *(explicit citation)*
+- [[The Book of Mormon Another Testament of Jesus Christ—Plain and Precious Things (President Boyd K. Packer, April 2005)|The Book of Mormon: Another Testament of Jesus Christ—Plain and Precious Things]] — President Boyd K. Packer, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -98,11 +98,11 @@ Verse 9 adds a significant purpose for [[Prayer]]. Prayer does not merely reques
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
-- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

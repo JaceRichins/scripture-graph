@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 5
 slug: judg-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -47,6 +47,7 @@ _Not yet developed._
 - [[3 Nephi 22]] — 1 footnote cross-reference (from [[Judges 5#^judg-5-5|Judges 5:5]])
 - [[D&C 109]] — 1 footnote cross-reference (from [[Judges 5#^judg-5-5|Judges 5:5]])
 - [[Judges 4]] — 0 parallel verses
+- [[Psalm 68]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 127
 slug: ps-127
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -60,18 +60,22 @@ _Not yet developed._
 - [[And a Little Child Shall Lead Them (President Boyd K. Packer, April 2012)|And a Little Child Shall Lead Them]] — President Boyd K. Packer, 2012-April *(explicit citation)*
 - [[Salvation and Exaltation (Elder Russell M. Nelson, April 2008)|Salvation and Exaltation]] — Elder Russell M. Nelson, 2008-April *(explicit citation)*
 - [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
+- [[Nurturing Marriage (Elder Russell M. Nelson, April 2006)|Nurturing Marriage]] — Elder Russell M. Nelson, 2006-April *(explicit citation)*
 - [[Conference Report, April 1930 (General Conference (full report), April 1930)|Conference Report, April 1930]] — General Conference (full report), 1930-April *(explicit citation)*
 - [[Teaching Our Children to Understand (Cheryl A. Esplin, April 2012)|Teaching Our Children to Understand]] — Cheryl A. Esplin, 2012-April *(explicit citation)*
-- [[Becoming Goodly Parents (Elder L. Tom Perry, October 2012)|Becoming Goodly Parents]] — Elder L. Tom Perry, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Birth Control** (reference-entry) *(explicit citation)*
+- **Chapter 33: Children: The Richest of All Earthly Joys** (teachings) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
 - **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
+- **Chapter 21: Strengthening Families** (teachings) *(explicit citation)*
+- **Chapter 12: The Divine Purpose of Marriage** (teachings) *(explicit citation)*
+- **The Seer 1853-08 (Vol. 1 No. 8)** (history, 1853-08) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

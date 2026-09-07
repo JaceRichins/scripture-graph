@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 10
 slug: john-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,11 +101,11 @@ The other-sheep promise is left geographically undefined in John. [[3 Nephi 15]]
 - **07 Fellow Servants** (history) *(explicit citation)*
 - **Blasphemy** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 1: I Know That My Redeemer Lives** (teachings) *(explicit citation)*
+- **Chapter 1: Jesus Christ: ‘The Way, the Truth, and the Life’** (teachings) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
-- **Feasts** (reference-entry) *(explicit citation)*
-- **Chapter 2: God the Eternal Father** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

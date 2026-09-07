@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 13
 slug: luke-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,25 +54,27 @@ The fig-tree parable follows the repentance sayings without a new setting and ca
 - [[D&C 29]] — 2 footnote cross-references (from [[Luke 13#^luke-13-27|Luke 13:27]])
 - [[D&C 3]] — 1 footnote cross-reference (from [[Luke 13#^luke-13-3|Luke 13:3]])
 - [[Ether 8]] — 1 footnote cross-reference (from [[Luke 13#^luke-13-3|Luke 13:3]])
+- [[Matthew 23]] — 3 parallel verses, e.g. [[Luke 13#^luke-13-34|Luke 13:34]] ↔ [[Matthew 23#^matt-23-37|Matthew 23:37]]
+- [[Matthew 13]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-21|Luke 13:21]] ↔ [[Matthew 13#^matt-13-33|Matthew 13:33]]
 - [[D&C 44]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-29|Luke 13:29]] ↔ [[D&C 44#^dc-44-1|D&C 44:1]]
 - [[3 Nephi 20]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-29|Luke 13:29]] ↔ [[3 Nephi 20#^3ne-20-13|3 Nephi 20:13]]
 - [[Joseph Smith—Matthew 1]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-35|Luke 13:35]] ↔ [[Joseph Smith—Matthew 1#^jsm-1-1|Joseph Smith—Matthew 1:1]]
+- [[Matthew 25]] — 2 parallel verses, e.g. [[Luke 13#^luke-13-28|Luke 13:28]] ↔ [[Matthew 25#^matt-25-30|Matthew 25:30]]
+- [[Psalm 107]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-29|Luke 13:29]] ↔ [[Psalm 107#^ps-107-3|Psalm 107:3]]
+- [[Matthew 21]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-35|Luke 13:35]] ↔ [[Matthew 21#^matt-21-9|Matthew 21:9]]
 - [[Mark 11]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-35|Luke 13:35]] ↔ [[Mark 11#^mark-11-9|Mark 11:9]]
-- [[Matthew 23]] — 0 parallel verses
-- [[Matthew 25]] — 0 parallel verses
-- [[Matthew 13]] — 0 parallel verses
-- [[Mark 4]] — 0 parallel verses
+- [[Mark 4]] — 1 parallel verse, e.g. [[Luke 13#^luke-13-19|Luke 13:19]] ↔ [[Mark 4#^mark-4-31|Mark 4:31]]
 - [[Matthew 7]] — 0 parallel verses
 - [[Matthew 8]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Kingdom of God]]
 - [[Repentance and Forgiveness]]
 - [[Parables of Jesus]]
 - [[Final Judgment]]
 - [[Sabbath Day]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -102,6 +104,8 @@ The answer to the question about [[Salvation]] shifts attention from calculating
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Chapter 11: Living the Word of Wisdom** (teachings) *(explicit citation)*
+- **The Seer 1853-11 (Vol. 1 No. 11)** (history, 1853-11) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

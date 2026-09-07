@@ -3,7 +3,7 @@ ownership: system
 mutable: ai
 content_type: moc
 passages: 86
-updated_at: '2026-09-06T21:40:51Z'
+updated_at: '2026-09-07T09:12:35Z'
 ---
 
 # Patriarchal Blessings (historical)

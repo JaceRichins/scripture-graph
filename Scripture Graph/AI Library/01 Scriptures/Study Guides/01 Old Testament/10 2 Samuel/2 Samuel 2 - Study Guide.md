@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 2
 slug: 2sam-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ _Not yet developed._
 - **Asahel** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
 - **David** (reference-entry) *(explicit citation)*
+- **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

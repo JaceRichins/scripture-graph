@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 22
 slug: luke-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,26 +53,28 @@ _Not yet developed._
 - [[D&C 20]] — 2 footnote cross-references (from [[Luke 22#^luke-22-19|Luke 22:19]])
 - [[Mosiah 3]] — 2 footnote cross-references (from [[Luke 22#^luke-22-32|Luke 22:32]])
 - [[D&C 19]] — 2 footnote cross-references (from [[Luke 22#^luke-22-42|Luke 22:42]])
+- [[Mark 14]] — 12 parallel verses, e.g. [[Luke 22#^luke-22-11|Luke 22:11]] ↔ [[Mark 14#^mark-14-14|Mark 14:14]]
+- [[Matthew 26]] — 10 parallel verses, e.g. [[Luke 22#^luke-22-61|Luke 22:61]] ↔ [[Matthew 26#^matt-26-75|Matthew 26:75]]
 - [[1 Corinthians 11]] — 2 parallel verses, e.g. [[Luke 22#^luke-22-19|Luke 22:19]] ↔ [[1 Corinthians 11#^1cor-11-24|1 Corinthians 11:24]]
 - [[Luke 20]] — 2 parallel verses, e.g. [[Luke 22#^luke-22-66|Luke 22:66]] ↔ [[Luke 20#^luke-20-1|Luke 20:1]]
 - [[3 Nephi 18]] — 1 parallel verse, e.g. [[Luke 22#^luke-22-31|Luke 22:31]] ↔ [[3 Nephi 18#^3ne-18-18|3 Nephi 18:18]]
-- [[Mark 14]] — 0 parallel verses
-- [[Matthew 26]] — 0 parallel verses
 - [[1 Corinthians 11]] — 0 parallel verses
 - [[Exodus 24]] — 0 parallel verses
 - [[D&C 52]] — 0 parallel verses
 - [[John 18]] — 0 parallel verses
 - [[Luke 10]] — 0 parallel verses
+- [[Mark 14]] — 0 parallel verses
+- [[Matthew 19]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Gethsemane]]
-- [[Passover]]
-- [[Apostles]]
 - [[Satan and Temptation]]
 - [[Kingdom of God]]
+- [[Passover]] *(keyword match — unconfirmed)*
 - [[Prayer]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -109,8 +111,8 @@ _Not yet developed._
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
-- **Journal of Discourses, Volume 10** (history, ~1863) *(explicit citation)*
-- **Agency** (reference-entry) *(explicit citation)*
+- **March 24–30: “All Things Must Be Done in Order”: Doctrine and Covenants 27–28** (lesson) *(explicit citation)*
+- **Chapter 6: The Power of the Atonement for Us Personally** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

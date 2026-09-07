@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 6
 slug: hel-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -104,7 +104,9 @@ The chapter is also notable for what it does not blame: riches themselves are no
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 9–15. “Noah Found Grace in the Eyes of the Lord”: Genesis 6–11; Moses 8** (lesson) *(explicit citation)*
 - **Cain** (reference-entry) *(explicit citation)*
+- **November 16–22. “I Will Love Them Freely”: Hosea 1–6; 10–14; Joel** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

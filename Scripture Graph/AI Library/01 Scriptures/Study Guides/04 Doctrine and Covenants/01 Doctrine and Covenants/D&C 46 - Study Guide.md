@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 46
 slug: dc-46
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,16 +80,16 @@ The chapter's openness is disciplined rather than credulous. Gifts come from God
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[An Outpouring of Blessings (Julie B. Beck, April 2006)|An Outpouring of Blessings]] — Julie B. Beck, 2006-April *(explicit citation)*
 - [[The Holy Ghost (Elder Robert D. Hales, April 2016)|The Holy Ghost]] — Elder Robert D. Hales, 2016-April *(explicit citation)*
 - [[Meek and Lowly of Heart (Elder David A. Bednar, April 2018)|Meek and Lowly of Heart]] — Elder David A. Bednar, 2018-April *(explicit citation)*
 - [[Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]] — Bradley R. Wilcox, 2021-October *(explicit citation)*
 - [[Promptings of the Spirit (Elder Gary E. Stevenson, October 2023)|Promptings of the Spirit]] — Elder Gary E. Stevenson, 2023-October *(explicit citation)*
 - [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
+- [[The Fruits of the First Vision (Elder Dieter F. Uchtdorf, April 2005)|The Fruits of the First Vision]] — Elder Dieter F. Uchtdorf, 2005-April *(explicit citation)*
 - [[Your Next Step (Elder Randall K. Bennett, October 2015)|Your Next Step]] — Elder Randall K. Bennett, 2015-October *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
 - [[Tomorrow the Lord Will Do Wonders among You (Elder Jeffrey R. Holland, April 2016)|Tomorrow the Lord Will Do Wonders among You]] — Elder Jeffrey R. Holland, 2016-April *(explicit citation)*
-- [[The Soul’s Sincere Desire (Carol F. McConkie, October 2016)|The Soul’s Sincere Desire]] — Carol F. McConkie, 2016-October *(explicit citation)*
-- [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -97,13 +97,13 @@ The chapter's openness is disciplined rather than credulous. Gifts come from God
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
 - **Spiritual Gifts** (reference-entry) *(explicit citation)*
 - **Gifts of the Spirit** (reference-entry) *(explicit citation)*
+- **May 12–18: “Seek Ye Earnestly the Best Gifts”: Doctrine and Covenants 46–48** (lesson) *(explicit citation)*
 - **Religious Enthusiasm among Early Ohio Converts** (history) *(explicit citation)*
 - **Mercy Thompson and the Revelation on Marriage** (history) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
-- **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 12
 slug: zech-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ The recurring phrase "in that day" (vv3, 4, 6, 8, 9, 11) links these movements w
 - [[Obadiah 1]] — 1 footnote cross-reference (from [[Zechariah 12#^zech-12-6|Zechariah 12:6]])
 - [[D&C 109]] — 1 footnote cross-reference (from [[Zechariah 12#^zech-12-6|Zechariah 12:6]])
 - [[Isaiah 7]] — 3 parallel verses, e.g. [[Zechariah 12#^zech-12-9|Zechariah 12:9]] ↔ [[Isaiah 7#^isa-7-18|Isaiah 7:18]]
+- [[Zechariah 14]] — 2 parallel verses, e.g. [[Zechariah 12#^zech-12-9|Zechariah 12:9]] ↔ [[Zechariah 14#^zech-14-6|Zechariah 14:6]]
 - [[Isaiah 10]] — 2 parallel verses, e.g. [[Zechariah 12#^zech-12-9|Zechariah 12:9]] ↔ [[Isaiah 10#^isa-10-20|Isaiah 10:20]]
 - [[Isaiah 27]] — 2 parallel verses, e.g. [[Zechariah 12#^zech-12-9|Zechariah 12:9]] ↔ [[Isaiah 27#^isa-27-12|Isaiah 27:12]]
 - [[2 Nephi 20]] — 2 parallel verses, e.g. [[Zechariah 12#^zech-12-9|Zechariah 12:9]] ↔ [[2 Nephi 20#^2ne-20-20|2 Nephi 20:20]]
@@ -57,7 +58,6 @@ The recurring phrase "in that day" (vv3, 4, 6, 8, 9, 11) links these movements w
 - [[3 Nephi 22]] — 1 parallel verse, e.g. [[Zechariah 12#^zech-12-6|Zechariah 12:6]] ↔ [[3 Nephi 22#^3ne-22-3|3 Nephi 22:3]]
 - [[Isaiah 22]] — 1 parallel verse, e.g. [[Zechariah 12#^zech-12-9|Zechariah 12:9]] ↔ [[Isaiah 22#^isa-22-20|Isaiah 22:20]]
 - [[Ezekiel 39]] — 1 parallel verse, e.g. [[Zechariah 12#^zech-12-9|Zechariah 12:9]] ↔ [[Ezekiel 39#^ezek-39-11|Ezekiel 39:11]]
-- [[Zechariah 14]] — 0 parallel verses
 - [[Revelation 1]] — 0 parallel verses
 - [[Revelation 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
@@ -85,7 +85,7 @@ The chapter's central doctrinal crux is verse 10: the LORD says "they shall look
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **December 7–13. “Holiness unto the Lord”: Haggai 1–2; Zechariah 1–4; 7–14** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

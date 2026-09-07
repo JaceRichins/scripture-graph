@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 40
 slug: ex-40
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,7 +86,9 @@ The glory arrives only after the work is finished, making divine presence the na
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 - **37 We Will Prove Them** (history) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1842-01-01 (Vol. 3 No. 5)** (periodical, 1842-01-01) *(explicit citation)*

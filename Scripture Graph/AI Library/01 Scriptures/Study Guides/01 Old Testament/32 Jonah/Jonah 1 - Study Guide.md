@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jonah
 chapter: 1
 slug: jonah-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,7 +65,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
+- **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
+- **Chapter 8: ‘Search Me, O God, and Know My Heart’** (teachings) *(explicit citation)*
+- **Chapter 13: Doing Our Part to Share the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

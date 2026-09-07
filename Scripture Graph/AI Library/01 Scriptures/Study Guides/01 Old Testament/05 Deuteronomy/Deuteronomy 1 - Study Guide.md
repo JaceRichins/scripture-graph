@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 1
 slug: deut-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,8 +72,8 @@ Deuteronomy 1 opens Moses' retrospective address in Moab near the end of the wil
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

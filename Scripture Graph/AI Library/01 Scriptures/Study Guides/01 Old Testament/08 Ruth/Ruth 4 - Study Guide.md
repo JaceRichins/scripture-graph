@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 4
 slug: ruth-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,6 +49,7 @@ _Not yet developed._
 - [[Ruth 2]] — 1 footnote cross-reference (from [[Ruth 4#^ruth-4-1|Ruth 4:1]])
 - [[Leviticus 25]] — 1 footnote cross-reference (from [[Ruth 4#^ruth-4-4|Ruth 4:4]])
 - [[1 Chronicles 2]] — 0 parallel verses
+- [[Matthew 1]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -69,6 +70,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 1–7. “My Heart Rejoiceth in the Lord”: Ruth; 1 Samuel 1–7** (lesson) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
 - **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
 <!-- SG:END history -->

@@ -6,7 +6,7 @@ volume: New Testament
 book: 3 John
 chapter: 1
 slug: 3jn-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 - **Parenting** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
+- **Chapter 39: Strengthening Families in Family Home Evenings** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 8
 slug: morm-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,12 +65,12 @@ Mormon 8 shifts the record into Moroni's own voice. Writing after Cumorah, with 
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
-- [[Pride]]
 - [[Secret Combinations]]
 - [[Prophecy]]
 - [[Signs of the Times]]
 - [[Final Judgment]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Pride]] *(keyword match — unconfirmed)*
 - [[Covenants]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -103,6 +103,7 @@ Mormon 8 shifts the record into Moroni's own voice. Writing after Cumorah, with 
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 21: Loving God More Than We Love the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

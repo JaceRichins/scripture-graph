@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 77
 slug: ps-77
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Psalm 142]] — 1 footnote cross-reference (from [[Psalm 77#^ps-77-3|Psalm 77:3]])
 - [[Job 35]] — 1 footnote cross-reference (from [[Psalm 77#^ps-77-6|Psalm 77:6]])
 - [[2 Nephi 3]] — 1 footnote cross-reference (from [[Psalm 77#^ps-77-15|Psalm 77:15]])
+- [[Psalm 89]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +66,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86** (lesson) *(explicit citation)*
 - **33 O God, Where Art Thou?** (history) *(explicit citation)*
 <!-- SG:END history -->
 

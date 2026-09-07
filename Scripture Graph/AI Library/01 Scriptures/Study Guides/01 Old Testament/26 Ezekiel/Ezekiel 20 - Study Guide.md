@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 20
 slug: ezek-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ The chapter presents the [[Sabbath Day]] as a sign of belonging to and being san
 - **Times and Seasons 1841-01-15 (Vol. 2 No. 6)** (periodical, 1841-01-15) *(explicit citation)*
 - **Times and Seasons 1841-11-15 (Vol. 3 No. 2)** (periodical, 1841-11-15) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

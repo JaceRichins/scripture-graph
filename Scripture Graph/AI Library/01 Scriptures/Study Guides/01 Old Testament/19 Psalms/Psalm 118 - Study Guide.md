@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 118
 slug: ps-118
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,13 +51,13 @@ _Not yet developed._
 - [[Psalm 56]] — 1 footnote cross-reference (from [[Psalm 118#^ps-118-6|Psalm 118:6]])
 - [[2 Nephi 8]] — 1 footnote cross-reference (from [[Psalm 118#^ps-118-6|Psalm 118:6]])
 - [[D&C 122]] — 1 footnote cross-reference (from [[Psalm 118#^ps-118-6|Psalm 118:6]])
+- [[Psalm 136]] — 2 parallel verses, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[Psalm 136#^ps-136-1|Psalm 136:1]]
 - [[1 Chronicles 16]] — 2 parallel verses, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[1 Chronicles 16#^1chr-16-34|1 Chronicles 16:34]]
 - [[Psalm 106]] — 2 parallel verses, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[Psalm 106#^ps-106-1|Psalm 106:1]]
 - [[Psalm 107]] — 2 parallel verses, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[Psalm 107#^ps-107-1|Psalm 107:1]]
 - [[Matthew 21]] — 2 parallel verses, e.g. [[Psalm 118#^ps-118-23|Psalm 118:23]] ↔ [[Matthew 21#^matt-21-42|Matthew 21:42]]
 - [[2 Chronicles 5]] — 1 parallel verse, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
 - [[2 Chronicles 7]] — 1 parallel verse, e.g. [[Psalm 118#^ps-118-29|Psalm 118:29]] ↔ [[2 Chronicles 7#^2chr-7-3|2 Chronicles 7:3]]
-- [[Psalm 136]] — 0 parallel verses
 - [[1 Chronicles 16]] — 0 parallel verses
 - [[Psalm 106]] — 0 parallel verses
 - [[Psalm 107]] — 0 parallel verses
@@ -92,7 +92,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Chapter 11: Finding Joy in Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

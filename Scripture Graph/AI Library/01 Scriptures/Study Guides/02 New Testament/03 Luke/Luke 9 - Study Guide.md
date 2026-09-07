@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 9
 slug: luke-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,25 +55,25 @@ This is a narrative reading rather than an explicit outline supplied by the text
 - [[Mark 6]] — 2 footnote cross-references (from [[Luke 9#^luke-9-7|Luke 9:7]])
 - [[Mark 8]] — 2 footnote cross-references (from [[Luke 9#^luke-9-21|Luke 9:21]])
 - [[D&C 60]] — 1 footnote cross-reference (from [[Luke 9#^luke-9-5|Luke 9:5]])
+- [[Mark 9]] — 8 parallel verses, e.g. [[Luke 9#^luke-9-33|Luke 9:33]] ↔ [[Mark 9#^mark-9-5|Mark 9:5]]
+- [[Mark 8]] — 6 parallel verses, e.g. [[Luke 9#^luke-9-22|Luke 9:22]] ↔ [[Mark 8#^mark-8-31|Mark 8:31]]
+- [[Matthew 16]] — 6 parallel verses, e.g. [[Luke 9#^luke-9-23|Luke 9:23]] ↔ [[Matthew 16#^matt-16-24|Matthew 16:24]]
+- [[Matthew 17]] — 4 parallel verses, e.g. [[Luke 9#^luke-9-33|Luke 9:33]] ↔ [[Matthew 17#^matt-17-4|Matthew 17:4]]
+- [[Matthew 8]] — 3 parallel verses, e.g. [[Luke 9#^luke-9-58|Luke 9:58]] ↔ [[Matthew 8#^matt-8-20|Matthew 8:20]]
+- [[Matthew 14]] — 2 parallel verses, e.g. [[Luke 9#^luke-9-16|Luke 9:16]] ↔ [[Matthew 14#^matt-14-19|Matthew 14:19]]
+- [[Mark 6]] — 4 parallel verses, e.g. [[Luke 9#^luke-9-13|Luke 9:13]] ↔ [[Mark 6#^mark-6-37|Mark 6:37]]
+- [[Luke 17]] — 2 parallel verses, e.g. [[Luke 9#^luke-9-57|Luke 9:57]] ↔ [[Luke 17#^luke-17-14|Luke 17:14]]
 - [[D&C 93]] — 1 parallel verse, e.g. [[Luke 9#^luke-9-35|Luke 9:35]] ↔ [[D&C 93#^dc-93-15|D&C 93:15]]
-- [[Matthew 17]] — 0 parallel verses
-- [[Mark 9]] — 0 parallel verses
-- [[Matthew 14]] — 0 parallel verses
-- [[Mark 6]] — 0 parallel verses
-- [[Matthew 8]] — 0 parallel verses
-- [[Mark 8]] — 0 parallel verses
-- [[Matthew 16]] — 0 parallel verses
 - [[2 Kings 1]] — 0 parallel verses
 - [[D&C 24]] — 0 parallel verses
 - [[2 Kings 4]] — 0 parallel verses
-- [[Luke 17]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Kingdom of God]]
 - [[Crucifixion of Jesus Christ]]
 - [[Prophecy]]
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Priesthood Restoration]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

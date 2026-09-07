@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 40
 slug: dc-40
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ D&C 40 sets [[Covenants|covenant]]-making next to covenant-breaking: Covel's sin
 ## Church History
 <!-- SG:BEGIN history -->
 - **James Covel and the ‘Cares of the World’** (history) *(explicit citation)*
+- **April 21–27: “If Ye Are Not One Ye Are Not Mine”: Doctrine and Covenants 37–40** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 

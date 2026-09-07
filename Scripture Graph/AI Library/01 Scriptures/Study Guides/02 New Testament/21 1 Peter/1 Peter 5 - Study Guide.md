@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 5
 slug: 1pet-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -46,6 +46,7 @@ _Not yet developed._
 - [[Luke 12]] — 1 footnote cross-reference (from [[1 Peter 5#^1pet-5-4|1 Peter 5:4]])
 - [[Acts 15]] — 1 footnote cross-reference (from [[1 Peter 5#^1pet-5-12|1 Peter 5:12]])
 - [[Revelation 1]] — 1 parallel verse, e.g. [[1 Peter 5#^1pet-5-11|1 Peter 5:11]] ↔ [[Revelation 1#^rev-1-6|Revelation 1:6]]
+- [[Proverbs 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +84,8 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
+- **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
+- **Chapter 22: Being Perfected through Trials** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

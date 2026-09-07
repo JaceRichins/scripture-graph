@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 6
 slug: moses-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -111,6 +111,7 @@ The passage calls this teaching the [[Plan of Salvation]] and grounds it in the 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 26–February 1. “Teach These Things Freely unto Your Children”: Genesis 5; Moses 6** (lesson) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
@@ -120,7 +121,6 @@ The passage calls this teaching the [[Plan of Salvation]] and grounds it in the 
 - **Sacrament** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **Adam** (reference-entry) *(explicit citation)*
-- **Creation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

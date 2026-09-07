@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 56
 slug: isa-56
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
 - **Dog** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

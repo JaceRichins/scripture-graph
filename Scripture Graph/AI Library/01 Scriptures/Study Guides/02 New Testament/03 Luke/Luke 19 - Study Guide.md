@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 19
 slug: luke-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,15 +51,17 @@ Scripture: [[Luke 19]] · My notes: [[Luke 19 - My Notes]]
 - [[2 Thessalonians 2]] — 1 footnote cross-reference (from [[Luke 19#^luke-19-11|Luke 19:11]])
 - [[D&C 72]] — 1 footnote cross-reference (from [[Luke 19#^luke-19-15|Luke 19:15]])
 - [[Zechariah 9]] — 1 footnote cross-reference (from [[Luke 19#^luke-19-35|Luke 19:35]])
+- [[Mark 11]] — 5 parallel verses, e.g. [[Luke 19#^luke-19-30|Luke 19:30]] ↔ [[Mark 11#^mark-11-2|Mark 11:2]]
+- [[Matthew 21]] — 1 parallel verse, e.g. [[Luke 19#^luke-19-46|Luke 19:46]] ↔ [[Matthew 21#^matt-21-13|Matthew 21:13]]
 - [[Mark 14]] — 2 parallel verses, e.g. [[Luke 19#^luke-19-47|Luke 19:47]] ↔ [[Mark 14#^mark-14-43|Mark 14:43]]
 - [[Matthew 18]] — 1 parallel verse, e.g. [[Luke 19#^luke-19-10|Luke 19:10]] ↔ [[Matthew 18#^matt-18-11|Matthew 18:11]]
-- [[Mark 11]] — 0 parallel verses
-- [[Matthew 21]] — 0 parallel verses
 - [[Luke 12]] — 0 parallel verses
 - [[Luke 13]] — 0 parallel verses
 - [[Luke 21]] — 0 parallel verses
 - [[Luke 15]] — 0 parallel verses
 - [[Luke 16]] — 0 parallel verses
+- [[Luke 23]] — 0 parallel verses
+- [[Matthew 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -105,6 +107,7 @@ Scripture: [[Luke 19]] · My notes: [[Luke 19 - My Notes]]
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Fig tree** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **June 8–14. “The Lord Looketh on the Heart”: 1 Samuel 8–10; 13; 15–16** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

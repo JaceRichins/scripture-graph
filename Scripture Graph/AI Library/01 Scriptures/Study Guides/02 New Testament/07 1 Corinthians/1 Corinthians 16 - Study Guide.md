@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 16
 slug: 1cor-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,9 @@ The chapter follows a recognizable Pauline letter-closing pattern also found in 
 - [[Galatians 6]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Galatians 6#^gal-6-18|Galatians 6:18]]
 - [[Philemon 1]] — 1 parallel verse, e.g. [[1 Corinthians 16#^1cor-16-23|1 Corinthians 16:23]] ↔ [[Philemon 1#^philem-1-25|Philemon 1:25]]
 - [[Galatians 6]] — 0 parallel verses
+- [[Revelation 22]] — 0 parallel verses
+- [[Romans 15]] — 0 parallel verses
+- [[Romans 16]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

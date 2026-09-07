@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 54
 slug: dc-54
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ Repentance includes becoming “truly humble” and contrite (v. 3). Faithful wa
 <!-- SG:BEGIN history -->
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **‘A Bishop unto the Church’** (history) *(explicit citation)*
+- **May 26–June 1: “A Faithful, a Just, and a Wise Steward”: Doctrine and Covenants 51–57** (lesson) *(explicit citation)*
 - **12 After Much Tribulation** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

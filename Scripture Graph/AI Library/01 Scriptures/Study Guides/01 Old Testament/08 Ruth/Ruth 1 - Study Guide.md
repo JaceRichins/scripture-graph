@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 1
 slug: ruth-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 1–7. “My Heart Rejoiceth in the Lord”: Ruth; 1 Samuel 1–7** (lesson) *(explicit citation)*
 - **28 Tried Long Enough** (history) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Barley** (reference-entry) *(explicit citation)*

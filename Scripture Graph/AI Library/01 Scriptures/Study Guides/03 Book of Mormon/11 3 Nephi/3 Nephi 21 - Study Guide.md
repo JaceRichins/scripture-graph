@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 21
 slug: 3ne-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The chapter joins conversion to gathering. Coming to Christ, baptism, entering t
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 - [[Fruit (Elder Neil L. Andersen, October 2019)|Fruit]] — Elder Neil L. Andersen, 2019-October *(explicit citation)*
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
@@ -91,7 +92,6 @@ The chapter joins conversion to gathering. Coming to Christ, baptism, entering t
 - [[The Time Shall Come (Elder L. Whitney Clayton, October 2011)|The Time Shall Come]] — Elder L. Whitney Clayton, 2011-October *(explicit citation)*
 - [[Be Thou an Example of the Believers (Elder Russell M. Nelson, October 2010)|Be Thou an Example of the Believers]] — Elder Russell M. Nelson, 2010-October *(explicit citation)*
 - [[Gospel Teaching—Our Most Important Calling (William D. Oswald, October 2008)|Gospel Teaching—Our Most Important Calling]] — William D. Oswald, 2008-October *(explicit citation)*
-- [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -104,6 +104,8 @@ The chapter joins conversion to gathering. Coming to Christ, baptism, entering t
 - **Truth** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Chapter 47: ‘Praise to the Man’: Latter-day Prophets Bear Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
+- **March 31–April 6: “Jesus Christ Will Gather His People”: Doctrine and Covenants 29** (lesson) *(explicit citation)*
+- **Chapter 15: Advancing the Work of the Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

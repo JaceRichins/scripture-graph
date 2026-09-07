@@ -92,7 +92,7 @@ cssclasses:
 > [[Isaiah 44#^isa-44-3|Isa. 44:3]] · [[Acts 2#^acts-2-17|Acts 2:17]] · [[D&C 46#^dc-46-28|D&amp;C 46:28 (28, 30)]] · [[D&C 84#^dc-84-46|84:46]] · [[D&C 95#^dc-95-4|95:4]] · [[Ezekiel 20#^ezek-20-19|≈ Ezekiel 20:19]]
 
 ![[Ezekiel 36#^ezek-36-28]]
-> [[Ezekiel 28#^ezek-28-25|Ezek. 28:25]] · [[Ezekiel 37#^ezek-37-12|37:12 (12–13)]] · [[Ezekiel 37#^ezek-37-25|25]] · [[Ezekiel 37#^ezek-37-23|≈ Ezekiel 37:23]] · [[Ezekiel 37#^ezek-37-25|≈ Ezekiel 37:25]] · [[Jeremiah 11#^jer-11-4|≈ Jeremiah 11:4]] · [[Jeremiah 30#^jer-30-22|≈ Jeremiah 30:22]] · [[Jeremiah 32#^jer-32-38|≈ Jeremiah 32:38]] · [[Leviticus 25#^lev-25-18|≈ Leviticus 25:18]]
+> [[Ezekiel 28#^ezek-28-25|Ezek. 28:25]] · [[Ezekiel 37#^ezek-37-12|37:12 (12–13)]] · [[Ezekiel 37#^ezek-37-25|25]] · [[Jeremiah 11#^jer-11-4|≈ Jeremiah 11:4]] · [[Jeremiah 30#^jer-30-22|≈ Jeremiah 30:22]] · [[Jeremiah 32#^jer-32-38|≈ Jeremiah 32:38]] · [[Ezekiel 37#^ezek-37-23|≈ Ezekiel 37:23]] · [[Ezekiel 37#^ezek-37-25|≈ Ezekiel 37:25]] · [[Leviticus 25#^lev-25-18|≈ Leviticus 25:18]]
 
 ![[Ezekiel 36#^ezek-36-29]]
 

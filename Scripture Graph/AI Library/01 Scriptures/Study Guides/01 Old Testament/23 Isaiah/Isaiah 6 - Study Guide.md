@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 6
 slug: isa-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -66,12 +66,14 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[I Pray He’ll Use Us (Sharon Eubank, October 2021)|I Pray He’ll Use Us]] — Sharon Eubank, 2021-October *(explicit citation)*
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
+- [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
 - [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
+- **The Gospel Reflector 1841-05-15 (Vol. 1 No. 10)** (history, 1841-05-15) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

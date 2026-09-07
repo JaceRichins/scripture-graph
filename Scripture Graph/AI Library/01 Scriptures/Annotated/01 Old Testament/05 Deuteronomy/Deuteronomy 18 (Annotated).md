@@ -32,7 +32,7 @@ cssclasses:
 > [[D&C 107#^dc-107-6|D&amp;C 107:6]]
 
 ![[Deuteronomy 18#^deut-18-6]]
-> [[Numbers 35#^num-35-2|Num. 35:3 (2–3)]] · [[2 Chronicles 7#^2chr-7-12|2 Chr. 7:12]] · [[Deuteronomy 12#^deut-12-26|≈ Deuteronomy 12:26]] · [[Deuteronomy 12#^deut-12-14|≈ Deuteronomy 12:14]] · [[Deuteronomy 15#^deut-15-20|≈ Deuteronomy 15:20]] · [[Deuteronomy 16#^deut-16-2|≈ Deuteronomy 16:2]] · [[Deuteronomy 16#^deut-16-15|≈ Deuteronomy 16:15]]
+> [[Numbers 35#^num-35-2|Num. 35:3 (2–3)]] · [[2 Chronicles 7#^2chr-7-12|2 Chr. 7:12]] · [[Deuteronomy 15#^deut-15-20|≈ Deuteronomy 15:20]] · [[Deuteronomy 16#^deut-16-2|≈ Deuteronomy 16:2]] · [[Deuteronomy 16#^deut-16-15|≈ Deuteronomy 16:15]] · [[Deuteronomy 12#^deut-12-26|≈ Deuteronomy 12:26]] · [[Deuteronomy 12#^deut-12-14|≈ Deuteronomy 12:14]]
 
 ![[Deuteronomy 18#^deut-18-7]]
 

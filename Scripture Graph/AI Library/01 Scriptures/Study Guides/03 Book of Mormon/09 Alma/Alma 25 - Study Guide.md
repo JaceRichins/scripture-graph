@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 25
 slug: alma-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,7 +95,7 @@ Alma 25:15-16 distinguishes continuing observance of the [[Law of Moses]] from t
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

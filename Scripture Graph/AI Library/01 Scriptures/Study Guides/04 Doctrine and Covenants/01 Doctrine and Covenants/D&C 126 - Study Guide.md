@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 126
 slug: dc-126
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **‘Take Special Care of Your Family’** (history) *(explicit citation)*
+- **November 3–9: “A Voice of Gladness for the Living and the Dead”: Doctrine and Covenants 125–128** (lesson) *(explicit citation)*
 - **Organizing the Church in Nauvoo** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

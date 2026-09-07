@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 19
 slug: lev-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ Verses 21–22 connect a trespass offering, priestly atonement, and forgiveness 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Love** (reference-entry) *(explicit citation)*
@@ -110,7 +111,6 @@ Verses 21–22 connect a trespass offering, priestly atonement, and forgiveness 
 - **Clean and unclean** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
 - **Commerce** (reference-entry) *(explicit citation)*
-- **Firstfruits** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

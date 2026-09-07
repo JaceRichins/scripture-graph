@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jonah
 chapter: 4
 slug: jonah-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -44,6 +44,7 @@ _Not yet developed._
 - [[Alma 26]] — 1 footnote cross-reference (from [[Jonah 4#^jonah-4-11|Jonah 4:11]])
 - [[Nehemiah 9]] — 1 parallel verse, e.g. [[Jonah 4#^jonah-4-2|Jonah 4:2]] ↔ [[Nehemiah 9#^neh-9-17|Nehemiah 9:17]]
 - [[Joel 2]] — 1 parallel verse, e.g. [[Jonah 4#^jonah-4-2|Jonah 4:2]] ↔ [[Joel 2#^joel-2-13|Joel 2:13]]
+- [[Nehemiah 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -63,7 +64,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 5
 slug: mosiah-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -59,9 +59,9 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Covenants]]
+- [[Endurance]]
 - [[Conversion]]
 - [[Prophecy]]
-- [[Endurance]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Salvation]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
@@ -98,9 +98,9 @@ Verse 15 holds good works and divine action together: the people must abound in 
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **08 The Rise of the Church of Christ** (history) *(explicit citation)*
+- **Chapter 2: Our Savior, Jesus Christ** (teachings) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

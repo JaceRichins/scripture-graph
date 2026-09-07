@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 16
 slug: mosiah-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Genesis 3]] — 2 footnote cross-references (from [[Mosiah 16#^mosiah-16-3|Mosiah 16:3]])
 - [[2 Nephi 2]] — 2 footnote cross-references (from [[Mosiah 16#^mosiah-16-3|Mosiah 16:3]])
 - [[3 Nephi 26]] — 2 parallel verses, e.g. [[Mosiah 16#^mosiah-16-11|Mosiah 16:11]] ↔ [[3 Nephi 26#^3ne-26-5|3 Nephi 26:5]]
+- [[Mosiah 3]] — 2 parallel verses, e.g. [[Mosiah 16#^mosiah-16-10|Mosiah 16:10]] ↔ [[Mosiah 3#^mosiah-3-24|Mosiah 3:24]]
 - [[Alma 11]] — 1 parallel verse, e.g. [[Mosiah 16#^mosiah-16-10|Mosiah 16:10]] ↔ [[Alma 11#^alma-11-44|Alma 11:44]]
 - [[3 Nephi 27]] — 1 parallel verse, e.g. [[Mosiah 16#^mosiah-16-10|Mosiah 16:10]] ↔ [[3 Nephi 27#^3ne-27-14|3 Nephi 27:14]]
 - [[1 Nephi 19]] — 1 parallel verse, e.g. [[Mosiah 16#^mosiah-16-1|Mosiah 16:1]] ↔ [[1 Nephi 19#^1ne-19-17|1 Nephi 19:17]]
@@ -63,9 +64,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Satan and Temptation]]
 - [[Law of Moses]]
 - [[Final Judgment]]
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Resurrection]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
@@ -107,6 +108,7 @@ The title “very Eternal Father” should be studied with [[Mosiah 15]] and [[T
 - **Death, Physical** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **Chapter 14: Words of Hope and Consolation at the Time of Death** (teachings) *(explicit citation)*
+- **Chapter 8: Understanding Death and Resurrection** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

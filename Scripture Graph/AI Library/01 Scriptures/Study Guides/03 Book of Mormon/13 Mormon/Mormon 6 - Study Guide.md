@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 6
 slug: morm-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,22 +50,23 @@ Scripture: [[Mormon 6]] · My notes: [[Mormon 6 - My Notes]]
 - [[Helaman 13]] — 1 footnote cross-reference (from [[Mormon 6#^morm-6-1|Mormon 6:1]])
 - [[Alma 56]] — 3 parallel verses, e.g. [[Mormon 6#^morm-6-6|Mormon 6:6]] ↔ [[Alma 56#^alma-56-50|Alma 56:50]]
 - [[Alma 2]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-9|Mormon 6:9]] ↔ [[Alma 2#^alma-2-12|Alma 2:12]]
+- [[Words of Mormon 1]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-1|Mormon 6:1]] ↔ [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]]
 - [[Alma 43]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-6|Mormon 6:6]] ↔ [[Alma 43#^alma-43-10|Alma 43:10]]
 - [[Mormon 3]] — 2 parallel verses, e.g. [[Mormon 6#^morm-6-21|Mormon 6:21]] ↔ [[Mormon 3#^morm-3-20|Mormon 3:20]]
 - [[Mosiah 28]] — 1 parallel verse, e.g. [[Mormon 6#^morm-6-2|Mormon 6:2]] ↔ [[Mosiah 28#^mosiah-28-1|Mosiah 28:1]]
-- [[Words of Mormon 1]] — 0 parallel verses
 - [[Ether 15]] — 0 parallel verses
 - [[1 Corinthians 15]] — 0 parallel verses
 - [[Ether 15]] — 0 parallel verses
+- [[Moroni 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[War and Peace]]
-- [[Records and Sacred Writings]]
 - [[Mormon 8]]
 - [[Final Judgment]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

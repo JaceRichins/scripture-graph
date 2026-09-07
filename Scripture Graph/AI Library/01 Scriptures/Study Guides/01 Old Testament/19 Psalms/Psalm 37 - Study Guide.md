@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 37
 slug: ps-37
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,11 +51,12 @@ _Not yet developed._
 - [[Alma 29]] — 1 footnote cross-reference (from [[Psalm 37#^ps-37-4|Psalm 37:4]])
 - [[Alma 37]] — 1 footnote cross-reference (from [[Psalm 37#^ps-37-5|Psalm 37:5]])
 - [[Proverbs 24]] — 0 parallel verses
+- [[Matthew 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Final Judgment]]
+- [[Final Judgment]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -79,6 +80,8 @@ _Not yet developed._
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
 - **Debt** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Covenant** (lesson) *(explicit citation)*
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

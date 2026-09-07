@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 2
 slug: matt-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,22 +55,25 @@ The movement is geographically ordered: Bethlehem/Jerusalem → Egypt → the la
 - [[Alma 5]] — 1 footnote cross-reference (from [[Matthew 2#^matt-2-2|Matthew 2:2]])
 - [[D&C 128]] — 1 footnote cross-reference (from [[Matthew 2#^matt-2-2|Matthew 2:2]])
 - [[Moses 7]] — 1 footnote cross-reference (from [[Matthew 2#^matt-2-2|Matthew 2:2]])
+- [[Matthew 27]] — 3 parallel verses, e.g. [[Matthew 2#^matt-2-17|Matthew 2:17]] ↔ [[Matthew 27#^matt-27-9|Matthew 27:9]]
 - [[Matthew 1]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-15|Matthew 2:15]] ↔ [[Matthew 1#^matt-1-22|Matthew 1:22]]
 - [[Matthew 21]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-23|Matthew 2:23]] ↔ [[Matthew 21#^matt-21-4|Matthew 21:4]]
 - [[Matthew 13]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-23|Matthew 2:23]] ↔ [[Matthew 13#^matt-13-35|Matthew 13:35]]
+- [[Matthew 4]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-23|Matthew 2:23]] ↔ [[Matthew 4#^matt-4-14|Matthew 4:14]]
+- [[Matthew 8]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-23|Matthew 2:23]] ↔ [[Matthew 8#^matt-8-17|Matthew 8:17]]
 - [[Matthew 12]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-23|Matthew 2:23]] ↔ [[Matthew 12#^matt-12-17|Matthew 12:17]]
 - [[D&C 1]] — 2 parallel verses, e.g. [[Matthew 2#^matt-2-15|Matthew 2:15]] ↔ [[D&C 1#^dc-1-18|D&C 1:18]]
-- [[Matthew 27]] — 0 parallel verses
 - [[Matthew 1]] — 0 parallel verses
 - [[Exodus 4]] — 0 parallel verses
+- [[Micah 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Exodus and Deliverance]]
 - [[Prophecy]]
 - [[Jesus Christ (Gospel Topic)]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Signs of the Times]] *(keyword match — unconfirmed)*
@@ -97,7 +100,10 @@ The chapter depicts divine guidance as requiring concrete response. The wise men
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **March 23–29. “I Have Remembered My Covenant”: Exodus 1–6** (lesson) *(explicit citation)*
+- **November 30–December 6. “He Delighteth in Mercy”: Micah; Nahum; Habakkuk; Zephaniah** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

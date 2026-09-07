@@ -29,7 +29,15 @@ _Not yet developed._
 - [[1 Nephi 19]]
 - [[Jacob 4]]
 - [[John 1]]
+- [[Mosiah 15]]
+- [[Mosiah 17]]
+- [[Mosiah 3]]
+- [[Mosiah 7]]
+- [[Philippians 2]]
 - [[3 Nephi 1]] *(keyword match)*
+- [[Luke 1]] *(keyword match)*
+- [[Luke 2]] *(keyword match)*
+- [[Micah 5]] *(keyword match)*
 <!-- SG:END scriptural-foundation -->
 
 ## General Conference

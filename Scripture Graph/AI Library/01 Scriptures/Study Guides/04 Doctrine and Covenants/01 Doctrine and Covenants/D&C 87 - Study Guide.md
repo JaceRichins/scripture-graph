@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 87
 slug: dc-87
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ The text itself interprets the calamities of verse 6 as divine wrath, indignatio
 ## Church History
 <!-- SG:BEGIN history -->
 - **Peace and War** (history) *(explicit citation)*
+- **August 4–10: “Stand Ye in Holy Places”: Doctrine and Covenants 85–87** (lesson) *(explicit citation)*
 - **15 Holy Places** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
@@ -99,6 +100,7 @@ The text itself interprets the calamities of verse 6 as divine wrath, indignatio
 - **Sources Cited** (history) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **August 11–17: “Establish … a House of God”: Doctrine and Covenants 88** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

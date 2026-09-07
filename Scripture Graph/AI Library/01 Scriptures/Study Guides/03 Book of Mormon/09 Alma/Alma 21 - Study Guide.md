@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 21
 slug: alma-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,7 +87,7 @@ The closing verses tie this teaching to lived practice: Ammon instructs Lamoni's
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 7: The Atonement of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

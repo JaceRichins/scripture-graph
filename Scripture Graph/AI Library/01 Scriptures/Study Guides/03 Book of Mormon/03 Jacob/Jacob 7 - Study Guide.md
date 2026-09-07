@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 7
 slug: jacob-7
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,11 +72,11 @@ The movement from flattery to plain confession, from hearts led away to restored
 - [[Law of Moses]]
 - [[War and Peace]]
 - [[Testimony]] *(keyword match — unconfirmed)*
+- [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Scripture Study]] *(keyword match — unconfirmed)*
 - [[Satan and Temptation]] *(keyword match — unconfirmed)*
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
-- [[Gift of the Holy Ghost]] *(keyword match — unconfirmed)*
 - [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

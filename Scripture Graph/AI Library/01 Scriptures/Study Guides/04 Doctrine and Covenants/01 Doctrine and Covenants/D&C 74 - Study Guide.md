@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 74
 slug: dc-74
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,12 +64,14 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Trust in the Lord (President Dallin H. Oaks, October 2019)|Trust in the Lord]] — President Dallin H. Oaks, 2019-October *(explicit citation)*
+- [[All Men Everywhere (Elder Dallin H. Oaks, April 2006)|All Men Everywhere]] — Elder Dallin H. Oaks, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Chapter 17: The Great Plan of Salvation** (teachings) *(explicit citation)*
+- **Chapter 10: The Divine Calling of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

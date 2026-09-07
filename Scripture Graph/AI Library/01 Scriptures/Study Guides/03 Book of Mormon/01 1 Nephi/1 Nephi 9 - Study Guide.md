@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 9
 slug: 1ne-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,11 +71,13 @@ Verses 5–6 can be read as depicting [[Obedience]] before full understanding. N
 <!-- SG:BEGIN conference -->
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[We Each Have a Story (Elder Gerrit W. Gong, April 2022)|We Each Have a Story]] — Elder Gerrit W. Gong, 2022-April *(explicit citation)*
+- [[Holy Scriptures The Power of God unto Our Salvation (Elder Robert D. Hales, October 2006)|Holy Scriptures: The Power of God unto Our Salvation]] — Elder Robert D. Hales, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **06 The Gift and Power of God** (history) *(explicit citation)*
+- **February 10–16: “That You May Come Off Conqueror”: Doctrine and Covenants 10–11** (lesson) *(explicit citation)*
 - **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 

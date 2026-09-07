@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 12
 slug: 1ne-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,10 +93,10 @@ _Not yet developed._
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
 - [[As a Little Child (President Jeffrey R. Holland, April 2025)|As a Little Child]] — President Jeffrey R. Holland, 2025-April *(explicit citation)*
 - [[Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy (Sister Tamara W. Runia, April 2025)|Your Repentance Doesn’t Burden Jesus Christ; It Brightens His Joy]] — Sister Tamara W. Runia, 2025-April *(explicit citation)*
+- [[To Young Women (Elder Jeffrey R. Holland, October 2005)|To Young Women]] — Elder Jeffrey R. Holland, 2005-October *(explicit citation)*
 - [[Take the Holy Spirit as Your Guide (Elder Larry Y. Wilson, April 2018)|Take the Holy Spirit as Your Guide]] — Elder Larry Y. Wilson, 2018-April *(explicit citation)*
 - [[We Can Do Better and Be Better (President Russell M. Nelson, April 2019)|We Can Do Better and Be Better]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 - [[Look down the Road (Elder Alvin F. Meredith III, October 2021)|Look down the Road]] — Elder Alvin F. Meredith III, 2021-October *(explicit citation)*
-- [[In Tune with the Music of Faith (Elder Quentin L. Cook, April 2012)|In Tune with the Music of Faith]] — Elder Quentin L. Cook, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -105,6 +105,7 @@ _Not yet developed._
 - **Apostle** (reference-entry) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
+- **Chapter 9: Overcoming Temptation** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

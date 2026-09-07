@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 70
 slug: dc-70
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,9 +85,11 @@ Temporal equality in verse 14 should be read with the chapter's references to ne
 - **Newel K. Whitney and the United Firm** (history) *(explicit citation)*
 - **Doctrine and Covenants** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
+- **June 23–29: “Worth … the Riches of the Whole Earth”: Doctrine and Covenants 67–70** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Sources Cited** (history) *(explicit citation)*
+- **December 30–January 5: “The Promised Restoration Goes Forward”: The Restoration of the Fulness of the Gospel of Jesus Christ** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

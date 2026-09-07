@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 45
 slug: isa-45
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,6 +57,7 @@ These divisions describe shifts in address and subject matter; they should not b
 - [[Ezra 1]] — 0 parallel verses
 - [[Isaiah 41]] — 0 parallel verses
 - [[Isaiah 44]] — 0 parallel verses
+- [[Philippians 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -85,11 +86,13 @@ The chapter grounds saving power in the LORD's identity as sole Creator (vv.7, 1
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 28–October 4. “Comfort Ye My People”: Isaiah 40–49** (lesson) *(explicit citation)*
 - **The Evening and the Morning Star (1832-1834)** (periodical, 1832-1834) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1835-09-01 (Vol. 1 No. 12)** (periodical, 1835-09-01) *(explicit citation)*
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 - **Cyrus** (reference-entry) *(explicit citation)*
+- **Chapter 19: Temporal Blessings and the Law of Tithing** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

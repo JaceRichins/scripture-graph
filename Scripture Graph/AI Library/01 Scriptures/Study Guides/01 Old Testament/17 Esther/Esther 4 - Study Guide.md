@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 4
 slug: esth-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,8 +71,10 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 3–9. “Thou Art Come … for Such a Time as This”: Esther** (lesson) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Esther, book of** (reference-entry) *(explicit citation)*
+- **Chapter 20: The Kingdom of God Moves Forward** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

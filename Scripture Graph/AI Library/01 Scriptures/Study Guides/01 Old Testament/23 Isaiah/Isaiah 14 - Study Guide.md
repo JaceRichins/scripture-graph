@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 14
 slug: isa-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -80,12 +80,14 @@ Doctrine and Covenants 76:25-27 identifies a rebellious premortal angel as Lucif
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
+- **The Seer 1853-06 (Vol. 1 No. 6)** (history, 1853-06) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

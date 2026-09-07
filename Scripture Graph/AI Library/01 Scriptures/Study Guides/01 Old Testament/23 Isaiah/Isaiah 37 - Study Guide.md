@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 37
 slug: isa-37
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -33,6 +33,7 @@ Isaiah 37 answers the crisis raised by Rabshakeh's taunt in [[Isaiah 36]]. Hezek
 <!-- SG:BEGIN people -->
 - [[Hezekiah]] — 9 mentions
 - [[Isaiah (prophet)]] — 4 mentions
+- [[Sennacherib]] — 3 mentions
 - [[David (king)]] — 1 mention
 <!-- SG:END people -->
 
@@ -40,6 +41,7 @@ Isaiah 37 answers the crisis raised by Rabshakeh's taunt in [[Isaiah 36]]. Hezek
 <!-- SG:BEGIN places -->
 - [[Assyria]] — 10 mentions
 - [[Jerusalem]] — 3 mentions
+- [[Lachish]] — 1 mention
 - [[Haran]] — 1 mention
 - [[Garden of Eden]] — 1 mention
 - [[Mount Carmel]] — 1 mention

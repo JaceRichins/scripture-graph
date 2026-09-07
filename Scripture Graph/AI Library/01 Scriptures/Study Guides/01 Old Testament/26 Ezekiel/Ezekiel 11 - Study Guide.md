@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 11
 slug: ezek-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -48,18 +48,18 @@ _Not yet developed._
 - [[Jeremiah 39]] — 1 footnote cross-reference (from [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]])
 - [[Jeremiah 52]] — 1 footnote cross-reference (from [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]])
 - [[Ezekiel 5]] — 1 footnote cross-reference (from [[Ezekiel 11#^ezek-11-12|Ezekiel 11:12]])
+- [[Ezekiel 8]] — 6 parallel verses, e.g. [[Ezekiel 11#^ezek-11-1|Ezekiel 11:1]] ↔ [[Ezekiel 8#^ezek-8-16|Ezekiel 8:16]]
 - [[Ezekiel 10]] — 3 parallel verses, e.g. [[Ezekiel 11#^ezek-11-22|Ezekiel 11:22]] ↔ [[Ezekiel 10#^ezek-10-19|Ezekiel 10:19]]
+- [[Jeremiah 32]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Jeremiah 32#^jer-32-38|Jeremiah 32:38]]
 - [[Ezekiel 9]] — 3 parallel verses, e.g. [[Ezekiel 11#^ezek-11-22|Ezekiel 11:22]] ↔ [[Ezekiel 9#^ezek-9-3|Ezekiel 9:3]]
+- [[Ezekiel 36]] — 3 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Ezekiel 36#^ezek-36-28|Ezekiel 36:28]]
+- [[Jeremiah 24]] — 1 parallel verse, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Jeremiah 24#^jer-24-7|Jeremiah 24:7]]
+- [[Ezekiel 37]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Ezekiel 37#^ezek-37-23|Ezekiel 37:23]]
 - [[Zechariah 8]] — 1 parallel verse, e.g. [[Ezekiel 11#^ezek-11-20|Ezekiel 11:20]] ↔ [[Zechariah 8#^zech-8-8|Zechariah 8:8]]
 - [[Ezekiel 20]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]] ↔ [[Ezekiel 20#^ezek-20-38|Ezekiel 20:38]]
 - [[Ezekiel 13]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-10|Ezekiel 11:10]] ↔ [[Ezekiel 13#^ezek-13-9|Ezekiel 13:9]]
-- [[Jeremiah 24]] — 0 parallel verses
-- [[Jeremiah 32]] — 0 parallel verses
-- [[Ezekiel 37]] — 0 parallel verses
-- [[Ezekiel 36]] — 0 parallel verses
-- [[Ezekiel 43]] — 0 parallel verses
+- [[Ezekiel 43]] — 2 parallel verses, e.g. [[Ezekiel 11#^ezek-11-24|Ezekiel 11:24]] ↔ [[Ezekiel 43#^ezek-43-5|Ezekiel 43:5]]
 - [[Ezekiel 10]] — 0 parallel verses
-- [[Jeremiah 32]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +83,8 @@ The promise of a little sanctuary also shows that divine presence is not depicte
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: The Covenant** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Cherubim** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*

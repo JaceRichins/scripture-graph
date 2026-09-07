@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 11
 slug: 2sam-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,10 +54,10 @@ The chapter moves through four scenes: (1) campaign and encounter, vv. 1–5 —
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[War and Peace]]
 - [[2 Samuel 12]]
 - [[Judges 9]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -71,13 +71,16 @@ The chapter traces how sin compounds: adultery leads to deception, deception to 
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Blessed Are All the Pure in Heart (Elder L. Whitney Clayton, October 2007)|Blessed Are All the Pure in Heart]] — Elder L. Whitney Clayton, 2007-October *(explicit citation)*
+- [[Pornography (Elder Dallin H. Oaks, April 2005)|Pornography]] — Elder Dallin H. Oaks, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 22–28. “Hear Thou in Heaven Their Prayer”: 2 Samuel 11–12; 1 Kings 3; 6–9; 11** (lesson) *(explicit citation)*
 - **Abimelech** (reference-entry) *(explicit citation)*
 - **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 - **Ark of the Covenant** (reference-entry) *(explicit citation)*
+- **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

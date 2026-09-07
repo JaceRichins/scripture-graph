@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 15
 slug: 1ne-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ The closing argument links embodied conduct during probation with [[Final Judgme
 <!-- SG:BEGIN conference -->
 - [[Turn to Him and Answers Will Come (Elder James B. Martino, October 2015)|Turn to Him and Answers Will Come]] — Elder James B. Martino, 2015-October *(explicit citation)*
 - [[Personal Revelation and Testimony (Barbara Thompson, October 2011)|Personal Revelation and Testimony]] — Barbara Thompson, 2011-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[“That I Might Draw All Men unto Me” (Elder Dale G. Renlund, April 2016)|“That I Might Draw All Men unto Me”]] — Elder Dale G. Renlund, 2016-April *(explicit citation)*
 - [[A Living Witness of the Living Christ (Bishop Gérald Caussé, April 2020)|A Living Witness of the Living Christ]] — Bishop Gérald Caussé, 2020-April *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
@@ -102,21 +103,20 @@ The closing argument links embodied conduct during probation with [[Final Judgme
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[Do I Believe (Bonnie L. Oscarson, April 2016)|Do I Believe?]] — Bonnie L. Oscarson, 2016-April *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
-- [[The Sacred Place of Restoration (Elder Jairo Mazzagardi, April 2016)|The Sacred Place of Restoration]] — Elder Jairo Mazzagardi, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Center Place** (history) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
-- **Scriptures** (reference-entry) *(explicit citation)*
-- **Death, Spiritual** (reference-entry) *(explicit citation)*
-- **Satan** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

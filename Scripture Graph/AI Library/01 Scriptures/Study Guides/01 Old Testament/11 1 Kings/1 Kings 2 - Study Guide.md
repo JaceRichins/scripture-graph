@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 2
 slug: 1kgs-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

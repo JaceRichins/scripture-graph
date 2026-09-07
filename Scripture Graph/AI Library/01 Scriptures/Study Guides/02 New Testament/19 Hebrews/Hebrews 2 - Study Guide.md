@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 2
 slug: heb-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,8 +56,8 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Justification and Sanctification]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -90,6 +90,9 @@ This chapter roots the [[Atonement of Jesus Christ]] in Christ's genuine, shared
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
 - **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
+- **April 14–20: “I Am He Who Liveth, I Am He Who Was Slain”: Easter** (lesson) *(explicit citation)*
+- **October 20–26: “O God, Where Art Thou?”: Doctrine and Covenants 121–123** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

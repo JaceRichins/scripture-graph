@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 12
 slug: josh-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ The catalogue recalls the entry campaigns of [[Joshua 6]] and [[Joshua 8]], the 
 - [[Jericho]] — 1 mention
 - [[Jerusalem]] — 1 mention
 - [[Hebron]] — 1 mention
+- [[Lachish]] — 1 mention
 - [[Mount Carmel]] — 1 mention
 <!-- SG:END places -->
 

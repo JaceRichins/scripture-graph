@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 132
 slug: dc-132
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -103,12 +103,12 @@ Plural marriage is justified through claimed divine command and an Abrahamic com
 - [[Fruit That Remains (Elder Matthew L. Carpenter, April 2024)|Fruit That Remains]] — Elder Matthew L. Carpenter, 2024-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[The Sealing Power (Elder D. Todd Christofferson, October 2023)|The Sealing Power]] — Elder D. Todd Christofferson, 2023-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[Two Great Commandments (President Dallin H. Oaks, October 2019)|Two Great Commandments]] — President Dallin H. Oaks, 2019-October *(explicit citation)*
 - [[Eternal Marriage Is an Eternal Journey (Elder Neil L. Andersen, April 2026)|Eternal Marriage Is an Eternal Journey]] — Elder Neil L. Andersen, 2026-April *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 - [[Living the Gospel Joyful (President Dieter F. Uchtdorf, October 2014)|Living the Gospel Joyful]] — President Dieter F. Uchtdorf, 2014-October *(explicit citation)*
-- [[Rejoice in the Gift of Priesthood Keys (President Russell M. Nelson, April 2024)|Rejoice in the Gift of Priesthood Keys]] — President Russell M. Nelson, 2024-April *(explicit citation)*
-- [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
+- [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -117,12 +117,12 @@ Plural marriage is justified through claimed divine command and an Abrahamic com
 - **Mercy Thompson and the Revelation on Marriage** (history) *(explicit citation)*
 - **41 God Must Be the Judge** (history) *(explicit citation)*
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **November 10–16: “I Have Seen Your Sacrifices in Obedience”: Doctrine and Covenants 129–132** (lesson) *(explicit citation)*
 - **Plural Marriage** (reference-entry) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 - **36 Incline Them to Gather** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
-- **The Life and Ministry of Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

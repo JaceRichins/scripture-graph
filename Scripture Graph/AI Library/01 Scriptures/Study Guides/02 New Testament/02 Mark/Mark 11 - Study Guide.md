@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 11
 slug: mark-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[Matthew 23]] — 1 parallel verse, e.g. [[Mark 11#^mark-11-9|Mark 11:9]] ↔ [[Matthew 23#^matt-23-39|Matthew 23:39]]
 - [[Matthew 26]] — 1 parallel verse, e.g. [[Mark 11#^mark-11-27|Mark 11:27]] ↔ [[Matthew 26#^matt-26-3|Matthew 26:3]]
 - [[Luke 13]] — 1 parallel verse, e.g. [[Mark 11#^mark-11-9|Mark 11:9]] ↔ [[Luke 13#^luke-13-35|Luke 13:35]]
+- [[Matthew 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

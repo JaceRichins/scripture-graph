@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 124
 slug: dc-124
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -36,19 +36,19 @@ A text-sensitive outline is:
 <!-- SG:BEGIN people -->
 - [[Joseph (of Egypt)]] — 23 mentions
 - [[Hyrum Smith]] — 9 mentions
+- [[William Law]] — 5 mentions
 - [[David (king)]] — 4 mentions
-- [[Samuel (prophet)]] — 4 mentions
 - [[Joseph Smith Jr]] — 3 mentions
+- [[Lyman Wight]] — 3 mentions
 - [[Sidney Rigdon]] — 3 mentions
+- [[Samuel (prophet)]] — 3 mentions
 - [[Edward Partridge]] — 2 mentions
 - [[Abraham (patriarch)]] — 2 mentions
 - [[Peter (apostle)]] — 2 mentions
 - [[Isaac]] — 2 mentions
+- [[William Marks]] — 2 mentions
+- [[John C. Bennett]] — 1 mention
 - [[Moses (prophet)]] — 1 mention
-- [[Cain]] — 1 mention
-- [[Oliver Cowdery]] — 1 mention
-- [[Melchizedek]] — 1 mention
-- [[Jesus Christ]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -118,6 +118,7 @@ Priesthood authority is organized through differentiated offices and quorums. Th
 ## Church History
 <!-- SG:BEGIN history -->
 - **Organizing the Church in Nauvoo** (history) *(explicit citation)*
+- **October 27–November 2: “A House unto My Name”: Doctrine and Covenants 124** (lesson) *(explicit citation)*
 - **35 A Beautiful Place** (history) *(explicit citation)*
 - **The Messenger and the Manifesto** (history) *(explicit citation)*
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
@@ -126,7 +127,6 @@ Priesthood authority is organized through differentiated offices and quorums. Th
 - **The Manifesto and the End of Plural Marriage** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
-- **The Role of Prophets** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 14
 slug: gen-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ Genesis 14:18 calls Melchizedek, king of Salem, "priest of the most high God"—
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 16–22. “To Be a Greater Follower of Righteousness”: Genesis 12–17; Abraham 1–2** (lesson) *(explicit citation)*
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
@@ -85,7 +86,6 @@ Genesis 14:18 calls Melchizedek, king of Salem, "priest of the most high God"—
 - **Dead Sea** (reference-entry) *(explicit citation)*
 - **Dispensations** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
-- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

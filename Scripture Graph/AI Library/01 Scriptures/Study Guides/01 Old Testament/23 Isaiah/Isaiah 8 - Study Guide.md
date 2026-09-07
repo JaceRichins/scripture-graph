@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 8
 slug: isa-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ Christian readers have strong canonical grounds for relating the stumbling stone
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

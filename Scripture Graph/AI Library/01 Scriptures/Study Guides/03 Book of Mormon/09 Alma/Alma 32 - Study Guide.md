@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 32
 slug: alma-32
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -105,7 +105,7 @@ Alma defines [[Faith]] as less than perfect knowledge but more specific than hop
 - **Worship God the Father** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
-- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

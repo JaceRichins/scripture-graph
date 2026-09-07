@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 9
 slug: ether-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,7 +85,7 @@ Within the Book of Mormon's Christian narrative frame, Emer's seeing the Son of 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Prophets in the Land Again (Elder Jeffrey R. Holland, October 2006)|Prophets in the Land Again]] — Elder Jeffrey R. Holland, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

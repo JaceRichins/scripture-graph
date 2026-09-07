@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 44
 slug: ezek-44
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ The declaration "I am their inheritance" places priestly livelihood within depen
 ## Church History
 <!-- SG:BEGIN history -->
 - **Circumcision** (reference-entry) *(explicit citation)*
+- **Chapter 12: The Divine Purpose of Marriage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

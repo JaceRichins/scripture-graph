@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 4
 slug: 1cor-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,8 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Angels** (reference-entry) *(explicit citation)*
+- **Chapter 13: Priesthood, the Government and Power of God** (teachings) *(explicit citation)*
+- **Chapter 40: The Father and the Son** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

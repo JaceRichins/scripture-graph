@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 1
 slug: luke-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,8 +61,8 @@ Scripture: [[Luke 1]] · My notes: [[Luke 1 - My Notes]]
 - [[D&C 110]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-17|Luke 1:17]] ↔ [[D&C 110#^dc-110-15|D&C 110:15]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-17|Luke 1:17]] ↔ [[D&C 27#^dc-27-9|D&C 27:9]]
 - [[D&C 98]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-17|Luke 1:17]] ↔ [[D&C 98#^dc-98-16|D&C 98:16]]
+- [[Luke 2]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-80|Luke 1:80]] ↔ [[Luke 2#^luke-2-40|Luke 2:40]]
 - [[Psalm 107]] — 1 parallel verse, e.g. [[Luke 1#^luke-1-79|Luke 1:79]] ↔ [[Psalm 107#^ps-107-10|Psalm 107:10]]
-- [[Luke 2]] — 0 parallel verses
 - [[1 Samuel 2]] — 0 parallel verses
 - [[Malachi 4]] — 0 parallel verses
 - [[Malachi 3]] — 0 parallel verses
@@ -114,11 +114,11 @@ The [[Gift of the Holy Ghost]] appears before the public ministries begin: John 
 - **Addiction** (reference-entry) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
+- **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
 - **Journal of Discourses, Volume 13** (history, ~1866) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
-- **Foreordination** (reference-entry) *(explicit citation)*
-- **Christ, names of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

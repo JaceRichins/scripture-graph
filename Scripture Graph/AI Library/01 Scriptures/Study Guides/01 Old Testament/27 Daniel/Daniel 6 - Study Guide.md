@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 6
 slug: dan-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,15 +85,19 @@ The story also contrasts political power with ultimate sovereignty. The law pres
 - [[We Talk of Christ (Elder Neil L. Andersen, October 2020)|We Talk of Christ]] — Elder Neil L. Andersen, 2020-October *(explicit citation)*
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
 - [[Guided Safely Home (President Thomas S. Monson, October 2014)|Guided Safely Home]] — President Thomas S. Monson, 2014-October *(explicit citation)*
+- [[True to the Faith (President Thomas S. Monson, April 2006)|True to the Faith]] — President Thomas S. Monson, 2006-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7** (lesson) *(explicit citation)*
 - **Cyrus** (reference-entry) *(explicit citation)*
 - **Daniel** (reference-entry) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **Darius** (reference-entry) *(explicit citation)*
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
+- **Chapter 24: Righteous Living in Perilous Times** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

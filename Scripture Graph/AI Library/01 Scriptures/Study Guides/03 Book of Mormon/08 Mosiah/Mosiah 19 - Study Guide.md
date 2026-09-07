@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 19
 slug: mosiah-19
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Mosiah 7]] — 2 parallel verses, e.g. [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]] ↔ [[Mosiah 7#^mosiah-7-15|Mosiah 7:15]]
 - [[3 Nephi 6]] — 1 parallel verse, e.g. [[Mosiah 19#^mosiah-19-15|Mosiah 19:15]] ↔ [[3 Nephi 6#^3ne-6-2|3 Nephi 6:2]]
 - [[Mosiah 11]] — 1 parallel verse, e.g. [[Mosiah 19#^mosiah-19-4|Mosiah 19:4]] ↔ [[Mosiah 11#^mosiah-11-20|Mosiah 11:20]]
+- [[Mosiah 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

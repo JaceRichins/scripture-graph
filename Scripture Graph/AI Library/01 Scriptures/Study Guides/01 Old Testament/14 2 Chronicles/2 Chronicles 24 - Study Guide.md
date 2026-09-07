@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 24
 slug: 2chr-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Athaliah** (reference-entry) *(explicit citation)*
+- **The Seer 1853-09 (Vol. 1 No. 9)** (history, 1853-09) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 2
 slug: 2tim-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,12 +76,14 @@ The resurrection is both a foundational gospel claim and a boundary against erro
 - [[Be Not Moved! (Elaine S. Dalton, April 2013)|Be Not Moved!]] — Elaine S. Dalton, 2013-April *(explicit citation)*
 - [[Be Meek and Lowly of Heart (Elder Ulisses Soares, October 2013)|Be Meek and Lowly of Heart]] — Elder Ulisses Soares, 2013-October *(explicit citation)*
 - [[The Power of the Aaronic Priesthood (Bishop Keith B. McMullin, October 2011)|The Power of the Aaronic Priesthood]] — Bishop Keith B. McMullin, 2011-October *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Games** (reference-entry) *(explicit citation)*
+- **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

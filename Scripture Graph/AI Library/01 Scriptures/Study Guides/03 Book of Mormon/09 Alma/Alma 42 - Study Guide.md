@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 42
 slug: alma-42
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,8 @@ Its account of [[Justice and Mercy]] is complementary rather than competitive. J
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Valiant in the Testimony of Jesus (Elder Quentin L. Cook, October 2016)|Valiant in the Testimony of Jesus]] — Elder Quentin L. Cook, 2016-October *(explicit citation)*
+- [[“I Will Remember Your Sins No More” (President Boyd K. Packer, April 2006)|“I Will Remember Your Sins No More”]] — President Boyd K. Packer, 2006-April *(explicit citation)*
+- [[The Great Plan of Happiness (Elder Earl C. Tingey, April 2006)|The Great Plan of Happiness]] — Elder Earl C. Tingey, 2006-April *(explicit citation)*
 - [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 - [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
 - [[Do You Know Why I as a Christian Believe in Christ (Elder Ahmad S. Corbitt, April 2023)|Do You Know Why I as a Christian Believe in Christ?]] — Elder Ahmad S. Corbitt, 2023-April *(explicit citation)*
@@ -91,8 +93,6 @@ Its account of [[Justice and Mercy]] is complementary rather than competitive. J
 - [[Free Forever, to Act for Themselves (Elder D. Todd Christofferson, October 2014)|Free Forever, to Act for Themselves]] — Elder D. Todd Christofferson, 2014-October *(explicit citation)*
 - [[Why Marriage, Why Family (Elder D. Todd Christofferson, April 2015)|Why Marriage, Why Family]] — Elder D. Todd Christofferson, 2015-April *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
-- [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
-- [[The Plan of Mercy (Elder James R. Rasband, April 2025)|The Plan of Mercy]] — Elder James R. Rasband, 2025-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 29
 slug: ezek-29
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

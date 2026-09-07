@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 5
 slug: 1ne-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ The family's sacrifices and thanksgiving connect deliverance with [[Gratitude]] 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Holy Scriptures The Power of God unto Our Salvation (Elder Robert D. Hales, October 2006)|Holy Scriptures: The Power of God unto Our Salvation]] — Elder Robert D. Hales, 2006-October *(explicit citation)*
 - [[The Immediate Goodness of God (Elder Kyle S. McKay, April 2019)|The Immediate Goodness of God]] — Elder Kyle S. McKay, 2019-April *(explicit citation)*
 - [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
 - [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
@@ -100,6 +101,7 @@ The family's sacrifices and thanksgiving connect deliverance with [[Gratitude]] 
 - [[Eternity’s Great Gifts Jesus Christ’s Atonement, Resurrection, Restoration (Elder Gerrit W. Gong, April 2025)|Eternity’s Great Gifts: Jesus Christ’s Atonement, Resurrection, Restoration]] — Elder Gerrit W. Gong, 2025-April *(explicit citation)*
 - [[Lamentations of Jeremiah Beware of Bondage (Elder Quentin L. Cook, October 2013)|Lamentations of Jeremiah: Beware of Bondage]] — Elder Quentin L. Cook, 2013-October *(explicit citation)*
 - [[What Are You Thinking (Elder W. Craig Zwick, April 2014)|What Are You Thinking?]] — Elder W. Craig Zwick, 2014-April *(explicit citation)*
+- [[Blessings Resulting from Reading the Book of Mormon (Elder L. Tom Perry, October 2005)|Blessings Resulting from Reading the Book of Mormon]] — Elder L. Tom Perry, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -108,6 +110,8 @@ The family's sacrifices and thanksgiving connect deliverance with [[Gratitude]] 
 - **Canon** (reference-entry) *(explicit citation)*
 - **Eve** (reference-entry) *(explicit citation)*
 - **Genesis** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The House of Israel** (lesson) *(explicit citation)*
+- **March 9–15. “The Lord Was with Joseph”: Genesis 37–41** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

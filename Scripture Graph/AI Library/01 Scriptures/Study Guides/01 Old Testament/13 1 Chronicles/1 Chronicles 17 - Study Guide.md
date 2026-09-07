@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 17
 slug: 1chr-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -75,7 +75,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

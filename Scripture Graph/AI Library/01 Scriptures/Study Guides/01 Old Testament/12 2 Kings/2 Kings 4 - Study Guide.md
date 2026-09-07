@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 4
 slug: 2kgs-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The outer episodes (oil; loaves) both turn insufficient supply into enough with 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
 - **Debt** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*

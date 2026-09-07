@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 73
 slug: ps-73
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[Psalm 17]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-12|Psalm 73:12]])
 - [[Helaman 7]] — 1 footnote cross-reference (from [[Psalm 73#^ps-73-12|Psalm 73:12]])
 - [[Psalm 49]] — 0 parallel verses
+- [[Malachi 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

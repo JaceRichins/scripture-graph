@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 29
 slug: jer-29
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -107,10 +107,12 @@ The disputes with rival speakers contribute to the chapter's teaching about [[Pr
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Ahab** (reference-entry) *(explicit citation)*
 - **Ezra** (reference-entry) *(explicit citation)*
+- **July 27–August 2. “I Am Doing a Great Work”: Ezra 1; 3–7; Nehemiah 2; 4–6; 8** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

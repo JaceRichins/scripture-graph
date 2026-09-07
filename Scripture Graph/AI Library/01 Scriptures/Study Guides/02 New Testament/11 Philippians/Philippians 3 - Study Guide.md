@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 3
 slug: philip-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,12 +71,14 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Dog** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 5: The Grand Destiny of the Faithful** (teachings) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
 - **Games** (reference-entry) *(explicit citation)*
 - **Chapter 31: ‘God Shall Be with You Forever and Ever’: The Prophet in Liberty Jail** (teachings) *(explicit citation)*
 - **Chapter 37: Understanding Death and Resurrection** (teachings) *(explicit citation)*
+- **Chapter 6: Becoming Perfect before the Lord: ‘A Little Better Day by Day’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

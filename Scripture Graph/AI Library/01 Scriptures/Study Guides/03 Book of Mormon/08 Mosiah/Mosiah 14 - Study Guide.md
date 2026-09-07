@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 14
 slug: mosiah-14
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -74,7 +74,7 @@ The chapter supplies concentrated language later drawn on for the doctrine of th
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

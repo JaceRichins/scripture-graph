@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 2
 slug: amos-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 22
 slug: 2sam-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,11 +71,13 @@ The chapter's dominant thread is God as refuge and deliverer (vv.2-3; see [[Salv
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
+- [[The Temple Is about Families (Elder Richard H. Winkel, October 2006)|The Temple Is about Families]] — Elder Richard H. Winkel, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **David** (reference-entry) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

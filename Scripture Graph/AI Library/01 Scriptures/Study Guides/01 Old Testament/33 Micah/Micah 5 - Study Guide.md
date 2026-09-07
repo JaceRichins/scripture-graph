@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 5
 slug: micah-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,10 +52,12 @@ _Not yet developed._
 - [[1 Chronicles 5]] — 1 footnote cross-reference (from [[Micah 5#^micah-5-2|Micah 5:2]])
 - [[3 Nephi 21]] — 8 parallel verses, e.g. [[Micah 5#^micah-5-8|Micah 5:8]] ↔ [[3 Nephi 21#^3ne-21-12|3 Nephi 21:12]]
 - [[3 Nephi 20]] — 2 parallel verses, e.g. [[Micah 5#^micah-5-8|Micah 5:8]] ↔ [[3 Nephi 20#^3ne-20-16|3 Nephi 20:16]]
+- [[Zechariah 13]] — 1 parallel verse, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Zechariah 13#^zech-13-2|Zechariah 13:2]]
 - [[Zephaniah 1]] — 1 parallel verse, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Zephaniah 1#^zeph-1-10|Zephaniah 1:10]]
 - [[Jeremiah 30]] — 1 parallel verse, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Jeremiah 30#^jer-30-8|Jeremiah 30:8]]
 - [[Amos 8]] — 1 parallel verse, e.g. [[Micah 5#^micah-5-10|Micah 5:10]] ↔ [[Amos 8#^amos-8-9|Amos 8:9]]
 - [[Matthew 2]] — 0 parallel verses
+- [[Mormon 5]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -84,6 +86,7 @@ The remnant-of-Jacob oracle in vv.7-8 becomes, in [[3 Nephi 20]] and [[3 Nephi 2
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 30–December 6. “He Delighteth in Mercy”: Micah; Nahum; Habakkuk; Zephaniah** (lesson) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1842-01-15 (Vol. 3 No. 6)** (periodical, 1842-01-15) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*

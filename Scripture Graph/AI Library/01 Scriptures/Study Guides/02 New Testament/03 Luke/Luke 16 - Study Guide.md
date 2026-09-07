@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 16
 slug: luke-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[D&C 51]] — 1 footnote cross-reference (from [[Luke 16#^luke-16-10|Luke 16:10]])
 - [[D&C 132]] — 1 footnote cross-reference (from [[Luke 16#^luke-16-10|Luke 16:10]])
 - [[Alma 5]] — 1 footnote cross-reference (from [[Luke 16#^luke-16-13|Luke 16:13]])
+- [[Matthew 6]] — 1 parallel verse, e.g. [[Luke 16#^luke-16-13|Luke 16:13]] ↔ [[Matthew 6#^matt-6-24|Matthew 6:24]]
 - [[3 Nephi 13]] — 1 parallel verse, e.g. [[Luke 16#^luke-16-13|Luke 16:13]] ↔ [[3 Nephi 13#^3ne-13-24|3 Nephi 13:24]]
 - [[Luke 12]] — 0 parallel verses
 - [[Luke 19]] — 0 parallel verses
@@ -93,6 +94,7 @@ _Not yet developed._
 - **Debt** (reference-entry) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Divorce** (reference-entry) *(explicit citation)*
+- **Chapter 22: Being Perfected through Trials** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Obadiah
 chapter: 1
 slug: obad-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,17 +87,22 @@ Its central principle of justice is reciprocal: conduct returns upon the offende
 - [[Roots and Branches (Elder Quentin L. Cook, April 2014)|Roots and Branches]] — Elder Quentin L. Cook, 2014-April *(explicit citation)*
 - [[Our Personal Ministries (Elder Hugo E. Martinez, October 2014)|Our Personal Ministries]] — Elder Hugo E. Martinez, 2014-October *(explicit citation)*
 - [[Now Is the Time to Arise and Shine! (Elaine S. Dalton, April 2012)|Now Is the Time to Arise and Shine!]] — Elaine S. Dalton, 2012-April *(explicit citation)*
+- [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*
 - [[The Hearts of the Children Shall Turn (Elder David A. Bednar, October 2011)|The Hearts of the Children Shall Turn]] — Elder David A. Bednar, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
+- **Chapter 6: Uniting Families through Temple and Family History Work** (teachings) *(explicit citation)*
 - **Family History Work and Genealogy** (reference-entry) *(explicit citation)*
 - **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 - **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 - **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
 - **Chapter 33: Missionary Work** (teachings) *(explicit citation)*
 - **Chapter 42: Temple Service** (teachings) *(explicit citation)*
+- **Chapter 20: The Temple, the Gateway to Exaltation** (teachings) *(explicit citation)*
+- **Chapter 4: The Power and Authority of the Holy Priesthood** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

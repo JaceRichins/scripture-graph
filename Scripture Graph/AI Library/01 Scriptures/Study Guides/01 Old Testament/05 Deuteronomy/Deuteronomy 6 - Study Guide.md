@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 6
 slug: deut-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ The phrase "that it may be well with thee" recurs at v.3 and v.18; whether this 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 11–17. “Beware Lest Thou Forget the Lord”: Deuteronomy 6–8; 15; 18; 29–30; 34** (lesson) *(explicit citation)*
 - **Deuteronomy** (reference-entry) *(explicit citation)*
 - **Frontlets or phylacteries** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
@@ -108,6 +109,7 @@ The phrase "that it may be well with thee" recurs at v.3 and v.18; whether this 
 - **Ten Commandments** (reference-entry) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
 - **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
+- **Chapter 10: The Scriptures, the Most Valuable Library in the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

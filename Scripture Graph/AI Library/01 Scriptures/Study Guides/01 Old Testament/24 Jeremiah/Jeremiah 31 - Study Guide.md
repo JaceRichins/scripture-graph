@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 31
 slug: jer-31
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 26–November 1. “I Will Turn Their Mourning into Joy”: Jeremiah 31–33; 36–39; Lamentations 1; 3** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Covenant** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1843-02-01 (Vol. 4 No. 6)** (periodical, 1843-02-01) *(explicit citation)*
@@ -104,8 +106,6 @@ _Not yet developed._
 - **Ephraim** (reference-entry) *(explicit citation)*
 - **Firstborn** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
-- **Zion's Watchman 1855-10-27 (Vol. 2 No. 4)** (history, 1855-10-27) *(explicit citation)*
-- **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

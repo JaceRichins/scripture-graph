@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 30
 slug: 3ne-30
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,6 +51,7 @@ _Not yet developed._
 - [[Moroni 7]] — 1 parallel verse, e.g. [[3 Nephi 30#^3ne-30-2|3 Nephi 30:2]] ↔ [[Moroni 7#^moro-7-34|Moroni 7:34]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[3 Nephi 30#^3ne-30-1|3 Nephi 30:1]] ↔ [[Mormon 9#^morm-9-29|Mormon 9:29]]
 - [[D&C 55]] — 1 parallel verse, e.g. [[3 Nephi 30#^3ne-30-1|3 Nephi 30:1]] ↔ [[D&C 55#^dc-55-2|D&C 55:2]]
+- [[Mormon 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

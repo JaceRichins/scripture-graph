@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 40
 slug: isa-40
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,9 +49,9 @@ _Not yet developed._
 - [[D&C 88]] — 1 footnote cross-reference (from [[Isaiah 40#^isa-40-3|Isaiah 40:3]])
 - [[D&C 128]] — 1 footnote cross-reference (from [[Isaiah 40#^isa-40-3|Isaiah 40:3]])
 - [[Luke 3]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-4|Isaiah 40:4]] ↔ [[Luke 3#^luke-3-5|Luke 3:5]]
-- [[Isaiah 62]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-10|Isaiah 40:10]] ↔ [[Isaiah 62#^isa-62-11|Isaiah 62:11]]
 - [[Matthew 3]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[Matthew 3#^matt-3-3|Matthew 3:3]]
 - [[Mark 1]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
+- [[Isaiah 62]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-10|Isaiah 40:10]] ↔ [[Isaiah 62#^isa-62-11|Isaiah 62:11]]
 - [[D&C 65]] — 2 parallel verses, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
 - [[1 Nephi 10]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-3|Isaiah 40:3]] ↔ [[1 Nephi 10#^1ne-10-8|1 Nephi 10:8]]
 - [[Isaiah 58]] — 1 parallel verse, e.g. [[Isaiah 40#^isa-40-5|Isaiah 40:5]] ↔ [[Isaiah 58#^isa-58-14|Isaiah 58:14]]
@@ -90,6 +90,7 @@ Waiting upon the LORD is presented as the condition of renewed strength, but the
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 28–October 4. “Comfort Ye My People”: Isaiah 40–49** (lesson) *(explicit citation)*
 - **Foreordination** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
@@ -98,6 +99,7 @@ Waiting upon the LORD is presented as the condition of renewed strength, but the
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **The Seer 1853-01 (Vol. 1 No. 1)** (history, 1853-01) *(explicit citation)*
+- **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

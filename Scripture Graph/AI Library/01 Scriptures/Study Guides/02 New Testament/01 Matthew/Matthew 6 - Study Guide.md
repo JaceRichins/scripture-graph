@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 6
 slug: matt-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -49,23 +49,24 @@ _Not yet developed._
 - [[Luke 14]] — 1 footnote cross-reference (from [[Matthew 6#^matt-6-4|Matthew 6:4]])
 - [[Alma 33]] — 1 footnote cross-reference (from [[Matthew 6#^matt-6-6|Matthew 6:6]])
 - [[3 Nephi 13]] — 43 parallel verses, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[3 Nephi 13#^3ne-13-25|3 Nephi 13:25]]
+- [[Luke 12]] — 7 parallel verses, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[Luke 12#^luke-12-22|Luke 12:22]]
+- [[Luke 16]] — 1 parallel verse, e.g. [[Matthew 6#^matt-6-24|Matthew 6:24]] ↔ [[Luke 16#^luke-16-13|Luke 16:13]]
+- [[Luke 11]] — 4 parallel verses, e.g. [[Matthew 6#^matt-6-13|Matthew 6:13]] ↔ [[Luke 11#^luke-11-4|Luke 11:4]]
 - [[D&C 84]] — 3 parallel verses, e.g. [[Matthew 6#^matt-6-28|Matthew 6:28]] ↔ [[D&C 84#^dc-84-82|D&C 84:82]]
 - [[D&C 27]] — 1 parallel verse, e.g. [[Matthew 6#^matt-6-25|Matthew 6:25]] ↔ [[D&C 27#^dc-27-2|D&C 27:2]]
 - [[3 Nephi 13]] — 0 parallel verses
 - [[D&C 88]] — 0 parallel verses
 - [[Alma 31]] — 0 parallel verses
 - [[Helaman 8]] — 0 parallel verses
-- [[Luke 12]] — 0 parallel verses
-- [[Luke 11]] — 0 parallel verses
 - [[Matthew 18]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prayer]]
-- [[Fasting]]
 - [[Kingdom of God]]
-- [[Repentance and Forgiveness]]
+- [[Fasting]]
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -97,10 +98,10 @@ The chapter also treats discipleship as a question of allegiance. Treasure direc
 - **Heavenly Parents** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 19: Temporal Blessings and the Law of Tithing** (teachings) *(explicit citation)*
+- **Chapter 22: Temporal and Spiritual Labor, ‘Hand in Hand Together’** (teachings) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Worship God the Father** (reference-entry) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
-- **Fasts** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

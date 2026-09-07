@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 3
 slug: luke-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,8 @@ Scripture: [[Luke 3]] · My notes: [[Luke 3 - My Notes]]
 - [[Matthew 3]] — 1 footnote cross-reference (from [[Luke 3#^luke-3-4|Luke 3:4]])
 - [[Mark 1]] — 1 footnote cross-reference (from [[Luke 3#^luke-3-4|Luke 3:4]])
 - [[D&C 84]] — 1 footnote cross-reference (from [[Luke 3#^luke-3-4|Luke 3:4]])
+- [[Matthew 3]] — 6 parallel verses, e.g. [[Luke 3#^luke-3-8|Luke 3:8]] ↔ [[Matthew 3#^matt-3-9|Matthew 3:9]]
+- [[Mark 1]] — 4 parallel verses, e.g. [[Luke 3#^luke-3-4|Luke 3:4]] ↔ [[Mark 1#^mark-1-3|Mark 1:3]]
 - [[Isaiah 40]] — 2 parallel verses, e.g. [[Luke 3#^luke-3-5|Luke 3:5]] ↔ [[Isaiah 40#^isa-40-4|Isaiah 40:4]]
 - [[D&C 65]] — 2 parallel verses, e.g. [[Luke 3#^luke-3-4|Luke 3:4]] ↔ [[D&C 65#^dc-65-1|D&C 65:1]]
 - [[Alma 5]] — 3 parallel verses, e.g. [[Luke 3#^luke-3-9|Luke 3:9]] ↔ [[Alma 5#^alma-5-52|Alma 5:52]]
@@ -80,8 +82,6 @@ Scripture: [[Luke 3]] · My notes: [[Luke 3 - My Notes]]
 - [[3 Nephi 27]] — 2 parallel verses, e.g. [[Luke 3#^luke-3-9|Luke 3:9]] ↔ [[3 Nephi 27#^3ne-27-11|3 Nephi 27:11]]
 - [[D&C 45]] — 2 parallel verses, e.g. [[Luke 3#^luke-3-9|Luke 3:9]] ↔ [[D&C 45#^dc-45-50|D&C 45:50]]
 - [[John 1]] — 1 parallel verse, e.g. [[Luke 3#^luke-3-4|Luke 3:4]] ↔ [[John 1#^john-1-23|John 1:23]]
-- [[D&C 97]] — 1 parallel verse, e.g. [[Luke 3#^luke-3-9|Luke 3:9]] ↔ [[D&C 97#^dc-97-7|D&C 97:7]]
-- [[D&C 107]] — 1 parallel verse, e.g. [[Luke 3#^luke-3-3|Luke 3:3]] ↔ [[D&C 107#^dc-107-20|D&C 107:20]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -109,6 +109,7 @@ John's warning concerning Abraham challenges reliance on covenant ancestry witho
 - [[Happy and Forever (Elder Gerrit W. Gong, October 2022)|Happy and Forever]] — Elder Gerrit W. Gong, 2022-October *(explicit citation)*
 - [[Accessing God’s Power through Covenants (Elder Dale G. Renlund, April 2023)|Accessing God’s Power through Covenants]] — Elder Dale G. Renlund, 2023-April *(explicit citation)*
 - [[A Higher Joy (Elder Dieter F. Uchtdorf, April 2024)|A Higher Joy]] — Elder Dieter F. Uchtdorf, 2024-April *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[The Lord Jesus Christ Teaches Us to Pray (Elder Juan A. Uceda, October 2016)|The Lord Jesus Christ Teaches Us to Pray]] — Elder Juan A. Uceda, 2016-October *(explicit citation)*
 - [[Even a Child Can Understand (Elder Gérald Caussé, October 2008)|Even a Child Can Understand]] — Elder Gérald Caussé, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
@@ -117,6 +118,7 @@ John's warning concerning Abraham challenges reliance on covenant ancestry witho
 <!-- SG:BEGIN history -->
 - **Adoption** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
 - **Genealogy** (reference-entry) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
@@ -124,7 +126,6 @@ John's warning concerning Abraham challenges reliance on covenant ancestry witho
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Enoch** (reference-entry) *(explicit citation)*
-- **Fire** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

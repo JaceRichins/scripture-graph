@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 18
 slug: dc-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -79,8 +79,8 @@ _Not yet developed._
 - [[Kingdom of God]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Gospel of Jesus Christ]] *(keyword match — unconfirmed)*
-- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -108,16 +108,16 @@ Taking Christ's name is likewise connected with conduct and covenantal response:
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **February 24–March 2: “The Worth of Souls Is Great”: Doctrine and Covenants 18** (lesson) *(explicit citation)*
 - **‘Build Up My Church’** (history) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
 - **The Role of Prophets** (reference-entry) *(explicit citation)*
 - **19 Stewards over This Ministry** (history) *(explicit citation)*
+- **April 14–20: “I Am He Who Liveth, I Am He Who Was Slain”: Easter** (lesson) *(explicit citation)*
+- **Chapter 9: Proclaiming the Gospel** (teachings) *(explicit citation)*
+- **Chapter 6: ‘Every Member a Missionary’** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Apostle** (reference-entry) *(explicit citation)*
-- **Baptism** (reference-entry) *(explicit citation)*
-- **Children of God** (reference-entry) *(explicit citation)*
-- **Gathering of Israel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 28
 slug: 2ne-28
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -105,6 +105,7 @@ The repeated criticism of fine sanctuaries and clothing is tied to robbing and p
 <!-- SG:BEGIN history -->
 - **Plural Marriage in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **The Manifesto and the End of Plural Marriage** (reference-entry) *(explicit citation)*
+- **Chapter 18: Stay on the Lord’s Side of the Line** (teachings) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
@@ -112,7 +113,6 @@ The repeated criticism of fine sanctuaries and clothing is tied to robbing and p
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
-- **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

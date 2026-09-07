@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 4
 slug: ex-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,11 +57,11 @@ Scripture: [[Exodus 4]] · My notes: [[Exodus 4 - My Notes]]
 - [[Jeremiah 12]] — 2 parallel verses, e.g. [[Exodus 4#^ex-4-8|Exodus 4:8]] ↔ [[Jeremiah 12#^jer-12-16|Jeremiah 12:16]]
 - [[Judges 2]] — 2 parallel verses, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Judges 2#^judg-2-14|Judges 2:14]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
-- [[Numbers 12]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Numbers 12#^num-12-9|Numbers 12:9]]
 - [[Matthew 22]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Matthew 22#^matt-22-32|Matthew 22:32]]
 - [[Mark 12]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Mark 12#^mark-12-26|Mark 12:26]]
 - [[Luke 20]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
 - [[Mormon 9]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-5|Exodus 4:5]] ↔ [[Mormon 9#^morm-9-11|Mormon 9:11]]
+- [[Numbers 12]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Numbers 12#^num-12-9|Numbers 12:9]]
 - [[Numbers 25]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Numbers 25#^num-25-3|Numbers 25:3]]
 - [[Joshua 7]] — 1 parallel verse, e.g. [[Exodus 4#^ex-4-14|Exodus 4:14]] ↔ [[Joshua 7#^josh-7-1|Joshua 7:1]]
 <!-- SG:END related-scriptures -->
@@ -93,9 +93,12 @@ The circumcision account plausibly concerns [[Covenants]] and [[Obedience]], but
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 23–29. “I Have Remembered My Covenant”: Exodus 1–6** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
+- **January 26–February 1. “Teach These Things Freely unto Your Children”: Genesis 5; Moses 6** (lesson) *(explicit citation)*
+- **Chapter 11: ‘I Seek Not Mine Own Will, but the Will of the Father’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

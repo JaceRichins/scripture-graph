@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zephaniah
 chapter: 1
 slug: zeph-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,16 +51,16 @@ Scripture: [[Zephaniah 1]] · My notes: [[Zephaniah 1 - My Notes]]
 - [[2 Nephi 19]] — 1 footnote cross-reference (from [[Zephaniah 1#^zeph-1-4|Zephaniah 1:4]])
 - [[Jeremiah 1]] — 1 parallel verse, e.g. [[Zephaniah 1#^zeph-1-1|Zephaniah 1:1]] ↔ [[Jeremiah 1#^jer-1-2|Jeremiah 1:2]]
 - [[Ezekiel 25]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-4|Zephaniah 1:4]] ↔ [[Ezekiel 25#^ezek-25-13|Ezekiel 25:13]]
-- [[Joel 2]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]] ↔ [[Joel 2#^joel-2-11|Joel 2:11]]
+- [[Zephaniah 2]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-8|Zephaniah 1:8]] ↔ [[Zephaniah 2#^zeph-2-3|Zephaniah 2:3]]
 - [[Ezekiel 38]] — 1 parallel verse, e.g. [[Zephaniah 1#^zeph-1-3|Zephaniah 1:3]] ↔ [[Ezekiel 38#^ezek-38-20|Ezekiel 38:20]]
 - [[Lamentations 2]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-8|Zephaniah 1:8]] ↔ [[Lamentations 2#^lam-2-22|Lamentations 2:22]]
 - [[Ezekiel 7]] — 1 parallel verse, e.g. [[Zephaniah 1#^zeph-1-18|Zephaniah 1:18]] ↔ [[Ezekiel 7#^ezek-7-19|Ezekiel 7:19]]
+- [[Joel 2]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]] ↔ [[Joel 2#^joel-2-11|Joel 2:11]]
 - [[Joel 3]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]] ↔ [[Joel 3#^joel-3-14|Joel 3:14]]
 - [[Obadiah 1]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]] ↔ [[Obadiah 1#^obad-1-15|Obadiah 1:15]]
 - [[Micah 5]] — 1 parallel verse, e.g. [[Zephaniah 1#^zeph-1-10|Zephaniah 1:10]] ↔ [[Micah 5#^micah-5-10|Micah 5:10]]
 - [[D&C 128]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]] ↔ [[D&C 128#^dc-128-24|D&C 128:24]]
 - [[D&C 43]] — 2 parallel verses, e.g. [[Zephaniah 1#^zeph-1-14|Zephaniah 1:14]] ↔ [[D&C 43#^dc-43-17|D&C 43:17]]
-- [[Joel 1]] — 1 parallel verse, e.g. [[Zephaniah 1#^zeph-1-7|Zephaniah 1:7]] ↔ [[Joel 1#^joel-1-15|Joel 1:15]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -81,6 +81,7 @@ The chapter presents [[Apostasy]] as more than formally renouncing God. It inclu
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **November 30–December 6. “He Delighteth in Mercy”: Micah; Nahum; Habakkuk; Zephaniah** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

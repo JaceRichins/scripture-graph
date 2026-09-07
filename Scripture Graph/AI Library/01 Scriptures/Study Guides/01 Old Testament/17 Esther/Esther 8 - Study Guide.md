@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 8
 slug: esth-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Camel** (reference-entry) *(explicit citation)*
+- **August 3–9. “Thou Art Come … for Such a Time as This”: Esther** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

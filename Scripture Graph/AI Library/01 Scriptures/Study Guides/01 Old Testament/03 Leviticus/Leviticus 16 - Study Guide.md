@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 16
 slug: lev-16
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,17 +56,17 @@ _Not yet developed._
 - [[Hebrews 9]] — 1 footnote cross-reference (from [[Leviticus 16#^lev-16-2|Leviticus 16:2]])
 - [[Exodus 25]] — 1 footnote cross-reference (from [[Leviticus 16#^lev-16-2|Leviticus 16:2]])
 - [[Numbers 7]] — 12 parallel verses, e.g. [[Leviticus 16#^lev-16-5|Leviticus 16:5]] ↔ [[Numbers 7#^num-7-16|Numbers 7:16]]
+- [[Leviticus 4]] — 7 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Leviticus 4#^lev-4-25|Leviticus 4:25]]
 - [[Leviticus 9]] — 4 parallel verses, e.g. [[Leviticus 16#^lev-16-3|Leviticus 16:3]] ↔ [[Leviticus 9#^lev-9-2|Leviticus 9:2]]
+- [[Numbers 19]] — 4 parallel verses, e.g. [[Leviticus 16#^lev-16-28|Leviticus 16:28]] ↔ [[Numbers 19#^num-19-7|Numbers 19:7]]
+- [[Numbers 29]] — 6 parallel verses, e.g. [[Leviticus 16#^lev-16-29|Leviticus 16:29]] ↔ [[Numbers 29#^num-29-1|Numbers 29:1]]
 - [[Exodus 29]] — 3 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Exodus 29#^ex-29-12|Exodus 29:12]]
 - [[Leviticus 17]] — 3 parallel verses, e.g. [[Leviticus 16#^lev-16-29|Leviticus 16:29]] ↔ [[Leviticus 17#^lev-17-15|Leviticus 17:15]]
+- [[Leviticus 23]] — 3 parallel verses, e.g. [[Leviticus 16#^lev-16-5|Leviticus 16:5]] ↔ [[Leviticus 23#^lev-23-19|Leviticus 23:19]]
 - [[Leviticus 8]] — 2 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Leviticus 8#^lev-8-15|Leviticus 8:15]]
 - [[Ezekiel 45]] — 3 parallel verses, e.g. [[Leviticus 16#^lev-16-18|Leviticus 16:18]] ↔ [[Ezekiel 45#^ezek-45-19|Ezekiel 45:19]]
 - [[Leviticus 15]] — 2 parallel verses, e.g. [[Leviticus 16#^lev-16-26|Leviticus 16:26]] ↔ [[Leviticus 15#^lev-15-13|Leviticus 15:13]]
 - [[Leviticus 5]] — 2 parallel verses, e.g. [[Leviticus 16#^lev-16-5|Leviticus 16:5]] ↔ [[Leviticus 5#^lev-5-6|Leviticus 5:6]]
-- [[Leviticus 14]] — 2 parallel verses, e.g. [[Leviticus 16#^lev-16-7|Leviticus 16:7]] ↔ [[Leviticus 14#^lev-14-11|Leviticus 14:11]]
-- [[Numbers 15]] — 2 parallel verses, e.g. [[Leviticus 16#^lev-16-10|Leviticus 16:10]] ↔ [[Numbers 15#^num-15-28|Numbers 15:28]]
-- [[Exodus 30]] — 2 parallel verses, e.g. [[Leviticus 16#^lev-16-20|Leviticus 16:20]] ↔ [[Exodus 30#^ex-30-18|Exodus 30:18]]
-- [[Numbers 8]] — 1 parallel verse, e.g. [[Leviticus 16#^lev-16-34|Leviticus 16:34]] ↔ [[Numbers 8#^num-8-19|Numbers 8:19]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -97,6 +97,7 @@ For Christian study, [[Hebrews 9]] supplies the clearest canonical warrant for r
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->

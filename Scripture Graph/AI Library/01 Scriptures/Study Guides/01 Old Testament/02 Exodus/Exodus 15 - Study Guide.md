@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 15
 slug: ex-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ Scripture: [[Exodus 15]] · My notes: [[Exodus 15 - My Notes]]
 - [[Isaiah 12]] — 0 parallel verses
 - [[Psalm 118]] — 0 parallel verses
 - [[Exodus 14]] — 0 parallel verses
+- [[Numbers 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -87,7 +88,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
+- **Chapter 24: The Work of Latter-day Saint Women: ‘Unselfish Devotion to This Glorious Cause’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

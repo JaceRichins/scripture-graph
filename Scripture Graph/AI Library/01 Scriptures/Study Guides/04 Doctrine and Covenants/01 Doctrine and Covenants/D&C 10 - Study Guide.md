@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 10
 slug: dc-10
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,7 @@ The invitation is universal in scope but conditional in practice: the gospel is 
 ## Church History
 <!-- SG:BEGIN history -->
 - **06 The Gift and Power of God** (history) *(explicit citation)*
+- **February 10–16: “That You May Come Off Conqueror”: Doctrine and Covenants 10–11** (lesson) *(explicit citation)*
 - **‘Build Up My Church’** (history) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
@@ -112,7 +113,6 @@ The invitation is universal in scope but conditional in practice: the gospel is 
 - **03 Plates of Gold** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Diversity and Unity in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

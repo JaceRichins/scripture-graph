@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 17
 slug: ex-17
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,9 +88,13 @@ The opening resists a simplistic equation between obedience and immediate ease: 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Amalek, Amalekites** (reference-entry) *(explicit citation)*
 - **Chapter 16: Revelation and the Living Prophet** (teachings) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Chapter 6: Sustaining Those Whom the Lord Sustains** (teachings) *(explicit citation)*
+- **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

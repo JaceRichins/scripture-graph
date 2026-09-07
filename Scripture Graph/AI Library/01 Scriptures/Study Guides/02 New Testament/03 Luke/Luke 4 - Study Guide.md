@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 4
 slug: luke-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,21 +54,23 @@ Scripture: [[Luke 4]] · My notes: [[Luke 4 - My Notes]]
 - [[Mosiah 15]] — 1 footnote cross-reference (from [[Luke 4#^luke-4-2|Luke 4:2]])
 - [[D&C 62]] — 1 footnote cross-reference (from [[Luke 4#^luke-4-2|Luke 4:2]])
 - [[Moses 7]] — 1 footnote cross-reference (from [[Luke 4#^luke-4-2|Luke 4:2]])
+- [[Matthew 4]] — 11 parallel verses, e.g. [[Luke 4#^luke-4-11|Luke 4:11]] ↔ [[Matthew 4#^matt-4-6|Matthew 4:6]]
+- [[Mark 1]] — 4 parallel verses, e.g. [[Luke 4#^luke-4-34|Luke 4:34]] ↔ [[Mark 1#^mark-1-24|Mark 1:24]]
 - [[Psalm 91]] — 2 parallel verses, e.g. [[Luke 4#^luke-4-10|Luke 4:10]] ↔ [[Psalm 91#^ps-91-11|Psalm 91:11]]
 - [[Matthew 27]] — 2 parallel verses, e.g. [[Luke 4#^luke-4-3|Luke 4:3]] ↔ [[Matthew 27#^matt-27-40|Matthew 27:40]]
 - [[Acts 13]] — 1 parallel verse, e.g. [[Luke 4#^luke-4-16|Luke 4:16]] ↔ [[Acts 13#^acts-13-14|Acts 13:14]]
-- [[Matthew 4]] — 0 parallel verses
-- [[Mark 1]] — 0 parallel verses
 - [[James 5]] — 0 parallel verses
+- [[Mark 1]] — 0 parallel verses
+- [[Matthew 4]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Satan and Temptation]]
-- [[Exodus and Deliverance]]
 - [[Jews and Gentiles]]
 - [[Scripture Study]]
 - [[Kingdom of God]]
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -89,14 +91,14 @@ Jesus resists the Capernaum crowd's wish to keep him in one place, framing his c
 <!-- SG:BEGIN conference -->
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Enduring Power (Elder Kelly R. Johnson, October 2020)|Enduring Power]] — Elder Kelly R. Johnson, 2020-October *(explicit citation)*
+- [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
+- [[Holy Scriptures The Power of God unto Our Salvation (Elder Robert D. Hales, October 2006)|Holy Scriptures: The Power of God unto Our Salvation]] — Elder Robert D. Hales, 2006-October *(explicit citation)*
 - [[I Pray He’ll Use Us (Sharon Eubank, October 2021)|I Pray He’ll Use Us]] — Sharon Eubank, 2021-October *(explicit citation)*
 - [[Latter-day Saints Keep on Trying (Elder Dale G. Renlund, April 2015)|Latter-day Saints Keep on Trying]] — Elder Dale G. Renlund, 2015-April *(explicit citation)*
 - [[That They Do Always Remember Him (Elder Claudio R. M. Costa, October 2015)|That They Do Always Remember Him]] — Elder Claudio R. M. Costa, 2015-October *(explicit citation)*
 - [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
 - [[Wounded (Elder Neil L. Andersen, October 2018)|Wounded]] — Elder Neil L. Andersen, 2018-October *(explicit citation)*
 - [[Build a Fortress of Spirituality and Protection (Elder Ronald A. Rasband, April 2019)|Build a Fortress of Spirituality and Protection]] — Elder Ronald A. Rasband, 2019-April *(explicit citation)*
-- [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
-- [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -106,11 +108,11 @@ Jesus resists the Capernaum crowd's wish to keep him in one place, framing his c
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
+- **October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66** (lesson) *(explicit citation)*
+- **Chapter 9: Overcoming Temptation** (teachings) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
-- **Introduction** (reference-entry) *(explicit citation)*
-- **Anointed One** (reference-entry) *(explicit citation)*
-- **Blindness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 28
 slug: deut-28
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,10 +95,13 @@ Because the chapter's promises and warnings are framed in corporate, territorial
 - [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
 - [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
 - [[Conference Report, April 1898 (General Conference (full report), April 1898)|Conference Report, April 1898]] — General Conference (full report), 1898-April *(explicit citation)*
+- [[All Men Everywhere (Elder Dallin H. Oaks, April 2006)|All Men Everywhere]] — Elder Dallin H. Oaks, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
+- **The Seer 1853-06 (Vol. 1 No. 6)** (history, 1853-06) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
 <!-- SG:END history -->

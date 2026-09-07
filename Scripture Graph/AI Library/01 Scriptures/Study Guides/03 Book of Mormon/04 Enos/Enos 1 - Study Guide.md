@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Enos
 chapter: 1
 slug: enos-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,8 +55,8 @@ This is a progressive narrative, not a demonstrated chiasm. Its clearest organiz
 - [[Ether 12]] — 3 footnote cross-references (from [[Enos 1#^enos-1-13|Enos 1:13]])
 - [[Jarom 1]] — 3 footnote cross-references (from [[Enos 1#^enos-1-20|Enos 1:20]])
 - [[Ephesians 6]] — 2 footnote cross-references (from [[Enos 1#^enos-1-1|Enos 1:1]])
-- [[Mosiah 10]] — 2 parallel verses, e.g. [[Enos 1#^enos-1-20|Enos 1:20]] ↔ [[Mosiah 10#^mosiah-10-12|Mosiah 10:12]]
 - [[Jacob 1]] — 2 parallel verses, e.g. [[Enos 1#^enos-1-25|Enos 1:25]] ↔ [[Jacob 1#^jacob-1-1|Jacob 1:1]]
+- [[Mosiah 10]] — 2 parallel verses, e.g. [[Enos 1#^enos-1-20|Enos 1:20]] ↔ [[Mosiah 10#^mosiah-10-12|Mosiah 10:12]]
 - [[Jacob 7]] — 1 parallel verse, e.g. [[Enos 1#^enos-1-26|Enos 1:26]] ↔ [[Jacob 7#^jacob-7-27|Jacob 7:27]]
 - [[1 Nephi 13]] — 2 parallel verses, e.g. [[Enos 1#^enos-1-26|Enos 1:26]] ↔ [[1 Nephi 13#^1ne-13-24|1 Nephi 13:24]]
 - [[Omni 1]] — 1 parallel verse, e.g. [[Enos 1#^enos-1-25|Enos 1:25]] ↔ [[Omni 1#^omni-1-25|Omni 1:25]]
@@ -66,6 +66,7 @@ This is a progressive narrative, not a demonstrated chiasm. Its clearest organiz
 - [[Mark 5]] — 0 parallel verses
 - [[Matthew 25]] — 0 parallel verses
 - [[John 14]] — 0 parallel verses
+- [[Mosiah 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -93,11 +94,11 @@ Revelation also appears in more than one descriptive form. A voice comes to Enos
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
 - [[The Atoning Love of Jesus Christ (Elder Neil L. Andersen, October 2025)|The Atoning Love of Jesus Christ]] — Elder Neil L. Andersen, 2025-October *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
+- [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 - [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
 - [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
 - [[Repentance A Joyful Choice (Elder Dale G. Renlund, October 2016)|Repentance: A Joyful Choice]] — Elder Dale G. Renlund, 2016-October *(explicit citation)*
 - [[The Great Plan of Redemption (Linda S. Reeves, October 2016)|The Great Plan of Redemption]] — Linda S. Reeves, 2016-October *(explicit citation)*
-- [[Foundations of Faith (Elder Quentin L. Cook, April 2017)|Foundations of Faith]] — Elder Quentin L. Cook, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -105,13 +106,13 @@ Revelation also appears in more than one descriptive form. A voice comes to Enos
 - **Conversion** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
+- **Chapter 6: To Hear the Voice of the Lord** (teachings) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
-- **Conversion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

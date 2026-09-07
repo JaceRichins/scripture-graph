@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 1
 slug: micah-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -35,6 +35,7 @@ _Not yet developed._
 <!-- SG:BEGIN places -->
 - [[Jerusalem]] — 4 mentions
 - [[Samaria]] — 3 mentions
+- [[Lachish]] — 1 mention
 <!-- SG:END places -->
 
 ## Related Scriptures

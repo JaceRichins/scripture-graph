@@ -25,7 +25,7 @@ cssclasses:
 ![[Jeremiah 20#^jer-20-3]]
 
 ![[Jeremiah 20#^jer-20-4]]
-> [[1 Nephi 1#^1ne-1-11|1 Ne. 1:13 (11–14)]] · [[Jeremiah 38#^jer-38-23|≈ Jeremiah 38:23]] · [[Jeremiah 38#^jer-38-3|≈ Jeremiah 38:3]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-28|≈ Jeremiah 32:28]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]]
+> [[1 Nephi 1#^1ne-1-11|1 Ne. 1:13 (11–14)]] · [[Jeremiah 32#^jer-32-3|≈ Jeremiah 32:3]] · [[Jeremiah 32#^jer-32-28|≈ Jeremiah 32:28]] · [[Jeremiah 32#^jer-32-4|≈ Jeremiah 32:4]] · [[Jeremiah 32#^jer-32-36|≈ Jeremiah 32:36]] · [[Jeremiah 34#^jer-34-2|≈ Jeremiah 34:2]] · [[Jeremiah 34#^jer-34-3|≈ Jeremiah 34:3]]
 
 ![[Jeremiah 20#^jer-20-5]]
 > [[Ezekiel 22#^ezek-22-25|Ezek. 22:25]] · [[2 Kings 24#^2kgs-24-12|2 Kgs. 24:12 (12–16)]] · [[2 Kings 25#^2kgs-25-13|25:13 (13–17)]] · [[Jeremiah 34#^jer-34-21|≈ Jeremiah 34:21]]

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 147
 slug: ps-147
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -43,6 +43,7 @@ _Not yet developed._
 - [[Matthew 24]] — 1 footnote cross-reference (from [[Psalm 147#^ps-147-2|Psalm 147:2]])
 - [[Isaiah 40]] — 1 footnote cross-reference (from [[Psalm 147#^ps-147-4|Psalm 147:4]])
 - [[Amos 3]] — 1 footnote cross-reference (from [[Psalm 147#^ps-147-20|Psalm 147:20]])
+- [[Psalm 33]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -65,6 +66,7 @@ _Not yet developed._
 - [[Grateful in Any Circumstances (President Dieter F. Uchtdorf, April 2014)|Grateful in Any Circumstances]] — President Dieter F. Uchtdorf, 2014-April *(explicit citation)*
 - [[The Healing Power of Jesus Christ (Cristina B. Franco, October 2020)|The Healing Power of Jesus Christ]] — Cristina B. Franco, 2020-October *(explicit citation)*
 - [[Have We Not Reason to Rejoice (Elder Dieter F. Uchtdorf, October 2007)|Have We Not Reason to Rejoice?]] — Elder Dieter F. Uchtdorf, 2007-October *(explicit citation)*
+- [[He Knows You by Name (Elaine S. Dalton, April 2005)|He Knows You by Name]] — Elaine S. Dalton, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

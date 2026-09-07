@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 97
 slug: dc-97
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ The definition of [[Zion]] as “the pure in heart” adds a moral identity to t
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 1–7: “For the Salvation of Zion”: Doctrine and Covenants 94–97** (lesson) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
 - **Waiting for the Word of the Lord** (history) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
@@ -98,7 +99,6 @@ The definition of [[Zion]] as “the pure in heart” adds a moral identity to t
 - **Zion** (reference-entry) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 - **Chapter 16: Building Zion** (teachings) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

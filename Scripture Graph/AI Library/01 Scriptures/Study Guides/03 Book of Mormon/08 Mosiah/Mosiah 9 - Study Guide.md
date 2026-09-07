@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 9
 slug: mosiah-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,18 +54,18 @@ The chapter falls into four movements:
 - [[Mosiah 8]] — 1 footnote cross-reference (from [[Mosiah 9#^mosiah-9-1|Mosiah 9:1]])
 - [[Mosiah 7]] — 3 parallel verses, e.g. [[Mosiah 9#^mosiah-9-8|Mosiah 9:8]] ↔ [[Mosiah 7#^mosiah-7-21|Mosiah 7:21]]
 - [[Alma 58]] — 2 parallel verses, e.g. [[Mosiah 9#^mosiah-9-17|Mosiah 9:17]] ↔ [[Alma 58#^alma-58-10|Alma 58:10]]
+- [[Mosiah 10]] — 3 parallel verses, e.g. [[Mosiah 9#^mosiah-9-16|Mosiah 9:16]] ↔ [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]]
 - [[Alma 2]] — 1 parallel verse, e.g. [[Mosiah 9#^mosiah-9-16|Mosiah 9:16]] ↔ [[Alma 2#^alma-2-12|Alma 2:12]]
 - [[Helaman 1]] — 1 parallel verse, e.g. [[Mosiah 9#^mosiah-9-16|Mosiah 9:16]] ↔ [[Helaman 1#^hel-1-14|Helaman 1:14]]
 - [[Omni 1]] — 0 parallel verses
 - [[Mosiah 7]] — 0 parallel verses
-- [[Mosiah 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
-- [[War and Peace]]
-- [[Freedom and Liberty]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

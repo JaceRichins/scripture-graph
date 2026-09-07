@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 32
 slug: ex-32
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,8 @@ Scripture: [[Exodus 32]] · My notes: [[Exodus 32 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
+- **Chapter 8: ‘Search Me, O God, and Know My Heart’** (teachings) *(explicit citation)*
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Calves, golden, worship of** (reference-entry) *(explicit citation)*
 - **Engraving** (reference-entry) *(explicit citation)*

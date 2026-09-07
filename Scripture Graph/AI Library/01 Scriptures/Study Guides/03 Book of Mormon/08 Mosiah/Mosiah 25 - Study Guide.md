@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 25
 slug: mosiah-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -62,11 +62,11 @@ After the separated communities return to Zarahemla, Mosiah gathers the populati
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Exodus and Deliverance]]
-- [[Government and Laws]]
-- [[Records and Sacred Writings]]
 - [[Mosiah 7]]
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

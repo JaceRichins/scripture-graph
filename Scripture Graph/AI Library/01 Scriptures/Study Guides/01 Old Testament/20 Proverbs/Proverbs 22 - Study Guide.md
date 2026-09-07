@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 22
 slug: prov-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,7 +50,7 @@ _Not yet developed._
 - [[Mosiah 4]] — 1 footnote cross-reference (from [[Proverbs 22#^prov-22-2|Proverbs 22:2]])
 - [[2 Nephi 1]] — 1 footnote cross-reference (from [[Proverbs 22#^prov-22-4|Proverbs 22:4]])
 - [[Mosiah 2]] — 1 footnote cross-reference (from [[Proverbs 22#^prov-22-4|Proverbs 22:4]])
-- [[Proverbs 27]] — 0 parallel verses
+- [[Proverbs 27]] — 1 parallel verse, e.g. [[Proverbs 22#^prov-22-3|Proverbs 22:3]] ↔ [[Proverbs 27#^prov-27-12|Proverbs 27:12]]
 - [[Deuteronomy 19]] — 0 parallel verses
 - [[Deuteronomy 27]] — 0 parallel verses
 - [[Proverbs 23]] — 0 parallel verses
@@ -64,9 +64,9 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Education and Learning]]
 - [[Work and Self-Reliance]]
 - [[Fasting and Prayer for the Poor]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -95,6 +95,9 @@ Verses 17-21 portray [[Education and Learning]] as attentive hearing, inward ret
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **Chapter 2: The Gospel Defined** (teachings) *(explicit citation)*
 - **Chapter 24: Teaching the Family** (teachings) *(explicit citation)*
+- **Chapter 22: Bringing Up Children in Light and Truth** (teachings) *(explicit citation)*
+- **Chapter 16: The Noble Calling of Parents** (teachings) *(explicit citation)*
+- **Chapter 4: Strengthening and Preserving the Family** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

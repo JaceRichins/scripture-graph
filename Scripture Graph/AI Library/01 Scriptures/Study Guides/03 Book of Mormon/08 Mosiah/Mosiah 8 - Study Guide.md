@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 8
 slug: mosiah-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -50,18 +50,18 @@ Scripture: [[Mosiah 8]] · My notes: [[Mosiah 8 - My Notes]]
 - [[Mosiah 9]] — 2 footnote cross-references (from [[Mosiah 8#^mosiah-8-5|Mosiah 8:5]])
 - [[Mosiah 22]] — 2 footnote cross-references (from [[Mosiah 8#^mosiah-8-5|Mosiah 8:5]])
 - [[Mosiah 2]] — 1 footnote cross-reference (from [[Mosiah 8#^mosiah-8-3|Mosiah 8:3]])
+- [[Mosiah 21]] — 2 parallel verses, e.g. [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]] ↔ [[Mosiah 21#^mosiah-21-26|Mosiah 21:26]]
 - [[2 Nephi 5]] — 1 parallel verse, e.g. [[Mosiah 8#^mosiah-8-8|Mosiah 8:8]] ↔ [[2 Nephi 5#^2ne-5-7|2 Nephi 5:7]]
-- [[Mosiah 21]] — 0 parallel verses
 - [[Mosiah 21]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Prophets]]
-- [[Records and Sacred Writings]]
-- [[Education and Learning]]
 - [[Mosiah 28]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -75,6 +75,7 @@ Mosiah 8 gives the Book of Mormon's fullest description of a seer: one "commande
 - [[Has the Day of Miracles Ceased (Elder Donald L. Hallstrom, October 2017)|Has the Day of Miracles Ceased?]] — Elder Donald L. Hallstrom, 2017-October *(explicit citation)*
 - [[Follow the Prophet; He Knows the Way (Elder Michael John U. Teh, April 2026)|Follow the Prophet; He Knows the Way]] — Elder Michael John U. Teh, 2026-April *(explicit citation)*
 - [[General Conference Strengthening Faith and Testimony (Elder Robert D. Hales, October 2013)|General Conference: Strengthening Faith and Testimony]] — Elder Robert D. Hales, 2013-October *(explicit citation)*
+- [[Couple Missionaries Blessings from Sacrifice and Service (Elder Robert D. Hales, April 2005)|Couple Missionaries: Blessings from Sacrifice and Service]] — Elder Robert D. Hales, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

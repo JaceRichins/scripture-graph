@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 18
 slug: 2kgs-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -38,6 +38,7 @@ The chapter first presents Hezekiah as an unusually faithful king, then places t
 - [[Hezekiah]] — 17 mentions
 - [[Moses (prophet)]] — 3 mentions
 - [[David (king)]] — 1 mention
+- [[Sennacherib]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -46,6 +47,7 @@ The chapter first presents Hezekiah as an unusually faithful king, then places t
 - [[Jerusalem]] — 6 mentions
 - [[Samaria]] — 3 mentions
 - [[Egypt]] — 3 mentions
+- [[Lachish]] — 2 mentions
 - [[Gaza]] — 1 mention
 <!-- SG:END places -->
 
@@ -97,6 +99,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 13–19. “He Trusted in the Lord God of Israel”: 2 Kings 16–25** (lesson) *(explicit citation)*
 - **Aram, Arameans** (reference-entry) *(explicit citation)*
 - **Captivities of the Israelites** (reference-entry) *(explicit citation)*
 - **Fullers** (reference-entry) *(explicit citation)*

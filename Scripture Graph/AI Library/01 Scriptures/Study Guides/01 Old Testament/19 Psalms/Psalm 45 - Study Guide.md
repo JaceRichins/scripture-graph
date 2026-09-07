@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 45
 slug: ps-45
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,11 +61,13 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **The Seer 1853-11 (Vol. 1 No. 11)** (history, 1853-11) *(explicit citation)*
 - **Architecture** (reference-entry) *(explicit citation)*
 - **Cassia** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Embroidery** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Seer 1853-10 (Vol. 1 No. 10)** (history, 1853-10) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

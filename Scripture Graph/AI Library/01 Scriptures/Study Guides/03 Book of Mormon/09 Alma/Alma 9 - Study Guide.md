@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 9
 slug: alma-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -98,6 +98,8 @@ Three threads stand out:
 - [[The Lord Is My Light (Elder Quentin L. Cook, April 2015)|The Lord Is My Light]] — Elder Quentin L. Cook, 2015-April *(explicit citation)*
 - [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
+- [[On Zion’s Hill (President Boyd K. Packer, October 2005)|On Zion’s Hill]] — President Boyd K. Packer, 2005-October *(explicit citation)*
+- [[An Outpouring of Blessings (Julie B. Beck, April 2006)|An Outpouring of Blessings]] — Julie B. Beck, 2006-April *(explicit citation)*
 - [[How Does the Holy Ghost Help You (Elder Gary E. Stevenson, April 2017)|How Does the Holy Ghost Help You?]] — Elder Gary E. Stevenson, 2017-April *(explicit citation)*
 - [[The Immediate Goodness of God (Elder Kyle S. McKay, April 2019)|The Immediate Goodness of God]] — Elder Kyle S. McKay, 2019-April *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*

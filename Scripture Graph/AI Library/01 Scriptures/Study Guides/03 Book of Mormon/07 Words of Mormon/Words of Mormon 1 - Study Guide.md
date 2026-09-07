@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Words of Mormon
 chapter: 1
 slug: wofm-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -51,10 +51,11 @@ _Not yet developed._
 - [[Enos 1]] — 4 footnote cross-references (from [[Words of Mormon 1#^wofm-1-7|Words of Mormon 1:7]])
 - [[Mormon 1]] — 3 footnote cross-references (from [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]])
 - [[Jarom 1]] — 3 footnote cross-references (from [[Words of Mormon 1#^wofm-1-3|Words of Mormon 1:3]])
+- [[Mormon 6]] — 2 parallel verses, e.g. [[Words of Mormon 1#^wofm-1-1|Words of Mormon 1:1]] ↔ [[Mormon 6#^morm-6-1|Mormon 6:1]]
 - [[2 Nephi 2]] — 1 parallel verse, e.g. [[Words of Mormon 1#^wofm-1-11|Words of Mormon 1:11]] ↔ [[2 Nephi 2#^2ne-2-26|2 Nephi 2:26]]
 - [[Jacob 1]] — 0 parallel verses
-- [[Mormon 6]] — 0 parallel verses
 - [[Omni 1]] — 0 parallel verses
+- [[1 Nephi 9]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -82,6 +83,7 @@ Verses 13–18 also complicate a simplistic account of [[War and Peace]]. Benjam
 - [[Answers to Prayer (Elder Brook P. Hales, April 2019)|Answers to Prayer]] — Elder Brook P. Hales, 2019-April *(explicit citation)*
 - [[We Each Have a Story (Elder Gerrit W. Gong, April 2022)|We Each Have a Story]] — Elder Gerrit W. Gong, 2022-April *(explicit citation)*
 - [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
+- [[Holy Scriptures The Power of God unto Our Salvation (Elder Robert D. Hales, October 2006)|Holy Scriptures: The Power of God unto Our Salvation]] — Elder Robert D. Hales, 2006-October *(explicit citation)*
 - [[Bear Up Their Burdens with Ease (Elder David A. Bednar, April 2014)|Bear Up Their Burdens with Ease]] — Elder David A. Bednar, 2014-April *(explicit citation)*
 - [[Testimony (Elder Cecil O. Samuelson Jr., April 2011)|Testimony]] — Elder Cecil O. Samuelson Jr., 2011-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -89,6 +91,7 @@ Verses 13–18 also complicate a simplistic account of [[War and Peace]]. Benjam
 ## Church History
 <!-- SG:BEGIN history -->
 - **06 The Gift and Power of God** (history) *(explicit citation)*
+- **February 10–16: “That You May Come Off Conqueror”: Doctrine and Covenants 10–11** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

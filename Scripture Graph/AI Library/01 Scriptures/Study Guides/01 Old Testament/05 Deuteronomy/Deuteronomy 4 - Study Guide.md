@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 4
 slug: deut-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ The text also places [[Family]] at the center of covenant continuity. Memory is 
 - [[Our Father’s Plan—Big Enough for All His Children (Elder Quentin L. Cook, April 2009)|Our Father’s Plan—Big Enough for All His Children]] — Elder Quentin L. Cook, 2009-April *(explicit citation)*
 - [[O Remember, Remember (President Henry B. Eyring, October 2007)|O Remember, Remember]] — President Henry B. Eyring, 2007-October *(explicit citation)*
 - [[“My Words … Never Cease” (Elder Jeffrey R. Holland, April 2008)|“My Words … Never Cease”]] — Elder Jeffrey R. Holland, 2008-April *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -100,6 +101,8 @@ The text also places [[Family]] at the center of covenant continuity. Memory is 
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Fire** (reference-entry) *(explicit citation)*
 - **Fish** (reference-entry) *(explicit citation)*
+- **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
+- **Chapter 7: Faithfulness in Times of Trial: ‘From the Shadows into the Glorious Sunshine’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

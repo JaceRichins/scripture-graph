@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 42
 slug: jer-42
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -87,7 +87,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

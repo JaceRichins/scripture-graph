@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 72
 slug: dc-72
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -78,11 +78,13 @@ The chapter presents stewardship as accountable to God and administered through 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 30–July 6: “No Weapon That Is Formed against You Shall Prosper”: Doctrine and Covenants 71–75** (lesson) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **14 Visions and Nightmares** (history) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
 - **Bishop** (reference-entry) *(explicit citation)*
 - **Stewardship** (reference-entry) *(explicit citation)*
+- **Chapter 15: Faithful, Energetic Service in the Kingdom of God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

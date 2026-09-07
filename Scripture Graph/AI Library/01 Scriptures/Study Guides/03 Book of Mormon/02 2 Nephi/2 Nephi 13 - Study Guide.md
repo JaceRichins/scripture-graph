@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 13
 slug: 2ne-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,7 +72,7 @@ The chapter connects [[Sin]] with consequences affecting institutions, economic 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Light in Their Eyes (President James E. Faust, October 2005)|The Light in Their Eyes]] — President James E. Faust, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

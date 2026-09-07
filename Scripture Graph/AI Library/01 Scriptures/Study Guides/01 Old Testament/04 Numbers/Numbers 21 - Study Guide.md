@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 21
 slug: num-21
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,8 @@ Scripture: [[Numbers 21]] · My notes: [[Numbers 21 - My Notes]]
 - [[Deuteronomy 2]] — 3 parallel verses, e.g. [[Numbers 21#^num-21-35|Numbers 21:35]] ↔ [[Deuteronomy 2#^deut-2-33|Deuteronomy 2:33]]
 - [[Exodus 17]] — 2 parallel verses, e.g. [[Numbers 21#^num-21-3|Numbers 21:3]] ↔ [[Exodus 17#^ex-17-7|Exodus 17:7]]
 - [[Job 1]] — 2 parallel verses, e.g. [[Numbers 21#^num-21-24|Numbers 21:24]] ↔ [[Job 1#^job-1-15|Job 1:15]]
+- [[Numbers 33]] — 1 parallel verse, e.g. [[Numbers 21#^num-21-1|Numbers 21:1]] ↔ [[Numbers 33#^num-33-40|Numbers 33:40]]
 - [[Numbers 22]] — 1 parallel verse, e.g. [[Numbers 21#^num-21-10|Numbers 21:10]] ↔ [[Numbers 22#^num-22-1|Numbers 22:1]]
-- [[Numbers 33]] — 0 parallel verses
 - [[Deuteronomy 2]] — 0 parallel verses
 - [[Deuteronomy 3]] — 0 parallel verses
 - [[John 3]] — 0 parallel verses
@@ -95,12 +95,15 @@ The serpent account depicts a compact movement from [[Sin]] to [[Repentance]], [
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
 - **Edrei** (reference-entry) *(explicit citation)*
 - **Fiery serpents** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
+- **June 16–22: “The Lord Requireth the Heart and a Willing Mind”: Doctrine and Covenants 64–66** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

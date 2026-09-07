@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 11
 slug: 1kgs-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -97,10 +97,12 @@ Solomon's failure can also be read against the king's law of [[Deuteronomy 17]],
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[When the Lord Commands (Elder Bruce A. Carlson, April 2010)|When the Lord Commands]] — Elder Bruce A. Carlson, 2010-April *(explicit citation)*
+- [[Journey to Higher Ground (Elder Joseph B. Wirthlin, October 2005)|Journey to Higher Ground]] — Elder Joseph B. Wirthlin, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **June 22–28. “Hear Thou in Heaven Their Prayer”: 2 Samuel 11–12; 1 Kings 3; 6–9; 11** (lesson) *(explicit citation)*
 - **Ammon, Ammonites** (reference-entry) *(explicit citation)*
 - **Candlestick** (reference-entry) *(explicit citation)*
 - **Damascus** (reference-entry) *(explicit citation)*

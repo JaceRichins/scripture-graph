@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 26
 slug: ex-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Temples** (reference-entry) *(explicit citation)*
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

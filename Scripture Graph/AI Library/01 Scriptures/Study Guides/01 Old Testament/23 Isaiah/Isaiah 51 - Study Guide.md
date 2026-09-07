@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 51
 slug: isa-51
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,10 +91,12 @@ Hope for Zion is grounded in the [[Abrahamic Covenant]]: the God who called Abra
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Dragon** (reference-entry) *(explicit citation)*
 - **Eden, Garden of** (reference-entry) *(explicit citation)*
 - **Chapter 16: Building Zion** (teachings) *(explicit citation)*
+- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

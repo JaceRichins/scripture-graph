@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 4
 slug: rom-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ _Not yet developed._
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Transgression** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
+- **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

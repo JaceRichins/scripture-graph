@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 5
 slug: john-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -98,14 +98,14 @@ Jesus later appears to recall this healing in [[John 7]] (7:21-23), where he aga
 <!-- SG:BEGIN history -->
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 11: ‘I Seek Not Mine Own Will, but the Will of the Father’** (teachings) *(explicit citation)*
 - **Humility** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
-- **‘The Vision’** (history) *(explicit citation)*
-- **Aaronic Priesthood** (reference-entry) *(explicit citation)*
-- **Agency** (reference-entry) *(explicit citation)*
+- **Chapter 5: The Infinite Atonement of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 7: The Scriptures, ‘Great Reservoirs of Spiritual Water’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

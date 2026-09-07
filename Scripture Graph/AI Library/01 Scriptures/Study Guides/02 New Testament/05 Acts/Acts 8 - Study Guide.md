@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 8
 slug: acts-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,7 +88,10 @@ Philip's encounter with the Ethiopian joins [[Scripture Study]] with [[Jesus Chr
 - [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
 - [[Waiting on the Road to Damascus (President Dieter F. Uchtdorf, April 2011)|Waiting on the Road to Damascus]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
 - [[His Servants, the Prophets (Elder F. Michael Watson, April 2009)|His Servants, the Prophets]] — Elder F. Michael Watson, 2009-April *(explicit citation)*
+- [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*
 - [[Conference Report, April 1926 (General Conference (full report), April 1926)|Conference Report, April 1926]] — General Conference (full report), 1926-April *(explicit citation)*
+- [[Pornography (Elder Dallin H. Oaks, April 2005)|Pornography]] — Elder Dallin H. Oaks, 2005-April *(explicit citation)*
+- [[He Heals the Heavy Laden (Elder Dallin H. Oaks, October 2006)|He Heals the Heavy Laden]] — Elder Dallin H. Oaks, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -99,10 +102,10 @@ Philip's encounter with the Ethiopian joins [[Scripture Study]] with [[Jesus Chr
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **Chapter 2: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
-- **Priesthood** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

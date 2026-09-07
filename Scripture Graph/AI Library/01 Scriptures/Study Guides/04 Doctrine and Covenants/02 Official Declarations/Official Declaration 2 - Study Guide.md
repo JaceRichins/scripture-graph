@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Official Declarations
 chapter: 2
 slug: od-2
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -29,6 +29,7 @@ _Not yet developed._
 ## People
 <!-- SG:BEGIN people -->
 - [[Jesus Christ]] — 3 mentions
+- [[Spencer W. Kimball]] — 2 mentions
 - [[Melchizedek]] — 1 mention
 <!-- SG:END people -->
 
@@ -64,12 +65,14 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
+- [[On Zion’s Hill (President Boyd K. Packer, October 2005)|On Zion’s Hill]] — President Boyd K. Packer, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Race and the Priesthood** (reference-entry) *(explicit citation)*
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
+- **December 8–14: “We Believe”: Articles of Faith and Official Declarations 1 and 2** (lesson) *(explicit citation)*
 - **Witnessing the Faithfulness** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

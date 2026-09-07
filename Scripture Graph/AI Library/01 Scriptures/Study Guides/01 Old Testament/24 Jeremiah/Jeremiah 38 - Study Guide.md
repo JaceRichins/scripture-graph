@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 38
 slug: jer-38
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -57,9 +57,9 @@ Scripture: [[Jeremiah 38]] · My notes: [[Jeremiah 38 - My Notes]]
 - [[Jeremiah 42]] — 4 parallel verses, e.g. [[Jeremiah 38#^jer-38-2|Jeremiah 38:2]] ↔ [[Jeremiah 42#^jer-42-17|Jeremiah 42:17]]
 - [[Jeremiah 37]] — 6 parallel verses, e.g. [[Jeremiah 38#^jer-38-13|Jeremiah 38:13]] ↔ [[Jeremiah 37#^jer-37-21|Jeremiah 37:21]]
 - [[Jeremiah 44]] — 2 parallel verses, e.g. [[Jeremiah 38#^jer-38-17|Jeremiah 38:17]] ↔ [[Jeremiah 44#^jer-44-7|Jeremiah 44:7]]
-- [[Jeremiah 20]] — 2 parallel verses, e.g. [[Jeremiah 38#^jer-38-23|Jeremiah 38:23]] ↔ [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]]
 - [[2 Kings 19]] — 2 parallel verses, e.g. [[Jeremiah 38#^jer-38-21|Jeremiah 38:21]] ↔ [[2 Kings 19#^2kgs-19-21|2 Kings 19:21]]
 - [[Isaiah 37]] — 2 parallel verses, e.g. [[Jeremiah 38#^jer-38-3|Jeremiah 38:3]] ↔ [[Isaiah 37#^isa-37-10|Isaiah 37:10]]
+- [[Jeremiah 20]] — 2 parallel verses, e.g. [[Jeremiah 38#^jer-38-23|Jeremiah 38:23]] ↔ [[Jeremiah 20#^jer-20-4|Jeremiah 20:4]]
 - [[Ezekiel 30]] — 2 parallel verses, e.g. [[Jeremiah 38#^jer-38-23|Jeremiah 38:23]] ↔ [[Ezekiel 30#^ezek-30-25|Ezekiel 30:25]]
 - [[Amos 6]] — 2 parallel verses, e.g. [[Jeremiah 38#^jer-38-17|Jeremiah 38:17]] ↔ [[Amos 6#^amos-6-8|Amos 6:8]]
 - [[Jeremiah 27]] — 1 parallel verse, e.g. [[Jeremiah 38#^jer-38-2|Jeremiah 38:2]] ↔ [[Jeremiah 27#^jer-27-13|Jeremiah 27:13]]
@@ -86,7 +86,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **October 26–November 1. “I Will Turn Their Mourning into Joy”: Jeremiah 31–33; 36–39; Lamentations 1; 3** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 28
 slug: acts-28
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ Scripture: [[Acts 28]] · My notes: [[Acts 28 - My Notes]]
 - [[Acts 14]] — 0 parallel verses
 - [[2 Nephi 16]] — 0 parallel verses
 - [[Luke 2]] — 0 parallel verses
+- [[Matthew 13]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -83,6 +84,7 @@ The healing of Publius's father joins [[Prayer]], laying on of hands, and healin
 - [[Highly Favored of the Lord (Elder Gary E. Stevenson, October 2020)|Highly Favored of the Lord]] — Elder Gary E. Stevenson, 2020-October *(explicit citation)*
 - [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
+- [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
 - [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -94,6 +96,7 @@ The healing of Publius's father joins [[Prayer]], laying on of hands, and healin
 - **Centurion** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Dispersion** (reference-entry) *(explicit citation)*
+- **Chapter 2: Baptism and the Gift of the Holy Ghost** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

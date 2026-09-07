@@ -6,7 +6,7 @@ volume: New Testament
 book: Jude
 chapter: 1
 slug: jude-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,9 @@ Jude weaves together warning and reassurance rather than offering only one or th
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[“You Are My Hands” (President Dieter F. Uchtdorf, April 2010)|“You Are My Hands”]] — President Dieter F. Uchtdorf, 2010-April *(explicit citation)*
 - [[And of Some Have Compassion, Making a Difference (Barbara Thompson, October 2010)|And of Some Have Compassion, Making a Difference]] — Barbara Thompson, 2010-October *(explicit citation)*
+- [[Couple Missionaries Blessings from Sacrifice and Service (Elder Robert D. Hales, April 2005)|Couple Missionaries: Blessings from Sacrifice and Service]] — Elder Robert D. Hales, 2005-April *(explicit citation)*
+- [[The Virtue of Kindness (Elder Joseph B. Wirthlin, April 2005)|The Virtue of Kindness]] — Elder Joseph B. Wirthlin, 2005-April *(explicit citation)*
+- [[Instruments of the Lord’s Peace (Elder Robert S. Wood, April 2006)|Instruments of the Lord’s Peace]] — Elder Robert S. Wood, 2006-April *(explicit citation)*
 - [[Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]] — Elder Dallin H. Oaks, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -100,6 +103,7 @@ Jude weaves together warning and reassurance rather than offering only one or th
 - **Enoch** (reference-entry) *(explicit citation)*
 - **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
 - **Chapter 23: ‘How Good and How Pleasant It Is … to Dwell Together in Unity’** (teachings) *(explicit citation)*
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

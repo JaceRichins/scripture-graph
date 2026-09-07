@@ -30,7 +30,7 @@ cssclasses:
 > [[1 Peter 2#^1pet-2-4|1 Pet. 2:5 (4–8)]]
 
 ![[Hebrews 3#^heb-3-7]]
-> [[Hebrews 10#^heb-10-15|Heb. 10:15]] · [[Psalm 95#^ps-95-7|Ps. 95:7 (7–11)]] · [[Hebrews 4#^heb-4-7|≈ Hebrews 4:7]] · [[Psalm 95#^ps-95-7|≈ Psalm 95:7]]
+> [[Hebrews 10#^heb-10-15|Heb. 10:15]] · [[Psalm 95#^ps-95-7|Ps. 95:7 (7–11)]] · [[Psalm 95#^ps-95-7|≈ Psalm 95:7]] · [[Hebrews 4#^heb-4-7|≈ Hebrews 4:7]]
 
 ![[Hebrews 3#^heb-3-8]]
 > [[Numbers 14#^num-14-2|Num. 14:23 (2–23)]] · [[Jacob 1#^jacob-1-7|Jacob 1:7 (7–8)]] · [[Alma 12#^alma-12-36|Alma 12:36]] · [[Psalm 95#^ps-95-8|≈ Psalm 95:8]]
@@ -53,7 +53,7 @@ cssclasses:
 ![[Hebrews 3#^heb-3-14]]
 
 ![[Hebrews 3#^heb-3-15]]
-> [[Hebrews 4#^heb-4-7|≈ Hebrews 4:7]] · [[Psalm 95#^ps-95-7|≈ Psalm 95:7]] · [[Jacob 6#^jacob-6-6|≈ Jacob 6:6]]
+> [[Psalm 95#^ps-95-7|≈ Psalm 95:7]] · [[Hebrews 4#^heb-4-7|≈ Hebrews 4:7]] · [[Jacob 6#^jacob-6-6|≈ Jacob 6:6]]
 
 ![[Hebrews 3#^heb-3-16]]
 

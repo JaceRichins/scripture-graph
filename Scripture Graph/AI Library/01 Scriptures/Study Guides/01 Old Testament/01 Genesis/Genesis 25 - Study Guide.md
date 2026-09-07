@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 25
 slug: gen-25
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,7 +95,9 @@ The chapter also associates [[Prayer]] and [[Revelation]] with different members
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 2–8. “Let God Prevail”: Genesis 24–33** (lesson) *(explicit citation)*
 - **04 Be Watchful** (history) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 - **Genealogy** (reference-entry) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
@@ -103,7 +105,6 @@ The chapter also associates [[Prayer]] and [[Revelation]] with different members
 - **Birthright** (reference-entry) *(explicit citation)*
 - **Edom** (reference-entry) *(explicit citation)*
 - **Esau** (reference-entry) *(explicit citation)*
-- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

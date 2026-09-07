@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 24
 slug: josh-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -108,6 +108,7 @@ These features clearly form a covenant-renewal sequence. Comparisons with ancien
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
@@ -116,6 +117,7 @@ These features clearly form a covenant-renewal sequence. Comparisons with ancien
 - **Edom** (reference-entry) *(explicit citation)*
 - **Eleazar** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 15: Agency and Accountability** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

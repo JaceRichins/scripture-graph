@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 3
 slug: alma-3
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ The repentance clause in Alma 3:14 is essential to the passage's theology. Separ
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 4: Obedience, a Sacred Duty** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

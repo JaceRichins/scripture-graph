@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 22
 slug: mosiah-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[Alma 1]] — 1 footnote cross-reference (from [[Mosiah 22#^mosiah-22-3|Mosiah 22:3]])
 - [[Mosiah 24]] — 2 parallel verses, e.g. [[Mosiah 22#^mosiah-22-13|Mosiah 22:13]] ↔ [[Mosiah 24#^mosiah-24-25|Mosiah 24:25]]
 - [[Mosiah 28]] — 1 parallel verse, e.g. [[Mosiah 22#^mosiah-22-14|Mosiah 22:14]] ↔ [[Mosiah 28#^mosiah-28-11|Mosiah 28:11]]
+- [[Mosiah 24]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics

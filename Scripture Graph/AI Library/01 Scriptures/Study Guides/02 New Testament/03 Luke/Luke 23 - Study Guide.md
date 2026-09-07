@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 23
 slug: luke-23
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,25 +54,27 @@ Scripture: [[Luke 23]] · My notes: [[Luke 23 - My Notes]]
 - [[Alma 5]] — 1 footnote cross-reference (from [[Luke 23#^luke-23-2|Luke 23:2]])
 - [[Mosiah 14]] — 1 footnote cross-reference (from [[Luke 23#^luke-23-9|Luke 23:9]])
 - [[Matthew 27]] — 1 footnote cross-reference (from [[Luke 23#^luke-23-17|Luke 23:17]])
+- [[Matthew 27]] — 3 parallel verses, e.g. [[Luke 23#^luke-23-3|Luke 23:3]] ↔ [[Matthew 27#^matt-27-11|Matthew 27:11]]
+- [[Mark 15]] — 2 parallel verses, e.g. [[Luke 23#^luke-23-45|Luke 23:45]] ↔ [[Mark 15#^mark-15-38|Mark 15:38]]
 - [[2 Chronicles 3]] — 1 parallel verse, e.g. [[Luke 23#^luke-23-33|Luke 23:33]] ↔ [[2 Chronicles 3#^2chr-3-17|2 Chronicles 3:17]]
 - [[Matthew 26]] — 1 parallel verse, e.g. [[Luke 23#^luke-23-43|Luke 23:43]] ↔ [[Matthew 26#^matt-26-34|Matthew 26:34]]
-- [[Mark 15]] — 0 parallel verses
-- [[Matthew 27]] — 0 parallel verses
 - [[John 19]] — 0 parallel verses
 - [[Psalm 22]] — 0 parallel verses
 - [[Luke 19]] — 0 parallel verses
 - [[Luke 21]] — 0 parallel verses
 - [[Acts 7]] — 0 parallel verses
 - [[John 19]] — 0 parallel verses
+- [[Matthew 27]] — 0 parallel verses
+- [[Revelation 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Death and the Spirit World]]
 - [[Crucifixion of Jesus Christ]]
-- [[Government and Laws]]
 - [[Repentance and Forgiveness]]
 - [[Kingdom of God]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -103,14 +105,14 @@ The supplied canonical text also records Jesus praying for his executioners' for
 <!-- SG:BEGIN history -->
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Paradise** (reference-entry) *(explicit citation)*
+- **Chapter 29: Bear No Malice toward Anyone** (teachings) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Paradise** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
+- **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Sacrifice** (reference-entry) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
-- **Arimathea** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

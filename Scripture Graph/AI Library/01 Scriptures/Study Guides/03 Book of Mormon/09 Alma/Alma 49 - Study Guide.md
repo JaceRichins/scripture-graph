@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 49
 slug: alma-49
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ The theological claim is not that preparation makes divine help unnecessary. Alm
 - [[Prepared in a Manner That Never Had Been Known (Linda K. Burton, October 2014)|Prepared in a Manner That Never Had Been Known]] — Linda K. Burton, 2014-October *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 - [[Truly Good and without Guile (Elder Michael T. Ringwood, April 2015)|Truly Good and without Guile]] — Elder Michael T. Ringwood, 2015-April *(explicit citation)*
+- [[“I Will Remember Your Sins No More” (President Boyd K. Packer, April 2006)|“I Will Remember Your Sins No More”]] — President Boyd K. Packer, 2006-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

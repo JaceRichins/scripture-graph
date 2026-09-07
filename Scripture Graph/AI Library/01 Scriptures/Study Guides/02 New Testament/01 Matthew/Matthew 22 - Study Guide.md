@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 22
 slug: matt-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,7 +52,10 @@ _Not yet developed._
 - [[Revelation 21]] — 1 footnote cross-reference (from [[Matthew 22#^matt-22-2|Matthew 22:2]])
 - [[D&C 65]] — 1 footnote cross-reference (from [[Matthew 22#^matt-22-2|Matthew 22:2]])
 - [[Matthew 13]] — 1 footnote cross-reference (from [[Matthew 22#^matt-22-10|Matthew 22:10]])
+- [[Mark 12]] — 11 parallel verses, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Mark 12#^mark-12-30|Mark 12:30]]
+- [[Luke 20]] — 9 parallel verses, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Luke 20#^luke-20-37|Luke 20:37]]
 - [[Matthew 13]] — 5 parallel verses, e.g. [[Matthew 22#^matt-22-2|Matthew 22:2]] ↔ [[Matthew 13#^matt-13-45|Matthew 13:45]]
+- [[Luke 10]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Luke 10#^luke-10-27|Luke 10:27]]
 - [[Exodus 3]] — 2 parallel verses, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Exodus 3#^ex-3-6|Exodus 3:6]]
 - [[Acts 7]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Acts 7#^acts-7-32|Acts 7:32]]
 - [[Deuteronomy 6]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Deuteronomy 6#^deut-6-5|Deuteronomy 6:5]]
@@ -61,20 +64,17 @@ _Not yet developed._
 - [[Alma 36]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[Alma 36#^alma-36-2|Alma 36:2]]
 - [[3 Nephi 4]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-32|Matthew 22:32]] ↔ [[3 Nephi 4#^3ne-4-30|3 Nephi 4:30]]
 - [[Deuteronomy 10]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Deuteronomy 10#^deut-10-12|Deuteronomy 10:12]]
-- [[Deuteronomy 30]] — 2 parallel verses, e.g. [[Matthew 22#^matt-22-37|Matthew 22:37]] ↔ [[Deuteronomy 30#^deut-30-6|Deuteronomy 30:6]]
-- [[Acts 2]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-44|Matthew 22:44]] ↔ [[Acts 2#^acts-2-34|Acts 2:34]]
-- [[Matthew 8]] — 1 parallel verse, e.g. [[Matthew 22#^matt-22-13|Matthew 22:13]] ↔ [[Matthew 8#^matt-8-12|Matthew 8:12]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Government and Laws]]
 - [[Parables of Jesus]]
 - [[Kingdom of God]]
 - [[Scripture Study]]
 - [[Law of Moses]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Marriage]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Resurrection]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -109,12 +109,12 @@ Love of God and love of neighbor are presented as the two commandments on which 
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **The Center Place** (history) *(explicit citation)*
 - **Of Governments and Laws** (history) *(explicit citation)*
+- **Chapter 20: Love and Concern for All Our Father’s Children** (teachings) *(explicit citation)*
 - **Mercy Thompson and the Revelation on Marriage** (history) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Angels** (reference-entry) *(explicit citation)*
 - **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
-- **Within the Walls of Liberty Jail** (history) *(explicit citation)*
-- **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

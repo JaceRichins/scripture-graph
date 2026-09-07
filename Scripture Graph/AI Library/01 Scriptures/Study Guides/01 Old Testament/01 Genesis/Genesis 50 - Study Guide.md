@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 50
 slug: gen-50
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -75,15 +75,18 @@ Joseph's final command is rooted in the [[Abrahamic Covenant]]. His confidence t
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[God Will Do Something Unimaginable (Elder Dieter F. Uchtdorf, October 2020)|God Will Do Something Unimaginable]] — Elder Dieter F. Uchtdorf, 2020-October *(explicit citation)*
+- [[Appreciating the Counsel of Those Who Are Bowed in Years (Elder Stephen B. Oveson, April 2005)|Appreciating the Counsel of Those Who Are Bowed in Years]] — Elder Stephen B. Oveson, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
 - **Chapter 47: ‘Praise to the Man’: Latter-day Prophets Bear Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 - **Embalming** (reference-entry) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
 - **Ephraim, stick of** (reference-entry) *(explicit citation)*
+- **Chapter 7: Joseph and Hyrum Smith, Witnesses for Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

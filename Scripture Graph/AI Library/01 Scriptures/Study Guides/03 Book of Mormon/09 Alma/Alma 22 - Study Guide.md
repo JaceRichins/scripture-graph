@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 22
 slug: alma-22
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,11 +92,11 @@ Aaron's teaching makes the fall intelligible only in relation to the already-pre
 - [[Overcome the World and Find Rest (President Russell M. Nelson, October 2022)|Overcome the World and Find Rest]] — President Russell M. Nelson, 2022-October *(explicit citation)*
 - [[“There Can Be Nothing So Exquisite and Sweet as Was My Joy” (Elder Craig C. Christensen, April 2023)|“There Can Be Nothing So Exquisite and Sweet as Was My Joy”]] — Elder Craig C. Christensen, 2023-April *(explicit citation)*
 - [[“I Will Give Away All My Sins to Know Thee” (Elder Wan-Liang Wu, April 2026)|“I Will Give Away All My Sins to Know Thee”]] — Elder Wan-Liang Wu, 2026-April *(explicit citation)*
+- [[Look toward Eternity! (Elaine S. Dalton, October 2006)|Look toward Eternity!]] — Elaine S. Dalton, 2006-October *(explicit citation)*
 - [[An Easiness and Willingness to Believe (Elder Michael T. Ringwood, October 2009)|An Easiness and Willingness to Believe]] — Elder Michael T. Ringwood, 2009-October *(explicit citation)*
 - [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
 - [[The Living Bread Which Came Down from Heaven (Elder D. Todd Christofferson, October 2017)|The Living Bread Which Came Down from Heaven]] — Elder D. Todd Christofferson, 2017-October *(explicit citation)*
 - [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
-- [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

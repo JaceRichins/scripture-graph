@@ -1,0 +1,96 @@
+---
+ownership: system
+mutable: ai
+content_type: reference
+collection: teachings-wilford-woodruff
+url: https://www.churchofjesuschrist.org/study/manual/teachings-wilford-woodruff/chapter-7?lang=eng
+doc_id: glib:/manual/teachings-wilford-woodruff/chapter-7
+---
+
+# Chapter 7: The Atonement of Jesus Christ
+
+*Teachings Wilford Woodruff* · [source](https://www.churchofjesuschrist.org/study/manual/teachings-wilford-woodruff/chapter-7?lang=eng)
+
+“Chapter 7: The Atonement of Jesus Christ,” Teachings of Presidents of the Church: Wilford Woodruff (2011), 66–76
+
+The Atonement of Jesus Christ is the fundamental principle of salvation and the mainspring of hope for all mankind.
+
+When Elder Wilford Woodruff began his ministry as an Apostle, he and his brethren labored in the United States and England among people who revered Jesus Christ as the Son of God and the Redeemer of mankind. Knowing that their hearers already had a fundamental belief in the Atonement of Jesus Christ, they focused their teaching on subjects such as the calling of the Prophet Joseph Smith, the coming forth of the Book of Mormon, and the restoration of the priesthood. However, when people challenged the doctrine of the Atonement, Elder Woodruff refuted their claims with power and clarity. He testified that “the object of Christ’s mission to the earth was to offer himself as a sacrifice to redeem mankind from eternal death.”
+
+In 1845 a Church member in the British Isles published a pamphlet attempting to prove that it was not necessary for Jesus Christ to suffer and die for the redemption of mankind. Elder Woodruff, who was then serving as the presiding Church authority in the British Isles, publicly refuted this claim in an article titled “Rationality of the Atonement.” In publishing the article, he hoped to ensure “that [the Church’s] views on the subject may be rightly understood by all, and that the Saints of God may be prepared to withstand the assaults of the grand enemy of man’s salvation, as well as to set the matter for ever at rest in the minds of those who believe in the revelations of God.” His words, both in condemnation of the false teaching and in praise of the Savior, revealed his abiding love for the Lord and his deep gratitude for the plan of redemption.
+
+He expressed sorrow that the man who had written the pamphlet “should have his mind so much overcome by the powers of darkness, as to stray so widely from the order and counsel of the kingdom of God.” He observed, “It would be far better for a man to be entirely divested of talents, than to use them in endeavouring to prove the inefficacy of the atonement of Christ, and striking at the fundamental principle of salvation as he has done.”
+
+Elder Woodruff dedicated most of his article to quotations from the scriptures, showing a “flood of testimony” from ancient prophets and from the Lord Himself. He said that the doctrine of the Atonement was “not only a theme on which the ancient prophets and servants of God delighted to dwell, but the main spring of all their hopes, and the source from which they drew strength and support.”
+
+In accordance with His Father’s will, Jesus Christ came to earth to redeem us from the effects of the Fall.
+
+I believe that the Almighty knew what He was going to do with this world before He made it. He knew what kind of spirits were going to occupy it, and what kind of work would have to be performed in order to save His sons and daughters who should come upon the earth. And in reading the history of the dealings of God with men, from the creation of the world to this dispensation, we see the Father has labored to bless His sons and daughters. He gave His only begotten Son to die to redeem the world—a sacrifice such as only God himself could give. And in these last days He has commenced the organization of the great and last dispensation—the greatest of all dispensations.
+
+We are informed by the Saviour himself, what object his Father had in view in his coming into the world. “For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life: for God sent not his Son into the world to condemn the world; but that the world through him might be saved.” [John 3:16–17.]
+
+The revelations that God has given to man, abundantly prove that God and the eternal worlds are governed by a celestial law; and in order that man might endure the same glory with himself, it was requisite that he should keep the same law, “that which is governed by law is also preserved by law, and perfected and sanctified by the same.” [D&C 88:34.] But man, having transgressed the law of God, justly entailed upon himself the curse of disobedience, from which he was incapable of redeeming himself, neither could any less than an infinite sacrifice atone for his fall.
+
+The effect of his disobedience, it is well known, was death, and this curse has been hereditary to all the posterity of Adam. Let it be borne in mind that man, while submitting to this punishment, does so without any inherent power, independently, in himself to accomplish his resurrection and restoration to the presence of God and his glory. He is now under the jurisdiction and within the dominion of death, and to achieve a victory over death it was necessary that some one more holy and pure than the being who had become the transgressor should enter into his dominion, in order that he might thereby have that dominion destroyed; and unless this be done, the control which death will hold over mankind must be eternal. It will require little argument to prove that the Son of God was, in every way, competent to perform this task, being pure, holy, and unspotted; and that he was the individual appointed to accomplish this, is fully substantiated by the testimony of John concerning him—“Behold, the Lamb of God that taketh away the sin of the world” [see John 1:29]—that “As in Adam all die, even so in Christ shall all be made alive.” [1 Corinthians 15:22.] …
+
+… It [has] been fully established beyond all controversy, from the flood of testimony … from the revelations of God, given in various dispensations and ages of the world, and in different parts of the globe, that the object of Christ’s mission to the earth was to offer himself as a sacrifice to redeem mankind from eternal death, and that it was perfectly in accordance with the will of the Father that such a sacrifice should be made. He acted strictly in obedience to his Father’s will in all things from the beginning, and drank of the bitter cup given him. Herein is brought to light, glory, honour, immortality, and eternal life, with that charity which is greater than faith or hope, for the Lamb of God has thereby performed that for man which [man] could not accomplish for himself.
+
+“The object of Christ’s mission to the earth was to offer himself as a sacrifice to redeem mankind from eternal death.”
+
+We can receive the gift of exaltation only through the Atonement of Jesus Christ and our obedience to the laws and ordinances of the gospel.
+
+We should, as a people, be awake to the fact that our Father in Heaven has done all he could for the salvation of the human family. He has made known the laws necessary for the exaltation and glory of man and has done all that can be done by law. … Jesus has died to redeem all men; but in order that they may be benefitted by His death, and that His blood may cleanse them from all actual sin committed in the flesh, they must abide the law of the gospel. The sins done through Adam we have been redeemed from by the blood of Christ; and in order to obtain salvation we must be obedient and faithful to the precepts of the gospel.
+
+If I ever obtain a full salvation it will be by my keeping the laws of God.
+
+Justice in the first place has had its claim, and the words of God have been verified—“In the day thou eatest thereof thou shalt surely die.” [See Genesis 2:17.] So, on the other hand, mercy has been extended, and the love of God manifested in breaking the bands of death, whereby the spirits and bodies of men are re-united. The spirits of the just receive an exaltation in the presence of God and the Lamb—in the same tabernacles [physical bodies] in which they toiled, laboured, and suffered while on earth, without which union it is impossible for the souls of men to receive a fulness of glory. There is a glory connected with this, that will be an eternal source of joy to every citizen of the celestial kingdom. The spirits, on the other hand, of those who reject the Gospel of Christ and slight his proffered mercies, must return to their bodies in the last resurrection to receive a fulness of their punishment in the same tabernacles in which they dwelt while warring against God. We would hereby warn all men who may hear the sound of these words, to repent of their sins and obey the Gospel of the Son of God.
+
+What is the gospel as taught by Jesus himself? The very first principle was faith in the Messiah; this was the first principle ever taught to man. When Adam, after being driven from the garden of Eden, went to Adam-ondi-Ahman to offer sacrifice, the angel of the Lord asked him why he did so. Adam replied that he did not know, but the Lord had commanded him to do it. He was then told that the blood of bulls and goats, of rams and lambs should be spilt upon the altar as a type of the great and last sacrifice which should be offered up for the sins of the world. [See Moses 5:4–7.] The first principle, then, ever taught to Father Adam was faith in the Messiah, who was to come in the meridian of time to lay down his life for the redemption of man. The second principle was repentance. And what is repentance? The forsaking of sin. The man who repents, if he be a swearer, swears no more; or a thief, steals no more; he turns away from all former sins and commits them no more. It is not repentance to say, I repent today, and then steal tomorrow; that is the repentance of the world, which is displeasing in the sight of God. Repentance is the second principle.
+
+I have heard many men say no ordinances are necessary, that belief only in the Lord Jesus Christ is necessary to be saved. I have not learned that myself from any revelation of God to man, either ancient or modern. But on the contrary, faith in Christ, repentance, and baptism for the remission of sins were taught by patriarchs and prophets and by Jesus Christ and His apostles. Baptism for the remission of sins is an ordinance of the gospel. Says one, baptism is not essential to salvation. Jesus not only taught it, but rendered obedience himself to that requirement, not that he was baptized for the remission of sins—but, as he said, “to fulfil all righteousness,” thus in this, as in all other respects giving the example for all who follow [see Matthew 3:15]. When these principles of the gospel are complied with, a man is then a fit subject to receive the Holy Ghost; and this holy gift is bestowed today as it was anciently, by the laying on of hands by men possessing the authority to administer in the ordinances of the gospel. These are the first principles of the gospel which we Latter-day Saints believe in and teach to our fellow men.
+
+When men are called upon to repent of their sins, the call has reference to their own individual sins, not to Adam’s transgressions. What is called the original sin was atoned for through the death of Christ irrespective of any action on the part of man; also man’s individual sin was atoned for by the same sacrifice, but on condition of his obedience to the gospel plan of salvation when proclaimed in his hearing.
+
+All the children of men who [have arrived] at the years of accountability are guilty of sin, all being inclined to do evil as the sparks are to fly upwards. “What shall we do to be saved” was the cry of the people who heard the preaching of Peter on the day of Pentecost [see Acts 2:37], and the same may be said to be applicable to all men in every generation. The answer would be, obey the law of the Gospel. This is the safe means given for the salvation of the human family.
+
+I feel as though we as a people ought to rejoice; and we should prize these gifts and blessings God has put into our hands, and we should seek to magnify our callings, and as a people fulfill the expectation of our Father in Heaven, and the expectation of those who have gone before us. …
+
+… The Gospel of Christ is one of the greatest blessings that can be bestowed upon man. Eternal life, the Lord says, is the greatest gift of God [see D&C 14:7]. We can obtain that, only through obedience to this Gospel. This, brethren and sisters, is our blessing.
+
+My earnest prayer is that the blessings of our God may be over us in time, that when we get through and shall pass behind the veil, we shall have done all that was required of us, and be prepared to dwell with the sanctified and the just made perfect through the blood of the Lamb.
+
+Through the merits of the Atonement, we can be perfected in Christ.
+
+There is no being that has power to save the souls of men and give them eternal life, except the Lord Jesus Christ, under the command of His Father.
+
+“There is no being that has power to save the souls of men and give them eternal life, except the Lord Jesus Christ, under the command of His Father.”
+
+It should be our chief study to treasure up the words of life that we may grow in grace and advance in the knowledge of God and become perfected in Christ Jesus, that we may receive a fullness and become heirs of God and joint heirs of Jesus Christ. [See Romans 8:16–17.]
+
+Brethren and sisters, are we not the sons and daughters of God, and when he shall appear, if we are faithful, shall we not be like him? [See 1 John 3:2.] Yes; and when the glorious day arrives we shall once more have the privilege of standing upon this earth and meeting in joy and thanksgiving … thousands of others who have washed their robes white in the blood of the Lamb, and who, through the merits of His atonement, are anointed kings and priests unto God, and with Him reign exalted in His kingdom. May we all be found worthy of this reward; and now, while we travel through this world of change and sorrow, may we take pattern by the lives of the worthy … and, above all, follow in the steps of the great Exemplar of all righteousness, our Lord Jesus Christ, whose grace be ever with you all.
+
+Consider these ideas as you study the chapter or as you prepare to teach. For additional help, see pages v–ix.
+
+What does the story on pages 67–68 reveal about President Woodruff’s feelings toward Jesus Christ?
+
+Review the teachings on pages 68–70. What did President Woodruff teach about our need for the Savior’s Atonement?
+
+Scan the chapter and study some of the scriptures listed at the bottom of this page. As you do so, look for phrases describing what Jesus Christ endured to save us all from physical death and to offer us salvation from our sins. How do you feel as you ponder what the Savior has done for you?
+
+What might you say to someone who claims that “no ordinances are necessary, that belief only in the Lord Jesus Christ is necessary to be saved”? (See pages 70–74.)
+
+Read the final section of this chapter (page 74), giving special attention to the phrase “the merits of His atonement.” Then study 2 Nephi 2:6–8 and Alma 22:14. How do these teachings enhance your understanding of the Atonement?
+
+How has your testimony of the Savior’s Atonement influenced your life?
+
+Related Scriptures: In the article mentioned on pages 67–68, Elder Woodruff quoted or referred to the following scripture passages about the Atonement of Jesus Christ: Job 19:25; Matthew 26:28; 27:52; John 1:29; 3:16–17; Acts 2:23; 4:12; 20:28; Romans 3:24–25; 1 Corinthians 15:22; Galatians 3:17–24; Ephesians 1:7; Colossians 1:19–20; Hebrews 9:28; 10:7–10, 29; 11:26, 35; 1 Peter 1:18–21; 1 John 2:2; Revelation 1:5; 5:9–10; 13:8; 1 Nephi 10:5–6; 1 Nephi 11:32–33; 2 Nephi 2:26; 2 Nephi 9:3–14; 2 Nephi 26:23–24; Jacob 6:8–9; Mosiah 3:11, 16–18; 15:19–20; 18:2; Alma 7:12; 11:42; 21:9; 34:8–15; 42:13–17; 3 Nephi 11:9–11; 3 Nephi 27:14; Mormon 9:13; Ether 3:14; Moroni 10:33; D&C 18:10–11; 19:16–19; 35:2; 38:4; 45:3–4; 88:34
+
+See Dallin H. Oaks, in Conference Report, October 1990, 38; or Ensign, November 1990, 31.
+
+“Rationality of the Atonement,” Millennial Star, October 1, 1845, 118.
+
+The Discourses of Wilford Woodruff, sel. G. Homer Durham (1946), 23.
+
+Notes {"note1": {"id": "note1", "marker": "1.", "pid": "128312089", "context": "", "text": " See Dallin H. Oaks, in Conference Report, October 1990, 38; or Ensign, November 1990, 31. ", "referenceUris": [{"type": "cross-ref", "href": "/study/ensign/1990/11/witnesses-of-christ?lang=eng", "text": "31"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "128312089", "context": "", "text": " “Rationality of the Atonement,” Millennial Star, October 1, 1845, 118. "}, "note3": {"id": "note3", "marker": "3.", "pid": "128312090", "context": "", "text": " Millennial Star, October 1, 1845, 113. "}, "note4": {"id": "note4", "marker": "4.", "pid": "128312091", "context": "", "text": " Millennial Star, October 1, 1845, 113. "}, "note5": {"id": "note5", "marker": "5.", "pid": "128312092", "context": "", "text": " Millennial Star, October 1, 1845, 118. "}, "note6": {"id": "note6", "marker": "6.", "pid": "128312092", "context": "", "text": " Millennial Star, October 1, 1845, 113–14. "}, "note7": {"id": "note7", "marker": "7.", "pid": "128312095", "context": "", "text": " Deseret Weekly, August 17, 1889, 225. "}, "note8": {"id": "note8", "marker": "8.", "pid": "128312099", "context": "", "text": " Millennial Star, October 1, 1845, 114–15, 118. "}, "note9": {"id": "note9", "marker": "9.", "pid": "128312102", "context": "", "text": " Deseret News: Semi-Weekly, August 11, 1868, 2. "}, "note10": {"id": "note10", "marker": "10.", "pid": "128312103", "context": "", "text": " The Discourses of Wilford Woodruff, sel. G. Homer Durham (1946), 23. "}, "note11": {"id": "note11", "marker": "11.", "pid": "128312104", "context": "", "text": " Millennial Star, October 1, 1845, 118–19.
+
+"}, "note12": {"id": "note12", "marker": "12.", "pid": "128312106", "context": "", "text": " The Discourses of Wilford Woodruff, 18–19. "}, "note13": {"id": "note13", "marker": "13.", "pid": "128312107", "context": "", "text": " The Discourses of Wilford Woodruff, 3–4. "}, "note14": {"id": "note14", "marker": "14.", "pid": "128312108", "context": "", "text": " Deseret News: Semi-Weekly, June 13, 1882, 1. "}, "note15": {"id": "note15", "marker": "15.", "pid": "128312110", "context": "", "text": " Deseret News: Semi-Weekly, August 11, 1868, 2. "}, "note16": {"id": "note16", "marker": "16.", "pid": "128312111", "context": "", "text": " Deseret News: Semi-Weekly, July 26, 1881, 1. "}, "note17": {"id": "note17", "marker": "17.", "pid": "128312113", "context": "", "text": " Deseret Semi-Weekly News, February 15, 1898, 7. "}, "note18": {"id": "note18", "marker": "18.", "pid": "128312115", "context": "", "text": " Deseret News, April 1, 1857, 27. "}, "note19": {"id": "note19", "marker": "19.", "pid": "128312116", "context": "", "text": " Millennial Star, July 9, 1888, 436–37. "}}

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 13
 slug: rom-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -48,6 +48,7 @@ _Not yet developed._
 - [[D&C 134]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-7|Romans 13:7]])
 - [[Moroni 7]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-10|Romans 13:10]])
 - [[Matthew 22]] — 1 footnote cross-reference (from [[Romans 13#^rom-13-10|Romans 13:10]])
+- [[Matthew 19]] — 2 parallel verses, e.g. [[Romans 13#^rom-13-9|Romans 13:9]] ↔ [[Matthew 19#^matt-19-18|Matthew 19:18]]
 - [[1 Thessalonians 5]] — 0 parallel verses
 - [[Matthew 22]] — 0 parallel verses
 - [[1 Peter 2]] — 0 parallel verses
@@ -83,8 +84,8 @@ Romans 13:14 makes conformity to [[Jesus Christ (Gospel Topic)]] the chapter's c
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Wide Awake to Our Duties (Carole M. Stephens, October 2012)|Wide Awake to Our Duties]] — Carole M. Stephens, 2012-October *(explicit citation)*
+- [[Be Prepared … Be Ye Strong from Henceforth (Bishop Keith B. McMullin, October 2005)|Be Prepared … Be Ye Strong from Henceforth]] — Bishop Keith B. McMullin, 2005-October *(explicit citation)*
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
-- [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

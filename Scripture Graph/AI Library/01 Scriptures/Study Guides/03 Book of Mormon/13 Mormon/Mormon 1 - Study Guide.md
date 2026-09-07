@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 1
 slug: morm-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -56,19 +56,19 @@ The chapter has four main movements:
 - [[Mormon 4]] — 2 footnote cross-references (from [[Mormon 1#^morm-1-3|Mormon 1:3]])
 - [[D&C 3]] — 3 parallel verses, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[D&C 3#^dc-3-17|D&C 3:17]]
 - [[Alma 47]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[Alma 47#^alma-47-35|Alma 47:35]]
+- [[Mormon 2]] — 1 parallel verse, e.g. [[Mormon 1#^morm-1-8|Mormon 1:8]] ↔ [[Mormon 2#^morm-2-1|Mormon 2:1]]
 - [[3 Nephi 8]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[3 Nephi 8#^3ne-8-20|3 Nephi 8:20]]
 - [[Ether 14]] — 2 parallel verses, e.g. [[Mormon 1#^morm-1-19|Mormon 1:19]] ↔ [[Ether 14#^ether-14-23|Ether 14:23]]
 - [[3 Nephi 5]] — 1 parallel verse, e.g. [[Mormon 1#^morm-1-1|Mormon 1:1]] ↔ [[3 Nephi 5#^3ne-5-17|3 Nephi 5:17]]
-- [[Mormon 2]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Records and Sacred Writings]]
-- [[War and Peace]]
 - [[Book of Mormon (Gospel Topic)]]
 - [[Secret Combinations]]
 - [[Prophecy]]
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -96,6 +96,8 @@ The narrator attributes the withdrawal of miracles, healing, spiritual gifts, an
 - **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
+- **May 12–18: “Seek Ye Earnestly the Best Gifts”: Doctrine and Covenants 46–48** (lesson) *(explicit citation)*
+- **Chapter 1: The Restoration of the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

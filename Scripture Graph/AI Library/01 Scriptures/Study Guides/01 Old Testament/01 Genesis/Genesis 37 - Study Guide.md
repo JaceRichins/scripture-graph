@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 37
 slug: gen-37
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -52,6 +52,7 @@ Scripture: [[Genesis 37]] · My notes: [[Genesis 37 - My Notes]]
 - [[Genesis 39]] — 2 footnote cross-references (from [[Genesis 37#^gen-37-28|Genesis 37:28]])
 - [[Genesis 41]] — 1 footnote cross-reference (from [[Genesis 37#^gen-37-2|Genesis 37:2]])
 - [[Genesis 27]] — 0 parallel verses
+- [[Genesis 39]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -80,6 +81,8 @@ The dreams are naturally connected with [[Revelation]] and [[Prophecy]], but the
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **March 9–15. “The Lord Was with Joseph”: Genesis 37–41** (lesson) *(explicit citation)*
+- **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
 - **Balm** (reference-entry) *(explicit citation)*
 - **Commerce** (reference-entry) *(explicit citation)*
 - **Genesis** (reference-entry) *(explicit citation)*

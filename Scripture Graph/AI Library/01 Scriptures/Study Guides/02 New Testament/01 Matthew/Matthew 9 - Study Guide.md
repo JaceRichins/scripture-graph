@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 9
 slug: matt-9
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,23 +53,23 @@ _Not yet developed._
 - [[Luke 7]] — 1 footnote cross-reference (from [[Matthew 9#^matt-9-2|Matthew 9:2]])
 - [[D&C 68]] — 1 footnote cross-reference (from [[Matthew 9#^matt-9-2|Matthew 9:2]])
 - [[D&C 112]] — 1 footnote cross-reference (from [[Matthew 9#^matt-9-2|Matthew 9:2]])
+- [[Mark 2]] — 10 parallel verses, e.g. [[Matthew 9#^matt-9-6|Matthew 9:6]] ↔ [[Mark 2#^mark-2-10|Mark 2:10]]
+- [[Luke 5]] — 9 parallel verses, e.g. [[Matthew 9#^matt-9-15|Matthew 9:15]] ↔ [[Luke 5#^luke-5-35|Luke 5:35]]
+- [[Matthew 4]] — 1 parallel verse, e.g. [[Matthew 9#^matt-9-35|Matthew 9:35]] ↔ [[Matthew 4#^matt-4-23|Matthew 4:23]]
+- [[Luke 8]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-22|Matthew 9:22]] ↔ [[Luke 8#^luke-8-48|Luke 8:48]]
 - [[Mark 10]] — 3 parallel verses, e.g. [[Matthew 9#^matt-9-22|Matthew 9:22]] ↔ [[Mark 10#^mark-10-52|Mark 10:52]]
+- [[Matthew 12]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-11|Matthew 9:11]] ↔ [[Matthew 12#^matt-12-2|Matthew 12:2]]
+- [[Luke 10]] — 1 parallel verse, e.g. [[Matthew 9#^matt-9-38|Matthew 9:38]] ↔ [[Luke 10#^luke-10-2|Luke 10:2]]
 - [[Luke 18]] — 2 parallel verses, e.g. [[Matthew 9#^matt-9-27|Matthew 9:27]] ↔ [[Luke 18#^luke-18-38|Luke 18:38]]
 - [[Mark 2]] — 0 parallel verses
 - [[Luke 5]] — 0 parallel verses
 - [[Mark 5]] — 0 parallel verses
 - [[Luke 8]] — 0 parallel verses
-- [[Mark 2]] — 0 parallel verses
-- [[Luke 5]] — 0 parallel verses
-- [[Matthew 4]] — 0 parallel verses
-- [[Matthew 12]] — 0 parallel verses
-- [[Luke 8]] — 0 parallel verses
-- [[Luke 10]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Repentance and Forgiveness]]
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

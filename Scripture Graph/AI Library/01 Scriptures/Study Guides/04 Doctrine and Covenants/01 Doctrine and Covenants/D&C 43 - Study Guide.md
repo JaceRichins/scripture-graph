@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 43
 slug: dc-43
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ Verses 2–7 concern commandments and revelations presented as binding direction
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Blessings of General Conference (Elder Paul V. Johnson, October 2005)|The Blessings of General Conference]] — Elder Paul V. Johnson, 2005-October *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[O How Great the Plan of Our God! (President Dieter F. Uchtdorf, October 2016)|O How Great the Plan of Our God!]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
 - [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
@@ -92,7 +93,6 @@ Verses 2–7 concern commandments and revelations presented as binding direction
 - [[Seek Christ in Every Thought (Elder Ulisses Soares, October 2020)|Seek Christ in Every Thought]] — Elder Ulisses Soares, 2020-October *(explicit citation)*
 - [[With the Power of God in Great Glory (Elder David A. Bednar, October 2021)|With the Power of God in Great Glory]] — Elder David A. Bednar, 2021-October *(explicit citation)*
 - [[Happy and Forever (Elder Gerrit W. Gong, October 2022)|Happy and Forever]] — Elder Gerrit W. Gong, 2022-October *(explicit citation)*
-- [[Christlike Poise (Elder Mark A. Bragg, April 2023)|Christlike Poise]] — Elder Mark A. Bragg, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -100,13 +100,13 @@ Verses 2–7 concern commandments and revelations presented as binding direction
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
 - **‘A House for Our God’** (history) *(explicit citation)*
+- **April 28–May 4: “My Law to Govern My Church”: Doctrine and Covenants 41–44** (lesson) *(explicit citation)*
 - **‘All Things Must Be Done in Order’** (history) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
-- **Revelation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

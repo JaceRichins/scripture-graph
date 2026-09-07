@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 29
 slug: 2ne-29
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -54,6 +54,7 @@ _Not yet developed._
 - [[Abraham 3]] — 1 parallel verse, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[Abraham 3#^abr-3-21|Abraham 3:21]]
 - [[1 Nephi 22]] — 2 parallel verses, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[1 Nephi 22#^1ne-22-4|1 Nephi 22:4]]
 - [[D&C 45]] — 1 parallel verse, e.g. [[2 Nephi 29#^2ne-29-7|2 Nephi 29:7]] ↔ [[D&C 45#^dc-45-40|D&C 45:40]]
+- [[Mormon 7]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,20 +76,25 @@ The chapter is a key textual basis within Latter-day Saint teaching for continui
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[All Men Everywhere (Elder Dallin H. Oaks, April 2006)|All Men Everywhere]] — Elder Dallin H. Oaks, 2006-April *(explicit citation)*
 - [[“Let This House Be Built unto My Name” (Elder David A. Bednar, April 2020)|“Let This House Be Built unto My Name”]] — Elder David A. Bednar, 2020-April *(explicit citation)*
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
 - [[The Savior’s Healing Power upon the Isles of the Sea (Elder J. Kimo Esplin, October 2023)|The Savior’s Healing Power upon the Isles of the Sea]] — Elder J. Kimo Esplin, 2023-October *(explicit citation)*
 - [[A Record of What I Have Both Seen and Heard (Elder Brent H. Nielson, April 2024)|A Record of What I Have Both Seen and Heard]] — Elder Brent H. Nielson, 2024-April *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
 - [[No One Sits Alone (Elder Gerrit W. Gong, October 2025)|No One Sits Alone]] — Elder Gerrit W. Gong, 2025-October *(explicit citation)*
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Bible** (reference-entry) *(explicit citation)*
+- **Chapter 9: Witnesses of the Book of Mormon** (teachings) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
+- **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
+- **May 12–18: “Seek Ye Earnestly the Best Gifts”: Doctrine and Covenants 46–48** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

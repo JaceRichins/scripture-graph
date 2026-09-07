@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 33
 slug: 2ne-33
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -105,6 +105,10 @@ The chapter joins several teachings without collapsing them into one another. Th
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Teaching the Gospel** (reference-entry) *(explicit citation)*
 - **Introduction** (teachings) *(explicit citation)*
+- **January 26–February 1. “Teach These Things Freely unto Your Children”: Genesis 5; Moses 6** (lesson) *(explicit citation)*
+- **Introduction** (teachings) *(explicit citation)*
+- **Chapter 6: Teaching and Learning by the Spirit** (teachings) *(explicit citation)*
+- **Chapter 1: Learning and Teaching the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

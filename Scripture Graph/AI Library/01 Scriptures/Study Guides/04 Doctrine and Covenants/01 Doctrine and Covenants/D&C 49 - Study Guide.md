@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 49
 slug: dc-49
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ The chapter's clearest doctrinal core is a compact statement of the [[Gospel of 
 - [[The Prophet Joseph Smith (Elder Lawrence E. Corbridge, April 2014)|The Prophet Joseph Smith]] — Elder Lawrence E. Corbridge, 2014-April *(explicit citation)*
 - [[Priesthood Power (President Thomas S. Monson, April 2011)|Priesthood Power]] — President Thomas S. Monson, 2011-April *(explicit citation)*
 - [[Restoring Faith in the Family (Elder Kenneth Johnson, April 2008)|Restoring Faith in the Family]] — Elder Kenneth Johnson, 2008-April *(explicit citation)*
+- [[Nurturing Marriage (Elder Russell M. Nelson, April 2006)|Nurturing Marriage]] — Elder Russell M. Nelson, 2006-April *(explicit citation)*
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[The Great Plan (President Dallin H. Oaks, April 2020)|The Great Plan]] — President Dallin H. Oaks, 2020-April *(explicit citation)*
 - [[Come to Zion (Elder D. Todd Christofferson, October 2008)|Come to Zion]] — Elder D. Todd Christofferson, 2008-October *(explicit citation)*
@@ -91,16 +92,16 @@ The chapter's clearest doctrinal core is a compact statement of the [[Gospel of 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 19–25: “That Which Is of God Is Light”: Doctrine and Covenants 49–50** (lesson) *(explicit citation)*
 - **Leman Copley and the Shakers** (history) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 - **12 After Much Tribulation** (history) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 15: Experiencing Happiness in Marriage** (teachings) *(explicit citation)*
 - **The Word of Wisdom** (history) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Sex Education and Behavior** (reference-entry) *(explicit citation)*
-- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

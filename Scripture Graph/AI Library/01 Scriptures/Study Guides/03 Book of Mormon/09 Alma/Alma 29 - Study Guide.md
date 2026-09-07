@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 29
 slug: alma-29
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -99,7 +99,7 @@ Verse 8 portrays revelation and teaching as distributed among nations and tongue
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 9: The Joy of Missionary Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

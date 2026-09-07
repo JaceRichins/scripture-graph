@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 24
 slug: luke-24
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,9 +55,9 @@ Scripture: [[Luke 24]] · My notes: [[Luke 24 - My Notes]]
 - [[John 19]] — 1 footnote cross-reference (from [[Luke 24#^luke-24-18|Luke 24:18]])
 - [[Matthew 14]] — 1 footnote cross-reference (from [[Luke 24#^luke-24-25|Luke 24:25]])
 - [[D&C 129]] — 1 parallel verse, e.g. [[Luke 24#^luke-24-39|Luke 24:39]] ↔ [[D&C 129#^dc-129-2|D&C 129:2]]
+- [[Mark 16]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-1|Luke 24:1]] ↔ [[Mark 16#^mark-16-2|Mark 16:2]]
 - [[Acts 20]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-1|Luke 24:1]] ↔ [[Acts 20#^acts-20-7|Acts 20:7]]
 - [[2 Kings 1]] — 2 parallel verses, e.g. [[Luke 24#^luke-24-17|Luke 24:17]] ↔ [[2 Kings 1#^2kgs-1-7|2 Kings 1:7]]
-- [[Mark 16]] — 0 parallel verses
 - [[Luke 9]] — 0 parallel verses
 - [[Luke 18]] — 0 parallel verses
 - [[Acts 1]] — 0 parallel verses
@@ -70,11 +70,11 @@ Scripture: [[Luke 24]] · My notes: [[Luke 24 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Scripture Study]]
 - [[Prophecy]]
 - [[Law of Moses]]
 - [[Repentance and Forgiveness]]
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Scripture Study]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -109,8 +109,8 @@ Scripture: [[Luke 24]] · My notes: [[Luke 24 - My Notes]]
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
+- **Chapter 1: I Know That My Redeemer Lives** (teachings) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
-- **Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

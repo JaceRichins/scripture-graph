@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 13
 slug: matt-13
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -55,26 +55,26 @@ _Not yet developed._
 - [[Daniel 12]] — 1 footnote cross-reference (from [[Matthew 13#^matt-13-10|Matthew 13:10]])
 - [[Matthew 11]] — 1 footnote cross-reference (from [[Matthew 13#^matt-13-11|Matthew 13:11]])
 - [[Acts 28]] — 2 parallel verses, e.g. [[Matthew 13#^matt-13-15|Matthew 13:15]] ↔ [[Acts 28#^acts-28-27|Acts 28:27]]
+- [[Mark 4]] — 7 parallel verses, e.g. [[Matthew 13#^matt-13-12|Matthew 13:12]] ↔ [[Mark 4#^mark-4-25|Mark 4:25]]
 - [[Matthew 20]] — 5 parallel verses, e.g. [[Matthew 13#^matt-13-52|Matthew 13:52]] ↔ [[Matthew 20#^matt-20-1|Matthew 20:1]]
+- [[Luke 10]] — 1 parallel verse, e.g. [[Matthew 13#^matt-13-17|Matthew 13:17]] ↔ [[Luke 10#^luke-10-24|Luke 10:24]]
+- [[Luke 8]] — 5 parallel verses, e.g. [[Matthew 13#^matt-13-12|Matthew 13:12]] ↔ [[Luke 8#^luke-8-18|Luke 8:18]]
+- [[Luke 13]] — 2 parallel verses, e.g. [[Matthew 13#^matt-13-33|Matthew 13:33]] ↔ [[Luke 13#^luke-13-21|Luke 13:21]]
 - [[Matthew 22]] — 5 parallel verses, e.g. [[Matthew 13#^matt-13-45|Matthew 13:45]] ↔ [[Matthew 22#^matt-22-2|Matthew 22:2]]
 - [[Matthew 2]] — 2 parallel verses, e.g. [[Matthew 13#^matt-13-35|Matthew 13:35]] ↔ [[Matthew 2#^matt-2-23|Matthew 2:23]]
+- [[Mark 6]] — 1 parallel verse, e.g. [[Matthew 13#^matt-13-57|Matthew 13:57]] ↔ [[Mark 6#^mark-6-4|Mark 6:4]]
 - [[Matthew 21]] — 1 parallel verse, e.g. [[Matthew 13#^matt-13-35|Matthew 13:35]] ↔ [[Matthew 21#^matt-21-4|Matthew 21:4]]
 - [[Matthew 27]] — 1 parallel verse, e.g. [[Matthew 13#^matt-13-35|Matthew 13:35]] ↔ [[Matthew 27#^matt-27-35|Matthew 27:35]]
 - [[Isaiah 6]] — 1 parallel verse, e.g. [[Matthew 13#^matt-13-15|Matthew 13:15]] ↔ [[Isaiah 6#^isa-6-10|Isaiah 6:10]]
-- [[2 Nephi 16]] — 1 parallel verse, e.g. [[Matthew 13#^matt-13-15|Matthew 13:15]] ↔ [[2 Nephi 16#^2ne-16-10|2 Nephi 16:10]]
-- [[Moses 6]] — 1 parallel verse, e.g. [[Matthew 13#^matt-13-15|Matthew 13:15]] ↔ [[Moses 6#^moses-6-27|Moses 6:27]]
-- [[Matthew 4]] — 1 parallel verse, e.g. [[Matthew 13#^matt-13-35|Matthew 13:35]] ↔ [[Matthew 4#^matt-4-14|Matthew 4:14]]
-- [[Matthew 8]] — 1 parallel verse, e.g. [[Matthew 13#^matt-13-35|Matthew 13:35]] ↔ [[Matthew 8#^matt-8-17|Matthew 8:17]]
-- [[Matthew 25]] — 1 parallel verse, e.g. [[Matthew 13#^matt-13-12|Matthew 13:12]] ↔ [[Matthew 25#^matt-25-29|Matthew 25:29]]
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Parables of Jesus]]
-- [[Kingdom of God]]
 - [[Final Judgment]]
 - [[Satan and Temptation]]
 - [[Endurance]]
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -109,11 +109,11 @@ The mustard seed and leaven most naturally portray inconspicuous beginnings foll
 - **Angels** (reference-entry) *(explicit citation)*
 - **Brethren of the Lord** (reference-entry) *(explicit citation)*
 - **Devil** (reference-entry) *(explicit citation)*
+- **August 4–10: “Stand Ye in Holy Places”: Doctrine and Covenants 85–87** (lesson) *(explicit citation)*
+- **Chapter 26: Preparing for the Coming of Our Lord** (teachings) *(explicit citation)*
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 - **By and by** (reference-entry) *(explicit citation)*
-- **Christ, names of** (reference-entry) *(explicit citation)*
-- **Family** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

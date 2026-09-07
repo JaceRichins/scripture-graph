@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 5
 slug: rev-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,8 @@ _Not yet developed._
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
 - [[The Father and the Son (Elder Christoffel Golden Jr., April 2013)|The Father and the Son]] — Elder Christoffel Golden Jr., 2013-April *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
+- [[On Zion’s Hill (President Boyd K. Packer, October 2005)|On Zion’s Hill]] — President Boyd K. Packer, 2005-October *(explicit citation)*
+- [[A Pattern for All (Elder Merrill J. Bateman, October 2005)|A Pattern for All]] — Elder Merrill J. Bateman, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -71,6 +73,7 @@ _Not yet developed._
 - **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
 - **37 We Will Prove Them** (history) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 24: The Kingdom of God** (teachings) *(explicit citation)*
 - **Journal of Discourses, Volume 26** (history, ~1879) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*

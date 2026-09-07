@@ -34,7 +34,7 @@ cssclasses:
 ![[Deuteronomy 1#^deut-1-7]]
 
 ![[Deuteronomy 1#^deut-1-8]]
-> [[Nehemiah 9#^neh-9-15|Neh. 9:15]] · [[1 Nephi 17#^1ne-17-35|1 Ne. 17:36 (35–38)]] · [[D&C 69#^dc-69-6|D&amp;C 69:8 (6–8)]] · [[Deuteronomy 4#^deut-4-1|≈ Deuteronomy 4:1]] · [[Deuteronomy 10#^deut-10-11|≈ Deuteronomy 10:11]] · [[Deuteronomy 28#^deut-28-11|≈ Deuteronomy 28:11]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 11#^deut-11-9|≈ Deuteronomy 11:9]] · [[Deuteronomy 11#^deut-11-21|≈ Deuteronomy 11:21]]
+> [[Nehemiah 9#^neh-9-15|Neh. 9:15]] · [[1 Nephi 17#^1ne-17-35|1 Ne. 17:36 (35–38)]] · [[D&C 69#^dc-69-6|D&amp;C 69:8 (6–8)]] · [[Deuteronomy 10#^deut-10-11|≈ Deuteronomy 10:11]] · [[Deuteronomy 28#^deut-28-11|≈ Deuteronomy 28:11]] · [[Deuteronomy 4#^deut-4-1|≈ Deuteronomy 4:1]] · [[Deuteronomy 8#^deut-8-1|≈ Deuteronomy 8:1]] · [[Deuteronomy 11#^deut-11-9|≈ Deuteronomy 11:9]] · [[Deuteronomy 11#^deut-11-21|≈ Deuteronomy 11:21]]
 
 ![[Deuteronomy 1#^deut-1-9]]
 > [[Exodus 18#^ex-18-17|Ex. 18:18 (17–26)]]

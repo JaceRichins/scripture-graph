@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 1
 slug: gen-1
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ Genesis 1 introduces ideas developed at length elsewhere in scripture: humankind
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **January 12–18. “In the Beginning God Created the Heaven and the Earth”: Genesis 1–2; Moses 2–3; Abraham 4–5** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
@@ -101,7 +102,6 @@ Genesis 1 introduces ideas developed at length elsewhere in scripture: humankind
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Religion and Science** (reference-entry) *(explicit citation)*
-- **Same-Sex Marriage** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

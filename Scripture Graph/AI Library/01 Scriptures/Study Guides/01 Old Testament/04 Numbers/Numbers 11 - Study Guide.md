@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 11
 slug: num-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The chapter also complicates simplistic accounts of divine provision. Receiving 
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 - **Suicide** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Eldad and Medad** (reference-entry) *(explicit citation)*

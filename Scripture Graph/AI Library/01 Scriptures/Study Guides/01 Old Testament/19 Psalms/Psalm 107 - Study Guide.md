@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 107
 slug: ps-107
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,6 +53,7 @@ _Not yet developed._
 - [[2 Chronicles 5]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[2 Chronicles 5#^2chr-5-13|2 Chronicles 5:13]]
 - [[2 Chronicles 7]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-1|Psalm 107:1]] ↔ [[2 Chronicles 7#^2chr-7-3|2 Chronicles 7:3]]
 - [[Luke 1]] — 1 parallel verse, e.g. [[Psalm 107#^ps-107-10|Psalm 107:10]] ↔ [[Luke 1#^luke-1-79|Luke 1:79]]
+- [[Psalm 118]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -75,6 +76,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 - **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
+- **July 14–20: “I Will Lead You Along”: Doctrine and Covenants 77–80** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

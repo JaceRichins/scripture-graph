@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 11
 slug: 2cor-11
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ Paul's suffering catalogue (11:23-29) complicates triumphalist ideas about disci
 - **Devil** (reference-entry) *(explicit citation)*
 - **Eve** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **Chapter 13: Stand by the Truth Lest You Be Deceived** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

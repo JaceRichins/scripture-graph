@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 5
 slug: 2ne-5
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ Verse 20 explicitly defines the rebellious brothers' condition as being 'cut off
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[True Happiness A Conscious Decision (Elder Benjamín De Hoyos, October 2005)|True Happiness: A Conscious Decision]] — Elder Benjamín De Hoyos, 2005-October *(explicit citation)*
 - [[The Joy of Living a Christ-Centered Life (Elder Richard J. Maynes, October 2015)|The Joy of Living a Christ-Centered Life]] — Elder Richard J. Maynes, 2015-October *(explicit citation)*
 - [[Earning the Trust of the Lord and Your Family (Elder Richard J. Maynes, October 2017)|Earning the Trust of the Lord and Your Family]] — Elder Richard J. Maynes, 2017-October *(explicit citation)*
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
@@ -100,7 +101,6 @@ Verse 20 explicitly defines the rebellious brothers' condition as being 'cut off
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[Restoring Faith in the Family (Elder Kenneth Johnson, April 2008)|Restoring Faith in the Family]] — Elder Kenneth Johnson, 2008-April *(explicit citation)*
 - [[Let Doing Good Be Our Normal (Elder Rafael E. Pino, October 2022)|Let Doing Good Be Our Normal]] — Elder Rafael E. Pino, 2022-October *(explicit citation)*
-- [[Today Is the Time (Elder Walter F. González, October 2007)|Today Is the Time]] — Elder Walter F. González, 2007-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -110,6 +110,7 @@ Verse 20 explicitly defines the rebellious brothers' condition as being 'cut off
 - **Temples** (reference-entry) *(explicit citation)*
 - **Happiness** (reference-entry) *(explicit citation)*
 - **Chapter 31: Thrift, Industry, and Self-Reliance** (teachings) *(explicit citation)*
+- **Chapter 20: Temporal Salvation for Ourselves and Others** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

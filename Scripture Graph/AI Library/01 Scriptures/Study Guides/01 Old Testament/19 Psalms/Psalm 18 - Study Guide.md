@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 18
 slug: ps-18
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---

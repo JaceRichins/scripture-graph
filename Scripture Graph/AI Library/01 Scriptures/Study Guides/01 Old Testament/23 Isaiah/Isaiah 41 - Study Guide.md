@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 41
 slug: isa-41
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ Scripture: [[Isaiah 41]] · My notes: [[Isaiah 41 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 28–October 4. “Comfort Ye My People”: Isaiah 40–49** (lesson) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

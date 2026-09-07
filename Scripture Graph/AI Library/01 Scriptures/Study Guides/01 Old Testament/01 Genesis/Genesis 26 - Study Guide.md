@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 26
 slug: gen-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -81,7 +81,9 @@ The chapter also complicates an idealized portrait of the patriarchs. Isaac is a
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[You Have a Noble Birthright (Julie B. Beck, April 2006)|You Have a Noble Birthright]] — Julie B. Beck, 2006-April *(explicit citation)*
 - [[The Joy of the Saints (Elder D. Todd Christofferson, October 2019)|The Joy of the Saints]] — Elder D. Todd Christofferson, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -92,6 +94,7 @@ The chapter also complicates an idealized portrait of the patriarchs. Isaac is a
 - **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
 - **Esau** (reference-entry) *(explicit citation)*
+- **March 2–8. “Let God Prevail”: Genesis 24–33** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 86
 slug: ps-86
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ Verses 8-10 combine an assertion of God's unrivaled supremacy ('among the gods t
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 <!-- SG:END history -->

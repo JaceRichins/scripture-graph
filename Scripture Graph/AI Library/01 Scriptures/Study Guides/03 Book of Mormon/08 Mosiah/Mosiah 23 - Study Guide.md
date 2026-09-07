@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 23
 slug: mosiah-23
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -53,15 +53,15 @@ Scripture: [[Mosiah 23]] · My notes: [[Mosiah 23 - My Notes]]
 - [[Mosiah 29]] — 3 footnote cross-references (from [[Mosiah 23#^mosiah-23-8|Mosiah 23:8]])
 - [[Alma 5]] — 2 footnote cross-references (from [[Mosiah 23#^mosiah-23-1|Mosiah 23:1]])
 - [[Mosiah 11]] — 2 footnote cross-references (from [[Mosiah 23#^mosiah-23-9|Mosiah 23:9]])
+- [[Mosiah 29]] — 3 parallel verses, e.g. [[Mosiah 23#^mosiah-23-7|Mosiah 23:7]] ↔ [[Mosiah 29#^mosiah-29-16|Mosiah 29:16]]
 - [[1 Nephi 13]] — 2 parallel verses, e.g. [[Mosiah 23#^mosiah-23-13|Mosiah 23:13]] ↔ [[1 Nephi 13#^1ne-13-19|1 Nephi 13:19]]
 - [[Alma 36]] — 2 parallel verses, e.g. [[Mosiah 23#^mosiah-23-22|Mosiah 23:22]] ↔ [[Alma 36#^alma-36-3|Alma 36:3]]
 - [[D&C 75]] — 2 parallel verses, e.g. [[Mosiah 23#^mosiah-23-22|Mosiah 23:22]] ↔ [[D&C 75#^dc-75-16|D&C 75:16]]
 - [[Mosiah 21]] — 2 parallel verses, e.g. [[Mosiah 23#^mosiah-23-28|Mosiah 23:28]] ↔ [[Mosiah 21#^mosiah-21-15|Mosiah 21:15]]
 - [[Mosiah 7]] — 2 parallel verses, e.g. [[Mosiah 23#^mosiah-23-23|Mosiah 23:23]] ↔ [[Mosiah 7#^mosiah-7-19|Mosiah 7:19]]
+- [[Mosiah 24]] — 1 parallel verse, e.g. [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]] ↔ [[Mosiah 24#^mosiah-24-1|Mosiah 24:1]]
 - [[Moses 5]] — 1 parallel verse, e.g. [[Mosiah 23#^mosiah-23-25|Mosiah 23:25]] ↔ [[Moses 5#^moses-5-32|Moses 5:32]]
 - [[Jacob 1]] — 1 parallel verse, e.g. [[Mosiah 23#^mosiah-23-39|Mosiah 23:39]] ↔ [[Jacob 1#^jacob-1-9|Jacob 1:9]]
-- [[Mosiah 24]] — 0 parallel verses
-- [[Mosiah 29]] — 0 parallel verses
 - [[Mosiah 21]] — 0 parallel verses
 - [[Alma 36]] — 0 parallel verses
 - [[Galatians 5]] — 0 parallel verses
@@ -69,10 +69,10 @@ Scripture: [[Mosiah 23]] · My notes: [[Mosiah 23 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Adversity]]
 - [[Freedom and Liberty]]
-- [[Government and Laws]]
-- [[Exodus and Deliverance]]
+- [[Adversity]]
+- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -103,6 +103,9 @@ Alma also describes freedom in both civic and moral terms. His people had been s
 - **Adversity** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Chapter 31: ‘God Shall Be with You Forever and Ever’: The Prophet in Liberty Jail** (teachings) *(explicit citation)*
+- **August 10–16. “Yet Will I Trust in Him”: Job 1–3; 12–14; 19; 21–24; 38–40; 42** (lesson) *(explicit citation)*
+- **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
+- **Chapter 7: Faithfulness in Times of Trial: ‘From the Shadows into the Glorious Sunshine’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

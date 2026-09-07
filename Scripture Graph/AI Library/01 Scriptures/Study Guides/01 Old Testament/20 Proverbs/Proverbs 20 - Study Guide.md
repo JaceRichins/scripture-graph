@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 20
 slug: prov-20
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ The royal material is also balanced: judgment restrains evil (verses 8, 26), whi
 ## Church History
 <!-- SG:BEGIN history -->
 - **Conscience** (reference-entry) *(explicit citation)*
+- **Chapter 7: Integrity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

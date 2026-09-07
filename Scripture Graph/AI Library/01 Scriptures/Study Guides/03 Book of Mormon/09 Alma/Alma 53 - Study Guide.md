@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 53
 slug: alma-53
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -95,7 +95,7 @@ The soldiers' preparation also combines ability with character. Alongside courag
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 18: Courage to Live Righteously** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

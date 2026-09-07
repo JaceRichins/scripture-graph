@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 26
 slug: 2chr-26
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -88,9 +88,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **July 20–26. “Our Eyes Are upon Thee”: 2 Chronicles 14–20; 26; 30** (lesson) *(explicit citation)*
 - **Ashdod or Azotus** (reference-entry) *(explicit citation)*
 - **Chronicles** (reference-entry) *(explicit citation)*
 - **Gath** (reference-entry) *(explicit citation)*
+- **September 14–20. “God Is My Salvation”: Isaiah 1–12** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 38
 slug: ex-38
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,7 +89,9 @@ The offered materials may invite comparison with [[Consecration]], and the order
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Thoughts to Keep in Mind: The Tabernacle and Sacrifice** (lesson) *(explicit citation)*
 - **Engraving** (reference-entry) *(explicit citation)*
+- **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

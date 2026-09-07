@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 82
 slug: ps-82
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ _Not yet developed._
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 1: The Origin and Destiny of Mankind** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

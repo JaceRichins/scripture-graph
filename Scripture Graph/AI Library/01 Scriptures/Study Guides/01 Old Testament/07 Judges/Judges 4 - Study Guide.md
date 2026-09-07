@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 4
 slug: judg-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -82,8 +82,11 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **May 25–31. “The Lord Raised Up a Deliverer”: Judges 2–4; 6–8; 13–16** (lesson) *(explicit citation)*
+- **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
 - **Chariot** (reference-entry) *(explicit citation)*
 - **Esdraelon** (reference-entry) *(explicit citation)*
+- **Chapter 24: The Work of Latter-day Saint Women: ‘Unselfish Devotion to This Glorious Cause’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

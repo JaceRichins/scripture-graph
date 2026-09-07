@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 135
 slug: dc-135
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -35,6 +35,7 @@ D&C 135 is a memorial announcement of the deaths of Joseph and Hyrum Smith at Ca
 - [[Jesus Christ]] — 3 mentions
 - [[Joseph (of Egypt)]] — 2 mentions
 - [[John Taylor]] — 1 mention
+- [[Willard Richards]] — 1 mention
 <!-- SG:END people -->
 
 ## Places
@@ -71,6 +72,7 @@ The chapter presents sacred witness as something that may carry mortal cost. Its
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Joseph Smith (Elder Neil L. Andersen, October 2014)|Joseph Smith]] — Elder Neil L. Andersen, 2014-October *(explicit citation)*
+- [[The Prophet Joseph Smith Teacher by Example (President Thomas S. Monson, October 2005)|The Prophet Joseph Smith: Teacher by Example]] — President Thomas S. Monson, 2005-October *(explicit citation)*
 - [[Shall We Not Go On in So Great a Cause (President M. Russell Ballard, April 2020)|Shall We Not Go On in So Great a Cause?]] — President M. Russell Ballard, 2020-April *(explicit citation)*
 - [[Spiritually Defining Memories (Elder Neil L. Andersen, April 2020)|Spiritually Defining Memories]] — Elder Neil L. Andersen, 2020-April *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
@@ -78,21 +80,21 @@ The chapter presents sacred witness as something that may carry mortal cost. Its
 - [[Safety for the Soul (Elder Jeffrey R. Holland, October 2009)|Safety for the Soul]] — Elder Jeffrey R. Holland, 2009-October *(explicit citation)*
 - [[The Power of the Priesthood (President Boyd K. Packer, April 2010)|The Power of the Priesthood]] — President Boyd K. Packer, 2010-April *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
-- [[How the Priesthood Blesses Youth (Enzo Serge Petelo, April 2020)|How the Priesthood Blesses Youth]] — Laudy Ruth Kaouk, 2020-April *(explicit citation)*
+- [[Preparations for the Restoration and the Second Coming “My Hand Shall Be over Thee” (Elder Robert D. Hales, October 2005)|Preparations for the Restoration and the Second Coming: “My Hand Shall Be over Thee”]] — Elder Robert D. Hales, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **November 24–30: “He ‘Has Sealed His Mission and His Works with His Own Blood’”: Doctrine and Covenants 135–136** (lesson) *(explicit citation)*
 - **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
 - **Chapter 46: The Martyrdom: The Prophet Seals His Testimony with His Blood** (teachings) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
+- **Chapter 9: Joseph Smith, the Prophet of the Restoration** (teachings) *(explicit citation)*
+- **Chapter 7: Joseph and Hyrum Smith, Witnesses for Christ** (teachings) *(explicit citation)*
 - **Remembering the Martyrdom** (history) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Restoration of the Church** (reference-entry) *(explicit citation)*
 - **44 A Lamb to the Slaughter** (history) *(explicit citation)*
-- **Book of Mormon** (reference-entry) *(explicit citation)*
-- **Chapter 47: President Brigham Young’s Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

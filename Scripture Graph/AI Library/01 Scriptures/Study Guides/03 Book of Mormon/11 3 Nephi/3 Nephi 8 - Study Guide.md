@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 8
 slug: 3ne-8
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,8 @@ The chapter presents [[Prophecy]] as something that may be awaited and still dis
 - [[The Blessings of Worship (Bishop Dean M. Davies, October 2016)|The Blessings of Worship]] — Bishop Dean M. Davies, 2016-October *(explicit citation)*
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
 - [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
+- [[If Ye Are Prepared Ye Shall Not Fear (President Gordon B. Hinckley, October 2005)|If Ye Are Prepared Ye Shall Not Fear]] — President Gordon B. Hinckley, 2005-October *(explicit citation)*
+- [[Behold Your Little Ones (Margaret S. Lifferth, October 2006)|Behold Your Little Ones]] — Margaret S. Lifferth, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

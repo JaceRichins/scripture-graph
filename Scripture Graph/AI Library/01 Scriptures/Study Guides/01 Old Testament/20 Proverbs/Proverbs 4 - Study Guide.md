@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 4
 slug: prov-4
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -45,6 +45,7 @@ _Not yet developed._
 - [[1 Nephi 12]] — 1 footnote cross-reference (from [[Proverbs 4#^prov-4-14|Proverbs 4:14]])
 - [[2 Nephi 31]] — 1 footnote cross-reference (from [[Proverbs 4#^prov-4-18|Proverbs 4:18]])
 - [[2 Samuel 2]] — 1 parallel verse, e.g. [[Proverbs 4#^prov-4-27|Proverbs 4:27]] ↔ [[2 Samuel 2#^2sam-2-19|2 Samuel 2:19]]
+- [[Proverbs 3]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -66,9 +67,12 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 10: The Value of Education** (teachings) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
 - **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 - **Chapter 37: Charity, the Pure Love of Christ** (teachings) *(explicit citation)*
+- **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
+- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

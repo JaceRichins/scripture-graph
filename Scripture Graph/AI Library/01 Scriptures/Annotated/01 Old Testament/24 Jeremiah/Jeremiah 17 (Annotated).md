@@ -77,7 +77,7 @@ cssclasses:
 ![[Jeremiah 17#^jer-17-24]]
 
 ![[Jeremiah 17#^jer-17-25]]
-> [[Jeremiah 22#^jer-22-4|Jer. 22:4]] · [[Jeremiah 32#^jer-32-32|≈ Jeremiah 32:32]] · [[Jeremiah 22#^jer-22-4|≈ Jeremiah 22:4]] · [[Jeremiah 35#^jer-35-13|≈ Jeremiah 35:13]] · [[2 Chronicles 34#^2chr-34-30|≈ 2 Chronicles 34:30]]
+> [[Jeremiah 22#^jer-22-4|Jer. 22:4]] · [[Jeremiah 32#^jer-32-32|≈ Jeremiah 32:32]] · [[Jeremiah 35#^jer-35-13|≈ Jeremiah 35:13]] · [[Jeremiah 22#^jer-22-4|≈ Jeremiah 22:4]] · [[2 Chronicles 34#^2chr-34-30|≈ 2 Chronicles 34:30]]
 
 ![[Jeremiah 17#^jer-17-26]]
 > [[Jeremiah 32#^jer-32-44|≈ Jeremiah 32:44]]

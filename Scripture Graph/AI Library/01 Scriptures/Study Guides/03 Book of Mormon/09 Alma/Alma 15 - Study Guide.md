@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 15
 slug: alma-15
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ Scripture: [[Alma 15]] · My notes: [[Alma 15 - My Notes]]
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
+- **Chapter 14: Remembering Our Spiritual Heritage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

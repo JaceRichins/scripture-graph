@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 12
 slug: eccl-12
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -72,10 +72,12 @@ Verse 7 is the chapter's clearest doctrinal statement: at death "the dust shall 
 - [[Our Path of Duty (Bishop Keith B. McMullin, April 2010)|Our Path of Duty]] — Bishop Keith B. McMullin, 2010-April *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 - [[Conference Report, October 1924 (General Conference (full report), October 1924)|Conference Report, October 1924]] — General Conference (full report), 1924-October *(explicit citation)*
+- [[True to Our Priesthood Trust (President Thomas S. Monson, October 2006)|True to Our Priesthood Trust]] — President Thomas S. Monson, 2006-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 - **Journal of Discourses, Volume 21** (history, ~1874) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*

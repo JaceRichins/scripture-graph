@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 6
 slug: 2cor-6
-corpus_version_reviewed: 13
+corpus_version_reviewed: 18
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Election** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **Chapter 12: The Divine Purpose of Marriage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

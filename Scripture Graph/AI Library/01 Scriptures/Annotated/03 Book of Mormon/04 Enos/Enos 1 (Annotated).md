@@ -70,7 +70,7 @@ cssclasses:
 > [[Jacob 7#^jacob-7-24|Jacob 7:24]] · [[Moroni 9#^moro-9-6|Moro. 9:6]] · [[2 Nephi 5#^2ne-5-1|2 Ne. 5:1]] · [[Jarom 1#^jarom-1-6|Jarom 1:6]] · [[Mosiah 9#^mosiah-9-12|Mosiah 9:12]] · [[Genesis 25#^gen-25-27|Gen. 25:27]] · [[Mosiah 10#^mosiah-10-8|Mosiah 10:8]] · [[Alma 3#^alma-3-4|Alma 3:5 (4–5)]] · [[Alma 43#^alma-43-18|43:20 (18–21)]] · [[Mosiah 10#^mosiah-10-12|≈ Mosiah 10:12]]
 
 ![[Enos 1#^enos-1-21]]
-> [[1 Nephi 8#^1ne-8-1|1 Ne. 8:1]] · [[Mosiah 9#^mosiah-9-9|Mosiah 9:9]] · [[1 Nephi 18#^1ne-18-25|1 Ne. 18:25]] · [[Ether 9#^ether-9-18|Ether 9:19 (18–19)]] · [[Mosiah 10#^mosiah-10-4|≈ Mosiah 10:4]] · [[Jacob 1#^jacob-1-15|≈ Jacob 1:15]]
+> [[1 Nephi 8#^1ne-8-1|1 Ne. 8:1]] · [[Mosiah 9#^mosiah-9-9|Mosiah 9:9]] · [[1 Nephi 18#^1ne-18-25|1 Ne. 18:25]] · [[Ether 9#^ether-9-18|Ether 9:19 (18–19)]] · [[Jacob 1#^jacob-1-15|≈ Jacob 1:15]] · [[Mosiah 10#^mosiah-10-4|≈ Mosiah 10:4]]
 
 ![[Enos 1#^enos-1-22]]
 > [[Words of Mormon 1#^wofm-1-16|W of M 1:16]] · [[Jarom 1#^jarom-1-3|Jarom 1:3]]
