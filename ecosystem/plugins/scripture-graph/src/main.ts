@@ -26,6 +26,7 @@ import { Dock, isPhone, obsidianInternals } from "./study/dock";
 import { ReadingSettingsModal, applyReading } from "./study/readingSettings";
 import { VaultSync } from "./sync/vaultSync";
 import { runSetupLink } from "./social/setupLink";
+import { LiveLink } from "./live";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SCENES, SceneManager } from "./study/scenes";
@@ -484,6 +485,11 @@ export default class SGPlugin extends Plugin {
         await this.state.store.put("update_checked_at", Date.now());
         void this.checkForUpdate(true);
         this.registerInterval(window.setInterval(() => void this.checkForUpdate(true), 20 * 60_000));
+        // ⚡ the live channel: a held request the server answers the moment
+        // a build or a vault change lands — install + reload, no tap
+        this.live = new LiveLink(this);
+        this.live.start();
+        this.register(() => this.live?.stop());
         // Sync can land a build any time, from anywhere — notice it on
         // open, every few minutes, and whenever the app comes back up
         void this.checkSyncedUpdate();
@@ -499,7 +505,7 @@ export default class SGPlugin extends Plugin {
   /** Pull the latest build from the family server's /plugin channel and
    * install it in place. `silent` = only speak when something happens. */
   async checkForUpdate(silent: boolean): Promise<void> {
-    const base = this.state.settings.serverUrl.replace(/\/$/, "");
+    const base = this.state.api.baseUrl.replace(/\/$/, "");
     try {
       const mf = await requestUrl({ url: `${base}/plugin/manifest.json`, throw: false });
       if (mf.status !== 200) {
@@ -713,6 +719,7 @@ export default class SGPlugin extends Plugin {
 
   private dock: Dock | null = null;
   vaultSync!: VaultSync;
+  live: LiveLink | null = null;
 
   openReadingSettings(): void {
     new ReadingSettingsModal(this.state, () => this.pickScene(), () => {

@@ -5,7 +5,8 @@
   "scripts": {
     "build": "tsc --noEmit && node esbuild.config.mjs",
     "typecheck": "tsc --noEmit",
-    "release:github": "node scripts/gh-release.mjs"
+    "release:github": "node scripts/gh-release.mjs",
+    "ship": "node scripts/ship.mjs"
   },
   "dependencies": {
     "@scripture-graph/core-sdk": "*"

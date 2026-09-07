@@ -55,7 +55,21 @@ NORMAL and not a problem — nothing is hoisted into the package itself.)
 > feature branch it silently pushes nothing new. Land your branch on
 > `master` first; then this command means what it says.
 
-## The pipeline
+## The one command
+
+```bash
+cd "C:/Users/jacer/repos/SCRIPTURE GRAPH/ecosystem/plugins/scripture-graph" && npm run ship -- "what changed"
+```
+
+`scripts/ship.mjs` enforces every rule below: main checkout, `master`,
+not behind, a version one above the higher of local and LIVE, typecheck
+before bundle, both channels (manifest copied last), commit, push, and a
+GitHub release when `gh` is logged in. The server's `/live` channel then
+wakes every phone holding a request; each installs the build and reloads
+by itself within seconds. Nobody taps anything. Server-side code changes
+still need the backend restarted (`ecosystem/server/restart.ps1`).
+
+## The pipeline (what `ship` does, by hand)
 
 ```bash
 cd "ecosystem/plugins/scripture-graph"
