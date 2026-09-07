@@ -22,8 +22,10 @@ from scripturegraph.vaultgen.generate import FOLDER_SYSTEM, record_file
 
 HYMNS_NOTE = f"{FOLDER_SYSTEM}/Hymns.md"
 TOC_URI = "/manual/hymns"
-_CHILD = re.compile(r'href="(?:/study)?(/manual/hymns/[a-z0-9][a-z0-9-]*)(?:\?lang=eng)?"[^>]*>(?:\s*<[^>]+>)*\s*([^<]{2,90})<')
-_NUMBER = re.compile(r"^\s*(\d{1,3})\b")
+# the 1985 hymnal and the new "Hymns—For Home and Church" (released in batches)
+TOC_URIS = ["/manual/hymns", "/music/hymns-for-home-and-church"]
+_CHILD = re.compile(r'href="(?:/study)?(/(?:manual/hymns|music/hymns-for-home-and-church)/[a-z0-9][a-z0-9-]*)(?:\?lang=eng)?"[^>]*>(?:\s*<[^>]+>)*\s*([^<]{2,90})<')
+_NUMBER = re.compile(r"^\s*(\d{1,4})\b")
 
 
 def _index(ctx: Ctx) -> list[dict]:
@@ -43,12 +45,16 @@ def fetch_hymns(ctx: Ctx, budget: int = 40) -> dict:
     hymn for its recordings). Idempotent; finished when every hymn has audio."""
     stats = {"toc": 0, "fetched": 0, "done": False}
     known = {h["uri"]: h for h in _index(ctx)}
-    raw = _get(ctx, API.format(uri=TOC_URI))
-    if raw is None:
-        return stats
-    try:
-        body = json.loads(raw)["content"]["body"]
-    except (json.JSONDecodeError, KeyError):
+    body = ""
+    for toc in TOC_URIS:
+        raw = _get(ctx, API.format(uri=toc))
+        if raw is None:
+            continue
+        try:
+            body += json.loads(raw)["content"]["body"]
+        except (json.JSONDecodeError, KeyError):
+            continue
+    if not body:
         return stats
     order: list[dict] = []
     seen = set()
@@ -58,7 +64,7 @@ def fetch_hymns(ctx: Ctx, budget: int = 40) -> dict:
         seen.add(uri)
         label = _clean(label)
         n = _NUMBER.match(label)
-        title = re.sub(r"^\s*\d{1,3}\s*[.:\-–]?\s*", "", label).strip() or uri.rsplit("/", 1)[-1]
+        title = re.sub(r"^\s*\d{1,4}\s*[.:\-–]?\s*", "", label).strip() or uri.rsplit("/", 1)[-1]
         h = known.get(uri) or {"uri": uri, "title": title, "n": int(n.group(1)) if n else None,
                                "url": f"https://www.churchofjesuschrist.org/study{uri}?lang=eng"}
         if not h.get("n") and n:
