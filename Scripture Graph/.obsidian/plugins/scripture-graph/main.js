@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.14 build 2295f3bf 2026-09-07T23:54:38Z */
+/* scripture-graph v0.72.15 build 159651c5 2026-09-07T23:58:50Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.14", sha: "2295f3bf", at: "2026-09-07T23:54:38Z" };
+    define_SG_BUILD_default = { version: "0.72.15", sha: "159651c5", at: "2026-09-07T23:58:50Z" };
   }
 });
 
@@ -16996,7 +16996,8 @@ var MusicPlayer = class {
     const meta = bar.createDiv({ cls: "sg-player-meta" });
     meta.createDiv({ cls: "sg-player-title", text: it.title });
     meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : this.mode === "youtube" ? "YouTube" : it.sub });
-    if (it.open) meta.onclick = it.open;
+    if (this.mode === "youtube") meta.onclick = () => bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big"));
+    else if (it.open) meta.onclick = it.open;
     const btn = (label, cls, fn) => {
       const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, text: label });
       b.onclick = (e) => {

@@ -2518,7 +2518,11 @@ body.sg-read-wide .sg-doc-page { max-width: 100% !important; }
   color: var(--text-muted); font-size: 1.2em; padding: 0; }
 .sg-player-wrap { position: fixed; left: 12px; right: 12px; bottom: calc(76px + env(safe-area-inset-bottom, 0px));
   z-index: calc(var(--layer-popover, 30) - 1); display: flex; flex-direction: column; gap: 6px; }
-.sg-player-video { aspect-ratio: 16 / 9; border-radius: 14px; overflow: hidden; background: #000; box-shadow: 0 8px 28px rgba(0,0,0,0.35); }
+/* the YouTube player at the smallest size its terms allow (200×200), tucked in the corner;
+   tap the title in the bar to grow it */
+.sg-player-video { width: 200px; height: 200px; align-self: flex-end; border-radius: 14px; overflow: hidden;
+  background: #000; box-shadow: 0 8px 28px rgba(0,0,0,0.35); }
+.sg-player-wrap.sg-player-big .sg-player-video { width: 100%; height: auto; aspect-ratio: 16 / 9; align-self: stretch; }
 .sg-player-frame { width: 100%; height: 100%; border: 0; display: block; }
 .sg-player { position: relative; display: flex; align-items: center; gap: 8px;
   padding: 8px 8px 8px 10px; border-radius: 14px; overflow: hidden;

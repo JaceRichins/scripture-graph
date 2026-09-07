@@ -263,7 +263,9 @@ export class MusicPlayer {
     const meta = bar.createDiv({ cls: "sg-player-meta" });
     meta.createDiv({ cls: "sg-player-title", text: it.title });
     meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : this.mode === "youtube" ? "YouTube" : it.sub });
-    if (it.open) meta.onclick = it.open;
+    // YouTube: the title toggles the corner square ↔ a full-width player
+    if (this.mode === "youtube") meta.onclick = () => bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big"));
+    else if (it.open) meta.onclick = it.open;
     const btn = (label: string, cls: string, fn: () => void) => {
       const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, text: label });
       b.onclick = (e) => { e.stopPropagation(); fn(); };
