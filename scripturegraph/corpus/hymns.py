@@ -23,8 +23,10 @@ from scripturegraph.vaultgen.generate import FOLDER_SYSTEM, record_file
 HYMNS_NOTE = f"{FOLDER_SYSTEM}/Hymns.md"
 TOC_URI = "/manual/hymns"
 # the 1985 hymnal and the new "Hymns—For Home and Church" (released in batches)
-TOC_URIS = ["/manual/hymns", "/music/hymns-for-home-and-church"]
-_CHILD = re.compile(r'href="(?:/study)?(/(?:manual/hymns|music/hymns-for-home-and-church)/[a-z0-9][a-z0-9-]*)(?:\?lang=eng)?"[^>]*>(?:\s*<[^>]+>)*\s*([^<]{2,90})<')
+TOC_URIS = ["/manual/hymns", "/music/hymns-for-home-and-church", "/manual/childrens-songbook"]
+BOOKS = {"/manual/hymns/": "Hymns", "/music/hymns-for-home-and-church/": "Hymns—For Home and Church",
+         "/manual/childrens-songbook/": "Children's Songbook"}
+_CHILD = re.compile(r'href="(?:/study)?(/(?:manual/hymns|music/hymns-for-home-and-church|manual/childrens-songbook)/[a-z0-9][a-z0-9-]*)(?:\?lang=eng)?"[^>]*>(?:\s*<[^>]+>)*\s*([^<]{2,90})<')
 _NUMBER = re.compile(r"^\s*(\d{1,4})\b")
 
 
@@ -69,6 +71,9 @@ def fetch_hymns(ctx: Ctx, budget: int = 40) -> dict:
                                "url": f"https://www.churchofjesuschrist.org/study{uri}?lang=eng"}
         if not h.get("n") and n:
             h["n"] = int(n.group(1))
+        for pre, book in BOOKS.items():
+            if uri.startswith(pre):
+                h["book"] = book
         order.append(h)
     stats["toc"] = len(order)
     for h in order:
