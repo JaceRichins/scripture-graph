@@ -6,14 +6,15 @@ content_type: reference
 
 # Music
 
-The Music shelf: the hymnbook, and playlists gathered by what they do for a
-listener — hope, peace, courage, repentance, praise. Hymns play from the
-Church's own recordings; everything else opens in Spotify, Apple Music or
-YouTube. Titles and artists only — no words or music are stored here.
+The Music shelf: both hymnbooks, the Children's Songbook, and playlists
+gathered by what they do for a listener. Hymns and Primary songs play from
+the Church's own recordings; everything else opens in the listener's music
+app (Spotify, Apple Music or YouTube). Titles and artists only — no words
+or music are stored here.
 
-Edit the JSON to change a playlist. A track with `"a": "Hymn"` is looked up
-in the hymnbook index by title; anything else is a search on the streaming
-services. `cover` names a file in `covers/`.
+Edit the JSON to change a playlist. A track with `"a": "Hymn"` or
+`"a": "Primary"` is looked up in the Church index by title; anything else is
+a search in the music app. `cover` names a file in `covers/`.
 
 ```json
 {
@@ -30,12 +31,24 @@ services. `cover` names a file in `covers/`.
         {"t": "How Firm a Foundation", "a": "Hymn"},
         {"t": "The Lord Is My Light", "a": "Hymn"},
         {"t": "Standing on the Promises", "a": "Hymn"},
+        {"t": "Come unto Him", "a": "Hymn"},
+        {"t": "Where Can I Turn for Peace?", "a": "Hymn"},
+        {"t": "God Is Love", "a": "Hymn"},
+        {"t": "I Know That My Redeemer Lives", "a": "Hymn"},
+        {"t": "Redeemer of Israel", "a": "Hymn"},
+        {"t": "Anytime, Anywhere", "a": "Hymn"},
+        {"t": "I Know My Father Lives", "a": "Primary"},
         {"t": "Here Is Hope", "a": "Rob Gardner"},
         {"t": "Great Is Thy Faithfulness", "a": "Chisholm & Runyan"},
         {"t": "Be Thou My Vision", "a": "Irish hymn"},
         {"t": "Living Hope", "a": "Phil Wickham"},
         {"t": "There Is a Balm in Gilead", "a": "Spiritual"},
-        {"t": "The Lord Bless You and Keep You", "a": "John Rutter"}
+        {"t": "The Lord Bless You and Keep You", "a": "John Rutter"},
+        {"t": "You Say", "a": "Lauren Daigle"},
+        {"t": "Homeward Bound", "a": "Marta Keen"},
+        {"t": "It Is Well", "a": "Bethel Music"},
+        {"t": "Cornerstone", "a": "Hillsong Worship"},
+        {"t": "Hope Has a Name", "a": "River Valley Worship"}
       ]
     },
     {
@@ -51,12 +64,23 @@ services. `cover` names a file in `covers/`.
         {"t": "It Is Well with My Soul", "a": "Hymn"},
         {"t": "Nearer, My God, to Thee", "a": "Hymn"},
         {"t": "His Eye Is on the Sparrow", "a": "Hymn"},
+        {"t": "Be Still, My Soul", "a": "Hymn"},
+        {"t": "Master, the Tempest Is Raging", "a": "Hymn"},
+        {"t": "Jesus, Lover of My Soul", "a": "Hymn"},
+        {"t": "Rock of Ages", "a": "Hymn"},
+        {"t": "Softly Now the Light of Day", "a": "Hymn"},
+        {"t": "I Feel My Savior's Love", "a": "Primary"},
         {"t": "Consider the Lilies", "a": "Roger Hoffman"},
         {"t": "Precious Lord, Take My Hand", "a": "Thomas A. Dorsey"},
         {"t": "Jesu, Joy of Man's Desiring", "a": "J. S. Bach"},
         {"t": "Ave verum corpus", "a": "W. A. Mozart"},
         {"t": "Pie Jesu", "a": "Gabriel Fauré"},
-        {"t": "Deep River", "a": "Spiritual"}
+        {"t": "Deep River", "a": "Spiritual"},
+        {"t": "Peace Like a River", "a": "Spiritual"},
+        {"t": "Still", "a": "Hillsong Worship"},
+        {"t": "The Lord Is My Shepherd", "a": "Howard Goodall"},
+        {"t": "Sleep", "a": "Eric Whitacre"},
+        {"t": "Lux aurumque", "a": "Eric Whitacre"}
       ]
     },
     {
@@ -75,9 +99,20 @@ services. `cover` names a file in `covers/`.
         {"t": "Carry On", "a": "Hymn"},
         {"t": "Faith in Every Footstep", "a": "Hymn"},
         {"t": "Onward, Christian Soldiers", "a": "Hymn"},
+        {"t": "Do What Is Right", "a": "Hymn"},
+        {"t": "Choose the Right", "a": "Hymn"},
+        {"t": "True to the Faith", "a": "Hymn"},
+        {"t": "Ye Elders of Israel", "a": "Hymn"},
+        {"t": "Nephi's Courage", "a": "Primary"},
+        {"t": "I Will Be Valiant", "a": "Primary"},
         {"t": "In Christ Alone", "a": "Keith Getty & Stuart Townend"},
         {"t": "Way Maker", "a": "Sinach"},
-        {"t": "Total Praise", "a": "Richard Smallwood"}
+        {"t": "Total Praise", "a": "Richard Smallwood"},
+        {"t": "Rise Up (Lazarus)", "a": "CAIN"},
+        {"t": "Battle Belongs", "a": "Phil Wickham"},
+        {"t": "Raise a Hallelujah", "a": "Bethel Music"},
+        {"t": "Soldiers of Christ, Arise", "a": "Charles Wesley"},
+        {"t": "Zadok the Priest", "a": "G. F. Handel"}
       ]
     },
     {
@@ -94,11 +129,20 @@ services. `cover` names a file in `covers/`.
         {"t": "More Holiness Give Me", "a": "Hymn"},
         {"t": "Be Thou Humble", "a": "Hymn"},
         {"t": "Reverently and Meekly Now", "a": "Hymn"},
+        {"t": "Jesus, Savior, Pilot Me", "a": "Hymn"},
+        {"t": "Lord, I Would Follow Thee", "a": "Hymn"},
+        {"t": "O Savior, Thou Who Wearest a Crown", "a": "Hymn"},
+        {"t": "Help Me, Dear Father", "a": "Primary"},
         {"t": "Miserere mei, Deus", "a": "Gregorio Allegri"},
         {"t": "Amazing Grace (My Chains Are Gone)", "a": "Chris Tomlin"},
         {"t": "Lord, I Need You", "a": "Matt Maher"},
         {"t": "Agnus Dei", "a": "Samuel Barber"},
-        {"t": "Come Home", "a": "Tyler Castleton"}
+        {"t": "Come Home", "a": "Tyler Castleton"},
+        {"t": "O Come to the Altar", "a": "Elevation Worship"},
+        {"t": "Nothing but the Blood", "a": "Robert Lowry"},
+        {"t": "Just As I Am", "a": "Charlotte Elliott"},
+        {"t": "Kyrie (Mass in B minor)", "a": "J. S. Bach"},
+        {"t": "The Prodigal", "a": "Sovereign Grace Music"}
       ]
     },
     {
@@ -115,11 +159,20 @@ services. `cover` names a file in `covers/`.
         {"t": "How Great Thou Art", "a": "Hymn"},
         {"t": "Prayer of Thanksgiving", "a": "Hymn"},
         {"t": "All Creatures of Our God and King", "a": "Hymn"},
+        {"t": "Praise God, from Whom All Blessings Flow", "a": "Hymn"},
+        {"t": "Come, Ye Thankful People", "a": "Hymn"},
+        {"t": "Glory to God on High", "a": "Hymn"},
+        {"t": "My Heavenly Father Loves Me", "a": "Primary"},
+        {"t": "Thanks to Our Father", "a": "Primary"},
         {"t": "10,000 Reasons (Bless the Lord)", "a": "Matt Redman"},
         {"t": "Goodness of God", "a": "Bethel Music"},
         {"t": "How Great Is Our God", "a": "Chris Tomlin"},
         {"t": "Gratitude", "a": "Brandon Lake"},
-        {"t": "Hallelujah (Messiah)", "a": "G. F. Handel"}
+        {"t": "Hallelujah (Messiah)", "a": "G. F. Handel"},
+        {"t": "Great Is Thy Faithfulness", "a": "Chisholm & Runyan"},
+        {"t": "Holy, Holy, Holy", "a": "Reginald Heber"},
+        {"t": "Gloria (Vivaldi)", "a": "Antonio Vivaldi"},
+        {"t": "Thank You Lord", "a": "Chris Tomlin"}
       ]
     },
     {
@@ -136,11 +189,22 @@ services. `cover` names a file in `covers/`.
         {"t": "Look unto Christ", "a": "Hymn"},
         {"t": "Behold the Wounds in Jesus' Hands", "a": "Hymn"},
         {"t": "Oh, the Deep, Deep Love of Jesus", "a": "Hymn"},
+        {"t": "Jesus, Once of Humble Birth", "a": "Hymn"},
+        {"t": "Jesus of Nazareth, Savior and King", "a": "Hymn"},
+        {"t": "Precious Savior, Dear Redeemer", "a": "Hymn"},
+        {"t": "Beautiful Savior", "a": "Primary"},
+        {"t": "He Sent His Son", "a": "Primary"},
+        {"t": "Jesus Once Was a Little Child", "a": "Primary"},
         {"t": "His Hands", "a": "Kenneth Cope"},
         {"t": "What a Beautiful Name", "a": "Hillsong Worship"},
         {"t": "O Divine Redeemer", "a": "Charles Gounod"},
         {"t": "Lamb of God", "a": "Rob Gardner"},
-        {"t": "The Holy City", "a": "Stephen Adams"}
+        {"t": "The Holy City", "a": "Stephen Adams"},
+        {"t": "Jesus Paid It All", "a": "Kristian Stanfill"},
+        {"t": "King of Kings", "a": "Hillsong Worship"},
+        {"t": "Fairest Lord Jesus", "a": "Silesian folk hymn"},
+        {"t": "Crown Him with Many Crowns", "a": "Matthew Bridges"},
+        {"t": "Jesus, Joy of Loving Hearts", "a": "Bernard of Clairvaux"}
       ]
     },
     {
@@ -158,10 +222,19 @@ services. `cover` names a file in `covers/`.
         {"t": "In Humility, Our Savior", "a": "Hymn"},
         {"t": "O God, the Eternal Father", "a": "Hymn"},
         {"t": "Sweet Hour of Prayer", "a": "Hymn"},
+        {"t": "God, Our Father, Hear Us Pray", "a": "Hymn"},
+        {"t": "While of These Emblems We Partake", "a": "Hymn"},
+        {"t": "As I Keep the Sabbath Day", "a": "Hymn"},
+        {"t": "Reverence Is Love", "a": "Primary"},
         {"t": "If Ye Love Me", "a": "Thomas Tallis"},
         {"t": "Locus iste", "a": "Anton Bruckner"},
         {"t": "Panis angelicus", "a": "César Franck"},
-        {"t": "Ave Maria", "a": "Franz Schubert"}
+        {"t": "Ave Maria", "a": "Franz Schubert"},
+        {"t": "O Magnum Mysterium", "a": "Morten Lauridsen"},
+        {"t": "Holy, Holy, Holy", "a": "Reginald Heber"},
+        {"t": "Here I Am to Worship", "a": "Tim Hughes"},
+        {"t": "Lord, Prepare Me to Be a Sanctuary", "a": "John W. Thompson"},
+        {"t": "Cantique de Jean Racine", "a": "Gabriel Fauré"}
       ]
     },
     {
@@ -179,10 +252,291 @@ services. `cover` names a file in `covers/`.
         {"t": "Holding Hands Around the World", "a": "Hymn"},
         {"t": "Welcome Home", "a": "Hymn"},
         {"t": "God Be with You Till We Meet Again", "a": "Hymn"},
-        {"t": "A Child's Prayer", "a": "Janice Kapp Perry"},
-        {"t": "I Feel My Savior's Love", "a": "Children's Songbook"},
+        {"t": "A Child's Prayer", "a": "Primary"},
+        {"t": "I Feel My Savior's Love", "a": "Primary"},
+        {"t": "Love Is Spoken Here", "a": "Primary"},
+        {"t": "A Happy Family", "a": "Primary"},
+        {"t": "Mother, I Love You", "a": "Primary"},
+        {"t": "Daddy's Homecoming", "a": "Primary"},
+        {"t": "Kindness Begins with Me", "a": "Primary"},
+        {"t": "I'll Walk with You", "a": "Primary"},
         {"t": "Homeward Bound", "a": "Marta Keen"},
-        {"t": "The Prayer", "a": "David Foster & Carole Bayer Sager"}
+        {"t": "The Prayer", "a": "David Foster & Carole Bayer Sager"},
+        {"t": "Bless This House", "a": "May H. Brahe"},
+        {"t": "Turn Around", "a": "Harry Belafonte"},
+        {"t": "In My Life", "a": "The Beatles"}
+      ]
+    },
+    {
+      "key": "primary",
+      "title": "Primary Favorites",
+      "blurb": "The songs the kids already know.",
+      "cover": "music-primary",
+      "tracks": [
+        {"t": "I Am a Child of God", "a": "Primary"},
+        {"t": "Follow the Prophet", "a": "Primary"},
+        {"t": "Book of Mormon Stories", "a": "Primary"},
+        {"t": "I Love to See the Temple", "a": "Primary"},
+        {"t": "Nephi's Courage", "a": "Primary"},
+        {"t": "The Church of Jesus Christ", "a": "Primary"},
+        {"t": "I Hope They Call Me on a Mission", "a": "Primary"},
+        {"t": "When I Am Baptized", "a": "Primary"},
+        {"t": "I Will Follow God's Plan", "a": "Primary"},
+        {"t": "Choose the Right Way", "a": "Primary"},
+        {"t": "Jesus Wants Me for a Sunbeam", "a": "Primary"},
+        {"t": "Teach Me to Walk in the Light", "a": "Primary"},
+        {"t": "Search, Ponder, and Pray", "a": "Primary"},
+        {"t": "Scripture Power", "a": "Clive Romney"},
+        {"t": "The Family Is of God", "a": "Matthew Neeley"},
+        {"t": "Gethsemane", "a": "Hymn"},
+        {"t": "I Know That My Savior Loves Me", "a": "Tami Jeppson Creamer"},
+        {"t": "Popcorn Popping", "a": "Primary"},
+        {"t": "Once There Was a Snowman", "a": "Primary"},
+        {"t": "Give, Said the Little Stream", "a": "Primary"},
+        {"t": "Do As I'm Doing", "a": "Primary"},
+        {"t": "Hinges", "a": "Primary"},
+        {"t": "Head, Shoulders, Knees, and Toes", "a": "Primary"},
+        {"t": "My Heavenly Father Loves Me", "a": "Primary"},
+        {"t": "The Wise Man and the Foolish Man", "a": "Primary"},
+        {"t": "Samuel Tells of the Baby Jesus", "a": "Primary"}
+      ]
+    },
+    {
+      "key": "morning",
+      "title": "Morning",
+      "blurb": "Light, brisk, bright. Start here.",
+      "cover": "music-morning",
+      "tracks": [
+        {"t": "Ere You Left Your Room This Morning", "a": "Hymn"},
+        {"t": "There Is Sunshine in My Soul Today", "a": "Hymn"},
+        {"t": "The Morning Breaks", "a": "Hymn"},
+        {"t": "Come, Ye Children of the Lord", "a": "Hymn"},
+        {"t": "Let Zion in Her Beauty Rise", "a": "Hymn"},
+        {"t": "Scatter Sunshine", "a": "Hymn"},
+        {"t": "Have I Done Any Good?", "a": "Hymn"},
+        {"t": "Today, While the Sun Shines", "a": "Hymn"},
+        {"t": "Star Light, Star Bright", "a": "Hymn"},
+        {"t": "Jesus Wants Me for a Sunbeam", "a": "Primary"},
+        {"t": "Morning Has Broken", "a": "Cat Stevens"},
+        {"t": "This Is the Day", "a": "Les Garrett"},
+        {"t": "Rise and Shine", "a": "Spiritual"},
+        {"t": "Every Morning", "a": "Hillsong Worship"},
+        {"t": "New Wine", "a": "Hillsong Worship"},
+        {"t": "Hallelujah Chorus (Mount of Olives)", "a": "Ludwig van Beethoven"},
+        {"t": "Morning Mood (Peer Gynt)", "a": "Edvard Grieg"},
+        {"t": "Awake, My Soul", "a": "Mumford & Sons"}
+      ]
+    },
+    {
+      "key": "evening",
+      "title": "Evening & Bedtime",
+      "blurb": "Wind down. The words are quiet on purpose.",
+      "cover": "music-evening",
+      "tracks": [
+        {"t": "Abide with Me; 'Tis Eventide", "a": "Hymn"},
+        {"t": "Softly Now the Light of Day", "a": "Hymn"},
+        {"t": "Now the Day Is Over", "a": "Hymn"},
+        {"t": "Lord, We Ask Thee Ere We Part", "a": "Hymn"},
+        {"t": "Sing We Now at Parting", "a": "Hymn"},
+        {"t": "Lead, Kindly Light", "a": "Hymn"},
+        {"t": "The Day Dawn Is Breaking", "a": "Hymn"},
+        {"t": "A Child's Prayer", "a": "Primary"},
+        {"t": "I Feel My Savior's Love", "a": "Primary"},
+        {"t": "Heavenly Father, Now I Pray", "a": "Primary"},
+        {"t": "Nocturne (Chopin, Op. 9 No. 2)", "a": "Frédéric Chopin"},
+        {"t": "Clair de lune", "a": "Claude Debussy"},
+        {"t": "Gymnopédie No. 1", "a": "Erik Satie"},
+        {"t": "Sleep", "a": "Eric Whitacre"},
+        {"t": "The Seal Lullaby", "a": "Eric Whitacre"},
+        {"t": "Evening Prayer (Hansel and Gretel)", "a": "Engelbert Humperdinck"},
+        {"t": "All Through the Night", "a": "Welsh lullaby"},
+        {"t": "Goodnight My Angel", "a": "Billy Joel"}
+      ]
+    },
+    {
+      "key": "temple",
+      "title": "Temple",
+      "blurb": "Covenant, holiness, the house of the Lord.",
+      "cover": "music-temple",
+      "tracks": [
+        {"t": "I Love to See the Temple", "a": "Primary"},
+        {"t": "Holy Places", "a": "Hymn"},
+        {"t": "The Spirit of God", "a": "Hymn"},
+        {"t": "Turn Your Hearts", "a": "Hymn"},
+        {"t": "How Beautiful Thy Temples, Lord", "a": "Hymn"},
+        {"t": "Rise, Ye Saints, and Temples Enter", "a": "Hymn"},
+        {"t": "High on the Mountain Top", "a": "Hymn"},
+        {"t": "Families Can Be Together Forever", "a": "Hymn"},
+        {"t": "O My Father", "a": "Hymn"},
+        {"t": "Nearer, My God, to Thee", "a": "Hymn"},
+        {"t": "More Holiness Give Me", "a": "Hymn"},
+        {"t": "Come, Lord Jesus, Come", "a": "Hymn"},
+        {"t": "Holy Ground", "a": "Geron Davis"},
+        {"t": "Sanctus (Requiem)", "a": "Gabriel Fauré"},
+        {"t": "How Lovely Is Thy Dwelling Place", "a": "Johannes Brahms"},
+        {"t": "I Was Glad", "a": "C. Hubert H. Parry"},
+        {"t": "Holy Is the Lord", "a": "Chris Tomlin"},
+        {"t": "Take Me Into the Holy of Holies", "a": "Dave Browning"}
+      ]
+    },
+    {
+      "key": "missionary",
+      "title": "Missionary",
+      "blurb": "For the call, the field and the ones waiting at home.",
+      "cover": "music-missionary",
+      "tracks": [
+        {"t": "Called to Serve", "a": "Hymn"},
+        {"t": "I'll Go Where You Want Me to Go", "a": "Hymn"},
+        {"t": "Go, Ye Messengers of Glory", "a": "Hymn"},
+        {"t": "Hark, All Ye Nations!", "a": "Hymn"},
+        {"t": "Israel, Israel, God Is Calling", "a": "Hymn"},
+        {"t": "Ye Elders of Israel", "a": "Hymn"},
+        {"t": "The Iron Rod", "a": "Hymn"},
+        {"t": "Because I Have Been Given Much", "a": "Hymn"},
+        {"t": "Have I Done Any Good?", "a": "Hymn"},
+        {"t": "Let Us All Press On", "a": "Hymn"},
+        {"t": "Go Forth with Faith", "a": "Hymn"},
+        {"t": "I Hope They Call Me on a Mission", "a": "Primary"},
+        {"t": "We'll Bring the World His Truth", "a": "Primary"},
+        {"t": "Called to Serve (Rob Gardner)", "a": "Rob Gardner"},
+        {"t": "Go Light Your World", "a": "Chris Rice"},
+        {"t": "Here I Am, Lord", "a": "Dan Schutte"},
+        {"t": "The Summons (Will You Come and Follow Me)", "a": "John L. Bell"},
+        {"t": "Send Me", "a": "Lecrae"}
+      ]
+    },
+    {
+      "key": "prayer",
+      "title": "Prayer",
+      "blurb": "Music to pray to, and about praying.",
+      "cover": "music-prayer",
+      "tracks": [
+        {"t": "Did You Think to Pray?", "a": "Hymn"},
+        {"t": "Secret Prayer", "a": "Hymn"},
+        {"t": "Sweet Hour of Prayer", "a": "Hymn"},
+        {"t": "Prayer Is the Soul's Sincere Desire", "a": "Hymn"},
+        {"t": "I Need Thee Every Hour", "a": "Hymn"},
+        {"t": "Father in Heaven", "a": "Hymn"},
+        {"t": "Guide Us, O Thou Great Jehovah", "a": "Hymn"},
+        {"t": "Be Thou Humble", "a": "Hymn"},
+        {"t": "A Child's Prayer", "a": "Primary"},
+        {"t": "I Pray in Faith", "a": "Primary"},
+        {"t": "The Lord's Prayer", "a": "Albert Hay Malotte"},
+        {"t": "Pater noster", "a": "Igor Stravinsky"},
+        {"t": "Ubi caritas", "a": "Maurice Duruflé"},
+        {"t": "Prayer of Saint Francis", "a": "Sebastian Temple"},
+        {"t": "Hear My Prayer, O Lord", "a": "Henry Purcell"},
+        {"t": "What a Friend We Have in Jesus", "a": "Joseph M. Scriven"},
+        {"t": "Nearer, My God, to Thee", "a": "Hymn"},
+        {"t": "Lord, Listen to Your Children Praying", "a": "Ken Medema"}
+      ]
+    },
+    {
+      "key": "grief",
+      "title": "Grief & Loss",
+      "blurb": "For funerals, anniversaries and the quiet after.",
+      "cover": "music-grief",
+      "tracks": [
+        {"t": "Each Life That Touches Ours for Good", "a": "Hymn"},
+        {"t": "God Be with You Till We Meet Again", "a": "Hymn"},
+        {"t": "O My Father", "a": "Hymn"},
+        {"t": "Abide with Me!", "a": "Hymn"},
+        {"t": "Where Can I Turn for Peace?", "a": "Hymn"},
+        {"t": "Be Still, My Soul", "a": "Hymn"},
+        {"t": "I Know That My Redeemer Lives", "a": "Hymn"},
+        {"t": "Families Can Be Together Forever", "a": "Hymn"},
+        {"t": "Come, Come, Ye Saints", "a": "Hymn"},
+        {"t": "My Redeemer Lives", "a": "Hymn"},
+        {"t": "Behold the Wounds in Jesus' Hands", "a": "Hymn"},
+        {"t": "Consider the Lilies", "a": "Roger Hoffman"},
+        {"t": "Homeward Bound", "a": "Marta Keen"},
+        {"t": "Going Home", "a": "Antonín Dvořák"},
+        {"t": "Pie Jesu", "a": "Gabriel Fauré"},
+        {"t": "In paradisum (Requiem)", "a": "Gabriel Fauré"},
+        {"t": "Lacrimosa (Requiem)", "a": "W. A. Mozart"},
+        {"t": "It Is Well with My Soul", "a": "Horatio Spafford"},
+        {"t": "I Will Rise", "a": "Chris Tomlin"},
+        {"t": "Homesick", "a": "MercyMe"},
+        {"t": "See You Again", "a": "Carrie Underwood"}
+      ]
+    },
+    {
+      "key": "pioneer",
+      "title": "Pioneer Heritage",
+      "blurb": "Handcarts, the trail, the valley.",
+      "cover": "music-pioneer",
+      "tracks": [
+        {"t": "Come, Come, Ye Saints", "a": "Hymn"},
+        {"t": "They, the Builders of the Nation", "a": "Hymn"},
+        {"t": "Carry On", "a": "Hymn"},
+        {"t": "Firm as the Mountains Around Us", "a": "Hymn"},
+        {"t": "For the Strength of the Hills", "a": "Hymn"},
+        {"t": "Our Mountain Home So Dear", "a": "Hymn"},
+        {"t": "Faith in Every Footstep", "a": "Hymn"},
+        {"t": "Pioneer Children Sang As They Walked", "a": "Primary"},
+        {"t": "To Be a Pioneer", "a": "Primary"},
+        {"t": "Whenever I Think about Pioneers", "a": "Primary"},
+        {"t": "Little Pioneer Children", "a": "Primary"},
+        {"t": "The Handcart Song", "a": "Pioneer song"},
+        {"t": "Faith in Every Footstep (Choir)", "a": "K. Newell Dayley"},
+        {"t": "All Is Well (Come, Come, Ye Saints)", "a": "Tabernacle Choir at Temple Square"},
+        {"t": "Shenandoah", "a": "American folk song"},
+        {"t": "Simple Gifts", "a": "Shaker song"},
+        {"t": "Wayfaring Stranger", "a": "American folk song"}
+      ]
+    },
+    {
+      "key": "choir",
+      "title": "Choir Classics",
+      "blurb": "The big, beautiful ones.",
+      "cover": "music-choir",
+      "tracks": [
+        {"t": "Hallelujah (Messiah)", "a": "G. F. Handel"},
+        {"t": "The Spirit of God", "a": "Hymn"},
+        {"t": "Come, Thou Fount of Every Blessing", "a": "Hymn"},
+        {"t": "Battle Hymn of the Republic", "a": "Tabernacle Choir at Temple Square"},
+        {"t": "O Divine Redeemer", "a": "Charles Gounod"},
+        {"t": "Betelehemu", "a": "Nigerian carol"},
+        {"t": "Consider the Lilies", "a": "Roger Hoffman"},
+        {"t": "The Lord Bless You and Keep You", "a": "John Rutter"},
+        {"t": "For the Beauty of the Earth", "a": "John Rutter"},
+        {"t": "O Magnum Mysterium", "a": "Morten Lauridsen"},
+        {"t": "Ave Maria", "a": "Franz Biebl"},
+        {"t": "Sicut cervus", "a": "G. P. da Palestrina"},
+        {"t": "Miserere mei, Deus", "a": "Gregorio Allegri"},
+        {"t": "Spem in alium", "a": "Thomas Tallis"},
+        {"t": "Nearer, My God, to Thee (BYU Vocal Point)", "a": "BYU Vocal Point"},
+        {"t": "Requiem: Pie Jesu", "a": "Andrew Lloyd Webber"},
+        {"t": "The Ground (Sunrise Mass)", "a": "Ola Gjeilo"},
+        {"t": "Northern Lights", "a": "Ola Gjeilo"}
+      ]
+    },
+    {
+      "key": "faith",
+      "title": "Faith",
+      "blurb": "Believing, and choosing to keep believing.",
+      "cover": "music-faith",
+      "tracks": [
+        {"t": "I Believe in Christ", "a": "Hymn"},
+        {"t": "How Firm a Foundation", "a": "Hymn"},
+        {"t": "Testimony", "a": "Hymn"},
+        {"t": "The Iron Rod", "a": "Hymn"},
+        {"t": "I Know That My Redeemer Lives", "a": "Hymn"},
+        {"t": "Lead, Kindly Light", "a": "Hymn"},
+        {"t": "Guide Us, O Thou Great Jehovah", "a": "Hymn"},
+        {"t": "A Mighty Fortress Is Our God", "a": "Hymn"},
+        {"t": "I Will Walk with Jesus", "a": "Hymn"},
+        {"t": "Faith", "a": "Primary"},
+        {"t": "I Know My Father Lives", "a": "Primary"},
+        {"t": "Search, Ponder, and Pray", "a": "Primary"},
+        {"t": "Oceans (Where Feet May Fail)", "a": "Hillsong United"},
+        {"t": "Build My Life", "a": "Housefires"},
+        {"t": "Trust in You", "a": "Lauren Daigle"},
+        {"t": "Blessed Assurance", "a": "Fanny Crosby"},
+        {"t": "Great Is Thy Faithfulness", "a": "Chisholm & Runyan"},
+        {"t": "Waymaker", "a": "Leeland"},
+        {"t": "Even If", "a": "MercyMe"},
+        {"t": "Believe for It", "a": "CeCe Winans"}
       ]
     },
     {
@@ -202,11 +556,23 @@ services. `cover` names a file in `covers/`.
         {"t": "He Is Born, the Divine Christ Child", "a": "Hymn"},
         {"t": "Still, Still, Still", "a": "Hymn"},
         {"t": "What Child Is This?", "a": "Hymn"},
+        {"t": "Once in Royal David's City", "a": "Hymn"},
+        {"t": "It Came upon the Midnight Clear", "a": "Hymn"},
+        {"t": "The First Noel", "a": "Hymn"},
+        {"t": "Angels We Have Heard on High", "a": "Hymn"},
+        {"t": "Samuel Tells of the Baby Jesus", "a": "Primary"},
+        {"t": "Stars Were Gleaming", "a": "Primary"},
+        {"t": "The Nativity Song", "a": "Primary"},
         {"t": "O Holy Night", "a": "Adolphe Adam"},
         {"t": "O Come, O Come, Emmanuel", "a": "Plainsong"},
         {"t": "In the Bleak Midwinter", "a": "Gustav Holst"},
         {"t": "Mary, Did You Know?", "a": "Mark Lowry & Buddy Greene"},
-        {"t": "Breath of Heaven (Mary's Song)", "a": "Amy Grant"}
+        {"t": "Breath of Heaven (Mary's Song)", "a": "Amy Grant"},
+        {"t": "Carol of the Bells", "a": "Mykola Leontovych"},
+        {"t": "Gesù bambino", "a": "Pietro Yon"},
+        {"t": "Betelehemu", "a": "Nigerian carol"},
+        {"t": "Candlelight Carol", "a": "John Rutter"},
+        {"t": "Little Drummer Boy", "a": "Katherine K. Davis"}
       ]
     },
     {
@@ -224,10 +590,18 @@ services. `cover` names a file in `covers/`.
         {"t": "That Easter Morn", "a": "Hymn"},
         {"t": "My Redeemer Lives", "a": "Hymn"},
         {"t": "Hail the Day That Sees Him Rise", "a": "Hymn"},
+        {"t": "Jesus Has Risen", "a": "Primary"},
+        {"t": "Did Jesus Really Live Again?", "a": "Primary"},
+        {"t": "Easter Hosanna", "a": "Primary"},
         {"t": "Were You There?", "a": "Spiritual"},
         {"t": "I Know That My Redeemer Liveth", "a": "G. F. Handel"},
         {"t": "Because He Lives", "a": "Bill & Gloria Gaither"},
-        {"t": "Easter Hymn (Cavalleria rusticana)", "a": "Pietro Mascagni"}
+        {"t": "Easter Hymn (Cavalleria rusticana)", "a": "Pietro Mascagni"},
+        {"t": "Living Hope", "a": "Phil Wickham"},
+        {"t": "Glorious Day", "a": "Passion"},
+        {"t": "Resurrection Power", "a": "Chris Tomlin"},
+        {"t": "Lamb of God: Gloria", "a": "Rob Gardner"},
+        {"t": "Christ Is Risen", "a": "Matt Maher"}
       ]
     }
   ]
