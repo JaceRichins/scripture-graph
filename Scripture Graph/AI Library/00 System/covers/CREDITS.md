@@ -49,3 +49,14 @@ Public-domain works from Wikimedia Commons, resized to 520 px for the Library sh
 - **music-christmas** — Gerard van Honthorst - Adoration of the Shepherds (1622).jpg (Gerard van Honthorst; public domain) — https://commons.wikimedia.org/wiki/File%3AGerard%20van%20Honthorst%20-%20Adoration%20of%20the%20Shepherds%20%281622%29.jpg
 - **music-easter** — The Resurrection by Carl Heinrich Bloch, 1881.jpg (Carl Bloch; public domain) — https://commons.wikimedia.org/wiki/File%3AThe%20Resurrection%20by%20Carl%20Heinrich%20Bloch%2C%201881.jpg
 - **hymnbook** — Bay Psalm Book title page.jpg (Stephen Day (dated 1640); public domain) — https://commons.wikimedia.org/wiki/File%3ABay%20Psalm%20Book%20title%20page.jpg
+- **music-primary** — Cranach the Elder Christ blessing the children.jpg (Lucas Cranach the Elder; public domain) — https://commons.wikimedia.org/wiki/File%3ACranach%20the%20Elder%20Christ%20blessing%20the%20children.jpg
+- **music-morning** — Frederic Church - The Cordilleras, Sunrise.jpg (Frederic Edwin Church; public domain) — https://commons.wikimedia.org/wiki/File%3AFrederic%20Church%20-%20The%20Cordilleras%2C%20Sunrise.jpg
+- **music-evening** — VanGogh-starry night ballance1.jpg (Vincent van Gogh; public domain) — https://commons.wikimedia.org/wiki/File%3AVanGogh-starry%20night%20ballance1.jpg
+- **music-temple** — Mormon Temple Annex Salt Lake..jpg (Charles Roscoe Savage; public domain) — https://commons.wikimedia.org/wiki/File%3AMormon%20Temple%20Annex%20Salt%20Lake..jpg
+- **music-missionary** — Bloch-SermonOnTheMount.jpg (Carl Bloch; public domain) — https://commons.wikimedia.org/wiki/File%3ABloch-SermonOnTheMount.jpg
+- **music-prayer** — Albrecht Dürer - Praying Hands, 1508 - Google Art Project.jpg (Albrecht Dürer; public domain) — https://commons.wikimedia.org/wiki/File%3AAlbrecht%20D%C3%BCrer%20-%20Praying%20Hands%2C%201508%20-%20Google%20Art%20Project.jpg
+- **music-grief** — Antiveduto Gramatica - Mary Magdalene at the Tomb - WGA10352.jpg (Antiveduto Grammatica; public domain) — https://commons.wikimedia.org/wiki/File%3AAntiveduto%20Gramatica%20-%20Mary%20Magdalene%20at%20the%20Tomb%20-%20WGA10352.jpg
+- **music-pioneer** — Charles-Philogène Tschaggeny - The covered wagon.jpg (Charles Tschaggeny; public domain) — https://commons.wikimedia.org/wiki/File%3ACharles-Philog%C3%A8ne%20Tschaggeny%20-%20The%20covered%20wagon.jpg
+- **music-choir** — Tabernacle Choir, Llandovery (1898) NLW3361734.jpg (Thomas, John,; public domain) — https://commons.wikimedia.org/wiki/File%3ATabernacle%20Choir%2C%20Llandovery%20%281898%29%20NLW3361734.jpg
+- **music-faith** — James Ensor - Christ Walking on the Water.jpg (James Ensor; public domain) — https://commons.wikimedia.org/wiki/File%3AJames%20Ensor%20-%20Christ%20Walking%20on%20the%20Water.jpg
+- **music-choir** — SL Tabernacle Choir 1914.jpg (Unknown authorUnknown author; public domain) — https://commons.wikimedia.org/wiki/File%3ASL%20Tabernacle%20Choir%201914.jpg
