@@ -157,7 +157,9 @@ def youtube_id_page(title: str, artist: str, prefer_choir: bool = False) -> str 
     return hits[0][0]
 
 
-_STOP = {"the", "a", "an", "of", "and", "in", "on", "to", "my", "o", "oh", "is", "for", "with", "thee", "thou", "thy", "no"}
+_STOP = {"the", "a", "an", "of", "and", "in", "on", "to", "my", "o", "oh", "is", "for", "with", "thee", "thou", "thy", "no",
+         "you", "were", "there", "did", "that", "this", "what", "when", "all", "our", "your", "his", "are", "was",
+         "will", "shall", "how", "who", "out", "not", "let", "come", "ye"}
 
 
 def _words(t: str) -> set[str]:
