@@ -25,6 +25,7 @@ import { DOC_VIEW, DocView, docKindFor } from "./reader/docView";
 import { Dock, isPhone, obsidianInternals } from "./study/dock";
 import { ReadingSettingsModal, applyReading } from "./study/readingSettings";
 import { VaultSync } from "./sync/vaultSync";
+import { runSetupLink } from "./social/setupLink";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SCENES, SceneManager } from "./study/scenes";
@@ -115,6 +116,11 @@ export default class SGPlugin extends Plugin {
     }));
     this.registerView(READER_VIEW, leaf =>
       new ReaderView(leaf, this.state, this.ann, (c, v, seed) => void this.openAsk(c, v, seed)));
+
+    // ---- one-tap family setup (obsidian://scripture-graph-setup?server=…&invite=…)
+    this.registerObsidianProtocolHandler("scripture-graph-setup", params => {
+      this.app.workspace.onLayoutReady(() => void runSetupLink(this, params).catch(e => new Notice(`Setup failed: ${(e as Error).message}`, 10000)));
+    });
 
     // ---- OpenRouter PKCE redirect (obsidian://scripture-graph-auth?code=…) --
     this.registerObsidianProtocolHandler("scripture-graph-auth", params => {

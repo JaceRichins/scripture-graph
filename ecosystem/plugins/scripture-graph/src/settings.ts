@@ -7,6 +7,7 @@ import { TIER_CANDIDATES, type Tier } from "@scripture-graph/core-sdk";
 import { SCENES } from "./study/scenes";
 import { BUILD } from "./build";
 import { SECTIONS, syncPrefs } from "./sync/vaultSync";
+import { SetupLinkModal, bestPublicUrl, buildSetupLink } from "./social/setupLink";
 
 export class SGSettingsTab extends PluginSettingTab {
   constructor(private p: SGPlugin) { super(p.app, p); }
@@ -322,6 +323,16 @@ export class SGSettingsTab extends PluginSettingTab {
       const me = await s.api.me() as unknown as { user: { role: string } };
       if (me.user.role !== "owner") return;
       el.createEl("h2", { text: "Owner admin" });
+      // the easy path: one link that joins, switches sync on and downloads
+      let who = "";
+      new Setting(el).setName("Setup link for a family member")
+        .setDesc("Text them one link. They install from inside Obsidian and tap it — no codes, no hidden folders.")
+        .addText(t => t.setPlaceholder("their first name (optional)").onChange(v => (who = v.trim())))
+        .addButton(b => b.setButtonText("Make link").setCta().onClick(async () => {
+          const inv = await s.api.createAccountInvite(1, 24 * 30);
+          const server = bestPublicUrl(this.p);
+          new SetupLinkModal(this.p, buildSetupLink(server, inv.code, who || undefined), server, inv.code, who || "a family member").open();
+        }));
       new Setting(el).setName("New family account invite")
         .addButton(b => b.setButtonText("Create invite").onClick(async () => {
           const inv = await s.api.createAccountInvite(1, 24 * 30);

@@ -92,6 +92,25 @@ cd "../../.." && git add <the files you changed> && git commit && git push origi
 Copy to **both**. The vault copy is the one that reaches Jace when he is
 away from the house; the LAN copy is the one that updates instantly at home.
 
+## The third channel: GitHub release (phones install from inside Obsidian)
+
+Family phones install the plugin through BRAT ("Add beta plugin" →
+`JaceRichins/scripture-graph`), which pulls the **latest GitHub release**.
+The release tag is the manifest version, the assets are the three plugin
+files. Publish it right after the two copies above:
+
+```bash
+cd ecosystem/plugins/scripture-graph && npm run release:github
+```
+
+Needs `gh auth login` once on the laptop. Without a release for the new
+version BRAT keeps serving the previous one; the two copies above still
+update every device that is already installed, so a missed release only
+affects *new* installs. The family setup page (`<server>/setup?invite=…`,
+made by Settings → Owner admin → "Setup link for a family member") walks
+a new phone through BRAT and then hands the invite to the plugin via
+`obsidian://scripture-graph-setup`.
+
 ## Why the bump matters
 
 Obsidian caches `manifest.json` at load. The plugin's own update logic —

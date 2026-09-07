@@ -2495,3 +2495,4 @@ body.sg-read-wide .sg-doc-page { max-width: 100% !important; }
   .sg-nav-cover-photo, .sg-dock-slot, .sg-dock-round, .sg-tl-svg { animation: none !important; transition: none !important; }
 }
 .sg-sync-status { margin: 0 0 10px; font-variant-numeric: tabular-nums; }
+.sg-setup-msg { width: 100%; font: 14px/1.45 var(--font-monospace); resize: vertical; }

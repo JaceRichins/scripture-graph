@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "build": "node esbuild.config.mjs",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "release:github": "node scripts/gh-release.mjs"
   },
   "dependencies": {
     "@scripture-graph/core-sdk": "*"

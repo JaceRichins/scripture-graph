@@ -2,6 +2,7 @@
  * SECURITY CORE: every annotation read is scoped IN SQL — private rows only
  * to their author, group rows only to members, tombstones included so
  * clients converge. Nothing relies on UI hiding (§41). */
+import { setupHtml } from "./setupPage";
 import Fastify, { type FastifyInstance, type FastifyReply, type FastifyRequest } from "fastify";
 import { randomUUID } from "node:crypto";
 import { existsSync, readFileSync } from "node:fs";
@@ -423,6 +424,14 @@ export function buildApp({ db, trustProxy }: BuildOpts): FastifyInstance {
     for (const u of (process.env["SG_LAN_URL"] ?? "http://192.168.1.59:8930").split(",")) if (u.trim()) out.add(u.trim());
     return [...out];
   };
+  // the family setup page (invite rides in the query string, read client-side)
+  app.get("/setup", async (req, reply) => {
+    if (!limiter.allow(`ip:${req.ip}:setup`, 60, 60_000)) return reply.code(429).send({ error: "rate limited" });
+    reply.header("content-type", "text/html; charset=utf-8");
+    reply.header("cache-control", "no-store");
+    return setupHtml();
+  });
+
   // unauthenticated on purpose: a device that only knows one address must be
   // able to ask "where else are you?" before it can log in
   app.get("/where", async (req, reply) => {
