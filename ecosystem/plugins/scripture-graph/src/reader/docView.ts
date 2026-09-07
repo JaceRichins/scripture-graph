@@ -26,6 +26,7 @@ const DOC_KINDS: { prefix: string; eyebrow: string; moc: string }[] = [
   { prefix: `${LIBRARY_PREFIX}10 General Conference/`, eyebrow: "General Conference", moc: "General Conference.md" },
   { prefix: `${LIBRARY_PREFIX}65 Secondary Sources/`, eyebrow: "Podcasts & talks", moc: "Secondary Sources.md" },
   { prefix: `${LIBRARY_PREFIX}30 Church History/`, eyebrow: "Church History", moc: "Church History.md" },
+  { prefix: `${LIBRARY_PREFIX}07 Come Follow Me/`, eyebrow: "Come, Follow Me", moc: "Come Follow Me.md" },
 ];
 
 export function docKindFor(path: string): { eyebrow: string } | null {

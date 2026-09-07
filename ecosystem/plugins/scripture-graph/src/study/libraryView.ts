@@ -7,7 +7,7 @@
  * puts above each one. The Scriptures cover is the photo's black jacket
  * with the four works gold-stamped down its front; it drills to the five
  * volume covers, then books, then the chapter grid — GL's exact rhythm. */
-import { ItemView, Platform, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
+import { ItemView, Notice, Platform, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
 import { BOOKS, type BookInfo } from "@scripture-graph/core-sdk";
 import { SGState } from "../state";
 import { historyBack, recordHistory, refreshNavArrows } from "./leafNav";
@@ -56,6 +56,9 @@ function coverKey(name: string): string {
 const CFM_PATH = "AI Library/00 System/Come Follow Me.md";
 interface CfmWeek { week: string; start: string; end: string; dates: string; block: string;
   chapters: string[]; uri: string; page: string | null }
+
+/** where the engine files a year's lessons */
+const CFM_FOLDER = `${LIBRARY_PREFIX}07 Come Follow Me`;
 
 /** the hymnbook index the engine writes (titles, numbers, the Church's recordings) */
 const HYMNS_PATH = "AI Library/00 System/Hymns.md";
@@ -269,6 +272,17 @@ export class SGLibraryView extends ItemView {
 
   // ------------------------------------------------------- come, follow me
 
+  /** the lesson page by its full path; never a bare title (which makes
+   * Obsidian create an empty note when the page is not on this device) */
+  private openLesson(year: number, page: string): void {
+    const path = `${CFM_FOLDER}/${year}/${page}.md`;
+    const f = this.s.app.vault.getAbstractFileByPath(path);
+    if (f instanceof TFile) { this.host.openPath(path); return; }
+    new Notice("This week's lesson is still downloading to this device — syncing now.", 6000);
+    (this.s.app as unknown as { commands?: { executeCommandById?: (id: string) => void } })
+      .commands?.executeCommandById?.("scripture-graph:vault-sync-now");
+  }
+
   private async renderThisWeek(slot: HTMLElement): Promise<void> {
     const f = this.app.vault.getAbstractFileByPath(CFM_PATH);
     if (!(f instanceof TFile)) return;
@@ -294,7 +308,7 @@ export class SGLibraryView extends ItemView {
     const row = card.createDiv({ cls: "sg-cfm-actions" });
     if (wk.page) {
       const open = row.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" });
-      open.onclick = () => this.host.openPath(wk.page!);
+      open.onclick = () => this.openLesson(data!.year, wk.page!);
     } else {
       row.createDiv({ cls: "sg-nav-gsub", text: "The lesson page arrives with tonight's crawl." });
     }
@@ -317,7 +331,7 @@ export class SGLibraryView extends ItemView {
         b.onclick = () => this.host.openChapter(ch);
       }
       const r2 = c2.createDiv({ cls: "sg-cfm-actions" });
-      if (w.page) { const o = r2.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" }); o.onclick = () => this.host.openPath(w.page!); }
+      if (w.page) { const o = r2.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" }); o.onclick = () => this.openLesson(data!.year, w.page!); }
       const n2 = r2.createDiv({ cls: "sg-cfm-nav" });
       const p2 = n2.createEl("button", { cls: "sg-insight-step", text: "‹" }); p2.onclick = () => show(i - 1);
       const x2 = n2.createEl("button", { cls: "sg-insight-step", text: "›" }); x2.onclick = () => show(i + 1);
