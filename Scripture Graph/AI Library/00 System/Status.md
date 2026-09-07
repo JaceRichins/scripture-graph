@@ -6,16 +6,16 @@ content_type: report
 
 # Status
 
-*Generated 2026-09-07T09:18:08Z.*
+*Generated 2026-09-07T10:23:37Z.*
 
-- Engine: v0.1.0 · corpus **v18** · bootstrap **STEADY_STATE** · git `d5906fab`
+- Engine: v0.1.0 · corpus **v18** · bootstrap **STEADY_STATE** · git `4c77be60`
 - Scripture: 88 books, 1584 chapters, 42027 verses
 - Graph: 108 topics · 243 people · 96 places · 1775 evidence notes · 90 questions
 - Personal notes indexed: 3174
 - Documents: 4926 (1695 conference talks)
 - Index: 388409 chunks · embeddings: hash/hash-ngram-v1 (385236)
-- Work queue: {'pending': 726}
-- **Today:** 9 study ticks · 46 research jobs applied · 2346 new claims
+- Work queue: {'pending': 722}
+- **Today:** 10 study ticks · 50 research jobs applied · 2492 new claims
 - Secondary sources: 1 approved · 661 episodes tracked · 5 ingested
 - AI providers: claude: ready, codex: ready
 
@@ -44,8 +44,8 @@ Overall: mean **84.9**, stddev 8.37, min 71.7
 
 ## Recent runs
 
-- nightly: 2026-09-07T08:46:48Z → … (running)
+- study: 2026-09-07T09:45:02Z → … (running)
+- nightly: 2026-09-07T08:46:48Z → 2026-09-07T09:18:15Z (ok)
 - study: 2026-09-07T08:15:15Z → 2026-09-07T08:46:45Z (ok)
 - frequent: 2026-09-07T08:15:02Z → 2026-09-07T08:15:12Z (ok)
 - study: 2026-09-07T07:15:02Z → 2026-09-07T07:45:05Z (ok)
-- study: 2026-09-07T06:15:02Z → 2026-09-07T06:46:23Z (ok)
