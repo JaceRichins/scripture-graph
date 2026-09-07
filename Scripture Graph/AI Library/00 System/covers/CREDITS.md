@@ -60,3 +60,4 @@ Public-domain works from Wikimedia Commons, resized to 520 px for the Library sh
 - **music-choir** — Tabernacle Choir, Llandovery (1898) NLW3361734.jpg (Thomas, John,; public domain) — https://commons.wikimedia.org/wiki/File%3ATabernacle%20Choir%2C%20Llandovery%20%281898%29%20NLW3361734.jpg
 - **music-faith** — James Ensor - Christ Walking on the Water.jpg (James Ensor; public domain) — https://commons.wikimedia.org/wiki/File%3AJames%20Ensor%20-%20Christ%20Walking%20on%20the%20Water.jpg
 - **music-choir** — SL Tabernacle Choir 1914.jpg (Unknown authorUnknown author; public domain) — https://commons.wikimedia.org/wiki/File%3ASL%20Tabernacle%20Choir%201914.jpg
+- **music-wonder** — Pillars of creation 2014 HST WFC3-UVIS full-res denoised.jpg (NASA, ESA, and the Hubble Heritage Team (STScI/AURA); public domain) — https://commons.wikimedia.org/wiki/File%3APillars%20of%20creation%202014%20HST%20WFC3-UVIS%20full-res%20denoised.jpg
