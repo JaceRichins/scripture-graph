@@ -31,15 +31,18 @@ export class ApiClient {
 
   setCandidates(urls: string[]) { this.candidates = urls.filter(u => u && u !== this.baseUrl); }
 
-  private async fetchWithFallback(path: string, init: RequestInit): Promise<Response> {
+  private async fetchWithFallback(path: string, init: { method: string; headers: Record<string, string>; body?: string })
+    : Promise<{ status: number; json(): Promise<unknown> }> {
     const tried = [this.baseUrl, ...this.candidates];
     let lastErr: unknown = null;
     for (const base of tried) {
       try {
-        const ctl = typeof AbortController !== "undefined" ? new AbortController() : null;
-        const timer = ctl ? setTimeout(() => ctl.abort(), base === this.baseUrl ? 6000 : 8000) : null;
-        const res = await this.fetchFn(base.replace(/\/$/, "") + path, ctl ? { ...init, signal: ctl.signal } : init);
-        if (timer) clearTimeout(timer);
+        // a dead address must fail fast, or the fallback is no faster than a hang
+        const ms = base === this.baseUrl ? 6000 : 8000;
+        const res = await Promise.race([
+          this.fetchFn(base.replace(/\/$/, "") + path, init),
+          new Promise<never>((_, rej) => setTimeout(() => rej(new Error("timeout")), ms)),
+        ]);
         if (base !== this.baseUrl) { this.baseUrl = base; this.onSwitched?.(base); }
         return res;
       } catch (e) {

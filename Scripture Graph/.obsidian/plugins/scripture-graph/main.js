@@ -1,4 +1,4 @@
-/* scripture-graph v0.71.2 build b43dcefc 2026-09-07T01:02:16Z */
+/* scripture-graph v0.71.3 build 1285c6ff 2026-09-07T01:03:18Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.71.2", sha: "b43dcefc", at: "2026-09-07T01:02:16Z" };
+    define_SG_BUILD_default = { version: "0.71.3", sha: "1285c6ff", at: "2026-09-07T01:03:18Z" };
   }
 });
 
@@ -5466,10 +5466,11 @@ var init_api = __esm({
         let lastErr = null;
         for (const base of tried) {
           try {
-            const ctl = typeof AbortController !== "undefined" ? new AbortController() : null;
-            const timer2 = ctl ? setTimeout(() => ctl.abort(), base === this.baseUrl ? 6e3 : 8e3) : null;
-            const res = await this.fetchFn(base.replace(/\/$/, "") + path, ctl ? { ...init, signal: ctl.signal } : init);
-            if (timer2) clearTimeout(timer2);
+            const ms = base === this.baseUrl ? 6e3 : 8e3;
+            const res = await Promise.race([
+              this.fetchFn(base.replace(/\/$/, "") + path, init),
+              new Promise((_, rej) => setTimeout(() => rej(new Error("timeout")), ms))
+            ]);
             if (base !== this.baseUrl) {
               this.baseUrl = base;
               this.onSwitched?.(base);
