@@ -7,6 +7,8 @@ Set-Location $here
 
 $env:SG_HOST = "0.0.0.0"
 $env:SG_PORT = "8930"
+# behind Tailscale Funnel: the real client IP is in X-Forwarded-For
+$env:SG_TRUST_PROXY = "1"
 # DB defaults to data\scripturegraph-social.sqlite3 (gitignored)
 # the vault itself, for /vault/* (every device syncs from here; the
 # owner's Library/ is mirrored back to disk for the engine)

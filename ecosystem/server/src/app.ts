@@ -42,10 +42,12 @@ const VISIBLE_SQL = `(
 
 export interface BuildOpts { db: DB; trustProxy?: boolean }
 
-export function buildApp({ db }: BuildOpts): FastifyInstance {
+export function buildApp({ db, trustProxy }: BuildOpts): FastifyInstance {
   // 8 MB: a personal-notes push can carry a long page, a batch request a
-  // long list of paths
-  const app = Fastify({ logger: false, bodyLimit: 8_000_000 });
+  // long list of paths. trustProxy: behind Tailscale Funnel / Cloudflare
+  // every phone arrives from the proxy's address; the real client IP rides
+  // X-Forwarded-For, and the per-IP limits must see it.
+  const app = Fastify({ logger: false, bodyLimit: 8_000_000, trustProxy: !!trustProxy });
   ensurePersonalTables(db);
   const limiter = new RateLimiter();
 

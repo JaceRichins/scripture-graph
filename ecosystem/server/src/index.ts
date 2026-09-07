@@ -6,7 +6,7 @@ const PORT = Number(process.env["SG_PORT"] ?? 8930);
 const HOST = process.env["SG_HOST"] ?? "127.0.0.1";
 
 const db = openDb(DB_PATH);
-const app = buildApp({ db });
+const app = buildApp({ db, trustProxy: process.env["SG_TRUST_PROXY"] === "1" });
 
 app.listen({ port: PORT, host: HOST }).then(() => {
   // eslint-disable-next-line no-console
