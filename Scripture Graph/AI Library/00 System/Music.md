@@ -357,7 +357,7 @@ a search in the music app. `cover` names a file in `covers/`.
       "key": "temple",
       "title": "Temple",
       "blurb": "Covenant, holiness, the house of the Lord.",
-      "cover": "music-temple",
+      "cover": "saints-volume-2",
       "tracks": [
         {"t": "I Love to See the Temple", "a": "Primary"},
         {"t": "Holy Places", "a": "Hymn"},
