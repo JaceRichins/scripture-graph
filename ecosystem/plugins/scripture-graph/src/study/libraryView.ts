@@ -9,7 +9,7 @@
  * volume covers, then books, then the chapter grid — GL's exact rhythm. */
 import { ItemView, Notice, Platform, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
 import { BOOKS, type BookInfo } from "@scripture-graph/core-sdk";
-import { SGState } from "../state";
+import { LIBRARY_PREFIX, SGState } from "../state";
 import { historyBack, recordHistory, refreshNavArrows } from "./leafNav";
 import { GRAPH_PRESETS, openGraphPreset } from "./graphPresets";
 import { cascade, iconHue, navIcon, type NavIconName } from "./navIcons";

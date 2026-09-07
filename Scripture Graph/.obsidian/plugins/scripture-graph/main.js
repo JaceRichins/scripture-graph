@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.1 build a394a864 2026-09-07T14:32:07Z */
+/* scripture-graph v0.72.2 build ec356dcd 2026-09-07T14:32:47Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.1", sha: "a394a864", at: "2026-09-07T14:32:07Z" };
+    define_SG_BUILD_default = { version: "0.72.2", sha: "ec356dcd", at: "2026-09-07T14:32:47Z" };
   }
 });
 
@@ -11651,7 +11651,7 @@ var import_obsidian = require("obsidian");
 init_src();
 var CANONICAL_PREFIX = "AI Library/01 Scriptures/Canonical/";
 var ANNOTATED_PREFIX = "AI Library/01 Scriptures/Annotated/";
-var LIBRARY_PREFIX2 = "AI Library/";
+var LIBRARY_PREFIX = "AI Library/";
 var PERSONAL_PREFIX = "Library/";
 var DEFAULT_SHARED = {
   serverUrl: "http://127.0.0.1:8930",
@@ -12463,7 +12463,7 @@ function buildSearchIndex(app, onProgress) {
     }
     const pages = [];
     for (const f of all) {
-      if (!f.path.startsWith(LIBRARY_PREFIX2)) continue;
+      if (!f.path.startsWith(LIBRARY_PREFIX)) continue;
       if (f.path.includes("01 Scriptures/")) continue;
       if (f.basename.startsWith("_")) continue;
       const fm = app.metadataCache.getFileCache(f)?.frontmatter;
@@ -13678,7 +13678,7 @@ function sheetTargetFor(app, linktext, sourcePath) {
   if (!base) return null;
   const dest = app.metadataCache.getFirstLinkpathDest(base, sourcePath);
   if (!dest) return null;
-  if (!dest.path.startsWith(LIBRARY_PREFIX2)) return null;
+  if (!dest.path.startsWith(LIBRARY_PREFIX)) return null;
   if (NAVIGATE_PREFIXES.some((p) => dest.path.startsWith(p))) return null;
   return dest;
 }
@@ -14787,7 +14787,7 @@ ${secs[k]}`).join("\n\n");
         seen.add(l.target);
         if (++n > 6) break;
         const f = fileByTitle(s, l.target);
-        if (!f || !f.path.startsWith(LIBRARY_PREFIX2)) continue;
+        if (!f || !f.path.startsWith(LIBRARY_PREFIX)) continue;
         const { body: rb } = parseFrontmatter(await read(s, f));
         const rSecs = sections(rb);
         const summary = rSecs["summary"] ?? rSecs["overview"] ?? rb.slice(0, 1500);
@@ -14819,7 +14819,7 @@ async function vaultSearch(s, question, items) {
   }
   const terms = question.toLowerCase().split(/[^a-z0-9']+/).filter((w) => w.length > 3);
   if (!terms.length) return;
-  const files = s.app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(LIBRARY_PREFIX2));
+  const files = s.app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(LIBRARY_PREFIX));
   const scored = [];
   for (const f of files) {
     const name = f.basename.toLowerCase();
@@ -15207,11 +15207,11 @@ init_leafNav();
 init_trace();
 var DOC_VIEW = "scripture-graph-doc";
 var DOC_KINDS = [
-  { prefix: `${LIBRARY_PREFIX2}50 Questions/`, eyebrow: "Hard question", moc: "Questions.md" },
-  { prefix: `${LIBRARY_PREFIX2}10 General Conference/`, eyebrow: "General Conference", moc: "General Conference.md" },
-  { prefix: `${LIBRARY_PREFIX2}65 Secondary Sources/`, eyebrow: "Podcasts & talks", moc: "Secondary Sources.md" },
-  { prefix: `${LIBRARY_PREFIX2}30 Church History/`, eyebrow: "Church History", moc: "Church History.md" },
-  { prefix: `${LIBRARY_PREFIX2}07 Come Follow Me/`, eyebrow: "Come, Follow Me", moc: "Come Follow Me.md" }
+  { prefix: `${LIBRARY_PREFIX}50 Questions/`, eyebrow: "Hard question", moc: "Questions.md" },
+  { prefix: `${LIBRARY_PREFIX}10 General Conference/`, eyebrow: "General Conference", moc: "General Conference.md" },
+  { prefix: `${LIBRARY_PREFIX}65 Secondary Sources/`, eyebrow: "Podcasts & talks", moc: "Secondary Sources.md" },
+  { prefix: `${LIBRARY_PREFIX}30 Church History/`, eyebrow: "Church History", moc: "Church History.md" },
+  { prefix: `${LIBRARY_PREFIX}07 Come Follow Me/`, eyebrow: "Come, Follow Me", moc: "Come Follow Me.md" }
 ];
 function docKindFor(path) {
   for (const k of DOC_KINDS) {
@@ -15432,7 +15432,7 @@ var DocView = class extends import_obsidian20.ItemView {
       void this.leaf.setViewState({ type: DOC_VIEW, state: { path: dest.path }, active: true });
       return;
     }
-    if (dest && dest.path.startsWith(LIBRARY_PREFIX2) && !href.includes("#^")) {
+    if (dest && dest.path.startsWith(LIBRARY_PREFIX) && !href.includes("#^")) {
       void this.app.workspace.openLinkText(href, file.path);
       return;
     }
@@ -18353,7 +18353,7 @@ var SGPlugin = class extends import_obsidian29.Plugin {
   bounceAiPage(f) {
     if (this.bouncing) return false;
     if (this.state.device.showAiLibrary) return false;
-    if (!f.path.startsWith(LIBRARY_PREFIX2)) return false;
+    if (!f.path.startsWith(LIBRARY_PREFIX)) return false;
     if (f.path.startsWith(CANONICAL_PREFIX) || f.path.startsWith(ANNOTATED_PREFIX)) return false;
     this.bouncing = true;
     const ret = this.lastReadingPath ? this.app.vault.getAbstractFileByPath(this.lastReadingPath) : null;
@@ -18397,7 +18397,7 @@ var SGPlugin = class extends import_obsidian29.Plugin {
   }
   /** The floating 📖 shows only while reading library/study pages. */
   updateNavFab(f) {
-    const on = !!f && (f.path.startsWith(PERSONAL_PREFIX) || f.path.startsWith(LIBRARY_PREFIX2));
+    const on = !!f && (f.path.startsWith(PERSONAL_PREFIX) || f.path.startsWith(LIBRARY_PREFIX));
     document.body.toggleClass("sg-fab-on", on);
   }
   /** In "match" mode the scene follows the chapter's own words.
@@ -18526,7 +18526,7 @@ ${text.trim()}
       if (!(view instanceof import_obsidian29.MarkdownView) || !view.file) continue;
       const path = view.file.path;
       const canonical = path.startsWith(CANONICAL_PREFIX);
-      const aiLibrary = path.startsWith(LIBRARY_PREFIX2);
+      const aiLibrary = path.startsWith(LIBRARY_PREFIX);
       const mobileStudyPage = import_obsidian29.Platform.isMobile && path.startsWith(PERSONAL_PREFIX) && path.endsWith(" - My Notes.md");
       if (!canonical && !mobileStudyPage && !(aiLibrary && this.state.settings.forceLibraryPreview)) continue;
       if (view.getMode() === "preview") continue;
