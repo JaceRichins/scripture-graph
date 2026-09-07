@@ -2,9 +2,10 @@
 ownership: system
 mutable: ai
 content_type: question
-status: queued
+status: developed
 scope: restoration
 sg-id: question:how-was-brigham-young-chosen-to-succeed-joseph-smith
+corpus_version_reviewed: 18
 ---
 
 # How was Brigham Young chosen to succeed Joseph Smith?
