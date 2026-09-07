@@ -405,6 +405,11 @@ def crawl_collection(ctx: Ctx, name: str, page_budget: int) -> dict:
         store_document(ctx, doc_id, spec["source"], spec["doc_type"], title, text,
                        url=f"https://www.churchofjesuschrist.org/study{uri}?lang=eng",
                        meta={"collection": name})
+        try:
+            from scripturegraph.corpus.glibmd import store_markdown
+            store_markdown(ctx, doc_id, body)      # headings + working links for the note
+        except Exception as e:  # noqa: BLE001 — the text is the record; Markdown is a courtesy
+            ctx.log.warn("glib.markdown_failed", doc_id=doc_id, error=str(e)[:160])
         stats["fetched"] += 1
     if not queue and not stats["budget_exhausted"]:
         ctx.meta_set(f"glib_complete:{name}", str(ctx.corpus_version()))
@@ -417,6 +422,7 @@ def write_collection_notes(ctx: Ctx, collection: str | None = None) -> int:
     vault; see SOURCE-POLICY — keep this vault private). Regenerable from the
     index at any time."""
     from scripturegraph.corpus.conference import MAX_NOTE_TEXT_BYTES
+    from scripturegraph.corpus.glibmd import get_markdown
     from scripturegraph.util import sanitize_filename, truncate
     from scripturegraph.vaultgen import md as mdkit
     from scripturegraph.vaultgen.generate import record_file
@@ -435,11 +441,15 @@ def write_collection_notes(ctx: Ctx, collection: str | None = None) -> int:
             if not chunks:
                 continue
             body = "\n\n".join(c["text"] for c in chunks)
+            md_body = get_markdown(ctx, row["doc_id"])
+            if md_body:
+                body = md_body
             title = sanitize_filename(f"{row['title']}{spec['suffix']}")
             relpath = f"{spec['folder']}/{title}.md"
             full = len(body.encode()) <= MAX_NOTE_TEXT_BYTES
+            label = spec.get("label") or name.replace("-", " ").title().replace("Cfm", "Come, Follow Me")
             lines = [f"# {row['title']}", "",
-                     f"*{name.replace('-', ' ').title()}* · [source]({row['url']})", "",
+                     f"*{label}* · [source]({row['url']})", "",
                      body if full else ("> " + truncate(body.replace(chr(10), ' '), 400)
                                         + "\n\n*(full text in the local index)*")]
             fm = {"ownership": "system", "mutable": "ai", "content_type": "reference",

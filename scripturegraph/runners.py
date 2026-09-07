@@ -245,6 +245,17 @@ def run_nightly(ctx: Ctx) -> dict:
                     ctx, int(ctx.c("acquisition.pages_per_night", 350)))
             except Exception as e:  # noqa: BLE001
                 ctx.log.warn("nightly.glib_failed", error=str(e)[:200])
+        if ctx.c("acquisition.gospel_library_markdown", True):
+            # pages crawled before Markdown was kept get it back, sixty a night
+            from scripturegraph.corpus.glibmd import refresh_markdown
+            from scripturegraph.corpus.glib import write_collection_notes
+            try:
+                st = refresh_markdown(ctx, "", int(ctx.c("acquisition.markdown_per_night", 60)))
+                if st.get("rendered"):
+                    write_collection_notes(ctx)
+                stats["gospel_library_markdown"] = st
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("nightly.glib_markdown_failed", error=str(e)[:200])
         if ctx.c("acquisition.come_follow_me", True):
             # the week index for the home card (the lessons ride the Gospel
             # Library crawl above)

@@ -516,7 +516,11 @@ def _cmd_fetch_locked(ctx, args, fetchers, glib, ensure_registry):
             if spec["priority"] > args.max_priority and not args.collection:
                 continue
             out[name] = glib.crawl_collection(ctx, name, budget)
-    if args.what in ("collections", "gospel-library", "all"):
+    if args.what in ("glib-markdown", "gospel-library", "all"):
+        # pages the index holds only as text get their headings and links back
+        from scripturegraph.corpus.glibmd import refresh_markdown
+        out["glib_markdown"] = refresh_markdown(ctx, args.prefix or "", args.limit or 120)
+    if args.what in ("collections", "glib-markdown", "gospel-library", "all"):
         out["collection_notes"] = glib.write_collection_notes(ctx)
     if args.what in ("od", "apparatus", "collections", "gospel-library", "all"):
         ctx.bump_corpus_version(f"gospel-library fetch: {args.what}")
@@ -748,7 +752,8 @@ def main(argv=None) -> int:
     sp = sub.add_parser("fetch", help="acquire corpora (conference API / Gospel Library / "
                                       "public-domain history / JSP records)")
     sp.add_argument("what", choices=["conference", "history", "jsp", "prophets", "hymns", "footnotes", "cfm",
-                                     "od", "apparatus", "collections", "gospel-library", "all"])
+                                     "od", "apparatus", "collections", "glib-markdown", "gospel-library", "all"])
+    sp.add_argument("--prefix", default="", help="glib-markdown: only pages under this Gospel Library uri")
     sp.add_argument("--from-year", type=int, default=2015)
     sp.add_argument("--to-year", type=int, default=2026)
     sp.add_argument("--limit", type=int, help="page cap for apparatus/collections")
