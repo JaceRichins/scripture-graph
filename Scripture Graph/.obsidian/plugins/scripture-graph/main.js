@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.3 build fa3ec415 2026-09-07T14:45:52Z */
+/* scripture-graph v0.72.4 build 65dc9b67 2026-09-07T15:18:30Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.3", sha: "fa3ec415", at: "2026-09-07T14:45:52Z" };
+    define_SG_BUILD_default = { version: "0.72.4", sha: "65dc9b67", at: "2026-09-07T15:18:30Z" };
   }
 });
 
