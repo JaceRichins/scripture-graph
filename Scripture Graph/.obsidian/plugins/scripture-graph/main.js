@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.4 build 65dc9b67 2026-09-07T15:18:30Z */
+/* scripture-graph v0.72.5 build 6c7de2e9 2026-09-07T15:21:31Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.4", sha: "65dc9b67", at: "2026-09-07T15:18:30Z" };
+    define_SG_BUILD_default = { version: "0.72.5", sha: "6c7de2e9", at: "2026-09-07T15:21:31Z" };
   }
 });
 
@@ -12977,17 +12977,17 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       const b = chips.createEl("button", { cls: "sg-cfm-chip", text: ch });
       b.onclick = () => this.host.openChapter(ch);
     }
-    const row = card.createDiv({ cls: "sg-cfm-actions" });
+    const idx = data.weeks.indexOf(wk);
+    const row = card.createDiv({ cls: "sg-insight-actions" });
+    const prev = row.createEl("button", { cls: "sg-insight-step", text: "\u2039" });
     if (wk.page) {
-      const open2 = row.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" });
+      const open2 = row.createEl("button", { cls: "sg-insight-read", text: "Open the lesson" });
       open2.onclick = () => this.openLesson(data.year, wk.page);
     } else {
-      row.createDiv({ cls: "sg-nav-gsub", text: "The lesson page arrives with tonight's crawl." });
+      row.createEl("button", { cls: "sg-insight-read", text: "Lesson arrives tonight", attr: { disabled: "" } });
     }
-    const idx = data.weeks.indexOf(wk);
-    const nav = row.createDiv({ cls: "sg-cfm-nav" });
-    const prev = nav.createEl("button", { cls: "sg-insight-step", text: "\u2039" });
-    const next = nav.createEl("button", { cls: "sg-insight-step", text: "\u203A" });
+    const next = row.createEl("button", { cls: "sg-insight-step", text: "\u203A" });
+    card.createDiv({ cls: "sg-insight-count", text: `Week ${idx + 1} of ${data.weeks.length}` });
     const show = (i) => {
       const w = data.weeks[i];
       if (!w) return;
@@ -13001,16 +13001,16 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
         const b = ch2.createEl("button", { cls: "sg-cfm-chip", text: ch });
         b.onclick = () => this.host.openChapter(ch);
       }
-      const r2 = c2.createDiv({ cls: "sg-cfm-actions" });
-      if (w.page) {
-        const o = r2.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" });
-        o.onclick = () => this.openLesson(data.year, w.page);
-      }
-      const n2 = r2.createDiv({ cls: "sg-cfm-nav" });
-      const p2 = n2.createEl("button", { cls: "sg-insight-step", text: "\u2039" });
+      const r2 = c2.createDiv({ cls: "sg-insight-actions" });
+      const p2 = r2.createEl("button", { cls: "sg-insight-step", text: "\u2039" });
       p2.onclick = () => show(i - 1);
-      const x22 = n2.createEl("button", { cls: "sg-insight-step", text: "\u203A" });
+      if (w.page) {
+        const o = r2.createEl("button", { cls: "sg-insight-read", text: "Open the lesson" });
+        o.onclick = () => this.openLesson(data.year, w.page);
+      } else r2.createEl("button", { cls: "sg-insight-read", text: "Lesson arrives tonight", attr: { disabled: "" } });
+      const x22 = r2.createEl("button", { cls: "sg-insight-step", text: "\u203A" });
       x22.onclick = () => show(i + 1);
+      c2.createDiv({ cls: "sg-insight-count", text: `Week ${i + 1} of ${data.weeks.length}` });
     };
     prev.onclick = () => show(idx - 1);
     next.onclick = () => show(idx + 1);

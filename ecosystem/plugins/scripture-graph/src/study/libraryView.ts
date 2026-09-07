@@ -305,17 +305,18 @@ export class SGLibraryView extends ItemView {
       const b = chips.createEl("button", { cls: "sg-cfm-chip", text: ch });
       b.onclick = () => this.host.openChapter(ch);
     }
-    const row = card.createDiv({ cls: "sg-cfm-actions" });
+    const idx = data.weeks.indexOf(wk);
+    // the same row as the insight card below it: ‹ [Open the lesson] ›
+    const row = card.createDiv({ cls: "sg-insight-actions" });
+    const prev = row.createEl("button", { cls: "sg-insight-step", text: "‹" });
     if (wk.page) {
-      const open = row.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" });
+      const open = row.createEl("button", { cls: "sg-insight-read", text: "Open the lesson" });
       open.onclick = () => this.openLesson(data!.year, wk.page!);
     } else {
-      row.createDiv({ cls: "sg-nav-gsub", text: "The lesson page arrives with tonight's crawl." });
+      row.createEl("button", { cls: "sg-insight-read", text: "Lesson arrives tonight", attr: { disabled: "" } });
     }
-    const idx = data.weeks.indexOf(wk);
-    const nav = row.createDiv({ cls: "sg-cfm-nav" });
-    const prev = nav.createEl("button", { cls: "sg-insight-step", text: "‹" });
-    const next = nav.createEl("button", { cls: "sg-insight-step", text: "›" });
+    const next = row.createEl("button", { cls: "sg-insight-step", text: "›" });
+    card.createDiv({ cls: "sg-insight-count", text: `Week ${idx + 1} of ${data.weeks.length}` });
     const show = (i: number) => {
       const w = data!.weeks[i];
       if (!w) return;
@@ -330,11 +331,12 @@ export class SGLibraryView extends ItemView {
         const b = ch2.createEl("button", { cls: "sg-cfm-chip", text: ch });
         b.onclick = () => this.host.openChapter(ch);
       }
-      const r2 = c2.createDiv({ cls: "sg-cfm-actions" });
-      if (w.page) { const o = r2.createEl("button", { cls: "sg-cfm-open", text: "Open the lesson" }); o.onclick = () => this.openLesson(data!.year, w.page!); }
-      const n2 = r2.createDiv({ cls: "sg-cfm-nav" });
-      const p2 = n2.createEl("button", { cls: "sg-insight-step", text: "‹" }); p2.onclick = () => show(i - 1);
-      const x2 = n2.createEl("button", { cls: "sg-insight-step", text: "›" }); x2.onclick = () => show(i + 1);
+      const r2 = c2.createDiv({ cls: "sg-insight-actions" });
+      const p2 = r2.createEl("button", { cls: "sg-insight-step", text: "‹" }); p2.onclick = () => show(i - 1);
+      if (w.page) { const o = r2.createEl("button", { cls: "sg-insight-read", text: "Open the lesson" }); o.onclick = () => this.openLesson(data!.year, w.page!); }
+      else r2.createEl("button", { cls: "sg-insight-read", text: "Lesson arrives tonight", attr: { disabled: "" } });
+      const x2 = r2.createEl("button", { cls: "sg-insight-step", text: "›" }); x2.onclick = () => show(i + 1);
+      c2.createDiv({ cls: "sg-insight-count", text: `Week ${i + 1} of ${data!.weeks.length}` });
     };
     prev.onclick = () => show(idx - 1);
     next.onclick = () => show(idx + 1);

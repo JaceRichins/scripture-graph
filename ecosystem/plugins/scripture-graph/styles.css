@@ -2442,11 +2442,6 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
 .sg-cfm-chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 0; }
 .sg-cfm-chip { font-size: 0.8em; font-weight: 600; padding: 4px 11px; border-radius: 999px; box-shadow: none;
   background: rgba(165, 180, 252, 0.12); color: #c7d2fe; border: 1px solid rgba(165, 180, 252, 0.35); }
-.sg-cfm-actions { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 8px; margin-top: 10px; }
-.sg-cfm-open { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-height: 40px; border-radius: 12px; font-weight: 700; border: 0; box-shadow: none;
-  background: var(--interactive-accent); color: var(--text-on-accent); }
-.sg-cfm-nav { display: flex; gap: 6px; flex: 0 0 auto; }
-.sg-cfm-nav .sg-insight-step { flex: 0 0 auto; }
 
 /* ---- Aa reading settings: every reading surface follows the body's variables ---- */
 .markdown-preview-view, .sg-doc-body, .sg-reader-scripture {
