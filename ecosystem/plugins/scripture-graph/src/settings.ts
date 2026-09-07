@@ -24,7 +24,7 @@ export class SGSettingsTab extends PluginSettingTab {
         .onClick(async () => { if (sp.connected) { await sp.disconnect(); this.display(); } else await sp.beginConnect(); }));
     new Setting(el).setName("Where songs open otherwise")
       .setDesc("Songs that can't play here open in this app")
-      .addDropdown(d => d.addOptions({ "": "Ask me", spotify: "Spotify", apple: "Apple Music", youtube: "YouTube" })
+      .addDropdown(d => d.addOptions({ "": "YouTube (default)", spotify: "Spotify", apple: "Apple Music", youtube: "YouTube" })
         .setValue(s.device.musicService ?? "").onChange(async v => {
           s.device.musicService = (v || null) as typeof s.device.musicService; await s.saveDevice();
         }));

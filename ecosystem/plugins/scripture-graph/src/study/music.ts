@@ -225,15 +225,20 @@ export class MusicPlayer {
   }
 
   // ------------------------------------------------------- elsewhere
+  /** the listener's music app for songs that can't play here — YouTube
+   * unless they chose otherwise in Settings (never a prompt) */
   async service(): Promise<Service | null> {
-    const s = this.prefs.get();
-    if (s) return s;
+    return this.prefs.get() ?? "youtube";
+  }
+
+  /** the chooser, only when asked for (⋯ → Change my music app) */
+  chooseService(): Promise<Service | null> {
     return new Promise(resolve => {
       const m = new Modal(this.app);
       let done = false;
       m.contentEl.addClass("sg-welcome");
-      m.contentEl.createEl("h3", { text: "Where do you listen?" });
-      m.contentEl.createEl("p", { text: "Songs that can't play here open in your own music app. Change it any time from a song's ⋯ menu." });
+      m.contentEl.createEl("h3", { text: "Where should songs open?" });
+      m.contentEl.createEl("p", { text: "For songs that can't play inside the app." });
       for (const sv of SERVICES) {
         new Setting(m.contentEl).addButton(b => b.setButtonText(sv.label).setCta().onClick(async () => {
           await this.prefs.set(sv.key); done = true; m.close(); resolve(sv.key);
@@ -263,7 +268,7 @@ export class MusicPlayer {
     if (it.credit) m.addItem(i => i.setTitle(`Recording: ${it.credit}`).setIcon("info"));
     m.addSeparator();
     if (this.spotify.configured && !this.spotify.connected) m.addItem(i => i.setTitle("Connect Spotify (plays in the background)").setIcon("log-in").onClick(() => void this.spotify.beginConnect()));
-    m.addItem(i => i.setTitle("Change my music app…").setIcon("settings").onClick(async () => { await this.prefs.set(null); await this.service(); }));
+    m.addItem(i => i.setTitle("Change my music app…").setIcon("settings").onClick(() => void this.chooseService()));
     m.showAtMouseEvent(ev);
   }
 

@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.12 build 337694e2 2026-09-07T23:19:40Z */
+/* scripture-graph v0.72.13 build 29fe4466 2026-09-07T23:25:24Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.12", sha: "337694e2", at: "2026-09-07T23:19:40Z" };
+    define_SG_BUILD_default = { version: "0.72.13", sha: "29fe4466", at: "2026-09-07T23:25:24Z" };
   }
 });
 
@@ -16944,15 +16944,19 @@ var MusicPlayer = class {
     }
   }
   // ------------------------------------------------------- elsewhere
+  /** the listener's music app for songs that can't play here — YouTube
+   * unless they chose otherwise in Settings (never a prompt) */
   async service() {
-    const s = this.prefs.get();
-    if (s) return s;
+    return this.prefs.get() ?? "youtube";
+  }
+  /** the chooser, only when asked for (⋯ → Change my music app) */
+  chooseService() {
     return new Promise((resolve) => {
       const m2 = new import_obsidian27.Modal(this.app);
       let done = false;
       m2.contentEl.addClass("sg-welcome");
-      m2.contentEl.createEl("h3", { text: "Where do you listen?" });
-      m2.contentEl.createEl("p", { text: "Songs that can't play here open in your own music app. Change it any time from a song's \u22EF menu." });
+      m2.contentEl.createEl("h3", { text: "Where should songs open?" });
+      m2.contentEl.createEl("p", { text: "For songs that can't play inside the app." });
       for (const sv of SERVICES) {
         new import_obsidian27.Setting(m2.contentEl).addButton((b) => b.setButtonText(sv.label).setCta().onClick(async () => {
           await this.prefs.set(sv.key);
@@ -16995,10 +16999,7 @@ var MusicPlayer = class {
     if (it.credit) m2.addItem((i) => i.setTitle(`Recording: ${it.credit}`).setIcon("info"));
     m2.addSeparator();
     if (this.spotify.configured && !this.spotify.connected) m2.addItem((i) => i.setTitle("Connect Spotify (plays in the background)").setIcon("log-in").onClick(() => void this.spotify.beginConnect()));
-    m2.addItem((i) => i.setTitle("Change my music app\u2026").setIcon("settings").onClick(async () => {
-      await this.prefs.set(null);
-      await this.service();
-    }));
+    m2.addItem((i) => i.setTitle("Change my music app\u2026").setIcon("settings").onClick(() => void this.chooseService()));
     m2.showAtMouseEvent(ev);
   }
   // ------------------------------------------------------------- the bar
@@ -17924,7 +17925,7 @@ var SGSettingsTab = class extends import_obsidian30.PluginSettingTab {
         this.display();
       } else await sp.beginConnect();
     }));
-    new import_obsidian30.Setting(el).setName("Where songs open otherwise").setDesc("Songs that can't play here open in this app").addDropdown((d) => d.addOptions({ "": "Ask me", spotify: "Spotify", apple: "Apple Music", youtube: "YouTube" }).setValue(s.device.musicService ?? "").onChange(async (v) => {
+    new import_obsidian30.Setting(el).setName("Where songs open otherwise").setDesc("Songs that can't play here open in this app").addDropdown((d) => d.addOptions({ "": "YouTube (default)", spotify: "Spotify", apple: "Apple Music", youtube: "YouTube" }).setValue(s.device.musicService ?? "").onChange(async (v) => {
       s.device.musicService = v || null;
       await s.saveDevice();
     }));
