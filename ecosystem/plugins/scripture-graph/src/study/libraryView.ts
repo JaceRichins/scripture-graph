@@ -46,6 +46,12 @@ const COVER_ALIAS: Record<string, string> = {
   "bible-dictionary": "dictionary", "joseph-smith-papers": "papers", "general-conference": "conference",
   "words-of-the-prophets": "prophets", "journals-and-writings": "journals",
   "teachings-of-presidents": "teachings", "revelations-in-context": "revelations",
+  // folder names that share a home shelf's art
+  "gospel-topics": "topics", "people": "person", "places": "place", "events": "event",
+  "doctrines": "doctrine", "findings": "evidence", "questions": "question", "church-history": "history",
+  "scriptures": "bible", "secondary-sources": "podcast", "reference": "dictionary", "topical-guide": "dictionary",
+  "essays": "scholarship", "true-to-the-faith": "doctrine", "ai-study-guides": "hub",
+  "sources": "papers", "manifests": "papers", "source-notes": "papers", "periodicals": "periodicals",
 };
 function coverKey(name: string): string {
   const slug = name.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");

@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.5 build 6c7de2e9 2026-09-07T15:21:31Z */
+/* scripture-graph v0.72.6 build 772ee5a5 2026-09-07T20:36:26Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.5", sha: "6c7de2e9", at: "2026-09-07T15:21:31Z" };
+    define_SG_BUILD_default = { version: "0.72.6", sha: "772ee5a5", at: "2026-09-07T20:36:26Z" };
   }
 });
 
@@ -12757,7 +12757,27 @@ var COVER_ALIAS = {
   "words-of-the-prophets": "prophets",
   "journals-and-writings": "journals",
   "teachings-of-presidents": "teachings",
-  "revelations-in-context": "revelations"
+  "revelations-in-context": "revelations",
+  // folder names that share a home shelf's art
+  "gospel-topics": "topics",
+  "people": "person",
+  "places": "place",
+  "events": "event",
+  "doctrines": "doctrine",
+  "findings": "evidence",
+  "questions": "question",
+  "church-history": "history",
+  "scriptures": "bible",
+  "secondary-sources": "podcast",
+  "reference": "dictionary",
+  "topical-guide": "dictionary",
+  "essays": "scholarship",
+  "true-to-the-faith": "doctrine",
+  "ai-study-guides": "hub",
+  "sources": "papers",
+  "manifests": "papers",
+  "source-notes": "papers",
+  "periodicals": "periodicals"
 };
 function coverKey(name) {
   const slug = name.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
