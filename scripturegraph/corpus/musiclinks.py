@@ -11,7 +11,9 @@ Three kinds of link, in the order the player prefers them:
            classics look for The Tabernacle Choir at Temple Square's own
            upload first; in playlists that beats the plain Church recording.
            Found with the YouTube Data API (key: YOUTUBE_API_KEY in
-           .scripture-engine/config/.env, or music.youtube_api_key).
+           .scripture-engine/config/.env, or music.youtube_api_key), or,
+           without a key, from YouTube's own results page, one throttled
+           request per track.
 * nothing — the player searches the listener's own music app.
 
 Spotify is resolved on the device at play time (it needs the listener's
@@ -126,6 +128,35 @@ def youtube_id(api_key: str, title: str, artist: str, prefer_choir: bool = False
     return search(f"{title} {artist}", None)
 
 
+_BROWSER_UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36",
+               "Accept-Language": "en-US,en;q=0.9", "Cookie": "CONSENT=YES+1; SOCS=CAI"}
+_VID_RE = re.compile(r'"videoRenderer":\{"videoId":"([A-Za-z0-9_-]{11})"(.{0,4000}?)"ownerText":\{"runs":\[\{"text":"([^"]+)"', re.S)
+
+
+def youtube_id_page(title: str, artist: str, prefer_choir: bool = False) -> str | None:
+    """No API key: read YouTube's results page for the query, the way a
+    browser would, and take the first video — the Choir's own upload when
+    one is on the page. One request, three seconds apart."""
+    q = f"{title} {CHOIR}" if prefer_choir else f"{title} {artist}"
+    url = "https://www.youtube.com/results?" + urllib.parse.urlencode({"search_query": q, "sp": "EgIQAQ%3D%3D"})
+    req = urllib.request.Request(url, headers=_BROWSER_UA)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            html = r.read().decode("utf-8", errors="replace")
+    except (urllib.error.URLError, TimeoutError, OSError):
+        return None
+    finally:
+        time.sleep(3)
+    hits = _VID_RE.findall(html)
+    if not hits:
+        return None
+    if prefer_choir:
+        for vid, _, owner in hits[:8]:
+            if "tabernacle choir" in owner.lower():
+                return vid
+    return hits[0][0]
+
+
 def commons_audio(title: str, artist: str) -> dict | None:
     """a public-domain / CC recording on Wikimedia Commons, as an mp3 url"""
     api = "https://commons.wikimedia.org/w/api.php"
@@ -187,15 +218,17 @@ def resolve(ctx: Ctx, budget: int = 90) -> dict:
                     stats["commons"] += 1
                 changed = True
             if "yt" not in tr:
-                if not key:
-                    stats["skipped_no_key"] += 1
-                    continue
                 if yt_used >= budget:
                     stats["pending"] += 1
                     continue
                 choir = in_book or bool(_CLASSICAL.search(artist))
-                vid = youtube_id(key, title, artist, prefer_choir=choir)
-                yt_used += 2 if choir else 1
+                if key:
+                    vid = youtube_id(key, title, artist, prefer_choir=choir)
+                    yt_used += 2 if choir else 1
+                else:
+                    vid = youtube_id_page(title, artist, prefer_choir=choir)   # keyless, throttled
+                    yt_used += 1
+                    stats["page_lookups"] = stats.get("page_lookups", 0) + 1
                 tr["yt"] = vid or ""
                 if vid:
                     stats["youtube"] += 1
