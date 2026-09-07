@@ -491,6 +491,9 @@ def _cmd_fetch_locked(ctx, args, fetchers, glib, ensure_registry):
     if args.what in ("hymns", "all"):
         from scripturegraph.corpus import hymns
         out["hymns"] = hymns.fetch_hymns(ctx, args.limit or 400)
+    if args.what in ("music-links", "all"):
+        from scripturegraph.corpus import musiclinks
+        out["music_links"] = musiclinks.resolve(ctx, args.limit or 90)
     if args.what in ("footnotes", "all"):
         from scripturegraph.vaultgen.footnotes import write_footnote_notes
         out["footnotes"] = write_footnote_notes(ctx)
@@ -752,7 +755,7 @@ def main(argv=None) -> int:
     sp = sub.add_parser("fetch", help="acquire corpora (conference API / Gospel Library / "
                                       "public-domain history / JSP records)")
     sp.add_argument("what", choices=["conference", "history", "jsp", "prophets", "hymns", "footnotes", "cfm",
-                                     "od", "apparatus", "collections", "glib-markdown", "gospel-library", "all"])
+                                     "od", "apparatus", "collections", "glib-markdown", "music-links", "gospel-library", "all"])
     sp.add_argument("--prefix", default="", help="glib-markdown: only pages under this Gospel Library uri")
     sp.add_argument("--from-year", type=int, default=2015)
     sp.add_argument("--to-year", type=int, default=2026)

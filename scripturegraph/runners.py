@@ -264,6 +264,14 @@ def run_nightly(ctx: Ctx) -> dict:
                 stats["come_follow_me"] = cfm.write_index(ctx)
             except Exception as e:  # noqa: BLE001
                 ctx.log.warn("nightly.cfm_failed", error=str(e)[:200])
+        if ctx.c("acquisition.music_links", True):
+            # where each playlist track can be heard: YouTube ids (90 searches
+            # a night against the free quota) and free recordings from Commons
+            from scripturegraph.corpus import musiclinks
+            try:
+                stats["music_links"] = musiclinks.resolve(ctx, int(ctx.c("acquisition.music_links_per_night", 90)))
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("nightly.music_links_failed", error=str(e)[:200])
         if ctx.c("acquisition.hymns", True):
             # the hymnbook index for the Hymns shelf: forty a night until done
             from scripturegraph.corpus import hymns
