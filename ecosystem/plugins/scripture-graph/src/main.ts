@@ -28,6 +28,7 @@ import { VaultSync } from "./sync/vaultSync";
 import { runSetupLink } from "./social/setupLink";
 import { LiveLink } from "./live";
 import { MusicPlayer } from "./study/music";
+import { Spotify } from "./study/spotify";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SCENES, SceneManager } from "./study/scenes";
@@ -120,9 +121,19 @@ export default class SGPlugin extends Plugin {
       new ReaderView(leaf, this.state, this.ann, (c, v, seed) => void this.openAsk(c, v, seed)));
 
     // ---- 🎵 the music player: one queue, one bar above the dock ----------
+    const spotify = new Spotify({
+      clientId: () => this.state.settings.spotifyClientId ?? "",
+      get: () => this.state.device.spotify ?? null,
+      set: async (t) => { this.state.device.spotify = t; await this.state.saveDevice(); this.state.notify(); },
+    });
     this.music = new MusicPlayer(this.app, {
       get: () => this.state.device.musicService ?? null,
       set: async (sv) => { this.state.device.musicService = sv; await this.state.saveDevice(); },
+    }, spotify);
+    this.registerObsidianProtocolHandler("scripture-graph-spotify", params => {
+      const code = params["code"];
+      if (!code) return void new Notice(`Spotify sign-in failed: ${params["error"] ?? "no code"}`);
+      spotify.completeConnect(code).catch(e => new Notice((e as Error).message));
     });
     this.app.workspace.onLayoutReady(() => this.music.mount());
     this.register(() => this.music.destroy());

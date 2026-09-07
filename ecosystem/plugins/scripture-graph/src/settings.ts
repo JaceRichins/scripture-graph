@@ -12,6 +12,29 @@ import { SetupLinkModal, bestPublicUrl, buildSetupLink } from "./social/setupLin
 export class SGSettingsTab extends PluginSettingTab {
   constructor(private p: SGPlugin) { super(p.app, p); }
 
+  private renderMusic(el: HTMLElement): void {
+    const s = this.p.state;
+    const sp = this.p.music.spotify;
+    el.createEl("h2", { text: "Music" });
+    new Setting(el).setName("Spotify")
+      .setDesc(sp.connected ? "Connected — playlists play through your Spotify app, in the background."
+        : sp.configured ? "Sign in once; then our playlists play through the Spotify app on this phone (Premium)."
+          : "Not set up for the family yet: the owner adds the Spotify Client ID below.")
+      .addButton(b => b.setButtonText(sp.connected ? "Disconnect" : "Connect").setCta().setDisabled(!sp.configured && !sp.connected)
+        .onClick(async () => { if (sp.connected) { await sp.disconnect(); this.display(); } else await sp.beginConnect(); }));
+    new Setting(el).setName("Where songs open otherwise")
+      .setDesc("Songs that can't play here open in this app")
+      .addDropdown(d => d.addOptions({ "": "Ask me", spotify: "Spotify", apple: "Apple Music", youtube: "YouTube" })
+        .setValue(s.device.musicService ?? "").onChange(async v => {
+          s.device.musicService = (v || null) as typeof s.device.musicService; await s.saveDevice();
+        }));
+    new Setting(el).setName("Spotify Client ID (family)")
+      .setDesc("From developer.spotify.com — one app for the whole family; shared with the vault")
+      .addText(t => t.setPlaceholder("32 characters").setValue(s.settings.spotifyClientId ?? "").onChange(async v => {
+        s.applySettings({ spotifyClientId: v.trim() }); await this.p.saveSharedSettings();
+      }));
+  }
+
   private renderSync(el: HTMLElement): void {
     const s = this.p.state;
     const vs = this.p.vaultSync;
@@ -64,6 +87,9 @@ export class SGSettingsTab extends PluginSettingTab {
     const { containerEl: el } = this;
     const s = this.p.state;
     el.empty();
+
+    // -------------------------------------------------------------- music
+    this.renderMusic(el);
 
     // ---------------------------------------------------------- vault sync
     this.renderSync(el);

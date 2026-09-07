@@ -29,12 +29,15 @@ export interface SharedSettings {
   chapterLinksToMyStudy: boolean;
   /** family-shared mark themes: a named color+treatment vocabulary */
   themes: MarkTheme[];
+  /** the family's Spotify app (PKCE, no secret) — lets Spotify play what our playlists say */
+  spotifyClientId: string;
 }
 
 export const DEFAULT_SHARED: SharedSettings = {
   serverUrl: "http://127.0.0.1:8930",
   defaultVisibility: "private",
   forceLibraryPreview: true,
+  spotifyClientId: "",
   chapterLinksToMyStudy: true,
   themes: [],
 };
@@ -79,6 +82,8 @@ export interface DeviceState {
   serverUrls?: string[];
   /** where songs the Church does not record open (asked once) */
   musicService?: "spotify" | "apple" | "youtube" | null;
+  /** this listener's Spotify sign-in */
+  spotify?: { access: string; refresh: string; expires: number } | null;
   /** vault sync: on/off, which shelves this device carries, how often */
   sync?: { enabled?: boolean; sections?: Record<string, boolean>; intervalMin?: number };
   /** ambient reading scene: "none" | "auto" | "match" | scene id */

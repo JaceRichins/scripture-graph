@@ -77,7 +77,7 @@ interface Hymn { uri: string; title: string; n: number | null; url: string; book
 
 /** the Music shelf's playlists (see the note's own header) */
 const MUSIC_PATH = "AI Library/00 System/Music.md";
-interface Track { t: string; a: string }
+interface Track { t: string; a: string; yt?: string; url?: string; credit?: string }
 interface Playlist { key: string; title: string; blurb?: string; cover?: string; tracks: Track[] }
 
 /** loose title match: "Abide with Me!" ~ "abide with me" */
@@ -417,7 +417,10 @@ export class SGLibraryView extends ItemView {
     const inBook = tr.a === "Hymn" || tr.a === "Primary";
     const h = inBook ? byTitle.get(normTitle(tr.t)) : undefined;
     if (h) return this.hymnItem(h, art, open);
-    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a}${inBook ? "" : " · opens in your music app"}`,
+    const url = tr.url || undefined;
+    const yt = tr.yt || undefined;
+    const how = url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : "opens in your music app";
+    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a}${inBook ? "" : " · " + how}`, url, yt, credit: tr.credit,
       searchQuery: `${tr.t} ${inBook ? "hymn" : tr.a}`, art, open };
   }
 
@@ -433,11 +436,11 @@ export class SGLibraryView extends ItemView {
     const col = row.createDiv({ cls: "sg-tr-col" });
     col.createDiv({ cls: "sg-tr-title", text: it.title });
     col.createDiv({ cls: "sg-tr-sub", text: it.sub });
-    if (!it.url) row.createSpan({ cls: "sg-tr-ext", text: "↗" });
+    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "↗" });
     const more = row.createEl("button", { cls: "sg-tr-more", text: "⋯" });
     more.setAttr("aria-label", "More");
     more.onclick = (e) => { e.stopPropagation(); music.menu(it, e); };
-    row.onclick = () => { if (cur && it.url) music.toggle(); else music.play(items, i); };
+    row.onclick = () => { if (cur && music.active) music.toggle(); else music.play(items, i); };
   }
 
   /** the shelf: Hymns, Children's songs, then the playlists, as covers */
@@ -511,7 +514,7 @@ export class SGLibraryView extends ItemView {
     const art = this.art(pl.cover ?? `music-${pl.key}`);
     const open = () => this.go({ kind: "playlist", key: pl.key, title: pl.title });
     const items = pl.tracks.map((tr, i) => this.trackItem(tr, byTitle, key, i, art, open));
-    const here = items.filter(i => i.url).length;
+    const here = items.filter(i => this.host.music.canPlay(i)).length;
     const head = c.createDiv({ cls: "sg-pl-head" });
     if (art) { const img = head.createEl("img", { cls: "sg-pl-art" }); img.src = art; }
     const meta = head.createDiv({ cls: "sg-pl-meta" });
