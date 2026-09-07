@@ -45,9 +45,9 @@ Besides promising blessings, God told Abraham to “*be* a blessing” ([[Genesi
 
 To teach about covenants, Elder Dale G. Renlund spoke of tidal waves in the Amazon River, and President Emily Belle Freeman talked about walking a rocky path with a broken ankle (see “[[AI Library/10 General Conference/2023/April/Accessing God’s Power through Covenants (Elder Dale G. Renlund, April 2023)|Accessing God’s Power through Covenants]],” *Liahona*, May 2023, 35–37; “[[AI Library/10 General Conference/2023/October/Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]],” *Liahona*, Nov. 2023, 76–79). Search one or both of these messages for sentences that help answer the question “Why does God want me to make covenants with Him?”
 
-> For teachers
+> **For teachers**
 
-> Invite people to teach each other. If you’re teaching your family or a Church class about covenants, consider giving each person a portion of Elder Renlund’s or President Freeman’s message to study. Then they could share with the rest of the family or class what they learned. This allows people to testify to and learn from each other, and that invites the Spirit. (See *Teaching in the Savior’s Way*, [26](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=eng).)
+> **Invite people to teach each other.** If you’re teaching your family or a Church class about covenants, consider giving each person a portion of Elder Renlund’s or President Freeman’s message to study. Then they could share with the rest of the family or class what they learned. This allows people to testify to and learn from each other, and that invites the Spirit. (See *Teaching in the Savior’s Way*, [26](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=eng).)
 
 See also Topics and Questions, “[[AI Library/02 Gospel Topics/Reference/Abrahamic Covenant (Gospel Topics)|Abrahamic Covenant]],” Gospel Library; “[[AI Library/07 Come Follow Me/2026/Thoughts to Keep in Mind The Covenant|Thoughts to Keep in Mind: The Covenant]],” in this resource.
 
@@ -71,9 +71,9 @@ As you read [[Genesis 16|Genesis 16]], you might think about a time when you fel
 
 See also “[Secret Prayer](https://www.churchofjesuschrist.org/study/manual/hymns/secret-prayer),” *Hymns*, no. 144.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -115,6 +115,6 @@ To help your children prepare to make a covenant with God when they are baptized
 
 When Abraham’s life was in danger, he called on God. When Hagar was alone in the wilderness, she learned that God heard her. Consider sharing these two stories with your children: “[Abraham and Sarah](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/abraham-and-sarah?lang=eng)” and “[Hagar](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/hagar?lang=eng)” in *Old Testament Stories*, 28–31, 32–33. What do we learn about God from these stories? Then you could share with each other experiences when you felt that God heard you. A song like “[A Child’s Prayer](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/a-childs-prayer?lang=eng)” (*Children’s Songbook*, 12–13) could reinforce this principle.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

@@ -23,17 +23,17 @@ By sending such an unexpected deliverer, God taught us about true deliverance. T
 
 Even though the Israelites spent many years in captivity—and even though that captivity was a result of their own poor choices—the Lord wanted them to look to the future with hope. What do you find in Isaiah’s message that gives you hope? A chart like this one might help you study:
 
-What I learn about God (see, for example, [[Isaiah 50#^isa-50-2|Isaiah 50:2, 5–9]]; [[Isaiah 51#^isa-51-3|51:3–8, 15–16]]; [[Isaiah 52#^isa-52-3|52:3, 9–10]])
+**What I learn about God** (see, for example, [[Isaiah 50#^isa-50-2|Isaiah 50:2, 5–9]]; [[Isaiah 51#^isa-51-3|51:3–8, 15–16]]; [[Isaiah 52#^isa-52-3|52:3, 9–10]])
 
-Messages of hope (see, for example, [[Isaiah 50#^isa-50-9|Isaiah 50:9]]; [[Isaiah 51#^isa-51-3|51:3–5, 11–12, 22–23]]; [[Isaiah 52#^isa-52-9|52:9–10]])
+**Messages of hope** (see, for example, [[Isaiah 50#^isa-50-9|Isaiah 50:9]]; [[Isaiah 51#^isa-51-3|51:3–5, 11–12, 22–23]]; [[Isaiah 52#^isa-52-9|52:9–10]])
 
-What I can do to make hope a reality (see, for example, [[Isaiah 50#^isa-50-10|Isaiah 50:10]]; [[Isaiah 51#^isa-51-1|51:1–2, 6–9]]; [[Isaiah 52#^isa-52-1|52:1–3, 9–11]])
+**What I can do to make hope a reality** (see, for example, [[Isaiah 50#^isa-50-10|Isaiah 50:10]]; [[Isaiah 51#^isa-51-1|51:1–2, 6–9]]; [[Isaiah 52#^isa-52-1|52:1–3, 9–11]])
 
 See also [[Mosiah 12#^mosiah-12-20|Mosiah 12:20–24]]; [[Mosiah 15#^mosiah-15-13|15:13–18]]; [[3 Nephi 20#^3ne-20-29|3 Nephi 20:29–46]]; [[D&C 113#^dc-113-7|Doctrine and Covenants 113:7–10]]; Russell M. Nelson, “[[AI Library/10 General Conference/2020/October/Embrace the Future with Faith (President Russell M. Nelson, October 2020)|Embrace the Future with Faith]],” *Ensign* or *Liahona*, Nov. 2020, 73–76.
 
-> For teachers
+> **For teachers**
 
-> Help learners come unto Jesus Christ. “Nothing you do as a teacher will bless learners more than helping them know Heavenly Father and Jesus Christ and feel Their love” (*Teaching in the Savior’s Way*, [8](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/04-part-1/06-help-learners-come-unto-christ?lang=eng)). As you prepare to teach [[Isaiah 50|Isaiah 50–57]] to others, consider how you can help them see connections between Israel’s challenges, Isaiah’s prophecies of Christ, and receiving divine help with their own struggles.
+> **Help learners come unto Jesus Christ.** “Nothing you do as a teacher will bless learners more than helping them know Heavenly Father and Jesus Christ and feel Their love” (*Teaching in the Savior’s Way*, [8](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/04-part-1/06-help-learners-come-unto-christ?lang=eng)). As you prepare to teach [[Isaiah 50|Isaiah 50–57]] to others, consider how you can help them see connections between Israel’s challenges, Isaiah’s prophecies of Christ, and receiving divine help with their own struggles.
 
 *[[Isaiah 53|Isaiah 53]]*
 
@@ -71,9 +71,9 @@ See also Patrick Kearon, “[[AI Library/10 General Conference/2024/April/God’
 
 For generations, Israel had been identified as God’s covenant people. However, God’s plan has always included more than just one nation, for “every one that thirsteth” is invited to “come … to the waters” ([[Isaiah 55#^isa-55-1|Isaiah 55:1]]). Keep this in mind as you read [[Isaiah 55|Isaiah 55]] and [[Isaiah 56|56]], and ponder what it means to be God’s people. What is God’s message to those who feel “utterly separated” from Him? ([[Isaiah 56#^isa-56-3|Isaiah 56:3]]). Consider marking verses that describe attitudes and actions of those who “take hold of my covenant” (see [[Isaiah 56#^isa-56-4|Isaiah 56:4–7]]).
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -115,6 +115,6 @@ To teach your children about [[Isaiah 55#^isa-55-6|Isaiah 55:6]], you could hide
 
 After reading [[Isaiah 55#^isa-55-9|Isaiah 55:9]], it might be fun for your children to stand on a stool and talk about how things look different when you are “higher.” Or they could draw a picture of what [[Isaiah 55#^isa-55-9|Isaiah 55:9]] means to them. You could then discuss some of the Lord’s ways that are higher than our ways. For example, what is His way of treating sinners? (see [[Mark 2#^mark-2-15|Mark 2:15–17]]). What is His way of leading others? (see [[Matthew 20#^matt-20-25|Matthew 20:25–28]]). Share with your children how you have learned to trust the Lord’s higher ways and thoughts.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

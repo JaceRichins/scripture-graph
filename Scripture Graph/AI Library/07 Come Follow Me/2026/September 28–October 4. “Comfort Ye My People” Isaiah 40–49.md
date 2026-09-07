@@ -43,9 +43,9 @@ You might notice that the hymn “[How Firm a Foundation](https://www.churchofje
 
 See also Patrick Kearon, “[[AI Library/10 General Conference/2022/April/He Is Risen with Healing in His Wings We Can Be More Than Conquerors (Elder Patrick Kearon, April 2022)|He Is Risen with Healing in His Wings: We Can Be More Than Conquerors]],” *Liahona*, May 2022, 37–40.
 
-> For teachers
+> **For teachers**
 
-> Use additional scripture. Sometimes we can understand the Old Testament better if we supplement our study with verses from the Book of Mormon. For example, the Book of Mormon prophets Nephi and Jacob had access to the writings of Isaiah on the plates of brass (see [[1 Nephi 19#^1ne-19-22|1 Nephi 19:22–23]]), and they used these prophecies to teach about the Savior. To learn how Nephi and Jacob likened [[Isaiah 48|Isaiah 48–49]] to their people, see [[1 Nephi 22|1 Nephi 22]]. That may help you liken these chapters to your own life.
+> **Use additional scripture.** Sometimes we can understand the Old Testament better if we supplement our study with verses from the Book of Mormon. For example, the Book of Mormon prophets Nephi and Jacob had access to the writings of Isaiah on the plates of brass (see [[1 Nephi 19#^1ne-19-22|1 Nephi 19:22–23]]), and they used these prophecies to teach about the Savior. To learn how Nephi and Jacob likened [[Isaiah 48|Isaiah 48–49]] to their people, see [[1 Nephi 22|1 Nephi 22]]. That may help you liken these chapters to your own life.
 
 *[[Isaiah 40|Isaiah 40–49]]*
 
@@ -73,9 +73,9 @@ As you read [[Isaiah 48#^isa-48-10|Isaiah 48:10]], ponder your own “furnace of
 
 See also “The Refiner’s Fire” (video), Gospel Library.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -123,6 +123,6 @@ Sing together a song about commandments, such as “[Keep the Commandments](http
 
 To introduce [[Isaiah 49#^isa-49-15|verses 15–16]], you could ask your children about someone who they will never forget, like a family member or friend. According to [[Isaiah 49#^isa-49-15|Isaiah 49:15–16]], why will the Lord never forget us? Then you could share with each other your feelings about Jesus Christ.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

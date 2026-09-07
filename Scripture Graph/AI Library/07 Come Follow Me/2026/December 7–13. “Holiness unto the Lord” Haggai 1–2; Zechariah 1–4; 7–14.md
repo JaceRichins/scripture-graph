@@ -61,7 +61,7 @@ What do you think it would have been like to be among the people welcoming Jesus
 
 See also Guide to the Scriptures, “[Messiah](https://www.churchofjesuschrist.org/study/scriptures/gs/messiah?lang=eng),” Gospel Library; “The Lord’s Triumphal Entry into Jerusalem” (video), Gospel Library; Ronald A. Rasband, “[[AI Library/10 General Conference/2023/April/Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]],” *Liahona*, May 2023, 108–12.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
@@ -85,9 +85,9 @@ As you read parts of [[Haggai 1#^hag-1-2|Haggai 1:2–5]] with your children, he
 
 You could also read [[Haggai 1#^hag-1-8|verse 8]] to your children and invite them to pretend to “go up to the mountain,” “bring wood,” and “build the house [of the Lord].” Your children could make a list of things they do in a typical day, including things the Lord has asked them to do. Ask your children to “consider [their] ways” by circling what the Lord might say are the most important things on their list.
 
-> For teachers
+> **For teachers**
 
-> Home-centered teaching. President Russell M. Nelson has taught that the home should be the “center of gospel learning” (“[[AI Library/10 General Conference/2018/October/Becoming Exemplary Latter-day Saints (President Russell M. Nelson, October 2018)|Becoming Exemplary Latter-day Saints]],” *Ensign* or *Liahona*, Nov. 2018, 113). As your family studies Haggai’s counsel to “consider your ways,” you could talk about how to put God first in your family life.
+> **Home-centered teaching.** President Russell M. Nelson has taught that the home should be the “center of gospel learning” (“[[AI Library/10 General Conference/2018/October/Becoming Exemplary Latter-day Saints (President Russell M. Nelson, October 2018)|Becoming Exemplary Latter-day Saints]],” *Ensign* or *Liahona*, Nov. 2018, 113). As your family studies Haggai’s counsel to “consider your ways,” you could talk about how to put God first in your family life.
 
 *[[Zechariah 3#^zech-3-1|Zechariah 3:1–7]]*
 
@@ -105,6 +105,6 @@ Your children might like to visualize the event foretold in [[Zechariah 9#^zech-
 
 Consider helping your children compare prophecies from Zechariah with the New Testament verses describing their fulfillment. Here are some examples: [[Zechariah 9#^zech-9-9|Zechariah 9:9]] and [[Matthew 21#^matt-21-5|Matthew 21:5–9]]; [[Zechariah 9#^zech-9-11|Zechariah 9:11]] and [[1 Peter 3#^1pet-3-18|1 Peter 3:18–19]]; [[Zechariah 11#^zech-11-12|Zechariah 11:12]] and [[Matthew 26#^matt-26-14|Matthew 26:14–16]]; [[Zechariah 13#^zech-13-7|Zechariah 13:7]] and [[Matthew 26#^matt-26-31|Matthew 26:31]]. What do we learn about the Savior from these verses?
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

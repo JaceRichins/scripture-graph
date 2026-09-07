@@ -23,7 +23,7 @@ These ancient accounts are valuable not just because they show us that wickednes
 
 Do you see anything in the description of Noah’s day that seems similar to conditions in our day? In particular, look in [[Moses 8#^moses-8-15|Moses 8:15–24, 28]]. What themes do you see repeated?
 
-One important similarity you’ll see is that God called Noah to be a prophet, and He has called a prophet today too. Consider making a list of truths you learn about prophets from [[Moses 8#^moses-8-13|Moses 8:13–30]]. How is our living prophet like Noah? Of course, the Lord’s prophet today isn’t warning of a Flood or inviting us to help build an ark. But what is he warning us about? And what is he inviting us to do? To help answer these questions, you could review a chapter from [Teachings of Presidents of the Church](https://www.churchofjesuschrist.org/study/books-and-lessons/teachings-of-presidents) in Gospel Library, especially the “Invitations and Promised Blessings” section. Perhaps you could pick one warning and one invitation that seem especially important to you.
+One important similarity you’ll see is that God called Noah to be a prophet, and He has called a prophet today too. Consider making a list of truths you learn about prophets from [[Moses 8#^moses-8-13|Moses 8:13–30]]. How is our living prophet like Noah? Of course, the Lord’s prophet today isn’t warning of a Flood or inviting us to help build an ark. But what is he warning us about? And what is he inviting us to do? To help answer these questions, you could review a chapter from **[Teachings of Presidents of the Church](https://www.churchofjesuschrist.org/study/books-and-lessons/teachings-of-presidents) in Gospel Library, especially the “Invitations and Promised Blessings” section. Perhaps you could pick one warning and one invitation that seem especially important to you.
 
 Elder Allen D. Haynie taught, “A perfect and loving Father in Heaven has chosen the pattern of revealing truth to His children through a prophet” (“[[AI Library/10 General Conference/2023/April/A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]],” *Liahona*, May 2023, 25). Consider studying Elder Haynie’s message, looking for reasons having a prophet is a sign of Heavenly Father’s love. How has following the Lord’s prophet helped you feel safe living in the latter days?
 
@@ -49,13 +49,13 @@ See also Gerrit W. Gong, “[[AI Library/10 General Conference/2016/April/Always
 
 The account of the people of Babel building a tower provides an interesting contrast to the account of Enoch and his people building Zion, which you studied last week. Both groups of people were trying to reach heaven but in different ways. How did the people of Zion obtain heaven? (see [[Moses 7#^moses-7-18|Moses 7:18–19, 53, 62–63, 69]]). What do you learn from [[Genesis 11#^gen-11-1|Genesis 11:1–9]] and [[Helaman 6#^hel-6-26|Helaman 6:26–28]] about the people of Babel? What does this teach us about our own efforts to return to God’s presence? What has God provided to help us “reach unto heaven”? ([[Genesis 11#^gen-11-4|Genesis 11:4]]; see also [[John 3#^john-3-16|John 3:16]]).
 
-> For teachers
+> **For teachers**
 
-> Learn actively. Learning can involve more than just reading or listening. For example, when learning about the Tower of Babel, you and your family or class could write, on slips of paper, things that take us away from God. Then, on other slips of paper, you could write things that bring us nearer to God. Arrange the first group of papers in the shape of a tower and the second group in the shape of a temple.
+> **Learn actively.** Learning can involve more than just reading or listening. For example, when learning about the Tower of Babel, you and your family or class could write, on slips of paper, things that take us away from God. Then, on other slips of paper, you could write things that bring us nearer to God. Arrange the first group of papers in the shape of a tower and the second group in the shape of a temple.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -93,6 +93,6 @@ It could be fun to build a tower out of blocks or other objects with your childr
 
 In addition to reading the story of the tower of Babel in [[Genesis 11#^gen-11-1|Genesis 11:1–9]], you and your children could read [[Helaman 6#^hel-6-28|Helaman 6:28]]. According to this verse, why did the people of Babel build the tower? Why was building this tower the wrong way to reach heaven? Then you could search [[2 Nephi 31#^2ne-31-20|2 Nephi 31:20–21]] and [[Helaman 3#^hel-3-28|Helaman 3:28]] to find the right way to reach heaven. What advice would we give to the people of Babel?
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

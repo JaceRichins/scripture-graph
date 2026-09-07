@@ -61,7 +61,7 @@ How can you follow the Savior’s example in the way you see others—and yourse
 
 See also Ulisses Soares, “[[AI Library/10 General Conference/2023/October/Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]],” *Liahona*, Nov. 2023, 70–73.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
@@ -95,12 +95,12 @@ This might also be a good time to teach your children the [[Articles of Faith 1#
 
 An object lesson could help your children understand the principle in [[1 Samuel 16#^1sam-16-7|1 Samuel 16:7]]. For example, you could show them some food or a book with a wrapper or cover that doesn’t match its true contents. What do [[1 Samuel 16#^1sam-16-7|1 Samuel 16:7]] and this object lesson suggest about how we should view ourselves and other people? Sing a song that emphasizes this principle, such as “[Love One Another](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/love-one-another?lang=eng)” (*Children’s Songbook*, 136).
 
-> For teachers
+> **For teachers**
 
-> Use object lessons. When your children have something to see and touch related to a gospel principle, they’re more likely to remember it. For instance, as you read [[1 Samuel 16#^1sam-16-7|1 Samuel 16:7]] with them, you could let them help you find examples of optical illusions to illustrate the point that we should try to see as the Lord does—by looking “on the heart”—rather than judgments based on “the outward appearance.”
+> **Use object lessons.** When your children have something to see and touch related to a gospel principle, they’re more likely to remember it. For instance, as you read [[1 Samuel 16#^1sam-16-7|1 Samuel 16:7]] with them, you could let them help you find examples of optical illusions to illustrate the point that we should try to see as the Lord does—by looking “on the heart”—rather than judgments based on “the outward appearance.”
 
 You and your children could share experiences in which you learned why you should “look on the heart,” not just “the outward appearance” ([[1 Samuel 16#^1sam-16-7|verse 7]]). You might also take turns telling each other about the good qualities you see in each other’s hearts.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

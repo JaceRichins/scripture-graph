@@ -143,6 +143,6 @@ The animal sacrifices described in the Old Testament were meant to teach the chi
 
 You might also read together [[3 Nephi 9#^3ne-9-19|3 Nephi 9:19–20]] to find out what we are commanded to sacrifice instead of animals. What does it mean to offer a broken heart and contrite spirit to the Lord? See Guide to the Scriptures, “[Broken Heart](https://www.churchofjesuschrist.org/study/scriptures/gs/broken-heart?lang=eng)” (Gospel Library) for help answering this question.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

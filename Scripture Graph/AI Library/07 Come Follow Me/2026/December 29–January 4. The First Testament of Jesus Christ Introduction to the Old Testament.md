@@ -33,9 +33,9 @@ In his message “[[AI Library/10 General Conference/2023/October/Jesus Christ I
 
 See also “[Types or Symbols of Christ](https://www.churchofjesuschrist.org/study/scriptures/gs/jesus-christ?lang=eng)” in Guide to the Scriptures, “[Jesus Christ](https://www.churchofjesuschrist.org/study/scriptures/gs/jesus-christ?lang=eng),” Gospel Library; “[Seek the Lord Early](https://www.churchofjesuschrist.org/media/music/songs/seek-the-lord-early),” *Children’s Songbook*, 108.
 
-> For teachers
+> **For teachers**
 
-> Look for symbols that testify of Jesus Christ. The Lord taught Adam, “All things have their likeness, and all things are created and made to bear record of me” ([[Moses 6#^moses-6-63|Moses 6:63]]). Whether you are studying or teaching, focusing on Jesus Christ can help you find meaning in the scriptures and increase your love for and faith in Him. (See *Teaching in the Savior’s Way*, [7](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=eng).)
+> **Look for symbols that testify of Jesus Christ.** The Lord taught Adam, “All things have their likeness, and all things are created and made to bear record of me” ([[Moses 6#^moses-6-63|Moses 6:63]]). Whether you are studying or teaching, focusing on Jesus Christ can help you find meaning in the scriptures and increase your love for and faith in Him. (See *Teaching in the Savior’s Way*, [7](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=eng).)
 
 ### Jesus Christ is Jehovah in the Old Testament.
 
@@ -51,11 +51,11 @@ In a vision, the Lord showed Nephi the coming forth of the Bible, explaining tha
 
 As you study the Old Testament this year, you will also study some of the “other books” Nephi foresaw. These include:
 
-The book of Moses, part of Joseph Smith’s translation of the Bible. It restores truths and accounts not found in the current text of [[Genesis 1|Genesis 1–6]].
+**The book of Moses**, part of Joseph Smith’s translation of the Bible. It restores truths and accounts not found in the current text of [[Genesis 1|Genesis 1–6]].
 
-The book of Abraham, which was revealed to Joseph Smith as he examined ancient Egyptian papyri (see Topics and Questions, “[[AI Library/02 Gospel Topics/Reference/Abraham, Book of (Gospel Topics)|Book of Abraham]],” Gospel Library).
+**The book of Abraham**, which was revealed to Joseph Smith as he examined ancient Egyptian papyri (see Topics and Questions, “[[AI Library/02 Gospel Topics/Reference/Abraham, Book of (Gospel Topics)|Book of Abraham]],” Gospel Library).
 
-Various passages from the Joseph Smith Translation, some of which appear in the footnotes, the appendix of the Bible, and the Guide to the Scriptures.
+**Various passages from the Joseph Smith Translation**, some of which appear in the footnotes, the appendix of the Bible, and the Guide to the Scriptures.
 
 Here are some examples of Old Testament accounts restored through Joseph Smith: Enoch’s city of Zion ([[Moses 7#^moses-7-18|Moses 7:18–19]]), Abraham’s vision of the council in heaven ([[Abraham 3#^abr-3-22|Abraham 3:22–28]]), and the ministry of Melchizedek ([Joseph Smith Translation, Genesis 14:25–40](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-gen/14?lang=eng)). Why are these accounts “plain and precious” to you?
 
@@ -67,9 +67,9 @@ As you read, ask yourself: Why are covenants important to me? What “special ki
 
 See also [[Jeremiah 31#^jer-31-31|Jeremiah 31:31–34]].
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ## Ideas for Teaching Children
 
@@ -89,6 +89,6 @@ This week’s activity page could help your children be excited to make and keep
 
 Do your children know anyone who goes by different names in different settings? Perhaps a parent or teacher is addressed differently at work, at home, and at church. Talk about those names; then read [[Exodus 6#^ex-6-3|Exodus 6:3]] together and invite your children to find the names Jesus Christ was known by before He was born (see also the Joseph Smith Translation in footnote *c*).
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

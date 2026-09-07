@@ -27,9 +27,9 @@ The Savior taught that “all things that [Isaiah] spake have been and shall be,
 
 President Dallin H. Oaks taught: “The book of Isaiah contains numerous prophecies that seem to have multiple fulfillments. One seems to involve the people of Isaiah’s day or the circumstances of the next generation. Another meaning, often symbolic, seems to refer to events in the meridian of time, when Jerusalem was destroyed and her people scattered after the crucifixion of the Son of God. Still another meaning or fulfillment of the same prophecy seems to relate to the events attending the Second Coming of the Savior. The fact that many of these prophecies can have multiple meanings underscores the importance of our seeking revelation from the Holy Ghost to help us interpret them” (“[Scripture Reading and Revelation](https://www.churchofjesuschrist.org/study/ensign/1995/01/scripture-reading-and-revelation?lang=eng),” *Ensign*, Jan. 1995, 8).
 
-> For teachers
+> **For teachers**
 
-> Understanding Isaiah. The Savior said, “Search these things diligently; for great are the words of Isaiah” ([[3 Nephi 23#^3ne-23-1|3 Nephi 23:1]]; see also [[3 Nephi 23#^3ne-23-2|verses 2–3]]). Yet to many, Isaiah can be difficult to understand. The following ideas might help:
+> **Understanding Isaiah.** The Savior said, “Search these things diligently; for great are the words of Isaiah” ([[3 Nephi 23#^3ne-23-1|3 Nephi 23:1]]; see also [[3 Nephi 23#^3ne-23-2|verses 2–3]]). Yet to many, Isaiah can be difficult to understand. The following ideas might help:
 
 > Ponder the symbols and metaphors Isaiah used.
 
@@ -73,9 +73,9 @@ During Isaiah’s ministry, Israel formed an alliance with Syria to defend itsel
 
 While Isaiah counseled Ahaz, he made several well-known prophecies, such as those found in [[Isaiah 7#^isa-7-14|Isaiah 7:14]]; [[Isaiah 8#^isa-8-13|8:13–14]]; [[Isaiah 9#^isa-9-2|9:2, 6–7]]. Whatever these prophecies meant to Ahaz, they clearly apply to Jesus Christ (see also [[Matthew 1#^matt-1-21|Matthew 1:21–23]]; [[Matthew 4#^matt-4-16|4:16]]; [[Matthew 21#^matt-21-44|21:44]]; [[Luke 1#^luke-1-31|Luke 1:31–33]]). Why is “Immanuel” a good title for the Savior? (see [[Matthew 1#^matt-1-23|Matthew 1:23]]). How has He been a “Counsellor” or “Prince of Peace” to you? ([[Isaiah 9#^isa-9-7|Isaiah 9:7]]). What else do you learn about the Savior from these verses?
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -113,6 +113,6 @@ To introduce Isaiah’s prophecies of Christ, you and your children could talk a
 
 You could also share with your children “[Isaiah the Prophet](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/isaiah-the-prophet?lang=eng)” (in *Old Testament Stories*, 150–51). Pause periodically to ask what Isaiah knew about Jesus Christ many years before He was born. You can then use [[Matthew 1#^matt-1-21|Matthew 1:21–23]]; [[Luke 1#^luke-1-31|Luke 1:31–33]] to talk about how Isaiah’s prophecies in [[Isaiah 7#^isa-7-14|Isaiah 7:14]]; [[Isaiah 9#^isa-9-6|9:6–7]] were fulfilled.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

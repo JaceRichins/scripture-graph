@@ -69,9 +69,9 @@ To learn more about the coming of Elijah and how this prophecy is being fulfille
 
 See also Quentin L. Cook, “[[AI Library/10 General Conference/2026/April/Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]],” *Liahona*, May 2026, 105–7; Gerrit W. Gong, “[[AI Library/10 General Conference/2022/April/We Each Have a Story (Elder Gerrit W. Gong, April 2022)|We Each Have a Story]],” *Liahona*, May 2022, 43–46; “[Turn Your Hearts](https://www.churchofjesuschrist.org/study/manual/hymns/turn-your-hearts?lang=eng),” *Hymns*, no. 291; “The Sealing Power” (video), ChurchofJesusChrist.org.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -105,8 +105,8 @@ As you read [[Malachi 3#^mal-3-10|Malachi 3:10]] together, you could invite your
 
 In [[Malachi 4#^mal-4-5|Malachi 4:5–6]], your children could look for answers to the following questions about Malachi’s prophecy: *Who* did the Lord promise to send? *When* did He say this person would come? *What* did the Lord say that this person would do? *Why* would this person need to come? *Where* was this prophecy fulfilled? (see [[D&C 110#^dc-110-13|Doctrine and Covenants 110:13–16]]).
 
-To find out how the promise in [[Malachi 4#^mal-4-5|Malachi 4:5]] was fulfilled, you can also review “Joseph and Oliver Receive Priesthood Keys” in *Doctrine and Covenants Stories*, 26–30. A song like “[The Hearts of the Children](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/the-hearts-of-the-children?lang=eng)” (*Children’s Songbook*, 92) can help your children learn why it was so important that Elijah came. You could also visit [FamilySearch.org/discovery](https://www.familysearch.org/discovery), the [FamilySearch Tree app](https://www.churchofjesuschrist.org/learn/mobile-applications), or the [My Family booklet](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf) for activities that can help you and your children turn your hearts to your ancestors.
+To find out how the promise in [[Malachi 4#^mal-4-5|Malachi 4:5]] was fulfilled, you can also review “Joseph and Oliver Receive Priesthood Keys” in *Doctrine and Covenants Stories*, 26–30. A song like “[The Hearts of the Children](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/the-hearts-of-the-children?lang=eng)” (*Children’s Songbook*, 92) can help your children learn why it was so important that Elijah came. You could also visit [FamilySearch.org/discovery](https://www.familysearch.org/discovery), the [FamilySearch Tree app](https://www.churchofjesuschrist.org/learn/mobile-applications), or the **[My Family booklet](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf) for activities that can help you and your children turn your hearts to your ancestors.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

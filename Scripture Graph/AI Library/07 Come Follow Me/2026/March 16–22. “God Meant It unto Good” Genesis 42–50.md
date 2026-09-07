@@ -75,9 +75,9 @@ See also [[D&C 122|Doctrine and Covenants 122]]; “[How Firm a Foundation](http
 
 As you read [[Genesis 50#^gen-50-24|Genesis 50:24–25]] and [Joseph Smith Translation, Genesis 50:24–38](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-gen/50?lang=eng) (in the Bible appendix), ponder why it would have been important for Joseph to know about Moses and Joseph Smith so many centuries in advance. How did Joseph Smith fulfill Joseph’s prophecies about him? (see [[D&C 1#^dc-1-17|Doctrine and Covenants 1:17–23]]; [[D&C 20#^dc-20-7|20:7–12]]; [[D&C 39#^dc-39-11|39:11]]; [[D&C 135#^dc-135-3|135:3]]).
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -103,9 +103,9 @@ Why do you feel Joseph forgave his brothers?
 
 How do you think Joseph’s brothers felt when they found out Joseph had forgiven them? Who in your life needs to be forgiven? How can you show love and forgiveness?
 
-> For teachers
+> **For teachers**
 
-> As you prepare to teach, ask, “What will my children do to learn?” For example, in this activity your children are acting out or retelling a story. Doing this will help them remember both what happened and the gospel principles contained in the story.
+> **As you prepare to teach, ask, “What will my children do to learn?”** For example, in this activity your children are acting out or retelling a story. Doing this will help them remember both what happened and the gospel principles contained in the story.
 
 You or your children may want to share an experience when they forgave someone or when someone forgave them. You could then sing a song such as “[Love One Another](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/love-one-another?lang=eng)” (*Children’s Songbook*, 136) or “[Help Me, Dear Father](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/help-me-dear-father?lang=eng)” (*Children’s Songbook*, 99).
 
@@ -123,6 +123,6 @@ How can you help your children see the Savior in the story of Joseph saving his 
 
 Ask your children what it means to save or rescue someone. If any of them have had an experience being saved or rescued from danger, invite them to share. How did Joseph save his brothers? (see [[Genesis 42#^gen-42-1|Genesis 42:1–3]]; [[Genesis 45#^gen-45-5|45:5–7]]). Then you could look at a picture of the Savior together and ask your children to talk about how Jesus saves us.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

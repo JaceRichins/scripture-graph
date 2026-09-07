@@ -103,6 +103,6 @@ Maybe you could help your children understand [[Joel 2#^joel-2-28|Joel 2:28–29
 
 As you read [[Joel 2#^joel-2-28|Joel 2:28–29]] together, you might invite your children to insert each other’s names in place of the phrases “your sons” and “your daughters.” Then help them search scriptures like [[John 14#^john-14-16|John 14:16]]; [[Moroni 10#^moro-10-5|Moroni 10:5]]; [[D&C 42#^dc-42-17|Doctrine and Covenants 42:17]] to find out how the Spirit can help them.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

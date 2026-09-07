@@ -21,7 +21,7 @@ Below are some ideas that may lead to further inspiration. You can find addition
 
 Nephi taught that “the gate by which [we] should enter” the covenant path “is repentance and baptism by water” ([[2 Nephi 31#^2ne-31-17|2 Nephi 31:17]]). Your efforts to help your children prepare for baptism and confirmation can set their feet firmly on that path. These efforts begin with teaching about faith in Jesus Christ and repentance. They also include teaching about how we renew our baptismal covenant by partaking of the sacrament each week.
 
-Here are some resources that can help you: [[2 Nephi 31|2 Nephi 31]]; [special issue of the Friend magazine](https://www.churchofjesuschrist.org/study/friend/2023/08-se?lang=eng) about baptism; Topics and Questions, “[[AI Library/02 Gospel Topics/Reference/Baptism (Gospel Topics)|Baptism]],” Gospel Library.
+Here are some resources that can help you: [[2 Nephi 31|2 Nephi 31]]; **[special issue of the Friend magazine](https://www.churchofjesuschrist.org/study/friend/2023/08-se?lang=eng) about baptism; Topics and Questions, “[[AI Library/02 Gospel Topics/Reference/Baptism (Gospel Topics)|Baptism]],” Gospel Library.
 
 Whenever you have an experience that strengthens your faith in Heavenly Father and Jesus Christ, share it with your child. Help them understand that faith is something that can grow stronger and stronger throughout life. What are some things your child can do to develop stronger faith in Christ before they are baptized?
 
@@ -41,7 +41,7 @@ Watch together a few of the videos in the Gospel Library collection titled “[H
 
 Make the sacrament a sacred and joyful event in your family. Share with your child how you focus on Jesus Christ during the sacrament. Help your child make a plan to show that the sacrament is sacred to them. For example, listening to the words of the sacrament prayers can remind us of our baptismal covenant.
 
-Many issues of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine include articles, stories, and activities to help children prepare for baptism and confirmation. Let your child choose some to read and enjoy with you. (See also the collection “[Preparing for Baptism](https://www.churchofjesuschrist.org/study/friend/2023/08-se?lang=eng)” in the children’s section of the Gospel Library.)
+Many issues of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine include articles, stories, and activities to help children prepare for baptism and confirmation. Let your child choose some to read and enjoy with you. (See also the collection “[Preparing for Baptism](https://www.churchofjesuschrist.org/study/friend/2023/08-se?lang=eng)” in the children’s section of the Gospel Library.)
 
 ## Priesthood Power, Authority, and Keys
 
@@ -85,7 +85,7 @@ Share with your child your experience receiving a patriarchal blessing. You coul
 
 Review together Elder Randall K. Bennett’s message “[[AI Library/10 General Conference/2023/April/Your Patriarchal Blessing—Inspired Direction from Heavenly Father (Elder Randall K. Bennett, April 2023)|Your Patriarchal Blessing—Inspired Direction from Heavenly Father]]” and Elder Kazuhiko Yamashita’s message “[[AI Library/10 General Conference/2023/April/When to Receive Your Patriarchal Blessing (Elder Kazuhiko Yamashita, April 2023)|When to Receive Your Patriarchal Blessing]]” (*Liahona*, May 2023, 42–43, 88–90). Share with each other what you learn from these messages about why Heavenly Father wants us to receive a patriarchal blessing. To learn about the process of receiving a patriarchal blessing, see *General Handbook*, [18.17](https://www.churchofjesuschrist.org/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng).
 
-If you have ancestors who received patriarchal blessings, it might be inspiring to read some of them with your child. To request the blessings of ancestors who have died, log in to [ChurchofJesusChrist.org](https://www.ChurchofJesusChrist.org), click Tools at the top right corner of the screen, and select Patriarchal Blessing.
+If you have ancestors who received patriarchal blessings, it might be inspiring to read some of them with your child. To request the blessings of ancestors who have died, log in to [ChurchofJesusChrist.org](https://www.ChurchofJesusChrist.org), click **Tools** at the top right corner of the screen, and select **Patriarchal Blessing**.
 
 After your child has received a patriarchal blessing, invite any family members who were present to record their feelings and share them with your child.
 

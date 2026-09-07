@@ -67,9 +67,9 @@ What do [[Jeremiah 3#^jer-3-14|Jeremiah 3:14–18]]; [[Jeremiah 16#^jer-16-14|16
 
 In his message “[Hope of Israel](https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng),” President Russell M. Nelson, like Jeremiah, taught that the gathering of Israel “is the most important thing taking place on earth today” (worldwide youth devotional, June 3, 2018, Gospel Library). Read or listen to his message, and see if you can discover (a) how President Nelson defines the gathering of Israel, (b) how he describes its importance, and (c) how you can be part of the gathering.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -95,7 +95,7 @@ If your children would like to learn more, you could help them find “[Premorta
 
 ### Prophets are called to speak the words of the Lord.
 
-Consider showing pictures of the living prophet or prophets from the scriptures (you can find some in [Church magazines](https://www.churchofjesuschrist.org/study/magazines), the [Gospel Art Book](https://www.churchofjesuschrist.org/study/manual/gospel-art-book?lang=eng), and *Come, Follow Me*). Ask your children what they know about these prophets.
+Consider showing pictures of the living prophet or prophets from the scriptures (you can find some in [Church magazines](https://www.churchofjesuschrist.org/study/magazines), the **[Gospel Art Book](https://www.churchofjesuschrist.org/study/manual/gospel-art-book?lang=eng), and *Come, Follow Me*). Ask your children what they know about these prophets.
 
 To teach about what prophets do, you might select some helpful verses from [[Jeremiah 1|Jeremiah 1]], such as [[Jeremiah 1#^jer-1-5|verses 5, 7, 10]], and [[Jeremiah 1#^jer-1-19|19]]. Your children could each pick one of the verses, read it, and share something they learn about prophets.
 
@@ -111,6 +111,6 @@ While you read [[Jeremiah 16#^jer-16-16|Jeremiah 16:16]], your children could pr
 
 To explore these verses, you might discuss or show how pottery is made (see the picture at the end of this outline). What message does the Lord have for us in [[Jeremiah 18#^jer-18-1|Jeremiah 18:1–6]]? What does it mean to be clay in the Lord’s hands? (see also [[Isaiah 64#^isa-64-8|Isaiah 64:8]]). For another story that compares us to potter’s clay, see Elder Richard J. Maynes’s message “[[AI Library/10 General Conference/2015/October/The Joy of Living a Christ-Centered Life (Elder Richard J. Maynes, October 2015)|The Joy of Living a Christ-Centered Life]]” (*Ensign* or *Liahona*, Nov. 2015, 27–30).
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

@@ -63,23 +63,23 @@ Reading [[Psalm 8|Psalms 8]]; [[Psalm 19|19]]; [[Psalm 33|33]] might inspire you
 
 Here are some other hymns inspired by the Psalms:
 
-[[Psalm 23|Psalm 23]]: “[The Lord Is My Shepherd](https://www.churchofjesuschrist.org/study/manual/hymns/the-lord-is-my-shepherd?lang=eng)” (*Hymns*, no. 108)
+**[[Psalm 23|Psalm 23]]:** “[The Lord Is My Shepherd](https://www.churchofjesuschrist.org/study/manual/hymns/the-lord-is-my-shepherd?lang=eng)” (*Hymns*, no. 108)
 
-[[Psalm 23#^ps-23-6|Psalms 23:6]]; [[Psalm 150|150]]: “[Praise to the Lord, the Almighty](https://www.churchofjesuschrist.org/study/manual/hymns/praise-to-the-lord-the-almighty?lang=eng)” (*Hymns*, no. 72)
+**[[Psalm 23#^ps-23-6|Psalms 23:6]]; [[Psalm 150|150]]:** “[Praise to the Lord, the Almighty](https://www.churchofjesuschrist.org/study/manual/hymns/praise-to-the-lord-the-almighty?lang=eng)” (*Hymns*, no. 72)
 
-[[Psalm 26#^ps-26-8|Psalm 26:8]]: “[We Love Thy House, O God](https://www.churchofjesuschrist.org/study/manual/hymns/we-love-thy-house-o-god?lang=eng)” (*Hymns*, no. 247)
+**[[Psalm 26#^ps-26-8|Psalm 26:8]]:** “[We Love Thy House, O God](https://www.churchofjesuschrist.org/study/manual/hymns/we-love-thy-house-o-god?lang=eng)” (*Hymns*, no. 247)
 
-[[Psalm 27#^ps-27-1|Psalm 27:1]]: “[The Lord Is My Light](https://www.churchofjesuschrist.org/study/manual/hymns/the-lord-is-my-light?lang=eng)” (*Hymns*, no. 89)
+**[[Psalm 27#^ps-27-1|Psalm 27:1]]:** “[The Lord Is My Light](https://www.churchofjesuschrist.org/study/manual/hymns/the-lord-is-my-light?lang=eng)” (*Hymns*, no. 89)
 
-[[Psalm 33#^ps-33-1|Psalms 33:1–6]]; [[Psalm 95#^ps-95-1|95:1–6]]: “[For the Beauty of the Earth](https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng)” (*Hymns*, no. 92)
+**[[Psalm 33#^ps-33-1|Psalms 33:1–6]]; [[Psalm 95#^ps-95-1|95:1–6]]:** “[For the Beauty of the Earth](https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng)” (*Hymns*, no. 92)
 
-[[Psalm 37#^ps-37-3|Psalm 37:3–9]]: “[Be Still, My Soul](https://www.churchofjesuschrist.org/study/manual/hymns/be-still-my-soul?lang=eng)” (*Hymns*, no. 124)
+**[[Psalm 37#^ps-37-3|Psalm 37:3–9]]:** “[Be Still, My Soul](https://www.churchofjesuschrist.org/study/manual/hymns/be-still-my-soul?lang=eng)” (*Hymns*, no. 124)
 
-[[Psalm 148|Psalm 148]]: “[All Creatures of Our God and King](https://www.churchofjesuschrist.org/study/manual/hymns/all-creatures-of-our-god-and-king?lang=eng)” (*Hymns*, no. 62)
+**[[Psalm 148|Psalm 148]]:** “[All Creatures of Our God and King](https://www.churchofjesuschrist.org/study/manual/hymns/all-creatures-of-our-god-and-king?lang=eng)” (*Hymns*, no. 62)
 
-> For teachers
+> **For teachers**
 
-> Use music. President Dallin H. Oaks said: “The singing of hymns is one of the best ways to put ourselves in tune with the Spirit of the Lord. … Sacred music has a unique capacity to communicate our feelings of love for the Lord. This kind of communication is a wonderful aid to our worship. … Our hymns contain matchless doctrinal sermons, surpassed only by the scriptures in their truth and poetic impact” (“[Worship through Music](https://www.churchofjesuschrist.org/study/general-conference/1994/10/worship-through-music?lang=eng),” *Ensign*, Nov. 1994, 10, 11; see also Tracy Y. Browning, “[[AI Library/10 General Conference/2025/October/Tune Your Heart to Jesus Christ The Sacred Gift of Primary Music (Sister Tracy Y. Browning, October 2025)|Tune Your Heart to Jesus Christ: The Sacred Gift of Primary Music]],” *Liahona*, Nov. 2025, 9–11). What hymns related to the Psalms could you listen to or sing to enhance your worship this week?
+> **Use music.** President Dallin H. Oaks said: “The singing of hymns is one of the best ways to put ourselves in tune with the Spirit of the Lord. … Sacred music has a unique capacity to communicate our feelings of love for the Lord. This kind of communication is a wonderful aid to our worship. … Our hymns contain matchless doctrinal sermons, surpassed only by the scriptures in their truth and poetic impact” (“[Worship through Music](https://www.churchofjesuschrist.org/study/general-conference/1994/10/worship-through-music?lang=eng),” *Ensign*, Nov. 1994, 10, 11; see also Tracy Y. Browning, “[[AI Library/10 General Conference/2025/October/Tune Your Heart to Jesus Christ The Sacred Gift of Primary Music (Sister Tracy Y. Browning, October 2025)|Tune Your Heart to Jesus Christ: The Sacred Gift of Primary Music]],” *Liahona*, Nov. 2025, 9–11). What hymns related to the Psalms could you listen to or sing to enhance your worship this week?
 
 *[[Psalm 19#^ps-19-7|Psalms 19:7–11]]; [[Psalm 29|29]]*
 
@@ -97,9 +97,9 @@ At times, we might be discouraged to hear that we need to be pure to enter the p
 
 See also Bradley R. Wilcox, “[[AI Library/10 General Conference/2021/October/Worthiness Is Not Flawlessness (Bradley R. Wilcox, October 2021)|Worthiness Is Not Flawlessness]],” *Liahona*, Nov. 2021, 61–67.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -141,6 +141,6 @@ Show a picture of the Savior, and tell your children what He has done for you th
 
 Help your children memorize the first line from [[Psalm 46#^ps-46-10|Psalm 46:10]]: “Be still, and know that I am God.” What could it mean to “be still”? Maybe you could spend some time practicing being still. You could also share with each other experiences when being “still” strengthened your relationship with God. Help your children think of times during the day when they can “be still” to feel close to Heavenly Father.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

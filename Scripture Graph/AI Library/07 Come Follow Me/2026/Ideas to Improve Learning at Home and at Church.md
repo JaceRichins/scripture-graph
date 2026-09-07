@@ -81,7 +81,7 @@ Find objects that relate to the chapters and verses that you are reading. Consid
 
 ## Draw, find, or take a picture
 
-Read a few verses, and then draw something that relates to what you read. Or you could look for a picture in the [Gospel Art Book](https://www.churchofjesuschrist.org/study/manual/gospel-art-book?lang=eng) or elsewhere in Gospel Library. You could also take a picture that illustrates what you learned.
+Read a few verses, and then draw something that relates to what you read. Or you could look for a picture in the **[Gospel Art Book](https://www.churchofjesuschrist.org/study/manual/gospel-art-book?lang=eng) or elsewhere in Gospel Library. You could also take a picture that illustrates what you learned.
 
 ## Dramatize a story
 
@@ -91,6 +91,6 @@ After reading a story, invite family or class members to act it out. Afterward, 
 
 If you have family members who aren’t willing to participate in family scripture study, look for other ways to connect with them. For example, could you share eternal truth naturally in your conversations or share a meaningful scripture in a way that doesn’t seem preachy or overbearing? Scripture study doesn’t have to look the same in every family. Some children may respond better to studying the scriptures one on one. Be prayerful and follow the promptings of the Spirit.
 
-> For teachers
+> **For teachers**
 
-> Teacher council meetings for parents. If you would like additional help in your efforts to teach your children, find out if your ward is holding teacher council meetings for parents (see *General Handbook*, [17.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/17-teaching-the-gospel?lang=eng)). These meetings are an opportunity for parents to counsel and learn together about how to improve their teaching. They can discuss the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng), the ideas on these pages for improving family scripture study, and the learning and teaching suggestions found throughout *Come, Follow Me*.
+> **Teacher council meetings for parents.** If you would like additional help in your efforts to teach your children, find out if your ward is holding teacher council meetings for parents (see *General Handbook*, [17.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/17-teaching-the-gospel?lang=eng)). These meetings are an opportunity for parents to counsel and learn together about how to improve their teaching. They can discuss the principles in **[Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng), the ideas on these pages for improving family scripture study, and the learning and teaching suggestions found throughout *Come, Follow Me*.

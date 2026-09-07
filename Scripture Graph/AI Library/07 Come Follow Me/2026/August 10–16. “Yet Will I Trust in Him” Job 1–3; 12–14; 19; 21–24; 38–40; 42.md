@@ -69,13 +69,13 @@ You’ll notice that the Lord spoke to Job about some of His creations and other
 
 Here are two general conference messages that can help change our perspective: Tamara W. Runia, “[[AI Library/10 General Conference/2023/October/Seeing God’s Family through the Overview Lens (Sister Tamara W. Runia, October 2023)|Seeing God’s Family through the Overview Lens]]” (*Liahona*, Nov. 2023, 62–69); Russell M. Nelson, “[[AI Library/10 General Conference/2023/October/Think Celestial! (President Russell M. Nelson, October 2023)|Think Celestial!]]” (*Liahona*, Nov. 2023, 117–20). In either message, look for something that you’ll want to remember the next time your trials seem overwhelming. How will you remind yourself of what you learned?
 
-> For teachers
+> **For teachers**
 
-> Be creative. Learning doesn’t have to consist only of reading, thinking, and talking. Sometimes the most memorable learning comes in physically active ways. For example, when you read about how the Lord changed Job’s perspective in [[Job 38|Job 38–40]], you might take a walk and look at some of the Lord’s creations, large and small. Or you might look at an object from different perspectives—from above, below, up close, far away, and so on.
+> **Be creative.** Learning doesn’t have to consist only of reading, thinking, and talking. Sometimes the most memorable learning comes in physically active ways. For example, when you read about how the Lord changed Job’s perspective in [[Job 38|Job 38–40]], you might take a walk and look at some of the Lord’s creations, large and small. Or you might look at an object from different perspectives—from above, below, up close, far away, and so on.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -95,7 +95,7 @@ Here are two general conference messages that can help change our perspective: T
 
 Encourage your children to tell you what they know about Job. If they need help, you could point them to [[Job 1#^job-1-1|Job 1:1, 13–22]]; [[Job 2#^job-2-7|2:7–10]] or to “[Job](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/job?lang=eng)” (in *Old Testament Stories*, 145–47). How did Job respond to challenges? (see [[Job 1#^job-1-21|Job 1:21]]; [[Job 2#^job-2-10|2:10]]).
 
-Job was faithful in his challenges because of what he knew about the Lord. Maybe you and your children could look at pictures of Jesus Christ interacting with others (such as the one below or pictures in the [Gospel Art Book](https://www.churchofjesuschrist.org/study/manual/gospel-art-book?lang=eng)). Talk about what you know about Him and what He is like. Here are some verses that show what Job knew about the Lord: [[Job 12#^job-12-10|Job 12:10, 13, 16]]; [[Job 19#^job-19-25|19:25–27]]. Why is it valuable to know these things about Him?
+Job was faithful in his challenges because of what he knew about the Lord. Maybe you and your children could look at pictures of Jesus Christ interacting with others (such as the one below or pictures in the **[Gospel Art Book](https://www.churchofjesuschrist.org/study/manual/gospel-art-book?lang=eng)). Talk about what you know about Him and what He is like. Here are some verses that show what Job knew about the Lord: [[Job 12#^job-12-10|Job 12:10, 13, 16]]; [[Job 19#^job-19-25|19:25–27]]. Why is it valuable to know these things about Him?
 
 *[[Job 14#^job-14-14|Job 14:14]]*
 
@@ -119,6 +119,6 @@ After reading [[Job 19#^job-19-23|Job 19:23–27]], you and your children could 
 
 You could also sing a song that testifies of the Savior, such as “[I Know That My Redeemer Lives](https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng)” (*Hymns*, no. 136). Share phrases from the hymn that strengthen your faith in Him. Why is it important to know that Jesus Christ lives?
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

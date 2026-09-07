@@ -93,9 +93,9 @@ Here’s another way to illustrate [[Ezekiel 3#^ezek-3-17|Ezekiel 3:17]]; [[Ezek
 
 After reading [[Ezekiel 37#^ezek-37-15|Ezekiel 37:15–23]] together, you and your children could find two sticks and write on one *For Judah (Bible)* and on the other *For Joseph (Book of Mormon)*. You could then share stories or scriptures from the Bible and Book of Mormon that help you feel closer to the Savior and become “[His] people” ([[Ezekiel 37#^ezek-37-23|verse 23]]). Why is it good to have both of these two books of scripture?
 
-> For teachers
+> **For teachers**
 
-> Don’t try to cover everything. You may not be able to explore every truth in Ezekiel with your children. Prayerfully consider what they need to understand, and seek spiritual guidance to determine what to focus on. (See *Teaching in the Savior’s Way*, [17](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/09-teach-by-the-spirit?lang=eng).)
+> **Don’t try to cover everything.** You may not be able to explore every truth in Ezekiel with your children. Prayerfully consider what they need to understand, and seek spiritual guidance to determine what to focus on. (See *Teaching in the Savior’s Way*, [17](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/09-teach-by-the-spirit?lang=eng).)
 
 *[[Ezekiel 47#^ezek-47-1|Ezekiel 47:1–12]]*
 
@@ -105,6 +105,6 @@ After reading [[Ezekiel 37#^ezek-37-15|Ezekiel 37:15–23]] together, you and yo
 
 You could also sing together a song that describes temple blessings, such as “[Families Can Be Together Forever](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/families-can-be-together-forever?lang=eng)” (*Children’s Songbook*, 188). What does this song teach about how the Lord blesses us in His holy house?
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

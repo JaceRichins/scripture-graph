@@ -71,9 +71,9 @@ Joseph’s interpretation of Pharaoh’s dream led to some very wise and practic
 
 See also David A. Bednar, “[[AI Library/10 General Conference/2020/October/We Will Prove Them Herewith (Elder David A. Bednar, October 2020)|We Will Prove Them Herewith]],” *Ensign* or *Liahona*, Nov. 2020, 8–11.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -107,12 +107,12 @@ Perhaps your children could search [[Genesis 39#^gen-39-1|Genesis 39:1–3, 20�
 
 Here’s an object lesson that can help your children follow Joseph’s example of fleeing from Potiphar’s wife: Use two magnets to represent Jesus Christ and Satan. Use a small metal object, like a paper clip, to represent us. Then let your children see how the influence of a magnet on the metal object is stronger when they move the object closer to it. How does Joseph’s experience in [[Genesis 39#^gen-39-7|Genesis 39:7–12]] illustrate this truth? What can we do to move away from sin and closer to Jesus? The video “Temptation Fades as We Seek Christ in Every Thought” (Gospel Library) and a song like “[I Need Thee Every Hour](https://www.churchofjesuschrist.org/study/manual/hymns/i-need-thee-every-hour?lang=eng)” (*Hymns*, no. 98) can help with this discussion.
 
-> For teachers
+> **For teachers**
 
-> Use music. “Hymns and other sacred songs can help children feel God’s love, feel the Spirit, and learn gospel truths. The melodies, rhythms, and simple rhymes can help children remember gospel truths for years to come. As you sing with children, help them discover and understand the principles taught in the songs” (*Teaching in the Savior’s Way*, [32](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/13-suggestions-for-a-variety-of-teaching?lang=eng)).
+> **Use music.** “Hymns and other sacred songs can help children feel God’s love, feel the Spirit, and learn gospel truths. The melodies, rhythms, and simple rhymes can help children remember gospel truths for years to come. As you sing with children, help them discover and understand the principles taught in the songs” (*Teaching in the Savior’s Way*, [32](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/13-suggestions-for-a-variety-of-teaching?lang=eng)).
 
 Help your children think of temptations they might face. Let them role-play how they could “flee” from these temptations.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

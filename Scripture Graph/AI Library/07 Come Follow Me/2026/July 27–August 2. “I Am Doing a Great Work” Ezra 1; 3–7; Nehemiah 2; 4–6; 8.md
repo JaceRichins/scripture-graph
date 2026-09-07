@@ -67,7 +67,7 @@ For generations in captivity, the Jews had limited access to “the book of the 
 
 See also *Teachings of Presidents of the Church: Ezra Taft Benson* (2014), [115–24](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-8-the-power-of-the-word?lang=eng).
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
@@ -109,10 +109,10 @@ Read aloud some phrases from [[Nehemiah 8#^neh-8-2|Nehemiah 8:2–3, 5–6, 8–
 
 As you read together [[Nehemiah 8#^neh-8-8|Nehemiah 8:8]], you could ask your children what helps them understand the scriptures. Show them how to use scripture study aids like the [Guide to the Scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs?lang=eng) and [Topics and Questions](https://www.churchofjesuschrist.org/study/manual/gospel-topics?lang=eng) (Gospel Library). Invite your children to share something they have learned about the Savior from the scriptures.
 
-> For teachers
+> **For teachers**
 
-> Look for eternal truth in the scriptures. “The scriptures … are filled with gospel truths, but sometimes it takes conscious effort to find them. As you are learning together from the scriptures, stop and ask those you teach what gospel truths they notice. Help them see how these truths relate to Heavenly Father’s plan of salvation. Sometimes eternal truths are stated in the scriptures, and sometimes they are illustrated in the stories and lives of the people we read about. It can also be helpful to explore together the historical background of the verses you are reading, as well as the meaning of the verses and how they apply to us today” (*Teaching in the Savior’s Way*, [22](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/10-teach-the-doctrine?lang=eng)).
+> **Look for eternal truth in the scriptures.** “The scriptures … are filled with gospel truths, but sometimes it takes conscious effort to find them. As you are learning together from the scriptures, stop and ask those you teach what gospel truths they notice. Help them see how these truths relate to Heavenly Father’s plan of salvation. Sometimes eternal truths are stated in the scriptures, and sometimes they are illustrated in the stories and lives of the people we read about. It can also be helpful to explore together the historical background of the verses you are reading, as well as the meaning of the verses and how they apply to us today” (*Teaching in the Savior’s Way*, [22](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/10-teach-the-doctrine?lang=eng)).
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

@@ -31,9 +31,9 @@ How can your righteous choices lead others to greater faith in the Lord? (see [[
 
 See also Dieter F. Uchtdorf, “[[AI Library/10 General Conference/2015/October/Be Not Afraid, Only Believe (President Dieter F. Uchtdorf, October 2015)|Be Not Afraid, Only Believe]],” *Ensign* or *Liahona*, Nov. 2015, 76–79.
 
-> For teachers
+> **For teachers**
 
-> Try to involve everyone. The Savior “inviteth … all to come unto him and partake of his goodness” ([[2 Nephi 26#^2ne-26-33|2 Nephi 26:33]]). If you are teaching your family or a class, ponder ways you can give everyone an opportunity to participate in some way. For example, you could give each person a passage of scripture, a section of a conference message, or a verse from a hymn to ponder and comment on. Don’t pressure anyone to participate, but give them opportunities.
+> **Try to involve everyone.** The Savior “inviteth … all to come unto him and partake of his goodness” ([[2 Nephi 26#^2ne-26-33|2 Nephi 26:33]]). If you are teaching your family or a class, ponder ways you can give everyone an opportunity to participate in some way. For example, you could give each person a passage of scripture, a section of a conference message, or a verse from a hymn to ponder and comment on. Don’t pressure anyone to participate, but give them opportunities.
 
 *[[Daniel 2|Daniel 2]]*
 
@@ -99,6 +99,6 @@ As you read [[Daniel 2#^dan-2-31|Daniel 2:31–35, 44–45]] with your children,
 
 Why was praying to Heavenly Father so important to Daniel? Perhaps you and your children could talk about that question as you read [[Daniel 6|Daniel 6]] together. Then you could tell each other why praying is important to you (see also Henry B. Eyring, “[[AI Library/10 General Conference/2026/April/Prayers for Peace (President Henry B. Eyring, April 2026)|Prayers for Peace]],” *Liahona*, May 2026, 26–28). Your children might enjoy drawing pictures of themselves praying in various situations. They could use their drawings to teach each other that we can pray to Heavenly Father no matter where we are or what we need.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

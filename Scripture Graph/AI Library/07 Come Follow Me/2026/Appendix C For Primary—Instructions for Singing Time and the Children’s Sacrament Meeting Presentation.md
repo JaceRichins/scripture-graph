@@ -33,7 +33,9 @@ See *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saint
 
 ## Instructions for Singing Time
 
-*5 minutes (Primary presidency): Opening prayer, scripture or article of faith, and one talk20 minutes (music leader): Singing time*
+*5 minutes (Primary presidency): Opening prayer, scripture or article of faith, and one talk*
+
+*20 minutes (music leader): Singing time*
 
 The Primary presidency and music leader select songs for each month to reinforce principles the children are learning in their classes and at home. A list of songs that reinforce these principles is included in this guide.
 
@@ -119,20 +121,20 @@ The *Children’s Songbook* is the basic resource for music in Primary. Hymns fr
 
 Singing time is intended to help the children learn the truths of the gospel. The following ideas can inspire you as you plan ways to teach the gospel principles found in hymns and Primary songs.
 
-Read related scriptures. For many of the songs in the *Children’s Songbook* and the hymnbook, references to related scriptures are listed. Help the children read some of these passages, and talk about how the scriptures are related to the song. You could also list a few scripture references on the board and invite the children to match each reference to a song or a verse from a song.
+**Read related scriptures.** For many of the songs in the *Children’s Songbook* and the hymnbook, references to related scriptures are listed. Help the children read some of these passages, and talk about how the scriptures are related to the song. You could also list a few scripture references on the board and invite the children to match each reference to a song or a verse from a song.
 
-Fill in the blank. Write a verse of the song on the board with several key words missing. Then ask the children to sing the song, listening for the words that fill in the blanks. As they fill in each blank, discuss what gospel principles you learn from the missing words.
+**Fill in the blank.** Write a verse of the song on the board with several key words missing. Then ask the children to sing the song, listening for the words that fill in the blanks. As they fill in each blank, discuss what gospel principles you learn from the missing words.
 
-Testify. Bear brief testimony to the children of gospel truths found in the Primary song. Help the children understand that singing is one way they can bear testimony and feel the Spirit.
+**Testify.** Bear brief testimony to the children of gospel truths found in the Primary song. Help the children understand that singing is one way they can bear testimony and feel the Spirit.
 
-Stand as a witness. Invite children to take turns standing and sharing what they learn from the song they are singing or how they feel about the truths taught in the song. Ask them how they feel as they sing the song, and help them identify the influence of the Holy Ghost.
+**Stand as a witness.** Invite children to take turns standing and sharing what they learn from the song they are singing or how they feel about the truths taught in the song. Ask them how they feel as they sing the song, and help them identify the influence of the Holy Ghost.
 
-Use pictures. Ask the children to help you find or create pictures that go with important words or phrases in the song. Invite them to share how the pictures relate to the song and what the song teaches. For example, if you are teaching the song “[When He Comes Again](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/when-he-comes-again?lang=eng)” (*Children’s Songbook*, 82–83), you could place pictures throughout the room that depict important words from the song (such as *angels*, *snow*, and *star*). Ask the children to gather the pictures and hold them up in the correct order as you sing the song together.
+**Use pictures.** Ask the children to help you find or create pictures that go with important words or phrases in the song. Invite them to share how the pictures relate to the song and what the song teaches. For example, if you are teaching the song “[When He Comes Again](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/when-he-comes-again?lang=eng)” (*Children’s Songbook*, 82–83), you could place pictures throughout the room that depict important words from the song (such as *angels*, *snow*, and *star*). Ask the children to gather the pictures and hold them up in the correct order as you sing the song together.
 
-Share an object lesson. You could use an object to inspire discussion about a song. For example, when singing the song “[My Heavenly Father Loves Me](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/my-heavenly-father-loves-me?lang=eng)” (*Children’s Songbook*, 228–29), you could show the children a picture of things like a bird, rain, or flowers. This could lead to a discussion about how we can find signs of Heavenly Father’s love all around us.
+**Share an object lesson.** You could use an object to inspire discussion about a song. For example, when singing the song “[My Heavenly Father Loves Me](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/my-heavenly-father-loves-me?lang=eng)” (*Children’s Songbook*, 228–29), you could show the children a picture of things like a bird, rain, or flowers. This could lead to a discussion about how we can find signs of Heavenly Father’s love all around us.
 
-Invite sharing of personal experiences. Help the children connect the principles taught in the song with experiences they have had with these principles. For example, before singing “[I Love to See the Temple](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/i-love-to-see-the-temple?lang=eng)” (*Children’s Songbook*, 95), you could ask the children to raise their hands if they have seen a temple. Invite them, as they sing, to think about how they feel when they see a temple.
+**Invite sharing of personal experiences.** Help the children connect the principles taught in the song with experiences they have had with these principles. For example, before singing “[I Love to See the Temple](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/i-love-to-see-the-temple?lang=eng)” (*Children’s Songbook*, 95), you could ask the children to raise their hands if they have seen a temple. Invite them, as they sing, to think about how they feel when they see a temple.
 
-Ask questions. There are many questions you can ask as you sing songs. For example, you can ask the children what they learn from each verse in the song. You can also ask them to think of questions that the song answers. This can lead to a discussion about the truths taught in the song.
+**Ask questions.** There are many questions you can ask as you sing songs. For example, you can ask the children what they learn from each verse in the song. You can also ask them to think of questions that the song answers. This can lead to a discussion about the truths taught in the song.
 
-Use simple hand actions. Invite the children to think of simple hand actions to help them remember the words and messages of a song. For example, when you sing “[Search, Ponder, and Pray](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/search-ponder-and-pray?lang=eng)” (*Children’s Songbook*, 109), you could invite the children to point to their eyes as they sing about searching the scriptures, point to their heads as they sing about pondering, and fold their arms as they sing about praying.
+**Use simple hand actions.** Invite the children to think of simple hand actions to help them remember the words and messages of a song. For example, when you sing “[Search, Ponder, and Pray](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/search-ponder-and-pray?lang=eng)” (*Children’s Songbook*, 109), you could invite the children to point to their eyes as they sing about searching the scriptures, point to their heads as they sing about pondering, and fold their arms as they sing about praying.

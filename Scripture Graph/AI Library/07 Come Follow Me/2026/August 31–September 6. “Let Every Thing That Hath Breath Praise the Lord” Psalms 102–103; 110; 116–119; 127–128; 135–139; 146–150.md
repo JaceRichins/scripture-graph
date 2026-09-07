@@ -103,9 +103,9 @@ What do you find in [[Psalm 139|Psalm 139]] that helps you understand that the L
 
 As you read these final psalms of praise, think about reasons you have to praise the Lord. Why is it important to praise Him? What are some ways you can praise Him?
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
 ### Scripture Helps
 
@@ -149,10 +149,10 @@ Write the words of [[Psalm 139#^ps-139-23|Psalm 139:23–24]] on a piece of pape
 
 Maybe your children could share experiences when someone praised them or told them they did a good job. Share some of the good things from [[Psalm 146#^ps-146-6|Psalm 146:6–9]] that the Lord has done (help your children understand unfamiliar words). Invite your children to talk about other things He does for us. How can we praise Him for those things?
 
-> For teachers
+> **For teachers**
 
-> Learn at home; share with others. President Russell M. Nelson has taught that the home should be the “center of gospel learning” (“[[AI Library/10 General Conference/2018/October/Becoming Exemplary Latter-day Saints (President Russell M. Nelson, October 2018)|Becoming Exemplary Latter-day Saints]],” *Ensign* or *Liahona*, Nov. 2018, 13). What can you do this week to deepen your personal or family study of Psalms? After your study, consider sharing with others what you learned and felt. You could do this in conversation, through text or social media, or at church.
+> **Learn at home; share with others.** President Russell M. Nelson has taught that the home should be the “center of gospel learning” (“[[AI Library/10 General Conference/2018/October/Becoming Exemplary Latter-day Saints (President Russell M. Nelson, October 2018)|Becoming Exemplary Latter-day Saints]],” *Ensign* or *Liahona*, Nov. 2018, 13). What can you do this week to deepen your personal or family study of Psalms? After your study, consider sharing with others what you learned and felt. You could do this in conversation, through text or social media, or at church.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

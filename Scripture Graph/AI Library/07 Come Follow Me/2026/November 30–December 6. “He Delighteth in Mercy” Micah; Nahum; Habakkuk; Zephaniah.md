@@ -45,9 +45,9 @@ The Lord responded to Habakkuk’s questions by saying that He would send the Ch
 
 See also Gerrit W. Gong, “[[AI Library/10 General Conference/2024/April/All Things for Our Good (Elder Gerrit W. Gong, April 2024)|All Things for Our Good]],” *Liahona*, May 2024, 41–44; “[Lead, Kindly Light](https://www.churchofjesuschrist.org/study/manual/hymns/lead-kindly-light?lang=eng),” *Hymns*, no. 97; Topics and Questions, “[Seeking Answers to Your Questions](https://www.churchofjesuschrist.org/study/manual/gospel-topics/seeking-answers/01-intro-seeking-answers?lang=eng),” Gospel Library.
 
-> For teachers
+> **For teachers**
 
-> Be patient. Sometimes we want answers to our questions right away, but spiritual insights take time and cannot be forced. As the Lord told Habakkuk, “Wait for it; because it will surely come” ([[Habakkuk 2#^hab-2-3|Habakkuk 2:3]]).
+> **Be patient.** Sometimes we want answers to our questions right away, but spiritual insights take time and cannot be forced. As the Lord told Habakkuk, “Wait for it; because it will surely come” ([[Habakkuk 2#^hab-2-3|Habakkuk 2:3]]).
 
 *[[Zephaniah 1|Zephaniah]]*
 
@@ -61,9 +61,9 @@ As you read Zephaniah’s prophecies, notice the attitudes and behaviors that le
 
 After reading [[Zephaniah 3#^zeph-3-14|Zephaniah 3:14–20]], see how many ways you can complete this sentence: *“Be glad and rejoice with all the heart” because …* Why is it important to you to know about these reasons to rejoice? You might compare these verses to the experiences described in [[3 Nephi 17|3 Nephi 17]] and ponder how Jesus Christ feels about His people—including you.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -109,6 +109,6 @@ You could also show your children a map of the world (see Church History Maps, n
 
 In [[Zephaniah 3#^zeph-3-14|Zephaniah 3:14–20]], your children could look for something that makes them want to “sing, … be glad and rejoice with all the heart.” Perhaps you could sing some joyful hymns or songs together and talk about the joy you find in the gospel of Jesus Christ.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

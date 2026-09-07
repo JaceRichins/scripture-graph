@@ -27,9 +27,9 @@ The books of Proverbs and Ecclesiastes are filled with insights about wisdom. Co
 
 See also [[Matthew 7#^matt-7-24|Matthew 7:24–27]]; [[Matthew 25#^matt-25-1|25:1–13]].
 
-> For teachers
+> **For teachers**
 
-> Help learners share what they’re learning. “Give learners opportunities to share with each other what they are learning about the Savior and His gospel. Doing this will help them internalize the truths they are taught and express them. It will also help them gain confidence in their ability to share truths in other settings” (*Teaching in the Savior’s Way*, [26](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=eng)). For example, you could invite learners to write down some references from Proverbs or Ecclesiastes where they found insights about God’s wisdom. Then invite learners to talk about what they learned.
+> **Help learners share what they’re learning.** “Give learners opportunities to share with each other what they are learning about the Savior and His gospel. Doing this will help them internalize the truths they are taught and express them. It will also help them gain confidence in their ability to share truths in other settings” (*Teaching in the Savior’s Way*, [26](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=eng)). For example, you could invite learners to write down some references from Proverbs or Ecclesiastes where they found insights about God’s wisdom. Then invite learners to talk about what they learned.
 
 *[[Proverbs 1#^prov-1-7|Proverbs 1:7]]; [[Proverbs 2#^prov-2-5|2:5]]; [[Proverbs 3#^prov-3-7|3:7]]; [[Proverbs 15#^prov-15-33|15:33]]; [[Proverbs 16#^prov-16-6|16:6]]; [[Proverbs 31#^prov-31-30|31:30]]; [[Ecclesiastes 12#^eccl-12-13|Ecclesiastes 12:13]]*
 
@@ -77,7 +77,7 @@ See also Neil L. Andersen, “[[AI Library/10 General Conference/2022/April/Foll
 
 Why is it valuable for you to remember that much in this world, as [[Ecclesiastes 1|Ecclesiastes 1–2]] asserts, is “vanity” (or temporary and often unimportant)? What do you find in [[Ecclesiastes 12|Ecclesiastes 12]] that gives life eternal value?
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
@@ -113,6 +113,6 @@ Perhaps you and your children can think of situations when you or they might fee
 
 To learn what it means to be “slow to anger” ([[Proverbs 15#^prov-15-18|Proverbs 15:18]]), you and your children could share times when you (or someone you know) felt angry but chose to be kind. Help your children think of things we can be *quick to* if we are “slow to anger.” For example, we can be quick to think about Jesus, to ask Heavenly Father for help, to think of a Primary song, or, if possible, to walk away.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

@@ -33,7 +33,9 @@ Ulisses Soares, “[[AI Library/10 General Conference/2023/October/Brothers and 
 
 D. Todd Christofferson, “[[AI Library/10 General Conference/2023/April/One in Christ (Elder D. Todd Christofferson, April 2023)|One in Christ]],” *Liahona*, May 2023, 77–80.
 
-“[We Come Together and Unite as One](https://www.churchofjesuschrist.org/media/video/2012-01-3040-we-come-together-unite-as-one)” (video), *Gospel Library[[Moses 7#^moses-7-53|Moses 7:53]]*
+“[We Come Together and Unite as One](https://www.churchofjesuschrist.org/media/video/2012-01-3040-we-come-together-unite-as-one)” (video), *Gospel Library*
+
+*[[Moses 7#^moses-7-53|Moses 7:53]]*
 
 ### Jesus Christ is “the King of Zion.”
 
@@ -59,9 +61,9 @@ Enoch’s vision, especially what’s recorded in [[Moses 7#^moses-7-59|Moses 7:
 
 See also Henry B. Eyring, “[[AI Library/10 General Conference/2020/October/Sisters in Zion (President Henry B. Eyring, October 2020)|Sisters in Zion]],” *Ensign* or *Liahona*, Nov. 2020, 67–69.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -85,9 +87,9 @@ Here’s one way to help your children understand what it means to be of “one 
 
 Help your children count how many times the word “Zion” appears in [[Moses 7#^moses-7-18|Moses 7:18–21, 62–63, 68–69]]. Each time they find the word, help them discover what the verse says about Zion (see also Guide to the Scriptures, “[Zion](https://www.churchofjesuschrist.org/study/scriptures/gs/zion?lang=eng),” Gospel Library). How can we be more like the people described in these verses?
 
-> For teachers
+> **For teachers**
 
-> Encourage personal scripture study. Whether you’re teaching your family at home or a class on Sunday, one of the best ways you can help others build lasting faith in Jesus Christ is to help them establish a habit of seeking personal experiences with the scriptures. Share the experiences you’re having with the scriptures, and encourage family or class members to share their experiences. When we hear about how reading the scriptures is blessing others, we are often inspired to seek these same blessings from the Lord. (See *Teaching in the Savior’s Way*, [25](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=eng).)
+> **Encourage personal scripture study.** Whether you’re teaching your family at home or a class on Sunday, one of the best ways you can help others build lasting faith in Jesus Christ is to help them establish a habit of seeking personal experiences with the scriptures. Share the experiences you’re having with the scriptures, and encourage family or class members to share their experiences. When we hear about how reading the scriptures is blessing others, we are often inspired to seek these same blessings from the Lord. (See *Teaching in the Savior’s Way*, [25](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=eng).)
 
 *[[Moses 7#^moses-7-32|Moses 7:32–33]]*
 
@@ -103,6 +105,6 @@ In [[Moses 7#^moses-7-59|Moses 7:59]], Enoch asks the Lord a question. Invite yo
 
 Consider showing pictures of times when the Savior appeared to people (such as *Gospel Art Book*, [nos. 60](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/new-testament?lang=eng), [82](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/book-of-mormon?lang=eng), [83](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/book-of-mormon?lang=eng), and [84](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/book-of-mormon?lang=eng)). What are the people doing in the pictures? How might the people have felt when they met Jesus? You could also sing a song about the Savior’s Second Coming, such as “[When He Comes Again](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/when-he-comes-again?lang=eng)” (*Children’s Songbook*, 82–83), and ask the children what they think it will be like when Jesus comes again. Let the children share how they feel about seeing Jesus when He comes again.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

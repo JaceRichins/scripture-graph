@@ -47,9 +47,9 @@ At the end of this outline is a painting that depicts Jacob’s dream; you might
 
 The hymn “[Nearer, My God, to Thee](https://www.churchofjesuschrist.org/study/manual/hymns/nearer-my-god-to-thee?lang=eng)” (*Hymns*, no. 100) is based on Jacob’s experience. What connections do you see between this song and [[Genesis 28#^gen-28-10|Genesis 28:10–22]]? How does the temple help you feel nearer to God? Consider looking for answers to this question in President Russell M. Nelson’s message “[[AI Library/10 General Conference/2021/October/The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]]” (*Liahona*, Nov. 2021, 93–96). You may also want to review the covenants and blessings of the house of the Lord in *General Handbook*, [27.2](https://www.churchofjesuschrist.org/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng) (Gospel Library). How does keeping these covenants bring God’s power into your life?
 
-> For teachers
+> **For teachers**
 
-> Be creative. There are many ways to learn from the scriptures besides just reading them. Some people find that they understand the scriptures better if they draw pictures of the accounts. Others find spiritual insights in sacred music related to the scriptures. Don’t limit yourself to one way of learning; be open to trying a variety of approaches.
+> **Be creative.** There are many ways to learn from the scriptures besides just reading them. Some people find that they understand the scriptures better if they draw pictures of the accounts. Others find spiritual insights in sacred music related to the scriptures. Don’t limit yourself to one way of learning; be open to trying a variety of approaches.
 
 *[[Genesis 29#^gen-29-31|Genesis 29:31–35]]; [[Genesis 30#^gen-30-1|30:1–24]]*
 
@@ -71,9 +71,9 @@ What do you learn about forgiveness from Esau’s example?
 
 How can the Savior help us heal family relationships?
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -113,6 +113,6 @@ As you read [[Genesis 28#^gen-28-10|Genesis 28:10–22]] together, you could use
 
 To introduce these verses, you might explain that after many years of hard feelings, Jacob was going to meet Esau again. Read together [[Genesis 32#^gen-32-6|Genesis 32:6–11]]. How did Jacob feel? What did he do to get help? Read together [[Genesis 33#^gen-33-1|Genesis 33:1–4]] to discover how the Lord answered Jacob’s prayer. If Jacob and Esau could talk to us today, what might they say to help us when there is contention in our family?
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

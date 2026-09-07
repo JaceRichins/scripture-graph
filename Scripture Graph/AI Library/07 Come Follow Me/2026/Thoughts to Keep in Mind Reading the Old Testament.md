@@ -33,7 +33,7 @@ These are just a few things to keep in mind as you read the Old Testament this y
 
 Nephi said, “My soul delighteth in the scriptures” ([[2 Nephi 4#^2ne-4-15|2 Nephi 4:15]]). Maybe you’ll feel the same way as you read many of the same words Nephi read—what we now call the Old Testament.
 
-> For teachers
+> **For teachers**
 
 > Books in the Old Testament
 

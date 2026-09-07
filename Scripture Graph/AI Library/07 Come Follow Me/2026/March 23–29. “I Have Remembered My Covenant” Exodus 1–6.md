@@ -33,9 +33,9 @@ Before you begin reading Exodus, you might think about a hardship you’re going
 
 Throughout the book of Exodus, you might also note some similarities between Moses and Jesus Christ (see [[Deuteronomy 18#^deut-18-18|Deuteronomy 18:18–19]]; [[1 Nephi 22#^1ne-22-20|1 Nephi 22:20–21]]). For example, what similarities do you see between [[Exodus 1#^ex-1-22|Exodus 1:22]]; [[Exodus 2#^ex-2-1|2:1–10]] and [[Matthew 2#^matt-2-13|Matthew 2:13–16]]? Or between [[Exodus 24#^ex-24-18|Exodus 24:18]] and [[Matthew 4#^matt-4-1|Matthew 4:1–2]]? What do you feel the Lord wants you to understand about Himself and His power?
 
-> For teachers
+> **For teachers**
 
-> Look for symbols that testify of Jesus Christ. “You can … find parallels to the Savior’s life in the lives of prophets and other faithful men and women in the scriptures. [Doing so] reveals truths about the Savior in places you might otherwise overlook” (See *Teaching in the Savior’s Way*, [7](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=eng); see also [[Hosea 12#^hosea-12-10|Hosea 12:10]]).
+> **Look for symbols that testify of Jesus Christ.** “You can … find parallels to the Savior’s life in the lives of prophets and other faithful men and women in the scriptures. [Doing so] reveals truths about the Savior in places you might otherwise overlook” (See *Teaching in the Savior’s Way*, [7](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=eng); see also [[Hosea 12#^hosea-12-10|Hosea 12:10]]).
 
 *[[Exodus 3#^ex-3-1|Exodus 3:1–6]]*
 
@@ -67,9 +67,9 @@ It can be discouraging when our sincere efforts to do good don’t seem to be wo
 
 See also Jeffrey R. Holland, “[[AI Library/10 General Conference/2020/October/Waiting on the Lord (Elder Jeffrey R. Holland, October 2020)|Waiting on the Lord]],” *Ensign* or *Liahona*, Nov. 2020, 115–17.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -105,6 +105,6 @@ Sing together a song about reverence, such as “[Reverence Is Love](https://www
 
 Using the account in [[Exodus 3|Exodus 3]]; [[Exodus 4#^ex-4-1|4:1–17]], let your children take turns pretending to be Moses. It might be fun to include objects or simple props, such as a flashlight and a plant to represent the burning bush. Help your children discover how Moses felt about the assignment the Lord gave him (see [[Exodus 3#^ex-3-11|Exodus 3:11]]; [[Exodus 4#^ex-4-1|4:1, 10]]). Maybe you could share with each other times when you had similar feelings. What advice would we share with Moses to help him? Read about how the Lord encouraged Moses in [[Exodus 3#^ex-3-12|Exodus 3:12]]; [[Exodus 4#^ex-4-2|4:2–9, 11–12]]. Tell the children how the Savior has helped you fulfill a calling, follow a prompting, or do something else that was hard for you.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

@@ -57,11 +57,11 @@ Ponder times when you feel the Lord has spoken to you. How would you describe th
 
 See also [[Psalm 46#^ps-46-10|Psalm 46:10]].
 
-> For teachers
+> **For teachers**
 
-> Use multiple senses to enhance learning. We all learn about the world through our five senses. Using those senses can also enhance gospel learning. For example, think of images or sounds you could use to illustrate the words “still” and “small” as you learn or teach about the Lord’s voice in [[1 Kings 19|1 Kings 19]].
+> **Use multiple senses to enhance learning.** We all learn about the world through our five senses. Using those senses can also enhance gospel learning. For example, think of images or sounds you could use to illustrate the words “still” and “small” as you learn or teach about the Lord’s voice in [[1 Kings 19|1 Kings 19]].
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
@@ -107,6 +107,6 @@ As you summarize [[1 Kings 19#^1kgs-19-9|1 Kings 19:9–12]], invite your childr
 
 Quietly sing a song about the Spirit, such as “[The Still Small Voice](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/the-still-small-voice?lang=eng)” (*Children’s Songbook*, 106–7) or “[Elijah and the Still, Small Voice](https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/elijah-and-the-still-small-voice?lang=eng)” (*Hymns for Home and Church*, Gospel Library). What can distract us from recognizing the Spirit? What can help us hear Him?
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

@@ -31,9 +31,9 @@ In his message “[[AI Library/10 General Conference/2015/April/“Is Not This t
 
 See also “[Bless Our Fast, We Pray](https://www.churchofjesuschrist.org/study/manual/hymns/bless-our-fast-we-pray?lang=eng),” *Hymns*, no. 138; Topics and Questions, “[[AI Library/02 Gospel Topics/Reference/Fasting (Gospel Topics)|Fasting and Fast Offerings,]]” Gospel Library.
 
-> For teachers
+> **For teachers**
 
-> Get to know the people you teach. “Being a Christlike teacher includes getting to know the people you teach and striving to understand what is in their hearts. … You can find out how they learn best. You can ask questions, listen carefully, and observe. Above all, you can pray for the understanding that only the Spirit can give. The better you know a person, the better able you are to help him or her find personal meaning and power in the gospel of Jesus Christ. Once you understand a person’s thirst, the Spirit can teach you how to help quench it with the Savior’s living water” (*Teaching in the Savior’s Way*, [13](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/08-love-those-you-teach?lang=eng)).
+> **Get to know the people you teach.** “Being a Christlike teacher includes getting to know the people you teach and striving to understand what is in their hearts. … You can find out how they learn best. You can ask questions, listen carefully, and observe. Above all, you can pray for the understanding that only the Spirit can give. The better you know a person, the better able you are to help him or her find personal meaning and power in the gospel of Jesus Christ. Once you understand a person’s thirst, the Spirit can teach you how to help quench it with the Savior’s living water” (*Teaching in the Savior’s Way*, [13](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/07-part-2/08-love-those-you-teach?lang=eng)).
 
 *[[Isaiah 58#^isa-58-13|Isaiah 58:13–14]]*
 
@@ -75,7 +75,7 @@ Isaiah spoke of a day when “the former troubles are forgotten” ([[Isaiah 65#
 
 See also [[Articles of Faith 1#^aoff-1-10|Articles of Faith 1:10]]; Russell M. Nelson, “[The Future of the Church: Preparing the World for the Savior’s Second Coming](https://www.churchofjesuschrist.org/study/ensign/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=eng),” *Ensign*, Apr. 2020, 13–17.
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issues of the *[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona)* and *[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth)* magazines.
 
@@ -121,6 +121,6 @@ You could invite your children to close their eyes as you read [[Isaiah 60#^isa-
 
 You could also sing together a song about the Second Coming, such as “[When the Savior Comes Again](https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/when-the-savior-comes-again?lang=eng)” (*Hymns for Home and Church*, Gospel Library). Share with each other what you are looking forward to about the Savior’s return. What can we do to prepare for that day?
 
-> For teachers
+> **For teachers**
 
 > For more, see this month’s issue of the *[Friend](https://www.churchofjesuschrist.org/study/magazines/friend)* magazine.

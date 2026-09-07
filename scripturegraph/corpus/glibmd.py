@@ -205,7 +205,8 @@ class _MdBuilder(HTMLParser):
                 out.append(("\n" if out else "") + b)
         md = "\n".join(out)
         md = re.sub(r"\n{3,}", "\n\n", md).strip()
-        md = re.sub(r"\*\*\s*\*\*|\*\s*\*", "", md)   # empty emphasis
+        md = re.sub(r"\*\*(\s*)\*\*", r"", md)                 # empty bold
+        md = re.sub(r"(?<![*\w])\*(\s+)\*(?![*\w])", r"", md)     # empty italics
         return md
 
 

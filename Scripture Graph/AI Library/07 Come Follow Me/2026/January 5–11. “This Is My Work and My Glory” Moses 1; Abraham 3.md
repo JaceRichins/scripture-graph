@@ -39,9 +39,9 @@ Another lesson from Moses’s experience is that Satan tempts us with counterfei
 
 See also [[Matthew 4#^matt-4-1|Matthew 4:1–11]]; Gary E. Stevenson, “[[AI Library/10 General Conference/2019/October/Deceive Me Not (Elder Gary E. Stevenson, October 2019)|Deceive Me Not]],” *Ensign* or *Liahona*, Nov. 2019, 93–96; “I Am a Son of God” (video), Gospel Library.
 
-> For teachers
+> **For teachers**
 
-> Learning at home can be planned but also spontaneous. “Teaching opportunities in the family frequently occur in informal, everyday moments—while eating a meal, doing chores, playing games, [or] traveling” (*Teaching in the Savior’s Way*, 31). For example, in addition to reading about how Moses resisted Satan in [[Moses 1|Moses 1]], you might spend a few moments at dinnertime talking as a family about how you resisted the influence of the adversary.
+> **Learning at home can be planned but also spontaneous.** “Teaching opportunities in the family frequently occur in informal, everyday moments—while eating a meal, doing chores, playing games, [or] traveling” (*Teaching in the Savior’s Way*, 31). For example, in addition to reading about how Moses resisted Satan in [[Moses 1|Moses 1]], you might spend a few moments at dinnertime talking as a family about how you resisted the influence of the adversary.
 
 *[[Moses 1#^moses-1-27|Moses 1:27–39]]; [[Abraham 3|Abraham 3]]*
 
@@ -57,9 +57,9 @@ We know very little about our premortal life. But much of what we do know comes 
 
 See also Topics and Questions, “[[AI Library/02 Gospel Topics/Reference/Premortal Life (Gospel Topics)|Premortal Life]],” Gospel Library.
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issues of the [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and [For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
+> For more, see this month’s issues of the **[Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona) and **[For the Strength of Youth](https://www.churchofjesuschrist.org/study/magazines/for-the-strength-of-youth) magazines.
 
 ### Scripture Helps
 
@@ -101,8 +101,8 @@ Knowing about our premortal life can inspire your children to make choices based
 
 A song like “[I Will Follow God’s Plan](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/i-will-follow-gods-plan)” (*Children’s Songbook*, 164–65) could reinforce what [[Abraham 3|Abraham 3]] teaches. Maybe you could invite your children to draw pictures that go with the words.
 
-Help your children think of situations in which they have to choose whether or not to do what God has asked them to (see [[Abraham 3#^abr-3-25|Abraham 3:25]]; see also [For the Strength of Youth: A Guide for Making Choices](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng)). Let them practice possible responses to these situations. How can the Savior help us when we make a wrong choice?
+Help your children think of situations in which they have to choose whether or not to do what God has asked them to (see [[Abraham 3#^abr-3-25|Abraham 3:25]]; see also **[For the Strength of Youth: A Guide for Making Choices](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng)). Let them practice possible responses to these situations. How can the Savior help us when we make a wrong choice?
 
-> For teachers
+> **For teachers**
 
-> For more, see this month’s issue of the [Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.
+> For more, see this month’s issue of the **[Friend](https://www.churchofjesuschrist.org/study/magazines/friend) magazine.

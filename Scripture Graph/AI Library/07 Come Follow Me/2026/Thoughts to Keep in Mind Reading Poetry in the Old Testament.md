@@ -55,7 +55,7 @@ Poems can be wonderful friends because they help us understand our feelings and 
 
 As you study the poetry in the Old Testament, remember that scripture study is most valuable when it leads us to Jesus Christ. Look for symbols, imagery, and truths that build your faith in Him. Listen for inspiration from the Holy Ghost as you study.
 
-> For teachers
+> **For teachers**
 
 > Wisdom Literature
 
