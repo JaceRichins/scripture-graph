@@ -95,7 +95,9 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "There Is a Balm in Gilead",
-          "a": "Spiritual"
+          "a": "Spiritual",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3b/A_balm_in_Gilead_-_Vale_Of_Towey_Male_Voice_Choir.ogg/A_balm_in_Gilead_-_Vale_Of_Towey_Male_Voice_Choir.ogg.mp3",
+          "credit": "A balm in Gilead - Vale Of Towey Male Voice Choir.ogg (cc by-sa 3.0)"
         },
         {
           "t": "The Lord Bless You and Keep You",
@@ -120,134 +122,6 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Hope Has a Name",
           "a": "River Valley Worship"
-        }
-      ]
-    },
-    {
-      "key": "wonder",
-      "title": "Wonder",
-      "blurb": "Awe: the heavens, the deep, and the God who made them.",
-      "cover": "music-wonder",
-      "tracks": [
-        {
-          "t": "If You Could Hie to Kolob",
-          "a": "Hymn"
-        },
-        {
-          "t": "His Voice as the Sound of the Dulcimer",
-          "a": "American folk hymn, arr. Mack Wilberg"
-        },
-        {
-          "t": "Deep River",
-          "a": "Spiritual"
-        },
-        {
-          "t": "How Great Thou Art",
-          "a": "Hymn"
-        },
-        {
-          "t": "O My Father",
-          "a": "Hymn"
-        },
-        {
-          "t": "Oh Say, What Is Truth?",
-          "a": "Hymn"
-        },
-        {
-          "t": "The Morning Breaks",
-          "a": "Hymn"
-        },
-        {
-          "t": "God of Our Fathers, Whose Almighty Hand",
-          "a": "Hymn"
-        },
-        {
-          "t": "Adam-ondi-Ahman",
-          "a": "Hymn"
-        },
-        {
-          "t": "Beautiful Savior (Crusader's Hymn)",
-          "a": "Primary"
-        },
-        {
-          "t": "My Heavenly Father Loves Me",
-          "a": "Primary"
-        },
-        {
-          "t": "I Wonder When He Comes Again",
-          "a": "Primary"
-        },
-        {
-          "t": "Come, Thou Fount of Every Blessing",
-          "a": "Hymn"
-        },
-        {
-          "t": "Stars",
-          "a": "Ēriks Ešenvalds"
-        },
-        {
-          "t": "Northern Lights",
-          "a": "Ola Gjeilo"
-        },
-        {
-          "t": "O Magnum Mysterium",
-          "a": "Morten Lauridsen"
-        },
-        {
-          "t": "O Nata Lux",
-          "a": "Morten Lauridsen"
-        },
-        {
-          "t": "Lux aurumque",
-          "a": "Eric Whitacre"
-        },
-        {
-          "t": "Water Night",
-          "a": "Eric Whitacre"
-        },
-        {
-          "t": "Sure on This Shining Night",
-          "a": "Morten Lauridsen"
-        },
-        {
-          "t": "The Heavens Are Telling (The Creation)",
-          "a": "Joseph Haydn"
-        },
-        {
-          "t": "Earth Song",
-          "a": "Frank Ticheli"
-        },
-        {
-          "t": "Shenandoah",
-          "a": "American folk song"
-        },
-        {
-          "t": "Wayfaring Stranger",
-          "a": "American folk song"
-        },
-        {
-          "t": "Ave Maria",
-          "a": "Franz Biebl"
-        },
-        {
-          "t": "Spem in alium",
-          "a": "Thomas Tallis"
-        },
-        {
-          "t": "Sicut cervus",
-          "a": "G. P. da Palestrina"
-        },
-        {
-          "t": "The Lord Is My Shepherd",
-          "a": "John Rutter"
-        },
-        {
-          "t": "O Divine Redeemer",
-          "a": "Charles Gounod"
-        },
-        {
-          "t": "Homeward Bound",
-          "a": "Marta Keen"
         }
       ]
     },
@@ -319,23 +193,31 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Jesu, Joy of Man's Desiring",
-          "a": "J. S. Bach"
+          "a": "J. S. Bach",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jesu%2C_Joy_of_Man%27s_Desiring_%28ISRC_USUAN1100189%29.mp3?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+          "credit": "Jesu, Joy of Man's Desiring (ISRC USUAN1100189).mp3 (cc by 3.0)"
         },
         {
           "t": "Ave verum corpus",
-          "a": "W. A. Mozart"
+          "a": "W. A. Mozart",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/31/Ave_Verum_Corpus_-_Rhymney_Millennium_Chorale.ogg/Ave_Verum_Corpus_-_Rhymney_Millennium_Chorale.ogg.mp3",
+          "credit": "Ave Verum Corpus - Rhymney Millennium Chorale.ogg (cc by-sa 3.0)"
         },
         {
           "t": "Pie Jesu",
-          "a": "Gabriel Fauré"
+          "a": "Gabriel Fauré",
+          "url": ""
         },
         {
           "t": "Deep River",
-          "a": "Spiritual"
+          "a": "Spiritual",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/Deep_River_-_Alun_Jones.ogg/Deep_River_-_Alun_Jones.ogg.mp3",
+          "credit": "Deep River - Alun Jones.ogg (cc by-sa 3.0)"
         },
         {
           "t": "Peace Like a River",
-          "a": "Spiritual"
+          "a": "Spiritual",
+          "url": ""
         },
         {
           "t": "Still",
@@ -451,11 +333,13 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Soldiers of Christ, Arise",
-          "a": "Charles Wesley"
+          "a": "Charles Wesley",
+          "url": ""
         },
         {
           "t": "Zadok the Priest",
-          "a": "G. F. Handel"
+          "a": "G. F. Handel",
+          "url": ""
         }
       ]
     },
@@ -515,7 +399,9 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Miserere mei, Deus",
-          "a": "Gregorio Allegri"
+          "a": "Gregorio Allegri",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/Allegri_-_Miserere_Mei%2C_Deus_-_Ensamble_Esc%C3%A9nico_Vocal_%28audio%29.ogg/Allegri_-_Miserere_Mei%2C_Deus_-_Ensamble_Esc%C3%A9nico_Vocal_%28audio%29.ogg.mp3",
+          "credit": "Allegri - Miserere Mei, Deus - Ensamble Escénico Vocal (audio).ogg (cc by 3.0)"
         },
         {
           "t": "Amazing Grace (My Chains Are Gone)",
@@ -539,15 +425,18 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Nothing but the Blood",
-          "a": "Robert Lowry"
+          "a": "Robert Lowry",
+          "url": ""
         },
         {
           "t": "Just As I Am",
-          "a": "Charlotte Elliott"
+          "a": "Charlotte Elliott",
+          "url": ""
         },
         {
           "t": "Kyrie (Mass in B minor)",
-          "a": "J. S. Bach"
+          "a": "J. S. Bach",
+          "url": ""
         },
         {
           "t": "The Prodigal",
@@ -631,7 +520,9 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Hallelujah (Messiah)",
-          "a": "G. F. Handel"
+          "a": "G. F. Handel",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/Handel_Messiah_Hallelujah_by_Oratorio_Chorus.ogg/Handel_Messiah_Hallelujah_by_Oratorio_Chorus.ogg.mp3",
+          "credit": "Handel Messiah Hallelujah by Oratorio Chorus.ogg (public domain)"
         },
         {
           "t": "Great Is Thy Faithfulness",
@@ -639,11 +530,15 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Holy, Holy, Holy",
-          "a": "Reginald Heber"
+          "a": "Reginald Heber",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2f/Byrd_4-Part_Mass_-_Sanctus.ogg/Byrd_4-Part_Mass_-_Sanctus.ogg.mp3",
+          "credit": "Byrd 4-Part Mass - Sanctus.ogg (cc by 3.0)"
         },
         {
           "t": "Gloria (Vivaldi)",
-          "a": "Antonio Vivaldi"
+          "a": "Antonio Vivaldi",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Vivaldi_Gloriapatri_DixitDominus_RV807_Esmuc.ogg/Vivaldi_Gloriapatri_DixitDominus_RV807_Esmuc.ogg.mp3",
+          "credit": "Vivaldi Gloriapatri DixitDominus RV807 Esmuc.ogg (cc by-sa 4.0)"
         },
         {
           "t": "Thank You Lord",
@@ -723,7 +618,8 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "O Divine Redeemer",
-          "a": "Charles Gounod"
+          "a": "Charles Gounod",
+          "url": ""
         },
         {
           "t": "Lamb of God",
@@ -731,7 +627,9 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "The Holy City",
-          "a": "Stephen Adams"
+          "a": "Stephen Adams",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/The_Blue_Alsatian_Mountains_by_Michael_Maybrick.ogg/The_Blue_Alsatian_Mountains_by_Michael_Maybrick.ogg.mp3",
+          "credit": "The Blue Alsatian Mountains by Michael Maybrick.ogg (public domain)"
         },
         {
           "t": "Jesus Paid It All",
@@ -743,15 +641,19 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Fairest Lord Jesus",
-          "a": "Silesian folk hymn"
+          "a": "Silesian folk hymn",
+          "url": ""
         },
         {
           "t": "Crown Him with Many Crowns",
-          "a": "Matthew Bridges"
+          "a": "Matthew Bridges",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Crown_Him_with_many_Crowns.ogg/Crown_Him_with_many_Crowns.ogg.mp3",
+          "credit": "Crown Him with many Crowns.ogg (cc by 3.0)"
         },
         {
           "t": "Jesus, Joy of Loving Hearts",
-          "a": "Bernard of Clairvaux"
+          "a": "Bernard of Clairvaux",
+          "url": ""
         }
       ]
     },
@@ -815,19 +717,25 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "If Ye Love Me",
-          "a": "Thomas Tallis"
+          "a": "Thomas Tallis",
+          "url": ""
         },
         {
           "t": "Locus iste",
-          "a": "Anton Bruckner"
+          "a": "Anton Bruckner",
+          "url": ""
         },
         {
           "t": "Panis angelicus",
-          "a": "César Franck"
+          "a": "César Franck",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/22/Panis_Angelicus_-_Llanelli_Male_Voice_Choir.ogg/Panis_Angelicus_-_Llanelli_Male_Voice_Choir.ogg.mp3",
+          "credit": "Panis Angelicus - Llanelli Male Voice Choir.ogg (cc by-sa 3.0)"
         },
         {
           "t": "Ave Maria",
-          "a": "Franz Schubert"
+          "a": "Franz Schubert",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/Franz_Schubert_-_Ellens_dritter_Gesang.oga/Franz_Schubert_-_Ellens_dritter_Gesang.oga.mp3",
+          "credit": "Franz Schubert - Ellens dritter Gesang.oga (cc by 3.0)"
         },
         {
           "t": "O Magnum Mysterium",
@@ -835,7 +743,9 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Holy, Holy, Holy",
-          "a": "Reginald Heber"
+          "a": "Reginald Heber",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/Holy%2C_Holy%2C_Holy.ogg/Holy%2C_Holy%2C_Holy.ogg.mp3",
+          "credit": "Holy, Holy, Holy.ogg (cc by-sa 4.0)"
         },
         {
           "t": "Here I Am to Worship",
@@ -847,7 +757,9 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Cantique de Jean Racine",
-          "a": "Gabriel Fauré"
+          "a": "Gabriel Fauré",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/Les_petits_chanteurs_de_Montigny_Cantique_de_Jean_Racine_%28Gabriel_Faure%29.ogg/Les_petits_chanteurs_de_Montigny_Cantique_de_Jean_Racine_%28Gabriel_Faure%29.ogg.mp3",
+          "credit": "Les petits chanteurs de Montigny Cantique de Jean Racine (Gabriel Faure).ogg (cc by-sa 2.0)"
         }
       ]
     },
@@ -935,7 +847,8 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Bless This House",
-          "a": "May H. Brahe"
+          "a": "May H. Brahe",
+          "url": ""
         },
         {
           "t": "Turn Around",
@@ -1115,7 +1028,8 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Rise and Shine",
-          "a": "Spiritual"
+          "a": "Spiritual",
+          "url": ""
         },
         {
           "t": "Every Morning",
@@ -1127,11 +1041,13 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Hallelujah Chorus (Mount of Olives)",
-          "a": "Ludwig van Beethoven"
+          "a": "Ludwig van Beethoven",
+          "url": ""
         },
         {
           "t": "Morning Mood (Peer Gynt)",
-          "a": "Edvard Grieg"
+          "a": "Edvard Grieg",
+          "url": ""
         },
         {
           "t": "Awake, My Soul",
@@ -1187,15 +1103,21 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Nocturne (Chopin, Op. 9 No. 2)",
-          "a": "Frédéric Chopin"
+          "a": "Frédéric Chopin",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/Chopin_-_Nocturne_No._2_in_E-flat_major%2C_Op._9_No._2_%28Frank_Levy%29.flac/Chopin_-_Nocturne_No._2_in_E-flat_major%2C_Op._9_No._2_%28Frank_Levy%29.flac.mp3",
+          "credit": "Chopin - Nocturne No. 2 in E-flat major, Op. 9 No. 2 (Frank Levy).flac (public domain)"
         },
         {
           "t": "Clair de lune",
-          "a": "Claude Debussy"
+          "a": "Claude Debussy",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Clair_de_Lune_WikiOrchestra_backing_track_basses.ogg/Clair_de_Lune_WikiOrchestra_backing_track_basses.ogg.mp3",
+          "credit": "Clair de Lune WikiOrchestra backing track basses.ogg (public domain)"
         },
         {
           "t": "Gymnopédie No. 1",
-          "a": "Erik Satie"
+          "a": "Erik Satie",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/90/Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg/Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg.mp3",
+          "credit": "Erik Satie - gymnopedies - la 1 ere. lent et douloureux.ogg (public domain)"
         },
         {
           "t": "Sleep",
@@ -1207,11 +1129,14 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Evening Prayer (Hansel and Gretel)",
-          "a": "Engelbert Humperdinck"
+          "a": "Engelbert Humperdinck",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/Evening_prayer.ogg/Evening_prayer.ogg.mp3",
+          "credit": "Evening prayer.ogg (public domain)"
         },
         {
           "t": "All Through the Night",
-          "a": "Welsh lullaby"
+          "a": "Welsh lullaby",
+          "url": ""
         },
         {
           "t": "Goodnight My Angel",
@@ -1275,19 +1200,23 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Holy Ground",
-          "a": "Geron Davis"
+          "a": "Geron Davis",
+          "url": ""
         },
         {
           "t": "Sanctus (Requiem)",
-          "a": "Gabriel Fauré"
+          "a": "Gabriel Fauré",
+          "url": ""
         },
         {
           "t": "How Lovely Is Thy Dwelling Place",
-          "a": "Johannes Brahms"
+          "a": "Johannes Brahms",
+          "url": ""
         },
         {
           "t": "I Was Glad",
-          "a": "C. Hubert H. Parry"
+          "a": "C. Hubert H. Parry",
+          "url": ""
         },
         {
           "t": "Holy Is the Lord",
@@ -1427,15 +1356,18 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "The Lord's Prayer",
-          "a": "Albert Hay Malotte"
+          "a": "Albert Hay Malotte",
+          "url": ""
         },
         {
           "t": "Pater noster",
-          "a": "Igor Stravinsky"
+          "a": "Igor Stravinsky",
+          "url": ""
         },
         {
           "t": "Ubi caritas",
-          "a": "Maurice Duruflé"
+          "a": "Maurice Duruflé",
+          "url": ""
         },
         {
           "t": "Prayer of Saint Francis",
@@ -1443,11 +1375,14 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Hear My Prayer, O Lord",
-          "a": "Henry Purcell"
+          "a": "Henry Purcell",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Purcell_hear_my_prayer%2C_o_lord.ogg/Purcell_hear_my_prayer%2C_o_lord.ogg.mp3",
+          "credit": "Purcell hear my prayer, o lord.ogg (cc by-sa 1.0)"
         },
         {
           "t": "What a Friend We Have in Jesus",
-          "a": "Joseph M. Scriven"
+          "a": "Joseph M. Scriven",
+          "url": ""
         },
         {
           "t": "Nearer, My God, to Thee",
@@ -1519,19 +1454,24 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Going Home",
-          "a": "Antonín Dvořák"
+          "a": "Antonín Dvořák",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/%22Goin%27_Home%22%2C_performed_by_the_United_States_Air_Force_Band.oga/%22Goin%27_Home%22%2C_performed_by_the_United_States_Air_Force_Band.oga.mp3",
+          "credit": "\"Goin' Home\", performed by the United States Air Force Band.oga (public domain)"
         },
         {
           "t": "Pie Jesu",
-          "a": "Gabriel Fauré"
+          "a": "Gabriel Fauré",
+          "url": ""
         },
         {
           "t": "In paradisum (Requiem)",
-          "a": "Gabriel Fauré"
+          "a": "Gabriel Fauré",
+          "url": ""
         },
         {
           "t": "Lacrimosa (Requiem)",
-          "a": "W. A. Mozart"
+          "a": "W. A. Mozart",
+          "url": ""
         },
         {
           "t": "It Is Well with My Soul",
@@ -1615,7 +1555,9 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Shenandoah",
-          "a": "American folk song"
+          "a": "American folk song",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Shenandoah_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+          "credit": "Shenandoah - Singing Sergeants - United States Air Force Band.mp3 (public domain)"
         },
         {
           "t": "Simple Gifts",
@@ -1623,7 +1565,8 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Wayfaring Stranger",
-          "a": "American folk song"
+          "a": "American folk song",
+          "url": ""
         }
       ]
     },
@@ -1635,7 +1578,9 @@ a search in the music app. `cover` names a file in `covers/`.
       "tracks": [
         {
           "t": "Hallelujah (Messiah)",
-          "a": "G. F. Handel"
+          "a": "G. F. Handel",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/Handel_Messiah_Hallelujah_by_Oratorio_Chorus.ogg/Handel_Messiah_Hallelujah_by_Oratorio_Chorus.ogg.mp3",
+          "credit": "Handel Messiah Hallelujah by Oratorio Chorus.ogg (public domain)"
         },
         {
           "t": "The Spirit of God",
@@ -1651,7 +1596,8 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "O Divine Redeemer",
-          "a": "Charles Gounod"
+          "a": "Charles Gounod",
+          "url": ""
         },
         {
           "t": "Betelehemu",
@@ -1679,15 +1625,19 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Sicut cervus",
-          "a": "G. P. da Palestrina"
+          "a": "G. P. da Palestrina",
+          "url": ""
         },
         {
           "t": "Miserere mei, Deus",
-          "a": "Gregorio Allegri"
+          "a": "Gregorio Allegri",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/Allegri_-_Miserere_Mei%2C_Deus_-_Ensamble_Esc%C3%A9nico_Vocal_%28audio%29.ogg/Allegri_-_Miserere_Mei%2C_Deus_-_Ensamble_Esc%C3%A9nico_Vocal_%28audio%29.ogg.mp3",
+          "credit": "Allegri - Miserere Mei, Deus - Ensamble Escénico Vocal (audio).ogg (cc by 3.0)"
         },
         {
           "t": "Spem in alium",
-          "a": "Thomas Tallis"
+          "a": "Thomas Tallis",
+          "url": ""
         },
         {
           "t": "Nearer, My God, to Thee (BYU Vocal Point)",
@@ -1775,7 +1725,8 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Blessed Assurance",
-          "a": "Fanny Crosby"
+          "a": "Fanny Crosby",
+          "url": ""
         },
         {
           "t": "Great Is Thy Faithfulness",
@@ -1879,15 +1830,19 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "O Come, O Come, Emmanuel",
-          "a": "Plainsong"
+          "a": "Plainsong",
+          "url": ""
         },
         {
           "t": "In the Bleak Midwinter",
-          "a": "Gustav Holst"
+          "a": "Gustav Holst",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/Gustav_Theodore_Holst_-_In_the_Bleak_Midwinter_-_%28A_Christmas_Carol%29.ogg/Gustav_Theodore_Holst_-_In_the_Bleak_Midwinter_-_%28A_Christmas_Carol%29.ogg.mp3",
+          "credit": "Gustav Theodore Holst - In the Bleak Midwinter - (A Christmas Carol).ogg (public domain)"
         },
         {
           "t": "Mary, Did You Know?",
-          "a": "Mark Lowry & Buddy Greene"
+          "a": "Mark Lowry & Buddy Greene",
+          "url": ""
         },
         {
           "t": "Breath of Heaven (Mary's Song)",
@@ -1895,11 +1850,15 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Carol of the Bells",
-          "a": "Mykola Leontovych"
+          "a": "Mykola Leontovych",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/Shchedryk%27s_%22Carol_of_the_Bells%22_%281922%29.oga/Shchedryk%27s_%22Carol_of_the_Bells%22_%281922%29.oga.mp3",
+          "credit": "Shchedryk's \"Carol of the Bells\" (1922).oga (public domain)"
         },
         {
           "t": "Gesù bambino",
-          "a": "Pietro Yon"
+          "a": "Pietro Yon",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/U.S._Army_Band_-_Ges%C3%B9_Bambino.ogg/U.S._Army_Band_-_Ges%C3%B9_Bambino.ogg.mp3",
+          "credit": "U.S. Army Band - Gesù Bambino.ogg (public domain)"
         },
         {
           "t": "Betelehemu",
@@ -1911,7 +1870,8 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Little Drummer Boy",
-          "a": "Katherine K. Davis"
+          "a": "Katherine K. Davis",
+          "url": ""
         }
       ]
     },
@@ -1971,11 +1931,14 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Were You There?",
-          "a": "Spiritual"
+          "a": "Spiritual",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/01._Patrick_Kilpatrick_-_Did_you_jump_or_were_you_dropped.ogg/01._Patrick_Kilpatrick_-_Did_you_jump_or_were_you_dropped.ogg.mp3",
+          "credit": "01. Patrick Kilpatrick - Did you jump or were you dropped.ogg (cc0)"
         },
         {
           "t": "I Know That My Redeemer Liveth",
-          "a": "G. F. Handel"
+          "a": "G. F. Handel",
+          "url": ""
         },
         {
           "t": "Because He Lives",
@@ -1983,7 +1946,8 @@ a search in the music app. `cover` names a file in `covers/`.
         },
         {
           "t": "Easter Hymn (Cavalleria rusticana)",
-          "a": "Pietro Mascagni"
+          "a": "Pietro Mascagni",
+          "url": ""
         },
         {
           "t": "Living Hope",
