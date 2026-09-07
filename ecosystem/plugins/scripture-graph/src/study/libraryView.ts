@@ -506,6 +506,7 @@ export class SGLibraryView extends ItemView {
     const pl = lists.find(l => l.key === key);
     if (!pl) { c.createDiv({ cls: "sg-nav-empty", text: "That playlist is gone." }); return; }
     const byTitle = new Map<string, Hymn>();
+    for (const h of hymns) { const bare = normTitle(h.title.replace(/\s*\(.*?\)\s*$/, "")); if (!byTitle.has(bare)) byTitle.set(bare, h); }
     for (const h of hymns) byTitle.set(normTitle(h.title), h);
     const art = this.art(pl.cover ?? `music-${pl.key}`);
     const open = () => this.go({ kind: "playlist", key: pl.key, title: pl.title });

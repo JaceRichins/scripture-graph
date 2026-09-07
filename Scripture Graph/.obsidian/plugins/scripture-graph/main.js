@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.9 build 1a70d777 2026-09-07T22:29:27Z */
+/* scripture-graph v0.72.10 build 0c314d8e 2026-09-07T22:31:01Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.9", sha: "1a70d777", at: "2026-09-07T22:29:27Z" };
+    define_SG_BUILD_default = { version: "0.72.10", sha: "0c314d8e", at: "2026-09-07T22:31:01Z" };
   }
 });
 
@@ -13214,6 +13214,10 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       return;
     }
     const byTitle = /* @__PURE__ */ new Map();
+    for (const h of hymns) {
+      const bare2 = normTitle(h.title.replace(/\s*\(.*?\)\s*$/, ""));
+      if (!byTitle.has(bare2)) byTitle.set(bare2, h);
+    }
     for (const h of hymns) byTitle.set(normTitle(h.title), h);
     const art = this.art(pl.cover ?? `music-${pl.key}`);
     const open2 = () => this.go({ kind: "playlist", key: pl.key, title: pl.title });
