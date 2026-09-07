@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.13 build 29fe4466 2026-09-07T23:25:24Z */
+/* scripture-graph v0.72.14 build 2295f3bf 2026-09-07T23:54:38Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.13", sha: "29fe4466", at: "2026-09-07T23:25:24Z" };
+    define_SG_BUILD_default = { version: "0.72.14", sha: "2295f3bf", at: "2026-09-07T23:54:38Z" };
   }
 });
 
@@ -13115,7 +13115,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     }
     const url = tr.url || void 0;
     const yt = tr.yt || void 0;
-    const how = this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : url ? "free recording" : "opens in your music app";
+    const how = this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : url ? "free recording" : "video arriving";
     return {
       id: `track:${key}:${i}`,
       title: tr.t,
@@ -13141,7 +13141,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     const col = row.createDiv({ cls: "sg-tr-col" });
     col.createDiv({ cls: "sg-tr-title", text: it.title });
     col.createDiv({ cls: "sg-tr-sub", text: it.sub });
-    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "\u2197" });
+    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "soon" });
     const more = row.createEl("button", { cls: "sg-tr-more", text: "\u22EF" });
     more.setAttr("aria-label", "More");
     more.onclick = (e) => {
@@ -16681,15 +16681,6 @@ var LiveLink = class {
 // src/study/music.ts
 init_define_SG_BUILD();
 var import_obsidian27 = require("obsidian");
-var SERVICES = [
-  { key: "spotify", label: "Spotify" },
-  { key: "apple", label: "Apple Music" },
-  { key: "youtube", label: "YouTube" }
-];
-function serviceUrl(service, query) {
-  const q = encodeURIComponent(query);
-  return service === "spotify" ? `https://open.spotify.com/search/${q}` : service === "apple" ? `https://music.apple.com/us/search?term=${q}` : `https://www.youtube.com/results?search_query=${q}`;
-}
 var MusicPlayer = class {
   constructor(app, prefs, spotify) {
     this.app = app;
@@ -16755,7 +16746,7 @@ var MusicPlayer = class {
     const it = queue[index2];
     if (!it) return;
     if (!this.canPlay(it)) {
-      void this.openElsewhere(it);
+      new import_obsidian27.Notice("This song's video hasn't arrived yet \u2014 it plays here once the laptop finds it.");
       return;
     }
     this.queue = queue;
@@ -16766,7 +16757,7 @@ var MusicPlayer = class {
   playAll(queue, shuffle = false) {
     let q = queue.filter((i) => this.canPlay(i));
     if (!q.length) {
-      new import_obsidian27.Notice("Nothing in this list plays here \u2014 tap a song to open it in your music app.");
+      new import_obsidian27.Notice("Nothing in this list can play yet \u2014 the videos are still arriving.");
       return;
     }
     if (shuffle) q = q.map((x3) => [Math.random(), x3]).sort((a2, b) => a2[0] - b[0]).map((x3) => x3[1]);
@@ -16943,40 +16934,6 @@ var MusicPlayer = class {
       this.step(1);
     }
   }
-  // ------------------------------------------------------- elsewhere
-  /** the listener's music app for songs that can't play here — YouTube
-   * unless they chose otherwise in Settings (never a prompt) */
-  async service() {
-    return this.prefs.get() ?? "youtube";
-  }
-  /** the chooser, only when asked for (⋯ → Change my music app) */
-  chooseService() {
-    return new Promise((resolve) => {
-      const m2 = new import_obsidian27.Modal(this.app);
-      let done = false;
-      m2.contentEl.addClass("sg-welcome");
-      m2.contentEl.createEl("h3", { text: "Where should songs open?" });
-      m2.contentEl.createEl("p", { text: "For songs that can't play inside the app." });
-      for (const sv of SERVICES) {
-        new import_obsidian27.Setting(m2.contentEl).addButton((b) => b.setButtonText(sv.label).setCta().onClick(async () => {
-          await this.prefs.set(sv.key);
-          done = true;
-          m2.close();
-          resolve(sv.key);
-        }));
-      }
-      m2.onClose = () => {
-        m2.contentEl.empty();
-        if (!done) resolve(null);
-      };
-      m2.open();
-    });
-  }
-  async openElsewhere(it, service) {
-    const s = service ?? await this.service();
-    if (!s) return;
-    window.open(serviceUrl(s, it.searchQuery), "_blank");
-  }
   /** the ⋯ on a row */
   menu(it, ev) {
     const m2 = new import_obsidian27.Menu();
@@ -16992,14 +16949,16 @@ var MusicPlayer = class {
       this.startYouTube(it.yt);
       this.emit();
     }));
+    if (it.url && eng !== "audio") m2.addItem((i) => i.setTitle("Play the plain recording").setIcon("music").onClick(() => this.playUrl(it, it.url)));
     for (const a2 of it.alt ?? []) m2.addItem((i) => i.setTitle(a2.label).setIcon("music").onClick(() => this.playUrl(it, a2.url)));
-    m2.addSeparator();
-    for (const sv of SERVICES) m2.addItem((i) => i.setTitle(`Open in ${sv.label}`).setIcon("external-link").onClick(() => void this.openElsewhere(it, sv.key)));
-    if (it.wordsUrl) m2.addItem((i) => i.setTitle("Words & sheet music").setIcon("file-text").onClick(() => window.open(it.wordsUrl, "_blank")));
-    if (it.credit) m2.addItem((i) => i.setTitle(`Recording: ${it.credit}`).setIcon("info"));
-    m2.addSeparator();
-    if (this.spotify.configured && !this.spotify.connected) m2.addItem((i) => i.setTitle("Connect Spotify (plays in the background)").setIcon("log-in").onClick(() => void this.spotify.beginConnect()));
-    m2.addItem((i) => i.setTitle("Change my music app\u2026").setIcon("settings").onClick(() => void this.chooseService()));
+    if (!eng) m2.addItem((i) => i.setTitle("Video not here yet").setIcon("clock").setDisabled(true));
+    if (it.wordsUrl || it.credit) m2.addSeparator();
+    if (it.wordsUrl) m2.addItem((i) => i.setTitle("Words & sheet music (Church site)").setIcon("file-text").onClick(() => window.open(it.wordsUrl, "_blank")));
+    if (it.credit) m2.addItem((i) => i.setTitle(`Recording: ${it.credit}`).setIcon("info").setDisabled(true));
+    if (this.spotify.configured && !this.spotify.connected) {
+      m2.addSeparator();
+      m2.addItem((i) => i.setTitle("Connect Spotify (plays in the background)").setIcon("log-in").onClick(() => void this.spotify.beginConnect()));
+    }
     m2.showAtMouseEvent(ev);
   }
   // ------------------------------------------------------------- the bar
@@ -17924,10 +17883,6 @@ var SGSettingsTab = class extends import_obsidian30.PluginSettingTab {
         await sp.disconnect();
         this.display();
       } else await sp.beginConnect();
-    }));
-    new import_obsidian30.Setting(el).setName("Where songs open otherwise").setDesc("Songs that can't play here open in this app").addDropdown((d) => d.addOptions({ "": "YouTube (default)", spotify: "Spotify", apple: "Apple Music", youtube: "YouTube" }).setValue(s.device.musicService ?? "").onChange(async (v) => {
-      s.device.musicService = v || null;
-      await s.saveDevice();
     }));
     new import_obsidian30.Setting(el).setName("Spotify Client ID (family)").setDesc("From developer.spotify.com \u2014 one app for the whole family; shared with the vault").addText((t) => t.setPlaceholder("32 characters").setValue(s.settings.spotifyClientId ?? "").onChange(async (v) => {
       s.applySettings({ spotifyClientId: v.trim() });

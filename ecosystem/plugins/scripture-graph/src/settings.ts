@@ -22,12 +22,6 @@ export class SGSettingsTab extends PluginSettingTab {
           : "Not set up for the family yet: the owner adds the Spotify Client ID below.")
       .addButton(b => b.setButtonText(sp.connected ? "Disconnect" : "Connect").setCta().setDisabled(!sp.configured && !sp.connected)
         .onClick(async () => { if (sp.connected) { await sp.disconnect(); this.display(); } else await sp.beginConnect(); }));
-    new Setting(el).setName("Where songs open otherwise")
-      .setDesc("Songs that can't play here open in this app")
-      .addDropdown(d => d.addOptions({ "": "YouTube (default)", spotify: "Spotify", apple: "Apple Music", youtube: "YouTube" })
-        .setValue(s.device.musicService ?? "").onChange(async v => {
-          s.device.musicService = (v || null) as typeof s.device.musicService; await s.saveDevice();
-        }));
     new Setting(el).setName("Spotify Client ID (family)")
       .setDesc("From developer.spotify.com — one app for the whole family; shared with the vault")
       .addText(t => t.setPlaceholder("32 characters").setValue(s.settings.spotifyClientId ?? "").onChange(async v => {

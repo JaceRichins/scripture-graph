@@ -426,7 +426,7 @@ export class SGLibraryView extends ItemView {
     }
     const url = tr.url || undefined;
     const yt = tr.yt || undefined;
-    const how = this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : url ? "free recording" : "opens in your music app";
+    const how = this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : url ? "free recording" : "video arriving";
     return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url, yt, credit: tr.credit, preferVideo: true,
       searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`, art, open };
   }
@@ -443,7 +443,7 @@ export class SGLibraryView extends ItemView {
     const col = row.createDiv({ cls: "sg-tr-col" });
     col.createDiv({ cls: "sg-tr-title", text: it.title });
     col.createDiv({ cls: "sg-tr-sub", text: it.sub });
-    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "↗" });
+    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "soon" });
     const more = row.createEl("button", { cls: "sg-tr-more", text: "⋯" });
     more.setAttr("aria-label", "More");
     more.onclick = (e) => { e.stopPropagation(); music.menu(it, e); };

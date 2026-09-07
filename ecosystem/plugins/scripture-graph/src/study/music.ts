@@ -6,21 +6,12 @@
  *   spotify  — the listener's Spotify app plays, we drive it (Premium)
  *   youtube  — YouTube's own embedded player, visible above the bar
  *
- * Anything none of those can reach opens in the listener's music app. */
-import { App, Menu, Modal, Notice, Setting } from "obsidian";
+ * Nothing ever leaves the app: a track none of those can reach yet just
+ * says so until the laptop finds its video. */
+import { App, Menu, Notice } from "obsidian";
 import type { Spotify } from "./spotify";
 
 export type Service = "spotify" | "apple" | "youtube";
-export const SERVICES: { key: Service; label: string }[] = [
-  { key: "spotify", label: "Spotify" }, { key: "apple", label: "Apple Music" }, { key: "youtube", label: "YouTube" },
-];
-
-export function serviceUrl(service: Service, query: string): string {
-  const q = encodeURIComponent(query);
-  return service === "spotify" ? `https://open.spotify.com/search/${q}`
-    : service === "apple" ? `https://music.apple.com/us/search?term=${q}`
-      : `https://www.youtube.com/results?search_query=${q}`;
-}
 
 export interface PlayItem {
   id: string;
@@ -89,7 +80,7 @@ export class MusicPlayer {
   play(queue: PlayItem[], index: number): void {
     const it = queue[index];
     if (!it) return;
-    if (!this.canPlay(it)) { void this.openElsewhere(it); return; }
+    if (!this.canPlay(it)) { new Notice("This song's video hasn't arrived yet — it plays here once the laptop finds it."); return; }
     this.queue = queue;
     this.index = index;
     void this.start(it);
@@ -98,7 +89,7 @@ export class MusicPlayer {
   /** the big Play button: everything in the list that plays here, in order */
   playAll(queue: PlayItem[], shuffle = false): void {
     let q = queue.filter(i => this.canPlay(i));
-    if (!q.length) { new Notice("Nothing in this list plays here — tap a song to open it in your music app."); return; }
+    if (!q.length) { new Notice("Nothing in this list can play yet — the videos are still arriving."); return; }
     if (shuffle) q = q.map(x => [Math.random(), x] as const).sort((a, b) => a[0] - b[0]).map(x => x[1]);
     this.queue = q; this.index = 0;
     void this.start(q[0]!);
@@ -224,51 +215,22 @@ export class MusicPlayer {
     }
   }
 
-  // ------------------------------------------------------- elsewhere
-  /** the listener's music app for songs that can't play here — YouTube
-   * unless they chose otherwise in Settings (never a prompt) */
-  async service(): Promise<Service | null> {
-    return this.prefs.get() ?? "youtube";
-  }
-
-  /** the chooser, only when asked for (⋯ → Change my music app) */
-  chooseService(): Promise<Service | null> {
-    return new Promise(resolve => {
-      const m = new Modal(this.app);
-      let done = false;
-      m.contentEl.addClass("sg-welcome");
-      m.contentEl.createEl("h3", { text: "Where should songs open?" });
-      m.contentEl.createEl("p", { text: "For songs that can't play inside the app." });
-      for (const sv of SERVICES) {
-        new Setting(m.contentEl).addButton(b => b.setButtonText(sv.label).setCta().onClick(async () => {
-          await this.prefs.set(sv.key); done = true; m.close(); resolve(sv.key);
-        }));
-      }
-      m.onClose = () => { m.contentEl.empty(); if (!done) resolve(null); };
-      m.open();
-    });
-  }
-
-  async openElsewhere(it: PlayItem, service?: Service): Promise<void> {
-    const s = service ?? await this.service();
-    if (!s) return;
-    window.open(serviceUrl(s, it.searchQuery), "_blank");
-  }
-
   /** the ⋯ on a row */
   menu(it: PlayItem, ev: MouseEvent): void {
     const m = new Menu();
     const eng = this.engineFor(it);
     if (eng) m.addItem(i => i.setTitle(eng === "audio" ? "Play here" : eng === "spotify" ? "Play on Spotify" : "Play here (YouTube)").setIcon("play").onClick(() => this.play([it], 0)));
     if (it.yt && eng !== "youtube") m.addItem(i => i.setTitle("Play here (YouTube)").setIcon("play").onClick(() => { this.queue = [it]; this.index = 0; this.teardownEngines(); this.mode = "youtube"; this.paused = false; document.body.addClass("sg-player-on"); this.startYouTube(it.yt!); this.emit(); }));
+    if (it.url && eng !== "audio") m.addItem(i => i.setTitle("Play the plain recording").setIcon("music").onClick(() => this.playUrl(it, it.url!)));
     for (const a of it.alt ?? []) m.addItem(i => i.setTitle(a.label).setIcon("music").onClick(() => this.playUrl(it, a.url)));
-    m.addSeparator();
-    for (const sv of SERVICES) m.addItem(i => i.setTitle(`Open in ${sv.label}`).setIcon("external-link").onClick(() => void this.openElsewhere(it, sv.key)));
-    if (it.wordsUrl) m.addItem(i => i.setTitle("Words & sheet music").setIcon("file-text").onClick(() => window.open(it.wordsUrl!, "_blank")));
-    if (it.credit) m.addItem(i => i.setTitle(`Recording: ${it.credit}`).setIcon("info"));
-    m.addSeparator();
-    if (this.spotify.configured && !this.spotify.connected) m.addItem(i => i.setTitle("Connect Spotify (plays in the background)").setIcon("log-in").onClick(() => void this.spotify.beginConnect()));
-    m.addItem(i => i.setTitle("Change my music app…").setIcon("settings").onClick(() => void this.chooseService()));
+    if (!eng) m.addItem(i => i.setTitle("Video not here yet").setIcon("clock").setDisabled(true));
+    if (it.wordsUrl || it.credit) m.addSeparator();
+    if (it.wordsUrl) m.addItem(i => i.setTitle("Words & sheet music (Church site)").setIcon("file-text").onClick(() => window.open(it.wordsUrl!, "_blank")));
+    if (it.credit) m.addItem(i => i.setTitle(`Recording: ${it.credit}`).setIcon("info").setDisabled(true));
+    if (this.spotify.configured && !this.spotify.connected) {
+      m.addSeparator();
+      m.addItem(i => i.setTitle("Connect Spotify (plays in the background)").setIcon("log-in").onClick(() => void this.spotify.beginConnect()));
+    }
     m.showAtMouseEvent(ev);
   }
 
