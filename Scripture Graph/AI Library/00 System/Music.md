@@ -157,123 +157,163 @@ a search in the music app. `cover` names a file in `covers/`.
       "tracks": [
         {
           "t": "If You Could Hie to Kolob",
-          "a": "Hymn"
+          "a": "Hymn",
+          "yt": "O_h_1WRcMQg"
         },
         {
           "t": "His Voice as the Sound of the Dulcimer",
-          "a": "American folk hymn, arr. Mack Wilberg"
+          "a": "American folk hymn, arr. Mack Wilberg",
+          "url": "",
+          "yt": "YUgSf9bVGig"
         },
         {
           "t": "Deep River",
-          "a": "Spiritual"
+          "a": "Spiritual",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/Deep_River_-_Alun_Jones.ogg/Deep_River_-_Alun_Jones.ogg.mp3",
+          "credit": "Deep River - Alun Jones.ogg (cc by-sa 3.0)",
+          "yt": "LiIURFm63Yk"
         },
         {
           "t": "How Great Thou Art",
-          "a": "Hymn"
+          "a": "Hymn",
+          "yt": "LMIroXZ1HpY"
         },
         {
           "t": "O My Father",
-          "a": "Hymn"
+          "a": "Hymn",
+          "yt": "b6rO0u65R5Q"
         },
         {
           "t": "Oh Say, What Is Truth?",
-          "a": "Hymn"
+          "a": "Hymn",
+          "yt": "G9anfFdAr3E"
         },
         {
           "t": "The Morning Breaks",
-          "a": "Hymn"
+          "a": "Hymn",
+          "yt": "wLsYNUd_Zq4"
         },
         {
           "t": "God of Our Fathers, Whose Almighty Hand",
-          "a": "Hymn"
+          "a": "Hymn",
+          "yt": "hMw-7Nsg78M"
         },
         {
           "t": "Adam-ondi-Ahman",
-          "a": "Hymn"
+          "a": "Hymn",
+          "yt": "8oo6M6sAij8"
         },
         {
           "t": "Beautiful Savior (Crusader's Hymn)",
-          "a": "Primary"
+          "a": "Primary",
+          "yt": "3WhTfEYmfcM"
         },
         {
           "t": "My Heavenly Father Loves Me",
-          "a": "Primary"
+          "a": "Primary",
+          "yt": "7XSE63QIc7I"
         },
         {
           "t": "I Wonder When He Comes Again",
-          "a": "Primary"
+          "a": "Primary",
+          "yt": "-DLCjE2u-qI"
         },
         {
           "t": "Come, Thou Fount of Every Blessing",
-          "a": "Hymn"
+          "a": "Hymn",
+          "yt": "gPKpkrqBwNs"
         },
         {
           "t": "Stars",
-          "a": "Ēriks Ešenvalds"
+          "a": "Ēriks Ešenvalds",
+          "yt": "KWdjF2K2bZA"
         },
         {
           "t": "Northern Lights",
-          "a": "Ola Gjeilo"
+          "a": "Ola Gjeilo",
+          "yt": "NspOpsKs8vc"
         },
         {
           "t": "O Magnum Mysterium",
-          "a": "Morten Lauridsen"
+          "a": "Morten Lauridsen",
+          "yt": "tZ-nuU-hda8"
         },
         {
           "t": "O Nata Lux",
-          "a": "Morten Lauridsen"
+          "a": "Morten Lauridsen",
+          "yt": "33tD8BvHMpU"
         },
         {
           "t": "Lux aurumque",
-          "a": "Eric Whitacre"
+          "a": "Eric Whitacre",
+          "yt": "e6HVCqQStRE"
         },
         {
           "t": "Water Night",
-          "a": "Eric Whitacre"
+          "a": "Eric Whitacre",
+          "yt": "1DQQmtNuXUU"
         },
         {
           "t": "Sure on This Shining Night",
-          "a": "Morten Lauridsen"
+          "a": "Morten Lauridsen",
+          "yt": "JK7lFAoE_3s"
         },
         {
           "t": "The Heavens Are Telling (The Creation)",
-          "a": "Joseph Haydn"
+          "a": "Joseph Haydn",
+          "yt": "OwqqfbinUDY"
         },
         {
           "t": "Earth Song",
-          "a": "Frank Ticheli"
+          "a": "Frank Ticheli",
+          "yt": "4p8PYuzx5iM"
         },
         {
           "t": "Shenandoah",
-          "a": "American folk song"
+          "a": "American folk song",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Shenandoah_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+          "credit": "Shenandoah - Singing Sergeants - United States Air Force Band.mp3 (public domain)",
+          "yt": "-GtwNJf3EK4"
         },
         {
           "t": "Wayfaring Stranger",
-          "a": "American folk song"
+          "a": "American folk song",
+          "url": "",
+          "yt": "LtgKoJ5hoZw"
         },
         {
           "t": "Ave Maria",
-          "a": "Franz Biebl"
+          "a": "Franz Biebl",
+          "yt": "41KBZsdC2dw"
         },
         {
           "t": "Spem in alium",
-          "a": "Thomas Tallis"
+          "a": "Thomas Tallis",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/Spem_in_alium.ogg/Spem_in_alium.ogg.mp3",
+          "credit": "Spem in alium.ogg (cc by-sa 3.0)",
+          "yt": "evLggjOYg4U"
         },
         {
           "t": "Sicut cervus",
-          "a": "G. P. da Palestrina"
+          "a": "G. P. da Palestrina",
+          "url": "",
+          "yt": "xK-IHpN1HBs"
         },
         {
           "t": "The Lord Is My Shepherd",
-          "a": "John Rutter"
+          "a": "John Rutter",
+          "yt": "8f_0NgsWzfA"
         },
         {
           "t": "O Divine Redeemer",
-          "a": "Charles Gounod"
+          "a": "Charles Gounod",
+          "url": "",
+          "yt": "tQPC-SX-Rvw"
         },
         {
           "t": "Homeward Bound",
-          "a": "Marta Keen"
+          "a": "Marta Keen",
+          "yt": "YQTGIGZY7Yg"
         }
       ]
     },
@@ -772,12 +812,15 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Holy, Holy, Holy",
           "a": "Reginald Heber",
-          "yt": "2qCmtUhiKcA"
+          "yt": "2qCmtUhiKcA",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/Holy%2C_Holy%2C_Holy.ogg/Holy%2C_Holy%2C_Holy.ogg.mp3",
+          "credit": "Holy, Holy, Holy.ogg (cc by-sa 4.0)"
         },
         {
           "t": "Gloria (Vivaldi)",
           "a": "Antonio Vivaldi",
-          "yt": "8ztlrVUMH3A"
+          "yt": "8ztlrVUMH3A",
+          "url": ""
         },
         {
           "t": "Thank You Lord",
@@ -886,7 +929,8 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "The Holy City",
           "a": "Stephen Adams",
-          "yt": "5PAc3krFyQA"
+          "yt": "5PAc3krFyQA",
+          "url": ""
         },
         {
           "t": "Jesus Paid It All",
@@ -1012,7 +1056,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Ave Maria",
           "a": "Franz Schubert",
-          "yt": "fi3n-6TRosw"
+          "yt": "fi3n-6TRosw",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/Schubert_Ave_Maria_ukr.oga/Schubert_Ave_Maria_ukr.oga.mp3",
+          "credit": "Schubert Ave Maria ukr.oga (cc by-sa 3.0)"
         },
         {
           "t": "O Magnum Mysterium",
@@ -1476,7 +1522,8 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Gymnopédie No. 1",
           "a": "Erik Satie",
-          "yt": "m4oZZhpMXP4"
+          "yt": "m4oZZhpMXP4",
+          "url": ""
         },
         {
           "t": "Sleep",
@@ -2466,7 +2513,8 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Were You There?",
           "a": "Spiritual",
-          "yt": "kN3tYsZb-t0"
+          "yt": "kN3tYsZb-t0",
+          "url": ""
         },
         {
           "t": "I Know That My Redeemer Liveth",
