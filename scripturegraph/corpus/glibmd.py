@@ -240,6 +240,9 @@ def refresh_markdown(ctx: Ctx, collection_uri_prefix: str, budget: int) -> dict:
     itself, so this drains once and then idles."""
     ensure_table(ctx)
     db = ctx.db()
+    # a shell may hand us "manual/..." (or mangle a leading slash into a path)
+    if collection_uri_prefix and not collection_uri_prefix.startswith("/"):
+        collection_uri_prefix = "/" + collection_uri_prefix
     rows = db.execute(
         "SELECT d.doc_id FROM documents d LEFT JOIN document_markdown m ON m.doc_id = d.doc_id "
         "WHERE d.doc_id LIKE ? AND m.doc_id IS NULL ORDER BY d.doc_id", (f"glib:{collection_uri_prefix}%",)).fetchall()

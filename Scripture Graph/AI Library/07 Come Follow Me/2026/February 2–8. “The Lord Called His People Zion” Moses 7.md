@@ -11,56 +11,86 @@ doc_id: glib:/manual/come-follow-me-for-home-and-church-old-testament-2026/06
 
 *Come, Follow Me 2026* · [source](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/06?lang=eng)
 
-“February 2–8. ‘The Lord Called His People Zion’: Moses 7,” Come, Follow Me—For Home and Church: Old Testament 2026 (2026)
+Throughout history, people have tried to achieve what Enoch and his people accomplished: building an ideal society where there is no poverty or violence. As God’s people, we share this desire. We call it building Zion, and it includes—in addition to caring for people in need and promoting peace—making covenants, dwelling together in righteousness, and becoming one with each other and with Jesus Christ, “the King of Zion” ([[Moses 7#^moses-7-53|Moses 7:53]]). If the world, your community, or your family isn’t quite what you want it to be, it’s helpful to ask, How did Enoch and his people do it? How did they become “of one heart and one mind” ([[Moses 7#^moses-7-18|Moses 7:18]]) despite the contention around them? Among the many details [[Moses 7|Moses 7]] gives us about Zion, a particularly valuable one for Latter-day Saints might be this: Zion is not just a city—it is a condition of the heart and spirit. Zion, as the Lord has taught, is “the pure in heart” ([[D&C 97#^dc-97-21|Doctrine and Covenants 97:21]]). So perhaps the best way to build Zion is to start in our own hearts and homes.
 
-“February 2–8. ‘The Lord Called His People Zion’,” Come, Follow Me: 2026
+## Ideas for Learning at Home and at Church
 
-Throughout history, people have tried to achieve what Enoch and his people accomplished: building an ideal society where there is no poverty or violence. As God’s people, we share this desire. We call it building Zion, and it includes—in addition to caring for people in need and promoting peace—making covenants, dwelling together in righteousness, and becoming one with each other and with Jesus Christ, “the King of Zion” (Moses 7:53). If the world, your community, or your family isn’t quite what you want it to be, it’s helpful to ask, How did Enoch and his people do it? How did they become “of one heart and one mind” (Moses 7:18) despite the contention around them? Among the many details Moses 7 gives us about Zion, a particularly valuable one for Latter-day Saints might be this: Zion is not just a city—it is a condition of the heart and spirit. Zion, as the Lord has taught, is “the pure in heart” (Doctrine and Covenants 97:21). So perhaps the best way to build Zion is to start in our own hearts and homes.
+*[[Moses 7#^moses-7-16|Moses 7:16–21, 27, 53, 62–69]]*
 
-When the Prophet Joseph Smith first learned about Enoch and his City of Holiness, he was inspired. He “knew the day had come when the Lord would again establish Zion on the earth” (Saints, 1:108–9), and he started a lifelong quest to build Zion. Reading Moses 7 can inspire you to continue that effort today.
+### I can help build Zion.
 
-You might start by exploring the questions “What is Zion?” and “How is it different from the rest of the world?” Consider listing answers that come to you as you study Moses 7, in particular verses 16–21, 27, 53, 62–69.
+When the Prophet Joseph Smith first learned about Enoch and his City of Holiness, he was inspired. He “knew the day had come when the Lord would again establish Zion on the earth” (*Saints*, [[AI Library/30 Church History/Saints/Saints Volume 1/10 Gathered In|1:108–9]]), and he started a lifelong quest to build Zion. Reading [[Moses 7|Moses 7]] can inspire you to continue that effort today.
 
-Your answers to these questions might make it clear that we still have a lot of work to do to build Zion. So how do we do it? It might help to think about times when you felt you were “of one heart and one mind” with someone (Moses 7:18). Maybe it was in a ward, family, or group at work or school. What did people do to create righteous unity?
+You might start by exploring the questions “What is Zion?” and “How is it different from the rest of the world?” Consider listing answers that come to you as you study [[Moses 7|Moses 7]], in particular [[Moses 7#^moses-7-16|verses 16–21, 27, 53, 62–69]].
+
+Your answers to these questions might make it clear that we still have a lot of work to do to build Zion. So how do we do it? It might help to think about times when you felt you were “of one heart and one mind” with someone ([[Moses 7#^moses-7-18|Moses 7:18]]). Maybe it was in a ward, family, or group at work or school. What did people do to create righteous unity?
 
 Here are some other resources that you could explore to find ideas and inspiration. Pick one or more to study, and then write down what you feel inspired to do to build Zion:
 
-Philippians 2:1–4; 4 Nephi 1:15–18; Doctrine and Covenants 97:21; 105:5.
+[[Philippians 2#^philip-2-1|Philippians 2:1–4]]; [[4 Nephi 1#^4ne-1-15|4 Nephi 1:15–18]]; [[D&C 97#^dc-97-21|Doctrine and Covenants 97:21]]; [[D&C 105#^dc-105-5|105:5]].
 
-Ulisses Soares, “Brothers and Sisters in Christ,” Liahona, Nov. 2023, 70–73.
+Ulisses Soares, “[[AI Library/10 General Conference/2023/October/Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]],” *Liahona*, Nov. 2023, 70–73.
 
-D. Todd Christofferson, “One in Christ,” Liahona, May 2023, 77–80.
+D. Todd Christofferson, “[[AI Library/10 General Conference/2023/April/One in Christ (Elder D. Todd Christofferson, April 2023)|One in Christ]],” *Liahona*, May 2023, 77–80.
 
-God wants His people to be “of one heart and one mind” (Moses 7:18).
+“[We Come Together and Unite as One](https://www.churchofjesuschrist.org/media/video/2012-01-3040-we-come-together-unite-as-one)” (video), *Gospel Library[[Moses 7#^moses-7-53|Moses 7:53]]*
+
+### Jesus Christ is “the King of Zion.”
 
 What does it mean to you to have Jesus Christ as your King? Note the other titles of Jesus Christ in this verse. What do they teach you about Him? What do you think it means to come “in at the gate and [climb] up by [Him]”?
 
-Some people see God as a distant being who isn’t emotionally affected by what happens to us. Enoch gained a different view of God in the vision recorded in Moses 7. What did he learn about God—and what do you learn—in verses 28–40? Why do you think Enoch was surprised to see God weep? Why is it important to you to know that He does?
+See also “[Come, O Thou King of Kings](https://www.churchofjesuschrist.org/media/music/songs/come-o-thou-king-of-kings),” *Hymns*, no. 59.
 
-As the vision continued, Enoch wept too. But God also shared with him reasons to rejoice. Look for them in Moses 7:41–69. What do you learn from Enoch’s vision that can help you “lift up your heart, and be glad,” despite the “bitterness” in your life (verse 44)?
+*[[Moses 7#^moses-7-28|Moses 7:28–69]]*
 
-See also Jeffrey R. Holland, “The Grandeur of God,” Ensign or Liahona, Nov. 2003, 70–73.
+### God weeps—and rejoices—for His children.
 
-Enoch’s vision, especially what’s recorded in Moses 7:59–67, is one of history’s first prophecies of the Savior’s Second Coming. What impresses you about the way these verses describe the last days? For example, consider how you feel the prophecies from verse 62 are being fulfilled. What do these phrases teach you about God’s work in the latter days?
+Some people see God as a distant being who isn’t emotionally affected by what happens to us. Enoch gained a different view of God in the vision recorded in [[Moses 7|Moses 7]]. What did he learn about God—and what do you learn—in [[Moses 7#^moses-7-28|verses 28–40]]? Why do you think Enoch was surprised to see God weep? Why is it important to you to know that He does?
 
-See also Henry B. Eyring, “Sisters in Zion,” Ensign or Liahona, Nov. 2020, 67–69.
+As the vision continued, Enoch wept too. But God also shared with him reasons to rejoice. Look for them in [[Moses 7#^moses-7-41|Moses 7:41–69]]. What do you learn from Enoch’s vision that can help you “lift up your heart, and be glad,” despite the “bitterness” in your life ([[Moses 7#^moses-7-44|verse 44]])?
 
-For more, see this month’s issues of the Liahona and For the Strength of Youth magazines.
+See also Jeffrey R. Holland, “[The Grandeur of God](https://www.churchofjesuschrist.org/study/general-conference/2003/10/the-grandeur-of-god?lang=eng),” *Ensign* or *Liahona*, Nov. 2003, 70–73.
 
-What does it mean that the “Lamb is slain from the foundation of the world”?
+*[[Moses 7#^moses-7-59|Moses 7:59–67]]*
 
-How does the Joseph Smith Translation enhance our understanding of God’s covenant with Enoch and Noah?
+### Jesus Christ will come again in the last days.
 
-To help your children learn about Enoch and Zion, you could use “Enoch the Prophet” in Old Testament Stories (19–21) or the second verse of “Follow the Prophet” (Children’s Songbook, 110–11). Then you could ask your children to help you retell the story in their own words. The pictures of Enoch in this outline might help.
+Enoch’s vision, especially what’s recorded in [[Moses 7#^moses-7-59|Moses 7:59–67]], is one of history’s first prophecies of the Savior’s Second Coming. What impresses you about the way these verses describe the last days? For example, consider how you feel the prophecies from [[Moses 7#^moses-7-62|verse 62]] are being fulfilled. What do these phrases teach you about God’s work in the latter days?
 
-Here’s one way to help your children understand what it means to be of “one heart and one mind” (Moses 7:18): Make a paper heart and cut it into pieces, enough for each child to have one. Let them write their name on their piece and work together to put the heart together. As they do, you might talk about things you love about each child.
+See also Henry B. Eyring, “[[AI Library/10 General Conference/2020/October/Sisters in Zion (President Henry B. Eyring, October 2020)|Sisters in Zion]],” *Ensign* or *Liahona*, Nov. 2020, 67–69.
 
-Help your children count how many times the word “Zion” appears in Moses 7:18–21, 62–63, 68–69. Each time they find the word, help them discover what the verse says about Zion (see also Guide to the Scriptures, “Zion,” Gospel Library). How can we be more like the people described in these verses?
+### Scripture Helps
 
-Encourage personal scripture study. Whether you’re teaching your family at home or a class on Sunday, one of the best ways you can help others build lasting faith in Jesus Christ is to help them establish a habit of seeking personal experiences with the scriptures. Share the experiences you’re having with the scriptures, and encourage family or class members to share their experiences. When we hear about how reading the scriptures is blessing others, we are often inspired to seek these same blessings from the Lord. (See Teaching in the Savior’s Way, 25.)
+[What does it mean that “seed of Cain were black”?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/05-moses-7?lang=eng)
 
-To introduce Moses 7:32–33 to your children, you might talk to them about a choice they had to make recently. Then you could read the verses together to find out what Heavenly Father wants us to choose. What choices can we make to show that we choose Him? Perhaps your children could take turns acting out one of these choices while the others guess what the action represents.
+[What does it mean that the “Lamb is slain from the foundation of the world”?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/05-moses-7?lang=eng)
 
-In Moses 7:59, Enoch asks the Lord a question. Invite your children to find it, and then ask them to find the answer in verse 60. You might also talk with them about a time when they were expecting someone to return home. Ask them how they felt and what they did to get ready. How can we get ready for Jesus to return?
+[How does the Joseph Smith Translation enhance our understanding of God’s covenant with Enoch and Noah?](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/05-moses-7?lang=eng)
 
-Consider showing pictures of times when the Savior appeared to people (such as Gospel Art Book, nos. 60, 82, 83, and 84). What are the people doing in the pictures? How might the people have felt when they met Jesus? You could also sing a song about the Savior’s Second Coming, such as “When He Comes Again” (Children’s Songbook, 82–83), and ask the children what they think it will be like when Jesus comes again. Let the children share how they feel about seeing Jesus when He comes again.
+[Click to see more.](https://www.churchofjesuschrist.org/study/manual/scripture-helps-old-testament/05-moses-7?lang=eng)
+
+## Ideas for Teaching Children
+
+*[[Moses 7#^moses-7-18|Moses 7:18–21, 62–63, 68–69]]*
+
+### God wants us to be “of one heart and one mind.”
+
+To help your children learn about Enoch and Zion, you could use “[Enoch the Prophet](https://www.churchofjesuschrist.org/study/manual/old-testament-stories-2022/enoch-the-prophet?lang=eng)” in *Old Testament Stories* (19–21) or the second verse of “[Follow the Prophet](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/follow-the-prophet?lang=eng)” (*Children’s Songbook*, 110–11). Then you could ask your children to help you retell the story in their own words. The pictures of Enoch in this outline might help.
+
+Here’s one way to help your children understand what it means to be of “one heart and one mind” ([[Moses 7#^moses-7-18|Moses 7:18]]): Make a paper heart and cut it into pieces, enough for each child to have one. Let them write their name on their piece and work together to put the heart together. As they do, you might talk about things you love about each child.
+
+Help your children count how many times the word “Zion” appears in [[Moses 7#^moses-7-18|Moses 7:18–21, 62–63, 68–69]]. Each time they find the word, help them discover what the verse says about Zion (see also Guide to the Scriptures, “[Zion](https://www.churchofjesuschrist.org/study/scriptures/gs/zion?lang=eng),” Gospel Library). How can we be more like the people described in these verses?
+
+*[[Moses 7#^moses-7-32|Moses 7:32–33]]*
+
+### Heavenly Father wants me to choose to follow Him.
+
+To introduce [[Moses 7#^moses-7-32|Moses 7:32–33]] to your children, you might talk to them about a choice they had to make recently. Then you could read the verses together to find out what Heavenly Father wants us to choose. What choices can we make to show that we choose Him? Perhaps your children could take turns acting out one of these choices while the others guess what the action represents.
+
+*[[Moses 7#^moses-7-59|Moses 7:59–67]]*
+
+### Jesus will come back to earth.
+
+In [[Moses 7#^moses-7-59|Moses 7:59]], Enoch asks the Lord a question. Invite your children to find it, and then ask them to find the answer in [[Moses 7#^moses-7-60|verse 60]]. You might also talk with them about a time when they were expecting someone to return home. Ask them how they felt and what they did to get ready. How can we get ready for Jesus to return?
+
+Consider showing pictures of times when the Savior appeared to people (such as *Gospel Art Book*, [nos. 60](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/new-testament?lang=eng), [82](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/book-of-mormon?lang=eng), [83](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/book-of-mormon?lang=eng), and [84](https://www.churchofjesuschrist.org/study/manual/gospel-art-book/book-of-mormon?lang=eng)). What are the people doing in the pictures? How might the people have felt when they met Jesus? You could also sing a song about the Savior’s Second Coming, such as “[When He Comes Again](https://www.churchofjesuschrist.org/study/manual/childrens-songbook/when-he-comes-again?lang=eng)” (*Children’s Songbook*, 82–83), and ask the children what they think it will be like when Jesus comes again. Let the children share how they feel about seeing Jesus when He comes again.
