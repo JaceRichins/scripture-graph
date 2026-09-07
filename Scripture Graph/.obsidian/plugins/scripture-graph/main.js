@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.6 build 772ee5a5 2026-09-07T20:36:26Z */
+/* scripture-graph v0.72.7 build 3b3d26a0 2026-09-07T21:06:20Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.6", sha: "772ee5a5", at: "2026-09-07T20:36:26Z" };
+    define_SG_BUILD_default = { version: "0.72.7", sha: "3b3d26a0", at: "2026-09-07T21:06:20Z" };
   }
 });
 
@@ -12777,7 +12777,8 @@ var COVER_ALIAS = {
   "sources": "papers",
   "manifests": "papers",
   "source-notes": "papers",
-  "periodicals": "periodicals"
+  "periodicals": "periodicals",
+  "harold-b-lee": "teachings"
 };
 function coverKey(name) {
   const slug = name.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -13050,78 +13051,91 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       }
     }
     if (!c2.isConnected) return;
-    c2.createDiv({ cls: "sg-nav-intro", text: "The hymnbook. Tap a hymn to hear the Church's own recording here \u2014 vocal or accompaniment \u2014 or open it in Spotify, Apple Music or YouTube. The words live on the hymn's page at churchofjesuschrist.org." });
-    const inp = c2.createEl("input", { cls: "sg-nav-filter", attr: { type: "search", placeholder: "Find a hymn by name or number\u2026" } });
-    const player = c2.createDiv({ cls: "sg-hymn-player" });
+    hymns.sort((a2, b) => (a2.n ?? 9999) - (b.n ?? 9999) || a2.title.localeCompare(b.title));
+    c2.createDiv({ cls: "sg-nav-intro", text: "Tap a hymn to hear the Church's recording." });
+    const inp = c2.createEl("input", { cls: "sg-nav-filter", attr: { type: "search", placeholder: "Name or number\u2026" } });
+    const now2 = c2.createDiv({ cls: "sg-hymn-now" });
     const list = c2.createDiv({ cls: "sg-nav-list" });
+    let open2 = null;
     const render = () => {
       list.empty();
       const q = inp.value.trim().toLowerCase();
       let i = 0;
       for (const h of hymns) {
         if (q && !(h.title.toLowerCase().includes(q) || String(h.n ?? "").startsWith(q))) continue;
+        const playing = this.hymnPlaying === h.uri;
         const row = list.createDiv({ cls: "sg-nav-row sg-hymn-row" });
         cascade(row, i++);
-        row.createSpan({ cls: "sg-hymn-n", text: h.n ? String(h.n) : "\xB7" });
-        const col = row.createDiv({ cls: "sg-nav-gcol" });
-        col.createDiv({ cls: "sg-nav-name", text: h.title });
-        const has = h.audio?.vocal || h.audio?.accompaniment || h.audio?.other;
-        col.createDiv({ cls: "sg-nav-gsub", text: has ? "Church recording \xB7 Spotify \xB7 Apple Music \xB7 YouTube" : "Spotify \xB7 Apple Music \xB7 YouTube" });
-        row.toggleClass("sg-hymn-on", this.hymnPlaying === h.uri);
-        row.onclick = () => this.playHymn(h, player, render);
+        row.createSpan({ cls: "sg-hymn-n", text: h.n ? String(h.n) : "" });
+        row.createDiv({ cls: "sg-nav-name", text: h.title });
+        if (playing) row.createSpan({ cls: "sg-hymn-eq", text: "\u25B6" });
+        row.toggleClass("sg-hymn-on", playing);
+        row.toggleClass("sg-hymn-open", open2 === h.uri);
+        row.onclick = () => {
+          open2 = open2 === h.uri ? null : h.uri;
+          render();
+        };
+        if (open2 === h.uri) {
+          const strip = list.createDiv({ cls: "sg-hymn-strip" });
+          const btn = (label, main, fn) => {
+            const b = strip.createEl("button", { cls: `sg-hymn-door${main ? " sg-hymn-door-main" : ""}`, text: label });
+            b.onclick = (e) => {
+              e.stopPropagation();
+              fn();
+            };
+          };
+          const a2 = h.audio ?? {};
+          if (playing) btn("\u25A0 Stop", true, () => this.stopHymn(render));
+          else if (a2.vocal || a2.accompaniment) {
+            if (a2.vocal) btn("\u25B6 Sing along", true, () => this.startHymn(h, a2.vocal, render));
+            if (a2.accompaniment) btn("\u{1F3B9} Accompaniment", !a2.vocal, () => this.startHymn(h, a2.accompaniment, render));
+          } else if (a2.other) btn("\u25B6 Play", true, () => this.startHymn(h, a2.other, render));
+          btn("Listen elsewhere \u22EF", false, () => this.hymnMenu(h));
+          btn("Words \u2197", false, () => window.open(h.url, "_blank"));
+        }
         if (i > 400) break;
       }
-      if (!list.childElementCount) list.createDiv({ cls: "sg-nav-empty", text: hymns.length ? "No hymn matches." : "The hymn index has not synced yet \u2014 the engine writes it nightly." });
+      if (!list.childElementCount) list.createDiv({ cls: "sg-nav-empty", text: hymns.length ? "No hymn matches." : "The hymn index has not synced yet." });
+      now2.empty();
+      const cur = this.hymnPlaying ? hymns.find((x3) => x3.uri === this.hymnPlaying) : null;
+      if (cur) {
+        now2.createSpan({ cls: "sg-hymn-now-t", text: `\u25B6 ${cur.n ? cur.n + " \xB7 " : ""}${cur.title}` });
+        const st = now2.createEl("button", { cls: "sg-hymn-door", text: "\u25A0 Stop" });
+        st.onclick = () => this.stopHymn(render);
+      }
     };
     inp.oninput = render;
     render();
   }
-  playHymn(h, player, rerender) {
-    player.empty();
-    const head = player.createDiv({ cls: "sg-hymn-head" });
-    head.createDiv({ cls: "sg-hymn-title", text: `${h.n ? h.n + " \xB7 " : ""}${h.title}` });
-    const q = encodeURIComponent(`${h.title} hymn`);
-    const doors = player.createDiv({ cls: "sg-hymn-doors" });
-    const src = h.audio?.vocal ?? h.audio?.accompaniment ?? h.audio?.other ?? null;
-    const startStream = (url, label) => {
-      this.hymnAudio?.pause();
-      this.hymnAudio = new Audio(url);
-      this.hymnAudio.onended = () => {
-        this.hymnPlaying = null;
-        rerender();
-      };
-      void this.hymnAudio.play();
-      this.hymnPlaying = h.uri;
-      head.createDiv({ cls: "sg-hymn-now", text: `\u25B6 ${label}` });
-      rerender();
-    };
-    if (h.audio?.vocal) {
-      const b = doors.createEl("button", { cls: "sg-hymn-door sg-hymn-door-main", text: "\u25B6 Sing along" });
-      b.onclick = () => startStream(h.audio.vocal, "vocal");
-    }
-    if (h.audio?.accompaniment) {
-      const b = doors.createEl("button", { cls: "sg-hymn-door", text: "\u{1F3B9} Accompaniment" });
-      b.onclick = () => startStream(h.audio.accompaniment, "accompaniment");
-    }
-    const stop = doors.createEl("button", { cls: "sg-hymn-door", text: "\u25A0 Stop" });
-    stop.onclick = () => {
-      this.hymnAudio?.pause();
+  startHymn(h, url, rerender) {
+    this.hymnAudio?.pause();
+    this.hymnAudio = new Audio(url);
+    this.hymnAudio.onended = () => {
       this.hymnPlaying = null;
-      head.querySelector(".sg-hymn-now")?.remove();
       rerender();
     };
-    const ext = player.createDiv({ cls: "sg-hymn-doors" });
-    const link = (label, url) => {
-      const a2 = ext.createEl("a", { cls: "sg-hymn-door", text: label, href: url });
-      a2.setAttr("target", "_blank");
-      a2.setAttr("rel", "noopener");
+    this.hymnAudio.onerror = () => {
+      this.hymnPlaying = null;
+      new import_obsidian4.Notice("That recording would not play \u2014 try Listen elsewhere.");
+      rerender();
     };
-    link("Spotify", `https://open.spotify.com/search/${q}`);
-    link("Apple Music", `https://music.apple.com/us/search?term=${q}`);
-    link("YouTube", `https://www.youtube.com/results?search_query=${q}`);
-    link("Words & music \u2197", h.url);
-    if (src && !this.hymnPlaying) startStream(src, h.audio?.vocal ? "vocal" : "accompaniment");
-    player.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    void this.hymnAudio.play();
+    this.hymnPlaying = h.uri;
+    rerender();
+  }
+  stopHymn(rerender) {
+    this.hymnAudio?.pause();
+    this.hymnAudio = null;
+    this.hymnPlaying = null;
+    rerender();
+  }
+  hymnMenu(h) {
+    const q = encodeURIComponent(`${h.title} hymn`);
+    const m2 = new import_obsidian4.Menu();
+    m2.addItem((i) => i.setTitle("Spotify").setIcon("music").onClick(() => window.open(`https://open.spotify.com/search/${q}`, "_blank")));
+    m2.addItem((i) => i.setTitle("Apple Music").setIcon("music").onClick(() => window.open(`https://music.apple.com/us/search?term=${q}`, "_blank")));
+    m2.addItem((i) => i.setTitle("YouTube").setIcon("play").onClick(() => window.open(`https://www.youtube.com/results?search_query=${q}`, "_blank")));
+    m2.showAtMouseEvent(new MouseEvent("click", { clientX: window.innerWidth / 2, clientY: window.innerHeight / 2 }));
   }
   // ------------------------------------------------------- did you notice?
   insightPool = null;

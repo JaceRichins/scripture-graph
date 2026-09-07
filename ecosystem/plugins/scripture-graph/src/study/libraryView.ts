@@ -7,7 +7,7 @@
  * puts above each one. The Scriptures cover is the photo's black jacket
  * with the four works gold-stamped down its front; it drills to the five
  * volume covers, then books, then the chapter grid — GL's exact rhythm. */
-import { ItemView, Notice, Platform, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
+import { ItemView, Menu, Notice, Platform, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
 import { BOOKS, type BookInfo } from "@scripture-graph/core-sdk";
 import { LIBRARY_PREFIX, SGState } from "../state";
 import { historyBack, recordHistory, refreshNavArrows } from "./leafNav";
@@ -52,6 +52,7 @@ const COVER_ALIAS: Record<string, string> = {
   "scriptures": "bible", "secondary-sources": "podcast", "reference": "dictionary", "topical-guide": "dictionary",
   "essays": "scholarship", "true-to-the-faith": "doctrine", "ai-study-guides": "hub",
   "sources": "papers", "manifests": "papers", "source-notes": "papers", "periodicals": "periodicals",
+  "harold-b-lee": "teachings",
 };
 function coverKey(name: string): string {
   const slug = name.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -363,63 +364,81 @@ export class SGLibraryView extends ItemView {
       } catch { hymns = []; }
     }
     if (!c.isConnected) return;
-    c.createDiv({ cls: "sg-nav-intro", text: "The hymnbook. Tap a hymn to hear the Church's own recording "
-      + "here — vocal or accompaniment — or open it in Spotify, Apple Music or YouTube. The words live on "
-      + "the hymn's page at churchofjesuschrist.org." });
-    const inp = c.createEl("input", { cls: "sg-nav-filter", attr: { type: "search", placeholder: "Find a hymn by name or number…" } });
-    const player = c.createDiv({ cls: "sg-hymn-player" });
+    hymns.sort((a, b) => (a.n ?? 9999) - (b.n ?? 9999) || a.title.localeCompare(b.title));
+    c.createDiv({ cls: "sg-nav-intro", text: "Tap a hymn to hear the Church's recording." });
+    const inp = c.createEl("input", { cls: "sg-nav-filter", attr: { type: "search", placeholder: "Name or number…" } });
+    const now = c.createDiv({ cls: "sg-hymn-now" });
     const list = c.createDiv({ cls: "sg-nav-list" });
+    let open: string | null = null;
     const render = () => {
       list.empty();
       const q = inp.value.trim().toLowerCase();
       let i = 0;
       for (const h of hymns) {
         if (q && !(h.title.toLowerCase().includes(q) || String(h.n ?? "").startsWith(q))) continue;
+        const playing = this.hymnPlaying === h.uri;
         const row = list.createDiv({ cls: "sg-nav-row sg-hymn-row" });
         cascade(row, i++);
-        row.createSpan({ cls: "sg-hymn-n", text: h.n ? String(h.n) : "·" });
-        const col = row.createDiv({ cls: "sg-nav-gcol" });
-        col.createDiv({ cls: "sg-nav-name", text: h.title });
-        const has = h.audio?.vocal || h.audio?.accompaniment || h.audio?.other;
-        col.createDiv({ cls: "sg-nav-gsub", text: has ? "Church recording · Spotify · Apple Music · YouTube" : "Spotify · Apple Music · YouTube" });
-        row.toggleClass("sg-hymn-on", this.hymnPlaying === h.uri);
-        row.onclick = () => this.playHymn(h, player, render);
+        row.createSpan({ cls: "sg-hymn-n", text: h.n ? String(h.n) : "" });
+        row.createDiv({ cls: "sg-nav-name", text: h.title });
+        if (playing) row.createSpan({ cls: "sg-hymn-eq", text: "▶" });
+        row.toggleClass("sg-hymn-on", playing);
+        row.toggleClass("sg-hymn-open", open === h.uri);
+        row.onclick = () => { open = open === h.uri ? null : h.uri; render(); };
+        if (open === h.uri) {
+          const strip = list.createDiv({ cls: "sg-hymn-strip" });
+          const btn = (label: string, main: boolean, fn: () => void) => {
+            const b = strip.createEl("button", { cls: `sg-hymn-door${main ? " sg-hymn-door-main" : ""}`, text: label });
+            b.onclick = (e) => { e.stopPropagation(); fn(); };
+          };
+          const a = h.audio ?? {};
+          if (playing) btn("■ Stop", true, () => this.stopHymn(render));
+          else if (a.vocal || a.accompaniment) {
+            if (a.vocal) btn("▶ Sing along", true, () => this.startHymn(h, a.vocal!, render));
+            if (a.accompaniment) btn("🎹 Accompaniment", !a.vocal, () => this.startHymn(h, a.accompaniment!, render));
+          } else if (a.other) btn("▶ Play", true, () => this.startHymn(h, a.other!, render));
+          btn("Listen elsewhere ⋯", false, () => this.hymnMenu(h));
+          btn("Words ↗", false, () => window.open(h.url, "_blank"));
+        }
         if (i > 400) break;
       }
-      if (!list.childElementCount) list.createDiv({ cls: "sg-nav-empty", text: hymns.length ? "No hymn matches." : "The hymn index has not synced yet — the engine writes it nightly." });
+      if (!list.childElementCount) list.createDiv({ cls: "sg-nav-empty", text: hymns.length ? "No hymn matches." : "The hymn index has not synced yet." });
+      now.empty();
+      const cur = this.hymnPlaying ? hymns.find(x => x.uri === this.hymnPlaying) : null;
+      if (cur) {
+        now.createSpan({ cls: "sg-hymn-now-t", text: `▶ ${cur.n ? cur.n + " · " : ""}${cur.title}` });
+        const st = now.createEl("button", { cls: "sg-hymn-door", text: "■ Stop" });
+        st.onclick = () => this.stopHymn(render);
+      }
     };
     inp.oninput = render;
     render();
   }
 
-  private playHymn(h: Hymn, player: HTMLElement, rerender: () => void): void {
-    player.empty();
-    const head = player.createDiv({ cls: "sg-hymn-head" });
-    head.createDiv({ cls: "sg-hymn-title", text: `${h.n ? h.n + " · " : ""}${h.title}` });
+  private startHymn(h: Hymn, url: string, rerender: () => void): void {
+    this.hymnAudio?.pause();
+    this.hymnAudio = new Audio(url);
+    this.hymnAudio.onended = () => { this.hymnPlaying = null; rerender(); };
+    this.hymnAudio.onerror = () => { this.hymnPlaying = null; new Notice("That recording would not play — try Listen elsewhere."); rerender(); };
+    void this.hymnAudio.play();
+    this.hymnPlaying = h.uri;
+    rerender();
+  }
+
+  private stopHymn(rerender: () => void): void {
+    this.hymnAudio?.pause();
+    this.hymnAudio = null;
+    this.hymnPlaying = null;
+    rerender();
+  }
+
+  private hymnMenu(h: Hymn): void {
     const q = encodeURIComponent(`${h.title} hymn`);
-    const doors = player.createDiv({ cls: "sg-hymn-doors" });
-    const src = h.audio?.vocal ?? h.audio?.accompaniment ?? h.audio?.other ?? null;
-    const startStream = (url: string, label: string) => {
-      this.hymnAudio?.pause();
-      this.hymnAudio = new Audio(url);
-      this.hymnAudio.onended = () => { this.hymnPlaying = null; rerender(); };
-      void this.hymnAudio.play();
-      this.hymnPlaying = h.uri;
-      head.createDiv({ cls: "sg-hymn-now", text: `▶ ${label}` });
-      rerender();
-    };
-    if (h.audio?.vocal) { const b = doors.createEl("button", { cls: "sg-hymn-door sg-hymn-door-main", text: "▶ Sing along" }); b.onclick = () => startStream(h.audio!.vocal!, "vocal"); }
-    if (h.audio?.accompaniment) { const b = doors.createEl("button", { cls: "sg-hymn-door", text: "🎹 Accompaniment" }); b.onclick = () => startStream(h.audio!.accompaniment!, "accompaniment"); }
-    const stop = doors.createEl("button", { cls: "sg-hymn-door", text: "■ Stop" });
-    stop.onclick = () => { this.hymnAudio?.pause(); this.hymnPlaying = null; head.querySelector(".sg-hymn-now")?.remove(); rerender(); };
-    const ext = player.createDiv({ cls: "sg-hymn-doors" });
-    const link = (label: string, url: string) => { const a = ext.createEl("a", { cls: "sg-hymn-door", text: label, href: url }); a.setAttr("target", "_blank"); a.setAttr("rel", "noopener"); };
-    link("Spotify", `https://open.spotify.com/search/${q}`);
-    link("Apple Music", `https://music.apple.com/us/search?term=${q}`);
-    link("YouTube", `https://www.youtube.com/results?search_query=${q}`);
-    link("Words & music ↗", h.url);
-    if (src && !this.hymnPlaying) startStream(src, h.audio?.vocal ? "vocal" : "accompaniment");
-    player.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    const m = new Menu();
+    m.addItem(i => i.setTitle("Spotify").setIcon("music").onClick(() => window.open(`https://open.spotify.com/search/${q}`, "_blank")));
+    m.addItem(i => i.setTitle("Apple Music").setIcon("music").onClick(() => window.open(`https://music.apple.com/us/search?term=${q}`, "_blank")));
+    m.addItem(i => i.setTitle("YouTube").setIcon("play").onClick(() => window.open(`https://www.youtube.com/results?search_query=${q}`, "_blank")));
+    m.showAtMouseEvent(new MouseEvent("click", { clientX: window.innerWidth / 2, clientY: window.innerHeight / 2 }));
   }
 
   // ------------------------------------------------------- did you notice?

@@ -2417,11 +2417,6 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
 .sg-nav-intro { color: var(--text-muted); font-size: 0.92em; line-height: 1.45; margin: 0 0 10px; }
 .sg-hymn-n { flex: none; width: 34px; text-align: right; margin-right: 10px; font-weight: 700; color: var(--text-muted); font-variant-numeric: tabular-nums; }
 .sg-hymn-on .sg-nav-name { color: var(--text-accent); }
-.sg-hymn-player { position: sticky; top: 0; z-index: 4; margin: 8px 0 12px; padding: 12px 14px; border-radius: 16px;
-  background: color-mix(in srgb, var(--background-primary) 88%, #000); border: 1px solid rgba(255,255,255,0.08); }
-.sg-hymn-player:empty { display: none; }
-.sg-hymn-title { font-weight: 800; font-size: 1.05em; margin-bottom: 8px; }
-.sg-hymn-now { font-size: 0.8em; color: var(--text-accent); margin-bottom: 6px; }
 .sg-hymn-doors { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
 .sg-hymn-door { padding: 6px 12px; border-radius: 999px; font-size: 0.86em; font-weight: 600; text-decoration: none;
   background: var(--background-secondary); color: var(--text-normal); box-shadow: none;
@@ -2492,3 +2487,16 @@ body.sg-read-wide .sg-doc-page { max-width: 100% !important; }
 }
 .sg-sync-status { margin: 0 0 10px; font-variant-numeric: tabular-nums; }
 .sg-setup-msg { width: 100%; font: 14px/1.45 var(--font-monospace); resize: vertical; }
+
+/* ---- hymns: numbered rows, a strip under the open one, a one-line now-playing bar ---- */
+.sg-hymn-row { align-items: center; }
+.sg-hymn-row .sg-nav-name { flex: 1 1 auto; min-width: 0; }
+.sg-hymn-eq { color: var(--text-accent); font-size: 0.8em; margin-left: 8px; }
+.sg-hymn-open { background: color-mix(in srgb, var(--background-secondary) 70%, transparent); border-radius: 12px 12px 0 0; }
+.sg-hymn-strip { display: flex; flex-wrap: wrap; gap: 6px; padding: 6px 12px 12px 56px; margin: 0 0 6px;
+  background: color-mix(in srgb, var(--background-secondary) 70%, transparent); border-radius: 0 0 12px 12px; }
+.sg-hymn-now { position: sticky; top: 0; z-index: 4; display: flex; align-items: center; gap: 10px;
+  padding: 8px 12px; margin: 0 0 10px; border-radius: 12px; background: var(--background-primary);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
+.sg-hymn-now:empty { display: none; }
+.sg-hymn-now-t { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 700; }
