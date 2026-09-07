@@ -2,9 +2,10 @@
 ownership: system
 mutable: ai
 content_type: question
-status: queued
+status: developed
 scope: christianity
 sg-id: question:does-the-bible-endorse-slavery
+corpus_version_reviewed: 18
 ---
 
 # Does the Bible endorse slavery?
