@@ -1,15 +1,15 @@
 ---
-title: "The Charcoal Fire - PETER - ElevenLabs render"
+title: "The Charcoal Fire - PETER - your notes applied"
 show: "The Record Speaks"
 episode: "nt-00-the-charcoal-fire"
 scripture: "New Testament 1"
-script_version: 2
+script_version: 1
 type: episode-review
 status: awaiting-jace
 ---
 
-# The Charcoal Fire - PETER - ElevenLabs render
-*The Record Speaks — New Testament 1 · script v2 · 309 lines*
+# The Charcoal Fire - PETER - your notes applied
+*The Record Speaks — New Testament 1 · script v1 · 319 lines*
 
 > [!tip] How to leave notes for me
 > Put a comment **on the line you mean**, anywhere in this note:
@@ -25,7 +25,7 @@ status: awaiting-jace
 >
 > 📖 the Record · 🎙 imagined conversation · 🔎 commentary · ✨ spiritual reflection
 
-> [!note] The 67 bracketed cues are direction, not dialogue
+> [!note] The 72 bracketed cues are direction, not dialogue
 > `[quietly]`, `[emotional]`, `[warmly]`, `[long pause]` — these tell ElevenLabs **how** to say the line. They are never spoken aloud, and the free Kokoro previews strip them out entirely.
 > 
 > **They are yours to change.** Move one, delete one, or write your own in the same square brackets if a line should land differently. They never appear inside a 📖 block and never in anything the Lord says — those are read straight.
@@ -106,7 +106,7 @@ status: awaiting-jace
 > I said it three times.
 
 > [!sg-peter] 🎙 **Peter**  `intro-21`
-> So I said it out loud, in front of people, in the worst version I could stand. And then I kept saying it that way until it stopped being mine to arrange.
+> [quiet conviction] So I said it out loud, in front of people, in the worst version I could stand. And then I kept saying it that way until it stopped being mine to arrange.
 
 > [!sg-host] 🎙 **Luke**  `intro-22`
 > That's a hard way to live with a thing.
@@ -152,7 +152,7 @@ status: awaiting-jace
 > That's Mark being kind. I shouted.
 
 > [!sg-host] 🎙 **Luke**  `i1-08`
-> [long pause] …
+> [a pause] …
 
 > [!sg-host] 🎙 **Luke**  `i1-09`
 > Did you believe it? What you said.
@@ -198,7 +198,7 @@ status: awaiting-jace
 > Simon, sleepest thou.
 
 > [!sg-peter] 🎙 **Peter**  `i3-02`
-> He doesn't call me Peter there. Did you notice? He'd given me the other name years before, and in the garden, when he wakes me, he uses the one my father gave me.
+> [quiet conviction] He doesn't call me Peter there. Did you notice? He'd given me the other name years before, and in the garden, when he wakes me, he uses the one my father gave me.
 
 > [!sg-host] 🎙 **Luke**  `i3-03`
 > What did you take that to mean?
@@ -240,7 +240,7 @@ status: awaiting-jace
 > …Yes. That one.
 
 > [!sg-peter] 🎙 **Peter**  `i3-22`
-> People bring me that when they think I want cheering up. Somebody has said it to me at every table I have eaten at for twenty years.
+> People bring me that when they think I want cheering up. Somebody has said it to me at every table I have eaten at since.
 
 > [!sg-host] 🎙 **Luke**  `i3-23`
 > Does it work?
@@ -270,19 +270,31 @@ status: awaiting-jace
 > [quietly] Because if John was there, then I wasn't the brave one, I was the second one. And I have wanted that half a sentence more than I would like to admit.
 
 > [!sg-host] 🎙 **Luke**  `i3-32`
+> [exhales] …
+
+> [!sg-host] 🎙 **Luke**  `i3-32b`
+> There is something in that boast I want to put to you, because it is not only vanity. You said that though all should be offended, you would not be. And they were. Every one of them ran. And you were the one who followed.
+
+> [!sg-peter] 🎙 **Peter**  `i3-32c`
+> [softly] …In a way I was right.
+
+> [!sg-peter] 🎙 **Peter**  `i3-32d`
+> [voice tight] And that makes it worse, not better. A man who runs at the start has only run. I stayed close enough to be asked — and then I said it three times, to people who barely cared what the answer was.
+
+> [!sg-host] 🎙 **Luke**  `i3-32e`
 > [long pause] …
 
 > [!sg-host] 🎙 **Luke**  `i3-33`
-> Then here is the only thing I have that you might not, and it is not about that night. It is about the twenty years of tables.
+> Then here is the only thing I have that you might not, and it is not about that night. It is about all those tables.
 
 > [!sg-peter] 🎙 **Peter**  `i3-34`
 > Go on.
 
 > [!sg-host] 🎙 **Luke**  `i3-35`
-> [quietly] Every one of those people brought you the same sentence because it was the kindest thing they had. And you have spent twenty years explaining to them why it doesn't count. I think you have got very good at refusing comfort, and I think you learned it in that courtyard and not before.
+> [quietly] Every one of those people brought you the same sentence because it was the kindest thing they had. And you have spent all that time explaining to them why it doesn't count. I think you have got very good at refusing comfort, and I think you learned it in that courtyard and not before.
 
 > [!sg-peter] 🎙 **Peter**  `i3-36`
-> [long pause] …
+> [a pause] …
 
 > [!sg-peter] 🎙 **Peter**  `i3-37`
 > That is not a kind thing to say to a man.
@@ -358,7 +370,7 @@ status: awaiting-jace
 > Those don't look like the same man.
 
 > [!sg-peter] 🎙 **Peter**  `i5-11`
-> They're exactly the same man. That's what I'd want anybody listening to take. The sword was easy — the sword was me being the person I'd announced I was, in front of witnesses, with my hands full.
+> They're exactly the same man. That's what I'd want written down. The sword was easy — the sword was me being the person I'd announced I was, in front of witnesses, with my hands full.
 
 > [!sg-peter] 🎙 **Peter**  `i5-12`
 > [quietly] By the fire there was nothing to hold and nobody watching who mattered, and it was going to be hours, and there was no moment in it to be brave in. It was just standing there being cold and being asked.
@@ -377,7 +389,7 @@ status: awaiting-jace
 ## Conversation
 
 > [!sg-peter] 🎙 **Peter**  `i5-16`
-> [long pause] …
+> [exhales] …
 
 > [!sg-peter] 🎙 **Peter**  `i5-17`
 > Who told you that?
@@ -386,28 +398,28 @@ status: awaiting-jace
 > Somebody who was in that courtyard. Not you.
 
 > [!sg-peter] 🎙 **Peter**  `i5-13b`
-> [emotional] …It's true.
+> [softly] …It's true.
 
 > [!sg-peter] 🎙 **Peter**  `i5-13c`
-> [emotional] He was being taken across the yard and he turned his head. That's all it was. He didn't say anything. He looked at me while I was still saying it.
+> [voice breaking] He was being taken across the yard and he turned his head. That's all it was. He didn't say anything. He looked at me while I was still saying it.
 
 > [!sg-host] 🎙 **Luke**  `i5-13d`
 > [long pause] …
 
 > [!sg-peter] 🎙 **Peter**  `i5-13e`
-> [emotional] And I have had people tell me that must have been the worst moment of my life, and they are wrong, and it took me twenty years to work out why.
+> [voice tight] And I have had people tell me that must have been the worst moment of my life, and they are wrong, and it took me a long time to work out why.
 
 > [!sg-host] 🎙 **Luke**  `i5-13f`
 > Why?
 
 > [!sg-peter] 🎙 **Peter**  `i5-13g`
-> [emotional] Because there was nothing in his face doing what I deserved. I have gone over it more than anything else I own and there was no anger in it. He looked at me the way you look at somebody you are about to go and do something for.
+> [voice breaking] Because there was nothing in his face doing what I deserved. I have gone over it more than anything else I own and there was no anger in it. He looked at me the way you look at somebody you are about to go and do something for.
 
 > [!sg-host] 🎙 **Luke**  `i5-18`
 > And the cock crows.
 
 > [!sg-peter] 🎙 **Peter**  `i5-19`
-> [emotional] And I remembered. Standing there with my hands out to a fire, and the whole of what he'd said at the table came back on me at once, and I could not get my breath.
+> [voice tight] And I remembered. Standing there with my hands out to a fire, and the whole of what he'd said at the table came back on me at once, and I could not get my breath.
 
 > [!sg-peter] 🎙 **Peter**  `i5-20`
 > And I went outside and I wept. Which I'd always thought was the end of that story.
@@ -428,7 +440,7 @@ status: awaiting-jace
 > [quietly] That's the thing people don't think about. Most wrongs, you go back and you say it. There's a person to say it to. I had a body in somebody else's grave and a sentence I couldn't take out of the air.
 
 > [!sg-host] 🎙 **Luke**  `i5-26`
-> [long pause] …
+> [a pause] …
 
 > [!sg-host] 🎙 **Luke**  `i5-27`
 > I've never had to carry one that couldn't be answered.
@@ -465,7 +477,7 @@ status: awaiting-jace
 ## Conversation
 
 > [!sg-peter] 🎙 **Peter**  `i7-01`
-> [long pause] …
+> [exhales] …
 
 > [!sg-peter] 🎙 **Peter**  `i7-02`
 > And Peter.
@@ -480,7 +492,7 @@ status: awaiting-jace
 > And?
 
 > [!sg-peter] 🎙 **Peter**  `i7-06`
-> They were in it. And I have spent more of my life on those two words than on anything else I have ever been told.
+> [quiet conviction] They were in it. And I have spent more of my life on those two words than on anything else I have ever been told.
 
 > [!sg-host] 🎙 **Luke**  `i7-07`
 > What did you make of them?
@@ -504,7 +516,7 @@ status: awaiting-jace
 > That's a long time to hold two answers at once.
 
 > [!sg-peter] 🎙 **Peter**  `i7-14`
-> [emotional] It is. And I'd say this to anybody carrying something similar, because I know they're listening to you and not to me. It isn't that one of the answers wins and the other goes away. It's that one of them gets quieter.
+> It is. And I have said this to men carrying something like it, so I will say it to you. It isn't that one of the answers wins and the other goes away. It's that one of them gets quieter.
 
 > [!sg-peter] 🎙 **Peter**  `i7-15`
 > I ran to the grave, you know. When the women came. I went in and there was nothing in there but the linen, and I came out with nothing at all, and I have never once pretended I came out with more.
@@ -525,7 +537,7 @@ status: awaiting-jace
 > …That's a very short answer for a man who has been generous all morning.
 
 > [!sg-peter] 🎙 **Peter**  `i7-21`
-> …Yes. It is.
+> [softly] …Yes. It is.
 
 > [!sg-peter] 🎙 **Peter**  `i7-22`
 > [quietly] He came, and he was alive, and I was as glad as any of them. And nothing was said about the courtyard. And I went home from both of those and it was still there.
@@ -534,7 +546,7 @@ status: awaiting-jace
 > You wanted it named.
 
 > [!sg-peter] 🎙 **Peter**  `i7-24`
-> [emotional] I wanted it named. I'd have taken any amount of it named. It's the not-naming that I couldn't get out from under — a man forgives you so completely he won't even mention it, and you're left holding the whole thing on your own because there's nowhere to put it down.
+> [voice tight] I wanted it named. I'd have taken any amount of it named. It's the not-naming that I couldn't get out from under — a man forgives you so completely he won't even mention it, and you're left holding the whole thing on your own because there's nowhere to put it down.
 
 > [!sg-host] 🎙 **Luke**  `i7-25`
 > [long pause] …
@@ -614,13 +626,13 @@ status: awaiting-jace
 > That's what you noticed?
 
 > [!sg-peter] 🎙 **Peter**  `i11-03`
-> [emotional] That is the only thing I noticed for a good few seconds. There was a fire of coals in the courtyard. I was standing at it warming my hands when I said I didn't know him. And he's built one on a beach.
+> That is the only thing I noticed for a good few seconds. There was a fire of coals in the courtyard. I was standing at it warming my hands when I said I didn't know him. And he's built one on a beach.
 
 > [!sg-host] 🎙 **Luke**  `i11-04`
-> [long pause] …
+> [a pause] …
 
 > [!sg-peter] 🎙 **Peter**  `i11-05`
-> [emotional] You can call that the weather. Men have lit fires on that shore every morning for a thousand years and I won't argue with you. I'm telling you I came up out of that water and smelled it and knew where I was standing.
+> [voice tight] You can call that the weather. Men have lit fires on that shore every morning for a thousand years and I won't argue with you. I'm telling you I came up out of that water and smelled it and knew where I was standing.
 
 > [!sg-host] 🎙 **Luke**  `i11-06`
 > You swam in. John says you put your coat on and went over the side.
@@ -632,10 +644,10 @@ status: awaiting-jace
 > That's not the behaviour of a man who thinks he's been dropped.
 
 > [!sg-peter] 🎙 **Peter**  `i11-09`
-> …No. It isn't, is it.
+> [softly] …No. It isn't, is it.
 
 > [!sg-peter] 🎙 **Peter**  `i11-10`
-> [emotional] I've thought about that since. Whatever I was telling myself in the boat, my body got in the water. There was some part of me that had already decided he'd have me back, and it got there a long way before the rest of me did.
+> I've thought about that since. Whatever I was telling myself in the boat, my body got in the water. There was some part of me that had already decided he'd have me back, and it got there a long way before the rest of me did.
 
 > [!sg-peter] 🎙 **Peter**  `i11-11`
 > And he feeds us. That's what he does first. Nobody says anything about the courtyard. He hands round bread and fish like a man who has got up early to make his friends breakfast.
@@ -653,7 +665,7 @@ status: awaiting-jace
 > How long did that go on?
 
 > [!sg-peter] 🎙 **Peter**  `i11-16`
-> [emotional] Long enough that I stopped waiting for it. That's the bit I'd want anybody to hear. He let me get warm and get fed and get comfortable first. Whatever was coming, he wasn't going to do it to a cold man who hadn't eaten.
+> Long enough that I stopped waiting for it. That's the bit I'd want anybody to hear. He let me get warm and get fed and get comfortable first. Whatever was coming, he wasn't going to do it to a cold man who hadn't eaten.
 
 > [!sg-host] 🎙 **Luke**  `i12-01`
 > And then he asks you something. Three times.
@@ -681,19 +693,31 @@ status: awaiting-jace
 > You counted.
 
 > [!sg-peter] 🎙 **Peter**  `i13-03`
-> [emotional] I didn't have to count. I'd done the same counting in a courtyard the week they killed him, and got a different answer every time, and now here it was again and I could hear it coming round the third time before he said it.
+> [reluctantly] I didn't need to count.
 
 > [!sg-host] 🎙 **Luke**  `i13-04`
 > The account says you were grieved.
 
 > [!sg-peter] 🎙 **Peter**  `i13-05`
-> [emotional] I was. Not for the reason people think. It wasn't that he doubted me. It was that he'd gone to the trouble of asking three times, and there's only one reason a man does that. He knew exactly what I'd done and he was undoing it one at a time.
+> [barely above a whisper] I was. And not because he doubted me. He never doubted me.
+
+> [!sg-host] 🎙 **Luke**  `i13-05b`
+> Then why?
+
+> [!sg-peter] 🎙 **Peter**  `i13-05c`
+> [softly] …Because of the number.
+
+> [!sg-host] 🎙 **Luke**  `i13-05d`
+> [exhales] …
+
+> [!sg-peter] 🎙 **Peter**  `i13-05e`
+> [barely above a whisper] He was very careful with the number.
 
 > [!sg-peter] 🎙 **Peter**  `i13-06`
-> And I'd been so sure I'd never — I had told him. At the table, in front of all of them, I had told him that if — 
+> [faltering] And I'd been so sure I'd never — I had told him. At the table, in front of all of them, I had told him that if —
 
 > [!sg-peter] 🎙 **Peter**  `i13-07`
-> …Give me a moment.
+> [softly] …Give me a moment.
 
 > [!sg-host] 🎙 **Luke**  `i13-08`
 > There's no hurry.
@@ -702,19 +726,19 @@ status: awaiting-jace
 > [long pause] …
 
 > [!sg-peter] 🎙 **Peter**  `i13-10`
-> [emotional] He never asked me why I did it. I had three answers ready and he didn't want any of them. He asked me if I loved him. That was the only question on the table.
+> [voice tight] He never asked me why I did it. I had three answers ready and he didn't want any of them. He asked me if I loved him. That was the only question on the table.
 
 > [!sg-host] 🎙 **Luke**  `i13-11`
 > Were the three the same question?
 
 > [!sg-peter] 🎙 **Peter**  `i13-12`
-> [emotional] They were and they weren't. The first one I answered like a man answering a question. The second one I answered like a man who'd noticed something. The third one I could hardly get out.
+> [voice tight] They were and they weren't. The first one I answered like a man answering a question. The second one I answered like a man who'd noticed something. The third one I could hardly get out.
 
 > [!sg-host] 🎙 **Luke**  `i13-13`
 > Why not?
 
 > [!sg-peter] 🎙 **Peter**  `i13-14`
-> [emotional] Because by the third one I wasn't defending myself any more. There was nothing left to defend. He'd taken the whole thing out into the daylight in front of six other men and none of them said a word, and I just had to stand there and say yes, three times, in the same place I'd said no three times.
+> [voice tight] Because by the third one I wasn't defending myself any more. There was nothing left to defend. He'd taken the whole thing out into the daylight in front of six other men and none of them said a word, and I just had to stand there and say yes, three times, in the same place I'd said no three times.
 
 > [!sg-host] 🎙 **Luke**  `i13-15`
 > And every time you answer, he gives you work.
@@ -723,7 +747,7 @@ status: awaiting-jace
 > Feed my sheep. Yes.
 
 > [!sg-peter] 🎙 **Peter**  `i13-17`
-> [emotional] You want to know what forgiveness was, in my experience of it? It wasn't being told it was all right. Nobody ever told me it was all right. It was being handed something to do that only somebody he trusted could be given.
+> [voice tight] You want to know what forgiveness was, in my experience of it? It wasn't being told it was all right. Nobody ever told me it was all right. It was being handed something to do that only somebody he trusted could be given.
 
 > [!sg-host] 🎙 **Luke**  `i13-18`
 > …That's not how most people describe being forgiven.
@@ -735,7 +759,7 @@ status: awaiting-jace
 > What's the difference?
 
 > [!sg-peter] 🎙 **Peter**  `i13-21`
-> [emotional] Being let off, you walk away lighter and nothing else changes. This — he put the sheep in my hands. He made the rest of my life the answer to it. I couldn't put it down afterwards because I was too busy carrying what he'd given me instead.
+> [voice tight] Being let off, you walk away lighter and nothing else changes. This — he put the sheep in my hands. He made the rest of my life the answer to it. I couldn't put it down afterwards because I was too busy carrying what he'd given me instead.
 
 > [!sg-host] 🎙 **Luke**  `i13-22`
 > What did you do with them? The sheep.
@@ -753,13 +777,13 @@ status: awaiting-jace
 > …That sounds exhausting.
 
 > [!sg-peter] 🎙 **Peter**  `i13-27`
-> [emotional] It nearly finished me. And the thing that broke it was not a revelation. It was a woman in a house in Joppa asking me to sit down and eat, and me hearing myself say no, I've too much to do — and hearing him on that beach saying come and dine.
+> It nearly finished me. And the thing that broke it was not a revelation. It was a woman in a house in Joppa asking me to sit down and eat, and me hearing myself say no, I've too much to do — and hearing him on that beach saying come and dine.
 
 > [!sg-host] 🎙 **Luke**  `i13-28`
-> [long pause] …
+> [a pause] …
 
 > [!sg-peter] 🎙 **Peter**  `i13-29`
-> [emotional] He fed me before he sent me. I'd got the order the wrong way round for years and nearly worked myself into the ground doing it.
+> [voice tight] He fed me before he sent me. I'd got the order the wrong way round for years and nearly worked myself into the ground doing it.
 
 > [!sg-peter] 🎙 **Peter**  `i13-31`
 > And I tell people that now. It's most of what I've got to say to the young ones. They come to me wanting to know how to be brave and I keep telling them to go home and eat something.
@@ -781,19 +805,19 @@ status: awaiting-jace
 > No. It isn't.
 
 > [!sg-peter] 🎙 **Peter**  `i15-02`
-> [emotional] He tells me how it ends, more or less. And then he sends me after him again, on the same shore, with a net in my hands, like a man who has forgotten none of it and is asking anyway.
+> He tells me how it ends, more or less. And then he sends me after him again, on the same shore, with a net in my hands, like a man who has forgotten none of it and is asking anyway.
 
 > [!sg-host] 🎙 **Luke**  `i15-03`
 > Same as the first time.
 
 > [!sg-peter] 🎙 **Peter**  `i15-04`
-> [emotional] Same as the first time. As if the three years in between hadn't happened.
+> Same as the first time. As if the three years in between hadn't happened.
 
 > [!sg-host] 🎙 **Luke**  `i15-05`
 > Does the ending frighten you?
 
 > [!sg-peter] 🎙 **Peter**  `i15-06`
-> [quietly] …Less than the courtyard does. Which I couldn't have told you twenty years ago and I can tell you now.
+> [quietly] …Less than the courtyard does. Which I could not have told you once, and I can tell you now.
 
 ## Debrief
 
@@ -819,7 +843,7 @@ status: awaiting-jace
 > No. You're right.
 
 > [!sg-peter] 🎙 **Peter**  `deb-08`
-> A tidy man is no use to anybody. Leave the ones in who got it wrong. They're who it's for.
+> [quiet conviction] A tidy man is no use to anybody. Leave the ones in who got it wrong. They're who it's for.
 
 > [!sg-host] 🎙 **Luke**  `deb-09`
 > Then here's mine, and I'd rather say it badly than not say it. I have been going up and down this country for years collecting what happened, and I have been very careful, and I have been proud of being careful.
@@ -831,7 +855,7 @@ status: awaiting-jace
 > It is when the care is for the account and not for the person. I have sat in houses like this and been glad when somebody cried, because it meant the thing was true and I could write it down.
 
 > [!sg-peter] 🎙 **Peter**  `deb-12`
-> [long pause] …
+> [exhales] …
 
 > [!sg-peter] 🎙 **Peter**  `deb-13`
 > Did you write it down when I stopped?
@@ -873,7 +897,7 @@ status: awaiting-jace
 > Yes. I know what she means.
 
 > [!sg-peter] 🎙 **Peter**  `deb-26`
-> [emotional] She was the first one he went to. I was the one he named after. Same morning, the pair of us. And she's been told her word was worth nothing her whole life, and I have always known exactly what mine was worth.
+> She was the first one he went to. I was the one he named after. Same morning, the pair of us. And she's been told her word was worth nothing her whole life, and I have always known exactly what mine was worth.
 
 > [!sg-host] 🎙 **Luke**  `deb-27`
 > You'll write back?
@@ -885,28 +909,28 @@ status: awaiting-jace
 > Have you put it down?
 
 > [!sg-peter] 🎙 **Peter**  `deb-30`
-> [long pause] …
+> [a pause] …
 
 > [!sg-peter] 🎙 **Peter**  `deb-31`
 > Most days.
 
 > [!sg-peter] 🎙 **Peter**  `deb-32`
-> [emotional] I'll tell you what I have not managed, and then you can put your pen down and eat something. I can preach that morning to a room of four hundred people and not feel it. But I cannot walk past a coal fire in the street on a cold night without stopping. Not once, in all these years.
+> [voice tight] I'll tell you what I have not managed, and then you can put your pen down and eat something. I can preach that morning to a room of four hundred people and not feel it. But I cannot walk past a coal fire in the street on a cold night without stopping. Not once, in all these years.
 
 > [!sg-host] 🎙 **Luke**  `deb-33`
 > What happens when you stop?
 
 > [!sg-peter] 🎙 **Peter**  `deb-34`
-> [emotional] I stand there like a fool in the cold and I let it be both fires at once. The one where I lost him and the one where he gave me breakfast.
+> [voice tight] I stand there like a fool in the cold and I let it be both fires at once. The one where I lost him and the one where he gave me breakfast.
 
 > [!sg-host] 🎙 **Luke**  `deb-35`
 > And which one wins?
 
 > [!sg-peter] 🎙 **Peter**  `deb-36`
-> [emotional] Neither. I've stopped expecting one to. They're both mine and I get to keep the pair of them.
+> [voice tight] Neither. I've stopped expecting one to. They're both mine and I get to keep the pair of them.
 
 > [!sg-peter] 🎙 **Peter**  `deb-37`
-> [emotional] And then I go home. He does not come back for people he has finished with.
+> [voice tight] And then I go home. He does not come back for people he has finished with.
 
 > [!sg-host] 🎙 **Luke**  `deb-37b`
 > Can I go back to something you said when I sat down?
@@ -939,22 +963,22 @@ status: awaiting-jace
 > …And the courtyard is the same shape.
 
 > [!sg-peter] 🎙 **Peter**  `deb-37l`
-> [emotional] The same shape, and years apart, and I hadn't learned a thing in between. That's why I don't like telling it. People hear it and think, what faith. I hear it and think, there he is, he's about to go under, and he does.
+> [voice tight] The same shape, and years apart, and I hadn't learned a thing in between. That's why I don't like telling it. People hear it and think, what faith. I hear it and think, there he is, he's about to go under, and he does.
 
 > [!sg-host] 🎙 **Luke**  `deb-37m`
 > What happened when you went under?
 
 > [!sg-peter] 🎙 **Peter**  `deb-37n`
-> [emotional] He put his hand out and got hold of me.
+> [barely above a whisper] He put his hand out and got hold of me.
 
 > [!sg-peter] 🎙 **Peter**  `deb-37o`
-> [long pause] …
+> [exhales] …
 
 > [!sg-peter] 🎙 **Peter**  `deb-37p`
-> [emotional] He has never once let me finish drowning. Not in the water and not in the courtyard. I go under and there is a hand in it. Every time.
+> [voice breaking] He has never once let me finish drowning. Not in the water and not in the courtyard. I go under and there is a hand in it. Every time.
 
 > [!sg-host] 🎙 **Luke**  `deb-37q`
-> …Tell that one. Tell it that way and tell it often.
+> [softly] …Tell that one. Tell it that way and tell it often.
 
 > [!sg-peter] 🎙 **Peter**  `deb-37r`
 > Maybe I will now. You've made it easier to get at.
@@ -966,13 +990,13 @@ status: awaiting-jace
 > [long pause] …
 
 > [!sg-peter] 🎙 **Peter**  `deb-37u`
-> [emotional] I'd say don't wait until you feel forgiven to go back. I waited. I waited a long time, and the feeling never came first — the breakfast came first, and the work came after that, and the feeling turned up years later like a man arriving at the end of a party.
+> [voice tight] I'd say don't wait until you feel forgiven to go back. I waited. I waited a long time, and the feeling never came first — the breakfast came first, and the work came after that, and the feeling turned up years later like a man arriving at the end of a party.
 
 > [!sg-peter] 🎙 **Peter**  `deb-37v`
-> [emotional] And I'd tell them the bit that nobody says. He knew. Before the courtyard, at the table, he told me exactly what I was going to do, and he let me sit at his table anyway and eat his bread, and then he made me breakfast afterwards. He was never once surprised by me.
+> [voice breaking] And I'd tell them the bit that nobody says. He knew. Before the courtyard, at the table, he told me exactly what I was going to do, and he let me sit at his table anyway and eat his bread, and then he made me breakfast afterwards. He was never once surprised by me.
 
 > [!sg-host] 🎙 **Luke**  `deb-37w`
-> [long pause] …
+> [a pause] …
 
 > [!sg-host] 🎙 **Luke**  `deb-37x`
 > That is the best answer I have been given to anything this year.
@@ -981,7 +1005,7 @@ status: awaiting-jace
 > It took me long enough to get it.
 
 > [!sg-host] 🎙 **Luke**  `deb-38`
-> [warmly] Peter. Thank you.
+> Peter. Thank you.
 
 > [!sg-peter] 🎙 **Peter**  `deb-39`
 > You'll want to eat before you go back up. There's fish.
@@ -1004,13 +1028,19 @@ status: awaiting-jace
 ## Next time
 
 > [!sg-host] 🎙 **Luke**  `hook-01`
-> [warmly] Then I'll take the fish, and I'll go. And the next time I am in Jerusalem I'll tell her you knew what she meant. She'll want that from me and not from anybody else.
+> Then I'll take the fish, and I'll go. And the next time I am in Jerusalem I'll tell her you knew what she meant. She'll want that from me and not from anybody else.
 
 ## Worth noticing
 
 > [!sg-scholar] 🔎 **The Professor**  `wn-01`
-> One thing worth noticing. Both fires are called the same thing, and only one writer troubles to tell you so — the same word for the coals in the courtyard and the coals on the shore. He does not explain it. He sets one beside the other and leaves the working to you, which is what he does with the three questions as well.
+> Two things before you go, and the first is a caution. Twice tonight you heard that the man who got Peter through the gate was John. The account does not say that. It says another disciple, and it never names him. The identification is very old and most readers take it that way, and it may well be right — but it is not written down, and you should hold it a little more lightly than the rest.
+
+> [!sg-scholar] 🔎 **The Professor**  `wn-01b`
+> The same goes for two other things you heard. That the account Peter has been read from was set down from his own preaching is a tradition, not a fact the text states. And that the three questions on the shore answer the three denials in the courtyard is a reading — a very old one, and the one most of the church has held — but the writer does not say it. He puts the two threes down and leaves them there.
+
+> [!sg-scholar] 🔎 **The Professor**  `wn-02`
+> And the second thing, which is the one I would not want you to miss. Both fires are called the same thing. The coals in the courtyard, and the coals on the shore — the same word, and only one writer troubles to tell you so. He does not explain it either. He sets one beside the other and leaves the working to you, which is what he does with the threes as well. This is a writer who trusts his reader.
 
 ---
 
-*Generated 2026-09-06 00:56 UTC. The conversation is imagined; the scripture is byte-exact and is never altered.*
+*Generated 2026-09-07 20:16 UTC. The conversation is imagined; the scripture is byte-exact and is never altered.*
