@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.37 build 37629c572 2026-09-08T15:28:45Z */
+/* scripture-graph v0.72.38 build 6d6f0333b 2026-09-08T15:51:23Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.37", sha: "37629c572", at: "2026-09-08T15:28:45Z" };
+    define_SG_BUILD_default = { version: "0.72.38", sha: "6d6f0333b", at: "2026-09-08T15:51:23Z" };
   }
 });
 
@@ -13994,7 +13994,7 @@ var SGLibraryView = class extends import_obsidian5.ItemView {
     if (this.view.kind === "music") return "Music";
     if (this.view.kind === "playlist") return this.view.title;
     const v = this.view;
-    return v.kind === "home" ? "Library" : v.kind === "scriptures" ? "Scriptures" : v.kind === "books" ? v.volume : v.kind === "chapters" ? v.book.name : v.kind === "graphs" ? "Graphs" : v.kind === "timelines" ? "Timelines" : v.kind === "questions" ? "Hard Questions" : v.title;
+    return v.kind === "home" ? "Home" : v.kind === "scriptures" ? "Library" : v.kind === "books" ? v.volume : v.kind === "chapters" ? v.book.name : v.kind === "graphs" ? "Graphs" : v.kind === "timelines" ? "Timelines" : v.kind === "questions" ? "Hard Questions" : v.title;
   }
   unsubs = [];
   render() {
@@ -14031,7 +14031,7 @@ var SGLibraryView = class extends import_obsidian5.ItemView {
     if (this.view.kind !== "home") return "library";
     return this.searchQuery.trim() ? "search" : "home";
   }
-  /** the Scriptures shelf — GL's "Library" tab is the shelf of books */
+  /** the Library — everything, in sections, the scriptures first (the dock's door) */
   showScriptures() {
     if (this.view.kind === "scriptures") return;
     this.trail = [{ kind: "home" }];
@@ -14533,53 +14533,8 @@ var SGLibraryView = class extends import_obsidian5.ItemView {
   renderShelf(c2) {
     this.coverSeq = 0;
     void this.renderThisWeek(c2.createDiv({ cls: "sg-cfm-slot" }));
+    this.renderContinue(c2.createDiv({ cls: "sg-continue-slot" }));
     void this.renderInsight(c2.createDiv({ cls: "sg-insight-slot" }));
-    const grid = c2.createDiv({ cls: "sg-nav-covers" });
-    this.cover(grid, {
-      label: "Scriptures",
-      hue: "#d9c07a",
-      jacket: "sg-cover-jacket",
-      lines: ["Holy Bible", "Book of Mormon", "Doctrine and Covenants", "Pearl of Great Price"],
-      onTap: () => this.go({ kind: "scriptures" })
-    });
-    this.cover(grid, {
-      icon: "timeline",
-      label: "Timeline",
-      onTap: () => this.go({ kind: "timelines" })
-    });
-    this.cover(grid, {
-      icon: "hub",
-      label: "Study Hub",
-      onTap: () => this.host.openNote("Study Hub")
-    });
-    this.cover(grid, {
-      icon: "graph",
-      label: "Graphs",
-      onTap: () => this.go({ kind: "graphs" })
-    });
-    this.cover(grid, {
-      icon: "question",
-      label: "Hard Questions",
-      onTap: () => this.go({ kind: "questions" })
-    });
-    if (this.app.vault.getAbstractFileByPath(HYMNS_PATH)) {
-      this.cover(grid, {
-        icon: "podcast",
-        label: "Music",
-        photo: "hymns",
-        onTap: () => this.go({ kind: "music" })
-      });
-    }
-    for (const s of LIBRARY_SECTIONS) {
-      const l = this.host.listFolder(s.path);
-      const real = l.files.filter((f) => f.name !== s.name && f.name !== s.name.split(" &")[0]);
-      if (!l.folders.length && !real.length) continue;
-      this.cover(grid, {
-        icon: s.icon,
-        label: s.name,
-        onTap: () => this.go({ kind: "folder", path: s.path, title: s.name })
-      });
-    }
     const groupsBox = c2.createDiv({ cls: "sg-nav-groups" });
     const actsP = this.groupActs ? Promise.resolve(this.groupActs) : this.host.groupActivity();
     void actsP.then((acts) => {
@@ -14591,9 +14546,9 @@ var SGLibraryView = class extends import_obsidian5.ItemView {
         if (!title) continue;
         const row = groupsBox.createDiv({ cls: "sg-nav-row sg-nav-group" });
         navIcon(row, "groups");
-        const col = row.createDiv({ cls: "sg-nav-gcol" });
-        col.createDiv({ cls: "sg-nav-name", text: title });
-        col.createDiv({
+        const col2 = row.createDiv({ cls: "sg-nav-gcol" });
+        col2.createDiv({ cls: "sg-nav-name", text: title });
+        col2.createDiv({
           cls: "sg-nav-gsub",
           text: `${a2.group_name} \xB7 ${a2.count} note${a2.count === 1 ? "" : "s"}` + (a2.others ? "" : " (all yours)")
         });
@@ -14601,16 +14556,82 @@ var SGLibraryView = class extends import_obsidian5.ItemView {
       }
     }).catch(() => {
     });
+    const browse = c2.createDiv({ cls: "sg-nav-row sg-home-browse" });
+    navIcon(browse, "library");
+    const col = browse.createDiv({ cls: "sg-nav-gcol" });
+    col.createDiv({ cls: "sg-nav-name", text: "Browse the Library" });
+    col.createDiv({ cls: "sg-nav-gsub", text: "Scriptures, conference, history, topics, music" });
+    browse.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
+    browse.onclick = () => this.go({ kind: "scriptures" });
+  }
+  /** the chapter you were in, as a card like this week's lesson; the two
+   * before it as chips. Nothing when the reader has never opened a chapter. */
+  renderContinue(slot) {
+    const cur = this.host.lastChapter();
+    if (!cur) {
+      slot.remove();
+      return;
+    }
+    const card = slot.createDiv({ cls: "sg-cfm sg-continue" });
+    card.createDiv({ cls: "sg-cfm-eyebrow", text: "Continue reading" });
+    card.createDiv({ cls: "sg-cfm-title", text: cur.title });
+    card.onclick = () => this.host.openChapter(cur.title);
+    const recent = this.host.recentChapters().filter((r) => r.slug !== cur.slug).slice(0, 3);
+    if (recent.length) {
+      const chips = card.createDiv({ cls: "sg-cfm-chips" });
+      for (const r of recent) {
+        const b = chips.createEl("button", { cls: "sg-cfm-chip", text: r.title });
+        b.onclick = (e) => {
+          e.stopPropagation();
+          this.host.openChapter(r.title);
+        };
+      }
+    }
   }
   // ------------------------------------------------- scriptures & drilling
   renderScriptures(c2) {
     this.coverSeq = 0;
+    c2.createDiv({ cls: "sg-nav-sect sg-lib-sect", text: "Scriptures" });
     const grid = c2.createDiv({ cls: "sg-nav-covers" });
     for (const vol of VOLUMES) {
       this.cover(grid, { icon: vol.icon, label: vol.name, onTap: () => {
         const books = BOOKS.filter((b) => b.volume === vol.name);
         this.go(books.length === 1 ? { kind: "chapters", book: books[0] } : { kind: "books", volume: vol.name });
       } });
+    }
+    c2.createDiv({ cls: "sg-nav-sect sg-lib-sect", text: "Study" });
+    const study = c2.createDiv({ cls: "sg-nav-covers" });
+    this.cover(study, { icon: "hub", label: "Study Hub", onTap: () => this.host.openNote("Study Hub") });
+    this.cover(study, { icon: "question", label: "Hard Questions", onTap: () => this.go({ kind: "questions" }) });
+    this.cover(study, { icon: "timeline", label: "Timeline", onTap: () => this.go({ kind: "timelines" }) });
+    this.cover(study, { icon: "graph", label: "Graphs", onTap: () => this.go({ kind: "graphs" }) });
+    const shelves = LIBRARY_SECTIONS.filter((s) => {
+      const l = this.host.listFolder(s.path);
+      const real = l.files.filter((f) => f.name !== s.name && f.name !== s.name.split(" &")[0]);
+      return l.folders.length || real.length;
+    });
+    if (shelves.length) {
+      c2.createDiv({ cls: "sg-nav-sect sg-lib-sect", text: "Reference" });
+      const ref = c2.createDiv({ cls: "sg-nav-covers" });
+      for (const s of shelves) {
+        this.cover(ref, {
+          icon: s.icon,
+          label: s.name,
+          onTap: () => this.go({ kind: "folder", path: s.path, title: s.name })
+        });
+      }
+    }
+    if (this.app.vault.getAbstractFileByPath(HYMNS_PATH)) {
+      c2.createDiv({ cls: "sg-nav-sect sg-lib-sect", text: "Music" });
+      const music = c2.createDiv({ cls: "sg-nav-covers" });
+      this.cover(music, { icon: "podcast", label: "Music", photo: "hymns", onTap: () => this.go({ kind: "music" }) });
+      this.cover(music, { icon: "podcast", label: "Hymns", photo: "hymnbook", onTap: () => this.go({ kind: "hymns" }) });
+      this.cover(music, {
+        icon: "podcast",
+        label: "Children's Songs",
+        photo: "music-family",
+        onTap: () => this.go({ kind: "hymns", book: "Children's Songbook" })
+      });
     }
   }
   renderBooks(c2, volume) {

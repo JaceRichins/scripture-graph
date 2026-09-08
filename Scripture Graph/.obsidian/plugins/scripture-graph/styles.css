@@ -2488,6 +2488,20 @@ body.sg-dock-on .sg-reader, body.sg-dock-on .sg-tl-stream { padding-bottom: calc
 
 /* ---- 📅 Come, Follow Me — this week ---- */
 .sg-cfm-slot { margin: 2px 0 14px; }
+/* Continue reading: the lesson card's shape in the reader's gold; the whole card is the tap */
+.sg-continue-slot { margin: 0 0 14px; }
+.sg-continue { cursor: pointer;
+  background: radial-gradient(120% 90% at 100% 0%, rgba(217, 192, 122, 0.16), transparent 60%),
+    color-mix(in srgb, var(--background-secondary) 78%, transparent);
+  border-color: rgba(217, 192, 122, 0.32); }
+.sg-continue:active { transform: scale(0.99); }
+.sg-continue .sg-cfm-eyebrow { color: #d9c07a; }
+.sg-continue .sg-cfm-chip { background: rgba(217, 192, 122, 0.10); color: #e8d9a8; border-color: rgba(217, 192, 122, 0.35); }
+/* the one door onward from Home */
+.sg-home-browse { margin-top: 18px; }
+/* the Library's section headings sit above each grid */
+.sg-lib-sect { margin-top: 18px; }
+.sg-lib-sect:first-child { margin-top: 2px; }
 .sg-cfm {
   padding: 14px 16px 12px; border-radius: 18px; overflow: hidden; max-width: 100%;
   background:
