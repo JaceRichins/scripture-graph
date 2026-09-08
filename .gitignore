@@ -44,3 +44,6 @@ ecosystem/server/data/
 ecosystem/server/plugin-release/
 ecosystem/.env
 
+
+# ancestors' photos and documents from FamilySearch: kept on this machine and served to phones, never in git
+Scripture Graph/AI Library/12 Family/_media/
