@@ -3459,6 +3459,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-1cor-5-d1617905",
+   "t": "Paul writes 1 Corinthians from Ephesus",
+   "y0": 53,
+   "y1": 55,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Reconstructed from Pauline chronology in Acts and the letter's own references to writing from Ephesus; widely though not universally accepted.",
+   "chapters": [
+    "1 Corinthians 5"
+   ],
+   "people": [
+    "Paul"
+   ],
+   "places": [
+    "Ephesus",
+    "Corinth"
+   ]
+  },
+  {
    "id": "r-1jn-2-d488436a",
    "t": "Traditional composition of the Johannine epistles at Ephesus",
    "y0": 85,

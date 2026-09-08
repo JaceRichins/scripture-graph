@@ -128,7 +128,7 @@ The opening of the Decalogue supplies another contrast. God identifies himself a
 
 > [!evidence] Textual Intertextuality
 > Mosiah 12:21–24 reproduces Isaiah 52:7–10 in closely corresponding sequence and wording. This is strong evidence of a deliberate textual relationship and makes Isaiah's proclamation of peace, Zion's restoration, and God's salvation central to the ensuing dispute.
-> — strength 1.0 · confidence 1.0 · textual relationship broadly accepted · [[Textual Intertextuality in Mosiah 12|full dossier]]
+> — strength 0.8 · confidence 1.0 · textual relationship broadly accepted · [[Textual Intertextuality in Mosiah 12|full dossier]]
 
 > [!evidence] Textual/Source Criticism *(tentative)*
 > The priests' quoted passage (vv. 21-24) is verbally very close to the King James Version of Isaiah 52:7-10. This close match is sometimes cited as consistent with the Nephites possessing an ancient Isaiah text on the brass plates, but the same match is equally explainable as literary dependence on the KJV during the Book of Mormon's production, so the parallel alone cannot adjudicate between an ancient-source and a translation-era-composition explanation.

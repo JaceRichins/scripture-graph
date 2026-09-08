@@ -137,7 +137,7 @@ The conclusion echoes [[Isaiah 52]]: "publish peace," "good tidings," and "the L
 
 > [!evidence] Scriptural Intertext
 > The closing description of publishing peace, bringing good tidings, and declaring that the Lord reigns is a strong verbal and thematic echo of Isaiah 52:7.
-> — strength 0.9 · confidence 1.0 · Strong verbal intertext; historical implications disputed · [[Scriptural Intertext in Mosiah 27|full dossier]]
+> — strength 0.7 · confidence 0.9 · Strong verbal intertext; historical implications disputed · [[Scriptural Intertext in Mosiah 27|full dossier]]
 
 > [!evidence] Literary Type-Scene Parallel *(tentative)*
 > The angelic confrontation of Alma the younger while he actively persecutes the church—resulting in his physical incapacitation and subsequent transformation into a missionary—structurally resembles Saul's conversion on the road to Damascus (Acts 9): a persecutor is stopped by a divine manifestation, temporarily disabled, and becomes an advocate for the faith he opposed.

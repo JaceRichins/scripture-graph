@@ -133,7 +133,7 @@ Verse 12's repeated “they would not” is an emphatic rhetorical pattern, not 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual Intertextuality
 > Mosiah 16:7-10 contains a concentrated textual cluster parallel to 1 Corinthians 15:53-55: corruption and incorruption, mortality and immortality, death swallowed up, the sting of death, and the grave's victory. Deliberate scriptural intertextuality in the English wording is highly likely, although the direction and mechanism of dependence remain unresolved.
-> — strength 0.6 · confidence 1.0 · Dense English parallel accepted; historical mechanism disputed · [[Textual Intertextuality in Mosiah 16|full dossier]]
+> — strength 0.8 · confidence 1.0 · Dense English parallel accepted; historical mechanism disputed · [[Textual Intertextuality in Mosiah 16|full dossier]]
 
 > [!evidence] Intertextual Phrase Match *(tentative)*
 > The phrase 'see eye to eye' in Mosiah 16:1 matches a rare KJV idiom concentrated in Isaiah 52:8 ('for they shall see eye to eye, when the LORD shall bring again Zion'), a chapter Abinadi has just finished quoting at length in Mosiah 12-14. This raises the possibility of a deliberate echo of Isaiah's watchmen-of-Zion imagery, but the evidence is thin.

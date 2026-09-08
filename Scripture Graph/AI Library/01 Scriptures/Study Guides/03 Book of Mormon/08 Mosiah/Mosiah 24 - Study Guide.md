@@ -125,7 +125,7 @@ The chapter juxtaposes two kinds of power: Amulon's royal appointment, teachers,
 <!-- SG:BEGIN evidence -->
 > [!evidence] Textual-Narrative
 > As primary textual evidence for the chapter's own theology, the sequence from inward prayer to sustaining strength and eventual escape strongly supports the interpretation that divine visitation may include both endurance within affliction and release from it.
-> — strength 0.8 · confidence 0.9 · best-disciplined claim in the set · [[Textual-Narrative in Mosiah 24|full dossier]]
+> — strength 0.1 · confidence 0.9 · best-disciplined claim in the set · [[Textual-Narrative in Mosiah 24|full dossier]]
 
 > [!evidence] Typological/Literary Pattern *(tentative)*
 > The chapter's overall arc — bondage, a cry to God, prohibition and covert devotion, incapacitation of oppressors by divine action, wilderness travel, and arrival in a gathering place — follows the same basic sequence as the Exodus narrative, functioning as a recognizable deliverance type-scene within the Book of Mormon.
