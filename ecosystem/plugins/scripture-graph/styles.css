@@ -70,6 +70,8 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 .sg-ft-canvas:active { cursor: grabbing; }
 .sg-ft-sky, .sg-ft-ground { display: none; }
 body.sg-scene-on .sg-ft-name { color: #fff6e6; }
+.sg-scene-grove ~ .app-container .sg-ft-limb { stroke: #a98a54; }
+.sg-scene-grove ~ .app-container .sg-ft-limb-m { stroke: #c8a86a; }
 body.sg-scene-on .sg-ft-years { color: rgba(255, 240, 220, 0.72); }
 .sg-ft-layer { position: absolute; left: 0; top: 0; width: 0; height: 0; transform-origin: 0 0; will-change: transform; }
 .sg-ft-lines { position: absolute; overflow: visible; pointer-events: none; }
@@ -601,17 +603,34 @@ body[data-sg-scene="prison"] { --sg-ink: #e4e2dc; --sg-ink-strong: #f5f2ea; --sg
 }
 
 /* ── 🌿 The Garden: dappled light through leaves ── */
-/* The Orchard — the Family tree's own dusk: amber going to plum, one great tree */
-.sg-scene-orchard .sgl-1 {
-  background: radial-gradient(90% 60% at 50% 100%, #b8743a66 0%, transparent 65%),
-    linear-gradient(180deg, #2b1436 0%, #4a2340 38%, #8a4a3c 72%, #c98450 100%);
+/* The Grove — the family tree's own place: dusk light through a canopy,
+   deep moss, warm earth, roots beneath the one at the bottom */
+.sg-scene-grove .sgl-1 {
+  background: radial-gradient(70% 45% at 50% 0%, rgba(255, 214, 140, 0.30) 0%, transparent 65%),
+    linear-gradient(180deg, #06140f 0%, #0e2a1d 30%, #163223 55%, #21261a 78%, #2a1c12 100%);
   animation: sg-dawn-breathe 50s ease-in-out infinite alternate;
 }
-.sg-scene-orchard .sgl-2 { background-repeat: no-repeat; background-size: 1200px 700px; opacity: 0.7; }
-.sg-scene-orchard .sgl-3 { background-position: 50% 100%; background-size: 1400px 300px; background-repeat: repeat-x; }
-.sg-scene-orchard .sgl-4 { background-position: 50% 100%; background-size: 1500px 330px; background-repeat: no-repeat; opacity: 0.95; }
-.sg-scene-orchard .sgl-5 { background-position: 50% 100%; background-size: 1300px 260px; background-repeat: repeat-x; }
-.sg-scene-orchard .sgl-scrim { background: radial-gradient(120% 80% at 50% 110%, transparent 55%, rgba(8, 4, 12, 0.35) 100%); }
+.sg-scene-grove .sgl-2 { /* shafts of late light, and a soft vignette */
+  background:
+    linear-gradient(104deg, transparent 30%, rgba(255, 226, 170, 0.10) 37%, transparent 45%),
+    linear-gradient(112deg, transparent 56%, rgba(255, 226, 170, 0.07) 64%, transparent 73%),
+    radial-gradient(130% 90% at 50% 118%, transparent 60%, rgba(4, 8, 5, 0.55) 100%),
+    radial-gradient(90% 36% at 6% -6%, rgba(2, 8, 5, 0.55), transparent 70%),
+    radial-gradient(90% 36% at 94% -6%, rgba(2, 8, 5, 0.55), transparent 70%);
+  animation: sg-halo 20s ease-in-out infinite alternate;
+}
+.sg-scene-grove .sgl-3, .sg-scene-grove .sgl-4 { background-position: 50% 0; background-size: 1300px 260px; background-repeat: repeat-x; }
+.sg-scene-grove .sgl-4 { background-size: 1000px 200px; opacity: 0.95; }
+.sg-scene-grove .sgl-5 { background-position: 50% 100%; background-size: 1400px 240px; background-repeat: repeat-x; }
+.sg-scene-grove .sgl-6 { background-position: 50% 100%; background-size: 1600px 330px; background-repeat: no-repeat; opacity: 0.9; }
+.sg-scene-grove .sgl-scrim { background: radial-gradient(120% 80% at 50% 110%, transparent 55%, rgba(4, 8, 5, 0.3) 100%); }
+.sg-leaf { /* leaves letting go of the canopy */
+  top: -4%;
+  width: 9px; height: 6px; border-radius: 70% 30% 70% 30%;
+  background: rgba(214, 178, 96, 0.62);
+  animation: sg-petal-fall 22s linear infinite, sg-petal-sway 5s ease-in-out infinite alternate;
+  opacity: 0;
+}
 .sg-scene-garden .sgl-1 {
   background: radial-gradient(120% 100% at 50% 0%, #33604080 0%, transparent 60%),
     linear-gradient(180deg, #2c5639 0%, #1e472b 44%, #123322 100%);

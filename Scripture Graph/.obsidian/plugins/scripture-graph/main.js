@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.43 build b9b3f2882 2026-09-08T22:34:22Z */
+/* scripture-graph v0.72.44 build 0d6f4ee57 2026-09-08T22:41:21Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.43", sha: "b9b3f2882", at: "2026-09-08T22:34:22Z" };
+    define_SG_BUILD_default = { version: "0.72.44", sha: "0d6f4ee57", at: "2026-09-08T22:41:21Z" };
   }
 });
 
@@ -14376,7 +14376,7 @@ var SGLibraryView = class extends import_obsidian7.ItemView {
     head.createDiv({ cls: "sg-lp-title", text: this.title() });
     window.setTimeout(() => document.dispatchEvent(new CustomEvent("sg-dock-refresh")), 0);
     const body = c2.createDiv({ cls: "sg-lp-body" });
-    this.host.scene?.(v.kind === "family" ? "orchard" : null);
+    this.host.scene?.(v.kind === "family" ? "grove" : null);
     if (v.kind === "home") this.renderHome(body);
     else if (v.kind === "scriptures") this.renderScriptures(body);
     else if (v.kind === "books") this.renderBooks(body, v.volume);
@@ -19212,7 +19212,7 @@ var SCENES = [
   { id: "desert", name: "Desert Dusk", emoji: "\u{1F3DC}\uFE0F", hours: [], layers: 6 },
   { id: "starlight", name: "The Heavens", emoji: "\u{1F30C}", hours: [[20, 24], [0, 5]], layers: 5 },
   { id: "candle", name: "Candlelight", emoji: "\u{1F56F}\uFE0F", hours: [], layers: 4 },
-  { id: "orchard", name: "The Orchard", emoji: "\u{1F333}", hours: [], layers: 6 }
+  { id: "grove", name: "The Grove", emoji: "\u{1F333}", hours: [], layers: 6 }
 ];
 var ROOT_CLS = "sg-scene";
 function lcg(seed) {
@@ -19244,27 +19244,28 @@ function ridge(seed, color, base, jag, crest) {
   if (crest) c2 += `<path d='${open2}' stroke='${crest}' stroke-width='2.2' fill='none' opacity='0.55'/>`;
   return svgUrl(900, 200, c2);
 }
-function oak(seed, color, x3 = 450, ground = 200) {
+function roots(seed, color, light, x3 = 450) {
   const rnd = lcg(seed);
   let c2 = "";
-  const limb = (x1, y1, ang, len, w, depth) => {
-    const x22 = x1 + Math.cos(ang) * len, y22 = y1 - Math.sin(ang) * len;
-    const cx = x1 + Math.cos(ang + 0.35) * len * 0.5, cy = y1 - Math.sin(ang + 0.35) * len * 0.5;
-    c2 += `<path d='M${x1.toFixed(0)} ${y1.toFixed(0)} Q ${cx.toFixed(0)} ${cy.toFixed(0)} ${x22.toFixed(0)} ${y22.toFixed(0)}' stroke='${color}' stroke-width='${w.toFixed(1)}' stroke-linecap='round' fill='none'/>`;
-    if (depth <= 0) {
-      c2 += `<circle cx='${x22.toFixed(0)}' cy='${y22.toFixed(0)}' r='${(18 + rnd() * 16).toFixed(0)}' fill='${color}' opacity='0.92'/>`;
-      return;
-    }
-    const n = 2 + (rnd() > 0.6 ? 1 : 0);
+  const root = (x1, y1, ang, len, w, depth) => {
+    const x22 = x1 + Math.cos(ang) * len, y22 = y1 + Math.sin(ang) * len;
+    const cx = x1 + Math.cos(ang - 0.3) * len * 0.5, cy = y1 + Math.sin(ang - 0.3) * len * 0.5;
+    const d = `M${x1.toFixed(0)} ${y1.toFixed(0)} Q ${cx.toFixed(0)} ${cy.toFixed(0)} ${x22.toFixed(0)} ${y22.toFixed(0)}`;
+    c2 += `<path d='${d}' stroke='${color}' stroke-width='${w.toFixed(1)}' stroke-linecap='round' fill='none'/>`;
+    c2 += `<path d='${d}' stroke='${light}' stroke-width='${(w * 0.28).toFixed(1)}' stroke-linecap='round' fill='none' opacity='0.5'/>`;
+    if (depth <= 0 || w < 1.2) return;
+    const n = 2 + (rnd() > 0.55 ? 1 : 0);
     for (let i = 0; i < n; i++) {
-      const spread = (i / (n - 1 || 1) - 0.5) * 1.3 + (rnd() - 0.5) * 0.4;
-      limb(x22, y22, ang + spread, len * (0.62 + rnd() * 0.16), w * 0.62, depth - 1);
+      const spread = (i / (n - 1 || 1) - 0.5) * 1.5 + (rnd() - 0.5) * 0.5;
+      root(x22, y22, ang + spread, len * (0.6 + rnd() * 0.2), w * 0.6, depth - 1);
     }
   };
-  c2 += `<path d='M${x3 - 16} ${ground + 4} Q ${x3 - 10} ${ground - 40} ${x3 - 6} ${ground - 70} L ${x3 + 6} ${ground - 70} Q ${x3 + 10} ${ground - 40} ${x3 + 16} ${ground + 4} Z' fill='${color}'/>`;
-  limb(x3, ground - 68, Math.PI / 2, 42, 11, 3);
-  limb(x3, ground - 60, Math.PI / 2 - 0.55, 38, 8, 2);
-  limb(x3, ground - 60, Math.PI / 2 + 0.55, 38, 8, 2);
+  c2 += `<path d='M${x3 - 26} 0 Q ${x3} 14 ${x3 + 26} 0 L ${x3 + 18} 22 Q ${x3} 34 ${x3 - 18} 22 Z' fill='${color}'/>`;
+  root(x3, 16, Math.PI / 2, 46, 13, 4);
+  root(x3 - 6, 14, Math.PI / 2 + 0.75, 60, 10, 3);
+  root(x3 + 6, 14, Math.PI / 2 - 0.75, 60, 10, 3);
+  root(x3 - 12, 10, Math.PI / 2 + 1.25, 70, 7, 3);
+  root(x3 + 12, 10, Math.PI / 2 - 1.25, 70, 7, 3);
   return svgUrl(900, 200, c2);
 }
 function hills(color, amp, phase, crest) {
@@ -19607,15 +19608,28 @@ var SceneManager = class {
         p.style.opacity = `${0.1 + rnd() * 0.14}`;
       });
     }
-    if (id === "orchard") {
-      this.bg(el, 2, seededStars(31, 70, 1200, 700, 0.5, 1.3, "#fff2d8"));
-      this.bg(el, 3, hills("#2a1a2e", 26, 62));
-      this.bg(el, 4, oak(17, "#1b1020", 620, 200));
-      this.bg(el, 5, hills("#160c1a", 34, 18));
-      particles(el, "sg-firefly", 7, 137, (rnd, p) => {
-        p.style.left = `${5 + rnd() * 90}%`;
-        p.style.top = `${35 + rnd() * 55}%`;
-        p.style.animationDuration = `${7 + rnd() * 8}s, ${3 + rnd() * 3}s`;
+    if (id === "grove") {
+      this.bg(el, 3, canopy(19, "#05140d"));
+      this.bg(el, 4, canopy(53, "#030d08"));
+      this.bg(el, 5, hills("#1a110a", 18, 8));
+      this.bg(el, 6, roots(29, "#2a1a0f", "#3d2917"));
+      particles(el, "sg-dapple", 6, 71, (rnd, p) => {
+        p.style.left = `${rnd() * 90}%`;
+        p.style.top = `${rnd() * 60}%`;
+        p.style.width = p.style.height = `${110 + rnd() * 180}px`;
+        p.style.animationDuration = `${14 + rnd() * 14}s`;
+        p.style.animationDelay = `${-rnd() * 18}s`;
+      });
+      particles(el, "sg-leaf", 9, 113, (rnd, p) => {
+        p.style.left = `${rnd() * 94}%`;
+        p.style.animationDuration = `${16 + rnd() * 12}s, ${4 + rnd() * 3}s`;
+        p.style.animationDelay = `${-rnd() * 24}s, ${-rnd() * 4}s`;
+        p.style.transform = `scale(${0.8 + rnd() * 0.7}) rotate(${(rnd() * 80).toFixed(0)}deg)`;
+      });
+      particles(el, "sg-firefly", 5, 131, (rnd, p) => {
+        p.style.left = `${8 + rnd() * 84}%`;
+        p.style.top = `${40 + rnd() * 45}%`;
+        p.style.animationDuration = `${8 + rnd() * 8}s, ${3 + rnd() * 3}s`;
         p.style.animationDelay = `${-rnd() * 10}s, ${-rnd() * 3}s`;
       });
     }

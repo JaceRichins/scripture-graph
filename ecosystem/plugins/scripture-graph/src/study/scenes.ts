@@ -27,7 +27,7 @@ export const SCENES: SceneDef[] = [
   { id: "desert", name: "Desert Dusk", emoji: "🏜️", hours: [], layers: 6 },
   { id: "starlight", name: "The Heavens", emoji: "🌌", hours: [[20, 24], [0, 5]], layers: 5 },
   { id: "candle", name: "Candlelight", emoji: "🕯️", hours: [], layers: 4 },
-  { id: "orchard", name: "The Orchard", emoji: "🌳", hours: [], layers: 6 },
+  { id: "grove", name: "The Grove", emoji: "🌳", hours: [], layers: 6 },
 ];
 
 const ROOT_CLS = "sg-scene";
@@ -90,6 +90,33 @@ function oak(seed: number, color: string, x = 450, ground = 200): string {
   limb(x, ground - 68, Math.PI / 2, 42, 11, 3);
   limb(x, ground - 60, Math.PI / 2 - 0.55, 38, 8, 2);
   limb(x, ground - 60, Math.PI / 2 + 0.55, 38, 8, 2);
+  return svgUrl(900, 200, c);
+}
+
+/** a root system reaching down and out from the middle of the top edge —
+ * what lies under the one at the bottom of the family tree */
+function roots(seed: number, color: string, light: string, x = 450): string {
+  const rnd = lcg(seed);
+  let c = "";
+  const root = (x1: number, y1: number, ang: number, len: number, w: number, depth: number): void => {
+    const x2 = x1 + Math.cos(ang) * len, y2 = y1 + Math.sin(ang) * len;
+    const cx = x1 + Math.cos(ang - 0.3) * len * 0.5, cy = y1 + Math.sin(ang - 0.3) * len * 0.5;
+    const d = `M${x1.toFixed(0)} ${y1.toFixed(0)} Q ${cx.toFixed(0)} ${cy.toFixed(0)} ${x2.toFixed(0)} ${y2.toFixed(0)}`;
+    c += `<path d='${d}' stroke='${color}' stroke-width='${w.toFixed(1)}' stroke-linecap='round' fill='none'/>`;
+    c += `<path d='${d}' stroke='${light}' stroke-width='${(w * 0.28).toFixed(1)}' stroke-linecap='round' fill='none' opacity='0.5'/>`;
+    if (depth <= 0 || w < 1.2) return;
+    const n = 2 + (rnd() > 0.55 ? 1 : 0);
+    for (let i = 0; i < n; i++) {
+      const spread = (i / (n - 1 || 1) - 0.5) * 1.5 + (rnd() - 0.5) * 0.5;
+      root(x2, y2, ang + spread, len * (0.6 + rnd() * 0.2), w * 0.6, depth - 1);
+    }
+  };
+  c += `<path d='M${x - 26} 0 Q ${x} 14 ${x + 26} 0 L ${x + 18} 22 Q ${x} 34 ${x - 18} 22 Z' fill='${color}'/>`;
+  root(x, 16, Math.PI / 2, 46, 13, 4);
+  root(x - 6, 14, Math.PI / 2 + 0.75, 60, 10, 3);
+  root(x + 6, 14, Math.PI / 2 - 0.75, 60, 10, 3);
+  root(x - 12, 10, Math.PI / 2 + 1.25, 70, 7, 3);
+  root(x + 12, 10, Math.PI / 2 - 1.25, 70, 7, 3);
   return svgUrl(900, 200, c);
 }
 
@@ -496,15 +523,30 @@ export class SceneManager {
         p.style.opacity = `${0.10 + rnd() * 0.14}`;
       });
     }
-    if (id === "orchard") {
-      this.bg(el, 2, seededStars(31, 70, 1200, 700, 0.5, 1.3, "#fff2d8"));
-      this.bg(el, 3, hills("#2a1a2e", 26, 62));                       // far ridge, plum
-      this.bg(el, 4, oak(17, "#1b1020", 620, 200));                    // the great tree, off to one side
-      this.bg(el, 5, hills("#160c1a", 34, 18));                        // the near meadow
-      particles(el, "sg-firefly", 7, 137, (rnd, p) => {
-        p.style.left = `${5 + rnd() * 90}%`;
-        p.style.top = `${35 + rnd() * 55}%`;
-        p.style.animationDuration = `${7 + rnd() * 8}s, ${3 + rnd() * 3}s`;
+    if (id === "grove") {
+      // the family tree's own place: light through a canopy above, roots
+      // spreading in the earth beneath the one at the bottom
+      this.bg(el, 3, canopy(19, "#05140d"));                 // canopy, far
+      this.bg(el, 4, canopy(53, "#030d08"));                 // canopy, near
+      this.bg(el, 5, hills("#1a110a", 18, 8));               // the earth
+      this.bg(el, 6, roots(29, "#2a1a0f", "#3d2917"));       // the roots in it
+      particles(el, "sg-dapple", 6, 71, (rnd, p) => {
+        p.style.left = `${rnd() * 90}%`;
+        p.style.top = `${rnd() * 60}%`;
+        p.style.width = p.style.height = `${110 + rnd() * 180}px`;
+        p.style.animationDuration = `${14 + rnd() * 14}s`;
+        p.style.animationDelay = `${-rnd() * 18}s`;
+      });
+      particles(el, "sg-leaf", 9, 113, (rnd, p) => {         // leaves letting go
+        p.style.left = `${rnd() * 94}%`;
+        p.style.animationDuration = `${16 + rnd() * 12}s, ${4 + rnd() * 3}s`;
+        p.style.animationDelay = `${-rnd() * 24}s, ${-rnd() * 4}s`;
+        p.style.transform = `scale(${0.8 + rnd() * 0.7}) rotate(${(rnd() * 80).toFixed(0)}deg)`;
+      });
+      particles(el, "sg-firefly", 5, 131, (rnd, p) => {
+        p.style.left = `${8 + rnd() * 84}%`;
+        p.style.top = `${40 + rnd() * 45}%`;
+        p.style.animationDuration = `${8 + rnd() * 8}s, ${3 + rnd() * 3}s`;
         p.style.animationDelay = `${-rnd() * 10}s, ${-rnd() * 3}s`;
       });
     }

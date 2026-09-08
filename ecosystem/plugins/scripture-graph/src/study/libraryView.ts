@@ -247,7 +247,7 @@ export class SGLibraryView extends ItemView {
     window.setTimeout(() => document.dispatchEvent(new CustomEvent("sg-dock-refresh")), 0);
     const body = c.createDiv({ cls: "sg-lp-body" });
     // the family tree grows against its own dusk; every other page keeps the reader's scene
-    this.host.scene?.(v.kind === "family" ? "orchard" : null);
+    this.host.scene?.(v.kind === "family" ? "grove" : null);
     if (v.kind === "home") this.renderHome(body);
     else if (v.kind === "scriptures") this.renderScriptures(body);
     else if (v.kind === "books") this.renderBooks(body, v.volume);
