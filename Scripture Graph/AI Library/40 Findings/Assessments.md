@@ -180,12 +180,26 @@ The compression notice, named intermediary record, self-manufactured plates, and
 
 Notes: [[Narrative Source Presentation in 3 Nephi 5]]
 
+### bom-mormon5-editorial-persona
+**Construction of Mormon's editorial persona in Mormon 5** — *strong* (supports, discrimination 0.82) for: The clustered selection, audience, preservation, divine-command, and purpose statements in Mormon 5:8-14 reflect deliberate construction of a self-conscious ancient editorial persona for Mormon, versus later literary characterization -- the same evidence class registered as bom-1nephi6-editorial-persona and bom-3nephi5-editorial-persona.
+
+Mormon 5:8-14 clusters selection/abridgment, audience, preservation, an explicit divine command, and stated purpose -- matching the fullest instances of this evidence class registered elsewhere (1 Nephi 6, 3 Nephi 5 at 0.84). This strongly supports deliberate construction of a self-conscious editorial voice in the final text, consistent with the registry's existing treatment of this class, but it gives no independent discrimination between an authentic ancient record-keeper and literary characterization, and does not establish Mormon's historicity, the plates, or the record's antiquity.
+
+Notes: [[Internal Literary Evidence in Mormon 5]]
+
 ### bom-1nephi6-editorial-persona
 **Construction of Nephi as a self-conscious editor in 1 Nephi 6** — *strong* (supports, discrimination 0.84) for: The final-form chapter deliberately constructs Nephi as a self-conscious editor who distinguishes sources, selects material, invokes a physical constraint, states a theological purpose, and directs later custodians.
 
 The clustered source, selection, space, purpose, and succession statements strongly support deliberate construction of an editorial persona, while providing no independent discrimination between an ancient record keeper and literary characterization.
 
 Notes: [[Internal Literary Evidence in 1 Nephi 6]]
+
+### bom-wordsofmormon1-editorial-bridge
+**Construction of an editorial bridge in Words of Mormon 1** — *strong* (supports, discrimination 0.75) for: Words of Mormon 1 reflects deliberate construction of a self-conscious editorial bridge joining source material to the succeeding Benjamin narrative, the same editorial-persona evidence class registered for 1 Nephi 6, 3 Nephi 5, and Mormon 5.
+
+The explicit selection, space-constraint, and succession notices in Words of Mormon 1:3-12 strongly support a deliberately constructed editorial bridge, comparable to but slightly less complete than the fullest registered instances of this class (1 Nephi 6, 3 Nephi 5, Mormon 5 at 0.82-0.84), since no explicit stated-audience element is present. The bridge is equally compatible with genuine ancient compilation, the independently documented 1828 loss of the initial manuscript that necessitated small-plates replacement material, and modern literary construction, and it establishes none of the record's date, authorship, historicity, or inspiration.
+
+Notes: [[Internal Literary Structure in Words of Mormon 1]]
 
 ### isaiah7-immanuel-contemporary-context
 **Contemporary relevance of the Immanuel oracle to Ahaz's crisis** — *strong* (supports, discrimination 0.84) for: Isaiah 7:14-16 (2 Nephi 17:14-16) presents the Immanuel sign as having meaningful chronological relevance to Ahaz's contemporary political crisis.
@@ -431,6 +445,13 @@ Notes: [[Internal Chronological Evidence in 3 Nephi 2]] · [[Internal Textual Co
 The verse emphatically portrays the event as public and individually perceived, but it remains one third-person narrative report rather than approximately 2,500 independent testimonies. Historical occurrence, amplification, communal tradition, and literary authentication all predict such a claim, so it provides only none-band support for the event's historicity.
 
 Notes: [[Internal Collective-Witness Claim in 3 Nephi 17]]
+
+### bom-mosiah3-preadvent-christology
+**Historical weight of the detailed pre-advent Christ prophecy in Mosiah 3** — *none* (supports, discrimination 0.12) for: Mosiah 3:5-10 preserves genuinely pre-Christian prophetic foreknowledge of the specific circumstances of Christ's earthly ministry, rather than details introduced through later Christianizing redaction, translation harmonization, or nineteenth-century composition.
+
+Mosiah 3:5-10 unquestionably presents a detailed, internally coherent pre-birth prophecy of Jesus -- naming Jesus and Mary and describing the crucifixion and third-day resurrection -- but without independent pre-Christian dating, that internal placement gives only none-band support for genuine pre-Christian foreknowledge, since ancient revelation, later Christianizing redaction, translation-level harmonization, and nineteenth-century composition all predict the same detailed, internally-placed prophecy about equally well. Aligns with sibling assessments bom-2nephi6-predictive-prophecy (0.12) and bom-alma39-preadvent-christology (0.12).
+
+Notes: [[Internal Literary Evidence in Mosiah 3]]
 
 ### bom-3nephi7-collective-witness-claim
 **Historical weight of the internal witness/testimony chain in 3 Nephi 7** — *none* (supports, discrimination 0.14) for: The accumulation of witness language in 3 Nephi 7 materially supports the historical occurrence and supernatural cause of the reported miracles, conversions, and healings.
@@ -697,6 +718,13 @@ Notes: [[Internal Literary Evidence in 2 Nephi 29]]
 The right-period South Arabian NHM tribal attestation is a real and interesting correlation, but it does not identify a burial locality, establish the required vocalization, or tightly constrain the route. Possible modern mediation and the missing search denominator keep it weak support for authentic ancient Arabian geography.
 
 Notes: [[Nahom and the NHM altars]] · [[Toponymic Observation in 1 Nephi 16]]
+
+### bom-mosiah27-bondage-deliverance-coherence
+**Narrative coherence between communal-bondage narratives and Alma's personal deliverance (Mosiah 27)** — *strong* (supports, discrimination 0.78) for: The angel's explicit appeal to the earlier communal-bondage narratives (Mosiah 21, 24) as the interpretive model for Alma's personal deliverance in Mosiah 27 reflects deliberate final-form narrative coherence, the same evidence class registered as bom-alma38-zoramite-narrative-coherence.
+
+The angel's explicit command in Mosiah 27:16 to remember the earlier bondage narrative, echoed (not quoted) in Alma's own bondage/deliverance vocabulary in vv.28-29, strongly supports deliberate final-form narrative coherence, modestly above the registered bom-alma38-zoramite-narrative-coherence (0.72) given the more explicit backward-pointing command. Revised down from the prior 0.86, which both exceeded the strong band's ceiling absent independent external attestation and rested partly on a composite phrase not actually present in the verses. Gives only none-band support for the historicity of either underlying event, since both reach the reader through one continuous narrative source.
+
+Notes: [[Internal Narrative Coherence in Mosiah 27]]
 
 ### bom-alma16-prophecy-fulfillment-correspondence
 **Narrative fulfillment of Alma's military prophecy in Alma 16** — *strong* (supports, discrimination 0.84) for: The final text deliberately coordinates Alma's specified interception route with the subsequently narrated route and encounter.
