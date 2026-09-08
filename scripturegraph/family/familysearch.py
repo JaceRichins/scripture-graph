@@ -168,6 +168,34 @@ def _cache_dir(ctx: Ctx) -> Path:
     return d
 
 
+def spouses_of(sid: str, pid: str) -> list[tuple[str, str]]:
+    """(id, name) of each spouse — the other lines a family wants on the shelf"""
+    d = get_json(sid, f"/platform/tree/persons/{pid}/spouses")
+    out: list[tuple[str, str]] = []
+    for p in (d or {}).get("persons", []) or []:
+        if p.get("id") and p["id"] != pid:
+            out.append((p["id"], ((p.get("display") or {}).get("name")) or p["id"]))
+    return out
+
+
+def _roots_file(ctx: Ctx) -> Path:
+    return _cache_dir(ctx) / "roots.json"
+
+
+def load_roots(ctx: Ctx) -> dict:
+    try:
+        return json.loads(_roots_file(ctx).read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+
+
+def save_root(ctx: Ctx, root: str, name: str, people: dict[str, "Person"]) -> None:
+    """remember a line: which people hang from this root, at which numbers"""
+    roots = load_roots(ctx)
+    roots[root] = {"name": name, "numbers": {pid: sorted(pr.ahnentafel) for pid, pr in people.items()}}
+    _roots_file(ctx).write_text(json.dumps(roots, ensure_ascii=False), encoding="utf-8")
+
+
 def current_person(sid: str) -> str:
     r = _raw(sid, "/platform/tree/current-person")
     if r is None:
@@ -257,7 +285,7 @@ def pull(ctx: Ctx, sid: str, people: dict[str, Person], log, refresh: bool = Fal
                 if full:
                     pr.name = full
             pr.gender = (person.get("gender") or {}).get("type", pr.gender).split("/")[-1]
-            pr.facts = [{"type": (fc.get("type") or "").split("/")[-1],
+            pr.facts = [{"type": re.sub(r"^data:,", "", (fc.get("type") or "").split("/")[-1]).strip() or "Event",
                          "date": (fc.get("date") or {}).get("original"),
                          "place": (fc.get("place") or {}).get("original"),
                          "value": fc.get("value")} for fc in person.get("facts") or []]
@@ -270,7 +298,7 @@ def pull(ctx: Ctx, sid: str, people: dict[str, Person], log, refresh: bool = Fal
                                "notes": [n.get("text", "") for n in sd.get("notes") or []]})
         pr.memories = []
         url = f"/platform/tree/persons/{pid}/memories?count=100"
-        pdir = media_root / pid
+        pdir = _originals_dir(ctx, pid)      # originals here; the vault gets phone-sized copies
         while url:
             page = get_json(sid, url)
             if not page:
@@ -334,8 +362,9 @@ def pull(ctx: Ctx, sid: str, people: dict[str, Person], log, refresh: bool = Fal
                                 mem["file"] = f"{mem['id']}.txt"
                             else:
                                 ext = _ext_for(ctype, fname)
-                                (pdir / f"{mem['id']}{ext}").write_bytes(data)
-                                mem["file"] = f"{mem['id']}{ext}"
+                                orig = pdir / f"{mem['id']}{ext}"
+                                orig.write_bytes(data)
+                                mem["file"] = publish(ctx, pid, orig) or orig.name
                             stats["downloaded"] += 1
                 if mem["kind"] == "story" and mem["file"] and mem["file"].endswith(".txt") and mem["text"] is None:
                     mem["text"] = (pdir / mem["file"]).read_text(encoding="utf-8", errors="replace")
@@ -349,41 +378,154 @@ def pull(ctx: Ctx, sid: str, people: dict[str, Person], log, refresh: bool = Fal
     return stats
 
 
+# -------------------------------------------------------------------- media
+
+MAX_EDGE = 1600
+JPEG_Q = 82
+ORIGINALS_KEEP = {".pdf", ".mp3", ".m4a", ".wav", ".txt"}
+
+
+def _originals_dir(ctx: Ctx, pid: str) -> Path:
+    d = _cache_dir(ctx) / "media" / pid
+    d.mkdir(parents=True, exist_ok=True)
+    return d
+
+
+def publish(ctx: Ctx, pid: str, original: Path) -> str | None:
+    """the vault's copy of one memory file: images shrunk to phone size as
+    JPEG, documents and sound as they are. Returns the vault filename."""
+    vdir = ctx.vault / MEDIA / pid
+    vdir.mkdir(parents=True, exist_ok=True)
+    ext = original.suffix.lower()
+    if ext in ORIGINALS_KEEP:
+        out = vdir / original.name
+        if not out.exists() or out.stat().st_size != original.stat().st_size:
+            out.write_bytes(original.read_bytes())
+        return out.name
+    try:
+        from PIL import Image, ImageOps
+        with Image.open(original) as im:
+            im = ImageOps.exif_transpose(im)
+            if im.mode not in ("RGB", "L"):
+                im = im.convert("RGB")
+            im.thumbnail((MAX_EDGE, MAX_EDGE))
+            out = vdir / f"{original.stem}.jpg"
+            im.save(out, "JPEG", quality=JPEG_Q, optimize=True, progressive=True)
+            return out.name
+    except Exception:  # noqa: BLE001 — not an image after all: keep it whole
+        out = vdir / original.name
+        if not out.exists():
+            out.write_bytes(original.read_bytes())
+        return out.name
+
+
+def shrink_media(ctx: Ctx, log) -> int:
+    """originals that landed in the vault (earlier runs) move to the cache
+    and leave a phone-sized copy behind"""
+    root = ctx.vault / MEDIA
+    if not root.exists():
+        return 0
+    n = 0
+    for pdir in root.iterdir():
+        if not pdir.is_dir():
+            continue
+        odir = _originals_dir(ctx, pdir.name)
+        for f in list(pdir.iterdir()):
+            if not f.is_file() or f.suffix.lower() in ORIGINALS_KEEP:
+                continue
+            orig = odir / f.name
+            if orig.exists():
+                continue                  # already published from the cache
+            orig.write_bytes(f.read_bytes())
+            f.unlink()
+            publish(ctx, pdir.name, orig)
+            n += 1
+    if n:
+        log.info("family.media_shrunk", files=n)
+    return n
+
+
 # -------------------------------------------------------------------- pages
 
 def _safe(name: str) -> str:
     return re.sub(r'[\\/:*?"<>|#^\[\]]+', " ", name).strip() or "Unknown"
 
 
+def _label(t: str) -> str:
+    """'data:,Baptism' and 'http://gedcomx.org/Birth' both read as their last word"""
+    return re.sub(r"^data:,", "", (t or "").split("/")[-1]).strip() or "Event"
+
+
 def _fact(pr: Person, kind: str) -> str:
     for fc in pr.facts:
-        if fc["type"] == kind:
+        if _label(fc["type"]) == kind:
             return " · ".join(x for x in [fc.get("date"), fc.get("place")] if x)
     return ""
 
 
-def build(ctx: Ctx, people: dict[str, Person], log) -> int:
+def people_from_cache(ctx: Ctx) -> tuple[dict[str, Person], dict[str, dict]]:
+    """every line pulled so far, from the cache: people (with facts, sources,
+    memories) and the roots that own them"""
+    roots = load_roots(ctx)
+    people: dict[str, Person] = {}
+    for root, info in roots.items():
+        for pid, nums in info.get("numbers", {}).items():
+            pr = people.get(pid)
+            if not pr:
+                f = _cache_dir(ctx) / f"{pid}.json"
+                if not f.exists():
+                    continue                      # not pulled yet (or living)
+                d = json.loads(f.read_text(encoding="utf-8"))
+                pr = Person(pid=pid, name=d.get("name") or pid, gender=d.get("gender", ""), living=False,
+                            facts=d.get("facts", []), sources=d.get("sources", []), memories=d.get("memories", []))
+                people[pid] = pr
+            pr.ahnentafel.update(nums)
+    # parents, within each line's numbering
+    for root, info in roots.items():
+        by_number = {n: pid for pid, nums in info.get("numbers", {}).items() for n in nums}
+        for pid, nums in info.get("numbers", {}).items():
+            pr = people.get(pid)
+            if not pr:
+                continue
+            for n in nums:
+                pr.father = pr.father or by_number.get(2 * n)
+                pr.mother = pr.mother or by_number.get(2 * n + 1)
+    return people, roots
+
+
+def _gen_label(gen: int) -> str:
+    return {1: "parents", 2: "grandparents", 3: "great-grandparents"}.get(gen, f"{gen - 2}\u00d7 great-grandparents")
+
+
+def build(ctx: Ctx, log) -> int:
+    """the shelf: one page per ancestor across every line pulled, an index by line"""
     from scripturegraph.vaultgen import md as mdkit
     from scripturegraph.vaultgen.generate import record_file
     from scripturegraph.util import now_iso
-    shown = {pid: pr for pid, pr in people.items() if not pr.living}
+    people, roots = people_from_cache(ctx)
+    shown = people
     title_of = {pid: f"{_safe(pr.name)} ({pid})" for pid, pr in shown.items()}
     children: dict[str, list[str]] = {}
     for pid, pr in shown.items():
         for parent in (pr.father, pr.mother):
-            if parent and parent in shown:
-                children.setdefault(parent, []).append(pid)
-    # where else the vault speaks of them: pages that carry the full name
+            if parent and parent in shown and pid not in children.setdefault(parent, []):
+                children[parent].append(pid)
+    # which line(s) a person belongs to, and how far up
+    lines_of: dict[str, list[tuple[str, int]]] = {}
+    for root, info in roots.items():
+        for pid, nums in info.get("numbers", {}).items():
+            if pid in shown and nums:
+                lines_of.setdefault(pid, []).append((info.get("name", root), min(n.bit_length() - 1 for n in nums)))
     mentions = _mentions(ctx, {pid: pr.name for pid, pr in shown.items()})
     n = 0
     for pid, pr in shown.items():
-        gen = min((a.bit_length() - 1) for a in pr.ahnentafel) if pr.ahnentafel else 0
         birth, death = _fact(pr, "Birth"), _fact(pr, "Death")
         lines = [f"# {pr.name}", ""]
-        meta = [x for x in [f"Born {birth}" if birth else "", f"Died {death}" if death else "",
-                            f"Generation {gen}" if gen else "You"] if x]
+        meta = [x for x in [f"Born {birth}" if birth else "", f"Died {death}" if death else ""] if x]
+        for who, gen in lines_of.get(pid, []):
+            meta.append(f"{who}'s {_gen_label(gen)}" if gen else who)
         if meta:
-            lines += [" · ".join(meta), ""]
+            lines += [" \u00b7 ".join(meta), ""]
         rel = []
         if pr.father and pr.father in title_of:
             rel.append(f"Father: [[{title_of[pr.father]}|{shown[pr.father].name}]]")
@@ -396,7 +538,7 @@ def build(ctx: Ctx, people: dict[str, Person], log) -> int:
             lines += ["## Family", *[f"- {r}" for r in rel], ""]
         events = [fc for fc in pr.facts if fc.get("date") or fc.get("place")]
         if events:
-            lines += ["## Life", *[f"- **{fc['type']}**: " + " · ".join(x for x in [fc.get('date'), fc.get('place'), fc.get('value')] if x)
+            lines += ["## Life", *[f"- **{_label(fc['type'])}**: " + " \u00b7 ".join(x for x in [fc.get('date'), fc.get('place'), fc.get('value')] if x)
                                    for fc in events], ""]
         stories = [m for m in pr.memories if m["kind"] == "story"]
         media = [m for m in pr.memories if m["kind"] != "story" and m.get("file")]
@@ -408,39 +550,51 @@ def build(ctx: Ctx, people: dict[str, Person], log) -> int:
                     lines += [m["text"].strip(), ""]
                 elif m.get("file"):
                     lines += [f"![[{MEDIA}/{pid}/{m['file']}]]", ""]
+                else:
+                    lines += [f"_Kept on FamilySearch: [open the story]({SITE}/memories/memory/{m['id']})_", ""]
         if media:
             lines += ["## Photos & documents", ""]
+            vdir = ctx.vault / MEDIA / pid
             for m in media:
                 cap = m["title"] or m["description"] or m["kind"]
-                lines += [f"![[{MEDIA}/{pid}/{m['file']}|{cap}]]", (f"_{m['description']}_" if m["description"] and m["title"] else ""), ""]
+                fname = m["file"]
+                # an original that was shrunk carries a new extension in the vault
+                if not (vdir / fname).exists() and (vdir / f"{Path(fname).stem}.jpg").exists():
+                    fname = f"{Path(fname).stem}.jpg"
+                lines += [f"![[{MEDIA}/{pid}/{fname}|{cap}]]", (f"_{m['description']}_" if m["description"] and m["title"] else ""), ""]
         if pr.sources:
             lines += ["## Sources", *[f"- [{s['title'] or 'Record'}]({s['about']})" if s.get("about") else f"- {s['title'] or 'Record'}"
                                       for s in pr.sources], ""]
         if mentions.get(pid):
             lines += ["## In the library", *[f"- [[{m}]]" for m in mentions[pid][:12]], ""]
         lines += ["", f"[FamilySearch record]({SITE}/tree/person/details/{pid})", ""]
+        gen = min((g for _, g in lines_of.get(pid, [])), default=0)
         fm = {"ownership": "ai", "mutable": "engine", "content_type": "ancestor", "sg-id": f"fs:{pid}",
               "fs_id": pid, "generation": gen, "born": birth or None, "died": death or None,
               "updated_at": now_iso(), "cssclasses": ["sg-ai"]}
         fm = {k: v for k, v in fm.items() if v is not None}
         if record_file(ctx, f"{FOLDER}/{title_of[pid]}.md", "family", "generator", None, mdkit.build_note(fm, "\n".join(lines))):
             n += 1
-    # the shelf's index: by generation
-    by_gen: dict[int, list[str]] = {}
-    for pid, pr in shown.items():
-        gen = min((a.bit_length() - 1) for a in pr.ahnentafel) if pr.ahnentafel else 0
-        by_gen.setdefault(gen, []).append(pid)
-    lines = ["# Family", "", "Our ancestors, from FamilySearch — their lives, their records, and the stories and pictures the family has kept there.", ""]
-    for gen in sorted(by_gen):
-        label = {0: "You", 1: "Parents", 2: "Grandparents", 3: "Great-grandparents"}.get(gen, f"{gen - 2}× great-grandparents")
-        lines += [f"## {label}", *[f"- [[{title_of[p]}|{shown[p].name}]]" for p in sorted(by_gen[gen], key=lambda x: min(shown[x].ahnentafel))], ""]
+    # the shelf's index: each line, by generation
+    lines = ["# Family", "", "Our ancestors, from FamilySearch \u2014 their lives, their records, and the stories and pictures the family has kept there.", ""]
+    for root, info in roots.items():
+        by_gen: dict[int, list[str]] = {}
+        for pid, nums in info.get("numbers", {}).items():
+            if pid in shown and nums:
+                by_gen.setdefault(min(n.bit_length() - 1 for n in nums), []).append(pid)
+        if not by_gen:
+            continue
+        lines += [f"## {info.get('name', root)}'s line", ""]
+        for gen in sorted(by_gen):
+            label = _gen_label(gen).capitalize() if gen else "Self"
+            lines += [f"### {label}", *[f"- [[{title_of[p]}|{shown[p].name}]]" for p in sorted(by_gen[gen], key=lambda x: min(shown[x].ahnentafel))], ""]
     record_file(ctx, f"{FOLDER}/Family.md", "family", "generator", None,
                 mdkit.build_note({"ownership": "ai", "mutable": "engine", "content_type": "index", "cssclasses": ["sg-ai"]}, "\n".join(lines)))
     try:
         ctx.db().commit()
     except Exception:  # noqa: BLE001
         pass
-    log.info("family.built", pages=n, people=len(shown))
+    log.info("family.built", pages=n, people=len(shown), lines=len(roots))
     return n
 
 
@@ -468,21 +622,35 @@ def _mentions(ctx: Ctx, names: dict[str, str]) -> dict[str, list[str]]:
 
 # --------------------------------------------------------------------- entry
 
-def run(ctx: Ctx, generations: int = 8, person: str | None = None, refresh: bool = False, log=None) -> dict:
+def run(ctx: Ctx, generations: int = 8, person: str | None = None, refresh: bool = False, log=None,
+        spouse: bool = False) -> dict:
+    """sign in if needed, walk each line, pull what is missing, build the shelf"""
     log = log or ctx.log
     sid = load_session(ctx)
     if not sid or not _probe(sid):
         log.info("family.login_needed")
         sid = login(ctx)
-    try:
-        root = person or current_person(sid)
-        people = walk(ctx, sid, root, generations, log)
-        stats = pull(ctx, sid, people, log, refresh=refresh)
-    except SessionDead:
-        log.info("family.session_expired")
-        sid = login(ctx)
-        root = person or current_person(sid)
-        people = walk(ctx, sid, root, generations, log)
-        stats = pull(ctx, sid, people, log, refresh=refresh)
-    stats["pages"] = build(ctx, people, log)
+    for attempt in range(2):
+        try:
+            me = person or current_person(sid)
+            roots: list[tuple[str, str]] = [(me, ((get_json(sid, f"/platform/tree/persons/{me}") or {}).get("persons") or [{}])[0]
+                                             .get("display", {}).get("name") or me)]
+            if spouse:
+                roots += spouses_of(sid, me)
+            stats = {"lines": 0, "people": 0, "downloaded": 0, "memories": 0, "skipped_cached": 0}
+            for root, name in roots:
+                people = walk(ctx, sid, root, generations, log)
+                save_root(ctx, root, name, people)
+                st = pull(ctx, sid, people, log, refresh=refresh)
+                for k in ("people", "downloaded", "memories", "skipped_cached"):
+                    stats[k] += st.get(k, 0)
+                stats["lines"] += 1
+            break
+        except SessionDead:
+            if attempt:
+                raise
+            log.info("family.session_expired")
+            sid = login(ctx)
+    stats["shrunk"] = shrink_media(ctx, log)
+    stats["pages"] = build(ctx, log)
     return stats

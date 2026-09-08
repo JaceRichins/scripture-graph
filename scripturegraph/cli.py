@@ -464,7 +464,7 @@ def cmd_family(args):
         fs.login(ctx)
         print("signed in — session kept")
         return 0
-    stats = fs.run(ctx, generations=args.generations, person=args.person, refresh=args.refresh)
+    stats = fs.run(ctx, generations=args.generations, person=args.person, refresh=args.refresh, spouse=args.spouse)
     print(json.dumps(stats, indent=2))
     return 0
 
@@ -677,6 +677,7 @@ def main(argv=None) -> int:
     sp.add_argument("--generations", type=int, default=8, help="how far up (default 8)")
     sp.add_argument("--person", help="root FamilySearch id (default: you)")
     sp.add_argument("--refresh", action="store_true", help="re-read people already cached")
+    sp.add_argument("--spouse", action="store_true", help="also your spouse's line(s), from the same sign-in")
     sp.set_defaults(fn=cmd_family)
 
     sp = sub.add_parser("translations", help="fetch public-domain Bible translations (WEB/ASV/YLT)")
