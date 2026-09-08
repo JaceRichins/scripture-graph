@@ -287,19 +287,41 @@ def pull(ctx: Ctx, sid: str, people: dict[str, Person], log, refresh: bool = Fal
                 stats["memories"] += 1
                 pdir.mkdir(parents=True, exist_ok=True)
                 # bytes: the image link for photos/documents, the artifact for the rest
-                href = (links.get("image") or {}).get("href") or (links.get("memory-artifact") or {}).get("href") \
-                    or (links.get("artifact") or {}).get("href") or sd.get("about")
-                if href:
+                # the links point at the API host, which answers a website
+                # session with 405; the same paths on the site itself do serve
+                # the bytes — so every candidate is tried on both hosts
+                hrefs: list[str] = []
+                for rel in ("image", "memory-artifact", "artifact", "image-thumbnail"):
+                    h = (links.get(rel) or {}).get("href")
+                    if h and h not in hrefs:
+                        hrefs.append(h)
+                if sd.get("about") and sd["about"] not in hrefs:
+                    hrefs.append(sd["about"])
+                candidates: list[str] = []
+                for h in hrefs:
+                    for host in (SITE, None):
+                        u = re.sub(r"^https?://[^/]+", host, h) if host else h
+                        if u not in candidates:
+                            candidates.append(u)
+                if candidates:
                     existing = next(pdir.glob(f"{mem['id']}.*"), None)
                     if existing and not refresh:
                         mem["file"] = existing.name
                     else:
-                        try:
-                            got = get_bytes(sid, href, accept="*/*")
-                        except SessionDead:
-                            raise
-                        except Exception as e:  # noqa: BLE001
-                            log.warn("family.media_failed", pid=pid, mem=mem["id"], error=str(e)[:120]); got = None
+                        got = None
+                        errs: list[str] = []
+                        for u in candidates:
+                            try:
+                                got = get_bytes(sid, u, accept="*/*")
+                            except SessionDead:
+                                raise
+                            except Exception as e:  # noqa: BLE001
+                                errs.append(str(e)[:60]); got = None
+                            if got and got[0]:
+                                break
+                            got = None
+                        if not got:
+                            log.warn("family.media_failed", pid=pid, mem=mem["id"], error=" | ".join(errs)[:160] or "empty")
                         if got:
                             data, ctype = got
                             if ctype.startswith("text/") or mem["kind"] == "story":
