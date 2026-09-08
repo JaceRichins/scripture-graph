@@ -49,6 +49,10 @@ export const SECTIONS: SyncSection[] = [
   { key: "timeline", label: "Timeline pages", prefixes: ["AI Library/90 Timeline/"] },
 ];
 
+/** engine-side data a phone never reads: the raw Church music catalog the
+ * laptop uses to resolve links (1.3 MB); the plugin reads Hymns.md/Music.md */
+const NEVER_ON_PHONES = ["AI Library/00 System/Church Music.md"];
+
 /** is this section on for the device: its switch, else its default */
 export function sectionOn(sec: SyncSection, prefs: SyncPrefs): boolean {
   return !!sec.always || (prefs.sections[sec.key] ?? sec.defaultOn ?? true);
@@ -63,7 +67,7 @@ export interface SyncPrefs {
 export const DEFAULT_SYNC: SyncPrefs = { enabled: true, sections: {}, intervalMin: 30, pins: [] };
 
 /** bumped when the rules above change shape: the next run re-decides every file */
-const RULES = 2;
+const RULES = 3;
 const RULES_KEY = "vaultsync:rules";
 const MANIFEST_KEY = "vaultsync:manifest";
 
@@ -259,6 +263,7 @@ export class VaultSync {
 
   private wanted(path: string, prefs: SyncPrefs): boolean {
     for (const pin of prefs.pins) if (path === pin || path.startsWith(pin)) return true;
+    if (NEVER_ON_PHONES.includes(path)) return false;
     for (const sec of SECTIONS) {
       if (sec.prefixes.some(pre => path.startsWith(pre))) return sectionOn(sec, prefs);
     }
