@@ -107,7 +107,7 @@ Verse 4's detail that Alma "did write all the words which Abinadi had spoken" is
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Transmission
 > Within the narrative, Alma's written record supplies an explicit transmission mechanism by which Abinadi's teachings could be preserved after his death. Because this mechanism is reported by the same narrative whose transmission it helps explain, it is internal evidence rather than independent corroboration.
-> — strength 0.6 · confidence 0.9 · well-hedged; internal not external evidence · [[Internal Textual Transmission in Mosiah 17|full dossier]]
+> — confidence 0.9 · well-hedged; internal not external evidence · [[Internal Textual Transmission in Mosiah 17|full dossier]]
 
 > [!evidence] Behavior Under Lethal Coercion
 > As narrated, Abinadi's refusal to recant under threat and execution strongly supports the sincerity of his commitment to his message. Sincerity is distinct from the truth of the message.

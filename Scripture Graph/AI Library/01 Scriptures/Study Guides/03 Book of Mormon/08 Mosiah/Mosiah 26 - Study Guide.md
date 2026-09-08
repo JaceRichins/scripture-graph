@@ -121,7 +121,7 @@ Several phrases in this discourse are recognizable from the Gospel of Matthew: '
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Evidence
 > Within the narrative, Alma writes the revealed instructions down and subsequently judges according to them. This is strong internal evidence that the chapter portrays written revelation as a continuing standard for church administration.
-> — strength 0.9 · confidence 0.9 · strongly affirmed, best-constructed evidentiary claim in either proposal · [[Internal Narrative Evidence in Mosiah 26|full dossier]]
+> — confidence 0.9 · strongly affirmed, best-constructed evidentiary claim in either proposal · [[Internal Narrative Evidence in Mosiah 26|full dossier]]
 
 > [!evidence] Textual/Phraseological Parallel *(tentative)*
 > Mosiah 26:27's closing phrase 'everlasting fire prepared for the devil and his angels' is a near word-for-word match of Matthew 25:41's 'everlasting fire, prepared for the devil and his angels' (a verified text-overlap in the index data), even though the Nephite discourse is set roughly a century before Matthew's Gospel would be spoken or written.

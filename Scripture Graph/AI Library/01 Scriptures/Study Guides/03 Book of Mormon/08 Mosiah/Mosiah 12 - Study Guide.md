@@ -124,7 +124,7 @@ The opening of the Decalogue supplies another contrast. God identifies himself a
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Fulfillment
 > Later portions of Mosiah narratively correspond to two prominent warnings in this chapter: Noah is put to death by fire, and his people are subjected to heavy burdens. Mosiah 21 explicitly presents the oppression as fulfillment of the Lord's word. These are strong internal narrative correspondences.
-> — strength 0.7 · confidence 1.0 · internal correspondence accepted; external significance limited · [[Internal Narrative Fulfillment in Mosiah 12|full dossier]]
+> — strength 0.8 · confidence 1.0 · internal correspondence accepted; external significance limited · [[Internal Narrative Fulfillment in Mosiah 12|full dossier]]
 
 > [!evidence] Textual Intertextuality
 > Mosiah 12:21–24 reproduces Isaiah 52:7–10 in closely corresponding sequence and wording. This is strong evidence of a deliberate textual relationship and makes Isaiah's proclamation of peace, Zion's restoration, and God's salvation central to the ensuing dispute.

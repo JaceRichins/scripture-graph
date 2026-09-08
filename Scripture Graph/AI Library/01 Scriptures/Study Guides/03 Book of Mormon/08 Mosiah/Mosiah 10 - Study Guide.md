@@ -102,7 +102,7 @@ Verses 12–18 form an explanatory digression inside the battle narrative. They 
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Evidence
 > As internal narrative evidence, Mosiah 10 strongly supports the narrow conclusion that this account represents inherited grievance, parental teaching, and royal persuasion as mechanisms by which group conflict is perpetuated and mobilized.
-> — strength 0.8 · confidence 0.9 · well-hedged internal-narrative evidence · [[Internal Narrative Evidence in Mosiah 10|full dossier]]
+> — strength 0.8 · confidence 0.8 · well-hedged internal-narrative evidence · [[Internal Narrative Evidence in Mosiah 10|full dossier]]
 
 > [!evidence] Textual/Material-Culture Anachronism Debate *(tentative)*
 > The word 'cimeter' (a curved sword/scimitar) in this martial description is sometimes cited in Book of Mormon studies debates over ancient American weaponry, since curved metal swords are historically associated with the Old World (particularly post-classical Near Eastern/Islamic contexts) rather than pre-Columbian Mesoamerica.

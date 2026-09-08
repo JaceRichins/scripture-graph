@@ -121,7 +121,7 @@ The exclusive-saving-name statement in verse 8 closely recalls [[Mosiah 3]], esp
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Verbal And Thematic Parallel
 > Mosiah 5:8 closely reprises the exclusive-saving-name teaching of Mosiah 3:17. This strongly supports reading the covenant scene as a response to and continuation of Benjamin's preceding sermon, although it does not identify the history of composition.
-> — strength 0.9 · confidence 0.9 · broadly accepted · [[Internal Verbal And Thematic Parallel in Mosiah 5|full dossier]]
+> — confidence 0.9 · broadly accepted · [[Internal Verbal And Thematic Parallel in Mosiah 5|full dossier]]
 
 > [!evidence] Language/Style Parallel (Kjv Phraseology) *(tentative)*
 > The closing phrase 'steadfast and immovable, always abounding in good works' (Mosiah 5:15) closely parallels the King James wording of Paul's exhortation to be 'stedfast, unmoveable, always abounding in the work of the Lord.' This is a genuine stylistic/language observation about the text's English phrasing, not a claim about the underlying ancient record.

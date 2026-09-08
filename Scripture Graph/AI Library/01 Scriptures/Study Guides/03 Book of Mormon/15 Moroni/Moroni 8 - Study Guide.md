@@ -138,7 +138,7 @@ Verses 25–26 form a cumulative chain in which one spiritual result leads to an
 
 > [!evidence] Internal Textual Claim About Ancient Practice
 > The chapter asserts, as an internal historical claim, that a real doctrinal dispute over infant baptism existed among Mormon's people; this is an in-text assertion only and is not independently corroborated by any external record of ancient American religious practice.
-> — strength 0.2 · confidence 0.9 · internal narrative claim accepted; historicity uncorroborated · [[Internal Textual Claim About Ancient Practice in Moroni 8|full dossier]]
+> — strength 0.1 · confidence 1.0 · internal narrative claim accepted; historicity uncorroborated · [[Internal Textual Claim About Ancient Practice in Moroni 8|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

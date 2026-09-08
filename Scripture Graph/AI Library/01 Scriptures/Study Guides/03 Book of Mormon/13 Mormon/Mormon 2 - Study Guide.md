@@ -113,7 +113,7 @@ The narrative repeatedly frustrates an expected equation between outward improve
 
 > [!evidence] Intratextual Narrative Continuity
 > Mormon 2:10 explicitly interprets the inability to retain possessions as fulfillment of Samuel's warning in Helaman 13 that, because of iniquity, riches would become insecure or lost. This is strong evidence for deliberate narrative continuity between the Samuel account and Mormon's history.
-> — strength 0.9 · confidence 1.0 · strong internal textual evidence · [[Intratextual Narrative Continuity in Mormon 2|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong internal textual evidence · [[Intratextual Narrative Continuity in Mormon 2|full dossier]]
 
 > [!evidence] Internal Textual Consistency *(tentative)*
 > The 'narrow passage which led into the land southward' (Mormon 2:29) uses a chokepoint concept consistent with the 'narrow neck of land' and 'narrow pass' described elsewhere in the Book of Mormon's geography (e.g., Alma 22:32; Alma 50:34), supporting a degree of internal geographic consistency across the text.

@@ -129,7 +129,7 @@ A second progression runs from inner life to widening circles of conduct: rememb
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Textual Coherence
 > The explicit connection between retaining remission from day to day and relieving the poor is strong internal textual evidence that material and spiritual care for those in need is integral to Benjamin's account of persevering discipleship, not a detached social appendix.
-> — strength 0.8 · confidence 0.9 · Textual integration accepted; precise causal model unresolved · [[Internal Textual Coherence in Mosiah 4|full dossier]]
+> — confidence 0.9 · Textual integration accepted; precise causal model unresolved · [[Internal Textual Coherence in Mosiah 4|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

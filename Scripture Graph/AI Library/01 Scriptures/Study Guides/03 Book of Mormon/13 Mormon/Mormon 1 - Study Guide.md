@@ -120,7 +120,7 @@ A striking contrast governs the chapter. The public world moves from buildings, 
 
 > [!evidence] Internal Narrative Continuity
 > The agreement among Ammaron's earlier concealment of the records, his detailed instructions here, and Mormon's later retrievals is strong evidence of deliberate narrative and editorial continuity across these chapters.
-> — strength 0.8 · confidence 1.0 · affirmed with alternatives fully preserved · [[Internal Narrative Continuity in Mormon 1|full dossier]]
+> — confidence 1.0 · affirmed with alternatives fully preserved · [[Internal Narrative Continuity in Mormon 1|full dossier]]
 
 > [!evidence] Internal Textual Definition *(tentative)*
 > This explicit definitional collapse (v8-9) is internal textual support for reading 'Nephite'/'Lamanite' in the book's later chapters as political or coalition labels rather than strict lineage terms.

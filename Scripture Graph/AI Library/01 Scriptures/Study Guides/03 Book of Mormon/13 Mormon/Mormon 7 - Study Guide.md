@@ -127,7 +127,7 @@ The two-record teaching can profitably be compared with [[2 Nephi 29]], where re
 <!-- SG:BEGIN evidence -->
 > [!evidence] Intertextual Resonance
 > Mormon 7:5 combines the biblical images of death being swallowed up and death's sting with victory over the grave. The correspondence strongly supports deliberate participation, at least in the English wording, in the scriptural language found in Isaiah 25:8 and 1 Corinthians 15:54-57. It does not determine the historical direction or mechanism of that relationship.
-> — strength 0.9 · confidence 1.0 · Strong verbal observation; historical explanation disputed · [[Intertextual Resonance in Mormon 7|full dossier]]
+> — strength 0.8 · confidence 1.0 · Strong verbal observation; historical explanation disputed · [[Intertextual Resonance in Mormon 7|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

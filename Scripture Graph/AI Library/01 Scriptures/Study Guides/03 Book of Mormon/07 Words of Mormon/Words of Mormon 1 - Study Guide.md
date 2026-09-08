@@ -110,7 +110,7 @@ The wording in verses 13–14 juxtaposes Benjamin's own strength with the streng
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Statement Of Editorial Motivation
 > The text supports the limited claim that Mormon believed a divine purpose guided his inclusion of the plates. Because the chapter never specifies the later circumstance that would constitute that purpose, it does not by itself identify a particular historical fulfillment.
-> — strength 0.8 · confidence 0.9 · best-calibrated claim in the set · [[Internal Statement Of Editorial Motivation in Words of Mormon 1|full dossier]]
+> — confidence 0.9 · best-calibrated claim in the set · [[Internal Statement Of Editorial Motivation in Words of Mormon 1|full dossier]]
 
 > [!evidence] Internal Literary Structure
 > The chapter explicitly explains the joining of records and then resumes the historical narrative with King Benjamin. This strongly supports reading the chapter as a deliberate literary bridge between the account ending with Amaleki and the succeeding Benjamin narrative.

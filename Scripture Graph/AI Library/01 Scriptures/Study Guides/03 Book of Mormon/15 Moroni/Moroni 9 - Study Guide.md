@@ -126,11 +126,11 @@ The comparison to the Jaredites in v. 23 makes [[Ether 15]] an explicit interpre
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal-Textual-Honesty
 > The chapter's explicit claim that Nephite wartime atrocities "exceed" those of the Lamanites (v.9), and that Nephite "wickedness doth exceed that of the Lamanites" (v.20), shows the Book of Mormon narrator willing to depict his own covenant people as morally worse than their traditional enemies rather than presenting a one-sided, self-flattering account.
-> — strength 0.8 · confidence 0.9 · accepted observation / disputed interpretation · [[Internal-Textual-Honesty in Moroni 9|full dossier]]
+> — confidence 0.9 · accepted observation / disputed interpretation · [[Internal-Textual-Honesty in Moroni 9|full dossier]]
 
 > [!evidence] Internal Narrative Evidence
 > Within the chapter's own portrayal, the parenthetical recollection that the people had been civil and delightsome only a few years earlier supports a reading of rapid social and moral disintegration.
-> — strength 0.7 · confidence 1.0 · accepted observation / disputed interpretation · [[Internal Narrative Evidence in Moroni 9|full dossier]]
+> — strength 0.7 · confidence 0.8 · accepted observation / disputed interpretation · [[Internal Narrative Evidence in Moroni 9|full dossier]]
 
 > [!evidence] Explicit Intertextual Comparison
 > The Jaredite comparison is strong internal evidence that the Book of Mormon's final Nephite conflict is deliberately interpreted through an earlier destruction narrative.

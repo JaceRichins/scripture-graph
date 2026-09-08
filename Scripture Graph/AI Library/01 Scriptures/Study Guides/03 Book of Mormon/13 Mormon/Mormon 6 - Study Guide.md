@@ -111,7 +111,7 @@ The detailed roll of “ten thousand” groups has the character of a casualty r
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Evidence
 > The account adopts a strongly situated survivor perspective: Mormon reports being wounded and passed over, names Moroni among the twenty-four survivors, and describes viewing the dead from Cumorah on the following day. This is strong evidence for deliberate eyewitness-style narration but only weak evidence by itself for the account's external historicity.
-> — strength 0.2 · confidence 1.0 · narrative posture secure; historicity significance weak · [[Internal Narrative Evidence in Mormon 6|full dossier]]
+> — strength 0.7 · confidence 0.9 · narrative posture secure; historicity significance weak · [[Internal Narrative Evidence in Mormon 6|full dossier]]
 
 > [!evidence] Numerical And Military Terminology
 > The repeated expression 'ten thousand' supports the conclusion that the text portrays casualties on an enormous scale. It is less certain whether every occurrence is intended as an exact headcount, a rounded number, or the designation of a military body.

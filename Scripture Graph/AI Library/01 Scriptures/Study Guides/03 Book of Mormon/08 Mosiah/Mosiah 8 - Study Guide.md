@@ -104,7 +104,7 @@ The failed expedition reverses expectations: a journey meant to find living alli
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Continuity
 > Mosiah 8 raises the question of the identity and destruction of the people represented by the twenty-four plates; Mosiah 28 later reports their translation, and Ether 1 identifies its account with the twenty-four plates found by Limhi's people. This is strong evidence of internal narrative integration across the present Book of Mormon text.
-> — strength 0.8 · confidence 0.8 · well-established internal continuity, alternatives disclosed · [[Internal Narrative Continuity in Mosiah 8|full dossier]]
+> — confidence 0.8 · well-established internal continuity, alternatives disclosed · [[Internal Narrative Continuity in Mosiah 8|full dossier]]
 
 > [!evidence] Internal-Textual/Material-Culture Detail *(tentative)*
 > The recovered relics -- breastplates 'of brass and of copper' and swords with corroded metal blades but perished (organic) hilts -- describe a civilization with worked-metal armor and weaponry. This detail is sometimes cited in apologetic literature as consistent with an ancient, technologically developed setting rather than an invented tale.
