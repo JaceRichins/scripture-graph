@@ -109,10 +109,10 @@ General conference teaching uses different moments in David's life without flatt
 - **1010 BC–970 BC** — David's forty-year reign, Hebron then Jerusalem · [[1 Chronicles 3]] · [[1100-1001 BC]] *(traditional dating)*
 - **1010 BC–1003 BC** — David's reign as king of Judah at Hebron · [[2 Samuel 2]] · [[1100-1001 BC]] *(traditional dating)*
 - **1010 BC–1002 BC** — David's reign over Judah in Hebron, before uniting the kingdom · [[2 Samuel 3]] · [[1100-1001 BC]] *(traditional dating)*
+- **1010 BC–970 BC** — Traditional Davidic authorship of Psalm 139 · [[Psalm 139]] · [[1100-1001 BC]] *(traditional dating)*
 - **1010 BC–970 BC** — Psalm 4 traditionally ascribed to David · [[Psalm 4]] · [[1100-1001 BC]] *(traditional dating)*
 - **1010 BC–970 BC** — Psalm 68 attributed to David in chapter heading · [[Psalm 68]] · [[1100-1001 BC]] *(traditional dating)*
 - **1010 BC–970 BC** — Traditional Davidic authorship of Psalm 69 · [[Psalm 69]] · [[1100-1001 BC]] *(traditional dating)*
-- **1003 BC–1000 BC** — Ark brought to Jerusalem; Levitical worship organized · [[1 Chronicles 16]] · [[1100-1001 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

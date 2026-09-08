@@ -49,6 +49,7 @@ _Not yet developed._
 - **AD 54–AD 62** — Paul writes Philippians from imprisonment · [[Philippians 2]] · [[AD 1-100]] *(traditional dating)*
 - **AD 56–AD 58** — Paul's farewell to the Ephesian elders at Miletus · [[Acts 20]] · [[AD 1-100]] *(approximate)*
 - **AD 60–AD 62** — Paul writes his epistle to the church at Colosse · [[Colossians 1]] · [[AD 1-100]] *(traditional dating)*
+- **AD 60–AD 62** — Paul writes Philippians during imprisonment · [[Philippians 1]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

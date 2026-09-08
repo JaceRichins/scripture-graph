@@ -13333,6 +13333,27 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-6-ea4a73d9",
+   "t": "Jeremiah's northern-invader oracles precede Jerusalem's fall",
+   "y0": -609,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "prophets"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Jeremiah 6 does not date-stamp itself or name the invading nation; the range reflects Jeremiah's broader documented ministry warning of an unnamed northern power prior to Jerusalem's fall in 586 BC.",
+   "chapters": [
+    "Jeremiah 6"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-jer-7-c6d3e909",
    "t": "Jeremiah's temple-gate sermon (Jeremiah 7 / parallel to Jer. 26)",
    "y0": -609,
@@ -15805,6 +15826,30 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-philip-1-27a145c1",
+   "t": "Paul writes Philippians during imprisonment",
+   "y0": 60,
+   "y1": 62,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional dating places composition during Paul's Roman imprisonment (cf. Acts 28); some scholars instead argue for an earlier imprisonment, possibly at Ephesus (c. AD 53-55), based on travel logistics implied by the letter.",
+   "chapters": [
+    "Philippians 1"
+   ],
+   "people": [
+    "Paul (apostle)",
+    "Timothy (companion of Paul)"
+   ],
+   "places": [
+    "Philippi"
+   ]
+  },
+  {
    "id": "r-philip-2-109db17a",
    "t": "Paul writes Philippians from imprisonment",
    "y0": 54,
@@ -16070,6 +16115,26 @@ timeline module, not this file._
    "places": [
     "Egypt",
     "Canaan"
+   ]
+  },
+  {
+   "id": "r-ps-139-299a2563",
+   "t": "Traditional Davidic authorship of Psalm 139",
+   "y0": -1010,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Attributed to David by the chapter heading and long tradition; modern scholarship disputes authorship and date, with some proposing a later post-exilic composition on linguistic grounds.",
+   "chapters": [
+    "Psalm 139"
+   ],
+   "people": [
+    "David"
    ]
   },
   {
