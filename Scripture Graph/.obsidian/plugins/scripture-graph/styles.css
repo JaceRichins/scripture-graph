@@ -53,43 +53,47 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
   background: color-mix(in srgb, var(--background-secondary) 80%, var(--interactive-accent)); box-shadow: none;
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
 
-/* ---- the family tree: focus at the left, ancestors fanning right ---- */
-.sg-ft-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 10px; }
+/* ---- the family tree: one pedigree chart, pan and pinch, arrows open more ---- */
+.sg-ft-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 8px; }
 .sg-ft-roots { display: flex; gap: 6px; }
 .sg-ft-rootchip { font-size: 0.8em; font-weight: 600; padding: 5px 11px; border-radius: 999px; box-shadow: none;
   background: var(--background-secondary); border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
 .sg-ft-rootchip-on { background: var(--interactive-accent); color: var(--text-on-accent); border-color: transparent; }
-.sg-ft-back, .sg-ft-list { font-size: 0.8em; font-weight: 600; padding: 5px 11px; border-radius: 999px; box-shadow: none;
+.sg-ft-zoom { display: flex; gap: 4px; margin-left: auto; }
+.sg-ft-zoom button { width: 34px; height: 34px; padding: 0; border-radius: 10px; box-shadow: none; font-size: 1.05em;
+  background: var(--background-secondary); border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
+.sg-ft-list { font-size: 0.8em; font-weight: 600; padding: 5px 11px; border-radius: 999px; box-shadow: none;
   background: transparent; border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); color: var(--text-muted); }
-.sg-ft-list { margin-left: auto; }
-.sg-ft-scroll { overflow-x: auto; overflow-y: hidden; padding: 6px 2px 14px; -webkit-overflow-scrolling: touch; }
-.sg-ft-node { display: flex; align-items: center; }
-.sg-ft-parents { display: flex; flex-direction: column; gap: 10px; margin-left: 18px; padding-left: 14px; position: relative; }
-.sg-ft-parents::before { content: ""; position: absolute; left: 0; top: 50%; width: 14px; height: 1px;
-  background: color-mix(in srgb, var(--text-faint) 60%, transparent); }
-.sg-ft-parents > .sg-ft-node { position: relative; }
-.sg-ft-parents > .sg-ft-node::before { content: ""; position: absolute; left: -14px; width: 14px; height: 1px; top: 50%;
-  background: color-mix(in srgb, var(--text-faint) 60%, transparent); }
-.sg-ft-parents::after { content: ""; position: absolute; left: 0; top: 25%; bottom: 25%; width: 1px;
-  background: color-mix(in srgb, var(--text-faint) 60%, transparent); }
-.sg-ft-card { display: flex; align-items: center; gap: 9px; width: 168px; flex: none; padding: 7px 9px; border-radius: 12px;
-  background: color-mix(in srgb, var(--background-secondary) 80%, transparent);
-  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 55%, transparent); }
-.sg-ft-open { cursor: pointer; }
-.sg-ft-open:active { transform: scale(0.98); }
+.sg-ft-canvas { position: relative; height: calc(100vh - 250px); min-height: 380px; overflow: hidden; border-radius: 16px;
+  touch-action: none; cursor: grab; user-select: none; -webkit-user-select: none;
+  background: color-mix(in srgb, var(--background-secondary) 45%, transparent);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 45%, transparent); }
+.sg-ft-canvas:active { cursor: grabbing; }
+.sg-ft-layer { position: absolute; left: 0; top: 0; transform-origin: 0 0; will-change: transform; }
+.sg-ft-lines { position: absolute; left: 0; top: 0; overflow: visible; pointer-events: none; }
+.sg-ft-lines path { fill: none; stroke: color-mix(in srgb, var(--text-faint) 70%, transparent); stroke-width: 1.5; }
+.sg-ft-card { position: absolute; left: 0; top: 0; display: flex; align-items: center; gap: 8px; padding: 6px 30px 6px 8px;
+  box-sizing: border-box; border-radius: 12px;
+  background: color-mix(in srgb, var(--background-primary) 92%, var(--interactive-accent));
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.18); }
 .sg-ft-focus { border-color: var(--interactive-accent); box-shadow: 0 0 0 2px color-mix(in srgb, var(--interactive-accent) 35%, transparent); }
-.sg-ft-living { opacity: 0.75; }
-.sg-ft-pic { position: relative; flex: none; width: 42px; height: 42px; border-radius: 50%; overflow: hidden;
-  display: grid; place-items: center; font-weight: 800; font-size: 0.85em; color: var(--text-muted);
+.sg-ft-living { opacity: 0.78; }
+.sg-ft-pic { position: relative; flex: none; width: 40px; height: 40px; border-radius: 50%; overflow: hidden;
+  display: grid; place-items: center; font-weight: 800; font-size: 0.8em; color: var(--text-muted);
   background: color-mix(in srgb, var(--interactive-accent) 18%, var(--background-primary)); }
 .sg-ft-pic img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.25s; }
 .sg-ft-haspic img { opacity: 1; }
-.sg-ft-txt { min-width: 0; }
-.sg-ft-name { font-weight: 700; font-size: 0.86em; line-height: 1.2; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
-.sg-ft-years { font-size: 0.72em; color: var(--text-muted); margin-top: 2px; }
-.sg-ft-more { flex: none; width: 30px; height: 30px; margin-left: 10px; border-radius: 50%; padding: 0; box-shadow: none;
-  background: var(--background-secondary); border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent);
-  color: var(--text-muted); font-size: 1.1em; }
+.sg-ft-txt { min-width: 0; flex: 1 1 auto; }
+.sg-ft-open { cursor: pointer; }
+.sg-ft-name { font-weight: 700; font-size: 0.82em; line-height: 1.15; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.sg-ft-years { font-size: 0.7em; color: var(--text-muted); margin-top: 2px; }
+.sg-ft-arrow { position: absolute; right: 4px; top: 50%; transform: translateY(-50%); width: 24px; height: 24px; padding: 0;
+  border-radius: 50%; box-shadow: none; font-size: 1em; line-height: 1; cursor: pointer;
+  background: var(--interactive-accent); color: var(--text-on-accent); border: 0; }
+.sg-ft-arrow-open { background: var(--background-secondary); color: var(--text-muted);
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
+.sg-ft-hint { position: absolute; left: 0; right: 0; bottom: 8px; text-align: center; font-size: 0.72em; color: var(--text-faint); pointer-events: none; }
 
 /* ---- ＋ Add a song from a YouTube link ---- */
 .sg-pl-add { flex: 0 0 auto; }

@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.40 build 838480224 2026-09-08T22:16:09Z */
+/* scripture-graph v0.72.41 build 11a70b71f 2026-09-08T22:24:18Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.40", sha: "838480224", at: "2026-09-08T22:16:09Z" };
+    define_SG_BUILD_default = { version: "0.72.41", sha: "11a70b71f", at: "2026-09-08T22:24:18Z" };
   }
 });
 
@@ -10056,7 +10056,7 @@ var init_timelineView = __esm({
           }
           return (h >>> 0) / 4294967295;
         };
-        const ROW = Math.round(78 * Z), CENTURY_GAP = Math.round(58 * Math.max(0.75, Z)), ERA_GAP = Math.round(66 * Math.max(0.8, Z)), TOP = 64, BOTTOM = 120;
+        const ROW2 = Math.round(78 * Z), CENTURY_GAP = Math.round(58 * Math.max(0.75, Z)), ERA_GAP = Math.round(66 * Math.max(0.8, Z)), TOP = 64, BOTTOM = 120;
         const cards = Z >= 1.35;
         let y3 = TOP;
         let lastCentury = null;
@@ -10086,7 +10086,7 @@ var init_timelineView = __esm({
           const jx = Math.min(Math.max(xFor(e) + Math.round(jitter), 24), W - 24);
           pos.set(e.id, { x: jx, y: y3, z, e });
           this.yById.set(e.id, y3);
-          y3 += ROW;
+          y3 += ROW2;
         }
         const H = y3 + BOTTOM;
         const NS = "http://www.w3.org/2000/svg";
@@ -13849,7 +13849,12 @@ var import_obsidian6 = require("obsidian");
 init_vaultSync();
 var FOLDER = "AI Library/12 Family";
 var MEDIA = `${FOLDER}/_media`;
-var GENERATIONS = 4;
+var OPEN_AT_START = 4;
+var OPEN_PER_TAP = 2;
+var CARD_W = 172;
+var CARD_H = 58;
+var COL = 236;
+var ROW = 70;
 async function loadTree(app) {
   let f = app.metadataCache.getFirstLinkpathDest("Family Tree", "");
   if (!(f instanceof import_obsidian6.TFile) && lazyFetch) {
@@ -13869,10 +13874,60 @@ var FamilyTree = class {
     this.host = host;
     this.data = data;
     this.root = root;
-    this.focus = root;
+    this.openGenerations(root, OPEN_AT_START);
   }
-  focus;
-  trail = [];
+  open = /* @__PURE__ */ new Set();
+  // people whose parents are shown
+  scale = 1;
+  tx = 24;
+  ty = 24;
+  root;
+  canvas = null;
+  layer = null;
+  lines = null;
+  cards = /* @__PURE__ */ new Map();
+  // ------------------------------------------------------------- state
+  parents(pid) {
+    const n = this.data.people[pid];
+    return n ? [n.f, n.m].filter((p) => !!p && !!this.data.people[p]) : [];
+  }
+  openGenerations(pid, gens) {
+    if (gens <= 0 || !this.parents(pid).length) return;
+    this.open.add(pid);
+    for (const p of this.parents(pid)) this.openGenerations(p, gens - 1);
+  }
+  closeBranch(pid) {
+    this.open.delete(pid);
+    for (const p of this.parents(pid)) this.closeBranch(p);
+  }
+  // ------------------------------------------------------------ layout
+  /** rows a subtree needs, and the y (in rows) of each node: a person sits
+   * at the midpoint of the parents shown behind them */
+  layout() {
+    const placed = [];
+    let cols = 0;
+    const place = (pid, depth, top) => {
+      cols = Math.max(cols, depth + 1);
+      const ps = this.open.has(pid) ? this.parents(pid) : [];
+      if (!ps.length) {
+        placed.push({ pid, depth, x: depth * COL, y: top * ROW, open: false, hasMore: this.parents(pid).length > 0 });
+        return { rows: 1, y: top };
+      }
+      let cursor = top;
+      const ys = [];
+      for (const p of ps) {
+        const r2 = place(p, depth + 1, cursor);
+        ys.push(r2.y);
+        cursor += r2.rows;
+      }
+      const y3 = ys.length === 1 ? ys[0] : (ys[0] + ys[ys.length - 1]) / 2;
+      placed.push({ pid, depth, x: depth * COL, y: y3 * ROW, open: true, hasMore: true });
+      return { rows: cursor - top, y: y3 };
+    };
+    const r = place(this.root, 0, 0);
+    return { placed, rows: r.rows, cols };
+  }
+  // ------------------------------------------------------------ render
   render(c2) {
     c2.empty();
     c2.addClass("sg-ft");
@@ -13883,49 +13938,93 @@ var FamilyTree = class {
         const b = chips.createEl("button", { cls: `sg-ft-rootchip${r.pid === this.root ? " sg-ft-rootchip-on" : ""}`, text: `${r.name.split(" ")[0]}'s line` });
         b.onclick = () => {
           this.root = r.pid;
-          this.focus = r.pid;
-          this.trail = [];
+          this.open.clear();
+          this.openGenerations(r.pid, OPEN_AT_START);
+          this.tx = 24;
+          this.ty = 24;
+          this.scale = 1;
           this.render(c2);
         };
       }
     }
-    if (this.trail.length) {
-      const back = head.createEl("button", { cls: "sg-ft-back", text: `\u2039 Back to ${this.name(this.trail[this.trail.length - 1])}` });
-      back.onclick = () => {
-        this.focus = this.trail.pop();
-        this.render(c2);
-      };
-    }
+    const zoom = head.createDiv({ cls: "sg-ft-zoom" });
+    const zb = (label, title, fn) => {
+      const b = zoom.createEl("button", { text: label, attr: { "aria-label": title } });
+      b.onclick = fn;
+    };
+    zb("\u2212", "Zoom out", () => this.zoomBy(0.8));
+    zb("+", "Zoom in", () => this.zoomBy(1.25));
+    zb("\u2922", "Fit", () => this.fit());
     const list = head.createEl("button", { cls: "sg-ft-list", text: "All ancestors \u203A" });
     list.onclick = () => this.host.openList();
-    const scroller = c2.createDiv({ cls: "sg-ft-scroll" });
-    scroller.appendChild(this.subtree(this.focus, 0));
+    const canvas = c2.createDiv({ cls: "sg-ft-canvas" });
+    this.canvas = canvas;
+    const layer = canvas.createDiv({ cls: "sg-ft-layer" });
+    this.layer = layer;
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("class", "sg-ft-lines");
+    layer.appendChild(svg);
+    this.lines = svg;
+    this.cards.clear();
+    this.draw();
+    this.wireGestures(canvas);
+    canvas.createDiv({ cls: "sg-ft-hint", text: "Drag to move \xB7 pinch to zoom \xB7 \u203A opens more" });
   }
-  name(pid) {
-    return this.data.people[pid]?.n?.split(" ")[0] ?? "\u2026";
-  }
-  subtree(pid, depth) {
-    const node = this.data.people[pid];
-    const wrap = createDiv({ cls: "sg-ft-node" });
-    wrap.appendChild(this.card(pid, node, depth));
-    if (!node) return wrap;
-    const parents = [node.f, node.m].filter((p) => !!p && !!this.data.people[p]);
-    if (!parents.length) return wrap;
-    if (depth >= GENERATIONS - 1) {
-      const more = wrap.createEl("button", { cls: "sg-ft-more", text: "\u203A", attr: { "aria-label": "Further back" } });
-      more.onclick = () => {
-        this.trail.push(this.focus);
-        this.focus = pid;
-        this.render(wrap.closest(".sg-ft"));
-      };
-      return wrap;
+  /** (re)draw the chart from the current open set; cards keep their
+   * elements so a tap on an arrow grows the tree without a flash */
+  draw(anchor) {
+    const layer = this.layer, svg = this.lines;
+    if (!layer || !svg) return;
+    const before = anchor ? this.cards.get(anchor)?.getBoundingClientRect() : null;
+    const { placed, rows, cols } = this.layout();
+    const width = cols * COL + CARD_W, height = Math.max(1, rows) * ROW + CARD_H;
+    layer.style.width = `${width}px`;
+    layer.style.height = `${height}px`;
+    svg.setAttribute("width", String(width));
+    svg.setAttribute("height", String(height));
+    svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
+    while (svg.firstChild) svg.removeChild(svg.firstChild);
+    const keep = new Set(placed.map((p) => p.pid));
+    for (const [pid, el] of this.cards) if (!keep.has(pid)) {
+      el.remove();
+      this.cards.delete(pid);
     }
-    const col = wrap.createDiv({ cls: "sg-ft-parents" });
-    for (const p of parents) col.appendChild(this.subtree(p, depth + 1));
-    return wrap;
+    const at = new Map(placed.map((p) => [p.pid, p]));
+    for (const p of placed) {
+      let card = this.cards.get(p.pid);
+      if (!card) {
+        card = this.card(p.pid);
+        layer.appendChild(card);
+        this.cards.set(p.pid, card);
+      }
+      card.style.transform = `translate(${p.x}px, ${p.y}px)`;
+      this.paintArrow(card, p);
+      if (p.open) {
+        for (const parent of this.parents(p.pid)) {
+          const q = at.get(parent);
+          if (!q) continue;
+          const x1 = p.x + CARD_W, y1 = p.y + CARD_H / 2, x22 = q.x, y22 = q.y + CARD_H / 2, mx = x1 + (x22 - x1) / 2;
+          const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+          path.setAttribute("d", `M ${x1} ${y1} H ${mx} V ${y22} H ${x22}`);
+          svg.appendChild(path);
+        }
+      }
+    }
+    this.apply();
+    if (before && anchor) {
+      const after = this.cards.get(anchor)?.getBoundingClientRect();
+      if (after) {
+        this.tx += before.left - after.left;
+        this.ty += before.top - after.top;
+        this.apply();
+      }
+    }
   }
-  card(pid, node, depth) {
-    const card = createDiv({ cls: `sg-ft-card${node?.living ? " sg-ft-living" : ""}${depth === 0 ? " sg-ft-focus" : ""}` });
+  card(pid) {
+    const node = this.data.people[pid];
+    const card = createDiv({ cls: `sg-ft-card${node?.living ? " sg-ft-living" : ""}${pid === this.root ? " sg-ft-focus" : ""}` });
+    card.style.width = `${CARD_W}px`;
+    card.style.height = `${CARD_H}px`;
     const pic = card.createDiv({ cls: "sg-ft-pic" });
     const name = node?.n ?? pid;
     pic.setText(name.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0].toUpperCase()).join(""));
@@ -13935,10 +14034,32 @@ var FamilyTree = class {
     const years = node?.b || node?.d ? `${node.b ?? "?"}\u2013${node.d ?? ""}` : node?.living ? "living" : "";
     if (years) txt.createDiv({ cls: "sg-ft-years", text: years });
     if (node?.page) {
-      card.addClass("sg-ft-open");
-      card.onclick = () => this.host.openNote(node.page);
+      txt.addClass("sg-ft-open");
+      txt.onclick = (e) => {
+        if (this.moved) return;
+        e.stopPropagation();
+        this.host.openNote(node.page);
+      };
     }
+    card.createEl("button", { cls: "sg-ft-arrow", attr: { "aria-label": "More generations" } });
     return card;
+  }
+  paintArrow(card, p) {
+    const btn = card.querySelector(".sg-ft-arrow");
+    if (!btn) return;
+    if (!p.hasMore) {
+      btn.hide();
+      return;
+    }
+    btn.show();
+    btn.setText(p.open ? "\u2212" : "\u203A");
+    btn.toggleClass("sg-ft-arrow-open", p.open);
+    btn.onclick = (e) => {
+      e.stopPropagation();
+      if (p.open) this.closeBranch(p.pid);
+      else this.openGenerations(p.pid, OPEN_PER_TAP);
+      this.draw(p.pid);
+    };
   }
   /** the thumbnail: from the vault when it is here, fetched quietly when not */
   async thumb(pic, pid, file) {
@@ -13949,9 +14070,90 @@ var FamilyTree = class {
       f = this.host.app.vault.getAbstractFileByPath(path);
     }
     if (!(f instanceof import_obsidian6.TFile) || !pic.isConnected) return;
-    const img = pic.createEl("img", { attr: { loading: "lazy", alt: "" } });
+    const img = pic.createEl("img", { attr: { loading: "lazy", alt: "", draggable: "false" } });
     img.src = this.host.app.vault.getResourcePath(f);
     img.onload = () => pic.addClass("sg-ft-haspic");
+  }
+  // ------------------------------------------------------- pan & zoom
+  moved = false;
+  apply() {
+    if (this.layer) this.layer.style.transform = `translate(${this.tx}px, ${this.ty}px) scale(${this.scale})`;
+  }
+  zoomBy(k, cx, cy) {
+    const canvas = this.canvas;
+    if (!canvas) return;
+    const r = canvas.getBoundingClientRect();
+    const px = (cx ?? r.left + r.width / 2) - r.left, py = (cy ?? r.top + r.height / 2) - r.top;
+    const next = Math.min(2.5, Math.max(0.25, this.scale * k));
+    const f = next / this.scale;
+    this.tx = px - (px - this.tx) * f;
+    this.ty = py - (py - this.ty) * f;
+    this.scale = next;
+    this.apply();
+  }
+  fit() {
+    const canvas = this.canvas, layer = this.layer;
+    if (!canvas || !layer) return;
+    const w = parseFloat(layer.style.width) || 1, h = parseFloat(layer.style.height) || 1;
+    const r = canvas.getBoundingClientRect();
+    this.scale = Math.min(2, Math.max(0.25, Math.min((r.width - 24) / w, (r.height - 24) / h)));
+    this.tx = (r.width - w * this.scale) / 2;
+    this.ty = (r.height - h * this.scale) / 2;
+    this.apply();
+  }
+  wireGestures(canvas) {
+    const pts = /* @__PURE__ */ new Map();
+    let last = null;
+    let pinch = null;
+    canvas.onpointerdown = (e) => {
+      canvas.setPointerCapture(e.pointerId);
+      pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      this.moved = false;
+      if (pts.size === 1) last = { x: e.clientX, y: e.clientY };
+      if (pts.size === 2) {
+        const [a2, b] = [...pts.values()];
+        pinch = Math.hypot(a2.x - b.x, a2.y - b.y);
+      }
+    };
+    canvas.onpointermove = (e) => {
+      if (!pts.has(e.pointerId)) return;
+      pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      if (pts.size === 2 && pinch) {
+        const [a2, b] = [...pts.values()];
+        const d = Math.hypot(a2.x - b.x, a2.y - b.y);
+        if (d > 0) {
+          this.zoomBy(d / pinch, (a2.x + b.x) / 2, (a2.y + b.y) / 2);
+          pinch = d;
+          this.moved = true;
+        }
+        return;
+      }
+      if (pts.size === 1 && last) {
+        const dx = e.clientX - last.x, dy = e.clientY - last.y;
+        if (Math.abs(dx) + Math.abs(dy) > 3) this.moved = true;
+        this.tx += dx;
+        this.ty += dy;
+        last = { x: e.clientX, y: e.clientY };
+        this.apply();
+      }
+    };
+    const up = (e) => {
+      pts.delete(e.pointerId);
+      if (pts.size < 2) pinch = null;
+      if (pts.size === 1) {
+        const p = [...pts.values()][0];
+        last = { x: p.x, y: p.y };
+      } else last = null;
+      window.setTimeout(() => {
+        this.moved = false;
+      }, 0);
+    };
+    canvas.onpointerup = up;
+    canvas.onpointercancel = up;
+    canvas.onwheel = (e) => {
+      e.preventDefault();
+      this.zoomBy(e.deltaY < 0 ? 1.1 : 0.9, e.clientX, e.clientY);
+    };
   }
 };
 
