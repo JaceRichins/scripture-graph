@@ -57,18 +57,22 @@ def load_session(ctx: Ctx) -> str | None:
         return None
 
 
-def login(ctx: Ctx, wait_minutes: int = 60) -> str:
+def login(ctx: Ctx, wait_minutes: int = 60, headless: bool = False) -> str:
     """A visible browser at familysearch.org; returns the session id once the
-    site has set it (i.e. once you have signed in). Only the id is kept."""
+    site has set it (i.e. once you have signed in). Only the id is kept.
+    `headless`: the scheduled run — the browser profile remembers the sign-in
+    for a good while, so the site usually hands a fresh session over without
+    anyone there; if it doesn't within a minute, the run steps aside and the
+    next hand-run window signs in again."""
     from playwright.sync_api import sync_playwright
     profile = ctx.state_dir / "familysearch-profile"
     profile.mkdir(parents=True, exist_ok=True)
     with sync_playwright() as p:
-        browser = p.chromium.launch_persistent_context(str(profile), headless=False, viewport={"width": 1100, "height": 900},
+        browser = p.chromium.launch_persistent_context(str(profile), headless=headless, viewport={"width": 1100, "height": 900},
                                                        args=["--disable-blink-features=AutomationControlled"])
         page = browser.pages[0] if browser.pages else browser.new_page()
         page.goto(f"{SITE}/auth/familysearch/login?returnUrl=%2Fen%2Ftree%2Fpedigree", wait_until="domcontentloaded")
-        deadline = time.time() + wait_minutes * 60
+        deadline = time.time() + (1 if headless else wait_minutes) * 60
         sid = None
         while time.time() < deadline:
             for c in browser.cookies():
@@ -170,11 +174,22 @@ def _cache_dir(ctx: Ctx) -> Path:
 
 def spouses_of(sid: str, pid: str) -> list[tuple[str, str]]:
     """(id, name) of each spouse — the other lines a family wants on the shelf"""
-    d = get_json(sid, f"/platform/tree/persons/{pid}/spouses")
+    d = get_json(sid, f"/platform/tree/persons/{pid}/spouses") or {}
     out: list[tuple[str, str]] = []
-    for p in (d or {}).get("persons", []) or []:
+    for p in d.get("persons", []) or []:
         if p.get("id") and p["id"] != pid:
             out.append((p["id"], ((p.get("display") or {}).get("name")) or p["id"]))
+    if not out:
+        # the answer may carry only the couple relationships: the other id in each
+        for rel in d.get("relationships", []) or []:
+            if "Couple" not in str(rel.get("type", "")):
+                continue
+            for key in ("person1", "person2"):
+                rid = (rel.get(key) or {}).get("resourceId")
+                if rid and rid != pid and all(rid != o[0] for o in out):
+                    det = get_json(sid, f"/platform/tree/persons/{rid}") or {}
+                    nm = (((det.get("persons") or [{}])[0]).get("display") or {}).get("name") or rid
+                    out.append((rid, nm))
     return out
 
 
@@ -479,7 +494,10 @@ def people_from_cache(ctx: Ctx) -> tuple[dict[str, Person], dict[str, dict]]:
                 f = _cache_dir(ctx) / f"{pid}.json"
                 if not f.exists():
                     continue                      # not pulled yet (or living)
-                d = json.loads(f.read_text(encoding="utf-8"))
+                try:
+                    d = json.loads(f.read_text(encoding="utf-8"))
+                except (OSError, ValueError):
+                    continue                      # being written this second
                 pr = Person(pid=pid, name=d.get("name") or pid, gender=d.get("gender", ""), living=False,
                             facts=d.get("facts", []), sources=d.get("sources", []), memories=d.get("memories", []))
                 people[pid] = pr
@@ -501,7 +519,7 @@ def _gen_label(gen: int) -> str:
     return {1: "parents", 2: "grandparents", 3: "great-grandparents"}.get(gen, f"{gen - 2}\u00d7 great-grandparents")
 
 
-def build(ctx: Ctx, log) -> int:
+def build(ctx: Ctx, log, partial: bool = False) -> int:
     """the shelf: one page per ancestor across every line pulled, an index by line"""
     from scripturegraph.vaultgen import md as mdkit
     from scripturegraph.vaultgen.generate import record_file
@@ -599,7 +617,7 @@ def build(ctx: Ctx, log) -> int:
         ctx.db().commit()
     except Exception:  # noqa: BLE001
         pass
-    log.info("family.built", pages=n, people=len(shown), lines=len(roots))
+    log.info("family.built_partial" if partial else "family.built", pages=n, people=len(shown), lines=len(roots))
     return n
 
 
@@ -698,6 +716,58 @@ def _mentions(ctx: Ctx, names: dict[str, str]) -> dict[str, list[str]]:
             if nm in text:
                 out.setdefault(pid, []).append(p.stem)
     return out
+
+
+def auto(ctx: Ctx, log=None) -> dict:
+    """the weekly run: every line already on the shelf, brought up to date —
+    new people pulled, the tree and pages rebuilt. Needs a session: the saved
+    one, or a fresh one from the remembered browser profile, without anyone
+    there. When neither works it logs and steps aside; nothing is lost."""
+    log = log or ctx.log
+    roots = load_roots(ctx)
+    if not roots:
+        return {"skipped": "no lines yet — run `family` by hand once"}
+    sid = load_session(ctx)
+    if not sid or not _probe(sid):
+        try:
+            sid = login(ctx, headless=True)
+        except Exception as e:  # noqa: BLE001
+            log.warn("family.auto_login_failed", error=str(e)[:120])
+            return {"skipped": "sign-in needed — run `family` by hand"}
+    stats = {"lines": 0, "people": 0, "downloaded": 0, "memories": 0, "skipped_cached": 0}
+    generations = int(ctx.c("family.generations", 8))
+    for root, info in list(roots.items()):
+        try:
+            people = walk(ctx, sid, root, generations, log)
+            save_root(ctx, root, info.get("name", root), people)
+            st = pull(ctx, sid, people, log)
+            for k in ("people", "downloaded", "memories", "skipped_cached"):
+                stats[k] += st.get(k, 0)
+            stats["lines"] += 1
+        except SessionDead:
+            log.warn("family.auto_session_died")
+            break
+    stats["shrunk"] = shrink_media(ctx, log)
+    stats["pages"] = build(ctx, log)
+    return stats
+
+
+def build_now(ctx: Ctx, generations: int = 8, person: str | None = None, spouse: bool = False, log=None) -> dict:
+    """the tree and the pages for whoever is already pulled — a few
+    ancestry calls, no downloads; safe while a pull is running"""
+    log = log or ctx.log
+    sid = load_session(ctx)
+    if not sid or not _probe(sid):
+        log.info("family.login_needed")
+        sid = login(ctx)
+    me = person or current_person(sid)
+    roots: list[tuple[str, str]] = [(me, ((get_json(sid, f"/platform/tree/persons/{me}") or {}).get("persons") or [{}])[0]
+                                     .get("display", {}).get("name") or me)]
+    if spouse:
+        roots += spouses_of(sid, me)
+    for root, name in roots:
+        save_root(ctx, root, name, walk(ctx, sid, root, generations, log))
+    return {"lines": len(roots), "pages": build(ctx, log, partial=True)}
 
 
 # --------------------------------------------------------------------- entry

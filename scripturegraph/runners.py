@@ -459,6 +459,14 @@ def run_weekly(ctx: Ctx) -> dict:
             stats["packs"] = write_packs(ctx)
         except Exception as e:  # noqa: BLE001
             ctx.log.warn("weekly.packs_failed", error=str(e)[:200])
+        # the family's ancestors: new people, new memories, the tree — with the
+        # remembered FamilySearch sign-in; steps aside when that has lapsed
+        if ctx.c("family.enabled", True):
+            try:
+                from scripturegraph.family import familysearch as _fs
+                stats["family"] = _fs.auto(ctx)
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("weekly.family_failed", error=str(e)[:200])
         if ctx.c("timeline.enabled", True):
             from scripturegraph.timeline import maybe_build_timeline
             try:

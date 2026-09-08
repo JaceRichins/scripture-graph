@@ -1,0 +1,58 @@
+---
+ownership: ai
+mutable: engine
+content_type: ancestor
+sg-id: fs:L4HH-Y1L
+fs_id: L4HH-Y1L
+generation: 6
+born: 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom
+died: 12 January 1891 · Camp Miserden, Gloucestershire, England, United Kingdom
+updated_at: '2026-09-08T21:38:41Z'
+cssclasses:
+- sg-ai
+---
+
+# Susanna Ireland
+
+Born 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom · Died 12 January 1891 · Camp Miserden, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
+
+## Family
+- Children in this line: [[Thomas Henry Stephens (KWNL-JWK)|Thomas Henry Stephens]]
+
+## Life
+- **Birth**: 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom
+- **Death**: 12 January 1891 · Camp Miserden, Gloucestershire, England, United Kingdom
+- **Christening**: 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom
+- **Residence**: 1841 · Painswick, Gloucestershire, England, United Kingdom
+- **Residence**: 1851 · Miserden, Gloucestershire, England, United Kingdom
+- **Residence**: 1861 · Brimpsfield, Gloucestershire, England, United Kingdom
+- **Residence**: 1871 · Miserdine, Gloucestershire, England
+- **Burial**: 15 January 1891 · Miserden, Gloucestershire, England, United Kingdom
+
+## Photos & documents
+
+![[AI Library/12 Family/_media/L4HH-Y1L/12803895.jpg|Susanna Ireland Stephens-death certificate]]
+
+
+![[AI Library/12 Family/_media/L4HH-Y1L/70045642.jpg|Susannah Ireland - Birth & Death]]
+
+
+## Sources
+- [Shusanah Stephen, "England and Wales, Census, 1841"](https://familysearch.org/ark:/61903/1:1:M7MH-XCR)
+- [Susannah Hepburn[sic] in household of Henry Hepburn[sic], "England and Wales Census, 1861"](https://familysearch.org/ark:/61903/1:1:M7LY-9TR)
+- [Susan, "England, Norfolk, Bishop's Transcripts, 1685-1941"](https://familysearch.org/ark:/61903/1:1:N51V-8XK)
+- [Susanna in entry for Thomas Henry Stevens, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JQBY-Y8M)
+- [Susannah in entry for Thomas H. Stephens, "Utah Death Certificates, 1904-1964"](https://familysearch.org/ark:/61903/1:1:XZLT-GTT)
+- [Susan Stephens, "England and Wales, Census, 1851"](https://familysearch.org/ark:/61903/1:1:SG2Q-CGG)
+- [Susannah Ireland, "The Church of Jesus Christ of Latter-day Saints, Missionary Registers (Worldwide), 1860-1937"](https://familysearch.org/ark:/61903/1:1:QKDW-TBHM)
+- [Susannah Ireland, "The Church of Jesus Christ of Latter-day Saints, Missionary Registers (Worldwide), 1860-1937"](https://familysearch.org/ark:/61903/1:1:QKDW-TV5L)
+- [Susan Stevens, "England and Wales, Census, 1871"](https://familysearch.org/ark:/61903/1:1:V5Y2-86K)
+- [Susanna Ireland, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NPN8-69V)
+- Legacy NFS Source: Susannah Ireland - Government record: Census record: birth-name: Susannah Ireland
+- Legacy NFS Source: Susannah Ireland - Individual or family possessions: christening: about 23 July 1815; Painswick, Gloucestershire, England, United Kingdom
+- Legacy NFS Source: Susannah Ireland - 
+- [Susannah, "Utah, Salt Lake County Death Records, 1849-1949"](https://familysearch.org/ark:/61903/1:1:NQH3-LB5)
+- [Susannah in entry for Thomas H. Stephens, "Utah Deaths and Burials, 1888-1946"](https://familysearch.org/ark:/61903/1:1:F85J-7HL)
+
+
+[FamilySearch record](https://www.familysearch.org/tree/person/details/L4HH-Y1L)

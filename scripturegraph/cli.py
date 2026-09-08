@@ -464,6 +464,9 @@ def cmd_family(args):
         fs.login(ctx)
         print("signed in — session kept")
         return 0
+    if args.action == "build":
+        print(json.dumps(fs.build_now(ctx, generations=args.generations, person=args.person, spouse=args.spouse), indent=2))
+        return 0
     stats = fs.run(ctx, generations=args.generations, person=args.person, refresh=args.refresh, spouse=args.spouse)
     print(json.dumps(stats, indent=2))
     return 0
@@ -673,7 +676,7 @@ def main(argv=None) -> int:
     sub.add_parser("packs", help="pack footnotes, cross references and citations by book (for phones)") \
         .set_defaults(fn=cmd_packs)
     sp = sub.add_parser("family", help="ancestors, sources and memories from FamilySearch (your own sign-in), as a shelf")
-    sp.add_argument("action", nargs="?", default="pull", choices=["pull", "login"])
+    sp.add_argument("action", nargs="?", default="pull", choices=["pull", "login", "build"])
     sp.add_argument("--generations", type=int, default=8, help="how far up (default 8)")
     sp.add_argument("--person", help="root FamilySearch id (default: you)")
     sp.add_argument("--refresh", action="store_true", help="re-read people already cached")
