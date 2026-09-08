@@ -23,7 +23,12 @@ Scripture: [[Mark 15]] · My notes: [[Mark 15 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+- **15:1-15** Jesus before Pilate; Barabbas released, Jesus condemned
+- **15:16-20** Soldiers mock Jesus as a king in the Praetorium
+- **15:21-32** The road to Golgotha, the crucifixion, and the mockery of onlookers
+- **15:33-37** Darkness, the cry of dereliction, and Jesus' death
+- **15:38-41** The veil torn, the centurion's confession, the women watching
+- **15:42-47** Burial by Joseph of Arimathea
 <!-- SG:END structure -->
 
 ## People
@@ -50,11 +55,13 @@ _Not yet developed._
 - [[1 Nephi 11]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-19|Mark 15:19]])
 - [[Psalm 22]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-24|Mark 15:24]])
 - [[Psalm 69]] — 1 footnote cross-reference (from [[Mark 15#^mark-15-36|Mark 15:36]])
-- [[Matthew 27]] — 14 parallel verses, e.g. [[Mark 15#^mark-15-34|Mark 15:34]] ↔ [[Matthew 27#^matt-27-46|Matthew 27:46]]
 - [[Luke 23]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-38|Mark 15:38]] ↔ [[Luke 23#^luke-23-45|Luke 23:45]]
 - [[John 18]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-9|Mark 15:9]] ↔ [[John 18#^john-18-39|John 18:39]]
 - [[Mark 16]] — 2 parallel verses, e.g. [[Mark 15#^mark-15-40|Mark 15:40]] ↔ [[Mark 16#^mark-16-1|Mark 16:1]]
-- [[Psalm 22]] — 1 parallel verse, e.g. [[Mark 15#^mark-15-34|Mark 15:34]] ↔ [[Psalm 22#^ps-22-1|Psalm 22:1]]
+- [[Matthew 27]] — 0 parallel verses
+- [[Psalm 22]] — 0 parallel verses
+- [[Luke 23]] — 0 parallel verses
+- [[John 19]] — 0 parallel verses
 - [[John 19]] — 0 parallel verses
 - [[Mark 16]] — 0 parallel verses
 - [[Matthew 27]] — 0 parallel verses
@@ -62,15 +69,15 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Crucifixion of Jesus Christ]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Crucifixion of Jesus Christ]]
+- [[Government and Laws]]
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter supplies the narrative foundation for [[Crucifixion of Jesus Christ]] and [[Atonement of Jesus Christ]], but it communicates mainly through events and irony rather than a systematic explanation of atonement. The Barabbas exchange can illuminate substitution, yet the passage does not explicitly define it that way. Jesus's refusal to save himself presents saving obedience as costly endurance rather than visible self-preservation. The torn veil connects his death with [[Temples]], although interpretations involving access to God and judgment on the temple should be presented as readings, not as meanings expressly defined by Mark.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -100,25 +107,35 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+- The titles “King of the Jews” and “King of Israel” recur through interrogation, mockery, accusation, and challenge.
+- “Eloi, Eloi, lama sabachthani?” (15:34) is a Semitic cry translated by the narrator as the opening lament of [[Psalm 22]].
+- “Golgotha” is translated in 15:22 as “The place of a skull.”
+- The Greek word rendered “land” in 15:33 can also denote “earth”; vocabulary alone does not settle the darkness's geographic scope.
+- Mark 15:28 appears in the supplied canonical text but is absent from important early Greek witnesses and is generally judged secondary in modern textual criticism.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+- Royal language structures the chapter: interrogation, mock homage, the written charge, and the final challenge all name Jesus as king.
+- The Barabbas exchange reverses expectations: a prisoner associated with insurrection and murder is released while Jesus is condemned despite Pilate's question about his offense.
+- “He saved others; himself he cannot save” carries narrative irony: within Mark's theological presentation, refusing self-rescue is compatible with saving others.
+- Jesus's cry directly recalls [[Psalm 22]], while the divided garments provide a further probable echo; this does not prove that every feature of the scene was composed from the psalm.
+- Religious leaders mock Jesus, whereas a Roman centurion present at his death calls him the Son of God. Named women supply continuity between ministry, death, burial, and [[Mark 16]].
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Narrative Attestation
+> Within Mark's narrative, Jesus's death and burial receive multiple concrete checkpoints: a centurion is present at the death, Pilate asks the centurion to confirm it, Joseph receives and entombs the body, and named women observe the burial place. This is strong evidence for what Mark intends to assert and provides historically relevant detail, though internal narrative detail alone cannot independently prove every event.
+> — strength 0.6 · confidence 0.9 · accepted observation; historical significance limited · [[Internal Narrative Attestation in Mark 15|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+Why does Mark emphasize Jesus's silence before Pilate? How does each occurrence of “king” change as the chapter progresses? Does the centurion's confession express full Christian understanding, an awed but partial recognition, or narrative irony? What meanings can the torn veil plausibly carry, and which go beyond what Mark states? Why are Alexander and Rufus named when most incidental figures are not? How do the women function as witnesses across Mark 15:40–47 and [[Mark 16]]?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the parallel passion accounts in [[Matthew 27]], [[Luke 23]], and [[John 19]], noting both agreements and distinctive emphases. Read [[Psalm 22]] in full rather than treating its opening line in isolation. Compare Jesus's silence with [[Isaiah 53]], while distinguishing a literary parallel from an explicit citation. Text-critical study of Mark 15:28 is also important because the explicit fulfillment sentence is not present in several important early witnesses.
 <!-- SG:END further-study -->
