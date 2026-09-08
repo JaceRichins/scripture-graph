@@ -273,20 +273,36 @@ function placeMarkers(p: HTMLElement, notes: Footnote[], onTap: (note: Footnote)
     nodes.push(tn);
   }
   if (!nodes.length) return placed;
-  // the verse text as the reader sees it, with the first node's leading space dropped
-  let lead = nodes[0]!.data.match(/^\s*/)?.[0].length ?? 0;
+  // the verse text as the reader sees it, measured once — every insertion
+  // happens to the RIGHT of the next one, so earlier indices stay true
+  const full = nodes.map(n => n.data).join("");
+  const lead = full.match(/^\s*/)?.[0].length ?? 0;
+  const fold = (t: string) => t.replace(/[\u2018\u2019]/g, "'").replace(/[\u201C\u201D]/g, '"').toLowerCase();
+  const text = fold(full);
   for (const note of anchored) {
-    let target = (note.o ?? 0) + lead;
+    // the stored offset drifts by a character or two (smart quotes, dashes);
+    // the letter must sit at the START of its word, never inside it — so
+    // find the word itself at a word boundary, nearest the offset
+    const expected = (note.o ?? 0) + lead;
+    const word = fold(note.w ?? "").replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, "");
+    if (!word) continue;
+    const re = new RegExp(`(^|[^\\p{L}\\p{N}])(${word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "giu");
+    let at = -1, dist = Infinity;
+    for (const m of text.matchAll(re)) {
+      const i = (m.index ?? 0) + m[1]!.length;
+      const d = Math.abs(i - expected);
+      if (d < dist) { dist = d; at = i; }
+      if (i > expected + 48) break;
+    }
+    if (at < 0 || dist > 48) continue;
+    // index → the text node holding it (heads of split nodes keep their prefix)
+    let target = at;
     let hit: Text | null = null;
     for (const tn of nodes) {
       if (target <= tn.data.length) { hit = tn; break; }
       target -= tn.data.length;
     }
     if (!hit) continue;
-    // sanity: the word should start here (tolerate small drift from smart quotes)
-    const around = hit.data.slice(Math.max(0, target - 2), target + (note.w?.length ?? 0) + 2).toLowerCase();
-    const w = (note.w ?? "").toLowerCase().slice(0, 6);
-    if (w && !around.includes(w.slice(0, Math.min(4, w.length)))) continue;
     const tail = hit.splitText(target);
     const sup = document.createElement("sup");
     sup.className = "sg-fn-mark";
@@ -295,7 +311,6 @@ function placeMarkers(p: HTMLElement, notes: Footnote[], onTap: (note: Footnote)
     sup.onclick = (e) => { e.preventDefault(); e.stopPropagation(); onTap(note); };
     tail.parentNode?.insertBefore(sup, tail);
     placed.add(note);
-    if (hit === nodes[0]) lead = 0;   // offsets before the split stay measured from the same origin
   }
   return placed;
 }

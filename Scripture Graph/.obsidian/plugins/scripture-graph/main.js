@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.28 build 6127042f6 2026-09-08T12:02:04Z */
+/* scripture-graph v0.72.29 build 2d396a273 2026-09-08T12:07:01Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.28", sha: "6127042f6", at: "2026-09-08T12:02:04Z" };
+    define_SG_BUILD_default = { version: "0.72.29", sha: "2d396a273", at: "2026-09-08T12:07:01Z" };
   }
 });
 
@@ -14909,9 +14909,27 @@ function placeMarkers(p, notes, onTap) {
     nodes.push(tn);
   }
   if (!nodes.length) return placed;
-  let lead = nodes[0].data.match(/^\s*/)?.[0].length ?? 0;
+  const full = nodes.map((n) => n.data).join("");
+  const lead = full.match(/^\s*/)?.[0].length ?? 0;
+  const fold = (t) => t.replace(/[\u2018\u2019]/g, "'").replace(/[\u201C\u201D]/g, '"').toLowerCase();
+  const text = fold(full);
   for (const note of anchored) {
-    let target = (note.o ?? 0) + lead;
+    const expected = (note.o ?? 0) + lead;
+    const word = fold(note.w ?? "").replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, "");
+    if (!word) continue;
+    const re = new RegExp(`(^|[^\\p{L}\\p{N}])(${word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "giu");
+    let at = -1, dist = Infinity;
+    for (const m2 of text.matchAll(re)) {
+      const i = (m2.index ?? 0) + m2[1].length;
+      const d = Math.abs(i - expected);
+      if (d < dist) {
+        dist = d;
+        at = i;
+      }
+      if (i > expected + 48) break;
+    }
+    if (at < 0 || dist > 48) continue;
+    let target = at;
     let hit = null;
     for (const tn of nodes) {
       if (target <= tn.data.length) {
@@ -14921,9 +14939,6 @@ function placeMarkers(p, notes, onTap) {
       target -= tn.data.length;
     }
     if (!hit) continue;
-    const around = hit.data.slice(Math.max(0, target - 2), target + (note.w?.length ?? 0) + 2).toLowerCase();
-    const w = (note.w ?? "").toLowerCase().slice(0, 6);
-    if (w && !around.includes(w.slice(0, Math.min(4, w.length)))) continue;
     const tail = hit.splitText(target);
     const sup = document.createElement("sup");
     sup.className = "sg-fn-mark";
@@ -14936,7 +14951,6 @@ function placeMarkers(p, notes, onTap) {
     };
     tail.parentNode?.insertBefore(sup, tail);
     placed.add(note);
-    if (hit === nodes[0]) lead = 0;
   }
   return placed;
 }
