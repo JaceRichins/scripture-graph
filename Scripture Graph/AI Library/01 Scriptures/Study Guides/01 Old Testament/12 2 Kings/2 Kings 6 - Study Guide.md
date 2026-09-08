@@ -97,7 +97,21 @@ _Not yet developed._
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary Pattern *(tentative)*
+> The concentrated sequence of opened eyes, blindness, and restored sight is strong internal evidence that perception is a deliberate theme in this episode.
+> — strength 0.9 · confidence 1.0 · accepted observation / disputed interpretation
+
+> [!evidence] Biblical Intertextuality / Covenant Theology *(tentative)*
+> The famine-driven cannibalism during Ben-hadad's siege of Samaria, in which two women agree to eat their own sons, parallels covenant-curse language elsewhere in the Torah threatening that a besieged, unfaithful Israel would resort to eating its own children (e.g., Leviticus 26:29; Deuteronomy 28:53-57).
+> — strength 0.5 · confidence 0.6 · accepted observation / disputed interpretation
+
+> [!evidence] Narrative Sequence *(tentative)*
+> The report that Syrian bands ceased entering Israel immediately follows their being fed and released, supporting a reading in which mercy contributes to a temporary de-escalation. The narrative sequence suggests this connection but does not explicitly state causation.
+> — strength 0.6 · confidence 0.9 · accepted observation / disputed interpretation
+
+> [!evidence] Internal Narrative Detail *(tentative)*
+> The price notices and the cannibalism account are strong internal evidence that the narrator intends the siege to be understood as catastrophic rather than as an ordinary shortage.
+> — strength 0.9 · confidence 1.0 · broadly accepted
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
