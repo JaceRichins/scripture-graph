@@ -48,8 +48,8 @@ _Not yet developed._
 - **1000 BC** — David brings the Ark of the Covenant to Jerusalem · [[2 Samuel 6]] · [[1000-901 BC]] *(traditional dating)*
 - **995 BC–990 BC** — Ammonite War (Siege of Rabbah) and the Bathsheba affair · [[2 Samuel 11]] · [[1000-901 BC]] *(approximate)*
 - **995 BC–990 BC** — Death of Bathsheba's first child and birth of Solomon · [[2 Samuel 12]] · [[1000-901 BC]] *(approximate)*
+- **979 BC–970 BC** — David's census, plague, and altar at Araunah's threshingfloor · [[2 Samuel 24]] · [[1000-901 BC]] *(approximate)*
 - **975 BC–970 BC** — David's Census, Plague, and Purchase of Ornan's Threshingfloor · [[1 Chronicles 21]] · [[1000-901 BC]] *(traditional dating)*
-- **972 BC–970 BC** — David's material preparation and charge to Solomon for the temple · [[1 Chronicles 22]] · [[1000-901 BC]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

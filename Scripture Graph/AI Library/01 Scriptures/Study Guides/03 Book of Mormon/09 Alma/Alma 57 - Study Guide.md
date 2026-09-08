@@ -122,7 +122,7 @@ The figure 2,060 also connects the original 2,000 soldiers described in [[Alma 5
 <!-- SG:BEGIN evidence -->
 > [!evidence] Reported Miracle And Theological Attribution
 > Helaman explicitly interprets the survival of all 2,060 wounded young soldiers as miraculous and connects it with their faith. The text is strong evidence for the narrator's theological interpretation, but by itself is limited evidence for supernatural causation because no independent casualty record or comparison controlling for tactical factors is supplied.
-> — strength 0.3 · confidence 1.0 · Textual attribution certain; supernatural causation disputed · [[Reported Miracle And Theological Attribution in Alma 57|full dossier]]
+> — strength 0.1 · confidence 1.0 · Textual attribution certain; supernatural causation disputed · [[Reported Miracle And Theological Attribution in Alma 57|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

@@ -110,7 +110,7 @@ Readers commonly connect the two groups named in vv.2-3 — those who "assist to
 <!-- SG:BEGIN evidence -->
 > [!evidence] Intertextual Legal Formula
 > The close verbal and conceptual relationship between Ether 5:4 and biblical witness formulas is strong evidence that the passage deliberately frames the plates and their witnesses in a scriptural legal-testimony tradition.
-> — strength 0.8 · confidence 0.9 · accepted observation / disputed interpretation, well-calibrated · [[Intertextual Legal Formula in Ether 5|full dossier]]
+> — strength 0.7 · confidence 0.9 · accepted observation / disputed interpretation, well-calibrated · [[Intertextual Legal Formula in Ether 5|full dossier]]
 
 > [!evidence] Intertextual/Literary *(tentative)*
 > Ether 5:4's use of the biblical law-of-witnesses idiom shows the Book of Mormon framing its own authentication procedure in the language of Mosaic/New Testament legal testimony, giving the Three Witnesses episode a scriptural-legal register rather than a merely anecdotal one.

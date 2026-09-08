@@ -5585,6 +5585,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2sam-24-90418e99",
+   "t": "David's census, plague, and altar at Araunah's threshingfloor",
+   "y0": -979,
+   "y1": -970,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "2 Samuel 21-24 form a non-chronological appendix to the book; this event is conservatively placed within David's traditional reign (c. 1010-970 BC), likely toward its latter part, but the text supplies no explicit chronological anchor.",
+   "chapters": [
+    "2 Samuel 24"
+   ],
+   "people": [
+    "David",
+    "Joab",
+    "Gad",
+    "Araunah the Jebusite"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
    "id": "r-2sam-3-dd647308",
    "t": "David's reign over Judah in Hebron, before uniting the kingdom",
    "y0": -1010,
@@ -12900,6 +12927,59 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-jer-33-65e09a6a",
+   "t": "Oracle of restoration given during siege of Jerusalem",
+   "y0": -588,
+   "y1": -586,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Chapter is set during Jeremiah's imprisonment in the court of the guard, the same setting as Jeremiah 32, which is dated to the final Babylonian siege of Jerusalem before its fall.",
+   "chapters": [
+    "Jeremiah 33"
+   ],
+   "people": [
+    "Jeremiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-jer-33-b7e47629",
+   "t": "Jeremiah receives a second prison-court oracle during the siege",
+   "y0": -588,
+   "y1": -587,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "wars"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Jeremiah 33:1 continues the confinement setting of Jeremiah 32, which places Jeremiah in the prison court during the Chaldean siege shortly before Jerusalem's fall.",
+   "chapters": [
+    "Jeremiah 33"
+   ],
+   "people": [
+    "Jeremiah"
+   ],
+   "places": [
+    "Jerusalem",
+    "Judah"
+   ],
+   "things": [
+    "court of the prison",
+    "Chaldean siege"
+   ]
+  },
+  {
    "id": "r-jer-34-96a95142",
    "t": "Nebuchadnezzar's final siege of Jerusalem and Zedekiah's servant covenant",
    "y0": -588,
@@ -14751,6 +14831,29 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-micah-7-cdea2171",
+   "t": "Micah's prophetic ministry under Jotham, Ahaz, Hezekiah",
+   "y0": -750,
+   "y1": -687,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "The book's superscription (Micah 1:1) dates Micah's ministry to the reigns of Jotham, Ahaz, and Hezekiah of Judah; exact regnal years are disputed among chronologists.",
+   "chapters": [
+    "Micah 7"
+   ],
+   "people": [
+    "Micah"
+   ],
+   "places": [
+    "Judah"
+   ]
+  },
+  {
    "id": "r-morm-1-0ad468c2",
    "t": "Mormon's childhood commission and early societal collapse",
    "y0": 321,
@@ -16326,6 +16429,29 @@ timeline module, not this file._
    "places": [
     "Corinth",
     "Cenchrea"
+   ]
+  },
+  {
+   "id": "r-rom-7-6befe420",
+   "t": "Paul writes the Epistle to the Romans",
+   "y0": 55,
+   "y1": 58,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Widely dated by scholars to c. AD 57, near the end of Paul's third missionary journey, based on his travel itinerary in Acts and internal references such as the collection for Jerusalem and greetings in Romans 16.",
+   "chapters": [
+    "Romans 7"
+   ],
+   "people": [
+    "Paul the Apostle"
+   ],
+   "places": [
+    "Corinth"
    ]
   },
   {
