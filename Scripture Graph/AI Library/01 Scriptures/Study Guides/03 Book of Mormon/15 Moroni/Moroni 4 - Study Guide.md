@@ -23,7 +23,11 @@ Scripture: [[Moroni 4]] · My notes: [[Moroni 4 - My Notes]]
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Authority and precedent (v. 1):** elders and priests administer according to Christ's commandments.
+2. **Posture and address (v. 2):** they kneel with the church and pray to the Father in Christ's name.
+3. **Petition and remembrance (v. 3):** the bread is blessed and sanctified so participants may remember the Son's body.
+4. **Witnessed commitments (v. 3):** participants express willingness to take his name, always remember him, and keep his commandments.
+5. **Requested blessing (v. 3):** they may always have his Spirit with them.
 <!-- SG:END structure -->
 
 ## People
@@ -44,17 +48,19 @@ _Not yet developed._
 - [[Luke 22]] — 1 footnote cross-reference (from [[Moroni 4#^moro-4-3|Moroni 4:3]])
 - [[3 Nephi 20]] — 1 footnote cross-reference (from [[Moroni 4#^moro-4-3|Moroni 4:3]])
 - [[D&C 20]] — 3 parallel verses, e.g. [[Moroni 4#^moro-4-3|Moroni 4:3]] ↔ [[D&C 20#^dc-20-77|D&C 20:77]]
-- [[Moroni 5]] — 1 parallel verse, e.g. [[Moroni 4#^moro-4-3|Moroni 4:3]] ↔ [[Moroni 5#^moro-5-2|Moroni 5:2]]
+- [[Moroni 5]] — 0 parallel verses
+- [[D&C 20]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Sacrament]]
+- [[Jesus Christ (Gospel Topic)]]
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The prayer portrays the [[Sacrament]] as remembrance joined to accountable discipleship. Its wording emphasizes willingness without reducing the commitment: participants still witness that they will remember Christ and keep his commandments. Although Moroni 4 never uses the word "covenant," its witnessed commitments and promised blessing reasonably connect it with [[Covenants]]. The prayer also places the ordinance within [[The Godhead]]: it is directed to the Father, centered on the Son, and seeks the Spirit's presence.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -87,25 +93,30 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Two verbal patterns carry much of the chapter's meaning. First, "in the name of Christ" in verse 2 leads into willingness to "take upon them the name" of the Son in verse 3: Christ's name frames both the prayer's authority and the worshippers' identity. Second, the repeated "always" links the human commitment to remember Christ with the desired divine companionship of his Spirit. The petition that bread be sanctified "to the souls" of those who partake also directs attention beyond the physical emblem to its spiritual purpose.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Moroni 4 moves from ritual instruction to direct prayer: verse 1 identifies the approved practice and its ministers, verse 2 gives the posture and addressee, and verse 3 records the spoken prayer. Within the prayer, invocation and blessing lead to remembrance, witness, commitments, the requested companionship of the Spirit, and "Amen." The companion prayer in [[Moroni 5]] and the close wording in Doctrine and Covenants 20 support prescribed or standardized use within these texts. They do not establish that every historical performance used immutable wording, nor does the overlap independently establish antiquity; direct reuse or shared Restoration-era production remains a sufficient alternative explanation.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual And Liturgical Pattern *(tentative)*
+> Moroni's introductory instruction, the set prayer following "saying," the companion formula in Moroni 5, and the close parallel in Doctrine and Covenants 20 support the conclusion that these texts preserve a standardized sacramental liturgy.
+> — strength 0.6 · confidence 0.8 · Prescribed pattern supported; historical uniformity uncertain
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the prayer witness willingness to take Christ's name rather than claim that participants have perfectly fulfilled every commitment?
+- How do the two uses of "always" connect remembrance and the companionship of the Spirit?
+- What does kneeling "with the church" suggest about the relationship between priesthood administration and congregational participation?
+- Which conclusions follow directly from the textual parallel with Doctrine and Covenants 20, and which claims about history or authorship would require additional evidence?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Read [[Moroni 5]] as the companion prayer over the wine, then Moroni 6:5–6 for the recurring worship of the church. Compare 3 Nephi 18:1–11, where Christ administers bread and wine and commands remembrance, with Doctrine and Covenants 20:75–79, which places closely parallel prayers within instructions for church practice. Note both the continuities and the differences in the bread and wine prayers.
 <!-- SG:END further-study -->
