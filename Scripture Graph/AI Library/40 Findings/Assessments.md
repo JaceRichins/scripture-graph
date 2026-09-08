@@ -138,6 +138,13 @@ The paired dog-and-sow imagery, preserved order, and close wording strongly supp
 
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
 
+### bom-ether5-witness-formula-intertext
+**Biblical witness-formula intertextuality and predictive framing in Ether 5:2-4** — *strong* (supports, discrimination 0.72) for: Ether 5:2-4 deliberately reuses the biblical two-or-three-witnesses legal-testimony formula (Deuteronomy 19:15 / 2 Corinthians 13:1) in framing the plates' three promised future witnesses, in the text's final English form.
+
+The mouth-of-three-witnesses/shall-be-established wording in Ether 5:2-4 strongly supports deliberate reuse of the biblical legal-testimony formula in the text's final form. Because the formula recurs at three separate KJV loci (Deuteronomy 19:15, Matthew 18:16, 2 Corinthians 13:1) available to any KJV-literate writer, and ancient composition rendered by translation, revelatory/editorial harmonization, and nineteenth-century authorship all predict the same wording, this gives only none-band support for identifying the promised witnesses specifically with the historical 1829 Three Witnesses as fulfilled foreknowledge, or for ancient authorship generally.
+
+Notes: [[Intertextual Legal Formula in Ether 5]]
+
 ### bom-alma40-epistemic-persona
 **Calibrated epistemic persona construction in Alma 40** — *strong* (supports, discrimination 0.78) for: The four-way distinction in Alma 40 between reported angelic revelation, acknowledged divine mystery, immaterial chronological detail, and stated personal opinion constitutes deliberate construction of a careful, epistemically self-aware prophetic persona.
 
@@ -524,11 +531,11 @@ The chapter clearly accumulates witness-related vocabulary and presents Nephi's 
 Notes: [[Internal Narrative Testimony in 3 Nephi 7]]
 
 ### bom-alma56-stripling-warriors-miracle-claim
-**Historical weight of the miraculous-preservation claim in Alma 56** — *none* (supports, discrimination 0.14) for: The survival and exceptional fighting of Helaman's two thousand soldiers are best explained by supernatural divine intervention.
+**Historical weight of the miraculous-preservation claim among the stripling warriors (Alma 56-57)** — *none* (supports, discrimination 0.14) for: The survival of all 2,060 wounded stripling warriors (200 of whom fainted from loss of blood), narrated in Alma 56-57, is best explained by supernatural intervention rather than ordinary battlefield causes.
 
-Alma 56 clearly frames the soldiers' survival and fighting as providential and miraculous, but the internally mediated report, viable natural and literary explanations, and absence of independent or comparative evidence give only none-band support for supernatural intervention as the best historical explanation.
+Alma 57 clearly frames the soldiers' survival and fighting as providential and miraculous, but the internally mediated report, viable natural and literary explanations, and absence of independent or comparative casualty evidence give only none-band support for supernatural intervention as the best historical explanation. Alma 56 and 57 narrate one continuous episode and are not independent evidence.
 
-Notes: [[Internal First-Person Narrative Testimony in Alma 56]]
+Notes: [[Internal First-Person Narrative Testimony in Alma 56]] · [[Reported Miracle And Theological Attribution in Alma 57]]
 
 ### bom-1nephi13-plain-precious-losses
 **Historical weight of the plain-and-precious-losses claim in 1 Nephi 13** — *none* (supports, discrimination 0.1) for: The wording of 1 Nephi 13 independently supports the historical claim that identifiable plain and precious teachings were deliberately removed from an apostolic record by a particular institution before its broad circulation.
