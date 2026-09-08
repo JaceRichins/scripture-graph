@@ -112,7 +112,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Great Is Thy Faithfulness",
           "a": "Chisholm & Runyan",
-          "yt": "mMEgkCbCTGo"
+          "yt": "mMEgkCbCTGo",
+          "church": "https://assets.churchofjesuschrist.org/yo/em/yoemcjv1n4m2bmkyj7mttq6tok8blu9n1m9jmt3r/great_is_thy_faithfulness.mp3",
+          "church_when": "Hymns For Home And Church",
+          "church_by": "Church recording"
         },
         {
           "t": "Be Thou My Vision",
@@ -180,7 +183,9 @@ a search in the music app. `cover` names a file in `covers/`.
           "t": "His Voice as the Sound",
           "a": "American folk hymn, arr. Mack Wilberg",
           "url": "",
-          "yt": "YUgSf9bVGig"
+          "yt": "YUgSf9bVGig",
+          "choir": "https://assets.churchofjesuschrist.org/c0/2f/c02fb1cfc0117beee86648bfd86b7ed697aa9864/2018_10_his_voice_as_the_sound.mp3",
+          "choir_when": "October 2018 General Conference"
         },
         {
           "t": "Deep River",
@@ -330,7 +335,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "The Lord Is My Shepherd",
           "a": "John Rutter",
-          "yt": "8f_0NgsWzfA"
+          "yt": "8f_0NgsWzfA",
+          "church": "https://assets.churchofjesuschrist.org/68/9e/689ea193d0e811ed8b20eeeeac1e5b79bba4066e/2023_04_the_lord_is_my_shepherd.mp3",
+          "church_when": "April 2023 General Conference",
+          "church_by": "Combined Choir from Brigham Young University"
         },
         {
           "t": "O Divine Redeemer",
@@ -485,7 +493,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "The Lord Is My Shepherd",
           "a": "Howard Goodall",
-          "yt": "EViB5epHMn8"
+          "yt": "EViB5epHMn8",
+          "church": "https://assets.churchofjesuschrist.org/68/9e/689ea193d0e811ed8b20eeeeac1e5b79bba4066e/2023_04_the_lord_is_my_shepherd.mp3",
+          "church_when": "April 2023 General Conference",
+          "church_by": "Combined Choir from Brigham Young University"
         },
         {
           "t": "Sleep",
@@ -735,7 +746,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Amazing Grace (My Chains Are Gone)",
           "a": "Chris Tomlin",
-          "yt": "Y-4NFvI5U9w"
+          "yt": "Y-4NFvI5U9w",
+          "church": "https://assets.churchofjesuschrist.org/03/0c/030c6247f4e711ee968feeeeac1e39233ae1f1ba/2024_04_amazing_grace.mp3",
+          "church_when": "April 2024 General Conference",
+          "church_by": "Utah Valley Institute Choir"
         },
         {
           "t": "Lord, I Need You",
@@ -750,7 +764,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Come Home",
           "a": "Tyler Castleton",
-          "yt": "kZH_QNjE46s"
+          "yt": "kZH_QNjE46s",
+          "church": "https://media2.ldscdn.org/assets/music/church-music-festival-spring-2016/2016-03-12-come-home-256k-eng.mp3",
+          "church_when": "Featured Music For Solos And Small Groups",
+          "church_by": "Church recording"
         },
         {
           "t": "O Come to the Altar",
@@ -892,12 +909,18 @@ a search in the music app. `cover` names a file in `covers/`.
           "a": "G. F. Handel",
           "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/Handel_Messiah_Hallelujah_by_Oratorio_Chorus.ogg/Handel_Messiah_Hallelujah_by_Oratorio_Chorus.ogg.mp3",
           "credit": "Handel Messiah Hallelujah by Oratorio Chorus.ogg (public domain)",
-          "yt": "BBZ7AfZR9xs"
+          "yt": "BBZ7AfZR9xs",
+          "church": "https://assets.churchofjesuschrist.org/w9/d9/w9d9cju2dqr4rs6sti7pfot9yehxeh7p84imd83r/hallelujah_burton.mp3",
+          "church_when": "Featured Music For Choirs",
+          "church_by": "Church recording"
         },
         {
           "t": "Great Is Thy Faithfulness",
           "a": "Chisholm & Runyan",
-          "yt": "mMEgkCbCTGo"
+          "yt": "mMEgkCbCTGo",
+          "church": "https://assets.churchofjesuschrist.org/yo/em/yoemcjv1n4m2bmkyj7mttq6tok8blu9n1m9jmt3r/great_is_thy_faithfulness.mp3",
+          "church_when": "Hymns For Home And Church",
+          "church_by": "Church recording"
         },
         {
           "t": "Holy, Holy, Holy",
@@ -910,7 +933,10 @@ a search in the music app. `cover` names a file in `covers/`.
           "t": "Gloria (Vivaldi)",
           "a": "Antonio Vivaldi",
           "yt": "8ztlrVUMH3A",
-          "url": ""
+          "url": "",
+          "church": "https://assets.churchofjesuschrist.org/85/de/85de4cfe1d5b11ec99eeeeeeac1ea220d9697c63/2021_09_gloria_shippen_vocals_eng.mp3",
+          "church_when": "Peace Peace Be Still 2021 Church Music Festival",
+          "church_by": "Utah Valley Institute Singers"
         },
         {
           "t": "Thank You Lord",
@@ -1424,12 +1450,18 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Scripture Power",
           "a": "Clive Romney",
-          "yt": "Xb_R8Za0IN8"
+          "yt": "Xb_R8Za0IN8",
+          "church": "https://assets.churchofjesuschrist.org/eb/34/eb34ae50facd2a770b58584b82892d50828e709d/scripture_power_vocal_accompaniment_eng.mp3",
+          "church_when": "Additional Songs For Children",
+          "church_by": "Church recording"
         },
         {
           "t": "The Family Is of God",
           "a": "Matthew Neeley",
-          "yt": "H6tj7A_RXb4"
+          "yt": "H6tj7A_RXb4",
+          "church": "https://assets.churchofjesuschrist.org/f1/d1/f1d1d7a865d1e168417d7a0ad9b91c43b34d24f3/the_family_is_of_god_vocal_accompaniment_eng.mp3",
+          "church_when": "Additional Songs For Children",
+          "church_by": "Church recording"
         },
         {
           "t": "Gethsemane",
@@ -1592,7 +1624,10 @@ a search in the music app. `cover` names a file in `covers/`.
           "t": "Hallelujah Chorus (Mount of Olives)",
           "a": "Ludwig van Beethoven",
           "url": "",
-          "yt": "xK-IHpN1HBs"
+          "yt": "xK-IHpN1HBs",
+          "church": "https://assets.churchofjesuschrist.org/53/17/53177b22a22498c5f93cd1e507897bc40083a952/hallelujah_chorus.mp3",
+          "church_when": "First Presidencys Christmas Devotionals",
+          "church_by": "Church recording"
         },
         {
           "t": "Morning Mood (Peer Gynt)",
@@ -1951,7 +1986,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Send Me",
           "a": "Lecrae",
-          "yt": "N5F_NpYutiI"
+          "yt": "N5F_NpYutiI",
+          "church": "https://assets.churchofjesuschrist.org/db/2a/db2a67ed472611ec87bbeeeeac1ee10b1230ad79/send_me_eng.mp3",
+          "church_when": "Trust In The Lord 2022 Youth Album",
+          "church_by": "Patch Crowe"
         }
       ]
     },
@@ -2324,7 +2362,10 @@ a search in the music app. `cover` names a file in `covers/`.
           "a": "G. F. Handel",
           "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/Handel_Messiah_Hallelujah_by_Oratorio_Chorus.ogg/Handel_Messiah_Hallelujah_by_Oratorio_Chorus.ogg.mp3",
           "credit": "Handel Messiah Hallelujah by Oratorio Chorus.ogg (public domain)",
-          "yt": "BBZ7AfZR9xs"
+          "yt": "BBZ7AfZR9xs",
+          "church": "https://assets.churchofjesuschrist.org/w9/d9/w9d9cju2dqr4rs6sti7pfot9yehxeh7p84imd83r/hallelujah_burton.mp3",
+          "church_when": "Featured Music For Choirs",
+          "church_by": "Church recording"
         },
         {
           "t": "The Spirit of God",
@@ -2343,7 +2384,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Battle Hymn of the Republic",
           "a": "Tabernacle Choir at Temple Square",
-          "yt": "G9anfFdAr3E"
+          "yt": "G9anfFdAr3E",
+          "church": "https://assets.churchofjesuschrist.org/0d/33/0d3332c4edba572feccff30adfb2e19db691f486/battle_hymn_of_the_republic_vocal_accompaniment_eng.mp3",
+          "church_when": "Hymns",
+          "church_by": "Church recording"
         },
         {
           "t": "O Divine Redeemer",
@@ -2409,7 +2453,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Nearer, My God, to Thee (BYU Vocal Point)",
           "a": "BYU Vocal Point",
-          "yt": "o1trWhBvZTs"
+          "yt": "o1trWhBvZTs",
+          "church": "https://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-3002-nearer-my-god-to-thee-256k-eng.mp3",
+          "church_when": "April 2013 General Conference",
+          "church_by": "Men’s choir"
         },
         {
           "t": "Requiem: Pie Jesu",
@@ -2532,7 +2579,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Great Is Thy Faithfulness",
           "a": "Chisholm & Runyan",
-          "yt": "mMEgkCbCTGo"
+          "yt": "mMEgkCbCTGo",
+          "church": "https://assets.churchofjesuschrist.org/yo/em/yoemcjv1n4m2bmkyj7mttq6tok8blu9n1m9jmt3r/great_is_thy_faithfulness.mp3",
+          "church_when": "Hymns For Home And Church",
+          "church_by": "Church recording"
         },
         {
           "t": "Waymaker",
@@ -2662,7 +2712,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "O Holy Night",
           "a": "Adolphe Adam",
-          "yt": "TiBboiXW6b0"
+          "yt": "TiBboiXW6b0",
+          "church": "https://assets.churchofjesuschrist.org/a9/11/a911e2243707a9a35435e1338a4df9ef0934e601/o_holy_night.mp3",
+          "church_when": "Music From The Latter Day Saints Channel",
+          "church_by": "Robert Elliott"
         },
         {
           "t": "O Come, O Come, Emmanuel",
@@ -2675,7 +2728,10 @@ a search in the music app. `cover` names a file in `covers/`.
           "a": "Gustav Holst",
           "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/Gustav_Theodore_Holst_-_In_the_Bleak_Midwinter_-_%28A_Christmas_Carol%29.ogg/Gustav_Theodore_Holst_-_In_the_Bleak_Midwinter_-_%28A_Christmas_Carol%29.ogg.mp3",
           "credit": "Gustav Theodore Holst - In the Bleak Midwinter - (A Christmas Carol).ogg (public domain)",
-          "yt": "OB2bCpROFv8"
+          "yt": "OB2bCpROFv8",
+          "church": "https://assets.churchofjesuschrist.org/6f/55/6f555a0d515011ec9f5aeeeeac1e05a8eb142935/in_the_bleak_midwinter_eng.mp3",
+          "church_when": "Witnesses Of Christ",
+          "church_by": "Rise Up Children’s Choir"
         },
         {
           "t": "Mary, Did You Know?",
@@ -2798,7 +2854,10 @@ a search in the music app. `cover` names a file in `covers/`.
           "t": "Were You There?",
           "a": "Spiritual",
           "yt": "kN3tYsZb-t0",
-          "url": ""
+          "url": "",
+          "church": "https://assets.churchofjesuschrist.org/vs/no/vsnosqsl7eiu418y0pxcxp161osgqwobzgswjuzu/2025_04_were_you_there.mp3",
+          "church_when": "April 2025 General Conference",
+          "church_by": "Combined Choir from BYU"
         },
         {
           "t": "I Know That My Redeemer Liveth",
@@ -2809,7 +2868,10 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Because He Lives",
           "a": "Bill & Gloria Gaither",
-          "yt": "spa7WkwjwGw"
+          "yt": "spa7WkwjwGw",
+          "church": "https://assets.churchofjesuschrist.org/ax/fw/axfwtqdb4b3zro8zqntgwci3qhelik4as3a4ldpk/because_he_lives_2025.mp3",
+          "church_when": "Look Unto Christ 2025 Youth Album",
+          "church_by": "Nik Day"
         },
         {
           "t": "Easter Hymn (Cavalleria rusticana)",
