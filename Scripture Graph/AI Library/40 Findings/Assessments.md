@@ -271,12 +271,33 @@ The explicit 'like unto Moses' comparison together with matched deliverance and 
 
 Notes: [[Literary Typology in 2 Nephi 3]]
 
+### bom-mosiah10-grievance-narrative-construction
+**Deliberate conflict-mobilization narrative construction in Mosiah 10** — *strong* (supports, discrimination 0.75) for: Zeniff's account of inherited grievance, parental teaching, and royal persuasion in Mosiah 10 reflects the text's deliberate construction of a conflict-mobilization narrative mechanism, distinct from whether that account accurately and completely explains the historical causes of the conflict.
+
+Mosiah 10 strongly supports that its final text deliberately represents inherited grievance and royal persuasion as mechanisms mobilizing conflict, the same evidence class already registered strong elsewhere in the corpus. Because a single interested narrator's account is equally well produced by authentic memory and by self-serving wartime framing of that same memory (not mutually exclusive models), it gives only weak, non-discriminating support for the account being a complete or accurate history of the conflict's causes.
+
+Notes: [[Internal Narrative Evidence in Mosiah 10]]
+
+### bom-mormon6-eyewitness-narrative-construction
+**Deliberate eyewitness/survivor-narrative construction in Mormon 6** — *strong* (supports, discrimination 0.74) for: The wounded-survivor viewpoint, naming of Moroni among the survivors, and next-day Cumorah survey in Mormon 6:10-12 reflect deliberate eyewitness-style narrative construction in the final text, distinct from whether the described battle occurred as narrated.
+
+Mormon 6:10-12 strongly supports deliberate eyewitness-style narrative construction, matching the corpus's established Internal Narrative Evidence convention (bom-alma54-logistics-motive-evidence 0.78, bom-alma55-restraint-ethical-framing 0.78, Internal Narrative Evidence in Mosiah 26 0.9). It gives only none-band, non-discriminating support for the battle's external historicity, since a crafted literary voice predicts the identical situated detail as an authentic memoir would.
+
+Notes: [[Internal Narrative Evidence in Mormon 6]]
+
 ### bom-alma46-garment-pattern
 **Deliberate literary design of the rent-garment covenant pattern in Alma 46** — *strong* (supports, discrimination 0.8) for: The rending-of-garments sequence in Alma 46:12-27 (Moroni's coat, the people's garments, and the Joseph/Jacob interpretation) reflects deliberate literary/theological design in the final-form text, rather than an incidental sequence of events only retrospectively perceived as patterned.
 
 Moroni's own reported speech explicitly ties the rent-garment action to Joseph's coat and Jacob's preserved-remnant prophecy, which is strong evidence that the final text deliberately builds a unified garment/covenant/remnant symbol rather than a reader-constructed connection. This bears only on final-form design and gives no independent traction on the text's date, language of composition, historicity, or inspiration.
 
 Notes: [[Literary Pattern in Alma 46]]
+
+### bom-moroni9-collapse-narrative-construction
+**Deliberate rapid-collapse contrast construction in Moroni 9** — *strong* (supports, discrimination 0.74) for: The parenthetical recollection in Moroni 9:12 that the people were 'civil and delightsome' only a few years earlier reflects the letter's deliberate construction of a rapid-collapse contrast, distinct from whether the collapse's actual pace, cause, or extent matches that recollection.
+
+The parenthetical strongly supports a deliberately constructed rapid-collapse contrast within the letter, consistent with the corpus's Internal Narrative Evidence convention, but because rhetorical rounding and narrative compression predict the same wording about as well as a precise eyewitness chronology, it gives only weak, non-discriminating support for the collapse's actual historical pace, cause, or extent.
+
+Notes: [[Internal Narrative Evidence in Moroni 9]]
 
 ### bom-3nephi27-sermon-reprise
 **Deliberate reprise of 3 Nephi 14 in 3 Nephi 27** — *strong* (supports, discrimination 0.78) for: The received wording of 3 Nephi 27 deliberately reprises the ask-and-knock and two-gates teachings already presented in 3 Nephi 14 rather than reproducing both ordered clusters by coincidence.
