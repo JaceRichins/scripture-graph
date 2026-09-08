@@ -2,9 +2,10 @@
 ownership: system
 mutable: ai
 content_type: question
-status: queued
+status: developed
 scope: book-of-mormon
 sg-id: question:why-did-the-lamanite-introduction-change-in-2006
+corpus_version_reviewed: 22
 ---
 
 # Why did the Lamanite introduction change in 2006?
