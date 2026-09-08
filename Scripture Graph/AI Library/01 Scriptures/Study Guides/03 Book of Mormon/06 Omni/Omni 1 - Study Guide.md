@@ -134,7 +134,7 @@ Amaleki also places record-rich and record-poor communities in meaningful proxim
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary-Thematic
 > The repeated association among records, genealogy, language, religious memory, interpretation, and political continuity provides moderately strong internal evidence that record preservation is a governing literary theme of the chapter.
-> — strength 0.7 · confidence 0.9 · Strong internal theme; broader historical implications denied · [[Literary-Thematic in Omni 1|full dossier]]
+> — confidence 0.9 · Strong internal theme; broader historical implications denied · [[Literary-Thematic in Omni 1|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

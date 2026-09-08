@@ -126,7 +126,7 @@ The chapter also constructs an irony around kingship. Alma, a repentant former p
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Organization
 > The recurrence and reversal of warning, liberty, trust, bondage, and deliverance provide moderately strong internal evidence that the chapter is deliberately organized as a theological narrative rather than a mere chronological list of events.
-> — strength 0.6 · confidence 0.9 · Literary pattern accepted; implications limited · [[Literary Organization in Mosiah 23|full dossier]]
+> — confidence 0.9 · Literary pattern accepted; implications limited · [[Literary Organization in Mosiah 23|full dossier]]
 
 > [!evidence] English Textual Dependence
 > Mosiah 23:13 closely parallels the English wording of Galatians 5:1. This is strong evidence that the Book of Mormon's English text participates in King James biblical diction, but the observation by itself cannot determine whether that diction arose through translation, conscious literary imitation, or another mode of composition.

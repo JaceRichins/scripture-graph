@@ -107,7 +107,7 @@ Two tensions organize the chapter. First, battlefield competence and moral legit
 
 > [!evidence] Literary And Narrative Evidence
 > The close juxtaposition of theological judgment with concrete battlefield causes is strong evidence that Mormon 4 is written as theological historiography: its narrator selects and interprets military events to teach moral meaning while retaining practical explanations for outcomes.
-> — strength 0.9 · confidence 0.9 · Strong literary classification · [[Literary And Narrative Evidence in Mormon 4|full dossier]]
+> — confidence 0.9 · Strong literary classification · [[Literary And Narrative Evidence in Mormon 4|full dossier]]
 
 > [!evidence] Literary/Theological *(tentative)*
 > The chapter's willingness to blame Nephite aggression for their own losses (vv.4-5) and to declare Nephite wickedness worse than any prior Israelite generation (v.12) is evidence that this war narrative is not simple Nephite self-justification propaganda.

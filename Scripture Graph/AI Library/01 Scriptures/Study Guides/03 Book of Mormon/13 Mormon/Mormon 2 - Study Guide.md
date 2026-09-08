@@ -109,7 +109,7 @@ The narrative repeatedly frustrates an expected equation between outward improve
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative Source Differentiation
 > The distinction between a fuller record on the plates of Nephi and a selective account on the present plates is evidence that the narrator presents his work as conscious historiographical selection rather than exhaustive reporting.
-> — strength 0.9 · confidence 1.0 · strong agreement with stated limitation · [[Narrative Source Differentiation in Mormon 2|full dossier]]
+> — strength 0.6 · confidence 1.0 · strong agreement with stated limitation · [[Narrative Source Differentiation in Mormon 2|full dossier]]
 
 > [!evidence] Intratextual Narrative Continuity
 > Mormon 2:10 explicitly interprets the inability to retain possessions as fulfillment of Samuel's warning in Helaman 13 that, because of iniquity, riches would become insecure or lost. This is strong evidence for deliberate narrative continuity between the Samuel account and Mormon's history.

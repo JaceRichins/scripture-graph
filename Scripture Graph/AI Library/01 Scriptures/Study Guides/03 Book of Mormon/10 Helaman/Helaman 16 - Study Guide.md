@@ -113,11 +113,11 @@ The objection in verses 18–20 also creates forward-looking tension: the people
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary And Internal Predictive Sequence
 > Within the narrative, the sequence of prior announcement, later signs, and explicit recognition of fulfillment supplies evidence for the reliability of the prophets and creates continuity between Helaman 14, Helaman 16, and 3 Nephi 1.
-> — strength 0.4 · confidence 0.9 · Strong literary coherence; weak independent historical evidence · [[Literary And Internal Predictive Sequence in Helaman 16|full dossier]]
+> — strength 0.7 · confidence 1.0 · Strong literary coherence; weak independent historical evidence · [[Literary And Internal Predictive Sequence in Helaman 16|full dossier]]
 
 > [!evidence] Narrative Pattern Of Evidence And Response
 > Helaman 16 strongly supports the narrower literary claim that, in this narrative, additional signs do not guarantee persuasion: attacks fail, prophetic signs arrive, angels appear, and miracles continue, yet widespread disbelief and hardening remain.
-> — strength 0.9 · confidence 1.0 · Strong narrower literary conclusion · [[Narrative Pattern Of Evidence And Response in Helaman 16|full dossier]]
+> — confidence 1.0 · Strong narrower literary conclusion · [[Narrative Pattern Of Evidence And Response in Helaman 16|full dossier]]
 
 > [!evidence] Intertextual Echo (English Translation Layer) *(tentative)*
 > Helaman 16:14's phrase describing angels declaring 'glad tidings of great joy' to 'wise men' echoes vocabulary distributed between Luke's annunciation to shepherds ('good tidings of great joy') and Matthew's wise men (Magi) narrative. This textual echo is interesting but ambiguous: it could reflect intentional design in the underlying record, a translation choice drawing on KJV idiom, or simple coincidence of common religious phrasing.

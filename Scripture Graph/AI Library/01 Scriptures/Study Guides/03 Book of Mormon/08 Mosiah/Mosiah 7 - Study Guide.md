@@ -128,7 +128,7 @@ The speech also serves as a compact narrative preview. Zeniff's settlement, King
 <!-- SG:BEGIN evidence -->
 > [!evidence] Narrative And Editorial Coherence
 > Mosiah 7 functions coherently as a narrative frame for the ensuing retrospective history: its compressed references to Zeniff's settlement, Lamanite deception, the half tribute, prophetic preaching, and the prophet's death correspond to episodes narrated in Mosiah 9–17 and Mosiah 19.
-> — strength 0.6 · confidence 1.0 · final-form coherence accepted; provenance disputed · [[Narrative And Editorial Coherence in Mosiah 7|full dossier]]
+> — confidence 1.0 · final-form coherence accepted; provenance disputed · [[Narrative And Editorial Coherence in Mosiah 7|full dossier]]
 
 > [!evidence] Possible Literary Allusion *(tentative)*
 > Ammon's company wanders in the wilderness for forty days, and Limhi later invokes Israel's wilderness deliverance. The juxtaposition permits a possible biblical wilderness echo, but the chapter does not explicitly interpret the forty days symbolically.

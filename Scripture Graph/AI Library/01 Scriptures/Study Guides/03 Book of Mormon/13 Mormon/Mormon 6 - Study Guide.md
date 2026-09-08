@@ -115,7 +115,7 @@ The detailed roll of “ten thousand” groups has the character of a casualty r
 
 > [!evidence] Numerical And Military Terminology
 > The repeated expression 'ten thousand' supports the conclusion that the text portrays casualties on an enormous scale. It is less certain whether every occurrence is intended as an exact headcount, a rounded number, or the designation of a military body.
-> — strength 0.6 · confidence 0.9 · large scale secure; exact interpretation disputed · [[Numerical And Military Terminology in Mormon 6|full dossier]]
+> — strength 0.2 · confidence 0.9 · large scale secure; exact interpretation disputed · [[Numerical And Military Terminology in Mormon 6|full dossier]]
 
 > [!evidence] Internal Literary/Narrative Consistency *(tentative)*
 > Mormon's practice of exchanging a formal epistle with an enemy king before battle (Mormon 6:2-3) is internally consistent with other Nephite-Lamanite wartime correspondence recorded elsewhere in the record (e.g., the epistles in Alma 54 and Alma 56), which supports the record's internal narrative consistency but does not by itself establish that such diplomatic exchanges reflect an actual ancient historical practice.

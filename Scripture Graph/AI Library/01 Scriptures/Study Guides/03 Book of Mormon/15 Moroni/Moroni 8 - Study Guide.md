@@ -134,7 +134,7 @@ Verses 25–26 form a cumulative chain in which one spiritual result leads to an
 
 > [!evidence] Literary And Theological Coherence
 > The sustained progression from accountability to repentance, baptism, remission, the Holy Ghost, hope, love, endurance, and salvation is evidence of a carefully integrated theological argument rather than a bare prohibition of infant baptism. This is meaningful literary evidence of coherence but weak evidence for any particular theory of origin.
-> — strength 0.4 · confidence 0.9 · coherence accepted; origin implications weak · [[Literary And Theological Coherence in Moroni 8|full dossier]]
+> — confidence 0.9 · coherence accepted; origin implications weak · [[Literary And Theological Coherence in Moroni 8|full dossier]]
 
 > [!evidence] Internal Textual Claim About Ancient Practice
 > The chapter asserts, as an internal historical claim, that a real doctrinal dispute over infant baptism existed among Mormon's people; this is an in-text assertion only and is not independently corroborated by any external record of ancient American religious practice.

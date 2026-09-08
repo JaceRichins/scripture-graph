@@ -139,7 +139,7 @@ There is also an effective contrast between two interpretations of the same grou
 
 > [!evidence] Narrative And Literary Structure
 > The chapter presents a coherent progression from private preaching to covenant initiation, church organization, communal discipline, economic care, discovery, and flight. This strongly supports reading Mosiah 18 as a deliberately structured account of community formation under persecution.
-> — strength 0.8 · confidence 1.0 · Strong literary reading with appropriate limitations · [[Narrative And Literary Structure in Mosiah 18|full dossier]]
+> — confidence 1.0 · Strong literary reading with appropriate limitations · [[Narrative And Literary Structure in Mosiah 18|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

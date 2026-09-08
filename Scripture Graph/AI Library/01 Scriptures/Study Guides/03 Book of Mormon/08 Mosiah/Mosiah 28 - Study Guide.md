@@ -121,7 +121,7 @@ The allusion to the great tower, confounded language, scattering, and Adam place
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Structure
 > The narrator twice postpones fuller accounts—first the sons' missionary proceedings and then the translated record—creating a deliberate roadmap to later narrative units.
-> — strength 0.7 · confidence 1.0 · Strong literary observation; implications limited · [[Literary Structure in Mosiah 28|full dossier]]
+> — confidence 1.0 · Strong literary observation; implications limited · [[Literary Structure in Mosiah 28|full dossier]]
 
 > [!evidence] Internal Narrative Consistency *(tentative)*
 > The Lord's promise in v. 7 that 'many shall believe on their words' is narratively consistent with the extensive Lamanite conversions later recounted in the account of the sons of Mosiah's mission, but this consistency is internal to a single compiled record rather than independent confirmation.

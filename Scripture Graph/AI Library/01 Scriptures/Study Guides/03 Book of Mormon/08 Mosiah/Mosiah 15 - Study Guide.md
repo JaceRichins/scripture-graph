@@ -131,7 +131,7 @@ The threefold sequence “were,” “are,” and “shall hereafter” in verse
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary Coherence And Intertextuality
 > Mosiah 15 forms a sustained exposition of adjacent Isaianic servant and herald texts: it applies the silent-sheep image, answers the questions about generation and seed, interprets the publisher of peace, and concludes with Isaiah's watchmen and universal vision of salvation. This is strong internal evidence of deliberate literary coherence across Mosiah 14–15.
-> — strength 0.9 · confidence 1.0 · Strong internal literary observation · [[Literary Coherence And Intertextuality in Mosiah 15|full dossier]]
+> — confidence 1.0 · Strong internal literary observation · [[Literary Coherence And Intertextuality in Mosiah 15|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

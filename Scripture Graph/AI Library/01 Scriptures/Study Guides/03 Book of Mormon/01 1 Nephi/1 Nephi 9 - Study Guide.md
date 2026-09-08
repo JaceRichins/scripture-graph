@@ -95,7 +95,7 @@ Verse 1 closes the preceding account of Lehi's vision, while verses 2–6 functi
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary And Editorial Pattern
 > The repeated distinction among record types across 1 Nephi, Jacob, and Words of Mormon is strong evidence that the Book of Mormon's final text contains a sustained and self-conscious recordkeeping framework.
-> — strength 0.9 · confidence 1.0 · broadly accepted literary observation · [[Literary And Editorial Pattern in 1 Nephi 9|full dossier]]
+> — confidence 1.0 · broadly accepted literary observation · [[Literary And Editorial Pattern in 1 Nephi 9|full dossier]]
 
 > [!evidence] Canonical/Historical *(tentative)*
 > Within the wider Latter-day Saint canon, the 'wise purpose' Nephi says he does not know (1 Nephi 9:5) is later tied by D&C 10 to the 1828 loss of the first 116 manuscript pages (the large-plates translation): that revelation directs Joseph Smith not to retranslate the lost portion but to translate from the small plates of Nephi instead, on the premise that a more complete spiritual record had already been prepared for such a contingency.
