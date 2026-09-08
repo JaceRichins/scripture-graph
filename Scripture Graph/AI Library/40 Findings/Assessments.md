@@ -187,6 +187,13 @@ Mormon 5:8-14 clusters selection/abridgment, audience, preservation, an explicit
 
 Notes: [[Internal Literary Evidence in Mormon 5]]
 
+### bom-mormon1-eyewitness-persona
+**Construction of Mormon's eyewitness and record-keeper persona** — *strong* (supports, discrimination 0.65) for: Mormon 1 deliberately constructs Mormon as a lifelong observer and record-keeper whose childhood preparation authorizes his later narrative voice.
+
+The first-person seen-and-heard formula, successive age notices, and observe-remember-engrave commission strongly support deliberate construction of a lifelong-observer persona in the final text. The construction does not independently discriminate between an actual ancient memoirist, later redaction, and literary characterization.
+
+Notes: [[Narrative Self-Presentation in Mormon 1]]
+
 ### bom-1nephi6-editorial-persona
 **Construction of Nephi as a self-conscious editor in 1 Nephi 6** — *strong* (supports, discrimination 0.84) for: The final-form chapter deliberately constructs Nephi as a self-conscious editor who distinguishes sources, selects material, invokes a physical constraint, states a theological purpose, and directs later custodians.
 
@@ -333,6 +340,13 @@ Notes: [[Intertextual-Parallel in 2 Nephi 26]] · [[Scriptural Intertextuality i
 The exact three-word expression "breathing out threatenings" moderately supports English biblical mediation. Missing pre-1830 controls, an unreported search denominator, and plausible indirect transmission prevent a strong inference of direct borrowing from Acts 9:1 and leave loose translation and nineteenth-century composition unresolved.
 
 Notes: [[English Biblical Intertext in 3 Nephi 5]]
+
+### bom-mormon6-exact-ten-thousand-counts
+**Exactness of the repeated "ten thousand" figures in Mormon 6** — *weak* (challenges, discrimination 0.2) for: Every occurrence of "ten thousand" in Mormon 6:10–15 is intended as a literal and exact casualty or troop headcount.
+
+The highly schematic repetition of the same round figure across numerous commanders weakly challenges the proposition that every occurrence is an exact headcount and makes rounded or literary enumeration plausible. A variable-strength military-unit designation remains possible but lacks independent textual or ancient American support, so the passage does not establish a reduced casualty total.
+
+Notes: [[Numerical And Military Terminology in Mormon 6]]
 
 ### pgp-moses-genesis-expansions
 **Expansions in Moses 3 Relative to Genesis 2** — *none* (neutral, discrimination 0.05) for: The expansions in Moses 3 (spiritual-creation clause, free-choice clause) derive from an ancient or revelatory source rather than ordinary modern interpretive composition.
@@ -942,6 +956,13 @@ Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
 The ordered challenge, sign-demand, affliction, and confession parallels between Korihor (Alma 30) and Sherem (Jacob 7) moderately support deliberate final-form patterning, but Korihor's death is a delayed mob killing among a separate people rather than a proximate consequence of his affliction, unlike Sherem's. The divergent death beat, the small pool of only two clear anti-Christ figures in the text (limiting how diagnostic the match can be), the availability of a conventional cautionary-narrative template, and missing matched controls keep this below the strong band and leave the transmission mechanism, direction, and historicity unresolved.
 
 Notes: [[Literary Intertextuality in Alma 30]]
+
+### bom-mormon2-editorial-persona
+**Source and selection differentiation in Mormon 2** — *moderate* (supports, discrimination 0.58) for: Mormon 2:17–18 deliberately presents Mormon as a source-conscious editor who differentiates a fuller record from the selective present account.
+
+The explicit full-account/forbore-to-make-a-full-account contrast moderately supports deliberate construction of a source-conscious editorial persona. This two-element source-and-selection notice is comparable to Helaman 3's partial cluster and does not independently authenticate either set of plates or discriminate between ancient record management and literary characterization.
+
+Notes: [[Narrative Source Differentiation in Mormon 2]]
 
 ### bom-helaman3-editorial-persona
 **Source/selection notice as editorial-persona construction in Helaman 3** — *moderate* (supports, discrimination 0.58) for: Helaman 3:13-17's source/selection notice evidences deliberate construction of a source-conscious editorial persona, the narrower single-element instance of the class registered at bom-1nephi6-editorial-persona and bom-3nephi5-editorial-persona.

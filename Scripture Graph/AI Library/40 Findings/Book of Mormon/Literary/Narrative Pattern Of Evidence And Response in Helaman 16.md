@@ -7,24 +7,37 @@ created_by: librarian:job-hel-16-20260906-210257-6817ae59
 created_at: '2026-09-06T21:10:39Z'
 evidence_class: narrative pattern of evidence and response
 claim_confidence: 0.97
-evidence_strength: 0.91
 study_relevance: 0.99
 source_quality: 0.99
 consensus_status: broadly accepted
+note_kind: context
+calibrated_at: '2026-09-08T18:06:49Z'
+calibration_version: 2
 ---
 
 # Narrative Pattern Of Evidence And Response in Helaman 16
 
 ## Summary
 <!-- SG:BEGIN summary -->
-Helaman 16 strongly supports the narrower literary claim that, in this narrative, additional signs do not guarantee persuasion: attacks fail, prophetic signs arrive, angels appear, and miracles continue, yet widespread disbelief and hardening remain.
-
-**Does not establish:** It does not establish that all skepticism is culpable, that every claimed miracle should be accepted, or that evidence is irrelevant to faith.
-
-**Alternative explanations:**
-- The pattern may reflect the narrator's theological characterization rather than a complete account of the unbelievers' motives.
-- Some objections could arise from concern about unverifiable authority claims, not merely moral rebellion.
-- The narrative does not report each person's access to or examination of every sign.
-
-**Scripture:** [[Helaman 16#^hel-16-2|Helaman 16:2-6]], [[Helaman 16#^hel-16-13|Helaman 16:13-16]], [[Helaman 16#^hel-16-22|Helaman 16:22-23]]
+Helaman 16:2–6, 13–16, and 22–23 create a sustained contrast between extraordinary signs and varied responses. Some believe, but additional signs do not end disbelief; the chapter therefore presents persuasion as involving interpretation and disposition rather than evidence operating mechanically.
 <!-- SG:END summary -->
+
+## Observation
+<!-- SG:BEGIN observation -->
+Helaman 16 juxtaposes Samuel's survival of attacks and the conversion of some observers with later signs, wonders, angelic appearances, and miracles. The chapter nevertheless reports increasing disbelief and concludes with the narrator's account of rumors, contention, and hardened hearts.
+<!-- SG:END observation -->
+
+## Interpretation
+<!-- SG:BEGIN interpretation -->
+The chapter portrays signs as capable of prompting belief without compelling a uniform response. It interprets continuing resistance through social conflict, prior commitments, and moral or spiritual disposition.
+<!-- SG:END interpretation -->
+
+## Historical Significance
+<!-- SG:BEGIN historical-significance -->
+The sequence illuminates a recurring scriptural concern with contested signs: reported wonders acquire narrative meaning through differing human responses and through the narrator's interpretation of those responses.
+<!-- SG:END historical-significance -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+A plausible literary reconstruction treats the chapter as an escalation closing Samuel's ministry: his extraordinary escape persuades some observers, subsequent signs broaden the setting, and opposition nevertheless hardens. This progression allows the narrative to affirm that signs matter while portraying persuasion as dependent on interpretation and disposition as well as exposure to reported events.
+<!-- SG:END how-it-fits -->
