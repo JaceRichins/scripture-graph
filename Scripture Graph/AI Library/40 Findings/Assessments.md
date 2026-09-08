@@ -439,6 +439,13 @@ The ordered wording "stand fast ... liberty wherewith ... made free" strongly su
 
 Notes: [[English Textual Dependence in Mosiah 23]]
 
+### bom-alma61-galatians5-intertext
+**Galatians 5:1 mediation of the liberty-and-bondage language in Alma 61** — *strong* (supports, discrimination 0.72) for: Alma 61 deliberately mediates the specific wording of Galatians 5:1 in its final English form rather than exhibiting only independent thematic convergence.
+
+The near-verbatim stand-fast, liberty, and made-free sequence in Alma 61:21, reinforced by "the yoke of bondage" in verse 12, strongly supports deliberate Galatians 5:1 or KJV-shaped mediation in the final English text. Missing matched controls and viable translation, harmonization, and nineteenth-century-composition mechanisms prevent the relationship from determining date, authorship, historicity, or inspiration.
+
+Notes: [[Verbal Intertextuality in Alma 61]]
+
 ### bom-moroni6-hebrews12-intertext
 **Hebrews 12:2 mediation in Moroni 6:4** — *strong* (supports, discrimination 0.8) for: Moroni 6:4's final English wording reflects textual or translation-level mediation through the KJV wording of Hebrews 12:2 rather than independent coincidence.
 
