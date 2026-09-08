@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.46 build a21c69ad6 2026-09-08T22:55:16Z */
+/* scripture-graph v0.72.47 build e200da197 2026-09-08T23:01:16Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.46", sha: "a21c69ad6", at: "2026-09-08T22:55:16Z" };
+    define_SG_BUILD_default = { version: "0.72.47", sha: "e200da197", at: "2026-09-08T23:01:16Z" };
   }
 });
 
@@ -10089,14 +10089,14 @@ var init_timelineView = __esm({
           y3 += ROW;
         }
         const H = y3 + BOTTOM;
-        const NS = "http://www.w3.org/2000/svg";
-        const svg = document.createElementNS(NS, "svg");
+        const NS2 = "http://www.w3.org/2000/svg";
+        const svg = document.createElementNS(NS2, "svg");
         svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
         svg.setAttribute("width", String(W));
         svg.setAttribute("height", String(H));
         svg.classList.add("sg-tl-svg");
         const el = (tag, attrs, parent = svg) => {
-          const n = document.createElementNS(NS, tag);
+          const n = document.createElementNS(NS2, tag);
           for (const [k, v] of Object.entries(attrs)) n.setAttribute(k, v);
           parent.appendChild(n);
           return n;
@@ -13853,8 +13853,25 @@ var OPEN_AT_START = 3;
 var OPEN_PER_TAP = 2;
 var NODE = 72;
 var SLOT_W = 150;
-var ROW_H = 168;
-var LABEL_H = 44;
+var ROW_H = 176;
+var TRUNK_H = 150;
+var NS = "http://www.w3.org/2000/svg";
+function limbWidth(depth) {
+  return Math.max(3.5, 18 * Math.pow(0.7, depth));
+}
+function seeded(pid) {
+  let h = 2166136261;
+  for (const ch of pid) {
+    h ^= ch.charCodeAt(0);
+    h = Math.imul(h, 16777619);
+  }
+  return () => {
+    h ^= h << 13;
+    h ^= h >>> 17;
+    h ^= h << 5;
+    return (h >>> 0) % 1e4 / 1e4;
+  };
+}
 async function loadTree(app) {
   let f = app.metadataCache.getFirstLinkpathDest("Family Tree", "");
   if (!(f instanceof import_obsidian6.TFile) && lazyFetch) {
@@ -13985,7 +14002,7 @@ var FamilyTree = class {
     const before = anchor ? this.nodes.get(anchor)?.getBoundingClientRect() : null;
     const placed = this.layout();
     const xs = placed.map((p) => p.x), ys = placed.map((p) => p.y);
-    this.bounds = { minX: Math.min(...xs) - SLOT_W / 2, maxX: Math.max(...xs) + SLOT_W / 2, minY: Math.min(...ys) - NODE, maxY: Math.max(...ys) + NODE + LABEL_H };
+    this.bounds = { minX: Math.min(...xs) - SLOT_W, maxX: Math.max(...xs) + SLOT_W, minY: Math.min(...ys) - NODE * 1.5, maxY: NODE / 2 + TRUNK_H + 40 };
     const b = this.bounds;
     svg.setAttribute("viewBox", `${b.minX} ${b.minY} ${b.maxX - b.minX} ${b.maxY - b.minY}`);
     svg.style.left = `${b.minX}px`;
@@ -13994,24 +14011,70 @@ var FamilyTree = class {
     svg.setAttribute("height", String(b.maxY - b.minY));
     while (svg.firstChild) svg.removeChild(svg.firstChild);
     const keep = new Set(placed.map((p) => p.pid));
-    for (const [pid, el] of this.nodes) if (!keep.has(pid)) {
-      el.addClass("sg-ft-gone");
-      window.setTimeout(() => el.remove(), 260);
+    for (const [pid, el2] of this.nodes) if (!keep.has(pid)) {
+      el2.addClass("sg-ft-gone");
+      window.setTimeout(() => el2.remove(), 260);
       this.nodes.delete(pid);
     }
     const at = new Map(placed.map((p) => [p.pid, p]));
+    const el = (tag, attrs, parent = svg) => {
+      const e = document.createElementNS(NS, tag);
+      for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, String(v));
+      parent.appendChild(e);
+      return e;
+    };
+    const rootY = 0;
+    const groundY = rootY + NODE / 2 + TRUNK_H;
+    const ground = el("g", { class: "sg-ft-earth" });
+    el("ellipse", { cx: 0, cy: groundY + 6, rx: 260, ry: 26, class: "sg-ft-ground" }, ground);
+    const gr = seeded("grass");
+    for (let i = 0; i < 26; i++) {
+      const gx = -230 + i * 18 + gr() * 10, gh = 10 + gr() * 16, lean = (gr() - 0.5) * 10;
+      el("path", { d: `M ${gx} ${groundY + 2} q ${lean} ${-gh / 2} ${lean * 1.6} ${-gh}`, class: "sg-ft-grass" }, ground);
+    }
+    const tw = limbWidth(0) * 1.35;
+    el("path", {
+      d: `M ${-tw} ${groundY} C ${-tw * 0.9} ${groundY - TRUNK_H * 0.5}, ${-tw * 0.55} ${rootY + NODE * 0.7}, ${-tw * 0.5} ${rootY} L ${tw * 0.5} ${rootY} C ${tw * 0.55} ${rootY + NODE * 0.7}, ${tw * 0.9} ${groundY - TRUNK_H * 0.5}, ${tw} ${groundY} Q ${tw * 1.6} ${groundY + 6} ${tw * 2.2} ${groundY + 8} L ${-tw * 2.2} ${groundY + 8} Q ${-tw * 1.6} ${groundY + 6} ${-tw} ${groundY} Z`,
+      class: "sg-ft-trunk"
+    });
+    el("path", { d: `M ${-tw * 0.2} ${groundY - 6} C ${-tw * 0.15} ${groundY - TRUNK_H * 0.5}, ${-tw * 0.1} ${rootY + NODE * 0.8}, ${-tw * 0.05} ${rootY + NODE / 2}`, class: "sg-ft-trunk-light" });
+    const limbs = el("g", { class: "sg-ft-limbs" });
+    const leaves = el("g", { class: "sg-ft-foliage" });
     for (const p of placed) {
       if (!p.open) continue;
       for (const parent of this.parents(p.pid)) {
         const q = at.get(parent.pid);
         if (!q) continue;
-        const x1 = p.x, y1 = p.y - NODE / 2, x22 = q.x, y22 = q.y + NODE / 2;
-        const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
-        const my = (y1 + y22) / 2;
-        path.setAttribute("d", `M ${x1} ${y1} C ${x1} ${my}, ${x22} ${my}, ${x22} ${y22}`);
-        path.setAttribute("class", `sg-ft-limb sg-ft-limb-${parent.side}`);
-        svg.appendChild(path);
+        const x1 = p.x, y1 = p.y, x22 = q.x, y22 = q.y + NODE * 0.35;
+        const my = y1 - ROW_H * 0.55;
+        const d = `M ${x1} ${y1} C ${x1} ${my}, ${x22} ${y22 + ROW_H * 0.35}, ${x22} ${y22}`;
+        const w = limbWidth(q.depth);
+        el("path", { d, class: `sg-ft-bark sg-ft-bark-${parent.side}`, "stroke-width": w.toFixed(1) }, limbs);
+        el("path", { d, class: "sg-ft-bark-light", "stroke-width": (w * 0.35).toFixed(1) }, limbs);
+        const r = seeded(parent.pid);
+        for (let i = 0; i < 7; i++) {
+          const a2 = r() * Math.PI * 2, dist = NODE * (0.35 + r() * 0.45);
+          el("ellipse", {
+            cx: (q.x + Math.cos(a2) * dist).toFixed(1),
+            cy: (q.y + Math.sin(a2) * dist * 0.8).toFixed(1),
+            rx: (14 + r() * 16).toFixed(1),
+            ry: (10 + r() * 12).toFixed(1),
+            transform: `rotate(${(r() * 90 - 45).toFixed(0)} ${q.x.toFixed(1)} ${q.y.toFixed(1)})`,
+            class: `sg-ft-leaf sg-ft-leaf-${i % 3}`
+          }, leaves);
+        }
       }
+    }
+    const r0 = seeded(this.root);
+    for (let i = 0; i < 6; i++) {
+      const a2 = Math.PI + r0() * Math.PI, dist = NODE * (0.4 + r0() * 0.4);
+      el("ellipse", {
+        cx: (Math.cos(a2) * dist).toFixed(1),
+        cy: (Math.sin(a2) * dist * 0.8).toFixed(1),
+        rx: (14 + r0() * 14).toFixed(1),
+        ry: (10 + r0() * 10).toFixed(1),
+        class: `sg-ft-leaf sg-ft-leaf-${i % 3}`
+      }, leaves);
     }
     for (const p of placed) {
       let node = this.nodes.get(p.pid);
@@ -14131,7 +14194,7 @@ var FamilyTree = class {
       this.scale = Math.min(1, Math.max(0.45, (r.width - 40) / Math.min(w, SLOT_W * 5)));
     }
     this.tx = r.width / 2 - (b.minX + b.maxX) / 2 * this.scale;
-    this.ty = whole ? r.height - 20 - b.maxY * this.scale : r.height - 30 - (NODE / 2 + LABEL_H) * this.scale;
+    this.ty = r.height - 16 - b.maxY * this.scale;
     this.apply();
   }
   wireGestures(canvas) {
@@ -19246,30 +19309,6 @@ function ridge(seed, color, base, jag, crest) {
   if (crest) c2 += `<path d='${open2}' stroke='${crest}' stroke-width='2.2' fill='none' opacity='0.55'/>`;
   return svgUrl(900, 200, c2);
 }
-function roots(seed, color, light, x3 = 450) {
-  const rnd = lcg(seed);
-  let c2 = "";
-  const root = (x1, y1, ang, len, w, depth) => {
-    const x22 = x1 + Math.cos(ang) * len, y22 = y1 + Math.sin(ang) * len;
-    const cx = x1 + Math.cos(ang - 0.3) * len * 0.5, cy = y1 + Math.sin(ang - 0.3) * len * 0.5;
-    const d = `M${x1.toFixed(0)} ${y1.toFixed(0)} Q ${cx.toFixed(0)} ${cy.toFixed(0)} ${x22.toFixed(0)} ${y22.toFixed(0)}`;
-    c2 += `<path d='${d}' stroke='${color}' stroke-width='${w.toFixed(1)}' stroke-linecap='round' fill='none'/>`;
-    c2 += `<path d='${d}' stroke='${light}' stroke-width='${(w * 0.28).toFixed(1)}' stroke-linecap='round' fill='none' opacity='0.5'/>`;
-    if (depth <= 0 || w < 1.2) return;
-    const n = 2 + (rnd() > 0.55 ? 1 : 0);
-    for (let i = 0; i < n; i++) {
-      const spread = (i / (n - 1 || 1) - 0.5) * 1.5 + (rnd() - 0.5) * 0.5;
-      root(x22, y22, ang + spread, len * (0.6 + rnd() * 0.2), w * 0.6, depth - 1);
-    }
-  };
-  c2 += `<path d='M${x3 - 26} 0 Q ${x3} 14 ${x3 + 26} 0 L ${x3 + 18} 22 Q ${x3} 34 ${x3 - 18} 22 Z' fill='${color}'/>`;
-  root(x3, 16, Math.PI / 2, 46, 13, 4);
-  root(x3 - 6, 14, Math.PI / 2 + 0.75, 60, 10, 3);
-  root(x3 + 6, 14, Math.PI / 2 - 0.75, 60, 10, 3);
-  root(x3 - 12, 10, Math.PI / 2 + 1.25, 70, 7, 3);
-  root(x3 + 12, 10, Math.PI / 2 - 1.25, 70, 7, 3);
-  return svgUrl(900, 200, c2);
-}
 function hills(color, amp, phase, crest) {
   const top = `M0 ${120 + phase} Q 150 ${120 - amp + phase} 300 ${125 + phase} T 600 ${118 + phase} T 900 ${128 + phase}`;
   let c2 = `<path d='${top} L 900 200 L 0 200 Z' fill='${color}'/>`;
@@ -19611,26 +19650,11 @@ var SceneManager = class {
       });
     }
     if (id === "grove") {
-      this.bg(el, 3, canopy(19, "#05140d"));
-      this.bg(el, 4, canopy(53, "#030d08"));
-      this.bg(el, 5, hills("#1a110a", 18, 8));
-      this.bg(el, 6, roots(29, "#2a1a0f", "#3d2917"));
-      particles(el, "sg-dapple", 6, 71, (rnd, p) => {
-        p.style.left = `${rnd() * 90}%`;
-        p.style.top = `${rnd() * 60}%`;
-        p.style.width = p.style.height = `${110 + rnd() * 180}px`;
-        p.style.animationDuration = `${14 + rnd() * 14}s`;
-        p.style.animationDelay = `${-rnd() * 18}s`;
-      });
-      particles(el, "sg-leaf", 9, 113, (rnd, p) => {
-        p.style.left = `${rnd() * 94}%`;
-        p.style.animationDuration = `${16 + rnd() * 12}s, ${4 + rnd() * 3}s`;
-        p.style.animationDelay = `${-rnd() * 24}s, ${-rnd() * 4}s`;
-        p.style.transform = `scale(${0.8 + rnd() * 0.7}) rotate(${(rnd() * 80).toFixed(0)}deg)`;
-      });
-      particles(el, "sg-firefly", 5, 131, (rnd, p) => {
-        p.style.left = `${8 + rnd() * 84}%`;
-        p.style.top = `${40 + rnd() * 45}%`;
+      this.bg(el, 2, seededStars(7, 120, 1200, 900, 0.5, 1.4, "#ffffff"));
+      this.bg(el, 3, seededStars(43, 60, 1100, 800, 0.9, 1.9, "#dfe9ff"));
+      particles(el, "sg-firefly", 4, 131, (rnd, p) => {
+        p.style.left = `${10 + rnd() * 80}%`;
+        p.style.top = `${55 + rnd() * 35}%`;
         p.style.animationDuration = `${8 + rnd() * 8}s, ${3 + rnd() * 3}s`;
         p.style.animationDelay = `${-rnd() * 10}s, ${-rnd() * 3}s`;
       });

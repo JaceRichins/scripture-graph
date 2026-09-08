@@ -24,8 +24,20 @@ const OPEN_AT_START = 3;         // generations grown when the tree opens (you +
 const OPEN_PER_TAP = 2;          // generations a + grows
 const NODE = 72;                 // portrait diameter
 const SLOT_W = 150;              // horizontal room per leaf
-const ROW_H = 168;               // vertical distance between generations
+const ROW_H = 176;               // vertical distance between generations
 const LABEL_H = 44;
+const TRUNK_H = 150;             // from the ground up to the root's portrait
+const NS = "http://www.w3.org/2000/svg";
+
+/** a limb's thickness at a generation: stout near the trunk, fine at the tips */
+function limbWidth(depth: number): number { return Math.max(3.5, 18 * Math.pow(0.7, depth)); }
+
+/** a deterministic scatter for foliage, from a person's id */
+function seeded(pid: string): () => number {
+  let h = 2166136261;
+  for (const ch of pid) { h ^= ch.charCodeAt(0); h = Math.imul(h, 16777619); }
+  return () => { h ^= h << 13; h ^= h >>> 17; h ^= h << 5; return ((h >>> 0) % 10000) / 10000; };
+}
 
 export async function loadTree(app: App): Promise<TreeData | null> {
   let f = app.metadataCache.getFirstLinkpathDest("Family Tree", "");
@@ -168,7 +180,7 @@ export class FamilyTree {
     const before = anchor ? this.nodes.get(anchor)?.getBoundingClientRect() : null;
     const placed = this.layout();
     const xs = placed.map(p => p.x), ys = placed.map(p => p.y);
-    this.bounds = { minX: Math.min(...xs) - SLOT_W / 2, maxX: Math.max(...xs) + SLOT_W / 2, minY: Math.min(...ys) - NODE, maxY: Math.max(...ys) + NODE + LABEL_H };
+    this.bounds = { minX: Math.min(...xs) - SLOT_W, maxX: Math.max(...xs) + SLOT_W, minY: Math.min(...ys) - NODE * 1.5, maxY: NODE / 2 + TRUNK_H + 40 };
     const b = this.bounds;
     svg.setAttribute("viewBox", `${b.minX} ${b.minY} ${b.maxX - b.minX} ${b.maxY - b.minY}`);
     svg.style.left = `${b.minX}px`; svg.style.top = `${b.minY}px`;
@@ -177,19 +189,60 @@ export class FamilyTree {
     const keep = new Set(placed.map(p => p.pid));
     for (const [pid, el] of this.nodes) if (!keep.has(pid)) { el.addClass("sg-ft-gone"); window.setTimeout(() => el.remove(), 260); this.nodes.delete(pid); }
     const at = new Map(placed.map(p => [p.pid, p] as const));
-    // the limbs: a curve from the top of a person to the bottom of each parent
+    const el = (tag: string, attrs: Record<string, string | number>, parent: Element = svg): Element => {
+      const e = document.createElementNS(NS, tag);
+      for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, String(v));
+      parent.appendChild(e);
+      return e;
+    };
+    // the ground, and the trunk rising out of it to the one at the root
+    const rootY = 0;
+    const groundY = rootY + NODE / 2 + TRUNK_H;
+    const ground = el("g", { class: "sg-ft-earth" });
+    el("ellipse", { cx: 0, cy: groundY + 6, rx: 260, ry: 26, class: "sg-ft-ground" }, ground);
+    const gr = seeded("grass");
+    for (let i = 0; i < 26; i++) {
+      const gx = -230 + i * 18 + gr() * 10, gh = 10 + gr() * 16, lean = (gr() - 0.5) * 10;
+      el("path", { d: `M ${gx} ${groundY + 2} q ${lean} ${-gh / 2} ${lean * 1.6} ${-gh}`, class: "sg-ft-grass" }, ground);
+    }
+    const tw = limbWidth(0) * 1.35;
+    el("path", { d: `M ${-tw} ${groundY} C ${-tw * 0.9} ${groundY - TRUNK_H * 0.5}, ${-tw * 0.55} ${rootY + NODE * 0.7}, ${-tw * 0.5} ${rootY}`
+      + ` L ${tw * 0.5} ${rootY} C ${tw * 0.55} ${rootY + NODE * 0.7}, ${tw * 0.9} ${groundY - TRUNK_H * 0.5}, ${tw} ${groundY}`
+      + ` Q ${tw * 1.6} ${groundY + 6} ${tw * 2.2} ${groundY + 8} L ${-tw * 2.2} ${groundY + 8} Q ${-tw * 1.6} ${groundY + 6} ${-tw} ${groundY} Z`,
+      class: "sg-ft-trunk" });
+    el("path", { d: `M ${-tw * 0.2} ${groundY - 6} C ${-tw * 0.15} ${groundY - TRUNK_H * 0.5}, ${-tw * 0.1} ${rootY + NODE * 0.8}, ${-tw * 0.05} ${rootY + NODE / 2}`, class: "sg-ft-trunk-light" });
+    // the limbs: wood, stout near the trunk and fine at the tips, each one
+    // curving from a person up into the parent above; foliage where it lands
+    const limbs = el("g", { class: "sg-ft-limbs" });
+    const leaves = el("g", { class: "sg-ft-foliage" });
     for (const p of placed) {
       if (!p.open) continue;
       for (const parent of this.parents(p.pid)) {
         const q = at.get(parent.pid);
         if (!q) continue;
-        const x1 = p.x, y1 = p.y - NODE / 2, x2 = q.x, y2 = q.y + NODE / 2;
-        const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
-        const my = (y1 + y2) / 2;
-        path.setAttribute("d", `M ${x1} ${y1} C ${x1} ${my}, ${x2} ${my}, ${x2} ${y2}`);
-        path.setAttribute("class", `sg-ft-limb sg-ft-limb-${parent.side}`);
-        svg.appendChild(path);
+        const x1 = p.x, y1 = p.y, x2 = q.x, y2 = q.y + NODE * 0.35;
+        const my = y1 - ROW_H * 0.55;
+        const d = `M ${x1} ${y1} C ${x1} ${my}, ${x2} ${y2 + ROW_H * 0.35}, ${x2} ${y2}`;
+        const w = limbWidth(q.depth);
+        el("path", { d, class: `sg-ft-bark sg-ft-bark-${parent.side}`, "stroke-width": w.toFixed(1) }, limbs);
+        el("path", { d, class: "sg-ft-bark-light", "stroke-width": (w * 0.35).toFixed(1) }, limbs);
+        // foliage: a cluster of leaves behind the parent's portrait
+        const r = seeded(parent.pid);
+        for (let i = 0; i < 7; i++) {
+          const a = r() * Math.PI * 2, dist = NODE * (0.35 + r() * 0.45);
+          el("ellipse", { cx: (q.x + Math.cos(a) * dist).toFixed(1), cy: (q.y + Math.sin(a) * dist * 0.8).toFixed(1),
+            rx: (14 + r() * 16).toFixed(1), ry: (10 + r() * 12).toFixed(1),
+            transform: `rotate(${(r() * 90 - 45).toFixed(0)} ${q.x.toFixed(1)} ${q.y.toFixed(1)})`,
+            class: `sg-ft-leaf sg-ft-leaf-${i % 3}` }, leaves);
+        }
       }
+    }
+    // a crown for the root, too
+    const r0 = seeded(this.root);
+    for (let i = 0; i < 6; i++) {
+      const a = Math.PI + r0() * Math.PI, dist = NODE * (0.4 + r0() * 0.4);
+      el("ellipse", { cx: (Math.cos(a) * dist).toFixed(1), cy: (Math.sin(a) * dist * 0.8).toFixed(1), rx: (14 + r0() * 14).toFixed(1), ry: (10 + r0() * 10).toFixed(1),
+        class: `sg-ft-leaf sg-ft-leaf-${i % 3}` }, leaves);
     }
     for (const p of placed) {
       let node = this.nodes.get(p.pid);
@@ -294,9 +347,9 @@ export class FamilyTree {
     } else {
       this.scale = Math.min(1, Math.max(0.45, (r.width - 40) / Math.min(w, SLOT_W * 5)));
     }
-    // x: centre the tree; y: the root sits near the bottom
+    // x: centre the tree; y: the ground sits at the bottom of the screen
     this.tx = r.width / 2 - ((b.minX + b.maxX) / 2) * this.scale;
-    this.ty = whole ? (r.height - 20) - b.maxY * this.scale : r.height - 30 - (NODE / 2 + LABEL_H) * this.scale;
+    this.ty = (r.height - 16) - b.maxY * this.scale;
     this.apply();
   }
 

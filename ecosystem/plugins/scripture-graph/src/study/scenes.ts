@@ -524,28 +524,13 @@ export class SceneManager {
       });
     }
     if (id === "grove") {
-      // the family tree's own place: light through a canopy above, roots
-      // spreading in the earth beneath the one at the bottom
-      this.bg(el, 3, canopy(19, "#05140d"));                 // canopy, far
-      this.bg(el, 4, canopy(53, "#030d08"));                 // canopy, near
-      this.bg(el, 5, hills("#1a110a", 18, 8));               // the earth
-      this.bg(el, 6, roots(29, "#2a1a0f", "#3d2917"));       // the roots in it
-      particles(el, "sg-dapple", 6, 71, (rnd, p) => {
-        p.style.left = `${rnd() * 90}%`;
-        p.style.top = `${rnd() * 60}%`;
-        p.style.width = p.style.height = `${110 + rnd() * 180}px`;
-        p.style.animationDuration = `${14 + rnd() * 14}s`;
-        p.style.animationDelay = `${-rnd() * 18}s`;
-      });
-      particles(el, "sg-leaf", 9, 113, (rnd, p) => {         // leaves letting go
-        p.style.left = `${rnd() * 94}%`;
-        p.style.animationDuration = `${16 + rnd() * 12}s, ${4 + rnd() * 3}s`;
-        p.style.animationDelay = `${-rnd() * 24}s, ${-rnd() * 4}s`;
-        p.style.transform = `scale(${0.8 + rnd() * 0.7}) rotate(${(rnd() * 80).toFixed(0)}deg)`;
-      });
-      particles(el, "sg-firefly", 5, 131, (rnd, p) => {
-        p.style.left = `${8 + rnd() * 84}%`;
-        p.style.top = `${40 + rnd() * 45}%`;
+      // the family tree's own sky: a clear, quiet night — the tree itself
+      // is the picture, so nothing else competes with it
+      this.bg(el, 2, seededStars(7, 120, 1200, 900, 0.5, 1.4, "#ffffff"));
+      this.bg(el, 3, seededStars(43, 60, 1100, 800, 0.9, 1.9, "#dfe9ff"));
+      particles(el, "sg-firefly", 4, 131, (rnd, p) => {
+        p.style.left = `${10 + rnd() * 80}%`;
+        p.style.top = `${55 + rnd() * 35}%`;
         p.style.animationDuration = `${8 + rnd() * 8}s, ${3 + rnd() * 3}s`;
         p.style.animationDelay = `${-rnd() * 10}s, ${-rnd() * 3}s`;
       });

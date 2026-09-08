@@ -53,7 +53,7 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
   background: color-mix(in srgb, var(--background-secondary) 80%, var(--interactive-accent)); box-shadow: none;
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
 
-/* ---- the family tree: you at the root, the branches climbing above ---- */
+/* ---- the family tree: one tree, drawn — trunk from the ground, limbs of wood, foliage, portraits ---- */
 .sg-ft-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 8px; }
 .sg-ft-roots { display: flex; gap: 6px; }
 .sg-ft-rootchip { font-size: 0.8em; font-weight: 600; padding: 5px 11px; border-radius: 999px; box-shadow: none;
@@ -64,46 +64,53 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
   background: var(--background-secondary); border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
 .sg-ft-list { font-size: 0.8em; font-weight: 600; padding: 5px 11px; border-radius: 999px; box-shadow: none;
   background: transparent; border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); color: var(--text-muted); }
-/* the tree stands straight on the scene: no box, no border, edge to edge */
 .sg-ft-canvas { position: relative; height: calc(100vh - 235px); min-height: 440px; overflow: hidden;
   margin: 0 -16px; touch-action: none; cursor: grab; user-select: none; -webkit-user-select: none; background: transparent; }
 .sg-ft-canvas:active { cursor: grabbing; }
 .sg-ft-sky, .sg-ft-ground { display: none; }
-body.sg-scene-on .sg-ft-name { color: #fff6e6; }
-.sg-scene-grove ~ .app-container .sg-ft-limb { stroke: #a98a54; }
-.sg-scene-grove ~ .app-container .sg-ft-limb-m { stroke: #c8a86a; }
-body.sg-scene-on .sg-ft-years { color: rgba(255, 240, 220, 0.72); }
 .sg-ft-layer { position: absolute; left: 0; top: 0; width: 0; height: 0; transform-origin: 0 0; will-change: transform; }
 .sg-ft-lines { position: absolute; overflow: visible; pointer-events: none; }
-.sg-ft-limb { fill: none; stroke-width: 3; stroke-linecap: round; opacity: 0.85;
-  stroke: color-mix(in srgb, #b58a4a 70%, var(--text-faint)); }
-.sg-ft-limb-m { stroke: color-mix(in srgb, #c7a06a 70%, var(--text-faint)); }
+/* the wood */
+.sg-ft-trunk { fill: #4a3222; stroke: #2e1d12; stroke-width: 1.5; }
+.sg-ft-trunk-light { fill: none; stroke: #7a5a3c; stroke-width: 5; stroke-linecap: round; opacity: 0.55; }
+.sg-ft-bark { fill: none; stroke: #4a3222; stroke-linecap: round; }
+.sg-ft-bark-m { stroke: #4f3626; }
+.sg-ft-bark-light { fill: none; stroke: #8a6a48; stroke-linecap: round; opacity: 0.5; }
+/* the leaves */
+.sg-ft-leaf { opacity: 0.9; }
+.sg-ft-leaf-0 { fill: #2f6b3a; }
+.sg-ft-leaf-1 { fill: #3f8a48; }
+.sg-ft-leaf-2 { fill: #5aa35a; }
+/* the ground */
+.sg-ft-ground { fill: #1f3a26; }
+.sg-ft-grass { fill: none; stroke: #4c8a4a; stroke-width: 2; stroke-linecap: round; opacity: 0.85; }
+.sg-ft-ground ~ .sg-ft-grass:nth-child(odd) { stroke: #3a6d3b; }
+/* the portraits */
 .sg-ft-node { position: absolute; left: 0; top: 0; width: 72px; display: flex; flex-direction: column; align-items: center;
   transition: transform 0.32s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.25s ease; will-change: transform; }
 .sg-ft-gone { opacity: 0 !important; transform: scale(0.4) !important; }
 .sg-ft-ring { width: 72px; height: 72px; border-radius: 50%; padding: 3px; box-sizing: border-box; flex: none;
-  background: linear-gradient(145deg, #e8d9a8, #b58a4a); box-shadow: 0 6px 18px rgba(0,0,0,0.35); cursor: default; }
-.sg-ft-side-m .sg-ft-ring { background: linear-gradient(145deg, #f0d7c2, #c2865f); }
-.sg-ft-root .sg-ft-ring { background: linear-gradient(145deg, var(--interactive-accent), #d9c07a);
-  box-shadow: 0 0 0 4px color-mix(in srgb, var(--interactive-accent) 30%, transparent), 0 8px 22px rgba(0,0,0,0.4); }
+  background: linear-gradient(145deg, #f1dfae, #b58a4a); box-shadow: 0 6px 18px rgba(0,0,0,0.45); cursor: default; }
+.sg-ft-side-m .sg-ft-ring { background: linear-gradient(145deg, #f3dccb, #c2865f); }
+.sg-ft-root .sg-ft-ring { background: linear-gradient(145deg, #fff3c4, #d9b25a);
+  box-shadow: 0 0 0 4px rgba(217, 178, 90, 0.28), 0 8px 24px rgba(0,0,0,0.5); }
 .sg-ft-has-page .sg-ft-ring, .sg-ft-has-page .sg-ft-label { cursor: pointer; }
 .sg-ft-has-page .sg-ft-ring:active { transform: scale(0.95); }
-.sg-ft-living .sg-ft-ring { opacity: 0.85; background: linear-gradient(145deg, #cfd3dc, #8e95a3); }
+.sg-ft-living .sg-ft-ring { background: linear-gradient(145deg, #d8dde6, #8e95a3); }
 .sg-ft-pic { position: relative; width: 100%; height: 100%; border-radius: 50%; overflow: hidden;
   display: grid; place-items: center; font-weight: 800; font-size: 1.05em; letter-spacing: 0.02em;
-  color: color-mix(in srgb, var(--text-normal) 80%, transparent);
-  background: radial-gradient(circle at 35% 30%, color-mix(in srgb, var(--background-primary) 70%, #fff), var(--background-secondary)); }
+  color: #2b1d12; background: radial-gradient(circle at 35% 30%, #fdf6e3, #cdb890); }
 .sg-ft-pic img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.3s; }
 .sg-ft-haspic img { opacity: 1; }
 .sg-ft-label { margin-top: 6px; width: 140px; text-align: center; }
 .sg-ft-name { font-weight: 700; font-size: 0.8em; line-height: 1.15; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
-  text-shadow: 0 1px 2px rgba(0,0,0,0.4); }
-.sg-ft-years { font-size: 0.68em; color: var(--text-muted); margin-top: 1px; }
+  color: #fff6e6; text-shadow: 0 1px 3px rgba(0,0,0,0.7); }
+.sg-ft-years { font-size: 0.68em; color: rgba(255, 240, 220, 0.75); margin-top: 1px; text-shadow: 0 1px 2px rgba(0,0,0,0.6); }
 .sg-ft-plus { position: absolute; top: -12px; left: 50%; transform: translateX(-50%); width: 26px; height: 26px; padding: 0;
-  border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.35); font-size: 1.1em; line-height: 1; font-weight: 800; cursor: pointer;
-  background: var(--interactive-accent); color: var(--text-on-accent); border: 2px solid var(--background-primary); }
-.sg-ft-plus-open { background: var(--background-secondary); color: var(--text-muted); }
-.sg-ft-hint { position: absolute; left: 0; right: 0; top: 8px; text-align: center; font-size: 0.7em; color: var(--text-faint); pointer-events: none; }
+  border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.45); font-size: 1.1em; line-height: 1; font-weight: 800; cursor: pointer;
+  background: #d9b25a; color: #2b1d12; border: 2px solid #1b2f33; }
+.sg-ft-plus-open { background: #2f4a3a; color: #dfe9d8; }
+.sg-ft-hint { position: absolute; left: 0; right: 0; top: 8px; text-align: center; font-size: 0.7em; color: rgba(255,255,255,0.45); pointer-events: none; }
 
 /* ---- ＋ Add a song from a YouTube link ---- */
 .sg-pl-add { flex: 0 0 auto; }
@@ -603,34 +610,14 @@ body[data-sg-scene="prison"] { --sg-ink: #e4e2dc; --sg-ink-strong: #f5f2ea; --sg
 }
 
 /* ── 🌿 The Garden: dappled light through leaves ── */
-/* The Grove — the family tree's own place: dusk light through a canopy,
-   deep moss, warm earth, roots beneath the one at the bottom */
+/* The Grove — the family tree's own sky: a clear night, a low moonglow */
 .sg-scene-grove .sgl-1 {
-  background: radial-gradient(70% 45% at 50% 0%, rgba(255, 214, 140, 0.30) 0%, transparent 65%),
-    linear-gradient(180deg, #06140f 0%, #0e2a1d 30%, #163223 55%, #21261a 78%, #2a1c12 100%);
-  animation: sg-dawn-breathe 50s ease-in-out infinite alternate;
+  background: radial-gradient(60% 40% at 50% 100%, rgba(120, 150, 120, 0.22) 0%, transparent 70%),
+    linear-gradient(180deg, #050a14 0%, #0b1a2c 45%, #13263a 75%, #1b2f33 100%);
 }
-.sg-scene-grove .sgl-2 { /* shafts of late light, and a soft vignette */
-  background:
-    linear-gradient(104deg, transparent 30%, rgba(255, 226, 170, 0.10) 37%, transparent 45%),
-    linear-gradient(112deg, transparent 56%, rgba(255, 226, 170, 0.07) 64%, transparent 73%),
-    radial-gradient(130% 90% at 50% 118%, transparent 60%, rgba(4, 8, 5, 0.55) 100%),
-    radial-gradient(90% 36% at 6% -6%, rgba(2, 8, 5, 0.55), transparent 70%),
-    radial-gradient(90% 36% at 94% -6%, rgba(2, 8, 5, 0.55), transparent 70%);
-  animation: sg-halo 20s ease-in-out infinite alternate;
-}
-.sg-scene-grove .sgl-3, .sg-scene-grove .sgl-4 { background-position: 50% 0; background-size: 1300px 260px; background-repeat: repeat-x; }
-.sg-scene-grove .sgl-4 { background-size: 1000px 200px; opacity: 0.95; }
-.sg-scene-grove .sgl-5 { background-position: 50% 100%; background-size: 1400px 240px; background-repeat: repeat-x; }
-.sg-scene-grove .sgl-6 { background-position: 50% 100%; background-size: 1600px 330px; background-repeat: no-repeat; opacity: 0.9; }
-.sg-scene-grove .sgl-scrim { background: radial-gradient(120% 80% at 50% 110%, transparent 55%, rgba(4, 8, 5, 0.3) 100%); }
-.sg-leaf { /* leaves letting go of the canopy */
-  top: -4%;
-  width: 9px; height: 6px; border-radius: 70% 30% 70% 30%;
-  background: rgba(214, 178, 96, 0.62);
-  animation: sg-petal-fall 22s linear infinite, sg-petal-sway 5s ease-in-out infinite alternate;
-  opacity: 0;
-}
+.sg-scene-grove .sgl-2, .sg-scene-grove .sgl-3 { background-repeat: no-repeat; background-size: 1200px 900px; opacity: 0.8; }
+.sg-scene-grove .sgl-3 { background-size: 1100px 800px; animation: sg-halo 26s ease-in-out infinite alternate; }
+.sg-scene-grove .sgl-scrim { background: radial-gradient(120% 80% at 50% 110%, transparent 55%, rgba(2, 5, 10, 0.35) 100%); }
 .sg-scene-garden .sgl-1 {
   background: radial-gradient(120% 100% at 50% 0%, #33604080 0%, transparent 60%),
     linear-gradient(180deg, #2c5639 0%, #1e472b 44%, #123322 100%);
