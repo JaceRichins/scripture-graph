@@ -223,11 +223,11 @@ The ordered four-part correspondence moderately supports deliberate final-form c
 Notes: [[Internal Literary Correspondence in 1 Nephi 12]]
 
 ### bom-3nephi1-samuel-signs-correspondence
-**Correspondence between Samuel's birth signs (Helaman 14) and their fulfillment in 3 Nephi 1** — *strong* (supports, discrimination 0.65) for: The birth-sign details prophesied in Helaman 14:2-5 and their narrated fulfillment in 3 Nephi 1 reflect deliberate final-form prophetic design.
+**Correspondence between Samuel's birth signs (Helaman 14) and their fulfillment in 3 Nephi 1** — *strong* (supports, discrimination 0.65) for: The final text deliberately coordinates Samuel's five-year sign-prophecy (Helaman 14) with its narrated fulfillment (3 Nephi 1), with Helaman 16 functioning as an internal bridge that keeps the prophecy live in the narrative between the two.
 
-The related continuous-light descriptions and the new star announced in Helaman 14 are deliberately matched by 3 Nephi 1, with explicit fulfillment language, providing strong evidence of intended narrative vindication of Samuel. Because both passages belong to the same literary tradition, the match alone supplies none-band support for supernatural foreknowledge, external historicity, or inspiration.
+The related continuous-light descriptions and new star announced in Helaman 14, kept before the reader by Helaman 16's advance-notice and 'began to be fulfilled' language, are deliberately matched by 3 Nephi 1's explicit fulfillment notice, strongly supporting intended narrative vindication of Samuel. Because prophecy, bridge, and fulfillment all reach the reader through one continuous literary tradition, the correspondence supplies only none-band support for genuine pre-event foreknowledge, external historicity, or inspiration, and is not independent additional evidence beyond this registered issue.
 
-Notes: [[Internal Narrative Correspondence in 3 Nephi 1]] · [[Internal Prediction-Fulfillment in Helaman 14]]
+Notes: [[Internal Narrative Correspondence in 3 Nephi 1]] · [[Internal Prediction-Fulfillment in Helaman 14]] · [[Literary And Internal Predictive Sequence in Helaman 16]]
 
 ### bom-3nephi8-death-signs-fulfillment
 **Correspondence between Samuel's death-sign prophecy (Helaman 14) and its fulfillment in 3 Nephi 8** — *strong* (supports, discrimination 0.8) for: The final Book of Mormon text deliberately presents 3 Nephi 8's disasters as fulfillment of Samuel's death-sign prophecy in Helaman 14.
