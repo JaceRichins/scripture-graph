@@ -26,6 +26,13 @@ The extensive, ordered, near-verbatim correspondence across roughly eight to nin
 
 Notes: [[English-Language Intertextuality in Moroni 7]]
 
+### bom-mosiah16-1corinthians15-intertext
+**1 Corinthians 15:53-55 mediation in Mosiah 16:7-10** — *strong* (supports, discrimination 0.75) for: Mosiah 16:7-10's corruption/incorruption, mortality/immortality, death-swallowed-up, sting-of-death, and grave-victory cluster reflects deliberate textual or translation-level dependence on the 1 Corinthians 15:53-55 tradition in the final English text.
+
+The five-element cluster strongly supports deliberate 1 Corinthians 15-related mediation in Mosiah 16's final English text; the paired corruption/incorruption and mortality/immortality clauses are distinctively Pauline and not supplied by Isaiah 25:8 or Hosea 13:14 alone. Mosiah 16 presents the sting/grave material before the mortality/incorruption pairing, the reverse of Paul's order, which tempers the match slightly below the corpus's tightest single-source echoes. Because Paul's letter postdates Abinadi's narrative setting, this creates real tension for a strict pre-Pauline verbatim-wording model, but that tension bears on mechanism, not on whether the final-text relationship exists.
+
+Notes: [[Textual Intertextuality in Mosiah 16]]
+
 ### bom-2nephi7-isaiah50-variants
 **2 Nephi 7 Isaiah Variants as Evidence of a Distinct Ancient Vorlage** — *none* (supports, discrimination 0.1) for: The wording differences between 2 Nephi 7 and KJV Isaiah 50 (added 'O house of Israel' addresses in vv.2, 4, and the added 'strength of my mouth' clause in v.8) reflect access to a genuinely divergent ancient Hebrew text rather than translation-level, editorial, or modern KJV adaptation.
 
@@ -523,6 +530,13 @@ Notes: [[Internal First-Person Narrative Testimony in Alma 56]]
 
 Notes: [[Internal Textual Assertion in 1 Nephi 13]]
 
+### bom-mosiah24-bondage-deliverance-miracle
+**Historical weight of the providential bondage-deliverance claim in Mosiah 24** — *none* (supports, discrimination 0.13) for: The narrated sequence of eased burdens and providential escape in Mosiah 24 reflects genuine historical supernatural intervention, rather than natural, communal, or literary-theological processes narrated as providential.
+
+Mosiah 24:12-20 clearly presents divine visitation as both sustaining endurance within bondage and later bringing deliverance from it, but this reaches the reader through one narrator-mediated report. Sincerely remembered natural escape narrated providentially, communal tradition, and deliberate literary-theological shaping all predict the identical account about as well as genuine supernatural intervention, so it gives only none-band support for the episode's historicity or supernatural cause — the same treatment already given to structurally identical providential/miracle claims in the registry (e.g. bom-alma56-stripling-warriors-miracle-claim 0.14, bom-alma3-record-accuracy-self-attestation 0.12).
+
+Notes: [[Textual-Narrative in Mosiah 24]]
+
 ### bom-2nephi11-witness-corroboration
 **Historical weight of the three-witness testimony formula in 2 Nephi 11** — *none* (supports, discrimination 0.12) for: The three-witness formula in 2 Nephi 11:2-3 (Nephi, Jacob, and Isaiah as witnesses who have seen the Redeemer) provides independent historical corroboration that each reported vision actually occurred, beyond Nephi's own narration.
 
@@ -614,6 +628,20 @@ The clustered awakening, dust, beautiful-garments, and strengthened-stakes langu
 
 Notes: [[Scriptural Allusion in Moroni 10]]
 
+### bom-mosiah27-isaiah52-intertext
+**Isaiah 52:7 echo in Mosiah 27:37** — *strong* (supports, discrimination 0.72) for: Mosiah 27:37's publish-peace/good-tidings/Lord-reigneth cluster reflects deliberate textual or literary dependence on Isaiah 52:7 in the final English text.
+
+The three-clause ordered cluster (publish peace / good tidings of good / the Lord reigneth) closely tracks Isaiah 52:7 and strongly supports a deliberate scriptural echo in Mosiah 27:37's final text. As a condensed single-verse paraphrase rather than a sustained multi-verse quotation, it is held below the registry's chapter-length Isaiah-quotation ceiling (0.84, bom-isaiah-textual-dependence). It gives no independent traction on whether the echo entered through an ancient allusion rendered in KJV-shaped translation, revelatory harmonization, or direct nineteenth-century reuse of Isaiah 52:7.
+
+Notes: [[Scriptural Intertext in Mosiah 27]]
+
+### bom-isaiah-textual-dependence
+**Isaiah 52:7-10 quotation dependence (Mosiah 12 instance)** — *strong* (supports, discrimination 0.84) for: Mosiah 12:21-24's reproduction of Isaiah 52:7-10 reflects deliberate textual/translation-level dependence on the Isaiah 52 tradition in the final English text.
+
+The near-verbatim, same-order four-verse correspondence with Isaiah 52:7-10 strongly supports deliberate textual dependence in Mosiah 12's final English text, at the same 0.84 ceiling already set for the registry's other tight chapter-length Isaiah quotations (2 Nephi 6, 2 Nephi 13, 3 Nephi 22). This does not establish direction, date, translation mechanism, or ancient versus modern authorship, and no independent ancient witness (Dead Sea Scrolls, Septuagint, Targum) is shown to corroborate the specific wording — consistent with the registry's existing treatment of this issue.
+
+Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Quotation And Textual Overlap in Mosiah 14]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]] · [[Textual Correspondence in 2 Nephi 6]] · [[Textual Correspondence in 2 Nephi 7]] · [[Textual Correspondence in 2 Nephi 8]] · [[Textual Dependence in 2 Nephi 18]] · [[Textual Intertextuality in 2 Nephi 13]]
+
 ### bom-2nephi9-isaiah55-reuse
 **Isaiah 55:1-2 Reuse in 2 Nephi 9:50-51** — *strong* (supports, discrimination 0.8) for: The final English text of 2 Nephi 9:50-51 deliberately reuses or is textually mediated by Isaiah 55:1-2, rather than reflecting independent generic exhortation language
 
@@ -641,13 +669,6 @@ Notes: [[Textual Interrelationship in 3 Nephi 9]] · [[TextualLiterary in 3 Neph
 The matched good-and-evil contrast, paired resurrection outcomes, distinctive damnation wording, and preserved order strongly support a relationship between 3 Nephi 26:4-5 and John 5:28-29. Historical repetition, shared tradition, translation-level harmonization, revelatory expression, and modern adaptation remain viable mechanisms.
 
 Notes: [[Scriptural Intertextuality in 3 Nephi 26]] · [[TextualLinguistic Parallel in 3 Nephi 26]]
-
-### bom-isaiah-textual-dependence
-**KJV Isaiah Textual Dependence (Isaiah 53 in Mosiah 14)** — *strong* (supports, discrimination 0.84) for: Mosiah 14 (Abinadi's quotation of Isaiah) is directly textually dependent on, or mediated through, the King James rendering of Isaiah 53.
-
-The chapter-length, closely corresponding English text with explicit in-narrative attribution to Isaiah strongly supports a deliberate literary or translation-level relationship between Mosiah 14 and Isaiah 53, at the same weight already established for the corpus's broader Isaiah/KJV-mediation pattern (bom-isaiah-textual-dependence) rather than as independent additional evidence. It does not establish the translation mechanism, the historicity of an ancient Isaiah text on the plates, or the surrounding narrative's accuracy.
-
-Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Quotation And Textual Overlap in Mosiah 14]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]] · [[Textual Correspondence in 2 Nephi 6]] · [[Textual Correspondence in 2 Nephi 7]] · [[Textual Correspondence in 2 Nephi 8]] · [[Textual Dependence in 2 Nephi 18]] · [[Textual Intertextuality in 2 Nephi 13]]
 
 ### bom-jacob6-biblical-intertextuality
 **KJV-shaped biblical intertextuality in Jacob 6** — *strong* (supports, discrimination 0.62) for: Jacob 6 deliberately uses or is mediated through identifiable biblical formulations (Isaiah 11:11, Romans 10:21/Isaiah 65:2, Psalm 95:7-8, Matthew 7:13) in its final English form, rather than merely independent conventional religious idiom.
@@ -690,6 +711,13 @@ Notes: [[Intertextual Verbal And Sequential Parallel in 1 Nephi 22]]
 The close three-part sequential wording (belief-and-baptism/salvation, unbelief/damnation, signs-follow-believers) strongly supports a direct English-textual relationship between Ether 4:18 and Mark 16:16-17, comparable to the corpus's other tight New Testament passage-level correspondences. It does not distinguish ancient discourse rendered through KJV-shaped translation from editorial harmonization or nineteenth-century composition, and it is not independent of the corpus's broader KJV-mediation pattern. Note also that Mark 16:9-20 is a textually disputed longer ending absent from the earliest Greek manuscripts, which bears on any claim about the antiquity of the underlying saying, though not on the secure English-text relationship itself.
 
 Notes: [[Textual Intertext in Ether 4]]
+
+### bom-moroni8-new-testament-intertext
+**Mark 2:17 and 1 John 4:18 mediation in Moroni 8** — *strong* (supports, discrimination 0.73) for: Moroni 8:8 and 8:16 reflect deliberate New Testament (Mark 2:17; 1 John 4:18) textual mediation in the final English text.
+
+The near-verbatim physician/sinners sequence in Moroni 8:8 (Mark 2:17) and the distinctive 'perfect love casteth out fear' formula in 8:16 (1 John 4:18) strongly support deliberate New Testament or KJV-shaped mediation in Moroni 8's final English text. Two independent close matches within one short chapter make coincidental convergence unlikely, but the correspondence does not distinguish ancient transmission of shared Christian sayings, revealed restatement, KJV-shaped translation, or direct nineteenth-century reuse, and gives no independent support for date, authorship, or inspiration.
+
+Notes: [[Textual Intertextuality in Moroni 8]]
 
 ### bom-3nephi17-matthew15-healing-parallel
 **Matthew 15 Healing-Catalogue Parallel in 3 Nephi 17** — *moderate* (supports, discrimination 0.56) for: The final English text of 3 Nephi 17:7,9 has a specific literary or translation-level relationship to Matthew 15:30-31.
