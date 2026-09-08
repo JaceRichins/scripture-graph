@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 19
 slug: 1kgs-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

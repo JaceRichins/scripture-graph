@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 16
 slug: 1ne-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -106,6 +106,10 @@ The chapter also complicates simplistic views of prophetic leadership. Lehi murm
 <!-- SG:BEGIN history -->
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Adversity** (reference-entry) *(explicit citation)*
+- **Chapter 1: The Great Commandment—Love the Lord** (teachings) *(explicit citation)*
+- **Chapter 11: Follow the Living Prophet** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
+- **Chapter 23: ‘No Less Serviceable’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

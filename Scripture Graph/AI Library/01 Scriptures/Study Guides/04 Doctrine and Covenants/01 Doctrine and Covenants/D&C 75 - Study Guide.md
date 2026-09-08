@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 75
 slug: dc-75
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ The three "Even so. Amen." markers (vv. 12, 22, 36) are the clearest textual sig
 <!-- SG:BEGIN conference -->
 - [[Don’t Leave for Tomorrow What You Can Do Today (Elder Claudio R. M. Costa, October 2007)|Don’t Leave for Tomorrow What You Can Do Today]] — Elder Claudio R. M. Costa, 2007-October *(explicit citation)*
 - [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
+- [[How to Live Well amid Increasing Evil (Elder Richard G. Scott, April 2004)|How to Live Well amid Increasing Evil]] — Elder Richard G. Scott, 2004-April *(explicit citation)*
 - [[Jesus Christ The Caregiver of Our Soul (Elder Ulisses Soares, April 2021)|Jesus Christ: The Caregiver of Our Soul]] — Elder Ulisses Soares, 2021-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*

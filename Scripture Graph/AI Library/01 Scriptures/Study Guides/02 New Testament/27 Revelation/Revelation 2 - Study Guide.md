@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 2
 slug: rev-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -67,7 +67,7 @@ Each message has a recognizable sequence: address, a title of Christ, an assessm
 - [[Final Judgment]]
 - [[Repentance]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
-- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Chastity]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

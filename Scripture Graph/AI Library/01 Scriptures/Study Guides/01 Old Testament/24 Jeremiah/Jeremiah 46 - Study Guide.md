@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 46
 slug: jer-46
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 10
 slug: acts-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

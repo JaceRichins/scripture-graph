@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 4
 slug: isa-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

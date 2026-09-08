@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 41
 slug: alma-41
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,11 +90,11 @@ The chapter joins [[Resurrection]], [[Final Judgment]], [[Agency]], and [[Repent
 - [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
 - [[Do Justly, Love Mercy, and Walk Humbly with God (Elder Dale G. Renlund, October 2020)|Do Justly, Love Mercy, and Walk Humbly with God]] — Elder Dale G. Renlund, 2020-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[“The Standard of Truth Has Been Erected” (President Boyd K. Packer, October 2003)|“The Standard of Truth Has Been Erected”]] — President Boyd K. Packer, 2003-October *(explicit citation)*
 - [[Shipshape and Bristol Fashion Be Temple Worthy—in Good Times and Bad Times (Elder Quentin L. Cook, October 2015)|Shipshape and Bristol Fashion: Be Temple Worthy—in Good Times and Bad Times]] — Elder Quentin L. Cook, 2015-October *(explicit citation)*
 - [[Am I Good Enough Will I Make It (Elder J. Devn Cornish, October 2016)|Am I Good Enough? Will I Make It?]] — Elder J. Devn Cornish, 2016-October *(explicit citation)*
 - [[His Daily Guiding Hand (M. Joseph Brough, April 2017)|His Daily Guiding Hand]] — M. Joseph Brough, 2017-April *(explicit citation)*
 - [[Stand Up Inside and Be All In (Elder Gary B. Sabin, April 2017)|Stand Up Inside and Be All In]] — Elder Gary B. Sabin, 2017-April *(explicit citation)*
-- [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

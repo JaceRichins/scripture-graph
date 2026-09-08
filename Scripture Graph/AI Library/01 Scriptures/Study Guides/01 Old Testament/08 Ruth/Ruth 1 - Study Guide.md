@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ruth
 chapter: 1
 slug: ruth-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
 - [[Followers of Christ (Elder Walter F. González, April 2011)|Followers of Christ]] — Elder Walter F. González, 2011-April *(explicit citation)*
+- [[Eternal Marriage (Elder F. Burton Howard, April 2003)|Eternal Marriage]] — Elder F. Burton Howard, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

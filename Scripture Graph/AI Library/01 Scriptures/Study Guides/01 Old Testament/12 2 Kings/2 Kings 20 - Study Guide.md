@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 20
 slug: 2kgs-20
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,7 +86,7 @@ The healing account places a prescribed material means beside a divine promise a
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Where Do I Make My Stand (President James E. Faust, October 2004)|Where Do I Make My Stand?]] — President James E. Faust, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

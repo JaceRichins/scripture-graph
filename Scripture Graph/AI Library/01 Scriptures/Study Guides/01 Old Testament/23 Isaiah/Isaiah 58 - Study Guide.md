@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 58
 slug: isa-58
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -95,8 +95,8 @@ The promised blessings should be read with care. They express a strong covenanta
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
 - **Chapter 19: Take Time to Be Holy** (teachings) *(explicit citation)*
+- **Chapter 16: The Sabbath—A Delight** (teachings) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
-- **August 3–9. “Thou Art Come … for Such a Time as This”: Esther** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

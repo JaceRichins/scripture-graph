@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 14
 slug: mark-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -77,9 +77,9 @@ Mark 14 moves from preparations for Jesus's death to the collapse of his followe
 - [[Daniel 7]]
 - [[Testimony]] *(keyword match — unconfirmed)*
 - [[Passover]] *(keyword match — unconfirmed)*
-- [[Apostles]] *(keyword match — unconfirmed)*
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
+- [[Apostles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

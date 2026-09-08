@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 9
 slug: amos-9
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ Amos 9:8–10 presents a severe conjunction of [[Justice and Mercy]]: sinners fa
 <!-- SG:BEGIN history -->
 - **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
+- **Chapter 8: Taking the Gospel to All the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 49
 slug: alma-49
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

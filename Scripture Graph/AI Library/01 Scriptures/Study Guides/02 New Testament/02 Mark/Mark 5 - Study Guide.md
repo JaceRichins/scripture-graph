@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 5
 slug: mark-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,9 @@ Jesus’ compassion has a restorative direction. The formerly possessed man is s
 - **Devil** (reference-entry) *(explicit citation)*
 - **Gadara** (reference-entry) *(explicit citation)*
 - **Chapter 7: The Significance of the Resurrection** (teachings) *(explicit citation)*
+- **Chapter 10: The Scriptures—The Most Profitable of All Study** (teachings) *(explicit citation)*
+- **The Life and Ministry of Gordon B. Hinckley** (teachings) *(explicit citation)*
+- **Chapter 25: Move Forward with Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

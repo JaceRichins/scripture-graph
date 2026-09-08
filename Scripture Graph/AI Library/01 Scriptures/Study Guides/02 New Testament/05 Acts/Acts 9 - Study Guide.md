@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 9
 slug: acts-9
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,7 +87,7 @@ Peter's words to Æneas keep the agent of the healing clear: "Jesus Christ maket
 - [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
 - [[Healing the Sick (Elder Dallin H. Oaks, April 2010)|Healing the Sick]] — Elder Dallin H. Oaks, 2010-April *(explicit citation)*
 - [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
-- [[Ye Shall Be Free (Elder Thierry K. Mutombo, April 2021)|Ye Shall Be Free]] — Elder Thierry K. Mutombo, 2021-April *(explicit citation)*
+- [[In Covenant with Him (Kathleen H. Hughes, October 2003)|In Covenant with Him]] — Kathleen H. Hughes, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -98,10 +98,10 @@ Peter's words to Æneas keep the agent of the healing clear: "Jesus Christ maket
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 6: To Hear the Voice of the Lord** (teachings) *(explicit citation)*
+- **Chapter 21: Striving for Perfection** (teachings) *(explicit citation)*
+- **Chapter 6: Jesus Christ, Our Savior and Redeemer** (teachings) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Almsgiving** (reference-entry) *(explicit citation)*
-- **Ananias** (reference-entry) *(explicit citation)*
-- **Blindness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

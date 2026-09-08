@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 60
 slug: isa-60
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ The chapter grounds restoration in the LORD's mercy rather than Zion's independe
 <!-- SG:BEGIN conference -->
 - [[It Shows in Your Face (Elaine S. Dalton, April 2006)|It Shows in Your Face]] — Elaine S. Dalton, 2006-April *(explicit citation)*
 - [[Thru Cloud and Sunshine, Lord, Abide with Me! (Reyna I. Aburto, October 2019)|Thru Cloud and Sunshine, Lord, Abide with Me!]] — Reyna I. Aburto, 2019-October *(explicit citation)*
+- [[The Dawning of a Brighter Day (President Gordon B. Hinckley, April 2004)|The Dawning of a Brighter Day]] — President Gordon B. Hinckley, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -83,13 +84,13 @@ The chapter grounds restoration in the LORD's mercy rather than Zion's independe
 - **October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66** (lesson) *(explicit citation)*
 - **23 Every Snare** (history) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **The Seer 1854-05 (Vol. 2 No. 5)** (history, 1854-05) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Chapter 12: Proclaim Glad Tidings to All the World** (teachings) *(explicit citation)*
 - **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 - **August 11–17: “Establish … a House of God”: Doctrine and Covenants 88** (lesson) *(explicit citation)*
 - **Chapter 18: Service in the Church** (teachings) *(explicit citation)*
 - **Chapter 14: Remembering Our Spiritual Heritage** (teachings) *(explicit citation)*
-- **Chapter 2: The Mission of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

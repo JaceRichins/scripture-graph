@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 3
 slug: eph-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
+- [[Roots and Branches (Elder Russell M. Nelson, April 2004)|Roots and Branches]] — Elder Russell M. Nelson, 2004-April *(explicit citation)*
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 - [[The Exquisite Gift of the Son (Elder Matthew S. Holland, October 2020)|The Exquisite Gift of the Son]] — Elder Matthew S. Holland, 2020-October *(explicit citation)*
 - [[Drawing Closer to the Savior (Elder Neil L. Andersen, October 2022)|Drawing Closer to the Savior]] — Elder Neil L. Andersen, 2022-October *(explicit citation)*
@@ -73,6 +74,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Within the Walls of Liberty Jail** (history) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 22: Revelation: ‘A Continuous Melody and a Thunderous Appeal’** (teachings) *(explicit citation)*
 - **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
 - **Chapter 4: Strengthening and Preserving the Family** (teachings) *(explicit citation)*
 <!-- SG:END history -->

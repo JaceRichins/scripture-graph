@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 41
 slug: dc-41
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ The chapter connects [[Revelation]], [[Prayer]], [[Obedience]], and [[Government
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[The Law of Tithing (Elder Daniel L. Johnson, October 2006)|The Law of Tithing]] — Elder Daniel L. Johnson, 2006-October *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 - [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
 - [[Do It Now (Elder Donald L. Hallstrom, October 2007)|Do It Now]] — Elder Donald L. Hallstrom, 2007-October *(explicit citation)*
 - [[Christian Courage The Price of Discipleship (Elder Robert D. Hales, October 2008)|Christian Courage: The Price of Discipleship]] — Elder Robert D. Hales, 2008-October *(explicit citation)*

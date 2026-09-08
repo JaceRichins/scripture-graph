@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 5
 slug: matt-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -104,12 +104,12 @@ The closing appeal to the Father's conduct places love of enemies within the imi
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Chapter 1: I Know That My Redeemer Lives** (teachings) *(explicit citation)*
 - **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
+- **Chapter 21: Striving for Perfection** (teachings) *(explicit citation)*
 - **Peace and Violence among 19th-Century Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
 - **Chapter 30: Developing Christlike Attitudes toward Others** (teachings) *(explicit citation)*
 - **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
-- **Chapter 24: ‘Let Your Light So Shine’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

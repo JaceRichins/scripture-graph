@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 19
 slug: judg-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

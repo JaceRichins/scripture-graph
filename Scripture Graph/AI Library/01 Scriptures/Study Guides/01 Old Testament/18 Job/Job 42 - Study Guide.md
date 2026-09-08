@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 42
 slug: job-42
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

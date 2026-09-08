@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 6
 slug: ether-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ The political narrative introduces a tension within [[Government and Laws]]. The
 <!-- SG:BEGIN conference -->
 - [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
 - [[The Wind Did Never Cease to Blow (Elder Aroldo B. Cavalcante, October 2024)|The Wind Did Never Cease to Blow]] — Elder Aroldo B. Cavalcante, 2024-October *(explicit citation)*
+- [[Faith through Tribulation Brings Peace and Joy (Elder Robert D. Hales, April 2003)|Faith through Tribulation Brings Peace and Joy]] — Elder Robert D. Hales, 2003-April *(explicit citation)*
 - [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
 - [[Christ The Light That Shines in Darkness (Sharon Eubank, April 2019)|Christ: The Light That Shines in Darkness]] — Sharon Eubank, 2019-April *(explicit citation)*
 - [[Spiritual Capacity (Michelle Craig, October 2019)|Spiritual Capacity]] — Michelle Craig, 2019-October *(explicit citation)*

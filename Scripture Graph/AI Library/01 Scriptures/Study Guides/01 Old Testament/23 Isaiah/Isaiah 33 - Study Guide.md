@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 33
 slug: isa-33
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
+- [[A Prayer for the Children (Elder Jeffrey R. Holland, April 2003)|A Prayer for the Children]] — Elder Jeffrey R. Holland, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

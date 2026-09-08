@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 29
 slug: jer-29
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -102,7 +102,7 @@ The disputes with rival speakers contribute to the chapter's teaching about [[Pr
 - [[Ministering—“That Ye Love One Another; as I Have Loved You” (Sister Kristin M. Yee, April 2026)|Ministering—“That Ye Love One Another; as I Have Loved You”]] — Sister Kristin M. Yee, 2026-April *(explicit citation)*
 - [[Your Wonderful Journey Home (President Dieter F. Uchtdorf, April 2013)|Your Wonderful Journey Home]] — President Dieter F. Uchtdorf, 2013-April *(explicit citation)*
 - [[The Love of God (President Dieter F. Uchtdorf, October 2009)|The Love of God]] — President Dieter F. Uchtdorf, 2009-October *(explicit citation)*
-- [[God Loves His Children (Elder Taniela B. Wakolo, April 2021)|God Loves His Children]] — Elder Taniela B. Wakolo, 2021-April *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

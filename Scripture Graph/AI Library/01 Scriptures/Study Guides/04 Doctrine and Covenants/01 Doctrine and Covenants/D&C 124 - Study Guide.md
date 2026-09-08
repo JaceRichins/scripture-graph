@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 124
 slug: dc-124
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -106,13 +106,13 @@ Priesthood authority is organized through differentiated offices and quorums. Th
 - [[The Temple and Your Spiritual Foundation (President Russell M. Nelson, October 2021)|The Temple and Your Spiritual Foundation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 - [[Drawing the Power of Jesus Christ into Our Lives (President Russell M. Nelson, April 2017)|Drawing the Power of Jesus Christ into Our Lives]] — President Russell M. Nelson, 2017-April *(explicit citation)*
 - [[Earning the Trust of the Lord and Your Family (Elder Richard J. Maynes, October 2017)|Earning the Trust of the Lord and Your Family]] — Elder Richard J. Maynes, 2017-October *(explicit citation)*
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 - [[“Let This House Be Built unto My Name” (Elder David A. Bednar, April 2020)|“Let This House Be Built unto My Name”]] — Elder David A. Bednar, 2020-April *(explicit citation)*
 - [[The Power of Godliness (Elder Kent F. Richards, April 2016)|The Power of Godliness]] — Elder Kent F. Richards, 2016-April *(explicit citation)*
 - [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
 - [[Essential Truths—Our Need to Act (Elder Adilson de Paula Parrella, October 2017)|Essential Truths—Our Need to Act]] — Elder Adilson de Paula Parrella, 2017-October *(explicit citation)*
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
 - [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
-- [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

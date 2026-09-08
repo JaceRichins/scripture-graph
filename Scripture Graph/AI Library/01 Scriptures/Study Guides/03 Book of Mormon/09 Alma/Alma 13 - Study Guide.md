@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 13
 slug: alma-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -88,12 +88,12 @@ The repeated promise of entering God's rest can include present reconciliation w
 - [[Foreordained to Serve (Elder Steven R. Bangerter, April 2024)|Foreordained to Serve]] — Elder Steven R. Bangerter, 2024-April *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[Moving Closer to Him (Elder Craig A. Cardon, October 2006)|Moving Closer to Him]] — Elder Craig A. Cardon, 2006-October *(explicit citation)*
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
 - [[Faith and the Oath and Covenant of the Priesthood (President Henry B. Eyring, April 2008)|Faith and the Oath and Covenant of the Priesthood]] — President Henry B. Eyring, 2008-April *(explicit citation)*
 - [[Worthy of Our Promised Blessings (Linda S. Reeves, October 2015)|Worthy of Our Promised Blessings]] — Linda S. Reeves, 2015-October *(explicit citation)*
 - [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
-- [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

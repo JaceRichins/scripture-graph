@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 John
 chapter: 1
 slug: 2jn-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,7 @@ _Not yet developed._
 - **Antichrist** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
 - **Voices of the Restoration: The Relief Society** (lesson) *(explicit citation)*
+- **Chapter 1: The Great Commandment—Love the Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

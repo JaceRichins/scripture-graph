@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 22
 slug: 2kgs-22
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **July 13–19. “He Trusted in the Lord God of Israel”: 2 Kings 16–25** (lesson) *(explicit citation)*
+- **Chapter 6: Discovering the Scriptures for Ourselves** (teachings) *(explicit citation)*
 - **Thoughts to Keep in Mind: The Historical Books in the Old Testament** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 

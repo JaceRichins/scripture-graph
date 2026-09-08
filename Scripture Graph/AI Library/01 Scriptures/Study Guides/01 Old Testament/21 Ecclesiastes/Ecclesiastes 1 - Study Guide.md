@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 1
 slug: eccl-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ God is explicitly named in verse 13 as the giver of humanity's difficult task. T
 <!-- SG:BEGIN conference -->
 - [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
 - [[As a Little Child (President Jeffrey R. Holland, April 2025)|As a Little Child]] — President Jeffrey R. Holland, 2025-April *(explicit citation)*
+- [[Choose You This Day (President Thomas S. Monson, October 2004)|Choose You This Day]] — President Thomas S. Monson, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

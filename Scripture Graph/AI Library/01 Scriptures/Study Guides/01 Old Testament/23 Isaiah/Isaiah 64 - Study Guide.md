@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 64
 slug: isa-64
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ Verse 6 should be read within this communal lament. Its comparison of "all our r
 - [[The Joy of Living a Christ-Centered Life (Elder Richard J. Maynes, October 2015)|The Joy of Living a Christ-Centered Life]] — Elder Richard J. Maynes, 2015-October *(explicit citation)*
 - [[Hope in Christ (President M. Russell Ballard, April 2021)|Hope in Christ]] — President M. Russell Ballard, 2021-April *(explicit citation)*
 - [[The Great Commandment (Elder Joseph B. Wirthlin, October 2007)|The Great Commandment]] — Elder Joseph B. Wirthlin, 2007-October *(explicit citation)*
+- [[Roots and Branches (Elder Russell M. Nelson, April 2004)|Roots and Branches]] — Elder Russell M. Nelson, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -79,6 +80,8 @@ Verse 6 should be read within this communal lament. Its comparison of "all our r
 - **October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66** (lesson) *(explicit citation)*
 - **October 19–25. “Before I Formed Thee in the Belly I Knew Thee”: Jeremiah 1–3; 7; 16–18; 20** (lesson) *(explicit citation)*
 - **Chapter 20: Agency: Choosing Life or Death** (teachings) *(explicit citation)*
+- **Chapter 22: Peace Be unto Thy Soul** (teachings) *(explicit citation)*
+- **The Seer 1854-05 (Vol. 2 No. 5)** (history, 1854-05) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

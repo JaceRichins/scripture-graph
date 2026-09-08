@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 7
 slug: matt-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,10 +97,10 @@ The chapter connects [[Prayer]] with confidence in the Father's goodness, but de
 - **Chapter 23: Receiving a Testimony of Jesus Christ** (teachings) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Chapter 1: Living What We Believe** (teachings) *(explicit citation)*
+- **Chapter 19: Our Commitment to God** (teachings) *(explicit citation)*
+- **Chapter 6: How Mighty a Thing Is Prayer** (teachings) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Judging Others** (reference-entry) *(explicit citation)*
-- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

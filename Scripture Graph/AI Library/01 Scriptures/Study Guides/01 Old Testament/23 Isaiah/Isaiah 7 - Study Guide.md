@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 7
 slug: isa-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ Scripture: [[Isaiah 7]] · My notes: [[Isaiah 7 - My Notes]]
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
 - **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Chapter 6: Jesus Christ, Our Savior and Redeemer** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

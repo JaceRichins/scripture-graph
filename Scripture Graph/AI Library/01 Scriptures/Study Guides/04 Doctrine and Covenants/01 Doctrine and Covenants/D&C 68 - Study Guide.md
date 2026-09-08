@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 68
 slug: dc-68
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Dear Are the Sheep That Have Wandered (President James E. Faust, April 2003)|Dear Are the Sheep That Have Wandered]] — President James E. Faust, 2003-April *(explicit citation)*
 - [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
 - [[Essential Conversations (Joy D. Jones, April 2021)|Essential Conversations]] — Joy D. Jones, 2021-April *(explicit citation)*
@@ -98,7 +99,6 @@ _Not yet developed._
 - [[Standing with the Leaders of the Church (Elder Ronald A. Rasband, April 2016)|Standing with the Leaders of the Church]] — Elder Ronald A. Rasband, 2016-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
 - [[A Sin-Resistant Generation (Joy D. Jones, April 2017)|A Sin-Resistant Generation]] — Joy D. Jones, 2017-April *(explicit citation)*
-- [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

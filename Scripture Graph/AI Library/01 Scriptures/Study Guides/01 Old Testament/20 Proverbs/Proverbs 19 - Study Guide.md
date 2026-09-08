@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 19
 slug: prov-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -62,7 +62,7 @@ Several sayings carry doctrinal weight beyond ordinary practical advice. Verse 1
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Care for the Life of the Soul (Elder Neal A. Maxwell, April 2003)|Care for the Life of the Soul]] — Elder Neal A. Maxwell, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

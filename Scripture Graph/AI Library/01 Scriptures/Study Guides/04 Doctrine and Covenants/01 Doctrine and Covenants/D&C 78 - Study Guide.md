@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 78
 slug: dc-78
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,11 +100,11 @@ The closing verses (17-22) hold gift and responsibility together: the Saints are
 - **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Church Financial Administration** (reference-entry) *(explicit citation)*
 - **Gratitude** (reference-entry) *(explicit citation)*
+- **Chapter 21: Principles of Temporal and Spiritual Welfare** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
-- **Gratitude** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

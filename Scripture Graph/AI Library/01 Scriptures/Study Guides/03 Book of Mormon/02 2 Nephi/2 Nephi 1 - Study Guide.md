@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 1
 slug: 2ne-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -105,6 +105,7 @@ Lehi's treatment of [[Freedom and Liberty]] also reaches beyond government. Iniq
 - **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
 - **Chapter 28: Exercising Self-Control** (teachings) *(explicit citation)*
+- **Chapter 24: A Christ-Centered Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

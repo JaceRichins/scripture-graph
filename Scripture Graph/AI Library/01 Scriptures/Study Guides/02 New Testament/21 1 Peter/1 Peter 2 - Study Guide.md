@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Peter
 chapter: 2
 slug: 1pet-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,12 +98,12 @@ Its language of a holy and royal [[Priesthood]] is corporate and vocational: the
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Chapter 24: Following the Example of Jesus Christ** (teachings) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Bishop** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **Conversation** (reference-entry) *(explicit citation)*
 - **Darkness** (reference-entry) *(explicit citation)*
-- **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

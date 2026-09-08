@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 81
 slug: dc-81
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ Faithfulness is expressed through counsel, [[Prayer]], gospel ministry, and care
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **Chapter 13: Preparing for Eternal Progression** (teachings) *(explicit citation)*
 - **Chapter 22: Doing Good to Others** (teachings) *(explicit citation)*
+- **Chapter 8: Selfless Service** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Obadiah
 chapter: 1
 slug: obad-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ Its central principle of justice is reciprocal: conduct returns upon the offende
 - [[Our Personal Ministries (Elder Hugo E. Martinez, October 2014)|Our Personal Ministries]] — Elder Hugo E. Martinez, 2014-October *(explicit citation)*
 - [[Now Is the Time to Arise and Shine! (Elaine S. Dalton, April 2012)|Now Is the Time to Arise and Shine!]] — Elaine S. Dalton, 2012-April *(explicit citation)*
 - [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*
+- [[We Did This for You (Elaine S. Dalton, October 2004)|We Did This for You]] — Elaine S. Dalton, 2004-October *(explicit citation)*
 - [[The Hearts of the Children Shall Turn (Elder David A. Bednar, October 2011)|The Hearts of the Children Shall Turn]] — Elder David A. Bednar, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 

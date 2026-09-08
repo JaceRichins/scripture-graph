@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 1
 slug: eph-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ Verse 10's purpose to 'gather together in one all things in Christ' 'in the disp
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Receiving a Testimony of the Restored Gospel of Jesus Christ (Elder Robert D. Hales, October 2003)|Receiving a Testimony of the Restored Gospel of Jesus Christ]] — Elder Robert D. Hales, 2003-October *(explicit citation)*
 - [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*
 - [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
 - [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
@@ -94,7 +95,6 @@ Verse 10's purpose to 'gather together in one all things in Christ' 'in the disp
 - [[Fulfillment of Prophecy (Elder Ronald A. Rasband, April 2020)|Fulfillment of Prophecy]] — Elder Ronald A. Rasband, 2020-April *(explicit citation)*
 - [[“Let This House Be Built unto My Name” (Elder David A. Bednar, April 2020)|“Let This House Be Built unto My Name”]] — Elder David A. Bednar, 2020-April *(explicit citation)*
 - [[Sharing the Message of the Restoration and the Resurrection (Elder D. Todd Christofferson, April 2020)|Sharing the Message of the Restoration and the Resurrection]] — Elder D. Todd Christofferson, 2020-April *(explicit citation)*
-- [[Our Heartfelt All (Elder Dieter F. Uchtdorf, April 2022)|Our Heartfelt All]] — Elder Dieter F. Uchtdorf, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

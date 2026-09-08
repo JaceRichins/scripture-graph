@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 2
 slug: luke-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -91,12 +91,12 @@ The repeated attention to circumcision, purification, sacrifice, and Passover si
 - [[Enduring Power (Elder Kelly R. Johnson, October 2020)|Enduring Power]] — Elder Kelly R. Johnson, 2020-October *(explicit citation)*
 - [[Tell Me the Stories of Jesus (Elder Neil L. Andersen, April 2010)|Tell Me the Stories of Jesus]] — Elder Neil L. Andersen, 2010-April *(explicit citation)*
 - [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
+- [[Receiving a Testimony of the Restored Gospel of Jesus Christ (Elder Robert D. Hales, October 2003)|Receiving a Testimony of the Restored Gospel of Jesus Christ]] — Elder Robert D. Hales, 2003-October *(explicit citation)*
 - [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
 - [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
 - [[Fathers (Elder D. Todd Christofferson, April 2016)|Fathers]] — Elder D. Todd Christofferson, 2016-April *(explicit citation)*
 - [[We Will Prove Them Herewith (Elder David A. Bednar, October 2020)|We Will Prove Them Herewith]] — Elder David A. Bednar, 2020-October *(explicit citation)*
 - [[We Talk of Christ (Elder Neil L. Andersen, October 2020)|We Talk of Christ]] — Elder Neil L. Andersen, 2020-October *(explicit citation)*
-- [[Room in the Inn (Elder Gerrit W. Gong, April 2021)|Room in the Inn]] — Elder Gerrit W. Gong, 2021-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -106,11 +106,11 @@ The repeated attention to circumcision, purification, sacrifice, and Passover si
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Chapter 25: The Birth of Jesus Christ: ‘Good Tidings of Great Joy’** (teachings) *(explicit citation)*
 - **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Chapter 24: Following the Example of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 8: We Look to Christ** (teachings) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
-- **Signs** (reference-entry) *(explicit citation)*
-- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

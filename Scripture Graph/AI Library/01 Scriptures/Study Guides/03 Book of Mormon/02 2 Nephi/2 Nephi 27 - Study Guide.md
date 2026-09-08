@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 27
 slug: 2ne-27
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -107,6 +107,7 @@ The chapter contributes several qualified doctrinal ideas. [[Revelation]] belong
 - **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
 - **September 21–27. “A Marvellous Work and a Wonder”: Isaiah 13–14; 22; 24–30; 35** (lesson) *(explicit citation)*
 - **Chapter 9: Witnesses of the Book of Mormon** (teachings) *(explicit citation)*
+- **Chapter 10: Flooding the Earth and Our Lives with the Book of Mormon** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

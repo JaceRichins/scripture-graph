@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 78
 slug: ps-78
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ The verb 'tempted'/tested God recurs at vv.18, 41, and 56, marking renewed provo
 <!-- SG:BEGIN history -->
 - **August 24–30. “I Will Declare What He Hath Done for My Soul”: Psalms 49–51; 61–66; 69–72; 77–78; 85–86** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Latter-day Saints' Southern Star 1899-02-18 (Vol. 1 No. 12)** (history, 1899-02-18) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

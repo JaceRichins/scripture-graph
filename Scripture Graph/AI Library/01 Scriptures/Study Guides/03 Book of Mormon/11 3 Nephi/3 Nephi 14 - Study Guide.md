@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 14
 slug: 3ne-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,8 @@ The chapter links [[Prayer]] with confidence in the Father's goodness, but descr
 - **Judging Others** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Chapter 10: Our Search for Truth** (teachings) *(explicit citation)*
+- **Chapter 2: Pray Always** (teachings) *(explicit citation)*
+- **Chapter 3: Freedom of Choice, an Eternal Principle** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

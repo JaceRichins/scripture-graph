@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 19
 slug: luke-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -108,6 +108,7 @@ Scripture: [[Luke 19]] · My notes: [[Luke 19 - My Notes]]
 - **Fig tree** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **June 8–14. “The Lord Looketh on the Heart”: 1 Samuel 8–10; 13; 15–16** (lesson) *(explicit citation)*
+- **Chapter 24: Following the Example of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

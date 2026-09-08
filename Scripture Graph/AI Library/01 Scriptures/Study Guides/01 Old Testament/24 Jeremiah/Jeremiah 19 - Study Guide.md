@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 19
 slug: jer-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

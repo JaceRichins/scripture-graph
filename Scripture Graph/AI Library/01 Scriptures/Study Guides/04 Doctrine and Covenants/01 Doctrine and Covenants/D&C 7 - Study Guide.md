@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 7
 slug: dc-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -61,7 +61,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Priesthood, Keys, and the Power to Bless (Elder Merrill J. Bateman, October 2003)|Priesthood, Keys, and the Power to Bless]] — Elder Merrill J. Bateman, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

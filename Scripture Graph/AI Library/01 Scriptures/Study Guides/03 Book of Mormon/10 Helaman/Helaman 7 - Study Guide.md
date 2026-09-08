@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 7
 slug: hel-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,7 +93,7 @@ Helaman 7 also treats public injustice as spiritual sin. [[Government and Laws]]
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

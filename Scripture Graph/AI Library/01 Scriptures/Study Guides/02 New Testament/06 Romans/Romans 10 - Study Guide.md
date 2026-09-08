@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 10
 slug: rom-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,8 +86,8 @@ _Not yet developed._
 - [[Unwavering Commitment to Jesus Christ (Elder Dale G. Renlund, October 2019)|Unwavering Commitment to Jesus Christ]] — Elder Dale G. Renlund, 2019-October *(explicit citation)*
 - [[In the Path of Their Duty (Elder David A. Bednar, October 2023)|In the Path of Their Duty]] — Elder David A. Bednar, 2023-October *(explicit citation)*
 - [[The Way of the Disciple (President Dieter F. Uchtdorf, April 2009)|The Way of the Disciple]] — President Dieter F. Uchtdorf, 2009-April *(explicit citation)*
+- [[Finding Faith in the Lord Jesus Christ (Elder Robert D. Hales, October 2004)|Finding Faith in the Lord Jesus Christ]] — Elder Robert D. Hales, 2004-October *(explicit citation)*
 - [[Conference Report, April 1930 (General Conference (full report), April 1930)|Conference Report, April 1930]] — General Conference (full report), 1930-April *(explicit citation)*
-- [[Faith in the Lord Jesus Christ (Elder Kevin W. Pearson, April 2009)|Faith in the Lord Jesus Christ]] — Elder Kevin W. Pearson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

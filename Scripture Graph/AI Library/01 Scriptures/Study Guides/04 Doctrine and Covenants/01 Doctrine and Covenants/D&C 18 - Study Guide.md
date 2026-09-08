@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 18
 slug: dc-18
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -117,7 +117,7 @@ Taking Christ's name is likewise connected with conduct and covenantal response:
 - **April 14–20: “I Am He Who Liveth, I Am He Who Was Slain”: Easter** (lesson) *(explicit citation)*
 - **Chapter 9: Proclaiming the Gospel** (teachings) *(explicit citation)*
 - **Chapter 6: ‘Every Member a Missionary’** (teachings) *(explicit citation)*
-- **Index by Section Number** (history) *(explicit citation)*
+- **Chapter 8: Taking the Gospel to All the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

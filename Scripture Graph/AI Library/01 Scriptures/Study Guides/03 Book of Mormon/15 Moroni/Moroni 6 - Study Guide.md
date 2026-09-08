@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 6
 slug: moro-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -102,15 +102,15 @@ Discipline is bounded by mercy. Verse 7 treats unresolved iniquity seriously; ve
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 22: Reaching Out with Love to New Converts and Less-Active Members** (teachings) *(explicit citation)*
 - **Ministering** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
+- **Chapter 20: ‘Feed My Sheep’** (teachings) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
-- **Sacrifice** (reference-entry) *(explicit citation)*
-- **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

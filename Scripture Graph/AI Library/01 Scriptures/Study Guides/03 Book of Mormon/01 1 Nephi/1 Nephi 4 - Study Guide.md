@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 4
 slug: 1ne-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ The chapter's theological logic is specific rather than abstract: the Lord's com
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[We Believe All That God Has Revealed (Elder L. Tom Perry, October 2003)|We Believe All That God Has Revealed]] — Elder L. Tom Perry, 2003-October *(explicit citation)*
 - [[Turn to Him and Answers Will Come (Elder James B. Martino, October 2015)|Turn to Him and Answers Will Come]] — Elder James B. Martino, 2015-October *(explicit citation)*
 - [[Confide in God Unwaveringly (Elder Ulisses Soares, April 2017)|Confide in God Unwaveringly]] — Elder Ulisses Soares, 2017-April *(explicit citation)*
 - [[Let the Holy Spirit Guide (Elder Ronald A. Rasband, April 2017)|Let the Holy Spirit Guide]] — Elder Ronald A. Rasband, 2017-April *(explicit citation)*
@@ -94,7 +95,6 @@ The chapter's theological logic is specific rather than abstract: the Lord's com
 - [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
 - [[The Exquisite Gift of the Son (Elder Matthew S. Holland, October 2020)|The Exquisite Gift of the Son]] — Elder Matthew S. Holland, 2020-October *(explicit citation)*
 - [[Faith to Act and Become (Elder Ciro Schmeil, October 2021)|Faith to Act and Become]] — Elder Ciro Schmeil, 2021-October *(explicit citation)*
-- [[Facing Our Spiritual Hurricanes by Believing in Christ (Elder Sean Douglas, October 2021)|Facing Our Spiritual Hurricanes by Believing in Christ]] — Elder Sean Douglas, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

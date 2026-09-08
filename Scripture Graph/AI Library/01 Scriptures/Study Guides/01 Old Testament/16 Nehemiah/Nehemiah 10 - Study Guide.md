@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 10
 slug: neh-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Firstfruits** (reference-entry) *(explicit citation)*
+- **Chapter 9: The Law of Tithing** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

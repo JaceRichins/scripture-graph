@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 2
 slug: rom-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ Conscience in verses 14-15 is morally significant but not described as infallibl
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
+- **Chapter 4: The Miracle of Forgiveness** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

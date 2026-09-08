@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 25
 slug: isa-25
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ _Not yet developed._
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 - **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
+- **Chapter 23: ‘Strengthen Thy Stakes’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

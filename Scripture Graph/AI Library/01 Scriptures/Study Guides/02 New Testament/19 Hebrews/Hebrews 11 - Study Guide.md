@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 11
 slug: heb-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,20 +100,21 @@ Verse 26 gives the Moses narrative an explicitly christological interpretation. 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[But If Not … (Elder Dennis E. Simmons, April 2004)|But If Not …]] — Elder Dennis E. Simmons, 2004-April *(explicit citation)*
 - [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
 - [[Fourth Floor, Last Door (President Dieter F. Uchtdorf, October 2016)|Fourth Floor, Last Door]] — President Dieter F. Uchtdorf, 2016-October *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Abound with Blessings (Elder Dale G. Renlund, April 2019)|Abound with Blessings]] — Elder Dale G. Renlund, 2019-April *(explicit citation)*
 - [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
+- [[Seeing the Promises Afar Off (Anne C. Pingree, October 2003)|Seeing the Promises Afar Off]] — Anne C. Pingree, 2003-October *(explicit citation)*
+- [[With All the Feeling of a Tender Parent A Message of Hope for Families (Elder Robert D. Hales, April 2004)|With All the Feeling of a Tender Parent: A Message of Hope for Families]] — Elder Robert D. Hales, 2004-April *(explicit citation)*
 - [[The Exquisite Gift of the Son (Elder Matthew S. Holland, October 2020)|The Exquisite Gift of the Son]] — Elder Matthew S. Holland, 2020-October *(explicit citation)*
 - [[Faith Is Not by Chance, but by Choice (Elder Neil L. Andersen, October 2015)|Faith Is Not by Chance, but by Choice]] — Elder Neil L. Andersen, 2015-October *(explicit citation)*
-- [[A Yearning for Home (President Dieter F. Uchtdorf, October 2017)|A Yearning for Home]] — President Dieter F. Uchtdorf, 2017-October *(explicit citation)*
-- [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
-- [[Beloved Daughters (Bonnie H. Cordon, October 2019)|Beloved Daughters]] — Bonnie H. Cordon, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 21: Faith and Testimony** (teachings) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **Thoughts to Keep in Mind: Reading the Old Testament** (lesson) *(explicit citation)*
@@ -123,7 +124,6 @@ Verse 26 gives the Moses narrative an explicitly christological interpretation. 
 - **Abel** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
-- **Chapter 15: Living by Faith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 1
 slug: 2tim-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,8 @@ Scripture: [[2 Timothy 1]] · My notes: [[2 Timothy 1 - My Notes]]
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chapter 2: The Everlasting Gospel** (teachings) *(explicit citation)*
+- **Chapter 9: The Precious Gift of Testimony** (teachings) *(explicit citation)*
+- **Chapter 25: Move Forward with Faith** (teachings) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Ephesus** (reference-entry) *(explicit citation)*
 - **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
@@ -100,8 +102,6 @@ Scripture: [[2 Timothy 1]] · My notes: [[2 Timothy 1 - My Notes]]
 - **Chapter 30: Valiant in the Cause of Christ** (teachings) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 - **Chapter 23: Eternal Truth** (teachings) *(explicit citation)*
-- **Chapter 8: Understanding Death and Resurrection** (teachings) *(explicit citation)*
-- **Chapter 14: How to Share the Gospel Effectively** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

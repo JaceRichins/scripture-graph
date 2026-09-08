@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 52
 slug: isa-52
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ Redemption here is explicitly non-commercial: the people were "sold...for nought
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 - **Chapter 14: The Responsibilities and Order of the Priesthood** (teachings) *(explicit citation)*
+- **Chapter 21: The Latter-Day Miracle of Missionary Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

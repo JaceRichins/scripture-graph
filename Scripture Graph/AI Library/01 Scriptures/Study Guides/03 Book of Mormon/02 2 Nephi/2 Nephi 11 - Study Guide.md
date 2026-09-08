@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 11
 slug: 2ne-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -82,8 +82,9 @@ Verse 7 identifies God with Christ and makes creation dependent upon divine exis
 - [[’Tis Eastertide No One Walks Alone (Elder Gerrit W. Gong, April 2026)|’Tis Eastertide: No One Walks Alone]] — Elder Gerrit W. Gong, 2026-April *(explicit citation)*
 - [[Keeping Covenants Protects Us, Prepares Us, and Empowers Us (Rosemary M. Wixom, April 2014)|Keeping Covenants Protects Us, Prepares Us, and Empowers Us]] — Rosemary M. Wixom, 2014-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
+- [[“The Standard of Truth Has Been Erected” (President Boyd K. Packer, October 2003)|“The Standard of Truth Has Been Erected”]] — President Boyd K. Packer, 2003-October *(explicit citation)*
+- [[But If Not … (Elder Dennis E. Simmons, April 2004)|But If Not …]] — Elder Dennis E. Simmons, 2004-April *(explicit citation)*
 - [[My Soul Delighteth in the Things of the Lord (Susan W. Tanner, April 2008)|My Soul Delighteth in the Things of the Lord]] — Susan W. Tanner, 2008-April *(explicit citation)*
-- [[The Book of Mormon Another Testament of Jesus Christ—Plain and Precious Things (President Boyd K. Packer, April 2005)|The Book of Mormon: Another Testament of Jesus Christ—Plain and Precious Things]] — President Boyd K. Packer, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

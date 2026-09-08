@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 2
 slug: titus-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -60,6 +60,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[“Daughters in My Kingdom” The History and Work of Relief Society (Julie B. Beck, October 2010)|“Daughters in My Kingdom”: The History and Work of Relief Society]] — Julie B. Beck, 2010-October *(explicit citation)*
+- [[The Golden Years (President Boyd K. Packer, April 2003)|The Golden Years]] — President Boyd K. Packer, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -69,6 +70,7 @@ _Not yet developed._
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 16: The Elderly in the Church** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

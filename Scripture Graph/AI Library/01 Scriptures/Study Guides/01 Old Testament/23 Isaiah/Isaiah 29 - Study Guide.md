@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 29
 slug: isa-29
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,10 +100,10 @@ Through [[2 Nephi 27]], Latter-day Saint interpretation connects the sealed book
 - **13 The Gift Has Returned** (history) *(explicit citation)*
 - **The Contributions of Martin Harris** (history) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 6: Discovering the Scriptures for Ourselves** (teachings) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
-- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

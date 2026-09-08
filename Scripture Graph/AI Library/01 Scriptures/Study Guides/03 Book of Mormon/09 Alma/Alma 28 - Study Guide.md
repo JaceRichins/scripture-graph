@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 28
 slug: alma-28
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,10 +85,10 @@ Verse 14 answers this inequality with "the great call of diligence of men to lab
 - [[“Come, Follow Me” (President Russell M. Nelson, April 2019)|“Come, Follow Me”]] — President Russell M. Nelson, 2019-April *(explicit citation)*
 - [[God among Us (Elder Dieter F. Uchtdorf, April 2021)|God among Us]] — Elder Dieter F. Uchtdorf, 2021-April *(explicit citation)*
 - [[The Virtue of the Word (Elder Mark D. Eddy, October 2022)|The Virtue of the Word]] — Elder Mark D. Eddy, 2022-October *(explicit citation)*
+- [[The Atonement All for All (Elder Bruce C. Hafen, April 2004)|The Atonement: All for All]] — Elder Bruce C. Hafen, 2004-April *(explicit citation)*
 - [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 - [[Things Pertaining to Righteousness (Elder Francisco J. Viñas, April 2010)|Things Pertaining to Righteousness]] — Elder Francisco J. Viñas, 2010-April *(explicit citation)*
-- [[The Book of Mormon Another Testament of Jesus Christ—Plain and Precious Things (President Boyd K. Packer, April 2005)|The Book of Mormon: Another Testament of Jesus Christ—Plain and Precious Things]] — President Boyd K. Packer, 2005-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

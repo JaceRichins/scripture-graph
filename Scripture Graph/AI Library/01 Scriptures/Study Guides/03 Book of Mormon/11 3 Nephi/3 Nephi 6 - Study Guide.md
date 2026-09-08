@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 6
 slug: 3ne-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ Verse 13 also links [[Humility]], [[Repentance]], and [[Endurance]]: some believ
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 - **Chapter 32: Responding to Persecution with Faith and Courage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 

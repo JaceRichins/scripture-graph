@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 4
 slug: 2ne-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -110,14 +110,14 @@ The closing rejection of the "arm of flesh" (v34) concerns the object of ultimat
 <!-- SG:BEGIN history -->
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Suicide** (reference-entry) *(explicit citation)*
+- **Chapter 24: A Christ-Centered Life** (teachings) *(explicit citation)*
+- **Chapter 23: ‘No Less Serviceable’** (teachings) *(explicit citation)*
 - **Patriarchal Blessings** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Thoughts to Keep in Mind: Reading the Old Testament** (lesson) *(explicit citation)*
 - **March 9–15. “The Lord Was with Joseph”: Genesis 37–41** (lesson) *(explicit citation)*
-- **May 11–17. “Beware Lest Thou Forget the Lord”: Deuteronomy 6–8; 15; 18; 29–30; 34** (lesson) *(explicit citation)*
-- **Chapter 9: Open Your Soul to the Lord in Prayer** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

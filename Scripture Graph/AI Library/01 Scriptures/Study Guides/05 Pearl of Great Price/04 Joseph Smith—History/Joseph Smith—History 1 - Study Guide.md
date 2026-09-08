@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Joseph Smith—History
 chapter: 1
 slug: jsh-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -107,6 +107,7 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Receiving a Testimony of the Restored Gospel of Jesus Christ (Elder Robert D. Hales, October 2003)|Receiving a Testimony of the Restored Gospel of Jesus Christ]] — Elder Robert D. Hales, 2003-October *(explicit citation)*
 - [[Shall We Not Go On in So Great a Cause (President M. Russell Ballard, April 2020)|Shall We Not Go On in So Great a Cause?]] — President M. Russell Ballard, 2020-April *(explicit citation)*
 - [[Gospel Teaching—Our Most Important Calling (William D. Oswald, October 2008)|Gospel Teaching—Our Most Important Calling]] — William D. Oswald, 2008-October *(explicit citation)*
 - [[He Knows You by Name (Elaine S. Dalton, April 2005)|He Knows You by Name]] — Elaine S. Dalton, 2005-April *(explicit citation)*
@@ -116,7 +117,6 @@ Repentance also frames Moroni's commission: Joseph acknowledges weakness, seeks 
 - [[“Let This House Be Built unto My Name” (Elder David A. Bednar, April 2020)|“Let This House Be Built unto My Name”]] — Elder David A. Bednar, 2020-April *(explicit citation)*
 - [[Joseph Smith (Elder Neil L. Andersen, October 2014)|Joseph Smith]] — Elder Neil L. Andersen, 2014-October *(explicit citation)*
 - [[Pillars and Rays (Elder Alexander Dushku, April 2024)|Pillars and Rays]] — Elder Alexander Dushku, 2024-April *(explicit citation)*
-- [[The Man Who Communed with Jehovah (Elder Kyle S. McKay, October 2024)|The Man Who Communed with Jehovah]] — Elder Kyle S. McKay, 2024-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

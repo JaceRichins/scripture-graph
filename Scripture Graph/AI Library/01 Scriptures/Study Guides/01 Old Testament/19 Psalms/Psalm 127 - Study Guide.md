@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 127
 slug: ps-127
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Birth Control** (reference-entry) *(explicit citation)*
 - **Chapter 33: Children: The Richest of All Earthly Joys** (teachings) *(explicit citation)*
+- **Chapter 17: Preserve and Protect the Family** (teachings) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*

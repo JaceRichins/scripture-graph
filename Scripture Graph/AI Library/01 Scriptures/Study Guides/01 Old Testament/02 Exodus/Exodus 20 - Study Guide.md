@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 20
 slug: ex-20
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -95,13 +95,13 @@ The Sabbath command (Exodus 20:8-11) is grounded in the pattern of [[Creation]] 
 - **Ten Commandments** (reference-entry) *(explicit citation)*
 - **Ten Commandments** (reference-entry) *(explicit citation)*
 - **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
+- **Chapter 18: We Believe in Being Honest** (teachings) *(explicit citation)*
 - **Abortion** (reference-entry) *(explicit citation)*
 - **Adoption** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Worship** (reference-entry) *(explicit citation)*
-- **Worship God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

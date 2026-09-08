@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 3
 slug: 1kgs-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

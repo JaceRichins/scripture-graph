@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 3
 slug: rom-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -62,8 +62,8 @@ _Not yet developed._
 - [[Law of Moses]]
 - [[Faith]] *(keyword match — unconfirmed)*
 - [[Justification and Sanctification]] *(keyword match — unconfirmed)*
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Honesty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 11
 slug: ezek-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ The promise of a little sanctuary also shows that divine presence is not depicte
 <!-- SG:BEGIN conference -->
 - [[Unwavering Commitment to Jesus Christ (Elder Dale G. Renlund, October 2019)|Unwavering Commitment to Jesus Christ]] — Elder Dale G. Renlund, 2019-October *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
+- [[When Thou Art Converted (Elder D. Todd Christofferson, April 2004)|When Thou Art Converted]] — Elder D. Todd Christofferson, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

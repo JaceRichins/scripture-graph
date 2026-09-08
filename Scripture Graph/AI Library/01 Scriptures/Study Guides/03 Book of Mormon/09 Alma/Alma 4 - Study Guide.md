@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 4
 slug: alma-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -103,7 +103,9 @@ Scripture: [[Alma 4]] · My notes: [[Alma 4 - My Notes]]
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 5: Principles of True Repentance** (teachings) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

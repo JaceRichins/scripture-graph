@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 2
 slug: james-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -96,11 +96,11 @@ James also makes mercy an issue of accountability: those who show no mercy face 
 - **Chapter 5: Faith and Repentance** (teachings) *(explicit citation)*
 - **Faith** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 13: Obedience Born of Faith in God** (teachings) *(explicit citation)*
 - **Journal of Discourses, Volume 10** (history, ~1863) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Death** (reference-entry) *(explicit citation)*
-- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

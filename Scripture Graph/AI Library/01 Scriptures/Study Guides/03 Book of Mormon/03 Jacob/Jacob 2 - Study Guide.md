@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 2
 slug: jacob-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

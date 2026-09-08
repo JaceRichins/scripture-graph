@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 5
 slug: rom-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -59,8 +59,8 @@ _Not yet developed._
 - [[Justification and Sanctification]]
 - [[Law of Moses]]
 - [[Sin]] *(keyword match — unconfirmed)*
-- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Grace]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Hope]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -82,6 +82,7 @@ The Adam–Christ comparison connects the [[Fall of Adam and Eve]] with Christ's
 - [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[The Love of God (President Dieter F. Uchtdorf, October 2009)|The Love of God]] — President Dieter F. Uchtdorf, 2009-October *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
+- [[But If Not … (Elder Dennis E. Simmons, April 2004)|But If Not …]] — Elder Dennis E. Simmons, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 13
 slug: deut-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The closing verses place severe collective judgment beside mercy and compassion.
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 <!-- SG:END conference -->

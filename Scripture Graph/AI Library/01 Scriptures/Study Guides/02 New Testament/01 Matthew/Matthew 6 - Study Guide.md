@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 6
 slug: matt-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ The chapter also treats discipleship as a question of allegiance. Treasure direc
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 - [[Our Heartfelt All (Elder Dieter F. Uchtdorf, April 2022)|Our Heartfelt All]] — Elder Dieter F. Uchtdorf, 2022-April *(explicit citation)*
 - [[The Privilege of Prayer (Elder J. Devn Cornish, October 2011)|The Privilege of Prayer]] — Elder J. Devn Cornish, 2011-October *(explicit citation)*
 - [[Trusting the Doctrine of Christ (Elder Evan A. Schmutz, April 2023)|Trusting the Doctrine of Christ]] — Elder Evan A. Schmutz, 2023-April *(explicit citation)*
@@ -87,12 +88,12 @@ The chapter also treats discipleship as a question of allegiance. Treasure direc
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
 - [[The Greatest among You (President Dieter F. Uchtdorf, April 2017)|The Greatest among You]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
-- [[The Teachings of Jesus Christ (President Dallin H. Oaks, April 2023)|The Teachings of Jesus Christ]] — President Dallin H. Oaks, 2023-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Prayer** (reference-entry) *(explicit citation)*
+- **Chapter 9: Forgiving Others with All Our Hearts** (teachings) *(explicit citation)*
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Heavenly Parents** (reference-entry) *(explicit citation)*
@@ -100,8 +101,7 @@ The chapter also treats discipleship as a question of allegiance. Treasure direc
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 19: Temporal Blessings and the Law of Tithing** (teachings) *(explicit citation)*
 - **Chapter 22: Temporal and Spiritual Labor, ‘Hand in Hand Together’** (teachings) *(explicit citation)*
-- **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
-- **Worship God the Father** (reference-entry) *(explicit citation)*
+- **Chapter 14: ‘Thou Shalt Have No Other Gods before Me’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

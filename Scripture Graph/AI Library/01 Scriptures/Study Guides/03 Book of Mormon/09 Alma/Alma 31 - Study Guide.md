@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 31
 slug: alma-31
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,12 +97,16 @@ Alma’s counterexample places hope in Christ while treating the dissenters as p
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 8: The Power of the Word** (teachings) *(explicit citation)*
+- **Chapter 12: Come Back and Feast at the Table of the Lord** (teachings) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Teaching the Gospel** (reference-entry) *(explicit citation)*
 - **July 13–19. “He Trusted in the Lord God of Israel”: 2 Kings 16–25** (lesson) *(explicit citation)*
 - **Chapter 22: Prayer—A Commandment and a Blessing** (teachings) *(explicit citation)*
+- **Chapter 2: Pray Always** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

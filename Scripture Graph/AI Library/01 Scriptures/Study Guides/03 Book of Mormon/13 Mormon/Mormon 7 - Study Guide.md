@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 7
 slug: morm-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -73,7 +73,7 @@ _Not yet developed._
 - [[Crucifixion of Jesus Christ]]
 - [[Book of Mormon (Gospel Topic)]]
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
-- [[Final Judgment]] *(keyword match — unconfirmed)*
+- [[Repentance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

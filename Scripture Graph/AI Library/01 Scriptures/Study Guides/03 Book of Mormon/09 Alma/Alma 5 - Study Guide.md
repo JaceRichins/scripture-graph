@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 5
 slug: alma-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -117,11 +117,11 @@ Alma’s testimony joins received witness with personally sought [[Revelation]].
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Testimony** (reference-entry) *(explicit citation)*
+- **Chapter 5: Principles of True Repentance** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Conversion** (reference-entry) *(explicit citation)*
-- **Book of Mormon** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 29
 slug: alma-29
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ Verse 8 portrays revelation and teaching as distributed among nations and tongue
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chapter 9: The Joy of Missionary Work** (teachings) *(explicit citation)*
+- **Chapter 18: Virtue—a Cornerstone on Which to Build Our Lives** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 1
 slug: col-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,7 +93,7 @@ _Not yet developed._
 - [[The Father and the Son (Elder Christoffel Golden Jr., April 2013)|The Father and the Son]] — Elder Christoffel Golden Jr., 2013-April *(explicit citation)*
 - [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 - [[Faith, Service, Constancy (Elder David S. Baxter, October 2006)|Faith, Service, Constancy]] — Elder David S. Baxter, 2006-October *(explicit citation)*
-- [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
+- [[The Grandeur of God (Elder Jeffrey R. Holland, October 2003)|The Grandeur of God]] — Elder Jeffrey R. Holland, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

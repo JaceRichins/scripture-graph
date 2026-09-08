@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 15
 slug: 3ne-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -109,6 +109,8 @@ The second half joins [[Scattering of Israel]] and [[Gathering of Israel]]. Sepa
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Chapter 13: Preparing for Eternal Progression** (teachings) *(explicit citation)*
 - **August 11–17: “Establish … a House of God”: Doctrine and Covenants 88** (lesson) *(explicit citation)*
+- **Chapter 16: The Elderly in the Church** (teachings) *(explicit citation)*
+- **Chapter 24: Following the Example of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

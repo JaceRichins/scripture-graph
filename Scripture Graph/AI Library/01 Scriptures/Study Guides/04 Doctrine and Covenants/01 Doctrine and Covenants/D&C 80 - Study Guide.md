@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 80
 slug: dc-80
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -68,13 +68,16 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
 - [[Do What Mattereth Most (Rebecca L. Craven, April 2022)|Do What Mattereth Most]] — Rebecca L. Craven, 2022-April *(explicit citation)*
+- [[Senior Missionaries and the Gospel (Elder Russell M. Nelson, October 2004)|Senior Missionaries and the Gospel]] — Elder Russell M. Nelson, 2004-October *(explicit citation)*
 - [[The Spirit of Revelation (Elder David A. Bednar, April 2011)|The Spirit of Revelation]] — Elder David A. Bednar, 2011-April *(explicit citation)*
+- [[Pure Testimony (Elder M. Russell Ballard, October 2004)|Pure Testimony]] — Elder M. Russell Ballard, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Index by Section Number** (history) *(explicit citation)*
 - **July 14–20: “I Will Lead You Along”: Doctrine and Covenants 77–80** (lesson) *(explicit citation)*
+- **Chapter 9: The Precious Gift of Testimony** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

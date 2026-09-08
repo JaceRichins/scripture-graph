@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 48
 slug: isa-48
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ The chapter presents redemption as morally serious grace. Israel is called treac
 - **September 28–October 4. “Comfort Ye My People”: Isaiah 40–49** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **November 16–22. “I Will Love Them Freely”: Hosea 1–6; 10–14; Joel** (lesson) *(explicit citation)*
+- **Chapter 15: We Should Be a Reverent People** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

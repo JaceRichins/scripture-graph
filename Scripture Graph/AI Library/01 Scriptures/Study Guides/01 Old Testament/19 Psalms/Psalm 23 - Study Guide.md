@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 23
 slug: ps-23
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 - [[The Sabbath and the Sacrament (Elder L. Tom Perry, April 2011)|The Sabbath and the Sacrament]] — Elder L. Tom Perry, 2011-April *(explicit citation)*
 - [[Faith, Fortitude, Fulfillment A Message to Single Parents (Elder David S. Baxter, April 2012)|Faith, Fortitude, Fulfillment: A Message to Single Parents]] — Elder David S. Baxter, 2012-April *(explicit citation)*
 - [[God Helps the Faithful Priesthood Holder (President Henry B. Eyring, October 2007)|God Helps the Faithful Priesthood Holder]] — President Henry B. Eyring, 2007-October *(explicit citation)*
+- [[The Women in Our Lives (President Gordon B. Hinckley, October 2004)|The Women in Our Lives]] — President Gordon B. Hinckley, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

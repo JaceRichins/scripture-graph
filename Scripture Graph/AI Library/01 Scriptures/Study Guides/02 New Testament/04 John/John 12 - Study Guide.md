@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 12
 slug: john-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -106,6 +106,7 @@ Verses 44–50 strongly unite Jesus's mission with the Father's authority while 
 <!-- SG:BEGIN history -->
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Chapter 14: Losing Ourselves in the Service of Others** (teachings) *(explicit citation)*
 - **Light of Christ** (reference-entry) *(explicit citation)*
 - **Bethsaida** (reference-entry) *(explicit citation)*
 - **Confession** (reference-entry) *(explicit citation)*
@@ -113,7 +114,6 @@ Verses 44–50 strongly unite Jesus's mission with the Father's authority while 
 - **Devil** (reference-entry) *(explicit citation)*
 - **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
 - **June 9–15: “I Am with the Faithful Always”: Doctrine and Covenants 60–63** (lesson) *(explicit citation)*
-- **The Life and Ministry of Joseph Fielding Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

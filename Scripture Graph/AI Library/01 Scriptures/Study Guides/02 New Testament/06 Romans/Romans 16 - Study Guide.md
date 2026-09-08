@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 16
 slug: rom-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ The doxology (vv. 25-27) offers a compact statement of revelation theology: the 
 <!-- SG:BEGIN history -->
 - **Relief Society** (reference-entry) *(explicit citation)*
 - **Aquila** (reference-entry) *(explicit citation)*
+- **Chapter 5: Daughters of God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

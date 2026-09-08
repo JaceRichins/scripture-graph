@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 8
 slug: mosiah-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -59,8 +59,8 @@ Scripture: [[Mosiah 8]] · My notes: [[Mosiah 8 - My Notes]]
 <!-- SG:BEGIN topics -->
 - [[Prophets]]
 - [[Mosiah 28]]
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
+- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Education and Learning]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
@@ -76,6 +76,7 @@ Mosiah 8 gives the Book of Mormon's fullest description of a seer: one "commande
 - [[Follow the Prophet; He Knows the Way (Elder Michael John U. Teh, April 2026)|Follow the Prophet; He Knows the Way]] — Elder Michael John U. Teh, 2026-April *(explicit citation)*
 - [[General Conference Strengthening Faith and Testimony (Elder Robert D. Hales, October 2013)|General Conference: Strengthening Faith and Testimony]] — Elder Robert D. Hales, 2013-October *(explicit citation)*
 - [[Couple Missionaries Blessings from Sacrifice and Service (Elder Robert D. Hales, April 2005)|Couple Missionaries: Blessings from Sacrifice and Service]] — Elder Robert D. Hales, 2005-April *(explicit citation)*
+- [[How Choice a Seer! (Elder Neal A. Maxwell, October 2003)|How Choice a Seer!]] — Elder Neal A. Maxwell, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -84,6 +85,9 @@ Mosiah 8 gives the Book of Mormon's fullest description of a seer: one "commande
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **03 Plates of Gold** (history) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **Chapter 20: ‘Feed My Sheep’** (teachings) *(explicit citation)*
+- **Chapter 5: Joseph Smith, Prophet of the Restoration** (teachings) *(explicit citation)*
+- **Chapter 7: Continuous Revelation through Living Prophets** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

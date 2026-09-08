@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 15
 slug: 1sam-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ The chapter's most quoted teaching is that obedience to revealed command outweig
 - [[Faith Is Not by Chance, but by Choice (Elder Neil L. Andersen, October 2015)|Faith Is Not by Chance, but by Choice]] — Elder Neil L. Andersen, 2015-October *(explicit citation)*
 - [[Obedience Brings Blessings (President Thomas S. Monson, April 2013)|Obedience Brings Blessings]] — President Thomas S. Monson, 2013-April *(explicit citation)*
 - [[Ponder the Path of Thy Feet (President Thomas S. Monson, October 2014)|Ponder the Path of Thy Feet]] — President Thomas S. Monson, 2014-October *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
 - [[The Power of Scripture (Elder Richard G. Scott, October 2011)|The Power of Scripture]] — Elder Richard G. Scott, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
@@ -87,6 +88,7 @@ The chapter's most quoted teaching is that obedience to revealed command outweig
 - **Amalek, Amalekites** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
 - **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
+- **Chapter 19: Our Commitment to God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

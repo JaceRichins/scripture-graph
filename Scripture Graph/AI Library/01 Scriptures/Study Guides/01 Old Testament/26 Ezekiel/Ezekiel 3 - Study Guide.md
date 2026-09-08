@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 3
 slug: ezek-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ The four cases also show that prior moral status does not make later conduct irr
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
 - **Chapter 24: Sustaining Those Who Are Called to Preside** (teachings) *(explicit citation)*
+- **Chapter 12: Obedience: Simply Live the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

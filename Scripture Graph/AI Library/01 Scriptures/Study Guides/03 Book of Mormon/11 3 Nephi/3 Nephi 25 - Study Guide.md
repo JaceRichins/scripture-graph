@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 25
 slug: 3ne-25
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ Verse 4 functions as a hinge, looking backward to the covenant given at Horeb be
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Chapter 26: Elijah and the Restoration of the Sealing Keys** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

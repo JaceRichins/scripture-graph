@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 10
 slug: 1cor-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,9 +89,9 @@ _Not yet developed._
 - [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
 - [[The Three Rs of Choice (President Thomas S. Monson, October 2010)|The Three Rs of Choice]] — President Thomas S. Monson, 2010-October *(explicit citation)*
 - [[True to the Faith (President Thomas S. Monson, April 2006)|True to the Faith]] — President Thomas S. Monson, 2006-April *(explicit citation)*
-- [[Courage to Proclaim the Truth (Elder Denelson Silva, October 2022)|Courage to Proclaim the Truth]] — Elder Denelson Silva, 2022-October *(explicit citation)*
-- [[Becoming Provident Providers Temporally and Spiritually (Elder Robert D. Hales, April 2009)|Becoming Provident Providers Temporally and Spiritually]] — Elder Robert D. Hales, 2009-April *(explicit citation)*
-- [[Prayer and Promptings (President Boyd K. Packer, October 2009)|Prayer and Promptings]] — President Boyd K. Packer, 2009-October *(explicit citation)*
+- [[The Bridge Builder (President Thomas S. Monson, October 2003)|The Bridge Builder]] — President Thomas S. Monson, 2003-October *(explicit citation)*
+- [[“The Standard of Truth Has Been Erected” (President Boyd K. Packer, October 2003)|“The Standard of Truth Has Been Erected”]] — President Boyd K. Packer, 2003-October *(explicit citation)*
+- [[But If Not … (Elder Dennis E. Simmons, April 2004)|But If Not …]] — Elder Dennis E. Simmons, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

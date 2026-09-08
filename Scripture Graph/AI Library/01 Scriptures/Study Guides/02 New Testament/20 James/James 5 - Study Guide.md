@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 5
 slug: james-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 11
 slug: isa-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -101,12 +101,12 @@ The ruler's justice gives priority to righteousness and equity rather than appea
 - **25 Move On to the West** (history) *(explicit citation)*
 - **46 Endowed with Power** (history) *(explicit citation)*
 - **October 6–12: “I Will Order All Things for Your Good”: Doctrine and Covenants 111–114** (lesson) *(explicit citation)*
+- **Chapter 2: An Ensign to the Nations, a Light to the World** (teachings) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Millennium** (reference-entry) *(explicit citation)*
 - **Latter Day Saints' Messenger and Advocate 1834-11-01 (Vol. 1 No. 2)** (periodical, 1834-11-01) *(explicit citation)*
 - **Elam** (reference-entry) *(explicit citation)*
 - **Ephraim** (reference-entry) *(explicit citation)*
-- **Fear** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

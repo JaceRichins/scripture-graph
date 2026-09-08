@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 John
 chapter: 5
 slug: 1jn-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ _Not yet developed._
 - **Chapter 9: Repentance and Baptism** (teachings) *(explicit citation)*
 - **Chapter 18: Stay on the Lord’s Side of the Line** (teachings) *(explicit citation)*
 - **Chapter 17: A Testimony of the Truth** (teachings) *(explicit citation)*
+- **Chapter 1: The Great Commandment—Love the Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

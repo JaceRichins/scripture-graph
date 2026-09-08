@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 13
 slug: 3ne-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ The chapter portrays the Father as one who sees hidden devotion (3 Nephi 13:4, 6
 <!-- SG:BEGIN history -->
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Chapter 43: Our Search for Truth and Personal Testimony** (teachings) *(explicit citation)*

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 14
 slug: isa-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ Doctrine and Covenants 76:25-27 identifies a rebellious premortal angel as Lucif
 - [[Your Great Adventure (Elder Dieter F. Uchtdorf, October 2019)|Your Great Adventure]] — Elder Dieter F. Uchtdorf, 2019-October *(explicit citation)*
 - [[Our Father’s Plan—Big Enough for All His Children (Elder Quentin L. Cook, April 2009)|Our Father’s Plan—Big Enough for All His Children]] — Elder Quentin L. Cook, 2009-April *(explicit citation)*
 - [[Opposition in All Things (Elder Dallin H. Oaks, April 2016)|Opposition in All Things]] — Elder Dallin H. Oaks, 2016-April *(explicit citation)*
+- [[War and Peace (President Gordon B. Hinckley, April 2003)|War and Peace]] — President Gordon B. Hinckley, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

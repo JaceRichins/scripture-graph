@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 45
 slug: alma-45
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,7 @@ In the final scene, riches are not condemned in isolation. The narrated sequence
 - **Fasting** (reference-entry) *(explicit citation)*
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **Chapter 24: Sharing the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

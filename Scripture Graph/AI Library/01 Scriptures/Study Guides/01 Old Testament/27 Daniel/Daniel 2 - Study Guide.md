@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 2
 slug: dan-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,11 +100,11 @@ The chapter grounds [[Revelation]] and [[Prophecy]] in God's sovereignty over hi
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 15: Advancing the Work of the Lord** (teachings) *(explicit citation)*
+- **Chapter 5: Joseph Smith, Prophet of the Restoration** (teachings) *(explicit citation)*
 - **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Mormonism** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
-- **Apostasy** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

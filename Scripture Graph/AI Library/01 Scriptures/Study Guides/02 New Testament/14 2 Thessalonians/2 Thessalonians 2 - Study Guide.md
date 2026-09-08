@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 2
 slug: 2thes-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*
 - [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
+- [[Receiving a Testimony of the Restored Gospel of Jesus Christ (Elder Robert D. Hales, October 2003)|Receiving a Testimony of the Restored Gospel of Jesus Christ]] — Elder Robert D. Hales, 2003-October *(explicit citation)*
 - [[Joseph Smith—Prophet of the Restoration (Elder Tad R. Callister, October 2009)|Joseph Smith—Prophet of the Restoration]] — Elder Tad R. Callister, 2009-October *(explicit citation)*
 - [[A Pattern for All (Elder Merrill J. Bateman, October 2005)|A Pattern for All]] — Elder Merrill J. Bateman, 2005-October *(explicit citation)*
 <!-- SG:END conference -->

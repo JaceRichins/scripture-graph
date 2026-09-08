@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 28
 slug: matt-28
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -96,11 +96,11 @@ The chapter grounds [[Missionary Work]] in the authority of [[Jesus Christ (Gosp
 - **A School and an Endowment** (history) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 6: The Atonement and Resurrection of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 24: The Atonement of Jesus Christ: Vast in Its Reach, Intimate in Its Effect** (teachings) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Missionary Work** (reference-entry) *(explicit citation)*
-- **Resurrection** (reference-entry) *(explicit citation)*
-- **Latter Day Saints' Messenger and Advocate 1836-02-01 (Vol. 2 No. 5)** (periodical, 1836-02-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

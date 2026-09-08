@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 27
 slug: mosiah-27
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -66,14 +66,14 @@ Scripture: [[Mosiah 27]] · My notes: [[Mosiah 27 - My Notes]]
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
-- [[Work and Self-Reliance]]
 - [[Conversion]]
+- [[Work and Self-Reliance]]
 - [[Repentance and Forgiveness]]
 - [[Pride]]
 - [[Final Judgment]]
 - [[Angels]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

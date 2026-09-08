@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 26
 slug: mosiah-26
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,8 @@ _Not yet developed._
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
+- **Chapter 4: The Miracle of Forgiveness** (teachings) *(explicit citation)*
+- **Chapter 5: Principles of True Repentance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

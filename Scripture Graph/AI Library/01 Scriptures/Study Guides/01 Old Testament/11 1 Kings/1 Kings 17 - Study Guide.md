@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Kings
 chapter: 17
 slug: 1kgs-17
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ The widow's accusation associates tragedy with remembered [[Sin]], but the narra
 - [[Lay Up in Store (Bishop Keith B. McMullin, April 2007)|Lay Up in Store]] — Bishop Keith B. McMullin, 2007-April *(explicit citation)*
 - [[The Hearts of the Children Shall Turn (Elder David A. Bednar, October 2011)|The Hearts of the Children Shall Turn]] — Elder David A. Bednar, 2011-October *(explicit citation)*
 - [[Tithing—a Commandment Even for the Destitute (Elder Lynn G. Robbins, April 2005)|Tithing—a Commandment Even for the Destitute]] — Elder Lynn G. Robbins, 2005-April *(explicit citation)*
+- [[Care for the Life of the Soul (Elder Neal A. Maxwell, April 2003)|Care for the Life of the Soul]] — Elder Neal A. Maxwell, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -96,6 +97,7 @@ The widow's accusation associates tragedy with remembered [[Sin]], but the narra
 - **Miracles** (reference-entry) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Elijah** (reference-entry) *(explicit citation)*
+- **Chapter 12: Obedience: Simply Live the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

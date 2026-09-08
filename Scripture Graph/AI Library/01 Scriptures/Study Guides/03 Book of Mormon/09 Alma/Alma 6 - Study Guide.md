@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 6
 slug: alma-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -102,6 +102,7 @@ The chapter functions as a hinge: it completes the Zarahemla narrative from [[Al
 - **Laying On of Hands** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

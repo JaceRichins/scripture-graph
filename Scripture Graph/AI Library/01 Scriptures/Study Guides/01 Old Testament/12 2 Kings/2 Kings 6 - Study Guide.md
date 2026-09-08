@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 6
 slug: 2kgs-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,8 @@ _Not yet developed._
 - [[Eyes to See (Michelle D. Craig, October 2020)|Eyes to See]] — Michelle D. Craig, 2020-October *(explicit citation)*
 - [[O Ye That Embark (President Henry B. Eyring, October 2008)|O Ye That Embark]] — President Henry B. Eyring, 2008-October *(explicit citation)*
 - [[Lord, Wilt Thou Cause That My Eyes May Be Opened (Elder W. Craig Zwick, October 2017)|Lord, Wilt Thou Cause That My Eyes May Be Opened]] — Elder W. Craig Zwick, 2017-October *(explicit citation)*
+- [[Care for the Life of the Soul (Elder Neal A. Maxwell, April 2003)|Care for the Life of the Soul]] — Elder Neal A. Maxwell, 2003-April *(explicit citation)*
+- [[An Ensign to the Nations, a Light to the World (President Gordon B. Hinckley, October 2003)|An Ensign to the Nations, a Light to the World]] — President Gordon B. Hinckley, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

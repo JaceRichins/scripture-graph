@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 15
 slug: 1cor-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -105,6 +105,7 @@ The sun, moon, stars, and celestial and terrestrial bodies invite comparison wit
 ## Church History
 <!-- SG:BEGIN history -->
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **Chapter 3: Jesus Christ: My Savior, My Lord** (teachings) *(explicit citation)*
 - **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Baptisms for the Dead** (reference-entry) *(explicit citation)*
@@ -113,7 +114,6 @@ The sun, moon, stars, and celestial and terrestrial bodies invite comparison wit
 - **Grace** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
-- **Resurrection** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

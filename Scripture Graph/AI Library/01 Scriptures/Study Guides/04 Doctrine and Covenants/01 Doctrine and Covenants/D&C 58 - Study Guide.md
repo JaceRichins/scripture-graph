@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 58
 slug: dc-58
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,9 +98,9 @@ The land instructions also connect [[Consecration]] with practical administratio
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 - [[“Repent … That I May Heal You” (Elder Neil L. Andersen, October 2009)|“Repent … That I May Heal You”]] — Elder Neil L. Andersen, 2009-October *(explicit citation)*
 - [[Remembering, Repenting, and Changing (Julie B. Beck, April 2007)|Remembering, Repenting, and Changing]] — Julie B. Beck, 2007-April *(explicit citation)*
+- [[Peace of Conscience and Peace of Mind (Elder Richard G. Scott, October 2004)|Peace of Conscience and Peace of Mind]] — Elder Richard G. Scott, 2004-October *(explicit citation)*
+- [[Press On (Elder Joseph B. Wirthlin, October 2004)|Press On]] — Elder Joseph B. Wirthlin, 2004-October *(explicit citation)*
 - [[Latter-day Saints Keep on Trying (Elder Dale G. Renlund, April 2015)|Latter-day Saints Keep on Trying]] — Elder Dale G. Renlund, 2015-April *(explicit citation)*
-- [[The Greatest Generation of Young Adults (Elder M. Russell Ballard, April 2015)|The Greatest Generation of Young Adults]] — Elder M. Russell Ballard, 2015-April *(explicit citation)*
-- [[Meeting the Challenges of Today’s World (Elder Robert D. Hales, October 2015)|Meeting the Challenges of Today’s World]] — Elder Robert D. Hales, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

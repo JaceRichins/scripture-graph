@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 14
 slug: zech-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

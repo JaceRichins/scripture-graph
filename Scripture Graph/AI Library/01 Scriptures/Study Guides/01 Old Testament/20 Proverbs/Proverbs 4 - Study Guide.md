@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 4
 slug: prov-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ _Not yet developed._
 - **Chapter 37: Charity, the Pure Love of Christ** (teachings) *(explicit citation)*
 - **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
 - **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
+- **Chapter 17: Continue in the Great Process of Learning** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

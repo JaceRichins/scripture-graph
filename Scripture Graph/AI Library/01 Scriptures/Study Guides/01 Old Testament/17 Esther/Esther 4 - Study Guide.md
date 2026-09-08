@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 4
 slug: esth-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,8 @@ _Not yet developed._
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
 - [[Invite Christ to Author Your Story (Camille N. Johnson, October 2021)|Invite Christ to Author Your Story]] — Camille N. Johnson, 2021-October *(explicit citation)*
 - [[Walking in Covenant Relationship with Christ (President Emily Belle Freeman, October 2023)|Walking in Covenant Relationship with Christ]] — President Emily Belle Freeman, 2023-October *(explicit citation)*
+- [[The Virtues of Righteous Daughters of God (President James E. Faust, April 2003)|The Virtues of Righteous Daughters of God]] — President James E. Faust, 2003-April *(explicit citation)*
+- [[We Did This for You (Elaine S. Dalton, October 2004)|We Did This for You]] — Elaine S. Dalton, 2004-October *(explicit citation)*
 - [[For God So Loved Us (Elder Michael T. Ringwood, April 2022)|For God So Loved Us]] — Elder Michael T. Ringwood, 2022-April *(explicit citation)*
 - [[Which Way Do You Face (Elder Lynn G. Robbins, October 2014)|Which Way Do You Face?]] — Elder Lynn G. Robbins, 2014-October *(explicit citation)*
 <!-- SG:END conference -->

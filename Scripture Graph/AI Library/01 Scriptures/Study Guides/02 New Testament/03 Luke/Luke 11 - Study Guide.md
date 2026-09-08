@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 11
 slug: luke-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -113,6 +113,7 @@ _Not yet developed._
 - **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
 - **Chapter 8: The Power of Prayer** (teachings) *(explicit citation)*
 - **Chapter 26: Preparing for the Coming of Our Lord** (teachings) *(explicit citation)*
+- **Chapter 2: ‘My Peace I Give unto You’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

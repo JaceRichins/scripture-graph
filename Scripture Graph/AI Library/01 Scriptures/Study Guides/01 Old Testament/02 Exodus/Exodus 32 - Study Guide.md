@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 32
 slug: ex-32
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ Scripture: [[Exodus 32]] · My notes: [[Exodus 32 - My Notes]]
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[We Believe All That God Has Revealed (Elder L. Tom Perry, October 2003)|We Believe All That God Has Revealed]] — Elder L. Tom Perry, 2003-October *(explicit citation)*
 - [[Tomorrow the Lord Will Do Wonders among You (Elder Jeffrey R. Holland, April 2016)|Tomorrow the Lord Will Do Wonders among You]] — Elder Jeffrey R. Holland, 2016-April *(explicit citation)*
 - [[More Than a Hero (Bishop W. Christopher Waddell, October 2023)|More Than a Hero]] — Bishop W. Christopher Waddell, 2023-October *(explicit citation)*
 - [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*

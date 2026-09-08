@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 4
 slug: micah-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ The chapter supports [[Millennium]] (universal instruction, disarmament, cessati
 - [[The Lord Jesus Christ Will Come Again (President Russell M. Nelson, October 2024)|The Lord Jesus Christ Will Come Again]] — President Russell M. Nelson, 2024-October *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
 - [[Conference Report, April 1926 (General Conference (full report), April 1926)|Conference Report, April 1926]] — General Conference (full report), 1926-April *(explicit citation)*
+- [[An Ensign to the Nations, a Light to the World (President Gordon B. Hinckley, October 2003)|An Ensign to the Nations, a Light to the World]] — President Gordon B. Hinckley, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

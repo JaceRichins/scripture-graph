@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jonah
 chapter: 1
 slug: jonah-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Forsake Not Your Own Mercy (Elder Matthew S. Holland, October 2025)|Forsake Not Your Own Mercy]] — Elder Matthew S. Holland, 2025-October *(explicit citation)*
+- [[Did You Get the Right Message (President James E. Faust, April 2004)|Did You Get the Right Message?]] — President James E. Faust, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

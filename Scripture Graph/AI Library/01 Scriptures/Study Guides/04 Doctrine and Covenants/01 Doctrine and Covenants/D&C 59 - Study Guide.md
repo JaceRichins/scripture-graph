@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 59
 slug: dc-59
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -101,9 +101,9 @@ The creation teaching is similarly balanced. Material and sensory goods are affi
 - **Chapter 21: Honoring the Sabbath and the Sacrament** (teachings) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Chapter 26: Observing the Sabbath: That Your Joy May Be Full** (teachings) *(explicit citation)*
+- **Chapter 16: The Sabbath—A Delight** (teachings) *(explicit citation)*
 - **Abortion** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
-- **Sabbath Day** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

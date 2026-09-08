@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 19
 slug: matt-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -108,6 +108,7 @@ The promise to the Twelve joins [[Apostles]] with Israel's future judgment, whil
 <!-- SG:BEGIN history -->
 - **Divorce** (reference-entry) *(explicit citation)*
 - **Chapter 14: ‘With God All Things Are Possible’** (teachings) *(explicit citation)*
+- **Chapter 21: Striving for Perfection** (teachings) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Divorce** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
@@ -115,7 +116,6 @@ The promise to the Twelve joins [[Apostles]] with Israel's future judgment, whil
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Ten Commandments** (reference-entry) *(explicit citation)*
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
-- **Sacrifice** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

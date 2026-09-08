@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 32
 slug: 2ne-32
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -99,10 +99,10 @@ Verse 9 adds a significant purpose for [[Prayer]]. Prayer does not merely reques
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
+- **Chapter 6: Jesus Christ, Our Savior and Redeemer** (teachings) *(explicit citation)*
+- **Chapter 10: The Scriptures—The Most Profitable of All Study** (teachings) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
-- **Revelation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

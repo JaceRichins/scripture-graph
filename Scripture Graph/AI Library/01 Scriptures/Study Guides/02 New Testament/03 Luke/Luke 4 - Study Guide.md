@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 4
 slug: luke-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -70,8 +70,8 @@ Scripture: [[Luke 4]] · My notes: [[Luke 4 - My Notes]]
 - [[Scripture Study]]
 - [[Kingdom of God]]
 - [[Satan and Temptation]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

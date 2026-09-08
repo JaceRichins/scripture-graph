@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 21
 slug: rev-21
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -64,8 +64,8 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Final Judgment]]
-- [[The Godhead]] *(keyword match — unconfirmed)*
 - [[Apostles]] *(keyword match — unconfirmed)*
+- [[The Godhead]] *(keyword match — unconfirmed)*
 - [[Angels]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
@@ -105,6 +105,7 @@ _Not yet developed._
 - **The Seer 1853-02 (Vol. 1 No. 2)** (history, 1853-02) *(explicit citation)*
 - **Chapter 18: Beyond the Veil: Life in the Eternities** (teachings) *(explicit citation)*
 - **Chapter 5: The Grand Destiny of the Faithful** (teachings) *(explicit citation)*
+- **Chapter 23: The Resurrection, an Anchor to the Soul** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 84
 slug: dc-84
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,7 @@ Faithful recipients are said to become sons of Moses and Aaron and Abraham's see
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Key of the Knowledge of God (President James E. Faust, October 2004)|The Key of the Knowledge of God]] — President James E. Faust, 2004-October *(explicit citation)*
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
 - [[Your Potential, Your Privilege (President Dieter F. Uchtdorf, April 2011)|Your Potential, Your Privilege]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
 - [[Faith and the Oath and Covenant of the Priesthood (President Henry B. Eyring, April 2008)|Faith and the Oath and Covenant of the Priesthood]] — President Henry B. Eyring, 2008-April *(explicit citation)*
@@ -113,7 +114,6 @@ Faithful recipients are said to become sons of Moses and Aaron and Abraham's see
 - [[That He May Become Strong Also (President Henry B. Eyring, October 2016)|That He May Become Strong Also]] — President Henry B. Eyring, 2016-October *(explicit citation)*
 - [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
 - [[Called to the Work (Elder David A. Bednar, April 2017)|Called to the Work]] — Elder David A. Bednar, 2017-April *(explicit citation)*
-- [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

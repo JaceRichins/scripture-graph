@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 51
 slug: ps-51
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,7 @@ Verse 5 portrays sinfulness as reaching back to life's beginning, but it does no
 - **Chapter 7: The Plan of Salvation** (teachings) *(explicit citation)*
 - **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 - **Chapter 7: Integrity** (teachings) *(explicit citation)*
+- **Chapter 5: Principles of True Repentance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 21
 slug: john-21
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ The chapter depicts the risen [[Jesus Christ (Gospel Topic)]] as present, author
 - **Chapter 13: Priesthood, the Government and Power of God** (teachings) *(explicit citation)*
 - **Chapter 18: Church Leadership and Selfless Service** (teachings) *(explicit citation)*
 - **Chapter 22: Charity in Our Souls** (teachings) *(explicit citation)*
+- **Chapter 3: Jesus Christ: My Savior, My Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

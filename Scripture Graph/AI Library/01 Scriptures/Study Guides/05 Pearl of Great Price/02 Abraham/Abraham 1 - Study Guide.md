@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 1
 slug: abr-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ Verse 30 likewise requires precision about [[Repentance]]: it says Abraham's fat
 - [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
 - [[He Knows You by Name (Elaine S. Dalton, April 2005)|He Knows You by Name]] — Elaine S. Dalton, 2005-April *(explicit citation)*
 - [[You Have a Noble Birthright (Julie B. Beck, April 2006)|You Have a Noble Birthright]] — Julie B. Beck, 2006-April *(explicit citation)*
+- [[The Key of the Knowledge of God (President James E. Faust, October 2004)|The Key of the Knowledge of God]] — President James E. Faust, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -99,10 +100,10 @@ Verse 30 likewise requires precision about [[Repentance]]: it says Abraham's fat
 - **20 Do Not Cast Me Off** (history) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Thoughts to Keep in Mind: The Covenant** (lesson) *(explicit citation)*
+- **Chapter 13: Priceless Blessings of the House of the Lord** (teachings) *(explicit citation)*
 - **Journal of Discourses, Volume 22** (history, ~1875) *(explicit citation)*
 - **Journal of Discourses, Volume 24** (history, ~1877) *(explicit citation)*
 - **Journal of Discourses, Volume 25** (history, ~1878) *(explicit citation)*
-- **Everlasting Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

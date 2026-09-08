@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 49
 slug: isa-49
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ The final verses unite salvation with judgment. Deliverance of captives is mercy
 ## Church History
 <!-- SG:BEGIN history -->
 - **September 28–October 4. “Comfort Ye My People”: Isaiah 40–49** (lesson) *(explicit citation)*
+- **The Seer 1854-05 (Vol. 2 No. 5)** (history, 1854-05) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1845-03-15 (Vol. 6 No. 5)** (periodical, 1845-03-15) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*

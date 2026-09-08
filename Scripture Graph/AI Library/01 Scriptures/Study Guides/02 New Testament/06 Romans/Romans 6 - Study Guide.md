@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 6
 slug: rom-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -58,9 +58,9 @@ _Not yet developed._
 - [[Sin]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Obedience]] *(keyword match — unconfirmed)*
-- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Grace]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

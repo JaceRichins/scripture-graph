@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 31
 slug: dc-31
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -82,11 +82,11 @@ _Not yet developed._
 - [[Being Temperate in All Things (Elder Kent D. Watson, October 2009)|Being Temperate in All Things]] — Elder Kent D. Watson, 2009-October *(explicit citation)*
 - [[Two Principles for Any Economy (President Dieter F. Uchtdorf, October 2009)|Two Principles for Any Economy]] — President Dieter F. Uchtdorf, 2009-October *(explicit citation)*
 - [[Couple Missionaries Blessings from Sacrifice and Service (Elder Robert D. Hales, April 2005)|Couple Missionaries: Blessings from Sacrifice and Service]] — Elder Robert D. Hales, 2005-April *(explicit citation)*
+- [[Senior Missionaries and the Gospel (Elder Russell M. Nelson, October 2004)|Senior Missionaries and the Gospel]] — Elder Russell M. Nelson, 2004-October *(explicit citation)*
 - [[Safely Gathered Home (Elder Quentin L. Cook, April 2023)|Safely Gathered Home]] — Elder Quentin L. Cook, 2023-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[We Never Walk Alone (President Thomas S. Monson, October 2013)|We Never Walk Alone]] — President Thomas S. Monson, 2013-October *(explicit citation)*
 - [[Lift Up Your Heart and Rejoice (Elder Marcos A. Aidukaitis, April 2022)|Lift Up Your Heart and Rejoice]] — Elder Marcos A. Aidukaitis, 2022-April *(explicit citation)*
-- [[Converted to His Gospel through His Church (Elder Donald L. Hallstrom, April 2012)|Converted to His Gospel through His Church]] — Elder Donald L. Hallstrom, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

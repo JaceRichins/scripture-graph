@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 21
 slug: mosiah-21
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -74,11 +74,11 @@ The official heading summarizes the people as converted, but the narrative depic
 - [[War and Peace]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
-- [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
 - [[Humility]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 - [[Adversity]] *(keyword match — unconfirmed)*
+- [[Freedom and Liberty]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 135
 slug: dc-135
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ The chapter presents sacred witness as something that may carry mortal cost. Its
 <!-- SG:BEGIN conference -->
 - [[Joseph Smith (Elder Neil L. Andersen, October 2014)|Joseph Smith]] — Elder Neil L. Andersen, 2014-October *(explicit citation)*
 - [[The Prophet Joseph Smith Teacher by Example (President Thomas S. Monson, October 2005)|The Prophet Joseph Smith: Teacher by Example]] — President Thomas S. Monson, 2005-October *(explicit citation)*
+- [[Lord, I Believe; Help Thou Mine Unbelief (President James E. Faust, October 2003)|Lord, I Believe; Help Thou Mine Unbelief]] — President James E. Faust, 2003-October *(explicit citation)*
 - [[Shall We Not Go On in So Great a Cause (President M. Russell Ballard, April 2020)|Shall We Not Go On in So Great a Cause?]] — President M. Russell Ballard, 2020-April *(explicit citation)*
 - [[Spiritually Defining Memories (Elder Neil L. Andersen, April 2020)|Spiritually Defining Memories]] — Elder Neil L. Andersen, 2020-April *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
@@ -80,7 +81,6 @@ The chapter presents sacred witness as something that may carry mortal cost. Its
 - [[Safety for the Soul (Elder Jeffrey R. Holland, October 2009)|Safety for the Soul]] — Elder Jeffrey R. Holland, 2009-October *(explicit citation)*
 - [[The Power of the Priesthood (President Boyd K. Packer, April 2010)|The Power of the Priesthood]] — President Boyd K. Packer, 2010-April *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
-- [[Preparations for the Restoration and the Second Coming “My Hand Shall Be over Thee” (Elder Robert D. Hales, October 2005)|Preparations for the Restoration and the Second Coming: “My Hand Shall Be over Thee”]] — Elder Robert D. Hales, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

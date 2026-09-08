@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 2
 slug: 2ne-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -116,8 +116,8 @@ The exact phrase "a broken heart and a contrite spirit" (2 Nephi 2:7) also recur
 - **Agency** (reference-entry) *(explicit citation)*
 - **January 19–25. The Fall of Adam and Eve: Genesis 3–4; Moses 4–5** (lesson) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
+- **Chapter 3: Freedom of Choice, an Eternal Principle** (teachings) *(explicit citation)*
 - **Death, Spiritual** (reference-entry) *(explicit citation)*
-- **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

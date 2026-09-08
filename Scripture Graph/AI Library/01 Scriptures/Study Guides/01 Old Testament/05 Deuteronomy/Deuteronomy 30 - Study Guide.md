@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 30
 slug: deut-30
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ A refrain, "with all thine heart, and with all thy soul," recurs in verses 2, 6,
 <!-- SG:BEGIN conference -->
 - [[A Yearning for Home (President Dieter F. Uchtdorf, October 2017)|A Yearning for Home]] — President Dieter F. Uchtdorf, 2017-October *(explicit citation)*
 - [[The Joy of Our Redemption (Sister Kristin M. Yee, October 2024)|The Joy of Our Redemption]] — Sister Kristin M. Yee, 2024-October *(explicit citation)*
+- [[Are You a Saint (Elder Quentin L. Cook, October 2003)|Are You a Saint?]] — Elder Quentin L. Cook, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

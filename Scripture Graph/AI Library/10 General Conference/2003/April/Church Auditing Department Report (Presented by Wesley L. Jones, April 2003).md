@@ -1,0 +1,45 @@
+---
+ownership: system
+mutable: ai
+content_type: talk
+speaker: Presented by Wesley L. Jones
+year: '2003'
+month: April
+url: https://www.churchofjesuschrist.org/general-conference/2003/04/church-auditing-department-report?lang=eng
+doc_id: talk:2003-april-church-auditing-department-report
+full_text: true
+---
+
+# Church Auditing Department Report
+
+**Speaker:** Presented by Wesley L. Jones · **Conference:** April 2003 · [source](https://www.churchofjesuschrist.org/general-conference/2003/04/church-auditing-department-report?lang=eng)
+
+Church Auditing Department Report
+
+Presented by Wesley L. Jones
+
+Managing Director, Church Auditing Department
+
+To the First Presidency of The Church of Jesus Christ of Latter-day Saints
+
+Dear Brethren: The Church of Jesus Christ of Latter-day Saints maintains an auditing department, which performs its work independently from all other Church departments and operations. The managing director of the Church Auditing Department reports directly and regularly to the First Presidency. Church Auditing Department staff consist of certified public accountants, certified internal auditors, certified information systems auditors, and other qualified, credentialed professionals.
+
+By charge from the First Presidency, the Church Auditing Department has authority to audit all Church departments and operations worldwide. The Church Auditing Department has access to all records, personnel, properties, and systems needed to audit Church contributions, expenditures, and resources. Professional auditing standards govern the performance of audit work. Risk is the primary factor guiding the selection of audits.
+
+The Council on the Disposition of the Tithes is responsible for, and for 2002 authorized, the expenditure of Church funds. This council is composed of the First Presidency, Quorum of the Twelve Apostles, and Presiding Bishopric, as prescribed by revelation. Under direction of this council, contributions and expenditures were controlled through the Church’s Budget and Finance Departments. Administration of contributions received and budgeted expenditures was audited and reported.
+
+Based upon our audits, the Church Auditing Department is of the opinion that, in all material respects, contributions received and funds expended during the year ended December 31, 2002, have been managed in accordance with approved budget guidelines and established Church policies and procedures.
+
+The financial activities of Church-affiliated organizations, which are operated separately from the Church, were not audited by the Church Auditing Department in 2002. These organizations include, among others, Deseret Management Corporation and its subsidiaries and the Church’s institutions of higher education, including Brigham Young University. Independent public accounting firms audited the financial statements and corresponding control activities of these organizations. Nevertheless, the Church Auditing Department did verify that appropriate reporting of these firms’ audit results occurred with each organization’s audit committee.
+
+Respectfully submitted,
+
+Auditing Department
+
+Wesley L. Jones
+
+Managing Director
+
+## Scripture citations in this talk
+
+*None detected.*

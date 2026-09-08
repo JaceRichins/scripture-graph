@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zephaniah
 chapter: 2
 slug: zeph-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

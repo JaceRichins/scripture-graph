@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 3
 slug: 2thes-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

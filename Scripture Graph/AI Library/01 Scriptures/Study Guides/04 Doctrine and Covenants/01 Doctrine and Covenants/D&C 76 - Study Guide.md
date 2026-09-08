@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 76
 slug: dc-76
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -110,8 +110,8 @@ The sons of perdition should not be equated casually with ordinary sinners. The 
 - [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[Two Great Commandments (President Dallin H. Oaks, October 2019)|Two Great Commandments]] — President Dallin H. Oaks, 2019-October *(explicit citation)*
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
+- [[Jesus, the Very Thought of Thee (Bishop Keith B. McMullin, April 2004)|Jesus, the Very Thought of Thee]] — Bishop Keith B. McMullin, 2004-April *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
-- [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

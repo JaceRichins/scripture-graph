@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 16
 slug: acts-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ Lydia's conversion attributes both human hearing and divine initiative to the sa
 - **Dispersion** (reference-entry) *(explicit citation)*
 - **Epistles** (reference-entry) *(explicit citation)*
 - **Galatia** (reference-entry) *(explicit citation)*
+- **Chapter 22: Revelation: ‘A Continuous Melody and a Thunderous Appeal’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

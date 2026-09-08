@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 20
 slug: dc-20
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -111,9 +111,9 @@ Baptismal admission is both inward and public. D&C 20:37 requires humility, repe
 - **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
 - **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
+- **Chapter 9: The Book of Mormon—Keystone of Our Religion** (teachings) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Priest** (reference-entry) *(explicit citation)*
-- **Teacher (Aaronic Priesthood)** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

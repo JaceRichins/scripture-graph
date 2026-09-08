@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 2
 slug: joel-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,8 @@ _Not yet developed._
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
 - [[“And upon the Handmaids in Those Days Will I Pour Out My Spirit” (Julie B. Beck, April 2010)|“And upon the Handmaids in Those Days Will I Pour Out My Spirit”]] — Julie B. Beck, 2010-April *(explicit citation)*
 - [[Fulfilling the Purpose of Relief Society (Julie B. Beck, October 2008)|Fulfilling the Purpose of Relief Society]] — Julie B. Beck, 2008-October *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
+- [[When Thou Art Converted (Elder D. Todd Christofferson, April 2004)|When Thou Art Converted]] — Elder D. Todd Christofferson, 2004-April *(explicit citation)*
 - [[Conference Report, April 1930 (General Conference (full report), April 1930)|Conference Report, April 1930]] — General Conference (full report), 1930-April *(explicit citation)*
 - [[Sacred Keys of the Aaronic Priesthood (Larry M. Gibson, April 2011)|Sacred Keys of the Aaronic Priesthood]] — Larry M. Gibson, 2011-April *(explicit citation)*
 <!-- SG:END conference -->

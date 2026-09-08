@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 17
 slug: prov-17
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ The chapter grounds conduct in divine and creational accountability: the LORD te
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
+- **Chapter 3: Cultivating an Attitude of Happiness and a Spirit of Optimism** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 20
 slug: 2chr-20
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ The prayer also joins [[Temples]], covenant memory, and present need. Jehoshapha
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Ahaziah** (reference-entry) *(explicit citation)*
 - **Chronicles** (reference-entry) *(explicit citation)*
+- **Chapter 11: Follow the Living Prophet** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

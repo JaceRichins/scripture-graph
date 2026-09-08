@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 12
 slug: hel-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Chapter 8: Faith in the Lord Jesus Christ** (teachings) *(explicit citation)*
 - **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

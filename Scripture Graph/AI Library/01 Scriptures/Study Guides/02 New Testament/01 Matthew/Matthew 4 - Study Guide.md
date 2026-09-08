@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 4
 slug: matt-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ Jesus' message joins [[Repentance]] to the nearness of the [[Kingdom of God]] (M
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Building a Life Resistant to the Adversary (Elder Jorge F. Zeballos, October 2022)|Building a Life Resistant to the Adversary]] — Elder Jorge F. Zeballos, 2022-October *(explicit citation)*
+- [[The Bridge Builder (President Thomas S. Monson, October 2003)|The Bridge Builder]] — President Thomas S. Monson, 2003-October *(explicit citation)*
 - [[Sons and Daughters of God (Elder Rubén V. Alliaud, October 2024)|Sons and Daughters of God]] — Elder Rubén V. Alliaud, 2024-October *(explicit citation)*
 - [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
 - [[Know Who You Really Are (Elder Brik V. Eyre, October 2025)|Know Who You Really Are]] — Elder Brik V. Eyre, 2025-October *(explicit citation)*
@@ -94,7 +95,6 @@ Jesus' message joins [[Repentance]] to the nearness of the [[Kingdom of God]] (M
 - [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
-- [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

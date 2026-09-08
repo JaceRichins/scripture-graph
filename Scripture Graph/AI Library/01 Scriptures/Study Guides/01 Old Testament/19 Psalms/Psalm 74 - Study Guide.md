@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 74
 slug: ps-74
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

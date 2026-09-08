@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 7
 slug: ps-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

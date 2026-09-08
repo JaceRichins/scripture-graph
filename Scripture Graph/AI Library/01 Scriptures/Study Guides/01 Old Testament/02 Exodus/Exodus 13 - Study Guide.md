@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 13
 slug: ex-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

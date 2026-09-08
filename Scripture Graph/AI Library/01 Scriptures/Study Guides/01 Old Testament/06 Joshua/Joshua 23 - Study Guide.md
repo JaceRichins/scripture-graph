@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 23
 slug: josh-23
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 14
 slug: hel-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Finding Faith in the Lord Jesus Christ (Elder Robert D. Hales, October 2004)|Finding Faith in the Lord Jesus Christ]] — Elder Robert D. Hales, 2004-October *(explicit citation)*
 - [[The Father (Brian K. Ashton, October 2018)|The Father]] — Brian K. Ashton, 2018-October *(explicit citation)*
 - [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
 - [[A Living Witness of the Living Christ (Bishop Gérald Caussé, April 2020)|A Living Witness of the Living Christ]] — Bishop Gérald Caussé, 2020-April *(explicit citation)*
@@ -99,7 +100,6 @@ _Not yet developed._
 - [[Essential Truths—Our Need to Act (Elder Adilson de Paula Parrella, October 2017)|Essential Truths—Our Need to Act]] — Elder Adilson de Paula Parrella, 2017-October *(explicit citation)*
 - [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
-- [[Wilt Thou Be Made Whole (Elder Matthew L. Carpenter, October 2018)|Wilt Thou Be Made Whole?]] — Elder Matthew L. Carpenter, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

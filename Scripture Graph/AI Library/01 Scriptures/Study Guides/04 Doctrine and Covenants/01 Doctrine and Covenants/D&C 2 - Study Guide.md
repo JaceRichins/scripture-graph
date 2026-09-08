@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 2
 slug: dc-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -76,12 +76,12 @@ D&C 2 directly links four elements: Elijah, [[Priesthood Restoration]], the plan
 - [[The Sealing Power (Elder D. Todd Christofferson, October 2023)|The Sealing Power]] — Elder D. Todd Christofferson, 2023-October *(explicit citation)*
 - [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
 - [[Roots and Branches (Elder Quentin L. Cook, April 2014)|Roots and Branches]] — Elder Quentin L. Cook, 2014-April *(explicit citation)*
+- [[We Did This for You (Elaine S. Dalton, October 2004)|We Did This for You]] — Elaine S. Dalton, 2004-October *(explicit citation)*
 - [[Prepare to Meet God (Elder Quentin L. Cook, April 2018)|Prepare to Meet God]] — Elder Quentin L. Cook, 2018-April *(explicit citation)*
 - [[Standing by Our Promises and Covenants (Elder Ronald A. Rasband, October 2019)|Standing by Our Promises and Covenants]] — Elder Ronald A. Rasband, 2019-October *(explicit citation)*
 - [[The Character of Christ (President D. Todd Christofferson, April 2026)|The Character of Christ]] — President D. Todd Christofferson, 2026-April *(explicit citation)*
 - [[Come unto Christ—Together (Elder Taniela B. Wakolo, April 2026)|Come unto Christ—Together]] — Elder Taniela B. Wakolo, 2026-April *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
-- [[The Joy of Redeeming the Dead (Elder Richard G. Scott, October 2012)|The Joy of Redeeming the Dead]] — Elder Richard G. Scott, 2012-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 1
 slug: matt-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ Matthew joins identity and mission. “Jesus” is associated with deliverance f
 - [[Bearing Witness of Jesus Christ in Word and Actions (Elder Adilson de Paula Parrella, October 2023)|Bearing Witness of Jesus Christ in Word and Actions]] — Elder Adilson de Paula Parrella, 2023-October *(explicit citation)*
 - [[Joy Through Covenant Discipleship (Elder John A. McCune, April 2025)|Joy Through Covenant Discipleship]] — Elder John A. McCune, 2025-April *(explicit citation)*
 - [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
+- [[The Bridge Builder (President Thomas S. Monson, October 2003)|The Bridge Builder]] — President Thomas S. Monson, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -103,6 +104,7 @@ Matthew joins identity and mission. “Jesus” is associated with deliverance f
 - **Genealogy** (reference-entry) *(explicit citation)*
 - **June 15–21. “The Battle Is the Lord’s”: 1 Samuel 17–18; 24–26; 2 Samuel 5–7** (lesson) *(explicit citation)*
 - **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Chapter 6: Jesus Christ, Our Savior and Redeemer** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

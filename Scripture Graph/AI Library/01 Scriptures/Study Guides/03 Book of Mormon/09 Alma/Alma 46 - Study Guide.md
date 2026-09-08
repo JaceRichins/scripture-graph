@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 46
 slug: alma-46
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ The closing verses distinguish confidence from direct description. Some die beli
 - [[If These Old Walls Could Talk (Bishop H. David Burton, April 2007)|If These Old Walls Could Talk]] — Bishop H. David Burton, 2007-April *(explicit citation)*
 - [[“Mom, Are We Christians” (Elder Gary J. Coleman, April 2007)|“Mom, Are We Christians?”]] — Elder Gary J. Coleman, 2007-April *(explicit citation)*
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
+- [[War and Peace (President Gordon B. Hinckley, April 2003)|War and Peace]] — President Gordon B. Hinckley, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

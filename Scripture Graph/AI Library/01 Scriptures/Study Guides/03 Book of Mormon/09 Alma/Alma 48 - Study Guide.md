@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 48
 slug: alma-48
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -103,7 +103,9 @@ Helaman and his brethren's preaching and baptism 'unto repentance' are explicitl
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
 - **War** (reference-entry) *(explicit citation)*
+- **Chapter 23: ‘No Less Serviceable’** (teachings) *(explicit citation)*
 - **Chapter 8: ‘Search Me, O God, and Know My Heart’** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

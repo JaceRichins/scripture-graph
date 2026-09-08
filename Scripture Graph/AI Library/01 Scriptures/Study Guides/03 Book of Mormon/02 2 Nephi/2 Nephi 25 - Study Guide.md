@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 25
 slug: 2ne-25
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -99,21 +99,21 @@ The chapter also joins the [[Crucifixion of Jesus Christ]], [[Resurrection]], an
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[Compensating Blessings (Bishop Gérald Caussé, April 2025)|Compensating Blessings]] — Bishop Gérald Caussé, 2025-April *(explicit citation)*
 - [[Was It Worth It (Elder David F. Evans, April 2012)|Was It Worth It?]] — Elder David F. Evans, 2012-April *(explicit citation)*
-- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
+- [[The Atonement All for All (Elder Bruce C. Hafen, April 2004)|The Atonement: All for All]] — Elder Bruce C. Hafen, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Salvation** (reference-entry) *(explicit citation)*
+- **Chapter 24: A Christ-Centered Life** (teachings) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
+- **Chapter 6: Jesus Christ, Our Savior and Redeemer** (teachings) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Salvation** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Eternal Life** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

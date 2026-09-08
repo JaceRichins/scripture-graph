@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 36
 slug: alma-36
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -115,10 +115,10 @@ Trust does not eliminate [[Adversity]]. Alma reports trials, prison, bonds, and 
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Testimony** (reference-entry) *(explicit citation)*
+- **Chapter 8: Taking the Gospel to All the World** (teachings) *(explicit citation)*
 - **Unwed Pregnancy** (reference-entry) *(explicit citation)*
 - **Adversity** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Testimony** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

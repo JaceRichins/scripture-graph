@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 24
 slug: acts-24
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 - [[The Correct Name of the Church (President Russell M. Nelson, October 2018)|The Correct Name of the Church]] — President Russell M. Nelson, 2018-October *(explicit citation)*
 - [[Daily Restoration (Elder Dieter F. Uchtdorf, October 2021)|Daily Restoration]] — Elder Dieter F. Uchtdorf, 2021-October *(explicit citation)*
 - [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*
+- [[The Phenomenon That Is You (President James E. Faust, October 2003)|The Phenomenon That Is You]] — President James E. Faust, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

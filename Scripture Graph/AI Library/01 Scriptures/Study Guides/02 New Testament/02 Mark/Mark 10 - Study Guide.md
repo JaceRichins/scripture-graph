@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 10
 slug: mark-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -73,8 +73,8 @@ The chapter unfolds in four movements connected by Jesus's journey "in the way" 
 - [[Crucifixion of Jesus Christ]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
-- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Chastity]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

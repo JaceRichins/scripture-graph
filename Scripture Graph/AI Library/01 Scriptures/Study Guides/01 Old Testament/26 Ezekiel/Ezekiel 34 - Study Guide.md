@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 34
 slug: ezek-34
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,8 @@ Verses 23–24 distinguish the LORD, who remains Israel's God, from the appointe
 - [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
 - [[Missionaries Are a Treasure of the Church (Elder Kazuhiko Yamashita, October 2011)|Missionaries Are a Treasure of the Church]] — Elder Kazuhiko Yamashita, 2011-October *(explicit citation)*
+- [[Anxiously Engaged (President Thomas S. Monson, October 2004)|Anxiously Engaged]] — President Thomas S. Monson, 2004-October *(explicit citation)*
+- [[Strengthen Thy Brethren (Elder Mervyn B. Arnold, April 2004)|Strengthen Thy Brethren]] — Elder Mervyn B. Arnold, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -97,6 +99,7 @@ Verses 23–24 distinguish the LORD, who remains Israel's God, from the appointe
 - **David** (reference-entry) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
 - **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
+- **Chapter 12: Come Back and Feast at the Table of the Lord** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

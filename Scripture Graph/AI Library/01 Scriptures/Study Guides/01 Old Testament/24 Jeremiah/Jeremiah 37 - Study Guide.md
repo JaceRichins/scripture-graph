@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 37
 slug: jer-37
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

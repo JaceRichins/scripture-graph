@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 45
 slug: gen-45
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -66,6 +66,7 @@ _Not yet developed._
 - [[God Will Do Something Unimaginable (Elder Dieter F. Uchtdorf, October 2020)|God Will Do Something Unimaginable]] — Elder Dieter F. Uchtdorf, 2020-October *(explicit citation)*
 - [[Beauty for Ashes The Healing Path of Forgiveness (Sister Kristin M. Yee, October 2022)|Beauty for Ashes: The Healing Path of Forgiveness]] — Sister Kristin M. Yee, 2022-October *(explicit citation)*
 - [[Eternity’s Great Gifts Jesus Christ’s Atonement, Resurrection, Restoration (Elder Gerrit W. Gong, April 2025)|Eternity’s Great Gifts: Jesus Christ’s Atonement, Resurrection, Restoration]] — Elder Gerrit W. Gong, 2025-April *(explicit citation)*
+- [[Forgiveness Will Change Bitterness to Love (Elder David E. Sorensen, April 2003)|Forgiveness Will Change Bitterness to Love]] — Elder David E. Sorensen, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

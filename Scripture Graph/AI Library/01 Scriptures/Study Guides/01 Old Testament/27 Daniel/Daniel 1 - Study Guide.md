@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 1
 slug: dan-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ A connection with the [[Word of Wisdom]] may be devotionally useful, but it must
 - **Daniel** (reference-entry) *(explicit citation)*
 - **Chapter 19: Temporal and Spiritual Blessings from the Word of Wisdom** (teachings) *(explicit citation)*
 - **Chapter 11: Living the Word of Wisdom** (teachings) *(explicit citation)*
+- **Chapter 12: Integrity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

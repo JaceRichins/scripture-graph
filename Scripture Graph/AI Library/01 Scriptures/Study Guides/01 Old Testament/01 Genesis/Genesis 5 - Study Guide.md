@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 5
 slug: gen-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ Lamech's hope concerning Noah connects [[Family]], labor, and the cursed ground 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[“Abide in Me, and I in You; Therefore Walk with Me” (Elder David A. Bednar, April 2023)|“Abide in Me, and I in You; Therefore Walk with Me”]] — Elder David A. Bednar, 2023-April *(explicit citation)*
+- [[Eternal Marriage (Elder F. Burton Howard, April 2003)|Eternal Marriage]] — Elder F. Burton Howard, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

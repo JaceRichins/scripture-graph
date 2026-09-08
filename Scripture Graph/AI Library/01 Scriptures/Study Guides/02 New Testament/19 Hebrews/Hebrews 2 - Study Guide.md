@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 2
 slug: heb-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

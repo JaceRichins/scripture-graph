@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 4
 slug: gal-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ Some readers see an envelope pattern, with sonship/heirship language opening (vv
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
+- [[The Women in Our Lives (President Gordon B. Hinckley, October 2004)|The Women in Our Lives]] — President Gordon B. Hinckley, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -94,6 +95,7 @@ Some readers see an envelope pattern, with sonship/heirship language opening (vv
 - **Adoption** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **Chapter 10: Nurturing the Eternal Partnership of Marriage** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

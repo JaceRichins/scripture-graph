@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 20
 slug: john-20
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,12 +90,12 @@ Thomas directly addresses Jesus as “My Lord and my God” (John 20:28), while 
 - [[The Grave Has No Victory (Reyna I. Aburto, April 2021)|The Grave Has No Victory]] — Reyna I. Aburto, 2021-April *(explicit citation)*
 - [[Our Sorrow Shall Be Turned into Joy (Elder S. Mark Palmer, April 2021)|Our Sorrow Shall Be Turned into Joy]] — Elder S. Mark Palmer, 2021-April *(explicit citation)*
 - [[Spiritually Whole in Him (President Camille N. Johnson, April 2025)|Spiritually Whole in Him]] — President Camille N. Johnson, 2025-April *(explicit citation)*
+- [[Finding Faith in the Lord Jesus Christ (Elder Robert D. Hales, October 2004)|Finding Faith in the Lord Jesus Christ]] — Elder Robert D. Hales, 2004-October *(explicit citation)*
 - [[Sir, We Would Like to See Jesus (Elder Robert M. Daines, October 2023)|Sir, We Would Like to See Jesus]] — Elder Robert M. Daines, 2023-October *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
 - [[Best Days and Worst Days (President Emily Belle Freeman, April 2026)|Best Days and Worst Days]] — President Emily Belle Freeman, 2026-April *(explicit citation)*
 - [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
 - [[The Sacrament and the Atonement (Elder James J. Hamula, October 2014)|The Sacrament and the Atonement]] — Elder James J. Hamula, 2014-October *(explicit citation)*
-- [[Where Justice, Love, and Mercy Meet (Elder Jeffrey R. Holland, April 2015)|Where Justice, Love, and Mercy Meet]] — Elder Jeffrey R. Holland, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -107,9 +107,9 @@ Thomas directly addresses Jesus as “My Lord and my God” (John 20:28), while 
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 21: Faith and Testimony** (teachings) *(explicit citation)*
+- **Chapter 8: We Look to Christ** (teachings) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
-- **Peace** (reference-entry) *(explicit citation)*
-- **Resurrection** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

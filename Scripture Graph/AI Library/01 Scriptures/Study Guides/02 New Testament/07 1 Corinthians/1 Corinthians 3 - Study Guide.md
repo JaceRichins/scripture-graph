@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 3
 slug: 1cor-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

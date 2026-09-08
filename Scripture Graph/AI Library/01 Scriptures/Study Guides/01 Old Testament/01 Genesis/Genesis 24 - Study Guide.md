@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 24
 slug: gen-24
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -84,12 +84,14 @@ Isaac's marriage continues the family line associated with the [[Abrahamic Coven
 <!-- SG:BEGIN conference -->
 - [[Be Not Moved! (Elaine S. Dalton, April 2013)|Be Not Moved!]] — Elaine S. Dalton, 2013-April *(explicit citation)*
 - [[Mothers Who Know (Julie B. Beck, October 2007)|Mothers Who Know]] — Julie B. Beck, 2007-October *(explicit citation)*
+- [[A “Mother Heart” (Julie B. Beck, April 2004)|A “Mother Heart”]] — Julie B. Beck, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **March 2–8. “Let God Prevail”: Genesis 24–33** (lesson) *(explicit citation)*
 - **Chapter 23: Understanding the New and Everlasting Covenant of Marriage** (teachings) *(explicit citation)*
+- **Chapter 19: Our Commitment to God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

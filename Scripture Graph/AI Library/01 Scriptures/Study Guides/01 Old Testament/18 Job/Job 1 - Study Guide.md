@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 1
 slug: job-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ The chapter is a forceful warning against assuming that prosperity proves righte
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Where Do I Make My Stand (President James E. Faust, October 2004)|Where Do I Make My Stand?]] — President James E. Faust, 2004-October *(explicit citation)*
 - [[Holiness and the Plan of Happiness (President Henry B. Eyring, October 2019)|Holiness and the Plan of Happiness]] — President Henry B. Eyring, 2019-October *(explicit citation)*
 - [[All Things for Our Good (Elder Gerrit W. Gong, April 2024)|All Things for Our Good]] — Elder Gerrit W. Gong, 2024-April *(explicit citation)*
 - [[“I Will Not Fail Thee, nor Forsake Thee” (President Thomas S. Monson, October 2013)|“I Will Not Fail Thee, nor Forsake Thee”]] — President Thomas S. Monson, 2013-October *(explicit citation)*

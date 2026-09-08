@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 2
 slug: 1cor-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The chapter teaches that faith is meant to rest 'in the power of God' rather tha
 ## Church History
 <!-- SG:BEGIN history -->
 - **Becoming Like God** (reference-entry) *(explicit citation)*
+- **Chapter 4: Help from on High** (teachings) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
@@ -94,7 +95,6 @@ The chapter teaches that faith is meant to rest 'in the power of God' rather tha
 - **Testimony** (reference-entry) *(explicit citation)*
 - **Chapter 33: The Spiritual Gifts of Healing, Tongues, Prophecy, and Discerning of Spirits** (teachings) *(explicit citation)*
 - **Chapter 2: The Gospel Defined** (teachings) *(explicit citation)*
-- **Chapter 6: The Communication between God and Man** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

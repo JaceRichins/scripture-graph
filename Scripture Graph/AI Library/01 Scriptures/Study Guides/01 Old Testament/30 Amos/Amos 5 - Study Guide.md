@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 5
 slug: amos-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,12 +87,13 @@ The warning about the day of the LORD challenges religious presumption. Those wh
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Seek, and Ye Shall Find (Elder Craig C. Christensen, April 2003)|Seek, and Ye Shall Find]] — Elder Craig C. Christensen, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

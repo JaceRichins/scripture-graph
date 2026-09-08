@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 14
 slug: rom-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ _Not yet developed._
 - [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
 - [[Loving Others and Living with Differences (Elder Dallin H. Oaks, October 2014)|Loving Others and Living with Differences]] — Elder Dallin H. Oaks, 2014-October *(explicit citation)*
 - [[If Ye Are Prepared Ye Shall Not Fear (President Gordon B. Hinckley, October 2005)|If Ye Are Prepared Ye Shall Not Fear]] — President Gordon B. Hinckley, 2005-October *(explicit citation)*
+- [[Stay on the High Road (President Gordon B. Hinckley, April 2004)|Stay on the High Road]] — President Gordon B. Hinckley, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -94,6 +95,7 @@ _Not yet developed._
 - **Chapter 41: Becoming Saviors on Mount Zion** (teachings) *(explicit citation)*
 - **Chapter 4: Strengthened by the Power of the Holy Ghost** (teachings) *(explicit citation)*
 - **Chapter 24: Jesus Christ, the Son of the Living God** (teachings) *(explicit citation)*
+- **Chapter 13: Peace and Contentment through Temporal Self-Reliance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

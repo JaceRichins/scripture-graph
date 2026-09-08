@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 16
 slug: hel-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ The chapter also complicates simplistic claims about [[Miracles]]. Within the na
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Finding Faith in the Lord Jesus Christ (Elder Robert D. Hales, October 2004)|Finding Faith in the Lord Jesus Christ]] — Elder Robert D. Hales, 2004-October *(explicit citation)*
 - [[In the Space of Not Many Years (Elder David A. Bednar, October 2024)|In the Space of Not Many Years]] — Elder David A. Bednar, 2024-October *(explicit citation)*
 - [[The Eye of Faith (Elder Neil L. Andersen, April 2019)|The Eye of Faith]] — Elder Neil L. Andersen, 2019-April *(explicit citation)*
 - [[Preparing for the Second Coming of Christ (Elder Christoffel Golden, October 2021)|Preparing for the Second Coming of Christ]] — Elder Christoffel Golden, 2021-October *(explicit citation)*

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 16
 slug: prov-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,8 @@ Verse 32 gives self-government exceptional dignity. Mastering anger and ruling o
 - **August 3–9. “Thou Art Come … for Such a Time as This”: Esther** (lesson) *(explicit citation)*
 - **Chapter 9: Our Missionary Duty** (teachings) *(explicit citation)*
 - **Chapter 13: Stand by the Truth Lest You Be Deceived** (teachings) *(explicit citation)*
+- **Chapter 21: Striving for Perfection** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

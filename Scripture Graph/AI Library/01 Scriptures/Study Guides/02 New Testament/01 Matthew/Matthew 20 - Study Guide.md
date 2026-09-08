@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 20
 slug: matt-20
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -99,6 +99,9 @@ Scripture: [[Matthew 20]] · My notes: [[Matthew 20 - My Notes]]
 - **June 29–July 5. “If the Lord Be God, Follow Him”: 1 Kings 12–13; 17–22** (lesson) *(explicit citation)*
 - **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
 - **Chapter 18: Church Leadership and Selfless Service** (teachings) *(explicit citation)*
+- **Chapter 6: The Atonement and Resurrection of Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 23: ‘No Less Serviceable’** (teachings) *(explicit citation)*
+- **Chapter 14: Losing Ourselves in the Service of Others** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 3
 slug: matt-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -102,8 +102,8 @@ The chapter connects [[Repentance]] with fruit—that is, with consequences visi
 - **February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75** (lesson) *(explicit citation)*
 - **Adoption** (reference-entry) *(explicit citation)*
 - **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
+- **Chapter 8: We Look to Christ** (teachings) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
-- **Baptism** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

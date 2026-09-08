@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 117
 slug: dc-117
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ Leadership is likewise measured by action. Whitney must be a bishop "not in name
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[The Least of These (President Boyd K. Packer, October 2004)|The Least of These]] — President Boyd K. Packer, 2004-October *(explicit citation)*
 - [[True Disciples of the Savior (Elder Terence M. Vinson, October 2019)|True Disciples of the Savior]] — Elder Terence M. Vinson, 2019-October *(explicit citation)*
 - [[Our Heartfelt All (Elder Dieter F. Uchtdorf, April 2022)|Our Heartfelt All]] — Elder Dieter F. Uchtdorf, 2022-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
@@ -89,6 +90,7 @@ Leadership is likewise measured by action. Whitney must be a bishop "not in name
 <!-- SG:BEGIN history -->
 - **October 13–19: “His Sacrifice Shall Be More Sacred unto Me Than His Increase”: Doctrine and Covenants 115–120** (lesson) *(explicit citation)*
 - **27 We Proclaim Ourselves Free** (history) *(explicit citation)*
+- **Chapter 23: ‘No Less Serviceable’** (teachings) *(explicit citation)*
 - **Far West and Adam-ondi-Ahman** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 <!-- SG:END history -->

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 16
 slug: alma-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

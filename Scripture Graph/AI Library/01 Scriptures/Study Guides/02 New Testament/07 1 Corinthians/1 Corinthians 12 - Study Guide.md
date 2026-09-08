@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 12
 slug: 1cor-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -84,10 +84,10 @@ The chapter also resists ranking human worth by visibility. Members that seem fe
 - [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
 - [[“By This All Will Know That You Are My Disciples” (Elder Dieter F. Uchtdorf, April 2025)|“By This All Will Know That You Are My Disciples”]] — Elder Dieter F. Uchtdorf, 2025-April *(explicit citation)*
 - [[Cheering Each Other On (Sister J. Anette Dennis, October 2025)|Cheering Each Other On]] — Sister J. Anette Dennis, 2025-October *(explicit citation)*
+- [[Belonging Is Our Sacred Birthright (Bonnie D. Parkin, October 2004)|Belonging Is Our Sacred Birthright]] — Bonnie D. Parkin, 2004-October *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
 - [[“Come, Follow Me” by Practicing Christian Love and Service (Elder Robert D. Hales, October 2016)|“Come, Follow Me” by Practicing Christian Love and Service]] — Elder Robert D. Hales, 2016-October *(explicit citation)*
 - [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
-- [[Exceeding Great and Precious Promises (Elder David A. Bednar, October 2017)|Exceeding Great and Precious Promises]] — Elder David A. Bednar, 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

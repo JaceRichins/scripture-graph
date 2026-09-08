@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 16
 slug: gen-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ Genesis 16 should not be treated as an uncomplicated endorsement of every human 
 - **Plural Marriage and Families in Early Utah** (reference-entry) *(explicit citation)*
 - **36 Incline Them to Gather** (history) *(explicit citation)*
 - **February 16–22. “To Be a Greater Follower of Righteousness”: Genesis 12–17; Abraham 1–2** (lesson) *(explicit citation)*
+- **The Seer 1853-12 (Vol. 1 No. 12)** (history, 1853-12) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 13
 slug: matt-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,8 +98,8 @@ The mustard seed and leaven most naturally portray inconspicuous beginnings foll
 - [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
 - [[What Thinks Christ of Me (Elder Neil L. Andersen, April 2012)|What Thinks Christ of Me?]] — Elder Neil L. Andersen, 2012-April *(explicit citation)*
 - [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
+- [[The Devil’s Throat (President James E. Faust, April 2003)|The Devil’s Throat]] — President James E. Faust, 2003-April *(explicit citation)*
 - [[A Summer with Great-Aunt Rose (President Dieter F. Uchtdorf, October 2015)|A Summer with Great-Aunt Rose]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
-- [[The Joy of Living a Christ-Centered Life (Elder Richard J. Maynes, October 2015)|The Joy of Living a Christ-Centered Life]] — Elder Richard J. Maynes, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

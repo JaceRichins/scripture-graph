@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 6
 slug: deut-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

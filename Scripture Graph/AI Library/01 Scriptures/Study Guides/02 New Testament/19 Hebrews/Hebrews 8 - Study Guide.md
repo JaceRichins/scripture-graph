@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 8
 slug: heb-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ The promise is expressly addressed to Israel and Judah (8:8), so the passage sho
 - [[Covenants and Responsibilities (President Dallin H. Oaks, April 2024)|Covenants and Responsibilities]] — President Dallin H. Oaks, 2024-April *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
+- [[When Thou Art Converted (Elder D. Todd Christofferson, April 2004)|When Thou Art Converted]] — Elder D. Todd Christofferson, 2004-April *(explicit citation)*
 - [[Cleansed by Repentance (President Dallin H. Oaks, April 2019)|Cleansed by Repentance]] — President Dallin H. Oaks, 2019-April *(explicit citation)*
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
 <!-- SG:END conference -->

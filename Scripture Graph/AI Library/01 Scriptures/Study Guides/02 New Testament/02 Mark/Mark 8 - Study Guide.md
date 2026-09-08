@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 8
 slug: mark-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,6 +98,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 14: Losing Ourselves in the Service of Others** (teachings) *(explicit citation)*
 - **Bethsaida** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Caesarea Philippi** (reference-entry) *(explicit citation)*
@@ -105,7 +106,6 @@ _Not yet developed._
 - **Chapter 22: Temporal and Spiritual Labor, ‘Hand in Hand Together’** (teachings) *(explicit citation)*
 - **Chapter 34: Sacred Temples of the Lord** (teachings) *(explicit citation)*
 - **Chapter 7: The Immortality of the Soul** (teachings) *(explicit citation)*
-- **Chapter 19: The Divine Nature of Service** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

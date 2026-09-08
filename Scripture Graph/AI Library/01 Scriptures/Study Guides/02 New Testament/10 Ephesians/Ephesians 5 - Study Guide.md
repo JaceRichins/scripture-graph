@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 5
 slug: eph-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,6 +98,8 @@ Its teaching on [[Marriage]] should retain both parts of the text. Wives receive
 - **Chapter 20: A Heart Full of Love and Faith: The Prophet’s Letters to His Family** (teachings) *(explicit citation)*
 - **Chapter 15: Experiencing Happiness in Marriage** (teachings) *(explicit citation)*
 - **The Seer 1853-06 (Vol. 1 No. 6)** (history, 1853-06) *(explicit citation)*
+- **Chapter 18: Honorable, Happy, Successful Marriage** (teachings) *(explicit citation)*
+- **Chapter 20: The Women of the Church** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

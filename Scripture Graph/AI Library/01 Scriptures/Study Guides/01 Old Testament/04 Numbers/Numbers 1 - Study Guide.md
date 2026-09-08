@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 1
 slug: num-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,7 +86,7 @@ The Levites' encampment around the tabernacle is reasonably interpreted as a pro
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[We Believe All That God Has Revealed (Elder L. Tom Perry, October 2003)|We Believe All That God Has Revealed]] — Elder L. Tom Perry, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

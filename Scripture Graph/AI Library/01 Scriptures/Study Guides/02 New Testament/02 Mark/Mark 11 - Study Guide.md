@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 11
 slug: mark-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ _Not yet developed._
 - [[The Power of the Book of Mormon in Conversion (Elder Benjamin M. Z. Tai, April 2020)|The Power of the Book of Mormon in Conversion]] — Elder Benjamin M. Z. Tai, 2020-April *(explicit citation)*
 - [[Hosanna and Hallelujah—The Living Jesus Christ The Heart of Restoration and Easter (Elder Gerrit W. Gong, April 2020)|Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter]] — Elder Gerrit W. Gong, 2020-April *(explicit citation)*
 - [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
+- [[Peace of Conscience and Peace of Mind (Elder Richard G. Scott, October 2004)|Peace of Conscience and Peace of Mind]] — Elder Richard G. Scott, 2004-October *(explicit citation)*
 - [[Followers of Christ (Elder Dallin H. Oaks, April 2013)|Followers of Christ]] — Elder Dallin H. Oaks, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -84,6 +85,7 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Fig tree** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 2: Pray Always** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

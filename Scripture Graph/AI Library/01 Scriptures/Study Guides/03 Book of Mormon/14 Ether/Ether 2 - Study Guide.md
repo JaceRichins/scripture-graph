@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 2
 slug: ether-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,6 +93,7 @@ The barge episode also connects [[Revelation]], [[Agency]], and [[Work and Self-
 - [[Wholehearted (Sister Michelle D. Craig, October 2022)|Wholehearted]] — Sister Michelle D. Craig, 2022-October *(explicit citation)*
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
 - [[Closing Remarks (President Thomas S. Monson, October 2009)|Closing Remarks]] — President Thomas S. Monson, 2009-October *(explicit citation)*
+- [[Faith through Tribulation Brings Peace and Joy (Elder Robert D. Hales, April 2003)|Faith through Tribulation Brings Peace and Joy]] — Elder Robert D. Hales, 2003-April *(explicit citation)*
 - [[Drawing Closer to God (Elder Terence M. Vinson, October 2013)|Drawing Closer to God]] — Elder Terence M. Vinson, 2013-October *(explicit citation)*
 - [[“As Many as I Love, I Rebuke and Chasten” (Elder D. Todd Christofferson, April 2011)|“As Many as I Love, I Rebuke and Chasten”]] — Elder D. Todd Christofferson, 2011-April *(explicit citation)*
 - [[Conference Report, October 1927 (General Conference (full report), October 1927)|Conference Report, October 1927]] — General Conference (full report), 1927-October *(explicit citation)*

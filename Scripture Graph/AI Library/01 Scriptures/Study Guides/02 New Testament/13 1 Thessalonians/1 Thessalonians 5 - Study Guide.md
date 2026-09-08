@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Thessalonians
 chapter: 5
 slug: 1thes-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,8 @@ _Not yet developed._
 - [[A Return to Virtue (Elaine S. Dalton, October 2008)|A Return to Virtue]] — Elaine S. Dalton, 2008-October *(explicit citation)*
 - [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
 - [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
+- [[Give Thanks in All Things (Elder Dallin H. Oaks, April 2003)|Give Thanks in All Things]] — Elder Dallin H. Oaks, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

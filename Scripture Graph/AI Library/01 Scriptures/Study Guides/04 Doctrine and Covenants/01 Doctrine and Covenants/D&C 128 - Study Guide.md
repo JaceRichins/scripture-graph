@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 128
 slug: dc-128
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ The chapter treats authorized earthly action as capable of heavenly recognition.
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Book (Elder Allan F. Packer, October 2014)|The Book]] — Elder Allan F. Packer, 2014-October *(explicit citation)*
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 - [[We Each Have a Story (Elder Gerrit W. Gong, April 2022)|We Each Have a Story]] — Elder Gerrit W. Gong, 2022-April *(explicit citation)*
 - [[A Voice of Gladness! (Elder Kevin R. Duncan, April 2023)|A Voice of Gladness!]] — Elder Kevin R. Duncan, 2023-April *(explicit citation)*
 - [[The Sealing Power (Elder D. Todd Christofferson, October 2023)|The Sealing Power]] — Elder D. Todd Christofferson, 2023-October *(explicit citation)*
@@ -108,7 +109,6 @@ The chapter treats authorized earthly action as capable of heavenly recognition.
 - [[Roots and Branches (Elder Quentin L. Cook, April 2014)|Roots and Branches]] — Elder Quentin L. Cook, 2014-April *(explicit citation)*
 - [[Generations Linked in Love (Elder Russell M. Nelson, April 2010)|Generations Linked in Love]] — Elder Russell M. Nelson, 2010-April *(explicit citation)*
 - [[Salvation and Exaltation (Elder Russell M. Nelson, April 2008)|Salvation and Exaltation]] — Elder Russell M. Nelson, 2008-April *(explicit citation)*
-- [[Celestial Marriage (Elder Russell M. Nelson, October 2008)|Celestial Marriage]] — Elder Russell M. Nelson, 2008-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

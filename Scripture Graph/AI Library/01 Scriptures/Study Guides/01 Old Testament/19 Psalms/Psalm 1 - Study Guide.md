@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 1
 slug: ps-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -67,9 +67,11 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
+- **Latter-day Saints' Southern Star 1899-03-04 (Vol. 1 No. 14)** (history, 1899-03-04) *(explicit citation)*
 - **History of the Church, Volume 1** (history, 1902-1912) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **Chapter 19: Our Commitment to God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

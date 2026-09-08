@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 37
 slug: gen-37
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The dreams are naturally connected with [[Revelation]] and [[Prophecy]], but the
 - **Balm** (reference-entry) *(explicit citation)*
 - **Commerce** (reference-entry) *(explicit citation)*
 - **Genesis** (reference-entry) *(explicit citation)*
+- **Chapter 17: Preserve and Protect the Family** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

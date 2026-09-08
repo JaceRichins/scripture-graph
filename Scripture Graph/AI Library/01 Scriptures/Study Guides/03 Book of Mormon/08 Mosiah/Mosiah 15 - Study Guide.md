@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 15
 slug: mosiah-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -72,8 +72,8 @@ Scripture: [[Mosiah 15]] · My notes: [[Mosiah 15 - My Notes]]
 - [[Resurrection]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
-- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Salvation]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

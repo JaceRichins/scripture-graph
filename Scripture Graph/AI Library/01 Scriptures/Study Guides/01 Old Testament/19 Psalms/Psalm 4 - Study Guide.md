@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 4
 slug: ps-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

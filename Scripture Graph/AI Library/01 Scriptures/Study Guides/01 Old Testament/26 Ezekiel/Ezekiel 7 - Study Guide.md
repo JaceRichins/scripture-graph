@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 7
 slug: ezek-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

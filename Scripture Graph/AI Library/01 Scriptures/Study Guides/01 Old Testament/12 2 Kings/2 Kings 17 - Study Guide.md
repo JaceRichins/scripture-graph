@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 17
 slug: 2kgs-17
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

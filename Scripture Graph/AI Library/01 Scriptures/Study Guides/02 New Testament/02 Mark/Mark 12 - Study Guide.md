@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 12
 slug: mark-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -108,6 +108,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Tithing** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Chapter 1: The Great Commandment—Love the Lord** (teachings) *(explicit citation)*
 - **Journal of Discourses, Volume 10** (history, ~1863) *(explicit citation)*
 - **Burning bush** (reference-entry) *(explicit citation)*
 - **Caesar** (reference-entry) *(explicit citation)*
@@ -115,7 +116,6 @@ _Not yet developed._
 - **Deuteronomy** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **June 8–14. “The Lord Looketh on the Heart”: 1 Samuel 8–10; 13; 15–16** (lesson) *(explicit citation)*
-- **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

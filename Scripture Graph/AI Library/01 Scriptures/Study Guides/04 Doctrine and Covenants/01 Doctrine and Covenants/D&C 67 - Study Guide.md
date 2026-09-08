@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 67
 slug: dc-67
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ Two threads run through the chapter. First, the elders' doubt centered on Joseph
 - **Index by Section Number** (history) *(explicit citation)*
 - **Humility** (reference-entry) *(explicit citation)*
 - **Chapter 6: Becoming Perfect before the Lord: ‘A Little Better Day by Day’** (teachings) *(explicit citation)*
+- **Chapter 23: The Resurrection, an Anchor to the Soul** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

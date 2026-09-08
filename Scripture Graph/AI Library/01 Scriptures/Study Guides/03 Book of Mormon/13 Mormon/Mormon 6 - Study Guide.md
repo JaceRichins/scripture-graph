@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 6
 slug: morm-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,8 @@ Verse 21 teaches bodily [[Resurrection]] through the paired transformations of m
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 24: A Christ-Centered Life** (teachings) *(explicit citation)*
+- **Chapter 16: The Power of the Book of Mormon** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 53
 slug: alma-53
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The soldiers' preparation also combines ability with character. Alongside courag
 <!-- SG:BEGIN conference -->
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
 - [[In Support of the Rising Generation (Brother Michael T. Nelson, April 2024)|In Support of the Rising Generation]] — Brother Michael T. Nelson, 2024-April *(explicit citation)*
+- [[Keeping Our Covenants (Elder Richard J. Maynes, October 2004)|Keeping Our Covenants]] — Elder Richard J. Maynes, 2004-October *(explicit citation)*
 - [[A Sin-Resistant Generation (Joy D. Jones, April 2017)|A Sin-Resistant Generation]] — Joy D. Jones, 2017-April *(explicit citation)*
 - [[Hold Up Your Light (Elder Marcus B. Nash, October 2021)|Hold Up Your Light]] — Elder Marcus B. Nash, 2021-October *(explicit citation)*
 - [[This Day (Elder Ronald A. Rasband, October 2022)|This Day]] — Elder Ronald A. Rasband, 2022-October *(explicit citation)*
@@ -90,12 +91,13 @@ The soldiers' preparation also combines ability with character. Alongside courag
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
-- [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chapter 18: Courage to Live Righteously** (teachings) *(explicit citation)*
+- **Chapter 12: Integrity** (teachings) *(explicit citation)*
+- **Chapter 18: We Believe in Being Honest** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 11
 slug: dc-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -107,11 +107,11 @@ Verse 7 contrasts material riches with wisdom and identifies [[Eternal Life]] as
 - **Judgment** (reference-entry) *(explicit citation)*
 - **August 4–10: “Stand Ye in Holy Places”: Doctrine and Covenants 85–87** (lesson) *(explicit citation)*
 - **Chapter 23: The Progress and Destiny of The Church of Jesus Christ of Latter-day Saints** (teachings) *(explicit citation)*
+- **Chapter 4: Help from on High** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
-- **Judging Others** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

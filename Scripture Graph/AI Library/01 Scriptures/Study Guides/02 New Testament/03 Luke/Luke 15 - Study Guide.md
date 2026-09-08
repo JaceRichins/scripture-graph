@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 15
 slug: luke-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,8 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 12: Come Back and Feast at the Table of the Lord** (teachings) *(explicit citation)*
+- **Chapter 22: Reaching Out with Love to New Converts and Less-Active Members** (teachings) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
@@ -95,7 +97,6 @@ _Not yet developed._
 - **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 - **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 - **February 24–March 2: “The Worth of Souls Is Great”: Doctrine and Covenants 18** (lesson) *(explicit citation)*
-- **Chapter 1: The Way to Eternal Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

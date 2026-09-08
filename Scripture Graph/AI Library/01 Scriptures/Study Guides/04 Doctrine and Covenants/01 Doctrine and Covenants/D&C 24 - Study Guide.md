@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 24
 slug: dc-24
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ Verses 3, 9, and 18 connect ordinary labor, specialized calling, and church supp
 - [[Live Up to Your Privileges (President Emily Belle Freeman, October 2024)|Live Up to Your Privileges]] — President Emily Belle Freeman, 2024-October *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[Personal Strength through the Atonement of Jesus Christ (Elder Richard G. Scott, October 2013)|Personal Strength through the Atonement of Jesus Christ]] — Elder Richard G. Scott, 2013-October *(explicit citation)*
+- [[How to Live Well amid Increasing Evil (Elder Richard G. Scott, April 2004)|How to Live Well amid Increasing Evil]] — Elder Richard G. Scott, 2004-April *(explicit citation)*
 - [[Where Two or Three Are Gathered (President Henry B. Eyring, April 2016)|Where Two or Three Are Gathered]] — President Henry B. Eyring, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 

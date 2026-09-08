@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 12
 slug: ps-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

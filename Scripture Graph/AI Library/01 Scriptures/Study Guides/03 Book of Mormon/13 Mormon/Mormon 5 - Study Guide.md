@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 5
 slug: morm-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,11 +87,14 @@ The chapter refuses to treat military or covenant advantage as security against 
 - [[Taking on the Name of Jesus Christ (Elder Dale G. Renlund, October 2025)|Taking on the Name of Jesus Christ]] — Elder Dale G. Renlund, 2025-October *(explicit citation)*
 - [[The Atonement Covers All Pain (Elder Kent F. Richards, April 2011)|The Atonement Covers All Pain]] — Elder Kent F. Richards, 2011-April *(explicit citation)*
 - [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[The Lord Thy God Will Hold Thy Hand (Elder W. Craig Zwick, October 2003)|The Lord Thy God Will Hold Thy Hand]] — Elder W. Craig Zwick, 2003-October *(explicit citation)*
+- [[Be Not Deceived (Elder Dallin H. Oaks, October 2004)|Be Not Deceived]] — Elder Dallin H. Oaks, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 24: A Christ-Centered Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 6
 slug: rev-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,8 @@ Read together, the seals resist a simple picture of either unchecked evil or ins
 - **Blood** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **The Gospel Reflector 1841-06-15 (Vol. 1 No. 12)** (history, 1841-06-15) *(explicit citation)*
+- **The Frontier Guardian 1849-07-25 (Vol. 1 No. 13)** (history, 1849-07-25) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

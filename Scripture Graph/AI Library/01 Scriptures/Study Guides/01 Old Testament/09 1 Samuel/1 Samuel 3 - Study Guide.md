@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 3
 slug: 1sam-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ The chapter contributes to [[Revelation]] and [[Prophets]] by depicting a call i
 - [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
 - [[Courageous Parenting (Elder Larry R. Lawrence, October 2010)|Courageous Parenting]] — Elder Larry R. Lawrence, 2010-October *(explicit citation)*
 - [[Testimony as a Process (Elder Carlos A. Godoy, October 2008)|Testimony as a Process]] — Elder Carlos A. Godoy, 2008-October *(explicit citation)*
+- [[The Clarion Call of Prophets (Elder Shirley D. Christensen, October 2003)|The Clarion Call of Prophets]] — Elder Shirley D. Christensen, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 13
 slug: mark-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ Several threads run through the chapter: [[Signs of the Times]] such as wars and
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Never Leave Him (Elder Neil L. Andersen, October 2010)|Never Leave Him]] — Elder Neil L. Andersen, 2010-October *(explicit citation)*
+- [[Faith through Tribulation Brings Peace and Joy (Elder Robert D. Hales, April 2003)|Faith through Tribulation Brings Peace and Joy]] — Elder Robert D. Hales, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

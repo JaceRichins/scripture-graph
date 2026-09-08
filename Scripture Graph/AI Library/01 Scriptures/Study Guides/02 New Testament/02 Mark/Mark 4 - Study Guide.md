@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 4
 slug: mark-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ The storm narrative connects [[Faith]] with Jesus' identity. The disciples' fear
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Peace, Be Still (Lisa L. Harkness, October 2020)|Peace, Be Still]] — Lisa L. Harkness, 2020-October *(explicit citation)*
+- [[Faith through Tribulation Brings Peace and Joy (Elder Robert D. Hales, April 2003)|Faith through Tribulation Brings Peace and Joy]] — Elder Robert D. Hales, 2003-April *(explicit citation)*
 - [[Christlike Poise (Elder Mark A. Bragg, April 2023)|Christlike Poise]] — Elder Mark A. Bragg, 2023-April *(explicit citation)*
 - [[The Parable of the Sower (Elder Dallin H. Oaks, April 2015)|The Parable of the Sower]] — Elder Dallin H. Oaks, 2015-April *(explicit citation)*
 - [[Consistent and Resilient Trust (Elder L. Todd Budge, October 2019)|Consistent and Resilient Trust]] — Elder L. Todd Budge, 2019-October *(explicit citation)*
@@ -89,17 +90,18 @@ The storm narrative connects [[Faith]] with Jesus' identity. The disciples' fear
 - [[To Whom Shall We Go (Elder M. Russell Ballard, October 2016)|To Whom Shall We Go?]] — Elder M. Russell Ballard, 2016-October *(explicit citation)*
 - [[Be Not Troubled (Elder Ronald A. Rasband, October 2018)|Be Not Troubled]] — Elder Ronald A. Rasband, 2018-October *(explicit citation)*
 - [[Put On Thy Strength, O Zion (Elder David A. Bednar, October 2022)|Put On Thy Strength, O Zion]] — Elder David A. Bednar, 2022-October *(explicit citation)*
-- [[Abide the Day in Christ (Sister Amy A. Wright, October 2023)|Abide the Day in Christ]] — Sister Amy A. Wright, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **November 30–December 6. “He Delighteth in Mercy”: Micah; Nahum; Habakkuk; Zephaniah** (lesson) *(explicit citation)*
+- **Chapter 1: Jesus Christ—Our Only Way to Hope and Joy** (teachings) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
 - **Furniture** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 8: The Everlasting Priesthood** (teachings) *(explicit citation)*
 - **Chapter 20: Teaching, a Noble Work** (teachings) *(explicit citation)*
+- **Chapter 2: ‘My Peace I Give unto You’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

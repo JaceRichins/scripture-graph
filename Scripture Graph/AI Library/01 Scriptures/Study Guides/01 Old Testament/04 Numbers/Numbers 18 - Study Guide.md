@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 18
 slug: num-18
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 9: The Law of Tithing** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

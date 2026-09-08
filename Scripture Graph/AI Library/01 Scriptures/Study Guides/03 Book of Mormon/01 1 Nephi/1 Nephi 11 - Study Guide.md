@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 11
 slug: 1ne-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -94,12 +94,12 @@ The chapter's central doctrinal move is to identify the tree of life and the rod
 - **Charity** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Birth of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **God the Father** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

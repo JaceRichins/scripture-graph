@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 55
 slug: ps-55
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -71,6 +71,8 @@ _Not yet developed._
 - **Chapter 19: Stand Fast through the Storms of Life** (teachings) *(explicit citation)*
 - **Chapter 34: The Power of Forgiving** (teachings) *(explicit citation)*
 - **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
+- **Chapter 5: Prayer, the Passport to Spiritual Power** (teachings) *(explicit citation)*
+- **Chapter 13: The Temple—The Great Symbol of Our Membership** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 26
 slug: jer-26
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,7 +86,7 @@ The chapter teaches that judgment oracles are conditional, not fixed decrees: th
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

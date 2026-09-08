@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 8
 slug: morm-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,8 @@ Mormon 8 shifts the record into Moroni's own voice. Writing after Cumorah, with 
 - **Fire** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 21: Loving God More Than We Love the World** (teachings) *(explicit citation)*
+- **Chapter 14: ‘Thou Shalt Have No Other Gods before Me’** (teachings) *(explicit citation)*
+- **Chapter 10: Flooding the Earth and Our Lives with the Book of Mormon** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

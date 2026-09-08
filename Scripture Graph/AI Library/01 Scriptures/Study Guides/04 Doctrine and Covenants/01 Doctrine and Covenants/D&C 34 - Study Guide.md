@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 34
 slug: dc-34
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The chapter connects Christ’s self-giving, belief, service, repentance, and th
 - [[Thou Art the Christ (Sister Amy A. Wright, April 2025)|Thou Art the Christ]] — Sister Amy A. Wright, 2025-April *(explicit citation)*
 - [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[What Has Our Savior Done for Us (President Dallin H. Oaks, April 2021)|What Has Our Savior Done for Us?]] — President Dallin H. Oaks, 2021-April *(explicit citation)*
+- [[Preparation for the Second Coming (Elder Dallin H. Oaks, April 2004)|Preparation for the Second Coming]] — Elder Dallin H. Oaks, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

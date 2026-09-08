@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 6
 slug: gen-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -76,10 +76,12 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
+- [[The Unspeakable Gift (Elder Joseph B. Wirthlin, April 2003)|The Unspeakable Gift]] — Elder Joseph B. Wirthlin, 2003-April *(explicit citation)*
 - [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
 - [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
 - [[Obedience to the Prophets (Elder Claudio R. M. Costa, October 2010)|Obedience to the Prophets]] — Elder Claudio R. M. Costa, 2010-October *(explicit citation)*
 - [[Gospel Covenants Bring Promised Blessings (Elder Paul E. Koelliker, October 2005)|Gospel Covenants Bring Promised Blessings]] — Elder Paul E. Koelliker, 2005-October *(explicit citation)*
+- [[The Dawning of a Brighter Day (President Gordon B. Hinckley, April 2004)|The Dawning of a Brighter Day]] — President Gordon B. Hinckley, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 7
 slug: 1cor-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ _Not yet developed._
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
 - [[Hallmarks of Happiness (Elder Gary B. Sabin, October 2023)|Hallmarks of Happiness]] — Elder Gary B. Sabin, 2023-October *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

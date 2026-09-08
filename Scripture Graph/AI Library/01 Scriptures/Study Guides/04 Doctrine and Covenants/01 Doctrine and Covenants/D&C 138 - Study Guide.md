@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 138
 slug: dc-138
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,7 @@ Verses 55–57 connect [[Premortal Life]], mortal vocation, and postmortal servi
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[We Did This for You (Elaine S. Dalton, October 2004)|We Did This for You]] — Elaine S. Dalton, 2004-October *(explicit citation)*
 - [[Trust in the Lord (President Dallin H. Oaks, October 2019)|Trust in the Lord]] — President Dallin H. Oaks, 2019-October *(explicit citation)*
 - [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
 - [[The Vision of the Redemption of the Dead (President M. Russell Ballard, October 2018)|The Vision of the Redemption of the Dead]] — President M. Russell Ballard, 2018-October *(explicit citation)*
@@ -113,7 +114,6 @@ Verses 55–57 connect [[Premortal Life]], mortal vocation, and postmortal servi
 - [[Power to Overcome the Adversary (Elder Peter M. Johnson, October 2019)|Power to Overcome the Adversary]] — Elder Peter M. Johnson, 2019-October *(explicit citation)*
 - [[Because of Jesus Christ (Elder Dale G. Renlund, April 2026)|Because of Jesus Christ]] — Elder Dale G. Renlund, 2026-April *(explicit citation)*
 - [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
-- [[And There Shall Be No More Death (Elder Paul V. Johnson, April 2016)|And There Shall Be No More Death]] — Elder Paul V. Johnson, 2016-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

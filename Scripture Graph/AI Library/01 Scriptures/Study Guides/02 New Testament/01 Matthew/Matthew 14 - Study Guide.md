@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 14
 slug: matt-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ The chapter joins [[Faith]] to dependence upon Jesus rather than to confidence i
 ## Church History
 <!-- SG:BEGIN history -->
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
+- **Chapter 2: ‘My Peace I Give unto You’** (teachings) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Calendar** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
@@ -97,6 +98,7 @@ The chapter joins [[Faith]] to dependence upon Jesus rather than to confidence i
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 - **Chapter 4: Elements of Worship** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

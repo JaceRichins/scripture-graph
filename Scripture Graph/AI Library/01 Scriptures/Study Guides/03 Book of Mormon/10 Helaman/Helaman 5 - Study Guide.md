@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 5
 slug: hel-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ The repeated command to remember also joins [[Family]], [[Records and Sacred Wri
 <!-- SG:BEGIN conference -->
 - [[Pillars and Rays (Elder Alexander Dushku, April 2024)|Pillars and Rays]] — Elder Alexander Dushku, 2024-April *(explicit citation)*
 - [[The Words We Speak (Rosemary M. Wixom, April 2013)|The Words We Speak]] — Rosemary M. Wixom, 2013-April *(explicit citation)*
+- [[A Sure Foundation (Elder Sheldon F. Child, October 2003)|A Sure Foundation]] — Elder Sheldon F. Child, 2003-October *(explicit citation)*
 - [[“Abide in My Love” (Elder D. Todd Christofferson, October 2016)|“Abide in My Love”]] — Elder D. Todd Christofferson, 2016-October *(explicit citation)*
 - [[Lest Thou Forget (Elder Ronald A. Rasband, October 2016)|Lest Thou Forget]] — Elder Ronald A. Rasband, 2016-October *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
@@ -107,7 +108,6 @@ The repeated command to remember also joins [[Family]], [[Records and Sacred Wri
 - [[“Be Still, and Know That I Am God” (Elder David A. Bednar, April 2024)|“Be Still, and Know That I Am God”]] — Elder David A. Bednar, 2024-April *(explicit citation)*
 - [[The Testimony of Jesus (Elder D. Todd Christofferson, April 2024)|The Testimony of Jesus]] — Elder D. Todd Christofferson, 2024-April *(explicit citation)*
 - [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
-- [[An Easiness and Willingness to Believe (Elder Michael T. Ringwood, October 2009)|An Easiness and Willingness to Believe]] — Elder Michael T. Ringwood, 2009-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -119,9 +119,9 @@ The repeated command to remember also joins [[Family]], [[Records and Sacred Wri
 - **Salvation** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **April 13–19. “Stand Still, and See the Salvation of the Lord”: Exodus 14–18** (lesson) *(explicit citation)*
+- **Chapter 3: Jesus Christ: My Savior, My Lord** (teachings) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Covenants and Ordinances** (reference-entry) *(explicit citation)*
-- **Everlasting Covenant** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

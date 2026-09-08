@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Thessalonians
 chapter: 1
 slug: 2thes-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Motions of a Hidden Fire (President Jeffrey R. Holland, April 2024)|Motions of a Hidden Fire]] — President Jeffrey R. Holland, 2024-April *(explicit citation)*
 - [[Pride and the Priesthood (President Dieter F. Uchtdorf, October 2010)|Pride and the Priesthood]] — President Dieter F. Uchtdorf, 2010-October *(explicit citation)*
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

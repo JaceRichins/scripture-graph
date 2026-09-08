@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 40
 slug: job-40
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Our Relationship with God (Elder D. Todd Christofferson, April 2022)|Our Relationship with God]] — Elder D. Todd Christofferson, 2022-April *(explicit citation)*
+- [[The Atonement, Repentance, and Dirty Linen (Elder Lynn A. Mickelsen, October 2003)|The Atonement, Repentance, and Dirty Linen]] — Elder Lynn A. Mickelsen, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

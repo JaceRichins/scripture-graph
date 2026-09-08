@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 30
 slug: prov-30
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **The Seer 1853-03 (Vol. 1 No. 3)** (history, 1853-03) *(explicit citation)*
+- **Chapter 10: The Scriptures—The Most Profitable of All Study** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

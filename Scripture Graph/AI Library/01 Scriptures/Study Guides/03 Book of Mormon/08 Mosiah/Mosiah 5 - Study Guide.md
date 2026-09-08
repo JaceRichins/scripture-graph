@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 5
 slug: mosiah-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

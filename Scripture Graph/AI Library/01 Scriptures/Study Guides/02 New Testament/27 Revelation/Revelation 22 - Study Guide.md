@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 22
 slug: rev-22
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -106,6 +106,7 @@ _Not yet developed._
 - **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
 - **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 - **The Seer 1853-10 (Vol. 1 No. 10)** (history, 1853-10) *(explicit citation)*
+- **Chapter 24: Following the Example of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

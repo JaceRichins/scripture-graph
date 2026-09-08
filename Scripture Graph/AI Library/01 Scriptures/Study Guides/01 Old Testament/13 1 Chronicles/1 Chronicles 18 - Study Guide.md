@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Chronicles
 chapter: 18
 slug: 1chr-18
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

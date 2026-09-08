@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 119
 slug: ps-119
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ God's word is portrayed as life-giving, guiding, and true (Psalm 119:25, 105, 14
 - [[Conference Report, October 1925 (General Conference (full report), October 1925)|Conference Report, October 1925]] — General Conference (full report), 1925-October *(explicit citation)*
 - [[Teaching Our Children to Understand (Cheryl A. Esplin, April 2012)|Teaching Our Children to Understand]] — Cheryl A. Esplin, 2012-April *(explicit citation)*
 - [[And Nothing Shall Offend Them (Elder David A. Bednar, October 2006)|And Nothing Shall Offend Them]] — Elder David A. Bednar, 2006-October *(explicit citation)*
+- [[Care for the Life of the Soul (Elder Neal A. Maxwell, April 2003)|Care for the Life of the Soul]] — Elder Neal A. Maxwell, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -90,6 +91,8 @@ God's word is portrayed as life-giving, guiding, and true (Psalm 119:25, 105, 14
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
 - **Chapter 10: Our Search for Truth** (teachings) *(explicit citation)*
+- **Chapter 5: Principles of True Repentance** (teachings) *(explicit citation)*
+- **Chapter 8: The Power of the Word** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

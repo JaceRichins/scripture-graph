@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 62
 slug: alma-62
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ Verses 44–47 connect social recovery with [[Repentance]], [[Baptism]], preachi
 <!-- SG:BEGIN conference -->
 - [[Infuriating Unfairness (Elder Dale G. Renlund, April 2021)|Infuriating Unfairness]] — Elder Dale G. Renlund, 2021-April *(explicit citation)*
 - [[That Your Burdens May Be Light (Elder L. Whitney Clayton, October 2009)|That Your Burdens May Be Light]] — Elder L. Whitney Clayton, 2009-October *(explicit citation)*
+- [[Where Do I Make My Stand (President James E. Faust, October 2004)|Where Do I Make My Stand?]] — President James E. Faust, 2004-October *(explicit citation)*
 - [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
 - [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
 - [[If These Old Walls Could Talk (Bishop H. David Burton, April 2007)|If These Old Walls Could Talk]] — Bishop H. David Burton, 2007-April *(explicit citation)*

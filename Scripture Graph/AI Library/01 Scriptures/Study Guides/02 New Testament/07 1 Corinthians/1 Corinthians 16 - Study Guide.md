@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 16
 slug: 1cor-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -72,6 +72,7 @@ Although this chapter is largely administrative, it closes the letter's argument
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Seeing the Promises Afar Off (Anne C. Pingree, October 2003)|Seeing the Promises Afar Off]] — Anne C. Pingree, 2003-October *(explicit citation)*
 - [[Stand Strong in Holy Places (Elder Robert D. Hales, April 2013)|Stand Strong in Holy Places]] — Elder Robert D. Hales, 2013-April *(explicit citation)*
 <!-- SG:END conference -->
 

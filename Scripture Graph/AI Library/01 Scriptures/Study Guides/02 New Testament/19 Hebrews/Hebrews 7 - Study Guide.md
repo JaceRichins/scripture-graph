@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 7
 slug: heb-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The chapter presents Christ's priesthood, after the order of [[Melchizedek Pries
 - [[Blessings of the Gospel Available to All (Elder Joseph W. Sitati, October 2009)|Blessings of the Gospel Available to All]] — Elder Joseph W. Sitati, 2009-October *(explicit citation)*
 - [[The Power of the Priesthood (President Boyd K. Packer, April 2010)|The Power of the Priesthood]] — President Boyd K. Packer, 2010-April *(explicit citation)*
 - [[Moving Closer to Him (Elder Craig A. Cardon, October 2006)|Moving Closer to Him]] — Elder Craig A. Cardon, 2006-October *(explicit citation)*
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 - [[The Doctrine of Belonging (Elder D. Todd Christofferson, October 2022)|The Doctrine of Belonging]] — Elder D. Todd Christofferson, 2022-October *(explicit citation)*
 <!-- SG:END conference -->
 

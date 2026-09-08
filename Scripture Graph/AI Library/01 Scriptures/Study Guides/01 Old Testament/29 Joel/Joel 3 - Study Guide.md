@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joel
 chapter: 3
 slug: joel-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

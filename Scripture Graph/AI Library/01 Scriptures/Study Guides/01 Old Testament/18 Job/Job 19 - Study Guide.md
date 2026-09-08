@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 19
 slug: job-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -63,8 +63,8 @@ _Not yet developed._
 - [[The Resurrection of Jesus Christ (Elder D. Todd Christofferson, April 2014)|The Resurrection of Jesus Christ]] — Elder D. Todd Christofferson, 2014-April *(explicit citation)*
 - [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[I Know That My Redeemer Lives! (President Thomas S. Monson, April 2007)|I Know That My Redeemer Lives!]] — President Thomas S. Monson, 2007-April *(explicit citation)*
+- [[Where Do I Make My Stand (President James E. Faust, October 2004)|Where Do I Make My Stand?]] — President James E. Faust, 2004-October *(explicit citation)*
 - [[Our Relationship with God (Elder D. Todd Christofferson, April 2022)|Our Relationship with God]] — Elder D. Todd Christofferson, 2022-April *(explicit citation)*
-- [[The Blessing of Scripture (Elder D. Todd Christofferson, April 2010)|The Blessing of Scripture]] — Elder D. Todd Christofferson, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -73,12 +73,12 @@ _Not yet developed._
 - **Easter** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 23: The Resurrection, an Anchor to the Soul** (teachings) *(explicit citation)*
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
 - **Chapter 43: ‘He Was a Prophet of God’: Contemporaries of Joseph Smith Testify of His Prophetic Mission** (teachings) *(explicit citation)*
 - **Chapter 7: The Atonement of Jesus Christ** (teachings) *(explicit citation)*
-- **Chapter 7: Faithfulness in Times of Trial: ‘From the Shadows into the Glorious Sunshine’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

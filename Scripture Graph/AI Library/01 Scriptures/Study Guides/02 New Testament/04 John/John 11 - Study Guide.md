@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 11
 slug: john-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,6 +98,8 @@ Jesus's public [[Prayer]] presents the sign as testimony concerning his relation
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chapter 7: The Significance of the Resurrection** (teachings) *(explicit citation)*
+- **Chapter 23: The Resurrection, an Anchor to the Soul** (teachings) *(explicit citation)*
+- **Chapter 24: The Atonement of Jesus Christ: Vast in Its Reach, Intimate in Its Effect** (teachings) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
@@ -105,8 +107,6 @@ Jesus's public [[Prayer]] presents the sign as testimony concerning his relation
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
-- **Latter-day Saint Biographical Encyclopedia, Volume 1** (history, 1901) *(explicit citation)*
-- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Titus
 chapter: 1
 slug: titus-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ Verses 15–16 refuse to separate doctrine from moral life. Purity is connected 
 - [[Being Temperate in All Things (Elder Kent D. Watson, October 2009)|Being Temperate in All Things]] — Elder Kent D. Watson, 2009-October *(explicit citation)*
 - [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[Conference Report, October 1924 (General Conference (full report), October 1924)|Conference Report, October 1924]] — General Conference (full report), 1924-October *(explicit citation)*
+- [[The Shepherds of Israel (President Gordon B. Hinckley, October 2003)|The Shepherds of Israel]] — President Gordon B. Hinckley, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -86,6 +87,8 @@ Verses 15–16 refuse to separate doctrine from moral life. Purity is connected 
 - **Bishop** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
 - **The Seer 1853-04 (Vol. 1 No. 4)** (history, 1853-04) *(explicit citation)*
+- **Chapter 19: Priesthood Leadership in the Church of Jesus Christ** (teachings) *(explicit citation)*
+- **The Evening and the Morning Star 1834-02 (Vol. 2 No. 17)** (history, 1834-02) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

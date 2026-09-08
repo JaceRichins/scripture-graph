@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 50
 slug: gen-50
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ Joseph's final command is rooted in the [[Abrahamic Covenant]]. His confidence t
 - **Elders** (reference-entry) *(explicit citation)*
 - **Ephraim, stick of** (reference-entry) *(explicit citation)*
 - **Chapter 7: Joseph and Hyrum Smith, Witnesses for Christ** (teachings) *(explicit citation)*
+- **Chapter 5: Joseph Smith, Prophet of the Restoration** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

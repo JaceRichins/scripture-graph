@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 4
 slug: dc-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,11 +83,11 @@ Verse 3 makes desire spiritually consequential, but it does not define a formal 
 - [[Confidence in the Presence of God (President Russell M. Nelson, April 2025)|Confidence in the Presence of God]] — President Russell M. Nelson, 2025-April *(explicit citation)*
 - [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
 - [[“Come unto Me with Full Purpose of Heart, and I Shall Heal You” (Elder Patrick Kearon, October 2010)|“Come unto Me with Full Purpose of Heart, and I Shall Heal You”]] — Elder Patrick Kearon, 2010-October *(explicit citation)*
+- [[Senior Missionaries and the Gospel (Elder Russell M. Nelson, October 2004)|Senior Missionaries and the Gospel]] — Elder Russell M. Nelson, 2004-October *(explicit citation)*
 - [[The Price of Priesthood Power (President Russell M. Nelson, April 2016)|The Price of Priesthood Power]] — President Russell M. Nelson, 2016-April *(explicit citation)*
 - [[“If Ye Had Known Me” (Elder David A. Bednar, October 2016)|“If Ye Had Known Me”]] — Elder David A. Bednar, 2016-October *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
 - [[Return and Receive (Elder M. Russell Ballard, April 2017)|Return and Receive]] — Elder M. Russell Ballard, 2017-April *(explicit citation)*
-- [[Our Campfire of Faith (Elder Gerrit W. Gong, October 2018)|Our Campfire of Faith]] — Elder Gerrit W. Gong, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -98,10 +98,10 @@ Verse 3 makes desire spiritually consequential, but it does not define a formal 
 - **Chapter 13: Doing Our Part to Share the Gospel** (teachings) *(explicit citation)*
 - **Chapter 6: ‘Every Member a Missionary’** (teachings) *(explicit citation)*
 - **Chapter 17: Sharing the Gospel** (teachings) *(explicit citation)*
+- **Chapter 8: Taking the Gospel to All the World** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Consecration** (reference-entry) *(explicit citation)*
-- **Inviting All to Receive the Gospel** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

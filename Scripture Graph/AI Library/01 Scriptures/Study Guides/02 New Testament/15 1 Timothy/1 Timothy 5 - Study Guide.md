@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 5
 slug: 1tim-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,9 @@ _Not yet developed._
 - **Animals** (reference-entry) *(explicit citation)*
 - **Death** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
+- **Chapter 11: Provident Living: Applying Principles of Self-Reliance and Preparedness** (teachings) *(explicit citation)*
+- **Chapter 16: The Elderly in the Church** (teachings) *(explicit citation)*
+- **Chapter 18: Virtue—a Cornerstone on Which to Build Our Lives** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

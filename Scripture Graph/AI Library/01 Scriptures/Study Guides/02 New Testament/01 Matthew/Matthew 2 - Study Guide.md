@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 2
 slug: matt-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -73,8 +73,8 @@ The movement is geographically ordered: Bethlehem/Jerusalem → Egypt → the la
 - [[Exodus and Deliverance]]
 - [[Prophecy]]
 - [[Jesus Christ (Gospel Topic)]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Prophets]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Signs of the Times]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

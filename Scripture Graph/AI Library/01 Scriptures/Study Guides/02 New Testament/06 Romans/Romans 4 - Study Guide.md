@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 4
 slug: rom-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -64,14 +64,18 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[A Perfect Brightness of Hope (Elder Jeffrey R. Holland, April 2020)|A Perfect Brightness of Hope]] — Elder Jeffrey R. Holland, 2020-April *(explicit citation)*
 - [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
+- [[How Choice a Seer! (Elder Neal A. Maxwell, October 2003)|How Choice a Seer!]] — Elder Neal A. Maxwell, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Seer 1854-01 (Vol. 2 No. 1)** (history, 1854-01) *(explicit citation)*
 - **Transgression** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-12-15 (Vol. 2 No. 4)** (periodical, 1840-12-15) *(explicit citation)*
 - **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
+- **Chapter 13: Obedience Born of Faith in God** (teachings) *(explicit citation)*
+- **Latter-day Saints' Southern Star 1899-02-25 (Vol. 1 No. 13)** (history, 1899-02-25) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

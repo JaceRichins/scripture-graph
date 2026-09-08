@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 28
 slug: 3ne-28
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -106,6 +106,7 @@ Verses 10–11 contribute to [[The Godhead]] by affirming the Father's and Son's
 - **Chapter 8: The Holy Ghost** (teachings) *(explicit citation)*
 - **Chapter 40: The Father and the Son** (teachings) *(explicit citation)*
 - **Chapter 2: Our Savior, Jesus Christ** (teachings) *(explicit citation)*
+- **Chapter 3: Freedom of Choice, an Eternal Principle** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

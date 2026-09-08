@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 10
 slug: lev-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

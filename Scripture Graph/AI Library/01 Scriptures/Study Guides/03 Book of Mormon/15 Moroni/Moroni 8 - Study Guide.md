@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 8
 slug: moro-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -107,7 +107,7 @@ Verse 22 extends the reasoning to those "without the law," but the chapter does 
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Baptism** (reference-entry) *(explicit citation)*
 - **Chapter 13: Baptism** (teachings) *(explicit citation)*
-- **Charity** (reference-entry) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

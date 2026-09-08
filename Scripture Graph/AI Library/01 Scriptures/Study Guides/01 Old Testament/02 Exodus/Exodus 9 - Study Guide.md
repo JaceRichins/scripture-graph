@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 9
 slug: ex-9
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
 - **Barley** (reference-entry) *(explicit citation)*
+- **Chapter 15: The Sacrament of the Lord’s Supper** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

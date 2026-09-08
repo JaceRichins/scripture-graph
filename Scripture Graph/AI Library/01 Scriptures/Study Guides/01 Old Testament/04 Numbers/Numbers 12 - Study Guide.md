@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 12
 slug: num-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ _Not yet developed._
 - **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Ethiopia or Cush** (reference-entry) *(explicit citation)*
+- **The Seer 1853-12 (Vol. 1 No. 12)** (history, 1853-12) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

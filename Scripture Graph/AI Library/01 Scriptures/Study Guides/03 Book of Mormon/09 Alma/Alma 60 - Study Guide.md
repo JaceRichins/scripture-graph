@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 60
 slug: alma-60
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,7 +97,7 @@ Scripture: [[Alma 60]] · My notes: [[Alma 60 - My Notes]]
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 22: Peace Be unto Thy Soul** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

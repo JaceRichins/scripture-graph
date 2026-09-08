@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 16
 slug: num-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ Moses and Aaron also complicate any picture of authority as mere domination. Bot
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Your Divine Nature and Eternal Destiny (Elder Dale G. Renlund, April 2022)|Your Divine Nature and Eternal Destiny]] — Elder Dale G. Renlund, 2022-April *(explicit citation)*
+- [[“The Standard of Truth Has Been Erected” (President Boyd K. Packer, October 2003)|“The Standard of Truth Has Been Erected”]] — President Boyd K. Packer, 2003-October *(explicit citation)*
 - [[Conference Report, October 1924 (General Conference (full report), October 1924)|Conference Report, October 1924]] — General Conference (full report), 1924-October *(explicit citation)*
 - [[The Weak and the Simple of the Church (President Boyd K. Packer, October 2007)|The Weak and the Simple of the Church]] — President Boyd K. Packer, 2007-October *(explicit citation)*
 <!-- SG:END conference -->

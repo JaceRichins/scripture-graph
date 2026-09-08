@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 50
 slug: dc-50
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -109,12 +109,12 @@ The final reassurance does not erase the need for growth. The hearers are Christ
 - **Religious Enthusiasm among Early Ohio Converts** (history) *(explicit citation)*
 - **08 The Rise of the Church of Christ** (history) *(explicit citation)*
 - **11 Ye Shall Receive My Law** (history) *(explicit citation)*
+- **Chapter 19: Leadership** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Truth** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
-- **Introduction** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

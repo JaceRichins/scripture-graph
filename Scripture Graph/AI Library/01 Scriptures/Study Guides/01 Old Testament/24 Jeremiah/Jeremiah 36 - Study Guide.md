@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 36
 slug: jer-36
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 - **Times and Seasons 1842-09-01 (Vol. 3 No. 21)** (periodical, 1842-09-01) *(explicit citation)*
 - **Canon** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **The Seer 1854-03 (Vol. 2 No. 3)** (history, 1854-03) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

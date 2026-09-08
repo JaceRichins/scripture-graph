@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 37
 slug: alma-37
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -95,7 +95,7 @@ Alma also pairs negative and positive moral instruction. Helaman must protect th
 - [[Becoming More Powerful Priesthood Holders (Elder Walter F. González, October 2009)|Becoming More Powerful Priesthood Holders]] — Elder Walter F. González, 2009-October *(explicit citation)*
 - [[Small and Simple Things (Elder Christoffel Golden Jr., October 2007)|Small and Simple Things]] — Elder Christoffel Golden Jr., 2007-October *(explicit citation)*
 - [[Compass of the Lord (Elder Lowell M. Snow, October 2005)|Compass of the Lord]] — Elder Lowell M. Snow, 2005-October *(explicit citation)*
-- [[Jesus Christ Is Not Our Burden; He Is Our Relief (Brother David J. Wunderli, April 2026)|Jesus Christ Is Not Our Burden; He Is Our Relief]] — Brother David J. Wunderli, 2026-April *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

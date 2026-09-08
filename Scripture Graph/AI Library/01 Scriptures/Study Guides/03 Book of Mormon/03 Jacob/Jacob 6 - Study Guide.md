@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 6
 slug: jacob-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 13
 slug: ether-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

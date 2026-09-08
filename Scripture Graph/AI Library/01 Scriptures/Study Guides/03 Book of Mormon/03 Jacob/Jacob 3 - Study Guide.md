@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 3
 slug: jacob-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,13 +89,15 @@ Family conduct is spiritually consequential. Love between spouses and toward chi
 - [[The Atoning Love of Jesus Christ (Elder Neil L. Andersen, October 2025)|The Atoning Love of Jesus Christ]] — Elder Neil L. Andersen, 2025-October *(explicit citation)*
 - [[Claim the Blessings of Your Covenants (Linda S. Reeves, October 2013)|Claim the Blessings of Your Covenants]] — Linda S. Reeves, 2013-October *(explicit citation)*
 - [[Opening Our Hearts (Elder Gerald N. Lund, April 2008)|Opening Our Hearts]] — Elder Gerald N. Lund, 2008-April *(explicit citation)*
-- [[The Healing Ointment of Forgiveness (Elder Kevin R. Duncan, April 2016)|The Healing Ointment of Forgiveness]] — Elder Kevin R. Duncan, 2016-April *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 24: A Christ-Centered Life** (teachings) *(explicit citation)*
 - **Priesthood Blessing** (reference-entry) *(explicit citation)*
+- **Chapter 18: Virtue—a Cornerstone on Which to Build Our Lives** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

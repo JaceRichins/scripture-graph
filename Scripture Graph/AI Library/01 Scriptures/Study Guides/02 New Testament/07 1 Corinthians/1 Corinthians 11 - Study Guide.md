@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 11
 slug: 1cor-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -79,13 +79,13 @@ Key doctrinal threads: a headship structure culminating in God as head of Christ
 - **Joseph Smith’s Teachings about Priesthood, Temples, and Women** (reference-entry) *(explicit citation)*
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Women’s Service and Leadership in the Church** (reference-entry) *(explicit citation)*
+- **Chapter 15: The Sacrament of the Lord’s Supper** (teachings) *(explicit citation)*
+- **Chapter 10: Nurturing the Eternal Partnership of Marriage** (teachings) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
 - **Worship God the Father** (reference-entry) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
 - **Sacrament** (reference-entry) *(explicit citation)*
-- **Adam** (reference-entry) *(explicit citation)*
-- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

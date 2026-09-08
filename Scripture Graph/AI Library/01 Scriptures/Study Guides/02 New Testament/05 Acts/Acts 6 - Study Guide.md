@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 6
 slug: acts-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ _Not yet developed._
 - **Cilicia** (reference-entry) *(explicit citation)*
 - **Dispersion** (reference-entry) *(explicit citation)*
 - **Chapter 11: The Organization and Destiny of the True and Living Church** (teachings) *(explicit citation)*
+- **Chapter 8: Taking the Gospel to All the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

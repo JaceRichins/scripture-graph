@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 7
 slug: luke-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -61,8 +61,8 @@ Scripture: [[Luke 7]] · My notes: [[Luke 7 - My Notes]]
 - [[Jews and Gentiles]]
 - [[Parables of Jesus]]
 - [[Prophets]] *(keyword match — unconfirmed)*
-- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Baptism]] *(keyword match — unconfirmed)*
+- [[Repentance and Forgiveness]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 110
 slug: dc-110
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,8 +98,8 @@ Verse 9 refers to an endowment already received in the house but does not descri
 - [[The Sealing Power (Elder D. Todd Christofferson, October 2023)|The Sealing Power]] — Elder D. Todd Christofferson, 2023-October *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 - [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 - [[“Let This House Be Built unto My Name” (Elder David A. Bednar, April 2020)|“Let This House Be Built unto My Name”]] — Elder David A. Bednar, 2020-April *(explicit citation)*
-- [[Conversion to the Will of God (Elder Quentin L. Cook, April 2022)|Conversion to the Will of God]] — Elder Quentin L. Cook, 2022-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

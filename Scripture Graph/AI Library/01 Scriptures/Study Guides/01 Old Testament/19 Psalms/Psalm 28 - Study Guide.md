@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 28
 slug: ps-28
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -65,6 +65,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
+- **Chapter 7: Continuous Revelation through Living Prophets** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

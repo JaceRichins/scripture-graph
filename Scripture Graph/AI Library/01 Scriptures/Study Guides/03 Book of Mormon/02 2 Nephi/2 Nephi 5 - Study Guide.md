@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 5
 slug: 2ne-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -111,6 +111,7 @@ Verse 20 explicitly defines the rebellious brothers' condition as being 'cut off
 - **Happiness** (reference-entry) *(explicit citation)*
 - **Chapter 31: Thrift, Industry, and Self-Reliance** (teachings) *(explicit citation)*
 - **Chapter 20: Temporal Salvation for Ourselves and Others** (teachings) *(explicit citation)*
+- **Chapter 11: Provident Living: Applying Principles of Self-Reliance and Preparedness** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

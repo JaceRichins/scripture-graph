@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 6
 slug: heb-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,8 @@ _Not yet developed._
 - [[Tune Your Heart to Jesus Christ The Sacred Gift of Primary Music (Sister Tracy Y. Browning, October 2025)|Tune Your Heart to Jesus Christ: The Sacred Gift of Primary Music]] — Sister Tracy Y. Browning, 2025-October *(explicit citation)*
 - [[Our Father’s Plan—Big Enough for All His Children (Elder Quentin L. Cook, April 2009)|Our Father’s Plan—Big Enough for All His Children]] — Elder Quentin L. Cook, 2009-April *(explicit citation)*
 - [[The Infinite Power of Hope (President Dieter F. Uchtdorf, October 2008)|The Infinite Power of Hope]] — President Dieter F. Uchtdorf, 2008-October *(explicit citation)*
+- [[Peace of Conscience and Peace of Mind (Elder Richard G. Scott, October 2004)|Peace of Conscience and Peace of Mind]] — Elder Richard G. Scott, 2004-October *(explicit citation)*
+- [[Loyalty (President Gordon B. Hinckley, April 2003)|Loyalty]] — President Gordon B. Hinckley, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

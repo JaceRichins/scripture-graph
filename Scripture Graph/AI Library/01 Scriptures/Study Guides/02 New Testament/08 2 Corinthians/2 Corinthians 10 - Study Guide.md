@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 10
 slug: 2cor-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -65,7 +65,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 23: Shepherds of the Flock** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

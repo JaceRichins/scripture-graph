@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 39
 slug: alma-39
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,12 +98,14 @@ Verses 15–19 connect [[Missionary Work]] with the [[Atonement of Jesus Christ]
 <!-- SG:BEGIN history -->
 - **Chastity** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 17: Keeping the Law of Chastity** (teachings) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Pornography** (reference-entry) *(explicit citation)*
 - **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
 - **June 2–8: “Anxiously Engaged in a Good Cause”: Doctrine and Covenants 58–59** (lesson) *(explicit citation)*
 - **Chapter 18: Chastity and Purity** (teachings) *(explicit citation)*
 - **Chapter 14: Preparing for an Eternal Marriage and Family** (teachings) *(explicit citation)*
+- **Chapter 17: The Law of Chastity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

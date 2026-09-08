@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 13
 slug: prov-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ Proverbs 13:24 connects parental love with timely correction. Read alongside the
 - **Latter Day Saints' Messenger and Advocate 1836-09-01 (Vol. 2 No. 12)** (periodical, 1836-09-01) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

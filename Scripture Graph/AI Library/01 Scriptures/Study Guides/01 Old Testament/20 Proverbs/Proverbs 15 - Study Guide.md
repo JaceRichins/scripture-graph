@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 15
 slug: prov-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,8 @@ Verses 3 and 11 portray the LORD’s knowledge as extending to every place and t
 - **Chapter 24: Teaching the Family** (teachings) *(explicit citation)*
 - **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
 - **Chapter 21: The Power of Kindness** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
+- **Chapter 11: Home—the Basis of a Righteous Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

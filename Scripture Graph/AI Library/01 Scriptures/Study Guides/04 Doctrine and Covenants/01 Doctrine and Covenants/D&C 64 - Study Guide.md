@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 64
 slug: dc-64
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -94,9 +94,9 @@ The chapter resists reducing forgiveness to a simple rule: disciples are require
 - [[The Lord Looketh on the Heart (Elder Ronald M. Barcellos, October 2025)|The Lord Looketh on the Heart]] — Elder Ronald M. Barcellos, 2025-October *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 - [[Will a Man Rob God (Elder Yoshihiko Kikuchi, April 2007)|Will a Man Rob God?]] — Elder Yoshihiko Kikuchi, 2007-April *(explicit citation)*
+- [[The Atonement, Repentance, and Dirty Linen (Elder Lynn A. Mickelsen, October 2003)|The Atonement, Repentance, and Dirty Linen]] — Elder Lynn A. Mickelsen, 2003-October *(explicit citation)*
 - [[All Nations, Kindreds, and Tongues (Elder Gerrit W. Gong, October 2020)|All Nations, Kindreds, and Tongues]] — Elder Gerrit W. Gong, 2020-October *(explicit citation)*
 - [[Seeking the Lord (Elder José A. Teixeira, April 2015)|Seeking the Lord]] — Elder José A. Teixeira, 2015-April *(explicit citation)*
-- [[My Heart Pondereth Them Continually (Devin G. Durrant, October 2015)|My Heart Pondereth Them Continually]] — Devin G. Durrant, 2015-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -104,13 +104,13 @@ The chapter resists reducing forgiveness to a simple rule: disciples are require
 - **June 16–22: “The Lord Requireth the Heart and a Willing Mind”: Doctrine and Covenants 64–66** (lesson) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **13 The Gift Has Returned** (history) *(explicit citation)*
+- **Chapter 9: Forgiving Others with All Our Hearts** (teachings) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Joseph Smith’s Character** (reference-entry) *(explicit citation)*
 - **Chapter 29: Bear No Malice toward Anyone** (teachings) *(explicit citation)*
 - **Chapter 16: Forgiving Others** (teachings) *(explicit citation)*
 - **Chapter 23: Developing a Christlike Character** (teachings) *(explicit citation)*
-- **The Law** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

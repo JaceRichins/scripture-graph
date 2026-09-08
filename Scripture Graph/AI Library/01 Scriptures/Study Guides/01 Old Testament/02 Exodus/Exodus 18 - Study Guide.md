@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 18
 slug: ex-18
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ Shared responsibility does not remove Moses' distinctive duties. He continues to
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Fatherhood, an Eternal Calling (Elder L. Tom Perry, April 2004)|Fatherhood, an Eternal Calling]] — Elder L. Tom Perry, 2004-April *(explicit citation)*
 - [[Two Lines of Communication (Elder Dallin H. Oaks, October 2010)|Two Lines of Communication]] — Elder Dallin H. Oaks, 2010-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -89,6 +90,7 @@ Shared responsibility does not remove Moses' distinctive duties. He continues to
 - **Aaron** (reference-entry) *(explicit citation)*
 - **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
 - **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
+- **Chapter 19: Leadership** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

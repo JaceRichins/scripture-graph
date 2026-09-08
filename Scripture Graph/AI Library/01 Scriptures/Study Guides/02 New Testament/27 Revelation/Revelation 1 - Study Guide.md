@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 1
 slug: rev-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ The chapter grounds Christian hope in Christ's death and continuing life: he "wa
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 - [[Conference Report, April 1915 (General Conference (full report), April 1915)|Conference Report, April 1915]] — General Conference (full report), 1915-April *(explicit citation)*
 - [[Conference Report, October 1920 (General Conference (full report), October 1920)|Conference Report, October 1920]] — General Conference (full report), 1920-October *(explicit citation)*
+- [[The Lord Thy God Will Hold Thy Hand (Elder W. Craig Zwick, October 2003)|The Lord Thy God Will Hold Thy Hand]] — Elder W. Craig Zwick, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

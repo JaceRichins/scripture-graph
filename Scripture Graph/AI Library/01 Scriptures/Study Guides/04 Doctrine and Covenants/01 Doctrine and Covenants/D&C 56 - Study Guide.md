@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 56
 slug: dc-56
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The chapter treats [[Obedience]] as continued responsiveness rather than mere at
 - **The Journey of the Colesville Branch** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **May 26–June 1: “A Faithful, a Just, and a Wise Steward”: Doctrine and Covenants 51–57** (lesson) *(explicit citation)*
+- **Chapter 11: Provident Living: Applying Principles of Self-Reliance and Preparedness** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

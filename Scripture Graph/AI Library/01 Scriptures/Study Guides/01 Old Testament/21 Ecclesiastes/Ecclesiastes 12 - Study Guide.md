@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ecclesiastes
 chapter: 12
 slug: eccl-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -70,6 +70,9 @@ Verse 7 is the chapter's clearest doctrinal statement: at death "the dust shall 
 <!-- SG:BEGIN conference -->
 - [[Thanks Be to God (Elder Russell M. Nelson, April 2012)|Thanks Be to God]] — Elder Russell M. Nelson, 2012-April *(explicit citation)*
 - [[Our Path of Duty (Bishop Keith B. McMullin, April 2010)|Our Path of Duty]] — Bishop Keith B. McMullin, 2010-April *(explicit citation)*
+- [[“The Standard of Truth Has Been Erected” (President Boyd K. Packer, October 2003)|“The Standard of Truth Has Been Erected”]] — President Boyd K. Packer, 2003-October *(explicit citation)*
+- [[Choose You This Day (President Thomas S. Monson, October 2004)|Choose You This Day]] — President Thomas S. Monson, 2004-October *(explicit citation)*
+- [[Where Do I Make My Stand (President James E. Faust, October 2004)|Where Do I Make My Stand?]] — President James E. Faust, 2004-October *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 - [[Conference Report, October 1924 (General Conference (full report), October 1924)|Conference Report, October 1924]] — General Conference (full report), 1924-October *(explicit citation)*
 - [[True to Our Priesthood Trust (President Thomas S. Monson, October 2006)|True to Our Priesthood Trust]] — President Thomas S. Monson, 2006-October *(explicit citation)*

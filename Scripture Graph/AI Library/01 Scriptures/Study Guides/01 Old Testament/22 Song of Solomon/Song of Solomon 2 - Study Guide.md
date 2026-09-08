@@ -6,7 +6,7 @@ volume: Old Testament
 book: Song of Solomon
 chapter: 2
 slug: song-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

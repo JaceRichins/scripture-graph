@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 33
 slug: ex-33
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ The chapter also stages a real tension between divine holiness and human sin: Go
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[He Knows You by Name (Elder Clement M. Matswagothata, April 2026)|He Knows You by Name]] — Elder Clement M. Matswagothata, 2026-April *(explicit citation)*
+- [[We Believe All That God Has Revealed (Elder L. Tom Perry, October 2003)|We Believe All That God Has Revealed]] — Elder L. Tom Perry, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

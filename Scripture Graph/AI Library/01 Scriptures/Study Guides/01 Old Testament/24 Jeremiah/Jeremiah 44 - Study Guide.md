@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 44
 slug: jer-44
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

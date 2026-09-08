@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 6
 slug: judg-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ Notably, the chapter stacks two separate messenger scenes — a human prophet (v
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[It Works Wonderfully! (President Dieter F. Uchtdorf, October 2015)|It Works Wonderfully!]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
+- [[Stand in Your Appointed Place (President Thomas S. Monson, April 2003)|Stand in Your Appointed Place]] — President Thomas S. Monson, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

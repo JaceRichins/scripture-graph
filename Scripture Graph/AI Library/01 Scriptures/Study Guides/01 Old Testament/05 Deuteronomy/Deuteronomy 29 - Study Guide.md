@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 29
 slug: deut-29
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

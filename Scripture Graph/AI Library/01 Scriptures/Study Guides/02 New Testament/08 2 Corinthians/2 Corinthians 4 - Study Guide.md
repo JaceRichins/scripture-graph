@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 4
 slug: 2cor-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -88,6 +88,8 @@ Human weakness is not presented as the source of divine power. The “earthen ve
 - **Chapter 31: ‘God Shall Be with You Forever and Ever’: The Prophet in Liberty Jail** (teachings) *(explicit citation)*
 - **Chapter 22: Being Perfected through Trials** (teachings) *(explicit citation)*
 - **Chapter 7: Faithfulness in Times of Trial: ‘From the Shadows into the Glorious Sunshine’** (teachings) *(explicit citation)*
+- **Chapter 22: Peace Be unto Thy Soul** (teachings) *(explicit citation)*
+- **Chapter 11: True Greatness** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

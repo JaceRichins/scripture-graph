@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 12
 slug: ether-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -111,8 +111,8 @@ The chapter does not present faith as mere assent. Its exemplary faith acts, end
 - **Hope** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 46: The Martyrdom: The Prophet Seals His Testimony with His Blood** (teachings) *(explicit citation)*
-- **Charity** (reference-entry) *(explicit citation)*
-- **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 13: Obedience Born of Faith in God** (teachings) *(explicit citation)*
+- **Chapter 5: Principles of True Repentance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

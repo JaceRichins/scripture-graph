@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 62
 slug: dc-62
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ The chapter joins divine help with continuing duty. Christ's knowledge of weakne
 - **Index by Section Number** (history) *(explicit citation)*
 - **Testimony** (reference-entry) *(explicit citation)*
 - **May 5–11: “The Promises … Shall Be Fulfilled”: Doctrine and Covenants 45** (lesson) *(explicit citation)*
+- **Chapter 7: Personal Testimony** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 28
 slug: prov-28
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ Verse 13 distinguishes genuine repentance from concealment: confession is joined
 - **Almsgiving** (reference-entry) *(explicit citation)*
 - **June 2–8: “Anxiously Engaged in a Good Cause”: Doctrine and Covenants 58–59** (lesson) *(explicit citation)*
 - **Chapter 22: Temporal and Spiritual Labor, ‘Hand in Hand Together’** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

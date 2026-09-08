@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 8
 slug: moses-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ Judgment is paired with warning and moral agency. The people are told what will 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[The Unspeakable Gift (Elder Joseph B. Wirthlin, April 2003)|The Unspeakable Gift]] — Elder Joseph B. Wirthlin, 2003-April *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
 - [[Ensuring a Righteous Judgment (Elder James R. Rasband, April 2020)|Ensuring a Righteous Judgment]] — Elder James R. Rasband, 2020-April *(explicit citation)*
 - [[The Restoration of All Things (President James E. Faust, April 2006)|The Restoration of All Things]] — President James E. Faust, 2006-April *(explicit citation)*

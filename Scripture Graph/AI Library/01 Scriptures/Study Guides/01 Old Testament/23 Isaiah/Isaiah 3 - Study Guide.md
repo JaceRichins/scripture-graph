@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 3
 slug: isa-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Are We Not All Beggars (Elder Jeffrey R. Holland, October 2014)|Are We Not All Beggars?]] — Elder Jeffrey R. Holland, 2014-October *(explicit citation)*
+- [[Overcoming the Stench of Sin (Elder Spencer V. Jones, April 2003)|Overcoming the Stench of Sin]] — Elder Spencer V. Jones, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

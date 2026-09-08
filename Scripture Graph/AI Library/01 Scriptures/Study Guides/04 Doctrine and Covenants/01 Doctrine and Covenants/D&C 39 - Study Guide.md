@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 39
 slug: dc-39
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ Verse 6 gives one of the more compact scriptural definitions of the [[Gospel of 
 - [[Personal Peace The Reward of Righteousness (Elder Quentin L. Cook, April 2013)|Personal Peace: The Reward of Righteousness]] — Elder Quentin L. Cook, 2013-April *(explicit citation)*
 - [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
 - [[Nourished by the Good Word of God (Daniel K Judd, October 2007)|Nourished by the Good Word of God]] — Daniel K Judd, 2007-October *(explicit citation)*
+- [[Senior Missionaries and the Gospel (Elder Russell M. Nelson, October 2004)|Senior Missionaries and the Gospel]] — Elder Russell M. Nelson, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

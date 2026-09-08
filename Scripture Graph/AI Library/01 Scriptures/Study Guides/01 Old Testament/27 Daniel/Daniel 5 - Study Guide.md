@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 5
 slug: dan-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ The chapter presents human political power as granted and removable by God: the 
 - **Daniel** (reference-entry) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **Darius** (reference-entry) *(explicit citation)*
+- **Chapter 14: ‘Thou Shalt Have No Other Gods before Me’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

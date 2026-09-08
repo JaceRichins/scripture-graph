@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 8
 slug: rev-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

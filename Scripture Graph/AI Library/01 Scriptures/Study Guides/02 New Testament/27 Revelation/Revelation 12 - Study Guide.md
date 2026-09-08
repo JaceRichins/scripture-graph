@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 12
 slug: rev-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -101,10 +101,10 @@ Latter-day Saints commonly read the 'war in heaven' (12:7-9) together with D&C 2
 - **War in Heaven** (reference-entry) *(explicit citation)*
 - **40 United in an Everlasting Covenant** (history) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
+- **Chapter 3: Freedom of Choice, an Eternal Principle** (teachings) *(explicit citation)*
 - **Satan** (reference-entry) *(explicit citation)*
 - **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
 - **Times and Seasons 1843-02-15 (Vol. 4 No. 7)** (periodical, 1843-02-15) *(explicit citation)*
-- **Latter Day Saints' Messenger and Advocate 1835-04-01 (Vol. 1 No. 7)** (periodical, 1835-04-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 10
 slug: alma-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ The chapter's treatment of [[Government and Laws]] distinguishes a legal system 
 - [[“Return unto Me … That I May Heal You” (Elder S. Mark Palmer, April 2025)|“Return unto Me … That I May Heal You”]] — Elder S. Mark Palmer, 2025-April *(explicit citation)*
 - [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
 - [[Prayer and Promptings (President Boyd K. Packer, October 2009)|Prayer and Promptings]] — President Boyd K. Packer, 2009-October *(explicit citation)*
+- [[Pure Testimony (Elder M. Russell Ballard, October 2004)|Pure Testimony]] — Elder M. Russell Ballard, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -104,6 +105,7 @@ The chapter's treatment of [[Government and Laws]] distinguishes a legal system 
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Fasts** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

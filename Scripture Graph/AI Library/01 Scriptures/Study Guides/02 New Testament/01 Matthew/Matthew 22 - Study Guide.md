@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 22
 slug: matt-22
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -74,8 +74,8 @@ _Not yet developed._
 - [[Law of Moses]]
 - [[Jesus Christ (Gospel Topic)]]
 - [[Marriage]] *(keyword match — unconfirmed)*
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Resurrection]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

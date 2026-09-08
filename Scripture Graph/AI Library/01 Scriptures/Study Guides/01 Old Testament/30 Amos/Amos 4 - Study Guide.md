@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 4
 slug: amos-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,7 @@ _Not yet developed._
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Thoughts to Keep in Mind: Reading Poetry in the Old Testament** (lesson) *(explicit citation)*
 - **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Chapter 9: The Law of Tithing** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

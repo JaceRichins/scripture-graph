@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 10
 slug: john-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,11 +87,11 @@ The other-sheep promise is left geographically undefined in John. [[3 Nephi 15]]
 - [[That They Might Know Thee (Elder Jonathan S. Schmitt, October 2022)|That They Might Know Thee]] — Elder Jonathan S. Schmitt, 2022-October *(explicit citation)*
 - [[The Sacred Place of Restoration (Elder Jairo Mazzagardi, April 2016)|The Sacred Place of Restoration]] — Elder Jairo Mazzagardi, 2016-April *(explicit citation)*
 - [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
+- [[He Knows Us; He Loves Us (Sydney S. Reynolds, October 2003)|He Knows Us; He Loves Us]] — Sydney S. Reynolds, 2003-October *(explicit citation)*
 - [[Choose to Believe (Elder L. Whitney Clayton, April 2015)|Choose to Believe]] — Elder L. Whitney Clayton, 2015-April *(explicit citation)*
 - [[Has the Day of Miracles Ceased (Elder Donald L. Hallstrom, October 2017)|Has the Day of Miracles Ceased?]] — Elder Donald L. Hallstrom, 2017-October *(explicit citation)*
 - [[The Voice of the Lord (Elder Neil L. Andersen, October 2017)|The Voice of the Lord]] — Elder Neil L. Andersen, 2017-October *(explicit citation)*
 - [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
-- [[Shepherding Souls (Elder Gary E. Stevenson, October 2018)|Shepherding Souls]] — Elder Gary E. Stevenson, 2018-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -103,9 +103,9 @@ The other-sheep promise is left geographically undefined in John. [[3 Nephi 15]]
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 1: I Know That My Redeemer Lives** (teachings) *(explicit citation)*
 - **Chapter 1: Jesus Christ: ‘The Way, the Truth, and the Life’** (teachings) *(explicit citation)*
+- **Chapter 20: ‘Feed My Sheep’** (teachings) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

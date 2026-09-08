@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 31
 slug: deut-31
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ The chapter joins divine presence with human covenant responsibility. Israel and
 - [[He Is Risen with Healing in His Wings We Can Be More Than Conquerors (Elder Patrick Kearon, April 2022)|He Is Risen with Healing in His Wings: We Can Be More Than Conquerors]] — Elder Patrick Kearon, 2022-April *(explicit citation)*
 - [[Jesus Christ at the Center of Our Lives (Elder Jose L. Alonso, April 2024)|Jesus Christ at the Center of Our Lives]] — Elder Jose L. Alonso, 2024-April *(explicit citation)*
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
+- [[The Call for Courage (President Thomas S. Monson, April 2004)|The Call for Courage]] — President Thomas S. Monson, 2004-April *(explicit citation)*
 - [[“I Have a Work for Thee” (Elder John C. Pingree Jr., October 2017)|“I Have a Work for Thee”]] — Elder John C. Pingree Jr., 2017-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -93,6 +94,7 @@ The chapter joins divine presence with human covenant responsibility. Israel and
 - **Deuteronomy** (reference-entry) *(explicit citation)*
 - **Chapter 30: Valiant in the Cause of Christ** (teachings) *(explicit citation)*
 - **Chapter 18: Courage to Live Righteously** (teachings) *(explicit citation)*
+- **Chapter 3: Adversity—Part of God’s Plan for Our Eternal Progress** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

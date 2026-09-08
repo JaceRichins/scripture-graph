@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Official Declarations
 chapter: 2
 slug: od-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[On Zion’s Hill (President Boyd K. Packer, October 2005)|On Zion’s Hill]] — President Boyd K. Packer, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
@@ -74,7 +75,9 @@ _Not yet developed._
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **December 8–14: “We Believe”: Articles of Faith and Official Declarations 1 and 2** (lesson) *(explicit citation)*
 - **Witnessing the Faithfulness** (history) *(explicit citation)*
+- **The Life and Ministry of Spencer W. Kimball** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Chapter 22: Revelation: ‘A Continuous Melody and a Thunderous Appeal’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

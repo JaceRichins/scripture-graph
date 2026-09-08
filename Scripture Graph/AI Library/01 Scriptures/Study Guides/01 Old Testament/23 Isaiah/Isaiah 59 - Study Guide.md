@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 59
 slug: isa-59
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ Verse 21 presents [[Covenants]] as involving both the Spirit and preserved divin
 <!-- SG:BEGIN conference -->
 - [[Trust Again (Elder Gerrit W. Gong, October 2021)|Trust Again]] — Elder Gerrit W. Gong, 2021-October *(explicit citation)*
 - [[God’s Favourite (Elder Karl D. Hirst, October 2024)|God’s Favourite]] — Elder Karl D. Hirst, 2024-October *(explicit citation)*
+- [[The Dawning of a Brighter Day (President Gordon B. Hinckley, April 2004)|The Dawning of a Brighter Day]] — President Gordon B. Hinckley, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

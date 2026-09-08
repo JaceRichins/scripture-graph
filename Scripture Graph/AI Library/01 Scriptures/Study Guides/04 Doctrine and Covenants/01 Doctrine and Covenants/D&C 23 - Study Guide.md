@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 23
 slug: dc-23
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ _Not yet developed._
 - **March 17–23: “Seek for the Things of a Better World”: Doctrine and Covenants 23–26** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

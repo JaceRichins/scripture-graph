@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 9
 slug: rom-9
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

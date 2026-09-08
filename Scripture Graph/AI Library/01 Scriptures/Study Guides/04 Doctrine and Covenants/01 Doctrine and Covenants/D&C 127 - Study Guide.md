@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 127
 slug: dc-127
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Recommended to the Lord (Elder Ronald A. Rasband, October 2020)|Recommended to the Lord]] — Elder Ronald A. Rasband, 2020-October *(explicit citation)*
 - [[Roots and Branches (Elder Quentin L. Cook, April 2014)|Roots and Branches]] — Elder Quentin L. Cook, 2014-April *(explicit citation)*
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 - [[Turn to the Lord (Elder Donald L. Hallstrom, April 2010)|Turn to the Lord]] — Elder Donald L. Hallstrom, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 

@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 7
 slug: rom-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **The Seer 1854-02 (Vol. 2 No. 2)** (history, 1854-02) *(explicit citation)*
 - **Atonement** (reference-entry) *(explicit citation)*
 - **Flesh** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*

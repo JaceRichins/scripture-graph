@@ -11,8 +11,6 @@ doc_id: glib:/history/saints-v1/34-build-up-a-city
 
 *Saints V1* · [source](https://www.churchofjesuschrist.org/study/history/saints-v1/34-build-up-a-city?lang=eng)
 
-“Build Up a City,” chapter 34 of Saints: The Story of the Church of Jesus Christ in the Latter Days, Volume 1, The Standard of Truth, 1815–1846 (2018)
-
 In late April 1839, days after reuniting with the Saints, Joseph rode north to inspect land that church leaders wanted to buy in and around Commerce, a town fifty miles from Quincy. For the first time in more than six months, the prophet was traveling without armed guards or the threat of violence looming over him. He was finally among friends, in a state where people welcomed the Saints and seemed to respect their beliefs.
 
 While in jail, Joseph had written to a man who was selling land around Commerce, expressing interest in settling the church there. “If there is not anyone who feels particular interest in making the purchase,” Joseph had told him, “we will purchase it of you.”
@@ -24,6 +22,8 @@ Arriving in Commerce, he saw a marshy floodplain that rose gently to a wooded bl
 Joseph believed the Saints could build thriving stakes of Zion in this area. The land was not the choicest he had ever seen, but the Mississippi River was navigable all the way to the ocean, making Commerce a good place for gathering the Saints from abroad and establishing commercial enterprises. The area was also sparsely settled.
 
 Still, gathering the Saints there would be risky. If the church grew, as Joseph hoped it would, their neighbors might become alarmed and turn against them, as people had in Missouri.
+
+Joseph prayed. “Lord, what wilt Thou have me to do?”
 
 “Build up a city,” the Lord replied, “and call my Saints to this place.”
 
@@ -47,6 +47,12 @@ Wilford walked with them across the village square to the home of his friend Eli
 
 Joseph approached Elijah and took his hand. “Brother Fordham,” he asked, “have you not faith to be healed?”
 
+“I am afraid it is too late,” he said.
+
+“Do you not believe that Jesus is the Christ?”
+
+“I do, Brother Joseph.”
+
 “Elijah,” the prophet declared, “I command you, in the name of Jesus of Nazareth, to arise and be made whole.”
 
 The words seemed to shake the house. Elijah rose from his bed, his face flush with color. He dressed, asked for something to eat, and followed Joseph outside to help minister to many others.
@@ -64,6 +70,8 @@ When her mother died, Zina was overcome with grief. Knowing the family’s suffe
 During one of Joseph’s visits, Zina asked him, “Will I know my mother as my mother when I get over on the other side?”
 
 “More than that,” he said, “you will meet and become acquainted with your eternal Mother, the wife of your Father in Heaven.”
+
+“Have I then a Mother in Heaven?” Zina asked.
 
 “You assuredly have,” said Joseph. “How could a Father claim His title unless there were also a Mother to share that parenthood?”
 
@@ -83,11 +91,17 @@ Mary Ann tended to Brigham until a wagon arrived in the morning. As Heber stood 
 
 Brigham tried in vain to look healthy when he said goodbye to Mary Ann and his sister Fanny, who urged him to stay until he was well again.
 
+“I never felt better in my life,” he said.
+
+“You lie,” said Fanny.
+
 Brigham climbed with effort into the wagon and took a seat beside Heber. As the wagon rolled down the hill, Heber felt terrible about leaving his family when they were so sick. He turned to the wagon driver and told him to stop. “This is pretty tough,” he said to Brigham. “Let’s rise up and give them a cheer.”
 
 Back at the house, a noise from outside startled Vilate out of bed. Staggering to the door, she joined Mary Ann and Fanny, who were looking at something a short distance away. Vilate looked too, and a smile spread across her face.
 
 It was Brigham and Heber, standing in the back of the wagon and leaning on each other for support. “Hurrah! Hurrah!” the men cried, waving their hats in the air. “Hurrah for Israel!”
+
+“Goodbye!” the women called out. “God bless you!”
 
 While the apostles were leaving for Britain, Saints in Illinois and Iowa composed statements detailing their harsh treatment in Missouri, as Joseph had instructed them to do when he was in jail. By the fall, church leaders had collected hundreds of these accounts and prepared a formal petition. In total, the Saints asked for more than two million dollars to compensate for lost homes, land, livestock, and other property. Joseph planned to deliver these claims personally to the president of the United States and to Congress.
 
@@ -117,7 +131,7 @@ While they waited, Joseph decided to visit the eastern branches of the church. H
 
 Wilford Woodruff and John Taylor arrived in Liverpool, England, on January 11, 1840. It was Wilford’s first trip to England, but John was back among family and friends. After retrieving their luggage, they went to the home of John’s brother-in-law George Cannon. George and his wife, Ann, were surprised to see them and invited them to dinner.
 
-The Cannons had five children. Their oldest, George, was a bright thirteen-year-old who enjoyed reading. After dinner, Wilford and John gave the family a Book of Mormon and A Voice of Warning, a book-length missionary tract Parley Pratt had published in New York City a few years earlier. John taught the family the first principles of the gospel and invited them to read the books.
+The Cannons had five children. Their oldest, George, was a bright thirteen-year-old who enjoyed reading. After dinner, Wilford and John gave the family a Book of Mormon and *A Voice of Warning,* a book-length missionary tract Parley Pratt had published in New York City a few years earlier. John taught the family the first principles of the gospel and invited them to read the books.
 
 The Cannons agreed to store the missionaries’ luggage while Wilford and John caught a train to Preston to meet with Joseph Fielding and Willard Richards. Both Joseph and Willard had married British Saints since Heber Kimball and Orson Hyde left the mission a year earlier. As Heber had predicted, Willard had married Jennetta Richards.
 
@@ -151,6 +165,8 @@ Reflecting on the sermon, Matthew realized that he had heard nothing that evenin
 
 Matthew had no intention of accepting the prophet’s teachings, but he appreciated his message of peace. “There was no violence, no fury, no denunciation,” he wrote. “His religion appears to be the religion of meekness, lowliness, and mild persuasion.”
 
+“I have changed my opinion of the Mormons,” he concluded.
+
 As Joseph waited for Congress to review the Saints’ petition, he grew weary of being away from his family. “My dear Emma, my heart is entwined around you and those little ones,” he wrote that winter. “Tell all the children that I love them and will come home as soon as I can.”
 
 When Joseph married Emma, he had believed that their union would end at death. But the Lord had since revealed to him that marriages and families could endure beyond the grave through the power of the priesthood. Recently, while visiting church branches in the eastern states with Parley Pratt, Joseph had told him that righteous Saints could cultivate family relationships forever, allowing them to grow and increase in affection. No matter how much distance separated faithful families on earth, they could trust in the promise that one day they would be united in the world to come.
@@ -163,106 +179,98 @@ After the prophet returned to Illinois, Elias Higbee continued to seek compensat
 
 “Our business is at last ended here,” Elias wrote Joseph in disappointment. “I have done all I could in this matter.”
 
-Joseph Smith History, 1838–56, volume C-1, 930; JSP, J1:336, note 14; Joseph Smith to Isaac Galland, Mar. 22, 1839, in JSP, D6:388.
+Notes
 
-Far West Committee, Minutes, Feb. 1839; Leonard, Nauvoo, 55.
+[Joseph Smith History, 1838–56, volume C-1, 930](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/112); *JSP,* J1:336, note 14; [Joseph Smith to Isaac Galland, Mar. 22, 1839](https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/1), in *JSP,* D6:388.
 
-David W. Rogers, Statement, Feb. 1, 1839, Church History Library; Joseph Smith, Journal, Apr. 13, 1843, in JSP, J2:354; see also Plewe, Mapping Mormonism, 53–54. Topic: Nauvoo (Commerce), Illinois
+[Far West Committee, Minutes, Feb. 1839](https://catalog.churchofjesuschrist.org/assets/b4a7fd1f-54f4-42be-a64c-0e16535d72f1/0/0); Leonard, *Nauvoo,* 55.
 
-Woodruff, Journal, May 20, 1839; Woodruff, Leaves from My Journal, 61.
+[David W. Rogers, Statement, Feb. 1, 1839](https://catalog.churchofjesuschrist.org/assets/8041046a-4980-4a1e-88ef-9c6443ef53d6/0/0), Church History Library; [Joseph Smith, Journal, Apr. 13, 1843](https://josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-2-10-march-1843-14-july-1843/134), in *JSP,* J2:354; see also Plewe, *Mapping Mormonism,* 53–54. **Topic: [Nauvoo (Commerce), Illinois](https://www.churchofjesuschrist.org/study/history/topics/nauvoo-commerce-illinois?lang=eng)**
 
-See Rollins and others, “Transforming Swampland into Nauvoo,” 125–57; Flanders, Nauvoo, 38–44, 116.
+Woodruff, Journal, May 20, 1839; Woodruff, *Leaves from My Journal,* 61.
 
-Woodruff, Journal, June 27, 1839; Bushman, Rough Stone Rolling, 386–89; Esplin, “Emergence of Brigham Young,” 398–402.
+See Rollins and others, “Transforming Swampland into Nauvoo,” 125–57; Flanders, *Nauvoo,* 38–44, 116.
 
-Joseph Smith, Journal, June 27, 1839, in JSP, J1:343; Woodruff, Journal, June 25–27, 1839.
+Woodruff, Journal, June 27, 1839; Bushman, *Rough Stone Rolling,* 386–89; Esplin, “Emergence of Brigham Young,” 398–402.
 
-Woodruff, Journal, July 12, 1839; Givens and Grow, Parley P. Pratt, 158–65.
+[Richards, “Pocket Companion,” 17](https://catalog.churchofjesuschrist.org/assets/526ad919-662c-4039-b59d-1cbf2edc7b57/0/0).
 
-Woodruff, Journal, July 12 and 19, 1839; Historian’s Office, Brigham Young History Drafts, 25; Historian’s Office, “History of Brigham Young,” 35; Woodruff, Leaves from My Journal, 62.
+Woodruff, Journal, July 2, 1839.
 
-Woodruff, Leaves from My Journal, 62–63; Joseph Smith, Journal, July 22–23, 1839, in JSP, J1:349; Historian’s Office, Brigham Young History Drafts, 25; Woodruff, Journal, July 22, 1839; Pratt, Autobiography, 324.
+[Joseph Smith, Journal, June 27, 1839](https://josephsmithpapers.org/paper-summary/journal-1839/5), in *JSP,* J1:343; Woodruff, Journal, June 25–27, 1839.
 
-Woodruff, Journal, July 22, 1839; Pratt, Autobiography, 324–25.
+Woodruff, Journal, July 12, 1839; Givens and Grow, *Parley P. Pratt,* 158–65.
 
-Kimball, “History,” 110; Woodruff, Leaves from My Journal, 63; Historian’s Office, Brigham Young History Drafts, 25–26; Pratt, Autobiography, 325.
+Woodruff, Journal, July 12 and 19, 1839; [Historian’s Office, Brigham Young History Drafts, 25](https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/30); [Historian’s Office, “History of Brigham Young,” 35](https://catalog.churchofjesuschrist.org/assets/d13d909b-8390-4227-870b-0407e5169596/0/40); Woodruff, *Leaves from My Journal,* 62.
 
-Gates, History of the Young Ladies’ Mutual Improvement Association, 16; see also “Mother in Heaven,” Gospel Topics, topics.lds.org. Topic: Mother in Heaven
+Woodruff, *Leaves from My Journal,* 62–63; [Joseph Smith, Journal, July 22–23, 1839](https://www.josephsmithpapers.org/paper-summary/journal-1839/11), in *JSP,* J1:349; [Historian’s Office, Brigham Young History Drafts, 25](https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/30); Woodruff, Journal, July 22, 1839; Pratt, *Autobiography,* 324.
 
-Woodruff, Journal, Aug. 8, 1839; see also Woodruff, Journal, May 30, 1840; and Alexander, Heaven and Earth, 85.
+Woodruff, Journal, July 22, 1839; Pratt, *Autobiography,* 324–25.
 
-Pratt, Autobiography, 325; George A. Smith to Bathsheba Wilson Bigler, Jan. 14, 1841, George A. Smith, Collection, Church History Library; “History of George Albert Smith,” 15, in Historian’s Office, Histories of the Twelve, Church History Library; Allen and others, Men with a Mission, 8, 277, 288–89.
+Kimball, “History,” 110; Woodruff, *Leaves from My Journal,* 63; [Historian’s Office, Brigham Young History Drafts, 25–26](https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/30); Pratt, *Autobiography,* 325.
 
-Historian’s Office, Brigham Young History Drafts, 26; “Biography of Mary Ann Angell Young,” Juvenile Instructor, Jan. 15, 1891, 26:56–57; Kimball, “History,” 111.
+Woodruff, Autobiographical Sketch, 3. **Topic: [Healing](https://www.churchofjesuschrist.org/study/history/topics/healing?lang=eng)**
 
-Historian’s Office, Brigham Young History Drafts, 26–27; Historian’s Office, “History of Brigham Young,” 35; Kimball, “History,” 111.
+Tullidge, *Women of Mormondom,* 213–14.
 
-Brigham Young, in Journal of Discourses, July 17, 1870, 13:211; Kimball, “History,” 111.
+**[Gates, History of the Young Ladies’ Mutual Improvement Association, 16](https://archive.org/stream/historyofyoungla00gate); see also “[Mother in Heaven](https://www.churchofjesuschrist.org/study/manual/gospel-topics/mother-in-heaven?lang=eng),” Gospel Topics, topics.lds.org. **Topic: [Mother in Heaven](https://www.churchofjesuschrist.org/study/history/topics/mother-in-heaven?lang=eng)**
 
-Johnson, Mormon Redress Petitions, xix, xxiii–xxv; McBride, “When Joseph Smith Met Martin Van Buren,” 150; Joseph Smith, Discourse, Apr. 7, 1840, in JSP, D7:258–60. Topic: American Legal and Political Institutions
+Woodruff, Journal, Aug. 8, 1839; see also Woodruff, Journal, May 30, 1840; and Alexander, *Heaven and Earth,* 85.
 
-Sidney Rigdon to Martin Van Buren, Nov. 9, 1839; Memorial to the United States Senate and House of Representatives, circa Oct. 30, 1839–Jan. 27, 1840; Joseph Smith, Discourse, Apr. 7, 1840, in JSP, D7:57–59, 138–74, 258–60.
+Pratt, *Autobiography,* 325; [George A. Smith to Bathsheba Wilson Bigler, Jan. 14, 1841](https://catalog.churchofjesuschrist.org/assets/01ccb5d8-5b46-49ac-aeef-c4dcd2805ec1/0/12), George A. Smith, Collection, Church History Library; [“History of George Albert Smith,” 15](https://catalog.churchofjesuschrist.org/assets/19df575b-5d97-4a32-b9bb-5b2955cfc87e/0/14), in Historian’s Office, Histories of the Twelve, Church History Library; Allen and others, *Men with a Mission,* 8, 277, 288–89.
 
-Reynolds, My Own Times, 574–75; Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839, in JSP, D7:69; Monkman, White House, 93–94; Seale, President’s House, 212–15.
+[Historian’s Office, Brigham Young History Drafts, 26](https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/32); “Biography of Mary Ann Angell Young,” *Juvenile Instructor,* Jan. 15, 1891, 26:56–57; Kimball, “History,” 111.
 
-Joseph Smith History, 1838–56, volume C-1, 972; Joseph Smith to Emma Smith, Nov. 9, 1839; Sidney Rigdon to Martin Van Buren, Nov. 9, 1839, in JSP, D7:55–59; Reynolds, My Own Times, 575; see also Sidney Rigdon to Joseph Smith and others, Apr. 10, 1839, in JSP, D6:408–9; and Bushman, Rough Stone Rolling, 391–93.
+[Historian’s Office, Brigham Young History Drafts, 26–27](https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/32); [Historian’s Office, “History of Brigham Young,” 35](https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/44); Kimball, “History,” 111.
 
-Freidel, Presidents of the United States of America, 22–23; Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839, in JSP, D7:69–70; Reynolds, My Own Times, 575.
+**[Brigham Young, in Journal of Discourses, July 17, 1870, 13:211](https://contentdm.lib.byu.edu/cdm/compoundobject/collection/JournalOfDiscourses3/id/9608/rec/13); Kimball, “History,” 111.
 
-Joseph Smith, Discourse, Mar. 1, 1840, in JSP, D7:202; compare History of the Church, 4:80.
+Johnson, *Mormon Redress Petitions,* xix, xxiii–xxv; McBride, “When Joseph Smith Met Martin Van Buren,” 150; [Joseph Smith, Discourse, Apr. 7, 1840](https://www.josephsmithpapers.org/paper-summary/minutes-and-discourses-6-8-april-1840/3), in *JSP,* D7:258–60. **Topic: [American Legal and Political Institutions](https://www.churchofjesuschrist.org/study/history/topics/american-legal-and-political-institutions?lang=eng)**
 
-McBride, “When Joseph Smith Met Martin Van Buren,” 150–58; Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839; Joseph Smith, Discourse, Apr. 7, 1840, in JSP, D7:69–70, 260.
+[Sidney Rigdon to Martin Van Buren, Nov. 9, 1839](https://josephsmithpapers.org/paper-summary/letter-of-introduction-from-sidney-rigdon-9-november-1839); [Memorial to the United States Senate and House of Representatives, circa Oct. 30, 1839–Jan. 27, 1840](https://catalog.churchofjesuschrist.org/assets/5312caeb-9557-4589-872f-79052eedfa03/0/10); [Joseph Smith, Discourse, Apr. 7, 1840](https://www.josephsmithpapers.org/paper-summary/minutes-and-discourses-6-8-april-1840/3), in *JSP,* D7:57–59, 138–74, 258–60.
 
-Joseph Smith, Discourse, Apr. 7, 1840, in JSP, D7:260; compare History of the Church, 4:80; Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839, in JSP, D7:69.
+Reynolds, *My Own Times,* 574–75; [Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839](https://josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-high-council-5-december-1839), in *JSP,* D7:69; Monkman, *White House,* 93–94; Seale, *President’s House,* 212–15.
 
-Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839; Joseph Smith and Elias Higbee to Seymour Brunson and Nauvoo high council, Dec. 7, 1839, in JSP, D7:70, 78–81; Journal of the Senate of the United States of America, 138; Bushman, Rough Stone Rolling, 397.
+[Joseph Smith History, 1838–56, volume C-1, 972](https://josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/154); [Joseph Smith to Emma Smith, Nov. 9, 1839](https://josephsmithpapers.org/paper-summary/letter-to-emma-smith-9-november-1839/1); [Sidney Rigdon to Martin Van Buren, Nov. 9, 1839](https://josephsmithpapers.org/paper-summary/letter-of-introduction-from-sidney-rigdon-9-november-1839), in *JSP,* D7:55–59; Reynolds, *My Own Times,* 575; see also [Sidney Rigdon to Joseph Smith and others, Apr. 10, 1839](https://josephsmithpapers.org/paper-summary/letter-from-sidney-rigdon-10-april-1839/1), in *JSP,* D6:408–9; and Bushman, *Rough Stone Rolling,* 391–93.
 
-, in JSP, D7:111–15; and Joseph Smith to Robert D. Foster, Dec. 30, 1839, in JSP, D7:89–93.
+Freidel, *Presidents of the United States of America,* 22–23; [Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839](https://josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-high-council-5-december-1839/1), in *JSP,* D7:69–70; Reynolds, *My Own Times,* 575.
 
-Woodruff, Journal, Jan. 11–13, 1840; Woodruff, Leaves from My Journal, 75; Bitton, George Q. Cannon, 33–38; John Taylor to Leonora Taylor, Jan. 30, 1840, John Taylor, Collection, Church History Library.
+[Joseph Smith, Discourse, Mar. 1, 1840](https://www.josephsmithpapers.org/paper-summary/discourse-1-march-1840/1), in *JSP,* D7:202; compare *History of the Church,* 4:80.
 
-Woodruff, Journal, Mar. 2–4, 1840; Woodruff, Leaves from My Journal, 77–78.
+McBride, “When Joseph Smith Met Martin Van Buren,” 150–58; [Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839](https://www.josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-nauvoo-illinois-high-council-5-december-1839/2); [Joseph Smith, Discourse, Apr. 7, 1840](https://www.josephsmithpapers.org/paper-summary/minutes-and-discourses-6-8-april-1840/3), in *JSP,* D7:69–70, 260.
 
-Woodruff, Journal, Mar. 4, 1840; Woodruff, Leaves from My Journal, 78–81.
+[Joseph Smith, Discourse, Apr. 7, 1840](https://www.josephsmithpapers.org/paper-summary/minutes-and-discourses-6-8-april-1840), in *JSP,* D7:260; compare *History of the Church,* 4:80; [Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839](https://josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-high-council-5-december-1839/1), in *JSP,* D7:69.
 
-Woodruff, Journal, Mar. 5–7, 1840; Woodruff, Leaves from My Journal, 79–81; Allen and others, Men with a Mission, 126.
+[Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839](https://josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-high-council-5-december-1839/2); [Joseph Smith and Elias Higbee to Seymour Brunson and Nauvoo high council, Dec. 7, 1839](https://josephsmithpapers.org/paper-summary/letter-to-seymour-brunson-and-high-council-7-december-1839/1), in *JSP,* D7:70, 78–81; *Journal of the Senate of the United States of America,* 138; Bushman, *Rough Stone Rolling,* 397.
 
-Wilford Woodruff to Willard Richards, Mar. 31, 1840, Willard Richards, Journals and Papers, Church History Library; see also Allen and others, Men with a Mission, 126–28. Topics: England; Early Missionaries
+See Minutes and Discourse, Jan. 13, 1840 , in *JSP,* D7:111–15; and [Joseph Smith to Robert D. Foster, Dec. 30, 1839](https://www.josephsmithpapers.org/paper-summary/letter-to-robert-d-foster-30-december-1839/1), in *JSP,* D7:89–93.
 
-Matthew L. Davis to Mrs. Matthew [Mary] L. Davis, Feb. 6, 1840, Church History Library; Bushman, Rough Stone Rolling, 394–95.
+Woodruff, Journal, Jan. 11–13, 1840; Woodruff, *Leaves from My Journal,* 75; Bitton, *George Q. Cannon,* 33–38; [John Taylor to Leonora Taylor, Jan. 30, 1840](https://catalog.churchofjesuschrist.org/assets/d6b27a36-5ef0-40e4-b25a-afc08780b22e/0/0), John Taylor, Collection, Church History Library.
 
-Joseph Smith to Emma Smith, Jan. 20–25, 1840, in JSP, D7:136.
+Woodruff, Journal, Jan. 13–18, 1840.
 
-Pratt, Autobiography, 329–30; see also Givens and Grow, Parley P. Pratt, 173–74.
+Woodruff, Journal, Mar. 2–4, 1840; Woodruff, *Leaves from My Journal,* 77–78.
 
-Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839, in JSP, D7:72.
+Woodruff, Journal, Mar. 4, 1840; Woodruff, *Leaves from My Journal,* 78–81.
 
-John C. Calhoun to Joseph Smith, Dec. 2, 1843, Joseph Smith Collection, Church History Library; Joseph Smith History, 1838–56, volume C-1, 1016.
+Woodruff, Journal, Mar. 5–7, 1840; Woodruff, *Leaves from My Journal,* 79–81; Allen and others, *Men with a Mission,* 126.
 
-Historian’s Office, Joseph Smith History Draft Notes, Mar. 4, 1840; Report of the Senate Committee on the Judiciary, Mar. 4, 1840, in JSP, D7:539–43; McBride, “When Joseph Smith Met Martin Van Buren,” 154–58; Bushman, Rough Stone Rolling, 396–98.
+[Wilford Woodruff to Willard Richards, Mar. 31, 1840](https://catalog.churchofjesuschrist.org/assets/66def641-b4a1-4e38-88be-5eed439f76b5/0/0), Willard Richards, Journals and Papers, Church History Library; see also Allen and others, *Men with a Mission,* 126–28. **Topics: [England](https://www.churchofjesuschrist.org/study/history/topics/england?lang=eng); [Early Missionaries](https://www.churchofjesuschrist.org/study/history/topics/early-missionaries?lang=eng)**
 
-Elias Higbee to Joseph Smith, Mar. 24, 1840, in JSP, D7:232–34.
+[Matthew L. Davis to Mrs. Matthew [Mary] L. Davis, Feb. 6, 1840](https://catalog.churchofjesuschrist.org/assets/bf97bc6f-31de-420b-8e45-82c12270814c/0/0), Church History Library; Bushman, *Rough Stone Rolling,* 394–95.
 
-Notes {"note1": {"id": "note1", "marker": "1.", "pid": "137811679", "context": "", "text": " Joseph Smith History, 1838–56, volume C-1, 930; JSP, J1:336, note 14; Joseph Smith to Isaac Galland, Mar. 22, 1839, in JSP, D6:388. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/112", "text": "Joseph Smith History, 1838–56, volume C-1, 930"}, {"href": "https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/1", "text": "Joseph Smith to Isaac Galland, Mar. 22, 1839"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "137811680", "context": "", "text": " Far West Committee, Minutes, Feb. 1839; Leonard, Nauvoo, 55. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/b4a7fd1f-54f4-42be-a64c-0e16535d72f1/0/0", "text": "Far West Committee, Minutes, Feb. 1839"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "137811685", "context": "", "text": " David W. Rogers, Statement, Feb. 1, 1839, Church History Library; Joseph Smith, Journal, Apr. 13, 1843, in JSP, J2:354; see also Plewe, Mapping Mormonism, 53–54. Topic: Nauvoo (Commerce), Illinois ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/8041046a-4980-4a1e-88ef-9c6443ef53d6/0/0", "text": "David W. Rogers, Statement, Feb. 1, 1839"}, {"href": "https://josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-2-10-march-1843-14-july-1843/134", "text": "Joseph Smith, Journal, Apr.
+[Joseph Smith to Emma Smith, Jan. 20–25, 1840](https://catalog.churchofjesuschrist.org/assets/bb6ae3fd-2825-4089-bcac-6ab524c54f47/0/0), in *JSP,* D7:136.
 
-13, 1843"}, {"type": "cross-ref", "href": "/study/history/topics/nauvoo-commerce-illinois?lang=eng", "text": "Nauvoo (Commerce), Illinois"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "137811686", "context": "", "text": " Woodruff, Journal, May 20, 1839; Woodruff, Leaves from My Journal, 61. "}, "note5": {"id": "note5", "marker": "5.", "pid": "137811687", "context": "", "text": " See Rollins and others, “Transforming Swampland into Nauvoo,” 125–57; Flanders, Nauvoo, 38–44, 116. "}, "note6": {"id": "note6", "marker": "6.", "pid": "137811688", "context": "", "text": " Woodruff, Journal, June 27, 1839; Bushman, Rough Stone Rolling, 386–89; Esplin, “Emergence of Brigham Young,” 398–402. "}, "note7": {"id": "note7", "marker": "7.", "pid": "137811688", "context": "", "text": " Richards, “Pocket Companion,” 17. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/526ad919-662c-4039-b59d-1cbf2edc7b57/0/0", "text": "Richards, “Pocket Companion,” 17"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "137811689", "context": "", "text": " Woodruff, Journal, July 2, 1839. "}, "note9": {"id": "note9", "marker": "9.", "pid": "137811690", "context": "", "text": " Joseph Smith, Journal, June 27, 1839, in JSP, J1:343; Woodruff, Journal, June 25–27, 1839. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/journal-1839/5", "text": "Joseph Smith, Journal, June 27, 1839"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "137811690", "context": "", "text": " Woodruff, Journal, July 12, 1839; Givens and Grow, Parley P. Pratt, 158–65.
+[Joseph Smith to Emma Smith, Oct. 13, 1832](https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-13-october-1832/3), in *JSP,* D2:313.
 
-"}, "note11": {"id": "note11", "marker": "11.", "pid": "137811691", "context": "", "text": " Woodruff, Journal, July 12 and 19, 1839; Historian’s Office, Brigham Young History Drafts, 25; Historian’s Office, “History of Brigham Young,” 35; Woodruff, Leaves from My Journal, 62. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/30", "text": "Historian’s Office, Brigham Young History Drafts, 25"}, {"href": "https://catalog.churchofjesuschrist.org/assets/d13d909b-8390-4227-870b-0407e5169596/0/40", "text": "Historian’s Office, “History of Brigham Young,” 35"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "137811693", "context": "", "text": " Woodruff, Leaves from My Journal, 62–63; Joseph Smith, Journal, July 22–23, 1839, in JSP, J1:349; Historian’s Office, Brigham Young History Drafts, 25; Woodruff, Journal, July 22, 1839; Pratt, Autobiography, 324. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/journal-1839/11", "text": "Joseph Smith, Journal, July 22–23, 1839"}, {"href": "https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/30", "text": "Historian’s Office, Brigham Young History Drafts, 25"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "137811694", "context": "", "text": " Woodruff, Journal, July 22, 1839; Pratt, Autobiography, 324–25. "}, "note14": {"id": "note14", "marker": "14.", "pid": "137811700", "context": "", "text": " Kimball, “History,” 110; Woodruff, Leaves from My Journal, 63; Historian’s Office, Brigham Young History Drafts, 25–26; Pratt, Autobiography, 325.
+Hales, *Joseph Smith’s Polygamy,* 1:201–2.
 
-", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/30", "text": "Historian’s Office, Brigham Young History Drafts, 25–26"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "137811701", "context": "", "text": " Woodruff, Autobiographical Sketch, 3. Topic: Healing ", "referenceUris": [{"type": "cross-ref", "href": "/study/history/topics/healing?lang=eng", "text": "Healing"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "137811708", "context": "", "text": " Tullidge, Women of Mormondom, 213–14. "}, "note17": {"id": "note17", "marker": "17.", "pid": "137811716", "context": "", "text": " Gates, History of the Young Ladies’ Mutual Improvement Association, 16; see also “Mother in Heaven,” Gospel Topics, topics.lds.org. Topic: Mother in Heaven ", "referenceUris": [{"href": "https://archive.org/stream/historyofyoungla00gate", "text": "Gates, History of the Young Ladies’ Mutual Improvement Association, 16"}, {"type": "cross-ref", "href": "/study/manual/gospel-topics/mother-in-heaven?lang=eng", "text": "Mother in Heaven"}, {"type": "cross-ref", "href": "/study/history/topics/mother-in-heaven?lang=eng", "text": "Mother in Heaven"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "137811718", "context": "", "text": " Woodruff, Journal, Aug. 8, 1839; see also Woodruff, Journal, May 30, 1840; and Alexander, Heaven and Earth, 85. "}, "note19": {"id": "note19", "marker": "19.", "pid": "137811720", "context": "", "text": " Pratt, Autobiography, 325; George A. Smith to Bathsheba Wilson Bigler, Jan. 14, 1841, George A.
+Pratt, *Autobiography,* 329–30; see also Givens and Grow, *Parley P. Pratt,* 173–74.
 
-Smith, Collection, Church History Library; “History of George Albert Smith,” 15, in Historian’s Office, Histories of the Twelve, Church History Library; Allen and others, Men with a Mission, 8, 277, 288–89. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/01ccb5d8-5b46-49ac-aeef-c4dcd2805ec1/0/12", "text": "George A. Smith to Bathsheba Wilson Bigler, Jan. 14, 1841"}, {"href": "https://catalog.churchofjesuschrist.org/assets/19df575b-5d97-4a32-b9bb-5b2955cfc87e/0/14", "text": "“History of George Albert Smith,” 15"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "137811724", "context": "", "text": " Historian’s Office, Brigham Young History Drafts, 26; “Biography of Mary Ann Angell Young,” Juvenile Instructor, Jan. 15, 1891, 26:56–57; Kimball, “History,” 111. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/32", "text": "Historian’s Office, Brigham Young History Drafts, 26"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "137811726", "context": "", "text": " Historian’s Office, Brigham Young History Drafts, 26–27; Historian’s Office, “History of Brigham Young,” 35; Kimball, “History,” 111. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/32", "text": "Historian’s Office, Brigham Young History Drafts, 26–27"}, {"href": "https://catalog.churchofjesuschrist.org/assets/529ce505-9603-418b-9571-1c965b99e801/0/44", "text": "Historian’s Office, “History of Brigham Young,” 35"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "137811744", "context": "", "text": " Brigham Young, in Journal of Discourses, July 17, 1870, 13:211; Kimball, “History,” 111.
+[Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839](https://josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-high-council-5-december-1839/2), in *JSP,* D7:72.
 
-", "referenceUris": [{"href": "https://contentdm.lib.byu.edu/cdm/compoundobject/collection/JournalOfDiscourses3/id/9608/rec/13", "text": "Brigham Young, in Journal of Discourses, July 17, 1870, 13:211"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "137811748", "context": "", "text": " Johnson, Mormon Redress Petitions, xix, xxiii–xxv; McBride, “When Joseph Smith Met Martin Van Buren,” 150; Joseph Smith, Discourse, Apr. 7, 1840, in JSP, D7:258–60. Topic: American Legal and Political Institutions ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/minutes-and-discourses-6-8-april-1840/3", "text": "Joseph Smith, Discourse, Apr. 7, 1840"}, {"type": "cross-ref", "href": "/study/history/topics/american-legal-and-political-institutions?lang=eng", "text": "American Legal and Political Institutions"}]}, "note24": {"id": "note24", "marker": "24.", "pid": "137811751", "context": "", "text": " Sidney Rigdon to Martin Van Buren, Nov. 9, 1839; Memorial to the United States Senate and House of Representatives, circa Oct. 30, 1839–Jan. 27, 1840; Joseph Smith, Discourse, Apr. 7, 1840, in JSP, D7:57–59, 138–74, 258–60. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/letter-of-introduction-from-sidney-rigdon-9-november-1839", "text": "Sidney Rigdon to Martin Van Buren, Nov. 9, 1839"}, {"href": "https://catalog.churchofjesuschrist.org/assets/5312caeb-9557-4589-872f-79052eedfa03/0/10", "text": "Memorial to the United States Senate and House of Representatives, circa Oct. 30, 1839–Jan. 27, 1840"}, {"href": "https://www.josephsmithpapers.org/paper-summary/minutes-and-discourses-6-8-april-1840/3", "text": "Joseph Smith, Discourse, Apr.
+[John C. Calhoun to Joseph Smith, Dec. 2, 1843](https://www.josephsmithpapers.org/paper-summary/letter-from-john-c-calhoun-2-december-1843/1), Joseph Smith Collection, Church History Library; [Joseph Smith History, 1838–56, volume C-1, 1016](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/188).
 
-7, 1840"}]}, "note25": {"id": "note25", "marker": "25.", "pid": "137811755", "context": "", "text": " Reynolds, My Own Times, 574–75; Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839, in JSP, D7:69; Monkman, White House, 93–94; Seale, President’s House, 212–15. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-high-council-5-december-1839", "text": "Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839"}]}, "note26": {"id": "note26", "marker": "26.", "pid": "137811757", "context": "", "text": " Joseph Smith History, 1838–56, volume C-1, 972; Joseph Smith to Emma Smith, Nov. 9, 1839; Sidney Rigdon to Martin Van Buren, Nov. 9, 1839, in JSP, D7:55–59; Reynolds, My Own Times, 575; see also Sidney Rigdon to Joseph Smith and others, Apr. 10, 1839, in JSP, D6:408–9; and Bushman, Rough Stone Rolling, 391–93. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/154", "text": "Joseph Smith History, 1838–56, volume C-1, 972"}, {"href": "https://josephsmithpapers.org/paper-summary/letter-to-emma-smith-9-november-1839/1", "text": "Joseph Smith to Emma Smith, Nov. 9, 1839"}, {"href": "https://josephsmithpapers.org/paper-summary/letter-of-introduction-from-sidney-rigdon-9-november-1839", "text": "Sidney Rigdon to Martin Van Buren, Nov. 9, 1839"}, {"href": "https://josephsmithpapers.org/paper-summary/letter-from-sidney-rigdon-10-april-1839/1", "text": "Sidney Rigdon to Joseph Smith and others, Apr.
+[Historian’s Office, Joseph Smith History Draft Notes, Mar. 4, 1840](https://www.josephsmithpapers.org/paper-summary/history-draft-1-january-31-december-1840/5); Report of the Senate Committee on the Judiciary, Mar. 4, 1840, in *JSP,* D7:539–43; McBride, “When Joseph Smith Met Martin Van Buren,” 154–58; Bushman, *Rough Stone Rolling,* 396–98.
 
-10, 1839"}]}, "note27": {"id": "note27", "marker": "27.", "pid": "137811760", "context": "", "text": " Freidel, Presidents of the United States of America, 22–23; Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839, in JSP, D7:69–70; Reynolds, My Own Times, 575. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-high-council-5-december-1839/1", "text": "Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839"}]}, "note28": {"id": "note28", "marker": "28.", "pid": "137811762", "context": "", "text": " Joseph Smith, Discourse, Mar. 1, 1840, in JSP, D7:202; compare History of the Church, 4:80. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/discourse-1-march-1840/1", "text": "Joseph Smith, Discourse, Mar. 1, 1840"}]}, "note29": {"id": "note29", "marker": "29.", "pid": "137811764", "context": "", "text": " McBride, “When Joseph Smith Met Martin Van Buren,” 150–58; Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839; Joseph Smith, Discourse, Apr. 7, 1840, in JSP, D7:69–70, 260. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-nauvoo-illinois-high-council-5-december-1839/2", "text": "Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839"}, {"href": "https://www.josephsmithpapers.org/paper-summary/minutes-and-discourses-6-8-april-1840/3", "text": "Joseph Smith, Discourse, Apr. 7, 1840"}]}, "note30": {"id": "note30", "marker": "30.", "pid": "137811767", "context": "", "text": " Joseph Smith, Discourse, Apr.
-
-7, 1840, in JSP, D7:260; compare History of the Church, 4:80; Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839, in JSP, D7:69. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/minutes-and-discourses-6-8-april-1840", "text": "Joseph Smith, Discourse, Apr. 7, 1840"}, {"href": "https://josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-high-council-5-december-1839/1", "text": "Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839"}]}, "note31": {"id": "note31", "marker": "31.", "pid": "137811768", "context": "", "text": " Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839; Joseph Smith and Elias Higbee to Seymour Brunson and Nauvoo high council, Dec. 7, 1839, in JSP, D7:70, 78–81; Journal of the Senate of the United States of America, 138; Bushman, Rough Stone Rolling, 397. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-high-council-5-december-1839/2", "text": "Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839"}, {"href": "https://josephsmithpapers.org/paper-summary/letter-to-seymour-brunson-and-high-council-7-december-1839/1", "text": "Joseph Smith and Elias Higbee to Seymour Brunson and Nauvoo high council, Dec. 7, 1839"}]}, "note32": {"id": "note32", "marker": "32.", "pid": "137811771", "context": "", "text": " See \n\n\n\n\n\n Minutes and Discourse, Jan. 13, 1840 \n\n\n\n\n\n , in JSP, D7:111–15; and Joseph Smith to Robert D. Foster, Dec. 30, 1839, in JSP, D7:89–93. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/letter-to-robert-d-foster-30-december-1839/1", "text": "Joseph Smith to Robert D. Foster, Dec.
-
-30, 1839"}]}, "note33": {"id": "note33", "marker": "33.", "pid": "137811777", "context": "", "text": " Woodruff, Journal, Jan. 11–13, 1840; Woodruff, Leaves from My Journal, 75; Bitton, George Q. Cannon, 33–38; John Taylor to Leonora Taylor, Jan. 30, 1840, John Taylor, Collection, Church History Library. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/d6b27a36-5ef0-40e4-b25a-afc08780b22e/0/0", "text": "John Taylor to Leonora Taylor, Jan. 30, 1840"}]}, "note34": {"id": "note34", "marker": "34.", "pid": "137811779", "context": "", "text": " Woodruff, Journal, Jan. 13–18, 1840. "}, "note35": {"id": "note35", "marker": "35.", "pid": "137811788", "context": "", "text": " Woodruff, Journal, Mar. 2–4, 1840; Woodruff, Leaves from My Journal, 77–78. "}, "note36": {"id": "note36", "marker": "36.", "pid": "137811790", "context": "", "text": " Woodruff, Journal, Mar. 4, 1840; Woodruff, Leaves from My Journal, 78–81. "}, "note37": {"id": "note37", "marker": "37.", "pid": "137811795", "context": "", "text": " Woodruff, Journal, Mar. 5–7, 1840; Woodruff, Leaves from My Journal, 79–81; Allen and others, Men with a Mission, 126. "}, "note38": {"id": "note38", "marker": "38.", "pid": "137811798", "context": "", "text": " Wilford Woodruff to Willard Richards, Mar. 31, 1840, Willard Richards, Journals and Papers, Church History Library; see also Allen and others, Men with a Mission, 126–28. Topics: England; Early Missionaries ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/66def641-b4a1-4e38-88be-5eed439f76b5/0/0", "text": "Wilford Woodruff to Willard Richards, Mar.
-
-31, 1840"}, {"type": "cross-ref", "href": "/study/history/topics/england?lang=eng", "text": "England"}, {"type": "cross-ref", "href": "/study/history/topics/early-missionaries?lang=eng", "text": "Early Missionaries"}]}, "note39": {"id": "note39", "marker": "39.", "pid": "137811825", "context": "", "text": " Matthew L. Davis to Mrs. Matthew [Mary] L. Davis, Feb. 6, 1840, Church History Library; Bushman, Rough Stone Rolling, 394–95. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/bf97bc6f-31de-420b-8e45-82c12270814c/0/0", "text": "Matthew L. Davis to Mrs. Matthew [Mary] L. Davis, Feb. 6, 1840"}]}, "note40": {"id": "note40", "marker": "40.", "pid": "137811828", "context": "", "text": " Joseph Smith to Emma Smith, Jan. 20–25, 1840, in JSP, D7:136. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/bb6ae3fd-2825-4089-bcac-6ab524c54f47/0/0", "text": "Joseph Smith to Emma Smith, Jan. 20–25, 1840"}]}, "note41": {"id": "note41", "marker": "41.", "pid": "137811832", "context": "", "text": " Joseph Smith to Emma Smith, Oct. 13, 1832, in JSP, D2:313. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-13-october-1832/3", "text": "Joseph Smith to Emma Smith, Oct. 13, 1832"}]}, "note42": {"id": "note42", "marker": "42.", "pid": "137811832", "context": "", "text": " Hales, Joseph Smith’s Polygamy, 1:201–2. "}, "note43": {"id": "note43", "marker": "43.", "pid": "137811832", "context": "", "text": " Pratt, Autobiography, 329–30; see also Givens and Grow, Parley P. Pratt, 173–74. "}, "note44": {"id": "note44", "marker": "44.", "pid": "137811834", "context": "", "text": " Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839, in JSP, D7:72.
-
-", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/letter-to-hyrum-smith-and-high-council-5-december-1839/2", "text": "Joseph Smith and Elias Higbee to Hyrum Smith and Nauvoo high council, Dec. 5, 1839"}]}, "note45": {"id": "note45", "marker": "45.", "pid": "137811836", "context": "", "text": " John C. Calhoun to Joseph Smith, Dec. 2, 1843, Joseph Smith Collection, Church History Library; Joseph Smith History, 1838–56, volume C-1, 1016. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/letter-from-john-c-calhoun-2-december-1843/1", "text": "John C. Calhoun to Joseph Smith, Dec. 2, 1843"}, {"href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/188", "text": "Joseph Smith History, 1838–56, volume C-1, 1016"}]}, "note46": {"id": "note46", "marker": "46.", "pid": "137811839", "context": "", "text": " Historian’s Office, Joseph Smith History Draft Notes, Mar. 4, 1840; Report of the Senate Committee on the Judiciary, Mar. 4, 1840, in JSP, D7:539–43; McBride, “When Joseph Smith Met Martin Van Buren,” 154–58; Bushman, Rough Stone Rolling, 396–98. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/history-draft-1-january-31-december-1840/5", "text": "Historian’s Office, Joseph Smith History Draft Notes, Mar. 4, 1840"}]}, "note47": {"id": "note47", "marker": "47.", "pid": "137811843", "context": "", "text": " Elias Higbee to Joseph Smith, Mar. 24, 1840, in JSP, D7:232–34. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/letter-from-elias-higbee-24-march-1840/1", "text": "Elias Higbee to Joseph Smith, Mar. 24, 1840"}]}}
+[Elias Higbee to Joseph Smith, Mar. 24, 1840](https://www.josephsmithpapers.org/paper-summary/letter-from-elias-higbee-24-march-1840/1), in *JSP,* D7:232–34.

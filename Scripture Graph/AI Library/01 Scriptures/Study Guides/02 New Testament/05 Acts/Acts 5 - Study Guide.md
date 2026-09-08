@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 5
 slug: acts-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,8 +93,8 @@ The chapter alternates between an internal crisis (deception judged) and an exte
 - [[Valiant Discipleship in the Latter Days (Elder Jörg Klebingat, April 2022)|Valiant Discipleship in the Latter Days]] — Elder Jörg Klebingat, 2022-April *(explicit citation)*
 - [[Tithing Opening the Windows of Heaven (Elder Neil L. Andersen, October 2023)|Tithing: Opening the Windows of Heaven]] — Elder Neil L. Andersen, 2023-October *(explicit citation)*
 - [[Trusting Our Father (Elder David P. Homer, October 2024)|Trusting Our Father]] — Elder David P. Homer, 2024-October *(explicit citation)*
+- [[Lord, I Believe; Help Thou Mine Unbelief (President James E. Faust, October 2003)|Lord, I Believe; Help Thou Mine Unbelief]] — President James E. Faust, 2003-October *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
-- [[The Power of Covenants (Elder D. Todd Christofferson, April 2009)|The Power of Covenants]] — Elder D. Todd Christofferson, 2009-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 7
 slug: john-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,12 +93,12 @@ John 7:16–18 grounds Jesus's teaching in the one who sent him rather than in s
 - **Chapter 4: Obedience, a Sacred Duty** (teachings) *(explicit citation)*
 - **Chapter 17: A Testimony of the Truth** (teachings) *(explicit citation)*
 - **Chapter 5: Walking in the Light of Testimony** (teachings) *(explicit citation)*
+- **Chapter 21: Faith and Testimony** (teachings) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Learning and Teaching the Gospel of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Testimony** (reference-entry) *(explicit citation)*
 - **Bethlehem** (reference-entry) *(explicit citation)*
-- **Brethren of the Lord** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 15
 slug: ps-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chapter 7: Integrity** (teachings) *(explicit citation)*
+- **Chapter 18: We Believe in Being Honest** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 2
 slug: 2tim-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ The resurrection is both a foundational gospel claim and a boundary against erro
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Games** (reference-entry) *(explicit citation)*
 - **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
+- **Chapter 19: Leadership** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

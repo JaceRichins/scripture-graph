@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 6
 slug: 1tim-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

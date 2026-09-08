@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 22
 slug: 3ne-22
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,7 +89,8 @@ The security promised in vv.15-17 is often overread as guaranteeing personal phy
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 15: The Sacred Callings of Fathers and Mothers** (teachings) *(explicit citation)*
+- **Chapter 23: ‘Strengthen Thy Stakes’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

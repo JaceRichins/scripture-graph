@@ -6,7 +6,7 @@ volume: Old Testament
 book: Jeremiah
 chapter: 31
 slug: jer-31
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Is Faith in the Atonement of Jesus Christ Written in Our Hearts (Linda K. Burton, October 2012)|Is Faith in the Atonement of Jesus Christ Written in Our Hearts?]] — Linda K. Burton, 2012-October *(explicit citation)*
+- [[Dear Are the Sheep That Have Wandered (President James E. Faust, April 2003)|Dear Are the Sheep That Have Wandered]] — President James E. Faust, 2003-April *(explicit citation)*
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Keep the Commandments (President Thomas S. Monson, October 2015)|Keep the Commandments]] — President Thomas S. Monson, 2015-October *(explicit citation)*
 - [[Why the Church (Elder D. Todd Christofferson, October 2015)|Why the Church]] — Elder D. Todd Christofferson, 2015-October *(explicit citation)*
@@ -91,7 +92,6 @@ _Not yet developed._
 - [[Abiding in God and Repairing the Breach (Neill F. Marriott, October 2017)|Abiding in God and Repairing the Breach]] — Neill F. Marriott, 2017-October *(explicit citation)*
 - [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
 - [[Preparing for the Lord’s Return (Elder D. Todd Christofferson, April 2019)|Preparing for the Lord’s Return]] — Elder D. Todd Christofferson, 2019-April *(explicit citation)*
-- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

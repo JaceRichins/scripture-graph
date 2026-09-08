@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 11
 slug: deut-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,8 @@ The promises of rain and harvest belong to this address to covenant Israel in it
 - **Agency** (reference-entry) *(explicit citation)*
 - **Ebal, Mount** (reference-entry) *(explicit citation)*
 - **May 11–17. “Beware Lest Thou Forget the Lord”: Deuteronomy 6–8; 15; 18; 29–30; 34** (lesson) *(explicit citation)*
+- **Chapter 3: Freedom of Choice, an Eternal Principle** (teachings) *(explicit citation)*
+- **Chapter 11: Home—the Basis of a Righteous Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

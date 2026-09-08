@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 29
 slug: prov-29
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ Verse 18 links vision with keeping the law. In context, the issue is not simply 
 - **Chapter 16: Revelation and the Living Prophet** (teachings) *(explicit citation)*
 - **Chapter 24: Leading in the Lord’s Way** (teachings) *(explicit citation)*
 - **Chapter 46: Parental Responsibility** (teachings) *(explicit citation)*
+- **Chapter 3: Cultivating an Attitude of Happiness and a Spirit of Optimism** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

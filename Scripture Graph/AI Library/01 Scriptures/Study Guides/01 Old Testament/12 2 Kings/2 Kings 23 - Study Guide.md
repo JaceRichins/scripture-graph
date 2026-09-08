@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 23
 slug: 2kgs-23
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -102,6 +102,7 @@ The chapter also requires ethical candor. Its narrator approves Josiah's covenan
 ## Church History
 <!-- SG:BEGIN history -->
 - **July 13–19. “He Trusted in the Lord God of Israel”: 2 Kings 16–25** (lesson) *(explicit citation)*
+- **Chapter 6: Discovering the Scriptures for Ourselves** (teachings) *(explicit citation)*
 - **Armageddon** (reference-entry) *(explicit citation)*
 - **Assyria and Babylonia** (reference-entry) *(explicit citation)*
 - **Bethel** (reference-entry) *(explicit citation)*

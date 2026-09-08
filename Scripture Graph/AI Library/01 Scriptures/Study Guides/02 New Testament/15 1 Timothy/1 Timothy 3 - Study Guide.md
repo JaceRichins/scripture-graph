@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Timothy
 chapter: 3
 slug: 1tim-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -62,6 +62,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
+- [[The Shepherds of Israel (President Gordon B. Hinckley, October 2003)|The Shepherds of Israel]] — President Gordon B. Hinckley, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -73,6 +74,7 @@ _Not yet developed._
 - **Bishop** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Conscience** (reference-entry) *(explicit citation)*
+- **Chapter 19: Priesthood Leadership in the Church of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

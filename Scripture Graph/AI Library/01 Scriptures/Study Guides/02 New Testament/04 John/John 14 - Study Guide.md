@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 14
 slug: john-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 2: ‘My Peace I Give unto You’** (teachings) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
@@ -110,7 +111,6 @@ _Not yet developed._
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Peace** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
-- **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

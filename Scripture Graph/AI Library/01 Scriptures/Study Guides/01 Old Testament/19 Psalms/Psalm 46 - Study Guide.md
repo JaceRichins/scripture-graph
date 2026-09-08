@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 46
 slug: ps-46
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ _Not yet developed._
 - **Chapter 15: Agency and Accountability** (teachings) *(explicit citation)*
 - **Chapter 7: Faithfulness in Times of Trial: ‘From the Shadows into the Glorious Sunshine’** (teachings) *(explicit citation)*
 - **Chapter 6: To Hear the Voice of the Lord** (teachings) *(explicit citation)*
+- **Chapter 5: Prayer, the Passport to Spiritual Power** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

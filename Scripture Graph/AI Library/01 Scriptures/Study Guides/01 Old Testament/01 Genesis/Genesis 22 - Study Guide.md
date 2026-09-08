@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 22
 slug: gen-22
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -102,13 +102,13 @@ Latter-day Saint and New Testament writers later read Abraham's willingness to o
 - **February 23–March 1. “Is Any Thing Too Hard for the Lord?”: Genesis 18–23** (lesson) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Chapter 19: Our Commitment to God** (teachings) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **The Only True and Living Church** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Abraham** (reference-entry) *(explicit citation)*
 - **Abraham, covenant of** (reference-entry) *(explicit citation)*
 - **Altar** (reference-entry) *(explicit citation)*
-- **Angels** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

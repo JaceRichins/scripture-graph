@@ -6,7 +6,7 @@ volume: New Testament
 book: Philippians
 chapter: 3
 slug: philip-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 - [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
 - [[Lifted Up upon the Cross (Elder Jeffrey R. Holland, October 2022)|Lifted Up upon the Cross]] — Elder Jeffrey R. Holland, 2022-October *(explicit citation)*
 - [[To Learn, to Do, to Be (President Thomas S. Monson, October 2008)|To Learn, to Do, to Be]] — President Thomas S. Monson, 2008-October *(explicit citation)*
+- [[The Atonement All for All (Elder Bruce C. Hafen, April 2004)|The Atonement: All for All]] — Elder Bruce C. Hafen, 2004-April *(explicit citation)*
 - [[Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026)|Jesus Christ—the True Vine]] — Elder Ulisses Soares, 2026-April *(explicit citation)*
 - [[Conference Report, April 1915 (General Conference (full report), April 1915)|Conference Report, April 1915]] — General Conference (full report), 1915-April *(explicit citation)*
 <!-- SG:END conference -->

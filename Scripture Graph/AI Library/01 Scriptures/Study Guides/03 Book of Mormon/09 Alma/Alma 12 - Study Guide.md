@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 12
 slug: alma-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -108,9 +108,9 @@ Alma's discourse makes three central doctrinal contributions. First, revelation 
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
 - **Death** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 24: Safely Home at Last** (teachings) *(explicit citation)*
 - **Mortality** (reference-entry) *(explicit citation)*
 - **Plan of Salvation** (reference-entry) *(explicit citation)*
-- **Salvation** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

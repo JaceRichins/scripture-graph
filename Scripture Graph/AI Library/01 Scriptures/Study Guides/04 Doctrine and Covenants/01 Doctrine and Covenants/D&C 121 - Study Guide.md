@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 121
 slug: dc-121
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ Verses 28 and 32 also contain unresolved language about “one God or many gods�
 <!-- SG:BEGIN conference -->
 - [[Not as the World Giveth (Elder Jeffrey R. Holland, April 2021)|Not as the World Giveth]] — Elder Jeffrey R. Holland, 2021-April *(explicit citation)*
 - [[Only upon the Principles of Righteousness (Elder Larry Y. Wilson, April 2012)|Only upon the Principles of Righteousness]] — Elder Larry Y. Wilson, 2012-April *(explicit citation)*
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 - [[Personal Peace in Challenging Times (Elder Quentin L. Cook, October 2021)|Personal Peace in Challenging Times]] — Elder Quentin L. Cook, 2021-October *(explicit citation)*
 - [[Moving Closer to Him (Elder Craig A. Cardon, October 2006)|Moving Closer to Him]] — Elder Craig A. Cardon, 2006-October *(explicit citation)*
 - [[The Immediate Goodness of God (Elder Kyle S. McKay, April 2019)|The Immediate Goodness of God]] — Elder Kyle S. McKay, 2019-April *(explicit citation)*
@@ -92,7 +93,6 @@ Verses 28 and 32 also contain unresolved language about “one God or many gods�
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[Where Is the Pavilion (President Henry B. Eyring, October 2012)|Where Is the Pavilion?]] — President Henry B. Eyring, 2012-October *(explicit citation)*
 - [[Be Ready (President Henry B. Eyring, October 2009)|Be Ready]] — President Henry B. Eyring, 2009-October *(explicit citation)*
-- [[Opening Our Hearts (Elder Gerald N. Lund, April 2008)|Opening Our Hearts]] — Elder Gerald N. Lund, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

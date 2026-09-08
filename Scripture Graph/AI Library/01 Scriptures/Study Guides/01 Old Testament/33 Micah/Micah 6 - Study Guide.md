@@ -6,7 +6,7 @@ volume: Old Testament
 book: Micah
 chapter: 6
 slug: micah-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ Micah 6:8 states the chapter's ethical center: 'to do justly, and to love mercy,
 <!-- SG:BEGIN history -->
 - **November 30–December 6. “He Delighteth in Mercy”: Micah; Nahum; Habakkuk; Zephaniah** (lesson) *(explicit citation)*
 - **Balaam** (reference-entry) *(explicit citation)*
+- **Chapter 8: We Look to Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Peter
 chapter: 1
 slug: 2pet-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -99,13 +99,13 @@ _Not yet developed._
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
+- **Chapter 24: A Christ-Centered Life** (teachings) *(explicit citation)*
 - **Chapter 10: The Divine Calling of the Prophet Joseph Smith** (teachings) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Eternal Life** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Fall** (reference-entry) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
-- **Election** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

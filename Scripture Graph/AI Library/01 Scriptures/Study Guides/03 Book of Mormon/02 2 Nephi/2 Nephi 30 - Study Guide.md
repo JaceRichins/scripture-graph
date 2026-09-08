@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 30
 slug: 2ne-30
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -102,6 +102,7 @@ The closing vision links righteous rule, peace, knowledge, and the exposure of d
 - **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Chapter 15: Advancing the Work of the Lord** (teachings) *(explicit citation)*
+- **Chapter 21: The Latter-Day Miracle of Missionary Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

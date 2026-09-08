@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 22
 slug: josh-22
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,12 +85,14 @@ Joshua's opening charge presents [[Obedience]] as wholehearted attachment to God
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Our Campfire of Faith (Elder Gerrit W. Gong, October 2018)|Our Campfire of Faith]] — Elder Gerrit W. Gong, 2018-October *(explicit citation)*
+- [[Choosing Charity That Good Part (Bonnie D. Parkin, October 2003)|Choosing Charity: That Good Part]] — Bonnie D. Parkin, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Gad** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 13: Obedience Born of Faith in God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

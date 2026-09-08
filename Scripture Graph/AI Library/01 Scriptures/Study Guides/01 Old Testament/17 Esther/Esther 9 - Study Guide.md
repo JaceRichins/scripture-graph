@@ -6,7 +6,7 @@ volume: Old Testament
 book: Esther
 chapter: 9
 slug: esth-9
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

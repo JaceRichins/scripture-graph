@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 4
 slug: deut-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -103,6 +103,7 @@ The text also places [[Family]] at the center of covenant continuity. Memory is 
 - **Fish** (reference-entry) *(explicit citation)*
 - **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
 - **Chapter 7: Faithfulness in Times of Trial: ‘From the Shadows into the Glorious Sunshine’** (teachings) *(explicit citation)*
+- **Chapter 12: Obedience: Simply Live the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

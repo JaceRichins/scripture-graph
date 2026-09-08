@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 2
 slug: job-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,9 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **August 10–16. “Yet Will I Trust in Him”: Job 1–3; 12–14; 19; 21–24; 38–40; 42** (lesson) *(explicit citation)*
+- **Chapter 23: The Resurrection, an Anchor to the Soul** (teachings) *(explicit citation)*
+- **Chapter 1: The Great Commandment—Love the Lord** (teachings) *(explicit citation)*
+- **Chapter 18: We Believe in Being Honest** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

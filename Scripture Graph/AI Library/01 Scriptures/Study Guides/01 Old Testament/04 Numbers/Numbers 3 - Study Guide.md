@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 3
 slug: num-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

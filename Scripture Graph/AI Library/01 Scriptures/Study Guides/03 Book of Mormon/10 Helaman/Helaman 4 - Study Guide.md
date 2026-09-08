@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 4
 slug: hel-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The narrative does not teach unconditional national protection. It instead prese
 - [[A Living Prophet for the Latter Days (Elder Allen D. Haynie, April 2023)|A Living Prophet for the Latter Days]] — Elder Allen D. Haynie, 2023-April *(explicit citation)*
 - [[Helping Others Recognize the Whisperings of the Spirit (Vicki F. Matsumori, October 2009)|Helping Others Recognize the Whisperings of the Spirit]] — Vicki F. Matsumori, 2009-October *(explicit citation)*
 - [[Look toward Eternity! (Elaine S. Dalton, October 2006)|Look toward Eternity!]] — Elaine S. Dalton, 2006-October *(explicit citation)*
+- [[Receiving a Testimony of the Restored Gospel of Jesus Christ (Elder Robert D. Hales, October 2003)|Receiving a Testimony of the Restored Gospel of Jesus Christ]] — Elder Robert D. Hales, 2003-October *(explicit citation)*
 - [[Be Thou Clean (Elder D. Martin Goury, October 2024)|Be Thou Clean]] — Elder D. Martin Goury, 2024-October *(explicit citation)*
 - [[To Hold Sacred (Elder Paul B. Pieper, April 2012)|To Hold Sacred]] — Elder Paul B. Pieper, 2012-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -95,6 +96,8 @@ The narrative does not teach unconditional national protection. It instead prese
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Chapter 12: Preventing Personal Apostasy** (teachings) *(explicit citation)*
 - **Chapter 17: A Testimony of the Truth** (teachings) *(explicit citation)*
+- **Chapter 12: ‘Seek the Spirit in All You Do’** (teachings) *(explicit citation)*
+- **Chapter 17: Keeping the Law of Chastity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 7
 slug: mosiah-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -80,8 +80,8 @@ Scripture: [[Mosiah 7]] · My notes: [[Mosiah 7 - My Notes]]
 - [[Condescension of God]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Freedom and Liberty]] *(keyword match — unconfirmed)*
-- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Sin]] *(keyword match — unconfirmed)*
+- [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -99,6 +99,7 @@ The report of the slain prophet emphasizes the [[Condescension of God]]: Christ 
 - [[Brothers and Sisters in Christ (Elder Ulisses Soares, October 2023)|Brothers and Sisters in Christ]] — Elder Ulisses Soares, 2023-October *(explicit citation)*
 - [[Seek Him with All Your Heart (Bishop L. Todd Budge, October 2024)|Seek Him with All Your Heart]] — Bishop L. Todd Budge, 2024-October *(explicit citation)*
 - [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[But If Not … (Elder Dennis E. Simmons, April 2004)|But If Not …]] — Elder Dennis E. Simmons, 2004-April *(explicit citation)*
 - [[The Divine Gift of Repentance (Elder D. Todd Christofferson, October 2011)|The Divine Gift of Repentance]] — Elder D. Todd Christofferson, 2011-October *(explicit citation)*
 - [[Turn to the Lord (Elder Donald L. Hallstrom, April 2010)|Turn to the Lord]] — Elder Donald L. Hallstrom, 2010-April *(explicit citation)*
 <!-- SG:END conference -->

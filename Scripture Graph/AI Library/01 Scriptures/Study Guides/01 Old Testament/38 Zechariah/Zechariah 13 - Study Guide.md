@@ -6,7 +6,7 @@ volume: Old Testament
 book: Zechariah
 chapter: 13
 slug: zech-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

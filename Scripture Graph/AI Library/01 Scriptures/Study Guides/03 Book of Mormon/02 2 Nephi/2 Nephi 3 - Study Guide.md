@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 3
 slug: 2ne-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,12 +98,12 @@ Verse 2 preserves an important qualification: security in the promised land is c
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **07 Fellow Servants** (history) *(explicit citation)*
 - **Chapter 47: ‘Praise to the Man’: Latter-day Prophets Bear Witness of the Prophet Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 9: The Book of Mormon—Keystone of Our Religion** (teachings) *(explicit citation)*
+- **Chapter 5: Joseph Smith, Prophet of the Restoration** (teachings) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
 - **Joseph Smith** (reference-entry) *(explicit citation)*
-- **Restoration of the Gospel** (reference-entry) *(explicit citation)*
-- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

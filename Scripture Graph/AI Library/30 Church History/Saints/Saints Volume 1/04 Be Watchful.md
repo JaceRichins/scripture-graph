@@ -11,8 +11,6 @@ doc_id: glib:/history/saints-v1/04-be-watchful
 
 *Saints V1* · [source](https://www.churchofjesuschrist.org/study/history/saints-v1/04-be-watchful?lang=eng)
 
-“Be Watchful,” chapter 4 of Saints: The Story of the Church of Jesus Christ in the Latter Days, Volume 1, The Standard of Truth, 1815–1846 (2018)
-
 Twenty-one-year-old Emma Hale first heard about Joseph Smith when he came to work for Josiah Stowell in the fall of 1825. Josiah had hired the young man and his father to help him find buried treasure. Local legends claimed that a band of explorers had mined a silver deposit and hidden the treasure in the area hundreds of years earlier. Knowing Joseph had a gift for using seer stones, Josiah offered him good wages and a share of the findings if he would help in the search.
 
 Emma’s father, Isaac, supported the venture. When Joseph and his father came to Harmony, Pennsylvania—a village some 150 miles south of Palmyra—Isaac served as a witness when they signed their contracts. He also allowed the workers to live in his home.
@@ -31,11 +29,17 @@ Standing before the local judge, Joseph explained how he had found the stone. Jo
 
 “Do I understand,” said the judge, “that you believe the prisoner can see by the aid of the stone?”
 
+“No,” Josiah insisted. “I positively know it to be true.”
+
 Josiah was a well-respected man in the community, and people accepted his word. In the end, the hearing produced no evidence that Joseph had deceived him, so the judge dismissed the charge.
 
 In September 1826, Joseph returned to the hill for the plates, but Moroni said he was still not ready for them. “Quit the company of the money diggers,” the angel told him. There were wicked men among them. Moroni gave him one more year to align his will with God’s. If he did not, the plates would never be entrusted to him.
 
 The angel also told him to bring someone with him next time. It was the same request he had made at the end of Joseph’s first visit to the hill. But since Alvin was dead, Joseph was confused.
+
+“Who is the right person?” he asked.
+
+“You will know,” Moroni said.
 
 Joseph sought the Lord’s direction through his seer stone. The right person, he learned, was Emma.
 
@@ -57,7 +61,11 @@ The Smiths liked having Joseph and Emma with them. But their son’s divine call
 
 One day, Joseph went to town on an errand. Expecting him back for dinner, his parents were alarmed when he did not return. They waited for hours, unable to sleep. At last Joseph opened the door and threw himself into a chair, exhausted.
 
+“Why are you so late?” his father asked.
+
 “I have had the severest chastisement that I ever had in my life,” Joseph said.
+
+“Who has been taking you to task?” demanded his father.
 
 “It was the angel of the Lord,” Joseph replied. “He says I have been negligent.” The day of his next meeting with Moroni was coming soon. “I must be up and doing,” he said. “I must set myself about the things which God has commanded me to do.”
 
@@ -87,7 +95,11 @@ Joseph followed her. “Mother,” he said, “do not be uneasy.” He handed he
 
 Lucy was elated. Joseph looked as if a great weight had been lifted off his shoulders. But when he joined the others in the house, he made a sad face and ate his breakfast in silence. After he finished, he leaned his head forlornly on his hand. “I am disappointed,” he said to Joseph Knight.
 
+“Well,” the older man said, “I am sorry.”
+
 “I am greatly disappointed,” Joseph repeated, his expression changing to a smile. “It is ten times better than I expected!” He went on to describe the size and weight of the plates and talked excitedly about the Urim and Thummim.
+
+“I can see anything,” he said. “They are marvelous.”
 
 The day after he received the plates, Joseph went to work repairing a well in a nearby town to raise money for a lockbox. That same morning, while on an errand just over the hill from the Smith home, Joseph Sr. overheard a group of men plotting to steal the gold plates. “We will have the plates,” one of them said, “in spite of Joe Smith or all the devils in hell.”
 
@@ -101,6 +113,8 @@ Back home, Joseph Sr. paced back and forth outside the house, glancing every min
 
 “Father,” Joseph said as they rode up, “all is perfectly safe—there is no cause of alarm.”
 
+But it was time to act.
+
 Hurrying to the hill, Joseph found the log where the plates were hidden and carefully wrapped them in a shirt. He then ducked into the woods and headed for home, his eyes alert to danger. The forest concealed him from people on the main road, but it gave thieves plenty of places to hide.
 
 Straining under the weight of the record, Joseph tramped through the woods as fast as he could. A fallen tree blocked the path ahead of him, and as he bounded over it, he felt something hard strike him from behind. Turning around, he saw a man coming at him, wielding a gun like a club.
@@ -110,6 +124,8 @@ Clutching the plates tightly with one arm, Joseph knocked the man to the ground 
 Back at the house, Joseph burst through the door with his heavy bundle tucked beneath one arm. “Father,” he cried, “I have got the plates.”
 
 His fourteen-year-old sister, Katharine, helped him set the bundle on a table as the rest of the family gathered around him. Joseph could tell his father and younger brother William wanted to unwrap the plates, but he stopped them.
+
+“Can we not see them?” Joseph Sr. asked.
 
 “No,” Joseph said. “I was disobedient the first time, but I intend to be faithful this time.”
 
@@ -121,64 +137,70 @@ As he spoke, he realized his hand ached. Sometime during the attacks he had disl
 
 “I must stop talking, Father,” he said suddenly, “and get you to put my thumb back in place.”
 
-Agreement of Josiah Stowell and Others, Nov. 1, 1825, in JSP, D1:345–52.
+Notes
 
-Smith, Biographical Sketches, 91–92; Oliver Cowdery, “Letter VIII,” LDS Messenger and Advocate, Oct. 1835, 2:200–202 (see also later version, in JSP, H1:86–89); Joseph Smith History, 1838–56, volume A-1, 7–8, in JSP, H1:234 (draft 2); Smith, On Mormonism, 10. Topic: Treasure Seeking
+[Agreement of Josiah Stowell and Others, Nov. 1, 1825](https://www.josephsmithpapers.org/paper-summary/appendix-1-agreement-of-josiah-stowell-and-others-1-november-1825/1), in *JSP,* D1:345–52.
 
-Agreement of Josiah Stowell and Others, Nov. 1, 1825, in JSP, D1:345–52.
+Smith, *Biographical Sketches,* 91–92; Oliver Cowdery, “[Letter VIII](https://archive.org/stream/latterdaysaintsm01unse),” *LDS Messenger and Advocate,* Oct. 1835, 2:200–202 (see also later version, in *JSP,* H1:86–89); [Joseph Smith History, 1838–56, volume A-1, 7–8](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/7), in *JSP,* H1:234 (draft 2); Smith, *On Mormonism,* 10. **Topic: [Treasure Seeking](https://www.churchofjesuschrist.org/study/history/topics/treasure-seeking?lang=eng)**
 
-Pratt, Autobiography, 47; Burnett, Recollections and Opinions of an Old Pioneer, 66–67; Woodruff, Journal, July 4, 1843, and Oct. 20, 1855; Emmeline B. Wells, “L.D.S. Women of the Past,” Woman’s Exponent, Feb. 1908, 36:49; Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 289; see also Staker and Ashton, “Growing Up in the Isaac and Elizabeth Hale Home”; and Ashurst-McGee, “Josiah Stowell Jr.–John S. Fullmer Correspondence,” 108–17.
+[Agreement of Josiah Stowell and Others, Nov. 1, 1825](https://www.josephsmithpapers.org/paper-summary/appendix-1-agreement-of-josiah-stowell-and-others-1-november-1825), in *JSP,* D1:345–52.
 
-Baugh, “Joseph Smith’s Athletic Nature,” 137–50; Pratt, Autobiography, 47; Burnett, Recollections and Opinions of an Old Pioneer, 66–67; Recollections of the Pioneers of Lee County, 96; Youngreen, Reflections of Emma, 61, 67, 65, 69; Emmeline B. Wells, “L.D.S. Women of the Past,” Woman’s Exponent, Feb. 1908, 36:49.
+Pratt, *Autobiography, *47; Burnett, *Recollections and Opinions of an Old Pioneer,* 66–67; Woodruff, Journal, July 4, 1843, and Oct. 20, 1855; Emmeline B. Wells, “L.D.S. Women of the Past,” *Woman’s Exponent,* Feb. 1908, 36:49; Joseph Smith III, “Last Testimony of Sister Emma,” *Saints’ Herald,* Oct. 1, 1879, 289; see also Staker and Ashton, “[Growing Up in the Isaac and Elizabeth Hale Home](https://history.churchofjesuschrist.org/content/historic-sites/pennsylvania/priesthood-restoration-site/emmas-susquehanna)”; and Ashurst-McGee, “Josiah Stowell Jr.–John S. Fullmer Correspondence,” 108–17.
 
-Joseph Smith History, 1838–56, volume A-1, 8, in JSP, H1:234 (draft 2); Smith, Biographical Sketches, 92; Bushman, Rough Stone Rolling, 51–53; Staker, “Isaac and Elizabeth Hale in Their Endless Mountain Home,” 104.
+Baugh, “Joseph Smith’s Athletic Nature,” 137–50; Pratt, *Autobiography,* 47; Burnett, *Recollections and Opinions of an Old Pioneer,* 66–67; *Recollections of the Pioneers of Lee County,* 96; Youngreen, *Reflections of Emma,* 61, 67, 65, 69; Emmeline B. Wells, “L.D.S. Women of the Past,” *Woman’s Exponent,* Feb. 1908, 36:49.
 
-Joseph Smith History, 1838–56, volume A-1, 7–8, in JSP, H1:234–36 (draft 2); Knight, Reminiscences, 2; Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 290.
+[Joseph Smith History, 1838–56, volume A-1, 8](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/10), in *JSP,* H1:234 (draft 2); Smith, *Biographical Sketches, *92; Bushman, *Rough Stone Rolling,* 51–53; Staker, “Isaac and Elizabeth Hale in Their Endless Mountain Home,” 104.
 
-William D. Purple, “Joseph Smith, the Originator of Mormonism,” Chenango Union, May 2, 1877, [3]; see also An Act for Apprehending and Punishing Disorderly Persons (Feb. 9, 1788), Laws of the State of New-York (1813), 1:114. Topic: Joseph Smith’s 1826 Trial
+[Joseph Smith History, 1838–56, volume A-1, 7–8](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/7), in *JSP,* H1:234–36 (draft 2); [Knight, Reminiscences, 2](https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0); Joseph Smith III, “Last Testimony of Sister Emma,” *Saints’ Herald,* Oct. 1, 1879, 290.
 
-Lucy Mack Smith, History, 1844–45, 96; see also Knight, Reminiscences, 2.
+William D. Purple, “Joseph Smith, the Originator of Mormonism,” *Chenango Union,* May 2, 1877, [3]; see also An Act for Apprehending and Punishing Disorderly Persons (Feb. 9, 1788), *Laws of the State of New-York* (1813), 1:114. **Topic: [Joseph Smith’s 1826 Trial](https://www.churchofjesuschrist.org/study/history/topics/joseph-smiths-1826-trial?lang=eng)**
 
-See “The Original Prophet,” Fraser’s Magazine, Feb. 1873, 229–30.
+“Mormonism—No. II,” *Tiffany’s Monthly,* July 1859, 169.
 
-Knight, Reminiscences, 2; Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 289.
+[Knight, Reminiscences, 2](https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0).
 
-Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 289; Joseph Smith History, 1838–56, volume A-1, 8, in JSP, H1:236 (draft 2).
+[Lucy Mack Smith, History, 1844–45, 96](https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1845/103); see also [Knight, Reminiscences, 2](https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0).
 
-Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 290; Joseph Lewis and Hiel Lewis, “Mormon History. A New Chapter, about to Be Published,” Amboy Journal, Apr. 30, 1879, 1; see also Oliver Cowdery, “Letter VIII,” in LDS Messenger and Advocate, Oct. 1835, 2:201 (see also later version, in JSP, H1:88).
+See “The Original Prophet,” *Fraser’s Magazine,* Feb. 1873, 229–30.
 
-Joseph Smith History, 1838–56, volume A-1, 8, in JSP, H1:236 (draft 2); Lucy Mack Smith, History, 1844–45, book 4, [11]–[12]; book 5, [1]–[3]. Topic: Sacred Grove and Smith Family Farm
+[Lucy Mack Smith, History, 1845, 97](https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1845/104).
 
-“Mormonism—No. II,” Tiffany’s Monthly, June 1859, 165–66; Lucy Mack Smith, History, 1844–45, book 5, [6].
+[Knight, Reminiscences, 2](https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0); Joseph Smith III, “Last Testimony of Sister Emma,” *Saints’ Herald,* Oct. 1, 1879, 289.
 
-Lucy Mack Smith, History, 1844–45, book 5, [6]–[7]; Knight, Reminiscences, 2.
+Joseph Smith III, “Last Testimony of Sister Emma,” *Saints’ Herald,* Oct. 1, 1879, 289; [Joseph Smith History, 1838–56, volume A-1, 8](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/10), in *JSP,* H1:236 (draft 2).
 
-Knight, Reminiscences, 2–3; Joseph Smith History, 1838–56, volume A-1, 5, in JSP, H1:222 (draft 2); see also Alma 37:23.
+Joseph Smith III, “Last Testimony of Sister Emma,” *Saints’ Herald,* Oct. 1, 1879, 290; Joseph Lewis and Hiel Lewis, “Mormon History. A New Chapter, about to Be Published,” *Amboy Journal,* Apr. 30, 1879, 1; see also Oliver Cowdery, “[Letter VIII](https://archive.org/stream/latterdaysaintsm01unse),” in *LDS Messenger and Advocate,* Oct. 1835, 2:201 (see also later version, in *JSP,* H1:88).
 
-Lucy Mack Smith, History, 1844–45, book 5, [8]–[10]; “Mormonism—No. II,” Tiffany’s Monthly, Aug. 1859, 166; Smith, Biographical Sketches, 103; see also Genesis 25:29–34.
+[Joseph Smith History, 1838–56, volume A-1, 8](https://josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/10), in *JSP,* H1:236 (draft 2); [Lucy Mack Smith, History, 1844–45, book 4, [11]–[12]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/53); [book 5, [1]–[3]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/55). **Topic: [Sacred Grove and Smith Family Farm](https://www.churchofjesuschrist.org/study/history/topics/sacred-grove-and-smith-family-farm?lang=eng)**
 
-Lucy Mack Smith, History, 1844–45, book 5, [10] and adjacent paper fragment.
+“Mormonism—No. II,” *Tiffany’s Monthly,* July 1859, 167–68.
 
-Lucy Mack Smith, History, 1844–45, book 5, [11]. Topic: Gold Plates
+[Lucy Mack Smith, History, 1844–45, book 5, [4]–[6]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/58).
 
-“The Old Soldier’s Testimony,” Saints’ Herald, Oct. 4, 1884, 643–44; Salisbury, “Things the Prophet’s Sister Told Me,” 1945, Church History Library; Ball, “The Prophet’s Sister Testifies She Lifted the B. of M. Plates,” 1954, Church History Library; Smith, William Smith on Mormonism, 11; Lucy Mack Smith, History, 1844–45, book 5, [11]; Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 290.
+[Knight, Reminiscences, 2](https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0).
 
-Lucy Mack Smith, History, 1844–45, book 5, [11]–[12]. Topic: Lucy Mack Smith
+[Lucy Mack Smith, History, 1844–45, book 5, [6]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/60).
 
-Notes {"note1": {"id": "note1", "marker": "1.", "pid": "136361724", "context": "", "text": " Agreement of Josiah Stowell and Others, Nov. 1, 1825, in JSP, D1:345–52. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/appendix-1-agreement-of-josiah-stowell-and-others-1-november-1825/1", "text": "Agreement of Josiah Stowell and Others, Nov. 1, 1825"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "136361724", "context": "", "text": " Smith, Biographical Sketches, 91–92; Oliver Cowdery, “Letter VIII,” LDS Messenger and Advocate, Oct. 1835, 2:200–202 (see also later version, in JSP, H1:86–89); Joseph Smith History, 1838–56, volume A-1, 7–8, in JSP, H1:234 (draft 2); Smith, On Mormonism, 10. Topic: Treasure Seeking ", "referenceUris": [{"href": "https://archive.org/stream/latterdaysaintsm01unse", "text": "Letter VIII"}, {"href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/7", "text": "Joseph Smith History, 1838–56, volume A-1, 7–8"}, {"type": "cross-ref", "href": "/study/history/topics/treasure-seeking?lang=eng", "text": "Treasure Seeking"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "136361725", "context": "", "text": " Agreement of Josiah Stowell and Others, Nov. 1, 1825, in JSP, D1:345–52. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/appendix-1-agreement-of-josiah-stowell-and-others-1-november-1825", "text": "Agreement of Josiah Stowell and Others, Nov. 1, 1825"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "136361726", "context": "", "text": " Pratt, Autobiography, 47; Burnett, Recollections and Opinions of an Old Pioneer, 66–67; Woodruff, Journal, July 4, 1843, and Oct. 20, 1855; Emmeline B. Wells, “L.D.S.
+[Lucy Mack Smith, History, 1845, 105](https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1845/112).
 
-Women of the Past,” Woman’s Exponent, Feb. 1908, 36:49; Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 289; see also Staker and Ashton, “Growing Up in the Isaac and Elizabeth Hale Home”; and Ashurst-McGee, “Josiah Stowell Jr.–John S. Fullmer Correspondence,” 108–17. ", "referenceUris": [{"href": "https://history.churchofjesuschrist.org/content/historic-sites/pennsylvania/priesthood-restoration-site/emmas-susquehanna", "text": "Growing Up in the Isaac and Elizabeth Hale Home"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "136361727", "context": "", "text": " Baugh, “Joseph Smith’s Athletic Nature,” 137–50; Pratt, Autobiography, 47; Burnett, Recollections and Opinions of an Old Pioneer, 66–67; Recollections of the Pioneers of Lee County, 96; Youngreen, Reflections of Emma, 61, 67, 65, 69; Emmeline B. Wells, “L.D.S. Women of the Past,” Woman’s Exponent, Feb. 1908, 36:49. "}, "note6": {"id": "note6", "marker": "6.", "pid": "136361728", "context": "", "text": " Joseph Smith History, 1838–56, volume A-1, 8, in JSP, H1:234 (draft 2); Smith, Biographical Sketches, 92; Bushman, Rough Stone Rolling, 51–53; Staker, “Isaac and Elizabeth Hale in Their Endless Mountain Home,” 104. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/10", "text": "Joseph Smith History, 1838–56, volume A-1, 8"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "136361729", "context": "", "text": " Joseph Smith History, 1838–56, volume A-1, 7–8, in JSP, H1:234–36 (draft 2); Knight, Reminiscences, 2; Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 290.
+[Lucy Mack Smith, History, 1844–45, book 6, [1]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/69).
 
-", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/7", "text": "Joseph Smith History, 1838–56, volume A-1, 7–8"}, {"href": "https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0", "text": "Knight, Reminiscences, 2"}]}, "note8": {"id": "note8", "marker": "8.", "pid": "136361734", "context": "", "text": " William D. Purple, “Joseph Smith, the Originator of Mormonism,” Chenango Union, May 2, 1877, [3]; see also An Act for Apprehending and Punishing Disorderly Persons (Feb. 9, 1788), Laws of the State of New-York (1813), 1:114. Topic: Joseph Smith’s 1826 Trial ", "referenceUris": [{"type": "cross-ref", "href": "/study/history/topics/joseph-smiths-1826-trial?lang=eng", "text": "Joseph Smith’s 1826 Trial"}]}, "note9": {"id": "note9", "marker": "9.", "pid": "136361735", "context": "", "text": " “Mormonism—No. II,” Tiffany’s Monthly, July 1859, 169. "}, "note10": {"id": "note10", "marker": "10.", "pid": "136361739", "context": "", "text": " Knight, Reminiscences, 2. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0", "text": "Knight, Reminiscences, 2"}]}, "note11": {"id": "note11", "marker": "11.", "pid": "136361740", "context": "", "text": " Lucy Mack Smith, History, 1844–45, 96; see also Knight, Reminiscences, 2.
+“Mormonism—No. II,” *Tiffany’s Monthly,* June 1859, 165–66; [Lucy Mack Smith, History, 1844–45, book 5, [6]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/60).
 
-", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1845/103", "text": "Lucy Mack Smith, History, 1844–45, 96"}, {"href": "https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0", "text": "Knight, Reminiscences, 2"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "136361741", "context": "", "text": " See “The Original Prophet,” Fraser’s Magazine, Feb. 1873, 229–30. "}, "note13": {"id": "note13", "marker": "13.", "pid": "136361742", "context": "", "text": " Lucy Mack Smith, History, 1845, 97. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1845/104", "text": "Lucy Mack Smith, History, 1845, 97"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "136361743", "context": "", "text": " Knight, Reminiscences, 2; Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 289. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0", "text": "Knight, Reminiscences, 2"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "136361744", "context": "", "text": " Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 289; Joseph Smith History, 1838–56, volume A-1, 8, in JSP, H1:236 (draft 2). ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/10", "text": "Joseph Smith History, 1838–56, volume A-1, 8"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "136361745", "context": "", "text": " Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 290; Joseph Lewis and Hiel Lewis, “Mormon History.
+[Lucy Mack Smith, History, 1844–45, book 5, [6]–[7]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/60); [Knight, Reminiscences, 2](https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0).
 
-A New Chapter, about to Be Published,” Amboy Journal, Apr. 30, 1879, 1; see also Oliver Cowdery, “Letter VIII,” in LDS Messenger and Advocate, Oct. 1835, 2:201 (see also later version, in JSP, H1:88). ", "referenceUris": [{"href": "https://archive.org/stream/latterdaysaintsm01unse", "text": "Letter VIII"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "136361746", "context": "", "text": " Joseph Smith History, 1838–56, volume A-1, 8, in JSP, H1:236 (draft 2); Lucy Mack Smith, History, 1844–45, book 4, [11]–[12]; book 5, [1]–[3]. Topic: Sacred Grove and Smith Family Farm ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/10", "text": "Joseph Smith History, 1838–56, volume A-1, 8"}, {"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/53", "text": "Lucy Mack Smith, History, 1844–45, book 4, [11]–[12]"}, {"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/55", "text": "book 5, [1]–[3]"}, {"type": "cross-ref", "href": "/study/history/topics/sacred-grove-and-smith-family-farm?lang=eng", "text": "Sacred Grove and Smith Family Farm"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "136361747", "context": "", "text": " “Mormonism—No. II,” Tiffany’s Monthly, July 1859, 167–68. "}, "note19": {"id": "note19", "marker": "19.", "pid": "136361752", "context": "", "text": " Lucy Mack Smith, History, 1844–45, book 5, [4]–[6]. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/58", "text": "Lucy Mack Smith, History, 1844–45, book 5, [4]–[6]"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "136361754", "context": "", "text": " Knight, Reminiscences, 2.
+[Lucy Mack Smith, History, 1844–45, book 5, [7]–[8]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/61).
 
-", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0", "text": "Knight, Reminiscences, 2"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "136361757", "context": "", "text": " Lucy Mack Smith, History, 1844–45, book 5, [6]. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/60", "text": "Lucy Mack Smith, History, 1844–45, book 5, [6]"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "136361758", "context": "", "text": " Lucy Mack Smith, History, 1845, 105. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1845/112", "text": "Lucy Mack Smith, History, 1845, 105"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "136361760", "context": "", "text": " Lucy Mack Smith, History, 1844–45, book 6, [1]. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/69", "text": "Lucy Mack Smith, History, 1844–45, book 6, [1]"}]}, "note24": {"id": "note24", "marker": "24.", "pid": "136361761", "context": "", "text": " “Mormonism—No. II,” Tiffany’s Monthly, June 1859, 165–66; Lucy Mack Smith, History, 1844–45, book 5, [6]. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/60", "text": "Lucy Mack Smith, History, 1844–45, book 5, [6]"}]}, "note25": {"id": "note25", "marker": "25.", "pid": "136361762", "context": "", "text": " Lucy Mack Smith, History, 1844–45, book 5, [6]–[7]; Knight, Reminiscences, 2.
+[Knight, Reminiscences, 2–3](https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0); [Joseph Smith History, 1838–56, volume A-1, 5](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/5), in *JSP,* H1:222 (draft 2); see also [[Alma 37#^alma-37-23|Alma 37:23]].
 
-", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/60", "text": "Lucy Mack Smith, History, 1844–45, book 5, [6]–[7]"}, {"href": "https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0", "text": "Knight, Reminiscences, 2"}]}, "note26": {"id": "note26", "marker": "26.", "pid": "136361764", "context": "", "text": " Lucy Mack Smith, History, 1844–45, book 5, [7]–[8]. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/61", "text": "Lucy Mack Smith, History, 1844–45, book 5, [7]–[8]"}]}, "note27": {"id": "note27", "marker": "27.", "pid": "136361768", "context": "", "text": " Knight, Reminiscences, 2–3; Joseph Smith History, 1838–56, volume A-1, 5, in JSP, H1:222 (draft 2); see also Alma 37:23. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/37b7b91c-4148-45d6-8f32-df4acf06fe99/0/0", "text": "Knight, Reminiscences, 2–3"}, {"href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/5", "text": "Joseph Smith History, 1838–56, volume A-1, 5"}, {"type": "scripture-ref", "href": "/study/scriptures/bofm/alma/37?lang=eng&id=p23#p23", "text": "Alma 37:23"}]}, "note28": {"id": "note28", "marker": "28.", "pid": "136361771", "context": "", "text": " Lucy Mack Smith, History, 1844–45, book 5, [8]–[10]; “Mormonism—No. II,” Tiffany’s Monthly, Aug. 1859, 166; Smith, Biographical Sketches, 103; see also Genesis 25:29–34.
+[Lucy Mack Smith, History, 1844–45, book 5, [8]–[10]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/62); “Mormonism—No. II,” *Tiffany’s Monthly,* Aug. 1859, 166; Smith, *Biographical Sketches,* 103; see also [[Genesis 25#^gen-25-29|Genesis 25:29–34]].
 
-", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/62", "text": "Lucy Mack Smith, History, 1844–45, book 5, [8]–[10]"}, {"type": "scripture-ref", "href": "/study/scriptures/ot/gen/25?lang=eng&id=p29-p34#p29", "text": "Genesis 25:29–34"}]}, "note29": {"id": "note29", "marker": "29.", "pid": "136361774", "context": "", "text": " Lucy Mack Smith, History, 1844–45, book 5, [10] and adjacent paper fragment. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/64", "text": "Lucy Mack Smith, History, 1844–45, book 5, [10]"}, {"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/65", "text": "adjacent paper fragment"}]}, "note30": {"id": "note30", "marker": "30.", "pid": "136361776", "context": "", "text": " Lucy Mack Smith, History, 1844–45, book 5, [11]. Topic: Gold Plates ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/67", "text": "Lucy Mack Smith, History, 1844–45, book 5, [11]"}, {"type": "cross-ref", "href": "/study/history/topics/gold-plates?lang=eng", "text": "Gold Plates"}]}, "note31": {"id": "note31", "marker": "31.", "pid": "136361778", "context": "", "text": " Lucy Mack Smith, History, 1844–45, book 5, [11]. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/67", "text": "Lucy Mack Smith, History, 1844–45, book 5, [11]"}]}, "note32": {"id": "note32", "marker": "32.", "pid": "136361783", "context": "", "text": " “The Old Soldier’s Testimony,” Saints’ Herald, Oct.
+[Lucy Mack Smith, History, 1844–45, book 5, [10]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/64) and [adjacent paper fragment](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/65).
 
-4, 1884, 643–44; Salisbury, “Things the Prophet’s Sister Told Me,” 1945, Church History Library; Ball, “The Prophet’s Sister Testifies She Lifted the B. of M. Plates,” 1954, Church History Library; Smith, William Smith on Mormonism, 11; Lucy Mack Smith, History, 1844–45, book 5, [11]; Joseph Smith III, “Last Testimony of Sister Emma,” Saints’ Herald, Oct. 1, 1879, 290. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/67", "text": "Lucy Mack Smith, History, 1844–45, book 5, [11]"}]}, "note33": {"id": "note33", "marker": "33.", "pid": "136361786", "context": "", "text": " Lucy Mack Smith, History, 1844–45, book 5, [11]–[12]. Topic: Lucy Mack Smith ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/67", "text": "Lucy Mack Smith, History, 1844–45, book 5, [11]–[12]"}, {"type": "cross-ref", "href": "/study/history/topics/lucy-mack-smith?lang=eng", "text": "Lucy Mack Smith"}]}}
+[Lucy Mack Smith, History, 1844–45, book 5, [11]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/67). **Topic: [Gold Plates](https://www.churchofjesuschrist.org/study/history/topics/gold-plates?lang=eng)**
+
+[Lucy Mack Smith, History, 1844–45, book 5, [11]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/67).
+
+“The Old Soldier’s Testimony,” *Saints’ Herald,* Oct. 4, 1884, 643–44; Salisbury, “Things the Prophet’s Sister Told Me,” 1945, Church History Library; Ball, “The Prophet’s Sister Testifies She Lifted the B. of M. Plates,” 1954, Church History Library; Smith, *William Smith on Mormonism, *11; [Lucy Mack Smith, History, 1844–45, book 5, [11]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/67); Joseph Smith III, “Last Testimony of Sister Emma,” *Saints’ Herald,* Oct. 1, 1879, 290.
+
+[Lucy Mack Smith, History, 1844–45, book 5, [11]–[12]](https://josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/67). **Topic: [Lucy Mack Smith](https://www.churchofjesuschrist.org/study/history/topics/lucy-mack-smith?lang=eng)**

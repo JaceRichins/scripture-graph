@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 56
 slug: alma-56
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -103,6 +103,11 @@ The chapter treats fidelity to [[Covenants]] as consequential even during an eme
 - **Chapter 16: Marriage and Parenthood: Preparing Our Families for Eternal Life** (teachings) *(explicit citation)*
 - **Chapter 22: Bringing Up Children in Light and Truth** (teachings) *(explicit citation)*
 - **Chapter 16: The Noble Calling of Parents** (teachings) *(explicit citation)*
+- **Chapter 20: The Women of the Church** (teachings) *(explicit citation)*
+- **Chapter 15: The Sacred Callings of Fathers and Mothers** (teachings) *(explicit citation)*
+- **Chapter 17: Preserve and Protect the Family** (teachings) *(explicit citation)*
+- **Chapter 5: Daughters of God** (teachings) *(explicit citation)*
+- **Chapter 11: Home—the Basis of a Righteous Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

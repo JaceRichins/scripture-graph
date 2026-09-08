@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 13
 slug: job-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -58,6 +58,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Where Do I Make My Stand (President James E. Faust, October 2004)|Where Do I Make My Stand?]] — President James E. Faust, 2004-October *(explicit citation)*
 - [[Our Relationship with God (Elder D. Todd Christofferson, April 2022)|Our Relationship with God]] — Elder D. Todd Christofferson, 2022-April *(explicit citation)*
 - [[Waiting upon the Lord Thy Will Be Done (Elder Robert D. Hales, October 2011)|Waiting upon the Lord: Thy Will Be Done]] — Elder Robert D. Hales, 2011-October *(explicit citation)*
 - [[The Blessing of Scripture (Elder D. Todd Christofferson, April 2010)|The Blessing of Scripture]] — Elder D. Todd Christofferson, 2010-April *(explicit citation)*

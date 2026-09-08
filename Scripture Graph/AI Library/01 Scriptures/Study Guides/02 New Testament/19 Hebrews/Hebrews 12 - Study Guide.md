@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 12
 slug: heb-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -104,12 +104,12 @@ Verses 22-24 portray a heavenly assembly that includes angels, the church of the
 - **Children of God** (reference-entry) *(explicit citation)*
 - **God the Father** (reference-entry) *(explicit citation)*
 - **Chapter 11: Choosing to Walk in Obedience** (teachings) *(explicit citation)*
+- **Chapter 22: Peace Be unto Thy Soul** (teachings) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **Creation** (reference-entry) *(explicit citation)*
 - **Godhead** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Reverence** (reference-entry) *(explicit citation)*
-- **History of the Church, Volume 5** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

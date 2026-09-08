@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 2
 slug: gen-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -105,8 +105,8 @@ The chapter treats aloneness as “not good” and presents the woman as the cor
 - **Sex Education and Behavior** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **The Seer 1853-06 (Vol. 1 No. 6)** (history, 1853-06) *(explicit citation)*
+- **Chapter 14: Marriage and Family—Ordained of God** (teachings) *(explicit citation)*
 - **Marriage** (reference-entry) *(explicit citation)*
-- **Sabbath Day** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

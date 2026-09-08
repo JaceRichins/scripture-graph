@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 17
 slug: dc-17
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ Verse 8 joins [[Obedience]] and [[Grace]] without making them identical: obedien
 <!-- SG:BEGIN conference -->
 - [[Look to the Book, Look to the Lord (Elder Gary E. Stevenson, October 2016)|Look to the Book, Look to the Lord]] — Elder Gary E. Stevenson, 2016-October *(explicit citation)*
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
+- [[An Enduring Testimony of the Mission of the Prophet Joseph (Elder Henry B. Eyring, October 2003)|An Enduring Testimony of the Mission of the Prophet Joseph]] — Elder Henry B. Eyring, 2003-October *(explicit citation)*
 - [[Watching with All Perseverance (Elder David A. Bednar, April 2010)|Watching with All Perseverance]] — Elder David A. Bednar, 2010-April *(explicit citation)*
 - [[That We May Always Have His Spirit to Be with Us (Elder David A. Bednar, April 2006)|That We May Always Have His Spirit to Be with Us]] — Elder David A. Bednar, 2006-April *(explicit citation)*
 <!-- SG:END conference -->

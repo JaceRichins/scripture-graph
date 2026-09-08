@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 16
 slug: mosiah-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -66,8 +66,8 @@ _Not yet developed._
 <!-- SG:BEGIN topics -->
 - [[Law of Moses]]
 - [[Final Judgment]]
-- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Resurrection]] *(keyword match — unconfirmed)*
+- [[Satan and Temptation]] *(keyword match — unconfirmed)*
 - [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 - [[Repentance]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->

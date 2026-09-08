@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 29
 slug: 2ne-29
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,9 @@ The chapter is a key textual basis within Latter-day Saint teaching for continui
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **November 2–8. “A New Spirit Will I Put within You”: Ezekiel 1–3; 33–34; 36–37; 47** (lesson) *(explicit citation)*
 - **May 12–18: “Seek Ye Earnestly the Best Gifts”: Doctrine and Covenants 46–48** (lesson) *(explicit citation)*
+- **Chapter 9: The Book of Mormon—Keystone of Our Religion** (teachings) *(explicit citation)*
+- **Chapter 8: Taking the Gospel to All the World** (teachings) *(explicit citation)*
+- **Chapter 16: The Power of the Book of Mormon** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

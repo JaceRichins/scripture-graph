@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 47
 slug: alma-47
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

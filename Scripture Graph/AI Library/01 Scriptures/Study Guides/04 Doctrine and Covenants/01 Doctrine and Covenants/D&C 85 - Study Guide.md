@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 85
 slug: dc-85
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -72,7 +72,7 @@ The chapter presents [[Consecration]] as an ordered communal practice involving 
 - [[Opening Our Hearts (Elder Gerald N. Lund, April 2008)|Opening Our Hearts]] — Elder Gerald N. Lund, 2008-April *(explicit citation)*
 - [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
-- [[A Framework for Personal Revelation (Elder Dale G. Renlund, October 2022)|A Framework for Personal Revelation]] — Elder Dale G. Renlund, 2022-October *(explicit citation)*
+- [[Did You Get the Right Message (President James E. Faust, April 2004)|Did You Get the Right Message?]] — President James E. Faust, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -84,6 +84,7 @@ The chapter presents [[Consecration]] as an ordered communal practice involving 
 - **Revelation** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
+- **The Life and Ministry of Howard W. Hunter** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

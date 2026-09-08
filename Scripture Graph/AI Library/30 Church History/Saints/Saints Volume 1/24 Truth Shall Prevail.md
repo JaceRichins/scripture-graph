@@ -11,8 +11,6 @@ doc_id: glib:/history/saints-v1/24-truth-shall-prevail
 
 *Saints V1* · [source](https://www.churchofjesuschrist.org/study/history/saints-v1/24-truth-shall-prevail?lang=eng)
 
-“Truth Shall Prevail,” chapter 24 of Saints: The Story of the Church of Jesus Christ in the Latter Days, Volume 1, The Standard of Truth, 1815–1846 (2018)
-
 Late in the spring of 1837, apostles Thomas Marsh, David Patten, and William Smith left their homes in Missouri and set out for Kirtland. Many of the Saints in Zion were now settled along a stream called Shoal Creek, about fifty miles northeast of Independence. There they had founded a town called Far West, using Joseph’s plan for the city of Zion as their guide to lay out the settlement. Hoping to find a peaceful solution to the Saints’ ongoing problems with their neighbors, the Missouri legislature had organized Caldwell County, which encompassed the land around Far West and Shoal Creek, for the settlement of the Saints.
 
 Thomas was anxious to reunite with the rest of the Twelve, especially when he learned of Parley’s desire to take the gospel to England. Preaching the gospel overseas was an important step in the Lord’s work, and as president of the quorum, Thomas wanted to assemble the apostles and plan the mission together.
@@ -28,6 +26,8 @@ Heber was stunned. He was a simple potter with little education. England was the
 And what about his family? Heber could hardly bear the thought of leaving Vilate and their children to preach overseas. He was sure other apostles were more qualified to lead the mission. Thomas Marsh was the senior apostle and had been among the first to read the Book of Mormon and join the church. Why would the Lord not send him?
 
 Or what about Brigham? Heber asked Joseph if Brigham could at least go with him to England. Brigham had more seniority in the quorum because he was older than Heber.
+
+No, Joseph said. He wanted Brigham to stay in Kirtland.
 
 Reluctantly, Heber accepted the call and prepared to leave. He prayed at the temple daily, asking for the Lord’s protection and power. Soon word of his call spread through Kirtland, and Brigham and others eagerly supported his decision to go. “Do as the prophet has told you,” they told Heber, “and be blessed with power to do a glorious work.”
 
@@ -48,6 +48,8 @@ Caroline knew many of their friends were in the same situation. Occasionally, so
 As time passed, Caroline watched Parley Pratt, the Boyntons, and other close friends blame the church for their hardships. She and Jonathan had not lost money to the Safety Society, but they had not been immune to the crisis either. Like many others, they were barely getting by, yet neither she nor Jonathan felt like leaving the church or forsaking the prophet.
 
 Jonathan, in fact, worked on the Smiths’ house until he was the only one left on the crew. When he and Caroline ran out of food, he took a day off work to find provisions for his family, but he came home empty-handed.
+
+“Now what shall we do?” Caroline asked.
 
 Jonathan knew that despite Joseph and Emma’s own financial struggles, they sometimes had food to give to those who had less than they did. “In the morning,” he said, “I will go and tell Sister Emma how it is with us.”
 
@@ -119,17 +121,27 @@ The Lord also helped Thomas know how to repair his fractured quorum. “Be thou 
 
 He urged Thomas and the Twelve to lay aside their differences with Joseph and focus on their mission. “See to it that ye trouble not yourselves concerning the affairs of my church in this place,” He continued, “but purify your hearts before me; and then go ye into the world, and preach my gospel unto every creature.”
 
-Plewe, Mapping Mormonism, 48–49; “Joseph Smith Documents from October 1835 through January 1838,” in JSP, D5:xxvi–xxvii; “Far West, Missouri,” Geographical Entry, Joseph Smith Papers website, josephsmithpapers.org. Topic: Zion/New Jerusalem
+“Behold,” the Lord said, “how great is your calling.”
 
-Thomas B. Marsh and David W. Patten to Parley P. Pratt, May 10, 1837, in Joseph Smith Letterbook 2, 62–63.
+Notes
 
-Allen and others, Men with a Mission, 22. Topic: Kirtland Safety Society
+Plewe, *Mapping Mormonism,* 48–49; “Joseph Smith Documents from October 1835 through January 1838,” in *JSP,* D5:xxvi–xxvii; “[Far West, Missouri](https://www.josephsmithpapers.org/place/far-west-missouri),” Geographical Entry, Joseph Smith Papers website, josephsmithpapers.org. **Topic: [Zion/New Jerusalem](https://www.churchofjesuschrist.org/study/history/topics/zion-new-jerusalem?lang=eng)**
 
-Kimball, “History,” 54; Whitney, Life of Heber C. Kimball, 116. Topics: England; Early Missionaries
+[Thomas B. Marsh and David W. Patten to Parley P. Pratt, May 10, 1837](https://www.josephsmithpapers.org/paper-summary/letterbook-2/67), in Joseph Smith Letterbook 2, 62–63.
 
-Tullidge, Women of Mormondom, 113–15; Whitney, Life of Heber C. Kimball, 120–22.
+Allen and others, *Men with a Mission,* 22. **Topic: [Kirtland Safety Society](https://www.churchofjesuschrist.org/study/history/topics/kirtland-safety-society?lang=eng)**
 
-Jonathan Crosby, Autobiography, 16; Joseph Smith and Others, Mortgage to Mead, Stafford & Co., July 11, 1837, in JSP, D5:404–10.
+Kimball, “History,” 54; Whitney, *Life of Heber C. Kimball,* 116. **Topics: [England](https://www.churchofjesuschrist.org/study/history/topics/england?lang=eng); [Early Missionaries](https://www.churchofjesuschrist.org/study/history/topics/early-missionaries?lang=eng)**
+
+Kimball, “History,” 54.
+
+Kimball, “History,” 55.
+
+Kimball, “History,” 55.
+
+Tullidge, *Women of Mormondom,* 113–15; Whitney, *Life of Heber C. Kimball,* 120–22.
+
+Jonathan Crosby, Autobiography, 16; [Joseph Smith and Others, Mortgage to Mead, Stafford & Co., July 11, 1837](https://www.josephsmithpapers.org/paper-summary/mortgage-to-mead-stafford-co-11-july-1837/1), in *JSP,* D5:404–10.
 
 Jonathan Crosby, Autobiography, 16; Caroline Barnes Crosby, Reminiscences, [39]–[41].
 
@@ -137,56 +149,42 @@ Jonathan Crosby, Autobiography, 16–17. The original source has “provision”
 
 Jonathan Crosby, Autobiography, 17; Caroline Barnes Crosby, Reminiscences, [41].
 
-Mary Fielding to Mercy Fielding, circa June 1837, Mary Fielding Smith Collection, Church History Library; see also Whitney, Life of Heber C. Kimball, 112–14. Topic: Dissent in the Church
+[Mary Fielding to Mercy Fielding, circa June 1837](https://catalog.churchofjesuschrist.org/assets/40452f44-8728-49ad-815c-6b55b0a90fff/0/8), Mary Fielding Smith Collection, Church History Library; see also Whitney, *Life of Heber C. Kimball,* 112–14. **Topic: [Dissent in the Church](https://www.churchofjesuschrist.org/study/history/topics/dissent-in-the-church?lang=eng)**
 
-Mary Fielding to Mercy Fielding, circa June 1837, Mary Fielding Smith Collection, Church History Library.
+[Mary Fielding to Mercy Fielding, circa June 1837](https://catalog.churchofjesuschrist.org/assets/40452f44-8728-49ad-815c-6b55b0a90fff/0/8), Mary Fielding Smith Collection, Church History Library.
 
-John Taylor, “History of John Taylor by Himself,” 15, in Historian’s Office, Histories of the Twelve, Church History Library; see also Roberts, Life of John Taylor, 40; and Parley P. Pratt to Joseph Smith, May 23, 1837, in JSP, D5:386–91.
+John Taylor, “[History of John Taylor by Himself](https://catalog.churchofjesuschrist.org/assets/d4b8280a-fdc2-46cc-a054-f95dbb45cd5d/0/15),” 15, in Historian’s Office, Histories of the Twelve, Church History Library; see also Roberts, *Life of John Taylor,* 40; and [Parley P. Pratt to Joseph Smith, May 23, 1837](https://www.josephsmithpapers.org/paper-summary/letter-from-parley-p-pratt-23-may-1837/1), in *JSP,* D5:386–91.
 
-Joseph Smith History, 1838–56, volume B-1, 762; Mary Fielding to Mercy Fielding, circa June 1837, Mary Fielding Smith Collection, Church History Library.
+[Joseph Smith History, 1838–56, volume B-1, 762](https://josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/216); [Mary Fielding to Mercy Fielding, circa June 1837](https://catalog.churchofjesuschrist.org/assets/40452f44-8728-49ad-815c-6b55b0a90fff/0/8), Mary Fielding Smith Collection, Church History Library.
 
-Joseph Smith History, 1838–56, volume B-1, 763; Warren Parrish, Letter to the Editor, Painesville Republican, Feb. 15, 1838, [3].
+[Joseph Smith History, 1838–56, volume B-1, 763](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/217); Warren Parrish, Letter to the Editor, *Painesville Republican,* Feb. 15, 1838, [3].
 
-Mary Fielding to Mercy Fielding, circa June 1837, Mary Fielding Smith Collection, Church History Library.
+[Mary Fielding to Mercy Fielding, circa June 1837](https://catalog.churchofjesuschrist.org/assets/40452f44-8728-49ad-815c-6b55b0a90fff/0/9), Mary Fielding Smith Collection, Church History Library.
 
-Fielding, Journal, 17; Kimball, “History,” 60, 62; Watt, Mormon Passage of George D. Watt, 17; see also Ostler, “Photo Essay of Church History Sites in Liverpool and the Ribble Valley,” 61–78. Topic: England
+[Fielding, Journal, 17](https://catalog.churchofjesuschrist.org/assets/48db37c9-7339-4c4b-9f7f-d0a7eda60ee6/0/17); Kimball, “History,” 60, 62; Watt, *Mormon Passage of George D. Watt,* 17; see also Ostler, “Photo Essay of Church History Sites in Liverpool and the Ribble Valley,” 61–78. **Topic: [England](https://www.churchofjesuschrist.org/study/history/topics/england?lang=eng)**
 
-Whitney, Life of Heber C. Kimball, 133; Allen and others, Men with a Mission, 25–29.
+Whitney, *Life of Heber C. Kimball,* 133; Allen and others, *Men with a Mission,* 25–29.
 
-Fielding, Journal, 17; “Mission to England,” LDS Millennial Star, Apr. 1841, 12:290; Kimball, “History,” 60; Whitney, Life of Heber C. Kimball, 134.
+[Fielding, Journal, 17](https://catalog.churchofjesuschrist.org/assets/48db37c9-7339-4c4b-9f7f-d0a7eda60ee6/0/17); “[Mission to England](https://catalog.churchofjesuschrist.org/assets/3ea0a9b4-c55c-4720-a30f-c64aec11cdd2/0/1),” *LDS Millennial Star,* Apr. 1841, 12:290; Kimball, “History,” 60; Whitney, *Life of Heber C. Kimball,* 134.
 
-Joseph Fielding to Mary Fielding and Mercy Fielding Thompson, Oct. 2, 1837, Mary Fielding Smith Collection, Church History Library; “Mission to England,” LDS Millennial Star, Apr. 1841, 12:290; Fielding, Journal, 17–18.
+[Joseph Fielding to Mary Fielding and Mercy Fielding Thompson, Oct. 2, 1837](https://catalog.churchofjesuschrist.org/assets/7f73d99d-781b-49a7-af4f-f15279015230/0/5), Mary Fielding Smith Collection, Church History Library; “[Mission to England](https://catalog.churchofjesuschrist.org/assets/3ea0a9b4-c55c-4720-a30f-c64aec11cdd2/0/1),” *LDS Millennial Star,* Apr. 1841, 12:290; [Fielding, Journal, 17–18](https://catalog.churchofjesuschrist.org/assets/48db37c9-7339-4c4b-9f7f-d0a7eda60ee6/0/17).
 
-Givens and Grow, Parley P. Pratt, 101; Kirtland Safety Society, Stock Ledger, 47.
+Givens and Grow, *Parley P. Pratt,* 101; [Kirtland Safety Society, Stock Ledger, 47](https://www.josephsmithpapers.org/paper-summary/kirtland-safety-society-bank-stock-ledger-18-october-1836-12-june-1837/54).
 
-“History of Thomas Baldwin Marsh,” 5, in Historian’s Office, Histories of the Twelve, Church History Library.
+“[History of Thomas Baldwin Marsh](https://catalog.churchofjesuschrist.org/assets/94f77937-aa7b-4bda-9d9e-dfe550581397/0/14),” 5, in Historian’s Office, Histories of the Twelve, Church History Library.
 
-Parley P. Pratt, “To the Public,” Elders’ Journal, Aug. 1838, 50–51.
+Parley P. Pratt, “[To the Public](https://www.josephsmithpapers.org/paper-summary/elders-journal-august-1838/2?highlight=elders%27%20journal),” *Elders’ Journal,* Aug. 1838, 50–51.
 
-Pratt, Autobiography, 183–84; John Taylor, “History of John Taylor by Himself,” 15, in Historian’s Office, Histories of the Twelve, Church History Library; see also Givens and Grow, Parley P. Pratt, 102.
+Pratt, *Autobiography,* 183–84; John Taylor, “[History of John Taylor by Himself](https://catalog.churchofjesuschrist.org/assets/d4b8280a-fdc2-46cc-a054-f95dbb45cd5d/0/15),” 15, in Historian’s Office, Histories of the Twelve, Church History Library; see also Givens and Grow, *Parley P. Pratt,* 102.
 
-“History of Thomas Baldwin Marsh,” 5, in Historian’s Office, Histories of the Twelve, Church History Library; Woodruff, Journal, June 25, 1857; see also Historical Introduction to Revelation, July 23, 1837 [D&C 112], in JSP, D5:410–12.
+“[History of Thomas Baldwin Marsh](https://catalog.churchofjesuschrist.org/assets/94f77937-aa7b-4bda-9d9e-dfe550581397/0/14),” 5, in Historian’s Office, Histories of the Twelve, Church History Library; Woodruff, Journal, June 25, 1857; see also Historical Introduction to Revelation, July 23, 1837 [[[D&C 112|D&C 112]]], in *JSP,* D5:410–12.
 
-See Cook, “I Have Sinned against Heaven,” 392–93; and Historical Introduction to Revelation, July 23, 1837 [D&C 112], in JSP, D5:410–11.
+See Cook, “I Have Sinned against Heaven,” 392–93; and Historical Introduction to Revelation, July 23, 1837 [[[D&C 112|D&C 112]]], in *JSP,* D5:410–11.
 
-See Doctrine and Covenants 112:1–2 (Revelation, July 23, 1837, at josephsmithpapers.org).
+See [[D&C 112#^dc-112-1|Doctrine and Covenants 112:1–2]] ([Revelation, July 23, 1837](https://www.josephsmithpapers.org/paper-summary/revelation-23-july-1837-dc-112/1), at josephsmithpapers.org).
 
-Historical Introduction to Revelation, July 23, 1837 [D&C 112], in JSP, D5:410–14.
+Historical Introduction to Revelation, July 23, 1837 [[[D&C 112|D&C 112]]], in *JSP,* D5:410–14.
 
-Doctrine and Covenants 112 (Revelation, July 23, 1837, at josephsmithpapers.org); see also Darowski, “The Faith and Fall of Thomas Marsh,” 54–60.
+**Topics: [First Presidency](https://www.churchofjesuschrist.org/study/history/topics/first-presidency?lang=eng); [Quorum of the Twelve](https://www.churchofjesuschrist.org/study/history/topics/quorum-of-the-twelve?lang=eng)**
 
-Notes {"note1": {"id": "note1", "marker": "1.", "pid": "137811077", "context": "", "text": " Plewe, Mapping Mormonism, 48–49; “Joseph Smith Documents from October 1835 through January 1838,” in JSP, D5:xxvi–xxvii; “Far West, Missouri,” Geographical Entry, Joseph Smith Papers website, josephsmithpapers.org. Topic: Zion/New Jerusalem ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/place/far-west-missouri", "text": "Far West, Missouri"}, {"type": "cross-ref", "href": "/study/history/topics/zion-new-jerusalem?lang=eng", "text": "Zion/New Jerusalem"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "137811081", "context": "", "text": " Thomas B. Marsh and David W. Patten to Parley P. Pratt, May 10, 1837, in Joseph Smith Letterbook 2, 62–63. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/letterbook-2/67", "text": "Thomas B. Marsh and David W. Patten to Parley P. Pratt, May 10, 1837"}]}, "note3": {"id": "note3", "marker": "3.", "pid": "137811083", "context": "", "text": " Allen and others, Men with a Mission, 22. Topic: Kirtland Safety Society ", "referenceUris": [{"type": "cross-ref", "href": "/study/history/topics/kirtland-safety-society?lang=eng", "text": "Kirtland Safety Society"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "137811087", "context": "", "text": " Kimball, “History,” 54; Whitney, Life of Heber C. Kimball, 116. Topics: England; Early Missionaries ", "referenceUris": [{"type": "cross-ref", "href": "/study/history/topics/england?lang=eng", "text": "England"}, {"type": "cross-ref", "href": "/study/history/topics/early-missionaries?lang=eng", "text": "Early Missionaries"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "137811093", "context": "", "text": " Kimball, “History,” 54.
-
-"}, "note6": {"id": "note6", "marker": "6.", "pid": "137811097", "context": "", "text": " Kimball, “History,” 55. "}, "note7": {"id": "note7", "marker": "7.", "pid": "137811099", "context": "", "text": " Kimball, “History,” 55. "}, "note8": {"id": "note8", "marker": "8.", "pid": "137811101", "context": "", "text": " Tullidge, Women of Mormondom, 113–15; Whitney, Life of Heber C. Kimball, 120–22. "}, "note9": {"id": "note9", "marker": "9.", "pid": "137811106", "context": "", "text": " Jonathan Crosby, Autobiography, 16; Joseph Smith and Others, Mortgage to Mead, Stafford & Co., July 11, 1837, in JSP, D5:404–10. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/mortgage-to-mead-stafford-co-11-july-1837/1", "text": "Joseph Smith and Others, Mortgage to Mead, Stafford & Co., July 11, 1837"}]}, "note10": {"id": "note10", "marker": "10.", "pid": "137811114", "context": "", "text": " Jonathan Crosby, Autobiography, 16; Caroline Barnes Crosby, Reminiscences, [39]–[41]. "}, "note11": {"id": "note11", "marker": "11.", "pid": "137811118", "context": "", "text": " Jonathan Crosby, Autobiography, 16–17. The original source has “provision” rather than “provisions”; it also has “make a present” rather than “make you a present.” "}, "note12": {"id": "note12", "marker": "12.", "pid": "137811121", "context": "", "text": " Jonathan Crosby, Autobiography, 17; Caroline Barnes Crosby, Reminiscences, [41]. "}, "note13": {"id": "note13", "marker": "13.", "pid": "137811123", "context": "", "text": " Mary Fielding to Mercy Fielding, circa June 1837, Mary Fielding Smith Collection, Church History Library; see also Whitney, Life of Heber C. Kimball, 112–14.
-
-Topic: Dissent in the Church ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/40452f44-8728-49ad-815c-6b55b0a90fff/0/8", "text": "Mary Fielding to Mercy Fielding, circa June 1837"}, {"type": "cross-ref", "href": "/study/history/topics/dissent-in-the-church?lang=eng", "text": "Dissent in the Church"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "137811127", "context": "", "text": " Mary Fielding to Mercy Fielding, circa June 1837, Mary Fielding Smith Collection, Church History Library. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/40452f44-8728-49ad-815c-6b55b0a90fff/0/8", "text": "Mary Fielding to Mercy Fielding, circa June 1837"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "137811131", "context": "", "text": " John Taylor, “History of John Taylor by Himself,” 15, in Historian’s Office, Histories of the Twelve, Church History Library; see also Roberts, Life of John Taylor, 40; and Parley P. Pratt to Joseph Smith, May 23, 1837, in JSP, D5:386–91. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/d4b8280a-fdc2-46cc-a054-f95dbb45cd5d/0/15", "text": "History of John Taylor by Himself"}, {"href": "https://www.josephsmithpapers.org/paper-summary/letter-from-parley-p-pratt-23-may-1837/1", "text": "Parley P. Pratt to Joseph Smith, May 23, 1837"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "137811133", "context": "", "text": " Joseph Smith History, 1838–56, volume B-1, 762; Mary Fielding to Mercy Fielding, circa June 1837, Mary Fielding Smith Collection, Church History Library.
-
-", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/216", "text": "Joseph Smith History, 1838–56, volume B-1, 762"}, {"href": "https://catalog.churchofjesuschrist.org/assets/40452f44-8728-49ad-815c-6b55b0a90fff/0/8", "text": "Mary Fielding to Mercy Fielding, circa June 1837"}]}, "note17": {"id": "note17", "marker": "17.", "pid": "137811135", "context": "", "text": " Joseph Smith History, 1838–56, volume B-1, 763; Warren Parrish, Letter to the Editor, Painesville Republican, Feb. 15, 1838, [3]. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/217", "text": "Joseph Smith History, 1838–56, volume B-1, 763"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "137811142", "context": "", "text": " Mary Fielding to Mercy Fielding, circa June 1837, Mary Fielding Smith Collection, Church History Library. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/40452f44-8728-49ad-815c-6b55b0a90fff/0/9", "text": "Mary Fielding to Mercy Fielding, circa June 1837"}]}, "note19": {"id": "note19", "marker": "19.", "pid": "137811144", "context": "", "text": " Fielding, Journal, 17; Kimball, “History,” 60, 62; Watt, Mormon Passage of George D. Watt, 17; see also Ostler, “Photo Essay of Church History Sites in Liverpool and the Ribble Valley,” 61–78.
-
-Topic: England ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/48db37c9-7339-4c4b-9f7f-d0a7eda60ee6/0/17", "text": "Fielding, Journal, 17"}, {"type": "cross-ref", "href": "/study/history/topics/england?lang=eng", "text": "England"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "137811145", "context": "", "text": " Whitney, Life of Heber C. Kimball, 133; Allen and others, Men with a Mission, 25–29. "}, "note21": {"id": "note21", "marker": "21.", "pid": "137811149", "context": "", "text": " Fielding, Journal, 17; “Mission to England,” LDS Millennial Star, Apr. 1841, 12:290; Kimball, “History,” 60; Whitney, Life of Heber C. Kimball, 134. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/48db37c9-7339-4c4b-9f7f-d0a7eda60ee6/0/17", "text": "Fielding, Journal, 17"}, {"href": "https://catalog.churchofjesuschrist.org/assets/3ea0a9b4-c55c-4720-a30f-c64aec11cdd2/0/1", "text": "Mission to England"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "137811157", "context": "", "text": " Joseph Fielding to Mary Fielding and Mercy Fielding Thompson, Oct. 2, 1837, Mary Fielding Smith Collection, Church History Library; “Mission to England,” LDS Millennial Star, Apr. 1841, 12:290; Fielding, Journal, 17–18. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/7f73d99d-781b-49a7-af4f-f15279015230/0/5", "text": "Joseph Fielding to Mary Fielding and Mercy Fielding Thompson, Oct.
-
-2, 1837"}, {"href": "https://catalog.churchofjesuschrist.org/assets/3ea0a9b4-c55c-4720-a30f-c64aec11cdd2/0/1", "text": "Mission to England"}, {"href": "https://catalog.churchofjesuschrist.org/assets/48db37c9-7339-4c4b-9f7f-d0a7eda60ee6/0/17", "text": "Fielding, Journal, 17–18"}]}, "note23": {"id": "note23", "marker": "23.", "pid": "137811159", "context": "", "text": " Givens and Grow, Parley P. Pratt, 101; Kirtland Safety Society, Stock Ledger, 47. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/kirtland-safety-society-bank-stock-ledger-18-october-1836-12-june-1837/54", "text": "Kirtland Safety Society, Stock Ledger, 47"}]}, "note24": {"id": "note24", "marker": "24.", "pid": "137811161", "context": "", "text": " “History of Thomas Baldwin Marsh,” 5, in Historian’s Office, Histories of the Twelve, Church History Library. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/94f77937-aa7b-4bda-9d9e-dfe550581397/0/14", "text": "History of Thomas Baldwin Marsh"}]}, "note25": {"id": "note25", "marker": "25.", "pid": "137811165", "context": "", "text": " Parley P. Pratt, “To the Public,” Elders’ Journal, Aug. 1838, 50–51. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/elders-journal-august-1838/2?highlight=elders%27%20journal", "text": "To the Public"}]}, "note26": {"id": "note26", "marker": "26.", "pid": "137811166", "context": "", "text": " Pratt, Autobiography, 183–84; John Taylor, “History of John Taylor by Himself,” 15, in Historian’s Office, Histories of the Twelve, Church History Library; see also Givens and Grow, Parley P. Pratt, 102.
-
-", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/d4b8280a-fdc2-46cc-a054-f95dbb45cd5d/0/15", "text": "History of John Taylor by Himself"}]}, "note27": {"id": "note27", "marker": "27.", "pid": "137811168", "context": "", "text": " “History of Thomas Baldwin Marsh,” 5, in Historian’s Office, Histories of the Twelve, Church History Library; Woodruff, Journal, June 25, 1857; see also Historical Introduction to Revelation, July 23, 1837 [D&C 112], in JSP, D5:410–12. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/94f77937-aa7b-4bda-9d9e-dfe550581397/0/14", "text": "History of Thomas Baldwin Marsh"}, {"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/112?lang=eng", "text": "D&C 112"}]}, "note28": {"id": "note28", "marker": "28.", "pid": "137811170", "context": "", "text": " See Cook, “I Have Sinned against Heaven,” 392–93; and Historical Introduction to Revelation, July 23, 1837 [D&C 112], in JSP, D5:410–11. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/112?lang=eng", "text": "D&C 112"}]}, "note29": {"id": "note29", "marker": "29.", "pid": "137811172", "context": "", "text": " See Doctrine and Covenants 112:1–2 (Revelation, July 23, 1837, at josephsmithpapers.org). ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/112?lang=eng&id=p1-p2#p1", "text": "Doctrine and Covenants 112:1–2"}, {"href": "https://www.josephsmithpapers.org/paper-summary/revelation-23-july-1837-dc-112/1", "text": "Revelation, July 23, 1837"}]}, "note30": {"id": "note30", "marker": "30.", "pid": "137811174", "context": "", "text": " Historical Introduction to Revelation, July 23, 1837 [D&C 112], in JSP, D5:410–14.
-
-", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/112?lang=eng", "text": "D&C 112"}]}, "note31": {"id": "note31", "marker": "31.", "pid": "137811176", "context": "", "text": " Topics: First Presidency; Quorum of the Twelve ", "referenceUris": [{"type": "cross-ref", "href": "/study/history/topics/first-presidency?lang=eng", "text": "First Presidency"}, {"type": "cross-ref", "href": "/study/history/topics/quorum-of-the-twelve?lang=eng", "text": "Quorum of the Twelve"}]}, "note32": {"id": "note32", "marker": "32.", "pid": "137811184", "context": "", "text": " Doctrine and Covenants 112 (Revelation, July 23, 1837, at josephsmithpapers.org); see also Darowski, “The Faith and Fall of Thomas Marsh,” 54–60. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/112?lang=eng", "text": "Doctrine and Covenants 112"}, {"href": "https://www.josephsmithpapers.org/paper-summary/revelation-23-july-1837-dc-112/1", "text": "Revelation, July 23, 1837"}, {"href": "https://history.lds.org/article/revelations-in-context-doctrine-and-covenants-thomas-marsh", "text": "The Faith and Fall of Thomas Marsh"}]}}
+[[D&C 112|Doctrine and Covenants 112]] ([Revelation, July 23, 1837](https://www.josephsmithpapers.org/paper-summary/revelation-23-july-1837-dc-112/1), at josephsmithpapers.org); see also Darowski, “[The Faith and Fall of Thomas Marsh](https://history.lds.org/article/revelations-in-context-doctrine-and-covenants-thomas-marsh),” 54–60.

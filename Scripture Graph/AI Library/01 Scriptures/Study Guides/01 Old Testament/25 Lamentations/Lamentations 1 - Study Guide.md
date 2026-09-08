@@ -6,7 +6,7 @@ volume: Old Testament
 book: Lamentations
 chapter: 1
 slug: lam-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

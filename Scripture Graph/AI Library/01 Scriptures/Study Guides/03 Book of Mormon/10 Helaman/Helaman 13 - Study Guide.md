@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 13
 slug: hel-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -107,6 +107,8 @@ Verse 38 describes a point at which probation is past, while verse 39 renews the
 ## Church History
 <!-- SG:BEGIN history -->
 - **Prophets** (reference-entry) *(explicit citation)*
+- **Chapter 23: Shepherds of the Flock** (teachings) *(explicit citation)*
+- **Chapter 17: Keeping the Law of Chastity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

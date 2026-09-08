@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 36
 slug: job-36
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

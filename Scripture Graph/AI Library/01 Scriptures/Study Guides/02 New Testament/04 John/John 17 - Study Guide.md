@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 17
 slug: john-17
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -91,7 +91,7 @@ Sanctification is joined to [[Truth]], the Father's word, Jesus' self-consecrati
 - [[Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ (Elder Robert D. Hales, October 2014)|Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ]] — Elder Robert D. Hales, 2014-October *(explicit citation)*
 - [[Agency Essential to the Plan of Life (Elder Robert D. Hales, October 2010)|Agency: Essential to the Plan of Life]] — Elder Robert D. Hales, 2010-October *(explicit citation)*
 - [[The Only True God and Jesus Christ Whom He Hath Sent (Elder Jeffrey R. Holland, October 2007)|The Only True God and Jesus Christ Whom He Hath Sent]] — Elder Jeffrey R. Holland, 2007-October *(explicit citation)*
-- [[To Whom Shall We Go (Elder M. Russell Ballard, October 2016)|To Whom Shall We Go?]] — Elder M. Russell Ballard, 2016-October *(explicit citation)*
+- [[Faith through Tribulation Brings Peace and Joy (Elder Robert D. Hales, April 2003)|Faith through Tribulation Brings Peace and Joy]] — Elder Robert D. Hales, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

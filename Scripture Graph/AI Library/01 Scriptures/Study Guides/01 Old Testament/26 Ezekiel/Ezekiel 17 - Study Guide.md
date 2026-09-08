@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 17
 slug: ezek-17
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

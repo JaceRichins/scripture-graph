@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 63
 slug: alma-63
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,7 +83,7 @@ Alma 63:12-13 places broad circulation, commanded restriction, sacred preservati
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 23: ‘No Less Serviceable’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

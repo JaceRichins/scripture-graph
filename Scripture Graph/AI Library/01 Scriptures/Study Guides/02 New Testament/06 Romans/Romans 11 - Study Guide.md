@@ -6,7 +6,7 @@ volume: New Testament
 book: Romans
 chapter: 11
 slug: rom-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,7 @@ Romans 11:30–32 places both Gentiles and Israel under unbelief and in need of 
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **The Latter-day Saints' Millennial Star 1840-09 (Vol. 1 No. 5)** (history, 1840-09) *(explicit citation)*
 - **Thoughts to Keep in Mind: The House of Israel** (lesson) *(explicit citation)*
+- **Chapter 6: Discovering the Scriptures for Ourselves** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

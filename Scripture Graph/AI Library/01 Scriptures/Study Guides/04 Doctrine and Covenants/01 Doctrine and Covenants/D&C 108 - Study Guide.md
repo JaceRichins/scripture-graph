@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 108
 slug: dc-108
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -81,6 +81,7 @@ The chapter places [[Repentance and Forgiveness]] beside continuing [[Obedience]
 - **‘Wrought Upon’ to Seek a Revelation** (history) *(explicit citation)*
 - **September 22–28: “The Order of the Son of God”: Doctrine and Covenants 106–108** (lesson) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

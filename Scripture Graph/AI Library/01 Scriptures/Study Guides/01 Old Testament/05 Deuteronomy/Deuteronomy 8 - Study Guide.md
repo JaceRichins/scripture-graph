@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 8
 slug: deut-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ _Not yet developed._
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
+- [[How Choice a Seer! (Elder Neal A. Maxwell, October 2003)|How Choice a Seer!]] — Elder Neal A. Maxwell, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

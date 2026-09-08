@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 14
 slug: 1ne-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -103,6 +103,9 @@ Verses 3–4 describe retributive reversal: those who prepare destruction for ot
 <!-- SG:BEGIN history -->
 - **Joseph Smith’s Bible Translation** (history) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
+- **Chapter 23: ‘Strengthen Thy Stakes’** (teachings) *(explicit citation)*
+- **Chapter 2: An Ensign to the Nations, a Light to the World** (teachings) *(explicit citation)*
+- **Chapter 15: The Holy Priesthood** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

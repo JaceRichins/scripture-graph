@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 119
 slug: dc-119
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -76,9 +76,9 @@ _Not yet developed._
 - **October 13–19: “His Sacrifice Shall Be More Sacred unto Me Than His Increase”: Doctrine and Covenants 115–120** (lesson) *(explicit citation)*
 - **Chapter 19: Temporal Blessings and the Law of Tithing** (teachings) *(explicit citation)*
 - **Chapter 22: Tithing and Consecration** (teachings) *(explicit citation)*
+- **Chapter 9: The Law of Tithing** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Tithing** (reference-entry) *(explicit citation)*
-- **Sources Cited** (history) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

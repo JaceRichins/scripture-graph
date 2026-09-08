@@ -6,15 +6,15 @@ content_type: report
 
 # Status
 
-*Generated 2026-09-08T08:23:54Z.*
+*Generated 2026-09-08T09:11:56Z.*
 
-- Engine: v0.1.0 · corpus **v19** · bootstrap **STEADY_STATE** · git `b07ab0e6`
+- Engine: v0.1.0 · corpus **v22** · bootstrap **STEADY_STATE** · git `83eea7db`
 - Scripture: 88 books, 1584 chapters, 42027 verses
 - Graph: 108 topics · 243 people · 96 places · 1775 evidence notes · 90 questions
 - Personal notes indexed: 3175
-- Documents: 4926 (1695 conference talks)
-- Index: 388409 chunks · embeddings: hash/hash-ngram-v1 (385236)
-- Work queue: {'pending': 636}
+- Documents: 5397 (1849 conference talks)
+- Index: 409222 chunks · embeddings: hash/hash-ngram-v1 (406049)
+- Work queue: {'pending': 659}
 - **Today:** 10 study ticks · 34 research jobs applied · 1120 new claims
 - Secondary sources: 1 approved · 661 episodes tracked · 5 ingested
 - AI providers: claude: ready, codex: ready
@@ -35,17 +35,17 @@ Overall: mean **84.9**, stddev 8.37, min 71.7
 
 - `chapter:deut-21` — completeness 72.96
 - `chapter:2kgs-6` — completeness 72.96
+- `chapter:job-38` — completeness 72.96
 - `chapter:ps-27` — completeness 72.96
 - `chapter:ps-110` — completeness 72.96
 - `chapter:isa-6` — completeness 72.96
 - `chapter:mark-7` — completeness 72.96
 - `chapter:mark-15` — completeness 72.96
-- `chapter:john-2` — completeness 72.96
 
 ## Recent runs
 
-- study: 2026-09-08T07:45:03Z → … (running)
+- nightly: 2026-09-08T08:30:02Z → … (running)
+- study: 2026-09-08T07:45:03Z → 2026-09-08T08:23:54Z (ok)
 - study: 2026-09-08T07:15:02Z → 2026-09-08T07:37:03Z (ok)
 - study: 2026-09-08T06:45:02Z → 2026-09-08T07:12:04Z (ok)
 - study: 2026-09-08T05:45:02Z → 2026-09-08T06:25:39Z (ok)
-- study: 2026-09-08T05:15:02Z → 2026-09-08T05:42:04Z (ok)

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 9
 slug: mosiah-9
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ The phrase "deliverance of our fathers" connects present trust to inherited sacr
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Essential Truths—Our Need to Act (Elder Adilson de Paula Parrella, October 2017)|Essential Truths—Our Need to Act]] — Elder Adilson de Paula Parrella, 2017-October *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 - [[Bear Up Their Burdens with Ease (Elder David A. Bednar, April 2014)|Bear Up Their Burdens with Ease]] — Elder David A. Bednar, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 

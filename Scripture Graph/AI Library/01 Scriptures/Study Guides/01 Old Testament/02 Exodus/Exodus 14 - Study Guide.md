@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 14
 slug: ex-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ Divine hardening in verses 4, 8, and 17 raises a serious question for [[Agency]]
 - **Chapter 20: The Kingdom of God Moves Forward** (teachings) *(explicit citation)*
 - **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
 - **Chapter 24: Righteous Living in Perilous Times** (teachings) *(explicit citation)*
+- **Chapter 1: Jesus Christ—Our Only Way to Hope and Joy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

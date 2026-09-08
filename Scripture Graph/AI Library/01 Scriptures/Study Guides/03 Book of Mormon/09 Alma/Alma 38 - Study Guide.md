@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 38
 slug: alma-38
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,10 @@ Alma also presents disciplined conduct as integral to [[Missionary Work]]: dilig
 ## Church History
 <!-- SG:BEGIN history -->
 - **Chastity** (reference-entry) *(explicit citation)*
+- **Chapter 3: Freedom of Choice, an Eternal Principle** (teachings) *(explicit citation)*
+- **Chapter 17: Keeping the Law of Chastity** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
+- **Chapter 24: Following the Example of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

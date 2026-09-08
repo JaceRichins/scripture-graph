@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 2
 slug: gal-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ Galatians 2 presents [[Justification and Sanctification]] as centered in Jesus C
 <!-- SG:BEGIN conference -->
 - [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
 - [[In Awe of Christ and His Gospel (Elder Ulisses Soares, April 2022)|In Awe of Christ and His Gospel]] — Elder Ulisses Soares, 2022-April *(explicit citation)*
+- [[Repentance and Change (Elder Dallin H. Oaks, October 2003)|Repentance and Change]] — Elder Dallin H. Oaks, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

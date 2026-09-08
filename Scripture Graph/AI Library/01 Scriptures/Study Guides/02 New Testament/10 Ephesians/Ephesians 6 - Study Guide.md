@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 6
 slug: eph-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ The armor passage portrays resistance to evil through [[Truth]], righteousness, 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[With All the Feeling of a Tender Parent A Message of Hope for Families (Elder Robert D. Hales, April 2004)|With All the Feeling of a Tender Parent: A Message of Hope for Families]] — Elder Robert D. Hales, 2004-April *(explicit citation)*
 - [[Winning the War against Evil (Elder James J. Hamula, October 2008)|Winning the War against Evil]] — Elder James J. Hamula, 2008-October *(explicit citation)*
 - [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
 - [[Joy and Spiritual Survival (President Russell M. Nelson, October 2016)|Joy and Spiritual Survival]] — President Russell M. Nelson, 2016-October *(explicit citation)*
@@ -88,11 +89,11 @@ The armor passage portrays resistance to evil through [[Truth]], righteousness, 
 - [[Watch Ye Therefore, and Pray Always (President M. Russell Ballard, October 2020)|Watch Ye Therefore, and Pray Always]] — President M. Russell Ballard, 2020-October *(explicit citation)*
 - [[Why the Covenant Path (Elder D. Todd Christofferson, April 2021)|Why the Covenant Path]] — Elder D. Todd Christofferson, 2021-April *(explicit citation)*
 - [[Following Jesus Being a Peacemaker (Elder Neil L. Andersen, April 2022)|Following Jesus: Being a Peacemaker]] — Elder Neil L. Andersen, 2022-April *(explicit citation)*
-- [[Put Ye On the Lord Jesus Christ (Sister J. Anette Dennis, April 2024)|Put Ye On the Lord Jesus Christ]] — Sister J. Anette Dennis, 2024-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 10: Fortifying Ourselves against Evil Influences** (teachings) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
 - **Breastplate** (reference-entry) *(explicit citation)*
@@ -102,7 +103,6 @@ The armor passage portrays resistance to evil through [[Truth]], righteousness, 
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 - **Chapter 42: Family: The Sweetest Union for Time and for Eternity** (teachings) *(explicit citation)*
 - **March 24–30: “All Things Must Be Done in Order”: Doctrine and Covenants 27–28** (lesson) *(explicit citation)*
-- **Chapter 16: Marriage and Parenthood: Preparing Our Families for Eternal Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

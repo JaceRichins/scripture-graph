@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 12
 slug: ex-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -106,6 +106,7 @@ Later Christian texts connect Passover with [[Jesus Christ (Gospel Topic)]] and 
 - **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
+- **Chapter 15: The Sacrament of the Lord’s Supper** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

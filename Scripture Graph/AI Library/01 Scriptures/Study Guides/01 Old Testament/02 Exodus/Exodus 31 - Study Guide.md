@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 31
 slug: ex-31
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ Scripture: [[Exodus 31]] · My notes: [[Exodus 31 - My Notes]]
 - [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
 - [[Shipshape and Bristol Fashion Be Temple Worthy—in Good Times and Bad Times (Elder Quentin L. Cook, October 2015)|Shipshape and Bristol Fashion: Be Temple Worthy—in Good Times and Bad Times]] — Elder Quentin L. Cook, 2015-October *(explicit citation)*
 - [[Make Time for the Lord (President Russell M. Nelson, October 2021)|Make Time for the Lord]] — President Russell M. Nelson, 2021-October *(explicit citation)*
+- [[We Believe All That God Has Revealed (Elder L. Tom Perry, October 2003)|We Believe All That God Has Revealed]] — Elder L. Tom Perry, 2003-October *(explicit citation)*
 - [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
 - [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
 - [[A Pattern for All (Elder Merrill J. Bateman, October 2005)|A Pattern for All]] — Elder Merrill J. Bateman, 2005-October *(explicit citation)*
@@ -95,6 +96,7 @@ Scripture: [[Exodus 31]] · My notes: [[Exodus 31 - My Notes]]
 - **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
+- **Chapter 16: The Sabbath—A Delight** (teachings) *(explicit citation)*
 - **Sabbath** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

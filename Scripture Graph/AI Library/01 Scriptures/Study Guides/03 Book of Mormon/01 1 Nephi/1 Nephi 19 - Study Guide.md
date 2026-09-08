@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 19
 slug: 1ne-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -112,11 +112,11 @@ Verses 1-6 also present sacred recordkeeping as selective and purpose-driven whi
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **Thoughts to Keep in Mind: Reading the Old Testament** (lesson) *(explicit citation)*
+- **Chapter 6: Discovering the Scriptures for Ourselves** (teachings) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
 - **Participating in Temple and Family History Work** (reference-entry) *(explicit citation)*
 - **Gathering of Israel** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Scriptures** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

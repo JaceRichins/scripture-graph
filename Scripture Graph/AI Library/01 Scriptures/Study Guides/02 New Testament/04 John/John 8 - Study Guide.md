@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 8
 slug: john-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -95,9 +95,9 @@ Jesus' declaration 'Before Abraham was, I am' (8:58) makes the chapter's stronge
 - [[Our Good Shepherd (Elder Dale G. Renlund, April 2017)|Our Good Shepherd]] — Elder Dale G. Renlund, 2017-April *(explicit citation)*
 - [[Look unto Jesus Christ (Elder Kim B. Clark, April 2019)|Look unto Jesus Christ]] — Elder Kim B. Clark, 2019-April *(explicit citation)*
 - [[Infuriating Unfairness (Elder Dale G. Renlund, April 2021)|Infuriating Unfairness]] — Elder Dale G. Renlund, 2021-April *(explicit citation)*
+- [[The Key of the Knowledge of God (President James E. Faust, October 2004)|The Key of the Knowledge of God]] — President James E. Faust, 2004-October *(explicit citation)*
 - [[Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026)|Jesus Christ—the True Vine]] — Elder Ulisses Soares, 2026-April *(explicit citation)*
 - [[On Being Genuine (President Dieter F. Uchtdorf, April 2015)|On Being Genuine]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
-- [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

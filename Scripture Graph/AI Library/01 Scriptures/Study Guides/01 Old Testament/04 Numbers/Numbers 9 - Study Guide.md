@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 9
 slug: num-9
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -66,8 +66,8 @@ Scripture: [[Numbers 9]] · My notes: [[Numbers 9 - My Notes]]
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Law of Moses]]
-- [[Passover]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Passover]] *(keyword match — unconfirmed)*
 - [[Ordinances]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 

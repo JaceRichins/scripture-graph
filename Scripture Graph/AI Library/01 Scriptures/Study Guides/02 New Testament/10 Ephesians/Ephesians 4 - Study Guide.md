@@ -6,7 +6,7 @@ volume: New Testament
 book: Ephesians
 chapter: 4
 slug: eph-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,9 +100,9 @@ Maturity is measured by relation to Christ and by the health of the whole body. 
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Church** (reference-entry) *(explicit citation)*
 - **Chapter 3: The Purpose of the Church** (teachings) *(explicit citation)*
+- **Chapter 23: Shepherds of the Flock** (teachings) *(explicit citation)*
 - **Apostle** (reference-entry) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

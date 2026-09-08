@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 21
 slug: luke-21
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -112,6 +112,7 @@ Readiness for the [[Second Coming of Jesus Christ]] is presented primarily as a 
 - **Chapter 13: Obedience: ‘When the Lord Commands, Do It’** (teachings) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 - **Chapter 8: Our Missionary Duty** (teachings) *(explicit citation)*
+- **The Latter-day Saints' Millennial Star 1841-06 (Vol. 2 No. 2)** (history, 1841-06) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

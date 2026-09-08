@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 16
 slug: lev-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

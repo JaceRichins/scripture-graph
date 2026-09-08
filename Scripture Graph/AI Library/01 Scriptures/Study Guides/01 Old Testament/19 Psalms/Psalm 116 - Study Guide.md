@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 116
 slug: ps-116
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Children of God** (reference-entry) *(explicit citation)*
 - **August 31–September 6. “Let Every Thing That Hath Breath Praise the Lord”: Psalms 102–103; 110; 116–119; 127–128; 135–139; 146–150** (lesson) *(explicit citation)*
+- **Chapter 2: Tragedy or Destiny?** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

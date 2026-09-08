@@ -6,7 +6,7 @@ volume: Old Testament
 book: Amos
 chapter: 8
 slug: amos-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
+- **Chapter 7: Continuous Revelation through Living Prophets** (teachings) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Kings
 chapter: 4
 slug: 2kgs-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ The outer episodes (oil; loaves) both turn insufficient supply into enough with 
 - **Debt** (reference-entry) *(explicit citation)*
 - **Carmel** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
+- **Chapter 21: Principles of Temporal and Spiritual Welfare** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

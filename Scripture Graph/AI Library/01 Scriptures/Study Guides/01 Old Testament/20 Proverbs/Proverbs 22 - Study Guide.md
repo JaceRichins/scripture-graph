@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 22
 slug: prov-22
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ Verses 17-21 portray [[Education and Learning]] as attentive hearing, inward ret
 - [[What Have You Done with My Name (Elder Mervyn B. Arnold, October 2010)|What Have You Done with My Name?]] — Elder Mervyn B. Arnold, 2010-October *(explicit citation)*
 - [[Restoring Faith in the Family (Elder Kenneth Johnson, April 2008)|Restoring Faith in the Family]] — Elder Kenneth Johnson, 2008-April *(explicit citation)*
 - [[Salvation and Exaltation (Elder Russell M. Nelson, April 2008)|Salvation and Exaltation]] — Elder Russell M. Nelson, 2008-April *(explicit citation)*
+- [[Did You Get the Right Message (President James E. Faust, April 2004)|Did You Get the Right Message?]] — President James E. Faust, 2004-April *(explicit citation)*
 - [[Conference Report, October 1929 (General Conference (full report), October 1929)|Conference Report, October 1929]] — General Conference (full report), 1929-October *(explicit citation)*
 - [[Becoming Goodly Parents (Elder L. Tom Perry, October 2012)|Becoming Goodly Parents]] — Elder L. Tom Perry, 2012-October *(explicit citation)*
 - [[Mothers Teaching Children in the Home (Elder L. Tom Perry, April 2010)|Mothers Teaching Children in the Home]] — Elder L. Tom Perry, 2010-April *(explicit citation)*
@@ -98,6 +99,9 @@ Verses 17-21 portray [[Education and Learning]] as attentive hearing, inward ret
 - **Chapter 22: Bringing Up Children in Light and Truth** (teachings) *(explicit citation)*
 - **Chapter 16: The Noble Calling of Parents** (teachings) *(explicit citation)*
 - **Chapter 4: Strengthening and Preserving the Family** (teachings) *(explicit citation)*
+- **Chapter 15: The Sacred Callings of Fathers and Mothers** (teachings) *(explicit citation)*
+- **Chapter 17: Preserve and Protect the Family** (teachings) *(explicit citation)*
+- **Chapter 11: Home—the Basis of a Righteous Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

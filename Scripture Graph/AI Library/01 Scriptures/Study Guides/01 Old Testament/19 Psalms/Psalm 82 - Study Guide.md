@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 82
 slug: ps-82
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

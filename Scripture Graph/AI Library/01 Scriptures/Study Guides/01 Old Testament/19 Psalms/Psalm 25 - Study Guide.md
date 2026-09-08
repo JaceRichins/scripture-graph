@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 25
 slug: ps-25
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -75,7 +75,7 @@ The psalm joins [[Prayer]], [[Repentance and Forgiveness]], and [[Covenants]]. G
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 4: Help from on High** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

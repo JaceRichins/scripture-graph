@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 27
 slug: matt-27
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -73,9 +73,9 @@ Scripture: [[Matthew 27]] · My notes: [[Matthew 27 - My Notes]]
 - [[Crucifixion of Jesus Christ]]
 - [[Exodus and Deliverance]] *(keyword match — unconfirmed)*
 - [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 - [[Temples]] *(keyword match — unconfirmed)*
 - [[Family]] *(keyword match — unconfirmed)*
+- [[Jews and Gentiles]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -105,12 +105,12 @@ The torn temple veil can be read as a sign that Jesus' death changes access to G
 - **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
+- **Chapter 8: We Look to Christ** (teachings) *(explicit citation)*
+- **Chapter 24: The Atonement of Jesus Christ: Vast in Its Reach, Intimate in Its Effect** (teachings) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Aceldama** (reference-entry) *(explicit citation)*
 - **Arimathea** (reference-entry) *(explicit citation)*
-- **Blasphemy** (reference-entry) *(explicit citation)*
-- **Centurion** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

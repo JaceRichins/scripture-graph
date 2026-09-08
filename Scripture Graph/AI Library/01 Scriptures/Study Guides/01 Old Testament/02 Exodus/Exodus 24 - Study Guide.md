@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 24
 slug: ex-24
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -76,7 +76,7 @@ The blood is explicitly called "the blood of the covenant" (24:8). In the immedi
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Clarion Call of Prophets (Elder Shirley D. Christensen, October 2003)|The Clarion Call of Prophets]] — Elder Shirley D. Christensen, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

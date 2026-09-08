@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 24
 slug: 3ne-24
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,8 @@ The refining imagery connects divine presence with purification. The purpose is 
 - [[Will a Man Rob God (Elder Yoshihiko Kikuchi, April 2007)|Will a Man Rob God?]] — Elder Yoshihiko Kikuchi, 2007-April *(explicit citation)*
 - [[Scriptural Witnesses (Elder Russell M. Nelson, October 2007)|Scriptural Witnesses]] — Elder Russell M. Nelson, 2007-October *(explicit citation)*
 - [[Now Is the Time to Prepare (Elder Russell M. Nelson, April 2005)|Now Is the Time to Prepare]] — Elder Russell M. Nelson, 2005-April *(explicit citation)*
+- [[But If Not … (Elder Dennis E. Simmons, April 2004)|But If Not …]] — Elder Dennis E. Simmons, 2004-April *(explicit citation)*
+- [[Roots and Branches (Elder Russell M. Nelson, April 2004)|Roots and Branches]] — Elder Russell M. Nelson, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

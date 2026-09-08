@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 31
 slug: ps-31
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

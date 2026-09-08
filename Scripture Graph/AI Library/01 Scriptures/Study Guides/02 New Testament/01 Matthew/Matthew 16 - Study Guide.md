@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 16
 slug: matt-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -109,15 +109,15 @@ Scripture: [[Matthew 16]] · My notes: [[Matthew 16 - My Notes]]
 ## Church History
 <!-- SG:BEGIN history -->
 - **Plural Marriage in Kirtland and Nauvoo** (reference-entry) *(explicit citation)*
+- **Chapter 24: Following the Example of Jesus Christ** (teachings) *(explicit citation)*
 - **An Angel and a Promise** (history) *(explicit citation)*
 - **Priesthood Keys** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Chapter 4: Knowing and Honoring the Godhead** (teachings) *(explicit citation)*
 - **Chapter 19: The Divine Nature of Service** (teachings) *(explicit citation)*
+- **Chapter 3: Jesus Christ: My Savior, My Lord** (teachings) *(explicit citation)*
+- **Chapter 7: Personal Testimony** (teachings) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
-- **Endowment and Sealing Ordinances** (reference-entry) *(explicit citation)*
-- **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
-- **Prophets** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 11
 slug: matt-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -103,12 +103,12 @@ Matthew 11 shifts from Jesus's charge to the Twelve ([[Matthew 10]]) to how his 
 - **Chapter 4: Obedience, a Sacred Duty** (teachings) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Chapter 48: Finding Rest in Christ** (teachings) *(explicit citation)*
+- **Chapter 3: Adversity—Part of God’s Plan for Our Eternal Progress** (teachings) *(explicit citation)*
 - **Aaronic Priesthood** (reference-entry) *(explicit citation)*
 - **Diversity and Unity in The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Divorce** (reference-entry) *(explicit citation)*
 - **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

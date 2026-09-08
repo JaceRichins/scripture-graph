@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 18
 slug: luke-18
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

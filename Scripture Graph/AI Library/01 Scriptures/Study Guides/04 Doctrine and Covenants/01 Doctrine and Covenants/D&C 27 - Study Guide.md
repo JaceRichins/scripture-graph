@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 27
 slug: dc-27
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,9 @@ The chapter presents the [[Sacrament]] as an act directed to the Father's glory 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
+- [[“The Standard of Truth Has Been Erected” (President Boyd K. Packer, October 2003)|“The Standard of Truth Has Been Erected”]] — President Boyd K. Packer, 2003-October *(explicit citation)*
+- [[With All the Feeling of a Tender Parent A Message of Hope for Families (Elder Robert D. Hales, April 2004)|With All the Feeling of a Tender Parent: A Message of Hope for Families]] — Elder Robert D. Hales, 2004-April *(explicit citation)*
 - [[The Times of Restitution of All Things (Elder David A. Bednar, April 2025)|The Times of Restitution of All Things]] — Elder David A. Bednar, 2025-April *(explicit citation)*
 - [[Catch the Wave (Elder Russell M. Nelson, April 2013)|Catch the Wave]] — Elder Russell M. Nelson, 2013-April *(explicit citation)*
 - [[By Faith All Things Are Fulfilled (Elder Marcus B. Nash, October 2012)|By Faith All Things Are Fulfilled]] — Elder Marcus B. Nash, 2012-October *(explicit citation)*
@@ -94,9 +97,6 @@ The chapter presents the [[Sacrament]] as an act directed to the Father's glory 
 - [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[Keys, Covenants, and Easter (Elder Quentin L. Cook, April 2026)|Keys, Covenants, and Easter]] — Elder Quentin L. Cook, 2026-April *(explicit citation)*
 - [[Yes, We Can and Will Win! (Elder Ulisses Soares, April 2015)|Yes, We Can and Will Win!]] — Elder Ulisses Soares, 2015-April *(explicit citation)*
-- [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
-- [[The Doctrine of Christ (Brian K. Ashton, October 2016)|The Doctrine of Christ]] — Brian K. Ashton, 2016-October *(explicit citation)*
-- [[Drawing the Power of Jesus Christ into Our Lives (President Russell M. Nelson, April 2017)|Drawing the Power of Jesus Christ into Our Lives]] — President Russell M. Nelson, 2017-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

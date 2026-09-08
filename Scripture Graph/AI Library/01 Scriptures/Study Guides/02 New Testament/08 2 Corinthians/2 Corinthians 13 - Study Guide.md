@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 13
 slug: 2cor-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ _Not yet developed._
 - **February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75** (lesson) *(explicit citation)*
 - **Chapter 7: Joseph and Hyrum Smith, Witnesses for Christ** (teachings) *(explicit citation)*
 - **Chapter 9: Witnesses of the Book of Mormon** (teachings) *(explicit citation)*
+- **Chapter 1: The Restoration of the Gospel—The Dawning of a Brighter Day** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

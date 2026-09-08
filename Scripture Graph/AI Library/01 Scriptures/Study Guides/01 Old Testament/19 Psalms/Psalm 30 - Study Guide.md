@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 30
 slug: ps-30
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 - **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
+- **Chapter 6: The Atonement and Resurrection of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

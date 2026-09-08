@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 8
 slug: luke-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -112,6 +112,7 @@ The last two miracles are intercalated: the journey to Jairus's dying daughter i
 - **Chapter 25: Truths from the Savior’s Parables in Matthew 13** (teachings) *(explicit citation)*
 - **Chapter 22: Bringing Up Children in Light and Truth** (teachings) *(explicit citation)*
 - **Chapter 24: The Work of Latter-day Saint Women: ‘Unselfish Devotion to This Glorious Cause’** (teachings) *(explicit citation)*
+- **Chapter 24: Following the Example of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

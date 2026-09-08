@@ -6,7 +6,7 @@ volume: Old Testament
 book: Daniel
 chapter: 3
 slug: dan-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -76,17 +76,20 @@ The clearest treatment of [[Faith]] occurs in verses 17–18. The men trust God'
 - [[Worship (Elder D. Todd Christofferson, April 2025)|Worship]] — Elder D. Todd Christofferson, 2025-April *(explicit citation)*
 - [[A Sin-Resistant Generation (Joy D. Jones, April 2017)|A Sin-Resistant Generation]] — Joy D. Jones, 2017-April *(explicit citation)*
 - [[Has the Day of Miracles Ceased (Elder Donald L. Hallstrom, October 2017)|Has the Day of Miracles Ceased?]] — Elder Donald L. Hallstrom, 2017-October *(explicit citation)*
+- [[But If Not … (Elder Dennis E. Simmons, April 2004)|But If Not …]] — Elder Dennis E. Simmons, 2004-April *(explicit citation)*
 - [[Be Not Afraid, Only Believe (President Dieter F. Uchtdorf, October 2015)|Be Not Afraid, Only Believe]] — President Dieter F. Uchtdorf, 2015-October *(explicit citation)*
 - [[More Than a Hero (Bishop W. Christopher Waddell, October 2023)|More Than a Hero]] — Bishop W. Christopher Waddell, 2023-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 19: Our Commitment to God** (teachings) *(explicit citation)*
 - **November 9–15. “There Is No Other God That Can Deliver”: Daniel 1–7** (lesson) *(explicit citation)*
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 17: The Strengthening Power of Faith** (teachings) *(explicit citation)*
 - **Chapter 24: Righteous Living in Perilous Times** (teachings) *(explicit citation)*
+- **Chapter 12: Integrity** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

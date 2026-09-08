@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 57
 slug: isa-57
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,9 @@ Verse 13 is also relevant to [[Faith]]: competing sources of deliverance are swe
 ## Church History
 <!-- SG:BEGIN history -->
 - **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
+- **Chapter 5: Principles of True Repentance** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
+- **Chapter 2: ‘My Peace I Give unto You’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

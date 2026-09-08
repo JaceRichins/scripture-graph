@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 17
 slug: rev-17
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The vision also associates [[Final Judgment]] with the collapse of corrupt power
 - [[Followers of the Prince of Peace (Elder Ulisses Soares, April 2023)|Followers of the Prince of Peace]] — Elder Ulisses Soares, 2023-April *(explicit citation)*
 - [[The Lord Jesus Christ Will Come Again (President Russell M. Nelson, October 2024)|The Lord Jesus Christ Will Come Again]] — President Russell M. Nelson, 2024-October *(explicit citation)*
 - [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

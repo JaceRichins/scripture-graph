@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 18
 slug: 1sam-18
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -96,6 +96,7 @@ _Not yet developed._
 - **David** (reference-entry) *(explicit citation)*
 - **Chapter 40: How Glorious Are Faithful, Just, and True Friends** (teachings) *(explicit citation)*
 - **Chapter 16: ‘That We May Become One’** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

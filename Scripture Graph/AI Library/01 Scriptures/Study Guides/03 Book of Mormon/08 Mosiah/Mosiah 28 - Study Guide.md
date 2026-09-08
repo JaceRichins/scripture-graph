@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 28
 slug: mosiah-28
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -88,12 +88,14 @@ Verses 14–16 present the interpreters as providentially preserved for interpre
 - [[“Then Will I Make Weak Things Become Strong” (Elder Kevin S. Hamilton, April 2022)|“Then Will I Make Weak Things Become Strong”]] — Elder Kevin S. Hamilton, 2022-April *(explicit citation)*
 - [[I Glory in My Jesus (Elder Aaron T. Hall, April 2026)|I Glory in My Jesus]] — Elder Aaron T. Hall, 2026-April *(explicit citation)*
 - [[“Man Down!” (President Henry B. Eyring, April 2009)|“Man Down!”]] — President Henry B. Eyring, 2009-April *(explicit citation)*
+- [[A Child and a Disciple (Elder Henry B. Eyring, April 2003)|A Child and a Disciple]] — Elder Henry B. Eyring, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **06 The Gift and Power of God** (history) *(explicit citation)*
+- **Chapter 8: Taking the Gospel to All the World** (teachings) *(explicit citation)*
 - **Children of God** (reference-entry) *(explicit citation)*
 - **November 23–29. “Seek the Lord, and Ye Shall Live”: Amos; Obadiah; Jonah** (lesson) *(explicit citation)*
 - **Chapter 12: An Enthusiastic Desire to Share the Gospel** (teachings) *(explicit citation)*

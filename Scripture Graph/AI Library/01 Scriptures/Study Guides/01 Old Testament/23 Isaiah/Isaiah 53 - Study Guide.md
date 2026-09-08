@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 53
 slug: isa-53
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,11 +98,11 @@ The text should not be forced into only one later theory of atonement. It includ
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Grief** (reference-entry) *(explicit citation)*
 - **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
+- **Chapter 24: The Atonement of Jesus Christ: Vast in Its Reach, Intimate in Its Effect** (teachings) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Jesus Christ** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
 - **Chapter 3: Jesus Christ, the Divine Redeemer of the World** (teachings) *(explicit citation)*
-- **Using Come, Follow Me—For Home and Church** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

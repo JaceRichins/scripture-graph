@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 72
 slug: dc-72
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ The chapter presents stewardship as accountable to God and administered through 
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 - [[A Time to Prepare (Elder Ian S. Ardern, October 2011)|A Time to Prepare]] — Elder Ian S. Ardern, 2011-October *(explicit citation)*
 <!-- SG:END conference -->
 

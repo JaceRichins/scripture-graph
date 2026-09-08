@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 14
 slug: job-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **August 10–16. “Yet Will I Trust in Him”: Job 1–3; 12–14; 19; 21–24; 38–40; 42** (lesson) *(explicit citation)*
 - **Chapter 7: The Significance of the Resurrection** (teachings) *(explicit citation)*
+- **Chapter 6: The Atonement and Resurrection of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

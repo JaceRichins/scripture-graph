@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 18
 slug: gen-18
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -70,8 +70,10 @@ Genesis 18:19 also makes family instruction part of covenant life. Abraham is to
 - [[Rejoice in the Gift of Priesthood Keys (President Russell M. Nelson, April 2024)|Rejoice in the Gift of Priesthood Keys]] — President Russell M. Nelson, 2024-April *(explicit citation)*
 - [[Aligning Our Will with His (Elder Ulisses Soares, October 2024)|Aligning Our Will with His]] — Elder Ulisses Soares, 2024-October *(explicit citation)*
 - [[Personal Revelation The Teachings and Examples of the Prophets (Elder Robert D. Hales, October 2007)|Personal Revelation: The Teachings and Examples of the Prophets]] — Elder Robert D. Hales, 2007-October *(explicit citation)*
+- [[The Key of the Knowledge of God (President James E. Faust, October 2004)|The Key of the Knowledge of God]] — President James E. Faust, 2004-October *(explicit citation)*
 - [[The Power of Deliverance (Elder L. Tom Perry, April 2012)|The Power of Deliverance]] — Elder L. Tom Perry, 2012-April *(explicit citation)*
 - [[Claim the Exceeding Great and Precious Promises (Elder Spencer J. Condie, October 2007)|Claim the Exceeding Great and Precious Promises]] — Elder Spencer J. Condie, 2007-October *(explicit citation)*
+- [[War and Peace (President Gordon B. Hinckley, April 2003)|War and Peace]] — President Gordon B. Hinckley, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

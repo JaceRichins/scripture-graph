@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 4
 slug: 2sam-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

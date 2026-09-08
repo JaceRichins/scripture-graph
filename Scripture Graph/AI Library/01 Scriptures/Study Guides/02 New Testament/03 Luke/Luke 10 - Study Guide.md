@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 10
 slug: luke-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -79,6 +79,7 @@ Several teachings stand out: (1) response to Jesus's authorized messengers is tr
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Choosing Charity That Good Part (Bonnie D. Parkin, October 2003)|Choosing Charity: That Good Part]] — Bonnie D. Parkin, 2003-October *(explicit citation)*
 - [[Room in the Inn (Elder Gerrit W. Gong, April 2021)|Room in the Inn]] — Elder Gerrit W. Gong, 2021-April *(explicit citation)*
 - [[The Voice of Warning (Elder D. Todd Christofferson, April 2017)|The Voice of Warning]] — Elder D. Todd Christofferson, 2017-April *(explicit citation)*
 - [[Jesus Christ—the Master Healer (Elder Russell M. Nelson, October 2005)|Jesus Christ—the Master Healer]] — Elder Russell M. Nelson, 2005-October *(explicit citation)*
@@ -88,11 +89,11 @@ Several teachings stand out: (1) response to Jesus's authorized messengers is tr
 - [[“I Was a Stranger” (Linda K. Burton, April 2016)|“I Was a Stranger”]] — Linda K. Burton, 2016-April *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
 - [[The Beauty of Holiness (Carol F. McConkie, April 2017)|The Beauty of Holiness]] — Carol F. McConkie, 2017-April *(explicit citation)*
-- [[Ministering with the Power and Authority of God (President Russell M. Nelson, April 2018)|Ministering with the Power and Authority of God]] — President Russell M. Nelson, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 20: Walking the Savior’s Path of Charity** (teachings) *(explicit citation)*
 - **Racial and Cultural Prejudice** (reference-entry) *(explicit citation)*
 - **19 Stewards over This Ministry** (history) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
@@ -102,7 +103,6 @@ Several teachings stand out: (1) response to Jesus's authorized messengers is tr
 - **Relief Society** (reference-entry) *(explicit citation)*
 - **Mercy** (reference-entry) *(explicit citation)*
 - **Service** (reference-entry) *(explicit citation)*
-- **History of the Church, Volume 3** (history, 1902-1912) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

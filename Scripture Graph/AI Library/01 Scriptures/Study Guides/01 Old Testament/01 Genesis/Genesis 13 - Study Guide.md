@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 13
 slug: gen-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ _Not yet developed._
 - [[Aligning Our Will with His (Elder Ulisses Soares, October 2024)|Aligning Our Will with His]] — Elder Ulisses Soares, 2024-October *(explicit citation)*
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
 - [[The Power of Deliverance (Elder L. Tom Perry, April 2012)|The Power of Deliverance]] — Elder L. Tom Perry, 2012-April *(explicit citation)*
+- [[How Choice a Seer! (Elder Neal A. Maxwell, October 2003)|How Choice a Seer!]] — Elder Neal A. Maxwell, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

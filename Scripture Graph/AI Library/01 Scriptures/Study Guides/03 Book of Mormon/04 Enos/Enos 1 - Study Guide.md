@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Enos
 chapter: 1
 slug: enos-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ Revelation also appears in more than one descriptive form. A voice comes to Enos
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Finding Faith in the Lord Jesus Christ (Elder Robert D. Hales, October 2004)|Finding Faith in the Lord Jesus Christ]] — Elder Robert D. Hales, 2004-October *(explicit citation)*
 - [[Be Reconciled to God (Elder Kelly R. Johnson, October 2025)|Be Reconciled to God]] — Elder Kelly R. Johnson, 2025-October *(explicit citation)*
 - [[Spiritually Whole in Him (President Camille N. Johnson, April 2025)|Spiritually Whole in Him]] — President Camille N. Johnson, 2025-April *(explicit citation)*
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
@@ -98,7 +99,6 @@ Revelation also appears in more than one descriptive form. A voice comes to Enos
 - [[Eyes to See and Ears to Hear (Elder Kim B. Clark, October 2015)|Eyes to See and Ears to Hear]] — Elder Kim B. Clark, 2015-October *(explicit citation)*
 - [[Always Remember Him (Elder Gerrit W. Gong, April 2016)|Always Remember Him]] — Elder Gerrit W. Gong, 2016-April *(explicit citation)*
 - [[Repentance A Joyful Choice (Elder Dale G. Renlund, October 2016)|Repentance: A Joyful Choice]] — Elder Dale G. Renlund, 2016-October *(explicit citation)*
-- [[The Great Plan of Redemption (Linda S. Reeves, October 2016)|The Great Plan of Redemption]] — Linda S. Reeves, 2016-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -107,12 +107,12 @@ Revelation also appears in more than one descriptive form. A voice comes to Enos
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Chapter 6: To Hear the Voice of the Lord** (teachings) *(explicit citation)*
+- **Chapter 21: Striving for Perfection** (teachings) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
-- **Truth** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

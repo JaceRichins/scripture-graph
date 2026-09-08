@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 23
 slug: matt-23
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,7 @@ Scripture: [[Matthew 23]] · My notes: [[Matthew 23 - My Notes]]
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 - **Humility** (reference-entry) *(explicit citation)*
 - **Times and Seasons 1840-11-01 (Vol. 2 No. 1)** (periodical, 1840-11-01) *(explicit citation)*
 - **Abel** (reference-entry) *(explicit citation)*
@@ -105,7 +106,6 @@ Scripture: [[Matthew 23]] · My notes: [[Matthew 23 - My Notes]]
 - **Damnation** (reference-entry) *(explicit citation)*
 - **Frontlets or phylacteries** (reference-entry) *(explicit citation)*
 - **Gehenna** (reference-entry) *(explicit citation)*
-- **Chapter 36: Receiving the Ordinances and Blessings of the Temple** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 2 Nephi
 chapter: 13
 slug: 2ne-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -73,6 +73,7 @@ The chapter connects [[Sin]] with consequences affecting institutions, economic 
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Light in Their Eyes (President James E. Faust, October 2005)|The Light in Their Eyes]] — President James E. Faust, 2005-October *(explicit citation)*
+- [[Overcoming the Stench of Sin (Elder Spencer V. Jones, April 2003)|Overcoming the Stench of Sin]] — Elder Spencer V. Jones, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

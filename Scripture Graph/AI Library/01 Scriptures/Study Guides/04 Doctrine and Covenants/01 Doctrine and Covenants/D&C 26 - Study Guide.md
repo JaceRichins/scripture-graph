@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 26
 slug: dc-26
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,8 @@ _Not yet developed._
 - [[Salvation and Exaltation (Elder Russell M. Nelson, April 2008)|Salvation and Exaltation]] — Elder Russell M. Nelson, 2008-April *(explicit citation)*
 - [[Pure Truth, Pure Doctrine, and Pure Revelation (President Russell M. Nelson, October 2021)|Pure Truth, Pure Doctrine, and Pure Revelation]] — President Russell M. Nelson, 2021-October *(explicit citation)*
 - [[The Weak and the Simple of the Church (President Boyd K. Packer, October 2007)|The Weak and the Simple of the Church]] — President Boyd K. Packer, 2007-October *(explicit citation)*
+- [[My Soul Delighteth in the Scriptures (Julie B. Beck, April 2004)|My Soul Delighteth in the Scriptures]] — Julie B. Beck, 2004-April *(explicit citation)*
+- [[What Is a Quorum (Elder L. Tom Perry, October 2004)|What Is a Quorum?]] — Elder L. Tom Perry, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

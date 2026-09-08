@@ -11,8 +11,6 @@ doc_id: glib:/history/saints-v1/22-try-the-lord
 
 *Saints V1* · [source](https://www.churchofjesuschrist.org/study/history/saints-v1/22-try-the-lord?lang=eng)
 
-“Try the Lord,” chapter 22 of Saints: The Story of the Church of Jesus Christ in the Latter Days, Volume 1, The Standard of Truth, 1815–1846 (2018)
-
 After the temple dedication, Joseph basked in the hope and goodwill that rested over Kirtland. Saints witnessed an outpouring of spiritual gifts throughout the spring of 1836. Many saw hosts of angels, clothed in brilliant white, standing on the roof of the temple, and some people wondered if the Millennium had begun.
 
 Joseph could see evidence of the Lord’s blessings everywhere. When he had moved to Kirtland five years earlier, the church had been disorganized and unruly. Since then, the Saints had embraced the word of the Lord more fully and transformed a simple village into a strong stake of Zion. The temple stood as a testament to what they could accomplish when they followed God and worked together.
@@ -83,11 +81,15 @@ After his conversation with Parley, John Taylor began reading the Book of Mormon
 
 John soon introduced Parley to his friends. “Here is a man come in answer to our prayers,” he announced, “and he says the Lord has established the true church.”
 
+“Are you going to be a Mormon?” someone asked him.
+
 “I don’t know,” John said. “I am going to investigate and pray for the Lord to help me. If there is truth in this thing, I will embrace it—and if error, I want nothing to do with it.”
 
 A short time later, he and Parley traveled to a nearby farming village where Isabella Walton’s relatives lived. John’s friend Joseph Fielding also lived there with his sisters, Mercy and Mary. They too were from England and held religious views similar to the Taylors’.
 
 As John and Parley rode up to the Fieldings’ home, they saw Mercy and Mary run to a neighbor’s house. Their brother stepped outside and greeted the men coolly. He said he wished they had not come. His sisters, and many other people in town, did not want to hear them preach.
+
+“Why do they oppose Mormonism?” Parley asked.
 
 “I don’t know,” Joseph said. “The name has such a contemptible sound.” He said they were not looking for new revelation or any doctrine that contradicted the teachings of the Bible.
 
@@ -129,64 +131,68 @@ By the end of July, neither the store nor anything else church leaders tried had
 
 The men all returned to Kirtland about a month later with church finances still weighing on their minds. But that fall Joseph and his counselors proposed a new project that just might raise the money they needed for Zion.
 
-See, for example, Joseph Smith, Journal, Mar. 30, 1836, in JSP, J1:216.
+Notes
 
-Backman, Heavens Resound, 304–5; Tyler, “Incidents of Experience,” 32.
+See, for example, [Joseph Smith, Journal, Mar. 30, 1836](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/192), in *JSP,* J1:216.
 
-Doctrine and Covenants 105:28 (Revelation, June 22, 1834, at josephsmithpapers.org); Minutes, Apr. 2, 1836, in JSP, D5:223–24.
+Backman, *Heavens Resound,* 304–5; Tyler, “Incidents of Experience,” 32.
 
-“Anniversary of the Church of Latter Day Saints,” LDS Messenger and Advocate, Apr. 1837, 2:488; Kimball, “Journal and Record,” 33; Minute Book 1, June 16, 1836; see also Historical Introduction to Revelation, Aug. 6, 1836, in JSP, D5:272–74. Topic: Canada
+[Minutes, Mar. 30, 1836](https://www.josephsmithpapers.org/paper-summary/minutes-30-march-1836/2), in *JSP,* D5:219.
 
-Pratt, Autobiography, 141, 145; see also Givens and Grow, Parley P. Pratt, 82.
+[[D&C 105#^dc-105-28|Doctrine and Covenants 105:28]] ([Revelation, June 22, 1834](https://www.josephsmithpapers.org/paper-summary/revelation-22-june-1834-dc-105/3), at josephsmithpapers.org); [Minutes, Apr. 2, 1836](https://www.josephsmithpapers.org/paper-summary/minute-book-1/203), in *JSP,* D5:223–24.
 
-Pratt, Autobiography, 142, 145–46. The original source has “and see if anything was too hard for him.”
+[Minutes, Apr. 2, 1836](https://www.josephsmithpapers.org/paper-summary/minute-book-1/203), in *JSP,* D5:222–24.
 
-Emily Dow Partridge Young, “Autobiography,” Woman’s Exponent, Feb. 15, 1885, 13:138.
+“[Anniversary of the Church of Latter Day Saints](https://archive.org/details/LDSMessengerAndAdvocate18341837/page/n487),” *LDS Messenger and Advocate,* Apr. 1837, 2:488; Kimball, “Journal and Record,” 33; [Minute Book 1, June 16, 1836](https://www.josephsmithpapers.org/paper-summary/minute-book-1/217); see also Historical Introduction to Revelation, Aug. 6, 1836, in *JSP,* D5:272–74. **Topic: [Canada](https://www.churchofjesuschrist.org/study/history/topics/canada?lang=eng)**
 
-Joseph Smith to Lyman Wight and Others, Aug. 16, 1834, in JSP, D4:102–8; Emily Dow Partridge Young, “Autobiography,” Woman’s Exponent, Mar. 1, 1885, 13:145; Partridge, History, Manuscript, circa 1839, [18].
+Pratt, *Autobiography,* 141, 145; see also Givens and Grow, *Parley P. Pratt, *82.
 
-Emily Dow Partridge Young, “Autobiography,” Woman’s Exponent, Feb. 15, 1885, 13:138. Topic: Daily Life of First-Generation Latter-day Saints
+Pratt, *Autobiography,* 141–42.
 
-Partridge, Journal, June 29, 1836; Emily Dow Partridge Young, “Autobiography,” Woman’s Exponent, Feb. 15, 1885, 13:138; “Public Meeting,” LDS Messenger and Advocate, Aug. 1836, 2:363–64; Partridge, History, Manuscript, circa 1839, [17]–[18].
+See Givens and Grow, *Parley P. Pratt,* 71, 82, 91.
 
-Emily Dow Partridge Young, “Autobiography,” Woman’s Exponent, Feb. 15, 1885, 13:138.
+Pratt, *Autobiography,* 142, 145–46. The original source has “and see if anything was too hard for him.”
 
-John Taylor, Sermon, Oct. 6, 1866, George D. Watt Papers, Church History Library, as transcribed by LaJean Purcell Carruth.
+Emily Dow Partridge Young, “[Autobiography](https://contentdm.lib.byu.edu/cdm/compoundobject/collection/WomansExp/id/12343/rec/306),” *Woman’s Exponent,* Feb. 15, 1885, 13:138.
 
-John Taylor, Sermon, Oct. 6, 1866, George D. Watt Papers, Church History Library, as transcribed by LaJean Purcell Carruth.
+[Joseph Smith to Lyman Wight and Others, Aug. 16, 1834](https://josephsmithpapers.org/paper-summary/letter-to-lyman-wight-and-others-16-august-1834), in *JSP,* D4:102–8; Emily Dow Partridge Young, “[Autobiography](https://contentdm.lib.byu.edu/cdm/compoundobject/collection/WomansExp/id/12419/rec/307),” *Woman’s Exponent,* Mar. 1, 1885, 13:145; [Partridge, History, Manuscript, circa 1839, [18]](https://www.josephsmithpapers.org/paper-summary/edward-partridge-history-manuscript-circa-1839/18).
 
-Pratt, Autobiography, 164–65; “Diary of Joseph Fielding,” book 1, 5. The original has “go over to meeting together.”
+Emily Dow Partridge Young, “[Autobiography](https://contentdm.lib.byu.edu/cdm/compoundobject/collection/WomansExp/id/12343/rec/306),” *Woman’s Exponent,* Feb. 15, 1885, 13:138. **Topic: [Daily Life of First-Generation Latter-day Saints](https://www.churchofjesuschrist.org/study/history/topics/daily-life-of-first-generation-latter-day-saints?lang=eng)**
 
-“Diary of Joseph Fielding,” book 1, 5; Pratt, Autobiography, 165–66.
+[Partridge, Journal, June 29, 1836](https://catalog.churchofjesuschrist.org/assets/700076c7-2725-4672-9f6b-9613235b86ad/0/45); Emily Dow Partridge Young, “[Autobiography](https://contentdm.lib.byu.edu/cdm/compoundobject/collection/WomansExp/id/12343/rec/306),” *Woman’s Exponent,* Feb. 15, 1885, 13:138; “[Public Meeting](https://archive.org/stream/latterdaysaintsm01unse),” *LDS Messenger and Advocate,* Aug. 1836, 2:363–64; [Partridge, History, Manuscript, circa 1839, [17]–[18]](https://www.josephsmithpapers.org/paper-summary/edward-partridge-history-manuscript-circa-1839/17).
 
-John Taylor, “History of John Taylor by Himself,” 10–11, in Histories of the Twelve, Church History Library.
+Emily Dow Partridge Young, “[Autobiography](https://contentdm.lib.byu.edu/cdm/compoundobject/collection/WomansExp/id/12343/rec/306),” *Woman’s Exponent,* Feb. 15, 1885, 13:138.
+
+Pratt, *Autobiography, *146.
+
+[John Taylor, Sermon, Oct. 6, 1866](https://catalog.churchofjesuschrist.org/assets/5c7e51aa-0a3d-4bc1-b569-67d7306dd5df/0/0), George D. Watt Papers, Church History Library, as transcribed by LaJean Purcell Carruth.
+
+Pratt, *Autobiography, *147.
+
+[John Taylor, Sermon, Oct. 6, 1866](https://catalog.churchofjesuschrist.org/assets/5c7e51aa-0a3d-4bc1-b569-67d7306dd5df/0/0), George D. Watt Papers, Church History Library, as transcribed by LaJean Purcell Carruth.
+
+Pratt, *Autobiography,* 164–65; [“Diary of Joseph Fielding,” book 1, 5](https://catalog.churchofjesuschrist.org/catalog/v1/delivery/DeliveryManagerServlet?dps_pid=IE2045547&page=6). The original has “go over to meeting together.”
+
+[“Diary of Joseph Fielding,” book 1, 5](https://catalog.churchofjesuschrist.org/catalog/v1/delivery/DeliveryManagerServlet?dps_pid=IE2045547&page=6); Pratt, *Autobiography,* 165–66.
+
+Pratt, *Autobiography, *166.
+
+[John Taylor, “History of John Taylor by Himself,” 10–11](https://catalog.churchofjesuschrist.org/assets/d4b8280a-fdc2-46cc-a054-f95dbb45cd5d/0/10), in Histories of the Twelve, Church History Library.
 
 Jonathan Crosby, Autobiography, 14; Caroline Barnes Crosby, Reminiscences, [19].
 
 Jonathan Crosby, Autobiography, 14–15; Caroline Barnes Crosby, Reminiscences, [15], [19]–[20].
 
-Historical Introduction to Letter to William W. Phelps and Others, July 25, 1836, in JSP, D5:269; Partridge, Journal, June 29, 1836; “Public Meeting,” LDS Messenger and Advocate, Aug. 1836, 2:359–61; Partridge, History, Manuscript, circa 1839, [17]–[18].
+Caroline Barnes Crosby, Reminiscences, [21]–[22].
 
-Sidney Rigdon and Others to William W. Phelps and Others, July 25, 1836, in JSP, D5:268–71.
+Historical Introduction to Letter to William W. Phelps and Others, July 25, 1836, in *JSP,* D5:269; [Partridge, Journal, June 29, 1836](https://catalog.churchofjesuschrist.org/assets/700076c7-2725-4672-9f6b-9613235b86ad/0/45); “[Public Meeting](https://archive.org/stream/latterdaysaintsm01unse),” *LDS Messenger and Advocate,* Aug. 1836, 2:359–61; [Partridge, History, Manuscript, circa 1839, [17]–[18]](https://www.josephsmithpapers.org/paper-summary/edward-partridge-history-manuscript-circa-1839/17).
 
-Minutes, Apr. 2, 1836, in JSP, D5:222–24; Historical Introduction to Revelation, Apr. 23, 1834, in JSP, D4:19–22.
+[Sidney Rigdon and Others to William W. Phelps and Others, July 25, 1836](https://josephsmithpapers.org/paper-summary/letter-to-william-w-phelps-and-others-25-july-1836), in *JSP,* D5:268–71.
 
-Minutes, June 16, 1836, in JSP, D5:247–53; Staker, “Raising Money in Righteousness,” 144–53; Staker, Hearken, O Ye People, 445–46; Brigham Young, in Journal of Discourses, Oct. 9, 1852, 1:215; Oct. 8, 1855, 3:121.
+[Minutes, Apr. 2, 1836](https://www.josephsmithpapers.org/paper-summary/minute-book-1/203), in *JSP,* D5:222–24; Historical Introduction to Revelation, Apr. 23, 1834, in *JSP,* D4:19–22.
 
-Historical Introduction to Revelation, Aug. 6, 1836, in JSP, D5:271–75; see also Kuehn, “More Treasures Than One,” 229–34.
+[Minutes, June 16, 1836](https://www.josephsmithpapers.org/paper-summary/minute-book-1/216), in *JSP,* D5:247–53; Staker, “Raising Money in Righteousness,” 144–53; Staker, *Hearken, O Ye People,* 445–46; Brigham Young, in *Journal of Discourses,* [Oct. 9, 1852, 1:215](https://contentdm.lib.byu.edu/cdm/compoundobject/collection/JournalOfDiscourses3/id/9599/rec/1); [Oct. 8, 1855, 3:121](https://contentdm.lib.byu.edu/cdm/compoundobject/collection/JournalOfDiscourses3/id/9595/rec/3).
 
-Doctrine and Covenants 111:1, 5–6 (Revelation, Aug. 6, 1836, at josephsmithpapers.org). The word “on” was added; the original has “coming this journey.”
+Historical Introduction to Revelation, Aug. 6, 1836, in *JSP,* D5:271–75; see also Kuehn, “[More Treasures Than One](https://history.lds.org/article/doctrine-and-covenants-salem-treasure-erastus-snow?lang=eng),” 229–34.
 
-Notes {"note1": {"id": "note1", "marker": "1.", "pid": "137810914", "context": "", "text": " See, for example, Joseph Smith, Journal, Mar. 30, 1836, in JSP, J1:216. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/192", "text": "Joseph Smith, Journal, Mar. 30, 1836"}]}, "note2": {"id": "note2", "marker": "2.", "pid": "137810914", "context": "", "text": " Backman, Heavens Resound, 304–5; Tyler, “Incidents of Experience,” 32. "}, "note3": {"id": "note3", "marker": "3.", "pid": "137810925", "context": "", "text": " Minutes, Mar. 30, 1836, in JSP, D5:219. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/minutes-30-march-1836/2", "text": "Minutes, Mar. 30, 1836"}]}, "note4": {"id": "note4", "marker": "4.", "pid": "137810925", "context": "", "text": " Doctrine and Covenants 105:28 (Revelation, June 22, 1834, at josephsmithpapers.org); Minutes, Apr. 2, 1836, in JSP, D5:223–24. ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/105?lang=eng&id=p28#p28", "text": "Doctrine and Covenants 105:28"}, {"href": "https://www.josephsmithpapers.org/paper-summary/revelation-22-june-1834-dc-105/3", "text": "Revelation, June 22, 1834"}, {"href": "https://www.josephsmithpapers.org/paper-summary/minute-book-1/203", "text": "Minutes, Apr. 2, 1836"}]}, "note5": {"id": "note5", "marker": "5.", "pid": "137810928", "context": "", "text": " Minutes, Apr. 2, 1836, in JSP, D5:222–24. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/minute-book-1/203", "text": "Minutes, Apr. 2, 1836"}]}, "note6": {"id": "note6", "marker": "6.", "pid": "137810930", "context": "", "text": " “Anniversary of the Church of Latter Day Saints,” LDS Messenger and Advocate, Apr.
-
-1837, 2:488; Kimball, “Journal and Record,” 33; Minute Book 1, June 16, 1836; see also Historical Introduction to Revelation, Aug. 6, 1836, in JSP, D5:272–74. Topic: Canada ", "referenceUris": [{"href": "https://archive.org/details/LDSMessengerAndAdvocate18341837/page/n487", "text": "Anniversary of the Church of Latter Day Saints"}, {"href": "https://www.josephsmithpapers.org/paper-summary/minute-book-1/217", "text": "Minute Book 1, June 16, 1836"}, {"type": "cross-ref", "href": "/study/history/topics/canada?lang=eng", "text": "Canada"}]}, "note7": {"id": "note7", "marker": "7.", "pid": "137810936", "context": "", "text": " Pratt, Autobiography, 141, 145; see also Givens and Grow, Parley P. Pratt, 82. "}, "note8": {"id": "note8", "marker": "8.", "pid": "137810943", "context": "", "text": " Pratt, Autobiography, 141–42. "}, "note9": {"id": "note9", "marker": "9.", "pid": "137810947", "context": "", "text": " See Givens and Grow, Parley P. Pratt, 71, 82, 91. "}, "note10": {"id": "note10", "marker": "10.", "pid": "137810951", "context": "", "text": " Pratt, Autobiography, 142, 145–46. The original source has “and see if anything was too hard for him.” "}, "note11": {"id": "note11", "marker": "11.", "pid": "137810953", "context": "", "text": " Emily Dow Partridge Young, “Autobiography,” Woman’s Exponent, Feb. 15, 1885, 13:138. ", "referenceUris": [{"href": "https://contentdm.lib.byu.edu/cdm/compoundobject/collection/WomansExp/id/12343/rec/306", "text": "Autobiography"}]}, "note12": {"id": "note12", "marker": "12.", "pid": "137810955", "context": "", "text": " Joseph Smith to Lyman Wight and Others, Aug. 16, 1834, in JSP, D4:102–8; Emily Dow Partridge Young, “Autobiography,” Woman’s Exponent, Mar. 1, 1885, 13:145; Partridge, History, Manuscript, circa 1839, [18].
-
-", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/letter-to-lyman-wight-and-others-16-august-1834", "text": "Joseph Smith to Lyman Wight and Others, Aug. 16, 1834"}, {"href": "https://contentdm.lib.byu.edu/cdm/compoundobject/collection/WomansExp/id/12419/rec/307", "text": "Autobiography"}, {"href": "https://www.josephsmithpapers.org/paper-summary/edward-partridge-history-manuscript-circa-1839/18", "text": "Partridge, History, Manuscript, circa 1839, [18]"}]}, "note13": {"id": "note13", "marker": "13.", "pid": "137810957", "context": "", "text": " Emily Dow Partridge Young, “Autobiography,” Woman’s Exponent, Feb. 15, 1885, 13:138. Topic: Daily Life of First-Generation Latter-day Saints ", "referenceUris": [{"href": "https://contentdm.lib.byu.edu/cdm/compoundobject/collection/WomansExp/id/12343/rec/306", "text": "Autobiography"}, {"type": "cross-ref", "href": "/study/history/topics/daily-life-of-first-generation-latter-day-saints?lang=eng", "text": "Daily Life of First-Generation Latter-day Saints"}]}, "note14": {"id": "note14", "marker": "14.", "pid": "137810961", "context": "", "text": " Partridge, Journal, June 29, 1836; Emily Dow Partridge Young, “Autobiography,” Woman’s Exponent, Feb. 15, 1885, 13:138; “Public Meeting,” LDS Messenger and Advocate, Aug. 1836, 2:363–64; Partridge, History, Manuscript, circa 1839, [17]–[18].
-
-", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/700076c7-2725-4672-9f6b-9613235b86ad/0/45", "text": "Partridge, Journal, June 29, 1836"}, {"href": "https://contentdm.lib.byu.edu/cdm/compoundobject/collection/WomansExp/id/12343/rec/306", "text": "Autobiography"}, {"href": "https://archive.org/stream/latterdaysaintsm01unse", "text": "Public Meeting"}, {"href": "https://www.josephsmithpapers.org/paper-summary/edward-partridge-history-manuscript-circa-1839/17", "text": "Partridge, History, Manuscript, circa 1839, [17]–[18]"}]}, "note15": {"id": "note15", "marker": "15.", "pid": "137810963", "context": "", "text": " Emily Dow Partridge Young, “Autobiography,” Woman’s Exponent, Feb. 15, 1885, 13:138. ", "referenceUris": [{"href": "https://contentdm.lib.byu.edu/cdm/compoundobject/collection/WomansExp/id/12343/rec/306", "text": "Autobiography"}]}, "note16": {"id": "note16", "marker": "16.", "pid": "137810971", "context": "", "text": " Pratt, Autobiography, 146. "}, "note17": {"id": "note17", "marker": "17.", "pid": "137810981", "context": "", "text": " John Taylor, Sermon, Oct. 6, 1866, George D. Watt Papers, Church History Library, as transcribed by LaJean Purcell Carruth. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/5c7e51aa-0a3d-4bc1-b569-67d7306dd5df/0/0", "text": "John Taylor, Sermon, Oct. 6, 1866"}]}, "note18": {"id": "note18", "marker": "18.", "pid": "137810985", "context": "", "text": " Pratt, Autobiography, 147. "}, "note19": {"id": "note19", "marker": "19.", "pid": "137810990", "context": "", "text": " John Taylor, Sermon, Oct. 6, 1866, George D. Watt Papers, Church History Library, as transcribed by LaJean Purcell Carruth.
-
-", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/5c7e51aa-0a3d-4bc1-b569-67d7306dd5df/0/0", "text": "John Taylor, Sermon, Oct. 6, 1866"}]}, "note20": {"id": "note20", "marker": "20.", "pid": "137810996", "context": "", "text": " Pratt, Autobiography, 164–65; “Diary of Joseph Fielding,” book 1, 5. The original has “go over to meeting together.” ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/catalog/v1/delivery/DeliveryManagerServlet?dps_pid=IE2045547&page=6", "text": "“Diary of Joseph Fielding,” book 1, 5"}]}, "note21": {"id": "note21", "marker": "21.", "pid": "137810999", "context": "", "text": " “Diary of Joseph Fielding,” book 1, 5; Pratt, Autobiography, 165–66. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/catalog/v1/delivery/DeliveryManagerServlet?dps_pid=IE2045547&page=6", "text": "“Diary of Joseph Fielding,” book 1, 5"}]}, "note22": {"id": "note22", "marker": "22.", "pid": "137811000", "context": "", "text": " Pratt, Autobiography, 166. "}, "note23": {"id": "note23", "marker": "23.", "pid": "137811000", "context": "", "text": " John Taylor, “History of John Taylor by Himself,” 10–11, in Histories of the Twelve, Church History Library. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/d4b8280a-fdc2-46cc-a054-f95dbb45cd5d/0/10", "text": "John Taylor, “History of John Taylor by Himself,” 10–11"}]}, "note24": {"id": "note24", "marker": "24.", "pid": "137811001", "context": "", "text": " Jonathan Crosby, Autobiography, 14; Caroline Barnes Crosby, Reminiscences, [19]. "}, "note25": {"id": "note25", "marker": "25.", "pid": "137811003", "context": "", "text": " Jonathan Crosby, Autobiography, 14–15; Caroline Barnes Crosby, Reminiscences, [15], [19]–[20].
-
-"}, "note26": {"id": "note26", "marker": "26.", "pid": "137811006", "context": "", "text": " Caroline Barnes Crosby, Reminiscences, [21]–[22]. "}, "note27": {"id": "note27", "marker": "27.", "pid": "137811008", "context": "", "text": " Historical Introduction to Letter to William W. Phelps and Others, July 25, 1836, in JSP, D5:269; Partridge, Journal, June 29, 1836; “Public Meeting,” LDS Messenger and Advocate, Aug. 1836, 2:359–61; Partridge, History, Manuscript, circa 1839, [17]–[18]. ", "referenceUris": [{"href": "https://catalog.churchofjesuschrist.org/assets/700076c7-2725-4672-9f6b-9613235b86ad/0/45", "text": "Partridge, Journal, June 29, 1836"}, {"href": "https://archive.org/stream/latterdaysaintsm01unse", "text": "Public Meeting"}, {"href": "https://www.josephsmithpapers.org/paper-summary/edward-partridge-history-manuscript-circa-1839/17", "text": "Partridge, History, Manuscript, circa 1839, [17]–[18]"}]}, "note28": {"id": "note28", "marker": "28.", "pid": "137811009", "context": "", "text": " Sidney Rigdon and Others to William W. Phelps and Others, July 25, 1836, in JSP, D5:268–71. ", "referenceUris": [{"href": "https://josephsmithpapers.org/paper-summary/letter-to-william-w-phelps-and-others-25-july-1836", "text": "Sidney Rigdon and Others to William W. Phelps and Others, July 25, 1836"}]}, "note29": {"id": "note29", "marker": "29.", "pid": "137811010", "context": "", "text": " Minutes, Apr. 2, 1836, in JSP, D5:222–24; Historical Introduction to Revelation, Apr. 23, 1834, in JSP, D4:19–22. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/minute-book-1/203", "text": "Minutes, Apr.
-
-2, 1836"}]}, "note30": {"id": "note30", "marker": "30.", "pid": "137811010", "context": "", "text": " Minutes, June 16, 1836, in JSP, D5:247–53; Staker, “Raising Money in Righteousness,” 144–53; Staker, Hearken, O Ye People, 445–46; Brigham Young, in Journal of Discourses, Oct. 9, 1852, 1:215; Oct. 8, 1855, 3:121. ", "referenceUris": [{"href": "https://www.josephsmithpapers.org/paper-summary/minute-book-1/216", "text": "Minutes, June 16, 1836"}, {"href": "https://contentdm.lib.byu.edu/cdm/compoundobject/collection/JournalOfDiscourses3/id/9599/rec/1", "text": "Oct. 9, 1852, 1:215"}, {"href": "https://contentdm.lib.byu.edu/cdm/compoundobject/collection/JournalOfDiscourses3/id/9595/rec/3", "text": "Oct. 8, 1855, 3:121"}]}, "note31": {"id": "note31", "marker": "31.", "pid": "137811011", "context": "", "text": " Historical Introduction to Revelation, Aug. 6, 1836, in JSP, D5:271–75; see also Kuehn, “More Treasures Than One,” 229–34. ", "referenceUris": [{"href": "https://history.lds.org/article/doctrine-and-covenants-salem-treasure-erastus-snow?lang=eng", "text": "More Treasures Than One"}]}, "note32": {"id": "note32", "marker": "32.", "pid": "137811012", "context": "", "text": " Doctrine and Covenants 111:1, 5–6 (Revelation, Aug. 6, 1836, at josephsmithpapers.org). The word “on” was added; the original has “coming this journey.” ", "referenceUris": [{"type": "scripture-ref", "href": "/study/scriptures/dc-testament/dc/111?lang=eng&id=p1%2Cp5-p6#p1", "text": "Doctrine and Covenants 111:1, 5–6"}, {"href": "https://www.josephsmithpapers.org/paper-summary/revelation-6-august-1836-dc-111/1", "text": "Revelation, Aug. 6, 1836"}]}}
+[[D&C 111#^dc-111-1|Doctrine and Covenants 111:1, 5–6]] ([Revelation, Aug. 6, 1836](https://www.josephsmithpapers.org/paper-summary/revelation-6-august-1836-dc-111/1), at josephsmithpapers.org). The word “on” was added; the original has “coming this journey.”

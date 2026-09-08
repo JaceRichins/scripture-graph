@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 15
 slug: dc-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 - [[Eternal Truth (Elder John C. Pingree Jr., October 2023)|Eternal Truth]] — Elder John C. Pingree Jr., 2023-October *(explicit citation)*
 - [[Participate to Prepare for Christ’s Return (Elder Steven D. Shumway, April 2025)|Participate to Prepare for Christ’s Return]] — Elder Steven D. Shumway, 2025-April *(explicit citation)*
 - [[Your Mission Will Change Everything (Elder David F. Evans, April 2006)|Your Mission Will Change Everything]] — Elder David F. Evans, 2006-April *(explicit citation)*
+- [[Strengthen Thy Brethren (Elder Mervyn B. Arnold, April 2004)|Strengthen Thy Brethren]] — Elder Mervyn B. Arnold, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -70,6 +71,7 @@ _Not yet developed._
 - **February 17–23: “Upon You My Fellow Servants”: Doctrine and Covenants 12–17; Joseph Smith—History 1:66–75** (lesson) *(explicit citation)*
 - **The Knight and Whitmer Families** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
+- **Chapter 22: Carrying the Gospel to the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

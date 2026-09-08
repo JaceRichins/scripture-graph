@@ -6,7 +6,7 @@ volume: Old Testament
 book: 1 Samuel
 chapter: 30
 slug: 1sam-30
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

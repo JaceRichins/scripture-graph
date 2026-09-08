@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 20
 slug: 3ne-20
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -94,12 +94,12 @@ The [[Abrahamic Covenant]] includes moral transformation. Christ blesses covenan
 - [[Covenants (Elder Russell M. Nelson, October 2011)|Covenants]] — Elder Russell M. Nelson, 2011-October *(explicit citation)*
 - [[Covenant Belonging (Elder Gerrit W. Gong, October 2019)|Covenant Belonging]] — Elder Gerrit W. Gong, 2019-October *(explicit citation)*
 - [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
+- [[The Key of the Knowledge of God (President James E. Faust, October 2004)|The Key of the Knowledge of God]] — President James E. Faust, 2004-October *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 - [[The Prophet of God (Elder Neil L. Andersen, April 2018)|The Prophet of God]] — Elder Neil L. Andersen, 2018-April *(explicit citation)*
 - [[The Role of the Book of Mormon in Conversion (Elder Shayne M. Bowen, October 2018)|The Role of the Book of Mormon in Conversion]] — Elder Shayne M. Bowen, 2018-October *(explicit citation)*
 - [[The Coming Forth of the Book of Mormon (Elder Ulisses Soares, April 2020)|The Coming Forth of the Book of Mormon]] — Elder Ulisses Soares, 2020-April *(explicit citation)*
 - [[Let God Prevail (President Russell M. Nelson, October 2020)|Let God Prevail]] — President Russell M. Nelson, 2020-October *(explicit citation)*
-- [[The Things of My Soul (Elder Ronald A. Rasband, October 2021)|The Things of My Soul]] — Elder Ronald A. Rasband, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

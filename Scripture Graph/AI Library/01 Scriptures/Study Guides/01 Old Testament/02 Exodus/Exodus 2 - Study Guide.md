@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 2
 slug: ex-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ The killing in 2:12 deserves moral care. Moses's opposition to oppression does n
 <!-- SG:BEGIN conference -->
 - [[Swallowed Up in the Joy of Christ (Elder Brian K. Taylor, April 2024)|Swallowed Up in the Joy of Christ]] — Elder Brian K. Taylor, 2024-April *(explicit citation)*
 - [[O Youth of the Noble Birthright (Brother Bradley R. Wilcox, October 2024)|O Youth of the Noble Birthright]] — Brother Bradley R. Wilcox, 2024-October *(explicit citation)*
+- [[With All the Feeling of a Tender Parent A Message of Hope for Families (Elder Robert D. Hales, April 2004)|With All the Feeling of a Tender Parent: A Message of Hope for Families]] — Elder Robert D. Hales, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

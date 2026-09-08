@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 25
 slug: matt-25
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

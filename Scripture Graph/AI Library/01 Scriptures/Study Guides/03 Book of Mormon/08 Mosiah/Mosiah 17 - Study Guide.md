@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 17
 slug: mosiah-17
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -88,7 +88,7 @@ The chapter connects several doctrinal threads. [[Testimony]] is borne at ultima
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

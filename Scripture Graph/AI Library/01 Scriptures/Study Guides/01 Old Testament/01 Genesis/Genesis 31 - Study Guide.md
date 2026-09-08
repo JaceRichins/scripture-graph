@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 31
 slug: gen-31
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Times and Seasons 1841-02-01 (Vol. 2 No. 7)** (periodical, 1841-02-01) *(explicit citation)*
+- **Chapter 19: Our Commitment to God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

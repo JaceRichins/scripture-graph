@@ -6,7 +6,7 @@ volume: New Testament
 book: 1 Corinthians
 chapter: 5
 slug: 1cor-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -87,6 +87,8 @@ _Not yet developed._
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Easter** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
+- **Chapter 5: Principles of True Repentance** (teachings) *(explicit citation)*
+- **Chapter 15: The Sacrament of the Lord’s Supper** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

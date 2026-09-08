@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 22
 slug: luke-22
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -104,6 +104,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Sacrament** (reference-entry) *(explicit citation)*
+- **Chapter 15: The Sacrament of the Lord’s Supper** (teachings) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
 - **Service** (reference-entry) *(explicit citation)*
 - **‘I Quit Other Business’: Early Missionaries** (history) *(explicit citation)*
@@ -112,7 +113,6 @@ _Not yet developed._
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **March 24–30: “All Things Must Be Done in Order”: Doctrine and Covenants 27–28** (lesson) *(explicit citation)*
-- **Chapter 6: The Power of the Atonement for Us Personally** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

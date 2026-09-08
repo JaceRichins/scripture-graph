@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Jacob
 chapter: 7
 slug: jacob-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ When Sherem demands a sign, Jacob objects to tempting God, conditionally identif
 - [[Be Reconciled to God (Elder Kelly R. Johnson, October 2025)|Be Reconciled to God]] — Elder Kelly R. Johnson, 2025-October *(explicit citation)*
 - [[Guided Safely Home (President Thomas S. Monson, October 2014)|Guided Safely Home]] — President Thomas S. Monson, 2014-October *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
+- [[A Sure Foundation (Elder Sheldon F. Child, October 2003)|A Sure Foundation]] — Elder Sheldon F. Child, 2003-October *(explicit citation)*
 - [[Today (Elder Lance B. Wickman, April 2008)|Today]] — Elder Lance B. Wickman, 2008-April *(explicit citation)*
 <!-- SG:END conference -->
 

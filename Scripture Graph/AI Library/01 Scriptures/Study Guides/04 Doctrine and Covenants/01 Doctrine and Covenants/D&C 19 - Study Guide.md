@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 19
 slug: dc-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -99,9 +99,9 @@ Christ's suffering (vv. 18–19) — trembling, bleeding, and suffering "both bo
 - **Prayer** (reference-entry) *(explicit citation)*
 - **Spirit World** (reference-entry) *(explicit citation)*
 - **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
+- **Chapter 6: Jesus Christ, Our Savior and Redeemer** (teachings) *(explicit citation)*
+- **Chapter 24: The Atonement of Jesus Christ: Vast in Its Reach, Intimate in Its Effect** (teachings) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Prayer** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

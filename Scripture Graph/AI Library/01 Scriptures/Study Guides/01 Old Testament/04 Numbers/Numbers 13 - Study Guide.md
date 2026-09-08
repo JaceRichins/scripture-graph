@@ -6,7 +6,7 @@ volume: Old Testament
 book: Numbers
 chapter: 13
 slug: num-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 - **May 4–10. “Rebel Not Ye against the Lord, Neither Fear”: Numbers 11–14; 20–24; 27** (lesson) *(explicit citation)*
 - **History of the Church, Volume 1** (history, 1902-1912) *(explicit citation)*
 - **Caleb** (reference-entry) *(explicit citation)*
+- **Chapter 3: Cultivating an Attitude of Happiness and a Spirit of Optimism** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

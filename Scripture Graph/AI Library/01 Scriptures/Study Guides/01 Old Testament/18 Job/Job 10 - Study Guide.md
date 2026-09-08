@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 10
 slug: job-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

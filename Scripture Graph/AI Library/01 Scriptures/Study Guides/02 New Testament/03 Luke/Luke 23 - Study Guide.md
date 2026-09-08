@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 23
 slug: luke-23
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -74,8 +74,8 @@ Scripture: [[Luke 23]] · My notes: [[Luke 23 - My Notes]]
 - [[Crucifixion of Jesus Christ]]
 - [[Repentance and Forgiveness]]
 - [[Kingdom of God]]
-- [[Government and Laws]] *(keyword match — unconfirmed)*
 - [[Jews and Gentiles]] *(keyword match — unconfirmed)*
+- [[Government and Laws]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -107,12 +107,12 @@ The supplied canonical text also records Jesus praying for his executioners' for
 - **Paradise** (reference-entry) *(explicit citation)*
 - **Chapter 29: Bear No Malice toward Anyone** (teachings) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
+- **Chapter 24: The Atonement of Jesus Christ: Vast in Its Reach, Intimate in Its Effect** (teachings) *(explicit citation)*
 - **Paradise** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 - **Chapter 3: ‘Love Thy Neighbour as Thyself’** (teachings) *(explicit citation)*
 - **Charity** (reference-entry) *(explicit citation)*
-- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

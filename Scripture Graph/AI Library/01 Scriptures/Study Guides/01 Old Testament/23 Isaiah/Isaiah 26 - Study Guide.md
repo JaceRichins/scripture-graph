@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 26
 slug: isa-26
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,9 @@ _Not yet developed._
 - **Dew** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 15: Establishing the Cause of Zion** (teachings) *(explicit citation)*
+- **Chapter 23: The Resurrection, an Anchor to the Soul** (teachings) *(explicit citation)*
+- **Chapter 4: Living Joyfully in Troubled Times** (teachings) *(explicit citation)*
+- **Chapter 2: ‘My Peace I Give unto You’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

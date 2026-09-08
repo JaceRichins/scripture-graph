@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 19
 slug: john-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 26
 slug: matt-26
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -78,7 +78,7 @@ Scripture: [[Matthew 26]] · My notes: [[Matthew 26 - My Notes]]
 - [[Crucifixion of Jesus Christ]]
 - [[Prayer]] *(keyword match — unconfirmed)*
 - [[Testimony]] *(keyword match — unconfirmed)*
-- [[Apostles]] *(keyword match — unconfirmed)*
+- [[Death and the Spirit World]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles
@@ -100,8 +100,8 @@ At the arrest, Jesus refuses to make violence the means of escape. He cites both
 - [[Hosanna to the Most High God (Elder Ronald A. Rasband, April 2023)|Hosanna to the Most High God]] — Elder Ronald A. Rasband, 2023-April *(explicit citation)*
 - [[Lessons from the Lord’s Prayers (Elder Russell M. Nelson, April 2009)|Lessons from the Lord’s Prayers]] — Elder Russell M. Nelson, 2009-April *(explicit citation)*
 - [[The Soul’s Sincere Desire (Carol F. McConkie, October 2016)|The Soul’s Sincere Desire]] — Carol F. McConkie, 2016-October *(explicit citation)*
+- [[The Key of the Knowledge of God (President James E. Faust, October 2004)|The Key of the Knowledge of God]] — President James E. Faust, 2004-October *(explicit citation)*
 - [[The Gift of Grace (President Dieter F. Uchtdorf, April 2015)|The Gift of Grace]] — President Dieter F. Uchtdorf, 2015-April *(explicit citation)*
-- [[The Sabbath Is a Delight (Elder Russell M. Nelson, April 2015)|The Sabbath Is a Delight]] — Elder Russell M. Nelson, 2015-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -115,7 +115,7 @@ At the arrest, Jesus refuses to make violence the means of escape. He cites both
 - **Blasphemy** (reference-entry) *(explicit citation)*
 - **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
 - **Chapter 6: The Power of the Atonement for Us Personally** (teachings) *(explicit citation)*
-- **Charity** (reference-entry) *(explicit citation)*
+- **Chapter 6: The Atonement and Resurrection of Jesus Christ** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

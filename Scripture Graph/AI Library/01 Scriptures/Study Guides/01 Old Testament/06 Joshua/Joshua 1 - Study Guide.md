@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 1
 slug: josh-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -101,6 +101,8 @@ Scripture: [[Joshua 1]] · My notes: [[Joshua 1 - My Notes]]
 - **Gad** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 10: The Scriptures, the Most Valuable Library in the World** (teachings) *(explicit citation)*
+- **Chapter 8: The Power of the Word** (teachings) *(explicit citation)*
+- **Chapter 10: The Scriptures—The Most Profitable of All Study** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 14
 slug: luke-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

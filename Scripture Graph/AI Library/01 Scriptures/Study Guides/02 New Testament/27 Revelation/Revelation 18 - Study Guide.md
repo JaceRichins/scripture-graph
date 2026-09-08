@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 18
 slug: rev-18
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 122
 slug: dc-122
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -95,10 +95,10 @@ The assurance that [[Priesthood]] will remain is personal and ordeal-specific. I
 - **Suicide** (reference-entry) *(explicit citation)*
 - **31 How Will This End?** (history) *(explicit citation)*
 - **33 O God, Where Art Thou?** (history) *(explicit citation)*
+- **Chapter 22: Peace Be unto Thy Soul** (teachings) *(explicit citation)*
+- **Chapter 3: Adversity—Part of God’s Plan for Our Eternal Progress** (teachings) *(explicit citation)*
+- **Chapter 5: Joseph Smith, Prophet of the Restoration** (teachings) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Mortality** (reference-entry) *(explicit citation)*
-- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

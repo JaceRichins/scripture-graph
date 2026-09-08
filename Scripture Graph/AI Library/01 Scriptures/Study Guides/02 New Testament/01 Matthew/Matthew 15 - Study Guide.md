@@ -6,7 +6,7 @@ volume: New Testament
 book: Matthew
 chapter: 15
 slug: matt-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,17 +90,19 @@ The Canaanite narrative contributes to [[Jews and Gentiles]] without removing th
 - [[The Divine Gift of Gratitude (President Thomas S. Monson, October 2010)|The Divine Gift of Gratitude]] — President Thomas S. Monson, 2010-October *(explicit citation)*
 - [[The Tongue of Angels (Elder Jeffrey R. Holland, April 2007)|The Tongue of Angels]] — Elder Jeffrey R. Holland, 2007-April *(explicit citation)*
 - [[Discipleship (President James E. Faust, October 2006)|Discipleship]] — President James E. Faust, 2006-October *(explicit citation)*
-- [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
+- [[“The Standard of Truth Has Been Erected” (President Boyd K. Packer, October 2003)|“The Standard of Truth Has Been Erected”]] — President Boyd K. Packer, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Latter-day Saints' Southern Star 1899-02-18 (Vol. 1 No. 12)** (history, 1899-02-18) *(explicit citation)*
 - **Commandments, the Ten** (reference-entry) *(explicit citation)*
 - **Corban** (reference-entry) *(explicit citation)*
 - **Dog** (reference-entry) *(explicit citation)*
 - **Elders** (reference-entry) *(explicit citation)*
 - **August 4–10: “Stand Ye in Holy Places”: Doctrine and Covenants 85–87** (lesson) *(explicit citation)*
 - **Chapter 2: The Mission of the Prophet Joseph Smith** (teachings) *(explicit citation)*
+- **Chapter 8: Selfless Service** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

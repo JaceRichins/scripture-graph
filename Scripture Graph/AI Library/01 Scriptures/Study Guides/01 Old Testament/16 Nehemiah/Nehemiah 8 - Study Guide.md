@@ -6,7 +6,7 @@ volume: Old Testament
 book: Nehemiah
 chapter: 8
 slug: neh-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 29
 slug: 3ne-29
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ Verse 8 adds a vital moral dimension to [[Jews and Gentiles]]: belief in Israel'
 - **Chapter 9: Gifts of the Spirit** (teachings) *(explicit citation)*
 - **July 6–12. “There Is a Prophet in Israel”: 2 Kings 2–7** (lesson) *(explicit citation)*
 - **Chapter 15: Advancing the Work of the Lord** (teachings) *(explicit citation)*
+- **Chapter 22: Revelation: ‘A Continuous Melody and a Thunderous Appeal’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

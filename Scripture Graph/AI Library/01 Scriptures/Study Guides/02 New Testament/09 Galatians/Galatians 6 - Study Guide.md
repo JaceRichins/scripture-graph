@@ -6,7 +6,7 @@ volume: New Testament
 book: Galatians
 chapter: 6
 slug: gal-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,9 @@ _Not yet developed._
 - **Flesh** (reference-entry) *(explicit citation)*
 - **Chapter 15: Agency and Accountability** (teachings) *(explicit citation)*
 - **Chapter 20: Agency: Choosing Life or Death** (teachings) *(explicit citation)*
+- **Chapter 17: The Law of Chastity** (teachings) *(explicit citation)*
+- **The Life and Ministry of Ezra Taft Benson** (teachings) *(explicit citation)*
+- **Chapter 3: Freedom of Choice, an Eternal Principle** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

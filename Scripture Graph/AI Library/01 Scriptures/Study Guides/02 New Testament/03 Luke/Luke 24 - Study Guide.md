@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 24
 slug: luke-24
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -107,10 +107,10 @@ Scripture: [[Luke 24]] · My notes: [[Luke 24 - My Notes]]
 - **Easter** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 6: The Atonement and Resurrection of Jesus Christ** (teachings) *(explicit citation)*
 - **Resurrection** (reference-entry) *(explicit citation)*
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **Chapter 1: I Know That My Redeemer Lives** (teachings) *(explicit citation)*
-- **Holy Ghost** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

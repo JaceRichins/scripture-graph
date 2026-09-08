@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 3
 slug: luke-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -112,6 +112,7 @@ John's warning concerning Abraham challenges reliance on covenant ancestry witho
 - [[The Gathering of Scattered Israel (Elder Russell M. Nelson, October 2006)|The Gathering of Scattered Israel]] — Elder Russell M. Nelson, 2006-October *(explicit citation)*
 - [[The Lord Jesus Christ Teaches Us to Pray (Elder Juan A. Uceda, October 2016)|The Lord Jesus Christ Teaches Us to Pray]] — Elder Juan A. Uceda, 2016-October *(explicit citation)*
 - [[Even a Child Can Understand (Elder Gérald Caussé, October 2008)|Even a Child Can Understand]] — Elder Gérald Caussé, 2008-October *(explicit citation)*
+- [[Repentance and Change (Elder Dallin H. Oaks, October 2003)|Repentance and Change]] — Elder Dallin H. Oaks, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

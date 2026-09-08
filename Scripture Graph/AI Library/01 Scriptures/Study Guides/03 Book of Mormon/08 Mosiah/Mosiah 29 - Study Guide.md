@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 29
 slug: mosiah-29
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -92,6 +92,7 @@ The political argument rests on a theology of judgment: "it is better that a man
 - [[Taking upon Ourselves the Name of Jesus Christ (Elder Robert C. Gay, October 2018)|Taking upon Ourselves the Name of Jesus Christ]] — Elder Robert C. Gay, 2018-October *(explicit citation)*
 - [[Loving Others and Living with Differences (Elder Dallin H. Oaks, October 2014)|Loving Others and Living with Differences]] — Elder Dallin H. Oaks, 2014-October *(explicit citation)*
 - [[The Book of Mormon Another Testament of Jesus Christ—Plain and Precious Things (President Boyd K. Packer, April 2005)|The Book of Mormon: Another Testament of Jesus Christ—Plain and Precious Things]] — President Boyd K. Packer, 2005-April *(explicit citation)*
+- [[How Choice a Seer! (Elder Neal A. Maxwell, October 2003)|How Choice a Seer!]] — Elder Neal A. Maxwell, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

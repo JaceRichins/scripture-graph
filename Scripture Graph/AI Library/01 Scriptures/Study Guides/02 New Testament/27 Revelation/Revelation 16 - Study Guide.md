@@ -6,7 +6,7 @@ volume: New Testament
 book: Revelation
 chapter: 16
 slug: rev-16
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -80,6 +80,7 @@ _Not yet developed._
 - **Gospel Doctrine** (history, 1919) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
+- **The Seer 1854-04 (Vol. 2 No. 4)** (history, 1854-04) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

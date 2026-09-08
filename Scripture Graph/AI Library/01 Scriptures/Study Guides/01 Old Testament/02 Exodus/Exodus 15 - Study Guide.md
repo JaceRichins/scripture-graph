@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 15
 slug: ex-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,7 +83,7 @@ Calling the LORD a "man of war" occurs within a song about judgment on Pharaoh's
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

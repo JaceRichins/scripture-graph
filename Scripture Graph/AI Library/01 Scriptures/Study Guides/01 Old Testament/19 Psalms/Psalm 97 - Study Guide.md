@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 97
 slug: ps-97
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -81,7 +81,7 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **The Seer 1854-04 (Vol. 2 No. 4)** (history, 1854-04) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

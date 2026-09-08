@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 14
 slug: prov-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ Verses 5 and 25 connect [[Honesty]] with consequences for others through faithfu
 ## Church History
 <!-- SG:BEGIN history -->
 - **Almsgiving** (reference-entry) *(explicit citation)*
+- **Chapter 16: The Power of the Book of Mormon** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Haggai
 chapter: 2
 slug: hag-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

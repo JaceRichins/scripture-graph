@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 31
 slug: prov-31
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -61,6 +61,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Be an Example of the Believers (Mary N. Cook, October 2010)|Be an Example of the Believers]] — Mary N. Cook, 2010-October *(explicit citation)*
 - [[The Essence of Discipleship (Silvia H. Allred, April 2011)|The Essence of Discipleship]] — Silvia H. Allred, 2011-April *(explicit citation)*
+- [[A “Mother Heart” (Julie B. Beck, April 2004)|A “Mother Heart”]] — Julie B. Beck, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -68,6 +69,8 @@ _Not yet developed._
 - **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
 - **Chapter 39: Relief Society: Divine Organization of Women** (teachings) *(explicit citation)*
+- **Chapter 20: The Women of the Church** (teachings) *(explicit citation)*
+- **Chapter 5: Daughters of God** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

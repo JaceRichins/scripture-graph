@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Moses
 chapter: 3
 slug: moses-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -94,11 +94,11 @@ The chapter joins several themes without collapsing them into one another. [[Cre
 - **Mother in Heaven** (reference-entry) *(explicit citation)*
 - **Environmental Stewardship and Sustainability** (reference-entry) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
+- **Chapter 16: Marriage—An Eternal Partnership** (teachings) *(explicit citation)*
 - **Fall of Adam and Eve** (reference-entry) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Premortal Life** (reference-entry) *(explicit citation)*
 - **Sabbath Day** (reference-entry) *(explicit citation)*
-- **Spirit Children of Heavenly Parents** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Pearl of Great Price
 book: Abraham
 chapter: 4
 slug: abr-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,6 +90,7 @@ Several conclusions require restraint. The plural grammar and explicit counsel a
 - [[Counsel to Young Men (President Boyd K. Packer, April 2009)|Counsel to Young Men]] — President Boyd K. Packer, 2009-April *(explicit citation)*
 - [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
 - [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
+- [[“The Standard of Truth Has Been Erected” (President Boyd K. Packer, October 2003)|“The Standard of Truth Has Been Erected”]] — President Boyd K. Packer, 2003-October *(explicit citation)*
 - [[With One Accord (Reyna I. Aburto, April 2018)|With One Accord]] — Reyna I. Aburto, 2018-April *(explicit citation)*
 - [[The Plan of Happiness (President Boyd K. Packer, April 2015)|The Plan of Happiness]] — President Boyd K. Packer, 2015-April *(explicit citation)*
 <!-- SG:END conference -->

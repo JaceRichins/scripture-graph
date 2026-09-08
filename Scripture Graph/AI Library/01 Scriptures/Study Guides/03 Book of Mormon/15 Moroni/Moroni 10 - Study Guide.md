@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 10
 slug: moro-10
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -108,10 +108,10 @@ Moroni's closing doctrine is strongly Christ-centered. Knowledge is attributed t
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Transparency about Church History** (reference-entry) *(explicit citation)*
 - **Chapter 9: Witnesses of the Book of Mormon** (teachings) *(explicit citation)*
+- **Chapter 1: The Great Commandment—Love the Lord** (teachings) *(explicit citation)*
+- **Chapter 16: The Power of the Book of Mormon** (teachings) *(explicit citation)*
 - **Becoming Like God** (reference-entry) *(explicit citation)*
 - **Book of Mormon and DNA Studies** (reference-entry) *(explicit citation)*
-- **Book of Mormon Translation** (reference-entry) *(explicit citation)*
-- **Abraham, Book of** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

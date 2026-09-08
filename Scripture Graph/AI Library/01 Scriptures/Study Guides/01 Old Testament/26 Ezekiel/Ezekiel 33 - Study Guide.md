@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 33
 slug: ezek-33
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

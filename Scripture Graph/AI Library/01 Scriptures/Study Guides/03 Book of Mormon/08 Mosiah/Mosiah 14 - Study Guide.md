@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 14
 slug: mosiah-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ The chapter supplies concentrated language later drawn on for the doctrine of th
 ## Church History
 <!-- SG:BEGIN history -->
 - **April 20–26. “All That the Lord Hath Spoken We Will Do”: Exodus 19–20; 24; 31–34** (lesson) *(explicit citation)*
+- **Chapter 1: Jesus Christ—Our Only Way to Hope and Joy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

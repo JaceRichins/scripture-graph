@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 12
 slug: 1ne-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -106,6 +106,7 @@ _Not yet developed._
 - **Book of Mormon Translation** (reference-entry) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Chapter 9: Overcoming Temptation** (teachings) *(explicit citation)*
+- **Chapter 8: The Power of the Word** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

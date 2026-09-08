@@ -6,7 +6,7 @@ volume: Old Testament
 book: Hosea
 chapter: 9
 slug: hosea-9
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 23
 slug: 3ne-23
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 - [[Faith to Act and Become (Elder Ciro Schmeil, October 2021)|Faith to Act and Become]] — Elder Ciro Schmeil, 2021-October *(explicit citation)*
 - [[The Name by Which Ye Are Called (Elder B. Corey Cuvelier, October 2025)|The Name by Which Ye Are Called]] — Elder B. Corey Cuvelier, 2025-October *(explicit citation)*
 - [[Becoming More Powerful Priesthood Holders (Elder Walter F. González, October 2009)|Becoming More Powerful Priesthood Holders]] — Elder Walter F. González, 2009-October *(explicit citation)*
+- [[The Clarion Call of Prophets (Elder Shirley D. Christensen, October 2003)|The Clarion Call of Prophets]] — Elder Shirley D. Christensen, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -78,6 +79,8 @@ _Not yet developed._
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Chapter 2: The Everlasting Gospel** (teachings) *(explicit citation)*
+- **Chapter 6: Discovering the Scriptures for Ourselves** (teachings) *(explicit citation)*
+- **Chapter 8: The Power of the Word** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

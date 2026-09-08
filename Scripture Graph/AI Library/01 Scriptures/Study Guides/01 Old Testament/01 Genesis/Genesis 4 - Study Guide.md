@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 4
 slug: gen-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,8 +83,10 @@ The warning in Genesis 4:6-7 places [[Agency]] beside [[Sin]]: Cain's anger is a
 <!-- SG:BEGIN conference -->
 - [[Out of Small Things (Elder Michael J. Teh, October 2007)|Out of Small Things]] — Elder Michael J. Teh, 2007-October *(explicit citation)*
 - [[To Act for Ourselves The Gift and Blessings of Agency (Elder Robert D. Hales, April 2006)|To Act for Ourselves: The Gift and Blessings of Agency]] — Elder Robert D. Hales, 2006-April *(explicit citation)*
+- [[The Atonement, Repentance, and Dirty Linen (Elder Lynn A. Mickelsen, October 2003)|The Atonement, Repentance, and Dirty Linen]] — Elder Lynn A. Mickelsen, 2003-October *(explicit citation)*
 - [[Decisions for Eternity (Elder Russell M. Nelson, October 2013)|Decisions for Eternity]] — Elder Russell M. Nelson, 2013-October *(explicit citation)*
 - [[Repentance and Conversion (Elder Russell M. Nelson, April 2007)|Repentance and Conversion]] — Elder Russell M. Nelson, 2007-April *(explicit citation)*
+- [[The Message of the Restoration (Elder Charles Didier, October 2003)|The Message of the Restoration]] — Elder Charles Didier, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

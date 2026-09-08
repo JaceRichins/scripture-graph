@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Timothy
 chapter: 3
 slug: 2tim-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,16 +90,16 @@ Verse 12 also gives [[Endurance]] a sober setting: godly life is not promised fr
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 8: The Power of the Word** (teachings) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Temptation** (reference-entry) *(explicit citation)*
+- **Chapter 3: Adversity—Part of God’s Plan for Our Eternal Progress** (teachings) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Apostasy** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Temptation** (reference-entry) *(explicit citation)*
-- **Antioch** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

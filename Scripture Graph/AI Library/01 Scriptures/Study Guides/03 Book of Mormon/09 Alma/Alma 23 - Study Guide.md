@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Alma
 chapter: 23
 slug: alma-23
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,6 +100,7 @@ _Not yet developed._
 - **Race and The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Conversion** (reference-entry) *(explicit citation)*
 - **Miracles** (reference-entry) *(explicit citation)*
+- **Chapter 1: Jesus Christ—Our Only Way to Hope and Joy** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

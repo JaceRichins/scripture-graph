@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 15
 slug: john-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,10 +86,10 @@ The closing promise contributes to study of [[The Godhead]] and the [[Gift of th
 - [[“Abide in Me, and I in You; Therefore Walk with Me” (Elder David A. Bednar, April 2023)|“Abide in Me, and I in You; Therefore Walk with Me”]] — Elder David A. Bednar, 2023-April *(explicit citation)*
 - [[Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026)|Jesus Christ—the True Vine]] — Elder Ulisses Soares, 2026-April *(explicit citation)*
 - [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
+- [[“Abide in Me” (Elder Jeffrey R. Holland, April 2004)|“Abide in Me”]] — Elder Jeffrey R. Holland, 2004-April *(explicit citation)*
 - [[Be Fruitful, Multiply, and Subdue the Earth (Elder Joseph W. Sitati, April 2015)|Be Fruitful, Multiply, and Subdue the Earth]] — Elder Joseph W. Sitati, 2015-April *(explicit citation)*
 - [[Believe, Love, Do (Elder Dieter F. Uchtdorf, October 2018)|Believe, Love, Do]] — Elder Dieter F. Uchtdorf, 2018-October *(explicit citation)*
 - [[Deep in Our Heart (Douglas D. Holmes, April 2020)|Deep in Our Heart]] — Douglas D. Holmes, 2020-April *(explicit citation)*
-- [[The Love of God (Elder D. Todd Christofferson, October 2021)|The Love of God]] — Elder D. Todd Christofferson, 2021-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -98,12 +98,12 @@ The closing promise contributes to study of [[The Godhead]] and the [[Gift of th
 - **Charity** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
+- **Chapter 19: Priesthood Leadership in the Church of Jesus Christ** (teachings) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Caring for Those in Need** (reference-entry) *(explicit citation)*
 - **The Church of Jesus Christ of Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Grace** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
-- **Mortal Ministry of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

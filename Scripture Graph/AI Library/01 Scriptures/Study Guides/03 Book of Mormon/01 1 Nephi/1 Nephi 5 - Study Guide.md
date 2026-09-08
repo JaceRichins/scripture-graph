@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 5
 slug: 1ne-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -102,6 +102,7 @@ The family's sacrifices and thanksgiving connect deliverance with [[Gratitude]] 
 - [[Lamentations of Jeremiah Beware of Bondage (Elder Quentin L. Cook, October 2013)|Lamentations of Jeremiah: Beware of Bondage]] — Elder Quentin L. Cook, 2013-October *(explicit citation)*
 - [[What Are You Thinking (Elder W. Craig Zwick, April 2014)|What Are You Thinking?]] — Elder W. Craig Zwick, 2014-April *(explicit citation)*
 - [[Blessings Resulting from Reading the Book of Mormon (Elder L. Tom Perry, October 2005)|Blessings Resulting from Reading the Book of Mormon]] — Elder L. Tom Perry, 2005-October *(explicit citation)*
+- [[My Soul Delighteth in the Scriptures (Julie B. Beck, April 2004)|My Soul Delighteth in the Scriptures]] — Julie B. Beck, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 19
 slug: gen-19
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The account also treats warning as urgent but not coercively self-executing. The
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Cleansing the Inner Vessel (President Boyd K. Packer, October 2010)|Cleansing the Inner Vessel]] — President Boyd K. Packer, 2010-October *(explicit citation)*
+- [[The Dawning of a Brighter Day (President Gordon B. Hinckley, April 2004)|The Dawning of a Brighter Day]] — President Gordon B. Hinckley, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

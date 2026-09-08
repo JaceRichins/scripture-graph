@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 18
 slug: ezek-18
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 ## Church History
 <!-- SG:BEGIN history -->
 - **Forgiveness** (reference-entry) *(explicit citation)*
+- **Chapter 11: Home—the Basis of a Righteous Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

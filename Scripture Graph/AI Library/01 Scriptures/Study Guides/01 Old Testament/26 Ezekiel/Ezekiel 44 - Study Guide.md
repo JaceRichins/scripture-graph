@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 44
 slug: ezek-44
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

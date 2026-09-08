@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mormon
 chapter: 2
 slug: morm-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,12 +85,14 @@ The chapter's sharpest doctrinal distinction is between suffering and [[Repentan
 - [[Consider the Goodness and Greatness of God (Elder Dale G. Renlund, April 2020)|Consider the Goodness and Greatness of God]] — Elder Dale G. Renlund, 2020-April *(explicit citation)*
 - [[All Things for Our Good (Elder Gerrit W. Gong, April 2024)|All Things for Our Good]] — Elder Gerrit W. Gong, 2024-April *(explicit citation)*
 - [[“Come unto Me with Full Purpose of Heart, and I Shall Heal You” (Elder Patrick Kearon, October 2010)|“Come unto Me with Full Purpose of Heart, and I Shall Heal You”]] — Elder Patrick Kearon, 2010-October *(explicit citation)*
+- [[Young Men—Holders of Keys (Elder Monte J. Brough, October 2003)|Young Men—Holders of Keys]] — Elder Monte J. Brough, 2003-October *(explicit citation)*
 - [[The Magnificent Aaronic Priesthood (David L. Beck, April 2010)|The Magnificent Aaronic Priesthood]] — David L. Beck, 2010-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 5: Principles of True Repentance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

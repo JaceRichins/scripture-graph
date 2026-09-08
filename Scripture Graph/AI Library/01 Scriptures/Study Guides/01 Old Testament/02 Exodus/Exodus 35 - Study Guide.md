@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 35
 slug: ex-35
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

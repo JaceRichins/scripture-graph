@@ -6,7 +6,7 @@ volume: Old Testament
 book: Haggai
 chapter: 1
 slug: hag-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 14
 slug: josh-14
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -89,6 +89,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Caleb** (reference-entry) *(explicit citation)*
 - **Eleazar** (reference-entry) *(explicit citation)*
+- **The Life and Ministry of Spencer W. Kimball** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

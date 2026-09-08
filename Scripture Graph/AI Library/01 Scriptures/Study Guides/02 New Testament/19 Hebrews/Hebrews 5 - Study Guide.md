@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 5
 slug: heb-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 4: The Power and Authority of the Holy Priesthood** (teachings) *(explicit citation)*
+- **Chapter 22: Peace Be unto Thy Soul** (teachings) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **High Priest** (reference-entry) *(explicit citation)*
 - **Melchizedek Priesthood** (reference-entry) *(explicit citation)*
@@ -92,7 +93,6 @@ _Not yet developed._
 - **Priesthood** (reference-entry) *(explicit citation)*
 - **Christ, names of** (reference-entry) *(explicit citation)*
 - **Latter-day Saints' Southern Star 1898-12-10 (Vol. 1 No. 2)** (history, 1898-12-10) *(explicit citation)*
-- **Chapter 6: The Mission of John the Baptist** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

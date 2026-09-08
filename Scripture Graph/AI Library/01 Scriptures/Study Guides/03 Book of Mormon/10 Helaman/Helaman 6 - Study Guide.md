@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 6
 slug: hel-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,6 +98,7 @@ The chapter is also notable for what it does not blame: riches themselves are no
 - [[Good Shepherd, Lamb of God (Elder Gerrit W. Gong, April 2019)|Good Shepherd, Lamb of God]] — Elder Gerrit W. Gong, 2019-April *(explicit citation)*
 - [[Harden Not Your Heart (Elder Christopher H. Kim, April 2025)|Harden Not Your Heart]] — Elder Christopher H. Kim, 2025-April *(explicit citation)*
 - [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
+- [[The Virtues of Righteous Daughters of God (President James E. Faust, April 2003)|The Virtues of Righteous Daughters of God]] — President James E. Faust, 2003-April *(explicit citation)*
 - [[What Every Aaronic Priesthood Holder Needs to Understand (Douglas D. Holmes, April 2018)|What Every Aaronic Priesthood Holder Needs to Understand]] — Douglas D. Holmes, 2018-April *(explicit citation)*
 - [[Point of Safe Return (Elder Dieter F. Uchtdorf, April 2007)|Point of Safe Return]] — Elder Dieter F. Uchtdorf, 2007-April *(explicit citation)*
 <!-- SG:END conference -->
@@ -107,6 +108,10 @@ The chapter is also notable for what it does not blame: riches themselves are no
 - **February 9–15. “Noah Found Grace in the Eyes of the Lord”: Genesis 6–11; Moses 8** (lesson) *(explicit citation)*
 - **Cain** (reference-entry) *(explicit citation)*
 - **November 16–22. “I Will Love Them Freely”: Hosea 1–6; 10–14; Joel** (lesson) *(explicit citation)*
+- **Chapter 24: Sharing the Gospel** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
+- **Chapter 12: Come Back and Feast at the Table of the Lord** (teachings) *(explicit citation)*
+- **Chapter 22: Reaching Out with Love to New Converts and Less-Active Members** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

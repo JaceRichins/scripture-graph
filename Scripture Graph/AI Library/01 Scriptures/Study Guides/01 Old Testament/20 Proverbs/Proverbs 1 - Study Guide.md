@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 1
 slug: prov-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -68,6 +68,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[If Ye Are Prepared Ye Shall Not Fear (President Thomas S. Monson, October 2004)|If Ye Are Prepared Ye Shall Not Fear]] — President Thomas S. Monson, 2004-October *(explicit citation)*
 - [[Therefore They Hushed Their Fears (Elder David A. Bednar, April 2015)|Therefore They Hushed Their Fears]] — Elder David A. Bednar, 2015-April *(explicit citation)*
 - [[Conference Report, October 1929 (General Conference (full report), October 1929)|Conference Report, October 1929]] — General Conference (full report), 1929-October *(explicit citation)*
 <!-- SG:END conference -->
@@ -77,6 +78,7 @@ _Not yet developed._
 - **September 7–13. “He Shall Direct Thy Paths”: Proverbs 1–4; 15–16; 22; 31; Ecclesiastes 1–3; 11–12** (lesson) *(explicit citation)*
 - **Education** (reference-entry) *(explicit citation)*
 - **Chapter 22: Gaining Knowledge of Eternal Truths** (teachings) *(explicit citation)*
+- **Chapter 17: Continue in the Great Process of Learning** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

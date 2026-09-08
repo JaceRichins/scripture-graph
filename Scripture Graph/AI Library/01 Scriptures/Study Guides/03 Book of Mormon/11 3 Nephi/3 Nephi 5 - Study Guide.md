@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 5
 slug: 3ne-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -99,7 +99,7 @@ The closing promise defines the [[Gathering of Israel]] as more than relocation.
 - [[Called of Him to Declare His Word (Elder Randy D. Funk, October 2013)|Called of Him to Declare His Word]] — Elder Randy D. Funk, 2013-October *(explicit citation)*
 - [[Wanted Hands and Hearts to Hasten the Work (Linda K. Burton, April 2014)|Wanted: Hands and Hearts to Hasten the Work]] — Linda K. Burton, 2014-April *(explicit citation)*
 - [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
-- [[Do We Trust Him Hard Is Good (Elder Stanley G. Ellis, October 2017)|Do We Trust Him? Hard Is Good]] — Elder Stanley G. Ellis, 2017-October *(explicit citation)*
+- [[An Enduring Testimony of the Mission of the Prophet Joseph (Elder Henry B. Eyring, October 2003)|An Enduring Testimony of the Mission of the Prophet Joseph]] — Elder Henry B. Eyring, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

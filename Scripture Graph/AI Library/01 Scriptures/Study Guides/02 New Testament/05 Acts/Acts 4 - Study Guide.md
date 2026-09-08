@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 4
 slug: acts-4
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -102,10 +102,10 @@ Acts 4:10-12 ties healing, [[Resurrection]], and [[Salvation]] to Jesus Christ r
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Witness** (reference-entry) *(explicit citation)*
 - **10 Gathered In** (history) *(explicit citation)*
+- **The Latter-day Saints' Millennial Star 1841-10 (Vol. 2 No. 6)** (history, 1841-10) *(explicit citation)*
 - **The Law** (history) *(explicit citation)*
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Consecration** (reference-entry) *(explicit citation)*
-- **Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

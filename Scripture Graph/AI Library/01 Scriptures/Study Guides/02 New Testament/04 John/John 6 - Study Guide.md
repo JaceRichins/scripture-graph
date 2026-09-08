@@ -6,7 +6,7 @@ volume: New Testament
 book: John
 chapter: 6
 slug: john-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -108,10 +108,10 @@ John 6:51–58 has an important relationship to the [[Sacrament]], but it should
 - **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
 - **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
 - **April 6–12. “Remember This Day, in Which Ye Came Out from Egypt”: Exodus 7–13** (lesson) *(explicit citation)*
+- **Chapter 9: The Precious Gift of Testimony** (teachings) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
 - **Conversion to Jesus Christ** (reference-entry) *(explicit citation)*
 - **Obedience** (reference-entry) *(explicit citation)*
-- **Sacrifice** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

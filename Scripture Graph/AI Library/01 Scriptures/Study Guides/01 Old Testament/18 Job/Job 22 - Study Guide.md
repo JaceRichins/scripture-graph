@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 22
 slug: job-22
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -59,7 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[“Come, Follow Me” (Elder William W. Parmley, October 2003)|“Come, Follow Me”]] — Elder William W. Parmley, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

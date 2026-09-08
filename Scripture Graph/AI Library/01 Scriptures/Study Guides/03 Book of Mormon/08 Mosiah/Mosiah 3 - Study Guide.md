@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 3
 slug: mosiah-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -72,8 +72,8 @@ _Not yet developed._
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
 - [[Salvation]]
-- [[Final Judgment]]
 - [[Atonement of Jesus Christ]]
+- [[Final Judgment]]
 - [[Humility]]
 - [[Infant Baptism (rejected doctrine)]]
 - [[Jesus Christ (Gospel Topic)]]

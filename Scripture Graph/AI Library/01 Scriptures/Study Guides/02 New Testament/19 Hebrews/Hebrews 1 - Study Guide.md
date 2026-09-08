@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 1
 slug: heb-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,7 @@ _Not yet developed._
 - [[Am I a Child of God (Elder Brian K. Taylor, April 2018)|Am I a Child of God?]] — Elder Brian K. Taylor, 2018-April *(explicit citation)*
 - [[And We Talk of Christ (Elder Gary E. Stevenson, April 2025)|And We Talk of Christ]] — Elder Gary E. Stevenson, 2025-April *(explicit citation)*
 - [[The Only True God and Jesus Christ Whom He Hath Sent (Elder Jeffrey R. Holland, October 2007)|The Only True God and Jesus Christ Whom He Hath Sent]] — Elder Jeffrey R. Holland, 2007-October *(explicit citation)*
+- [[The Grandeur of God (Elder Jeffrey R. Holland, October 2003)|The Grandeur of God]] — Elder Jeffrey R. Holland, 2003-October *(explicit citation)*
 - [[The Godhead and the Plan of Salvation (Elder Dallin H. Oaks, April 2017)|The Godhead and the Plan of Salvation]] — Elder Dallin H. Oaks, 2017-April *(explicit citation)*
 - [[Conference Report, April 1924 (General Conference (full report), April 1924)|Conference Report, April 1924]] — General Conference (full report), 1924-April *(explicit citation)*
 - [[Teachings of Jesus (Elder Dallin H. Oaks, October 2011)|Teachings of Jesus]] — Elder Dallin H. Oaks, 2011-October *(explicit citation)*

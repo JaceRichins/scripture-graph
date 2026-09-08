@@ -6,7 +6,7 @@ volume: New Testament
 book: James
 chapter: 1
 slug: james-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,12 +97,12 @@ Within Latter-day Saint reception, James 1:5 is directly connected with the [[Fi
 - **Spiritual Experiences** (reference-entry) *(explicit citation)*
 - **Latter-day Saint Biographical Encyclopedia, Volume 1** (history, 1901) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 19: Our Commitment to God** (teachings) *(explicit citation)*
 - **Bible** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **First Vision** (reference-entry) *(explicit citation)*
 - **Gifts of the Spirit** (reference-entry) *(explicit citation)*
 - **Revelation** (reference-entry) *(explicit citation)*
-- **Faith** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

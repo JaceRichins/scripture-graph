@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 2
 slug: isa-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -96,10 +96,10 @@ Readings involving the [[Gathering of Israel]], [[Second Coming of Jesus Christ]
 - **14 Visions and Nightmares** (history) *(explicit citation)*
 - **Chapter 21: The Second Coming and the Millennium** (teachings) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 2: An Ensign to the Nations, a Light to the World** (teachings) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
 - **Restoration of the Gospel** (reference-entry) *(explicit citation)*
 - **Temples** (reference-entry) *(explicit citation)*
-- **War** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

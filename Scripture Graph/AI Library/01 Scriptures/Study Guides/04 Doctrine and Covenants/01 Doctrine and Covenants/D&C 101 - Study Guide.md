@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 101
 slug: dc-101
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -94,13 +94,13 @@ Verses 23-34 associate the [[Second Coming of Jesus Christ]] and [[Millennium]] 
 - [[Hearts Knit in Righteousness and Unity (Elder Quentin L. Cook, October 2020)|Hearts Knit in Righteousness and Unity]] — Elder Quentin L. Cook, 2020-October *(explicit citation)*
 - [[They Are Their Own Judges (Elder David A. Bednar, October 2025)|They Are Their Own Judges]] — Elder David A. Bednar, 2025-October *(explicit citation)*
 - [[The Test (President Boyd K. Packer, October 2008)|The Test]] — President Boyd K. Packer, 2008-October *(explicit citation)*
+- [[“The Standard of Truth Has Been Erected” (President Boyd K. Packer, October 2003)|“The Standard of Truth Has Been Erected”]] — President Boyd K. Packer, 2003-October *(explicit citation)*
 - [[“Be Still, and Know That I Am God” (Elder David A. Bednar, April 2024)|“Be Still, and Know That I Am God”]] — Elder David A. Bednar, 2024-April *(explicit citation)*
 - [[The Songs They Could Not Sing (Elder Quentin L. Cook, October 2011)|The Songs They Could Not Sing]] — Elder Quentin L. Cook, 2011-October *(explicit citation)*
 - [[What We Are Learning and Will Never Forget (President Russell M. Nelson, April 2021)|What We Are Learning and Will Never Forget]] — President Russell M. Nelson, 2021-April *(explicit citation)*
 - [[Thy Kingdom Come (Elder Neil L. Andersen, April 2015)|Thy Kingdom Come]] — Elder Neil L. Andersen, 2015-April *(explicit citation)*
 - [[The Soul’s Sincere Desire (Carol F. McConkie, October 2016)|The Soul’s Sincere Desire]] — Carol F. McConkie, 2016-October *(explicit citation)*
 - [[Becoming a Disciple of Our Lord Jesus Christ (Elder Robert D. Hales, April 2017)|Becoming a Disciple of Our Lord Jesus Christ]] — Elder Robert D. Hales, 2017-April *(explicit citation)*
-- [[Until Seventy Times Seven (Elder Lynn G. Robbins, April 2018)|Until Seventy Times Seven]] — Elder Lynn G. Robbins, 2018-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

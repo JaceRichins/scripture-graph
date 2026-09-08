@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 61
 slug: isa-61
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -91,6 +91,7 @@ Verse 6 calls the restored community "Priests of the LORD" and "Ministers of our
 <!-- SG:BEGIN history -->
 - **October 12–18. “The Redeemer Shall Come to Zion”: Isaiah 58–66** (lesson) *(explicit citation)*
 - **Thoughts to Keep in Mind: Prophets and Prophecy** (lesson) *(explicit citation)*
+- **The Seer 1854-05 (Vol. 2 No. 5)** (history, 1854-05) *(explicit citation)*
 - **Anointed One** (reference-entry) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
@@ -98,7 +99,6 @@ Verse 6 calls the restored community "Priests of the LORD" and "Ministers of our
 - **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 - **March 30–April 5. “He Will Swallow Up Death in Victory”: Easter** (lesson) *(explicit citation)*
 - **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
-- **December 21–27. “We Have Waited for Him, and He Will Save Us”: Christmas** (lesson) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

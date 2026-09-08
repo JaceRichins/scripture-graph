@@ -6,7 +6,7 @@ volume: New Testament
 book: 2 Corinthians
 chapter: 7
 slug: 2cor-7
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -74,6 +74,9 @@ _Not yet developed._
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Repentance** (reference-entry) *(explicit citation)*
 - **Chapter 5: Repentance** (teachings) *(explicit citation)*
+- **Chapter 21: Striving for Perfection** (teachings) *(explicit citation)*
+- **Chapter 4: The Miracle of Forgiveness** (teachings) *(explicit citation)*
+- **Chapter 5: Principles of True Repentance** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

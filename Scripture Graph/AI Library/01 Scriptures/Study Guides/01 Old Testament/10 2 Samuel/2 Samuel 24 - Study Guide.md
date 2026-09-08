@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 24
 slug: 2sam-24
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -66,12 +66,14 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Lifted Up upon the Cross (Elder Jeffrey R. Holland, October 2022)|Lifted Up upon the Cross]] — Elder Jeffrey R. Holland, 2022-October *(explicit citation)*
+- [[When Thou Art Converted (Elder D. Todd Christofferson, April 2004)|When Thou Art Converted]] — Elder D. Todd Christofferson, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **Angels** (reference-entry) *(explicit citation)*
 - **Gad** (reference-entry) *(explicit citation)*
+- **Chapter 9: The Law of Tithing** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

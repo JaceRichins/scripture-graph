@@ -6,7 +6,7 @@ volume: Old Testament
 book: Judges
 chapter: 20
 slug: judg-20
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

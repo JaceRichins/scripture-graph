@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 3
 slug: mal-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -99,8 +99,8 @@ Verse 6 places divine constancy beside Jacob's continued survival. Here, "I chan
 - **Fasting and Fast Offerings** (reference-entry) *(explicit citation)*
 - **Chapter 31: Obedience to the Law of Tithing** (teachings) *(explicit citation)*
 - **Chapter 13: Principles of Financial Security** (teachings) *(explicit citation)*
+- **Chapter 9: The Law of Tithing** (teachings) *(explicit citation)*
 - **‘The Tithing of My People’** (history) *(explicit citation)*
-- **Second Coming of Jesus Christ** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

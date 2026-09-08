@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 34
 slug: ex-34
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The renewed [[Covenants|covenant]] (v. 10) again demands exclusive worship: Isra
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[We Believe All That God Has Revealed (Elder L. Tom Perry, October 2003)|We Believe All That God Has Revealed]] — Elder L. Tom Perry, 2003-October *(explicit citation)*
 - [[Perfect Love Casteth Out Fear (President Dieter F. Uchtdorf, April 2017)|Perfect Love Casteth Out Fear]] — President Dieter F. Uchtdorf, 2017-April *(explicit citation)*
 - [[Opening the Heavens for Help (President Russell M. Nelson, April 2020)|Opening the Heavens for Help]] — President Russell M. Nelson, 2020-April *(explicit citation)*
 - [[The Plan of Mercy (Elder James R. Rasband, April 2025)|The Plan of Mercy]] — Elder James R. Rasband, 2025-April *(explicit citation)*

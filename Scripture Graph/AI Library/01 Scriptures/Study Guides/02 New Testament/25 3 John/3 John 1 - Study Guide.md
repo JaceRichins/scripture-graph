@@ -6,7 +6,7 @@ volume: New Testament
 book: 3 John
 chapter: 1
 slug: 3jn-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -59,6 +59,8 @@ _Not yet developed._
 - [[Fathers (Elder D. Todd Christofferson, April 2016)|Fathers]] — Elder D. Todd Christofferson, 2016-April *(explicit citation)*
 - [[The Doctrine of Christ (Elder D. Todd Christofferson, April 2012)|The Doctrine of Christ]] — Elder D. Todd Christofferson, 2012-April *(explicit citation)*
 - [[I Love Loud Boys (Elder Yoon Hwan Choi, October 2009)|I Love Loud Boys]] — Elder Yoon Hwan Choi, 2009-October *(explicit citation)*
+- [[Did I Tell You … (Susan W. Tanner, April 2003)|Did I Tell You … ?]] — Susan W. Tanner, 2003-April *(explicit citation)*
+- [[The Least of These (President Boyd K. Packer, October 2004)|The Least of These]] — President Boyd K. Packer, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -67,6 +69,7 @@ _Not yet developed._
 - **Elders** (reference-entry) *(explicit citation)*
 - **Chapter 14: Dispensations of the Gospel** (teachings) *(explicit citation)*
 - **Chapter 39: Strengthening Families in Family Home Evenings** (teachings) *(explicit citation)*
+- **Chapter 16: The Elderly in the Church** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

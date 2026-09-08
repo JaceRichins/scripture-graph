@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 12
 slug: luke-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -109,6 +109,8 @@ _Not yet developed._
 - **Chapter 4: Strengthened by the Power of the Holy Ghost** (teachings) *(explicit citation)*
 - **Chapter 24: Reflections on the Mission of Jesus Christ** (teachings) *(explicit citation)*
 - **Chapter 6: ‘Every Member a Missionary’** (teachings) *(explicit citation)*
+- **Chapter 6: Discovering the Scriptures for Ourselves** (teachings) *(explicit citation)*
+- **Chapter 8: The Power of the Word** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

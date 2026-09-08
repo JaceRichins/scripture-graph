@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 3
 slug: ex-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -84,6 +84,7 @@ The chapter presents [[Revelation]] as disclosure for a mission: God reveals who
 
 ## General Conference
 <!-- SG:BEGIN conference -->
+- [[Did You Get the Right Message (President James E. Faust, April 2004)|Did You Get the Right Message?]] — President James E. Faust, 2004-April *(explicit citation)*
 - [[Jesus Christ—the True Vine (Elder Ulisses Soares, April 2026)|Jesus Christ—the True Vine]] — Elder Ulisses Soares, 2026-April *(explicit citation)*
 - [[Recommended to the Lord (Elder Ronald A. Rasband, October 2020)|Recommended to the Lord]] — Elder Ronald A. Rasband, 2020-October *(explicit citation)*
 - [[You Can Gather Israel! (Ahmad S. Corbitt, April 2021)|You Can Gather Israel!]] — Ahmad S. Corbitt, 2021-April *(explicit citation)*
@@ -93,7 +94,6 @@ The chapter presents [[Revelation]] as disclosure for a mission: God reveals who
 - [[Humble Souls at Altars Kneel (Elder Jeremy R. Jaggi, October 2025)|Humble Souls at Altars Kneel]] — Elder Jeremy R. Jaggi, 2025-October *(explicit citation)*
 - [[He Is Risen (Elder Ronald A. Rasband, April 2026)|He Is Risen]] — Elder Ronald A. Rasband, 2026-April *(explicit citation)*
 - [[Come unto Christ—Together (Elder Taniela B. Wakolo, April 2026)|Come unto Christ—Together]] — Elder Taniela B. Wakolo, 2026-April *(explicit citation)*
-- [[The Cost—and Blessings—of Discipleship (Elder Jeffrey R. Holland, April 2014)|The Cost—and Blessings—of Discipleship]] — Elder Jeffrey R. Holland, 2014-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -105,6 +105,9 @@ The chapter presents [[Revelation]] as disclosure for a mission: God reveals who
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **December 29–January 4. The First Testament of Jesus Christ: Introduction to the Old Testament** (lesson) *(explicit citation)*
 - **Chapter 11: ‘I Seek Not Mine Own Will, but the Will of the Father’** (teachings) *(explicit citation)*
+- **Chapter 15: We Should Be a Reverent People** (teachings) *(explicit citation)*
+- **Chapter 15: The Sacrament of the Lord’s Supper** (teachings) *(explicit citation)*
+- **The Seer 1853-12 (Vol. 1 No. 12)** (history, 1853-12) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

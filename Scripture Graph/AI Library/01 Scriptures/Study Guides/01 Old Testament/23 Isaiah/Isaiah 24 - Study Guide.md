@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 24
 slug: isa-24
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

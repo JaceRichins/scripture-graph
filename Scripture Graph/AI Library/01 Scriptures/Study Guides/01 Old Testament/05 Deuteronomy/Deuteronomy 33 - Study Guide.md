@@ -6,7 +6,7 @@ volume: Old Testament
 book: Deuteronomy
 chapter: 33
 slug: deut-33
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

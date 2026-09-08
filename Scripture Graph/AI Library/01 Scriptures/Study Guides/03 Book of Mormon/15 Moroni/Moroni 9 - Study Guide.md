@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 9
 slug: moro-9
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,9 @@ The closing counsel does not minimize trauma. Instead, it gives Moroni specific 
 - **Hope** (reference-entry) *(explicit citation)*
 - **Chastity** (reference-entry) *(explicit citation)*
 - **Hope** (reference-entry) *(explicit citation)*
+- **Chapter 4: Living Joyfully in Troubled Times** (teachings) *(explicit citation)*
+- **Chapter 17: Keeping the Law of Chastity** (teachings) *(explicit citation)*
+- **Chapter 24: A Christ-Centered Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Chronicles
 chapter: 12
 slug: 2chr-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

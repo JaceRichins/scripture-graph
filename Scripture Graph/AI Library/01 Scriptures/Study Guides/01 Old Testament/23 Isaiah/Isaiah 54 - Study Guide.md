@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 54
 slug: isa-54
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -93,12 +93,15 @@ The marriage language describes the Lord's relationship with a collective addres
 ## Church History
 <!-- SG:BEGIN history -->
 - **October 5–11. “He Hath Borne Our Griefs, and Carried Our Sorrows”: Isaiah 50–57** (lesson) *(explicit citation)*
+- **The Seer 1854-05 (Vol. 2 No. 5)** (history, 1854-05) *(explicit citation)*
 - **Family** (reference-entry) *(explicit citation)*
 - **Stake** (reference-entry) *(explicit citation)*
 - **Church Administration** (reference-entry) *(explicit citation)*
 - **December 14–20. “I Have Loved You, Saith the Lord”: Malachi** (lesson) *(explicit citation)*
 - **Chapter 22: Bringing Up Children in Light and Truth** (teachings) *(explicit citation)*
 - **Chapter 24: Righteous Living in Perilous Times** (teachings) *(explicit citation)*
+- **Chapter 23: ‘Strengthen Thy Stakes’** (teachings) *(explicit citation)*
+- **Chapter 11: Home—the Basis of a Righteous Life** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

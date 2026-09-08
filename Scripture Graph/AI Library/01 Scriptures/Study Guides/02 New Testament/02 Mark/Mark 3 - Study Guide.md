@@ -6,7 +6,7 @@ volume: New Testament
 book: Mark
 chapter: 3
 slug: mark-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -85,6 +85,7 @@ _Not yet developed._
 - **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
 - **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
 - **Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path** (lesson) *(explicit citation)*
+- **Chapter 16: The Sabbath—A Delight** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 6
 slug: prov-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -64,7 +64,9 @@ _Not yet developed._
 
 ## Church History
 <!-- SG:BEGIN history -->
-_Not yet developed._
+- **Chapter 17: Keeping the Law of Chastity** (teachings) *(explicit citation)*
+- **Chapter 18: We Believe in Being Honest** (teachings) *(explicit citation)*
+- **Chapter 12: Obedience: Simply Live the Gospel** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

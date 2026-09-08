@@ -6,7 +6,7 @@ volume: Old Testament
 book: Leviticus
 chapter: 26
 slug: lev-26
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -97,6 +97,8 @@ Judgment is severe, but it is not the chapter's final word. Confession and humil
 - **Obedience** (reference-entry) *(explicit citation)*
 - **Reverence** (reference-entry) *(explicit citation)*
 - **Confession** (reference-entry) *(explicit citation)*
+- **Chapter 16: The Sabbath—A Delight** (teachings) *(explicit citation)*
+- **Chapter 21: The Prophet Joseph Smith** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Moroni
 chapter: 1
 slug: moro-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -62,12 +62,15 @@ _Not yet developed._
 - [[Christ Is Risen; Faith in Him Will Move Mountains (President Russell M. Nelson, April 2021)|Christ Is Risen; Faith in Him Will Move Mountains]] — President Russell M. Nelson, 2021-April *(explicit citation)*
 - [[The Triumph of Hope (Elder Neil L. Andersen, October 2024)|The Triumph of Hope]] — Elder Neil L. Andersen, 2024-October *(explicit citation)*
 - [[Be Strong and of a Good Courage (President Thomas S. Monson, April 2014)|Be Strong and of a Good Courage]] — President Thomas S. Monson, 2014-April *(explicit citation)*
+- [[The Call for Courage (President Thomas S. Monson, April 2004)|The Call for Courage]] — President Thomas S. Monson, 2004-April *(explicit citation)*
 - [[Conference Report, April 1918 (General Conference (full report), April 1918)|Conference Report, April 1918]] — General Conference (full report), 1918-April *(explicit citation)*
+- [[The Dawning of a Brighter Day (President Gordon B. Hinckley, April 2004)|The Dawning of a Brighter Day]] — President Gordon B. Hinckley, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 10: Flooding the Earth and Our Lives with the Book of Mormon** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

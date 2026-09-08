@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 13
 slug: heb-13
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -82,6 +82,7 @@ Hebrews 13:11-13 also gives a concentrated account of [[Atonement of Jesus Chris
 - [[The Lord Jesus Christ Teaches Us to Minister (Elder Juan A. Uceda, April 2023)|The Lord Jesus Christ Teaches Us to Minister]] — Elder Juan A. Uceda, 2023-April *(explicit citation)*
 - [[The Love of God (Elder Benjamin M. Z. Tai, April 2025)|The Love of God]] — Elder Benjamin M. Z. Tai, 2025-April *(explicit citation)*
 - [[You Matter to Him (President Dieter F. Uchtdorf, October 2011)|You Matter to Him]] — President Dieter F. Uchtdorf, 2011-October *(explicit citation)*
+- [[Personal Priesthood Responsibility (Elder Russell M. Nelson, October 2003)|Personal Priesthood Responsibility]] — Elder Russell M. Nelson, 2003-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

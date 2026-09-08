@@ -6,7 +6,7 @@ volume: Old Testament
 book: Proverbs
 chapter: 23
 slug: prov-23
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -63,6 +63,7 @@ _Not yet developed._
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
 - [[A Royal Priesthood (President Thomas S. Monson, October 2007)|A Royal Priesthood]] — President Thomas S. Monson, 2007-October *(explicit citation)*
 - [[“The Great and Wonderful Love” (Elder Anthony D. Perkins, October 2006)|“The Great and Wonderful Love”]] — Elder Anthony D. Perkins, 2006-October *(explicit citation)*
+- [[If Ye Are Prepared Ye Shall Not Fear (President Thomas S. Monson, October 2004)|If Ye Are Prepared Ye Shall Not Fear]] — President Thomas S. Monson, 2004-October *(explicit citation)*
 - [[My Soul Delighteth in the Scriptures (Cheryl C. Lant, October 2005)|My Soul Delighteth in the Scriptures]] — Cheryl C. Lant, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -70,6 +71,8 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **Abuse** (reference-entry) *(explicit citation)*
 - **Chapter 23: Developing a Christlike Character** (teachings) *(explicit citation)*
+- **Chapter 17: Keeping the Law of Chastity** (teachings) *(explicit citation)*
+- **Chapter 18: Virtue—a Cornerstone on Which to Build Our Lives** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

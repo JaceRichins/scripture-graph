@@ -6,7 +6,7 @@ volume: Old Testament
 book: Exodus
 chapter: 21
 slug: ex-21
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

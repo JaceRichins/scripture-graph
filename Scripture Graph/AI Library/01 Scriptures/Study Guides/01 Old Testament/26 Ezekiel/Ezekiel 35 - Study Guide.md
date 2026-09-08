@@ -6,7 +6,7 @@ volume: Old Testament
 book: Ezekiel
 chapter: 35
 slug: ezek-35
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Malachi
 chapter: 2
 slug: mal-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ The closing complaint concerns [[Justice and Mercy]]. Rather than dismissing the
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[The Priesthood and the Savior’s Atoning Power (Elder Dale G. Renlund, October 2017)|The Priesthood and the Savior’s Atoning Power]] — Elder Dale G. Renlund, 2017-October *(explicit citation)*
+- [[Marriage and Family Our Sacred Responsibility (Elder W. Douglas Shumway, April 2004)|Marriage and Family: Our Sacred Responsibility]] — Elder W. Douglas Shumway, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

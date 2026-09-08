@@ -6,7 +6,7 @@ volume: New Testament
 book: Colossians
 chapter: 3
 slug: col-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -84,7 +84,10 @@ _Not yet developed._
 - [[You Can Do It Now! (President Dieter F. Uchtdorf, October 2013)|You Can Do It Now!]] — President Dieter F. Uchtdorf, 2013-October *(explicit citation)*
 - [[Charity Never Faileth (Silvia H. Allred, October 2011)|Charity Never Faileth]] — Silvia H. Allred, 2011-October *(explicit citation)*
 - [[Beware Concerning Yourselves (Elder Anthony D. Perkins, October 2012)|Beware Concerning Yourselves]] — Elder Anthony D. Perkins, 2012-October *(explicit citation)*
+- [[Forgiveness Will Change Bitterness to Love (Elder David E. Sorensen, April 2003)|Forgiveness Will Change Bitterness to Love]] — Elder David E. Sorensen, 2003-April *(explicit citation)*
+- [[Sweet Power of Prayer (Elder Russell M. Nelson, April 2003)|Sweet Power of Prayer]] — Elder Russell M. Nelson, 2003-April *(explicit citation)*
 - [[Eternal Families (President Henry B. Eyring, April 2016)|Eternal Families]] — President Henry B. Eyring, 2016-April *(explicit citation)*
+- [[And That’s the Way It Is (Bishop H. David Burton, April 2003)|And That’s the Way It Is]] — Bishop H. David Burton, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -97,6 +100,8 @@ _Not yet developed._
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
 - **Chapter 20: Agency: Choosing Life or Death** (teachings) *(explicit citation)*
 - **Chapter 16: The Noble Calling of Parents** (teachings) *(explicit citation)*
+- **Chapter 9: Forgiving Others with All Our Hearts** (teachings) *(explicit citation)*
+- **Chapter 14: ‘Thou Shalt Have No Other Gods before Me’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

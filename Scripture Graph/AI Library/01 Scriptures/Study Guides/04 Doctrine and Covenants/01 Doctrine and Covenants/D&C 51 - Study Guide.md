@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 51
 slug: dc-51
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -76,6 +76,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Stewardship—a Sacred Trust (Elder Quentin L. Cook, October 2009)|Stewardship—a Sacred Trust]] — Elder Quentin L. Cook, 2009-October *(explicit citation)*
 - [[“Ye Are My Friends” (Elder David L. Buckner, October 2024)|“Ye Are My Friends”]] — Elder David L. Buckner, 2024-October *(explicit citation)*
+- [[Preparation for the Second Coming (Elder Dallin H. Oaks, April 2004)|Preparation for the Second Coming]] — Elder Dallin H. Oaks, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -87,6 +88,7 @@ _Not yet developed._
 - **Stewardship** (reference-entry) *(explicit citation)*
 - **December 30–January 5: “The Promised Restoration Goes Forward”: The Restoration of the Fulness of the Gospel of Jesus Christ** (lesson) *(explicit citation)*
 - **Chapter 16: ‘That We May Become One’** (teachings) *(explicit citation)*
+- **Chapter 18: We Believe in Being Honest** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

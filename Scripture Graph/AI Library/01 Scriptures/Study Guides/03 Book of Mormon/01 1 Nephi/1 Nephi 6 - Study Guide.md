@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 6
 slug: 1ne-6
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -95,6 +95,7 @@ The chapter also presents sacred record keeping as purposeful and selective. Nep
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Scriptures** (reference-entry) *(explicit citation)*
 - **Chapter 9: Witnesses of the Book of Mormon** (teachings) *(explicit citation)*
+- **Chapter 22: Carrying the Gospel to the World** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

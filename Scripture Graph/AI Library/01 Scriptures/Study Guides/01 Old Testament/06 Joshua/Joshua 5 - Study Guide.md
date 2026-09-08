@@ -6,7 +6,7 @@ volume: Old Testament
 book: Joshua
 chapter: 5
 slug: josh-5
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -86,6 +86,7 @@ The chapter binds divine gift to human response: the LORD who gave manna in the 
 - **Circumcision** (reference-entry) *(explicit citation)*
 - **Feasts** (reference-entry) *(explicit citation)*
 - **A Compendium of the Doctrines of the Gospel** (history, 1884) *(explicit citation)*
+- **Chapter 15: The Sacrament of the Lord’s Supper** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

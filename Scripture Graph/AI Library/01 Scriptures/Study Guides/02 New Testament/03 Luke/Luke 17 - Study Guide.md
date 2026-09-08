@@ -6,7 +6,7 @@ volume: New Testament
 book: Luke
 chapter: 17
 slug: luke-17
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -70,8 +70,8 @@ Scripture: [[Luke 17]] · My notes: [[Luke 17 - My Notes]]
 <!-- SG:BEGIN topics -->
 - [[Gratitude]]
 - [[Repentance and Forgiveness]]
-- [[Kingdom of God]] *(keyword match — unconfirmed)*
 - [[Faith]] *(keyword match — unconfirmed)*
+- [[Kingdom of God]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

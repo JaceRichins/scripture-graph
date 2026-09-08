@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 12
 slug: 3ne-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,16 +100,16 @@ Verses 1–2 connect belief in Christ and the testimony of chosen witnesses with
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 24: A Christ-Centered Life** (teachings) *(explicit citation)*
 - **Peace and Violence among 19th-Century Latter-day Saints** (reference-entry) *(explicit citation)*
 - **Religion vs. Violence** (reference-entry) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 - **Chapter 24: ‘Let Your Light So Shine’** (teachings) *(explicit citation)*
 - **Commandments** (reference-entry) *(explicit citation)*
 - **Gift of the Holy Ghost** (reference-entry) *(explicit citation)*
 - **Prophets** (reference-entry) *(explicit citation)*
 - **Quorum of the Twelve Apostles** (reference-entry) *(explicit citation)*
 - **Sacrifice** (reference-entry) *(explicit citation)*
-- **Chastity** (reference-entry) *(explicit citation)*
-- **Beatitudes** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

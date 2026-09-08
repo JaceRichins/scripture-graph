@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 12
 slug: job-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -58,7 +58,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[The Golden Years (President Boyd K. Packer, April 2003)|The Golden Years]] — President Boyd K. Packer, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

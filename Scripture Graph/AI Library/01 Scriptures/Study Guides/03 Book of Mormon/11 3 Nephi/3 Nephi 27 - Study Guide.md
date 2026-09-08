@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 3 Nephi
 chapter: 27
 slug: 3ne-27
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -100,13 +100,13 @@ Church identity likewise involves more than a designation. Bearing Christ's name
 - **Gospel** (reference-entry) *(explicit citation)*
 - **Holy Ghost** (reference-entry) *(explicit citation)*
 - **Pornography** (reference-entry) *(explicit citation)*
+- **Chapter 24: Following the Example of Jesus Christ** (teachings) *(explicit citation)*
 - **Judgment** (reference-entry) *(explicit citation)*
 - **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
 - **Gospel** (reference-entry) *(explicit citation)*
+- **Chapter 6: Jesus Christ, Our Savior and Redeemer** (teachings) *(explicit citation)*
+- **Chapter 24: A Christ-Centered Life** (teachings) *(explicit citation)*
 - **Agency** (reference-entry) *(explicit citation)*
-- **Atonement of Jesus Christ** (reference-entry) *(explicit citation)*
-- **Fasting** (reference-entry) *(explicit citation)*
-- **Forgiveness** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 60
 slug: dc-60
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -78,6 +78,7 @@ Verses 2–3 tie [[Missionary Work]] to personal stewardship: hiding one's commi
 - [[Do Your Part with All Your Heart (Elder Dieter F. Uchtdorf, October 2025)|Do Your Part with All Your Heart]] — Elder Dieter F. Uchtdorf, 2025-October *(explicit citation)*
 - [[Waiting on the Road to Damascus (President Dieter F. Uchtdorf, April 2011)|Waiting on the Road to Damascus]] — President Dieter F. Uchtdorf, 2011-April *(explicit citation)*
 - [[Testimony (Elder Dallin H. Oaks, April 2008)|Testimony]] — Elder Dallin H. Oaks, 2008-April *(explicit citation)*
+- [[War and Peace (President Gordon B. Hinckley, April 2003)|War and Peace]] — President Gordon B. Hinckley, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
@@ -90,6 +91,8 @@ Verses 2–3 tie [[Missionary Work]] to personal stewardship: hiding one's commi
 - **April 27–May 3. “Holiness to the Lord”: Exodus 35–40; Leviticus 1; 4; 16; 19** (lesson) *(explicit citation)*
 - **Chapter 9: Proclaiming the Gospel** (teachings) *(explicit citation)*
 - **Chapter 12: Work and Self-Reliance** (teachings) *(explicit citation)*
+- **Chapter 7: Personal Testimony** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

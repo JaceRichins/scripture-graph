@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 147
 slug: ps-147
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -67,6 +67,7 @@ _Not yet developed._
 - [[The Healing Power of Jesus Christ (Cristina B. Franco, October 2020)|The Healing Power of Jesus Christ]] — Cristina B. Franco, 2020-October *(explicit citation)*
 - [[Have We Not Reason to Rejoice (Elder Dieter F. Uchtdorf, October 2007)|Have We Not Reason to Rejoice?]] — Elder Dieter F. Uchtdorf, 2007-October *(explicit citation)*
 - [[He Knows You by Name (Elaine S. Dalton, April 2005)|He Knows You by Name]] — Elaine S. Dalton, 2005-April *(explicit citation)*
+- [[Remember How Merciful the Lord Hath Been (Elder Neal A. Maxwell, April 2004)|Remember How Merciful the Lord Hath Been]] — Elder Neal A. Maxwell, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Doctrine and Covenants
 book: Doctrine and Covenants
 chapter: 61
 slug: dc-61
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -98,6 +98,7 @@ The conclusion joins watchfulness, sobriety, and [[Prayer]] with readiness for t
 - **Ezra Booth and Isaac Morley** (history) *(explicit citation)*
 - **Index by Section Number** (history) *(explicit citation)*
 - **Forgiveness** (reference-entry) *(explicit citation)*
+- **Chapter 4: The Miracle of Forgiveness** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

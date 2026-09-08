@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: 1 Nephi
 chapter: 15
 slug: 1ne-15
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -112,11 +112,11 @@ The closing argument links embodied conduct during probation with [[Final Judgme
 - **Thoughts to Keep in Mind: “Jesus Will Say to All Israel, ‘Come Home’”** (lesson) *(explicit citation)*
 - **March 16–22. “God Meant It unto Good”: Genesis 42–50** (lesson) *(explicit citation)*
 - **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 - **Book of Mormon** (reference-entry) *(explicit citation)*
 - **Endure to the End** (reference-entry) *(explicit citation)*
 - **Everlasting Covenant** (reference-entry) *(explicit citation)*
 - **Faith in Jesus Christ** (reference-entry) *(explicit citation)*
-- **First Vision** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

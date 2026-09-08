@@ -6,7 +6,7 @@ volume: New Testament
 book: Acts
 chapter: 12
 slug: acts-12
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -64,6 +64,7 @@ _Not yet developed._
 ## General Conference
 <!-- SG:BEGIN conference -->
 - [[Ministering (Elder Gerrit W. Gong, April 2023)|Ministering]] — Elder Gerrit W. Gong, 2023-April *(explicit citation)*
+- [[All Things Shall Work Together for Your Good (Susan W. Tanner, April 2004)|All Things Shall Work Together for Your Good]] — Susan W. Tanner, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

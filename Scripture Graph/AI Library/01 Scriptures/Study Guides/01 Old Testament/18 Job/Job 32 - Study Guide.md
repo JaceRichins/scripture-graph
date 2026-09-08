@@ -6,7 +6,7 @@ volume: Old Testament
 book: Job
 chapter: 32
 slug: job-32
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -55,6 +55,7 @@ _Not yet developed._
 <!-- SG:BEGIN conference -->
 - [[Restoring Faith in the Family (Elder Kenneth Johnson, April 2008)|Restoring Faith in the Family]] — Elder Kenneth Johnson, 2008-April *(explicit citation)*
 - [[Spiritual Nutrients (President James E. Faust, October 2006)|Spiritual Nutrients]] — President James E. Faust, 2006-October *(explicit citation)*
+- [[Jesus, the Very Thought of Thee (Bishop Keith B. McMullin, April 2004)|Jesus, the Very Thought of Thee]] — Bishop Keith B. McMullin, 2004-April *(explicit citation)*
 - [[Conference Report, October 1922 (General Conference (full report), October 1922)|Conference Report, October 1922]] — General Conference (full report), 1922-October *(explicit citation)*
 <!-- SG:END conference -->
 

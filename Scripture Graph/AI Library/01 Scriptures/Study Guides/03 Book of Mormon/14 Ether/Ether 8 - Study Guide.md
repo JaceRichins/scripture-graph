@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Ether
 chapter: 8
 slug: ether-8
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -90,10 +90,13 @@ Moroni's desired response is more than fear. He calls for [[Repentance]], moral 
 - [[Choose You This Day (Elder Dale G. Renlund, October 2018)|Choose You This Day]] — Elder Dale G. Renlund, 2018-October *(explicit citation)*
 - [[Prophets of God (Sister Andrea Muñoz Spannaus, October 2025)|Prophets of God]] — Sister Andrea Muñoz Spannaus, 2025-October *(explicit citation)*
 - [[A 12-Year-Old Deacon (Elder John M. Madsen, April 2008)|A 12-Year-Old Deacon]] — Elder John M. Madsen, 2008-April *(explicit citation)*
+- [[The Virtues of Righteous Daughters of God (President James E. Faust, April 2003)|The Virtues of Righteous Daughters of God]] — President James E. Faust, 2003-April *(explicit citation)*
+- [[Do Not Fear (President Boyd K. Packer, April 2004)|Do Not Fear]] — President Boyd K. Packer, 2004-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
 <!-- SG:BEGIN history -->
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 - **Cain** (reference-entry) *(explicit citation)*
 <!-- SG:END history -->
 

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Mosiah
 chapter: 1
 slug: mosiah-1
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -102,6 +102,7 @@ Second, **conditional covenant identity**: the new name Benjamin will give the p
 - **May 18–24. “Be Strong and of a Good Courage”: Joshua 1–8; 23–24** (lesson) *(explicit citation)*
 - **Chapter 13: Journals: ‘Of Far More Worth than Gold’** (teachings) *(explicit citation)*
 - **Chapter 16: Bringing Up Children in Light and Truth** (teachings) *(explicit citation)*
+- **Chapter 18: Beware of Pride** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 11
 slug: 2sam-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -57,8 +57,8 @@ The chapter moves through four scenes: (1) campaign and encounter, vv. 1–5 —
 - [[2 Samuel 12]]
 - [[Judges 9]]
 - [[Government and Laws]] *(keyword match — unconfirmed)*
-- [[War and Peace]] *(keyword match — unconfirmed)*
 - [[Marriage]] *(keyword match — unconfirmed)*
+- [[War and Peace]] *(keyword match — unconfirmed)*
 <!-- SG:END topics -->
 
 ## Doctrines & Principles

@@ -6,7 +6,7 @@ volume: Book of Mormon
 book: Helaman
 chapter: 11
 slug: hel-11
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -94,6 +94,7 @@ The chapter also mentions "points of doctrine which had been laid down by the pr
 ## Church History
 <!-- SG:BEGIN history -->
 - **Book of Mormon and DNA Studies** (reference-entry) *(explicit citation)*
+- **Chapter 23: ‘No Less Serviceable’** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

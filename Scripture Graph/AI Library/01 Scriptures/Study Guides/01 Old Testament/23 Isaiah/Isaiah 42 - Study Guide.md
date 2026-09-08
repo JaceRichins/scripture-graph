@@ -6,7 +6,7 @@ volume: Old Testament
 book: Isaiah
 chapter: 42
 slug: isa-42
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -83,6 +83,7 @@ _Not yet developed._
 - **September 28–October 4. “Comfort Ye My People”: Isaiah 40–49** (lesson) *(explicit citation)*
 - **Blindness** (reference-entry) *(explicit citation)*
 - **Chapter 35: Redemption for the Dead** (teachings) *(explicit citation)*
+- **Chapter 14: Hastening Family History and Temple Work** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

@@ -6,7 +6,7 @@ volume: Old Testament
 book: Genesis
 chapter: 41
 slug: gen-41
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -75,6 +75,7 @@ Joseph's statement in verse 16 models [[Humility]] by refusing to claim independ
 - [[There Was Bread (Bishop W. Christopher Waddell, October 2020)|There Was Bread]] — Bishop W. Christopher Waddell, 2020-October *(explicit citation)*
 - [[God Will Do Something Unimaginable (Elder Dieter F. Uchtdorf, October 2020)|God Will Do Something Unimaginable]] — Elder Dieter F. Uchtdorf, 2020-October *(explicit citation)*
 - [[“Hope Ya Know, We Had a Hard Time” (Elder Quentin L. Cook, October 2008)|“Hope Ya Know, We Had a Hard Time”]] — Elder Quentin L. Cook, 2008-October *(explicit citation)*
+- [[Earthly Debts, Heavenly Debts (Elder Joseph B. Wirthlin, April 2004)|Earthly Debts, Heavenly Debts]] — Elder Joseph B. Wirthlin, 2004-April *(explicit citation)*
 - [[If Ye Are Prepared Ye Shall Not Fear (President Gordon B. Hinckley, October 2005)|If Ye Are Prepared Ye Shall Not Fear]] — President Gordon B. Hinckley, 2005-October *(explicit citation)*
 <!-- SG:END conference -->
 
@@ -86,6 +87,7 @@ Joseph's statement in verse 16 models [[Humility]] by refusing to claim independ
 - **Daniel, book of** (reference-entry) *(explicit citation)*
 - **Ephraim** (reference-entry) *(explicit citation)*
 - **Chapter 20: Temporal Salvation for Ourselves and Others** (teachings) *(explicit citation)*
+- **Chapter 11: Provident Living: Applying Principles of Self-Reliance and Preparedness** (teachings) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

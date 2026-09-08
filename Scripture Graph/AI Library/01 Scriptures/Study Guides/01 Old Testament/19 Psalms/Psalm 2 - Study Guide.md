@@ -6,7 +6,7 @@ volume: Old Testament
 book: Psalms
 chapter: 2
 slug: ps-2
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -69,6 +69,7 @@ _Not yet developed._
 <!-- SG:BEGIN history -->
 - **August 17–23. “The Lord Is My Shepherd”: Psalms 1–2; 8; 19–33; 40; 46** (lesson) *(explicit citation)*
 - **Anointed One** (reference-entry) *(explicit citation)*
+- **The Gospel Reflector 1841-06-01 (Vol. 1 No. 11)** (history, 1841-06-01) *(explicit citation)*
 <!-- SG:END history -->
 
 ## Language & Text

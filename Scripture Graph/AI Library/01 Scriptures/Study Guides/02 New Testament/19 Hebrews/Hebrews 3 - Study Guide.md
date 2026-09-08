@@ -6,7 +6,7 @@ volume: New Testament
 book: Hebrews
 chapter: 3
 slug: heb-3
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -77,6 +77,7 @@ The chapter presents [[Jesus Christ (Gospel Topic)]] as the faithful Son over Go
 <!-- SG:BEGIN conference -->
 - [[Our Heavenly Guidance System (Elder Sergio R. Vargas, April 2025)|Our Heavenly Guidance System]] — Elder Sergio R. Vargas, 2025-April *(explicit citation)*
 - [[The Savior Wants to Forgive (Elder Craig A. Cardon, April 2013)|The Savior Wants to Forgive]] — Elder Craig A. Cardon, 2013-April *(explicit citation)*
+- [[Prophets, Seers, and Revelators (Elder Jeffrey R. Holland, October 2004)|Prophets, Seers, and Revelators]] — Elder Jeffrey R. Holland, 2004-October *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History

@@ -6,7 +6,7 @@ volume: Old Testament
 book: 2 Samuel
 chapter: 18
 slug: 2sam-18
-corpus_version_reviewed: 18
+corpus_version_reviewed: 22
 cssclasses:
 - sg-study
 ---
@@ -59,7 +59,7 @@ _Not yet developed._
 
 ## General Conference
 <!-- SG:BEGIN conference -->
-_Not yet developed._
+- [[Dear Are the Sheep That Have Wandered (President James E. Faust, April 2003)|Dear Are the Sheep That Have Wandered]] — President James E. Faust, 2003-April *(explicit citation)*
 <!-- SG:END conference -->
 
 ## Church History
