@@ -249,7 +249,7 @@ def resolve(ctx: Ctx, budget: int = 90) -> dict:
                     tr["church_by"] = ", ".join(a for a in other.get("artists", []) if a) or "Church recording"
                     stats["church"] = stats.get("church", 0) + 1
                     changed = True
-            if not ctx.c("music.youtube_lookups", False):
+            if not ctx.c("music.youtube_lookups", True):
                 continue                                   # headless: video ids are not collected
             if "url" not in tr and not in_book and _CLASSICAL.search(artist):
                 hit = commons_audio(title, artist)
