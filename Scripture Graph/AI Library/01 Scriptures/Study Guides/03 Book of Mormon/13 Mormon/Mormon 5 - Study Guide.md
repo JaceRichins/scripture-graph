@@ -115,7 +115,7 @@ Two metaphor clusters carry the chapter's second half. First, a shepherd-and-ves
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Literary Evidence
 > Verses 8–14 provide strong internal evidence that the chapter presents itself as consciously shaped sacred history: the narrator identifies selection, audience, preservation, divine command, and theological purpose.
-> — strength 0.7 · confidence 0.9 · affirmed, appropriately hedged · [[Internal Literary Evidence in Mormon 5|full dossier]]
+> — strength 0.8 · confidence 0.9 · affirmed, appropriately hedged · [[Internal Literary Evidence in Mormon 5|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

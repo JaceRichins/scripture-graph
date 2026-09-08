@@ -135,7 +135,7 @@ There is also an effective contrast between two interpretations of the same grou
 <!-- SG:BEGIN evidence -->
 > [!evidence] Institutional And Narrative Detail
 > Concrete details such as the baptismal formula, approximate membership, priest-to-member ratio, weekly assembly, priestly labor, and proportional relief give the account institutional specificity. These details support the interpretation that the narrator intends to portray a functioning community rather than baptism as an isolated ceremony.
-> — strength 0.8 · confidence 1.0 · Strongly supported interpretation; historical inference bounded · [[Institutional And Narrative Detail in Mosiah 18|full dossier]]
+> — confidence 1.0 · Strongly supported interpretation; historical inference bounded · [[Institutional And Narrative Detail in Mosiah 18|full dossier]]
 
 > [!evidence] Narrative And Literary Structure
 > The chapter presents a coherent progression from private preaching to covenant initiation, church organization, communal discipline, economic care, discovery, and flight. This strongly supports reading Mosiah 18 as a deliberately structured account of community formation under persecution.

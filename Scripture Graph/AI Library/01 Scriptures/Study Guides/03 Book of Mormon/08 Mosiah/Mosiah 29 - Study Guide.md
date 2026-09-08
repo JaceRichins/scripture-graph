@@ -120,7 +120,7 @@ Mosiah's written address uses conditional reasoning rather than a simple slogan:
 
 > [!evidence] Internal Institutional Description
 > The provisions for judging lower judges through a higher judge and higher judges through an assembly of lower judges provide strong internal textual evidence that Mosiah's proposal includes institutional accountability rather than bare majority rule.
-> — strength 0.8 · confidence 0.8 · framing needs softening per critique · [[Internal Institutional Description in Mosiah 29|full dossier]]
+> — confidence 0.8 · framing needs softening per critique · [[Internal Institutional Description in Mosiah 29|full dossier]]
 
 > [!evidence] Internal Textual Consistency *(tentative)*
 > Mosiah 29:46's running total (509 years from Lehi's departure to Mosiah's death) is one node in a chain of internal regnal-year notices recurring across Mosiah, Alma, and Helaman, showing the Nephite record maintains an internally consistent arithmetic chronology.

@@ -133,7 +133,7 @@ The chapter also forms a movement from boundaries to belonging: requirements gua
 <!-- SG:BEGIN evidence -->
 > [!evidence] Biblical English Intertextuality
 > The Hebrews 12:2 parallel strongly supports English biblical intertextuality in Moroni 6:4. It is much weaker as evidence for any particular authorship model because translation into a biblical register and direct modern literary dependence can both produce the same English phenomenon.
-> — strength 0.9 · confidence 1.0 · Strong methodological conclusion · [[Biblical English Intertextuality in Moroni 6|full dossier]]
+> — strength 0.8 · confidence 1.0 · Strong methodological conclusion · [[Biblical English Intertextuality in Moroni 6|full dossier]]
 
 > [!evidence] English Verbal And Sequential Correspondence
 > The extensive ordered correspondence between Moroni 6:1–3 and Doctrine and Covenants 20:37 is strong evidence of a direct textual relationship or deliberate reuse in their English forms. The observation itself is secure, while conclusions about the theological or historical mechanism remain disputed.

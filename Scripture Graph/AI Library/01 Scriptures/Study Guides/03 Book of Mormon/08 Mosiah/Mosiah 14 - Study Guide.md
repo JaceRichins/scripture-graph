@@ -92,7 +92,7 @@ The poem repeatedly overturns appearances. The servant lacks visible desirabilit
 <!-- SG:BEGIN evidence -->
 > [!evidence] Explicit Quotation And Textual Overlap
 > Mosiah 14 reproduces the twelve-verse sequence of Isaiah 53 in closely corresponding English and explicitly introduces it as Isaiah's words. This is conclusive evidence of an intended literary relationship between the two chapters.
-> — strength 0.9 · confidence 1.0 · broadly accepted · [[Explicit Quotation And Textual Overlap in Mosiah 14|full dossier]]
+> — strength 0.8 · confidence 1.0 · broadly accepted · [[Explicit Quotation And Textual Overlap in Mosiah 14|full dossier]]
 
 > [!evidence] Textual/Interpretive *(tentative)*
 > The identity of the 'servant' in this song is genuinely disputed in biblical scholarship: Christian tradition (ancient and modern) has predominantly read it as an individual, suffering Messiah, while much of the Jewish interpretive tradition has read the servant as a figure for Israel collectively, suffering among/for the nations. Abinadi's reading in Mosiah 15 is a messianic-individual reading consistent with the Christian tradition, but it does not settle the question for readers evaluating the text on independent historical-critical grounds.

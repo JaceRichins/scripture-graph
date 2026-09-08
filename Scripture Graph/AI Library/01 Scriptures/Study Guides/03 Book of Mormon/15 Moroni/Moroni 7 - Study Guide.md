@@ -129,7 +129,7 @@ Moroni 7:45-46 closely tracks the wording and clause order of [[1 Corinthians 13
 <!-- SG:BEGIN evidence -->
 > [!evidence] English-Language Intertextuality
 > Moroni 7:45-46 has a close verbal and sequential correspondence with the description of charity in 1 Corinthians 13:4-8. This strongly supports a literary relationship at the level of the English texts, while the direction and historical mechanism of that relationship remain disputed.
-> — strength 0.9 · confidence 0.9 · strong parallel, verse-range needs tightening · [[English-Language Intertextuality in Moroni 7|full dossier]]
+> — strength 0.8 · confidence 1.0 · strong parallel, verse-range needs tightening · [[English-Language Intertextuality in Moroni 7|full dossier]]
 
 > [!evidence] Narrative/Contextual Inference *(tentative)*
 > Mormon's cessationism polemic (miracles, angels, and the Holy Ghost's power have not ceased, and their absence signals unbelief rather than divine withdrawal of possibility) functions rhetorically within the narrative as commentary on the Nephites' own final apostasy and destruction, since Moroni compiled and preserved this sermon while witnessing the collapse of Nephite society and its associated loss of faith.

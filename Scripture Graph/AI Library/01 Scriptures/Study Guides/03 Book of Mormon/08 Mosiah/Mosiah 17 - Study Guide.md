@@ -111,7 +111,7 @@ Verse 4's detail that Alma "did write all the words which Abinadi had spoken" is
 
 > [!evidence] Behavior Under Lethal Coercion
 > As narrated, Abinadi's refusal to recant under threat and execution strongly supports the sincerity of his commitment to his message. Sincerity is distinct from the truth of the message.
-> — strength 0.7 · confidence 0.9 · sound; sincerity distinct from truth · [[Behavior Under Lethal Coercion in Mosiah 17|full dossier]]
+> — confidence 0.9 · sound; sincerity distinct from truth · [[Behavior Under Lethal Coercion in Mosiah 17|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

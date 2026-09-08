@@ -134,7 +134,7 @@ The comparison to the Jaredites in v. 23 makes [[Ether 15]] an explicit interpre
 
 > [!evidence] Explicit Intertextual Comparison
 > The Jaredite comparison is strong internal evidence that the Book of Mormon's final Nephite conflict is deliberately interpreted through an earlier destruction narrative.
-> — strength 0.9 · confidence 1.0 · broadly accepted · [[Explicit Intertextual Comparison in Moroni 9|full dossier]]
+> — confidence 1.0 · broadly accepted · [[Explicit Intertextual Comparison in Moroni 9|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

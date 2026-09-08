@@ -133,7 +133,7 @@ The conclusion echoes [[Isaiah 52]]: "publish peace," "good tidings," and "the L
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Narrative Coherence
 > The angel's appeal to the earlier bondage narratives supplies strong evidence of deliberate internal narrative coherence: past communal deliverance becomes the interpretive model for Alma's personal deliverance.
-> — strength 0.9 · confidence 0.9 · Internal coherence accepted; authorship significance limited · [[Internal Narrative Coherence in Mosiah 27|full dossier]]
+> — strength 0.8 · confidence 0.9 · Internal coherence accepted; authorship significance limited · [[Internal Narrative Coherence in Mosiah 27|full dossier]]
 
 > [!evidence] Scriptural Intertext
 > The closing description of publishing peace, bringing good tidings, and declaring that the Lord reigns is a strong verbal and thematic echo of Isaiah 52:7.

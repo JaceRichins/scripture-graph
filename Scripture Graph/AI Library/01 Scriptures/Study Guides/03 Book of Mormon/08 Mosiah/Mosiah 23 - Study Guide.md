@@ -130,7 +130,7 @@ The chapter also constructs an irony around kingship. Alma, a repentant former p
 
 > [!evidence] English Textual Dependence
 > Mosiah 23:13 closely parallels the English wording of Galatians 5:1. This is strong evidence that the Book of Mormon's English text participates in King James biblical diction, but the observation by itself cannot determine whether that diction arose through translation, conscious literary imitation, or another mode of composition.
-> — strength 0.9 · confidence 1.0 · English parallel accepted; causal interpretation disputed · [[English Textual Dependence in Mosiah 23|full dossier]]
+> — strength 0.8 · confidence 1.0 · English parallel accepted; causal interpretation disputed · [[English Textual Dependence in Mosiah 23|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

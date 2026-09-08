@@ -103,7 +103,7 @@ Two tensions organize the chapter. First, battlefield competence and moral legit
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Chronological Evidence
 > The sequence of named years, cities, retreats, renewed assaults, and record retrieval supplies a coherent internal chronology for the collapse narrated in Mormon 4.
-> — strength 0.9 · confidence 1.0 · Strong internal evidence only · [[Internal Chronological Evidence in Mormon 4|full dossier]]
+> — confidence 1.0 · Strong internal evidence only · [[Internal Chronological Evidence in Mormon 4|full dossier]]
 
 > [!evidence] Literary And Narrative Evidence
 > The close juxtaposition of theological judgment with concrete battlefield causes is strong evidence that Mormon 4 is written as theological historiography: its narrator selects and interprets military events to teach moral meaning while retaining practical explanations for outcomes.

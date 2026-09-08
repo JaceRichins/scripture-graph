@@ -122,7 +122,7 @@ Verses 18–20 widen from particular covenant groups to every soul before Christ
 <!-- SG:BEGIN evidence -->
 > [!evidence] Authorial Purpose And Audience
 > Mormon's repeated 'I write unto you' statements are strong textual evidence that this passage is consciously composed for future audiences and organized around persuasion, witness, repentance, and judgment rather than functioning as a bare military chronicle.
-> — strength 0.9 · confidence 1.0 · Strong evidence of stated literary purpose · [[Authorial Purpose And Audience in Mormon 3|full dossier]]
+> — confidence 1.0 · Strong evidence of stated literary purpose · [[Authorial Purpose And Audience in Mormon 3|full dossier]]
 
 > [!evidence] Narrative And Ethical Contrast *(tentative)*
 > The sequence supplies strong internal evidence that Mormon distinguishes defending territory from undertaking an offensive campaign motivated by pride and vengeance: he commands the earlier defense but refuses the later attack.

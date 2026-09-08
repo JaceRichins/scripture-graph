@@ -130,7 +130,7 @@ Verses 16 and 19 both use "child" language, though in ways that sit in some tens
 <!-- SG:BEGIN evidence -->
 > [!evidence] Internal Literary Evidence
 > The detailed sequence in verses 5-10 is strong internal evidence that the passage was deliberately constructed as a coherent prophecy of Jesus Christ. It is weak as independent evidence for the prophecy's historical antiquity because the text alone cannot adjudicate between supernatural foreknowledge, use of earlier Christian traditions, or composition informed by the New Testament.
-> — strength 0.3 · confidence 0.9 · correctly calibrated evidentiary claim · [[Internal Literary Evidence in Mosiah 3|full dossier]]
+> — strength 0.1 · confidence 1.0 · correctly calibrated evidentiary claim · [[Internal Literary Evidence in Mosiah 3|full dossier]]
 
 > [!evidence] Apologetic/Predictive-Prophecy Claim *(tentative)*
 > Mosiah 3 is presented, within Book of Mormon internal chronology, as an angelic prophecy delivered to King Benjamin roughly a century before Christ's birth, yet it specifically names 'Jesus Christ' and his mother 'Mary' (v.8). Believing readers cite this specificity as evidence of genuine predictive prophecy and ancient origin.
