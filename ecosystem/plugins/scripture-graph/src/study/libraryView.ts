@@ -17,6 +17,7 @@ import { cascade, iconHue, navIcon, type NavIconName } from "./navIcons";
 import { LIBRARY_SECTIONS, VOLUMES, titleForChapterSlug, type NavigatorHost } from "./navigator";
 import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } from "./search";
 import { AddSongModal, songsOn } from "./addSong";
+import { FamilyTree, loadTree } from "./familyTree";
 
 export const LIBRARY_VIEW = "sg-library";
 
@@ -31,7 +32,8 @@ type LibView =
   | { kind: "hymns"; book?: string }
   | { kind: "music" }
   | { kind: "playlist"; key: string; title: string }
-  | { kind: "folder"; path: string; title: string };
+  | { kind: "folder"; path: string; title: string }
+  | { kind: "family" };
 
 /** blur whatever is focused inside `root` and tell the layout the keyboard
  * is gone — Obsidian sizes the mobile workspace from keyboard events, and a
@@ -210,7 +212,8 @@ export class SGLibraryView extends ItemView {
             : v.kind === "graphs" ? "Graphs"
               : v.kind === "timelines" ? "Timelines"
                 : v.kind === "questions" ? "Hard Questions"
-                  : v.title;
+                  : v.kind === "family" ? "Family"
+                    : v.title;
   }
 
   private unsubs: (() => void)[] = [];
@@ -251,6 +254,7 @@ export class SGLibraryView extends ItemView {
     else if (v.kind === "hymns") void this.renderHymns(body, v.book);
     else if (v.kind === "music") void this.renderMusic(body);
     else if (v.kind === "playlist") void this.renderPlaylist(body, v.key);
+    else if (v.kind === "family") void this.renderFamily(body);
     else this.renderFolder(body, v.path);
   }
 
@@ -564,6 +568,32 @@ export class SGLibraryView extends ItemView {
     this.unsubs.push(this.host.music.on(() => { if (list.isConnected) render(); }));
   }
 
+  // ---------------------------------------------------------------- family
+
+  /** the pedigree, drawn from the engine's Family Tree note; the list of
+   * everyone is a tap away */
+  private async renderFamily(c: HTMLElement): Promise<void> {
+    c.createDiv({ cls: "sg-nav-progress", text: "Opening the family tree…" });
+    const data = await loadTree(this.app);
+    if (!c.isConnected) return;
+    c.empty();
+    if (!data || !data.roots.length) {
+      c.createDiv({ cls: "sg-nav-empty", text: "No family tree yet. On the laptop, run the engine's `family` command to bring in the ancestors." });
+      const row = c.createDiv({ cls: "sg-nav-row" });
+      navIcon(row, "folder");
+      row.createSpan({ cls: "sg-nav-name", text: "Family shelf" });
+      row.createSpan({ cls: "sg-nav-chev", text: "›" });
+      row.onclick = () => this.go({ kind: "folder", path: "AI Library/12 Family", title: "Family" });
+      return;
+    }
+    const tree = new FamilyTree({
+      app: this.app,
+      openNote: (link) => this.host.openNote(link),
+      openList: () => this.go({ kind: "folder", path: "AI Library/12 Family", title: "Family" }),
+    }, data, data.roots[0]!.pid);
+    tree.render(c.createDiv());
+  }
+
   // ------------------------------------------------------- did you notice?
 
   private insightPool: Insight[] | null = null;
@@ -798,7 +828,7 @@ export class SGLibraryView extends ItemView {
       const ref = c.createDiv({ cls: "sg-nav-covers" });
       for (const s of shelves) {
         this.cover(ref, { icon: s.icon, label: s.name,
-          onTap: () => this.go({ kind: "folder", path: s.path, title: s.name }) });
+          onTap: () => this.go(s.name === "Family" ? { kind: "family" } : { kind: "folder", path: s.path, title: s.name }) });
       }
     }
     // Music: hymns, the children's songs, the family's playlists

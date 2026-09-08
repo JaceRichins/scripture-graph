@@ -827,11 +827,31 @@ export default class SGPlugin extends Plugin {
     if (this.app.vault.getAbstractFileByPath(base)) return true;
     const path = this.vaultSync.pathFor(base);
     if (!path) return false;
-    const note = new Notice(`Fetching ${base.split("/").pop()}…`, 0);
+    const isPage = path.endsWith(".md");
+    const note = isPage ? new Notice(`Fetching ${base.split("/").pop()}…`, 0) : null;
     const ok = await this.vaultSync.fetchNow(path);
-    note.hide();
-    if (!ok) new Notice("Couldn't reach the family server for that page.");
+    note?.hide();
+    if (!ok) { if (isPage) new Notice("Couldn't reach the family server for that page."); return false; }
+    // a page's pictures and documents come with it — nothing heavier than
+    // what that one page shows, and only when someone opens it
+    if (isPage) void this.fetchEmbeds(path);
     return ok;
+  }
+
+  private async fetchEmbeds(path: string): Promise<void> {
+    const f = this.app.vault.getAbstractFileByPath(path);
+    if (!(f instanceof TFile)) return;
+    try {
+      const text = await this.app.vault.cachedRead(f);
+      const seen = new Set<string>();
+      for (const m of text.matchAll(/!\[\[([^\]|#]+)(?:[|#][^\]]*)?\]\]/g)) {
+        const target = m[1]!.trim();
+        if (seen.has(target) || this.app.metadataCache.getFirstLinkpathDest(target, path)) continue;
+        seen.add(target);
+        const p = this.vaultSync.pathFor(target);
+        if (p) await this.vaultSync.fetchNow(p);
+      }
+    } catch { /* the page still reads; pictures show as they arrive */ }
   }
 
   private navigatorHost(): NavigatorHost {
@@ -854,6 +874,7 @@ export default class SGPlugin extends Plugin {
         if (af instanceof TFolder) {
           for (const ch of af.children) {
             if (ch instanceof TFolder) {
+              if (ch.name.startsWith("_")) continue;          // _media and the like: plumbing, not a shelf
               folders.push({ name: ch.name, path: ch.path });
             } else if (ch instanceof TFile && ch.extension === "md"
               && !ch.basename.startsWith("_")) {

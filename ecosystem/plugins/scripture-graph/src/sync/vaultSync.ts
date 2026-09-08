@@ -137,7 +137,7 @@ export class VaultSync {
       if (!p.startsWith(prefix)) continue;
       const rest = p.slice(prefix.length);
       const cut = rest.indexOf("/");
-      if (cut >= 0) { const name = rest.slice(0, cut); if (!folders.has(name)) folders.set(name, prefix + name); continue; }
+      if (cut >= 0) { const name = rest.slice(0, cut); if (!name.startsWith("_") && !folders.has(name)) folders.set(name, prefix + name); continue; }
       if (!rest.endsWith(".md") || rest.startsWith("_")) continue;
       if (this.s.app.vault.getAbstractFileByPath(p)) continue;
       files.push({ name: rest.slice(0, -3), path: p });
@@ -156,7 +156,7 @@ export class VaultSync {
   /** the shared path for a page name ("1 Nephi 12 - Study Guide"), or a path as given */
   pathFor(nameOrPath: string): string | null {
     if (this.s.app.vault.getAbstractFileByPath(nameOrPath)) return nameOrPath;
-    const want = nameOrPath.endsWith(".md") ? nameOrPath : `${nameOrPath}.md`;
+    const want = /\.[a-z0-9]{2,5}$/i.test(nameOrPath) ? nameOrPath : `${nameOrPath}.md`;
     if (want.includes("/")) return this.manifestPaths.includes(want) ? want : null;
     const hit = this.manifestPaths.find(p => p.endsWith(`/${want}`));
     return hit ?? null;
