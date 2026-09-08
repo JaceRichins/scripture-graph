@@ -19,6 +19,13 @@ The opening frame ('the same God who worketh all in all... manifestations of the
 
 Notes: [[Textual Intertextuality in Moroni 10]]
 
+### bom-moroni7-1corinthians13-dependence
+**1 Corinthians 13 Dependence in Moroni 7's Charity Discourse** — *strong* (supports, discrimination 0.84) for: Moroni 7:45-46's charity description is directly, textually dependent on or mediated through 1 Corinthians 13:4-8, rather than an independently composed parallel.
+
+The extensive, ordered, near-verbatim correspondence across roughly eight to nine clauses of 1 Corinthians 13:4-8 strongly supports deliberate textual or KJV-shaped mediation in Moroni 7's final English text, comparable to the corpus's other tight multi-verse KJV/NT correspondences (bom-1nephi22-malachi4-dependence 0.84, bom-3nephi7-petrine-proverb-dependence 0.84, bom-ether4-mark16-intertext 0.8). It does not establish which translation, harmonization, or nineteenth-century composition mechanism produced the correspondence.
+
+Notes: [[English-Language Intertextuality in Moroni 7]]
+
 ### bom-2nephi7-isaiah50-variants
 **2 Nephi 7 Isaiah Variants as Evidence of a Distinct Ancient Vorlage** — *none* (supports, discrimination 0.1) for: The wording differences between 2 Nephi 7 and KJV Isaiah 50 (added 'O house of Israel' addresses in vv.2, 4, and the added 'strength of my mouth' clause in v.8) reflect access to a genuinely divergent ancient Hebrew text rather than translation-level, editorial, or modern KJV adaptation.
 
@@ -123,13 +130,6 @@ Notes: [[Literary Intertextuality in 3 Nephi 11]]
 The paired dog-and-sow imagery, preserved order, and close wording strongly support an English textual relationship with 2 Peter 2:22. Proverbs independently supports the antiquity of only half the proverb, so the evidence does not warrant a higher band or distinguish KJV-shaped translation from direct modern reuse.
 
 Notes: [[Intertextual Verbal Parallel in 3 Nephi 7]]
-
-### bom-isaiah-textual-dependence
-**Book of Mormon Isaiah-Chapter Dependence on the Isaiah/KJV Textual Tradition** — *strong* (supports, discrimination 0.84) for: The final English Book of Mormon Isaiah chapters depend on or are mediated through the Isaiah/KJV textual tradition.
-
-The sustained sequence and close English wording strongly support dependence on the Isaiah/KJV textual tradition. The correspondence does not distinguish ancient quotation rendered through biblical English, revelatory or editorial harmonization, and nineteenth-century adaptation, and individual chapters are not independent additions to this shared pattern.
-
-Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]] · [[Textual Correspondence in 2 Nephi 6]] · [[Textual Correspondence in 2 Nephi 7]] · [[Textual Correspondence in 2 Nephi 8]] · [[Textual Dependence in 2 Nephi 18]] · [[Textual Intertextuality in 2 Nephi 13]] · [[Textual Intertextuality in 2 Nephi 6]]
 
 ### bom-alma40-epistemic-persona
 **Calibrated epistemic persona construction in Alma 40** — *strong* (supports, discrimination 0.78) for: The four-way distinction in Alma 40 between reported angelic revelation, acknowledged divine mystery, immaterial chronological detail, and stated personal opinion constitutes deliberate construction of a careful, epistemically self-aware prophetic persona.
@@ -564,6 +564,13 @@ Notes: [[Textual Interrelationship in 3 Nephi 9]] · [[TextualLiterary in 3 Neph
 The matched good-and-evil contrast, paired resurrection outcomes, distinctive damnation wording, and preserved order strongly support a relationship between 3 Nephi 26:4-5 and John 5:28-29. Historical repetition, shared tradition, translation-level harmonization, revelatory expression, and modern adaptation remain viable mechanisms.
 
 Notes: [[Scriptural Intertextuality in 3 Nephi 26]] · [[TextualLinguistic Parallel in 3 Nephi 26]]
+
+### bom-isaiah-textual-dependence
+**KJV Isaiah Textual Dependence (Isaiah 53 in Mosiah 14)** — *strong* (supports, discrimination 0.84) for: Mosiah 14 (Abinadi's quotation of Isaiah) is directly textually dependent on, or mediated through, the King James rendering of Isaiah 53.
+
+The chapter-length, closely corresponding English text with explicit in-narrative attribution to Isaiah strongly supports a deliberate literary or translation-level relationship between Mosiah 14 and Isaiah 53, at the same weight already established for the corpus's broader Isaiah/KJV-mediation pattern (bom-isaiah-textual-dependence) rather than as independent additional evidence. It does not establish the translation mechanism, the historicity of an ancient Isaiah text on the plates, or the surrounding narrative's accuracy.
+
+Notes: [[Direct Textual Parallel in 2 Nephi 15]] · [[Explicit Quotation And Textual Overlap in Mosiah 14]] · [[Explicit Scriptural Intertext in 3 Nephi 22]] · [[Explicit Scriptural Quotation in 3 Nephi 16]] · [[Extended Literary Dependence in 1 Nephi 20]] · [[Extended Textual Parallel in 2 Nephi 17]] · [[Extended Textual Parallel in 2 Nephi 19]] · [[Historical And Chronological Specificity in 2 Nephi 18]] · [[Intertextual Dependence in 1 Nephi 21]] · [[Literary Dependence And Interpretation in 2 Nephi 27]] · [[Literary Dependence And Intertextuality in 2 Nephi 30]] · [[Mosiah 14 quotes Isaiah 53]] · [[Textual Correspondence in 2 Nephi 20]] · [[Textual Correspondence in 2 Nephi 21]] · [[Textual Correspondence in 2 Nephi 23]] · [[Textual Correspondence in 2 Nephi 6]] · [[Textual Correspondence in 2 Nephi 7]] · [[Textual Correspondence in 2 Nephi 8]] · [[Textual Dependence in 2 Nephi 18]] · [[Textual Intertextuality in 2 Nephi 13]]
 
 ### bom-jacob6-biblical-intertextuality
 **KJV-shaped biblical intertextuality in Jacob 6** — *strong* (supports, discrimination 0.62) for: Jacob 6 deliberately uses or is mediated through identifiable biblical formulations (Isaiah 11:11, Romans 10:21/Isaiah 65:2, Psalm 95:7-8, Matthew 7:13) in its final English form, rather than merely independent conventional religious idiom.
