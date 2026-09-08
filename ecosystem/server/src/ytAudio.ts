@@ -49,6 +49,15 @@ function resolve(id: string): Promise<string> {
   return p;
 }
 
+/** resolve now, stream later: the app asks for the NEXT track while this
+ * one plays, so the handoff at the end is instant */
+export async function ytAudioReady(req: FastifyRequest, reply: FastifyReply): Promise<unknown> {
+  const id = String((req.query as { v?: unknown })?.v ?? "");
+  if (!/^[A-Za-z0-9_-]{11}$/.test(id)) return reply.code(400).send({ error: "v: a YouTube id" });
+  try { await resolve(id); return { ok: true }; }
+  catch (e) { return reply.code(502).send({ ok: false, error: (e as Error).message }); }
+}
+
 export async function ytAudio(req: FastifyRequest, reply: FastifyReply): Promise<unknown> {
   const id = String((req.query as { v?: unknown })?.v ?? "");
   if (!/^[A-Za-z0-9_-]{11}$/.test(id)) return reply.code(400).send({ error: "v: a YouTube id" });

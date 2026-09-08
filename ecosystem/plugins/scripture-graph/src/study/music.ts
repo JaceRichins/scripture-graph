@@ -12,7 +12,7 @@
  *              plays here and keeps playing while you move around the app.
  *
  * Nothing ever leaves the app. */
-import { App, Menu, Notice, setIcon } from "obsidian";
+import { App, Menu, Notice, requestUrl, setIcon } from "obsidian";
 import type { Spotify } from "./spotify";
 
 export type Service = "spotify" | "apple" | "youtube";
@@ -163,13 +163,15 @@ export class MusicPlayer {
 
   stop(): void {
     this.teardownEngines(true);
+    if (this.audio) { this.audio.removeAttribute("src"); this.audio.load(); }
     this.queue = []; this.index = -1; this.paused = false; this.mode = null;
     document.body.removeClass("sg-player-on");
     this.emit();
   }
 
   private teardownEngines(all = false): void {
-    this.audio?.pause(); this.audio = null;
+    this.audio?.pause();
+    this.audioFallback = null;
     if (all && this.frame) { this.frame.remove(); this.frame = null; this.frameReady = false; }
     if (all) this.video?.hide();
     if (this.spotifyPoll) { window.clearInterval(this.spotifyPoll); this.spotifyPoll = null; }
@@ -192,6 +194,7 @@ export class MusicPlayer {
     else if (engine === "youtube") this.startYouTube(it.yt!);
     else await this.startSpotify(it);
     this.mediaSession(it);
+    this.prewarm();
     this.emit();
   }
 
@@ -212,18 +215,45 @@ export class MusicPlayer {
   }
 
   // ------------------------------------------------------------- audio
-  private startAudio(url: string, fallback?: () => void): void {
-    const a = new Audio(url);
-    this.audio = a;
-    a.onended = () => { if (this.audio === a) this.step(1); };
+  private audioFallback: (() => void) | null = null;
+
+  /** ONE audio element for the whole session. iOS lets an element that is
+   * already playing carry on with the screen off, and lets it move to the
+   * next song from its own `ended` event; a fresh element per song needs a
+   * finger on the screen, which is the silence after the first track. */
+  private audioEl(): HTMLAudioElement {
+    if (this.audio) return this.audio;
+    const a = new Audio();
+    a.preload = "auto";
+    a.setAttribute("playsinline", "true");
+    a.onended = () => { if (this.mode === "audio" && this.audio === a) this.step(1); };
     a.onerror = () => {
-      if (this.audio !== a) return;
-      this.audio = null;
-      if (fallback) { fallback(); return; }
+      if (this.mode !== "audio" || this.audio !== a || !a.getAttribute("src")) return;
+      const fb = this.audioFallback; this.audioFallback = null;
+      if (fb) { fb(); return; }
       new Notice("That recording would not play."); this.step(1);
     };
     a.ontimeupdate = () => { if (this.audio === a && this.progress && a.duration) this.progress.style.width = `${(a.currentTime / a.duration) * 100}%`; };
+    this.audio = a;
+    return a;
+  }
+
+  private startAudio(url: string, fallback?: () => void): void {
+    const a = this.audioEl();
+    this.audioFallback = fallback ?? null;
+    if (this.progress) this.progress.style.width = "0%";
+    a.src = url;
+    a.load();
     void a.play().catch(() => new Notice("Tap again to start playback."));
+  }
+
+  /** the song after this one: have the server find its stream now, so the
+   * end of this song hands over without a wait */
+  private prewarm(): void {
+    const next = this.queue[this.index + 1];
+    if (!next?.yt || !next.preferVideo || next.video || !this.opts.serverUrl() || !this.opts.youtubeEnabled()) return;
+    const base = this.opts.serverUrl().replace(/\/$/, "");
+    void requestUrl({ url: `${base}/yt/audio/ready?v=${encodeURIComponent(next.yt)}`, throw: false }).catch(() => { /* later, then */ });
   }
 
   // ----------------------------------------------------------- youtube

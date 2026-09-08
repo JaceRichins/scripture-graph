@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.34 build efe38cb03 2026-09-08T12:56:42Z */
+/* scripture-graph v0.72.35 build c1eb5bdb9 2026-09-08T13:13:50Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.34", sha: "efe38cb03", at: "2026-09-08T12:56:42Z" };
+    define_SG_BUILD_default = { version: "0.72.35", sha: "c1eb5bdb9", at: "2026-09-08T13:13:50Z" };
   }
 });
 
@@ -17616,6 +17616,10 @@ var MusicPlayer = class {
   }
   stop() {
     this.teardownEngines(true);
+    if (this.audio) {
+      this.audio.removeAttribute("src");
+      this.audio.load();
+    }
     this.queue = [];
     this.index = -1;
     this.paused = false;
@@ -17625,7 +17629,7 @@ var MusicPlayer = class {
   }
   teardownEngines(all = false) {
     this.audio?.pause();
-    this.audio = null;
+    this.audioFallback = null;
     if (all && this.frame) {
       this.frame.remove();
       this.frame = null;
@@ -17657,6 +17661,7 @@ var MusicPlayer = class {
     } else if (engine === "youtube") this.startYouTube(it.yt);
     else await this.startSpotify(it);
     this.mediaSession(it);
+    this.prewarm();
     this.emit();
   }
   /** the lock screen and earbuds: what's playing, and play/pause/next/prev */
@@ -17684,17 +17689,25 @@ var MusicPlayer = class {
     }
   }
   // ------------------------------------------------------------- audio
-  startAudio(url, fallback) {
-    const a2 = new Audio(url);
-    this.audio = a2;
+  audioFallback = null;
+  /** ONE audio element for the whole session. iOS lets an element that is
+   * already playing carry on with the screen off, and lets it move to the
+   * next song from its own `ended` event; a fresh element per song needs a
+   * finger on the screen, which is the silence after the first track. */
+  audioEl() {
+    if (this.audio) return this.audio;
+    const a2 = new Audio();
+    a2.preload = "auto";
+    a2.setAttribute("playsinline", "true");
     a2.onended = () => {
-      if (this.audio === a2) this.step(1);
+      if (this.mode === "audio" && this.audio === a2) this.step(1);
     };
     a2.onerror = () => {
-      if (this.audio !== a2) return;
-      this.audio = null;
-      if (fallback) {
-        fallback();
+      if (this.mode !== "audio" || this.audio !== a2 || !a2.getAttribute("src")) return;
+      const fb = this.audioFallback;
+      this.audioFallback = null;
+      if (fb) {
+        fb();
         return;
       }
       new import_obsidian30.Notice("That recording would not play.");
@@ -17703,7 +17716,25 @@ var MusicPlayer = class {
     a2.ontimeupdate = () => {
       if (this.audio === a2 && this.progress && a2.duration) this.progress.style.width = `${a2.currentTime / a2.duration * 100}%`;
     };
+    this.audio = a2;
+    return a2;
+  }
+  startAudio(url, fallback) {
+    const a2 = this.audioEl();
+    this.audioFallback = fallback ?? null;
+    if (this.progress) this.progress.style.width = "0%";
+    a2.src = url;
+    a2.load();
     void a2.play().catch(() => new import_obsidian30.Notice("Tap again to start playback."));
+  }
+  /** the song after this one: have the server find its stream now, so the
+   * end of this song hands over without a wait */
+  prewarm() {
+    const next = this.queue[this.index + 1];
+    if (!next?.yt || !next.preferVideo || next.video || !this.opts.serverUrl() || !this.opts.youtubeEnabled()) return;
+    const base = this.opts.serverUrl().replace(/\/$/, "");
+    void (0, import_obsidian30.requestUrl)({ url: `${base}/yt/audio/ready?v=${encodeURIComponent(next.yt)}`, throw: false }).catch(() => {
+    });
   }
   // ----------------------------------------------------------- youtube
   /** the player page on the family server hosts YouTube's player; we talk to
