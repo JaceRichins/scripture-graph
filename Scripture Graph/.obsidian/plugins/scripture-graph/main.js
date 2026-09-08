@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.21 build 56a25172 2026-09-08T03:31:41Z */
+/* scripture-graph v0.72.22 build 95b18067e 2026-09-08T11:15:16Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.21", sha: "56a25172", at: "2026-09-08T03:31:41Z" };
+    define_SG_BUILD_default = { version: "0.72.22", sha: "95b18067e", at: "2026-09-08T11:15:16Z" };
   }
 });
 
@@ -16772,6 +16772,8 @@ var MusicPlayer = class {
   bar = null;
   video = null;
   frame = null;
+  tab = null;
+  tucked = false;
   frameReady = false;
   progress = null;
   listeners = /* @__PURE__ */ new Set();
@@ -17053,6 +17055,12 @@ var MusicPlayer = class {
     this.video.hide();
     this.bar = wrap.createDiv({ cls: "sg-player" });
     this.makeDraggable(this.video);
+    this.tab = wrap.createEl("button", { cls: "sg-player-tab", text: "\u2039", attr: { "aria-label": "Show video" } });
+    this.tab.onclick = (e) => {
+      e.stopPropagation();
+      this.setTucked(false);
+    };
+    if (window.localStorage.getItem("sg-video-tucked") === "1") this.setTucked(true, true);
     this.paint();
   }
   /** the video window goes wherever the finger puts it (a drag handle rides
@@ -17101,20 +17109,20 @@ var MusicPlayer = class {
     win.style.left = `${x3}px`;
     win.style.top = `${y3}px`;
   }
-  /** ⌃ on the bar: tuck the window into the top corner, or bring it home */
+  /** › on the bar: slide the video off the right edge of the screen, leaving
+   * a chevron tab (the sound keeps playing); ‹ on the tab brings it back */
   tuckVideo() {
+    this.setTucked(!this.tucked);
+  }
+  setTucked(on, silent = false) {
     const win = this.video;
     if (!win) return;
-    if (win.hasClass("sg-player-free") && (win.style.top || "").startsWith("4px")) {
-      win.removeClass("sg-player-free");
-      win.style.left = "";
-      win.style.top = "";
-      window.localStorage.removeItem("sg-video-pos");
-    } else {
-      this.placeVideo(win, window.innerWidth - (win.offsetWidth || 200) - 4, 4);
-      const r = win.getBoundingClientRect();
-      window.localStorage.setItem("sg-video-pos", JSON.stringify({ x: r.left, y: r.top }));
-    }
+    this.tucked = on;
+    win.toggleClass("sg-player-tucked", on);
+    this.tab?.toggleClass("sg-player-tab-on", on && this.mode === "youtube");
+    if (on) window.localStorage.setItem("sg-video-tucked", "1");
+    else window.localStorage.removeItem("sg-video-tucked");
+    if (!silent) this.paint();
   }
   destroy() {
     this.stop();
@@ -17122,6 +17130,7 @@ var MusicPlayer = class {
     this.bar?.parentElement?.remove();
     this.bar = null;
     this.video = null;
+    this.tab = null;
   }
   paint() {
     const bar = this.bar;
@@ -17134,6 +17143,7 @@ var MusicPlayer = class {
     }
     bar.parentElement?.show();
     if (this.mode !== "youtube") this.video?.hide();
+    this.tab?.toggleClass("sg-player-tab-on", this.tucked && this.mode === "youtube");
     const line = bar.createDiv({ cls: "sg-player-line" });
     this.progress = line.createDiv({ cls: "sg-player-prog" });
     if (it.art && this.mode !== "youtube") {
@@ -17142,7 +17152,7 @@ var MusicPlayer = class {
     }
     const meta = bar.createDiv({ cls: "sg-player-meta" });
     meta.createDiv({ cls: "sg-player-title", text: it.title });
-    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : this.mode === "youtube" ? "YouTube \xB7 tap to enlarge" : it.sub });
+    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : this.mode === "youtube" ? this.tucked ? "YouTube \xB7 video tucked away" : "YouTube \xB7 tap to enlarge" : it.sub });
     if (this.mode === "youtube") meta.onclick = () => bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big"));
     else if (it.open) meta.onclick = it.open;
     const btn = (label, cls, fn) => {
@@ -17152,7 +17162,7 @@ var MusicPlayer = class {
         fn();
       };
     };
-    if (this.mode === "youtube") btn("\u2303", "sg-player-tuck", () => this.tuckVideo());
+    if (this.mode === "youtube") btn(this.tucked ? "\u2039" : "\u203A", "sg-player-tuck", () => this.tuckVideo());
     btn("\u23EE", "", () => this.prev());
     btn(this.paused ? "\u25B6" : "\u23F8", "sg-player-main", () => this.toggle());
     btn("\u23ED", "", () => this.next());

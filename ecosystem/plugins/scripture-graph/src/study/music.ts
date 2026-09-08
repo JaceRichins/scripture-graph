@@ -47,6 +47,8 @@ export class MusicPlayer {
   private bar: HTMLElement | null = null;
   private video: HTMLElement | null = null;
   private frame: HTMLIFrameElement | null = null;
+  private tab: HTMLElement | null = null;
+  private tucked = false;
   private frameReady = false;
   private progress: HTMLElement | null = null;
   private listeners = new Set<() => void>();
@@ -256,6 +258,11 @@ export class MusicPlayer {
     this.video.hide();
     this.bar = wrap.createDiv({ cls: "sg-player" });
     this.makeDraggable(this.video);
+    // the edge tab: what's left of the video once it slides off the right
+    // side of the screen; tap it to slide the video back
+    this.tab = wrap.createEl("button", { cls: "sg-player-tab", text: "‹", attr: { "aria-label": "Show video" } });
+    this.tab.onclick = (e) => { e.stopPropagation(); this.setTucked(false); };
+    if (window.localStorage.getItem("sg-video-tucked") === "1") this.setTucked(true, true);
     this.paint();
   }
 
@@ -295,24 +302,25 @@ export class MusicPlayer {
     win.style.left = `${x}px`; win.style.top = `${y}px`;
   }
 
-  /** ⌃ on the bar: tuck the window into the top corner, or bring it home */
-  private tuckVideo(): void {
+  /** › on the bar: slide the video off the right edge of the screen, leaving
+   * a chevron tab (the sound keeps playing); ‹ on the tab brings it back */
+  private tuckVideo(): void { this.setTucked(!this.tucked); }
+
+  private setTucked(on: boolean, silent = false): void {
     const win = this.video;
     if (!win) return;
-    if (win.hasClass("sg-player-free") && (win.style.top || "").startsWith("4px")) {
-      win.removeClass("sg-player-free"); win.style.left = ""; win.style.top = "";
-      window.localStorage.removeItem("sg-video-pos");
-    } else {
-      this.placeVideo(win, window.innerWidth - (win.offsetWidth || 200) - 4, 4);
-      const r = win.getBoundingClientRect();
-      window.localStorage.setItem("sg-video-pos", JSON.stringify({ x: r.left, y: r.top }));
-    }
+    this.tucked = on;
+    win.toggleClass("sg-player-tucked", on);
+    this.tab?.toggleClass("sg-player-tab-on", on && this.mode === "youtube");
+    if (on) window.localStorage.setItem("sg-video-tucked", "1");
+    else window.localStorage.removeItem("sg-video-tucked");
+    if (!silent) this.paint();
   }
 
   destroy(): void {
     this.stop();
     window.removeEventListener("message", this.onFrameMessage);
-    this.bar?.parentElement?.remove(); this.bar = null; this.video = null;
+    this.bar?.parentElement?.remove(); this.bar = null; this.video = null; this.tab = null;
   }
 
   private paint(): void {
@@ -323,19 +331,20 @@ export class MusicPlayer {
     if (!it || !this.mode) { bar.parentElement?.hide(); return; }
     bar.parentElement?.show();
     if (this.mode !== "youtube") this.video?.hide();
+    this.tab?.toggleClass("sg-player-tab-on", this.tucked && this.mode === "youtube");
     const line = bar.createDiv({ cls: "sg-player-line" });
     this.progress = line.createDiv({ cls: "sg-player-prog" });
     if (it.art && this.mode !== "youtube") { const img = bar.createEl("img", { cls: "sg-player-art" }); img.src = it.art; }
     const meta = bar.createDiv({ cls: "sg-player-meta" });
     meta.createDiv({ cls: "sg-player-title", text: it.title });
-    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : this.mode === "youtube" ? "YouTube · tap to enlarge" : it.sub });
+    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : this.mode === "youtube" ? (this.tucked ? "YouTube · video tucked away" : "YouTube · tap to enlarge") : it.sub });
     if (this.mode === "youtube") meta.onclick = () => bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big"));
     else if (it.open) meta.onclick = it.open;
     const btn = (label: string, cls: string, fn: () => void) => {
       const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, text: label });
       b.onclick = (e) => { e.stopPropagation(); fn(); };
     };
-    if (this.mode === "youtube") btn("⌃", "sg-player-tuck", () => this.tuckVideo());
+    if (this.mode === "youtube") btn(this.tucked ? "‹" : "›", "sg-player-tuck", () => this.tuckVideo());
     btn("⏮", "", () => this.prev());
     btn(this.paused ? "▶" : "⏸", "sg-player-main", () => this.toggle());
     btn("⏭", "", () => this.next());
