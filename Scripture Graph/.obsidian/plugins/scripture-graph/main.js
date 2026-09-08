@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.44 build 0d6f4ee57 2026-09-08T22:41:21Z */
+/* scripture-graph v0.72.45 build b2b7bbdbe 2026-09-08T22:48:51Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.44", sha: "0d6f4ee57", at: "2026-09-08T22:41:21Z" };
+    define_SG_BUILD_default = { version: "0.72.45", sha: "b2b7bbdbe", at: "2026-09-08T22:48:51Z" };
   }
 });
 
@@ -20682,11 +20682,19 @@ var SGPlugin = class extends import_obsidian38.Plugin {
       }
       if (this.syncedOffered === disk) return;
       this.syncedOffered = disk;
+      const reload = () => this.app.commands?.executeCommandById?.("app:reload");
+      const active = this.app.workspace.activeLeaf?.view;
+      const reading = !!active && (active.getViewType() === "markdown" || active.getViewType() === DOC_VIEW || active.getViewType() === READER_VIEW);
+      if (!reading) {
+        new import_obsidian38.Notice(`Scripture Graph v${disk} \u2014 reloading\u2026`, 4e3);
+        window.setTimeout(reload, 600);
+        return;
+      }
       const n = new import_obsidian38.Notice(`Scripture Graph v${disk} arrived by sync \u2014 tap to finish updating`, 0);
       n.noticeEl.addClass("sg-update-notice");
       n.noticeEl.addEventListener("click", () => {
         n.hide();
-        this.app.commands?.executeCommandById?.("app:reload");
+        reload();
       });
     } catch {
       if (!silent) new import_obsidian38.Notice("Couldn't read the plugin folder to check for an update");

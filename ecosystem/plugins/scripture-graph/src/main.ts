@@ -611,15 +611,22 @@ export default class SGPlugin extends Plugin {
       }
       if (this.syncedOffered === disk) return;   // already asked, once is enough
       this.syncedOffered = disk;
+      const reload = () => (this.app as unknown as { commands?: { executeCommandById?: (id: string) => void } })
+        .commands?.executeCommandById?.("app:reload");
+      // nobody is mid-verse (the Library, a shelf, an empty tab): finish now.
+      // Otherwise the stylesheet is already new while the code is old, and
+      // the app looks half-updated until someone taps
+      const active = this.app.workspace.activeLeaf?.view;
+      const reading = !!active && (active.getViewType() === "markdown" || active.getViewType() === DOC_VIEW || active.getViewType() === READER_VIEW);
+      if (!reading) {
+        new Notice(`Scripture Graph v${disk} — reloading…`, 4000);
+        window.setTimeout(reload, 600);
+        return;
+      }
       // a reload mid-verse is rude: offer it, never force it
       const n = new Notice(`Scripture Graph v${disk} arrived by sync — tap to finish updating`, 0);
       n.noticeEl.addClass("sg-update-notice");
-      n.noticeEl.addEventListener("click", () => {
-        n.hide();
-        (this.app as unknown as {
-          commands?: { executeCommandById?: (id: string) => void };
-        }).commands?.executeCommandById?.("app:reload");
-      });
+      n.noticeEl.addEventListener("click", () => { n.hide(); reload(); });
     } catch {
       if (!silent) new Notice("Couldn't read the plugin folder to check for an update");
     }
