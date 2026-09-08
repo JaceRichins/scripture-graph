@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.20 build a92b30f1 2026-09-08T02:04:31Z */
+/* scripture-graph v0.72.21 build 56a25172 2026-09-08T03:31:41Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.20", sha: "a92b30f1", at: "2026-09-08T02:04:31Z" };
+    define_SG_BUILD_default = { version: "0.72.21", sha: "56a25172", at: "2026-09-08T03:31:41Z" };
   }
 });
 
@@ -14464,13 +14464,14 @@ function footnotesFor(app, chapterTitle2) {
   return p;
 }
 var FootnotesModal = class extends import_obsidian14.Modal {
-  constructor(s, chapterTitle2, verse, notes, sourcePath) {
+  constructor(s, chapterTitle2, verse, notes, sourcePath, focus) {
     super(s.app);
     this.s = s;
     this.chapterTitle = chapterTitle2;
     this.verse = verse;
     this.notes = notes;
     this.sourcePath = sourcePath;
+    this.focus = focus;
   }
   onOpen() {
     this.modalEl.addClass("sg-lib-modal");
@@ -14480,6 +14481,7 @@ var FootnotesModal = class extends import_obsidian14.Modal {
     c2.createDiv({ cls: "sg-fn-sub", text: "Footnotes" });
     for (const n of this.notes) {
       const row = c2.createDiv({ cls: "sg-fn-row" });
+      if (this.focus && n === this.focus) row.addClass("sg-fn-row-on");
       row.createSpan({ cls: "sg-fn-marker", text: n.m.replace(/^\d+/, "") || n.m });
       const body = row.createDiv({ cls: "sg-fn-body" });
       if (n.x) body.createDiv({ cls: "sg-fn-text", text: n.x });
@@ -14529,8 +14531,11 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
       for (const { p, verseId } of paragraphs) {
         const n = verseId.slice(slug.length + 1);
         const notes = fn[n];
-        if (!notes?.length || p.querySelector(".sg-fn-chip")) continue;
-        const letters = notes.map((x3) => x3.m.replace(/^\d+/, "")).filter(Boolean).slice(0, 4).join("");
+        if (!notes?.length || p.querySelector(".sg-fn-chip, .sg-fn-mark")) continue;
+        const placed = placeMarkers(p, notes, (note) => new FootnotesModal(s, chapterTitle0, n, notes, ctx.sourcePath, note).open());
+        const rest = notes.filter((x3) => !placed.has(x3));
+        if (!rest.length) continue;
+        const letters = rest.map((x3) => x3.m.replace(/^\d+/, "")).filter(Boolean).slice(0, 4).join("");
         const chip = p.createSpan({ cls: "sg-fn-chip", text: letters || "\u1D43" });
         chip.setAttr("aria-label", `${notes.length} footnote${notes.length === 1 ? "" : "s"}`);
         chip.onclick = (e) => {
@@ -14698,6 +14703,57 @@ function buildSelectionMenu(s, svc, hit, openAsk) {
     openAsk(hit.selected ? `About "${hit.selected}" \u2014 ` : "", hit.verseId);
   }));
   return menu;
+}
+function placeMarkers(p, notes, onTap) {
+  const placed = /* @__PURE__ */ new Set();
+  const anchored = notes.filter((x3) => typeof x3.o === "number" && x3.w).sort((a2, b) => (b.o ?? 0) - (a2.o ?? 0));
+  if (!anchored.length) return placed;
+  const walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
+  const nodes = [];
+  let seenNumber = false;
+  for (let tn = walker.nextNode(); tn; tn = walker.nextNode()) {
+    const parentEl = tn.parentElement;
+    if (!seenNumber) {
+      if (parentEl && parentEl.tagName === "STRONG" && /^\s*\d+\s*$/.test(tn.data)) {
+        seenNumber = true;
+        continue;
+      }
+      if (parentEl?.closest(".sg-fn-chip, .sg-conn-chip, .sg-theme-chips")) continue;
+    }
+    if (parentEl?.closest(".sg-fn-chip, .sg-conn-chip")) continue;
+    nodes.push(tn);
+  }
+  if (!nodes.length) return placed;
+  let lead = nodes[0].data.match(/^\s*/)?.[0].length ?? 0;
+  for (const note of anchored) {
+    let target = (note.o ?? 0) + lead;
+    let hit = null;
+    for (const tn of nodes) {
+      if (target <= tn.data.length) {
+        hit = tn;
+        break;
+      }
+      target -= tn.data.length;
+    }
+    if (!hit) continue;
+    const around = hit.data.slice(Math.max(0, target - 2), target + (note.w?.length ?? 0) + 2).toLowerCase();
+    const w = (note.w ?? "").toLowerCase().slice(0, 6);
+    if (w && !around.includes(w.slice(0, Math.min(4, w.length)))) continue;
+    const tail = hit.splitText(target);
+    const sup = document.createElement("sup");
+    sup.className = "sg-fn-mark";
+    sup.textContent = note.m.replace(/^\d+/, "") || "a";
+    sup.setAttribute("aria-label", `footnote ${sup.textContent}`);
+    sup.onclick = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      onTap(note);
+    };
+    tail.parentNode?.insertBefore(sup, tail);
+    placed.add(note);
+    if (hit === nodes[0]) lead = 0;
+  }
+  return placed;
 }
 
 // src/social/onboarding.ts

@@ -7,7 +7,7 @@ import { App, Modal, TFile } from "obsidian";
 import { SGState } from "../state";
 
 export interface FootnoteRef { c: string | null; t: string | null; v: number[]; l: string }
-export interface Footnote { m: string; refs: FootnoteRef[]; x?: string }
+export interface Footnote { m: string; refs: FootnoteRef[]; x?: string; /** the word the letter hangs on, and its offset in the verse text */ w?: string; o?: number }
 export type ChapterFootnotes = Record<string, Footnote[]>;
 
 const cache = new Map<string, Promise<ChapterFootnotes | null>>();
@@ -36,7 +36,7 @@ export function clearFootnoteCache(): void { cache.clear(); }
 /** the sheet: markers down the page, references as tappable chips */
 export class FootnotesModal extends Modal {
   constructor(private s: SGState, private chapterTitle: string, private verse: string,
-    private notes: Footnote[], private sourcePath: string) {
+    private notes: Footnote[], private sourcePath: string, private focus?: Footnote) {
     super(s.app);
   }
 
@@ -48,6 +48,7 @@ export class FootnotesModal extends Modal {
     c.createDiv({ cls: "sg-fn-sub", text: "Footnotes" });
     for (const n of this.notes) {
       const row = c.createDiv({ cls: "sg-fn-row" });
+      if (this.focus && n === this.focus) row.addClass("sg-fn-row-on");
       row.createSpan({ cls: "sg-fn-marker", text: n.m.replace(/^\d+/, "") || n.m });
       const body = row.createDiv({ cls: "sg-fn-body" });
       if (n.x) body.createDiv({ cls: "sg-fn-text", text: n.x });

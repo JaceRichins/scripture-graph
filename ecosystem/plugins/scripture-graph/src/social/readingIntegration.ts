@@ -12,7 +12,7 @@ import { voiceFor } from "../study/presence";
 import { ConnectionsModal, clearConnectionsCache, connectionsFor } from "./connections";
 import { openLocalGraphFor } from "../study/studyBar";
 import { TranslationsModal, isBiblical } from "../study/translations";
-import { FootnotesModal, footnotesFor } from "../reader/footnotes";
+import { FootnotesModal, footnotesFor, type Footnote } from "../reader/footnotes";
 
 export interface SelectionHit {
   verseId: string;
@@ -53,8 +53,12 @@ export function registerReadingIntegration(
       for (const { p, verseId } of paragraphs) {
         const n = verseId.slice(slug.length + 1);
         const notes = fn[n];
-        if (!notes?.length || p.querySelector(".sg-fn-chip")) continue;
-        const letters = notes.map(x => x.m.replace(/^\d+/, "")).filter(Boolean).slice(0, 4).join("");
+        if (!notes?.length || p.querySelector(".sg-fn-chip, .sg-fn-mark")) continue;
+        // Gospel Library style: the letter rides the word it belongs to
+        const placed = placeMarkers(p, notes, (note) => new FootnotesModal(s, chapterTitle0, n, notes, ctx.sourcePath, note).open());
+        const rest = notes.filter(x => !placed.has(x));
+        if (!rest.length) continue;
+        const letters = rest.map(x => x.m.replace(/^\d+/, "")).filter(Boolean).slice(0, 4).join("");
         const chip = p.createSpan({ cls: "sg-fn-chip", text: letters || "ᵃ" });
         chip.setAttr("aria-label", `${notes.length} footnote${notes.length === 1 ? "" : "s"}`);
         chip.onclick = (e) => {
@@ -246,4 +250,52 @@ export function buildSelectionMenu(
 /** default visibility quick-save used by mobile toolbar commands */
 export function quickVisibility(s: SGState): Visibility {
   return s.settings.defaultVisibility === "local" ? "local" : "private";
+}
+
+/** Put each footnote's letter right before the word it hangs on, inside the
+ * verse's own text nodes (offsets count from after the verse number).
+ * Returns the notes that found their word; the rest fall back to the chip. */
+function placeMarkers(p: HTMLElement, notes: Footnote[], onTap: (note: Footnote) => void): Set<Footnote> {
+  const placed = new Set<Footnote>();
+  const anchored = notes.filter(x => typeof x.o === "number" && x.w).sort((a, b) => (b.o ?? 0) - (a.o ?? 0));   // right to left keeps offsets valid
+  if (!anchored.length) return placed;
+  // text nodes after the verse number (the leading <strong>), leading space trimmed
+  const walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
+  const nodes: Text[] = [];
+  let seenNumber = false;
+  for (let tn = walker.nextNode() as Text | null; tn; tn = walker.nextNode() as Text | null) {
+    const parentEl = tn.parentElement;
+    if (!seenNumber) {
+      if (parentEl && parentEl.tagName === "STRONG" && /^\s*\d+\s*$/.test(tn.data)) { seenNumber = true; continue; }
+      if (parentEl?.closest(".sg-fn-chip, .sg-conn-chip, .sg-theme-chips")) continue;
+    }
+    if (parentEl?.closest(".sg-fn-chip, .sg-conn-chip")) continue;
+    nodes.push(tn);
+  }
+  if (!nodes.length) return placed;
+  // the verse text as the reader sees it, with the first node's leading space dropped
+  let lead = nodes[0]!.data.match(/^\s*/)?.[0].length ?? 0;
+  for (const note of anchored) {
+    let target = (note.o ?? 0) + lead;
+    let hit: Text | null = null;
+    for (const tn of nodes) {
+      if (target <= tn.data.length) { hit = tn; break; }
+      target -= tn.data.length;
+    }
+    if (!hit) continue;
+    // sanity: the word should start here (tolerate small drift from smart quotes)
+    const around = hit.data.slice(Math.max(0, target - 2), target + (note.w?.length ?? 0) + 2).toLowerCase();
+    const w = (note.w ?? "").toLowerCase().slice(0, 6);
+    if (w && !around.includes(w.slice(0, Math.min(4, w.length)))) continue;
+    const tail = hit.splitText(target);
+    const sup = document.createElement("sup");
+    sup.className = "sg-fn-mark";
+    sup.textContent = note.m.replace(/^\d+/, "") || "a";
+    sup.setAttribute("aria-label", `footnote ${sup.textContent}`);
+    sup.onclick = (e) => { e.preventDefault(); e.stopPropagation(); onTap(note); };
+    tail.parentNode?.insertBefore(sup, tail);
+    placed.add(note);
+    if (hit === nodes[0]) lead = 0;   // offsets before the split stay measured from the same origin
+  }
+  return placed;
 }
