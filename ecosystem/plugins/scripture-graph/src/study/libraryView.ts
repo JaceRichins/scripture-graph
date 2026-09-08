@@ -925,9 +925,9 @@ export class SGLibraryView extends ItemView {
     const yearish = listing.folders.length > 3
       && listing.folders.every(f => /^\d{4}$/.test(f.name));
     const folders = yearish ? [...listing.folders].reverse() : listing.folders;
-    // the shelf's own art, for sub-shelves that have none of their own
-    // (a conference year, April, October all wear the conference photo)
-    const shelfPhoto = this.view.kind === "folder" ? coverKey(this.view.title) : undefined;
+    // the nearest ancestor's art, for sub-shelves that have none of their
+    // own (a conference year, April, October all wear the conference photo)
+    const shelfPhoto = this.inheritedPhoto(path);
     const tile = (grid: HTMLElement, f: { name: string; path: string }) =>
       this.cover(grid, { icon: "folder", label: f.name, photo: coverKey(f.name), fallbackPhoto: shelfPhoto,
         stamp: yearish ? f.name : undefined,
@@ -966,8 +966,10 @@ export class SGLibraryView extends ItemView {
         row.createSpan({ cls: "sg-nav-name", text: fi.name });
         row.onclick = () => this.host.openPath(fi.path);
       }
-      if (!list.childElementCount) {
-        list.createDiv({ cls: "sg-nav-empty", text: "Nothing here matches." });
+      // a shelf of sub-shelves and no pages is not empty; only say so when
+      // there is truly nothing, or the filter matched nothing
+      if (!list.childElementCount && (q || !folders.length)) {
+        list.createDiv({ cls: "sg-nav-empty", text: q ? "Nothing here matches." : "Nothing here yet." });
       }
     };
     if (folders.length + listing.files.length > 30) {
@@ -979,6 +981,22 @@ export class SGLibraryView extends ItemView {
       c.insertBefore(inp, list);
     }
     renderRows();
+  }
+
+  /** the photo a folder inherits: walk up from the folder to the shelf and
+   * take the first covers/<slug>.jpg found ("2025/April" → conference) */
+  private inheritedPhoto(path: string): string | undefined {
+    const has = (key: string) => this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${key}.jpg`) instanceof TFile;
+    const parts = path.split("/");
+    for (let n = parts.length; n > 0; n--) {
+      const here = parts.slice(0, n).join("/");
+      const name = parts[n - 1]!.replace(/^\d+\s+/, "");
+      const shelf = LIBRARY_SECTIONS.find(sec => sec.path === here);
+      for (const key of [coverKey(name), shelf?.icon, shelf ? coverKey(shelf.name) : undefined]) {
+        if (key && has(key)) return key;
+      }
+    }
+    return undefined;
   }
 
   // ---------------------------------------------------------------- search
