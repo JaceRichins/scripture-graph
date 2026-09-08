@@ -7440,6 +7440,35 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-alma-44-7ac765ef",
+   "t": "Defeat and covenant of Zerahemnah's army",
+   "y0": -74,
+   "y1": -73,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading assigns approximately 74–73 B.C.; Alma 44:24 internally places the episode at the close of the eighteenth year of the reign of the judges.",
+   "chapters": [
+    "Alma 44"
+   ],
+   "people": [
+    "Moroni",
+    "Zerahemnah"
+   ],
+   "places": [
+    "Sidon"
+   ],
+   "things": [
+    "weapons of war",
+    "covenant of peace"
+   ]
+  },
+  {
    "id": "r-alma-45-0a64f5cf",
    "t": "Helaman reestablishes the churches",
    "y0": -73,
@@ -7808,6 +7837,32 @@ timeline module, not this file._
    "places": [
     "Judea",
     "Antiparah"
+   ]
+  },
+  {
+   "id": "r-alma-57-210a4855",
+   "t": "Fall of Antiparah and defense of Cumeni (Amalickiahite War)",
+   "y0": -64,
+   "y1": -63,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars"
+   ],
+   "dating": "internal",
+   "src": "research",
+   "note": "Dated internally by the Nephite reign-of-judges calendar as spanning the end of the 28th year and the 29th year (Alma 57:5-6); conventionally correlated to roughly 64-63 BC.",
+   "chapters": [
+    "Alma 57"
+   ],
+   "people": [
+    "Helaman",
+    "Ammoron",
+    "Gid"
+   ],
+   "places": [
+    "Antiparah",
+    "Cumeni"
    ]
   },
   {
@@ -11929,6 +11984,28 @@ timeline module, not this file._
    ],
    "places": [
     "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-isa-38-3ca3f16f",
+   "t": "Hezekiah's illness, healing, and fifteen added years",
+   "y0": -701,
+   "y1": -686,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Traditional chronologies place Hezekiah's illness around the time of the Assyrian crisis (c. 701 BCE); the fifteen added years correspond to his reign's traditional end around 686 BCE.",
+   "chapters": [
+    "Isaiah 38"
+   ],
+   "people": [
+    "Hezekiah",
+    "Isaiah"
    ]
   },
   {

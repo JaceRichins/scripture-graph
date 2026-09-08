@@ -96,7 +96,7 @@ The chapter is an embedded letter framed by the narrator in verse 1 and closed b
 <!-- SG:BEGIN evidence -->
 > [!evidence] Verbal Intertextuality
 > The English wording of Alma 61 closely echoes Galatians 5:1: both combine standing fast, liberty, being made free, and the yoke of bondage. The concentration of shared language makes literary or translational dependence on Pauline/KJV diction substantially more plausible than accidental resemblance.
-> — strength 0.9 · confidence 1.0 · Strong English verbal parallel; mechanism disputed · [[Verbal Intertextuality in Alma 61|full dossier]]
+> — strength 0.7 · confidence 1.0 · Strong English verbal parallel; mechanism disputed · [[Verbal Intertextuality in Alma 61|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

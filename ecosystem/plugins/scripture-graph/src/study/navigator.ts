@@ -49,6 +49,7 @@ export interface NavigatorHost {
 /** the rest of the library — everything beyond the scriptures themselves */
 export const LIBRARY_SECTIONS: { icon: NavIconName; name: string; path: string }[] = [
   { icon: "conference", name: "General Conference", path: "AI Library/10 General Conference" },
+  { icon: "person", name: "Family", path: "AI Library/12 Family" },
   { icon: "dictionary", name: "Bible Dictionary", path: "AI Library/80 Bible Dictionary" },
   { icon: "topics", name: "Gospel Topics", path: "AI Library/02 Gospel Topics" },
   { icon: "person", name: "People", path: "AI Library/03 People" },

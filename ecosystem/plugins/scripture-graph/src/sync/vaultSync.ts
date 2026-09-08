@@ -41,6 +41,7 @@ export const SECTIONS: SyncSection[] = [
   { key: "translations", label: "Bible translations (WEB, ASV, YLT)", prefixes: ["AI Library/01 Scriptures/Translations/"], defaultOn: false },
   { key: "topics", label: "Gospel Topics, doctrines, people, places, events, Come Follow Me", prefixes: ["AI Library/0"], always: true },
   { key: "conference", label: "General Conference (2,900 talks)", prefixes: ["AI Library/10 General Conference/"], defaultOn: false },
+  { key: "family", label: "Family (ancestors, their records, photos and stories)", prefixes: ["AI Library/12 Family/"], defaultOn: false },
   { key: "history", label: "Church History (Saints, prophets, periodicals)", prefixes: ["AI Library/30 Church History/"], defaultOn: false },
   { key: "findings", label: "Findings (1,700 notes)", prefixes: ["AI Library/40 Findings/"], defaultOn: false },
   { key: "questions", label: "Hard Questions", prefixes: ["AI Library/50 Questions/"] },

@@ -456,6 +456,19 @@ def cmd_packs(args):
     return 0
 
 
+def cmd_family(args):
+    """our ancestors from FamilySearch, with your own sign-in (see family/familysearch.py)"""
+    ctx = _ctx(args)
+    from scripturegraph.family import familysearch as fs
+    if args.action == "login":
+        fs.login(ctx)
+        print("signed in — session kept")
+        return 0
+    stats = fs.run(ctx, generations=args.generations, person=args.person, refresh=args.refresh)
+    print(json.dumps(stats, indent=2))
+    return 0
+
+
 def cmd_validate(args):
     ctx = _ctx(args)
     from scripturegraph.validation import validate_all
@@ -659,6 +672,12 @@ def main(argv=None) -> int:
         .set_defaults(fn=cmd_crossrefs)
     sub.add_parser("packs", help="pack footnotes, cross references and citations by book (for phones)") \
         .set_defaults(fn=cmd_packs)
+    sp = sub.add_parser("family", help="ancestors, sources and memories from FamilySearch (your own sign-in), as a shelf")
+    sp.add_argument("action", nargs="?", default="pull", choices=["pull", "login"])
+    sp.add_argument("--generations", type=int, default=8, help="how far up (default 8)")
+    sp.add_argument("--person", help="root FamilySearch id (default: you)")
+    sp.add_argument("--refresh", action="store_true", help="re-read people already cached")
+    sp.set_defaults(fn=cmd_family)
 
     sp = sub.add_parser("translations", help="fetch public-domain Bible translations (WEB/ASV/YLT)")
     sp.add_argument("--refresh", action="store_true", help="re-download even if cached")
