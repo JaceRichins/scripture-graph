@@ -17,13 +17,16 @@ Scripture: [[D&C 12]] · My notes: [[D&C 12 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> 1–6, Laborers in the vineyard are to gain salvation; 7–9, All who desire and are qualified may assist in the Lord’s work.
+D&C 12 announces an approaching divine work (v.1) and invites participation through the image of a ripe harvest (vv.3-4). Tradition holds it was given to Joseph Knight Sr. in May 1829 during the [[Book of Mormon (Gospel Topic)|Book of Mormon]] translation, though the chapter's own text names no recipient and contains no biographical detail — its content is addressed generally to 'all those who have desires to bring forth and establish this work' (v.7). The invitation is broad but not desire alone: participation is paired with commandment-keeping, seeking to establish [[Zion]] (v.6), and a cluster of required qualities — humility, love, [[Faith]], [[Hope]], [[Charity]], and temperance (v.8). The chapter shares extensive wording with several other short revelations from the same period (D&C 4, 6, 11, 14), most closely D&C 11.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Announcement and authority (vv.1-2)** – a great work is coming; the hearer is twice told to 'give heed' to God's word, described (echoing Hebrews 4:12) as 'quick and powerful, sharper than a two-edged sword.'
+2. **Harvest, calling, and response (vv.3-5)** – the ripe-field image (echoing John 4:35) urges timely labor; whoever reaps 'is called of God'; asking and knocking (echoing Matthew 7:7) are promised an answer.
+3. **Zion and qualifications (vv.6-9)** – the reply to a prior request commands obedience and establishing Zion, widens the audience to all who share the desire, lists six required qualities (humble, full of love, having faith, hope, and charity, temperate in all things), and closes with the speaker's self-declaration ('the light and the life of the world,' echoing 3 Nephi 9:18) and a renewed call to 'give heed.'
+
+The repeated 'give heed' in v.2 and v.9 loosely frames the chapter, though this falls short of a strict, formal inclusio.
 <!-- SG:END structure -->
 
 ## People
@@ -45,15 +48,17 @@ _Not yet developed._
 - [[Hebrews 4]] — 1 footnote cross-reference (from [[D&C 12#^dc-12-2|D&C 12:2]])
 - [[D&C 33]] — 1 footnote cross-reference (from [[D&C 12#^dc-12-3|D&C 12:3]])
 - [[D&C 11]] — 6 parallel verses, e.g. [[D&C 12#^dc-12-3|D&C 12:3]] ↔ [[D&C 11#^dc-11-3|D&C 11:3]]
-- [[D&C 6]] — 6 parallel verses, e.g. [[D&C 12#^dc-12-3|D&C 12:3]] ↔ [[D&C 6#^dc-6-3|D&C 6:3]]
-- [[D&C 14]] — 5 parallel verses, e.g. [[D&C 12#^dc-12-3|D&C 12:3]] ↔ [[D&C 14#^dc-14-3|D&C 14:3]]
 - [[D&C 33]] — 3 parallel verses, e.g. [[D&C 12#^dc-12-2|D&C 12:2]] ↔ [[D&C 33#^dc-33-1|D&C 33:1]]
-- [[D&C 4]] — 2 parallel verses, e.g. [[D&C 12#^dc-12-1|D&C 12:1]] ↔ [[D&C 4#^dc-4-1|D&C 4:1]]
 - [[3 Nephi 11]] — 1 parallel verse, e.g. [[D&C 12#^dc-12-9|D&C 12:9]] ↔ [[3 Nephi 11#^3ne-11-11|3 Nephi 11:11]]
 - [[3 Nephi 9]] — 1 parallel verse, e.g. [[D&C 12#^dc-12-9|D&C 12:9]] ↔ [[3 Nephi 9#^3ne-9-18|3 Nephi 9:18]]
+- [[D&C 6]] — 0 parallel verses
+- [[D&C 14]] — 0 parallel verses
+- [[D&C 11]] — 0 parallel verses
+- [[3 Nephi 14]] — 0 parallel verses
+- [[John 4]] — 0 parallel verses
+- [[3 Nephi 9]] — 0 parallel verses
 - [[D&C 14]] — 0 parallel verses
 - [[D&C 4]] — 0 parallel verses
-- [[D&C 6]] — 0 parallel verses
 <!-- SG:END related-scriptures -->
 
 ## Gospel Topics
@@ -63,7 +68,7 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+Willingness matters, but the text does not clearly settle whether it precedes, produces, or merely accompanies being 'called of God' (v.4) — the grammar supports more than one reading. Verse 8 conditions assistance on character (humility, love, faith, hope, charity, temperance) rather than office or credential; whether these are a strict prerequisite or a description of what sustained labor looks like is likewise not resolved by the verse itself. Verse 6 ties personal obedience directly to the communal goal of establishing [[Zion]]. Verse 5's ask-and-knock promise (echoing Matthew 7:7) frames [[Prayer]] as responsive to genuine seeking, and v.6 presents the whole revelation as an answer already given to such asking. The harvest metaphor connects labor with 'everlasting salvation' (v.3), but the surrounding language about calling and commandments cautions against reading this as a transactional, salvation-by-works claim.
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -95,22 +100,32 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several expressions are recognizably borrowed: 'quick and powerful, sharper than a two-edged sword... dividing asunder... joints and marrow' closely parallels [[Hebrews 4:12|Hebrews 4]]; 'the field is white already to harvest' parallels John 4:35 (itself already a spiritual-harvest saying, not a merely literal one); 'ask... knock, and it shall be opened' parallels Matthew 7:7 and 3 Nephi 14:7; and 'the light and the life of the world' parallels 3 Nephi 9:18. These are specific, dense verbal overlaps rather than generic idiom, and they establish literary relationship and shared vocabulary without by themselves settling the direction or process of composition.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+D&C 12 shares extensive wording with D&C 11 (its closest match, 6 verified overlapping verses), and with D&C 6, 14, and 4, suggesting a shared template used across several short revelations from the 1829 Book of Mormon translation period. This overlap is real and worth comparing verse-by-verse, but the sections' traditional dates and locations vary rather than clustering into a single narrow window, so claims about timing should rely on each section's own heading. The 'great and marvelous work' language of v.1 also resembles 1 Nephi 14:7 and Isaiah 29:14; which of these, if any, is the more direct source cannot be settled from this chapter alone.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Textual Overlap
+> D&C 12:1–6 and D&C 11:1–6 exhibit substantial repeated wording and the same sequence of themes: the coming work, the powerful word, the ripe field, reaping and calling, asking and receiving, and establishing Zion.
+> — strength 0.8 · confidence 0.9 · verified overlap, honestly bounded · [[Textual Overlap in D&C 12|full dossier]]
+
+> [!evidence] Textual/Composition *(tentative)*
+> D&C 12 shares extensive, near-verbatim phrasing with D&C 4, 6, 11, and 14 (index-verified overlap of 5-6 shared verses with D&C 11 and D&C 14 alone), each addressed to a different individual within roughly weeks of one another during the spring 1829 Book of Mormon translation period at Harmony, Pennsylvania.
+> — strength 0.7 · confidence 0.7 · overlap real, dating/location claims unverified
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- What specific request might the recipient have made (v.6, 'as you have asked') that this revelation answers, and what does its absence from the text suggest about how these revelations were recorded?
+- Why would such similar 'great and marvelous work' and harvest language appear across several short revelations (D&C 4, 6, 11, 12, 14) given to different people? What does that recurrence suggest about their purpose?
+- Verse 4 says whoever 'will' reap 'is called of God' — does willingness precede the call, reveal it, or simply accompany it? How does this compare with other passages on being 'called and chosen'?
+- What does 'temperate in all things' add to the more familiar faith-hope-charity triad in v.8?
+- How should the promise of 'everlasting salvation' through harvest labor (v.3) be read alongside doctrines of grace and divine calling, so it doesn't become transactional?
 <!-- SG:END questions -->
 
 ## Further Study
