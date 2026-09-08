@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.19 build 8855ddc9 2026-09-08T01:48:11Z */
+/* scripture-graph v0.72.20 build a92b30f1 2026-09-08T02:04:31Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.19", sha: "8855ddc9", at: "2026-09-08T01:48:11Z" };
+    define_SG_BUILD_default = { version: "0.72.20", sha: "a92b30f1", at: "2026-09-08T02:04:31Z" };
   }
 });
 
@@ -13116,26 +13116,23 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
           searchQuery: `${tr.t} The Tabernacle Choir at Temple Square`
         };
       }
-      const ytOn2 = tr.yt && this.s.device.youtube !== false;
       return {
         ...base,
         yt: tr.yt || void 0,
-        preferVideo: !!ytOn2,
-        sub: `${this.bookShort(h)} \xB7 ${ytOn2 ? "Tabernacle Choir \xB7 YouTube" : "Church recording"}`,
+        sub: `${this.bookShort(h)} \xB7 Church recording`,
         searchQuery: `${tr.t} The Tabernacle Choir at Temple Square`
       };
     }
     const url = tr.choir || tr.church || tr.url || void 0;
     const churchLabel = tr.church ? `${tr.church_by || "Church recording"}${tr.church_when ? ` (${tr.church_when})` : ""}` : "";
     const ytOn = tr.yt && this.s.device.youtube !== false;
-    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : this.host.music.spotify.connected ? "Spotify" : ytOn ? "YouTube" : url ? "free recording" : "no recording yet";
+    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : ytOn ? "YouTube (video)" : "no recording yet";
     return {
       id: `track:${key}:${i}`,
       title: tr.t,
       sub: `${tr.a} \xB7 ${how}`,
       url,
       yt: tr.yt || void 0,
-      preferVideo: !(tr.choir || tr.church),
       credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.church ? churchLabel : tr.credit,
       searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`,
       art,
@@ -13155,6 +13152,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     col.createDiv({ cls: "sg-tr-title", text: it.title });
     col.createDiv({ cls: "sg-tr-sub", text: it.sub });
     if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "soon" });
+    else if (!music.headless(it)) row.createSpan({ cls: "sg-tr-ext", text: "video" });
     const more = row.createEl("button", { cls: "sg-tr-more", text: "\u22EF" });
     more.setAttr("aria-label", "More");
     more.onclick = (e) => {
@@ -13254,7 +13252,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     const art = this.art(pl.cover ?? `music-${pl.key}`);
     const open2 = () => this.go({ kind: "playlist", key: pl.key, title: pl.title });
     const items = pl.tracks.map((tr, i) => this.trackItem(tr, byTitle, key, i, art, open2));
-    const here = items.filter((i) => this.host.music.canPlay(i)).length;
+    const here = items.filter((i) => this.host.music.headless(i)).length;
     const head = c2.createDiv({ cls: "sg-pl-head" });
     if (art) {
       const img = head.createEl("img", { cls: "sg-pl-art" });
@@ -13263,7 +13261,8 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     const meta = head.createDiv({ cls: "sg-pl-meta" });
     meta.createDiv({ cls: "sg-pl-title", text: pl.title });
     if (pl.blurb) meta.createDiv({ cls: "sg-pl-blurb", text: pl.blurb });
-    meta.createDiv({ cls: "sg-pl-count", text: `${items.length} songs \xB7 ${here} play here` });
+    const vids = items.filter((i) => !this.host.music.headless(i) && this.host.music.canPlay(i)).length;
+    meta.createDiv({ cls: "sg-pl-count", text: `${items.length} songs \xB7 ${here} play here${vids ? ` \xB7 ${vids} video only` : ""}` });
     const acts = c2.createDiv({ cls: "sg-pl-actions" });
     const play = acts.createEl("button", { cls: "sg-pl-play", text: "\u25B6  Play" });
     play.onclick = () => this.host.music.playAll(items);
@@ -16750,19 +16749,18 @@ var MusicPlayer = class {
   }
   /** how this item would play, if tapped */
   engineFor(it) {
-    const yt = it.yt && this.opts.youtubeEnabled();
-    if (it.preferVideo) {
-      if (this.spotify.connected) return "spotify";
-      if (yt) return "youtube";
-      return it.url ? "audio" : null;
-    }
     if (it.url) return "audio";
     if (this.spotify.connected) return "spotify";
-    if (yt) return "youtube";
+    if (it.yt && this.opts.youtubeEnabled()) return "youtube";
     return null;
   }
   canPlay(it) {
     return this.engineFor(it) !== null;
+  }
+  /** plays without showing anything */
+  headless(it) {
+    const e = this.engineFor(it);
+    return e === "audio" || e === "spotify";
   }
   /** tap on a row */
   play(queue, index2) {
@@ -16782,9 +16780,9 @@ var MusicPlayer = class {
   }
   /** the big Play button: everything in the list that plays here, in order */
   playAll(queue, shuffle = false) {
-    let q = queue.filter((i) => this.canPlay(i));
+    let q = queue.filter((i) => this.headless(i));
     if (!q.length) {
-      new import_obsidian27.Notice("Nothing in this list can play yet.");
+      new import_obsidian27.Notice("Nothing in this list plays without video \u2014 tap a song to play its YouTube version.");
       return;
     }
     if (shuffle) q = q.map((x3) => [Math.random(), x3]).sort((a2, b) => a2[0] - b[0]).map((x3) => x3[1]);
@@ -16830,7 +16828,8 @@ var MusicPlayer = class {
   }
   step(d) {
     let i = this.index + d;
-    while (this.queue[i] && !this.canPlay(this.queue[i])) i += d;
+    const allow = (x3) => this.mode === "youtube" ? this.canPlay(x3) : this.headless(x3);
+    while (this.queue[i] && !allow(this.queue[i])) i += d;
     if (!this.queue[i]) {
       this.stop();
       return;

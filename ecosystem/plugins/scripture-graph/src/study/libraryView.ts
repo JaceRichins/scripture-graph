@@ -426,16 +426,16 @@ export class SGLibraryView extends ItemView {
         return { ...base, url: tr.choir, alt, yt: tr.yt || undefined, sub: `${this.bookShort(h)} · Tabernacle Choir${choirWhen}`,
           credit: `The Tabernacle Choir at Temple Square${choirWhen}`, searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
       }
-      // no Church performance: the Choir on YouTube beats the plain hymnbook take
-      const ytOn = tr.yt && this.s.device.youtube !== false;
-      return { ...base, yt: tr.yt || undefined, preferVideo: !!ytOn, sub: `${this.bookShort(h)} · ${ytOn ? "Tabernacle Choir · YouTube" : "Church recording"}`,
+      // no Choir performance in the Church library: the plain recording plays headless;
+      // the Choir's YouTube version waits in the ⋯ menu
+      return { ...base, yt: tr.yt || undefined, sub: `${this.bookShort(h)} · Church recording`,
         searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
     }
     const url = tr.choir || tr.church || tr.url || undefined;
     const churchLabel = tr.church ? `${tr.church_by || "Church recording"}${tr.church_when ? ` (${tr.church_when})` : ""}` : "";
     const ytOn = tr.yt && this.s.device.youtube !== false;
-    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : this.host.music.spotify.connected ? "Spotify" : ytOn ? "YouTube" : url ? "free recording" : "no recording yet";
-    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url, yt: tr.yt || undefined, preferVideo: !(tr.choir || tr.church),
+    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : ytOn ? "YouTube (video)" : "no recording yet";
+    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url, yt: tr.yt || undefined,
       credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.church ? churchLabel : tr.credit,
       searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`, art, open };
   }
@@ -453,6 +453,7 @@ export class SGLibraryView extends ItemView {
     col.createDiv({ cls: "sg-tr-title", text: it.title });
     col.createDiv({ cls: "sg-tr-sub", text: it.sub });
     if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "soon" });
+    else if (!music.headless(it)) row.createSpan({ cls: "sg-tr-ext", text: "video" });
     const more = row.createEl("button", { cls: "sg-tr-more", text: "⋯" });
     more.setAttr("aria-label", "More");
     more.onclick = (e) => { e.stopPropagation(); music.menu(it, e); };
@@ -530,13 +531,14 @@ export class SGLibraryView extends ItemView {
     const art = this.art(pl.cover ?? `music-${pl.key}`);
     const open = () => this.go({ kind: "playlist", key: pl.key, title: pl.title });
     const items = pl.tracks.map((tr, i) => this.trackItem(tr, byTitle, key, i, art, open));
-    const here = items.filter(i => this.host.music.canPlay(i)).length;
+    const here = items.filter(i => this.host.music.headless(i)).length;
     const head = c.createDiv({ cls: "sg-pl-head" });
     if (art) { const img = head.createEl("img", { cls: "sg-pl-art" }); img.src = art; }
     const meta = head.createDiv({ cls: "sg-pl-meta" });
     meta.createDiv({ cls: "sg-pl-title", text: pl.title });
     if (pl.blurb) meta.createDiv({ cls: "sg-pl-blurb", text: pl.blurb });
-    meta.createDiv({ cls: "sg-pl-count", text: `${items.length} songs · ${here} play here` });
+    const vids = items.filter(i => !this.host.music.headless(i) && this.host.music.canPlay(i)).length;
+    meta.createDiv({ cls: "sg-pl-count", text: `${items.length} songs · ${here} play here${vids ? ` · ${vids} video only` : ""}` });
     const acts = c.createDiv({ cls: "sg-pl-actions" });
     const play = acts.createEl("button", { cls: "sg-pl-play", text: "▶  Play" });
     play.onclick = () => this.host.music.playAll(items);
