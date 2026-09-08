@@ -17,13 +17,18 @@ Scripture: [[Exodus 39]] · My notes: [[Exodus 39 - My Notes]]
 
 ## Overview
 <!-- SG:BEGIN overview -->
-> [!info] Chapter heading (official)
-> Holy garments are made for Aaron and the priests—The breastplate is made—The tabernacle of the congregation is finished—Moses blesses the people.
+Exodus 39 reports the manufacture of Aaron's sacred garments, inventories the completed tabernacle, and closes with Moses' inspection and blessing. Its governing theme is exact correspondence between command and performance: seven garment sections end with the formula that the work was done as the LORD commanded Moses, followed by three comprehensive affirmations in verses 32, 42, and 43. Within the larger account, [[Exodus 28]] gives the instructions, this chapter reports their execution, and [[Exodus 40]] narrates assembly and consecration.
 <!-- SG:END overview -->
 
 ## Structure & Setting
 <!-- SG:BEGIN structure -->
-_Not yet developed._
+1. **Garments introduced (v. 1):** cloths of service and Aaron's holy garments.
+2. **Ephod and memorial stones (vv. 2–7):** richly worked fabric carries engraved names of Israel.
+3. **Breastplate (vv. 8–21):** twelve named stones are secured to the ephod.
+4. **Robe and its hem (vv. 22–26):** woven blue robe with alternating pomegranates and bells.
+5. **Remaining garments and crown (vv. 27–31):** linen clothing and the gold holiness inscription.
+6. **Completion and presentation (vv. 32–41):** the finished tabernacle and its contents are brought to Moses.
+7. **Inspection and blessing (vv. 42–43):** conformity to the command is verified before Moses blesses the people.
 <!-- SG:END structure -->
 
 ## People
@@ -60,6 +65,7 @@ _Not yet developed._
 
 ## Gospel Topics
 <!-- SG:BEGIN topics -->
+- [[Law of Moses]]
 - [[Family]] *(keyword match — unconfirmed)*
 - [[Service]] *(keyword match — unconfirmed)*
 - [[Records and Sacred Writings]] *(keyword match — unconfirmed)*
@@ -67,7 +73,9 @@ _Not yet developed._
 
 ## Doctrines & Principles
 <!-- SG:BEGIN doctrines -->
-_Not yet developed._
+The chapter connects [[Priesthood]], holiness, representation, [[Service]], and [[Obedience]]. Israel's names are engraved on the shoulder stones and breastplate, while the gold plate declares "HOLINESS TO THE LORD" (39:6-7, 14, 30). [[Exodus 28]] explains that Aaron bears Israel's names before the LORD, supporting a representative understanding of his ministry. Exodus 39 itself reports the garments' manufacture and does not fully explain how these separate features relate, so stronger claims about mediation or their combined symbolism should remain interpretive.
+
+The repeated formula "as the LORD commanded Moses" and the final inspection make conformity to revealed instructions a central evaluative theme. Skilled labor is presented as part of the children of Israel's collective fulfillment of the command (39:32, 42-43).
 <!-- SG:END doctrines -->
 
 ## General Conference
@@ -84,25 +92,33 @@ _Not yet developed._
 
 ## Language & Text
 <!-- SG:BEGIN language -->
-_Not yet developed._
+Several expressions reflect older English usage in the KJV. "Cunning work" refers to skilled workmanship, not deceit; the "curious girdle" is an expertly worked band associated with the ephod; "ouches" are the gold settings for stones; and a "habergeon" is a coat of mail whose reinforced neck opening supplies the comparison in verse 23. These terms matter because the passage repeatedly emphasizes skilled construction and structural durability.
 <!-- SG:END language -->
 
 ## Literary Features
 <!-- SG:BEGIN literary -->
-_Not yet developed._
+Exodus 39 is a fulfillment account whose sequence closely tracks [[Exodus 28]]. The repeated clause "as the LORD commanded Moses" punctuates the garment-making units and culminates in the comprehensive affirmations of verses 42-43. The narrative thus moves from particular tasks to collective completion, inspection, and blessing.
+
+The ending also shares a broad pattern with [[Genesis 1]] and [[Genesis 2]]: work is finished, seen or inspected, and followed by blessing. This may invite a literary analogy between the tabernacle and ordered creation, but Exodus 39 does not state that analogy. The vocabulary may instead reflect a natural completion-and-approval sequence, so intentional allusion and a creation-microcosm interpretation remain disputed.
 <!-- SG:END literary -->
 
 ## Evidence & Easter Eggs
 <!-- SG:BEGIN evidence -->
-_Not yet developed._
+> [!evidence] Internal Literary Correspondence
+> The order and wording of Exodus 39's execution report closely correspond to the garment instructions in Exodus 28: ephod, memorial stones, breastplate, robe, and inscribed gold plate occur in substantially the same sequence. This is strong internal evidence that the two chapters were composed or arranged as command-and-fulfillment counterparts.
+> — strength 0.9 · confidence 1.0 · verified textual relationship; compositional history unresolved · [[Internal Literary Correspondence in Exodus 39|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying
 <!-- SG:BEGIN questions -->
-_Not yet developed._
+- Why does the narrative repeat the detailed instructions of [[Exodus 28]] instead of merely stating that they were obeyed?
+- What does carrying Israel's names on both shoulders and breastplate communicate about priestly responsibility?
+- Why is Moses' inspection placed between completion and blessing?
+- How do craftsmanship and collective obedience reinforce one another in this chapter?
+- Which elements of the possible creation-tabernacle parallel arise from Exodus 39 itself, and which depend on the larger tabernacle narrative?
 <!-- SG:END questions -->
 
 ## Further Study
 <!-- SG:BEGIN further-study -->
-_Not yet developed._
+Compare the commands in [[Exodus 28]] unit by unit with their execution here, then follow the completed objects into [[Exodus 40]]. For a cautious canonical comparison, examine the twelvefold covenant and gemstone imagery in [[Revelation 21]], noting both the similarities and the substantial differences in arrangement and meaning.
 <!-- SG:END further-study -->
