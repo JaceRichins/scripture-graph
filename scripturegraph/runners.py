@@ -264,6 +264,15 @@ def run_nightly(ctx: Ctx) -> dict:
                 stats["come_follow_me"] = cfm.write_index(ctx)
             except Exception as e:  # noqa: BLE001
                 ctx.log.warn("nightly.cfm_failed", error=str(e)[:200])
+        if ctx.c("acquisition.church_music", True):
+            # the Church's Music Library (the Choir's performances), once a week
+            from scripturegraph.corpus import churchmusic
+            import datetime as _dt
+            try:
+                if _dt.date.today().weekday() == 6 or not (ctx.vault / churchmusic.NOTE).exists():
+                    stats["church_music"] = churchmusic.fetch(ctx)
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("nightly.church_music_failed", error=str(e)[:200])
         if ctx.c("acquisition.music_links", True):
             # where each playlist track can be heard: YouTube ids (90 searches
             # a night against the free quota) and free recordings from Commons
