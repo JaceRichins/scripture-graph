@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.22 build 95b18067e 2026-09-08T11:15:16Z */
+/* scripture-graph v0.72.23 build e59a3589b 2026-09-08T11:20:05Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.22", sha: "95b18067e", at: "2026-09-08T11:15:16Z" };
+    define_SG_BUILD_default = { version: "0.72.23", sha: "e59a3589b", at: "2026-09-08T11:20:05Z" };
   }
 });
 
@@ -17142,31 +17142,54 @@ var MusicPlayer = class {
       return;
     }
     bar.parentElement?.show();
-    if (this.mode !== "youtube") this.video?.hide();
-    this.tab?.toggleClass("sg-player-tab-on", this.tucked && this.mode === "youtube");
+    const yt = this.mode === "youtube";
+    if (!yt) this.video?.hide();
+    this.tab?.toggleClass("sg-player-tab-on", this.tucked && yt);
     const line = bar.createDiv({ cls: "sg-player-line" });
     this.progress = line.createDiv({ cls: "sg-player-prog" });
-    if (it.art && this.mode !== "youtube") {
-      const img = bar.createEl("img", { cls: "sg-player-art" });
-      img.src = it.art;
+    const artUrl = it.art ?? (it.yt ? `https://i.ytimg.com/vi/${it.yt}/mqdefault.jpg` : void 0);
+    const art = bar.createDiv({ cls: "sg-player-art" });
+    if (artUrl) {
+      const img = art.createEl("img");
+      img.src = artUrl;
+      img.alt = "";
+    } else (0, import_obsidian27.setIcon)(art.createDiv({ cls: "sg-player-art-icon" }), "music");
+    if (yt) {
+      art.addClass("sg-player-art-toggle");
+      art.setAttr("aria-label", this.tucked ? "Show video" : "Hide video");
+      (0, import_obsidian27.setIcon)(art.createDiv({ cls: "sg-player-art-badge" }), this.tucked ? "chevron-left" : "chevron-right");
+      art.onclick = (e) => {
+        e.stopPropagation();
+        this.tuckVideo();
+      };
     }
     const meta = bar.createDiv({ cls: "sg-player-meta" });
     meta.createDiv({ cls: "sg-player-title", text: it.title });
-    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : this.mode === "youtube" ? this.tucked ? "YouTube \xB7 video tucked away" : "YouTube \xB7 tap to enlarge" : it.sub });
-    if (this.mode === "youtube") meta.onclick = () => bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big"));
+    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : yt ? this.tucked ? "Tap the picture to show the video" : "Tap to enlarge the video" : it.sub });
+    if (yt) meta.onclick = () => {
+      if (this.tucked) this.setTucked(false);
+      else bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big"));
+    };
     else if (it.open) meta.onclick = it.open;
-    const btn = (label, cls, fn) => {
-      const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, text: label });
+    const btn = (icon, cls, label, fn) => {
+      const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, attr: { "aria-label": label } });
+      (0, import_obsidian27.setIcon)(b, icon);
       b.onclick = (e) => {
         e.stopPropagation();
         fn();
       };
+      return b;
     };
-    if (this.mode === "youtube") btn(this.tucked ? "\u2039" : "\u203A", "sg-player-tuck", () => this.tuckVideo());
-    btn("\u23EE", "", () => this.prev());
-    btn(this.paused ? "\u25B6" : "\u23F8", "sg-player-main", () => this.toggle());
-    btn("\u23ED", "", () => this.next());
-    btn("\u2715", "sg-player-x", () => this.stop());
+    const ctl = bar.createDiv({ cls: "sg-player-ctl" });
+    const inCtl = (icon, cls, label, fn) => {
+      const b = btn(icon, cls, label, fn);
+      ctl.appendChild(b);
+      return b;
+    };
+    inCtl("skip-back", "", "Previous", () => this.prev());
+    inCtl(this.paused ? "play" : "pause", "sg-player-main", this.paused ? "Play" : "Pause", () => this.toggle());
+    inCtl("skip-forward", "", "Next", () => this.next());
+    btn("x", "sg-player-x", "Stop", () => this.stop());
   }
 };
 

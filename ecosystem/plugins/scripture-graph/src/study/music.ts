@@ -12,7 +12,7 @@
  *              plays here and keeps playing while you move around the app.
  *
  * Nothing ever leaves the app. */
-import { App, Menu, Notice } from "obsidian";
+import { App, Menu, Notice, setIcon } from "obsidian";
 import type { Spotify } from "./spotify";
 
 export type Service = "spotify" | "apple" | "youtube";
@@ -330,24 +330,42 @@ export class MusicPlayer {
     const it = this.current();
     if (!it || !this.mode) { bar.parentElement?.hide(); return; }
     bar.parentElement?.show();
-    if (this.mode !== "youtube") this.video?.hide();
-    this.tab?.toggleClass("sg-player-tab-on", this.tucked && this.mode === "youtube");
+    const yt = this.mode === "youtube";
+    if (!yt) this.video?.hide();
+    this.tab?.toggleClass("sg-player-tab-on", this.tucked && yt);
     const line = bar.createDiv({ cls: "sg-player-line" });
     this.progress = line.createDiv({ cls: "sg-player-prog" });
-    if (it.art && this.mode !== "youtube") { const img = bar.createEl("img", { cls: "sg-player-art" }); img.src = it.art; }
+
+    // art: the cover, or the video's thumbnail; for YouTube it doubles as
+    // the show/hide-video switch, with a chevron badge saying which way
+    const artUrl = it.art ?? (it.yt ? `https://i.ytimg.com/vi/${it.yt}/mqdefault.jpg` : undefined);
+    const art = bar.createDiv({ cls: "sg-player-art" });
+    if (artUrl) { const img = art.createEl("img"); img.src = artUrl; img.alt = ""; }
+    else setIcon(art.createDiv({ cls: "sg-player-art-icon" }), "music");
+    if (yt) {
+      art.addClass("sg-player-art-toggle");
+      art.setAttr("aria-label", this.tucked ? "Show video" : "Hide video");
+      setIcon(art.createDiv({ cls: "sg-player-art-badge" }), this.tucked ? "chevron-left" : "chevron-right");
+      art.onclick = (e) => { e.stopPropagation(); this.tuckVideo(); };
+    }
+
     const meta = bar.createDiv({ cls: "sg-player-meta" });
     meta.createDiv({ cls: "sg-player-title", text: it.title });
-    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : this.mode === "youtube" ? (this.tucked ? "YouTube · video tucked away" : "YouTube · tap to enlarge") : it.sub });
-    if (this.mode === "youtube") meta.onclick = () => bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big"));
+    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : yt ? (this.tucked ? "Tap the picture to show the video" : "Tap to enlarge the video") : it.sub });
+    if (yt) meta.onclick = () => { if (this.tucked) this.setTucked(false); else bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big")); };
     else if (it.open) meta.onclick = it.open;
-    const btn = (label: string, cls: string, fn: () => void) => {
-      const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, text: label });
+
+    const btn = (icon: string, cls: string, label: string, fn: () => void) => {
+      const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, attr: { "aria-label": label } });
+      setIcon(b, icon);
       b.onclick = (e) => { e.stopPropagation(); fn(); };
+      return b;
     };
-    if (this.mode === "youtube") btn(this.tucked ? "‹" : "›", "sg-player-tuck", () => this.tuckVideo());
-    btn("⏮", "", () => this.prev());
-    btn(this.paused ? "▶" : "⏸", "sg-player-main", () => this.toggle());
-    btn("⏭", "", () => this.next());
-    btn("✕", "sg-player-x", () => this.stop());
+    const ctl = bar.createDiv({ cls: "sg-player-ctl" });
+    const inCtl = (icon: string, cls: string, label: string, fn: () => void) => { const b = btn(icon, cls, label, fn); ctl.appendChild(b); return b; };
+    inCtl("skip-back", "", "Previous", () => this.prev());
+    inCtl(this.paused ? "play" : "pause", "sg-player-main", this.paused ? "Play" : "Pause", () => this.toggle());
+    inCtl("skip-forward", "", "Next", () => this.next());
+    btn("x", "sg-player-x", "Stop", () => this.stop());
   }
 }
