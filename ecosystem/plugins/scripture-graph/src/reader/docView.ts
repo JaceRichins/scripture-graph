@@ -10,7 +10,7 @@
  * themes (Faith, Doubt, Testimony …) applied to the page as a whole, and the
  * same link rules as everywhere else — scripture links travel, verse links
  * peek, other library pages float. */
-import { ItemView, MarkdownRenderer, Notice, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
+import { ItemView, MarkdownRenderer, Notice, Platform, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
 import { LIBRARY_PREFIX, SGState } from "../state";
 import { AnnotationService, COLOR_HEX } from "../social/annotations";
 import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "../study/themeLibrary";
@@ -57,7 +57,6 @@ export interface DocHost {
 
 export class DocView extends ItemView {
   private path: string | null = null;
-  private showThemes = false;
 
   constructor(leaf: WorkspaceLeaf, private s: SGState, private ann: AnnotationService,
     private host: DocHost) {
@@ -121,7 +120,11 @@ export class DocView extends ItemView {
       if (!historyBack(this.leaf)) this.host.openLibrary();
     };
     head.createDiv({ cls: "sg-doc-eyebrow", text: kind.eyebrow });
-    head.createEl("h1", { cls: "sg-doc-title", text: file.basename });
+    // "And We Talk of Christ (Elder Gary E. Stevenson, April 2025)": the title
+    // is the title; the parenthetical becomes pills beneath it
+    const parenMatch = /^(.*\S)\s+\(([^()]+)\)$/.exec(file.basename);
+    const title = parenMatch ? parenMatch[1]! : file.basename;
+    head.createEl("h1", { cls: "sg-doc-title", text: title });
     const meta = head.createDiv({ cls: "sg-doc-meta" });
     const status = String(fm["status"] ?? "");
     if (status) {
@@ -131,45 +134,46 @@ export class DocView extends ItemView {
           : status.startsWith("queued") ? "In the research queue" : "Seeded answer",
       });
     }
-    for (const key of ["speaker", "session", "month", "year", "date", "scope"]) {
+    const pills: string[] = [];
+    const speaker = typeof fm["speaker"] === "string" ? String(fm["speaker"]) : "";
+    if (speaker) pills.push(speaker);
+    // "April 2025" reads better as one pill than as "April" and "2025"
+    const month = typeof fm["month"] === "string" ? String(fm["month"]) : "";
+    const year = typeof fm["year"] === "string" || typeof fm["year"] === "number" ? String(fm["year"]) : "";
+    if (month && year) pills.push(`${month} ${year}`);
+    else for (const key of ["session", "month", "year", "date"]) {
       const v = fm[key];
-      if (typeof v === "string" && v) meta.createSpan({ cls: "sg-doc-pill", text: v.replace(/-/g, " ") });
+      if (typeof v === "string" && v) pills.push(v.replace(/-/g, " "));
     }
+    if (typeof fm["scope"] === "string" && fm["scope"]) pills.push(String(fm["scope"]).replace(/-/g, " "));
+    // no frontmatter to speak of: the parenthetical itself, split at commas
+    if (!pills.length && parenMatch) pills.push(...parenMatch[2]!.split(/,\s*/).map(x => x.trim()).filter(Boolean));
+    for (const text of pills) meta.createSpan({ cls: "sg-doc-pill", text });
+    // the study actions (notes, themes, Ask AI, bookmark, reading settings)
+    // live on the selection bar: select any text and it rises. The head keeps
+    // only what belongs to the page itself — a video to watch, the raw file.
+    const anchor = this.anchorId(file);
+    page.setAttr("data-sg-doc-anchor", anchor);
+    page.setAttr("data-sg-doc-path", file.path);
+    page.setAttr("data-sg-doc-title", title);
     const actions = head.createDiv({ cls: "sg-doc-actions" });
-    const themesBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "🏷 Themes" });
-    themesBtn.onclick = () => { this.showThemes = !this.showThemes; void this.render(); };
-    const askBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "✨ Ask AI" });
-    askBtn.onclick = () => this.host.openAsk(file.basename);
-    // 🔖 is a toggle: bookmarked pages show it lit, and a tap removes it
-    const aa = actions.createEl("button", { cls: "sg-ask-btn", text: "Aa" });
-    aa.setAttr("aria-label", "Reading settings");
-    aa.onclick = () => this.host.openReading();
     // ▶ Watch — a talk, an episode, a review with a video: plays in the corner, keeps playing as you read
     void this.app.vault.cachedRead(file).then(md => {
       const fm = this.app.metadataCache.getFileCache(file)?.frontmatter as Record<string, unknown> | undefined;
       const id = String(fm?.["youtube"] ?? "").trim() || (/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|embed\/|shorts\/))([A-Za-z0-9_-]{11})/.exec(md)?.[1] ?? "");
       if (!id || !this.host.playVideo) return;
-      const watch = actions.createEl("button", { cls: "sg-ask-btn", text: "▶ Watch" });
+      const watch = actions.createEl("button", { cls: "sg-ask-btn sg-doc-watch", text: "▶ Watch" });
       actions.insertBefore(watch, actions.firstChild);
-      watch.onclick = () => this.host.playVideo!(id, file.basename, docKindFor(file.path)?.eyebrow ?? "Video");
+      watch.onclick = () => this.host.playVideo!(id, title, docKindFor(file.path)?.eyebrow ?? "Video");
     });
-    const markBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "🔖 Bookmark" });
-    let markId: string | null = null;
-    const paint = () => { markBtn.setText(markId ? "🔖 Bookmarked" : "🔖 Bookmark"); markBtn.toggleClass("sg-on", !!markId); };
-    void this.host.bookmarkId(file).then(id => { markId = id; paint(); });
-    markBtn.onclick = () => void (async () => {
-      if (markId) { await this.host.unbookmark(markId); markId = null; }
-      else { await this.host.bookmark(file); markId = await this.host.bookmarkId(file); }
-      paint();
-    })();
-    if (this.host.openRaw) {
-      const raw = actions.createEl("button", { cls: "sg-ask-btn", text: "↗" });
+    if (this.host.openRaw && !Platform.isMobile) {
+      const raw = actions.createEl("button", { cls: "sg-ask-btn sg-doc-raw", text: "↗" });
       raw.setAttr("aria-label", "Open the raw page");
       raw.onclick = () => this.host.openRaw!(file);
     }
+    head.createDiv({ cls: "sg-doc-hint", text: "Select any text for notes, themes, and Ask AI" });
 
     // ---- themes: the page as a whole carries study themes (stackable) ----
-    const anchor = this.anchorId(file);
     const mine = await this.ann.mine(anchor);
     const active = new Set(mine.filter(a => a.annotation_type === "highlight" && a.theme && !a.selected_text)
       .map(a => a.theme!.toLowerCase()));
@@ -186,24 +190,6 @@ export class DocView extends ItemView {
         b.style.borderColor = `${t.c1}88`;
       }
     }
-    if (this.showThemes) {
-      const strip = head.createDiv({ cls: "sg-doc-themes sg-studybar-themes" });
-      for (const t of all) {
-        const chip = strip.createEl("button", {
-          cls: `sg-theme-chip${active.has(t.name.toLowerCase()) ? " sg-style-on" : ""}`,
-          text: `${t.emoji} ${t.name}`,
-        });
-        chip.style.borderBottom = `2px solid ${t.c1}`;
-        chip.onclick = async () => {
-          const { visibility, groupId } = this.s.device.lastShareScope;
-          const on = await this.ann.toggleTheme(anchor, t.name, t.c1, visibility, groupId);
-          trace("doc.theme", { theme: t.name, on, path: file.path });
-          new Notice(on ? `${t.emoji} ${t.name} — ${file.basename}` : `${t.emoji} ${t.name} removed`);
-          void this.render();
-        };
-      }
-    }
-
     // ---- body: the page, one block per section ----
     const body = page.createDiv({ cls: "sg-doc-body markdown-rendered" });
     try {

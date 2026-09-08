@@ -11,7 +11,7 @@
  *
  * Nothing here ever blocks link taps or native text selection.
  */
-import { Menu, Modal, Notice, Platform, Setting, type Plugin } from "obsidian";
+import { Menu, Modal, Notice, Platform, Setting, TFile, type Plugin } from "obsidian";
 import { chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import type { SGState } from "../state";
 import { AnnotationService, COLORS, COLOR_HEX, NoteModal, NotesPopover } from "../social/annotations";
@@ -185,7 +185,7 @@ export class StudyBar {
         if (this.downHadSelection) {
           // tap that dismissed a selection: dismiss our phrase bar too
           trace("up.dismissedSelection", { dt });
-          if (this.sel.partial) this.clear();
+          if (this.sel.partial || this.doc) this.clear();
           return;
         }
         if (!Platform.isMobile) return;                  // desktop taps use click
@@ -274,6 +274,18 @@ export class StudyBar {
     const p = anchor.closest("[data-verse-id], p");
     const vid = this.verseIdOf(p);
     if (!vid) {
+      const page = anchor.closest(".sg-doc-page") as HTMLElement | null;
+      const docAnchor = page?.getAttribute("data-sg-doc-anchor");
+      if (page && docAnchor) {
+        if (this.doc?.selected === text && this.doc.anchor === docAnchor) return;
+        trace("capture.doc", { anchor: docAnchor, len: text.length });
+        for (const v of this.sel.verses) v.el.removeClass("sg-vsel");
+        this.sel = { verses: [], partial: null };
+        this.doc = { anchor: docAnchor, path: page.getAttribute("data-sg-doc-path") ?? "",
+          title: page.getAttribute("data-sg-doc-title") ?? "", selected: text };
+        this.render();
+        return;
+      }
       trace("capture.noVerse", {});
       return;
     }
@@ -372,17 +384,22 @@ export class StudyBar {
   clear(): void {
     trace("bar.clear", { hadPartial: !!this.sel.partial, verses: this.sel.verses.length });
     // leaving phrase mode is the right moment to let go of the native selection
-    if (this.sel.partial) window.getSelection()?.removeAllRanges();
+    if (this.sel.partial || this.doc) window.getSelection()?.removeAllRanges();
     for (const v of this.sel.verses) {
       v.el.removeClass("sg-vsel");
       this.paintChip(v.el, false);
     }
     this.sel = { verses: [], partial: null };
+    this.doc = null;
     this.render();
   }
 
+  /** a phrase selected on a document page (a talk, a question, a history
+   * page): no verse to anchor to, so the page itself is the anchor */
+  private doc: { anchor: string; path: string; title: string; selected: string } | null = null;
+
   private get active(): boolean {
-    return this.sel.verses.length > 0 || this.sel.partial !== null;
+    return this.sel.verses.length > 0 || this.sel.partial !== null || this.doc !== null;
   }
 
   private refLabel(): string {
@@ -406,6 +423,7 @@ export class StudyBar {
       return;
     }
     const scope = this.s.device.lastShareScope;
+    if (this.doc) { this.renderDoc(); return; }
     const sig = JSON.stringify([this.sel.verses.map(v => v.verseId),
       this.sel.partial?.selected, scope, this.s.device.lastColor,
       this.s.device.lastStyle, this.s.device.lastTheme,
@@ -417,6 +435,7 @@ export class StudyBar {
       this.barEl = document.body.createDiv({ cls: "sg-studybar" });
     }
     const bar = this.barEl;
+    bar.removeClass("sg-studybar-doc");
     bar.empty();
 
     // row 1: reference + scope chip + close
@@ -525,6 +544,105 @@ export class StudyBar {
       menu.addItem(i => i.setTitle("✨ Ask AI").onClick(() => this.doAsk()));
       menu.showAtMouseEvent(e);
     };
+  }
+
+  /** the bar for a phrase on a document page: the page's themes, a note
+   * quoting the phrase, Ask AI, share; copy, bookmark, graph and reading
+   * settings behind ⋯. No colors: highlights belong to verses. */
+  private renderDoc(): void {
+    const doc = this.doc!;
+    const sig = JSON.stringify(["doc", doc.anchor, doc.selected, (this.s.settings.themes ?? []).length]);
+    if (sig === this.lastSig && this.barEl) return;
+    this.lastSig = sig;
+    if (!this.barEl) this.barEl = document.body.createDiv({ cls: "sg-studybar" });
+    const bar = this.barEl;
+    bar.addClass("sg-studybar-doc");
+    bar.empty();
+
+    const top = bar.createDiv({ cls: "sg-studybar-top" });
+    top.createSpan({ cls: "sg-studybar-ref", text: doc.title });
+    const close = top.createEl("button", { cls: "sg-studybar-x", text: "✕" });
+    close.onclick = () => this.clear();
+    const short = doc.selected.length > 90 ? doc.selected.slice(0, 88).trimEnd() + "…" : doc.selected;
+    bar.createDiv({ cls: "sg-studybar-quote", text: `“${short}”` });
+
+    // themes go on the page as a whole (what the page head used to offer)
+    const trow = bar.createDiv({ cls: "sg-studybar-themes" });
+    const customs = (this.s.settings.themes ?? [])
+      .filter(t => !THEME_LIBRARY.some(l => l.name.toLowerCase() === t.name.toLowerCase()))
+      .map(t => themeSpec(t.name, this.s.settings.themes ?? [], COLOR_HEX));
+    const chipByName = new Map<string, HTMLElement>();
+    for (const sp of [...THEME_LIBRARY, ...customs]) {
+      const chip = trow.createEl("button", { cls: "sg-theme-chip", text: `${sp.emoji} ${sp.name}` });
+      chip.style.borderBottom = `2px solid ${sp.c1}`;
+      chipByName.set(sp.name.toLowerCase(), chip);
+      chip.onclick = () => void (async () => {
+        const { visibility, groupId } = this.s.device.lastShareScope;
+        const on = await this.ann.toggleTheme(doc.anchor, sp.name, sp.c1, visibility, groupId);
+        chip.toggleClass("sg-style-on", on);
+        trace("doc.theme", { theme: sp.name, on, anchor: doc.anchor });
+        new Notice(on ? `${sp.emoji} ${sp.name} — ${doc.title}` : `${sp.emoji} ${sp.name} removed`);
+        this.s.rerenderReading();
+      })();
+    }
+    void this.ann.mine(doc.anchor).then(mine => {
+      for (const a of mine) {
+        if (a.annotation_type === "highlight" && a.theme && !a.selected_text) chipByName.get(a.theme.toLowerCase())?.addClass("sg-style-on");
+      }
+    });
+
+    const row = bar.createDiv({ cls: "sg-studybar-actions" });
+    const act = (label: string, fn: () => void) => { const b = row.createEl("button", { text: label }); b.onclick = fn; };
+    act("✨ Ask AI", () => {
+      const seed = `About "${doc.selected}" — `;
+      this.clear();
+      this.openAsk(seed, doc.anchor);
+    });
+    act("📝 Note", () => {
+      const { visibility, groupId } = this.s.device.lastShareScope;
+      new NoteModal(this.s, doc.title, (text) => {
+        void this.ann.addNote(doc.anchor, text, doc.selected, visibility, groupId);
+        new Notice(`Note saved — ${doc.title}`);
+        this.clear();
+      }).open();
+    });
+    act("📤 Share", () => void this.shareText(doc.selected, doc.title));
+    const more = row.createEl("button", { cls: "sg-act-more", text: "⋯" });
+    more.setAttribute("aria-label", "More actions");
+    more.onclick = (e) => {
+      const menu = new Menu();
+      menu.addItem(i => i.setTitle("📋 Copy").onClick(() => void this.copyText(doc.selected, doc.title)));
+      const file = this.s.app.vault.getAbstractFileByPath(doc.path);
+      if (file instanceof TFile) {
+        menu.addItem(i => i.setTitle("🔖 Bookmark this page").onClick(() => void (async () => {
+          const have = await this.study.bookmarkOf(file);
+          if (have) await this.study.unbookmark(have); else await this.study.bookmarkFile(file);
+          this.clear();
+        })()));
+      }
+      menu.addItem(i => i.setTitle("🕸 Connections graph").onClick(() => { this.clear(); void openLocalGraphFor(this.s, doc.title); }));
+      menu.addItem(i => i.setTitle("Aa Reading settings").onClick(() => {
+        (this.s.app as unknown as { commands?: { executeCommandById?: (id: string) => void } })
+          .commands?.executeCommandById?.("scripture-graph:reading-settings");
+      }));
+      menu.showAtMouseEvent(e);
+    };
+  }
+
+  private async shareText(text: string, ref: string): Promise<void> {
+    const card = `“${text}”\n— ${ref}`;
+    const nav = navigator as Navigator & { share?: (d: { text: string; title?: string }) => Promise<void> };
+    try {
+      if (typeof nav.share === "function") await nav.share({ title: ref, text: card });
+      else { await navigator.clipboard.writeText(card); new Notice("Copied — no share sheet here"); }
+    } catch { /* the user closed the sheet */ }
+    this.clear();
+  }
+
+  private async copyText(text: string, ref: string): Promise<void> {
+    try { await navigator.clipboard.writeText(`"${text}"\n— ${ref}`); new Notice("Copied"); }
+    catch { new Notice("Copy failed"); }
+    this.clear();
   }
 
   private pickScope(e: MouseEvent): void {

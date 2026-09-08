@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.25 build 2561f4146 2026-09-08T11:42:38Z */
+/* scripture-graph v0.72.26 build f65ed13ab 2026-09-08T11:49:58Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.25", sha: "2561f4146", at: "2026-09-08T11:42:38Z" };
+    define_SG_BUILD_default = { version: "0.72.26", sha: "f65ed13ab", at: "2026-09-08T11:49:58Z" };
   }
 });
 
@@ -11116,7 +11116,7 @@ var init_studyBar = __esm({
             }
             if (this.downHadSelection) {
               trace("up.dismissedSelection", { dt });
-              if (this.sel.partial) this.clear();
+              if (this.sel.partial || this.doc) this.clear();
               return;
             }
             if (!import_obsidian13.Platform.isMobile) return;
@@ -11193,6 +11193,22 @@ var init_studyBar = __esm({
         const p = anchor.closest("[data-verse-id], p");
         const vid = this.verseIdOf(p);
         if (!vid) {
+          const page = anchor.closest(".sg-doc-page");
+          const docAnchor = page?.getAttribute("data-sg-doc-anchor");
+          if (page && docAnchor) {
+            if (this.doc?.selected === text && this.doc.anchor === docAnchor) return;
+            trace("capture.doc", { anchor: docAnchor, len: text.length });
+            for (const v of this.sel.verses) v.el.removeClass("sg-vsel");
+            this.sel = { verses: [], partial: null };
+            this.doc = {
+              anchor: docAnchor,
+              path: page.getAttribute("data-sg-doc-path") ?? "",
+              title: page.getAttribute("data-sg-doc-title") ?? "",
+              selected: text
+            };
+            this.render();
+            return;
+          }
           trace("capture.noVerse", {});
           return;
         }
@@ -11274,16 +11290,20 @@ var init_studyBar = __esm({
       }
       clear() {
         trace("bar.clear", { hadPartial: !!this.sel.partial, verses: this.sel.verses.length });
-        if (this.sel.partial) window.getSelection()?.removeAllRanges();
+        if (this.sel.partial || this.doc) window.getSelection()?.removeAllRanges();
         for (const v of this.sel.verses) {
           v.el.removeClass("sg-vsel");
           this.paintChip(v.el, false);
         }
         this.sel = { verses: [], partial: null };
+        this.doc = null;
         this.render();
       }
+      /** a phrase selected on a document page (a talk, a question, a history
+       * page): no verse to anchor to, so the page itself is the anchor */
+      doc = null;
       get active() {
-        return this.sel.verses.length > 0 || this.sel.partial !== null;
+        return this.sel.verses.length > 0 || this.sel.partial !== null || this.doc !== null;
       }
       refLabel() {
         if (this.sel.partial) return verseDisplay(this.sel.partial.verseId) ?? this.sel.partial.verseId;
@@ -11304,6 +11324,10 @@ var init_studyBar = __esm({
           return;
         }
         const scope = this.s.device.lastShareScope;
+        if (this.doc) {
+          this.renderDoc();
+          return;
+        }
         const sig = JSON.stringify([
           this.sel.verses.map((v) => v.verseId),
           this.sel.partial?.selected,
@@ -11320,6 +11344,7 @@ var init_studyBar = __esm({
           this.barEl = document.body.createDiv({ cls: "sg-studybar" });
         }
         const bar = this.barEl;
+        bar.removeClass("sg-studybar-doc");
         bar.empty();
         const top = bar.createDiv({ cls: "sg-studybar-top" });
         top.createSpan({ cls: "sg-studybar-ref", text: this.refLabel() });
@@ -11414,6 +11439,112 @@ var init_studyBar = __esm({
           menu.addItem((i) => i.setTitle("\u2728 Ask AI").onClick(() => this.doAsk()));
           menu.showAtMouseEvent(e);
         };
+      }
+      /** the bar for a phrase on a document page: the page's themes, a note
+       * quoting the phrase, Ask AI, share; copy, bookmark, graph and reading
+       * settings behind ⋯. No colors: highlights belong to verses. */
+      renderDoc() {
+        const doc = this.doc;
+        const sig = JSON.stringify(["doc", doc.anchor, doc.selected, (this.s.settings.themes ?? []).length]);
+        if (sig === this.lastSig && this.barEl) return;
+        this.lastSig = sig;
+        if (!this.barEl) this.barEl = document.body.createDiv({ cls: "sg-studybar" });
+        const bar = this.barEl;
+        bar.addClass("sg-studybar-doc");
+        bar.empty();
+        const top = bar.createDiv({ cls: "sg-studybar-top" });
+        top.createSpan({ cls: "sg-studybar-ref", text: doc.title });
+        const close = top.createEl("button", { cls: "sg-studybar-x", text: "\u2715" });
+        close.onclick = () => this.clear();
+        const short = doc.selected.length > 90 ? doc.selected.slice(0, 88).trimEnd() + "\u2026" : doc.selected;
+        bar.createDiv({ cls: "sg-studybar-quote", text: `\u201C${short}\u201D` });
+        const trow = bar.createDiv({ cls: "sg-studybar-themes" });
+        const customs = (this.s.settings.themes ?? []).filter((t) => !THEME_LIBRARY.some((l) => l.name.toLowerCase() === t.name.toLowerCase())).map((t) => themeSpec(t.name, this.s.settings.themes ?? [], COLOR_HEX));
+        const chipByName = /* @__PURE__ */ new Map();
+        for (const sp of [...THEME_LIBRARY, ...customs]) {
+          const chip = trow.createEl("button", { cls: "sg-theme-chip", text: `${sp.emoji} ${sp.name}` });
+          chip.style.borderBottom = `2px solid ${sp.c1}`;
+          chipByName.set(sp.name.toLowerCase(), chip);
+          chip.onclick = () => void (async () => {
+            const { visibility, groupId } = this.s.device.lastShareScope;
+            const on = await this.ann.toggleTheme(doc.anchor, sp.name, sp.c1, visibility, groupId);
+            chip.toggleClass("sg-style-on", on);
+            trace("doc.theme", { theme: sp.name, on, anchor: doc.anchor });
+            new import_obsidian13.Notice(on ? `${sp.emoji} ${sp.name} \u2014 ${doc.title}` : `${sp.emoji} ${sp.name} removed`);
+            this.s.rerenderReading();
+          })();
+        }
+        void this.ann.mine(doc.anchor).then((mine) => {
+          for (const a2 of mine) {
+            if (a2.annotation_type === "highlight" && a2.theme && !a2.selected_text) chipByName.get(a2.theme.toLowerCase())?.addClass("sg-style-on");
+          }
+        });
+        const row = bar.createDiv({ cls: "sg-studybar-actions" });
+        const act = (label, fn) => {
+          const b = row.createEl("button", { text: label });
+          b.onclick = fn;
+        };
+        act("\u2728 Ask AI", () => {
+          const seed = `About "${doc.selected}" \u2014 `;
+          this.clear();
+          this.openAsk(seed, doc.anchor);
+        });
+        act("\u{1F4DD} Note", () => {
+          const { visibility, groupId } = this.s.device.lastShareScope;
+          new NoteModal(this.s, doc.title, (text) => {
+            void this.ann.addNote(doc.anchor, text, doc.selected, visibility, groupId);
+            new import_obsidian13.Notice(`Note saved \u2014 ${doc.title}`);
+            this.clear();
+          }).open();
+        });
+        act("\u{1F4E4} Share", () => void this.shareText(doc.selected, doc.title));
+        const more = row.createEl("button", { cls: "sg-act-more", text: "\u22EF" });
+        more.setAttribute("aria-label", "More actions");
+        more.onclick = (e) => {
+          const menu = new import_obsidian13.Menu();
+          menu.addItem((i) => i.setTitle("\u{1F4CB} Copy").onClick(() => void this.copyText(doc.selected, doc.title)));
+          const file = this.s.app.vault.getAbstractFileByPath(doc.path);
+          if (file instanceof import_obsidian13.TFile) {
+            menu.addItem((i) => i.setTitle("\u{1F516} Bookmark this page").onClick(() => void (async () => {
+              const have = await this.study.bookmarkOf(file);
+              if (have) await this.study.unbookmark(have);
+              else await this.study.bookmarkFile(file);
+              this.clear();
+            })()));
+          }
+          menu.addItem((i) => i.setTitle("\u{1F578} Connections graph").onClick(() => {
+            this.clear();
+            void openLocalGraphFor(this.s, doc.title);
+          }));
+          menu.addItem((i) => i.setTitle("Aa Reading settings").onClick(() => {
+            this.s.app.commands?.executeCommandById?.("scripture-graph:reading-settings");
+          }));
+          menu.showAtMouseEvent(e);
+        };
+      }
+      async shareText(text, ref) {
+        const card = `\u201C${text}\u201D
+\u2014 ${ref}`;
+        const nav = navigator;
+        try {
+          if (typeof nav.share === "function") await nav.share({ title: ref, text: card });
+          else {
+            await navigator.clipboard.writeText(card);
+            new import_obsidian13.Notice("Copied \u2014 no share sheet here");
+          }
+        } catch {
+        }
+        this.clear();
+      }
+      async copyText(text, ref) {
+        try {
+          await navigator.clipboard.writeText(`"${text}"
+\u2014 ${ref}`);
+          new import_obsidian13.Notice("Copied");
+        } catch {
+          new import_obsidian13.Notice("Copy failed");
+        }
+        this.clear();
       }
       pickScope(e) {
         const menu = new import_obsidian13.Menu();
@@ -15452,7 +15583,6 @@ var import_obsidian20 = require("obsidian");
 init_annotations();
 init_themeLibrary();
 init_leafNav();
-init_trace();
 var DOC_VIEW = "scripture-graph-doc";
 var DOC_KINDS = [
   { prefix: `${LIBRARY_PREFIX}50 Questions/`, eyebrow: "Hard question", moc: "Questions.md" },
@@ -15479,7 +15609,6 @@ var DocView = class extends import_obsidian20.ItemView {
     this.navigation = true;
   }
   path = null;
-  showThemes = false;
   getViewType() {
     return DOC_VIEW;
   }
@@ -15535,7 +15664,9 @@ var DocView = class extends import_obsidian20.ItemView {
       if (!historyBack(this.leaf)) this.host.openLibrary();
     };
     head.createDiv({ cls: "sg-doc-eyebrow", text: kind.eyebrow });
-    head.createEl("h1", { cls: "sg-doc-title", text: file.basename });
+    const parenMatch = /^(.*\S)\s+\(([^()]+)\)$/.exec(file.basename);
+    const title = parenMatch ? parenMatch[1] : file.basename;
+    head.createEl("h1", { cls: "sg-doc-title", text: title });
     const meta = head.createDiv({ cls: "sg-doc-meta" });
     const status = String(fm["status"] ?? "");
     if (status) {
@@ -15544,55 +15675,38 @@ var DocView = class extends import_obsidian20.ItemView {
         text: status.startsWith("developed") ? "Researched dossier" : status.startsWith("queued") ? "In the research queue" : "Seeded answer"
       });
     }
-    for (const key of ["speaker", "session", "month", "year", "date", "scope"]) {
+    const pills = [];
+    const speaker = typeof fm["speaker"] === "string" ? String(fm["speaker"]) : "";
+    if (speaker) pills.push(speaker);
+    const month = typeof fm["month"] === "string" ? String(fm["month"]) : "";
+    const year = typeof fm["year"] === "string" || typeof fm["year"] === "number" ? String(fm["year"]) : "";
+    if (month && year) pills.push(`${month} ${year}`);
+    else for (const key of ["session", "month", "year", "date"]) {
       const v = fm[key];
-      if (typeof v === "string" && v) meta.createSpan({ cls: "sg-doc-pill", text: v.replace(/-/g, " ") });
+      if (typeof v === "string" && v) pills.push(v.replace(/-/g, " "));
     }
+    if (typeof fm["scope"] === "string" && fm["scope"]) pills.push(String(fm["scope"]).replace(/-/g, " "));
+    if (!pills.length && parenMatch) pills.push(...parenMatch[2].split(/,\s*/).map((x3) => x3.trim()).filter(Boolean));
+    for (const text of pills) meta.createSpan({ cls: "sg-doc-pill", text });
+    const anchor = this.anchorId(file);
+    page.setAttr("data-sg-doc-anchor", anchor);
+    page.setAttr("data-sg-doc-path", file.path);
+    page.setAttr("data-sg-doc-title", title);
     const actions = head.createDiv({ cls: "sg-doc-actions" });
-    const themesBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "\u{1F3F7} Themes" });
-    themesBtn.onclick = () => {
-      this.showThemes = !this.showThemes;
-      void this.render();
-    };
-    const askBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "\u2728 Ask AI" });
-    askBtn.onclick = () => this.host.openAsk(file.basename);
-    const aa = actions.createEl("button", { cls: "sg-ask-btn", text: "Aa" });
-    aa.setAttr("aria-label", "Reading settings");
-    aa.onclick = () => this.host.openReading();
     void this.app.vault.cachedRead(file).then((md) => {
       const fm2 = this.app.metadataCache.getFileCache(file)?.frontmatter;
       const id = String(fm2?.["youtube"] ?? "").trim() || (/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|embed\/|shorts\/))([A-Za-z0-9_-]{11})/.exec(md)?.[1] ?? "");
       if (!id || !this.host.playVideo) return;
-      const watch = actions.createEl("button", { cls: "sg-ask-btn", text: "\u25B6 Watch" });
+      const watch = actions.createEl("button", { cls: "sg-ask-btn sg-doc-watch", text: "\u25B6 Watch" });
       actions.insertBefore(watch, actions.firstChild);
-      watch.onclick = () => this.host.playVideo(id, file.basename, docKindFor(file.path)?.eyebrow ?? "Video");
+      watch.onclick = () => this.host.playVideo(id, title, docKindFor(file.path)?.eyebrow ?? "Video");
     });
-    const markBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "\u{1F516} Bookmark" });
-    let markId = null;
-    const paint = () => {
-      markBtn.setText(markId ? "\u{1F516} Bookmarked" : "\u{1F516} Bookmark");
-      markBtn.toggleClass("sg-on", !!markId);
-    };
-    void this.host.bookmarkId(file).then((id) => {
-      markId = id;
-      paint();
-    });
-    markBtn.onclick = () => void (async () => {
-      if (markId) {
-        await this.host.unbookmark(markId);
-        markId = null;
-      } else {
-        await this.host.bookmark(file);
-        markId = await this.host.bookmarkId(file);
-      }
-      paint();
-    })();
-    if (this.host.openRaw) {
-      const raw = actions.createEl("button", { cls: "sg-ask-btn", text: "\u2197" });
+    if (this.host.openRaw && !import_obsidian20.Platform.isMobile) {
+      const raw = actions.createEl("button", { cls: "sg-ask-btn sg-doc-raw", text: "\u2197" });
       raw.setAttr("aria-label", "Open the raw page");
       raw.onclick = () => this.host.openRaw(file);
     }
-    const anchor = this.anchorId(file);
+    head.createDiv({ cls: "sg-doc-hint", text: "Select any text for notes, themes, and Ask AI" });
     const mine = await this.ann.mine(anchor);
     const active = new Set(mine.filter((a2) => a2.annotation_type === "highlight" && a2.theme && !a2.selected_text).map((a2) => a2.theme.toLowerCase()));
     const customs = (this.s.settings.themes ?? []).filter((t) => !THEME_LIBRARY.some((l) => l.name.toLowerCase() === t.name.toLowerCase())).map((t) => themeSpec(t.name, this.s.settings.themes ?? [], COLOR_HEX));
@@ -15604,23 +15718,6 @@ var DocView = class extends import_obsidian20.ItemView {
         const b = badges.createSpan({ cls: "sg-doc-badge", text: `${t.emoji} ${t.name}` });
         b.style.background = `linear-gradient(135deg, ${t.c1}33, ${t.c2}33)`;
         b.style.borderColor = `${t.c1}88`;
-      }
-    }
-    if (this.showThemes) {
-      const strip = head.createDiv({ cls: "sg-doc-themes sg-studybar-themes" });
-      for (const t of all) {
-        const chip = strip.createEl("button", {
-          cls: `sg-theme-chip${active.has(t.name.toLowerCase()) ? " sg-style-on" : ""}`,
-          text: `${t.emoji} ${t.name}`
-        });
-        chip.style.borderBottom = `2px solid ${t.c1}`;
-        chip.onclick = async () => {
-          const { visibility, groupId } = this.s.device.lastShareScope;
-          const on = await this.ann.toggleTheme(anchor, t.name, t.c1, visibility, groupId);
-          trace("doc.theme", { theme: t.name, on, path: file.path });
-          new import_obsidian20.Notice(on ? `${t.emoji} ${t.name} \u2014 ${file.basename}` : `${t.emoji} ${t.name} removed`);
-          void this.render();
-        };
       }
     }
     const body = page.createDiv({ cls: "sg-doc-body markdown-rendered" });
