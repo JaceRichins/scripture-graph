@@ -539,6 +539,7 @@ def build(ctx: Ctx, log, partial: bool = False) -> int:
             if pid in shown and nums:
                 lines_of.setdefault(pid, []).append((info.get("name", root), min(n.bit_length() - 1 for n in nums)))
     mentions = _mentions(ctx, {pid: pr.name for pid, pr in shown.items()})
+    stems = {p.stem for p in (ctx.vault / "AI Library").rglob("*.md")}
     n = 0
     for pid, pr in shown.items():
         birth, death = _fact(pr, "Birth"), _fact(pr, "Death")
@@ -589,6 +590,9 @@ def build(ctx: Ctx, log, partial: bool = False) -> int:
                                       for s in pr.sources], ""]
         if mentions.get(pid):
             lines += ["## In the library", *[f"- [[{m}]]" for m in mentions[pid][:12]], ""]
+        lived = _lifetime(pr, stems)
+        if lived:
+            lines += ["## In their lifetime", "_What was happening in the Church while they lived._", "", *lived, ""]
         lines += ["", f"[FamilySearch record]({SITE}/tree/person/details/{pid})", ""]
         gen = min((g for _, g in lines_of.get(pid, [])), default=0)
         fm = {"ownership": "ai", "mutable": "engine", "content_type": "ancestor", "sg-id": f"fs:{pid}",
@@ -597,7 +601,7 @@ def build(ctx: Ctx, log, partial: bool = False) -> int:
         fm = {k: v for k, v in fm.items() if v is not None}
         if record_file(ctx, f"{FOLDER}/{title_of[pid]}.md", "family", "generator", None, mdkit.build_note(fm, "\n".join(lines))):
             n += 1
-    write_tree(ctx, shown, roots, title_of, log)
+    write_tree(ctx, shown, roots, title_of, log, mentions)
     # the shelf's index: each line, by generation
     lines = ["# Family", "", "Our ancestors, from FamilySearch \u2014 their lives, their records, and the stories and pictures the family has kept there.", ""]
     for root, info in roots.items():
@@ -623,8 +627,58 @@ def build(ctx: Ctx, log, partial: bool = False) -> int:
 
 THUMB_EDGE = 220
 
+# Church-history milestones an ancestor may have lived through: (year, what, page title in the vault if any)
+MILESTONES: list[tuple[int, str, str | None]] = [
+    (1820, "The First Vision", "First Vision"),
+    (1829, "The priesthood restored", "Priesthood Restoration"),
+    (1830, "The Book of Mormon published; the Church organized", "Restoration of the Gospel"),
+    (1836, "The Kirtland Temple dedicated", "Temples"),
+    (1838, "The Saints driven from Missouri", None),
+    (1844, "Joseph and Hyrum Smith martyred at Carthage", "Joseph Smith"),
+    (1846, "The exodus from Nauvoo begins", None),
+    (1847, "The pioneers enter the Salt Lake Valley", "Brigham Young"),
+    (1856, "The handcart companies; the Willie and Martin rescue", None),
+    (1869, "The railroad reaches Utah", None),
+    (1877, "The St. George Temple dedicated; Brigham Young dies", "Brigham Young"),
+    (1890, "The Manifesto ends plural marriage", None),
+    (1893, "The Salt Lake Temple dedicated", "Temples"),
+    (1896, "Utah becomes a state", None),
+    (1918, "Joseph F. Smith's vision of the redemption of the dead (D&C 138)", "Joseph F. Smith"),
+    (1936, "The Church welfare program begins", None),
+    (1978, "The priesthood extended to all worthy men (Official Declaration 2)", "Priesthood"),
+    (2000, "The 100th temple dedicated", "Temples"),
+]
 
-def write_tree(ctx: Ctx, shown: dict[str, Person], roots: dict, title_of: dict[str, str], log) -> None:
+
+def _year(text: str | None) -> int | None:
+    m = re.search(r"\d{4}", text or "")
+    return int(m.group(0)) if m else None
+
+
+def _fact_raw(pr: Person, kind: str) -> dict:
+    for fc in pr.facts:
+        if _label(fc["type"]) == kind:
+            return fc
+    return {}
+
+
+def _lifetime(pr: Person, stems: set[str]) -> list[str]:
+    """milestone lines for the years between birth and death (or birth + 85)"""
+    born, died = _year(_fact_raw(pr, "Birth").get("date")), _year(_fact_raw(pr, "Death").get("date"))
+    if not born:
+        return []
+    until = died or born + 85
+    out = []
+    for year, what, page in MILESTONES:
+        if born <= year <= until:
+            age = year - born
+            link = f"[[{page}|{what}]]" if page and page in stems else what
+            out.append(f"- **{year}** — {link} _(age {age})_")
+    return out
+
+
+def write_tree(ctx: Ctx, shown: dict[str, Person], roots: dict, title_of: dict[str, str], log,
+               mentions: dict[str, list[str]] | None = None) -> None:
     """Family Tree.md: one small JSON block the app draws the pedigree from —
     every person as a node (the living by name only), parents by id, years,
     the page title, and a thumbnail (its own small file) when there is a
@@ -659,6 +713,22 @@ def write_tree(ctx: Ctx, shown: dict[str, Person], roots: dict, title_of: dict[s
         if yd:
             node["d"] = yd.group(0)
         node["page"] = title_of[pid]
+        # the smart tree's facts: full dates and places, what the shelf holds
+        bfact, dfact = _fact_raw(pr, "Birth"), _fact_raw(pr, "Death")
+        for key, fact in (("b", bfact), ("d", dfact)):
+            if fact.get("date"):
+                node[f"{key}f"] = fact["date"]
+            if fact.get("place"):
+                node[f"{key}p"] = ", ".join([x.strip() for x in fact["place"].split(",")][:2])
+        ph = sum(1 for m in pr.memories if m["kind"] in ("photo", "document") and m.get("file"))
+        st = sum(1 for m in pr.memories if m["kind"] == "story")
+        lib = len((mentions or {}).get(pid, []))
+        if ph:
+            node["ph"] = ph
+        if st:
+            node["st"] = st
+        if lib:
+            node["lib"] = lib
         photo = next((m for m in pr.memories if m["kind"] == "photo" and m.get("file")), None)
         if photo:
             thumb = _thumbnail(ctx, pid, photo["file"])

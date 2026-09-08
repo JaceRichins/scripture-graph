@@ -17,7 +17,7 @@ import { cascade, iconHue, navIcon, type NavIconName } from "./navIcons";
 import { LIBRARY_SECTIONS, VOLUMES, titleForChapterSlug, type NavigatorHost } from "./navigator";
 import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } from "./search";
 import { AddSongModal, songsOn } from "./addSong";
-import { FamilyTree, loadTree } from "./familyTree";
+import { FamilyTree, loadTree, monthDay, type TreeNode } from "./familyTree";
 import { BUNDLED_COVERS } from "../assets/covers";
 import { BUILD } from "../build";
 
@@ -757,6 +757,8 @@ export class SGLibraryView extends ItemView {
     void this.renderThisWeek(c.createDiv({ cls: "sg-cfm-slot" }));
     // 📖 Continue — the chapter you were in, one tap back; the ones before it beside
     this.renderContinue(c.createDiv({ cls: "sg-continue-slot" }));
+    // 🌳 This week in your family — birthdays and anniversaries of your ancestors
+    void this.renderFamilyWeek(c.createDiv({ cls: "sg-famweek-slot" }));
     // ✦ Did you notice? — one deep, faith-building connection a day
     void this.renderInsight(c.createDiv({ cls: "sg-insight-slot" }));
     // what the family is studying — quiet rows
@@ -789,6 +791,45 @@ export class SGLibraryView extends ItemView {
     col.createDiv({ cls: "sg-nav-gsub", text: "Scriptures, conference, history, topics, music" });
     browse.createSpan({ cls: "sg-nav-chev", text: "›" });
     browse.onclick = () => this.go({ kind: "scriptures" });
+  }
+
+  /** ancestors whose birthday or anniversary falls this week, from the
+   * family tree note; nothing when the shelf has no tree yet */
+  private async renderFamilyWeek(slot: HTMLElement): Promise<void> {
+    const f = this.app.metadataCache.getFirstLinkpathDest("Family Tree", "");
+    if (!f) { slot.remove(); return; }             // no tree yet: no fetch just for the card
+    const data = await loadTree(this.app);
+    if (!data || !slot.isConnected) { slot.remove(); return; }
+    const today = new Date();
+    const doy = (m: number, d: number) => { const t = new Date(today.getFullYear(), m - 1, d); return Math.round((t.getTime() - new Date(today.getFullYear(), 0, 1).getTime()) / 86_400_000); };
+    const now = doy(today.getMonth() + 1, today.getDate());
+    const rows: { pid: string; n: TreeNode; what: string; when: string; delta: number }[] = [];
+    for (const [pid, n] of Object.entries(data.people)) {
+      if (n.living || !n.page) continue;
+      for (const [date, what] of [[n.bf, "born"], [n.df, "died"]] as const) {
+        const md = monthDay(date);
+        if (!md) continue;
+        let delta = doy(md.m, md.d) - now;
+        if (delta < -3) delta += 365;
+        if (delta < -3 || delta > 3) continue;
+        const year = /\d{4}/.exec(date ?? "")?.[0];
+        const ago = year ? `${today.getFullYear() - Number(year)} years ago` : "";
+        rows.push({ pid, n, what, when: delta === 0 ? "today" : delta === 1 ? "tomorrow" : delta === -1 ? "yesterday" : delta > 0 ? `in ${delta} days` : `${-delta} days ago`, delta: Math.abs(delta) });
+        rows[rows.length - 1]!.what = `${what} ${ago}`.trim();
+      }
+    }
+    if (!rows.length) { slot.remove(); return; }
+    rows.sort((a, b) => a.delta - b.delta);
+    const card = slot.createDiv({ cls: "sg-cfm sg-famweek" });
+    card.createDiv({ cls: "sg-cfm-eyebrow", text: "This week in your family" });
+    for (const r of rows.slice(0, 4)) {
+      const row = card.createDiv({ cls: "sg-famweek-row" });
+      row.createDiv({ cls: "sg-famweek-name", text: r.n.n });
+      row.createDiv({ cls: "sg-famweek-sub", text: `${r.what} · ${r.when}` });
+      row.onclick = () => this.host.openNote(r.n.page!);
+    }
+    const all = card.createEl("button", { cls: "sg-cfm-chip", text: "Open the family tree" });
+    all.onclick = () => this.go({ kind: "family" });
   }
 
   /** the chapter you were in, as a card like this week's lesson; the two
