@@ -33,17 +33,23 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Come, Thou Fount of Every Blessing",
           "a": "Hymn",
-          "yt": "gPKpkrqBwNs"
+          "yt": "gPKpkrqBwNs",
+          "choir": "https://assets.churchofjesuschrist.org/10/84/1084559b60d611eea142eeeeac1e8a427f25b194/2023_10_come_thou_fount_of_every_blessing.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Lead, Kindly Light",
           "a": "Hymn",
-          "yt": "fCbZJwhpTmo"
+          "yt": "fCbZJwhpTmo",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-3002-lead-kindly-light-256k-eng.mp3",
+          "choir_when": "April 2020 General Conference"
         },
         {
           "t": "How Firm a Foundation",
           "a": "Hymn",
-          "yt": "r0Xvr8maR34"
+          "yt": "r0Xvr8maR34",
+          "choir": "https://assets.churchofjesuschrist.org/f4/8e/f48ee7ec5ff011eea978eeeeac1ef95b5153e7d6/2023_10_how_firm_a_foundation.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "The Lord Is My Light",
@@ -63,22 +69,30 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Where Can I Turn for Peace?",
           "a": "Hymn",
-          "yt": "XJvZFUZ-c0I"
+          "yt": "XJvZFUZ-c0I",
+          "choir": "https://assets.churchofjesuschrist.org/f3/de/f3deec1a249911ec8410eeeeac1e04a2c049a69b/2021_10_where_can_i_turn_for_peace_eng.mp3",
+          "choir_when": "October 2021 General Conference"
         },
         {
           "t": "God Is Love",
           "a": "Hymn",
-          "yt": "EXcFR5YCrj4"
+          "yt": "EXcFR5YCrj4",
+          "choir": "https://assets.churchofjesuschrist.org/94/jj/94jj91ltxjjyzxalpqf18g43a0r8plynmzw1quhn/2025_04_god_is_love.mp3",
+          "choir_when": "April 2025 General Conference"
         },
         {
           "t": "I Know That My Redeemer Lives",
           "a": "Hymn",
-          "yt": "_1Uw-4Q4UfI"
+          "yt": "_1Uw-4Q4UfI",
+          "choir": "https://assets.churchofjesuschrist.org/j2/2r/j22rl3hypy1h52ok2rmx38uuuv51g881dchvz4kf/2024_10_i_know_that_my_redeemer_lives.mp3",
+          "choir_when": "October 2024 General Conference"
         },
         {
           "t": "Redeemer of Israel",
           "a": "Hymn",
-          "yt": "Kw2cTPf8QFQ"
+          "yt": "Kw2cTPf8QFQ",
+          "choir": "https://assets.churchofjesuschrist.org/tv/gy/tvgyw2a6jmnm2rwkfdeefxg8iuj46l1icpx5huej/2025_04_redeemer_of_israel.mp3",
+          "choir_when": "April 2025 General Conference"
         },
         {
           "t": "Anytime, Anywhere",
@@ -158,7 +172,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "If You Could Hie to Kolob",
           "a": "Hymn",
-          "yt": "O_h_1WRcMQg"
+          "yt": "O_h_1WRcMQg",
+          "choir": "https://assets.churchofjesuschrist.org/bb/fc/bbfca51659906135b3e576ff00c5ab5cfce25f9b/if_you_could_hie_to_kolob.mp3",
+          "choir_when": "April 2008 General Conference"
         },
         {
           "t": "His Voice as the Sound of the Dulcimer",
@@ -181,17 +197,23 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "O My Father",
           "a": "Hymn",
-          "yt": "b6rO0u65R5Q"
+          "yt": "b6rO0u65R5Q",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5002-o-my-father-64k-eng.mp3",
+          "choir_when": "April 2009 General Conference"
         },
         {
           "t": "Oh Say, What Is Truth?",
           "a": "Hymn",
-          "yt": "G9anfFdAr3E"
+          "yt": "G9anfFdAr3E",
+          "choir": "https://assets.churchofjesuschrist.org/f4/18/f4187146648367a3a8ba2ead9db8c301e45a8c62/2020_10_oh_say_what_is_truth.mp3",
+          "choir_when": "October 2020 General Conference"
         },
         {
           "t": "The Morning Breaks",
           "a": "Hymn",
-          "yt": "wLsYNUd_Zq4"
+          "yt": "wLsYNUd_Zq4",
+          "choir": "https://assets.churchofjesuschrist.org/1e/ed/1eed808ef44b11ee87fbeeeeac1e390cc3c6f7e8/2024_04_the_morning_breaks.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "God of Our Fathers, Whose Almighty Hand",
@@ -211,7 +233,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "My Heavenly Father Loves Me",
           "a": "Primary",
-          "yt": "7XSE63QIc7I"
+          "yt": "7XSE63QIc7I",
+          "choir": "https://assets.churchofjesuschrist.org/1i/t6/1it6jp3ck81cy9n3rgctnl63wp7faw2cl9uqgp48/2025_10_my_heavenly_father_loves_me.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "I Wonder When He Comes Again",
@@ -221,7 +245,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Come, Thou Fount of Every Blessing",
           "a": "Hymn",
-          "yt": "gPKpkrqBwNs"
+          "yt": "gPKpkrqBwNs",
+          "choir": "https://assets.churchofjesuschrist.org/10/84/1084559b60d611eea142eeeeac1e8a427f25b194/2023_10_come_thou_fount_of_every_blessing.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Stars",
@@ -273,7 +299,9 @@ a search in the music app. `cover` names a file in `covers/`.
           "a": "American folk song",
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Shenandoah_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
           "credit": "Shenandoah - Singing Sergeants - United States Air Force Band.mp3 (public domain)",
-          "yt": "-GtwNJf3EK4"
+          "yt": "-GtwNJf3EK4",
+          "choir": "https://assets.churchofjesuschrist.org/635e60ddabf911eea5e1eeeeac1e72f416704455-32k-en.m4a",
+          "choir_when": "Best Of The Tabernacle Choir"
         },
         {
           "t": "Wayfaring Stranger",
@@ -308,7 +336,9 @@ a search in the music app. `cover` names a file in `covers/`.
           "t": "O Divine Redeemer",
           "a": "Charles Gounod",
           "url": "",
-          "yt": "tQPC-SX-Rvw"
+          "yt": "tQPC-SX-Rvw",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-4051-o-divine-redeemer-256k-eng.mp3",
+          "choir_when": "October 2013 General Conference"
         },
         {
           "t": "Homeward Bound",
@@ -326,12 +356,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Where Can I Turn for Peace?",
           "a": "Hymn",
-          "yt": "XJvZFUZ-c0I"
+          "yt": "XJvZFUZ-c0I",
+          "choir": "https://assets.churchofjesuschrist.org/f3/de/f3deec1a249911ec8410eeeeac1e04a2c049a69b/2021_10_where_can_i_turn_for_peace_eng.mp3",
+          "choir_when": "October 2021 General Conference"
         },
         {
           "t": "Abide with Me; 'Tis Eventide",
           "a": "Hymn",
-          "yt": "Q_F0mWGTN04"
+          "yt": "Q_F0mWGTN04",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-5081-abide-with-me-tis-eventide-256k-eng.mp3",
+          "choir_when": "October 2013 General Conference"
         },
         {
           "t": "Abide with Me!",
@@ -341,12 +375,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Need Thee Every Hour",
           "a": "Hymn",
-          "yt": "PPEdmbgga_o"
+          "yt": "PPEdmbgga_o",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2019-general-conference/2019-04-5071-i-need-thee-every-hour-256k-eng.mp3",
+          "choir_when": "April 2019 General Conference"
         },
         {
           "t": "It Is Well with My Soul",
           "a": "Hymn",
-          "yt": "Eg5O2y1UXw4"
+          "yt": "Eg5O2y1UXw4",
+          "choir": "https://assets.churchofjesuschrist.org/pz/9e/pz9es1jxxwssokbkuu3wh7wwk8wwy5reyx53cu3d/2025_04_it_is_well_with_my_soul.mp3",
+          "choir_when": "April 2025 General Conference"
         },
         {
           "t": "Nearer, My God, to Thee",
@@ -356,7 +394,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "His Eye Is on the Sparrow",
           "a": "Hymn",
-          "yt": "6ha9a9YF3UI"
+          "yt": "6ha9a9YF3UI",
+          "choir": "https://assets.churchofjesuschrist.org/b8/0c/b80cb69af52511ee86d2eeeeac1e12bee1bf1296/2024_04_his_eye_is_on_the_sparrow.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "Be Still, My Soul",
@@ -366,7 +406,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Master, the Tempest Is Raging",
           "a": "Hymn",
-          "yt": "Ef2xgL45qX4"
+          "yt": "Ef2xgL45qX4",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-4003-master-the-tempest-is-raging-256k-eng.mp3",
+          "choir_when": "October 2013 General Conference"
         },
         {
           "t": "Jesus, Lover of My Soul",
@@ -386,12 +428,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Feel My Savior's Love",
           "a": "Primary",
-          "yt": "MAUr-clpihg"
+          "yt": "MAUr-clpihg",
+          "choir": "https://assets.churchofjesuschrist.org/ec/66/ec66e4ab5ff011eea978eeeeac1ef95b6a869e67/2023_10_i_feel_my_saviors_love.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Consider the Lilies",
           "a": "Roger Hoffman",
-          "yt": "ilEed_1B0dk"
+          "yt": "ilEed_1B0dk",
+          "choir": "https://assets.churchofjesuschrist.org/ad/30/ad302f6060d911eeae0eeeeeac1e81d562b04ddb/2023_10_consider_the_lilies.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Precious Lord, Take My Hand",
@@ -462,37 +508,51 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Come, Come, Ye Saints",
           "a": "Hymn",
-          "yt": "4ia3gYSvG8M"
+          "yt": "4ia3gYSvG8M",
+          "choir": "https://assets.churchofjesuschrist.org/53/8p/538p2c1mbgxdzaq2jawaaesds45zqce0juc1s0dy/2025_10_come_come_ye_saints.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "Press Forward, Saints",
           "a": "Hymn",
-          "yt": "08-GoRqECHk"
+          "yt": "08-GoRqECHk",
+          "choir": "https://assets.churchofjesuschrist.org/kw/ps/kwpssyn9bhybhmkmlltgcut8qu5xr1qx9i92duig/2024_10_press_forward_saints.mp3",
+          "choir_when": "October 2024 General Conference"
         },
         {
           "t": "Let Us All Press On",
           "a": "Hymn",
-          "yt": "a2qPlvxuCLg"
+          "yt": "a2qPlvxuCLg",
+          "choir": "https://assets.churchofjesuschrist.org/55/00/5500470cb2bc11ec9014eeeeac1e9c4d98438d7d/2022_04_let_us_all_press_on_eng.mp3",
+          "choir_when": "April 2022 General Conference"
         },
         {
           "t": "Put Your Shoulder to the Wheel",
           "a": "Hymn",
-          "yt": "hvAbelJn4xI"
+          "yt": "hvAbelJn4xI",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2015-general-conference/2015-10-5071-put-your-shoulder-to-the-wheel-256k-eng.mp3",
+          "choir_when": "October 2015 General Conference"
         },
         {
           "t": "Called to Serve",
           "a": "Hymn",
-          "yt": "H9OqRPEWdcA"
+          "yt": "H9OqRPEWdcA",
+          "choir": "https://assets.churchofjesuschrist.org/sq/f9/sqf91yodpbonpztdt9qwghyf3gqbriq816qrgzj2/2025_10_called_to_serve.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "Go Forth with Faith",
           "a": "Hymn",
-          "yt": "uxuLFgajZ04"
+          "yt": "uxuLFgajZ04",
+          "choir": "https://assets.churchofjesuschrist.org/3a/ec/3aec813d60d611eea3bceeeeac1e2e8560119638/2023_10_go_forth_with_faith.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Hope of Israel",
           "a": "Hymn",
-          "yt": "N5iwFMaK0T0"
+          "yt": "N5iwFMaK0T0",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5031-hope-of-israel-256k-eng.mp3",
+          "choir_when": "April 2012 General Conference"
         },
         {
           "t": "Carry On",
@@ -502,7 +562,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Faith in Every Footstep",
           "a": "Hymn",
-          "yt": "6jH4mOEDu5w"
+          "yt": "6jH4mOEDu5w",
+          "choir": "https://assets.churchofjesuschrist.org/d9/c4/d9c489bf5ff011ee9008eeeeac1ecf625b649f6b/2023_10_faith_in_every_footstep.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Onward, Christian Soldiers",
@@ -512,17 +574,23 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Do What Is Right",
           "a": "Hymn",
-          "yt": "bVWPSjlwhZg"
+          "yt": "bVWPSjlwhZg",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2017-general-conference/2017-04-1003-do-what-is-right-256k-eng.mp3",
+          "choir_when": "April 2017 General Conference"
         },
         {
           "t": "Choose the Right",
           "a": "Hymn",
-          "yt": "rfu-MgXTDcM"
+          "yt": "rfu-MgXTDcM",
+          "choir": "https://assets.churchofjesuschrist.org/fe/a6/fea62159885bea9e8c88ca8db0733f49500a31ab/2021_04_choose_the_right.mp3",
+          "choir_when": "April 2021 General Conference"
         },
         {
           "t": "True to the Faith",
           "a": "Hymn",
-          "yt": "AN1L2ZABMuQ"
+          "yt": "AN1L2ZABMuQ",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2019-general-conference/2019-10-4051-true-to-the-faith-256k-eng.mp3",
+          "choir_when": "October 2019 General Conference"
         },
         {
           "t": "Ye Elders of Israel (Men)",
@@ -592,12 +660,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Stand All Amazed",
           "a": "Hymn",
-          "yt": "xQ-xbrgzKB4"
+          "yt": "xQ-xbrgzKB4",
+          "choir": "https://assets.churchofjesuschrist.org/19/2d/192d54a5d1aa11ed8ed1eeeeac1eab881f13fb9c/2023_04_i_stand_all_amazed.mp3",
+          "choir_when": "April 2023 General Conference"
         },
         {
           "t": "Come unto Jesus",
           "a": "Hymn",
-          "yt": "65ZbRiZqG1M"
+          "yt": "65ZbRiZqG1M",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2019-general-conference/2019-04-5002-come-unto-jesus-256k-eng.mp3",
+          "choir_when": "April 2019 General Conference"
         },
         {
           "t": "Savior, Redeemer of My Soul",
@@ -617,7 +689,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "More Holiness Give Me",
           "a": "Hymn",
-          "yt": "vI6QWuIvMvE"
+          "yt": "vI6QWuIvMvE",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2019-general-conference/2019-10-5071-more-holiness-give-me-256k-eng.mp3",
+          "choir_when": "October 2019 General Conference"
         },
         {
           "t": "Be Thou Humble",
@@ -637,7 +711,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Lord, I Would Follow Thee",
           "a": "Hymn",
-          "yt": "TE1vWJFX-jo"
+          "yt": "TE1vWJFX-jo",
+          "choir": "https://assets.churchofjesuschrist.org/bc/fe/bcfee333f52511ee8042eeeeac1ec0e2fce88359/2024_04_lord_i_would_follow_thee.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "O Savior, Thou Who Wearest a Crown",
@@ -715,7 +791,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Count Your Blessings",
           "a": "Hymn",
-          "yt": "gPKpkrqBwNs"
+          "yt": "gPKpkrqBwNs",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5031-count-your-blessings-256k-eng.mp3",
+          "choir_when": "October 2014 General Conference"
         },
         {
           "t": "Because I Have Been Given Much",
@@ -725,7 +803,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "For the Beauty of the Earth",
           "a": "Hymn",
-          "yt": "3pO7MIiICG0"
+          "yt": "3pO7MIiICG0",
+          "choir": "https://assets.churchofjesuschrist.org/bf/15/bf1519c9340422eb3531b65280e871f26016a382/for_the_beauty_of_the_earth.mp3",
+          "choir_when": "April 2008 General Conference"
         },
         {
           "t": "Now Thank We All Our God",
@@ -735,7 +815,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Praise to the Lord, the Almighty",
           "a": "Hymn",
-          "yt": "3NNatbKemz0"
+          "yt": "3NNatbKemz0",
+          "choir": "https://assets.churchofjesuschrist.org/lw/fm/lwfm5glh32e527e9qet8hyhc7k538zvhqkbxratg/2025_04_praise_to_the_lord_the_almighty.mp3",
+          "choir_when": "April 2025 General Conference"
         },
         {
           "t": "How Great Thou Art",
@@ -750,7 +832,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "All Creatures of Our God and King",
           "a": "Hymn",
-          "yt": "nAXv8mGM4cQ"
+          "yt": "nAXv8mGM4cQ",
+          "choir": "https://assets.churchofjesuschrist.org/16/cb/16cbf2d641ee11eda867eeeeac1e095154344817/2022_10_1081_all_creatures_of_our_god_and_king.mp3",
+          "choir_when": "October 2022 General Conference"
         },
         {
           "t": "Praise God, from Whom All Blessings Flow",
@@ -760,17 +844,23 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Come, Ye Thankful People",
           "a": "Hymn",
-          "yt": "msOzJ6DY7EA"
+          "yt": "msOzJ6DY7EA",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2016-general-conference/2016-10-4081-come-ye-thankful-people-come-256k-eng.mp3",
+          "choir_when": "October 2016 General Conference"
         },
         {
           "t": "Glory to God on High",
           "a": "Hymn",
-          "yt": "D3cCV0CLLGY"
+          "yt": "D3cCV0CLLGY",
+          "choir": "https://assets.churchofjesuschrist.org/f2/78/f2780920249911ec9645eeeeac1eed48c1e2f3bc/2021_10_glory_to_god_on_high_eng.mp3",
+          "choir_when": "October 2021 General Conference"
         },
         {
           "t": "My Heavenly Father Loves Me",
           "a": "Primary",
-          "yt": "7XSE63QIc7I"
+          "yt": "7XSE63QIc7I",
+          "choir": "https://assets.churchofjesuschrist.org/1i/t6/1it6jp3ck81cy9n3rgctnl63wp7faw2cl9uqgp48/2025_10_my_heavenly_father_loves_me.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "Thanks to Our Father",
@@ -838,27 +928,37 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Know That My Redeemer Lives",
           "a": "Hymn",
-          "yt": "_1Uw-4Q4UfI"
+          "yt": "_1Uw-4Q4UfI",
+          "choir": "https://assets.churchofjesuschrist.org/j2/2r/j22rl3hypy1h52ok2rmx38uuuv51g881dchvz4kf/2024_10_i_know_that_my_redeemer_lives.mp3",
+          "choir_when": "October 2024 General Conference"
         },
         {
           "t": "I Believe in Christ",
           "a": "Hymn",
-          "yt": "RcGFkzBJ_1o"
+          "yt": "RcGFkzBJ_1o",
+          "choir": "https://assets.churchofjesuschrist.org/ea/d7/ead764ead18a11ed8b20eeeeac1e5b79154248c1/2023_04_i_believe_in_christ.mp3",
+          "choir_when": "April 2023 General Conference"
         },
         {
           "t": "Jesus, the Very Thought of Thee",
           "a": "Hymn",
-          "yt": "f2FH7vxAoH8"
+          "yt": "f2FH7vxAoH8",
+          "choir": "https://assets.churchofjesuschrist.org/tr/pd/trpdnvznkjib2onz4m22dk54hd2e68j3s6zfiema/2025_04_jesus_the_very_thought_of_thee.mp3",
+          "choir_when": "April 2025 General Conference"
         },
         {
           "t": "Our Savior's Love",
           "a": "Hymn",
-          "yt": "D8beEeoHvTQ"
+          "yt": "D8beEeoHvTQ",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-1999-general-conference/1999-04-4051-our-saviors-love-256k-eng.mp3",
+          "choir_when": "April 1999 General Conference"
         },
         {
           "t": "This Is the Christ",
           "a": "Hymn",
-          "yt": "bVWPSjlwhZg"
+          "yt": "bVWPSjlwhZg",
+          "choir": "https://assets.churchofjesuschrist.org/e6/a2/e6a26dbfd18a11eda7edeeeeac1e54436d83df61/2023_04_this_is_the_christ.mp3",
+          "choir_when": "April 2023 General Conference"
         },
         {
           "t": "Look unto Christ",
@@ -878,7 +978,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Jesus, Once of Humble Birth",
           "a": "Hymn",
-          "yt": "NOpgkAKB3Tk"
+          "yt": "NOpgkAKB3Tk",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2010-general-conference/2010-04-5002-jesus-once-of-humble-birth-256k-eng.mp3",
+          "choir_when": "April 2010 General Conference"
         },
         {
           "t": "Jesus of Nazareth, Savior and King",
@@ -888,7 +990,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Precious Savior, Dear Redeemer",
           "a": "Hymn",
-          "yt": "p9-vkHppCpA"
+          "yt": "p9-vkHppCpA",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2015-general-conference/2015-10-1061-precious-savior-dear-redeemer-256k-eng.mp3",
+          "choir_when": "October 2015 General Conference"
         },
         {
           "t": "Beautiful Savior (Crusader's Hymn)",
@@ -898,7 +1002,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "He Sent His Son",
           "a": "Primary",
-          "yt": "LcBZjGqf8yo"
+          "yt": "LcBZjGqf8yo",
+          "choir": "https://assets.churchofjesuschrist.org/k7/n9/k7n959qgbyt8xyxf01tod0p4v5i38llktqxaho9i/2025_04_he_sent_his_son.mp3",
+          "choir_when": "April 2025 General Conference"
         },
         {
           "t": "Jesus Once Was a Little Child",
@@ -919,7 +1025,9 @@ a search in the music app. `cover` names a file in `covers/`.
           "t": "O Divine Redeemer",
           "a": "Charles Gounod",
           "url": "",
-          "yt": "tQPC-SX-Rvw"
+          "yt": "tQPC-SX-Rvw",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-4051-o-divine-redeemer-256k-eng.mp3",
+          "choir_when": "October 2013 General Conference"
         },
         {
           "t": "Lamb of God",
@@ -972,22 +1080,30 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "The Spirit of God",
           "a": "Hymn",
-          "yt": "608cbv7Qe_A"
+          "yt": "608cbv7Qe_A",
+          "choir": "https://assets.churchofjesuschrist.org/pg/0b/pg0b1yoocwxxpzfdutn59ynzx1bm64on7orn6uy0/2024_10_the_spirit_of_god.mp3",
+          "choir_when": "October 2024 General Conference"
         },
         {
           "t": "Redeemer of Israel",
           "a": "Hymn",
-          "yt": "Kw2cTPf8QFQ"
+          "yt": "Kw2cTPf8QFQ",
+          "choir": "https://assets.churchofjesuschrist.org/tv/gy/tvgyw2a6jmnm2rwkfdeefxg8iuj46l1icpx5huej/2025_04_redeemer_of_israel.mp3",
+          "choir_when": "April 2025 General Conference"
         },
         {
           "t": "Sweet Is the Work",
           "a": "Hymn",
-          "yt": "7Alo2NXK2aw"
+          "yt": "7Alo2NXK2aw",
+          "choir": "https://assets.churchofjesuschrist.org/xq/00/xq00dwmbamc7rmxcwezhwfcoqcrxbtqh24rcrrw6/2025_04_sweet_is_the_work.mp3",
+          "choir_when": "April 2025 General Conference"
         },
         {
           "t": "High on the Mountain Top",
           "a": "Hymn",
-          "yt": "ee9u577klxY"
+          "yt": "ee9u577klxY",
+          "choir": "https://assets.churchofjesuschrist.org/sj/v7/sjv7v78p3l20r666ftvneefauahjtcnno5bmbt53/2025_10_high_on_the_mountain_top.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "As Bread Is Broken",
@@ -1012,7 +1128,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Sweet Hour of Prayer",
           "a": "Hymn",
-          "yt": "CdxQbxpRl9Y"
+          "yt": "CdxQbxpRl9Y",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4002-sweet-hour-of-prayer-64k-eng.mp3",
+          "choir_when": "April 2009 General Conference"
         },
         {
           "t": "God, Our Father, Hear Us Pray",
@@ -1115,7 +1233,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Am a Child of God",
           "a": "Hymn",
-          "yt": "xglz6kryORQ"
+          "yt": "xglz6kryORQ",
+          "choir": "https://assets.churchofjesuschrist.org/f8/77/f8771927249611ecbc34eeeeac1e09a5b468b614/2021_10_i_am_a_child_of_god_eng.mp3",
+          "choir_when": "October 2021 General Conference"
         },
         {
           "t": "Each Life That Touches Ours for Good",
@@ -1125,7 +1245,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Love One Another",
           "a": "Hymn",
-          "yt": "dADRjUKnpDI"
+          "yt": "dADRjUKnpDI",
+          "choir": "https://assets.churchofjesuschrist.org/b1/69/b169ffdc3c3e6891b8626949b5b42062c4f97a6a/2020_10_love_one_another.mp3",
+          "choir_when": "October 2020 General Conference"
         },
         {
           "t": "Holding Hands Around the World",
@@ -1135,27 +1257,37 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Welcome Home",
           "a": "Hymn",
-          "yt": "8mmvPtup50I"
+          "yt": "8mmvPtup50I",
+          "choir": "https://assets.churchofjesuschrist.org/4c/aq/4caqmk95rwi50yi4mdq9dy8rcty0mm1ibqftdq8y/2025_04_welcome_home.mp3",
+          "choir_when": "April 2025 General Conference"
         },
         {
           "t": "God Be with You Till We Meet Again",
           "a": "Hymn",
-          "yt": "GZ1-tdE6kdc"
+          "yt": "GZ1-tdE6kdc",
+          "choir": "https://assets.churchofjesuschrist.org/2e/e1/2ee1809642a911ed8a6beeeeac1ea930f413f185/2022_10_5081_god_be_with_you_till_we_meet_again.mp3",
+          "choir_when": "October 2022 General Conference"
         },
         {
           "t": "A Child's Prayer",
           "a": "Primary",
-          "yt": "bse5TtEuaGk"
+          "yt": "bse5TtEuaGk",
+          "choir": "https://assets.churchofjesuschrist.org/ad/05/ad05af38f52511ee83f2eeeeac1e5393d2cbee62/2024_04_a_childs_prayer.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "I Feel My Savior's Love",
           "a": "Primary",
-          "yt": "MAUr-clpihg"
+          "yt": "MAUr-clpihg",
+          "choir": "https://assets.churchofjesuschrist.org/ec/66/ec66e4ab5ff011eea978eeeeac1ef95b6a869e67/2023_10_i_feel_my_saviors_love.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Love Is Spoken Here",
           "a": "Primary",
-          "yt": "S39Z6PPC1FM"
+          "yt": "S39Z6PPC1FM",
+          "choir": "https://assets.churchofjesuschrist.org/53/48/53485de4b2bc11ec9680eeeeac1e98d2b05a5238/2022_04_love_is_spoken_here_eng.mp3",
+          "choir_when": "April 2022 General Conference"
         },
         {
           "t": "A Happy Family",
@@ -1219,7 +1351,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Am a Child of God",
           "a": "Primary",
-          "yt": "xglz6kryORQ"
+          "yt": "xglz6kryORQ",
+          "choir": "https://assets.churchofjesuschrist.org/f8/77/f8771927249611ecbc34eeeeac1e09a5b468b614/2021_10_i_am_a_child_of_god_eng.mp3",
+          "choir_when": "October 2021 General Conference"
         },
         {
           "t": "Follow the Prophet",
@@ -1234,7 +1368,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Love to See the Temple",
           "a": "Primary",
-          "yt": "6ha9a9YF3UI"
+          "yt": "6ha9a9YF3UI",
+          "choir": "https://assets.churchofjesuschrist.org/7f/95/7f95735cb3a111ec85e8eeeeac1e066234b86588/2022_04_i_love_to_see_the_temple_eng.mp3",
+          "choir_when": "April 2022 General Conference"
         },
         {
           "t": "Nephi's Courage",
@@ -1259,7 +1395,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Will Follow God's Plan",
           "a": "Primary",
-          "yt": "90GGIM4a6e4"
+          "yt": "90GGIM4a6e4",
+          "choir": "https://assets.churchofjesuschrist.org/w3/1u/w31utbui1qoi68ydodqgwhdu0pejgs2w4wpflrl3/2024_10_i_will_follow_gods_plan.mp3",
+          "choir_when": "October 2024 General Conference"
         },
         {
           "t": "Choose the Right Way",
@@ -1274,7 +1412,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Teach Me to Walk in the Light",
           "a": "Primary",
-          "yt": "kK7XnmUzUUA"
+          "yt": "kK7XnmUzUUA",
+          "choir": "https://assets.churchofjesuschrist.org/fq/ng/fqngrm9tb9ef7foi43m1pgzyt68pihds26hnu1yp/2024_10_teach_me_to_walk_in_the_light.mp3",
+          "choir_when": "October 2024 General Conference"
         },
         {
           "t": "Search, Ponder, and Pray",
@@ -1299,7 +1439,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Know That My Savior Loves Me",
           "a": "Tami Jeppson Creamer",
-          "yt": "ud9oAwSNZ-g"
+          "yt": "ud9oAwSNZ-g",
+          "choir": "https://assets.churchofjesuschrist.org/2c/2e/2c2ee772f44b11eeb3b1eeeeac1e480ab6408f23/2024_04_i_know_that_my_savior_loves_me.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "Popcorn Popping",
@@ -1314,7 +1456,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Give, Said the Little Stream",
           "a": "Primary",
-          "yt": "S2YkknoZM-o"
+          "yt": "S2YkknoZM-o",
+          "choir": "https://assets.churchofjesuschrist.org/fbcfea5dc14711eeba5aeeeeac1e9027ffcc0861-256k-en.mp3",
+          "choir_when": "Best Of The Tabernacle Choir"
         },
         {
           "t": "Do As I'm Doing",
@@ -1334,7 +1478,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "My Heavenly Father Loves Me",
           "a": "Primary",
-          "yt": "7XSE63QIc7I"
+          "yt": "7XSE63QIc7I",
+          "choir": "https://assets.churchofjesuschrist.org/1i/t6/1it6jp3ck81cy9n3rgctnl63wp7faw2cl9uqgp48/2025_10_my_heavenly_father_loves_me.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "The Wise Man and the Foolish Man",
@@ -1357,27 +1503,37 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Did You Think to Pray?",
           "a": "Hymn",
-          "yt": "gPKpkrqBwNs"
+          "yt": "gPKpkrqBwNs",
+          "choir": "https://assets.churchofjesuschrist.org/24/ef/24ef2155f44b11eea02beeeeac1edf89da35b00a/2024_04_did_you_think_to_pray.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "There Is Sunshine in My Soul Today",
           "a": "Hymn",
-          "yt": "zliwkcXzVaA"
+          "yt": "zliwkcXzVaA",
+          "choir": "https://assets.churchofjesuschrist.org/33/97/33978e3442a911ed98a7eeeeac1e5727cf91e9a4/2022_10_5001_there_is_sunshine_in_my_soul_today.mp3",
+          "choir_when": "October 2022 General Conference"
         },
         {
           "t": "The Morning Breaks",
           "a": "Hymn",
-          "yt": "wLsYNUd_Zq4"
+          "yt": "wLsYNUd_Zq4",
+          "choir": "https://assets.churchofjesuschrist.org/1e/ed/1eed808ef44b11ee87fbeeeeac1e390cc3c6f7e8/2024_04_the_morning_breaks.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "Come, Ye Children of the Lord",
           "a": "Hymn",
-          "yt": "GjrMfuwdh6g"
+          "yt": "GjrMfuwdh6g",
+          "choir": "https://assets.churchofjesuschrist.org/a7/4a/a74adb71f52511eebef7eeeeac1eae97095fcd81/2024_04_come_ye_children.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "Let Zion in Her Beauty Rise",
           "a": "Hymn",
-          "yt": "2ECFF9hxjoI"
+          "yt": "2ECFF9hxjoI",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-3001-let-zion-in-her-beauty-rise-256k-eng.mp3",
+          "choir_when": "April 2020 General Conference"
         },
         {
           "t": "Scatter Sunshine",
@@ -1387,7 +1543,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Have I Done Any Good?",
           "a": "Hymn",
-          "yt": "vT-5zSlASjg"
+          "yt": "vT-5zSlASjg",
+          "choir": "https://assets.churchofjesuschrist.org/14/d7/14d79cec41ee11eda045eeeeac1e04e55c6a275e/2022_10_1011_have_i_done_any_good.mp3",
+          "choir_when": "October 2022 General Conference"
         },
         {
           "t": "Today, While the Sun Shines",
@@ -1458,7 +1616,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Abide with Me; 'Tis Eventide",
           "a": "Hymn",
-          "yt": "Q_F0mWGTN04"
+          "yt": "Q_F0mWGTN04",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-5081-abide-with-me-tis-eventide-256k-eng.mp3",
+          "choir_when": "October 2013 General Conference"
         },
         {
           "t": "Softly Now the Light of Day",
@@ -1473,32 +1633,44 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Lord, We Ask Thee Ere We Part",
           "a": "Hymn",
-          "yt": "Eg5O2y1UXw4"
+          "yt": "Eg5O2y1UXw4",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-5081-lord-we-ask-thee-ere-we-part-256k-eng.mp3",
+          "choir_when": "October 2011 General Conference"
         },
         {
           "t": "Sing We Now at Parting",
           "a": "Hymn",
-          "yt": "YNTonOfMwjE"
+          "yt": "YNTonOfMwjE",
+          "choir": "https://assets.churchofjesuschrist.org/f6/f1/f6f1351a249911ec9f65eeeeac1ecd5abb60a4a1/2021_10_sing_we_now_at_parting_eng.mp3",
+          "choir_when": "October 2021 General Conference"
         },
         {
           "t": "Lead, Kindly Light",
           "a": "Hymn",
-          "yt": "fCbZJwhpTmo"
+          "yt": "fCbZJwhpTmo",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-3002-lead-kindly-light-256k-eng.mp3",
+          "choir_when": "April 2020 General Conference"
         },
         {
           "t": "The Day Dawn Is Breaking",
           "a": "Hymn",
-          "yt": "s32jhE341yo"
+          "yt": "s32jhE341yo",
+          "choir": "https://assets.churchofjesuschrist.org/4a/2b/4a2b8defd0c011ed9ecaeeeeac1eb666106b0157/2023_04_the_day_dawn_is_breaking.mp3",
+          "choir_when": "April 2023 General Conference"
         },
         {
           "t": "A Child's Prayer",
           "a": "Primary",
-          "yt": "bse5TtEuaGk"
+          "yt": "bse5TtEuaGk",
+          "choir": "https://assets.churchofjesuschrist.org/ad/05/ad05af38f52511ee83f2eeeeac1e5393d2cbee62/2024_04_a_childs_prayer.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "I Feel My Savior's Love",
           "a": "Primary",
-          "yt": "MAUr-clpihg"
+          "yt": "MAUr-clpihg",
+          "choir": "https://assets.churchofjesuschrist.org/ec/66/ec66e4ab5ff011eea978eeeeac1ef95b6a869e67/2023_10_i_feel_my_saviors_love.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Heavenly Father, Now I Pray",
@@ -1564,7 +1736,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Love to See the Temple",
           "a": "Primary",
-          "yt": "6ha9a9YF3UI"
+          "yt": "6ha9a9YF3UI",
+          "choir": "https://assets.churchofjesuschrist.org/7f/95/7f95735cb3a111ec85e8eeeeac1e066234b86588/2022_04_i_love_to_see_the_temple_eng.mp3",
+          "choir_when": "April 2022 General Conference"
         },
         {
           "t": "Holy Places",
@@ -1574,7 +1748,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "The Spirit of God",
           "a": "Hymn",
-          "yt": "608cbv7Qe_A"
+          "yt": "608cbv7Qe_A",
+          "choir": "https://assets.churchofjesuschrist.org/pg/0b/pg0b1yoocwxxpzfdutn59ynzx1bm64on7orn6uy0/2024_10_the_spirit_of_god.mp3",
+          "choir_when": "October 2024 General Conference"
         },
         {
           "t": "Turn Your Hearts",
@@ -1594,7 +1770,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "High on the Mountain Top",
           "a": "Hymn",
-          "yt": "ee9u577klxY"
+          "yt": "ee9u577klxY",
+          "choir": "https://assets.churchofjesuschrist.org/sj/v7/sjv7v78p3l20r666ftvneefauahjtcnno5bmbt53/2025_10_high_on_the_mountain_top.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "Families Can Be Together Forever",
@@ -1604,7 +1782,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "O My Father",
           "a": "Hymn",
-          "yt": "b6rO0u65R5Q"
+          "yt": "b6rO0u65R5Q",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5002-o-my-father-64k-eng.mp3",
+          "choir_when": "April 2009 General Conference"
         },
         {
           "t": "Nearer, My God, to Thee",
@@ -1614,7 +1794,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "More Holiness Give Me",
           "a": "Hymn",
-          "yt": "n51QQTvKzKc"
+          "yt": "n51QQTvKzKc",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2019-general-conference/2019-10-5071-more-holiness-give-me-256k-eng.mp3",
+          "choir_when": "October 2019 General Conference"
         },
         {
           "t": "Come, Lord Jesus",
@@ -1666,12 +1848,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Called to Serve",
           "a": "Hymn",
-          "yt": "H9OqRPEWdcA"
+          "yt": "H9OqRPEWdcA",
+          "choir": "https://assets.churchofjesuschrist.org/sq/f9/sqf91yodpbonpztdt9qwghyf3gqbriq816qrgzj2/2025_10_called_to_serve.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "I'll Go Where You Want Me to Go",
           "a": "Hymn",
-          "yt": "JvMso9bFm0k"
+          "yt": "JvMso9bFm0k",
+          "choir": "https://assets.churchofjesuschrist.org/nd/is/ndiseassom7ve2p7o0pyb6ag653rwi5q3ly4zxve/2025_10_ill_go_where_you_want_me_to_go.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "Go, Ye Messengers of Glory",
@@ -1681,12 +1867,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Hark, All Ye Nations!",
           "a": "Hymn",
-          "yt": "Omb79iRQNz4"
+          "yt": "Omb79iRQNz4",
+          "choir": "https://assets.churchofjesuschrist.org/e2/67/e267865a60d511eebf2beeeeac1e64fec0309a85/2023_10_hark_all_ye_nations.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Israel, Israel, God Is Calling",
           "a": "Hymn",
-          "yt": "fyju2aFehFI"
+          "yt": "fyju2aFehFI",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-4041-israel-israel-god-is-calling-256k-eng.mp3",
+          "choir_when": "April 2020 General Conference"
         },
         {
           "t": "Ye Elders of Israel (Men)",
@@ -1696,7 +1886,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "The Iron Rod",
           "a": "Hymn",
-          "yt": "bVWPSjlwhZg"
+          "yt": "bVWPSjlwhZg",
+          "choir": "https://assets.churchofjesuschrist.org/83/dc/83dc4523b3a111ecb1fbeeeeac1e5f117b8419ed/2022_04_the_iron_rod_eng.mp3",
+          "choir_when": "April 2022 General Conference"
         },
         {
           "t": "Because I Have Been Given Much",
@@ -1706,17 +1898,23 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Have I Done Any Good?",
           "a": "Hymn",
-          "yt": "vT-5zSlASjg"
+          "yt": "vT-5zSlASjg",
+          "choir": "https://assets.churchofjesuschrist.org/14/d7/14d79cec41ee11eda045eeeeac1e04e55c6a275e/2022_10_1011_have_i_done_any_good.mp3",
+          "choir_when": "October 2022 General Conference"
         },
         {
           "t": "Let Us All Press On",
           "a": "Hymn",
-          "yt": "a2qPlvxuCLg"
+          "yt": "a2qPlvxuCLg",
+          "choir": "https://assets.churchofjesuschrist.org/55/00/5500470cb2bc11ec9014eeeeac1e9c4d98438d7d/2022_04_let_us_all_press_on_eng.mp3",
+          "choir_when": "April 2022 General Conference"
         },
         {
           "t": "Go Forth with Faith",
           "a": "Hymn",
-          "yt": "bRdJO4EHCMI"
+          "yt": "bRdJO4EHCMI",
+          "choir": "https://assets.churchofjesuschrist.org/3a/ec/3aec813d60d611eea3bceeeeac1e2e8560119638/2023_10_go_forth_with_faith.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "I Hope They Call Me on a Mission",
@@ -1731,7 +1929,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Called to Serve (Rob Gardner)",
           "a": "Rob Gardner",
-          "yt": "jQTWl7O1cdo"
+          "yt": "jQTWl7O1cdo",
+          "choir": "https://assets.churchofjesuschrist.org/sq/f9/sqf91yodpbonpztdt9qwghyf3gqbriq816qrgzj2/2025_10_called_to_serve.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "Go Light Your World",
@@ -1764,27 +1964,37 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Did You Think to Pray?",
           "a": "Hymn",
-          "yt": "gPKpkrqBwNs"
+          "yt": "gPKpkrqBwNs",
+          "choir": "https://assets.churchofjesuschrist.org/24/ef/24ef2155f44b11eea02beeeeac1edf89da35b00a/2024_04_did_you_think_to_pray.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "Secret Prayer",
           "a": "Hymn",
-          "yt": "gznfnzz4Eho"
+          "yt": "gznfnzz4Eho",
+          "choir": "https://assets.churchofjesuschrist.org/df/c8/dfc8e385d18a11ed8cfbeeeeac1e7dce04955cfd/2023_04_secret_prayer.mp3",
+          "choir_when": "April 2023 General Conference"
         },
         {
           "t": "Sweet Hour of Prayer",
           "a": "Hymn",
-          "yt": "CdxQbxpRl9Y"
+          "yt": "CdxQbxpRl9Y",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-4002-sweet-hour-of-prayer-64k-eng.mp3",
+          "choir_when": "April 2009 General Conference"
         },
         {
           "t": "Prayer Is the Soul's Sincere Desire",
           "a": "Hymn",
-          "yt": "xue8HBHFFZA"
+          "yt": "xue8HBHFFZA",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-1999-general-conference/1999-10-4061-prayer-is-the-souls-sincere-desire-256k-eng.mp3",
+          "choir_when": "October 1999 General Conference"
         },
         {
           "t": "I Need Thee Every Hour",
           "a": "Hymn",
-          "yt": "PPEdmbgga_o"
+          "yt": "PPEdmbgga_o",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2019-general-conference/2019-04-5071-i-need-thee-every-hour-256k-eng.mp3",
+          "choir_when": "April 2019 General Conference"
         },
         {
           "t": "Father in Heaven",
@@ -1794,7 +2004,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Guide Us, O Thou Great Jehovah",
           "a": "Hymn",
-          "yt": "seEIAH9g-QA"
+          "yt": "seEIAH9g-QA",
+          "choir": "https://assets.churchofjesuschrist.org/e2/e4/e2e4062fd18a11edb8b4eeeeac1e6ad585e5819b/2023_04_guide_us_o_thou_great_jehovah.mp3",
+          "choir_when": "April 2023 General Conference"
         },
         {
           "t": "Be Thou Humble",
@@ -1804,7 +2016,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "A Child's Prayer",
           "a": "Primary",
-          "yt": "bse5TtEuaGk"
+          "yt": "bse5TtEuaGk",
+          "choir": "https://assets.churchofjesuschrist.org/ad/05/ad05af38f52511ee83f2eeeeac1e5393d2cbee62/2024_04_a_childs_prayer.mp3",
+          "choir_when": "April 2024 General Conference"
         },
         {
           "t": "I Pray in Faith",
@@ -1873,12 +2087,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "God Be with You Till We Meet Again",
           "a": "Hymn",
-          "yt": "GZ1-tdE6kdc"
+          "yt": "GZ1-tdE6kdc",
+          "choir": "https://assets.churchofjesuschrist.org/2e/e1/2ee1809642a911ed8a6beeeeac1ea930f413f185/2022_10_5081_god_be_with_you_till_we_meet_again.mp3",
+          "choir_when": "October 2022 General Conference"
         },
         {
           "t": "O My Father",
           "a": "Hymn",
-          "yt": "b6rO0u65R5Q"
+          "yt": "b6rO0u65R5Q",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-5002-o-my-father-64k-eng.mp3",
+          "choir_when": "April 2009 General Conference"
         },
         {
           "t": "Abide with Me!",
@@ -1888,7 +2106,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Where Can I Turn for Peace?",
           "a": "Hymn",
-          "yt": "XJvZFUZ-c0I"
+          "yt": "XJvZFUZ-c0I",
+          "choir": "https://assets.churchofjesuschrist.org/f3/de/f3deec1a249911ec8410eeeeac1e04a2c049a69b/2021_10_where_can_i_turn_for_peace_eng.mp3",
+          "choir_when": "October 2021 General Conference"
         },
         {
           "t": "Be Still, My Soul",
@@ -1898,7 +2118,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Know That My Redeemer Lives",
           "a": "Hymn",
-          "yt": "_1Uw-4Q4UfI"
+          "yt": "_1Uw-4Q4UfI",
+          "choir": "https://assets.churchofjesuschrist.org/j2/2r/j22rl3hypy1h52ok2rmx38uuuv51g881dchvz4kf/2024_10_i_know_that_my_redeemer_lives.mp3",
+          "choir_when": "October 2024 General Conference"
         },
         {
           "t": "Families Can Be Together Forever",
@@ -1908,12 +2130,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Come, Come, Ye Saints",
           "a": "Hymn",
-          "yt": "4ia3gYSvG8M"
+          "yt": "4ia3gYSvG8M",
+          "choir": "https://assets.churchofjesuschrist.org/53/8p/538p2c1mbgxdzaq2jawaaesds45zqce0juc1s0dy/2025_10_come_come_ye_saints.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "My Redeemer Lives",
           "a": "Hymn",
-          "yt": "_1Uw-4Q4UfI"
+          "yt": "_1Uw-4Q4UfI",
+          "choir": "https://assets.churchofjesuschrist.org/da/f5/daf5144ed18a11edb8b4eeeeac1e6ad520f49cd4/2023_04_my_redeemer_lives.mp3",
+          "choir_when": "April 2023 General Conference"
         },
         {
           "t": "Behold the Wounds in Jesus' Hands",
@@ -1923,7 +2149,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Consider the Lilies",
           "a": "Roger Hoffman",
-          "yt": "ilEed_1B0dk"
+          "yt": "ilEed_1B0dk",
+          "choir": "https://assets.churchofjesuschrist.org/ad/30/ad302f6060d911eeae0eeeeeac1e81d562b04ddb/2023_10_consider_the_lilies.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Homeward Bound",
@@ -1958,7 +2186,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "It Is Well with My Soul",
           "a": "Horatio Spafford",
-          "yt": "8tdoWK34lpc"
+          "yt": "8tdoWK34lpc",
+          "choir": "https://assets.churchofjesuschrist.org/pz/9e/pz9es1jxxwssokbkuu3wh7wwk8wwy5reyx53cu3d/2025_04_it_is_well_with_my_soul.mp3",
+          "choir_when": "April 2025 General Conference"
         },
         {
           "t": "I Will Rise",
@@ -1986,12 +2216,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Come, Come, Ye Saints",
           "a": "Hymn",
-          "yt": "4ia3gYSvG8M"
+          "yt": "4ia3gYSvG8M",
+          "choir": "https://assets.churchofjesuschrist.org/53/8p/538p2c1mbgxdzaq2jawaaesds45zqce0juc1s0dy/2025_10_come_come_ye_saints.mp3",
+          "choir_when": "October 2025 General Conference"
         },
         {
           "t": "They, the Builders of the Nation",
           "a": "Hymn",
-          "yt": "rCBdjHzSvN0"
+          "yt": "rCBdjHzSvN0",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-5001-they-the-builders-of-the-nation-256k-eng.mp3",
+          "choir_when": "October 2013 General Conference"
         },
         {
           "t": "Carry On",
@@ -2016,7 +2250,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Faith in Every Footstep",
           "a": "Hymn",
-          "yt": "6jH4mOEDu5w"
+          "yt": "6jH4mOEDu5w",
+          "choir": "https://assets.churchofjesuschrist.org/d9/c4/d9c489bf5ff011ee9008eeeeac1ecf625b649f6b/2023_10_faith_in_every_footstep.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Pioneer Children Sang As They Walked",
@@ -2046,7 +2282,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Faith in Every Footstep (Choir)",
           "a": "K. Newell Dayley",
-          "yt": "LfYPKIuC4_g"
+          "yt": "LfYPKIuC4_g",
+          "choir": "https://assets.churchofjesuschrist.org/d9/c4/d9c489bf5ff011ee9008eeeeac1ecf625b649f6b/2023_10_faith_in_every_footstep.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "All Is Well (Come, Come, Ye Saints)",
@@ -2058,7 +2296,9 @@ a search in the music app. `cover` names a file in `covers/`.
           "a": "American folk song",
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Shenandoah_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
           "credit": "Shenandoah - Singing Sergeants - United States Air Force Band.mp3 (public domain)",
-          "yt": "-GtwNJf3EK4"
+          "yt": "-GtwNJf3EK4",
+          "choir": "https://assets.churchofjesuschrist.org/635e60ddabf911eea5e1eeeeac1e72f416704455-32k-en.m4a",
+          "choir_when": "Best Of The Tabernacle Choir"
         },
         {
           "t": "Simple Gifts",
@@ -2089,12 +2329,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "The Spirit of God",
           "a": "Hymn",
-          "yt": "608cbv7Qe_A"
+          "yt": "608cbv7Qe_A",
+          "choir": "https://assets.churchofjesuschrist.org/pg/0b/pg0b1yoocwxxpzfdutn59ynzx1bm64on7orn6uy0/2024_10_the_spirit_of_god.mp3",
+          "choir_when": "October 2024 General Conference"
         },
         {
           "t": "Come, Thou Fount of Every Blessing",
           "a": "Hymn",
-          "yt": "gPKpkrqBwNs"
+          "yt": "gPKpkrqBwNs",
+          "choir": "https://assets.churchofjesuschrist.org/10/84/1084559b60d611eea142eeeeac1e8a427f25b194/2023_10_come_thou_fount_of_every_blessing.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Battle Hymn of the Republic",
@@ -2105,7 +2349,9 @@ a search in the music app. `cover` names a file in `covers/`.
           "t": "O Divine Redeemer",
           "a": "Charles Gounod",
           "url": "",
-          "yt": "tQPC-SX-Rvw"
+          "yt": "tQPC-SX-Rvw",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-4051-o-divine-redeemer-256k-eng.mp3",
+          "choir_when": "October 2013 General Conference"
         },
         {
           "t": "Betelehemu",
@@ -2115,7 +2361,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Consider the Lilies",
           "a": "Roger Hoffman",
-          "yt": "ilEed_1B0dk"
+          "yt": "ilEed_1B0dk",
+          "choir": "https://assets.churchofjesuschrist.org/ad/30/ad302f6060d911eeae0eeeeeac1e81d562b04ddb/2023_10_consider_the_lilies.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "The Lord Bless You and Keep You",
@@ -2125,7 +2373,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "For the Beauty of the Earth",
           "a": "John Rutter",
-          "yt": "1bDoMflYErE"
+          "yt": "1bDoMflYErE",
+          "choir": "https://assets.churchofjesuschrist.org/bf/15/bf1519c9340422eb3531b65280e871f26016a382/for_the_beauty_of_the_earth.mp3",
+          "choir_when": "April 2008 General Conference"
         },
         {
           "t": "O Magnum Mysterium",
@@ -2187,12 +2437,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "I Believe in Christ",
           "a": "Hymn",
-          "yt": "RcGFkzBJ_1o"
+          "yt": "RcGFkzBJ_1o",
+          "choir": "https://assets.churchofjesuschrist.org/ea/d7/ead764ead18a11ed8b20eeeeac1e5b79154248c1/2023_04_i_believe_in_christ.mp3",
+          "choir_when": "April 2023 General Conference"
         },
         {
           "t": "How Firm a Foundation",
           "a": "Hymn",
-          "yt": "r0Xvr8maR34"
+          "yt": "r0Xvr8maR34",
+          "choir": "https://assets.churchofjesuschrist.org/f4/8e/f48ee7ec5ff011eea978eeeeac1ef95b5153e7d6/2023_10_how_firm_a_foundation.mp3",
+          "choir_when": "October 2023 General Conference"
         },
         {
           "t": "Testimony",
@@ -2202,22 +2456,30 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "The Iron Rod",
           "a": "Hymn",
-          "yt": "RbCbCf0b0h8"
+          "yt": "RbCbCf0b0h8",
+          "choir": "https://assets.churchofjesuschrist.org/83/dc/83dc4523b3a111ecb1fbeeeeac1e5f117b8419ed/2022_04_the_iron_rod_eng.mp3",
+          "choir_when": "April 2022 General Conference"
         },
         {
           "t": "I Know That My Redeemer Lives",
           "a": "Hymn",
-          "yt": "_1Uw-4Q4UfI"
+          "yt": "_1Uw-4Q4UfI",
+          "choir": "https://assets.churchofjesuschrist.org/j2/2r/j22rl3hypy1h52ok2rmx38uuuv51g881dchvz4kf/2024_10_i_know_that_my_redeemer_lives.mp3",
+          "choir_when": "October 2024 General Conference"
         },
         {
           "t": "Lead, Kindly Light",
           "a": "Hymn",
-          "yt": "fCbZJwhpTmo"
+          "yt": "fCbZJwhpTmo",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-3002-lead-kindly-light-256k-eng.mp3",
+          "choir_when": "April 2020 General Conference"
         },
         {
           "t": "Guide Us, O Thou Great Jehovah",
           "a": "Hymn",
-          "yt": "seEIAH9g-QA"
+          "yt": "seEIAH9g-QA",
+          "choir": "https://assets.churchofjesuschrist.org/e2/e4/e2e4062fd18a11edb8b4eeeeac1e6ad585e5819b/2023_04_guide_us_o_thou_great_jehovah.mp3",
+          "choir_when": "April 2023 General Conference"
         },
         {
           "t": "A Mighty Fortress Is Our God",
@@ -2232,7 +2494,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Faith",
           "a": "Primary",
-          "yt": "AN1L2ZABMuQ"
+          "yt": "AN1L2ZABMuQ",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/october-2019-general-conference/2019-10-1061-faith-256k-eng.mp3",
+          "choir_when": "October 2019 General Conference"
         },
         {
           "t": "I Know My Father Lives",
@@ -2296,12 +2560,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Silent Night",
           "a": "Hymn",
-          "yt": "lmFh6QW7Q-8"
+          "yt": "lmFh6QW7Q-8",
+          "choir": "https://assets.churchofjesuschrist.org/liiwsyibw87ub833otqonfklxuupmhz30m7wkwow-256k-en.mp3",
+          "choir_when": "First Presidencys Christmas Devotionals"
         },
         {
           "t": "Joy to the World",
           "a": "Hymn",
-          "yt": "7r3VVMUhAxU"
+          "yt": "7r3VVMUhAxU",
+          "choir": "https://assets.churchofjesuschrist.org/4fff15718eeb11eebd6ceeeeac1eefc30602f94b-256k-en.mp3",
+          "choir_when": "Tabernacle Choir Christmas Music"
         },
         {
           "t": "O Little Town of Bethlehem",
@@ -2316,17 +2584,23 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Away in a Manger",
           "a": "Hymn",
-          "yt": "PLWnarUwamU"
+          "yt": "PLWnarUwamU",
+          "choir": "https://assets.churchofjesuschrist.org/8l48vods9rvwj6v0lnr13qi12b06464fy8zqurek-256k-en.mp3",
+          "choir_when": "First Presidencys Christmas Devotionals"
         },
         {
           "t": "Hark! The Herald Angels Sing",
           "a": "Hymn",
-          "yt": "SFjMPaOBzXc"
+          "yt": "SFjMPaOBzXc",
+          "choir": "https://assets.churchofjesuschrist.org/4f2900c98eeb11eebebeeeeeac1e721234b3c122-32k-en.m4a",
+          "choir_when": "Tabernacle Choir Christmas Music"
         },
         {
           "t": "Oh, Come, All Ye Faithful",
           "a": "Hymn",
-          "yt": "EE8HZHNXgHs"
+          "yt": "EE8HZHNXgHs",
+          "choir": "https://assets.churchofjesuschrist.org/4ffbba118eeb11eeb5d2eeeeac1ef13c9ca6d187-256k-en.mp3",
+          "choir_when": "Tabernacle Choir Christmas Music"
         },
         {
           "t": "With Wondering Awe",
@@ -2346,7 +2620,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "What Child Is This?",
           "a": "Hymn",
-          "yt": "OdbKpxwKqco"
+          "yt": "OdbKpxwKqco",
+          "choir": "https://assets.churchofjesuschrist.org/52570f318eeb11ee9814eeeeac1e6ea77b428681-256k-en.mp3",
+          "choir_when": "Tabernacle Choir Christmas Music"
         },
         {
           "t": "Once in Royal David's City",
@@ -2473,12 +2749,16 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "He Is Risen!",
           "a": "Hymn",
-          "yt": "jVD7LCiBNAA"
+          "yt": "jVD7LCiBNAA",
+          "choir": "https://assets.churchofjesuschrist.org/e0/48/e0488cc3fb22b2eb9908edadbdccd3ca076551b4/2021_04_he_is_risen.mp3",
+          "choir_when": "April 2021 General Conference"
         },
         {
           "t": "Christ the Lord Is Risen Today",
           "a": "Hymn",
-          "yt": "cErtpg5hBSw"
+          "yt": "cErtpg5hBSw",
+          "choir": "https://assets.churchofjesuschrist.org/b9/ab/b9abbf32962a91dea41bf757a5ba881fb52edcd0/2021_04_christ_the_lord_is_risen_today.mp3",
+          "choir_when": "April 2021 General Conference"
         },
         {
           "t": "That Easter Morn",
@@ -2488,7 +2768,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "My Redeemer Lives",
           "a": "Hymn",
-          "yt": "_1Uw-4Q4UfI"
+          "yt": "_1Uw-4Q4UfI",
+          "choir": "https://assets.churchofjesuschrist.org/da/f5/daf5144ed18a11edb8b4eeeeac1e6ad520f49cd4/2023_04_my_redeemer_lives.mp3",
+          "choir_when": "April 2023 General Conference"
         },
         {
           "t": "Hail the Day That Sees Him Rise",
@@ -2498,7 +2780,9 @@ a search in the music app. `cover` names a file in `covers/`.
         {
           "t": "Jesus Has Risen",
           "a": "Primary",
-          "yt": "jVD7LCiBNAA"
+          "yt": "jVD7LCiBNAA",
+          "choir": "https://media2.ldscdn.org/assets/general-conference/april-2015-general-conference/2015-04-4061-jesus-has-risen-256k-eng.mp3",
+          "choir_when": "April 2015 General Conference"
         },
         {
           "t": "Did Jesus Really Live Again?",
