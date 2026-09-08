@@ -5246,6 +5246,34 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2kgs-9-0d62b572",
+   "t": "Jehu's coup and the fall of the Omride dynasty",
+   "y0": -841,
+   "y1": -841,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "rulers",
+    "wars"
+   ],
+   "dating": "historical",
+   "src": "research",
+   "note": "Conventional date derived from Assyrian synchronism; Shalmaneser III's Black Obelisk records Jehu paying tribute around this time, anchoring the coup narrated in 2 Kings 9 to an external chronology.",
+   "chapters": [
+    "2 Kings 9"
+   ],
+   "people": [
+    "Jehu",
+    "Joram (Jehoram) king of Israel",
+    "Ahaziah king of Judah",
+    "Jezebel"
+   ],
+   "places": [
+    "Jezreel",
+    "Ramoth-gilead"
+   ]
+  },
+  {
    "id": "r-2ne-10-acc40080",
    "t": "Jacob continues his covenant sermon",
    "y0": -559,
@@ -12307,6 +12335,31 @@ timeline module, not this file._
    ],
    "places": [
     "Zion"
+   ]
+  },
+  {
+   "id": "r-isa-6-3e30e313",
+   "t": "Isaiah's temple vision and prophetic call",
+   "y0": -742,
+   "y1": -740,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "prophets",
+    "visions"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "Isaiah 6:1 dates the vision to 'the year that king Uzziah died'; conventional regnal chronologies (e.g., Thiele) place Uzziah's death around 740 BC, though Isaiah 6 itself gives no absolute date.",
+   "chapters": [
+    "Isaiah 6"
+   ],
+   "people": [
+    "Isaiah",
+    "Uzziah (Azariah)"
+   ],
+   "places": [
+    "Jerusalem"
    ]
   },
   {

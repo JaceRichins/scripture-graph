@@ -83,6 +83,7 @@ For Isaiah's reception, follow [[Nephi (son of Lehi)]], [[Jacob (son of Lehi)]],
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
 - **792 BC–740 BC** — Uzziah's reign and Jotham's administrative role · [[2 Chronicles 26]] · [[800-701 BC]] *(approximate)*
+- **742 BC–740 BC** — Isaiah's temple vision and prophetic call · [[Isaiah 6]] · [[800-701 BC]] *(traditional dating)*
 - **740 BC–690 BC** — Isaiah's ministry in Jerusalem · [[Isaiah 6]] · [[Isaiah 53]] · [[2 Kings 19]] · [[800-701 BC]] *(approximate)*
 - **740 BC–700 BC** — Isaiah's oracle of the Branch of Jesse (traditional dating) · [[Isaiah 11]] · [[800-701 BC]] *(traditional dating)*
 - **740 BC–700 BC** — Isaiah's oracle against Egypt delivered · [[Isaiah 19]] · [[800-701 BC]] *(traditional dating)*
@@ -93,7 +94,6 @@ For Isaiah's reception, follow [[Nephi (son of Lehi)]], [[Jacob (son of Lehi)]],
 - **734 BC–732 BC** — Syro-Ephraimite War and Ahaz's Reign in Judah · [[Isaiah 7]] · [[800-701 BC]] *(approximate)*
 - **734 BC–722 BC** — Maher-shalal-hash-baz sign and Assyrian campaigns against Damascus/Samaria · [[Isaiah 8]] · [[800-701 BC]] *(historical)*
 - **705 BC–701 BC** — Judah's Egypt Alliance and the Assyrian Crisis under Hezekiah · [[Isaiah 30]] · [[800-701 BC]] *(historical)*
-- **703 BC–700 BC** — Hezekiah's illness, sign, and the Babylonian embassy · [[2 Kings 20]] · [[800-701 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->
