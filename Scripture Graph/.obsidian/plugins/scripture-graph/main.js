@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.48 build 9f54c6606 2026-09-08T23:03:23Z */
+/* scripture-graph v0.72.49 build cb8d66a1e 2026-09-08T23:14:29Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.48", sha: "9f54c6606", at: "2026-09-08T23:03:23Z" };
+    define_SG_BUILD_default = { version: "0.72.49", sha: "cb8d66a1e", at: "2026-09-08T23:14:29Z" };
   }
 });
 
@@ -13847,6 +13847,42 @@ var AddSongModal = class extends import_obsidian4.Modal {
 init_define_SG_BUILD();
 var import_obsidian6 = require("obsidian");
 init_vaultSync();
+var ORD = ["", "", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th", "11th", "12th"];
+function relationLabel(data, root, pid) {
+  if (pid === root) return { path: "", kin: "you" };
+  const seen = /* @__PURE__ */ new Set();
+  const walk = (cur, steps2) => {
+    if (cur === pid) return steps2;
+    if (seen.has(cur)) return null;
+    seen.add(cur);
+    const n = data.people[cur];
+    if (!n) return null;
+    for (const side of ["f", "m"]) {
+      const next = n[side];
+      if (!next) continue;
+      const r = walk(next, [...steps2, side]);
+      if (r) return r;
+    }
+    return null;
+  };
+  const steps = walk(root, []);
+  if (!steps) return { path: "", kin: "an ancestor" };
+  const g = steps.length;
+  const male = steps[steps.length - 1] === "f";
+  const kin = g === 1 ? male ? "father" : "mother" : g === 2 ? male ? "grandfather" : "grandmother" : g === 3 ? male ? "great-grandfather" : "great-grandmother" : `${ORD[g - 2] ?? `${g - 2}th`} great-grand${male ? "father" : "mother"}`;
+  const words = steps.map((s) => s === "f" ? "father" : "mother");
+  const path = words.length > 1 ? words.map((w, i) => i < words.length - 1 ? `${w}'s` : w).join(" ") : "";
+  return { path: path ? `your ${path}` : "", kin: `your ${kin}` };
+}
+function monthDay(date) {
+  if (!date) return null;
+  const months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
+  const t = date.toLowerCase();
+  const mi = months.findIndex((mo) => t.includes(mo));
+  const dm = /(^|\D)(\d{1,2})(\D|$)/.exec(t.replace(/\d{4}/, ""));
+  if (mi < 0 || !dm) return null;
+  return { m: mi + 1, d: Number(dm[2]) };
+}
 var FOLDER = "AI Library/12 Family";
 var MEDIA = `${FOLDER}/_media`;
 var OPEN_AT_START = 3;
@@ -13993,6 +14029,7 @@ var FamilyTree = class {
     this.nodes.clear();
     this.draw();
     this.wireGestures(canvas);
+    this.timeBar(canvas);
     window.requestAnimationFrame(() => this.fit(false));
     canvas.createDiv({ cls: "sg-ft-hint", text: `drag \xB7 pinch \xB7 double-tap  \u2014  + grows a branch${this.host.status ? "  \xB7  " + this.host.status() : ""}` });
   }
@@ -14101,6 +14138,7 @@ var FamilyTree = class {
       this.paintPlus(node, p);
     }
     this.apply();
+    if (this.year !== null) this.setYear(this.year);
     if (before && anchor) {
       const after = this.nodes.get(anchor)?.getBoundingClientRect();
       if (after) {
@@ -14118,19 +14156,27 @@ var FamilyTree = class {
     const name = n?.n ?? pid;
     pic.setText(name.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0].toUpperCase()).join(""));
     if (n?.t) void this.thumb(pic, pid, n.t);
+    const badges = ring.createDiv({ cls: "sg-ft-badges" });
+    if (n?.st) badges.createSpan({ cls: "sg-ft-badge", text: "\u{1F4D6}", attr: { "aria-label": `${n.st} stories` } });
+    if (n?.ph) badges.createSpan({ cls: "sg-ft-badge", text: "\u{1F4F7}", attr: { "aria-label": `${n.ph} photos` } });
+    if (n?.lib) badges.createSpan({ cls: "sg-ft-badge", text: "\u26EA", attr: { "aria-label": `${n.lib} pages mention them` } });
+    el.createDiv({ cls: "sg-ft-age" });
     const label = el.createDiv({ cls: "sg-ft-label" });
     label.createDiv({ cls: "sg-ft-name", text: pid === this.root ? "You" : name });
     const years = n?.b || n?.d ? `${n.b ?? "?"} \u2013 ${n.d ?? ""}` : n?.living ? "living" : "";
     if (years) label.createDiv({ cls: "sg-ft-years", text: years });
+    ring.onclick = (e) => {
+      if (this.moved) return;
+      e.stopPropagation();
+      this.showCard(pid);
+    };
     if (n?.page) {
       el.addClass("sg-ft-has-page");
-      const openPage = (e) => {
+      label.onclick = (e) => {
         if (this.moved) return;
         e.stopPropagation();
         this.host.openNote(n.page);
       };
-      ring.onclick = openPage;
-      label.onclick = openPage;
     }
     el.createEl("button", { cls: "sg-ft-plus", attr: { "aria-label": "More generations" } });
     return el;
@@ -14164,6 +14210,127 @@ var FamilyTree = class {
     const img = pic.createEl("img", { attr: { loading: "lazy", alt: "", draggable: "false" } });
     img.src = this.host.app.vault.getResourcePath(f);
     img.onload = () => pic.addClass("sg-ft-haspic");
+  }
+  // ------------------------------------------------------------ the card
+  cardEl = null;
+  /** who this is to you, where they were born and died, what the shelf holds */
+  showCard(pid) {
+    const canvas = this.canvas;
+    if (!canvas) return;
+    this.cardEl?.remove();
+    const n = this.data.people[pid];
+    const card = canvas.createDiv({ cls: "sg-ft-sheet" });
+    this.cardEl = card;
+    card.onpointerdown = (e) => e.stopPropagation();
+    const close = card.createEl("button", { cls: "sg-ft-sheet-x", text: "\u2715" });
+    close.onclick = () => {
+      card.remove();
+      this.cardEl = null;
+    };
+    const top = card.createDiv({ cls: "sg-ft-sheet-top" });
+    const pic = top.createDiv({ cls: "sg-ft-pic sg-ft-sheet-pic" });
+    const name = n?.n ?? pid;
+    pic.setText(name.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0].toUpperCase()).join(""));
+    if (n?.t) void this.thumb(pic, pid, n.t);
+    const txt = top.createDiv({ cls: "sg-ft-sheet-txt" });
+    txt.createDiv({ cls: "sg-ft-sheet-name", text: name });
+    const rel = relationLabel(this.data, this.root, pid);
+    txt.createDiv({ cls: "sg-ft-sheet-kin", text: rel.path && rel.path !== rel.kin ? `${rel.kin} \u2014 ${rel.path}` : rel.kin });
+    const facts = card.createDiv({ cls: "sg-ft-sheet-facts" });
+    const fact = (label, value) => {
+      const r = facts.createDiv({ cls: "sg-ft-sheet-fact" });
+      r.createSpan({ cls: "sg-ft-sheet-k", text: label });
+      r.createSpan({ text: value });
+    };
+    if (n?.bf || n?.bp) fact("Born", [n.bf, n.bp].filter(Boolean).join(" \xB7 "));
+    if (n?.df || n?.dp) fact("Died", [n.df, n.dp].filter(Boolean).join(" \xB7 "));
+    if (n?.b && n?.d) fact("Lived", `${Number(n.d) - Number(n.b)} years`);
+    if (n?.living) fact("", "Living \u2014 kept private");
+    const holds = [
+      n?.ph ? `${n.ph} photo${n.ph === 1 ? "" : "s"} & documents` : "",
+      n?.st ? `${n.st} stor${n.st === 1 ? "y" : "ies"}` : "",
+      n?.lib ? `mentioned on ${n.lib} page${n.lib === 1 ? "" : "s"} in the library` : ""
+    ].filter(Boolean);
+    if (holds.length) fact("On the shelf", holds.join(" \xB7 "));
+    const acts = card.createDiv({ cls: "sg-ft-sheet-acts" });
+    if (n?.page) {
+      const b = acts.createEl("button", { cls: "mod-cta", text: "Open their page" });
+      b.onclick = () => this.host.openNote(n.page);
+    }
+    if (this.parents(pid).length) {
+      const open2 = this.open.has(pid);
+      const b = acts.createEl("button", { text: open2 ? "Fold this branch" : "Grow this branch" });
+      b.onclick = () => {
+        if (open2) this.fold(pid);
+        else this.grow(pid, OPEN_PER_TAP);
+        this.draw(pid);
+        card.remove();
+        this.cardEl = null;
+      };
+    }
+  }
+  // ------------------------------------------------------------ the years
+  year = null;
+  /** the tree in a given year: who was alive, and how old */
+  setYear(y3) {
+    this.year = y3;
+    for (const [pid, el] of this.nodes) {
+      const n = this.data.people[pid];
+      const age = el.querySelector(".sg-ft-age");
+      el.removeClass("sg-ft-alive", "sg-ft-unborn", "sg-ft-passed");
+      if (y3 === null || !n) {
+        age?.setText("");
+        continue;
+      }
+      const b = n.b ? Number(n.b) : null, d = n.d ? Number(n.d) : null;
+      if (b === null) {
+        age?.setText("");
+        continue;
+      }
+      const until = d ?? (n.living ? (/* @__PURE__ */ new Date()).getFullYear() : b + 90);
+      if (y3 < b) {
+        el.addClass("sg-ft-unborn");
+        age?.setText("");
+      } else if (y3 > until) {
+        el.addClass("sg-ft-passed");
+        age?.setText("");
+      } else {
+        el.addClass("sg-ft-alive");
+        age?.setText(`${y3 - b}`);
+      }
+    }
+  }
+  timeBar(c2) {
+    const years = Object.values(this.data.people).map((n) => n.b ? Number(n.b) : NaN).filter((v) => !Number.isNaN(v));
+    if (!years.length) return;
+    const min = Math.min(...years), max = (/* @__PURE__ */ new Date()).getFullYear();
+    const bar = c2.createDiv({ cls: "sg-ft-time" });
+    bar.onpointerdown = (e) => e.stopPropagation();
+    const row = bar.createDiv({ cls: "sg-ft-time-row" });
+    const label = row.createDiv({ cls: "sg-ft-time-label", text: "Who was alive in\u2026" });
+    const range = row.createEl("input", { cls: "sg-ft-time-range", attr: { type: "range", min: String(min), max: String(max), value: String(max), step: "1" } });
+    const clear = row.createEl("button", { cls: "sg-ft-time-x", text: "\u2715", attr: { "aria-label": "Show everyone" } });
+    const setLabel = () => label.setText(this.year === null ? "Who was alive in\u2026" : `In ${this.year}`);
+    range.oninput = () => {
+      this.setYear(Number(range.value));
+      setLabel();
+    };
+    clear.onclick = () => {
+      this.setYear(null);
+      range.value = String(max);
+      setLabel();
+    };
+    const chips = bar.createDiv({ cls: "sg-ft-time-chips" });
+    const marks = [[1830, "1830 \xB7 Church organized"], [1847, "1847 \xB7 the Valley"], [1856, "1856 \xB7 handcarts"], [1900, "1900"], [1950, "1950"], [max, "today"]];
+    for (const [y3, t] of marks) {
+      if (y3 < min - 10) continue;
+      const b = chips.createEl("button", { cls: "sg-ft-chip", text: t });
+      b.onclick = () => {
+        range.value = String(y3);
+        this.setYear(y3);
+        setLabel();
+      };
+    }
   }
   // ------------------------------------------------------- pan & zoom
   moved = false;
@@ -14229,7 +14396,13 @@ var FamilyTree = class {
       }
       if (pts.size === 1 && last) {
         const dx = e.clientX - last.x, dy = e.clientY - last.y;
-        if (Math.abs(dx) + Math.abs(dy) > 3) this.moved = true;
+        if (Math.abs(dx) + Math.abs(dy) > 3) {
+          this.moved = true;
+          if (this.cardEl) {
+            this.cardEl.remove();
+            this.cardEl = null;
+          }
+        }
         this.tx += dx;
         this.ty += dy;
         last = { x: e.clientX, y: e.clientY };
@@ -15000,6 +15173,7 @@ var SGLibraryView = class extends import_obsidian7.ItemView {
     this.coverSeq = 0;
     void this.renderThisWeek(c2.createDiv({ cls: "sg-cfm-slot" }));
     this.renderContinue(c2.createDiv({ cls: "sg-continue-slot" }));
+    void this.renderFamilyWeek(c2.createDiv({ cls: "sg-famweek-slot" }));
     void this.renderInsight(c2.createDiv({ cls: "sg-insight-slot" }));
     const groupsBox = c2.createDiv({ cls: "sg-nav-groups" });
     const actsP = this.groupActs ? Promise.resolve(this.groupActs) : this.host.groupActivity();
@@ -15029,6 +15203,56 @@ var SGLibraryView = class extends import_obsidian7.ItemView {
     col.createDiv({ cls: "sg-nav-gsub", text: "Scriptures, conference, history, topics, music" });
     browse.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
     browse.onclick = () => this.go({ kind: "scriptures" });
+  }
+  /** ancestors whose birthday or anniversary falls this week, from the
+   * family tree note; nothing when the shelf has no tree yet */
+  async renderFamilyWeek(slot) {
+    const f = this.app.metadataCache.getFirstLinkpathDest("Family Tree", "");
+    if (!f) {
+      slot.remove();
+      return;
+    }
+    const data = await loadTree(this.app);
+    if (!data || !slot.isConnected) {
+      slot.remove();
+      return;
+    }
+    const today = /* @__PURE__ */ new Date();
+    const doy = (m2, d) => {
+      const t = new Date(today.getFullYear(), m2 - 1, d);
+      return Math.round((t.getTime() - new Date(today.getFullYear(), 0, 1).getTime()) / 864e5);
+    };
+    const now2 = doy(today.getMonth() + 1, today.getDate());
+    const rows = [];
+    for (const [pid, n] of Object.entries(data.people)) {
+      if (n.living || !n.page) continue;
+      for (const [date, what] of [[n.bf, "born"], [n.df, "died"]]) {
+        const md = monthDay(date);
+        if (!md) continue;
+        let delta = doy(md.m, md.d) - now2;
+        if (delta < -3) delta += 365;
+        if (delta < -3 || delta > 3) continue;
+        const year = /\d{4}/.exec(date ?? "")?.[0];
+        const ago = year ? `${today.getFullYear() - Number(year)} years ago` : "";
+        rows.push({ pid, n, what, when: delta === 0 ? "today" : delta === 1 ? "tomorrow" : delta === -1 ? "yesterday" : delta > 0 ? `in ${delta} days` : `${-delta} days ago`, delta: Math.abs(delta) });
+        rows[rows.length - 1].what = `${what} ${ago}`.trim();
+      }
+    }
+    if (!rows.length) {
+      slot.remove();
+      return;
+    }
+    rows.sort((a2, b) => a2.delta - b.delta);
+    const card = slot.createDiv({ cls: "sg-cfm sg-famweek" });
+    card.createDiv({ cls: "sg-cfm-eyebrow", text: "This week in your family" });
+    for (const r of rows.slice(0, 4)) {
+      const row = card.createDiv({ cls: "sg-famweek-row" });
+      row.createDiv({ cls: "sg-famweek-name", text: r.n.n });
+      row.createDiv({ cls: "sg-famweek-sub", text: `${r.what} \xB7 ${r.when}` });
+      row.onclick = () => this.host.openNote(r.n.page);
+    }
+    const all = card.createEl("button", { cls: "sg-cfm-chip", text: "Open the family tree" });
+    all.onclick = () => this.go({ kind: "family" });
   }
   /** the chapter you were in, as a card like this week's lesson; the two
    * before it as chips. Nothing when the reader has never opened a chapter. */
