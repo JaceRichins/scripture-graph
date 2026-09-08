@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.15 build 159651c5 2026-09-07T23:58:50Z */
+/* scripture-graph v0.72.16 build 6722db7f 2026-09-08T00:15:24Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.15", sha: "159651c5", at: "2026-09-07T23:58:50Z" };
+    define_SG_BUILD_default = { version: "0.72.16", sha: "6722db7f", at: "2026-09-08T00:15:24Z" };
   }
 });
 
@@ -13101,29 +13101,30 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
   trackItem(tr, byTitle, key, i, art, open2) {
     const inBook = tr.a === "Hymn" || tr.a === "Primary";
     const h = inBook ? byTitle.get(normTitle(tr.t)) : void 0;
+    const choirWhen = tr.choir_when ? ` (${tr.choir_when})` : "";
     if (h) {
       const base = this.hymnItem(h, art, open2);
-      const yt2 = tr.yt || void 0;
-      const how2 = this.host.music.spotify.connected ? "Spotify" : yt2 ? "Tabernacle Choir \xB7 YouTube" : "Church recording";
-      return {
-        ...base,
-        yt: yt2,
-        preferVideo: true,
-        sub: `${this.bookShort(h)} \xB7 ${how2}`,
-        searchQuery: `${tr.t} The Tabernacle Choir at Temple Square`
-      };
+      if (tr.choir) {
+        const alt = [{ label: "Plain hymnbook recording", url: base.url }, ...base.alt ?? []];
+        return {
+          ...base,
+          url: tr.choir,
+          alt,
+          sub: `${this.bookShort(h)} \xB7 Tabernacle Choir${choirWhen}`,
+          credit: `The Tabernacle Choir at Temple Square${choirWhen}`,
+          searchQuery: `${tr.t} The Tabernacle Choir at Temple Square`
+        };
+      }
+      return { ...base, searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
     }
-    const url = tr.url || void 0;
-    const yt = tr.yt || void 0;
-    const how = this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : url ? "free recording" : "video arriving";
+    const url = tr.choir || tr.url || void 0;
+    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : "Spotify only";
     return {
       id: `track:${key}:${i}`,
       title: tr.t,
       sub: `${tr.a} \xB7 ${how}`,
       url,
-      yt,
-      credit: tr.credit,
-      preferVideo: true,
+      credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.credit,
       searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`,
       art,
       open: open2
@@ -13141,7 +13142,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     const col = row.createDiv({ cls: "sg-tr-col" });
     col.createDiv({ cls: "sg-tr-title", text: it.title });
     col.createDiv({ cls: "sg-tr-sub", text: it.sub });
-    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "soon" });
+    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "Spotify" });
     const more = row.createEl("button", { cls: "sg-tr-more", text: "\u22EF" });
     more.setAttr("aria-label", "More");
     more.onclick = (e) => {
@@ -16686,7 +16687,6 @@ var MusicPlayer = class {
     this.app = app;
     this.prefs = prefs;
     this.spotify = spotify;
-    window.addEventListener("message", this.onFrameMessage);
   }
   audio = null;
   mode = null;
@@ -16694,8 +16694,6 @@ var MusicPlayer = class {
   index = -1;
   paused = false;
   bar = null;
-  video = null;
-  frame = null;
   progress = null;
   listeners = /* @__PURE__ */ new Set();
   spotifyPoll = null;
@@ -16728,14 +16726,8 @@ var MusicPlayer = class {
   }
   /** how this item would play, if tapped */
   engineFor(it) {
-    if (it.preferVideo) {
-      if (this.spotify.connected) return "spotify";
-      if (it.yt) return "youtube";
-      return it.url ? "audio" : null;
-    }
     if (it.url) return "audio";
     if (this.spotify.connected) return "spotify";
-    if (it.yt) return "youtube";
     return null;
   }
   canPlay(it) {
@@ -16746,7 +16738,7 @@ var MusicPlayer = class {
     const it = queue[index2];
     if (!it) return;
     if (!this.canPlay(it)) {
-      new import_obsidian27.Notice("This song's video hasn't arrived yet \u2014 it plays here once the laptop finds it.");
+      new import_obsidian27.Notice("The Church doesn't host a recording of this one \u2014 connect Spotify in Settings \u2192 Music to play it.");
       return;
     }
     this.queue = queue;
@@ -16757,7 +16749,7 @@ var MusicPlayer = class {
   playAll(queue, shuffle = false) {
     let q = queue.filter((i) => this.canPlay(i));
     if (!q.length) {
-      new import_obsidian27.Notice("Nothing in this list can play yet \u2014 the videos are still arriving.");
+      new import_obsidian27.Notice("Nothing in this list has a Church recording \u2014 connect Spotify to play it.");
       return;
     }
     if (shuffle) q = q.map((x3) => [Math.random(), x3]).sort((a2, b) => a2[0] - b[0]).map((x3) => x3[1]);
@@ -16780,8 +16772,7 @@ var MusicPlayer = class {
     if (this.mode === "audio" && this.audio) {
       if (resume) void this.audio.play();
       else this.audio.pause();
-    } else if (this.mode === "youtube") this.frameCmd(resume ? "playVideo" : "pauseVideo");
-    else if (this.mode === "spotify") {
+    } else if (this.mode === "spotify") {
       if (resume) void this.spotify.resume();
       else void this.spotify.pause();
     }
@@ -16819,11 +16810,6 @@ var MusicPlayer = class {
   teardownEngines() {
     this.audio?.pause();
     this.audio = null;
-    if (this.frame) {
-      this.frame.remove();
-      this.frame = null;
-    }
-    this.video?.hide();
     if (this.spotifyPoll) {
       window.clearInterval(this.spotifyPoll);
       this.spotifyPoll = null;
@@ -16839,7 +16825,6 @@ var MusicPlayer = class {
     this.paused = false;
     document.body.addClass("sg-player-on");
     if (engine === "audio") this.startAudio(it.url);
-    else if (engine === "youtube") this.startYouTube(it.yt);
     else await this.startSpotify(it);
     this.emit();
   }
@@ -16861,48 +16846,6 @@ var MusicPlayer = class {
     };
     void a2.play().catch(() => new import_obsidian27.Notice("Tap again to start playback."));
   }
-  // ----------------------------------------------------------- youtube
-  /** YouTube's player, driven over its postMessage protocol (no script
-   * to load), visible above the bar as its terms require */
-  startYouTube(id) {
-    if (!this.video) return;
-    this.video.empty();
-    this.video.show();
-    const f = this.video.createEl("iframe", { cls: "sg-player-frame" });
-    f.setAttr("allow", "autoplay; encrypted-media; picture-in-picture");
-    f.setAttr("allowfullscreen", "true");
-    f.setAttr("frameborder", "0");
-    f.src = `https://www.youtube-nocookie.com/embed/${id}?enablejsapi=1&autoplay=1&playsinline=1&rel=0&modestbranding=1`;
-    f.onload = () => {
-      f.contentWindow?.postMessage(JSON.stringify({ event: "listening", id: "sg", channel: "widget" }), "*");
-    };
-    this.frame = f;
-  }
-  frameCmd(func) {
-    this.frame?.contentWindow?.postMessage(JSON.stringify({ event: "command", func, args: [] }), "*");
-  }
-  onFrameMessage = (ev) => {
-    if (this.mode !== "youtube" || !this.frame || ev.source !== this.frame.contentWindow) return;
-    let d;
-    try {
-      d = typeof ev.data === "string" ? JSON.parse(ev.data) : ev.data;
-    } catch {
-      return;
-    }
-    if (d.event !== "infoDelivery" || !d.info) return;
-    if (d.info.playerState === 0) this.step(1);
-    if (d.info.playerState === 1 && this.paused) {
-      this.paused = false;
-      this.emit();
-    }
-    if (d.info.playerState === 2 && !this.paused) {
-      this.paused = true;
-      this.emit();
-    }
-    if (this.progress && d.info.duration && d.info.currentTime !== void 0) {
-      this.progress.style.width = `${d.info.currentTime / d.info.duration * 100}%`;
-    }
-  };
   // ----------------------------------------------------------- spotify
   async startSpotify(it) {
     const uri = await this.spotify.find(it.searchQuery);
@@ -16938,20 +16881,10 @@ var MusicPlayer = class {
   menu(it, ev) {
     const m2 = new import_obsidian27.Menu();
     const eng = this.engineFor(it);
-    if (eng) m2.addItem((i) => i.setTitle(eng === "audio" ? "Play here" : eng === "spotify" ? "Play on Spotify" : "Play here (YouTube)").setIcon("play").onClick(() => this.play([it], 0)));
-    if (it.yt && eng !== "youtube") m2.addItem((i) => i.setTitle("Play here (YouTube)").setIcon("play").onClick(() => {
-      this.queue = [it];
-      this.index = 0;
-      this.teardownEngines();
-      this.mode = "youtube";
-      this.paused = false;
-      document.body.addClass("sg-player-on");
-      this.startYouTube(it.yt);
-      this.emit();
-    }));
+    if (eng) m2.addItem((i) => i.setTitle(eng === "audio" ? "Play here" : "Play on Spotify").setIcon("play").onClick(() => this.play([it], 0)));
     if (it.url && eng !== "audio") m2.addItem((i) => i.setTitle("Play the plain recording").setIcon("music").onClick(() => this.playUrl(it, it.url)));
     for (const a2 of it.alt ?? []) m2.addItem((i) => i.setTitle(a2.label).setIcon("music").onClick(() => this.playUrl(it, a2.url)));
-    if (!eng) m2.addItem((i) => i.setTitle("Video not here yet").setIcon("clock").setDisabled(true));
+    if (!eng) m2.addItem((i) => i.setTitle("Plays through Spotify once connected").setIcon("clock").setDisabled(true));
     if (it.wordsUrl || it.credit) m2.addSeparator();
     if (it.wordsUrl) m2.addItem((i) => i.setTitle("Words & sheet music (Church site)").setIcon("file-text").onClick(() => window.open(it.wordsUrl, "_blank")));
     if (it.credit) m2.addItem((i) => i.setTitle(`Recording: ${it.credit}`).setIcon("info").setDisabled(true));
@@ -16965,17 +16898,13 @@ var MusicPlayer = class {
   mount() {
     if (this.bar) return;
     const wrap = document.body.createDiv({ cls: "sg-player-wrap" });
-    this.video = wrap.createDiv({ cls: "sg-player-video" });
-    this.video.hide();
     this.bar = wrap.createDiv({ cls: "sg-player" });
     this.paint();
   }
   destroy() {
     this.stop();
-    window.removeEventListener("message", this.onFrameMessage);
     this.bar?.parentElement?.remove();
     this.bar = null;
-    this.video = null;
   }
   paint() {
     const bar = this.bar;
@@ -16989,15 +16918,14 @@ var MusicPlayer = class {
     bar.parentElement?.show();
     const line = bar.createDiv({ cls: "sg-player-line" });
     this.progress = line.createDiv({ cls: "sg-player-prog" });
-    if (it.art && this.mode !== "youtube") {
+    if (it.art) {
       const img = bar.createEl("img", { cls: "sg-player-art" });
       img.src = it.art;
     }
     const meta = bar.createDiv({ cls: "sg-player-meta" });
     meta.createDiv({ cls: "sg-player-title", text: it.title });
-    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : this.mode === "youtube" ? "YouTube" : it.sub });
-    if (this.mode === "youtube") meta.onclick = () => bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big"));
-    else if (it.open) meta.onclick = it.open;
+    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : it.sub });
+    if (it.open) meta.onclick = it.open;
     const btn = (label, cls, fn) => {
       const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, text: label });
       b.onclick = (e) => {

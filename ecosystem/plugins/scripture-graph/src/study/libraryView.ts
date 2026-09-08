@@ -77,7 +77,7 @@ interface Hymn { uri: string; title: string; n: number | null; url: string; book
 
 /** the Music shelf's playlists (see the note's own header) */
 const MUSIC_PATH = "AI Library/00 System/Music.md";
-interface Track { t: string; a: string; yt?: string; url?: string; credit?: string }
+interface Track { t: string; a: string; yt?: string; url?: string; credit?: string; choir?: string; choir_when?: string }
 interface Playlist { key: string; title: string; blurb?: string; cover?: string; tracks: Track[] }
 
 /** loose title match: "Abide with Me!" ~ "abide with me" */
@@ -416,18 +416,21 @@ export class SGLibraryView extends ItemView {
   private trackItem(tr: Track, byTitle: Map<string, Hymn>, key: string, i: number, art?: string, open?: () => void): PlayItem {
     const inBook = tr.a === "Hymn" || tr.a === "Primary";
     const h = inBook ? byTitle.get(normTitle(tr.t)) : undefined;
+    const choirWhen = tr.choir_when ? ` (${tr.choir_when})` : "";
     if (h) {
-      // in a playlist the Choir's performance leads; the plain recording is the fallback
+      // in a playlist the Choir's performance leads; the plain hymnbook recording stays one tap away
       const base = this.hymnItem(h, art, open);
-      const yt = tr.yt || undefined;
-      const how = this.host.music.spotify.connected ? "Spotify" : yt ? "Tabernacle Choir · YouTube" : "Church recording";
-      return { ...base, yt, preferVideo: true, sub: `${this.bookShort(h)} · ${how}`,
-        searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
+      if (tr.choir) {
+        const alt = [{ label: "Plain hymnbook recording", url: base.url! }, ...(base.alt ?? [])];
+        return { ...base, url: tr.choir, alt, sub: `${this.bookShort(h)} · Tabernacle Choir${choirWhen}`,
+          credit: `The Tabernacle Choir at Temple Square${choirWhen}`, searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
+      }
+      return { ...base, searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
     }
-    const url = tr.url || undefined;
-    const yt = tr.yt || undefined;
-    const how = this.host.music.spotify.connected ? "Spotify" : yt ? "YouTube" : url ? "free recording" : "video arriving";
-    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url, yt, credit: tr.credit, preferVideo: true,
+    const url = tr.choir || tr.url || undefined;
+    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : "Spotify only";
+    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url,
+      credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.credit,
       searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`, art, open };
   }
 
@@ -443,7 +446,7 @@ export class SGLibraryView extends ItemView {
     const col = row.createDiv({ cls: "sg-tr-col" });
     col.createDiv({ cls: "sg-tr-title", text: it.title });
     col.createDiv({ cls: "sg-tr-sub", text: it.sub });
-    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "soon" });
+    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "Spotify" });
     const more = row.createEl("button", { cls: "sg-tr-more", text: "⋯" });
     more.setAttr("aria-label", "More");
     more.onclick = (e) => { e.stopPropagation(); music.menu(it, e); };

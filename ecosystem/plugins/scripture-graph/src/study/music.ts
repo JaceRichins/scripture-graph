@@ -1,13 +1,12 @@
 /** The music player — one queue, one mini bar above the dock, the way a
  * streaming app does it. Three engines behind one set of controls:
  *
- *   audio    — a free stream (the Church's hymn recordings; public-domain
- *              performances from Commons), played by the app itself
- *   spotify  — the listener's Spotify app plays, we drive it (Premium)
- *   youtube  — YouTube's own embedded player, visible above the bar
+ *   audio    — a stream from the Church's servers (the Tabernacle Choir's
+ *              conference performances, the hymnbook recordings) or a
+ *              public-domain performance, played by the app itself
+ *   spotify  — the listener's Spotify app plays in the background, we drive it
  *
- * Nothing ever leaves the app: a track none of those can reach yet just
- * says so until the laptop finds its video. */
+ * Headless, always. Nothing ever leaves the app. */
 import { App, Menu, Notice } from "obsidian";
 import type { Spotify } from "./spotify";
 
@@ -20,19 +19,15 @@ export interface PlayItem {
   sub: string;
   /** a free stream; absent = another engine or elsewhere */
   url?: string;
-  /** a YouTube video id, for the embedded player */
-  yt?: string;
   alt?: { label: string; url: string }[];
   searchQuery: string;
   wordsUrl?: string;
   credit?: string;
   art?: string;
   open?: () => void;
-  /** playlists: a performance (Spotify, the Choir on YouTube) beats the plain recording */
-  preferVideo?: boolean;
 }
 
-type Mode = "audio" | "spotify" | "youtube";
+type Mode = "audio" | "spotify";
 
 export class MusicPlayer {
   private audio: HTMLAudioElement | null = null;
@@ -41,8 +36,6 @@ export class MusicPlayer {
   index = -1;
   paused = false;
   private bar: HTMLElement | null = null;
-  private video: HTMLElement | null = null;
-  private frame: HTMLIFrameElement | null = null;
   private progress: HTMLElement | null = null;
   private listeners = new Set<() => void>();
   private spotifyPoll: number | null = null;
@@ -51,7 +44,6 @@ export class MusicPlayer {
 
   constructor(private app: App, private prefs: { get(): Service | null; set(s: Service | null): Promise<void> },
     public spotify: Spotify) {
-    window.addEventListener("message", this.onFrameMessage);
   }
 
   on(fn: () => void): () => void { this.listeners.add(fn); return () => this.listeners.delete(fn); }
@@ -64,14 +56,8 @@ export class MusicPlayer {
 
   /** how this item would play, if tapped */
   engineFor(it: PlayItem): Mode | null {
-    if (it.preferVideo) {
-      if (this.spotify.connected) return "spotify";
-      if (it.yt) return "youtube";
-      return it.url ? "audio" : null;
-    }
-    if (it.url) return "audio";
-    if (this.spotify.connected) return "spotify";
-    if (it.yt) return "youtube";
+    if (it.url) return "audio";                     // the Church's servers: Choir, hymns, free recordings
+    if (this.spotify.connected) return "spotify";   // headless too, for what the Church does not host
     return null;
   }
   canPlay(it: PlayItem): boolean { return this.engineFor(it) !== null; }
@@ -80,7 +66,7 @@ export class MusicPlayer {
   play(queue: PlayItem[], index: number): void {
     const it = queue[index];
     if (!it) return;
-    if (!this.canPlay(it)) { new Notice("This song's video hasn't arrived yet — it plays here once the laptop finds it."); return; }
+    if (!this.canPlay(it)) { new Notice("The Church doesn't host a recording of this one — connect Spotify in Settings → Music to play it."); return; }
     this.queue = queue;
     this.index = index;
     void this.start(it);
@@ -89,7 +75,7 @@ export class MusicPlayer {
   /** the big Play button: everything in the list that plays here, in order */
   playAll(queue: PlayItem[], shuffle = false): void {
     let q = queue.filter(i => this.canPlay(i));
-    if (!q.length) { new Notice("Nothing in this list can play yet — the videos are still arriving."); return; }
+    if (!q.length) { new Notice("Nothing in this list has a Church recording — connect Spotify to play it."); return; }
     if (shuffle) q = q.map(x => [Math.random(), x] as const).sort((a, b) => a[0] - b[0]).map(x => x[1]);
     this.queue = q; this.index = 0;
     void this.start(q[0]!);
@@ -106,7 +92,6 @@ export class MusicPlayer {
     const resume = this.paused;
     this.paused = !this.paused;
     if (this.mode === "audio" && this.audio) { if (resume) void this.audio.play(); else this.audio.pause(); }
-    else if (this.mode === "youtube") this.frameCmd(resume ? "playVideo" : "pauseVideo");
     else if (this.mode === "spotify") { if (resume) void this.spotify.resume(); else void this.spotify.pause(); }
     this.emit();
   }
@@ -134,8 +119,6 @@ export class MusicPlayer {
 
   private teardownEngines(): void {
     this.audio?.pause(); this.audio = null;
-    if (this.frame) { this.frame.remove(); this.frame = null; }
-    this.video?.hide();
     if (this.spotifyPoll) { window.clearInterval(this.spotifyPoll); this.spotifyPoll = null; }
     if (this.mode === "spotify") void this.spotify.pause();
     this.spotifyUri = null;
@@ -148,7 +131,6 @@ export class MusicPlayer {
     this.mode = engine; this.paused = false;
     document.body.addClass("sg-player-on");
     if (engine === "audio") this.startAudio(it.url!);
-    else if (engine === "youtube") this.startYouTube(it.yt!);
     else await this.startSpotify(it);
     this.emit();
   }
@@ -162,36 +144,6 @@ export class MusicPlayer {
     a.ontimeupdate = () => { if (this.audio === a && this.progress && a.duration) this.progress.style.width = `${(a.currentTime / a.duration) * 100}%`; };
     void a.play().catch(() => new Notice("Tap again to start playback."));
   }
-
-  // ----------------------------------------------------------- youtube
-  /** YouTube's player, driven over its postMessage protocol (no script
-   * to load), visible above the bar as its terms require */
-  private startYouTube(id: string): void {
-    if (!this.video) return;
-    this.video.empty(); this.video.show();
-    const f = this.video.createEl("iframe", { cls: "sg-player-frame" });
-    f.setAttr("allow", "autoplay; encrypted-media; picture-in-picture");
-    f.setAttr("allowfullscreen", "true");
-    f.setAttr("frameborder", "0");
-    f.src = `https://www.youtube-nocookie.com/embed/${id}?enablejsapi=1&autoplay=1&playsinline=1&rel=0&modestbranding=1`;
-    f.onload = () => { f.contentWindow?.postMessage(JSON.stringify({ event: "listening", id: "sg", channel: "widget" }), "*"); };
-    this.frame = f;
-  }
-  private frameCmd(func: string): void {
-    this.frame?.contentWindow?.postMessage(JSON.stringify({ event: "command", func, args: [] }), "*");
-  }
-  private onFrameMessage = (ev: MessageEvent) => {
-    if (this.mode !== "youtube" || !this.frame || ev.source !== this.frame.contentWindow) return;
-    let d: { event?: string; info?: { playerState?: number; currentTime?: number; duration?: number } };
-    try { d = typeof ev.data === "string" ? JSON.parse(ev.data) : ev.data; } catch { return; }
-    if (d.event !== "infoDelivery" || !d.info) return;
-    if (d.info.playerState === 0) this.step(1);                       // ended
-    if (d.info.playerState === 1 && this.paused) { this.paused = false; this.emit(); }
-    if (d.info.playerState === 2 && !this.paused) { this.paused = true; this.emit(); }
-    if (this.progress && d.info.duration && d.info.currentTime !== undefined) {
-      this.progress.style.width = `${(d.info.currentTime / d.info.duration) * 100}%`;
-    }
-  };
 
   // ----------------------------------------------------------- spotify
   private async startSpotify(it: PlayItem): Promise<void> {
@@ -219,11 +171,10 @@ export class MusicPlayer {
   menu(it: PlayItem, ev: MouseEvent): void {
     const m = new Menu();
     const eng = this.engineFor(it);
-    if (eng) m.addItem(i => i.setTitle(eng === "audio" ? "Play here" : eng === "spotify" ? "Play on Spotify" : "Play here (YouTube)").setIcon("play").onClick(() => this.play([it], 0)));
-    if (it.yt && eng !== "youtube") m.addItem(i => i.setTitle("Play here (YouTube)").setIcon("play").onClick(() => { this.queue = [it]; this.index = 0; this.teardownEngines(); this.mode = "youtube"; this.paused = false; document.body.addClass("sg-player-on"); this.startYouTube(it.yt!); this.emit(); }));
+    if (eng) m.addItem(i => i.setTitle(eng === "audio" ? "Play here" : "Play on Spotify").setIcon("play").onClick(() => this.play([it], 0)));
     if (it.url && eng !== "audio") m.addItem(i => i.setTitle("Play the plain recording").setIcon("music").onClick(() => this.playUrl(it, it.url!)));
     for (const a of it.alt ?? []) m.addItem(i => i.setTitle(a.label).setIcon("music").onClick(() => this.playUrl(it, a.url)));
-    if (!eng) m.addItem(i => i.setTitle("Video not here yet").setIcon("clock").setDisabled(true));
+    if (!eng) m.addItem(i => i.setTitle("Plays through Spotify once connected").setIcon("clock").setDisabled(true));
     if (it.wordsUrl || it.credit) m.addSeparator();
     if (it.wordsUrl) m.addItem(i => i.setTitle("Words & sheet music (Church site)").setIcon("file-text").onClick(() => window.open(it.wordsUrl!, "_blank")));
     if (it.credit) m.addItem(i => i.setTitle(`Recording: ${it.credit}`).setIcon("info").setDisabled(true));
@@ -238,16 +189,13 @@ export class MusicPlayer {
   mount(): void {
     if (this.bar) return;
     const wrap = document.body.createDiv({ cls: "sg-player-wrap" });
-    this.video = wrap.createDiv({ cls: "sg-player-video" });
-    this.video.hide();
     this.bar = wrap.createDiv({ cls: "sg-player" });
     this.paint();
   }
 
   destroy(): void {
     this.stop();
-    window.removeEventListener("message", this.onFrameMessage);
-    this.bar?.parentElement?.remove(); this.bar = null; this.video = null;
+    this.bar?.parentElement?.remove(); this.bar = null;
   }
 
   private paint(): void {
@@ -259,13 +207,11 @@ export class MusicPlayer {
     bar.parentElement?.show();
     const line = bar.createDiv({ cls: "sg-player-line" });
     this.progress = line.createDiv({ cls: "sg-player-prog" });
-    if (it.art && this.mode !== "youtube") { const img = bar.createEl("img", { cls: "sg-player-art" }); img.src = it.art; }
+    if (it.art) { const img = bar.createEl("img", { cls: "sg-player-art" }); img.src = it.art; }
     const meta = bar.createDiv({ cls: "sg-player-meta" });
     meta.createDiv({ cls: "sg-player-title", text: it.title });
-    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : this.mode === "youtube" ? "YouTube" : it.sub });
-    // YouTube: the title toggles the corner square ↔ a full-width player
-    if (this.mode === "youtube") meta.onclick = () => bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big"));
-    else if (it.open) meta.onclick = it.open;
+    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : it.sub });
+    if (it.open) meta.onclick = it.open;
     const btn = (label: string, cls: string, fn: () => void) => {
       const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, text: label });
       b.onclick = (e) => { e.stopPropagation(); fn(); };
