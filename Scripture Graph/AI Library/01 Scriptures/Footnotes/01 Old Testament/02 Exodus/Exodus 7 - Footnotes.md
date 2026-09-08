@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ex-7
 verses: 9
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:58Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Moses is appointed to give the word of the Lord to Pharaoh—The Lord will multiply signs and wonders in Egypt—Aaron’s rod becomes a serpent—The river is turned into blood—The magicians imitate the miracles of Moses and Aaron.
 
 ```json
-{"1":[{"m":"1b","refs":[{"c":"ex-4","t":"Exodus 4","v":[16],"l":"Ex. 4:16"}]}],"4":[{"m":"4b","refs":[{"c":"dc-105","t":"D&C 105","v":[26],"l":"D&amp;C 105:26"}]}],"5":[{"m":"5a","refs":[{"c":"ex-14","t":"Exodus 14","v":[4],"l":"Ex. 14:4"}]},{"m":"5b","refs":[{"c":"neh-9","t":"Nehemiah 9","v":[6,7,8,9,10],"l":"Neh. 9:10 (6–10)"}]},{"m":"5c","refs":[{"c":"ex-8","t":"Exodus 8","v":[10],"l":"Ex. 8:10"}]}],"7":[{"m":"7a","refs":[{"c":"deut-31","t":"Deuteronomy 31","v":[1,2],"l":"Deut. 31:2 (1–2)"},{"c":"deut-34","t":"Deuteronomy 34","v":[7],"l":"34:7"},{"c":"acts-7","t":"Acts 7","v":[23],"l":"Acts 7:23"}]},{"m":"7b","refs":[{"c":"ex-6","t":"Exodus 6","v":[14,15,16,17,18,19],"l":"Ex. 6:20 (14–27)"},{"c":"num-33","t":"Numbers 33","v":[39],"l":"Num. 33:39"}]}],"15":[{"m":"15b","refs":[{"c":"ex-4","t":"Exodus 4","v":[17],"l":"Ex. 4:17"}]}],"16":[{"m":"16a","refs":[{"c":"ex-5","t":"Exodus 5","v":[3],"l":"Ex. 5:3"}]}],"17":[{"m":"17b","refs":[{"c":"rev-11","t":"Revelation 11","v":[5,6],"l":"Rev. 11:6 (5–6)"}]}],"19":[{"m":"19a","refs":[{"c":"ex-4","t":"Exodus 4","v":[9],"l":"Ex. 4:9"}]}],"20":[{"m":"20a","refs":[{"c":"ex-14","t":"Exodus 14","v":[15,16,17],"l":"Ex. 14:16 (15–17)"},{"c":"ex-17","t":"Exodus 17","v":[5],"l":"17:5"}]},{"m":"20b","refs":[{"c":"ps-105","t":"Psalm 105","v":[29],"l":"Ps. 105:29"}]}]}
+{"1":[{"m":"1b","refs":[{"c":"ex-4","t":"Exodus 4","v":[16],"l":"Ex. 4:16"}],"w":"god","o":52}],"4":[{"m":"4b","refs":[{"c":"dc-105","t":"D&C 105","v":[26],"l":"D&amp;C 105:26"}],"w":"armies","o":94}],"5":[{"m":"5a","refs":[{"c":"ex-14","t":"Exodus 14","v":[4],"l":"Ex. 14:4"}],"w":"know","o":23},{"m":"5b","refs":[{"c":"neh-9","t":"Nehemiah 9","v":[6,7,8,9,10],"l":"Neh. 9:10 (6–10)"}],"w":"I am","o":31},{"m":"5c","refs":[{"c":"ex-8","t":"Exodus 8","v":[10],"l":"Ex. 8:10"}],"w":"Lord","o":38}],"7":[{"m":"7a","refs":[{"c":"deut-31","t":"Deuteronomy 31","v":[1,2],"l":"Deut. 31:2 (1–2)"},{"c":"deut-34","t":"Deuteronomy 34","v":[7],"l":"34:7"},{"c":"acts-7","t":"Acts 7","v":[23],"l":"Acts 7:23"}],"w":"fourscore","o":13},{"m":"7b","refs":[{"c":"ex-6","t":"Exodus 6","v":[14,15,16,17,18,19],"l":"Ex. 6:20 (14–27)"},{"c":"num-33","t":"Numbers 33","v":[39],"l":"Num. 33:39"}],"w":"Aaron","o":36}],"15":[{"m":"15b","refs":[{"c":"ex-4","t":"Exodus 4","v":[17],"l":"Ex. 4:17"}],"w":"rod","o":136}],"16":[{"m":"16a","refs":[{"c":"ex-5","t":"Exodus 5","v":[3],"l":"Ex. 5:3"}],"w":"God","o":37}],"17":[{"m":"17b","refs":[{"c":"rev-11","t":"Revelation 11","v":[5,6],"l":"Rev. 11:6 (5–6)"}],"w":"turned","o":176}],"19":[{"m":"19a","refs":[{"c":"ex-4","t":"Exodus 4","v":[9],"l":"Ex. 4:9"}],"w":"blood","o":232}],"20":[{"m":"20a","refs":[{"c":"ex-14","t":"Exodus 14","v":[15,16,17],"l":"Ex. 14:16 (15–17)"},{"c":"ex-17","t":"Exodus 17","v":[5],"l":"17:5"}],"w":"rod","o":71},{"m":"20b","refs":[{"c":"ps-105","t":"Psalm 105","v":[29],"l":"Ps. 105:29"}],"w":"blood","o":236}]}
 ```
 
 - **1** 1b [[Exodus 4#^ex-4-16|Ex. 4:16]]

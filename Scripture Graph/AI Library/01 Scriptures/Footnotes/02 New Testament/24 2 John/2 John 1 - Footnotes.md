@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 2jn-1
 verses: 3
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > John rejoices because the children of the elect lady are true and faithful.
 
 ```json
-{"6":[{"m":"6c","refs":[{"c":"1jn-2","t":"1 John 2","v":[24],"l":"1 Jn. 2:24"}]}],"10":[{"m":"10a","refs":[{"c":"1cor-5","t":"1 Corinthians 5","v":[11],"l":"1 Cor. 5:11"}]}],"11":[{"m":"11a","refs":[{"c":"1tim-5","t":"1 Timothy 5","v":[22],"l":"1 Tim. 5:22"}]}]}
+{"6":[{"m":"6c","refs":[{"c":"1jn-2","t":"1 John 2","v":[24],"l":"1 Jn. 2:24"}],"w":"beginning","o":108}],"10":[{"m":"10a","refs":[{"c":"1cor-5","t":"1 Corinthians 5","v":[11],"l":"1 Cor. 5:11"}],"w":"house","o":82}],"11":[{"m":"11a","refs":[{"c":"1tim-5","t":"1 Timothy 5","v":[22],"l":"1 Tim. 5:22"}],"w":"partaker","o":36}]}
 ```
 
 - **6** 6c [[1 John 2#^1jn-2-24|1 Jn. 2:24]]

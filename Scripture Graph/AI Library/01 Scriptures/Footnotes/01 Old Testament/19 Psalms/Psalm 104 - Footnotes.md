@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-104
 verses: 8
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Lord is clothed with honor and majesty—He makes His angels spirits and His ministers a flaming fire—Through His providence He sustains all forms of life—His glory endures forever.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"prov-31","t":"Proverbs 31","v":[25],"l":"Prov. 31:25"}]}],"2":[{"m":"2a","refs":[{"c":"job-9","t":"Job 9","v":[8],"l":"Job 9:8"},{"c":"isa-40","t":"Isaiah 40","v":[22],"l":"Isa. 40:22"}]}],"3":[{"m":"3a","refs":[{"c":"isa-19","t":"Isaiah 19","v":[1],"l":"Isa. 19:1"}]}],"6":[{"m":"6a","refs":[{"c":"gen-7","t":"Genesis 7","v":[19],"l":"Gen. 7:19"}]}],"9":[{"m":"9a","refs":[{"c":"moses-7","t":"Moses 7","v":[50,51,52],"l":"Moses 7:51 (50–52)"}]}],"16":[{"m":"16a","refs":[{"c":"num-24","t":"Numbers 24","v":[6],"l":"Num. 24:6"}]}],"19":[{"m":"19a","refs":[{"c":"gen-1","t":"Genesis 1","v":[14],"l":"Gen. 1:14"},{"c":"moses-2","t":"Moses 2","v":[3,4,5],"l":"Moses 2:14 (3–5, 14)"}]}],"29":[{"m":"29a","refs":[{"c":"ps-30","t":"Psalm 30","v":[7],"l":"Ps. 30:7"}]},{"m":"29c","refs":[{"c":"moses-4","t":"Moses 4","v":[25],"l":"Moses 4:25"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"prov-31","t":"Proverbs 31","v":[25],"l":"Prov. 31:25"}],"w":"clothed","o":71}],"2":[{"m":"2a","refs":[{"c":"job-9","t":"Job 9","v":[8],"l":"Job 9:8"},{"c":"isa-40","t":"Isaiah 40","v":[22],"l":"Isa. 40:22"}],"w":"stretchest","o":54}],"3":[{"m":"3a","refs":[{"c":"isa-19","t":"Isaiah 19","v":[1],"l":"Isa. 19:1"}],"w":"clouds","o":66}],"6":[{"m":"6a","refs":[{"c":"gen-7","t":"Genesis 7","v":[19],"l":"Gen. 7:19"}],"w":"waters","o":54}],"9":[{"m":"9a","refs":[{"c":"moses-7","t":"Moses 7","v":[50,51,52],"l":"Moses 7:51 (50–52)"}],"w":"cover","o":78}],"16":[{"m":"16a","refs":[{"c":"num-24","t":"Numbers 24","v":[6],"l":"Num. 24:6"}],"w":"trees","o":3}],"19":[{"m":"19a","refs":[{"c":"gen-1","t":"Genesis 1","v":[14],"l":"Gen. 1:14"},{"c":"moses-2","t":"Moses 2","v":[3,4,5],"l":"Moses 2:14 (3–5, 14)"}],"w":"moon","o":16}],"29":[{"m":"29a","refs":[{"c":"ps-30","t":"Psalm 30","v":[7],"l":"Ps. 30:7"}],"w":"face","o":15},{"m":"29c","refs":[{"c":"moses-4","t":"Moses 4","v":[25],"l":"Moses 4:25"}],"w":"dust","o":99}]}
 ```
 
 - **1** 1a [[Proverbs 31#^prov-31-25|Prov. 31:25]]

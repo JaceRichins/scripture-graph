@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: isa-35
 verses: 9
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > In the day of restoration, the desert will blossom, the Lord will come, Israel will be gathered, and Zion will be built up.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"dc-117","t":"D&C 117","v":[7],"l":"D&amp;C 117:7"}]},{"m":"1b","refs":[{"c":"ps-96","t":"Psalm 96","v":[12],"l":"Ps. 96:12"}]},{"m":"1d","refs":[{"c":"ezek-36","t":"Ezekiel 36","v":[34],"l":"Ezek. 36:34"}]}],"2":[{"m":"2a","refs":[{"c":"isa-60","t":"Isaiah 60","v":[13],"l":"Isa. 60:13"}]}],"3":[{"m":"3a","refs":[{"c":"rom-14","t":"Romans 14","v":[1,2,3],"l":"Rom. 14:1 (1–3)"}]},{"m":"3b","refs":[{"c":"heb-12","t":"Hebrews 12","v":[12],"l":"Heb. 12:12"},{"c":"dc-81","t":"D&C 81","v":[5],"l":"D&amp;C 81:5"}]}],"4":[{"m":"4a","refs":[{"c":"morm-3","t":"Mormon 3","v":[15],"l":"Morm. 3:15"}]}],"5":[{"m":"5a","refs":[{"c":"isa-32","t":"Isaiah 32","v":[3],"l":"Isa. 32:3"}]}],"7":[{"m":"7a","refs":[{"c":"dc-133","t":"D&C 133","v":[29],"l":"D&amp;C 133:29"}]}],"8":[{"m":"8a","refs":[{"c":"isa-11","t":"Isaiah 11","v":[16],"l":"Isa. 11:16"},{"c":"isa-51","t":"Isaiah 51","v":[10,11],"l":"51:10 (10–11)"}]}],"9":[{"m":"9a","refs":[{"c":"isa-51","t":"Isaiah 51","v":[10,11],"l":"Isa. 51:10 (10–11)"}]}],"10":[{"m":"10b","refs":[{"c":"dc-45","t":"D&C 45","v":[66,67,68,69,70,71],"l":"D&amp;C 45:66 (66–71)"},{"c":"dc-109","t":"D&C 109","v":[39],"l":"109:39"}]},{"m":"10d","refs":[{"c":"isa-65","t":"Isaiah 65","v":[18],"l":"Isa. 65:18"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"dc-117","t":"D&C 117","v":[7],"l":"D&amp;C 117:7"}],"w":"solitary","o":22},{"m":"1b","refs":[{"c":"ps-96","t":"Psalm 96","v":[12],"l":"Ps. 96:12"}],"w":"glad","o":44},{"m":"1d","refs":[{"c":"ezek-36","t":"Ezekiel 36","v":[34],"l":"Ezek. 36:34"}],"w":"desert","o":64}],"2":[{"m":"2a","refs":[{"c":"isa-60","t":"Isaiah 60","v":[13],"l":"Isa. 60:13"}],"w":"Lebanon","o":80}],"3":[{"m":"3a","refs":[{"c":"rom-14","t":"Romans 14","v":[1,2,3],"l":"Rom. 14:1 (1–3)"}],"w":"weak","o":19},{"m":"3b","refs":[{"c":"heb-12","t":"Hebrews 12","v":[12],"l":"Heb. 12:12"},{"c":"dc-81","t":"D&C 81","v":[5],"l":"D&amp;C 81:5"}],"w":"feeble","o":45}],"4":[{"m":"4a","refs":[{"c":"morm-3","t":"Mormon 3","v":[15],"l":"Morm. 3:15"}],"w":"vengeance","o":93}],"5":[{"m":"5a","refs":[{"c":"isa-32","t":"Isaiah 32","v":[3],"l":"Isa. 32:3"}],"w":"eyes","o":8}],"7":[{"m":"7a","refs":[{"c":"dc-133","t":"D&C 133","v":[29],"l":"D&amp;C 133:29"}],"w":"parched","o":7}],"8":[{"m":"8a","refs":[{"c":"isa-11","t":"Isaiah 11","v":[16],"l":"Isa. 11:16"},{"c":"isa-51","t":"Isaiah 51","v":[10,11],"l":"51:10 (10–11)"}],"w":"highway","o":6}],"9":[{"m":"9a","refs":[{"c":"isa-51","t":"Isaiah 51","v":[10,11],"l":"Isa. 51:10 (10–11)"}],"w":"redeemed","o":104}],"10":[{"m":"10b","refs":[{"c":"dc-45","t":"D&C 45","v":[66,67,68,69,70,71],"l":"D&amp;C 45:66 (66–71)"},{"c":"dc-109","t":"D&C 109","v":[39],"l":"109:39"}],"w":"Zion","o":53},{"m":"10d","refs":[{"c":"isa-65","t":"Isaiah 65","v":[18],"l":"Isa. 65:18"}],"w":"joy","o":81}]}
 ```
 
 - **1** 1a [[D&C 117#^dc-117-7|D&amp;C 117:7]]; 1b [[Psalm 96#^ps-96-12|Ps. 96:12]]; 1d [[Ezekiel 36#^ezek-36-34|Ezek. 36:34]]

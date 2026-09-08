@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1kgs-19
 verses: 8
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jezebel seeks the life of Elijah—An angel sends him to Horeb—The Lord speaks to Elijah, not in the wind nor the earthquake nor the fire, but in a still, small voice—Elisha joins Elijah.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"1kgs-20","t":"1 Kings 20","v":[10],"l":"1 Kgs. 20:10"}]}],"8":[{"m":"8c","refs":[{"c":"ex-3","t":"Exodus 3","v":[1],"l":"Ex. 3:1"},{"c":"3ne-25","t":"3 Nephi 25","v":[4],"l":"3 Ne. 25:4"}]},{"m":"8d","refs":[{"c":"ex-4","t":"Exodus 4","v":[27],"l":"Ex. 4:27"}]}],"12":[{"m":"12a","refs":[{"c":"job-4","t":"Job 4","v":[12,13,14,15,16,17],"l":"Job 4:16 (12–21)"},{"c":"hel-5","t":"Helaman 5","v":[30],"l":"Hel. 5:30"},{"c":"3ne-11","t":"3 Nephi 11","v":[3],"l":"3 Ne. 11:3"},{"c":"dc-20","t":"D&C 20","v":[35],"l":"D&amp;C 20:35"},{"c":"dc-52","t":"D&C 52","v":[1,2],"l":"52:1 (1–2)"}]}],"14":[{"m":"14b","refs":[{"c":"rom-11","t":"Romans 11","v":[3,4],"l":"Rom. 11:3 (3–4)"}]}],"15":[{"m":"15a","refs":[{"c":"2kgs-8","t":"2 Kings 8","v":[13],"l":"2 Kgs. 8:13"}]}],"16":[{"m":"16a","refs":[{"c":"dc-68","t":"D&C 68","v":[20],"l":"D&amp;C 68:20"},{"c":"dc-109","t":"D&C 109","v":[35],"l":"109:35"}]},{"m":"16b","refs":[{"c":"2kgs-2","t":"2 Kings 2","v":[1],"l":"2 Kgs. 2:1"}]}],"19":[{"m":"19a","refs":[{"c":"2kgs-2","t":"2 Kings 2","v":[8],"l":"2 Kgs. 2:8"}]}],"20":[{"m":"20a","refs":[{"c":"luke-9","t":"Luke 9","v":[61],"l":"Luke 9:61"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"1kgs-20","t":"1 Kings 20","v":[10],"l":"1 Kgs. 20:10"}],"w":"gods","o":61}],"8":[{"m":"8c","refs":[{"c":"ex-3","t":"Exodus 3","v":[1],"l":"Ex. 3:1"},{"c":"3ne-25","t":"3 Nephi 25","v":[4],"l":"3 Ne. 25:4"}],"w":"Horeb","o":104},{"m":"8d","refs":[{"c":"ex-4","t":"Exodus 4","v":[27],"l":"Ex. 4:27"}],"w":"mount of God","o":112}],"12":[{"m":"12a","refs":[{"c":"job-4","t":"Job 4","v":[12,13,14,15,16,17],"l":"Job 4:16 (12–21)"},{"c":"hel-5","t":"Helaman 5","v":[30],"l":"Hel. 5:30"},{"c":"3ne-11","t":"3 Nephi 11","v":[3],"l":"3 Ne. 11:3"},{"c":"dc-20","t":"D&C 20","v":[35],"l":"D&amp;C 20:35"},{"c":"dc-52","t":"D&C 52","v":[1,2],"l":"52:1 (1–2)"}],"w":"still","o":87}],"14":[{"m":"14b","refs":[{"c":"rom-11","t":"Romans 11","v":[3,4],"l":"Rom. 11:3 (3–4)"}],"w":"left","o":209}],"15":[{"m":"15a","refs":[{"c":"2kgs-8","t":"2 Kings 8","v":[13],"l":"2 Kgs. 8:13"}],"w":"king","o":122}],"16":[{"m":"16a","refs":[{"c":"dc-68","t":"D&C 68","v":[20],"l":"D&amp;C 68:20"},{"c":"dc-109","t":"D&C 109","v":[35],"l":"109:35"}],"w":"anoint","o":37},{"m":"16b","refs":[{"c":"2kgs-2","t":"2 Kings 2","v":[1],"l":"2 Kgs. 2:1"}],"w":"Elisha","o":70}],"19":[{"m":"19a","refs":[{"c":"2kgs-2","t":"2 Kings 2","v":[8],"l":"2 Kgs. 2:8"}],"w":"mantle","o":178}],"20":[{"m":"20a","refs":[{"c":"luke-9","t":"Luke 9","v":[61],"l":"Luke 9:61"}],"w":"follow","o":120}]}
 ```
 
 - **2** 2a [[1 Kings 20#^1kgs-20-10|1 Kgs. 20:10]]

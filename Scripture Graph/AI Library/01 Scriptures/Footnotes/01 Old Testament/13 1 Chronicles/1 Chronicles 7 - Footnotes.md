@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1chr-7
 verses: 5
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The sons and families are named for Issachar, Benjamin, Naphtali, Manasseh, Ephraim, and Asher.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"gen-46","t":"Genesis 46","v":[13],"l":"Gen. 46:13"},{"c":"num-1","t":"Numbers 1","v":[28,29],"l":"Num. 1:28 (28–29)"},{"c":"num-26","t":"Numbers 26","v":[23,24,25,26],"l":"26:23 (23–26)"}]}],"2":[{"m":"2a","refs":[{"c":"2sam-24","t":"2 Samuel 24","v":[1,2],"l":"2 Sam. 24:9 (1–2, 9)"}]}],"6":[{"m":"6a","refs":[{"c":"gen-46","t":"Genesis 46","v":[21],"l":"Gen. 46:21"},{"c":"num-26","t":"Numbers 26","v":[38],"l":"Num. 26:38"}]}],"14":[{"m":"14a","refs":[{"c":"num-26","t":"Numbers 26","v":[29,30,31,32,33],"l":"Num. 26:29 (29–33)"},{"c":"alma-10","t":"Alma 10","v":[3],"l":"Alma 10:3"}]}],"27":[{"m":"27a","refs":[{"c":"num-11","t":"Numbers 11","v":[28],"l":"Num. 11:28"},{"c":"num-13","t":"Numbers 13","v":[16],"l":"13:16"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"gen-46","t":"Genesis 46","v":[13],"l":"Gen. 46:13"},{"c":"num-1","t":"Numbers 1","v":[28,29],"l":"Num. 1:28 (28–29)"},{"c":"num-26","t":"Numbers 26","v":[23,24,25,26],"l":"26:23 (23–26)"}],"w":"Issachar","o":15}],"2":[{"m":"2a","refs":[{"c":"2sam-24","t":"2 Samuel 24","v":[1,2],"l":"2 Sam. 24:9 (1–2, 9)"}],"w":"number","o":197}],"6":[{"m":"6a","refs":[{"c":"gen-46","t":"Genesis 46","v":[21],"l":"Gen. 46:21"},{"c":"num-26","t":"Numbers 26","v":[38],"l":"Num. 26:38"}],"w":"Benjamin","o":13}],"14":[{"m":"14a","refs":[{"c":"num-26","t":"Numbers 26","v":[29,30,31,32,33],"l":"Num. 26:29 (29–33)"},{"c":"alma-10","t":"Alma 10","v":[3],"l":"Alma 10:3"}],"w":"Manasseh","o":13}],"27":[{"m":"27a","refs":[{"c":"num-11","t":"Numbers 11","v":[28],"l":"Num. 11:28"},{"c":"num-13","t":"Numbers 13","v":[16],"l":"13:16"}],"w":"Jehoshua","o":12}]}
 ```
 
 - **1** 1a [[Genesis 46#^gen-46-13|Gen. 46:13]] · [[Numbers 1#^num-1-28|Num. 1:28 (28–29)]] · [[Numbers 26#^num-26-23|26:23 (23–26)]]

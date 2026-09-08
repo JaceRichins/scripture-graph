@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: amos-6
 verses: 6
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Woe to them who are at ease in Zion—Israel will be plagued with desolation.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"ps-123","t":"Psalm 123","v":[4],"l":"Ps. 123:4"},{"c":"2ne-28","t":"2 Nephi 28","v":[21,22,23,24],"l":"2 Ne. 28:24 (21–24)"}]},{"m":"1b","refs":[{"c":"amos-4","t":"Amos 4","v":[1],"l":"Amos 4:1"}]}],"3":[{"m":"3a","refs":[{"c":"ezek-12","t":"Ezekiel 12","v":[27],"l":"Ezek. 12:27"}]}],"5":[{"m":"5a","refs":[{"c":"1chr-23","t":"1 Chronicles 23","v":[5],"l":"1 Chr. 23:5"},{"c":"2chr-29","t":"2 Chronicles 29","v":[25,26,27,28],"l":"2 Chr. 29:26 (25–28)"}]},{"m":"5b","refs":[{"c":"dc-136","t":"D&C 136","v":[28],"l":"D&amp;C 136:28"}]}],"8":[{"m":"8a","refs":[{"c":"jer-22","t":"Jeremiah 22","v":[5],"l":"Jer. 22:5"},{"c":"jer-51","t":"Jeremiah 51","v":[14],"l":"51:14"},{"c":"heb-6","t":"Hebrews 6","v":[13],"l":"Heb. 6:13"},{"c":"dc-97","t":"D&C 97","v":[20],"l":"D&amp;C 97:20"}]},{"m":"8b","refs":[{"c":"amos-8","t":"Amos 8","v":[7],"l":"Amos 8:7"}]}],"12":[{"m":"12a","refs":[{"c":"amos-5","t":"Amos 5","v":[24],"l":"Amos 5:24"}]}],"13":[{"m":"13a","refs":[{"c":"mosiah-11","t":"Mosiah 11","v":[19],"l":"Mosiah 11:19"},{"c":"dc-3","t":"D&C 3","v":[4],"l":"D&amp;C 3:4"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"ps-123","t":"Psalm 123","v":[4],"l":"Ps. 123:4"},{"c":"2ne-28","t":"2 Nephi 28","v":[21,22,23,24],"l":"2 Ne. 28:24 (21–24)"}],"w":"ease","o":23},{"m":"1b","refs":[{"c":"amos-4","t":"Amos 4","v":[1],"l":"Amos 4:1"}],"w":"Samaria","o":64}],"3":[{"m":"3a","refs":[{"c":"ezek-12","t":"Ezekiel 12","v":[27],"l":"Ezek. 12:27"}],"w":"far","o":11}],"5":[{"m":"5a","refs":[{"c":"1chr-23","t":"1 Chronicles 23","v":[5],"l":"1 Chr. 23:5"},{"c":"2chr-29","t":"2 Chronicles 29","v":[25,26,27,28],"l":"2 Chr. 29:26 (25–28)"}],"w":"instruments","o":61},{"m":"5b","refs":[{"c":"dc-136","t":"D&C 136","v":[28],"l":"D&amp;C 136:28"}],"w":"musick","o":74}],"8":[{"m":"8a","refs":[{"c":"jer-22","t":"Jeremiah 22","v":[5],"l":"Jer. 22:5"},{"c":"jer-51","t":"Jeremiah 51","v":[14],"l":"51:14"},{"c":"heb-6","t":"Hebrews 6","v":[13],"l":"Heb. 6:13"},{"c":"dc-97","t":"D&C 97","v":[20],"l":"D&amp;C 97:20"}],"w":"sworn","o":17},{"m":"8b","refs":[{"c":"amos-8","t":"Amos 8","v":[7],"l":"Amos 8:7"}],"w":"excellency","o":78}],"12":[{"m":"12a","refs":[{"c":"amos-5","t":"Amos 5","v":[24],"l":"Amos 5:24"}],"w":"judgment","o":83}],"13":[{"m":"13a","refs":[{"c":"mosiah-11","t":"Mosiah 11","v":[19],"l":"Mosiah 11:19"},{"c":"dc-3","t":"D&C 3","v":[4],"l":"D&amp;C 3:4"}],"w":"rejoice","o":8}]}
 ```
 
 - **1** 1a [[Psalm 123#^ps-123-4|Ps. 123:4]] · [[2 Nephi 28#^2ne-28-21|2 Ne. 28:24 (21–24)]]; 1b [[Amos 4#^amos-4-1|Amos 4:1]]

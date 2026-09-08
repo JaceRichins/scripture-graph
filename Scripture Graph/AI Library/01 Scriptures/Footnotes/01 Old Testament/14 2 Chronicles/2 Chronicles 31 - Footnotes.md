@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 2chr-31
 verses: 6
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The faithful Israelites overthrow false worship among them—The people pay tithes and offerings—The Levites administer in temporal matters—Hezekiah serves faithfully.
 
 ```json
-{"1":[{"m":"1c","refs":[{"c":"2chr-32","t":"2 Chronicles 32","v":[5,6,7,8,9,10],"l":"2 Chr. 32:12 (5–26)"}]}],"2":[{"m":"2a","refs":[{"c":"1chr-23","t":"1 Chronicles 23","v":[6],"l":"1 Chr. 23:6"}]}],"3":[{"m":"3a","refs":[{"c":"num-28","t":"Numbers 28","v":[3,4,5,6,7,8],"l":"Num. 28:3 (3–8)"}]},{"m":"3b","refs":[{"c":"num-28","t":"Numbers 28","v":[9,10],"l":"Num. 28:10 (9–10)"}]},{"m":"3c","refs":[{"c":"num-28","t":"Numbers 28","v":[11,12,13,14,15],"l":"Num. 28:11 (11–15)"}]},{"m":"3d","refs":[{"c":"num-28","t":"Numbers 28","v":[16,17,18,19,20,21],"l":"Num. 28:17 (16–31)"}]}],"15":[{"m":"15b","refs":[{"c":"josh-21","t":"Joshua 21","v":[9,10,11,12,13,14],"l":"Josh. 21:9 (9–19)"}]}],"16":[{"m":"16a","refs":[{"c":"1chr-23","t":"1 Chronicles 23","v":[3],"l":"1 Chr. 23:3"}]},{"m":"16b","refs":[{"c":"dan-1","t":"Daniel 1","v":[5],"l":"Dan. 1:5"}]}],"19":[{"m":"19a","refs":[{"c":"lev-25","t":"Leviticus 25","v":[32,33,34],"l":"Lev. 25:34 (32–34)"}]}]}
+{"1":[{"m":"1c","refs":[{"c":"2chr-32","t":"2 Chronicles 32","v":[5,6,7,8,9,10],"l":"2 Chr. 32:12 (5–26)"}],"w":"high places","o":166}],"2":[{"m":"2a","refs":[{"c":"1chr-23","t":"1 Chronicles 23","v":[6],"l":"1 Chr. 23:6"}],"w":"courses","o":28}],"3":[{"m":"3a","refs":[{"c":"num-28","t":"Numbers 28","v":[3,4,5,6,7,8],"l":"Num. 28:3 (3–8)"}],"w":"offerings","o":120},{"m":"3b","refs":[{"c":"num-28","t":"Numbers 28","v":[9,10],"l":"Num. 28:10 (9–10)"}],"w":"sabbaths","o":162},{"m":"3c","refs":[{"c":"num-28","t":"Numbers 28","v":[11,12,13,14,15],"l":"Num. 28:11 (11–15)"}],"w":"new","o":183},{"m":"3d","refs":[{"c":"num-28","t":"Numbers 28","v":[16,17,18,19,20,21],"l":"Num. 28:17 (16–31)"}],"w":"feasts","o":208}],"15":[{"m":"15b","refs":[{"c":"josh-21","t":"Joshua 21","v":[9,10,11,12,13,14],"l":"Josh. 21:9 (9–19)"}],"w":"cities","o":92}],"16":[{"m":"16a","refs":[{"c":"1chr-23","t":"1 Chronicles 23","v":[3],"l":"1 Chr. 23:3"}],"w":"three","o":37},{"m":"16b","refs":[{"c":"dan-1","t":"Daniel 1","v":[5],"l":"Dan. 1:5"}],"w":"portion","o":135}],"19":[{"m":"19a","refs":[{"c":"lev-25","t":"Leviticus 25","v":[32,33,34],"l":"Lev. 25:34 (32–34)"}],"w":"fields","o":56}]}
 ```
 
 - **1** 1c [[2 Chronicles 32#^2chr-32-5|2 Chr. 32:12 (5–26)]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: num-2
 verses: 6
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:58Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The order and leaders of the tribes and armies of Israel in their tents are given.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"num-24","t":"Numbers 24","v":[2],"l":"Num. 24:2"}]}],"9":[{"m":"9a","refs":[{"c":"num-10","t":"Numbers 10","v":[14],"l":"Num. 10:14"}]}],"14":[{"m":"14a","refs":[{"c":"num-1","t":"Numbers 1","v":[14],"l":"Num. 1:14"},{"c":"num-7","t":"Numbers 7","v":[42],"l":"7:42, 47"},{"c":"num-10","t":"Numbers 10","v":[20],"l":"10:20"}]}],"24":[{"m":"24a","refs":[{"c":"num-10","t":"Numbers 10","v":[22,23,24],"l":"Num. 10:22 (22–24)"}]}],"25":[{"m":"25a","refs":[{"c":"ezek-48","t":"Ezekiel 48","v":[1],"l":"Ezek. 48:1"}]}],"34":[{"m":"34a","refs":[{"c":"dc-61","t":"D&C 61","v":[24,25],"l":"D&amp;C 61:25 (24–25)"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"num-24","t":"Numbers 24","v":[2],"l":"Num. 24:2"}],"w":"father’s","o":93}],"9":[{"m":"9a","refs":[{"c":"num-10","t":"Numbers 10","v":[14],"l":"Num. 10:14"}],"w":"Judah","o":37}],"14":[{"m":"14a","refs":[{"c":"num-1","t":"Numbers 1","v":[14],"l":"Num. 1:14"},{"c":"num-7","t":"Numbers 7","v":[42],"l":"7:42, 47"},{"c":"num-10","t":"Numbers 10","v":[20],"l":"10:20"}],"w":"Reuel","o":86}],"24":[{"m":"24a","refs":[{"c":"num-10","t":"Numbers 10","v":[22,23,24],"l":"Num. 10:22 (22–24)"}],"w":"Ephraim","o":37}],"25":[{"m":"25a","refs":[{"c":"ezek-48","t":"Ezekiel 48","v":[1],"l":"Ezek. 48:1"}],"w":"Dan","o":29}],"34":[{"m":"34a","refs":[{"c":"dc-61","t":"D&C 61","v":[24,25],"l":"D&amp;C 61:25 (24–25)"}],"w":"pitched","o":86}]}
 ```
 
 - **2** 2a [[Numbers 24#^num-24-2|Num. 24:2]]

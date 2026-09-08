@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-127
 verses: 1
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Children are a heritage from the Lord.
 
 ```json
-{"1":[{"m":"1b","refs":[{"c":"ps-121","t":"Psalm 121","v":[3],"l":"Ps. 121:3"}]}]}
+{"1":[{"m":"1b","refs":[{"c":"ps-121","t":"Psalm 121","v":[3],"l":"Ps. 121:3"}],"w":"keep","o":81}]}
 ```
 
 - **1** 1b [[Psalm 121#^ps-121-3|Ps. 121:3]]

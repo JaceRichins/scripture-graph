@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: mark-1
 verses: 7
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jesus is baptized by John—He preaches the gospel, calls disciples, casts out devils, heals the sick, and cleanses a leper.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"mal-3","t":"Malachi 3","v":[1],"l":"Mal. 3:1"},{"c":"matt-11","t":"Matthew 11","v":[10],"l":"Matt. 11:10"}]}],"3":[{"m":"3a","refs":[{"c":"matt-3","t":"Matthew 3","v":[3],"l":"Matt. 3:3"},{"c":"luke-3","t":"Luke 3","v":[4],"l":"Luke 3:4"},{"c":"john-1","t":"John 1","v":[23],"l":"John 1:23"}]}],"6":[{"m":"6b","refs":[{"c":"2kgs-1","t":"2 Kings 1","v":[8],"l":"2 Kgs. 1:8"}]},{"m":"6c","refs":[{"c":"lev-11","t":"Leviticus 11","v":[22],"l":"Lev. 11:22"}]}],"15":[{"m":"15b","refs":[{"c":"dc-33","t":"D&C 33","v":[1,2,3,4,5,6],"l":"D&amp;C 33:10 (1–18)"}]}],"26":[{"m":"26a","refs":[{"c":"mark-9","t":"Mark 9","v":[14,15,16,17,18,19],"l":"Mark 9:20 (14–29)"}]}],"34":[{"m":"34b","refs":[{"c":"mosiah-3","t":"Mosiah 3","v":[5,6],"l":"Mosiah 3:6 (5–6)"}]}],"39":[{"m":"39a","refs":[{"c":"luke-4","t":"Luke 4","v":[31,32,33,34,35,36],"l":"Luke 4:36 (31–37)"},{"c":"dc-35","t":"D&C 35","v":[6,7,8,9,10,11],"l":"D&amp;C 35:9 (6–12)"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"mal-3","t":"Malachi 3","v":[1],"l":"Mal. 3:1"},{"c":"matt-11","t":"Matthew 11","v":[10],"l":"Matt. 11:10"}],"w":"messenger","o":51}],"3":[{"m":"3a","refs":[{"c":"matt-3","t":"Matthew 3","v":[3],"l":"Matt. 3:3"},{"c":"luke-3","t":"Luke 3","v":[4],"l":"Luke 3:4"},{"c":"john-1","t":"John 1","v":[23],"l":"John 1:23"}],"w":"voice","o":3}],"6":[{"m":"6b","refs":[{"c":"2kgs-1","t":"2 Kings 1","v":[8],"l":"2 Kgs. 1:8"}],"w":"camel’s","o":23},{"m":"6c","refs":[{"c":"lev-11","t":"Leviticus 11","v":[22],"l":"Lev. 11:22"}],"w":"locusts","o":95}],"15":[{"m":"15b","refs":[{"c":"dc-33","t":"D&C 33","v":[1,2,3,4,5,6],"l":"D&amp;C 33:10 (1–18)"}],"w":"kingdom","o":40}],"26":[{"m":"26a","refs":[{"c":"mark-9","t":"Mark 9","v":[14,15,16,17,18,19],"l":"Mark 9:20 (14–29)"}],"w":"torn","o":31}],"34":[{"m":"34b","refs":[{"c":"mosiah-3","t":"Mosiah 3","v":[5,6],"l":"Mosiah 3:6 (5–6)"}],"w":"devils","o":69}],"39":[{"m":"39a","refs":[{"c":"luke-4","t":"Luke 4","v":[31,32,33,34,35,36],"l":"Luke 4:36 (31–37)"},{"c":"dc-35","t":"D&C 35","v":[6,7,8,9,10,11],"l":"D&amp;C 35:9 (6–12)"}],"w":"devils","o":72}]}
 ```
 
 - **2** 2a [[Malachi 3#^mal-3-1|Mal. 3:1]] · [[Matthew 11#^matt-11-10|Matt. 11:10]]

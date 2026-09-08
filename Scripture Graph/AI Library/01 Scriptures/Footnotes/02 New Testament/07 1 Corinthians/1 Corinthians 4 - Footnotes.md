@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1cor-4
 verses: 9
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Christ’s ministers must be faithful—The Apostles suffer, minister, and keep the faith—The kingdom of God is not in word but in power.
 
 ```json
-{"5":[{"m":"5a","refs":[{"c":"dc-123","t":"D&C 123","v":[13],"l":"D&amp;C 123:13"}]},{"m":"5b","refs":[{"c":"rom-2","t":"Romans 2","v":[16],"l":"Rom. 2:16"}]}],"6":[{"m":"6a","refs":[{"c":"dc-38","t":"D&C 38","v":[24],"l":"D&amp;C 38:24"}]}],"7":[{"m":"7b","refs":[{"c":"mosiah-4","t":"Mosiah 4","v":[19],"l":"Mosiah 4:19"}]}],"9":[{"m":"9a","refs":[{"c":"rom-1","t":"Romans 1","v":[1],"l":"Rom. 1:1"},{"c":"1ne-11","t":"1 Nephi 11","v":[33,34],"l":"1 Ne. 11:34 (33–34)"}]},{"m":"9b","refs":[{"c":"dc-42","t":"D&C 42","v":[48],"l":"D&amp;C 42:48"}]}],"12":[{"m":"12c","refs":[{"c":"dc-38","t":"D&C 38","v":[40],"l":"D&amp;C 38:40"}]}],"14":[{"m":"14b","refs":[{"c":"1thes-2","t":"1 Thessalonians 2","v":[11],"l":"1 Thes. 2:11"}]}],"16":[{"m":"16a","refs":[{"c":"1cor-11","t":"1 Corinthians 11","v":[1],"l":"1 Cor. 11:1"}]}],"17":[{"m":"17a","refs":[{"c":"acts-16","t":"Acts 16","v":[1],"l":"Acts 16:1"},{"c":"1tim-1","t":"1 Timothy 1","v":[2],"l":"1 Tim. 1:2"}]}],"20":[{"m":"20a","refs":[{"c":"1cor-1","t":"1 Corinthians 1","v":[17,18],"l":"1 Cor. 1:18 (17–18)"},{"c":"dc-18","t":"D&C 18","v":[47],"l":"D&amp;C 18:47"},{"c":"dc-42","t":"D&C 42","v":[14],"l":"42:14"}]}]}
+{"5":[{"m":"5a","refs":[{"c":"dc-123","t":"D&C 123","v":[13],"l":"D&amp;C 123:13"}],"w":"hidden things","o":94},{"m":"5b","refs":[{"c":"rom-2","t":"Romans 2","v":[16],"l":"Rom. 2:16"}],"w":"manifest","o":133}],"6":[{"m":"6a","refs":[{"c":"dc-38","t":"D&C 38","v":[24],"l":"D&amp;C 38:24"}],"w":"puffed up for","o":196}],"7":[{"m":"7b","refs":[{"c":"mosiah-4","t":"Mosiah 4","v":[19],"l":"Mosiah 4:19"}],"w":"receive","o":80}],"9":[{"m":"9a","refs":[{"c":"rom-1","t":"Romans 1","v":[1],"l":"Rom. 1:1"},{"c":"1ne-11","t":"1 Nephi 11","v":[33,34],"l":"1 Ne. 11:34 (33–34)"}],"w":"apostles last","o":42},{"m":"9b","refs":[{"c":"dc-42","t":"D&C 42","v":[48],"l":"D&amp;C 42:48"}],"w":"appointed","o":67}],"12":[{"m":"12c","refs":[{"c":"dc-38","t":"D&C 38","v":[40],"l":"D&amp;C 38:40"}],"w":"hands","o":30}],"14":[{"m":"14b","refs":[{"c":"1thes-2","t":"1 Thessalonians 2","v":[11],"l":"1 Thes. 2:11"}],"w":"sons","o":54}],"16":[{"m":"16a","refs":[{"c":"1cor-11","t":"1 Corinthians 11","v":[1],"l":"1 Cor. 11:1"}],"w":"followers","o":30}],"17":[{"m":"17a","refs":[{"c":"acts-16","t":"Acts 16","v":[1],"l":"Acts 16:1"},{"c":"1tim-1","t":"1 Timothy 1","v":[2],"l":"1 Tim. 1:2"}],"w":"Timotheus","o":35}],"20":[{"m":"20a","refs":[{"c":"1cor-1","t":"1 Corinthians 1","v":[17,18],"l":"1 Cor. 1:18 (17–18)"},{"c":"dc-18","t":"D&C 18","v":[47],"l":"D&amp;C 18:47"},{"c":"dc-42","t":"D&C 42","v":[14],"l":"42:14"}],"w":"power","o":45}]}
 ```
 
 - **5** 5a [[D&C 123#^dc-123-13|D&amp;C 123:13]]; 5b [[Romans 2#^rom-2-16|Rom. 2:16]]

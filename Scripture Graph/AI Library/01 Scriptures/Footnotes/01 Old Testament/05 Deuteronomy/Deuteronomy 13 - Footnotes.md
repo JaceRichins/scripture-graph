@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: deut-13
 verses: 7
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Lord tests His people to see if they will worship false gods—Prophets, dreamers, relatives, or friends who advocate worship of false gods will be put to death—Idolatrous cities will be destroyed.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"ex-22","t":"Exodus 22","v":[20],"l":"Ex. 22:20"}]}],"6":[{"m":"6a","refs":[{"c":"ex-32","t":"Exodus 32","v":[29],"l":"Ex. 32:29"}]}],"8":[{"m":"8a","refs":[{"c":"matt-10","t":"Matthew 10","v":[28],"l":"Matt. 10:28"}]}],"9":[{"m":"9a","refs":[{"c":"deut-17","t":"Deuteronomy 17","v":[7],"l":"Deut. 17:7"}]}],"11":[{"m":"11a","refs":[{"c":"deut-17","t":"Deuteronomy 17","v":[13],"l":"Deut. 17:13"}]}],"13":[{"m":"13a","refs":[{"c":"judg-20","t":"Judges 20","v":[13],"l":"Judg. 20:13"},{"c":"1sam-1","t":"1 Samuel 1","v":[16],"l":"1 Sam. 1:16"},{"c":"1sam-2","t":"1 Samuel 2","v":[12],"l":"2:12"},{"c":"2sam-16","t":"2 Samuel 16","v":[7],"l":"2 Sam. 16:7"},{"c":"2sam-20","t":"2 Samuel 20","v":[1],"l":"20:1"},{"c":"jude-1","t":"Jude 1","v":[19],"l":"Jude 1:19"}]}],"17":[{"m":"17b","refs":[{"c":"num-25","t":"Numbers 25","v":[4],"l":"Num. 25:4"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"ex-22","t":"Exodus 22","v":[20],"l":"Ex. 22:20"}],"w":"gods","o":98}],"6":[{"m":"6a","refs":[{"c":"ex-32","t":"Exodus 32","v":[29],"l":"Ex. 32:29"}],"w":"son","o":47}],"8":[{"m":"8a","refs":[{"c":"matt-10","t":"Matthew 10","v":[28],"l":"Matt. 10:28"}],"w":"consent","o":14}],"9":[{"m":"9a","refs":[{"c":"deut-17","t":"Deuteronomy 17","v":[7],"l":"Deut. 17:7"}],"w":"first","o":51}],"11":[{"m":"11a","refs":[{"c":"deut-17","t":"Deuteronomy 17","v":[13],"l":"Deut. 17:13"}],"w":"fear","o":30}],"13":[{"m":"13a","refs":[{"c":"judg-20","t":"Judges 20","v":[13],"l":"Judg. 20:13"},{"c":"1sam-1","t":"1 Samuel 1","v":[16],"l":"1 Sam. 1:16"},{"c":"1sam-2","t":"1 Samuel 2","v":[12],"l":"2:12"},{"c":"2sam-16","t":"2 Samuel 16","v":[7],"l":"2 Sam. 16:7"},{"c":"2sam-20","t":"2 Samuel 20","v":[1],"l":"20:1"},{"c":"jude-1","t":"Jude 1","v":[19],"l":"Jude 1:19"}],"w":"Belial","o":28}],"17":[{"m":"17b","refs":[{"c":"num-25","t":"Numbers 25","v":[4],"l":"Num. 25:4"}],"w":"anger","o":112}]}
 ```
 
 - **2** 2a [[Exodus 22#^ex-22-20|Ex. 22:20]]

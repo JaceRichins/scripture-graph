@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: mark-3
 verses: 3
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jesus heals on the Sabbath day—He chooses and ordains the Twelve Apostles—He asks, Can Satan cast out Satan?—Jesus speaks of blasphemy against the Holy Ghost and identifies those who believe as being members of His family.
 
 ```json
-{"17":[{"m":"17a","refs":[{"c":"luke-9","t":"Luke 9","v":[54],"l":"Luke 9:54"}]}],"20":[{"m":"20a","refs":[{"c":"mark-6","t":"Mark 6","v":[30,31,32,33,34,35],"l":"Mark 6:31 (30–36)"}]}],"35":[{"m":"35a","refs":[{"c":"matt-12","t":"Matthew 12","v":[50],"l":"Matt. 12:50"}]}]}
+{"17":[{"m":"17a","refs":[{"c":"luke-9","t":"Luke 9","v":[54],"l":"Luke 9:54"}],"w":"thunder","o":114}],"20":[{"m":"20a","refs":[{"c":"mark-6","t":"Mark 6","v":[30,31,32,33,34,35],"l":"Mark 6:31 (30–36)"}],"w":"eat","o":74}],"35":[{"m":"35a","refs":[{"c":"matt-12","t":"Matthew 12","v":[50],"l":"Matt. 12:50"}],"w":"will","o":26}]}
 ```
 
 - **17** 17a [[Luke 9#^luke-9-54|Luke 9:54]]

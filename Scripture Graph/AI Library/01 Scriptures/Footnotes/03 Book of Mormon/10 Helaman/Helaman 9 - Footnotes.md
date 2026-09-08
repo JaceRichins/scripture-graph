@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: hel-9
 verses: 10
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Messengers find the chief judge dead at the judgment seat—They are imprisoned and later released—By inspiration Nephi identifies Seantum as the murderer—Nephi is accepted by some as a prophet. About 23–21 B.C.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"dan-2","t":"Daniel 2","v":[9],"l":"Dan. 2:9"}]}],"3":[{"m":"3a","refs":[{"c":"hel-8","t":"Helaman 8","v":[27],"l":"Hel. 8:27"}]}],"5":[{"m":"5a","refs":[{"c":"2kgs-22","t":"2 Kings 22","v":[8,9,10,11,12,13],"l":"2 Kgs. 22:13 (8–20)"}]}],"8":[{"m":"8a","refs":[{"c":"hel-7","t":"Helaman 7","v":[10,11],"l":"Hel. 7:10 (10–11, 14)"}]}],"14":[{"m":"14a","refs":[{"c":"gen-39","t":"Genesis 39","v":[20],"l":"Gen. 39:20"}]}],"15":[{"m":"15a","refs":[{"c":"hel-8","t":"Helaman 8","v":[27],"l":"Hel. 8:27"}]}],"20":[{"m":"20a","refs":[{"c":"1sam-8","t":"1 Samuel 8","v":[1,2,3,4],"l":"1 Sam. 8:3 (1–4)"},{"c":"ether-9","t":"Ether 9","v":[11],"l":"Ether 9:11"}]}],"21":[{"m":"21a","refs":[{"c":"ps-75","t":"Psalm 75","v":[4],"l":"Ps. 75:4"},{"c":"luke-24","t":"Luke 24","v":[25],"l":"Luke 24:25"},{"c":"acts-7","t":"Acts 7","v":[51],"l":"Acts 7:51"}]}],"22":[{"m":"22a","refs":[{"c":"ezek-24","t":"Ezekiel 24","v":[23],"l":"Ezek. 24:23"},{"c":"mosiah-7","t":"Mosiah 7","v":[24],"l":"Mosiah 7:24"}]}],"26":[{"m":"26a","refs":[{"c":"hel-8","t":"Helaman 8","v":[27],"l":"Hel. 8:27"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"dan-2","t":"Daniel 2","v":[9],"l":"Dan. 2:9"}],"w":"believe","o":154}],"3":[{"m":"3a","refs":[{"c":"hel-8","t":"Helaman 8","v":[27],"l":"Hel. 8:27"}],"w":"lie","o":146}],"5":[{"m":"5a","refs":[{"c":"2kgs-22","t":"2 Kings 22","v":[8,9,10,11,12,13],"l":"2 Kgs. 22:13 (8–20)"}],"w":"should","o":107}],"8":[{"m":"8a","refs":[{"c":"hel-7","t":"Helaman 7","v":[10,11],"l":"Hel. 7:10 (10–11, 14)"}],"w":"garden","o":97}],"14":[{"m":"14a","refs":[{"c":"gen-39","t":"Genesis 39","v":[20],"l":"Gen. 39:20"}],"w":"prison","o":236}],"15":[{"m":"15a","refs":[{"c":"hel-8","t":"Helaman 8","v":[27],"l":"Hel. 8:27"}],"w":"according","o":108}],"20":[{"m":"20a","refs":[{"c":"1sam-8","t":"1 Samuel 8","v":[1,2,3,4],"l":"1 Sam. 8:3 (1–4)"},{"c":"ether-9","t":"Ether 9","v":[11],"l":"Ether 9:11"}],"w":"money","o":145}],"21":[{"m":"21a","refs":[{"c":"ps-75","t":"Psalm 75","v":[4],"l":"Ps. 75:4"},{"c":"luke-24","t":"Luke 24","v":[25],"l":"Luke 24:25"},{"c":"acts-7","t":"Acts 7","v":[51],"l":"Acts 7:51"}],"w":"fools","o":30}],"22":[{"m":"22a","refs":[{"c":"ezek-24","t":"Ezekiel 24","v":[23],"l":"Ezek. 24:23"},{"c":"mosiah-7","t":"Mosiah 7","v":[24],"l":"Mosiah 7:24"}],"w":"mourn","o":31}],"26":[{"m":"26a","refs":[{"c":"hel-8","t":"Helaman 8","v":[27],"l":"Hel. 8:27"}],"w":"brother","o":61}]}
 ```
 
 - **2** 2a [[Daniel 2#^dan-2-9|Dan. 2:9]]

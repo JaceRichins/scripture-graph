@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: hosea-12
 verses: 10
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Lord uses prophets, visions, and similitudes to guide His people, but they become rich and will not wait on the Lord—Ephraim provokes Him most bitterly.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"isa-28","t":"Isaiah 28","v":[1,2,3,4,5,6],"l":"Isa. 28:1 (1–8)"}]},{"m":"1b","refs":[{"c":"hosea-5","t":"Hosea 5","v":[13],"l":"Hosea 5:13"}]}],"2":[{"m":"2a","refs":[{"c":"hosea-4","t":"Hosea 4","v":[1,2],"l":"Hosea 4:1 (1–2)"}]}],"3":[{"m":"3a","refs":[{"c":"gen-25","t":"Genesis 25","v":[26],"l":"Gen. 25:26"}]}],"4":[{"m":"4b","refs":[{"c":"gen-32","t":"Genesis 32","v":[24,25,26,27,28],"l":"Gen. 32:28 (24–28)"}]},{"m":"4c","refs":[{"c":"gen-28","t":"Genesis 28","v":[10,11,12,13,14,15],"l":"Gen. 28:13 (10–16)"}]}],"5":[{"m":"5a","refs":[{"c":"ex-3","t":"Exodus 3","v":[13,14,15],"l":"Ex. 3:15 (13–15)"}]}],"7":[{"m":"7a","refs":[{"c":"micah-6","t":"Micah 6","v":[11],"l":"Micah 6:11"}]}],"9":[{"m":"9a","refs":[{"c":"lev-23","t":"Leviticus 23","v":[34],"l":"Lev. 23:34"}]}],"11":[{"m":"11a","refs":[{"c":"hosea-9","t":"Hosea 9","v":[13,14,15],"l":"Hosea 9:15 (13–15)"}]}],"12":[{"m":"12a","refs":[{"c":"gen-28","t":"Genesis 28","v":[5],"l":"Gen. 28:5"},{"c":"deut-26","t":"Deuteronomy 26","v":[5],"l":"Deut. 26:5"}]},{"m":"12b","refs":[{"c":"gen-29","t":"Genesis 29","v":[15,16,17,18,19,20],"l":"Gen. 29:20 (15–28)"}]}],"13":[{"m":"13a","refs":[{"c":"1ne-17","t":"1 Nephi 17","v":[24,25,26],"l":"1 Ne. 17:24 (24–26)"}]},{"m":"13b","refs":[{"c":"ex-12","t":"Exodus 12","v":[50],"l":"Ex. 12:50"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"isa-28","t":"Isaiah 28","v":[1,2,3,4,5,6],"l":"Isa. 28:1 (1–8)"}],"w":"Ephraim","o":0},{"m":"1b","refs":[{"c":"hosea-5","t":"Hosea 5","v":[13],"l":"Hosea 5:13"}],"w":"covenant","o":118}],"2":[{"m":"2a","refs":[{"c":"hosea-4","t":"Hosea 4","v":[1,2],"l":"Hosea 4:1 (1–2)"}],"w":"controversy","o":20}],"3":[{"m":"3a","refs":[{"c":"gen-25","t":"Genesis 25","v":[26],"l":"Gen. 25:26"}],"w":"heel","o":28}],"4":[{"m":"4b","refs":[{"c":"gen-32","t":"Genesis 32","v":[24,25,26,27,28],"l":"Gen. 32:28 (24–28)"}],"w":"prevailed","o":36},{"m":"4c","refs":[{"c":"gen-28","t":"Genesis 28","v":[10,11,12,13,14,15],"l":"Gen. 28:13 (10–16)"}],"w":"Beth-el","o":103}],"5":[{"m":"5a","refs":[{"c":"ex-3","t":"Exodus 3","v":[13,14,15],"l":"Ex. 3:15 (13–15)"}],"w":"memorial","o":43}],"7":[{"m":"7a","refs":[{"c":"micah-6","t":"Micah 6","v":[11],"l":"Micah 6:11"}],"w":"balances","o":23}],"9":[{"m":"9a","refs":[{"c":"lev-23","t":"Leviticus 23","v":[34],"l":"Lev. 23:34"}],"w":"tabernacles","o":84}],"11":[{"m":"11a","refs":[{"c":"hosea-9","t":"Hosea 9","v":[13,14,15],"l":"Hosea 9:15 (13–15)"}],"w":"Gilgal","o":79}],"12":[{"m":"12a","refs":[{"c":"gen-28","t":"Genesis 28","v":[5],"l":"Gen. 28:5"},{"c":"deut-26","t":"Deuteronomy 26","v":[5],"l":"Deut. 26:5"}],"w":"Syria","o":34},{"m":"12b","refs":[{"c":"gen-29","t":"Genesis 29","v":[15,16,17,18,19,20],"l":"Gen. 29:20 (15–28)"}],"w":"wife","o":64}],"13":[{"m":"13a","refs":[{"c":"1ne-17","t":"1 Nephi 17","v":[24,25,26],"l":"1 Ne. 17:24 (24–26)"}],"w":"prophet","o":8},{"m":"13b","refs":[{"c":"ex-12","t":"Exodus 12","v":[50],"l":"Ex. 12:50"}],"w":"Lord","o":18}]}
 ```
 
 - **1** 1a [[Isaiah 28#^isa-28-1|Isa. 28:1 (1–8)]]; 1b [[Hosea 5#^hosea-5-13|Hosea 5:13]]

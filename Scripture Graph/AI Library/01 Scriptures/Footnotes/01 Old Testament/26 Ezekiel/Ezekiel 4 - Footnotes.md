@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ezek-4
 verses: 5
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Ezekiel symbolically illustrates the siege and famine that will befall Jerusalem.
 
 ```json
-{"2":[{"m":"2b","refs":[{"c":"2kgs-25","t":"2 Kings 25","v":[1],"l":"2 Kgs. 25:1"}]},{"m":"2d","refs":[{"c":"jer-6","t":"Jeremiah 6","v":[6],"l":"Jer. 6:6"}]},{"m":"2e","refs":[{"c":"ezek-21","t":"Ezekiel 21","v":[22],"l":"Ezek. 21:22"}]}],"3":[{"m":"3a","refs":[{"c":"2ne-25","t":"2 Nephi 25","v":[9],"l":"2 Ne. 25:9"}]}],"13":[{"m":"13a","refs":[{"c":"hosea-9","t":"Hosea 9","v":[1,2,3],"l":"Hosea 9:3 (1–3)"}]}],"14":[{"m":"14b","refs":[{"c":"lev-7","t":"Leviticus 7","v":[24],"l":"Lev. 7:24"}]},{"m":"14c","refs":[{"c":"ex-22","t":"Exodus 22","v":[31],"l":"Ex. 22:31"}]},{"m":"14d","refs":[{"c":"lev-7","t":"Leviticus 7","v":[18],"l":"Lev. 7:18"},{"c":"lev-19","t":"Leviticus 19","v":[7],"l":"19:7"}]}],"17":[{"m":"17b","refs":[{"c":"hel-12","t":"Helaman 12","v":[3],"l":"Hel. 12:3"}]}]}
+{"2":[{"m":"2b","refs":[{"c":"2kgs-25","t":"2 Kings 25","v":[1],"l":"2 Kgs. 25:1"}],"w":"build","o":28},{"m":"2d","refs":[{"c":"jer-6","t":"Jeremiah 6","v":[6],"l":"Jer. 6:6"}],"w":"mount","o":60},{"m":"2e","refs":[{"c":"ezek-21","t":"Ezekiel 21","v":[22],"l":"Ezek. 21:22"}],"w":"battering","o":114}],"3":[{"m":"3a","refs":[{"c":"2ne-25","t":"2 Nephi 25","v":[9],"l":"2 Ne. 25:9"}],"w":"sign","o":206}],"13":[{"m":"13a","refs":[{"c":"hosea-9","t":"Hosea 9","v":[1,2,3],"l":"Hosea 9:3 (1–3)"}],"w":"defiled","o":67}],"14":[{"m":"14b","refs":[{"c":"lev-7","t":"Leviticus 7","v":[24],"l":"Lev. 7:24"}],"w":"dieth","o":130},{"m":"14c","refs":[{"c":"ex-22","t":"Exodus 22","v":[31],"l":"Ex. 22:31"}],"w":"torn","o":151},{"m":"14d","refs":[{"c":"lev-7","t":"Leviticus 7","v":[18],"l":"Lev. 7:18"},{"c":"lev-19","t":"Leviticus 19","v":[7],"l":"19:7"}],"w":"abominable","o":184}],"17":[{"m":"17b","refs":[{"c":"hel-12","t":"Helaman 12","v":[3],"l":"Hel. 12:3"}],"w":"consume","o":71}]}
 ```
 
 - **2** 2b [[2 Kings 25#^2kgs-25-1|2 Kgs. 25:1]]; 2d [[Jeremiah 6#^jer-6-6|Jer. 6:6]]; 2e [[Ezekiel 21#^ezek-21-22|Ezek. 21:22]]

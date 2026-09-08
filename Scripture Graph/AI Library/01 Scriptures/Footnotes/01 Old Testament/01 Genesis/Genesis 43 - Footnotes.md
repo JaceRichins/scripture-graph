@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: gen-43
 verses: 12
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:58Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jacob is persuaded to send Benjamin to Egypt—Joseph’s brothers show respect to him—They all eat and drink together.
 
 ```json
-{"3":[{"m":"3a","refs":[{"c":"gen-44","t":"Genesis 44","v":[25,26],"l":"Gen. 44:26 (25–26)"}]}],"5":[{"m":"5a","refs":[{"c":"gen-44","t":"Genesis 44","v":[21,22,23],"l":"Gen. 44:23 (21–23)"}]}],"9":[{"m":"9a","refs":[{"c":"gen-44","t":"Genesis 44","v":[32],"l":"Gen. 44:32"}]}],"12":[{"m":"12a","refs":[{"c":"gen-42","t":"Genesis 42","v":[25],"l":"Gen. 42:25 (25, 27, 35)"}]}],"20":[{"m":"20a","refs":[{"c":"gen-44","t":"Genesis 44","v":[18],"l":"Gen. 44:18"}]},{"m":"20b","refs":[{"c":"gen-42","t":"Genesis 42","v":[3],"l":"Gen. 42:3"}]}],"21":[{"m":"21a","refs":[{"c":"gen-42","t":"Genesis 42","v":[27],"l":"Gen. 42:27"}]}],"26":[{"m":"26a","refs":[{"c":"gen-37","t":"Genesis 37","v":[7],"l":"Gen. 37:7 (7, 9–10)"},{"c":"gen-42","t":"Genesis 42","v":[6],"l":"42:6"},{"c":"gen-44","t":"Genesis 44","v":[14],"l":"44:14"}]}],"27":[{"m":"27a","refs":[{"c":"gen-42","t":"Genesis 42","v":[11,12,13],"l":"Gen. 42:11 (11–13)"}]}],"29":[{"m":"29a","refs":[{"c":"gen-35","t":"Genesis 35","v":[18],"l":"Gen. 35:18"}]}],"30":[{"m":"30a","refs":[{"c":"gen-42","t":"Genesis 42","v":[24],"l":"Gen. 42:24"},{"c":"gen-45","t":"Genesis 45","v":[1,2],"l":"45:1 (1–2)"}]}],"32":[{"m":"32a","refs":[{"c":"gen-46","t":"Genesis 46","v":[34],"l":"Gen. 46:34"}]}],"34":[{"m":"34a","refs":[{"c":"2sam-11","t":"2 Samuel 11","v":[8],"l":"2 Sam. 11:8"}]},{"m":"34b","refs":[{"c":"gen-45","t":"Genesis 45","v":[22],"l":"Gen. 45:22"}]}]}
+{"3":[{"m":"3a","refs":[{"c":"gen-44","t":"Genesis 44","v":[25,26],"l":"Gen. 44:26 (25–26)"}],"w":"brother","o":117}],"5":[{"m":"5a","refs":[{"c":"gen-44","t":"Genesis 44","v":[21,22,23],"l":"Gen. 44:23 (21–23)"}],"w":"brother","o":115}],"9":[{"m":"9a","refs":[{"c":"gen-44","t":"Genesis 44","v":[32],"l":"Gen. 44:32"}],"w":"blame","o":136}],"12":[{"m":"12a","refs":[{"c":"gen-42","t":"Genesis 42","v":[25],"l":"Gen. 42:25 (25, 27, 35)"}],"w":"money","o":43}],"20":[{"m":"20a","refs":[{"c":"gen-44","t":"Genesis 44","v":[18],"l":"Gen. 44:18"}],"w":"sir","o":11},{"m":"20b","refs":[{"c":"gen-42","t":"Genesis 42","v":[3],"l":"Gen. 42:3"}],"w":"food","o":60}],"21":[{"m":"21a","refs":[{"c":"gen-42","t":"Genesis 42","v":[27],"l":"Gen. 42:27"}],"w":"money","o":96}],"26":[{"m":"26a","refs":[{"c":"gen-37","t":"Genesis 37","v":[7],"l":"Gen. 37:7 (7, 9–10)"},{"c":"gen-42","t":"Genesis 42","v":[6],"l":"42:6"},{"c":"gen-44","t":"Genesis 44","v":[14],"l":"44:14"}],"w":"bowed","o":101}],"27":[{"m":"27a","refs":[{"c":"gen-42","t":"Genesis 42","v":[11,12,13],"l":"Gen. 42:11 (11–13)"}],"w":"man","o":74}],"29":[{"m":"29a","refs":[{"c":"gen-35","t":"Genesis 35","v":[18],"l":"Gen. 35:18"}],"w":"Benjamin","o":46}],"30":[{"m":"30a","refs":[{"c":"gen-42","t":"Genesis 42","v":[24],"l":"Gen. 42:24"},{"c":"gen-45","t":"Genesis 45","v":[1,2],"l":"45:1 (1–2)"}],"w":"wept","o":131}],"32":[{"m":"32a","refs":[{"c":"gen-46","t":"Genesis 46","v":[34],"l":"Gen. 46:34"}],"w":"abomination","o":200}],"34":[{"m":"34a","refs":[{"c":"2sam-11","t":"2 Samuel 11","v":[8],"l":"2 Sam. 11:8"}],"w":"messes","o":20},{"m":"34b","refs":[{"c":"gen-45","t":"Genesis 45","v":[22],"l":"Gen. 45:22"}],"w":"Benjamin’s","o":56}]}
 ```
 
 - **3** 3a [[Genesis 44#^gen-44-25|Gen. 44:26 (25–26)]]

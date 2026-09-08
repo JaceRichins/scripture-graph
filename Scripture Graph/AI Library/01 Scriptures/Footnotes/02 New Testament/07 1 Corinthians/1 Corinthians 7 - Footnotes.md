@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1cor-7
 verses: 7
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Paul answers special questions about marriage among those called on missions—Paul praises self-discipline.
 
 ```json
-{"10":[{"m":"10a","refs":[{"c":"matt-5","t":"Matthew 5","v":[32],"l":"Matt. 5:32"}]}],"14":[{"m":"14a","refs":[{"c":"dc-74","t":"D&C 74","v":[],"l":"D&amp;C 74"}]}],"17":[{"m":"17a","refs":[{"c":"rom-12","t":"Romans 12","v":[3],"l":"Rom. 12:3"}]}],"22":[{"m":"22a","refs":[{"c":"mosiah-5","t":"Mosiah 5","v":[8],"l":"Mosiah 5:8"},{"c":"dc-88","t":"D&C 88","v":[86],"l":"D&amp;C 88:86"}]},{"m":"22b","refs":[{"c":"eph-6","t":"Ephesians 6","v":[6],"l":"Eph. 6:6"},{"c":"col-3","t":"Colossians 3","v":[24],"l":"Col. 3:24"}]}],"23":[{"m":"23a","refs":[{"c":"1cor-6","t":"1 Corinthians 6","v":[19,20],"l":"1 Cor. 6:19 (19–20)"}]}],"25":[{"m":"25a","refs":[{"c":"1tim-1","t":"1 Timothy 1","v":[13],"l":"1 Tim. 1:13"}]}],"31":[{"m":"31a","refs":[{"c":"james-4","t":"James 4","v":[14],"l":"James 4:14"},{"c":"1jn-2","t":"1 John 2","v":[17],"l":"1 Jn. 2:17"}]}]}
+{"10":[{"m":"10a","refs":[{"c":"matt-5","t":"Matthew 5","v":[32],"l":"Matt. 5:32"}],"w":"wife","o":68}],"14":[{"m":"14a","refs":[{"c":"dc-74","t":"D&C 74","v":[],"l":"D&amp;C 74"}],"w":"For","o":0}],"17":[{"m":"17a","refs":[{"c":"rom-12","t":"Romans 12","v":[3],"l":"Rom. 12:3"}],"w":"God","o":6}],"22":[{"m":"22a","refs":[{"c":"mosiah-5","t":"Mosiah 5","v":[8],"l":"Mosiah 5:8"},{"c":"dc-88","t":"D&C 88","v":[86],"l":"D&amp;C 88:86"}],"w":"freeman","o":65},{"m":"22b","refs":[{"c":"eph-6","t":"Ephesians 6","v":[6],"l":"Eph. 6:6"},{"c":"col-3","t":"Colossians 3","v":[24],"l":"Col. 3:24"}],"w":"servant","o":130}],"23":[{"m":"23a","refs":[{"c":"1cor-6","t":"1 Corinthians 6","v":[19,20],"l":"1 Cor. 6:19 (19–20)"}],"w":"bought","o":6}],"25":[{"m":"25a","refs":[{"c":"1tim-1","t":"1 Timothy 1","v":[13],"l":"1 Tim. 1:13"}],"w":"mercy","o":107}],"31":[{"m":"31a","refs":[{"c":"james-4","t":"James 4","v":[14],"l":"James 4:14"},{"c":"1jn-2","t":"1 John 2","v":[17],"l":"1 Jn. 2:17"}],"w":"fashion","o":56}]}
 ```
 
 - **10** 10a [[Matthew 5#^matt-5-32|Matt. 5:32]]

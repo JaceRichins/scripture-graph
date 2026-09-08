@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: dc-22
 verses: 3
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > 1, Baptism is a new and everlasting covenant; 2–4, Authoritative baptism is required.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"heb-8","t":"Hebrews 8","v":[13],"l":"Heb. 8:13"},{"c":"3ne-9","t":"3 Nephi 9","v":[17],"l":"3 Ne. 9:17"},{"c":"3ne-12","t":"3 Nephi 12","v":[46,47],"l":"12:47 (46–47)"}]},{"m":"1b","refs":[{"c":"dc-66","t":"D&C 66","v":[2],"l":"D&amp;C 66:2"}]}],"2":[{"m":"2a","refs":[{"c":"gal-2","t":"Galatians 2","v":[16],"l":"Gal. 2:16"}]},{"m":"2b","refs":[{"c":"moro-8","t":"Moroni 8","v":[23,24,25,26],"l":"Moro. 8:23 (23–26)"}]}],"4":[{"m":"4a","refs":[{"c":"matt-7","t":"Matthew 7","v":[13,14],"l":"Matt. 7:13 (13–14)"},{"c":"luke-13","t":"Luke 13","v":[24],"l":"Luke 13:24"},{"c":"2ne-9","t":"2 Nephi 9","v":[41],"l":"2 Ne. 9:41"},{"c":"2ne-31","t":"2 Nephi 31","v":[9],"l":"31:9 (9, 17–18)"},{"c":"3ne-14","t":"3 Nephi 14","v":[13,14],"l":"3 Ne. 14:14 (13–14)"},{"c":"3ne-27","t":"3 Nephi 27","v":[33],"l":"27:33"},{"c":"dc-43","t":"D&C 43","v":[7],"l":"D&amp;C 43:7"}]},{"m":"4b","refs":[{"c":"rom-11","t":"Romans 11","v":[34],"l":"Rom. 11:34"},{"c":"1cor-2","t":"1 Corinthians 2","v":[16],"l":"1 Cor. 2:16"},{"c":"jacob-4","t":"Jacob 4","v":[10],"l":"Jacob 4:10"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"heb-8","t":"Hebrews 8","v":[13],"l":"Heb. 8:13"},{"c":"3ne-9","t":"3 Nephi 9","v":[17],"l":"3 Ne. 9:17"},{"c":"3ne-12","t":"3 Nephi 12","v":[46,47],"l":"12:47 (46–47)"}],"w":"old","o":31},{"m":"1b","refs":[{"c":"dc-66","t":"D&C 66","v":[2],"l":"D&amp;C 66:2"}],"w":"new","o":102}],"2":[{"m":"2a","refs":[{"c":"gal-2","t":"Galatians 2","v":[16],"l":"Gal. 2:16"}],"w":"law","o":136},{"m":"2b","refs":[{"c":"moro-8","t":"Moroni 8","v":[23,24,25,26],"l":"Moro. 8:23 (23–26)"}],"w":"dead works","o":164}],"4":[{"m":"4a","refs":[{"c":"matt-7","t":"Matthew 7","v":[13,14],"l":"Matt. 7:13 (13–14)"},{"c":"luke-13","t":"Luke 13","v":[24],"l":"Luke 13:24"},{"c":"2ne-9","t":"2 Nephi 9","v":[41],"l":"2 Ne. 9:41"},{"c":"2ne-31","t":"2 Nephi 31","v":[9],"l":"31:9 (9, 17–18)"},{"c":"3ne-14","t":"3 Nephi 14","v":[13,14],"l":"3 Ne. 14:14 (13–14)"},{"c":"3ne-27","t":"3 Nephi 27","v":[33],"l":"27:33"},{"c":"dc-43","t":"D&C 43","v":[7],"l":"D&amp;C 43:7"}],"w":"gate","o":29},{"m":"4b","refs":[{"c":"rom-11","t":"Romans 11","v":[34],"l":"Rom. 11:34"},{"c":"1cor-2","t":"1 Corinthians 2","v":[16],"l":"1 Cor. 2:16"},{"c":"jacob-4","t":"Jacob 4","v":[10],"l":"Jacob 4:10"}],"w":"seek","o":59}]}
 ```
 
 - **1** 1a [[Hebrews 8#^heb-8-13|Heb. 8:13]] · [[3 Nephi 9#^3ne-9-17|3 Ne. 9:17]] · [[3 Nephi 12#^3ne-12-46|12:47 (46–47)]]; 1b [[D&C 66#^dc-66-2|D&amp;C 66:2]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: eccl-11
 verses: 4
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Do good and give to them who need—God will bring all men to judgment.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"dc-39","t":"D&C 39","v":[21],"l":"D&amp;C 39:21"}]}],"5":[{"m":"5a","refs":[{"c":"john-3","t":"John 3","v":[5,6,7,8],"l":"John 3:8 (5–8)"}]}],"8":[{"m":"8a","refs":[{"c":"eccl-12","t":"Ecclesiastes 12","v":[1],"l":"Eccl. 12:1"}]}],"9":[{"m":"9b","refs":[{"c":"job-31","t":"Job 31","v":[7],"l":"Job 31:7"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"dc-39","t":"D&C 39","v":[21],"l":"D&amp;C 39:21"}],"w":"knowest","o":52}],"5":[{"m":"5a","refs":[{"c":"john-3","t":"John 3","v":[5,6,7,8],"l":"John 3:8 (5–8)"}],"w":"spirit","o":42}],"8":[{"m":"8a","refs":[{"c":"eccl-12","t":"Ecclesiastes 12","v":[1],"l":"Eccl. 12:1"}],"w":"darkness","o":87}],"9":[{"m":"9b","refs":[{"c":"job-31","t":"Job 31","v":[7],"l":"Job 31:7"}],"w":"walk","o":94}]}
 ```
 
 - **2** 2a [[D&C 39#^dc-39-21|D&amp;C 39:21]]

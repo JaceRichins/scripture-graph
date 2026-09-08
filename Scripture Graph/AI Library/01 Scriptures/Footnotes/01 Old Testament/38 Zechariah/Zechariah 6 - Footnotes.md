@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: zech-6
 verses: 2
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Zechariah crowns Joshua, the high priest, in similitude of Christ, the Branch, who will come—Christ will be a priest upon His throne forever.
 
 ```json
-{"5":[{"m":"5a","refs":[{"c":"heb-1","t":"Hebrews 1","v":[7],"l":"Heb. 1:14 (7, 14)"}]}],"15":[{"m":"15a","refs":[{"c":"isa-60","t":"Isaiah 60","v":[10],"l":"Isa. 60:10"}]}]}
+{"5":[{"m":"5a","refs":[{"c":"heb-1","t":"Hebrews 1","v":[7],"l":"Heb. 1:14 (7, 14)"}],"w":"spirits","o":59}],"15":[{"m":"15a","refs":[{"c":"isa-60","t":"Isaiah 60","v":[10],"l":"Isa. 60:10"}],"w":"build","o":40}]}
 ```
 
 - **5** 5a [[Hebrews 1#^heb-1-7|Heb. 1:14 (7, 14)]]

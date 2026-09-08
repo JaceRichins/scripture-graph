@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: num-27
 verses: 6
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The law of inheritances to sons, daughters, and kinsmen is explained—Moses will see but not enter the promised land—Joshua is called and set apart to lead Israel.
 
 ```json
-{"7":[{"m":"7a","refs":[{"c":"num-36","t":"Numbers 36","v":[1,2,3,4,5,6],"l":"Num. 36:2 (1–13)"},{"c":"josh-17","t":"Joshua 17","v":[4],"l":"Josh. 17:4"}]}],"12":[{"m":"12a","refs":[{"c":"deut-32","t":"Deuteronomy 32","v":[48,49,50,51,52],"l":"Deut. 32:49 (48–52)"}]}],"14":[{"m":"14c","refs":[{"c":"num-20","t":"Numbers 20","v":[1,2,3,4,5,6],"l":"Num. 20:1 (1–29)"},{"c":"deut-32","t":"Deuteronomy 32","v":[48,49,50,51,52],"l":"Deut. 32:51 (48–52)"}]}],"16":[{"m":"16c","refs":[{"c":"aoff-1","t":"Articles of Faith 1","v":[5],"l":"A of F 1:5"}]}],"18":[{"m":"18a","refs":[{"c":"deut-3","t":"Deuteronomy 3","v":[21],"l":"Deut. 3:21"}]},{"m":"18b","refs":[{"c":"num-11","t":"Numbers 11","v":[28],"l":"Num. 11:28"},{"c":"josh-14","t":"Joshua 14","v":[1],"l":"Josh. 14:1"}]}],"21":[{"m":"21a","refs":[{"c":"lev-16","t":"Leviticus 16","v":[1,2,3,4,5,6],"l":"Lev. 16:32 (1–34)"}]},{"m":"21b","refs":[{"c":"josh-9","t":"Joshua 9","v":[14],"l":"Josh. 9:14"}]}]}
+{"7":[{"m":"7a","refs":[{"c":"num-36","t":"Numbers 36","v":[1,2,3,4,5,6],"l":"Num. 36:2 (1–13)"},{"c":"josh-17","t":"Joshua 17","v":[4],"l":"Josh. 17:4"}],"w":"inheritance","o":87}],"12":[{"m":"12a","refs":[{"c":"deut-32","t":"Deuteronomy 32","v":[48,49,50,51,52],"l":"Deut. 32:49 (48–52)"}],"w":"Abarim","o":59}],"14":[{"m":"14c","refs":[{"c":"num-20","t":"Numbers 20","v":[1,2,3,4,5,6],"l":"Num. 20:1 (1–29)"},{"c":"deut-32","t":"Deuteronomy 32","v":[48,49,50,51,52],"l":"Deut. 32:51 (48–52)"}],"w":"Kadesh","o":170}],"16":[{"m":"16c","refs":[{"c":"aoff-1","t":"Articles of Faith 1","v":[5],"l":"A of F 1:5"}],"w":"set","o":46}],"18":[{"m":"18a","refs":[{"c":"deut-3","t":"Deuteronomy 3","v":[21],"l":"Deut. 3:21"}],"w":"Joshua","o":41},{"m":"18b","refs":[{"c":"num-11","t":"Numbers 11","v":[28],"l":"Num. 11:28"},{"c":"josh-14","t":"Joshua 14","v":[1],"l":"Josh. 14:1"}],"w":"Nun","o":57}],"21":[{"m":"21a","refs":[{"c":"lev-16","t":"Leviticus 16","v":[1,2,3,4,5,6],"l":"Lev. 16:32 (1–34)"}],"w":"priest","o":37},{"m":"21b","refs":[{"c":"josh-9","t":"Joshua 9","v":[14],"l":"Josh. 9:14"}],"w":"counsel","o":58}]}
 ```
 
 - **7** 7a [[Numbers 36#^num-36-1|Num. 36:2 (1–13)]] · [[Joshua 17#^josh-17-4|Josh. 17:4]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 2cor-12
 verses: 10
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Paul is caught up to the third heaven—The Lord gives men weaknesses that they may triumph over them—Paul manifests the signs of an Apostle.
 
 ```json
-{"1":[{"m":"1b","refs":[{"c":"1cor-9","t":"1 Corinthians 9","v":[1],"l":"1 Cor. 9:1"}]}],"2":[{"m":"2b","refs":[{"c":"dc-137","t":"D&C 137","v":[1],"l":"D&amp;C 137:1"}]}],"4":[{"m":"4c","refs":[{"c":"3ne-17","t":"3 Nephi 17","v":[17],"l":"3 Ne. 17:17"},{"c":"3ne-19","t":"3 Nephi 19","v":[32,33,34],"l":"19:34 (32–34)"}]}],"7":[{"m":"7a","refs":[{"c":"dc-3","t":"D&C 3","v":[4],"l":"D&amp;C 3:4"}]}],"9":[{"m":"9c","refs":[{"c":"2cor-13","t":"2 Corinthians 13","v":[9],"l":"2 Cor. 13:9"},{"c":"ether-12","t":"Ether 12","v":[26,27,28],"l":"Ether 12:27 (26–28)"}]},{"m":"9d","refs":[{"c":"dc-39","t":"D&C 39","v":[12],"l":"D&amp;C 39:12"}]}],"10":[{"m":"10d","refs":[{"c":"joel-3","t":"Joel 3","v":[10],"l":"Joel 3:10"},{"c":"dc-50","t":"D&C 50","v":[16],"l":"D&amp;C 50:16"}]}],"11":[{"m":"11a","refs":[{"c":"1cor-9","t":"1 Corinthians 9","v":[1],"l":"1 Cor. 9:1"}]}],"13":[{"m":"13a","refs":[{"c":"2cor-11","t":"2 Corinthians 11","v":[8,9],"l":"2 Cor. 11:9 (8–9)"}]}],"14":[{"m":"14a","refs":[{"c":"1cor-10","t":"1 Corinthians 10","v":[33],"l":"1 Cor. 10:33"}]}],"19":[{"m":"19a","refs":[{"c":"1cor-14","t":"1 Corinthians 14","v":[26],"l":"1 Cor. 14:26"}]}]}
+{"1":[{"m":"1b","refs":[{"c":"1cor-9","t":"1 Corinthians 9","v":[1],"l":"1 Cor. 9:1"}],"w":"visions","o":60}],"2":[{"m":"2b","refs":[{"c":"dc-137","t":"D&C 137","v":[1],"l":"D&amp;C 137:1"}],"w":"body","o":63}],"4":[{"m":"4c","refs":[{"c":"3ne-17","t":"3 Nephi 17","v":[17],"l":"3 Ne. 17:17"},{"c":"3ne-19","t":"3 Nephi 19","v":[32,33,34],"l":"19:34 (32–34)"}],"w":"not","o":78}],"7":[{"m":"7a","refs":[{"c":"dc-3","t":"D&C 3","v":[4],"l":"D&amp;C 3:4"}],"w":"exalted","o":20}],"9":[{"m":"9c","refs":[{"c":"2cor-13","t":"2 Corinthians 13","v":[9],"l":"2 Cor. 13:9"},{"c":"ether-12","t":"Ether 12","v":[26,27,28],"l":"Ether 12:27 (26–28)"}],"w":"weakness","o":84},{"m":"9d","refs":[{"c":"dc-39","t":"D&C 39","v":[12],"l":"D&amp;C 39:12"}],"w":"rest","o":183}],"10":[{"m":"10d","refs":[{"c":"joel-3","t":"Joel 3","v":[10],"l":"Joel 3:10"},{"c":"dc-50","t":"D&C 50","v":[16],"l":"D&amp;C 50:16"}],"w":"strong","o":149}],"11":[{"m":"11a","refs":[{"c":"1cor-9","t":"1 Corinthians 9","v":[1],"l":"1 Cor. 9:1"}],"w":"chiefest","o":132}],"13":[{"m":"13a","refs":[{"c":"2cor-11","t":"2 Corinthians 11","v":[8,9],"l":"2 Cor. 11:9 (8–9)"}],"w":"burdensome","o":93}],"14":[{"m":"14a","refs":[{"c":"1cor-10","t":"1 Corinthians 10","v":[33],"l":"1 Cor. 10:33"}],"w":"seek","o":92}],"19":[{"m":"19a","refs":[{"c":"1cor-14","t":"1 Corinthians 14","v":[26],"l":"1 Cor. 14:26"}],"w":"edifying","o":128}]}
 ```
 
 - **1** 1b [[1 Corinthians 9#^1cor-9-1|1 Cor. 9:1]]

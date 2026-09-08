@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: num-8
 verses: 5
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:58Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Levites are washed, consecrated, and set apart by the laying on of hands—They are the Lord’s in place of the firstborn of every family—They are a gift to Aaron and his sons to do the service of the tabernacle.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"ex-25","t":"Exodus 25","v":[31,32,33,34,35,36],"l":"Ex. 25:37 (31–40)"}]}],"4":[{"m":"4a","refs":[{"c":"ex-27","t":"Exodus 27","v":[8],"l":"Ex. 27:8"},{"c":"1chr-28","t":"1 Chronicles 28","v":[11],"l":"1 Chr. 28:19 (11, 19)"},{"c":"dc-52","t":"D&C 52","v":[14],"l":"D&amp;C 52:14"},{"c":"dc-94","t":"D&C 94","v":[2],"l":"94:2"},{"c":"dc-97","t":"D&C 97","v":[10],"l":"97:10"},{"c":"dc-115","t":"D&C 115","v":[14,15,16],"l":"115:14 (14–16)"}]}],"7":[{"m":"7a","refs":[{"c":"neh-12","t":"Nehemiah 12","v":[30],"l":"Neh. 12:30"}]}],"10":[{"m":"10a","refs":[{"c":"jsh-1","t":"Joseph Smith—History 1","v":[68],"l":"JS—H 1:68"},{"c":"aoff-1","t":"Articles of Faith 1","v":[5],"l":"A of F 1:5"}]}],"17":[{"m":"17a","refs":[{"c":"ex-12","t":"Exodus 12","v":[29],"l":"Ex. 12:29"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"ex-25","t":"Exodus 25","v":[31,32,33,34,35,36],"l":"Ex. 25:37 (31–40)"}],"w":"lamps","o":58}],"4":[{"m":"4a","refs":[{"c":"ex-27","t":"Exodus 27","v":[8],"l":"Ex. 27:8"},{"c":"1chr-28","t":"1 Chronicles 28","v":[11],"l":"1 Chr. 28:19 (11, 19)"},{"c":"dc-52","t":"D&C 52","v":[14],"l":"D&amp;C 52:14"},{"c":"dc-94","t":"D&C 94","v":[2],"l":"94:2"},{"c":"dc-97","t":"D&C 97","v":[10],"l":"97:10"},{"c":"dc-115","t":"D&C 115","v":[14,15,16],"l":"115:14 (14–16)"}],"w":"pattern","o":138}],"7":[{"m":"7a","refs":[{"c":"neh-12","t":"Nehemiah 12","v":[30],"l":"Neh. 12:30"}],"w":"cleanse","o":36}],"10":[{"m":"10a","refs":[{"c":"jsh-1","t":"Joseph Smith—History 1","v":[68],"l":"JS—H 1:68"},{"c":"aoff-1","t":"Articles of Faith 1","v":[5],"l":"A of F 1:5"}],"w":"hands","o":92}],"17":[{"m":"17a","refs":[{"c":"ex-12","t":"Exodus 12","v":[29],"l":"Ex. 12:29"}],"w":"firstborn","o":11}]}
 ```
 
 - **2** 2a [[Exodus 25#^ex-25-31|Ex. 25:37 (31–40)]]

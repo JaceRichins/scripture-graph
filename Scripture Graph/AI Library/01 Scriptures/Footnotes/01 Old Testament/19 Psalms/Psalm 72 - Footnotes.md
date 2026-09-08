@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-72
 verses: 10
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > David speaks of Solomon, who is made a type of the Messiah—He will have dominion—His name will endure forever—All nations will call him blessed—The whole earth will be filled with the glory of the Lord.
 
 ```json
-{"4":[{"m":"4a","refs":[{"c":"dc-101","t":"D&C 101","v":[23,24],"l":"D&amp;C 101:24 (23–24)"}]}],"5":[{"m":"5a","refs":[{"c":"ps-89","t":"Psalm 89","v":[36,37],"l":"Ps. 89:36 (36–37)"}]}],"7":[{"m":"7b","refs":[{"c":"dc-45","t":"D&C 45","v":[66],"l":"D&amp;C 45:66"},{"c":"dc-54","t":"D&C 54","v":[10],"l":"54:10"}]}],"8":[{"m":"8a","refs":[{"c":"zech-9","t":"Zechariah 9","v":[10],"l":"Zech. 9:10"}]}],"9":[{"m":"9a","refs":[{"c":"dc-88","t":"D&C 88","v":[104,105,106],"l":"D&amp;C 88:104 (104–6)"}]}],"10":[{"m":"10b","refs":[{"c":"isa-43","t":"Isaiah 43","v":[3],"l":"Isa. 43:3"}]}],"16":[{"m":"16a","refs":[{"c":"job-5","t":"Job 5","v":[25],"l":"Job 5:25"}]}],"17":[{"m":"17a","refs":[{"c":"luke-1","t":"Luke 1","v":[46,47,48],"l":"Luke 1:48 (46–48)"}]}],"18":[{"m":"18a","refs":[{"c":"ps-41","t":"Psalm 41","v":[13],"l":"Ps. 41:13"},{"c":"ps-106","t":"Psalm 106","v":[48],"l":"106:48"}]}],"19":[{"m":"19a","refs":[{"c":"num-14","t":"Numbers 14","v":[21],"l":"Num. 14:21"},{"c":"dc-65","t":"D&C 65","v":[2],"l":"D&amp;C 65:2"}]},{"m":"19b","refs":[{"c":"1ne-22","t":"1 Nephi 22","v":[22,23,24],"l":"1 Ne. 22:24 (22–24)"},{"c":"alma-5","t":"Alma 5","v":[50],"l":"Alma 5:50"},{"c":"3ne-26","t":"3 Nephi 26","v":[3],"l":"3 Ne. 26:3"},{"c":"dc-7","t":"D&C 7","v":[3],"l":"D&amp;C 7:3"}]}]}
+{"4":[{"m":"4a","refs":[{"c":"dc-101","t":"D&C 101","v":[23,24],"l":"D&amp;C 101:24 (23–24)"}],"w":"oppressor","o":109}],"5":[{"m":"5a","refs":[{"c":"ps-89","t":"Psalm 89","v":[36,37],"l":"Ps. 89:36 (36–37)"}],"w":"endure","o":48}],"7":[{"m":"7b","refs":[{"c":"dc-45","t":"D&C 45","v":[66],"l":"D&amp;C 45:66"},{"c":"dc-54","t":"D&C 54","v":[10],"l":"54:10"}],"w":"peace","o":56}],"8":[{"m":"8a","refs":[{"c":"zech-9","t":"Zechariah 9","v":[10],"l":"Zech. 9:10"}],"w":"dominion","o":13}],"9":[{"m":"9a","refs":[{"c":"dc-88","t":"D&C 88","v":[104,105,106],"l":"D&amp;C 88:104 (104–6)"}],"w":"bow","o":39}],"10":[{"m":"10b","refs":[{"c":"isa-43","t":"Isaiah 43","v":[3],"l":"Isa. 43:3"}],"w":"Seba","o":82}],"16":[{"m":"16a","refs":[{"c":"job-5","t":"Job 5","v":[25],"l":"Job 5:25"}],"w":"grass","o":162}],"17":[{"m":"17a","refs":[{"c":"luke-1","t":"Luke 1","v":[46,47,48],"l":"Luke 1:48 (46–48)"}],"w":"blessed","o":139}],"18":[{"m":"18a","refs":[{"c":"ps-41","t":"Psalm 41","v":[13],"l":"Ps. 41:13"},{"c":"ps-106","t":"Psalm 106","v":[48],"l":"106:48"}],"w":"Blessed","o":0}],"19":[{"m":"19a","refs":[{"c":"num-14","t":"Numbers 14","v":[21],"l":"Num. 14:21"},{"c":"dc-65","t":"D&C 65","v":[2],"l":"D&amp;C 65:2"}],"w":"filled","o":69},{"m":"19b","refs":[{"c":"1ne-22","t":"1 Nephi 22","v":[22,23,24],"l":"1 Ne. 22:24 (22–24)"},{"c":"alma-5","t":"Alma 5","v":[50],"l":"Alma 5:50"},{"c":"3ne-26","t":"3 Nephi 26","v":[3],"l":"3 Ne. 26:3"},{"c":"dc-7","t":"D&C 7","v":[3],"l":"D&amp;C 7:3"}],"w":"glory","o":83}]}
 ```
 
 - **4** 4a [[D&C 101#^dc-101-23|D&amp;C 101:24 (23–24)]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: gen-38
 verses: 5
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:58Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Judah has three sons by a Canaanite woman—Er and Onan are slain by the Lord—Tamar, disguised as a harlot, bears twins by Judah.
 
 ```json
-{"3":[{"m":"3a","refs":[{"c":"1chr-2","t":"1 Chronicles 2","v":[3,4],"l":"1 Chr. 2:3 (3–4)"}]}],"7":[{"m":"7a","refs":[{"c":"gen-46","t":"Genesis 46","v":[12],"l":"Gen. 46:12"}]}],"24":[{"m":"24a","refs":[{"c":"lev-21","t":"Leviticus 21","v":[9],"l":"Lev. 21:9"}]}],"29":[{"m":"29a","refs":[{"c":"ruth-4","t":"Ruth 4","v":[18,19,20,21,22],"l":"Ruth 4:18 (18–22)"},{"c":"luke-3","t":"Luke 3","v":[23,24,25,26,27,28],"l":"Luke 3:33 (23–38)"}]}],"30":[{"m":"30a","refs":[{"c":"gen-46","t":"Genesis 46","v":[12],"l":"Gen. 46:12"},{"c":"neh-11","t":"Nehemiah 11","v":[24],"l":"Neh. 11:24"},{"c":"matt-1","t":"Matthew 1","v":[3],"l":"Matt. 1:3"}]}]}
+{"3":[{"m":"3a","refs":[{"c":"1chr-2","t":"1 Chronicles 2","v":[3,4],"l":"1 Chr. 2:3 (3–4)"}],"w":"Er","o":57}],"7":[{"m":"7a","refs":[{"c":"gen-46","t":"Genesis 46","v":[12],"l":"Gen. 46:12"}],"w":"Er","o":3}],"24":[{"m":"24a","refs":[{"c":"lev-21","t":"Leviticus 21","v":[9],"l":"Lev. 21:9"}],"w":"burnt","o":226}],"29":[{"m":"29a","refs":[{"c":"ruth-4","t":"Ruth 4","v":[18,19,20,21,22],"l":"Ruth 4:18 (18–22)"},{"c":"luke-3","t":"Luke 3","v":[23,24,25,26,27,28],"l":"Luke 3:33 (23–38)"}],"w":"Pharez","o":180}],"30":[{"m":"30a","refs":[{"c":"gen-46","t":"Genesis 46","v":[12],"l":"Gen. 46:12"},{"c":"neh-11","t":"Nehemiah 11","v":[24],"l":"Neh. 11:24"},{"c":"matt-1","t":"Matthew 1","v":[3],"l":"Matt. 1:3"}],"w":"Zarah","o":102}]}
 ```
 
 - **3** 3a [[1 Chronicles 2#^1chr-2-3|1 Chr. 2:3 (3–4)]]

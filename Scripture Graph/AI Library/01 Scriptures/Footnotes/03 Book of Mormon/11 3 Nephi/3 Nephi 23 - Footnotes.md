@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 3ne-23
 verses: 9
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jesus approves the words of Isaiah—He commands the people to search the prophets—The words of Samuel the Lamanite concerning the Resurrection are added to their records. About A.D. 34.
 
 ```json
-{"1":[{"m":"1b","refs":[{"c":"2ne-25","t":"2 Nephi 25","v":[1,2,3,4,5],"l":"2 Ne. 25:5 (1–5)"},{"c":"3ne-20","t":"3 Nephi 20","v":[11],"l":"3 Ne. 20:11"},{"c":"morm-8","t":"Mormon 8","v":[23],"l":"Morm. 8:23"}]}],"2":[{"m":"2a","refs":[{"c":"isa-49","t":"Isaiah 49","v":[6],"l":"Isa. 49:6"}]}],"3":[{"m":"3a","refs":[{"c":"3ne-15","t":"3 Nephi 15","v":[6],"l":"3 Ne. 15:6"},{"c":"3ne-20","t":"3 Nephi 20","v":[11,12],"l":"20:11 (11–12)"}]}],"4":[{"m":"4a","refs":[{"c":"morm-8","t":"Mormon 8","v":[26],"l":"Morm. 8:26"}]}],"5":[{"m":"5a","refs":[{"c":"luke-24","t":"Luke 24","v":[25,26,27],"l":"Luke 24:27 (25–27)"}]}],"7":[{"m":"7a","refs":[{"c":"3ne-8","t":"3 Nephi 8","v":[1],"l":"3 Ne. 8:1"},{"c":"4ne-1","t":"4 Nephi 1","v":[19],"l":"4 Ne. 1:19"}]}],"9":[{"m":"9a","refs":[{"c":"hel-13","t":"Helaman 13","v":[2],"l":"Hel. 13:2"}]},{"m":"9b","refs":[{"c":"hel-14","t":"Helaman 14","v":[1],"l":"Hel. 14:25 (1, 21–26)"}]}],"11":[{"m":"11b","refs":[{"c":"matt-27","t":"Matthew 27","v":[52,53],"l":"Matt. 27:52 (52–53)"}]}],"14":[{"m":"14a","refs":[{"c":"luke-24","t":"Luke 24","v":[27],"l":"Luke 24:44 (27, 44)"}]}]}
+{"1":[{"m":"1b","refs":[{"c":"2ne-25","t":"2 Nephi 25","v":[1,2,3,4,5],"l":"2 Ne. 25:5 (1–5)"},{"c":"3ne-20","t":"3 Nephi 20","v":[11],"l":"3 Ne. 20:11"},{"c":"morm-8","t":"Mormon 8","v":[23],"l":"Morm. 8:23"}],"w":"Isaiah","o":170}],"2":[{"m":"2a","refs":[{"c":"isa-49","t":"Isaiah 49","v":[6],"l":"Isa. 49:6"}],"w":"therefore","o":97}],"3":[{"m":"3a","refs":[{"c":"3ne-15","t":"3 Nephi 15","v":[6],"l":"3 Ne. 15:6"},{"c":"3ne-20","t":"3 Nephi 20","v":[11,12],"l":"20:11 (11–12)"}],"w":"shall","o":42}],"4":[{"m":"4a","refs":[{"c":"morm-8","t":"Mormon 8","v":[26],"l":"Morm. 8:26"}],"w":"they","o":125}],"5":[{"m":"5a","refs":[{"c":"luke-24","t":"Luke 24","v":[25,26,27],"l":"Luke 24:27 (25–27)"}],"w":"prophets","o":107}],"7":[{"m":"7a","refs":[{"c":"3ne-8","t":"3 Nephi 8","v":[1],"l":"3 Ne. 8:1"},{"c":"4ne-1","t":"4 Nephi 1","v":[19],"l":"4 Ne. 1:19"}],"w":"Nephi","o":37}],"9":[{"m":"9a","refs":[{"c":"hel-13","t":"Helaman 13","v":[2],"l":"Hel. 13:2"}],"w":"Samuel","o":45},{"m":"9b","refs":[{"c":"hel-14","t":"Helaman 14","v":[1],"l":"Hel. 14:25 (1, 21–26)"}],"w":"many","o":185}],"11":[{"m":"11b","refs":[{"c":"matt-27","t":"Matthew 27","v":[52,53],"l":"Matt. 27:52 (52–53)"}],"w":"saints","o":80}],"14":[{"m":"14a","refs":[{"c":"luke-24","t":"Luke 24","v":[27],"l":"Luke 24:44 (27, 44)"}],"w":"expounded","o":43}]}
 ```
 
 - **1** 1b [[2 Nephi 25#^2ne-25-1|2 Ne. 25:5 (1–5)]] · [[3 Nephi 20#^3ne-20-11|3 Ne. 20:11]] · [[Mormon 8#^morm-8-23|Morm. 8:23]]

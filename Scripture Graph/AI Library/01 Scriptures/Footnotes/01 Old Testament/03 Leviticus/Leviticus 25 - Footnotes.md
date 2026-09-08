@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: lev-25
 verses: 10
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:58Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Each seventh year is to be kept as a sabbath year—Each fiftieth year is to be one of jubilee, in which liberty is proclaimed throughout the land—Laws are revealed for the sale and redemption of lands, houses, and servants—The land is the Lord’s, as are the servants—Usury is forbidden.
 
 ```json
-{"11":[{"m":"11a","refs":[{"c":"num-36","t":"Numbers 36","v":[4],"l":"Num. 36:4"}]}],"18":[{"m":"18a","refs":[{"c":"mosiah-1","t":"Mosiah 1","v":[7],"l":"Mosiah 1:7"},{"c":"mosiah-2","t":"Mosiah 2","v":[22],"l":"2:22"},{"c":"alma-50","t":"Alma 50","v":[20,21,22],"l":"Alma 50:20 (20–22)"}]}],"21":[{"m":"21a","refs":[{"c":"1ne-3","t":"1 Nephi 3","v":[7],"l":"1 Ne. 3:7"}]}],"25":[{"m":"25a","refs":[{"c":"ruth-4","t":"Ruth 4","v":[4],"l":"Ruth 4:4"}]}],"28":[{"m":"28b","refs":[{"c":"lev-27","t":"Leviticus 27","v":[24],"l":"Lev. 27:24"}]}],"34":[{"m":"34a","refs":[{"c":"2chr-31","t":"2 Chronicles 31","v":[19],"l":"2 Chr. 31:19"}]},{"m":"34b","refs":[{"c":"num-35","t":"Numbers 35","v":[2,3,4,5,6,7],"l":"Num. 35:2 (2–7)"},{"c":"2chr-11","t":"2 Chronicles 11","v":[14],"l":"2 Chr. 11:14"}]}],"39":[{"m":"39a","refs":[{"c":"deut-15","t":"Deuteronomy 15","v":[12,13,14,15,16,17],"l":"Deut. 15:12 (12–18)"}]}],"43":[{"m":"43a","refs":[{"c":"morm-9","t":"Mormon 9","v":[27],"l":"Morm. 9:27"}]}],"46":[{"m":"46a","refs":[{"c":"num-36","t":"Numbers 36","v":[4],"l":"Num. 36:4"},{"c":"dc-38","t":"D&C 38","v":[20],"l":"D&amp;C 38:20"}]}],"55":[{"m":"55a","refs":[{"c":"1ne-21","t":"1 Nephi 21","v":[3,4,5,6],"l":"1 Ne. 21:3 (3–6)"},{"c":"dc-93","t":"D&C 93","v":[45,46],"l":"D&amp;C 93:46 (45–46)"}]}]}
+{"11":[{"m":"11a","refs":[{"c":"num-36","t":"Numbers 36","v":[4],"l":"Num. 36:4"}],"w":"jubilee","o":1}],"18":[{"m":"18a","refs":[{"c":"mosiah-1","t":"Mosiah 1","v":[7],"l":"Mosiah 1:7"},{"c":"mosiah-2","t":"Mosiah 2","v":[22],"l":"2:22"},{"c":"alma-50","t":"Alma 50","v":[20,21,22],"l":"Alma 50:20 (20–22)"}],"w":"do","o":20}],"21":[{"m":"21a","refs":[{"c":"1ne-3","t":"1 Nephi 3","v":[7],"l":"1 Ne. 3:7"}],"w":"blessing","o":22}],"25":[{"m":"25a","refs":[{"c":"ruth-4","t":"Ruth 4","v":[4],"l":"Ruth 4:4"}],"w":"redeem","o":104}],"28":[{"m":"28b","refs":[{"c":"lev-27","t":"Leviticus 27","v":[24],"l":"Lev. 27:24"}],"w":"return","o":194}],"34":[{"m":"34a","refs":[{"c":"2chr-31","t":"2 Chronicles 31","v":[19],"l":"2 Chr. 31:19"}],"w":"field","o":7},{"m":"34b","refs":[{"c":"num-35","t":"Numbers 35","v":[2,3,4,5,6,7],"l":"Num. 35:2 (2–7)"},{"c":"2chr-11","t":"2 Chronicles 11","v":[14],"l":"2 Chr. 11:14"}],"w":"suburbs","o":18}],"39":[{"m":"39a","refs":[{"c":"deut-15","t":"Deuteronomy 15","v":[12,13,14,15,16,17],"l":"Deut. 15:12 (12–18)"}],"w":"sold","o":64}],"43":[{"m":"43a","refs":[{"c":"morm-9","t":"Mormon 9","v":[27],"l":"Morm. 9:27"}],"w":"fear","o":51}],"46":[{"m":"46a","refs":[{"c":"num-36","t":"Numbers 36","v":[4],"l":"Num. 36:4"},{"c":"dc-38","t":"D&C 38","v":[20],"l":"D&amp;C 38:20"}],"w":"inheritance","o":28}],"55":[{"m":"55a","refs":[{"c":"1ne-21","t":"1 Nephi 21","v":[3,4,5,6],"l":"1 Ne. 21:3 (3–6)"},{"c":"dc-93","t":"D&C 93","v":[45,46],"l":"D&amp;C 93:46 (45–46)"}],"w":"servants","o":38}]}
 ```
 
 - **11** 11a [[Numbers 36#^num-36-4|Num. 36:4]]

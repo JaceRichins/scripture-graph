@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: micah-7
 verses: 10
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Though the people of Israel have rebelled, yet in the last days the Lord will have mercy on them—He will have compassion and pardon their iniquities.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"isa-9","t":"Isaiah 9","v":[19],"l":"Isa. 9:19"}]}],"5":[{"m":"5a","refs":[{"c":"jer-9","t":"Jeremiah 9","v":[4],"l":"Jer. 9:4"}]}],"6":[{"m":"6a","refs":[{"c":"luke-12","t":"Luke 12","v":[53],"l":"Luke 12:53"}]},{"m":"6b","refs":[{"c":"matt-10","t":"Matthew 10","v":[35,36],"l":"Matt. 10:36 (35–36)"}]}],"7":[{"m":"7a","refs":[{"c":"ps-4","t":"Psalm 4","v":[1],"l":"Ps. 4:1 (1, 3)"}]}],"9":[{"m":"9a","refs":[{"c":"lam-3","t":"Lamentations 3","v":[24,25,26,27],"l":"Lam. 3:27 (24–27)"}]},{"m":"9b","refs":[{"c":"3ne-16","t":"3 Nephi 16","v":[4,5],"l":"3 Ne. 16:4 (4–5)"}]}],"10":[{"m":"10a","refs":[{"c":"mal-4","t":"Malachi 4","v":[3],"l":"Mal. 4:3"}]}],"12":[{"m":"12a","refs":[{"c":"neh-1","t":"Nehemiah 1","v":[9],"l":"Neh. 1:9"},{"c":"dc-101","t":"D&C 101","v":[13],"l":"D&amp;C 101:13"}]}],"18":[{"m":"18b","refs":[{"c":"isa-57","t":"Isaiah 57","v":[16],"l":"Isa. 57:16"},{"c":"jer-3","t":"Jeremiah 3","v":[1,2,3,4,5],"l":"Jer. 3:5 (1–5)"}]},{"m":"18c","refs":[{"c":"jer-9","t":"Jeremiah 9","v":[24],"l":"Jer. 9:24"}]}],"19":[{"m":"19a","refs":[{"c":"dc-64","t":"D&C 64","v":[2],"l":"D&amp;C 64:2"}]}],"20":[{"m":"20a","refs":[{"c":"2ne-29","t":"2 Nephi 29","v":[14],"l":"2 Ne. 29:14"}]},{"m":"20b","refs":[{"c":"luke-1","t":"Luke 1","v":[54,55],"l":"Luke 1:55 (54–55)"},{"c":"luke-1","t":"Luke 1","v":[72],"l":"72"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"isa-9","t":"Isaiah 9","v":[19],"l":"Isa. 9:19"}],"w":"brother","o":135}],"5":[{"m":"5a","refs":[{"c":"jer-9","t":"Jeremiah 9","v":[4],"l":"Jer. 9:4"}],"w":"Trust","o":1}],"6":[{"m":"6a","refs":[{"c":"luke-12","t":"Luke 12","v":[53],"l":"Luke 12:53"}],"w":"enemies","o":134},{"m":"6b","refs":[{"c":"matt-10","t":"Matthew 10","v":[35,36],"l":"Matt. 10:36 (35–36)"}],"w":"house","o":163}],"7":[{"m":"7a","refs":[{"c":"ps-4","t":"Psalm 4","v":[1],"l":"Ps. 4:1 (1, 3)"}],"w":"hear","o":89}],"9":[{"m":"9a","refs":[{"c":"lam-3","t":"Lamentations 3","v":[24,25,26,27],"l":"Lam. 3:27 (24–27)"}],"w":"bear","o":6},{"m":"9b","refs":[{"c":"3ne-16","t":"3 Nephi 16","v":[4,5],"l":"3 Ne. 16:4 (4–5)"}],"w":"light","o":157}],"10":[{"m":"10a","refs":[{"c":"mal-4","t":"Malachi 4","v":[3],"l":"Mal. 4:3"}],"w":"trodden","o":159}],"12":[{"m":"12a","refs":[{"c":"neh-1","t":"Nehemiah 1","v":[9],"l":"Neh. 1:9"},{"c":"dc-101","t":"D&C 101","v":[13],"l":"D&amp;C 101:13"}],"w":"come","o":25}],"18":[{"m":"18b","refs":[{"c":"isa-57","t":"Isaiah 57","v":[16],"l":"Isa. 57:16"},{"c":"jer-3","t":"Jeremiah 3","v":[1,2,3,4,5],"l":"Jer. 3:5 (1–5)"}],"w":"anger","o":137},{"m":"18c","refs":[{"c":"jer-9","t":"Jeremiah 9","v":[24],"l":"Jer. 9:24"}],"w":"delighteth","o":162}],"19":[{"m":"19a","refs":[{"c":"dc-64","t":"D&C 64","v":[2],"l":"D&amp;C 64:2"}],"w":"compassion","o":32}],"20":[{"m":"20a","refs":[{"c":"2ne-29","t":"2 Nephi 29","v":[14],"l":"2 Ne. 29:14"}],"w":"Abraham","o":54},{"m":"20b","refs":[{"c":"luke-1","t":"Luke 1","v":[54,55],"l":"Luke 1:55 (54–55)"},{"c":"luke-1","t":"Luke 1","v":[72],"l":"72"}],"w":"sworn","o":78}]}
 ```
 
 - **2** 2a [[Isaiah 9#^isa-9-19|Isa. 9:19]]

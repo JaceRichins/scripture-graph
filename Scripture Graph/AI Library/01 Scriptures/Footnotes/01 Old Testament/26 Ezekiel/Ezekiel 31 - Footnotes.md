@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ezek-31
 verses: 4
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Pharaoh’s glory and fall are compared to that of the Assyrians.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"isa-19","t":"Isaiah 19","v":[1],"l":"Isa. 19:1"},{"c":"ezek-32","t":"Ezekiel 32","v":[2],"l":"Ezek. 32:2"}]}],"3":[{"m":"3a","refs":[{"c":"isa-10","t":"Isaiah 10","v":[5],"l":"Isa. 10:5"}]},{"m":"3b","refs":[{"c":"isa-2","t":"Isaiah 2","v":[13],"l":"Isa. 2:13"}]}],"9":[{"m":"9a","refs":[{"c":"ezek-28","t":"Ezekiel 28","v":[13],"l":"Ezek. 28:13"}]}],"10":[{"m":"10a","refs":[{"c":"isa-14","t":"Isaiah 14","v":[13,14,15],"l":"Isa. 14:13 (13–15)"},{"c":"ezek-28","t":"Ezekiel 28","v":[17],"l":"Ezek. 28:17"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"isa-19","t":"Isaiah 19","v":[1],"l":"Isa. 19:1"},{"c":"ezek-32","t":"Ezekiel 32","v":[2],"l":"Ezek. 32:2"}],"w":"Egypt","o":38}],"3":[{"m":"3a","refs":[{"c":"isa-10","t":"Isaiah 10","v":[5],"l":"Isa. 10:5"}],"w":"Assyrian","o":13},{"m":"3b","refs":[{"c":"isa-2","t":"Isaiah 2","v":[13],"l":"Isa. 2:13"}],"w":"cedar","o":26}],"9":[{"m":"9a","refs":[{"c":"ezek-28","t":"Ezekiel 28","v":[13],"l":"Ezek. 28:13"}],"w":"Eden","o":79}],"10":[{"m":"10a","refs":[{"c":"isa-14","t":"Isaiah 14","v":[13,14,15],"l":"Isa. 14:13 (13–15)"},{"c":"ezek-28","t":"Ezekiel 28","v":[17],"l":"Ezek. 28:17"}],"w":"heart","o":143}]}
 ```
 
 - **2** 2a [[Isaiah 19#^isa-19-1|Isa. 19:1]] · [[Ezekiel 32#^ezek-32-2|Ezek. 32:2]]

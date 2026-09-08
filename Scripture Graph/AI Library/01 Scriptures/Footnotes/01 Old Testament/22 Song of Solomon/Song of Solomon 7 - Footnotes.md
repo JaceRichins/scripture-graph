@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: song-7
 verses: 0
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---

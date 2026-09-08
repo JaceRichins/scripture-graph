@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: hosea-14
 verses: 5
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > In the last days, Ephraim will repent and return unto the Lord.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"hosea-13","t":"Hosea 13","v":[9,10,11,12,13,14],"l":"Hosea 13:9 (9–14)"}]}],"2":[{"m":"2a","refs":[{"c":"dc-59","t":"D&C 59","v":[8],"l":"D&amp;C 59:8"}]},{"m":"2b","refs":[{"c":"ps-51","t":"Psalm 51","v":[17],"l":"Ps. 51:17"}]}],"3":[{"m":"3b","refs":[{"c":"hosea-5","t":"Hosea 5","v":[13],"l":"Hosea 5:13"}]},{"m":"3c","refs":[{"c":"isa-31","t":"Isaiah 31","v":[1],"l":"Isa. 31:1"},{"c":"hosea-1","t":"Hosea 1","v":[7],"l":"Hosea 1:7"}]},{"m":"3d","refs":[{"c":"ps-10","t":"Psalm 10","v":[14],"l":"Ps. 10:14"}]}],"5":[{"m":"5a","refs":[{"c":"deut-32","t":"Deuteronomy 32","v":[2],"l":"Deut. 32:2"},{"c":"hosea-6","t":"Hosea 6","v":[4],"l":"Hosea 6:4"},{"c":"dc-128","t":"D&C 128","v":[19],"l":"D&amp;C 128:19"}]}],"9":[{"m":"9a","refs":[{"c":"ps-107","t":"Psalm 107","v":[43],"l":"Ps. 107:43"}]},{"m":"9c","refs":[{"c":"2ne-1","t":"2 Nephi 1","v":[19],"l":"2 Ne. 1:19"},{"c":"2ne-31","t":"2 Nephi 31","v":[19,20,21],"l":"31:19 (19–21)"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"hosea-13","t":"Hosea 13","v":[9,10,11,12,13,14],"l":"Hosea 13:9 (9–14)"}],"w":"fallen","o":53}],"2":[{"m":"2a","refs":[{"c":"dc-59","t":"D&C 59","v":[8],"l":"D&amp;C 59:8"}],"w":"render","o":118},{"m":"2b","refs":[{"c":"ps-51","t":"Psalm 51","v":[17],"l":"Ps. 51:17"}],"w":"calves","o":127}],"3":[{"m":"3b","refs":[{"c":"hosea-5","t":"Hosea 5","v":[13],"l":"Hosea 5:13"}],"w":"save","o":15},{"m":"3c","refs":[{"c":"isa-31","t":"Isaiah 31","v":[1],"l":"Isa. 31:1"},{"c":"hosea-1","t":"Hosea 1","v":[7],"l":"Hosea 1:7"}],"w":"horses","o":44},{"m":"3d","refs":[{"c":"ps-10","t":"Psalm 10","v":[14],"l":"Ps. 10:14"}],"w":"fatherless","o":139}],"5":[{"m":"5a","refs":[{"c":"deut-32","t":"Deuteronomy 32","v":[2],"l":"Deut. 32:2"},{"c":"hosea-6","t":"Hosea 6","v":[4],"l":"Hosea 6:4"},{"c":"dc-128","t":"D&C 128","v":[19],"l":"D&amp;C 128:19"}],"w":"dew","o":16}],"9":[{"m":"9a","refs":[{"c":"ps-107","t":"Psalm 107","v":[43],"l":"Ps. 107:43"}],"w":"wise","o":6},{"m":"9c","refs":[{"c":"2ne-1","t":"2 Nephi 1","v":[19],"l":"2 Ne. 1:19"},{"c":"2ne-31","t":"2 Nephi 31","v":[19,20,21],"l":"31:19 (19–21)"}],"w":"ways","o":89}]}
 ```
 
 - **1** 1a [[Hosea 13#^hosea-13-9|Hosea 13:9 (9–14)]]

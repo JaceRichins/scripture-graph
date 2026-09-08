@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: dc-74
 verses: 4
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:02Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > 1–5, Paul counsels the Church of his day not to keep the law of Moses; 6–7, Little children are holy and are sanctified through the Atonement.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"1cor-7","t":"1 Corinthians 7","v":[14,15,16,17,18,19],"l":"1 Cor. 7:14 (14–19)"}]}],"3":[{"m":"3a","refs":[{"c":"acts-15","t":"Acts 15","v":[1,2,3,4,5,6],"l":"Acts 15:1 (1–35)"},{"c":"gal-2","t":"Galatians 2","v":[1,2,3,4,5],"l":"Gal. 2:3 (1–5)"},{"c":"gal-5","t":"Galatians 5","v":[1,2,3,4,5,6],"l":"5:6 (1–14)"}]}],"5":[{"m":"5c","refs":[{"c":"rom-7","t":"Romans 7","v":[4,5,6],"l":"Rom. 7:4 (4–6)"},{"c":"2ne-25","t":"2 Nephi 25","v":[24,25,26,27],"l":"2 Ne. 25:25 (24–27)"}]}],"7":[{"m":"7b","refs":[{"c":"moro-8","t":"Moroni 8","v":[8,9,10,11,12,13],"l":"Moro. 8:8 (8–15)"},{"c":"dc-29","t":"D&C 29","v":[46],"l":"D&amp;C 29:46"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"1cor-7","t":"1 Corinthians 7","v":[14,15,16,17,18,19],"l":"1 Cor. 7:14 (14–19)"}],"w":"unbelieving","o":7}],"3":[{"m":"3a","refs":[{"c":"acts-15","t":"Acts 15","v":[1,2,3,4,5,6],"l":"Acts 15:1 (1–35)"},{"c":"gal-2","t":"Galatians 2","v":[1,2,3,4,5],"l":"Gal. 2:3 (1–5)"},{"c":"gal-5","t":"Galatians 5","v":[1,2,3,4,5,6],"l":"5:6 (1–14)"}],"w":"contention","o":44}],"5":[{"m":"5c","refs":[{"c":"rom-7","t":"Romans 7","v":[4,5,6],"l":"Rom. 7:4 (4–6)"},{"c":"2ne-25","t":"2 Nephi 25","v":[24,25,26,27],"l":"2 Ne. 25:25 (24–27)"}],"w":"law","o":188}],"7":[{"m":"7b","refs":[{"c":"moro-8","t":"Moroni 8","v":[8,9,10,11,12,13],"l":"Moro. 8:8 (8–15)"},{"c":"dc-29","t":"D&C 29","v":[46],"l":"D&amp;C 29:46"}],"w":"holy","o":21}]}
 ```
 
 - **1** 1a [[1 Corinthians 7#^1cor-7-14|1 Cor. 7:14 (14–19)]]

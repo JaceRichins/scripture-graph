@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: lev-21
 verses: 9
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:58Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The priests are to be holy—The high priest is not to marry a widow, a divorced person, or a harlot—Descendants of Aaron with physical blemishes may not offer the bread of God upon the altar.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"ezek-44","t":"Ezekiel 44","v":[25],"l":"Ezek. 44:25"}]}],"5":[{"m":"5a","refs":[{"c":"lev-19","t":"Leviticus 19","v":[27],"l":"Lev. 19:27"},{"c":"ezek-44","t":"Ezekiel 44","v":[20],"l":"Ezek. 44:20"}]}],"6":[{"m":"6a","refs":[{"c":"dc-38","t":"D&C 38","v":[42],"l":"D&amp;C 38:42"}]},{"m":"6c","refs":[{"c":"lev-3","t":"Leviticus 3","v":[11],"l":"Lev. 3:11"}]}],"8":[{"m":"8a","refs":[{"c":"lev-20","t":"Leviticus 20","v":[7],"l":"Lev. 20:7"}]}],"9":[{"m":"9a","refs":[{"c":"gen-38","t":"Genesis 38","v":[24],"l":"Gen. 38:24"}]}],"10":[{"m":"10a","refs":[{"c":"ex-29","t":"Exodus 29","v":[1,2,3,4,5,6],"l":"Ex. 29:1 (1–46)"},{"c":"num-35","t":"Numbers 35","v":[25],"l":"Num. 35:25"}]}],"12":[{"m":"12c","refs":[{"c":"lev-10","t":"Leviticus 10","v":[7],"l":"Lev. 10:7"}]}],"14":[{"m":"14a","refs":[{"c":"ezek-44","t":"Ezekiel 44","v":[22],"l":"Ezek. 44:22"}]}],"17":[{"m":"17a","refs":[{"c":"deut-23","t":"Deuteronomy 23","v":[1],"l":"Deut. 23:1"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"ezek-44","t":"Ezekiel 44","v":[25],"l":"Ezek. 44:25"}],"w":"dead","o":126}],"5":[{"m":"5a","refs":[{"c":"lev-19","t":"Leviticus 19","v":[27],"l":"Lev. 19:27"},{"c":"ezek-44","t":"Ezekiel 44","v":[20],"l":"Ezek. 44:20"}],"w":"baldness","o":19}],"6":[{"m":"6a","refs":[{"c":"dc-38","t":"D&C 38","v":[42],"l":"D&amp;C 38:42"}],"w":"holy","o":13},{"m":"6c","refs":[{"c":"lev-3","t":"Leviticus 3","v":[11],"l":"Lev. 3:11"}],"w":"fire","o":107}],"8":[{"m":"8a","refs":[{"c":"lev-20","t":"Leviticus 20","v":[7],"l":"Lev. 20:7"}],"w":"sanctify","o":122}],"9":[{"m":"9a","refs":[{"c":"gen-38","t":"Genesis 38","v":[24],"l":"Gen. 38:24"}],"w":"burnt","o":117}],"10":[{"m":"10a","refs":[{"c":"ex-29","t":"Exodus 29","v":[1,2,3,4,5,6],"l":"Ex. 29:1 (1–46)"},{"c":"num-35","t":"Numbers 35","v":[25],"l":"Num. 35:25"}],"w":"high priest","o":18}],"12":[{"m":"12c","refs":[{"c":"lev-10","t":"Leviticus 10","v":[7],"l":"Lev. 10:7"}],"w":"anointing oil","o":97}],"14":[{"m":"14a","refs":[{"c":"ezek-44","t":"Ezekiel 44","v":[22],"l":"Ezek. 44:22"}],"w":"widow","o":1}],"17":[{"m":"17a","refs":[{"c":"deut-23","t":"Deuteronomy 23","v":[1],"l":"Deut. 23:1"}],"w":"blemish","o":88}]}
 ```
 
 - **1** 1a [[Ezekiel 44#^ezek-44-25|Ezek. 44:25]]

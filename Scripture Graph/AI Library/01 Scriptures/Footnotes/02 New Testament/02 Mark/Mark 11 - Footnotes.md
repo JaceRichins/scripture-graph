@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: mark-11
 verses: 4
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jesus rides into Jerusalem amid shouts of hosanna—He curses a fig tree, drives the money changers from the temple, and confounds the scribes on the matter of authority.
 
 ```json
-{"7":[{"m":"7a","refs":[{"c":"zech-9","t":"Zechariah 9","v":[9],"l":"Zech. 9:9"}]}],"9":[{"m":"9a","refs":[{"c":"ps-118","t":"Psalm 118","v":[26],"l":"Ps. 118:26"}]}],"24":[{"m":"24b","refs":[{"c":"3ne-18","t":"3 Nephi 18","v":[20],"l":"3 Ne. 18:20"},{"c":"dc-29","t":"D&C 29","v":[6],"l":"D&amp;C 29:6"}]}],"26":[{"m":"26a","refs":[{"c":"dc-64","t":"D&C 64","v":[7,8,9,10],"l":"D&amp;C 64:9 (7–10)"}]}]}
+{"7":[{"m":"7a","refs":[{"c":"zech-9","t":"Zechariah 9","v":[9],"l":"Zech. 9:9"}],"w":"colt","o":20}],"9":[{"m":"9a","refs":[{"c":"ps-118","t":"Psalm 118","v":[26],"l":"Ps. 118:26"}],"w":"Blessed","o":74}],"24":[{"m":"24b","refs":[{"c":"3ne-18","t":"3 Nephi 18","v":[20],"l":"3 Ne. 18:20"},{"c":"dc-29","t":"D&C 29","v":[6],"l":"D&amp;C 29:6"}],"w":"believe","o":68}],"26":[{"m":"26a","refs":[{"c":"dc-64","t":"D&C 64","v":[7,8,9,10],"l":"D&amp;C 64:9 (7–10)"}],"w":"forgive","o":16}]}
 ```
 
 - **7** 7a [[Zechariah 9#^zech-9-9|Zech. 9:9]]

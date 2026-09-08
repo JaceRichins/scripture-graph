@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: john-13
 verses: 9
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jesus washes the feet of the Twelve—He identifies Judas as His betrayer—He commands them to love one another.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"deut-16","t":"Deuteronomy 16","v":[1],"l":"Deut. 16:1"}]}],"2":[{"m":"2a","refs":[{"c":"dc-10","t":"D&C 10","v":[13],"l":"D&amp;C 10:15 (13, 15)"},{"c":"dc-63","t":"D&C 63","v":[28],"l":"63:28"}]}],"3":[{"m":"3c","refs":[{"c":"john-7","t":"John 7","v":[29],"l":"John 7:29"}]}],"10":[{"m":"10b","refs":[{"c":"dc-38","t":"D&C 38","v":[10],"l":"D&amp;C 38:10"}]}],"11":[{"m":"11a","refs":[{"c":"john-6","t":"John 6","v":[64],"l":"John 6:64"}]},{"m":"11b","refs":[{"c":"dc-66","t":"D&C 66","v":[3],"l":"D&amp;C 66:3"}]}],"20":[{"m":"20a","refs":[{"c":"dc-39","t":"D&C 39","v":[5],"l":"D&amp;C 39:5"},{"c":"dc-84","t":"D&C 84","v":[37],"l":"84:37"}]},{"m":"20b","refs":[{"c":"1jn-4","t":"1 John 4","v":[1,2,3,4,5,6],"l":"1 Jn. 4:6 (1–6)"}]}],"23":[{"m":"23a","refs":[{"c":"john-20","t":"John 20","v":[2],"l":"John 20:2"},{"c":"john-21","t":"John 21","v":[20,21,22,23,24],"l":"21:24 (20–24)"}]}],"29":[{"m":"29a","refs":[{"c":"john-12","t":"John 12","v":[6],"l":"John 12:6"}]}],"33":[{"m":"33a","refs":[{"c":"john-7","t":"John 7","v":[33,34,35,36],"l":"John 7:34 (33–36)"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"deut-16","t":"Deuteronomy 16","v":[1],"l":"Deut. 16:1"}],"w":"passover","o":27}],"2":[{"m":"2a","refs":[{"c":"dc-10","t":"D&C 10","v":[13],"l":"D&amp;C 10:15 (13, 15)"},{"c":"dc-63","t":"D&C 63","v":[28],"l":"63:28"}],"w":"heart","o":57}],"3":[{"m":"3c","refs":[{"c":"john-7","t":"John 7","v":[29],"l":"John 7:29"}],"w":"come","o":78}],"10":[{"m":"10b","refs":[{"c":"dc-38","t":"D&C 38","v":[10],"l":"D&amp;C 38:10"}],"w":"clean","o":106}],"11":[{"m":"11a","refs":[{"c":"john-6","t":"John 6","v":[64],"l":"John 6:64"}],"w":"betray","o":22},{"m":"11b","refs":[{"c":"dc-66","t":"D&C 66","v":[3],"l":"D&amp;C 66:3"}],"w":"all","o":62}],"20":[{"m":"20a","refs":[{"c":"dc-39","t":"D&C 39","v":[5],"l":"D&amp;C 39:5"},{"c":"dc-84","t":"D&C 84","v":[37],"l":"84:37"}],"w":"receiveth","o":67},{"m":"20b","refs":[{"c":"1jn-4","t":"1 John 4","v":[1,2,3,4,5,6],"l":"1 Jn. 4:6 (1–6)"}],"w":"receiveth","o":91}],"23":[{"m":"23a","refs":[{"c":"john-20","t":"John 20","v":[2],"l":"John 20:2"},{"c":"john-21","t":"John 21","v":[20,21,22,23,24],"l":"21:24 (20–24)"}],"w":"disciples","o":48}],"29":[{"m":"29a","refs":[{"c":"john-12","t":"John 12","v":[6],"l":"John 12:6"}],"w":"bag","o":47}],"33":[{"m":"33a","refs":[{"c":"john-7","t":"John 7","v":[33,34,35,36],"l":"John 7:34 (33–36)"}],"w":"seek","o":59}]}
 ```
 
 - **1** 1a [[Deuteronomy 16#^deut-16-1|Deut. 16:1]]

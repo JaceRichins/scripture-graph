@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: judg-17
 verses: 7
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Micah has a house of gods (images) and consecrates his own priests.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"josh-24","t":"Joshua 24","v":[33],"l":"Josh. 24:33"}]}],"2":[{"m":"2a","refs":[{"c":"gen-24","t":"Genesis 24","v":[31],"l":"Gen. 24:31"}]}],"3":[{"m":"3a","refs":[{"c":"ex-20","t":"Exodus 20","v":[4],"l":"Ex. 20:4 (4, 23)"},{"c":"lev-19","t":"Leviticus 19","v":[4],"l":"Lev. 19:4"},{"c":"mosiah-12","t":"Mosiah 12","v":[36],"l":"Mosiah 12:36"}]}],"5":[{"m":"5a","refs":[{"c":"judg-8","t":"Judges 8","v":[27],"l":"Judg. 8:27"}]},{"m":"5b","refs":[{"c":"judg-18","t":"Judges 18","v":[18],"l":"Judg. 18:18 (18, 20)"},{"c":"1sam-19","t":"1 Samuel 19","v":[13],"l":"1 Sam. 19:13 (13, 16)"}]},{"m":"5c","refs":[{"c":"judg-18","t":"Judges 18","v":[1],"l":"Judg. 18:19 (1, 19–20)"}]}],"6":[{"m":"6a","refs":[{"c":"judg-18","t":"Judges 18","v":[1],"l":"Judg. 18:1"},{"c":"judg-21","t":"Judges 21","v":[25],"l":"21:25"}]},{"m":"6b","refs":[{"c":"deut-12","t":"Deuteronomy 12","v":[8],"l":"Deut. 12:8"}]},{"m":"6c","refs":[{"c":"prov-16","t":"Proverbs 16","v":[2],"l":"Prov. 16:2"}]}],"8":[{"m":"8a","refs":[{"c":"josh-20","t":"Joshua 20","v":[9],"l":"Josh. 20:9"}]}],"9":[{"m":"9a","refs":[{"c":"judg-19","t":"Judges 19","v":[1],"l":"Judg. 19:1 (1, 18)"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"josh-24","t":"Joshua 24","v":[33],"l":"Josh. 24:33"}],"w":"mount Ephraim","o":22}],"2":[{"m":"2a","refs":[{"c":"gen-24","t":"Genesis 24","v":[31],"l":"Gen. 24:31"}],"w":"Blessed","o":216}],"3":[{"m":"3a","refs":[{"c":"ex-20","t":"Exodus 20","v":[4],"l":"Ex. 20:4 (4, 23)"},{"c":"lev-19","t":"Leviticus 19","v":[4],"l":"Lev. 19:4"},{"c":"mosiah-12","t":"Mosiah 12","v":[36],"l":"Mosiah 12:36"}],"w":"graven image","o":176}],"5":[{"m":"5a","refs":[{"c":"judg-8","t":"Judges 8","v":[27],"l":"Judg. 8:27"}],"w":"ephod","o":51},{"m":"5b","refs":[{"c":"judg-18","t":"Judges 18","v":[18],"l":"Judg. 18:18 (18, 20)"},{"c":"1sam-19","t":"1 Samuel 19","v":[13],"l":"1 Sam. 19:13 (13, 16)"}],"w":"teraphim","o":61},{"m":"5c","refs":[{"c":"judg-18","t":"Judges 18","v":[1],"l":"Judg. 18:19 (1, 19–20)"}],"w":"priest","o":118}],"6":[{"m":"6a","refs":[{"c":"judg-18","t":"Judges 18","v":[1],"l":"Judg. 18:1"},{"c":"judg-21","t":"Judges 21","v":[25],"l":"21:25"}],"w":"king","o":26},{"m":"6b","refs":[{"c":"deut-12","t":"Deuteronomy 12","v":[8],"l":"Deut. 12:8"}],"w":"right","o":73},{"m":"6c","refs":[{"c":"prov-16","t":"Proverbs 16","v":[2],"l":"Prov. 16:2"}],"w":"own eyes","o":84}],"8":[{"m":"8a","refs":[{"c":"josh-20","t":"Joshua 20","v":[9],"l":"Josh. 20:9"}],"w":"sojourn","o":61}],"9":[{"m":"9a","refs":[{"c":"judg-19","t":"Judges 19","v":[1],"l":"Judg. 19:1 (1, 18)"}],"w":"Levite","o":73}]}
 ```
 
 - **1** 1a [[Joshua 24#^josh-24-33|Josh. 24:33]]

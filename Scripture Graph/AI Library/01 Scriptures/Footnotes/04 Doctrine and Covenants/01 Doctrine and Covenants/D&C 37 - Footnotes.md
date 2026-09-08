@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: dc-37
 verses: 3
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > 1–4, The Saints are called to gather at the Ohio.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"dc-1","t":"D&C 1","v":[29],"l":"D&amp;C 1:29"},{"c":"dc-35","t":"D&C 35","v":[20],"l":"35:20"}]}],"2":[{"m":"2a","refs":[{"c":"zech-10","t":"Zechariah 10","v":[12],"l":"Zech. 10:12"}]},{"m":"2b","refs":[{"c":"dc-24","t":"D&C 24","v":[3],"l":"D&amp;C 24:3"},{"c":"dc-26","t":"D&C 26","v":[1],"l":"26:1"}]}],"3":[{"m":"3a","refs":[{"c":"dc-38","t":"D&C 38","v":[32],"l":"D&amp;C 38:32"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"dc-1","t":"D&C 1","v":[29],"l":"D&amp;C 1:29"},{"c":"dc-35","t":"D&C 35","v":[20],"l":"35:20"}],"w":"translate","o":68}],"2":[{"m":"2a","refs":[{"c":"zech-10","t":"Zechariah 10","v":[12],"l":"Zech. 10:12"}],"w":"strengthened","o":104},{"m":"2b","refs":[{"c":"dc-24","t":"D&C 24","v":[3],"l":"D&amp;C 24:3"},{"c":"dc-26","t":"D&C 26","v":[1],"l":"26:1"}],"w":"Colesville","o":179}],"3":[{"m":"3a","refs":[{"c":"dc-38","t":"D&C 38","v":[32],"l":"D&amp;C 38:32"}],"w":"the Ohio","o":113}]}
 ```
 
 - **1** 1a [[D&C 1#^dc-1-29|D&amp;C 1:29]] · [[D&C 35#^dc-35-20|35:20]]

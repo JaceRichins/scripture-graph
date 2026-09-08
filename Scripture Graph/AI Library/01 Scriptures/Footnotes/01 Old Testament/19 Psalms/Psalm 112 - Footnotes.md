@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-112
 verses: 2
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Blessed is the man who fears the Lord—The righteous will be remembered always.
 
 ```json
-{"1":[{"m":"1b","refs":[{"c":"ps-119","t":"Psalm 119","v":[35],"l":"Ps. 119:35"}]}],"2":[{"m":"2a","refs":[{"c":"dc-104","t":"D&C 104","v":[33],"l":"D&amp;C 104:33"}]}]}
+{"1":[{"m":"1b","refs":[{"c":"ps-119","t":"Psalm 119","v":[35],"l":"Ps. 119:35"}],"w":"delighteth","o":64}],"2":[{"m":"2a","refs":[{"c":"dc-104","t":"D&C 104","v":[33],"l":"D&amp;C 104:33"}],"w":"seed","o":3}]}
 ```
 
 - **1** 1b [[Psalm 119#^ps-119-35|Ps. 119:35]]

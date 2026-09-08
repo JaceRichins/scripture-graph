@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: num-30
 verses: 0
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---

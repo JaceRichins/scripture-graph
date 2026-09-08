@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: neh-4
 verses: 5
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Jews’ enemies seek to prevent them from rebuilding the walls of Jerusalem—Nehemiah arms the laborers and keeps the work progressing.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"neh-2","t":"Nehemiah 2","v":[10],"l":"Neh. 2:10 (10, 18–20)"}]}],"6":[{"m":"6b","refs":[{"c":"dc-52","t":"D&C 52","v":[39],"l":"D&amp;C 52:39"},{"c":"dc-75","t":"D&C 75","v":[3],"l":"75:3"},{"c":"dc-115","t":"D&C 115","v":[10],"l":"115:10"}]}],"7":[{"m":"7a","refs":[{"c":"neh-6","t":"Nehemiah 6","v":[16],"l":"Neh. 6:16"}]}],"14":[{"m":"14a","refs":[{"c":"dc-98","t":"D&C 98","v":[14],"l":"D&amp;C 98:14"},{"c":"dc-122","t":"D&C 122","v":[9],"l":"122:9"}]},{"m":"14d","refs":[{"c":"alma-46","t":"Alma 46","v":[12],"l":"Alma 46:12"}]}],"15":[{"m":"15a","refs":[{"c":"ps-33","t":"Psalm 33","v":[10],"l":"Ps. 33:10"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"neh-2","t":"Nehemiah 2","v":[10],"l":"Neh. 2:10 (10, 18–20)"}],"w":"Sanballat","o":30}],"6":[{"m":"6b","refs":[{"c":"dc-52","t":"D&C 52","v":[39],"l":"D&amp;C 52:39"},{"c":"dc-75","t":"D&C 75","v":[3],"l":"75:3"},{"c":"dc-115","t":"D&C 115","v":[10],"l":"115:10"}],"w":"work","o":108}],"7":[{"m":"7a","refs":[{"c":"neh-6","t":"Nehemiah 6","v":[16],"l":"Neh. 6:16"}],"w":"Sanballat","o":32}],"14":[{"m":"14a","refs":[{"c":"dc-98","t":"D&C 98","v":[14],"l":"D&amp;C 98:14"},{"c":"dc-122","t":"D&C 122","v":[9],"l":"122:9"}],"w":"afraid","o":112},{"m":"14d","refs":[{"c":"alma-46","t":"Alma 46","v":[12],"l":"Alma 46:12"}],"w":"wives","o":236}],"15":[{"m":"15a","refs":[{"c":"ps-33","t":"Psalm 33","v":[10],"l":"Ps. 33:10"}],"w":"counsel","o":96}]}
 ```
 
 - **1** 1a [[Nehemiah 2#^neh-2-10|Neh. 2:10 (10, 18–20)]]

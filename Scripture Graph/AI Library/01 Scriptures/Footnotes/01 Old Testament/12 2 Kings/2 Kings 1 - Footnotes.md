@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 2kgs-1
 verses: 5
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Ahaziah turns to Baalzebub to learn if he will live—Elijah prophesies Ahaziah’s death—Elijah calls down fire from heaven to consume the soldiers sent to apprehend him.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"2sam-8","t":"2 Samuel 8","v":[1,2],"l":"2 Sam. 8:2 (1–2)"},{"c":"2kgs-3","t":"2 Kings 3","v":[4,5],"l":"2 Kgs. 3:4–5"}]}],"2":[{"m":"2a","refs":[{"c":"matt-12","t":"Matthew 12","v":[24],"l":"Matt. 12:24"}]}],"8":[{"m":"8a","refs":[{"c":"mark-1","t":"Mark 1","v":[6],"l":"Mark 1:6"}]}],"10":[{"m":"10a","refs":[{"c":"luke-9","t":"Luke 9","v":[54,55,56],"l":"Luke 9:54 (54–56)"},{"c":"hel-13","t":"Helaman 13","v":[13],"l":"Hel. 13:13"},{"c":"3ne-9","t":"3 Nephi 9","v":[11],"l":"3 Ne. 9:11"}]}],"17":[{"m":"17b","refs":[{"c":"2kgs-3","t":"2 Kings 3","v":[1],"l":"2 Kgs. 3:1"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"2sam-8","t":"2 Samuel 8","v":[1,2],"l":"2 Sam. 8:2 (1–2)"},{"c":"2kgs-3","t":"2 Kings 3","v":[4,5],"l":"2 Kgs. 3:4–5"}],"w":"Moab","o":4}],"2":[{"m":"2a","refs":[{"c":"matt-12","t":"Matthew 12","v":[24],"l":"Matt. 12:24"}],"w":"Baal-zebub","o":154}],"8":[{"m":"8a","refs":[{"c":"mark-1","t":"Mark 1","v":[6],"l":"Mark 1:6"}],"w":"hairy","o":32}],"10":[{"m":"10a","refs":[{"c":"luke-9","t":"Luke 9","v":[54,55,56],"l":"Luke 9:54 (54–56)"},{"c":"hel-13","t":"Helaman 13","v":[13],"l":"Hel. 13:13"},{"c":"3ne-9","t":"3 Nephi 9","v":[11],"l":"3 Ne. 9:11"}],"w":"fire","o":84}],"17":[{"m":"17b","refs":[{"c":"2kgs-3","t":"2 Kings 3","v":[1],"l":"2 Kgs. 3:1"}],"w":"Jehoram","o":73}]}
 ```
 
 - **1** 1a [[2 Samuel 8#^2sam-8-1|2 Sam. 8:2 (1–2)]] · [[2 Kings 3#^2kgs-3-4|2 Kgs. 3:4–5]]

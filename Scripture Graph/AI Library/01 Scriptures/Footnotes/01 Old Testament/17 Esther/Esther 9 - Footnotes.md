@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: esth-9
 verses: 8
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Jews slay their enemies, including Haman’s ten sons—The Feast of Purim is instituted to commemorate their deliverance and victory.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"esth-3","t":"Esther 3","v":[12,13],"l":"Esth. 3:13 (12–13)"}]}],"2":[{"m":"2a","refs":[{"c":"esth-8","t":"Esther 8","v":[11],"l":"Esth. 8:11"}]},{"m":"2b","refs":[{"c":"esth-8","t":"Esther 8","v":[17],"l":"Esth. 8:17"}]}],"12":[{"m":"12a","refs":[{"c":"esth-7","t":"Esther 7","v":[2],"l":"Esth. 7:2"}]}],"19":[{"m":"19a","refs":[{"c":"esth-8","t":"Esther 8","v":[17],"l":"Esth. 8:17"}]},{"m":"19b","refs":[{"c":"neh-8","t":"Nehemiah 8","v":[10],"l":"Neh. 8:10 (10, 12)"}]}],"24":[{"m":"24a","refs":[{"c":"esth-3","t":"Esther 3","v":[6,7,8,9,10],"l":"Esth. 3:9 (6–10)"}]}],"29":[{"m":"29a","refs":[{"c":"esth-2","t":"Esther 2","v":[15],"l":"Esth. 2:15"}]},{"m":"29b","refs":[{"c":"esth-8","t":"Esther 8","v":[8,9,10,11,12],"l":"Esth. 8:10 (8–12)"}]}],"30":[{"m":"30a","refs":[{"c":"esth-1","t":"Esther 1","v":[1],"l":"Esth. 1:1"}]}],"31":[{"m":"31a","refs":[{"c":"esth-4","t":"Esther 4","v":[3],"l":"Esth. 4:3 (3, 16)"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"esth-3","t":"Esther 3","v":[12,13],"l":"Esth. 3:13 (12–13)"}],"w":"commandment","o":101}],"2":[{"m":"2a","refs":[{"c":"esth-8","t":"Esther 8","v":[11],"l":"Esth. 8:11"}],"w":"gathered","o":8},{"m":"2b","refs":[{"c":"esth-8","t":"Esther 8","v":[17],"l":"Esth. 8:17"}],"w":"fear","o":186}],"12":[{"m":"12a","refs":[{"c":"esth-7","t":"Esther 7","v":[2],"l":"Esth. 7:2"}],"w":"petition","o":216}],"19":[{"m":"19a","refs":[{"c":"esth-8","t":"Esther 8","v":[17],"l":"Esth. 8:17"}],"w":"day","o":154},{"m":"19b","refs":[{"c":"neh-8","t":"Nehemiah 8","v":[10],"l":"Neh. 8:10 (10, 12)"}],"w":"portions","o":173}],"24":[{"m":"24a","refs":[{"c":"esth-3","t":"Esther 3","v":[6,7,8,9,10],"l":"Esth. 3:9 (6–10)"}],"w":"devised","o":80}],"29":[{"m":"29a","refs":[{"c":"esth-2","t":"Esther 2","v":[15],"l":"Esth. 2:15"}],"w":"daughter","o":26},{"m":"29b","refs":[{"c":"esth-8","t":"Esther 8","v":[8,9,10,11,12],"l":"Esth. 8:10 (8–12)"}],"w":"letter","o":116}],"30":[{"m":"30a","refs":[{"c":"esth-1","t":"Esther 1","v":[1],"l":"Esth. 1:1"}],"w":"provinces","o":74}],"31":[{"m":"31a","refs":[{"c":"esth-4","t":"Esther 4","v":[3],"l":"Esth. 4:3 (3, 16)"}],"w":"fastings","o":204}]}
 ```
 
 - **1** 1a [[Esther 3#^esth-3-12|Esth. 3:13 (12–13)]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: rev-12
 verses: 10
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > John sees the imminent apostasy of the Church—He also sees the War in Heaven in the beginning when Satan was cast out—He sees the continuation of that war on earth.
 
 ```json
-{"1":[{"m":"1b","refs":[{"c":"dc-5","t":"D&C 5","v":[14],"l":"D&amp;C 5:14"}]}],"2":[{"m":"2a","refs":[{"c":"isa-66","t":"Isaiah 66","v":[7,8,9],"l":"Isa. 66:7 (7–9)"}]}],"4":[{"m":"4a","refs":[{"c":"dc-29","t":"D&C 29","v":[36,37,38],"l":"D&amp;C 29:36 (36–38)"}]}],"5":[{"m":"5a","refs":[{"c":"1ne-11","t":"1 Nephi 11","v":[25],"l":"1 Ne. 11:25"}]}],"6":[{"m":"6a","refs":[{"c":"amos-8","t":"Amos 8","v":[11,12],"l":"Amos 8:11 (11–12)"},{"c":"dc-33","t":"D&C 33","v":[5],"l":"D&amp;C 33:5"},{"c":"dc-86","t":"D&C 86","v":[3],"l":"86:3"}]}],"9":[{"m":"9a","refs":[{"c":"2ne-9","t":"2 Nephi 9","v":[8,9],"l":"2 Ne. 9:9 (8–9)"}]}],"10":[{"m":"10d","refs":[{"c":"isa-29","t":"Isaiah 29","v":[20],"l":"Isa. 29:20"},{"c":"dc-88","t":"D&C 88","v":[124],"l":"D&amp;C 88:124"}]}],"11":[{"m":"11a","refs":[{"c":"john-16","t":"John 16","v":[33],"l":"John 16:33"},{"c":"1jn-1","t":"1 John 1","v":[7],"l":"1 Jn. 1:7"}]}],"13":[{"m":"13a","refs":[{"c":"dan-7","t":"Daniel 7","v":[25],"l":"Dan. 7:25"},{"c":"dan-12","t":"Daniel 12","v":[7],"l":"12:7"},{"c":"dc-10","t":"D&C 10","v":[32],"l":"D&amp;C 10:32"},{"c":"dc-132","t":"D&C 132","v":[57],"l":"132:57"}]}],"17":[{"m":"17b","refs":[{"c":"dan-7","t":"Daniel 7","v":[21],"l":"Dan. 7:21"}]}]}
+{"1":[{"m":"1b","refs":[{"c":"dc-5","t":"D&C 5","v":[14],"l":"D&amp;C 5:14"}],"w":"woman","o":45}],"2":[{"m":"2a","refs":[{"c":"isa-66","t":"Isaiah 66","v":[7,8,9],"l":"Isa. 66:7 (7–9)"}],"w":"child","o":18}],"4":[{"m":"4a","refs":[{"c":"dc-29","t":"D&C 29","v":[36,37,38],"l":"D&amp;C 29:36 (36–38)"}],"w":"third","o":21}],"5":[{"m":"5a","refs":[{"c":"1ne-11","t":"1 Nephi 11","v":[25],"l":"1 Ne. 11:25"}],"w":"rod of iron","o":69}],"6":[{"m":"6a","refs":[{"c":"amos-8","t":"Amos 8","v":[11,12],"l":"Amos 8:11 (11–12)"},{"c":"dc-33","t":"D&C 33","v":[5],"l":"D&amp;C 33:5"},{"c":"dc-86","t":"D&C 86","v":[3],"l":"86:3"}],"w":"woman","o":7}],"9":[{"m":"9a","refs":[{"c":"2ne-9","t":"2 Nephi 9","v":[8,9],"l":"2 Ne. 9:9 (8–9)"}],"w":"cast out","o":24}],"10":[{"m":"10d","refs":[{"c":"isa-29","t":"Isaiah 29","v":[20],"l":"Isa. 29:20"},{"c":"dc-88","t":"D&C 88","v":[124],"l":"D&amp;C 88:124"}],"w":"accuser","o":139}],"11":[{"m":"11a","refs":[{"c":"john-16","t":"John 16","v":[33],"l":"John 16:33"},{"c":"1jn-1","t":"1 John 1","v":[7],"l":"1 Jn. 1:7"}],"w":"overcame","o":8}],"13":[{"m":"13a","refs":[{"c":"dan-7","t":"Daniel 7","v":[25],"l":"Dan. 7:25"},{"c":"dan-12","t":"Daniel 12","v":[7],"l":"12:7"},{"c":"dc-10","t":"D&C 10","v":[32],"l":"D&amp;C 10:32"},{"c":"dc-132","t":"D&C 132","v":[57],"l":"132:57"}],"w":"persecuted","o":59}],"17":[{"m":"17b","refs":[{"c":"dan-7","t":"Daniel 7","v":[21],"l":"Dan. 7:21"}],"w":"war","o":55}]}
 ```
 
 - **1** 1b [[D&C 5#^dc-5-14|D&amp;C 5:14]]

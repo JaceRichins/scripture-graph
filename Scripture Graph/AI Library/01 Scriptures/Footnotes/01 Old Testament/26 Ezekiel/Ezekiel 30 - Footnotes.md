@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ezek-30
 verses: 8
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Egypt and its helpers will be made desolate by Babylon.
 
 ```json
-{"3":[{"m":"3a","refs":[{"c":"ezek-34","t":"Ezekiel 34","v":[12],"l":"Ezek. 34:12"},{"c":"dc-109","t":"D&C 109","v":[61],"l":"D&amp;C 109:61"}]}],"5":[{"m":"5a","refs":[{"c":"zeph-2","t":"Zephaniah 2","v":[12],"l":"Zeph. 2:12"}]},{"m":"5c","refs":[{"c":"isa-66","t":"Isaiah 66","v":[19],"l":"Isa. 66:19"},{"c":"jer-46","t":"Jeremiah 46","v":[9],"l":"Jer. 46:9"},{"c":"ezek-27","t":"Ezekiel 27","v":[10],"l":"Ezek. 27:10"}]}],"9":[{"m":"9a","refs":[{"c":"isa-20","t":"Isaiah 20","v":[4],"l":"Isa. 20:4"}]}],"11":[{"m":"11a","refs":[{"c":"ezek-28","t":"Ezekiel 28","v":[7],"l":"Ezek. 28:7"}]}],"12":[{"m":"12a","refs":[{"c":"isa-19","t":"Isaiah 19","v":[5],"l":"Isa. 19:5"},{"c":"jer-51","t":"Jeremiah 51","v":[36],"l":"Jer. 51:36"}]}],"13":[{"m":"13a","refs":[{"c":"jer-43","t":"Jeremiah 43","v":[12],"l":"Jer. 43:12"}]},{"m":"13c","refs":[{"c":"zech-10","t":"Zechariah 10","v":[11],"l":"Zech. 10:11"}]}],"14":[{"m":"14a","refs":[{"c":"jer-46","t":"Jeremiah 46","v":[25],"l":"Jer. 46:25"},{"c":"nahum-3","t":"Nahum 3","v":[8],"l":"Nahum 3:8"}]}],"23":[{"m":"23a","refs":[{"c":"jer-46","t":"Jeremiah 46","v":[19],"l":"Jer. 46:19"},{"c":"ezek-29","t":"Ezekiel 29","v":[12],"l":"Ezek. 29:12"}]}]}
+{"3":[{"m":"3a","refs":[{"c":"ezek-34","t":"Ezekiel 34","v":[12],"l":"Ezek. 34:12"},{"c":"dc-109","t":"D&C 109","v":[61],"l":"D&amp;C 109:61"}],"w":"cloudy","o":56}],"5":[{"m":"5a","refs":[{"c":"zeph-2","t":"Zephaniah 2","v":[12],"l":"Zeph. 2:12"}],"w":"Ethiopia","o":0},{"m":"5c","refs":[{"c":"isa-66","t":"Isaiah 66","v":[19],"l":"Isa. 66:19"},{"c":"jer-46","t":"Jeremiah 46","v":[9],"l":"Jer. 46:9"},{"c":"ezek-27","t":"Ezekiel 27","v":[10],"l":"Ezek. 27:10"}],"w":"Lydia","o":23}],"9":[{"m":"9a","refs":[{"c":"isa-20","t":"Isaiah 20","v":[4],"l":"Isa. 20:4"}],"w":"Ethiopians","o":75}],"11":[{"m":"11a","refs":[{"c":"ezek-28","t":"Ezekiel 28","v":[7],"l":"Ezek. 28:7"}],"w":"swords","o":120}],"12":[{"m":"12a","refs":[{"c":"isa-19","t":"Isaiah 19","v":[5],"l":"Isa. 19:5"},{"c":"jer-51","t":"Jeremiah 51","v":[36],"l":"Jer. 51:36"}],"w":"dry","o":26}],"13":[{"m":"13a","refs":[{"c":"jer-43","t":"Jeremiah 43","v":[12],"l":"Jer. 43:12"}],"w":"idols","o":48},{"m":"13c","refs":[{"c":"zech-10","t":"Zechariah 10","v":[11],"l":"Zech. 10:11"}],"w":"prince","o":134}],"14":[{"m":"14a","refs":[{"c":"jer-46","t":"Jeremiah 46","v":[25],"l":"Jer. 46:25"},{"c":"nahum-3","t":"Nahum 3","v":[8],"l":"Nahum 3:8"}],"w":"No","o":90}],"23":[{"m":"23a","refs":[{"c":"jer-46","t":"Jeremiah 46","v":[19],"l":"Jer. 46:19"},{"c":"ezek-29","t":"Ezekiel 29","v":[12],"l":"Ezek. 29:12"}],"w":"scatter","o":10}]}
 ```
 
 - **3** 3a [[Ezekiel 34#^ezek-34-12|Ezek. 34:12]] · [[D&C 109#^dc-109-61|D&amp;C 109:61]]

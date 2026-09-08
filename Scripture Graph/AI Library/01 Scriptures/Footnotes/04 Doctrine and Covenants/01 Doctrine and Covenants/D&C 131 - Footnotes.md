@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: dc-131
 verses: 7
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:02Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > 1–4, Celestial marriage is essential to exaltation in the highest heaven; 5–6, How men are sealed up unto eternal life is explained; 7–8, All spirit is matter.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"dc-76","t":"D&C 76","v":[70],"l":"D&amp;C 76:70"}]}],"2":[{"m":"2a","refs":[{"c":"dc-132","t":"D&C 132","v":[5,6,7,8,9,10],"l":"D&amp;C 132:21 (5–21)"}]}],"4":[{"m":"4a","refs":[{"c":"matt-22","t":"Matthew 22","v":[23,24,25,26,27,28],"l":"Matt. 22:30 (23–33)"},{"c":"dc-132","t":"D&C 132","v":[16,17],"l":"D&amp;C 132:16–17"}]}],"5":[{"m":"5a","refs":[{"c":"2pet-1","t":"2 Peter 1","v":[3,4,5,6,7,8],"l":"2 Pet. 1:19 (3–21)"}]},{"m":"5c","refs":[{"c":"dc-68","t":"D&C 68","v":[12],"l":"D&amp;C 68:12"},{"c":"dc-88","t":"D&C 88","v":[4],"l":"88:4"}]}],"6":[{"m":"6b","refs":[{"c":"mal-2","t":"Malachi 2","v":[7,8,9],"l":"Mal. 2:7 (7–9)"},{"c":"dc-90","t":"D&C 90","v":[14,15],"l":"D&amp;C 90:15 (14–15)"},{"c":"dc-107","t":"D&C 107","v":[99,100],"l":"107:99 (99–100)"}]}],"7":[{"m":"7b","refs":[{"c":"dc-76","t":"D&C 76","v":[12],"l":"D&amp;C 76:12"},{"c":"dc-97","t":"D&C 97","v":[16],"l":"97:16"},{"c":"moses-1","t":"Moses 1","v":[11],"l":"Moses 1:11"}]}],"8":[{"m":"8a","refs":[{"c":"dc-129","t":"D&C 129","v":[8],"l":"D&amp;C 129:8"}]},{"m":"8b","refs":[{"c":"dc-77","t":"D&C 77","v":[2],"l":"D&amp;C 77:2"},{"c":"moses-3","t":"Moses 3","v":[5,6,7,8,9],"l":"Moses 3:5 (5–9)"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"dc-76","t":"D&C 76","v":[70],"l":"D&amp;C 76:70"}],"w":"celestial","o":6}],"2":[{"m":"2a","refs":[{"c":"dc-132","t":"D&C 132","v":[5,6,7,8,9,10],"l":"D&amp;C 132:21 (5–21)"}],"w":"highest","o":26}],"4":[{"m":"4a","refs":[{"c":"matt-22","t":"Matthew 22","v":[23,24,25,26,27,28],"l":"Matt. 22:30 (23–33)"},{"c":"dc-132","t":"D&C 132","v":[16,17],"l":"D&amp;C 132:16–17"}],"w":"increase","o":82}],"5":[{"m":"5a","refs":[{"c":"2pet-1","t":"2 Peter 1","v":[3,4,5,6,7,8],"l":"2 Pet. 1:19 (3–21)"}],"w":"prophecy","o":39},{"m":"5c","refs":[{"c":"dc-68","t":"D&C 68","v":[12],"l":"D&amp;C 68:12"},{"c":"dc-88","t":"D&C 88","v":[4],"l":"88:4"}],"w":"eternal life","o":92}],"6":[{"m":"6b","refs":[{"c":"mal-2","t":"Malachi 2","v":[7,8,9],"l":"Mal. 2:7 (7–9)"},{"c":"dc-90","t":"D&C 90","v":[14,15],"l":"D&amp;C 90:15 (14–15)"},{"c":"dc-107","t":"D&C 107","v":[99,100],"l":"107:99 (99–100)"}],"w":"ignorance","o":39}],"7":[{"m":"7b","refs":[{"c":"dc-76","t":"D&C 76","v":[12],"l":"D&amp;C 76:12"},{"c":"dc-97","t":"D&C 97","v":[16],"l":"97:16"},{"c":"moses-1","t":"Moses 1","v":[11],"l":"Moses 1:11"}],"w":"purer","o":122}],"8":[{"m":"8a","refs":[{"c":"dc-129","t":"D&C 129","v":[8],"l":"D&amp;C 129:8"}],"w":"see","o":9},{"m":"8b","refs":[{"c":"dc-77","t":"D&C 77","v":[2],"l":"D&amp;C 77:2"},{"c":"moses-3","t":"Moses 3","v":[5,6,7,8,9],"l":"Moses 3:5 (5–9)"}],"w":"matter","o":76}]}
 ```
 
 - **1** 1a [[D&C 76#^dc-76-70|D&amp;C 76:70]]

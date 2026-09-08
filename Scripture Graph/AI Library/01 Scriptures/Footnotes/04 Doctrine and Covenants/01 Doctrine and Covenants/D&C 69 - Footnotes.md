@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: dc-69
 verses: 4
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:02Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > 1–2, John Whitmer is to accompany Oliver Cowdery to Missouri; 3–8, He is also to preach and to collect, record, and write historical data.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"dc-68","t":"D&C 68","v":[32],"l":"D&amp;C 68:32"}]}],"3":[{"m":"3b","refs":[{"c":"dc-21","t":"D&C 21","v":[1],"l":"D&amp;C 21:1"},{"c":"dc-47","t":"D&C 47","v":[1,2,3],"l":"47:1 (1–3)"},{"c":"dc-85","t":"D&C 85","v":[1],"l":"85:1"}]}],"4":[{"m":"4a","refs":[{"c":"prov-20","t":"Proverbs 20","v":[18],"l":"Prov. 20:18"}]}],"6":[{"m":"6a","refs":[{"c":"dc-57","t":"D&C 57","v":[3],"l":"D&amp;C 57:3"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"dc-68","t":"D&C 68","v":[32],"l":"D&amp;C 68:32"}],"w":"carry","o":182}],"3":[{"m":"3b","refs":[{"c":"dc-21","t":"D&C 21","v":[1],"l":"D&amp;C 21:1"},{"c":"dc-47","t":"D&C 47","v":[1,2,3],"l":"47:1 (1–3)"},{"c":"dc-85","t":"D&C 85","v":[1],"l":"85:1"}],"w":"history","o":53}],"4":[{"m":"4a","refs":[{"c":"prov-20","t":"Proverbs 20","v":[18],"l":"Prov. 20:18"}],"w":"counsel","o":24}],"6":[{"m":"6a","refs":[{"c":"dc-57","t":"D&C 57","v":[3],"l":"D&amp;C 57:3"}],"w":"seat","o":31}]}
 ```
 
 - **1** 1a [[D&C 68#^dc-68-32|D&amp;C 68:32]]

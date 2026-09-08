@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: jer-40
 verses: 6
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The king of Babylon makes Gedaliah governor over the remnant left in Judah—Jeremiah is freed and dwells among them.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"matt-2","t":"Matthew 2","v":[18],"l":"Matt. 2:18"}]}],"3":[{"m":"3a","refs":[{"c":"dc-101","t":"D&C 101","v":[1,2,3,4,5,6],"l":"D&amp;C 101:2 (1–9)"}]},{"m":"3b","refs":[{"c":"jer-44","t":"Jeremiah 44","v":[23],"l":"Jer. 44:23"}]}],"5":[{"m":"5a","refs":[{"c":"2kgs-25","t":"2 Kings 25","v":[22,23,24,25,26],"l":"2 Kgs. 25:22 (22–26)"},{"c":"jer-43","t":"Jeremiah 43","v":[6],"l":"Jer. 43:6"}]}],"7":[{"m":"7a","refs":[{"c":"2kgs-25","t":"2 Kings 25","v":[12],"l":"2 Kgs. 25:12"}]}],"8":[{"m":"8a","refs":[{"c":"jer-43","t":"Jeremiah 43","v":[2],"l":"Jer. 43:2"}]}],"13":[{"m":"13a","refs":[{"c":"jer-43","t":"Jeremiah 43","v":[4],"l":"Jer. 43:4"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"matt-2","t":"Matthew 2","v":[18],"l":"Matt. 2:18"}],"w":"Judah","o":223}],"3":[{"m":"3a","refs":[{"c":"dc-101","t":"D&C 101","v":[1,2,3,4,5,6],"l":"D&amp;C 101:2 (1–9)"}],"w":"sinned","o":81},{"m":"3b","refs":[{"c":"jer-44","t":"Jeremiah 44","v":[23],"l":"Jer. 44:23"}],"w":"thing","o":150}],"5":[{"m":"5a","refs":[{"c":"2kgs-25","t":"2 Kings 25","v":[22,23,24,25,26],"l":"2 Kgs. 25:22 (22–26)"},{"c":"jer-43","t":"Jeremiah 43","v":[6],"l":"Jer. 43:6"}],"w":"Gedaliah","o":60}],"7":[{"m":"7a","refs":[{"c":"2kgs-25","t":"2 Kings 25","v":[12],"l":"2 Kgs. 25:12"}],"w":"poor","o":249}],"8":[{"m":"8a","refs":[{"c":"jer-43","t":"Jeremiah 43","v":[2],"l":"Jer. 43:2"}],"w":"Johanan","o":76}],"13":[{"m":"13a","refs":[{"c":"jer-43","t":"Jeremiah 43","v":[4],"l":"Jer. 43:4"}],"w":"captains","o":49}]}
 ```
 
 - **1** 1a [[Matthew 2#^matt-2-18|Matt. 2:18]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: judg-6
 verses: 13
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Israel is in bondage to the Midianites—An angel appears to Gideon and calls him to deliver Israel—He overthrows the altar of Baal, the Spirit of the Lord rests upon him, and the Lord gives him a sign to show he is called to deliver Israel.
 
 ```json
-{"3":[{"m":"3a","refs":[{"c":"gen-25","t":"Genesis 25","v":[6],"l":"Gen. 25:6"}]}],"10":[{"m":"10a","refs":[{"c":"2kgs-17","t":"2 Kings 17","v":[35],"l":"2 Kgs. 17:35"}]}],"13":[{"m":"13a","refs":[{"c":"morm-9","t":"Mormon 9","v":[15,16,17,18,19,20],"l":"Morm. 9:20 (15–20)"}]}],"14":[{"m":"14a","refs":[{"c":"dc-4","t":"D&C 4","v":[2],"l":"D&amp;C 4:2"}]}],"15":[{"m":"15a","refs":[{"c":"1sam-9","t":"1 Samuel 9","v":[21],"l":"1 Sam. 9:21"}]}],"16":[{"m":"16a","refs":[{"c":"josh-1","t":"Joshua 1","v":[5],"l":"Josh. 1:5"}]}],"17":[{"m":"17b","refs":[{"c":"gen-15","t":"Genesis 15","v":[7,8,9],"l":"Gen. 15:8 (7–9)"}]}],"21":[{"m":"21a","refs":[{"c":"lev-9","t":"Leviticus 9","v":[24],"l":"Lev. 9:24"},{"c":"1ne-1","t":"1 Nephi 1","v":[6],"l":"1 Ne. 1:6"}]}],"22":[{"m":"22b","refs":[{"c":"num-12","t":"Numbers 12","v":[8],"l":"Num. 12:8"}]}],"24":[{"m":"24a","refs":[{"c":"ex-17","t":"Exodus 17","v":[15],"l":"Ex. 17:15"}]}],"25":[{"m":"25a","refs":[{"c":"2kgs-3","t":"2 Kings 3","v":[2],"l":"2 Kgs. 3:2"}]},{"m":"25b","refs":[{"c":"deut-7","t":"Deuteronomy 7","v":[5],"l":"Deut. 7:5"},{"c":"2kgs-18","t":"2 Kings 18","v":[4],"l":"2 Kgs. 18:4"}]}],"32":[{"m":"32a","refs":[{"c":"1sam-12","t":"1 Samuel 12","v":[11],"l":"1 Sam. 12:11"}]}],"39":[{"m":"39a","refs":[{"c":"gen-18","t":"Genesis 18","v":[32],"l":"Gen. 18:32"}]}]}
+{"3":[{"m":"3a","refs":[{"c":"gen-25","t":"Genesis 25","v":[6],"l":"Gen. 25:6"}],"w":"east","o":109}],"10":[{"m":"10a","refs":[{"c":"2kgs-17","t":"2 Kings 17","v":[35],"l":"2 Kgs. 17:35"}],"w":"fear not","o":44}],"13":[{"m":"13a","refs":[{"c":"morm-9","t":"Mormon 9","v":[15,16,17,18,19,20],"l":"Morm. 9:20 (15–20)"}],"w":"miracles","o":116}],"14":[{"m":"14a","refs":[{"c":"dc-4","t":"D&C 4","v":[2],"l":"D&amp;C 4:2"}],"w":"might","o":54}],"15":[{"m":"15a","refs":[{"c":"1sam-9","t":"1 Samuel 9","v":[21],"l":"1 Sam. 9:21"}],"w":"least","o":116}],"16":[{"m":"16a","refs":[{"c":"josh-1","t":"Joshua 1","v":[5],"l":"Josh. 1:5"}],"w":"with thee","o":44}],"17":[{"m":"17b","refs":[{"c":"gen-15","t":"Genesis 15","v":[7,8,9],"l":"Gen. 15:8 (7–9)"}],"w":"sign","o":74}],"21":[{"m":"21a","refs":[{"c":"lev-9","t":"Leviticus 9","v":[24],"l":"Lev. 9:24"},{"c":"1ne-1","t":"1 Nephi 1","v":[6],"l":"1 Ne. 1:6"}],"w":"fire","o":147}],"22":[{"m":"22b","refs":[{"c":"num-12","t":"Numbers 12","v":[8],"l":"Num. 12:8"}],"w":"face","o":141}],"24":[{"m":"24a","refs":[{"c":"ex-17","t":"Exodus 17","v":[15],"l":"Ex. 17:15"}],"w":"Jehovah-shalom","o":61}],"25":[{"m":"25a","refs":[{"c":"2kgs-3","t":"2 Kings 3","v":[2],"l":"2 Kgs. 3:2"}],"w":"Baal","o":171},{"m":"25b","refs":[{"c":"deut-7","t":"Deuteronomy 7","v":[5],"l":"Deut. 7:5"},{"c":"2kgs-18","t":"2 Kings 18","v":[4],"l":"2 Kgs. 18:4"}],"w":"grove","o":213}],"32":[{"m":"32a","refs":[{"c":"1sam-12","t":"1 Samuel 12","v":[11],"l":"1 Sam. 12:11"}],"w":"Jerubbaal","o":35}],"39":[{"m":"39a","refs":[{"c":"gen-18","t":"Genesis 18","v":[32],"l":"Gen. 18:32"}],"w":"anger","o":39}]}
 ```
 
 - **3** 3a [[Genesis 25#^gen-25-6|Gen. 25:6]]

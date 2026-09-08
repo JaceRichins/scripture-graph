@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: heb-6
 verses: 8
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Let us go on to perfection—The sons of perdition crucify Christ anew—God swears with an oath that the faithful will be saved.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"dc-68","t":"D&C 68","v":[25],"l":"D&amp;C 68:25"}]},{"m":"2c","refs":[{"c":"dc-107","t":"D&C 107","v":[67],"l":"D&amp;C 107:67"}]}],"4":[{"m":"4a","refs":[{"c":"2pet-2","t":"2 Peter 2","v":[20],"l":"2 Pet. 2:20"}]}],"5":[{"m":"5a","refs":[{"c":"1pet-2","t":"1 Peter 2","v":[1,2,3],"l":"1 Pet. 2:3 (1–3)"}]}],"8":[{"m":"8a","refs":[{"c":"dc-104","t":"D&C 104","v":[3],"l":"D&amp;C 104:3"}]}],"10":[{"m":"10b","refs":[{"c":"1thes-1","t":"1 Thessalonians 1","v":[3],"l":"1 Thes. 1:3"}]},{"m":"10c","refs":[{"c":"col-1","t":"Colossians 1","v":[4],"l":"Col. 1:4"}]}],"12":[{"m":"12b","refs":[{"c":"heb-10","t":"Hebrews 10","v":[22,23,24],"l":"Heb. 10:22 (22–24)"}]}],"13":[{"m":"13b","refs":[{"c":"jer-44","t":"Jeremiah 44","v":[26],"l":"Jer. 44:26"},{"c":"amos-6","t":"Amos 6","v":[8],"l":"Amos 6:8"}]}],"19":[{"m":"19a","refs":[{"c":"ether-12","t":"Ether 12","v":[4],"l":"Ether 12:4"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"dc-68","t":"D&C 68","v":[25],"l":"D&amp;C 68:25"}],"w":"doctrine","o":6},{"m":"2c","refs":[{"c":"dc-107","t":"D&C 107","v":[67],"l":"D&amp;C 107:67"}],"w":"laying","o":32}],"4":[{"m":"4a","refs":[{"c":"2pet-2","t":"2 Peter 2","v":[20],"l":"2 Pet. 2:20"}],"w":"enlightened","o":44}],"5":[{"m":"5a","refs":[{"c":"1pet-2","t":"1 Peter 2","v":[1,2,3],"l":"1 Pet. 2:3 (1–3)"}],"w":"tasted","o":8}],"8":[{"m":"8a","refs":[{"c":"dc-104","t":"D&C 104","v":[3],"l":"D&amp;C 104:3"}],"w":"cursing","o":70}],"10":[{"m":"10b","refs":[{"c":"1thes-1","t":"1 Thessalonians 1","v":[3],"l":"1 Thes. 1:3"}],"w":"labour","o":48},{"m":"10c","refs":[{"c":"col-1","t":"Colossians 1","v":[4],"l":"Col. 1:4"}],"w":"love","o":56}],"12":[{"m":"12b","refs":[{"c":"heb-10","t":"Hebrews 10","v":[22,23,24],"l":"Heb. 10:22 (22–24)"}],"w":"faith","o":57}],"13":[{"m":"13b","refs":[{"c":"jer-44","t":"Jeremiah 44","v":[26],"l":"Jer. 44:26"},{"c":"amos-6","t":"Amos 6","v":[8],"l":"Amos 6:8"}],"w":"sware","o":76}],"19":[{"m":"19a","refs":[{"c":"ether-12","t":"Ether 12","v":[4],"l":"Ether 12:4"}],"w":"anchor","o":24}]}
 ```
 
 - **2** 2a [[D&C 68#^dc-68-25|D&amp;C 68:25]]; 2c [[D&C 107#^dc-107-67|D&amp;C 107:67]]

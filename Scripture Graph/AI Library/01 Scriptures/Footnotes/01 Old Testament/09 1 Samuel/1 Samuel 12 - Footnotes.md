@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1sam-12
 verses: 10
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Samuel testifies of his own just dealings in Israel—He reproves the people for their ingratitude—He exhorts them to keep the commandments lest the Lord consume them and their king.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"mosiah-2","t":"Mosiah 2","v":[9,10,11,12,13,14],"l":"Mosiah 2:12 (9–41)"}]}],"8":[{"m":"8a","refs":[{"c":"ex-2","t":"Exodus 2","v":[23],"l":"Ex. 2:23"}]}],"11":[{"m":"11a","refs":[{"c":"judg-6","t":"Judges 6","v":[14],"l":"Judg. 6:32 (14, 32)"}]},{"m":"11b","refs":[{"c":"judg-11","t":"Judges 11","v":[1,2,3,4,5,6],"l":"Judg. 11:1 (1–11)"}]}],"12":[{"m":"12a","refs":[{"c":"hosea-13","t":"Hosea 13","v":[4,5,6,7,8,9],"l":"Hosea 13:10 (4–11)"},{"c":"dc-38","t":"D&C 38","v":[21],"l":"D&amp;C 38:21"}]}],"15":[{"m":"15b","refs":[{"c":"mosiah-7","t":"Mosiah 7","v":[29],"l":"Mosiah 7:29"}]}],"20":[{"m":"20a","refs":[{"c":"ex-32","t":"Exodus 32","v":[30],"l":"Ex. 32:30"}]}],"21":[{"m":"21a","refs":[{"c":"eccl-1","t":"Ecclesiastes 1","v":[2,3],"l":"Eccl. 1:3 (2–3)"},{"c":"matt-16","t":"Matthew 16","v":[26],"l":"Matt. 16:26"}]}],"22":[{"m":"22a","refs":[{"c":"ps-23","t":"Psalm 23","v":[3],"l":"Ps. 23:3"},{"c":"1jn-2","t":"1 John 2","v":[12],"l":"1 Jn. 2:12"},{"c":"1ne-20","t":"1 Nephi 20","v":[9],"l":"1 Ne. 20:9"}]}],"23":[{"m":"23a","refs":[{"c":"1kgs-8","t":"1 Kings 8","v":[33,34,35,36],"l":"1 Kgs. 8:36 (33–36)"},{"c":"john-14","t":"John 14","v":[6],"l":"John 14:6"}]}],"24":[{"m":"24c","refs":[{"c":"mosiah-2","t":"Mosiah 2","v":[20,21],"l":"Mosiah 2:20 (20–21)"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"mosiah-2","t":"Mosiah 2","v":[9,10,11,12,13,14],"l":"Mosiah 2:12 (9–41)"}],"w":"walked","o":120}],"8":[{"m":"8a","refs":[{"c":"ex-2","t":"Exodus 2","v":[23],"l":"Ex. 2:23"}],"w":"cried","o":48}],"11":[{"m":"11a","refs":[{"c":"judg-6","t":"Judges 6","v":[14],"l":"Judg. 6:32 (14, 32)"}],"w":"Jerubbaal","o":17},{"m":"11b","refs":[{"c":"judg-11","t":"Judges 11","v":[1,2,3,4,5,6],"l":"Judg. 11:1 (1–11)"}],"w":"Jephthah","o":42}],"12":[{"m":"12a","refs":[{"c":"hosea-13","t":"Hosea 13","v":[4,5,6,7,8,9],"l":"Hosea 13:10 (4–11)"},{"c":"dc-38","t":"D&C 38","v":[21],"l":"D&amp;C 38:21"}],"w":"king","o":165}],"15":[{"m":"15b","refs":[{"c":"mosiah-7","t":"Mosiah 7","v":[29],"l":"Mosiah 7:29"}],"w":"hand","o":106}],"20":[{"m":"20a","refs":[{"c":"ex-32","t":"Exodus 32","v":[30],"l":"Ex. 32:30"}],"w":"turn","o":82}],"21":[{"m":"21a","refs":[{"c":"eccl-1","t":"Ecclesiastes 1","v":[2,3],"l":"Eccl. 1:3 (2–3)"},{"c":"matt-16","t":"Matthew 16","v":[26],"l":"Matt. 16:26"}],"w":"profit","o":76}],"22":[{"m":"22a","refs":[{"c":"ps-23","t":"Psalm 23","v":[3],"l":"Ps. 23:3"},{"c":"1jn-2","t":"1 John 2","v":[12],"l":"1 Jn. 2:12"},{"c":"1ne-20","t":"1 Nephi 20","v":[9],"l":"1 Ne. 20:9"}],"w":"name’s","o":54}],"23":[{"m":"23a","refs":[{"c":"1kgs-8","t":"1 Kings 8","v":[33,34,35,36],"l":"1 Kgs. 8:36 (33–36)"},{"c":"john-14","t":"John 14","v":[6],"l":"John 14:6"}],"w":"way","o":137}],"24":[{"m":"24c","refs":[{"c":"mosiah-2","t":"Mosiah 2","v":[20,21],"l":"Mosiah 2:20 (20–21)"}],"w":"consider","o":63}]}
 ```
 
 - **2** 2a [[Mosiah 2#^mosiah-2-9|Mosiah 2:12 (9–41)]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1kgs-15
 verses: 8
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Abijam reigns in wickedness and then Asa reigns in righteousness in Judah—Nadab and then Baasha reign in wickedness in Israel—Baasha destroys the house of Jeroboam.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"2chr-11","t":"2 Chronicles 11","v":[20],"l":"2 Chr. 11:20"}]}],"5":[{"m":"5a","refs":[{"c":"1kgs-9","t":"1 Kings 9","v":[4],"l":"1 Kgs. 9:4"}]},{"m":"5b","refs":[{"c":"deut-17","t":"Deuteronomy 17","v":[20],"l":"Deut. 17:20"}]},{"m":"5c","refs":[{"c":"2sam-11","t":"2 Samuel 11","v":[3,4,5,6,7,8],"l":"2 Sam. 11:3 (3–15)"},{"c":"1kgs-14","t":"1 Kings 14","v":[8],"l":"1 Kgs. 14:8"},{"c":"dc-132","t":"D&C 132","v":[39],"l":"D&amp;C 132:39"}]}],"10":[{"m":"10a","refs":[{"c":"2kgs-8","t":"2 Kings 8","v":[26],"l":"2 Kgs. 8:26"}]}],"14":[{"m":"14a","refs":[{"c":"mosiah-29","t":"Mosiah 29","v":[13],"l":"Mosiah 29:13"}]}],"18":[{"m":"18a","refs":[{"c":"2kgs-12","t":"2 Kings 12","v":[18],"l":"2 Kgs. 12:18"}]},{"m":"18b","refs":[{"c":"2chr-16","t":"2 Chronicles 16","v":[7,8,9],"l":"2 Chr. 16:7 (7–9)"}]}],"24":[{"m":"24a","refs":[{"c":"2kgs-3","t":"2 Kings 3","v":[7],"l":"2 Kgs. 3:7"}]}],"26":[{"m":"26b","refs":[{"c":"mosiah-11","t":"Mosiah 11","v":[27,28,29],"l":"Mosiah 11:29 (27–29)"}]}],"29":[{"m":"29a","refs":[{"c":"1kgs-14","t":"1 Kings 14","v":[1,2,3,4,5,6],"l":"1 Kgs. 14:10 (1–18)"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"2chr-11","t":"2 Chronicles 11","v":[20],"l":"2 Chr. 11:20"}],"w":"Maachah","o":62}],"5":[{"m":"5a","refs":[{"c":"1kgs-9","t":"1 Kings 9","v":[4],"l":"1 Kgs. 9:4"}],"w":"David","o":7},{"m":"5b","refs":[{"c":"deut-17","t":"Deuteronomy 17","v":[20],"l":"Deut. 17:20"}],"w":"turned","o":65},{"m":"5c","refs":[{"c":"2sam-11","t":"2 Samuel 11","v":[3,4,5,6,7,8],"l":"2 Sam. 11:3 (3–15)"},{"c":"1kgs-14","t":"1 Kings 14","v":[8],"l":"1 Kgs. 14:8"},{"c":"dc-132","t":"D&C 132","v":[39],"l":"D&amp;C 132:39"}],"w":"Uriah","o":170}],"10":[{"m":"10a","refs":[{"c":"2kgs-8","t":"2 Kings 8","v":[26],"l":"2 Kgs. 8:26"}],"w":"mother’s name","o":56}],"14":[{"m":"14a","refs":[{"c":"mosiah-29","t":"Mosiah 29","v":[13],"l":"Mosiah 29:13"}],"w":"perfect","o":66}],"18":[{"m":"18a","refs":[{"c":"2kgs-12","t":"2 Kings 12","v":[18],"l":"2 Kgs. 12:18"}],"w":"silver","o":21},{"m":"18b","refs":[{"c":"2chr-16","t":"2 Chronicles 16","v":[7,8,9],"l":"2 Chr. 16:7 (7–9)"}],"w":"Ben-hadad","o":212}],"24":[{"m":"24a","refs":[{"c":"2kgs-3","t":"2 Kings 3","v":[7],"l":"2 Kgs. 3:7"}],"w":"Jehoshaphat","o":100}],"26":[{"m":"26b","refs":[{"c":"mosiah-11","t":"Mosiah 11","v":[27,28,29],"l":"Mosiah 11:29 (27–29)"}],"w":"sin","o":87}],"29":[{"m":"29a","refs":[{"c":"1kgs-14","t":"1 Kings 14","v":[1,2,3,4,5,6],"l":"1 Kgs. 14:10 (1–18)"}],"w":"Jeroboam","o":68}]}
 ```
 
 - **2** 2a [[2 Chronicles 11#^2chr-11-20|2 Chr. 11:20]]

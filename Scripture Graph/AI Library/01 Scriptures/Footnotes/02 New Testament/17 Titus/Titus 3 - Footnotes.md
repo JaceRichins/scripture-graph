@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: titus-3
 verses: 5
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Saints must live righteously after baptism.
 
 ```json
-{"2":[{"m":"2c","refs":[{"c":"dc-38","t":"D&C 38","v":[41],"l":"D&amp;C 38:41"}]}],"7":[{"m":"7b","refs":[{"c":"dc-70","t":"D&C 70","v":[8],"l":"D&amp;C 70:8"}]}],"9":[{"m":"9a","refs":[{"c":"2tim-2","t":"2 Timothy 2","v":[23,24,25,26],"l":"2 Tim. 2:23 (23–26)"}]}],"10":[{"m":"10b","refs":[{"c":"matt-18","t":"Matthew 18","v":[17],"l":"Matt. 18:17"}]}],"14":[{"m":"14b","refs":[{"c":"rom-15","t":"Romans 15","v":[25,26,27,28],"l":"Rom. 15:28 (25–28)"},{"c":"philip-4","t":"Philippians 4","v":[17],"l":"Philip. 4:17"}]}]}
+{"2":[{"m":"2c","refs":[{"c":"dc-38","t":"D&C 38","v":[41],"l":"D&amp;C 38:41"}],"w":"meekness","o":64}],"7":[{"m":"7b","refs":[{"c":"dc-70","t":"D&C 70","v":[8],"l":"D&amp;C 70:8"}],"w":"heirs","o":50}],"9":[{"m":"9a","refs":[{"c":"2tim-2","t":"2 Timothy 2","v":[23,24,25,26],"l":"2 Tim. 2:23 (23–26)"}],"w":"foolish","o":9}],"10":[{"m":"10b","refs":[{"c":"matt-18","t":"Matthew 18","v":[17],"l":"Matt. 18:17"}],"w":"admonition","o":50}],"14":[{"m":"14b","refs":[{"c":"rom-15","t":"Romans 15","v":[25,26,27,28],"l":"Rom. 15:28 (25–28)"},{"c":"philip-4","t":"Philippians 4","v":[17],"l":"Philip. 4:17"}],"w":"good works","o":33}]}
 ```
 
 - **2** 2c [[D&C 38#^dc-38-41|D&amp;C 38:41]]

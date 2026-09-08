@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: jer-36
 verses: 10
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Baruch writes the prophecies of Jeremiah and reads them in the house of the Lord—Jehoiakim, the king, burns the book, and judgment comes upon him—Jeremiah dictates the prophecies again and adds many more.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"ezra-6","t":"Ezra 6","v":[2],"l":"Ezra 6:2"},{"c":"ezek-2","t":"Ezekiel 2","v":[9],"l":"Ezek. 2:9"}]},{"m":"2b","refs":[{"c":"jer-1","t":"Jeremiah 1","v":[2],"l":"Jer. 1:2"},{"c":"jer-25","t":"Jeremiah 25","v":[3],"l":"25:3"}]}],"4":[{"m":"4a","refs":[{"c":"jer-45","t":"Jeremiah 45","v":[1],"l":"Jer. 45:1"}]}],"5":[{"m":"5a","refs":[{"c":"dc-122","t":"D&C 122","v":[1,2,3,4,5,6],"l":"D&amp;C 122:6 (1–7)"}]}],"6":[{"m":"6a","refs":[{"c":"neh-9","t":"Nehemiah 9","v":[1,2,3],"l":"Neh. 9:1 (1–3)"}]}],"7":[{"m":"7a","refs":[{"c":"2kgs-23","t":"2 Kings 23","v":[2,3],"l":"2 Kgs. 23:3 (2–3)"}]}],"10":[{"m":"10a","refs":[{"c":"jer-26","t":"Jeremiah 26","v":[24],"l":"Jer. 26:24"}]}],"12":[{"m":"12b","refs":[{"c":"jer-26","t":"Jeremiah 26","v":[22],"l":"Jer. 26:22"}]}],"16":[{"m":"16a","refs":[{"c":"mosiah-4","t":"Mosiah 4","v":[1,2],"l":"Mosiah 4:1 (1–2)"}]}],"22":[{"m":"22a","refs":[{"c":"amos-3","t":"Amos 3","v":[15],"l":"Amos 3:15"}]}],"26":[{"m":"26b","refs":[{"c":"1ne-3","t":"1 Nephi 3","v":[27],"l":"1 Ne. 3:27"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"ezra-6","t":"Ezra 6","v":[2],"l":"Ezra 6:2"},{"c":"ezek-2","t":"Ezekiel 2","v":[9],"l":"Ezek. 2:9"}],"w":"roll","o":11},{"m":"2b","refs":[{"c":"jer-1","t":"Jeremiah 1","v":[2],"l":"Jer. 1:2"},{"c":"jer-25","t":"Jeremiah 25","v":[3],"l":"25:3"}],"w":"day","o":222}],"4":[{"m":"4a","refs":[{"c":"jer-45","t":"Jeremiah 45","v":[1],"l":"Jer. 45:1"}],"w":"Baruch","o":50}],"5":[{"m":"5a","refs":[{"c":"dc-122","t":"D&C 122","v":[1,2,3,4,5,6],"l":"D&amp;C 122:6 (1–7)"}],"w":"shut up","o":43}],"6":[{"m":"6a","refs":[{"c":"neh-9","t":"Nehemiah 9","v":[1,2,3],"l":"Neh. 9:1 (1–3)"}],"w":"fasting","o":156}],"7":[{"m":"7a","refs":[{"c":"2kgs-23","t":"2 Kings 23","v":[2,3],"l":"2 Kgs. 23:3 (2–3)"}],"w":"return","o":72}],"10":[{"m":"10a","refs":[{"c":"jer-26","t":"Jeremiah 26","v":[24],"l":"Jer. 26:24"}],"w":"Shaphan","o":114}],"12":[{"m":"12b","refs":[{"c":"jer-26","t":"Jeremiah 26","v":[22],"l":"Jer. 26:22"}],"w":"Elnathan","o":164}],"16":[{"m":"16a","refs":[{"c":"mosiah-4","t":"Mosiah 4","v":[1,2],"l":"Mosiah 4:1 (1–2)"}],"w":"afraid","o":65}],"22":[{"m":"22a","refs":[{"c":"amos-3","t":"Amos 3","v":[15],"l":"Amos 3:15"}],"w":"winterhouse","o":23}],"26":[{"m":"26b","refs":[{"c":"1ne-3","t":"1 Nephi 3","v":[27],"l":"1 Ne. 3:27"}],"w":"hid","o":182}]}
 ```
 
 - **2** 2a [[Ezra 6#^ezra-6-2|Ezra 6:2]] · [[Ezekiel 2#^ezek-2-9|Ezek. 2:9]]; 2b [[Jeremiah 1#^jer-1-2|Jer. 1:2]] · [[Jeremiah 25#^jer-25-3|25:3]]

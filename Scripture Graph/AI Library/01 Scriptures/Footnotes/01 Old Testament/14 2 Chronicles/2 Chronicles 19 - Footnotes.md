@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 2chr-19
 verses: 4
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jehoshaphat is rebuked for helping ungodly Ahab—He helps the people return to the Lord, sets up judges, and administers justice.
 
 ```json
-{"5":[{"m":"5a","refs":[{"c":"ex-18","t":"Exodus 18","v":[21],"l":"Ex. 18:21"}]}],"7":[{"m":"7a","refs":[{"c":"deut-10","t":"Deuteronomy 10","v":[17],"l":"Deut. 10:17"}]},{"m":"7b","refs":[{"c":"ex-18","t":"Exodus 18","v":[21,22],"l":"Ex. 18:21 (21–22)"}]}],"9":[{"m":"9a","refs":[{"c":"ex-18","t":"Exodus 18","v":[21],"l":"Ex. 18:21"}]}],"11":[{"m":"11a","refs":[{"c":"dc-107","t":"D&C 107","v":[87,88],"l":"D&amp;C 107:87 (87–88)"}]}]}
+{"5":[{"m":"5a","refs":[{"c":"ex-18","t":"Exodus 18","v":[21],"l":"Ex. 18:21"}],"w":"judges","o":12}],"7":[{"m":"7a","refs":[{"c":"deut-10","t":"Deuteronomy 10","v":[17],"l":"Deut. 10:17"}],"w":"respect","o":124},{"m":"7b","refs":[{"c":"ex-18","t":"Exodus 18","v":[21,22],"l":"Ex. 18:21 (21–22)"}],"w":"gifts","o":156}],"9":[{"m":"9a","refs":[{"c":"ex-18","t":"Exodus 18","v":[21],"l":"Ex. 18:21"}],"w":"fear","o":52}],"11":[{"m":"11a","refs":[{"c":"dc-107","t":"D&C 107","v":[87,88],"l":"D&amp;C 107:87 (87–88)"}],"w":"priest","o":30}]}
 ```
 
 - **5** 5a [[Exodus 18#^ex-18-21|Ex. 18:21]]

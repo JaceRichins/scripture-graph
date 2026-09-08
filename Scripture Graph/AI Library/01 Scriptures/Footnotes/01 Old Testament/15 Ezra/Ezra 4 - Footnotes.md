@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ezra-4
 verses: 7
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Samaritans offer help, then hinder the work—The building of the temple and of the walls of Jerusalem ceases.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"dc-123","t":"D&C 123","v":[1,2,3,4,5,6],"l":"D&amp;C 123:1 (1–17)"}]}],"2":[{"m":"2a","refs":[{"c":"2kgs-17","t":"2 Kings 17","v":[24],"l":"2 Kgs. 17:24"}]}],"3":[{"m":"3a","refs":[{"c":"ezra-3","t":"Ezra 3","v":[7],"l":"Ezra 3:7"}]}],"5":[{"m":"5a","refs":[{"c":"dan-6","t":"Daniel 6","v":[28],"l":"Dan. 6:28"}]}],"6":[{"m":"6a","refs":[{"c":"esth-1","t":"Esther 1","v":[1],"l":"Esth. 1:1"}]}],"20":[{"m":"20a","refs":[{"c":"lam-1","t":"Lamentations 1","v":[1],"l":"Lam. 1:1"}]}],"21":[{"m":"21a","refs":[{"c":"dc-124","t":"D&C 124","v":[49],"l":"D&amp;C 124:49"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"dc-123","t":"D&C 123","v":[1,2,3,4,5,6],"l":"D&amp;C 123:1 (1–17)"}],"w":"adversaries","o":12}],"2":[{"m":"2a","refs":[{"c":"2kgs-17","t":"2 Kings 17","v":[24],"l":"2 Kgs. 17:24"}],"w":"brought","o":217}],"3":[{"m":"3a","refs":[{"c":"ezra-3","t":"Ezra 3","v":[7],"l":"Ezra 3:7"}],"w":"king Cyrus","o":226}],"5":[{"m":"5a","refs":[{"c":"dan-6","t":"Daniel 6","v":[28],"l":"Dan. 6:28"}],"w":"Darius","o":125}],"6":[{"m":"6a","refs":[{"c":"esth-1","t":"Esther 1","v":[1],"l":"Esth. 1:1"}],"w":"Ahasuerus","o":19}],"20":[{"m":"20a","refs":[{"c":"lam-1","t":"Lamentations 1","v":[1],"l":"Lam. 1:1"}],"w":"ruled","o":60}],"21":[{"m":"21a","refs":[{"c":"dc-124","t":"D&C 124","v":[49],"l":"D&amp;C 124:49"}],"w":"cease","o":45}]}
 ```
 
 - **1** 1a [[D&C 123#^dc-123-1|D&amp;C 123:1 (1–17)]]

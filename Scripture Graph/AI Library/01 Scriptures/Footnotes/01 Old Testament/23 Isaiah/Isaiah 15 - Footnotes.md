@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: isa-15
 verses: 5
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Moab will be laid waste, and her people will howl and weep.
 
 ```json
-{"1":[{"m":"1b","refs":[{"c":"gen-19","t":"Genesis 19","v":[30,31,32,33,34,35],"l":"Gen. 19:37 (30–37)"},{"c":"ezek-25","t":"Ezekiel 25","v":[8],"l":"Ezek. 25:8"}]},{"m":"1c","refs":[{"c":"deut-2","t":"Deuteronomy 2","v":[9],"l":"Deut. 2:9"}]},{"m":"1d","refs":[{"c":"jer-48","t":"Jeremiah 48","v":[1,2,3,4,5,6],"l":"Jer. 48:4 (1–47)"}]}],"2":[{"m":"2a","refs":[{"c":"isa-3","t":"Isaiah 3","v":[24],"l":"Isa. 3:24"},{"c":"jer-48","t":"Jeremiah 48","v":[37],"l":"Jer. 48:37"}]}],"4":[{"m":"4a","refs":[{"c":"jer-48","t":"Jeremiah 48","v":[34],"l":"Jer. 48:34"}]}],"5":[{"m":"5a","refs":[{"c":"isa-16","t":"Isaiah 16","v":[11],"l":"Isa. 16:11"},{"c":"jer-48","t":"Jeremiah 48","v":[36],"l":"Jer. 48:36"}]},{"m":"5d","refs":[{"c":"jer-48","t":"Jeremiah 48","v":[3],"l":"Jer. 48:3"}]}],"8":[{"m":"8a","refs":[{"c":"num-21","t":"Numbers 21","v":[16,17,18],"l":"Num. 21:16 (16–18)"}]}]}
+{"1":[{"m":"1b","refs":[{"c":"gen-19","t":"Genesis 19","v":[30,31,32,33,34,35],"l":"Gen. 19:37 (30–37)"},{"c":"ezek-25","t":"Ezekiel 25","v":[8],"l":"Ezek. 25:8"}],"w":"Moab","o":11},{"m":"1c","refs":[{"c":"deut-2","t":"Deuteronomy 2","v":[9],"l":"Deut. 2:9"}],"w":"Ar","o":37},{"m":"1d","refs":[{"c":"jer-48","t":"Jeremiah 48","v":[1,2,3,4,5,6],"l":"Jer. 48:4 (1–47)"}],"w":"Moab","o":113}],"2":[{"m":"2a","refs":[{"c":"isa-3","t":"Isaiah 3","v":[24],"l":"Isa. 3:24"},{"c":"jer-48","t":"Jeremiah 48","v":[37],"l":"Jer. 48:37"}],"w":"baldness","o":136}],"4":[{"m":"4a","refs":[{"c":"jer-48","t":"Jeremiah 48","v":[34],"l":"Jer. 48:34"}],"w":"cry","o":17}],"5":[{"m":"5a","refs":[{"c":"isa-16","t":"Isaiah 16","v":[11],"l":"Isa. 16:11"},{"c":"jer-48","t":"Jeremiah 48","v":[36],"l":"Jer. 48:36"}],"w":"heart","o":2},{"m":"5d","refs":[{"c":"jer-48","t":"Jeremiah 48","v":[3],"l":"Jer. 48:3"}],"w":"Horonaim","o":177}],"8":[{"m":"8a","refs":[{"c":"num-21","t":"Numbers 21","v":[16,17,18],"l":"Num. 21:16 (16–18)"}],"w":"Beer-elim","o":114}]}
 ```
 
 - **1** 1b [[Genesis 19#^gen-19-30|Gen. 19:37 (30–37)]] · [[Ezekiel 25#^ezek-25-8|Ezek. 25:8]]; 1c [[Deuteronomy 2#^deut-2-9|Deut. 2:9]]; 1d [[Jeremiah 48#^jer-48-1|Jer. 48:4 (1–47)]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: deut-20
 verses: 7
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Laws are revealed for selecting soldiers and making war—Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites will be utterly destroyed.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"dc-98","t":"D&C 98","v":[37],"l":"D&amp;C 98:37"},{"c":"dc-105","t":"D&C 105","v":[14],"l":"105:14"}]},{"m":"1b","refs":[{"c":"josh-17","t":"Joshua 17","v":[18],"l":"Josh. 17:18"}]},{"m":"1d","refs":[{"c":"2sam-22","t":"2 Samuel 22","v":[3],"l":"2 Sam. 22:3"}]}],"4":[{"m":"4a","refs":[{"c":"josh-23","t":"Joshua 23","v":[10],"l":"Josh. 23:10"}]}],"6":[{"m":"6a","refs":[{"c":"1cor-9","t":"1 Corinthians 9","v":[7],"l":"1 Cor. 9:7"}]}],"7":[{"m":"7a","refs":[{"c":"deut-24","t":"Deuteronomy 24","v":[5],"l":"Deut. 24:5"}]}],"8":[{"m":"8a","refs":[{"c":"judg-7","t":"Judges 7","v":[3],"l":"Judg. 7:3"}]}],"16":[{"m":"16a","refs":[{"c":"josh-11","t":"Joshua 11","v":[14],"l":"Josh. 11:14"}]}],"17":[{"m":"17a","refs":[{"c":"josh-10","t":"Joshua 10","v":[40,41,42,43],"l":"Josh. 10:40 (40–43)"},{"c":"josh-11","t":"Joshua 11","v":[11,12],"l":"11:12 (11–12)"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"dc-98","t":"D&C 98","v":[37],"l":"D&amp;C 98:37"},{"c":"dc-105","t":"D&C 105","v":[14],"l":"105:14"}],"w":"battle","o":22},{"m":"1b","refs":[{"c":"josh-17","t":"Joshua 17","v":[18],"l":"Josh. 17:18"}],"w":"chariots","o":72},{"m":"1d","refs":[{"c":"2sam-22","t":"2 Samuel 22","v":[3],"l":"2 Sam. 22:3"}],"w":"Lord","o":139}],"4":[{"m":"4a","refs":[{"c":"josh-23","t":"Joshua 23","v":[10],"l":"Josh. 23:10"}],"w":"fight","o":51}],"6":[{"m":"6a","refs":[{"c":"1cor-9","t":"1 Corinthians 9","v":[7],"l":"1 Cor. 9:7"}],"w":"vineyard","o":38}],"7":[{"m":"7a","refs":[{"c":"deut-24","t":"Deuteronomy 24","v":[5],"l":"Deut. 24:5"}],"w":"wife","o":43}],"8":[{"m":"8a","refs":[{"c":"judg-7","t":"Judges 7","v":[3],"l":"Judg. 7:3"}],"w":"fearful","o":99}],"16":[{"m":"16a","refs":[{"c":"josh-11","t":"Joshua 11","v":[14],"l":"Josh. 11:14"}],"w":"cities","o":10}],"17":[{"m":"17a","refs":[{"c":"josh-10","t":"Joshua 10","v":[40,41,42,43],"l":"Josh. 10:40 (40–43)"},{"c":"josh-11","t":"Joshua 11","v":[11,12],"l":"11:12 (11–12)"}],"w":"destroy","o":22}]}
 ```
 
 - **1** 1a [[D&C 98#^dc-98-37|D&amp;C 98:37]] · [[D&C 105#^dc-105-14|105:14]]; 1b [[Joshua 17#^josh-17-18|Josh. 17:18]]; 1d [[2 Samuel 22#^2sam-22-3|2 Sam. 22:3]]

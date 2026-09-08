@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: acts-14
 verses: 8
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Persecution attends the spread of the gospel—Paul heals a crippled man; Paul and Barnabas are hailed as gods—Paul is stoned and revived; he preaches—Elders are ordained.
 
 ```json
-{"5":[{"m":"5a","refs":[{"c":"2cor-11","t":"2 Corinthians 11","v":[26],"l":"2 Cor. 11:26"}]}],"8":[{"m":"8a","refs":[{"c":"acts-3","t":"Acts 3","v":[1,2,3,4,5,6],"l":"Acts 3:2 (1–10)"}]}],"11":[{"m":"11a","refs":[{"c":"acts-28","t":"Acts 28","v":[3,4,5,6],"l":"Acts 28:6 (3–6)"}]}],"15":[{"m":"15a","refs":[{"c":"dan-2","t":"Daniel 2","v":[46],"l":"Dan. 2:46"},{"c":"james-5","t":"James 5","v":[17,18],"l":"James 5:17 (17–18)"},{"c":"1ne-17","t":"1 Nephi 17","v":[55],"l":"1 Ne. 17:55"}]}],"16":[{"m":"16b","refs":[{"c":"acts-17","t":"Acts 17","v":[27,28,29,30],"l":"Acts 17:30 (27–30)"}]}],"17":[{"m":"17a","refs":[{"c":"rom-1","t":"Romans 1","v":[20],"l":"Rom. 1:20"}]},{"m":"17b","refs":[{"c":"lev-26","t":"Leviticus 26","v":[3,4],"l":"Lev. 26:4 (3–4)"}]}],"26":[{"m":"26a","refs":[{"c":"acts-11","t":"Acts 11","v":[25,26],"l":"Acts 11:26 (25–26)"}]}],"27":[{"m":"27a","refs":[{"c":"2cor-2","t":"2 Corinthians 2","v":[12],"l":"2 Cor. 2:12"}]}]}
+{"5":[{"m":"5a","refs":[{"c":"2cor-11","t":"2 Corinthians 11","v":[26],"l":"2 Cor. 11:26"}],"w":"Jews","o":72}],"8":[{"m":"8a","refs":[{"c":"acts-3","t":"Acts 3","v":[1,2,3,4,5,6],"l":"Acts 3:2 (1–10)"}],"w":"cripple","o":70}],"11":[{"m":"11a","refs":[{"c":"acts-28","t":"Acts 28","v":[3,4,5,6],"l":"Acts 28:6 (3–6)"}],"w":"gods","o":110}],"15":[{"m":"15a","refs":[{"c":"dan-2","t":"Daniel 2","v":[46],"l":"Dan. 2:46"},{"c":"james-5","t":"James 5","v":[17,18],"l":"James 5:17 (17–18)"},{"c":"1ne-17","t":"1 Nephi 17","v":[55],"l":"1 Ne. 17:55"}],"w":"men","o":53}],"16":[{"m":"16b","refs":[{"c":"acts-17","t":"Acts 17","v":[27,28,29,30],"l":"Acts 17:30 (27–30)"}],"w":"ways","o":57}],"17":[{"m":"17a","refs":[{"c":"rom-1","t":"Romans 1","v":[20],"l":"Rom. 1:20"}],"w":"witness","o":40},{"m":"17b","refs":[{"c":"lev-26","t":"Leviticus 26","v":[3,4],"l":"Lev. 26:4 (3–4)"}],"w":"rain","o":81}],"26":[{"m":"26a","refs":[{"c":"acts-11","t":"Acts 11","v":[25,26],"l":"Acts 11:26 (25–26)"}],"w":"Antioch","o":20}],"27":[{"m":"27a","refs":[{"c":"2cor-2","t":"2 Corinthians 2","v":[12],"l":"2 Cor. 2:12"}],"w":"door","o":136}]}
 ```
 
 - **5** 5a [[2 Corinthians 11#^2cor-11-26|2 Cor. 11:26]]

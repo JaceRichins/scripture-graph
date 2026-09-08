@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: jer-34
 verses: 4
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jeremiah prophesies the captivity of Zedekiah—The people of Judah will be removed into all the kingdoms of the earth.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"ezek-26","t":"Ezekiel 26","v":[3],"l":"Ezek. 26:3"}]}],"2":[{"m":"2a","refs":[{"c":"jer-21","t":"Jeremiah 21","v":[10],"l":"Jer. 21:10"},{"c":"jer-38","t":"Jeremiah 38","v":[3],"l":"38:3"},{"c":"jer-52","t":"Jeremiah 52","v":[13],"l":"52:13"}]}],"18":[{"m":"18a","refs":[{"c":"gen-15","t":"Genesis 15","v":[10],"l":"Gen. 15:10"}]},{"m":"18b","refs":[{"c":"gen-15","t":"Genesis 15","v":[17],"l":"Gen. 15:17"}]}],"20":[{"m":"20a","refs":[{"c":"jer-22","t":"Jeremiah 22","v":[25],"l":"Jer. 22:25"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"ezek-26","t":"Ezekiel 26","v":[3],"l":"Ezek. 26:3"}],"w":"against","o":204}],"2":[{"m":"2a","refs":[{"c":"jer-21","t":"Jeremiah 21","v":[10],"l":"Jer. 21:10"},{"c":"jer-38","t":"Jeremiah 38","v":[3],"l":"38:3"},{"c":"jer-52","t":"Jeremiah 52","v":[13],"l":"52:13"}],"w":"Babylon","o":173}],"18":[{"m":"18a","refs":[{"c":"gen-15","t":"Genesis 15","v":[10],"l":"Gen. 15:10"}],"w":"cut","o":151},{"m":"18b","refs":[{"c":"gen-15","t":"Genesis 15","v":[17],"l":"Gen. 15:17"}],"w":"passed","o":176}],"20":[{"m":"20a","refs":[{"c":"jer-22","t":"Jeremiah 22","v":[25],"l":"Jer. 22:25"}],"w":"give","o":11}]}
 ```
 
 - **1** 1a [[Ezekiel 26#^ezek-26-3|Ezek. 26:3]]

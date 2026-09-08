@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: zech-1
 verses: 7
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Zechariah calls upon Judah to repent—He is shown in vision that the cities of Judah and the temple will be rebuilt.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"ezra-5","t":"Ezra 5","v":[1],"l":"Ezra 5:1"}]}],"3":[{"m":"3a","refs":[{"c":"dc-88","t":"D&C 88","v":[63],"l":"D&amp;C 88:63"}]}],"4":[{"m":"4a","refs":[{"c":"ps-78","t":"Psalm 78","v":[8],"l":"Ps. 78:8"}]},{"m":"4b","refs":[{"c":"2ne-27","t":"2 Nephi 27","v":[5],"l":"2 Ne. 27:5"},{"c":"jacob-4","t":"Jacob 4","v":[14],"l":"Jacob 4:14"},{"c":"dc-136","t":"D&C 136","v":[36],"l":"D&amp;C 136:36"}]}],"6":[{"m":"6a","refs":[{"c":"lam-2","t":"Lamentations 2","v":[17],"l":"Lam. 2:17"}]}],"14":[{"m":"14a","refs":[{"c":"joel-2","t":"Joel 2","v":[18],"l":"Joel 2:18"},{"c":"zech-8","t":"Zechariah 8","v":[2],"l":"Zech. 8:2"}]}],"16":[{"m":"16b","refs":[{"c":"jer-31","t":"Jeremiah 31","v":[39],"l":"Jer. 31:39"}]}],"17":[{"m":"17a","refs":[{"c":"isa-51","t":"Isaiah 51","v":[3],"l":"Isa. 51:3"}]},{"m":"17b","refs":[{"c":"isa-14","t":"Isaiah 14","v":[1],"l":"Isa. 14:1"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"ezra-5","t":"Ezra 5","v":[1],"l":"Ezra 5:1"}],"w":"Zechariah","o":81}],"3":[{"m":"3a","refs":[{"c":"dc-88","t":"D&C 88","v":[63],"l":"D&amp;C 88:63"}],"w":"Turn","o":59}],"4":[{"m":"4a","refs":[{"c":"ps-78","t":"Psalm 78","v":[8],"l":"Ps. 78:8"}],"w":"fathers","o":17},{"m":"4b","refs":[{"c":"2ne-27","t":"2 Nephi 27","v":[5],"l":"2 Ne. 27:5"},{"c":"jacob-4","t":"Jacob 4","v":[14],"l":"Jacob 4:14"},{"c":"dc-136","t":"D&C 136","v":[36],"l":"D&amp;C 136:36"}],"w":"not hear","o":178}],"6":[{"m":"6a","refs":[{"c":"lam-2","t":"Lamentations 2","v":[17],"l":"Lam. 2:17"}],"w":"thought","o":167}],"14":[{"m":"14a","refs":[{"c":"joel-2","t":"Joel 2","v":[18],"l":"Joel 2:18"},{"c":"zech-8","t":"Zechariah 8","v":[2],"l":"Zech. 8:2"}],"w":"jealous","o":101}],"16":[{"m":"16b","refs":[{"c":"jer-31","t":"Jeremiah 31","v":[39],"l":"Jer. 31:39"}],"w":"line","o":131}],"17":[{"m":"17a","refs":[{"c":"isa-51","t":"Isaiah 51","v":[3],"l":"Isa. 51:3"}],"w":"comfort","o":126},{"m":"17b","refs":[{"c":"isa-14","t":"Isaiah 14","v":[1],"l":"Isa. 14:1"}],"w":"choose","o":152}]}
 ```
 
 - **1** 1a [[Ezra 5#^ezra-5-1|Ezra 5:1]]

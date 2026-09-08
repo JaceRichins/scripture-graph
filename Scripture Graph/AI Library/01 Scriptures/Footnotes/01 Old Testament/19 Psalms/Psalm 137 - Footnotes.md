@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-137
 verses: 3
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > While in captivity, the Jews wept by the rivers of Babylon—Because of sorrow, they could not bear to sing the songs of Zion.
 
 ```json
-{"4":[{"m":"4a","refs":[{"c":"neh-2","t":"Nehemiah 2","v":[3],"l":"Neh. 2:3"}]}],"7":[{"m":"7a","refs":[{"c":"ezek-25","t":"Ezekiel 25","v":[12,13,14],"l":"Ezek. 25:12 (12–14)"}]},{"m":"7b","refs":[{"c":"ezek-35","t":"Ezekiel 35","v":[1,2,3,4,5,6],"l":"Ezek. 35:5 (1–15)"}]}],"8":[{"m":"8a","refs":[{"c":"isa-47","t":"Isaiah 47","v":[1],"l":"Isa. 47:1"}]}]}
+{"4":[{"m":"4a","refs":[{"c":"neh-2","t":"Nehemiah 2","v":[3],"l":"Neh. 2:3"}],"w":"sing","o":12}],"7":[{"m":"7a","refs":[{"c":"ezek-25","t":"Ezekiel 25","v":[12,13,14],"l":"Ezek. 25:12 (12–14)"}],"w":"Edom","o":33},{"m":"7b","refs":[{"c":"ezek-35","t":"Ezekiel 35","v":[1,2,3,4,5,6],"l":"Ezek. 35:5 (1–15)"}],"w":"Rase","o":71}],"8":[{"m":"8a","refs":[{"c":"isa-47","t":"Isaiah 47","v":[1],"l":"Isa. 47:1"}],"w":"Babylon","o":13}]}
 ```
 
 - **4** 4a [[Nehemiah 2#^neh-2-3|Neh. 2:3]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: zech-3
 verses: 3
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Zechariah speaks about the Messiah—The Branch will come—At the Second Coming, iniquity will be removed in one day.
 
 ```json
-{"1":[{"m":"1b","refs":[{"c":"ps-109","t":"Psalm 109","v":[6],"l":"Ps. 109:6"}]}],"2":[{"m":"2a","refs":[{"c":"amos-4","t":"Amos 4","v":[11],"l":"Amos 4:11"}]}],"7":[{"m":"7b","refs":[{"c":"deut-11","t":"Deuteronomy 11","v":[1],"l":"Deut. 11:1"}]}]}
+{"1":[{"m":"1b","refs":[{"c":"ps-109","t":"Psalm 109","v":[6],"l":"Ps. 109:6"}],"w":"Satan","o":80}],"2":[{"m":"2a","refs":[{"c":"amos-4","t":"Amos 4","v":[11],"l":"Amos 4:11"}],"w":"brand","o":128}],"7":[{"m":"7b","refs":[{"c":"deut-11","t":"Deuteronomy 11","v":[1],"l":"Deut. 11:1"}],"w":"charge","o":82}]}
 ```
 
 - **1** 1b [[Psalm 109#^ps-109-6|Ps. 109:6]]

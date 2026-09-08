@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 2sam-6
 verses: 10
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > David takes the ark to the city of David—Uzzah is smitten for steadying the ark and dies—David dances before the Lord, causing a breach between him and Michal.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"1chr-13","t":"1 Chronicles 13","v":[5],"l":"1 Chr. 13:5"}]}],"2":[{"m":"2a","refs":[{"c":"1chr-13","t":"1 Chronicles 13","v":[6,7,8,9,10,11],"l":"1 Chr. 13:13 (6–14)"}]}],"5":[{"m":"5a","refs":[{"c":"gen-31","t":"Genesis 31","v":[27],"l":"Gen. 31:27"},{"c":"1chr-15","t":"1 Chronicles 15","v":[16],"l":"1 Chr. 15:16"},{"c":"dan-3","t":"Daniel 3","v":[5],"l":"Dan. 3:5 (5, 7, 10, 15)"}]}],"6":[{"m":"6a","refs":[{"c":"dc-85","t":"D&C 85","v":[8],"l":"D&amp;C 85:8"}]}],"7":[{"m":"7a","refs":[{"c":"1chr-15","t":"1 Chronicles 15","v":[2],"l":"1 Chr. 15:2"}]},{"m":"7b","refs":[{"c":"num-1","t":"Numbers 1","v":[51],"l":"Num. 1:51"},{"c":"1sam-6","t":"1 Samuel 6","v":[19],"l":"1 Sam. 6:19"}]}],"13":[{"m":"13a","refs":[{"c":"1chr-15","t":"1 Chronicles 15","v":[25,26,27,28],"l":"1 Chr. 15:26 (25–28)"}]}],"14":[{"m":"14a","refs":[{"c":"dc-136","t":"D&C 136","v":[28],"l":"D&amp;C 136:28"}]}],"17":[{"m":"17a","refs":[{"c":"1kgs-3","t":"1 Kings 3","v":[15],"l":"1 Kgs. 3:15"}]}],"18":[{"m":"18a","refs":[{"c":"1kgs-8","t":"1 Kings 8","v":[14,15],"l":"1 Kgs. 8:14 (14–15)"},{"c":"1chr-16","t":"1 Chronicles 16","v":[2],"l":"1 Chr. 16:2"}]}],"20":[{"m":"20a","refs":[{"c":"1chr-16","t":"1 Chronicles 16","v":[43],"l":"1 Chr. 16:43"}]},{"m":"20b","refs":[{"c":"1sam-14","t":"1 Samuel 14","v":[49],"l":"1 Sam. 14:49"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"1chr-13","t":"1 Chronicles 13","v":[5],"l":"1 Chr. 13:5"}],"w":"gathered","o":12}],"2":[{"m":"2a","refs":[{"c":"1chr-13","t":"1 Chronicles 13","v":[6,7,8,9,10,11],"l":"1 Chr. 13:13 (6–14)"}],"w":"ark","o":113}],"5":[{"m":"5a","refs":[{"c":"gen-31","t":"Genesis 31","v":[27],"l":"Gen. 31:27"},{"c":"1chr-15","t":"1 Chronicles 15","v":[16],"l":"1 Chr. 15:16"},{"c":"dan-3","t":"Daniel 3","v":[5],"l":"Dan. 3:5 (5, 7, 10, 15)"}],"w":"harps","o":115}],"6":[{"m":"6a","refs":[{"c":"dc-85","t":"D&C 85","v":[8],"l":"D&amp;C 85:8"}],"w":"ark","o":80}],"7":[{"m":"7a","refs":[{"c":"1chr-15","t":"1 Chronicles 15","v":[2],"l":"1 Chr. 15:2"}],"w":"Uzzah","o":45},{"m":"7b","refs":[{"c":"num-1","t":"Numbers 1","v":[51],"l":"Num. 1:51"},{"c":"1sam-6","t":"1 Samuel 6","v":[19],"l":"1 Sam. 6:19"}],"w":"smote","o":59}],"13":[{"m":"13a","refs":[{"c":"1chr-15","t":"1 Chronicles 15","v":[25,26,27,28],"l":"1 Chr. 15:26 (25–28)"}],"w":"sacrificed","o":82}],"14":[{"m":"14a","refs":[{"c":"dc-136","t":"D&C 136","v":[28],"l":"D&amp;C 136:28"}],"w":"danced","o":9}],"17":[{"m":"17a","refs":[{"c":"1kgs-3","t":"1 Kings 3","v":[15],"l":"1 Kgs. 3:15"}],"w":"ark","o":25}],"18":[{"m":"18a","refs":[{"c":"1kgs-8","t":"1 Kings 8","v":[14,15],"l":"1 Kgs. 8:14 (14–15)"},{"c":"1chr-16","t":"1 Chronicles 16","v":[2],"l":"1 Chr. 16:2"}],"w":"blessed","o":88}],"20":[{"m":"20a","refs":[{"c":"1chr-16","t":"1 Chronicles 16","v":[43],"l":"1 Chr. 16:43"}],"w":"bless","o":24},{"m":"20b","refs":[{"c":"1sam-14","t":"1 Samuel 14","v":[49],"l":"1 Sam. 14:49"}],"w":"Michal","o":47}]}
 ```
 
 - **1** 1a [[1 Chronicles 13#^1chr-13-5|1 Chr. 13:5]]

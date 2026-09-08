@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: acts-11
 verses: 8
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > God grants the gift of repentance to the Gentiles—The disciples are first called Christians at Antioch—The Church is guided by revelation.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"dc-109","t":"D&C 109","v":[60],"l":"D&amp;C 109:60"}]},{"m":"1b","refs":[{"c":"acts-8","t":"Acts 8","v":[14,15,16,17,18,19],"l":"Acts 8:14 (14–20)"}]}],"5":[{"m":"5a","refs":[{"c":"acts-22","t":"Acts 22","v":[17],"l":"Acts 22:17"}]}],"9":[{"m":"9b","refs":[{"c":"acts-10","t":"Acts 10","v":[3],"l":"Acts 10:15 (3, 15)"}]}],"18":[{"m":"18a","refs":[{"c":"mark-16","t":"Mark 16","v":[15,16],"l":"Mark 16:15 (15–16)"},{"c":"acts-21","t":"Acts 21","v":[19],"l":"Acts 21:19"},{"c":"dc-84","t":"D&C 84","v":[62,63,64],"l":"D&amp;C 84:62 (62–64)"}]}],"22":[{"m":"22a","refs":[{"c":"acts-4","t":"Acts 4","v":[36],"l":"Acts 4:36"}]}],"26":[{"m":"26b","refs":[{"c":"acts-26","t":"Acts 26","v":[28],"l":"Acts 26:28"},{"c":"1pet-4","t":"1 Peter 4","v":[16],"l":"1 Pet. 4:16"},{"c":"mosiah-5","t":"Mosiah 5","v":[8,9,10,11],"l":"Mosiah 5:8 (8–11)"},{"c":"alma-46","t":"Alma 46","v":[13,14,15],"l":"Alma 46:15 (13–15)"}]},{"m":"26c","refs":[{"c":"acts-14","t":"Acts 14","v":[26],"l":"Acts 14:26"}]}],"27":[{"m":"27a","refs":[{"c":"acts-13","t":"Acts 13","v":[1,2,3,4,5,6],"l":"Acts 13:1 (1–13)"}]}],"28":[{"m":"28a","refs":[{"c":"acts-2","t":"Acts 2","v":[18],"l":"Acts 2:18"},{"c":"acts-21","t":"Acts 21","v":[4],"l":"21:11 (4, 10–11)"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"dc-109","t":"D&C 109","v":[60],"l":"D&amp;C 109:60"}],"w":"Gentiles","o":63},{"m":"1b","refs":[{"c":"acts-8","t":"Acts 8","v":[14,15,16,17,18,19],"l":"Acts 8:14 (14–20)"}],"w":"word","o":92}],"5":[{"m":"5a","refs":[{"c":"acts-22","t":"Acts 22","v":[17],"l":"Acts 22:17"}],"w":"trance","o":44}],"9":[{"m":"9b","refs":[{"c":"acts-10","t":"Acts 10","v":[3],"l":"Acts 10:15 (3, 15)"}],"w":"common","o":86}],"18":[{"m":"18a","refs":[{"c":"mark-16","t":"Mark 16","v":[15,16],"l":"Mark 16:15 (15–16)"},{"c":"acts-21","t":"Acts 21","v":[19],"l":"Acts 21:19"},{"c":"dc-84","t":"D&C 84","v":[62,63,64],"l":"D&amp;C 84:62 (62–64)"}],"w":"Gentiles","o":105}],"22":[{"m":"22a","refs":[{"c":"acts-4","t":"Acts 4","v":[36],"l":"Acts 4:36"}],"w":"Barnabas","o":107}],"26":[{"m":"26b","refs":[{"c":"acts-26","t":"Acts 26","v":[28],"l":"Acts 26:28"},{"c":"1pet-4","t":"1 Peter 4","v":[16],"l":"1 Pet. 4:16"},{"c":"mosiah-5","t":"Mosiah 5","v":[8,9,10,11],"l":"Mosiah 5:8 (8–11)"},{"c":"alma-46","t":"Alma 46","v":[13,14,15],"l":"Alma 46:15 (13–15)"}],"w":"Christians","o":189},{"m":"26c","refs":[{"c":"acts-14","t":"Acts 14","v":[26],"l":"Acts 14:26"}],"w":"Antioch","o":207}],"27":[{"m":"27a","refs":[{"c":"acts-13","t":"Acts 13","v":[1,2,3,4,5,6],"l":"Acts 13:1 (1–13)"}],"w":"prophets","o":24}],"28":[{"m":"28a","refs":[{"c":"acts-2","t":"Acts 2","v":[18],"l":"Acts 2:18"},{"c":"acts-21","t":"Acts 21","v":[4],"l":"21:11 (4, 10–11)"}],"w":"Spirit","o":65}]}
 ```
 
 - **1** 1a [[D&C 109#^dc-109-60|D&amp;C 109:60]]; 1b [[Acts 8#^acts-8-14|Acts 8:14 (14–20)]]

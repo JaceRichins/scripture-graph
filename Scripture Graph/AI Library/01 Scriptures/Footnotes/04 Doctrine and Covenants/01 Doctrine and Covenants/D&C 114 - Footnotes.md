@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: dc-114
 verses: 2
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:02Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > 1–2, Church positions held by those who are not faithful will be given to others.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"dc-118","t":"D&C 118","v":[5],"l":"D&amp;C 118:5"}]}],"2":[{"m":"2b","refs":[{"c":"1sam-2","t":"1 Samuel 2","v":[35],"l":"1 Sam. 2:35"},{"c":"dc-118","t":"D&C 118","v":[1],"l":"D&amp;C 118:1 (1, 6)"}]},{"m":"2c","refs":[{"c":"dc-35","t":"D&C 35","v":[18],"l":"D&amp;C 35:18"},{"c":"dc-42","t":"D&C 42","v":[10],"l":"42:10"},{"c":"dc-64","t":"D&C 64","v":[40],"l":"64:40"}]},{"m":"2d","refs":[{"c":"acts-1","t":"Acts 1","v":[20,21,22,23,24,25],"l":"Acts 1:20 (20–26)"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"dc-118","t":"D&C 118","v":[5],"l":"D&amp;C 118:5"}],"w":"perform","o":189}],"2":[{"m":"2b","refs":[{"c":"1sam-2","t":"1 Samuel 2","v":[35],"l":"1 Sam. 2:35"},{"c":"dc-118","t":"D&C 118","v":[1],"l":"D&amp;C 118:1 (1, 6)"}],"w":"planted","o":106},{"m":"2c","refs":[{"c":"dc-35","t":"D&C 35","v":[18],"l":"D&amp;C 35:18"},{"c":"dc-42","t":"D&C 42","v":[10],"l":"42:10"},{"c":"dc-64","t":"D&C 64","v":[40],"l":"64:40"}],"w":"stead","o":121},{"m":"2d","refs":[{"c":"acts-1","t":"Acts 1","v":[20,21,22,23,24,25],"l":"Acts 1:20 (20–26)"}],"w":"bishopric","o":143}]}
 ```
 
 - **1** 1a [[D&C 118#^dc-118-5|D&amp;C 118:5]]

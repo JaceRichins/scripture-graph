@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1cor-5
 verses: 8
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Church cannot fellowship sinners—Christ, our passover, was sacrificed for us.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"alma-5","t":"Alma 5","v":[53,54,55,56],"l":"Alma 5:53 (53–56)"},{"c":"alma-6","t":"Alma 6","v":[3],"l":"6:3"}]}],"5":[{"m":"5a","refs":[{"c":"1tim-1","t":"1 Timothy 1","v":[20],"l":"1 Tim. 1:20"},{"c":"dc-78","t":"D&C 78","v":[11,12],"l":"D&amp;C 78:12 (11–12)"}]},{"m":"5c","refs":[{"c":"dc-2","t":"D&C 2","v":[1],"l":"D&amp;C 2:1"},{"c":"dc-19","t":"D&C 19","v":[3],"l":"19:3"},{"c":"dc-39","t":"D&C 39","v":[21],"l":"39:21"},{"c":"dc-45","t":"D&C 45","v":[12,13,14,15,16,17],"l":"45:12 (12–34)"},{"c":"moses-7","t":"Moses 7","v":[59,60,61,62,63,64],"l":"Moses 7:65 (59–67)"}]}],"6":[{"m":"6a","refs":[{"c":"1cor-1","t":"1 Corinthians 1","v":[31],"l":"1 Cor. 1:31"},{"c":"1cor-3","t":"1 Corinthians 3","v":[18,19,20,21],"l":"3:21 (18–21)"}]}],"7":[{"m":"7a","refs":[{"c":"dc-43","t":"D&C 43","v":[11],"l":"D&amp;C 43:11"}]}],"8":[{"m":"8a","refs":[{"c":"ex-12","t":"Exodus 12","v":[14,15,16,17],"l":"Ex. 12:14 (14–17)"}]}],"9":[{"m":"9b","refs":[{"c":"2thes-3","t":"2 Thessalonians 3","v":[6],"l":"2 Thes. 3:6 (6, 11–15)"}]}],"11":[{"m":"11a","refs":[{"c":"rom-16","t":"Romans 16","v":[17],"l":"Rom. 16:17"}]},{"m":"11d","refs":[{"c":"2jn-1","t":"2 John 1","v":[10],"l":"2 Jn. 1:10"}]}],"12":[{"m":"12b","refs":[{"c":"1cor-6","t":"1 Corinthians 6","v":[1],"l":"1 Cor. 6:1"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"alma-5","t":"Alma 5","v":[53,54,55,56],"l":"Alma 5:53 (53–56)"},{"c":"alma-6","t":"Alma 6","v":[3],"l":"6:3"}],"w":"puffed up","o":10}],"5":[{"m":"5a","refs":[{"c":"1tim-1","t":"1 Timothy 1","v":[20],"l":"1 Tim. 1:20"},{"c":"dc-78","t":"D&C 78","v":[11,12],"l":"D&amp;C 78:12 (11–12)"}],"w":"deliver","o":2},{"m":"5c","refs":[{"c":"dc-2","t":"D&C 2","v":[1],"l":"D&amp;C 2:1"},{"c":"dc-19","t":"D&C 19","v":[3],"l":"19:3"},{"c":"dc-39","t":"D&C 39","v":[21],"l":"39:21"},{"c":"dc-45","t":"D&C 45","v":[12,13,14,15,16,17],"l":"45:12 (12–34)"},{"c":"moses-7","t":"Moses 7","v":[59,60,61,62,63,64],"l":"Moses 7:65 (59–67)"}],"w":"day","o":99}],"6":[{"m":"6a","refs":[{"c":"1cor-1","t":"1 Corinthians 1","v":[31],"l":"1 Cor. 1:31"},{"c":"1cor-3","t":"1 Corinthians 3","v":[18,19,20,21],"l":"3:21 (18–21)"}],"w":"glorying","o":4}],"7":[{"m":"7a","refs":[{"c":"dc-43","t":"D&C 43","v":[11],"l":"D&amp;C 43:11"}],"w":"Purge","o":0}],"8":[{"m":"8a","refs":[{"c":"ex-12","t":"Exodus 12","v":[14,15,16,17],"l":"Ex. 12:14 (14–17)"}],"w":"feast","o":25}],"9":[{"m":"9b","refs":[{"c":"2thes-3","t":"2 Thessalonians 3","v":[6],"l":"2 Thes. 3:6 (6, 11–15)"}],"w":"company","o":35}],"11":[{"m":"11a","refs":[{"c":"rom-16","t":"Romans 16","v":[17],"l":"Rom. 16:17"}],"w":"company","o":43},{"m":"11d","refs":[{"c":"2jn-1","t":"2 John 1","v":[10],"l":"2 Jn. 1:10"}],"w":"eat","o":204}],"12":[{"m":"12b","refs":[{"c":"1cor-6","t":"1 Corinthians 6","v":[1],"l":"1 Cor. 6:1"}],"w":"judge","o":67}]}
 ```
 
 - **2** 2a [[Alma 5#^alma-5-53|Alma 5:53 (53–56)]] · [[Alma 6#^alma-6-3|6:3]]

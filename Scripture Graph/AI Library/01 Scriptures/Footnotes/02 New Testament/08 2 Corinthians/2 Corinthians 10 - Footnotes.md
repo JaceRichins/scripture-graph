@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 2cor-10
 verses: 9
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Bring every thought into obedience—Paul glories in the Lord.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"dc-19","t":"D&C 19","v":[23],"l":"D&amp;C 19:23"},{"c":"dc-25","t":"D&C 25","v":[5],"l":"25:5 (5, 14)"}]}],"4":[{"m":"4a","refs":[{"c":"eph-6","t":"Ephesians 6","v":[10,11,12,13,14,15],"l":"Eph. 6:11 (10–24)"}]},{"m":"4b","refs":[{"c":"1cor-9","t":"1 Corinthians 9","v":[7],"l":"1 Cor. 9:7"}]}],"6":[{"m":"6b","refs":[{"c":"2cor-7","t":"2 Corinthians 7","v":[15],"l":"2 Cor. 7:15"}]}],"7":[{"m":"7a","refs":[{"c":"1sam-16","t":"1 Samuel 16","v":[7],"l":"1 Sam. 16:7"}]},{"m":"7b","refs":[{"c":"1cor-3","t":"1 Corinthians 3","v":[23],"l":"1 Cor. 3:23"}]}],"8":[{"m":"8a","refs":[{"c":"2cor-13","t":"2 Corinthians 13","v":[10],"l":"2 Cor. 13:10"}]}],"10":[{"m":"10a","refs":[{"c":"gal-4","t":"Galatians 4","v":[13],"l":"Gal. 4:13"}]},{"m":"10b","refs":[{"c":"2cor-11","t":"2 Corinthians 11","v":[6],"l":"2 Cor. 11:6"}]}],"15":[{"m":"15a","refs":[{"c":"rom-15","t":"Romans 15","v":[20],"l":"Rom. 15:20"}]}],"17":[{"m":"17a","refs":[{"c":"jer-9","t":"Jeremiah 9","v":[23,24],"l":"Jer. 9:24 (23–24)"},{"c":"alma-26","t":"Alma 26","v":[11,12,13,14,15,16],"l":"Alma 26:16 (11–16)"}]}],"18":[{"m":"18a","refs":[{"c":"luke-18","t":"Luke 18","v":[14],"l":"Luke 18:14"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"dc-19","t":"D&C 19","v":[23],"l":"D&amp;C 19:23"},{"c":"dc-25","t":"D&C 25","v":[5],"l":"25:5 (5, 14)"}],"w":"meekness","o":36}],"4":[{"m":"4a","refs":[{"c":"eph-6","t":"Ephesians 6","v":[10,11,12,13,14,15],"l":"Eph. 6:11 (10–24)"}],"w":"weapons","o":8},{"m":"4b","refs":[{"c":"1cor-9","t":"1 Corinthians 9","v":[7],"l":"1 Cor. 9:7"}],"w":"warfare","o":21}],"6":[{"m":"6b","refs":[{"c":"2cor-7","t":"2 Corinthians 7","v":[15],"l":"2 Cor. 7:15"}],"w":"obedience","o":63}],"7":[{"m":"7a","refs":[{"c":"1sam-16","t":"1 Samuel 16","v":[7],"l":"1 Sam. 16:7"}],"w":"appearance","o":38},{"m":"7b","refs":[{"c":"1cor-3","t":"1 Corinthians 3","v":[23],"l":"1 Cor. 3:23"}],"w":"Christ’s","o":175}],"8":[{"m":"8a","refs":[{"c":"2cor-13","t":"2 Corinthians 13","v":[10],"l":"2 Cor. 13:10"}],"w":"authority","o":46}],"10":[{"m":"10a","refs":[{"c":"gal-4","t":"Galatians 4","v":[13],"l":"Gal. 4:13"}],"w":"bodily","o":60},{"m":"10b","refs":[{"c":"2cor-11","t":"2 Corinthians 11","v":[6],"l":"2 Cor. 11:6"}],"w":"contemptible","o":98}],"15":[{"m":"15a","refs":[{"c":"rom-15","t":"Romans 15","v":[20],"l":"Rom. 15:20"}],"w":"labours","o":67}],"17":[{"m":"17a","refs":[{"c":"jer-9","t":"Jeremiah 9","v":[23,24],"l":"Jer. 9:24 (23–24)"},{"c":"alma-26","t":"Alma 26","v":[11,12,13,14,15,16],"l":"Alma 26:16 (11–16)"}],"w":"glory","o":29}],"18":[{"m":"18a","refs":[{"c":"luke-18","t":"Luke 18","v":[14],"l":"Luke 18:14"}],"w":"commendeth","o":15}]}
 ```
 
 - **1** 1a [[D&C 19#^dc-19-23|D&amp;C 19:23]] · [[D&C 25#^dc-25-5|25:5 (5, 14)]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: deut-24
 verses: 9
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Laws are given concerning divorce, newly married persons, making merchandise of men, taking pledges, leprosy, oppression of servants, and leaving gleanings of crops.
 
 ```json
-{"1":[{"m":"1c","refs":[{"c":"matt-1","t":"Matthew 1","v":[19],"l":"Matt. 1:19"}]}],"5":[{"m":"5a","refs":[{"c":"deut-20","t":"Deuteronomy 20","v":[7],"l":"Deut. 20:7"}]}],"7":[{"m":"7b","refs":[{"c":"deut-21","t":"Deuteronomy 21","v":[14],"l":"Deut. 21:14"}]}],"13":[{"m":"13a","refs":[{"c":"ex-22","t":"Exodus 22","v":[26],"l":"Ex. 22:26"},{"c":"ezek-18","t":"Ezekiel 18","v":[7],"l":"Ezek. 18:7"}]}],"14":[{"m":"14a","refs":[{"c":"prov-14","t":"Proverbs 14","v":[31],"l":"Prov. 14:31"}]}],"15":[{"m":"15b","refs":[{"c":"lev-19","t":"Leviticus 19","v":[13],"l":"Lev. 19:13"}]},{"m":"15c","refs":[{"c":"deut-15","t":"Deuteronomy 15","v":[9],"l":"Deut. 15:9"}]}],"16":[{"m":"16c","refs":[{"c":"2sam-21","t":"2 Samuel 21","v":[1,2,3,4,5,6],"l":"2 Sam. 21:6 (1–14)"},{"c":"isa-14","t":"Isaiah 14","v":[21],"l":"Isa. 14:21"}]}],"17":[{"m":"17a","refs":[{"c":"deut-27","t":"Deuteronomy 27","v":[19],"l":"Deut. 27:19"}]}],"19":[{"m":"19a","refs":[{"c":"ruth-2","t":"Ruth 2","v":[2],"l":"Ruth 2:2"}]}]}
+{"1":[{"m":"1c","refs":[{"c":"matt-1","t":"Matthew 1","v":[19],"l":"Matt. 1:19"}],"w":"divorcement","o":180}],"5":[{"m":"5a","refs":[{"c":"deut-20","t":"Deuteronomy 20","v":[7],"l":"Deut. 20:7"}],"w":"wife","o":29}],"7":[{"m":"7b","refs":[{"c":"deut-21","t":"Deuteronomy 21","v":[14],"l":"Deut. 21:14"}],"w":"merchandise","o":84}],"13":[{"m":"13a","refs":[{"c":"ex-22","t":"Exodus 22","v":[26],"l":"Ex. 22:26"},{"c":"ezek-18","t":"Ezekiel 18","v":[7],"l":"Ezek. 18:7"}],"w":"pledge","o":38}],"14":[{"m":"14a","refs":[{"c":"prov-14","t":"Proverbs 14","v":[31],"l":"Prov. 14:31"}],"w":"oppress","o":16}],"15":[{"m":"15b","refs":[{"c":"lev-19","t":"Leviticus 19","v":[13],"l":"Lev. 19:13"}],"w":"hire","o":33},{"m":"15c","refs":[{"c":"deut-15","t":"Deuteronomy 15","v":[9],"l":"Deut. 15:9"}],"w":"cry","o":132}],"16":[{"m":"16c","refs":[{"c":"2sam-21","t":"2 Samuel 21","v":[1,2,3,4,5,6],"l":"2 Sam. 21:6 (1–14)"},{"c":"isa-14","t":"Isaiah 14","v":[21],"l":"Isa. 14:21"}],"w":"children","o":69}],"17":[{"m":"17a","refs":[{"c":"deut-27","t":"Deuteronomy 27","v":[19],"l":"Deut. 27:19"}],"w":"pervert","o":16}],"19":[{"m":"19a","refs":[{"c":"ruth-2","t":"Ruth 2","v":[2],"l":"Ruth 2:2"}],"w":"widow","o":189}]}
 ```
 
 - **1** 1c [[Matthew 1#^matt-1-19|Matt. 1:19]]

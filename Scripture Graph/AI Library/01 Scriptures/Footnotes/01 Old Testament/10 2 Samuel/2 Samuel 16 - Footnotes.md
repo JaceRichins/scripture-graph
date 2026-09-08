@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 2sam-16
 verses: 8
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Mephibosheth is alleged to be seeking to be king—Shimei, of the house of Saul, curses David—Ahithophel counsels Absalom, and Absalom takes his father’s concubines.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"2sam-9","t":"2 Samuel 9","v":[2,3,4,5,6,7],"l":"2 Sam. 9:2 (2–12)"}]}],"5":[{"m":"5a","refs":[{"c":"2sam-19","t":"2 Samuel 19","v":[16],"l":"2 Sam. 19:16 (16, 19)"},{"c":"1kgs-2","t":"1 Kings 2","v":[8,9],"l":"1 Kgs. 2:8 (8–9)"}]},{"m":"5b","refs":[{"c":"1kgs-2","t":"1 Kings 2","v":[44],"l":"1 Kgs. 2:44"}]}],"7":[{"m":"7a","refs":[{"c":"deut-13","t":"Deuteronomy 13","v":[13],"l":"Deut. 13:13"}]}],"9":[{"m":"9a","refs":[{"c":"2sam-9","t":"2 Samuel 9","v":[8],"l":"2 Sam. 9:8"}]}],"12":[{"m":"12a","refs":[{"c":"morm-3","t":"Mormon 3","v":[15],"l":"Morm. 3:15"},{"c":"dc-82","t":"D&C 82","v":[23],"l":"D&amp;C 82:23"},{"c":"dc-98","t":"D&C 98","v":[23],"l":"98:23"}]}],"21":[{"m":"21a","refs":[{"c":"2sam-15","t":"2 Samuel 15","v":[16],"l":"2 Sam. 15:16"}]}],"22":[{"m":"22a","refs":[{"c":"2sam-12","t":"2 Samuel 12","v":[12],"l":"2 Sam. 12:12"}]}],"23":[{"m":"23a","refs":[{"c":"2sam-15","t":"2 Samuel 15","v":[12],"l":"2 Sam. 15:12"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"2sam-9","t":"2 Samuel 9","v":[2,3,4,5,6,7],"l":"2 Sam. 9:2 (2–12)"}],"w":"Ziba","o":61}],"5":[{"m":"5a","refs":[{"c":"2sam-19","t":"2 Samuel 19","v":[16],"l":"2 Sam. 19:16 (16, 19)"},{"c":"1kgs-2","t":"1 Kings 2","v":[8,9],"l":"1 Kgs. 2:8 (8–9)"}],"w":"Shimei","o":119},{"m":"5b","refs":[{"c":"1kgs-2","t":"1 Kings 2","v":[44],"l":"1 Kgs. 2:44"}],"w":"cursed","o":162}],"7":[{"m":"7a","refs":[{"c":"deut-13","t":"Deuteronomy 13","v":[13],"l":"Deut. 13:13"}],"w":"man of Belial","o":82}],"9":[{"m":"9a","refs":[{"c":"2sam-9","t":"2 Samuel 9","v":[8],"l":"2 Sam. 9:8"}],"w":"dead dog","o":69}],"12":[{"m":"12a","refs":[{"c":"morm-3","t":"Mormon 3","v":[15],"l":"Morm. 3:15"},{"c":"dc-82","t":"D&C 82","v":[23],"l":"D&amp;C 82:23"},{"c":"dc-98","t":"D&C 98","v":[23],"l":"98:23"}],"w":"requite","o":76}],"21":[{"m":"21a","refs":[{"c":"2sam-15","t":"2 Samuel 15","v":[16],"l":"2 Sam. 15:16"}],"w":"concubines","o":57}],"22":[{"m":"22a","refs":[{"c":"2sam-12","t":"2 Samuel 12","v":[12],"l":"2 Sam. 12:12"}],"w":"Absalom","o":60}],"23":[{"m":"23a","refs":[{"c":"2sam-15","t":"2 Samuel 15","v":[12],"l":"2 Sam. 15:12"}],"w":"Ahithophel","o":18}]}
 ```
 
 - **1** 1a [[2 Samuel 9#^2sam-9-2|2 Sam. 9:2 (2–12)]]

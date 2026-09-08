@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: neh-2
 verses: 6
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Artaxerxes sends Nehemiah to Jerusalem—Sanballat and others oppose Nehemiah in rebuilding the walls and gates of Jerusalem.
 
 ```json
-{"3":[{"m":"3a","refs":[{"c":"ps-137","t":"Psalm 137","v":[4],"l":"Ps. 137:4"}]}],"10":[{"m":"10a","refs":[{"c":"neh-4","t":"Nehemiah 4","v":[1,2,3,4,5,6],"l":"Neh. 4:1 (1–8)"},{"c":"neh-6","t":"Nehemiah 6","v":[1,2,3,4,5,6],"l":"6:1 (1–14)"}]},{"m":"10b","refs":[{"c":"neh-6","t":"Nehemiah 6","v":[16],"l":"Neh. 6:16"}]}],"13":[{"m":"13b","refs":[{"c":"neh-3","t":"Nehemiah 3","v":[13],"l":"Neh. 3:13"}]},{"m":"13d","refs":[{"c":"neh-3","t":"Nehemiah 3","v":[13],"l":"Neh. 3:13"},{"c":"neh-12","t":"Nehemiah 12","v":[31],"l":"12:31"}]}],"14":[{"m":"14a","refs":[{"c":"neh-3","t":"Nehemiah 3","v":[15],"l":"Neh. 3:15"},{"c":"neh-12","t":"Nehemiah 12","v":[37],"l":"12:37"}]}],"17":[{"m":"17a","refs":[{"c":"ezek-5","t":"Ezekiel 5","v":[14],"l":"Ezek. 5:14"}]}],"19":[{"m":"19b","refs":[{"c":"ps-123","t":"Psalm 123","v":[4],"l":"Ps. 123:4"},{"c":"1ne-8","t":"1 Nephi 8","v":[33],"l":"1 Ne. 8:33"},{"c":"alma-26","t":"Alma 26","v":[23],"l":"Alma 26:23"}]}]}
+{"3":[{"m":"3a","refs":[{"c":"ps-137","t":"Psalm 137","v":[4],"l":"Ps. 137:4"}],"w":"sad","o":84}],"10":[{"m":"10a","refs":[{"c":"neh-4","t":"Nehemiah 4","v":[1,2,3,4,5,6],"l":"Neh. 4:1 (1–8)"},{"c":"neh-6","t":"Nehemiah 6","v":[1,2,3,4,5,6],"l":"6:1 (1–14)"}],"w":"Sanballat","o":4},{"m":"10b","refs":[{"c":"neh-6","t":"Nehemiah 6","v":[16],"l":"Neh. 6:16"}],"w":"Tobiah","o":30}],"13":[{"m":"13b","refs":[{"c":"neh-3","t":"Nehemiah 3","v":[13],"l":"Neh. 3:13"}],"w":"valley","o":40},{"m":"13d","refs":[{"c":"neh-3","t":"Nehemiah 3","v":[13],"l":"Neh. 3:13"},{"c":"neh-12","t":"Nehemiah 12","v":[31],"l":"12:31"}],"w":"dung port","o":86}],"14":[{"m":"14a","refs":[{"c":"neh-3","t":"Nehemiah 3","v":[15],"l":"Neh. 3:15"},{"c":"neh-12","t":"Nehemiah 12","v":[37],"l":"12:37"}],"w":"gate","o":21}],"17":[{"m":"17a","refs":[{"c":"ezek-5","t":"Ezekiel 5","v":[14],"l":"Ezek. 5:14"}],"w":"waste","o":80}],"19":[{"m":"19b","refs":[{"c":"ps-123","t":"Psalm 123","v":[4],"l":"Ps. 123:4"},{"c":"1ne-8","t":"1 Nephi 8","v":[33],"l":"1 Ne. 8:33"},{"c":"alma-26","t":"Alma 26","v":[23],"l":"Alma 26:23"}],"w":"scorn","o":121}]}
 ```
 
 - **3** 3a [[Psalm 137#^ps-137-4|Ps. 137:4]]

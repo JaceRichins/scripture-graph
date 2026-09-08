@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 2tim-3
 verses: 9
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Paul describes the apostasy and perilous times of the last days—The scriptures guide man to salvation.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"morm-1","t":"Mormon 1","v":[13,14,15,16,17],"l":"Morm. 1:17 (13–17)"},{"c":"morm-8","t":"Mormon 8","v":[26,27,28,29,30,31],"l":"8:28 (26–33)"}]},{"m":"1b","refs":[{"c":"2tim-4","t":"2 Timothy 4","v":[3],"l":"2 Tim. 4:3"}]}],"3":[{"m":"3a","refs":[{"c":"rom-1","t":"Romans 1","v":[26,27,28],"l":"Rom. 1:26 (26–28)"}]}],"5":[{"m":"5a","refs":[{"c":"rom-2","t":"Romans 2","v":[20],"l":"Rom. 2:20"},{"c":"2ne-28","t":"2 Nephi 28","v":[5],"l":"2 Ne. 28:5"},{"c":"jsh-1","t":"Joseph Smith—History 1","v":[19],"l":"JS—H 1:19"}]}],"8":[{"m":"8b","refs":[{"c":"ps-14","t":"Psalm 14","v":[1],"l":"Ps. 14:1"},{"c":"dc-10","t":"D&C 10","v":[20,21,22,23],"l":"D&amp;C 10:21 (20–23)"},{"c":"dc-112","t":"D&C 112","v":[23,24],"l":"112:23 (23–24)"}]}],"9":[{"m":"9a","refs":[{"c":"dc-35","t":"D&C 35","v":[7],"l":"D&amp;C 35:7"},{"c":"dc-45","t":"D&C 45","v":[49],"l":"45:49"},{"c":"dc-63","t":"D&C 63","v":[15],"l":"63:15"}]}],"11":[{"m":"11a","refs":[{"c":"acts-15","t":"Acts 15","v":[26],"l":"Acts 15:26"}]}],"12":[{"m":"12b","refs":[{"c":"ps-34","t":"Psalm 34","v":[19],"l":"Ps. 34:19"}]}],"14":[{"m":"14a","refs":[{"c":"dc-66","t":"D&C 66","v":[12],"l":"D&amp;C 66:12"}]}],"15":[{"m":"15a","refs":[{"c":"deut-4","t":"Deuteronomy 4","v":[6,7,8,9],"l":"Deut. 4:9 (6–9)"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"morm-1","t":"Mormon 1","v":[13,14,15,16,17],"l":"Morm. 1:17 (13–17)"},{"c":"morm-8","t":"Mormon 8","v":[26,27,28,29,30,31],"l":"8:28 (26–33)"}],"w":"last days","o":27},{"m":"1b","refs":[{"c":"2tim-4","t":"2 Timothy 4","v":[3],"l":"2 Tim. 4:3"}],"w":"times","o":44}],"3":[{"m":"3a","refs":[{"c":"rom-1","t":"Romans 1","v":[26,27,28],"l":"Rom. 1:26 (26–28)"}],"w":"natural","o":7}],"5":[{"m":"5a","refs":[{"c":"rom-2","t":"Romans 2","v":[20],"l":"Rom. 2:20"},{"c":"2ne-28","t":"2 Nephi 28","v":[5],"l":"2 Ne. 28:5"},{"c":"jsh-1","t":"Joseph Smith—History 1","v":[19],"l":"JS—H 1:19"}],"w":"form","o":8}],"8":[{"m":"8b","refs":[{"c":"ps-14","t":"Psalm 14","v":[1],"l":"Ps. 14:1"},{"c":"dc-10","t":"D&C 10","v":[20,21,22,23],"l":"D&amp;C 10:21 (20–23)"},{"c":"dc-112","t":"D&C 112","v":[23,24],"l":"112:23 (23–24)"}],"w":"corrupt","o":82}],"9":[{"m":"9a","refs":[{"c":"dc-35","t":"D&C 35","v":[7],"l":"D&amp;C 35:7"},{"c":"dc-45","t":"D&C 45","v":[49],"l":"45:49"},{"c":"dc-63","t":"D&C 63","v":[15],"l":"63:15"}],"w":"folly","o":44}],"11":[{"m":"11a","refs":[{"c":"acts-15","t":"Acts 15","v":[26],"l":"Acts 15:26"}],"w":"persecutions","o":85}],"12":[{"m":"12b","refs":[{"c":"ps-34","t":"Psalm 34","v":[19],"l":"Ps. 34:19"}],"w":"suffer","o":53}],"14":[{"m":"14a","refs":[{"c":"dc-66","t":"D&C 66","v":[12],"l":"D&amp;C 66:12"}],"w":"continue","o":3}],"15":[{"m":"15a","refs":[{"c":"deut-4","t":"Deuteronomy 4","v":[6,7,8,9],"l":"Deut. 4:9 (6–9)"}],"w":"child","o":15}]}
 ```
 
 - **1** 1a [[Mormon 1#^morm-1-13|Morm. 1:17 (13–17)]] · [[Mormon 8#^morm-8-26|8:28 (26–33)]]; 1b [[2 Timothy 4#^2tim-4-3|2 Tim. 4:3]]

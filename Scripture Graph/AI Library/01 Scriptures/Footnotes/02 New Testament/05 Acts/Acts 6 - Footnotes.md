@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: acts-6
 verses: 8
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Apostles choose seven to assist them—Stephen is tried before the council.
 
 ```json
-{"1":[{"m":"1c","refs":[{"c":"acts-4","t":"Acts 4","v":[35],"l":"Acts 4:35"}]}],"3":[{"m":"3b","refs":[{"c":"1tim-3","t":"1 Timothy 3","v":[7],"l":"1 Tim. 3:7"}]},{"m":"3d","refs":[{"c":"dc-107","t":"D&C 107","v":[14],"l":"D&amp;C 107:68 (14, 68)"}]}],"4":[{"m":"4a","refs":[{"c":"mark-16","t":"Mark 16","v":[15,16,17,18,19],"l":"Mark 16:15 (15–19)"},{"c":"dc-107","t":"D&C 107","v":[8],"l":"D&amp;C 107:8"}]}],"5":[{"m":"5c","refs":[{"c":"acts-21","t":"Acts 21","v":[8],"l":"Acts 21:8"}]}],"7":[{"m":"7a","refs":[{"c":"john-12","t":"John 12","v":[42],"l":"John 12:42"}]}],"10":[{"m":"10a","refs":[{"c":"isa-54","t":"Isaiah 54","v":[17],"l":"Isa. 54:17"},{"c":"luke-21","t":"Luke 21","v":[15],"l":"Luke 21:15"},{"c":"dc-100","t":"D&C 100","v":[5,6],"l":"D&amp;C 100:5 (5–6)"}]}],"14":[{"m":"14a","refs":[{"c":"acts-21","t":"Acts 21","v":[21],"l":"Acts 21:21"}]}],"15":[{"m":"15a","refs":[{"c":"hel-5","t":"Helaman 5","v":[36],"l":"Hel. 5:36"}]}]}
+{"1":[{"m":"1c","refs":[{"c":"acts-4","t":"Acts 4","v":[35],"l":"Acts 4:35"}],"w":"ministration","o":173}],"3":[{"m":"3b","refs":[{"c":"1tim-3","t":"1 Timothy 3","v":[7],"l":"1 Tim. 3:7"}],"w":"report","o":61},{"m":"3d","refs":[{"c":"dc-107","t":"D&C 107","v":[14],"l":"D&amp;C 107:68 (14, 68)"}],"w":"business","o":132}],"4":[{"m":"4a","refs":[{"c":"mark-16","t":"Mark 16","v":[15,16,17,18,19],"l":"Mark 16:15 (15–19)"},{"c":"dc-107","t":"D&C 107","v":[8],"l":"D&amp;C 107:8"}],"w":"ministry","o":60}],"5":[{"m":"5c","refs":[{"c":"acts-21","t":"Acts 21","v":[8],"l":"Acts 21:8"}],"w":"Philip","o":113}],"7":[{"m":"7a","refs":[{"c":"john-12","t":"John 12","v":[42],"l":"John 12:42"}],"w":"priests","o":122}],"10":[{"m":"10a","refs":[{"c":"isa-54","t":"Isaiah 54","v":[17],"l":"Isa. 54:17"},{"c":"luke-21","t":"Luke 21","v":[15],"l":"Luke 21:15"},{"c":"dc-100","t":"D&C 100","v":[5,6],"l":"D&amp;C 100:5 (5–6)"}],"w":"wisdom","o":36}],"14":[{"m":"14a","refs":[{"c":"acts-21","t":"Acts 21","v":[21],"l":"Acts 21:21"}],"w":"customs","o":101}],"15":[{"m":"15a","refs":[{"c":"hel-5","t":"Helaman 5","v":[36],"l":"Hel. 5:36"}],"w":"face","o":92}]}
 ```
 
 - **1** 1c [[Acts 4#^acts-4-35|Acts 4:35]]

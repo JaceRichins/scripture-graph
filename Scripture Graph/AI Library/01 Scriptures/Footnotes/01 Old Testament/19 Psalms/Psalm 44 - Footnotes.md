@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-44
 verses: 9
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Saints praise the Lord and boast in His name forever—They are persecuted, maligned, and considered as sheep for the slaughter.
 
 ```json
-{"1":[{"m":"1b","refs":[{"c":"deut-32","t":"Deuteronomy 32","v":[7],"l":"Deut. 32:7"}]}],"3":[{"m":"3a","refs":[{"c":"deut-2","t":"Deuteronomy 2","v":[36],"l":"Deut. 2:36"}]},{"m":"3b","refs":[{"c":"josh-24","t":"Joshua 24","v":[12],"l":"Josh. 24:12"}]}],"4":[{"m":"4a","refs":[{"c":"ps-74","t":"Psalm 74","v":[12],"l":"Ps. 74:12"},{"c":"2ne-10","t":"2 Nephi 10","v":[14],"l":"2 Ne. 10:14"},{"c":"alma-5","t":"Alma 5","v":[50],"l":"Alma 5:50"},{"c":"dc-38","t":"D&C 38","v":[21,22],"l":"D&amp;C 38:21 (21–22)"}]}],"6":[{"m":"6a","refs":[{"c":"ps-33","t":"Psalm 33","v":[16,17,18],"l":"Ps. 33:16 (16–18)"},{"c":"2ne-4","t":"2 Nephi 4","v":[34],"l":"2 Ne. 4:34"},{"c":"2ne-28","t":"2 Nephi 28","v":[31],"l":"28:31"},{"c":"dc-1","t":"D&C 1","v":[19,20],"l":"D&amp;C 1:19 (19–20)"}]}],"8":[{"m":"8a","refs":[{"c":"2ne-33","t":"2 Nephi 33","v":[6],"l":"2 Ne. 33:6"},{"c":"alma-26","t":"Alma 26","v":[10,11,12,13,14,15],"l":"Alma 26:16 (10–16)"},{"c":"dc-76","t":"D&C 76","v":[61],"l":"D&amp;C 76:61"}]}],"13":[{"m":"13b","refs":[{"c":"ezek-36","t":"Ezekiel 36","v":[4],"l":"Ezek. 36:4"}]}],"19":[{"m":"19b","refs":[{"c":"job-3","t":"Job 3","v":[5],"l":"Job 3:5"}]}],"22":[{"m":"22a","refs":[{"c":"rom-8","t":"Romans 8","v":[36],"l":"Rom. 8:36"}]}],"25":[{"m":"25a","refs":[{"c":"ps-119","t":"Psalm 119","v":[25],"l":"Ps. 119:25"}]}]}
+{"1":[{"m":"1b","refs":[{"c":"deut-32","t":"Deuteronomy 32","v":[7],"l":"Deut. 32:7"}],"w":"told","o":50}],"3":[{"m":"3a","refs":[{"c":"deut-2","t":"Deuteronomy 2","v":[36],"l":"Deut. 2:36"}],"w":"land","o":20},{"m":"3b","refs":[{"c":"josh-24","t":"Joshua 24","v":[12],"l":"Josh. 24:12"}],"w":"sword","o":50}],"4":[{"m":"4a","refs":[{"c":"ps-74","t":"Psalm 74","v":[12],"l":"Ps. 74:12"},{"c":"2ne-10","t":"2 Nephi 10","v":[14],"l":"2 Ne. 10:14"},{"c":"alma-5","t":"Alma 5","v":[50],"l":"Alma 5:50"},{"c":"dc-38","t":"D&C 38","v":[21,22],"l":"D&amp;C 38:21 (21–22)"}],"w":"King","o":11}],"6":[{"m":"6a","refs":[{"c":"ps-33","t":"Psalm 33","v":[16,17,18],"l":"Ps. 33:16 (16–18)"},{"c":"2ne-4","t":"2 Nephi 4","v":[34],"l":"2 Ne. 4:34"},{"c":"2ne-28","t":"2 Nephi 28","v":[31],"l":"28:31"},{"c":"dc-1","t":"D&C 1","v":[19,20],"l":"D&amp;C 1:19 (19–20)"}],"w":"trust","o":14}],"8":[{"m":"8a","refs":[{"c":"2ne-33","t":"2 Nephi 33","v":[6],"l":"2 Ne. 33:6"},{"c":"alma-26","t":"Alma 26","v":[10,11,12,13,14,15],"l":"Alma 26:16 (10–16)"},{"c":"dc-76","t":"D&C 76","v":[61],"l":"D&amp;C 76:61"}],"w":"boast","o":9}],"13":[{"m":"13b","refs":[{"c":"ezek-36","t":"Ezekiel 36","v":[4],"l":"Ezek. 36:4"}],"w":"derision","o":56}],"19":[{"m":"19b","refs":[{"c":"job-3","t":"Job 3","v":[5],"l":"Job 3:5"}],"w":"shadow of death","o":79}],"22":[{"m":"22a","refs":[{"c":"rom-8","t":"Romans 8","v":[36],"l":"Rom. 8:36"}],"w":"killed","o":24}],"25":[{"m":"25a","refs":[{"c":"ps-119","t":"Psalm 119","v":[25],"l":"Ps. 119:25"}],"w":"dust","o":33}]}
 ```
 
 - **1** 1b [[Deuteronomy 32#^deut-32-7|Deut. 32:7]]

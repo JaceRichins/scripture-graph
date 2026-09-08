@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: amos-2
 verses: 8
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Lord will pour out judgments upon Moab, Judah, and Israel for their unrighteousness.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"isa-16","t":"Isaiah 16","v":[13],"l":"Isa. 16:13"}]}],"4":[{"m":"4a","refs":[{"c":"lev-26","t":"Leviticus 26","v":[14,15],"l":"Lev. 26:14 (14–15)"}]}],"6":[{"m":"6a","refs":[{"c":"amos-8","t":"Amos 8","v":[6],"l":"Amos 8:6"}]}],"9":[{"m":"9a","refs":[{"c":"num-21","t":"Numbers 21","v":[21,22,23,24,25],"l":"Num. 21:24 (21–25)"},{"c":"josh-24","t":"Joshua 24","v":[8],"l":"Josh. 24:8"}]}],"10":[{"m":"10a","refs":[{"c":"ex-12","t":"Exodus 12","v":[51],"l":"Ex. 12:51"},{"c":"amos-3","t":"Amos 3","v":[1],"l":"Amos 3:1"}]},{"m":"10b","refs":[{"c":"num-14","t":"Numbers 14","v":[33],"l":"Num. 14:33"}]}],"11":[{"m":"11a","refs":[{"c":"num-6","t":"Numbers 6","v":[2,3,4,5,6,7],"l":"Num. 6:2 (2–21)"}]}],"14":[{"m":"14a","refs":[{"c":"amos-9","t":"Amos 9","v":[1],"l":"Amos 9:1"}]},{"m":"14b","refs":[{"c":"eccl-9","t":"Ecclesiastes 9","v":[11],"l":"Eccl. 9:11"}]}],"15":[{"m":"15a","refs":[{"c":"ps-33","t":"Psalm 33","v":[17],"l":"Ps. 33:17"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"isa-16","t":"Isaiah 16","v":[13],"l":"Isa. 16:13"}],"w":"Moab","o":48}],"4":[{"m":"4a","refs":[{"c":"lev-26","t":"Leviticus 26","v":[14,15],"l":"Lev. 26:14 (14–15)"}],"w":"despised","o":134}],"6":[{"m":"6a","refs":[{"c":"amos-8","t":"Amos 8","v":[6],"l":"Amos 8:6"}],"w":"sold","o":130}],"9":[{"m":"9a","refs":[{"c":"num-21","t":"Numbers 21","v":[21,22,23,24,25],"l":"Num. 21:24 (21–25)"},{"c":"josh-24","t":"Joshua 24","v":[8],"l":"Josh. 24:8"}],"w":"destroyed","o":5}],"10":[{"m":"10a","refs":[{"c":"ex-12","t":"Exodus 12","v":[51],"l":"Ex. 12:51"},{"c":"amos-3","t":"Amos 3","v":[1],"l":"Amos 3:1"}],"w":"brought","o":6},{"m":"10b","refs":[{"c":"num-14","t":"Numbers 14","v":[33],"l":"Num. 14:33"}],"w":"forty","o":55}],"11":[{"m":"11a","refs":[{"c":"num-6","t":"Numbers 6","v":[2,3,4,5,6,7],"l":"Num. 6:2 (2–21)"}],"w":"Nazarites","o":68}],"14":[{"m":"14a","refs":[{"c":"amos-9","t":"Amos 9","v":[1],"l":"Amos 9:1"}],"w":"flight","o":13},{"m":"14b","refs":[{"c":"eccl-9","t":"Ecclesiastes 9","v":[11],"l":"Eccl. 9:11"}],"w":"swift","o":40}],"15":[{"m":"15a","refs":[{"c":"ps-33","t":"Psalm 33","v":[17],"l":"Ps. 33:17"}],"w":"deliver","o":140}]}
 ```
 
 - **1** 1a [[Isaiah 16#^isa-16-13|Isa. 16:13]]

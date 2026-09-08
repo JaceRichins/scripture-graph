@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1tim-5
 verses: 5
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Saints are to care for their worthy poor—Policies concerning elders are given.
 
 ```json
-{"10":[{"m":"10a","refs":[{"c":"acts-16","t":"Acts 16","v":[14,15],"l":"Acts 16:15 (14–15)"}]}],"14":[{"m":"14d","refs":[{"c":"titus-2","t":"Titus 2","v":[4,5],"l":"Titus 2:5 (4–5)"}]}],"18":[{"m":"18a","refs":[{"c":"deut-25","t":"Deuteronomy 25","v":[4],"l":"Deut. 25:4"}]}],"19":[{"m":"19a","refs":[{"c":"deut-19","t":"Deuteronomy 19","v":[15],"l":"Deut. 19:15"}]}],"22":[{"m":"22c","refs":[{"c":"1tim-3","t":"1 Timothy 3","v":[10],"l":"1 Tim. 3:10"}]},{"m":"22d","refs":[{"c":"2jn-1","t":"2 John 1","v":[11],"l":"2 Jn. 1:11"}]},{"m":"22e","refs":[{"c":"james-1","t":"James 1","v":[22,23,24,25,26,27],"l":"James 1:27 (22–27)"}]}]}
+{"10":[{"m":"10a","refs":[{"c":"acts-16","t":"Acts 16","v":[14,15],"l":"Acts 16:15 (14–15)"}],"w":"lodged","o":77}],"14":[{"m":"14d","refs":[{"c":"titus-2","t":"Titus 2","v":[4,5],"l":"Titus 2:5 (4–5)"}],"w":"house","o":66}],"18":[{"m":"18a","refs":[{"c":"deut-25","t":"Deuteronomy 25","v":[4],"l":"Deut. 25:4"}],"w":"muzzle","o":39}],"19":[{"m":"19a","refs":[{"c":"deut-19","t":"Deuteronomy 19","v":[15],"l":"Deut. 19:15"}],"w":"witnesses","o":67}],"22":[{"m":"22c","refs":[{"c":"1tim-3","t":"1 Timothy 3","v":[10],"l":"1 Tim. 3:10"}],"w":"man","o":22},{"m":"22d","refs":[{"c":"2jn-1","t":"2 John 1","v":[11],"l":"2 Jn. 1:11"}],"w":"partaker","o":37},{"m":"22e","refs":[{"c":"james-1","t":"James 1","v":[22,23,24,25,26,27],"l":"James 1:27 (22–27)"}],"w":"pure","o":78}]}
 ```
 
 - **10** 10a [[Acts 16#^acts-16-14|Acts 16:15 (14–15)]]

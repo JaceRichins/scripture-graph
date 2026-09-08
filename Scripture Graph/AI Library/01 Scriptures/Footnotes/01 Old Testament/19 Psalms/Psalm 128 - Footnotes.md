@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-128
 verses: 3
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Blessed are those who fear the Lord and walk in His ways.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"2ne-13","t":"2 Nephi 13","v":[10],"l":"2 Ne. 13:10"}]},{"m":"2b","refs":[{"c":"isa-3","t":"Isaiah 3","v":[10],"l":"Isa. 3:10"}]}],"5":[{"m":"5a","refs":[{"c":"ps-134","t":"Psalm 134","v":[3],"l":"Ps. 134:3"}]}],"6":[{"m":"6a","refs":[{"c":"ps-125","t":"Psalm 125","v":[5],"l":"Ps. 125:5"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"2ne-13","t":"2 Nephi 13","v":[10],"l":"2 Ne. 13:10"}],"w":"eat","o":14},{"m":"2b","refs":[{"c":"isa-3","t":"Isaiah 3","v":[10],"l":"Isa. 3:10"}],"w":"labour","o":20}],"5":[{"m":"5a","refs":[{"c":"ps-134","t":"Psalm 134","v":[3],"l":"Ps. 134:3"}],"w":"bless","o":14}],"6":[{"m":"6a","refs":[{"c":"ps-125","t":"Psalm 125","v":[5],"l":"Ps. 125:5"}],"w":"peace","o":48}]}
 ```
 
 - **2** 2a [[2 Nephi 13#^2ne-13-10|2 Ne. 13:10]]; 2b [[Isaiah 3#^isa-3-10|Isa. 3:10]]

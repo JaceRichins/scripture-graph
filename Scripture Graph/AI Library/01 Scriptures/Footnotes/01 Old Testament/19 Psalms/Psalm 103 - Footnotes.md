@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-103
 verses: 3
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > David exhorts the Saints to bless the Lord for His mercy—The Lord is merciful unto those who keep His commandments.
 
 ```json
-{"5":[{"m":"5a","refs":[{"c":"isa-40","t":"Isaiah 40","v":[31],"l":"Isa. 40:31"}]}],"8":[{"m":"8a","refs":[{"c":"ps-86","t":"Psalm 86","v":[15],"l":"Ps. 86:15"}]},{"m":"8b","refs":[{"c":"gen-19","t":"Genesis 19","v":[16],"l":"Gen. 19:16"},{"c":"dc-76","t":"D&C 76","v":[5],"l":"D&amp;C 76:5"}]}],"13":[{"m":"13a","refs":[{"c":"ezek-24","t":"Ezekiel 24","v":[21],"l":"Ezek. 24:21"},{"c":"mal-3","t":"Malachi 3","v":[17],"l":"Mal. 3:17"}]}]}
+{"5":[{"m":"5a","refs":[{"c":"isa-40","t":"Isaiah 40","v":[31],"l":"Isa. 40:31"}],"w":"eagle’s","o":80}],"8":[{"m":"8a","refs":[{"c":"ps-86","t":"Psalm 86","v":[15],"l":"Ps. 86:15"}],"w":"Lord","o":3},{"m":"8b","refs":[{"c":"gen-19","t":"Genesis 19","v":[16],"l":"Gen. 19:16"},{"c":"dc-76","t":"D&C 76","v":[5],"l":"D&amp;C 76:5"}],"w":"merciful","o":9}],"13":[{"m":"13a","refs":[{"c":"ezek-24","t":"Ezekiel 24","v":[21],"l":"Ezek. 24:21"},{"c":"mal-3","t":"Malachi 3","v":[17],"l":"Mal. 3:17"}],"w":"pitieth","o":16}]}
 ```
 
 - **5** 5a [[Isaiah 40#^isa-40-31|Isa. 40:31]]

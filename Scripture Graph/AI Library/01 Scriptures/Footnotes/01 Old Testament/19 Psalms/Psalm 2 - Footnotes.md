@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-2
 verses: 3
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > A messianic psalm—The heathen will rage against the Lord’s anointed—The Lord speaks of His Son, whom He has begotten.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"acts-4","t":"Acts 4","v":[25,26,27],"l":"Acts 4:26 (25–27)"}]}],"6":[{"m":"6b","refs":[{"c":"ps-48","t":"Psalm 48","v":[1],"l":"Ps. 48:1"},{"c":"ps-99","t":"Psalm 99","v":[9],"l":"99:9"},{"c":"isa-27","t":"Isaiah 27","v":[13],"l":"Isa. 27:13"}]}],"9":[{"m":"9a","refs":[{"c":"isa-11","t":"Isaiah 11","v":[4],"l":"Isa. 11:4"},{"c":"2ne-21","t":"2 Nephi 21","v":[4],"l":"2 Ne. 21:4"},{"c":"dc-19","t":"D&C 19","v":[15],"l":"D&amp;C 19:15"}]},{"m":"9b","refs":[{"c":"rev-2","t":"Revelation 2","v":[26,27,28],"l":"Rev. 2:27 (26–28)"}]},{"m":"9c","refs":[{"c":"isa-30","t":"Isaiah 30","v":[13,14],"l":"Isa. 30:14 (13–14)"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"acts-4","t":"Acts 4","v":[25,26,27],"l":"Acts 4:26 (25–27)"}],"w":"kings","o":3}],"6":[{"m":"6b","refs":[{"c":"ps-48","t":"Psalm 48","v":[1],"l":"Ps. 48:1"},{"c":"ps-99","t":"Psalm 99","v":[9],"l":"99:9"},{"c":"isa-27","t":"Isaiah 27","v":[13],"l":"Isa. 27:13"}],"w":"holy hill","o":28}],"9":[{"m":"9a","refs":[{"c":"isa-11","t":"Isaiah 11","v":[4],"l":"Isa. 11:4"},{"c":"2ne-21","t":"2 Nephi 21","v":[4],"l":"2 Ne. 21:4"},{"c":"dc-19","t":"D&C 19","v":[15],"l":"D&amp;C 19:15"}],"w":"break","o":10},{"m":"9b","refs":[{"c":"rev-2","t":"Revelation 2","v":[26,27,28],"l":"Rev. 2:27 (26–28)"}],"w":"rod of iron","o":26},{"m":"9c","refs":[{"c":"isa-30","t":"Isaiah 30","v":[13,14],"l":"Isa. 30:14 (13–14)"}],"w":"dash","o":49}]}
 ```
 
 - **2** 2a [[Acts 4#^acts-4-25|Acts 4:26 (25–27)]]

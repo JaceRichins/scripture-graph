@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1chr-9
 verses: 7
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The inhabitants of Jerusalem are listed—The responsibilities of the Levites and the areas where they are to serve are listed—The family of Saul is named.
 
 ```json
-{"1":[{"m":"1b","refs":[{"c":"1ne-5","t":"1 Nephi 5","v":[11,12,13,14],"l":"1 Ne. 5:12 (11–14)"}]}],"2":[{"m":"2a","refs":[{"c":"ezra-2","t":"Ezra 2","v":[43],"l":"Ezra 2:43"},{"c":"ezra-7","t":"Ezra 7","v":[24],"l":"7:24"},{"c":"ezra-8","t":"Ezra 8","v":[20],"l":"8:20"}]}],"3":[{"m":"3a","refs":[{"c":"alma-10","t":"Alma 10","v":[3],"l":"Alma 10:3"}]}],"10":[{"m":"10a","refs":[{"c":"neh-11","t":"Nehemiah 11","v":[10],"l":"Neh. 11:10"}]}],"18":[{"m":"18a","refs":[{"c":"ezek-46","t":"Ezekiel 46","v":[1,2],"l":"Ezek. 46:1 (1–2)"}]}],"25":[{"m":"25a","refs":[{"c":"2kgs-11","t":"2 Kings 11","v":[5],"l":"2 Kgs. 11:5"}]}],"33":[{"m":"33a","refs":[{"c":"1chr-6","t":"1 Chronicles 6","v":[31],"l":"1 Chr. 6:31"},{"c":"1chr-25","t":"1 Chronicles 25","v":[1,2,3,4,5,6],"l":"25:6 (1–7)"}]},{"m":"33b","refs":[{"c":"ps-134","t":"Psalm 134","v":[1,2,3],"l":"Ps. 134:1 (1–3)"}]}]}
+{"1":[{"m":"1b","refs":[{"c":"1ne-5","t":"1 Nephi 5","v":[11,12,13,14],"l":"1 Ne. 5:12 (11–14)"}],"w":"book","o":80}],"2":[{"m":"2a","refs":[{"c":"ezra-2","t":"Ezra 2","v":[43],"l":"Ezra 2:43"},{"c":"ezra-7","t":"Ezra 7","v":[24],"l":"7:24"},{"c":"ezra-8","t":"Ezra 8","v":[20],"l":"8:20"}],"w":"Nethinims","o":127}],"3":[{"m":"3a","refs":[{"c":"alma-10","t":"Alma 10","v":[3],"l":"Alma 10:3"}],"w":"Manasseh","o":117}],"10":[{"m":"10a","refs":[{"c":"neh-11","t":"Nehemiah 11","v":[10],"l":"Neh. 11:10"}],"w":"priests","o":12}],"18":[{"m":"18a","refs":[{"c":"ezek-46","t":"Ezekiel 46","v":[1,2],"l":"Ezek. 46:1 (1–2)"}],"w":"gate","o":33}],"25":[{"m":"25a","refs":[{"c":"2kgs-11","t":"2 Kings 11","v":[5],"l":"2 Kgs. 11:5"}],"w":"seven","o":68}],"33":[{"m":"33a","refs":[{"c":"1chr-6","t":"1 Chronicles 6","v":[31],"l":"1 Chr. 6:31"},{"c":"1chr-25","t":"1 Chronicles 25","v":[1,2,3,4,5,6],"l":"25:6 (1–7)"}],"w":"singers","o":17},{"m":"33b","refs":[{"c":"ps-134","t":"Psalm 134","v":[1,2,3],"l":"Ps. 134:1 (1–3)"}],"w":"night","o":147}]}
 ```
 
 - **1** 1b [[1 Nephi 5#^1ne-5-11|1 Ne. 5:12 (11–14)]]

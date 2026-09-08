@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-121
 verses: 7
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Help comes from the Lord—He is the guardian of Israel.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"ps-123","t":"Psalm 123","v":[1],"l":"Ps. 123:1"}]}],"2":[{"m":"2a","refs":[{"c":"ps-124","t":"Psalm 124","v":[8],"l":"Ps. 124:8"}]}],"3":[{"m":"3a","refs":[{"c":"ps-66","t":"Psalm 66","v":[9],"l":"Ps. 66:9"}]},{"m":"3b","refs":[{"c":"ps-127","t":"Psalm 127","v":[1],"l":"Ps. 127:1"}]}],"5":[{"m":"5b","refs":[{"c":"ps-91","t":"Psalm 91","v":[1],"l":"Ps. 91:1"}]}],"6":[{"m":"6a","refs":[{"c":"isa-49","t":"Isaiah 49","v":[10],"l":"Isa. 49:10"},{"c":"rev-7","t":"Revelation 7","v":[16],"l":"Rev. 7:16"}]}],"7":[{"m":"7a","refs":[{"c":"ps-97","t":"Psalm 97","v":[10],"l":"Ps. 97:10"},{"c":"dc-45","t":"D&C 45","v":[46],"l":"D&amp;C 45:46"}]}],"8":[{"m":"8a","refs":[{"c":"deut-28","t":"Deuteronomy 28","v":[6],"l":"Deut. 28:6"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"ps-123","t":"Psalm 123","v":[1],"l":"Ps. 123:1"}],"w":"lift up","o":6}],"2":[{"m":"2a","refs":[{"c":"ps-124","t":"Psalm 124","v":[8],"l":"Ps. 124:8"}],"w":"help","o":2}],"3":[{"m":"3a","refs":[{"c":"ps-66","t":"Psalm 66","v":[9],"l":"Ps. 66:9"}],"w":"foot","o":22},{"m":"3b","refs":[{"c":"ps-127","t":"Psalm 127","v":[1],"l":"Ps. 127:1"}],"w":"keepeth","o":46}],"5":[{"m":"5b","refs":[{"c":"ps-91","t":"Psalm 91","v":[1],"l":"Ps. 91:1"}],"w":"shade","o":38}],"6":[{"m":"6a","refs":[{"c":"isa-49","t":"Isaiah 49","v":[10],"l":"Isa. 49:10"},{"c":"rev-7","t":"Revelation 7","v":[16],"l":"Rev. 7:16"}],"w":"sun","o":3}],"7":[{"m":"7a","refs":[{"c":"ps-97","t":"Psalm 97","v":[10],"l":"Ps. 97:10"},{"c":"dc-45","t":"D&C 45","v":[46],"l":"D&amp;C 45:46"}],"w":"preserve","o":52}],"8":[{"m":"8a","refs":[{"c":"deut-28","t":"Deuteronomy 28","v":[6],"l":"Deut. 28:6"}],"w":"coming","o":45}]}
 ```
 
 - **1** 1a [[Psalm 123#^ps-123-1|Ps. 123:1]]

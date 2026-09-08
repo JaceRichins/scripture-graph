@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: dc-99
 verses: 8
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:02Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > 1–8, John Murdock is called to proclaim the gospel, and those who receive him receive the Lord and will obtain mercy.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"luke-10","t":"Luke 10","v":[1,2,3,4,5,6],"l":"Luke 10:1 (1–20)"}]}],"2":[{"m":"2a","refs":[{"c":"matt-10","t":"Matthew 10","v":[40,41,42],"l":"Matt. 10:40 (40–42)"}]},{"m":"2b","refs":[{"c":"1cor-2","t":"1 Corinthians 2","v":[4],"l":"1 Cor. 2:4"}]}],"3":[{"m":"3a","refs":[{"c":"matt-18","t":"Matthew 18","v":[1,2,3,4,5,6],"l":"Matt. 18:4 (1–14)"}]}],"4":[{"m":"4a","refs":[{"c":"john-12","t":"John 12","v":[44,45,46,47,48,49],"l":"John 12:49 (44–49)"}]},{"m":"4b","refs":[{"c":"dc-75","t":"D&C 75","v":[19,20,21,22],"l":"D&amp;C 75:20 (19–22)"}]}],"5":[{"m":"5a","refs":[{"c":"dc-1","t":"D&C 1","v":[12],"l":"D&amp;C 1:12"}]},{"m":"5b","refs":[{"c":"jude-1","t":"Jude 1","v":[14,15],"l":"Jude 1:15 (14–15)"}]}],"6":[{"m":"6a","refs":[{"c":"dc-75","t":"D&C 75","v":[24,25,26],"l":"D&amp;C 75:24 (24–26)"}]}],"7":[{"m":"7a","refs":[{"c":"dc-85","t":"D&C 85","v":[1,2,3],"l":"D&amp;C 85:7 (1–3, 7, 9)"},{"c":"dc-101","t":"D&C 101","v":[1],"l":"101:18 (1, 6, 18)"}]}],"8":[{"m":"8a","refs":[{"c":"matt-19","t":"Matthew 19","v":[29],"l":"Matt. 19:29"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"luke-10","t":"Luke 10","v":[1,2,3,4,5,6],"l":"Luke 10:1 (1–20)"}],"w":"called","o":65}],"2":[{"m":"2a","refs":[{"c":"matt-10","t":"Matthew 10","v":[40,41,42],"l":"Matt. 10:40 (40–42)"}],"w":"receiveth","o":7},{"m":"2b","refs":[{"c":"1cor-2","t":"1 Corinthians 2","v":[4],"l":"1 Cor. 2:4"}],"w":"demonstration","o":84}],"3":[{"m":"3a","refs":[{"c":"matt-18","t":"Matthew 18","v":[1,2,3,4,5,6],"l":"Matt. 18:4 (1–14)"}],"w":"as","o":21}],"4":[{"m":"4a","refs":[{"c":"john-12","t":"John 12","v":[44,45,46,47,48,49],"l":"John 12:49 (44–49)"}],"w":"rejected","o":32},{"m":"4b","refs":[{"c":"dc-75","t":"D&C 75","v":[19,20,21,22],"l":"D&amp;C 75:20 (19–22)"}],"w":"feet","o":94}],"5":[{"m":"5a","refs":[{"c":"dc-1","t":"D&C 1","v":[12],"l":"D&amp;C 1:12"}],"w":"come","o":21},{"m":"5b","refs":[{"c":"jude-1","t":"Jude 1","v":[14,15],"l":"Jude 1:15 (14–15)"}],"w":"judgment","o":35}],"6":[{"m":"6a","refs":[{"c":"dc-75","t":"D&C 75","v":[24,25,26],"l":"D&amp;C 75:24 (24–26)"}],"w":"provided","o":99}],"7":[{"m":"7a","refs":[{"c":"dc-85","t":"D&C 85","v":[1,2,3],"l":"D&amp;C 85:7 (1–3, 7, 9)"},{"c":"dc-101","t":"D&C 101","v":[1],"l":"101:18 (1, 6, 18)"}],"w":"inheritance","o":108}],"8":[{"m":"8a","refs":[{"c":"matt-19","t":"Matthew 19","v":[29],"l":"Matt. 19:29"}],"w":"until","o":51}]}
 ```
 
 - **1** 1a [[Luke 10#^luke-10-1|Luke 10:1 (1–20)]]

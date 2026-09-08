@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: judg-14
 verses: 6
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Samson slays a young lion with his bare hands—He marries a Philistine wife, propounds a riddle, is deceived by his wife, and slays thirty Philistines.
 
 ```json
-{"3":[{"m":"3b","refs":[{"c":"gen-34","t":"Genesis 34","v":[14],"l":"Gen. 34:14"}]}],"4":[{"m":"4a","refs":[{"c":"josh-11","t":"Joshua 11","v":[20],"l":"Josh. 11:20"}]},{"m":"4b","refs":[{"c":"judg-15","t":"Judges 15","v":[11],"l":"Judg. 15:11"}]}],"6":[{"m":"6a","refs":[{"c":"1ne-7","t":"1 Nephi 7","v":[17,18],"l":"1 Ne. 7:17 (17–18)"}]}],"10":[{"m":"10a","refs":[{"c":"gen-29","t":"Genesis 29","v":[22],"l":"Gen. 29:22"}]}],"15":[{"m":"15a","refs":[{"c":"judg-16","t":"Judges 16","v":[5],"l":"Judg. 16:5"}]},{"m":"15b","refs":[{"c":"judg-15","t":"Judges 15","v":[6],"l":"Judg. 15:6"}]}],"16":[{"m":"16a","refs":[{"c":"judg-16","t":"Judges 16","v":[15],"l":"Judg. 16:15"}]}]}
+{"3":[{"m":"3b","refs":[{"c":"gen-34","t":"Genesis 34","v":[14],"l":"Gen. 34:14"}],"w":"uncircumcised","o":165}],"4":[{"m":"4a","refs":[{"c":"josh-11","t":"Joshua 11","v":[20],"l":"Josh. 11:20"}],"w":"Lord","o":57},{"m":"4b","refs":[{"c":"judg-15","t":"Judges 15","v":[11],"l":"Judg. 15:11"}],"w":"dominion","o":151}],"6":[{"m":"6a","refs":[{"c":"1ne-7","t":"1 Nephi 7","v":[17,18],"l":"1 Ne. 7:17 (17–18)"}],"w":"Spirit","o":7}],"10":[{"m":"10a","refs":[{"c":"gen-29","t":"Genesis 29","v":[22],"l":"Gen. 29:22"}],"w":"feast","o":65}],"15":[{"m":"15a","refs":[{"c":"judg-16","t":"Judges 16","v":[5],"l":"Judg. 16:5"}],"w":"Entice","o":74},{"m":"15b","refs":[{"c":"judg-15","t":"Judges 15","v":[6],"l":"Judg. 15:6"}],"w":"burn","o":140}],"16":[{"m":"16a","refs":[{"c":"judg-16","t":"Judges 16","v":[15],"l":"Judg. 16:15"}],"w":"riddle","o":108}]}
 ```
 
 - **3** 3b [[Genesis 34#^gen-34-14|Gen. 34:14]]

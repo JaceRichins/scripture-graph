@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: job-24
 verses: 5
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Murderers, adulterers, those who oppress the poor, and wicked people in general often go unpunished for a little while.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"deut-19","t":"Deuteronomy 19","v":[14],"l":"Deut. 19:14"},{"c":"prov-22","t":"Proverbs 22","v":[28],"l":"Prov. 22:28"},{"c":"hosea-5","t":"Hosea 5","v":[10],"l":"Hosea 5:10"}]}],"13":[{"m":"13a","refs":[{"c":"1ne-2","t":"1 Nephi 2","v":[19,20,21,22,23,24],"l":"1 Ne. 2:23 (19–24)"},{"c":"mosiah-15","t":"Mosiah 15","v":[26],"l":"Mosiah 15:26"},{"c":"dc-10","t":"D&C 10","v":[20,21,22],"l":"D&amp;C 10:21 (20–22)"}]},{"m":"13b","refs":[{"c":"hel-13","t":"Helaman 13","v":[29],"l":"Hel. 13:29"}]}],"15":[{"m":"15a","refs":[{"c":"prov-7","t":"Proverbs 7","v":[9,10],"l":"Prov. 7:9 (9–10)"}]}],"16":[{"m":"16a","refs":[{"c":"dc-10","t":"D&C 10","v":[21],"l":"D&amp;C 10:21"}]}],"24":[{"m":"24a","refs":[{"c":"ps-37","t":"Psalm 37","v":[10,11],"l":"Ps. 37:10 (10–11)"}]},{"m":"24b","refs":[{"c":"2ne-26","t":"2 Nephi 26","v":[10],"l":"2 Ne. 26:10"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"deut-19","t":"Deuteronomy 19","v":[14],"l":"Deut. 19:14"},{"c":"prov-22","t":"Proverbs 22","v":[28],"l":"Prov. 22:28"},{"c":"hosea-5","t":"Hosea 5","v":[10],"l":"Hosea 5:10"}],"w":"landmarks","o":15}],"13":[{"m":"13a","refs":[{"c":"1ne-2","t":"1 Nephi 2","v":[19,20,21,22,23,24],"l":"1 Ne. 2:23 (19–24)"},{"c":"mosiah-15","t":"Mosiah 15","v":[26],"l":"Mosiah 15:26"},{"c":"dc-10","t":"D&C 10","v":[20,21,22],"l":"D&amp;C 10:21 (20–22)"}],"w":"rebel","o":22},{"m":"13b","refs":[{"c":"hel-13","t":"Helaman 13","v":[29],"l":"Hel. 13:29"}],"w":"light","o":38}],"15":[{"m":"15a","refs":[{"c":"prov-7","t":"Proverbs 7","v":[9,10],"l":"Prov. 7:9 (9–10)"}],"w":"twilight","o":45}],"16":[{"m":"16a","refs":[{"c":"dc-10","t":"D&C 10","v":[21],"l":"D&amp;C 10:21"}],"w":"light","o":107}],"24":[{"m":"24a","refs":[{"c":"ps-37","t":"Psalm 37","v":[10,11],"l":"Ps. 37:10 (10–11)"}],"w":"little while","o":22},{"m":"24b","refs":[{"c":"2ne-26","t":"2 Nephi 26","v":[10],"l":"2 Ne. 26:10"}],"w":"low","o":60}]}
 ```
 
 - **2** 2a [[Deuteronomy 19#^deut-19-14|Deut. 19:14]] · [[Proverbs 22#^prov-22-28|Prov. 22:28]] · [[Hosea 5#^hosea-5-10|Hosea 5:10]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: judg-4
 verses: 8
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Deborah, a prophetess, judges Israel—She and Barak deliver Israel from the Canaanites—Jael, a woman, slays Sisera, the Canaanite.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"judg-3","t":"Judges 3","v":[5,6,7],"l":"Judg. 3:7 (5–7)"},{"c":"3ne-30","t":"3 Nephi 30","v":[2],"l":"3 Ne. 30:2"},{"c":"abr-1","t":"Abraham 1","v":[5,6,7],"l":"Abr. 1:6 (5–7)"}]}],"2":[{"m":"2a","refs":[{"c":"2ne-7","t":"2 Nephi 7","v":[1],"l":"2 Ne. 7:1"}]}],"3":[{"m":"3a","refs":[{"c":"josh-17","t":"Joshua 17","v":[16],"l":"Josh. 17:16"},{"c":"judg-1","t":"Judges 1","v":[19],"l":"Judg. 1:19"}]},{"m":"3c","refs":[{"c":"ps-106","t":"Psalm 106","v":[42,43],"l":"Ps. 106:42 (42–43)"}]}],"4":[{"m":"4a","refs":[{"c":"ex-15","t":"Exodus 15","v":[20,21],"l":"Ex. 15:20 (20–21)"},{"c":"acts-21","t":"Acts 21","v":[8,9],"l":"Acts 21:9 (8–9)"}]}],"6":[{"m":"6a","refs":[{"c":"heb-11","t":"Hebrews 11","v":[32],"l":"Heb. 11:32"}]}],"14":[{"m":"14a","refs":[{"c":"deut-9","t":"Deuteronomy 9","v":[3],"l":"Deut. 9:3"},{"c":"ether-1","t":"Ether 1","v":[42,43],"l":"Ether 1:42 (42–43)"},{"c":"dc-84","t":"D&C 84","v":[87,88],"l":"D&amp;C 84:88 (87–88)"}]}],"15":[{"m":"15b","refs":[{"c":"ps-83","t":"Psalm 83","v":[9],"l":"Ps. 83:9"}]}],"21":[{"m":"21b","refs":[{"c":"judg-5","t":"Judges 5","v":[25,26,27],"l":"Judg. 5:26 (25–27)"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"judg-3","t":"Judges 3","v":[5,6,7],"l":"Judg. 3:7 (5–7)"},{"c":"3ne-30","t":"3 Nephi 30","v":[2],"l":"3 Ne. 30:2"},{"c":"abr-1","t":"Abraham 1","v":[5,6,7],"l":"Abr. 1:6 (5–7)"}],"w":"evil","o":36}],"2":[{"m":"2a","refs":[{"c":"2ne-7","t":"2 Nephi 7","v":[1],"l":"2 Ne. 7:1"}],"w":"sold","o":12}],"3":[{"m":"3a","refs":[{"c":"josh-17","t":"Joshua 17","v":[16],"l":"Josh. 17:16"},{"c":"judg-1","t":"Judges 1","v":[19],"l":"Judg. 1:19"}],"w":"chariots","o":71},{"m":"3c","refs":[{"c":"ps-106","t":"Psalm 106","v":[42,43],"l":"Ps. 106:42 (42–43)"}],"w":"oppressed","o":115}],"4":[{"m":"4a","refs":[{"c":"ex-15","t":"Exodus 15","v":[20,21],"l":"Ex. 15:20 (20–21)"},{"c":"acts-21","t":"Acts 21","v":[8,9],"l":"Acts 21:9 (8–9)"}],"w":"prophetess","o":16}],"6":[{"m":"6a","refs":[{"c":"heb-11","t":"Hebrews 11","v":[32],"l":"Heb. 11:32"}],"w":"Barak","o":23}],"14":[{"m":"14a","refs":[{"c":"deut-9","t":"Deuteronomy 9","v":[3],"l":"Deut. 9:3"},{"c":"ether-1","t":"Ether 1","v":[42,43],"l":"Ether 1:42 (42–43)"},{"c":"dc-84","t":"D&C 84","v":[87,88],"l":"D&amp;C 84:88 (87–88)"}],"w":"before","o":134}],"15":[{"m":"15b","refs":[{"c":"ps-83","t":"Psalm 83","v":[9],"l":"Ps. 83:9"}],"w":"Sisera","o":23}],"21":[{"m":"21b","refs":[{"c":"judg-5","t":"Judges 5","v":[25,26,27],"l":"Judg. 5:26 (25–27)"}],"w":"temples","o":131}]}
 ```
 
 - **1** 1a [[Judges 3#^judg-3-5|Judg. 3:7 (5–7)]] · [[3 Nephi 30#^3ne-30-2|3 Ne. 30:2]] · [[Abraham 1#^abr-1-5|Abr. 1:6 (5–7)]]

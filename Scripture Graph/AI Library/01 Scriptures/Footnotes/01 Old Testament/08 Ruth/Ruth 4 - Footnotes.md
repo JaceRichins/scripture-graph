@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ruth-4
 verses: 9
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The nearest relative declines, and Boaz takes Ruth to wife—Ruth bears Obed, through whom came David the king.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"gen-23","t":"Genesis 23","v":[10],"l":"Gen. 23:10"},{"c":"josh-20","t":"Joshua 20","v":[4],"l":"Josh. 20:4"}]},{"m":"1b","refs":[{"c":"ruth-2","t":"Ruth 2","v":[20],"l":"Ruth 2:20"}]}],"2":[{"m":"2a","refs":[{"c":"josh-20","t":"Joshua 20","v":[4],"l":"Josh. 20:4"}]}],"4":[{"m":"4a","refs":[{"c":"lev-25","t":"Leviticus 25","v":[25],"l":"Lev. 25:25"}]}],"5":[{"m":"5b","refs":[{"c":"deut-25","t":"Deuteronomy 25","v":[5,6],"l":"Deut. 25:5 (5–6)"}]}],"6":[{"m":"6b","refs":[{"c":"deut-25","t":"Deuteronomy 25","v":[5,6],"l":"Deut. 25:6 (5–6)"}]}],"7":[{"m":"7b","refs":[{"c":"deut-25","t":"Deuteronomy 25","v":[5,6,7,8,9,10],"l":"Deut. 25:9 (5–10)"}]}],"10":[{"m":"10a","refs":[{"c":"deut-25","t":"Deuteronomy 25","v":[6],"l":"Deut. 25:6"}]}],"18":[{"m":"18a","refs":[{"c":"gen-38","t":"Genesis 38","v":[1,2,3,4,5,6],"l":"Gen. 38:29 (1–30)"},{"c":"1chr-2","t":"1 Chronicles 2","v":[4,5,6,7,8,9],"l":"1 Chr. 2:4 (4–15)"},{"c":"matt-1","t":"Matthew 1","v":[3,4,5,6],"l":"Matt. 1:3 (3–6)"},{"c":"luke-3","t":"Luke 3","v":[23,24,25,26,27,28],"l":"Luke 3:33 (23–38)"}]}],"21":[{"m":"21a","refs":[{"c":"matt-1","t":"Matthew 1","v":[5],"l":"Matt. 1:5"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"gen-23","t":"Genesis 23","v":[10],"l":"Gen. 23:10"},{"c":"josh-20","t":"Joshua 20","v":[4],"l":"Josh. 20:4"}],"w":"gate","o":24},{"m":"1b","refs":[{"c":"ruth-2","t":"Ruth 2","v":[20],"l":"Ruth 2:20"}],"w":"kinsman","o":70}],"2":[{"m":"2a","refs":[{"c":"josh-20","t":"Joshua 20","v":[4],"l":"Josh. 20:4"}],"w":"elders","o":26}],"4":[{"m":"4a","refs":[{"c":"lev-25","t":"Leviticus 25","v":[25],"l":"Lev. 25:25"}],"w":"Buy","o":40}],"5":[{"m":"5b","refs":[{"c":"deut-25","t":"Deuteronomy 25","v":[5,6],"l":"Deut. 25:5 (5–6)"}],"w":"name","o":149}],"6":[{"m":"6b","refs":[{"c":"deut-25","t":"Deuteronomy 25","v":[5,6],"l":"Deut. 25:6 (5–6)"}],"w":"mar","o":59}],"7":[{"m":"7b","refs":[{"c":"deut-25","t":"Deuteronomy 25","v":[5,6,7,8,9,10],"l":"Deut. 25:9 (5–10)"}],"w":"shoe","o":142}],"10":[{"m":"10a","refs":[{"c":"deut-25","t":"Deuteronomy 25","v":[6],"l":"Deut. 25:6"}],"w":"name","o":144}],"18":[{"m":"18a","refs":[{"c":"gen-38","t":"Genesis 38","v":[1,2,3,4,5,6],"l":"Gen. 38:29 (1–30)"},{"c":"1chr-2","t":"1 Chronicles 2","v":[4,5,6,7,8,9],"l":"1 Chr. 2:4 (4–15)"},{"c":"matt-1","t":"Matthew 1","v":[3,4,5,6],"l":"Matt. 1:3 (3–6)"},{"c":"luke-3","t":"Luke 3","v":[23,24,25,26,27,28],"l":"Luke 3:33 (23–38)"}],"w":"Pharez","o":34}],"21":[{"m":"21a","refs":[{"c":"matt-1","t":"Matthew 1","v":[5],"l":"Matt. 1:5"}],"w":"Boaz","o":16}]}
 ```
 
 - **1** 1a [[Genesis 23#^gen-23-10|Gen. 23:10]] · [[Joshua 20#^josh-20-4|Josh. 20:4]]; 1b [[Ruth 2#^ruth-2-20|Ruth 2:20]]

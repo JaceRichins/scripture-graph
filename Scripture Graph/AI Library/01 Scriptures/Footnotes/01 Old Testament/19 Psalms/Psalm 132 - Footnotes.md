@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-132
 verses: 7
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > A messianic psalm—Of the fruit of David’s loins will the Lord set One upon His throne—The Lord will bless Zion, and her Saints will shout for joy.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"2chr-6","t":"2 Chronicles 6","v":[42],"l":"2 Chr. 6:42"}]}],"2":[{"m":"2b","refs":[{"c":"isa-49","t":"Isaiah 49","v":[26],"l":"Isa. 49:26"}]}],"5":[{"m":"5a","refs":[{"c":"1chr-22","t":"1 Chronicles 22","v":[7],"l":"1 Chr. 22:7"}]}],"11":[{"m":"11a","refs":[{"c":"luke-1","t":"Luke 1","v":[54,55],"l":"Luke 1:55 (54–55)"},{"c":"gal-3","t":"Galatians 3","v":[16],"l":"Gal. 3:16"}]}],"12":[{"m":"12a","refs":[{"c":"1kgs-2","t":"1 Kings 2","v":[4],"l":"1 Kgs. 2:4"}]},{"m":"12b","refs":[{"c":"dc-90","t":"D&C 90","v":[24],"l":"D&amp;C 90:24"}]},{"m":"12d","refs":[{"c":"1kgs-9","t":"1 Kings 9","v":[5],"l":"1 Kgs. 9:5"}]}],"15":[{"m":"15a","refs":[{"c":"dc-58","t":"D&C 58","v":[8,9,10,11],"l":"D&amp;C 58:8 (8–11)"}]}],"16":[{"m":"16a","refs":[{"c":"isa-61","t":"Isaiah 61","v":[10],"l":"Isa. 61:10"}]},{"m":"16b","refs":[{"c":"dc-109","t":"D&C 109","v":[80],"l":"D&amp;C 109:80"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"2chr-6","t":"2 Chronicles 6","v":[42],"l":"2 Chr. 6:42"}],"w":"remember","o":5}],"2":[{"m":"2b","refs":[{"c":"isa-49","t":"Isaiah 49","v":[26],"l":"Isa. 49:26"}],"w":"mighty God","o":44}],"5":[{"m":"5a","refs":[{"c":"1chr-22","t":"1 Chronicles 22","v":[7],"l":"1 Chr. 22:7"}],"w":"habitation","o":41}],"11":[{"m":"11a","refs":[{"c":"luke-1","t":"Luke 1","v":[54,55],"l":"Luke 1:55 (54–55)"},{"c":"gal-3","t":"Galatians 3","v":[16],"l":"Gal. 3:16"}],"w":"David","o":33}],"12":[{"m":"12a","refs":[{"c":"1kgs-2","t":"1 Kings 2","v":[4],"l":"1 Kgs. 2:4"}],"w":"children","o":6},{"m":"12b","refs":[{"c":"dc-90","t":"D&C 90","v":[24],"l":"D&amp;C 90:24"}],"w":"covenant","o":26},{"m":"12d","refs":[{"c":"1kgs-9","t":"1 Kings 9","v":[5],"l":"1 Kgs. 9:5"}],"w":"throne","o":112}],"15":[{"m":"15a","refs":[{"c":"dc-58","t":"D&C 58","v":[8,9,10,11],"l":"D&amp;C 58:8 (8–11)"}],"w":"poor","o":57}],"16":[{"m":"16a","refs":[{"c":"isa-61","t":"Isaiah 61","v":[10],"l":"Isa. 61:10"}],"w":"clothe","o":11},{"m":"16b","refs":[{"c":"dc-109","t":"D&C 109","v":[80],"l":"D&amp;C 109:80"}],"w":"shout","o":65}]}
 ```
 
 - **1** 1a [[2 Chronicles 6#^2chr-6-42|2 Chr. 6:42]]

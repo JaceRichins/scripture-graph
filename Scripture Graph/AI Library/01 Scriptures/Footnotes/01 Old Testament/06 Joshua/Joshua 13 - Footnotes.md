@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: josh-13
 verses: 12
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > There remain some lands yet to be possessed—Some inhabitants are not expelled—The inheritances of Reuben, Gad, and one half of Manasseh are confirmed.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"josh-23","t":"Joshua 23","v":[1],"l":"Josh. 23:1"}]}],"2":[{"m":"2a","refs":[{"c":"deut-3","t":"Deuteronomy 3","v":[14],"l":"Deut. 3:14"}]}],"3":[{"m":"3a","refs":[{"c":"judg-3","t":"Judges 3","v":[3],"l":"Judg. 3:3"}]}],"5":[{"m":"5a","refs":[{"c":"1kgs-5","t":"1 Kings 5","v":[18],"l":"1 Kgs. 5:18"}]}],"6":[{"m":"6a","refs":[{"c":"num-34","t":"Numbers 34","v":[2],"l":"Num. 34:2"},{"c":"ps-135","t":"Psalm 135","v":[12],"l":"Ps. 135:12"}]}],"8":[{"m":"8a","refs":[{"c":"josh-14","t":"Joshua 14","v":[3],"l":"Josh. 14:3"}]}],"9":[{"m":"9a","refs":[{"c":"num-21","t":"Numbers 21","v":[24],"l":"Num. 21:24"},{"c":"deut-3","t":"Deuteronomy 3","v":[15,16,17],"l":"Deut. 3:16 (15–17)"},{"c":"deut-4","t":"Deuteronomy 4","v":[47,48,49],"l":"4:48 (47–49)"}]},{"m":"9b","refs":[{"c":"1chr-19","t":"1 Chronicles 19","v":[7],"l":"1 Chr. 19:7"}]}],"14":[{"m":"14a","refs":[{"c":"num-18","t":"Numbers 18","v":[20],"l":"Num. 18:20"}]}],"15":[{"m":"15a","refs":[{"c":"num-26","t":"Numbers 26","v":[5],"l":"Num. 26:5"}]}],"21":[{"m":"21a","refs":[{"c":"num-31","t":"Numbers 31","v":[8],"l":"Num. 31:8"}]}],"27":[{"m":"27a","refs":[{"c":"gen-33","t":"Genesis 33","v":[17],"l":"Gen. 33:17"}]}],"30":[{"m":"30a","refs":[{"c":"num-32","t":"Numbers 32","v":[41],"l":"Num. 32:41"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"josh-23","t":"Joshua 23","v":[1],"l":"Josh. 23:1"}],"w":"Joshua","o":3}],"2":[{"m":"2a","refs":[{"c":"deut-3","t":"Deuteronomy 3","v":[14],"l":"Deut. 3:14"}],"w":"Geshuri","o":80}],"3":[{"m":"3a","refs":[{"c":"judg-3","t":"Judges 3","v":[3],"l":"Judg. 3:3"}],"w":"five","o":111}],"5":[{"m":"5a","refs":[{"c":"1kgs-5","t":"1 Kings 5","v":[18],"l":"1 Kgs. 5:18"}],"w":"Giblites","o":19}],"6":[{"m":"6a","refs":[{"c":"num-34","t":"Numbers 34","v":[2],"l":"Num. 34:2"},{"c":"ps-135","t":"Psalm 135","v":[12],"l":"Ps. 135:12"}],"w":"divide","o":160}],"8":[{"m":"8a","refs":[{"c":"josh-14","t":"Joshua 14","v":[3],"l":"Josh. 14:3"}],"w":"Reubenites","o":13}],"9":[{"m":"9a","refs":[{"c":"num-21","t":"Numbers 21","v":[24],"l":"Num. 21:24"},{"c":"deut-3","t":"Deuteronomy 3","v":[15,16,17],"l":"Deut. 3:16 (15–17)"},{"c":"deut-4","t":"Deuteronomy 4","v":[47,48,49],"l":"4:48 (47–49)"}],"w":"Arnon","o":46},{"m":"9b","refs":[{"c":"1chr-19","t":"1 Chronicles 19","v":[7],"l":"1 Chr. 19:7"}],"w":"Medeba","o":121}],"14":[{"m":"14a","refs":[{"c":"num-18","t":"Numbers 18","v":[20],"l":"Num. 18:20"}],"w":"inheritance","o":40}],"15":[{"m":"15a","refs":[{"c":"num-26","t":"Numbers 26","v":[5],"l":"Num. 26:5"}],"w":"Reuben","o":50}],"21":[{"m":"21a","refs":[{"c":"num-31","t":"Numbers 31","v":[8],"l":"Num. 31:8"}],"w":"princes","o":135}],"27":[{"m":"27a","refs":[{"c":"gen-33","t":"Genesis 33","v":[17],"l":"Gen. 33:17"}],"w":"Succoth","o":50}],"30":[{"m":"30a","refs":[{"c":"num-32","t":"Numbers 32","v":[41],"l":"Num. 32:41"}],"w":"towns","o":96}]}
 ```
 
 - **1** 1a [[Joshua 23#^josh-23-1|Josh. 23:1]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: alma-35
 verses: 8
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The preaching of the word destroys the craft of the Zoramites—They expel the converts, who then join the people of Ammon in Jershon—Alma sorrows because of the wickedness of the people. About 74 B.C.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"alma-28","t":"Alma 28","v":[1],"l":"Alma 28:1"}]}],"2":[{"m":"2a","refs":[{"c":"alma-30","t":"Alma 30","v":[59],"l":"Alma 30:59"}]}],"8":[{"m":"8a","refs":[{"c":"alma-27","t":"Alma 27","v":[26],"l":"Alma 27:26"}]},{"m":"8b","refs":[{"c":"alma-30","t":"Alma 30","v":[59],"l":"Alma 30:59"}]}],"9":[{"m":"9a","refs":[{"c":"mosiah-4","t":"Mosiah 4","v":[26],"l":"Mosiah 4:26"},{"c":"dc-42","t":"D&C 42","v":[43],"l":"D&amp;C 42:43"}]}],"10":[{"m":"10a","refs":[{"c":"alma-47","t":"Alma 47","v":[1],"l":"Alma 47:1"},{"c":"hel-1","t":"Helaman 1","v":[17],"l":"Hel. 1:17"}]}],"13":[{"m":"13a","refs":[{"c":"alma-43","t":"Alma 43","v":[3],"l":"Alma 43:3"}]}],"14":[{"m":"14a","refs":[{"c":"alma-31","t":"Alma 31","v":[7],"l":"Alma 31:7"}]},{"m":"14c","refs":[{"c":"alma-30","t":"Alma 30","v":[59],"l":"Alma 30:59"}]}],"15":[{"m":"15a","refs":[{"c":"alma-31","t":"Alma 31","v":[1],"l":"Alma 31:1"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"alma-28","t":"Alma 28","v":[1],"l":"Alma 28:1"}],"w":"Jershon","o":144}],"2":[{"m":"2a","refs":[{"c":"alma-30","t":"Alma 30","v":[59],"l":"Alma 30:59"}],"w":"Zoramites","o":76}],"8":[{"m":"8a","refs":[{"c":"alma-27","t":"Alma 27","v":[26],"l":"Alma 27:26"}],"w":"people","o":51},{"m":"8b","refs":[{"c":"alma-30","t":"Alma 30","v":[59],"l":"Alma 30:59"}],"w":"chief","o":94}],"9":[{"m":"9a","refs":[{"c":"mosiah-4","t":"Mosiah 4","v":[26],"l":"Mosiah 4:26"},{"c":"dc-42","t":"D&C 42","v":[43],"l":"D&amp;C 42:43"}],"w":"nourish","o":233}],"10":[{"m":"10a","refs":[{"c":"alma-47","t":"Alma 47","v":[1],"l":"Alma 47:1"},{"c":"hel-1","t":"Helaman 1","v":[17],"l":"Hel. 1:17"}],"w":"stir up","o":12}],"13":[{"m":"13a","refs":[{"c":"alma-43","t":"Alma 43","v":[3],"l":"Alma 43:3"}],"w":"account","o":381}],"14":[{"m":"14a","refs":[{"c":"alma-31","t":"Alma 31","v":[7],"l":"Alma 31:7"}],"w":"two","o":53},{"m":"14c","refs":[{"c":"alma-30","t":"Alma 30","v":[59],"l":"Alma 30:59"}],"w":"Zoramites","o":175}],"15":[{"m":"15a","refs":[{"c":"alma-31","t":"Alma 31","v":[1],"l":"Alma 31:1"}],"w":"grieved","o":15}]}
 ```
 
 - **1** 1a [[Alma 28#^alma-28-1|Alma 28:1]]

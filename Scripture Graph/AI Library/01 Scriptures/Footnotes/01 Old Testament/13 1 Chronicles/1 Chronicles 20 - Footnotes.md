@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1chr-20
 verses: 3
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Ammonites are overcome—Israel defeats the Philistines.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"2sam-11","t":"2 Samuel 11","v":[1],"l":"2 Sam. 11:1"},{"c":"2sam-12","t":"2 Samuel 12","v":[26],"l":"12:26"}]}],"3":[{"m":"3a","refs":[{"c":"2sam-12","t":"2 Samuel 12","v":[31],"l":"2 Sam. 12:31"}]}],"4":[{"m":"4a","refs":[{"c":"2sam-21","t":"2 Samuel 21","v":[18],"l":"2 Sam. 21:18"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"2sam-11","t":"2 Samuel 11","v":[1],"l":"2 Sam. 11:1"},{"c":"2sam-12","t":"2 Samuel 12","v":[26],"l":"12:26"}],"w":"Joab","o":94}],"3":[{"m":"3a","refs":[{"c":"2sam-12","t":"2 Samuel 12","v":[31],"l":"2 Sam. 12:31"}],"w":"cut","o":50}],"4":[{"m":"4a","refs":[{"c":"2sam-21","t":"2 Samuel 21","v":[18],"l":"2 Sam. 21:18"}],"w":"war","o":50}]}
 ```
 
 - **1** 1a [[2 Samuel 11#^2sam-11-1|2 Sam. 11:1]] · [[2 Samuel 12#^2sam-12-26|12:26]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: jer-32
 verses: 8
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jeremiah is imprisoned by Zedekiah—The prophet purchases land to symbolize the return of Israel to their land—The Lord will gather Israel and make an everlasting covenant with them.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"2kgs-24","t":"2 Kings 24","v":[20],"l":"2 Kgs. 24:20"}]}],"9":[{"m":"9a","refs":[{"c":"gen-23","t":"Genesis 23","v":[16],"l":"Gen. 23:16"}]}],"12":[{"m":"12a","refs":[{"c":"jer-43","t":"Jeremiah 43","v":[3],"l":"Jer. 43:3"}]}],"29":[{"m":"29a","refs":[{"c":"2kgs-23","t":"2 Kings 23","v":[12],"l":"2 Kgs. 23:12"}]}],"33":[{"m":"33a","refs":[{"c":"jer-2","t":"Jeremiah 2","v":[27],"l":"Jer. 2:27"},{"c":"ezek-8","t":"Ezekiel 8","v":[16],"l":"Ezek. 8:16"}]}],"35":[{"m":"35a","refs":[{"c":"lev-18","t":"Leviticus 18","v":[21],"l":"Lev. 18:21"},{"c":"jer-19","t":"Jeremiah 19","v":[5],"l":"Jer. 19:5"}]}],"37":[{"m":"37a","refs":[{"c":"dc-45","t":"D&C 45","v":[69],"l":"D&amp;C 45:69"}]},{"m":"37b","refs":[{"c":"jer-16","t":"Jeremiah 16","v":[15],"l":"Jer. 16:15"}]}],"39":[{"m":"39b","refs":[{"c":"deut-6","t":"Deuteronomy 6","v":[24],"l":"Deut. 6:24"},{"c":"deut-10","t":"Deuteronomy 10","v":[13],"l":"10:13"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"2kgs-24","t":"2 Kings 24","v":[20],"l":"2 Kgs. 24:20"}],"w":"besieged","o":35}],"9":[{"m":"9a","refs":[{"c":"gen-23","t":"Genesis 23","v":[16],"l":"Gen. 23:16"}],"w":"weighed","o":76}],"12":[{"m":"12a","refs":[{"c":"jer-43","t":"Jeremiah 43","v":[3],"l":"Jer. 43:3"}],"w":"Baruch","o":44}],"29":[{"m":"29a","refs":[{"c":"2kgs-23","t":"2 Kings 23","v":[12],"l":"2 Kgs. 23:12"}],"w":"roofs","o":126}],"33":[{"m":"33a","refs":[{"c":"jer-2","t":"Jeremiah 2","v":[27],"l":"Jer. 2:27"},{"c":"ezek-8","t":"Ezekiel 8","v":[16],"l":"Ezek. 8:16"}],"w":"back","o":32}],"35":[{"m":"35a","refs":[{"c":"lev-18","t":"Leviticus 18","v":[21],"l":"Lev. 18:21"},{"c":"jer-19","t":"Jeremiah 19","v":[5],"l":"Jer. 19:5"}],"w":"fire","o":145}],"37":[{"m":"37a","refs":[{"c":"dc-45","t":"D&C 45","v":[69],"l":"D&amp;C 45:69"}],"w":"gather","o":14},{"m":"37b","refs":[{"c":"jer-16","t":"Jeremiah 16","v":[15],"l":"Jer. 16:15"}],"w":"bring","o":135}],"39":[{"m":"39b","refs":[{"c":"deut-6","t":"Deuteronomy 6","v":[24],"l":"Deut. 6:24"},{"c":"deut-10","t":"Deuteronomy 10","v":[13],"l":"10:13"}],"w":"good","o":83}]}
 ```
 
 - **2** 2a [[2 Kings 24#^2kgs-24-20|2 Kgs. 24:20]]

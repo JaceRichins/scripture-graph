@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: hab-3
 verses: 8
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > In his prayer Habakkuk trembles at the majesty of God.
 
 ```json
-{"3":[{"m":"3a","refs":[{"c":"deut-33","t":"Deuteronomy 33","v":[2,3],"l":"Deut. 33:2 (2–3)"}]}],"6":[{"m":"6a","refs":[{"c":"dc-133","t":"D&C 133","v":[31],"l":"D&amp;C 133:31"}]}],"7":[{"m":"7a","refs":[{"c":"judg-3","t":"Judges 3","v":[8,9,10],"l":"Judg. 3:10 (8–10)"}]},{"m":"7b","refs":[{"c":"num-31","t":"Numbers 31","v":[1,2,3,4,5,6],"l":"Num. 31:2 (1–12)"}]}],"10":[{"m":"10a","refs":[{"c":"ex-19","t":"Exodus 19","v":[16,17,18],"l":"Ex. 19:18 (16–18)"}]}],"11":[{"m":"11a","refs":[{"c":"josh-10","t":"Joshua 10","v":[12,13],"l":"Josh. 10:12 (12–13)"},{"c":"hel-12","t":"Helaman 12","v":[15],"l":"Hel. 12:15"}]}],"13":[{"m":"13b","refs":[{"c":"ps-68","t":"Psalm 68","v":[21],"l":"Ps. 68:21"}]}],"15":[{"m":"15a","refs":[{"c":"josh-3","t":"Joshua 3","v":[14,15,16,17],"l":"Josh. 3:16 (14–17)"}]}],"19":[{"m":"19b","refs":[{"c":"deut-32","t":"Deuteronomy 32","v":[13],"l":"Deut. 32:13"},{"c":"deut-33","t":"Deuteronomy 33","v":[29],"l":"33:29"}]}]}
+{"3":[{"m":"3a","refs":[{"c":"deut-33","t":"Deuteronomy 33","v":[2,3],"l":"Deut. 33:2 (2–3)"}],"w":"Paran","o":48}],"6":[{"m":"6a","refs":[{"c":"dc-133","t":"D&C 133","v":[31],"l":"D&amp;C 133:31"}],"w":"hills","o":135}],"7":[{"m":"7a","refs":[{"c":"judg-3","t":"Judges 3","v":[8,9,10],"l":"Judg. 3:10 (8–10)"}],"w":"Cushan","o":18},{"m":"7b","refs":[{"c":"num-31","t":"Numbers 31","v":[1,2,3,4,5,6],"l":"Num. 31:2 (1–12)"}],"w":"Midian","o":70}],"10":[{"m":"10a","refs":[{"c":"ex-19","t":"Exodus 19","v":[16,17,18],"l":"Ex. 19:18 (16–18)"}],"w":"mountains","o":3}],"11":[{"m":"11a","refs":[{"c":"josh-10","t":"Joshua 10","v":[12,13],"l":"Josh. 10:12 (12–13)"},{"c":"hel-12","t":"Helaman 12","v":[15],"l":"Hel. 12:15"}],"w":"sun","o":3}],"13":[{"m":"13b","refs":[{"c":"ps-68","t":"Psalm 68","v":[21],"l":"Ps. 68:21"}],"w":"woundedst","o":94}],"15":[{"m":"15a","refs":[{"c":"josh-3","t":"Joshua 3","v":[14,15,16,17],"l":"Josh. 3:16 (14–17)"}],"w":"heap","o":62}],"19":[{"m":"19b","refs":[{"c":"deut-32","t":"Deuteronomy 32","v":[13],"l":"Deut. 32:13"},{"c":"deut-33","t":"Deuteronomy 33","v":[29],"l":"33:29"}],"w":"high places","o":108}]}
 ```
 
 - **3** 3a [[Deuteronomy 33#^deut-33-2|Deut. 33:2 (2–3)]]

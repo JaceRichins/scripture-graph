@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ps-138
 verses: 4
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:20:59Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > David praises the Lord for His loving kindness and truth—He worships toward the holy temple.
 
 ```json
-{"3":[{"m":"3a","refs":[{"c":"enos-1","t":"Enos 1","v":[1,2,3,4,5,6],"l":"Enos 1:4 (1–11)"}]}],"4":[{"m":"4a","refs":[{"c":"dc-124","t":"D&C 124","v":[2,3,4,5,6,7],"l":"D&amp;C 124:3 (2–11)"}]}],"7":[{"m":"7a","refs":[{"c":"ps-23","t":"Psalm 23","v":[1,2,3,4,5,6],"l":"Ps. 23:4 (1–6)"},{"c":"dc-127","t":"D&C 127","v":[1,2],"l":"D&amp;C 127:2 (1–2)"}]}],"8":[{"m":"8b","refs":[{"c":"isa-64","t":"Isaiah 64","v":[8],"l":"Isa. 64:8"}]}]}
+{"3":[{"m":"3a","refs":[{"c":"enos-1","t":"Enos 1","v":[1,2,3,4,5,6],"l":"Enos 1:4 (1–11)"}],"w":"cried","o":17}],"4":[{"m":"4a","refs":[{"c":"dc-124","t":"D&C 124","v":[2,3,4,5,6,7],"l":"D&amp;C 124:3 (2–11)"}],"w":"kings","o":7}],"7":[{"m":"7a","refs":[{"c":"ps-23","t":"Psalm 23","v":[1,2,3,4,5,6],"l":"Ps. 23:4 (1–6)"},{"c":"dc-127","t":"D&C 127","v":[1,2],"l":"D&amp;C 127:2 (1–2)"}],"w":"trouble","o":29}],"8":[{"m":"8b","refs":[{"c":"isa-64","t":"Isaiah 64","v":[8],"l":"Isa. 64:8"}],"w":"works","o":100}]}
 ```
 
 - **3** 3a [[Enos 1#^enos-1-1|Enos 1:4 (1–11)]]

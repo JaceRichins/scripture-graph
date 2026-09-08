@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 1cor-12
 verses: 7
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > The Holy Ghost reveals that Jesus is the Christ—Spiritual gifts are present among the Saints—Apostles, prophets, and miracles are found in the true Church.
 
 ```json
-{"3":[{"m":"3c","refs":[{"c":"john-6","t":"John 6","v":[44],"l":"John 6:44 (44, 63–65)"}]}],"7":[{"m":"7a","refs":[{"c":"dc-46","t":"D&C 46","v":[8,9,10,11,12,13],"l":"D&amp;C 46:16 (8–18)"}]}],"8":[{"m":"8a","refs":[{"c":"dc-35","t":"D&C 35","v":[23],"l":"D&amp;C 35:23"}]},{"m":"8b","refs":[{"c":"dc-25","t":"D&C 25","v":[7],"l":"D&amp;C 25:7"},{"c":"dc-35","t":"D&C 35","v":[19],"l":"35:19"}]},{"m":"8c","refs":[{"c":"dc-89","t":"D&C 89","v":[2],"l":"D&amp;C 89:2"}]},{"m":"8e","refs":[{"c":"moro-10","t":"Moroni 10","v":[10],"l":"Moro. 10:10"}]}],"13":[{"m":"13b","refs":[{"c":"col-3","t":"Colossians 3","v":[11],"l":"Col. 3:11"}]},{"m":"13c","refs":[{"c":"dc-24","t":"D&C 24","v":[11],"l":"D&amp;C 24:11"},{"c":"dc-43","t":"D&C 43","v":[20],"l":"43:20"}]}],"21":[{"m":"21a","refs":[{"c":"dc-84","t":"D&C 84","v":[109],"l":"D&amp;C 84:109"}]}],"25":[{"m":"25a","refs":[{"c":"1cor-1","t":"1 Corinthians 1","v":[10,11,12,13,14,15],"l":"1 Cor. 1:10 (10–15)"}]}],"31":[{"m":"31a","refs":[{"c":"dc-46","t":"D&C 46","v":[8,9],"l":"D&amp;C 46:8 (8–9)"}]},{"m":"31c","refs":[{"c":"ether-12","t":"Ether 12","v":[11,12],"l":"Ether 12:11 (11–12, 32)"}]}]}
+{"3":[{"m":"3c","refs":[{"c":"john-6","t":"John 6","v":[44],"l":"John 6:44 (44, 63–65)"}],"w":"Holy Ghost","o":157}],"7":[{"m":"7a","refs":[{"c":"dc-46","t":"D&C 46","v":[8,9,10,11,12,13],"l":"D&amp;C 46:16 (8–18)"}],"w":"Spirit","o":28}],"8":[{"m":"8a","refs":[{"c":"dc-35","t":"D&C 35","v":[23],"l":"D&amp;C 35:23"}],"w":"given","o":13},{"m":"8b","refs":[{"c":"dc-25","t":"D&C 25","v":[7],"l":"D&amp;C 25:7"},{"c":"dc-35","t":"D&C 35","v":[19],"l":"35:19"}],"w":"Spirit","o":24},{"m":"8c","refs":[{"c":"dc-89","t":"D&C 89","v":[2],"l":"D&amp;C 89:2"}],"w":"word","o":33},{"m":"8e","refs":[{"c":"moro-10","t":"Moroni 10","v":[10],"l":"Moro. 10:10"}],"w":"knowledge","o":69}],"13":[{"m":"13b","refs":[{"c":"col-3","t":"Colossians 3","v":[11],"l":"Col. 3:11"}],"w":"Gentiles","o":73},{"m":"13c","refs":[{"c":"dc-24","t":"D&C 24","v":[11],"l":"D&amp;C 24:11"},{"c":"dc-43","t":"D&C 43","v":[20],"l":"43:20"}],"w":"bond","o":96}],"21":[{"m":"21a","refs":[{"c":"dc-84","t":"D&C 84","v":[109],"l":"D&amp;C 84:109"}],"w":"head","o":75}],"25":[{"m":"25a","refs":[{"c":"1cor-1","t":"1 Corinthians 1","v":[10,11,12,13,14,15],"l":"1 Cor. 1:10 (10–15)"}],"w":"care","o":85}],"31":[{"m":"31a","refs":[{"c":"dc-46","t":"D&C 46","v":[8,9],"l":"D&amp;C 46:8 (8–9)"}],"w":"covet earnestly","o":3},{"m":"31c","refs":[{"c":"ether-12","t":"Ether 12","v":[11,12],"l":"Ether 12:11 (11–12, 32)"}],"w":"excellent","o":63}]}
 ```
 
 - **3** 3c [[John 6#^john-6-44|John 6:44 (44, 63–65)]]

@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: gen-34
 verses: 7
-updated_at: '2026-09-06T23:26:25Z'
+updated_at: '2026-09-08T04:20:58Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Shechem defiles Dinah—The Hivites seek to arrange marriages with Jacob’s family—Many, having been circumcised, are slain by Simeon and Levi—Jacob reproves his sons.
 
 ```json
-{"2":[{"m":"2a","refs":[{"c":"judg-9","t":"Judges 9","v":[28],"l":"Judg. 9:28"}]}],"7":[{"m":"7a","refs":[{"c":"gen-49","t":"Genesis 49","v":[7],"l":"Gen. 49:7"}]}],"10":[{"m":"10a","refs":[{"c":"gen-20","t":"Genesis 20","v":[15],"l":"Gen. 20:15"}]},{"m":"10b","refs":[{"c":"mosiah-24","t":"Mosiah 24","v":[7],"l":"Mosiah 24:7"},{"c":"4ne-1","t":"4 Nephi 1","v":[46],"l":"4 Ne. 1:46"},{"c":"ether-10","t":"Ether 10","v":[22],"l":"Ether 10:22"}]}],"14":[{"m":"14b","refs":[{"c":"judg-14","t":"Judges 14","v":[3],"l":"Judg. 14:3"}]}],"20":[{"m":"20a","refs":[{"c":"gen-23","t":"Genesis 23","v":[10],"l":"Gen. 23:10"}]}],"25":[{"m":"25a","refs":[{"c":"gen-49","t":"Genesis 49","v":[5,6,7],"l":"Gen. 49:5 (5–7)"}]}],"26":[{"m":"26a","refs":[{"c":"gen-49","t":"Genesis 49","v":[6],"l":"Gen. 49:6"}]}]}
+{"2":[{"m":"2a","refs":[{"c":"judg-9","t":"Judges 9","v":[28],"l":"Judg. 9:28"}],"w":"Hamor","o":27}],"7":[{"m":"7a","refs":[{"c":"gen-49","t":"Genesis 49","v":[7],"l":"Gen. 49:7"}],"w":"wroth","o":108}],"10":[{"m":"10a","refs":[{"c":"gen-20","t":"Genesis 20","v":[15],"l":"Gen. 20:15"}],"w":"land","o":35},{"m":"10b","refs":[{"c":"mosiah-24","t":"Mosiah 24","v":[7],"l":"Mosiah 24:7"},{"c":"4ne-1","t":"4 Nephi 1","v":[46],"l":"4 Ne. 1:46"},{"c":"ether-10","t":"Ether 10","v":[22],"l":"Ether 10:22"}],"w":"trade","o":69}],"14":[{"m":"14b","refs":[{"c":"judg-14","t":"Judges 14","v":[3],"l":"Judg. 14:3"}],"w":"uncircumcised","o":82}],"20":[{"m":"20a","refs":[{"c":"gen-23","t":"Genesis 23","v":[10],"l":"Gen. 23:10"}],"w":"gate","o":45}],"25":[{"m":"25a","refs":[{"c":"gen-49","t":"Genesis 49","v":[5,6,7],"l":"Gen. 49:5 (5–7)"}],"w":"Simeon","o":91}],"26":[{"m":"26a","refs":[{"c":"gen-49","t":"Genesis 49","v":[6],"l":"Gen. 49:6"}],"w":"slew","o":8}]}
 ```
 
 - **2** 2a [[Judges 9#^judg-9-28|Judg. 9:28]]

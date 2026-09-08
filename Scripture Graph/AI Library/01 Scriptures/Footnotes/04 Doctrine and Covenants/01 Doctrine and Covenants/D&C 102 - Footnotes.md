@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: dc-102
 verses: 9
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:02Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > 1–8, A high council is appointed to settle important difficulties that arise in the Church; 9–18, Procedures are given for hearing cases; 19–23, The president of the council renders the decision; 24–34, Appellate procedure is set forth.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"dc-42","t":"D&C 42","v":[34],"l":"D&amp;C 42:34"}]}],"2":[{"m":"2a","refs":[{"c":"dc-20","t":"D&C 20","v":[67],"l":"D&amp;C 20:67"}]},{"m":"2c","refs":[{"c":"dc-107","t":"D&C 107","v":[72,73,74,75],"l":"D&amp;C 107:73 (72–75)"}]}],"8":[{"m":"8a","refs":[{"c":"dc-68","t":"D&C 68","v":[15],"l":"D&amp;C 68:15 (15, 19, 22)"}]}],"9":[{"m":"9a","refs":[{"c":"dc-81","t":"D&C 81","v":[],"l":"headings to sections 81"},{"c":"dc-90","t":"D&C 90","v":[],"l":"90"}]}],"18":[{"m":"18a","refs":[{"c":"john-7","t":"John 7","v":[51],"l":"John 7:51"},{"c":"acts-25","t":"Acts 25","v":[16],"l":"Acts 25:16"}]}],"20":[{"m":"20a","refs":[{"c":"isa-56","t":"Isaiah 56","v":[1],"l":"Isa. 56:1"}]}],"23":[{"m":"23a","refs":[{"c":"num-9","t":"Numbers 9","v":[8],"l":"Num. 9:8"}]},{"m":"23b","refs":[{"c":"lev-24","t":"Leviticus 24","v":[12],"l":"Lev. 24:12"},{"c":"dc-68","t":"D&C 68","v":[4],"l":"D&amp;C 68:4"}]}],"28":[{"m":"28a","refs":[{"c":"dc-107","t":"D&C 107","v":[78],"l":"D&amp;C 107:78"}]}],"30":[{"m":"30a","refs":[{"c":"dc-107","t":"D&C 107","v":[23,24],"l":"D&amp;C 107:23–24, 31, 35–38"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"dc-42","t":"D&C 42","v":[34],"l":"D&amp;C 42:34"}],"w":"high council","o":145}],"2":[{"m":"2a","refs":[{"c":"dc-20","t":"D&C 20","v":[67],"l":"D&amp;C 20:67"}],"w":"high council","o":3},{"m":"2c","refs":[{"c":"dc-107","t":"D&C 107","v":[72,73,74,75],"l":"D&amp;C 107:73 (72–75)"}],"w":"bishop’s","o":172}],"8":[{"m":"8a","refs":[{"c":"dc-68","t":"D&C 68","v":[15],"l":"D&amp;C 68:15 (15, 19, 22)"}],"w":"president","o":237}],"9":[{"m":"9a","refs":[{"c":"dc-81","t":"D&C 81","v":[],"l":"headings to sections 81"},{"c":"dc-90","t":"D&C 90","v":[],"l":"90"}],"w":"revelation","o":86}],"18":[{"m":"18a","refs":[{"c":"john-7","t":"John 7","v":[51],"l":"John 7:51"},{"c":"acts-25","t":"Acts 25","v":[16],"l":"Acts 25:16"}],"w":"heard","o":134}],"20":[{"m":"20a","refs":[{"c":"isa-56","t":"Isaiah 56","v":[1],"l":"Isa. 56:1"}],"w":"error","o":144}],"23":[{"m":"23a","refs":[{"c":"num-9","t":"Numbers 9","v":[8],"l":"Num. 9:8"}],"w":"doctrine","o":32},{"m":"23b","refs":[{"c":"lev-24","t":"Leviticus 24","v":[12],"l":"Lev. 24:12"},{"c":"dc-68","t":"D&C 68","v":[4],"l":"D&amp;C 68:4"}],"w":"mind","o":184}],"28":[{"m":"28a","refs":[{"c":"dc-107","t":"D&C 107","v":[78],"l":"D&amp;C 107:78"}],"w":"difficult","o":68}],"30":[{"m":"30a","refs":[{"c":"dc-107","t":"D&C 107","v":[23,24],"l":"D&amp;C 107:23–24, 31, 35–38"}],"w":"high council","o":34}]}
 ```
 
 - **1** 1a [[D&C 42#^dc-42-34|D&amp;C 42:34]]

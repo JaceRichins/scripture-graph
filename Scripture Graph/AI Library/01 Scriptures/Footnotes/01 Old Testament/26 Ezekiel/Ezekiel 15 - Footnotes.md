@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: ezek-15
 verses: 1
-updated_at: '2026-09-06T23:26:26Z'
+updated_at: '2026-09-08T04:21:00Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Jerusalem, as a useless vine, will be burned.
 
 ```json
-{"6":[{"m":"6b","refs":[{"c":"1ne-1","t":"1 Nephi 1","v":[13],"l":"1 Ne. 1:13"}]}]}
+{"6":[{"m":"6b","refs":[{"c":"1ne-1","t":"1 Nephi 1","v":[13],"l":"1 Ne. 1:13"}],"w":"Jerusalem","o":157}]}
 ```
 
 - **6** 6b [[1 Nephi 1#^1ne-1-13|1 Ne. 1:13]]

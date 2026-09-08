@@ -4,7 +4,7 @@ mutable: engine
 content_type: footnotes
 slug: 2tim-1
 verses: 8
-updated_at: '2026-09-06T23:26:27Z'
+updated_at: '2026-09-08T04:21:01Z'
 cssclasses:
 - sg-ai
 ---
@@ -16,7 +16,7 @@ The official study footnotes for this chapter, verse by verse. The reader shows 
 > Christ brings immortality and eternal life through the gospel—Be strong in the faith.
 
 ```json
-{"1":[{"m":"1a","refs":[{"c":"titus-1","t":"Titus 1","v":[2],"l":"Titus 1:2"}]}],"5":[{"m":"5a","refs":[{"c":"acts-16","t":"Acts 16","v":[1],"l":"Acts 16:1"}]}],"6":[{"m":"6b","refs":[{"c":"1tim-1","t":"1 Timothy 1","v":[18],"l":"1 Tim. 1:18"},{"c":"dc-8","t":"D&C 8","v":[4],"l":"D&amp;C 8:4"}]}],"7":[{"m":"7b","refs":[{"c":"acts-1","t":"Acts 1","v":[8],"l":"Acts 1:8"}]}],"10":[{"m":"10a","refs":[{"c":"col-1","t":"Colossians 1","v":[26],"l":"Col. 1:26"}]},{"m":"10b","refs":[{"c":"1cor-15","t":"1 Corinthians 15","v":[26],"l":"1 Cor. 15:26"},{"c":"heb-2","t":"Hebrews 2","v":[14],"l":"Heb. 2:14"},{"c":"rev-20","t":"Revelation 20","v":[11,12,13,14,15],"l":"Rev. 20:13 (11–15)"}]},{"m":"10c","refs":[{"c":"1jn-5","t":"1 John 5","v":[10,11,12,13,14,15],"l":"1 Jn. 5:11 (10–21)"}]}],"11":[{"m":"11a","refs":[{"c":"1thes-2","t":"1 Thessalonians 2","v":[4],"l":"1 Thes. 2:4"}]}],"12":[{"m":"12a","refs":[{"c":"rom-1","t":"Romans 1","v":[16],"l":"Rom. 1:16"}]}],"14":[{"m":"14a","refs":[{"c":"dc-130","t":"D&C 130","v":[22],"l":"D&amp;C 130:22"}]}]}
+{"1":[{"m":"1a","refs":[{"c":"titus-1","t":"Titus 1","v":[2],"l":"Titus 1:2"}],"w":"promise","o":69}],"5":[{"m":"5a","refs":[{"c":"acts-16","t":"Acts 16","v":[1],"l":"Acts 16:1"}],"w":"Eunice","o":121}],"6":[{"m":"6b","refs":[{"c":"1tim-1","t":"1 Timothy 1","v":[18],"l":"1 Tim. 1:18"},{"c":"dc-8","t":"D&C 8","v":[4],"l":"D&amp;C 8:4"}],"w":"gift","o":55}],"7":[{"m":"7b","refs":[{"c":"acts-1","t":"Acts 1","v":[8],"l":"Acts 1:8"}],"w":"power","o":51}],"10":[{"m":"10a","refs":[{"c":"col-1","t":"Colossians 1","v":[26],"l":"Col. 1:26"}],"w":"manifest","o":15},{"m":"10b","refs":[{"c":"1cor-15","t":"1 Corinthians 15","v":[26],"l":"1 Cor. 15:26"},{"c":"heb-2","t":"Hebrews 2","v":[14],"l":"Heb. 2:14"},{"c":"rev-20","t":"Revelation 20","v":[11,12,13,14,15],"l":"Rev. 20:13 (11–15)"}],"w":"death","o":87},{"m":"10c","refs":[{"c":"1jn-5","t":"1 John 5","v":[10,11,12,13,14,15],"l":"1 Jn. 5:11 (10–21)"}],"w":"life","o":110}],"11":[{"m":"11a","refs":[{"c":"1thes-2","t":"1 Thessalonians 2","v":[4],"l":"1 Thes. 2:4"}],"w":"appointed","o":14}],"12":[{"m":"12a","refs":[{"c":"rom-1","t":"Romans 1","v":[16],"l":"Rom. 1:16"}],"w":"ashamed","o":69}],"14":[{"m":"14a","refs":[{"c":"dc-130","t":"D&C 130","v":[22],"l":"D&amp;C 130:22"}],"w":"dwelleth","o":74}]}
 ```
 
 - **1** 1a [[Titus 1#^titus-1-2|Titus 1:2]]
