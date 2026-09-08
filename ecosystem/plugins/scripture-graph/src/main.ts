@@ -114,6 +114,7 @@ export default class SGPlugin extends Plugin {
         if (a) await this.study.unbookmark(a);
       },
       openLibrary: () => this.openNavigator(),
+      playVideo: (id, title, sub) => this.music.playVideo(id, title, sub),
       openRaw: this.state.device.showAiLibrary
         ? (f) => { void this.app.workspace.getLeaf().openFile(f); } : null,
     }));
@@ -127,8 +128,8 @@ export default class SGPlugin extends Plugin {
       set: async (t) => { this.state.device.spotify = t; await this.state.saveDevice(); this.state.notify(); },
     });
     this.music = new MusicPlayer(this.app, {
-      get: () => this.state.device.musicService ?? null,
-      set: async (sv) => { this.state.device.musicService = sv; await this.state.saveDevice(); },
+      serverUrl: () => this.state.api.baseUrl,
+      youtubeEnabled: () => this.state.device.youtube !== false,
     }, spotify);
     this.registerObsidianProtocolHandler("scripture-graph-spotify", params => {
       const code = params["code"];

@@ -3,6 +3,7 @@
  * to their author, group rows only to members, tombstones included so
  * clients converge. Nothing relies on UI hiding (§41). */
 import { setupHtml } from "./setupPage";
+import { ytHtml } from "./ytPage";
 import { Live } from "./live";
 import Fastify, { type FastifyInstance, type FastifyReply, type FastifyRequest } from "fastify";
 import { randomUUID } from "node:crypto";
@@ -437,6 +438,14 @@ export function buildApp({ db, trustProxy }: BuildOpts): FastifyInstance {
     const cur = await live.wait(q.plugin ?? "", q.vault ?? "", wait * 1000);
     reply.header("cache-control", "no-store");
     return { ...cur, urls: publicUrls() };
+  });
+
+  // the YouTube player page: a real website for YouTube's embed rules; the app frames it
+  app.get("/yt", async (req, reply) => {
+    if (!limiter.allow(`ip:${req.ip}:yt`, 240, 60_000)) return reply.code(429).send({ error: "rate limited" });
+    reply.header("content-type", "text/html; charset=utf-8");
+    reply.header("cache-control", "public, max-age=3600");
+    return ytHtml();
   });
 
   // the family setup page (invite rides in the query string, read client-side)

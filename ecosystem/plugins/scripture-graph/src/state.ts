@@ -82,6 +82,8 @@ export interface DeviceState {
   serverUrls?: string[];
   /** where songs the Church does not record open (asked once) */
   musicService?: "spotify" | "apple" | "youtube" | null;
+  /** YouTube in the corner window for what the Church does not host (default on) */
+  youtube?: boolean;
   /** this listener's Spotify sign-in */
   spotify?: { access: string; refresh: string; expires: number } | null;
   /** vault sync: on/off, which shelves this device carries, how often */

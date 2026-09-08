@@ -423,15 +423,19 @@ export class SGLibraryView extends ItemView {
       const base = this.hymnItem(h, art, open);
       if (tr.choir) {
         const alt = [{ label: "Plain hymnbook recording", url: base.url! }, ...(base.alt ?? [])];
-        return { ...base, url: tr.choir, alt, sub: `${this.bookShort(h)} · Tabernacle Choir${choirWhen}`,
+        return { ...base, url: tr.choir, alt, yt: tr.yt || undefined, sub: `${this.bookShort(h)} · Tabernacle Choir${choirWhen}`,
           credit: `The Tabernacle Choir at Temple Square${choirWhen}`, searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
       }
-      return { ...base, searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
+      // no Church performance: the Choir on YouTube beats the plain hymnbook take
+      const ytOn = tr.yt && this.s.device.youtube !== false;
+      return { ...base, yt: tr.yt || undefined, preferVideo: !!ytOn, sub: `${this.bookShort(h)} · ${ytOn ? "Tabernacle Choir · YouTube" : "Church recording"}`,
+        searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
     }
     const url = tr.choir || tr.church || tr.url || undefined;
     const churchLabel = tr.church ? `${tr.church_by || "Church recording"}${tr.church_when ? ` (${tr.church_when})` : ""}` : "";
-    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : "Spotify only";
-    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url,
+    const ytOn = tr.yt && this.s.device.youtube !== false;
+    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : this.host.music.spotify.connected ? "Spotify" : ytOn ? "YouTube" : url ? "free recording" : "no recording yet";
+    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url, yt: tr.yt || undefined, preferVideo: !(tr.choir || tr.church),
       credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.church ? churchLabel : tr.credit,
       searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`, art, open };
   }
@@ -448,7 +452,7 @@ export class SGLibraryView extends ItemView {
     const col = row.createDiv({ cls: "sg-tr-col" });
     col.createDiv({ cls: "sg-tr-title", text: it.title });
     col.createDiv({ cls: "sg-tr-sub", text: it.sub });
-    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "Spotify" });
+    if (!music.canPlay(it)) row.createSpan({ cls: "sg-tr-ext", text: "soon" });
     const more = row.createEl("button", { cls: "sg-tr-more", text: "⋯" });
     more.setAttr("aria-label", "More");
     more.onclick = (e) => { e.stopPropagation(); music.menu(it, e); };

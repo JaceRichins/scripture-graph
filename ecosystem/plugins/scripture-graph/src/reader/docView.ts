@@ -51,6 +51,8 @@ export interface DocHost {
   openLibrary: () => void;
   /** power users only: the raw markdown page */
   openRaw: ((file: TFile) => void) | null;
+  /** play a YouTube video in the app's corner player */
+  playVideo?: (id: string, title: string, sub: string) => void;
 }
 
 export class DocView extends ItemView {
@@ -142,6 +144,15 @@ export class DocView extends ItemView {
     const aa = actions.createEl("button", { cls: "sg-ask-btn", text: "Aa" });
     aa.setAttr("aria-label", "Reading settings");
     aa.onclick = () => this.host.openReading();
+    // ▶ Watch — a talk, an episode, a review with a video: plays in the corner, keeps playing as you read
+    void this.app.vault.cachedRead(file).then(md => {
+      const fm = this.app.metadataCache.getFileCache(file)?.frontmatter as Record<string, unknown> | undefined;
+      const id = String(fm?.["youtube"] ?? "").trim() || (/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|embed\/|shorts\/))([A-Za-z0-9_-]{11})/.exec(md)?.[1] ?? "");
+      if (!id || !this.host.playVideo) return;
+      const watch = actions.createEl("button", { cls: "sg-ask-btn", text: "▶ Watch" });
+      actions.insertBefore(watch, actions.firstChild);
+      watch.onclick = () => this.host.playVideo!(id, file.basename, docKindFor(file.path)?.eyebrow ?? "Video");
+    });
     const markBtn = actions.createEl("button", { cls: "sg-ask-btn", text: "🔖 Bookmark" });
     let markId: string | null = null;
     const paint = () => { markBtn.setText(markId ? "🔖 Bookmarked" : "🔖 Bookmark"); markBtn.toggleClass("sg-on", !!markId); };

@@ -22,6 +22,9 @@ export class SGSettingsTab extends PluginSettingTab {
           : "Not set up for the family yet: the owner adds the Spotify Client ID below.")
       .addButton(b => b.setButtonText(sp.connected ? "Disconnect" : "Connect").setCta().setDisabled(!sp.configured && !sp.connected)
         .onClick(async () => { if (sp.connected) { await sp.disconnect(); this.display(); } else await sp.beginConnect(); }));
+    new Setting(el).setName("YouTube in the app")
+      .setDesc("Songs, talks and podcasts the Church doesn't host play in a small YouTube window in the corner")
+      .addToggle(t => t.setValue(s.device.youtube !== false).onChange(async v => { s.device.youtube = v; await s.saveDevice(); }));
     new Setting(el).setName("Spotify Client ID (family)")
       .setDesc("From developer.spotify.com — one app for the whole family; shared with the vault")
       .addText(t => t.setPlaceholder("32 characters").setValue(s.settings.spotifyClientId ?? "").onChange(async v => {
