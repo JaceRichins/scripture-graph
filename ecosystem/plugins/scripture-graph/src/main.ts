@@ -816,6 +816,7 @@ export default class SGPlugin extends Plugin {
   /** the shared host every navigation surface drives */
   private navigatorHost(): NavigatorHost {
     return {
+      ann: this.ann,
       openChapter: t => this.openMyStudy(t),
       openNote: l => void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, ""),
       lastChapter: () => this.state.device.lastChapter,

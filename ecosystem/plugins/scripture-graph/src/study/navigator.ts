@@ -1,4 +1,5 @@
 import type { MusicPlayer } from "./music";
+import type { AnnotationService } from "../social/annotations";
 /** 📖 The Navigator — Gospel-Library-style volume → book → chapter jumping.
  *
  * Three taps from anywhere to any chapter; opening it while reading resumes
@@ -33,6 +34,8 @@ export interface NavigatorHost {
   openPath(path: string): void;
   /** the app-wide music player (queue + mini bar) */
   music: MusicPlayer;
+  /** marks, notes — and the songs the family adds to playlists */
+  ann: AnnotationService;
   openTimeline(): void;
   openTimelinePreset(p: TimelinePreset): void;
   newTimeline(onDone: () => void): void;

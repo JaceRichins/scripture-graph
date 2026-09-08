@@ -45,6 +45,13 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 .sg-connect-totext { margin: 6px 0 10px; line-height: 1.4; color: var(--text-normal); }
 .sg-connect-why { width: 100%; resize: vertical; margin-bottom: 10px; }
 .sg-connect-actions { display: flex; gap: 8px; justify-content: flex-end; }
+
+/* ---- ＋ Add a song from a YouTube link ---- */
+.sg-pl-add { flex: 0 0 auto; }
+.sg-addsong-title { margin: 2px 0 6px; }
+.sg-addsong .sg-nav-filter { width: 100%; margin: 0 0 8px; }
+.sg-addsong-found { display: flex; align-items: center; gap: 10px; min-height: 30px; margin: 0 0 10px; font-size: 0.86em; color: var(--text-muted); }
+.sg-addsong-thumb { width: 72px; height: 40px; object-fit: cover; border-radius: 6px; flex: none; }
 .sg-note-modal textarea { width: 100%; min-height: 110px; margin-bottom: 10px; }
 
 /* ---------- invite codes -------------------------------------------------- */

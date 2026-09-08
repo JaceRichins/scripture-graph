@@ -36,6 +36,8 @@ export interface PlayItem {
   credit?: string;
   art?: string;
   open?: () => void;
+  /** a song someone added to the playlist by hand: take it off again */
+  remove?: () => void;
 }
 
 type Mode = "audio" | "spotify" | "youtube";
@@ -317,6 +319,7 @@ export class MusicPlayer {
     if (it.url && eng !== "audio") m.addItem(i => i.setTitle(it.credit ? "Play the recording here" : "Play the plain recording").setIcon("music").onClick(() => this.playUrl(it, it.url!)));
     for (const a of it.alt ?? []) m.addItem(i => i.setTitle(a.label).setIcon("music").onClick(() => this.playUrl(it, a.url)));
     if (!eng) m.addItem(i => i.setTitle("Nothing to play yet").setIcon("clock").setDisabled(true));
+    if (it.remove) { m.addSeparator(); m.addItem(i => i.setTitle("Remove from playlist").setIcon("trash").onClick(() => it.remove!())); }
     if (it.wordsUrl || it.credit) m.addSeparator();
     if (it.wordsUrl) m.addItem(i => i.setTitle("Words & sheet music (Church site)").setIcon("file-text").onClick(() => window.open(it.wordsUrl!, "_blank")));
     if (it.credit) m.addItem(i => i.setTitle(`Recording: ${it.credit}`).setIcon("info").setDisabled(true));

@@ -16,6 +16,7 @@ import { GRAPH_PRESETS, openGraphPreset } from "./graphPresets";
 import { cascade, iconHue, navIcon, type NavIconName } from "./navIcons";
 import { LIBRARY_SECTIONS, VOLUMES, titleForChapterSlug, type NavigatorHost } from "./navigator";
 import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } from "./search";
+import { AddSongModal, songsOn } from "./addSong";
 
 export const LIBRARY_VIEW = "sg-library";
 
@@ -523,7 +524,8 @@ export class SGLibraryView extends ItemView {
 
   /** one playlist: cover, Play, rows */
   private async renderPlaylist(c: HTMLElement, key: string): Promise<void> {
-    const [lists, hymns] = await Promise.all([this.loadPlaylists(), this.loadHymns()]);
+    const [lists, hymns, added] = await Promise.all([this.loadPlaylists(), this.loadHymns(),
+      songsOn(this.host.ann, key).catch(() => [])]);
     if (!c.isConnected) return;
     const pl = lists.find(l => l.key === key);
     if (!pl) { c.createDiv({ cls: "sg-nav-empty", text: "That playlist is gone." }); return; }
@@ -533,6 +535,13 @@ export class SGLibraryView extends ItemView {
     const art = this.art(pl.cover ?? `music-${pl.key}`);
     const open = () => this.go({ kind: "playlist", key: pl.key, title: pl.title });
     const items = pl.tracks.map((tr, i) => this.trackItem(tr, byTitle, key, i, art, open));
+    // the family's additions ride at the end, in the order they were added
+    for (const [j, song] of added.entries()) {
+      const it = this.trackItem({ t: song.t, a: song.a, yt: song.yt }, byTitle, key, pl.tracks.length + j, art, open);
+      it.id = `added:${song.id}`;
+      if (song.mine) it.remove = () => void this.host.ann.remove(song.id).then(() => { new Notice(`Removed “${song.t}”`); this.render(); });
+      items.push(it);
+    }
     const here = items.filter(i => this.host.music.headless(i)).length;
     const head = c.createDiv({ cls: "sg-pl-head" });
     if (art) { const img = head.createEl("img", { cls: "sg-pl-art" }); img.src = art; }
@@ -546,6 +555,9 @@ export class SGLibraryView extends ItemView {
     play.onclick = () => this.host.music.playAll(items);
     const shuf = acts.createEl("button", { cls: "sg-pl-shuffle", text: "⇄  Shuffle" });
     shuf.onclick = () => this.host.music.playAll(items, true);
+    const addBtn = acts.createEl("button", { cls: "sg-pl-add", text: "＋  Add" });
+    addBtn.setAttr("aria-label", "Add a song from a YouTube link");
+    addBtn.onclick = () => new AddSongModal(this.s, this.host.ann, key, pl.title, () => this.render()).open();
     const list = c.createDiv({ cls: "sg-tr-list" });
     const render = () => { list.empty(); items.forEach((_, i) => this.trackRow(list, items, i, String(i + 1))); };
     render();
