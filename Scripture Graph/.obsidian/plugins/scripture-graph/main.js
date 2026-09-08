@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.42 build 570e2ca90 2026-09-08T22:29:26Z */
+/* scripture-graph v0.72.43 build b9b3f2882 2026-09-08T22:34:22Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.42", sha: "570e2ca90", at: "2026-09-08T22:29:26Z" };
+    define_SG_BUILD_default = { version: "0.72.43", sha: "b9b3f2882", at: "2026-09-08T22:34:22Z" };
   }
 });
 
@@ -14318,6 +14318,7 @@ var SGLibraryView = class extends import_obsidian7.ItemView {
     this.render();
   }
   async onClose() {
+    this.host.scene?.(null);
     for (const u of this.unsubs) u();
     if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
     document.body.removeClass("sg-lib-open");
@@ -14375,6 +14376,7 @@ var SGLibraryView = class extends import_obsidian7.ItemView {
     head.createDiv({ cls: "sg-lp-title", text: this.title() });
     window.setTimeout(() => document.dispatchEvent(new CustomEvent("sg-dock-refresh")), 0);
     const body = c2.createDiv({ cls: "sg-lp-body" });
+    this.host.scene?.(v.kind === "family" ? "orchard" : null);
     if (v.kind === "home") this.renderHome(body);
     else if (v.kind === "scriptures") this.renderScriptures(body);
     else if (v.kind === "books") this.renderBooks(body, v.volume);
@@ -19209,7 +19211,8 @@ var SCENES = [
   { id: "prison", name: "The Prison", emoji: "\u26D3\uFE0F", hours: [], layers: 5 },
   { id: "desert", name: "Desert Dusk", emoji: "\u{1F3DC}\uFE0F", hours: [], layers: 6 },
   { id: "starlight", name: "The Heavens", emoji: "\u{1F30C}", hours: [[20, 24], [0, 5]], layers: 5 },
-  { id: "candle", name: "Candlelight", emoji: "\u{1F56F}\uFE0F", hours: [], layers: 4 }
+  { id: "candle", name: "Candlelight", emoji: "\u{1F56F}\uFE0F", hours: [], layers: 4 },
+  { id: "orchard", name: "The Orchard", emoji: "\u{1F333}", hours: [], layers: 6 }
 ];
 var ROOT_CLS = "sg-scene";
 function lcg(seed) {
@@ -19239,6 +19242,29 @@ function ridge(seed, color, base, jag, crest) {
   d += " L900 200 L0 200 Z";
   let c2 = `<path d='${d}' fill='${color}'/>`;
   if (crest) c2 += `<path d='${open2}' stroke='${crest}' stroke-width='2.2' fill='none' opacity='0.55'/>`;
+  return svgUrl(900, 200, c2);
+}
+function oak(seed, color, x3 = 450, ground = 200) {
+  const rnd = lcg(seed);
+  let c2 = "";
+  const limb = (x1, y1, ang, len, w, depth) => {
+    const x22 = x1 + Math.cos(ang) * len, y22 = y1 - Math.sin(ang) * len;
+    const cx = x1 + Math.cos(ang + 0.35) * len * 0.5, cy = y1 - Math.sin(ang + 0.35) * len * 0.5;
+    c2 += `<path d='M${x1.toFixed(0)} ${y1.toFixed(0)} Q ${cx.toFixed(0)} ${cy.toFixed(0)} ${x22.toFixed(0)} ${y22.toFixed(0)}' stroke='${color}' stroke-width='${w.toFixed(1)}' stroke-linecap='round' fill='none'/>`;
+    if (depth <= 0) {
+      c2 += `<circle cx='${x22.toFixed(0)}' cy='${y22.toFixed(0)}' r='${(18 + rnd() * 16).toFixed(0)}' fill='${color}' opacity='0.92'/>`;
+      return;
+    }
+    const n = 2 + (rnd() > 0.6 ? 1 : 0);
+    for (let i = 0; i < n; i++) {
+      const spread = (i / (n - 1 || 1) - 0.5) * 1.3 + (rnd() - 0.5) * 0.4;
+      limb(x22, y22, ang + spread, len * (0.62 + rnd() * 0.16), w * 0.62, depth - 1);
+    }
+  };
+  c2 += `<path d='M${x3 - 16} ${ground + 4} Q ${x3 - 10} ${ground - 40} ${x3 - 6} ${ground - 70} L ${x3 + 6} ${ground - 70} Q ${x3 + 10} ${ground - 40} ${x3 + 16} ${ground + 4} Z' fill='${color}'/>`;
+  limb(x3, ground - 68, Math.PI / 2, 42, 11, 3);
+  limb(x3, ground - 60, Math.PI / 2 - 0.55, 38, 8, 2);
+  limb(x3, ground - 60, Math.PI / 2 + 0.55, 38, 8, 2);
   return svgUrl(900, 200, c2);
 }
 function hills(color, amp, phase, crest) {
@@ -19579,6 +19605,18 @@ var SceneManager = class {
         p.style.animationDelay = `${-rnd() * 40}s`;
         p.style.height = `${40 + rnd() * 60}px`;
         p.style.opacity = `${0.1 + rnd() * 0.14}`;
+      });
+    }
+    if (id === "orchard") {
+      this.bg(el, 2, seededStars(31, 70, 1200, 700, 0.5, 1.3, "#fff2d8"));
+      this.bg(el, 3, hills("#2a1a2e", 26, 62));
+      this.bg(el, 4, oak(17, "#1b1020", 620, 200));
+      this.bg(el, 5, hills("#160c1a", 34, 18));
+      particles(el, "sg-firefly", 7, 137, (rnd, p) => {
+        p.style.left = `${5 + rnd() * 90}%`;
+        p.style.top = `${35 + rnd() * 55}%`;
+        p.style.animationDuration = `${7 + rnd() * 8}s, ${3 + rnd() * 3}s`;
+        p.style.animationDelay = `${-rnd() * 10}s, ${-rnd() * 3}s`;
       });
     }
     if (id === "garden") {
@@ -20529,12 +20567,7 @@ var SGPlugin = class extends import_obsidian38.Plugin {
           this.recordLastChapter(f0);
           this.updateNavFab(f0);
         }
-        if (this.state.device.scene === "match") {
-          this.scenes.apply(this.state.device.lastMatchedScene ?? "none");
-          if (f0) void this.matchSceneToChapter(f0);
-        } else {
-          this.scenes.apply(this.state.device.scene ?? "none");
-        }
+        this.applyConfiguredScene(f0);
         this.registerInterval(window.setInterval(() => {
           if (this.state.device.scene === "auto") this.scenes.apply("auto");
         }, 15 * 6e4));
@@ -20860,6 +20893,17 @@ var SGPlugin = class extends import_obsidian38.Plugin {
     } catch {
     }
   }
+  /** the scene the reader chose (or the clock, or the chapter) — applied
+   * on launch and again when a page that borrowed the backdrop lets go */
+  applyConfiguredScene(f0) {
+    if (this.state.device.scene === "match") {
+      this.scenes.apply(this.state.device.lastMatchedScene ?? "none");
+      const f = f0 ?? this.app.workspace.getActiveFile();
+      if (f) void this.matchSceneToChapter(f);
+    } else {
+      this.scenes.apply(this.state.device.scene ?? "none");
+    }
+  }
   navigatorHost() {
     return {
       ann: this.ann,
@@ -20867,6 +20911,10 @@ var SGPlugin = class extends import_obsidian38.Plugin {
       openNote: (l) => void this.ensureLocal(l).then(() => (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, "")),
       downloadFolder: (p) => this.vaultSync.pinFolder(p),
       remoteCount: (p) => this.vaultSync.remoteCount(p),
+      scene: (id) => {
+        if (id) this.scenes.apply(id);
+        else this.applyConfiguredScene();
+      },
       lastChapter: () => this.state.device.lastChapter,
       recentChapters: () => this.state.device.recentChapters ?? [],
       groupActivity: async () => {

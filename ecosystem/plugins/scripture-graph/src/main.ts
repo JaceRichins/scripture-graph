@@ -491,12 +491,7 @@ export default class SGPlugin extends Plugin {
         // ambient scene: restore + hourly re-pick when following the clock.
         // "match" is a MODE, not a scene id — handing it to apply() picked
         // the first scene in the list on every relaunch (user-reported)
-        if (this.state.device.scene === "match") {
-          this.scenes.apply(this.state.device.lastMatchedScene ?? "none");
-          if (f0) void this.matchSceneToChapter(f0);
-        } else {
-          this.scenes.apply(this.state.device.scene ?? "none");
-        }
+        this.applyConfiguredScene(f0);
         this.registerInterval(window.setInterval(() => {
           if (this.state.device.scene === "auto") this.scenes.apply("auto");
         }, 15 * 60_000));
@@ -854,6 +849,18 @@ export default class SGPlugin extends Plugin {
     } catch { /* the page still reads; pictures show as they arrive */ }
   }
 
+  /** the scene the reader chose (or the clock, or the chapter) — applied
+   * on launch and again when a page that borrowed the backdrop lets go */
+  applyConfiguredScene(f0?: TFile | null): void {
+    if (this.state.device.scene === "match") {
+      this.scenes.apply(this.state.device.lastMatchedScene ?? "none");
+      const f = f0 ?? this.app.workspace.getActiveFile();
+      if (f) void this.matchSceneToChapter(f);
+    } else {
+      this.scenes.apply(this.state.device.scene ?? "none");
+    }
+  }
+
   private navigatorHost(): NavigatorHost {
     return {
       ann: this.ann,
@@ -861,6 +868,7 @@ export default class SGPlugin extends Plugin {
       openNote: l => void this.ensureLocal(l).then(() => (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, "")),
       downloadFolder: (p) => this.vaultSync.pinFolder(p),
       remoteCount: (p) => this.vaultSync.remoteCount(p),
+      scene: (id) => { if (id) this.scenes.apply(id); else this.applyConfiguredScene(); },
       lastChapter: () => this.state.device.lastChapter,
       recentChapters: () => this.state.device.recentChapters ?? [],
       groupActivity: async () => {

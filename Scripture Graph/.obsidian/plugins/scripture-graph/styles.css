@@ -64,16 +64,13 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
   background: var(--background-secondary); border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
 .sg-ft-list { font-size: 0.8em; font-weight: 600; padding: 5px 11px; border-radius: 999px; box-shadow: none;
   background: transparent; border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); color: var(--text-muted); }
-.sg-ft-canvas { position: relative; height: calc(100vh - 250px); min-height: 420px; overflow: hidden; border-radius: 18px;
-  touch-action: none; cursor: grab; user-select: none; -webkit-user-select: none;
-  background: radial-gradient(120% 70% at 50% 100%, color-mix(in srgb, #d9c07a 14%, transparent), transparent 60%),
-    linear-gradient(180deg, color-mix(in srgb, var(--background-secondary) 30%, transparent), color-mix(in srgb, var(--background-secondary) 65%, transparent));
-  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 45%, transparent); }
+/* the tree stands straight on the scene: no box, no border, edge to edge */
+.sg-ft-canvas { position: relative; height: calc(100vh - 235px); min-height: 440px; overflow: hidden;
+  margin: 0 -16px; touch-action: none; cursor: grab; user-select: none; -webkit-user-select: none; background: transparent; }
 .sg-ft-canvas:active { cursor: grabbing; }
-.sg-ft-sky { position: absolute; inset: 0; pointer-events: none;
-  background-image: radial-gradient(rgba(255,255,255,0.10) 1px, transparent 1.5px); background-size: 26px 26px; opacity: 0.5; }
-.sg-ft-ground { position: absolute; left: 0; right: 0; bottom: 0; height: 26px; pointer-events: none;
-  background: linear-gradient(transparent, color-mix(in srgb, #d9c07a 22%, transparent)); }
+.sg-ft-sky, .sg-ft-ground { display: none; }
+body.sg-scene-on .sg-ft-name { color: #fff6e6; }
+body.sg-scene-on .sg-ft-years { color: rgba(255, 240, 220, 0.72); }
 .sg-ft-layer { position: absolute; left: 0; top: 0; width: 0; height: 0; transform-origin: 0 0; will-change: transform; }
 .sg-ft-lines { position: absolute; overflow: visible; pointer-events: none; }
 .sg-ft-limb { fill: none; stroke-width: 3; stroke-linecap: round; opacity: 0.85;
@@ -604,6 +601,17 @@ body[data-sg-scene="prison"] { --sg-ink: #e4e2dc; --sg-ink-strong: #f5f2ea; --sg
 }
 
 /* ── 🌿 The Garden: dappled light through leaves ── */
+/* The Orchard — the Family tree's own dusk: amber going to plum, one great tree */
+.sg-scene-orchard .sgl-1 {
+  background: radial-gradient(90% 60% at 50% 100%, #b8743a66 0%, transparent 65%),
+    linear-gradient(180deg, #2b1436 0%, #4a2340 38%, #8a4a3c 72%, #c98450 100%);
+  animation: sg-dawn-breathe 50s ease-in-out infinite alternate;
+}
+.sg-scene-orchard .sgl-2 { background-repeat: no-repeat; background-size: 1200px 700px; opacity: 0.7; }
+.sg-scene-orchard .sgl-3 { background-position: 50% 100%; background-size: 1400px 300px; background-repeat: repeat-x; }
+.sg-scene-orchard .sgl-4 { background-position: 50% 100%; background-size: 1500px 330px; background-repeat: no-repeat; opacity: 0.95; }
+.sg-scene-orchard .sgl-5 { background-position: 50% 100%; background-size: 1300px 260px; background-repeat: repeat-x; }
+.sg-scene-orchard .sgl-scrim { background: radial-gradient(120% 80% at 50% 110%, transparent 55%, rgba(8, 4, 12, 0.35) 100%); }
 .sg-scene-garden .sgl-1 {
   background: radial-gradient(120% 100% at 50% 0%, #33604080 0%, transparent 60%),
     linear-gradient(180deg, #2c5639 0%, #1e472b 44%, #123322 100%);

@@ -169,6 +169,7 @@ export class SGLibraryView extends ItemView {
   }
 
   async onClose(): Promise<void> {
+    this.host.scene?.(null);
     for (const u of this.unsubs) u();          // the music keeps playing; only the rows stop listening
     if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
     document.body.removeClass("sg-lib-open");
@@ -245,6 +246,8 @@ export class SGLibraryView extends ItemView {
     // the dock lights the door you are behind — home, the shelf, or search
     window.setTimeout(() => document.dispatchEvent(new CustomEvent("sg-dock-refresh")), 0);
     const body = c.createDiv({ cls: "sg-lp-body" });
+    // the family tree grows against its own dusk; every other page keeps the reader's scene
+    this.host.scene?.(v.kind === "family" ? "orchard" : null);
     if (v.kind === "home") this.renderHome(body);
     else if (v.kind === "scriptures") this.renderScriptures(body);
     else if (v.kind === "books") this.renderBooks(body, v.volume);

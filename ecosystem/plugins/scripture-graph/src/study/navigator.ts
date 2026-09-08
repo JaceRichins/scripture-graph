@@ -41,6 +41,8 @@ export interface NavigatorHost {
   downloadFolder?: (path: string) => Promise<void>;
   /** how many of a shelf's pages are still only on the server */
   remoteCount?: (path: string) => number;
+  /** a page's own backdrop while it is open; null = whatever the reader chose */
+  scene?: (id: string | null) => void;
   openTimeline(): void;
   openTimelinePreset(p: TimelinePreset): void;
   newTimeline(onDone: () => void): void;

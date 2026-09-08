@@ -27,6 +27,7 @@ export const SCENES: SceneDef[] = [
   { id: "desert", name: "Desert Dusk", emoji: "🏜️", hours: [], layers: 6 },
   { id: "starlight", name: "The Heavens", emoji: "🌌", hours: [[20, 24], [0, 5]], layers: 5 },
   { id: "candle", name: "Candlelight", emoji: "🕯️", hours: [], layers: 4 },
+  { id: "orchard", name: "The Orchard", emoji: "🌳", hours: [], layers: 6 },
 ];
 
 const ROOT_CLS = "sg-scene";
@@ -66,6 +67,29 @@ function ridge(seed: number, color: string, base: number, jag: number, crest?: s
   d += " L900 200 L0 200 Z";
   let c = `<path d='${d}' fill='${color}'/>`;
   if (crest) c += `<path d='${open}' stroke='${crest}' stroke-width='2.2' fill='none' opacity='0.55'/>`;
+  return svgUrl(900, 200, c);
+}
+
+/** one great tree in silhouette — trunk, limbs branching twice, a canopy of
+ * overlapping crowns — the shape the family tree grows against */
+function oak(seed: number, color: string, x = 450, ground = 200): string {
+  const rnd = lcg(seed);
+  let c = "";
+  const limb = (x1: number, y1: number, ang: number, len: number, w: number, depth: number): void => {
+    const x2 = x1 + Math.cos(ang) * len, y2 = y1 - Math.sin(ang) * len;
+    const cx = x1 + Math.cos(ang + 0.35) * len * 0.5, cy = y1 - Math.sin(ang + 0.35) * len * 0.5;
+    c += `<path d='M${x1.toFixed(0)} ${y1.toFixed(0)} Q ${cx.toFixed(0)} ${cy.toFixed(0)} ${x2.toFixed(0)} ${y2.toFixed(0)}' stroke='${color}' stroke-width='${w.toFixed(1)}' stroke-linecap='round' fill='none'/>`;
+    if (depth <= 0) { c += `<circle cx='${x2.toFixed(0)}' cy='${y2.toFixed(0)}' r='${(18 + rnd() * 16).toFixed(0)}' fill='${color}' opacity='0.92'/>`; return; }
+    const n = 2 + (rnd() > 0.6 ? 1 : 0);
+    for (let i = 0; i < n; i++) {
+      const spread = (i / (n - 1 || 1) - 0.5) * 1.3 + (rnd() - 0.5) * 0.4;
+      limb(x2, y2, ang + spread, len * (0.62 + rnd() * 0.16), w * 0.62, depth - 1);
+    }
+  };
+  c += `<path d='M${x - 16} ${ground + 4} Q ${x - 10} ${ground - 40} ${x - 6} ${ground - 70} L ${x + 6} ${ground - 70} Q ${x + 10} ${ground - 40} ${x + 16} ${ground + 4} Z' fill='${color}'/>`;
+  limb(x, ground - 68, Math.PI / 2, 42, 11, 3);
+  limb(x, ground - 60, Math.PI / 2 - 0.55, 38, 8, 2);
+  limb(x, ground - 60, Math.PI / 2 + 0.55, 38, 8, 2);
   return svgUrl(900, 200, c);
 }
 
@@ -470,6 +494,18 @@ export class SceneManager {
         p.style.animationDelay = `${-rnd() * 40}s`;
         p.style.height = `${40 + rnd() * 60}px`;
         p.style.opacity = `${0.10 + rnd() * 0.14}`;
+      });
+    }
+    if (id === "orchard") {
+      this.bg(el, 2, seededStars(31, 70, 1200, 700, 0.5, 1.3, "#fff2d8"));
+      this.bg(el, 3, hills("#2a1a2e", 26, 62));                       // far ridge, plum
+      this.bg(el, 4, oak(17, "#1b1020", 620, 200));                    // the great tree, off to one side
+      this.bg(el, 5, hills("#160c1a", 34, 18));                        // the near meadow
+      particles(el, "sg-firefly", 7, 137, (rnd, p) => {
+        p.style.left = `${5 + rnd() * 90}%`;
+        p.style.top = `${35 + rnd() * 55}%`;
+        p.style.animationDuration = `${7 + rnd() * 8}s, ${3 + rnd() * 3}s`;
+        p.style.animationDelay = `${-rnd() * 10}s, ${-rnd() * 3}s`;
       });
     }
     if (id === "garden") {
