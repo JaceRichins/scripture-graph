@@ -5,7 +5,10 @@ episode: "nt-00-the-charcoal-fire"
 scripture: "New Testament 1"
 script_version: 3
 type: episode-review
-status: awaiting-jace
+status: rendered
+audio: "C:/ScriptureGraphAudio/_send-to-jace/NT-The-Charcoal-Fire-ElevenLabs.mp3"
+rendered: 2026-09-08
+credits: 14788
 ---
 
 # The Charcoal Fire - FINAL
@@ -29,6 +32,15 @@ status: awaiting-jace
 > `[quietly]`, `[emotional]`, `[warmly]`, `[long pause]` — these tell ElevenLabs **how** to say the line. They are never spoken aloud, and the free Kokoro previews strip them out entirely.
 > 
 > **They are yours to change.** Move one, delete one, or write your own in the same square brackets if a line should land differently. They never appear inside a 📖 block and never in anything the Lord says — those are read straight.
+
+## Listen
+
+> [!success] Rendered on ElevenLabs — 2026-09-08
+> **File:** `C:/ScriptureGraphAudio/_send-to-jace/NT-The-Charcoal-Fire-ElevenLabs.mp3` (14.4 MB, 32:47)
+> **Cost:** 14,788 credits (balance 33,856 → 19,068). 58 dialogue requests, 26 verses byte-exact from the payloads that were actually sent.
+> **Where the fire is:** the courtyard reading lands about 12 minutes in; the shore and the three questions run from about 24:40 to 26:50.
+>
+> One thing to know while you listen: the two written silences between the three questions (`[a pause]`, `[long pause]`) came back from ElevenLabs as empty audio, so each is about 1.2 seconds of air instead of the longer hold the script asked for. The renderer now lays those rests down itself; nothing else in the master is affected.
 
 ## Who is speaking
 
