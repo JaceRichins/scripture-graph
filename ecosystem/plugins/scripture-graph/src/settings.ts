@@ -6,7 +6,7 @@ import { WelcomeModal, linkDevice, refreshIdentity } from "./social/onboarding";
 import { TIER_CANDIDATES, type Tier } from "@scripture-graph/core-sdk";
 import { SCENES } from "./study/scenes";
 import { BUILD } from "./build";
-import { SECTIONS, syncPrefs } from "./sync/vaultSync";
+import { SECTIONS, syncPrefs, sectionOn } from "./sync/vaultSync";
 import { SetupLinkModal, bestPublicUrl, buildSetupLink } from "./social/setupLink";
 
 export class SGSettingsTab extends PluginSettingTab {
@@ -70,8 +70,9 @@ export class SGSettingsTab extends PluginSettingTab {
         }));
     el.createEl("h3", { text: "What this device carries" });
     for (const sec of SECTIONS) {
-      new Setting(el).setName(sec.label).setDesc(sec.always ? "Always" : "")
-        .addToggle(t => t.setValue(sec.always || prefs.sections[sec.key] !== false).setDisabled(!!sec.always)
+      new Setting(el).setName(sec.label)
+        .setDesc(sec.always ? "Always" : sec.defaultOn === false ? "Off: the Library still lists it, and a page is fetched the moment you open it. On: all of it, offline." : "")
+        .addToggle(t => t.setValue(sectionOn(sec, prefs)).setDisabled(!!sec.always)
           .onChange(async v => {
             s.device.sync = { ...(s.device.sync ?? {}), sections: { ...(s.device.sync?.sections ?? {}), [sec.key]: v } };
             await s.saveDevice();

@@ -5,6 +5,7 @@
  * lookups are local file reads: offline, instant, and lawful to sync to
  * every family device. Verses are matched by chapter:verse lines. */
 import { App, Modal, TFile } from "obsidian";
+import { lazyFetch } from "../sync/vaultSync";
 import { BOOK_BY_SLUG, parseVerseId, verseDisplay } from "@scripture-graph/core-sdk";
 import { SGState } from "../state";
 
@@ -25,7 +26,11 @@ export function isBiblical(verseId: string): boolean {
 const fileCache = new Map<string, string>();
 
 async function bookText(app: App, bookName: string, abbr: string): Promise<string | null> {
-  const dest = app.metadataCache.getFirstLinkpathDest(`${bookName} (${abbr})`, "");
+  let dest = app.metadataCache.getFirstLinkpathDest(`${bookName} (${abbr})`, "");
+  if (!(dest instanceof TFile) && lazyFetch) {
+    // the translations shelf is off by default on phones: this one book, now
+    if (await lazyFetch(`${bookName} (${abbr})`)) dest = app.metadataCache.getFirstLinkpathDest(`${bookName} (${abbr})`, "");
+  }
   if (!(dest instanceof TFile)) return null;
   const hit = fileCache.get(dest.path);
   if (hit != null) return hit;

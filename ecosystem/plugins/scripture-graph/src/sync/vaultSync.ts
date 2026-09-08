@@ -19,24 +19,57 @@
  * not in the vault, so it never syncs itself. */
 import { Notice, TFile, normalizePath } from "obsidian";
 import { SGState } from "../state";
+import { trace } from "../study/trace";
 
-export interface SyncSection { key: string; label: string; prefix: string; always?: boolean }
-
-/** the shelves a device can choose to carry — the rest always comes */
+export interface SyncSection {
+  key: string; label: string; prefixes: string[];
+  /** every device carries it */
+  always?: boolean;
+  /** off unless switched on: the shelf still lists it from the server and
+   * fetches a page the moment it is opened (and keeps it) */
+  defaultOn?: boolean;
+}
+/** ORDER MATTERS: the first prefix that matches decides, so the scripture
+ * sub-folders come before the broad "AI Library/0" topics rule */
 export const SECTIONS: SyncSection[] = [
-  { key: "scriptures", label: "Scriptures, study guides, footnotes", prefix: "AI Library/01 Scriptures/", always: true },
-  { key: "topics", label: "Gospel Topics, doctrines, people, places, events", prefix: "AI Library/0", always: true },
-  { key: "conference", label: "General Conference (2,900 talks)", prefix: "AI Library/10 General Conference/" },
-  { key: "history", label: "Church History (Saints, prophets, periodicals)", prefix: "AI Library/30 Church History/" },
-  { key: "findings", label: "Findings (1,700 notes)", prefix: "AI Library/40 Findings/" },
-  { key: "questions", label: "Hard Questions", prefix: "AI Library/50 Questions/" },
-  { key: "podcasts", label: "Podcasts & talks", prefix: "AI Library/65 Secondary Sources/" },
-  { key: "dictionary", label: "Bible Dictionary, Topical Guide", prefix: "AI Library/80 Bible Dictionary/" },
-  { key: "timeline", label: "Timeline pages", prefix: "AI Library/90 Timeline/" },
+  { key: "scriptures", label: "Scriptures (the text, and the packs the reader needs)", always: true,
+    prefixes: ["AI Library/01 Scriptures/Canonical/", "AI Library/01 Scriptures/Packs/", "AI Library/01 Scriptures/JST Appendix/"] },
+  { key: "guides", label: "Study guides (one per chapter)", prefixes: ["AI Library/01 Scriptures/Study Guides/"], defaultOn: false },
+  { key: "apparatus", label: "Per-chapter footnote and cross-reference pages (the packs carry the same data)",
+    prefixes: ["AI Library/01 Scriptures/Footnotes/", "AI Library/01 Scriptures/Cross References/"], defaultOn: false },
+  { key: "annotated", label: "Annotated chapter mirrors", prefixes: ["AI Library/01 Scriptures/Annotated/"], defaultOn: false },
+  { key: "translations", label: "Bible translations (WEB, ASV, YLT)", prefixes: ["AI Library/01 Scriptures/Translations/"], defaultOn: false },
+  { key: "topics", label: "Gospel Topics, doctrines, people, places, events, Come Follow Me", prefixes: ["AI Library/0"], always: true },
+  { key: "conference", label: "General Conference (2,900 talks)", prefixes: ["AI Library/10 General Conference/"], defaultOn: false },
+  { key: "history", label: "Church History (Saints, prophets, periodicals)", prefixes: ["AI Library/30 Church History/"], defaultOn: false },
+  { key: "findings", label: "Findings (1,700 notes)", prefixes: ["AI Library/40 Findings/"], defaultOn: false },
+  { key: "questions", label: "Hard Questions", prefixes: ["AI Library/50 Questions/"] },
+  { key: "podcasts", label: "Podcasts & talks", prefixes: ["AI Library/65 Secondary Sources/"] },
+  { key: "dictionary", label: "Bible Dictionary, Topical Guide", prefixes: ["AI Library/80 Bible Dictionary/"] },
+  { key: "timeline", label: "Timeline pages", prefixes: ["AI Library/90 Timeline/"] },
 ];
 
-export interface SyncPrefs { enabled: boolean; sections: Record<string, boolean>; intervalMin: number }
-export const DEFAULT_SYNC: SyncPrefs = { enabled: true, sections: {}, intervalMin: 30 };
+/** is this section on for the device: its switch, else its default */
+export function sectionOn(sec: SyncSection, prefs: SyncPrefs): boolean {
+  return !!sec.always || (prefs.sections[sec.key] ?? sec.defaultOn ?? true);
+}
+
+export interface SyncPrefs {
+  enabled: boolean; sections: Record<string, boolean>; intervalMin: number;
+  /** paths and folder prefixes kept regardless of section switches: pages
+   * opened on demand, shelves downloaded from the Library */
+  pins: string[];
+}
+export const DEFAULT_SYNC: SyncPrefs = { enabled: true, sections: {}, intervalMin: 30, pins: [] };
+
+/** bumped when the rules above change shape: the next run re-decides every file */
+const RULES = 2;
+const RULES_KEY = "vaultsync:rules";
+const MANIFEST_KEY = "vaultsync:manifest";
+
+/** set by the plugin: fetch a shared page by its name (or path) on demand */
+export let lazyFetch: ((nameOrPath: string) => Promise<boolean>) | null = null;
+export function setLazyFetch(fn: ((nameOrPath: string) => Promise<boolean>) | null): void { lazyFetch = fn; }
 
 export interface SyncStatus {
   running: boolean; phase: string; done: number; total: number;
@@ -53,7 +86,7 @@ const PSINCE_KEY = "vaultsync:personal-since";
 
 export function syncPrefs(s: SGState): SyncPrefs {
   const d = s.device as { sync?: Partial<SyncPrefs> };
-  return { ...DEFAULT_SYNC, ...(d.sync ?? {}), sections: { ...(d.sync?.sections ?? {}) } };
+  return { ...DEFAULT_SYNC, ...(d.sync ?? {}), sections: { ...(d.sync?.sections ?? {}) }, pins: [...(d.sync?.pins ?? [])] };
 }
 
 async function sha(text: string): Promise<string> {
@@ -76,8 +109,106 @@ export class VaultSync {
   private dirty = new Set<string>();
   private dirtyTimer: number | null = null;
   private source: boolean | null = null;
+  /** every shared path the server offers (the last manifest), for shelves
+   * that list what is not downloaded yet and for opening it on demand */
+  private manifestPaths: string[] = [];
+  private manifestLoaded = false;
 
   constructor(private s: SGState, private deviceName: () => string) {}
+
+  private async loadManifestCache(): Promise<void> {
+    if (this.manifestLoaded) return;
+    this.manifestLoaded = true;
+    const m = await this.s.store.get<{ version: string; paths: string[] }>(MANIFEST_KEY);
+    if (m?.paths?.length) this.manifestPaths = m.paths;
+  }
+
+  /** shared paths under a folder that this device does not hold */
+  remoteUnder(folder: string): { folders: { name: string; path: string }[]; files: { name: string; path: string }[] } {
+    const prefix = folder.endsWith("/") ? folder : `${folder}/`;
+    const folders = new Map<string, string>();
+    const files: { name: string; path: string }[] = [];
+    for (const p of this.manifestPaths) {
+      if (!p.startsWith(prefix)) continue;
+      const rest = p.slice(prefix.length);
+      const cut = rest.indexOf("/");
+      if (cut >= 0) { const name = rest.slice(0, cut); if (!folders.has(name)) folders.set(name, prefix + name); continue; }
+      if (!rest.endsWith(".md") || rest.startsWith("_")) continue;
+      if (this.s.app.vault.getAbstractFileByPath(p)) continue;
+      files.push({ name: rest.slice(0, -3), path: p });
+    }
+    return { folders: [...folders].map(([name, path]) => ({ name, path })), files };
+  }
+
+  /** how many shared files under a folder are not here yet */
+  remoteCount(folder: string): number {
+    const prefix = folder.endsWith("/") ? folder : `${folder}/`;
+    let n = 0;
+    for (const p of this.manifestPaths) if (p.startsWith(prefix) && !this.s.app.vault.getAbstractFileByPath(p)) n++;
+    return n;
+  }
+
+  /** the shared path for a page name ("1 Nephi 12 - Study Guide"), or a path as given */
+  pathFor(nameOrPath: string): string | null {
+    if (this.s.app.vault.getAbstractFileByPath(nameOrPath)) return nameOrPath;
+    const want = nameOrPath.endsWith(".md") ? nameOrPath : `${nameOrPath}.md`;
+    if (want.includes("/")) return this.manifestPaths.includes(want) ? want : null;
+    const hit = this.manifestPaths.find(p => p.endsWith(`/${want}`));
+    return hit ?? null;
+  }
+
+  /** one page, now: fetched, written, pinned so later runs keep it fresh.
+   * Resolves once Obsidian knows the file (or gives up after a moment). */
+  async fetchNow(path: string): Promise<boolean> {
+    if (!this.s.device.deviceToken) return false;
+    if (await this.isSource()) return false;
+    const adapter = this.s.app.vault.adapter;
+    try {
+      const { files } = await this.s.api.vaultBatch([path]);
+      const f = files.find(x => x.p === path && !x.missing);
+      if (!f) return false;
+      const dir = path.includes("/") ? path.slice(0, path.lastIndexOf("/")) : "";
+      if (dir) {
+        const parts = dir.split("/");
+        for (let i = 1; i <= parts.length; i++) {
+          const d = parts.slice(0, i).join("/");
+          if (!(await adapter.exists(normalizePath(d)))) { try { await adapter.mkdir(normalizePath(d)); } catch { /* raced */ } }
+        }
+      }
+      if (f.text !== undefined) await adapter.write(normalizePath(path), f.text);
+      else if (f.b64 !== undefined) await adapter.writeBinary(normalizePath(path), b64ToBytes(f.b64));
+      const index = (await this.s.store.get<Index>(INDEX_KEY)) ?? {};
+      index[path] = f.h ?? "";
+      await this.s.store.put(INDEX_KEY, index);
+      const prefs = syncPrefs(this.s);
+      if (!this.wanted(path, prefs)) {
+        const d = this.s.device as { sync?: Partial<SyncPrefs> };
+        d.sync = { ...(d.sync ?? {}), pins: [...prefs.pins, path] };
+        await this.s.saveDevice();
+      }
+      for (let i = 0; i < 30; i++) {
+        if (this.s.app.vault.getAbstractFileByPath(path)) return true;
+        await new Promise(r => window.setTimeout(r, 100));
+      }
+      return true;
+    } catch (e) {
+      trace("lazy.fail", { path, err: String((e as Error)?.message ?? e).slice(0, 80) });
+      return false;
+    }
+  }
+
+  /** keep a whole folder from now on (and fetch it): a shelf downloaded for offline */
+  async pinFolder(folder: string): Promise<void> {
+    const prefix = folder.endsWith("/") ? folder : `${folder}/`;
+    const prefs = syncPrefs(this.s);
+    if (!prefs.pins.includes(prefix)) {
+      const d = this.s.device as { sync?: Partial<SyncPrefs> };
+      d.sync = { ...(d.sync ?? {}), pins: [...prefs.pins, prefix] };
+      await this.s.saveDevice();
+    }
+    this.set({ lastVersion: null });
+    await this.run("manual");
+  }
 
   private emit(): void { for (const f of this.listeners) { try { f(); } catch { /* ui */ } } }
   private set(patch: Partial<SyncStatus>): void { Object.assign(this.status, patch); this.emit(); }
@@ -90,6 +221,7 @@ export class VaultSync {
 
   start(): void {
     const p = syncPrefs(this.s);
+    void this.loadManifestCache();
     this.stop();
     if (!p.enabled || !this.s.device.deviceToken) return;
     window.setTimeout(() => void this.run("startup"), 4_000);
@@ -126,8 +258,9 @@ export class VaultSync {
   // ---------------------------------------------------------------- shared
 
   private wanted(path: string, prefs: SyncPrefs): boolean {
+    for (const pin of prefs.pins) if (path === pin || path.startsWith(pin)) return true;
     for (const sec of SECTIONS) {
-      if (path.startsWith(sec.prefix)) return sec.always || prefs.sections[sec.key] !== false;
+      if (sec.prefixes.some(pre => path.startsWith(pre))) return sectionOn(sec, prefs);
     }
     return true;   // everything outside the optional shelves comes along
   }
@@ -137,9 +270,14 @@ export class VaultSync {
     const api = this.s.api;
     const v = await api.vaultVersion();
     const index = (await this.s.store.get<Index>(INDEX_KEY)) ?? {};
-    if (v.version === this.status.lastVersion && Object.keys(index).length) return;
+    // the rules changed shape (an update): every file is decided again
+    if ((await this.s.store.get<number>(RULES_KEY)) !== RULES) { this.status.lastVersion = null; await this.s.store.put(RULES_KEY, RULES); }
+    await this.loadManifestCache();
+    if (v.version === this.status.lastVersion && Object.keys(index).length && this.manifestPaths.length) return;
     this.set({ phase: "manifest" });
     const m = await api.vaultManifest();
+    this.manifestPaths = m.files.map(f => f.p);
+    await this.s.store.put(MANIFEST_KEY, { version: m.version, paths: this.manifestPaths });
     const adapter = this.s.app.vault.adapter;
     const want = new Map<string, string>();
     for (const f of m.files) if (this.wanted(f.p, prefs)) want.set(f.p, f.h);

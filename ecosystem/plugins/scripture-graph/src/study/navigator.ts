@@ -20,8 +20,9 @@ export interface GroupActivityRow {
 }
 
 export interface FolderListing {
-  folders: { name: string; path: string }[];
-  files: { name: string; path: string }[];
+  folders: { name: string; path: string; remote?: boolean }[];
+  /** remote: on the server, not on this device yet — opens on demand */
+  files: { name: string; path: string; remote?: boolean }[];
 }
 
 export interface NavigatorHost {
@@ -36,6 +37,10 @@ export interface NavigatorHost {
   music: MusicPlayer;
   /** marks, notes — and the songs the family adds to playlists */
   ann: AnnotationService;
+  /** keep a whole shelf on this device from now on (fetches it) */
+  downloadFolder?: (path: string) => Promise<void>;
+  /** how many of a shelf's pages are still only on the server */
+  remoteCount?: (path: string) => number;
   openTimeline(): void;
   openTimelinePreset(p: TimelinePreset): void;
   newTimeline(onDone: () => void): void;

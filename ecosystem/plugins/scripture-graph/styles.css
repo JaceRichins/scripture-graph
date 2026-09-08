@@ -46,6 +46,13 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 .sg-connect-why { width: 100%; resize: vertical; margin-bottom: 10px; }
 .sg-connect-actions { display: flex; gap: 8px; justify-content: flex-end; }
 
+/* ---- pages still on the server: fetched when opened; a shelf can be kept ---- */
+.sg-nav-remote .sg-nav-name { opacity: 0.82; }
+.sg-nav-ext-dl { color: var(--text-faint); font-size: 0.9em; margin-left: 6px; flex: none; }
+.sg-nav-dl { width: 100%; margin: 0 0 10px; padding: 9px 12px; border-radius: 12px; font-weight: 600; font-size: 0.9em;
+  background: color-mix(in srgb, var(--background-secondary) 80%, var(--interactive-accent)); box-shadow: none;
+  border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
+
 /* ---- ＋ Add a song from a YouTube link ---- */
 .sg-pl-add { flex: 0 0 auto; }
 .sg-addsong-title { margin: 2px 0 6px; }

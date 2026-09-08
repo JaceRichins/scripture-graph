@@ -4,6 +4,8 @@
  * its references; tap a reference and it peeks the way every verse link
  * does; tap the chapter name to travel. */
 import { App, Modal, TFile } from "obsidian";
+import { chapterIdFromTitle } from "@scripture-graph/core-sdk";
+import { packChapter } from "../study/packs";
 import { SGState } from "../state";
 
 export interface FootnoteRef { c: string | null; t: string | null; v: number[]; l: string }
@@ -18,6 +20,10 @@ export function footnotesFor(app: App, chapterTitle: string): Promise<ChapterFoo
   let p = cache.get(chapterTitle);
   if (!p) {
     p = (async () => {
+      // the book's pack first (what phones carry); the per-chapter page otherwise
+      const slug = chapterIdFromTitle(chapterTitle);
+      const packed = slug ? await packChapter<ChapterFootnotes>(app, slug, "Footnotes") : null;
+      if (packed) return packed;
       const f = app.metadataCache.getFirstLinkpathDest(`${chapterTitle} - Footnotes`, "");
       if (!(f instanceof TFile)) return null;
       try {

@@ -9,7 +9,8 @@
  * pages, and your own notes. Annotated mirror pages (which embed every verse)
  * and system docs are excluded as noise. */
 import { App, Modal, TFile } from "obsidian";
-import { verseDisplay } from "@scripture-graph/core-sdk";
+import { chapterTitle, parseVerseId, verseDisplay } from "@scripture-graph/core-sdk";
+import { packChapter } from "../study/packs";
 import { SGState } from "../state";
 import { registerSheet, unregisterSheet } from "../study/sheetRegistry";
 
@@ -140,6 +141,49 @@ export function connectionsFor(app: App, chapterPath: string, slug: string): Cha
   const conns = { byVerse, chapter };
   if (byVerse.size || chapter.length) cache.set(chapterPath, { at: Date.now(), conns });
   return conns;
+}
+
+/** the same map, from the book's packs (what phones carry): every citing
+ * page and every textual parallel, whether or not the page itself is here */
+export async function packConnections(app: App, slug: string): Promise<ChapterConnections | null> {
+  const [cites, xrefs] = await Promise.all([
+    packChapter<{ verses?: Record<string, { p: string; n: string }[]>; chapter?: { p: string; n: string }[] }>(app, slug, "Citations"),
+    packChapter<Record<string, { id: string; l: string; w: number }[]>>(app, slug, "Cross References"),
+  ]);
+  if (!cites && !xrefs) return null;
+  const byVerse = new Map<string, VerseConnection[]>();
+  const chapter: VerseConnection[] = [];
+  for (const [vid, rows] of Object.entries(cites?.verses ?? {})) {
+    const list: VerseConnection[] = [];
+    for (const r of rows) { const { emoji, rank } = sectionFor(r.p); list.push({ path: r.p, name: r.n, emoji, rank }); }
+    byVerse.set(vid, list);
+  }
+  for (const r of cites?.chapter ?? []) { const { emoji, rank } = sectionFor(r.p); chapter.push({ path: r.p, name: r.n, emoji, rank }); }
+  for (const [verse, rows] of Object.entries(xrefs ?? {})) {
+    const vid = `${slug}-${verse}`;
+    const list = byVerse.get(vid) ?? [];
+    for (const r of rows) {
+      const c = parseVerseId(r.id);
+      const title = c ? chapterTitle(c.bookSlug, c.chapter) : null;
+      if (!title) continue;
+      const link = `${title}#^${r.id}`;
+      if (list.some(x => x.link === link)) continue;
+      list.push({ path: "", name: r.l || (verseDisplay(r.id) ?? r.id), emoji: "📖", rank: 1, link, note: "textual parallel — tap to read" });
+    }
+    if (list.length) byVerse.set(vid, list);
+  }
+  for (const list of byVerse.values()) list.sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
+  chapter.sort((a, b) => a.rank - b.rank || a.name.localeCompare(b.name));
+  return { byVerse, chapter };
+}
+
+/** the link index's rows and the pack's rows, one list, no doubles */
+export function mergeConnections(a: VerseConnection[] | undefined, b: VerseConnection[] | undefined): VerseConnection[] {
+  const out: VerseConnection[] = [];
+  const key = (c: VerseConnection) => c.link ? `link:${c.link}` : `path:${c.path}`;
+  const seen = new Set<string>();
+  for (const c of [...(a ?? []), ...(b ?? [])]) { const k = key(c); if (seen.has(k)) continue; seen.add(k); out.push(c); }
+  return out.sort((x, y) => x.rank - y.rank || x.name.localeCompare(y.name));
 }
 
 /** the line a page says about this verse/chapter, stripped to plain words */

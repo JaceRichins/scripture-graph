@@ -438,6 +438,24 @@ def cmd_crossrefs(args):
     return 0
 
 
+def cmd_packs(args):
+    """the per-chapter apparatus packed by book, for phones (see vaultgen/packs.py)"""
+    ctx = _ctx(args)
+    from scripturegraph import gitops
+    from scripturegraph.lockfile import EngineBusy, engine_lock
+    from scripturegraph.vaultgen.packs import write_packs
+    try:
+        with engine_lock(ctx):
+            stats = write_packs(ctx)
+            if any(stats.values()):
+                gitops.commit_all(ctx, "packs: footnotes, cross references and citations by book")
+    except EngineBusy:
+        print("engine busy — another run holds the lock; try again shortly")
+        return 1
+    print(json.dumps(stats, indent=2))
+    return 0
+
+
 def cmd_validate(args):
     ctx = _ctx(args)
     from scripturegraph.validation import validate_all
@@ -499,7 +517,9 @@ def _cmd_fetch_locked(ctx, args, fetchers, glib, ensure_registry):
         out["music_links"] = musiclinks.resolve(ctx, args.limit or 90)
     if args.what in ("footnotes", "all"):
         from scripturegraph.vaultgen.footnotes import write_footnote_notes
+        from scripturegraph.vaultgen.packs import write_packs
         out["footnotes"] = write_footnote_notes(ctx)
+        out["packs"] = write_packs(ctx)
     if args.what in ("prophets", "all"):
         from scripturegraph.corpus import prophets
         out["prophets_books"] = prophets.fetch_books(ctx, limit=args.limit)
@@ -637,6 +657,8 @@ def main(argv=None) -> int:
 
     sub.add_parser("crossrefs", help="rebuild deterministic verse-parallel cross-references") \
         .set_defaults(fn=cmd_crossrefs)
+    sub.add_parser("packs", help="pack footnotes, cross references and citations by book (for phones)") \
+        .set_defaults(fn=cmd_packs)
 
     sp = sub.add_parser("translations", help="fetch public-domain Bible translations (WEB/ASV/YLT)")
     sp.add_argument("--refresh", action="store_true", help="re-download even if cached")

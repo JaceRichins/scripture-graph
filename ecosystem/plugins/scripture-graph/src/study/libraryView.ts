@@ -955,6 +955,15 @@ export class SGLibraryView extends ItemView {
       const grid = c.createDiv({ cls: "sg-nav-covers" });
       for (const f of folders) tile(grid, f);
     }
+    // pages still on the server: one button keeps the whole shelf here
+    const remoteN = this.host.remoteCount?.(path) ?? 0;
+    if (remoteN && this.host.downloadFolder) {
+      const dl = c.createEl("button", { cls: "sg-nav-dl", text: `⤓ Keep this shelf on this phone (${remoteN} pages)` });
+      dl.onclick = () => {
+        dl.setText("Downloading…"); dl.setAttribute("disabled", "true");
+        void this.host.downloadFolder!(path).then(() => { new Notice("Downloaded"); this.render(); });
+      };
+    }
     let filter = "";
     const list = c.createDiv({ cls: "sg-nav-list" });
     const renderRows = () => {
@@ -974,10 +983,11 @@ export class SGLibraryView extends ItemView {
         if (q && !fi.name.toLowerCase().includes(q)) continue;
         // the shelf's own index page is the shelf; it is not a row on it
         if (fi.name === (this.view.kind === "folder" ? this.view.title : "") ) continue;
-        const row = list.createDiv({ cls: "sg-nav-row sg-nav-file" });
+        const row = list.createDiv({ cls: `sg-nav-row sg-nav-file${fi.remote ? " sg-nav-remote" : ""}` });
         cascade(row, i++);
         navIcon(row, "page");
         row.createSpan({ cls: "sg-nav-name", text: fi.name });
+        if (fi.remote) row.createSpan({ cls: "sg-nav-ext-dl", text: "⤓", attr: { "aria-label": "Fetched when opened" } });
         row.onclick = () => this.host.openPath(fi.path);
       }
       // a shelf of sub-shelves and no pages is not empty; only say so when

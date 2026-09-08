@@ -10,7 +10,7 @@ import { AnnotationService, COLORS, NoteModal, NotesPopover, decorateVerse } fro
 import type { StudyBar } from "../study/studyBar";
 import { voiceFor } from "../study/presence";
 import { trace } from "../study/trace";
-import { ConnectionsModal, clearConnectionsCache, connectionsFor, type VerseConnection } from "./connections";
+import { ConnectionsModal, clearConnectionsCache, connectionsFor, mergeConnections, packConnections, type VerseConnection } from "./connections";
 import { openLocalGraphFor } from "../study/studyBar";
 import { TranslationsModal, isBiblical } from "../study/translations";
 import { FootnotesModal, footnotesFor, type Footnote } from "../reader/footnotes";
@@ -77,6 +77,14 @@ export function registerReadingIntegration(
     trace("conn.render", { chapter: chapterTitle, verses: paragraphs.length, cited: conns.byVerse.size,
       chapterPages: conns.chapter.length, indexed: Object.keys(plugin.app.metadataCache.resolvedLinks).length });
     for (const { p, verseId } of paragraphs) connChip(s, p, verseId, conns.byVerse.get(verseId), chapterTitle);
+    // the packs know every citing page, held here or not: chips fill in from them
+    void packConnections(plugin.app, slug).then(pc => {
+      if (!pc) return;
+      for (const { p, verseId } of paragraphs) {
+        const merged = mergeConnections(conns.byVerse.get(verseId), pc.byVerse.get(verseId));
+        if (merged.length) connChip(s, p, verseId, merged, chapterTitle, true);
+      }
+    });
     // PRESENCE: above verse 1, say who is speaking and from where —
     // being with the author is the point of the whole page
     const first = paragraphs.find(x => x.verseId === `${slug}-1`);
@@ -251,8 +259,10 @@ export function quickVisibility(s: SGState): Visibility {
 }
 
 /** the ⇄ chip on a cited verse — one per verse, whatever order things render in */
-function connChip(s: SGState, p: HTMLElement, verseId: string, list: VerseConnection[] | undefined, chapterTitle: string): void {
-  if (!list?.length || p.querySelector(".sg-conn-chip")) return;
+function connChip(s: SGState, p: HTMLElement, verseId: string, list: VerseConnection[] | undefined, chapterTitle: string, replace = false): void {
+  if (!list?.length) return;
+  const had = p.querySelector(".sg-conn-chip");
+  if (had) { if (!replace || had.textContent === `⇄ ${list.length}`) return; had.remove(); }
   const chip = p.createSpan({ cls: "sg-conn-chip", text: `⇄ ${list.length}` });
   chip.setAttr("aria-label", `${list.length} connected pages`);
   chip.onclick = (e) => {
@@ -271,16 +281,18 @@ function healConnChips(plugin: Plugin, s: SGState): void {
   const paras = document.querySelectorAll<HTMLElement>(".markdown-preview-view [data-verse-id]");
   if (!paras.length) return;
   const conns = connectionsFor(plugin.app, f.path, slug);
-  let added = 0;
-  for (const p of Array.from(paras)) {
-    if (p.querySelector(".sg-conn-chip")) continue;
-    const vid = p.getAttribute("data-verse-id")!;
-    const list = conns.byVerse.get(vid);
-    if (!list?.length) continue;
-    connChip(s, p, vid, list, f.basename);
-    added++;
-  }
-  if (added) trace("conn.heal", { chapter: f.basename, added });
+  void packConnections(plugin.app, slug).then(pc => {
+    let added = 0;
+    for (const p of Array.from(paras)) {
+      const vid = p.getAttribute("data-verse-id")!;
+      const list = mergeConnections(conns.byVerse.get(vid), pc?.byVerse.get(vid));
+      if (!list.length) continue;
+      const before = !!p.querySelector(".sg-conn-chip");
+      connChip(s, p, vid, list, f.basename, true);
+      if (!before) added++;
+    }
+    if (added) trace("conn.heal", { chapter: f.basename, added });
+  });
 }
 
 /** Put each footnote's letter right before the word it hangs on, inside the

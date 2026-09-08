@@ -453,6 +453,12 @@ def run_weekly(ctx: Ctx) -> dict:
             stats["footnotes"] = write_footnote_notes(ctx)
         except Exception as e:  # noqa: BLE001
             ctx.log.warn("weekly.footnotes_failed", error=str(e)[:200])
+        # the same apparatus packed by book, plus who cites what — phones read these
+        try:
+            from scripturegraph.vaultgen.packs import write_packs
+            stats["packs"] = write_packs(ctx)
+        except Exception as e:  # noqa: BLE001
+            ctx.log.warn("weekly.packs_failed", error=str(e)[:200])
         if ctx.c("timeline.enabled", True):
             from scripturegraph.timeline import maybe_build_timeline
             try:

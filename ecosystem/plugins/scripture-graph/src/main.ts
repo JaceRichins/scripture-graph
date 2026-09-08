@@ -26,7 +26,7 @@ import { DOC_VIEW, DocView, docKindFor } from "./reader/docView";
 import { findTalkVideo, pageTitle, youtubeIdOf } from "./study/youtubeFind";
 import { Dock, isPhone, obsidianInternals } from "./study/dock";
 import { ReadingSettingsModal, applyReading } from "./study/readingSettings";
-import { VaultSync } from "./sync/vaultSync";
+import { VaultSync, setLazyFetch } from "./sync/vaultSync";
 import { runSetupLink } from "./social/setupLink";
 import { LiveLink } from "./live";
 import { MusicPlayer } from "./study/music";
@@ -339,6 +339,8 @@ export default class SGPlugin extends Plugin {
     applyReading(this.state);
     // 🔁 vault sync: the shared tree from the family server, personal notes both ways
     this.vaultSync = new VaultSync(this.state, () => this.state.device.displayName ?? "device");
+    setLazyFetch((n) => this.ensureLocal(n));
+    this.register(() => setLazyFetch(null));
     this.app.workspace.onLayoutReady(() => this.vaultSync.start());
     this.register(() => this.vaultSync.stop());
     this.registerEvent(this.app.vault.on("modify", f => this.vaultSync.noteChanged(f.path)));
@@ -412,8 +414,10 @@ export default class SGPlugin extends Plugin {
     // all: they open as a floating sheet over the page being read.
     this.origOpenLinkText = this.app.workspace.openLinkText.bind(this.app.workspace);
     const orig = this.origOpenLinkText;
-    this.app.workspace.openLinkText = (linktext: string, sourcePath: string,
+    this.app.workspace.openLinkText = async (linktext: string, sourcePath: string,
       newLeaf?: unknown, openViewState?: unknown) => {
+      // a shared page this device hasn't downloaded: fetched now, kept after
+      await this.ensureLocal(linktext);
       // verse references PEEK — the verse comes to the reader, and "Open
       // chapter" inside the card is the deliberate way to actually travel
       const peek = peekTargetFor(this.app, linktext, sourcePath);
@@ -799,7 +803,7 @@ export default class SGPlugin extends Plugin {
           return weeks.find(w => w.start <= today && today <= w.end)?.week ?? null;
         } catch { return null; }
       },
-      openNote: (l) => void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, ""),
+      openNote: (l) => void this.ensureLocal(l).then(() => (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, "")),
     });
     this.dock.mount();
     this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.dock?.refresh()));
@@ -814,11 +818,29 @@ export default class SGPlugin extends Plugin {
   }
 
   /** the shared host every navigation surface drives */
+  /** a link or path to a shared page: make sure the device holds it. True
+   * when it is here now (already, or just fetched). */
+  async ensureLocal(linkOrPath: string): Promise<boolean> {
+    const base = linkOrPath.split("#")[0]!.trim();
+    if (!base) return true;
+    if (this.app.metadataCache.getFirstLinkpathDest(base, "")) return true;
+    if (this.app.vault.getAbstractFileByPath(base)) return true;
+    const path = this.vaultSync.pathFor(base);
+    if (!path) return false;
+    const note = new Notice(`Fetching ${base.split("/").pop()}…`, 0);
+    const ok = await this.vaultSync.fetchNow(path);
+    note.hide();
+    if (!ok) new Notice("Couldn't reach the family server for that page.");
+    return ok;
+  }
+
   private navigatorHost(): NavigatorHost {
     return {
       ann: this.ann,
       openChapter: t => this.openMyStudy(t),
-      openNote: l => void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, ""),
+      openNote: l => void this.ensureLocal(l).then(() => (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, "")),
+      downloadFolder: (p) => this.vaultSync.pinFolder(p),
+      remoteCount: (p) => this.vaultSync.remoteCount(p),
       lastChapter: () => this.state.device.lastChapter,
       recentChapters: () => this.state.device.recentChapters ?? [],
       groupActivity: async () => {
@@ -827,8 +849,8 @@ export default class SGPlugin extends Plugin {
       },
       listFolder: (path) => {
         const af = this.app.vault.getAbstractFileByPath(path);
-        const folders: { name: string; path: string }[] = [];
-        const files: { name: string; path: string }[] = [];
+        const folders: { name: string; path: string; remote?: boolean }[] = [];
+        const files: { name: string; path: string; remote?: boolean }[] = [];
         if (af instanceof TFolder) {
           for (const ch of af.children) {
             if (ch instanceof TFolder) {
@@ -838,6 +860,13 @@ export default class SGPlugin extends Plugin {
               files.push({ name: ch.basename, path: ch.path });
             }
           }
+        }
+        // and what the server offers under it that this device hasn't fetched
+        {
+          const remote = this.vaultSync.remoteUnder(path);
+          const haveF = new Set(folders.map(f => f.name)), haveP = new Set(files.map(f => f.path));
+          for (const f of remote.folders) if (!haveF.has(f.name)) folders.push({ ...f, remote: true });
+          for (const f of remote.files) if (!haveP.has(f.path)) files.push({ ...f, remote: true });
           folders.sort((a, b) => a.name.localeCompare(b.name));
           files.sort((a, b) => a.name.localeCompare(b.name));
         }
