@@ -1877,6 +1877,11 @@ body.sg-hide-ai-lib .nav-folder:has(> .nav-folder-title[data-path="AI Library"])
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0;
 }
 .sg-dot-last { border-color: var(--text-normal); }
+/* a color already on the verse: ringed and ticked — tap it again to take it off */
+.sg-dot-on { position: relative; box-shadow: 0 0 0 2px var(--background-primary), 0 0 0 4px var(--text-normal); }
+.sg-dot-on::after { content: "✓"; position: absolute; inset: 0; display: grid; place-items: center;
+  color: rgba(0,0,0,0.75); font-weight: 900; font-size: 1.05em; }
+.sg-act-clear { flex: 0 0 auto; }
 .sg-dot-yellow { background: #f5d90a; }
 .sg-dot-green  { background: #4cc38a; }
 .sg-dot-blue   { background: #52a9ff; }

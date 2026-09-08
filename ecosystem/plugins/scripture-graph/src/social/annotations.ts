@@ -451,13 +451,13 @@ export class NotesPopover extends Modal {
           this.close();
         }).showAtMouseEvent(e as MouseEvent);
       };
-      const del = actions.createEl("button", { text: "Delete" });
+      const del = actions.createEl("button", { text: "Remove" });
       del.onclick = async () => {
         del.setAttribute("disabled", "true");
-        del.setText("Deleting…");
+        del.setText("Removing…");
         try {
           await this.svc.remove(a.annotation_id);
-          new Notice("Deleted");
+          new Notice("Removed");
         } catch (e) {
           new Notice(`Delete failed: ${(e as Error).message}`);
         }

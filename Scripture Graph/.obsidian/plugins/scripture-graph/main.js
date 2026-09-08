@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.31 build b18114a9e 2026-09-08T12:30:04Z */
+/* scripture-graph v0.72.32 build 6fd6b3a9d 2026-09-08T12:33:25Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.31", sha: "b18114a9e", at: "2026-09-08T12:30:04Z" };
+    define_SG_BUILD_default = { version: "0.72.32", sha: "6fd6b3a9d", at: "2026-09-08T12:33:25Z" };
   }
 });
 
@@ -11534,13 +11534,13 @@ ${text}` : text;
               this.close();
             }).showAtMouseEvent(e);
           };
-          const del = actions.createEl("button", { text: "Delete" });
+          const del = actions.createEl("button", { text: "Remove" });
           del.onclick = async () => {
             del.setAttribute("disabled", "true");
-            del.setText("Deleting\u2026");
+            del.setText("Removing\u2026");
             try {
               await this.svc.remove(a2.annotation_id);
-              new import_obsidian12.Notice("Deleted");
+              new import_obsidian12.Notice("Removed");
             } catch (e) {
               new import_obsidian12.Notice(`Delete failed: ${e.message}`);
             }
@@ -12423,6 +12423,72 @@ var init_studyBar = __esm({
           menu.addItem((i) => i.setTitle("\u2728 Ask AI").onClick(() => this.doAsk()));
           menu.showAtMouseEvent(e);
         };
+        void this.showExisting(bar, colors, row, more);
+      }
+      /** what is already on the verse: lit color dots (tap again to remove) and
+       * a 🧹 Clear button that lists every mark for one-tap removal */
+      async showExisting(bar, colors, row, before) {
+        const ids = this.targetVerseIds();
+        if (!ids.length) return;
+        const marks = [];
+        for (const vid of ids) marks.push(...(await this.ann.mine(vid)).filter((a2) => !a2.deleted_at));
+        if (bar !== this.barEl || !row.isConnected || !marks.length) return;
+        const phrase = this.sel.partial?.selected ?? null;
+        for (const a2 of marks) {
+          if (a2.annotation_type !== "highlight" || a2.theme) continue;
+          if ((a2.selected_text ?? null) !== phrase) continue;
+          const dot = colors.querySelector(`.sg-dot-${a2.color ?? "yellow"}`);
+          if (dot) {
+            dot.addClass("sg-dot-on");
+            dot.setAttribute("aria-label", `Remove ${a2.color} mark`);
+          }
+        }
+        const clear = document.createElement("button");
+        clear.className = "sg-act-clear";
+        clear.setText(`\u{1F9F9} Clear${marks.length > 1 ? ` ${marks.length}` : ""}`);
+        clear.setAttribute("aria-label", "Remove marks on this verse");
+        clear.onclick = (e) => this.clearMenu(e, marks);
+        row.insertBefore(clear, before);
+      }
+      describe(a2) {
+        const short = (t) => t.length > 28 ? `${t.slice(0, 26).trimEnd()}\u2026` : t;
+        if (a2.annotation_type === "highlight") {
+          if (a2.theme && !a2.selected_text) return `\u{1F3F7} ${a2.theme}`;
+          const style = a2.style && a2.style !== "highlight" ? ` ${a2.style}` : "";
+          return `\u{1F58D} ${a2.color ?? "yellow"}${style}${a2.selected_text ? ` \u201C${short(a2.selected_text)}\u201D` : ""}`;
+        }
+        if (isConnectionNote(a2)) {
+          const c2 = connectionOf(a2.content);
+          return `\u21C4 ${verseDisplay(c2.anchor) ?? c2.target}`;
+        }
+        if (a2.annotation_type === "note") return `\u{1F4DD} ${short(a2.content.replace(/^>.*\n+/s, "").trim() || "Note")}`;
+        if (a2.annotation_type === "study-marker") return "\u{1F0CF} Flashcard";
+        if (a2.annotation_type === "bookmark") return "\u{1F516} Bookmark";
+        return a2.annotation_type;
+      }
+      clearMenu(e, marks) {
+        const ref = this.refLabel();
+        const removeAll2 = async () => {
+          for (const a2 of marks) await this.ann.remove(a2.annotation_id);
+          new import_obsidian15.Notice(`Cleared ${marks.length} mark${marks.length === 1 ? "" : "s"} \u2014 ${ref}`);
+          this.clear();
+        };
+        if (marks.length === 1) {
+          void removeAll2();
+          return;
+        }
+        const menu = new import_obsidian15.Menu();
+        for (const a2 of marks) {
+          const label = this.describe(a2);
+          menu.addItem((i) => i.setTitle(`Remove ${label}`).onClick(() => void (async () => {
+            await this.ann.remove(a2.annotation_id);
+            new import_obsidian15.Notice(`Removed ${label}`);
+            this.clear();
+          })()));
+        }
+        menu.addSeparator();
+        menu.addItem((i) => i.setTitle(`\u{1F9F9} Remove all ${marks.length} marks on ${ref}`).onClick(() => void removeAll2()));
+        menu.showAtMouseEvent(e);
       }
       /** the bar for a phrase on a document page: the page's themes, a note
        * quoting the phrase, Ask AI, share; copy, bookmark, graph and reading
@@ -12556,6 +12622,17 @@ var init_studyBar = __esm({
         const style = this.s.device.lastStyle ?? "highlight";
         this.s.device.lastColor = color;
         void this.s.saveDevice();
+        const phrase = this.sel.partial?.selected ?? null;
+        const existing = [];
+        for (const vid of this.targetVerseIds()) {
+          existing.push(...(await this.ann.mine(vid)).filter((a2) => !a2.deleted_at && a2.annotation_type === "highlight" && !a2.theme && a2.color === color && (a2.selected_text ?? null) === phrase));
+        }
+        if (existing.length) {
+          for (const a2 of existing) await this.ann.remove(a2.annotation_id);
+          new import_obsidian15.Notice(`Removed ${color} mark \u2014 ${this.refLabel()}`);
+          this.clear();
+          return;
+        }
         if (this.sel.partial) {
           const p = this.sel.partial;
           await this.ann.addHighlight(

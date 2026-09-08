@@ -20,7 +20,8 @@ import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "./themeLibrary";
 import { trace } from "./trace";
 import type { StudyService } from "./study";
 import { TranslationsModal, isBiblical } from "./translations";
-import { ConnectModal } from "./connect";
+import { ConnectModal, connectionOf, isConnectionNote } from "./connect";
+import type { Annotation } from "@scripture-graph/core-sdk";
 
 /** Open Obsidian's local connections graph centered on a page (§graph).
  * The whole vault is wikilink-wired by the engine, so a chapter's local
@@ -546,6 +547,66 @@ export class StudyBar {
       menu.addItem(i => i.setTitle("✨ Ask AI").onClick(() => this.doAsk()));
       menu.showAtMouseEvent(e);
     };
+    void this.showExisting(bar, colors, row, more);
+  }
+
+  /** what is already on the verse: lit color dots (tap again to remove) and
+   * a 🧹 Clear button that lists every mark for one-tap removal */
+  private async showExisting(bar: HTMLElement, colors: HTMLElement, row: HTMLElement, before: HTMLElement): Promise<void> {
+    const ids = this.targetVerseIds();
+    if (!ids.length) return;
+    const marks: Annotation[] = [];
+    for (const vid of ids) marks.push(...(await this.ann.mine(vid)).filter(a => !a.deleted_at));
+    if (bar !== this.barEl || !row.isConnected || !marks.length) return;
+    const phrase = this.sel.partial?.selected ?? null;
+    for (const a of marks) {
+      if (a.annotation_type !== "highlight" || a.theme) continue;
+      if ((a.selected_text ?? null) !== phrase) continue;
+      const dot = colors.querySelector<HTMLElement>(`.sg-dot-${a.color ?? "yellow"}`);
+      if (dot) { dot.addClass("sg-dot-on"); dot.setAttribute("aria-label", `Remove ${a.color} mark`); }
+    }
+    const clear = document.createElement("button");
+    clear.className = "sg-act-clear";
+    clear.setText(`🧹 Clear${marks.length > 1 ? ` ${marks.length}` : ""}`);
+    clear.setAttribute("aria-label", "Remove marks on this verse");
+    clear.onclick = (e) => this.clearMenu(e, marks);
+    row.insertBefore(clear, before);
+  }
+
+  private describe(a: Annotation): string {
+    const short = (t: string) => t.length > 28 ? `${t.slice(0, 26).trimEnd()}…` : t;
+    if (a.annotation_type === "highlight") {
+      if (a.theme && !a.selected_text) return `🏷 ${a.theme}`;
+      const style = a.style && a.style !== "highlight" ? ` ${a.style}` : "";
+      return `🖍 ${a.color ?? "yellow"}${style}${a.selected_text ? ` “${short(a.selected_text)}”` : ""}`;
+    }
+    if (isConnectionNote(a)) { const c = connectionOf(a.content)!; return `⇄ ${verseDisplay(c.anchor) ?? c.target}`; }
+    if (a.annotation_type === "note") return `📝 ${short(a.content.replace(/^>.*\n+/s, "").trim() || "Note")}`;
+    if (a.annotation_type === "study-marker") return "🃏 Flashcard";
+    if (a.annotation_type === "bookmark") return "🔖 Bookmark";
+    return a.annotation_type;
+  }
+
+  private clearMenu(e: MouseEvent, marks: Annotation[]): void {
+    const ref = this.refLabel();
+    const removeAll = async () => {
+      for (const a of marks) await this.ann.remove(a.annotation_id);
+      new Notice(`Cleared ${marks.length} mark${marks.length === 1 ? "" : "s"} — ${ref}`);
+      this.clear();
+    };
+    if (marks.length === 1) { void removeAll(); return; }
+    const menu = new Menu();
+    for (const a of marks) {
+      const label = this.describe(a);
+      menu.addItem(i => i.setTitle(`Remove ${label}`).onClick(() => void (async () => {
+        await this.ann.remove(a.annotation_id);
+        new Notice(`Removed ${label}`);
+        this.clear();
+      })()));
+    }
+    menu.addSeparator();
+    menu.addItem(i => i.setTitle(`🧹 Remove all ${marks.length} marks on ${ref}`).onClick(() => void removeAll()));
+    menu.showAtMouseEvent(e);
   }
 
   /** the bar for a phrase on a document page: the page's themes, a note
@@ -678,6 +739,20 @@ export class StudyBar {
     const style = this.s.device.lastStyle ?? "highlight";
     this.s.device.lastColor = color;
     void this.s.saveDevice();
+    // the same color again is a request to take it off
+    const phrase = this.sel.partial?.selected ?? null;
+    const existing: Annotation[] = [];
+    for (const vid of this.targetVerseIds()) {
+      existing.push(...(await this.ann.mine(vid)).filter(a => !a.deleted_at
+        && a.annotation_type === "highlight" && !a.theme && a.color === color
+        && (a.selected_text ?? null) === phrase));
+    }
+    if (existing.length) {
+      for (const a of existing) await this.ann.remove(a.annotation_id);
+      new Notice(`Removed ${color} mark — ${this.refLabel()}`);
+      this.clear();
+      return;
+    }
     if (this.sel.partial) {
       const p = this.sel.partial;
       await this.ann.addHighlight(p.verseId, color, p.verseText, p.selected,
