@@ -192,7 +192,11 @@ def load_roots(ctx: Ctx) -> dict:
 def save_root(ctx: Ctx, root: str, name: str, people: dict[str, "Person"]) -> None:
     """remember a line: which people hang from this root, at which numbers"""
     roots = load_roots(ctx)
-    roots[root] = {"name": name, "numbers": {pid: sorted(pr.ahnentafel) for pid, pr in people.items()}}
+    roots[root] = {"name": name, "numbers": {pid: sorted(pr.ahnentafel) for pid, pr in people.items()},
+                   # names of everyone in the line, the living included: the tree
+                   # needs them as nodes even though they get no page
+                   "names": {pid: pr.name for pid, pr in people.items()},
+                   "living": sorted(pid for pid, pr in people.items() if pr.living)}
     _roots_file(ctx).write_text(json.dumps(roots, ensure_ascii=False), encoding="utf-8")
 
 
@@ -575,6 +579,7 @@ def build(ctx: Ctx, log) -> int:
         fm = {k: v for k, v in fm.items() if v is not None}
         if record_file(ctx, f"{FOLDER}/{title_of[pid]}.md", "family", "generator", None, mdkit.build_note(fm, "\n".join(lines))):
             n += 1
+    write_tree(ctx, shown, roots, title_of, log)
     # the shelf's index: each line, by generation
     lines = ["# Family", "", "Our ancestors, from FamilySearch \u2014 their lives, their records, and the stories and pictures the family has kept there.", ""]
     for root, info in roots.items():
@@ -596,6 +601,81 @@ def build(ctx: Ctx, log) -> int:
         pass
     log.info("family.built", pages=n, people=len(shown), lines=len(roots))
     return n
+
+
+THUMB_EDGE = 220
+
+
+def write_tree(ctx: Ctx, shown: dict[str, Person], roots: dict, title_of: dict[str, str], log) -> None:
+    """Family Tree.md: one small JSON block the app draws the pedigree from —
+    every person as a node (the living by name only), parents by id, years,
+    the page title, and a thumbnail (its own small file) when there is a
+    photo. Thumbnails are tiny, so a phone can show the tree without the
+    photos themselves."""
+    from scripturegraph.vaultgen import md as mdkit
+    from scripturegraph.vaultgen.generate import record_file
+    nodes: dict[str, dict] = {}
+    # parents within each line's numbering, the living included
+    for root, info in roots.items():
+        numbers = info.get("numbers", {})
+        names = info.get("names", {})
+        living = set(info.get("living", []))
+        by_number = {n: pid for pid, nums in numbers.items() for n in nums}
+        for pid, nums in numbers.items():
+            node = nodes.setdefault(pid, {"n": names.get(pid) or (shown[pid].name if pid in shown else pid)})
+            if pid in living:
+                node["living"] = True
+            for n in nums:
+                if by_number.get(2 * n) and "f" not in node:
+                    node["f"] = by_number[2 * n]
+                if by_number.get(2 * n + 1) and "m" not in node:
+                    node["m"] = by_number[2 * n + 1]
+    for pid, pr in shown.items():
+        node = nodes.setdefault(pid, {"n": pr.name})
+        node["n"] = pr.name
+        b, d = _fact(pr, "Birth"), _fact(pr, "Death")
+        yb = re.search(r"\d{4}", b or "")
+        yd = re.search(r"\d{4}", d or "")
+        if yb:
+            node["b"] = yb.group(0)
+        if yd:
+            node["d"] = yd.group(0)
+        node["page"] = title_of[pid]
+        photo = next((m for m in pr.memories if m["kind"] == "photo" and m.get("file")), None)
+        if photo:
+            thumb = _thumbnail(ctx, pid, photo["file"])
+            if thumb:
+                node["t"] = thumb
+    payload = {"roots": [{"pid": r, "name": info.get("name", r)} for r, info in roots.items()], "people": nodes}
+    body = "\n".join(["# Family Tree", "", "The pedigree the app draws: every ancestor pulled so far, by line. "
+                      "Open the Family shelf in the app to see it.", "",
+                      "```json", json.dumps(payload, ensure_ascii=False, separators=(",", ":")), "```", ""])
+    record_file(ctx, f"{FOLDER}/Family Tree.md", "family", "generator", None,
+                mdkit.build_note({"ownership": "ai", "mutable": "engine", "content_type": "family-tree", "cssclasses": ["sg-ai"]}, body))
+    log.info("family.tree", nodes=len(nodes))
+
+
+def _thumbnail(ctx: Ctx, pid: str, vault_file: str) -> str | None:
+    """_media/<pid>/thumb.jpg from the vault copy (or the original), ~10 KB"""
+    vdir = ctx.vault / MEDIA / pid
+    out = vdir / "thumb.jpg"
+    if out.exists():
+        return "thumb.jpg"
+    src = vdir / vault_file
+    if not src.exists():
+        src = next((_originals_dir(ctx, pid) / vault_file).parent.glob(Path(vault_file).stem + ".*"), None)
+        if not src or not src.exists():
+            return None
+    try:
+        from PIL import Image, ImageOps
+        with Image.open(src) as im:
+            im = ImageOps.exif_transpose(im).convert("RGB")
+            im.thumbnail((THUMB_EDGE, THUMB_EDGE))
+            vdir.mkdir(parents=True, exist_ok=True)
+            im.save(out, "JPEG", quality=78, optimize=True)
+        return "thumb.jpg"
+    except Exception:  # noqa: BLE001
+        return None
 
 
 def _mentions(ctx: Ctx, names: dict[str, str]) -> dict[str, list[str]]:
