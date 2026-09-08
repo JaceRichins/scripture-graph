@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.53 build f2e29b717 2026-09-08T23:38:28Z */
+/* scripture-graph v0.72.54 build 953c291f7 2026-09-08T23:50:07Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.53", sha: "f2e29b717", at: "2026-09-08T23:38:28Z" };
+    define_SG_BUILD_default = { version: "0.72.54", sha: "953c291f7", at: "2026-09-08T23:50:07Z" };
   }
 });
 
@@ -14279,9 +14279,42 @@ var FamilyTree = class {
   }
   // ------------------------------------------------------------ the years
   year = null;
+  estimates = null;
+  /** a birth year for everyone: the record's, else a guess from the nearest
+   * child (minus a generation) or parent (plus one), so the living and the
+   * undated still sit in the right century */
+  estimateBirths() {
+    if (this.estimates) return this.estimates;
+    const est = /* @__PURE__ */ new Map();
+    const people = this.data.people;
+    const children = /* @__PURE__ */ new Map();
+    for (const [pid, n] of Object.entries(people)) {
+      if (n.b) est.set(pid, Number(n.b));
+      for (const parent of [n.f, n.m]) if (parent) children.set(parent, [...children.get(parent) ?? [], pid]);
+    }
+    for (let pass = 0; pass < 12; pass++) {
+      let changed = false;
+      for (const [pid, n] of Object.entries(people)) {
+        if (est.has(pid)) continue;
+        const kids = (children.get(pid) ?? []).map((c2) => est.get(c2)).filter((v) => v !== void 0);
+        const folks = [n.f, n.m].map((p) => p ? est.get(p) : void 0).filter((v) => v !== void 0);
+        if (kids.length) {
+          est.set(pid, Math.min(...kids) - 28);
+          changed = true;
+        } else if (folks.length) {
+          est.set(pid, Math.max(...folks) + 30);
+          changed = true;
+        }
+      }
+      if (!changed) break;
+    }
+    this.estimates = est;
+    return est;
+  }
   /** the tree in a given year: who was alive, and how old */
   setYear(y3) {
     this.year = y3;
+    const est = this.estimateBirths();
     for (const [pid, el] of this.nodes) {
       const n = this.data.people[pid];
       const age = el.querySelector(".sg-ft-age");
@@ -14290,13 +14323,14 @@ var FamilyTree = class {
         age?.setText("");
         continue;
       }
-      const b = n.b ? Number(n.b) : null, d = n.d ? Number(n.d) : null;
+      const known = !!n.b;
+      const b = n.b ? Number(n.b) : est.get(pid) ?? null;
+      const d = n.d ? Number(n.d) : null;
       if (b === null) {
         age?.setText("");
-        if (n.living) el.addClass(y3 < 1920 ? "sg-ft-unborn" : "sg-ft-alive");
         continue;
       }
-      const until = d ?? (n.living ? (/* @__PURE__ */ new Date()).getFullYear() : b + 90);
+      const until = d ?? (n.living ? (/* @__PURE__ */ new Date()).getFullYear() : b + 85);
       if (y3 < b) {
         el.addClass("sg-ft-unborn");
         age?.setText("");
@@ -14305,7 +14339,7 @@ var FamilyTree = class {
         age?.setText("");
       } else {
         el.addClass("sg-ft-alive");
-        age?.setText(`${y3 - b}`);
+        age?.setText(known ? `${y3 - b}` : `~${y3 - b}`);
       }
     }
   }

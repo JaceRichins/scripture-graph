@@ -429,26 +429,52 @@ export class FamilyTree {
   // ------------------------------------------------------------ the years
 
   private year: number | null = null;
+  private estimates: Map<string, number> | null = null;
+
+  /** a birth year for everyone: the record's, else a guess from the nearest
+   * child (minus a generation) or parent (plus one), so the living and the
+   * undated still sit in the right century */
+  private estimateBirths(): Map<string, number> {
+    if (this.estimates) return this.estimates;
+    const est = new Map<string, number>();
+    const people = this.data.people;
+    const children = new Map<string, string[]>();
+    for (const [pid, n] of Object.entries(people)) {
+      if (n.b) est.set(pid, Number(n.b));
+      for (const parent of [n.f, n.m]) if (parent) children.set(parent, [...(children.get(parent) ?? []), pid]);
+    }
+    for (let pass = 0; pass < 12; pass++) {
+      let changed = false;
+      for (const [pid, n] of Object.entries(people)) {
+        if (est.has(pid)) continue;
+        const kids = (children.get(pid) ?? []).map(c => est.get(c)).filter((v): v is number => v !== undefined);
+        const folks = [n.f, n.m].map(p => p ? est.get(p) : undefined).filter((v): v is number => v !== undefined);
+        if (kids.length) { est.set(pid, Math.min(...kids) - 28); changed = true; }
+        else if (folks.length) { est.set(pid, Math.max(...folks) + 30); changed = true; }
+      }
+      if (!changed) break;
+    }
+    this.estimates = est;
+    return est;
+  }
 
   /** the tree in a given year: who was alive, and how old */
   private setYear(y: number | null): void {
     this.year = y;
+    const est = this.estimateBirths();
     for (const [pid, el] of this.nodes) {
       const n = this.data.people[pid];
       const age = el.querySelector<HTMLElement>(".sg-ft-age");
       el.removeClass("sg-ft-alive", "sg-ft-unborn", "sg-ft-passed");
       if (y === null || !n) { age?.setText(""); continue; }
-      const b = n.b ? Number(n.b) : null, d = n.d ? Number(n.d) : null;
-      if (b === null) {
-        // the living carry no dates: not yet born before living memory, alive after
-        age?.setText("");
-        if (n.living) el.addClass(y < 1920 ? "sg-ft-unborn" : "sg-ft-alive");
-        continue;
-      }
-      const until = d ?? (n.living ? new Date().getFullYear() : b + 90);
+      const known = !!n.b;
+      const b = n.b ? Number(n.b) : est.get(pid) ?? null;
+      const d = n.d ? Number(n.d) : null;
+      if (b === null) { age?.setText(""); continue; }
+      const until = d ?? (n.living ? new Date().getFullYear() : b + 85);
       if (y < b) { el.addClass("sg-ft-unborn"); age?.setText(""); }
       else if (y > until) { el.addClass("sg-ft-passed"); age?.setText(""); }
-      else { el.addClass("sg-ft-alive"); age?.setText(`${y - b}`); }
+      else { el.addClass("sg-ft-alive"); age?.setText(known ? `${y - b}` : `~${y - b}`); }
     }
   }
 
