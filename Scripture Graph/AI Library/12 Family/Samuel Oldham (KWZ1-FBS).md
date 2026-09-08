@@ -7,17 +7,18 @@ fs_id: KWZ1-FBS
 generation: 5
 born: 3 March 1852 · Bury, Lancashire, England, United Kingdom
 died: 24 July 1921 · Paradise, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Samuel Oldham
 
-Born 3 March 1852 · Bury, Lancashire, England, United Kingdom · Died 24 July 1921 · Paradise, Cache, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 3 March 1852 · Bury, Lancashire, England, United Kingdom · Died 24 July 1921 · Paradise, Cache, Utah, United States · Generation 5
 
 ## Family
 - Father: [[John Oldham (KWJ4-7VD)|John Oldham]]
+- Mother: [[Maria Heap (KWJ4-7V8)|Maria Heap]]
 - Children in this line: [[Ernest Price Oldham (KWJN-ZRT)|Ernest Price Oldham]]
 
 ## Life
@@ -25,12 +26,12 @@ Born 3 March 1852 · Bury, Lancashire, England, United Kingdom · Died 24 July 1
 - **Death**: 24 July 1921 · Paradise, Cache, Utah, United States
 - **Christening**: 17 Jul 1842 · Manchester, Lancashire, England
 - **Residence**: 1861 · Oldham, Lancashire, England
-- **Baptism**: March 1863
-- **Immigration**: 4 October 1864
-- **Immigration**: 4 October 1864 · Utah, United States
+- **data:,Baptism**: March 1863
+- **data:,Immigration**: 4 October 1864
+- **data:,Immigration**: 4 October 1864 · Utah, United States
 - **Residence**: 1870 · Paradise, Cache, Utah, United States
 - **Residence**: 1880 · Paradise, Cache, Utah, United States · School Teacher
-- **Mission**: about 7 April 1881 · Southern States Mission, United States
+- **data:,Mission**: about 7 April 1881 · Southern States Mission, United States
 - **Residence**: 1900 · Avon, Paradise Precincts Paradise, Cache, Utah, United States
 - **Residence**: 1910 · Paradise, Cache, Utah, United States
 - **Residence**: 1920 · Paradise, Cache, Utah, United States
@@ -40,19 +41,11 @@ Born 3 March 1852 · Bury, Lancashire, England, United Kingdom · Died 24 July 1
 
 ### Edward Jeremiah Price
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/899802)_
-
 ### Hundreds of Tramps
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/12729989)_
 
 ### Grandfather Oldham (Samuel Heap Oldham) by Granddaughter Alice Olsen Norman
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/16819959)_
-
 ### Great Great Grandpa Samuel Oldham’s Cane
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/145566294)_
 
 ## Photos & documents
 

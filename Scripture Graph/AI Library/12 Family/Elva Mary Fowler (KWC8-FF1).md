@@ -7,14 +7,14 @@ fs_id: KWC8-FF1
 generation: 3
 born: 10 September 1908 · Henefer, Summit, Utah, United States
 died: 1 August 1965 · Ogden, Weber, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elva Mary Fowler
 
-Born 10 September 1908 · Henefer, Summit, Utah, United States · Died 1 August 1965 · Ogden, Weber, Utah, United States · Jace Eugene Richins's great-grandparents
+Born 10 September 1908 · Henefer, Summit, Utah, United States · Died 1 August 1965 · Ogden, Weber, Utah, United States · Generation 3
 
 ## Family
 - Father: [[James Henry Fowler (KWCR-4KP)|James Henry Fowler]]
@@ -23,7 +23,7 @@ Born 10 September 1908 · Henefer, Summit, Utah, United States · Died 1 August 
 ## Life
 - **Birth**: 10 September 1908 · Henefer, Summit, Utah, United States
 - **Death**: 1 August 1965 · Ogden, Weber, Utah, United States
-- **Blessing**: 1 November 1908
+- **data:,Blessing**: 1 November 1908
 - **Residence**: 1910 · Henefer, , Utah
 - **Residence**: 1920 · Henefer, Summit, Utah, United States
 - **Residence**: 1930 · Henefer, Summit, Utah
@@ -33,7 +33,7 @@ Born 10 September 1908 · Henefer, Summit, Utah, United States · Died 1 August 
 - **Residence**: 1940 · Henefer Election Precinct, Summit, Utah, United States
 - **Residence**: 13 Apr 1950 · Henefer, Summit, Utah, United States
 - **Burial**: 4 August 1965 · Henefer, Summit, Utah, United States
-- **Membership**: Summit, Utah, United States
+- **data:,Membership**: Summit, Utah, United States
 
 ## Photos & documents
 

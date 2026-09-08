@@ -7,14 +7,14 @@ fs_id: KJWV-R99
 generation: 5
 born: 11 November 1846 · Fayetteville, Washington, Arkansas, United States
 died: 27 November 1920 · Frisco, Pontotoc, Oklahoma, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sarah Jane Patton
 
-Born 11 November 1846 · Fayetteville, Washington, Arkansas, United States · Died 27 November 1920 · Frisco, Pontotoc, Oklahoma, United States · Jace Eugene Richins's 3× great-grandparents
+Born 11 November 1846 · Fayetteville, Washington, Arkansas, United States · Died 27 November 1920 · Frisco, Pontotoc, Oklahoma, United States · Generation 5
 
 ## Family
 - Father: [[Pascal Patton (LHCT-W7T)|Pascal Patton]]
@@ -25,7 +25,7 @@ Born 11 November 1846 · Fayetteville, Washington, Arkansas, United States · Di
 - **Birth**: 11 November 1846 · Fayetteville, Washington, Arkansas, United States
 - **Death**: 27 November 1920 · Frisco, Pontotoc, Oklahoma, United States
 - **Residence**: 1850 · Prairie, Washington, Arkansas, United States
-- **census**:        1850 · Prairie Twp,Washington,Arkansas
+- **data:,census**:        1850 · Prairie Twp,Washington,Arkansas
 - **Residence**: 1860 · Clear Creek Township, Washington, Arkansas, United States
 - **Residence**: 1865 · Anderson, Smith, Kansas, United States
 - **Residence**: 1870 · Flat Creek, Barry, Missouri, United States

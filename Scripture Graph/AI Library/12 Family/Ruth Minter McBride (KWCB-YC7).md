@@ -7,14 +7,14 @@ fs_id: KWCB-YC7
 generation: 3
 born: 27 November 1911 · Burley, Cassia, Idaho, United States
 died: 1 February 1955 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ruth Minter McBride
 
-Born 27 November 1911 · Burley, Cassia, Idaho, United States · Died 1 February 1955 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's great-grandparents
+Born 27 November 1911 · Burley, Cassia, Idaho, United States · Died 1 February 1955 · Salt Lake City, Salt Lake, Utah, United States · Generation 3
 
 ## Family
 - Father: [[Henry Francis McBride (KW8L-S3Z)|Henry Francis McBride]]

@@ -7,16 +7,18 @@ fs_id: 9WTN-M77
 generation: 6
 born: 20 September 1825 · Buchanan, Botetourt, Virginia, United States
 died: 18 October 1922 · Cassville, Barry, Missouri, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Ann Hammett
 
-Born 20 September 1825 · Buchanan, Botetourt, Virginia, United States · Died 18 October 1922 · Cassville, Barry, Missouri, United States · Jace Eugene Richins's 4× great-grandparents
+Born 20 September 1825 · Buchanan, Botetourt, Virginia, United States · Died 18 October 1922 · Cassville, Barry, Missouri, United States · Generation 6
 
 ## Family
+- Father: [[Charles S Hammett (LYPZ-8CH)|Charles S Hammett]]
+- Mother: [[Mary Ann Phelps (G9VY-V44)|Mary Ann Phelps]]
 - Children in this line: [[Thomas Morgan Flaherty (KJWV-RMH)|Thomas Morgan Flaherty]]
 
 ## Life

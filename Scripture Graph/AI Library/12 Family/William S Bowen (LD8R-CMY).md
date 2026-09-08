@@ -7,16 +7,18 @@ fs_id: LD8R-CMY
 generation: 6
 born: 15 January 1838 · Tennessee, United States
 died: 30 September 1914 · Rudy, Crawford, Arkansas, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # William S Bowen
 
-Born 15 January 1838 · Tennessee, United States · Died 30 September 1914 · Rudy, Crawford, Arkansas, United States · Jace Eugene Richins's 4× great-grandparents
+Born 15 January 1838 · Tennessee, United States · Died 30 September 1914 · Rudy, Crawford, Arkansas, United States · Generation 6
 
 ## Family
+- Father: [[John J Boen (LD8R-ZTP)|John J Boen]]
+- Mother: [[Eliza Starr (KLB9-CB9)|Eliza Starr]]
 - Children in this line: [[Margaret Delia Bowen (LDCS-9HL)|Margaret Delia Bowen]]
 
 ## Life

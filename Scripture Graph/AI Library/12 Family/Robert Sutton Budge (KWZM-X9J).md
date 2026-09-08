@@ -7,14 +7,14 @@ fs_id: KWZM-X9J
 generation: 3
 born: 17 April 1917 · Logan, Cache, Utah, United States
 died: 31 July 1995 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Robert Sutton Budge
 
-Born 17 April 1917 · Logan, Cache, Utah, United States · Died 31 July 1995 · Logan, Cache, Utah, United States · Jace Eugene Richins's great-grandparents
+Born 17 April 1917 · Logan, Cache, Utah, United States · Died 31 July 1995 · Logan, Cache, Utah, United States · Generation 3
 
 ## Family
 - Father: [[Dr Oliver Hyer Budge (KWCQ-H83)|Dr Oliver Hyer Budge]]
@@ -31,11 +31,7 @@ Born 17 April 1917 · Logan, Cache, Utah, United States · Died 31 July 1995 · 
 
 ### Budge Cabin up Logan Canyon
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2716181)_
-
 ### Budge Family Reunion
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/66174006)_
 
 ## Photos & documents
 

@@ -7,14 +7,14 @@ fs_id: KWJZ-B9N
 generation: 4
 born: 18850213 · Van Buren,Crawford,Arkansas
 died: 13 September 1956 · Fort Smith, Sebastian, Arkansas, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Francis Emmeline Tounzen
 
-Born 18850213 · Van Buren,Crawford,Arkansas · Died 13 September 1956 · Fort Smith, Sebastian, Arkansas, United States · Jace Eugene Richins's 2× great-grandparents
+Born 18850213 · Van Buren,Crawford,Arkansas · Died 13 September 1956 · Fort Smith, Sebastian, Arkansas, United States · Generation 4
 
 ## Family
 - Father: [[Noah Andrew Tounzen (LDCS-9WB)|Noah Andrew Tounzen]]
@@ -30,7 +30,7 @@ Born 18850213 · Van Buren,Crawford,Arkansas · Died 13 September 1956 · Fort S
 - **Residence**: 1940 · Fort Smith, Sebastian, Arkansas, United States
 - **Residence**: 13 Sep 1956 · Van Buren
 - **Burial**: 15 Sep 1956 · Pevehouse Cem., Van Buren, Ark.
-- **USER_DEFINED**: 15 Sep 1956 · Little Rock, Arkansas · Obituary
+- **data:,USER_DEFINED**: 15 Sep 1956 · Little Rock, Arkansas · Obituary
 
 ## Photos & documents
 

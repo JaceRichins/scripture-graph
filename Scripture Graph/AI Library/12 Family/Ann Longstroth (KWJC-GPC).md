@@ -7,27 +7,29 @@ fs_id: KWJC-GPC
 generation: 5
 born: 15 July 1837 · Salford, Lancashire, England, United Kingdom
 died: 30 June 1926 · Mendon, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Longstroth
 
-Born 15 July 1837 · Salford, Lancashire, England, United Kingdom · Died 30 June 1926 · Mendon, Cache, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 15 July 1837 · Salford, Lancashire, England, United Kingdom · Died 30 June 1926 · Mendon, Cache, Utah, United States · Generation 5
 
 ## Family
+- Father: [[Stephen Longstroth (KWJY-1YP)|Stephen Longstroth]]
+- Mother: [[Ann Gill (LZ8S-S5B)|Ann Gill]]
 - Children in this line: [[Edmeresa Whitney (LKVY-NCR)|Edmeresa Whitney]]
 
 ## Life
 - **Birth**: 15 July 1837 · Salford, Lancashire, England, United Kingdom
 - **Death**: 30 June 1926 · Mendon, Cache, Utah, United States
-- **Birth%20Registration**: 1837 · Clitheroe, Lancashire, England
+- **data:,Birth%20Registration**: 1837 · Clitheroe, Lancashire, England
 - **Residence**: 1841 · Whalley, Lancashire, England, United Kingdom
-- **Immigration**: 1842
+- **data:,Immigration**: 1842
 - **Residence**: from 1839 to 1846 · Nauvoo, Hancock, Illinois, United States
-- **Immigration**: 1843
-- **Immigration**: 19 Oct 1848 · Utah, United States
+- **data:,Immigration**: 1843
+- **data:,Immigration**: 19 Oct 1848 · Utah, United States
 - **Residence**: 1850 · Great Salt Lake county, Great Salt Lake, Utah Territory, United States
 - **Residence**: 1860 · 18th Ward Great Salt Lake City, Salt Lake, Utah Territory, United States
 - **Residence**: 1870 · Salt Lake City, Salt Lake, Utah Territory, United States

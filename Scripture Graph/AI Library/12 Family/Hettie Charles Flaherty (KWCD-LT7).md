@@ -7,14 +7,14 @@ fs_id: KWCD-LT7
 generation: 3
 born: 30 June 1910 · Van Buren, Crawford, Arkansas, United States
 died: 6 June 1981 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Hettie Charles Flaherty
 
-Born 30 June 1910 · Van Buren, Crawford, Arkansas, United States · Died 6 June 1981 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's great-grandparents
+Born 30 June 1910 · Van Buren, Crawford, Arkansas, United States · Died 6 June 1981 · Salt Lake City, Salt Lake, Utah, United States · Generation 3
 
 ## Family
 - Father: [[Charles Henry Flaherty (LDF2-L92)|Charles Henry Flaherty]]
@@ -35,11 +35,7 @@ Born 30 June 1910 · Van Buren, Crawford, Arkansas, United States · Died 6 June
 
 ### A.R. Wood, 1930 Census, Fort Smith, Sebastian, Arkansas
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/38675009)_
-
 ### Gene Wood and Hattie C. Flaherty, 1929 Arkansas Marriage Index
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/38675424)_
 
 ## Sources
 - [Hettie Wood, "United States, Obituary Records, 2014-2023"](https://familysearch.org/ark:/61903/1:1:XMJS-W35T)

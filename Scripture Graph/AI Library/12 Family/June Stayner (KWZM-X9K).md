@@ -7,14 +7,14 @@ fs_id: KWZM-X9K
 generation: 3
 born: 19170602 · Price, Carbon, Utah
 died: 20070607 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # June Stayner
 
-Born 19170602 · Price, Carbon, Utah · Died 20070607 · Logan, Cache, Utah, United States · Jace Eugene Richins's great-grandparents
+Born 19170602 · Price, Carbon, Utah · Died 20070607 · Logan, Cache, Utah, United States · Generation 3
 
 ## Family
 - Father: [[Ralph James Stayner (KWZB-ZQP)|Ralph James Stayner]]
@@ -24,25 +24,19 @@ Born 19170602 · Price, Carbon, Utah · Died 20070607 · Logan, Cache, Utah, Uni
 - **Birth**: 19170602 · Price, Carbon, Utah
 - **Death**: 20070607 · Logan, Cache, Utah, United States
 - **Christening**: 1 Jul 1917 · Price, Carbon, Utah
-- **Blessing**: 1 July 1917
+- **data:,Blessing**: 1 July 1917
 - **Residence**: 07 Jun 2007 · Logan, Utah
-- **Obituary**: 11 Jun 2007 · Logan, Utah, United States
+- **data:,Obituary**: 11 Jun 2007 · Logan, Utah, United States
 - **Burial**: Smithfield, Cache, Utah, United States
-- **Membership**: Carbon, Utah, United States
+- **data:,Membership**: Carbon, Utah, United States
 
 ## Stories
 
 ### Budge Cabin up Logan Canyon
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2716181)_
-
 ### Budge Family Reunion
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/66174006)_
-
 ### Life Memories of June
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/108011401)_
 
 ## Photos & documents
 

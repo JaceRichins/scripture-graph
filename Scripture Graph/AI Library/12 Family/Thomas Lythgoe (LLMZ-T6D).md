@@ -7,23 +7,25 @@ fs_id: LLMZ-T6D
 generation: 6
 born: 12 July 1804 · Leigh, Lancashire, England, United Kingdom
 died: 30 September 1887 · Pendlebury, Lancashire, England, United Kingdom
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Lythgoe
 
-Born 12 July 1804 · Leigh, Lancashire, England, United Kingdom · Died 30 September 1887 · Pendlebury, Lancashire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
+Born 12 July 1804 · Leigh, Lancashire, England, United Kingdom · Died 30 September 1887 · Pendlebury, Lancashire, England, United Kingdom · Generation 6
 
 ## Family
+- Father: [[Joseph Lythgoe (LJB7-D3Q)|Joseph Lythgoe]]
+- Mother: [[Elizabeth Burrows (LSMQ-N7H)|Elizabeth Burrows]]
 - Children in this line: [[Rachel Lythgoe (KWNL-J72)|Rachel Lythgoe]]
 
 ## Life
 - **Birth**: 12 July 1804 · Leigh, Lancashire, England, United Kingdom
 - **Death**: 30 September 1887 · Pendlebury, Lancashire, England, United Kingdom
 - **Christening**: 15 July 1804 · Leigh, Lancashire, England, United Kingdom
-- **Baptism**: 1802-1810 · Liverpool, Lancashire, England, United Kingdom
+- **data:,Baptism**: 1802-1810 · Liverpool, Lancashire, England, United Kingdom
 - **Residence**: 1841 · Eccles, Lancashire, England, United Kingdom
 - **Residence**: 1851 · Worsley, Lancashire, England
 - **Residence**: 1881 · Toxteth Park, Lancashire, England · Census
@@ -35,15 +37,9 @@ Born 12 July 1804 · Leigh, Lancashire, England, United Kingdom · Died 30 Septe
 
 ### History of Thomas Lythgoe
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1712459)_
-
 ###               James Lythgoe
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5019126)_
-
 ### James Lythgoe ----- Utah Pioneer 1864
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/68199820)_
 
 ## Photos & documents
 

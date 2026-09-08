@@ -7,14 +7,14 @@ fs_id: KWNL-J7K
 generation: 5
 born: 26 June 1840 · Shropshire, England, United Kingdom
 died: 7 November 1918 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # James Macefield Fowler
 
-Born 26 June 1840 · Shropshire, England, United Kingdom · Died 7 November 1918 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 26 June 1840 · Shropshire, England, United Kingdom · Died 7 November 1918 · Henefer, Summit, Utah, United States · Generation 5
 
 ## Family
 - Father: [[George Fowler (L8BN-9DF)|George Fowler]]
@@ -24,7 +24,7 @@ Born 26 June 1840 · Shropshire, England, United Kingdom · Died 7 November 1918
 ## Life
 - **Birth**: 26 June 1840 · Shropshire, England, United Kingdom
 - **Death**: 7 November 1918 · Henefer, Summit, Utah, United States
-- **Alternate%20Birth**: 27 June 1840
+- **data:,Alternate%20Birth**: 27 June 1840
 - **Residence**: 1851 · Staffordshire, England, United Kingdom
 - **Residence**: 1861 · Wolverhampton, Staffordshire, England, United Kingdom
 - **Residence**: 1880 · Henneferville, Summit, Utah, United States
@@ -34,19 +34,11 @@ Born 26 June 1840 · Shropshire, England, United Kingdom · Died 7 November 1918
 
 ### Letter to James Macefield Fowler from brother Brigham Fowler
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5214752)_
-
 ### 1863 Letter to James from his mother, Eleanor Fowler
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5215442)_
 
 ### 1868 Letter to James from his mother, Eleanor Fowler
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5215464)_
-
 ### Osra, Rachel and Talbert Richins Relating Family Connections 1981 or 1982
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62790441)_
 
 ## Photos & documents
 

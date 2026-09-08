@@ -7,16 +7,18 @@ fs_id: LLQX-X94
 generation: 6
 born: 27 January 1799 · Painswick, Gloucestershire, England
 died: 21 September 1842 · Sheepscombe, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Charlotte Priscilla Wager
 
-Born 27 January 1799 · Painswick, Gloucestershire, England · Died 21 September 1842 · Sheepscombe, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
+Born 27 January 1799 · Painswick, Gloucestershire, England · Died 21 September 1842 · Sheepscombe, Gloucestershire, England, United Kingdom · Generation 6
 
 ## Family
+- Father: [[John Wager (9HTV-VNT)|John Wager]]
+- Mother: [[Charlotte Gill (FVCX-LFF)|Charlotte Gill]]
 - Children in this line: [[Edward Richins (KW8L-N6R)|Edward Richins]], [[Charles Wager Richins (KVP1-SVD)|Charles Wager Richins]]
 
 ## Life
@@ -28,8 +30,6 @@ Born 27 January 1799 · Painswick, Gloucestershire, England · Died 21 September
 ## Stories
 
 ### Richard Richins and Charlotte Wager by Hazel Richins
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20148763)_
 
 ## Photos & documents
 

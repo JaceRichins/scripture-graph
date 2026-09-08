@@ -7,16 +7,18 @@ fs_id: LB89-VQR
 generation: 6
 born: 6 March 1805 · Hindley, Lancashire, England, United Kingdom
 died: 23 July 1885 · Henefer, Summit, Utah Territory, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Esther Wilcock
 
-Born 6 March 1805 · Hindley, Lancashire, England, United Kingdom · Died 23 July 1885 · Henefer, Summit, Utah Territory, United States · Jace Eugene Richins's 4× great-grandparents
+Born 6 March 1805 · Hindley, Lancashire, England, United Kingdom · Died 23 July 1885 · Henefer, Summit, Utah Territory, United States · Generation 6
 
 ## Family
+- Father: [[James Wilcock (2778-4FX)|James Wilcock]]
+- Mother: [[Ann Ramsdale (LSMR-W7B)|Ann Ramsdale]]
 - Children in this line: [[Rachel Lythgoe (KWNL-J72)|Rachel Lythgoe]]
 
 ## Life
@@ -33,27 +35,15 @@ Born 6 March 1805 · Hindley, Lancashire, England, United Kingdom · Died 23 Jul
 
 ### History of Esther Wilcock
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1712474)_
-
 ### Esther Wilcock (Lythgoe)1806-1885
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5096621)_
 
 ### Story about Esther Wilcock
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7604930)_
-
 ### Story on the death of Esther Wilcock Lythgoe
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7604957)_
 
 ### James Lythgoe Probably around 1870's
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/216892583)_
-
 ### Esther Wilcock Lythgoe about 1830
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/217402624)_
 
 ## Photos & documents
 

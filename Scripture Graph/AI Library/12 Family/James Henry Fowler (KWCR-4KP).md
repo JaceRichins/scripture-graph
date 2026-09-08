@@ -7,14 +7,14 @@ fs_id: KWCR-4KP
 generation: 4
 born: 2 August 1876 · Henefer, Summit, Utah, United States
 died: 11 May 1930 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # James Henry Fowler
 
-Born 2 August 1876 · Henefer, Summit, Utah, United States · Died 11 May 1930 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 2× great-grandparents
+Born 2 August 1876 · Henefer, Summit, Utah, United States · Died 11 May 1930 · Henefer, Summit, Utah, United States · Generation 4
 
 ## Family
 - Father: [[James Macefield Fowler (KWNL-J7K)|James Macefield Fowler]]
@@ -30,8 +30,6 @@ Born 2 August 1876 · Henefer, Summit, Utah, United States · Died 11 May 1930 �
 ## Stories
 
 ### Life Story of Susannah Jones Stephens and James Henry Fowler
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/55850422)_
 
 ## Photos & documents
 

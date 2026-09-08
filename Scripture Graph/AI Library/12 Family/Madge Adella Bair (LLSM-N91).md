@@ -7,14 +7,14 @@ fs_id: LLSM-N91
 generation: 4
 born: 16 October 1886 · Branchville, Orangeburg, South Carolina, United States
 died: 23 March 1978 · San Jose, Santa Clara, California, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Madge Adella Bair
 
-Born 16 October 1886 · Branchville, Orangeburg, South Carolina, United States · Died 23 March 1978 · San Jose, Santa Clara, California, United States · Jace Eugene Richins's 2× great-grandparents
+Born 16 October 1886 · Branchville, Orangeburg, South Carolina, United States · Died 23 March 1978 · San Jose, Santa Clara, California, United States · Generation 4
 
 ## Family
 - Father: [[Samuel Barton Bair (KWJH-X5P)|Samuel Barton Bair]]

@@ -7,14 +7,14 @@ fs_id: LDF2-L92
 generation: 4
 born: 8 June 1871 · Barry, Missouri, United States
 died: 26 January 1931 · Peevyhouse Cemetery, Van Buren, Crawford, Arkansas, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Charles Henry Flaherty
 
-Born 8 June 1871 · Barry, Missouri, United States · Died 26 January 1931 · Peevyhouse Cemetery, Van Buren, Crawford, Arkansas, United States · Jace Eugene Richins's 2× great-grandparents
+Born 8 June 1871 · Barry, Missouri, United States · Died 26 January 1931 · Peevyhouse Cemetery, Van Buren, Crawford, Arkansas, United States · Generation 4
 
 ## Family
 - Father: [[Thomas Morgan Flaherty (KJWV-RMH)|Thomas Morgan Flaherty]]

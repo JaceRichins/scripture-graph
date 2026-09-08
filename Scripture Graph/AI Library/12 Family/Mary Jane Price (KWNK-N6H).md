@@ -7,38 +7,36 @@ fs_id: KWNK-N6H
 generation: 5
 born: 15 April 1853 · Salt Lake City, Salt Lake, Utah Territory, United States
 died: 18 December 1892 · Paradise, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Jane Price
 
-Born 15 April 1853 · Salt Lake City, Salt Lake, Utah Territory, United States · Died 18 December 1892 · Paradise, Cache, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 15 April 1853 · Salt Lake City, Salt Lake, Utah Territory, United States · Died 18 December 1892 · Paradise, Cache, Utah, United States · Generation 5
 
 ## Family
+- Father: [[Edward Jeremiah Price (KWV9-ZK2)|Edward Jeremiah Price]]
+- Mother: [[Mary Jane Bishop (LRRX-9SM)|Mary Jane Bishop]]
 - Children in this line: [[Ernest Price Oldham (KWJN-ZRT)|Ernest Price Oldham]]
 
 ## Life
 - **Birth**: 15 April 1853 · Salt Lake City, Salt Lake, Utah Territory, United States
 - **Death**: 18 December 1892 · Paradise, Cache, Utah, United States
 - **Christening**: 23 April 1853 · Paradise, Cache, Utah, United States
-- **census**: 1860 · Cache, Utah Territory · United States federal
-- **census**: 1870 · Paradise, Cache, Utah, United States · United States federal
+- **data:,census**: 1860 · Cache, Utah Territory · United States federal
+- **data:,census**: 1870 · Paradise, Cache, Utah, United States · United States federal
 - **Residence**: 1880 · Paradise, Cache, Utah, United States
 - **Burial**: 21 December 1892 · Paradise, Cache, Utah, United States
 - **Residence**: 1900 · Avon, Cache, Utah, United States
-- **Ancestral%20File%20Number**: 1RGH-HP
+- **data:,Ancestral%20File%20Number**: 1RGH-HP
 
 ## Stories
 
 ### Edward Jeremiah Price
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/899802)_
-
 ### Grandfather Oldham (Samuel Heap Oldham) by Granddaughter Alice Olsen Norman
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/16819959)_
 
 ## Photos & documents
 

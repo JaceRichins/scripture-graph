@@ -7,16 +7,18 @@ fs_id: LZPH-MJC
 generation: 6
 born: 12 December 1812 · Syde, Gloucestershire, England, United Kingdom
 died: 16 August 1848 · Brimpsfield, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Shill
 
-Born 12 December 1812 · Syde, Gloucestershire, England, United Kingdom · Died 16 August 1848 · Brimpsfield, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
+Born 12 December 1812 · Syde, Gloucestershire, England, United Kingdom · Died 16 August 1848 · Brimpsfield, Gloucestershire, England, United Kingdom · Generation 6
 
 ## Family
+- Father: [[Robert Chapel Shill (KWJ7-586)|Robert Chapel Shill]]
+- Mother: [[Prudence Golding (LZPH-MQM)|Prudence Golding]]
 - Children in this line: [[Mary Jones (KWNL-JWJ)|Mary Jones]], [[Robert Jones (KWJ7-5Q6)|Robert Jones]]
 
 ## Life
@@ -28,8 +30,6 @@ Born 12 December 1812 · Syde, Gloucestershire, England, United Kingdom · Died 
 ## Stories
 
 ### Life History of Thomas Henry and Mary Jones Stephens
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10841178)_
 
 ## Photos & documents
 

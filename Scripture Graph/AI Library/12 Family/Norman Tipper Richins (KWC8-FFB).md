@@ -7,14 +7,14 @@ fs_id: KWC8-FFB
 generation: 3
 born: 3 April 1905 · Henefer, Summit, Utah, United States
 died: 15 May 1987 · Ogden, Weber, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Norman Tipper Richins
 
-Born 3 April 1905 · Henefer, Summit, Utah, United States · Died 15 May 1987 · Ogden, Weber, Utah, United States · Jace Eugene Richins's great-grandparents
+Born 3 April 1905 · Henefer, Summit, Utah, United States · Died 15 May 1987 · Ogden, Weber, Utah, United States · Generation 3
 
 ## Family
 - Father: [[Alma Ether Richins (LLC5-YZB)|Alma Ether Richins]]
@@ -23,25 +23,21 @@ Born 3 April 1905 · Henefer, Summit, Utah, United States · Died 15 May 1987 ·
 ## Life
 - **Birth**: 3 April 1905 · Henefer, Summit, Utah, United States
 - **Death**: 15 May 1987 · Ogden, Weber, Utah, United States
-- **Baptism**: 6 Jul 1913
-- **Membership**: 1917 · Summit, Utah, United States
+- **data:,Baptism**: 6 Jul 1913
+- **data:,Membership**: 1917 · Summit, Utah, United States
 - **Residence**: 1935 · Same House
 - **Residence**: 1940 · Henefer Election Precinct, Summit, Utah, United States
-- **Military%20Draft%20Registration**: 16 Oct 1940 · Henefer, Summit, Utah, United States
+- **data:,Military%20Draft%20Registration**: 16 Oct 1940 · Henefer, Summit, Utah, United States
 - **Residence**: 13 Apr 1950 · Henefer, Summit, Utah, United States
 - **Burial**: 19 May 1987 · Henefer Cemetery, Henefer, Summit, Utah, United States
 - **Residence**: Henefer, Summit, Utah
-- **Membership**: Summit, Utah, United States
+- **data:,Membership**: Summit, Utah, United States
 
 ## Stories
 
 ###  LIFE STORIES OF NORMAN TIPPER RICHINS,  	ELVA MARY FOWLER AND LEOLA MANZEL FARR
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20841948)_
-
 ### "The Ding Ho"- Douglas Richins Interview
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196823523)_
 
 ## Photos & documents
 

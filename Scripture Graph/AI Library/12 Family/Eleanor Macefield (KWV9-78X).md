@@ -7,27 +7,29 @@ fs_id: KWV9-78X
 generation: 6
 born: 10 June 1818 · Beckbury, Shropshire, England, United Kingdom
 died: 1 November 1894 · Goshen, Juab, Utah, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Eleanor Macefield
 
-Born 10 June 1818 · Beckbury, Shropshire, England, United Kingdom · Died 1 November 1894 · Goshen, Juab, Utah, United States · Jace Eugene Richins's 4× great-grandparents
+Born 10 June 1818 · Beckbury, Shropshire, England, United Kingdom · Died 1 November 1894 · Goshen, Juab, Utah, United States · Generation 6
 
 ## Family
+- Father: [[Matthew Macefield (L9P7-JRY)|Matthew Macefield]]
+- Mother: [[Elizabeth Davis (K26P-LWP)|Elizabeth Davis]]
 - Children in this line: [[James Macefield Fowler (KWNL-J7K)|James Macefield Fowler]]
 
 ## Life
 - **Birth**: 10 June 1818 · Beckbury, Shropshire, England, United Kingdom
 - **Death**: 1 November 1894 · Goshen, Juab, Utah, United States
 - **Christening**: 12 July 1818 · Beckbury, Shropshire, England, United Kingdom
-- **Baptism**: 12 Jul 1818 · Beckbury, Shropshire, England, United Kingdom
+- **data:,Baptism**: 12 Jul 1818 · Beckbury, Shropshire, England, United Kingdom
 - **Residence**: 1841 · Worfield, Shropshire, England, United Kingdom
 - **Residence**: 1851 · Staffordshire, England, United Kingdom
 - **Residence**: 1861 · Wolverhampton, Staffordshire, England, United Kingdom
-- **Immigration**: 1864 · Utah, United States
+- **data:,Immigration**: 1864 · Utah, United States
 - **Residence**: 1870 · Salt Lake City, Salt Lake, Utah, United States
 - **Residence**: 1880 · Bingham, Salt Lake, Utah, United States
 - **Burial**: 1894 · Goshen, Juab, Utah, United States

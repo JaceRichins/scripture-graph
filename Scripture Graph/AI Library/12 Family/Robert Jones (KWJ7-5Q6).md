@@ -7,14 +7,14 @@ fs_id: KWJ7-5Q6
 generation: 6
 born: 9 July 1829 · Caudle Green, Gloucestershire, England, United Kingdom
 died: 27 April 1906 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Robert Jones
 
-Born 9 July 1829 · Caudle Green, Gloucestershire, England, United Kingdom · Died 27 April 1906 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 4× great-grandparents
+Born 9 July 1829 · Caudle Green, Gloucestershire, England, United Kingdom · Died 27 April 1906 · Henefer, Summit, Utah, United States · Generation 6
 
 ## Family
 - Father: [[William Jones (MVD2-WSJ)|William Jones]]
@@ -28,9 +28,9 @@ Born 9 July 1829 · Caudle Green, Gloucestershire, England, United Kingdom · Di
 - **Residence**: 1851 · Brimpsfield, Gloucestershire, England
 - **Residence**: 1851 · St Georges, Gloucestershire, England
 - **Residence**: 1861 · St Georges, Gloucestershire, England
-- **Immigration**: 30 April 1866 · Liverpool, Lancashire, England, United Kingdom · From England on ship "John Bright" Arrived 6 June 1866
-- **Emigration+-+Departed+Nebraska**: 12 Jul 1866 · William H. Chipman Company
-- **Immigration+-+Arrived+in+Utah**: 16 Sep 1866 · Utah, United States
+- **data:,Immigration**: 30 April 1866 · Liverpool, Lancashire, England, United Kingdom · From England on ship "John Bright" Arrived 6 June 1866
+- **data:,Emigration+-+Departed+Nebraska**: 12 Jul 1866 · William H. Chipman Company
+- **data:,Immigration+-+Arrived+in+Utah**: 16 Sep 1866 · Utah, United States
 - **Residence**: 1880 · Henefer, Summit, Utah, United States
 - **Burial**: 30 April 1906 · Henefer Cemetery, Henefer, Summit, Utah, United States
 - **Residence**: Summit, Utah, United States
@@ -39,15 +39,9 @@ Born 9 July 1829 · Caudle Green, Gloucestershire, England, United Kingdom · Di
 
 ### Autobiography of Robert Jones 
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/37384710)_
-
 ### Life History of Albert F. Richins
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/95942857)_
-
 ### Death Notice 
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/123694294)_
 
 ## Photos & documents
 

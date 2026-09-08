@@ -7,14 +7,14 @@ fs_id: LLC5-YZB
 generation: 4
 born: 3 December 1866 · Echo, Summit, Utah Territory, United States
 died: 30 April 1952 · Hoytsville, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Alma Ether Richins
 
-Born 3 December 1866 · Echo, Summit, Utah Territory, United States · Died 30 April 1952 · Hoytsville, Summit, Utah, United States · Jace Eugene Richins's 2× great-grandparents
+Born 3 December 1866 · Echo, Summit, Utah Territory, United States · Died 30 April 1952 · Hoytsville, Summit, Utah, United States · Generation 4
 
 ## Family
 - Father: [[Edward Richins (KW8L-N6R)|Edward Richins]]
@@ -38,39 +38,21 @@ Born 3 December 1866 · Echo, Summit, Utah Territory, United States · Died 30 A
 
 ###  ALMA E RICHINS (my father in law)
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20638389)_
-
 ### Sheep in Henefer by Marguerite Reiser Paskett
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20865032)_
 
 ### Life Story of Sarah Ellen Richins Calderwood
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/80630366)_
-
 ### Christmas at Alma & Hattie Richins Home
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/186214421)_
 
 ### Tradition of Visiting Richins Relatives- Ron Richins Interview
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/195414954)_
-
 ### Alma & Pearl's Relationship After Hattie's Death- Ron Richins Interview
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/195415675)_
 
 ### Glenn Sees a Golf Course for the 1st Time- Ron Richins Interview
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/195415905)_
-
 ### Glenn's Early Years- Douglas Richins Interview
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196660473)_
-
 ### Shirlene Was the 1st Grandchild Born at Alma & Hattie's- Shirlene Richins Drury Burt Interview
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196828743)_
 
 ## Photos & documents
 

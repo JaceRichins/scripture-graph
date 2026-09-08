@@ -7,24 +7,26 @@ fs_id: LHCT-W7T
 generation: 6
 born: 1 March 1824 · Knoxville, Knox, Tennessee, United States
 died: 3 April 1862 · Fayetteville, Washington, Arkansas, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Pascal Patton
 
-Born 1 March 1824 · Knoxville, Knox, Tennessee, United States · Died 3 April 1862 · Fayetteville, Washington, Arkansas, United States · Jace Eugene Richins's 4× great-grandparents
+Born 1 March 1824 · Knoxville, Knox, Tennessee, United States · Died 3 April 1862 · Fayetteville, Washington, Arkansas, United States · Generation 6
 
 ## Family
+- Father: [[Jesse Harlan Patton (LZNN-TVM)|Jesse Harlan Patton]]
+- Mother: [[Mary Isabelle Lewallen (99B1-HR6)|Mary Isabelle Lewallen]]
 - Children in this line: [[Sarah Jane Patton (KJWV-R99)|Sarah Jane Patton]]
 
 ## Life
 - **Birth**: 1 March 1824 · Knoxville, Knox, Tennessee, United States
 - **Death**: 3 April 1862 · Fayetteville, Washington, Arkansas, United States
 - **Residence**: 1850 · Prairie, Washington, Arkansas, United States
-- **Land%20Assessment**: 15 Dec 1852 · Fayetteville, Washington, Arkansas, United States
-- **Land%20Assessment**: 15 Nov 1854 · Fayetteville, Washington, Arkansas, United States
+- **data:,Land%20Assessment**: 15 Dec 1852 · Fayetteville, Washington, Arkansas, United States
+- **data:,Land%20Assessment**: 15 Nov 1854 · Fayetteville, Washington, Arkansas, United States
 - **Residence**: 1860 · Clear Creek Township, Washington, Arkansas, United States
 - **Burial**: about 1862 · Friendship Cemetery, Springdale, Washington, Arkansas, United States
 

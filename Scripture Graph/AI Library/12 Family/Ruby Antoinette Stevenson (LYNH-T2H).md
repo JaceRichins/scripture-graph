@@ -7,23 +7,25 @@ fs_id: LYNH-T2H
 generation: 5
 born: 16 November 1860 · Farmington, Davis, Utah Territory, United States
 died: 31 July 1943 · Garland, Box Elder, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ruby Antoinette Stevenson
 
-Born 16 November 1860 · Farmington, Davis, Utah Territory, United States · Died 31 July 1943 · Garland, Box Elder, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 16 November 1860 · Farmington, Davis, Utah Territory, United States · Died 31 July 1943 · Garland, Box Elder, Utah, United States · Generation 5
 
 ## Family
+- Father: [[James Stevenson (KWJ6-HVN)|James Stevenson]]
+- Mother: [[Sarah Elnora White (KWJ6-HYH)|Sarah Elnora White]]
 - Children in this line: [[Ralph James Stayner (KWZB-ZQP)|Ralph James Stayner]]
 
 ## Life
 - **Birth**: 16 November 1860 · Farmington, Davis, Utah Territory, United States
 - **Death**: 31 July 1943 · Garland, Box Elder, Utah, United States
-- **Blessing**: 7 Mar 1861
-- **Baptism**: 8 Aug 1869
+- **data:,Blessing**: 7 Mar 1861
+- **data:,Baptism**: 8 Aug 1869
 - **Residence**: 1870 · Washington, Washington, Utah, United States
 - **Residence**: 1870 · Farmington, Davis, Utah, United States
 - **Residence**: 1880 · Farmington, Davis, Utah, United States
@@ -31,9 +33,9 @@ Born 16 November 1860 · Farmington, Davis, Utah Territory, United States · Die
 - **Residence**: 1920 · Fielding, Box Elder, Utah, United States
 - **Residence**: 1935 · Same House
 - **Residence**: 1940 · Garland, Garland Election Precinct, Box Elder, Utah, United States
-- **Obituary**: 1943 · Garland, Box Elder, Utah, United States · Obituary
+- **data:,Obituary**: 1943 · Garland, Box Elder, Utah, United States · Obituary
 - **Burial**: Fielding City Cemetery, Fielding, Box Elder, Utah, United States
-- **Membership**: Farmington, Davis, Utah, United States
+- **data:,Membership**: Farmington, Davis, Utah, United States
 
 ## Photos & documents
 

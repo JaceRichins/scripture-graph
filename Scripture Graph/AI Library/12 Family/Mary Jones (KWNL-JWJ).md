@@ -7,14 +7,14 @@ fs_id: KWNL-JWJ
 generation: 5
 born: 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom
 died: 12 July 1905 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Jones
 
-Born 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom · Died 12 July 1905 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom · Died 12 July 1905 · Henefer, Summit, Utah, United States · Generation 5
 
 ## Family
 - Father: [[William Jones (MVD2-WSJ)|William Jones]]
@@ -25,25 +25,21 @@ Born 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom · D
 - **Birth**: 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom
 - **Death**: 12 July 1905 · Henefer, Summit, Utah, United States
 - **Christening**: 21 July 1844 · Brimpsfield, Gloucestershire, England, United Kingdom
-- **BAPL**: 17 March 1856
+- **data:,BAPL**: 17 March 1856
 - **Residence**: 1861 · Brimpsfield, Gloucestershire, England, United Kingdom
-- **Immigration**: 1865 · Deseret, United States
-- **Emigration**: 1865
+- **data:,Immigration**: 1865 · Deseret, United States
+- **data:,Emigration**: 1865
 - **Residence**: 1870 · Henefer, Summit, Utah Territory, United States
-- **ENDL**: 16 June 1873 · EHOUS
+- **data:,ENDL**: 16 June 1873 · EHOUS
 - **Burial**: 14 July 1905 · Henefer Cemetery, Henefer, Summit, Utah, United States
-- **BURI**: 14 July 1905 · Henefer, Summit, Utah, United States
-- **SLGC**: 26 September 1949
+- **data:,BURI**: 14 July 1905 · Henefer, Summit, Utah, United States
+- **data:,SLGC**: 26 September 1949
 
 ## Stories
 
 ### Mary Jones Stephens
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2537602)_
-
 ### Life History of Thomas Henry and Mary Jones Stephens
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10841178)_
 
 ## Photos & documents
 

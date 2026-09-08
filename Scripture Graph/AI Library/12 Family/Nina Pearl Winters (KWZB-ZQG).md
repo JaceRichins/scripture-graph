@@ -7,14 +7,14 @@ fs_id: KWZB-ZQG
 generation: 4
 born: 26 August 1891 · Ogden, Weber, Utah Territory, United States
 died: 25 December 1976 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Nina Pearl Winters
 
-Born 26 August 1891 · Ogden, Weber, Utah Territory, United States · Died 25 December 1976 · Logan, Cache, Utah, United States · Jace Eugene Richins's 2× great-grandparents
+Born 26 August 1891 · Ogden, Weber, Utah Territory, United States · Died 25 December 1976 · Logan, Cache, Utah, United States · Generation 4
 
 ## Family
 - Father: [[Oscar Lycortas Winters (KWCN-ST1)|Oscar Lycortas Winters]]
@@ -24,19 +24,17 @@ Born 26 August 1891 · Ogden, Weber, Utah Territory, United States · Died 25 De
 ## Life
 - **Birth**: 26 August 1891 · Ogden, Weber, Utah Territory, United States
 - **Death**: 25 December 1976 · Logan, Cache, Utah, United States
-- **Blessing**: 7 Jan 1892
-- **Baptism**: 8 Sep 1899
-- **Social%20Program%20Application**: 25 Aug 1972
+- **data:,Blessing**: 7 Jan 1892
+- **data:,Baptism**: 8 Sep 1899
+- **data:,Social%20Program%20Application**: 25 Aug 1972
 - **Burial**: 27 December 1976 · Fielding City Cemetery, Riverside, Box Elder, Utah, United States
 - **Residence**: Garland, Box Elder, Utah, United States · Garland, Box Elder, Utah
-- **Membership**: Bear Lake, Idaho, United States
-- **Membership**: Ogden, Weber, Utah, United States
+- **data:,Membership**: Bear Lake, Idaho, United States
+- **data:,Membership**: Ogden, Weber, Utah, United States
 
 ## Stories
 
 ### Mother Was Always Ready For Company
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15046979)_
 
 ## Photos & documents
 

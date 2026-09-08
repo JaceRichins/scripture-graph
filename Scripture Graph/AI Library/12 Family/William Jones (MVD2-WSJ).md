@@ -7,24 +7,26 @@ fs_id: MVD2-WSJ
 generation: 6
 born: 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom
 died: 7 July 1889 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Jones
 
-Born 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom · Died 7 July 1889 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 4× great-grandparents
+Born 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom · Died 7 July 1889 · Henefer, Summit, Utah, United States · Generation 6
 
 ## Family
+- Father: [[William Jones (LVH4-PMR)|William Jones]]
+- Mother: [[Elizabeth Goodwin (LZCP-RXK)|Elizabeth Goodwin]]
 - Children in this line: [[Mary Jones (KWNL-JWJ)|Mary Jones]], [[Robert Jones (KWJ7-5Q6)|Robert Jones]]
 
 ## Life
 - **Birth**: 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom
 - **Death**: 7 July 1889 · Henefer, Summit, Utah, United States
 - **Christening**: 30 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom
-- **Immigration**: 30 April 1866 · Liverpool, Lancashire, England, United Kingdom · From England on ship "John Bright" to New York
-- **Immigration**: 1868 · Deseret, United States · Traveled in the John Riggs Murdock Company from Laramie, WY to Salt Lake City, UT
+- **data:,Immigration**: 30 April 1866 · Liverpool, Lancashire, England, United Kingdom · From England on ship "John Bright" to New York
+- **data:,Immigration**: 1868 · Deseret, United States · Traveled in the John Riggs Murdock Company from Laramie, WY to Salt Lake City, UT
 - **Residence**: 1870 · Henefer, Summit, Utah Territory, United States
 - **Residence**: 1880 · Henneferville, Summit, Utah, United States
 - **Burial**: 10 July 1889 · Henefer Cemetery, Henefer, Summit, Utah, United States
@@ -33,11 +35,7 @@ Born 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom · Die
 
 ### William Jones Journey to Utah
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9751497)_
-
 ### Life History of Thomas Henry and Mary Jones Stephens
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10841178)_
 
 ## Photos & documents
 

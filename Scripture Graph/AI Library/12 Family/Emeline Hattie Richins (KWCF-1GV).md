@@ -7,14 +7,14 @@ fs_id: KWCF-1GV
 generation: 4
 born: 15 November 1873 · Henefer, Summit, Utah, United States
 died: 15 July 1936 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Emeline Hattie Richins
 
-Born 15 November 1873 · Henefer, Summit, Utah, United States · Died 15 July 1936 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 2× great-grandparents
+Born 15 November 1873 · Henefer, Summit, Utah, United States · Died 15 July 1936 · Henefer, Summit, Utah, United States · Generation 4
 
 ## Family
 - Father: [[Charles Wager Richins (KVP1-SVD)|Charles Wager Richins]]
@@ -33,19 +33,11 @@ Born 15 November 1873 · Henefer, Summit, Utah, United States · Died 15 July 19
 
 ### History of George Madison Richins and Esther Stowe Ovard Part 2
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871912)_
-
 ### History of George Madison Richins and Esther Stowe Ovard Part 1
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871961)_
 
 ### Christmas at Alma & Hattie Richins Home
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/186214421)_
-
 ### Glenn's Early Years- Douglas Richins Interview
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196660473)_
 
 ## Photos & documents
 

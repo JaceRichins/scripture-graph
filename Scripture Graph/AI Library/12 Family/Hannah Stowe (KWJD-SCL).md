@@ -7,28 +7,30 @@ fs_id: KWJD-SCL
 generation: 6
 born: 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom
 died: 8 October 1888 · American Fork, Utah, Utah, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Hannah Stowe
 
-Born 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom · Died 8 October 1888 · American Fork, Utah, Utah, United States · Jace Eugene Richins's 4× great-grandparents
+Born 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom · Died 8 October 1888 · American Fork, Utah, Utah, United States · Generation 6
 
 ## Family
+- Father: [[John Stowe (LCXR-6Q6)|John Stowe]]
+- Mother: [[Sarah Aris (LCXR-6VS)|Sarah Aris]]
 - Children in this line: [[Esther Stowe Ovard (KWJ8-2JM)|Esther Stowe Ovard]]
 
 ## Life
 - **Birth**: 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom
 - **Death**: 8 October 1888 · American Fork, Utah, Utah, United States
-- **Christening**: 2 January 1816 · St. Mary's Parish, Banbury, Oxfordshire, England · Christening in Banbury
+- **data:,Christening**: 2 January 1816 · St. Mary's Parish, Banbury, Oxfordshire, England · Christening in Banbury
 - **Christening**: 14 September 1817 · Brailes, Warwickshire, England, United Kingdom
 - **Residence**: 1841 · Swerford, Oxfordshire, England
 - **Residence**: 1851 · Newbold Pacey, Warwickshire, England
 - **Residence**: 1860 · Douglas, Nebraska Territory, United States
-- **Immigration**: 30 Aug 1860
-- **Immigration**: 30 Aug 1860 · Utah, United States
+- **data:,Immigration**: 30 Aug 1860
+- **data:,Immigration**: 30 Aug 1860 · Utah, United States
 - **Burial**: October 1888 · American Fork Cemetery, American Fork, Utah, Utah, United States
 - **Residence**: England
 
@@ -36,31 +38,17 @@ Born 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom · Died 8
 
 ### Notes on Thomas Ovard
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18024750)_
-
 ### Sarah Elizabeth Ovard and Joseph Thomas Jordan 
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/28722474)_
 
 ### Ovard Story by Sarah Eliza Smith Howell, William Joseph and Mary Ann Ovard Smith
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/32723046)_
-
 ### Finding the Stowe family at Althorpe
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/158052407)_
 
 ### Wm J. Smith, Son in Law Recounts a Blessing
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/158436942)_
-
 ### Ship Journey on the George Washington to America
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/212975944)_
-
 ### Excerpts from WJS SR. Journal regarding "Mother Ovard" Hanna Stowe's Death
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/213985148)_
 
 ## Photos & documents
 

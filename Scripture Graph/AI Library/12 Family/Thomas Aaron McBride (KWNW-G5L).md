@@ -7,48 +7,48 @@ fs_id: KWNW-G5L
 generation: 5
 born: 10 July 1848 · Appanoose, Iowa, United States
 died: 22 October 1931 · Oakley, Cassia, Idaho, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Aaron McBride
 
-Born 10 July 1848 · Appanoose, Iowa, United States · Died 22 October 1931 · Oakley, Cassia, Idaho, United States · Jace Eugene Richins's 3× great-grandparents
+Born 10 July 1848 · Appanoose, Iowa, United States · Died 22 October 1931 · Oakley, Cassia, Idaho, United States · Generation 5
 
 ## Family
+- Father: [[James John McBride (KWJ5-DHB)|James John McBride]]
+- Mother: [[Olive Mehitable Cheney (LYB9-K1C)|Olive Mehitable Cheney]]
 - Children in this line: [[Henry Francis McBride (KW8L-S3Z)|Henry Francis McBride]]
 
 ## Life
 - **Birth**: 10 July 1848 · Appanoose, Iowa, United States
 - **Death**: 22 October 1931 · Oakley, Cassia, Idaho, United States
-- **Mormon%20Pioneer**: 21 June 1850 · Kanesville, Pottawattamie, Iowa, United States · William Snow/Joseph Young Company
+- **data:,Mormon%20Pioneer**: 21 June 1850 · Kanesville, Pottawattamie, Iowa, United States · William Snow/Joseph Young Company
 - **Residence**: 1850 · Tooele, Tooele, Utah Territory, United States
-- **Immigration**: 14 October 1850 · Utah Territory, United States
-- **Blessing**: 1852
-- **Baptism**: 1856
+- **data:,Immigration**: 14 October 1850 · Utah Territory, United States
+- **data:,Blessing**: 1852
+- **data:,Baptism**: 1856
 - **Residence**: 1860 · Grantsville, Tooele, Utah Territory, United States
 - **Residence**: 1870 · Grantsville, Tooele, Utah Territory, United States
 - **Residence**: 1880 · Grantsville, Tooele, Utah Territory, United States
-- **Census**: 1880 · Grantsville City, Tooele, Utah, USA
-- **Land%20Assessment**: 21 February 1885 · Idaho, United States
+- **data:,Census**: 1880 · Grantsville City, Tooele, Utah, USA
+- **data:,Land%20Assessment**: 21 February 1885 · Idaho, United States
 - **MilitaryService**: 1862-1910 · Iowa, United States
 - **Residence**: 1900 · Oakley, Cassia, Idaho, United States
-- **Census**: 1900 · Oakley, Basin, Marion Precincts, Cassia, Idaho, USA
+- **data:,Census**: 1900 · Oakley, Basin, Marion Precincts, Cassia, Idaho, USA
 - **Residence**: 1910 · Locust, Cassia, Idaho, United States
 - **Residence**: 1920 · Locust, Cassia, Idaho, United States
 - **Residence**: 1920 · Cassia, Idaho, United States
-- **Membership**: 1921 · Tooele, Utah, United States
+- **data:,Membership**: 1921 · Tooele, Utah, United States
 - **Residence**: 1930 · Locust, Cassia, Idaho, United States
-- **Obituary**: 1931 · Idaho, United States
+- **data:,Obituary**: 1931 · Idaho, United States
 - **Burial**: 25 October 1931 · Oakley Cemetery, Oakley, Cassia, Idaho, United States
-- **Membership**: Grantsville, Tooele, Utah, United States
+- **data:,Membership**: Grantsville, Tooele, Utah, United States
 
 ## Stories
 
 ### Faith Promoting Story about the birth of Frances Henry McBride
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3615539)_
 
 ## Photos & documents
 

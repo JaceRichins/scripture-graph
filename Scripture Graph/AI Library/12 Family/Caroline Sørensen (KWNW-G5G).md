@@ -7,24 +7,26 @@ fs_id: KWNW-G5G
 generation: 5
 born: 20 March 1854 · Farsø, Gislum, Ålborg, Denmark
 died: 19 August 1941 · Oakley, Cassia, Idaho, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Caroline Sørensen
 
-Born 20 March 1854 · Farsø, Gislum, Ålborg, Denmark · Died 19 August 1941 · Oakley, Cassia, Idaho, United States · Jace Eugene Richins's 3× great-grandparents
+Born 20 March 1854 · Farsø, Gislum, Ålborg, Denmark · Died 19 August 1941 · Oakley, Cassia, Idaho, United States · Generation 5
 
 ## Family
+- Father: [[Søren Christensen (KWJ5-DCW)|Søren Christensen]]
+- Mother: [[Gjertrud Christensdatter (K153-433)|Gjertrud Christensdatter]]
 - Children in this line: [[Henry Francis McBride (KW8L-S3Z)|Henry Francis McBride]]
 
 ## Life
 - **Birth**: 20 March 1854 · Farsø, Gislum, Ålborg, Denmark
 - **Death**: 19 August 1941 · Oakley, Cassia, Idaho, United States
 - **Christening**: 13 April 1854 · Farsø, Gislum, Ålborg, Denmark
-- **Emigration**: 8 October 1855 · Ålborg, Denmark
-- **Emigration**: 27 June 1856 · Florence, Douglas, Nebraska, United States · Canute Peterson Company
+- **data:,Emigration**: 8 October 1855 · Ålborg, Denmark
+- **data:,Emigration**: 27 June 1856 · Florence, Douglas, Nebraska, United States · Canute Peterson Company
 - **Immigration**: 23 September 1856 · Utah Territory, United States · Canute Peterson Company
 - **Residence**: 1870 · Grantsville, Tooele, Utah Territory, United States
 - **Residence**: 1880 · Grantsville, Tooele, Utah Territory, United States
@@ -36,15 +38,13 @@ Born 20 March 1854 · Farsø, Gislum, Ålborg, Denmark · Died 19 August 1941 ·
 - **Residence**: 1930 · Locust, Cassia, Idaho, United States
 - **Residence**: 1935 · Oakley, Cassia, Idaho, United States
 - **Residence**: 1940 · Oakley, Cassia, Idaho, United States
-- **Obituary**: 1941 · Idaho, United States
+- **data:,Obituary**: 1941 · Idaho, United States
 - **Burial**: August 1941 · Oakley Cemetery, Oakley, Cassia, Idaho, United States
-- **Membership**: Grantsville, Tooele, Utah, United States
+- **data:,Membership**: Grantsville, Tooele, Utah, United States
 
 ## Stories
 
 ### Faith Promoting Story about the birth of Frances Henry McBride
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3615539)_
 
 ## Photos & documents
 

@@ -7,16 +7,18 @@ fs_id: LDHD-6FB
 generation: 6
 born: 25 August 1835 · Prairie Grove, Washington, Arkansas, United States
 died: 25 February 1925 · Rudy, Crawford, Arkansas, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Malinda Catherine Coatney
 
-Born 25 August 1835 · Prairie Grove, Washington, Arkansas, United States · Died 25 February 1925 · Rudy, Crawford, Arkansas, United States · Jace Eugene Richins's 4× great-grandparents
+Born 25 August 1835 · Prairie Grove, Washington, Arkansas, United States · Died 25 February 1925 · Rudy, Crawford, Arkansas, United States · Generation 6
 
 ## Family
+- Father: [[George Washington Coatney (LDHD-6D7)|George Washington Coatney]]
+- Mother: [[Margaret Ann Smith (GMSG-S5C)|Margaret Ann Smith]]
 - Children in this line: [[Margaret Delia Bowen (LDCS-9HL)|Margaret Delia Bowen]]
 
 ## Life
@@ -25,7 +27,7 @@ Born 25 August 1835 · Prairie Grove, Washington, Arkansas, United States · Die
 - **Residence**: 1850 · Cove Creek Township, Washington, Arkansas, United States
 - **Residence**: 1900 · Oliver Springs & Cedarville Townships, Crawford, Arkansas, United States
 - **Burial**: Morrison Cemetery, Rudy, Crawford, Arkansas, United States
-- **Cemetery**: Rudy, Crawford, Arkansas, United States · Morrison Cemetery
+- **data:,Cemetery**: Rudy, Crawford, Arkansas, United States · Morrison Cemetery
 
 ## Photos & documents
 

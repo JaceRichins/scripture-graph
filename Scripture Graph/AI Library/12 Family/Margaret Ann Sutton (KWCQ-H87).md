@@ -7,14 +7,14 @@ fs_id: KWCQ-H87
 generation: 4
 born: 15 April 1877 · Paris, Bear Lake, Idaho Territory,  United States
 died: 5 July 1954 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Margaret Ann Sutton
 
-Born 15 April 1877 · Paris, Bear Lake, Idaho Territory,  United States · Died 5 July 1954 · Logan, Cache, Utah, United States · Jace Eugene Richins's 2× great-grandparents
+Born 15 April 1877 · Paris, Bear Lake, Idaho Territory,  United States · Died 5 July 1954 · Logan, Cache, Utah, United States · Generation 4
 
 ## Family
 - Father: [[John Allen Sutton (KWZ8-RFV)|John Allen Sutton]]
@@ -28,11 +28,11 @@ Born 15 April 1877 · Paris, Bear Lake, Idaho Territory,  United States · Died 
 - **Residence**: 1900 · ED 15 Paris, Dingle Precincts Paris city, Bear Lake, Idaho, United States
 - **Residence**: 1910 · Logan Ward 4, , Utah
 - **Residence**: 1920 · River Heights, Cache, Utah, United States
-- **Mission**: 1930 · German-Austrian Mission, Central Europe, Europe
+- **data:,Mission**: 1930 · German-Austrian Mission, Central Europe, Europe
 - **Residence**: 1930 · Logan, Cache, Utah, United States
 - **Residence**: 1940 · Logan Election Precinct, Logan, Ward 3, Cache, Utah
 - **Residence**: 1950 · Logan, Cache, Utah, United States
-- **USER_DEFINED**: 1954 · Logan, Cache, Utah, United States · Obituary
+- **data:,USER_DEFINED**: 1954 · Logan, Cache, Utah, United States · Obituary
 - **Burial**: 8 July 1954 · Logan Cemetery, Logan, Cache, Utah, United States
 
 ## Photos & documents

@@ -7,14 +7,14 @@ fs_id: KW8L-S3Z
 generation: 4
 born: 25 September 1882 · Oakley, Cassia, Idaho Territory, United States
 died: 27 October 1954 · Portland, Multnomah, Oregon, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Henry Francis McBride
 
-Born 25 September 1882 · Oakley, Cassia, Idaho Territory, United States · Died 27 October 1954 · Portland, Multnomah, Oregon, United States · Jace Eugene Richins's 2× great-grandparents
+Born 25 September 1882 · Oakley, Cassia, Idaho Territory, United States · Died 27 October 1954 · Portland, Multnomah, Oregon, United States · Generation 4
 
 ## Family
 - Father: [[Thomas Aaron McBride (KWNW-G5L)|Thomas Aaron McBride]]
@@ -25,23 +25,21 @@ Born 25 September 1882 · Oakley, Cassia, Idaho Territory, United States · Died
 - **Birth**: 25 September 1882 · Oakley, Cassia, Idaho Territory, United States
 - **Death**: 27 October 1954 · Portland, Multnomah, Oregon, United States
 - **Residence**: 1900 · Oakley, Cassia, Idaho, United States
-- **Draft+Registration**: from 1917 to 1918 · Fallon, Churchill, Nevada, United States
+- **data:,Draft+Registration**: from 1917 to 1918 · Fallon, Churchill, Nevada, United States
 - **Residence**: 1920 · Fallon, Churchill, Nevada, United States
 - **Residence**: 1930 · Humboldt, Nevada, United States
 - **Residence**: 1935 · Union Township, Humboldt, Nevada, United States
 - **Residence**: 1940 · Union Township, Humboldt, Nevada, United States
-- **Military+Draft+Registration**: 30 April 1942 · Winnemucca, Humboldt, Nevada, United States
-- **Draft+Registration**: 1942 · Winnemucca, Humboldt, Nevada, United States
-- **Social+Program+Claim**: 20 November 1947
+- **data:,Military+Draft+Registration**: 30 April 1942 · Winnemucca, Humboldt, Nevada, United States
+- **data:,Draft+Registration**: 1942 · Winnemucca, Humboldt, Nevada, United States
+- **data:,Social+Program+Claim**: 20 November 1947
 - **Residence**: 19 April 1950 · Centerville, Humboldt, Nevada, United States
-- **Obituary**: 29 October 1954
+- **data:,Obituary**: 29 October 1954
 - **Burial**: 30 October 1954 · Skyline Memorial Gardens, Portland, Multnomah, Oregon, United States
 
 ## Stories
 
 ### Faith Promoting Story about the birth of Frances Henry McBride
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3615539)_
 
 ## Photos & documents
 

@@ -7,14 +7,14 @@ fs_id: KWJ8-2JM
 generation: 5
 born: 7 December 1842 · Loxley, Warwickshire, England, United Kingdom
 died: 30 July 1924 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Esther Stowe Ovard
 
-Born 7 December 1842 · Loxley, Warwickshire, England, United Kingdom · Died 30 July 1924 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 7 December 1842 · Loxley, Warwickshire, England, United Kingdom · Died 30 July 1924 · Henefer, Summit, Utah, United States · Generation 5
 
 ## Family
 - Father: [[Thomas Ovard (KWJD-SCG)|Thomas Ovard]]
@@ -25,12 +25,12 @@ Born 7 December 1842 · Loxley, Warwickshire, England, United Kingdom · Died 30
 - **Birth**: 7 December 1842 · Loxley, Warwickshire, England, United Kingdom
 - **Death**: 30 July 1924 · Henefer, Summit, Utah, United States
 - **Christening**: 24 March 1844 · Loxley, Warwickshire, England, United Kingdom
-- **Christened**: 24 March 1844 · Loxley, Warwickshire, England, United Kingdom
+- **data:,Christened**: 24 March 1844 · Loxley, Warwickshire, England, United Kingdom
 - **Residence**: 1851 · Newbold Pacey, Warwickshire, England
-- **Immigration**: 1859
+- **data:,Immigration**: 1859
 - **Residence**: 1860 · Douglas, Nebraska Territory, United States
-- **Immigration**: 30 Aug 1860
-- **Immigration**: 30 August 1860 · Utah, United States
+- **data:,Immigration**: 30 Aug 1860
+- **data:,Immigration**: 30 August 1860 · Utah, United States
 - **Residence**: 1900 · Henefer, Summit, Utah, United States
 - **Burial**: 2 August 1924 · Henefer Cemetery, Henefer, Summit, Utah, United States
 - **Residence**: England
@@ -39,19 +39,11 @@ Born 7 December 1842 · Loxley, Warwickshire, England, United Kingdom · Died 30
 
 ### History of George Madison Richins and Esther Stowe Ovard Part 2
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871912)_
-
 ### History of George Madison Richins and Esther Stowe Ovard Part 1
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871961)_
 
 ### Glenn's Early Years- Douglas Richins Interview
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196660473)_
-
 ### Excerpts from WJS SR. Journal regarding "Mother Ovard" Hanna Stowe's Death
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/213985148)_
 
 ## Photos & documents
 

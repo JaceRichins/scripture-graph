@@ -7,16 +7,18 @@ fs_id: KWJH-X5P
 generation: 5
 born: 18520509 · Orangeburg,South Carolina
 died: 4 December 1930 · Idaho, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Samuel Barton Bair
 
-Born 18520509 · Orangeburg,South Carolina · Died 4 December 1930 · Idaho, United States · Jace Eugene Richins's 3× great-grandparents
+Born 18520509 · Orangeburg,South Carolina · Died 4 December 1930 · Idaho, United States · Generation 5
 
 ## Family
+- Father: [[Joshua A. Bair (LLSM-N3D)|Joshua A. Bair]]
+- Mother: [[Margaret Ann Baltzegar (LLQQ-WRJ)|Margaret Ann Baltzegar]]
 - Children in this line: [[Madge Adella Bair (LLSM-N91)|Madge Adella Bair]]
 
 ## Life

@@ -7,16 +7,18 @@ fs_id: LLQX-X98
 generation: 6
 born: 6 March 1800 · Painswick, Gloucestershire, England
 died: 14 December 1848 · Sheepscombe, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Richard Richins
 
-Born 6 March 1800 · Painswick, Gloucestershire, England · Died 14 December 1848 · Sheepscombe, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
+Born 6 March 1800 · Painswick, Gloucestershire, England · Died 14 December 1848 · Sheepscombe, Gloucestershire, England, United Kingdom · Generation 6
 
 ## Family
+- Father: [[Henry Richins Sr. (L21P-HKQ)|Henry Richins Sr.]]
+- Mother: [[Sarah Haines or Haynes (LTLX-XC3)|Sarah Haines or Haynes]]
 - Children in this line: [[Edward Richins (KW8L-N6R)|Edward Richins]], [[Charles Wager Richins (KVP1-SVD)|Charles Wager Richins]]
 
 ## Life
@@ -29,15 +31,9 @@ Born 6 March 1800 · Painswick, Gloucestershire, England · Died 14 December 184
 
 ### Children of Richard & Priscilla Richins
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/6400916)_
-
 ### Richard Richins and Charlotte Wager by Hazel Richins
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20148733)_
-
 ### Richard Richins, The Seed from Which the Richins Saints grew
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/170991489)_
 
 ## Photos & documents
 

@@ -7,16 +7,18 @@ fs_id: LLQQ-WRD
 generation: 5
 born: 17 November 1854 · Branchville, Orangeburg, South Carolina, United States
 died: 31 May 1940 · Winnemucca, Humboldt, Nevada, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Julia Susan Bonnett
 
-Born 17 November 1854 · Branchville, Orangeburg, South Carolina, United States · Died 31 May 1940 · Winnemucca, Humboldt, Nevada, United States · Jace Eugene Richins's 3× great-grandparents
+Born 17 November 1854 · Branchville, Orangeburg, South Carolina, United States · Died 31 May 1940 · Winnemucca, Humboldt, Nevada, United States · Generation 5
 
 ## Family
+- Father: [[Daniel David Bonnett (LLSM-NQS)|Daniel David Bonnett]]
+- Mother: [[Mary Elizabeth McMichael (LLSM-NQ3)|Mary Elizabeth McMichael]]
 - Children in this line: [[Madge Adella Bair (LLSM-N91)|Madge Adella Bair]]
 
 ## Life

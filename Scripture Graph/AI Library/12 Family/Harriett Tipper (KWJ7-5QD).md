@@ -7,16 +7,18 @@ fs_id: KWJ7-5QD
 generation: 6
 born: 7 May 1824 · Birdlip, Gloucestershire, England, United Kingdom
 died: 12 November 1865 · Nettleton, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Harriett Tipper
 
-Born 7 May 1824 · Birdlip, Gloucestershire, England, United Kingdom · Died 12 November 1865 · Nettleton, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
+Born 7 May 1824 · Birdlip, Gloucestershire, England, United Kingdom · Died 12 November 1865 · Nettleton, Gloucestershire, England, United Kingdom · Generation 6
 
 ## Family
+- Father: [[William Newport Tipper (LCJ5-1Z3)|William Newport Tipper]]
+- Mother: [[Jane Blackwell (L4H8-5V1)|Jane Blackwell]]
 - Children in this line: [[Caroline Ellen Tipper Jones (KWJ7-5QZ)|Caroline Ellen Tipper Jones]]
 
 ## Life

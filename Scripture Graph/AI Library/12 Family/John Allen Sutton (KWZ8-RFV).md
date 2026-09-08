@@ -7,31 +7,33 @@ fs_id: KWZ8-RFV
 generation: 5
 born: 16 November 1834 · Leire, Leicestershire, England, United Kingdom
 died: 11 May 1913 · Paris, Bear Lake, Idaho, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Allen Sutton
 
-Born 16 November 1834 · Leire, Leicestershire, England, United Kingdom · Died 11 May 1913 · Paris, Bear Lake, Idaho, United States · Jace Eugene Richins's 3× great-grandparents
+Born 16 November 1834 · Leire, Leicestershire, England, United Kingdom · Died 11 May 1913 · Paris, Bear Lake, Idaho, United States · Generation 5
 
 ## Family
+- Father: [[John Sutton (P3W2-2SN)|John Sutton]]
+- Mother: [[Ann Allen (LHR1-KH8)|Ann Allen]]
 - Children in this line: [[Margaret Ann Sutton (KWCQ-H87)|Margaret Ann Sutton]]
 
 ## Life
 - **Birth**: 16 November 1834 · Leire, Leicestershire, England, United Kingdom
 - **Death**: 11 May 1913 · Paris, Bear Lake, Idaho, United States
-- **Baptism**: 25 May 1835 · Leire, Leicestershire, England, United Kingdom
+- **data:,Baptism**: 25 May 1835 · Leire, Leicestershire, England, United Kingdom
 - **Christening**: 25 May 1835 · Leire, Leicestershire, England, United Kingdom
 - **Residence**: 1841 · Leire, Leicestershire, England, United Kingdom
-- **LDS+Baptism**: 19 November 1849
+- **data:,LDS+Baptism**: 19 November 1849
 - **Residence**: 1851 · Leire, Leicestershire, England, United Kingdom
-- **Immigration**: from 23 September 1854 to 25 September 1854 · Utah, United States
-- **Immigration**: 25 September 1854
+- **data:,Immigration**: from 23 September 1854 to 25 September 1854 · Utah, United States
+- **data:,Immigration**: 25 September 1854
 - **Residence**: 1860 · Salt Lake City, Salt Lake, Utah, United States · 16th Ward 
 - **Residence**: 1870 · Utah, United States
-- **Mission**: 1882 · Great Britain
+- **data:,Mission**: 1882 · Great Britain
 - **Burial**: 14 May 1913 · Paris Cemetery, Paris, Bear Lake, Idaho, United States
 - **Residence**: Paris, Bear Lake, Idaho, United States
 
@@ -39,35 +41,19 @@ Born 16 November 1834 · Leire, Leicestershire, England, United Kingdom · Died 
 
 ### The Life of John Allen Sutton
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3011861)_
-
 ### John Sutton House
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19862755)_
 
 ### George William Sutton
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19862813)_
-
 ### Thomas Sutton and Joseph Sutton
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19862834)_
 
 ### Life Story of Richard Pomeroy Sutton as told to his daughter, Dorene. 
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20474150)_
-
 ### Idaho’s First “Dentist”
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/22548845)_
 
 ### Sacrifice brings forth the blessings of heaven
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/202638935)_
-
 ### Short history written by Clara Sutton, a granddaughter. 
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/233766858)_
 
 ## Photos & documents
 

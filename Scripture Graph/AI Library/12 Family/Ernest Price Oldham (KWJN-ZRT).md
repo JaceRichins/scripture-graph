@@ -7,14 +7,14 @@ fs_id: KWJN-ZRT
 generation: 4
 born: 21 November 1875 · Paradise, Cache, Utah, United States
 died: 17 November 1937 · Coalville, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ernest Price Oldham
 
-Born 21 November 1875 · Paradise, Cache, Utah, United States · Died 17 November 1937 · Coalville, Summit, Utah, United States · Jace Eugene Richins's 2× great-grandparents
+Born 21 November 1875 · Paradise, Cache, Utah, United States · Died 17 November 1937 · Coalville, Summit, Utah, United States · Generation 4
 
 ## Family
 - Father: [[Samuel Oldham (KWZ1-FBS)|Samuel Oldham]]
@@ -24,13 +24,13 @@ Born 21 November 1875 · Paradise, Cache, Utah, United States · Died 17 Novembe
 ## Life
 - **Birth**: 21 November 1875 · Paradise, Cache, Utah, United States
 - **Death**: 17 November 1937 · Coalville, Summit, Utah, United States
-- **Baptism**: 7 July 1883
-- **Baptism**: July 1884
-- **Mission**: 1897 · Great Britain
-- **Mission**: 1902 · Northern States 
+- **data:,Baptism**: 7 July 1883
+- **data:,Baptism**: July 1884
+- **data:,Mission**: 1897 · Great Britain
+- **data:,Mission**: 1902 · Northern States 
 - **Residence**: 1910 · Oakley, Cassia, Idaho, United States
-- **Military+Draft+Registration**: from 1917 to 1918 · Logan, Cache, Utah, United States
-- **Draft+Registration**: from 1917 to 1918 · Cache, Utah, United States
+- **data:,Military+Draft+Registration**: from 1917 to 1918 · Logan, Cache, Utah, United States
+- **data:,Draft+Registration**: from 1917 to 1918 · Cache, Utah, United States
 - **Residence**: 1920 · Logan, Cache, Utah, United States
 - **Residence**: 1930 · Salt Lake City, Salt Lake, Utah, United States
 - **Burial**: 20 November 1937 · Mendon City Cemetery, Mendon, Cache, Utah, United States

@@ -7,14 +7,14 @@ fs_id: KWCR-4KR
 generation: 4
 born: 23 July 1880 · Henefer, Summit, Utah, United States
 died: 24 December 1978 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Susannah Jones Stephens
 
-Born 23 July 1880 · Henefer, Summit, Utah, United States · Died 24 December 1978 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 2× great-grandparents
+Born 23 July 1880 · Henefer, Summit, Utah, United States · Died 24 December 1978 · Henefer, Summit, Utah, United States · Generation 4
 
 ## Family
 - Father: [[Thomas Henry Stephens (KWNL-JWK)|Thomas Henry Stephens]]
@@ -31,8 +31,6 @@ Born 23 July 1880 · Henefer, Summit, Utah, United States · Died 24 December 19
 ## Stories
 
 ### Life Story of Susannah Jones Stephens and James Henry Fowler
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/55850422)_
 
 ## Photos & documents
 

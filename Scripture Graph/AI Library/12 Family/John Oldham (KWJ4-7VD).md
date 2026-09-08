@@ -7,16 +7,18 @@ fs_id: KWJ4-7VD
 generation: 6
 born: 13 June 1813 · Haslingden, Lancashire, England, United Kingdom
 died: 24 November 1874 · Paradise, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Oldham
 
-Born 13 June 1813 · Haslingden, Lancashire, England, United Kingdom · Died 24 November 1874 · Paradise, Cache, Utah, United States · Jace Eugene Richins's 4× great-grandparents
+Born 13 June 1813 · Haslingden, Lancashire, England, United Kingdom · Died 24 November 1874 · Paradise, Cache, Utah, United States · Generation 6
 
 ## Family
+- Father: [[William Oldham (LT3V-JGX)|William Oldham]]
+- Mother: [[Alice Barnes (LLQN-QQG)|Alice Barnes]]
 - Children in this line: [[Samuel Oldham (KWZ1-FBS)|Samuel Oldham]]
 
 ## Life
@@ -25,14 +27,14 @@ Born 13 June 1813 · Haslingden, Lancashire, England, United Kingdom · Died 24 
 - **Christening**: 1 July 1813 · Haslingden, Lancashire, England, United Kingdom
 - **Residence**: 1841 · Bury, Lancashire, England, United Kingdom · Moorside
 - **Residence**: 1841 · Manchester, Lancashire, England, United Kingdom
-- **Baptism+**: 6 March 1845 · Bury, Lancashire, England, United Kingdom · into The Church of Jesus Christ of Latter-day Saints
+- **data:,Baptism+**: 6 March 1845 · Bury, Lancashire, England, United Kingdom · into The Church of Jesus Christ of Latter-day Saints
 - **Residence**: 1851 · Bury, Lancashire, England, United Kingdom · Grundy Road
 - **Residence**: 1851 · Manchester, Lancashire, England
 - **Occupation**: 1861 · Oldham, Lancashire, England, United Kingdom · Cotton weaver
 - **Residence**: 1861 · Oldham, Lancashire, England, United Kingdom · Greenacres Road
-- **immigration**: Came to Utah with wife and 7 children on the William S Warren Co. 1864
-- **Immigration**: 4 October 1864 · Utah, United States
-- **Endowment**: 30 November 1868 · Endowment House, Salt Lake City, Salt Lake, Utah Territory, United States · Received Endowment in the Temple
+- **data:,immigration**: Came to Utah with wife and 7 children on the William S Warren Co. 1864
+- **data:,Immigration**: 4 October 1864 · Utah, United States
+- **data:,Endowment**: 30 November 1868 · Endowment House, Salt Lake City, Salt Lake, Utah Territory, United States · Received Endowment in the Temple
 - **Residence**: 1871 · Manchester, Lancashire, England, United Kingdom
 - **Burial**: 27 November 1874 · Paradise Cemetery, Paradise, Cache, Utah, United States
 - **Residence**: Copestick Street
@@ -41,11 +43,7 @@ Born 13 June 1813 · Haslingden, Lancashire, England, United Kingdom · Died 24 
 
 ### Life of John and Maria Heap Oldham
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/13274974)_
-
 ### Gravestone coordinates
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/238281212)_
 
 ## Photos & documents
 

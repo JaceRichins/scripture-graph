@@ -7,26 +7,28 @@ fs_id: KWCN-ST1
 generation: 5
 born: 9 September 1864 · Pleasant Grove, Utah, Utah, United States
 died: 14 April 1952 · Garland, Box Elder, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Oscar Lycortas Winters
 
-Born 9 September 1864 · Pleasant Grove, Utah, Utah, United States · Died 14 April 1952 · Garland, Box Elder, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 9 September 1864 · Pleasant Grove, Utah, Utah, United States · Died 14 April 1952 · Garland, Box Elder, Utah, United States · Generation 5
 
 ## Family
+- Father: [[Oscar F. Winters (KWJC-2JL)|Oscar F. Winters]]
+- Mother: [[Mary Ann Stearns (KWJC-2J2)|Mary Ann Stearns]]
 - Children in this line: [[Nina Pearl Winters (KWZB-ZQG)|Nina Pearl Winters]]
 
 ## Life
 - **Birth**: 9 September 1864 · Pleasant Grove, Utah, Utah, United States
 - **Death**: 14 April 1952 · Garland, Box Elder, Utah, United States
-- **Blessing**: 3 Feb 1865
+- **data:,Blessing**: 3 Feb 1865
 - **Residence**: 1870 · Pleasant Grove, Utah, Utah Territory, United States
-- **Baptism**: 1872
+- **data:,Baptism**: 1872
 - **Residence**: 1880 · Pleasant Grove, Utah, Utah Territory, United States
-- **Elder%20Ordination**: 7 Sep 1890
+- **data:,Elder%20Ordination**: 7 Sep 1890
 - **Residence**: 1900 · Ogden, Weber, Utah, United States
 - **Residence**: 1910 · Ogden, Weber, Utah, United States
 - **Residence**: 1920 · Garland, Box Elder, Utah, United States
@@ -37,8 +39,8 @@ Born 9 September 1864 · Pleasant Grove, Utah, Utah, United States · Died 14 Ap
 - **Occupation**: Utah, United States · Salesman and Manager, Implement Company
 - **MilitaryService**: Utah, United States · Military Service
 - **Residence**: Garland, Box Elder, Utah
-- **Membership**: Utah, United States
-- **Membership**: Ogden, Weber, Utah, United States
+- **data:,Membership**: Utah, United States
+- **data:,Membership**: Ogden, Weber, Utah, United States
 
 ## Photos & documents
 

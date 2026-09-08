@@ -7,16 +7,18 @@ fs_id: KWJC-GPZ
 generation: 5
 born: 13 September 1832 · Kirtland, Lake, Ohio, United States
 died: 4 August 1915 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Kimball Whitney
 
-Born 13 September 1832 · Kirtland, Lake, Ohio, United States · Died 4 August 1915 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 13 September 1832 · Kirtland, Lake, Ohio, United States · Died 4 August 1915 · Salt Lake City, Salt Lake, Utah, United States · Generation 5
 
 ## Family
+- Father: [[Newel Kimball Whitney (KWVM-M24)|Newel Kimball Whitney]]
+- Mother: [[Elizabeth Ann Smith (KWVM-M2C)|Elizabeth Ann Smith]]
 - Children in this line: [[Edmeresa Whitney (LKVY-NCR)|Edmeresa Whitney]]
 
 ## Life
@@ -33,8 +35,6 @@ Born 13 September 1832 · Kirtland, Lake, Ohio, United States · Died 4 August 1
 ## Stories
 
 ### Martin Handcart Company Rescuer
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/8657098)_
 
 ## Photos & documents
 

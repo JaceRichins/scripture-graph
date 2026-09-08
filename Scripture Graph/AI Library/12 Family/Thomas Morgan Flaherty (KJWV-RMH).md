@@ -7,14 +7,14 @@ fs_id: KJWV-RMH
 generation: 5
 born: 11 Jan 1845 · Botetcourt, Virginia, United States
 died: 13 August 1920 · Frisco, Pontotoc, Oklahoma, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Morgan Flaherty
 
-Born 11 Jan 1845 · Botetcourt, Virginia, United States · Died 13 August 1920 · Frisco, Pontotoc, Oklahoma, United States · Jace Eugene Richins's 3× great-grandparents
+Born 11 Jan 1845 · Botetcourt, Virginia, United States · Died 13 August 1920 · Frisco, Pontotoc, Oklahoma, United States · Generation 5
 
 ## Family
 - Father: [[James C. Flaherty (K81F-WY2)|James C. Flaherty]]
@@ -33,7 +33,7 @@ Born 11 Jan 1845 · Botetcourt, Virginia, United States · Died 13 August 1920 �
 - **Residence**: 1910 · Stonewall, Pontotoc, Oklahoma, United States
 - **Burial**: 1920 · Frisco, Pontotoc, Oklahoma, United States of America
 - **Residence**: 1920 · Stonewall, Pontotoc, Oklahoma, United States
-- **Pension**: 1907-1933 · United States
+- **data:,Pension**: 1907-1933 · United States
 - **Residence**: Frisco, Oklahoma
 
 ## Photos & documents

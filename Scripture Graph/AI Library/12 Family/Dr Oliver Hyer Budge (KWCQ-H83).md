@@ -7,14 +7,14 @@ fs_id: KWCQ-H83
 generation: 4
 born: 3 April 1872 · Paris, Bear Lake, Idaho, United States
 died: 10 July 1965 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Dr Oliver Hyer Budge
 
-Born 3 April 1872 · Paris, Bear Lake, Idaho, United States · Died 10 July 1965 · Logan, Cache, Utah, United States · Jace Eugene Richins's 2× great-grandparents
+Born 3 April 1872 · Paris, Bear Lake, Idaho, United States · Died 10 July 1965 · Logan, Cache, Utah, United States · Generation 4
 
 ## Family
 - Father: [[William Budge (KWC8-8X9)|William Budge]]
@@ -26,25 +26,23 @@ Born 3 April 1872 · Paris, Bear Lake, Idaho, United States · Died 10 July 1965
 - **Death**: 10 July 1965 · Logan, Cache, Utah, United States
 - **Christening**: 11 April 1872 · Paris, Oneida, Idaho Territory, United States
 - **Residence**: 1880 · Paris, Bear Lake, Idaho, United States
-- **Passport%20Application**: 1896 · Idaho, United States
+- **data:,Passport%20Application**: 1896 · Idaho, United States
 - **Residence**: 1900 · ED 15 Paris, Dingle Precincts Paris city, Bear Lake, Idaho, United States
-- **High%20Priest%20Ordination**: 2 Dec 1901
+- **data:,High%20Priest%20Ordination**: 2 Dec 1901
 - **Residence**: 1910 · Logan Ward 4, , Utah
 - **Residence**: 1920 · River Heights, Cache, Utah, United States
-- **Mission**: German-Austrian · Oliver Hyer Budge - German-Austrian
+- **data:,Mission**: German-Austrian · Oliver Hyer Budge - German-Austrian
 - **Residence**: 1930 · Logan, Cache, Utah, United States
 - **Residence**: 1940 · Logan Election Precinct, Logan, Ward 3, Cache, Utah
 - **Residence**: 1950 · Logan, Cache, Utah, United States
-- **USER_DEFINED**: 1965 · Brigham City, Box Elder, Utah, United States · Obituary
+- **data:,USER_DEFINED**: 1965 · Brigham City, Box Elder, Utah, United States · Obituary
 - **Burial**: 14 July 1965 · Logan Cemetery, Logan, Cache, Utah, United States
 - **Residence**: Paris, Idaho
-- **Membership**: Smithfield, Cache, Utah, United States
+- **data:,Membership**: Smithfield, Cache, Utah, United States
 
 ## Stories
 
 ### Budge Cabin up Logan Canyon
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2716181)_
 
 ## Photos & documents
 

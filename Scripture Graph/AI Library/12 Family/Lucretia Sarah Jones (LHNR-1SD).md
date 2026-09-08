@@ -7,16 +7,18 @@ fs_id: LHNR-1SD
 generation: 6
 born: 17 December 1829 · Alabama, United States
 died: 1 July 1893 · Fayetteville, Washington, Arkansas, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Lucretia Sarah Jones
 
-Born 17 December 1829 · Alabama, United States · Died 1 July 1893 · Fayetteville, Washington, Arkansas, United States · Jace Eugene Richins's 4× great-grandparents
+Born 17 December 1829 · Alabama, United States · Died 1 July 1893 · Fayetteville, Washington, Arkansas, United States · Generation 6
 
 ## Family
+- Father: [[John Otter Jones (LZNN-5JJ)|John Otter Jones]]
+- Mother: [[Lucretia Sarah Bell (MY8T-LLM)|Lucretia Sarah Bell]]
 - Children in this line: [[Sarah Jane Patton (KJWV-R99)|Sarah Jane Patton]]
 
 ## Life

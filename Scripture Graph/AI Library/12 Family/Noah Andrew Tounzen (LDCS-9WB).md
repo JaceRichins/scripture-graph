@@ -7,14 +7,14 @@ fs_id: LDCS-9WB
 generation: 5
 born: 10 March 1860 · Hickman Township, Scott, Arkansas, United States
 died: 1907 · Crawford, Arkansas, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Noah Andrew Tounzen
 
-Born 10 March 1860 · Hickman Township, Scott, Arkansas, United States · Died 1907 · Crawford, Arkansas, United States · Jace Eugene Richins's 3× great-grandparents
+Born 10 March 1860 · Hickman Township, Scott, Arkansas, United States · Died 1907 · Crawford, Arkansas, United States · Generation 5
 
 ## Family
 - Father: [[Daniel L Townsend (K8QN-LMD)|Daniel L Townsend]]

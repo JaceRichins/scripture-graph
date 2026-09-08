@@ -7,16 +7,18 @@ fs_id: KWNR-7PT
 generation: 5
 born: 11 December 1838 · North Shields, Northumberland, England, United Kingdom
 died: 16 May 1902 · Paris, Bear Lake, Idaho, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Margaret Hannah Shepherd
 
-Born 11 December 1838 · North Shields, Northumberland, England, United Kingdom · Died 16 May 1902 · Paris, Bear Lake, Idaho, United States · Jace Eugene Richins's 3× great-grandparents
+Born 11 December 1838 · North Shields, Northumberland, England, United Kingdom · Died 16 May 1902 · Paris, Bear Lake, Idaho, United States · Generation 5
 
 ## Family
+- Father: [[Richard Shepherd (KWJ5-L47)|Richard Shepherd]]
+- Mother: [[Ann Henderson (KWJ5-L4M)|Ann Henderson]]
 - Children in this line: [[Margaret Ann Sutton (KWCQ-H87)|Margaret Ann Sutton]]
 
 ## Life
@@ -24,11 +26,11 @@ Born 11 December 1838 · North Shields, Northumberland, England, United Kingdom 
 - **Death**: 16 May 1902 · Paris, Bear Lake, Idaho, United States
 - **Residence**: 1838 · Tynemouth, Northumberland, England, United Kingdom
 - **Christening**: 8 May 1839 · Tynemouth, Northumberland, England, United Kingdom
-- **Baptism**: 8 May 1839 · Tynemouth, Northumberland, England, United Kingdom
+- **data:,Baptism**: 8 May 1839 · Tynemouth, Northumberland, England, United Kingdom
 - **Residence**: 1841 · Tynemouth, Northumberland, England, United Kingdom
 - **Residence**: 1851 · Tynemouth, Northumberland, England, United Kingdom
-- **Immigration**: 23-25 September 1854 · Utah, United States
-- **Immigration**: 25 September 1854
+- **data:,Immigration**: 23-25 September 1854 · Utah, United States
+- **data:,Immigration**: 25 September 1854
 - **Residence**: 1860 · 16th Ward Great Salt Lake City, Salt Lake, Utah Territory, United States
 - **Residence**: 1870 · Utah, United States
 - **Residence**: 1900 · ED 15 Paris, Dingle Precincts Paris city, Bear Lake, Idaho, United States
@@ -38,11 +40,7 @@ Born 11 December 1838 · North Shields, Northumberland, England, United Kingdom 
 
 ### George William Sutton
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19862813)_
-
 ### Thomas Sutton and Joseph Sutton
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19862834)_
 
 ## Photos & documents
 

@@ -7,16 +7,18 @@ fs_id: K82P-HKF
 generation: 6
 born: 28 February 1830 · Princeton, Caldwell, Kentucky, United States
 died: 17 February 1920 · Van Buren, Crawford, Arkansas, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Elizabeth Frazee
 
-Born 28 February 1830 · Princeton, Caldwell, Kentucky, United States · Died 17 February 1920 · Van Buren, Crawford, Arkansas, United States · Jace Eugene Richins's 4× great-grandparents
+Born 28 February 1830 · Princeton, Caldwell, Kentucky, United States · Died 17 February 1920 · Van Buren, Crawford, Arkansas, United States · Generation 6
 
 ## Family
+- Father: [[Samuel Frazee (9ZHD-2JW)|Samuel Frazee]]
+- Mother: [[Winneford Scott (9ZHD-2FB)|Winneford Scott]]
 - Children in this line: [[Noah Andrew Tounzen (LDCS-9WB)|Noah Andrew Tounzen]]
 
 ## Life

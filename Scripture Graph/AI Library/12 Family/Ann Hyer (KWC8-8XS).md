@@ -7,16 +7,18 @@ fs_id: KWC8-8XS
 generation: 5
 born: 25 January 1853 · Bountiful, Davis, Utah Territory, United States
 died: 31 March 1931 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Hyer
 
-Born 25 January 1853 · Bountiful, Davis, Utah Territory, United States · Died 31 March 1931 · Logan, Cache, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 25 January 1853 · Bountiful, Davis, Utah Territory, United States · Died 31 March 1931 · Logan, Cache, Utah, United States · Generation 5
 
 ## Family
+- Father: [[Christian Larsen Hyer (KWJH-WBR)|Christian Larsen Hyer]]
+- Mother: [[Caroline Hogan (KWJX-KS2)|Caroline Hogan]]
 - Children in this line: [[Dr Oliver Hyer Budge (KWCQ-H83)|Dr Oliver Hyer Budge]]
 
 ## Life
@@ -28,8 +30,6 @@ Born 25 January 1853 · Bountiful, Davis, Utah Territory, United States · Died 
 ## Stories
 
 ### Story of grat grandma Anderson
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15552146)_
 
 ## Photos & documents
 

@@ -7,16 +7,18 @@ fs_id: L4HH-Y1L
 generation: 6
 born: 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom
 died: 12 January 1891 · Camp Miserden, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Susanna Ireland
 
-Born 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom · Died 12 January 1891 · Camp Miserden, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
+Born 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom · Died 12 January 1891 · Camp Miserden, Gloucestershire, England, United Kingdom · Generation 6
 
 ## Family
+- Father: [[James Ireland (KV2Y-213)|James Ireland]]
+- Mother: [[Hannah Weston (LCCZ-MB8)|Hannah Weston]]
 - Children in this line: [[Thomas Henry Stephens (KWNL-JWK)|Thomas Henry Stephens]]
 
 ## Life

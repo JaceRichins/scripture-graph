@@ -7,14 +7,14 @@ fs_id: KWZB-ZQP
 generation: 4
 born: 9 January 1889 · Farmington, Davis, Utah, United States
 died: 7 December 1961 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ralph James Stayner
 
-Born 9 January 1889 · Farmington, Davis, Utah, United States · Died 7 December 1961 · Logan, Cache, Utah, United States · Jace Eugene Richins's 2× great-grandparents
+Born 9 January 1889 · Farmington, Davis, Utah, United States · Died 7 December 1961 · Logan, Cache, Utah, United States · Generation 4
 
 ## Family
 - Father: [[Herbert Stayner (KWJ6-HVX)|Herbert Stayner]]
@@ -24,19 +24,19 @@ Born 9 January 1889 · Farmington, Davis, Utah, United States · Died 7 December
 ## Life
 - **Birth**: 9 January 1889 · Farmington, Davis, Utah, United States
 - **Death**: 7 December 1961 · Logan, Cache, Utah, United States
-- **Blessing**: 7 Mar 1889
-- **Baptism**: 1897
+- **data:,Blessing**: 7 Mar 1889
+- **data:,Baptism**: 1897
 - **Residence**: 1900 · ED 207 Plymouth Precinct Fielding, Box Elder, Utah, United States
-- **Mission**: 1909 · Great Britain
-- **Passport%20Application**: 1909 · Utah, United States
-- **Draft%20Registration**: 1917-1918 · Carbon County, Davis County, Utah, United States
-- **Military%20Draft%20Registration**: 1917-1918 · Price, Carbon, Utah, United States
+- **data:,Mission**: 1909 · Great Britain
+- **data:,Passport%20Application**: 1909 · Utah, United States
+- **data:,Draft%20Registration**: 1917-1918 · Carbon County, Davis County, Utah, United States
+- **data:,Military%20Draft%20Registration**: 1917-1918 · Price, Carbon, Utah, United States
 - **Residence**: from 1918 to 1919 · Utah, United States
 - **Burial**: 11 December 1961 · Fielding, Box Elder, Utah, United States
 - **Residence**: Fielding, Box Elder, Utah, United States
 - **Residence**: Evanston, Uinta, Wyoming, United States
-- **Membership**: Farmington, Davis, Utah, United States
-- **Membership**: Bear Lake, Idaho, United States
+- **data:,Membership**: Farmington, Davis, Utah, United States
+- **data:,Membership**: Bear Lake, Idaho, United States
 
 ## Photos & documents
 

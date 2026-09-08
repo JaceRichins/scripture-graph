@@ -7,29 +7,31 @@ fs_id: KWJ6-HVX
 generation: 5
 born: 1 December 1860 · Farmington, Davis, Utah, United States
 died: 27 September 1934 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Herbert Stayner
 
-Born 1 December 1860 · Farmington, Davis, Utah, United States · Died 27 September 1934 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 1 December 1860 · Farmington, Davis, Utah, United States · Died 27 September 1934 · Salt Lake City, Salt Lake, Utah, United States · Generation 5
 
 ## Family
+- Father: [[Arthur Stayner Sr. (KWJD-CW9)|Arthur Stayner Sr.]]
+- Mother: [[Emma Irene Turner (KWJ6-XX3)|Emma Irene Turner]]
 - Children in this line: [[Ralph James Stayner (KWZB-ZQP)|Ralph James Stayner]]
 
 ## Life
 - **Birth**: 1 December 1860 · Farmington, Davis, Utah, United States
 - **Death**: 27 September 1934 · Salt Lake City, Salt Lake, Utah, United States
-- **Blessing**: 7 March 1861
-- **Baptism**: 4 Sep 1870
+- **data:,Blessing**: 7 March 1861
+- **data:,Baptism**: 4 Sep 1870
 - **Residence**: 1880 · Farmington, Davis, Utah, United States
 - **Residence**: 1900 · ED 207 Plymouth Precinct Fielding, Box Elder, Utah, United States
 - **Residence**: 1910 · Fielding, , Utah
 - **Residence**: 1920 · Fielding, Box Elder, Utah, United States
 - **Burial**: 29 September 1934 · Fielding City Cemetery, Fielding, Box Elder, Utah, United States
-- **Membership**: Farmington, Davis, Utah, United States
+- **data:,Membership**: Farmington, Davis, Utah, United States
 
 ## Photos & documents
 

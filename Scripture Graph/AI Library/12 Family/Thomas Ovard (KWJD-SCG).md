@@ -7,16 +7,18 @@ fs_id: KWJD-SCG
 generation: 6
 born: 27 July 1815 · Swerford, Oxfordshire, England, United Kingdom
 died: 7 March 1890 · American Fork, Utah, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Ovard
 
-Born 27 July 1815 · Swerford, Oxfordshire, England, United Kingdom · Died 7 March 1890 · American Fork, Utah, Utah, United States · Jace Eugene Richins's 4× great-grandparents
+Born 27 July 1815 · Swerford, Oxfordshire, England, United Kingdom · Died 7 March 1890 · American Fork, Utah, Utah, United States · Generation 6
 
 ## Family
+- Father: [[William Ovard (KWJB-7C2)|William Ovard]]
+- Mother: [[Mary Fletcher (L446-HNN)|Mary Fletcher]]
 - Children in this line: [[Esther Stowe Ovard (KWJ8-2JM)|Esther Stowe Ovard]]
 
 ## Life
@@ -27,10 +29,10 @@ Born 27 July 1815 · Swerford, Oxfordshire, England, United Kingdom · Died 7 Ma
 - **Residence**: 1851 · Newbold Pacey, Warwickshire, England
 - **Residence**: March 1857 · Street Woolwick, 4 Browns Building, Leam Terrace, East Leamington, Warwickshire, England · Last Residence of Ovard Family in England Before Sailing to America
 - **Occupation**: March 1857 · Leamington, Warwickshire, England · Carter - One who sells things from a cart
-- **Biography**: from 1847 to 1868 · Utah, United States
+- **data:,Biography**: from 1847 to 1868 · Utah, United States
 - **Residence**: 1860 · Douglas, Nebraska Territory, United States
-- **Immigration**: 30 August 1860 · Utah, United States
-- **Thomas%20and%20Hannah%20Stowe%20Ovard%20Crossed%20the%20Plains**: 14 April 1861 · American Fork, Utah, Utah, United States · with the Samuel D. White company, Arriving in Salt Lake City, Utah 27 August 1860.  Settled in American Fork
+- **data:,Immigration**: 30 August 1860 · Utah, United States
+- **data:,Thomas%20and%20Hannah%20Stowe%20Ovard%20Crossed%20the%20Plains**: 14 April 1861 · American Fork, Utah, Utah, United States · with the Samuel D. White company, Arriving in Salt Lake City, Utah 27 August 1860.  Settled in American Fork
 - **Residence**: 1870 · American Fork, Utah, Utah, United States
 - **Burial**: March 1890 · American Fork Cemetery, 100 East 650 North, American Fork, Utah, Utah, United States
 
@@ -38,23 +40,13 @@ Born 27 July 1815 · Swerford, Oxfordshire, England, United Kingdom · Died 7 Ma
 
 ### Notes on Thomas Ovard
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18024750)_
-
 ### Sarah Elizabeth Ovard and Joseph Thomas Jordan 
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/28722474)_
 
 ### Ovard Story by Sarah Eliza Smith Howell, William Joseph and Mary Ann Ovard Smith
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/32723046)_
-
 ### Ship Journey on the George Washington to America
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/212975944)_
-
 ### Excerpts from WJS SR. Journal regarding "Mother Ovard" Hanna Stowe's Death
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/213985148)_
 
 ## Photos & documents
 

@@ -7,14 +7,14 @@ fs_id: KWJ7-5QZ
 generation: 5
 born: 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom
 died: 17 February 1867 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Caroline Ellen Tipper Jones
 
-Born 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom · Died 17 February 1867 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom · Died 17 February 1867 · Henefer, Summit, Utah, United States · Generation 5
 
 ## Family
 - Father: [[Robert Jones (KWJ7-5Q6)|Robert Jones]]
@@ -25,12 +25,12 @@ Born 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom �
 - **Birth**: 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom
 - **Death**: 17 February 1867 · Henefer, Summit, Utah, United States
 - **Christening**: 15 March 1846 · Cirencester, Gloucestershire, England, United Kingdom
-- **Christened**: 15 March 1846 · Cirencester, Gloucestershire, England, United Kingdom
-- **Birth+Registration**: 1846 · Cirencester, Gloucestershire, England, United Kingdom
+- **data:,Christened**: 15 March 1846 · Cirencester, Gloucestershire, England, United Kingdom
+- **data:,Birth+Registration**: 1846 · Cirencester, Gloucestershire, England, United Kingdom
 - **Residence**: 1851 · Cowley, Gloucestershire, England, United Kingdom
-- **Immigration**: 1862 · Utah, United States
+- **data:,Immigration**: 1862 · Utah, United States
 - **Burial**: 20 February 1867 · Henefer, Summit, Utah, United States
-- **adoption**: 1852 · When mother and Step-Father were Married
+- **data:,adoption**: 1852 · When mother and Step-Father were Married
 
 ## Photos & documents
 

@@ -7,14 +7,14 @@ fs_id: KVP1-SVD
 generation: 5
 born: 17 August 1828 · Sheepscombe, Gloucestershire, England, United Kingdom
 died: 27 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Charles Wager Richins
 
-Born 17 August 1828 · Sheepscombe, Gloucestershire, England, United Kingdom · Died 27 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico · Jace Eugene Richins's 3× great-grandparents
+Born 17 August 1828 · Sheepscombe, Gloucestershire, England, United Kingdom · Died 27 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico · Generation 5
 
 ## Family
 - Father: [[Richard Richins (LLQX-X98)|Richard Richins]]
@@ -25,80 +25,54 @@ Born 17 August 1828 · Sheepscombe, Gloucestershire, England, United Kingdom · 
 - **Birth**: 17 August 1828 · Sheepscombe, Gloucestershire, England, United Kingdom
 - **Death**: 27 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico
 - **Christening**: 17 August 1828 · Gloucestershire, England, United Kingdom
-- **BAPL**: 29 DEC 1849
+- **data:,BAPL**: 29 DEC 1849
 - **Residence**: 1851 · Painswick, Gloucestershire, England
 - **Residence**: 1851 · Syde, Gloucestershire, England
-- **Emigration**: 17 Jun 1853
-- **Immigration%20to%20Utah**: 1853 · Mormon Pioneer Overland Travels
-- **Immigration**: 10 Oct 1853 · Utah, United States
-- **Membership**: 10 Oct 1853 · Utah Territory, United States
-- **Financial%20Transaction**: 1 Jan 1855 · Utah Territory, United States
+- **data:,Emigration**: 17 Jun 1853
+- **data:,Immigration%20to%20Utah**: 1853 · Mormon Pioneer Overland Travels
+- **data:,Immigration**: 10 Oct 1853 · Utah, United States
+- **data:,Membership**: 10 Oct 1853 · Utah Territory, United States
+- **data:,Financial%20Transaction**: 1 Jan 1855 · Utah Territory, United States
 - **MilitaryService**: 4 July 1857 · Salt Lake City, Salt Lake, Utah, United States
 - **Residence**: 1860 · 4th Ward Gt Salt Lake City, Great Salt Lake, Utah, United States
 - **Residence**: 1870 · Utah, United States
-- **Membership**: 9 Jul 1877 · Utah Territory, United States
-- **census**: 1880 · Utahville, now Lehi, Maricopa, Arizona, United States
-- **Membership**: 23 Apr 1887 · Utah Territory, United States
-- **Membership**: 1903 · Utah, United States
-- **BURI**: 29 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico
+- **data:,Membership**: 9 Jul 1877 · Utah Territory, United States
+- **data:,census**: 1880 · Utahville, now Lehi, Maricopa, Arizona, United States
+- **data:,Membership**: 23 Apr 1887 · Utah Territory, United States
+- **data:,Membership**: 1903 · Utah, United States
+- **data:,BURI**: 29 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico
 - **Burial**: 29 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico
-- **Patriarchal%20Blessing**: Henefer, Summit, Utah, United States · Given by John Smith, Patriarch
-- **Emigration**: Sheepscombe, Gloucestershire, England, United Kingdom
-- **Membership**: Colonia Díaz, Ascensión, Chihuahua, Mexico
+- **data:,Patriarchal%20Blessing**: Henefer, Summit, Utah, United States · Given by John Smith, Patriarch
+- **data:,Emigration**: Sheepscombe, Gloucestershire, England, United Kingdom
+- **data:,Membership**: Colonia Díaz, Ascensión, Chihuahua, Mexico
 
 ## Stories
 
 ### Basic Facts
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1149222)_
-
 ### A Brief History - The Big House
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1149655)_
 
 ### History of Charles Richins 
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1150666)_
-
 ### Children of Richard & Priscilla Richins
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/6400916)_
-
 ### Charles Wager Richins
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7604346)_
-
 ### Charles Wager Richins
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7604349)_
 
 ### Life History of Thomas Henry and Mary Jones Stephens
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10841178)_
-
 ### A Brief Biography of Joseph William Bond
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/12470706)_
 
 ### History of George Madison Richins and Esther Stowe Ovard Part 2
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871912)_
-
 ### History of George Madison Richins and Esther Stowe Ovard Part 1
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871961)_
 
 ### History of Charles Wager and Louisa Shill Richins
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/93379046)_
-
 ### Life History of Albert F. Richins
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/95942857)_
-
 ### Short History- taken from a document entitled "The Great Greats!" prepared for a family reunion
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/168225129)_
 
 ## Photos & documents
 

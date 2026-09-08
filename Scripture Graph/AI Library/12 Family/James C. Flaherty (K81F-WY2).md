@@ -7,16 +7,18 @@ fs_id: K81F-WY2
 generation: 6
 born: 26 October 1816 · Botetourt, Virginia, United States
 died: 27 April 1894 · Flat Creek, Barry, Missouri, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # James C. Flaherty
 
-Born 26 October 1816 · Botetourt, Virginia, United States · Died 27 April 1894 · Flat Creek, Barry, Missouri, United States · Jace Eugene Richins's 4× great-grandparents
+Born 26 October 1816 · Botetourt, Virginia, United States · Died 27 April 1894 · Flat Creek, Barry, Missouri, United States · Generation 6
 
 ## Family
+- Father: [[Adam O'Flaherty (KHWR-5HG)|Adam O'Flaherty]]
+- Mother: [[Harriett Lavender (KZKB-DT3)|Harriett Lavender]]
 - Children in this line: [[Thomas Morgan Flaherty (KJWV-RMH)|Thomas Morgan Flaherty]]
 
 ## Life

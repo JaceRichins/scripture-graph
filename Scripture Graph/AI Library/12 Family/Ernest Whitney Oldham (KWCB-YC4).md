@@ -7,14 +7,14 @@ fs_id: KWCB-YC4
 generation: 3
 born: 15 September 1905 · Mendon, Cache, Utah, United States
 died: 8 July 1950 · Coalville, Summit, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ernest Whitney Oldham
 
-Born 15 September 1905 · Mendon, Cache, Utah, United States · Died 8 July 1950 · Coalville, Summit, Utah, United States · Jace Eugene Richins's great-grandparents
+Born 15 September 1905 · Mendon, Cache, Utah, United States · Died 8 July 1950 · Coalville, Summit, Utah, United States · Generation 3
 
 ## Family
 - Father: [[Ernest Price Oldham (KWJN-ZRT)|Ernest Price Oldham]]
@@ -30,8 +30,8 @@ Born 15 September 1905 · Mendon, Cache, Utah, United States · Died 8 July 1950
 - **Residence**: 1940 · Coalville, Summit, Utah, United States
 - **Residence**: 10 Apr 1950 · Coalville, Summit, Utah, United States
 - **Burial**: 10 July 1950 · Coalville Cemetery, Coalville, Summit, Utah, United States
-- **Military%20Draft%20Registration**: Coalville, Summit, Utah, United States
-- **Membership**: Cassia, Idaho, United States
+- **data:,Military%20Draft%20Registration**: Coalville, Summit, Utah, United States
+- **data:,Membership**: Cassia, Idaho, United States
 
 ## Photos & documents
 

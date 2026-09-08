@@ -7,16 +7,18 @@ fs_id: K8QN-LMD
 generation: 6
 born: 28 February 1828 · Henry, Henry, Tennessee, United States
 died: 9 April 1883 · Fayetteville, Washington, Arkansas, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Daniel L Townsend
 
-Born 28 February 1828 · Henry, Henry, Tennessee, United States · Died 9 April 1883 · Fayetteville, Washington, Arkansas, United States · Jace Eugene Richins's 4× great-grandparents
+Born 28 February 1828 · Henry, Henry, Tennessee, United States · Died 9 April 1883 · Fayetteville, Washington, Arkansas, United States · Generation 6
 
 ## Family
+- Father: [[Joseph Elias Townsend (KC2D-CQS)|Joseph Elias Townsend]]
+- Mother: [[Mary Lucinda Shoemaker (K48S-3YZ)|Mary Lucinda Shoemaker]]
 - Children in this line: [[Noah Andrew Tounzen (LDCS-9WB)|Noah Andrew Tounzen]]
 
 ## Life

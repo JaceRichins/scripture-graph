@@ -7,14 +7,14 @@ fs_id: LDCS-9HL
 generation: 5
 born: 1867 · Crawford, Arkansas, United States
 died: 20 November 1898 · Van Buren, Crawford, Arkansas, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Margaret Delia Bowen
 
-Born 1867 · Crawford, Arkansas, United States · Died 20 November 1898 · Van Buren, Crawford, Arkansas, United States · Jace Eugene Richins's 3× great-grandparents
+Born 1867 · Crawford, Arkansas, United States · Died 20 November 1898 · Van Buren, Crawford, Arkansas, United States · Generation 5
 
 ## Family
 - Father: [[William S Bowen (LD8R-CMY)|William S Bowen]]
@@ -24,7 +24,7 @@ Born 1867 · Crawford, Arkansas, United States · Died 20 November 1898 · Van B
 ## Life
 - **Birth**: 1867 · Crawford, Arkansas, United States
 - **Death**: 20 November 1898 · Van Buren, Crawford, Arkansas, United States
-- **Marriage%20License**: 1883
+- **data:,Marriage%20License**: 1883
 - **Burial**: Salem Cemetery, Cedarville, Crawford, Arkansas, United States
 - **Residence**: Crawford, Arkansas, United States
 

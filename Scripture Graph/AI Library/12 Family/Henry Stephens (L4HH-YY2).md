@@ -7,16 +7,18 @@ fs_id: L4HH-YY2
 generation: 6
 born: '       1811 · Stroud, Gloucestershire, England, United Kingdom'
 died: 16 April 1893 · Oakridge, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Henry Stephens
 
-Born        1811 · Stroud, Gloucestershire, England, United Kingdom · Died 16 April 1893 · Oakridge, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
+Born        1811 · Stroud, Gloucestershire, England, United Kingdom · Died 16 April 1893 · Oakridge, Gloucestershire, England, United Kingdom · Generation 6
 
 ## Family
+- Father: [[John Stephens (KL14-BPD)|John Stephens]]
+- Mother: [[Mary Pitt (KGMB-PP9)|Mary Pitt]]
 - Children in this line: [[Thomas Henry Stephens (KWNL-JWK)|Thomas Henry Stephens]]
 
 ## Life

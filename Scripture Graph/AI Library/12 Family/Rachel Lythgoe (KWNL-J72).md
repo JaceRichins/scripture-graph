@@ -7,14 +7,14 @@ fs_id: KWNL-J72
 generation: 5
 born: 27 May 1847 · Pendlebury, Lancashire, England, United Kingdom
 died: 9 March 1887 · Henefer, Summit, Utah Territory, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Rachel Lythgoe
 
-Born 27 May 1847 · Pendlebury, Lancashire, England, United Kingdom · Died 9 March 1887 · Henefer, Summit, Utah Territory, United States · Jace Eugene Richins's 3× great-grandparents
+Born 27 May 1847 · Pendlebury, Lancashire, England, United Kingdom · Died 9 March 1887 · Henefer, Summit, Utah Territory, United States · Generation 5
 
 ## Family
 - Father: [[Thomas Lythgoe (LLMZ-T6D)|Thomas Lythgoe]]
@@ -27,9 +27,9 @@ Born 27 May 1847 · Pendlebury, Lancashire, England, United Kingdom · Died 9 Ma
 - **Residence**: 1851 · Worsley, Lancashire, England
 - **Residence**: 1851 · Worsley, Lancashire, England, United Kingdom
 - **Residence**: 1861 · Pendlebury, Lancashire, England
-- **Financial%20Transaction**: 14 Jul 1864
-- **Emigration**: 15 Jul 1864
-- **Immigration**: 20 Sep 1864 · Deseret, United States
+- **data:,Financial%20Transaction**: 14 Jul 1864
+- **data:,Emigration**: 15 Jul 1864
+- **data:,Immigration**: 20 Sep 1864 · Deseret, United States
 - **Residence**: 1880 · Henneferville, Summit, Utah, United States
 - **Burial**: 11 March 1887 · Henefer Cemetery, Henefer, Summit, Utah, United States
 
@@ -37,11 +37,7 @@ Born 27 May 1847 · Pendlebury, Lancashire, England, United Kingdom · Died 9 Ma
 
 ### Grandma Inez Shill Eakins Life Story
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4854479)_
-
 ### Short History of Rachel Lythgoe Fowler
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5216619)_
 
 ## Photos & documents
 

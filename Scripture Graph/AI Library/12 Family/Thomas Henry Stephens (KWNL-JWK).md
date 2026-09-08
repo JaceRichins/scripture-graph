@@ -7,14 +7,14 @@ fs_id: KWNL-JWK
 generation: 5
 born: 20 January 1839 · Miserden, Gloucestershire, England, United Kingdom
 died: 5 August 1908 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Henry Stephens
 
-Born 20 January 1839 · Miserden, Gloucestershire, England, United Kingdom · Died 5 August 1908 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 20 January 1839 · Miserden, Gloucestershire, England, United Kingdom · Died 5 August 1908 · Salt Lake City, Salt Lake, Utah, United States · Generation 5
 
 ## Family
 - Father: [[Henry Stephens (L4HH-YY2)|Henry Stephens]]
@@ -27,12 +27,12 @@ Born 20 January 1839 · Miserden, Gloucestershire, England, United Kingdom · Di
 - **Christening**: 17 February 1839 · Painswick, Gloucestershire, England, United Kingdom
 - **Residence**: 1851 · Miserden, Gloucestershire, England, United Kingdom
 - **Residence**: 1861 · Brimpsfield, Gloucestershire, England, United Kingdom
-- **Immigration**: 1864
-- **Immigration**: 1864 · Utah, United States
+- **data:,Immigration**: 1864
+- **data:,Immigration**: 1864 · Utah, United States
 - **Naturalization**: 1866 · Utah Territory, United States
 - **Residence**: 1870 · Henefer, Summit, Utah Territory, United States
-- **Mission**: 1892 · Eng Genealogical Mission
-- **Mission**: 1892 · England, United Kingdom
+- **data:,Mission**: 1892 · Eng Genealogical Mission
+- **data:,Mission**: 1892 · England, United Kingdom
 - **Residence**: 1908 · Henefer, Summit, Utah, United States
 - **Burial**: 8 August 1908 · Henefer Cemetery, Henefer, Summit, Utah, United States
 - **Residence**: Henefer, Summit, Utah, United States
@@ -42,23 +42,13 @@ Born 20 January 1839 · Miserden, Gloucestershire, England, United Kingdom · Di
 
 ### The Butcher
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2856366)_
-
 ### Life History of Thomas Henry and Mary Jones Stephens
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10841178)_
 
 ### Letter to Niece of Thomas Henry Stephens July 25, 1907
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62131338)_
-
 ### Letter from Thomas Henry Stephens brother Richard
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62134007)_
-
 ### Thoughts on Great-Great Grandparents 
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/138801081)_
 
 ## Photos & documents
 

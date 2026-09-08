@@ -7,80 +7,62 @@ fs_id: KWC8-8X9
 generation: 5
 born: 1 May 1828 · Lanark, South Lanarkshire, Scotland
 died: 18 March 1919 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Budge
 
-Born 1 May 1828 · Lanark, South Lanarkshire, Scotland · Died 18 March 1919 · Logan, Cache, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 1 May 1828 · Lanark, South Lanarkshire, Scotland · Died 18 March 1919 · Logan, Cache, Utah, United States · Generation 5
 
 ## Family
+- Father: [[William Budge (LCDS-8BS)|William Budge]]
+- Mother: [[Mary Scott (LLQF-NBK)|Mary Scott]]
 - Children in this line: [[Dr Oliver Hyer Budge (KWCQ-H83)|Dr Oliver Hyer Budge]]
 
 ## Life
 - **Birth**: 1 May 1828 · Lanark, South Lanarkshire, Scotland
 - **Death**: 18 March 1919 · Logan, Cache, Utah, United States
 - **Residence**: 1841 · Airdrie, Lanarkshire, Scotland, United Kingdom
-- **Baptism**: 31 Dec 1848
+- **data:,Baptism**: 31 Dec 1848
 - **Residence**: 24 November 1856 · St Giles without Cripplegate, London, England, United Kingdom · 35 Jewin Street
 - **Occupation**: before May 1860 · Scotland, United Kingdom · Gardener
-- **Immigration**: from 11 May 1860 to 16 June 1860 · Liverpool, Lancashire, England, United Kingdom · Liverpool to America aboard the ship William Tapscott
+- **data:,Immigration**: from 11 May 1860 to 16 June 1860 · Liverpool, Lancashire, England, United Kingdom · Liverpool to America aboard the ship William Tapscott
 - **Residence**: 4 August 1860 · Douglas, Nebraska Territory, United States
-- **Immigration**: from 20 July 1860 to 5 October 1860 · Salt Lake City, Salt Lake, Utah Territory, United States · Overland wagon train with the William Budge Company
+- **data:,Immigration**: from 20 July 1860 to 5 October 1860 · Salt Lake City, Salt Lake, Utah Territory, United States · Overland wagon train with the William Budge Company
 - **MilitaryService**: 1861 · Cache, Utah Territory, United States
-- **High%20Priest%20Ordination**: 10 Jan 1864
+- **data:,High%20Priest%20Ordination**: 10 Jan 1864
 - **Occupation**: 22 March 1865 · Providence, Cache, Utah, United States · Postmaster
 - **Residence**: 1870 · Providence, Cache, Utah, United States
 - **Residence**: 1880 · Paris, Bear Lake, Idaho Territory, United States
 - **Residence**: 1900 · Paris, Bear Lake, Idaho, United States
 - **Residence**: 1910 · Logan, Cache, Utah, United States
 - **Burial**: 21 March 1919 · Logan City Cemetery, Logan, Cache, Utah, United States - Plot: A-320-48-7
-- **Membership**: Logan, Cache, Utah, United States
-- **Membership**: Smithfield, Cache, Utah, United States
+- **data:,Membership**: Logan, Cache, Utah, United States
+- **data:,Membership**: Smithfield, Cache, Utah, United States
 
 ## Stories
 
 ### William Budge
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2279274)_
-
 ### President Budge
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15366455)_
 
 ### William Budge was a Polygamist
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/16977470)_
-
 ### Article: How I Became a "Mormon"
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19328328)_
-
 ### Article: How I Became a "Mormon"
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19328479)_
 
 ### Crossing the Plains
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/122077030)_
-
 ### History of Providence including David William Campbell, Ira Rice and others-Story from Elizabeth Watkins collection written by Doran J. Baker:
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/124951680)_
 
 ### 1860: "William Budge Company" Niels C. Christensen, wife Karen Nielsdatter, sons Christian and Niels in company. Father Niels dies accidentally.
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/162609274)_
-
 ### 1860: "William Budge Company" Jens Pedersen Aagaard, wife Maren, 2 children and Suzannah Petersen.
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/175545291)_
-
 ### continue with life sketches by Charles R. Savage daughter
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/203641613)_
 
 ## Photos & documents
 

@@ -1,0 +1,42 @@
+---
+ownership: ai
+mutable: engine
+content_type: ancestor
+sg-id: fs:G9VY-V44
+fs_id: G9VY-V44
+generation: 7
+born: about 1808 · Buchanan, Botetourt, Virginia, United States
+died: 29 August 1891 · Sistersville, Tyler, West Virginia, United States
+updated_at: '2026-09-08T23:41:30Z'
+cssclasses:
+- sg-ai
+---
+
+# Mary Ann Phelps
+
+Born about 1808 · Buchanan, Botetourt, Virginia, United States · Died 29 August 1891 · Sistersville, Tyler, West Virginia, United States · Generation 7
+
+## Family
+- Father: [[Phelps (LYY6-993)|Phelps]]
+- Children in this line: [[Mary Ann Hammett (9WTN-M77)|Mary Ann Hammett]]
+
+## Life
+- **Birth**: about 1808 · Buchanan, Botetourt, Virginia, United States
+- **Death**: 29 August 1891 · Sistersville, Tyler, West Virginia, United States
+- **Residence**: 1850 · Botetourt county, Botetourt, Virginia, United States
+- **Residence**: 1860 · Western District, Washington, Virginia, United States
+- **Residence**: 1870 · Virginia, United States
+
+## Sources
+- [Mary A Hamit, "Virginia, Vital Records, 1715-1912"](https://familysearch.org/ark:/61903/1:1:6VCP-QDQ8)
+- [Mary A Hammet, "Virginia, Vital Records, 1853-1934"](https://familysearch.org/ark:/61903/1:1:68MT-V1H1)
+- [Mary A Hammet, "Virginia, Bureau of Vital Statistics, County Marriage Registers, 1853-1935"](https://familysearch.org/ark:/61903/1:1:D9DP-MMN2)
+- [Mary Hammit, "United States, Census, 1870"](https://familysearch.org/ark:/61903/1:1:MFGX-7TG)
+- [Mary Welch, "Virginia, Death Certificates, 1912-1987"](https://familysearch.org/ark:/61903/1:1:QVRQ-B18Z)
+- [Mary A Hammett, "United States, Census, 1850"](https://familysearch.org/ark:/61903/1:1:M885-YNF)
+- Legacy NFS Source: Mary Whonos - birth: about 1822; Virginia, United States
+- [Mary A. Hamit in entry for Geo. W. Hammett, "Virginia, Marriages, 1785-1940"](https://familysearch.org/ark:/61903/1:1:XRW9-M59)
+- [Mary Hamit, "United States, Census, 1860"](https://familysearch.org/ark:/61903/1:1:M411-SK7)
+
+
+[FamilySearch record](https://www.familysearch.org/tree/person/details/G9VY-V44)

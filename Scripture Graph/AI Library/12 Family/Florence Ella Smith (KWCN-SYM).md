@@ -7,16 +7,18 @@ fs_id: KWCN-SYM
 generation: 5
 born: 15 April 1868 · Pleasant Grove, Utah, Utah Territory, United States
 died: 13 July 1956 · Pleasant Grove, Utah, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Florence Ella Smith
 
-Born 15 April 1868 · Pleasant Grove, Utah, Utah Territory, United States · Died 13 July 1956 · Pleasant Grove, Utah, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 15 April 1868 · Pleasant Grove, Utah, Utah Territory, United States · Died 13 July 1956 · Pleasant Grove, Utah, Utah, United States · Generation 5
 
 ## Family
+- Father: [[Daniel Miley Smith Sr (KWJC-G74)|Daniel Miley Smith Sr]]
+- Mother: [[Emma Hannah Sinfield (KWJC-G7W)|Emma Hannah Sinfield]]
 - Children in this line: [[Nina Pearl Winters (KWZB-ZQG)|Nina Pearl Winters]]
 
 ## Life
@@ -26,15 +28,13 @@ Born 15 April 1868 · Pleasant Grove, Utah, Utah Territory, United States · Die
 - **Residence**: 1870 · Pleasant Grove, Utah, Utah Territory, United States
 - **Residence**: 1880 · Pleasant Grove, Utah, Utah, United States
 - **Residence**: 1949 · United States
-- **USER_DEFINED**: 1956 · Brigham City, Box Elder, Utah, United States · Obituary
+- **data:,USER_DEFINED**: 1956 · Brigham City, Box Elder, Utah, United States · Obituary
 - **Burial**: 16 July 1956 · Pleasant Grove City Cemetery, Pleasant Grove, Utah, Utah, United States
-- **Obituary**: Box Elder, Utah, United States
+- **data:,Obituary**: Box Elder, Utah, United States
 
 ## Stories
 
 ### Garland Library
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/27984443)_
 
 ## Photos & documents
 

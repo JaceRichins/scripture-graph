@@ -7,14 +7,14 @@ fs_id: KW8L-N6R
 generation: 5
 born: 16 April 1835 · Sheepscombe, Gloucestershire, England, United Kingdom
 died: 15 November 1915 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T21:38:40Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # Edward Richins
 
-Born 16 April 1835 · Sheepscombe, Gloucestershire, England, United Kingdom · Died 15 November 1915 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 3× great-grandparents
+Born 16 April 1835 · Sheepscombe, Gloucestershire, England, United Kingdom · Died 15 November 1915 · Salt Lake City, Salt Lake, Utah, United States · Generation 5
 
 ## Family
 - Father: [[Richard Richins (LLQX-X98)|Richard Richins]]
@@ -27,9 +27,9 @@ Born 16 April 1835 · Sheepscombe, Gloucestershire, England, United Kingdom · D
 - **Christening**: 24 August 1835 · Sheepscombe, Gloucestershire, England, United Kingdom
 - **Residence**: 1841 · Painswick, Gloucestershire, England
 - **Immigration**: 1855 · New Orleans, Orleans, Louisiana, United States
-- **Immigration**: 05 Sep 1855
-- **Immigration**: 5 September 1855 · Utah, United States
-- **Immigration%20to%20United%20States**: 16 March 1885 · New Orleans, Orleans, Louisiana, United States · Arrival Date
+- **data:,Immigration**: 05 Sep 1855
+- **data:,Immigration**: 5 September 1855 · Utah, United States
+- **data:,Immigration%20to%20United%20States**: 16 March 1885 · New Orleans, Orleans, Louisiana, United States · Arrival Date
 - **Residence**: 1900 · ED 137 Coalville Precinct Coalville city, Summit, Utah, United States
 - **Burial**: 18 November 1915 · Henefer, Summit, Utah, United States
 
@@ -37,19 +37,11 @@ Born 16 April 1835 · Sheepscombe, Gloucestershire, England, United Kingdom · D
 
 ### Edward Richins History
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1123627)_
-
 ### Hooper and Williams Freight Train
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/8030645)_
 
 ### Life Sketch of Edward Richins  Gathered & Compiled by Margaret Richins
 
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20618130)_
-
 ### Life Story of Sarah Ellen Richins Calderwood
-
-_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/80630366)_
 
 ## Photos & documents
 

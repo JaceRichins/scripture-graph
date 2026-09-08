@@ -7,16 +7,18 @@ fs_id: L8BN-9DF
 generation: 6
 born: 1808 · Worfield, Shropshire, England, United Kingdom
 died: 20 August 1868 · Goshen, Utah, Utah Territory, United States
-updated_at: '2026-09-08T21:38:41Z'
+updated_at: '2026-09-08T23:41:30Z'
 cssclasses:
 - sg-ai
 ---
 
 # George Fowler
 
-Born 1808 · Worfield, Shropshire, England, United Kingdom · Died 20 August 1868 · Goshen, Utah, Utah Territory, United States · Jace Eugene Richins's 4× great-grandparents
+Born 1808 · Worfield, Shropshire, England, United Kingdom · Died 20 August 1868 · Goshen, Utah, Utah Territory, United States · Generation 6
 
 ## Family
+- Father: [[Samuel Fowler (K26P-LQF)|Samuel Fowler]]
+- Mother: [[Elizabeth Welch (K26P-LQN)|Elizabeth Welch]]
 - Children in this line: [[James Macefield Fowler (KWNL-J7K)|James Macefield Fowler]]
 
 ## Life
@@ -26,7 +28,7 @@ Born 1808 · Worfield, Shropshire, England, United Kingdom · Died 20 August 186
 - **Residence**: 1841 · Worfield, Shropshire, England, United Kingdom
 - **Residence**: 1851 · Staffordshire, England, United Kingdom
 - **Residence**: 1861 · Wolverhampton, Staffordshire, England, United Kingdom
-- **Immigration**: 1864 · Utah, United States
+- **data:,Immigration**: 1864 · Utah, United States
 - **Burial**: August 1868 · Goshen, Juab, Utah, United States
 - **Residence**: 1870 · Salt Lake City, Salt Lake, Utah Territory, United States
 - **Residence**: Shropshire, England
