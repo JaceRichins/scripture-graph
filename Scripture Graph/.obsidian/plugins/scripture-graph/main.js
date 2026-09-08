@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.32 build 6fd6b3a9d 2026-09-08T12:33:25Z */
+/* scripture-graph v0.72.33 build 768964aae 2026-09-08T12:48:52Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.32", sha: "6fd6b3a9d", at: "2026-09-08T12:33:25Z" };
+    define_SG_BUILD_default = { version: "0.72.33", sha: "768964aae", at: "2026-09-08T12:48:52Z" };
   }
 });
 
@@ -13621,6 +13621,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     const inBook = tr.a === "Hymn" || tr.a === "Primary";
     const h = inBook ? byTitle.get(normTitle(tr.t)) : void 0;
     const choirWhen = tr.choir_when ? ` (${tr.choir_when})` : "";
+    const ytOn = !!tr.yt && this.s.device.youtube !== false;
     if (h) {
       const base = this.hymnItem(h, art, open2);
       if (tr.choir) {
@@ -13630,7 +13631,8 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
           url: tr.choir,
           alt,
           yt: tr.yt || void 0,
-          sub: `${this.bookShort(h)} \xB7 Tabernacle Choir${choirWhen}`,
+          preferVideo: !!tr.yt,
+          sub: `${this.bookShort(h)} \xB7 ${tr.yt && ytOn ? "YouTube" : `Tabernacle Choir${choirWhen}`}`,
           credit: `The Tabernacle Choir at Temple Square${choirWhen}`,
           searchQuery: `${tr.t} The Tabernacle Choir at Temple Square`
         };
@@ -13638,20 +13640,21 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       return {
         ...base,
         yt: tr.yt || void 0,
-        sub: `${this.bookShort(h)} \xB7 Church recording`,
+        preferVideo: !!tr.yt,
+        sub: `${this.bookShort(h)} \xB7 ${tr.yt && ytOn ? "YouTube" : "Church recording"}`,
         searchQuery: `${tr.t} The Tabernacle Choir at Temple Square`
       };
     }
     const url = tr.choir || tr.church || tr.url || void 0;
     const churchLabel = tr.church ? `${tr.church_by || "Church recording"}${tr.church_when ? ` (${tr.church_when})` : ""}` : "";
-    const ytOn = tr.yt && this.s.device.youtube !== false;
-    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : ytOn ? "YouTube (video)" : "no recording yet";
+    const how = ytOn ? "YouTube" : tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : "no recording yet";
     return {
       id: `track:${key}:${i}`,
       title: tr.t,
       sub: `${tr.a} \xB7 ${how}`,
       url,
       yt: tr.yt || void 0,
+      preferVideo: !!tr.yt,
       credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.church ? churchLabel : tr.credit,
       searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`,
       art,
@@ -17509,6 +17512,7 @@ var MusicPlayer = class {
   }
   /** how this item would play, if tapped */
   engineFor(it) {
+    if (it.preferVideo && it.yt && this.opts.youtubeEnabled()) return "youtube";
     if (it.url) return "audio";
     if (this.spotify.connected) return "spotify";
     if (it.yt && this.opts.youtubeEnabled()) return "youtube";
@@ -17540,9 +17544,9 @@ var MusicPlayer = class {
   }
   /** the big Play button: everything in the list that plays here, in order */
   playAll(queue, shuffle = false) {
-    let q = queue.filter((i) => this.headless(i));
+    let q = queue.filter((i) => this.canPlay(i));
     if (!q.length) {
-      new import_obsidian30.Notice("Nothing in this list plays without video \u2014 tap a song to play its YouTube version.");
+      new import_obsidian30.Notice("Nothing in this list can play yet.");
       return;
     }
     if (shuffle) q = q.map((x3) => [Math.random(), x3]).sort((a2, b) => a2[0] - b[0]).map((x3) => x3[1]);
@@ -17588,7 +17592,7 @@ var MusicPlayer = class {
   }
   step(d) {
     let i = this.index + d;
-    const allow = (x3) => this.mode === "youtube" ? this.canPlay(x3) : this.headless(x3);
+    const allow = (x3) => this.canPlay(x3);
     while (this.queue[i] && !allow(this.queue[i])) i += d;
     if (!this.queue[i]) {
       this.stop();

@@ -77,8 +77,9 @@ export class MusicPlayer {
 
   /** how this item would play, if tapped */
   engineFor(it: PlayItem): Mode | null {
-    // headless first, always: anything the app can stream itself, then
-    // Spotify in the background; the visible YouTube window is the last resort
+    // playlists and talks ask for YouTube first (the better sound); the
+    // hymnbook shelf plays the Church's own recordings headless
+    if (it.preferVideo && it.yt && this.opts.youtubeEnabled()) return "youtube";
     if (it.url) return "audio";
     if (this.spotify.connected) return "spotify";
     if (it.yt && this.opts.youtubeEnabled()) return "youtube";
@@ -105,9 +106,8 @@ export class MusicPlayer {
 
   /** the big Play button: everything in the list that plays here, in order */
   playAll(queue: PlayItem[], shuffle = false): void {
-    // Play and Shuffle never open the video window: only headless songs ride
-    let q = queue.filter(i => this.headless(i));
-    if (!q.length) { new Notice("Nothing in this list plays without video — tap a song to play its YouTube version."); return; }
+    let q = queue.filter(i => this.canPlay(i));
+    if (!q.length) { new Notice("Nothing in this list can play yet."); return; }
     if (shuffle) q = q.map(x => [Math.random(), x] as const).sort((a, b) => a[0] - b[0]).map(x => x[1]);
     this.queue = q; this.index = 0;
     void this.start(q[0]!);
@@ -139,7 +139,7 @@ export class MusicPlayer {
   private step(d: number): void {
     let i = this.index + d;
     // moving through a queue stays headless unless the current song is itself a video
-    const allow = (x: PlayItem) => this.mode === "youtube" ? this.canPlay(x) : this.headless(x);
+    const allow = (x: PlayItem) => this.canPlay(x);
     while (this.queue[i] && !allow(this.queue[i]!)) i += d;
     if (!this.queue[i]) { this.stop(); return; }
     this.index = i;

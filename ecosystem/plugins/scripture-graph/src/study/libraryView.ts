@@ -418,24 +418,26 @@ export class SGLibraryView extends ItemView {
     const inBook = tr.a === "Hymn" || tr.a === "Primary";
     const h = inBook ? byTitle.get(normTitle(tr.t)) : undefined;
     const choirWhen = tr.choir_when ? ` (${tr.choir_when})` : "";
+    const ytOn = !!tr.yt && this.s.device.youtube !== false;
     if (h) {
       // in a playlist the Choir's performance leads; the plain hymnbook recording stays one tap away
       const base = this.hymnItem(h, art, open);
       if (tr.choir) {
         const alt = [{ label: "Plain hymnbook recording", url: base.url! }, ...(base.alt ?? [])];
-        return { ...base, url: tr.choir, alt, yt: tr.yt || undefined, sub: `${this.bookShort(h)} · Tabernacle Choir${choirWhen}`,
+        return { ...base, url: tr.choir, alt, yt: tr.yt || undefined, preferVideo: !!tr.yt,
+          sub: `${this.bookShort(h)} · ${tr.yt && ytOn ? "YouTube" : `Tabernacle Choir${choirWhen}`}`,
           credit: `The Tabernacle Choir at Temple Square${choirWhen}`, searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
       }
       // no Choir performance in the Church library: the plain recording plays headless;
       // the Choir's YouTube version waits in the ⋯ menu
-      return { ...base, yt: tr.yt || undefined, sub: `${this.bookShort(h)} · Church recording`,
+      return { ...base, yt: tr.yt || undefined, preferVideo: !!tr.yt,
+        sub: `${this.bookShort(h)} · ${tr.yt && ytOn ? "YouTube" : "Church recording"}`,
         searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
     }
     const url = tr.choir || tr.church || tr.url || undefined;
     const churchLabel = tr.church ? `${tr.church_by || "Church recording"}${tr.church_when ? ` (${tr.church_when})` : ""}` : "";
-    const ytOn = tr.yt && this.s.device.youtube !== false;
-    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : ytOn ? "YouTube (video)" : "no recording yet";
-    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url, yt: tr.yt || undefined,
+    const how = ytOn ? "YouTube" : tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : "no recording yet";
+    return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url, yt: tr.yt || undefined, preferVideo: !!tr.yt,
       credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.church ? churchLabel : tr.credit,
       searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`, art, open };
   }
