@@ -2,9 +2,10 @@
 ownership: system
 mutable: ai
 content_type: question
-status: seeded
+status: developed
 scope: restoration
 sg-id: question:why-do-latter-day-saints-have-temples-and-ceremonies-they-do-not-discuss
+corpus_version_reviewed: 22
 ---
 
 # Why do Latter-day Saints have temples and ceremonies they do not discuss?
