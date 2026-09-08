@@ -18,6 +18,7 @@ import { LIBRARY_SECTIONS, VOLUMES, titleForChapterSlug, type NavigatorHost } fr
 import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } from "./search";
 import { AddSongModal, songsOn } from "./addSong";
 import { FamilyTree, loadTree } from "./familyTree";
+import { BUNDLED_COVERS } from "../assets/covers";
 
 export const LIBRARY_VIEW = "sg-library";
 
@@ -688,7 +689,13 @@ export class SGLibraryView extends ItemView {
     // view. `covers/<key>.jpg` is ~40 KB at 480 px; drop your own to replace.
     const key = opts.photo ?? (opts.jacket ? "scriptures" : opts.icon);
     let photo = key ? this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${key}.jpg`) : null;
-    if (!(photo instanceof TFile) && opts.fallbackPhoto) photo = this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${opts.fallbackPhoto}.jpg`);
+    // no picture of its own in the vault: one bundled with the build, before
+    // borrowing another shelf's
+    if (!(photo instanceof TFile) && key && BUNDLED_COVERS[key]) {
+      const img = art.createEl("img", { cls: "sg-nav-cover-photo", attr: { decoding: "async", alt: "" } });
+      img.src = BUNDLED_COVERS[key]!;
+      img.onload = () => art.addClass("sg-has-photo");
+    } else if (!(photo instanceof TFile) && opts.fallbackPhoto) photo = this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${opts.fallbackPhoto}.jpg`);
     if (photo instanceof TFile) {
       const img = art.createEl("img", { cls: "sg-nav-cover-photo",
         attr: { loading: "lazy", decoding: "async", alt: "" } });
