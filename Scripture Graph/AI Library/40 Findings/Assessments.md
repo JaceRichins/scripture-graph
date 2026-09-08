@@ -572,6 +572,13 @@ The twofold near-verbatim repetition, explicit identification, and explanation o
 
 Notes: [[Scriptural Intertextuality in 3 Nephi 15]]
 
+### bom-mormon7-isaiah25-1cor15-intertext
+**Isaiah 25 and 1 Corinthians 15 mediation in Mormon 7** — *strong* (supports, discrimination 0.84) for: Mormon 7:5 deliberately participates in the scriptural death, sting, grave, swallowing, and victory complex represented in Isaiah 25:8 and 1 Corinthians 15:54–57 in its final English form.
+
+The concentrated death, sting, grave, swallowing, and victory imagery strongly supports deliberate participation in the Isaiah 25–1 Corinthians 15 scriptural complex in Mormon 7's final English form. It does not distinguish ancient tradition, KJV-shaped translation, revelatory reuse, redaction, or nineteenth-century composition, and the Isaianic element should not be counted independently from Paul's own combination of the imagery.
+
+Notes: [[Intertextual Resonance in Mormon 7]]
+
 ### bom-jacob5-isaiah5-vineyard-intertext
 **Isaiah 5 vineyard-song intertextuality in Jacob 5** — *strong* (supports, discrimination 0.75) for: Jacob 5 deliberately participates in or is textually mediated through the prophetic vineyard tradition represented by Isaiah 5:1-7, particularly the repeated 'what could I have done more' rhetorical question.
 
@@ -908,6 +915,13 @@ Samuel's warning that destruction would come 'before four hundred years pass' is
 
 Notes: [[Intratextual Prediction-Fulfillment in Helaman 13]]
 
+### bom-helaman13-mormon1-slippery-treasure-callback
+**Samuel's slippery-treasure curse callback in Mormon 1–2** — *strong* (supports, discrimination 0.8) for: Mormon 1–2 deliberately recalls Samuel's slippery-treasure warning in Helaman 13, with Mormon 2:10 explicitly presenting the inability to retain possessions as its narrative fulfillment.
+
+The distinctive Mormon 1 vocabulary and Mormon 2:10's explicit attribution to Samuel strongly support deliberate final-form coordination with Helaman 13. Because the warning and fulfillment remain within one transmitted narrative and can arise through historical recollection, retrospective interpretation, editorial construction, translation harmonization, or unified modern composition, the correspondence gives only none-band support for genuine pre-event prophecy or external historicity.
+
+Notes: [[Intratextual Fulfillment And Verbal Callback in Helaman 13]] · [[Intratextual Narrative Continuity in Mormon 2]]
+
 ### bom-ether11-secret-combinations-pattern
 **Secret combinations as a recurring narrative cause of Jaredite instability (Ether 11)** — *strong* (supports, discrimination 0.78) for: Ether 11's final text deliberately presents organized secret combinations as a recurring cause linked to refusal of prophetic warning, rebellion, and societal destruction across the chapter's episodes
 
@@ -928,13 +942,6 @@ Notes: [[Explicit Intratextual Interpretation in 1 Nephi 8]]
 The ordered challenge, sign-demand, affliction, and confession parallels between Korihor (Alma 30) and Sherem (Jacob 7) moderately support deliberate final-form patterning, but Korihor's death is a delayed mob killing among a separate people rather than a proximate consequence of his affliction, unlike Sherem's. The divergent death beat, the small pool of only two clear anti-Christ figures in the text (limiting how diagnostic the match can be), the availability of a conventional cautionary-narrative template, and missing matched controls keep this below the strong band and leave the transmission mechanism, direction, and historicity unresolved.
 
 Notes: [[Literary Intertextuality in Alma 30]]
-
-### bom-helaman13-mormon1-slippery-treasure-callback
-**Slippery-treasure curse callback from Helaman 13 to Mormon 1** — *moderate* (supports, discrimination 0.55) for: The shared 'slippery treasure' curse vocabulary in Helaman 13:18-20 and Mormon 1:18 reflects a deliberate final-form prophecy-fulfillment callback rather than an independently occurring standing idiom or coincidence.
-
-The distinctive shared vocabulary (slippery, curse of the land, unable to retain treasures) across a wide narrative gap moderately supports a deliberate callback linking Samuel's curse to its later narrated realization, comparable to the corpus's other registered curse/prophecy-fulfillment pairs. No corpus-wide search has verified how rare this idiom is, so a standing curse-formula shared independently by both passages remains a live alternative that keeps this below the strong band; it gives no independent support for the historicity or supernatural mechanism of the reported treasure loss.
-
-Notes: [[Intratextual Fulfillment And Verbal Callback in Helaman 13]]
 
 ### bom-helaman3-editorial-persona
 **Source/selection notice as editorial-persona construction in Helaman 3** — *moderate* (supports, discrimination 0.58) for: Helaman 3:13-17's source/selection notice evidences deliberate construction of a source-conscious editorial persona, the narrower single-element instance of the class registered at bom-1nephi6-editorial-persona and bom-3nephi5-editorial-persona.
