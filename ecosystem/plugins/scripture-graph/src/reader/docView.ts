@@ -15,6 +15,7 @@ import { LIBRARY_PREFIX, SGState } from "../state";
 import { AnnotationService, COLOR_HEX } from "../social/annotations";
 import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "../study/themeLibrary";
 import { historyBack, recordHistory } from "../study/leafNav";
+import { youtubeIdOf } from "../study/youtubeFind";
 import { trace } from "../study/trace";
 
 export const DOC_VIEW = "scripture-graph-doc";
@@ -158,9 +159,7 @@ export class DocView extends ItemView {
     page.setAttr("data-sg-doc-title", title);
     const actions = head.createDiv({ cls: "sg-doc-actions" });
     // ▶ Watch — a talk, an episode, a review with a video: plays in the corner, keeps playing as you read
-    void this.app.vault.cachedRead(file).then(md => {
-      const fm = this.app.metadataCache.getFileCache(file)?.frontmatter as Record<string, unknown> | undefined;
-      const id = String(fm?.["youtube"] ?? "").trim() || (/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|embed\/|shorts\/))([A-Za-z0-9_-]{11})/.exec(md)?.[1] ?? "");
+    void youtubeIdOf(this.app, file).then(id => {
       if (!id || !this.host.playVideo) return;
       const watch = actions.createEl("button", { cls: "sg-ask-btn sg-doc-watch", text: "▶ Watch" });
       actions.insertBefore(watch, actions.firstChild);

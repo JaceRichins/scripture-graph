@@ -65,10 +65,17 @@ export async function findTalkVideo(app: App, file: TFile): Promise<string | nul
     });
     html = res.text;
   } catch { return null; }
-  const hits: { id: string; owner: string }[] = [];
-  for (const m of html.matchAll(VID_RE)) { hits.push({ id: m[1]!, owner: m[3]! }); if (hits.length >= 8) break; }
+  const hits: { id: string; owner: string; title: string }[] = [];
+  for (const m of html.matchAll(VID_RE)) {
+    const title = /"title":\{"runs":\[\{"text":"([^"]+)"/.exec(m[2]!)?.[1] ?? "";
+    hits.push({ id: m[1]!, owner: m[3]!, title });
+    if (hits.length >= 8) break;
+  }
   if (!hits.length) return null;
-  const pick = hits.find(h => OFFICIAL.test(h.owner)) ?? hits[0]!;
+  // the Church's upload of THIS talk first, then any Church upload, then whatever leads
+  const want = pageTitle(file).toLowerCase();
+  const pick = hits.find(h => OFFICIAL.test(h.owner) && h.title.toLowerCase().includes(want))
+    ?? hits.find(h => OFFICIAL.test(h.owner)) ?? hits[0]!;
   try {
     const c = cache(); c[file.path] = pick.id;
     window.localStorage.setItem(CACHE_KEY, JSON.stringify(c));

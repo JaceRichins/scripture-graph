@@ -22,6 +22,7 @@ import { AiService } from "./ai/aiService";
 import { ASK_VIEW, AskView } from "./ai/askView";
 import { READER_VIEW, ReaderView } from "./reader/readerView";
 import { DOC_VIEW, DocView, docKindFor } from "./reader/docView";
+import { findTalkVideo, pageTitle, youtubeIdOf } from "./study/youtubeFind";
 import { Dock, isPhone, obsidianInternals } from "./study/dock";
 import { ReadingSettingsModal, applyReading } from "./study/readingSettings";
 import { VaultSync } from "./sync/vaultSync";
@@ -130,6 +131,7 @@ export default class SGPlugin extends Plugin {
     this.music = new MusicPlayer(this.app, {
       serverUrl: () => this.state.api.baseUrl,
       youtubeEnabled: () => this.state.device.youtube !== false,
+      onChange: () => this.dock?.refresh(),
     }, spotify);
     this.registerObsidianProtocolHandler("scripture-graph-spotify", params => {
       const code = params["code"];
@@ -774,6 +776,16 @@ export default class SGPlugin extends Plugin {
       },
       bookmark: (f) => this.study.bookmarkFile(f),
       unbookmark: (a) => this.study.unbookmark(a),
+      // 🎧 on a talk: its YouTube version, found once and remembered
+      playVideo: async (f) => {
+        const id = (await youtubeIdOf(this.app, f)) ?? (await findTalkVideo(this.app, f));
+        if (!id) return false;
+        if (this.music.isCurrent(`yt:${id}`)) { this.music.toggle(); return true; }
+        this.music.playVideo(id, pageTitle(f), docKindFor(f.path)?.eyebrow ?? "Video");
+        return true;
+      },
+      videoState: () => this.music.videoState,
+      toggleVideo: () => this.music.toggle(),
       currentCfmWeek: async () => {
         const f = this.app.vault.getAbstractFileByPath("AI Library/00 System/Come Follow Me.md");
         if (!(f instanceof TFile)) return null;

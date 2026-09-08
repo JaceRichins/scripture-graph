@@ -2216,6 +2216,10 @@ body.sg-selecting .sg-reader { padding-bottom: 170px; }
    text on the scene, like scripture: no cards, no shading, tight margins */
 .sg-doc { height: 100%; overflow-y: auto; overscroll-behavior: contain; padding: 0; }
 .sg-doc-page { max-width: 680px; margin: 0 auto; padding: 10px 14px calc(36px + env(safe-area-inset-bottom, 0px)); }
+/* phones make everything outside Obsidian's own reading view unselectable;
+   a page's words are for selecting — that is how the study bar rises */
+.sg-doc-title, .sg-doc-body, .sg-doc-body * { -webkit-user-select: text; user-select: text; }
+.sg-doc-body a { -webkit-touch-callout: default; }
 .sg-doc-back {
   display: inline-block; margin: 0 0 8px -6px; padding: 4px 10px; font-size: 0.9em; font-weight: 600;
   background: none; border: 0; box-shadow: none; color: var(--text-accent);

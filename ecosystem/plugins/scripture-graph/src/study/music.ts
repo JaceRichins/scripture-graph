@@ -57,7 +57,7 @@ export class MusicPlayer {
   private spotifySeen = false;
 
   constructor(private app: App,
-    private opts: { serverUrl(): string; youtubeEnabled(): boolean },
+    private opts: { serverUrl(): string; youtubeEnabled(): boolean; onChange?(): void },
     public spotify: Spotify) {
     window.addEventListener("message", this.onFrameMessage);
   }
@@ -67,6 +67,11 @@ export class MusicPlayer {
 
   current(): PlayItem | null { return this.queue[this.index] ?? null; }
   isCurrent(id: string): boolean { return this.current()?.id === id; }
+  /** the video window's state, for the dock's headphones: playing, paused, or no video */
+  get videoState(): "playing" | "paused" | null {
+    if (this.mode !== "youtube" || !this.current()) return null;
+    return this.paused ? "paused" : "playing";
+  }
   get playing(): boolean { return this.mode !== null && !this.paused; }
   get active(): boolean { return this.mode !== null; }
 
@@ -328,7 +333,7 @@ export class MusicPlayer {
     if (!bar) return;
     bar.empty();
     const it = this.current();
-    if (!it || !this.mode) { bar.parentElement?.hide(); return; }
+    if (!it || !this.mode) { bar.parentElement?.hide(); this.opts.onChange?.(); return; }
     bar.parentElement?.show();
     const yt = this.mode === "youtube";
     if (!yt) this.video?.hide();
@@ -367,5 +372,6 @@ export class MusicPlayer {
     inCtl(this.paused ? "play" : "pause", "sg-player-main", this.paused ? "Play" : "Pause", () => this.toggle());
     inCtl("skip-forward", "", "Next", () => this.next());
     btn("x", "sg-player-x", "Stop", () => this.stop());
+    this.opts.onChange?.();
   }
 }

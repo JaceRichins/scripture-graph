@@ -22,6 +22,7 @@ import { historyBack } from "./leafNav";
 import { NotebookModal, exportJournal, notebooks } from "./notebooks";
 import { releaseKeyboard } from "./libraryView";
 import { trace } from "./trace";
+import { isTalk } from "./youtubeFind";
 
 export interface DockHost {
   openHome: () => void;
@@ -38,6 +39,12 @@ export interface DockHost {
   unbookmark: (a: Annotation) => Promise<void>;
   /** this week's Come Follow Me key, for the Home badge */
   currentCfmWeek: () => Promise<string | null>;
+  /** play this page's video (a talk's YouTube version) in the corner
+   * window; false when the page has none */
+  playVideo?: (file: TFile) => Promise<boolean>;
+  /** the video window: playing, paused, or nothing */
+  videoState?: () => "playing" | "paused" | null;
+  toggleVideo?: () => void;
   openNote: (link: string) => void;
 }
 
@@ -123,8 +130,11 @@ export class Dock {
         const fresh = (seen.insightDay !== day) || (!!week && seen.cfmWeek !== week);
         this.homeBadge?.toggleClass("sg-dock-dot-on", fresh && lit !== "home");
       });
-      this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing);
-      this.listenBtn?.toggleClass("sg-dock-round-off", !this.listen.canRead(this.s.app, this.host.currentPage()));
+      const page = this.host.currentPage();
+      const video = this.host.videoState?.() ?? null;
+      this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing || video === "playing");
+      this.listenBtn?.toggleClass("sg-dock-round-off",
+        !this.listen.canRead(this.s.app, page) && !(page && isTalk(this.s.app, page)) && !video);
     } catch (e) {
       console.warn("scripture-graph: dock refresh", e);
     }
@@ -138,9 +148,26 @@ export class Dock {
     return b;
   }
 
+  /** 🎧: a talk plays its YouTube version in the corner window (tap again
+   * to pause, again to resume); a chapter is read aloud; anything else with
+   * a Church recording streams it */
   private toggleListen(): void {
     if (this.listen.playing) { this.listen.stop(); this.refresh(); return; }
+    if (this.host.videoState?.() === "playing") { this.host.toggleVideo?.(); this.refresh(); return; }
     const page = this.host.currentPage();
+    if (page && this.host.playVideo && isTalk(this.s.app, page)) {
+      const finding = new Notice("Finding the video…", 0);
+      void this.host.playVideo(page).then(ok => {
+        finding.hide();
+        if (!ok) {
+          // no video to be found: the Church's recording, when there is one
+          if (!this.listen.start(this.s.app, page)) new Notice("No video or recording for this talk");
+        }
+        this.refresh();
+      });
+      return;
+    }
+    if (this.host.videoState?.() === "paused") { this.host.toggleVideo?.(); this.refresh(); return; }
     const ok = this.listen.start(this.s.app, page);
     if (!ok) new Notice("Open a chapter or a talk to listen to it");
     this.refresh();
