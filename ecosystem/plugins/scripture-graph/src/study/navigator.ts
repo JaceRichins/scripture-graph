@@ -43,6 +43,8 @@ export interface NavigatorHost {
   remoteCount?: (path: string) => number;
   /** a page's own backdrop while it is open; null = whatever the reader chose */
   scene?: (id: string | null) => void;
+  /** the scene on screen right now (its id), for the page to say so */
+  sceneCurrent?: () => string | null;
   openTimeline(): void;
   openTimelinePreset(p: TimelinePreset): void;
   newTimeline(onDone: () => void): void;

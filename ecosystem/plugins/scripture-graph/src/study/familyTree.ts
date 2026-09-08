@@ -45,6 +45,8 @@ export interface TreeHost {
   openNote: (link: string) => void;
   /** the Family shelf as a list */
   openList: () => void;
+  /** a line of facts for the hint: build, scene */
+  status?: () => string;
 }
 
 interface Placed { pid: string; depth: number; x: number; y: number; open: boolean; hasMore: boolean; side: "f" | "m" | "root" }
@@ -155,7 +157,7 @@ export class FamilyTree {
     this.wireGestures(canvas);
     // first sight: the root at the bottom middle, its branches in view
     window.requestAnimationFrame(() => this.fit(false));
-    canvas.createDiv({ cls: "sg-ft-hint", text: "drag · pinch · double-tap  —  + grows a branch" });
+    canvas.createDiv({ cls: "sg-ft-hint", text: `drag · pinch · double-tap  —  + grows a branch${this.host.status ? "  ·  " + this.host.status() : ""}` });
   }
 
   /** (re)draw from the open set; portraits keep their elements so a branch

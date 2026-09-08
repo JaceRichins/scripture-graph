@@ -19,6 +19,7 @@ import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } f
 import { AddSongModal, songsOn } from "./addSong";
 import { FamilyTree, loadTree } from "./familyTree";
 import { BUNDLED_COVERS } from "../assets/covers";
+import { BUILD } from "../build";
 
 export const LIBRARY_VIEW = "sg-library";
 
@@ -594,8 +595,12 @@ export class SGLibraryView extends ItemView {
       app: this.app,
       openNote: (link) => this.host.openNote(link),
       openList: () => this.go({ kind: "folder", path: "AI Library/12 Family", title: "Family" }),
+      status: () => `v${BUILD.version} · scene ${this.host.sceneCurrent?.() ?? "none"}`,
     }, data, data.roots[0]!.pid);
     tree.render(c.createDiv());
+    // the grove, again, once the page has settled — whatever else may have
+    // set the backdrop in between
+    window.setTimeout(() => { if (this.view.kind === "family") this.host.scene?.("grove"); }, 500);
   }
 
   // ------------------------------------------------------- did you notice?

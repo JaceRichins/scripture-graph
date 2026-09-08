@@ -876,6 +876,7 @@ export default class SGPlugin extends Plugin {
       downloadFolder: (p) => this.vaultSync.pinFolder(p),
       remoteCount: (p) => this.vaultSync.remoteCount(p),
       scene: (id) => { if (id) this.scenes.apply(id); else this.applyConfiguredScene(); },
+      sceneCurrent: () => this.scenes.current(),
       lastChapter: () => this.state.device.lastChapter,
       recentChapters: () => this.state.device.recentChapters ?? [],
       groupActivity: async () => {
