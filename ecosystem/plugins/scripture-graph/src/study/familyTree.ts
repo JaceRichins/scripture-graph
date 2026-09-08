@@ -73,15 +73,15 @@ const FOLDER = "AI Library/12 Family";
 const MEDIA = `${FOLDER}/_media`;
 const OPEN_AT_START = 3;         // generations grown when the tree opens (you + 3)
 const OPEN_PER_TAP = 2;          // generations a + grows
-const NODE = 72;                 // portrait diameter
-const SLOT_W = 150;              // horizontal room per leaf
-const ROW_H = 176;               // vertical distance between generations
+const NODE = 64;                 // portrait diameter
+const SLOT_W = 156;              // horizontal room per leaf
+const ROW_H = 186;               // vertical distance between generations
 const LABEL_H = 44;
 const TRUNK_H = 150;             // from the ground up to the root's portrait
 const NS = "http://www.w3.org/2000/svg";
 
 /** a limb's thickness at a generation: stout near the trunk, fine at the tips */
-function limbWidth(depth: number): number { return Math.max(3.5, 18 * Math.pow(0.7, depth)); }
+function limbWidth(depth: number): number { return Math.max(2.5, 13 * Math.pow(0.68, depth)); }
 
 /** a deterministic scatter for foliage, from a person's id */
 function seeded(pid: string): () => number {
@@ -197,15 +197,22 @@ export class FamilyTree {
         b.onclick = () => { this.root = r.pid; this.open.clear(); this.grow(r.pid, OPEN_AT_START); this.nodes.clear(); this.render(c); };
       }
     }
-    const zoom = head.createDiv({ cls: "sg-ft-zoom" });
-    const zb = (label: string, title: string, fn: () => void) => { const b = zoom.createEl("button", { text: label, attr: { "aria-label": title } }); b.onclick = fn; };
-    zb("−", "Zoom out", () => this.zoomBy(0.8));
-    zb("+", "Zoom in", () => this.zoomBy(1.25));
-    zb("⤢", "Fit the whole tree", () => this.fit(true));
-    const list = head.createEl("button", { cls: "sg-ft-list", text: "All ancestors ›" });
-    list.onclick = () => this.host.openList();
+    if (this.data.roots.length <= 1) head.remove();
 
     const canvas = c.createDiv({ cls: "sg-ft-canvas" });
+    // three quiet tools in the corner: fit, the years, the list
+    const tools = canvas.createDiv({ cls: "sg-ft-tools" });
+    tools.onpointerdown = (e) => e.stopPropagation();
+    const tool = (label: string, title: string, fn: () => void) => { const b = tools.createEl("button", { text: label, attr: { "aria-label": title } }); b.onclick = fn; return b; };
+    tool("⤢", "Fit the whole tree", () => this.fit(true));
+    const clock = tool("⏳", "Who was alive in a given year", () => {
+      const bar = canvas.querySelector<HTMLElement>(".sg-ft-time");
+      if (!bar) return;
+      bar.hidden = !bar.hidden;
+      clock.toggleClass("sg-ft-tool-on", !bar.hidden);
+      if (bar.hidden) this.setYear(null);
+    });
+    tool("☰", "All ancestors, as a list", () => this.host.openList());
     // Obsidian's edge swipe opens its drawers over a pan: the same opt-out
     // its own sliders and canvas use keeps the gesture ours here
     c.dataset["ignoreSwipe"] = "true";
@@ -223,9 +230,10 @@ export class FamilyTree {
     this.draw();
     this.wireGestures(canvas);
     this.timeBar(canvas);
+    const bar = canvas.querySelector<HTMLElement>(".sg-ft-time");
+    if (bar) bar.hidden = true;
     // first sight: the root at the bottom middle, its branches in view
     window.requestAnimationFrame(() => this.fit(false));
-    canvas.createDiv({ cls: "sg-ft-hint", text: "drag · pinch · double-tap · + grows a branch" });
   }
 
   /** (re)draw from the open set; portraits keep their elements so a branch
@@ -261,7 +269,7 @@ export class FamilyTree {
       const gx = -230 + i * 18 + gr() * 10, gh = 10 + gr() * 16, lean = (gr() - 0.5) * 10;
       el("path", { d: `M ${gx} ${groundY + 2} q ${lean} ${-gh / 2} ${lean * 1.6} ${-gh}`, class: "sg-ft-grass" }, ground);
     }
-    const tw = limbWidth(0) * 1.35;
+    const tw = limbWidth(0) * 1.1;
     el("path", { d: `M ${-tw} ${groundY} C ${-tw * 0.9} ${groundY - TRUNK_H * 0.5}, ${-tw * 0.55} ${rootY + NODE * 0.7}, ${-tw * 0.5} ${rootY}`
       + ` L ${tw * 0.5} ${rootY} C ${tw * 0.55} ${rootY + NODE * 0.7}, ${tw * 0.9} ${groundY - TRUNK_H * 0.5}, ${tw} ${groundY}`
       + ` Q ${tw * 1.6} ${groundY + 6} ${tw * 2.2} ${groundY + 8} L ${-tw * 2.2} ${groundY + 8} Q ${-tw * 1.6} ${groundY + 6} ${-tw} ${groundY} Z`,
@@ -284,20 +292,20 @@ export class FamilyTree {
         el("path", { d, class: "sg-ft-bark-light", "stroke-width": (w * 0.35).toFixed(1) }, limbs);
         // foliage: a cluster of leaves behind the parent's portrait
         const r = seeded(parent.pid);
-        for (let i = 0; i < 7; i++) {
-          const a = r() * Math.PI * 2, dist = NODE * (0.35 + r() * 0.45);
-          el("ellipse", { cx: (q.x + Math.cos(a) * dist).toFixed(1), cy: (q.y + Math.sin(a) * dist * 0.8).toFixed(1),
-            rx: (14 + r() * 16).toFixed(1), ry: (10 + r() * 12).toFixed(1),
-            transform: `rotate(${(r() * 90 - 45).toFixed(0)} ${q.x.toFixed(1)} ${q.y.toFixed(1)})`,
+        for (let i = 0; i < 5; i++) {
+          const a = Math.PI * (1.05 + r() * 0.9), dist = NODE * (0.42 + r() * 0.3);   // the upper half, behind the portrait
+          el("ellipse", { cx: (q.x + Math.cos(a) * dist).toFixed(1), cy: (q.y + Math.sin(a) * dist * 0.85).toFixed(1),
+            rx: (9 + r() * 9).toFixed(1), ry: (6 + r() * 6).toFixed(1),
+            transform: `rotate(${(r() * 120 - 60).toFixed(0)} ${q.x.toFixed(1)} ${q.y.toFixed(1)})`,
             class: `sg-ft-leaf sg-ft-leaf-${i % 3}` }, leaves);
         }
       }
     }
     // a crown for the root, too
     const r0 = seeded(this.root);
-    for (let i = 0; i < 6; i++) {
-      const a = Math.PI + r0() * Math.PI, dist = NODE * (0.4 + r0() * 0.4);
-      el("ellipse", { cx: (Math.cos(a) * dist).toFixed(1), cy: (Math.sin(a) * dist * 0.8).toFixed(1), rx: (14 + r0() * 14).toFixed(1), ry: (10 + r0() * 10).toFixed(1),
+    for (let i = 0; i < 5; i++) {
+      const a = Math.PI * (1.05 + r0() * 0.9), dist = NODE * (0.42 + r0() * 0.3);
+      el("ellipse", { cx: (Math.cos(a) * dist).toFixed(1), cy: (Math.sin(a) * dist * 0.85).toFixed(1), rx: (9 + r0() * 9).toFixed(1), ry: (6 + r0() * 6).toFixed(1),
         class: `sg-ft-leaf sg-ft-leaf-${i % 3}` }, leaves);
     }
     for (const p of placed) {
@@ -446,14 +454,14 @@ export class FamilyTree {
     const bar = c.createDiv({ cls: "sg-ft-time" });
     bar.onpointerdown = (e) => e.stopPropagation();
     const row = bar.createDiv({ cls: "sg-ft-time-row" });
-    const label = row.createDiv({ cls: "sg-ft-time-label", text: "Who was alive in…" });
+    const label = row.createDiv({ cls: "sg-ft-time-label", text: "Alive in…" });
     const range = row.createEl("input", { cls: "sg-ft-time-range", attr: { type: "range", min: String(min), max: String(max), value: String(max), step: "1" } });
     const clear = row.createEl("button", { cls: "sg-ft-time-x", text: "✕", attr: { "aria-label": "Show everyone" } });
-    const setLabel = () => label.setText(this.year === null ? "Who was alive in…" : `In ${this.year}`);
+    const setLabel = () => label.setText(this.year === null ? "Alive in…" : `In ${this.year}`);
     range.oninput = () => { this.setYear(Number(range.value)); setLabel(); };
     clear.onclick = () => { this.setYear(null); range.value = String(max); setLabel(); };
     const chips = bar.createDiv({ cls: "sg-ft-time-chips" });
-    const marks: [number, string][] = [[1830, "1830 · Church organized"], [1847, "1847 · the Valley"], [1856, "1856 · handcarts"], [1900, "1900"], [1950, "1950"], [max, "today"]];
+    const marks: [number, string][] = [[1830, "1830"], [1847, "1847"], [1856, "1856"], [1900, "1900"], [1950, "1950"], [max, "now"]];
     for (const [y, t] of marks) {
       if (y < min - 10) continue;
       const b = chips.createEl("button", { cls: "sg-ft-chip", text: t });
