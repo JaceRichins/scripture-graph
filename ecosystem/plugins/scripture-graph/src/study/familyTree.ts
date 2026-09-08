@@ -225,7 +225,7 @@ export class FamilyTree {
     this.timeBar(canvas);
     // first sight: the root at the bottom middle, its branches in view
     window.requestAnimationFrame(() => this.fit(false));
-    canvas.createDiv({ cls: "sg-ft-hint", text: `drag · pinch · double-tap  —  + grows a branch${this.host.status ? "  ·  " + this.host.status() : ""}` });
+    canvas.createDiv({ cls: "sg-ft-hint", text: "drag · pinch · double-tap · + grows a branch" });
   }
 
   /** (re)draw from the open set; portraits keep their elements so a branch
@@ -493,11 +493,11 @@ export class FamilyTree {
     if (whole) {
       this.scale = Math.min(2, Math.max(0.2, Math.min((r.width - 40) / w, (r.height - 60) / h)));
     } else {
-      this.scale = Math.min(1, Math.max(0.45, (r.width - 40) / Math.min(w, SLOT_W * 5)));
+      this.scale = Math.min(1, Math.max(0.5, (r.width - 24) / Math.min(w, SLOT_W * 4.2)));
     }
     // x: centre the tree; y: the ground sits at the bottom of the screen
     this.tx = r.width / 2 - ((b.minX + b.maxX) / 2) * this.scale;
-    this.ty = (r.height - 16) - b.maxY * this.scale;
+    this.ty = (r.height - 12) - b.maxY * this.scale;
     this.apply();
   }
 

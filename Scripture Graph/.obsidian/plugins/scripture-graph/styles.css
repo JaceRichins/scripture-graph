@@ -64,7 +64,7 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
   background: var(--background-secondary); border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); }
 .sg-ft-list { font-size: 0.8em; font-weight: 600; padding: 5px 11px; border-radius: 999px; box-shadow: none;
   background: transparent; border: 1px solid color-mix(in srgb, var(--background-modifier-border) 60%, transparent); color: var(--text-muted); }
-.sg-ft-canvas { position: relative; height: calc(100vh - 235px); min-height: 440px; overflow: hidden;
+.sg-ft-canvas { position: relative; height: calc(100vh - 330px - env(safe-area-inset-bottom, 0px)); min-height: 400px; overflow: hidden;
   margin: 0 -16px; touch-action: none; cursor: grab; user-select: none; -webkit-user-select: none; background: transparent; }
 .sg-ft-canvas:active { cursor: grabbing; }
 .sg-ft-sky, .sg-ft-ground { display: none; }
@@ -110,7 +110,7 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
   border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.45); font-size: 1.1em; line-height: 1; font-weight: 800; cursor: pointer;
   background: #d9b25a; color: #2b1d12; border: 2px solid #1b2f33; }
 .sg-ft-plus-open { background: #2f4a3a; color: #dfe9d8; }
-.sg-ft-hint { position: absolute; left: 0; right: 0; top: 8px; text-align: center; font-size: 0.7em; color: rgba(255,255,255,0.45); pointer-events: none; }
+.sg-ft-hint { position: absolute; left: 0; right: 0; top: 6px; text-align: center; font-size: 0.68em; color: rgba(255,255,255,0.4); pointer-events: none; }
 /* badges on the ring: what the shelf holds */
 .sg-ft-badges { position: absolute; right: -6px; bottom: -4px; display: flex; gap: 1px; }
 .sg-ft-badge { font-size: 0.62em; line-height: 1; padding: 2px 3px; border-radius: 999px; background: rgba(10, 16, 24, 0.85); }
@@ -121,7 +121,7 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 .sg-ft-alive .sg-ft-age { opacity: 1; }
 .sg-ft-alive .sg-ft-ring { box-shadow: 0 0 0 4px rgba(241, 223, 174, 0.35), 0 0 22px rgba(241, 223, 174, 0.45); }
 .sg-ft-unborn, .sg-ft-passed { opacity: 0.28; filter: saturate(0.4); }
-.sg-ft-time { position: absolute; left: 12px; right: 12px; bottom: 10px; padding: 8px 10px; border-radius: 14px;
+.sg-ft-time { position: absolute; left: 12px; right: 12px; top: 30px; padding: 7px 10px; border-radius: 14px;
   background: rgba(6, 12, 20, 0.62); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.08); }
 .sg-ft-time-row { display: flex; align-items: center; gap: 8px; }
 .sg-ft-time-label { flex: none; font-size: 0.78em; font-weight: 700; color: #f1dfae; min-width: 92px; }
@@ -132,7 +132,7 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 .sg-ft-chip { flex: none; font-size: 0.72em; font-weight: 600; padding: 3px 9px; border-radius: 999px; box-shadow: none;
   background: rgba(255,255,255,0.08); color: #f4eee0; border: 1px solid rgba(255,255,255,0.12); }
 /* the card for one person */
-.sg-ft-sheet { position: absolute; left: 12px; right: 12px; bottom: 96px; padding: 12px 14px 12px; border-radius: 16px;
+.sg-ft-sheet { position: absolute; left: 12px; right: 12px; top: 118px; padding: 12px 14px 12px; border-radius: 16px;
   background: rgba(8, 14, 22, 0.9); -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px); border: 1px solid rgba(255,255,255,0.1);
   box-shadow: 0 12px 34px rgba(0,0,0,0.5); color: #f4eee0; animation: sg-nav-rise 0.22s ease both; }
 .sg-ft-sheet-x { position: absolute; right: 8px; top: 8px; width: 28px; height: 28px; padding: 0; border-radius: 50%; box-shadow: none;

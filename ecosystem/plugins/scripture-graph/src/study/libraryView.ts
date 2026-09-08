@@ -595,7 +595,6 @@ export class SGLibraryView extends ItemView {
       app: this.app,
       openNote: (link) => this.host.openNote(link),
       openList: () => this.go({ kind: "folder", path: "AI Library/12 Family", title: "Family" }),
-      status: () => `v${BUILD.version} · scene ${this.host.sceneCurrent?.() ?? "none"}`,
     }, data, data.roots[0]!.pid);
     tree.render(c.createDiv());
     // the grove, again, once the page has settled — whatever else may have
