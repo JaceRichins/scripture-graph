@@ -155,6 +155,10 @@ export class FamilyTree {
     list.onclick = () => this.host.openList();
 
     const canvas = c.createDiv({ cls: "sg-ft-canvas" });
+    // Obsidian's edge swipe opens its drawers over a pan: the same opt-out
+    // its own sliders and canvas use keeps the gesture ours here
+    c.dataset["ignoreSwipe"] = "true";
+    canvas.dataset["ignoreSwipe"] = "true";
     this.canvas = canvas;
     canvas.createDiv({ cls: "sg-ft-sky" });
     canvas.createDiv({ cls: "sg-ft-ground" });

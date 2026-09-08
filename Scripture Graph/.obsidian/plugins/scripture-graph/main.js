@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.47 build e200da197 2026-09-08T23:01:16Z */
+/* scripture-graph v0.72.48 build 9f54c6606 2026-09-08T23:03:23Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.47", sha: "e200da197", at: "2026-09-08T23:01:16Z" };
+    define_SG_BUILD_default = { version: "0.72.48", sha: "9f54c6606", at: "2026-09-08T23:03:23Z" };
   }
 });
 
@@ -13979,6 +13979,8 @@ var FamilyTree = class {
     const list = head.createEl("button", { cls: "sg-ft-list", text: "All ancestors \u203A" });
     list.onclick = () => this.host.openList();
     const canvas = c2.createDiv({ cls: "sg-ft-canvas" });
+    c2.dataset["ignoreSwipe"] = "true";
+    canvas.dataset["ignoreSwipe"] = "true";
     this.canvas = canvas;
     canvas.createDiv({ cls: "sg-ft-sky" });
     canvas.createDiv({ cls: "sg-ft-ground" });
