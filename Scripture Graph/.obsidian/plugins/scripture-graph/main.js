@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.23 build e59a3589b 2026-09-08T11:20:05Z */
+/* scripture-graph v0.72.24 build f2a3574bb 2026-09-08T11:40:02Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.23", sha: "e59a3589b", at: "2026-09-08T11:20:05Z" };
+    define_SG_BUILD_default = { version: "0.72.24", sha: "f2a3574bb", at: "2026-09-08T11:40:02Z" };
   }
 });
 
@@ -13363,7 +13363,8 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       navIcon(art, opts.icon);
     }
     const key = opts.photo ?? (opts.jacket ? "scriptures" : opts.icon);
-    const photo = key ? this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${key}.jpg`) : null;
+    let photo = key ? this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${key}.jpg`) : null;
+    if (!(photo instanceof import_obsidian4.TFile) && opts.fallbackPhoto) photo = this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${opts.fallbackPhoto}.jpg`);
     if (photo instanceof import_obsidian4.TFile) {
       const img = art.createEl("img", {
         cls: "sg-nav-cover-photo",
@@ -13372,6 +13373,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       img.src = this.app.vault.getResourcePath(photo);
       img.onload = () => art.addClass("sg-has-photo");
     }
+    if (opts.stamp) art.createDiv({ cls: "sg-nav-cover-stamp", text: opts.stamp });
     card.createDiv({ cls: "sg-nav-cover-label", text: opts.label });
     card.onclick = opts.onTap;
   }
@@ -13660,17 +13662,19 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
     const listing = this.host.listFolder(path);
     const yearish = listing.folders.length > 3 && listing.folders.every((f) => /^\d{4}$/.test(f.name));
     const folders = yearish ? [...listing.folders].reverse() : listing.folders;
+    const shelfPhoto = this.view.kind === "folder" ? coverKey(this.view.title) : void 0;
+    const tile = (grid, f) => this.cover(grid, {
+      icon: "folder",
+      label: f.name,
+      photo: coverKey(f.name),
+      fallbackPhoto: shelfPhoto,
+      stamp: yearish ? f.name : void 0,
+      onTap: () => this.go({ kind: "folder", path: f.path, title: f.name })
+    });
     if (folders.length && !yearish) {
       this.coverSeq = 0;
       const grid = c2.createDiv({ cls: "sg-nav-covers" });
-      for (const f of folders) {
-        this.cover(grid, {
-          icon: "folder",
-          label: f.name,
-          photo: coverKey(f.name),
-          onTap: () => this.go({ kind: "folder", path: f.path, title: f.name })
-        });
-      }
+      for (const f of folders) tile(grid, f);
     }
     let filter = "";
     const list = c2.createDiv({ cls: "sg-nav-list" });
@@ -13679,15 +13683,13 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       const q = filter.toLowerCase();
       let i = 0;
       if (yearish) {
+        this.coverSeq = 0;
+        const grid = list.createDiv({ cls: "sg-nav-covers sg-nav-years" });
         for (const f of folders) {
           if (q && !f.name.toLowerCase().includes(q)) continue;
-          const row = list.createDiv({ cls: "sg-nav-row" });
-          cascade(row, i++);
-          navIcon(row, "folder");
-          row.createSpan({ cls: "sg-nav-name", text: f.name });
-          row.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
-          row.onclick = () => this.go({ kind: "folder", path: f.path, title: f.name });
+          tile(grid, f);
         }
+        if (!grid.childElementCount) grid.remove();
       }
       for (const fi of listing.files) {
         if (q && !fi.name.toLowerCase().includes(q)) continue;

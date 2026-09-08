@@ -615,6 +615,10 @@ export class SGLibraryView extends ItemView {
   private cover(grid: HTMLElement, opts: {
     icon?: NavIconName; hue?: string; label: string;
     lines?: string[]; jacket?: string; photo?: string; onTap: () => void;
+    /** art to borrow when covers/<photo>.jpg is missing (a sub-shelf wears its shelf's photo) */
+    fallbackPhoto?: string;
+    /** short text printed on the art itself — a year on an archive tile */
+    stamp?: string;
   }): void {
     const card = grid.createDiv({ cls: "sg-nav-cover" });
     card.setAttr("role", "button");
@@ -639,13 +643,15 @@ export class SGLibraryView extends ItemView {
     // at once in its plain hue and the image fades in when it scrolls into
     // view. `covers/<key>.jpg` is ~40 KB at 480 px; drop your own to replace.
     const key = opts.photo ?? (opts.jacket ? "scriptures" : opts.icon);
-    const photo = key ? this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${key}.jpg`) : null;
+    let photo = key ? this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${key}.jpg`) : null;
+    if (!(photo instanceof TFile) && opts.fallbackPhoto) photo = this.app.vault.getAbstractFileByPath(`${COVERS_PATH}/${opts.fallbackPhoto}.jpg`);
     if (photo instanceof TFile) {
       const img = art.createEl("img", { cls: "sg-nav-cover-photo",
         attr: { loading: "lazy", decoding: "async", alt: "" } });
       img.src = this.app.vault.getResourcePath(photo);
       img.onload = () => art.addClass("sg-has-photo");
     }
+    if (opts.stamp) art.createDiv({ cls: "sg-nav-cover-stamp", text: opts.stamp });
     card.createDiv({ cls: "sg-nav-cover-label", text: opts.label });
     card.onclick = opts.onTap;
   }
@@ -919,16 +925,21 @@ export class SGLibraryView extends ItemView {
     const yearish = listing.folders.length > 3
       && listing.folders.every(f => /^\d{4}$/.test(f.name));
     const folders = yearish ? [...listing.folders].reverse() : listing.folders;
+    // the shelf's own art, for sub-shelves that have none of their own
+    // (a conference year, April, October all wear the conference photo)
+    const shelfPhoto = this.view.kind === "folder" ? coverKey(this.view.title) : undefined;
+    const tile = (grid: HTMLElement, f: { name: string; path: string }) =>
+      this.cover(grid, { icon: "folder", label: f.name, photo: coverKey(f.name), fallbackPhoto: shelfPhoto,
+        stamp: yearish ? f.name : undefined,
+        onTap: () => this.go({ kind: "folder", path: f.path, title: f.name }) });
     // sub-shelves are tiles, like everything else on the shelf — a photo
-    // when the vault has one for that name (covers/<slug>.jpg), the plain
-    // card otherwise. Years (a conference archive) stay a list.
+    // when the vault has one for that name (covers/<slug>.jpg), the shelf's
+    // photo otherwise. Years (a conference archive) are tiles too, but they
+    // live under the filter box since there are a hundred of them.
     if (folders.length && !yearish) {
       this.coverSeq = 0;
       const grid = c.createDiv({ cls: "sg-nav-covers" });
-      for (const f of folders) {
-        this.cover(grid, { icon: "folder", label: f.name, photo: coverKey(f.name),
-          onTap: () => this.go({ kind: "folder", path: f.path, title: f.name }) });
-      }
+      for (const f of folders) tile(grid, f);
     }
     let filter = "";
     const list = c.createDiv({ cls: "sg-nav-list" });
@@ -937,15 +948,13 @@ export class SGLibraryView extends ItemView {
       const q = filter.toLowerCase();
       let i = 0;
       if (yearish) {
+        this.coverSeq = 0;
+        const grid = list.createDiv({ cls: "sg-nav-covers sg-nav-years" });
         for (const f of folders) {
           if (q && !f.name.toLowerCase().includes(q)) continue;
-          const row = list.createDiv({ cls: "sg-nav-row" });
-          cascade(row, i++);
-          navIcon(row, "folder");
-          row.createSpan({ cls: "sg-nav-name", text: f.name });
-          row.createSpan({ cls: "sg-nav-chev", text: "›" });
-          row.onclick = () => this.go({ kind: "folder", path: f.path, title: f.name });
+          tile(grid, f);
         }
+        if (!grid.childElementCount) grid.remove();
       }
       for (const fi of listing.files) {
         if (q && !fi.name.toLowerCase().includes(q)) continue;
