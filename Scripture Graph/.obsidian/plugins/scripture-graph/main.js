@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.30 build cd3d90a0c 2026-09-08T12:13:22Z */
+/* scripture-graph v0.72.31 build b18114a9e 2026-09-08T12:30:04Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.30", sha: "cd3d90a0c", at: "2026-09-08T12:13:22Z" };
+    define_SG_BUILD_default = { version: "0.72.31", sha: "b18114a9e", at: "2026-09-08T12:30:04Z" };
   }
 });
 
@@ -6127,6 +6127,142 @@ var init_src = __esm({
   }
 });
 
+// src/state.ts
+var import_obsidian, CANONICAL_PREFIX, ANNOTATED_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, DEFAULT_SHARED, DEFAULT_DEVICE, SGState;
+var init_state = __esm({
+  "src/state.ts"() {
+    "use strict";
+    init_define_SG_BUILD();
+    import_obsidian = require("obsidian");
+    init_src();
+    CANONICAL_PREFIX = "AI Library/01 Scriptures/Canonical/";
+    ANNOTATED_PREFIX = "AI Library/01 Scriptures/Annotated/";
+    LIBRARY_PREFIX = "AI Library/";
+    PERSONAL_PREFIX = "Library/";
+    DEFAULT_SHARED = {
+      serverUrl: "http://127.0.0.1:8930",
+      defaultVisibility: "private",
+      forceLibraryPreview: true,
+      spotifyClientId: "",
+      chapterLinksToMyStudy: true,
+      themes: []
+    };
+    DEFAULT_DEVICE = {
+      deviceToken: null,
+      userId: null,
+      displayName: null,
+      openrouterKey: null,
+      aiTier: "auto",
+      aiSpecificModel: null,
+      aiUsePersonalNotes: false,
+      showScopes: { mine: true, groups: {}, public: false },
+      aiDepth: "balanced",
+      lastShareScope: { visibility: "private", groupId: null },
+      lastColor: "yellow",
+      lastStyle: "highlight",
+      lastTheme: null,
+      debugOverlay: false,
+      barExpanded: false,
+      lastChapter: null,
+      recentChapters: [],
+      showAiLibrary: false,
+      scene: "none",
+      tlDepth: 2,
+      swipeNav: true
+    };
+    SGState = class {
+      constructor(app, plugin) {
+        this.app = app;
+        this.plugin = plugin;
+        const ns = `sg:${app.appId ?? "vault"}`;
+        this.store = new WebStorage(ns, globalThis.localStorage);
+        this.sync = new SyncEngine(this.store);
+        this.budget = new Budget(this.store);
+        const fetchLike = async (url, init) => {
+          const res = await (0, import_obsidian.requestUrl)({
+            url,
+            method: init.method,
+            headers: init.headers,
+            body: init.body,
+            throw: false
+          });
+          return {
+            status: res.status,
+            json: async () => {
+              try {
+                return res.json;
+              } catch {
+                return {};
+              }
+            }
+          };
+        };
+        this.api = new ApiClient(DEFAULT_SHARED.serverUrl, fetchLike, null);
+        this.api.setCandidates(this.device.serverUrls ?? []);
+        this.api.onAdvertised = (urls) => {
+          const known = new Set(this.device.serverUrls ?? []);
+          const fresh = urls.filter((u) => !known.has(u));
+          if (!fresh.length) return;
+          this.device.serverUrls = [...this.device.serverUrls ?? [], ...fresh].slice(-8);
+          this.api.setCandidates(this.device.serverUrls);
+          void this.saveDevice();
+        };
+        this.api.onSwitched = (url) => {
+          this.notify();
+          console.info("scripture-graph: reached the server at", url);
+        };
+      }
+      settings = { ...DEFAULT_SHARED };
+      device = { ...DEFAULT_DEVICE };
+      store;
+      sync;
+      budget;
+      api;
+      modelRegistry = [];
+      groups = [];
+      /** anchor_id -> social annotations from the last query (others' shared) */
+      socialCache = /* @__PURE__ */ new Map();
+      onChange = [];
+      async loadDevice() {
+        const d = await this.store.get("device");
+        if (d) this.device = { ...DEFAULT_DEVICE, ...d };
+        this.api.setToken(this.device.deviceToken);
+      }
+      async saveDevice() {
+        await this.store.put("device", this.device);
+        this.api.setToken(this.device.deviceToken);
+      }
+      applySettings(s) {
+        this.settings = { ...DEFAULT_SHARED, ...this.settings, ...s };
+        this.api.baseUrl = this.settings.serverUrl;
+      }
+      get signedIn() {
+        return !!this.device.deviceToken;
+      }
+      get aiConnected() {
+        return !!this.device.openrouterKey;
+      }
+      notify() {
+        for (const f of this.onChange) {
+          try {
+            f();
+          } catch {
+          }
+        }
+      }
+      /** set by AnnotationService: re-decorates rendered verses IN PLACE */
+      redecorate = null;
+      /** Marks appear/disappear the moment anything changes. Decoration happens
+       * in place on the existing DOM — a full markdown re-render would reset the
+       * reading position to the top of the file (user-reported bug). */
+      rerenderReading() {
+        this.notify();
+        void this.redecorate?.();
+      }
+    };
+  }
+});
+
 // src/study/leafNav.ts
 function recordHistory(leaf) {
   const l = leaf;
@@ -6218,6 +6354,584 @@ var init_trace = __esm({
     MAX = 300;
     START = Date.now();
     overlayEl = null;
+  }
+});
+
+// src/study/navIcons.ts
+function iconHue(name) {
+  return (I[name] ?? I.page).h;
+}
+function navIcon(parent, name) {
+  const d = I[name] ?? I.page;
+  const span = parent.createSpan({ cls: "sg-nav-ico" });
+  span.style.setProperty("--ico", d.h);
+  span.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${d.s}</svg>`;
+  return span;
+}
+function cascade(el, i) {
+  el.style.animationDelay = `${Math.min(i * 26, 340)}ms`;
+}
+var I;
+var init_navIcons = __esm({
+  "src/study/navIcons.ts"() {
+    "use strict";
+    init_define_SG_BUILD();
+    I = {
+      "old-testament": {
+        // a parchment scroll
+        h: "#e7b95c",
+        s: `<path d="M6 4.5h11a2.5 2.5 0 0 1 2.5 2.5v9.5"/>
+        <path d="M6 4.5A2.5 2.5 0 0 0 3.5 7v10A2.5 2.5 0 0 0 6 19.5h11.5a2 2 0 0 0 2-2v-1"/>
+        <path d="M8.5 9h7M8.5 12.5h7M8.5 16h4"/>`
+      },
+      "new-testament": {
+        // a rounded cross
+        h: "#b79cff",
+        s: `<path d="M12 4.5v15M6.5 9.5h11"/>
+        <path d="M12 4.5v15" opacity="0.35" stroke-width="4.4"/>`
+      },
+      "book-of-mormon": {
+        // book + bookmark
+        h: "#52c7a0",
+        s: `<path d="M5 5.5A2.5 2.5 0 0 1 7.5 3h11a.5.5 0 0 1 .5.5v15a.5.5 0 0 1-.5.5h-11A2.5 2.5 0 0 0 5 21z"/>
+        <path d="M5 18.5A2.5 2.5 0 0 1 7.5 16H19"/>
+        <path d="M13.5 3v7l2-1.6 2 1.6V3"/>`
+      },
+      doctrine: {
+        // a skeleton key
+        h: "#f0c548",
+        s: `<circle cx="8" cy="8" r="4"/>
+        <path d="M10.8 10.8 19 19M15.5 15.5l3-3M17.5 17.5l2.4-2.4"/>`
+      },
+      pearl: {
+        // a faceted gem
+        h: "#6ad4e8",
+        s: `<path d="M7 4h10l4 5-9 11L3 9z"/>
+        <path d="M3 9h18M7 4l5 5 5-5M12 9v11"/>`
+      },
+      timeline: {
+        // a constellation
+        h: "#52a9ff",
+        s: `<circle cx="6" cy="17" r="2"/>
+        <circle cx="12" cy="7" r="2.4"/>
+        <circle cx="18.5" cy="14.5" r="1.7"/>
+        <path d="M7.3 15.3 10.6 9M14 8.4l3.2 4.6"/>`
+      },
+      library: {
+        // leaning book spines
+        h: "#f08fb0",
+        s: `<path d="M4.5 4.5v15M9.5 4.5v15"/>
+        <path d="m13.6 5.4 4.6 13.7"/>
+        <path d="M4.5 8h5M13.9 9.3l4.4-1.4"/>`
+      },
+      hub: {
+        // home, lit window
+        h: "#ffab70",
+        s: `<path d="m4 11 8-6.5L20 11"/>
+        <path d="M6 9.8V19a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9.8"/>
+        <path d="M10.3 20v-4.6a1.7 1.7 0 0 1 3.4 0V20"/>`
+      },
+      groups: {
+        // two companions
+        h: "#a78bfa",
+        s: `<circle cx="9" cy="8.5" r="3"/>
+        <path d="M3.5 19.5v-1a5.5 5.5 0 0 1 11 0v1"/>
+        <circle cx="16.8" cy="9.5" r="2.3"/>
+        <path d="M16 14.6a4.6 4.6 0 0 1 4.9 4.4v.5"/>`
+      },
+      search: {
+        // the lens
+        h: "#8fa3c8",
+        s: `<circle cx="10.5" cy="10.5" r="6"/>
+        <path d="m15.2 15.2 5 5"/>`
+      },
+      continue: {
+        // play
+        h: "#c9b8ff",
+        s: `<path d="M8 5.8v12.4a.8.8 0 0 0 1.2.7l10-6.2a.8.8 0 0 0 0-1.4l-10-6.2a.8.8 0 0 0-1.2.7z"/>`
+      },
+      target: {
+        // straight to it
+        h: "#7cc4ff",
+        s: `<circle cx="12" cy="12" r="7.5"/>
+        <circle cx="12" cy="12" r="3.2"/>
+        <path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3"/>`
+      },
+      verse: {
+        // an open quote
+        h: "#8fd8b8",
+        s: `<path d="M5 7.5A3.5 3.5 0 0 1 8.5 4v0A6.5 6.5 0 0 0 5 9.8V16a2 2 0 0 0 2 2h2.5a2 2 0 0 0 2-2v-3.5a2 2 0 0 0-2-2H5z"/>
+        <path d="M13.5 7.5A3.5 3.5 0 0 1 17 4v0a6.5 6.5 0 0 0-3.5 5.8V16a2 2 0 0 0 2 2H18a2 2 0 0 0 2-2v-3.5a2 2 0 0 0-2-2h-4.5z"/>`
+      },
+      page: {
+        // a document
+        h: "#9db4d8",
+        s: `<path d="M7 3.5h7L18.5 8v11a1.5 1.5 0 0 1-1.5 1.5H7A1.5 1.5 0 0 1 5.5 19V5A1.5 1.5 0 0 1 7 3.5z"/>
+        <path d="M13.5 3.5V8h4.6M8.5 12.5h7M8.5 16h5"/>`
+      },
+      chapter: {
+        // an open book
+        h: "#8ec7f0",
+        s: `<path d="M12 6.5C10.5 5 8.2 4.3 5.5 4.3c-.8 0-1.5.06-2 .16V18c.5-.1 1.2-.16 2-.16 2.7 0 5 .7 6.5 2.16 1.5-1.46 3.8-2.16 6.5-2.16.8 0 1.5.06 2 .16V4.46c-.5-.1-1.2-.16-2-.16-2.7 0-5 .7-6.5 2.2z"/>
+        <path d="M12 6.5V20"/>`
+      },
+      folder: {
+        // a shelf drawer
+        h: "#d9b36a",
+        s: `<path d="M3.5 7A1.5 1.5 0 0 1 5 5.5h4l2 2.5h8A1.5 1.5 0 0 1 20.5 9.5V18A1.5 1.5 0 0 1 19 19.5H5A1.5 1.5 0 0 1 3.5 18z"/>`
+      },
+      conference: {
+        // the pulpit mic
+        h: "#f4a6c0",
+        s: `<rect x="9" y="3.5" width="6" height="11" rx="3"/>
+        <path d="M5.5 11.5a6.5 6.5 0 0 0 13 0M12 18v2.5M9 20.5h6"/>`
+      },
+      dictionary: {
+        // book of words
+        h: "#c9a3f5",
+        s: `<path d="M5 5.5A2.5 2.5 0 0 1 7.5 3h11a.5.5 0 0 1 .5.5v15a.5.5 0 0 1-.5.5h-11A2.5 2.5 0 0 0 5 21z"/>
+        <path d="M5 18.5A2.5 2.5 0 0 1 7.5 16H19"/>
+        <path d="m9.8 12.5 2.2-5.5 2.2 5.5M10.5 10.8h3"/>`
+      },
+      topics: {
+        // a tag
+        h: "#79d2c3",
+        s: `<path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11l8.6 8.6a2 2 0 0 1 0 2.8l-4.2 4.2a2 2 0 0 1-2.8 0L4 11z"/>
+        <circle cx="8.6" cy="8.6" r="1.4"/>`
+      },
+      person: {
+        // one soul
+        h: "#f0b884",
+        s: `<circle cx="12" cy="8" r="3.6"/>
+        <path d="M5 20v-.8a7 7 0 0 1 14 0v.8"/>`
+      },
+      place: {
+        // a map pin
+        h: "#8fd0f4",
+        s: `<path d="M12 21s-6.5-5.7-6.5-10.3a6.5 6.5 0 0 1 13 0C18.5 15.3 12 21 12 21z"/>
+        <circle cx="12" cy="10.5" r="2.3"/>`
+      },
+      event: {
+        // a marked day
+        h: "#f2c063",
+        s: `<rect x="4" y="5.5" width="16" height="15" rx="2"/>
+        <path d="M8 3.5v4M16 3.5v4M4 10.5h16M9.5 15.5l1.8 1.8 3.4-3.4"/>`
+      },
+      doctrines: {
+        // engraved lines
+        h: "#a4c8f0",
+        s: `<path d="M7 3.5h10A1.5 1.5 0 0 1 18.5 5v14a1.5 1.5 0 0 1-1.5 1.5H7A1.5 1.5 0 0 1 5.5 19V5A1.5 1.5 0 0 1 7 3.5z"/>
+        <path d="M9 8h6M9 11.5h6M9 15h3.5"/>`
+      },
+      papers: {
+        // the archive box
+        h: "#c8b090",
+        s: `<rect x="3.5" y="4.5" width="17" height="5" rx="1"/>
+        <path d="M5.5 9.5V18A1.5 1.5 0 0 0 7 19.5h10a1.5 1.5 0 0 0 1.5-1.5V9.5M10 13h4"/>`
+      },
+      history: {
+        // pillars
+        h: "#d8c8a0",
+        s: `<path d="m4 8 8-4.5L20 8M5 8.5h14"/>
+        <path d="M6.5 11v6M12 11v6M17.5 11v6M4.5 19.5h15"/>`
+      },
+      evidence: {
+        // examined + proven
+        h: "#84d89c",
+        s: `<circle cx="10.5" cy="10.5" r="6"/>
+        <path d="m15.2 15.2 5 5M8.2 10.6l1.7 1.7 3-3"/>`
+      },
+      question: {
+        // an honest question
+        h: "#a8b8f8",
+        s: `<circle cx="12" cy="12" r="8.5"/>
+        <path d="M9.6 9.2a2.6 2.6 0 0 1 5 .9c0 1.7-2.4 2-2.4 3.6"/>
+        <path d="M12.1 16.8h.01"/>`
+      },
+      scholarship: {
+        // the cap
+        h: "#b8d4f8",
+        s: `<path d="m2.5 9.5 9.5-4.5 9.5 4.5-9.5 4.5z"/>
+        <path d="M6.5 11.7V16c0 1.4 2.5 2.7 5.5 2.7s5.5-1.3 5.5-2.7v-4.3M21 10v5"/>`
+      },
+      podcast: {
+        // voice in the air
+        h: "#f0a8a0",
+        s: `<circle cx="12" cy="11" r="2.6"/>
+        <path d="M8.2 15.4a5.3 5.3 0 1 1 7.6 0M12 14v6.5"/>
+        <path d="M5.6 17.5a9 9 0 1 1 12.8 0" opacity="0.55"/>`
+      },
+      graph: {
+        // the web of nodes
+        h: "#8fb8ff",
+        s: `<circle cx="6" cy="6.5" r="2.4"/>
+        <circle cx="18" cy="8.5" r="2"/>
+        <circle cx="8.5" cy="18" r="2.1"/>
+        <circle cx="17" cy="17" r="1.6"/>
+        <path d="M8.2 7.4 16 8.2M7 8.7l1.2 7.2M10.5 17.4l4.9-.3M15.9 9.9l.7 5.4"/>`
+      }
+    };
+  }
+});
+
+// src/study/search.ts
+function normalize(s) {
+  return s.toLowerCase().normalize("NFD").replace(/\p{M}+/gu, "").replace(/['’ʼ]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
+}
+function stem(t) {
+  for (const suf of SUFFIXES) {
+    if (t.endsWith(suf) && t.length - suf.length >= 3) {
+      return t.slice(0, t.length - suf.length);
+    }
+  }
+  return t;
+}
+function tokenize(s) {
+  const n = normalize(s);
+  return n ? n.split(" ").map(stem) : [];
+}
+function parseVerseLine(chapter, line) {
+  const m2 = VERSE_LINE_RE.exec(line);
+  if (!m2) return null;
+  const text = m2[2];
+  return {
+    chapter,
+    verse: Number(m2[1]),
+    text,
+    anchor: m2[3],
+    norm: normalize(text),
+    tokens: tokenize(text)
+  };
+}
+function searchIndexReady() {
+  return builtIndex !== null;
+}
+function buildSearchIndex(app, onProgress) {
+  if (builtIndex) return Promise.resolve(builtIndex);
+  if (onProgress) progressListeners.push(onProgress);
+  if (building) return building;
+  building = (async () => {
+    const all = app.vault.getMarkdownFiles();
+    const canonical = all.filter((f) => f.path.startsWith(CANONICAL_PREFIX));
+    const verses = [];
+    const chapters = [];
+    let done = 0;
+    for (const f of canonical) {
+      const title = f.basename;
+      chapters.push({ title, norm: normalize(title), tokens: tokenize(title) });
+      try {
+        const md = await app.vault.cachedRead(f);
+        for (const line of md.split("\n")) {
+          const rec = parseVerseLine(title, line);
+          if (rec) verses.push(rec);
+        }
+      } catch {
+      }
+      done++;
+      for (const p of progressListeners) p(done, canonical.length);
+    }
+    const pages = [];
+    for (const f of all) {
+      if (!f.path.startsWith(LIBRARY_PREFIX)) continue;
+      if (f.path.includes("01 Scriptures/")) continue;
+      if (f.basename.startsWith("_")) continue;
+      const fm2 = app.metadataCache.getFileCache(f)?.frontmatter;
+      const raw = fm2?.["aliases"];
+      const aliases = Array.isArray(raw) ? raw.map(String) : typeof raw === "string" ? [raw] : [];
+      pages.push({ title: f.basename, path: f.path, aliases });
+    }
+    builtIndex = { verses, pages, chapters };
+    building = null;
+    progressListeners.length = 0;
+    return builtIndex;
+  })();
+  return building;
+}
+function parseReference(q) {
+  const m2 = /^(.+?)[\s.]*(\d{1,3})(?:\s*[:.]\s*(\d{1,3}))?$/.exec(q.trim());
+  if (!m2) return null;
+  const book = BOOK_LOOKUP.get(normalize(m2[1]));
+  if (!book) return null;
+  const chapter = Number(m2[2]);
+  if (chapter < 1 || chapter > book.chapters) return null;
+  const verse = m2[3] ? Number(m2[3]) : null;
+  if (verse !== null && verse < 1) return null;
+  return {
+    bookName: book.name,
+    title: `${book.prefix} ${chapter}`,
+    chapter,
+    verse,
+    anchor: verse !== null ? `${book.slug}-${chapter}-${verse}` : null
+  };
+}
+function phraseAt(norm, qnorm) {
+  const hay = ` ${norm} `;
+  const i = hay.indexOf(` ${qnorm} `);
+  return i < 0 ? -1 : i;
+}
+function tokenMatches(token, q, isLast, prefixOk) {
+  return token === q || isLast && prefixOk && q.length >= 2 && token.startsWith(q);
+}
+function scoreTokens(tokens, qtokens, prefixOk) {
+  const n = qtokens.length;
+  if (!n || !tokens.length) return { tier: 9, score: 0 };
+  let present = 0;
+  for (let qi = 0; qi < n; qi++) {
+    const q = qtokens[qi];
+    const isLast = qi === n - 1;
+    for (const t of tokens) {
+      if (tokenMatches(t, q, isLast, prefixOk)) {
+        present++;
+        break;
+      }
+    }
+  }
+  const need = n >= 2 ? Math.ceil(n / 2) : 1;
+  if (present < need) return { tier: 9, score: 0 };
+  const tier = present === n ? 2 : 3;
+  const last = new Array(n).fill(-1);
+  let bestSpan = Infinity;
+  let bestStart = -1;
+  let bestOrdered = false;
+  for (let i = 0; i < tokens.length; i++) {
+    const t = tokens[i];
+    for (let qi = 0; qi < n; qi++) {
+      if (tokenMatches(t, qtokens[qi], qi === n - 1, prefixOk)) last[qi] = i;
+    }
+    let lo = Infinity, hi = -1, have = 0;
+    for (let qi = 0; qi < n; qi++) {
+      const p = last[qi];
+      if (p < 0) continue;
+      have++;
+      if (p < lo) lo = p;
+      if (p > hi) hi = p;
+    }
+    if (have < present) continue;
+    const span = hi - lo;
+    if (span < bestSpan || span === bestSpan && bestStart < 0) {
+      bestSpan = span;
+      bestStart = lo;
+      let ordered = true;
+      for (let qi = 1; qi < n; qi++) {
+        const a2 = last[qi - 1], b = last[qi];
+        if (a2 >= 0 && b >= 0 && a2 > b) {
+          ordered = false;
+          break;
+        }
+      }
+      bestOrdered = ordered;
+    }
+  }
+  if (bestStart < 0) return { tier: 9, score: 0 };
+  const slack = bestSpan - (present - 1);
+  const score = 60 / (1 + slack) + (bestOrdered ? 12 : 0) + 10 / (1 + bestStart) + 6 / (1 + tokens.length / 12) + present * 4;
+  return { tier, score };
+}
+function scoreText(norm, tokens, qnorm, qtokens) {
+  if (qnorm) {
+    const at = phraseAt(norm, qnorm);
+    if (at >= 0) {
+      return {
+        tier: 1,
+        score: 100 + 20 / (1 + at / 8) + 8 / (1 + tokens.length / 12)
+      };
+    }
+  }
+  return scoreTokens(tokens, qtokens, true);
+}
+function scoreTitle(title, qnorm, qtokens) {
+  return scoreTitleParts(normalize(title), tokenize(title), qnorm, qtokens);
+}
+function scoreTitleParts(norm, tokens, qnorm, qtokens) {
+  if (!norm) return { tier: 9, score: 0 };
+  if (norm === qnorm) return { tier: 1, score: 400 };
+  if (qnorm && norm.startsWith(qnorm)) return { tier: 1, score: 300 - norm.length };
+  const base = scoreText(norm, tokens, qnorm, qtokens);
+  if (base.tier >= 9) return base;
+  const first = norm.split(" ")[0];
+  const qFirst = qtokens[0] ?? "";
+  const startsish = qFirst && (first === qFirst || first.startsWith(qFirst));
+  return { tier: base.tier, score: base.score + (startsish ? 30 : 0) };
+}
+function rawWords(text) {
+  const out = [];
+  const re = /[A-Za-z0-9À-ɏ'’ʼ]+/g;
+  let m2;
+  while (m2 = re.exec(text)) {
+    const w = normalize(m2[0]);
+    if (!w) continue;
+    out.push({ start: m2.index, end: m2.index + m2[0].length, norm: w, stemmed: stem(w) });
+  }
+  return out;
+}
+function matchRanges(text, qnorm, qtokens) {
+  const words = rawWords(text);
+  const phrase = qnorm ? qnorm.split(" ") : [];
+  if (phrase.length) {
+    for (let i = 0; i + phrase.length <= words.length; i++) {
+      let ok = true;
+      for (let j = 0; j < phrase.length; j++) {
+        if (words[i + j].norm !== phrase[j]) {
+          ok = false;
+          break;
+        }
+      }
+      if (ok) {
+        return [{ start: words[i].start, end: words[i + phrase.length - 1].end }];
+      }
+    }
+  }
+  const ranges = [];
+  const n = qtokens.length;
+  for (const w of words) {
+    for (let qi = 0; qi < n; qi++) {
+      if (tokenMatches(w.stemmed, qtokens[qi], qi === n - 1, true)) {
+        ranges.push({ start: w.start, end: w.end });
+        break;
+      }
+    }
+  }
+  return ranges;
+}
+function makeSnippet(text, ranges) {
+  if (text.length <= SNIPPET_LEN) return { snippet: text, ranges };
+  if (!ranges.length) {
+    const cut = text.lastIndexOf(" ", SNIPPET_LEN);
+    return { snippet: `${text.slice(0, cut > 60 ? cut : SNIPPET_LEN)}\u2026`, ranges: [] };
+  }
+  const first = ranges[0];
+  let start = Math.max(0, first.start - 36);
+  if (start > 0) {
+    const sp = text.indexOf(" ", start);
+    if (sp >= 0 && sp < first.start) start = sp + 1;
+  }
+  let end = Math.min(text.length, start + SNIPPET_LEN);
+  if (end < text.length) {
+    const sp = text.lastIndexOf(" ", end);
+    if (sp > start + SNIPPET_LEN / 2) end = sp;
+  }
+  const prefix = start > 0 ? "\u2026" : "";
+  const suffix = end < text.length ? "\u2026" : "";
+  const body = text.slice(start, end);
+  const shift = start - prefix.length;
+  const kept = ranges.filter((r) => r.start >= start && r.end <= end).map((r) => ({ start: r.start - shift, end: r.end - shift }));
+  return { snippet: prefix + body + suffix, ranges: kept };
+}
+function smartSearch(q, index2) {
+  const qnorm = normalize(q);
+  const qtokens = tokenize(q);
+  const out = { verses: [], pages: [], chapters: [] };
+  if (!qtokens.length) return out;
+  const ref = parseReference(q);
+  if (ref) out.reference = ref;
+  const vhits = [];
+  for (const rec of index2.verses) {
+    const s = scoreText(rec.norm, rec.tokens, qnorm, qtokens);
+    if (s.tier < 9) vhits.push({ rec, tier: s.tier, score: s.score });
+  }
+  vhits.sort(byRank);
+  for (const h of vhits.slice(0, 8)) {
+    const { snippet, ranges } = makeSnippet(h.rec.text, matchRanges(h.rec.text, qnorm, qtokens));
+    out.verses.push({
+      chapter: h.rec.chapter,
+      verse: h.rec.verse,
+      anchor: h.rec.anchor,
+      snippet,
+      ranges,
+      tier: h.tier,
+      score: h.score
+    });
+  }
+  const phits = [];
+  for (const rec of index2.pages) {
+    let best = scoreTitle(rec.title, qnorm, qtokens);
+    for (const a2 of rec.aliases) {
+      const s = scoreTitle(a2, qnorm, qtokens);
+      if (byRank(s, best) < 0) best = s;
+    }
+    if (best.tier < 9) phits.push({ rec, tier: best.tier, score: best.score });
+  }
+  phits.sort(byRank);
+  out.pages = phits.slice(0, 6).map((h) => ({
+    title: h.rec.title,
+    path: h.rec.path,
+    tier: h.tier,
+    score: h.score
+  }));
+  const chits = [];
+  for (const rec of index2.chapters) {
+    if (ref && rec.title === ref.title) continue;
+    const s = scoreTitleParts(rec.norm, rec.tokens, qnorm, qtokens);
+    if (s.tier < 9) chits.push({ rec, tier: s.tier, score: s.score });
+  }
+  chits.sort(byRank);
+  out.chapters = chits.slice(0, 4).map((h) => ({ title: h.rec.title, tier: h.tier, score: h.score }));
+  return out;
+}
+var SUFFIXES, VERSE_LINE_RE, builtIndex, building, progressListeners, BOOK_LOOKUP, SNIPPET_LEN, byRank;
+var init_search = __esm({
+  "src/study/search.ts"() {
+    "use strict";
+    init_define_SG_BUILD();
+    init_src();
+    init_state();
+    SUFFIXES = ["eth", "est", "ings", "ing", "ed", "es", "s", "'s"];
+    VERSE_LINE_RE = /^\*\*(\d+)\*\*\s+(.*?)\s*\^([a-z0-9]+(?:-\d+)+)\s*$/;
+    builtIndex = null;
+    building = null;
+    progressListeners = [];
+    BOOK_LOOKUP = (() => {
+      const m2 = /* @__PURE__ */ new Map();
+      for (const b of BOOKS) {
+        for (const form of [b.name, b.prefix, b.slug, ...b.aliases]) {
+          const key = normalize(form);
+          if (key) m2.set(key, b);
+        }
+      }
+      return m2;
+    })();
+    SNIPPET_LEN = 140;
+    byRank = (a2, b) => a2.tier - b.tier || b.score - a2.score;
+  }
+});
+
+// src/study/navigator.ts
+function titleForChapterSlug(slug) {
+  const m2 = /^(.+)-(\d+)$/.exec(slug);
+  if (!m2) return null;
+  return chapterTitle(m2[1], Number(m2[2]));
+}
+var import_obsidian3, LIBRARY_SECTIONS, VOLUMES;
+var init_navigator = __esm({
+  "src/study/navigator.ts"() {
+    "use strict";
+    init_define_SG_BUILD();
+    import_obsidian3 = require("obsidian");
+    init_src();
+    init_navIcons();
+    init_search();
+    LIBRARY_SECTIONS = [
+      { icon: "conference", name: "General Conference", path: "AI Library/10 General Conference" },
+      { icon: "dictionary", name: "Bible Dictionary", path: "AI Library/80 Bible Dictionary" },
+      { icon: "topics", name: "Gospel Topics", path: "AI Library/02 Gospel Topics" },
+      { icon: "person", name: "People", path: "AI Library/03 People" },
+      { icon: "place", name: "Places", path: "AI Library/04 Places" },
+      { icon: "event", name: "Events", path: "AI Library/05 Events" },
+      { icon: "doctrines", name: "Doctrines", path: "AI Library/06 Doctrines" },
+      { icon: "papers", name: "Words of the Prophets", path: "AI Library/20 Words of the Prophets" },
+      { icon: "history", name: "Church History", path: "AI Library/30 Church History" },
+      { icon: "evidence", name: "Findings", path: "AI Library/40 Findings" },
+      // Hard Questions is a first-class shelf (see libraryView), not a folder here
+      { icon: "scholarship", name: "Scholarship", path: "AI Library/60 Scholarship" },
+      { icon: "podcast", name: "Podcasts & talks", path: "AI Library/65 Secondary Sources" }
+    ];
+    VOLUMES = [
+      { name: "Old Testament", icon: "old-testament" },
+      { name: "New Testament", icon: "new-testament" },
+      { name: "Book of Mormon", icon: "book-of-mormon" },
+      { name: "Doctrine and Covenants", icon: "doctrine" },
+      { name: "Pearl of Great Price", icon: "pearl" }
+    ];
   }
 });
 
@@ -10137,6 +10851,245 @@ var init_themeLibrary = __esm({
   }
 });
 
+// src/study/connect.ts
+function connectionOf(content) {
+  const m2 = CONNECT_RE.exec(content);
+  if (!m2) return null;
+  return { link: `${m2[1].trim()}#^${m2[2]}`, target: m2[1].trim(), anchor: m2[2], why: (m2[3] ?? "").trim() };
+}
+function isConnectionNote(a2) {
+  return a2.annotation_type === "note" && CONNECT_RE.test(a2.content);
+}
+function linkFor(app, anchor) {
+  const r = parseVerseId(anchor);
+  if (r) {
+    const t = chapterTitle(r.bookSlug, r.chapter);
+    return t ? `${t}#^${anchor}` : null;
+  }
+  if (anchor.startsWith("doc:")) return anchor.slice(4).replace(/\.md$/, "");
+  for (const f of app.vault.getMarkdownFiles()) {
+    const fm2 = app.metadataCache.getFileCache(f)?.frontmatter;
+    if (fm2?.["sg-id"] === anchor) return f.basename;
+  }
+  return null;
+}
+var import_obsidian11, CONNECT_RE, ConnectModal;
+var init_connect = __esm({
+  "src/study/connect.ts"() {
+    "use strict";
+    init_define_SG_BUILD();
+    import_obsidian11 = require("obsidian");
+    init_src();
+    init_search();
+    init_navigator();
+    init_navIcons();
+    init_trace();
+    CONNECT_RE = /Connect:\s*\[\[([^\]|#]+)#\^([a-z0-9]+(?:-\d+)+)\]\](?:\s*[—-]\s*(.*))?/;
+    ConnectModal = class extends import_obsidian11.Modal {
+      constructor(s, ann, source, onDone) {
+        super(s.app);
+        this.s = s;
+        this.ann = ann;
+        this.source = source;
+        this.onDone = onDone;
+      }
+      view = { kind: "start" };
+      trail = [];
+      q = "";
+      seq = 0;
+      timer = null;
+      onOpen() {
+        this.modalEl.addClass("sg-connect-modal");
+        this.render();
+      }
+      onClose() {
+        if (this.timer !== null) window.clearTimeout(this.timer);
+        this.contentEl.empty();
+      }
+      go(v) {
+        this.trail.push(this.view);
+        this.view = v;
+        this.render();
+      }
+      back() {
+        const p = this.trail.pop();
+        if (p) {
+          this.view = p;
+          this.render();
+        }
+      }
+      render() {
+        const c2 = this.contentEl;
+        c2.empty();
+        c2.addClass("sg-connect");
+        const head = c2.createDiv({ cls: "sg-connect-head" });
+        if (this.trail.length) {
+          const b = head.createEl("button", { cls: "sg-connect-back", text: "\u2039" });
+          b.onclick = () => this.back();
+        }
+        const titles = head.createDiv({ cls: "sg-connect-titles" });
+        titles.createDiv({ cls: "sg-connect-eyebrow", text: "Connect" });
+        titles.createDiv({ cls: "sg-connect-from", text: this.source.label });
+        if (this.source.quoted) titles.createDiv({ cls: "sg-connect-quote", text: `\u201C${this.source.quoted.length > 80 ? this.source.quoted.slice(0, 78) + "\u2026" : this.source.quoted}\u201D` });
+        const v = this.view;
+        if (v.kind === "confirm") {
+          this.renderConfirm(c2, v.verseId, v.text);
+          return;
+        }
+        const inp = c2.createEl("input", {
+          cls: "sg-nav-filter sg-connect-search",
+          attr: { type: "search", placeholder: "Words or a reference (Alma 36:3)\u2026" }
+        });
+        inp.value = this.q;
+        const body = c2.createDiv({ cls: "sg-connect-body" });
+        inp.oninput = () => {
+          this.q = inp.value;
+          if (this.timer !== null) window.clearTimeout(this.timer);
+          this.timer = window.setTimeout(() => this.renderBody(body), 160);
+        };
+        inp.onkeydown = (e) => {
+          if (e.key === "Escape") {
+            inp.value = "";
+            this.q = "";
+            this.renderBody(body);
+          }
+        };
+        this.renderBody(body);
+        if (v.kind === "start") window.setTimeout(() => inp.focus(), 60);
+      }
+      renderBody(body) {
+        body.empty();
+        const q = this.q.trim();
+        if (q.length >= 2) {
+          this.renderSearch(body, q);
+          return;
+        }
+        const v = this.view;
+        if (v.kind === "start") {
+          body.createDiv({ cls: "sg-connect-hint", text: "Search above, or find it by hand:" });
+          for (const vol of VOLUMES) this.row(body, vol.icon, vol.name, () => this.go({ kind: "books", volume: vol.name }));
+        } else if (v.kind === "books") {
+          body.createDiv({ cls: "sg-nav-sect", text: v.volume });
+          for (const b of BOOKS.filter((x3) => x3.volume === v.volume)) this.row(body, "verse", b.name, () => this.go({ kind: "chapters", book: b }));
+        } else if (v.kind === "chapters") {
+          body.createDiv({ cls: "sg-nav-sect", text: v.book.name });
+          const grid = body.createDiv({ cls: "sg-nav-chapters" });
+          for (let n = 1; n <= v.book.chapters; n++) {
+            const btn = grid.createEl("button", { cls: "sg-nav-ch", text: String(n) });
+            btn.onclick = () => this.go({ kind: "verses", title: `${v.book.prefix} ${n}` });
+          }
+        } else if (v.kind === "verses") {
+          body.createDiv({ cls: "sg-nav-sect", text: v.title });
+          const f = this.s.app.metadataCache.getFirstLinkpathDest(v.title, "");
+          if (!(f instanceof import_obsidian11.TFile)) {
+            body.createDiv({ cls: "sg-nav-empty", text: "That chapter isn't in the vault." });
+            return;
+          }
+          void this.s.app.vault.cachedRead(f).then((raw) => {
+            if (!body.isConnected) return;
+            for (const line of parseCanonicalVerses(raw)) {
+              if (line.verseId === this.source.anchor) continue;
+              const r = body.createDiv({ cls: "sg-connect-verse" });
+              r.createSpan({ cls: "sg-connect-vn", text: String(line.verse) });
+              r.createSpan({ cls: "sg-connect-vt", text: line.text });
+              r.onclick = () => this.go({ kind: "confirm", verseId: line.verseId, text: line.text });
+            }
+          });
+        }
+      }
+      renderSearch(body, q) {
+        const seq = ++this.seq;
+        if (!searchIndexReady()) body.createDiv({ cls: "sg-nav-progress", text: "Reading the scriptures\u2026" });
+        void buildSearchIndex(this.s.app).then((index2) => {
+          if (seq !== this.seq || !body.isConnected) return;
+          body.empty();
+          const res = smartSearch(q, index2);
+          let n = 0;
+          if (res.reference) {
+            const ref = res.reference;
+            if (ref.anchor && ref.verse !== null) {
+              const vid = ref.anchor;
+              this.row(body, "target", `${ref.title}:${ref.verse}`, () => void this.confirmVerse(vid));
+            } else {
+              this.row(body, "target", `${ref.title} \u2014 pick the verse`, () => this.go({ kind: "verses", title: ref.title }));
+            }
+            n++;
+          }
+          for (const hit of res.verses.slice(0, 40)) {
+            if (hit.anchor === this.source.anchor) continue;
+            const r = body.createDiv({ cls: "sg-connect-verse" });
+            r.createSpan({ cls: "sg-connect-vn", text: `${hit.chapter}:${hit.verse}` });
+            const t = r.createSpan({ cls: "sg-connect-vt" });
+            let at = 0;
+            for (const rg of hit.ranges) {
+              if (rg.start > at) t.appendText(hit.snippet.slice(at, rg.start));
+              t.createEl("b", { text: hit.snippet.slice(rg.start, rg.end) });
+              at = rg.end;
+            }
+            if (at < hit.snippet.length) t.appendText(hit.snippet.slice(at));
+            r.onclick = () => void this.confirmVerse(hit.anchor);
+            n++;
+          }
+          if (!n) body.createDiv({ cls: "sg-nav-empty", text: "No verse matches. Try fewer words, or browse below by clearing the search." });
+        });
+      }
+      /** a verse chosen by reference or search: fetch its words for the confirm screen */
+      async confirmVerse(verseId) {
+        const r = parseVerseId(verseId);
+        const title = r ? chapterTitle(r.bookSlug, r.chapter) : null;
+        const f = title ? this.s.app.metadataCache.getFirstLinkpathDest(title, "") : null;
+        let text = "";
+        if (f instanceof import_obsidian11.TFile) {
+          const raw = await this.s.app.vault.cachedRead(f);
+          text = parseCanonicalVerses(raw).find((l) => l.verseId === verseId)?.text ?? "";
+        }
+        this.go({ kind: "confirm", verseId, text });
+      }
+      renderConfirm(c2, verseId, text) {
+        const box = c2.createDiv({ cls: "sg-connect-confirm" });
+        box.createDiv({ cls: "sg-connect-eyebrow", text: "to" });
+        box.createDiv({ cls: "sg-connect-to", text: verseDisplay(verseId) ?? verseId });
+        if (text) box.createDiv({ cls: "sg-connect-totext", text });
+        const why = box.createEl("textarea", { cls: "sg-connect-why", attr: { rows: "2", placeholder: "Why do these connect? (optional)" } });
+        const actions = box.createDiv({ cls: "sg-connect-actions" });
+        const cancel = actions.createEl("button", { text: "Back" });
+        cancel.onclick = () => this.back();
+        const go = actions.createEl("button", { cls: "mod-cta", text: "\u21C4 Connect" });
+        go.onclick = () => void this.save(verseId, why.value.trim(), go);
+        window.setTimeout(() => why.focus(), 80);
+      }
+      async save(targetId, why, btn) {
+        btn.setAttribute("disabled", "true");
+        btn.setText("Connecting\u2026");
+        const app = this.s.app;
+        const toTarget = linkFor(app, targetId);
+        const toSource = linkFor(app, this.source.anchor);
+        if (!toTarget || !toSource) {
+          new import_obsidian11.Notice("Couldn't work out where that passage lives.");
+          btn.removeAttribute("disabled");
+          btn.setText("\u21C4 Connect");
+          return;
+        }
+        const { visibility, groupId } = this.s.device.lastShareScope;
+        const tail = why ? ` \u2014 ${why}` : "";
+        await this.ann.addNote(this.source.anchor, `Connect: [[${toTarget}]]${tail}`, this.source.quoted, visibility, groupId);
+        await this.ann.addNote(targetId, `Connect: [[${toSource}]]${tail}`, null, visibility, groupId);
+        trace("connect.save", { from: this.source.anchor, to: targetId, why: !!why });
+        new import_obsidian11.Notice(`\u21C4 ${this.source.label} \u2194 ${verseDisplay(targetId) ?? targetId}`);
+        this.close();
+        this.onDone();
+      }
+      row(body, icon, label, onTap) {
+        const r = body.createDiv({ cls: "sg-nav-row" });
+        navIcon(r, icon);
+        r.createSpan({ cls: "sg-nav-name", text: label });
+        r.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
+        r.onclick = onTap;
+      }
+    };
+  }
+});
+
 // src/social/annotations.ts
 function decorateVerse(s, svc, p, verseId, mine, social) {
   p.querySelectorAll(".sgh, .sg-badge, .sgh-note-icon, .sg-theme-badges").forEach((el) => {
@@ -10189,15 +11142,17 @@ function decorateVerse(s, svc, p, verseId, mine, social) {
   }
   const openPopover = () => new NotesPopover(s, svc, verseId).open();
   if (s.device.showScopes.mine) {
+    const has = (test) => mine.some(test);
     const kinds = [
-      ["note", "\u{1F4DD}"],
-      ["study-marker", "\u{1F0CF}"],
-      ["bookmark", "\u{1F516}"]
+      [(a2) => a2.annotation_type === "note" && !isConnectionNote(a2), "\u{1F4DD}", "View your notes on this verse"],
+      [(a2) => isConnectionNote(a2), "\u21C4", "Connected to another passage \u2014 tap to see"],
+      [(a2) => a2.annotation_type === "study-marker", "\u{1F0CF}", "View your flashcards on this verse"],
+      [(a2) => a2.annotation_type === "bookmark", "\u{1F516}", "Bookmarked"]
     ];
-    for (const [kind, glyph] of kinds) {
-      if (mine.some((a2) => a2.annotation_type === kind)) {
-        const icon = p.createSpan({ cls: "sgh-note-icon", text: glyph });
-        icon.setAttribute("aria-label", "View your marks on this verse");
+    for (const [test, glyph, label] of kinds) {
+      if (has(test)) {
+        const icon = p.createSpan({ cls: `sgh-note-icon${glyph === "\u21C4" ? " sgh-conn-icon" : ""}`, text: glyph });
+        icon.setAttribute("aria-label", label);
         icon.onclick = openPopover;
       }
     }
@@ -10241,9 +11196,9 @@ function applyMark(p, h) {
   if (!h.selected_text) {
     const strong = p.querySelector("strong");
     let node = strong ? strong.nextSibling : p.firstChild;
-    const mark = document.createElement("mark");
-    mark.className = cls;
-    styleMark(mark, h);
+    const mark2 = document.createElement("mark");
+    mark2.className = cls;
+    styleMark(mark2, h);
     const moving = [];
     while (node) {
       const el = node;
@@ -10253,36 +11208,55 @@ function applyMark(p, h) {
       node = node.nextSibling;
     }
     if (!moving.length) return;
-    p.insertBefore(mark, moving[0]);
-    moving.forEach((m2) => mark.appendChild(m2));
+    p.insertBefore(mark2, moving[0]);
+    moving.forEach((m2) => mark2.appendChild(m2));
     return;
   }
   const walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
-  let t;
-  while (t = walker.nextNode()) {
-    const idx = t.nodeValue?.indexOf(h.selected_text) ?? -1;
-    if (idx === -1) continue;
-    const range = document.createRange();
-    range.setStart(t, idx);
-    range.setEnd(t, idx + h.selected_text.length);
-    const mark = document.createElement("mark");
-    mark.className = cls;
-    styleMark(mark, h);
-    try {
-      range.surroundContents(mark);
-    } catch {
+  const nodes = [];
+  for (let t = walker.nextNode(); t; t = walker.nextNode()) {
+    if (t.parentElement?.closest(".sg-conn-chip, .sg-fn-chip, .sg-fn-mark, .sgh-note-icon, .sg-badge, .sg-theme-badges, strong")) continue;
+    nodes.push(t);
+  }
+  const joined = nodes.map((n) => n.data).join("");
+  const idx = joined.indexOf(h.selected_text);
+  if (idx < 0) return;
+  const locate = (i) => {
+    let left = i;
+    for (const n of nodes) {
+      if (left <= n.data.length) return [n, left];
+      left -= n.data.length;
     }
-    return;
+    return null;
+  };
+  const from = locate(idx), to = locate(idx + h.selected_text.length);
+  if (!from || !to) return;
+  const range = document.createRange();
+  range.setStart(from[0], from[1]);
+  range.setEnd(to[0], to[1]);
+  const mark = document.createElement("mark");
+  mark.className = cls;
+  styleMark(mark, h);
+  try {
+    if (from[0] === to[0]) {
+      range.surroundContents(mark);
+      return;
+    }
+    const frag = range.extractContents();
+    mark.appendChild(frag);
+    range.insertNode(mark);
+  } catch {
   }
 }
-var import_obsidian11, COLORS, COLOR_HEX, MARK_BG, NoteModal, AnnotationService, NotesPopover;
+var import_obsidian12, COLORS, COLOR_HEX, MARK_BG, NoteModal, AnnotationService, NotesPopover;
 var init_annotations = __esm({
   "src/social/annotations.ts"() {
     "use strict";
     init_define_SG_BUILD();
-    import_obsidian11 = require("obsidian");
+    import_obsidian12 = require("obsidian");
     init_src();
     init_themeLibrary();
+    init_connect();
     COLORS = ["yellow", "green", "blue", "pink", "orange"];
     COLOR_HEX = {
       yellow: "#f5d90a",
@@ -10298,7 +11272,7 @@ var init_annotations = __esm({
       pink: "rgba(247,107,176,0.35)",
       orange: "rgba(255,159,69,0.40)"
     };
-    NoteModal = class extends import_obsidian11.Modal {
+    NoteModal = class extends import_obsidian12.Modal {
       constructor(state, refLabel, onSubmit) {
         super(state.app);
         this.refLabel = refLabel;
@@ -10482,7 +11456,7 @@ ${text}` : text;
       }
       // ------------------------------------------------------------ share menu
       visibilityMenu(onPick) {
-        const menu = new import_obsidian11.Menu();
+        const menu = new import_obsidian12.Menu();
         menu.addItem((i) => i.setTitle("\u{1F512} Only me (this device)").onClick(() => onPick("local", null, "Only me \u2014 this device")));
         menu.addItem((i) => i.setTitle("\u{1F510} Only me (synced)").onClick(() => onPick("private", null, "Only me")));
         for (const g of this.s.groups) {
@@ -10492,7 +11466,7 @@ ${text}` : text;
         return menu;
       }
     };
-    NotesPopover = class extends import_obsidian11.Modal {
+    NotesPopover = class extends import_obsidian12.Modal {
       constructor(s, svc, verseId) {
         super(s.app);
         this.s = s;
@@ -10539,6 +11513,14 @@ ${text}` : text;
           }
         } else if (a2.annotation_type === "bookmark") {
           div.createEl("p", { text: `\u{1F516} ${a2.content || "Bookmark"}` });
+        } else if (isConnectionNote(a2)) {
+          const c2 = connectionOf(a2.content);
+          const go = div.createEl("button", { cls: "sg-ann-connect", text: `\u21C4 ${verseDisplay(c2.anchor) ?? c2.target}` });
+          go.onclick = () => {
+            this.close();
+            void this.s.app.workspace.openLinkText(c2.link, "");
+          };
+          if (c2.why) div.createEl("p", { cls: "sg-ann-why", text: c2.why });
         } else if (a2.content) {
           div.createEl("p", { text: a2.content });
         }
@@ -10548,7 +11530,7 @@ ${text}` : text;
           share.onclick = (e) => {
             this.svc.visibilityMenu((vis, gid, label) => {
               void this.svc.setVisibility(a2.annotation_id, vis, gid);
-              new import_obsidian11.Notice(`Now visible to: ${label}`);
+              new import_obsidian12.Notice(`Now visible to: ${label}`);
               this.close();
             }).showAtMouseEvent(e);
           };
@@ -10558,9 +11540,9 @@ ${text}` : text;
             del.setText("Deleting\u2026");
             try {
               await this.svc.remove(a2.annotation_id);
-              new import_obsidian11.Notice("Deleted");
+              new import_obsidian12.Notice("Deleted");
             } catch (e) {
-              new import_obsidian11.Notice(`Delete failed: ${e.message}`);
+              new import_obsidian12.Notice(`Delete failed: ${e.message}`);
             }
             this.close();
           };
@@ -10878,7 +11860,7 @@ function isBiblical(verseId) {
 }
 async function bookText(app, bookName, abbr) {
   const dest = app.metadataCache.getFirstLinkpathDest(`${bookName} (${abbr})`, "");
-  if (!(dest instanceof import_obsidian13.TFile)) return null;
+  if (!(dest instanceof import_obsidian14.TFile)) return null;
   const hit = fileCache.get(dest.path);
   if (hit != null) return hit;
   const text = await app.vault.cachedRead(dest);
@@ -10896,12 +11878,12 @@ async function translationVerse(app, verseId, abbr) {
   const m2 = new RegExp(`^\\*\\*${r.chapter}:${r.verse}\\*\\*\\s+(.*)$`, "m").exec(text);
   return m2?.[1]?.trim() || null;
 }
-var import_obsidian13, TRANSLATIONS, fileCache, TranslationsModal;
+var import_obsidian14, TRANSLATIONS, fileCache, TranslationsModal;
 var init_translations = __esm({
   "src/study/translations.ts"() {
     "use strict";
     init_define_SG_BUILD();
-    import_obsidian13 = require("obsidian");
+    import_obsidian14 = require("obsidian");
     init_src();
     TRANSLATIONS = [
       { abbr: "KJV", name: "King James Version", note: "your reading text" },
@@ -10910,7 +11892,7 @@ var init_translations = __esm({
       { abbr: "YLT", name: "Young's Literal Translation", note: "literal \xB7 public domain" }
     ];
     fileCache = /* @__PURE__ */ new Map();
-    TranslationsModal = class extends import_obsidian13.Modal {
+    TranslationsModal = class extends import_obsidian14.Modal {
       constructor(s, verseId, kjvText) {
         super(s.app);
         this.s = s;
@@ -10966,12 +11948,12 @@ __export(studyBar_exports, {
   openLocalGraphFor: () => openLocalGraphFor
 });
 async function openLocalGraphFor(s, linkText) {
-  if (!linkText) return void new import_obsidian14.Notice("Nothing to graph here yet");
+  if (!linkText) return void new import_obsidian15.Notice("Nothing to graph here yet");
   const f = s.app.metadataCache.getFirstLinkpathDest(linkText, "");
-  if (!f) return void new import_obsidian14.Notice(`Can't find \u201C${linkText}\u201D`);
+  if (!f) return void new import_obsidian15.Notice(`Can't find \u201C${linkText}\u201D`);
   const ws = s.app.workspace;
   const returnLeaf = ws.getMostRecentLeaf?.() ?? null;
-  const leaf = import_obsidian14.Platform.isMobile ? ws.getLeaf(false) : ws.getLeaf("split");
+  const leaf = import_obsidian15.Platform.isMobile ? ws.getLeaf(false) : ws.getLeaf("split");
   recordHistory(leaf);
   const GRAPH_OPTS = {
     textFadeMultiplier: 3,
@@ -11022,7 +12004,7 @@ async function openLocalGraphFor(s, linkText) {
     window.setTimeout(pushOptions, 800);
     window.setTimeout(pushOptions, 1800);
   }
-  if (import_obsidian14.Platform.isMobile) {
+  if (import_obsidian15.Platform.isMobile) {
     const container = leaf.view?.containerEl;
     if (container) {
       const back = container.createDiv({ cls: "sg-graph-back", text: `\u2190 ${linkText}` });
@@ -11040,18 +12022,19 @@ async function openLocalGraphFor(s, linkText) {
   }
   trace("graph.open", { file: f.path });
 }
-var import_obsidian14, SCOPE_LABEL, StudyBar, ThemeNameModal;
+var import_obsidian15, SCOPE_LABEL, StudyBar, ThemeNameModal;
 var init_studyBar = __esm({
   "src/study/studyBar.ts"() {
     "use strict";
     init_define_SG_BUILD();
-    import_obsidian14 = require("obsidian");
+    import_obsidian15 = require("obsidian");
     init_src();
     init_annotations();
     init_leafNav();
     init_themeLibrary();
     init_trace();
     init_translations();
+    init_connect();
     SCOPE_LABEL = {
       local: "\u{1F512} This device",
       private: "\u{1F510} Only me",
@@ -11119,7 +12102,7 @@ var init_studyBar = __esm({
               if (this.sel.partial || this.doc) this.clear();
               return;
             }
-            if (!import_obsidian14.Platform.isMobile) return;
+            if (!import_obsidian15.Platform.isMobile) return;
             if (dx > 10 || dy > 10) return trace("up.moved", { dx, dy });
             if (dt > 500) return trace("up.longpress", { dt });
             if (Date.now() - this.lastScrollT < 250) return trace("up.midscroll", {});
@@ -11130,7 +12113,7 @@ var init_studyBar = __esm({
         plugin.registerDomEvent(document, "scroll", () => {
           this.lastScrollT = Date.now();
         }, { capture: true, passive: true });
-        if (!import_obsidian14.Platform.isMobile) {
+        if (!import_obsidian15.Platform.isMobile) {
           plugin.registerDomEvent(document, "click", (evt) => this.handleTap(evt));
         }
         plugin.registerDomEvent(document, "selectionchange", () => this.handleSelectionChange());
@@ -11418,18 +12401,19 @@ var init_studyBar = __esm({
           b.onclick = fn;
         };
         act("\u{1F4DD} Note", () => this.doNote());
-        act("\u{1F0CF} Card", () => void this.doFlashcard());
+        act("\u21C4 Connect", () => this.doConnect());
         act("\u{1F4E4} Share", () => void this.doShare());
         const firstSel = this.sel.partial ?? this.sel.verses[0] ?? null;
-        if (firstSel && isBiblical(firstSel.verseId)) {
-          act("\u{1F310} Versions", () => {
-            new TranslationsModal(this.s, firstSel.verseId, firstSel.verseText).open();
-          });
-        }
         const more = row.createEl("button", { cls: "sg-act-more", text: "\u22EF" });
         more.setAttribute("aria-label", "More actions");
         more.onclick = (e) => {
-          const menu = new import_obsidian14.Menu();
+          const menu = new import_obsidian15.Menu();
+          menu.addItem((i) => i.setTitle("\u{1F0CF} Flashcard").onClick(() => void this.doFlashcard()));
+          if (firstSel && isBiblical(firstSel.verseId)) {
+            menu.addItem((i) => i.setTitle("\u{1F310} Other versions").onClick(() => {
+              new TranslationsModal(this.s, firstSel.verseId, firstSel.verseText).open();
+            }));
+          }
           menu.addItem((i) => i.setTitle("\u{1F578} Connections graph").onClick(() => void this.openGraph()));
           menu.addItem((i) => i.setTitle("\u{1F4CB} Copy verse").onClick(() => void this.doCopy()));
           menu.addItem((i) => i.setTitle("\u{1F4E4} Share verse").onClick(() => void this.doShare()));
@@ -11470,7 +12454,7 @@ var init_studyBar = __esm({
             const on = await this.ann.toggleTheme(doc.anchor, sp.name, sp.c1, visibility, groupId);
             chip.toggleClass("sg-style-on", on);
             trace("doc.theme", { theme: sp.name, on, anchor: doc.anchor });
-            new import_obsidian14.Notice(on ? `${sp.emoji} ${sp.name} \u2014 ${doc.title}` : `${sp.emoji} ${sp.name} removed`);
+            new import_obsidian15.Notice(on ? `${sp.emoji} ${sp.name} \u2014 ${doc.title}` : `${sp.emoji} ${sp.name} removed`);
             this.s.rerenderReading();
           })();
         }
@@ -11493,18 +12477,23 @@ var init_studyBar = __esm({
           const { visibility, groupId } = this.s.device.lastShareScope;
           new NoteModal(this.s, doc.title, (text) => {
             void this.ann.addNote(doc.anchor, text, doc.selected, visibility, groupId);
-            new import_obsidian14.Notice(`Note saved \u2014 ${doc.title}`);
+            new import_obsidian15.Notice(`Note saved \u2014 ${doc.title}`);
             this.clear();
           }).open();
+        });
+        act("\u21C4 Connect", () => {
+          const src = { anchor: doc.anchor, label: doc.title, quoted: doc.selected };
+          this.clear();
+          new ConnectModal(this.s, this.ann, src, () => this.s.rerenderReading()).open();
         });
         act("\u{1F4E4} Share", () => void this.shareText(doc.selected, doc.title));
         const more = row.createEl("button", { cls: "sg-act-more", text: "\u22EF" });
         more.setAttribute("aria-label", "More actions");
         more.onclick = (e) => {
-          const menu = new import_obsidian14.Menu();
+          const menu = new import_obsidian15.Menu();
           menu.addItem((i) => i.setTitle("\u{1F4CB} Copy").onClick(() => void this.copyText(doc.selected, doc.title)));
           const file = this.s.app.vault.getAbstractFileByPath(doc.path);
-          if (file instanceof import_obsidian14.TFile) {
+          if (file instanceof import_obsidian15.TFile) {
             menu.addItem((i) => i.setTitle("\u{1F516} Bookmark this page").onClick(() => void (async () => {
               const have = await this.study.bookmarkOf(file);
               if (have) await this.study.unbookmark(have);
@@ -11530,7 +12519,7 @@ var init_studyBar = __esm({
           if (typeof nav.share === "function") await nav.share({ title: ref, text: card });
           else {
             await navigator.clipboard.writeText(card);
-            new import_obsidian14.Notice("Copied \u2014 no share sheet here");
+            new import_obsidian15.Notice("Copied \u2014 no share sheet here");
           }
         } catch {
         }
@@ -11540,18 +12529,18 @@ var init_studyBar = __esm({
         try {
           await navigator.clipboard.writeText(`"${text}"
 \u2014 ${ref}`);
-          new import_obsidian14.Notice("Copied");
+          new import_obsidian15.Notice("Copied");
         } catch {
-          new import_obsidian14.Notice("Copy failed");
+          new import_obsidian15.Notice("Copy failed");
         }
         this.clear();
       }
       pickScope(e) {
-        const menu = new import_obsidian14.Menu();
+        const menu = new import_obsidian15.Menu();
         const set2 = (visibility, groupId, label) => {
           this.s.device.lastShareScope = { visibility, groupId };
           void this.s.saveDevice();
-          new import_obsidian14.Notice(`New marks: ${label}`);
+          new import_obsidian15.Notice(`New marks: ${label}`);
           this.render();
         };
         menu.addItem((i) => i.setTitle("\u{1F510} Only me (synced)").onClick(() => set2("private", null, "only you")));
@@ -11593,7 +12582,7 @@ var init_studyBar = __esm({
             );
           }
         }
-        new import_obsidian14.Notice(`Marked ${this.refLabel()}`);
+        new import_obsidian15.Notice(`Marked ${this.refLabel()}`);
         this.clear();
       }
       /** connections graph for the selected verse's chapter */
@@ -11623,7 +12612,7 @@ var init_studyBar = __esm({
           else removed++;
         }
         trace("theme.toggle", { theme: spec.name, added, removed });
-        new import_obsidian14.Notice(added && !removed ? `${spec.emoji} ${spec.name} \u2014 ${this.refLabel()}` : !added && removed ? `${spec.emoji} ${spec.name} removed` : `${spec.emoji} ${spec.name} updated`);
+        new import_obsidian15.Notice(added && !removed ? `${spec.emoji} ${spec.name} \u2014 ${this.refLabel()}` : !added && removed ? `${spec.emoji} ${spec.name} removed` : `${spec.emoji} ${spec.name} updated`);
         this.clear();
       }
       /** ring the chips whose theme the (first) selected verse already carries */
@@ -11649,7 +12638,7 @@ var init_studyBar = __esm({
           else themes.push(entry);
           this.s.applySettings({ themes });
           await this.saveSettings();
-          new import_obsidian14.Notice(`Theme \u201C${name}\u201D added to the family library`);
+          new import_obsidian15.Notice(`Theme \u201C${name}\u201D added to the family library`);
           this.lastSig = "";
           this.render();
         }).open();
@@ -11663,7 +12652,7 @@ var init_studyBar = __esm({
         new NoteModal(this.s, ref, (text) => {
           const body = this.sel.verses.length > 1 ? `(${ref}) ${text}` : text;
           void this.ann.addNote(anchor, body, quoted, visibility, groupId);
-          new import_obsidian14.Notice(`Note saved \u2014 ${ref}`);
+          new import_obsidian15.Notice(`Note saved \u2014 ${ref}`);
           this.clear();
         }).open();
       }
@@ -11688,7 +12677,7 @@ var init_studyBar = __esm({
             await nav.share({ title: ref, text: card });
           } else {
             await navigator.clipboard.writeText(card);
-            new import_obsidian14.Notice(`Copied ${ref} \u2014 no share sheet here`);
+            new import_obsidian15.Notice(`Copied ${ref} \u2014 no share sheet here`);
           }
         } catch {
         }
@@ -11700,11 +12689,19 @@ var init_studyBar = __esm({
         try {
           await navigator.clipboard.writeText(`"${text}"
 \u2014 ${ref}`);
-          new import_obsidian14.Notice(`Copied ${ref}`);
+          new import_obsidian15.Notice(`Copied ${ref}`);
         } catch {
-          new import_obsidian14.Notice("Copy failed");
+          new import_obsidian15.Notice("Copy failed");
         }
         this.clear();
+      }
+      /** ⇄ tie this verse (or phrase) to another passage, found by search or by browsing */
+      doConnect() {
+        const anchor = this.sel.partial?.verseId ?? this.sel.verses[0]?.verseId ?? null;
+        if (!anchor) return;
+        const src = { anchor, label: this.refLabel(), quoted: this.sel.partial?.selected ?? null };
+        this.clear();
+        new ConnectModal(this.s, this.ann, src, () => this.s.rerenderReading()).open();
       }
       doAsk() {
         const anchor = this.sel.partial?.verseId ?? this.sel.verses[0]?.verseId ?? null;
@@ -11713,7 +12710,7 @@ var init_studyBar = __esm({
         this.openAsk(seed, anchor);
       }
     };
-    ThemeNameModal = class extends import_obsidian14.Modal {
+    ThemeNameModal = class extends import_obsidian15.Modal {
       constructor(s, desc, onSave) {
         super(s.app);
         this.s = s;
@@ -11747,11 +12744,11 @@ var init_studyBar = __esm({
           badge.setText(sp.emoji);
           swatch.style.background = `linear-gradient(120deg, ${sp.c1}, ${sp.c2})`;
         };
-        new import_obsidian14.Setting(this.contentEl).setName("Theme name").addText((t) => t.setPlaceholder("Faith").onChange((v) => {
+        new import_obsidian15.Setting(this.contentEl).setName("Theme name").addText((t) => t.setPlaceholder("Faith").onChange((v) => {
           name = v;
           preview(v);
         }));
-        new import_obsidian14.Setting(this.contentEl).addButton((b) => b.setButtonText("Save theme").setCta().onClick(() => {
+        new import_obsidian15.Setting(this.contentEl).addButton((b) => b.setButtonText("Save theme").setCta().onClick(() => {
           const n = name.trim().slice(0, 40);
           if (!n) return;
           this.close();
@@ -11773,146 +12770,16 @@ __export(main_exports, {
 });
 module.exports = __toCommonJS(main_exports);
 init_define_SG_BUILD();
-var import_obsidian34 = require("obsidian");
+var import_obsidian35 = require("obsidian");
 init_src();
-
-// src/state.ts
-init_define_SG_BUILD();
-var import_obsidian = require("obsidian");
-init_src();
-var CANONICAL_PREFIX = "AI Library/01 Scriptures/Canonical/";
-var ANNOTATED_PREFIX = "AI Library/01 Scriptures/Annotated/";
-var LIBRARY_PREFIX = "AI Library/";
-var PERSONAL_PREFIX = "Library/";
-var DEFAULT_SHARED = {
-  serverUrl: "http://127.0.0.1:8930",
-  defaultVisibility: "private",
-  forceLibraryPreview: true,
-  spotifyClientId: "",
-  chapterLinksToMyStudy: true,
-  themes: []
-};
-var DEFAULT_DEVICE = {
-  deviceToken: null,
-  userId: null,
-  displayName: null,
-  openrouterKey: null,
-  aiTier: "auto",
-  aiSpecificModel: null,
-  aiUsePersonalNotes: false,
-  showScopes: { mine: true, groups: {}, public: false },
-  aiDepth: "balanced",
-  lastShareScope: { visibility: "private", groupId: null },
-  lastColor: "yellow",
-  lastStyle: "highlight",
-  lastTheme: null,
-  debugOverlay: false,
-  barExpanded: false,
-  lastChapter: null,
-  recentChapters: [],
-  showAiLibrary: false,
-  scene: "none",
-  tlDepth: 2,
-  swipeNav: true
-};
-var SGState = class {
-  constructor(app, plugin) {
-    this.app = app;
-    this.plugin = plugin;
-    const ns = `sg:${app.appId ?? "vault"}`;
-    this.store = new WebStorage(ns, globalThis.localStorage);
-    this.sync = new SyncEngine(this.store);
-    this.budget = new Budget(this.store);
-    const fetchLike = async (url, init) => {
-      const res = await (0, import_obsidian.requestUrl)({
-        url,
-        method: init.method,
-        headers: init.headers,
-        body: init.body,
-        throw: false
-      });
-      return {
-        status: res.status,
-        json: async () => {
-          try {
-            return res.json;
-          } catch {
-            return {};
-          }
-        }
-      };
-    };
-    this.api = new ApiClient(DEFAULT_SHARED.serverUrl, fetchLike, null);
-    this.api.setCandidates(this.device.serverUrls ?? []);
-    this.api.onAdvertised = (urls) => {
-      const known = new Set(this.device.serverUrls ?? []);
-      const fresh = urls.filter((u) => !known.has(u));
-      if (!fresh.length) return;
-      this.device.serverUrls = [...this.device.serverUrls ?? [], ...fresh].slice(-8);
-      this.api.setCandidates(this.device.serverUrls);
-      void this.saveDevice();
-    };
-    this.api.onSwitched = (url) => {
-      this.notify();
-      console.info("scripture-graph: reached the server at", url);
-    };
-  }
-  settings = { ...DEFAULT_SHARED };
-  device = { ...DEFAULT_DEVICE };
-  store;
-  sync;
-  budget;
-  api;
-  modelRegistry = [];
-  groups = [];
-  /** anchor_id -> social annotations from the last query (others' shared) */
-  socialCache = /* @__PURE__ */ new Map();
-  onChange = [];
-  async loadDevice() {
-    const d = await this.store.get("device");
-    if (d) this.device = { ...DEFAULT_DEVICE, ...d };
-    this.api.setToken(this.device.deviceToken);
-  }
-  async saveDevice() {
-    await this.store.put("device", this.device);
-    this.api.setToken(this.device.deviceToken);
-  }
-  applySettings(s) {
-    this.settings = { ...DEFAULT_SHARED, ...this.settings, ...s };
-    this.api.baseUrl = this.settings.serverUrl;
-  }
-  get signedIn() {
-    return !!this.device.deviceToken;
-  }
-  get aiConnected() {
-    return !!this.device.openrouterKey;
-  }
-  notify() {
-    for (const f of this.onChange) {
-      try {
-        f();
-      } catch {
-      }
-    }
-  }
-  /** set by AnnotationService: re-decorates rendered verses IN PLACE */
-  redecorate = null;
-  /** Marks appear/disappear the moment anything changes. Decoration happens
-   * in place on the existing DOM — a full markdown re-render would reset the
-   * reading position to the top of the file (user-reported bug). */
-  rerenderReading() {
-    this.notify();
-    void this.redecorate?.();
-  }
-};
-
-// src/main.ts
+init_state();
 init_leafNav();
 
 // src/study/libraryView.ts
 init_define_SG_BUILD();
 var import_obsidian4 = require("obsidian");
 init_src();
+init_state();
 init_leafNav();
 
 // src/study/graphPresets.ts
@@ -12314,566 +13181,10 @@ function watchSettle(app, leaf, p, veil) {
   }, 150);
 }
 
-// src/study/navIcons.ts
-init_define_SG_BUILD();
-var I = {
-  "old-testament": {
-    // a parchment scroll
-    h: "#e7b95c",
-    s: `<path d="M6 4.5h11a2.5 2.5 0 0 1 2.5 2.5v9.5"/>
-        <path d="M6 4.5A2.5 2.5 0 0 0 3.5 7v10A2.5 2.5 0 0 0 6 19.5h11.5a2 2 0 0 0 2-2v-1"/>
-        <path d="M8.5 9h7M8.5 12.5h7M8.5 16h4"/>`
-  },
-  "new-testament": {
-    // a rounded cross
-    h: "#b79cff",
-    s: `<path d="M12 4.5v15M6.5 9.5h11"/>
-        <path d="M12 4.5v15" opacity="0.35" stroke-width="4.4"/>`
-  },
-  "book-of-mormon": {
-    // book + bookmark
-    h: "#52c7a0",
-    s: `<path d="M5 5.5A2.5 2.5 0 0 1 7.5 3h11a.5.5 0 0 1 .5.5v15a.5.5 0 0 1-.5.5h-11A2.5 2.5 0 0 0 5 21z"/>
-        <path d="M5 18.5A2.5 2.5 0 0 1 7.5 16H19"/>
-        <path d="M13.5 3v7l2-1.6 2 1.6V3"/>`
-  },
-  doctrine: {
-    // a skeleton key
-    h: "#f0c548",
-    s: `<circle cx="8" cy="8" r="4"/>
-        <path d="M10.8 10.8 19 19M15.5 15.5l3-3M17.5 17.5l2.4-2.4"/>`
-  },
-  pearl: {
-    // a faceted gem
-    h: "#6ad4e8",
-    s: `<path d="M7 4h10l4 5-9 11L3 9z"/>
-        <path d="M3 9h18M7 4l5 5 5-5M12 9v11"/>`
-  },
-  timeline: {
-    // a constellation
-    h: "#52a9ff",
-    s: `<circle cx="6" cy="17" r="2"/>
-        <circle cx="12" cy="7" r="2.4"/>
-        <circle cx="18.5" cy="14.5" r="1.7"/>
-        <path d="M7.3 15.3 10.6 9M14 8.4l3.2 4.6"/>`
-  },
-  library: {
-    // leaning book spines
-    h: "#f08fb0",
-    s: `<path d="M4.5 4.5v15M9.5 4.5v15"/>
-        <path d="m13.6 5.4 4.6 13.7"/>
-        <path d="M4.5 8h5M13.9 9.3l4.4-1.4"/>`
-  },
-  hub: {
-    // home, lit window
-    h: "#ffab70",
-    s: `<path d="m4 11 8-6.5L20 11"/>
-        <path d="M6 9.8V19a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9.8"/>
-        <path d="M10.3 20v-4.6a1.7 1.7 0 0 1 3.4 0V20"/>`
-  },
-  groups: {
-    // two companions
-    h: "#a78bfa",
-    s: `<circle cx="9" cy="8.5" r="3"/>
-        <path d="M3.5 19.5v-1a5.5 5.5 0 0 1 11 0v1"/>
-        <circle cx="16.8" cy="9.5" r="2.3"/>
-        <path d="M16 14.6a4.6 4.6 0 0 1 4.9 4.4v.5"/>`
-  },
-  search: {
-    // the lens
-    h: "#8fa3c8",
-    s: `<circle cx="10.5" cy="10.5" r="6"/>
-        <path d="m15.2 15.2 5 5"/>`
-  },
-  continue: {
-    // play
-    h: "#c9b8ff",
-    s: `<path d="M8 5.8v12.4a.8.8 0 0 0 1.2.7l10-6.2a.8.8 0 0 0 0-1.4l-10-6.2a.8.8 0 0 0-1.2.7z"/>`
-  },
-  target: {
-    // straight to it
-    h: "#7cc4ff",
-    s: `<circle cx="12" cy="12" r="7.5"/>
-        <circle cx="12" cy="12" r="3.2"/>
-        <path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3"/>`
-  },
-  verse: {
-    // an open quote
-    h: "#8fd8b8",
-    s: `<path d="M5 7.5A3.5 3.5 0 0 1 8.5 4v0A6.5 6.5 0 0 0 5 9.8V16a2 2 0 0 0 2 2h2.5a2 2 0 0 0 2-2v-3.5a2 2 0 0 0-2-2H5z"/>
-        <path d="M13.5 7.5A3.5 3.5 0 0 1 17 4v0a6.5 6.5 0 0 0-3.5 5.8V16a2 2 0 0 0 2 2H18a2 2 0 0 0 2-2v-3.5a2 2 0 0 0-2-2h-4.5z"/>`
-  },
-  page: {
-    // a document
-    h: "#9db4d8",
-    s: `<path d="M7 3.5h7L18.5 8v11a1.5 1.5 0 0 1-1.5 1.5H7A1.5 1.5 0 0 1 5.5 19V5A1.5 1.5 0 0 1 7 3.5z"/>
-        <path d="M13.5 3.5V8h4.6M8.5 12.5h7M8.5 16h5"/>`
-  },
-  chapter: {
-    // an open book
-    h: "#8ec7f0",
-    s: `<path d="M12 6.5C10.5 5 8.2 4.3 5.5 4.3c-.8 0-1.5.06-2 .16V18c.5-.1 1.2-.16 2-.16 2.7 0 5 .7 6.5 2.16 1.5-1.46 3.8-2.16 6.5-2.16.8 0 1.5.06 2 .16V4.46c-.5-.1-1.2-.16-2-.16-2.7 0-5 .7-6.5 2.2z"/>
-        <path d="M12 6.5V20"/>`
-  },
-  folder: {
-    // a shelf drawer
-    h: "#d9b36a",
-    s: `<path d="M3.5 7A1.5 1.5 0 0 1 5 5.5h4l2 2.5h8A1.5 1.5 0 0 1 20.5 9.5V18A1.5 1.5 0 0 1 19 19.5H5A1.5 1.5 0 0 1 3.5 18z"/>`
-  },
-  conference: {
-    // the pulpit mic
-    h: "#f4a6c0",
-    s: `<rect x="9" y="3.5" width="6" height="11" rx="3"/>
-        <path d="M5.5 11.5a6.5 6.5 0 0 0 13 0M12 18v2.5M9 20.5h6"/>`
-  },
-  dictionary: {
-    // book of words
-    h: "#c9a3f5",
-    s: `<path d="M5 5.5A2.5 2.5 0 0 1 7.5 3h11a.5.5 0 0 1 .5.5v15a.5.5 0 0 1-.5.5h-11A2.5 2.5 0 0 0 5 21z"/>
-        <path d="M5 18.5A2.5 2.5 0 0 1 7.5 16H19"/>
-        <path d="m9.8 12.5 2.2-5.5 2.2 5.5M10.5 10.8h3"/>`
-  },
-  topics: {
-    // a tag
-    h: "#79d2c3",
-    s: `<path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11l8.6 8.6a2 2 0 0 1 0 2.8l-4.2 4.2a2 2 0 0 1-2.8 0L4 11z"/>
-        <circle cx="8.6" cy="8.6" r="1.4"/>`
-  },
-  person: {
-    // one soul
-    h: "#f0b884",
-    s: `<circle cx="12" cy="8" r="3.6"/>
-        <path d="M5 20v-.8a7 7 0 0 1 14 0v.8"/>`
-  },
-  place: {
-    // a map pin
-    h: "#8fd0f4",
-    s: `<path d="M12 21s-6.5-5.7-6.5-10.3a6.5 6.5 0 0 1 13 0C18.5 15.3 12 21 12 21z"/>
-        <circle cx="12" cy="10.5" r="2.3"/>`
-  },
-  event: {
-    // a marked day
-    h: "#f2c063",
-    s: `<rect x="4" y="5.5" width="16" height="15" rx="2"/>
-        <path d="M8 3.5v4M16 3.5v4M4 10.5h16M9.5 15.5l1.8 1.8 3.4-3.4"/>`
-  },
-  doctrines: {
-    // engraved lines
-    h: "#a4c8f0",
-    s: `<path d="M7 3.5h10A1.5 1.5 0 0 1 18.5 5v14a1.5 1.5 0 0 1-1.5 1.5H7A1.5 1.5 0 0 1 5.5 19V5A1.5 1.5 0 0 1 7 3.5z"/>
-        <path d="M9 8h6M9 11.5h6M9 15h3.5"/>`
-  },
-  papers: {
-    // the archive box
-    h: "#c8b090",
-    s: `<rect x="3.5" y="4.5" width="17" height="5" rx="1"/>
-        <path d="M5.5 9.5V18A1.5 1.5 0 0 0 7 19.5h10a1.5 1.5 0 0 0 1.5-1.5V9.5M10 13h4"/>`
-  },
-  history: {
-    // pillars
-    h: "#d8c8a0",
-    s: `<path d="m4 8 8-4.5L20 8M5 8.5h14"/>
-        <path d="M6.5 11v6M12 11v6M17.5 11v6M4.5 19.5h15"/>`
-  },
-  evidence: {
-    // examined + proven
-    h: "#84d89c",
-    s: `<circle cx="10.5" cy="10.5" r="6"/>
-        <path d="m15.2 15.2 5 5M8.2 10.6l1.7 1.7 3-3"/>`
-  },
-  question: {
-    // an honest question
-    h: "#a8b8f8",
-    s: `<circle cx="12" cy="12" r="8.5"/>
-        <path d="M9.6 9.2a2.6 2.6 0 0 1 5 .9c0 1.7-2.4 2-2.4 3.6"/>
-        <path d="M12.1 16.8h.01"/>`
-  },
-  scholarship: {
-    // the cap
-    h: "#b8d4f8",
-    s: `<path d="m2.5 9.5 9.5-4.5 9.5 4.5-9.5 4.5z"/>
-        <path d="M6.5 11.7V16c0 1.4 2.5 2.7 5.5 2.7s5.5-1.3 5.5-2.7v-4.3M21 10v5"/>`
-  },
-  podcast: {
-    // voice in the air
-    h: "#f0a8a0",
-    s: `<circle cx="12" cy="11" r="2.6"/>
-        <path d="M8.2 15.4a5.3 5.3 0 1 1 7.6 0M12 14v6.5"/>
-        <path d="M5.6 17.5a9 9 0 1 1 12.8 0" opacity="0.55"/>`
-  },
-  graph: {
-    // the web of nodes
-    h: "#8fb8ff",
-    s: `<circle cx="6" cy="6.5" r="2.4"/>
-        <circle cx="18" cy="8.5" r="2"/>
-        <circle cx="8.5" cy="18" r="2.1"/>
-        <circle cx="17" cy="17" r="1.6"/>
-        <path d="M8.2 7.4 16 8.2M7 8.7l1.2 7.2M10.5 17.4l4.9-.3M15.9 9.9l.7 5.4"/>`
-  }
-};
-function iconHue(name) {
-  return (I[name] ?? I.page).h;
-}
-function navIcon(parent, name) {
-  const d = I[name] ?? I.page;
-  const span = parent.createSpan({ cls: "sg-nav-ico" });
-  span.style.setProperty("--ico", d.h);
-  span.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${d.s}</svg>`;
-  return span;
-}
-function cascade(el, i) {
-  el.style.animationDelay = `${Math.min(i * 26, 340)}ms`;
-}
-
-// src/study/navigator.ts
-init_define_SG_BUILD();
-var import_obsidian3 = require("obsidian");
-init_src();
-
-// src/study/search.ts
-init_define_SG_BUILD();
-init_src();
-function normalize(s) {
-  return s.toLowerCase().normalize("NFD").replace(/\p{M}+/gu, "").replace(/['’ʼ]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
-}
-var SUFFIXES = ["eth", "est", "ings", "ing", "ed", "es", "s", "'s"];
-function stem(t) {
-  for (const suf of SUFFIXES) {
-    if (t.endsWith(suf) && t.length - suf.length >= 3) {
-      return t.slice(0, t.length - suf.length);
-    }
-  }
-  return t;
-}
-function tokenize(s) {
-  const n = normalize(s);
-  return n ? n.split(" ").map(stem) : [];
-}
-var VERSE_LINE_RE = /^\*\*(\d+)\*\*\s+(.*?)\s*\^([a-z0-9]+(?:-\d+)+)\s*$/;
-function parseVerseLine(chapter, line) {
-  const m2 = VERSE_LINE_RE.exec(line);
-  if (!m2) return null;
-  const text = m2[2];
-  return {
-    chapter,
-    verse: Number(m2[1]),
-    text,
-    anchor: m2[3],
-    norm: normalize(text),
-    tokens: tokenize(text)
-  };
-}
-var builtIndex = null;
-var building = null;
-var progressListeners = [];
-function searchIndexReady() {
-  return builtIndex !== null;
-}
-function buildSearchIndex(app, onProgress) {
-  if (builtIndex) return Promise.resolve(builtIndex);
-  if (onProgress) progressListeners.push(onProgress);
-  if (building) return building;
-  building = (async () => {
-    const all = app.vault.getMarkdownFiles();
-    const canonical = all.filter((f) => f.path.startsWith(CANONICAL_PREFIX));
-    const verses = [];
-    const chapters = [];
-    let done = 0;
-    for (const f of canonical) {
-      const title = f.basename;
-      chapters.push({ title, norm: normalize(title), tokens: tokenize(title) });
-      try {
-        const md = await app.vault.cachedRead(f);
-        for (const line of md.split("\n")) {
-          const rec = parseVerseLine(title, line);
-          if (rec) verses.push(rec);
-        }
-      } catch {
-      }
-      done++;
-      for (const p of progressListeners) p(done, canonical.length);
-    }
-    const pages = [];
-    for (const f of all) {
-      if (!f.path.startsWith(LIBRARY_PREFIX)) continue;
-      if (f.path.includes("01 Scriptures/")) continue;
-      if (f.basename.startsWith("_")) continue;
-      const fm2 = app.metadataCache.getFileCache(f)?.frontmatter;
-      const raw = fm2?.["aliases"];
-      const aliases = Array.isArray(raw) ? raw.map(String) : typeof raw === "string" ? [raw] : [];
-      pages.push({ title: f.basename, path: f.path, aliases });
-    }
-    builtIndex = { verses, pages, chapters };
-    building = null;
-    progressListeners.length = 0;
-    return builtIndex;
-  })();
-  return building;
-}
-var BOOK_LOOKUP = (() => {
-  const m2 = /* @__PURE__ */ new Map();
-  for (const b of BOOKS) {
-    for (const form of [b.name, b.prefix, b.slug, ...b.aliases]) {
-      const key = normalize(form);
-      if (key) m2.set(key, b);
-    }
-  }
-  return m2;
-})();
-function parseReference(q) {
-  const m2 = /^(.+?)[\s.]*(\d{1,3})(?:\s*[:.]\s*(\d{1,3}))?$/.exec(q.trim());
-  if (!m2) return null;
-  const book = BOOK_LOOKUP.get(normalize(m2[1]));
-  if (!book) return null;
-  const chapter = Number(m2[2]);
-  if (chapter < 1 || chapter > book.chapters) return null;
-  const verse = m2[3] ? Number(m2[3]) : null;
-  if (verse !== null && verse < 1) return null;
-  return {
-    bookName: book.name,
-    title: `${book.prefix} ${chapter}`,
-    chapter,
-    verse,
-    anchor: verse !== null ? `${book.slug}-${chapter}-${verse}` : null
-  };
-}
-function phraseAt(norm, qnorm) {
-  const hay = ` ${norm} `;
-  const i = hay.indexOf(` ${qnorm} `);
-  return i < 0 ? -1 : i;
-}
-function tokenMatches(token, q, isLast, prefixOk) {
-  return token === q || isLast && prefixOk && q.length >= 2 && token.startsWith(q);
-}
-function scoreTokens(tokens, qtokens, prefixOk) {
-  const n = qtokens.length;
-  if (!n || !tokens.length) return { tier: 9, score: 0 };
-  let present = 0;
-  for (let qi = 0; qi < n; qi++) {
-    const q = qtokens[qi];
-    const isLast = qi === n - 1;
-    for (const t of tokens) {
-      if (tokenMatches(t, q, isLast, prefixOk)) {
-        present++;
-        break;
-      }
-    }
-  }
-  const need = n >= 2 ? Math.ceil(n / 2) : 1;
-  if (present < need) return { tier: 9, score: 0 };
-  const tier = present === n ? 2 : 3;
-  const last = new Array(n).fill(-1);
-  let bestSpan = Infinity;
-  let bestStart = -1;
-  let bestOrdered = false;
-  for (let i = 0; i < tokens.length; i++) {
-    const t = tokens[i];
-    for (let qi = 0; qi < n; qi++) {
-      if (tokenMatches(t, qtokens[qi], qi === n - 1, prefixOk)) last[qi] = i;
-    }
-    let lo = Infinity, hi = -1, have = 0;
-    for (let qi = 0; qi < n; qi++) {
-      const p = last[qi];
-      if (p < 0) continue;
-      have++;
-      if (p < lo) lo = p;
-      if (p > hi) hi = p;
-    }
-    if (have < present) continue;
-    const span = hi - lo;
-    if (span < bestSpan || span === bestSpan && bestStart < 0) {
-      bestSpan = span;
-      bestStart = lo;
-      let ordered = true;
-      for (let qi = 1; qi < n; qi++) {
-        const a2 = last[qi - 1], b = last[qi];
-        if (a2 >= 0 && b >= 0 && a2 > b) {
-          ordered = false;
-          break;
-        }
-      }
-      bestOrdered = ordered;
-    }
-  }
-  if (bestStart < 0) return { tier: 9, score: 0 };
-  const slack = bestSpan - (present - 1);
-  const score = 60 / (1 + slack) + (bestOrdered ? 12 : 0) + 10 / (1 + bestStart) + 6 / (1 + tokens.length / 12) + present * 4;
-  return { tier, score };
-}
-function scoreText(norm, tokens, qnorm, qtokens) {
-  if (qnorm) {
-    const at = phraseAt(norm, qnorm);
-    if (at >= 0) {
-      return {
-        tier: 1,
-        score: 100 + 20 / (1 + at / 8) + 8 / (1 + tokens.length / 12)
-      };
-    }
-  }
-  return scoreTokens(tokens, qtokens, true);
-}
-function scoreTitle(title, qnorm, qtokens) {
-  return scoreTitleParts(normalize(title), tokenize(title), qnorm, qtokens);
-}
-function scoreTitleParts(norm, tokens, qnorm, qtokens) {
-  if (!norm) return { tier: 9, score: 0 };
-  if (norm === qnorm) return { tier: 1, score: 400 };
-  if (qnorm && norm.startsWith(qnorm)) return { tier: 1, score: 300 - norm.length };
-  const base = scoreText(norm, tokens, qnorm, qtokens);
-  if (base.tier >= 9) return base;
-  const first = norm.split(" ")[0];
-  const qFirst = qtokens[0] ?? "";
-  const startsish = qFirst && (first === qFirst || first.startsWith(qFirst));
-  return { tier: base.tier, score: base.score + (startsish ? 30 : 0) };
-}
-function rawWords(text) {
-  const out = [];
-  const re = /[A-Za-z0-9À-ɏ'’ʼ]+/g;
-  let m2;
-  while (m2 = re.exec(text)) {
-    const w = normalize(m2[0]);
-    if (!w) continue;
-    out.push({ start: m2.index, end: m2.index + m2[0].length, norm: w, stemmed: stem(w) });
-  }
-  return out;
-}
-function matchRanges(text, qnorm, qtokens) {
-  const words = rawWords(text);
-  const phrase = qnorm ? qnorm.split(" ") : [];
-  if (phrase.length) {
-    for (let i = 0; i + phrase.length <= words.length; i++) {
-      let ok = true;
-      for (let j = 0; j < phrase.length; j++) {
-        if (words[i + j].norm !== phrase[j]) {
-          ok = false;
-          break;
-        }
-      }
-      if (ok) {
-        return [{ start: words[i].start, end: words[i + phrase.length - 1].end }];
-      }
-    }
-  }
-  const ranges = [];
-  const n = qtokens.length;
-  for (const w of words) {
-    for (let qi = 0; qi < n; qi++) {
-      if (tokenMatches(w.stemmed, qtokens[qi], qi === n - 1, true)) {
-        ranges.push({ start: w.start, end: w.end });
-        break;
-      }
-    }
-  }
-  return ranges;
-}
-var SNIPPET_LEN = 140;
-function makeSnippet(text, ranges) {
-  if (text.length <= SNIPPET_LEN) return { snippet: text, ranges };
-  if (!ranges.length) {
-    const cut = text.lastIndexOf(" ", SNIPPET_LEN);
-    return { snippet: `${text.slice(0, cut > 60 ? cut : SNIPPET_LEN)}\u2026`, ranges: [] };
-  }
-  const first = ranges[0];
-  let start = Math.max(0, first.start - 36);
-  if (start > 0) {
-    const sp = text.indexOf(" ", start);
-    if (sp >= 0 && sp < first.start) start = sp + 1;
-  }
-  let end = Math.min(text.length, start + SNIPPET_LEN);
-  if (end < text.length) {
-    const sp = text.lastIndexOf(" ", end);
-    if (sp > start + SNIPPET_LEN / 2) end = sp;
-  }
-  const prefix = start > 0 ? "\u2026" : "";
-  const suffix = end < text.length ? "\u2026" : "";
-  const body = text.slice(start, end);
-  const shift = start - prefix.length;
-  const kept = ranges.filter((r) => r.start >= start && r.end <= end).map((r) => ({ start: r.start - shift, end: r.end - shift }));
-  return { snippet: prefix + body + suffix, ranges: kept };
-}
-var byRank = (a2, b) => a2.tier - b.tier || b.score - a2.score;
-function smartSearch(q, index2) {
-  const qnorm = normalize(q);
-  const qtokens = tokenize(q);
-  const out = { verses: [], pages: [], chapters: [] };
-  if (!qtokens.length) return out;
-  const ref = parseReference(q);
-  if (ref) out.reference = ref;
-  const vhits = [];
-  for (const rec of index2.verses) {
-    const s = scoreText(rec.norm, rec.tokens, qnorm, qtokens);
-    if (s.tier < 9) vhits.push({ rec, tier: s.tier, score: s.score });
-  }
-  vhits.sort(byRank);
-  for (const h of vhits.slice(0, 8)) {
-    const { snippet, ranges } = makeSnippet(h.rec.text, matchRanges(h.rec.text, qnorm, qtokens));
-    out.verses.push({
-      chapter: h.rec.chapter,
-      verse: h.rec.verse,
-      anchor: h.rec.anchor,
-      snippet,
-      ranges,
-      tier: h.tier,
-      score: h.score
-    });
-  }
-  const phits = [];
-  for (const rec of index2.pages) {
-    let best = scoreTitle(rec.title, qnorm, qtokens);
-    for (const a2 of rec.aliases) {
-      const s = scoreTitle(a2, qnorm, qtokens);
-      if (byRank(s, best) < 0) best = s;
-    }
-    if (best.tier < 9) phits.push({ rec, tier: best.tier, score: best.score });
-  }
-  phits.sort(byRank);
-  out.pages = phits.slice(0, 6).map((h) => ({
-    title: h.rec.title,
-    path: h.rec.path,
-    tier: h.tier,
-    score: h.score
-  }));
-  const chits = [];
-  for (const rec of index2.chapters) {
-    if (ref && rec.title === ref.title) continue;
-    const s = scoreTitleParts(rec.norm, rec.tokens, qnorm, qtokens);
-    if (s.tier < 9) chits.push({ rec, tier: s.tier, score: s.score });
-  }
-  chits.sort(byRank);
-  out.chapters = chits.slice(0, 4).map((h) => ({ title: h.rec.title, tier: h.tier, score: h.score }));
-  return out;
-}
-
-// src/study/navigator.ts
-var LIBRARY_SECTIONS = [
-  { icon: "conference", name: "General Conference", path: "AI Library/10 General Conference" },
-  { icon: "dictionary", name: "Bible Dictionary", path: "AI Library/80 Bible Dictionary" },
-  { icon: "topics", name: "Gospel Topics", path: "AI Library/02 Gospel Topics" },
-  { icon: "person", name: "People", path: "AI Library/03 People" },
-  { icon: "place", name: "Places", path: "AI Library/04 Places" },
-  { icon: "event", name: "Events", path: "AI Library/05 Events" },
-  { icon: "doctrines", name: "Doctrines", path: "AI Library/06 Doctrines" },
-  { icon: "papers", name: "Words of the Prophets", path: "AI Library/20 Words of the Prophets" },
-  { icon: "history", name: "Church History", path: "AI Library/30 Church History" },
-  { icon: "evidence", name: "Findings", path: "AI Library/40 Findings" },
-  // Hard Questions is a first-class shelf (see libraryView), not a folder here
-  { icon: "scholarship", name: "Scholarship", path: "AI Library/60 Scholarship" },
-  { icon: "podcast", name: "Podcasts & talks", path: "AI Library/65 Secondary Sources" }
-];
-function titleForChapterSlug(slug) {
-  const m2 = /^(.+)-(\d+)$/.exec(slug);
-  if (!m2) return null;
-  return chapterTitle(m2[1], Number(m2[2]));
-}
-var VOLUMES = [
-  { name: "Old Testament", icon: "old-testament" },
-  { name: "New Testament", icon: "new-testament" },
-  { name: "Book of Mormon", icon: "book-of-mormon" },
-  { name: "Doctrine and Covenants", icon: "doctrine" },
-  { name: "Pearl of Great Price", icon: "pearl" }
-];
-
 // src/study/libraryView.ts
+init_navIcons();
+init_navigator();
+init_search();
 var LIBRARY_VIEW = "sg-library";
 function releaseKeyboard(root = null) {
   const ae = document.activeElement;
@@ -13993,6 +14304,7 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
 // src/study/libraryPreview.ts
 init_define_SG_BUILD();
 var import_obsidian5 = require("obsidian");
+init_state();
 init_sheetRegistry();
 var NAVIGATE_PREFIXES = [CANONICAL_PREFIX, ANNOTATED_PREFIX];
 function sheetTargetFor(app, linktext, sourcePath) {
@@ -14115,6 +14427,7 @@ var LibraryPreviewModal = class extends import_obsidian5.Modal {
 init_define_SG_BUILD();
 var import_obsidian6 = require("obsidian");
 init_src();
+init_state();
 init_sheetRegistry();
 function peekTargetFor(app, linktext, sourcePath) {
   if (!linktext.includes("#^")) return null;
@@ -14195,6 +14508,7 @@ init_sheetRegistry();
 init_define_SG_BUILD();
 var import_obsidian7 = require("obsidian");
 init_src();
+init_state();
 init_trace();
 function adjacentChapterTitle(title, dir) {
   const id = chapterIdFromTitle(title);
@@ -14421,13 +14735,15 @@ init_annotations();
 
 // src/social/readingIntegration.ts
 init_define_SG_BUILD();
-var import_obsidian16 = require("obsidian");
+var import_obsidian17 = require("obsidian");
+init_state();
 init_annotations();
 init_presence();
+init_trace();
 
 // src/social/connections.ts
 init_define_SG_BUILD();
-var import_obsidian12 = require("obsidian");
+var import_obsidian13 = require("obsidian");
 init_src();
 init_sheetRegistry();
 var EXCLUDED_PREFIXES = [
@@ -14477,7 +14793,7 @@ function connectionsFor(app, chapterPath, slug) {
     if (src === chapterPath) continue;
     if (EXCLUDED_PREFIXES.some((p) => src.startsWith(p))) continue;
     const f = app.vault.getAbstractFileByPath(src);
-    if (!(f instanceof import_obsidian12.TFile)) continue;
+    if (!(f instanceof import_obsidian13.TFile)) continue;
     if (f.basename === `${chapterBase} - My Notes`) continue;
     const fc = app.metadataCache.getFileCache(f);
     const links = [...fc?.links ?? [], ...fc?.embeds ?? []];
@@ -14536,7 +14852,7 @@ function connectionsFor(app, chapterPath, slug) {
 }
 async function snippetFor(app, conn, needle) {
   const f = app.vault.getAbstractFileByPath(conn.path);
-  if (!(f instanceof import_obsidian12.TFile)) return null;
+  if (!(f instanceof import_obsidian13.TFile)) return null;
   try {
     const text = await app.vault.cachedRead(f);
     const line = text.split("\n").find((ln) => ln.includes(needle));
@@ -14548,7 +14864,7 @@ async function snippetFor(app, conn, needle) {
     return null;
   }
 }
-var ConnectionsModal = class _ConnectionsModal extends import_obsidian12.Modal {
+var ConnectionsModal = class _ConnectionsModal extends import_obsidian13.Modal {
   constructor(s, title, sub, needle, conns, openGraph) {
     super(s.app);
     this.s = s;
@@ -14628,14 +14944,14 @@ init_translations();
 
 // src/reader/footnotes.ts
 init_define_SG_BUILD();
-var import_obsidian15 = require("obsidian");
+var import_obsidian16 = require("obsidian");
 var cache2 = /* @__PURE__ */ new Map();
 function footnotesFor(app, chapterTitle2) {
   let p = cache2.get(chapterTitle2);
   if (!p) {
     p = (async () => {
       const f = app.metadataCache.getFirstLinkpathDest(`${chapterTitle2} - Footnotes`, "");
-      if (!(f instanceof import_obsidian15.TFile)) return null;
+      if (!(f instanceof import_obsidian16.TFile)) return null;
       try {
         const raw = await app.vault.cachedRead(f);
         const m2 = /```json\s*([\s\S]*?)```/.exec(raw);
@@ -14648,7 +14964,7 @@ function footnotesFor(app, chapterTitle2) {
   }
   return p;
 }
-var FootnotesModal = class extends import_obsidian15.Modal {
+var FootnotesModal = class extends import_obsidian16.Modal {
   constructor(s, chapterTitle2, verse, notes, sourcePath, focus) {
     super(s.app);
     this.s = s;
@@ -14730,22 +15046,14 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
     });
     const chapterTitle2 = ctx.sourcePath.split("/").pop().replace(/\.md$/, "");
     const conns = connectionsFor(plugin.app, ctx.sourcePath, slug);
-    for (const { p, verseId } of paragraphs) {
-      const list = conns.byVerse.get(verseId);
-      if (!list?.length || p.querySelector(".sg-conn-chip")) continue;
-      const chip = p.createSpan({ cls: "sg-conn-chip", text: `\u21C4 ${list.length}` });
-      chip.setAttr("aria-label", `${list.length} connected pages`);
-      chip.onclick = (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        ConnectionsModal.forVerse(
-          s,
-          verseId,
-          list,
-          () => void openLocalGraphFor(s, chapterTitle2)
-        ).open();
-      };
-    }
+    trace("conn.render", {
+      chapter: chapterTitle2,
+      verses: paragraphs.length,
+      cited: conns.byVerse.size,
+      chapterPages: conns.chapter.length,
+      indexed: Object.keys(plugin.app.metadataCache.resolvedLinks).length
+    });
+    for (const { p, verseId } of paragraphs) connChip(s, p, verseId, conns.byVerse.get(verseId), chapterTitle2);
     const first = paragraphs.find((x3) => x3.verseId === `${slug}-1`);
     if (first && conns.chapter.length && !el.querySelector(".sg-chap-conn")) {
       const strip = createDiv({ cls: "sg-chap-conn" });
@@ -14802,7 +15110,11 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
     }
     void svc.refreshSocial(anchors);
   });
-  plugin.registerEvent(plugin.app.metadataCache.on("resolved", () => clearConnectionsCache()));
+  plugin.registerEvent(plugin.app.metadataCache.on("resolved", () => {
+    clearConnectionsCache();
+    healConnChips(plugin, s);
+  }));
+  plugin.app.workspace.onLayoutReady(() => healConnChips(plugin, s));
   bar.attach(plugin);
   plugin.registerDomEvent(document, "contextmenu", (evt) => {
     const hit = resolveSelection(s, evt);
@@ -14858,7 +15170,7 @@ function resolveSelection(s, evt) {
   };
 }
 function buildSelectionMenu(s, svc, hit, openAsk) {
-  const menu = new import_obsidian16.Menu();
+  const menu = new import_obsidian17.Menu();
   menu.addItem((i) => i.setTitle("View notes on this verse").setIcon("sticky-note").onClick(() => new NotesPopover(s, svc, hit.verseId).open()));
   if (isBiblical(hit.verseId)) {
     menu.addItem((i) => i.setTitle("\u{1F310} Other translations").setIcon("languages").onClick(() => new TranslationsModal(s, hit.verseId, hit.verseText).open()));
@@ -14868,7 +15180,7 @@ function buildSelectionMenu(s, svc, hit, openAsk) {
     menu.addItem((i) => i.setTitle(`Highlight ${c2}`).setIcon("highlighter").onClick((e) => {
       svc.visibilityMenu((vis, gid, label) => {
         void svc.addHighlight(hit.verseId, c2, hit.verseText, hit.selected, vis, gid);
-        new import_obsidian16.Notice(`Highlighted \u2014 ${label}`);
+        new import_obsidian17.Notice(`Highlighted \u2014 ${label}`);
       }).showAtMouseEvent(e);
     }));
   }
@@ -14877,7 +15189,7 @@ function buildSelectionMenu(s, svc, hit, openAsk) {
     new NoteModal(s, hit.verseId, (text) => {
       svc.visibilityMenu((vis, gid, label) => {
         void svc.addNote(hit.verseId, text, hit.selected, vis, gid);
-        new import_obsidian16.Notice(`Note saved \u2014 ${label}`);
+        new import_obsidian17.Notice(`Note saved \u2014 ${label}`);
       }).showAtPosition({ x: window.innerWidth / 2, y: window.innerHeight / 3 });
     }).open();
   }));
@@ -14886,6 +15198,35 @@ function buildSelectionMenu(s, svc, hit, openAsk) {
     openAsk(hit.selected ? `About "${hit.selected}" \u2014 ` : "", hit.verseId);
   }));
   return menu;
+}
+function connChip(s, p, verseId, list, chapterTitle2) {
+  if (!list?.length || p.querySelector(".sg-conn-chip")) return;
+  const chip = p.createSpan({ cls: "sg-conn-chip", text: `\u21C4 ${list.length}` });
+  chip.setAttr("aria-label", `${list.length} connected pages`);
+  chip.onclick = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    ConnectionsModal.forVerse(s, verseId, list, () => void openLocalGraphFor(s, chapterTitle2)).open();
+  };
+}
+function healConnChips(plugin, s) {
+  const f = plugin.app.workspace.getActiveFile();
+  if (!f || !f.path.startsWith(CANONICAL_PREFIX)) return;
+  const slug = plugin.app.metadataCache.getFileCache(f)?.frontmatter?.slug;
+  if (!slug) return;
+  const paras = document.querySelectorAll(".markdown-preview-view [data-verse-id]");
+  if (!paras.length) return;
+  const conns = connectionsFor(plugin.app, f.path, slug);
+  let added = 0;
+  for (const p of Array.from(paras)) {
+    if (p.querySelector(".sg-conn-chip")) continue;
+    const vid = p.getAttribute("data-verse-id");
+    const list = conns.byVerse.get(vid);
+    if (!list?.length) continue;
+    connChip(s, p, vid, list, f.basename);
+    added++;
+  }
+  if (added) trace("conn.heal", { chapter: f.basename, added });
 }
 function placeMarkers(p, notes, onTap) {
   const placed = /* @__PURE__ */ new Set();
@@ -14955,8 +15296,8 @@ function placeMarkers(p, notes, onTap) {
 
 // src/social/onboarding.ts
 init_define_SG_BUILD();
-var import_obsidian17 = require("obsidian");
-var WelcomeModal = class extends import_obsidian17.Modal {
+var import_obsidian18 = require("obsidian");
+var WelcomeModal = class extends import_obsidian18.Modal {
   constructor(s, ai, onDone) {
     super(s.app);
     this.s = s;
@@ -14973,12 +15314,12 @@ var WelcomeModal = class extends import_obsidian17.Modal {
     let invite = "";
     let name = "";
     let device = "My device";
-    new import_obsidian17.Setting(contentEl).setName("Your name").addText((t) => t.setPlaceholder("e.g. Mom").onChange((v) => name = v));
-    new import_obsidian17.Setting(contentEl).setName("Invite code").setDesc("From the family member who runs Scripture Graph").addText((t) => t.setPlaceholder("XXXX-XXXX-XXXX").onChange((v) => invite = v));
-    new import_obsidian17.Setting(contentEl).setName("This device").addText((t) => t.setValue(device).onChange((v) => device = v || "My device"));
-    new import_obsidian17.Setting(contentEl).addButton((b) => b.setButtonText("Join").setCta().onClick(async () => {
+    new import_obsidian18.Setting(contentEl).setName("Your name").addText((t) => t.setPlaceholder("e.g. Mom").onChange((v) => name = v));
+    new import_obsidian18.Setting(contentEl).setName("Invite code").setDesc("From the family member who runs Scripture Graph").addText((t) => t.setPlaceholder("XXXX-XXXX-XXXX").onChange((v) => invite = v));
+    new import_obsidian18.Setting(contentEl).setName("This device").addText((t) => t.setValue(device).onChange((v) => device = v || "My device"));
+    new import_obsidian18.Setting(contentEl).addButton((b) => b.setButtonText("Join").setCta().onClick(async () => {
       const code = invite.trim();
-      if (!code) return void new import_obsidian17.Notice("Invite code required");
+      if (!code) return void new import_obsidian18.Notice("Invite code required");
       if (code.startsWith("sgd_")) {
         try {
           this.s.device.deviceToken = code;
@@ -14988,17 +15329,17 @@ var WelcomeModal = class extends import_obsidian17.Modal {
           this.s.device.displayName = me.user.display_name;
           await this.s.saveDevice();
           await refreshIdentity(this.s);
-          new import_obsidian17.Notice(`Welcome, ${me.user.display_name}!`);
+          new import_obsidian18.Notice(`Welcome, ${me.user.display_name}!`);
           this.close();
           this.maybeOfferAi();
         } catch (e) {
           this.s.device.deviceToken = null;
           await this.s.saveDevice();
-          new import_obsidian17.Notice(`Token rejected: ${e.message}`);
+          new import_obsidian18.Notice(`Token rejected: ${e.message}`);
         }
         return;
       }
-      if (!name.trim()) return void new import_obsidian17.Notice("Name and invite code required");
+      if (!name.trim()) return void new import_obsidian18.Notice("Name and invite code required");
       try {
         const session = await this.s.api.claim(code, name.trim(), device);
         this.s.device.deviceToken = session.token;
@@ -15006,31 +15347,31 @@ var WelcomeModal = class extends import_obsidian17.Modal {
         this.s.device.displayName = session.user.display_name;
         await this.s.saveDevice();
         await refreshIdentity(this.s);
-        new import_obsidian17.Notice(`Welcome, ${session.user.display_name}!`);
+        new import_obsidian18.Notice(`Welcome, ${session.user.display_name}!`);
         this.close();
         this.maybeOfferAi();
       } catch (e) {
         try {
           const session = await linkDevice(this.s, invite.trim(), device);
-          new import_obsidian17.Notice(`Welcome back, ${session.display_name}!`);
+          new import_obsidian18.Notice(`Welcome back, ${session.display_name}!`);
           this.close();
           this.maybeOfferAi();
         } catch {
-          new import_obsidian17.Notice(`Could not join: ${e.message}`);
+          new import_obsidian18.Notice(`Could not join: ${e.message}`);
         }
       }
     })).addButton((b) => b.setButtonText("Maybe later").onClick(() => this.close()));
   }
   maybeOfferAi() {
-    const m2 = new import_obsidian17.Modal(this.app);
+    const m2 = new import_obsidian18.Modal(this.app);
     m2.contentEl.createEl("h3", { text: "Want AI features?" });
     m2.contentEl.createEl("p", {
       text: "Ask questions about any verse using YOUR OWN AI balance (about $10 goes far). Everything else works without it."
     });
-    new import_obsidian17.Setting(m2.contentEl).addButton((b) => b.setButtonText("Connect AI").setCta().onClick(async () => {
+    new import_obsidian18.Setting(m2.contentEl).addButton((b) => b.setButtonText("Connect AI").setCta().onClick(async () => {
       m2.close();
       await this.ai.beginConnect();
-      new import_obsidian17.Notice("Complete the authorization in your browser \u2014 Obsidian will catch the redirect.");
+      new import_obsidian18.Notice("Complete the authorization in your browser \u2014 Obsidian will catch the redirect.");
     })).addButton((b) => b.setButtonText("Maybe later").onClick(() => m2.close()));
     m2.open();
     this.onDone();
@@ -15066,7 +15407,7 @@ async function refreshIdentity(s) {
 
 // src/ai/aiService.ts
 init_define_SG_BUILD();
-var import_obsidian18 = require("obsidian");
+var import_obsidian19 = require("obsidian");
 init_src();
 var CALLBACK_URL = "obsidian://scripture-graph-auth";
 var AiService = class {
@@ -15089,7 +15430,7 @@ var AiService = class {
     this.pendingVerifier = null;
     this.s.device.openrouterKey = key;
     await this.s.saveDevice();
-    new import_obsidian18.Notice("AI connected \u2713 (your own OpenRouter wallet)");
+    new import_obsidian19.Notice("AI connected \u2713 (your own OpenRouter wallet)");
     this.s.notify();
   }
   async disconnect() {
@@ -15141,11 +15482,13 @@ var AiService = class {
 
 // src/ai/askView.ts
 init_define_SG_BUILD();
-var import_obsidian19 = require("obsidian");
+var import_obsidian20 = require("obsidian");
+init_state();
 
 // src/ai/context.ts
 init_define_SG_BUILD();
 init_src();
+init_state();
 async function read(s, file) {
   return s.app.vault.cachedRead(file);
 }
@@ -15306,7 +15649,7 @@ var ACTION_PRESETS = [
   { label: "Findings", task: "evidence", template: (a2) => `What findings, frameworks and honest counter-considerations relate to ${a2}?` },
   { label: "Challenge it", task: "challenge", template: (a2) => `Give the strongest skeptical reading of ${a2}, then the strongest response.` }
 ];
-var AskView = class extends import_obsidian19.ItemView {
+var AskView = class extends import_obsidian20.ItemView {
   constructor(leaf, s, ai, ann) {
     super(leaf);
     this.s = s;
@@ -15440,7 +15783,7 @@ var AskView = class extends import_obsidian19.ItemView {
   }
   async renderMarkdown(el, text) {
     el.empty();
-    await import_obsidian19.MarkdownRenderer.render(this.app, text, el, "", this);
+    await import_obsidian20.MarkdownRenderer.render(this.app, text, el, "", this);
   }
   /** §52: outputs become PERSONAL drafts, intentionally. */
   async saveAsNote(question, answer) {
@@ -15466,17 +15809,18 @@ content_type: ai-conversation
 ${answer}
 `
       );
-      new import_obsidian19.Notice("Saved to Library/AI Notes");
+      new import_obsidian20.Notice("Saved to Library/AI Notes");
     } catch (e) {
-      new import_obsidian19.Notice(`Could not save: ${e.message}`);
+      new import_obsidian20.Notice(`Could not save: ${e.message}`);
     }
   }
 };
 
 // src/reader/readerView.ts
 init_define_SG_BUILD();
-var import_obsidian20 = require("obsidian");
+var import_obsidian21 = require("obsidian");
 init_src();
+init_state();
 init_annotations();
 var READER_VIEW = "scripture-graph-reader";
 var LENSES = [
@@ -15490,7 +15834,7 @@ var LENSES = [
   { key: "media", icon: "\u{1F3A7}", label: "Media", sections: ["secondary-sources"] },
   { key: "questions", icon: "\u2753", label: "Questions", sections: ["questions", "further-study"] }
 ];
-var ReaderView = class extends import_obsidian20.ItemView {
+var ReaderView = class extends import_obsidian21.ItemView {
   constructor(leaf, s, ann, openAsk) {
     super(leaf);
     this.s = s;
@@ -15610,7 +15954,7 @@ var ReaderView = class extends import_obsidian20.ItemView {
           const box = secWrap.createEl("details", { cls: "sg-section", attr: { open: "" } });
           box.createEl("summary", { text: `${l.icon} ${pretty(name)}` });
           const bodyEl = box.createDiv();
-          await import_obsidian20.MarkdownRenderer.render(
+          await import_obsidian21.MarkdownRenderer.render(
             this.app,
             content,
             bodyEl,
@@ -15628,14 +15972,15 @@ function pretty(section) {
 
 // src/reader/docView.ts
 init_define_SG_BUILD();
-var import_obsidian22 = require("obsidian");
+var import_obsidian23 = require("obsidian");
+init_state();
 init_annotations();
 init_themeLibrary();
 init_leafNav();
 
 // src/study/youtubeFind.ts
 init_define_SG_BUILD();
-var import_obsidian21 = require("obsidian");
+var import_obsidian22 = require("obsidian");
 var LINK_RE = /(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|embed\/|shorts\/))([A-Za-z0-9_-]{11})/;
 var VID_RE = /"videoRenderer":\{"videoId":"([A-Za-z0-9_-]{11})"([\s\S]{0,4000}?)"ownerText":\{"runs":\[\{"text":"([^"]+)"/g;
 var CACHE_KEY = "sg-yt-found";
@@ -15684,7 +16029,7 @@ async function findTalkVideo(app, file) {
   const url = "https://www.youtube.com/results?" + new URLSearchParams({ search_query: q, sp: "EgIQAQ%3D%3D" }).toString();
   let html = "";
   try {
-    const res = await (0, import_obsidian21.requestUrl)({
+    const res = await (0, import_obsidian22.requestUrl)({
       url,
       headers: {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36",
@@ -15732,7 +16077,7 @@ function docKindFor(path) {
   return null;
 }
 var PLACEHOLDER = /^_?Not yet developed\.?_?$/i;
-var DocView = class extends import_obsidian22.ItemView {
+var DocView = class extends import_obsidian23.ItemView {
   constructor(leaf, s, ann, host) {
     super(leaf);
     this.s = s;
@@ -15770,7 +16115,7 @@ var DocView = class extends import_obsidian22.ItemView {
   file() {
     if (!this.path) return null;
     const af = this.app.vault.getAbstractFileByPath(this.path);
-    return af instanceof import_obsidian22.TFile ? af : null;
+    return af instanceof import_obsidian23.TFile ? af : null;
   }
   /** the page's stable graph anchor: the engine's sg-id when it has one,
    * else the path — either way one id every device agrees on */
@@ -15831,7 +16176,7 @@ var DocView = class extends import_obsidian22.ItemView {
       actions.insertBefore(watch, actions.firstChild);
       watch.onclick = () => this.host.playVideo(id, title, docKindFor(file.path)?.eyebrow ?? "Video");
     });
-    if (this.host.openRaw && !import_obsidian22.Platform.isMobile) {
+    if (this.host.openRaw && !import_obsidian23.Platform.isMobile) {
       const raw = actions.createEl("button", { cls: "sg-ask-btn sg-doc-raw", text: "\u2197" });
       raw.setAttr("aria-label", "Open the raw page");
       raw.onclick = () => this.host.openRaw(file);
@@ -15854,7 +16199,7 @@ var DocView = class extends import_obsidian22.ItemView {
     try {
       const md = await this.app.vault.cachedRead(file);
       const scratch = createDiv();
-      await import_obsidian22.MarkdownRenderer.render(this.app, md, scratch, file.path, this);
+      await import_obsidian23.MarkdownRenderer.render(this.app, md, scratch, file.path, this);
       this.sectionize(scratch, body, file.basename);
     } catch {
       body.setText("This page could not be loaded.");
@@ -15925,14 +16270,16 @@ var DocView = class extends import_obsidian22.ItemView {
 
 // src/study/dock.ts
 init_define_SG_BUILD();
-var import_obsidian24 = require("obsidian");
+var import_obsidian25 = require("obsidian");
 init_src();
+init_state();
 init_leafNav();
 
 // src/study/notebooks.ts
 init_define_SG_BUILD();
-var import_obsidian23 = require("obsidian");
+var import_obsidian24 = require("obsidian");
 init_src();
+init_search();
 init_themeLibrary();
 init_annotations();
 async function notebooks(s) {
@@ -15950,7 +16297,7 @@ async function notebooks(s) {
   if (marks.length) out.push({ key: "marks", title: "Highlights", emoji: "\u{1F58D}", hex: "#f5d90a", entries: marks });
   return out;
 }
-var NotebookModal = class extends import_obsidian23.Modal {
+var NotebookModal = class extends import_obsidian24.Modal {
   constructor(s, nb, openLink) {
     super(s.app);
     this.s = s;
@@ -16132,11 +16479,11 @@ var Dock = class {
     }
     const page = this.host.currentPage();
     if (page && this.host.playVideo && isTalk(this.s.app, page)) {
-      const finding = new import_obsidian24.Notice("Finding the video\u2026", 0);
+      const finding = new import_obsidian25.Notice("Finding the video\u2026", 0);
       void this.host.playVideo(page).then((ok2) => {
         finding.hide();
         if (!ok2) {
-          if (!this.listen.start(this.s.app, page)) new import_obsidian24.Notice("No video or recording for this talk");
+          if (!this.listen.start(this.s.app, page)) new import_obsidian25.Notice("No video or recording for this talk");
         }
         this.refresh();
       });
@@ -16148,7 +16495,7 @@ var Dock = class {
       return;
     }
     const ok = this.listen.start(this.s.app, page);
-    if (!ok) new import_obsidian24.Notice("Open a chapter or a talk to listen to it");
+    if (!ok) new import_obsidian25.Notice("Open a chapter or a talk to listen to it");
     this.refresh();
   }
 };
@@ -16207,7 +16554,7 @@ var Listener = class {
   /** the recording behind a Church page, when the API offers one */
   async recording(uri) {
     try {
-      const res = await (0, import_obsidian24.requestUrl)({
+      const res = await (0, import_obsidian25.requestUrl)({
         url: `https://www.churchofjesuschrist.org/study/api/v3/language-pages/type/content?lang=eng&uri=${encodeURIComponent(uri)}`,
         headers: { "User-Agent": "ScriptureGraph-personal-study/0.1" }
       });
@@ -16228,7 +16575,7 @@ var Listener = class {
         if (!url) {
           this.playing = false;
           document.body.removeClass("sg-listening");
-          new import_obsidian24.Notice("No recording for this page");
+          new import_obsidian25.Notice("No recording for this page");
           return;
         }
         this.audio?.pause();
@@ -16277,7 +16624,7 @@ var Listener = class {
     document.body.removeClass("sg-listening");
   }
 };
-var SavedModal = class _SavedModal extends import_obsidian24.Modal {
+var SavedModal = class _SavedModal extends import_obsidian25.Modal {
   constructor(s, host) {
     super(s.app);
     this.s = s;
@@ -16388,7 +16735,7 @@ var SavedModal = class _SavedModal extends import_obsidian24.Modal {
         const md = await exportJournal(this.s.app, this.s);
         const path = "Library/Study Journal.md";
         const f = this.s.app.vault.getAbstractFileByPath(path);
-        if (f instanceof import_obsidian24.TFile) await this.s.app.vault.modify(f, md);
+        if (f instanceof import_obsidian25.TFile) await this.s.app.vault.modify(f, md);
         else await this.s.app.vault.create(path, md);
         this.host.openNote("Study Journal");
       })());
@@ -16403,11 +16750,11 @@ var SavedModal = class _SavedModal extends import_obsidian24.Modal {
       () => this.host.reviewFlashcards()
     );
     const trails = this.s.app.vault.getAbstractFileByPath(`${PERSONAL_PREFIX}Study Trails`);
-    if (trails instanceof import_obsidian24.TFolder && trails.children.length) {
+    if (trails instanceof import_obsidian25.TFolder && trails.children.length) {
       sect("Study trails");
       const list3 = c2.createDiv({ cls: "sg-nav-list" });
       for (const f of trails.children.slice(0, 20)) {
-        if (f instanceof import_obsidian24.TFile) row(list3, "\u{1F463}", f.basename, "", () => this.host.openPath(f.path));
+        if (f instanceof import_obsidian25.TFile) row(list3, "\u{1F463}", f.basename, "", () => this.host.openPath(f.path));
       }
     }
   }
@@ -16423,11 +16770,11 @@ var ICON = {
   tabs: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"><rect x="7" y="7" width="13" height="13" rx="2"/><path d="M4 15V6a2 2 0 0 1 2-2h9"/></svg>`,
   listen: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 13a8 8 0 0 1 16 0"/><path d="M4 13v5a2 2 0 0 0 2 2h1v-7H6a2 2 0 0 0-2 2z"/><path d="M20 13v5a2 2 0 0 1-2 2h-1v-7h1a2 2 0 0 1 2 2z"/></svg>`
 };
-var isPhone = () => import_obsidian24.Platform.isMobile;
+var isPhone = () => import_obsidian25.Platform.isMobile;
 
 // src/study/readingSettings.ts
 init_define_SG_BUILD();
-var import_obsidian25 = require("obsidian");
+var import_obsidian26 = require("obsidian");
 var DEFAULT_READING = { scale: 1, spacing: 1.6, font: "sans", width: "normal" };
 function readingPrefs(s) {
   const d = s.device;
@@ -16442,7 +16789,7 @@ function applyReading(s) {
   document.body.toggleClass("sg-read-wide", p.width === "wide");
   document.body.toggleClass("sg-read-serif", p.font === "serif");
 }
-var ReadingSettingsModal = class extends import_obsidian25.Modal {
+var ReadingSettingsModal = class extends import_obsidian26.Modal {
   constructor(s, openScene, toggleDock) {
     super(s.app);
     this.s = s;
@@ -16522,7 +16869,7 @@ var ReadingSettingsModal = class extends import_obsidian25.Modal {
 
 // src/sync/vaultSync.ts
 init_define_SG_BUILD();
-var import_obsidian26 = require("obsidian");
+var import_obsidian27 = require("obsidian");
 var SECTIONS2 = [
   { key: "scriptures", label: "Scriptures, study guides, footnotes", prefix: "AI Library/01 Scriptures/", always: true },
   { key: "topics", label: "Gospel Topics, doctrines, people, places, events", prefix: "AI Library/0", always: true },
@@ -16626,7 +16973,7 @@ var VaultSync = class {
       this.set({ running: false, phase: "idle", lastRun: (/* @__PURE__ */ new Date()).toISOString() });
     } catch (e) {
       this.set({ running: false, phase: "idle", lastError: String(e?.message ?? e) });
-      if (reason === "manual") new import_obsidian26.Notice(`Sync: ${this.status.lastError}`);
+      if (reason === "manual") new import_obsidian27.Notice(`Sync: ${this.status.lastError}`);
     }
   }
   // ---------------------------------------------------------------- shared
@@ -16653,7 +17000,7 @@ var VaultSync = class {
         todo.push(p);
         continue;
       }
-      if (!await adapter.exists((0, import_obsidian26.normalizePath)(p))) todo.push(p);
+      if (!await adapter.exists((0, import_obsidian27.normalizePath)(p))) todo.push(p);
     }
     const gone = [];
     for (const p of Object.keys(index2)) if (!want.has(p)) gone.push(p);
@@ -16666,9 +17013,9 @@ var VaultSync = class {
       for (let i = 1; i <= parts.length; i++) {
         const d = parts.slice(0, i).join("/");
         if (folders.has(d)) continue;
-        if (!await adapter.exists((0, import_obsidian26.normalizePath)(d))) {
+        if (!await adapter.exists((0, import_obsidian27.normalizePath)(d))) {
           try {
-            await adapter.mkdir((0, import_obsidian26.normalizePath)(d));
+            await adapter.mkdir((0, import_obsidian27.normalizePath)(d));
           } catch {
           }
         }
@@ -16685,7 +17032,7 @@ var VaultSync = class {
         for (const f of files) {
           if (f.missing) continue;
           await ensureFolder(f.p);
-          const np = (0, import_obsidian26.normalizePath)(f.p);
+          const np = (0, import_obsidian27.normalizePath)(f.p);
           if (f.text !== void 0) await adapter.write(np, f.text);
           else if (f.b64 !== void 0) await adapter.writeBinary(np, b64ToBytes(f.b64));
           index2[f.p] = want.get(f.p) ?? f.h ?? "";
@@ -16702,7 +17049,7 @@ var VaultSync = class {
     this.set({ phase: "cleaning" });
     for (const p of gone) {
       try {
-        if (await adapter.exists((0, import_obsidian26.normalizePath)(p))) await adapter.remove((0, import_obsidian26.normalizePath)(p));
+        if (await adapter.exists((0, import_obsidian27.normalizePath)(p))) await adapter.remove((0, import_obsidian27.normalizePath)(p));
       } catch {
       }
       delete index2[p];
@@ -16725,7 +17072,7 @@ var VaultSync = class {
     const items = [];
     for (const p of paths) {
       const af = this.s.app.vault.getAbstractFileByPath(p);
-      if (af instanceof import_obsidian26.TFile) {
+      if (af instanceof import_obsidian27.TFile) {
         const content = await this.s.app.vault.read(af);
         const h = await sha(content);
         if (pidx[p]?.hash === h) continue;
@@ -16746,10 +17093,10 @@ var VaultSync = class {
           this.status.personalPushed++;
         } else if (r.status === "conflict" && r.server) {
           const copy = r.path.replace(/\.md$/, "") + ` (conflict from another device).md`;
-          if (r.server.content !== null) await this.s.app.vault.adapter.write((0, import_obsidian26.normalizePath)(copy), r.server.content);
+          if (r.server.content !== null) await this.s.app.vault.adapter.write((0, import_obsidian27.normalizePath)(copy), r.server.content);
           pidx[r.path] = { hash: r.server.hash ?? "", mtime: r.server.mtime, base: r.server.hash };
           this.status.conflicts++;
-          new import_obsidian26.Notice(`Sync kept both versions of ${r.path.split("/").pop()}`);
+          new import_obsidian27.Notice(`Sync kept both versions of ${r.path.split("/").pop()}`);
           this.dirty.add(r.path);
         }
       }
@@ -16769,7 +17116,7 @@ var VaultSync = class {
     const pidx = await this.personalIndex();
     const adapter = this.s.app.vault.adapter;
     for (const f of files) {
-      const np = (0, import_obsidian26.normalizePath)(f.path);
+      const np = (0, import_obsidian27.normalizePath)(f.path);
       const local = pidx[f.path];
       if (f.deleted_at) {
         if (local && await adapter.exists(np)) {
@@ -16783,11 +17130,11 @@ var VaultSync = class {
       }
       if (local?.hash === f.hash) continue;
       const af = this.s.app.vault.getAbstractFileByPath(f.path);
-      if (af instanceof import_obsidian26.TFile) {
+      if (af instanceof import_obsidian27.TFile) {
         const mine = await sha(await this.s.app.vault.read(af));
         if (local && mine !== local.hash) {
           const row2 = await this.s.api.personalFile(f.path);
-          if (row2.content !== null) await adapter.write((0, import_obsidian26.normalizePath)(f.path.replace(/\.md$/, "") + " (conflict from another device).md"), row2.content);
+          if (row2.content !== null) await adapter.write((0, import_obsidian27.normalizePath)(f.path.replace(/\.md$/, "") + " (conflict from another device).md"), row2.content);
           this.status.conflicts++;
           continue;
         }
@@ -16795,13 +17142,13 @@ var VaultSync = class {
       const row = await this.s.api.personalFile(f.path);
       if (row.content === null) continue;
       const dir = f.path.slice(0, f.path.lastIndexOf("/"));
-      if (dir && !await adapter.exists((0, import_obsidian26.normalizePath)(dir))) {
+      if (dir && !await adapter.exists((0, import_obsidian27.normalizePath)(dir))) {
         const parts = dir.split("/");
         for (let i = 1; i <= parts.length; i++) {
           const d = parts.slice(0, i).join("/");
-          if (!await adapter.exists((0, import_obsidian26.normalizePath)(d))) {
+          if (!await adapter.exists((0, import_obsidian27.normalizePath)(d))) {
             try {
-              await adapter.mkdir((0, import_obsidian26.normalizePath)(d));
+              await adapter.mkdir((0, import_obsidian27.normalizePath)(d));
             } catch {
             }
           }
@@ -16824,7 +17171,7 @@ var VaultSync = class {
 
 // src/social/setupLink.ts
 init_define_SG_BUILD();
-var import_obsidian27 = require("obsidian");
+var import_obsidian28 = require("obsidian");
 function buildSetupLink(server, invite, name) {
   const q = new URLSearchParams({ server: server.replace(/\/$/, ""), invite });
   if (name) q.set("name", name);
@@ -16847,9 +17194,9 @@ function setupMessage(link, server, invite) {
   ].join("\n");
 }
 function deviceLabel() {
-  if (import_obsidian27.Platform.isIosApp) return "iPhone";
-  if (import_obsidian27.Platform.isAndroidApp) return "Android phone";
-  if (import_obsidian27.Platform.isMacOS) return "Mac";
+  if (import_obsidian28.Platform.isIosApp) return "iPhone";
+  if (import_obsidian28.Platform.isAndroidApp) return "Android phone";
+  if (import_obsidian28.Platform.isMacOS) return "Mac";
   return "Computer";
 }
 async function runSetupLink(p, params) {
@@ -16861,7 +17208,7 @@ async function runSetupLink(p, params) {
     await p.saveSharedSettings();
   }
   if (!s.signedIn) {
-    if (!invite) return void new import_obsidian27.Notice("This setup link has no invite in it. Ask for a new one.", 8e3);
+    if (!invite) return void new import_obsidian28.Notice("This setup link has no invite in it. Ask for a new one.", 8e3);
     const name = (params["name"] ?? "").trim() || await askName(p);
     if (!name) return;
     try {
@@ -16875,28 +17222,28 @@ async function runSetupLink(p, params) {
       try {
         await linkDevice(s, invite, deviceLabel());
       } catch {
-        return void new import_obsidian27.Notice(`Could not join: ${e.message}. Ask for a fresh link.`, 1e4);
+        return void new import_obsidian28.Notice(`Could not join: ${e.message}. Ask for a fresh link.`, 1e4);
       }
     }
   }
   s.device.sync = { ...s.device.sync ?? {}, enabled: true };
   await s.saveDevice();
   s.notify();
-  new import_obsidian27.Notice(`Welcome, ${s.device.displayName ?? "friend"}! Downloading the library \u2014 this takes a minute or two.`, 1e4);
+  new import_obsidian28.Notice(`Welcome, ${s.device.displayName ?? "friend"}! Downloading the library \u2014 this takes a minute or two.`, 1e4);
   p.vaultSync.start();
   await p.vaultSync.run("manual");
   const st = p.vaultSync.status;
-  new import_obsidian27.Notice(st.lastError ? `Setup hit a snag: ${st.lastError}. Tap the link again to retry.` : `All set \u2014 ${st.files.toLocaleString()} files on this ${deviceLabel()}. Tap \u2302 Home to begin.`, 12e3);
+  new import_obsidian28.Notice(st.lastError ? `Setup hit a snag: ${st.lastError}. Tap the link again to retry.` : `All set \u2014 ${st.files.toLocaleString()} files on this ${deviceLabel()}. Tap \u2302 Home to begin.`, 12e3);
 }
 function askName(p) {
   return new Promise((resolve) => {
-    const m2 = new import_obsidian27.Modal(p.app);
+    const m2 = new import_obsidian28.Modal(p.app);
     let name = "";
     let done = false;
     m2.contentEl.addClass("sg-welcome");
     m2.contentEl.createEl("h2", { text: "Welcome to Scripture Graph" });
     m2.contentEl.createEl("p", { text: "What should the family call you?" });
-    new import_obsidian27.Setting(m2.contentEl).setName("Your name").addText((t) => {
+    new import_obsidian28.Setting(m2.contentEl).setName("Your name").addText((t) => {
       t.setPlaceholder("e.g. Dad").onChange((v) => name = v);
       t.inputEl.focus();
       t.inputEl.onkeydown = (ev) => {
@@ -16907,8 +17254,8 @@ function askName(p) {
         }
       };
     });
-    new import_obsidian27.Setting(m2.contentEl).addButton((b) => b.setButtonText("Continue").setCta().onClick(() => {
-      if (!name.trim()) return void new import_obsidian27.Notice("Just a first name is fine");
+    new import_obsidian28.Setting(m2.contentEl).addButton((b) => b.setButtonText("Continue").setCta().onClick(() => {
+      if (!name.trim()) return void new import_obsidian28.Notice("Just a first name is fine");
       done = true;
       m2.close();
       resolve(name.trim());
@@ -16920,7 +17267,7 @@ function askName(p) {
     m2.open();
   });
 }
-var SetupLinkModal = class extends import_obsidian27.Modal {
+var SetupLinkModal = class extends import_obsidian28.Modal {
   constructor(p, link, server, invite, who) {
     super(p.app);
     this.p = p;
@@ -16938,12 +17285,12 @@ var SetupLinkModal = class extends import_obsidian27.Modal {
     box.value = msg;
     box.rows = 9;
     box.readOnly = true;
-    new import_obsidian27.Setting(c2).addButton((b) => b.setButtonText("Copy message").setCta().onClick(async () => {
+    new import_obsidian28.Setting(c2).addButton((b) => b.setButtonText("Copy message").setCta().onClick(async () => {
       await navigator.clipboard.writeText(msg);
-      new import_obsidian27.Notice("Copied \u2014 paste it into a text");
+      new import_obsidian28.Notice("Copied \u2014 paste it into a text");
     })).addButton((b) => b.setButtonText("Copy link only").onClick(async () => {
       await navigator.clipboard.writeText(this.link);
-      new import_obsidian27.Notice("Link copied");
+      new import_obsidian28.Notice("Link copied");
     }));
   }
   onClose() {
@@ -16953,7 +17300,7 @@ var SetupLinkModal = class extends import_obsidian27.Modal {
 
 // src/live.ts
 init_define_SG_BUILD();
-var import_obsidian28 = require("obsidian");
+var import_obsidian29 = require("obsidian");
 
 // src/build.ts
 init_define_SG_BUILD();
@@ -17003,7 +17350,7 @@ var LiveLink = class {
       const base = this.p.state.api.baseUrl.replace(/\/$/, "");
       const vault = this.lastVault ?? this.p.vaultSync.status.lastVersion ?? "";
       const q = new URLSearchParams({ plugin: BUILD.version, vault, wait: String(HOLD_S) });
-      const r = await (0, import_obsidian28.requestUrl)({ url: `${base}/live?${q.toString()}`, throw: false });
+      const r = await (0, import_obsidian29.requestUrl)({ url: `${base}/live?${q.toString()}`, throw: false });
       if (r.status !== 200) throw new Error(`HTTP ${r.status}`);
       const cur = JSON.parse(r.text.replace(/^﻿/, ""));
       this.backoff = MIN_BACKOFF;
@@ -17029,7 +17376,7 @@ var LiveLink = class {
 
 // src/study/music.ts
 init_define_SG_BUILD();
-var import_obsidian29 = require("obsidian");
+var import_obsidian30 = require("obsidian");
 var MusicPlayer = class {
   constructor(app, opts, spotify) {
     this.app = app;
@@ -17103,7 +17450,7 @@ var MusicPlayer = class {
     const it = queue[index2];
     if (!it) return;
     if (!this.canPlay(it)) {
-      new import_obsidian29.Notice("No recording for this one yet \u2014 connect Spotify in Settings \u2192 Music, or wait for its video.");
+      new import_obsidian30.Notice("No recording for this one yet \u2014 connect Spotify in Settings \u2192 Music, or wait for its video.");
       return;
     }
     this.queue = queue;
@@ -17118,7 +17465,7 @@ var MusicPlayer = class {
   playAll(queue, shuffle = false) {
     let q = queue.filter((i) => this.headless(i));
     if (!q.length) {
-      new import_obsidian29.Notice("Nothing in this list plays without video \u2014 tap a song to play its YouTube version.");
+      new import_obsidian30.Notice("Nothing in this list plays without video \u2014 tap a song to play its YouTube version.");
       return;
     }
     if (shuffle) q = q.map((x3) => [Math.random(), x3]).sort((a2, b) => a2[0] - b[0]).map((x3) => x3[1]);
@@ -17219,14 +17566,14 @@ var MusicPlayer = class {
     };
     a2.onerror = () => {
       if (this.audio === a2) {
-        new import_obsidian29.Notice("That recording would not play.");
+        new import_obsidian30.Notice("That recording would not play.");
         this.step(1);
       }
     };
     a2.ontimeupdate = () => {
       if (this.audio === a2 && this.progress && a2.duration) this.progress.style.width = `${a2.currentTime / a2.duration * 100}%`;
     };
-    void a2.play().catch(() => new import_obsidian29.Notice("Tap again to start playback."));
+    void a2.play().catch(() => new import_obsidian30.Notice("Tap again to start playback."));
   }
   // ----------------------------------------------------------- youtube
   /** the player page on the family server hosts YouTube's player; we talk to
@@ -17264,7 +17611,7 @@ var MusicPlayer = class {
     }
     if (this.mode !== "youtube") return;
     if (m2.type === "error") {
-      new import_obsidian29.Notice(`YouTube couldn't play that one (error ${m2.code}).`);
+      new import_obsidian30.Notice(`YouTube couldn't play that one (error ${m2.code}).`);
       this.step(1);
       return;
     }
@@ -17284,7 +17631,7 @@ var MusicPlayer = class {
   async startSpotify(it) {
     const uri = await this.spotify.find(it.searchQuery);
     if (!uri) {
-      new import_obsidian29.Notice(`Spotify has no match for "${it.title}".`);
+      new import_obsidian30.Notice(`Spotify has no match for "${it.title}".`);
       this.step(1);
       return;
     }
@@ -17309,7 +17656,7 @@ var MusicPlayer = class {
   }
   /** the ⋯ on a row */
   menu(it, ev) {
-    const m2 = new import_obsidian29.Menu();
+    const m2 = new import_obsidian30.Menu();
     const eng = this.engineFor(it);
     if (eng) m2.addItem((i) => i.setTitle(eng === "audio" ? "Play here" : eng === "spotify" ? "Play on Spotify" : "Play (YouTube)").setIcon("play").onClick(() => this.play([it], 0)));
     if (it.yt && eng !== "youtube" && this.opts.youtubeEnabled()) m2.addItem((i) => i.setTitle("Play the YouTube version").setIcon("play").onClick(() => this.play([{ ...it, url: void 0, preferVideo: true }], 0)));
@@ -17432,11 +17779,11 @@ var MusicPlayer = class {
       const img = art.createEl("img");
       img.src = artUrl;
       img.alt = "";
-    } else (0, import_obsidian29.setIcon)(art.createDiv({ cls: "sg-player-art-icon" }), "music");
+    } else (0, import_obsidian30.setIcon)(art.createDiv({ cls: "sg-player-art-icon" }), "music");
     if (yt) {
       art.addClass("sg-player-art-toggle");
       art.setAttr("aria-label", this.tucked ? "Show video" : "Hide video");
-      (0, import_obsidian29.setIcon)(art.createDiv({ cls: "sg-player-art-badge" }), this.tucked ? "chevron-left" : "chevron-right");
+      (0, import_obsidian30.setIcon)(art.createDiv({ cls: "sg-player-art-badge" }), this.tucked ? "chevron-left" : "chevron-right");
       art.onclick = (e) => {
         e.stopPropagation();
         this.tuckVideo();
@@ -17452,7 +17799,7 @@ var MusicPlayer = class {
     else if (it.open) meta.onclick = it.open;
     const btn = (icon, cls, label, fn) => {
       const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, attr: { "aria-label": label } });
-      (0, import_obsidian29.setIcon)(b, icon);
+      (0, import_obsidian30.setIcon)(b, icon);
       b.onclick = (e) => {
         e.stopPropagation();
         fn();
@@ -17475,7 +17822,7 @@ var MusicPlayer = class {
 
 // src/study/spotify.ts
 init_define_SG_BUILD();
-var import_obsidian30 = require("obsidian");
+var import_obsidian31 = require("obsidian");
 var AUTH = "https://accounts.spotify.com/authorize";
 var TOKEN = "https://accounts.spotify.com/api/token";
 var API = "https://api.spotify.com/v1";
@@ -17500,7 +17847,7 @@ var Spotify = class {
   async beginConnect() {
     const id = this.store.clientId();
     if (!id) {
-      new import_obsidian30.Notice("Spotify isn't set up for the family yet (Client ID missing in settings).");
+      new import_obsidian31.Notice("Spotify isn't set up for the family yet (Client ID missing in settings).");
       return;
     }
     const raw = new Uint8Array(48);
@@ -17526,12 +17873,12 @@ var Spotify = class {
       redirect_uri: SPOTIFY_CALLBACK,
       code_verifier: this.verifier
     }).toString();
-    const r = await (0, import_obsidian30.requestUrl)({ url: TOKEN, method: "POST", headers: { "content-type": "application/x-www-form-urlencoded" }, body, throw: false });
+    const r = await (0, import_obsidian31.requestUrl)({ url: TOKEN, method: "POST", headers: { "content-type": "application/x-www-form-urlencoded" }, body, throw: false });
     if (r.status !== 200) throw new Error(`Spotify sign-in failed (${r.status})`);
     const j = r.json;
     await this.store.set({ access: j.access_token, refresh: j.refresh_token, expires: Date.now() + (j.expires_in - 60) * 1e3 });
     this.verifier = null;
-    new import_obsidian30.Notice("Spotify connected \u2713");
+    new import_obsidian31.Notice("Spotify connected \u2713");
   }
   async disconnect() {
     await this.store.set(null);
@@ -17541,10 +17888,10 @@ var Spotify = class {
     if (!t) return null;
     if (Date.now() < t.expires) return t.access;
     const body = new URLSearchParams({ client_id: this.store.clientId(), grant_type: "refresh_token", refresh_token: t.refresh }).toString();
-    const r = await (0, import_obsidian30.requestUrl)({ url: TOKEN, method: "POST", headers: { "content-type": "application/x-www-form-urlencoded" }, body, throw: false });
+    const r = await (0, import_obsidian31.requestUrl)({ url: TOKEN, method: "POST", headers: { "content-type": "application/x-www-form-urlencoded" }, body, throw: false });
     if (r.status !== 200) {
       await this.store.set(null);
-      new import_obsidian30.Notice("Spotify sign-in expired \u2014 connect again in Settings.");
+      new import_obsidian31.Notice("Spotify sign-in expired \u2014 connect again in Settings.");
       return null;
     }
     const j = r.json;
@@ -17554,7 +17901,7 @@ var Spotify = class {
   async call(method, path, body) {
     const tok = await this.token();
     if (!tok) return { status: 401, json: null };
-    const r = await (0, import_obsidian30.requestUrl)({
+    const r = await (0, import_obsidian31.requestUrl)({
       url: `${API}${path}`,
       method,
       throw: false,
@@ -17587,11 +17934,11 @@ var Spotify = class {
       r = await this.call("PUT", "/me/player/play", { uris: [uri] });
     }
     if (r.status === 403) {
-      new import_obsidian30.Notice("Spotify says this account can't be controlled remotely \u2014 Premium is required.");
+      new import_obsidian31.Notice("Spotify says this account can't be controlled remotely \u2014 Premium is required.");
       return false;
     }
     if (r.status === 404) {
-      new import_obsidian30.Notice("Open Spotify once, then tap the song again.");
+      new import_obsidian31.Notice("Open Spotify once, then tap the song again.");
       return false;
     }
     return r.status < 300;
@@ -17613,8 +17960,9 @@ var Spotify = class {
 
 // src/study/study.ts
 init_define_SG_BUILD();
-var import_obsidian31 = require("obsidian");
+var import_obsidian32 = require("obsidian");
 init_src();
+init_state();
 var StudyService = class {
   constructor(s, ann) {
     this.s = s;
@@ -17630,7 +17978,7 @@ var StudyService = class {
     if (this.trail.length > 100) this.trail.shift();
   }
   async saveTrail() {
-    if (this.trail.length < 2) return void new import_obsidian31.Notice("Trail is empty \u2014 study a little first");
+    if (this.trail.length < 2) return void new import_obsidian32.Notice("Trail is empty \u2014 study a little first");
     const name = `Trail ${(/* @__PURE__ */ new Date()).toISOString().slice(0, 10)}`;
     const dlg = new NameModal(this.s, name, async (chosen) => {
       const folder = `${PERSONAL_PREFIX}Study Trails`;
@@ -17651,7 +17999,7 @@ content_type: study-trail
 ${body}
 `
       );
-      new import_obsidian31.Notice("Trail saved to Library/Study Trails");
+      new import_obsidian32.Notice("Trail saved to Library/Study Trails");
       this.trail = [];
     });
     dlg.open();
@@ -17659,7 +18007,7 @@ ${body}
   // --------------------------------------------------------- bookmarks
   async bookmarkCurrent() {
     const f = this.s.app.workspace.getActiveFile();
-    if (!f) return void new import_obsidian31.Notice("Open a page first, then bookmark it");
+    if (!f) return void new import_obsidian32.Notice("Open a page first, then bookmark it");
     await this.bookmarkFile(f);
   }
   /** the anchor a bookmark on this file rides: the chapter id, the engine's
@@ -17682,7 +18030,7 @@ ${body}
   /** tap again: the bookmark goes */
   async unbookmark(a2) {
     await this.ann.remove(a2.annotation_id);
-    new import_obsidian31.Notice("Bookmark removed");
+    new import_obsidian32.Notice("Bookmark removed");
   }
   /** bookmark THIS file — the page views (questions, talks, history) have no
    * "active file" in Obsidian's sense, so they hand theirs over */
@@ -17705,7 +18053,7 @@ ${body}
     const latest = all.filter((a2) => a2.anchor_id === anchor).sort((a2, b) => b.created_at.localeCompare(a2.created_at))[0];
     if (latest) await this.s.sync.save({ ...latest, annotation_type: "bookmark" });
     this.s.rerenderReading();
-    new import_obsidian31.Notice(`Bookmarked ${f.basename}`);
+    new import_obsidian32.Notice(`Bookmarked ${f.basename}`);
   }
   // -------------------------------------------------------- flashcards
   /** Idempotent: the same card (anchor + answer) is never added twice.
@@ -17725,7 +18073,7 @@ ${body}
       }
     });
     if (dup) {
-      new import_obsidian31.Notice("You already have this flashcard \u{1F0CF}");
+      new import_obsidian32.Notice("You already have this flashcard \u{1F0CF}");
       return false;
     }
     const a2 = {
@@ -17755,7 +18103,7 @@ ${body}
     };
     await this.s.sync.save(a2);
     this.s.rerenderReading();
-    new import_obsidian31.Notice("Flashcard added \u{1F0CF}");
+    new import_obsidian32.Notice("Flashcard added \u{1F0CF}");
     return true;
   }
   async review() {
@@ -17769,7 +18117,7 @@ ${body}
         return false;
       }
     });
-    if (!due.length) return void new import_obsidian31.Notice("No cards due \u2014 well done!");
+    if (!due.length) return void new import_obsidian32.Notice("No cards due \u2014 well done!");
     new ReviewModal(this.s, due, async (a2, quality) => {
       const data = JSON.parse(a2.content);
       const c2 = data.card;
@@ -17786,7 +18134,7 @@ ${body}
     }).open();
   }
 };
-var NameModal = class extends import_obsidian31.Modal {
+var NameModal = class extends import_obsidian32.Modal {
   constructor(s, initial, onSubmit) {
     super(s.app);
     this.initial = initial;
@@ -17795,8 +18143,8 @@ var NameModal = class extends import_obsidian31.Modal {
   onOpen() {
     this.contentEl.createEl("h3", { text: "Save study trail" });
     let v = this.initial;
-    new import_obsidian31.Setting(this.contentEl).setName("Name").addText((t) => t.setValue(this.initial).onChange((x3) => v = x3));
-    new import_obsidian31.Setting(this.contentEl).addButton((b) => b.setButtonText("Save").setCta().onClick(() => {
+    new import_obsidian32.Setting(this.contentEl).setName("Name").addText((t) => t.setValue(this.initial).onChange((x3) => v = x3));
+    new import_obsidian32.Setting(this.contentEl).addButton((b) => b.setButtonText("Save").setCta().onClick(() => {
       this.close();
       this.onSubmit(v || this.initial);
     }));
@@ -17805,7 +18153,7 @@ var NameModal = class extends import_obsidian31.Modal {
     this.contentEl.empty();
   }
 };
-var ReviewModal = class extends import_obsidian31.Modal {
+var ReviewModal = class extends import_obsidian32.Modal {
   constructor(s, cards, grade) {
     super(s.app);
     this.cards = cards;
@@ -18325,13 +18673,13 @@ var SceneManager = class {
 };
 
 // src/main.ts
-var import_obsidian35 = require("obsidian");
+var import_obsidian36 = require("obsidian");
 
 // src/settings.ts
 init_define_SG_BUILD();
-var import_obsidian32 = require("obsidian");
+var import_obsidian33 = require("obsidian");
 init_src();
-var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
+var SGSettingsTab = class extends import_obsidian33.PluginSettingTab {
   constructor(p) {
     super(p.app, p);
     this.p = p;
@@ -18340,17 +18688,17 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
     const s = this.p.state;
     const sp = this.p.music.spotify;
     el.createEl("h2", { text: "Music" });
-    new import_obsidian32.Setting(el).setName("Spotify").setDesc(sp.connected ? "Connected \u2014 playlists play through your Spotify app, in the background." : sp.configured ? "Sign in once; then our playlists play through the Spotify app on this phone (Premium)." : "Not set up for the family yet: the owner adds the Spotify Client ID below.").addButton((b) => b.setButtonText(sp.connected ? "Disconnect" : "Connect").setCta().setDisabled(!sp.configured && !sp.connected).onClick(async () => {
+    new import_obsidian33.Setting(el).setName("Spotify").setDesc(sp.connected ? "Connected \u2014 playlists play through your Spotify app, in the background." : sp.configured ? "Sign in once; then our playlists play through the Spotify app on this phone (Premium)." : "Not set up for the family yet: the owner adds the Spotify Client ID below.").addButton((b) => b.setButtonText(sp.connected ? "Disconnect" : "Connect").setCta().setDisabled(!sp.configured && !sp.connected).onClick(async () => {
       if (sp.connected) {
         await sp.disconnect();
         this.display();
       } else await sp.beginConnect();
     }));
-    new import_obsidian32.Setting(el).setName("YouTube in the app").setDesc("Songs, talks and podcasts the Church doesn't host play in a small YouTube window in the corner").addToggle((t) => t.setValue(s.device.youtube !== false).onChange(async (v) => {
+    new import_obsidian33.Setting(el).setName("YouTube in the app").setDesc("Songs, talks and podcasts the Church doesn't host play in a small YouTube window in the corner").addToggle((t) => t.setValue(s.device.youtube !== false).onChange(async (v) => {
       s.device.youtube = v;
       await s.saveDevice();
     }));
-    new import_obsidian32.Setting(el).setName("Spotify Client ID (family)").setDesc("From developer.spotify.com \u2014 one app for the whole family; shared with the vault").addText((t) => t.setPlaceholder("32 characters").setValue(s.settings.spotifyClientId ?? "").onChange(async (v) => {
+    new import_obsidian33.Setting(el).setName("Spotify Client ID (family)").setDesc("From developer.spotify.com \u2014 one app for the whole family; shared with the vault").addText((t) => t.setPlaceholder("32 characters").setValue(s.settings.spotifyClientId ?? "").onChange(async (v) => {
       s.applySettings({ spotifyClientId: v.trim() });
       await this.p.saveSharedSettings();
     }));
@@ -18368,7 +18716,7 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
     };
     paint();
     vs.listeners.push(paint);
-    new import_obsidian32.Setting(el).setName("Sync from the family server").setDesc("The whole shared vault comes from the server, and your own notes go both ways under your login. No Obsidian Sync needed.").addToggle((t) => t.setValue(prefs.enabled).onChange(async (v) => {
+    new import_obsidian33.Setting(el).setName("Sync from the family server").setDesc("The whole shared vault comes from the server, and your own notes go both ways under your login. No Obsidian Sync needed.").addToggle((t) => t.setValue(prefs.enabled).onChange(async (v) => {
       s.device.sync = { ...s.device.sync ?? {}, enabled: v };
       await s.saveDevice();
       if (v) vs.start();
@@ -18376,18 +18724,18 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
     }));
     const known = [s.settings.serverUrl, ...s.device.serverUrls ?? []].filter((u, i, a2) => u && a2.indexOf(u) === i);
     el.createDiv({ cls: "setting-item-description", text: `Reachable at: ${known.join("  \xB7  ")}` });
-    new import_obsidian32.Setting(el).setName("Sync now").addButton((b) => b.setButtonText("Sync").onClick(async () => {
+    new import_obsidian33.Setting(el).setName("Sync now").addButton((b) => b.setButtonText("Sync").onClick(async () => {
       await vs.run("manual");
       paint();
     }));
-    new import_obsidian32.Setting(el).setName("Check every").addDropdown((d) => d.addOptions({ "15": "15 minutes", "30": "30 minutes", "60": "hour", "180": "3 hours" }).setValue(String(prefs.intervalMin)).onChange(async (v) => {
+    new import_obsidian33.Setting(el).setName("Check every").addDropdown((d) => d.addOptions({ "15": "15 minutes", "30": "30 minutes", "60": "hour", "180": "3 hours" }).setValue(String(prefs.intervalMin)).onChange(async (v) => {
       s.device.sync = { ...s.device.sync ?? {}, intervalMin: Number(v) };
       await s.saveDevice();
       vs.start();
     }));
     el.createEl("h3", { text: "What this device carries" });
     for (const sec of SECTIONS2) {
-      new import_obsidian32.Setting(el).setName(sec.label).setDesc(sec.always ? "Always" : "").addToggle((t) => t.setValue(sec.always || prefs.sections[sec.key] !== false).setDisabled(!!sec.always).onChange(async (v) => {
+      new import_obsidian33.Setting(el).setName(sec.label).setDesc(sec.always ? "Always" : "").addToggle((t) => t.setValue(sec.always || prefs.sections[sec.key] !== false).setDisabled(!!sec.always).onChange(async (v) => {
         s.device.sync = { ...s.device.sync ?? {}, sections: { ...s.device.sync?.sections ?? {}, [sec.key]: v } };
         await s.saveDevice();
         await vs.resetIndex();
@@ -18402,9 +18750,9 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
     this.renderSync(el);
     el.createEl("h2", { text: "Account" });
     if (!s.signedIn) {
-      new import_obsidian32.Setting(el).setName("Join Scripture Graph").setDesc("Sign in with your family invite code").addButton((b) => b.setButtonText("Join\u2026").setCta().onClick(() => new WelcomeModal(s, this.p.ai, () => this.display()).open()));
+      new import_obsidian33.Setting(el).setName("Join Scripture Graph").setDesc("Sign in with your family invite code").addButton((b) => b.setButtonText("Join\u2026").setCta().onClick(() => new WelcomeModal(s, this.p.ai, () => this.display()).open()));
     } else {
-      new import_obsidian32.Setting(el).setName(`Signed in as ${s.device.displayName ?? "?"}`).setDesc(`Groups: ${s.groups.map((g) => g.name).join(", ") || "none yet"}`).addButton((b) => b.setButtonText("Sign out this device").onClick(async () => {
+      new import_obsidian33.Setting(el).setName(`Signed in as ${s.device.displayName ?? "?"}`).setDesc(`Groups: ${s.groups.map((g) => g.name).join(", ") || "none yet"}`).addButton((b) => b.setButtonText("Sign out this device").onClick(async () => {
         try {
           await s.api.logoutDevice();
         } catch {
@@ -18414,7 +18762,7 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
         await s.saveDevice();
         this.display();
       }));
-      new import_obsidian32.Setting(el).setName("Link another device").setDesc("Creates a one-time code (valid 1 hour) to sign THIS account in on your phone").addButton((b) => b.setButtonText("Create code").onClick(async () => {
+      new import_obsidian33.Setting(el).setName("Link another device").setDesc("Creates a one-time code (valid 1 hour) to sign THIS account in on your phone").addButton((b) => b.setButtonText("Create code").onClick(async () => {
         try {
           const inv = await s.api.createAccountInviteDeviceLink();
           new CodeModal(
@@ -18424,21 +18772,21 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
             "On the other device: Settings \u2192 Scripture Graph \u2192 Join \u2192 paste this code."
           ).open();
         } catch (e) {
-          new import_obsidian32.Notice(e.message);
+          new import_obsidian33.Notice(e.message);
         }
       }));
-      new import_obsidian32.Setting(el).setName("Create a group").addText((t) => t.setPlaceholder("e.g. Richins Family").then((t2) => {
-        new import_obsidian32.Setting(el).addButton((b) => b.setButtonText("Create").onClick(async () => {
+      new import_obsidian33.Setting(el).setName("Create a group").addText((t) => t.setPlaceholder("e.g. Richins Family").then((t2) => {
+        new import_obsidian33.Setting(el).addButton((b) => b.setButtonText("Create").onClick(async () => {
           const name = t2.getValue().trim();
           if (!name) return;
           await s.api.createGroup(name);
           await refreshIdentity(s);
-          new import_obsidian32.Notice(`Group \u201C${name}\u201D created`);
+          new import_obsidian33.Notice(`Group \u201C${name}\u201D created`);
           this.display();
         }));
       }));
       for (const g of s.groups) {
-        new import_obsidian32.Setting(el).setName(`\u{1F465} ${g.name}`).setDesc(g.role).addButton((b) => b.setButtonText("Invite\u2026").onClick(async () => {
+        new import_obsidian33.Setting(el).setName(`\u{1F465} ${g.name}`).setDesc(g.role).addButton((b) => b.setButtonText("Invite\u2026").onClick(async () => {
           try {
             const inv = await s.api.createGroupInvite(g.group_id);
             new CodeModal(
@@ -18448,7 +18796,7 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
               "Share this code \u2014 it works for existing members via \u201CJoin group\u201D, and the owner can bundle it into account invites."
             ).open();
           } catch (e) {
-            new import_obsidian32.Notice(e.message);
+            new import_obsidian33.Notice(e.message);
           }
         })).addButton((b) => b.setButtonText("Leave").setWarning().onClick(async () => {
           await s.api.leaveGroup(g.group_id);
@@ -18456,30 +18804,30 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
           this.display();
         }));
       }
-      new import_obsidian32.Setting(el).setName("Join a group").setDesc("Paste a group invite code").addText((t) => t.setPlaceholder("XXXX-XXXX-XXXX").then((t2) => {
-        new import_obsidian32.Setting(el).addButton((b) => b.setButtonText("Join group").onClick(async () => {
+      new import_obsidian33.Setting(el).setName("Join a group").setDesc("Paste a group invite code").addText((t) => t.setPlaceholder("XXXX-XXXX-XXXX").then((t2) => {
+        new import_obsidian33.Setting(el).addButton((b) => b.setButtonText("Join group").onClick(async () => {
           try {
             const r = await s.api.acceptInvite(t2.getValue().trim());
             await refreshIdentity(s);
-            new import_obsidian32.Notice(`Joined ${r.group_name ?? "group"}`);
+            new import_obsidian33.Notice(`Joined ${r.group_name ?? "group"}`);
             this.display();
           } catch (e) {
-            new import_obsidian32.Notice(e.message);
+            new import_obsidian33.Notice(e.message);
           }
         }));
       }));
     }
     el.createEl("h2", { text: "Reading" });
-    new import_obsidian32.Setting(el).setName("Chapter links open My Study page").setDesc("Links like [[Matthew 5]] land on your editable page (the scripture is embedded there). Verse-precise links still open the exact verse.").addToggle((t) => t.setValue(s.settings.chapterLinksToMyStudy).onChange(async (v) => {
+    new import_obsidian33.Setting(el).setName("Chapter links open My Study page").setDesc("Links like [[Matthew 5]] land on your editable page (the scripture is embedded there). Verse-precise links still open the exact verse.").addToggle((t) => t.setValue(s.settings.chapterLinksToMyStudy).onChange(async (v) => {
       s.applySettings({ chapterLinksToMyStudy: v });
       await this.p.saveSharedSettings();
     }));
-    new import_obsidian32.Setting(el).setName("Show AI Library folder in sidebar").setDesc("Off keeps the AI Library out of the file explorer on this device \u2014 study pages still show and link its content (read-only). Leave off on family devices.").addToggle((t) => t.setValue(s.device.showAiLibrary).onChange(async (v) => {
+    new import_obsidian33.Setting(el).setName("Show AI Library folder in sidebar").setDesc("Off keeps the AI Library out of the file explorer on this device \u2014 study pages still show and link its content (read-only). Leave off on family devices.").addToggle((t) => t.setValue(s.device.showAiLibrary).onChange(async (v) => {
       s.device.showAiLibrary = v;
       document.body.toggleClass("sg-hide-ai-lib", !v);
       await s.saveDevice();
     }));
-    new import_obsidian32.Setting(el).setName("Swipe to turn the chapter").setDesc("On the phone, a firm left/right swipe on a reading page moves one chapter (Obsidian's sidebar swipes step aside there). Turn off to give reading pages back to the sidebars.").addToggle((t) => t.setValue(s.device.swipeNav !== false).onChange(async (v) => {
+    new import_obsidian33.Setting(el).setName("Swipe to turn the chapter").setDesc("On the phone, a firm left/right swipe on a reading page moves one chapter (Obsidian's sidebar swipes step aside there). Turn off to give reading pages back to the sidebars.").addToggle((t) => t.setValue(s.device.swipeNav !== false).onChange(async (v) => {
       s.device.swipeNav = v;
       if (!v) {
         for (const leaf of s.app.workspace.getLeavesOfType("markdown")) {
@@ -18489,7 +18837,7 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
       }
       await s.saveDevice();
     }));
-    new import_obsidian32.Setting(el).setName("Reading scene").setDesc("An ambient living backdrop behind the scriptures").addDropdown((d) => {
+    new import_obsidian33.Setting(el).setName("Reading scene").setDesc("An ambient living backdrop behind the scriptures").addDropdown((d) => {
       d.addOption("none", "None (plain)");
       d.addOption("auto", "Auto \u2014 follow the time of day");
       d.addOption("match", "\u{1F4D6} Match the chapter");
@@ -18501,63 +18849,63 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
       });
     });
     el.createEl("h2", { text: "Sharing & privacy" });
-    new import_obsidian32.Setting(el).setName("Default for new notes/highlights").setDesc("\u{1F510} Only me (synced) is recommended; \u{1F512} device-only never uploads anywhere").addDropdown((d) => d.addOption("private", "\u{1F510} Only me (synced)").addOption("local", "\u{1F512} Only me (this device)").setValue(s.settings.defaultVisibility).onChange(async (v) => {
+    new import_obsidian33.Setting(el).setName("Default for new notes/highlights").setDesc("\u{1F510} Only me (synced) is recommended; \u{1F512} device-only never uploads anywhere").addDropdown((d) => d.addOption("private", "\u{1F510} Only me (synced)").addOption("local", "\u{1F512} Only me (this device)").setValue(s.settings.defaultVisibility).onChange(async (v) => {
       s.settings.defaultVisibility = v;
       await this.p.saveSharedSettings();
     }));
-    new import_obsidian32.Setting(el).setName("Show my marks").addToggle((t) => t.setValue(s.device.showScopes.mine).onChange(async (v) => {
+    new import_obsidian33.Setting(el).setName("Show my marks").addToggle((t) => t.setValue(s.device.showScopes.mine).onChange(async (v) => {
       s.device.showScopes.mine = v;
       await s.saveDevice();
       s.notify();
     }));
     for (const g of s.groups) {
-      new import_obsidian32.Setting(el).setName(`Show ${g.name}`).addToggle((t) => t.setValue(s.device.showScopes.groups[g.group_id] !== false).onChange(async (v) => {
+      new import_obsidian33.Setting(el).setName(`Show ${g.name}`).addToggle((t) => t.setValue(s.device.showScopes.groups[g.group_id] !== false).onChange(async (v) => {
         s.device.showScopes.groups[g.group_id] = v;
         await s.saveDevice();
         s.notify();
       }));
     }
-    new import_obsidian32.Setting(el).setName("Show public highlights").addToggle((t) => t.setValue(s.device.showScopes.public).onChange(async (v) => {
+    new import_obsidian33.Setting(el).setName("Show public highlights").addToggle((t) => t.setValue(s.device.showScopes.public).onChange(async (v) => {
       s.device.showScopes.public = v;
       await s.saveDevice();
       s.notify();
     }));
     el.createEl("h2", { text: "AI (your own wallet \u2014 never a shared key)" });
     if (!s.aiConnected) {
-      new import_obsidian32.Setting(el).setName("Connect AI").setDesc(
+      new import_obsidian33.Setting(el).setName("Connect AI").setDesc(
         "Authorizes Scripture Graph to use YOUR OpenRouter balance. ~$10 lasts a long time."
       ).addButton((b) => b.setButtonText("Connect AI").setCta().onClick(async () => {
         await this.p.ai.beginConnect();
-        new import_obsidian32.Notice("Finish in the browser \u2014 Obsidian catches the redirect. If it doesn't return, paste the code below.");
+        new import_obsidian33.Notice("Finish in the browser \u2014 Obsidian catches the redirect. If it doesn't return, paste the code below.");
         this.display();
       }));
-      new import_obsidian32.Setting(el).setName("Paste authorization code").setDesc("Only needed if the browser redirect didn't come back").addText((t) => t.setPlaceholder("code from openrouter.ai").then((t2) => {
-        new import_obsidian32.Setting(el).addButton((b) => b.setButtonText("Finish connection").onClick(async () => {
+      new import_obsidian33.Setting(el).setName("Paste authorization code").setDesc("Only needed if the browser redirect didn't come back").addText((t) => t.setPlaceholder("code from openrouter.ai").then((t2) => {
+        new import_obsidian33.Setting(el).addButton((b) => b.setButtonText("Finish connection").onClick(async () => {
           try {
             await this.p.ai.completeConnect(t2.getValue());
             this.display();
           } catch (e) {
-            new import_obsidian32.Notice(e.message);
+            new import_obsidian33.Notice(e.message);
           }
         }));
       }));
     } else {
-      new import_obsidian32.Setting(el).setName("AI connected \u2713").addButton((b) => b.setButtonText("Disconnect").setWarning().onClick(async () => {
+      new import_obsidian33.Setting(el).setName("AI connected \u2713").addButton((b) => b.setButtonText("Disconnect").setWarning().onClick(async () => {
         await this.p.ai.disconnect();
         this.display();
       }));
-      new import_obsidian32.Setting(el).setName("Preferred models").addDropdown((d) => d.addOption("auto", "AUTO \u2014 recommended").addOption("fast", "Fast & cheap").addOption("deep", "Deep research").addOption("best", "Highest quality").addOption("cheapest", "Cheapest").addOption("specific", "Specific model\u2026").setValue(s.device.aiTier).onChange(async (v) => {
+      new import_obsidian33.Setting(el).setName("Preferred models").addDropdown((d) => d.addOption("auto", "AUTO \u2014 recommended").addOption("fast", "Fast & cheap").addOption("deep", "Deep research").addOption("best", "Highest quality").addOption("cheapest", "Cheapest").addOption("specific", "Specific model\u2026").setValue(s.device.aiTier).onChange(async (v) => {
         s.device.aiTier = v;
         await s.saveDevice();
         this.display();
       }));
       if (s.device.aiTier === "specific") {
-        new import_obsidian32.Setting(el).setName("Model id").setDesc("Advanced: any OpenRouter model id").addText((t) => t.setValue(s.device.aiSpecificModel ?? "").setPlaceholder(TIER_CANDIDATES.deep[0] ?? "").onChange(async (v) => {
+        new import_obsidian33.Setting(el).setName("Model id").setDesc("Advanced: any OpenRouter model id").addText((t) => t.setValue(s.device.aiSpecificModel ?? "").setPlaceholder(TIER_CANDIDATES.deep[0] ?? "").onChange(async (v) => {
           s.device.aiSpecificModel = v.trim() || null;
           await s.saveDevice();
         }));
       }
-      new import_obsidian32.Setting(el).setName("Monthly safety cap (USD)").setDesc("Scripture Graph stops starting AI requests past this amount").addText((t) => {
+      new import_obsidian33.Setting(el).setName("Monthly safety cap (USD)").setDesc("Scripture Graph stops starting AI requests past this amount").addText((t) => {
         void this.p.state.budget.state().then((b) => t.setValue(String(b.capUsd)));
         t.onChange(async (v) => {
           const n = Number(v);
@@ -18566,33 +18914,33 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
       });
       void this.p.state.budget.state().then(async (b) => {
         const wallet = await this.p.ai.wallet();
-        new import_obsidian32.Setting(el).setName(
+        new import_obsidian33.Setting(el).setName(
           `This month: $${b.spentUsd.toFixed(2)} / $${b.capUsd.toFixed(2)}`
         ).setDesc(wallet ? `OpenRouter wallet: $${wallet.usageUsd.toFixed(2)} used${wallet.limitUsd ? ` of $${wallet.limitUsd}` : ""}` : "");
       });
-      new import_obsidian32.Setting(el).setName("Let AI read my private notes as context").setDesc("Off by default. AI never modifies your notes either way (\xA727).").addToggle((t) => t.setValue(s.device.aiUsePersonalNotes).onChange(async (v) => {
+      new import_obsidian33.Setting(el).setName("Let AI read my private notes as context").setDesc("Off by default. AI never modifies your notes either way (\xA727).").addToggle((t) => t.setValue(s.device.aiUsePersonalNotes).onChange(async (v) => {
         s.device.aiUsePersonalNotes = v;
         await s.saveDevice();
       }));
     }
     el.createEl("h2", { text: "My data" });
-    new import_obsidian32.Setting(el).setName("Export my data").setDesc("All annotations + highlights \u2192 Markdown/JSON in Library/Exports").addButton((b) => b.setButtonText("Export").onClick(() => void this.p.exportMyData()));
+    new import_obsidian33.Setting(el).setName("Export my data").setDesc("All annotations + highlights \u2192 Markdown/JSON in Library/Exports").addButton((b) => b.setButtonText("Export").onClick(() => void this.p.exportMyData()));
     const code = BUILD.version === this.p.manifest.version ? `build ${BUILD.sha}` : `\u26A0 code is v${BUILD.version} (${BUILD.sha}) \u2014 main.js hasn't synced yet`;
-    new import_obsidian32.Setting(el).setName(`Plugin version: v${this.p.manifest.version} \xB7 ${code}`).setDesc("Updates come straight from your family server \u2014 no sync games").addButton((b) => b.setButtonText("Check for updates").onClick(() => void this.p.checkForUpdate(false)));
-    new import_obsidian32.Setting(el).setName("Debug: copy interaction log").setDesc("Copies what the touch layer saw (taps, selections, decisions) \u2014 paste it to whoever is fixing a bug").addButton((b) => b.setButtonText("Copy log").onClick(async () => {
+    new import_obsidian33.Setting(el).setName(`Plugin version: v${this.p.manifest.version} \xB7 ${code}`).setDesc("Updates come straight from your family server \u2014 no sync games").addButton((b) => b.setButtonText("Check for updates").onClick(() => void this.p.checkForUpdate(false)));
+    new import_obsidian33.Setting(el).setName("Debug: copy interaction log").setDesc("Copies what the touch layer saw (taps, selections, decisions) \u2014 paste it to whoever is fixing a bug").addButton((b) => b.setButtonText("Copy log").onClick(async () => {
       const { traceDump: traceDump2 } = await Promise.resolve().then(() => (init_trace(), trace_exports));
       await navigator.clipboard.writeText(
         `Scripture Graph v${this.p.manifest.version} code=v${BUILD.version}@${BUILD.sha} ${BUILD.at}
 ` + traceDump2()
       );
-      new import_obsidian32.Notice("Interaction log copied \u2014 paste it in a message");
+      new import_obsidian33.Notice("Interaction log copied \u2014 paste it in a message");
     })).addToggle((t) => t.setValue(s.device.debugOverlay ?? false).onChange(async (v) => {
       s.device.debugOverlay = v;
       await s.saveDevice();
       const { setOverlay: setOverlay2 } = await Promise.resolve().then(() => (init_trace(), trace_exports));
       setOverlay2(v);
     }));
-    new import_obsidian32.Setting(el).setName("Server address").setDesc(
+    new import_obsidian33.Setting(el).setName("Server address").setDesc(
       "Shared with the whole vault (everyone needs the same backend)"
     ).addText((t) => t.setValue(s.settings.serverUrl).onChange(async (v) => {
       s.applySettings({ serverUrl: v.trim() });
@@ -18610,12 +18958,12 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
       if (me.user.role !== "owner") return;
       el.createEl("h2", { text: "Owner admin" });
       let who = "";
-      new import_obsidian32.Setting(el).setName("Setup link for a family member").setDesc("Text them one link. They install from inside Obsidian and tap it \u2014 no codes, no hidden folders.").addText((t) => t.setPlaceholder("their first name (optional)").onChange((v) => who = v.trim())).addButton((b) => b.setButtonText("Make link").setCta().onClick(async () => {
+      new import_obsidian33.Setting(el).setName("Setup link for a family member").setDesc("Text them one link. They install from inside Obsidian and tap it \u2014 no codes, no hidden folders.").addText((t) => t.setPlaceholder("their first name (optional)").onChange((v) => who = v.trim())).addButton((b) => b.setButtonText("Make link").setCta().onClick(async () => {
         const inv = await s.api.createAccountInvite(1, 24 * 30);
         const server = bestPublicUrl(this.p);
         new SetupLinkModal(this.p, buildSetupLink(server, inv.code, who || void 0), server, inv.code, who || "a family member").open();
       }));
-      new import_obsidian32.Setting(el).setName("New family account invite").addButton((b) => b.setButtonText("Create invite").onClick(async () => {
+      new import_obsidian33.Setting(el).setName("New family account invite").addButton((b) => b.setButtonText("Create invite").onClick(async () => {
         const inv = await s.api.createAccountInvite(1, 24 * 30);
         new CodeModal(
           this.p,
@@ -18634,7 +18982,7 @@ var SGSettingsTab = class extends import_obsidian32.PluginSettingTab {
     }
   }
 };
-var CodeModal = class extends import_obsidian32.Modal {
+var CodeModal = class extends import_obsidian33.Modal {
   constructor(p, title, code, hint) {
     super(p.app);
     this.title = title;
@@ -18645,9 +18993,9 @@ var CodeModal = class extends import_obsidian32.Modal {
     this.contentEl.createEl("h3", { text: this.title });
     const codeEl = this.contentEl.createEl("code", { text: this.code, cls: "sg-invite-code" });
     this.contentEl.createEl("p", { text: this.hint });
-    new import_obsidian32.Setting(this.contentEl).addButton((b) => b.setButtonText("Copy").setCta().onClick(async () => {
+    new import_obsidian33.Setting(this.contentEl).addButton((b) => b.setButtonText("Copy").setCta().onClick(async () => {
       await navigator.clipboard.writeText(this.code);
-      new import_obsidian32.Notice("Copied");
+      new import_obsidian33.Notice("Copied");
     }));
     codeEl.onclick = () => void navigator.clipboard.writeText(this.code);
   }
@@ -18658,7 +19006,7 @@ var CodeModal = class extends import_obsidian32.Modal {
 
 // src/migrate.ts
 init_define_SG_BUILD();
-var import_obsidian33 = require("obsidian");
+var import_obsidian34 = require("obsidian");
 init_src();
 var OLD_DATA = ".obsidian/plugins/scripture-graph-annotate/data.json";
 var FLAG = "migrated_v02_annotate";
@@ -18713,13 +19061,13 @@ async function migrateFromAnnotate(s) {
   }
   await s.store.put(FLAG, true);
   if (count) {
-    new import_obsidian33.Notice(`Scripture Graph: imported ${count} highlight${count === 1 ? "" : "s"} from the old plugin (kept device-local \u2014 share any of them from the verse popover).`);
+    new import_obsidian34.Notice(`Scripture Graph: imported ${count} highlight${count === 1 ? "" : "s"} from the old plugin (kept device-local \u2014 share any of them from the verse popover).`);
   }
 }
 
 // src/main.ts
 init_trace();
-var WriteModal = class extends import_obsidian34.Modal {
+var WriteModal = class extends import_obsidian35.Modal {
   constructor(app, chapter, onSave) {
     super(app);
     this.chapter = chapter;
@@ -18731,7 +19079,7 @@ var WriteModal = class extends import_obsidian34.Modal {
     const ta = this.contentEl.createEl("textarea", {
       attr: { placeholder: "Write your thoughts\u2026 (added under My Notes)" }
     });
-    new import_obsidian34.Setting(this.contentEl).addButton((b) => b.setButtonText("Save").setCta().onClick(async () => {
+    new import_obsidian35.Setting(this.contentEl).addButton((b) => b.setButtonText("Save").setCta().onClick(async () => {
       const text = ta.value.trim();
       this.close();
       if (text) await this.onSave(text);
@@ -18752,7 +19100,7 @@ function newerVersion(remote, local) {
   }
   return false;
 }
-var SGPlugin = class extends import_obsidian34.Plugin {
+var SGPlugin = class extends import_obsidian35.Plugin {
   state;
   ai;
   ann;
@@ -18806,18 +19154,18 @@ var SGPlugin = class extends import_obsidian34.Plugin {
     }, spotify);
     this.registerObsidianProtocolHandler("scripture-graph-spotify", (params) => {
       const code = params["code"];
-      if (!code) return void new import_obsidian34.Notice(`Spotify sign-in failed: ${params["error"] ?? "no code"}`);
-      spotify.completeConnect(code).catch((e) => new import_obsidian34.Notice(e.message));
+      if (!code) return void new import_obsidian35.Notice(`Spotify sign-in failed: ${params["error"] ?? "no code"}`);
+      spotify.completeConnect(code).catch((e) => new import_obsidian35.Notice(e.message));
     });
     this.app.workspace.onLayoutReady(() => this.music.mount());
     this.register(() => this.music.destroy());
     this.registerObsidianProtocolHandler("scripture-graph-setup", (params) => {
-      this.app.workspace.onLayoutReady(() => void runSetupLink(this, params).catch((e) => new import_obsidian34.Notice(`Setup failed: ${e.message}`, 1e4)));
+      this.app.workspace.onLayoutReady(() => void runSetupLink(this, params).catch((e) => new import_obsidian35.Notice(`Setup failed: ${e.message}`, 1e4)));
     });
     this.registerObsidianProtocolHandler("scripture-graph-auth", (params) => {
       const code = params["code"];
-      if (!code) return void new import_obsidian34.Notice("AI connection failed: no code in redirect");
-      this.ai.completeConnect(code).catch((e) => new import_obsidian34.Notice(e.message));
+      if (!code) return void new import_obsidian35.Notice("AI connection failed: no code in redirect");
+      this.ai.completeConnect(code).catch((e) => new import_obsidian35.Notice(e.message));
     });
     const openAskFromReading = (prompt, anchor) => {
       const ct = this.chapterTitleFor(anchor);
@@ -18858,10 +19206,10 @@ var SGPlugin = class extends import_obsidian34.Plugin {
       icon: "highlighter",
       callback: () => {
         const hit = resolveSelection(this.state, null);
-        if (!hit) return void new import_obsidian34.Notice("Select some scripture text first");
+        if (!hit) return void new import_obsidian35.Notice("Select some scripture text first");
         const vis = this.state.settings.defaultVisibility === "local" ? "local" : "private";
         void this.ann.addHighlight(hit.verseId, "yellow", hit.verseText, hit.selected, vis, null);
-        new import_obsidian34.Notice(`Highlighted ${verseDisplay(hit.verseId) ?? hit.verseId}`);
+        new import_obsidian35.Notice(`Highlighted ${verseDisplay(hit.verseId) ?? hit.verseId}`);
       }
     });
     this.addCommand({
@@ -18870,11 +19218,11 @@ var SGPlugin = class extends import_obsidian34.Plugin {
       icon: "pencil",
       callback: () => {
         const hit = resolveSelection(this.state, null);
-        if (!hit) return void new import_obsidian34.Notice("Select some scripture text first");
+        if (!hit) return void new import_obsidian35.Notice("Select some scripture text first");
         new NoteModal(this.state, verseDisplay(hit.verseId) ?? hit.verseId, (text) => {
           const vis = this.state.settings.defaultVisibility === "local" ? "local" : "private";
           void this.ann.addNote(hit.verseId, text, hit.selected, vis, null);
-          new import_obsidian34.Notice("Note saved");
+          new import_obsidian35.Notice("Note saved");
         }).open();
       }
     });
@@ -18984,7 +19332,7 @@ var SGPlugin = class extends import_obsidian34.Plugin {
       callback: () => {
         const hit = resolveSelection(this.state, null);
         const sel = hit?.selected ?? window.getSelection()?.toString().trim() ?? "";
-        if (!sel) return void new import_obsidian34.Notice("Select the text for the card back first");
+        if (!sel) return void new import_obsidian35.Notice("Select the text for the card back first");
         const ref = hit ? verseDisplay(hit.verseId) : null;
         void this.study.addFlashcard(
           ref ? `What does ${ref} say?` : "Recall this passage",
@@ -19005,7 +19353,7 @@ var SGPlugin = class extends import_obsidian34.Plugin {
       icon: "refresh-cw",
       callback: async () => {
         await this.ann.syncNow();
-        new import_obsidian34.Notice("Synced");
+        new import_obsidian35.Notice("Synced");
       }
     });
     this.addCommand({
@@ -19036,7 +19384,7 @@ var SGPlugin = class extends import_obsidian34.Plugin {
     back.onclick = () => {
       const p = this.lastReadingPath;
       const f = p ? this.app.vault.getAbstractFileByPath(p) : null;
-      if (f instanceof import_obsidian34.TFile) void this.app.workspace.getLeaf().openFile(f);
+      if (f instanceof import_obsidian35.TFile) void this.app.workspace.getLeaf().openFile(f);
     };
     this.register(() => back.remove());
     this.backPillEl = back;
@@ -19071,8 +19419,8 @@ var SGPlugin = class extends import_obsidian34.Plugin {
       name: "Sync the vault now",
       icon: "refresh-cw",
       callback: () => {
-        new import_obsidian34.Notice("Syncing\u2026");
-        void this.vaultSync.run("manual").then(() => new import_obsidian34.Notice(
+        new import_obsidian35.Notice("Syncing\u2026");
+        void this.vaultSync.run("manual").then(() => new import_obsidian35.Notice(
           this.vaultSync.status.lastError ? `Sync: ${this.vaultSync.status.lastError}` : `Synced \u2014 ${this.vaultSync.status.files.toLocaleString()} files on this device`
         ));
       }
@@ -19157,21 +19505,21 @@ var SGPlugin = class extends import_obsidian34.Plugin {
         const plugins = this.app.plugins;
         if (plugins?.enabledPlugins?.has?.("scripture-graph-annotate")) {
           await plugins.disablePluginAndSave?.("scripture-graph-annotate");
-          new import_obsidian34.Notice("Old Scripture Graph plugin retired (it kept re-enabling itself via sync)");
+          new import_obsidian35.Notice("Old Scripture Graph plugin retired (it kept re-enabling itself via sync)");
         }
         const seen = await this.state.store.get("last_loaded_version");
         if (seen !== BUILD.version) {
           await this.state.store.put("last_loaded_version", BUILD.version);
-          new import_obsidian34.Notice(`Scripture Graph v${BUILD.version} loaded (build ${BUILD.sha})`);
+          new import_obsidian35.Notice(`Scripture Graph v${BUILD.version} loaded (build ${BUILD.sha})`);
         }
         if (BUILD.version !== this.manifest.version) {
-          new import_obsidian34.Notice(`Running v${BUILD.version} code under a v${this.manifest.version} manifest \u2014 sync hasn't finished delivering main.js; you'll be offered a reload when it lands`, 12e3);
+          new import_obsidian35.Notice(`Running v${BUILD.version} code under a v${this.manifest.version} manifest \u2014 sync hasn't finished delivering main.js; you'll be offered a reload when it lands`, 12e3);
         }
         trace("boot", {
           code: BUILD.version,
           sha: BUILD.sha,
           manifest: this.manifest.version,
-          mobile: import_obsidian34.Platform.isMobile
+          mobile: import_obsidian35.Platform.isMobile
         });
         if (this.state.device.debugOverlay) {
           const { setOverlay: setOverlay2 } = await Promise.resolve().then(() => (init_trace(), trace_exports));
@@ -19220,29 +19568,29 @@ var SGPlugin = class extends import_obsidian34.Plugin {
   async checkForUpdate(silent) {
     const base = this.state.api.baseUrl.replace(/\/$/, "");
     try {
-      const mf = await (0, import_obsidian34.requestUrl)({ url: `${base}/plugin/manifest.json`, throw: false });
+      const mf = await (0, import_obsidian35.requestUrl)({ url: `${base}/plugin/manifest.json`, throw: false });
       if (mf.status !== 200) {
-        if (!silent) new import_obsidian34.Notice("No plugin build published on the server yet");
+        if (!silent) new import_obsidian35.Notice("No plugin build published on the server yet");
         return;
       }
       let manifest;
       try {
         manifest = JSON.parse(mf.text.replace(/^\uFEFF/, ""));
       } catch {
-        if (!silent) new import_obsidian34.Notice("Update channel returned an unreadable manifest");
+        if (!silent) new import_obsidian35.Notice("Update channel returned an unreadable manifest");
         return;
       }
       const remote = manifest.version ?? "";
       if (!newerVersion(remote, BUILD.version)) {
-        if (!silent) new import_obsidian34.Notice(`Up to date \u2014 v${BUILD.version}`);
+        if (!silent) new import_obsidian35.Notice(`Up to date \u2014 v${BUILD.version}`);
         return;
       }
       const [main, styles] = await Promise.all([
-        (0, import_obsidian34.requestUrl)({ url: `${base}/plugin/main.js`, throw: false }),
-        (0, import_obsidian34.requestUrl)({ url: `${base}/plugin/styles.css`, throw: false })
+        (0, import_obsidian35.requestUrl)({ url: `${base}/plugin/main.js`, throw: false }),
+        (0, import_obsidian35.requestUrl)({ url: `${base}/plugin/styles.css`, throw: false })
       ]);
       if (main.status !== 200 || main.text.length < 1e4) {
-        if (!silent) new import_obsidian34.Notice("Update download failed \u2014 try again");
+        if (!silent) new import_obsidian35.Notice("Update download failed \u2014 try again");
         return;
       }
       const dir = `${this.app.vault.configDir}/plugins/scripture-graph`;
@@ -19250,13 +19598,13 @@ var SGPlugin = class extends import_obsidian34.Plugin {
       await ad.write(`${dir}/main.js`, main.text);
       if (styles.status === 200) await ad.write(`${dir}/styles.css`, styles.text);
       await ad.write(`${dir}/manifest.json`, JSON.stringify(mf.json, null, 2));
-      new import_obsidian34.Notice(`Scripture Graph updated to v${remote} \u2014 reloading\u2026`, 8e3);
+      new import_obsidian35.Notice(`Scripture Graph updated to v${remote} \u2014 reloading\u2026`, 8e3);
       window.setTimeout(() => {
         const cmds = this.app.commands;
         cmds?.executeCommandById?.("app:reload");
       }, 900);
     } catch (e) {
-      if (!silent) new import_obsidian34.Notice(`Update check failed: ${e.message}`);
+      if (!silent) new import_obsidian35.Notice(`Update check failed: ${e.message}`);
     }
   }
   /** 🔄 The away-from-home path.
@@ -19276,26 +19624,26 @@ var SGPlugin = class extends import_obsidian34.Plugin {
       const raw = await ad.read(`${dir}/manifest.json`);
       const disk = JSON.parse(raw.replace(/^﻿/, "")).version ?? "";
       if (!newerVersion(disk, BUILD.version)) {
-        if (!silent) new import_obsidian34.Notice(`Up to date \u2014 v${BUILD.version}`);
+        if (!silent) new import_obsidian35.Notice(`Up to date \u2014 v${BUILD.version}`);
         return;
       }
       const head = (await ad.read(`${dir}/main.js`)).slice(0, 160);
       const onDisk = BANNER_RE.exec(head)?.[1] ?? "";
       if (onDisk !== disk) {
         trace("sync.partial", { manifest: disk, code: onDisk || "unbannered", running: BUILD.version });
-        if (!silent) new import_obsidian34.Notice(`v${disk} is still syncing \u2014 the manifest is here, main.js (${onDisk ? "v" + onDisk : "an older build"}) is on its way`);
+        if (!silent) new import_obsidian35.Notice(`v${disk} is still syncing \u2014 the manifest is here, main.js (${onDisk ? "v" + onDisk : "an older build"}) is on its way`);
         return;
       }
       if (this.syncedOffered === disk) return;
       this.syncedOffered = disk;
-      const n = new import_obsidian34.Notice(`Scripture Graph v${disk} arrived by sync \u2014 tap to finish updating`, 0);
+      const n = new import_obsidian35.Notice(`Scripture Graph v${disk} arrived by sync \u2014 tap to finish updating`, 0);
       n.noticeEl.addClass("sg-update-notice");
       n.noticeEl.addEventListener("click", () => {
         n.hide();
         this.app.commands?.executeCommandById?.("app:reload");
       });
     } catch {
-      if (!silent) new import_obsidian34.Notice("Couldn't read the plugin folder to check for an update");
+      if (!silent) new import_obsidian35.Notice("Couldn't read the plugin folder to check for an update");
     }
   }
   onunload() {
@@ -19322,7 +19670,7 @@ var SGPlugin = class extends import_obsidian34.Plugin {
     if (this.app.metadataCache.getFirstLinkpathDest(companion, "")) {
       void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(companion, "");
     } else {
-      new import_obsidian34.Notice("No My Notes page exists for this chapter yet");
+      new import_obsidian35.Notice("No My Notes page exists for this chapter yet");
     }
   }
   /** 🕰 the timeline view, optionally scrolled to a year */
@@ -19435,7 +19783,7 @@ var SGPlugin = class extends import_obsidian34.Plugin {
         const v = this.app.workspace.activeLeaf?.view;
         const p = v?.getState?.()?.path;
         const af = typeof p === "string" ? this.app.vault.getAbstractFileByPath(p) : null;
-        return af instanceof import_obsidian34.TFile ? af : null;
+        return af instanceof import_obsidian35.TFile ? af : null;
       },
       bookmark: (f) => this.study.bookmarkFile(f),
       unbookmark: (a2) => this.study.unbookmark(a2),
@@ -19454,7 +19802,7 @@ var SGPlugin = class extends import_obsidian34.Plugin {
       toggleVideo: () => this.music.toggle(),
       currentCfmWeek: async () => {
         const f = this.app.vault.getAbstractFileByPath("AI Library/00 System/Come Follow Me.md");
-        if (!(f instanceof import_obsidian34.TFile)) return null;
+        if (!(f instanceof import_obsidian35.TFile)) return null;
         try {
           const m2 = /```json\s*([\s\S]*?)```/.exec(await this.app.vault.cachedRead(f));
           const weeks = m2 ? JSON.parse(m2[1]).weeks : [];
@@ -19491,11 +19839,11 @@ var SGPlugin = class extends import_obsidian34.Plugin {
         const af = this.app.vault.getAbstractFileByPath(path);
         const folders = [];
         const files = [];
-        if (af instanceof import_obsidian34.TFolder) {
+        if (af instanceof import_obsidian35.TFolder) {
           for (const ch of af.children) {
-            if (ch instanceof import_obsidian34.TFolder) {
+            if (ch instanceof import_obsidian35.TFolder) {
               folders.push({ name: ch.name, path: ch.path });
-            } else if (ch instanceof import_obsidian34.TFile && ch.extension === "md" && !ch.basename.startsWith("_")) {
+            } else if (ch instanceof import_obsidian35.TFile && ch.extension === "md" && !ch.basename.startsWith("_")) {
               files.push({ name: ch.basename, path: ch.path });
             }
           }
@@ -19584,9 +19932,9 @@ var SGPlugin = class extends import_obsidian34.Plugin {
     if (f.path.startsWith(CANONICAL_PREFIX) || f.path.startsWith(ANNOTATED_PREFIX)) return false;
     this.bouncing = true;
     const ret = this.lastReadingPath ? this.app.vault.getAbstractFileByPath(this.lastReadingPath) : null;
-    const home = ret instanceof import_obsidian34.TFile ? ret : this.app.metadataCache.getFirstLinkpathDest("Study Hub", "");
+    const home = ret instanceof import_obsidian35.TFile ? ret : this.app.metadataCache.getFirstLinkpathDest("Study Hub", "");
     const leaf = this.app.workspace.getLeaf();
-    const nav = home instanceof import_obsidian34.TFile ? leaf.openFile(home) : leaf.setViewState({ type: "empty" });
+    const nav = home instanceof import_obsidian35.TFile ? leaf.openFile(home) : leaf.setViewState({ type: "empty" });
     void nav.catch(() => {
     }).finally(() => {
       this.bouncing = false;
@@ -19598,11 +19946,11 @@ var SGPlugin = class extends import_obsidian34.Plugin {
    * folder breadcrumb ("AI Library / 01 Scriptures / …") disappears there,
    * leaving just the page name. */
   updateViewChrome(f) {
-    const view = this.app.workspace.getActiveViewOfType(import_obsidian34.MarkdownView);
+    const view = this.app.workspace.getActiveViewOfType(import_obsidian35.MarkdownView);
     if (!view || view.file?.path !== f.path) return;
     const scripture = f.path.startsWith(CANONICAL_PREFIX) || f.path.startsWith(ANNOTATED_PREFIX) || f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes");
     view.containerEl.toggleClass("sg-clean-header", scripture);
-    const ours = import_obsidian34.Platform.isMobile && this.state.device.swipeNav !== false && scripture && !!chapterIdFromTitle(readingChapterTitle(f) ?? "");
+    const ours = import_obsidian35.Platform.isMobile && this.state.device.swipeNav !== false && scripture && !!chapterIdFromTitle(readingChapterTitle(f) ?? "");
     if (ours) view.contentEl.dataset.ignoreSwipe = "true";
     else delete view.contentEl.dataset.ignoreSwipe;
   }
@@ -19658,7 +20006,7 @@ var SGPlugin = class extends import_obsidian34.Plugin {
   }
   /** Ambient scene picker. */
   pickScene() {
-    const menu = new import_obsidian35.Menu();
+    const menu = new import_obsidian36.Menu();
     const set2 = (value, label) => {
       this.state.device.scene = value;
       void this.state.saveDevice();
@@ -19668,7 +20016,7 @@ var SGPlugin = class extends import_obsidian34.Plugin {
       } else {
         this.scenes.apply(value);
       }
-      new import_obsidian34.Notice(`Reading scene: ${label}`);
+      new import_obsidian35.Notice(`Reading scene: ${label}`);
     };
     menu.addItem((i) => i.setTitle("\u2716 None (plain)").onClick(() => set2("none", "none")));
     menu.addItem((i) => i.setTitle("\u{1F550} Auto \u2014 follow the time of day").onClick(() => set2("auto", "auto")));
@@ -19687,13 +20035,13 @@ var SGPlugin = class extends import_obsidian34.Plugin {
 
 ${text.trim()}
 `);
-      new import_obsidian34.Notice("Added to your notes \u270D\uFE0F");
+      new import_obsidian35.Notice("Added to your notes \u270D\uFE0F");
     }).open();
   }
   /** ✏️ + 🕸 buttons in the title bar of every canonical chapter view,
    * ✍️ on My Study pages. */
   addMyStudyAction(f) {
-    const view = this.app.workspace.getActiveViewOfType(import_obsidian34.MarkdownView);
+    const view = this.app.workspace.getActiveViewOfType(import_obsidian35.MarkdownView);
     if (!view || view.file?.path !== f.path || this.studyActionViews.has(view)) return;
     if (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
       this.studyActionViews.add(view);
@@ -19729,7 +20077,7 @@ ${text.trim()}
   openInPreviewOnce(f) {
     if (!f.path.startsWith(PERSONAL_PREFIX)) return;
     const flip = () => {
-      const view = this.app.workspace.getActiveViewOfType(import_obsidian34.MarkdownView);
+      const view = this.app.workspace.getActiveViewOfType(import_obsidian35.MarkdownView);
       if (!view || view.file?.path !== f.path) return;
       if (view.getMode() === "preview") return;
       void view.leaf.setViewState({
@@ -19750,11 +20098,11 @@ ${text.trim()}
   enforceReadOnly() {
     for (const leaf of this.app.workspace.getLeavesOfType("markdown")) {
       const view = leaf.view;
-      if (!(view instanceof import_obsidian34.MarkdownView) || !view.file) continue;
+      if (!(view instanceof import_obsidian35.MarkdownView) || !view.file) continue;
       const path = view.file.path;
       const canonical = path.startsWith(CANONICAL_PREFIX);
       const aiLibrary = path.startsWith(LIBRARY_PREFIX);
-      const mobileStudyPage = import_obsidian34.Platform.isMobile && path.startsWith(PERSONAL_PREFIX) && path.endsWith(" - My Notes.md");
+      const mobileStudyPage = import_obsidian35.Platform.isMobile && path.startsWith(PERSONAL_PREFIX) && path.endsWith(" - My Notes.md");
       if (!canonical && !mobileStudyPage && !(aiLibrary && this.state.settings.forceLibraryPreview)) continue;
       if (view.getMode() === "preview") continue;
       void leaf.setViewState({
@@ -19763,7 +20111,7 @@ ${text.trim()}
       });
       if (canonical && !this.noticedReadOnly.has(path)) {
         this.noticedReadOnly.add(path);
-        new import_obsidian34.Notice("Scripture is read-only \u2014 highlight it, or write in \u270F\uFE0F My Notes");
+        new import_obsidian35.Notice("Scripture is read-only \u2014 highlight it, or write in \u270F\uFE0F My Notes");
       }
     }
   }
@@ -19845,7 +20193,7 @@ ${text.trim()}
       lines.push("");
     }
     await this.writeExport(`${folder}/My annotations ${stamp}.md`, lines.join("\n"));
-    new import_obsidian34.Notice("Exported to Library/Exports");
+    new import_obsidian35.Notice("Exported to Library/Exports");
   }
   /** One sweep over my annotations: duplicate flashcards, duplicate
    * highlights, and "⚠ Conflict copy" junk notes get soft-deleted (oldest
@@ -19884,11 +20232,11 @@ ${text.trim()}
     }
     this.ann.scheduleSync(500);
     this.state.rerenderReading();
-    new import_obsidian34.Notice(removed ? `Cleaned up ${removed} duplicate/junk mark${removed === 1 ? "" : "s"} \u{1F9F9}` : "Nothing to clean \u2014 your marks are tidy \u2728");
+    new import_obsidian35.Notice(removed ? `Cleaned up ${removed} duplicate/junk mark${removed === 1 ? "" : "s"} \u{1F9F9}` : "Nothing to clean \u2014 your marks are tidy \u2728");
   }
   async writeExport(path, content) {
     const existing = this.app.vault.getAbstractFileByPath(path);
-    if (existing instanceof import_obsidian34.TFile) await this.app.vault.modify(existing, content);
+    if (existing instanceof import_obsidian35.TFile) await this.app.vault.modify(existing, content);
     else await this.app.vault.create(path, content);
   }
 };

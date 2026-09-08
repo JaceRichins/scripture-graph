@@ -8,6 +8,7 @@ import {
 } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, SGState, type SocialAnnotation } from "../state";
 import { themeRibbons, themeSpec, themeWash } from "../study/themeLibrary";
+import { connectionOf, isConnectionNote } from "../study/connect";
 
 export const COLORS = ["yellow", "green", "blue", "pink", "orange"] as const;
 
@@ -276,13 +277,17 @@ export function decorateVerse(
   // every annotation type leaves a visible, tappable trace on its verse
   const openPopover = () => new NotesPopover(s, svc, verseId).open();
   if (s.device.showScopes.mine) {
-    const kinds: [string, string][] = [
-      ["note", "📝"], ["study-marker", "🃏"], ["bookmark", "🔖"],
+    const has = (test: (a: Annotation) => boolean) => mine.some(test);
+    const kinds: [(a: Annotation) => boolean, string, string][] = [
+      [a => a.annotation_type === "note" && !isConnectionNote(a), "📝", "View your notes on this verse"],
+      [a => isConnectionNote(a), "⇄", "Connected to another passage — tap to see"],
+      [a => a.annotation_type === "study-marker", "🃏", "View your flashcards on this verse"],
+      [a => a.annotation_type === "bookmark", "🔖", "Bookmarked"],
     ];
-    for (const [kind, glyph] of kinds) {
-      if (mine.some(a => a.annotation_type === kind)) {
-        const icon = p.createSpan({ cls: "sgh-note-icon", text: glyph });
-        icon.setAttribute("aria-label", "View your marks on this verse");
+    for (const [test, glyph, label] of kinds) {
+      if (has(test)) {
+        const icon = p.createSpan({ cls: `sgh-note-icon${glyph === "⇄" ? " sgh-conn-icon" : ""}`, text: glyph });
+        icon.setAttribute("aria-label", label);
         icon.onclick = openPopover;
       }
     }
@@ -346,20 +351,36 @@ function applyMark(p: HTMLElement, h: Annotation): void {
     moving.forEach(m => mark.appendChild(m));
     return;
   }
+  // the phrase may cross a footnote letter or an earlier mark, so it is
+  // found in the verse's joined text and wrapped as a range across nodes
   const walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
-  let t: Node | null;
-  while ((t = walker.nextNode())) {
-    const idx = t.nodeValue?.indexOf(h.selected_text) ?? -1;
-    if (idx === -1) continue;
-    const range = document.createRange();
-    range.setStart(t, idx);
-    range.setEnd(t, idx + h.selected_text.length);
-    const mark = document.createElement("mark");
-    mark.className = cls;
-    styleMark(mark, h);
-    try { range.surroundContents(mark); } catch { /* spans nodes */ }
-    return;
+  const nodes: Text[] = [];
+  for (let t = walker.nextNode() as Text | null; t; t = walker.nextNode() as Text | null) {
+    if (t.parentElement?.closest(".sg-conn-chip, .sg-fn-chip, .sg-fn-mark, .sgh-note-icon, .sg-badge, .sg-theme-badges, strong")) continue;
+    nodes.push(t);
   }
+  const joined = nodes.map(n => n.data).join("");
+  const idx = joined.indexOf(h.selected_text);
+  if (idx < 0) return;
+  const locate = (i: number): [Text, number] | null => {
+    let left = i;
+    for (const n of nodes) { if (left <= n.data.length) return [n, left]; left -= n.data.length; }
+    return null;
+  };
+  const from = locate(idx), to = locate(idx + h.selected_text.length);
+  if (!from || !to) return;
+  const range = document.createRange();
+  range.setStart(from[0], from[1]);
+  range.setEnd(to[0], to[1]);
+  const mark = document.createElement("mark");
+  mark.className = cls;
+  styleMark(mark, h);
+  try {
+    if (from[0] === to[0]) { range.surroundContents(mark); return; }
+    const frag = range.extractContents();
+    mark.appendChild(frag);
+    range.insertNode(mark);
+  } catch { /* an element boundary the range can't cut: leave the text unmarked */ }
 }
 
 /** Verse popover: my notes + shared notes/highlights, with actions. */
@@ -412,6 +433,11 @@ export class NotesPopover extends Modal {
       }
     } else if (a.annotation_type === "bookmark") {
       div.createEl("p", { text: `🔖 ${a.content || "Bookmark"}` });
+    } else if (isConnectionNote(a)) {
+      const c = connectionOf(a.content)!;
+      const go = div.createEl("button", { cls: "sg-ann-connect", text: `⇄ ${verseDisplay(c.anchor) ?? c.target}` });
+      go.onclick = () => { this.close(); void this.s.app.workspace.openLinkText(c.link, ""); };
+      if (c.why) div.createEl("p", { cls: "sg-ann-why", text: c.why });
     } else if (a.content) {
       div.createEl("p", { text: a.content });
     }

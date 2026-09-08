@@ -20,6 +20,7 @@ import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "./themeLibrary";
 import { trace } from "./trace";
 import type { StudyService } from "./study";
 import { TranslationsModal, isBiblical } from "./translations";
+import { ConnectModal } from "./connect";
 
 /** Open Obsidian's local connections graph centered on a page (§graph).
  * The whole vault is wikilink-wired by the engine, so a chapter's local
@@ -521,19 +522,20 @@ export class StudyBar {
       b.onclick = fn;
     };
     act("📝 Note", () => this.doNote());
-    act("🃏 Card", () => void this.doFlashcard());
+    act("⇄ Connect", () => this.doConnect());
     act("📤 Share", () => void this.doShare());
-    // 🌐 parallel translations — Bible verses only (WEB/ASV/YLT are local files)
     const firstSel = this.sel.partial ?? this.sel.verses[0] ?? null;
-    if (firstSel && isBiblical(firstSel.verseId)) {
-      act("🌐 Versions", () => {
-        new TranslationsModal(this.s, firstSel.verseId, firstSel.verseText).open();
-      });
-    }
     const more = row.createEl("button", { cls: "sg-act-more", text: "⋯" });
     more.setAttribute("aria-label", "More actions");
     more.onclick = (e) => {
       const menu = new Menu();
+      menu.addItem(i => i.setTitle("🃏 Flashcard").onClick(() => void this.doFlashcard()));
+      // 🌐 parallel translations — Bible verses only (WEB/ASV/YLT are local files)
+      if (firstSel && isBiblical(firstSel.verseId)) {
+        menu.addItem(i => i.setTitle("🌐 Other versions").onClick(() => {
+          new TranslationsModal(this.s, firstSel.verseId, firstSel.verseText).open();
+        }));
+      }
       menu.addItem(i => i.setTitle("🕸 Connections graph").onClick(() => void this.openGraph()));
       menu.addItem(i => i.setTitle("📋 Copy verse").onClick(() => void this.doCopy()));
       menu.addItem(i => i.setTitle("📤 Share verse").onClick(() => void this.doShare()));
@@ -605,6 +607,11 @@ export class StudyBar {
         new Notice(`Note saved — ${doc.title}`);
         this.clear();
       }).open();
+    });
+    act("⇄ Connect", () => {
+      const src = { anchor: doc.anchor, label: doc.title, quoted: doc.selected };
+      this.clear();
+      new ConnectModal(this.s, this.ann, src, () => this.s.rerenderReading()).open();
     });
     act("📤 Share", () => void this.shareText(doc.selected, doc.title));
     const more = row.createEl("button", { cls: "sg-act-more", text: "⋯" });
@@ -803,6 +810,15 @@ export class StudyBar {
       new Notice("Copy failed");
     }
     this.clear();
+  }
+
+  /** ⇄ tie this verse (or phrase) to another passage, found by search or by browsing */
+  private doConnect(): void {
+    const anchor = this.sel.partial?.verseId ?? this.sel.verses[0]?.verseId ?? null;
+    if (!anchor) return;
+    const src = { anchor, label: this.refLabel(), quoted: this.sel.partial?.selected ?? null };
+    this.clear();
+    new ConnectModal(this.s, this.ann, src, () => this.s.rerenderReading()).open();
   }
 
   private doAsk(): void {

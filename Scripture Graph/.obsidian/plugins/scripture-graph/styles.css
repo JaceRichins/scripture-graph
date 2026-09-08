@@ -21,6 +21,30 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 .sg-ann-meta { font-size: 0.8em; opacity: 0.7; margin-bottom: 4px; }
 .sg-ann-row blockquote { margin: 4px 0; padding-left: 8px; font-style: italic; }
 .sg-ann-actions { display: flex; gap: 8px; margin-top: 6px; }
+.sg-ann-connect { font-weight: 700; margin: 4px 0; }
+.sg-ann-why { color: var(--text-muted); font-style: italic; margin: 2px 0 0; }
+.sgh-conn-icon { font-weight: 800; color: var(--text-accent); }
+
+/* ---- ⇄ Connect: find the other passage, then say why ---- */
+.sg-connect-modal .modal-content { padding-top: 6px; }
+.sg-connect-head { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 8px; }
+.sg-connect-back { flex: none; width: 36px; height: 36px; border-radius: 50%; padding: 0; font-size: 1.3em; box-shadow: none; }
+.sg-connect-titles { min-width: 0; }
+.sg-connect-eyebrow { font-size: 0.7em; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-accent); }
+.sg-connect-from { font-size: 1.15em; font-weight: 800; line-height: 1.2; }
+.sg-connect-quote { color: var(--text-muted); font-style: italic; font-size: 0.86em; margin-top: 2px; }
+.sg-connect-search { width: 100%; margin: 0 0 8px; }
+.sg-connect-body { max-height: min(60vh, 520px); overflow-y: auto; }
+.sg-connect-hint { color: var(--text-faint); font-size: 0.82em; margin: 2px 0 6px; }
+.sg-connect-verse { display: flex; gap: 10px; padding: 8px 6px; border-radius: 10px; cursor: pointer; line-height: 1.35; }
+.sg-connect-verse:active { background: color-mix(in srgb, var(--text-normal) 10%, transparent); }
+.sg-connect-vn { flex: none; min-width: 26px; font-weight: 700; color: var(--text-accent); font-size: 0.86em; padding-top: 1px; }
+.sg-connect-vt { font-size: 0.94em; }
+.sg-connect-confirm { padding: 4px 0; }
+.sg-connect-to { font-size: 1.15em; font-weight: 800; }
+.sg-connect-totext { margin: 6px 0 10px; line-height: 1.4; color: var(--text-normal); }
+.sg-connect-why { width: 100%; resize: vertical; margin-bottom: 10px; }
+.sg-connect-actions { display: flex; gap: 8px; justify-content: flex-end; }
 .sg-note-modal textarea { width: 100%; min-height: 110px; margin-bottom: 10px; }
 
 /* ---------- invite codes -------------------------------------------------- */
@@ -1875,15 +1899,14 @@ body.sg-hide-ai-lib .nav-folder:has(> .nav-folder-title[data-path="AI Library"])
   border-color: var(--text-normal);
   background: color-mix(in srgb, var(--text-normal) 14%, var(--background-secondary));
 }
+/* themes wrap into rows — nothing to scroll sideways for; a long family
+   library scrolls DOWN inside its own box instead */
 .sg-studybar-themes {
-  display: flex; gap: 7px; overflow-x: auto; scrollbar-width: none;
-  padding: 1px 2px 3px;
-  /* the scroll edge fades out instead of chopping a chip in half */
-  -webkit-mask-image: linear-gradient(90deg, #000 0%, #000 92%, transparent 100%);
-  mask-image: linear-gradient(90deg, #000 0%, #000 92%, transparent 100%);
+  display: flex; flex-wrap: wrap; gap: 6px; padding: 1px 2px 3px;
+  max-height: 104px; overflow-y: auto; overflow-x: hidden; scrollbar-width: none;
 }
 .sg-theme-chip {
-  font-size: 0.84em; padding: 5px 12px 6px; border-radius: 12px; white-space: nowrap;
+  font-size: 0.8em; padding: 4px 10px 5px; border-radius: 11px; white-space: nowrap;
   background: var(--background-secondary); box-shadow: none;
   border: 1px solid color-mix(in srgb, var(--background-modifier-border) 45%, transparent);
 }

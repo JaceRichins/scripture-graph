@@ -9,7 +9,8 @@ import { CANONICAL_PREFIX, SGState } from "../state";
 import { AnnotationService, COLORS, NoteModal, NotesPopover, decorateVerse } from "./annotations";
 import type { StudyBar } from "../study/studyBar";
 import { voiceFor } from "../study/presence";
-import { ConnectionsModal, clearConnectionsCache, connectionsFor } from "./connections";
+import { trace } from "../study/trace";
+import { ConnectionsModal, clearConnectionsCache, connectionsFor, type VerseConnection } from "./connections";
 import { openLocalGraphFor } from "../study/studyBar";
 import { TranslationsModal, isBiblical } from "../study/translations";
 import { FootnotesModal, footnotesFor, type Footnote } from "../reader/footnotes";
@@ -73,18 +74,9 @@ export function registerReadingIntegration(
     // anchor; connected verses get a quiet chip that opens the evidence
     const chapterTitle = ctx.sourcePath.split("/").pop()!.replace(/\.md$/, "");
     const conns = connectionsFor(plugin.app, ctx.sourcePath, slug);
-    for (const { p, verseId } of paragraphs) {
-      const list = conns.byVerse.get(verseId);
-      if (!list?.length || p.querySelector(".sg-conn-chip")) continue;
-      const chip = p.createSpan({ cls: "sg-conn-chip", text: `⇄ ${list.length}` });
-      chip.setAttr("aria-label", `${list.length} connected pages`);
-      chip.onclick = (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        ConnectionsModal.forVerse(s, verseId, list,
-          () => void openLocalGraphFor(s, chapterTitle)).open();
-      };
-    }
+    trace("conn.render", { chapter: chapterTitle, verses: paragraphs.length, cited: conns.byVerse.size,
+      chapterPages: conns.chapter.length, indexed: Object.keys(plugin.app.metadataCache.resolvedLinks).length });
+    for (const { p, verseId } of paragraphs) connChip(s, p, verseId, conns.byVerse.get(verseId), chapterTitle);
     // PRESENCE: above verse 1, say who is speaking and from where —
     // being with the author is the point of the whole page
     const first = paragraphs.find(x => x.verseId === `${slug}-1`);
@@ -147,7 +139,13 @@ export function registerReadingIntegration(
 
   // connections recompute when the link index changes (files added/renamed,
   // or the index finishing its initial build right after app launch)
-  plugin.registerEvent(plugin.app.metadataCache.on("resolved", () => clearConnectionsCache()));
+  // the link index arrives late on a phone (a fresh sync re-indexes for a
+  // while): once it settles, chips are hung on any open chapter that missed them
+  plugin.registerEvent(plugin.app.metadataCache.on("resolved", () => {
+    clearConnectionsCache();
+    healConnChips(plugin, s);
+  }));
+  plugin.app.workspace.onLayoutReady(() => healConnChips(plugin, s));
 
   // ---- taps + long-press selections → StudyBar (gesture-safe wiring) -----
   bar.attach(plugin);
@@ -250,6 +248,39 @@ export function buildSelectionMenu(
 /** default visibility quick-save used by mobile toolbar commands */
 export function quickVisibility(s: SGState): Visibility {
   return s.settings.defaultVisibility === "local" ? "local" : "private";
+}
+
+/** the ⇄ chip on a cited verse — one per verse, whatever order things render in */
+function connChip(s: SGState, p: HTMLElement, verseId: string, list: VerseConnection[] | undefined, chapterTitle: string): void {
+  if (!list?.length || p.querySelector(".sg-conn-chip")) return;
+  const chip = p.createSpan({ cls: "sg-conn-chip", text: `⇄ ${list.length}` });
+  chip.setAttr("aria-label", `${list.length} connected pages`);
+  chip.onclick = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    ConnectionsModal.forVerse(s, verseId, list, () => void openLocalGraphFor(s, chapterTitle)).open();
+  };
+}
+
+/** chapters already on screen get their chips once the index can answer */
+function healConnChips(plugin: Plugin, s: SGState): void {
+  const f = plugin.app.workspace.getActiveFile();
+  if (!f || !f.path.startsWith(CANONICAL_PREFIX)) return;
+  const slug = (plugin.app.metadataCache.getFileCache(f)?.frontmatter as { slug?: string } | undefined)?.slug;
+  if (!slug) return;
+  const paras = document.querySelectorAll<HTMLElement>(".markdown-preview-view [data-verse-id]");
+  if (!paras.length) return;
+  const conns = connectionsFor(plugin.app, f.path, slug);
+  let added = 0;
+  for (const p of Array.from(paras)) {
+    if (p.querySelector(".sg-conn-chip")) continue;
+    const vid = p.getAttribute("data-verse-id")!;
+    const list = conns.byVerse.get(vid);
+    if (!list?.length) continue;
+    connChip(s, p, vid, list, f.basename);
+    added++;
+  }
+  if (added) trace("conn.heal", { chapter: f.basename, added });
 }
 
 /** Put each footnote's letter right before the word it hangs on, inside the
