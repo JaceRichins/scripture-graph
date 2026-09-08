@@ -23,8 +23,25 @@ export class Live {
     this.readPlugin();
     this.watchDir(pluginDir, false, () => { this.readPlugin(); this.wake(); });
     if (vaultRoot && existsSync(vaultRoot)) {
-      this.watchDir(vaultRoot, true, () => { this.vaultDirty = true; this.wake(); });
+      // pictures landing one a second (a family pull), the engine's own
+      // state, git: none of it is a page — phones are not woken for it
+      this.watchDir(vaultRoot, true, () => this.vaultChanged(),
+        (name) => !/(^|[\\/])(_media|\.git|\.scripture-engine|\.obsidian|\.trash)([\\/]|$)/.test(name));
     }
+  }
+
+  /** a vault change wakes phones at most every WAKE_MIN_MS: a burst of
+   * writes (a study tick, a shelf being built) is one sync, not fifty */
+  private static readonly WAKE_MIN_MS = 30_000;
+  private lastVaultWake = 0;
+  private wakeTimer: NodeJS.Timeout | null = null;
+  private vaultChanged(): void {
+    this.vaultDirty = true;
+    const due = this.lastVaultWake + Live.WAKE_MIN_MS - Date.now();
+    if (due <= 0) { this.lastVaultWake = Date.now(); this.wake(); return; }
+    if (this.wakeTimer) return;
+    this.wakeTimer = setTimeout(() => { this.wakeTimer = null; this.lastVaultWake = Date.now(); this.wake(); }, due);
+    this.timers.push(this.wakeTimer);
   }
 
   /** the versions right now (the vault's only recomputed after a change) */
@@ -66,10 +83,11 @@ export class Live {
   }
 
   /** debounced: a build or a vault regeneration is many events */
-  private watchDir(dir: string, recursive: boolean, onChange: () => void): void {
+  private watchDir(dir: string, recursive: boolean, onChange: () => void, accept?: (name: string) => boolean): void {
     let t: NodeJS.Timeout | null = null;
     try {
-      const w = watch(dir, { recursive, persistent: false }, () => {
+      const w = watch(dir, { recursive, persistent: false }, (_evt, filename) => {
+        if (accept && filename && !accept(String(filename))) return;
         if (t) clearTimeout(t);
         t = setTimeout(() => { t = null; onChange(); }, 1200);
         this.timers.push(t);
