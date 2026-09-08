@@ -38,6 +38,7 @@ _Not yet developed._
 
 ## ⏳ In the Timeline
 <!-- SG:BEGIN timeline -->
+- **AD 55–AD 56** — Paul's Corinthian correspondence and reconciliation · [[2 Corinthians 7]] · [[AD 1-100]] *(approximate)*
 - **AD 63–AD 67** — Paul's letter to Titus (Pastoral Epistles period) · [[Titus 1]] · [[AD 1-100]] *(traditional dating)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

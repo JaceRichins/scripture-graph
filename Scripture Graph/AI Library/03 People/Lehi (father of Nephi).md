@@ -106,6 +106,7 @@ Begin with [[Lehi's departure from Jerusalem]] and [[Lehi's dream of the tree of
 - **77 BC–76 BC** — Battle and close of the fifteenth year · [[Alma 28]] · [[100-1 BC]] *(approximate)*
 - **74 BC** — Moroni's first recorded campaign against Zerahemnah · [[Alma 43]] · [[100-1 BC]] *(approximate)*
 - **72 BC** — Failed Lamanite campaign against Ammonihah and Noah · [[Alma 49]] · [[100-1 BC]] *(Book of Mormon internal dating)*
+- **62 BC** — Pahoran reports the seizure of Zarahemla · [[Alma 61]] · [[100-1 BC]] *(approximate)*
 - **49 BC–39 BC** — Migration, church growth, and Helaman's death · [[Helaman 3]] · [[100-1 BC]] *(approximate)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*

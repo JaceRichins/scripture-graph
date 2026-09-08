@@ -4808,6 +4808,35 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2cor-7-ab5295c7",
+   "t": "Paul's Corinthian correspondence and reconciliation",
+   "y0": 55,
+   "y1": 56,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "records",
+    "turning"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Conventional scholarly dating of Paul's Macedonian ministry and the writing of 2 Corinthians following the 'severe letter' episode.",
+   "chapters": [
+    "2 Corinthians 7"
+   ],
+   "people": [
+    "Paul",
+    "Titus"
+   ],
+   "places": [
+    "Macedonia",
+    "Corinth"
+   ],
+   "things": [
+    "severe letter"
+   ]
+  },
+  {
    "id": "r-2kgs-1-003ddf5e",
    "t": "Mesha's revolt of Moab against Israel (Moabite Stone)",
    "y0": -850,
@@ -7895,6 +7924,38 @@ timeline module, not this file._
    ],
    "things": [
     "Moroni's epistle"
+   ]
+  },
+  {
+   "id": "r-alma-61-682093f4",
+   "t": "Pahoran reports the seizure of Zarahemla",
+   "y0": -62,
+   "y1": -62,
+   "lane": "nw",
+   "imp": 3,
+   "cat": [
+    "wars",
+    "rulers"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "The official chapter heading dates the rebellion, Pahoran's flight, and his appeal to Moroni to about 62 B.C.",
+   "chapters": [
+    "Alma 61"
+   ],
+   "people": [
+    "Pahoran",
+    "Moroni",
+    "Lehi",
+    "Teancum"
+   ],
+   "places": [
+    "Zarahemla",
+    "land of Gideon"
+   ],
+   "things": [
+    "judgment-seat",
+    "Pahoran's epistle"
    ]
   },
   {

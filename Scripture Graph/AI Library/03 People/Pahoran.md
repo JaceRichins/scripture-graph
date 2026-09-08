@@ -41,6 +41,7 @@ _Not yet developed._
 - **72 BC–67 BC** — Fortification, prosperity, Morianton crisis, and Pahoran's accession · [[Alma 50]] · [[100-1 BC]] *(approximate)*
 - **67 BC–66 BC** — King-men crisis and Amalickiah's final invasion · [[Alma 51]] · [[100-1 BC]] *(approximate)*
 - **62 BC** — Moroni sends an ultimatum to Pahoran · [[Alma 60]] · [[100-1 BC]] *(approximate)*
+- **62 BC** — Pahoran reports the seizure of Zarahemla · [[Alma 61]] · [[100-1 BC]] *(approximate)*
 - **62 BC–57 BC** — Recapture of Nephihah and death of Ammoron and Teancum · [[Alma 62]] · [[100-1 BC]] *(Book of Mormon internal dating)*
 - **62 BC–61 BC** — End of the long Nephite-Lamanite war · [[Alma 62]] · [[100-1 BC]] *(approximate)*
 - **52 BC–51 BC** — Succession crisis and Lamanite invasion of Zarahemla · [[Helaman 1]] · [[100-1 BC]] *(Book of Mormon internal dating)*
