@@ -7,24 +7,37 @@ created_by: librarian:job-wofm-1-20260906-203216-9875812e
 created_at: '2026-09-06T20:43:25Z'
 evidence_class: internal statement of editorial motivation
 claim_confidence: 0.9
-evidence_strength: 0.75
 study_relevance: 0.85
 source_quality: 0.95
 consensus_status: accepted observation / disputed interpretation
+note_kind: context
+calibrated_at: '2026-09-08T17:34:27Z'
+calibration_version: 2
 ---
 
 # Internal Statement Of Editorial Motivation in Words of Mormon 1
 
 ## Summary
 <!-- SG:BEGIN summary -->
-The text supports the limited claim that Mormon believed a divine purpose guided his inclusion of the plates. Because the chapter never specifies the later circumstance that would constitute that purpose, it does not by itself identify a particular historical fulfillment.
-
-**Does not establish:** It does not independently establish the lost-manuscript explanation, supernatural foreknowledge, ancient authorship, or the historical existence of the described plates.
-
-**Alternative explanations:**
-- The language may function as a general theological explanation for an editorial choice.
-- A reader may connect the wise purpose with later publication history, but that identification depends on information outside this chapter.
-- A literary author or later redactor could also construct an editorial explanation of this kind.
-
-**Scripture:** [[Words of Mormon 1#^wofm-1-6|Words of Mormon 1:6]], [[Words of Mormon 1#^wofm-1-7|Words of Mormon 1:7]]
+[[Words of Mormon 1#^wofm-1-6|Words of Mormon 1:6]] gives the editor's immediate reason for including the plates: their prophecies and revelations are choice. [[Words of Mormon 1#^wofm-1-7|Verse 7]] adds perceived spiritual prompting while carefully distinguishing it from complete knowledge of the future purpose. Together the verses portray deliberate editorial selection guided by providential trust and acknowledged uncertainty.
 <!-- SG:END summary -->
+
+## Observation
+<!-- SG:BEGIN observation -->
+Words of Mormon 1:6-7 says the narrator will include the plates because he values their prophecies and revelations, senses a wise purpose through the Spirit, does not know all things, and trusts God's knowledge of what is to come.
+<!-- SG:END observation -->
+
+## Interpretation
+<!-- SG:BEGIN interpretation -->
+The final text portrays its editor as making a deliberate selection under perceived divine prompting while expressly distinguishing that prompting from complete knowledge of its future purpose.
+<!-- SG:END interpretation -->
+
+## Historical Significance
+<!-- SG:BEGIN historical-significance -->
+The passage supplies the book's own editorial explanation for preserving and incorporating the small-plates material. Its combination of selection, providence, and admitted ignorance constructs a source-conscious but epistemically limited editorial voice.
+<!-- SG:END historical-significance -->
+
+## How This Fits
+<!-- SG:BEGIN how-it-fits -->
+As a literary bridge, Words of Mormon explains why a valued subsidiary record is joined to the editor's larger work. On the reconstruction offered by the passage, the editor knows why the material is choice and believes he is being prompted to preserve it, while leaving the eventual circumstance outside his knowledge; that bounded motivation is the point of the transition.
+<!-- SG:END how-it-fits -->

@@ -355,6 +355,13 @@ Alma 25:9-12 names Abinadi and states his words 'were verified,' closely echoing
 
 Notes: [[Internal Literary Coherence in Alma 25]]
 
+### bom-mosiah12-noah-burdens-fulfillment
+**Fulfillment correspondence between Abinadi's warnings (Mosiah 12) and their narrated fulfillment in Mosiah 19/21** — *strong* (supports, discrimination 0.8) for: The final text of Mosiah deliberately coordinates Abinadi's warnings in Mosiah 12 (Noah's fiery death, the people's burdens borne like a dumb ass) with their later narrated fulfillment in Mosiah 19 and 21, including Mosiah 21:4's explicit internal fulfillment language.
+
+The repeated burden-and-dumb-ass wording, the accompanying fire/furnace correspondence, and Mosiah 21:4's explicit fulfillment notice strongly support deliberate final-form coordination between Abinadi's warning and its narrated outcome, on par with the corpus's other tightly-cited fulfillment pairs. Because prophecy and fulfillment reach the reader through one continuous narrative source, the correspondence gives only none-band support for genuine pre-event prediction, the events' historicity, or inspiration.
+
+Notes: [[Internal Narrative Fulfillment in Mosiah 12]]
+
 ### bom-ether15-prophecy-fulfillment-correspondence
 **Fulfillment correspondence between Ether's warning (Ether 13) and Coriantumr's fall (Ether 15)** — *strong* (supports, discrimination 0.8) for: Ether 15's narration of the armies' mutual destruction and Coriantumr's survival is presented by the final text as deliberate fulfillment of Ether's Ether 13 warning
 
@@ -452,6 +459,13 @@ Notes: [[Internal Collective-Witness Claim in 3 Nephi 17]]
 Mosiah 3:5-10 unquestionably presents a detailed, internally coherent pre-birth prophecy of Jesus -- naming Jesus and Mary and describing the crucifixion and third-day resurrection -- but without independent pre-Christian dating, that internal placement gives only none-band support for genuine pre-Christian foreknowledge, since ancient revelation, later Christianizing redaction, translation-level harmonization, and nineteenth-century composition all predict the same detailed, internally-placed prophecy about equally well. Aligns with sibling assessments bom-2nephi6-predictive-prophecy (0.12) and bom-alma39-preadvent-christology (0.12).
 
 Notes: [[Internal Literary Evidence in Mosiah 3]]
+
+### bom-moroni8-infant-baptism-historicity
+**Historical weight of the infant-baptism dispute reported in Moroni 8** — *none* (supports, discrimination 0.12) for: Moroni 8 preserves an actual pre-Columbian dispute among the people it describes concerning the baptism of little children, rather than reflecting the independently documented American infant-baptism controversy contemporaneous with the Book of Mormon's production.
+
+Moroni 8's internal report of a disputation over baptizing little children is not chronologically impossible for a purported late-fourth-century Christian community, since infant baptism and opposition to it are attested in late-antique Christianity. But because an independently documented, contemporaneous American controversy over infant baptism, loose translation of an unrelated ancient dispute, and ordinary literary polemic construction all predict the same passage about as well, the internal assertion alone gives only none-band support for an actual pre-Columbian dispute or practice.
+
+Notes: [[Internal Textual Claim About Ancient Practice in Moroni 8]]
 
 ### bom-3nephi7-collective-witness-claim
 **Historical weight of the internal witness/testimony chain in 3 Nephi 7** — *none* (supports, discrimination 0.14) for: The accumulation of witness language in 3 Nephi 7 materially supports the historical occurrence and supernatural cause of the reported miracles, conversions, and healings.
