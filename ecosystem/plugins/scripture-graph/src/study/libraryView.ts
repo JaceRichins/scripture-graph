@@ -827,7 +827,8 @@ export class SGLibraryView extends ItemView {
       c.createDiv({ cls: "sg-nav-sect sg-lib-sect", text: "Reference" });
       const ref = c.createDiv({ cls: "sg-nav-covers" });
       for (const s of shelves) {
-        this.cover(ref, { icon: s.icon, label: s.name,
+        // a shelf wears its own picture (covers/<its name>.jpg) before its icon's
+        this.cover(ref, { icon: s.icon, label: s.name, photo: coverKey(s.name), fallbackPhoto: s.icon,
           onTap: () => this.go(s.name === "Family" ? { kind: "family" } : { kind: "folder", path: s.path, title: s.name }) });
       }
     }

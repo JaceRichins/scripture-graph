@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.39 build 353b9d26b 2026-09-08T21:30:09Z */
+/* scripture-graph v0.72.40 build 838480224 2026-09-08T22:16:09Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.39", sha: "353b9d26b", at: "2026-09-08T21:30:09Z" };
+    define_SG_BUILD_default = { version: "0.72.40", sha: "838480224", at: "2026-09-08T22:16:09Z" };
   }
 });
 
@@ -14756,6 +14756,8 @@ var SGLibraryView = class extends import_obsidian7.ItemView {
         this.cover(ref, {
           icon: s.icon,
           label: s.name,
+          photo: coverKey(s.name),
+          fallbackPhoto: s.icon,
           onTap: () => this.go(s.name === "Family" ? { kind: "family" } : { kind: "folder", path: s.path, title: s.name })
         });
       }
