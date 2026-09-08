@@ -369,6 +369,20 @@ Abinadi's dying words include a specific prediction that his persecutors, includ
 
 Notes: [[Intratextual Prophetic Correspondence in Mosiah 19]]
 
+### bom-mosiah23-galatians5-dependence
+**Galatians 5:1 mediation in Mosiah 23:13** — *strong* (supports, discrimination 0.8) for: Mosiah 23:13's final English wording is textually dependent on, or mediated through, Galatians 5:1 in its King James form.
+
+The ordered wording "stand fast ... liberty wherewith ... made free" strongly supports Galatians 5:1 or KJV-shaped mediation in Mosiah 23:13's final English form. It does not distinguish loose translation, harmonization, remembered biblical diction, or nineteenth-century composition and is not independent of the broader KJV-mediation pattern.
+
+Notes: [[English Textual Dependence in Mosiah 23]]
+
+### bom-moroni6-hebrews12-intertext
+**Hebrews 12:2 mediation in Moroni 6:4** — *strong* (supports, discrimination 0.8) for: Moroni 6:4's final English wording reflects textual or translation-level mediation through the KJV wording of Hebrews 12:2 rather than independent coincidence.
+
+The close, distinctive expression "author and finisher of their faith" strongly supports Hebrews 12:2 or KJV-shaped mediation in Moroni 6:4's final English form. The correspondence does not distinguish loose translation, harmonization, indirect devotional transmission, or nineteenth-century reuse and is not independent of the broader KJV-mediation pattern.
+
+Notes: [[Biblical English Intertextuality in Moroni 6]]
+
 ### bom-moroni10-hebrews13-intertext
 **Hebrews 13:8 intertextuality in Moroni 10:19** — *moderate* (supports, discrimination 0.58) for: Moroni 10:19's ordered description of Christ as the same yesterday, today, and forever reflects textual or traditional mediation through the formula represented in Hebrews 13:8.
 
@@ -641,6 +655,13 @@ Notes: [[Extended Textual Parallel in 3 Nephi 13]] · [[Textual And Literary Dep
 The distinctive multi-point Melchizedek cluster in Alma 13:14-18 (priest of the most high God, king of Salem, tithes, and especially the close wording match to Hebrews 7:3's 'without beginning of days... nor end of life') strongly supports a direct literary or translation-level relationship between Alma 13 and the Genesis 14/Hebrews 7 tradition. It does not distinguish ancient shared tradition rendered through KJV-shaped translation from nineteenth-century composition, and gives only weak, non-discriminating support for any specific historical-origin model or for the historicity of Alma's additional narrative about Melchizedek's people.
 
 Notes: [[Literary Intertextuality in Alma 13]]
+
+### bom-moroni6-dc20-baptismal-reuse
+**Moroni 6 and Doctrine and Covenants 20 baptismal-language relationship** — *strong* (supports, discrimination 0.84) for: Moroni 6:1–3 and Doctrine and Covenants 20:37 share a proximate English textual relationship, deliberate reuse, or closely shared linguistic source.
+
+The dense, ordered baptismal-requirements correspondence strongly supports deliberate reuse or a proximate shared English source. It does not establish dependence direction, whether an ancient formula underlies Moroni, whether the wording was revealed, or whether common production reflects composition rather than translation.
+
+Notes: [[English Verbal And Sequential Correspondence in Moroni 6]]
 
 ### pgp-moses3-genesis2-literary-dependence
 **Moses 3 Dependence on the Genesis 2 Textual Tradition** — *strong* (supports, discrimination 0.84) for: The final English text of Moses 3 has a direct literary or transmission relationship with the Genesis 2 textual tradition.
