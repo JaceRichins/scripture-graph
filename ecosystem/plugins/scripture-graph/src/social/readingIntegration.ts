@@ -55,10 +55,10 @@ export function registerReadingIntegration(
         const notes = fn[n];
         if (!notes?.length || p.querySelector(".sg-fn-chip, .sg-fn-mark")) continue;
         // Gospel Library style: the letter rides the word it belongs to
-        const placed = placeMarkers(p, notes, (note) => new FootnotesModal(s, chapterTitle0, n, notes, ctx.sourcePath, note).open());
-        const rest = notes.filter(x => !placed.has(x));
-        if (!rest.length) continue;
-        const letters = rest.map(x => x.m.replace(/^\d+/, "")).filter(Boolean).slice(0, 4).join("");
+        placeMarkers(p, notes, (note) => new FootnotesModal(s, chapterTitle0, n, notes, ctx.sourcePath, note).open());
+        // and the chip at the verse's end stays: one tap opens every note on
+        // the verse, letters or not — the door people already know
+        const letters = notes.map(x => x.m.replace(/^\d+/, "")).filter(Boolean).slice(0, 4).join("");
         const chip = p.createSpan({ cls: "sg-fn-chip", text: letters || "ᵃ" });
         chip.setAttr("aria-label", `${notes.length} footnote${notes.length === 1 ? "" : "s"}`);
         chip.onclick = (e) => {

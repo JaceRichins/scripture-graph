@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.29 build 2d396a273 2026-09-08T12:07:01Z */
+/* scripture-graph v0.72.30 build cd3d90a0c 2026-09-08T12:13:22Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.29", sha: "2d396a273", at: "2026-09-08T12:07:01Z" };
+    define_SG_BUILD_default = { version: "0.72.30", sha: "cd3d90a0c", at: "2026-09-08T12:13:22Z" };
   }
 });
 
@@ -14717,10 +14717,8 @@ function registerReadingIntegration(plugin, s, svc, bar, openAsk) {
         const n = verseId.slice(slug.length + 1);
         const notes = fn[n];
         if (!notes?.length || p.querySelector(".sg-fn-chip, .sg-fn-mark")) continue;
-        const placed = placeMarkers(p, notes, (note) => new FootnotesModal(s, chapterTitle0, n, notes, ctx.sourcePath, note).open());
-        const rest = notes.filter((x3) => !placed.has(x3));
-        if (!rest.length) continue;
-        const letters = rest.map((x3) => x3.m.replace(/^\d+/, "")).filter(Boolean).slice(0, 4).join("");
+        placeMarkers(p, notes, (note) => new FootnotesModal(s, chapterTitle0, n, notes, ctx.sourcePath, note).open());
+        const letters = notes.map((x3) => x3.m.replace(/^\d+/, "")).filter(Boolean).slice(0, 4).join("");
         const chip = p.createSpan({ cls: "sg-fn-chip", text: letters || "\u1D43" });
         chip.setAttr("aria-label", `${notes.length} footnote${notes.length === 1 ? "" : "s"}`);
         chip.onclick = (e) => {
