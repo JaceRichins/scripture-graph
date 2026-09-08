@@ -127,3 +127,21 @@ def choir_performance(entries: list[dict], title: str) -> dict | None:
         if best is None or rank > best[0]:
             best = (rank, e)
     return best[1] if best else None
+
+
+def church_performance(entries: list[dict], title: str) -> dict | None:
+    """any Church-hosted vocal recording of a title (devotionals, the new
+    hymnbook, Friend/youth music), newest first; the Choir is handled first
+    by choir_performance"""
+    key = norm(re.sub(r"\s*\(.*?\)\s*$", "", title))
+    best = None
+    for e in entries:
+        if "vocal" not in e["audio"]:
+            continue
+        if norm(re.sub(r"\s*\(.*?\)\s*$", "", e["t"])) != key:
+            continue
+        year = re.search(r"(\d{4})", e["book"] or "")
+        rank = int(year.group(1)) if year else 0
+        if best is None or rank > best[0]:
+            best = (rank, e)
+    return best[1] if best else None

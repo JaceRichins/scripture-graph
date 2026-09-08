@@ -177,7 +177,7 @@ a search in the music app. `cover` names a file in `covers/`.
           "choir_when": "April 2008 General Conference"
         },
         {
-          "t": "His Voice as the Sound of the Dulcimer",
+          "t": "His Voice as the Sound",
           "a": "American folk hymn, arr. Mack Wilberg",
           "url": "",
           "yt": "YUgSf9bVGig"

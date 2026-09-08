@@ -134,7 +134,7 @@ a search in the music app. `cover` names a file in `covers/`.
           "a": "Hymn"
         },
         {
-          "t": "His Voice as the Sound of the Dulcimer",
+          "t": "His Voice as the Sound",
           "a": "American folk hymn, arr. Mack Wilberg"
         },
         {

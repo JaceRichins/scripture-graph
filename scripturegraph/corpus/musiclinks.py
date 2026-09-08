@@ -227,7 +227,7 @@ def resolve(ctx: Ctx, budget: int = 90) -> dict:
     key = os.environ.get("YOUTUBE_API_KEY") or ctx.c("music.youtube_api_key") or ""
     yt_used = 0
     changed = False
-    from scripturegraph.corpus.churchmusic import choir_performance, index as church_index
+    from scripturegraph.corpus.churchmusic import choir_performance, church_performance, index as church_index
     library = church_index(ctx)
     stats["choir"] = 0
     for pl in data.get("playlists") or []:
@@ -241,6 +241,14 @@ def resolve(ctx: Ctx, budget: int = 90) -> dict:
                 tr["choir_when"] = perf.get("when", "")
                 stats["choir"] += 1
                 changed = True
+            if not perf and not in_book and library:
+                other = church_performance(library, title)
+                if other and tr.get("church") != other["audio"]["vocal"]:
+                    tr["church"] = other["audio"]["vocal"]
+                    tr["church_when"] = other.get("when", "")
+                    tr["church_by"] = ", ".join(a for a in other.get("artists", []) if a) or "Church recording"
+                    stats["church"] = stats.get("church", 0) + 1
+                    changed = True
             if not ctx.c("music.youtube_lookups", False):
                 continue                                   # headless: video ids are not collected
             if "url" not in tr and not in_book and _CLASSICAL.search(artist):
