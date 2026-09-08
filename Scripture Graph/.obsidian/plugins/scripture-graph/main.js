@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.16 build 6722db7f 2026-09-08T00:15:24Z */
+/* scripture-graph v0.72.17 build fc6f5f50 2026-09-08T00:49:44Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.16", sha: "6722db7f", at: "2026-09-08T00:15:24Z" };
+    define_SG_BUILD_default = { version: "0.72.17", sha: "fc6f5f50", at: "2026-09-08T00:49:44Z" };
   }
 });
 
@@ -13117,14 +13117,15 @@ var SGLibraryView = class extends import_obsidian4.ItemView {
       }
       return { ...base, searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
     }
-    const url = tr.choir || tr.url || void 0;
-    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : "Spotify only";
+    const url = tr.choir || tr.church || tr.url || void 0;
+    const churchLabel = tr.church ? `${tr.church_by || "Church recording"}${tr.church_when ? ` (${tr.church_when})` : ""}` : "";
+    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : "Spotify only";
     return {
       id: `track:${key}:${i}`,
       title: tr.t,
       sub: `${tr.a} \xB7 ${how}`,
       url,
-      credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.credit,
+      credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.church ? churchLabel : tr.credit,
       searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`,
       art,
       open: open2

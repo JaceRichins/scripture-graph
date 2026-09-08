@@ -77,7 +77,8 @@ interface Hymn { uri: string; title: string; n: number | null; url: string; book
 
 /** the Music shelf's playlists (see the note's own header) */
 const MUSIC_PATH = "AI Library/00 System/Music.md";
-interface Track { t: string; a: string; yt?: string; url?: string; credit?: string; choir?: string; choir_when?: string }
+interface Track { t: string; a: string; yt?: string; url?: string; credit?: string; choir?: string; choir_when?: string;
+  church?: string; church_when?: string; church_by?: string }
 interface Playlist { key: string; title: string; blurb?: string; cover?: string; tracks: Track[] }
 
 /** loose title match: "Abide with Me!" ~ "abide with me" */
@@ -427,10 +428,11 @@ export class SGLibraryView extends ItemView {
       }
       return { ...base, searchQuery: `${tr.t} The Tabernacle Choir at Temple Square` };
     }
-    const url = tr.choir || tr.url || undefined;
-    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : "Spotify only";
+    const url = tr.choir || tr.church || tr.url || undefined;
+    const churchLabel = tr.church ? `${tr.church_by || "Church recording"}${tr.church_when ? ` (${tr.church_when})` : ""}` : "";
+    const how = tr.choir ? `Tabernacle Choir${choirWhen}` : tr.church ? churchLabel : url ? "free recording" : this.host.music.spotify.connected ? "Spotify" : "Spotify only";
     return { id: `track:${key}:${i}`, title: tr.t, sub: `${tr.a} · ${how}`, url,
-      credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.credit,
+      credit: tr.choir ? `The Tabernacle Choir at Temple Square${choirWhen}` : tr.church ? churchLabel : tr.credit,
       searchQuery: `${tr.t} ${inBook ? "The Tabernacle Choir at Temple Square" : tr.a}`, art, open };
   }
 
