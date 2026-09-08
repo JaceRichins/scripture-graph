@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.52 build 0688f1492 2026-09-08T23:27:25Z */
+/* scripture-graph v0.72.53 build f2e29b717 2026-09-08T23:38:28Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.52", sha: "0688f1492", at: "2026-09-08T23:27:25Z" };
+    define_SG_BUILD_default = { version: "0.72.53", sha: "f2e29b717", at: "2026-09-08T23:38:28Z" };
   }
 });
 
@@ -14293,6 +14293,7 @@ var FamilyTree = class {
       const b = n.b ? Number(n.b) : null, d = n.d ? Number(n.d) : null;
       if (b === null) {
         age?.setText("");
+        if (n.living) el.addClass(y3 < 1920 ? "sg-ft-unborn" : "sg-ft-alive");
         continue;
       }
       const until = d ?? (n.living ? (/* @__PURE__ */ new Date()).getFullYear() : b + 90);

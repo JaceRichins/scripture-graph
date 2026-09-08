@@ -439,7 +439,12 @@ export class FamilyTree {
       el.removeClass("sg-ft-alive", "sg-ft-unborn", "sg-ft-passed");
       if (y === null || !n) { age?.setText(""); continue; }
       const b = n.b ? Number(n.b) : null, d = n.d ? Number(n.d) : null;
-      if (b === null) { age?.setText(""); continue; }
+      if (b === null) {
+        // the living carry no dates: not yet born before living memory, alive after
+        age?.setText("");
+        if (n.living) el.addClass(y < 1920 ? "sg-ft-unborn" : "sg-ft-alive");
+        continue;
+      }
       const until = d ?? (n.living ? new Date().getFullYear() : b + 90);
       if (y < b) { el.addClass("sg-ft-unborn"); age?.setText(""); }
       else if (y > until) { el.addClass("sg-ft-passed"); age?.setText(""); }
