@@ -4,6 +4,7 @@
  * clients converge. Nothing relies on UI hiding (§41). */
 import { setupHtml } from "./setupPage";
 import { ytHtml } from "./ytPage";
+import { ytAudio } from "./ytAudio";
 import { Live } from "./live";
 import Fastify, { type FastifyInstance, type FastifyReply, type FastifyRequest } from "fastify";
 import { randomUUID } from "node:crypto";
@@ -440,6 +441,11 @@ export function buildApp({ db, trustProxy }: BuildOpts): FastifyInstance {
     return { ...cur, urls: publicUrls() };
   });
 
+  // the sound of a YouTube video, streamed plain so a locked phone keeps playing it
+  app.get("/yt/audio", async (req, reply) => {
+    if (!limiter.allow(`ip:${req.ip}:ytaudio`, 600, 60_000)) return reply.code(429).send({ error: "rate limited" });
+    return ytAudio(req, reply);
+  });
   // the YouTube player page: a real website for YouTube's embed rules; the app frames it
   app.get("/yt", async (req, reply) => {
     if (!limiter.allow(`ip:${req.ip}:yt`, 240, 60_000)) return reply.code(429).send({ error: "rate limited" });

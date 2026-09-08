@@ -28,6 +28,8 @@ export interface PlayItem {
   yt?: string;
   /** playlists: a performance elsewhere beats the plain hymnbook recording */
   preferVideo?: boolean;
+  /** the picture matters (a talk, an episode): the visible player, not the sound alone */
+  video?: boolean;
   alt?: { label: string; url: string }[];
   searchQuery: string;
   wordsUrl?: string;
@@ -79,7 +81,11 @@ export class MusicPlayer {
   engineFor(it: PlayItem): Mode | null {
     // playlists and talks ask for YouTube first (the better sound); the
     // hymnbook shelf plays the Church's own recordings headless
-    if (it.preferVideo && it.yt && this.opts.youtubeEnabled()) return "youtube";
+    if (it.preferVideo && it.yt && this.opts.youtubeEnabled()) {
+      // music: YouTube's sound as a plain stream through the family server —
+      // headless, keeps playing with the screen off; the picture only when asked
+      return it.video || !this.opts.serverUrl() ? "youtube" : "audio";
+    }
     if (it.url) return "audio";
     if (this.spotify.connected) return "spotify";
     if (it.yt && this.opts.youtubeEnabled()) return "youtube";
@@ -100,8 +106,16 @@ export class MusicPlayer {
   }
 
   /** a single video (a talk, a podcast episode, a review) */
-  playVideo(id: string, title: string, sub: string, open?: () => void): void {
-    this.play([{ id: `yt:${id}`, title, sub, yt: id, preferVideo: true, searchQuery: title, open }], 0);
+  playVideo(id: string, title: string, sub: string, open?: () => void, video = true): void {
+    this.play([{ id: `yt:${id}`, title, sub, yt: id, preferVideo: true, video, searchQuery: title, open }], 0);
+  }
+
+  /** where an item's plain audio comes from: its own stream, or YouTube's sound via the server */
+  private audioSrc(it: PlayItem): { src: string; fromYouTube: boolean } | null {
+    if (it.preferVideo && it.yt && !it.video && this.opts.serverUrl() && this.opts.youtubeEnabled()) {
+      return { src: `${this.opts.serverUrl().replace(/\/$/, "")}/yt/audio?v=${encodeURIComponent(it.yt)}`, fromYouTube: true };
+    }
+    return it.url ? { src: it.url, fromYouTube: false } : null;
   }
 
   /** the big Play button: everything in the list that plays here, in order */
@@ -126,6 +140,7 @@ export class MusicPlayer {
     if (this.mode === "audio" && this.audio) { if (resume) void this.audio.play(); else this.audio.pause(); }
     else if (this.mode === "youtube") this.frameCmd(resume ? "play" : "pause");
     else if (this.mode === "spotify") { if (resume) void this.spotify.resume(); else void this.spotify.pause(); }
+    try { (navigator as Navigator & { mediaSession?: MediaSession }).mediaSession!.playbackState = resume ? "playing" : "paused"; } catch { /* none */ }
     this.emit();
   }
 
@@ -168,18 +183,45 @@ export class MusicPlayer {
     this.teardownEngines(engine !== "youtube");
     this.mode = engine; this.paused = false;
     document.body.addClass("sg-player-on");
-    if (engine === "audio") this.startAudio(it.url!);
+    if (engine === "audio") {
+      const a = this.audioSrc(it);
+      if (!a) return;
+      // the server can't give the sound (offline, or YouTube changed): the picture instead
+      this.startAudio(a.src, a.fromYouTube && it.yt ? () => { this.mode = "youtube"; this.startYouTube(it.yt!); this.emit(); } : undefined);
+    }
     else if (engine === "youtube") this.startYouTube(it.yt!);
     else await this.startSpotify(it);
+    this.mediaSession(it);
     this.emit();
   }
 
+  /** the lock screen and earbuds: what's playing, and play/pause/next/prev */
+  private mediaSession(it: PlayItem): void {
+    const ms = (navigator as Navigator & { mediaSession?: MediaSession }).mediaSession;
+    if (!ms) return;
+    try {
+      const art = it.art ?? (it.yt ? `https://i.ytimg.com/vi/${it.yt}/mqdefault.jpg` : undefined);
+      ms.metadata = new MediaMetadata({ title: it.title, artist: it.sub, album: "Scripture Graph",
+        artwork: art ? [{ src: art, sizes: "320x180", type: "image/jpeg" }] : [] });
+      ms.setActionHandler("play", () => { if (this.paused) this.toggle(); });
+      ms.setActionHandler("pause", () => { if (!this.paused) this.toggle(); });
+      ms.setActionHandler("previoustrack", () => this.prev());
+      ms.setActionHandler("nexttrack", () => this.next());
+      ms.playbackState = "playing";
+    } catch { /* no media session here */ }
+  }
+
   // ------------------------------------------------------------- audio
-  private startAudio(url: string): void {
+  private startAudio(url: string, fallback?: () => void): void {
     const a = new Audio(url);
     this.audio = a;
     a.onended = () => { if (this.audio === a) this.step(1); };
-    a.onerror = () => { if (this.audio === a) { new Notice("That recording would not play."); this.step(1); } };
+    a.onerror = () => {
+      if (this.audio !== a) return;
+      this.audio = null;
+      if (fallback) { fallback(); return; }
+      new Notice("That recording would not play."); this.step(1);
+    };
     a.ontimeupdate = () => { if (this.audio === a && this.progress && a.duration) this.progress.style.width = `${(a.currentTime / a.duration) * 100}%`; };
     void a.play().catch(() => new Notice("Tap again to start playback."));
   }

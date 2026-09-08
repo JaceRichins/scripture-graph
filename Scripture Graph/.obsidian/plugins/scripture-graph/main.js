@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.33 build 768964aae 2026-09-08T12:48:52Z */
+/* scripture-graph v0.72.34 build efe38cb03 2026-09-08T12:56:42Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.33", sha: "768964aae", at: "2026-09-08T12:48:52Z" };
+    define_SG_BUILD_default = { version: "0.72.34", sha: "efe38cb03", at: "2026-09-08T12:56:42Z" };
   }
 });
 
@@ -17512,7 +17512,9 @@ var MusicPlayer = class {
   }
   /** how this item would play, if tapped */
   engineFor(it) {
-    if (it.preferVideo && it.yt && this.opts.youtubeEnabled()) return "youtube";
+    if (it.preferVideo && it.yt && this.opts.youtubeEnabled()) {
+      return it.video || !this.opts.serverUrl() ? "youtube" : "audio";
+    }
     if (it.url) return "audio";
     if (this.spotify.connected) return "spotify";
     if (it.yt && this.opts.youtubeEnabled()) return "youtube";
@@ -17539,8 +17541,15 @@ var MusicPlayer = class {
     void this.start(it);
   }
   /** a single video (a talk, a podcast episode, a review) */
-  playVideo(id, title, sub, open2) {
-    this.play([{ id: `yt:${id}`, title, sub, yt: id, preferVideo: true, searchQuery: title, open: open2 }], 0);
+  playVideo(id, title, sub, open2, video = true) {
+    this.play([{ id: `yt:${id}`, title, sub, yt: id, preferVideo: true, video, searchQuery: title, open: open2 }], 0);
+  }
+  /** where an item's plain audio comes from: its own stream, or YouTube's sound via the server */
+  audioSrc(it) {
+    if (it.preferVideo && it.yt && !it.video && this.opts.serverUrl() && this.opts.youtubeEnabled()) {
+      return { src: `${this.opts.serverUrl().replace(/\/$/, "")}/yt/audio?v=${encodeURIComponent(it.yt)}`, fromYouTube: true };
+    }
+    return it.url ? { src: it.url, fromYouTube: false } : null;
   }
   /** the big Play button: everything in the list that plays here, in order */
   playAll(queue, shuffle = false) {
@@ -17573,6 +17582,10 @@ var MusicPlayer = class {
     else if (this.mode === "spotify") {
       if (resume) void this.spotify.resume();
       else void this.spotify.pause();
+    }
+    try {
+      navigator.mediaSession.playbackState = resume ? "playing" : "paused";
+    } catch {
     }
     this.emit();
   }
@@ -17633,23 +17646,59 @@ var MusicPlayer = class {
     this.mode = engine;
     this.paused = false;
     document.body.addClass("sg-player-on");
-    if (engine === "audio") this.startAudio(it.url);
-    else if (engine === "youtube") this.startYouTube(it.yt);
+    if (engine === "audio") {
+      const a2 = this.audioSrc(it);
+      if (!a2) return;
+      this.startAudio(a2.src, a2.fromYouTube && it.yt ? () => {
+        this.mode = "youtube";
+        this.startYouTube(it.yt);
+        this.emit();
+      } : void 0);
+    } else if (engine === "youtube") this.startYouTube(it.yt);
     else await this.startSpotify(it);
+    this.mediaSession(it);
     this.emit();
   }
+  /** the lock screen and earbuds: what's playing, and play/pause/next/prev */
+  mediaSession(it) {
+    const ms = navigator.mediaSession;
+    if (!ms) return;
+    try {
+      const art = it.art ?? (it.yt ? `https://i.ytimg.com/vi/${it.yt}/mqdefault.jpg` : void 0);
+      ms.metadata = new MediaMetadata({
+        title: it.title,
+        artist: it.sub,
+        album: "Scripture Graph",
+        artwork: art ? [{ src: art, sizes: "320x180", type: "image/jpeg" }] : []
+      });
+      ms.setActionHandler("play", () => {
+        if (this.paused) this.toggle();
+      });
+      ms.setActionHandler("pause", () => {
+        if (!this.paused) this.toggle();
+      });
+      ms.setActionHandler("previoustrack", () => this.prev());
+      ms.setActionHandler("nexttrack", () => this.next());
+      ms.playbackState = "playing";
+    } catch {
+    }
+  }
   // ------------------------------------------------------------- audio
-  startAudio(url) {
+  startAudio(url, fallback) {
     const a2 = new Audio(url);
     this.audio = a2;
     a2.onended = () => {
       if (this.audio === a2) this.step(1);
     };
     a2.onerror = () => {
-      if (this.audio === a2) {
-        new import_obsidian30.Notice("That recording would not play.");
-        this.step(1);
+      if (this.audio !== a2) return;
+      this.audio = null;
+      if (fallback) {
+        fallback();
+        return;
       }
+      new import_obsidian30.Notice("That recording would not play.");
+      this.step(1);
     };
     a2.ontimeupdate = () => {
       if (this.audio === a2 && this.progress && a2.duration) this.progress.style.width = `${a2.currentTime / a2.duration * 100}%`;
@@ -19876,7 +19925,7 @@ var SGPlugin = class extends import_obsidian35.Plugin {
           this.music.toggle();
           return true;
         }
-        this.music.playVideo(id, pageTitle(f), docKindFor(f.path)?.eyebrow ?? "Video");
+        this.music.playVideo(id, pageTitle(f), docKindFor(f.path)?.eyebrow ?? "Video", void 0, false);
         return true;
       },
       videoState: () => this.music.videoState,

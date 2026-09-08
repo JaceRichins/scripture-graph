@@ -783,7 +783,8 @@ export default class SGPlugin extends Plugin {
         const id = (await youtubeIdOf(this.app, f)) ?? (await findTalkVideo(this.app, f));
         if (!id) return false;
         if (this.music.isCurrent(`yt:${id}`)) { this.music.toggle(); return true; }
-        this.music.playVideo(id, pageTitle(f), docKindFor(f.path)?.eyebrow ?? "Video");
+        // 🎧 is listening: the talk's sound, which keeps going with the screen off
+        this.music.playVideo(id, pageTitle(f), docKindFor(f.path)?.eyebrow ?? "Video", undefined, false);
         return true;
       },
       videoState: () => this.music.videoState,
