@@ -255,7 +255,58 @@ export class MusicPlayer {
     this.video = wrap.createDiv({ cls: "sg-player-video" });
     this.video.hide();
     this.bar = wrap.createDiv({ cls: "sg-player" });
+    this.makeDraggable(this.video);
     this.paint();
+  }
+
+  /** the video window goes wherever the finger puts it (a drag handle rides
+   * its top edge so YouTube's own controls keep their taps), and remembers */
+  private makeDraggable(win: HTMLElement): void {
+    const handle = win.createDiv({ cls: "sg-player-grip", text: "⋮⋮ drag" });
+    let sx = 0, sy = 0, ox = 0, oy = 0, moved = false;
+    const saved = window.localStorage.getItem("sg-video-pos");
+    if (saved) { try { const p = JSON.parse(saved) as { x: number; y: number }; this.placeVideo(win, p.x, p.y); } catch { /* fresh */ } }
+    handle.onpointerdown = (e) => {
+      e.preventDefault(); e.stopPropagation();
+      handle.setPointerCapture(e.pointerId);
+      const r = win.getBoundingClientRect();
+      sx = e.clientX; sy = e.clientY; ox = r.left; oy = r.top; moved = false;
+      win.addClass("sg-player-free");
+    };
+    handle.onpointermove = (e) => {
+      if (!handle.hasPointerCapture(e.pointerId)) return;
+      const x = ox + (e.clientX - sx), y = oy + (e.clientY - sy);
+      if (Math.abs(e.clientX - sx) + Math.abs(e.clientY - sy) > 4) moved = true;
+      this.placeVideo(win, x, y);
+    };
+    handle.onpointerup = (e) => {
+      handle.releasePointerCapture(e.pointerId);
+      if (!moved) return;
+      const r = win.getBoundingClientRect();
+      window.localStorage.setItem("sg-video-pos", JSON.stringify({ x: r.left, y: r.top }));
+    };
+  }
+
+  private placeVideo(win: HTMLElement, x: number, y: number): void {
+    const w = win.offsetWidth || 200, h = win.offsetHeight || 200;
+    x = Math.max(4, Math.min(window.innerWidth - w - 4, x));
+    y = Math.max(4, Math.min(window.innerHeight - h - 4, y));
+    win.addClass("sg-player-free");
+    win.style.left = `${x}px`; win.style.top = `${y}px`;
+  }
+
+  /** ⌃ on the bar: tuck the window into the top corner, or bring it home */
+  private tuckVideo(): void {
+    const win = this.video;
+    if (!win) return;
+    if (win.hasClass("sg-player-free") && (win.style.top || "").startsWith("4px")) {
+      win.removeClass("sg-player-free"); win.style.left = ""; win.style.top = "";
+      window.localStorage.removeItem("sg-video-pos");
+    } else {
+      this.placeVideo(win, window.innerWidth - (win.offsetWidth || 200) - 4, 4);
+      const r = win.getBoundingClientRect();
+      window.localStorage.setItem("sg-video-pos", JSON.stringify({ x: r.left, y: r.top }));
+    }
   }
 
   destroy(): void {
@@ -284,6 +335,7 @@ export class MusicPlayer {
       const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, text: label });
       b.onclick = (e) => { e.stopPropagation(); fn(); };
     };
+    if (this.mode === "youtube") btn("⌃", "sg-player-tuck", () => this.tuckVideo());
     btn("⏮", "", () => this.prev());
     btn(this.paused ? "▶" : "⏸", "sg-player-main", () => this.toggle());
     btn("⏭", "", () => this.next());

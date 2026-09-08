@@ -2541,3 +2541,11 @@ body.sg-read-wide .sg-doc-page { max-width: 100% !important; }
 .sg-player-x { color: var(--text-faint); font-size: 0.9em; }
 body.sg-player-on .sg-libpage { padding-bottom: calc(150px + env(safe-area-inset-bottom, 0px)); }
 body:not(.is-mobile) .sg-player-wrap { bottom: 24px; left: auto; right: 24px; width: 420px; }
+
+/* ---- the video window: a drag grip on its top edge; free-floating once moved ---- */
+.sg-player-video { position: relative; }
+.sg-player-video.sg-player-free { position: fixed; z-index: calc(var(--layer-popover, 30) - 1); align-self: auto; }
+.sg-player-grip { position: absolute; top: 0; left: 0; right: 0; height: 22px; z-index: 2; touch-action: none; cursor: grab;
+  font-size: 0.7em; letter-spacing: 0.08em; text-align: center; line-height: 22px; color: rgba(255,255,255,0.85);
+  background: linear-gradient(rgba(0,0,0,0.6), transparent); user-select: none; }
+.sg-player-tuck { font-size: 0.9em; color: var(--text-muted); }

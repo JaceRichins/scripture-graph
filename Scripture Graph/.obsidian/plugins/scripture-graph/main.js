@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.18 build 29ca3c93 2026-09-08T01:23:01Z */
+/* scripture-graph v0.72.19 build 8855ddc9 2026-09-08T01:48:11Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.18", sha: "29ca3c93", at: "2026-09-08T01:23:01Z" };
+    define_SG_BUILD_default = { version: "0.72.19", sha: "8855ddc9", at: "2026-09-08T01:48:11Z" };
   }
 });
 
@@ -16997,7 +16997,69 @@ var MusicPlayer = class {
     this.video = wrap.createDiv({ cls: "sg-player-video" });
     this.video.hide();
     this.bar = wrap.createDiv({ cls: "sg-player" });
+    this.makeDraggable(this.video);
     this.paint();
+  }
+  /** the video window goes wherever the finger puts it (a drag handle rides
+   * its top edge so YouTube's own controls keep their taps), and remembers */
+  makeDraggable(win) {
+    const handle = win.createDiv({ cls: "sg-player-grip", text: "\u22EE\u22EE drag" });
+    let sx = 0, sy = 0, ox = 0, oy = 0, moved = false;
+    const saved = window.localStorage.getItem("sg-video-pos");
+    if (saved) {
+      try {
+        const p = JSON.parse(saved);
+        this.placeVideo(win, p.x, p.y);
+      } catch {
+      }
+    }
+    handle.onpointerdown = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      handle.setPointerCapture(e.pointerId);
+      const r = win.getBoundingClientRect();
+      sx = e.clientX;
+      sy = e.clientY;
+      ox = r.left;
+      oy = r.top;
+      moved = false;
+      win.addClass("sg-player-free");
+    };
+    handle.onpointermove = (e) => {
+      if (!handle.hasPointerCapture(e.pointerId)) return;
+      const x3 = ox + (e.clientX - sx), y3 = oy + (e.clientY - sy);
+      if (Math.abs(e.clientX - sx) + Math.abs(e.clientY - sy) > 4) moved = true;
+      this.placeVideo(win, x3, y3);
+    };
+    handle.onpointerup = (e) => {
+      handle.releasePointerCapture(e.pointerId);
+      if (!moved) return;
+      const r = win.getBoundingClientRect();
+      window.localStorage.setItem("sg-video-pos", JSON.stringify({ x: r.left, y: r.top }));
+    };
+  }
+  placeVideo(win, x3, y3) {
+    const w = win.offsetWidth || 200, h = win.offsetHeight || 200;
+    x3 = Math.max(4, Math.min(window.innerWidth - w - 4, x3));
+    y3 = Math.max(4, Math.min(window.innerHeight - h - 4, y3));
+    win.addClass("sg-player-free");
+    win.style.left = `${x3}px`;
+    win.style.top = `${y3}px`;
+  }
+  /** ⌃ on the bar: tuck the window into the top corner, or bring it home */
+  tuckVideo() {
+    const win = this.video;
+    if (!win) return;
+    if (win.hasClass("sg-player-free") && (win.style.top || "").startsWith("4px")) {
+      win.removeClass("sg-player-free");
+      win.style.left = "";
+      win.style.top = "";
+      window.localStorage.removeItem("sg-video-pos");
+    } else {
+      this.placeVideo(win, window.innerWidth - (win.offsetWidth || 200) - 4, 4);
+      const r = win.getBoundingClientRect();
+      window.localStorage.setItem("sg-video-pos", JSON.stringify({ x: r.left, y: r.top }));
+    }
   }
   destroy() {
     this.stop();
@@ -17035,6 +17097,7 @@ var MusicPlayer = class {
         fn();
       };
     };
+    if (this.mode === "youtube") btn("\u2303", "sg-player-tuck", () => this.tuckVideo());
     btn("\u23EE", "", () => this.prev());
     btn(this.paused ? "\u25B6" : "\u23F8", "sg-player-main", () => this.toggle());
     btn("\u23ED", "", () => this.next());
