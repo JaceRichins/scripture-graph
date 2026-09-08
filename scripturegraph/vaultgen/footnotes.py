@@ -49,6 +49,7 @@ def _compact(footnotes: dict) -> dict:
                 refs.append({"c": c, "t": t, "v": r.get("verses") or [], "l": r.get("label") or ""})
             if refs or n.get("text"):
                 items.append({"m": n.get("marker") or "", "refs": refs,
+                              **({"w": n["w"], "o": n["o"]} if n.get("w") is not None else {}),
                               **({"x": n["text"]} if n.get("text") else {})})
         if items:
             out[str(verse)] = items

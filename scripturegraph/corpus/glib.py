@@ -157,6 +157,30 @@ def fetch_official_declarations(ctx: Ctx) -> dict:
 
 # ------------------------------------------------------- chapter apparatus
 
+_VERSE_RE = re.compile(r'<p class="verse"[^>]*id="p(\d+)"[^>]*>(.*?)</p>', re.DOTALL)
+_ANCHOR_RE = re.compile(r'<a class="study-note-ref" href="#note\d+_([a-z]+)">(.*?)</a>', re.DOTALL)
+
+
+def _note_anchors(body: str) -> dict[tuple[int, str], tuple[str, int]]:
+    """Where each footnote letter sits in its verse: (verse, letter) →
+    (anchored word, character offset in the verse's plain text, verse
+    number excluded). Gospel Library hangs the letter on a word; so do we."""
+    out: dict[tuple[int, str], tuple[str, int]] = {}
+    for vm in _VERSE_RE.finditer(body):
+        verse = int(vm.group(1))
+        inner = re.sub(r'<span class="verse-number"[^>]*>.*?</span>', "", vm.group(2), flags=re.DOTALL)
+        pos = 0
+        plain_so_far = ""
+        for am in _ANCHOR_RE.finditer(inner):
+            before = _strip_tags(inner[pos:am.start()])
+            plain_so_far += before
+            word = _strip_tags(am.group(2))
+            out[(verse, am.group(1))] = (word, len(plain_so_far))
+            plain_so_far += word
+            pos = am.end()
+    return out
+
+
 def fetch_chapter_apparatus(ctx: Ctx, cslug: str) -> dict:
     """Official heading + footnote cross-references for one chapter."""
     db = ctx.db()
@@ -169,6 +193,7 @@ def fetch_chapter_apparatus(ctx: Ctx, cslug: str) -> dict:
         return {"missing": True}
     heading = _heading_of(content.get("body") or "")
     footnotes = content.get("footnotes") or {}
+    anchors = _note_anchors(content.get("body") or "")   # (verse, letter) -> (word, offset)
     per_verse: dict[int, list[dict]] = {}
     xref_targets: dict[str, list[tuple[int, str]]] = {}
     if isinstance(footnotes, dict):
@@ -192,6 +217,10 @@ def fetch_chapter_apparatus(ctx: Ctx, cslug: str) -> dict:
                 first = f"{tslug}-{tverses[0]}" if tverses else tslug
                 xref_targets.setdefault(tslug, []).append((verse, first))
             entry = {"marker": note.get("marker", ""), "refs": refs}
+            letter = re.sub(r"^\d+_?", "", str(key)[4:]) if str(key).startswith("note") else ""
+            anchor = anchors.get((verse, letter))
+            if anchor:
+                entry["w"], entry["o"] = anchor          # the word the letter hangs on, and where
             if refs or note.get("text"):
                 per_verse.setdefault(verse, []).append(entry)
     db.execute(
@@ -223,7 +252,9 @@ def fetch_all_apparatus(ctx: Ctx, limit: int | None = None) -> dict:
     rows = db.execute(
         "SELECT c.slug FROM chapters c LEFT JOIN chapter_apparatus a "
         "ON a.chapter_slug = c.slug JOIN books b ON b.slug=c.book_slug "
-        "WHERE a.chapter_slug IS NULL ORDER BY b.position, c.chapter").fetchall()
+        "WHERE a.chapter_slug IS NULL "
+        "   OR (a.footnotes_json LIKE '%\"marker\"%' AND a.footnotes_json NOT LIKE '%\"o\":%') "
+        "ORDER BY b.position, c.chapter").fetchall()
     targets = [r["slug"] for r in rows]
     if limit:
         targets = targets[:limit]
