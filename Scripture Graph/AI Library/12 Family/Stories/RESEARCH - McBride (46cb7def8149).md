@@ -1,0 +1,47 @@
+---
+ownership: ai
+mutable: engine
+content_type: family-story
+sg-id: story:46cb7def8149
+grade: 0
+words: 1641
+people:
+- KWJR-J45
+updated_at: '2026-09-09T00:40:23Z'
+cssclasses:
+- sg-ai
+---
+
+# RESEARCH - McBride
+
+_A story of [[Thomas White McBride (KWJR-J45)|Thomas White McBride]]._
+
+## The story as it was written
+
+Affidavit of Fanny Myrrick Stafford “I saw the mob cut Father McBride’s Head and hands to pieces with an old corn cutter at the Haun’s Mill Massacre; he had fallen to the ground from a shot he had received and on raising his hands to
+Malinda Lewis affidavit - Ricfield, Utah :
+“I saw an aged veteran hued with a corn cutter down dead, Thomas McBride and another as worthy who had been shot down like a wild beast without the mercy of a common savage.”
+Statement of Fanny Myrrick Kofford - 3 April 1879.
+“I saw the mob cut Father McBride’s head and hands to pieces with an old corn cutter at the Haun’s Mill Massacre. He had fallen to the ground from a shot he had received and on arising his hands to they then cut his head to pieces. I heard them say afterwards that he told them he was a veteran of the revolutionary war and had fought for his country’s freedom, and implored mercy, but it was not granted.
+Statements of Samuel and Mary Jane Thompson May 24, 1879:
+“At the time of the massacre at Haun’s Mill I lived about four miles from that place on Shoal Creek and was ordered with that little branch to help guard the place. Bro.Bentley and myself went to see Bros. Joseph and Hyrum and they told us, that for the time FarWest would be the only safe place; we should go back and tell the brethren immediately to come to Far West. I went back and told the Saints of the branch in which I lived to flee for safety. All who did so were spared and those who thought they might remain were all slaughtered by the mob.”
+Alma L. Smith’s statement.- Coalville, Summit Co. 4 August 1879
+“Promising if we went back, that we should go in peace. We did so and camped that night on Shoal Creek in Caldwell Co., near a mill owed by a Mr. Haun, and here se stopped a day or so to rest our teams, wash our clothes, & c. and to consider what steps it was best to take next. While there waiting these same fifty armed men, with some 200 more, on the 30th day of October, suddenly rushed upon us from the woods and committed, what is now so well known in history, as the “Haun’s Mill Massacre,” where some 18 to 20 of our party were killed outright, and many more wounded. Among the killed were my father and my brother Sardius, the latter being a boy but nine year old; who had the whole top of his head shot off. We with another boy named Charles Myrrick, ten years of age, and myself, run into an old blacksmoth shop with a lot of the brethren for safety. We three boys crept under the bellows to hide from the whistling bueets of the mob, the they soon found our retreat, put their guns between the cracks of the logs, and shot us all, killing my brother instantly, wounding the other boy in three places, from which he afterwards die, and sorely wounding me shooting one of my hip joints all to pieces, from which I now carry scars, as large as a man’s hand
+The following named persons assisted in the Haun’s Mill Massacre: Two brothers by the name of Comstock, Benjamin Ashby, Robert White, William Mann and a Mr.Rogers, the last names took an old corn cutter and cut to pieces one of our party, an old white headed revolutionary soldier, by the name of McBride.”
+Statements by Joseph Young and Amanda Smith:
+“In consternation the refugees [just arriving in Caldwell Co.] retreated and gathered at Haun’s Mill. It was Sunday, October 26. The Mormons were holdin a coluncil and deliberating upon the best course to pursue to defend themselves against the mob that waqs collecting in the neighborhood, under the command of a Colonel Jennings, or Livingstgon, and threatening them with houseburning and killing.
+“Joseph Young, the brother of Brigham, was in thye council. He had arrived at the Mill that day, with his family, retreating from the mob.
+“The decision of the council was that the neighbo4rhood of Haun’s Mill shoould put itself in an attitude of defence. Accordingly about twenty-eight ofthe brethren armed themselves and prepared to resist an attack.
+“But that same evening the mob sent one of their number to enter into a treaty with the Mormons at the mill. The treaty was accepted on the condition of mutual forbearance,and that each party should exert its influence to prevent any further hostilities.
+“At this time, however, there was another mob collecting at William Mann’s on Grand River so that the brethren remained under arms over Monday, the 29thy, which passed without attack from any quarter.
+“‘On Tuesday, the 30th,’ says Joseph Young, ‘that bloody tragedy was enacted, the scenes of which I shall never forget. ‘
+“More than three-fourths of the day had passed in tranquility, as smiling as, the preceding one. I think there was no individual of our company that was apprised of the sudden and awful fate which hung over our heads like an overwhelming torrent, and which was to changekk the prospects,the feelings and sympathies of about thirty families.
+“The banks of Shol Creek, on either side,, teemed with children sporting and playing, while thjeir mothers were engaged in domestic employments. Fathers or husbands were either on guard about the mills or other property, or employed in gathering crops for winter consumption. The weather was very pleasant, the sun shone clearly,and all was tranquil, and no one expressed any apprehension of the awful crisis that was hear us—even at our doors.
+“It was bout four o’clock p.m., while sitting in my cabin, with my babe in my arms, and my wife standing by my side, the door being open, I cast my eyes on the opposite bank of Shoal Creek, and saw a large body of armed men on horseback directing their course towards the mills with all possible speed. as they advanced through the scattering trees that bordered the prairie, they seemed to form themselves into a three-square position, forming a vanguard in front. At the moment David Evans, seeing the superiority of their numbers, there being two hundred and forty of them according to their own account, gave a signal and cried for peace. This not being heeded, they continued to advance, and their leader, a man named Comstock, fired a gun which was followed by a solemn pause of about ten or twelve seconds, when all at once they discharged about one hundred rifles, aiming at a blacksmith’s shop into which our friends had fled for safety. They then charged up to the shop, the crevices of which, between the logs were sufficiently large to enable them to aim directly at the bodies of those who had there fled for refuge from the fire of their murders. There were several families tented in the rear of the shop, whose lives were exposed, and amid showers of bullets these fled to the woods in different directions.
+“After standing and gazing at this bloody scene for a few minutes, and finding myself in the uttermost danger, the bullets having reached the house where I was living, I committed my family to the pr4otection of Heaven; and leaving the house on the opposite side, I took a path which led up the hill, following in the trail of my brethren that had fled from the shop.
+“While ascending the hill we were discovered by the mob, who fired at us, and continued so to do, until we reached the summit. In descending the hill, I secreted myself in a thicket of bushes, where I lay till 8 o’clock in the evening. At this time I heard a voice calling my name in an undertone. I immediately left the thicket and went to the house of Benjamin Lewis, where I found my family - who had fled there in safety - and two of my friends, mortally wounded, one of whom died before morning. Here we passed the painful night in deep and awful reflections upon the scenes of the preceding evening.
+“After daylight appeared some four or five men, with myself, who hade escaped with our lives from this horrid massacre repaired as soon as possible to the mills to learn the condition of our friends whose fate we had but too truly anticipated.
+“When we arrived at the house of Mr. Haun, we found Mr. Merrick’s body lying in the rear of the house, and Mr. McBrides in front, literally mangled from head to foot. We were informed by Miss Rebecca Judd, who was an eye-witness that he was shot with his own gun after he had given it up, and then cut to pieces with a corn cutter by a man named Rogers of Davis County, who kept a ferry on Grand River, and who afterwards repeatedly boasted of this same barbarity. Mr. York’s body we found in the house. After viewing these corpses we immediately went to the blacksmith’s shop, where we found nine of our friends, eight of whom we4re already dead - the other, Mr. Cox. of Indiana, in the agonies of death who soon expired.”
+Amanda Smith’s portion:
+“Farther on was lying dead, Brother McBride, an aged white-haired revolutionary soldier. His murderer had literally cut him to pieces with an old corn-cutter. His hands had been split down where he raised them in supplication for mercy. Then the nmonster cleft open his head with the same weapon, and the veteran who had fought for his country, in the glorious days of the past, was numbered with the martyrs.”
+James McBride’s statement of the massacre was given 5 February 1880 at

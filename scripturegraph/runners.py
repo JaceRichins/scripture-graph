@@ -467,6 +467,13 @@ def run_weekly(ctx: Ctx) -> dict:
                 stats["family"] = _fs.auto(ctx)
             except Exception as e:  # noqa: BLE001
                 ctx.log.warn("weekly.family_failed", error=str(e)[:200])
+            # the stories: the new ones graded and read aloud, the shelf re-ranked
+            try:
+                from scripturegraph.family import stories as _fst
+                stats["family_stories"] = _fst.run(ctx, grade_limit=int(ctx.c("family.stories_per_week", 40)),
+                                                   narrate_limit=int(ctx.c("family.narrate_per_week", 20)))
+            except Exception as e:  # noqa: BLE001
+                ctx.log.warn("weekly.family_stories_failed", error=str(e)[:200])
         if ctx.c("timeline.enabled", True):
             from scripturegraph.timeline import maybe_build_timeline
             try:

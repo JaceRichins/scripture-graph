@@ -1,0 +1,29 @@
+---
+ownership: ai
+mutable: engine
+content_type: family-story
+sg-id: story:667a63caaa28
+grade: 0
+words: 997
+people:
+- KWJ6-HVN
+- KWJ6-HYH
+updated_at: '2026-09-09T00:40:21Z'
+cssclasses:
+- sg-ai
+---
+
+# Life stories of Sarah Elnora White
+
+_A story of [[James Stevenson (KWJ6-HVN)|James Stevenson]], [[Sarah Elnora White (KWJ6-HYH)|Sarah Elnora White]]._
+
+## The story as it was written
+
+Sarah Elnora White (Born November 18, 1831, in New York; Married James Stevenson; Died January 12, 1915 (age 83))
+Eleanor lived in Nauvoo when she was a little girl, while Joseph Smith was a prophet. Her father was a guard to help protect Joseph Smith; wherever the Prophet was, Grandfather White could also be found. When Sarah was about 8 or 9, she played with the jailer’s daughter. Sarah’s friend lived in the same jail in which Joseph Smith was killed. Sarah often went to the jail to play with her friend; she drew many a bucket of water from the well and oftimes dangled her feet from the window where the prophet and his brother, Hyrum, were martyred. One day as Sarah and her family were walking out of their front gate, a man on horseback rode down the street waving a hat and crying that the prophet and his brother had been killed. (Margaret Steed Hess, My Farmington 1847-1976, p.122)
+In 1845, Sarah travelled to Council Bluffs and lived there while her father served in the Mormon Battalion’s march to Mexico. When Sarah was 16, she crossed the plains with the pioneers. Sarah and her 12-year-old brother were in charge of driving a team of oxen hitched to a wagon, while her parents drove another team and wagon. That way, her family would have two teams of oxen and two wagons when they reached the Salt Lake Valley. Sarah and her brother traded off riding a horse while leading the cows and driving the wagon. Many times, the pioneers didn’t have enough food and Sarah was very hungry. One day, they boiled the leather harnesses (worn by the oxen) to make some soup. One day while crossing a river, the oxen and wagon became caught in a whirlpool. Sarah and her brother were riding alone in the wagon and bravely manipulated the oxen until they arrived safely on the other side of the river and climbed onto the bank. At some deep streams, the water was so high due to rainfall that the pioneers would raise the wagon box by placing four blocks under the box. Even then the water often came into the wagon and soaked all their goods. Halfway across the plains, the pioneers came to a big river and had to be ferried across (they took turns riding on a big raft made of logs). 1500 Indians were coming across the river going the other direction, so after a load of pioneers crossed the river, a load of Indians rode the ferry back across the river. When night came on, 50 pioneers were camping on one side of the river and 50 pioneers were on the other side of the river, both groups surrounded by Indians. A double guard was placed for protection, but the Indians were not hostile. That evening, a teenage boy and girl went for a walk along the river bank. They had been warned not to go beyond the covered wagons, but they walked too far and were kidnapped by Indians. A big Indian came into the pioneers’ camp with an interpreter and informed the pioneers that the two teenagers would be returned if the pioneers would give their best team of oxen to the Indians, which they did. Sarah camped on the ground that night with Indians all around on one side and buffalo running around on the other side, with wolves howling in the distance. One night the buffalo frightened the oxen and caused them to stampede and run away. It took two days to locate all the oxen. Every Sunday, the pioneers rested from their travels to hold church meetings and show gratitude to the Lord.
+When they arrived in Utah, they settled in Farmington, . Sarah met and married a pioneer boy, James Stevenson. They lived with Sarah’s mother for one year, then they
+built a house out of rocks with walls one-foot thick. In the fireplace they cooked all their food. The large windows had deep windowsills, so deep they could use them as tables! They had to leave their comfortable home and move south when Johnston’s Army was marching to Utah. They thought everything would be burned when they returned home, but Brigham Young promised them that nothing would be harmed. The family had two beds in the one big room; father and mother slept in the one big bed, while all the children slept on a bed that was kept underneath the parents’ bed and pulled out at nighttime. Sarah and James had 12 children, but not all of them lived. One time, Sarah and some of the children were very ill with diptheria. Sarah had two daughters at the time and both of them died. Shortly thereafter, Sarah gave birth to another daughter. The baby was rushed out of the home and cared for by a neighbor until the Stevenson’s had recovered from diptheria. This baby was the only surviving daughter. She had six older brothers, one of whom is our great-great-great-grandfather Wilford Albert Stevenson.
+One time, the Indians came to Sarah’s home while all the men were up in the canyons cutting wood. “They didn’t know just what to do, but Aunt Emma...talked in tongues to these Indians and she had never spoken a word in her life of the Indian language. She never knew what she said to them, but it frightened them so that they got on their horses and went away very quickly. This was always a testimony to me that they Lord will help you when you really need it.” According to Margaret Hess, Aunt Nancy talked to the six Indians in the Indians’ language, then invited the Indians to eat dinner with them. The Indians made her understand that if she would give each Indian a blanket, they would leave in peace, and they did.
+Sources: Cassette-tape interview with Gladys Stevenson Jordan, by John Rogers Burk, 1971
+Margaret Steed Hess, My Farmington 1847-1976, p.122-26)

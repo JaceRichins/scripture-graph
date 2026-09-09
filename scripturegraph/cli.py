@@ -467,6 +467,11 @@ def cmd_family(args):
     if args.action == "build":
         print(json.dumps(fs.build_now(ctx, generations=args.generations, person=args.person, spouse=args.spouse), indent=2))
         return 0
+    if args.action == "stories":
+        from scripturegraph.family import stories as fst
+        print(json.dumps(fst.run(ctx, grade_limit=args.grade_limit, narrate_limit=args.narrate_limit,
+                                 do_narrate=not args.no_narrate, voice=args.voice), indent=2))
+        return 0
     stats = fs.run(ctx, generations=args.generations, person=args.person, refresh=args.refresh, spouse=args.spouse)
     print(json.dumps(stats, indent=2))
     return 0
@@ -676,7 +681,11 @@ def main(argv=None) -> int:
     sub.add_parser("packs", help="pack footnotes, cross references and citations by book (for phones)") \
         .set_defaults(fn=cmd_packs)
     sp = sub.add_parser("family", help="ancestors, sources and memories from FamilySearch (your own sign-in), as a shelf")
-    sp.add_argument("action", nargs="?", default="pull", choices=["pull", "login", "build"])
+    sp.add_argument("action", nargs="?", default="pull", choices=["pull", "login", "build", "stories"])
+    sp.add_argument("--grade-limit", type=int, default=None, help="stories: grade at most this many new ones")
+    sp.add_argument("--narrate-limit", type=int, default=None, help="stories: narrate at most this many")
+    sp.add_argument("--no-narrate", action="store_true", help="stories: index and grade only")
+    sp.add_argument("--voice", default="af_heart", help="stories: the Kokoro voice (default af_heart)")
     sp.add_argument("--generations", type=int, default=8, help="how far up (default 8)")
     sp.add_argument("--person", help="root FamilySearch id (default: you)")
     sp.add_argument("--refresh", action="store_true", help="re-read people already cached")

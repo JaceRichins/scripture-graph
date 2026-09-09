@@ -1,0 +1,43 @@
+---
+ownership: ai
+mutable: engine
+content_type: family-story
+sg-id: story:ca2e393a79da
+grade: 0
+words: 1451
+people:
+- KWV9-ZK2
+- LRRX-9SM
+updated_at: '2026-09-09T00:40:23Z'
+cssclasses:
+- sg-ai
+---
+
+# Edward Jeremiah Price
+
+_A story of [[Edward Jeremiah Price (KWV9-ZK2)|Edward Jeremiah Price]], [[Mary Jane Bishop (LRRX-9SM)|Mary Jane Bishop]]._
+
+## The story as it was written
+
+The following was compiled by Delmar O. Price and posted here at his request by his son Robert.
+Great-grandfather Edward Jeremiah Price was born on August 14, 1818 in Hanmer, Flintshire, Wales. Hanmer was a pleasant little village of approximately 500 inhabitants. It was located northeast from Lellesmere near a spacious mere (lake). Rich woodlands in the immediate vicinity and in the country around it were strikingly beautiful. Edward was the third child of Peter Price and Mary Lloyd. Beside himself there were two brothers and four sisters: Thomas, Sarah, Eliza, William, Jane, and Mary.
+Edwards father was a hostler in a public house and later in the 1851 census, he is listed as being an agricultural laborer.
+When he was a young man, Edward enlisted in the English Navy and served as a sailor for seven years. On January 10, 1852, he was assigned to the ship Kennebec to sail to America. It was a "new and commodious ship of one thousand seventy tons register," and sailed out of Bramley-Moore Dock, at Liverpool, England, with 320 converts.
+Besides the Saints, there were a number of Irish emigrants on board who were not supplied with sufficient provisions. Consequently, they stole all they possibly could from the Mormon emigrants. This created a shortage of provisions with the Saints and they were compelled to subsist on half rations the last four or five days of the voyage.
+The voyage was safe and pleasant except for one terrific hurricane, which swept the deck clean of cookhouses, water barrels, and everything else that could be washed overboard.
+While performing his duties as a sailor on the Kennebec, Edward made the acquaintance of Mary Jane Bishop. She was immigrating with the Saints to Utah, accompanied by her two brothers, William and James. Between the time they left England on January 10 and arrived in New Orleans on March 11, they had apparently fallen in love. At the time Edward was not a member of the Church. However, the Latter-day Saint religion was not new to him. Edward's sister Sarah was converted and baptized in 1841. She, with her husband Charles Smith, immigrated to the United States. They lived in Nauvoo for several years, where two children were born to them. They later immigrated to Utah and lived in Salt Lake City for approximately twelve years (1849-1861), and then moved to St. George.
+Edward left his ship and his profession as a sailor and continued with the Saints on their trek to Utah. Along with the other Saints, they boarded a small boat called The Pride of the West, traveled up the Mississippi River, and arrived in St. Louis, Missouri in the latter part of March. They remained temporarily in St. Louis, where Edward was baptized on March 29, 1852. The following day, he and Mary Jane were married.
+It is interesting to note that the stopover in St. Louis may have saved their lives. The remainder of the group boarded an old dilapidated steamboat, the Saluda, to take them up the river to Council Bluffs. During the trip, the engineers carelessly let the boilers get dry and red hot. A tremendous explosion occurred, completely wrecking the whole boat, killing 26 people and seriously injuring many others.
+The couple later joined a group of Saints and made the remainder of the journey to Utah by ox team. As the emigrants entered the valley, they were greeted with the beautiful sight of the recently completed Tabernacle on Temple Square. The first conference had been held in the building in the spring of that year.
+Edward and Mary Jane lived in Salt Lade City the first year, where their first baby was born, a girl they named Mary Jane after her mother. Edward moved the family to Provo in March 1854, and resided there for approximately six years. They were among the early pioneers of Utah County.
+Glowing reports of rich land to the north resulted in the rush to Cache Valley in the spring of 1860, and many new settlements were formed. It was at this time that Edward took his family, left Provo and with a group of Saints moved to what is now Franklin, Idaho in northern Cache Valley. The names of Edward and Mary Jane are shown on a monument erected in Franklin by the Sons of Utah Pioneers in honor of the first settlers.
+In 1862 Edward learned that a number of Saints from England (primarily from Shrewsbury) had settled at the extreme south end of Cache Valley. So, he took his family and possessions and moved to the town of Paradise, located at what is now known as Avon. It was located at the forks of the Indian trail through east canyon to Wyoming and the trail through south canyon, which led to Ogden. Chief Washakie and his tribe, as well as other tribes, traveled these trails. The settlers built log houses and some dugouts in fort formation to protect themselves against the Indians who camped in the river bottoms. Guards were on duty at all times.
+In 1861, Apostle Ezra T. Benson came to organize the settlement. He was so impressed with the beautiful little cove with its surrounding hillsides with timber, the fine meadowlands in the river bottoms, and the magnificent view of the valley to the north that he exclaimed, "This is like Paradise." He suggested the name for the community, and it was unanimously adopted.
+In 1868, due to Indian hostilities, the entire town was moved three miles north to the present location of Paradise. The country was more open and the settlers could better protect themselves. All houses and equipment were moved. It was a considerable sacrifice for the settlers to commence a new settlement, but it proved the best thing to do, since there was more land available and a larger settlement could be made. There were approximately 50 families at this time. Edward and Mary Jane’s home in Paradise was a humble little two-room cabin with a dirt roof, which was later replaced by wood shingles. Here they lived for the remainder of their life. It was located adjacent to the southeast corner of the town square.
+Like other settlers, Edward and Mary Jane were pretty much self-sufficient. They raised most of their fruits and vegetables in their garden, which they ate fresh in the summer time and canned for use in the winter. They also had root cellars, where they would store fresh vegetables for use during the winter months. They had milk cows, pigs, and chickens, which provided their milk products, eggs and meat. They raised sugar cane and a few sheep. The cane was taken to Hyrum and made into molasses, while the wool was taken to Wellsville to be carded.
+Their grandchildren dearly loved Edward and Mary Jane. Since they lived only one block from the school, the children all clamored for their turn to go from school to their home for lunch. They especially loved Grandma's "curn" (current) bread.
+In the years 1869, 1870 and 1872 the grasshoppers destroyed the crops. Men, women and children were called out with brooms, sacks, sticks, aprons, and anything with which they could beat or drive them into piles of brush where they were burned. Food was scarce, and not a morsel was wasted.
+On December 13, 1865, Edward and Mary Jane made the long trip to Salt Lake City by buggy, where they took out their endowments and were sealed for time and all eternity in the Endowment House.
+He was poorly equipped to handle the farming responsibilities that were required of him to support his family. I remember Dad telling us if someone had a broken rope that needed splicing, he could do a masterful job, but he knew little about farming. Consequently, they struggled to make a living.
+Edward developed a bad habit of chewing tobacco when he was a sailor, which he never gave up. By today’s' church standards chewing tobacco would prevent him from having a temple recommend and being a member in good standing. However, in those days the phrase ".... not by commandment or constraint..." in the Word of Wisdom was interpreted literally. Many of the Saints continued to drink tea and coffee, and some continued to smoke and chew tobacco and still remained in good standing in the Church.
+Edward was short in stature and bow-legged. He is remembered as a happy, good-natured man and a staunch Latter-day Saint. He bore a strong testimony of the restored gospel. He and Mary Jane were always at church, bringing their children with them. He was ordained a High Priest at age 78. He died in Paradise at age 86.
