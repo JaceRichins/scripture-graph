@@ -1,4 +1,4 @@
-/* scripture-graph v0.72.54 build 953c291f7 2026-09-08T23:50:07Z */
+/* scripture-graph v0.72.55 build b36fb8ef5 2026-09-09T00:45:04Z */
 "use strict";
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -25,7 +25,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var define_SG_BUILD_default;
 var init_define_SG_BUILD = __esm({
   "<define:__SG_BUILD__>"() {
-    define_SG_BUILD_default = { version: "0.72.54", sha: "953c291f7", at: "2026-09-08T23:50:07Z" };
+    define_SG_BUILD_default = { version: "0.72.55", sha: "b36fb8ef5", at: "2026-09-09T00:45:04Z" };
   }
 });
 
@@ -15211,6 +15211,7 @@ var SGLibraryView = class extends import_obsidian7.ItemView {
     void this.renderThisWeek(c2.createDiv({ cls: "sg-cfm-slot" }));
     this.renderContinue(c2.createDiv({ cls: "sg-continue-slot" }));
     void this.renderFamilyWeek(c2.createDiv({ cls: "sg-famweek-slot" }));
+    void this.renderFamilyStory(c2.createDiv({ cls: "sg-famstory-slot" }));
     void this.renderInsight(c2.createDiv({ cls: "sg-insight-slot" }));
     const groupsBox = c2.createDiv({ cls: "sg-nav-groups" });
     const actsP = this.groupActs ? Promise.resolve(this.groupActs) : this.host.groupActivity();
@@ -15240,6 +15241,92 @@ var SGLibraryView = class extends import_obsidian7.ItemView {
     col.createDiv({ cls: "sg-nav-gsub", text: "Scriptures, conference, history, topics, music" });
     browse.createSpan({ cls: "sg-nav-chev", text: "\u203A" });
     browse.onclick = () => this.go({ kind: "scriptures" });
+  }
+  /** one story a day from the family shelf: the highest grades first, the
+   * ones not heard lately ahead of the rest, a birthday this week ahead of
+   * everything. Listen (the telling, the whole story) or read. */
+  async renderFamilyStory(slot) {
+    const f = this.app.metadataCache.getFirstLinkpathDest("Family Stories", "");
+    if (!f) {
+      slot.remove();
+      return;
+    }
+    let data = null;
+    try {
+      const raw = await this.app.vault.cachedRead(f);
+      const m2 = /```json\s*([\s\S]*?)```/.exec(raw);
+      data = m2 ? JSON.parse(m2[1]) : null;
+    } catch {
+      data = null;
+    }
+    if (!data?.stories?.length || !slot.isConnected) {
+      slot.remove();
+      return;
+    }
+    const heard = new Set((this.s.device.storiesHeard ?? []).slice(-60));
+    const tree = await loadTree(this.app).catch(() => null);
+    const today = /* @__PURE__ */ new Date();
+    const md = (d) => monthDay(d);
+    const thisWeek = /* @__PURE__ */ new Set();
+    if (tree) {
+      for (const [pid, n] of Object.entries(tree.people)) {
+        const b = md(n.bf);
+        if (b && Math.abs((new Date(today.getFullYear(), b.m - 1, b.d).getTime() - today.getTime()) / 864e5) <= 3) thisWeek.add(pid);
+      }
+    }
+    const day = Math.floor(today.getTime() / 864e5);
+    const score = (r, i) => (r.grade || 0) * 10 + (heard.has(r.id) ? -25 : 0) + (r.people.some((p) => thisWeek.has(p.pid)) ? 30 : 0) + (r.audio?.telling ? 4 : 0) + (day * 7 + i * 13) % 9;
+    const ranked = data.stories.filter((r) => r.grade >= 3).map((r, i) => [score(r, i), r]).sort((a2, b) => b[0] - a2[0]);
+    const pick = ranked[0]?.[1] ?? data.stories[0];
+    const who = pick.people.map((p) => p.n).join(" & ");
+    const rel = tree ? relationLabel(tree, tree.roots[0].pid, pick.people[0].pid) : { kin: "", path: "" };
+    const card = slot.createDiv({ cls: "sg-cfm sg-famstory" });
+    card.createDiv({ cls: "sg-cfm-eyebrow", text: "A story from your family" });
+    card.createDiv({ cls: "sg-famstory-who", text: rel.kin && rel.kin !== "you" ? `${who} \xB7 ${rel.kin}` : who });
+    card.createDiv({ cls: "sg-cfm-title", text: pick.title });
+    if (pick.hook) card.createDiv({ cls: "sg-famstory-hook", text: pick.hook });
+    const meta = [pick.grade ? "\u2605".repeat(pick.grade) : "", `${pick.minutes} min read`].filter(Boolean).join(" \xB7 ");
+    card.createDiv({ cls: "sg-famstory-meta", text: meta });
+    const chips = card.createDiv({ cls: "sg-cfm-chips" });
+    const markHeard = async () => {
+      const d = this.s.device;
+      d.storiesHeard = [...(d.storiesHeard ?? []).filter((x3) => x3 !== pick.id), pick.id].slice(-200);
+      await this.s.saveDevice();
+    };
+    const openPage = () => {
+      void markHeard();
+      this.host.openNote(pick.page);
+    };
+    if (pick.audio?.telling && this.host.playFiles) {
+      const b = chips.createEl("button", { cls: "sg-cfm-chip", text: "\u{1F3A7} Listen \xB7 5 min" });
+      b.onclick = () => {
+        void markHeard();
+        void this.host.playFiles([{ path: pick.audio.telling, title: pick.title, sub: `${who} \xB7 the telling`, open: openPage }]);
+      };
+    }
+    const fullTracks = pick.audio?.full ? [pick.audio.full] : pick.audioChapters ?? [];
+    if (fullTracks.length && this.host.playFiles) {
+      const b = chips.createEl("button", { cls: "sg-cfm-chip", text: fullTracks.length > 1 ? `\u{1F3A7} Whole story \xB7 ${fullTracks.length} chapters` : "\u{1F3A7} Whole story" });
+      b.onclick = () => {
+        void markHeard();
+        void this.host.playFiles(fullTracks.map((p, i) => ({ path: p, title: fullTracks.length > 1 ? `${pick.title} \u2014 chapter ${i + 1}` : pick.title, sub: who, open: openPage })));
+      };
+    }
+    if (pick.audio?.kids && this.host.playFiles) {
+      const b = chips.createEl("button", { cls: "sg-cfm-chip", text: "\u{1F9D2} For the kids" });
+      b.onclick = () => {
+        void markHeard();
+        void this.host.playFiles([{ path: pick.audio.kids, title: pick.title, sub: `${who} \xB7 for children`, open: openPage }]);
+      };
+    }
+    const read2 = chips.createEl("button", { cls: "sg-cfm-chip", text: "\u{1F4D6} Read" });
+    read2.onclick = openPage;
+    const more = chips.createEl("button", { cls: "sg-cfm-chip sg-famstory-more", text: "Another \u203A" });
+    more.onclick = async () => {
+      await markHeard();
+      slot.empty();
+      void this.renderFamilyStory(slot);
+    };
   }
   /** ancestors whose birthday or anniversary falls this week, from the
    * family tree note; nothing when the shelf has no tree yet */
@@ -21234,6 +21321,27 @@ var SGPlugin = class extends import_obsidian38.Plugin {
         else this.applyConfiguredScene();
       },
       sceneCurrent: () => this.scenes.current(),
+      playFiles: async (items) => {
+        const queue = [];
+        for (const it of items) {
+          if (!await this.ensureLocal(it.path)) continue;
+          const f = this.app.vault.getAbstractFileByPath(it.path);
+          if (!(f instanceof import_obsidian38.TFile)) continue;
+          queue.push({
+            id: `file:${it.path}`,
+            title: it.title,
+            sub: it.sub,
+            url: this.app.vault.getResourcePath(f),
+            searchQuery: it.title,
+            open: it.open
+          });
+        }
+        if (!queue.length) {
+          new import_obsidian38.Notice("That recording isn't reachable right now.");
+          return;
+        }
+        this.music.play(queue, 0);
+      },
       lastChapter: () => this.state.device.lastChapter,
       recentChapters: () => this.state.device.recentChapters ?? [],
       groupActivity: async () => {

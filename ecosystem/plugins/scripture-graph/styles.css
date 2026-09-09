@@ -150,6 +150,15 @@ mark.sgh-orange { background: rgba(255, 150,  60, 0.32); }
 .sg-ft-sheet-k { flex: none; width: 74px; color: rgba(244, 238, 224, 0.6); font-weight: 600; }
 .sg-ft-sheet-acts { display: flex; gap: 8px; margin-top: 10px; }
 .sg-ft-sheet-acts button { flex: 1 1 auto; padding: 8px 10px; border-radius: 10px; font-weight: 600; font-size: 0.85em; }
+/* Home: a story from your family */
+.sg-famstory-slot { margin: 0 0 14px; }
+.sg-famstory { border-color: rgba(217, 178, 90, 0.35); background: radial-gradient(120% 90% at 100% 0%, rgba(217, 178, 90, 0.14), transparent 60%), color-mix(in srgb, var(--background-secondary) 78%, transparent); }
+.sg-famstory .sg-cfm-eyebrow { color: #e8d9a8; }
+.sg-famstory-who { font-size: 0.78em; color: var(--text-muted); margin-bottom: 2px; }
+.sg-famstory-hook { font-size: 0.88em; line-height: 1.4; margin-top: 6px; color: var(--text-normal); }
+.sg-famstory-meta { font-size: 0.72em; color: var(--text-faint); margin-top: 6px; letter-spacing: 0.02em; }
+.sg-famstory .sg-cfm-chip { background: rgba(217, 178, 90, 0.12); color: #f1e3b8; border-color: rgba(217, 178, 90, 0.35); }
+.sg-famstory-more { opacity: 0.75; }
 /* Home: this week in your family */
 .sg-famweek-slot { margin: 0 0 14px; }
 .sg-famweek { border-color: rgba(120, 180, 120, 0.35); background: radial-gradient(120% 90% at 100% 0%, rgba(90, 163, 90, 0.16), transparent 60%), color-mix(in srgb, var(--background-secondary) 78%, transparent); }

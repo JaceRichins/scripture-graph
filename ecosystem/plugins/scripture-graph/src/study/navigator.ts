@@ -45,6 +45,8 @@ export interface NavigatorHost {
   scene?: (id: string | null) => void;
   /** the scene on screen right now (its id), for the page to say so */
   sceneCurrent?: () => string | null;
+  /** play audio files from the vault (fetched on demand) in the app's player, as one queue */
+  playFiles?: (items: { path: string; title: string; sub: string; open?: () => void }[]) => Promise<void>;
   openTimeline(): void;
   openTimelinePreset(p: TimelinePreset): void;
   newTimeline(onDone: () => void): void;

@@ -29,7 +29,7 @@ import { ReadingSettingsModal, applyReading } from "./study/readingSettings";
 import { VaultSync, setLazyFetch } from "./sync/vaultSync";
 import { runSetupLink } from "./social/setupLink";
 import { LiveLink } from "./live";
-import { MusicPlayer } from "./study/music";
+import { MusicPlayer, type PlayItem } from "./study/music";
 import { Spotify } from "./study/spotify";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
@@ -877,6 +877,18 @@ export default class SGPlugin extends Plugin {
       remoteCount: (p) => this.vaultSync.remoteCount(p),
       scene: (id) => { if (id) this.scenes.apply(id); else this.applyConfiguredScene(); },
       sceneCurrent: () => this.scenes.current(),
+      playFiles: async (items) => {
+        const queue: PlayItem[] = [];
+        for (const it of items) {
+          if (!(await this.ensureLocal(it.path))) continue;
+          const f = this.app.vault.getAbstractFileByPath(it.path);
+          if (!(f instanceof TFile)) continue;
+          queue.push({ id: `file:${it.path}`, title: it.title, sub: it.sub, url: this.app.vault.getResourcePath(f),
+            searchQuery: it.title, open: it.open });
+        }
+        if (!queue.length) { new Notice("That recording isn't reachable right now."); return; }
+        this.music.play(queue, 0);
+      },
       lastChapter: () => this.state.device.lastChapter,
       recentChapters: () => this.state.device.recentChapters ?? [],
       groupActivity: async () => {

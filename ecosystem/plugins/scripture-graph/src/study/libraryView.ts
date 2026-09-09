@@ -17,7 +17,14 @@ import { cascade, iconHue, navIcon, type NavIconName } from "./navIcons";
 import { LIBRARY_SECTIONS, VOLUMES, titleForChapterSlug, type NavigatorHost } from "./navigator";
 import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } from "./search";
 import { AddSongModal, songsOn } from "./addSong";
-import { FamilyTree, loadTree, monthDay, type TreeNode } from "./familyTree";
+import { FamilyTree, loadTree, monthDay, relationLabel, type TreeNode } from "./familyTree";
+
+interface StoryRow {
+  id: string; title: string; words: number; chapters: number; grade: number; kind: string; themes: string[];
+  hook: string; why: string; scripture: string; page: string; minutes: number;
+  people: { pid: string; n: string; b?: string | null }[];
+  audio?: { telling?: string; kids?: string; full?: string }; audioChapters?: string[];
+}
 import { BUNDLED_COVERS } from "../assets/covers";
 import { BUILD } from "../build";
 
@@ -758,6 +765,8 @@ export class SGLibraryView extends ItemView {
     this.renderContinue(c.createDiv({ cls: "sg-continue-slot" }));
     // 🌳 This week in your family — birthdays and anniversaries of your ancestors
     void this.renderFamilyWeek(c.createDiv({ cls: "sg-famweek-slot" }));
+    // 📖 A story from your family — one a day, the best ones first
+    void this.renderFamilyStory(c.createDiv({ cls: "sg-famstory-slot" }));
     // ✦ Did you notice? — one deep, faith-building connection a day
     void this.renderInsight(c.createDiv({ cls: "sg-insight-slot" }));
     // what the family is studying — quiet rows
@@ -790,6 +799,71 @@ export class SGLibraryView extends ItemView {
     col.createDiv({ cls: "sg-nav-gsub", text: "Scriptures, conference, history, topics, music" });
     browse.createSpan({ cls: "sg-nav-chev", text: "›" });
     browse.onclick = () => this.go({ kind: "scriptures" });
+  }
+
+  /** one story a day from the family shelf: the highest grades first, the
+   * ones not heard lately ahead of the rest, a birthday this week ahead of
+   * everything. Listen (the telling, the whole story) or read. */
+  private async renderFamilyStory(slot: HTMLElement): Promise<void> {
+    const f = this.app.metadataCache.getFirstLinkpathDest("Family Stories", "");
+    if (!f) { slot.remove(); return; }
+    let data: { stories: StoryRow[] } | null = null;
+    try {
+      const raw = await this.app.vault.cachedRead(f);
+      const m = /```json\s*([\s\S]*?)```/.exec(raw);
+      data = m ? (JSON.parse(m[1]!) as { stories: StoryRow[] }) : null;
+    } catch { data = null; }
+    if (!data?.stories?.length || !slot.isConnected) { slot.remove(); return; }
+    const heard = new Set(((this.s.device as { storiesHeard?: string[] }).storiesHeard ?? []).slice(-60));
+    const tree = await loadTree(this.app).catch(() => null);
+    const today = new Date();
+    const md = (d: string | undefined) => monthDay(d);
+    const thisWeek = new Set<string>();
+    if (tree) {
+      for (const [pid, n] of Object.entries(tree.people)) {
+        const b = md(n.bf);
+        if (b && Math.abs((new Date(today.getFullYear(), b.m - 1, b.d).getTime() - today.getTime()) / 86_400_000) <= 3) thisWeek.add(pid);
+      }
+    }
+    // the day's pick: deterministic for the day, weighted by grade, freshness, the week
+    const day = Math.floor(today.getTime() / 86_400_000);
+    const score = (r: StoryRow, i: number) => (r.grade || 0) * 10 + (heard.has(r.id) ? -25 : 0)
+      + (r.people.some(p => thisWeek.has(p.pid)) ? 30 : 0) + (r.audio?.telling ? 4 : 0) + ((day * 7 + i * 13) % 9);
+    const ranked = data.stories.filter(r => r.grade >= 3).map((r, i) => [score(r, i), r] as const).sort((a, b) => b[0] - a[0]);
+    const pick = ranked[0]?.[1] ?? data.stories[0]!;
+    const who = pick.people.map(p => p.n).join(" & ");
+    const rel = tree ? relationLabel(tree, tree.roots[0]!.pid, pick.people[0]!.pid) : { kin: "", path: "" };
+    const card = slot.createDiv({ cls: "sg-cfm sg-famstory" });
+    card.createDiv({ cls: "sg-cfm-eyebrow", text: "A story from your family" });
+    card.createDiv({ cls: "sg-famstory-who", text: rel.kin && rel.kin !== "you" ? `${who} · ${rel.kin}` : who });
+    card.createDiv({ cls: "sg-cfm-title", text: pick.title });
+    if (pick.hook) card.createDiv({ cls: "sg-famstory-hook", text: pick.hook });
+    const meta = [pick.grade ? "★".repeat(pick.grade) : "", `${pick.minutes} min read`].filter(Boolean).join(" · ");
+    card.createDiv({ cls: "sg-famstory-meta", text: meta });
+    const chips = card.createDiv({ cls: "sg-cfm-chips" });
+    const markHeard = async () => {
+      const d = this.s.device as { storiesHeard?: string[] };
+      d.storiesHeard = [...(d.storiesHeard ?? []).filter(x => x !== pick.id), pick.id].slice(-200);
+      await this.s.saveDevice();
+    };
+    const openPage = () => { void markHeard(); this.host.openNote(pick.page); };
+    if (pick.audio?.telling && this.host.playFiles) {
+      const b = chips.createEl("button", { cls: "sg-cfm-chip", text: "🎧 Listen · 5 min" });
+      b.onclick = () => { void markHeard(); void this.host.playFiles!([{ path: pick.audio!.telling!, title: pick.title, sub: `${who} · the telling`, open: openPage }]); };
+    }
+    const fullTracks = pick.audio?.full ? [pick.audio.full] : pick.audioChapters ?? [];
+    if (fullTracks.length && this.host.playFiles) {
+      const b = chips.createEl("button", { cls: "sg-cfm-chip", text: fullTracks.length > 1 ? `🎧 Whole story · ${fullTracks.length} chapters` : "🎧 Whole story" });
+      b.onclick = () => { void markHeard(); void this.host.playFiles!(fullTracks.map((p, i) => ({ path: p, title: fullTracks.length > 1 ? `${pick.title} — chapter ${i + 1}` : pick.title, sub: who, open: openPage }))); };
+    }
+    if (pick.audio?.kids && this.host.playFiles) {
+      const b = chips.createEl("button", { cls: "sg-cfm-chip", text: "🧒 For the kids" });
+      b.onclick = () => { void markHeard(); void this.host.playFiles!([{ path: pick.audio!.kids!, title: pick.title, sub: `${who} · for children`, open: openPage }]); };
+    }
+    const read = chips.createEl("button", { cls: "sg-cfm-chip", text: "📖 Read" });
+    read.onclick = openPage;
+    const more = chips.createEl("button", { cls: "sg-cfm-chip sg-famstory-more", text: "Another ›" });
+    more.onclick = async () => { await markHeard(); slot.empty(); void this.renderFamilyStory(slot); };
   }
 
   /** ancestors whose birthday or anniversary falls this week, from the
